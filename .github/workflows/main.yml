@@ -9,7 +9,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 6 * * *'  # 06:00 UTC = 08:00 CEST
+    - cron: '*/5 * * * *'  # co 5 minut
 
 jobs:
   run-bot:
