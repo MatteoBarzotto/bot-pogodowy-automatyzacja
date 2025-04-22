@@ -1,1 +1,510 @@
-[]
+[
+  {
+    "timestamp": "2025-04-22 20:38:24",
+    "date": "2025-04-22",
+    "time": "20:38:24",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342191,
+      "ETHEREUM": 6371.2,
+      "RIPPLE": 8.09,
+      "LITECOIN": 311.08,
+      "DOGECOIN": 0.643742
+    },
+    "indices": {}
+  },
+  {
+    "timestamp": "2025-04-22 20:44:03",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342379,
+      "ETHEREUM": 6376.64,
+      "RIPPLE": 8.1,
+      "LITECOIN": 311.24,
+      "DOGECOIN": 0.644753
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Radykalne zaostrzenie kar. Władze reagują po pożarze w Biebrzańskim Parku Narodowym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hjMTBlY1dhc2c5RDRJSmNFLWpxdVc1SG5SYjlKSURpZUpndTlzc3ZCVEhoU0F1ZnhCZDlibWZxSEVLSG9EZkI0LTRQaThiMi03bi1FWkw3c0RLbjJsVjlOX2N0MTNWZnN0Y1NvQkV5eUNvc0hlTFpjLUFlMFNlcjJBOTBuRndXRzZ4VVY4NmhtbXZwRW5odHFXZVpON1ZrQUVEUG44T3IyeXRuMVQ5QnJaWE5DWnFQSUR4aUFXbFMybTJKdzhKMXZR?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:44:35",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342379,
+      "ETHEREUM": 6376.64,
+      "RIPPLE": 8.1,
+      "LITECOIN": 311.24,
+      "DOGECOIN": 0.644753
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Radykalne zaostrzenie kar. Władze reagują po pożarze w Biebrzańskim Parku Narodowym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hjMTBlY1dhc2c5RDRJSmNFLWpxdVc1SG5SYjlKSURpZUpndTlzc3ZCVEhoU0F1ZnhCZDlibWZxSEVLSG9EZkI0LTRQaThiMi03bi1FWkw3c0RLbjJsVjlOX2N0MTNWZnN0Y1NvQkV5eUNvc0hlTFpjLUFlMFNlcjJBOTBuRndXRzZ4VVY4NmhtbXZwRW5odHFXZVpON1ZrQUVEUG44T3IyeXRuMVQ5QnJaWE5DWnFQSUR4aUFXbFMybTJKdzhKMXZR?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:45:35",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342684,
+      "ETHEREUM": 6381.32,
+      "RIPPLE": 8.11,
+      "LITECOIN": 311.38,
+      "DOGECOIN": 0.645241
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Radykalne zaostrzenie kar. Władze reagują po pożarze w Biebrzańskim Parku Narodowym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hjMTBlY1dhc2c5RDRJSmNFLWpxdVc1SG5SYjlKSURpZUpndTlzc3ZCVEhoU0F1ZnhCZDlibWZxSEVLSG9EZkI0LTRQaThiMi03bi1FWkw3c0RLbjJsVjlOX2N0MTNWZnN0Y1NvQkV5eUNvc0hlTFpjLUFlMFNlcjJBOTBuRndXRzZ4VVY4NmhtbXZwRW5odHFXZVpON1ZrQUVEUG44T3IyeXRuMVQ5QnJaWE5DWnFQSUR4aUFXbFMybTJKdzhKMXZR?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:49:09",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342815,
+      "ETHEREUM": 6384.85,
+      "RIPPLE": 8.11,
+      "LITECOIN": 311.28,
+      "DOGECOIN": 0.64512
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Radykalne zaostrzenie kar. Władze reagują po pożarze w Biebrzańskim Parku Narodowym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hjMTBlY1dhc2c5RDRJSmNFLWpxdVc1SG5SYjlKSURpZUpndTlzc3ZCVEhoU0F1ZnhCZDlibWZxSEVLSG9EZkI0LTRQaThiMi03bi1FWkw3c0RLbjJsVjlOX2N0MTNWZnN0Y1NvQkV5eUNvc0hlTFpjLUFlMFNlcjJBOTBuRndXRzZ4VVY4NmhtbXZwRW5odHFXZVpON1ZrQUVEUG44T3IyeXRuMVQ5QnJaWE5DWnFQSUR4aUFXbFMybTJKdzhKMXZR?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:50:19",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342710,
+      "ETHEREUM": 6384.42,
+      "RIPPLE": 8.1,
+      "LITECOIN": 311.26,
+      "DOGECOIN": 0.644919
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Radykalne zaostrzenie kar. Władze reagują po pożarze w Biebrzańskim Parku Narodowym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hjMTBlY1dhc2c5RDRJSmNFLWpxdVc1SG5SYjlKSURpZUpndTlzc3ZCVEhoU0F1ZnhCZDlibWZxSEVLSG9EZkI0LTRQaThiMi03bi1FWkw3c0RLbjJsVjlOX2N0MTNWZnN0Y1NvQkV5eUNvc0hlTFpjLUFlMFNlcjJBOTBuRndXRzZ4VVY4NmhtbXZwRW5odHFXZVpON1ZrQUVEUG44T3IyeXRuMVQ5QnJaWE5DWnFQSUR4aUFXbFMybTJKdzhKMXZR?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:51:30",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 342754,
+      "ETHEREUM": 6385.93,
+      "RIPPLE": 8.11,
+      "LITECOIN": 311.33,
+      "DOGECOIN": 0.645133
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Radykalne zaostrzenie kar. Władze reagują po pożarze w Biebrzańskim Parku Narodowym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3hjMTBlY1dhc2c5RDRJSmNFLWpxdVc1SG5SYjlKSURpZUpndTlzc3ZCVEhoU0F1ZnhCZDlibWZxSEVLSG9EZkI0LTRQaThiMi03bi1FWkw3c0RLbjJsVjlOX2N0MTNWZnN0Y1NvQkV5eUNvc0hlTFpjLUFlMFNlcjJBOTBuRndXRzZ4VVY4NmhtbXZwRW5odHFXZVpON1ZrQUVEUG44T3IyeXRuMVQ5QnJaWE5DWnFQSUR4aUFXbFMybTJKdzhKMXZR?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:58:09",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 343270,
+      "ETHEREUM": 6394.68,
+      "RIPPLE": 8.11,
+      "LITECOIN": 311.91,
+      "DOGECOIN": 0.646306
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      },
+      {
+        "title": "Ukraina będzie bezpośrednio rozmawiać z Rosją? Władimir Putin otwarty na negocjacje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FzWi1oUWhGLWZOMkluYlYtMnpGbUVWSnFjR1k5amtubENfd0U3VnNfeFMzcUdiLVBNUlBqRGl1U0NIdTdWUG5EU0x1YkFTVllLYWs3dDJvdEpJSmU1VlJmbnowdkZhT3NlSXFXMGdoYk5BSmJRRHU5RG9zNlVjTXFQRkh2Q1hLWFFfc1Q2Q1lSMnNTQzNIa29ScC00VXFlZS05Zks4LTZ6M293bmNhTEYzMUJrTDRjZmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:58:57",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 343270,
+      "ETHEREUM": 6394.68,
+      "RIPPLE": 8.11,
+      "LITECOIN": 311.91,
+      "DOGECOIN": 0.646306
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      },
+      {
+        "title": "Ukraina będzie bezpośrednio rozmawiać z Rosją? Władimir Putin otwarty na negocjacje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FzWi1oUWhGLWZOMkluYlYtMnpGbUVWSnFjR1k5amtubENfd0U3VnNfeFMzcUdiLVBNUlBqRGl1U0NIdTdWUG5EU0x1YkFTVllLYWs3dDJvdEpJSmU1VlJmbnowdkZhT3NlSXFXMGdoYk5BSmJRRHU5RG9zNlVjTXFQRkh2Q1hLWFFfc1Q2Q1lSMnNTQzNIa29ScC00VXFlZS05Zks4LTZ6M293bmNhTEYzMUJrTDRjZmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 20:59:51",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 343303,
+      "ETHEREUM": 6395.12,
+      "RIPPLE": 8.11,
+      "LITECOIN": 312.02,
+      "DOGECOIN": 0.646293
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      },
+      {
+        "title": "Ukraina będzie bezpośrednio rozmawiać z Rosją? Władimir Putin otwarty na negocjacje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FzWi1oUWhGLWZOMkluYlYtMnpGbUVWSnFjR1k5amtubENfd0U3VnNfeFMzcUdiLVBNUlBqRGl1U0NIdTdWUG5EU0x1YkFTVllLYWs3dDJvdEpJSmU1VlJmbnowdkZhT3NlSXFXMGdoYk5BSmJRRHU5RG9zNlVjTXFQRkh2Q1hLWFFfc1Q2Q1lSMnNTQzNIa29ScC00VXFlZS05Zks4LTZ6M293bmNhTEYzMUJrTDRjZmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-22 21:00:44",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.722,
+      "EUR": 4.2801,
+      "GBP": 4.9824,
+      "CHF": 4.5919,
+      "JPY": 0.026487,
+      "AUD": 2.3851,
+      "CAD": 2.6936,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 343303,
+      "ETHEREUM": 6395.12,
+      "RIPPLE": 8.11,
+      "LITECOIN": 312.02,
+      "DOGECOIN": 0.646293
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Nieoczekiwana propozycja Władimira Putina. Chodzi o zatrzymanie inwazji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcV90eTBwYTVrejYxZjZIN09lUmJDZVdqSnNfMjkyZFNsOUxpNktsc0ljOC1kV2g4LS1WSWFveVoyUzVabS1jMkxUeUhBRWtEZkVoeWJ0bml1VUZ6UDlCVXFFMmFObER5QlRCeHI0NkpPSk1oZ2xqUVBfQlNuYWprcXNYZnBmNFlIaWtFb21zaHNkY3pTOTFzb3dzMl9zTzZZSHQ2OUZfQUV1Vnd3TG9VZFdLMEkzUV84ODlQVTRLa04yZEtpN1pNWmtUbjdndw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ogłasza żałobę narodową po śmierci papieża - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5RYWVLYm0tY1dzeG1iODlmZXVWUEdrZjVKMENBQnduOGRHY25BTm1IVFk1R0RqT1g1d1NYemJkUjg4MGQzUVZnMXAzZkVvRzRZOGJoNmVDdHFILThzTUptR0dIYVQ5cWxhMFk5UWNiZGJnbTF1ZTlxM1RpOEtmNzRZbjY3NnpNb1V3QzRxLVVSWXRTMEUxSW5Nc2VUbnJ1QVFlN0ZGWTc?oc=5"
+      },
+      {
+        "title": "Polski kardynał z ważną rolą po śmierci papieża. Został wylosowany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2tpcFRZU1MyTmZKSFdoMEtIT2xEQXVPUHM5VnZhb3F0VTB6VWxEb2pYdUJBLWpROUZ2RkFzRmVZalpUenJfR1d6V3hod1FHcXkzc3VPNjlsTm1BRGFvQ2JReXZrRlYtUE9FRm5vSzRhS2tHU3Z2b0hodkxsVXRDekMyMGVReF9EZGh5WURhMUtwbTZ2OTVoQVZKUm96c25jM0V5N01LTWdyVzVKXzJmSWRHZ1EwV2haXzVtSS1VNF9mNnc2Q0EwYWJGYw?oc=5"
+      },
+      {
+        "title": "Ostatnie słowa papieża? Watykańskie media ujawniają - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQem5qRnM4VUVFUWxxX1QtUlBSN2p0NUI1MVktREVJOHBUNmdtcUJLWEV0anIwa3g4cWI2cDBVUWNHbU1wLThzSjIwU0VScndnTjVZRFo4bUQ2aEoyM1pHY0lYdmx3dllzMmNFYW45aGZtbzlFTEdrNGZkZmtWOW5CMEN5QzFqa2JvOU4wRmptVnNpY2YxQl9HY2lHaHp5V2RMTVRoV1BiNTRFUk1XUEY4OWlOZ2ViS0tCOG1XbUlpenRWSEdDQ3lmR0pR0gGWAUFVX3lxTFBLVU1rblRwMkFpNU84U2hpRUs3SjBwRl9ISXN2MGFwamdjeXk0RGRqanFSWGRrVkJNVGpHeTJiMklSTGhkYU9YelJYV1Q4OXAyWjJnWl9SLW50VXZYSEpDb2h0U3VzU0ZVZWRiTjdaVTM5Nzc3T3pGYlpyMUNlZnBoUEY2NjdkUktGdzJ4cnlrMDhfY3NJUQ?oc=5"
+      },
+      {
+        "title": "Ukraina będzie bezpośrednio rozmawiać z Rosją? Władimir Putin otwarty na negocjacje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FzWi1oUWhGLWZOMkluYlYtMnpGbUVWSnFjR1k5amtubENfd0U3VnNfeFMzcUdiLVBNUlBqRGl1U0NIdTdWUG5EU0x1YkFTVllLYWs3dDJvdEpJSmU1VlJmbnowdkZhT3NlSXFXMGdoYk5BSmJRRHU5RG9zNlVjTXFQRkh2Q1hLWFFfc1Q2Q1lSMnNTQzNIa29ScC00VXFlZS05Zks4LTZ6M293bmNhTEYzMUJrTDRjZmc?oc=5"
+      }
+    ]
+  }
+]
