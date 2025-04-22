@@ -25,9 +25,10 @@ OUTPUT_HTML  = Path("index.html")
 # ─── FUNKCJE ───────────────────────────────────────────────────────────────────
 
 def fetch_weather(city_code):
-    # format=%l:+%t zwraca "City: +XX°C"
-    resp = requests.get(f"https://wttr.in/{city_code}?format=%l:+%t")
+    # ?m = metric (°C), format=%l:+%t → "Miasto: +XX°C"
+    resp = requests.get(f"https://wttr.in/{city_code}?m&format=%l:+%t")
     return resp.text.strip()
+
 
 def fetch_rates():
     rates = {}
