@@ -1,5 +1,10 @@
 name: Bot Pogodowy
 
+permissions:
+  contents: write   # zezwala na push plików
+  pages: write      # zezwala na publikację stron
+  id-token: write   # potrzebne, jeśli robimy auth OIDC (opcjonalnie)
+
 on:
   push:
     branches: [ main ]
