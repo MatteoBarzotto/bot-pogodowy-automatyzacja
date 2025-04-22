@@ -5,69 +5,38 @@
   <title>Dashboard bota</title>
   <style>
     body {
-      margin: 0;
-      padding: 0;
+      margin: 0; padding: 0;
       background: linear-gradient(to bottom, #a1c4fd, #c2e9fb);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #333;
+      font-family: 'Segoe UI', sans-serif; color: #333;
     }
     .container {
-      max-width: 800px;
-      margin: 40px auto;
+      max-width: 800px; margin: 40px auto;
       background: rgba(255,255,255,0.85);
-      padding: 20px 30px;
-      border-radius: 10px;
+      padding: 20px 30px; border-radius: 10px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
-    header {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    h1 {
-      margin: 0;
-      color: #2c3e50;
-      font-size: 2em;
-    }
-    h2 {
-      color: #34495e;
-      margin-top: 30px;
-      border-bottom: 2px solid #eee;
-      padding-bottom: 5px;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    li {
-      margin: 5px 0;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: left;
-      vertical-align: top;
-    }
-    th {
-      background-color: #2c3e50;
-      color: #fff;
-    }
-    tr:nth-child(even) {
-      background-color: #f9f9f9;
-    }
-    footer {
-      text-align: center;
-      margin-top: 30px;
-      font-size: 0.85em;
-      color: #555;
-    }
+    header { text-align: center; margin-bottom: 30px; }
+    h1 { margin:0; color:#2c3e50; font-size:2em; }
+    h2 { color:#34495e; margin-top:30px; border-bottom:2px solid #eee; padding-bottom:5px; }
+    ul { list-style:none; padding-left:0; }
+    li { margin:5px 0; }
+    table { width:100%; border-collapse:collapse; margin-top:20px; }
+    th,td { border:1px solid #ddd; padding:8px; text-align:left; vertical-align:top; }
+    th { background-color:#2c3e50; color:#fff; }
+    tr:nth-child(even) { background-color:#f9f9f9; }
+    #map { height:300px; margin-top:20px; }
+    #toggle-dark { position:fixed; top:10px; right:10px; padding:8px; border:none; background:#2c3e50; color:#fff; border-radius:4px; cursor:pointer; }
+    body.dark { background:#222; color:#ddd; }
+    body.dark .container { background:rgba(0,0,0,0.8); }
+    body.dark th { background-color:#444; }
+    body.dark tr:nth-child(even) { background-color:#333; }
   </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 <body>
+  <button id="toggle-dark">🌓</button>
   <div class="container">
     <header>
       <h1>Dashboard bota</h1>
@@ -76,12 +45,17 @@
 
     <h2>Pogoda</h2>
     <ul>
-      <li><strong>Warsaw:</strong> Warsaw: ☁️   +21°C</li><li><strong>Kraków:</strong> Krakow: 🌦   +21°C</li><li><strong>Gdańsk:</strong> Gdansk: ⛅️  +12°C</li>
+      <li><strong>Warsaw:</strong> Warsaw: ☁️   +71°F</li>
+<li><strong>Kraków:</strong> Krakow: 🌦   +70°F</li>
+<li><strong>Gdańsk:</strong> Gdansk: ⛅️  +54°F</li>
+
     </ul>
 
     <h2>Kursy walut (PLN → ...)</h2>
     <ul>
-      <li><strong>USD:</strong> 3.72</li><li><strong>EUR:</strong> 4.28</li>
+      <li><strong>USD:</strong> 3.72</li>
+<li><strong>EUR:</strong> 4.28</li>
+
     </ul>
 
     <h2>Indeksy giełdowe</h2>
@@ -89,18 +63,80 @@
       
     </ul>
 
+    <h2>Mapa miast</h2>
+    <div id="map"></div>
+
+    <h2>Wykres temperatury</h2>
+    <canvas id="chart-temp" height="200"></canvas>
+
+    <h2>Wykres kursów walut</h2>
+    <canvas id="chart-rates" height="200"></canvas>
+
     <h2>Historia (max 7 dni)</h2>
     <table>
-      <tr>
-        <th>Data</th><th>Pogoda</th><th>Kursy</th><th>Indeksy</th>
-      </tr>
-      <tr><td>2025-04-22</td><td>Warsaw: ☁️   +21°C<br>Krakow: 🌦   +21°C<br>Gdansk: ⛅️  +12°C</td><td>USD: 3.72 | EUR: 4.28</td><td></td></tr>
+      <tr><th>Data</th><th>Pogoda</th><th>Kursy</th><th>Indeksy</th></tr>
+      <tr><td>2025-04-22</td><td>Warsaw: ☁️   +71°F<br>Krakow: 🌦   +70°F<br>Gdansk: ⛅️  +54°F</td><td>USD: 3.72 | EUR: 4.28</td><td></td></tr>
 
     </table>
 
     <footer>
-      Strona wygenerowana automatycznie: 2025-04-22 15:57 UTC
+      Strona wygenerowana automatycznie: 2025-04-22 16:08 UTC
     </footer>
   </div>
+
+  <script>
+    // Dark mode toggle
+    const btn = document.getElementById('toggle-dark');
+    btn.onclick = () => {
+      document.body.classList.toggle('dark');
+      localStorage.setItem('dark', document.body.classList.contains('dark'));
+    };
+    if (localStorage.getItem('dark') === 'true') {
+      document.body.classList.add('dark');
+    }
+
+    // Dane dla JS
+    const history = [{"date": "2025-04-22", "weather": {"Warsaw": "Warsaw: ☁️   +71°F", "Kraków": "Krakow: 🌦   +70°F", "Gdańsk": "Gdansk: ⛅️  +54°F"}, "rates": {"USD": 3.722, "EUR": 4.2801}, "indices": {}}];
+    const todayData = {"date": "2025-04-22", "weather": {"Warsaw": "Warsaw: ☁️   +71°F", "Kraków": "Krakow: 🌦   +70°F", "Gdańsk": "Gdansk: ⛅️  +54°F"}, "rates": {"USD": 3.722, "EUR": 4.2801}, "indices": {}};
+
+    // Chart.js – temperatura
+    const labels = history.map(d => d.date);
+    const datasetsTemp = Object.keys(todayData.weather).map(city => ({
+      label: city,
+      data: history.map(d => parseInt(d.weather[city].match(/[-+]\d+/)[0])),
+      fill: false,
+      tension: 0.3
+    }));
+    new Chart(
+      document.getElementById('chart-temp'),
+      { type: 'line', data: { labels, datasets: datasetsTemp } }
+    );
+
+    // Chart.js – kursy walut
+    const datasetsRates = Object.keys(todayData.rates).map(cur => ({
+      label: cur,
+      data: history.map(d => d.rates[cur] || null),
+      fill: false,
+      tension: 0.3
+    }));
+    new Chart(
+      document.getElementById('chart-rates'),
+      { type: 'line', data: { labels, datasets: datasetsRates } }
+    );
+
+    // Leaflet – mapa miast
+    const map = L.map('map').setView([52.23, 21.01], 6);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18
+    }).addTo(map);
+    const coords = {
+      "Warsaw": [52.23, 21.01],
+      "Kraków": [50.06, 19.94],
+      "Gdańsk": [54.35, 18.65]
+    };
+    Object.entries(coords).forEach(([city, c]) => {
+      L.marker(c).addTo(map).bindPopup(`<strong>${city}:</strong> ${todayData.weather[city]}`);
+    });
+  </script>
 </body>
 </html>
