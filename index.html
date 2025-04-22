@@ -1,63 +1,55 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-<meta charset="utf-8"><title>Dashboard bota</title>
-<style>
-  body{margin:0;padding:0;background:#eef4fc;font-family:sans-serif;color:#333}
-  .container{max-width:900px;margin:30px auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1)}
-  h1,h2{color:#2c3e50}
-  h2{margin-top:30px;border-bottom:1px solid #ddd;padding-bottom:5px}
-  ul{padding:0;list-style:none}
-  li{margin:4px 0}
-  table{width:100%;border-collapse:collapse;margin-top:15px}
-  th,td{border:1px solid #ccc;padding:6px;text-align:center}
-  th{background:#2c3e50;color:#fff}
-  tr:nth-child(even){background:#f9f9f9}
-  #map{height:250px;margin-top:20px}
-  #toggle-dark{
-    position:fixed;top:10px;right:10px;padding:6px 10px;
-    background:#2c3e50;color:#fff;border:none;border-radius:4px;cursor:pointer
-  }
-  body.dark{background:#333;color:#ddd}
-  body.dark .container{background:#444}
-  body.dark th{background:#555}
-  body.dark tr:nth-child(even){background:#444}
-  #city-input{
-    width:200px;padding:5px;border:1px solid #ccc;border-radius:4px;
-    margin-right:6px;
-  }
-</style>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard bota</title>
+  <style>
+    html, body { margin:0; padding:0; background:#eef4fc; font-family:'Segoe UI',sans-serif; color:#333; }
+    .container { max-width:900px; margin:30px auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
+    h1,h2 { color:#2c3e50; }
+    h2 { margin-top:30px; border-bottom:1px solid #ddd; padding-bottom:5px; }
+    ul { padding:0; list-style:none; }
+    li { margin:4px 0; }
+    table { width:100%; border-collapse:collapse; margin-top:15px; }
+    th, td { border:1px solid #ccc; padding:6px; text-align:center; }
+    th { background:#2c3e50; color:#fff; }
+    tr:nth-child(even) { background:#f9f9f9; }
+    #toggle-dark { position:fixed; top:10px; right:10px; padding:6px 10px; background:#2c3e50; color:#fff; border:none; border-radius:4px; cursor:pointer; z-index:1; }
+    #city-input { padding:5px; border:1px solid #ccc; border-radius:4px; width:200px; }
+    button#city-btn { padding:6px 10px; border:none; border-radius:4px; background:#2c3e50; color:#fff; cursor:pointer; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 <body>
-<button id="toggle-dark">🌓</button>
-<div class="container">
-  <h1>Dashboard bota</h1>
-  <p><em>Aktualne dane (2025-04-22)</em></p>
+  <button id="toggle-dark">🌓</button>
+  <div class="container">
+    <h1>Dashboard bota</h1>
+    <p><em>Ostatni pomiar: 2025-04-22 17:06:58 UTC</em></p>
 
-  <h2>Pogoda</h2>
-  <ul><li><strong>Warsaw:</strong> Warsaw: ☁️   +21°C</li>
+    <h2>Pogoda</h2>
+    <ul><li><strong>Warsaw:</strong> Warsaw: ☁️   +21°C</li>
 <li><strong>Kraków:</strong> Krakow: 🌦   +21°C</li>
-<li><strong>Gdańsk:</strong> Gdansk: ⛅️  +12°C</li>
+<li><strong>Gdańsk:</strong> Gdansk: ☀️   +13°C</li>
 </ul>
 
-  <h2>Kursy walut (PLN → ...)</h2>
-  <ul><li><strong>USD:</strong> 3.72 PLN</li>
-<li><strong>EUR:</strong> 4.28 PLN</li>
-<li><strong>GBP:</strong> 4.98 PLN</li>
-<li><strong>CHF:</strong> 4.59 PLN</li>
-<li><strong>JPY:</strong> 0.03 PLN</li>
-<li><strong>AUD:</strong> 2.39 PLN</li>
-<li><strong>CAD:</strong> 2.69 PLN</li>
-<li><strong>CNY:</strong> 0.51 PLN</li>
+    <h2>Kursy walut</h2>
+    <ul><li><strong>USD:</strong> 3.72 PLN</li>
+<li><strong>EUR:</strong> 4.28 PLN</li>
+<li><strong>GBP:</strong> 4.98 PLN</li>
+<li><strong>CHF:</strong> 4.59 PLN</li>
+<li><strong>JPY:</strong> 0.03 PLN</li>
+<li><strong>AUD:</strong> 2.39 PLN</li>
+<li><strong>CAD:</strong> 2.69 PLN</li>
+<li><strong>CNY:</strong> 0.51 PLN</li>
 </ul>
 
-  <h2>Tablica przeliczeń walut</h2>
-  <table>
-    <tr><th></th><th>USD</th><th>EUR</th><th>GBP</th><th>CHF</th><th>JPY</th><th>AUD</th><th>CAD</th><th>CNY</th></tr>
-    <tr><th>USD</th><td>1.0000</td><td>0.8696</td><td>0.7470</td><td>0.8106</td><td>140.5218</td><td>1.5605</td><td>1.3818</td><td>7.3138</td></tr>
+    <h2>Tablica przeliczeń</h2>
+    <table>
+      <tr><th></th><th>USD</th><th>EUR</th><th>GBP</th><th>CHF</th><th>JPY</th><th>AUD</th><th>CAD</th><th>CNY</th></tr>
+      <tr><th>USD</th><td>1.0000</td><td>0.8696</td><td>0.7470</td><td>0.8106</td><td>140.5218</td><td>1.5605</td><td>1.3818</td><td>7.3138</td></tr>
 <tr><th>EUR</th><td>1.1499</td><td>1.0000</td><td>0.8590</td><td>0.9321</td><td>161.5925</td><td>1.7945</td><td>1.5890</td><td>8.4105</td></tr>
 <tr><th>GBP</th><td>1.3386</td><td>1.1641</td><td>1.0000</td><td>1.0850</td><td>188.1074</td><td>2.0890</td><td>1.8497</td><td>9.7905</td></tr>
 <tr><th>CHF</th><td>1.2337</td><td>1.0728</td><td>0.9216</td><td>1.0000</td><td>173.3643</td><td>1.9252</td><td>1.7047</td><td>9.0232</td></tr>
@@ -66,92 +58,78 @@
 <tr><th>CAD</th><td>0.7237</td><td>0.6293</td><td>0.5406</td><td>0.5866</td><td>101.6952</td><td>1.1293</td><td>1.0000</td><td>5.2930</td></tr>
 <tr><th>CNY</th><td>0.1367</td><td>0.1189</td><td>0.1021</td><td>0.1108</td><td>19.2132</td><td>0.2134</td><td>0.1889</td><td>1.0000</td></tr>
 
-  </table>
+    </table>
 
-  <h2>Indeksy giełdowe</h2>
-  <ul></ul>
+    <h2>Indeksy</h2>
+    <ul></ul>
 
-  <h2>Sprawdź pogodę dla swojej miejscowości</h2>
-  <input id="city-input" placeholder="Wpisz miasto"/><button id="city-btn">Sprawdź</button>
-  <p id="city-weather"></p>
+    <h2>Sprawdź pogodę</h2>
+    <input id="city-input" placeholder="miasto"/><button id="city-btn">Sprawdź</button>
+    <p id="city-weather"></p>
 
-  <h2>Mapa miast</h2>
-  <div id="map"></div>
+    <h2>Mapa</h2>
+    <div id="map" style="height:250px; margin-top:10px;"></div>
 
-  <h2>Wykresy historii (7 dni)</h2>
-  <canvas id="chart-temp" height="150"></canvas>
-  <canvas id="chart-rates" height="150" style="margin-top:20px;"></canvas>
+    <h2>Wykresy historii (7 dni)</h2>
+    <canvas id="chart-temp" height="150"></canvas>
+    <canvas id="chart-rates" height="150" style="margin-top:20px;"></canvas>
 
-  <h2>Historia (max 7 dni)</h2>
-  <table>
-    <tr><th>Data</th><th>Pogoda</th><th>Kursy</th><th>Indeksy</th></tr>
-    <tr><td>2025-04-22</td><td>Warsaw: ☁️   +21°C<br>Krakow: 🌦   +21°C<br>Gdansk: ⛅️  +12°C</td><td>USD: 3.72 | EUR: 4.28 | GBP: 4.98 | CHF: 4.59 | JPY: 0.03 | AUD: 2.39 | CAD: 2.69 | CNY: 0.51</td><td></td></tr>
+    <h2>Historia pomiarów co 5 minut</h2>
+    <table>
+      <tr><th>Data</th><th>Godzina</th><th>Pogoda</th><th>Kursy</th><th>Indeksy</th></tr>
+      <tr><td>2025-04-22</td><td></td><td>Warsaw: ☁️   +21°C<br>Krakow: 🌦   +21°C<br>Gdansk: ☀️   +13°C</td><td>USD: 3.72 | EUR: 4.28 | GBP: 4.98 | CHF: 4.59 | JPY: 0.03 | AUD: 2.39 | CAD: 2.69 | CNY: 0.51</td><td></td></tr>
+<tr><td>2025-04-22</td><td>17:06:58 UTC</td><td>Warsaw: ☁️   +21°C<br>Krakow: 🌦   +21°C<br>Gdansk: ☀️   +13°C</td><td>USD: 3.72 | EUR: 4.28 | GBP: 4.98 | CHF: 4.59 | JPY: 0.03 | AUD: 2.39 | CAD: 2.69 | CNY: 0.51</td><td></td></tr>
 
-  </table>
+    </table>
+  </div>
 
-  <footer style="text-align:center;margin-top:20px;font-size:0.9em;color:#666">
-    Strona wygenerowana: 2025-04-22 16:13 UTC
-  </footer>
-</div>
+  <script>
+    // Dark mode
+    const btn = document.getElementById('toggle-dark');
+    btn.onclick = () => { document.body.classList.toggle('dark'); localStorage.setItem('dark', document.body.classList.contains('dark')); };
+    if (localStorage.getItem('dark') === 'true') { document.body.classList.add('dark'); }
 
-<script>
-  // dark mode
-  const btn = document.getElementById('toggle-dark');
-  btn.onclick = () => {
-    document.body.classList.toggle('dark');
-    localStorage.dark = document.body.classList.contains('dark');
-  };
-  if(localStorage.dark==='true') document.body.classList.add('dark');
+    // Pogoda
+    document.getElementById('city-btn').onclick = async () => {
+      const c = document.getElementById('city-input').value || 'Warsaw';
+      const r = await fetch(`https://wttr.in/${c}?format=3`);
+      document.getElementById('city-weather').textContent = await r.text();
+    };
 
-  // user‐input pogoda
-  document.getElementById('city-btn').onclick = async () => {
-    const city = document.getElementById('city-input').value || 'Warsaw';
-    const res  = await fetch(`https://wttr.in/${city}?format=3`);
-    document.getElementById('city-weather').textContent = await res.text();
-  };
+    // Mapa
+    const map = L.map('map').setView([52.23,21.01],6);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{ maxZoom:18 }).addTo(map);
+    const coords = {"Warsaw": [52.23, 21.01], "Krak\u00f3w": [50.06, 19.94], "Gda\u0144sk": [54.35, 18.65]};
+    Object.entries(coords).forEach(([city, c]) => { 
+      L.marker(c).addTo(map)
+       .bindPopup(`<strong>${city}:</strong> ${today_rates=0}`);
+    });
 
-  // mapka
-  const map = L.map('map').setView([52.23,21.01],6);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:18}).addTo(map);
-
-  const coords = {"Warsaw": [52.23, 21.01], "Krak\u00f3w": [50.06, 19.94], "Gda\u0144sk": [54.35, 18.65]};
-  Object.entries(coords).forEach(([city,c]) => {
-    L.marker(c).addTo(map).bindPopup(`<strong>${city}:</strong> ${today_json.weather[city]||''}`);
-  });
-
-  // wykresy
-  const history = [{"date": "2025-04-22", "weather": {"Warsaw": "Warsaw: ☁️   +21°C", "Kraków": "Krakow: 🌦   +21°C", "Gdańsk": "Gdansk: ⛅️  +12°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}}], todayData = {"date": "2025-04-22", "weather": {"Warsaw": "Warsaw: ☁️   +21°C", "Kraków": "Krakow: 🌦   +21°C", "Gdańsk": "Gdansk: ⛅️  +12°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}};
-  const labels = history.map(d=>d.date);
-  // temp
-  new Chart(
-    document.getElementById('chart-temp'),
-    {
-      type:'line',
-      data:{
+    // Wykresy
+    const history = [{"date": "2025-04-22", "weather": {"Warsaw": "Warsaw: ☁️   +21°C", "Kraków": "Krakow: 🌦   +21°C", "Gdańsk": "Gdansk: ☀️   +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}}, {"timestamp": "2025-04-22 17:06:58 UTC", "date": "2025-04-22", "time": "17:06:58 UTC", "weather": {"Warsaw": "Warsaw: ☁️   +21°C", "Kraków": "Krakow: 🌦   +21°C", "Gdańsk": "Gdansk: ☀️   +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}}], today = {"timestamp": "2025-04-22 17:06:58 UTC", "date": "2025-04-22", "time": "17:06:58 UTC", "weather": {"Warsaw": "Warsaw: ☁️   +21°C", "Kraków": "Krakow: 🌦   +21°C", "Gdańsk": "Gdansk: ☀️   +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}};
+    const labels = history.slice(-7).map(d => d.timestamp);
+    new Chart(document.getElementById('chart-temp'), {
+      type: 'line',
+      data: {
         labels,
-        datasets: Object.keys(todayData.weather).map(c=>({
-          label:c,
-          data:history.map(d=>parseInt(d.weather[c].match(/[-+]\d+/)[0])),
-          fill:false, tension:0.3
+        datasets: Object.keys(today.weather).map(c => ({
+          label: c,
+          data: history.slice(-7).map(d => parseInt(d.weather[c].match(/[-+]\d+/)[0])),
+          fill: false, tension: 0.3
         }))
       }
-    }
-  );
-  // kursy
-  new Chart(
-    document.getElementById('chart-rates'),
-    {
-      type:'line',
-      data:{
+    });
+    new Chart(document.getElementById('chart-rates'), {
+      type: 'line',
+      data: {
         labels,
-        datasets: Object.keys(todayData.rates).map(c=>({
-          label:c,
-          data:history.map(d=>d.rates[c]||null),
-          fill:false, tension:0.3
+        datasets: Object.keys(today.rates).map(c => ({
+          label: c,
+          data: history.slice(-7).map(d => d.rates[c] || null),
+          fill: false, tension: 0.3
         }))
       }
-    }
-  );
-</script>
+    });
+  </script>
 </body>
 </html>
