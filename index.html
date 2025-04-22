@@ -27,7 +27,7 @@
   <button id="toggle-dark">🌓</button>
   <div class="container">
     <h1>Dashboard bota</h1>
-    <p><em>Ostatni pomiar: 2025-04-22 17:39:21</em></p>
+    <p><em>Ostatni pomiar: 2025-04-22 17:47:48</em></p>
 
     <h2>Pogoda</h2>
     <ul><li><strong>Warsaw:</strong> Warsaw: +19°C</li>
@@ -77,7 +77,7 @@
     <h2>Historia pomiarów co 5 minut</h2>
     <table>
       <tr><th>Data</th><th>Godzina</th><th>Pogoda</th><th>Kursy</th><th>Indeksy</th></tr>
-      <tr><td>2025-04-22</td><td>17:39:21</td><td>Warsaw: +19°C<br>Krakow: +20°C<br>Gdansk: +13°C</td><td>USD: 3.72 | EUR: 4.28 | GBP: 4.98 | CHF: 4.59 | JPY: 0.03 | AUD: 2.39 | CAD: 2.69 | CNY: 0.51</td><td></td></tr>
+      <tr><td>2025-04-22</td><td>17:47:48</td><td>Warsaw: +19°C<br>Krakow: +20°C<br>Gdansk: +13°C</td><td>USD: 3.72 | EUR: 4.28 | GBP: 4.98 | CHF: 4.59 | JPY: 0.03 | AUD: 2.39 | CAD: 2.69 | CNY: 0.51</td><td></td></tr>
 
     </table>
   </div>
@@ -98,7 +98,7 @@
     // Map
     const map = L.map('map').setView([52.23,21.01],6);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{ maxZoom:18 }).addTo(map);
-    const today = {"timestamp": "2025-04-22 17:39:21", "date": "2025-04-22", "time": "17:39:21", "weather": {"Warsaw": "Warsaw: +19°C", "Kraków": "Krakow: +20°C", "Gdańsk": "Gdansk: +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}};
+    const today = {"timestamp": "2025-04-22 17:47:48", "date": "2025-04-22", "time": "17:47:48", "weather": {"Warsaw": "Warsaw: +19°C", "Kraków": "Krakow: +20°C", "Gdańsk": "Gdansk: +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}};
     const coords = {"Warsaw": [52.23, 21.01], "Krak\u00f3w": [50.06, 19.94], "Gda\u0144sk": [54.35, 18.65]};
     Object.entries(coords).forEach(([city,c]) => { 
       L.marker(c).addTo(map)
@@ -106,7 +106,7 @@
     });
 
     // Charts with history
-    const history = [{"timestamp": "2025-04-22 17:39:21", "date": "2025-04-22", "time": "17:39:21", "weather": {"Warsaw": "Warsaw: +19°C", "Kraków": "Krakow: +20°C", "Gdańsk": "Gdansk: +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}}];
+    const history = [{"timestamp": "2025-04-22 17:47:48", "date": "2025-04-22", "time": "17:47:48", "weather": {"Warsaw": "Warsaw: +19°C", "Kraków": "Krakow: +20°C", "Gdańsk": "Gdansk: +13°C"}, "rates": {"USD": 3.722, "EUR": 4.2801, "GBP": 4.9824, "CHF": 4.5919, "JPY": 0.026487, "AUD": 2.3851, "CAD": 2.6936, "CNY": 0.5089}, "indices": {}}];
     const labels = history.map(d => d.timestamp);
     const tempDatasets = Object.keys(history[0].weather).map(city => ({
       label: city,
