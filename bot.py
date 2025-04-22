@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
 
 # ─── USTAWIENIA ───────────────────────────────────────────────────────────────
@@ -25,21 +25,20 @@ OUTPUT_HTML  = Path("index.html")
 # ─── FUNKCJE ───────────────────────────────────────────────────────────────────
 
 def fetch_weather(city_code):
-    resp = requests.get(f"https://wttr.in/{city_code}?format=3")
+    # format=%l:+%t zwraca "City: +XX°C"
+    resp = requests.get(f"https://wttr.in/{city_code}?format=%l:+%t")
     return resp.text.strip()
 
 def fetch_rates():
     rates = {}
     for cur in CURRENCY_PAIRS:
         resp = requests.get(f"http://api.nbp.pl/api/exchangerates/rates/a/{cur}/?format=json")
-        if resp.status_code != 200:
-            print(f"⚠️ HTTP {resp.status_code} przy pobieraniu kursu {cur}")
-            continue
-        try:
-            data = resp.json()
-            rates[cur] = data["rates"][0]["mid"]
-        except Exception as e:
-            print(f"⚠️ Błąd parsowania kursu {cur}:", e)
+        if resp.status_code == 200:
+            try:
+                data = resp.json()
+                rates[cur] = data["rates"][0]["mid"]
+            except:
+                pass
     return rates
 
 def fetch_indices():
@@ -49,31 +48,33 @@ def fetch_indices():
             timeout=5
         )
         if resp.status_code != 200:
-            print(f"⚠️ HTTP {resp.status_code} przy pobieraniu indeksów")
             return {}
-        data = resp.json()
-    except Exception as e:
-        print("⚠️ Błąd przy pobieraniu indeksów:", e)
+        data = resp.json().get("quoteResponse", {}).get("result", [])
+        return {
+            q["symbol"]: q["regularMarketPrice"]
+            for q in data
+            if q.get("symbol") and q.get("regularMarketPrice") is not None
+        }
+    except:
         return {}
-    qr = data.get("quoteResponse", {})
-    results = qr.get("result", [])
-    return {
-        q["symbol"]: q["regularMarketPrice"]
-        for q in results
-        if q.get("symbol") and q.get("regularMarketPrice") is not None
-    }
 
 # ─── HISTORIA ─────────────────────────────────────────────────────────────────
 
-try:
-    history = requests.get(GITHUB_RAW_URL, timeout=5).json()
-except Exception:
+# Jeśli istnieje lokalny plik history.json, odczytaj go,
+# w przeciwnym razie zacznij od pustej listy.
+if HISTORY_FILE.exists():
+    try:
+        history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        history = []
+else:
     history = []
 
-now = datetime.now(timezone.utc)
-timestamp = now.strftime("%Y-%m-%d %H:%M:%S UTC")
+
+now = datetime.now()  # lokalny czas systemowy (Polska)
+timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
 date_part = now.strftime("%Y-%m-%d")
-time_part = now.strftime("%H:%M:%S UTC")
+time_part = now.strftime("%H:%M:%S")
 
 entry = {
     "timestamp": timestamp,
@@ -102,33 +103,26 @@ indices_list = "".join(
     for idx, val in entry["indices"].items()
 )
 
-conversion = {}
-for a, ra in entry["rates"].items():
-    conversion[a] = {}
-    for b, rb in entry["rates"].items():
-        conversion[a][b] = ra / rb if rb else None
-
+conversion = {
+    a: {b: (ra / rb if rb else None)
+        for b, rb in entry["rates"].items()}
+    for a, ra in entry["rates"].items()
+}
 conv_header = "".join(f"<th>{c}</th>" for c in CURRENCY_PAIRS)
-conv_rows = ""
-for a in CURRENCY_PAIRS:
-    row = "".join(f"<td>{conversion[a][b]:.4f}</td>" for b in CURRENCY_PAIRS)
-    conv_rows += f"<tr><th>{a}</th>{row}</tr>\n"
+conv_rows = "".join(
+    f"<tr><th>{a}</th>" + "".join(f"<td>{conversion[a][b]:.4f}</td>" for b in CURRENCY_PAIRS) + "</tr>\n"
+    for a in CURRENCY_PAIRS
+)
 
 rows_history = ""
 for e in history:
     date = e.get("date", "")
     time = e.get("time", e.get("timestamp", "").split(" ")[1] if "timestamp" in e else "")
     we = "<br>".join(e["weather"].values())
-    rr = " | ".join(f"{k}: {v:.2f}" for k,v in e["rates"].items())
-    ii = " | ".join(f"{k}: {v:.2f}" for k,v in e["indices"].items())
+    rr = " | ".join(f"{k}: {v:.2f}" for k, v in e["rates"].items())
+    ii = " | ".join(f"{k}: {v:.2f}" for k, v in e["indices"].items())
     rows_history += (
-        f"<tr>"
-        f"<td>{date}</td>"
-        f"<td>{time}</td>"
-        f"<td>{we}</td>"
-        f"<td>{rr}</td>"
-        f"<td>{ii}</td>"
-        f"</tr>\n"
+        f"<tr><td>{date}</td><td>{time}</td><td>{we}</td><td>{rr}</td><td>{ii}</td></tr>\n"
     )
 
 history_json = json.dumps(history, ensure_ascii=False)
@@ -147,7 +141,7 @@ html_template = f"""<!DOCTYPE html>
     .container {{ max-width:900px; margin:30px auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); }}
     h1,h2 {{ color:#2c3e50; }}
     h2 {{ margin-top:30px; border-bottom:1px solid #ddd; padding-bottom:5px; }}
-    ul {{ padding:0; list-style:none; }}
+    ul {{ list-style:none; padding:0; }}
     li {{ margin:4px 0; }}
     table {{ width:100%; border-collapse:collapse; margin-top:15px; }}
     th, td {{ border:1px solid #ccc; padding:6px; text-align:center; }}
@@ -179,14 +173,14 @@ html_template = f"""<!DOCTYPE html>
       {conv_rows}
     </table>
 
-    <h2>Indeksy</h2>
+    <h2>Indeksy giełdowe</h2>
     <ul>{indices_list}</ul>
 
     <h2>Sprawdź pogodę</h2>
     <input id="city-input" placeholder="miasto"/><button id="city-btn">Sprawdź</button>
     <p id="city-weather"></p>
 
-    <h2>Mapa</h2>
+    <h2>Mapa miast</h2>
     <div id="map" style="height:250px; margin-top:10px;"></div>
 
     <h2>Wykresy historii (7 dni)</h2>
@@ -201,52 +195,43 @@ html_template = f"""<!DOCTYPE html>
   </div>
 
   <script>
-    // Dark mode
+    // Dark mode toggle
     const btn = document.getElementById('toggle-dark');
     btn.onclick = () => {{ document.body.classList.toggle('dark'); localStorage.setItem('dark', document.body.classList.contains('dark')); }};
     if (localStorage.getItem('dark') === 'true') {{ document.body.classList.add('dark'); }}
 
-    // Pogoda
+    // Custom city weather
     document.getElementById('city-btn').onclick = async () => {{
       const c = document.getElementById('city-input').value || 'Warsaw';
-      const r = await fetch(`https://wttr.in/${{c}}?format=3`);
+      const r = await fetch(`https://wttr.in/${{c}}?format=%l:+%t`);
       document.getElementById('city-weather').textContent = await r.text();
     }};
 
-    // Mapa
+    // Map
     const map = L.map('map').setView([52.23,21.01],6);
     L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png',{{ maxZoom:18 }}).addTo(map);
+    const today = {today_json};
     const coords = {json.dumps({"Warsaw":[52.23,21.01],"Kraków":[50.06,19.94],"Gdańsk":[54.35,18.65]})};
-    Object.entries(coords).forEach(([city, c]) => {{ 
+    Object.entries(coords).forEach(([city,c]) => {{ 
       L.marker(c).addTo(map)
-       .bindPopup(`<strong>${{city}}:</strong> ${{today_rates=0}}`);
+       .bindPopup(`<strong>${{city}}:</strong> ${{today.weather[city]}}`);
     }});
 
-    // Wykresy
-    const history = {history_json}, today = {today_json};
-    const labels = history.slice(-7).map(d => d.timestamp);
-    new Chart(document.getElementById('chart-temp'), {{
-      type: 'line',
-      data: {{
-        labels,
-        datasets: Object.keys(today.weather).map(c => ({{
-          label: c,
-          data: history.slice(-7).map(d => parseInt(d.weather[c].match(/[-+]\d+/)[0])),
-          fill: false, tension: 0.3
-        }}))
-      }}
-    }});
-    new Chart(document.getElementById('chart-rates'), {{
-      type: 'line',
-      data: {{
-        labels,
-        datasets: Object.keys(today.rates).map(c => ({{
-          label: c,
-          data: history.slice(-7).map(d => d.rates[c] || null),
-          fill: false, tension: 0.3
-        }}))
-      }}
-    }});
+    // Charts with history
+    const history = {history_json};
+    const labels = history.map(d => d.timestamp);
+    const tempDatasets = Object.keys(history[0].weather).map(city => ({{
+      label: city,
+      data: history.map(d => parseInt(d.weather[city].match(/[-+]\d+/)[0])),
+      fill: false, tension: 0.3
+    }}));
+    new Chart(document.getElementById('chart-temp'), {{ type:'line', data:{{ labels, datasets: tempDatasets }} }});
+    const rateDatasets = Object.keys(history[0].rates).map(cur => ({{
+      label: cur,
+      data: history.map(d => d.rates[cur] || null),
+      fill: false, tension: 0.3
+    }}));
+    new Chart(document.getElementById('chart-rates'), {{ type:'line', data:{{ labels, datasets: rateDatasets }} }});
   </script>
 </body>
 </html>
