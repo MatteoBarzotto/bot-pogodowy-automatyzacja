@@ -288,7 +288,7 @@
     ]
   },
   {
-    "timestamp": "2025-04-23 20:19:30",
+    "timestamp": "2025-04-23 21:10:40",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
       "Kraków": "Krakow: +19°C",
@@ -305,21 +305,17 @@
       "CNY": 0.5153
     },
     "crypto": {
-      "BITCOIN": 355946,
-      "DOGECOIN": 0.684246,
-      "ETHEREUM": 6832.16,
-      "LITECOIN": 318.0,
-      "RIPPLE": 8.5
+      "BITCOIN": 354161,
+      "DOGECOIN": 0.67997,
+      "ETHEREUM": 6797.04,
+      "LITECOIN": 315.11,
+      "RIPPLE": 8.41
     },
     "indices": {},
     "news": [
       {
         "title": "Tłumy pod bazyliką Świętego Piotra. Około 100 tys. osób chce oddać hołd papieżowi Franciszkowi - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVVrakZjZFZyUGMyd2FNUVJ1bmtlOHQwQ0FseTExeVFZRGN5RTNscHNjdUZoRm1aMU1ldEk0d3NKdHRjMl9sbFhsNEpaNVlDVkR4RDI2SkNIWHhqU28xWHRCN09KbU1DQ3pRVXh5MXhFdGh6d2ZKazFkaW14RW1CVmZBVll4LVhIVFdZcFBHbnJaenl6QlhSVGRBZVZDeVUyN3dVY2JJQXJGMThHeS1ESm1ycUZKa2p2YUhUN1h3UG5hQ1pNd2xjTw?oc=5"
-      },
-      {
-        "title": "Wiceprezydent USA Vance: Rosja i Ukraina będą musiały dokonać wymiany terytoriów - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzZXODkzLVBTU005Y2dKYkJjQkVNTFRiUXd1MF9Lb1ptdWU2Ni14VG5fN0FYVXdpZk1tUkQ0X0pwU3RRWUxKMmFDVk4yMnktREZ4bnpETDRkSjJyaTFDT2tqQjBzcllST3d4OGdTNEI0OHVSVXlJZmZLU015WlBxUk9PMTY4dWU2blZMV0ViblR4SGxkR1lDVm1qS1Z1N1RpdUYxVXh6LW1Ga3BUdURB?oc=5"
       },
       {
         "title": "Exposé Radosława Sikorskiego. O czym świadczy jego treść? - Rzeczpospolita",
@@ -330,8 +326,12 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjU4c1BteEVvbEFITG5VTnJhbnp6YkszbjlvV1JLWFBrckl0dXlFdUMzQmNwbkNfeWFlZXZIdE05SFNyYlJkUEppQlFZeDdDWnU2Ry16cFFSN0NxekFBc0ljVGRJLTVGVTVHaGtoMldJR2ozaFNHMkY5R09MRXlBcmJjaVlpX3Bid2VFbDdTRkJEdVlaWW1SU1RfZVlxWURkelZuN1Z2YmUtU0dadWNvV2U3Mmg?oc=5"
       },
       {
-        "title": "Obniżenie składki zdrowotnej dla przedsiębiorców. Senat zdecydował - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE01N0k1RnNSbHFMQi1IR2NEb2EyUldjdnZ4UWR4REg3OW1WM29iMU9SWVhQNGRGMlE4bGZlcWl5YjUzTkdtWFkzUXdrcURYd1BPSEtxSFRrS0I2VjktZzVtY28wYTNnemd1bk53ZW42VDUwWGFsZ1dpZC04REpOdi1xaTB4aTc1R2RySEpLVEpEMGNKRDJIZXpBaExyNlJiVVpkMmdqaW9yTVAwd28yU3pn?oc=5"
+        "title": "Wiceprezydent USA Vance: Rosja i Ukraina będą musiały dokonać wymiany terytoriów - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzZXODkzLVBTU005Y2dKYkJjQkVNTFRiUXd1MF9Lb1ptdWU2Ni14VG5fN0FYVXdpZk1tUkQ0X0pwU3RRWUxKMmFDVk4yMnktREZ4bnpETDRkSjJyaTFDT2tqQjBzcllST3d4OGdTNEI0OHVSVXlJZmZLU015WlBxUk9PMTY4dWU2blZMV0ViblR4SGxkR1lDVm1qS1Z1N1RpdUYxVXh6LW1Ga3BUdURB?oc=5"
+      },
+      {
+        "title": "Robert Sarah — prawica chce, by on został papieżem. Zauważył go Jan Paweł II - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUtMX2RlOUtnc0xSX0pZTGZoQUplSHl2UDlfVF9FRkVnRC1DdEhWTkVrU0FMeUx5TVZES2l1UlNtcjZzQVVFbkZxWERJbmZtTTdfS2wyekNtem9kRldQVWpSVmJzZGFQdngwcGc0STE1Nkx2LWZrbWczQl82TkVYb0dqRWwyWm1lV2oyQmk2ZGcyRDIzNlF0bkhkM3VVa1VURzVDTG0zQXRzWFd0M1E?oc=5"
       }
     ]
   }
