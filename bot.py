@@ -75,7 +75,7 @@ entry = {
 }
 
 history.append(entry)
-history = history[-7:]  # maks 7 pomiarów
+history = history[-50:]  # maks 7 pomiarów
 HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
 
 # ───── HTML ELEMENTY ─────
