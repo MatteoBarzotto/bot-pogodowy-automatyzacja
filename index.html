@@ -1,61 +1,78 @@
 <!DOCTYPE html>
-<html lang="pl"><head>
-<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Dashboard Bota</title>
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<style>
-body { font-family: 'Roboto', sans-serif; background:#f0f4f8; padding:20px; }
-.container { max-width:1000px; margin:auto; background:#fff; padding:30px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); }
-h1,h2 { color:#1e3a8a; }
-ul { padding:0; list-style:none; }
-li { background:#e2e8f0; padding:8px; margin:5px 0; border-radius:6px; }
-table { width:100%; border-collapse:collapse; margin-top:20px; }
-th,td { border:1px solid #cbd5e1; padding:6px; text-align:center; }
-th { background:#1e3a8a; color:white; }
-input,button { padding:8px; margin-top:10px; }
-</style>
-</head><body>
-<div class="container">
-<h1>📊 Dashboard Bota</h1>
-<p><b>Ostatni pomiar:</b> 2025-04-23 21:16:07</p>
+<html lang="pl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Dashboard Bota</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: 'Roboto', sans-serif; background:#f0f4f8; padding:20px; }
+    .container { max-width:1000px; margin:auto; background:#fff; padding:30px;
+                  border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.1); }
+    h1,h2 { color:#1e3a8a; }
+    ul { margin:0; padding:0; list-style:none; }
+    li { background:#e2e8f0; padding:8px; margin:5px 0; border-radius:6px; }
+    table { width:100%; border-collapse:collapse; margin-top:20px; }
+    th, td { border:1px solid #cbd5e1; padding:6px; text-align:center; }
+    th { background:#1e3a8a; color:#fff; }
+    input, button { padding:8px; margin-top:10px; }
+    canvas { margin-top:20px; background:#fff; border-radius:6px; padding:10px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📊 Dashboard Bota</h1>
+    <p><b>Ostatni pomiar:</b> 2025-04-23 21:51:15</p>
 
-<h2>🔍 Sprawdź pogodę w swoim mieście</h2>
-<input id="city" placeholder="Wpisz miasto"><button onclick="search()">Sprawdź</button>
-<p id="weather-result"></p>
+    <h2>🔍 Sprawdź pogodę</h2>
+    <input id="city" placeholder="Wpisz miasto"/><button onclick="search()">Sprawdź</button>
+    <p id="weather-result"></p>
 
-<h2>🌦️ Pogoda</h2><ul><li><b>Warsaw:</b> Warsaw: +20°C</li><li><b>Kraków:</b> Krakow: +19°C</li><li><b>Gdańsk:</b> Gdansk: +12°C</li></ul>
-<h2>💱 Waluty</h2><ul><li><b>USD:</b> 3.76 PLN</li><li><b>EUR:</b> 4.29 PLN</li><li><b>GBP:</b> 5.01 PLN</li><li><b>CHF:</b> 4.58 PLN</li><li><b>JPY:</b> 0.03 PLN</li><li><b>AUD:</b> 2.41 PLN</li><li><b>CAD:</b> 2.72 PLN</li><li><b>CNY:</b> 0.52 PLN</li></ul>
-<h2>💲 Kryptowaluty</h2><ul><li><b>BITCOIN:</b> 353833.00 PLN</li><li><b>DOGECOIN:</b> 0.68 PLN</li><li><b>ETHEREUM:</b> 6786.40 PLN</li><li><b>LITECOIN:</b> 314.73 PLN</li><li><b>RIPPLE:</b> 8.40 PLN</li></ul>
-<h2>📈 Indeksy</h2><ul></ul>
-<h2>📰 Wiadomości</h2><ul><li><a href='https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVVrakZjZFZyUGMyd2FNUVJ1bmtlOHQwQ0FseTExeVFZRGN5RTNscHNjdUZoRm1aMU1ldEk0d3NKdHRjMl9sbFhsNEpaNVlDVkR4RDI2SkNIWHhqU28xWHRCN09KbU1DQ3pRVXh5MXhFdGh6d2ZKazFkaW14RW1CVmZBVll4LVhIVFdZcFBHbnJaenl6QlhSVGRBZVZDeVUyN3dVY2JJQXJGMThHeS1ESm1ycUZKa2p2YUhUN1h3UG5hQ1pNd2xjTw?oc=5' target='_blank'>Tłumy pod bazyliką Świętego Piotra. Około 100 tys. osób chce oddać hołd papieżowi Franciszkowi - Onet</a></li><li><a href='https://news.google.com/rss/articles/CBMivgFBVV95cUxONDlTelpxUnVzekhTX09ydDV4U1ZBTGNaNjJ4alBwSDZ1Y1dMYk5nQURaVmxnNTBrMFlKMDljMHhnVTZFdDdRVjZPdlVrSFBCSm5UZS1jQ3NnTE1uZkxtMmFfS0tIckJRd00wWlNYUHJaeldmajFUTkFZWlhGeUV4SEhYR1I0ZlVNcXVkckNzamlkUXN0VlRDVlpJQVM3bG9wLWlaXzc1OHRtYkZZZTZtREdFMGw0YVJqWFJaeU9n?oc=5' target='_blank'>Exposé Radosława Sikorskiego. O czym świadczy jego treść? - Rzeczpospolita</a></li><li><a href='https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE01N0k1RnNSbHFMQi1IR2NEb2EyUldjdnZ4UWR4REg3OW1WM29iMU9SWVhQNGRGMlE4bGZlcWl5YjUzTkdtWFkzUXdrcURYd1BPSEtxSFRrS0I2VjktZzVtY28wYTNnemd1bk53ZW42VDUwWGFsZ1dpZC04REpOdi1xaTB4aTc1R2RySEpLVEpEMGNKRDJIZXpBaExyNlJiVVpkMmdqaW9yTVAwd28yU3pn?oc=5' target='_blank'>Obniżenie składki zdrowotnej dla przedsiębiorców. Senat zdecydował - Business Insider Polska</a></li><li><a href='https://news.google.com/rss/articles/CBMitAFBVV95cUxONjU4c1BteEVvbEFITG5VTnJhbnp6YkszbjlvV1JLWFBrckl0dXlFdUMzQmNwbkNfeWFlZXZIdE05SFNyYlJkUEppQlFZeDdDWnU2Ry16cFFSN0NxekFBc0ljVGRJLTVGVTVHaGtoMldJR2ozaFNHMkY5R09MRXlBcmJjaVlpX3Bid2VFbDdTRkJEdVlaWW1SU1RfZVlxWURkelZuN1Z2YmUtU0dadWNvV2U3Mmg?oc=5' target='_blank'>Sondaż jak zimny prysznic. Sztab Trzaskowskiego zaleca spokój. KO ma plan - WP Wiadomości</a></li><li><a href='https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzZXODkzLVBTU005Y2dKYkJjQkVNTFRiUXd1MF9Lb1ptdWU2Ni14VG5fN0FYVXdpZk1tUkQ0X0pwU3RRWUxKMmFDVk4yMnktREZ4bnpETDRkSjJyaTFDT2tqQjBzcllST3d4OGdTNEI0OHVSVXlJZmZLU015WlBxUk9PMTY4dWU2blZMV0ViblR4SGxkR1lDVm1qS1Z1N1RpdUYxVXh6LW1Ga3BUdURB?oc=5' target='_blank'>Wiceprezydent USA Vance: Rosja i Ukraina będą musiały dokonać wymiany terytoriów - Polska Agencja Prasowa SA</a></li></ul>
+    <h2>🌦️ Pogoda</h2><ul><li><b>Warsaw:</b> Warsaw: +20°C</li><li><b>Kraków:</b> Krakow: +19°C</li><li><b>Gdańsk:</b> Gdansk: +12°C</li></ul>
+    <h2>💱 Kursy walut</h2><ul><li><b>USD:</b> 3.76 PLN</li><li><b>EUR:</b> 4.29 PLN</li><li><b>GBP:</b> 5.01 PLN</li><li><b>CHF:</b> 4.58 PLN</li><li><b>JPY:</b> 0.03 PLN</li><li><b>AUD:</b> 2.41 PLN</li><li><b>CAD:</b> 2.72 PLN</li><li><b>CNY:</b> 0.52 PLN</li></ul>
+    <h2>💲 Kryptowaluty</h2><ul><li><b>BITCOIN:</b> 353695.00 PLN</li><li><b>DOGECOIN:</b> 0.68 PLN</li><li><b>ETHEREUM:</b> 6754.17 PLN</li><li><b>LITECOIN:</b> 314.04 PLN</li><li><b>RIPPLE:</b> 8.40 PLN</li></ul>
+    <h2>📈 Indeksy</h2><ul></ul>
+    <h2>📰 Wiadomości</h2><ul><li><a href='https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFJBTnc0cG1Db0lsYUVyMVBPS0o3dDhfdFoxejdvSVAxbzZGeHZITE14X2c5QldXTlM1VG5Ec243eHBVRzFrTW10YjFNTmIwcHBjZEQ3RjNrUjdNRVIxZGZ0NlZtcXJoTnlzRVZmTkpsYUNSaHRVUXRaa1BRbllzbTJVYkFIMENCTEdCOURja21qdzJmUElwblR4Nkx1NFlHcE9WblZrbWpQTGRGLWc?oc=5' target='_blank'>Hołownia chce sparinguz Trzaskowskim. "Żebyśmy byli gotowi" - Interia</a></li><li><a href='https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVVrakZjZFZyUGMyd2FNUVJ1bmtlOHQwQ0FseTExeVFZRGN5RTNscHNjdUZoRm1aMU1ldEk0d3NKdHRjMl9sbFhsNEpaNVlDVkR4RDI2SkNIWHhqU28xWHRCN09KbU1DQ3pRVXh5MXhFdGh6d2ZKazFkaW14RW1CVmZBVll4LVhIVFdZcFBHbnJaenl6QlhSVGRBZVZDeVUyN3dVY2JJQXJGMThHeS1ESm1ycUZKa2p2YUhUN1h3UG5hQ1pNd2xjTw?oc=5' target='_blank'>Tłumy pod bazyliką Świętego Piotra. Około 100 tys. osób chce oddać hołd papieżowi Franciszkowi - Onet</a></li><li><a href='https://news.google.com/rss/articles/CBMivgFBVV95cUxONDlTelpxUnVzekhTX09ydDV4U1ZBTGNaNjJ4alBwSDZ1Y1dMYk5nQURaVmxnNTBrMFlKMDljMHhnVTZFdDdRVjZPdlVrSFBCSm5UZS1jQ3NnTE1uZkxtMmFfS0tIckJRd00wWlNYUHJaeldmajFUTkFZWlhGeUV4SEhYR1I0ZlVNcXVkckNzamlkUXN0VlRDVlpJQVM3bG9wLWlaXzc1OHRtYkZZZTZtREdFMGw0YVJqWFJaeU9n?oc=5' target='_blank'>Exposé Radosława Sikorskiego. O czym świadczy jego treść? - Rzeczpospolita</a></li><li><a href='https://news.google.com/rss/articles/CBMitAFBVV95cUxNYktvMm5ibEZjQTQ4bTdrSVNYQmJvWmNQSURGQXlDM0FaQlpmeEN1VERubHJJZnMzcjBsYzF6TW8zYng2dTFlUjNrX0cxTFV0Q2lua2RHTGRMVUVKSEN3WnI1TWpkdFBORTVSbDgtMERXWXA1TlhTNzREVTNfY0VCeFBWNl9PbzhLS1lVT3FiQ1ZWQzhWMWxkV0lHMlpSR00wcE01VlkyWWc3QlJvQ0dKQkJrTEg?oc=5' target='_blank'>"To Ukraina musi zdecydować o swojej przyszłości". Wielka Brytania odpowiada Vance’owi - Business Insider Polska</a></li><li><a href='https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1FEV3FQV2dfejQxVUNuZmxOdEFNOGlKOXE5WHdCbVBZcmhRa1JXbTM2cWZ1R2RhbkMzWThtYVhjQV9TU2ZzaW4tTmhVWlljSGwxUjk3NXlFR3JkckpqcFVjM1J4VVRucUt2cGUwNTk3OFFldlljMzMzT2lkSzh6azY5S0hOdHNyTUdyQTB4SzY1RkhQSkdVT1hxcFhFeHV0T0lTbEZWVEEzdVd0WjJ6RjZNeXhwOUZDSUYyQW53?oc=5' target='_blank'>A jednak. Senat zdecydował ws. składki zdrowotnej - Money.pl</a></li></ul>
 
-<h2>📉 Wykres temperatur</h2>
-<canvas id="chart-temp" height="150"></canvas>
+    <h2>📉 Wykres temperatur</h2>
+    <canvas id="chart-temp" height="150"></canvas>
 
-<h2>💵 Wykres kursów walut</h2>
-<canvas id="chart-rates" height="150"></canvas>
+    <h2>💵 Wykres kursów walut</h2>
+    <canvas id="chart-rates" height="150"></canvas>
 
-<h2>🕒 Historia</h2>
-<table><tr><th>Czas</th><th>Pogoda</th><th>Kursy</th><th>Krypto</th><th>Indeksy</th></tr><tr><td>2025-04-23 21:10:20</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 354161.00 | DOGECOIN: 0.68 | ETHEREUM: 6797.04 | LITECOIN: 315.11 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:10:46</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 354161.00 | DOGECOIN: 0.68 | ETHEREUM: 6797.04 | LITECOIN: 315.11 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:10:58</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 354161.00 | DOGECOIN: 0.68 | ETHEREUM: 6797.04 | LITECOIN: 315.11 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:11:00</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 354161.00 | DOGECOIN: 0.68 | ETHEREUM: 6797.04 | LITECOIN: 315.11 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:11:18</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 354161.00 | DOGECOIN: 0.68 | ETHEREUM: 6797.04 | LITECOIN: 315.11 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:11:33</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 353921.00 | DOGECOIN: 0.68 | ETHEREUM: 6792.42 | LITECOIN: 314.92 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:11:52</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 353921.00 | DOGECOIN: 0.68 | ETHEREUM: 6792.42 | LITECOIN: 314.92 | RIPPLE: 8.41</td><td></td></tr><tr><td>2025-04-23 21:15:52</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 353833.00 | DOGECOIN: 0.68 | ETHEREUM: 6786.40 | LITECOIN: 314.73 | RIPPLE: 8.40</td><td></td></tr><tr><td>2025-04-23 21:16:07</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 353833.00 | DOGECOIN: 0.68 | ETHEREUM: 6786.40 | LITECOIN: 314.73 | RIPPLE: 8.40</td><td></td></tr></table>
-</div>
+    <h2>💹 Wykres kryptowalut</h2>
+    <canvas id="chart-crypto" height="150"></canvas>
 
-<script>
-function search() {
-  const city = document.getElementById('city').value;
-  fetch(`https://wttr.in/${city}?format=%l:+%t`).then(r => r.text()).then(d => {
-    document.getElementById('weather-result').textContent = d;
-  });
-}
+    <h2>🕒 Historia</h2>
+    <table>
+      <tr><th>Czas</th><th>Pogoda</th><th>Kursy</th><th>Crypto</th><th>Indeksy</th></tr>
+      <tr><td>2025-04-23 21:50:47</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 353695.00 | DOGECOIN: 0.68 | ETHEREUM: 6754.17 | LITECOIN: 314.04 | RIPPLE: 8.40</td><td></td></tr><tr><td>2025-04-23 21:51:15</td><td>Warsaw: +20°C<br>Krakow: +19°C<br>Gdansk: +12°C</td><td>USD: 3.76 | EUR: 4.29 | GBP: 5.01 | CHF: 4.58 | JPY: 0.03 | AUD: 2.41 | CAD: 2.72 | CNY: 0.52</td><td>BITCOIN: 353695.00 | DOGECOIN: 0.68 | ETHEREUM: 6754.17 | LITECOIN: 314.04 | RIPPLE: 8.40</td><td></td></tr>
+    </table>
+  </div>
 
-const labels = ["2025-04-23 21:10:20", "2025-04-23 21:10:46", "2025-04-23 21:10:58", "2025-04-23 21:11:00", "2025-04-23 21:11:18", "2025-04-23 21:11:33", "2025-04-23 21:11:52", "2025-04-23 21:15:52", "2025-04-23 21:16:07"];
-new Chart(document.getElementById('chart-temp'), {
-  type:'line',
-  data:{ labels, datasets: [{"label": "Warsaw", "data": [20, 20, 20, 20, 20, 20, 20, 20, 20], "fill": false, "tension": 0.3}, {"label": "Krak\u00f3w", "data": [19, 19, 19, 19, 19, 19, 19, 19, 19], "fill": false, "tension": 0.3}, {"label": "Gda\u0144sk", "data": [12, 12, 12, 12, 12, 12, 12, 12, 12], "fill": false, "tension": 0.3}] }
-});
-new Chart(document.getElementById('chart-rates'), {
-  type:'line',
-  data:{ labels, datasets: [{"label": "USD", "data": [3.7583, 3.7583, 3.7583, 3.7583, 3.7583, 3.7583, 3.7583, 3.7583, 3.7583], "fill": false, "tension": 0.3}, {"label": "EUR", "data": [4.2893, 4.2893, 4.2893, 4.2893, 4.2893, 4.2893, 4.2893, 4.2893, 4.2893], "fill": false, "tension": 0.3}, {"label": "GBP", "data": [5.0059, 5.0059, 5.0059, 5.0059, 5.0059, 5.0059, 5.0059, 5.0059, 5.0059], "fill": false, "tension": 0.3}, {"label": "CHF", "data": [4.575, 4.575, 4.575, 4.575, 4.575, 4.575, 4.575, 4.575, 4.575], "fill": false, "tension": 0.3}, {"label": "JPY", "data": [0.026516, 0.026516, 0.026516, 0.026516, 0.026516, 0.026516, 0.026516, 0.026516, 0.026516], "fill": false, "tension": 0.3}, {"label": "AUD", "data": [2.4096, 2.4096, 2.4096, 2.4096, 2.4096, 2.4096, 2.4096, 2.4096, 2.4096], "fill": false, "tension": 0.3}, {"label": "CAD", "data": [2.7213, 2.7213, 2.7213, 2.7213, 2.7213, 2.7213, 2.7213, 2.7213, 2.7213], "fill": false, "tension": 0.3}, {"label": "CNY", "data": [0.5153, 0.5153, 0.5153, 0.5153, 0.5153, 0.5153, 0.5153, 0.5153, 0.5153], "fill": false, "tension": 0.3}] }
-});
-</script>
-</body></html>
+  <script>
+    function search() {
+      const city = document.getElementById('city').value;
+      fetch(`https://wttr.in/${city}?format=%l:+%t`)
+        .then(r => r.text())
+        .then(d => document.getElementById('weather-result').textContent = d)
+        .catch(() => document.getElementById('weather-result').textContent = 'Błąd');
+    }
+
+    const labels = ["2025-04-23 21:50:47", "2025-04-23 21:51:15"];
+    new Chart(document.getElementById('chart-temp'), {
+      type: 'line',
+      data: { labels, datasets: [{"label": "Warsaw", "data": [20, 20], "fill": false, "tension": 0.3}, {"label": "Kraków", "data": [19, 19], "fill": false, "tension": 0.3}, {"label": "Gdańsk", "data": [12, 12], "fill": false, "tension": 0.3}] }
+    });
+    new Chart(document.getElementById('chart-rates'), {
+      type: 'line',
+      data: { labels, datasets: [{"label": "USD", "data": [3.7583, 3.7583], "fill": false, "tension": 0.3}, {"label": "EUR", "data": [4.2893, 4.2893], "fill": false, "tension": 0.3}, {"label": "GBP", "data": [5.0059, 5.0059], "fill": false, "tension": 0.3}, {"label": "CHF", "data": [4.575, 4.575], "fill": false, "tension": 0.3}, {"label": "JPY", "data": [0.026516, 0.026516], "fill": false, "tension": 0.3}, {"label": "AUD", "data": [2.4096, 2.4096], "fill": false, "tension": 0.3}, {"label": "CAD", "data": [2.7213, 2.7213], "fill": false, "tension": 0.3}, {"label": "CNY", "data": [0.5153, 0.5153], "fill": false, "tension": 0.3}] }
+    });
+    new Chart(document.getElementById('chart-crypto'), {
+      type: 'line',
+      data: { labels, datasets: [{"label": "BITCOIN", "data": [353695, 353695], "fill": false, "tension": 0.3}, {"label": "DOGECOIN", "data": [0.676703, 0.676703], "fill": false, "tension": 0.3}, {"label": "ETHEREUM", "data": [6754.17, 6754.17], "fill": false, "tension": 0.3}, {"label": "LITECOIN", "data": [314.04, 314.04], "fill": false, "tension": 0.3}, {"label": "RIPPLE", "data": [8.4, 8.4], "fill": false, "tension": 0.3}] }
+    });
+  </script>
+</body>
+</html>
