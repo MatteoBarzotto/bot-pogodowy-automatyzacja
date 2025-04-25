@@ -3,12 +3,13 @@ import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from pathlib import Path
+from bs4 import BeautifulSoup
 
 # ───── USTAWIENIA ─────
 CITIES       = {"Warsaw": "Warsaw", "Kraków": "Krakow", "Gdańsk": "Gdansk"}
 CURRENCY     = ["USD", "EUR", "GBP", "CHF", "JPY", "AUD", "CAD", "CNY"]
 CRYPTO       = ["bitcoin", "ethereum", "ripple", "litecoin", "dogecoin"]
-INDICES      = ["^WIG20", "^GSPC", "^DJI", "^IXIC", "^FTSE"]
+INDICES      = ["^GSPC", "^DJI", "^IXIC", "^FTSE"]
 NEWS_RSS     = "https://news.google.com/rss?hl=pl&gl=PL&ceid=PL:PL"
 HISTORY_FILE = Path("history.json")
 OUTPUT_HTML  = Path("index.html")
@@ -41,16 +42,56 @@ def fetch_crypto():
     except:
         return {}
 
-def fetch_indices():
+def fetch_index_price_from_gpw(index_names):
     try:
-        r = requests.get(
-            "https://query1.finance.yahoo.com/v7/finance/quote",
-            params={"symbols": ",".join(INDICES)}
-        )
-        results = r.json().get("quoteResponse", {}).get("result", [])
-        return {x["symbol"]: x["regularMarketPrice"] for x in results if "regularMarketPrice" in x}
-    except:
-        return {}
+        url = "https://www.bankier.pl/gielda/notowania/indeksy-gpw"
+        r = requests.get(url, timeout=5)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        # Find the table with indices
+        table = soup.find("table", {"class": "qTableFull"})
+        if not table:
+            table = soup.find("table", {"class": "qTable"})
+        if not table:
+            tables = soup.find_all("table")
+            if tables:
+                table = tables[0]
+        if not table:
+            print("ERROR: Could not find indices table on bankier.pl")
+            return None
+        # Find all rows
+        rows = table.find_all("tr")
+        for row in rows:
+            cols = row.find_all("td")
+            if len(cols) >= 2:
+                name = cols[0].text.strip()
+                if any(index_name in name for index_name in index_names):
+                    price_text = cols[1].text.strip()
+                    price_text = price_text.replace("\xa0", "").replace(",", ".")
+                    import re
+                    match = re.search(r"[\d\.]+", price_text)
+                    if match:
+                        price = float(match.group())
+                        return price
+        print(f"ERROR: Could not find any of {index_names} price in indices table")
+        return None
+    except Exception as e:
+        print(f"ERROR in fetch_index_price_from_gpw for {index_names}:", e)
+        return None
+
+def fetch_indices():
+    price_map = {}
+    indices_to_fetch = {
+        "^WIG20": ["WIG20"],
+        "^WIG30": ["WIG30"],
+        "^WIG": ["WIG"],
+        "^NCINDEX": ["NCIndex", "NC Index", "NC"]
+    }
+    for key, names in indices_to_fetch.items():
+        price = fetch_index_price_from_gpw(names)
+        if price is not None and price > 0:
+            price_map[key] = price
+    return price_map
 
 def fetch_news():
     try:
