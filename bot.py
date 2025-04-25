@@ -165,11 +165,17 @@ crypto_data   = [{
     "data": [h["crypto"].get(k) for h in history],
     "fill": False, "tension": 0.3
 } for k in entry["crypto"].keys()]
+indices_data = [{
+    "label": k,
+    "data": [h["indices"].get(k) for h in history],
+    "fill": False, "tension": 0.3
+} for k in entry["indices"].keys()]
 
 labels_js    = json.dumps(labels)
 weather_js   = json.dumps(weather_data, ensure_ascii=False)
 currency_js  = json.dumps(currency_data, ensure_ascii=False)
 crypto_js    = json.dumps(crypto_data, ensure_ascii=False)
+indices_js   = json.dumps(indices_data, ensure_ascii=False)
 
 # ───── GENERUJ HTML ─────
 html = f"""<!DOCTYPE html>
@@ -192,6 +198,8 @@ html = f"""<!DOCTYPE html>
     th {{ background:#1e3a8a; color:#fff; }}
     input, button {{ padding:8px; margin-top:10px; }}
     canvas {{ margin-top:20px; background:#fff; border-radius:6px; padding:10px; }}
+    .controls {{ margin-top: 10px; }}
+    .controls > * {{ margin-right: 10px; }}
   </style>
 </head>
 <body>
@@ -211,12 +219,35 @@ html = f"""<!DOCTYPE html>
 
     <h2>📉 Wykres temperatur</h2>
     <canvas id="chart-temp" height="150"></canvas>
+    <div class="controls" id="controls-temp">
+      <button onclick="zoomIn(chartTemp)">Zoom In</button>
+      <button onclick="zoomOut(chartTemp)">Zoom Out</button>
+      <input type="range" id="slider-temp" min="0" max="100" value="0" oninput="slideChart(chartTemp, this.value)" />
+    </div>
 
     <h2>💵 Wykres kursów walut</h2>
     <canvas id="chart-rates" height="150"></canvas>
+    <div class="controls" id="controls-rates">
+      <button onclick="zoomIn(chartRates)">Zoom In</button>
+      <button onclick="zoomOut(chartRates)">Zoom Out</button>
+      <input type="range" id="slider-rates" min="0" max="100" value="0" oninput="slideChart(chartRates, this.value)" />
+    </div>
 
     <h2>💹 Wykres kryptowalut</h2>
     <canvas id="chart-crypto" height="150"></canvas>
+    <div class="controls" id="controls-crypto">
+      <button onclick="zoomIn(chartCrypto)">Zoom In</button>
+      <button onclick="zoomOut(chartCrypto)">Zoom Out</button>
+      <input type="range" id="slider-crypto" min="0" max="100" value="0" oninput="slideChart(chartCrypto, this.value)" />
+    </div>
+
+    <h2>📊 Wykres indeksów</h2>
+    <canvas id="chart-indices" height="150"></canvas>
+    <div class="controls" id="controls-indices">
+      <button onclick="zoomIn(chartIndices)">Zoom In</button>
+      <button onclick="zoomOut(chartIndices)">Zoom Out</button>
+      <input type="range" id="slider-indices" min="0" max="100" value="0" oninput="slideChart(chartIndices, this.value)" />
+    </div>
 
     <h2>🕒 Historia</h2>
     <table>
@@ -248,21 +279,62 @@ html = f"""<!DOCTYPE html>
       }}
     }};
 
-    new Chart(document.getElementById('chart-temp'), {{
+    const chartTemp = new Chart(document.getElementById('chart-temp'), {{
       type: 'line',
       data: {{ labels, datasets: {weather_js} }},
       options: zoomOptions
     }});
-    new Chart(document.getElementById('chart-rates'), {{
+    const chartRates = new Chart(document.getElementById('chart-rates'), {{
       type: 'line',
       data: {{ labels, datasets: {currency_js} }},
       options: zoomOptions
     }});
-    new Chart(document.getElementById('chart-crypto'), {{
+    const chartCrypto = new Chart(document.getElementById('chart-crypto'), {{
       type: 'line',
       data: {{ labels, datasets: {crypto_js} }},
       options: zoomOptions
     }});
+    const chartIndices = new Chart(document.getElementById('chart-indices'), {{
+      type: 'line',
+      data: {{ labels, datasets: {indices_js} }},
+      options: zoomOptions
+    }});
+
+    function zoomIn(chart) {{
+      const zoomPlugin = chart.$zoom;
+      if (!zoomPlugin) return;
+      const range = chart.scales.x.max - chart.scales.x.min;
+      const center = (chart.scales.x.max + chart.scales.x.min) / 2;
+      const newRange = range / 1.2;
+      const min = center - newRange / 2;
+      const max = center + newRange / 2;
+      chart.options.scales.x.min = min;
+      chart.options.scales.x.max = max;
+      chart.update();
+    }}
+
+    function zoomOut(chart) {{
+      const range = chart.scales.x.max - chart.scales.x.min;
+      const center = (chart.scales.x.max + chart.scales.x.min) / 2;
+      const newRange = range * 1.2;
+      const min = center - newRange / 2;
+      const max = center + newRange / 2;
+      chart.options.scales.x.min = min;
+      chart.options.scales.x.max = max;
+      chart.update();
+    }}
+
+    function slideChart(chart, value) {{
+      const totalRange = chart.scales.x.max - chart.scales.x.min;
+      const visibleRange = chart.options.scales.x.max - chart.options.scales.x.min;
+      const maxPan = totalRange - visibleRange;
+      const panAmount = (value / 100) * maxPan;
+      const min = chart.options.scales.x.min + panAmount;
+      const max = chart.options.scales.x.max + panAmount;
+      chart.options.scales.x.min = min;
+      chart.options.scales.x.max = max;
+      chart.update();
+    }}
   </script>
 </body>
 </html>
