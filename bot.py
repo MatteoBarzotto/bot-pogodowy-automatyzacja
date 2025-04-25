@@ -73,12 +73,11 @@ else:
 now = datetime.now()
 timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
 
-# Zamiast walrusa, zrób to w dwóch krokach:
 weather_dict = {city: fetch_weather(code) for city, code in CITIES.items()}
 
 entry = {
     "timestamp": timestamp,
-    "weather": weather_dict,        # ← tutaj
+    "weather": weather_dict,
     "rates": fetch_rates(),
     "crypto": fetch_crypto(),
     "indices": fetch_indices(),
@@ -88,7 +87,6 @@ entry = {
 history.append(entry)
 history = history[-50:]
 HISTORY_FILE.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
-
 
 # ───── HTML ELEMENTY ─────
 weather_html = "".join(f"<li><b>{c}:</b> {w}</li>" for c, w in entry["weather"].items())
@@ -139,8 +137,8 @@ html = f"""<!DOCTYPE html>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Dashboard Bota</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.1.1/dist/chartjs-plugin-zoom.min.js"></script>
   <style>
     body {{ font-family: 'Roboto', sans-serif; background:#f0f4f8; padding:20px; }}
     .container {{ max-width:1000px; margin:auto; background:#fff; padding:30px;
@@ -196,17 +194,33 @@ html = f"""<!DOCTYPE html>
     }}
 
     const labels = {labels_js};
+    const zoomOptions = {{
+      plugins: {{
+        zoom: {{
+          pan: {{ enabled: true, mode: 'x' }},
+          zoom: {{
+            wheel: {{ enabled: true }},
+            pinch: {{ enabled: true }},
+            mode: 'x'
+          }}
+        }}
+      }}
+    }};
+
     new Chart(document.getElementById('chart-temp'), {{
       type: 'line',
-      data: {{ labels, datasets: {weather_js} }}
+      data: {{ labels, datasets: {weather_js} }},
+      options: zoomOptions
     }});
     new Chart(document.getElementById('chart-rates'), {{
       type: 'line',
-      data: {{ labels, datasets: {currency_js} }}
+      data: {{ labels, datasets: {currency_js} }},
+      options: zoomOptions
     }});
     new Chart(document.getElementById('chart-crypto'), {{
       type: 'line',
-      data: {{ labels, datasets: {crypto_js} }}
+      data: {{ labels, datasets: {crypto_js} }},
+      options: zoomOptions
     }});
   </script>
 </body>
