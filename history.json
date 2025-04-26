@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2025-04-24 19:12:01",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7599,
-      "EUR": 4.2789,
-      "GBP": 5.0011,
-      "CHF": 4.5484,
-      "JPY": 0.02636,
-      "AUD": 2.3975,
-      "CAD": 2.715,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 350401,
-      "DOGECOIN": 0.679984,
-      "ETHEREUM": 6649.12,
-      "LITECOIN": 313.4,
-      "RIPPLE": 8.31
-    },
-    "indices": {},
-    "news": [
-      {
-        "title": "Niemiecka prasa ostro o Trumpie. Pisze o jego \"duchowym bracie\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTFreWw0OFJ0VmNQczhXUVNKY1cxMHZrSExJNVNHR1EtRktXeFVwWDBPS0U0OVdabmxjV1dTdjNjbWstUEd4bWhDRlc0SmJCbExzWTM4QVhfRmRreVgxdWV1NnNzX2haQ0VlT2t0X3lZZjJqZkFhRnpRWEFlZGZDT21BU3Z5NTZUNHBwRGc3WVRseGRtWmVGTDZ6dEZNS1J6cHo5eVZFeVRYYzY0bHJQWVNSZlIyRThTTlFiQTE0eUF6RVIweWotNXROWQ?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski: Nie będziemy mówić Ukrainie, jakie kompromisy ma zawierać - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlJtclc0U0xGaDNqakctLWNhNHRhSl9rWTdpVkpmaUNyVzZVWXBSelBneFhpSWVvS2JNRzNxRm41dEhKZ0RQcnFrd284NzBVbG9GUEFiYWFubGJobHV1QWpqSGNFTk11ZGpsd2hlY2g0RUh0d3dmS1BHdkdWOVpnZXdyWU1TQXFxT3lpc0FLOVdqN3NtR1ZVWjFOdC1pYU9BOHJhY2p2VQ?oc=5"
-      },
-      {
-        "title": "Nadchodzi załamanie pogody. IMGW wydał ostrzeżenia - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHhvMjhmY0RqUThERjRoYXByNEd4MU1ya3lEeWNCaVlaVTdWNVZyR1pEb3MxRmhnZ29Wd3JJMGRDdFV0cmZCMjJLQU5QY3R2SHNVc1VGQmQ4dElkQ0Jma2ZLOXF0LVZ1b25aa2NtN0o3VnROOXY3NU9SbUlFMVFIQ0hqUXdWazFia1FGYnVSRno4VnhWV3U1Z01HeTFJWnlKbGZUeTdCQWJNVTczOUxNWE15OFdQb211X0tj?oc=5"
-      },
-      {
-        "title": "Ostre spięcie w Sejmie. Jarosław Kaczyński grzmiał z mównicy. \"Ten osobnik będzie miał procesy\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkpaV2hFTFBERy1ETW9XX0cyWVJDeGJzTDNhOEFEbm4xdW5JZjZvUHRqcTdMUi1ZTm53YU9nRHFoM2c4bjNKdzluTHA5ZFA2WktkbEdvb0VUbTV5cWpkeXFnZ285RG5VUnZVUTFObDQtSzNoUFE5THpPd0gwdjNwdENFcS1EMDR0a1ZESXJreEl5UmZxOWVxREhEal9Mc1hGSk1mc2RfZ2c2LXltUFNCUGdkQjRDX0xKWEQ4WEh4cFc?oc=5"
-      },
-      {
-        "title": "Nie zostanie pochowany w bazylice św. Piotra. Tajny grób papieża Franciszka - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2VRY2Y5NmpYdnptQWU3SDNkUFVBVS1hU2xyYlNnZ2JrNzZnM1BHVTJ5SnAzTmltaWk1UnBpdFlWeWpXSDl4VFdtM01iSjRTeTNxZkVMWTZOQ2t0TnY1SXNKZWtyOWxkdTF0eTJoZjZIUUNITi1CckxOMEhlRFltbGczM0RnQ0J6bExwdC1KU0xhdDl6SWdWUFZGX2hKS1FKOWdPRVBucU5seGxMNVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-24 20:18:20",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2516,6 +2468,59 @@
       {
         "title": "Donald Tusk zaprasza na koncert. \"Kogo tam nie będzie! - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlViNmhuOEcwMDBJZGhGODBsbWVpNGxtMTk2d1RDaHhYNl9XajdtTEdHbUU1MEcxWmFGbHZtc29SNnhvaGR6X21nVUd2STduQThLRURhem8xRWtMOS0zNlYxNmt4WWU4YmoxbG9RX0ludXVHeUUtQTh6OExFcENjb2JWbDdCTXJMRGNHRzlIZWxocFNSd3p5RC16blRCYUk3RHp6RXVuMzNjS3NicWVV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-26 09:11:53",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 355968,
+      "DOGECOIN": 0.703525,
+      "ETHEREUM": 6786.75,
+      "LITECOIN": 329.5,
+      "RIPPLE": 8.36
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Wołodymyr Zełenski \"nie ma wyboru\". Tak ma wyglądać pokój według Donalda Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnlnQ0FNUnBwSEhOSVNkWUp4dkpPOUlSN1lmaU4yQXF0QzhvU3NxYW9sVGFmUVZrUnNrVVVYdkwtWWNFcmFBRktRbkxrcnlEWmRTbWxXdTlIVEFlZGVZV0xmVDItVUZLa1FWUlFHd3lfNElmY3NTNHgzcWo1ZElvOHRyX0hsZnBldm9GZFpLNTUyb3dDWGRUdjRoZVlzdjVHblo2emRfZFlORklkR3hHRlExaFF5VEFkejRhWnVrSDJ3bENy?oc=5"
+      },
+      {
+        "title": "Andrzej Duda oburzony aborcją w Oleśnicy. \"W istocie to było zabójstwo\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOF90bXIySzkzY3hROERuT1ExRlR0bTF6S0Rabm1DV0xkTzF5OW12NEtrZGFLWjRJdzVkaVVTRm1FOWJ1OGF5NHpXZF95dzdIM3hVZnRyMllzQXJ1cGlvWnFJdS00SE9STGtYUE5jWFNtaEpKVzVieG9iSWU2bzZ4QzVLVGpZeWVSNjBEampJb28xbDcwZ1BNN2dEOENrbURRV3gyV1ZqekZ0OFJKM2ZlMA?oc=5"
+      },
+      {
+        "title": "Pogrzeb papieża Franciszka. W trumnie zamknięto tajemniczy dokument - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFFGYzB0SERveFF1YmFCRnN2OTB4bzRpcVRVYm82VDNyZHEwS2hhZDB1Z1l4b1RMY1M5VFhPNEJSN3Baay12cTQ2MFZUdjN1Q3hNWk9qVEVOWmEwQTJLTWRTcXZvUkJzSG9UVlpsVUpBUGtxdS1yMnBiWW1oNmlBcFFuR203R1ppRWVlRTF1dnN6dUE2djd4OGNyUE91akFGSWlLS1BlLUQ0b0lscXItd2lrVDY?oc=5"
+      },
+      {
+        "title": "Kardynał Matteo Zuppi żartuje o wyborze na papieża. „Nie opuszczę Bolonii” - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjh1RU85c3hWdWY3ejloNmtsd3BxVHplODdBOUw2TnNzbEw1Mnd4cW95UGY0RVVqa3Q1a1FKS0ZRVW5uVkZCeXNPa3c3RTR4WTZtdGR3R2NvN3p5cVJ0cGIzdFlHdG9kNXg3SXBNdC05b1RxdlpSODJlZmxnS01UamxRTE5KZDdBVV84dGxwSUs0MFJhY3Z0QjB4eWlNVDR0YlI4ZUoxNkhpMjFjVDNMQzhjZEVZdw?oc=5"
+      },
+      {
+        "title": "Państwo konia na patyku. Co planuje Donald Tusk na tysięczną rocznicę koronacji Chrobrego? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM1NCLW1Lb2FwZnBBanJ1aHBOcFp3UWJsbm1OalZILU9Tc3hyamtQVG91amZiaDdQOVhyZHJpZFRRMnFSUHJlRmE5cHlXcEdJV2UzWUo2Qmpza1c0YW9VUUNReEgwbEk4OVJCU3ZLUWZoN1Y4Zl9pbXpqeFVzVl9GV3RFNFdXWXAwbTU3Ml9ja0xLV1Znemx3MEdPS0VRRTZUQU1rbHI5TkM4VW9DSXpRYXJhWXkwVEZYM1BzU3hDbXlTQXNhaWU2UjZGYTliMlZGVUFGYy1hbEFzOG5uRmtIUi1vUWlBaXdkcmpieVd3?oc=5"
       }
     ]
   }
