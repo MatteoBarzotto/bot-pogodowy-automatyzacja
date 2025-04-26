@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2025-04-25 01:12:49",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.7599,
-      "EUR": 4.2789,
-      "GBP": 5.0011,
-      "CHF": 4.5484,
-      "JPY": 0.02636,
-      "AUD": 2.3975,
-      "CAD": 2.715,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 351298,
-      "DOGECOIN": 0.675876,
-      "ETHEREUM": 6626.11,
-      "LITECOIN": 315.62,
-      "RIPPLE": 8.25
-    },
-    "indices": {},
-    "news": [
-      {
-        "title": "Za pogrzeb papieża Franciszka zapłaci anonimowy darczyńca, nie Watykan - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUJQNlR6LTN3aTlUV3N0Q1lJeUdqSnpkMDVLTU1RSTFrRmlMa2dWdm5OaDVZT1hoSzlsNzd1QXpxOFVqMHBSWGNObEl4WWVvcHJ0R2xQcEtrc1llVjFJOVRHbU9RVmFrbUpOaEE1U0VzOTcwcjFWVWZDd3RpR3RhOTFLZ19CV1Q3emtoQkFVMVRPVUpDZjF1M0JuWjVwa3lMb0s4UzcyaWw3VmM2dWFYX1JkT2RNdGk2?oc=5"
-      },
-      {
-        "title": "Nawałnice na południu kraju. Zalane ulice i lokalne podtopienia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHV6WlZ2U2RoT01mcDdpTHVXWW1XYnFPcUdTbFJpTnp5M01HZ3BkREZhZTNBcHNGcUtQWXc0UjNBSGNSVkdHMWdCTUI0ZHhESG9uZTd3R2hXLXB2eG96eGMzR0E2amVfSFRWUmFyMzF1Y2R6RkpKd01RRy1BMjRyT2lTRUNXOHZqcU9rU3otcTVEU0tlbko2MFlEQXc3TC0yblRxOUUzWGM?oc=5"
-      },
-      {
-        "title": "Nietypowy apel Donalda Trumpa do Władimira Putina. \"Przestań!\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3dLRDI4VHhTUnkxUkwtREZMYkxFaHRFTmJZdjk4TGd1OXNIVkczOE9kbzZEM1g4akhZTDJVQV9ubWJyUEJfNi1QbG1xcmVCNlRIT2JmZ1RKRWFGb2JiMXNyTlR6TU5oQzVpRnNzR1hXN0hJYnA5blBOdmliUlFmcDltd1BMSmlvS3hnVDhrZ0hSOHlpbnc?oc=5"
-      },
-      {
-        "title": "Ruszyły ekshumacje w Ukrainie. \"Praca na dekady\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTdLUkNSQ1gxQ280YXMwRnRPRmxPSndCTF9aSmVBZnJpd1EyakdMRm1pdFFEZmtkRWV6VV9aal95eDRHYmozRkNYRTJyMjJ5blA3SmdwV29jWDhCTnJoSmJjanE2UFF2T0xEQ3JQcHdGNFJiVzROUFlZN3dIeTlxMmtpNGNPaVFNdlRjOEt6d201bWxMakdYaVpfUVF5NDRKV2lHdQ?oc=5"
-      },
-      {
-        "title": "Rząd mówi o oszustwach. Jest reakcja. \"Mamy zastawione nieruchomości\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXVrM29SekFxcmVqWnMybUNHNnR4d3JsbDVIdXNxTFlsNVdaYWNxak9oTjJhUTI2cEc3R25JZmdLY01RLThGTk50SGlJZ2JlcDB4bVpnOWtMWnZYNUxmLTRWcGJsNmtVU3lLNS05S3A0ODcxXzVodlpPOFpnY2Z0SXpwblZvVkVwTHJoTjdUUUFLejd5c3FhVTRUM2l4aDJVWC05OUNTRGR4TnpzekVHalJYUnB5OFZ1czIw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-25 03:05:19",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2542,6 +2494,59 @@
       {
         "title": "Potężna eksplozja w Iranie. Ponad 400 rannych po wybuchu w porcie - Onet",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWRVQnA4RUs2TlFsdDVPQW85eC1wb0I4T29uUzlfcGx6Qnl2Z0FPSXk5VXl6Um8zYWZveXdYakNZN01MclBxMUpyQjkwTDlSVmtBc1FURGNFMlROOC0yaWhYOHBBREJTVUdfZnBpajNCMzh0SHotU29HT0dONHZpY0gwWUxIcUhhcEhGZ2NrMGRMM0I2clhJbGltTldycUt2MC03dk42OXFrRXBfaVBtcTJKVTdZLU9LMmJiZzB2dE9CbTZIeXpUdGZGcw?oc=5"
+      },
+      {
+        "title": "W sobotę trwa żałoba narodowa. Oto podstawowe zasady - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUZEQ2tCOWp4SUV3MEdDMl9FMW93eUlDY21abF95Mk55R2EtZUpNVEVfN3VncG5lV3dsSDZRQy1oZXR5djRQdzdTOWw4S0RFcFJScUgwRy1LalVFeldidUtqaExkREFZRjlRMmZ3TTlJVnBpWlZMVnc1QW9Nc0lVOWpvaWpXSGNxOU9TNENtYXRUZUhpOXh6MjhHZmxfb0Z2cmk4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-26 15:19:26",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 354285,
+      "DOGECOIN": 0.684469,
+      "ETHEREUM": 6741.03,
+      "LITECOIN": 322.89,
+      "RIPPLE": 8.26
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Wołodymyr Zełenski skomentował spotkanie z Donaldem Trumpem. \"Zdołaliśmy omówić wiele\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb01DdlY3c21XdTlaN2Jrck5kaGJ3NlVrWk1PaklsaVRmUm1PMnBCNXpfb0RVNDBESFhOd1hPbERraEk3YVUxd1hWNUVWS21pdDJqcEVkQmc4RnA2Nm5LdWtLb2NoY1dGTWQzQnhtWW1jblVtN0JtVmV6QVJRRlo1RDJhWXMybjFCS0ppOFBiTndqSE1QTXhrOURneXNYNklsWDdzTWtCS2E2OXZqbzZnaENUeXhZMlpqNC1PVUNmVjd3b2xqWWRzOUhTeDdaQQ?oc=5"
+      },
+      {
+        "title": "Pogrzeb papieża Franciszka. Pożegnały go tłumy, są szacunkowe dane [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkNNZWhaUHpHQWVxUW5CSmZfVkpSMEFISjhZQ0c1czlNYW9aa0FUNFRlQVk0MkZ0X1BvMF9zSGZPRy00ZlhoaDF6VEhGRkVaWUM4Yk05Y0hCNjBycWdNaG8yUERaUnZ3VVZnS0dBbC1JYVdGM3VKUFRRZnhva2lud0NLRkNGOURpajBkM3RuN1d3T05jUXVXVDlBX3N3U1pFWmhWeGtvRW10ckxkRC0w?oc=5"
+      },
+      {
+        "title": "Zdjęcie Szymona Hołowni na pogrzebie. \"Wstyd na cały świat\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHUyV3lxUDNnWGxmX2xydE1UZU1wQVZOOVllbTZnOEhKZTd4bE94d1hWMmlJUldSV0t6M1Y5TlNuOTJweUw2VmNSZC1OS3BvNWh0LVp3SHVEUVhxUGQ3anFKVnIwampGVXlrVUl1YWZiQnBqNTZfblRrR2szZXVsVVpkRUV0SkxYS1V6NXk3dzhfTmVrSENDYUFSX2taR0N0?oc=5"
+      },
+      {
+        "title": "A gdyby przyszło nam oddać \"przesmyk suwalski\"? \"Deal\" Trumpa z Krymem skończy się \"pobiedą\" Putina - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5STFhYRU50dUVKcG8zZVY2RTVyYzgxbVBxclh5RmhPY2NUR1FkbEdwcFl2M2xJYUpkQnJKZkEwcVlhUkhxdHFKV3p5MEY2a2FzbUltYjNvTnFJWUdwSENpbHRXM19lR191QnJSZjQ4TWxnWEx0U1p6WHFSOA?oc=5"
       },
       {
         "title": "W sobotę trwa żałoba narodowa. Oto podstawowe zasady - Business Insider Polska",
