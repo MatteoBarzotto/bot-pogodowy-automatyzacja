@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-25 22:50:54",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 357334,
-      "DOGECOIN": 0.682969,
-      "ETHEREUM": 6769.38,
-      "LITECOIN": 325.4,
-      "RIPPLE": 8.26
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Snajperzy na dachach, myśliwce na niebie. Watykan zamienia się w twierdzę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXJGMm93VHJuSWl4WUdCdFQydmlmb2FEWGFqNFM0amhtM3paWFdrZHFPUkRDanV1cWlFS3BoMkUyNmgzWFVBRDJZdkxIM1JXVk5tUWRURzVoSVhhLWZ3dUdDT2VfOXVJN3o3TFFmbWwzcUx1MW9CVlFRXzUtRWhhb0lzVmJoZ19EckVnMGlvMWxNcEx4dEN4RWU4VW1pdnV3cnZHTFlsX0MwVmVXZENON2hDS2lrTC14NkctZXhMeUpOWmhsRHpFSnhB?oc=5"
-      },
-      {
-        "title": "1000-lecie Koronacji Bolesława Chrobrego. Donald Tusk zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzJPaXRzeWJuYzVTNTJKY3dCV1lVWExGbGJSZlBtSUU2amI0VlZCNHg0LVlnWkJyNlpicEVqaXlEeTZTdGR6ZHBpeHQtYTdKT21LNFZvR1JScVN5OWJNSUxmMFgtcTh6TDl6V3JqQUVITWcta01ib0p4QVQwVXNScDJLdHU1dTVKZ1pGLUhCMFA0MngyOThnVFdYN0JEUzd2NUNZVDN3S3hLUkNFa1lJS2YyVS1kNE1lSzVmMnA5VWZzak1uWWc?oc=5"
-      },
-      {
-        "title": "Dariusz Matecki opuści areszt. Setki tysięcy złotych wpłynęły na konto - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXo3VEhySkh3MDdGZ1BfcVc4LU1Fc2t0QWdUNjBsemVqZjIyaUxjNFRWUGo0MGNYNlRLV3RUYXlaRDJDN0x5VDlUYzkybkZTTERuYTVDVGp3TTRRRnRIS0U5UWpOdHZWXzZnUnFJZmxJcFp1ak8xMHIwTlhsaW1sNEVZVXhXOWNxZ0xwX2VYSkUzNlJKc3B5OUEyNFpQS1JIbVZveFFmMWtDb1dp?oc=5"
-      },
-      {
-        "title": "Trump: Krym pozostanie przy Rosji. Ukraina ma oddać 20 proc. terytorium - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1h2ZmZOMHVwd1NaVHhSWll0Mmd0YWFyVUFCdWZidVhBTVA1Rm1XMW1uV3dTZFlDQjJSOTY3aklJNmlDSGduRDh6V3RGVnBCWVIxbjRyREtwUm9Hak1CLTBtSUNjc3ozXzlkOXAwbTNyTDhUdm00MERKbzlacUJCcTFnTjJBd256aV9ZR1g4T3g1bEZrYnN2M0lsRzRjVGJiZUlDeW9JTlVWSnJ6UWh2eUk2UjDSAbMBQVVfeXFMT0NJZnEzdHlaeExVTVpvbk1vbXlkb0NRdVphVk1vc0UzTFpLV3Fzblc1V2lRa0MycU1QbjlsNy1CbzlFN0ZnOFdjUGxVazBmZHRYNjR1V19GRmwyNFRZNTVsWXFYR3pWQjVXaDB4ZE8wVEtZMlVleUhVNTZ2OW5QU3NkdWRQTlgyeU9iNURIX29wT0RVLURBaU95MHVla05admhmUlFVQ1VaeEcxYU1NWFIxZDQ?oc=5"
-      },
-      {
-        "title": "16-latek zgwałcony w Śremie. Zatrzymano sześć osób - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnZXVVRiMTJXbzI1VWREdkZ0LUVHeGNlNGtsMHBtOThGV2NnVGZZLVBHM0loRDZJVXcxMDF2OWd1MGpsSjBESUczS00xTFFUUmI2V3dlT1ZXc1UxNDBtcWxDSzU3YXczR2JXTENrendXRUxxSjVSRW9WYTJ3c1RBY2JKeDBpRHFKdWlleDVWV2VNTDhZMHRj?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-25 22:51:52",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tragedia w Kanadzie. Auto wjechało w tłum ludzi - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0tjYTVOOWFhSmUwbDRXdFB3dnlIVGYtMk9VeUduYzBQaG1OblYzS1M4enBzbTZULWh3ZFNNOTk2d3RIM0JTX3NfUjhBSHU4bzNGZVhYdjlhQnpyRkxHMUs0aXB2TkdTazNYdkhXUEdOaE1QNHhIT05LcXdMOER4Nkk4NXZ3a3FUWEZBZGl0eFVpWGNoRDB5N280bUFfeXk5Q2hKX05yR0FjdDgtb1p3Nlpqc3pDZXRWZ3hz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-27 13:10:20",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 353498,
+      "DOGECOIN": 0.679918,
+      "ETHEREUM": 6798.62,
+      "LITECOIN": 324.77,
+      "RIPPLE": 8.2
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Andrzej Duda na konwencji Karola Nawrockiego. \"To moje pożegnanie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX25MUkVxRGY0MzM5VUotcVR4NkxnYWZiQUVZSndscS1abDFVcDhlYTBzUjlDOEU1WDZuRnZYVTBienhGaHdMU29WMF9lNjRYMk9JUE9OYVVXX0VXTUhodmhETXlCbmNNVndQN0RieVQ0R2w0V3lUdXEtQjZFY1BUWTZoX094NElZU3lxWUtKb3dlTDVsS1pBdlItTzFIWnl1bzdraVZCSU9kaERERkVQaVlBNjhaT0FmR21scg?oc=5"
+      },
+      {
+        "title": "Po śmierci papieża Franciszka. Egzotyczny sojusz na rzecz dziwnej wielkości - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODlKWUotdnJBZFNLcno1V1ZfY2ZtSE9UOFR5MUhldjV0S0hmaG45X05FSjJvZXdxSnF0Z1AxU21oYThoN0xMWlJ0empVclNQZXl3SmFjVzhWZy1xMlJDOVhVU2EzX2xGcEZ0MVl3aXo2NTgyUk0tMUtYSXhEM2hjSHJ3NlVQM1haeG9tQjZpLUZlZGhueDc5UGJtRkJjOXRyc29TLWl2dTZpaHJYa3lrZ2xsNNIBrwFBVV95cUxPekgxVlR0LVBIN3JTeFdRanBpUjJrWFJXT1c5RnFSVXBfN1J3SEFDbkNZNzFoX24xVDByWmFqcUU2R2liNWR5U2dTcEtWZzgtdXdUSW1ySHV3RHhmVm5SOU1NUHJybnVPd3NHc2I0SVA1WDVnZUt3eFBfSTBxU0d5X0N0RlV3VVZSWHV3MHNCTG9BaWRmanp5VlhNTllVeWQ0aWViWHFqQmtlVVctbWdv?oc=5"
+      },
+      {
+        "title": "Macron zrobił to przed rozmową Trumpa i Zełenskiego. Zagrał na nosie prezydentowi USA? - fakt.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWZSU2pVLVJWc0pCNldMSFQ2d2kxNTh0cndjZzM3WktvSjEyYWFLZGxVT3dpUU1lU2ZrZzZXOElLVkQzS0VLbnFma05PYWVVbnc4SFZfbHJSaVppVUEtMHc3TXVJOEIwa0RIVXpiTHVrcnR4dEJRTkV6YkM5SjB2cy1jV3JFTGFTN0h4YzI3YlQwdHlyZEpHdndZeFpXZ1VzNmVqZHZMa2JjZUF5a1FVQS1mWk5PRVox?oc=5"
+      },
+      {
+        "title": "Czy Polacy wierzą, że Karol Nawrocki wygra wybory? [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2I0OEdiWU1vb3pnSGZ0OWpxejRFanhjanEteXNPSVN5eXBmaEt0RVllcE1HUnl1RV93clEzRmVlS0FaTmdid1l5SXdaWmJna21Td3ppbHN1RXJIVU8tYnV6a2dsbEF5TmZzcl9rRjQ4WGhGa3YyWEFtZUI0d1loMG9WOTBzUjZBM2U0dEpQOGxTb1BKQ01BYjRNUnBQRzlGVGdOeFZR?oc=5"
+      },
+      {
+        "title": "Dramat na Rysach. Ciała ofiar przetransportowano do Zakopanego - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0lWQ3FpWm1ZUk9yVkJZZUZnN0NBaGxXV2x6OVd5UGszVnl4ajJ6dW13NXA2UFhHRWRwR1JyTFBUdlRSSVozZGEyMFNJVXNSYWkxSmpKREduZWZZLWtSMnlsdFFmX01mbG8zNmtKWDA3MkQ0M2w0aEFuYk9YX0dzY0lTd3JLWHE3eXVWdXRGUnpZQWVfY2UybnowUTBVYW1zNjJuTnlVWDBHZ1dx?oc=5"
       }
     ]
   }
