@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2025-04-25 19:11:42",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 358905,
-      "DOGECOIN": 0.693823,
-      "ETHEREUM": 6788.66,
-      "LITECOIN": 327.46,
-      "RIPPLE": 8.3
-    },
-    "indices": {},
-    "news": [
-      {
-        "title": "Polska dogoni gospodarczo Niemcy. Donald Tusk zapowiada kiedy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzBSc0F6M1lVSjZWcDdxZmgyOHR5UmdSN1NTTlhEcThJbFRzbXpuWFZEQ2NmTFJweW5JZ1NuNFYzWjVCZkI1VTFrZEt3UDRtdXVaTWpoWUJXWERsRnNYa3dSVTRIcHNxZS1KbDZGbUd3SUhHVGhKamg5UjZhUGh4dE11ZXhNcEVqS2pwTDNJa0Y0LUpabUpFMkF4X250ZXdzTGZkV2NYaw?oc=5"
-      },
-      {
-        "title": "\"Franciszka pożegnają biedni i więźniowie\". Włoskie media o szczegółach pogrzebu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEV5clBJQ214UTlzUzV1d1lRMEVtb3hYbUtqbzhiUEV2RElOYWl1ZDZ0Y0tnX3VOQmdaaTdhbk5TSTRMd1NhNXNIOThyeDRXTWFwZjl0Q1pfWGIzWWNYMGdQOExLeTEyaVRvRWJGbmo0Wnh6V1pPT3hPUjNtd2k1aVFmSmMwbk5KSlRYNmJiTkwwX3hhb0NmZnBtejdIX01SZUZTWkpXLVRGX2RQaEJqNUtVNWg5dw?oc=5"
-      },
-      {
-        "title": "Dwaj policjanci ranni w czasie próby zatrzymania. Trwa obława - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXhyd053UExnV0lRci00R2pYZlgtNVcyaVo2bVk3d3dBNDUxcGVEdlZUbmxtMmUxdlZ0WERSN08xNDhQNEtZWGZMZnV0OHA1NVA2OTRBakZ3bHZCRmxUejZmc19HUUFRcHZIOVhUc1IxMEVRRGNOQ0c3WWxXejZrTXBqOFM3LUF4Ylg2RF9zbTBaeDZUcjFfVjlqbFNsS1F2TDZ2X1AxOXA2QQ?oc=5"
-      },
-      {
-        "title": "Aż za dużo pieniędzy na poręczenie dla Mateckiego. Po wyjściu z aresztu poseł PiS porównał się do dysydentów z PRL - Szczecin Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjhBbnA1bVZUSlp1NjNvVkhFcm5OOVJGVVQ0dU90MWIySDVfNVRhaGtNM3hyYXg0aHVTd0JSS2FwSDdEcUN5MmRqRmdXdk9CSEZNZDhIRmR2UkhJc3B4X3d4TVdUQUZxaDVGcHFoU0ZlUy1nVlp4MFhPME1OTk1SMzhnWDVkTWhNQ242Y1gyakNaMWtWWTN2SEFYRFkxdVhtaFk0VGw2bUp3MkdMLWZER0FyX2NOazdpRHFvdjBPbTA3cGhI?oc=5"
-      },
-      {
-        "title": "Nowy sondaż partyjny. KO notuje poważny spadek poparcia. PiS na prowadzeniu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmxEZHBIWVczN3lYclNfZ0diM1dtT0RITWg1RlRaZ183d29zZ0hpRW5SMEhucll0T2d1TTFiaVJfeW9BX3FZNlc5ZkpudjRqamQ0SUp4QU4xb1FFZjA0LVM2M3NTSHJrN0RRdHRtWTdQcFUyVnliOUc1MUtlcVNnN1hzRUo5bnpQRmlRanFTX1pqblVRc3JCX0t0N0lGN3RkbXppZlRfcXdLdTBWRFVwU1JvckY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-25 20:18:35",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2626,6 +2578,59 @@
       {
         "title": "Weekendowa noc z przymrozkami. IMGW ostrzega niemal cały kraj - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3JTcGFOOHVyQXM3NlFFZE9EUWRxVGx5bms0NGdFSV84Rjc3eVpWMG84TkNUWDdONFFDZEVkUExEdU5hdGJnQkJPeXVWRDN6MU15VFlLaS1CbFFjb0lPVll5X1R6SWJMZTVaZllwMWMwNmI5Y21SaGl2V3JWVUcyamJlWkFsOGNqb2RMZnRRMTNNemxrM1IxMzRjVVpGcjF1OU82czNJbHRmcG5TYUY4Tklsb054Q0tV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-27 09:11:56",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 353426,
+      "DOGECOIN": 0.675266,
+      "ETHEREUM": 6768.6,
+      "LITECOIN": 319.42,
+      "RIPPLE": 8.18
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Kierowca wjechał w tłum. Są ofiary i wielu rannych - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRU91M1NaUlhrUk9qbVFCeUhDWkhrUzFFNGM4UVFqLTZSSW9ZRXBOUlFsR3VxdzkxbjlfTUpLQ0hsS3RtdGNKWEJCQ3FROW5WSTRuM2RHbGFLSHd6UFhLcVY0Y1dPV21yLUlJWHBPejlJTHUyWjhOWmZKU1FRdmhFY1ptdllfaDZiQ2ozNHpKUU5SN2dfUWZCU21RT3pKSFlx0gGkAUFVX3lxTE9nSEp1XzVXMXY2QWMzVDkwZFlaTzdGUFVfb1NUVWVIck9zMnd2aW5xaFVlZlpId3o3Y3drTV9aVFZBT01yY041SDRRQXQzSHBhd3FpVHVreHU2aHNTd3JJTDU4UERCRkd4SnNxOURPS2NmMWtUVW1ZbXRNcXlGMUJlZG8taTlUYzZ2ZW5QYUxoejNfbk1VZ2d5QjYxaExqbzhIRTFh?oc=5"
+      },
+      {
+        "title": "Macron zrobił to przed rozmową Trumpa i Zełenskiego. Zagrał na nosie prezydentowi USA? - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWZSU2pVLVJWc0pCNldMSFQ2d2kxNTh0cndjZzM3WktvSjEyYWFLZGxVT3dpUU1lU2ZrZzZXOElLVkQzS0VLbnFma05PYWVVbnc4SFZfbHJSaVppVUEtMHc3TXVJOEIwa0RIVXpiTHVrcnR4dEJRTkV6YkM5SjB2cy1jV3JFTGFTN0h4YzI3YlQwdHlyZEpHdndZeFpXZ1VzNmVqZHZMa2JjZUF5a1FVQS1mWk5PRVox?oc=5"
+      },
+      {
+        "title": "Zakończyła się prywatna część pogrzebu papieża. Franciszek spoczął w skromnym grobie [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2gtRl9wZ1ltbkxTTXBOLXFBQXkzU2FSalhnWUpuRnJfaDNXZk5LdmNOQ214eDlCTmh0dlZPajNjZjRSY2NpeUFLby1zUDJpS00yYXZkTUxnU1g2WXVUUnhHYUVMbW16Ym5XNmp1SGtLSGV4Q1hPLUplOF9PeVNXNmhjYXFabzBsamVGaVNxYTczZ0dLYW9OMkZFYm5UNEFTakZ0ZkRUa3dMYVAybmE1amJFcmNVNXZrbzUxT2Fmbl9FZw?oc=5"
+      },
+      {
+        "title": "Trump: Putin mnie zwodzi, zaczynam wątpić, czy chce zakończyć wojnę - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSFB2ZGx1dGhnQV81UFZjeG9zQ0NFb1JnckZrR0NtMlhqQXZBSW83UnVLaEtIa0tSakh2dWFLS1g3dXk5b2Vxc3kyQUl2YnNIOWE1bEFvMVBLaHBCYkdZaWZoYTVlT2NMTURPbU1kc2praWdCQWdlaFNXVGVsOHFUZlhVVnVya1plaHduaWNsaHM3bjlwOWw2Slhkdw?oc=5"
+      },
+      {
+        "title": "Chiny zajęły sporny obszar. Pojawiła się flaga - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHVINDhVamM2emJ4SXJZWjN2TXR1VnVsdFVzWHBCQmhqczZfVGFmSEZPaFI3TUJmNG5pUVktcVBjYm5aSWU4c0xkenNWeEljZkJnak9renh3a2I5YmhTSWt5bmFQbHYxSWNlNDRYWlJFNmRGRHc5ZWlIREotOTduU3hndWFEU1phaF9Bb0pfX0NfZw?oc=5"
       }
     ]
   }
