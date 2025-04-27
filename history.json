@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-25 23:26:59",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 356581,
-      "DOGECOIN": 0.681501,
-      "ETHEREUM": 6763.74,
-      "LITECOIN": 325.47,
-      "RIPPLE": 8.25
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Snajperzy na dachach, myśliwce na niebie. Watykan zamienia się w twierdzę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXJGMm93VHJuSWl4WUdCdFQydmlmb2FEWGFqNFM0amhtM3paWFdrZHFPUkRDanV1cWlFS3BoMkUyNmgzWFVBRDJZdkxIM1JXVk5tUWRURzVoSVhhLWZ3dUdDT2VfOXVJN3o3TFFmbWwzcUx1MW9CVlFRXzUtRWhhb0lzVmJoZ19EckVnMGlvMWxNcEx4dEN4RWU4VW1pdnV3cnZHTFlsX0MwVmVXZENON2hDS2lrTC14NkctZXhMeUpOWmhsRHpFSnhB?oc=5"
-      },
-      {
-        "title": "1000-lecie Koronacji Bolesława Chrobrego. Donald Tusk zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzJPaXRzeWJuYzVTNTJKY3dCV1lVWExGbGJSZlBtSUU2amI0VlZCNHg0LVlnWkJyNlpicEVqaXlEeTZTdGR6ZHBpeHQtYTdKT21LNFZvR1JScVN5OWJNSUxmMFgtcTh6TDl6V3JqQUVITWcta01ib0p4QVQwVXNScDJLdHU1dTVKZ1pGLUhCMFA0MngyOThnVFdYN0JEUzd2NUNZVDN3S3hLUkNFa1lJS2YyVS1kNE1lSzVmMnA5VWZzak1uWWc?oc=5"
-      },
-      {
-        "title": "Dariusz Matecki opuści areszt. Setki tysięcy złotych wpłynęły na konto - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXo3VEhySkh3MDdGZ1BfcVc4LU1Fc2t0QWdUNjBsemVqZjIyaUxjNFRWUGo0MGNYNlRLV3RUYXlaRDJDN0x5VDlUYzkybkZTTERuYTVDVGp3TTRRRnRIS0U5UWpOdHZWXzZnUnFJZmxJcFp1ak8xMHIwTlhsaW1sNEVZVXhXOWNxZ0xwX2VYSkUzNlJKc3B5OUEyNFpQS1JIbVZveFFmMWtDb1dp?oc=5"
-      },
-      {
-        "title": "Trump: Krym pozostanie przy Rosji. Ukraina ma oddać 20 proc. terytorium - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1h2ZmZOMHVwd1NaVHhSWll0Mmd0YWFyVUFCdWZidVhBTVA1Rm1XMW1uV3dTZFlDQjJSOTY3aklJNmlDSGduRDh6V3RGVnBCWVIxbjRyREtwUm9Hak1CLTBtSUNjc3ozXzlkOXAwbTNyTDhUdm00MERKbzlacUJCcTFnTjJBd256aV9ZR1g4T3g1bEZrYnN2M0lsRzRjVGJiZUlDeW9JTlVWSnJ6UWh2eUk2UjDSAbMBQVVfeXFMT0NJZnEzdHlaeExVTVpvbk1vbXlkb0NRdVphVk1vc0UzTFpLV3Fzblc1V2lRa0MycU1QbjlsNy1CbzlFN0ZnOFdjUGxVazBmZHRYNjR1V19GRmwyNFRZNTVsWXFYR3pWQjVXaDB4ZE8wVEtZMlVleUhVNTZ2OW5QU3NkdWRQTlgyeU9iNURIX29wT0RVLURBaU95MHVla05admhmUlFVQ1VaeEcxYU1NWFIxZDQ?oc=5"
-      },
-      {
-        "title": "16-latek zgwałcony w Śremie. Zatrzymano sześć osób - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnZXVVRiMTJXbzI1VWREdkZ0LUVHeGNlNGtsMHBtOThGV2NnVGZZLVBHM0loRDZJVXcxMDF2OWd1MGpsSjBESUczS00xTFFUUmI2V3dlT1ZXc1UxNDBtcWxDSzU3YXczR2JXTENrendXRUxxSjVSRW9WYTJ3c1RBY2JKeDBpRHFKdWlleDVWV2VNTDhZMHRj?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-25 23:30:41",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "O tym się nie mówiło. Kulisy pogrzebu papieża Franciszka - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUdsNFRucEx1ZlNUaldqRElGaXUyYlJTelBHYm5ZZGVXTzVwa09JczduNnA5LUw2MS1BdFFKUXJVbndLT1gzWng2d1NNQnRvU0NYVGJGRTU0ejAzV05iLUVLWXBLejdOREd6T1NHRTFwanhXei1HcS1wUHprZ0ZNN3BUcUFNcHIxM0FZUzc4dWloTk1nR3RPZEEyN2p1OG91SFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-27 16:11:16",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 353508,
+      "DOGECOIN": 0.684659,
+      "ETHEREUM": 6753.29,
+      "LITECOIN": 325.8,
+      "RIPPLE": 8.35
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Donald Tusk reaguje na wystąpienie Andrzeja Dudy. \"Pełna zgoda\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3Bnb1ZUSnktdzdTMGRRbXFFc3VlcWJKWVdxT3ZuUm5DRjlHdzFBMGZJTkdGY3pELTRUTG9qWTBIWkdqVW5GQkdWSkNXNUlzc05vVDYwMmlyZjc5eEN4dWpjSXV6bXlmZDVxajdoZDlrSmctRTE4cVdLYXNRX0x3N0FXMXdGc1VabHdnNkU4TWdUUU9KRHRGTjFkUjdSYXpUTldSNnp3QnNORmotZzhEWExuY0FVcEF6SHVOQTVac2E?oc=5"
+      },
+      {
+        "title": "Watykan złamał protokół dla Zełenskiego? By był tam, gdzie Trump - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlpmVUVqTTBDdlM4R0hWWjNtMlZ5UFdYUHlYdlJVSTZ3NlhVUmlSNkxWanJQTVNXQVk2OFZPcnVlREswWFkwZmpxNXdRRER0eE85eG1mdnduRUlXbm4tLTVyaDBpOVpUVHhxYmlnOHV0ZEp0TjgxRnZINkJVc1BaRDFhMEkzQmVNeDc1U0lKcDZUQ3FjYktDdHdhVlA?oc=5"
+      },
+      {
+        "title": "Donald Tusk ostro o politykach PiS. \"Durne łby\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFVNVTZFRDU4dGpMa2p1cVljZlIxMkhEenl4MTVGM3NXUEJiUkZubFVMakRvbk02X3pNNVRTWDFGdFVKTHJXYkI1LUtZeWdweHdBclhfUzFVRWRFVlBfdmxjMXhUOUwzeG9nU3BTZHhSYmQ4WWdiZjVUbXktWFhFQlJ4VFU3NmxPR1N1WjRHUjU3SHRYU2NqSC1n?oc=5"
+      },
+      {
+        "title": "Przelot F-16, pokaz dronów i cały dzień atrakcji na Pikniku na 1000-lecie Korony Polskiej w Warszawie - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVlRvaUxHTTNLc3VubVpTUzRfYlJhTTVfbUV6T2cxeVJnMGNuRHQ5MVI2a2d0N05YclBkUDcxdktaNHViUURhUkRVeklySkJpSHpSTzFhOGVuOEtHOTF4UGRoZ0xTc2E4czNsaFJzdGZLZzZsT0FPWWtkMl9icTVYc3pNZ0hPcWlZb25GMzQ2VFZSemxkZzktbGliOHpkZmlRdTdjVnh5RXF0Vl9qeU1UMGU5dzNWQzF6SF9NZVNB?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki na prezydenta? Polacy zabrali głos w nowym sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFpsZlBjbkRVbi1GM0ZwMWN0bV9ESlNwVzAtc1RTLXpteUFyOVN6TklTYXUzdFpHRmZkS0d0bzY3Tnd5YUYtYWZaOHNLRWpJOTNyaGhKX0Q3VGd1NUxWQVZ4dEFSTXRuNUdDVmxmdXdJVnd6WXl1S0FTZVpNemJ3SXI0VG4xSzN6TTdEZEdqRlNFeUVvcHMwSnR6c2o0dmFJT3UwN3lFQzlHN0k?oc=5"
       }
     ]
   }
