@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-25 23:56:38",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 356131,
-      "DOGECOIN": 0.680938,
-      "ETHEREUM": 6741.97,
-      "LITECOIN": 325.65,
-      "RIPPLE": 8.22
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Pogrzeb papieża Franciszka. Trumna została zamknięta - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnA2blVWRFI1alhqdWhKblctN1c1TGRUeFR2S0I4bm9fWW1MMi1NOGFsaDMySVZObVY5NDVtTkFKZEh4QTd1MDJOS0o4Mlc2akN1bjNGNm9OdXJrZGZoM2xvZS1kRGFWQ1N3Y1VEYmFjblRJV2Q1Uy1iZmxaeld2ZXlVLW5rX2xKamNoX00weGc2Z0hxMlVWWERaNkJGZUxfeF9EemVha2MyUHZPcWFLTnRiaG4?oc=5"
-      },
-      {
-        "title": "Donald Tusk zaprasza na koncert. \"Kogo tam nie będzie! - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlViNmhuOEcwMDBJZGhGODBsbWVpNGxtMTk2d1RDaHhYNl9XajdtTEdHbUU1MEcxWmFGbHZtc29SNnhvaGR6X21nVUd2STduQThLRURhem8xRWtMOS0zNlYxNmt4WWU4YmoxbG9RX0ludXVHeUUtQTh6OExFcENjb2JWbDdCTXJMRGNHRzlIZWxocFNSd3p5RC16blRCYUk3RHp6RXVuMzNjS3NicWVV?oc=5"
-      },
-      {
-        "title": "Dariusz Matecki opuści areszt. Setki tysięcy złotych wpłynęły na konto - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXo3VEhySkh3MDdGZ1BfcVc4LU1Fc2t0QWdUNjBsemVqZjIyaUxjNFRWUGo0MGNYNlRLV3RUYXlaRDJDN0x5VDlUYzkybkZTTERuYTVDVGp3TTRRRnRIS0U5UWpOdHZWXzZnUnFJZmxJcFp1ak8xMHIwTlhsaW1sNEVZVXhXOWNxZ0xwX2VYSkUzNlJKc3B5OUEyNFpQS1JIbVZveFFmMWtDb1dp?oc=5"
-      },
-      {
-        "title": "Donald Trump o Krymie i Ukrainie w NATO. Złe wiadomości dla Kijowa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFZxUHZiY1Vucl9DRlZXUjFvSjVlYzNxeHRaLVdqUnEyWmlyQ0V2V0FTbWpNOTZzWjNWanlzV0o1emtNZEFVVjltX2V4anV0YVVKd3VIZl80QnlpMGdlbzJVMTQ0Sl9UNzVmZGdVN0FZemhtdHZ2cGdjYzVQQzAzRXRHNDFsRkZ1cHlyeDZpOUtQcDZockpTaUVVcUJyU2ZLSU9hS2p0WURJVkltaFE0aFRsZw?oc=5"
-      },
-      {
-        "title": "Trwa policyjna obława. Udostępniono wizerunek mężczyzny - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2YzbUZ1dkFfYzdnQWwyTHpFQzlYejlkSUxRbkZwaTdjZFgxZUwtT0ZnWTJWWnIyQ2pqTmZHc2ZyLVZseDZPOWNwdXp0WWp6eG5scGljbUVxVXNsWjF5ZXVrb0kxSmdUTnl6QWpuNXZPN1I3T3RaU1RYMVJ5dUlaaHF6Wmh0elExUlBaNWdrV1Nkc01QdHFmd0lJSTdtUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-25 23:57:56",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Policyjna obława na granicy dwóch województw. Padły strzały - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakppMFl2eHU2U1RlUFplbFlzWGZBUmI3cF95aUpuZjRUeHlMVlQ5bWd5OUtZQzVxYjFtcVVaWnhkQ09kQXJNQl93LTZrN185clg0a18wUl9sXzMwaHh4OG51aFdkT1RZYjEyY014OXdZcjl2TGJZajR0b0dlbE0weWZNdGJ5ZE1xeURCOU1ETjF5dnk1elF0djlaLUY1SlN2cTNHWGd5b0pjd0JhTUZJWURrR2JsOFlXVUJJ?oc=5"
+      },
+      {
+        "title": "Ławrow w amerykańskiej telewizji: Krym, zaporoska elektrownia? Nie oddamy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWRRNDBveEh0WVIya0p5Z2N0eWtqOXUzYThselpuaWZ4anJHc2tTVHdYcWZpUFVUNzJsRk56SlJKMlNWZG0xNU9sUlFUNlBHaml4blN0VWdFTUdubjRUbUl3anM0TFFrM3FtMzhpTEZRZldzYjRHMTA2Z2NBeUhSVGZYdllSa0dWQlRleHZtR2s4bzlBeU5HcW1BQmQtSVFFYkVJR05NZkJMY3UxelZtemZ1UTBvT2V1a3pRSGw5RC1zMUk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-28 05:06:20",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 352482,
+      "DOGECOIN": 0.666159,
+      "ETHEREUM": 6676.82,
+      "LITECOIN": 319.38,
+      "RIPPLE": 8.46
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Duda, Nawrocki, Trzaskowski i Sikorski. Kto wygra mobilizację przed majówką? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeWRPWkZOaTlONnp0d2JQYVBVYkdwUWxkY1Y0Z3pYZFFNYldZMzEwSDU5TW15RlBqTWZOSFdieU13NnlmMUVKUjFtRlNkSkljc3lIeWdlRkdic3UycjlmWXRRejhTZ1ZXLTRUUWlOOVJiT1loQUIxLW42QkNmQkE3UkxmVHNvS2VrOUc2cGdlS2lrR1c3OXVNMnE4a01DcGtiZWdfVXlpZkJnSjNYazFmZjJwYU0yZVlTZXBScUtTVW1Ba2tEeEpHVEZYRDRXX3pCbkF6SnRveEo2QmM?oc=5"
+      },
+      {
+        "title": "Zwrot o 180 stopni u Donalda Trumpa. To prawdziwy policzek dla Putina. Zadziałała magia Watykanu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFRPWFkwVjljSFcwRUk2REF2SUg1UmlGYUJ4Y3hGWVFOVDBVcm02OEEzWlZCc2NxT1lJRVd5aW1qbmZ2QUROWFlsczUyanVrNUxGVDFMSEZjY2RhS2ZvOUFadkJQRUxNdUV4aDBpTS0waE5GcDBCVk5tTUNRMXdBcWgtWlh0OTBrd2Qxc1pFTjExRmY0bEh6cFdkdmotd25ITDdTQ3hXdmFidVJxZ2c?oc=5"
+      },
+      {
+        "title": "Policyjna obława na granicy dwóch województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzVZWkREcy1oZ3Mta3QwVVc1OGpNX0ZZbFdqS3lpVG5ZMW03SmZ0T2JCblZ0WnM2M1FyTDBKR3l5ZTY3M0hXM1lzXzdubGRKWDg5RDBHdUFCR2ZjZncyd1B4dFo2MjlJajk3Y3lhMkdmeExfeWxTSGgtcFVsVE1lMkIzRlFHUmZQbWxaSGRLRE5QcGZ1Q0Rld3NqWWNEbmhvUHFrdlRyMWk?oc=5"
+      },
+      {
+        "title": "Rośnie liczba ofiar w Vancouver. Masakra w Kanadzie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzEtbnAzT3dxYU5SY2trM3owem5LTjhfZHg2b25HWGhqOGNwVXIyQ2Z5eFpDSXdkd3R0LWVmOUhrSHMtaXN3ZkRlcWRNX1pVZGVBWHlnaWNmSWh0Y0FyNEJYZ0hyakxHMEdlQUNYaE0xNjBSaV9RZmxPMW1ZRGJiMGV3Zy1ieTQ1N3NIbi1TOFpRdm80RmVQTA?oc=5"
       },
       {
         "title": "Ławrow w amerykańskiej telewizji: Krym, zaporoska elektrownia? Nie oddamy - Money.pl",
