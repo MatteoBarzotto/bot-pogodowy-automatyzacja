@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-26 01:12:42",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 356972,
-      "DOGECOIN": 0.687739,
-      "ETHEREUM": 6758.29,
-      "LITECOIN": 326.44,
-      "RIPPLE": 8.22
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Pogrzeb papieża Franciszka. Trumna została zamknięta - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnA2blVWRFI1alhqdWhKblctN1c1TGRUeFR2S0I4bm9fWW1MMi1NOGFsaDMySVZObVY5NDVtTkFKZEh4QTd1MDJOS0o4Mlc2akN1bjNGNm9OdXJrZGZoM2xvZS1kRGFWQ1N3Y1VEYmFjblRJV2Q1Uy1iZmxaeld2ZXlVLW5rX2xKamNoX00weGc2Z0hxMlVWWERaNkJGZUxfeF9EemVha2MyUHZPcWFLTnRiaG4?oc=5"
-      },
-      {
-        "title": "Negocjacje pokojowe na rozdrożu. Dokumenty ujawniają skalę problemu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDFfZ2t5c0UyNGJlMTZzM0ExcmRISHR1dTRhSWFCNVlYM0lrLWRlQk5ZZTF4dFlwYmduNHFTeGdodnNQV3ZYZ2hCYm1pUGJDYnFsaU8zZU1tNk13MkRxS290Y3FXa3ZSWk9Kc0VCOGNxVlN6S0FwbV9PUFo1ZXdzTGNuYm00Sk1XVmdNLWlNRElZeE9GenZnSS1wYm9sTmJVbkVSQWFfSDF0VlVkU2tR?oc=5"
-      },
-      {
-        "title": "Donald Tusk zaprasza na koncert. \"Kogo tam nie będzie! - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlViNmhuOEcwMDBJZGhGODBsbWVpNGxtMTk2d1RDaHhYNl9XajdtTEdHbUU1MEcxWmFGbHZtc29SNnhvaGR6X21nVUd2STduQThLRURhem8xRWtMOS0zNlYxNmt4WWU4YmoxbG9RX0ludXVHeUUtQTh6OExFcENjb2JWbDdCTXJMRGNHRzlIZWxocFNSd3p5RC16blRCYUk3RHp6RXVuMzNjS3NicWVV?oc=5"
-      },
-      {
-        "title": "Dariusz Matecki opuścił areszt - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80SzRTQl93LXQ3UENNMjQxRktNVHYtOGZna2wtTkdEaVdYdm1kM0hqRk9kcF9tX2dHbU9RWWk3NHNrQUFrdVlNY01rTFZWcTZicHgzbUtxZHBEbVZWVW0xenY0dzhZRHhlQm9adkZwblE1UDhXSVR6TnVmM001UQ?oc=5"
-      },
-      {
-        "title": "Donald Trump o Krymie i Ukrainie w NATO. Złe wiadomości dla Kijowa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFZxUHZiY1Vucl9DRlZXUjFvSjVlYzNxeHRaLVdqUnEyWmlyQ0V2V0FTbWpNOTZzWjNWanlzV0o1emtNZEFVVjltX2V4anV0YVVKd3VIZl80QnlpMGdlbzJVMTQ0Sl9UNzVmZGdVN0FZemhtdHZ2cGdjYzVQQzAzRXRHNDFsRkZ1cHlyeDZpOUtQcDZockpTaUVVcUJyU2ZLSU9hS2p0WURJVkltaFE0aFRsZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-26 03:02:55",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Policyjna obława na granicy dwóch województw. Padły strzały - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakppMFl2eHU2U1RlUFplbFlzWGZBUmI3cF95aUpuZjRUeHlMVlQ5bWd5OUtZQzVxYjFtcVVaWnhkQ09kQXJNQl93LTZrN185clg0a18wUl9sXzMwaHh4OG51aFdkT1RZYjEyY014OXdZcjl2TGJZajR0b0dlbE0weWZNdGJ5ZE1xeURCOU1ETjF5dnk1elF0djlaLUY1SlN2cTNHWGd5b0pjd0JhTUZJWURrR2JsOFlXVUJJ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-28 08:26:48",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.7611,
+      "EUR": 4.2688,
+      "GBP": 5.0033,
+      "CHF": 4.5278,
+      "JPY": 0.026222,
+      "AUD": 2.4033,
+      "CAD": 2.7084,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 354771,
+      "DOGECOIN": 0.676661,
+      "ETHEREUM": 6766.02,
+      "LITECOIN": 325.57,
+      "RIPPLE": 8.56
+    },
+    "indices": {
+      "^WIG20": 2793.7,
+      "^WIG30": 3582.9,
+      "^WIG": 3582.9,
+      "^NCINDEX": 239.91
+    },
+    "news": [
+      {
+        "title": "Nowy sondaż prezydencki: Sławomir Mentzen traci szanse na II turę? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWNzd2lYUTdRMzVYUFpMTl8teGRwa2ZsLWt1a3kyWHVSUXZQLU1MTmJJX3ZPdFU4SlJKX1VoWURHbVZpX0RnSUZ1b0dFR015ZFNrSm1HQlJKd0FxOUctTld6d2RCYnVMMHVUVjRPdkZzcW00ZXhMWFRiYVNzZUprZVFmR0xaem1sRG1qdUxINlR2R3JMcVdvenMxWC1OQmd1?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński chwali Andrzeja Dudę i Karola Nawrockiego. \"Takiego prezydenta potrzebuje Polska\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQXzJZc0RXb0l3SEFhMzU2S1pwYzBQSXRuZjJ3LUhqalFRaEh2eDEzcGhma2ZYcnNMejdzNFVOalZfUko1Wk5YeHFDaElOMnlQLVV3UGxBbHBUTU0yYVU4WlMzNDYwMEkybElyeXhKY1lsVDBfQjIzWUhTcEQyc2poTkMtUlFJU3NCamQzXzF6MEU0cVh6WUpLR2J2dW9KZEFoRXppcElJQXB4bGQ5YWlQd012ekM4a0p1anp4bFBXTDZCZ3hQQldXdDBzaGZvZWI3Y2RzZGNR?oc=5"
+      },
+      {
+        "title": "Żywiołowa reakcja ludzi na widok kardynałów. Od razu kazano wstrzymać dla nich kolejkę do grobu Franciszka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTFUV0tFZHpRYzZNMUZVVUNDQ0J0cmwtUk5RY0VsUzRsUzZUVkNzajljSTJBOWY0Z2lSVFRqeWkyeUJPeGRzRXRfUmgxaWNNTF9pbG95d2tUR3VycWRranhXS3hTN2k5WXRvekRQWkI2RE5fdGJfcTVFQlpUcy0tWW9GY3VMdm5lVG9nVk5fZUpLUnVlS2FQWS0xbEc1QQ?oc=5"
+      },
+      {
+        "title": "Ławrow starł się z dziennikarką CBS. \"Nie słuchasz mnie\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUdhdmpER0ZEOHNYM3hFUVBXeXlGOGNIMUFnUWxDVTRqVGNWU1NzMWVnWXU2eUNSdlUxbERwbTZDODc0WDl5WDZkajNWeWNVZHhDbzZvN0FwUnpXVmZMT2tZNU0wMmRsTF9UaWxqUzB2dFFsdG56S01uMFZneWlhVGNSeXVvbTd1cjltbW4zekRhUnNYeFc3QV9kRWw?oc=5"
+      },
+      {
+        "title": "Ich zdjęcie obiegło świat. Teraz zdradzono kulisy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUo0TTktNGc0WUlfY0ZVMVVfZ1FXWmNtaGpOSDZ4MFE1eGVwbElDck91WmxYRW5BQU9sMXhUM0l3XzlFZXNFR2JLNFQ2c3BEYlpUWE4xbGIxdmRYZU51MXg2R21xM2tyeDllaV9WUExqSnd5QVlxWnR5d2twMU5JMXF0dzRObmNheTFCX0hMQVB6dUtyY2RXMTlVQVZMOExDTjQ3eUljNWRDRkZnWTFGLVNR?oc=5"
       }
     ]
   }
