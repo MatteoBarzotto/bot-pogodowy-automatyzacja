@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-27 18:15:06",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 353150,
-      "DOGECOIN": 0.677525,
-      "ETHEREUM": 6745.59,
-      "LITECOIN": 325.56,
-      "RIPPLE": 8.39
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Rafał Trzaskowski w Poznaniu. Zakpił z wiecu Nawrockiego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVFZM1RLZk9BN3B2bUxsWDZkNGs5b3NOQTZMZmR6RHZvWUs3SnFWQk5WZmxlVHNrZEREcV9ULURJbURrcHdFOHI4QjZ6U01EWVdpdHE1UFVMUFJiTVVxTG1HemQyTFhpU2xQNGxBdzk2MXBQSmpvUFlkTHFhOVhuVk1CdWplVmJHTDM0MVQ0TEtHaFZQUUcwa0ljUFUwLTUzSWxvWmpB?oc=5"
-      },
-      {
-        "title": "„Cynizm i draństwo”! Andrzej Duda o Donaldzie Tusku, Donald Tusk o Andrzeju Dudzie - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkpOdkdJdUdfUVU2N1pRUFE5NFp5aDlmQkZnd3pHcW1BV25kajBIUGI1T3ZsZ1ZoeGpzVUlUdjRYRTRVODVxUXRLYlk4WFQyQlBGcmo1RF9LSWVVRDQ4eHRlUHhna3hlbDlRLV9lQTB6U21nSEI2d2ZsMzBBeTc1VUZVd1dLVFVMb2tpdlVicGhTZFk3Rzh2a0xHbVBXSVRWdlVWZUV0NlExWXdJTGRKMXV1VlNkVmF4UmRfNHdZWjZkdEc5Wnc?oc=5"
-      },
-      {
-        "title": "Pogrzeb papieża Franciszka. Wierni mogą już odwiedzić jego grób - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTdlaDlCaU41bFRQVWVUSV96ZDJNWDVmVlkzckU0Q0lqNEdzY3I0UVFmb0NBN1dXQ3R4UGhJQzNkQWRDUDFzYW9aMktpUFU5T284SUs5OEVwd0RtajlVMWVOQWhNb0VtSzFic29qcWxMRm5PZWE1eDUxdUxBS2xZSHpmRzBaeWdUOURJRF9NSi1lOF9Hd1ZpSHFuaTJZeWhrdy1hN3k2WlNueXhiWFNfcTBCLUtLck9wcFZPTHpB?oc=5"
-      },
-      {
-        "title": "Pogrzeb Franciszka. Watykan złamał protokół dla Zełenskiego? - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlpmVUVqTTBDdlM4R0hWWjNtMlZ5UFdYUHlYdlJVSTZ3NlhVUmlSNkxWanJQTVNXQVk2OFZPcnVlREswWFkwZmpxNXdRRER0eE85eG1mdnduRUlXbm4tLTVyaDBpOVpUVHhxYmlnOHV0ZEp0TjgxRnZINkJVc1BaRDFhMEkzQmVNeDc1U0lKcDZUQ3FjYktDdHdhVlA?oc=5"
-      },
-      {
-        "title": "\"Nieuniknione\". Nowe doniesienia ws. Ukrainy \"Telegraph\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV01UbnhHTlFJT3FXbTd4LTU2bTB5RGtOUWdyMGkxcG84aHp3cmhiN2JVVk05VkJ5OHFzbllENTNTMGlxQzk5X2hMUFlnOGdSMl9PeGpEYzh2ZUc4ZkNBWmdmbW93SGxqTDlyTF9kX2lXVm1TMFZ2Y0ttZDB5MGE4V1V3SFhILWtZSFVUTms0TkFCSko5SW01TQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-27 19:12:25",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Ja się znieważenia nie dopatruję\". Bosak o słowach Brauna w czasie debaty - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHkyUTJpUlVTSWFFU1NxRnhXRjFwOW1aM205d2wxMjNIa3B3bzFJMW5YaS12bXBiLU4xWWNkZ3hYZ2pKa0pZX09MazI5Yk9FbG1uVWV3NUEtajNSTjdHOFRHYUVockVnYzlqVnFSMU1LS3BXSDEyUjRFT0MzVXFSeUZXQnNJUUhWMDRudWpzQkZHbWJoWU4xbHRGYWhqTTRxNEtxWmtobjJVTmhGZHExTGxaYWhNOHlpSG9F?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-30 00:12:42",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7458,
+      "EUR": 4.2646,
+      "GBP": 5.0231,
+      "CHF": 4.5404,
+      "JPY": 0.026271,
+      "AUD": 2.4044,
+      "CAD": 2.7087,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 353929,
+      "DOGECOIN": 0.656302,
+      "ETHEREUM": 6731.38,
+      "LITECOIN": 320.42,
+      "RIPPLE": 8.47
+    },
+    "indices": {
+      "^WIG20": 2810.88,
+      "^WIG30": 3607.1,
+      "^WIG": 3607.1,
+      "^NCINDEX": 240.25
+    },
+    "news": [
+      {
+        "title": "Atak na lekarza w Krakowie. Bodnar: Sprawcą funkcjonariusz służby więziennej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRThTZEEyMlJoN1JnRXhkMklhdERIQWpJOWNEek5jNlpaOEhFUWF6VDE2MnZEUEdiRG9hS2prNU5leV9zRDdESHpOUzJUZmJOakdUdm1KX21xaDlNMUxaUlMybDBwMFNJc3RIS3dDYzZsUzlCNnlGSmNiNnU0QWI3TGEyb0JkZExMV1BjQWl2OXhmWno3RC1waGhQcy0wREZpQlBpZ18tZ3M1VERLdXNjU1hXX3JvcTh0NXlUMWZIQQ?oc=5"
+      },
+      {
+        "title": "Mocne słowa politologa. Tak ocenił debatę prezydencką \"Super Expressu\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTZqOXVxM085d1UzdDV0Tlc2WFg4OUhsMFJ0NnJKUldQMHdoampGTkJocUxTaHh3QlZuYzNwOFh1TUJfeEgteHBDTHdoQU1sMGNZci1xeWozX1dhYnd3NE0tMG0yQmsxamtwcFZiNWc2MzJaTGFkcjNBOWRZV2xJZk0ycHZ2ZWFUckxkMWhwNFB6eFc0Z3FCalFFNFZwX3BSQVJKcHQxWm41S1JGNWQ4?oc=5"
+      },
+      {
+        "title": "Spięcie między Grzegorzem Braunem a dziennikarzem TVN24. \"Niech mnie pan jeszcze gaśnicą potraktuje\" [WIDEO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPenBuWjhDOHoxdTBILXdOQ2c4SzB1bVBScmxZSmp5bVNKUEZQRzlRRVVjLVF0b2hscl9Ld2ZxNklGcFR2b3AzZXMwOG9SZ1JwbGhwcFVQMS1idGFUOFE2cHZUR3dfLWVPNVk1SWJxNGhucVJRWkZQZFFUZHNGckZQN0p3cVE1MW5oMGZfaVdMbW9NRVdQM2dwLVU3c2JXS2s2cWNjRjdjQnp0UTNfWkJvZHB4dDNZZWkyMlJYZXRxQkJnT0VxaUhmWk1B?oc=5"
+      },
+      {
+        "title": "Donald Trump zapytany o konklawe. Zaskakująca odpowiedź. \"Chciałbym\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTThHWVNnSTdhZWk1Z0h6RkZtQkFWdEJCaGRybzJHMVdLcFRRUmNsS1VXVy05M2duWnNFOEZIQUpDdDFFTlRlVGVTa2c4dmlGQ2NlQTZYcWxjYUtXYmpnNWxPOXhhZmcyWnRrM200Ni1LMHRKNXRZSV9kLTR2Vm53aFZtYjBfMzV2Zk9QSE5ucmpNZXAwdFlGVEhlY085elpVOFhnd1Q5Q2dnVzZIa1JYeEVrSXVfZW9oajdBa0QxRWJNVzJsR1E?oc=5"
+      },
+      {
+        "title": "Wybuch w remizie strażackiej pod Krakowem: pięcioro rannych, w tym dzieci - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlRXQ3RLd0RYSWtkY3RPYzVmcnBoeWJwRnoxRi1Rdk1VRWdiVEdJdlFTWDZVcDRJSTZKTnhfZVFST2lzMlhIVnNBalZIZ2d0Y3hfa2hQZ0c1QmxKbUpUaUdndUloc1gwdWh3WmRIa1gwWWFQSTJTVjlJaWQzOTlpZVhjUV9jVS1RTi1JMG9WMVBlX0FaZGxGRnZxTGdlc0dZWnF3ZTA3VzJkSVF3aDNjVA?oc=5"
       }
     ]
   }
