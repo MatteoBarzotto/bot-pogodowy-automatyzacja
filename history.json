@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-27 19:12:25",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 353234,
-      "DOGECOIN": 0.674483,
-      "ETHEREUM": 6757.27,
-      "LITECOIN": 323.96,
-      "RIPPLE": 8.41
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Donald Tusk odpowiada prezydentowi. \"Dokończymy to, co zaczęliśmy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXJjZzNZT2lnV2EzNXpwT1VwbEwwM3I1YkV2aTN4Sk1DcXFjeDk5Z1hYX09LZzVWdHpRZ0drUlk0MGd4ckl4cWNZeWU1QzdwV1dNNE8tWTc1WmdjUWVoR0hWR1E5RkZvNUxzdERBRDRoX3gwc05jejRFNmozVGNkTlRoVXA0cElrUTdaeGQ3R1lueEdoWk53MGxUTDBJVWpsNHNvQ1dHcVdsWm96aTVN?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski uderza w PiS. \"Nie ma na to zgody. Mamy dość\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRzZWUHJKZHg1enh1blZJZDA1cVhRV0U5NkhwcDRGT0Q5ZUZBa0syaHhIcTJTYi1FWUFRQ0gwb2JON3FYR3U4NjNmWjRHV2g3M1JZN3VsbVV4bEtuNmtDaVNidE9aS3hmT1N3QnQxbXhKUXYtRlFaNkhMQ1JZb0ZfZUJSb1YwTkN4Z3A1SE96WlhWX0o2WGY1ak4zS2hEa19FbXBNdktvVEstRmV1UUNSNzRVdjhTVE1ZU1I3ZmxmOA?oc=5"
-      },
-      {
-        "title": "Dr Rogalski: Kardynał Robert Sarah byłby najlepszym wyborem konklawe - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUJNYmdqZDBPQm1GQXIzdzJlNmx3ZHRrSVVqdjNKaGdvTXhPUFdEbzBPQXBlOFlvd0dwRTZBdmRldUsxX3ZxLTl2Q0pHU0NZM3FIYkZ4MnBSc0ZVcHp1N250bmtoazFzWTZONnZOaDNLNXpmLWlXenUxQTVkdWxxZXNOeEZVODJvcjNVbkx1VTdzeDVBY1FpZUFEYnI5bWRBXy01dEJCWThfUdIBpgFBVV95cUxOeUZYSlNGV2Qzb2tRbDBULUZVWklwcUtVMHBjYUt1R3BNOFdiOGh5d09yYWstM2kxODRjd0xlb1NtdWdxR1FuaHA5NERvYzVMN1NHWDVvekpuUjlEdWJhb05YSHppVGRKLVZsNWdkRU9tNmdLalN6TFFUUXdGcTRRTjU3MXdUN01PSS1OZERXZTJISFNVUFBBZlh0WFhac2VBRzE4UEV3?oc=5"
-      },
-      {
-        "title": "Przelot F-16, pokaz dronów i cały dzień atrakcji na Pikniku na 1000-lecie Korony Polskiej w Warszawie - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVlRvaUxHTTNLc3VubVpTUzRfYlJhTTVfbUV6T2cxeVJnMGNuRHQ5MVI2a2d0N05YclBkUDcxdktaNHViUURhUkRVeklySkJpSHpSTzFhOGVuOEtHOTF4UGRoZ0xTc2E4czNsaFJzdGZLZzZsT0FPWWtkMl9icTVYc3pNZ0hPcWlZb25GMzQ2VFZSemxkZzktbGliOHpkZmlRdTdjVnh5RXF0Vl9qeU1UMGU5dzNWQzF6SF9NZVNB?oc=5"
-      },
-      {
-        "title": "Grenlandia zaniepokojona ruchem USA. Podejrzewają dużą operację wywiadu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHVBRmY3V0lMMTRyZ0tBc1pHUTdUT0xySWpTbkVhdW9jazFLcEFrdFlGejlVblUycEd4dUdSbzhTTFlOWVRjS3JsX21GQXpmR0pGX1pIUXBNTlY4S2lEUzRTQzZfS2RmMXpac3JrWTJQR1FkUUNja1UzVjVzNThObUduOFpLWG1OVHBtWUFGNFhJTm82OXQ1UHNNQS1RM2hxTWt0RkdzOEd2SThFMWlsLXdtU0owNUF5VUZlLTRDMXVHTVFvZnh5NHFCZnJVUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-27 20:16:22",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wybuch w remizie strażackiej pod Krakowem: pięcioro rannych, w tym dzieci - Fakt",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlRXQ3RLd0RYSWtkY3RPYzVmcnBoeWJwRnoxRi1Rdk1VRWdiVEdJdlFTWDZVcDRJSTZKTnhfZVFST2lzMlhIVnNBalZIZ2d0Y3hfa2hQZ0c1QmxKbUpUaUdndUloc1gwdWh3WmRIa1gwWWFQSTJTVjlJaWQzOTlpZVhjUV9jVS1RTi1JMG9WMVBlX0FaZGxGRnZxTGdlc0dZWnF3ZTA3VzJkSVF3aDNjVA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-30 01:12:42",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7458,
+      "EUR": 4.2646,
+      "GBP": 5.0231,
+      "CHF": 4.5404,
+      "JPY": 0.026271,
+      "AUD": 2.4044,
+      "CAD": 2.7087,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 352487,
+      "DOGECOIN": 0.650506,
+      "ETHEREUM": 6699.45,
+      "LITECOIN": 319.04,
+      "RIPPLE": 8.38
+    },
+    "indices": {
+      "^WIG20": 2810.88,
+      "^WIG30": 3607.1,
+      "^WIG": 3607.1,
+      "^NCINDEX": 240.25
+    },
+    "news": [
+      {
+        "title": "Zabójstwo lekarza w krakowskim szpitalu. Zatrzymano funkcjonariusza Służby Więziennej - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3BPWHB2N1RjMEdwYV8wMVFEX0MxS3IxNEphbnBaWUVyeTFWakd3MmJLS0xCbm13TENxeHZvTl9yRnRST3dQdExLeE5PTkV0akQxa1ZFYWZhaHZxY1pUeUk4QWdFbHd1SkRNS05yeXJEbzhPNWE1cEp1ZkF0Wm01SUdUY01xcDJiVDh5R25EWTVGYWdvblVPaDRZdVc3UUxxNG9GMUt4QzZMZWVCLXN3VktkS0pNQQ?oc=5"
+      },
+      {
+        "title": "Trzaskowski spodobał się na debacie. Pozostawił rywali w tyle - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWdYY2I0U1ZucFZDZnZSd19YNEsyNGZRakhLUHI1T0VKOVlVNUpOeGlaNHkzNHNOOTNBUllReG52M0lYYVlEXzBZZUJ4WnpNaXBBc3hlSUhlaEJtN0k5M2tqMHItWFg5VHByVW1lMUE3Nl9SVHpnZTV1cVo1enVLOHJYbGJhdmpicEVoa2V6SQ?oc=5"
+      },
+      {
+        "title": "Wybuch w remizie koło Krakowa. Wśród rannych są dzieci - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGlxeUVLM1FqNzZjaEtEOGwyQngyS1R4WkRYeW9EQXBHSDduVVJibjJ0bkQxY1QyY0ZuS2JRQXpibWlTU01hOVJQZ2VGVUZONE93RklzUXdZZVE0Tl9WLVlxUGpsSG9hOWNJNl9MUXE0WFhtRnZUN19pUGxxX2U0ZThlQkFmeEl2WV9nUVJvTGwzT3AyMkJ1YWNVU3YtWEJFVmdsUw?oc=5"
+      },
+      {
+        "title": "Większość Amerykanów traktuje zapowiedzi Trumpa poważnie, ale ich nie popiera - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hIdTYxcjlaOVRuVVEyUU5FTnpoNmxOZVhsS0xsNGJPQllIckZPbDhTWWhnM1dBdlhGbU9Bek1ENnhFNF9xbXZpMG9FcnBnSUVLc2hQTW9Sa3NSa3JIODB2SzFaeGJtVzdiWHpPdGZjQkhSQmtRZUFhcUpqNXZKd2QxTG9SZ2RWSVctS21ZWGNiSzVjNUo2d1l2YWU2czZBRjVIR3c3X2lqYzBQ?oc=5"
+      },
+      {
+        "title": "\"Ja się znieważenia nie dopatruję\". Bosak o słowach Brauna w czasie debaty - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHkyUTJpUlVTSWFFU1NxRnhXRjFwOW1aM205d2wxMjNIa3B3bzFJMW5YaS12bXBiLU4xWWNkZ3hYZ2pKa0pZX09MazI5Yk9FbG1uVWV3NUEtajNSTjdHOFRHYUVockVnYzlqVnFSMU1LS3BXSDEyUjRFT0MzVXFSeUZXQnNJUUhWMDRudWpzQkZHbWJoWU4xbHRGYWhqTTRxNEtxWmtobjJVTmhGZHExTGxaYWhNOHlpSG9F?oc=5"
       }
     ]
   }
