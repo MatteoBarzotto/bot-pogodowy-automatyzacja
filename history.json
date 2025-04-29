@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-27 10:15:49",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 353886,
-      "DOGECOIN": 0.677442,
-      "ETHEREUM": 6784.93,
-      "LITECOIN": 321.17,
-      "RIPPLE": 8.17
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Pogrzeb Franciszka. Watykan złamał protokół dla Zełenskiego? - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlpmVUVqTTBDdlM4R0hWWjNtMlZ5UFdYUHlYdlJVSTZ3NlhVUmlSNkxWanJQTVNXQVk2OFZPcnVlREswWFkwZmpxNXdRRER0eE85eG1mdnduRUlXbm4tLTVyaDBpOVpUVHhxYmlnOHV0ZEp0TjgxRnZINkJVc1BaRDFhMEkzQmVNeDc1U0lKcDZUQ3FjYktDdHdhVlDSAZoBQVVfeXFMTU9CTi1sYkg1U2JweWt0eEd2a0NYaVh0cTg1dEUxQmt6VlBUcWJQYThiQXpvZkYtVF9GcVJWcGtBdlk4YXVZTlZmRzFKUUZ1QkhyMXVzOVJuNlZOR2xlT042cncxdHdNTmJWa3FYdE9VVXBtUFpZOVdBdU1Db200aGltMmVwWGt3REo3UUNPWTQtTmg4bnIyOXZ3UQ?oc=5"
-      },
-      {
-        "title": "Tragedia w Kanadzie. Auto wjechało w tłum ludzi - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0tjYTVOOWFhSmUwbDRXdFB3dnlIVGYtMk9VeUduYzBQaG1OblYzS1M4enBzbTZULWh3ZFNNOTk2d3RIM0JTX3NfUjhBSHU4bzNGZVhYdjlhQnpyRkxHMUs0aXB2TkdTazNYdkhXUEdOaE1QNHhIT05LcXdMOER4Nkk4NXZ3a3FUWEZBZGl0eFVpWGNoRDB5N280bUFfeXk5Q2hKX05yR0FjdDgtb1p3Nlpqc3pDZXRWZ3hz?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki na prezydenta? Polacy zabrali głos w nowym sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFpsZlBjbkRVbi1GM0ZwMWN0bV9ESlNwVzAtc1RTLXpteUFyOVN6TklTYXUzdFpHRmZkS0d0bzY3Tnd5YUYtYWZaOHNLRWpJOTNyaGhKX0Q3VGd1NUxWQVZ4dEFSTXRuNUdDVmxmdXdJVnd6WXl1S0FTZVpNemJ3SXI0VG4xSzN6TTdEZEdqRlNFeUVvcHMwSnR6c2o0dmFJT3UwN3lFQzlHN0k?oc=5"
-      },
-      {
-        "title": "Sporne terytorium zajęte przez Chińczyków. Strategiczna lokalizacja - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd19ZVGc5Ym1XbkZST2xHeFFLcHdxX1UwWkIxRlZVVnFyV19XTWxBbWt3b0hRdkR6Yl9JckgwR25ORHhZdDgzczRSRXR1NW1kdUV3TGNFMkQ2c1ZHOGNvN2tuNVhzUWNhLVMwRkVsTkM4MG9RbkFJbVZOSWt0Y0tqNUZ0VWQ4V0tIZkJ4VXFkaDFKODFYZ0lIbWtwSWQtNW8yY3J2czdDRlhJeEwyOGF3c0pERnd0UTJrMWF3amI3MVNOd1VRSEV4OA?oc=5"
-      },
-      {
-        "title": "Poseł PiS uderzył w papieża Franciszka. \"Siła polskiego episkopatu nie była tak duża\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV181LWZ5R1I5ZlJ3NHZ6T0RYMEx6a1JxS01JZGNzUFFHUXdMaGg3YmVxSmpLV0d4SzB6b0YteDFrTjJMd0ZKcTdoMWlGU2dGRXVoQVZTQk45aHRldHdWRkJCYkR0cDNwYUtpNW1NcVBxbVVvTTZ3eDZSLTNXbnZKTWcxSDhiTk5zNnN3QTEwUnhXTUdVTVYwc1dBSk56Unp4c3R4LXY3N1lVVHVvaXlpMmR3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-27 11:12:55",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2625,6 +2572,59 @@
       "^WIG30": 3603.7,
       "^WIG": 3603.7,
       "^NCINDEX": 239.51
+    },
+    "news": [
+      {
+        "title": "Śmierć lekarza po ataku nożownika w Krakowie. Dyrektor szpitala zabrał głos - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnJ5TE5Xb3pqeE5PQkYwWE9LS0J1SldndXFxbUJPbTNETHJGSTFnTmZCbTFaYzBfdjRPellxaWIyOE5VSTFObVpmcF9qa05nM3drcVhCdU5kbl9qY3BRUFpIN3NMVm13dmZCTkhlYlJiR3ZmODBRN05WN0VXbkF3QjVXODVGVnpSTEJVUTVHYTFQQ2xjelUtMURpWnBHTGJyQ2ZIak81TzVGT3dCR2hYRHFaUmNvM2s?oc=5"
+      },
+      {
+        "title": "Michał Szułdrzyńki: Trzaskowski zwycięzcą debaty prezydenckiej Super Expressu, Braun i Maciak budzą grozę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXlaTUN1QTdFTXl6cW1Nb21zSjZCN1U2SktUaVp2RlhEVG5oTzJBWEJ6OG9aLXBlNl9Da0piRTFGbnZLbVZncnlNRkF4bHRYU0tjWkR0THpCS1JjRFhseDlnb0Ftdl9vV1BvQnpDcThsVUU5UFZaQi1ST0dqNER6cF9GbE94Q01ScGZObFVOMmJxU1l4ZXM0VFFkWmI1X2ZabDVEenFYbmVhNUtzZ0dlTTZtUXVaRkFpQVI1d1h3WDhzN2h5SGlPMUVieVNwVFhOQmJCUG50OUhYR2tqb1pyVWxQX3JucE5LR1g1RmJRd2xqREthVW1LWkRR?oc=5"
+      },
+      {
+        "title": "Rozległa awaria w Hiszpanii i Portugalii. Skutki odczuła nawet Grenlandia - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVdJcnpFM1RIbXhPc2Fpblc5MEo2VmYxQ0JGNlY5RDF0b2hRZV9rcDJuSXpmckRXS3JUalJNbVJkVXY5RTVwTjl6ZTFmUmk0dm9zMXRmVXBMeFBMZ1F3eW1MYV9OSGRyc3o4MjZxZXhUaXdIcmp6TXVWS1V6MGJqMERhNzdUZkxjM0dKSlVOV0FSbzhXMFFFX0ZRRmpkcmlQS3dSSUktTEE0Mlc4QW52aGxYX09LbUozN01DdHJWSQ?oc=5"
+      },
+      {
+        "title": "100 dni Trumpa. Miażdżąca ocena działań prezydenta USA - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1ZUaUx6SXV3OWlCdU5EMU5YZkh2R252TTI2cGsxZEgzS0dlWTBvMWs4SXBMeEhlNDcyR1dzaUlJTVNSMjdPdmZNakR5QnQ0OHg5dEpUVU5JWU5pekcxamNYUHRlczV3WUxtZ28wVjdlNkV2YzVMSTdKOTJGSGdIbkN4cmxRRXVkeVRJT0J1Zl9qb29uT3ZNTWpBbWYwaU50elNzbUs0bVYybF9V?oc=5"
+      },
+      {
+        "title": "Skandaliczne słowa Brauna. Mamy szczegóły zawiadomienia Biejat - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjFQUW93cE9VbTg4VDUta2x2XzE1N3BWNGxWSFFJMDZSeUdmUVFQT1EtSkNFZzNmV1V1NDFyVUdXTGNHbGFNdzhjNjNmRjJHNGNGSjJjWjBqaTg1R2trcGNEVmZHN0lJRGRaUXlsNFEtakJyLVd6UkduZ0ZmSUtKeklYT3pBazBqSzRJak1WYjVoeW4tSmNBM0JhWHJwcGZyM2YyVFJVQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-29 16:14:09",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7458,
+      "EUR": 4.2646,
+      "GBP": 5.0231,
+      "CHF": 4.5404,
+      "JPY": 0.026271,
+      "AUD": 2.4044,
+      "CAD": 2.7087,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 355988,
+      "DOGECOIN": 0.669591,
+      "ETHEREUM": 6821.09,
+      "LITECOIN": 320.96,
+      "RIPPLE": 8.56
+    },
+    "indices": {
+      "^WIG20": 2811.18,
+      "^WIG30": 3607.79,
+      "^WIG": 3607.79,
+      "^NCINDEX": 239.2
     },
     "news": [
       {
