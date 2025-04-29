@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-27 15:19:42",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 352799,
-      "DOGECOIN": 0.681234,
-      "ETHEREUM": 6742.73,
-      "LITECOIN": 324.91,
-      "RIPPLE": 8.42
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Marta Nawrocka przemówiła: mój mąż składa się z trzech elementów - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHhjc0M3UE84UFJMS3hiU2w4TF9Od2w1Nkl3SndYaEplSk9uWmJKNU85UVNFOE13QXNXUVllRkhkdkMtaklCVFVwZmRKRFFCanNnaUU0VXNoT3o1eWFwOHZXZGpORDBjRXRVYm1ZanZTVjl5ZlI1RzV3Uk94N19JY05DWEhuU19QRWRIbzZNNmNER3VpdDFwVlJlbkp2QXVRbnRSMEJRVkRqLTBzYmZoUjJROF9SOU5vZkNFUnJrUmRMems?oc=5"
-      },
-      {
-        "title": "Pogrzeb Franciszka. Watykan złamał protokół dla Zełenskiego? - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlpmVUVqTTBDdlM4R0hWWjNtMlZ5UFdYUHlYdlJVSTZ3NlhVUmlSNkxWanJQTVNXQVk2OFZPcnVlREswWFkwZmpxNXdRRER0eE85eG1mdnduRUlXbm4tLTVyaDBpOVpUVHhxYmlnOHV0ZEp0TjgxRnZINkJVc1BaRDFhMEkzQmVNeDc1U0lKcDZUQ3FjYktDdHdhVlA?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki na prezydenta? Polacy zabrali głos w nowym sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFpsZlBjbkRVbi1GM0ZwMWN0bV9ESlNwVzAtc1RTLXpteUFyOVN6TklTYXUzdFpHRmZkS0d0bzY3Tnd5YUYtYWZaOHNLRWpJOTNyaGhKX0Q3VGd1NUxWQVZ4dEFSTXRuNUdDVmxmdXdJVnd6WXl1S0FTZVpNemJ3SXI0VG4xSzN6TTdEZEdqRlNFeUVvcHMwSnR6c2o0dmFJT3UwN3lFQzlHN0k?oc=5"
-      },
-      {
-        "title": "Przelot F-16, pokaz dronów i cały dzień atrakcji na Pikniku na 1000-lecie Korony Polskiej w Warszawie - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVlRvaUxHTTNLc3VubVpTUzRfYlJhTTVfbUV6T2cxeVJnMGNuRHQ5MVI2a2d0N05YclBkUDcxdktaNHViUURhUkRVeklySkJpSHpSTzFhOGVuOEtHOTF4UGRoZ0xTc2E4czNsaFJzdGZLZzZsT0FPWWtkMl9icTVYc3pNZ0hPcWlZb25GMzQ2VFZSemxkZzktbGliOHpkZmlRdTdjVnh5RXF0Vl9qeU1UMGU5dzNWQzF6SF9NZVNB?oc=5"
-      },
-      {
-        "title": "O tym się nie mówiło. Kulisy pogrzebu papieża Franciszka - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUdsNFRucEx1ZlNUaldqRElGaXUyYlJTelBHYm5ZZGVXTzVwa09JczduNnA5LUw2MS1BdFFKUXJVbndLT1gzWng2d1NNQnRvU0NYVGJGRTU0ejAzV05iLUVLWXBLejdOREd6T1NHRTFwanhXei1HcS1wUHprZ0ZNN3BUcUFNcHIxM0FZUzc4dWloTk1nR3RPZEEyN2p1OG91SFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-27 16:11:16",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Polak poleci w kosmos. \"29 maja wszyscy spójrzmy w niebo!\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjl6dGZjUFQtMDJpRmZneVNyWEUtMm1vNTRnRkZubnlDeS02TV9UTDhWVzhQVkZaUFFQalRzV0pJN3BxVzFVdEFLVzJEd2tqQ3V2Z3FEYXoxcUMtYU9TU0RNMDhJY2xfX0pUOHdvS2xYSHRfNktYMzhwLW5kUGdkbVI3eWIzVGM1?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-29 21:11:00",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7458,
+      "EUR": 4.2646,
+      "GBP": 5.0231,
+      "CHF": 4.5404,
+      "JPY": 0.026271,
+      "AUD": 2.4044,
+      "CAD": 2.7087,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 357689,
+      "DOGECOIN": 0.671996,
+      "ETHEREUM": 6843.85,
+      "LITECOIN": 325.7,
+      "RIPPLE": 8.62
+    },
+    "indices": {
+      "^WIG20": 2810.88,
+      "^WIG30": 3607.1,
+      "^WIG": 3607.1,
+      "^NCINDEX": 240.25
+    },
+    "news": [
+      {
+        "title": "Śmierć lekarza po ataku nożownika w Krakowie. Dyrektor szpitala zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0tJRWhGUXNJNC1MTVh2ZUtwS1JBY09vYXRabEZOUmQ5Q3hiOUFHMWVoa3VYZG5hT1pjNjF5OEF3NUozODJnWFk0WjU0QnZ0cG9ZeER4R1lFX0N1UFJ3bWgwaTFVcFpsVkNFazFNSENua0VoZ3RsYkdVamRCaXlxVjNTSW83cUhNLW96Mjg3TUpBcEtPZkRHd3M3OEpfSkVJM2Y3eEZyOFRBSlJFMEFOeUZtZHhwcGtMY3FvLWJGQ0gxNFYtcFJDa01EX0haQQ?oc=5"
+      },
+      {
+        "title": "Mocne słowa politologa. Tak ocenił debatę prezydencką \"Super Expressu\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTZqOXVxM085d1UzdDV0Tlc2WFg4OUhsMFJ0NnJKUldQMHdoampGTkJocUxTaHh3QlZuYzNwOFh1TUJfeEgteHBDTHdoQU1sMGNZci1xeWozX1dhYnd3NE0tMG0yQmsxamtwcFZiNWc2MzJaTGFkcjNBOWRZV2xJZk0ycHZ2ZWFUckxkMWhwNFB6eFc0Z3FCalFFNFZwX3BSQVJKcHQxWm41S1JGNWQ4?oc=5"
+      },
+      {
+        "title": "Szczegóły konklawe. Nowe informacje z Watykanu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1BVTU1GRll1REVIV0RBWXZZU3VkSmlVS2xhWEdlWnRtc2NKZENtUVNtODJ5Zm4wMnhVdzV1UVc3bDA5U3h0cU5CTldXS2xkVWJsT3E4T29Kckg0RGotUEFvbW1Yc25PWmFrN0gzY092V1IxMVlLNGpfUEVrVVRCamkzQl9vQk10N0U4eHdLZmlTc05iMkU2ZzQtZVNLQmVPVDZzWnlHSjlDclU?oc=5"
+      },
+      {
+        "title": "Lotu nie ma i nie będzie. Pasażerowie nie wylecieli z Lotniska Chopina z powodu awarii prądu w Hiszpanii - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjJBcFFRU1BTcXA2bkZudks2ODM5Z3FRZkZvY0tEX3YtWEdrWWEwNDZoRG01Wms5OXVMeTBjQjFwVHVSN2lsRllpX0ZMTWpfUlJpWTQyUHRWVndGUk9pU0M3UXB0bk4tMWptM184Y3hiQVVFMDFZb3QxMXZNUWZpZlJDTmJMellfZnRfdjhFcUpFRXp1RzdERFhUdWdab0RwYWdoYnpYMVVHbmYyRkRmbm51SFZheWxxci1tSVZR?oc=5"
+      },
+      {
+        "title": "Andrzej Duda o bezpieczeństwie energetycznym Polski. Padła deklaracja - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV25KMWRWZFo4cEFmbXB3dEZCYWd4MUpqd0kwbEI3clN0dnlDWE5iLW5KYWdFT2lab0x0YVZGVmFXRTZmNHE1RDFiNWlXZTN6TWpDWFRXbTV0Z25LOVo3TDVnQlREUG5CYlQtMko3eEEzS2Y0cmJaMnJJckRBT0lLTUlSRWMtcEM3UDNnXzBoNEpLVWdsRl9ZT2dfOE55QnQ2ZHduLVVCQmIwMnk2eFRTdE96ZTdDdWo2NnZkd29zemRVdXVJYldGNUhZaw?oc=5"
       }
     ]
   }
