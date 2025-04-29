@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-26 22:13:22",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 354834,
-      "DOGECOIN": 0.681751,
-      "ETHEREUM": 6819.48,
-      "LITECOIN": 328.26,
-      "RIPPLE": 8.28
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Linda Noskova - Iga Świątek: relacja na żywo. Polka gra o 1/8 finału w Madrycie! LIVE - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlNtbFpzMW1Galc4Yk0xdnZpT2tUQmR5Q3Y1TElIVVVhUkdyR3k3QUR6MlY4YW1NWGEyTktwYXFaVG01WmxVdzJJNjFndVBxUmF4ZkRJX1hKbWVFLU1waUY2bFhlSjV3cFFiWFN1cURBS2V0a0xvbHMzVUh3MVcxal9KT3FGZmk0aldQajBQbEI5djhlQVFvMUdNTjdnZEgxc0NITUpVOWV0SFItd0o1UWUxN1ZFWkZxLXhkSkpGOGRyUC0z?oc=5"
-      },
-      {
-        "title": "Tego nie pokazały kamery. Watykan ujawnił zdjęcia z pochówku papieża Franciszka - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3hyTGdLVWhiWW5CNEZmNmRNUk8zbEN6S1RUWVkxVUxfSDRpMDFmSTZIam9IZ2lxSFdpR1dKb2t1M1VzcGMwVjRvcDNVUGROZFFfR3I0MlZnQ0JoeEdxZFJLYVAtdlZDYU9oaTFlZk5neXhoaW5ScWRkbGpRTEpNdjRzbmFqMUl2elBqcGVIZnluMGM3VmZBd2tsWkxzWU9VZE5FQUhBRi03MjgyemxsNg?oc=5"
-      },
-      {
-        "title": "Cud w Rzymie: Donald Trump godzi się z Wołodymyrem Zełenskim - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVE80NWJpcmZ3YXZwYTZpcndjMWVDQlgzbncyUnFITHNCdlNaMlhjUVRfa0dBSjBBalhMX3ZkSFBFZkVBQUVMQ05ZN0FFcktxSDNYdU56NWdwVFhpQUIzV0hfeEhTUlgyR0RSQ0hBQ1BoT0wxcHptWFJpXzh6LW81WUczWUlmSHdWRTVxYnItaWQ1MjJZNjJVYzJyenVwUUFzb3NrZW15SmpMU2lES2FWR21nWkV5SnVDbl9Oc0E5VkR6NGl3REE1X3A0cnZnLXVaQ0dSazZ3?oc=5"
-      },
-      {
-        "title": "Jakie zrobił zdjęcia w Watykanie? Hołownia wyjaśnił - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckRpclltR01DQjFGUGdCQmZYU2JqMC1TeWpFQV9ncnZMVERCbE1nSlVnam9BOHJGVDdEU3dhYUhqTzdtU1M0WUJ6SUM2MUVhY1V3NWxKNGg5RUpHNFJTR3BUclhhdGNBUGJlNzBQV3dhYTBJaXZ6eVFxUjE3YWdMVXNXcjRDNTFPZDZsSUxQWm1COS1pXzdaRA?oc=5"
-      },
-      {
-        "title": "Zarzucali Franciszkowi herezję. Czy konserwatywni kardynałowie mogą stanąć na czele Kościoła? - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmNjMHYwSF9pajFvQ1ZGZmVXUk1Lc1MwRFBHUTRiTFRsaFAtdzNJa3hGS2tFdE8yTHFBSnJ5Skc4M2cyeksxc0V0WkhPQmo3VmthaFZHV0pBQ1QxZG02dEZCd0d5VUlOeE1hY29yNkdYY2hvdFlxVHdEVjZRRHdjNEs1Uko3bGtFdVVudkZPcmcwV0JibFdfNkd2eFhNUGg3VngwM1hmenE5RzkyZjlkRNIBrwFBVV95cUxNbWNtTlFfZE5YQlNhcm03V0NrWWs2UURnRGJNcHFleTFBLWFYd2tJdzZOVTZWbGFHTFF4bndOa2VIT3lTbmYwNFZCeFU0Z0lIa0l0VVBVbWlKMGFNZXJKS1dyaEwzMnBvWnhDWmRrSU1naGUwN0hjNUl1TGpvRm9zWnRURzNoenQzMGVmMXlBTlNPck1ZZXNDUnB0WjJwcFdUOU0zYzZwT3RPci14dV9Z?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-26 23:11:14",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Zawiadomienie do prokuratury po debacie prezydenckiej. Biejat reaguje na wypowiedzi Brauna - Fakt",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXdEVlF6QUk0R05wVWx2amd6TkZsSkI0RGRVQVA2RWkxMjlQeDNEaVN2RGdIVXpVMW13S2t1VFFySnFzMmZJTkJCNm5zZ1BFSjJQc2s2Yjk5Y29UVXVQX3o3RFFaWWZWY1p3MzliUHBUNnZ4V2psd3hHU2lZZjc1WDNjR2RQNzZQMTQzcVI5YU41WmhkN25XVVBxcTBVVUh5S0Fvdm1wMXhLZGx2Tnc?oc=5"
+      },
+      {
+        "title": "Trump apeluje do Kanadyjczyków. Wciąż nie porzuca tematu aneksji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaW02UTY0bmxmazRjMmNINzkycXBiRWZLR1VYODUtUVFQWGwtVEEtMjkyVURNZXF1Q1o4RVdHVGRiSkhMYzhsbXZNOXlRSDVqWWpoZVhUMEllMl91NmpHYkU3WjM4ZFVZNXlTRUhKdGtHaF9HUDJkY0VQUVlmS2liVmdJWW1hRy1iaTB0STZFdXN2M0tLT1cyQXYtQWYyd0dFRE5pQW50RWN5YkdTZmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-29 06:15:41",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.7701,
+      "EUR": 4.2766,
+      "GBP": 5.0248,
+      "CHF": 4.539,
+      "JPY": 0.02626,
+      "AUD": 2.4052,
+      "CAD": 2.7154,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 354920,
+      "DOGECOIN": 0.673694,
+      "ETHEREUM": 6754.67,
+      "LITECOIN": 325.03,
+      "RIPPLE": 8.58
+    },
+    "indices": {
+      "^WIG20": 2805.35,
+      "^WIG30": 3598.9,
+      "^WIG": 3598.9,
+      "^NCINDEX": 239.64
+    },
+    "news": [
+      {
+        "title": "Jacek Nizinkiewicz: Trzaskowski przyzwoitością i refleksem wygrał debatę na punkty - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmRxRlN3dURmRE0teEk2WlJ3OXYtMXhTdkxleWtjSnFXX0pfVzB4dzU5LThsZC1HYUhPaGhIb25FRVZGTG5CUEFCZVJIbnlQc1BDWUhkX0ZKbXNmakY2cTFQdG83dzlZenhKYXRMcWNaREV2T2RCY0NocWNqelRtYVBiczd0bERWamNzZkNHQ2VfYlY5RHJSNkh5YUFnUGJadk5hamxsaEFDZ0k4YXR1TllsWHBXNm1kYnNzN0Z6dw?oc=5"
+      },
+      {
+        "title": "Paraliż w Hiszpanii i Portugalii. Nowe informacje o przyczynie blackoutu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWhGc3hPcjF6UWRpWjBpZVBHbWhfQzlMbk16X0VPYWluQl9zbWFRY25VMGNyY01BVFlwNHVVVFN0THVPZ0Q0SFhGNWtnNUNBWTEzaDZpUXlnbG5jWGVRaUc1MlZ0UUtGRC1CN3pHYU53MGV0eU1NeVdXZW5UYjg4S3JRb0U3V0REc2dWT0FSalgxb0ZNOXVCOWJhQ2VaV18wZ1FVcDFyTjhKSXlZVXZVOWJpRTd2NjdmVXd4dDA5cWFFRWJhYnd3bzlrYnNWU28?oc=5"
+      },
+      {
+        "title": "Zawiadomienie do prokuratury po debacie prezydenckiej. Biejat reaguje na wypowiedzi Brauna - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXdEVlF6QUk0R05wVWx2amd6TkZsSkI0RGRVQVA2RWkxMjlQeDNEaVN2RGdIVXpVMW13S2t1VFFySnFzMmZJTkJCNm5zZ1BFSjJQc2s2Yjk5Y29UVXVQX3o3RFFaWWZWY1p3MzliUHBUNnZ4V2psd3hHU2lZZjc1WDNjR2RQNzZQMTQzcVI5YU41WmhkN25XVVBxcTBVVUh5S0Fvdm1wMXhLZGx2Tnc?oc=5"
+      },
+      {
+        "title": "Rozmowy niemoderowane, czyli brawa dla Putina i tyrady Brauna na debacie prezydenckiej - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVW5CRGZMcWJFMkE0VTRhMktfdVRTRHhlS0Q4Z2FkdHZsV0E1bnphalJqLVlFTGdCOFlEWkFOTXFjczQ1cHMzcy12RXVTZGN1TzBzMnhacVZ0aHR3MUVhaDl4OG5GS3VfVzZlN0lBY3BPdmUtVjJZcnRoaUJiRWhLLUxySEhqNGlCVTNXOWgyVWdfLVBqNlYtUGE5NnFpX0IwNTZMc3BR?oc=5"
       },
       {
         "title": "Trump apeluje do Kanadyjczyków. Wciąż nie porzuca tematu aneksji - Business Insider Polska",
