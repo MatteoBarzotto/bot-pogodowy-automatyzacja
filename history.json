@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-28 13:32:42",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7701,
-      "EUR": 4.2766,
-      "GBP": 5.0248,
-      "CHF": 4.539,
-      "JPY": 0.02626,
-      "AUD": 2.4052,
-      "CAD": 2.7154,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 359839,
-      "DOGECOIN": 0.685529,
-      "ETHEREUM": 6857.7,
-      "LITECOIN": 328.76,
-      "RIPPLE": 8.78
-    },
-    "indices": {
-      "^WIG20": 2813.38,
-      "^WIG30": 3606.09,
-      "^WIG": 3606.09,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Rozmowy Rosja-Ukraina. Rzecznik Kremla podaje \"konieczny\" warunek - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZW8wYlV3MzdNUkhCTlRiM2x4RUNYR1Z1a0FwdnNNUEl3bUxwNnJBY3cyN05FemhPc2VTTXY1NHVhZzh5eWtRZWxtbmFzSnlGY2xUVGJwamY0X1ptSGJsRnpmN2ZqRFZWQmYxbHZSUHl0dUZfc0dWN0FXXzRQWC1iX2l6RmwtR3hiT0R2N1UtTTNSZV9LQlBZTDJzZm5SdTk1MDFmM1NaYXJ2aHdTTUdpU3hB?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: Znamy datę konklawe. Jest decyzja Watykanu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXRrNWdUa2R6WHBudnhRSW9tZEV0UVZFeXhRMEdiaDRXZTdYQmxPMWs2QVJPb00xcG9FYjVzQjU0MW9xUlpQSlpxZDA3ME40b21nUEQwY2xZejNHbmhmVDZjWEdvMUtjZUhUMFp2cW5uZ0VLOUpCeVloQ3hleENZY2FyVUpRZDliWUpwaTFNeDR0dGtVakd2NjJKUnc?oc=5"
-      },
-      {
-        "title": "Nowy sondaż prezydencki: Sławomir Mentzen traci szanse na II turę? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWNzd2lYUTdRMzVYUFpMTl8teGRwa2ZsLWt1a3kyWHVSUXZQLU1MTmJJX3ZPdFU4SlJKX1VoWURHbVZpX0RnSUZ1b0dFR015ZFNrSm1HQlJKd0FxOUctTld6d2RCYnVMMHVUVjRPdkZzcW00ZXhMWFRiYVNzZUprZVFmR0xaem1sRG1qdUxINlR2R3JMcVdvenMxWC1OQmd1?oc=5"
-      },
-      {
-        "title": "100 dni prezydentury Trumpa. Krytyka narasta - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVNDM0xsWDkxMXFEZUdqbzNWQkNzTFVEQ0g5aHNaRmVjaWNMLTZ0Wk4zWDZTTFBidmo1NW12Ry1yQXZJY3RySUdvVTZHYjlaZGg1bWxVMUFSRExrMk51MDgxd0NBeUVEdmwyUDNpeHhWaElSYXM2TXNkbHFYdVdkXzVJbmlUellVOUhVVTNWbWwwcW5t?oc=5"
-      },
-      {
-        "title": "Krótszy czas pracy. Rząd przeznaczy 10 mln zł na pilotaż - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHYtVFczMkdHTGU1cW5Banh6TGxIZllDUUxYaXlnYzZQNkh5Q3NVSHFRZXdpWGtBNWFiVVAzQ1JPRHpWQnBxZ0lrVTZDTmJuMVhhVm1LYzZTMEJ1OER6OFdQRjY3eGZGdW5vZmhicWlmNV9JU0U0Q1FEbFNUTThSNUZWcGJnRjBBOXZ6QzN1RWZMbHFNaGFQTzN0RHV6R19EZlhpRGpFdmt6XzBLcEJV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-28 14:26:42",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Spięcie Brauna z dziennikarzem TVN24. O skierowanie sprawy do prokuratury reporter TVN24 zapytał Brauna... - Onet",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZVlWM3YtS3hQUHhIVW9iZVhMNXR4ZkllZWJNSzViQ2VNMU4wZzJSZmFBa3VuT1VsWGhNb2VramRNSjhCUU11Zkl3YWdpS09UUTZpdWlCSkxtMVZST3gzaEphd1l0SDg3LWg3ZWprcUtMbVBTdExYZ3o3eldvcjRXcXVfMncweXFPMUp6N3FvRFNKb3U1WXBlcW50djQ2Ynh4NUZMaXU2WTZ6YlNXbVYxaFJqajlqYUJSQUs3b2w5S1hZanRfWi05aF8wMmxoN1k?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-30 19:12:00",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7617,
+      "EUR": 4.2778,
+      "GBP": 5.0283,
+      "CHF": 4.5562,
+      "JPY": 0.026336,
+      "AUD": 2.4039,
+      "CAD": 2.718,
+      "CNY": 0.5178
+    },
+    "crypto": {
+      "BITCOIN": 354141,
+      "DOGECOIN": 0.641848,
+      "ETHEREUM": 6662.42,
+      "LITECOIN": 313.59,
+      "RIPPLE": 8.15
+    },
+    "indices": {
+      "^WIG20": 2737.86,
+      "^WIG30": 3525.07,
+      "^WIG": 3525.07,
+      "^NCINDEX": 240.09
+    },
+    "news": [
+      {
+        "title": "Tusk wzywa Glapińskiego. \"Najwyższy czas, ludzie i firmy czekają\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0RnejBwdWRJXzRrU3ROQ29pOXZkYXgtR0RmOE8zNldRdmJOd0RoQUlOSUdJbklmRm1nWXZ5dXJUaHNQY2NndzliZ0VSR0xUWmVlZlF3b1gxaERSVmJ2OUJRME9QZTBUTEZXUXdTRUFGNFlkbmJucWxVS3hhMWlkbGZmRU1IR3Y3aUtMSW9CMzZqd1RacTRFa1dJdGc0LVozYTFQejJJM2oyeW1TMFo2TFo5VGVzazA?oc=5"
+      },
+      {
+        "title": "Dymisja szefa Służby Więziennej. Donald Tusk zabrał głos - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGI4V3RIY0lMVHRMUTBaQkVJVVJGUVprOFVxbGt6NXdNYnZpcENMZ1ZzSVJGOFhleVlpWjhmUW42LTlKVHNsb3BvOEJVQXlsQWtQX29MSXBsN0lxTUlpUmNWV2p6MmlCLXM0TkhWSHQ2YUs5Y0dHaEpjV2FnZ1ZieTdJM052ckVoRmFxMl9nSHRmYTQxSVBVcklVNA?oc=5"
+      },
+      {
+        "title": "Jest najnowszy sondaż. To on wygrał debatę prezydencką - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmk3LWp6X2NsRC1HUl9LaUpwQnJBU1U5d2ZLeFZpSFVIazNMV1V1QmwwX1pyMFNfcUNNd01Dd01Qd0Jwa19IbmFRMVlTMUxjbzdkYlBQRi1nZ0U4cG55Y1ZEQkJkenNQaVFnVzJxTV9xNGNRQ2tyY3o4eGRJSDZJSkNxUVZWZTM4SXc?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki mówił nieprawdę podczas debaty. Nie jest właścicielem tylko jednego mieszkania - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRS1zQ19NVTJnUjBmY3NhUkh4OXNVUmVub1UxMDVqbk81cmNRWmQ4QS1XTzdGR25NVUlVcDVEN3U1Q0JiejNTa1g3WFZHT05XRzZkY3hwTG14aXBNeWNDZHJ0S29SeURmd1IyTW43UG1TMU1xX2NHRDVIWHhYWW42bmFMSWhHZGtmSHhzaGxSTzdKOFlhSmw0X2JwR01GNkJUdW9CX2Q1MmRKdUdjNEJ1UFJKM191U3hTZ1RMZkI4TlBNZw?oc=5"
+      },
+      {
+        "title": "Media: Ukraina jest gotowa podpisać umowę o minerałach z USA - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWdmYmplUWFTcU4xS2FjUjRMZjRVVHdnNkJpa2ttc2d6bkdJcFl6ajZtTXRDbHU2bzhQaThtWVRmdG96NGhNR1VVWnhWampqVmdMQVNTdG9fbldXWWdTaW9kZ09YYkxYNlFIWkN5aVcwNXdtX1cxSHAxc1NVMG1VNjlvUHFsS3Z5NTNfTUhSQzFrRm9UQmxvbnpabVhaZm1tWHlkbUZnTFRTN2lrTW04WGxtLXk5QQ?oc=5"
       }
     ]
   }
