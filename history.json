@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-28 08:26:48",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.7611,
-      "EUR": 4.2688,
-      "GBP": 5.0033,
-      "CHF": 4.5278,
-      "JPY": 0.026222,
-      "AUD": 2.4033,
-      "CAD": 2.7084,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 354771,
-      "DOGECOIN": 0.676661,
-      "ETHEREUM": 6766.02,
-      "LITECOIN": 325.57,
-      "RIPPLE": 8.56
-    },
-    "indices": {
-      "^WIG20": 2793.7,
-      "^WIG30": 3582.9,
-      "^WIG": 3582.9,
-      "^NCINDEX": 239.91
-    },
-    "news": [
-      {
-        "title": "Nowy sondaż prezydencki: Sławomir Mentzen traci szanse na II turę? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWNzd2lYUTdRMzVYUFpMTl8teGRwa2ZsLWt1a3kyWHVSUXZQLU1MTmJJX3ZPdFU4SlJKX1VoWURHbVZpX0RnSUZ1b0dFR015ZFNrSm1HQlJKd0FxOUctTld6d2RCYnVMMHVUVjRPdkZzcW00ZXhMWFRiYVNzZUprZVFmR0xaem1sRG1qdUxINlR2R3JMcVdvenMxWC1OQmd1?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński chwali Andrzeja Dudę i Karola Nawrockiego. \"Takiego prezydenta potrzebuje Polska\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQXzJZc0RXb0l3SEFhMzU2S1pwYzBQSXRuZjJ3LUhqalFRaEh2eDEzcGhma2ZYcnNMejdzNFVOalZfUko1Wk5YeHFDaElOMnlQLVV3UGxBbHBUTU0yYVU4WlMzNDYwMEkybElyeXhKY1lsVDBfQjIzWUhTcEQyc2poTkMtUlFJU3NCamQzXzF6MEU0cVh6WUpLR2J2dW9KZEFoRXppcElJQXB4bGQ5YWlQd012ekM4a0p1anp4bFBXTDZCZ3hQQldXdDBzaGZvZWI3Y2RzZGNR?oc=5"
-      },
-      {
-        "title": "Żywiołowa reakcja ludzi na widok kardynałów. Od razu kazano wstrzymać dla nich kolejkę do grobu Franciszka - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTFUV0tFZHpRYzZNMUZVVUNDQ0J0cmwtUk5RY0VsUzRsUzZUVkNzajljSTJBOWY0Z2lSVFRqeWkyeUJPeGRzRXRfUmgxaWNNTF9pbG95d2tUR3VycWRranhXS3hTN2k5WXRvekRQWkI2RE5fdGJfcTVFQlpUcy0tWW9GY3VMdm5lVG9nVk5fZUpLUnVlS2FQWS0xbEc1QQ?oc=5"
-      },
-      {
-        "title": "Ławrow starł się z dziennikarką CBS. \"Nie słuchasz mnie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUdhdmpER0ZEOHNYM3hFUVBXeXlGOGNIMUFnUWxDVTRqVGNWU1NzMWVnWXU2eUNSdlUxbERwbTZDODc0WDl5WDZkajNWeWNVZHhDbzZvN0FwUnpXVmZMT2tZNU0wMmRsTF9UaWxqUzB2dFFsdG56S01uMFZneWlhVGNSeXVvbTd1cjltbW4zekRhUnNYeFc3QV9kRWw?oc=5"
-      },
-      {
-        "title": "Ich zdjęcie obiegło świat. Teraz zdradzono kulisy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUo0TTktNGc0WUlfY0ZVMVVfZ1FXWmNtaGpOSDZ4MFE1eGVwbElDck91WmxYRW5BQU9sMXhUM0l3XzlFZXNFR2JLNFQ2c3BEYlpUWE4xbGIxdmRYZU51MXg2R21xM2tyeDllaV9WUExqSnd5QVlxWnR5d2twMU5JMXF0dzRObmNheTFCX0hMQVB6dUtyY2RXMTlVQVZMOExDTjQ3eUljNWRDRkZnWTFGLVNR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-28 09:39:22",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Indie i Pakistan na krawędzi wojny? - Defence24",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrNzNnNUpiSmx2RS1QUkhxdXRXZVNLNkN0ZzN5OUdKWVJHQnRtZFZaZ0RPVnVpampaZEU2WVJJbVlNOXg0cVljR0ZBWmJVTWlvTktvSWtERjBDbVA4T1VqTkdfOHQwNGlxVUh6X2tkRk1mUHBabnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-30 14:26:31",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7617,
+      "EUR": 4.2778,
+      "GBP": 5.0283,
+      "CHF": 4.5562,
+      "JPY": 0.026336,
+      "AUD": 2.4039,
+      "CAD": 2.718,
+      "CNY": 0.5178
+    },
+    "crypto": {
+      "BITCOIN": 356562,
+      "DOGECOIN": 0.654646,
+      "ETHEREUM": 6771.82,
+      "LITECOIN": 318.58,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 2749.2,
+      "^WIG30": 3537.25,
+      "^WIG": 3537.25,
+      "^NCINDEX": 239.38
+    },
+    "news": [
+      {
+        "title": "Służba Więzienna zabiera głos. Odpowiada na słowa Adama Bodnara - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGtFQjNSdWZ2R3V3YXJ4Y0pnVlI5SUpERVpHby1TZmRGbVlVNTRwSU9HSG1YclgxWk5la2h4RG9Dc0JWQ2p0bFBlejgwSkhMU1djQjVOTFBWZGhtR3pTeHc5R2lBUlI4V3RzZmNkWlFpRUFRNnUzZWpQWmJsMDduZ0M1clVSVU5uMGF4Wm1JWXlrTmt1X2JidDMwb1hjeVNfbWZoRQ?oc=5"
+      },
+      {
+        "title": "Jest najnowszy sondaż. To on wygrał debatę prezydencką - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmk3LWp6X2NsRC1HUl9LaUpwQnJBU1U5d2ZLeFZpSFVIazNMV1V1QmwwX1pyMFNfcUNNd01Dd01Qd0Jwa19IbmFRMVlTMUxjbzdkYlBQRi1nZ0U4cG55Y1ZEQkJkenNQaVFnVzJxTV9xNGNRQ2tyY3o4eGRJSDZJSkNxUVZWZTM4SXc?oc=5"
+      },
+      {
+        "title": "Minister komentuje ustalenia Onetu. \"Szafa z trupami Nawrockiego jest ogromna\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDJwTEY4alBqaWx2V2hsY0NndmZ1aXVYM0NTMEh6SDJXcEVINmtuNE1RYmJpUmREaWFNV202czNIUmIwUmQyMlhlbzZ5WEVVTkVpRTI3aEpMR2w3LVI5X0duZUFLYURJaEp4aGZSQ202M2RXYllHYlpqUmNyNmJNc24zeFZzdEtDdjdOaVRaTVJZV0s2M0xOeFo3MjB2b3FjSGJfS0RBcmdubnJDWUNoMEx6OS1IMWQ1b3VOSk41QkFLaWZhQVRIcFBRSzE1aE5ubUVQVg?oc=5"
+      },
+      {
+        "title": "Pakistan i Indie na granicy wojny. Atak zbrojny możliwy w ciągu 1,5 doby - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEUtTU85bkZjUFREb3EybVhYei1PU3htbnFtVVR2TnR6NFZzUTdlYTVTUXFXeHRkUWtqRmpxb3lnTkFBRTZtVGtUc3ZILU1lcFkzd1AzSjB4S21hcWdJNFc1U2tlRHlIeGJ4WjNYUngzZTRHTVhHeVpxWlRFc1UybkFhWXZkZXBBSDdMWndYVTZVeW4tbEtIWUtFNVRYTk9FU0RtaG9uaEIwVERIZ2pVZGcyaTdrX1V6bno3Wg?oc=5"
+      },
+      {
+        "title": "Jest decyzja w sprawie niemieckiej koalicji rządowej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzJpQW8zVXVrLVpnWFZ5RDlUZnVzRGxmWlZiSzRKOXVXTVdRYzVjUzhzVVdVZmMwUVVZd1YyUkZlalNrYThNdkJDbnlpYy1aa2xrOW9GR0FsN056VF9WZFIxZHZMVk9xOTBWSHdDUGh4TllFODAwN0RwZkZmbHViNHY3aHdKVlczRkY4TFdVbTZsTzNNaWNoUDJWT1FRNm4xOVFPOA?oc=5"
       }
     ]
   }
