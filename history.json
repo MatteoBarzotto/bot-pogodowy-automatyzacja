@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-29 09:14:27",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.7701,
-      "EUR": 4.2766,
-      "GBP": 5.0248,
-      "CHF": 4.539,
-      "JPY": 0.02626,
-      "AUD": 2.4052,
-      "CAD": 2.7154,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 354802,
-      "DOGECOIN": 0.672399,
-      "ETHEREUM": 6810.17,
-      "LITECOIN": 323.42,
-      "RIPPLE": 8.55
-    },
-    "indices": {
-      "^WIG20": 2819.81,
-      "^WIG30": 3616.51,
-      "^WIG": 3616.51,
-      "^NCINDEX": 239.64
-    },
-    "news": [
-      {
-        "title": "Zderzenie tramwajów w centrum Warszawy. Są ranni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXkwV05xTC1xUjlrWlY1R2RiX000ZGVFQmxGNWtzeDNPNnVSbkR1YVBJSVg5Y3BpQ01iM295ZDFpUzI5aU5oT09DQWtOMmlVX0dZVEtvZ2hCQVc0cmJGdlVoMVdZOGx5b2ZkT01ZZGlrc0JjdllTTnFGY2pfdEpzM19weWxNSldGUDI2XzRvdHhiSUVUaXcyR1NFQ3hqQklobThJYXZYN21iMmVw?oc=5"
-      },
-      {
-        "title": "\"Ofensywny Trzaskowski z flagą\" i \"wyrobiony Nawrocki\". W sztabach zawrzało po debacie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGtkWTF2TlpUU2FWLWluUGdlUXdiUWZYbE5JQXpYZzRESkVUNy1ib0w3Ti1sbE1zZWFUS1NiLVpBczZvTGFKWDhWbVFDc2dGQjRRd1JpNkE5S3dpcUsyR1NCazJMX2ctbFpsYUdfa3RrUlM2b3ZvWG94OEVIQVdnWTJiR0ktWW9OX3E2RTVpQ0FaWlFXX0RMZUFTRXF2WGhFdWF1UDhpNzNZWmNpTmpzRTBuOWNSREduR3lLQ0sxd3V2QQ?oc=5"
-      },
-      {
-        "title": "Blackout w Hiszpanii. Straty są ogromne - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWE2SXcxNjZVR3BEZUkyRVpQbk16YUlnaFFxMzY3amR3VncwZkxic3ZSUzhIaEkyYlFGNEVsY3VhM0kyTWY4eWdZazRuNzBUS1ZmTWVjaWhJaW5mTlY4cWZIMWdoai1UdlpfV0I1Q3NiMTd0RGJfVHMxQWczbnZZYXpxaTA3VFFLSDZlWWpzM19sa2U5MXZteQ?oc=5"
-      },
-      {
-        "title": "Kardynałowie podjęli decyzję w sprawie daty konklawe - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk80U25lang4RjNEeUYxSjlNS1RCZm1NbXVhN1NYYVFhYnZuU2Z2UFM4WDJ3ZVhYdHZzOG9kVG1fQm5vUlNnaHVpZVppM3FBQTl2dDJBTzNsNk9zbUt3R3hjTHNuSDJ1Z0F0Y3hsTEpMTXp2U0QwcFlSWmc2Yk9CcEZNVzFDdE9uWXphMVd0dDE2cmIwMy1yRDBaTWVRSlRMTjhzQw?oc=5"
-      },
-      {
-        "title": "Dwa wypadki na S2 w Warszawie. Autokar przewrócił się na bok, tir uderzył w wóz strażacki - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUgyUDVJRWtBdFdHcU5YSnBUVFF3UUtYaWdpdjREdS1uMTFCSUY0ZlFEV0Vyd1RhaTJkMDRJMW44MXktTHdsQTN2VEZwWS1kNFVrR2lnN0N4dVp5S1YyMkhCSnNwZENreW9yUWZqNzJGZGNmLWVpbVdXVTk1b0dkeFU1dmJkdDJmOEpZTlB4aEg5UzQ1eExFMUtPRzNETUwycVNXWFFBbXF1WHdyMjlzczJtSkNmYVhjanNSVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-29 10:19:30",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Na wiecu Grzegorza Brauna w Białej Podlaskiej doszło do incydentu. W tle flaga Ukrainy - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXdSUndDR1R4S2xPRGdoc1VqMTlndHpzNVM0X09jclVJTVFQYUVRQ3Juc3h3c1hKNDlDWmNMUU9vTkpYMVZiYXlLcE53cTQ0aVg4c2F4dEdta3BPOXQ3U3VTS2Mwem1yOTlPNFktdm9sUjN5NS00ZDVfSVFoelVoakFCX3I4TUhfZXdOOU5VYTdNSHZsSklpZjkwZUpLMlRPc1pLZjlkUzB0aGZiUEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-01 15:22:40",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7617,
+      "EUR": 4.2778,
+      "GBP": 5.0283,
+      "CHF": 4.5562,
+      "JPY": 0.026336,
+      "AUD": 2.4039,
+      "CAD": 2.718,
+      "CNY": 0.5178
+    },
+    "crypto": {
+      "BITCOIN": 365109,
+      "DOGECOIN": 0.67749,
+      "ETHEREUM": 6990.28,
+      "LITECOIN": 329.06,
+      "RIPPLE": 8.48
+    },
+    "indices": {
+      "^WIG20": 2737.86,
+      "^WIG30": 3525.07,
+      "^WIG": 3525.07,
+      "^NCINDEX": 240.09
+    },
+    "news": [
+      {
+        "title": "Lekarz Tomasz Solecki nie żyje. Znamy datę pogrzebu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMUdHSUNLWVFjbDFzZW92MExBcGYtM0ZQZWZ5bHhwaWhKZXMxQk1MZGFqTVpqS3JiamdiNDJlRU85MGRsOXVMVUNUR0xaX1JvWEdFbU5Pa0FmWjBkYjYzaW9SU1RNekVyWkpaOHd2ejRmbzB4TEp6MlRYRWZFaU9rck9keU5QV0dyemlZOGwzeVZ0eFItcGFUWHNMeEwwakdZSndBbUJQcXUtR1c0ZFE?oc=5"
+      },
+      {
+        "title": "Rafał Trzaskowski kontra Karol Nawrocki. Jeden kandydat traci poparcie [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFfS1NPTGJZT0xxUVRkNkYwS3FJUFVOSmlqY1FSSjZmYmdNU3k2Vndfa1YxSm5Xd1l4UVB3OXJhWEwzT0YtTWNYVEcxQ1czUEZoekVRc1ktUnNaSkh4VkgzOGcxb1lLSEI4RC0tNmh1ckRrNlVvNE1oRU5rX0k0bDBTUE9YbnlNb2J1V2xtaEtXdjk1VUdHUXBlT2tPRnZ4dGdPel9lcUt5SnlvZHdXNFF4MnBEZw?oc=5"
+      },
+      {
+        "title": "Atak na pielęgniarkę w Pruszkowie. Na miejscu służby - Interia",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWJFaXg5OHBiOGdvWkg3aXA0b3BUT0c4ZVhVZDlKUGtGTGstdFlqYmxtXzdxUlI1WWctU1pvbDNHY0hrMFEtMWFqeEZmSHZUVFZhRzVxUklDRDhFRmRxNXJtWkV6bmlzbkh3SGdnUVB0dnlIUGs4Q3MtZTNCeUpUX1RQRjNqYkV3UXY0ckFTYTc0QTlVMkNKaUQwSHhmbEFnYU8wT0RJVQ?oc=5"
+      },
+      {
+        "title": "Nie żyje Sławomir Wałęsa, syn Lecha Wałęsy - trojmiasto.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkV5OFBXSFphNTZoTi1jM1k2amc2TURpWmJsblBhWnhfRHk3d3ZMYVJMSnVHQ0dHRTRJZDJGcEFrc280SC1GeGtHUnlFRlBEQ2Z0Yi15bl9YaFo2UXVlcEdTcnZHdTEzanNLQVFza2hQMDc2N2pLZ08xclFzc1UtNmlSTl9vbkprX3plWDZSVXItbWpXZDJLR2RYV0U4VHA1ZUFQZzBaaERoaWtPdmZocFM3UFBRUQ?oc=5"
+      },
+      {
+        "title": "Szturm zwolenników Brauna na urząd miasta. Wszystko przez flagę - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGNSYXNORVF6Mlh3d2JaNnI3RFpCZXRKSXlQQTBsTW5TczZwaXktXzBNdG1XV3FoMkV6OVBVTzNITFJtNWp3YldTTkFPMnFxSWxTSGhiaVpQLUc4c1FHQm1qNHZlZ1N3WlgyS2lDeUdGdTY0MTluZEtxbEtNTUl0QjgwYXdyTGdRSm5FNVFyRXZJaVRBTDVTbFdoeS12WU5lSmN4eEZ5bWhsRVBVOTRXaEZfUDZjdw?oc=5"
       }
     ]
   }
