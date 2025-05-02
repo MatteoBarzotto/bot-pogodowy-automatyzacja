@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-30 01:12:42",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7458,
-      "EUR": 4.2646,
-      "GBP": 5.0231,
-      "CHF": 4.5404,
-      "JPY": 0.026271,
-      "AUD": 2.4044,
-      "CAD": 2.7087,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 352487,
-      "DOGECOIN": 0.650506,
-      "ETHEREUM": 6699.45,
-      "LITECOIN": 319.04,
-      "RIPPLE": 8.38
-    },
-    "indices": {
-      "^WIG20": 2810.88,
-      "^WIG30": 3607.1,
-      "^WIG": 3607.1,
-      "^NCINDEX": 240.25
-    },
-    "news": [
-      {
-        "title": "Zabójstwo lekarza w krakowskim szpitalu. Zatrzymano funkcjonariusza Służby Więziennej - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3BPWHB2N1RjMEdwYV8wMVFEX0MxS3IxNEphbnBaWUVyeTFWakd3MmJLS0xCbm13TENxeHZvTl9yRnRST3dQdExLeE5PTkV0akQxa1ZFYWZhaHZxY1pUeUk4QWdFbHd1SkRNS05yeXJEbzhPNWE1cEp1ZkF0Wm01SUdUY01xcDJiVDh5R25EWTVGYWdvblVPaDRZdVc3UUxxNG9GMUt4QzZMZWVCLXN3VktkS0pNQQ?oc=5"
-      },
-      {
-        "title": "Trzaskowski spodobał się na debacie. Pozostawił rywali w tyle - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWdYY2I0U1ZucFZDZnZSd19YNEsyNGZRakhLUHI1T0VKOVlVNUpOeGlaNHkzNHNOOTNBUllReG52M0lYYVlEXzBZZUJ4WnpNaXBBc3hlSUhlaEJtN0k5M2tqMHItWFg5VHByVW1lMUE3Nl9SVHpnZTV1cVo1enVLOHJYbGJhdmpicEVoa2V6SQ?oc=5"
-      },
-      {
-        "title": "Wybuch w remizie koło Krakowa. Wśród rannych są dzieci - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGlxeUVLM1FqNzZjaEtEOGwyQngyS1R4WkRYeW9EQXBHSDduVVJibjJ0bkQxY1QyY0ZuS2JRQXpibWlTU01hOVJQZ2VGVUZONE93RklzUXdZZVE0Tl9WLVlxUGpsSG9hOWNJNl9MUXE0WFhtRnZUN19pUGxxX2U0ZThlQkFmeEl2WV9nUVJvTGwzT3AyMkJ1YWNVU3YtWEJFVmdsUw?oc=5"
-      },
-      {
-        "title": "Większość Amerykanów traktuje zapowiedzi Trumpa poważnie, ale ich nie popiera - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0hIdTYxcjlaOVRuVVEyUU5FTnpoNmxOZVhsS0xsNGJPQllIckZPbDhTWWhnM1dBdlhGbU9Bek1ENnhFNF9xbXZpMG9FcnBnSUVLc2hQTW9Sa3NSa3JIODB2SzFaeGJtVzdiWHpPdGZjQkhSQmtRZUFhcUpqNXZKd2QxTG9SZ2RWSVctS21ZWGNiSzVjNUo2d1l2YWU2czZBRjVIR3c3X2lqYzBQ?oc=5"
-      },
-      {
-        "title": "\"Ja się znieważenia nie dopatruję\". Bosak o słowach Brauna w czasie debaty - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHkyUTJpUlVTSWFFU1NxRnhXRjFwOW1aM205d2wxMjNIa3B3bzFJMW5YaS12bXBiLU4xWWNkZ3hYZ2pKa0pZX09MazI5Yk9FbG1uVWV3NUEtajNSTjdHOFRHYUVockVnYzlqVnFSMU1LS3BXSDEyUjRFT0MzVXFSeUZXQnNJUUhWMDRudWpzQkZHbWJoWU4xbHRGYWhqTTRxNEtxWmtobjJVTmhGZHExTGxaYWhNOHlpSG9F?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-30 03:05:48",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pogoda załamie się jeszcze w majówkę. Nadchodzą silne burze - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ21UTDdRRmJZcFU0S0laYnV5c0h3NVRGeVREN0tzUjJhZzlHTkJjc0hST1Q4Nlo3d0ZnRXdYUmdwVm1lX25Uc2prX2FIVlM2RlRKX2lGLTBudnhGOXpSRmkwWFIxZDk0cmJraGtaeEdCaENHakZLLWtfSTEyTkR2OXdjMi1LU1ZKRW1ESk84d3FpTnJKbmoxd3AxVWpKaW5JdHVoMzNmbzU3OFZTdXd3MVIzZG0td0lwMEdqQmJhbDE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-02 09:13:28",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.7617,
+      "EUR": 4.2778,
+      "GBP": 5.0283,
+      "CHF": 4.5562,
+      "JPY": 0.026336,
+      "AUD": 2.4039,
+      "CAD": 2.718,
+      "CNY": 0.5178
+    },
+    "crypto": {
+      "BITCOIN": 364507,
+      "DOGECOIN": 0.679843,
+      "ETHEREUM": 6887.47,
+      "LITECOIN": 333.41,
+      "RIPPLE": 8.33
+    },
+    "indices": {
+      "^WIG20": 2769.28,
+      "^WIG30": 3562.43,
+      "^WIG": 3562.43,
+      "^NCINDEX": 240.09
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki spotkał się z Donaldem Trumpem. \"To był zaszczyt\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVERCa0h3UlFOVnVETHJkOXFNa0toWTRKTnpfNnZBRE5QeDRDcld6Sk10NFBUQzQ1R3hoTVZHQW1qb25xcVlZcGJwZTFCSEpURnZrV0lzVTQ5VkhtVHpFeFF5ZXREaGpwQ3B5OUlyeWJPdW83SHAxREhqQVdkcTZxZXpzbDIyaXVOUXk5OGl1WXRmRlhjUUxGOW9rX2JVbzRRMlhzSlJHVlBZQXFmZHIxQg?oc=5"
+      },
+      {
+        "title": "Burze, ulewy i grad nad Polską. Gdzie będzie niebezpiecznie? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpqMDhvaDh1SHMtY2dmM1JoMzdwMy02X3lldDdPSWx3dVIxSE1RN2pZMGhuNXZkbHNxb0VpeEllSC1TQkNCOHNrMXZ0anhrYkk1QXJOQVpqREtoajV5Xy1Wa2hSbDJxN3RMQUtZcU9QT05SR2N2d1FyYXBDWi1FUmZ4Y2tYVlRqVFIxa3dlOE9UVXNEb3NfMjZNc09Dc3JtNGc?oc=5"
+      },
+      {
+        "title": "Były przełożony Jarosława W.: System zawiódł. Ten człowiek nie powinien być dopuszczony do służby - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUg2U0pjOUNRVXB2UmQ5SVhxd0xIU0hwSmhWUk02OGZhdER2VzQxZWJ3M3M5WmZzUnFUUEw5OFVKdnJ6Y0s5cWFZY09YSmZyQnI2QmJHMVFsakpTTGNKMFp0MTVBQ1NEWmUzSWNzSm94dlNNV2h4YUFMbEozcTVHQkZHR0UxTEJTU21qNHRrcUlqRTM0QlFRZUY2U0VJbkFIVGtKRmpiQUxqVF85LTZCQU1RMWFzZzdiZDR1bHJlOW5FV3BSVVQ4QkdJUm1rWWlTaGxZ?oc=5"
+      },
+      {
+        "title": "W Mławie odnaleziono ciało zaginionej nastolatki. Podejrzany zatrzymany w Grecji - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDFQVGhFamtHd25DNFM0aWJqV0d0WUNBcElvQmVhZVFrRlRCODdvc2dVci1qVVhLQVd2TjROSGJvd2JtVkQyVS1pXzhNZ3BzLW9IajZUTWVYY1J3Q1lldlJnQ0Q0RWlJWGxPSXdEX2tTbzctaHlpaVBySFRWUkFWalVQM1hTTVlvZzlGQ1ZVNUJPR1hNQ1BxRk9DVG9kUnFlUWxOM3ZWM1ZRUV8tSGdockVsNA?oc=5"
+      },
+      {
+        "title": "Będzie niespodzianka w pierwszej turze? Oto uśrednione dane z ostatnich sondaży - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTg0SDJaVk5aOGpGUUdNcVNVMXpjTVd4RGplbkZHWWdnNnhyZ1ZfYXRpSlgwLV85S2YtRjhGc0dNS2NqejF3QTVGRVlqcG92SVphMmI4UlFxb1pBV2ZOSmdlYmwzOFVLUmhIQlRsWm1qdU9WbFZ2aGpvTld0dHdjYW4tcEdEQjYwTUFwSmZpNklWeFl5MURqZl80OHlFWHdZeWRNa0VvVE1hSW03ZnlUam9Mc0JKMnd4ZGZUT01qSHg3dWgzWmpSQ2x3?oc=5"
       }
     ]
   }
