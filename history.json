@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-30 09:13:25",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.7458,
-      "EUR": 4.2646,
-      "GBP": 5.0231,
-      "CHF": 4.5404,
-      "JPY": 0.026271,
-      "AUD": 2.4044,
-      "CAD": 2.7087,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 355396,
-      "DOGECOIN": 0.656026,
-      "ETHEREUM": 6764.5,
-      "LITECOIN": 318.98,
-      "RIPPLE": 8.4
-    },
-    "indices": {
-      "^WIG20": 2810.88,
-      "^WIG30": 3607.1,
-      "^WIG": 3607.1,
-      "^NCINDEX": 240.25
-    },
-    "news": [
-      {
-        "title": "Tragiczna śmierć lekarza w Krakowie. Rodzice nożownika zabierają głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0FkX0xMTF9OWjFXbXY3M1Zac2hLSG5hWVpuZWtvZWUzZFpsX3FkQ3dmc2NYdzFXeEpoS0ExZjh5cFlPWHdwelhsbVZlaWVESjdITl9TXzZEazdIUlZfZHp6WlYweVNrNWtQUWxvdHFKckcwemZwcnVCQWZGcGxaWWFUMC1uVHdBRDRMdFRueG9IdmxfUHdBMU83X0VveG5WaU14RHNsMHFma2tY?oc=5"
-      },
-      {
-        "title": "Kto wygrał debatę? Jest najnowszy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmk3LWp6X2NsRC1HUl9LaUpwQnJBU1U5d2ZLeFZpSFVIazNMV1V1QmwwX1pyMFNfcUNNd01Dd01Qd0Jwa19IbmFRMVlTMUxjbzdkYlBQRi1nZ0U4cG55Y1ZEQkJkenNQaVFnVzJxTV9xNGNRQ2tyY3o4eGRJSDZJSkNxUVZWZTM4SXc?oc=5"
-      },
-      {
-        "title": "Niezadowolenie Amerykanów rośnie. Donald Trump traci przez gospodarkę [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjJHTGZEUWh1M0RpWFVzczhvWGhzUlVwT1hobjhNdHBsa3BMSnFONFRWR2h5SDllb2FCY3BwV0NWc19XdlhsV1lVbmE5REFlQUk3SkRHREg4N05KbF9LUmM3VVo4WWk5RzZEeVJxZGlFZjZHd3k1S2VHZlptU3F5S2hnendiaWR5SWhJUDI4c3JYS1F0S1lrXzUwM1pNU29GSzQzdFN2bGVjajlhUUV2MGotVjBGLV9vOFJYeXlxWnZEdUU?oc=5"
-      },
-      {
-        "title": "Szczegóły konklawe. Nowe informacje z Watykanu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1BVTU1GRll1REVIV0RBWXZZU3VkSmlVS2xhWEdlWnRtc2NKZENtUVNtODJ5Zm4wMnhVdzV1UVc3bDA5U3h0cU5CTldXS2xkVWJsT3E4T29Kckg0RGotUEFvbW1Yc25PWmFrN0gzY092V1IxMVlLNGpfUEVrVVRCamkzQl9vQk10N0U4eHdLZmlTc05iMkU2ZzQtZVNLQmVPVDZzWnlHSjlDclU?oc=5"
-      },
-      {
-        "title": "Lotu nie ma i nie będzie. Pasażerowie nie wylecieli z Lotniska Chopina z powodu awarii prądu w Hiszpanii - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjJBcFFRU1BTcXA2bkZudks2ODM5Z3FRZkZvY0tEX3YtWEdrWWEwNDZoRG01Wms5OXVMeTBjQjFwVHVSN2lsRllpX0ZMTWpfUlJpWTQyUHRWVndGUk9pU0M3UXB0bk4tMWptM184Y3hiQVVFMDFZb3QxMXZNUWZpZlJDTmJMellfZnRfdjhFcUpFRXp1RzdERFhUdWdab0RwYWdoYnpYMVVHbmYyRkRmbm51SFZheWxxci1tSVZR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-30 10:18:35",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pogoda załamie się jeszcze w majówkę. Nadchodzą silne burze - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ21UTDdRRmJZcFU0S0laYnV5c0h3NVRGeVREN0tzUjJhZzlHTkJjc0hST1Q4Nlo3d0ZnRXdYUmdwVm1lX25Uc2prX2FIVlM2RlRKX2lGLTBudnhGOXpSRmkwWFIxZDk0cmJraGtaeEdCaENHakZLLWtfSTEyTkR2OXdjMi1LU1ZKRW1ESk84d3FpTnJKbmoxd3AxVWpKaW5JdHVoMzNmbzU3OFZTdXd3MVIzZG0td0lwMEdqQmJhbDE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-02 15:23:42",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 365585,
+      "DOGECOIN": 0.686067,
+      "ETHEREUM": 6928.3,
+      "LITECOIN": 333.74,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 2795.58,
+      "^WIG30": 3595.97,
+      "^WIG": 3595.97,
+      "^NCINDEX": 242.27
+    },
+    "news": [
+      {
+        "title": "Czy Donald Trump przeszkodzi Karolowi Nawrockiemu w wygraniu wyborów prezydenckich? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGZLa2gxOFFKR2lNdEdSYkMzRlNtR2Y4dTM2N1ZVWGEtMWtzaXNnSDQ0bkVUN2szTEpDZG1XcXVzN2pwNzVFVktjQmtfTUlIRXVYelBmNVB3UnkxTnRGZVNSUkM0TDBJUW9kSUJBRHJqTVlEQU1nV0hkMk5zMVU2NmVIQ09RajFFUmtKX1UtMmwzUXg3WHhGdlY3dVpnNGpWekItTUFvNWFCdE5Md002d2ViT3dvaW03QlhtZ240c2tjR1N5?oc=5"
+      },
+      {
+        "title": "Zabójstwo 16-latki. Prokuratura podała nowe informacje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1I5ZDBpczZEX2t0c08yVEdJWXVraUxOZVZDZjFVb0VGX2NBNDlNQVhZd01SWFNIRlVsT0VvWFZCcks2WkRkc1NMM0ZQenVrZmRPMjdLOGF4VXR0RUVid3VmU0d5RS10bzZzUnhMRnRnRHNUbVRZUURlVVpINHlYaDJSS05OMGFhbkpsQmdGdmFfWDQ5R0c5cEpsbjl4dw?oc=5"
+      },
+      {
+        "title": "Burze, ulewy i grad nad Polską. Gdzie będzie niebezpiecznie? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpqMDhvaDh1SHMtY2dmM1JoMzdwMy02X3lldDdPSWx3dVIxSE1RN2pZMGhuNXZkbHNxb0VpeEllSC1TQkNCOHNrMXZ0anhrYkk1QXJOQVpqREtoajV5Xy1Wa2hSbDJxN3RMQUtZcU9QT05SR2N2d1FyYXBDWi1FUmZ4Y2tYVlRqVFIxa3dlOE9UVXNEb3NfMjZNc09Dc3JtNGc?oc=5"
+      },
+      {
+        "title": "Niemiecka AfD uznana za organizację ekstremistyczną - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1l5UE5ZUUNBeU1tY0RGc18zb0J1RHl5TEZCUVRHR3hRdFc2S3FBemJERW5WcTh5V1NWeDk3eHcwajcyUUhtRTV4amxHbWQ2QjhuWi1LS1N2aHFnZXhLejlUY0Jka2ZqNFQ2bWkyQ3o1a1hYVEFCb2pEdjFXbng0UHdfbW56ZDlxY1ZxTXVubldkQks0bzZ4S09lWUItZVVqX2tHRjZn?oc=5"
+      },
+      {
+        "title": "Awantura z udziałem pijanego pacjenta w Krakowie. Interweniowała policja - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2g4T3MxTWRDTzVsZlJwR2xocS1tRkhKSklxdHJXMUtkSVY4ZTRzUjNxQ2w5c29mcVFYWXh4MVZucUxYc3VrZVZFNU82Q19oU3c2RjhZN00wbWNPLVdKNW1KUVRvbU9yU1RYYm8wRWd6SDVlX3hSb0M3eHgzRUNNVl92TXpkWkVNYnA1eW9nWUxaZFhRcFFWY3dzcWRoOHRqLW9oYXJCMHNEcGo3Q1JTUXlNazlPR2xJX3dXeG9WLWJYT2FMT21jN3pB?oc=5"
       }
     ]
   }
