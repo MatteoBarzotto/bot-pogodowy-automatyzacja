@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-30 05:02:13",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7458,
-      "EUR": 4.2646,
-      "GBP": 5.0231,
-      "CHF": 4.5404,
-      "JPY": 0.026271,
-      "AUD": 2.4044,
-      "CAD": 2.7087,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 355321,
-      "DOGECOIN": 0.658926,
-      "ETHEREUM": 6767.51,
-      "LITECOIN": 322.94,
-      "RIPPLE": 8.43
-    },
-    "indices": {
-      "^WIG20": 2810.88,
-      "^WIG30": 3607.1,
-      "^WIG": 3607.1,
-      "^NCINDEX": 240.25
-    },
-    "news": [
-      {
-        "title": "Zabójstwo lekarza w krakowskim szpitalu. Zatrzymano funkcjonariusza Służby Więziennej - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3BPWHB2N1RjMEdwYV8wMVFEX0MxS3IxNEphbnBaWUVyeTFWakd3MmJLS0xCbm13TENxeHZvTl9yRnRST3dQdExLeE5PTkV0akQxa1ZFYWZhaHZxY1pUeUk4QWdFbHd1SkRNS05yeXJEbzhPNWE1cEp1ZkF0Wm01SUdUY01xcDJiVDh5R25EWTVGYWdvblVPaDRZdVc3UUxxNG9GMUt4QzZMZWVCLXN3VktkS0pNQQ?oc=5"
-      },
-      {
-        "title": "Kto wygrał debatę „Super Expressu”? Polacy odpowiedzieli w sondażu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFIzVHY0MnFTeWlmYmMtTDB6Z2FkWmtqSndqeUNUbFZXcF94UGRMTGhuNE1kd2JSY2F2UXFpa3puZ3dOUUpsTXo2SWJOQXljdGhWazJJcU9FQ2VZOC1xS3Vta1lDZkVCWHFjbDFMN1QzbFNvZzRxTmR0Z19fMXN6U1B1bmJwWndpOVZyUFktS2FSWFZsWHR6SjJDTEJlbXlI?oc=5"
-      },
-      {
-        "title": "Donald Trump został zapytany o konklawe. Zaskakująca odpowiedź prezydenta USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1Q4NlQzRUxqTHZtdWprTzk4VlFHSWNUZE04b0J4Yjd4OGhKcjZGWVItUjlQVmJxemdJcW4wNkMtcVZ3bTZCb2JnNWZoUUVUbmwwdDlCWmlsbjJXWmVwaTR1TWZwX1B5Rk94RlNhZ284RXVHSTJnc1ZIQmlHZVdMdVA0ODJZczFPdThieVJZeGpubTZfVEJHWUowaDVOcEg5Uk9XTzYwdlFDclZ4UEVWdi1BVnV6TjVyYXBpcVFIMHdhQQ?oc=5"
-      },
-      {
-        "title": "Wrze w Kaszmirze, konflikt Indii i Pakistanu eskaluje. Prolog do wojny o wodę? - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUVFUTzVubzZBaUotZmFQWEZUUW93NEtaZ0p5Z1NRclpQZWtaZ2U4czVOWk5vUnFBMHNXZXRJSzhaUUNfaEhlNkxlaXMwTHJhbzZnOG1lMXVHT1ZaRUZreHpnODA?oc=5"
-      },
-      {
-        "title": "Wybuch w remizie strażackiej pod Krakowem: siedmioro rannych dzieci - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzFLaDJPeDA2MlJmbVBBcGtXWms0blltZzZIc0ZuRzJiU1MxTnUtSl9lLVV1eW1tY0VtRk1jdkszSFJLYjJadXJDUzd1UklHbGIzMnZiRXNtX290TEhkUm41MVlSbUVMSGhIOUM1a0NSZ1JGZFJMdEJBc0dyUm1taV9pamJsV3FPY1dOUTdKbm80bnhPX010WjE0RG5UODlWdmJLS21TWFU2clM0UWJpdUJsSQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-30 06:16:16",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Będzie niespodzianka w pierwszej turze? Oto uśrednione dane z ostatnich sondaży - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTg0SDJaVk5aOGpGUUdNcVNVMXpjTVd4RGplbkZHWWdnNnhyZ1ZfYXRpSlgwLV85S2YtRjhGc0dNS2NqejF3QTVGRVlqcG92SVphMmI4UlFxb1pBV2ZOSmdlYmwzOFVLUmhIQlRsWm1qdU9WbFZ2aGpvTld0dHdjYW4tcEdEQjYwTUFwSmZpNklWeFl5MURqZl80OHlFWHdZeWRNa0VvVE1hSW03ZnlUam9Mc0JKMnd4ZGZUT01qSHg3dWgzWmpSQ2x3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-02 11:14:14",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.7617,
+      "EUR": 4.2778,
+      "GBP": 5.0283,
+      "CHF": 4.5562,
+      "JPY": 0.026336,
+      "AUD": 2.4039,
+      "CAD": 2.718,
+      "CNY": 0.5178
+    },
+    "crypto": {
+      "BITCOIN": 364846,
+      "DOGECOIN": 0.681384,
+      "ETHEREUM": 6886.02,
+      "LITECOIN": 334.79,
+      "RIPPLE": 8.34
+    },
+    "indices": {
+      "^WIG20": 2781.86,
+      "^WIG30": 3580.42,
+      "^WIG": 3580.42,
+      "^NCINDEX": 240.76
+    },
+    "news": [
+      {
+        "title": "Większość Polski zagrożona silnymi nawałnicami. Jest pomarańczowy alert IMGW - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjI1Z08zTXNaQXliX2lzVGxxcGpqNFlfcUFwMi1fakFLcUY5Uk5UQWNYcGxUYk5hWkVIbzVINnViZ0o2Um9qY1lXUk5EUjI5bk45NGI0Y3pQeG92TWF3NkxrWDRkbFd0X0dZSV9fRjBweU9XV3JVQTRLeGhKdXdNbFR6ZGxJQjgzaVVqNi1MZ3Y3OE5QSjhzQUVOVXJYN0VrRmQ4N0NRbHcwa1BZdnZlUlUtQ19pZ0w4?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki spotkał się z Donaldem Trumpem. \"To był zaszczyt\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVERCa0h3UlFOVnVETHJkOXFNa0toWTRKTnpfNnZBRE5QeDRDcld6Sk10NFBUQzQ1R3hoTVZHQW1qb25xcVlZcGJwZTFCSEpURnZrV0lzVTQ5VkhtVHpFeFF5ZXREaGpwQ3B5OUlyeWJPdW83SHAxREhqQVdkcTZxZXpzbDIyaXVOUXk5OGl1WXRmRlhjUUxGOW9rX2JVbzRRMlhzSlJHVlBZQXFmZHIxQg?oc=5"
+      },
+      {
+        "title": "Były przełożony Jarosława W.: System zawiódł. Ten człowiek nie powinien być dopuszczony do służby - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUg2U0pjOUNRVXB2UmQ5SVhxd0xIU0hwSmhWUk02OGZhdER2VzQxZWJ3M3M5WmZzUnFUUEw5OFVKdnJ6Y0s5cWFZY09YSmZyQnI2QmJHMVFsakpTTGNKMFp0MTVBQ1NEWmUzSWNzSm94dlNNV2h4YUFMbEozcTVHQkZHR0UxTEJTU21qNHRrcUlqRTM0QlFRZUY2U0VJbkFIVGtKRmpiQUxqVF85LTZCQU1RMWFzZzdiZDR1bHJlOW5FV3BSVVQ4QkdJUm1rWWlTaGxZ?oc=5"
+      },
+      {
+        "title": "W Mławie odnaleziono ciało zaginionej nastolatki. Podejrzany zatrzymany w Grecji - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDFQVGhFamtHd25DNFM0aWJqV0d0WUNBcElvQmVhZVFrRlRCODdvc2dVci1qVVhLQVd2TjROSGJvd2JtVkQyVS1pXzhNZ3BzLW9IajZUTWVYY1J3Q1lldlJnQ0Q0RWlJWGxPSXdEX2tTbzctaHlpaVBySFRWUkFWalVQM1hTTVlvZzlGQ1ZVNUJPR1hNQ1BxRk9DVG9kUnFlUWxOM3ZWM1ZRUV8tSGdockVsNA?oc=5"
+      },
+      {
+        "title": "Trzy warianty w drugiej turze. Nowy sondaż prezydencki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW02OHAwblkzNlNWczRqVU9rRmd6aGYxYXg1MWlzbTFxTmtkZ0FQSTh2X1BsTTE0TFB0d1JGNHliZGRrOHNDdExSWGNuNmxsUEQ5YTlET1pJM1lCZVVvTTlUNzhWMkI3NUl3SFJfUE1lSUFXTzJUS1g2MU5OeU00cnF4UjZfdk5JWnVGOURtTW1FdGV4YUhTRXFBdzJSVjVSNU9zV3Q4dENDa3h1?oc=5"
       }
     ]
   }
