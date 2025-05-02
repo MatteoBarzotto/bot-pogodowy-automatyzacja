@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-30 12:14:27",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7617,
-      "EUR": 4.2778,
-      "GBP": 5.0283,
-      "CHF": 4.5562,
-      "JPY": 0.026336,
-      "AUD": 2.4039,
-      "CAD": 2.718,
-      "CNY": 0.5178
-    },
-    "crypto": {
-      "BITCOIN": 356783,
-      "DOGECOIN": 0.657754,
-      "ETHEREUM": 6789.65,
-      "LITECOIN": 318.75,
-      "RIPPLE": 8.39
-    },
-    "indices": {
-      "^WIG20": 2763.86,
-      "^WIG30": 3552.88,
-      "^WIG": 3552.88,
-      "^NCINDEX": 240.28
-    },
-    "news": [
-      {
-        "title": "Cyberatak na rządowy system. Problemy z mObywatelem w kluczowym dniu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOG9XWHpER1pRNjZySkF5Um1NRVZndU1yTDBYZm81SVJERlhnWUwyUGlIRFFvM0p3SWZUUlA0Z3NpM1YxM3pwUXZSN180ejZDUUJRM2MwaldHcHBLaG5JRWRROFowaDVuN21WTEE0VWdkS0JQUDZDN1hhRUFpTlhpZWZrbDF3S2s0eWoycUQzRVFJQWdfUmh2Nkc3elpXZGNVd3JDQ2oyQlR6REZqOFFTU0FfRlAtQWdK?oc=5"
-      },
-      {
-        "title": "Pracownicy służby więziennej: Strażnik podejrzany o zabójstwo lekarza nie miał skłonności do agresji - Katowice.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGxQYW41ZGpTWWV5VnlxRXdsak9sNFFuQ0ZDX0xFdHRmZ0VYSkRGM1d0N2MtaW5Ld0xzV0E0VUh5ZnQ2RWlRRVduNUl6M09QRHZIWmMwYThROWJVb2JkUkpZMnpfa1Zxci0ybXlILUdNRmttLU9DQWllZHJ3SHVSVEdRRVdzSHdOcHZsNnF6c2U4aERfNWRyOER2N3BTdkFpRmVSX3Z1LU5HVEhvdTlvcE83X3daOTQ5a3ZwcQ?oc=5"
-      },
-      {
-        "title": "Jest najnowszy sondaż. To on wygrał debatę prezydencką - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmk3LWp6X2NsRC1HUl9LaUpwQnJBU1U5d2ZLeFZpSFVIazNMV1V1QmwwX1pyMFNfcUNNd01Dd01Qd0Jwa19IbmFRMVlTMUxjbzdkYlBQRi1nZ0U4cG55Y1ZEQkJkenNQaVFnVzJxTV9xNGNRQ2tyY3o4eGRJSDZJSkNxUVZWZTM4SXc?oc=5"
-      },
-      {
-        "title": "Indie i Pakistan na krawędzi wojny? - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrNzNnNUpiSmx2RS1QUkhxdXRXZVNLNkN0ZzN5OUdKWVJHQnRtZFZaZ0RPVnVpampaZEU2WVJJbVlNOXg0cVljR0ZBWmJVTWlvTktvSWtERjBDbVA4T1VqTkdfOHQwNGlxVUh6X2tkRk1mUHBabnc?oc=5"
-      },
-      {
-        "title": "W Niemczech powstanie \"wielka koalicja\". Jest zgoda wszystkich partii - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR3BNM0NHLUNNejkxZGZlMDEtZ015MC13c2RXbmFMdGZkVVh0U0tPZ1p4WXF2dmNGVDZjb0Z2TkFxRVlRZkRTVjFxOU4yWWs5RVhtQXV5Y3E0STgxMXdnbkM1aDZ5OHhQV2dndldzOVBGdmxkckRwbHRucWFsSjludjdqM1lIWUFmc095MWpYTjRmMFY2SHNfWUI2SkFmWVJkVDROOXJqUE04Mmx2VXdNanMyM0JkdklwZUVvdXA4Q0d0WXNiWUJDTg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-30 13:11:25",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Alternatywa dla Niemiec (AfD) uznana za partię ekstremistyczną - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkNJMFVEZlFLS1o3Mll4VzFMcEczTzBNY1lCcHMwNkVoTWhObVpSeFdTeUplU2x1bTRRbjE5UXdReEtwNjExNFRvY2ZmY0plaW04dWhrQXVSNDdpSlVFdE1Gc1psWU1wNDdobXRkbnVDRlJpbWFZRlU4TVJEdno0NkducThWLWZOMUJGVXB0cWx6SkdOR3U1bWlkdGtpVzg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-02 18:16:34",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 368521,
+      "DOGECOIN": 0.690962,
+      "ETHEREUM": 7036.2,
+      "LITECOIN": 335.85,
+      "RIPPLE": 8.42
+    },
+    "indices": {
+      "^WIG20": 2811.07,
+      "^WIG30": 3615.92,
+      "^WIG": 3615.92,
+      "^NCINDEX": 243.44
+    },
+    "news": [
+      {
+        "title": "Wielki finał Pucharu Polski: Legia - Pogoń [NA ŻYWO] Piłka nożna - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IZG8wbHBTbXR6dFNKcWpIRXhXVlBQV1NlWEVQZkQ1dFFEek9GVVhWNzZFWE9CLWR5WHFqZVhkTTVvQnotY2wzcXhhLWd4STk1TWJqOFJYLU0zclduYWc?oc=5"
+      },
+      {
+        "title": "Czy Donald Trump przeszkodzi Karolowi Nawrockiemu w wygraniu wyborów prezydenckich? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGZLa2gxOFFKR2lNdEdSYkMzRlNtR2Y4dTM2N1ZVWGEtMWtzaXNnSDQ0bkVUN2szTEpDZG1XcXVzN2pwNzVFVktjQmtfTUlIRXVYelBmNVB3UnkxTnRGZVNSUkM0TDBJUW9kSUJBRHJqTVlEQU1nV0hkMk5zMVU2NmVIQ09RajFFUmtKX1UtMmwzUXg3WHhGdlY3dVpnNGpWekItTUFvNWFCdE5Md002d2ViT3dvaW03QlhtZ240c2tjR1N5?oc=5"
+      },
+      {
+        "title": "Zabójstwo 16-latki z Mławy. Ojciec Mai ujawnia wstrząsające szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVdjWjR4WFhLUm55dkRDR2xkV2FmQkhQR0JFaC1KOHh1N0o3aGRldU1DVXJ5RV9pU2ZVNjNQQkpIcWhtWndKUmxnQUxfNWtNcEtURUdDYm01a2JsUmNwZ2lhWVRPcUZxTHdvOUIyTWhzd1N6UTdmS25BQ29MRU83TUtkT0dUUkliMllXcEg1ZHFKdk5DOVdVY1dDM19LQVFobndZU1hMcGxac3ZmdmFZeg?oc=5"
+      },
+      {
+        "title": "Sekretarz stanu USA: Donald Trump stanie przed decyzją - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa05BQTZ3LVJKMmZvQk9NNlp5WG9QQmlOYWFMNmw5VDBhSjZlaGRISWRocFRUcWJMTkVEZkNYZkRVY0Y3MnRxVE1XbWhIZVl0c0dIRzIzZUUwU2VvQlkyS1NlS3FnX1lFMXRHV1NWUVZ5WkJ5Q3FSVXFLLXZKYUlHSWp3WG41ZU1xMmdqR1pZT1BlWVpiTnpqX253?oc=5"
+      },
+      {
+        "title": "Wypadek samochodowy pod Otwockiem. Nie żyje jeden z najbogatszych Norwegów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDhJb1BIWi01NU5qMk9WXzhjcXVlQmMtd3VxR0tYTTNXZ2JhelhpVVdLdEtxTXBFd2tITTBIaDRyZ1ZwSGpNVi1uNk41c1V2NnhxXzN1QVlwQmlRbWtXR2lMQ0lnMTRpVTBVdldpLVFIN3JGT202Rzd5Y1dvMG9SNmJJbk5UNEJqcU1aRU1Pd01iTzEtOTNvRWw1NGZPSmhDWlRHbENEckIyOEduRkFfeFgxY25rUl9zVmpfYjBtd0Y?oc=5"
       }
     ]
   }
