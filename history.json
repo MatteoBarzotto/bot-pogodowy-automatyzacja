@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-04-30 14:26:31",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7617,
-      "EUR": 4.2778,
-      "GBP": 5.0283,
-      "CHF": 4.5562,
-      "JPY": 0.026336,
-      "AUD": 2.4039,
-      "CAD": 2.718,
-      "CNY": 0.5178
-    },
-    "crypto": {
-      "BITCOIN": 356562,
-      "DOGECOIN": 0.654646,
-      "ETHEREUM": 6771.82,
-      "LITECOIN": 318.58,
-      "RIPPLE": 8.37
-    },
-    "indices": {
-      "^WIG20": 2749.2,
-      "^WIG30": 3537.25,
-      "^WIG": 3537.25,
-      "^NCINDEX": 239.38
-    },
-    "news": [
-      {
-        "title": "Służba Więzienna zabiera głos. Odpowiada na słowa Adama Bodnara - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGtFQjNSdWZ2R3V3YXJ4Y0pnVlI5SUpERVpHby1TZmRGbVlVNTRwSU9HSG1YclgxWk5la2h4RG9Dc0JWQ2p0bFBlejgwSkhMU1djQjVOTFBWZGhtR3pTeHc5R2lBUlI4V3RzZmNkWlFpRUFRNnUzZWpQWmJsMDduZ0M1clVSVU5uMGF4Wm1JWXlrTmt1X2JidDMwb1hjeVNfbWZoRQ?oc=5"
-      },
-      {
-        "title": "Jest najnowszy sondaż. To on wygrał debatę prezydencką - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmk3LWp6X2NsRC1HUl9LaUpwQnJBU1U5d2ZLeFZpSFVIazNMV1V1QmwwX1pyMFNfcUNNd01Dd01Qd0Jwa19IbmFRMVlTMUxjbzdkYlBQRi1nZ0U4cG55Y1ZEQkJkenNQaVFnVzJxTV9xNGNRQ2tyY3o4eGRJSDZJSkNxUVZWZTM4SXc?oc=5"
-      },
-      {
-        "title": "Minister komentuje ustalenia Onetu. \"Szafa z trupami Nawrockiego jest ogromna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDJwTEY4alBqaWx2V2hsY0NndmZ1aXVYM0NTMEh6SDJXcEVINmtuNE1RYmJpUmREaWFNV202czNIUmIwUmQyMlhlbzZ5WEVVTkVpRTI3aEpMR2w3LVI5X0duZUFLYURJaEp4aGZSQ202M2RXYllHYlpqUmNyNmJNc24zeFZzdEtDdjdOaVRaTVJZV0s2M0xOeFo3MjB2b3FjSGJfS0RBcmdubnJDWUNoMEx6OS1IMWQ1b3VOSk41QkFLaWZhQVRIcFBRSzE1aE5ubUVQVg?oc=5"
-      },
-      {
-        "title": "Pakistan i Indie na granicy wojny. Atak zbrojny możliwy w ciągu 1,5 doby - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEUtTU85bkZjUFREb3EybVhYei1PU3htbnFtVVR2TnR6NFZzUTdlYTVTUXFXeHRkUWtqRmpxb3lnTkFBRTZtVGtUc3ZILU1lcFkzd1AzSjB4S21hcWdJNFc1U2tlRHlIeGJ4WjNYUngzZTRHTVhHeVpxWlRFc1UybkFhWXZkZXBBSDdMWndYVTZVeW4tbEtIWUtFNVRYTk9FU0RtaG9uaEIwVERIZ2pVZGcyaTdrX1V6bno3Wg?oc=5"
-      },
-      {
-        "title": "Jest decyzja w sprawie niemieckiej koalicji rządowej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzJpQW8zVXVrLVpnWFZ5RDlUZnVzRGxmWlZiSzRKOXVXTVdRYzVjUzhzVVdVZmMwUVVZd1YyUkZlalNrYThNdkJDbnlpYy1aa2xrOW9GR0FsN056VF9WZFIxZHZMVk9xOTBWSHdDUGh4TllFODAwN0RwZkZmbHViNHY3aHdKVlczRkY4TFdVbTZsTzNNaWNoUDJWT1FRNm4xOVFPOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-04-30 15:24:13",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Nie zakończy się w najbliższym czasie\". Wiceprezydent USA wprost o wojnie w Ukrainie - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0RhN0JRZnBNZFZ4YVMwQVVtalZ2dmdhaHZqTl95TFE0MmJ4dWZkYlVaYjlEYkUzam54bDV2Yk9SeDFiUDFqY3h2MVdGaHk2cE9MX1ktS3dJaGFuaDY5eFlvdGdWRnRDcmJmcHkyYWxBaGRraHFTSmVsVm5odmVkSHJVWkpkaEFFT2JvcDViWkltSmhUbHNBcEZMd0FfSEZQZXMyX2lBcTVudm9XWklVc2poU3ljTThaOEJac1pEc1MwMnhJTEpISUxn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-02 20:18:26",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 368844,
+      "DOGECOIN": 0.687697,
+      "ETHEREUM": 7013.66,
+      "LITECOIN": 333.64,
+      "RIPPLE": 8.39
+    },
+    "indices": {
+      "^WIG20": 2811.07,
+      "^WIG30": 3615.92,
+      "^WIG": 3615.92,
+      "^NCINDEX": 243.44
+    },
+    "news": [
+      {
+        "title": "Puchar Polski. Znamy składy na mecz Pogoń Szczecin – Legia Warszawa - sport.tvp.pl",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzNjQlJnR0JOOGlsNVhLQ1cyZmgtU0o3SUdLU20xT1hoMVB1MEhEdDlYRlA4S2dlMFJWSnRFVlBFWkhXV2QtTWFIOC1Cc1hJaGV6ZVFtdkFUWUtCT293YjRES1J6a1hRaVo1WnA0MjA0enRjWGxpLW5HODcyYk9BbGs5T1JPWkVUd1BEVjAtMNIBlAFBVV95cUxNOUdOWVpRSnVwWUI5VllENlk4MnB2NlNtMGs4bnlueGw4LXZiTG5iYy1UYUFpcEVDc3NFUllNQ0pfaENKRUpPS0hPQWd3cDFNSlF2N1pTQWVrbHV3X3dGUlFyaFFQU0Y4dEd0WV9uTHJ5b2Q5N2hGZ1NNTEh3UXhhZUhtbnJBVUF3T1VRbGlmejhUNW1G?oc=5"
+      },
+      {
+        "title": "Czy Donald Trump przeszkodzi Karolowi Nawrockiemu w wygraniu wyborów prezydenckich? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGZLa2gxOFFKR2lNdEdSYkMzRlNtR2Y4dTM2N1ZVWGEtMWtzaXNnSDQ0bkVUN2szTEpDZG1XcXVzN2pwNzVFVktjQmtfTUlIRXVYelBmNVB3UnkxTnRGZVNSUkM0TDBJUW9kSUJBRHJqTVlEQU1nV0hkMk5zMVU2NmVIQ09RajFFUmtKX1UtMmwzUXg3WHhGdlY3dVpnNGpWekItTUFvNWFCdE5Md002d2ViT3dvaW03QlhtZ240c2tjR1N5?oc=5"
+      },
+      {
+        "title": "Sekretarz stanu USA: Donald Trump stanie przed decyzją - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUJJUmZTTmZ5T2J4Y1U2QUxTR2tRLWZ0a3BqZ05ud0xDX0dEclJqYUJwTkZ4b3RPUUVHMnNUeG1FaVBnVHZNVm03bVNhYk5HaGRsT0RQNFlZalp3SkpONnVQZVhJZDlMTHhHZkt2QWc2ZkZfTy1KdjU2X0ZBQVB5LWxkRDY0cXhfZk9pUnctazJ1dnlESXh0cVVES1FuS0NxM2dFNUdvZnBRNDBqYlI3MzJORG44ZFk?oc=5"
+      },
+      {
+        "title": "Zabójstwo 16-latki z Mławy. Ojciec Mai ujawnia wstrząsające szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVdjWjR4WFhLUm55dkRDR2xkV2FmQkhQR0JFaC1KOHh1N0o3aGRldU1DVXJ5RV9pU2ZVNjNQQkpIcWhtWndKUmxnQUxfNWtNcEtURUdDYm01a2JsUmNwZ2lhWVRPcUZxTHdvOUIyTWhzd1N6UTdmS25BQ29MRU83TUtkT0dUUkliMllXcEg1ZHFKdk5DOVdVY1dDM19LQVFobndZU1hMcGxac3ZmdmFZeg?oc=5"
+      },
+      {
+        "title": "Święto flagi. Czego nie wolno robić z biało-czerwoną? - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGJlVjV4TzRDREp3dmxYWjA2cWFwWXlqbktKamRCZDQ2TGxUY3NqRnFZTTc5S2l4YmN2Sk5Dd2VhUXBJa2xpbXlIbUU1V1FnYXFUbVg4bjVNX3ZBSlpzanJoRmdReXVZQkM0MWVDOV9yd1Fva0VRUVVwVWNBbjZIbVo1aElOT0xDTUppQVV2aVVLTmd1UTdIQTZCSWhCM19jNmFV?oc=5"
       }
     ]
   }
