@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-01 17:13:19",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7617,
-      "EUR": 4.2778,
-      "GBP": 5.0283,
-      "CHF": 4.5562,
-      "JPY": 0.026336,
-      "AUD": 2.4039,
-      "CAD": 2.718,
-      "CNY": 0.5178
-    },
-    "crypto": {
-      "BITCOIN": 368512,
-      "DOGECOIN": 0.688951,
-      "ETHEREUM": 7040.33,
-      "LITECOIN": 332.83,
-      "RIPPLE": 8.52
-    },
-    "indices": {
-      "^WIG20": 2737.86,
-      "^WIG30": 3525.07,
-      "^WIG": 3525.07,
-      "^NCINDEX": 240.09
-    },
-    "news": [
-      {
-        "title": "Rafał Trzaskowski kontra Karol Nawrocki. Jeden kandydat traci poparcie [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFfS1NPTGJZT0xxUVRkNkYwS3FJUFVOSmlqY1FSSjZmYmdNU3k2Vndfa1YxSm5Xd1l4UVB3OXJhWEwzT0YtTWNYVEcxQ1czUEZoekVRc1ktUnNaSkh4VkgzOGcxb1lLSEI4RC0tNmh1ckRrNlVvNE1oRU5rX0k0bDBTUE9YbnlNb2J1V2xtaEtXdjk1VUdHUXBlT2tPRnZ4dGdPel9lcUt5SnlvZHdXNFF4MnBEZw?oc=5"
-      },
-      {
-        "title": "Kolejny brutalny atak na medyka. Pacjent pobił pielęgniarkę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHpWU01oZlVXanlKUmkzZjBPNnItMG5CTndGUHdqUU02VjV0d2NTM1pvbXJMUlMzVlBfSm1tVl9KalZLVlRKT2M3WEpaWi1hT1RGWTh0T3EzeFVUSXZCUnBuQXMzTWxiTGt1ZTNfYWtzRU9ETDRlSFZqLXdySTJFOWJ5UGQycGIwd0F4STNzNmx6WDBtbmhoWHU1a2prWDNUTkUtd29XYw?oc=5"
-      },
-      {
-        "title": "Lekarz Tomasz Solecki nie żyje. Znamy datę pogrzebu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjhDYkxmcm45S0xUS2xDV3VsdzdiS1FpamFCcTllZnpjR0M1MFFkcDRWYXdObDY3cTIzMzc1dzdZem1uUWFDSm1zQ0kxNzhqSzdGbHNOblBBVUR1eDgzUUUxWGQxYkxMdEw0Vk12SVh3Yk5TalREVG5PYjFoeEFOZ0xGczlnNjB6NHFjVE1aYlM5Qm1zYW1v?oc=5"
-      },
-      {
-        "title": "Nie żyje Sławomir Wałęsa, syn Lecha Wałęsy - trojmiasto.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkV5OFBXSFphNTZoTi1jM1k2amc2TURpWmJsblBhWnhfRHk3d3ZMYVJMSnVHQ0dHRTRJZDJGcEFrc280SC1GeGtHUnlFRlBEQ2Z0Yi15bl9YaFo2UXVlcEdTcnZHdTEzanNLQVFza2hQMDc2N2pLZ08xclFzc1UtNmlSTl9vbkprX3plWDZSVXItbWpXZDJLR2RYV0U4VHA1ZUFQZzBaaERoaWtPdmZocFM3UFBRUQ?oc=5"
-      },
-      {
-        "title": "Rosja wściekła na deal Ukrainy z USA. \"Maj nie rozpoczął się pokojowo\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2JzeVNCQ1NCS0NFdzR3aTBTQWwzM1JtWHZYbm8zeEhvNEo1Nm5mZC1FQy1lUnZBY0k5YW1vSkxrNjZGenk4ekRCSUhFa05tT3RlV0FRdW9HY1dBMExhNGJ3RFhjY0dES1Vvbl92OWN3VFJ2YnNacXljWm10R19UZkYwTDJOQlhnN0RqX1pZeWZiaUY4QS1yYXI0SlpuWDNDZS1VQ1IzeFU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-01 18:17:05",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2555,6 +2502,54 @@
       {
         "title": "Mława pożegna bestialsko zamordowaną Maję. Ulicami osiedla przejdzie \"Marsz Pokojowy\" - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVoyc3VJamsyYnByT2w3TUZOTW5DYnhFU2drN0x1bGl5anpiZ2pMdzdzYVZEajRGeFlZMk1saUVNN3ZFek1sWTMxUWFTdlJ1TkQ3VzdGUjVDYVhMRXg4c195NnlROXhROVdkeHlhTHhXMjZ6aXpudGdPdVktWENJNXZkUjhYckRzTEhXVHdvQW45dWVzc0NjTDNaQ2ZiemZ4dWNXLWpvdkQtZFgzR0lOSkhWSTUxVjEyX2pOemlfdW8wRlU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-03 22:13:51",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 364879,
+      "DOGECOIN": 0.671782,
+      "ETHEREUM": 6955.02,
+      "LITECOIN": 329.87,
+      "RIPPLE": 8.3
+    },
+    "indices": {},
+    "news": [
+      {
+        "title": "Superkomórka z gradem na południu Polski. Groźnych burz będzie szybko przybywać [RADAR] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanROa3lybHAtTjRET0M3TmxCeTR4VHFkcmR4QmtKdGFfOUtWU2syVE1HbnRSeEpQeUotdzZvOG4tZ0dVQlRFbm5rMTlVMXRqaFRPTXpPZkZOb3I2NzhHODliZzUtYjlGSmphRE9ObGZwbER4dkk4T2JIVkpvWUN0ZlpCMXJLNk1lVGZuRHFlaFpaZnctVV81bE5sMlJsc3dWODRtc0ZsVTZic3dGSVFOZUljSHpKOGM?oc=5"
+      },
+      {
+        "title": "Polityk PiS pokłócił się z dziennikarzem. Poszło o spotkanie Nawrockiego z Trumpem. \"Obrzydliwe\" - Wiadomości - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEtKeTVMcmhuTnFGT0o3MGZiTHVaVmdvd29iVC1CVXptX3JmeC1MeVgyY0FDTkRtaHF2alJJTHcyUDlVc3ZvZGVydGNFUHJnTzNwZ2F4MDlMVmhEU2l4NGN5Wktaa3RkcElvUmJEM2VRVWxBcVJDS0x6UlN2Mkk4ZWQ4eEJ5TzlmOFI3WldBeElFVWc3QTRBdndCejd3RFU1cXNaM1hPT1Njc2FmWFlEOFJJVW9yX3RtWmlzeENqbw?oc=5"
+      },
+      {
+        "title": "Przemówienie Andrzeja Dudy. \"To jest dzień polskiej dumy\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFJFYXF5S3BzNUg5YzhVbml3TmNDcGpZbUkyZU1uazRXQ2hBZjJqMUZOMDE3NjBENy00OWVzejlvX21HbFZROHl3b04tQ0l3WHNVM2diZ2tfaWY3UTdrcHVQcWhvaFdTbTV1SlNhR3JZMzZYQnBncHU1ZUxpTU9fSTMtVnNVWXhrVWt2QnBvVGpMWmlMaXZhb1RVbHJnWGQwT1d6VQ?oc=5"
+      },
+      {
+        "title": "Putin chce zawieszenia broni. Ukraina może zepsuć mu wielkie święto - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtEYVRnOUxXeHE5X01WbkpOYTYyTG1HZkk3TnQzVzUwcWFpUjNXeTlveFFGcEdpbHdUd0dveFUyLTNSOVBqVVYzaV81SHZqaGVWcUVseHhjOTFOSGVMOEU0Z193Z1JVTTRMMDlrM0RzOHpIckpkQlBKTGZFNjgwMVpIbEczWjZYX1E5bVJPNEM4Q3pLZGo3TVdYWnlrcE1fUl9IM1dpSFpNSmNVMUE?oc=5"
+      },
+      {
+        "title": "Zabójstwo Mai z Mławy. Rozmawiali z 17-latkiem krótko przed zatrzymaniem. Szokujące zachowanie - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0hQUFJ2V0IzNHNYUW5vWTc0bHp3VVlycFQ5V3ZMZEx3WGJyeXNsVWpacjhFY2JrNlFLU0hrcURyWXRqRVF6d3M4MUd1TldpMmlLd2V0aG95Y29KTVVkMGNjUHNXeWxrczJfWE56X25WR1Q4OURLNnJhT3hHTXR6bEpwNmVTTkw5LXpEbzhPdXJfVWJnVGZULTVqT3kwWUkxa3E3OEJLY0xVRzBQUlEwUHNQTjllREs0S0Z2dFo2ckZFTVk?oc=5"
       }
     ]
   }
