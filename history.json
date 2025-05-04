@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-01 23:13:08",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7617,
-      "EUR": 4.2778,
-      "GBP": 5.0283,
-      "CHF": 4.5562,
-      "JPY": 0.026336,
-      "AUD": 2.4039,
-      "CAD": 2.718,
-      "CNY": 0.5178
-    },
-    "crypto": {
-      "BITCOIN": 366566,
-      "DOGECOIN": 0.686446,
-      "ETHEREUM": 6996.93,
-      "LITECOIN": 344.47,
-      "RIPPLE": 8.42
-    },
-    "indices": {
-      "^WIG20": 2737.86,
-      "^WIG30": 3525.07,
-      "^WIG": 3525.07,
-      "^NCINDEX": 240.09
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki w Białym Domu. \"Pytali mnie o subwencję dla PiS\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDRzZi1KQTMzbHhIT1h6dHdJSEF2NU1YbldQSTRwZy14cFQxRm9LUGRuMFp1LXdoeUg3QnpCdVI0LVFSaTJ4aGM3X3hod2t3MFhsZnFmVnhMWWIyNTU3aEJ4el9qR2ZUSVNOOHFhbjRxc3NyY2tkV3A0SmZkQThjYnNEWkdjYkVITWYzZHhMcGdRakJsYXdndmlITzhFeENtSnV3?oc=5"
-      },
-      {
-        "title": "Znaleziono ciało 16-latki. Zaginęła tydzień temu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUFiZExEQkt0b05GUWN6SkRjQW80dllJdmY1akNDN0hNdVVkMmNsdzJ6cGNjdVIzcE5fTm9IN1MzOWhBWTRHQTA0SnBadjI0bDZRSlozY0VycjBRQnpYYk94VE50WGZlVHdrQTdiZHR0NGRYbjFhY1paQjRUbWZsTWRaZC1PU01CdjJWdEpybkFBNG5Y?oc=5"
-      },
-      {
-        "title": "Orędzie Donalda Tuska. Padły ważne słowa - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTNkcnl0M25FUXRMT1B1SllOUUUwN3JOMGlRS1JiaUJUQ1hIWWtfdmFXM21BMW5meHFzcTRwM1hXVDZRX0huUUFGZXJFSjlYbFJycjRvRkpxR1k3VjIyd0NyUjZETnF4Q2hRXzdQVTlzYUtyeDhLV1A5dDNaOXU4c19jN1BUSlQwb2Q5MTVB?oc=5"
-      },
-      {
-        "title": "Pogoda załamie się jeszcze w majówkę. Nadchodzą silne burze - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ21UTDdRRmJZcFU0S0laYnV5c0h3NVRGeVREN0tzUjJhZzlHTkJjc0hST1Q4Nlo3d0ZnRXdYUmdwVm1lX25Uc2prX2FIVlM2RlRKX2lGLTBudnhGOXpSRmkwWFIxZDk0cmJraGtaeEdCaENHakZLLWtfSTEyTkR2OXdjMi1LU1ZKRW1ESk84d3FpTnJKbmoxd3AxVWpKaW5JdHVoMzNmbzU3OFZTdXd3MVIzZG0td0lwMEdqQmJhbDE?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: Mike Waltz straci stanowisko. Trump jest sfrustrowany jego działaniami - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGFhcENuQXEzSFNocFFXZ25ya0hXaWpiOF8zXzI3UTB4alZTaEo0dDNPbTVuUFJUWmMwa1FpcUVkNHp2NG5wX2pyZ0hlQzlYQzdhZ1RYbmxOaGNra3AyOGxtU2ZVRHNYZnJsZmFBQ0J3dEo3cEFjYTZ1d0twem1GRHRQUkIwbVRKY3JkeVNfa3N5TC1BR2R6RjlwTE1KNExNZ0I5b2Q4aU9hTTRmNTdkRGVQS2dZZm1yX1plNmVfRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-02 00:13:02",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2540,6 +2487,59 @@
       {
         "title": "Tajemnicze zaginięcie matki z dwójką dzieci. \"Może im grozić niebezpieczeństwo\" - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRUtkRE5sQk9aQ3lMd1RWUlphQ3hNNU0yRkFQZl81d25jSVFvN0Y0OHNmOE9QV3RTanpVV09fOWZtTWRiY2NkdWNmQkpfZk5SbFlSd05ianhVLXRMTVppczhqVlJZTEt5dXF1UjhlYVBKRU5mN2hmOE55aFcxc0xzR1M4Mk5od19EU3QyMzM2dDIxVS11WXdEdGs2VzdwR2U3WU1QcDFGYzVQd2MySHdHbGpfb1BQOTlhOUlGc254cUZ4RTFJcU9qa05R?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-04 06:17:14",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 362984,
+      "DOGECOIN": 0.664464,
+      "ETHEREUM": 6948.92,
+      "LITECOIN": 326.52,
+      "RIPPLE": 8.35
+    },
+    "indices": {
+      "^WIG20": 2811.07,
+      "^WIG30": 3615.92,
+      "^WIG": 3615.92,
+      "^NCINDEX": 243.44
+    },
+    "news": [
+      {
+        "title": "Parada 3 maja w Chicago. Nawrocki i Schetyna spotkali się z Polonią - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEI5dTZnaDZlRi1BZGVDeUxYOGtWU3B2NGxmNUZuYzJoN0ltODRRaG0zal83VlEwWXlrVEhfT0RXSFdub1k4NmZhRU1PeU1od0poNmNYSHQ0YlVQaWNHTmdlNFZKUHRXeklKMktqTUQtQ1kzdWQ1bVdNZUx5eS1jZE9GMVNpdUdtTk1MRlNXX2pCVzFubjg1dGxuUGIxS0J4SDhZcWFxejd4TDJuRWc?oc=5"
+      },
+      {
+        "title": "Niebezpieczne zjawiska nad Polską. Burze, wichury i gradobicia pustoszą kolejne regiony - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYjNTU1g5UlJPdGw4WFFzYTY2VU1GX0dMa2NTNHJwalplM3BwYVY2MV85MjNVNUotYjZJaEhxZ1ZXdFZEMm9TdXVveG1YaFV5ODJmaUZITi0tNThTMTdLckhsWDFkZ1NRVU4wZ24wOGVkc0JuSE4xQkpIWU16TFRLZ3lfajg2NWFrdURyZC1iVlNXT0JHMVNuNWJLVVg3LXpIcGlxQWx1aWRTRXdCdUh5U0RiYUJfWDhWR0U1d0NfX25MS3dDWTVtNmJiZzJBQQ?oc=5"
+      },
+      {
+        "title": "Ostra reakcja na słowa Wołodymyra Zełenskiego. Dmitrij Miedwiediew grozi Ukrainie zamachem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlZpOHk5X2I1cEFxYS1QRUIzaVZHaDQ4cGhkbERod0ZIQklQWGpVMk14TDFQQ0JvU0hYTUdHdUpTN2hZTlJNaTlCWFdBRE5mVXlyRkhQSUI0Umk1aXVZaDFNX3ZoUWdVbHVWOEk1RTcxaThDaVEyanZKamgtdkp6ZVMzd2VCaWVzQnBndDlzaDNvZU9XU19LaTZVSnR5ZW9oV05CZ18xSG5MSERjclUtNzJscC1NYm5tZEExU2NtOVItM1ljWTdFSlppdVVsZw?oc=5"
+      },
+      {
+        "title": "Polityk Konfederacji wyproszony ze studia TOK FM. \"Dziękuję, posiedzę\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUZjMEtxbkNwc01wN19uWXZENks0YkdGNVQxa0xwZWZybUwyaXZ6WHI3ZjlNaWtvYzJGamhST1FzSUlVN1FGNmRpQ3lKeUxTT09RM3lNQl84LWVJUnpVYlIxX0VOa1JmZ3NpUDR0QlhRSklvYXVIbk12NG91alJxWGM5RXdqSjg4djJ3N3d4NTdScUdMY2ZsMFNHZktmeWU1eXN4V0x1d2VjX0HSAaoBQVVfeXFMTThMY1JJRzVTRmJ5Yks2TzhNdlNLcUdMbVlQS2lhcHNtRXdRWU5Dc0pNbHJXLUpnOWVINXVyUzgwUkN5WU0wcXZkUmhraEN4QjVrZUpDUVVMRzdLQzhQMW1SdHZqUlg0XzBYZzJrdC0wQmlNbENkZGZWVTRhcjd2aWNZdDJwVzlsUmVBRDdoS2VDaTRRNTVBSDN5UXhCQjMzRzhYWm53QkhZLWc?oc=5"
+      },
+      {
+        "title": "Premier Tusk: prezydent potrafił obchodzić Konstytucję jeszcze lepiej niż jej święto - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmNXUEpteUZnYUVEcjRhME5fNVBFZWlWN3N3NFh4MGFhVjUtMnlnVWxLNUdVcGR5T18yZFhzYlp6Q1hqZ2N4dlZVcE9wZ2NWSXRuLUpqREpKWjlVbUVRTWJYYWtxV2xpUVViRWVxam81VHN6S05nNXVKM0RsSVYycFE0WXhFbTBIZlFudHUzdWF0SU5HMV9KeFBEMUtPa3FDWk9TeXl1eGFfbGlCMkE?oc=5"
       }
     ]
   }
