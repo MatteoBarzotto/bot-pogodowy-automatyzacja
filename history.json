@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-02 12:14:20",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.7722,
-      "EUR": 4.275,
-      "GBP": 5.0141,
-      "CHF": 4.5654,
-      "JPY": 0.026044,
-      "AUD": 2.422,
-      "CAD": 2.7276,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 364605,
-      "DOGECOIN": 0.679936,
-      "ETHEREUM": 6872.94,
-      "LITECOIN": 333.83,
-      "RIPPLE": 8.34
-    },
-    "indices": {
-      "^WIG20": 2777.51,
-      "^WIG30": 3574.54,
-      "^WIG": 3574.54,
-      "^NCINDEX": 241.8
-    },
-    "news": [
-      {
-        "title": "Niemiecki kontrwywiad: AfD organizacją ekstremistyczną - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXhJUVBidHZ2cU4ybHRseVllLUJhNGMzYThhbW4zLXpWMmdfY0pOU3hiM2U3azktaE5aRE5MTTNFMWttd2tRdGZia0c3WUlhb1ZjT3lXUTNhT0VWeXV4WXZLRGlJZ3hjYVJzMFJaQmczQjdaZG9YNlZPejNUTzZnWEJTU19OTk1IS0taVnRxTzVLQ2J1SE1iNW9GRHE0bFBjTUt1bEVn?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki spotkał się w Gabinecie Owalnym z Donaldem Trumpem - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONE5pbk5fMTBLUVZGa0FpbzdUSDFsTE9LdzlhZWNlMUtqWUNyUlNtSFlqbHpyTHIxZ1ljMGlvLXF4ZmR2QTJNR2xHUEM1YmZOajcwckpfYVgzcjc4aEJkci1XZS1LRUYtVnBRSTlKQ3VYeWVqODJ3YnBfNllpUGlQZG12M2ozNUIzWnByOXFOdWZyRjZFR2tWUW0tdEdEbW43djN0VnBUNA?oc=5"
-      },
-      {
-        "title": "Burze, ulewy i grad nad Polską. Gdzie będzie niebezpiecznie? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpqMDhvaDh1SHMtY2dmM1JoMzdwMy02X3lldDdPSWx3dVIxSE1RN2pZMGhuNXZkbHNxb0VpeEllSC1TQkNCOHNrMXZ0anhrYkk1QXJOQVpqREtoajV5Xy1Wa2hSbDJxN3RMQUtZcU9QT05SR2N2d1FyYXBDWi1FUmZ4Y2tYVlRqVFIxa3dlOE9UVXNEb3NfMjZNc09Dc3JtNGc?oc=5"
-      },
-      {
-        "title": "Państwo w środku Europy się rozpadnie? \"Istnienia tego kraju po prostu nie da się utrzymać\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdm1QMmR3TlRYUVVGSGYxR2VrYXRMZktzdXFDcGFuVjF4ckN4aGEyNzF0MWx6VXBQQ0ZnekFZd19uNTdENm9INnJhNXJQZUk1SEFuM2JHRmJiZmFWLUpOdy02YXNmLWJrUDJFZWVhSkpyQkZ3U0Vlem0tV0h3X2VhU19zWVlRSFFhVjNQd3NpWlloNGxiLVlHamc0QmY0SG1JYXdSOWV4Qk56bi01SThwaU1qaENFZTJPZUVz?oc=5"
-      },
-      {
-        "title": "Zabił lekarza w Krakowie. \"Klawisz\" mówi nam, co czeka go za kratkami - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXhqTjB6MUFobmp0WEd4SDFjVVhuaGVvS3Q4Y2JWS3JPWmVkSGJrNkVCWXlTZUFVMGdvSTZ4X213SkJGS1c1Q1hZTUZCQWFhZjB3bV9XckJfeU84SWJqSzVIZWltSml3a2RQZlJidWcyeXJGQU5kem5FRXNweXQ0X095Q0U3LTQwRTl6QU53WXVfdGMxT1ZjY3BmbGNUbE4yOEY3bVd5SmtvczV6dF9nUVJn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-02 13:11:43",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2540,6 +2487,59 @@
       {
         "title": "Duda załatwił spotkanie Nawrockiego z Trumpem? Wymowna reakcja prezydenckiej minister - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOE1pNnpfSGpTQjNSRFFrODVIV2FqUy01YmZLSWdfbTFOcG05SG5zVVBDelp5NENfeE5pR0JoRnRWT2dEem1UXzg4TllKd0NQNy1nbUpUWHh2cmxiM2JZaUNBeXdYR1pZdGppRmVDdDZnT0Z2UjYwMnRGUW9GSFA0cjhoRmg2NEFhdmtMM1hBd1did0RYaVpoWXlLT2hVNkFRNm9KWVFLLVhkejd2ZTNvTnVESVpNVE9LVV9FWWRBdERmTk5LYkZLOUJfQ04?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-04 17:12:41",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 362144,
+      "DOGECOIN": 0.659721,
+      "ETHEREUM": 6932.64,
+      "LITECOIN": 328.33,
+      "RIPPLE": 8.31
+    },
+    "indices": {
+      "^WIG20": 2811.07,
+      "^WIG30": 3615.92,
+      "^WIG": 3615.92,
+      "^NCINDEX": 243.44
+    },
+    "news": [
+      {
+        "title": "LOT wśród linii, które zawieszają loty do Izraela po ataku na lotnisko Ben Guriona - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV09QNVIya3p5ckczdVpuT3RvZ0tlUXFaNkFnbm5LMDhPVUVxSzVtYm4xX2tfSUhSeVkyOVRZTGd3ajRZOGIwbm1RMkg1cW1FRUkteHhjQkYxeDZhV3c4Q3ZLbklONVExSlFqbDVUQjlCZ2YxM3llbm1Eb1hZV1BzVVNRUkV2VWtyN3Y0Z09hS2lyZGowWHQ2RUJ6cjljLUZUaTdkdzc1ZW1qbFp5MjlHLXozdlAzY2RVS0RvREtxV3AyaC1QVy1VdFNn?oc=5"
+      },
+      {
+        "title": "Zaskakująca prośba kardynała przed konklawe. Media o \"kampanii wyborczej\" w Watykanie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0VTZm5DZ2U1QThHRV80VjdWdkg2UWtwYVRKT1VVZkRwVjdWSk5IWHU3V0NxcFFHMTBRRzJ5YVJWSmZZdkFiZnhxLUV4dFV6NUhHRHQ5MzZ1SkpaaDVmajh4XzdsNkxubzhzTkhIemlqY0VDaXQzNlh1MkNBRkZIYjFhaXVnVDFMdmVmNmswNTN6al9qT1JZVFpoQThYZUxTa3BadnZpbmpFMlhIU0dGSGxFS0Q?oc=5"
+      },
+      {
+        "title": "Tak potraktowano Nawrockiego w Chicago. Nie dopuszczono go do mikrofonu - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1pYa2pEMGpKbnloeXJ1cXpoSkJnbHNnMHZRR19YcHppVXRSSXNYQndBekczVlNveHhHNVEtTGYtd00wQXdTa1hlYU52VkhKbERtSklPQVQtdG5NYnJBdE1PWGZHdkVlMDN2R2Nsc2stT2VEQUdTWmREUGdmMmEwNE9DQXBOZ283QUFuNUFnQlAzQkx3eF9VSXMwWHNuYnlRRERaelhJZ2xCVUpaNUE0UFB2T0JwenhkdjA4?oc=5"
+      },
+      {
+        "title": "\"Żeby mówić o konstytucji\". Trzaskowski wbija szpilkę prezydentowi - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTldXSHFFTFRHWmFrSWJfZXMwZTVBaEI1SmNSeDlRR1Y5V01DUVZQWkFvbmFVWVpTeGhOczRHVWpyeEZmeVgxRTlIOGhQQjRrckppbTZqeUplclhrcnAyWlhHek5KWHFrWlNlN3dmUlRXM011eXNmQk1QbXVOeGdNVHIxZDVMSjlnSS1MTWJOZUdYUDd0SEZaN0xnV2hWcmMwMXRmbEUwdzY3UQ?oc=5"
+      },
+      {
+        "title": "Oskarżają Bartka, że miał zabić Maję i rzucić jej ciało w zarośla. Dotarliśmy do jego wpisów - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1JGckdvU3NUV2ViR0kxc2dIX1N3bGxuLWU0YTZGMG9vNWJlN3JDOWdLUG80TTRhcm52dGltd1RtWXVHSjZpcjFwY3Z3dWgzUFJFLWhVOXVKQ1dUbXQwUzFXNXpjbkFoWHFzZlRXWGk2bUNSOWl1amwxNnVjMm5vbnh0cDVpUnJXc1FMSmVmRWRkVWFrRV9OWmNUTTNIa2RtbGI2ZXV5ekp1UlhVa2FfYTRBNk9EVGN1TjVRdXpR?oc=5"
       }
     ]
   }
