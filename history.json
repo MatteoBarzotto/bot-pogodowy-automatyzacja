@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-02 15:23:42",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.7722,
-      "EUR": 4.275,
-      "GBP": 5.0141,
-      "CHF": 4.5654,
-      "JPY": 0.026044,
-      "AUD": 2.422,
-      "CAD": 2.7276,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 365585,
-      "DOGECOIN": 0.686067,
-      "ETHEREUM": 6928.3,
-      "LITECOIN": 333.74,
-      "RIPPLE": 8.37
-    },
-    "indices": {
-      "^WIG20": 2795.58,
-      "^WIG30": 3595.97,
-      "^WIG": 3595.97,
-      "^NCINDEX": 242.27
-    },
-    "news": [
-      {
-        "title": "Czy Donald Trump przeszkodzi Karolowi Nawrockiemu w wygraniu wyborów prezydenckich? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGZLa2gxOFFKR2lNdEdSYkMzRlNtR2Y4dTM2N1ZVWGEtMWtzaXNnSDQ0bkVUN2szTEpDZG1XcXVzN2pwNzVFVktjQmtfTUlIRXVYelBmNVB3UnkxTnRGZVNSUkM0TDBJUW9kSUJBRHJqTVlEQU1nV0hkMk5zMVU2NmVIQ09RajFFUmtKX1UtMmwzUXg3WHhGdlY3dVpnNGpWekItTUFvNWFCdE5Md002d2ViT3dvaW03QlhtZ240c2tjR1N5?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-latki. Prokuratura podała nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1I5ZDBpczZEX2t0c08yVEdJWXVraUxOZVZDZjFVb0VGX2NBNDlNQVhZd01SWFNIRlVsT0VvWFZCcks2WkRkc1NMM0ZQenVrZmRPMjdLOGF4VXR0RUVid3VmU0d5RS10bzZzUnhMRnRnRHNUbVRZUURlVVpINHlYaDJSS05OMGFhbkpsQmdGdmFfWDQ5R0c5cEpsbjl4dw?oc=5"
-      },
-      {
-        "title": "Burze, ulewy i grad nad Polską. Gdzie będzie niebezpiecznie? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpqMDhvaDh1SHMtY2dmM1JoMzdwMy02X3lldDdPSWx3dVIxSE1RN2pZMGhuNXZkbHNxb0VpeEllSC1TQkNCOHNrMXZ0anhrYkk1QXJOQVpqREtoajV5Xy1Wa2hSbDJxN3RMQUtZcU9QT05SR2N2d1FyYXBDWi1FUmZ4Y2tYVlRqVFIxa3dlOE9UVXNEb3NfMjZNc09Dc3JtNGc?oc=5"
-      },
-      {
-        "title": "Niemiecka AfD uznana za organizację ekstremistyczną - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1l5UE5ZUUNBeU1tY0RGc18zb0J1RHl5TEZCUVRHR3hRdFc2S3FBemJERW5WcTh5V1NWeDk3eHcwajcyUUhtRTV4amxHbWQ2QjhuWi1LS1N2aHFnZXhLejlUY0Jka2ZqNFQ2bWkyQ3o1a1hYVEFCb2pEdjFXbng0UHdfbW56ZDlxY1ZxTXVubldkQks0bzZ4S09lWUItZVVqX2tHRjZn?oc=5"
-      },
-      {
-        "title": "Awantura z udziałem pijanego pacjenta w Krakowie. Interweniowała policja - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2g4T3MxTWRDTzVsZlJwR2xocS1tRkhKSklxdHJXMUtkSVY4ZTRzUjNxQ2w5c29mcVFYWXh4MVZucUxYc3VrZVZFNU82Q19oU3c2RjhZN00wbWNPLVdKNW1KUVRvbU9yU1RYYm8wRWd6SDVlX3hSb0M3eHgzRUNNVl92TXpkWkVNYnA1eW9nWUxaZFhRcFFWY3dzcWRoOHRqLW9oYXJCMHNEcGo3Q1JTUXlNazlPR2xJX3dXeG9WLWJYT2FMT21jN3pB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-02 16:13:12",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2540,6 +2487,59 @@
       {
         "title": "Trump zapytany o trzecią kadencję. Nie wie, czy powinien respektować konstytucję - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTd0UElfbm1wRXZHNVlOVWZvaE40SUMxb0drRXE2TFNfRlNCX2w3MFI4c2lKVWN5SlV4R1ZQRGM1ZmMyV1BacEJfb2lyT1VPZUxjaU5LMVN4OFZjcEIwUFNmbzJPNEVIRTVXSVM3a2RpaFZfYjRadVBLOXpOTTNQcFlmYVg5dkZUVi01QVhEM2dPd1RjVEZEUVlXZ0hGNFp3Qmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-04 20:16:56",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 361228,
+      "DOGECOIN": 0.652469,
+      "ETHEREUM": 6921.41,
+      "LITECOIN": 326.9,
+      "RIPPLE": 8.24
+    },
+    "indices": {
+      "^WIG20": 2811.07,
+      "^WIG30": 3615.92,
+      "^WIG": 3615.92,
+      "^NCINDEX": 243.44
+    },
+    "news": [
+      {
+        "title": "Ogień i eksplozje w Łodzi. Pożar na terenie dawnych zakładów bawełnianych - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWnlmbGlSd3NBRlU3eFp3OG0xcU91Z3dxTmVKOTdkbXBnYWIxXzV4dFBGb2hHMHdpLUhLa1kza24zc1lBVmljWFFsZ0l3NExuaTlpNHZZVmlTS3dUWTlSckd4OTBVbEhmMUNld1FuM3l4c3NJS0tmd3ViYkI4V0R6cHJvYjdTbjgwVnEwbW9vWTFDTUM3UW43NnhuaG0yOTQ5a1E3Ujc1OWh5NDdTNVZVSw?oc=5"
+      },
+      {
+        "title": "Zaskakująca prośba kardynała przed konklawe. Media o \"kampanii wyborczej\" w Watykanie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWC11aEJwWXRlX1lTMWIxQ0VDUGdlcGNGT25uRlJVOTh3c3I4eGgwX0NCaXFDUWJrdGdXMzJ3RTA3d2VaQmh6Vm5HYmdjLU5GemdZOHFLYWwzMEFtd2VXSXVZQ3FpcWc5RUJVOFZpMm5yQlZYb0ZnMjloV2FubFFGQ1I2Qi1yZE01ck41dWxJd2drMjdMUmZWSnVSWTdPcFBPQzBjVDh2ZDhaaWdycGw5cXkyVXlMQjdkcVdIQTFUVklDckVFRTVDUDNwQjJueFVhS3c?oc=5"
+      },
+      {
+        "title": "Rumunia wybiera prezydenta. Najnowsze dane - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX185V3AtcXRpSjQ4SlB6d0ZTZmhyTHNRUFhsVW1mREZZdFduaThaZzhJSVVvaHVkVGFGVGJZTVFGekpVWW9pMjBmV3BsRktpcTNmS2h6cHhCMzRlcUtmSmk0b2RNWlVkeFotM3ZuXzdRYjBod2xzSVVGcTZGUVpIU2hIX0dGcF9NMFo5Rw?oc=5"
+      },
+      {
+        "title": "Poruszające sceny w Mławie. Ulicami idzie marsz. Niemal wszyscy niosą to w dłoniach. \"Płaczą\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONVJxUHVrRlhuNWpQcm8wR1ZHRXB3OWdhTnlBakFhRjlQUTRvTWhMV1N0eXh4NFhnRU41S29YR2twdkZKUEFRSnczQjhYMVlCYnd0M3ZOOGhma3gzamU0ZWRielFkaTRzV2ZPY3IzQ3J4NTRKTUJZUHhzUk9HR2ZRU2JEM1lRRzBTWWUtTUZjb2Z4UDQ2R1g2NExXcE5FY25uQm5zRnNwV2NKTEJvZU41bVA5NXBFLXdsS1RmMm5HQlBHNDJNcDN5NEZXdw?oc=5"
+      },
+      {
+        "title": "Majówka na polskich drogach. Policja pokazała statystyki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2pCdmstOHlHank0NVRPeG1CVEg0OU1YdTA1eDhBdUFKb1VmYjFyVkMyS3ltVWp6XzB1MmZqNGZMNzg3N3dmNU5yWVpSRjBUc3ZyRlJsQmM4aC1fY3k4QU8zMDlNYlRFZzdINzBHSWtEa2pkdTBuXzB0YXdhV0FiU0pPS3BhMVFCNTNEeXlxMUd3dllKMm9yazVkUFVYWkpINnJUNzVrZHpIdGNGSWJWOUpYZUxKb3F1NWRhVg?oc=5"
       }
     ]
   }
