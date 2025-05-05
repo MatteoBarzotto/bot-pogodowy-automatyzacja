@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-02 22:15:10",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7722,
-      "EUR": 4.275,
-      "GBP": 5.0141,
-      "CHF": 4.5654,
-      "JPY": 0.026044,
-      "AUD": 2.422,
-      "CAD": 2.7276,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 367174,
-      "DOGECOIN": 0.683067,
-      "ETHEREUM": 6972.19,
-      "LITECOIN": 331.67,
-      "RIPPLE": 8.35
-    },
-    "indices": {
-      "^WIG20": 2811.07,
-      "^WIG30": 3615.92,
-      "^WIG": 3615.92,
-      "^NCINDEX": 243.44
-    },
-    "news": [
-      {
-        "title": "Burze, grad i silny wiatr. Uderzenie na początku nocy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3RhNE9OQmdUUVNwb1VmREFvREZzYmRVNlZOMkt2VGR2MGFCYVJHbkR2VUN3Y1QzemM5THNWNnNKRS1URjcyWFdpYWlrbUxiUk81M1d5dU9nN3NUbVQyY1BQa01IbUVub05VWmhjU2VwOVBVdWJWVVZyc0RMWlZsN3lwSkVwSU8waHdMVVVFOFlwY080RmxENktR?oc=5"
-      },
-      {
-        "title": "Czy Donald Trump przeszkodzi Karolowi Nawrockiemu w wygraniu wyborów prezydenckich? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGZLa2gxOFFKR2lNdEdSYkMzRlNtR2Y4dTM2N1ZVWGEtMWtzaXNnSDQ0bkVUN2szTEpDZG1XcXVzN2pwNzVFVktjQmtfTUlIRXVYelBmNVB3UnkxTnRGZVNSUkM0TDBJUW9kSUJBRHJqTVlEQU1nV0hkMk5zMVU2NmVIQ09RajFFUmtKX1UtMmwzUXg3WHhGdlY3dVpnNGpWekItTUFvNWFCdE5Md002d2ViT3dvaW03QlhtZ240c2tjR1N5?oc=5"
-      },
-      {
-        "title": "Doniesienia o wycofaniu się USA. AfD uznana za organizację ekstremistyczną. Podsumowanie dnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNUpUaXpQZ21QY1NPSHFad2wzbGpqRDByUGpOOHVzNWFHUy1KLXJ4SFZyVmJDWElJWlAweU96dW1WTEozTkRWTEtLcjVvTUc3eV81SVZvbkJJX1NFNjJLd3MtdGpIN2ZTYUtmNmQ2dGQ0eW81NGVMT2RyenRxeHhOLXVxZmRnTWl6RG9OLVlZWU9aaU9GWUF6RVg3Q1RURXJFV1U0RHNvVG5QaGZILVV2OFhPR1BodDAzNFE?oc=5"
-      },
-      {
-        "title": "Święto flagi. Czego nie wolno robić z biało-czerwoną? - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGJlVjV4TzRDREp3dmxYWjA2cWFwWXlqbktKamRCZDQ2TGxUY3NqRnFZTTc5S2l4YmN2Sk5Dd2VhUXBJa2xpbXlIbUU1V1FnYXFUbVg4bjVNX3ZBSlpzanJoRmdReXVZQkM0MWVDOV9yd1Fva0VRUVVwVWNBbjZIbVo1aElOT0xDTUppQVV2aVVLTmd1UTdIQTZCSWhCM19jNmFV?oc=5"
-      },
-      {
-        "title": "14-latka nie żyje po upadku z konia. Tragedia na Lubelszczyźnie - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOC1Md0ZsNmQyZTljR3ViZmo0bmdsN1lPZDI0UkZjYXJxTTY5bTdlb28wUGZYYTcyTVIwRUdyTnJqaHRIQ2pMSjBJczFnUmZ6NkZGMk1valVpY3I3VXRDXzJNTkdyc3V6bVRpVDBWUFRrcXhEMnNfaVdHcXAtdl9KeWdZbTJEbHJiNlE4ZEtJYlQyQk5Kc1RVem53MHdrVUs0Q3Ffd2F1MFE0a19vQkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-02 23:12:21",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2540,6 +2487,59 @@
       {
         "title": "Potężna eksplozja w Moskwie. Ciała na balkonie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFJ6RWJiWHpkVXZKeUJ1S2toQUp6NklHSTJZdTZYa29lS3lmd2Ezbm1jYjk5ZGZ6Y0tPZkdsZkpBM0RKQVBBX2VrNDRaUHZDTDVxYTVXMWN4RjFFZVFzMmFlZThsRDFaVl9MaHc3Q1BfYklxOFBhWjQtVXBQLU5kSngxTVB0ZmV3czE2SVM2dXFTQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-05 05:08:53",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.7722,
+      "EUR": 4.275,
+      "GBP": 5.0141,
+      "CHF": 4.5654,
+      "JPY": 0.026044,
+      "AUD": 2.422,
+      "CAD": 2.7276,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 355234,
+      "DOGECOIN": 0.644663,
+      "ETHEREUM": 6782.92,
+      "LITECOIN": 324.42,
+      "RIPPLE": 8.14
+    },
+    "indices": {
+      "^WIG20": 2811.07,
+      "^WIG30": 3615.92,
+      "^WIG": 3615.92,
+      "^NCINDEX": 243.44
+    },
+    "news": [
+      {
+        "title": "Powtórzone wybory prezydenckie w Rumunii. Simion na prowadzeniu w pierwszej turze - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjlXMWk1YUluZTZSUGhHNkk1R2FiSUNOb1dva1VoclZOaUl6dnEyWmFpQmZ3WGVpOHdkWjQtMUdLYzNoa0dqZnJQSWRLdDlrMWxLZEdSS0VfTEVDdWpuVU9lSWxPdTlNem5sMU1UNERGT3E2VTlHUS03ZmdkV3dqbi1aVzZKZTdRV05xbk5pWWdGQnh0RGlmalRZR2oxNGRwWmlQd1VPZVBEZXExMGtGUQ?oc=5"
+      },
+      {
+        "title": "Spięcie o wizytę Karola Nawrockiego w USA. Spadek poparcia Rafała Trzaskowskiego. Podsumowanie dnia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdDF5SWRNdkV4NDM1OWRZSWwxVm1PZ2JYS2RqQ2xYTkp4WWt2NXlfOFFSU1ZTS2pGVi1oQjBORVltY2hHSGk3ZDRyc1c5dzBxLU02VGJ5b25hNmRWMXdSTHQzUWRoRUw1SzRodTNSOFFuUXJYMHlkMVpzdnJrNXZEdTdKVUNQMzRqTGRfdldOeEZvSzgzSTM0dHhvUXZESkhMSy1TMmtObDIwel8xUDdlc2h2d1dpS0Q2bHBMSA?oc=5"
+      },
+      {
+        "title": "Trump jako wojownik Jedi. Biały Dom publikuje kolejną grafikę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOV9wVEh5MThuZU9RVTNvTkdoeXRFQXlIOTNCVENQbklyNDFPZGpnUExZYmsyNEg1dUN3SUNjbWNvWTJ1XzhEREFpQ0Z1U2VpR09FUnNHeVQ2c3liMl90S2VnSkRsQXNHS20xcUt0aDFQWjFKazNWb2ZTYXVrakJQZlVwbV83OU1VUlNMcDhXZmtoTDRSWUs2anV2eFF2VUdCR2p1cTdn?oc=5"
+      },
+      {
+        "title": "Trump nie odpuszcza. \"Coś może się stać z Grenlandią, będę szczery\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXd2VEJiN0tKME1PbDUtU3ZHVVc1aWFXMGY3bWJUaktsX3Jlb1VjVmxkVl9mZWFoSy1vWUREaWJraWJoTGIySXpGQnl2YWVZS0FpTmRtTlJrYVVGZHZtelFsVV9CU3ZzU1BlaEp2VkZ5MktYeWFUSFZKWHhaUTZkU3NZWW04SGNXeDFFazhhUjM1ZDdKX0d1cmdLR045VW9sdmp1MGE0d2VVckxpU2tEQXJnNVNBQ1ozMkE?oc=5"
+      },
+      {
+        "title": "Oburzające słowa biskupa. Tak zwrócił się do proboszcza - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYlIzb0NDcUdCZmlDQ3hYY2lMbE9XTVgxMlBRbXVRdllWUEVqQkY4Rk5oVVhxTWctSmhHbGctaFNweGFha2I2VGxfVDZSTlVwaTFaZGxCR2I2ZnF1WXQ3bkxKeGdvUXRheHNuSkllTmo5SWlYazBEZWVTZWk2NWhXMkxaZGRTNmNhYnRjRm9lOWhLMVpKblQzWnVhY2xBWjB4dnk4ZmZzNU5aNC1BMm5KcHdjRlFxTHVl?oc=5"
       }
     ]
   }
