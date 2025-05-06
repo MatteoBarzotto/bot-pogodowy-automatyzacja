@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-04 06:17:14",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7722,
-      "EUR": 4.275,
-      "GBP": 5.0141,
-      "CHF": 4.5654,
-      "JPY": 0.026044,
-      "AUD": 2.422,
-      "CAD": 2.7276,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 362984,
-      "DOGECOIN": 0.664464,
-      "ETHEREUM": 6948.92,
-      "LITECOIN": 326.52,
-      "RIPPLE": 8.35
-    },
-    "indices": {
-      "^WIG20": 2811.07,
-      "^WIG30": 3615.92,
-      "^WIG": 3615.92,
-      "^NCINDEX": 243.44
-    },
-    "news": [
-      {
-        "title": "Parada 3 maja w Chicago. Nawrocki i Schetyna spotkali się z Polonią - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEI5dTZnaDZlRi1BZGVDeUxYOGtWU3B2NGxmNUZuYzJoN0ltODRRaG0zal83VlEwWXlrVEhfT0RXSFdub1k4NmZhRU1PeU1od0poNmNYSHQ0YlVQaWNHTmdlNFZKUHRXeklKMktqTUQtQ1kzdWQ1bVdNZUx5eS1jZE9GMVNpdUdtTk1MRlNXX2pCVzFubjg1dGxuUGIxS0J4SDhZcWFxejd4TDJuRWc?oc=5"
-      },
-      {
-        "title": "Niebezpieczne zjawiska nad Polską. Burze, wichury i gradobicia pustoszą kolejne regiony - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYjNTU1g5UlJPdGw4WFFzYTY2VU1GX0dMa2NTNHJwalplM3BwYVY2MV85MjNVNUotYjZJaEhxZ1ZXdFZEMm9TdXVveG1YaFV5ODJmaUZITi0tNThTMTdLckhsWDFkZ1NRVU4wZ24wOGVkc0JuSE4xQkpIWU16TFRLZ3lfajg2NWFrdURyZC1iVlNXT0JHMVNuNWJLVVg3LXpIcGlxQWx1aWRTRXdCdUh5U0RiYUJfWDhWR0U1d0NfX25MS3dDWTVtNmJiZzJBQQ?oc=5"
-      },
-      {
-        "title": "Ostra reakcja na słowa Wołodymyra Zełenskiego. Dmitrij Miedwiediew grozi Ukrainie zamachem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlZpOHk5X2I1cEFxYS1QRUIzaVZHaDQ4cGhkbERod0ZIQklQWGpVMk14TDFQQ0JvU0hYTUdHdUpTN2hZTlJNaTlCWFdBRE5mVXlyRkhQSUI0Umk1aXVZaDFNX3ZoUWdVbHVWOEk1RTcxaThDaVEyanZKamgtdkp6ZVMzd2VCaWVzQnBndDlzaDNvZU9XU19LaTZVSnR5ZW9oV05CZ18xSG5MSERjclUtNzJscC1NYm5tZEExU2NtOVItM1ljWTdFSlppdVVsZw?oc=5"
-      },
-      {
-        "title": "Polityk Konfederacji wyproszony ze studia TOK FM. \"Dziękuję, posiedzę\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUZjMEtxbkNwc01wN19uWXZENks0YkdGNVQxa0xwZWZybUwyaXZ6WHI3ZjlNaWtvYzJGamhST1FzSUlVN1FGNmRpQ3lKeUxTT09RM3lNQl84LWVJUnpVYlIxX0VOa1JmZ3NpUDR0QlhRSklvYXVIbk12NG91alJxWGM5RXdqSjg4djJ3N3d4NTdScUdMY2ZsMFNHZktmeWU1eXN4V0x1d2VjX0HSAaoBQVVfeXFMTThMY1JJRzVTRmJ5Yks2TzhNdlNLcUdMbVlQS2lhcHNtRXdRWU5Dc0pNbHJXLUpnOWVINXVyUzgwUkN5WU0wcXZkUmhraEN4QjVrZUpDUVVMRzdLQzhQMW1SdHZqUlg0XzBYZzJrdC0wQmlNbENkZGZWVTRhcjd2aWNZdDJwVzlsUmVBRDdoS2VDaTRRNTVBSDN5UXhCQjMzRzhYWm53QkhZLWc?oc=5"
-      },
-      {
-        "title": "Premier Tusk: prezydent potrafił obchodzić Konstytucję jeszcze lepiej niż jej święto - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmNXUEpteUZnYUVEcjRhME5fNVBFZWlWN3N3NFh4MGFhVjUtMnlnVWxLNUdVcGR5T18yZFhzYlp6Q1hqZ2N4dlZVcE9wZ2NWSXRuLUpqREpKWjlVbUVRTWJYYWtxV2xpUVViRWVxam81VHN6S05nNXVKM0RsSVYycFE0WXhFbTBIZlFudHUzdWF0SU5HMV9KeFBEMUtPa3FDWk9TeXl1eGFfbGlCMkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-04 07:13:15",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zmiana na czele nowego sondażu. Na jakie partie zagłosowaliby Polacy? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEUyd2xqLTAyMWtrZE1YNW1OWjhBT0pic3lTZ3VsLUsydW9sQnJFWHBnVkd3TTBlQjkxM29PZ2dFOGVkWDhYZW1rbENCS3NZd19vRTk1YmFFeFdVb1RRWUNNWi1TU0tpOWUzMmJVclVDei1yeWhIMFFacFROSG14OVBjUEdaVU55X2VGUlFVbWw2NU0xUG8ycUxVZ2lTTXZ3TFNzaw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-06 12:14:48",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7789,
+      "EUR": 4.2806,
+      "GBP": 5.0319,
+      "CHF": 4.5855,
+      "JPY": 0.026401,
+      "AUD": 2.4383,
+      "CAD": 2.7346,
+      "CNY": 0.5236
+    },
+    "crypto": {
+      "BITCOIN": 356348,
+      "DOGECOIN": 0.631667,
+      "ETHEREUM": 6793.63,
+      "LITECOIN": 310.08,
+      "RIPPLE": 7.96
+    },
+    "indices": {
+      "^WIG20": 2685.35,
+      "^WIG30": 3465.83,
+      "^WIG": 3465.83,
+      "^NCINDEX": 244.19
+    },
+    "news": [
+      {
+        "title": "Ile mieszkań ma Karol Nawrocki? Oto jego oświadczenie majątkowe - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzVBUlQxclpKS2VVWDhCQ0duZTJSZFpFUW5sVWZ3UXBYR0VCaVVlQmFWdkZSX0ZZbG5haDZ2dzZvZk1OVi1mQ3hLeE1ZQkxma182T1ZjZ0VFMXJoVXRaYksyYmJueFlfTEVPSmM2N3JVU3hVWTJMS1dzOERIa1plX2g0aE5kRzVIQW95aXRtUGNfS3BKV0tIUHlNZw?oc=5"
+      },
+      {
+        "title": "Niespodzianka w parlamencie Niemiec. Nowy kanclerz nie został wybrany - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkd1V0hrRnIzT09Rcm9rR0lqV1p2dVRDa2QwU1BuNXl6OWJDbjNScENfZXJpT29MMHpQY29GSC1CUXA2S2NKZU9GOU5Nb0xWd1g1eW1ka0hRNjFGUWkwcjFWWXltWjBMNFFxbUI4bjRkTWxQeTNMLTNuazNNNE5vTmdEbnYxOVJaTm5JUGZvSkd6cGU3b2c?oc=5"
+      },
+      {
+        "title": "Papieża poznamy juz po jednym dniu konklawe? Duchowny wskazuje na jasny podział na frakcje - Niezależna",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkNZdzNBNlBGQlI3T3JEM2lzcGUtS290Y29Fck1DYUQ4c1hwdWtncDd4R1pnWTFiUzRYWS01MEtCU093MVdHRUo2NzdyM01pMmJjVmlXX2lrMGotOVZnMkh0bmI1dlFFR0lFRm5iaUwyWTMtY3BWUi1ING1QcG9aN0lIdE8tbV9RMkVmNGlyX184T0o2c3lkVmllTDBJblMtR0lBNTRnUXFUejZ3bGlaRVU0bG9XN0NGb0hJYjNVbkd4QQ?oc=5"
+      },
+      {
+        "title": "Matura 2025. Matematyka. Tu znajdziesz arkusz CKE i odpowiedzi ekspertów - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSi12RzVSby1JWWFHVVpSOGtUWktDZ3JJZml2NzZMQ3EyY0Z3LW5QRUlVdTdxaFpkbkZnT1dXbGZXelp2c1ktZGRIOU5ieFpSQU92Ty1Eakszb1lYSEVxaVdjM2p6NURFNUR4U3RwSHBRTGpxUTJMWTVveU9NQzVjb0ZNa2R1d2hOTDdZNjBZa25hYzYxQ2xKRHNGcVZ6ejR0RUtRZjRrNTdMc0pZdGxnSkFDRzBZT0Vzd185dzF4REU?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny. Duży spadek Prawa i Sprawiedliwości - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDRnSEJ4dzFRUmIxb3FRZnhWMHV2LS02enFrYUg1M3dXU3Uzd1BqenZGeU1KcFdXbzFlLTVGSnZzTnlzSU1IZGdGVEg0dXdfMVh3MmhPUjRwREdnNVZfS1l6VmZDOVJ6Wm1iWm5JaDZsUF9vekduYkQyLUVBX3g4Y2ZPRU9HQlRuMU9peGRFY1cxTG4zRjZrOXU2VXIxWGxfQUxz?oc=5"
       }
     ]
   }
