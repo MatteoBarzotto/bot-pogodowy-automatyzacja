@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-05 18:17:58",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7752,
-      "EUR": 4.276,
-      "GBP": 5.0144,
-      "CHF": 4.5764,
-      "JPY": 0.026207,
-      "AUD": 2.4455,
-      "CAD": 2.7338,
-      "CNY": 0.5187
-    },
-    "crypto": {
-      "BITCOIN": 354795,
-      "DOGECOIN": 0.639761,
-      "ETHEREUM": 6811.59,
-      "LITECOIN": 324.21,
-      "RIPPLE": 8.01
-    },
-    "indices": {
-      "^WIG20": 2784.03,
-      "^WIG30": 3584.7,
-      "^WIG": 3584.7,
-      "^NCINDEX": 244.22
-    },
-    "news": [
-      {
-        "title": "Matura 2025. Polski, poziom podstawowy [ARKUSZE CKE] - Gazeta Prawna",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0pPMkpsYzR0WEFMUVVCWU96QzZibW5vWnpwam15WVZ0b0IzZFJSb3RLaXl3RlJuU3BhbUpwYTBXYWt2bUdvYnZQUWZqWFVCUGU0QUZ5cE00UXFwSU00UWlPQ1AzekljMU9BS0hMQTVXdXNReUdEaFF5aG1KSGZ0TUpqZTZWSGNKT3BYellRQldNTDNFb0ZzaDRpWkJtcnE5Z1VFNHRlOVFXMGJBdzJXLQ?oc=5"
-      },
-      {
-        "title": "Donald Tusk komentuje doniesienia Onetu w sprawie mieszkania Nawrockiego. \"Ta afera brzydko pachnie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFpWZ3VQT3RrNTdsYUt0Zm53WTViZW5CZE1tMHV5aGZHU3pFZ2hVa016NS14cVl2ZHZXa2hpcTZJSENfZjFhRXBQcUl3MTdFNGd4RGh0Y1R1VktWZkNtRFB3bjZGSzlOY3NvLXEzSi1GMVEzLVg0d2tjSGJXTXZBMlZPWXdoNEpDUzlfSXZMQnJpZlBJV3REMnRWeldIcW5UZlJFX08yRFJCX3UwZ3YyLXowcHpGR0FFb0tEb3BGWUxTbGY4Ti1tZS1WRFNXNmRwUXQ1NDhkNTdEdw?oc=5"
-      },
-      {
-        "title": "Morderstwo 16-letniej Mai z Mławy. 17‑latek odmówił ekstradycji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUy1ZWUV5RVJQeUVRVUtZRE5lR1V6TkphTVppMTRQdkhVRUJSUzA1OTctcVdhTlI4TVNlRHZjVWE5eWFUbHllZEpxaHFBNDNfNVRrZ0RXTF9Edkx2cHBnRk9YUEc1SjdodjNkaDgtZkJSeFB2U19SN0pwVU1qNS1fVkF6cnNsM3BxUDNnaEpHYXZLNVpVamZ4c0ZCdDNUc0dOYW9WVjIzQQ?oc=5"
-      },
-      {
-        "title": "Dzień Wyzwolenia Holandii. Incydent na uroczystości z udziałem premiera Tuska [AKTUALIZACJA] - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXFKMWpmLW95NGNnVHdCMVVRNU1pVXVoMkRUSnFvTmM3VmhSWVBpV3cxRmNIVm1qeVBZTnZxd21NSmU4VVlIZnVKeTZSRlJaWUFrdkNUX0Nvam1rQ0dReW52czl4VE92Qmo0X3VSbkF4akNRdVp3RHhzcWRLU05SdkZERWs1M0hYaGc0N2p1M01ha18zUDVPRlQxNkZtM3Q4cVE2NS1odDV2NEE?oc=5"
-      },
-      {
-        "title": "Rozbił się bus przewożący osoby z niepełnosprawnościami. Są ranni - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFhXZ2xWZVYxYm04aTlqU1Ztc0lsQnJnMC1VbHlFMnY4UkljU21LSFVieW9MeHFTbVgtTFpKMTUtbmpLTC14QTVpeEwxbkQ4RDJSRHVPNS1jdzZENkoxUlFBYjZMVE4weXlYLUhKUGZjdnFBRFVJMnNDV2NJM3VSR2NaZXg2RUxLN0N0UzZweXVhMXBUSXJpNUxRTjU1WVZqSXpkZW9Tem1fV01raGdQQ3BJanVrcmpT0gG8AUFVX3lxTE1laFd6bEJab2stVExFUUVOUVJVbHdpbVJ6R0VtNUhWaDJ5MkpXVWNsUjVBZzVKa1VFaEw0eXo1YjBtTDliQ0UtMmdvS1pKTUl0Y0dYeTFTVUE5aVNsVTBXamNoMm1OWWJhbUhyV0VWWmtXN19BZWp2ZzVpNm40R05sSWl3M1VNNDhfbzNkR3JTSUxudU01MUkydi1fMTN1WXgxYzU5MzhreHZyUXF0VERSb2tGY3pYYlVkeUdr?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-05 19:12:27",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Cisza, łzy i sprzeciw wobec zła. Kraków pożegnał dr. Tomasza Soleckiego - Fakt",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTNYTzFzOFdlenZDZ1dKS00wWVFxTVgxU3Z6V2Z3UmZzSlJ2c2JLUDNKbnFOSDBHNG1uV2lPTFJsUlh5c29yWjJ1VUk4eENvczVxd1JDMnRUVkM1NnpIWWtuQ3lsWDVMTjhiVk1sNTRJQjNJMVBXUmJMQzJxVURuRldUR0pwcnczcG1Kb0pXZ1JYQ1hWaXlIWU4zd09ZaW41SlNPOFdraTdIWjRCaEktRVpWaEpOeWdsamJYa0FiRXNmTC1ISUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-08 00:13:18",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.7642,
+      "EUR": 4.2757,
+      "GBP": 5.0205,
+      "CHF": 4.5595,
+      "JPY": 0.026266,
+      "AUD": 2.4364,
+      "CAD": 2.7293,
+      "CNY": 0.5209
+    },
+    "crypto": {
+      "BITCOIN": 367880,
+      "DOGECOIN": 0.650532,
+      "ETHEREUM": 6851.98,
+      "LITECOIN": 336.4,
+      "RIPPLE": 8.06
+    },
+    "indices": {
+      "^WIG20": 2748.53,
+      "^WIG30": 3550.37,
+      "^WIG": 3550.37,
+      "^NCINDEX": 245.81
+    },
+    "news": [
+      {
+        "title": "Makabryczna zbrodnia na Uniwersytecie Warszawskim. \"Sprawca to nasz student\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelJQUUItRzBWU2VWak5UQUxHNHItRmRJS085Y1VxVHhuRUpDT3IxVkZ5QTljdlhrUTlGWVg4QkpqU1BNaHVGNzFRQkMwNHZUUWpXWGI4RTB1NXAyQnpPVzh3NWFOMkJXZlktM1lITk15VHdXS1EzdWFfWmhFeGp5TWs1SjJJT0lpN0dXVS1jXzRpdDdyZ2w4dkpwdTVuajV6a2pVWnE3dnBVdDlqc2c?oc=5"
+      },
+      {
+        "title": "W Watykanie rozpoczęło się konklawe. Pierwsze decyzje jeszcze dzisiaj - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWd3bkp0WHlOaHNvU2Y0dFZhM0hTTF9JbjVwX2FQWXJTeVYzY0M3ZWpTTlFIY3Y4TFY4ci1aWC1hZExVUE1INms5VjVESmFKNU9JanlHZHFfMXYtQ0ViUE5OMEE2Z2d3Rm54TEFKVHZvd1gwekxQNHlwcW1RNU9Jc09yN2FISWp5Vk5WMzUzSXVuSldJcUIxeFFaUXVjNUtTbmdLcjJ3OFh3UGE1YnVzRkRJdDVSdTZIVEE?oc=5"
+      },
+      {
+        "title": "Sztab PiS nie chce, by Karol Nawrocki stawiał się na wezwanie Szymona Hołowni. Znamy kulisy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSENFWVFHaldremNfRnNrSXFHblFYRjRsZEs1aENLMV81VzF5UzBvVzgwcF9xNGlzNEZ3c1dEVlRvdHM4cUZFRW5MWGF6Q2ZEcWp3ZWMycXo1Vm53YU9TRzRSSkhjUHp0YS1xazRxTGMzRVdDZlFhOEFMb0pZV0psT0RLV2JqYmwyVHkwVHpLS2V3Ukw5bUs4NllpaFllU05EY2tiZHJTR2dJb2M5dkhGclcyd181ekFnMTlYdTBfSXNzeE1CMURRTVFxRk8?oc=5"
+      },
+      {
+        "title": "Merz spotkał się z Tuskiem. Są już uzgodnienia. \"Wystarczyło nam pięć minut\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmhPUjB2aWRwMnpZV3RLRHRIbUNOeE9pNTMxQndfdXNCS2cwZzRJVkoxWUZFYS12ZlV5Z3ItYjJTeG1FSERLVjZUTkZZNm03UWJKZXRPaFNrUV81c3dTZWdudGVnWkk5NlU4WmY2WXFYQlBTTzJWanRQZ1VYNVFsYk44azdjUGRvWW04Z1ZDTlp2bE5FNDhqQ0dtVDZpMmR4NUlPYUstQ3RPSWlSODh2TUQ0T1hiSUNJVVNHR0NGNVBkMEFlb3c?oc=5"
+      },
+      {
+        "title": "Straszne odkrycie w Warszawie. Na terenie uniwersytetu znaleziono głowę kobiety - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXMxbGdDaVpnT0s3Skk1SThnbnhJaEFnd19hZ09pclNMZ0Ezd0JxNTlJMHlMQnFyNVJ0cGE3WHJWUzg4NHZPai0xbWxfb0Z6MHZsNVBkQjhXaUR6OEVRcWdvczlYNFB5T1BFZG82YUoyOGthdk00UGYtR1cxYy03NmFvNXIxcUloY0VuMnpPcEFhTWtTeGQ5MGhCSUllRkxCVXhlUG1TWmhtdUlxOHc?oc=5"
       }
     ]
   }
