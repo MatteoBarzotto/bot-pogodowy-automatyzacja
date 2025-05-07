@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-05 10:19:38",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.7722,
-      "EUR": 4.275,
-      "GBP": 5.0141,
-      "CHF": 4.5654,
-      "JPY": 0.026044,
-      "AUD": 2.422,
-      "CAD": 2.7276,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 357385,
-      "DOGECOIN": 0.65513,
-      "ETHEREUM": 6889.53,
-      "LITECOIN": 335.77,
-      "RIPPLE": 8.23
-    },
-    "indices": {
-      "^WIG20": 2811.07,
-      "^WIG30": 3615.92,
-      "^WIG": 3615.92,
-      "^NCINDEX": 243.44
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki przejął mieszkanie 80-latka w zamian za opiekę. Dziennikarze odnaleźli mężczyznę... w DPS-ie - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3A1VVNiLVp5QnZTUjVtTzNXTkEtdkhDeV9VT2ZkWW5iLVNGd2hIV3JLR3ZFVlgxSU5CQm1VZms1WDNJaklicWNxQzg2c0p1eHJyRGlBbWFZd2xGRjgxU1dOWE1FYXFNUnVheFd6WW50N2Zzd1RuVERGSmpid1FoaEtrWHVvc0JRanp3bktycFVOMGh0MkNzRjBXUVVXVnd3dFhLRnMzNGdtYVpfUFotNlFIT2ozcXhTUFpVcnF1dE14a0pQN1FHM2c0Ti1pRDRwcFUwWlN5d9IB1gFBVV95cUxPd2ZaeXpJQnktY0czSWRFVUFIZWlwbmhWbzF6MGRVOENmZlpPd3lZQzdaSU9PYzd2MmhPaUVXZzNOanZLTlZsNVBoRURRN1dtMXU3ZmxiR3JPMlFmUXZWcFpLV01EVzZVcEgzdGVPUXVHMkxvTlJIOXdmMG9sWFVhSlV3YnRjbENqZlhOdzlDcGlWNXpzd2RyVVR4MnV4bUxDOE9yU3p1SGdYbXV4T0d4c1dLRmFRZlNGdlk1X21EMFhKaUU3a3YwVnNobFJkSHNNam5NNXRB?oc=5"
-      },
-      {
-        "title": "Matura 2025. Pierwszy dzień egzaminów. Nowe zasady - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODNGNUlrZi1oSTY2d18tOXRrUmlJYm1iQTlULTFvelY0QnkwbmZvTzZrVmptb2JxaTl6aDVSUnc1WjJLdWJmYVI2Y3lyV3YyZEk0YVE1ZUJ0d0Z4bktFUFd6NzNLYUkzY05WbUFUYzlJR2h3dHl6Q3V4V3p5VENUQ0V4QTlpSHN3al9yWEg0WUE5cGlKTVhieUdBTXU?oc=5"
-      },
-      {
-        "title": "Jak Karol Nawrocki wybielał biografię posła PiS. Tajemnicze luki w życiorysie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGVral9OMVdGZFNhWV95cXB1NTJDeXMwbmdwRHRNNHhZQ3h6c2NRdDJfYlM5WG1rclB0TjRKeEVQQ1VlWjlHNFlESDhrbjJZMWN5UTNud040RktBSWhQMmFLNS1xcmF0WjZHQTBIR3FFVDlwc1dlZDlFc0h2emJqbGs1Mk4xeFlMMF8tUVdDWEZJQ3ctVkxaU2k4dWRtWnVWbEREUmhkRmJXVG9kQmF1c2N6a2tvZHJiVjlKT2JRei1QYkNxbjlFOVpqRDlrS3hLRGk1Yg?oc=5"
-      },
-      {
-        "title": "Tragiczne wydarzenia w Koziegłowach. Nie żyje 51-latka - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdk43NW12RlpRQUcxcjBSRm1xcE02Wk5YTWVSM0l3czk3ZE1zMW9DYlQtNUdpV1ZPNFJfbUpfeFFoVEpBR1VuSVN4ZjF3Q0pOQkhSZkI3T055b1FjRV9rSlZISEM2Y0kwMk9rbVRoYUVBMVpPMWhoYlRFZzlTbkRZYnlXZ2NSZ3JhN0N2bEVkRkNnQ1AxbVJQbDJEODI?oc=5"
-      },
-      {
-        "title": "Spotkanie z Trumpem pomoże Nawrockiemu? Ekspert wskazuje na dwie ważne rzeczy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVpzcVlYT2xFUFphNlRkTm8zbUl4cmg5cGRyc054bFBueEQyNGpxT0pkVnd0VUhlZlZ5RWRGM1dqRWQwbzZWX3c1bHAxZWM2UDAxc05scUZOSzI1dVREeGVSTnVyXzY5ZkprM1dBa1FSWk1RdllLM1FqSmwyTzdQOTk0enBpYXV6ZEhjSElpQldKMUVHUktnSnpiUlg3S19mcmJONw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-05 11:15:01",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Dziś kolejny egzamin. Tę opcję wybrało 97,8 proc. maturzystów - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXlmcnV5elpEZ0xHQTAxVzV0QndlQlR3YUVhZ182VUl2RFM4dWl5QjU2N0pGS0F1WkxVUTZqYXNhckVWZnVKNEkzLVhVbkJ5bG1EbWVlUXBnSVJIV2lmaEsyTkhZUVVHdE54Umg2Z184MUl2U09jcGlWa1dDUjhZMGV5NE5TM0NSNUJHbWc0NEN6cDJIQUxpNWFWeGxLZDNaa1NCWF9CeWlXT092?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-07 16:14:11",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7642,
+      "EUR": 4.2757,
+      "GBP": 5.0205,
+      "CHF": 4.5595,
+      "JPY": 0.026266,
+      "AUD": 2.4364,
+      "CAD": 2.7293,
+      "CNY": 0.5209
+    },
+    "crypto": {
+      "BITCOIN": 365704,
+      "DOGECOIN": 0.649083,
+      "ETHEREUM": 6885.22,
+      "LITECOIN": 340.26,
+      "RIPPLE": 8.05
+    },
+    "indices": {
+      "^WIG20": 2746.43,
+      "^WIG30": 3547.6,
+      "^WIG": 3547.6,
+      "^NCINDEX": 245.1
+    },
+    "news": [
+      {
+        "title": "Wreszcie jest. Przełomowa decyzja Rady Polityki Pieniężnej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnlteVQ3d3dzdE9kc1A1eGFmTjlxckhybldCYUZQbFo2T2lWMk96Qkg4WU9IOFlFRmxLc2NfWkpqeURhQktFbFlrN25UWWRuRDRnQmNpUGpmUmFHT3hiamp3Z1BTZVZkVGFxcXNDYlBrVVhoWXY5Zzc5Sm9FTXhUVFBVZFdZX1I2eEdDcnNEVWRuUGhZbWFuSHozQjRQaG9USnptOVhtdVhXOFU?oc=5"
+      },
+      {
+        "title": "Hołownia o Nawrockim i mieszkaniu w Gdańsku: W ważnych sprawach też będzie tak kluczył? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaGhlbkx0VUV2dk5MdU9hVUVmd1l3cHV6N3VNQmR5Ull1UTdpMzJCT2FQaGlkSlZadFp1elJ0VXRLQzlUMHc0VUV3M1pLM1pCVnRYTXVJcm1lLUZvMWhUT0o3QmpGb012TGk2ZWpaN183djYwV0ZKb19ULUFabXF4T1p0bGdic3laUTZuVzRKcWYybmEwMEhwT3dnd21sQ2xJWkFianlFZnhQcnRybGgxM1pLcHJOUGF0WVI4N3FhcEEtX2pOTlZR?oc=5"
+      },
+      {
+        "title": "Kardynał z Kenii uderza w Watykan. Mieli wykluczyć go z konklawe - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONS1scVFqc1psYk5wM2FFVTRpRjExeTZ1Umd6cFRzSjZGcFNWaTBrV0tqWFVmYnFOQUJ5bmt1aEEtaFhlYzViOUp1YXpFVjUzUTFjZkxYNUdfdkN6YnY4VkoxWGJmRHVfUmE1MlJ3M1FmY3p5RWx0eEF1Nnp1TWF3dFJNRGM5bGhPRVBLUDZOT2x1ZTVjc3QwbVJIbnktZGhxdlp0X1M1aC1OYTlWMi02RTFNZkQzM291c2hMTWlUNUV2b3ZNX0hEUlAtcTI?oc=5"
+      },
+      {
+        "title": "Ostatnia z serii obowiązkowych matur. Rozpoczął się egzamin - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN19wbzdIQ3lPZUxjY3JmZUVxbGJFRzFFcTJ0akQ4dmIzSnVTaDM5OXo1UklKWEhrQUtVWllfVjlTUWF6Q3RpWFV5a3ZqSEJJV1o3d3JHWFdjalg5ZWR1SHpfdjBFSHZibWd2MjdGekRXNnZhUzF4TDRkWEpfUk55RElRSFdTa1pwOHo1REpYaVg4azFXRzlrSl80eGNqNmdlTW00?oc=5"
+      },
+      {
+        "title": "Kolejna skarga UE na Polskę. Tym razem chodzi o opłaty drogowe - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDFtMlkyZFAzUmNhbkE2Qm5QVEl2YmVwb1NHRUMtLUFvYzN6UloyUnBGUXZMMmI3bEVkaEM2OVdoN3ptdnY3YVNIUXZfVTZ0ZE9jSUp0M0ZMZjFCZmU4UUxsakxNZ21IV0NlemxKbF9Vb3pENEV2Vk5KMXlyR1ZJTjhhTFpNNHNqcDlEZmNzYnFFcFFIaUxpMnMtZDRtRDNFeC1TQTVFOHdhZzJtSnlucg?oc=5"
       }
     ]
   }
