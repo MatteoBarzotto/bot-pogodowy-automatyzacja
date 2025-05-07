@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-05 09:14:15",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.7722,
-      "EUR": 4.275,
-      "GBP": 5.0141,
-      "CHF": 4.5654,
-      "JPY": 0.026044,
-      "AUD": 2.422,
-      "CAD": 2.7276,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 357450,
-      "DOGECOIN": 0.653599,
-      "ETHEREUM": 6866.35,
-      "LITECOIN": 331.17,
-      "RIPPLE": 8.21
-    },
-    "indices": {
-      "^WIG20": 2811.07,
-      "^WIG30": 3615.92,
-      "^WIG": 3615.92,
-      "^NCINDEX": 243.44
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki przejął mieszkanie 80-latka w zamian za opiekę. Dziennikarze odnaleźli mężczyznę... w DPS-ie - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3A1VVNiLVp5QnZTUjVtTzNXTkEtdkhDeV9VT2ZkWW5iLVNGd2hIV3JLR3ZFVlgxSU5CQm1VZms1WDNJaklicWNxQzg2c0p1eHJyRGlBbWFZd2xGRjgxU1dOWE1FYXFNUnVheFd6WW50N2Zzd1RuVERGSmpid1FoaEtrWHVvc0JRanp3bktycFVOMGh0MkNzRjBXUVVXVnd3dFhLRnMzNGdtYVpfUFotNlFIT2ozcXhTUFpVcnF1dE14a0pQN1FHM2c0Ti1pRDRwcFUwWlN5d9IB1gFBVV95cUxPd2ZaeXpJQnktY0czSWRFVUFIZWlwbmhWbzF6MGRVOENmZlpPd3lZQzdaSU9PYzd2MmhPaUVXZzNOanZLTlZsNVBoRURRN1dtMXU3ZmxiR3JPMlFmUXZWcFpLV01EVzZVcEgzdGVPUXVHMkxvTlJIOXdmMG9sWFVhSlV3YnRjbENqZlhOdzlDcGlWNXpzd2RyVVR4MnV4bUxDOE9yU3p1SGdYbXV4T0d4c1dLRmFRZlNGdlk1X21EMFhKaUU3a3YwVnNobFJkSHNNam5NNXRB?oc=5"
-      },
-      {
-        "title": "Matura 2025. Pierwszy dzień egzaminów. Nowe zasady - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODNGNUlrZi1oSTY2d18tOXRrUmlJYm1iQTlULTFvelY0QnkwbmZvTzZrVmptb2JxaTl6aDVSUnc1WjJLdWJmYVI2Y3lyV3YyZEk0YVE1ZUJ0d0Z4bktFUFd6NzNLYUkzY05WbUFUYzlJR2h3dHl6Q3V4V3p5VENUQ0V4QTlpSHN3al9yWEg0WUE5cGlKTVhieUdBTXU?oc=5"
-      },
-      {
-        "title": "Zacięta walka o drugą turę. Są wyniki wyborów prezydenckich w Rumunii - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGxjaWQ2QXd5MUdteDhKOUF3eDNyX2lkNEFKVFBDTERxZnVKaDJ0SHA2SEcxLVIyQy1EdHpodGNFczBIdndxci1YaVlkV2RNVm45XzdIa3RJVXVQMkYxeTZaZ0JiVkFSeWRfdHI3UUhNdXhXSGNod1JyMFNnT3FmcmlXVEswWElyNnllYmxhamtTSlctZUNOTFZDYkphRGNkOWFyME16S0lMNkh3N0ZxMkZkcDBOSUZyeEE?oc=5"
-      },
-      {
-        "title": "Jak Karol Nawrocki wybielał biografię posła PiS. Tajemnicze luki w życiorysie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGVral9OMVdGZFNhWV95cXB1NTJDeXMwbmdwRHRNNHhZQ3h6c2NRdDJfYlM5WG1rclB0TjRKeEVQQ1VlWjlHNFlESDhrbjJZMWN5UTNud040RktBSWhQMmFLNS1xcmF0WjZHQTBIR3FFVDlwc1dlZDlFc0h2emJqbGs1Mk4xeFlMMF8tUVdDWEZJQ3ctVkxaU2k4dWRtWnVWbEREUmhkRmJXVG9kQmF1c2N6a2tvZHJiVjlKT2JRei1QYkNxbjlFOVpqRDlrS3hLRGk1Yg?oc=5"
-      },
-      {
-        "title": "Putin wprost o Ukrainie: Rosja ma wystarczająco sił - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONERMOWRmVUNVaWlWZlA5S0swaWhwUnZPVlhlbW1fMHBfS0ZxZFg4OTlEY2duTWF3UGF6WTZGTDR2OHhkclFHeUF4UHFVVU5RY25pMkw1S3dwbFE2bmpaQ1lKdWdnbC0wLUU3eVFCZlNGaFM1ckctRkd4UmhQZTU3TXlCZHFoMmQzYWZVT00xcXU5Y3JIQUVCQw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-05 10:19:38",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ostatnia z serii obowiązkowych matur. Rozpoczął się egzamin - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN19wbzdIQ3lPZUxjY3JmZUVxbGJFRzFFcTJ0akQ4dmIzSnVTaDM5OXo1UklKWEhrQUtVWllfVjlTUWF6Q3RpWFV5a3ZqSEJJV1o3d3JHWFdjalg5ZWR1SHpfdjBFSHZibWd2MjdGekRXNnZhUzF4TDRkWEpfUk55RElRSFdTa1pwOHo1REpYaVg4azFXRzlrSl80eGNqNmdlTW00?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-07 15:28:09",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7642,
+      "EUR": 4.2757,
+      "GBP": 5.0205,
+      "CHF": 4.5595,
+      "JPY": 0.026266,
+      "AUD": 2.4364,
+      "CAD": 2.7293,
+      "CNY": 0.5209
+    },
+    "crypto": {
+      "BITCOIN": 364075,
+      "DOGECOIN": 0.64689,
+      "ETHEREUM": 6863.46,
+      "LITECOIN": 339.58,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2739.25,
+      "^WIG30": 3537.45,
+      "^WIG": 3537.45,
+      "^NCINDEX": 244.58
+    },
+    "news": [
+      {
+        "title": "Tak Paweł Kukiz komentuje aferę z Karolem Nawrockim. \"Karma wraca\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZZZnV5dmlkaEdIYTB4SnFqZjlINW5feFU2SzlkbUQ3V1EzdUtyUDktWkFKaDNQV2xXNWZlR0dtRGNoQlJwTjY2OHdGNkhHVVhxTVNwMHNmR2xvaGRJUmozZW5ZYkVBVUc2ald1U0dmTk9qanBqX09OLU8xdkpqS1VkM2QweVUzQWpSek1ISjBpaEk3dDZ0alVLWVFEMUhPQmJpRTRHOHg4Wm9uU1JvUg?oc=5"
+      },
+      {
+        "title": "Przełom w sprawie Sebastiana Majtczaka. Jest nowa decyzja sądu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGtzYVp0YzRBMlVnLURwYU10QV9JNXBtWmI5NmRzRml2UTBPdnlLakM2SnRKTG00LUh0Y2ZNR3Nxd2NxSVdNSHhGNGhqd2NjQ0hESjExUUM5dTVpYzk5TW9aLTZKOWoySnBPQm9iblotMnFxWDdjS3BNeVpVUTVsU2dKN3BmZ0NwNktnakNlZE5uYm5SS3JENXVCQ2VlNzlUZ2x1d0h2MGU2dnpDU3pUdA?oc=5"
+      },
+      {
+        "title": "Jakie imię przyjmie nowy papież? Ruszyła fala domysłów - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVyS1M2U3piS0d4Rm01LXdtVXVyN2txOVU0czBEUXQ3OEUwZTdtbDgxTHVTOFowQXlIbC1tcHhDQzhmeVJnajBDNmdwUXVVaUJqcFZUSWlsd1BpMkZsQkVfMFhveHRQTzFoTUNreVFTN2RFVVlOZ3lSUlFOX3JWWnBpZ1NjUmM5OGlCVVF2bzU5akh4M0E?oc=5"
+      },
+      {
+        "title": "Rafał Trzaskowski dostał pytanie o konflikt między Indiami i Pakistanem. Oto, co odpowiedział - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZV9rRDM0MVRvRHJwMW1yT2dpRFBZbUxHbGMwUXRKanpGUGtndGRqTmNTVl91R3RZOG14NGJXWTJNZkVJV3VZVUwwRHBaUUZtcWJPem16aGFWOWJuT25VYnJfM0M2LU1XZFRCckFxcnZQSTRuUWNuby12QkxXcjhTM0p4dnZPRFQ1SXUtZHo1cWxFRG4wRHpVVmVzMEo2eTBmMXhkdDFHT0ktVUVkX0M0OWFUdkhWV0JnNFNWNGpJeHdhdFFzS0t4OFV3?oc=5"
+      },
+      {
+        "title": "Dziś kolejny egzamin. Tę opcję wybrało 97,8 proc. maturzystów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXlmcnV5elpEZ0xHQTAxVzV0QndlQlR3YUVhZ182VUl2RFM4dWl5QjU2N0pGS0F1WkxVUTZqYXNhckVWZnVKNEkzLVhVbkJ5bG1EbWVlUXBnSVJIV2lmaEsyTkhZUVVHdE54Umg2Z184MUl2U09jcGlWa1dDUjhZMGV5NE5TM0NSNUJHbWc0NEN6cDJIQUxpNWFWeGxLZDNaa1NCWF9CeWlXT092?oc=5"
       }
     ]
   }
