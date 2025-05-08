@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-06 12:14:48",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 356348,
-      "DOGECOIN": 0.631667,
-      "ETHEREUM": 6793.63,
-      "LITECOIN": 310.08,
-      "RIPPLE": 7.96
-    },
-    "indices": {
-      "^WIG20": 2685.35,
-      "^WIG30": 3465.83,
-      "^WIG": 3465.83,
-      "^NCINDEX": 244.19
-    },
-    "news": [
-      {
-        "title": "Ile mieszkań ma Karol Nawrocki? Oto jego oświadczenie majątkowe - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzVBUlQxclpKS2VVWDhCQ0duZTJSZFpFUW5sVWZ3UXBYR0VCaVVlQmFWdkZSX0ZZbG5haDZ2dzZvZk1OVi1mQ3hLeE1ZQkxma182T1ZjZ0VFMXJoVXRaYksyYmJueFlfTEVPSmM2N3JVU3hVWTJMS1dzOERIa1plX2g0aE5kRzVIQW95aXRtUGNfS3BKV0tIUHlNZw?oc=5"
-      },
-      {
-        "title": "Niespodzianka w parlamencie Niemiec. Nowy kanclerz nie został wybrany - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkd1V0hrRnIzT09Rcm9rR0lqV1p2dVRDa2QwU1BuNXl6OWJDbjNScENfZXJpT29MMHpQY29GSC1CUXA2S2NKZU9GOU5Nb0xWd1g1eW1ka0hRNjFGUWkwcjFWWXltWjBMNFFxbUI4bjRkTWxQeTNMLTNuazNNNE5vTmdEbnYxOVJaTm5JUGZvSkd6cGU3b2c?oc=5"
-      },
-      {
-        "title": "Papieża poznamy juz po jednym dniu konklawe? Duchowny wskazuje na jasny podział na frakcje - Niezależna",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkNZdzNBNlBGQlI3T3JEM2lzcGUtS290Y29Fck1DYUQ4c1hwdWtncDd4R1pnWTFiUzRYWS01MEtCU093MVdHRUo2NzdyM01pMmJjVmlXX2lrMGotOVZnMkh0bmI1dlFFR0lFRm5iaUwyWTMtY3BWUi1ING1QcG9aN0lIdE8tbV9RMkVmNGlyX184T0o2c3lkVmllTDBJblMtR0lBNTRnUXFUejZ3bGlaRVU0bG9XN0NGb0hJYjNVbkd4QQ?oc=5"
-      },
-      {
-        "title": "Matura 2025. Matematyka. Tu znajdziesz arkusz CKE i odpowiedzi ekspertów - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSi12RzVSby1JWWFHVVpSOGtUWktDZ3JJZml2NzZMQ3EyY0Z3LW5QRUlVdTdxaFpkbkZnT1dXbGZXelp2c1ktZGRIOU5ieFpSQU92Ty1Eakszb1lYSEVxaVdjM2p6NURFNUR4U3RwSHBRTGpxUTJMWTVveU9NQzVjb0ZNa2R1d2hOTDdZNjBZa25hYzYxQ2xKRHNGcVZ6ejR0RUtRZjRrNTdMc0pZdGxnSkFDRzBZT0Vzd185dzF4REU?oc=5"
-      },
-      {
-        "title": "Nowy sondaż partyjny. Duży spadek Prawa i Sprawiedliwości - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDRnSEJ4dzFRUmIxb3FRZnhWMHV2LS02enFrYUg1M3dXU3Uzd1BqenZGeU1KcFdXbzFlLTVGSnZzTnlzSU1IZGdGVEg0dXdfMVh3MmhPUjRwREdnNVZfS1l6VmZDOVJ6Wm1iWm5JaDZsUF9vekduYkQyLUVBX3g4Y2ZPRU9HQlRuMU9peGRFY1cxTG4zRjZrOXU2VXIxWGxfQUxz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-06 13:11:41",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Polska dołączy do mocarnej szóstki. To sygnał dla Putina i Trumpa. \"Nie spodoba się\" - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3lkVXFkaVEwVTVfSDhjUVlTM0FXWnBSSWx4T0tTbk5TcXo5MWJxZV9mTjVyTDBGM3otU3lPNVRCZUYyT1lPanRVMlExcjVvV0FTeUJzdjFZZzljSEFVZG9uZVRNMDlENy0ycmxyckV1Q2xtVk1WWGtESUdJLTRsNTdWM2pGdFN6azNrSVd1djZUMFlTYm8yRTB4X2xJQlFJemIySFVYcG82V0trV0sxUEloOUE2T0hCVUxGZ1gxaDV3TEpmV21TV1dMaThxbXJ0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-08 18:17:37",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 382619,
+      "DOGECOIN": 0.721285,
+      "ETHEREUM": 7787.67,
+      "LITECOIN": 352.38,
+      "RIPPLE": 8.52
+    },
+    "indices": {
+      "^WIG20": 2767.86,
+      "^WIG30": 3577.49,
+      "^WIG": 3577.49,
+      "^NCINDEX": 246.55
+    },
+    "news": [
+      {
+        "title": "Pakistan odpowiada na atak Indii. Setki dronów w powietrzu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODBUcWVtemw0MTQzY19nenZwRkJPc0J3U2FwMEtFTW5LYzZlUUtmMGxOekJKVnI5ZGZRSzVnOERLMzNXV1VIeEEzQnVZbWFVQTZIbUt2OU1TUmhjekpzQkRqYm9NUndla2ktd3J1cjNueVBxSVNSVjNlbjlqV2R5bzJUYzlHeHVzWUZNVUZ5NjJQdktHdjlEYUw0Sk9wOTlhVTBQY0Rfb09QSkVnZl9tMjhnZkdyaV95NEpzYg?oc=5"
+      },
+      {
+        "title": "Zarzuty dla studenta za brutalne zabójstwo i znieważenie zwłok na Uniwersytecie Warszawskim - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjlJYXJnTXA3MzBJY0lnUWtJVmJDdzdjTHh0a2pHMzd5cGhFWGFZLVlKeC1vVUtNX1FFRXFEZU5ERWo3di1CbXpKZ3hpNzJZSzVHRzl0NVhubTlSSWNEMEo4TDBmZWZHR1M4d0pQZkR0dFYxZTlNQkNYZjk2YzVSLUVHM3RBZmEtQjNrUEc3bUc?oc=5"
+      },
+      {
+        "title": "Konklawe 2025. Czarny dym nad Watykanem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUUtWmxPbnVwdlU5WDBMZlhjX0J1cHRTWXdoREJEeS00eWZyc2xpOTVkSmJ0U1hXQWlpODRleXdVb2ZucjF6cjNmdDRaTjdCMkVtckdNaXhCWmswSWZHZVNGQUZ5bmJSYlE5NVdPVXNFdEN6T2prV3lzcHBjR3QzLUcwZ2lxWmx0bklZVkVwTlI5ZEdq?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie. Prezes PiS uderza w służby i zawiadamia OBWE. \"Krążą takie materiały\" - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlJoRFBORzFISWFKSmRwWkU5VUZibF9zZDhGRkk2cDZkT2cxaTN5WEVMWDV3ZUpKbDBLM0drSFJfWVVRMzhfRFY2ank3VmNMNG1WQXNUajdUT0dPSjlRSzNsSzIzU1JDbENydHhXS3BQMWNZWGlJTld6dEtWOXZfXzVtbjdFU2pYUWZoVWFMOFVvc0wzbkdIRWZCN3ljNnMtQ2dLODhabDZlWEowaXlVQUJRSQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk o \"gorzkim smaku zwycięstwa\". Zapowiada dwa traktaty - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWk1REpMTHdnOHM5UkRnU1Bta3luVG5OMDdObWhadHpLTThSVGpicjZ3SXA2bllZd0xXTGZqUm90Tko0ZEY5NThoSEVFVUkzVkJ3UWhna2dBa0VUQ3lPRDMxNmV4R1ZBbks3aW5CRnBkUm1xNGEwUFhsTGJNVWhLMzMwU2wxZ0FNSTFSSU5IeFMyZmhmR0puQXZLRmhwMkxtQ1FwY0wxMHNDdUVITWxMNw?oc=5"
       }
     ]
   }
