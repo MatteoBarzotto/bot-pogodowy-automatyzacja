@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-06 01:12:54",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7752,
-      "EUR": 4.276,
-      "GBP": 5.0144,
-      "CHF": 4.5764,
-      "JPY": 0.026207,
-      "AUD": 2.4455,
-      "CAD": 2.7338,
-      "CNY": 0.5187
-    },
-    "crypto": {
-      "BITCOIN": 358568,
-      "DOGECOIN": 0.647191,
-      "ETHEREUM": 6891.55,
-      "LITECOIN": 316.09,
-      "RIPPLE": 8.09
-    },
-    "indices": {
-      "^WIG20": 2784.03,
-      "^WIG30": 3584.7,
-      "^WIG": 3584.7,
-      "^NCINDEX": 244.22
-    },
-    "news": [
-      {
-        "title": "Sławomir Mentzen uderza w Karola Nawrockiego. Zarzuca mu obchodzenie prawa. \"Kłamał\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONE1JTU5VdVdxUjd5WFlYZ0JFZmJDVnprbTM0SjBGaHRKX1I1eEtRZkVMNWlScVZkUkJtZWI4NFJkYlFjSFpYd3lsUlM0OTgtUWcyNFFtQ3NabENwZkpyRl9sLUdPZ2lyemZoSXhJSUtLVWlZVThINzlkM2NKUUg2VkpXTElxdlBJMXZKWEhsSVBmc1ItNGhZOEE0V1dHdGhjZ2FNR1JxUUllQ2gwSkpFSk95M0tTNFdlQzNseTh2ZldQNXFQUFlvSzRJajZ1ckpK?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-latki w Mławie. Prokuratura przekazała nowe informacje - Radio dla Ciebie",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcm5oOEJYbUp6aWd4ZnpQOTJVQVJoaUZqX01CVjU1dlQ3QTBZeHJKSmJMcmloZjM3MDk1N0JIOTQwenl5SHVicmJ3Yk5hN0FPRFAyNXRsSWVsNVFzUDkyeXBQSnpvd3dyRmNrbjhHNVUxX3F4MkJ2UWlJeERsQXkxcXVaTDE3Q2Jyc3NwRmFCUnBhNXJlbmNQempzOGFtX1hXX09Mai1IakZFZlJwY2ZJYTRYUFJhRFhIcFdtQ1NRMnRMZGM?oc=5"
-      },
-      {
-        "title": "Matura 2025. Polski, poziom podstawowy [ARKUSZE CKE] - Gazeta Prawna",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0pPMkpsYzR0WEFMUVVCWU96QzZibW5vWnpwam15WVZ0b0IzZFJSb3RLaXl3RlJuU3BhbUpwYTBXYWt2bUdvYnZQUWZqWFVCUGU0QUZ5cE00UXFwSU00UWlPQ1AzekljMU9BS0hMQTVXdXNReUdEaFF5aG1KSGZ0TUpqZTZWSGNKT3BYellRQldNTDNFb0ZzaDRpWkJtcnE5Z1VFNHRlOVFXMGJBdzJXLQ?oc=5"
-      },
-      {
-        "title": "Szef \"Solidarności\": czas wykorzystywania pracowników na etatach skończył się - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRW9TNUpPcUpHSWJ5Z1FsRjRkTE0tUm9UOC1MeloycFNxbWN4TjFZcll3dGVsMHNoTG9SUTNMb1V4Z1RCeGJ6Y1RWMkFhUTZjOXg5eE5ybmlkM1VZM09OOUFMVDdqWDBCM2JBQ3BFanlYalc4VFR2Y1dSUEl2ajVOTVJVcG01dk9WWUU0T1pFUjZod3dIblVSOWpHTnJsaHUtUWFjZXRwaGduZ1ZZM0Rr?oc=5"
-      },
-      {
-        "title": "Poważny wypadek na A4. Autokar z pasażerami miał wypaść z drogi - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHB3X2dNRDJtR0pHb2JlNHZ2MjJMbDl2VXd0WlVaTFJjWFBCNGVLZVpsbWtwU1R1S3ZVN0xYNlpsOTZKMl9uS2JTUmxPOHFtc05HOUN4SU9pWEhweldzLVpjQ2dkMHlISDlGckxxb3FYUk5DeE9ZeDEzZVE1ck9SYjRzVkRTNHF0SWdJdWlQSGEzYmtYTlI4dVFDTld2RFBkWVJSMnRvME15blFYSmZWMkRFS2rSAbgBQVVfeXFMUFZoY0xULWpSaFlpbXFfdVA5UWU5bVZJcFRXdldIWjg0YXFmR1BORGQxem9aWGh4elBmQURyMDdKRkJXbzY2UjlZODQxNFFSQjZ0eHRCUEJsbGxhc0R2UkRZQ3VTdVJmQlZLMmJ0Z3QxbXh0OWlRVXRMMEtld1Zoc1h4aXVVTjJURHJNcjBUQXJFNmdTcjkzU0l6OUhoOUJ3alhvZ01CTzhLRmQzQ0lsal80VlBnU3d6LQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-06 03:06:14",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Deportacje Polaków z USA. MSZ podał liczby - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanBwUEdCR0RrUG5TSmhxMTA3X3FyZTF4WGtfUWlSdmljdVRJLUdJTUZ2UW5nX0tnQXlNXzJDazU4d2NSY1RaTU4zNnZrVW9xazVVZ1NKRDlneGpSdGpqRGVJeGRQWUFOT2phdnVtSWpXNGFGenBwQy0wUW0yMjRPVHlyNTgyZDVrNnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-08 09:13:34",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.7642,
+      "EUR": 4.2757,
+      "GBP": 5.0205,
+      "CHF": 4.5595,
+      "JPY": 0.026266,
+      "AUD": 2.4364,
+      "CAD": 2.7293,
+      "CNY": 0.5209
+    },
+    "crypto": {
+      "BITCOIN": 375498,
+      "DOGECOIN": 0.687351,
+      "ETHEREUM": 7240.66,
+      "LITECOIN": 347.32,
+      "RIPPLE": 8.26
+    },
+    "indices": {
+      "^WIG20": 2757.42,
+      "^WIG30": 3563.4,
+      "^WIG": 3563.4,
+      "^NCINDEX": 245.81
+    },
+    "news": [
+      {
+        "title": "Student prawa zabił siekierą kobietę. Wszystko, co wiemy o makabrycznej zbrodni na UW - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEdLTVVGTUVkYzczM0ZlMTJUVEp2ZXUxVzRidkMxUVZjVWx4WFQ5V1VMSEUxdGdldTN1YmNtY09OWnBON0RDZlZXM2ZQVE4yMmFIaFhhMGtLejlQN2J5aEdQam1Pa0Q5Vi0zQW02QWdsb3UydGc0MmpLRU9CaGtFb191dUszUUUyMUhoZVNkdGtvSzRIWmVxZHNwZjk1ZGtmdEIzM01UQjM3WFVieFZ1bGFZeUQ5ZHdieGZ0V2tyQlVyN1FUelZQYw?oc=5"
+      },
+      {
+        "title": "Drugi dzień konklawe. Kiedy zobaczymy dym nad Kaplicą Sykstyńską? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0RXd1Y3VUk0NVpiMFNsanVoU1BvOG03dGVPWHNidGU4cDJvXzY4TDA4eVRCR1pZczJZQWV1SXMwRHQ0NDdqQmJLeTlJekZXVlNxQ2ZNaWw4UjdLWXQ5VVp1S0o1Qk11NFctYXgzSEZtQ3I0ZzJDSWhYQ2JYVHl3blkyVjNNVG5XVnpKLUlWdFNMa0lMQkdCd1d0Ym5iMi1GTEI3Qi1OMWRPZTJlZEtESno0c1lXbDlzekxLaUJYS3BWTnNrZ2c?oc=5"
+      },
+      {
+        "title": "Już 10 maja. Uderzą prawie w całą Polskę. Eksperci alarmują - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjRWeTZhU2NqSXh6ZjFGU1FCcHdDWUlPQ0dQbXRnNDRsN1h6Ty1jNl8zTGdUb2VKLU84VDZKZkVlTC1oQ2dEdWFDZXFxcjBjOUVodER6UDEzT1ZIWmVaRl9Ia2tlRXZla29qd1FmWFlKM0FyX251dkltcUtrcnNaYmlEVUdPU2N1V1M5WGFnZ29COWlZUENaRkduTzdMaWlfa3c?oc=5"
+      },
+      {
+        "title": "Deportacje Polaków z USA. MSZ podał liczby - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanBwUEdCR0RrUG5TSmhxMTA3X3FyZTF4WGtfUWlSdmljdVRJLUdJTUZ2UW5nX0tnQXlNXzJDazU4d2NSY1RaTU4zNnZrVW9xazVVZ1NKRDlneGpSdGpqRGVJeGRQWUFOT2phdnVtSWpXNGFGenBwQy0wUW0yMjRPVHlyNTgyZDVrNnc?oc=5"
+      },
+      {
+        "title": "Sztab PiS nie chce, by Karol Nawrocki stawiał się na wezwanie Szymona Hołowni. Znamy kulisy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSENFWVFHaldremNfRnNrSXFHblFYRjRsZEs1aENLMV81VzF5UzBvVzgwcF9xNGlzNEZ3c1dEVlRvdHM4cUZFRW5MWGF6Q2ZEcWp3ZWMycXo1Vm53YU9TRzRSSkhjUHp0YS1xazRxTGMzRVdDZlFhOEFMb0pZV0psT0RLV2JqYmwyVHkwVHpLS2V3Ukw5bUs4NllpaFllU05EY2tiZHJTR2dJb2M5dkhGclcyd181ekFnMTlYdTBfSXNzeE1CMURRTVFxRk8?oc=5"
       }
     ]
   }
