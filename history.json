@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-06 08:19:47",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.7752,
-      "EUR": 4.276,
-      "GBP": 5.0144,
-      "CHF": 4.5764,
-      "JPY": 0.026207,
-      "AUD": 2.4455,
-      "CAD": 2.7338,
-      "CNY": 0.5187
-    },
-    "crypto": {
-      "BITCOIN": 356093,
-      "DOGECOIN": 0.638109,
-      "ETHEREUM": 6799.49,
-      "LITECOIN": 310.84,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 2784.03,
-      "^WIG30": 3584.7,
-      "^WIG": 3584.7,
-      "^NCINDEX": 244.22
-    },
-    "news": [
-      {
-        "title": "Echa afery mieszkaniowej Karola Nawrockiego. Wypadek autokaru na A4. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkc0aFRCUzZONER4UVplOGo5QUNSMlhhZ1ZOM1JfYWNHaFNGVzBPSnRySW9nSmxna2Ztd2RSSV8zYkxwYzBWODhpMGp1NnRQV0U3Sm5yd0ZmcGp1X2J1TzNyOXVIdkgtZE5LSjBFX2ZqRTVlWm54SWtReUJMU0F0aU9qZFFOTXhPZGZDVjA1MlllU2M1WDlQOUxMWDF1WlFScTB6V1d0UTlrWFRPa1d6ajctYVY?oc=5"
-      },
-      {
-        "title": "KO znów liderem. Triumf w PiS nie trwał długo. Najnowszy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUV3LUFCLXVScktwZWZNeDYtTVNtOEpZSzBjdUMwOE5fZVBTSzdRam1JM2xDbGRJWWEwSGFiM0lXWDRsM2o4dkp2R081QjFLcWNxb19TZTlObFVoN0tmS0MyLU45YUhSa3Jib19XMnFxZDg1bWU2dTF5TDBGMTE0YUVrVk5tNVZXWjc4Qmo5N3dzSVNVeXNCa0YyUEhLSVJOVlhMUzN1OA?oc=5"
-      },
-      {
-        "title": "Autokar z żołnierzami USA wypadł z drogi. Nowe ustalenia ws. wypadku na A4 - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWhDLURKQXNQeHdmMlRQWXlnS0FrTDlIaTRqVUpFbmF3dnVTdnNjbTQxWFJ6YmJOd1Q1ZnRQeV9Vak1Pbjd5a19GOXNVbjhlbTVFd0hSS05ZSllWVG1xRW5HbUR4QzlMcEtJUjNpc0JpOVUwd0NObnk3N2htaFZaS0VJUjV4Q0RjdUZ2aFBheEg5bTNIdl9zZTAxdmh4ZzFJMXlBZEo0ako2MFRpR0tsYlQzcG7SAbgBQVVfeXFMTk04WDA0NlZMMWVJMFlrTW1RNFZXRi0tbVd0SHZYOWJmYUlqU1BuVEZjcmNmRWwyWTF2dWFvYkEzZU5kZWpZMVdPZkZHN045VmtnOU4tczVqcnYwZEVCQk1QbkJmdUlmUFJkZWtIU0dSWUxobWhyVFJQaVV5X0lUeWhxb1VTb1dMTUNzdHlTX1dXeExMNkdYNkQ2YUFUVUcydXZBanBQanJhZlplV3ItaUxsNE1GRkhyeQ?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-latki w Mławie. Prokuratura przekazała nowe informacje - Radio dla Ciebie",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcm5oOEJYbUp6aWd4ZnpQOTJVQVJoaUZqX01CVjU1dlQ3QTBZeHJKSmJMcmloZjM3MDk1N0JIOTQwenl5SHVicmJ3Yk5hN0FPRFAyNXRsSWVsNVFzUDkyeXBQSnpvd3dyRmNrbjhHNVUxX3F4MkJ2UWlJeERsQXkxcXVaTDE3Q2Jyc3NwRmFCUnBhNXJlbmNQempzOGFtX1hXX09Mai1IakZFZlJwY2ZJYTRYUFJhRFhIcFdtQ1NRMnRMZGM?oc=5"
-      },
-      {
-        "title": "Przygotowania do konklawe w kluczowej fazie. Wojsko rozstawiło sprzęt - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTG8wdkZhTEhSRExBNWxGTVRGMlJwRno5d2xFRW5PbGFKcFhibjB0Q3NjOUQ4cTZlc3I2Qlgwal9JOUEzZC1VNEJITzNBd3F3M18zTkNQREE2eVlhbkF5aW12SUZLR1ptYVZKaUFhLXpJNnJHdThaSHc5X05qYjFqT18zZTVfckx1ekd2UndNVXNfTWNOTkUzaWFDNUJCdU5qaUlNRzhqa3VmN0ZFLWJaaTRB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-06 09:13:46",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Merz stanowczo o reparacjach Niemiec dla Polski - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sX2RYNnBsTXNqMVB5c1pKWlBvUnhLTFhtVWNHV3N6eWJjd2hCRk8xeWpkd2NCSlJnZFFfRTBpaHN1X3NZNDdnRVNzMlNfbll2aEtLaTFaNl9NNE9iLTk2RkZyTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-08 14:27:12",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 375892,
+      "DOGECOIN": 0.695251,
+      "ETHEREUM": 7422.59,
+      "LITECOIN": 347.17,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 2780.32,
+      "^WIG30": 3591.76,
+      "^WIG": 3591.76,
+      "^NCINDEX": 245.05
+    },
+    "news": [
+      {
+        "title": "Donald Tusk uderza w prezesa PiS. \"O wszystkim wiedziałeś, Jarosławie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFRLM0Z0V1JHRlZxR1dadUU4R0FPd3ZZYnpPLVdkc0dOZ19FcEFQTFZuZzlfTEs4TTFUYVplU3ZkWlMyNVVCR3g2aExqdVlLcy1WUGdzSXVlSzM5Y3liZUM0X2QxYTltUnNTZGFwZE1nUlhRcERiVHVfTGs0TTFMaktORVNvMFladnEtSEhtbjVsSjl6NjM5ajN3MVVqOHQ5VXlqWVFHb0lIVHBhZllVZi1PRVdfb3RtSWV4bnBWNzdIVGdzZGM1VQ?oc=5"
+      },
+      {
+        "title": "Konklawe 2025. Czarny dym nad Watykanem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUUtWmxPbnVwdlU5WDBMZlhjX0J1cHRTWXdoREJEeS00eWZyc2xpOTVkSmJ0U1hXQWlpODRleXdVb2ZucjF6cjNmdDRaTjdCMkVtckdNaXhCWmswSWZHZVNGQUZ5bmJSYlE5NVdPVXNFdEN6T2prV3lzcHBjR3QzLUcwZ2lxWmx0bklZVkVwTlI5ZEdq?oc=5"
+      },
+      {
+        "title": "Rektor Uniwersytetu Warszawskiego o zabójstwie na uczelni. Mówił m.in. o sprawcy - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVBwelBlWnVHdkY0MHd1VHlKWmFyVjNnME1xdHcxYnlTZ0YtUjMzZUxUQy1qVThFNjE3WEZ6MUVUSEZPUmVZNXBzaUx3cG1fcUV3RDhYYnByMXA0SGpwREdpZU5GS3IzdkI4dVM3SmxYZDhqRldwc2l2M1ZPZDc2WENLVEtCY2hLTWRNM0RKQVBncXV4MWE3bHNsSEF5Skp3TFZ0WDVOMXJ2Vlh1TlZtd1NkRUVPemVCdHRFWWtNQWRkNGhJY3dz?oc=5"
+      },
+      {
+        "title": "Reparacje wojenne od Niemiec. Szymon Hołownia ma pomysł - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUs4ek5oRktCdkVid2lDaFNoMU5nSWhwZ2k1XzJQc2xIeEREREtGR2x1WkRzb3BnZ2x5TDFEdWY2YUtEWFJ3MzFOWmJja1ZZTjJfcjd5aFVXSnRjOWMzQmNhREtsSnYyekpBNk5xcHFqWFY3OWttU2FYNndnT0x4WENsd1RWR0dfSnp4ZXlIRWlTRHFHbFE3WEZ1YmRCRE5nbUpzX2ROOA?oc=5"
+      },
+      {
+        "title": "Donald Tusk: w naszych polskich ustach to słowo \"zwycięstwo\" ma gorzki smak - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmp0MlBnYTQ3eDhyeTZRdXBtM0VfYVZla25WVmV0c296X3RjaGJhSm53Q1pRWWxHRVZfMnJ3TjZZSXhGVFp0UEh5S3h0SThmWlJPOFpuVjJEMVZFbFJWWElGZkkzQmI0SG5BeFhfeHo3a09kZlRiWG4wR1AycXVGUnB6a3Vxb1YxX1V6TTNORmEwX1FUeV9PWlloZHlxeUhCVUFJcFJuaG1RbGdWS19GdHNJTUtROGxnQjFPZzk0a0Y1OWlOanRUbTNLS3ctVFhC?oc=5"
       }
     ]
   }
