@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 19:12:31",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7642,
-      "EUR": 4.2757,
-      "GBP": 5.0205,
-      "CHF": 4.5595,
-      "JPY": 0.026266,
-      "AUD": 2.4364,
-      "CAD": 2.7293,
-      "CNY": 0.5209
-    },
-    "crypto": {
-      "BITCOIN": 364115,
-      "DOGECOIN": 0.643102,
-      "ETHEREUM": 6805.98,
-      "LITECOIN": 330.26,
-      "RIPPLE": 7.98
-    },
-    "indices": {
-      "^WIG20": 2748.53,
-      "^WIG30": 3550.37,
-      "^WIG": 3550.37,
-      "^NCINDEX": 245.81
-    },
-    "news": [
-      {
-        "title": "Andrzej Duda reaguje na sprawę mieszkania Nawrockiego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHVsWGpUdEFxMng5WHpJTll6d2NPZWplQW9oeWg4MlFJaUdiWUdnZDhxZnhHRXNFMUhQc1dpT1FYQlhLR2k0SG56SGI5cTE4dDVSRmc2NGRjRVM3c0V2TVdFWGdfUHpBLUxLVVVSVFA4cU0xZDlXQUc2aVBmOXVJRzhyMmVNUFZCZktkVEVBZXktUVlncDZWWG1pUEJRQ3pNeDM2S0ZCMEx6QUU1VTlEcDYxcW0?oc=5"
-      },
-      {
-        "title": "Uroczysta procesja w Watykanie. Kardynałowie udali się na konklawe - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzcyYmZfdVowWUN6ejhJdzdWc1ZrVjg5UFhEQUV6LTJFMHNwYXNFQi1yTnMwbHRFMnhveGtxSHVMZ0U1WlR4SGZqRVA3aUU1bHYyZEw0SThVb0c5bVNiTm9lWm9pcms2ZlEtbmk0cU43d1Bibm1IMjJZR3o4b1BnZkU5dnNZdS1DbVRlWjVlWUdPX1RieE4zWENZODdBcEFLSFFvRFBibHluakphb1RSNmtYajItYjVBcjN3OGtnNTBHbXl5LS1J?oc=5"
-      },
-      {
-        "title": "Indie zaatakowały cele w Pakistanie. Jest reakcja Chin i USA - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1gzT1dNQnQwUmQ2T2RKMk4xMFoya1lGXzJwUVBnQ1JNU1BmOG9DNlZFUzNFRUVxVVpBd3U2Q1ZyOWVjdE5fRGZZZnVYZV9SNHRaQThRb19VVzBQVmNZYWNDREpOY3VsWUNxMm9qaEk1Ni14am1mOXpXQzlLaDBtclBPNFZ3SXF0d0x4ME5oM2Ewa3d0WkMzVnRCb21SQVdyTWZtck1CSWYtOGFpUmhXOGtEMGk?oc=5"
-      },
-      {
-        "title": "Cisza, łzy i sprzeciw wobec zła. Kraków pożegnał dr. Tomasza Soleckiego - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTNYTzFzOFdlenZDZ1dKS00wWVFxTVgxU3Z6V2Z3UmZzSlJ2c2JLUDNKbnFOSDBHNG1uV2lPTFJsUlh5c29yWjJ1VUk4eENvczVxd1JDMnRUVkM1NnpIWWtuQ3lsWDVMTjhiVk1sNTRJQjNJMVBXUmJMQzJxVURuRldUR0pwcnczcG1Kb0pXZ1JYQ1hWaXlIWU4zd09ZaW41SlNPOFdraTdIWjRCaEktRVpWaEpOeWdsamJYa0FiRXNmTC1ISUE?oc=5"
-      },
-      {
-        "title": "Rosja blokuje pokój. \"Żądają zbyt wiele\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVtVy1leWtjT3FTNTA2cVJRYmZFSDM1M0E4X2tiWVdXZGRlOWlqM2RWc1o3Vk9HR01HRVdZTGJ0VHZTQVFBYUJVRkJKMzV2a0NzdkVLbzRCN2tUcHplRm1CODUxN2NkVXJUY3BqODdrY3pvbUxNUUd4WFM3UTVOZWlZUEt2WE0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 20:19:35",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Papież Leon XIV udzielił odpustu zupełnego. Tak zadbał o wiernych - Onet",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDBxd2w0M3QwZmJ6bnB2TVA5Snd2TjR0cTlmYlRnMk5GcHAxWm9WbDN2UWgtbHRXcTFsVDVhajNpSFdEQ1JUa0EzYmtWTFFSc0hTcG9yeDRldlFmLXRUMFJBM0dqY3RlWWZDenRybENMeEZhZ0J1aHdCeEsyLUZObnJUTmprVUJQX0VSdkJEU1pBaGdZQzhhT3Y3WWt5d3g1d1FsQ3NwMGs1MENiYmZXZzB0SWt2RkcyV2NmUEpNV1dpbkZvbXdOamE4ZC1iRVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-10 01:12:28",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 386847,
+      "DOGECOIN": 0.767927,
+      "ETHEREUM": 8784.71,
+      "LITECOIN": 376.04,
+      "RIPPLE": 8.79
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Zabójstwo na UW. Wiemy, czy Mieszko R. trafi do aresztu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGVTRnpUak5MM2lDVlVNbEppRkdMdklpNkNjOUVDclBSMUpmcy15OEhNejJBVWNYS1NMOEJpWGZpRENQa2pPdjdhWTdTSFo4ZnBhSC1TLXlxakVhbUowLXNWY1NYS21VcDJQd1l3TWNoRC1aaWJhOFJDb3VSQ3hDcUZIYTlDMnBKVlU4YXlSbVFWUEhtZkxqTG1pbWFkQkYxZUMyRA?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński komentuje dokument Nawrockiego. Ostra reakcja na pytanie dziennikarzy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1UzcTJTcVZQVnFXSktxd2lzTEdTV0hZN1N6XzhNbVkyVk9oUDQ0NFNiWWJCQ2RYVURzZkVISEowaDBkUno2NFFjVTdEX3F5UGFKU3Jfd0tNejN2QVpyQ2N1TGVnM09RM0NzYVJvMUdNZk4wTjJqaHY5MGNXWFNxMzUzRk0wdkJfbl9ONmZwSXZQeEJaZlNoYVpraFg0dDZWN3hhN01FOU9SblFjWkgyTFEzcS0tWFRCeF94Zzc4bmNuVUNLZ0lELXBVZlBOSFpKVHBN?oc=5"
+      },
+      {
+        "title": "Co Macron gwarantuje Polsce po podpisaniu traktatu w Nancy? „Inny etap niż w 1939 roku” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdlY0QzlwdkRpZkZGNWluTWVLMTFYclJSWTVYaFFmUDdMd1lMc2ZMWVQyVmpzbkE4ZFFmbTRVelRKakl6U2l0a2pHWDV6bFY4TWdYSWgwT0ZSRFUtaEhMRi1hREQteHFQQ1pWck16RkdrVC1Zck1COHJGMW5taTY3RWUza2FxNnVXZWk3ZGVpZVZ2aUhUT29RdGJnQ19uRjg3NzFNRlZqZmJ3WkpGd1dSZ05MTU1tZHlhSlliWmw3bmdpNUFFdDVXVHNyakVMVHhVY2g2RmhhN2FJRC1kYzN5YnB3?oc=5"
+      },
+      {
+        "title": "Debata prezydencka. Rafał Brzoska zadał pytanie o wiek emerytalny i deregulację - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0VmdlJuU0ZwR2xZT1phVjdmRlhldnotX1NkQ255ZzhYUGN2RmtIRElyRW4zYmlqS1l4bGlVUkcwX2ZuM3ppTnprNm9LbmNfamFVeXh5dkRKWi1XSWgtd0RyOHJrY1NFOHVpVVdsczhyTEtSS2N2VHNQS0hmR3R3RUxhMy1od2tHT1huaC1kWmlzcWMydWdIb0dFSDhCVlNOS3NMVkJ4aENsT0s4NldnSnJyaHBVbmxIS2c?oc=5"
+      },
+      {
+        "title": "Nawrocki ucisza Hołownię. \"O, nerwy puszczają\" [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2hKaFN2OTh2d0lQamw5SXNZZXA2X2xmRkszYzB2VmFweUg2UmsyWTBuVEstWHltTE1LX2tQR2tXVy1XTWF2cXFDNXdNX193RmszcllmbEJIbkFObkMxWmRUYkVSY3RfYWZYYkZ1cS1pVHBtT2NBYVRoUGNBVWsxR3lkNDRZNzBLcm56UGpwWWRBeThPck5LUFVXU3lVUUFmcl92djVxeS1xYlRtblk4Y2pqRXFPUW1KOWdtdA?oc=5"
       }
     ]
   }
