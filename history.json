@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 01:12:32",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 362804,
-      "DOGECOIN": 0.645617,
-      "ETHEREUM": 6809.95,
-      "LITECOIN": 327.32,
-      "RIPPLE": 8.09
-    },
-    "indices": {
-      "^WIG20": 2718.17,
-      "^WIG30": 3507.17,
-      "^WIG": 3507.17,
-      "^NCINDEX": 243.51
-    },
-    "news": [
-      {
-        "title": "Indie zaatakowały terytorium Pakistanu. W sieci pojawiają się pierwsze nagrania [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVVNMFdFaGp4Ui1ZcEJwQUhfczl1VkQ0Tk5NR3gyVXhXdUFtd3F2OTg3RzQ3c0xwbVpSWFZObFo2QUNYVDVLUDVfS19PM2h3T3lKOHdicGdBeTJhc2FKTXlRMVBpbnV2ckR3VlVhOV9udTRiNkZjMUtQbXJiZk9hSkZPUXVLRDRWb1pxWHRTaXhCRTFORnduYTJPZE1LeEFHS0paVkFkai1RZ2N4MnFMa19UYw?oc=5"
-      },
-      {
-        "title": "Składy na mecz Inter – FC Barcelona w półfinale Ligi Mistrzów. Wojciech Szczęsny w wyjściowym składzie - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXhqQVFwbUhsbi0wR05WWWdoX20tOHFaQXI0dllPdjhDTVJ5U01ycGpQVUVoX0ZfUVFCMWc1c1IxT0FKT1phSWxmQlpNZGVaaWNuU3VTZFZWVVhWS1l3OTBjOVhSMnhmMjUwVmM3ZWl5QjdRU3lPcHB0V0ZpWi1ONGdVelV3bmJyTF9lOG1QR1pIbVhVQldiSk9oU0VnQV9nYUZEQ21lUVFGb0FvOEstX3RTZnVmM0I1a3J4WXlXZUNpMmxRbjVHTNIBzgFBVV95cUxPWTk5bXRlaThxV3RpaW5FT1V4UnBWSG1LNnVtU1dWR3JGNlBmeDRmZTJiSXUyZHV2cU1FaXNGYk12WlJjakJBSktKX3BqZGc4TWROUFpxdXZDOFZCOGRwWVBubjZWVTNhVjdXU1AxQmtELUxrdWl3MklpQThUc0ktTHBhOWpYd0hwY0dyV3RwUVUwRUNpaFJTZ3lRYTNZWExVRHN5Vi1PQlRQY3Y3NV9KNjJNNjNDemtMUWVleGFuOG5BQ0N5T2V4UHp3UEdmQQ?oc=5"
-      },
-      {
-        "title": "Dlaczego Karol Nawrocki kupił mieszkanie w Gdańsku, które senior wcześniej zapisał mu w testamencie? - trojmiasto.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXJzdE5BMnEzSkY3TGptRG9wU1d4dHRicWpKS2c3d2p2amQyRDF1bjhhMlRsRldmV19RT2QtaUliOTJsZl8xc1lFNDBRT3B0eU1nOTM0dnJWYy1LMnB2ckljLTdPa0hMQ0llRG05UDNDWFVIVjY2Ymk4SlNMdHVKV1VteUkycVRlUVZwcEpRMG5aRHlBZVlBbnNfU3R5Nnk5STA5eWwySVMyY2JUd3E2VmdMekkyMTV6Tm9reUdVZw?oc=5"
-      },
-      {
-        "title": "Friedrich Merz zaprzysiężony. Oto nowy kanclerz Niemiec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQem5McUs1c2YwWUZsQmttTUdua1htVW1XTWZZUDFYY3BIbUMzUV83dmdZWDJjLTdhMWxpNjE3ZnRtQkE1UVV4aTg1eDg3T1k5NjRBQVFSNnFtbG15Zi1iWEZyX25tV3VaOXR5RmdzS25wNFQ1ay1vZGRwQ0VoS1d2RWtaWWJuVUUwRUd3OUNaN3ZtMUFPUWRiZ051dXZydXdlREJ3bzNRWGZPV1Q4NHUzN1pwSQ?oc=5"
-      },
-      {
-        "title": "\"Rozległe obrażenia głowy\". Są wyniki sekcji zwłok 16-letniej Mai - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1h1SndHemFVdlVFcVNrb1lCRHF2VVNpdEJReU5URldVc2FwcnZ6SElOSUZRSm0xenEwNmFEWWFMYVYtbldXaXJjSEtBQTdrbVU0aEZRbGFTNmtya3VHOEdRaHZNZjEtZDRXZko5dmhJM1BkUU9EZGxjSzRsdnFnRlA1MFVxTERYMUpvRy1rUmFfRW1VVHZYT2xSRmhwQk1FcUpwMjN4aTc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 03:06:41",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Trump wzywa do 30-dniowego rozejmu. \"Będę dostępny w każdej chwili\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWllQ2lwSG1Ba0RXMkdjOUlQejVNVjlDT09QUEdzRHdOSE9sRVUwc2FzRWFiaGtQWWRYY3hLUnpLQVNSZmtQWWp0QXRVeTBQb0JEd3E1dnoybnNhZEZZRzBDNTRoQUNoczUtM2lVS0FFSzdNM1Y1UHZRSmFkbWNBVU1VZ25ybW50Z0VrTlQzUzhYemc2cGVSOWtLdWJ4TDVaUmtwd1VGTGpJcnVJUjBOa013?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 09:13:28",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 390036,
+      "DOGECOIN": 0.752202,
+      "ETHEREUM": 8619.66,
+      "LITECOIN": 363.34,
+      "RIPPLE": 8.75
+    },
+    "indices": {
+      "^WIG20": 2790.42,
+      "^WIG30": 3604.36,
+      "^WIG": 3604.36,
+      "^NCINDEX": 246.55
+    },
+    "news": [
+      {
+        "title": "Robert Prevost przyjął imię Leon XIV. Najważniejsze informacje po wyborze nowego papieża - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGhCd1p0T0FrU1JzSHVObjM1dTgtQk9SZXVwZjlDVUl1YWFXcDRSOWhLOE1hU2pDMG83Y3VjNVFnTVZzUFVPRlBWRlhKOUlGT1NDQ1NRVUVDa2lDWC1xRkZmRnpLQ1dkOWx1QmIxSWhDZkswY3gyTGZZSWs0SmJZQTkwVGVZMUtabUZ2QmYtQUZCQk80QV9wUnE2ZG90RHpPU2ZEanUxSG9hY3owNWVWZV9oSQ?oc=5"
+      },
+      {
+        "title": "Jak to jest być adwokatem diabła? To on będzie bronił 22-latka, który dokonał brutalnego morderstwa na UW - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3VkVGhwQ0s1eTdnb1l6YmFLOXRpSUJ1ZnJnMVBiS1k3LXJJZDlYRFZwdHA3VXY2OHMyeHN0SkhNNnBqSV9ZTmg3dVdtazRvNGxfNVhFeXBfU2EwVUdCTzh2RDNGZWpIbzFVTldpckR0dnpYX1hLa0d6SWlrV29hb0dHdFB0QjFrMktSUjlmQ1FIWkRTRldtYXliTUctVjBEUVV0NHlMbGRYQXJPcExzYTJBOXdWaDFwOF9PSg?oc=5"
+      },
+      {
+        "title": "Nawrocki zobowiązał się do dożywotniej opieki nad panem Jerzym. Mamy dokument - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUlzeElZWEtTN2JtZWlDZXNHZVBpUG9OaTVnSTJ2RHdDMk9IcHVHdnU4M19GY0tOSlAzOFpWbkxMR0dnRnU4WGFEWUR1blp1cTVNLU9hY2N6MWoyZkd6WkR4M1FfZHQ2V1VPdlBTMXRWbjBjUlltaEJFRUhCOXdVTTdPM2VhcHNWU2psSEtCXzloT2QzZzVINzh1bjVHa0thS3NGcGlfbVB4amN0eElmaFY1c28wM25kM1kwcEFISE1keGphR2FZ?oc=5"
+      },
+      {
+        "title": "Trzaskowski pod ostrzałem Stanowskiego. Ważna rozmowa, która mogła nie dojść do skutku - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdURjOW1YWjIxWVhwYVdvQVlZMFJJOFo2dmFMWEl0UHZBb2szZVN6X2xnSWhMaHpYX216UHpxUlNEQUFmTFJWX0htNWlYY2lZNlNiYTBIeUpfOGJQTWlhQmFoc3BqbUFjY0JyYVJKRVVuV0ZHWVV6Nzlwa1NMS19ORkRxQnhxa3JaT3o5X0ZxUmxaTkFYQjdYWEktTXhzUllmdGd3MjZqMA?oc=5"
+      },
+      {
+        "title": "Najnowszy sondaż prezydencki pokazuje dość zaskakujace wyniki. W czołówce Rafał Trzaskowski troche traci... - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1o1c2FyWmNhcURmUng0dDhjWVYtWmFOOFhWdV9MQW8xalZxNWxOLUdJQTU1RUxZVFRtbjlFQjNhQTl5Y1ltLVBYTzJ4Z2Nqb0ZFNzRZWXFrX1U0YkhnWVY2LUxQT3k4Z0JaNEtqcHp6OGZmZXZYU0VWTHRBWjV0R1Z6cG10c0Q3MTZTV3l6akwzQWxGcEMtUHoxelNGRjJnUkY1dS1uQUdGZnBDZHFNQXpwTmVxcV9NekFjT1NELWF1LTRyRzhlN05WYmhhR1V4dDVSQmVIQ1E?oc=5"
       }
     ]
   }
