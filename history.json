@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-06 23:12:47",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 356284,
-      "DOGECOIN": 0.635147,
-      "ETHEREUM": 6686.36,
-      "LITECOIN": 319.49,
-      "RIPPLE": 8.0
-    },
-    "indices": {
-      "^WIG20": 2718.17,
-      "^WIG30": 3507.17,
-      "^WIG": 3507.17,
-      "^NCINDEX": 243.51
-    },
-    "news": [
-      {
-        "title": "Indie uderzyły na Pakistan. Słychać eksplozje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGxRdnYyNGhoQU1FNVI5U2JEWmZQcEtLa01iZXk1U05qMVpGVWZDeWEwcnlPUWhpTTlreE5fUTRCZUhSbXVacmczVG9PalB1UEpLMUJHbTZoWVoxSzlybEpKSl9sZlVsangxQWN6bE5vdy11OXFoMUw0akxwbWxXTnNVM2syNzVJT0tpZS13?oc=5"
-      },
-      {
-        "title": "PiS pod ostrzałem kandydatów, w sztabie chaos. Szczególnie zabolała krytyka Mentzena - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2FQRURVVVF0SU05V0dtTFhYbTZWcVltazF3djVkZndmQzdMRUN5aUtYYTVNODN5dTJ5MW9DUGoyak1KZWg2R0RYdTJMUjFGc0d6ZjYtTzBMTzhaSzVzZlVlczdGdnZJRTVldDViWTQzWElieVhTSS1HaEZUY1dXU1dEVnVRbUhsRmRhZTZ3TWhZTXpWVmpSZU9LSm9NVUstdUMzZnQ4blJRLXZxSzUzNEhOZWtIWnh2VEJoV3NHM3pGUjg?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-latki z Mławy. Są wyniki sekcji zwłok - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3I1di1Fb1U3bUwxOUVjb2QwY3VaX2lNVFhSMmNRQk5DWnRUZGpEX1U3MmpyNFVKRmdEdDRBdGt5OFk2Vk9HZHpxTUxHWjc2ZkE5Vy1ncDhJOTlxM1VsX09fQ1YtSkhDeEp1aS1BSHhpZFdacm0wOTM1TmEzQVI3VUNRd2RWZXc4aExRR1VjZ01FWEFnT1Z6TEZJLWJqcl8za2JOcGttaHFxbWI2NkVWbHQ4aw?oc=5"
-      },
-      {
-        "title": "Friedrich Merz zaprzysiężony. Oto nowy kanclerz Niemiec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQem5McUs1c2YwWUZsQmttTUdua1htVW1XTWZZUDFYY3BIbUMzUV83dmdZWDJjLTdhMWxpNjE3ZnRtQkE1UVV4aTg1eDg3T1k5NjRBQVFSNnFtbG15Zi1iWEZyX25tV3VaOXR5RmdzS25wNFQ1ay1vZGRwQ0VoS1d2RWtaWWJuVUUwRUd3OUNaN3ZtMUFPUWRiZ051dXZydXdlREJ3bzNRWGZPV1Q4NHUzN1pwSQ?oc=5"
-      },
-      {
-        "title": "Pogrzeb dr. Tomasza Soleckiego ze specjalnymi honorami. Rodzina ma ważną prośbę - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUliX1g5Y2VBTEkyR1AtV1hrSUFDX2Y2YlFodFA5TmZxZDFGLU5uUmZNLVhfMS00TFM0QXpwM2V0bVRrckZ5clJiMHgtUlFqUVJRNWREYUxqYWVXOVZoakh4VzF3UXltNWJRZzJjbTdFSkIybVRiZEE1MHFackM4ekl0X21odk14QVU5Nl9YUkk3QTJfeWxGZDQ1MnpsR0lLbXJz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 00:13:00",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Mieszkanie pomogło? Rafał Trzaskowski odzyskuje przewagę - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTJaSEt6LVhvN2w5UU1qdGpYb1ViNXllYnJnWTY2Y2N0TjZmTGZXNEI2d3o1c3dhSWlQem9GWlJ5dVkyRG1ibXhQaTNJT1VPMTVTbUZZcko2LS1PQkhha3ZpclQtR2hlbW93STV5ZmV6MGgtYnZhQnF1QVZZQWo3c0NJcTY1MHc0VWcxMzVMQ0VWbTgyZFFtRDZtaHkwb0h0bkRWOVhLZy0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 07:13:51",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 388828,
+      "DOGECOIN": 0.735682,
+      "ETHEREUM": 8374.11,
+      "LITECOIN": 358.71,
+      "RIPPLE": 8.68
+    },
+    "indices": {
+      "^WIG20": 2767.86,
+      "^WIG30": 3577.49,
+      "^WIG": 3577.49,
+      "^NCINDEX": 246.55
+    },
+    "news": [
+      {
+        "title": "Robert Prevost przyjął imię Leon XIV. Najważniejsze informacje po wyborze nowego papieża - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGhCd1p0T0FrU1JzSHVObjM1dTgtQk9SZXVwZjlDVUl1YWFXcDRSOWhLOE1hU2pDMG83Y3VjNVFnTVZzUFVPRlBWRlhKOUlGT1NDQ1NRVUVDa2lDWC1xRkZmRnpLQ1dkOWx1QmIxSWhDZkswY3gyTGZZSWs0SmJZQTkwVGVZMUtabUZ2QmYtQUZCQk80QV9wUnE2ZG90RHpPU2ZEanUxSG9hY3owNWVWZV9oSQ?oc=5"
+      },
+      {
+        "title": "Morderstwo na UW. Prokuratura podaje nowe informacje o sprawcy: Wymaga opinii biegłego psychiatry - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGVZNkQ3RW5YSC1LWTJxM1VRWUhOTFppa29McnVNRVFvSkpOUXo0aXhUN3JjVlVkUDZXYWt5Wm5FMmQ4V2xGUk9pLVRONDhmNGZIc0twV01kdkFIUHVxdk04Rng4ejJWaDNBaW14OVBTd3VkeERPVzd2RVd3Qk5KVklEZkR0OWg0MnlGY21WbzlReVYwbEVFSm40ME9vNHhXUVRyTHhobV9wT1dmakh0Q1Zpdw?oc=5"
+      },
+      {
+        "title": "Lex Nawrocki? W koalicji rządzącej parada pomysłów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWtXUWxOMjN2MllGc082WE52RmNqSWhhWkM5V3FQVTdST2FHREswLWJxc1V6SDRySnB2RFQ3VlVCbU11Z3QxZlNHWXZLTkZ0MG9JYW5KNFVuSHpOV1V6bENGT2F1U09IUWt6b1dtRl9tQnFRcms5WFJLU2NzbVJUdDZlRm1Bcm5zWGdVeUNiYkhXWG5qT1p6bS1HSFpNWlFRMGQ0Unl2MA?oc=5"
+      },
+      {
+        "title": "Wraca temat reparacji wojennych. \"Spiegel\": tego boją się Niemcy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjRrdURNdzJacEFxM3BVb2ViN0J5dlVnMXZycU5iakd6cGphN05MUXlwNUc2dm1XVXBmMEkxNnhsVUtRbGhfN3N2TVJJdUtWRXZNMTJ4eXA5R1ZRcTlVdEJ5dmVuVTMzX29hWW55QmpXdFlOeXVfMGdyNWZzQXJQSnRjMGgzUE11UlhyYlpLOFdEa0dPOHYxXzlpSXN0VWEwTTRxanpPSHU2eE5TTDljR3NBbm0?oc=5"
+      },
+      {
+        "title": "Premier: Polska armia najcenniejszym europejskim ogniwem NATO - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemh4RnJnX0ZWa1ZsQzNVUWs5bzY3U1Q1Mjg2aE1sR2pEZWQ3XzVWMnNaN2N0YmN4S0J2Z21wY0l5TjlpWWpXaVZKYkZKQ0xWemVYRXNSdUhFejVKWWJZZEdnRzFJaGdRMXRIUjdGOWYwa2x4NDNxcy1mLU9yNUw1MllsLXRJVDhpRDBmTTBVTmxZdGk2ekFFdk9lY3Rvd0U?oc=5"
       }
     ]
   }
