@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-06 22:15:15",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 356747,
-      "DOGECOIN": 0.63605,
-      "ETHEREUM": 6707.47,
-      "LITECOIN": 316.4,
-      "RIPPLE": 8.03
-    },
-    "indices": {
-      "^WIG20": 2718.17,
-      "^WIG30": 3507.17,
-      "^WIG": 3507.17,
-      "^NCINDEX": 243.51
-    },
-    "news": [
-      {
-        "title": "Jednostki wojskowe z 13 krajów na rosyjskiej paradzie. Kreml zdradza szczegóły - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWxOSjBjWUFKdXAwbGtwUGpQcFRRa0VxOVZqRXZRT0JvUHZodmFCTmtYSDhCNFRWaXVuZUhuNjhyRXZpQ3JBU2ExaHVzWlU0X2M0VkFURkZkLVNLT1Fnb1pxaVNnRHB0Mi1uVjNOUkdMUGpRdzBGNUVZUklPRFZTelA1clpPcHhmODluSXB1RUZRUEpXWlZIQVE0T0RYU2dFQWcySTluclRnUFN3d2FBWW9DZzVibmc?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki zabrał głos. Reaguje na propozycję Szymona Hołowni [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlJteFFhODI3VDdXSVZtZzcxc2M5bGNCVkJnVkxTSkxWM21BZ2pSc2ZwRFdwcktEWVNyOFgyM29HcTNOYlhYZnc3OHZqZC1Ta1FzdWNQdkJFdFIxOEQybnJTdGx6SVNMS3VFek5hYTVMNXdsaENDdGVjWkc5bTRaeGV0UzRKOFZIQUppVmV3QWl1Qi1ORlF1a0twZ3pDZnFqaVZfemM2VW5pQ1k1OHRQUDAwc0VkbklfQjFDUw?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-latki z Mławy. Są wyniki sekcji zwłok - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3I1di1Fb1U3bUwxOUVjb2QwY3VaX2lNVFhSMmNRQk5DWnRUZGpEX1U3MmpyNFVKRmdEdDRBdGt5OFk2Vk9HZHpxTUxHWjc2ZkE5Vy1ncDhJOTlxM1VsX09fQ1YtSkhDeEp1aS1BSHhpZFdacm0wOTM1TmEzQVI3VUNRd2RWZXc4aExRR1VjZ01FWEFnT1Z6TEZJLWJqcl8za2JOcGttaHFxbWI2NkVWbHQ4aw?oc=5"
-      },
-      {
-        "title": "Obniżka składki zawetowana. Tusk odpowiada na decyzję Dudy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONE5ITHZyY0JsTFMxd3cyQThMY0NvWnVieDNBT0wyVlFMaDBPTXVTVlVMSFRRZWdWUWp5ZE5vLW9tV042STBxWVY2NGc3eTktWk43d2JTVW1teVRaRk9mU05EM0dzYktaQXNyR3dPTC14SU5ZZXg1NXNQQzg0RDU3MGU3NTdjT01mUmZrcFNHc0cwVnA1TXJZZkpldHhxdGJhVTVrSmhKSjY1X3VobzVpeUFB?oc=5"
-      },
-      {
-        "title": "Friedrich Merz został kanclerzem Niemiec. Spotka się z premierem Tuskiem - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3WHE5UDJ3TWdueGF3X05LUDFhcVQ2Y0Nnd0dTalA3UllIMFZvcXBHeXBSalVoWWRpYkVERG9EQUtsOGY5V25oV3dCTXF4TVZOTXdLcnEwYWdGWVBiaDJZOVg4VVBYRHhuMzdEbFY1clczVTJxaWVGWHI2TQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-06 23:12:47",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Trump zwrócił się do Ukrainy i Rosji. Zagroził sankcjami - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG5JNUxIeDJmcjBfcDFmYkp4VEZCVTI2WEFfLWlKOWhNRmVVaE5LMFJfQXpsWURST2Uta2VPeE1JZ2R2Q29CQnEwVnpLWWRWb0VoczdxazQ0TDhMc3ZrRGJuQ3pBcEYtWVRZUXVwZUlpWmJXY0IzN1M0cGt4RUlyQVZCa0hzTl9yeG5ubWp0dllYNF9pMzhTNjA4Wi1USEoyUmxXOWlR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 06:17:23",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 388294,
+      "DOGECOIN": 0.734044,
+      "ETHEREUM": 8369.33,
+      "LITECOIN": 359.04,
+      "RIPPLE": 8.73
+    },
+    "indices": {
+      "^WIG20": 2767.86,
+      "^WIG30": 3577.49,
+      "^WIG": 3577.49,
+      "^NCINDEX": 246.55
+    },
+    "news": [
+      {
+        "title": "Robert Prevost przyjął imię Leon XIV. Najważniejsze informacje po wyborze nowego papieża - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGhCd1p0T0FrU1JzSHVObjM1dTgtQk9SZXVwZjlDVUl1YWFXcDRSOWhLOE1hU2pDMG83Y3VjNVFnTVZzUFVPRlBWRlhKOUlGT1NDQ1NRVUVDa2lDWC1xRkZmRnpLQ1dkOWx1QmIxSWhDZkswY3gyTGZZSWs0SmJZQTkwVGVZMUtabUZ2QmYtQUZCQk80QV9wUnE2ZG90RHpPU2ZEanUxSG9hY3owNWVWZV9oSQ?oc=5"
+      },
+      {
+        "title": "Morderstwo na UW. Prokuratura podaje nowe informacje o sprawcy: Wymaga opinii biegłego psychiatry - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGVZNkQ3RW5YSC1LWTJxM1VRWUhOTFppa29McnVNRVFvSkpOUXo0aXhUN3JjVlVkUDZXYWt5Wm5FMmQ4V2xGUk9pLVRONDhmNGZIc0twV01kdkFIUHVxdk04Rng4ejJWaDNBaW14OVBTd3VkeERPVzd2RVd3Qk5KVklEZkR0OWg0MnlGY21WbzlReVYwbEVFSm40ME9vNHhXUVRyTHhobV9wT1dmakh0Q1Zpdw?oc=5"
+      },
+      {
+        "title": "Lex Nawrocki? W koalicji rządzącej parada pomysłów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWtXUWxOMjN2MllGc082WE52RmNqSWhhWkM5V3FQVTdST2FHREswLWJxc1V6SDRySnB2RFQ3VlVCbU11Z3QxZlNHWXZLTkZ0MG9JYW5KNFVuSHpOV1V6bENGT2F1U09IUWt6b1dtRl9tQnFRcms5WFJLU2NzbVJUdDZlRm1Bcm5zWGdVeUNiYkhXWG5qT1p6bS1HSFpNWlFRMGQ0Unl2MA?oc=5"
+      },
+      {
+        "title": "Premier: Polska armia najcenniejszym europejskim ogniwem NATO - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemh4RnJnX0ZWa1ZsQzNVUWs5bzY3U1Q1Mjg2aE1sR2pEZWQ3XzVWMnNaN2N0YmN4S0J2Z21wY0l5TjlpWWpXaVZKYkZKQ0xWemVYRXNSdUhFejVKWWJZZEdnRzFJaGdRMXRIUjdGOWYwa2x4NDNxcy1mLU9yNUw1MllsLXRJVDhpRDBmTTBVTmxZdGk2ekFFdk9lY3Rvd0U?oc=5"
+      },
+      {
+        "title": "Mieszkanie pomogło? Rafał Trzaskowski odzyskuje przewagę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTJaSEt6LVhvN2w5UU1qdGpYb1ViNXllYnJnWTY2Y2N0TjZmTGZXNEI2d3o1c3dhSWlQem9GWlJ5dVkyRG1ibXhQaTNJT1VPMTVTbUZZcko2LS1PQkhha3ZpclQtR2hlbW93STV5ZmV6MGgtYnZhQnF1QVZZQWo3c0NJcTY1MHc0VWcxMzVMQ0VWbTgyZFFtRDZtaHkwb0h0bkRWOVhLZy0?oc=5"
       }
     ]
   }
