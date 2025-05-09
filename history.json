@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 00:13:00",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 359034,
-      "DOGECOIN": 0.641469,
-      "ETHEREUM": 6753.17,
-      "LITECOIN": 321.88,
-      "RIPPLE": 8.06
-    },
-    "indices": {
-      "^WIG20": 2718.17,
-      "^WIG30": 3507.17,
-      "^WIG": 3507.17,
-      "^NCINDEX": 243.51
-    },
-    "news": [
-      {
-        "title": "Indie uderzyły na Pakistan. Jest pierwsza reakcja Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0lDb3l1TmdlUnNoRWhwVTQ4YWlKU1NjLWNEamVTM1BFcDRFbFNzVVIzZmVtem9la1dNTkZEeHYyVGhaMWdTZGd3TzNrRUhVN1pBckNqNVBjQU1XRGZlMEk0WWNWUUJpTTNVZlh2b2ZnTkRwS044blpPdndleU1NeUxQc0xVZmI1SHdrWEFULTBRMHFZd182SU9mNlg1S2NBVno4dUhma2VvOU5PWHZOeHBJVmItZkZkSGdWMld1eE0tV1Vh?oc=5"
-      },
-      {
-        "title": "PiS pod ostrzałem kandydatów, w sztabie chaos. Szczególnie zabolała krytyka Mentzena - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2FQRURVVVF0SU05V0dtTFhYbTZWcVltazF3djVkZndmQzdMRUN5aUtYYTVNODN5dTJ5MW9DUGoyak1KZWg2R0RYdTJMUjFGc0d6ZjYtTzBMTzhaSzVzZlVlczdGdnZJRTVldDViWTQzWElieVhTSS1HaEZUY1dXU1dEVnVRbUhsRmRhZTZ3TWhZTXpWVmpSZU9LSm9NVUstdUMzZnQ4blJRLXZxSzUzNEhOZWtIWnh2VEJoV3NHM3pGUjg?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-letniej Mai z Mławy. Zarówno podejrzany, jak i ofiara mieli kuratora - Radio dla Ciebie",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3k5Wkt6Um92WVpnUTRrd1I2R05Kbm9CcHBSVTh3Y0hfelpQbVNvVTlQaHRFcDlwaFlZV2VfWXpkY1Q3cG96eHNoSzNCWERvdVFoY2VBcklyTFF3WVFhYlB4ZVhqNmp2MlctTWdLMG1RcGZmTEpNNlVtd3lrRzFMYS1DQzRDR1hDTV9mM2xiUmU3U2VXVkdWRk5uakFWclpyZmF5MnJDeHZodw?oc=5"
-      },
-      {
-        "title": "Friedrich Merz zaprzysiężony. Oto nowy kanclerz Niemiec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQem5McUs1c2YwWUZsQmttTUdua1htVW1XTWZZUDFYY3BIbUMzUV83dmdZWDJjLTdhMWxpNjE3ZnRtQkE1UVV4aTg1eDg3T1k5NjRBQVFSNnFtbG15Zi1iWEZyX25tV3VaOXR5RmdzS25wNFQ1ay1vZGRwQ0VoS1d2RWtaWWJuVUUwRUd3OUNaN3ZtMUFPUWRiZ051dXZydXdlREJ3bzNRWGZPV1Q4NHUzN1pwSQ?oc=5"
-      },
-      {
-        "title": "Ropa za 50 dolarów? Kreml szykuje budżet - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGozMVhVZ2JZdGh4WjRrNFg1a3JhMERWMUpuaGltYTVXNzdNc1VnMVRId2RRYkVFX0s5RldQejM3YW5yU2hCbC1TNk1MWkpFcTVxZWs4cDMzYVZGVE9BakJ0TVdPX2haT3U5VXhaenc1QmFPVzUxTkFvbVdUbmdkbVJ3OUJVdkhITUxhQjVIdWYwM3gxZGNCTEx3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 01:12:32",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Premier: Polska armia najcenniejszym europejskim ogniwem NATO - Defence24",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemh4RnJnX0ZWa1ZsQzNVUWs5bzY3U1Q1Mjg2aE1sR2pEZWQ3XzVWMnNaN2N0YmN4S0J2Z21wY0l5TjlpWWpXaVZKYkZKQ0xWemVYRXNSdUhFejVKWWJZZEdnRzFJaGdRMXRIUjdGOWYwa2x4NDNxcy1mLU9yNUw1MllsLXRJVDhpRDBmTTBVTmxZdGk2ekFFdk9lY3Rvd0U?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 08:20:16",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 389151,
+      "DOGECOIN": 0.740065,
+      "ETHEREUM": 8422.45,
+      "LITECOIN": 360.18,
+      "RIPPLE": 8.7
+    },
+    "indices": {
+      "^WIG20": 2767.86,
+      "^WIG30": 3577.49,
+      "^WIG": 3577.49,
+      "^NCINDEX": 246.55
+    },
+    "news": [
+      {
+        "title": "Robert Prevost przyjął imię Leon XIV. Najważniejsze informacje po wyborze nowego papieża - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGhCd1p0T0FrU1JzSHVObjM1dTgtQk9SZXVwZjlDVUl1YWFXcDRSOWhLOE1hU2pDMG83Y3VjNVFnTVZzUFVPRlBWRlhKOUlGT1NDQ1NRVUVDa2lDWC1xRkZmRnpLQ1dkOWx1QmIxSWhDZkswY3gyTGZZSWs0SmJZQTkwVGVZMUtabUZ2QmYtQUZCQk80QV9wUnE2ZG90RHpPU2ZEanUxSG9hY3owNWVWZV9oSQ?oc=5"
+      },
+      {
+        "title": "Zbrodnia na Uniwersytecie Warszawskim. Obrońca studenta o szczegółach przesłuchania - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3VkVGhwQ0s1eTdnb1l6YmFLOXRpSUJ1ZnJnMVBiS1k3LXJJZDlYRFZwdHA3VXY2OHMyeHN0SkhNNnBqSV9ZTmg3dVdtazRvNGxfNVhFeXBfU2EwVUdCTzh2RDNGZWpIbzFVTldpckR0dnpYX1hLa0d6SWlrV29hb0dHdFB0QjFrMktSUjlmQ1FIWkRTRldtYXliTUctVjBEUVV0NHlMbGRYQXJPcExzYTJBOXdWaDFwOF9PSg?oc=5"
+      },
+      {
+        "title": "Rząd wciąga prokuraturę w kampanię wyborczą? Otrzymali pilne polecenie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3RRQkUwTnVOVjVBdFlnNHRlQS1hMVdKaldPR0xkc0JKemFqb25hQlhvenVxbUR3U3NkVElDaS05V2JBblFJdjFpNVB6b0VmM3ZKU01xMjBMSXFFVFhnSF9qVHAwQ0J6UEpLX01VX1VfSGg0SFZBVEhlMzh3RzRDc0taWWVNMDdMNzY4ajhEVExBUEtLbkV3amEtbnlYQUQ3VU9jNnZqMXMxMXNaLWZTQ0ZqWVBMTEpraDRxUE1pWjVCZw?oc=5"
+      },
+      {
+        "title": "Trzaskowski pod ostrzałem Stanowskiego. Ważna rozmowa, która mogła nie dojść do skutku - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdURjOW1YWjIxWVhwYVdvQVlZMFJJOFo2dmFMWEl0UHZBb2szZVN6X2xnSWhMaHpYX216UHpxUlNEQUFmTFJWX0htNWlYY2lZNlNiYTBIeUpfOGJQTWlhQmFoc3BqbUFjY0JyYVJKRVVuV0ZHWVV6Nzlwa1NMS19ORkRxQnhxa3JaT3o5X0ZxUmxaTkFYQjdYWEktTXhzUllmdGd3MjZqMA?oc=5"
+      },
+      {
+        "title": "Trump wzywa do 30-dniowego rozejmu. \"Będę dostępny w każdej chwili\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWllQ2lwSG1Ba0RXMkdjOUlQejVNVjlDT09QUEdzRHdOSE9sRVUwc2FzRWFiaGtQWWRYY3hLUnpLQVNSZmtQWWp0QXRVeTBQb0JEd3E1dnoybnNhZEZZRzBDNTRoQUNoczUtM2lVS0FFSzdNM1Y1UHZRSmFkbWNBVU1VZ25ybW50Z0VrTlQzUzhYemc2cGVSOWtLdWJ4TDVaUmtwd1VGTGpJcnVJUjBOa013?oc=5"
       }
     ]
   }
