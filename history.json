@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 07:14:08",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 363567,
-      "DOGECOIN": 0.64874,
-      "ETHEREUM": 6886.0,
-      "LITECOIN": 345.08,
-      "RIPPLE": 8.08
-    },
-    "indices": {
-      "^WIG20": 2718.17,
-      "^WIG30": 3507.17,
-      "^WIG": 3507.17,
-      "^NCINDEX": 243.51
-    },
-    "news": [
-      {
-        "title": "Atak Indii na Pakistan. Jest reakcja Chin - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEpwWmRaczJOYVhYUk9CczJSMjhSVmExZkZuUFA4dmhQQlZMZWE2NHJHN3FPQ1h1Tk1lRzEwanIwTnd6bDZHWEZIenl5UEdRQ19zbnFRQVU0UTRUYnY0Z255d1ZvMy16ZE51VEZra2wwNHZfbDNxalVFUTlqaGJKUkpXbjZKbEVNVl9xQnRPazMwQ0RrRm5razdTN3lCX0p3UWRpQ1Bn?oc=5"
-      },
-      {
-        "title": "\"To kalkulacja wyborcza\". Komentarze po wpisie Mentzena na temat mieszkań Nawrockiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzF5anZaYmZvQ1ZxdWgxbHBtLTZRcGpRUW5FVFlldWwzLUdxRHpwR0gxQmNOU29wZW5RMmVRNEVfRlIyLWJrc0JNVkhYVU5lLUZDcEZkN2pHWWRJUzJJVXFibHd6UHFxVVUtam9kN2xhUkxhT2thdVdFWVFPZUIxdXFFS0laRkNqdmxVbndCdnNHVlBHbS1jNTZQRDhzcC1DMk5fbTZmTTBDa0g0Rno0UEpSbHhGb1pIVl82a2tuZlJJNVJoS3AzSjRR?oc=5"
-      },
-      {
-        "title": "To pojawi się na kardynalskich talerzach podczas konklawe. Menu pod szczególnym rygorem - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDFwUExfa0RVbGJFOGZEZHNNM3NlVkpBU2JzWU5VNkQ4Y0JvNW1tWUNhZ2pjNjMtX3h1eUVpemlfd2xHMHlTMjd6Y0FjYjNSY1hJOVBXeElaUUY4czFoN3pmM2tHR2t1VlJVMlZQNzlKMldBT24zM3cyWkxnbzhaOEp0NmU1UF84Q0FkaVZqMHpMRVNKaUNtcUMxQUpKc19Tb0Q3UUt4ZlRfNndHX3JV?oc=5"
-      },
-      {
-        "title": "Weto prezydenta ws. składki zdrowotnej. Poseł koalicji ostro: Lewica szła na kolanach do Dudy - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0d5a3JBOFp1UVJDU2FMV21yS0NvYjNpSU9EX1FpaldqR0F3NDRTbWVZdFZVY3liLWRmSnVIa1RsNHFUZ3FyT1J1OFRybVhBVnk5dHM4bW9PMDNUUjVUWFpJTWlJMFgyTGFLbmkyamtqN054ZnlLODFGZnFKazZ4X3ZieXZIZjNRNTc5R1ZxUnNLNlhVQVdhdVVYNlI2ODh3RmVoSTJmaUtiT3hmeER5cWJB0gGwAUFVX3lxTE8weENoSW83V1NmYjlfb2NDdkowaWpvVGtxWWJIcVFmUXBwcDFERWtxbEstcF9Jd0lwV2ZaMXVGTUdLVDBkVzltMEVVQU84YWpUMlA2eDVBVUI4VXg5dHZIME1xRUxuMEcyeVlWcEo1N3BTcWFCQkpMTFN6UEQ2WUxwVlpEMU8tc3J0dGIySlZHa3hwNXFuRjM2b1F3YmtCVnc1bk9oMHM3V2NjNkhYSU00?oc=5"
-      },
-      {
-        "title": "Friedrich Merz zaprzysiężony. Oto nowy kanclerz Niemiec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQem5McUs1c2YwWUZsQmttTUdua1htVW1XTWZZUDFYY3BIbUMzUV83dmdZWDJjLTdhMWxpNjE3ZnRtQkE1UVV4aTg1eDg3T1k5NjRBQVFSNnFtbG15Zi1iWEZyX25tV3VaOXR5RmdzS25wNFQ1ay1vZGRwQ0VoS1d2RWtaWWJuVUUwRUd3OUNaN3ZtMUFPUWRiZ051dXZydXdlREJ3bzNRWGZPV1Q4NHUzN1pwSQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 08:19:56",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "\"Prawda jest po naszej stronie\". Putin świętuje Dzień Zwycięstwa - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1JqUFd4M3N3aWVHeHk5SWd6UGljMGlNWnR3cFZsc09fd2NiN05BczAyU1l4d0ptRG4tU3FqS1dYWmR3dGdQanE0WGVYTGgtT0Z0Y0NsSEkzQTV0US0zdmp5SU5KYS1zX0JibERybS01NzBwUTFUdzB3QVRtcEFUWGdBSC1Rc2pkNlc1M2lOdk9SSUNqVmtCbkNoakpuT21aT0o0VVRHZ280ejBfSG53S0xLazM5Sjk0TFdnVnFjYjBuLWZOT0trQWllUG1ROW1yUkhrNzQ3cUlScmVSN09nZA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 13:11:22",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 388533,
+      "DOGECOIN": 0.786794,
+      "ETHEREUM": 8822.12,
+      "LITECOIN": 372.61,
+      "RIPPLE": 9.05
+    },
+    "indices": {
+      "^WIG20": 2829.94,
+      "^WIG30": 3649.01,
+      "^WIG": 3649.01,
+      "^NCINDEX": 244.88
+    },
+    "news": [
+      {
+        "title": "Czy Karol Nawrocki mógł oszukać sztab w sprawie kawalerki? Poseł PiS odpowiada - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeEFGdXI5SG5MQjctbDdVejdCQW5mQWI1OE9JWHlmczU3S0l1MmxRblQ4Vk1ZdjNaOFdQR2NzUVFKV0pBTjMwdno4bXJtcWRMazRpcW5Na1gteHhtWGpfWnJnck5xREtCY1VISjZYVjlKTDZDYTBvdV9nY0I0cFZ1dnhWQnBYQ2lSM3hMcEw4RHQyWFVZNENjSjUxOFFFUEZWTEpNcG8wWFhyc1FHSG02ZGR5Ti1JZjFOUTBvbVhEV1dUbHdMYXdnRTNobU9STDRVVEtDdW1B?oc=5"
+      },
+      {
+        "title": "Nie tylko Zełenski. Putin zareagował na wybór papieża - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjVtY19aa1hublEzWTZ6X3E5bnEyeWtVS3B0Q1RNMGNqTmZzSWxRc2xBR0U1MGp1aXVYb28zcGZhY3NLR0dZYjQwME1iTE02b3NRZFNQM3BZS3lDZ1NNenpzM2FXY09vRDRpcG5ZRncyenJmVFRubmhxNVdabFJGX3oxZnN5dHJ0WlFUczZPdFg4dUlXbkJzaHBaZw?oc=5"
+      },
+      {
+        "title": "Zbrodnia na kampusie UW. Policja opublikowała wstrząsające nagranie - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb003NW9mTHp6dXVjY1Y0emUzVGRxWFJfZmFLbE02R2t0dDducHA4SVE3eGhtYVJITWNXYXBOX2F1YmlKaXMxNmRTMm8tSVMzNGZzbWFidksxYTZ5cnRFY2dpdnpub3czeGxoQ0dYa1V4Q0otdVN5YVZXczNvLW1KeXRKR25ERTNkX3J6ZXJlM2ZzY0plV1JkWHhpbW5OSExzUnQ3VmlEZWdGTWFjT25lZzI0MWlLa3puNnc1MXA2RDM?oc=5"
+      },
+      {
+        "title": "Mieszkanie pomogło? Rafał Trzaskowski odzyskuje przewagę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTJaSEt6LVhvN2w5UU1qdGpYb1ViNXllYnJnWTY2Y2N0TjZmTGZXNEI2d3o1c3dhSWlQem9GWlJ5dVkyRG1ibXhQaTNJT1VPMTVTbUZZcko2LS1PQkhha3ZpclQtR2hlbW93STV5ZmV6MGgtYnZhQnF1QVZZQWo3c0NJcTY1MHc0VWcxMzVMQ0VWbTgyZFFtRDZtaHkwb0h0bkRWOVhLZy0?oc=5"
+      },
+      {
+        "title": "Donald Tusk o traktacie polsko-francuskim. \"Zamkniemy pewną klamrę\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXEyQWluSWxVWk1acEhEUmpJMThLR3Zsa1ZYdm1pSEtwbUZEb1UwdDh6TlBhSW5PRWVLMjBFQWZVVXFoNHZlekRzLWJ4T0VFU0FjVm9XaGxWWlZmZmNfZnpkWEVtcjJLeXA0Y0dHUC05MjREZzZfZlVNYmZVb0tnRVE3WFFhXzJxWklJNnQ2bThZQnFyR20teEtkZGp5dHZNdHh4VUd6RnhtbXp3SXc0ZUFaVzkwQjB6VkhMbnREbkhqa09hMlE?oc=5"
       }
     ]
   }
