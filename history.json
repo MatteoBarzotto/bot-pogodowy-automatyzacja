@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 10:19:39",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 364119,
-      "DOGECOIN": 0.650099,
-      "ETHEREUM": 6900.66,
-      "LITECOIN": 346.81,
-      "RIPPLE": 8.04
-    },
-    "indices": {
-      "^WIG20": 2744.23,
-      "^WIG30": 3541.45,
-      "^WIG": 3541.45,
-      "^NCINDEX": 244.76
-    },
-    "news": [
-      {
-        "title": "To Karol Nawrocki organizował wykup mieszkania seniora. Był z gotówką w banku, choć podawał inną wersję - trojmiasto.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN29QaVQzQzRuR2dyclRVNTFEZkpxcEU0QXk1WUN4SS1IcXVWLXZQSVJrYnFFY3pGQXZNNzAxcGNIVE1lNTdxd1JRNTF6anJxTk0zWHQ5emVmbGZZdTV4SFpFcXJkRERRaUNuajdaM3gtVFQ2bEUzTFJWODI3a0JOZ3F3STlLRk1IQWRnSGJTRUtVWS1fU0dsRmZURHdEQWVQajhnUTE1bUw5VDNRZnRvQTNwaXI4Z0pQenpIcFRDZW8?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski dostał pytanie o konflikt między Indiami i Pakistanem. Oto, co odpowiedział - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZV9rRDM0MVRvRHJwMW1yT2dpRFBZbUxHbGMwUXRKanpGUGtndGRqTmNTVl91R3RZOG14NGJXWTJNZkVJV3VZVUwwRHBaUUZtcWJPem16aGFWOWJuT25VYnJfM0M2LU1XZFRCckFxcnZQSTRuUWNuby12QkxXcjhTM0p4dnZPRFQ1SXUtZHo1cWxFRG4wRHpVVmVzMEo2eTBmMXhkdDFHT0ktVUVkX0M0OWFUdkhWV0JnNFNWNGpJeHdhdFFzS0t4OFV3?oc=5"
-      },
-      {
-        "title": "Kardynał z Kenii uderza w Watykan. Mieli wykluczyć go z konklawe - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONS1scVFqc1psYk5wM2FFVTRpRjExeTZ1Umd6cFRzSjZGcFNWaTBrV0tqWFVmYnFOQUJ5bmt1aEEtaFhlYzViOUp1YXpFVjUzUTFjZkxYNUdfdkN6YnY4VkoxWGJmRHVfUmE1MlJ3M1FmY3p5RWx0eEF1Nnp1TWF3dFJNRGM5bGhPRVBLUDZOT2x1ZTVjc3QwbVJIbnktZGhxdlp0X1M1aC1OYTlWMi02RTFNZkQzM291c2hMTWlUNUV2b3ZNX0hEUlAtcTI?oc=5"
-      },
-      {
-        "title": "Tusk nie zgłosił drogocennego prezentu od prezydenta Turcji. Wyjaśnienia CIR - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVhvNTJZalE4dndiZVE4VThseElkcjBNRFpES3M4MHBWd1RDNFNId2dITC05RHpzNENWTzJwR1NqZXB3dm9ZVmNISEN0QkFjZ2RCSF9JNWI5Q0s0YUdXaU9XdkNUNGd1XzhacGkxX3cwcWdfTDZKeEpOYUtKbHI0VTRDN1ZrUUw3emNTdFVmUEczVjY4QnRCR0FyaTZuRnNna0xPd3VhX3RwczVFNmJVcmtRb3JvMl9VLUFlVjViMFMzNHlGN2dzOE5B?oc=5"
-      },
-      {
-        "title": "Rosjanin na skuterze pobił 21-latka w Warszawie. Został zatrzymany - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVNOMEpJYWxDaTRNSWJwYms5VUJId3RhdElCRzRPbjVmRjFKQnpyZE9IcWtidmdjR1Q3aUl2dEl5VG9SR1ZhSnFMX21ob0JLNjU4Vk9PcE1zSTJBd1BJMW91LWU4ZnctU3R5SDVuc1d3Ni0taUJUbXBhU0NsNUM3UUlMOVlzZHNLd0xyYV9Nc1ZNbkJZUE8zbzBjUEZmYXNTQThVRWNZWExvbWkzd2N6X3p1UjJFZ9IBugFBVV95cUxPa0RqTUJRSmxVcG5RaExuV0M5eV9INXBfRVptdVJBcHY3bWoxbXV3dXVGMzdSUUlMaUJXSjdZMDN5UEFCeml5WS1CUzNnU09IVWVReC1LZ09YejFmU0gtVHZQY2Z6VnlkM3J2VHppaGxIUjlNVERZRmFvTGFxMWZKQzhWcUsweWNLUW8zTjlGNGRZRF9seEFOT1YzMnVLM2p4TUhTU1pUVGU3UVcyM3A2aU5LN0E0U20weHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 11:15:01",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Czy afera z kawalerką zaszkodziła Nawrockiemu? Jest sondaż - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjhCSW55Q21Zdm9fZUxibDVmZXMzbHFDUFBRcVJlakIxY0FPcml4ODFzY3l2UGZwbW02ajR6YnpVZk5OMzY2c2lKNWlUSGtwMTVtTERNbG1PbmFocjhwenpaNy1sb2VvS1FhbnM0TkN6QVBtdjZhTXV0WlA0eGlaRFBtcUpja1dEeEE3bnliZ0p6cjFUYWMxLWFHaWhCNl9jY2Zr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 16:13:37",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 389109,
+      "DOGECOIN": 0.782789,
+      "ETHEREUM": 8846.0,
+      "LITECOIN": 375.0,
+      "RIPPLE": 8.96
+    },
+    "indices": {
+      "^WIG20": 2845.9,
+      "^WIG30": 3668.88,
+      "^WIG": 3668.88,
+      "^NCINDEX": 244.5
+    },
+    "news": [
+      {
+        "title": "Tragedia w Słupsku. Nie żyje trzyletnia dziewczynka. Zatrzymano dwie osoby - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVNrYkNLTmF0LVlzUGtucnhzc0N3SWxIMHktR3FZQ3EtN19RT3VBRFdrS19ybGNpZHl0MWxwaFB6d1VMLWxqSTNaVHI4aHBpNFBCRlhjYXdlU3daV0ZyQ2IyaUxVWjNGVEh5UERXSFVwa3M3a0k3bWJoQzlGcTFVbElzSFFVREs5R2FnQ1dSN1hOZHQtZHZDR2hjZ2VpeFF5Qm8ybEhWWVp1N2gyX041ZDlaV3pfdmRhNGc?oc=5"
+      },
+      {
+        "title": "Nie wezwali policji, ale nagrywali filmiki. Policja zabezpieczyła nagrania w związku z zabójstwem na UW - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVNYV19Pd1pyTHNKb29YZ0lxa2MxV1VCOHNQenMxZERMaUlQNThiLVZGWmlIdmxOQldmcnJIMlZDN2I5UFlYSjBiYm5NSzlxN2pnR05FMzAtenVhWTlEaU5GdVB6aEZFUW1mb25lZnI5alVoZXpMdy1WRnFXdGpBbzdMVFcwQjFUWVM4dXVNWVVUc1NESF83Ym1WSExVZkM4bGtmdHNzbk95TDBDS1BEcEl0ZHJKdlpvRjF2X3BMTU91MTQ2cVJzN0xYWENXN3lQbFZTZDVrd1VuLUl3dmhyLdIB3wFBVV95cUxQVDFZU1lEb3U1REZVbEEzMFFxOEUtU1l2dEpJZ1VzME1qbHhfZXlvTzhCdzJlWjN4SlpEbjdkYmdZTmVXVXZsTzMzRnlMWHoyd2ZxZEFaOExwUVlaN1NpaU52VjlHRTBkUlFla0I5TWQzZEIycWo5RWZ4TFBoX2RtbW00eFhjeE1wdE95STdFLVFfZllsa0ZoRGxhMVBZbFZUV0lpOWd4WHBWdUZnWnQ0Q0FfYVJJZ01kQnMxQnZUSEdYZERUblNJc2Q1T0hUdlk1eTlCN3F3aU41M0I2ZVZN?oc=5"
+      },
+      {
+        "title": "Nowy papież to poważne kłopoty dla Trumpa? \"Dwie różne narracje, dwóch amerykańskich liderów\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3NpZ0t5MEpGcDhIZ3VscWM3enhIZTFzanJKdjBSdXVhUHlzRzNybWVfZzNQTGJzc25UNXR0RmgyakhBdEFyRTVCLWZ6ZnpEa3daaS1jOEJIdkJaX2ZZRERGb25PX19DM0hzdHF4WXd6LWNLUDN5aW5tYTJsT2pEWUFhVFFRSTVwS0xzV21BY1RIUEdJYXlEaF96TldtNHdfQWFUVmxic0hCQQ?oc=5"
+      },
+      {
+        "title": "\"Przyprawia mnie o mdłości\". Tusk o informacjach Interii ws. Nawrockiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUo3UDBRSGR0Y0JpUXdqb2FhTm1GQlpCRVJWaElYaFNjRWdLUFhFVjdFcFhzZ1Z3TXJiVjdDVF9acVNIdE9VRFUxUG5sRHdCeUNZYVhxVm43emhaYkx0VERqOG8xajZwLVBpTnJmVHV5bGJzczgxVEtmWWZuZkRPS0h1OGYwbDNac1FsMmpTUUFBLW52S1pSRnlSNXBLWXBrZ3ZuWk9icVc3M3c?oc=5"
+      },
+      {
+        "title": "Kawalerka Karola Nawrockiego zaważy na wyniku wyborów? Jest nowy sondaż prezydencki - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVppV01SdS1kb0tub1EwTTFGOEw5YnBfWWN1R2xZMTRnb0U5a2VJNTNaeW5neFFUd3k5U0lqTG9jZGVUemJIRlVGM2c1UU9IaW1PZjJNbkd4M29YRlN0U1RFZllvb2JFTlNhdWUtNEpTR2FOYWEzdHp0M20teVd6OFdlQXF6dFpfRHNIdFd5eVVmb1I2OFp4WFNNN0FzeGdWSUM1eg?oc=5"
       }
     ]
   }
