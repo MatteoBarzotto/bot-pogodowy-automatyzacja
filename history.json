@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 05:05:59",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.7789,
-      "EUR": 4.2806,
-      "GBP": 5.0319,
-      "CHF": 4.5855,
-      "JPY": 0.026401,
-      "AUD": 2.4383,
-      "CAD": 2.7346,
-      "CNY": 0.5236
-    },
-    "crypto": {
-      "BITCOIN": 363990,
-      "DOGECOIN": 0.645613,
-      "ETHEREUM": 6876.29,
-      "LITECOIN": 345.96,
-      "RIPPLE": 8.09
-    },
-    "indices": {
-      "^WIG20": 2718.17,
-      "^WIG30": 3507.17,
-      "^WIG": 3507.17,
-      "^NCINDEX": 243.51
-    },
-    "news": [
-      {
-        "title": "Ostry wpis Sławomira Mentzena o Karolu Nawrockim. \"Są pewne granice\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHN5cTFiWWlDYTQwRUc5MWlETk03cE4wcHRPdVRGY3NWeGpwMWl4OGJfbEFIY2FCaWdmS1lGa2NYQ1hxNDZhclZWTW9XaVdvQzZTTk1UeGdYS283dUZ0QUVhSVRFdGlfLWZzUzA2NGdSUTJMNThvbnhhUlQ4ekpkWHRLbUNtb1phY2l6QUtOaHRjYUtTckc5bXNUYlI1OUtGWG5UVzNObG52OXVETDQzUQ?oc=5"
-      },
-      {
-        "title": "Atak Indii na Pakistan. Donald Trump zabrał głos. \"Przykre\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlhISHA1SGRpb0pQZkVTeVZtS1FpUHdMbVBwbWhmdFVsQ3RoaVFSVHlscmk5dmdjSGQ0VzlkN1NzbVNmZnFOYjBaWHJqSWZqWmFzWExuTUN5Vnltd3BiR1hEYVFrRUpmd3VGUDFMbDA5RE01OGdUTDZNMWV1OE9nUGdYYnVQMC1GdU5BLUxRTnZ6dFk4UFk0ak5DaTlIZXRObXhzUEZHd3k?oc=5"
-      },
-      {
-        "title": "Friedrich Merz zaprzysiężony. Oto nowy kanclerz Niemiec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQem5McUs1c2YwWUZsQmttTUdua1htVW1XTWZZUDFYY3BIbUMzUV83dmdZWDJjLTdhMWxpNjE3ZnRtQkE1UVV4aTg1eDg3T1k5NjRBQVFSNnFtbG15Zi1iWEZyX25tV3VaOXR5RmdzS25wNFQ1ay1vZGRwQ0VoS1d2RWtaWWJuVUUwRUd3OUNaN3ZtMUFPUWRiZ051dXZydXdlREJ3bzNRWGZPV1Q4NHUzN1pwSQ?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-latki z Mławy. Są wyniki sekcji zwłok - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3I1di1Fb1U3bUwxOUVjb2QwY3VaX2lNVFhSMmNRQk5DWnRUZGpEX1U3MmpyNFVKRmdEdDRBdGt5OFk2Vk9HZHpxTUxHWjc2ZkE5Vy1ncDhJOTlxM1VsX09fQ1YtSkhDeEp1aS1BSHhpZFdacm0wOTM1TmEzQVI3VUNRd2RWZXc4aExRR1VjZ01FWEFnT1Z6TEZJLWJqcl8za2JOcGttaHFxbWI2NkVWbHQ4aw?oc=5"
-      },
-      {
-        "title": "Duda odpowiada na krytykę Tuska. \"Denerwują się\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3E0OUtzOTRoTjVfeTg2aEZkbXozVV8tMmh3SWkwdTJHN0RtWnBMS0hSOTJScGVHaUluWGNEZWgzVzZ1Nk5QRUhES0dmNXBNVDlFbHhnaF9YdXVzUFhmbkVOTUdKVGpQMFRFeWx0ZXV4WXNUQ1M4aDdISFRfZnJsTjhNbEtFMzVsNkZZY0dFeF9tQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 06:17:04",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Trzaskowski pod ostrzałem Stanowskiego. Ważna rozmowa, która mogła nie dojść do skutku - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdURjOW1YWjIxWVhwYVdvQVlZMFJJOFo2dmFMWEl0UHZBb2szZVN6X2xnSWhMaHpYX216UHpxUlNEQUFmTFJWX0htNWlYY2lZNlNiYTBIeUpfOGJQTWlhQmFoc3BqbUFjY0JyYVJKRVVuV0ZHWVV6Nzlwa1NMS19ORkRxQnhxa3JaT3o5X0ZxUmxaTkFYQjdYWEktTXhzUllmdGd3MjZqMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-09 11:14:31",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.784,
+      "EUR": 4.2714,
+      "GBP": 5.0199,
+      "CHF": 4.5762,
+      "JPY": 0.02613,
+      "AUD": 2.4271,
+      "CAD": 2.7294,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 387677,
+      "DOGECOIN": 0.769966,
+      "ETHEREUM": 8955.65,
+      "LITECOIN": 370.53,
+      "RIPPLE": 8.91
+    },
+    "indices": {
+      "^WIG20": 2822.58,
+      "^WIG30": 3640.1,
+      "^WIG": 3640.1,
+      "^NCINDEX": 245.15
+    },
+    "news": [
+      {
+        "title": "Ujawniono dokument, który rzuca nowe światło na relację Karola Nawrockiego z Jerzym Ż. - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlhhWlp2Q1VCbWlvYldyMjJEb3I2c0tqZVJBVEZtTHhfZUxibUhNMC1UNTdQNFd4d3BNelJ3UThDQ01wNDg1Q2t4Z084Rml2QzV6SndfMzNEUUZzbGlzdDVmRDFtUWwyLXI3M1p6UDJWUi1WRDAxZEVadTdnOG5KalFMRzZXQ3k4OVdqUVRxX2lMdmp4TEgtaVNfT1lSV1JzVXA0RDZtdy1sVzhqX0oyOEpxdk8?oc=5"
+      },
+      {
+        "title": "Zastępca przewodniczącego KEP: nowy papież będzie blisko cierpiących - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDZ3Ym9Obko1eDhFY3hnSjM3ZnR6ZnRwQ29URGpkUVNna1N6R3lSajJucUJwTjhvME1Td0JBTWJTNy1JZlRoZzRoZGY1RTJNSkRXSEdlMVNxdS1BcmhVTlQ5RnY3YmE0MVBuM1dBT2RKSWF2LVRnQUY3MHZFT3padkk2d1RmLUZlbnJZOVdQVzV5REhGcmNjc2pxRUFyQjV2eDNwTnBrdWFGbTdINjM0TzRJTXJkdWVZSy1B?oc=5"
+      },
+      {
+        "title": "Jak to jest być adwokatem diabła? To on będzie bronił 22-latka, który dokonał brutalnego morderstwa na UW - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3VkVGhwQ0s1eTdnb1l6YmFLOXRpSUJ1ZnJnMVBiS1k3LXJJZDlYRFZwdHA3VXY2OHMyeHN0SkhNNnBqSV9ZTmg3dVdtazRvNGxfNVhFeXBfU2EwVUdCTzh2RDNGZWpIbzFVTldpckR0dnpYX1hLa0d6SWlrV29hb0dHdFB0QjFrMktSUjlmQ1FIWkRTRldtYXliTUctVjBEUVV0NHlMbGRYQXJPcExzYTJBOXdWaDFwOF9PSg?oc=5"
+      },
+      {
+        "title": "Donald Tusk o traktacie polsko-francuskim. \"Zamkniemy pewną klamrę\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXEyQWluSWxVWk1acEhEUmpJMThLR3Zsa1ZYdm1pSEtwbUZEb1UwdDh6TlBhSW5PRWVLMjBFQWZVVXFoNHZlekRzLWJ4T0VFU0FjVm9XaGxWWlZmZmNfZnpkWEVtcjJLeXA0Y0dHUC05MjREZzZfZlVNYmZVb0tnRVE3WFFhXzJxWklJNnQ2bThZQnFyR20teEtkZGp5dHZNdHh4VUd6RnhtbXp3SXc0ZUFaVzkwQjB6VkhMbnREbkhqa09hMlE?oc=5"
+      },
+      {
+        "title": "Zasiłek pogrzebowy w górę. Jest decyzja Sejmu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU05Ua1hQWnZ4NHNRRTg2TkRNeFhud3N1Xy03TmRaMnM1QUNmZTdXcGhWY3NTLTR0V05xMVUzUHl3VnpyVGh6YnktWWtORUowbmRuMVNrVFhFUnA5ek5Na1NpMk0xRWpPdm4waG4zWVNnRlJ5amppOXZWN3Vqa0tvQktJay03Q3huNFVXRHpzT2U2Sk13eEVvMGZQcDY4M0k?oc=5"
       }
     ]
   }
