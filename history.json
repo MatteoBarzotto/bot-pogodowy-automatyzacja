@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-07 22:15:23",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7642,
-      "EUR": 4.2757,
-      "GBP": 5.0205,
-      "CHF": 4.5595,
-      "JPY": 0.026266,
-      "AUD": 2.4364,
-      "CAD": 2.7293,
-      "CNY": 0.5209
-    },
-    "crypto": {
-      "BITCOIN": 364338,
-      "DOGECOIN": 0.643131,
-      "ETHEREUM": 6799.2,
-      "LITECOIN": 333.42,
-      "RIPPLE": 8.0
-    },
-    "indices": {
-      "^WIG20": 2748.53,
-      "^WIG30": 3550.37,
-      "^WIG": 3550.37,
-      "^NCINDEX": 245.81
-    },
-    "news": [
-      {
-        "title": "Rozpoczęło się konklawe. Makabryczna zbrodnia na UW. Podsumowanie dnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajg4NW1sT29HeVZaTGRvR0VaNTBIS1NJbE00bGRiZEs1RkNCX2xOMFlnS09FcGRPMHI4VHowNE43NG05QUlJMnVMdy00MHJKNU11M3NLTzBabldsbTRtNlJQV19yRGxTLWlfM3VFVlRRaTY5amtaYWtEZFhpMjhPOF9rVFJreVlvY0VpbDJmZm0wd1puc1VDU0poMERERXJpQk5aWDdkUjBLSFVDbVE?oc=5"
-      },
-      {
-        "title": "Sztab PiS nie chce, by Karol Nawrocki stawiał się na wezwanie Szymona Hołowni. Znamy kulisy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSENFWVFHaldremNfRnNrSXFHblFYRjRsZEs1aENLMV81VzF5UzBvVzgwcF9xNGlzNEZ3c1dEVlRvdHM4cUZFRW5MWGF6Q2ZEcWp3ZWMycXo1Vm53YU9TRzRSSkhjUHp0YS1xazRxTGMzRVdDZlFhOEFMb0pZV0psT0RLV2JqYmwyVHkwVHpLS2V3Ukw5bUs4NllpaFllU05EY2tiZHJTR2dJb2M5dkhGclcyd181ekFnMTlYdTBfSXNzeE1CMURRTVFxRk8?oc=5"
-      },
-      {
-        "title": "Jest wynik pierwszego głosowania na konklawe w Watykanie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRF9rV3hpUVJoRFZyY0J2Y3BEVzM5Z2piYVN6TkN3TWxWajR0NVlxcmswWm9EYjRmVU95NXVRWEVZMkRVeWhtejA5Qmw4U2oyTHdfQ2xBWGFiaTVncWhOdm42c05YVlVyXzJ1RG1QX2J0SzRJRE5fRmF1YlFLd1pHMkk2MWt1Z0lHbDJyRnBFMnV4ckZxbXplR0I2clExY1NtcG5qYmgwSnRQdw?oc=5"
-      },
-      {
-        "title": "Merz spotkał się z Tuskiem. Są już uzgodnienia. \"Wystarczyło nam pięć minut\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmhPUjB2aWRwMnpZV3RLRHRIbUNOeE9pNTMxQndfdXNCS2cwZzRJVkoxWUZFYS12ZlV5Z3ItYjJTeG1FSERLVjZUTkZZNm03UWJKZXRPaFNrUV81c3dTZWdudGVnWkk5NlU4WmY2WXFYQlBTTzJWanRQZ1VYNVFsYk44azdjUGRvWW04Z1ZDTlp2bE5FNDhqQ0dtVDZpMmR4NUlPYUstQ3RPSWlSODh2TUQ0T1hiSUNJVVNHR0NGNVBkMEFlb3c?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie: Nowy sondaż. Wynik Nawrockiego 6 pkt proc. gorszy niż Trzaskowskiego - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakpNVVppb196QzdUTmVtdjdienB4SG5BSnpaSUpsMWtCMTZNcndCNDRkVHJ2cE94QjNoVUFsYzZPYUVVMWNWd0xVZGdEb3FLOUdZRHB5VXhnYUh2TzlsOXRIRzJ3M0xXaEZFQlp0bmhNTERld2NDOWxUSkdOVXlVX2xwTlN2djlYY0tGaUI5cTlLdG1SVWJTOHgzTnlRZHlONG9Qal9UT3lUUjBNaWIzWHZDcVVCTmhTTjJtYk1KaUZ6Q2lqSUhwd2J5UTBSajVOMFRPVkxR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-07 23:12:21",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2618,6 +2565,59 @@
       "ETHEREUM": 8808.55,
       "LITECOIN": 390.48,
       "RIPPLE": 8.92
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Zabójstwo na UW. Wiemy, czy Mieszko R. trafi do aresztu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGVTRnpUak5MM2lDVlVNbEppRkdMdklpNkNjOUVDclBSMUpmcy15OEhNejJBVWNYS1NMOEJpWGZpRENQa2pPdjdhWTdTSFo4ZnBhSC1TLXlxakVhbUowLXNWY1NYS21VcDJQd1l3TWNoRC1aaWJhOFJDb3VSQ3hDcUZIYTlDMnBKVlU4YXlSbVFWUEhtZkxqTG1pbWFkQkYxZUMyRA?oc=5"
+      },
+      {
+        "title": "Michał Płociński: Jest jeden kandydat, który zdecydowanie zyskał na debacie prezydenckiej TV Republika - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckVOQUk4WlJkM0lzVzBCZ2xBcERjYWdLbTI3YUZtOG9WaTBkdWZGNENJXzVJNzFXMDQyM0l3RWRfSWlRd1BSRi03c1pBOWUtaWlGTkttQ2Fod0c1OEN1MldXX19jNFdSMXhWRHRFejNvN1JmUlhLckZrMndXNlRhUmc0R1dOQmNCYWU4SnBod2xJQUNxdVU1bWVTSnhwckhhVjk5UHZwa2RWSnQ0VEZPNDdQazN4aUh6em5DRTNYUS1JWmlLY1B3dUM1TV9GNS0xTHp0NUlydWc?oc=5"
+      },
+      {
+        "title": "Papież Leon XIV udzielił odpustu zupełnego. Tak zadbał o wiernych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDBxd2w0M3QwZmJ6bnB2TVA5Snd2TjR0cTlmYlRnMk5GcHAxWm9WbDN2UWgtbHRXcTFsVDVhajNpSFdEQ1JUa0EzYmtWTFFSc0hTcG9yeDRldlFmLXRUMFJBM0dqY3RlWWZDenRybENMeEZhZ0J1aHdCeEsyLUZObnJUTmprVUJQX0VSdkJEU1pBaGdZQzhhT3Y3WWt5d3g1d1FsQ3NwMGs1MENiYmZXZzB0SWt2RkcyV2NmUEpNV1dpbkZvbXdOamE4ZC1iRVE?oc=5"
+      },
+      {
+        "title": "Nagłe spotkanie w Rzeszowie. Tusk z wymownym zdjęciem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2diejd5WkR1bjFYQjFuUm1YQTk0ZlJxUXdSSGtjTFpkR0lvSUZhWFNRVUJmb3F3dmhWeGlSNmE2WVpXanVlWDZCdlhXa3NBb0FGclRMbGdmeTIxelZPeXJTYkw4RzFZVE1yaVNUV0YyLUNpNDZkdUVyekYzSVUtYUNGUi1MbXJnTVpNTExIZl9FUk9KZmc?oc=5"
+      },
+      {
+        "title": "Polska i Francja podpisały traktat o współpracy i przyjaźni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09jTk1QT0k2WjhFZWRZNU5lRGFZb3o5M2c0UXdDMS1ZQXNuSGh4U2gwa2k1M0lhOWZyVW1FZjZjNEtxQTJXVXN6WkdoeS1QaEJ4OUl1VjlNUmNNNXI5bWRnWnJiUDB4dl9hTmRLa0pfZTIya0VkOElodUpkU0w3OFpNTkVLQ1hBVEZTREtrcmhMVmU5UzB6ckJKUUFuREU5X3hkSWZVYkNpSDg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-10 05:38:13",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 387782,
+      "DOGECOIN": 0.784853,
+      "ETHEREUM": 8797.61,
+      "LITECOIN": 387.87,
+      "RIPPLE": 8.89
     },
     "indices": {
       "^WIG20": 2842.14,
