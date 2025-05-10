@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-08 16:12:33",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.784,
-      "EUR": 4.2714,
-      "GBP": 5.0199,
-      "CHF": 4.5762,
-      "JPY": 0.02613,
-      "AUD": 2.4271,
-      "CAD": 2.7294,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 373809,
-      "DOGECOIN": 0.694387,
-      "ETHEREUM": 7433.46,
-      "LITECOIN": 346.29,
-      "RIPPLE": 8.33
-    },
-    "indices": {
-      "^WIG20": 2765.26,
-      "^WIG30": 3574.33,
-      "^WIG": 3574.33,
-      "^NCINDEX": 245.63
-    },
-    "news": [
-      {
-        "title": "Zabójstwo na UW. Sprawca usłyszał trzy zarzuty - Interia",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTJhc2dhbkNsQXdGeThOaGRGaWpQb3NNdHJld3lpNms3UGlWT2N2VVVudmcyZVZqb1hfZklDRlVKeWtxYmZ0dG1wQnYyYTJRSEhhWTBLVTVWOVNMblBuVDJWbGNvOS1RSHlyRUFkYkVJMVE1MTJCbUM4ZlNRV3NUSUtYQVdBRkF1Zmlob0tGUEc5NERXMjAxeTJ5R2V6Mkk?oc=5"
-      },
-      {
-        "title": "Konklawe w Watykanie. Nad Kaplicą Sykstyńską pojawił się dym - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDFZN053azdMbE5kYzFTU05yd1lsb0ZvalVuUGxHT3RNQWpZN1ZpNDZmMGtRSmZwc0I5Zm5xZk1TVk1aRFFVWGNxNWRFUENVNXVYMG9xNUlkR2pGNkg2dXJDVTBwTkE0TnhaOFJoTzVOdVlLZ0Z1MGRUZ0lvdk81Y3QyYU05WXdLa3hxYWpRQk02YlNoSGZ0ajJPNDZ4NUtEQ1pTMXV2QjFsemMxblprMkx2a1RtX0xSVWdCRE9Zbw?oc=5"
-      },
-      {
-        "title": "Donald Tusk uderza w prezesa PiS. \"O wszystkim wiedziałeś, Jarosławie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFRLM0Z0V1JHRlZxR1dadUU4R0FPd3ZZYnpPLVdkc0dOZ19FcEFQTFZuZzlfTEs4TTFUYVplU3ZkWlMyNVVCR3g2aExqdVlLcy1WUGdzSXVlSzM5Y3liZUM0X2QxYTltUnNTZGFwZE1nUlhRcERiVHVfTGs0TTFMaktORVNvMFladnEtSEhtbjVsSjl6NjM5ajN3MVVqOHQ5VXlqWVFHb0lIVHBhZllVZi1PRVdfb3RtSWV4bnBWNzdIVGdzZGM1VQ?oc=5"
-      },
-      {
-        "title": "Martwy 6-latek w mieszkaniu. Jest decyzja prokuratury - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0NyQU9hdXk3cWwzdTdiNU5OXzFQUlZ2b1RUVFdCUWpyTGQ2ODVYMWN0OHU1b3lTWHJLRWhtajhsV25NMWVsUHF2aUtENFhTMFdPR0lrM0ZaZXIwQzZwODN2c252MkdCNUEtWTNyNXNnTzRRV2dBRWRxRXV4dzZHUTZ6UUZTZmZEYnlDUnB0VmJybnRHSU8wWW1VVnA5VEE3OVU4Q0lGX3N6Nnc?oc=5"
-      },
-      {
-        "title": "Umowa mineralna Ukrainy i USA. Jest decyzja - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNi0xSWFKRWFMM0ZXaEJJLWFtUG5aSzFGUHpRLVp5LUpFYzJrcktZOHF3eG43SmtIRjBhWFhfVHMxSmJabEM4U2poTHpRSnFFX2lyUi1xeGxORlhYQ2U2Y2xlUjhPNy1fcURQUWdkZnR2SGQ4bGs2c0MxZHNDZUU1dVJIR0E4cUpxZHZxY1Fjbm13VXprR2psN09kN2lBQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-08 17:14:34",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2641,6 +2588,59 @@
       {
         "title": "Watykan pokazał herb Leona XIV. Są na nim dwa symbole - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGF4U3RYY09YZnJodFNHbVJaaEljRlJrNHNHbFM3M0ZWdmVNN3FTMm5fQWl3Z056RTNJdWZBbFZkMVZCNnhMX2pzUzdJOElxdlNGcU5velBvWGFzaWJQMHNHdGEtZ3g4RV9tbkxZbDE5VDNmNF8ybmdoVzNhWElHTmEwMGZnbG1yN01JV1c5eVZLYXVNYURiS0Jjazl2dmxrbGhxRjczTjJJY1BBUU43emtjT1dRbnhjNEtaZmM3bnZJVUFWR2FGUk9R?oc=5"
+      },
+      {
+        "title": "Wymiana ognia Indii z Pakistanem. Donald Trump ogłasza przełom - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVVNYjFqTk5samxIS21zNkdFN1IzNFRtNFljR2pCQ2VrdkJKZURKSENsT2tOS1BoQ2dZSzFqNGRSM1hFdnJDYjR0dlpRNDFjZ2JaWDctdTdEYnBEb3A1Sk5qMUltN2drVl9sZ0RYS1NLaWhiajRWVl9BRkVuUmRnMWVqd3pFVVczWXJEMlF6dTdRMHQ2aHFGWkN0eEhCQThSc090S2lOcEZXdnZuWHY2T01pdlZQS2h3NWc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-10 21:10:10",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 388058,
+      "DOGECOIN": 0.877373,
+      "ETHEREUM": 9369.45,
+      "LITECOIN": 388.02,
+      "RIPPLE": 9.1
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Nawrocki grzęźnie w kłamstwach. Trzaskowski zaprasza Stanowskiego na chatę. Ostatnia szansa Hołowni - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdFJzOTJDS3I3cC1DVHVQSVJMeURxdHJYSWdRX3JjcC0zZXYzOGItSVZGbjV3ZW9OVmFFSWtCQ0FEb1VKckV3YTh6c1pDUlowLXYweUhmamFxdUhYbEd0aDFZT0pKT2dwck0xbk1vVXdyQk9kU2xoV3ZXZzRhVE9GU2xwbl9pbVlUWGNxUG5ubkpDMG5WbVFZaWNSSUxBdmxPdWxvS1VldW9hdnFGYkkwVng1ZERTLUZtS3JoVlFlS2NqMjl5RUxDR08wZHVtYXRfc0VqTDgxQ0ZieGVCcFE?oc=5"
+      },
+      {
+        "title": "Ruszyła zbiórka na rzecz rodziny zamordowanej portierki z Uniwersytetu Warszawskiego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOUJuSTZMVHZQaHBFcWdVc1ZuU0FVUVNTeU82VkpmT0FJTGNzdlpLLTVXOTZ0dGtkV3Y5bmpNYnRLSVRhZk1Yak9ERk12VTNWZTN0ODMxLVcyYzhkRHR1OGNhVzhXSHQzRUx4bEl6bDdjZnEwVGUyR0VDWUFnLU83bmk2REVXYzQxbVRtbEkyLUN2aGk5YmlWMURyQnhLbUp2UXQ1WkdxSTE4X3NfSHpYekdwTXB2eDlmdkt4YjdGX21BS3hVaE9zZXBYUWlfTDBDOUZUaQ?oc=5"
+      },
+      {
+        "title": "Tusk w Kijowie. Razem z nim Macron, Merz i Starmer. Wspólna rozmowa piątki z Trumpem - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjU3WG9PYlU3Q0NKNml5UHp1OTNGUktrY3RZX3VSV0k3aGVuUGEybTZWNlgyTUZrUy02RW5ERlhzbVBESEd6dHdaMVNzcXJRVkJEczRaZzhpSmVxMTJZOENzbkQzUERPcWNSNTgzV2NJVTlSNngtM19nRkE0MmNqMjR6TG4wNVNDc0NLd1pEYw?oc=5"
+      },
+      {
+        "title": "Ks. Kobyliński o pontyfikacie Leona XIV: To \"alarm\" dla polskich hierarchów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWpOTFRxVVJXbTFtYk1lMDJ5Mm5USDBXS3RoMHl5cUowNmE2Y2l1Q1RnN0dSTGpPUkhaaEVIX09PZENOTmF6UG5SMXp3SF9CUHhZM2hPSE1xRU5KNzF4eW9TU09uSl82ajFUUGJodkFubUVwaVlEWkg1eWRnSVFRMjFPNlRMUk5kcE5kLThveVNkSE9QUEVZOGxUc2xDdGliYklFZ1VhNlI3UFM3NWdIYld6MVY?oc=5"
       },
       {
         "title": "Wymiana ognia Indii z Pakistanem. Donald Trump ogłasza przełom - Interia",
