@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-09 15:24:43",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 387794,
-      "DOGECOIN": 0.779979,
-      "ETHEREUM": 8835.11,
-      "LITECOIN": 374.28,
-      "RIPPLE": 8.96
-    },
-    "indices": {
-      "^WIG20": 2841.99,
-      "^WIG30": 3663.99,
-      "^WIG": 3663.99,
-      "^NCINDEX": 245.49
-    },
-    "news": [
-      {
-        "title": "Wojsko równo maszeruje, a Putin bawi Xi [GOWORIT MOSKWA o defiladzie w Moskwie] - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzRTR2xEWEN3emk3NXJ6a2dYcm1qc19KdWQ1QXRMQjVPZnZ2aHpFYlo2bnpXOGtsSWZUdkdEVzNKNFJlN19UV2hyTEZBbUlDa09jc3UxU1o5LXFXZE5MNmRoMHIwbHdSbXpJOGFCdWJQY3hISThSWkJrVjJyaG5aWFJIc3hjeU1OdkhGUDU0b1A5ZndUZl9pRmt3?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki miał opiekować się Jerzym Ż.? Jarosław Kaczyński komentuje. Mówi o grafologu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUE1EZms2cHZCbHc3Z29BaFc4Z0JWaFllVVJJbWlHT3NPMEo5Y0QyejlKQUNfZjJhcEZZOGQ5cXo0dDR5Uk55bWVnNkozVkJMUDZjU2l3dzR1NEZBa0Y0LWtfNFpQV04tQXN0b1V0N1E0MUJISThaaEJYQlhudWx1SzlrT1U0N2tlUFpjcDF0UFdxRE41M050czVNcTBJQjg5NTU4Qy1oc2Y1eE11aU81VE5LOEhDZmhmRHNFcW5DUmp5M191N19QcHFpaS1FbHlnMGlJY1dXWQ?oc=5"
-      },
-      {
-        "title": "Absolutny przeciwnik aborcji i eutanazji. Takie poglądy ma papież Leon XIV - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEdTejJiUzFYWFFDbzBNZ05JeUlqMk9hV0dUYWg3eHA0RjZINEVLN3F4UldWMlFNQnYzd0o3TDNsaElZSVFBZ1gxREZySWZJaE5QYUU1WHNWd1lwOEpxUlpTVDA4MFo0elYtakJsYmNsT0hRN3FaUXNKdFhmdzJGRmZNaWl3UkVVYk9NRFI0dlZkUzdNZE9HZ2UzeHdfMFV1U3hUQjU1emI4em1kcnBpVm5pMGV1bC1XaC13eFhCRlB0OVhHRGN3?oc=5"
-      },
-      {
-        "title": "Nie wezwali policji, ale nagrywali filmiki. Policja zabezpieczyła nagrania w związku z zabójstwem na UW - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVNYV19Pd1pyTHNKb29YZ0lxa2MxV1VCOHNQenMxZERMaUlQNThiLVZGWmlIdmxOQldmcnJIMlZDN2I5UFlYSjBiYm5NSzlxN2pnR05FMzAtenVhWTlEaU5GdVB6aEZFUW1mb25lZnI5alVoZXpMdy1WRnFXdGpBbzdMVFcwQjFUWVM4dXVNWVVUc1NESF83Ym1WSExVZkM4bGtmdHNzbk95TDBDS1BEcEl0ZHJKdlpvRjF2X3BMTU91MTQ2cVJzN0xYWENXN3lQbFZTZDVrd1VuLUl3dmhyLdIB3wFBVV95cUxQVDFZU1lEb3U1REZVbEEzMFFxOEUtU1l2dEpJZ1VzME1qbHhfZXlvTzhCdzJlWjN4SlpEbjdkYmdZTmVXVXZsTzMzRnlMWHoyd2ZxZEFaOExwUVlaN1NpaU52VjlHRTBkUlFla0I5TWQzZEIycWo5RWZ4TFBoX2RtbW00eFhjeE1wdE95STdFLVFfZllsa0ZoRGxhMVBZbFZUV0lpOWd4WHBWdUZnWnQ0Q0FfYVJJZ01kQnMxQnZUSEdYZERUblNJc2Q1T0hUdlk1eTlCN3F3aU41M0I2ZVZN?oc=5"
-      },
-      {
-        "title": "Czy afera z kawalerką zaszkodziła Nawrockiemu? Jest sondaż - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjhCSW55Q21Zdm9fZUxibDVmZXMzbHFDUFBRcVJlakIxY0FPcml4ODFzY3l2UGZwbW02ajR6YnpVZk5OMzY2c2lKNWlUSGtwMTVtTERNbG1PbmFocjhwenpaNy1sb2VvS1FhbnM0TkN6QVBtdjZhTXV0WlA0eGlaRFBtcUpja1dEeEE3bnliZ0p6cjFUYWMxLWFHaWhCNl9jY2Zr?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-09 16:13:37",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"7. Dzień Tygodnia w Radiu ZET\". Zaprasza Andrzej Stankiewicz - Onet",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnVqUlFRUWdocjltVU9oRDRQRE9aNVlSYTlrN0N2UDFvTnNGSFVid3JwaTc5dEJ0eXJlQXJ1T1ZjZ1hPOWI0NW9FOWItVGNLQi1tYXpVcFFKZFNDWmNqSjNSbHBkYWd5MG9FQVNYUVhGYU10bkxTY25OOWdlSlFaTkx4Sk03WEhHSmlhcTd5SjhSazNpdWo4SVF3S2oteVlmZXJCVmdUcVBhWjJYOVFhRzI1QmpWMXRiSE9acA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-11 20:16:47",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 391054,
+      "DOGECOIN": 0.866934,
+      "ETHEREUM": 9343.25,
+      "LITECOIN": 376.06,
+      "RIPPLE": 8.88
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Magiczny mecz Barcelony w El Clasico. Przygrywali już 0:2! A Robert Lewandowski tylko patrzył - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkZPV3g4OGN3d0hpVTl4T01seGViYVVhRFVTb2M3RnlCNmRtSHZ0bk5JY0oyV1FRZmw1bmZwdFRlY3V1WDRxRmlEcWZQdEJrOUR3NmIyUlJrS2N2bEFwZ182RzFtUUpLRU4wUmlGNk9TUjh3dDRBUVFzanp6TURueWpBQmFfQkl1N0JqX2JFX1lXaEpIX3dseGtXbHF1T3ZLbXdoXzJ2UnFwVGZLNGQxbDVUVDFpZ1hWdm9pNUhuY2QtSmYzNk9NOXppek1pWGpiMUFScGQxXzNkQQ?oc=5"
+      },
+      {
+        "title": "Wojna na Ukrainie. Wołodymyr Zełenski: Będę osobiście czekał na Putina w Turcji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0dCNlp3b1ZMS2hPd2ZnQ3M4dHg1VXhrTWF6MkxiT3RTOFJ6M0FPZHlQbWF4dk03STRJZWJjc2U5WV9SeUswbUl3ZjktZ2c0d3FNVG1tN3AzN3ZLcDNsMnVEQlRLczFONkF4WGFKVFd3aWU0dTJlOHZyN0lKbUwyS3g1LVhobHVNZ3l0VnlEeGU2MU5ZMFlFazl0TDBDOG10YTB5SkY1aUVxRHM?oc=5"
+      },
+      {
+        "title": "Karol, który został nie prezydentem. Kampania w pełnym pędzie, a nagle zderzenie z betonową ścianą [OPINIA] - Interia",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlVPVmN0YWx0RTU5enhyRDZfdVpveklNUE5XZHVya3F2Qk9tcDRKTEFWaW5KM25vcHhqc21nY0tscVJVaWZJVFhnSXFfbVBOX0MxM08xWUxmdGZLUFRGV000U0lvRlZDUVREN01xR0pXV1J1MmlhUXRveUJ6MGFHUUJVdTRza3N4bktTMWdVUDhxczVvTDJ1RG5YRy1uako3aGJwRg?oc=5"
+      },
+      {
+        "title": "Jędrzej Bielecki: Trump rozmawia z Kijowem. Czy Zachód znów jest zjednoczony? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGdXcXl3OXFDSVVybFBWZmxaWktxY2dxeVhMcWdOTXRFWmd2YTYtYXFkY0tLanllRFNLUm5BVmhvMmV1ZFpfMURSeHBwUGtZSTV2cUJRaTdiMEZzTFhaTENVVWo5cGc4RnBQMzJZb3hPdHBFSkRxWklOSHFDNzdEQWF1aTgtVGhVcWJqWmMtbU4tRTNhUFlSYklDUzdVWTdiQno5QzRndFlHVTRsQ3lkRUpmMGlUdw?oc=5"
+      },
+      {
+        "title": "Rozmawiali o ataku na UW. Poseł zaczął mówić o karze śmierci - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1ltWG82MVpuVHdMZDcyNGEtUHhqRmtGb0w1dF9tMEdyZGIwQ1E2VXNya0VRN0Zac0xpc0haME16T0EzN3Q1T00xNjhxb1FZd21Mc0RiOTZRcVBnWnowdUJDVWVLYlZZN3UxZmFzUUc4YmFwRU52TEIwRmt2TXZXVXlwMWw4eVJwdDhoSGFtUGlzZWZPOE40TV9RY2lSZw?oc=5"
       }
     ]
   }
