@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-09 16:13:37",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 389109,
-      "DOGECOIN": 0.782789,
-      "ETHEREUM": 8846.0,
-      "LITECOIN": 375.0,
-      "RIPPLE": 8.96
-    },
-    "indices": {
-      "^WIG20": 2845.9,
-      "^WIG30": 3668.88,
-      "^WIG": 3668.88,
-      "^NCINDEX": 244.5
-    },
-    "news": [
-      {
-        "title": "Tragedia w Słupsku. Nie żyje trzyletnia dziewczynka. Zatrzymano dwie osoby - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVNrYkNLTmF0LVlzUGtucnhzc0N3SWxIMHktR3FZQ3EtN19RT3VBRFdrS19ybGNpZHl0MWxwaFB6d1VMLWxqSTNaVHI4aHBpNFBCRlhjYXdlU3daV0ZyQ2IyaUxVWjNGVEh5UERXSFVwa3M3a0k3bWJoQzlGcTFVbElzSFFVREs5R2FnQ1dSN1hOZHQtZHZDR2hjZ2VpeFF5Qm8ybEhWWVp1N2gyX041ZDlaV3pfdmRhNGc?oc=5"
-      },
-      {
-        "title": "Nie wezwali policji, ale nagrywali filmiki. Policja zabezpieczyła nagrania w związku z zabójstwem na UW - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVNYV19Pd1pyTHNKb29YZ0lxa2MxV1VCOHNQenMxZERMaUlQNThiLVZGWmlIdmxOQldmcnJIMlZDN2I5UFlYSjBiYm5NSzlxN2pnR05FMzAtenVhWTlEaU5GdVB6aEZFUW1mb25lZnI5alVoZXpMdy1WRnFXdGpBbzdMVFcwQjFUWVM4dXVNWVVUc1NESF83Ym1WSExVZkM4bGtmdHNzbk95TDBDS1BEcEl0ZHJKdlpvRjF2X3BMTU91MTQ2cVJzN0xYWENXN3lQbFZTZDVrd1VuLUl3dmhyLdIB3wFBVV95cUxQVDFZU1lEb3U1REZVbEEzMFFxOEUtU1l2dEpJZ1VzME1qbHhfZXlvTzhCdzJlWjN4SlpEbjdkYmdZTmVXVXZsTzMzRnlMWHoyd2ZxZEFaOExwUVlaN1NpaU52VjlHRTBkUlFla0I5TWQzZEIycWo5RWZ4TFBoX2RtbW00eFhjeE1wdE95STdFLVFfZllsa0ZoRGxhMVBZbFZUV0lpOWd4WHBWdUZnWnQ0Q0FfYVJJZ01kQnMxQnZUSEdYZERUblNJc2Q1T0hUdlk1eTlCN3F3aU41M0I2ZVZN?oc=5"
-      },
-      {
-        "title": "Nowy papież to poważne kłopoty dla Trumpa? \"Dwie różne narracje, dwóch amerykańskich liderów\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3NpZ0t5MEpGcDhIZ3VscWM3enhIZTFzanJKdjBSdXVhUHlzRzNybWVfZzNQTGJzc25UNXR0RmgyakhBdEFyRTVCLWZ6ZnpEa3daaS1jOEJIdkJaX2ZZRERGb25PX19DM0hzdHF4WXd6LWNLUDN5aW5tYTJsT2pEWUFhVFFRSTVwS0xzV21BY1RIUEdJYXlEaF96TldtNHdfQWFUVmxic0hCQQ?oc=5"
-      },
-      {
-        "title": "\"Przyprawia mnie o mdłości\". Tusk o informacjach Interii ws. Nawrockiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUo3UDBRSGR0Y0JpUXdqb2FhTm1GQlpCRVJWaElYaFNjRWdLUFhFVjdFcFhzZ1Z3TXJiVjdDVF9acVNIdE9VRFUxUG5sRHdCeUNZYVhxVm43emhaYkx0VERqOG8xajZwLVBpTnJmVHV5bGJzczgxVEtmWWZuZkRPS0h1OGYwbDNac1FsMmpTUUFBLW52S1pSRnlSNXBLWXBrZ3ZuWk9icVc3M3c?oc=5"
-      },
-      {
-        "title": "Kawalerka Karola Nawrockiego zaważy na wyniku wyborów? Jest nowy sondaż prezydencki - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVppV01SdS1kb0tub1EwTTFGOEw5YnBfWWN1R2xZMTRnb0U5a2VJNTNaeW5neFFUd3k5U0lqTG9jZGVUemJIRlVGM2c1UU9IaW1PZjJNbkd4M29YRlN0U1RFZllvb2JFTlNhdWUtNEpTR2FOYWEzdHp0M20teVd6OFdlQXF6dFpfRHNIdFd5eVVmb1I2OFp4WFNNN0FzeGdWSUM1eg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-09 17:14:06",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rozmawiali o ataku na UW. Poseł zaczął mówić o karze śmierci - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1ltWG82MVpuVHdMZDcyNGEtUHhqRmtGb0w1dF9tMEdyZGIwQ1E2VXNya0VRN0Zac0xpc0haME16T0EzN3Q1T00xNjhxb1FZd21Mc0RiOTZRcVBnWnowdUJDVWVLYlZZN3UxZmFzUUc4YmFwRU52TEIwRmt2TXZXVXlwMWw4eVJwdDhoSGFtUGlzZWZPOE40TV9RY2lSZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-11 21:09:54",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 393206,
+      "DOGECOIN": 0.871706,
+      "ETHEREUM": 9431.39,
+      "LITECOIN": 377.95,
+      "RIPPLE": 8.93
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Donald Tusk podał nowe informacje o pożarze na Marywilskiej. \"Dopadniemy wszystkich\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUdudzZnd21Xb0R2enFDS1kyU1QwRklDd3hKMTVrejJwR0F3MkpfYk9udmZZOTVJcjBaNnpia1JBdkhQMU9VMktibUh5M3BHbFB6Wm1FcEFWM1hseldMbGdVSW9VUXNIY1JhZWU3NDh4bjdBbkxsQ0o3aW1wR1NJWWg0aUxQcjEyRU5JX3JtdU1iRE1TQkdpc0V4bi1RQWZqMlRRa2MzRGk4akxLMjVuaTVlYTM4YVdwblA5YzRhNi1tRVhFcF9hWG9vNkE?oc=5"
+      },
+      {
+        "title": "Kosmiczne El Clasico. Siedem bramek. Barcelona kapitalnie rozegrała Real - Interia Sport",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkR1UVF0RDlvNXMwZ2duSnNtd2ZIaWNUaEItRC0wYzViQ3B5bl82TnRZelI2Vks3UVFsUklOXzBOa2lsNS1vaFNOMTNNelFGZ2RwRzJCSlB5M1pJVThyVE9ydlNVZVlrR0dySUFSU212N1JUWUt6aTh5dTRkXzhRbnFFY2JJd2w0Tkl0SXFZTTEtUzRqTmtBZGk4YWxGYVN0MXI4NGltUnlzZ0stdllPMUtlYkFUZGJTWldUZmo0QQ?oc=5"
+      },
+      {
+        "title": "Turcja gotowa do zorganizowania rozmów. Erdogan rozmawiał z Macronem i Putinem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUlaSFpBclBHNHRVUXc4U29pbnZrZ2htd0gyN2NhcGlUU3JITUFxYkVlSWZ5VGtOaWpfVV9sQzVUWFQtcFJJekVIN29HWm1KZFBucXNRWmttQVlVT1hlTTlKd2RONlExck1HRklIZ3NZSXNEVmhYS1N0ajJTdzl4c3RKR3BmQmFiYk1DQ3k5VUpITWt1elZZcVZTbklKNUpSQ2FVODZnZFVPZ1hHeUlvdzRqS2NrS0piZGRtb3ZB?oc=5"
+      },
+      {
+        "title": "Kwaśniewski o wyborach. Tak ocenia Nawrockiego i Trzaskowskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2MwelRTMEFMQXVucFg0ZHFyd0dHeGoxTEM2WDdPVXRzXzFRQ2RaMHJYOTlnaC1ZcUhvX2xCYUVOa09qMWMtT3ZNRGdKbjRTSzNOOW4ySGRLOW1UdlprbFNpTnlpUDZJRnNhTDFBZ3ZIV0JCd2I3Zm1aajNjelhqNUJGemcwVXVYeHFLdFhrRUlUSDFFMTJ4R2JjdUFQYmZnOGdMRFBuejByOUdS?oc=5"
+      },
+      {
+        "title": "Jędrzej Bielecki: Trump rozmawia z Kijowem. Czy Zachód znów jest zjednoczony? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGdXcXl3OXFDSVVybFBWZmxaWktxY2dxeVhMcWdOTXRFWmd2YTYtYXFkY0tLanllRFNLUm5BVmhvMmV1ZFpfMURSeHBwUGtZSTV2cUJRaTdiMEZzTFhaTENVVWo5cGc4RnBQMzJZb3hPdHBFSkRxWklOSHFDNzdEQWF1aTgtVGhVcWJqWmMtbU4tRTNhUFlSYklDUzdVWTdiQno5QzRndFlHVTRsQ3lkRUpmMGlUdw?oc=5"
       }
     ]
   }
