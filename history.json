@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-09 07:13:51",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.784,
-      "EUR": 4.2714,
-      "GBP": 5.0199,
-      "CHF": 4.5762,
-      "JPY": 0.02613,
-      "AUD": 2.4271,
-      "CAD": 2.7294,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 388828,
-      "DOGECOIN": 0.735682,
-      "ETHEREUM": 8374.11,
-      "LITECOIN": 358.71,
-      "RIPPLE": 8.68
-    },
-    "indices": {
-      "^WIG20": 2767.86,
-      "^WIG30": 3577.49,
-      "^WIG": 3577.49,
-      "^NCINDEX": 246.55
-    },
-    "news": [
-      {
-        "title": "Robert Prevost przyjął imię Leon XIV. Najważniejsze informacje po wyborze nowego papieża - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGhCd1p0T0FrU1JzSHVObjM1dTgtQk9SZXVwZjlDVUl1YWFXcDRSOWhLOE1hU2pDMG83Y3VjNVFnTVZzUFVPRlBWRlhKOUlGT1NDQ1NRVUVDa2lDWC1xRkZmRnpLQ1dkOWx1QmIxSWhDZkswY3gyTGZZSWs0SmJZQTkwVGVZMUtabUZ2QmYtQUZCQk80QV9wUnE2ZG90RHpPU2ZEanUxSG9hY3owNWVWZV9oSQ?oc=5"
-      },
-      {
-        "title": "Morderstwo na UW. Prokuratura podaje nowe informacje o sprawcy: Wymaga opinii biegłego psychiatry - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGVZNkQ3RW5YSC1LWTJxM1VRWUhOTFppa29McnVNRVFvSkpOUXo0aXhUN3JjVlVkUDZXYWt5Wm5FMmQ4V2xGUk9pLVRONDhmNGZIc0twV01kdkFIUHVxdk04Rng4ejJWaDNBaW14OVBTd3VkeERPVzd2RVd3Qk5KVklEZkR0OWg0MnlGY21WbzlReVYwbEVFSm40ME9vNHhXUVRyTHhobV9wT1dmakh0Q1Zpdw?oc=5"
-      },
-      {
-        "title": "Lex Nawrocki? W koalicji rządzącej parada pomysłów - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWtXUWxOMjN2MllGc082WE52RmNqSWhhWkM5V3FQVTdST2FHREswLWJxc1V6SDRySnB2RFQ3VlVCbU11Z3QxZlNHWXZLTkZ0MG9JYW5KNFVuSHpOV1V6bENGT2F1U09IUWt6b1dtRl9tQnFRcms5WFJLU2NzbVJUdDZlRm1Bcm5zWGdVeUNiYkhXWG5qT1p6bS1HSFpNWlFRMGQ0Unl2MA?oc=5"
-      },
-      {
-        "title": "Wraca temat reparacji wojennych. \"Spiegel\": tego boją się Niemcy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjRrdURNdzJacEFxM3BVb2ViN0J5dlVnMXZycU5iakd6cGphN05MUXlwNUc2dm1XVXBmMEkxNnhsVUtRbGhfN3N2TVJJdUtWRXZNMTJ4eXA5R1ZRcTlVdEJ5dmVuVTMzX29hWW55QmpXdFlOeXVfMGdyNWZzQXJQSnRjMGgzUE11UlhyYlpLOFdEa0dPOHYxXzlpSXN0VWEwTTRxanpPSHU2eE5TTDljR3NBbm0?oc=5"
-      },
-      {
-        "title": "Premier: Polska armia najcenniejszym europejskim ogniwem NATO - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemh4RnJnX0ZWa1ZsQzNVUWs5bzY3U1Q1Mjg2aE1sR2pEZWQ3XzVWMnNaN2N0YmN4S0J2Z21wY0l5TjlpWWpXaVZKYkZKQ0xWemVYRXNSdUhFejVKWWJZZEdnRzFJaGdRMXRIUjdGOWYwa2x4NDNxcy1mLU9yNUw1MllsLXRJVDhpRDBmTTBVTmxZdGk2ekFFdk9lY3Rvd0U?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-09 08:20:16",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Starmer: USA i Wielka Brytania zwiększą pomoc dla Ukrainy - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVZPbzJRcWhoNk5QaV9aN01ZaGM2dF8xdGdBR1lNSnc3NHltRWJBNW1IVENjVmFOYmxvMFVVU2Z3OG1vNzNVNDBQMXc4NGhFU0E1eFF2WXpMOWQ3bTF2VHV6cWZEWlhjV2xhMzJhMzNCM0Y1ajlCRHR1ajdsUlFVYlZmMUVwMWJRYU1TaHV4RFlKdVE1eW5CaWE2QdIBlwFBVV95cUxQeXpqZUdXemxnLUdXcVplbkhzZF95M0JFUmpnX2FERDRHd0RrWDE1NDBvU2FBOWRHTFNndXBnTFpQbjFnVi1TWUpWVmgzeHNERU1SV0l2MkI0R1A1TVpxRU45bFdDS1Nydm53M0dXdXc0a2twbzhkSDZZZVdIanRNOE1mRHJVOUktSkhITGxKQzZaMHBaSEVV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-11 12:12:47",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 392586,
+      "DOGECOIN": 0.880004,
+      "ETHEREUM": 9463.03,
+      "LITECOIN": 381.02,
+      "RIPPLE": 8.93
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Zełenski odpowiada na propozycję Putina. \"To pozytywny sygnał\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDBiRHJTU2pfdXNLTTFZeUNuY1dPZ3QtU0YxdHJza3FYMmVDc2VKQVR6Rjd2Ylp4RjVJRWlta3V5MENmWUlZdU9WVTVVTGdGckVLdW1sendEZTBFYkQtSmY3dEo5d0s3cDVFVjBLeGRfdE96LXd3djhsaWZyR2dOU2pZYjN3UDY0N0ljdU5wSm8xNFJORGRTM3lZa0N0LVZiNjFCQnVlQzlSM2ZKWFB0a3phWk1YVDRvUmFB?oc=5"
+      },
+      {
+        "title": "Gorąca dyskusja o kawalerce Karola Nawrockiego. Poseł PiS dostał zaskakującą propozycję. \"Czekam\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3FnTHY0RjI2VDREVDVCVGtMUjlvN24zODBya19MUDIwa2RnTGRiZzlBUHpoNGFhNlVjTVlaSFNETFViYWx2ZkhYSlFoUlMtR0FBTHZ0M0w3V3kyZi1nSWs1VEVESkN6NmNQd2JiTnZPUHpKd1U2ckJGN05oeE9fQm9PdGxsaXQ3VGRwY0JoVjN0QUkwMkZkdTFIRkVPRjY4LWI5VEg1R2sxYjc5M1hHODBMTHk2ZG1pV3dVMnJWSkFjMWRBbVYxdXJvVlZFZkduMTQ0?oc=5"
+      },
+      {
+        "title": "To tu mieszkał Mieszko R., sprawca zabójstwa portierki z UW. Tak pamiętają go sąsiedzi: \"Żył w swoim świecie\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1DbU1JOC04TTRjRzl6YmdUZElOWmdqaWYtV0lkenFDdXp3QkVzbVBNOHR3U3RNOXZxT0p3ak54cXozNk5VaWhmYWdJaHpHN0JhUnlRanN3SWxsMXE3cW1Rd3N6TmFPaU02enYyT0wwemU3TTZLOEppRDU2MTZPcmlZX1ZvMVUtSWVRdU4yZE1QclB4dFRES19rcFJDeWFubkxWWlhPb2pDaFdRR1E?oc=5"
+      },
+      {
+        "title": "Samotna podróż Donalda Tuska do Kijowa. Rzecznik MSZ wyjaśnia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczhtb2RsaS14N1VmLXFUNjA1QWM2YWtDRjcxUFpjMFJ1OWJ4QkdoVW4wN0h1RThRVkF2T045XzJDSXF1elRzOVhqeDdLMHVRV1FQLVVVZkU5eTBCSzlfSEhRZWdDTThXenp0ZUswQTdqa2FQOUZGZjQ2Nm1aOGhIX3JMb2lfc3g2UEphTTBHYmZRQWhNSmVJT1pneFM1eWVLdkIxeEMzSDBpYVdjaUpHci03dDNhNHF3eDJyZ0F2eWc?oc=5"
+      },
+      {
+        "title": "Papież matematyk o sztucznej inteligencji. Jedno z wyzwań pontyfikatu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkVrblNWV1BpOC1haWZxM1NleTdVZXRSM3p4aVZacEtuYnRITHFnZjNNS3JCMzdrRTZBd3NLcDJZOGg2M0pUaDFDQXZxNW9maVU4Qi1icW9zaEMxLW5XVkhyNkprY1VHMGY1eDZpTjJfSTNYLVRFQkowVlZ2S0RMUzR5TU5SOTM4THhnbmtXSzNjQzNQTXQ4bC1xWVU3VWRQNi14dVVQbTR0TUpCTU9mZVEybnBSbnY3Qm84c25ZQQ?oc=5"
       }
     ]
   }
