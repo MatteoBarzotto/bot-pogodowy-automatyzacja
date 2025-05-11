@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-09 03:06:37",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.784,
-      "EUR": 4.2714,
-      "GBP": 5.0199,
-      "CHF": 4.5762,
-      "JPY": 0.02613,
-      "AUD": 2.4271,
-      "CAD": 2.7294,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 388919,
-      "DOGECOIN": 0.738964,
-      "ETHEREUM": 8318.12,
-      "LITECOIN": 357.74,
-      "RIPPLE": 8.76
-    },
-    "indices": {
-      "^WIG20": 2767.86,
-      "^WIG30": 3577.49,
-      "^WIG": 3577.49,
-      "^NCINDEX": 246.55
-    },
-    "news": [
-      {
-        "title": "Prezydent Peru reaguje na wybór papieża Leona XIV. Nazywa go \"historycznym\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSmdwYUJxZVZMcHFfZnhydlh6blhxdVhYUTBBdElMTzFGZThoOWQtd1R5cTJYWDNWOWJQLU1ESmhqbC1MdmVEcXBVSE1mUW5DQWxibzBoZkdva3A5STZCT1dPWDE5cmxXNnhCVWx4N1luVW1wSmVTNjNzamZpaENhWFFBeWEzUjZ1SVBOc09aTzVibWtDdUtnMUEybkd5ZGpUT0pra0tBNlpLYlpYeGdUM2dR?oc=5"
-      },
-      {
-        "title": "Tragedia na UW. Zatrzymany usłyszał zarzuty zabójstwa, usiłowania zabójstwa i znieważenia zwłok - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbHExdWxDTDhXbTVnSzU3cl9rTjhCWVd3ejJtaUphN0ZmXzhLZDVqRzFDWXd2Vjl3Tmt4TTZKS2xyUi0zQkY3eTRjTTZQODRDY1c5Q2NJOFhmaHpVMEZoenJIWTB0Y3JYOGRJdlpBdGMyS01GT09DdHpOQlZyTDVPZ0w4MmtDNTUySnZ3enNrWWZHUHpoclV6b0JfbkdLbzZzeGVEbEpoel9iTWtlVFZ2bnAzUGVzbVZVUWc?oc=5"
-      },
-      {
-        "title": "Lex Nawrocki? W koalicji rządzącej parada pomysłów - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWtXUWxOMjN2MllGc082WE52RmNqSWhhWkM5V3FQVTdST2FHREswLWJxc1V6SDRySnB2RFQ3VlVCbU11Z3QxZlNHWXZLTkZ0MG9JYW5KNFVuSHpOV1V6bENGT2F1U09IUWt6b1dtRl9tQnFRcms5WFJLU2NzbVJUdDZlRm1Bcm5zWGdVeUNiYkhXWG5qT1p6bS1HSFpNWlFRMGQ0Unl2MA?oc=5"
-      },
-      {
-        "title": "Premier: Polska armia najcenniejszym europejskim ogniwem NATO - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemh4RnJnX0ZWa1ZsQzNVUWs5bzY3U1Q1Mjg2aE1sR2pEZWQ3XzVWMnNaN2N0YmN4S0J2Z21wY0l5TjlpWWpXaVZKYkZKQ0xWemVYRXNSdUhFejVKWWJZZEdnRzFJaGdRMXRIUjdGOWYwa2x4NDNxcy1mLU9yNUw1MllsLXRJVDhpRDBmTTBVTmxZdGk2ekFFdk9lY3Rvd0U?oc=5"
-      },
-      {
-        "title": "Mieszkanie pomogło? Rafał Trzaskowski odzyskuje przewagę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTJaSEt6LVhvN2w5UU1qdGpYb1ViNXllYnJnWTY2Y2N0TjZmTGZXNEI2d3o1c3dhSWlQem9GWlJ5dVkyRG1ibXhQaTNJT1VPMTVTbUZZcko2LS1PQkhha3ZpclQtR2hlbW93STV5ZmV6MGgtYnZhQnF1QVZZQWo3c0NJcTY1MHc0VWcxMzVMQ0VWbTgyZFFtRDZtaHkwb0h0bkRWOVhLZy0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-09 05:05:59",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pożar w zakładzie mięsnym na Śląsku. Trwa akcja gaśnicza - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjE3T1htUHAtVnI4aFA4M2RhRTlSam5waDg0S0VzU1ltQ1hxUnVXQk9aS016U0hTT0pSbUlzdjRRaHBTVmVJRUlmM0FBZlFKY1d1YzY5N1E0ZVJyMFFpSjlTaTBWUzQ3VzdncHBTQllncEFxSlp1UUpDVElYSU5tNWVLUVpIQm1XZmVQRXA5TTZHN3RNcHRiRUJxU2xyMzlkQ0JkZmJZTjFvRDRMVlhEUldHa0dhc0tvdml1Mng1NFo?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-11 09:12:48",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 389924,
+      "DOGECOIN": 0.873944,
+      "ETHEREUM": 9411.7,
+      "LITECOIN": 382.49,
+      "RIPPLE": 8.92
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Putin przemówił w nocy. Odpowiedział na wpis Zełenskiego. Wskazał termin i miejsce rozmów pokojowych - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjBER3dpcEN4N1pKbjE4bmF6N2xULW90Qk81cnRSUjNaMmxTYTZfYm95N3l0WXNDeWx6ZjNLc2ZfWWJzZTUxbU5mcWwwSmNacTdiVXJ4WHlRbnN1MWFLVDl0LVFON2EwOU05c3lwOF9FX3pTei1lMFo4TnFESXE0dy12WW1jVy16YWdRTi1oNHVGM1BZZ1dOX3lRSXB3aUR2MkYtVjhFSzNNdGxqRS1XbEZWRi1IVnBTa2NOZWdrN1dPRFU4ZjZyNnVpaExOVTlvX2RRTXRjNnF3NHZWWjNQeVFvdFB6aXNC?oc=5"
+      },
+      {
+        "title": "Sztab PiS nie opanował kryzysu z kawalerką Nawrockiego. Teraz próbuje przerzucić piłkę na pole przeciwnika - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakZkdzhvSXpuWlRfcW5kZFQ4RUp6cVZRT2xwWERqRXRCSTZfN2szM0xtTDdMOHJaUFd4TGRsM1dtZWNqaU9RSkc3T0p4MlVNMHBvUkJ5dHNQeTZxQkQ1YXBDU29OenFKd0ozRDhLd0lBNWNSd2xUX1RETlhDc0RVRGsxem81RnFMeU9mTUNHV1phMGh1S1FDbXB3QVZaaHhvTktnbg?oc=5"
+      },
+      {
+        "title": "Zabójstwo na UW a rosyjska dezinformacja. \"Nie robili tego amatorzy\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0RicWx6eUhnYWYwak13ckFydjdSZVRIMjBkTUtIWWxmY2hiYm01cW1xdUdvbWZ3cEpwd284TllfX21vTW1TSnNYTzdLYWJMVDRFN3RaLXpFbXBiSHVmcjAtOU1rV01NQ1FSOWU1dzZtZm4xMjZoR3dCNHVqYWVHb2NVVmZONHBqMWlybFhGVGQ0bEV6RXRobWFVWnZERmY1UTBoRWJTb2k4eWtZLVlhSlgzelpjQdIBtAFBVV95cUxNVnZWWE9NckNIbHFtT0xybVB4RDNvdGNMODBwbTc3T0JrTmNsRGxNbWpJUkpURDZPMkgyaVZTdnIzUnN2bS1KYUdSQ1dNYWp1blhyaUU0RjIwc1VNZHBZRHJGbmlVblJxczVlV2tTOHZaTnh1czByTmhnMkxlR3BCbDVyT1RnU1EyMmk1TW5nX2M4Rm5SRGEwQjRYV0hxRFVZR0wxaS1mclVtOVg0cDJxS09uUTg?oc=5"
+      },
+      {
+        "title": "Nagły zwrot ws. ceł USA-Chiny. Trump ogłasza \"totalny reset\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTNPWHF2VzJKUUd3SVA4cUEzcFVrSjFvUl9faHBGWUZXN1lxdWI4ZUpXcExVRkpObHc2QkRpeTBvakhBb25CX19PU2lWU0wxUGMtbWZZR0tXb3VOcXhNelNOTjhGR2RTRlVzcG4wMDhQMG9sYkFqcHp0cnZFYW5BamhKcElvS2lveWxqdnBTYU9CTFFCcVBOVFNkenUtdFc3MU90dGRkSHI3dUpfMWJsZW90SQ?oc=5"
+      },
+      {
+        "title": "Wielki pożar w Sosnowcu. Konieczna była ewakuacja ludzi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVJwYU85WWN5dUp3Z1hCdFhwUmdYNHlfUGpKZ3l4VE5zcUFiQmpjU1VkUS11dHE0LXhMeVlJem1KRklkREk5OFVQVzFSZ0tZYUh5a2pBQ0haZkh2V2wyOS1UNkE1MkVtM3dRRXJVX0VwTEhELXFMVVVmdVk4NVVWcEN2VGg5YU1pQUdmRDdsWkF4RjgwbDBBNURxdVVYVUNMaEliajlQTXNnUGkwb3VXLWpR?oc=5"
       }
     ]
   }
