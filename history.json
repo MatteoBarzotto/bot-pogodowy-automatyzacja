@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-09 19:12:17",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 386303,
-      "DOGECOIN": 0.762448,
-      "ETHEREUM": 8694.6,
-      "LITECOIN": 369.63,
-      "RIPPLE": 8.79
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Taką książkę miał przy sobie Mieszko R. Nowe informacje o sprawcy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGhQbU1VbVVOT0VpR1pva05aT2lxc2NFeDM0Rjk0WVRvWjJLZG9EQm1IN2MwQVhVUFBTbHdUQ0RDZFlMaEc4U29yelNNbndPRWtlNzh1bjdvejBpRXlTM3lualNXd2pMU3FDSUg1T1ZYSGFkUHJURmlhQnU5YS0zRzJKaXFGeHlTWjVVUlB5S04zX0tpZDZyTG5nMFJpenkzQk5yZkRtTnY?oc=5"
-      },
-      {
-        "title": "Absolutny przeciwnik aborcji i eutanazji. Takie poglądy ma papież Leon XIV - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEdTejJiUzFYWFFDbzBNZ05JeUlqMk9hV0dUYWg3eHA0RjZINEVLN3F4UldWMlFNQnYzd0o3TDNsaElZSVFBZ1gxREZySWZJaE5QYUU1WHNWd1lwOEpxUlpTVDA4MFo0elYtakJsYmNsT0hRN3FaUXNKdFhmdzJGRmZNaWl3UkVVYk9NRFI0dlZkUzdNZE9HZ2UzeHdfMFV1U3hUQjU1emI4em1kcnBpVm5pMGV1bC1XaC13eFhCRlB0OVhHRGN3?oc=5"
-      },
-      {
-        "title": "Polska będzie kupować broń z Francji. Co z sojuszem z USA? Odpowiedź premiera - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3ZRN0pHazNpZHpsdEJGNDR4Q0dNaDZaX1Nhd09MQ2VyWDhVSFBMVWxscERQQkpfTFNjOUxNUnN6cUhiaUtKcXZOWTFlWHVhWXJIbEZFY1RuZUxYUC1mMXM3bHk5MF82WjlfbHlkLUxZeHdmU1ZHX001RXRKVXk3VGJXWTFVSnRYNTJHVXVQRlluN0lJeHpVLUVVSDMzNXpocmxIVmxpVjFUdlpaZ3pNd0pWZjN6UHc2TWVXTjRZX1JuSDFIQmxQb0xR?oc=5"
-      },
-      {
-        "title": "Wyniki najnowszego sondażu. Nawrocki traci poparcie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRXNrQnZyb213T3BVb2xPQlB0V040U3JrM1pPdGR5QlVvQ0dMbm5iZTRabWxjb09Qb3hJZEo2LVdHenkzYWhhVnRGSno3NEdZRUJZNURrQnFRWjFERGFBc1h1X01GLWNnbFdCRGwtNEFORm1VZzR6OVVPalV3MFpUZGpNYkxYRm1wd25xQWVXZERtdk1IQkhaVA?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki miał opiekować się Jerzym Ż.? Jarosław Kaczyński komentuje. Mówi o grafologu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUE1EZms2cHZCbHc3Z29BaFc4Z0JWaFllVVJJbWlHT3NPMEo5Y0QyejlKQUNfZjJhcEZZOGQ5cXo0dDR5Uk55bWVnNkozVkJMUDZjU2l3dzR1NEZBa0Y0LWtfNFpQV04tQXN0b1V0N1E0MUJISThaaEJYQlhudWx1SzlrT1U0N2tlUFpjcDF0UFdxRE41M050czVNcTBJQjg5NTU4Qy1oc2Y1eE11aU81VE5LOEhDZmhmRHNFcW5DUmp5M191N19QcHFpaS1FbHlnMGlJY1dXWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-09 20:18:29",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2619,6 +2566,59 @@
       "ETHEREUM": 9468.7,
       "LITECOIN": 377.31,
       "RIPPLE": 8.95
+    },
+    "indices": {
+      "^WIG20": 2842.14,
+      "^WIG30": 3663.83,
+      "^WIG": 3663.83,
+      "^NCINDEX": 246.04
+    },
+    "news": [
+      {
+        "title": "Czy Wołodymyr Zełenski pojedzie do Turcji po propozycji Władimira Putina? Pojawił się wpis - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkdOTXJGdlJkUlZFVlFEclR0UVpCYmlrRGxiU1hsNDBPMGxuRXJZcUs3S2NJMi1VMkd6ZzNTOXFJOHB6TkliejRWdkVCNlU5TTU2c05IRkc0Vl9oRVZhbXZZQlpEZXJVZTluTHBiLXNJR2pqX3FYRUhkTERJRWNDY3ROMGxOTEwzVlpuUjhVU3Zja0V5dE1WdzRUU3BJcklVdmFFQzJ0T212VE5FVU93M3huSHk0Mldzb0ZpRmdWOA?oc=5"
+      },
+      {
+        "title": "Kwaśniewski o wyborach. Tak ocenia Nawrockiego i Trzaskowskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2MwelRTMEFMQXVucFg0ZHFyd0dHeGoxTEM2WDdPVXRzXzFRQ2RaMHJYOTlnaC1ZcUhvX2xCYUVOa09qMWMtT3ZNRGdKbjRTSzNOOW4ySGRLOW1UdlprbFNpTnlpUDZJRnNhTDFBZ3ZIV0JCd2I3Zm1aajNjelhqNUJGemcwVXVYeHFLdFhrRUlUSDFFMTJ4R2JjdUFQYmZnOGdMRFBuejByOUdS?oc=5"
+      },
+      {
+        "title": "Zbiórka dla rodziny zamordowanej z UW. Zebrano ogromną sumę - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnhES0poVWxkbDZZNnlxYTZNaC02YXRjWXRaS0w0OURHQ3M3Z3l3Wnh5VU00OVhnVzhjVFV2a0hrc29hOVRqaWViWlY4VHd2d1JiSmFPWHZ5TUtuZVJ3WTA1NjdObVVDU0hObHNuUXpUUkpkUDRKTTZOcFZqOGJkMV96S2VlNGphV1U2dngzdDcwWEhGa2hpNkQ3T2hmSHlZNXM0MGxSUTM?oc=5"
+      },
+      {
+        "title": "Donald Tusk: Wiemy już na pewno. Za wielkim pożarem hali przy Marywilskiej stoi Rosja - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUh6bllMY0NTYVp4NUVRQUFQNDh1OEFJM2ctRnZ4dGllaTFsZ3ptR3QwSk1ydWNPOEVOV2hNN09hUi1YVTRWVDV1ZHFTTVQ5ZkpKVjdGcWRIeGd2VmUxd0lzX3BpRWJrcjY4cFVFR0tKUjA2SktDVnEtb1VIYjltZVI5akJaMjQ1U29pUmJtQ25kb3lCLTlpTkhWa19LQ2l2UVplWmdVQVlfb3haNWFsTl80M1RSSHg0U2lmNHRPV0JubzQ?oc=5"
+      },
+      {
+        "title": "Sztab Karola Nawrockiego chciał zmiany prowadzącej debatę. TVP podjęła decyzję - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORks0clVJeVpKSzVfN2JBYVdmdm5xRFZuOXlvZTF2aFRMTmVBczFoWnl1UGZYTUlQOWQ2WFByaWp3UTZSYmo0d2FUSFRYSlJDR0RNZzk0OWY5WVg1bzlSRVdDRnM2TmxMMkxYdnFVLU9uS0cwcGo2Y3J0VTdqVXJfTjdtMmVSNW1fUUNhR2VVNzZ6ZDRCdHJTVlpGdDBkX0J0UkdGdVVqWUtaUUVBRVBZSzAtUzhJUWdSMVZGb2pKQzAta0ZVaUxyOGljNTFPQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-12 00:12:17",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.7681,
+      "EUR": 4.2414,
+      "GBP": 5.0002,
+      "CHF": 4.5389,
+      "JPY": 0.025953,
+      "AUD": 2.4144,
+      "CAD": 2.7086,
+      "CNY": 0.52
+    },
+    "crypto": {
+      "BITCOIN": 392639,
+      "DOGECOIN": 0.876062,
+      "ETHEREUM": 9473.22,
+      "LITECOIN": 378.01,
+      "RIPPLE": 8.94
     },
     "indices": {
       "^WIG20": 2842.14,
