@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-10 16:11:15",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 389791,
-      "DOGECOIN": 0.852468,
-      "ETHEREUM": 9137.74,
-      "LITECOIN": 385.15,
-      "RIPPLE": 9.08
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Konflikt Indii i Pakistanu. Jest komunikat Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXgyZUgxcVVqVy1BWG90bE1ldmh2WUVoT1FadkZCVHc5Xy10U3NaWWo0Vm5vbVc0aTBKUEFOaUVjREMwSU9xendzc29ZeEhNSVlNdTItNURQeUJfeUd2UDZxTFVGU0trQm5qRk9FbDViUl9jNV9sMzZoTnVQVVlyR2FDMzAzU29pVkhxQ3kyRTlsNUNzMFQ5cXFlaFRod095SFhYOWZqa2dmN1N4RWYwYW8wM1B3T1FabjF3?oc=5"
-      },
-      {
-        "title": "Stanowski zaapelował do Nawrockiego w sprawie mieszkania - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWVKM0lOdWJSMzlVX0lQTUx0WVdqVW00THo5ZDlzTS1TbmljZnpkM0d3WVBCX3pMSmY1NlRwb1NBTW4xT2lZN2VXRTRMdDZlNGV3QTluMTg4MXVZVzZEaEQ3cUJWamlEa2JkeVJhRVRSQmFnVUh6VUVDN1RQNnQwRm5TOTNmbzhOZ041dVZJTXlnRWF1ZVNQVUVLSQ?oc=5"
-      },
-      {
-        "title": "Donald Tusk w Kijowie. Rozpoczął ważną wizytę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnVpSndfeUd2Q1ZUY0VDUHVRQ0VjVV9fSWU0VTJ2a2RVaVMzdWRjeHpwcE1JbFBfRGNXaXhqaUN4OVBjOHkzMDZOc1VrZ2dvZVFzMmt3VTJjVlN0eGtuVHRpdkVhdEdwak9qME5fZFA5UERyTVdzejRwXzF0ZXFfblhqSUo4UzI4MnFPek53SlBydHZVVGExdWFR?oc=5"
-      },
-      {
-        "title": "Ruszyła zbiórka na rzecz rodziny zamordowanej portierki z Uniwersytetu Warszawskiego - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOUJuSTZMVHZQaHBFcWdVc1ZuU0FVUVNTeU82VkpmT0FJTGNzdlpLLTVXOTZ0dGtkV3Y5bmpNYnRLSVRhZk1Yak9ERk12VTNWZTN0ODMxLVcyYzhkRHR1OGNhVzhXSHQzRUx4bEl6bDdjZnEwVGUyR0VDWUFnLU83bmk2REVXYzQxbVRtbEkyLUN2aGk5YmlWMURyQnhLbUp2UXQ1WkdxSTE4X3NfSHpYekdwTXB2eDlmdkt4YjdGX21BS3hVaE9zZXBYUWlfTDBDOUZUaQ?oc=5"
-      },
-      {
-        "title": "Ks. Kobyliński o pontyfikacie Leona XIV: To \"alarm\" dla polskich hierarchów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWpOTFRxVVJXbTFtYk1lMDJ5Mm5USDBXS3RoMHl5cUowNmE2Y2l1Q1RnN0dSTGpPUkhaaEVIX09PZENOTmF6UG5SMXp3SF9CUHhZM2hPSE1xRU5KNzF4eW9TU09uSl82ajFUUGJodkFubUVwaVlEWkg1eWRnSVFRMjFPNlRMUk5kcE5kLThveVNkSE9QUEVZOGxUc2xDdGliYklFZ1VhNlI3UFM3NWdIYld6MVY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-10 17:12:54",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Leder o zbrodni na UW. Zamiast realnej troski – „stan wyjątkowy”. Grozi mechanizm błędnego koła - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wLWtjcjBJWDF2YTJvVVNKVFRnN2lqRlhvLVVvRlB4SjlBV1YtYk1aUmpCUXVsNG5abXl0b3Utd0Nwc3UtaDlqcjluU3RvVXJM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-12 22:15:48",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.8011,
+      "EUR": 4.2337,
+      "GBP": 5.0156,
+      "CHF": 4.5164,
+      "JPY": 0.025727,
+      "AUD": 2.4367,
+      "CAD": 2.7236,
+      "CNY": 0.5271
+    },
+    "crypto": {
+      "BITCOIN": 388976,
+      "DOGECOIN": 0.863856,
+      "ETHEREUM": 9381.72,
+      "LITECOIN": 386.38,
+      "RIPPLE": 9.57
+    },
+    "indices": {
+      "^WIG20": 2831.63,
+      "^WIG30": 3653.74,
+      "^WIG": 3653.74,
+      "^NCINDEX": 246.64
+    },
+    "news": [
+      {
+        "title": "Rafał Trzaskowski ostro uderza w Karola Nawrockiego. \"Ta hucpa i bezczelność jest nieprawdopodobna\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYUpaRFpXSUw5WmxwZFEwTkVlekZrVnlEaWtJMXZ5c3ZOb2ZxbFVuRFlITE9BY3FZbFd3YkYtZTZDc3dSM1dhTTRIYm5uVXV0elNZUnRBOU1EVW5FbXdXcWdBQnRLeHptcG9QM1VOMkVsNGlYY3d4VVpRMGcxV1pUZTlvbDd3V0xtbjQxLVBVY2Y4b2Y1cEZuaWRJSHNvS1A2ZFMwRnlpeUppN2QwaTVXVFlQbUQwS2RKTEFiQmVmTFhURDFCb0otblVjLUtCWG9RN3M0aHU5ZHRUd2dIaC1n?oc=5"
+      },
+      {
+        "title": "Dobre dla Trzaskowskiego losowanie przed debatą w TVP. Sztab Mentzena komentuje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEZITUxydU1ldEdZY0lGTG5JRmVfTVJMb2taV2lTTlp3YzZhZHNYcjhrYnFxVjhsZTBQZlQ4OVFMcHhwSTliSlJnT2xpSnNHWGRGM1NFMlJ1RjJkQkhBVC1Sem1tckhqdTk1Yy1NMXozWnRIMmFaRUdaZGxRVXhJOGRzMnp1WHVuM3M3dlJHZl9acTBWS04zRkx2bjk2Z252ZWJyVFdfdUpMZXdlTEMzUUNWN1dIQUk?oc=5"
+      },
+      {
+        "title": "Sondaż prezydencki. Zmiany w poparciu liderów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXVPTV9DdUgxenY5REt6X2trSTJOMUlmdmtqQmdsZnNHZTltT2cxWnQ4TkZCVjJ3Rk8yLV9aVXV1eVZyYmx0WFNiYmRCV21Dakhrd1B5aFJvUlh4cjZCRjlFS0NhSG1oT2llR3VsX0pBa3JMU0ZYVlNkbWdadzl1U2FxRlBEQk1jekRYUGtTa2c?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki tłumaczy się z historii z mieszkaniem. \"To było zgodne z przepisami\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVZrbjJIV3h0OGhUR3RHMzRjRHRka2tEWmxfQ1ZKRUJaRE5FRVJQSkFwSkdJNjlKRjRqZ3BKOVgtS2lwckIyNjJtS25WdEo5ZExqMTlRRkJyc0UtaTJhUzN3a1oyQ0psVmVIWkpsWWhwUWdGQVhIaXJFdEVhcTgwOGdGengyUHhhUGlDLWVDbmhjUU5wZW1rRjhEdmRKSmVIaEN2Z3hvUnhnNjlXMkNwZEFJakZiZTFqbnZzMzZGbEtzUFl2cklz?oc=5"
+      },
+      {
+        "title": "Zełenski: będę czekał na Putina w Turcji. Moskwa w szachu? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1I1MG1nbjdhNHFwenJyTEY3bkJwemh2NnhlX3ZBTmRYU2NqeXVwb0g0cGY1SlB0UC1sdUxNbVpJbjV3bVFZbTlRcVlFWHJNbHhKbldHNVFWbm5iSE1yeklPWkhLbU1vcUlldGJ0ek82eXE4Wm5tWXdEVmMwWDJBVzU1OVRVRUdHTVE1dTZHdjdvX0NKaGhHeWNLZDVuZzdpVXVIQUY0djRnbnY3OVh3RS1hT19GS21lTXdxZVFR?oc=5"
       }
     ]
   }
