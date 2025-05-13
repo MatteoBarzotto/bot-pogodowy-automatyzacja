@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-11 08:18:04",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 390618,
-      "DOGECOIN": 0.892767,
-      "ETHEREUM": 9540.52,
-      "LITECOIN": 387.65,
-      "RIPPLE": 9.01
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Sztab PiS nie opanował kryzysu z kawalerką Nawrockiego. Teraz próbuje przerzucić piłkę na pole przeciwnika - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakZkdzhvSXpuWlRfcW5kZFQ4RUp6cVZRT2xwWERqRXRCSTZfN2szM0xtTDdMOHJaUFd4TGRsM1dtZWNqaU9RSkc3T0p4MlVNMHBvUkJ5dHNQeTZxQkQ1YXBDU29OenFKd0ozRDhLd0lBNWNSd2xUX1RETlhDc0RVRGsxem81RnFMeU9mTUNHV1phMGh1S1FDbXB3QVZaaHhvTktnbg?oc=5"
-      },
-      {
-        "title": "Nocne oświadczenie Władimira Putina. \"Rosja jest gotowa do negocjacji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGIxcVUySnVFSDN4RFJBOHBjLS1LS3RDUnN4MXgtWjdZRGFKN21RUHVKTkxnMzdQTUVZU2lnWUw5V0hoR0l2SWFVZTZ4SkhWaVV0NFhxTHVjM1Facld1eWdXQV9PeEdrb0U5RzFTRVZkd01OU3NTb3IySF9WVEpocExMY1JhOE16WmJHdW9LT0lTR1JsOGxCbGdSbGw4TW50WGZyUGc5aXd3WlZrNTk4VWZZamNESG1wdG9kempQMnM0MnUtbDJlY1Jn?oc=5"
-      },
-      {
-        "title": "Zabójstwo na UW a rosyjska dezinformacja. \"Nie robili tego amatorzy\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0RicWx6eUhnYWYwak13ckFydjdSZVRIMjBkTUtIWWxmY2hiYm01cW1xdUdvbWZ3cEpwd284TllfX21vTW1TSnNYTzdLYWJMVDRFN3RaLXpFbXBiSHVmcjAtOU1rV01NQ1FSOWU1dzZtZm4xMjZoR3dCNHVqYWVHb2NVVmZONHBqMWlybFhGVGQ0bEV6RXRobWFVWnZERmY1UTBoRWJTb2k4eWtZLVlhSlgzelpjQdIBtAFBVV95cUxNVnZWWE9NckNIbHFtT0xybVB4RDNvdGNMODBwbTc3T0JrTmNsRGxNbWpJUkpURDZPMkgyaVZTdnIzUnN2bS1KYUdSQ1dNYWp1blhyaUU0RjIwc1VNZHBZRHJGbmlVblJxczVlV2tTOHZaTnh1czByTmhnMkxlR3BCbDVyT1RnU1EyMmk1TW5nX2M4Rm5SRGEwQjRYV0hxRFVZR0wxaS1mclVtOVg0cDJxS09uUTg?oc=5"
-      },
-      {
-        "title": "Dlaczego Tusk pojechał do Kijowa osobnym pociągiem? MSZ tłumaczy - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEpNRm5tNEdMbnJvQU9FTFZ5SjRsb2IzYzNudEVJbnhnNkNpUGNFRWJEbnpua3hjV3M2WWhMY2RpWllmOTg5ZlkzU0VEOGVBbmwwY2NHTk5XSFpNZnZoV1psSzR3dW5HWXZGVmZBSEVPLTZOYmxiOTMzWHhScGtqRU03SjI2UnlfVmtuNXhCTUdZUDFaM2dmZmNqZ1BvS3NVNnfSAaABQVVfeXFMTXF0dzUyd05JOUh0em1XeTVfZnJIMjNzZW1tY0xQTzRsMmxqNmtoVFdsODF1MU96eEJSTk0yaWcyZUdXVkJmdk1nQTB0eWEtV1Eybjl3Zzc2eVVrVXdlNFUyNGNscDFja0dvMGhlSkhaWkhtWWlWMlFIOXJ5RjdTRVczd0NFVVZkY3VXeklWM0swdFFLZFpWRC1EaEFpS0hIYQ?oc=5"
-      },
-      {
-        "title": "Pożar w zakładzie mięsnym na Śląsku. Trwa akcja gaśnicza - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjE3T1htUHAtVnI4aFA4M2RhRTlSam5waDg0S0VzU1ltQ1hxUnVXQk9aS016U0hTT0pSbUlzdjRRaHBTVmVJRUlmM0FBZlFKY1d1YzY5N1E0ZVJyMFFpSjlTaTBWUzQ3VzdncHBTQllncEFxSlp1UUpDVElYSU5tNWVLUVpIQm1XZmVQRXA5TTZHN3RNcHRiRUJxU2xyMzlkQ0JkZmJZTjFvRDRMVlhEUldHa0dhc0tvdml1Mng1NFo?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 09:12:48",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Startują egzaminy ósmoklasisty. Dziś język polski - Onet",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmozb2pFTzdrTVRqYjB0WG9kNEg4YVNFM3hTMGJreXVjZWJkbU9GODNUbjBSLVA2dGRjWHFLcU0tRlVWdWFmZWFVX1NZRHVWVzQzV1FsMXlBand3UEdIOUhNZnV0MExnNXVsbjU3OWx0N2xWWUZCSEI0YllQYUdUbmV2dXpoYW5PTUxhdmpHX1h5Y1VhY3ZManFoYWV6eDNqSXI5Q0QtQ3A5TmhC?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 14:28:28",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.8266,
+      "EUR": 4.2525,
+      "GBP": 5.0556,
+      "CHF": 4.5564,
+      "JPY": 0.025872,
+      "AUD": 2.4515,
+      "CAD": 2.7357,
+      "CNY": 0.5316
+    },
+    "crypto": {
+      "BITCOIN": 396322,
+      "DOGECOIN": 0.869576,
+      "ETHEREUM": 9574.5,
+      "LITECOIN": 392.8,
+      "RIPPLE": 9.67
+    },
+    "indices": {
+      "^WIG20": 2822.29,
+      "^WIG30": 3648.69,
+      "^WIG": 3648.69,
+      "^NCINDEX": 244.71
+    },
+    "news": [
+      {
+        "title": "Egzamin ósmoklasisty 2025 z języka polskiego. Tu znajdziesz odpowiedzi eksperta - Interia",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR21wRjdlTnMxWEwwREpBTWpGM0RiQUxPNzFMaW4xSXJlLWVxOVMxdERvUGkwMnVIcjc2eGdDV0ZoX3VtNDZSbkVTSkhKcHFBZkNnWDB1NWthellqMjMzRVY1UkhJbXA4c3JPUmhadTE3VVRiMF90TkZnaGZuckRqV3pWdlNtcWQtbmxfTFVmMjBMTExTV28wbGY2MHJBcEx1OVh0RGk1T1k4RWhMUTB3WXdncG5TbFdXUWdsanVTLWFTQmV6ZWxzUVczRnBsQ2V0TG53?oc=5"
+      },
+      {
+        "title": "Tłumy żegnają Tomasza Jakubiaka. Na ostatnim pożegnaniu nie obyło się bez łez - Pomponik",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGxKbjl3UTdJUnhmSGdsU1VWUVVKQ2tzUVpBX2oyMnFRQzBmNEJFSjNhblFLM2oyWHFITjFIZjBLV1ROU0FpY3FSd09QclVtdmxUTkFjbXpBLWlPTGlFNXRadlNYcE5ULURSVUtadWhhWnp2Szgta1VkTkJZTXE4NU03b1NscUphc1dZeVJGRlRnckxUelNrQ0tsajRodVlscThoQ1JYMU1aakRpOVYtdXVBQ0NEcFlSVDVn?oc=5"
+      },
+      {
+        "title": "Kto najbardziej zawiódł w czasie debaty prezydenckiej z 12 maja? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmlIOEU0amhkU1ExRUdfWTRiVFBneGhKYlo2Rkljc28zTFFFNGFPSzhWNTg4Slp1d2VxTTFJN1hrTTBtR2F5dW0wNUlUdk1uODNTZ19RVkZReUhKS25tSGlCRVZFdXlob0gwTy03eXpnekRXTVg3bU9GZ1ZWTVVfZ0NMeHBMczFJOTN5bWJ2bklxV1FEWWo2c2ZJcUExNjExOXRhX2xGNUNUVzBWUHNGRTlnX3VORkhnZG01b3FNSnVwR1Fsd0wwZnhhMG5sZ3NaRXZV?oc=5"
+      },
+      {
+        "title": "\"To wygląda tak, jakby to zaplanował\". Wstrząsające kulisy strzelaniny we Wrocławiu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlo5RHY0UXBGOTJNNVlkX3ZhNVdCMXlqeWVOTnRJUTZ4dHcwMm5YN2hEZ2pqOW1NN05oaHUyeG85V3lzc3dSaERYN25CVFNoRXdzM3RlZlVseEQ3Q0dFLVAyMWdJTUFKSHlhcllnQTBGTlhWLU80T21mcUJ4Y0h1dFNLSFlWaXc5RU5xXzhCcTJDem5sTTJfYkI5MUVfZnFqMkdzMk1EQ3R5U1lYZTdFa3Bqd1o?oc=5"
+      },
+      {
+        "title": "Afera z kawalerką Karola Nawrockiego. Sprawa trafiła do izby notarialnej - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0NNOTViR25XZ0FrTTREZlhMcEtocFpzUUNLNm5TczJEdEJ2QU02YTNDMXJoblk1SFpoNUwxb2FjN2JGNnhRcEJ4OElsZFFXX05zMm5OOV9LczFJd0lvbWxBMVJCcjNLYlowTVdoZzJ2ckJRVzAtU2loZ1htdnRnWXBFdldNSWc0RVRRc3JabW5pSHRkdmJkSEd5cXMtTlg5dEp6LVU5cWIxdkRvMXBlQmZuMzJ0Mm43azFvX3lzdTFFQVdI?oc=5"
       }
     ]
   }
