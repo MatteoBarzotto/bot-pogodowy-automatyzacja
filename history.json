@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-11 10:16:21",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 390332,
-      "DOGECOIN": 0.870996,
-      "ETHEREUM": 9384.13,
-      "LITECOIN": 380.15,
-      "RIPPLE": 8.89
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Putin przemówił w nocy. Odpowiedział na wpis Zełenskiego. Wskazał termin i miejsce rozmów pokojowych - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjBER3dpcEN4N1pKbjE4bmF6N2xULW90Qk81cnRSUjNaMmxTYTZfYm95N3l0WXNDeWx6ZjNLc2ZfWWJzZTUxbU5mcWwwSmNacTdiVXJ4WHlRbnN1MWFLVDl0LVFON2EwOU05c3lwOF9FX3pTei1lMFo4TnFESXE0dy12WW1jVy16YWdRTi1oNHVGM1BZZ1dOX3lRSXB3aUR2MkYtVjhFSzNNdGxqRS1XbEZWRi1IVnBTa2NOZWdrN1dPRFU4ZjZyNnVpaExOVTlvX2RRTXRjNnF3NHZWWjNQeVFvdFB6aXNC?oc=5"
-      },
-      {
-        "title": "To byłaby \"katastrofa dla PiS\". Prof. Antoni Dudek o wyniku Karola Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBSNWExdV9iVl9Id1BRYkdFc1o3eWlydXhOejcyZXV0TTRwWmY2RDVpMklXZm5TRldtc0R3OW1yS0UzY1lrdjlVRXE1eHl4M0hnUEV5Q3pwZmxiQVVQSW5hRC1qRm9DVDZzdkpjZGhSU3p6Zk5rQVFKTGlXZ0pKOWpEMFpGdFQ3bkxwVGpzV0duVnFkTWFaQjNDQlVQQW95d0xfSVpvS0J0M2xGNEV0cUs2S2pyenRa?oc=5"
-      },
-      {
-        "title": "Starmer: USA i Wielka Brytania zwiększą pomoc dla Ukrainy - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVZPbzJRcWhoNk5QaV9aN01ZaGM2dF8xdGdBR1lNSnc3NHltRWJBNW1IVENjVmFOYmxvMFVVU2Z3OG1vNzNVNDBQMXc4NGhFU0E1eFF2WXpMOWQ3bTF2VHV6cWZEWlhjV2xhMzJhMzNCM0Y1ajlCRHR1ajdsUlFVYlZmMUVwMWJRYU1TaHV4RFlKdVE1eW5CaWE2QdIBlwFBVV95cUxQeXpqZUdXemxnLUdXcVplbkhzZF95M0JFUmpnX2FERDRHd0RrWDE1NDBvU2FBOWRHTFNndXBnTFpQbjFnVi1TWUpWVmgzeHNERU1SV0l2MkI0R1A1TVpxRU45bFdDS1Nydm53M0dXdXc0a2twbzhkSDZZZVdIanRNOE1mRHJVOUktSkhITGxKQzZaMHBaSEVV?oc=5"
-      },
-      {
-        "title": "To tu mieszkał Mieszko R., sprawca zabójstwa portierki z UW. Tak pamiętają go sąsiedzi: \"Żył w swoim świecie\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW1DbU1JOC04TTRjRzl6YmdUZElOWmdqaWYtV0lkenFDdXp3QkVzbVBNOHR3U3RNOXZxT0p3ak54cXozNk5VaWhmYWdJaHpHN0JhUnlRanN3SWxsMXE3cW1Rd3N6TmFPaU02enYyT0wwemU3TTZLOEppRDU2MTZPcmlZX1ZvMVUtSWVRdU4yZE1QclB4dFRES19rcFJDeWFubkxWWlhPb2pDaFdRR1E?oc=5"
-      },
-      {
-        "title": "Wielki pożar hali w Sosnowcu. Na miejscu 170 strażaków - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmRWRG5EdVZYSVVtbktnR3pVZkc1ZlVQOUNqc0M4NE90dlF2eE9jSnBBem90STExamRJQkxDNG5ORWRiamVMMEhWaHdNT2pRZm1Uc0QweTNPQ3VfN2JKSi0xWkh0ZHA0bFg3bFFCT2ppM3R5d1ljcWp2XzAxTVBSaEF3Y191N3pVaGhKQXVjbEY3OG41c2d2VGdRQjk5QzVlX3B2c21kYlpfd0Z2VTduMTd2d2lqMjQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 11:13:06",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trump weźmie udział w rozmowach pokojowych? \"Bylibyśmy wdzięczni\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXptY0E0amVEWE9qUDZWbm83QVN1dFhoODZJVUtuZUtHV1RZb3F1RzZocmxqOTgwTjAwckFqUzExQlFiUmVqUlFOSDdOSGJLcnVqaVA5RTI5RTNzYVYyX2txNEFkT0NFbkZhNjlLbk9kR3JGckVoeVRZNDUzNUFjWlRKVTBPMVlKdTlVSzZjMzlXNElpWUdPRHlfbWJVMFhBS0VwMVo2MFZTQjFZaExB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 16:14:19",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.8266,
+      "EUR": 4.2525,
+      "GBP": 5.0556,
+      "CHF": 4.5564,
+      "JPY": 0.025872,
+      "AUD": 2.4515,
+      "CAD": 2.7357,
+      "CNY": 0.5316
+    },
+    "crypto": {
+      "BITCOIN": 393743,
+      "DOGECOIN": 0.866715,
+      "ETHEREUM": 9690.0,
+      "LITECOIN": 385.15,
+      "RIPPLE": 9.62
+    },
+    "indices": {
+      "^WIG20": 2834.78,
+      "^WIG30": 3663.58,
+      "^WIG": 3663.58,
+      "^NCINDEX": 244.57
+    },
+    "news": [
+      {
+        "title": "Hołownia pozwał polityków PiS. Jest rozstrzygnięcie - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQy1vbXNEUzlHUUJST044cmtQSDhBazBwSFY0eEIxNC0zNG9mUzJkUjI2ZTN3S283cGJQbkpGY1J0ZlJNbzFwcTlEMHZtTEcwZGp3TVlIdnl4bFVxNkRlbWczeWxBVHpKOGNDdHBWVnBsWXVxU0ZfeW9RcDl6YUJRUm9uV1JweDk4MnpFa19zQ2hmRHlYUm5ZNzJSWUdkVGVvNTZvYzhjbnN2Ti02ejhQdUFaRkozek8tLUE?oc=5"
+      },
+      {
+        "title": "Tajemnica koperty z debaty rozwiązana. Oto co Rafał Trzaskowski wręczył Karolowi Nawrockiemu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXlTMC1GeG9XcU9RejlnYnlTWlRpb0NUeXlKVmwwRE14cFc4TGlyQ3pQbmd6MHptc1FxeS1UcnF2cTdCU2F4czEtaXAycG1SLTA4c2dlVy16Y0R0WVJ2ZnlUdVdUX0FSTUpPTWhPdG1CNXlubzVQMjBBb2ZWRjAzOHhVdEs3UkVhQmplOFVnN0d2SVZ0emxnMlhpWi1ZX2p1Z21LcjJraThLczZmU1M3RWpGQ0JaZE94N3FSYlhLOEx4MFpwaHM4Qg?oc=5"
+      },
+      {
+        "title": "Pogrzeb Tomasza Jakubiaka. Szef kuchni miał szczególną prośbę - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFk0RzlPNnM2YWZDMXc0RjlUenl2R1BLN2ZtMm84TmMxZ2dQZGJkTi03WGVLLV9qMmljMzVIcUlwUTBFcmxyMFh2N2pWc1MzTW1Gb0kza1ZmdGE2OVRnR2dSQ1g0VUVXZmRueFcySnVHcXl2dGlvT29scnZTMEpyb2swQVhUZXNyN2NteVVSVXRsa3pqbFBCMA?oc=5"
+      },
+      {
+        "title": "Ostatnie dni kampanii. Co mówią sondaże? Zebraliśmy wszystkie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzdabDMtd3drUGk5aUw3dU5oRk5yOVpCSGN6ZG03V0dieTRkOEQ5YmVvZmk2ZHktQkpORUhqa2NkVnJ4THNmd3BoUzZDbmo4b3Y2QzljZURsZzZXUHM5WTNQMjg5X25NcE13MGYwZ2FWem1ibHZzWW1Dd3hoU2ZSeUZoU0lFWU5fc29naDl3WE03Vk82NzMtbzhjTERuQjNYTVpxaTh5QUxCSXZZY3V4ZVJGa2k?oc=5"
+      },
+      {
+        "title": "\"To wygląda tak, jakby to zaplanował\". Wstrząsające kulisy strzelaniny we Wrocławiu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlo5RHY0UXBGOTJNNVlkX3ZhNVdCMXlqeWVOTnRJUTZ4dHcwMm5YN2hEZ2pqOW1NN05oaHUyeG85V3lzc3dSaERYN25CVFNoRXdzM3RlZlVseEQ3Q0dFLVAyMWdJTUFKSHlhcllnQTBGTlhWLU80T21mcUJ4Y0h1dFNLSFlWaXc5RU5xXzhCcTJDem5sTTJfYkI5MUVfZnFqMkdzMk1EQ3R5U1lYZTdFa3Bqd1o?oc=5"
       }
     ]
   }
