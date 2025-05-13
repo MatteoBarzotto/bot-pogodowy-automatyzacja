@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-11 05:10:38",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 390552,
-      "DOGECOIN": 0.894799,
-      "ETHEREUM": 9532.78,
-      "LITECOIN": 391.55,
-      "RIPPLE": 9.01
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Zabójstwo na UW a rosyjska dezinformacja. \"Nie robili tego amatorzy\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0RicWx6eUhnYWYwak13ckFydjdSZVRIMjBkTUtIWWxmY2hiYm01cW1xdUdvbWZ3cEpwd284TllfX21vTW1TSnNYTzdLYWJMVDRFN3RaLXpFbXBiSHVmcjAtOU1rV01NQ1FSOWU1dzZtZm4xMjZoR3dCNHVqYWVHb2NVVmZONHBqMWlybFhGVGQ0bEV6RXRobWFVWnZERmY1UTBoRWJTb2k4eWtZLVlhSlgzelpjQdIBtAFBVV95cUxNVnZWWE9NckNIbHFtT0xybVB4RDNvdGNMODBwbTc3T0JrTmNsRGxNbWpJUkpURDZPMkgyaVZTdnIzUnN2bS1KYUdSQ1dNYWp1blhyaUU0RjIwc1VNZHBZRHJGbmlVblJxczVlV2tTOHZaTnh1czByTmhnMkxlR3BCbDVyT1RnU1EyMmk1TW5nX2M4Rm5SRGEwQjRYV0hxRFVZR0wxaS1mclVtOVg0cDJxS09uUTg?oc=5"
-      },
-      {
-        "title": "Donald Tusk i europejscy przywódcy są w Kijowie. Zadzwonili do Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNWQ1WVBobElpRW1DMkxLYjBLQzl3anRxNkxZeW1OZVh3a2l6aG80N0pqdlctb3pIVktXNmxoYnVDWmhTUFJ4ZVdERmszeXVfUndHX2ptTnpzRFFLNGRoY1VQeTdIWHRkOVd3elAyZGU1RU0ya19IeTJ0OURGN1dXRkprNlVib0hsbTFCSEpzZC1wRFVSQnNVa2NiSzJJWlZONG16LU9HWFV5Q05kWnZ4N2kwSXRoYjE2eWN5RVMtYlZrWDdIQWpGMTFoVQ?oc=5"
-      },
-      {
-        "title": "To byłaby \"katastrofa dla PiS\". Prof. Antoni Dudek o wyniku Karola Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBSNWExdV9iVl9Id1BRYkdFc1o3eWlydXhOejcyZXV0TTRwWmY2RDVpMklXZm5TRldtc0R3OW1yS0UzY1lrdjlVRXE1eHl4M0hnUEV5Q3pwZmxiQVVQSW5hRC1qRm9DVDZzdkpjZGhSU3p6Zk5rQVFKTGlXZ0pKOWpEMFpGdFQ3bkxwVGpzV0duVnFkTWFaQjNDQlVQQW95d0xfSVpvS0J0M2xGNEV0cUs2S2pyenRa?oc=5"
-      },
-      {
-        "title": "Nocne oświadczenie Władimira Putina. Propozycja bezpośrednich negocjacji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTBrXzdTQXlGR0M2cW1NNGphWTVTUUR3dk5seVRnQmJXeHc0Q2MxVHdYanhpeWxiRVJKcGpMSUc1UGptcVozN0ZPLUFCbTMzMTR6c09Eamd0OC10Um5uUUt6aWh1ZWlzOWJIYUZsNjJOdk9tYkQwX1J5R3dkU0FFaHRFdENoazFzVlh2WVU3Q3dhY3pLbHJmdFJ3c1RtODh3Q1VORlZRNTM1ZnlBaWF5bWlSSmRxM0paMHQw?oc=5"
-      },
-      {
-        "title": "Rysy. Straszna śmierć turystki. Tragedia w Tatrach - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcElfMnA3amNzRE9UTHZ0WWVDeVJpZmViX21zc0l1TWtwVWxLLWIxMV9wblFDeGpxSkVzODlQX0FiNHRycHRVY1M5ZE8wejJGYmZoSnNQVlFpOHFJdUVrRGJVX3Bsekt1OFNmUnBQYl9pZlZReXBKWXJrdC13NnItdFNvRVdHbnlyUGRVaFBtSVIyR0xrdFNoRXR2LUJhVFZmVmdz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 06:16:48",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zbiórka na małego Ignasia spod Inowrocławia w czasie debaty prezydenckiej. Rodzice płaczą - Bydgoszcz.Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnpWRklqSW1qTEp1ZWtiWHZkXy1SVlpiWkwyS3kteWpKVFkwOE02dk8yUnJsd2tpLVdSRkR1MUFQclFaVmxqRjBjMlZUZlo3NHZ6bEZuRjI3WkhwcWhXZFJNUC0wNXMtQWZkNXk5RE9Fd0hBaWtHR1ZycENuRzI2NElwSk1tbmdfaDhOb0RQYVdOb0wxa0ZRRUFvRUYxd2ljMEZZQVZ3ZldPWlpTOXU0XzBnMGJDN3k4WlJHTjdn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 11:15:06",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.8011,
+      "EUR": 4.2337,
+      "GBP": 5.0156,
+      "CHF": 4.5164,
+      "JPY": 0.025727,
+      "AUD": 2.4367,
+      "CAD": 2.7236,
+      "CNY": 0.5271
+    },
+    "crypto": {
+      "BITCOIN": 393985,
+      "DOGECOIN": 0.859817,
+      "ETHEREUM": 9446.32,
+      "LITECOIN": 390.92,
+      "RIPPLE": 9.59
+    },
+    "indices": {
+      "^WIG20": 2831.06,
+      "^WIG30": 3657.57,
+      "^WIG": 3657.57,
+      "^NCINDEX": 246.0
+    },
+    "news": [
+      {
+        "title": "Kto najbardziej zawiódł w czasie debaty prezydenckiej z 12 maja? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmlIOEU0amhkU1ExRUdfWTRiVFBneGhKYlo2Rkljc28zTFFFNGFPSzhWNTg4Slp1d2VxTTFJN1hrTTBtR2F5dW0wNUlUdk1uODNTZ19RVkZReUhKS25tSGlCRVZFdXlob0gwTy03eXpnekRXTVg3bU9GZ1ZWTVVfZ0NMeHBMczFJOTN5bWJ2bklxV1FEWWo2c2ZJcUExNjExOXRhX2xGNUNUVzBWUHNGRTlnX3VORkhnZG01b3FNSnVwR1Fsd0wwZnhhMG5sZ3NaRXZV?oc=5"
+      },
+      {
+        "title": "Dojdzie do rozmowy Zełenskiego i Putina w Turcji? Prezydent Ukrainy: dziwne milczenie Moskwy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXB6NjVFMUZsck9nd3FkcHdRRURya21lWm5lUE9kVHEtZW9Md2RLdGNlSmZwSWdwRmhkUlg1c3lBMjc2NFNvam12b1NuZWh4cWZYaEE0bHZrd1BZNHpPSlNGeUprU1FCR0l6VGtBOHVKRzJnLXI3WnpYUHRuQ205RmR1WjBhWVJYR3R5NHhfSktwai1kWkZuYjlMY2UzWWwtbkhFc0RtbktZQllSajJwY1FMSTlqdTVoM3NIRm9GMDZISWFTY20wbU9OR2tjMno4M3pod2tsN2ZESFRN?oc=5"
+      },
+      {
+        "title": "Polacy nie uwierzyli Karolowi Nawrockiemu. Chodzi o sprawę z mieszkaniem - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDdHZWxwVXNHMVlYYUVfNG0yTEs0dmxJNVhMYjByQWdVOUxOQ2xYLXQ5MWttLVJXV3Q3dWVEWWhDb1REOWNLc2tIXzFOWmlhSDJHVmI3U1JCeUlVYW5SMWhXRHhlZVVGdlJiejNWdzd4dlZVeWx0UGRYYXIxUGdIQjVLLUVPM0RyVlpLT2RiU1BGaG91Ul9iSWFEYXV2ZzY0YWlWa2gxcHlMZmozOHh1RGxvZ0pkckI2dU8yMjNIMHp0ckRraGhN?oc=5"
+      },
+      {
+        "title": "PiS zadowolone z debaty w TVP. Komentarze na gorąco ze sztabu Nawrockiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWG5NTy1zU1FzZ2lZNzZ4VzFPeE1NVExmNF9OTWpOYmdLcFc0bmJVT09kMGJyN3VmcGRCT0dmSWdtdm90WUlTUTlUN285SDVZbjhTbWZoeUJka3pIN0p6alhoYW5fRjd4dWdNc3NqNkZtNDBjeVJiU2l3eFMxM1otbkNrZDJiRjhnSGNWbWt6QXZSQk1jVWs0NHhEVUVLWXJHODZqRGxTUUFXUzZZR1NZUkRZaUw0QQ?oc=5"
+      },
+      {
+        "title": "Strzały we Wrocławiu. Nie żyją dwie osoby - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMm1SUHAxdlZFNEhRZHI0cjU0bFp1clJRNXZ6UmhFYkhUVzZqalRZZlBBVW0zRTJqbkpqeVphYkVzVl9JaVhrallLNlZ2b0wxb1JZenJwUWdqUDlaQnNOU0ZUU0hrSXhMcTJsRU5xSzlWc3oxdmZNdnd2ZVpSYWE2SUVjNk1RM1RzcnhEVW5IaU9QZw?oc=5"
       }
     ]
   }
