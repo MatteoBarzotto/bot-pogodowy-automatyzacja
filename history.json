@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-11 09:12:48",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 389924,
-      "DOGECOIN": 0.873944,
-      "ETHEREUM": 9411.7,
-      "LITECOIN": 382.49,
-      "RIPPLE": 8.92
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Putin przemówił w nocy. Odpowiedział na wpis Zełenskiego. Wskazał termin i miejsce rozmów pokojowych - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjBER3dpcEN4N1pKbjE4bmF6N2xULW90Qk81cnRSUjNaMmxTYTZfYm95N3l0WXNDeWx6ZjNLc2ZfWWJzZTUxbU5mcWwwSmNacTdiVXJ4WHlRbnN1MWFLVDl0LVFON2EwOU05c3lwOF9FX3pTei1lMFo4TnFESXE0dy12WW1jVy16YWdRTi1oNHVGM1BZZ1dOX3lRSXB3aUR2MkYtVjhFSzNNdGxqRS1XbEZWRi1IVnBTa2NOZWdrN1dPRFU4ZjZyNnVpaExOVTlvX2RRTXRjNnF3NHZWWjNQeVFvdFB6aXNC?oc=5"
-      },
-      {
-        "title": "Sztab PiS nie opanował kryzysu z kawalerką Nawrockiego. Teraz próbuje przerzucić piłkę na pole przeciwnika - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakZkdzhvSXpuWlRfcW5kZFQ4RUp6cVZRT2xwWERqRXRCSTZfN2szM0xtTDdMOHJaUFd4TGRsM1dtZWNqaU9RSkc3T0p4MlVNMHBvUkJ5dHNQeTZxQkQ1YXBDU29OenFKd0ozRDhLd0lBNWNSd2xUX1RETlhDc0RVRGsxem81RnFMeU9mTUNHV1phMGh1S1FDbXB3QVZaaHhvTktnbg?oc=5"
-      },
-      {
-        "title": "Zabójstwo na UW a rosyjska dezinformacja. \"Nie robili tego amatorzy\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0RicWx6eUhnYWYwak13ckFydjdSZVRIMjBkTUtIWWxmY2hiYm01cW1xdUdvbWZ3cEpwd284TllfX21vTW1TSnNYTzdLYWJMVDRFN3RaLXpFbXBiSHVmcjAtOU1rV01NQ1FSOWU1dzZtZm4xMjZoR3dCNHVqYWVHb2NVVmZONHBqMWlybFhGVGQ0bEV6RXRobWFVWnZERmY1UTBoRWJTb2k4eWtZLVlhSlgzelpjQdIBtAFBVV95cUxNVnZWWE9NckNIbHFtT0xybVB4RDNvdGNMODBwbTc3T0JrTmNsRGxNbWpJUkpURDZPMkgyaVZTdnIzUnN2bS1KYUdSQ1dNYWp1blhyaUU0RjIwc1VNZHBZRHJGbmlVblJxczVlV2tTOHZaTnh1czByTmhnMkxlR3BCbDVyT1RnU1EyMmk1TW5nX2M4Rm5SRGEwQjRYV0hxRFVZR0wxaS1mclVtOVg0cDJxS09uUTg?oc=5"
-      },
-      {
-        "title": "Nagły zwrot ws. ceł USA-Chiny. Trump ogłasza \"totalny reset\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTNPWHF2VzJKUUd3SVA4cUEzcFVrSjFvUl9faHBGWUZXN1lxdWI4ZUpXcExVRkpObHc2QkRpeTBvakhBb25CX19PU2lWU0wxUGMtbWZZR0tXb3VOcXhNelNOTjhGR2RTRlVzcG4wMDhQMG9sYkFqcHp0cnZFYW5BamhKcElvS2lveWxqdnBTYU9CTFFCcVBOVFNkenUtdFc3MU90dGRkSHI3dUpfMWJsZW90SQ?oc=5"
-      },
-      {
-        "title": "Wielki pożar w Sosnowcu. Konieczna była ewakuacja ludzi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVJwYU85WWN5dUp3Z1hCdFhwUmdYNHlfUGpKZ3l4VE5zcUFiQmpjU1VkUS11dHE0LXhMeVlJem1KRklkREk5OFVQVzFSZ0tZYUh5a2pBQ0haZkh2V2wyOS1UNkE1MkVtM3dRRXJVX0VwTEhELXFMVVVmdVk4NVVWcEN2VGg5YU1pQUdmRDdsWkF4RjgwbDBBNURxdVVYVUNMaEliajlQTXNnUGkwb3VXLWpR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 10:16:21",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Afera z kawalerką Karola Nawrockiego. Sprawa trafiła do izby notarialnej - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0NNOTViR25XZ0FrTTREZlhMcEtocFpzUUNLNm5TczJEdEJ2QU02YTNDMXJoblk1SFpoNUwxb2FjN2JGNnhRcEJ4OElsZFFXX05zMm5OOV9LczFJd0lvbWxBMVJCcjNLYlowTVdoZzJ2ckJRVzAtU2loZ1htdnRnWXBFdldNSWc0RVRRc3JabW5pSHRkdmJkSEd5cXMtTlg5dEp6LVU5cWIxdkRvMXBlQmZuMzJ0Mm43azFvX3lzdTFFQVdI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 15:28:14",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.8266,
+      "EUR": 4.2525,
+      "GBP": 5.0556,
+      "CHF": 4.5564,
+      "JPY": 0.025872,
+      "AUD": 2.4515,
+      "CAD": 2.7357,
+      "CNY": 0.5316
+    },
+    "crypto": {
+      "BITCOIN": 395626,
+      "DOGECOIN": 0.872702,
+      "ETHEREUM": 9668.89,
+      "LITECOIN": 389.89,
+      "RIPPLE": 9.68
+    },
+    "indices": {
+      "^WIG20": 2827.83,
+      "^WIG30": 3655.13,
+      "^WIG": 3655.13,
+      "^NCINDEX": 244.37
+    },
+    "news": [
+      {
+        "title": "Kto najbardziej zawiódł w czasie debaty prezydenckiej z 12 maja? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmlIOEU0amhkU1ExRUdfWTRiVFBneGhKYlo2Rkljc28zTFFFNGFPSzhWNTg4Slp1d2VxTTFJN1hrTTBtR2F5dW0wNUlUdk1uODNTZ19RVkZReUhKS25tSGlCRVZFdXlob0gwTy03eXpnekRXTVg3bU9GZ1ZWTVVfZ0NMeHBMczFJOTN5bWJ2bklxV1FEWWo2c2ZJcUExNjExOXRhX2xGNUNUVzBWUHNGRTlnX3VORkhnZG01b3FNSnVwR1Fsd0wwZnhhMG5sZ3NaRXZV?oc=5"
+      },
+      {
+        "title": "Przemówienie i Nemeczek. Egzamin ósmoklasisty z języka polskiego zaskoczył uczniów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaW93UjJhT3FGNlF3N2pWMmJXNXpmS2JUeDRQOEVwX2hGR0tiWlo0Qjgyd1hwcVFaSDh4dXM3N290SVVlSFVlRkFyalhUZXBrWnlmSHRmTnBMTHZDdlUzVGNRRllvYmVJM0JITEQtRUtmbmh2MmRmbkNQZkhabVpfeWNPSTZxamREZUdRNlRrTkh2RU5mejk3MzVsOGlvZEJxaGplWUhabXdnajQ2eVVqUlNMQ2FqajhRdC1VS1UycHB3Qkg0UnVzUkozRQ?oc=5"
+      },
+      {
+        "title": "Strzelanina we Wrocławiu. Na Stabłowicach zginęły dwie osoby. Na miejscu są policjanci - Gazeta Wrocławska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDdjczdKdWJnX3pQajBwd2tqOC1EczJodGNIVEJjS3QwUXk2WlE5a2J2V2lWcVpPYnU2VHRQTW5TRUYzLXJwS0oyZVU3SmI1bzBOaFNhci1pZkxvNXpsckJTaXdWY05tT18wLThVQnVMWkFiMVlTXzkwU2RQUlI4YXJGZ3J3VHBFa3EyZ1lfTC1LMU1IdHZPMDIydG1LbDVuMDVEVm5oMWI5M3pjd0diQ1pxck85OWFnUXFYOVdtNExqYkZROWdCZw?oc=5"
+      },
+      {
+        "title": "Tajemnica koperty z debaty rozwiązana. Oto co Rafał Trzaskowski wręczył Karolowi Nawrockiemu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXlTMC1GeG9XcU9RejlnYnlTWlRpb0NUeXlKVmwwRE14cFc4TGlyQ3pQbmd6MHptc1FxeS1UcnF2cTdCU2F4czEtaXAycG1SLTA4c2dlVy16Y0R0WVJ2ZnlUdVdUX0FSTUpPTWhPdG1CNXlubzVQMjBBb2ZWRjAzOHhVdEs3UkVhQmplOFVnN0d2SVZ0emxnMlhpWi1ZX2p1Z21LcjJraThLczZmU1M3RWpGQ0JaZE94N3FSYlhLOEx4MFpwaHM4Qg?oc=5"
+      },
+      {
+        "title": "Trump weźmie udział w rozmowach pokojowych? \"Bylibyśmy wdzięczni\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXptY0E0amVEWE9qUDZWbm83QVN1dFhoODZJVUtuZUtHV1RZb3F1RzZocmxqOTgwTjAwckFqUzExQlFiUmVqUlFOSDdOSGJLcnVqaVA5RTI5RTNzYVYyX2txNEFkT0NFbkZhNjlLbk9kR3JGckVoeVRZNDUzNUFjWlRKVTBPMVlKdTlVSzZjMzlXNElpWUdPRHlfbWJVMFhBS0VwMVo2MFZTQjFZaExB?oc=5"
       }
     ]
   }
