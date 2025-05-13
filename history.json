@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-11 15:20:32",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 393514,
-      "DOGECOIN": 0.882725,
-      "ETHEREUM": 9498.62,
-      "LITECOIN": 381.88,
-      "RIPPLE": 8.97
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "\"7. Dzień Tygodnia w Radiu ZET\". Zaprasza Andrzej Stankiewicz - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnVqUlFRUWdocjltVU9oRDRQRE9aNVlSYTlrN0N2UDFvTnNGSFVid3JwaTc5dEJ0eXJlQXJ1T1ZjZ1hPOWI0NW9FOWItVGNLQi1tYXpVcFFKZFNDWmNqSjNSbHBkYWd5MG9FQVNYUVhGYU10bkxTY25OOWdlSlFaTkx4Sk03WEhHSmlhcTd5SjhSazNpdWo4SVF3S2oteVlmZXJCVmdUcVBhWjJYOVFhRzI1QmpWMXRiSE9acA?oc=5"
-      },
-      {
-        "title": "Zełenski odpowiada na propozycję Putina. \"To pozytywny sygnał\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDBiRHJTU2pfdXNLTTFZeUNuY1dPZ3QtU0YxdHJza3FYMmVDc2VKQVR6Rjd2Ylp4RjVJRWlta3V5MENmWUlZdU9WVTVVTGdGckVLdW1sendEZTBFYkQtSmY3dEo5d0s3cDVFVjBLeGRfdE96LXd3djhsaWZyR2dOU2pZYjN3UDY0N0ljdU5wSm8xNFJORGRTM3lZa0N0LVZiNjFCQnVlQzlSM2ZKWFB0a3phWk1YVDRvUmFB?oc=5"
-      },
-      {
-        "title": "Samotna podróż Donalda Tuska do Kijowa. Rzecznik MSZ wyjaśnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3hFSHU3QTBVb0VlV1JKcnNaWUhMWXJGZTRFeUxKS0JEUUdLSldSRFNkQUc5blFsUHFiN3lyQzhTYktiUVJTTGdIaVhiUHV0R0U1REk3TEFsbTEzcHBNVlg3U2dXczl5Q0ZWeVQ0T3VpN2Z5M3FXcFlnMWN1M2pIYnpsRlVua0ZRZF8xSWVreVZyRmF3czRONHlhbFRvWlhFQnc?oc=5"
-      },
-      {
-        "title": "Rozmawiali o ataku na UW. Poseł zaczął mówić o karze śmierci - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1ltWG82MVpuVHdMZDcyNGEtUHhqRmtGb0w1dF9tMEdyZGIwQ1E2VXNya0VRN0Zac0xpc0haME16T0EzN3Q1T00xNjhxb1FZd21Mc0RiOTZRcVBnWnowdUJDVWVLYlZZN3UxZmFzUUc4YmFwRU52TEIwRmt2TXZXVXlwMWw4eVJwdDhoSGFtUGlzZWZPOE40TV9RY2lSZw?oc=5"
-      },
-      {
-        "title": "Ukraińska broń zachwyciła Rosjan? \"Ukradli nie tylko koncepcję\" - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNendmQmxrUFBmRVUxVTVCVHJVUU5jWnczWE1lQThERTFiM2lGZTZzbzFlbEk5ZV90ejU1SXdMdFJuR0Y2SVpha1JKZFRxVUUxa2R1eHd6ZHg1OEtMdm02Z0JOaWR3MnJMdlk5V1IycEt0TDJlVDlscFVHOVV5N3B0ZlpxX3RMSzdPdTVzc0Ewa0JHX0hIamRsQTl3QlZfdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 16:11:46",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Sceny jak w filmie\". Strzelanina o poranku wstrząsnęła Wrocławiem - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlpxUnZoTHRDVGlmZWQ2RDJKLWJXZmVqeGFJbm9UalFjOWNDbDNhS3kxZlhpeFNfdnFOdFM5c1U4bjJDbjkzRUs3Rk00SEZYNVd5cHM5VDFBVUhhN1lBOGFRY1UwMUVIUEx2emRoSHNkeklhS2ltVGFyNVFKUDNqQm1uSklPSkpKMmFGVFp2WmlydEd5dUpDYmliNDJYcV93TmphaWZEcWMxdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 21:11:19",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.8266,
+      "EUR": 4.2525,
+      "GBP": 5.0556,
+      "CHF": 4.5564,
+      "JPY": 0.025872,
+      "AUD": 2.4515,
+      "CAD": 2.7357,
+      "CNY": 0.5316
+    },
+    "crypto": {
+      "BITCOIN": 394853,
+      "DOGECOIN": 0.902962,
+      "ETHEREUM": 10036.85,
+      "LITECOIN": 388.71,
+      "RIPPLE": 9.71
+    },
+    "indices": {
+      "^WIG20": 2849.22,
+      "^WIG30": 3680.69,
+      "^WIG": 3680.69,
+      "^NCINDEX": 244.96
+    },
+    "news": [
+      {
+        "title": "Podczas debaty została nazwana \"arcykapłanką propagandy\". Kim jest Dorota Wysocka-Schnepf? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmJLMmFNRVJ4VklFNXMxbFBSc3htTnVvRzhyY1lVU1FNalhiUVk5dmtQamhXU2lGXzdpcHdSMFNtNTQzVjlZNnp5a1NORC1nQ09Xai1hTUd1bHAxV3c2S2xtX1pEN0xxcGFGYTJfRjVpOHBzYkoxTXp4c3NIVUhFdnJLLThVVDMzcEdPWTJSSnhDODhRRTRHSmJhaDlnRjkxT3dxQVRybHVONmIwMFVucld0aw?oc=5"
+      },
+      {
+        "title": "Putin \"zaskoczony\". KE o propozycji Zełenskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDBSOGVudURRTEhDZzE5RDBwbVdwS1AtcWwwRlBYQ2Z1NnFvd09MRjdjVHNwV1lUZnhxMzRNcTRSVFM4OUI1aDQ5S1NqeFhxSEhkdWs2SHNEWS1FenRtcGVmX0N6NjdBai03aFVkUDVUMm9VZjF0Q3gxUDliQlZERVdhd1ZMRlhPcWNLdmhQeE8?oc=5"
+      },
+      {
+        "title": "Ostatnie dni kampanii. Co mówią sondaże? Zebraliśmy wszystkie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzdabDMtd3drUGk5aUw3dU5oRk5yOVpCSGN6ZG03V0dieTRkOEQ5YmVvZmk2ZHktQkpORUhqa2NkVnJ4THNmd3BoUzZDbmo4b3Y2QzljZURsZzZXUHM5WTNQMjg5X25NcE13MGYwZ2FWem1ibHZzWW1Dd3hoU2ZSeUZoU0lFWU5fc29naDl3WE03Vk82NzMtbzhjTERuQjNYTVpxaTh5QUxCSXZZY3V4ZVJGa2k?oc=5"
+      },
+      {
+        "title": "Atak na uczelni w Warszawie. Wykładowca został poważnie ranny - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVE1mYUJSMGtOWURuZ1JFbHZXdHplSmRReldKeXkxUDlEaVc0MW1IZm1IamU1N0NiN2hoNGxkNHN4a1FtcDk3dGViUWFiemxxNzNyZUFkODlfTElvWXFCLUtRQ2J4anN3QmJNb19pazV0UDRpdElibHFGejhrR2g4d2czNi1ycGNqVzBrTGM5NXpXb09VM1U3blE0S0tiM28xQUd4ZjZuRQ?oc=5"
+      },
+      {
+        "title": "Wysłannik Trumpa o wysłaniu polskich żołnierzy na Ukrainę. MON odpowiada - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3ZPZUcxSm0zQ2UzMkdlRHMwYTUwWnRMN1VLY2oxaEZYX2Z0RUYtVHJBQWF5NFduVUNDUFRKRzRLVUV4c2QwUjFwVTB0TVJNa1B6UjR0LTNtNV9JM05CdDNWeTVLM1V4aWd1TS0xR1l5LUdTUnhyTmp1WVZubEY4TldaX2I0NDNxenFCM1ZuOG40T2xnSUxjXzVrMDByb3lMa3BqRA?oc=5"
       }
     ]
   }
