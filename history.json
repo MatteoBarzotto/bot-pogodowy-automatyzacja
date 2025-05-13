@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-11 17:12:25",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 392636,
-      "DOGECOIN": 0.873773,
-      "ETHEREUM": 9390.44,
-      "LITECOIN": 377.85,
-      "RIPPLE": 8.91
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "\"7. Dzień Tygodnia w Radiu ZET\". Zaprasza Andrzej Stankiewicz - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnVqUlFRUWdocjltVU9oRDRQRE9aNVlSYTlrN0N2UDFvTnNGSFVid3JwaTc5dEJ0eXJlQXJ1T1ZjZ1hPOWI0NW9FOWItVGNLQi1tYXpVcFFKZFNDWmNqSjNSbHBkYWd5MG9FQVNYUVhGYU10bkxTY25OOWdlSlFaTkx4Sk03WEhHSmlhcTd5SjhSazNpdWo4SVF3S2oteVlmZXJCVmdUcVBhWjJYOVFhRzI1QmpWMXRiSE9acA?oc=5"
-      },
-      {
-        "title": "Zełenski odpowiada na propozycję Putina. \"To pozytywny sygnał\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDBiRHJTU2pfdXNLTTFZeUNuY1dPZ3QtU0YxdHJza3FYMmVDc2VKQVR6Rjd2Ylp4RjVJRWlta3V5MENmWUlZdU9WVTVVTGdGckVLdW1sendEZTBFYkQtSmY3dEo5d0s3cDVFVjBLeGRfdE96LXd3djhsaWZyR2dOU2pZYjN3UDY0N0ljdU5wSm8xNFJORGRTM3lZa0N0LVZiNjFCQnVlQzlSM2ZKWFB0a3phWk1YVDRvUmFB?oc=5"
-      },
-      {
-        "title": "Tusk wbija szpilę PiS. Komentarz po powrocie z Ukrainy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTJtZW9NZV9VMThiWktqaWRLcXF0dFV5R0xSNWx1YWlkR1VtRjBVTWJ6T2RlUlBlSno1TWhBZjZjYXB2V1E5RzZSb1ZhVjV5dGUxb0lEQVRzeTBwYjM1ZlpfeThtaHctZXNPcjFTMWh0cnhLRGsweWx0V0RhU2g0dEJ4R25ZYzJ4T0xSU0tSU2ptaDY5?oc=5"
-      },
-      {
-        "title": "Poruszające słowa papieża Leona XIV o dzieciach. \"Zwracam się do wielkich tego świata\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSER6Mm1YV0ZRSFdCeTBHdnphUzBqX2ZsYmN3RVFfeXBMM1dLUVU1ODZ6X3lSZDFlQU1kdFJKeEh2emNQc2FIQ0FrcHFqTmxURW9QSFVJaHNib0s5UVN3ZUVDWlFwZ2ExRzVhRTNOd0RLOTdlMngyaVdOSGwtbzVZRThHdm5vdF84bDZsMkExUGJWZXJUSUFpM2NXZnkwUXpHVWVrQ1pOb29wMVk?oc=5"
-      },
-      {
-        "title": "Rozmawiali o ataku na UW. Poseł zaczął mówić o karze śmierci - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1ltWG82MVpuVHdMZDcyNGEtUHhqRmtGb0w1dF9tMEdyZGIwQ1E2VXNya0VRN0Zac0xpc0haME16T0EzN3Q1T00xNjhxb1FZd21Mc0RiOTZRcVBnWnowdUJDVWVLYlZZN3UxZmFzUUc4YmFwRU52TEIwRmt2TXZXVXlwMWw4eVJwdDhoSGFtUGlzZWZPOE40TV9RY2lSZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 18:14:41",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2638,6 +2585,59 @@
       {
         "title": "Język debaty prezydenckiej pod lupą prof. Bralczyka. Oczywisty zwycięzca, ale... \"To jest męczące dla widza\" - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUFsbEtYdnVYQ1N4Z3E4dmp3MFJYYl9mNFlnQ3NmS05qeW5qdk1oOFBhdVNWbVpZQWlHU1dRdURiMzRudDV3MXpTMVRSUjctR2VQZ09PVmw4Rmp2dmxxQjMtWXV0VHJpYjhLdXdKMzNzVDl1ZVpUWEFfYTVqdnQ3TmdOQ2UzbFpOOFJFYW1JdXc0SnBidGQ1TTRKQVdLOTZwbWJBUDlTVzI?oc=5"
+      },
+      {
+        "title": "Koperta, Nawrocki i Jerzy Ż. Hołownia zarzuca Trzaskowskiemu głupotę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWjhsUEtXUS1wZTNla3NfY1ZWekVBaUdyaXlldzRIeWZrcmp6Smk1Z3p3d3N5N0R1bnFla1FNMm9ndkxjdzFXQnUyVTFvSWJOOXRwSlRzQVQ5cjB6UmhpQWtfX29Gck4tcnRBUDdkX09xbVFMNmYzME4xMGhJRTI2QzR0bjJrNjlzWW53T1VKRHNGdVRtTUpYYlJCaXRmRWM2SW1kYlVJb1RPcW5XSzl5dFl6QjdHUk1ZT1g3U2hvbngydmd6dG9MQw?oc=5"
+      },
+      {
+        "title": "Kto wygrywa w drugiej turze? Jest nowy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTBtVk02eko4XzVWLV9FY0I2TmFkcE9weTgyb05BcGRzMkNDTGdHMjgyN0JpSHJFVFM0QVNVdGhFbHQwa1lkNDVDbjB5ZTZGdG9mbmRaTUtOQmtjM19xNVdkSWkwamtIbXMwTERVVXJCWnVNWkV1LUZtRHlqZzc3bnpVY2pJMlUybEtLbFpoTVg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 23:12:55",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.8266,
+      "EUR": 4.2525,
+      "GBP": 5.0556,
+      "CHF": 4.5564,
+      "JPY": 0.025872,
+      "AUD": 2.4515,
+      "CAD": 2.7357,
+      "CNY": 0.5316
+    },
+    "crypto": {
+      "BITCOIN": 395784,
+      "DOGECOIN": 0.90444,
+      "ETHEREUM": 10170.77,
+      "LITECOIN": 396.72,
+      "RIPPLE": 9.77
+    },
+    "indices": {
+      "^WIG20": 2849.22,
+      "^WIG30": 3680.69,
+      "^WIG": 3680.69,
+      "^NCINDEX": 244.96
+    },
+    "news": [
+      {
+        "title": "Eurowizja 2025. Relacja na żywo z pierwszego półfinału konkursu - Kultura Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWTVEVTlxSlB0QXZyMjBwX1J3Z1NDbnpGcWZwUVVickt6VWRqUHctVzNRRTN6Xy1CaUpjVklJRzZoTmhiRUhIb0JhZ2VjRENPMmE0bGlUVkVkS2g4bHA3X1V1bFktMXNoTXdCdWwwUnVSUUR5LWNqeEhoNEV2OU5CTFM1OGJiSXk4ZGVlQ2FyOEcybk91TWpDNjd1OEUyUWxmcC1Ra0NGVmxJSlBibGFCcC1B?oc=5"
+      },
+      {
+        "title": "Szefowa dyplomacji UE o negocjacjach w Turcji: \"Putin się nie odważy\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemlieWw4N2kzTlk5X24wTGJocUhWNVItd1pYeUplV2xjOUF5aTAwOWhRZGxXd3J2QVE0N2dfSUVnc2FjSW5pb29QR2Q2b2RMRlpHNVh4VDVzanFLb3E1NnJVYWo4eF9nbTlrRndYMDY3N0dwdUo5X2VlZzl3NG1EN18wUWJLOTRBM2ZXM2tiVzF6UTBjbEpodFVUVkdvSVFBbW81dGpnSDNsSndmMHVfd1VNMk9JU3lU?oc=5"
+      },
+      {
+        "title": "Dr Oczkoś po debacie: Kawalerka wybuchła im w rękach. PiS przyjął strategię \"byle do niedzieli\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORC1MU19tVFFGNXR6SU93QnFuX1hQM0JXV1JxYUhKR0Q5VmZ5MG5UTkJwbkRpcVpkNTNiR1ZaWElSNDFtWE5fWU5Xdm9VQnVDc1BEWURWbDV1TTE2UGZkVFk2c0VmeVhnZDhBTkNKUWw1T2Ryc1FRUm1ibkNqSlpVTjNJc1pmYnFIbmVaMTFUdWJjdi1VcmduRWxDYUdVZmRkR1VQY20zS20?oc=5"
       },
       {
         "title": "Koperta, Nawrocki i Jerzy Ż. Hołownia zarzuca Trzaskowskiemu głupotę - Rzeczpospolita",
