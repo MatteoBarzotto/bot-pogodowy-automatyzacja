@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-10 23:11:16",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7681,
-      "EUR": 4.2414,
-      "GBP": 5.0002,
-      "CHF": 4.5389,
-      "JPY": 0.025953,
-      "AUD": 2.4144,
-      "CAD": 2.7086,
-      "CNY": 0.52
-    },
-    "crypto": {
-      "BITCOIN": 388307,
-      "DOGECOIN": 0.890724,
-      "ETHEREUM": 9412.06,
-      "LITECOIN": 390.75,
-      "RIPPLE": 9.12
-    },
-    "indices": {
-      "^WIG20": 2842.14,
-      "^WIG30": 3663.83,
-      "^WIG": 3663.83,
-      "^NCINDEX": 246.04
-    },
-    "news": [
-      {
-        "title": "Donald Tusk i europejscy przywódcy są w Kijowie. Zadzwonili do Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNWQ1WVBobElpRW1DMkxLYjBLQzl3anRxNkxZeW1OZVh3a2l6aG80N0pqdlctb3pIVktXNmxoYnVDWmhTUFJ4ZVdERmszeXVfUndHX2ptTnpzRFFLNGRoY1VQeTdIWHRkOVd3elAyZGU1RU0ya19IeTJ0OURGN1dXRkprNlVib0hsbTFCSEpzZC1wRFVSQnNVa2NiSzJJWlZONG16LU9HWFV5Q05kWnZ4N2kwSXRoYjE2eWN5RVMtYlZrWDdIQWpGMTFoVQ?oc=5"
-      },
-      {
-        "title": "Zabójstwo na UW a rosyjska dezinformacja. \"Nie robili tego amatorzy\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0RicWx6eUhnYWYwak13ckFydjdSZVRIMjBkTUtIWWxmY2hiYm01cW1xdUdvbWZ3cEpwd284TllfX21vTW1TSnNYTzdLYWJMVDRFN3RaLXpFbXBiSHVmcjAtOU1rV01NQ1FSOWU1dzZtZm4xMjZoR3dCNHVqYWVHb2NVVmZONHBqMWlybFhGVGQ0bEV6RXRobWFVWnZERmY1UTBoRWJTb2k4eWtZLVlhSlgzelpjQdIBtAFBVV95cUxNVnZWWE9NckNIbHFtT0xybVB4RDNvdGNMODBwbTc3T0JrTmNsRGxNbWpJUkpURDZPMkgyaVZTdnIzUnN2bS1KYUdSQ1dNYWp1blhyaUU0RjIwc1VNZHBZRHJGbmlVblJxczVlV2tTOHZaTnh1czByTmhnMkxlR3BCbDVyT1RnU1EyMmk1TW5nX2M4Rm5SRGEwQjRYV0hxRFVZR0wxaS1mclVtOVg0cDJxS09uUTg?oc=5"
-      },
-      {
-        "title": "Indie i Pakistan ogłosiły pełne i natychmiastowe zawieszenie broni - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWxZM1Q2Ti1jRVJWNVBEZjBUV0hhSFFyWndGbzBoR2gxbnVaOVZIOFlVUUZiMjA3N2hpY0Z6cTNib2k3N0JQM19aRzlRU2dEYXVjY09BZTc3SDJVdHVmbmtPMXlsMW5PaVpnSm8xVjNELVJRSmhId3NZOEM0c1FZWGp0OGFMOTRfTnBuMWRsb0FwekNXR0x5cHE1Y3E4Q09zVXlKWXg4MFdMZUVYZlRmNVVzWHk?oc=5"
-      },
-      {
-        "title": "To byłaby \"katastrofa dla PiS\". Prof. Antoni Dudek o wyniku Karola Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBSNWExdV9iVl9Id1BRYkdFc1o3eWlydXhOejcyZXV0TTRwWmY2RDVpMklXZm5TRldtc0R3OW1yS0UzY1lrdjlVRXE1eHl4M0hnUEV5Q3pwZmxiQVVQSW5hRC1qRm9DVDZzdkpjZGhSU3p6Zk5rQVFKTGlXZ0pKOWpEMFpGdFQ3bkxwVGpzV0duVnFkTWFaQjNDQlVQQW95d0xfSVpvS0J0M2xGNEV0cUs2S2pyenRa?oc=5"
-      },
-      {
-        "title": "Papież Leon XIV ujawnił podczas spotkania z kardynałami swoją wizję Kościoła - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2Q2MUc1d0RYaVMzdWVKY1Zrblc3NmJrRFFuTjhBZWx5YVM0ME9zdHVLU2d5N2w5d3g2cmp1SVd2YnpQX2xSaVh6emlLOWY2MnlrVmJQVkZqTzZxdFVJa3V6NktLdVp3Y2JlZmFVM2tpT1Y1ZTg2TGY1UU5iU0tEYWlVd3N5QnVKdGd3cjc2Nk5Td3gwU0RRdG5PZlBrbHo2QU1aTVNReDROUHZ0MjRnamM4b0k?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-11 00:11:36",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Cały naród byłby wdzięczny\". Wołodymyr Zełenski reaguje na wypowiedź Trumpa - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGZKRjhHbkdkdEo5TFlCVEdlR0RQN0I5cXYwNkRtUC1ucmJRVmZSWUdUUVRNX2FKOHV5WjV3aDh6TkN1THpOMjJyTjNGcFpST2lyd0FicTk1SzRjZ1gzNkJDOS1kRkxia3hLcmFNNTJ4OVR3dW50dGlSdjMydHJqbVFOY0hxZnRkYU1YNXlCRkZyR0pwNm5BdW5UaXRiTFpSSFREODRMSW55Z004QXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-13 07:14:01",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.8011,
+      "EUR": 4.2337,
+      "GBP": 5.0156,
+      "CHF": 4.5164,
+      "JPY": 0.025727,
+      "AUD": 2.4367,
+      "CAD": 2.7236,
+      "CNY": 0.5271
+    },
+    "crypto": {
+      "BITCOIN": 391707,
+      "DOGECOIN": 0.852424,
+      "ETHEREUM": 9382.16,
+      "LITECOIN": 391.22,
+      "RIPPLE": 9.47
+    },
+    "indices": {
+      "^WIG20": 2831.63,
+      "^WIG30": 3653.74,
+      "^WIG": 3653.74,
+      "^NCINDEX": 246.64
+    },
+    "news": [
+      {
+        "title": "Ostatnia debata przed wyborami. Były momenty, było ostro i gniewnie. Czy wpłynie na wybory? - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEdaSzlCWEZpU0lQUFJxQ28tWVJham8yN1dnX2FCbVU0WDhEU3dqc000SEY3dll6QnpSRWl5VVBVSTlNQlBHcnJpdUZfWk5GLS1Fb1VGcF9ra253TjZ2LWtsNWczMEt6NFdSVGRVN1VvV1d0cld4UG1WUXUxdktkZkF1c19FWjRTTldXQlpFX2VaRkEwdFg2cXdOeHZPRDJXMThCZDlrdF8?oc=5"
+      },
+      {
+        "title": "PiS zadowolone z debaty w TVP. Komentarze na gorąco ze sztabu Nawrockiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWG5NTy1zU1FzZ2lZNzZ4VzFPeE1NVExmNF9OTWpOYmdLcFc0bmJVT09kMGJyN3VmcGRCT0dmSWdtdm90WUlTUTlUN285SDVZbjhTbWZoeUJka3pIN0p6alhoYW5fRjd4dWdNc3NqNkZtNDBjeVJiU2l3eFMxM1otbkNrZDJiRjhnSGNWbWt6QXZSQk1jVWs0NHhEVUVLWXJHODZqRGxTUUFXUzZZR1NZUkRZaUw0QQ?oc=5"
+      },
+      {
+        "title": "Sekcja zwłok zamordowanej pracownicy UW. Nawet prokurator o czymś takim nie słyszał - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3phSGZkUlB6Q0NtTHA0a1p4aWl5bFllSElBdWU4V2ZqeWZLa2Rxa2tsUzZQRi1XSmlhRHB5enAxSDRGemY4U0plTk04dklzc1NTYkowbGdtakNmRjVFSzRhU2NsME1Td1NZTlN1WjBpRkNUUmZnZ3hyRGVUZXlET2RrRlBycDVlN0xSTHd0aVZvcW1wQ1Q2WldwNHlaeFE?oc=5"
+      },
+      {
+        "title": "\"Cały naród byłby wdzięczny\". Wołodymyr Zełenski reaguje na wypowiedź Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGZKRjhHbkdkdEo5TFlCVEdlR0RQN0I5cXYwNkRtUC1ucmJRVmZSWUdUUVRNX2FKOHV5WjV3aDh6TkN1THpOMjJyTjNGcFpST2lyd0FicTk1SzRjZ1gzNkJDOS1kRkxia3hLcmFNNTJ4OVR3dW50dGlSdjMydHJqbVFOY0hxZnRkYU1YNXlCRkZyR0pwNm5BdW5UaXRiTFpSSFREODRMSW55Z004QXc?oc=5"
+      },
+      {
+        "title": "Dwa scenariusze II tury. Nowy sondaż prezydencki dla Polskiego Radia 24 - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlhjUUF5TTd4aE1FbGthaTc4RkkwMkRrRG5VRC1STHdETUctS2I5SDUwVENtZ3BLWmFCblBwcXVCQUFSTU9iMmpYdFctczB4Uk51bFU0Mlh6Q25HTHc0SmVfZElHWEN5SXdlZDFKeFJ0VWM1ZEctcmVzSGlKOE1uY2Q0aWlFVzdOMGI2bWoxOVlqSUgya1VKbm5KbHJUclZQU2dlSkk3d1VBQU1GQW9MZm9B?oc=5"
       }
     ]
   }
