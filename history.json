@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-13 09:14:33",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.8011,
-      "EUR": 4.2337,
-      "GBP": 5.0156,
-      "CHF": 4.5164,
-      "JPY": 0.025727,
-      "AUD": 2.4367,
-      "CAD": 2.7236,
-      "CNY": 0.5271
-    },
-    "crypto": {
-      "BITCOIN": 392844,
-      "DOGECOIN": 0.856719,
-      "ETHEREUM": 9413.64,
-      "LITECOIN": 394.97,
-      "RIPPLE": 9.58
-    },
-    "indices": {
-      "^WIG20": 2821.58,
-      "^WIG30": 3648.1,
-      "^WIG": 3648.1,
-      "^NCINDEX": 246.64
-    },
-    "news": [
-      {
-        "title": "Kto najbardziej zawiódł w czasie debaty prezydenckiej z 12 maja? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmlIOEU0amhkU1ExRUdfWTRiVFBneGhKYlo2Rkljc28zTFFFNGFPSzhWNTg4Slp1d2VxTTFJN1hrTTBtR2F5dW0wNUlUdk1uODNTZ19RVkZReUhKS25tSGlCRVZFdXlob0gwTy03eXpnekRXTVg3bU9GZ1ZWTVVfZ0NMeHBMczFJOTN5bWJ2bklxV1FEWWo2c2ZJcUExNjExOXRhX2xGNUNUVzBWUHNGRTlnX3VORkhnZG01b3FNSnVwR1Fsd0wwZnhhMG5sZ3NaRXZV?oc=5"
-      },
-      {
-        "title": "PiS zadowolone z debaty w TVP. Komentarze na gorąco ze sztabu Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWG5NTy1zU1FzZ2lZNzZ4VzFPeE1NVExmNF9OTWpOYmdLcFc0bmJVT09kMGJyN3VmcGRCT0dmSWdtdm90WUlTUTlUN285SDVZbjhTbWZoeUJka3pIN0p6alhoYW5fRjd4dWdNc3NqNkZtNDBjeVJiU2l3eFMxM1otbkNrZDJiRjhnSGNWbWt6QXZSQk1jVWs0NHhEVUVLWXJHODZqRGxTUUFXUzZZR1NZUkRZaUw0QQ?oc=5"
-      },
-      {
-        "title": "Dojdzie do rozmowy Zełenskiego i Putina w Turcji? Prezydent Ukrainy: dziwne milczenie Moskwy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXB6NjVFMUZsck9nd3FkcHdRRURya21lWm5lUE9kVHEtZW9Md2RLdGNlSmZwSWdwRmhkUlg1c3lBMjc2NFNvam12b1NuZWh4cWZYaEE0bHZrd1BZNHpPSlNGeUprU1FCR0l6VGtBOHVKRzJnLXI3WnpYUHRuQ205RmR1WjBhWVJYR3R5NHhfSktwai1kWkZuYjlMY2UzWWwtbkhFc0RtbktZQllSajJwY1FMSTlqdTVoM3NIRm9GMDZISWFTY20wbU9OR2tjMno4M3pod2tsN2ZESFRN?oc=5"
-      },
-      {
-        "title": "Startują egzaminy ósmoklasisty. Dziś język polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmozb2pFTzdrTVRqYjB0WG9kNEg4YVNFM3hTMGJreXVjZWJkbU9GODNUbjBSLVA2dGRjWHFLcU0tRlVWdWFmZWFVX1NZRHVWVzQzV1FsMXlBand3UEdIOUhNZnV0MExnNXVsbjU3OWx0N2xWWUZCSEI0YllQYUdUbmV2dXpoYW5PTUxhdmpHX1h5Y1VhY3ZManFoYWV6eDNqSXI5Q0QtQ3A5TmhC?oc=5"
-      },
-      {
-        "title": "Debata prezydencka. Hołownia stawia ultimatum: Wyjdziemy z koalicji - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUFodU9kMFVrMUcxcll3UjFta3AyZmI0dV9iakVVVmtnT0dZVjNjc19zRzg3dXU0Yi1IeFh2Q1ZFNVNqVkREN25MUFYyWGFaa3J2VXNGMTdwS2ZWYUxIYmdObnh0NjA0Y1JTVzJEdEwta0lFU2YtaGFubG9lcTBQRTFaSlVpaUZaY0ZmV0x1SjAwT25xMFI4elJ2N2liRjgzWWNSQ9IBowFBVV95cUxPSDh1QXNsXzJrb25LNVc0TndzVXVha09iNFBGWm5TSWdrcmtiLWlzcHlpRU5Ya1hqM2ZjVG1sTDcxU1VKeE41eUVCZkFNYzBFS2N1cDdJWWRIM0N5VTNjcm0wa2xZSnBia3laUlVuOUVSMk1QNWQzcDZfYkFHV1FBRndXQk9EWnF3dDBrdGVrRmVqR0d1SmUzX3RPMDEwdnBQcWlN?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-13 10:19:28",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Biejat nad Hołownią. Przedostatni dzień z sondażami przed pierwszą turą wyborów - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbE5uQWxjRFlYNUdVLXUxaTluazVCVGFtN2U3RVN2Q2t0Qk5lVG9DOTlta0ZoaTZyX1lNTWxKV283dmZOMW54YnB0RE0xdUxFbWNGSEJNTm8zUHV1bG1neFFydW5hN3JiVTVDOGJ0RjdPa05DenZRbk1HdDg2MTZOZjUzbkNkSlBwdkFsZWVzYWlRUXpZdmJMT3Z3UHoteldQOG8wajE3OGtwTTVlUF9adkFTMFFSd1pkM3VaeXJ5UldiSTNjRjlZazdyNnpWUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-15 15:24:55",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7804,
+      "EUR": 4.2378,
+      "GBP": 5.0238,
+      "CHF": 4.5184,
+      "JPY": 0.025937,
+      "AUD": 2.4274,
+      "CAD": 2.7039,
+      "CNY": 0.5242
+    },
+    "crypto": {
+      "BITCOIN": 388610,
+      "DOGECOIN": 0.861325,
+      "ETHEREUM": 9687.52,
+      "LITECOIN": 371.85,
+      "RIPPLE": 9.35
+    },
+    "indices": {
+      "^WIG20": 2814.3,
+      "^WIG30": 3631.66,
+      "^WIG": 3631.66,
+      "^NCINDEX": 242.51
+    },
+    "news": [
+      {
+        "title": "\"Wyborcza\" ujawnia: Karol Nawrocki pożyczył panu Jerzemu pieniądze na 20 proc. rocznie - trojmiasto.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSE84Z2FUTURHYTZjV2ZyOGRzOWxUS2ZnV3FqRTRrUVJjLWZiRERIQWlIakxtQlo4LU1MQzRhTU1XNk5Sb09uVFNZM1ZJNVg2bGZtR3JoY1BjamRtbU12VEExdUszcldIdzlsLTdjenNnQm9pWXhyNFpzb0VHR3ZFc3oxUGdJWU9rTkdSV0JaTzQ1NTdUeHZwOE9mUklVQ0Voamo4S20xWXpmZlRvQVBxTXZYdHMwWkptVFI1VXljMHFXU2kteWc?oc=5"
+      },
+      {
+        "title": "\"Masowa akcja dezinformacji\". Sztab Trzaskowskiego alarmuje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3hWd0QzelVLcFdRRW5OU0R3N1QxX3lRQWtuazVoMDBQU3VSYm14dXpXZlhpX1RISFhfdTM5cDRmSVJ3c2xMd01sVUJyNkZtVjdvZGRLdVNpZUlob1Mta0Y1ajFwY0hCbFFIcjRFX2ZtRk0zdUY4TU1FaDFoUGwzclZGTnBFVlRBVFItcTFuUF9VZkgxbkhLYy04X1lYOGhZSWdGQjJGX1F1Zw?oc=5"
+      },
+      {
+        "title": "Child Alert odwołany. Policja: 11-letnia Patrycja została odnaleziona - Gazeta Prawna",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGJGOGlTQlVZV0tXZWt2Uld2cG5lQXdtVGhzVENDWTRKWXVBdEYyV19hZm50S0txT3hpR3BaaHIydS0yVzJkM2hwM3M0RVpWY3JBZjNYUFd6ZXZ6SGU3cGMzeXJfc29mRFFPbk1UUm0zMWdEXzVyY21nVXNRYzNITWNpRkJIRjFTc2VXWFlMLWNyS2FWVUNhakdmTy15ZkNMNG1QS3IwbVVXb2dXeW1wUjc1RU1ZNXdJYm5uRXZvbnlEMEpuUXlTS1lpSlhMZw?oc=5"
+      },
+      {
+        "title": "Nowy sondaż prezydencki: Na czele bez zmian, Magdalena Biejat przed Szymonem Hołownią - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVEI4TUNPWXZTU0xSajZyb2oyOXpTdUM4YktQNS1heGdfeFk0S1A3RUEyUWZZZ0NaWVdrQ0pON3laZTVLdGpsaFQzbmxISDkwTFJON1NxUkIxNk9YbHJTSFRLVVA2RnBScEZBUDY0Xy1rNlcwb2xZd1FQcnAxZHBHeWQ1aHNENlNUMmRtSVMwWlJUVVpxbElIcHluNmgwNk9lcDAxRzVZdnljc0lKRVNDVWxQemhCdjkxTFhPSmRycw?oc=5"
+      },
+      {
+        "title": "Przełom ws. Sebastiana M. Minister podał decyzję z ZEA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2wtNDJJc012WWhOYlQ5NTNwa0VGbW1LMjhxNkd1aHBrQjFYSTRRbE5ZUTV2S1ZCOS16OVNHdVdJUHlaZFh2MXVyRERiOS1saHlRN0xveTNkekRfUE9rYy1XM3Y1V0JqWGpOS2xOTUlLek9OOFFhbHd5dWtZV1c3OHppY21zZ3o5Mm5nSEx4bTFnRy1SXzR3?oc=5"
       }
     ]
   }
