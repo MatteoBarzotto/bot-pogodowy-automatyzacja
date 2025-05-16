@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-14 13:11:50",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7775,
-      "EUR": 4.2455,
-      "GBP": 5.0419,
-      "CHF": 4.5206,
-      "JPY": 0.025829,
-      "AUD": 2.4519,
-      "CAD": 2.7151,
-      "CNY": 0.524
-    },
-    "crypto": {
-      "BITCOIN": 392440,
-      "DOGECOIN": 0.891692,
-      "ETHEREUM": 9830.47,
-      "LITECOIN": 386.11,
-      "RIPPLE": 9.87
-    },
-    "indices": {
-      "^WIG20": 2824.34,
-      "^WIG30": 3646.57,
-      "^WIG": 3646.57,
-      "^NCINDEX": 245.07
-    },
-    "news": [
-      {
-        "title": "Rafał Trzaskowski może mieć problem. Chodzi o ujawnienie danych Pana Jerzego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWtfYlBXUXVwMmNiRDlzcTJ0bkFJQ0stRWNYN1hMYVhhdUZ1QXBnSTNUUENlbm1yc0l3VU9MbS1qZzIwT1FyZm5sdTFHTjVBNGc0RkZCQl9wVHgzVTEtNDJFMnJLYnB4Sm5IXzVvcWNwTUpKbWItNU54djJYQktvVVNDb1NxTGRHN2x0MlJKbDJ0cy1paXl1OWVrS01uZnpLR180dzNaNDFRNXF3NW8xaUN4M1BldWNqOXM2MDdnS1kyUEk?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. Nawrocki ma problem. Trzaskowski zwiększa przewagę [SONDAŻ] - Gazeta Prawna",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVjJwSGlKcmlUREV1UkRhcFRRX3FYV2hyWTByYzh5Q3NEQ21FaXBkTHhkTUNLQTFSUW0tMXRQeFBrRUxRZnJQY0tlWmJSa3JSVGNRaHM2TkZKTURlNktmSTRkOXJ2akU3ZFJIeFowRXVhZXFrS0c3b0JEaElDcjlJa0tBTUpnTUozVUh3Q3dCbVhpajdiOFFvY2toQmp1UHgwV0Q5dGxDLWNETDZhS2VZSW9Ed01sbGZvOEtj?oc=5"
-      },
-      {
-        "title": "\"Kawalerka Nawrockiego\" wraca jak bumerang. Tym razem chodzi o... areszt pana Jerzego - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVZ3RUFuMEhibWl6c2ZfbHpiNnpXV0RGNWQzZXhFOXBDSjFBTTBvS2czNXBDTi03Vl80emJ4b3RVdnktbmdxYXdaR0daNHB0X3VLcHYzZTdYXzY4NGFDeFMtTUd6dWwzMHBvdURKMml5YmlIa3BiY3AzcjZpeUJGdDNRSTAxNTRaVVdoZzhBby03d2pIMzhIVWtvU19qcXZGZlpzcmsyLV8xQkxKakNXcGdnMEJ6ZTVHXzJHSXpCVG9tb2vSAcIBQVVfeXFMUDVUUDhhX3BSeG41aElQTFI5WUlfQ3N1eU5LOUhUUUNQZ1QtakptdXo4LXRMZXd2bzE1UmptakROOUdjb2toR1o5czIwWVlJVHlSZDY0dmh6djFyelBjVHcyWTE1RVFkQUhqMGFUZjhMMWluMkJxZ2ZjbU1qeUxCN2hKTW1rSlFZVVY5emFSLTNieXlfb1F1VmxGRDFqQUZJc1Y2Ni13NUxGM25jeGdzMlhBSlZBWFBXeXEyXy0xelU0WXc?oc=5"
-      },
-      {
-        "title": "Egzamin ósmoklasisty 2025. Matematyka [ODPOWIEDZI EKSPERTA I ARKUSZ CKE] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUno5c3d3Q0ZNMm14bGxPVVVadTloTFg5d3dXcWJnY3J3aVN3S1hHNHNEOGljZU9BTzNuRHliNTU0OXVaMzRBalg1VV9EVjZ2TDd0elNLeDJnend3R2Nsd2lZQzFoZWNMLUdDckgxRVEyX3puclNNbVNFZFZ0a3NZaE1lemJOWWI0V0V0UV9YWHBTMG5Kanl3YjkxbEJGYWxweE9QeVRIUXlxbmNVU2c?oc=5"
-      },
-      {
-        "title": "Ponura analiza Zełenskiego. \"Ukraina nie przetrwa\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2Vqd1Jpdkc3RFBBc0xrX2t5aVRGRFJ0eXhfUTFMRDRzZXlPamZwclBGaHRYRF9wOEljdDBpNVdMWXk4a01adnVPZWJZNHVNUlg1TkIzSlBGT1ByZmlxOEdLVjZvTHpFUV9TYS1fNzQ0NExGUjg3ZWRDZUt2cTNKLUdpdHN0Rkl5R0JDTVJqckdTSmc1dGRQamEwcw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-14 14:27:40",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Nie jedno, a trzy mieszkania. Oświadczenie majątkowe Karola Nawrockiego - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmVBZmRLZ1l1c05CNFJsV0tKd3RQYkxwcUhLVTQxa0NSenUxTHZQUDl4bk1NM1ZDcE8wUnZPNHlRNy1vbUtFSDZDUzA4UWdMWXV2UHBLanJBaXUyQnNYc3Y5ZmNCejZELTc0UUotUG9WM0Y5SnYyemhCZ1BnOERGdm5MZDZBNDNtQ1MteENrU0FTN19lV0sxaWFFaENDNFdBZUF1bmRHUkotNzVSMXpJSWtzbHNFeUlocy1VaC1IcEFQUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-16 19:11:07",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 398410,
+      "DOGECOIN": 0.872564,
+      "ETHEREUM": 9889.19,
+      "LITECOIN": 389.35,
+      "RIPPLE": 9.23
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Sondaż prezydencki dla TVP Info: Maleje przewaga Trzaskowskiego nad Nawrockim w obu turach - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0lUVFhUbFF0enZRYkc1b09VNW9TQ3hDZ05TdHhUUWljeDRrM2dyY2d0SVdWR1NoSG1YQThHNzVPcFN4aWFpeXJFS19ON0VuVFhPYjBXS2NvT2U0NkRwSzlkTThpRkNHbkVMalR1dnFudkxkcHFGTjEzU2JreDZ5VmpaYm1TNGpNMXJxdGg0andHUHJMMWlHRVdwWWJIenBiMU4yajM4aFVhSkZydFR5WWZNZVNXemNpakpYZnNyenAtQQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk skomentował rozmowy Rosji i Ukrainy. \"Zerwali negocjacje\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlBUQUdQYzVRN0luN0tyYnh2cWMxcFdFZWcwanJGSEFuU3M5bjRHWGVPdHFVZFQ2QzVibnljMGhlRVdPQVFyZFdLemVDLTE0YmN4N1dtSFc2eFZvT3M5MERWTXJ6NEx4MXFZMHo3QmxsYnVsV1BrV05Eem1nc3dTRV9odWtvVzlXeF9ibnZDczQ4QVZhWlNzOF9tbndrV1ZFRFFobQ?oc=5"
+      },
+      {
+        "title": "\"Kłamią bez przerwy\". Mentzen krytykuje rządzących [RELACJA] - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWwtMWlUYkxoanNhYU9fVjNRLXhnS2hybngyZDEtamdZRjFvRlBOOFFKQUgwMFFEMWxpOVVpLXVReFl6Q2h6YVBKX2owaVIzZjVPS3p4UGtvakl2cV9BTHpQRW5OdTFMVS1IMjlqUGNETDVxMjBlejRhVzgwemRkaHZYQmk0cmdjV3paOVRuQlpFdXAtenJyY1VINUNDM1RZRE9LamhEUXk?oc=5"
+      },
+      {
+        "title": "Zaginięcie 11-letniej Patrycji. Szokujący zarzut dla 24-latka z Żor - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkRpVDVQcXdwM0ZMMVZ3UzdYNElDc241SmJ1RGhYMWJET2xVRWd2YzFpLVpHYkU0QW5wQzdSTW5zVTVzaDBWTGNWU1NsQlp1dXgxUEJpYmRsemtlY2VDelFVQ1FicGtyVXlmQmdyd01XMGMxRUhac2JEM0Y5eDFJR2NnUXppWlhtVjg5UmNLbmxpbHlOZGpSdm4tQjZremFNS0VjUWRSVnZ3dw?oc=5"
+      },
+      {
+        "title": "Afera z reklamami politycznymi. Andrzej Duda zwraca się do szefa ABW - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHRMalZHbFE3UW5DLWNHVW9zZlc2RjhCa0JreEpiSDllMHVPOUJUWGx6bGMza1F6cXVIcHJtLUxkTkg4ZllNUzFKTUVKOWFLSDFvTFU4N2JveWQta2k1R3gxSVR4UWc0T1pWV1k1SWxzTTFjbzJyUE1EOWotbnZtRjFVQ01feXZKMllEeEF0X2hrcUZobkNZa3JObnNLVHloUXhZREtGRzNsZ1VYUEkySmNYd2JUNGhjSmdTbTFFeEY5TDFOLS1YUjl3?oc=5"
       }
     ]
   }
