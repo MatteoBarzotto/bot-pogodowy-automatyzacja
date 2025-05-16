@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-14 14:27:40",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7775,
-      "EUR": 4.2455,
-      "GBP": 5.0419,
-      "CHF": 4.5206,
-      "JPY": 0.025829,
-      "AUD": 2.4519,
-      "CAD": 2.7151,
-      "CNY": 0.524
-    },
-    "crypto": {
-      "BITCOIN": 393369,
-      "DOGECOIN": 0.898872,
-      "ETHEREUM": 9927.66,
-      "LITECOIN": 387.37,
-      "RIPPLE": 9.89
-    },
-    "indices": {
-      "^WIG20": 2841.37,
-      "^WIG30": 3666.71,
-      "^WIG": 3666.71,
-      "^NCINDEX": 244.59
-    },
-    "news": [
-      {
-        "title": "Egzamin ósmoklasisty 2025. Matematyka. Arkusz CKE i odpowiedzi - Interia",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHJPZTRDSUdMMVZtRnVGRUQxMWFIdktua0k3b25lNE1RYlVmV1BlY0k5c1d1eTBYbm1IeDdKYXh4cVNENF8zeDloVER0S0dQalpzeXk3S2txYVZ6NHlMSUNLN1JXSGFHSmx4b1plOXZkb1J5b2JheEFaaXV6bkhZSW5WZE1kMERTVXBYSDZHejN4WGFPTkp3MkxNTkZLMDJ6ZDdWSUR2NVJacVQwVXAxQ0hNRTlHbUN6VXZYZDZLakF6WHIyM0hTOW4xT0RwMVpnZEZR?oc=5"
-      },
-      {
-        "title": "\"Kawalerka Nawrockiego\" wraca jak bumerang. Tym razem chodzi o... areszt pana Jerzego - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVZ3RUFuMEhibWl6c2ZfbHpiNnpXV0RGNWQzZXhFOXBDSjFBTTBvS2czNXBDTi03Vl80emJ4b3RVdnktbmdxYXdaR0daNHB0X3VLcHYzZTdYXzY4NGFDeFMtTUd6dWwzMHBvdURKMml5YmlIa3BiY3AzcjZpeUJGdDNRSTAxNTRaVVdoZzhBby03d2pIMzhIVWtvU19qcXZGZlpzcmsyLV8xQkxKakNXcGdnMEJ6ZTVHXzJHSXpCVG9tb2vSAcIBQVVfeXFMUDVUUDhhX3BSeG41aElQTFI5WUlfQ3N1eU5LOUhUUUNQZ1QtakptdXo4LXRMZXd2bzE1UmptakROOUdjb2toR1o5czIwWVlJVHlSZDY0dmh6djFyelBjVHcyWTE1RVFkQUhqMGFUZjhMMWluMkJxZ2ZjbU1qeUxCN2hKTW1rSlFZVVY5emFSLTNieXlfb1F1VmxGRDFqQUZJc1Y2Ni13NUxGM25jeGdzMlhBSlZBWFBXeXEyXy0xelU0WXc?oc=5"
-      },
-      {
-        "title": "Ruch UODO wobec Rafała Trzaskowskiego. \"Podejmiemy sprawę z urzędu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNREdFbktVbUl5RkM5TmxlWU5YdFc0YnNpaHhZb0lRNGVwTHctRE1wRkV1eGpQTGNDc19WS0RISEhyT0xKbm1MMlhYaFIxSW1STDVjVnk4TXVIZWcxWmVnc0ZGYXVBMmVSNFpXUlA2SzdqdVRma2tUT21Od3F4RWcyTXdfMmNIQ29VNm5Gai1TQko5UGx4NVpza2k4QWgxVzVOTklxZndoT3VLVl83SHNwYTd2UnY3N0tlSjFmWHRzNWs2NndF?oc=5"
-      },
-      {
-        "title": "Wiemy, kto \"ściągnął\" Simiona do Polski. Kulisy niespodziewanej wizyty Rumuna - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFJWdDl1WS1PaDlEWXhiRVVBblZ1Z2NmSTF2ekRCTFBVM0ZZaExjUUlySzQ3UUI5RWEtSzFWUng0Nl83dnVnWVBvczAzMHZyN2hIaG5Na3NqR1NlZlBtRXQwa3YtelduMGtZNF9JNld1bHBtN0Zhdzh4dFFWenNUXzk0RWNoVzVfOFAwajUxbnlxZkEwTXpTTHV0Yk5tcjVXM3BWWUlqbnFnYUxoOEFmU3UzYTU3bm8?oc=5"
-      },
-      {
-        "title": "Ponura analiza Zełenskiego. \"Ukraina nie przetrwa 10 lat wojny\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2Vqd1Jpdkc3RFBBc0xrX2t5aVRGRFJ0eXhfUTFMRDRzZXlPamZwclBGaHRYRF9wOEljdDBpNVdMWXk4a01adnVPZWJZNHVNUlg1TkIzSlBGT1ByZmlxOEdLVjZvTHpFUV9TYS1fNzQ0NExGUjg3ZWRDZUt2cTNKLUdpdHN0Rkl5R0JDTVJqckdTSmc1dGRQamEwcw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-14 15:26:12",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Afera z reklamami politycznymi. Andrzej Duda zwraca się do szefa ABW - Onet",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHRMalZHbFE3UW5DLWNHVW9zZlc2RjhCa0JreEpiSDllMHVPOUJUWGx6bGMza1F6cXVIcHJtLUxkTkg4ZllNUzFKTUVKOWFLSDFvTFU4N2JveWQta2k1R3gxSVR4UWc0T1pWV1k1SWxzTTFjbzJyUE1EOWotbnZtRjFVQ01feXZKMllEeEF0X2hrcUZobkNZa3JObnNLVHloUXhZREtGRzNsZ1VYUEkySmNYd2JUNGhjSmdTbTFFeEY5TDFOLS1YUjl3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-16 20:18:59",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 398127,
+      "DOGECOIN": 0.867507,
+      "ETHEREUM": 9885.73,
+      "LITECOIN": 387.79,
+      "RIPPLE": 9.21
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Donald Tusk skomentował rozmowy Rosji i Ukrainy. \"Zerwali negocjacje\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlBUQUdQYzVRN0luN0tyYnh2cWMxcFdFZWcwanJGSEFuU3M5bjRHWGVPdHFVZFQ2QzVibnljMGhlRVdPQVFyZFdLemVDLTE0YmN4N1dtSFc2eFZvT3M5MERWTXJ6NEx4MXFZMHo3QmxsYnVsV1BrV05Eem1nc3dTRV9odWtvVzlXeF9ibnZDczQ4QVZhWlNzOF9tbndrV1ZFRFFobQ?oc=5"
+      },
+      {
+        "title": "Dyrektor NASK: Afera z reklamami atakującymi konkurentów Rafała Trzaskowskiego to może być prowokacja - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkJPVUtuUFNCYTVhZllRM05Sam1QTkdOVzQ0MUtSVHNjSF9MVmVQc2RzYi15V0I1eV9ISmo5WTFHQlVhXzNyYWw5Z2RfZWVhTnI1VThRMXRYaVkyRnZoc1VIc2ZkNTd6Z2FMcG9vRlZZWFY2WjFDS2JGUmhIQjRkSTRmUFhwZWUtZ2tPcVVtVFFSNXk5eG9uRWJjbzNidVZ2cEhqVUs0UE5haWdqT0JPXzhzWnZpMWRPMndvZy1XT2E3Ry1rRkVCU1VvamRmdU1fcF9YVFJ3?oc=5"
+      },
+      {
+        "title": "Trzaskowski z poparciem poniżej 30 proc. Jest najnowszy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDNLMjl3RVMyYmh4SXFwT0RxaWJrWWNtUUNoczVMbUlUeEp5T3FwUXFMUUlucjAyQ0NGVlFVTU1kR193ZlJSMTVRcVpEMldPbGsxcXBGWGNBMWhjUUo0TGNvTXFXc0drSU9rSFh2SXFFSVpVbG1lM1FTbXRTLUpnNXNKVm1NSnhXOXc?oc=5"
+      },
+      {
+        "title": "Nie jedno, a trzy mieszkania. Oświadczenie majątkowe Karola Nawrockiego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmVBZmRLZ1l1c05CNFJsV0tKd3RQYkxwcUhLVTQxa0NSenUxTHZQUDl4bk1NM1ZDcE8wUnZPNHlRNy1vbUtFSDZDUzA4UWdMWXV2UHBLanJBaXUyQnNYc3Y5ZmNCejZELTc0UUotUG9WM0Y5SnYyemhCZ1BnOERGdm5MZDZBNDNtQ1MteENrU0FTN19lV0sxaWFFaENDNFdBZUF1bmRHUkotNzVSMXpJSWtzbHNFeUlocy1VaC1IcEFQUQ?oc=5"
+      },
+      {
+        "title": "\"Kłamią bez przerwy\". Mentzen krytykuje rządzących [RELACJA] - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWwtMWlUYkxoanNhYU9fVjNRLXhnS2hybngyZDEtamdZRjFvRlBOOFFKQUgwMFFEMWxpOVVpLXVReFl6Q2h6YVBKX2owaVIzZjVPS3p4UGtvakl2cV9BTHpQRW5OdTFMVS1IMjlqUGNETDVxMjBlejRhVzgwemRkaHZYQmk0cmdjV3paOVRuQlpFdXAtenJyY1VINUNDM1RZRE9LamhEUXk?oc=5"
       }
     ]
   }
