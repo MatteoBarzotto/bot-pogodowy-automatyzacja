@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-14 19:12:16",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7775,
-      "EUR": 4.2455,
-      "GBP": 5.0419,
-      "CHF": 4.5206,
-      "JPY": 0.025829,
-      "AUD": 2.4519,
-      "CAD": 2.7151,
-      "CNY": 0.524
-    },
-    "crypto": {
-      "BITCOIN": 390933,
-      "DOGECOIN": 0.876237,
-      "ETHEREUM": 9783.27,
-      "LITECOIN": 375.97,
-      "RIPPLE": 9.64
-    },
-    "indices": {
-      "^WIG20": 2831.42,
-      "^WIG30": 3651.98,
-      "^WIG": 3651.98,
-      "^NCINDEX": 243.37
-    },
-    "news": [
-      {
-        "title": "11-letnia Patrycja zaginęła. Wyszła od dziadków i ślad po niej się urwał - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazZXeldIelktcldhMWVKQ2NDaHJMV2V3aEZPV09xUV9IWkZHSElSY21GcU94R2M3QUlVcHI4NlpqclVvWkplMDA1VUVQTVBxaXg0ZWpkeHMzMzRER0xZN0d3Vnh1QnhiU2gtaWVseUFSTmV1UnNVeDhFWlUtTXpLZkxFTzFoT0h3cnVRblhCRy1PSXdoRm8zZk92dUFaMUFfd1F5TG1JSk1VZ9IBrgFBVV95cUxNODc2UDI1bHFFa3Nmc3hfT3pXdnZFbzRtUVI3b0E3TEpOUnoza19heUZsdy1OLVhvZHFqMW0tbmFxcXJDRkxreWQwd1ZCNFRvc2dIenVKYkdTOG1UdkJfelRyWS1rdnVJdDhVZjVqb01EMUNzbHYtcVFyME9yLW5kd3RPQ3gzbVVLNUpHckR6aGNXT3V2VkctaXpoc1kzTzA2Vmc3d2MycnJ3dzhfeWc?oc=5"
-      },
-      {
-        "title": "Putin będzie na rozmowach w Turcji? \"Jest taka możliwość\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmR3aU1hTVlDX2dSUjM3SjBvVGdLSFIydHRFYVE0MXMxejJDMURDaUM1Zm52QnJ4dzdKMlFGeFJjWUlrSHRWWl9NaXloRk95b2Z2MWc5eVNiSG1meEt1V3d1SHpnRTZQYm1DNXFjNkEwYVNSUzVBQVIwTXYyTHVCUlNnY1lBaHpwREcxN0F3Wkh6NEtJYWZrRXZlNHJoRXlhQzVSRHJ3?oc=5"
-      },
-      {
-        "title": "Ósmoklasiści napisali dziś egzamin z matematyki. Ekspertka: był stosunkowo łatwy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3ZhSzYwOUNwcDRFemtHNXdYRkVuazVwd1dMZzBiT2VLSjh6UjBUYVNPUHNVSUg2UEpvTExrc1JQaTgwaEF3VXlFbE9TYU9uVHFmR0RmOVJ6d3dGanoyYWtjSjF4bFdQQmZPaDNJTkFJc2NJSXR6SVR4dHdFUEE1ejE3TkVDekFMbXFWWFIzcTRZRm5xdmdGUUFLRkhnanZyZmlmbmhJa3pMdVVHeXBHVWFKUHFYU20zNGRBQTZ3UzZaTy1vQmx6dQ?oc=5"
-      },
-      {
-        "title": "Polacy powoli decydują, na kogo oddadzą głos. Oto nowy sondaż - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWdVeFNfT21NNWVBWHFvajRoRGItaTQ5N01nZzI1ei1yQW84dGtsd1FwOVhuRG1YQ2NrcWRLRFZKVXR2TVRyMHJWaW5pc1J4SW54WFpsM0VnTjRmUm9kMlQyNXNBYVdkWWhjVk5nY0NKNGpoWTVrSnlDZ2dsYkZ0NEtiS1NmZFlDWlp1TXFtQ3BDVjhvb093NFpJVGlEMmVmMklzczlGMGlrUWV5dXNvSGxpZE0?oc=5"
-      },
-      {
-        "title": "Zmiana wyboru w ostatniej chwili? Poważne ostrzeżenie dla Nawrockiego i Hołowni [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0VrQ3RVekcxWUlkLWFIaEtFMG9CYTJ1TEthY3ZPMkZKZk41LVExWmxtRnBlU2RoSnBIQTRVOE16SFB5UXE0T19XaHBLOVZpZHlEV2lzMEF5M2hiQURrUlBjRHkxOVE3bGxucV9UaWdUUlhFZGRoOUpEWmlIT1N3ZFFjaHVKQzNac2xmS3JSX2VvaGhBZXoxLWt4WVRFV2dNWWkwdEFyeHRrQlJaTWViZ1BCZVBpaFp2cEptQlBhYmhpYVVSbDB2aEVZV2ZlQ3JE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-14 20:17:04",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Zbrodnia na Uniwersytecie Warszawskim. Tak Mieszko R. zachowuje się w areszcie - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTURwOFJCdUdtZWFGeWNjWDlGS0VtRFk2WWxEMXBJZVhiU25IYndPbGJwOF9zUlRfWlNyQTJ6TVU5d29LSDVYRlU1OUNYNXRTbWNBU0kyUXYwSlFaeE9hNlhaVUpMOWRKNVo2WHJSdFlHbnl4bF9GUEd3OVJCN1RqNUdCQ1BLZXF2NGlITnZJSzNaaFZ3MlZ4TFZYc3J6V3g0VmhocEZJeWhDOWprSjN3S1hZNFJpcms?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-17 01:12:59",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 396121,
+      "DOGECOIN": 0.848852,
+      "ETHEREUM": 9752.22,
+      "LITECOIN": 380.63,
+      "RIPPLE": 9.11
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "To ukraińska delegacja usłyszała w Stambule. Media: Rosja grozi - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnl0UGNyc1JpeklId0VwQlJSTm9xa25EMlE4bXg0dHU5XzdCOXVmZkN0a2lQcERISkRZMkdHWUlBOWJNc3FSSDZvTlhHQ1I3cC1Td0xVTUFXbWp0dVhDVThTU1JVbVJrU01oMzFmN3h1VzRoVG1uQzEyQVlHX2hGTkNRRVd4aXV5dkhxdkNweFdiOF9iYmRwcA?oc=5"
+      },
+      {
+        "title": "Próbowali wciągnąć dziewczynkę do busa. Pilny apel policji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzc1akpaaGFSc3Njd2ZtRVBncWdiNU1YcXJ2a29OQ3ctMXJtZm4yVFVXc25jVktkamtRT3BFbWlvUWZFbUpyRDh2T2NBUUx0MnRtdlRUX2ZLS1pKdl9rb1ZqMTRLSnF5WEw4MkxnUzJoc093aEVpblFiYmlDX0RBYUUzd0M3dFE2b1hmWFJta2tFa1Rvc0E0dHdBZmRmUXlMYXVKeS10LXlGN2w1ZHFyZElB?oc=5"
+      },
+      {
+        "title": "Zbrodnia na Uniwersytecie Warszawskim. Tak Mieszko R. zachowuje się w areszcie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTURwOFJCdUdtZWFGeWNjWDlGS0VtRFk2WWxEMXBJZVhiU25IYndPbGJwOF9zUlRfWlNyQTJ6TVU5d29LSDVYRlU1OUNYNXRTbWNBU0kyUXYwSlFaeE9hNlhaVUpMOWRKNVo2WHJSdFlHbnl4bF9GUEd3OVJCN1RqNUdCQ1BLZXF2NGlITnZJSzNaaFZ3MlZ4TFZYc3J6V3g0VmhocEZJeWhDOWprSjN3S1hZNFJpcms?oc=5"
+      },
+      {
+        "title": "Sprawa zaginięcia 11-letniej Patrycji. Szokujący zarzut dla 24-latka z Żor - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYkJRRFlXczYwV0Q1dURrSzUzVEZ3U3VfLWhsMlZDU0s1NlB1dnNWc1ZXX2ZEM3hSa0VDcm1jcFhlZl8xdm45QW96d2s0NU4yZDluYmJDUVNSLVZxNDktNHJ3cW1NelNNZE9Ickphb1JNMVRCd2xCVnJtZV9iZUV3Vm11T1I2TUhYMmVvV1lTeUxsRVpJekdobWZSc25KNE1ETkVXTkUxRjhKMzRIeFphcGtGNVo0b1V5NGdv?oc=5"
+      },
+      {
+        "title": "Dyrektor NASK: Afera z reklamami atakującymi konkurentów Rafała Trzaskowskiego to może być prowokacja - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkJPVUtuUFNCYTVhZllRM05Sam1QTkdOVzQ0MUtSVHNjSF9MVmVQc2RzYi15V0I1eV9ISmo5WTFHQlVhXzNyYWw5Z2RfZWVhTnI1VThRMXRYaVkyRnZoc1VIc2ZkNTd6Z2FMcG9vRlZZWFY2WjFDS2JGUmhIQjRkSTRmUFhwZWUtZ2tPcVVtVFFSNXk5eG9uRWJjbzNidVZ2cEhqVUs0UE5haWdqT0JPXzhzWnZpMWRPMndvZy1XT2E3Ry1rRkVCU1VvamRmdU1fcF9YVFJ3?oc=5"
       }
     ]
   }
