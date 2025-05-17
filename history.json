@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-15 01:11:47",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7775,
-      "EUR": 4.2455,
-      "GBP": 5.0419,
-      "CHF": 4.5206,
-      "JPY": 0.025829,
-      "AUD": 2.4519,
-      "CAD": 2.7151,
-      "CNY": 0.524
-    },
-    "crypto": {
-      "BITCOIN": 391553,
-      "DOGECOIN": 0.878211,
-      "ETHEREUM": 9819.36,
-      "LITECOIN": 383.11,
-      "RIPPLE": 9.65
-    },
-    "indices": {
-      "^WIG20": 2831.42,
-      "^WIG30": 3651.98,
-      "^WIG": 3651.98,
-      "^NCINDEX": 243.37
-    },
-    "news": [
-      {
-        "title": "Putin zatwierdził skład delegacji na negocjacje z Ukrainą - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3Z2SjU3dUMwVW0zclpiSzNKdWphZWlLT3BNUVVJWE5tQ1g2OXZ1eVQ3UVRhZmpTa0kxa25QVFdSb3g5N2lwMjF0eUY1S1dJR1BxQXdnZHZjck9hX0tfcE9oQVN2enVrVXVtZHBDMWFYY1pkcW9KWHlfWS1KLXl5OGlMcm9meVFOVVdUTG9qZDVTbFRSYm1KdHZfTE9xM3lkMWc?oc=5"
-      },
-      {
-        "title": "Morderstwo na UW. Premier wystąpił do prezydenta - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXBCN1k4a09URGJTek14RUl5Mkd6TDlSYnVlWU5aV3VuTEdIM0N3VnczUnJCS2hTeTdrZzJ2b2VQRnZlTFdyWXNIcnVQQXRsUGVCUElvM1pHSjJYUWFIaFcxdjBnbnB3azlOTndwcThORk4wdFdweFZtcG9oQWkyT0pQVDA?oc=5"
-      },
-      {
-        "title": "Policja szuka 11-letniej Patrycji. Po ogłoszeniu alertu RCB serwery nie wytrzymały - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXJ5NjNKTDJyQWpXaU5WT01DeUdzVEg2LVNLMzlUOWVmcS1FclJuQURCTmhIclRteXIwUTVpU204Q2xZRGl3SFpUTWRlSFBocGpuUXVMUVVGSm5CUVlaQkJrWmJTWmNEekMtOXJYVXRfWVVWd1VZdHJkNlVEbncwd2duRXR1NnVwcVIzZWltZGFMQ2dJaFB4bmlSVXJleWd5aVFTa2FTUXByUTRzbmtfY3lwSGZTeWY3NDJB?oc=5"
-      },
-      {
-        "title": "Barack Obama już w Polsce. Znamy szczegóły jego pobytu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcVdCcml3RjdMZ0djMDRlY0FGTFo5UlpIRGV4dXZIamJ4MXZ5NGlOeXR1NHVuN19jRmhrdDBESFQ3SlkzT2R2aDBlZ2JwMlhwTkJGNFJGWm9OWEFMSmZSVVptLXprU2VrZ2k2a3BiSEVNV2dORW1Ec0JSWE1qbHB2MVVXLTA2TWhQalhKaDJPckpEMFNzQl85THBVUUlzX3dXemRqZw?oc=5"
-      },
-      {
-        "title": "Katar zamawia 160 samolotów podczas wizyty Donalda Trumpa. Wielki kontrakt dla Boeinga - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnlrdkVaNXkzWHZLYWw0Y0liQ2J6Y2pwVlphclo4WjdVZnYxX2pJaVp0aURDc2N2SzFveENEVERwVEpYT0FVTkl3YkJrUmxOQnV6Vm9WRV9YTkJaeEF0ZFVSYzFCY19IcDFvUkRQN3RtNVhkY2R0WGtlYV9SQUpiTGhlUDFzNzZVQ3dMMUZsSUlwVVlwTWFvVmdVNVhyZFREWjJDOGFNRl9kMWdUQXBodVpUaFM3Y0ZYaFlKMg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-15 03:04:41",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Małgorzata była ofiarą Mieszka R. na UW. Pełnomocnicy przerywają milczenie - naTemat.pl",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0pUSzktdDU3bGpfQ1IyZnJhcDl4cmF1TDh6dmtWcktaTUhYVGhqUU5fX08yNXdsV2ZLbEhUZnJVNktKQ2FiMVBDTlVwV0FyVXM0MG1VcmpQUGJIbTRwbEQxVUlhMHhRZEhCLTJCVVd0UjNjMDVZOVFhR2JfN3RTMTBlSEFqaTV6ZEhfNTN1Wnc1em45Y0pvc3Bud2rSAaIBQVVfeXFMTnpaRFA5NHhxcl8tQUNKNExQVkVDSUZ4bi1UYnZDaVJLM1R6TDktdUdEejdoY2FpdEdUbzJrZ3I1aXgtZ1RNenJhOEN5OEM0MTRzSVB4ckxiQXBDaHFzUlpEM2dEMHlTV29PNFlocUxVazUtWl9fU3dVTnlwdkFUR3hkVUJNVnRPM1lHZGxYWk9xemRwREs5VGVaeGNfNTFDajVR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-17 09:12:19",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 395809,
+      "DOGECOIN": 0.833118,
+      "ETHEREUM": 9547.06,
+      "LITECOIN": 386.05,
+      "RIPPLE": 9.09
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "To ukraińska delegacja usłyszała w Stambule. Media: Rosja grozi - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnl0UGNyc1JpeklId0VwQlJSTm9xa25EMlE4bXg0dHU5XzdCOXVmZkN0a2lQcERISkRZMkdHWUlBOWJNc3FSSDZvTlhHQ1I3cC1Td0xVTUFXbWp0dVhDVThTU1JVbVJrU01oMzFmN3h1VzRoVG1uQzEyQVlHX2hGTkNRRVd4aXV5dkhxdkNweFdiOF9iYmRwcA?oc=5"
+      },
+      {
+        "title": "Cisza wyborcza w Polsce. Izraelska ofensywa w Strefie Gazy. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjlmSzFLSUt4cXhWekFyNWlEcTExb3ByZHlxaU5Kcy1qMk1ZWUdwWGlvVnVzVFBiaEZDSEZlUTF0SWh5S2RITG5zWXBrcjFwSnpfb1JtWVZKMl9mczlfMEpnUEp2TW5YbldhVnpmc3VYNzVDUUVVbWVyN2ZGQm9zdWNqMThTMGpFSUFnYk4xNDZxNHNKbVE0OGhWZ1ExdGlHeHdyeEw3Wm9uTE1hNXN4eVEwc01tN3M?oc=5"
+      },
+      {
+        "title": "Rosjanie zaatakowali autobus z cywilami. Nie żyje co najmniej dziewięć osób - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHg4YVJZOC1xRHJCVFZCOVQ0MGpZcXF0YWRlb1VZMmhvNjBlOVk5VWljVG93MW9tV0dESnFsaUJHbTdGUEkyT2dXUW5sai02M1d4S0FTQ2FxZ2ZzdklYcmhYeU15alNfM01KTUVZd0k2Z1QyRmkyOC1ZUFQzcmxxOEhJVGc5LUVwMlBOMHRYcEZHMUZnbUdFSEJmM0kza3hQNW9NN0U4Y011UnRGd1F1dVA1dnR5QkRGNVZUeUdJWQ?oc=5"
+      },
+      {
+        "title": "Donald Trump zmienia strategię? \"To byłoby miażdżące dla Rosji\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2N1OGdocl95eWZhMTNJeUVQSkduQmJJSERTdTNDbVFmVjRSZEo4a2JTQjBuNXZ3X1hBOGU3ZXhKR2Zfd21KNGNVOVJzLVBORi1rTHA0RmlKUVJZNDkzdXVXU0xfVVVQQzVuSFpMYjZENnE3b1RiVnZDbWNYWDFzeXJQZlNNY1NCMC1KZmxNNGRkR3FFWDZ3RFllOF9FYkxjV1NqeUhB?oc=5"
+      },
+      {
+        "title": "Zaginięcie 11-latki. Są zarzuty dla 24-latka, u którego znaleziono nastolatkę - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY05NOW5YeVo2MU5ZclJuRldEQm05U1hSLVlHS0dJcHFKT1pNTTRTM0xyd0w1Y1p4MU1oRm9LaXk0UXJMTHE2Tm9FOXlvTE5uSXNubFhrb1ZSNFlqbWxPTWgycjFBNmg2eUlRZk96cjhBZDRESm9LT1loTl9RZWFORHloTmJpR1ExbmtBaVVBR1pjd25ySzMtMU1KVWFGaHBzMjJvWHFnaHZvUQ?oc=5"
       }
     ]
   }
