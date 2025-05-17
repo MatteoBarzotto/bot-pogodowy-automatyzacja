@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-15 00:11:15",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7775,
-      "EUR": 4.2455,
-      "GBP": 5.0419,
-      "CHF": 4.5206,
-      "JPY": 0.025829,
-      "AUD": 2.4519,
-      "CAD": 2.7151,
-      "CNY": 0.524
-    },
-    "crypto": {
-      "BITCOIN": 391989,
-      "DOGECOIN": 0.883607,
-      "ETHEREUM": 9845.13,
-      "LITECOIN": 382.04,
-      "RIPPLE": 9.69
-    },
-    "indices": {
-      "^WIG20": 2831.42,
-      "^WIG30": 3651.98,
-      "^WIG": 3651.98,
-      "^NCINDEX": 243.37
-    },
-    "news": [
-      {
-        "title": "Rozmowy w Stambule. \"Ten tydzień może wiele zmienić\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEpxWmN6aEpiclk2Qi15cWNFcnFFa0dfX1FCeTFzVVNITERXX1pKUVVId3ByN0tmbThmY2U5dWU0TmhoUnBROXJyQkJPUDdUa055TlR6bk1TMU01c09GTHBZa2pfTHMxRk1UeXpaVGRXdjg1UEZ6b2ZtNTcyTmMtaWZKWGxvOVVHQ2lLV2JycGVwTElmdElrMDgyY1BmMVlyNDJVZDRMb2VfeEFyRjdVek1qMA?oc=5"
-      },
-      {
-        "title": "Morderstwo na UW. Premier wystąpił do prezydenta - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXBCN1k4a09URGJTek14RUl5Mkd6TDlSYnVlWU5aV3VuTEdIM0N3VnczUnJCS2hTeTdrZzJ2b2VQRnZlTFdyWXNIcnVQQXRsUGVCUElvM1pHSjJYUWFIaFcxdjBnbnB3azlOTndwcThORk4wdFdweFZtcG9oQWkyT0pQVDA?oc=5"
-      },
-      {
-        "title": "Policja uruchomiła Child Alert. Zaginęła 11-letnia Patrycja Głowania - Radio dla Ciebie",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2NlaUJ3dS1EX3doVWl1SHh5Zng4T1htdG85RngzSXkwRmdndWxEbnFmaC1USmJ2OVJwWHctTl8yS2FMaTNSREF4bUU3SUJuMEd2N2JFY3F0eFFNcFNWUEg5N0gwaGpRWGEtbmtHbVNmZ0RTSkZpMTNFY2pHQlBnWUQyVUZiekM3dlA3MjZIVVdQb1I1Rk93Uzh0WEc2SXZ6emc?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski na kongresie Impact o relacjach z USA. Użył nietypowego określenia - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGRpQ1NkckNVeVNfOE9vMktlM1RaSEctdGpfVTJQdVpnS0Z2SnltNTBGUGM3Qi1HLUV1SnNtNGhobEVQWXJ2Sk1CTUg2eTBTWmdCYnNrVDBFWUUwR1NsUjBiZXljdnJERnExdWl6RWttakVOcEUyUkZneEtmSXZDRzIyaXRsS3dINm51SlZyRGlzWmF4TEtIZVVaeGFjdmtDUzRVbUh1eTBsUGRHU0F0ckYxdDJKdDIwdUhzLUxfeW5VY2QwUFJnZkkySDBldw?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski przyznał się do błędu. \"Należało postąpić uważniej\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFRhTWllWDA2MWJpZTlBS0hORmpRUWoyQXFEUFl6d3paaWQ0RXpabjc4LUx3RkdaOVJrSm9sdDF4UVB3R3paVzVHZFpiVXp1TFNqN3dUTFk2YUtaU3libFlvUWc3V25EWGhYWlBVMmlyNzFsSVptQXJOb09qN3FwMmIxMDZHZDJPRDZCTUpyR2MtMHBwYjhiV2NJanVVMjNyelVlX3RsZzdZanFCc3ItZnpjT19jVTZtYzUtZjVoQlNhUEd2NjV3RQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-15 01:11:47",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Próbowali wciągnąć dziewczynkę do busa. Pilny apel policji - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzc1akpaaGFSc3Njd2ZtRVBncWdiNU1YcXJ2a29OQ3ctMXJtZm4yVFVXc25jVktkamtRT3BFbWlvUWZFbUpyRDh2T2NBUUx0MnRtdlRUX2ZLS1pKdl9rb1ZqMTRLSnF5WEw4MkxnUzJoc093aEVpblFiYmlDX0RBYUUzd0M3dFE2b1hmWFJta2tFa1Rvc0E0dHdBZmRmUXlMYXVKeS10LXlGN2w1ZHFyZElB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-17 08:17:55",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 395616,
+      "DOGECOIN": 0.833106,
+      "ETHEREUM": 9529.12,
+      "LITECOIN": 383.51,
+      "RIPPLE": 9.07
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "To ukraińska delegacja usłyszała w Stambule. Media: Rosja grozi - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnl0UGNyc1JpeklId0VwQlJSTm9xa25EMlE4bXg0dHU5XzdCOXVmZkN0a2lQcERISkRZMkdHWUlBOWJNc3FSSDZvTlhHQ1I3cC1Td0xVTUFXbWp0dVhDVThTU1JVbVJrU01oMzFmN3h1VzRoVG1uQzEyQVlHX2hGTkNRRVd4aXV5dkhxdkNweFdiOF9iYmRwcA?oc=5"
+      },
+      {
+        "title": "Atak Rosjan tuż po negocjacjach pokojowych. Są ofiary śmiertelne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUpGR0dPdHR6ZFBMcC1qOW9uNGRIZGpER3JJWF9jRG54N0RQeEwyT3ZyaUpUbEk2d3BCSVF4aXI3TjdBdzE0ZTczZzRhaEQxV2lhVlhNTDZocTQzYjhfUW4wbEF2NHlMTUt6TDA2U05DaTVnekFtQU9pbFZ0TFIwME1VZi00UjY5akV2NTJkcWkzOU9tMkc2ZWJvQ1dXTzhsWHF3eFR3b2tzU2Q0UUwxTlljdmMzbmhva2N6c2hscDFHV2cwT1E?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie. Rozpoczęła się cisza wyborcza - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3pUcVNMb2o5SjVyTXE3czNyRnpSdHhULVJZbU95a2FuNnQyam1BMVl1Ym9XZF9CY2NPb1VOUVV5dUprLV9qcF9OV2xRcVNOZ29yd1IwQTdJamt4cnM2dEFrZEFwekdsRDBnRUhRZ3Mtbll5UVluWEVvRWZ6VEpIM2lybjVMVGtQcWdOSFR4TEdxR0hRU1c5RGwzdThjUQ?oc=5"
+      },
+      {
+        "title": "Zaginięcie 11-latki. Są zarzuty dla 24-latka, u którego znaleziono nastolatkę - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY05NOW5YeVo2MU5ZclJuRldEQm05U1hSLVlHS0dJcHFKT1pNTTRTM0xyd0w1Y1p4MU1oRm9LaXk0UXJMTHE2Tm9FOXlvTE5uSXNubFhrb1ZSNFlqbWxPTWgycjFBNmg2eUlRZk96cjhBZDRESm9LT1loTl9RZWFORHloTmJpR1ExbmtBaVVBR1pjd25ySzMtMU1KVWFGaHBzMjJvWHFnaHZvUQ?oc=5"
+      },
+      {
+        "title": "Małgorzata była ofiarą Mieszka R. na UW. Pełnomocnicy przerywają milczenie - naTemat.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0pUSzktdDU3bGpfQ1IyZnJhcDl4cmF1TDh6dmtWcktaTUhYVGhqUU5fX08yNXdsV2ZLbEhUZnJVNktKQ2FiMVBDTlVwV0FyVXM0MG1VcmpQUGJIbTRwbEQxVUlhMHhRZEhCLTJCVVd0UjNjMDVZOVFhR2JfN3RTMTBlSEFqaTV6ZEhfNTN1Wnc1em45Y0pvc3Bud2rSAaIBQVVfeXFMTnpaRFA5NHhxcl8tQUNKNExQVkVDSUZ4bi1UYnZDaVJLM1R6TDktdUdEejdoY2FpdEdUbzJrZ3I1aXgtZ1RNenJhOEN5OEM0MTRzSVB4ckxiQXBDaHFzUlpEM2dEMHlTV29PNFlocUxVazUtWl9fU3dVTnlwdkFUR3hkVUJNVnRPM1lHZGxYWk9xemRwREs5VGVaeGNfNTFDajVR?oc=5"
       }
     ]
   }
