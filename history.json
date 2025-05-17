@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-15 05:05:57",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.7775,
-      "EUR": 4.2455,
-      "GBP": 5.0419,
-      "CHF": 4.5206,
-      "JPY": 0.025829,
-      "AUD": 2.4519,
-      "CAD": 2.7151,
-      "CNY": 0.524
-    },
-    "crypto": {
-      "BITCOIN": 389480,
-      "DOGECOIN": 0.881751,
-      "ETHEREUM": 9797.59,
-      "LITECOIN": 380.04,
-      "RIPPLE": 9.6
-    },
-    "indices": {
-      "^WIG20": 2831.42,
-      "^WIG30": 3651.98,
-      "^WIG": 3651.98,
-      "^NCINDEX": 243.37
-    },
-    "news": [
-      {
-        "title": "Putin zatwierdził skład delegacji na negocjacje z Ukrainą - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3Z2SjU3dUMwVW0zclpiSzNKdWphZWlLT3BNUVVJWE5tQ1g2OXZ1eVQ3UVRhZmpTa0kxa25QVFdSb3g5N2lwMjF0eUY1S1dJR1BxQXdnZHZjck9hX0tfcE9oQVN2enVrVXVtZHBDMWFYY1pkcW9KWHlfWS1KLXl5OGlMcm9meVFOVVdUTG9qZDVTbFRSYm1KdHZfTE9xM3lkMWc?oc=5"
-      },
-      {
-        "title": "Policja szuka 11-letniej Patrycji. Po ogłoszeniu alertu RCB serwery nie wytrzymały - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXJ5NjNKTDJyQWpXaU5WT01DeUdzVEg2LVNLMzlUOWVmcS1FclJuQURCTmhIclRteXIwUTVpU204Q2xZRGl3SFpUTWRlSFBocGpuUXVMUVVGSm5CUVlaQkJrWmJTWmNEekMtOXJYVXRfWVVWd1VZdHJkNlVEbncwd2duRXR1NnVwcVIzZWltZGFMQ2dJaFB4bmlSVXJleWd5aVFTa2FTUXByUTRzbmtfY3lwSGZTeWY3NDJB?oc=5"
-      },
-      {
-        "title": "Ósmoklasiści napisali dziś egzamin z matematyki. Ekspertka: był stosunkowo łatwy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3ZhSzYwOUNwcDRFemtHNXdYRkVuazVwd1dMZzBiT2VLSjh6UjBUYVNPUHNVSUg2UEpvTExrc1JQaTgwaEF3VXlFbE9TYU9uVHFmR0RmOVJ6d3dGanoyYWtjSjF4bFdQQmZPaDNJTkFJc2NJSXR6SVR4dHdFUEE1ejE3TkVDekFMbXFWWFIzcTRZRm5xdmdGUUFLRkhnanZyZmlmbmhJa3pMdVVHeXBHVWFKUHFYU20zNGRBQTZ3UzZaTy1vQmx6dQ?oc=5"
-      },
-      {
-        "title": "Morderstwo na UW. Premier wystąpił do prezydenta - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXBCN1k4a09URGJTek14RUl5Mkd6TDlSYnVlWU5aV3VuTEdIM0N3VnczUnJCS2hTeTdrZzJ2b2VQRnZlTFdyWXNIcnVQQXRsUGVCUElvM1pHSjJYUWFIaFcxdjBnbnB3azlOTndwcThORk4wdFdweFZtcG9oQWkyT0pQVDA?oc=5"
-      },
-      {
-        "title": "Pan Jerzy był w areszcie, gdy miał podpisać akt notarialny. Karol Nawrocki przekazał już kawalerkę - trojmiasto.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTVzVTU1T2tySHREOTBwNGpOUzdyVmJxTWNCX3VxRXpFUjQxdDFxa1A0bXFMX2VDY09lMExLOGlMVnNFSXNoN19CSmk0ZFRxR1pRTXF0dVk2cDRFNEVOb2ZhXzFjOWJoQWZpWHdHekZuYzh0MGdBclB4YkszclpCcE50LUY0ODk4Qm1Lc2lCUmh3Y1ozNjlaaURpNVNmak43aU5JLUg5NWlYMENfVFBSbDdSdkExMVBQSE5qbVpn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-15 06:17:31",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Brutalne morderstwo na UW. Wydano ważne oświadczenie - o2.pl",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmU2Sm5iNjVyTGxrZ1NmX3VJdjNTYU9uLXdLdWkxLWVJQ1RaRnBFeENicHBRWWpudFk2dDQ0TFJKa3dJcHRLekN6aTY2QzZydFl6b2NXNEVTenV5ckpnQUl3SG1oYzREbUdaeTJzdHJJbVRKeUJaOUQxNkJZY0I4akpwSmVKeW91U05XZ2Zpbm9tUFA5YUpES3o3U0lZdUU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-17 11:13:06",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 395505,
+      "DOGECOIN": 0.825826,
+      "ETHEREUM": 9498.26,
+      "LITECOIN": 383.98,
+      "RIPPLE": 9.07
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Rozmowy w Stambule. Znamy żądania Rosji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUFfNGNELW1zRUlZWVpiQWsyUW9fcEhwUWVtNGZPTm16UmpRNkxiRmZiQm40eUdKdUVqOG5FTnVuSk9YUGFOSm16M0JENVNhdWJ0R1NKQUFCYXdELUJBLTR1OUxWQzNRUmphS2lIUTNZSUhkYmt5TDRRX3k0RTFSamYzZGtxTXo5X1Y5WHRLd3hNZw?oc=5"
+      },
+      {
+        "title": "Cisza wyborcza w Polsce. Izraelska ofensywa w Strefie Gazy. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjlmSzFLSUt4cXhWekFyNWlEcTExb3ByZHlxaU5Kcy1qMk1ZWUdwWGlvVnVzVFBiaEZDSEZlUTF0SWh5S2RITG5zWXBrcjFwSnpfb1JtWVZKMl9mczlfMEpnUEp2TW5YbldhVnpmc3VYNzVDUUVVbWVyN2ZGQm9zdWNqMThTMGpFSUFnYk4xNDZxNHNKbVE0OGhWZ1ExdGlHeHdyeEw3Wm9uTE1hNXN4eVEwc01tN3M?oc=5"
+      },
+      {
+        "title": "Donald Trump mówi o wojnie na Ukrainie i spotkaniu z Władimirem Putinem. „Mam już tego dość” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczQxb2lTWXJKbkhYckVyS3RkQ1ZXSFZqcVpqVXpJVThqQnBNcEpUVGE5TEJ3R2E5ODhfWDMzUjkwV1RXUFBRRW1TYndSMFFaT0V4MUotSnNXNUtlc1FFdGZJcW85N1NxZDM0MTdpOE01cnZ2NThfSFFRdmVDWVZWS3A3VGwxeDVTUmVzM3h1dWZ4TVNpNnpQUDdEUlZxZU8zNnhUTzFOZmpxc1pDT3Baa2ZBQlNWdGpUVU80ZDU4cmxuektjbTJJ?oc=5"
+      },
+      {
+        "title": "Rosjanie zaatakowali autobus z cywilami. Nie żyje co najmniej dziewięć osób - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHg4YVJZOC1xRHJCVFZCOVQ0MGpZcXF0YWRlb1VZMmhvNjBlOVk5VWljVG93MW9tV0dESnFsaUJHbTdGUEkyT2dXUW5sai02M1d4S0FTQ2FxZ2ZzdklYcmhYeU15alNfM01KTUVZd0k2Z1QyRmkyOC1ZUFQzcmxxOEhJVGc5LUVwMlBOMHRYcEZHMUZnbUdFSEJmM0kza3hQNW9NN0U4Y011UnRGd1F1dVA1dnR5QkRGNVZUeUdJWQ?oc=5"
+      },
+      {
+        "title": "Mieszkańcy Dziewkowic wspierają rodzinę Patrycji. „Jesteśmy z nimi na dobre i na złe” - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0l6Mkx1b1hpZTZZbVVoYXdHSjF3bElNYkVCb1VxX2Zyb3lQZjlJbWIyZDZVX1pvRllQa1U2NURkNHJoUkVJbi1MSUR1VkEtd0sxVWhkRmF3MTZpOGVXNWVodlpQT2RTVDJrVVBqVTJIT1pMcTNudTBtbWF3czdEREZTN0ZBT2ZUa2RVcXh3V3VpOWNUbnp4bVJJTjZocjBTcGxSUm8yblc0QWNaY0hUUWZLZjI1a0ZZ?oc=5"
       }
     ]
   }
