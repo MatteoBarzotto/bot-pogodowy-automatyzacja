@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-16 03:07:50",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7804,
-      "EUR": 4.2378,
-      "GBP": 5.0238,
-      "CHF": 4.5184,
-      "JPY": 0.025937,
-      "AUD": 2.4274,
-      "CAD": 2.7039,
-      "CNY": 0.5242
-    },
-    "crypto": {
-      "BITCOIN": 393619,
-      "DOGECOIN": 0.836594,
-      "ETHEREUM": 9662.15,
-      "LITECOIN": 376.96,
-      "RIPPLE": 9.04
-    },
-    "indices": {
-      "^WIG20": 2815.14,
-      "^WIG30": 3632.27,
-      "^WIG": 3632.27,
-      "^NCINDEX": 242.15
-    },
-    "news": [
-      {
-        "title": "Spotkanie Donalda Trumpa i Władimira Putina możliwe? Nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGdEQkFrM0pKcXR3SDMyNzY0MlMzN01BYXRqOFFpSjBGZnVFMm5JZG5mU3dWamdZX1dOeXRFRDNJY3ZZUjlhS3drNXlvY2VqNVhBeHpCX1dJbmhXQUhJc2RWLU9OMFBqUlRKYXBPNjZ6NnRpOWQ1Tnc2UjFMNDNFVUNDQzFOX0F2R053LUFKQkVQVlpjTHNPRjl4Y2JDZ1czNFpRX09OUkhtNUtx?oc=5"
-      },
-      {
-        "title": "„Gazeta Wyborcza”: Karol Nawrocki pożyczał Jerzemu Ż. pieniądze na procent - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjhLRjZWeEdGbUFWNHJvUVMzbE9wV1VseE1aLVZHNllhVmxzVWUtS29lQkR3Rjc0V1RiN1FzMEhicTZmaU0wQVZSSHNSR0NhRWlPcFl2VjdWTVJCVkZBODhMRk1Dd0wybU5ZZER6QlBEYnhGejRMdDRuRW5rSWIybGNwc0pzMVFYODRyQVdJS0VnbGY5SjJ0em5yMVNlQ09SOVRGeERBVGM1VEthbkE?oc=5"
-      },
-      {
-        "title": "Ostatni sondaż CBOS przed pierwszą turą. Mała różnica między Trzaskowskim i Nawrockim - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWQxUjJEa2tZTVhlWHJnLVJFLThJdjdmRWl6dHVrbGFhUk9TMTE3S043a0k1VFhZa1R1TWhDUEh0LTctZkpWVExpbVBPenQ2eno2cHplV3oxY1lWVkFzYXFzWmJJc1NYVWhra3dqa2ZmRFo2dDU3aFJDY1VHZE1NSEg4SW0yT3Z3aXJndm5uNFFLVFJad3llSTBXaFkwNHlPR0tMbEJZaGV5RGZ1Vk5NbUlRd2N5Y0t0R0Qway1ydnV2bEhpa09MSFd3R0h3NE0?oc=5"
-      },
-      {
-        "title": "Kaczyński uderza w sztab Trzaskowskiego. \"Sami prowadzą największą akcję dezinformacji\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXltcF9ZUFN4Q1FxbERmWUxuUlpHVFZRVHFKUXJrZG1Ec3dkbFhfQl9ybDNBZHFSRk41eFhvTjI3ZTU0MEdyYm54a2JubHNsZmw5MU9aZFllcjk5cFJUY1RlWWlfWDlreFljQUFMNkw2cEVDUG0zQ0NNaS1PSnpfZWdwOGY4SXdlQ3NmWDZMeVlzRXlRcjVHdktIWm9POW9IMFNSazQwdlY5YU5YUVVobFhTcUJiOGdhMDFlcTlBclZWSlJnNlJ6ZEZ4UEk?oc=5"
-      },
-      {
-        "title": "Child Alert: 11-letnia Patrycja odnaleziona została na Śląsku, w mieszkaniu 24-latka. \"Meżczyznę zatrzymano w zakładzie pracy\" - Dziennik Zachodni",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUG5lT2hZN0ExRDRtdjQtYURHaFZKY2JqMy1VT1hUZjh4Q1psd3BSY3lzVDcwM2U4OGRrTUlQcHZVZG12MVVKQmhUWDRDMlM3THdSbnoySmVGZndzWFNZdXE4YTFPY3hvRWlXRUpiRW9YMjBQSFUzRTMyOUVoQ2J0UGpiVy1NQVZ5UnAxdHN6MVJkLXJFVzF0a01PZDVLZ1lBWmJkMDI0WmVzWjNyUXJuQXliZGxfb05VRThVVjYxVmU4aEc2R0NFSi1PZVRIWTFsT2ZDRFNVR1NRRFcyUmxKVFpJOGdEcFVMM3I3aEhNS1ZGb2djdUR2TG9n?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-16 05:08:35",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Są pierwsze naruszenia ciszy wyborczej. Policja podaje przykłady - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJaTFlPQ3NIaDRkTnp4WmlMRzExdWFESnB2TFBFUjhfTjlMSVdWcDlFWkZvVWtZWUVNdGhKN0NleENMN3c3X19ZSFlnd0dlZGljU0FkalFpQWc4T1lXZi1YbFdvbkN1X0JSYXdnbjRFeUdobXhmdU45ZlFWbXZsaHprU0c5MG5jWnRhN3F6NlQ0WGEyOURuV3FsLXhZUVpIckhObFJab0F0MXhHZzVQN1prZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-18 10:15:57",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 397583,
+      "DOGECOIN": 0.851526,
+      "ETHEREUM": 9617.2,
+      "LITECOIN": 377.28,
+      "RIPPLE": 9.17
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Pierwsza niedzielna konferencja PKW. Wygląd kart zaniepokoił wyborców. \"Wezwano policję\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkxTZEpJcEg3VmFPdEw2TkxjQy14cVhLV1A5OVRPb2llTU9zRmRPanR0YXVsdFJ2TGY0RHZQeFgwUm5rNEN6YjlDa1Q1Tm9aYk5RSEdtc0dHd0FabkF5VUt2QjMyMFBsUFRpcEFtbzY2MlhqZWhiWEJtT0lyM3hjQzNkZnFZaWFaMGxyY3R4R0Z2ZEhlVklyREh5UUV6Q1hkdlEzWDFlVVd3Y081NEhmd1dJVVIxdWZXZEJBUVQ4b0JKemp0RGNkQ2RuVnk5VDQ?oc=5"
+      },
+      {
+        "title": "Polska dziękuje Justynie, Europa Austriakowi. Szokujący finał Eurowizji [RELACJA] - Kultura Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmdvSGx2b2lENXZ4Yzhacy1VQXV0dUJIdjdlekRFMUh4NE9vWlNGZ0ktZDR3YjJiMVBKWWNMUjMyN1J4V1VHR3FtaUJyQmFMclVSZkRlbDYxLUhlUXBRMzhZNjYwRk1NMWZGbkZtY0poaWo5Z2JTR1kzNWhQXzg0ZUR6Zi1IOFZRX2FmSWtaZTctRS1oSnNfTTR4ZWtvQVVmc2FFQU1PSkxyQktjQnZFRGlYcE53cFZnenZYV2JXOVlBUk9VRHg1MjFWVEJNMjVq?oc=5"
+      },
+      {
+        "title": "Lokale wyborcze otwarte. Polacy głosują [RELACJA NA ŻYWO] - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS19tUVd5M3VWWlVZdkpfUTF0N0pQTVI2eVZRRXV3Y1FJblFSSzVUT2kwYjZUaXBCUWJvWjljYWl4bXp3M2JhSzVVdkEwYWNNazB0SHBaelpUNEVMeUZXT0lmQ1N5OU9qaEY5Ni14bWFVbVpDakF2VUxLM1ZXZnpFOUZBWDg2QUFkMFFlN3JyWkRWZVZ5c18tcw?oc=5"
+      },
+      {
+        "title": "Taki pierścień włoży papież. Watykan go pokazał - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUE4V3RYaVRKWFJDSHFqVjRZbjRGaC0xYVJZTThoMmt6VDJwNTVBbTJKUXQyOVROWmo5TXpSY0tLN2FkczRZd0F5MXVZR0pvXzd3UmwxS3hBUFMwdklvSWlVQVFnUm1nczJfY2w2cFdVUFA0NEd2cTRERkdWS282ZE9WMk9xcTIyS1VwajJNVzNiTEE?oc=5"
+      },
+      {
+        "title": "Meksykański statek uderzył w most w Nowym Jorku. Dwie osoby zginęły - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjJXNnFzZmZCanBDMy02OTdScXRQNWlEQ3pkeXJfdVprb2RRbUJsTWRQNloxWUFyVGJxWm1kYzRlRGhDSkhYdGJlNE1GelJCN1FQcXF3QXA5d2c0Vkd3Wm14ZXZsTW4xeHdNTzlIRmNPOHZ0eDM0VElMeHk4RkZsZGZZYUR1Sy15N3N0RDVibjJ4TEFEalJfVGxzclJRVWpfS0YxS1drRV9fRDNrenZ1b1RJWTdFWVk2amhHY1BR?oc=5"
       }
     ]
   }
