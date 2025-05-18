@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-15 20:19:18",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7804,
-      "EUR": 4.2378,
-      "GBP": 5.0238,
-      "CHF": 4.5184,
-      "JPY": 0.025937,
-      "AUD": 2.4274,
-      "CAD": 2.7039,
-      "CNY": 0.5242
-    },
-    "crypto": {
-      "BITCOIN": 394899,
-      "DOGECOIN": 0.863161,
-      "ETHEREUM": 9792.27,
-      "LITECOIN": 377.95,
-      "RIPPLE": 9.46
-    },
-    "indices": {
-      "^WIG20": 2815.14,
-      "^WIG30": 3632.27,
-      "^WIG": 3632.27,
-      "^NCINDEX": 242.15
-    },
-    "news": [
-      {
-        "title": "Sondaż przed wyborami prezydenckimi: Coraz mniejsza różnica między kandydatami w II turze - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0p4UnBzUDNTdEVId29IalRGVVZ1QkRualEwR3lzSVA4dFBlMDR1WDRVTHpYTnpqaHFLRXpqTU9iRC1fVHVqbWtFU3ZFdTJSNkJlVHl1dzF2c2pBb3VxN3NUWUx2OXZnRDdHa3Q1WlB5UnBYSWprOExpeVRTTDZYV0pBSEF0Q1lMR3AweU03UTRTaXJlNFVOdnA0c0JGX2RtbFctclFtcmdXaFQ2blZlU1BpaXhVN253SGQ5SGpvOXdNS3M?oc=5"
-      },
-      {
-        "title": "Zwrot akcji wokół negocjacji Rosja-Ukraina. Jest nowa data [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUl1NVllRE9kTjFYdkhKdmVCSmlPckxNU2tKbklhUEEtakMwRGVsYk1MbzdCRTdUUTg5RWtoTFB5ZVIxdi15ZHA4UTJQb2NwcU0tci1lVTM0S205QUF2a1padlFIYUtyMlFqSG5YQWZCVUxXOFk0ZGN2aEswMWpOdkhwWHQ0Q0VUQjRwelZEbHZudW9wUWFueTUwUWpPcVl0TmN1SVVNUkk1aTlLVEZqRmJCSTg?oc=5"
-      },
-      {
-        "title": "\"Wyborcza\" ujawnia: Karol Nawrocki pożyczył panu Jerzemu pieniądze na 20 proc. rocznie - trojmiasto.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSE84Z2FUTURHYTZjV2ZyOGRzOWxUS2ZnV3FqRTRrUVJjLWZiRERIQWlIakxtQlo4LU1MQzRhTU1XNk5Sb09uVFNZM1ZJNVg2bGZtR3JoY1BjamRtbU12VEExdUszcldIdzlsLTdjenNnQm9pWXhyNFpzb0VHR3ZFc3oxUGdJWU9rTkdSV0JaTzQ1NTdUeHZwOE9mUklVQ0Voamo4S20xWXpmZlRvQVBxTXZYdHMwWkptVFI1VXljMHFXU2kteWc?oc=5"
-      },
-      {
-        "title": "11-letnia Patrycja odnaleziona. Policja odwołuje Child Alert - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNajhObGRlOW5YSnBheWRYU1ZsRzdqejFfdVg0MDNROXp2M3UyVUwxUGloYnJmc0pRNV9lX0FIUXNTZDV2OWpZaF85eTZ0Y2U1V0FWZUJxOWJMbGhVZEFLYnJDNXB0YlRWN3FHWUZaUUV3cldBLWlOclRscElZVXRKblF2QlpReE41cktKc0MyS0ZqY1lBanBEdi1hNndLS2p5NjF2MklHTTh2RjJkeFNqdkFyNzVkTkRCVEt2Q3JfNTdOMktNSmNiRnQzb2Y5ZHRPMEZCbTBya3dDTWhQT3BDZnFJcW1qWHhOS3RIenZUeGFKRUVnQzdGN0tNNGdhWTJsbEhoQVF6TXlFYnZ0V05mNGt3R0xGZw?oc=5"
-      },
-      {
-        "title": "Kaczyński uderza w sztab Trzaskowskiego. \"Sami prowadzą największą akcję dezinformacji\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXltcF9ZUFN4Q1FxbERmWUxuUlpHVFZRVHFKUXJrZG1Ec3dkbFhfQl9ybDNBZHFSRk41eFhvTjI3ZTU0MEdyYm54a2JubHNsZmw5MU9aZFllcjk5cFJUY1RlWWlfWDlreFljQUFMNkw2cEVDUG0zQ0NNaS1PSnpfZWdwOGY4SXdlQ3NmWDZMeVlzRXlRcjVHdktIWm9POW9IMFNSazQwdlY5YU5YUVVobFhTcUJiOGdhMDFlcTlBclZWSlJnNlJ6ZEZ4UEk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-15 21:10:53",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Karol B. z Żor aresztowany. 11-letnia Patrycja spędziła dwie noce w jego mieszkaniu - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDY1VGt6UDhnTmR4WFRFckdpMjloQlBadk1WTFFpWTk4Y0s0SDdMOVI0Z1BiV1lzS2poVjBvSF9iaVRUdjFZcFBVeXJoLXIzaFFRRHBmbTBQRUVuc0IwUDdfbVMzWllST2VzeDFKc09jRzdUNThiSFd3cG5nbFh2aDRkZGpCN0RWb25qa1BhTzNjdUR6RFQwazAtUFBvUkNJOHBsX21CYUtMQVp1VENxZXJQZDJoYWJ6aENuN1ZLZWM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-18 03:12:04",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 395134,
+      "DOGECOIN": 0.823885,
+      "ETHEREUM": 9490.52,
+      "LITECOIN": 369.95,
+      "RIPPLE": 9.02
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Skomentował zachowanie Władimira Putina. \"Boi się\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTJGSnBCdUZoT1JOUU8tNWNTY0l2R3VoUHUxOEtTdDNiTVBSSmJmMHpIUUNTUnE4MTVocEJaRGNQVDB6WjVQTUdSdUtSTmZUUnpsWVgyaGozc2RUTEhPWXlKVlhhMzJBTnBRWUlONGVRc1BZMTVaeTM1VTZYSllRc25HNkEtV2tMdGFrUG9rdzhrZnBxMmtWUEZ3?oc=5"
+      },
+      {
+        "title": "Są pierwsze naruszenia ciszy wyborczej. Policja podaje przykłady - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJaTFlPQ3NIaDRkTnp4WmlMRzExdWFESnB2TFBFUjhfTjlMSVdWcDlFWkZvVWtZWUVNdGhKN0NleENMN3c3X19ZSFlnd0dlZGljU0FkalFpQWc4T1lXZi1YbFdvbkN1X0JSYXdnbjRFeUdobXhmdU45ZlFWbXZsaHprU0c5MG5jWnRhN3F6NlQ0WGEyOURuV3FsLXhZUVpIckhObFJab0F0MXhHZzVQN1prZw?oc=5"
+      },
+      {
+        "title": "Donald Trump zadzwoni do Władimira Putina, naruszenia ciszy wyborczej w Polsce. Podsumowanie dnia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGNnc0h2RHNWZGpGNVNoVzhWRXpCX2xseEhfXzFyRjYxMWlLLVpod21YTXpZQzFOdndOUjk3dFdjQWF6ZnZpN09tVlpPRjB5YXFBMmVYOXdNNjNvdmJJQTdiSDhrWm9ObnJxQXB0WXRyeDJUSzRYd0VUdUZsbWx1T2NhY3VpS3JZNFpkUmNSc3JMUG1ndkZiaWpsUF9ZakFHMXU0REdPLVE5YngyN1ZiajNMZ3VZQU1z?oc=5"
+      },
+      {
+        "title": "Karol B. z Żor aresztowany. 11-letnia Patrycja spędziła dwie noce w jego mieszkaniu - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDY1VGt6UDhnTmR4WFRFckdpMjloQlBadk1WTFFpWTk4Y0s0SDdMOVI0Z1BiV1lzS2poVjBvSF9iaVRUdjFZcFBVeXJoLXIzaFFRRHBmbTBQRUVuc0IwUDdfbVMzWllST2VzeDFKc09jRzdUNThiSFd3cG5nbFh2aDRkZGpCN0RWb25qa1BhTzNjdUR6RFQwazAtUFBvUkNJOHBsX21CYUtMQVp1VENxZXJQZDJoYWJ6aENuN1ZLZWM?oc=5"
+      },
+      {
+        "title": "Telefon zadzwonił. Rubio rozmawiał z Ławrowem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQm5Ba1ZOU2hoVEg0VEdwTHRmWWZ2dWlONnVmY0FYV2lDSkhFQmJVaEt1bFZtbVdITjA2cjZHdDRlUUpyV0VCS2dkLV8wejhmSXNFSlBPV0lxcFQ5ZVNRc3BlUHpBbEpCejE4WTVadzhUdVc0Q0ZwSTE0SmpvZ2JLQkpRRVhZVjNvMGVFX0ZFeUs?oc=5"
       }
     ]
   }
