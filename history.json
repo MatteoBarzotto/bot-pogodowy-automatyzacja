@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-16 12:14:51",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 393459,
-      "DOGECOIN": 0.865109,
-      "ETHEREUM": 9901.64,
-      "LITECOIN": 379.65,
-      "RIPPLE": 9.19
-    },
-    "indices": {
-      "^WIG20": 2810.24,
-      "^WIG30": 3628.34,
-      "^WIG": 3628.34,
-      "^NCINDEX": 243.73
-    },
-    "news": [
-      {
-        "title": "Szef NATO: Putin popełnił wielki błąd. \"Znalazł się w kłopotach\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHRITnBtcXZGVklUbTQ5MmxXVi00ZjB1R0tBQ2dkdlBtQ0U1SFV1TU9DZlN2RXl3dWUxSUJ0X0FPdnBVY3pTWHl4VTVNNVJ6bVpNbVZORzVLUTFvTlFKT0ZwXzc4X19TRU5wcjYweHlSbzFMRzMzcm9kcENqTUdqclpEdkNmMjhTb3d5Z3JmWlpObDEzdThXNjJrZElyemJ5Q0YtUXVJTFBWWG9FcmRHTkJtcU5DUQ?oc=5"
-      },
-      {
-        "title": "Nowy sondaż: Grzegorz Braun odbiera głosy Sławomirowi Mentzenowi. Ilu wyborców Konfederacji go poprze? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkdFeUNzcWo3TXVISEx4b0VveS1xZ1RSU0k3aGpjaVRpbW1WQWF5alVjczh4WUI2dWZUcHBWNHpIN3NEV1l5WHI4alJJS21kMkJDdlpiVlM4RVpSUXdfb3RuVVZiYTZMMGpwUEd5VlRRR3lXOHlxdDNib0F1Nmt5a3kzZWVnRHQ0UnROdHJDZkVQMnJzcVpnQnhNUHRfRnI5NlI4REQ0bk0zeHN4OUNr?oc=5"
-      },
-      {
-        "title": "Poranny wpis Andrzeja Dudy. \"Jako prezydent apeluję\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWJJREc4OGlHUklieFQ4ZzR6NndDRUV1cG1oRWViNkF0V2N0VEpjSHlucFZ0a3JYZWhiMGwtenJMcURfUTFCbjVQZVh5Vjg5SHlJNUNoTy1WWjUwelg2OENkSTRqLTZ4OWdrM0lQMUFRNVZGNlRURU9Ec3FEWUdSeDVEMG05YWF3QkdjTmh2eEl3TjI3ZmkxWHFyZ0xEei1hano2eWp0bVpqaUg2RU0zeQ?oc=5"
-      },
-      {
-        "title": "\"Wor w zakonie\" w rękach policji. Miał wykonać zlecenie z bronią - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlFPN1diR3ZVc0NhSVljeFNFRHlYcW8wNUxBYkM1QnJ3WkpoeG1ZRklqVkludEdueUdTdjlYcHdRaG1hM2tBZ2pDSlZDN0x5bDJ0ME1yTUpmRV8yR3F3Y2FtTk9QbDJpblRRTFVfV095MllDYWxlanBzX09hWjlaX0N5MzB2YWNoaEQxMHZDbGRBclZVZU13Zldfdkc0bEhub0lROERETDY?oc=5"
-      },
-      {
-        "title": "Ukraina straciła kolejne F-16. \"Nadzwyczajna sytuacja\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkVXRDZpSElWZEtCOUhJTUxSMGg1ZktDV2d3eldmUUpDTWxJbVZBNkE5LXRBSkNWTGRSeG9WMmJOaExvQkxMd0hnY0VOWWZ6RVBGR0ZlX05kOTFhS3QzQ25hM3VQQ3ZzZUUxVHl0NlhhLTdudW82bVQzSjBmeXZxVTlHY2NXai14SlB6eWVscEZBSVJObDBrTWxB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-16 13:11:52",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wiceminister złamał ciszę wyborczą? Szef PKW: zachowanie nieakceptowalne - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVk11NEhXVU5uV3VsSmFBOHZIWkUyVm1GYTIxTklZNnFiNVhXNkl0dldDd3hqcURjZmw1S18wOEllZ2xzUVE2VTNrcFh4ZjFiTURsckdabGlORzVOeWVJRjA3WWZwLWIzU1BSTDk5QkVObnlVdzdxZTczaU9icGxYOTVfSjVCVi1YZUJUcnhXbGlLek5qbVNjWjVEV0FrTUtkNG5ZZGZEY19uNk9kanZoSjZNRXBsRnRhUHM4aFJDQnR6cGc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-18 18:14:45",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 403580,
+      "DOGECOIN": 0.903876,
+      "ETHEREUM": 9856.95,
+      "LITECOIN": 389.08,
+      "RIPPLE": 9.34
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Wybory prezydenckie 2025. Frekwencyjny zwrot akcji. Spływają kolejne dane [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOXzY1NmFoZHI0Z3JuTG1CZHlvRzlzRkNLTlo2Z0twV3A4bXp3ODlUWll0UGEtMTN1NXBxSTZRUUJZR21NTEJ0WjZ5dTJtYmlTcm4xYlQwZ19Md1VmaWx2ZWJMeEVzWlhYUjJmU1ZqOGVQLU1BYjEtVlRQYmpnRkZuT29sUm1QbE9VX2twRUx0VjRwMGZrNS1sd3kyc01vTTg2YnVfSWlDb3JRN2t1X3JmMGt3ZDNjQ01sTXBZOS1FNA?oc=5"
+      },
+      {
+        "title": "Antoni Królikowski ZABRAŁ CÓRKĘ na wybory. Pociecha aktora rośnie jak na drożdżach - pudelek.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ3RBQWFaelpvU0ZEYW1OOEdVLUpiOVVuWXptQXNDc2t0R3NCMllMQWo0dXQ5bFVkWWlNTkJuTWhoV3BEODFzdE93SDVjdHgtUkx3d2I0S3loblJLMmd0cTFHYnV5MWUycnBLT2kwT0RRbjg5R1VOUEQyMFpfNXR1eFR0YzBGSlBCTG96Wl9rMDh4MVJIbFlZYzZjY052ZktFenhfZktQSnVBV0h2RGd4TXhGVXNxN3JIcjZFTU9Ndw?oc=5"
+      },
+      {
+        "title": "Władimir Putin przemówił po raz pierwszy po rozmowach w Stambule. Wskazał cele Rosji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDRQam5FRWZGS1hUZTlGYVUwSERMelk5NWJnYWkwM0FJQTgydnlDSjZZekdocXBSREZaRWFTZjh0dzZ1RUZkUEpubmRGSjdQZHFJRXNSWlUxY2VTRlNKaDI1RkE1SkFPNHpKYXVxOHVKQW9QaHVLZFlJMzNGQWpPS3BWelBmNkduTFBaMjZ2Nkd6R3VZc2lua0tVQlN4WjEyNkp2aUY3ZVAzSVV6NGY0ZE9FWFlHUnNnMm1MeVA0eXpRUQ?oc=5"
+      },
+      {
+        "title": "Papież Leon XIV spotka się z Wołodymyrem Zełenskim. Komunikat Watykanu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX2ZuTnN5ckJOTVZlaW1pRFJyWmxiNzNhd2Z1dzBXQ0JXMXN2aHYxRHA0dzFXRXg2R29sUEwwRTY2UFc0R0VVMURHR0VUTWpJWmE2ZW1hTXQ2UXZmSDRZMGxJdDNaQWlhTnpQb0xKZXBWUVVuYnBfc05lb2s1VmtfeUtCYmItV2tUQ2dhUkhQT2Jsc1ZpS3hTVDlNVmw2WWt6WHY5amw0OExhcHpSYmN1aHRzZDFSUWhU?oc=5"
+      },
+      {
+        "title": "Polska w doborowym gronie. Kanclerz Niemiec zapowiada rozmowy z Trumpem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjNSZnl0cEJSbEN1R2RiVGVob1RFdFJicHZEWEp1dmlCVlpJUVM3VUFZLVdQVUtUaF9NaEtHWFFYb2hyM21kcGk5NXgwb2RDSXdRSi03U1lIcUlnbEpYdHlQZWMzOU5nTlJJamFJcGJVQ0RVRUhNUU53RU1zSk9rUHQtclp4UEh1X01ISjdadm9GU21HNTEyVV9PSGkxS2xPR2dBdGVyVjFmeUVTZ2dELW9WVjlYQ1FL?oc=5"
       }
     ]
   }
