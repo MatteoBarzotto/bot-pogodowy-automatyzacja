@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-16 20:18:59",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 398127,
-      "DOGECOIN": 0.867507,
-      "ETHEREUM": 9885.73,
-      "LITECOIN": 387.79,
-      "RIPPLE": 9.21
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Donald Tusk skomentował rozmowy Rosji i Ukrainy. \"Zerwali negocjacje\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlBUQUdQYzVRN0luN0tyYnh2cWMxcFdFZWcwanJGSEFuU3M5bjRHWGVPdHFVZFQ2QzVibnljMGhlRVdPQVFyZFdLemVDLTE0YmN4N1dtSFc2eFZvT3M5MERWTXJ6NEx4MXFZMHo3QmxsYnVsV1BrV05Eem1nc3dTRV9odWtvVzlXeF9ibnZDczQ4QVZhWlNzOF9tbndrV1ZFRFFobQ?oc=5"
-      },
-      {
-        "title": "Dyrektor NASK: Afera z reklamami atakującymi konkurentów Rafała Trzaskowskiego to może być prowokacja - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkJPVUtuUFNCYTVhZllRM05Sam1QTkdOVzQ0MUtSVHNjSF9MVmVQc2RzYi15V0I1eV9ISmo5WTFHQlVhXzNyYWw5Z2RfZWVhTnI1VThRMXRYaVkyRnZoc1VIc2ZkNTd6Z2FMcG9vRlZZWFY2WjFDS2JGUmhIQjRkSTRmUFhwZWUtZ2tPcVVtVFFSNXk5eG9uRWJjbzNidVZ2cEhqVUs0UE5haWdqT0JPXzhzWnZpMWRPMndvZy1XT2E3Ry1rRkVCU1VvamRmdU1fcF9YVFJ3?oc=5"
-      },
-      {
-        "title": "Trzaskowski z poparciem poniżej 30 proc. Jest najnowszy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDNLMjl3RVMyYmh4SXFwT0RxaWJrWWNtUUNoczVMbUlUeEp5T3FwUXFMUUlucjAyQ0NGVlFVTU1kR193ZlJSMTVRcVpEMldPbGsxcXBGWGNBMWhjUUo0TGNvTXFXc0drSU9rSFh2SXFFSVpVbG1lM1FTbXRTLUpnNXNKVm1NSnhXOXc?oc=5"
-      },
-      {
-        "title": "Nie jedno, a trzy mieszkania. Oświadczenie majątkowe Karola Nawrockiego - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmVBZmRLZ1l1c05CNFJsV0tKd3RQYkxwcUhLVTQxa0NSenUxTHZQUDl4bk1NM1ZDcE8wUnZPNHlRNy1vbUtFSDZDUzA4UWdMWXV2UHBLanJBaXUyQnNYc3Y5ZmNCejZELTc0UUotUG9WM0Y5SnYyemhCZ1BnOERGdm5MZDZBNDNtQ1MteENrU0FTN19lV0sxaWFFaENDNFdBZUF1bmRHUkotNzVSMXpJSWtzbHNFeUlocy1VaC1IcEFQUQ?oc=5"
-      },
-      {
-        "title": "\"Kłamią bez przerwy\". Mentzen krytykuje rządzących [RELACJA] - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWwtMWlUYkxoanNhYU9fVjNRLXhnS2hybngyZDEtamdZRjFvRlBOOFFKQUgwMFFEMWxpOVVpLXVReFl6Q2h6YVBKX2owaVIzZjVPS3p4UGtvakl2cV9BTHpQRW5OdTFMVS1IMjlqUGNETDVxMjBlejRhVzgwemRkaHZYQmk0cmdjV3paOVRuQlpFdXAtenJyY1VINUNDM1RZRE9LamhEUXk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-16 21:11:26",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Andrzej Duda też się odniósł. \"Nie cynizm i draństwo\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVBOUGplLTZjVVlEMy12RmpPRF82VVFWZWhPbl9LeDYxX2lLOUl0OFEwUGpOcWdXSDlmX2xrS0tlZGRBbXhOaGJsME5HQTE5T0JxYmJiV3hlandSNUtObGZ4QTI4UG02VGs2YWRaNFNjcTBrOGdwaEYyWWQ2d2NiamdINEQwU1BGR1kwVkFPMXFFclU3OHQ4WUwxT0FxT0dXSmloOQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-19 03:10:47",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.7853,
+      "EUR": 4.2392,
+      "GBP": 5.0371,
+      "CHF": 4.531,
+      "JPY": 0.026051,
+      "AUD": 2.433,
+      "CAD": 2.7129,
+      "CNY": 0.5254
+    },
+    "crypto": {
+      "BITCOIN": 403459,
+      "DOGECOIN": 0.872506,
+      "ETHEREUM": 9349.85,
+      "LITECOIN": 378.73,
+      "RIPPLE": 9.19
+    },
+    "indices": {
+      "^WIG20": 2810.35,
+      "^WIG30": 3629.61,
+      "^WIG": 3629.61,
+      "^NCINDEX": 243.1
+    },
+    "news": [
+      {
+        "title": "Wiadomo, gdzie najwyższa frekwencja. Są oficjalne dane [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUdSa3poWG9MRkpFR0VEUjRUc0kyYzZnZ2x0b1pBQWpaNFlzdGFwR2k0OEhDamM0S3VZMF9hTjUwZnRtY1RzNXZVTThIZ0kwa1gwbGRxeHc3bUo5c1NNb3BCWHRfV0FQN01XNFQ2N2o0dWhJUVlhQVhBZ2hxYVpLSmVEYlhkSWItcE1jeHh3RURLVVdkVFpPT1JSaGJUVUpYaEU1aW02c1Y?oc=5"
+      },
+      {
+        "title": "Jak głosowała Polonia? Karol Nawrocki zdecydowanie zwycięża w USA i Kanadzie - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFlqUTVOZWR0b3lXVUozYVQ4UW5TQU54V1laRU53ZWMtcDlBTHhmLUo1dExkMXZyM2dfM3Iya043a2ViYUVaemdtSlV4Ym8teEV1ZkloZkZPUkdLUHN3ZDdRSlNnOTVMX0I2OEtaT3dpdU5TOVBaSkpyQ3dlOFdXdzNYbGhuNjE2b0x1UmMtYk45LVhJTWdTanhxa0c?oc=5"
+      },
+      {
+        "title": "Hołownia największym przegranym? W sondażu za Braunem i Zandbergiem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEpORUR0bDFrMm5RR2l6NHRpaWlScjdjSVlNN3dXdlJNN1E2SERDTUMtNzBtYXRqLXJnYTJna2lwcVJxdDBJUFpUWVQtUDlZY3M4b0p0cUtVVWtiYnlmYlA3NXBheWw5NkdQQjhZY3gxREh6VmcyT0M2OXFGcXJaWUJES0YtejFmRG5iOGZ3cWJWOU11Y0FMLWFfd2NJbE5CT2hMNVFCQ0hid0hsRkNZdXllX1NYV1k?oc=5"
+      },
+      {
+        "title": "Rumuni wybrali prezydenta. Exit poll: wygrał Nicusor Dan - DW",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnM5ekkxdkFOUDJLN21hZmt0VWxkb0ZFT3FlanFmU2ZDejhPMjFjVlB4VkRUWEg4TTZYV3B1MXhrT3k2elM5VXJydE04YU9GNG1wTUxUUmU1R3ZTNTBxdTg1SU1vTENHSWNKX2JUZFQ2ZUN1S2RJQXpOZURneTR5a0ZlZm5rZVlhVWRaRF9wNWFjVGVPRXBN0gGXAUFVX3lxTE9JMzBoT1FUTVhaSGF4ak5xX3lzZ0RJZXJCdlJ5YkI0a0NBY3ZmTmRzN2Rhd2dSZjJuYlRnOW1fRDJRRnpzcl9qNDJnanhQWEZMYzRMNFU5aGtUY1A3aXBzMXE3NlFtSUhadE5MLU5nUVlpaXhoVlFTQzlISU05Q0hvamRHcnBYM0oyLVBEMDM0LThVZzYtZkU?oc=5"
+      },
+      {
+        "title": "Ostrzeżenie dla Trzaskowskiego. Światowe media o wyborach w Polsce - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc25WYWpHNnV2MVhsNjVhUkFyRXVjUnRsQTZXTWpxdzlxWnJfeHdqVFlJVFRhQkQ2VzJZd3l5T3ZRdXI1eXdIVlZFV253V0I3eWxxOS1VTWd2Nm4wWHlZSW5MUDBncmZZMVFCNnA4eGxDRnpLcm1mcVNDNzFkQmVRRVVVaGoxQ09faFota25DbWRvLWFTUHZtMGt2MVg1NUlyQUpaMExnWms4cWxpeHVtQk1BZk9Kd0FjeTVRMGdtZw?oc=5"
       }
     ]
   }
