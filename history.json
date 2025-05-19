@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-17 10:16:18",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 395470,
-      "DOGECOIN": 0.829925,
-      "ETHEREUM": 9523.81,
-      "LITECOIN": 384.19,
-      "RIPPLE": 9.09
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Cisza wyborcza w Polsce. Izraelska ofensywa w Strefie Gazy. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjlmSzFLSUt4cXhWekFyNWlEcTExb3ByZHlxaU5Kcy1qMk1ZWUdwWGlvVnVzVFBiaEZDSEZlUTF0SWh5S2RITG5zWXBrcjFwSnpfb1JtWVZKMl9mczlfMEpnUEp2TW5YbldhVnpmc3VYNzVDUUVVbWVyN2ZGQm9zdWNqMThTMGpFSUFnYk4xNDZxNHNKbVE0OGhWZ1ExdGlHeHdyeEw3Wm9uTE1hNXN4eVEwc01tN3M?oc=5"
-      },
-      {
-        "title": "To ukraińska delegacja usłyszała w Stambule. Media: Rosja grozi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnl0UGNyc1JpeklId0VwQlJSTm9xa25EMlE4bXg0dHU5XzdCOXVmZkN0a2lQcERISkRZMkdHWUlBOWJNc3FSSDZvTlhHQ1I3cC1Td0xVTUFXbWp0dVhDVThTU1JVbVJrU01oMzFmN3h1VzRoVG1uQzEyQVlHX2hGTkNRRVd4aXV5dkhxdkNweFdiOF9iYmRwcA?oc=5"
-      },
-      {
-        "title": "Donald Trump zmienia strategię? \"To byłoby miażdżące dla Rosji\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2N1OGdocl95eWZhMTNJeUVQSkduQmJJSERTdTNDbVFmVjRSZEo4a2JTQjBuNXZ3X1hBOGU3ZXhKR2Zfd21KNGNVOVJzLVBORi1rTHA0RmlKUVJZNDkzdXVXU0xfVVVQQzVuSFpMYjZENnE3b1RiVnZDbWNYWDFzeXJQZlNNY1NCMC1KZmxNNGRkR3FFWDZ3RFllOF9FYkxjV1NqeUhB?oc=5"
-      },
-      {
-        "title": "Rosjanie zaatakowali autobus z cywilami. Nie żyje co najmniej dziewięć osób - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHg4YVJZOC1xRHJCVFZCOVQ0MGpZcXF0YWRlb1VZMmhvNjBlOVk5VWljVG93MW9tV0dESnFsaUJHbTdGUEkyT2dXUW5sai02M1d4S0FTQ2FxZ2ZzdklYcmhYeU15alNfM01KTUVZd0k2Z1QyRmkyOC1ZUFQzcmxxOEhJVGc5LUVwMlBOMHRYcEZHMUZnbUdFSEJmM0kza3hQNW9NN0U4Y011UnRGd1F1dVA1dnR5QkRGNVZUeUdJWQ?oc=5"
-      },
-      {
-        "title": "Brutalne morderstwo na UW. Wydano ważne oświadczenie - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmU2Sm5iNjVyTGxrZ1NmX3VJdjNTYU9uLXdLdWkxLWVJQ1RaRnBFeENicHBRWWpudFk2dDQ0TFJKa3dJcHRLekN6aTY2QzZydFl6b2NXNEVTenV5ckpnQUl3SG1oYzREbUdaeTJzdHJJbVRKeUJaOUQxNkJZY0I4akpwSmVKeW91U05XZ2Zpbm9tUFA5YUpES3o3U0lZdUU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-17 11:13:06",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wybory prezydenckie 2025. Zwrot akcji w frekwencji - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzNWZGhqNG5tVmpSR1NJaWNyajdYUWcxV2dhU2cyZS1wWjQxVWVKWjRmcnh3dHZUVUZ2MzRYd2FhLUl6SWQwMDZrTVp6U0g2VmVVa2tVWTUxU3dnSENpSmpCU0ExY1FHZUNUYW1Ma3NsTWpsU0RGbU5WRGJ3bmNpS3IxUEZQX19mRDFack14elRMLW43RXRjY1JyMzlaN2dFRkg0VjlB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-19 16:14:20",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.8004,
+      "EUR": 4.2785,
+      "GBP": 5.0801,
+      "CHF": 4.5608,
+      "JPY": 0.026232,
+      "AUD": 2.4453,
+      "CAD": 2.7239,
+      "CNY": 0.527
+    },
+    "crypto": {
+      "BITCOIN": 391831,
+      "DOGECOIN": 0.825717,
+      "ETHEREUM": 9217.52,
+      "LITECOIN": 363.44,
+      "RIPPLE": 8.81
+    },
+    "indices": {
+      "^WIG20": 2782.18,
+      "^WIG30": 3596.73,
+      "^WIG": 3596.73,
+      "^NCINDEX": 240.47
+    },
+    "news": [
+      {
+        "title": "Wybory prezydenckie 2025. Kto wygra I turę? Relacja na żywo - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3dJODBIQUpGenlfZVozX1ZlRElKM1VhampwVGwzdENOZC00N0gyWXNrOXZ3YUZiQ0ZmcHhxOW1EYUp5UEUxc2laT3JaWlo2VUFzSld0Zno4TXJTRDRuTG1KcFZVTGxuamRNOWZwNE5SY2pIYVduSmpUbk1Tejh3YURobEtvSjVFQi0wcGZlZ25IZzRibnpKNnlzbGpwZm1jSkJsTWxDRC1ZQ1JLbU5YazU4UU84SU5ob0p6T2t6Yw?oc=5"
+      },
+      {
+        "title": "Większe szanse Nawrockiego? \"Rozlewa się fala populizmu\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzB4SWhWcjhZTmhXR3c4c095aGpESElENldlYXM1T05xS1BjUFFvekwyZGhzaTJob0RiQm5PYjJPQ2cwRkJWQ2U3bEhzWk5KemZEd19DcTAyMVFIRFJPYl9BRkVpaHNZOFNVNmg3UDE3VXRicEh3eUJuMHlkTHdXVkV5XzhoUkljTDBuSmtnbUhDRVItc3RGd0NwcVE?oc=5"
+      },
+      {
+        "title": "Rollercoaster na akcjach kancelarii Sławomira Mentzena - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE1lTWQ2c1RrWWxTTU1YM0lUYzFQVkJ4QW5TNXBIWjMyaC1RQnllTm1hM2F3U1VLU3pkRlZhYmpFdlE4UUlSQ3Bnbk9SMXo2TWVMTmNUY2h2eDVuMkozUE1feG1DdEcyTzVNWlNzeVBDdlZLX3g4VExXcjFmZkNnRzVYMEhqSUwyczQtVXNlcWZQOW0xYmFKNGlGVTlrbkw1UGt4cDBVT2JYeG9lN1drMWhLVDRRaHc?oc=5"
+      },
+      {
+        "title": "Przepływy wyborców. Nawrocki zmobilizował elektorat PiS. Mentzen pozyskał nowy. - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTnA3OWxKRUIyUllfTGQ5NEIyanh1MnJZQXAwWFBPLTV1S0FrS3d6OHNfOUxXWlUyOEtBR2hfbmpjY0VXUS1qZFNmU0pnUFd1ZTlVREx2OFlCN083b3MwT2JJMGRGd3ZGQ3R0ZkpIN0lqQmdTdl92aF9qZFFRN0xQNUItakYtQklERUx4aC1yR0Y3N2cwREpjeHNiZlZ2b1BIOU1xaVNSOFNWZ04ySG9hMTN2aTJKZTA2NUUzb1c0Rmc4RVBfNm96YmZIN0ZuNWxIckE?oc=5"
+      },
+      {
+        "title": "Donald Trump po rozmowie z Władimirem Putinem wykona jeszcze jeden telefon. Biały Dom potwierdza - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnVJWU5rb3dYN2lkMnhZTC1NOWY4S0xLZ0M4QVNEQ0o4THdxX2I2X25fcnhpZldVNWhNWk1idE9hSFlqSm5OVFlydTd3YnVZOWNxeGFiYm5sM09RWVdvQy1VR0JTNFlqX0RKd00zTnpxNDZ3ODl3SVhMcXVPUkI5aDZqNmd0THV6UTVLbTdYZGpqdndiMklMNUEyd1BFU1NrN2NEMnFVd2tBQ2RwQjhQenA0UkVPWnVmb21hTGFBcHphdHNkYzI1aFZ3U3BpLVUzTGp0ZQ?oc=5"
       }
     ]
   }
