@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-18 07:13:36",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 395404,
-      "DOGECOIN": 0.830861,
-      "ETHEREUM": 9516.3,
-      "LITECOIN": 372.46,
-      "RIPPLE": 9.07
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Ingres Leona XIV. Program specjalny już w najbliższą niedzielę na antenie Polsat News - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTJ6RkpDRnZiN1U2UE9ka2p6eFF0cndrRjJldDFwTzJsZkYwajdUVzJXYmNuTTNXQXdZMHNjTlBwZDRBdkVYcEhkakhtRXJxMlZOQ0RTOUxvbGFzWDJQYUJOMTdCVXJkXzltUmlrVl9TVmNQSGJDXzNZazBXLThabHVzZ2JZUUIwVU5za3FCUzEwaVU2Z19aZ2tVU2RyN0IwZUVabUJDbWpkUUJENUJ3MjVJbkR3YkxmaFFYdVZnVHN0c0FwdXJr?oc=5"
-      },
-      {
-        "title": "Są pierwsze naruszenia ciszy wyborczej. Policja podaje przykłady - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJaTFlPQ3NIaDRkTnp4WmlMRzExdWFESnB2TFBFUjhfTjlMSVdWcDlFWkZvVWtZWUVNdGhKN0NleENMN3c3X19ZSFlnd0dlZGljU0FkalFpQWc4T1lXZi1YbFdvbkN1X0JSYXdnbjRFeUdobXhmdU45ZlFWbXZsaHprU0c5MG5jWnRhN3F6NlQ0WGEyOURuV3FsLXhZUVpIckhObFJab0F0MXhHZzVQN1prZw?oc=5"
-      },
-      {
-        "title": "Wołodymyr Zełenski komentuje uniki Putina. \"On się boi\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTRaN0V1RElrWnoycUFra3YtczVsZXBhczY1azRfYXRSNkJnOEpHYXFWdUVKTWdEczV1el9GUzN0a3RuRTY0Y3lmbDliUGRNTE9tSkVYNnhFZ0JSMzNpeF9rczVudThuOEIwV09MM3BFTlhDTDFTSmVPUzEwclVtdG9hdWN3Y1RUaldEYnpFZUpOZm1QajREYkdITWc0OGtJdU5TQzdpci1DTFhhdnVlOGMya0FsQQ?oc=5"
-      },
-      {
-        "title": "Trwa Noc Muzeów 2025. Tłumy chętnych by obejrzeć muzealne skarby | Zdjęcia - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUVLLU1ZMjA0N3JWdDdrbGdGeEdHWmx0RGRuVEtXQUZ5YjRBR0IxLTFwV0xqSWZndDFSNWpnTGdmNFNSa09fWjdZVFh0aWpqMTVCaWVELUE1MWJON0dqSVRJOXlnOTNfRlRMcWM5NEZ3OE5hbTFBVGtSYkpRRHpTQUpNOXl0RjVrcWN6VHpHbEpTcjRabXBsNHo0QU4xZFNZM2c?oc=5"
-      },
-      {
-        "title": "Eurowizja 2025. Te kraje głosowały na Justynę Steczkowską. Skąd dostała punkty? - RMF FM",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlJYaWlNMktGRnhCQ2RIb1R1VnozZW4yZ1U1UU50d3pkbW9wQnpHNkk1U3ZBV1dpXy1QM0JGXzVUQjl1bjBudjFMMEpIclN6dHg4NHNyd200T3hyUDBGWHo3SkMxTnhTUk1ibHBUTTJDRXIycGpBRzJ5cW05T3RObVVQeTZUeGpPQ01tSm1qTElLY1V3Ym11Tzl0NHdwRXliOFc0b2NoVmw0cHduUUpWbVk2ZnVpS2F5M2Ezcm1OU2lpZWlLZERCQzFGMU7SAcsBQVVfeXFMTjByN2ZhMGp4SGFBV3ctMndmMXU2RlpuSjVGUmFvSHRVdzR4bTlHN3ZmeE1melYyWHhSTmQ2NVJvNnlXMzFJWjFkZHVEd1QwS0VMMDNsWTlPdkEwaWFLcGVmZjBvMnVxVjlGZzhTaE5HVUU5VW1VWTlFRElveng5TFFPdkpobUZfSUVZQnZwLVFHbHRqSEVycEtJZzZaQ3JjU01qVlNjUXpYT1BVamdNeGZhRGM5cjdxZldVamhleDktRHpDTG1yZW16TEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-18 08:18:39",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nawrocki poręczył za neonazistę? Sztab nie zaprzecza - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVM4bEhjMlBGYndIWlNSZFhCT0lsZ3F1ZnA3eTRzQ3d3c2NwTEJZMXd0dEhRa0VRMjlFcmtwZjlFbXhLam5FaXVhWGhFMDRkQ19qYlAyTFU1TEZCTzJKVVY1eUlRUkdEYUpqVFotU0xBQ1dLaHE3ekJQM3l0MWxxNlU1LUNWUlNpbUQ3cDhVZFV0OEJxLVRITlFn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-20 13:12:06",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7747,
+      "EUR": 4.2497,
+      "GBP": 5.0483,
+      "CHF": 4.5376,
+      "JPY": 0.026125,
+      "AUD": 2.4227,
+      "CAD": 2.7076,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 396363,
+      "DOGECOIN": 0.831393,
+      "ETHEREUM": 9481.29,
+      "LITECOIN": 350.75,
+      "RIPPLE": 8.83
+    },
+    "indices": {
+      "^WIG20": 2793.45,
+      "^WIG30": 3609.84,
+      "^WIG": 3609.84,
+      "^NCINDEX": 240.53
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki odpowiada na propozycję Sławomira Mentzena - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDJCV1dEbWsxa1p1WEswOUVRb3dVcU8wanNMQ21QcFJNN2Q3RGhQYzh4cy1FajdGYlZ2QlNzUElxM1FQT0pRVUlRSHhVZ3pTWmdlYUFobjhvcWJwWXZ5OE1EcGlkaE0zNkNyLWJFQWhFZV96RllvV0IydnpYTXFzdEszcnRjLWs1clZreUZobU4zNmU3V0E5aXFSM3FRbjJ6Mk5UMlduVThETG5jNGdwejdUSnI3d3JLWXhYaHFneFZONnhQUWVHN3BqdGg3M00?oc=5"
+      },
+      {
+        "title": "Czy będzie debata przed II turą wyborów? „Rozmowy zerwane” po „nagłym telefonie” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU01JbFpyYlppNTMtYkZiTzlxQWhrT011cGlmQU5XR3dqRjVYTDBabDBYN2t5cFhmZkpMTE9yXzkwVWNxNl9PclJKVnlUTEJQTk0tbk0zOUVVMU9yUlpCczBlX0xvN0tESElwSFgxazBfUVhhM0Y4bkV4OXhaTWZoU0ZXTzV1UmRYR1NLS2RFTkpPb3FDTmZsSTdNUjV2WHlMampKUjh1NE1nSGcwcC1tZw?oc=5"
+      },
+      {
+        "title": "Donald Trump rozmawiał z Władimirem Putinem. \"Miły gość\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzlrY3gwaW5wRXVHZmVXVnZmQWhjSVhraU51LU4zdWFRZ3NzcnZMWlJ1SDhNRTFhWWl2a1E5WW1YNVo4TlZ6dlFiM3h3ekFwR3RXS19fNDlTT09VWVZsT1RHbzBMUDlCUG16OVNRNVNlSWx2TkdpUmozZFNNaUM4Mk1peWVQWkoyNFVlVnp5Q29GQy1DbzNSeFJn?oc=5"
+      },
+      {
+        "title": "Błędem Trzaskowskiego jest Trzaskowski. \"Jeśli nie ma żadnych ukrytych bomb, to przegra\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFdYcWJVSkdoRHVJcXFQV2lDejZZUGk0TG5oRU9fSUVNYWxnOXBhb012aUIxcjUzeWhEcmhGb1cweUtpTktrekZZR2VWYlZhc1g0QV9CbTk1cWVNdC1VQVhJOXZkR1BncXBvbk9zbi14RFFLNDByTWJyMnFONzR1YXh1RmVORXFLMUdlLXozRWRYek0tdkhlSEh3?oc=5"
+      },
+      {
+        "title": "Nawrocki kontra Trzaskowski. Ekspert wyliczył, kto wygra w drugiej turze - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTZEangzdUp0eEc2RlBJQTZRcEgycFBLMUxRSTVuU29iYmdJRW5IaXJVYk5MTklHX1dTTE9ObFVPWVc1Tmw3Y3JyX0hmdGpVLVJmeEZpSVhUX2FkTV9XVTBqRElLYlFlVlpkZG9OdGpZckFyMmx5VXBON3cxV096T2EwSnRCcXVqX2x3M213LTNHZHB6SjFUTzVCMkJhM25zclF4Nzl4WnNxTVNTNFNfcjdZZkJ4TmJXdEE?oc=5"
       }
     ]
   }
