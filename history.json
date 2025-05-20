@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-18 14:24:38",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 396969,
-      "DOGECOIN": 0.850896,
-      "ETHEREUM": 9554.97,
-      "LITECOIN": 375.34,
-      "RIPPLE": 9.12
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie 2025. Szef PKW: chciałbym się podzielić smutną wiadomością [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUFYMDZkMjRGVHBEczUxRUtQcFdzbEpsV1JBWk5TT2NTajF4UWcydGNHeDJFT3ltUEF1OWswVzRGX3k4aGlwVjNJVGN3UXdTd2NWdXJBay11aXBsa3VLaE55WWdsQW5FR0xnUVBfM0p0TS1KZlRwdW5IYVpWV1VxOTNtQ3JtTUpYVjRsaU8xNC1nOG8zaG00NkFEWV9vcUlicnJrdkxvN3VpREtHUDY4MTNfU3kwajBhUjhVTmZkaDdJUQ?oc=5"
-      },
-      {
-        "title": "Polscy biskupi cieszą się z nowego papieża? \"Byli już zmęczeni Franciszkiem\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcG1fRjgwTVVQbkJHaHRjcm1WQXNYTWp4LTRpYXhvN2wtZ1dlUWh3WVI2NXhydURnNHh2Ul9MVzNQMkNBcXhtZGk0VFB3UEs1cHY1UTlQRGNVQWQ1RU5aZXBJVWhsaTNTQzBXVi1VM2s0dUNYdkRJMXVYeG0tYS1UckhMRzB0dGx1T2djc3RlcTJhdDdWa3JMei1ldzRFMUE3d3R3MUVXVkVtRUpoY0gxZlVGcnrSAbMBQVVfeXFMUGM0NU1lVV9sdnBvajRtWnpUX2xpbHN4dFI2QzZHZEc0RW9tel93MXNhQ0dacHhzZnl3ME1Yd0p0QUIycktaZFlSVXd4N3RNc0o3S0lRR3o5VEx4WFJuT1drVmFpa085NVdhTENsbEZLMDFYRFlCbmxXbXdGSjRLV3Vjb2g0MDNrWVpQRk5NaGRsN1ZNSW5NNnNLUHkwREZBZkhaN0dBaGxVSGtPemsyOEZCRjA?oc=5"
-      },
-      {
-        "title": "Cisza wyborcza do likwidacji? Oto co myślą Polacy [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGdlMFFlY1B3ZE5BZ1F4WHRtSWhNYktZVW5RN0lSMUVVb3NLUlV2WGtZbXEzb3lwUnZudW9oOUhpeDRxbWRibUQ4OHJsSVhKS1BtN19sWTJkQXFyR21mRC1qSlRYQ25uLTd5bG83cTNEWC0xQWtxOUdBREo0LWFEa05FRnlDMncyOUs1X2hOblltR2N1TVlJbV92Yzk3T09ua1F0aHRKb2Q?oc=5"
-      },
-      {
-        "title": "Putin o bezpieczeństwie Rosji. Pierwsze słowa po piątkowych rozmowach w Stambule - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRW9mR0x6d2RpcUVVemZsS01JNlh5QlYzZ09uWmFKVTEzTk5odW9oSWs1N2NTNElLZ3B1WFpubzQ1X3VUb0kyY3lDTHNrcWI5bllsTTc2S0xadkM5cUkwLVp2Y1BNTGVZVWRYanpOaXRvUkVybDFDa1VjSUxnUGxhZ1BHVG1CWWhsN0FZeC0tMUJRV2dyMEFoN1VMTjg5cnVXZVlOREtVZnNVbU5JR0FBMGs3QTJhZHBjc01EeGUzSQ?oc=5"
-      },
-      {
-        "title": "Nocny atak na Ukrainę. Nalot prawie 300 dronów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPME1KTUFlSVhiVjJoQWhqOERFWUduVVZxb0FUYUZ3cFRsOHNuMXNBbHZWTHdBcUVqa1IteVR3U0ctQkpLdW5vb0ZZX1Bic2R1ZkN2YjZCeHdhZ3JpUVBmRDVmclZqVlRhVGlvRWxPQm56YW1TN2h3MnhyeXpZRUdJMnEzdmZIVC04VVUxVGNxdHpiMVM0UHMtdVJmX2dVbmxhdkc3bVVaeEt0UDdY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-18 15:21:07",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Co za przykry widok\". Tusk odpowiada Mateckiemu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUxvRmxPeG5Ka2E1X1Z5RzIzRERIMUlCN1dKLTBzXzJoQ2tDOW05SE1hcF95MHEzY0FlOTREZU92X3dCbUkzZ29VWG41cWRsSFE5T2hqTVluYkNXci1RamdxMWVhWlVzS2VBTmNpemZvX3lfTERRb0w5UkRpamlyYks4ZWZXeTMwczdxaU91S0FjUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-20 20:19:31",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.7747,
+      "EUR": 4.2497,
+      "GBP": 5.0483,
+      "CHF": 4.5376,
+      "JPY": 0.026125,
+      "AUD": 2.4227,
+      "CAD": 2.7076,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 399396,
+      "DOGECOIN": 0.838348,
+      "ETHEREUM": 9390.18,
+      "LITECOIN": 354.9,
+      "RIPPLE": 8.83
+    },
+    "indices": {
+      "^WIG20": 2796.13,
+      "^WIG30": 3614.48,
+      "^WIG": 3614.48,
+      "^NCINDEX": 241.91
+    },
+    "news": [
+      {
+        "title": "Trzaskowski odpowiada na zaproszenie Mentzena. \"To jest to, czego potrzebujemy\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtnZ0pVUS1qVnZyUkNnY2JONm12UFhNS3lTT1l0cEhkWm9fVjJkT2sydGhxNmlUb053eDd0VEJQeDlYM2lMRWdwaXFwWkwwMzBBLXdzR2o3MG5xSDNmblZHeXpNaFRGWjRqUDdjYW9zb2lINFR2VGpOdGtzQmpqbU5qaG0wYWkycE5uQmFOQWZkVmRHMkxHa3hZWWhsMlV5dHgtbW5PZE9DeFFGbEc4cXR3?oc=5"
+      },
+      {
+        "title": "Donald Trump rozmawiał z Władimirem Putinem. \"Miły gość\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0hSa3dKUTJuTVBKVmx2bGxVV0RSRWVIcm94c2U1aTNSMEpXUUdQWm5wVGF5X2ZweVRkN0QxTzRaU3B5LVhpZ0s5MURWVDRYc3phcW44TnBBenlQdVJjdGh3S1BvbHc0TlRoaEtMckdJcGlrYUMtYVNrMVNCVHVGTHFoWENnNmFWbzJMdUVtSERncDhaUjFENFpLM2ktd1dfMEpkVy1RVlNoT3prVF9wWXo5YkplMGs?oc=5"
+      },
+      {
+        "title": "Piątek o 20.00. Karol Nawrocki i Rafał Trzaskowski spotkają się na debacie - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXF5c0hSeEoydmk5b25YSGR5ZklHUEowVnRpdGhXWUk2aXRCYVhlODZIZk5VVG5GcUItNDdTUTZRY09vM1hfUm9HMlQ4N2MxZF9ORTV1MFV1ZlU5LTh2TkJXSXI3OUZ4eExRWEpFbWZCa1k1QnJ6anViLU02WWt3MDNMRmlKeUVvNTlYd29WQzlQZ1lQWDJwbW56cm1CbzBfMEZwMHZIc2lwQWtHR1hqdEdwaHBMSUNyOUE5eW1qeWdZdTVCSnhGY0xIVVVoNDU0VXc?oc=5"
+      },
+      {
+        "title": "Tusk nagle zwrócił się do PiS. \"Matkę byście sprzedali\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT19Tck16c3E2VVpvTERMbENUWTIzTG1IR2luRm1JTTk2WDZ3cDZiLW4xOUpiSzlRaWVNX0lJZlJQbW40QUFNeTVzbUJFc3dfcVc2d3REQjJyMEpHS3FQbVBsb0Z4NnMzdXhLMlJnQWg0VmkzelFlSXkzUVVnT19QR1JlRmx0SmdfbmdOYy10WFVhQ3F4bW5STHJ3d3k4ekpoNEliN2E3MFpLbElGZVEtblNxMXRBMWs?oc=5"
+      },
+      {
+        "title": "Poważne problemy posłów PiS. Chodzi o mieszkanie Donalda Tuska - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnprOUxDUEdwU2otYnpIMFBfM3ctYUpXcHBIUnplQ2ZNd3BoaHN3dGMwd3Y5VFFlZTkycEZUaUM2WktIUTYtVW1JVTNkYkYyNVRXUzd5b2JJVEl0M0ZSQmxvdF9sUXppTFJmNnNvMG9KZ0pZbkNGY2dGNGMzS1pQaFNrTGF2RGxiTmozN28wY0RHam9nVjRDMjRhREMzRjA?oc=5"
       }
     ]
   }
