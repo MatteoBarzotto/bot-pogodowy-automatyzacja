@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-17 20:17:16",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 394676,
-      "DOGECOIN": 0.821297,
-      "ETHEREUM": 9462.84,
-      "LITECOIN": 372.33,
-      "RIPPLE": 8.92
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Są pierwsze naruszenia ciszy wyborczej. Policja podaje przykłady - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJaTFlPQ3NIaDRkTnp4WmlMRzExdWFESnB2TFBFUjhfTjlMSVdWcDlFWkZvVWtZWUVNdGhKN0NleENMN3c3X19ZSFlnd0dlZGljU0FkalFpQWc4T1lXZi1YbFdvbkN1X0JSYXdnbjRFeUdobXhmdU45ZlFWbXZsaHprU0c5MG5jWnRhN3F6NlQ0WGEyOURuV3FsLXhZUVpIckhObFJab0F0MXhHZzVQN1prZw?oc=5"
-      },
-      {
-        "title": "Donald Trump będzie rozmawiał z Wołodymyrem Zełenskim i Władimirem Putinem. Padł termin - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZGNjcDJZYVBUY1V4T21paVlPQ3VVN1hlUjVPVjVaZ2xQSGt2bHNwVGVrd19ac1Bib2piNG96eXYtaHozTEJIb0U1bHVJR1htZWVSUWhZVTZqNU13Y1hKanpPWVlOSkVRSVRUR1V4Tkd4MmhINHRySnBsY1doOWt5WXRhSWZUSm5tTHJnbTNwM0Q5QS1IdHFDWnB4aEp1d3EtTDhBa1p1bTNZb2VvdVJGRE9NWmNoM2xkQzBielVUcFNKa2VtRU02ZkhMT1VZZFNuUTc5QlJyaTVHQQ?oc=5"
-      },
-      {
-        "title": "Zaginięcie 11-latki. Jest decyzja sądu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWNqTTdHNkhwODNFMENhUGZVVEhEVlhSMm1DT3RkMkg0ZWtmMmdnOVBsN3dLc3B4VWpSMXNySnRaRUpESlRPdVc2dGNCSWEtd2J3WThKMzBKNmVLM0EyVEdfVlN3QTdqdi04VlZ5OHRQb0Q0YjY5cERRcDFNVWJ6VkZ0UnFqOHJEZWxtR2RCcEV1TTNZOFhmSE1ZZkZyZlQzcHhKdg?oc=5"
-      },
-      {
-        "title": "Rozmowy USA-Rosja. Pilny apel Donalda Trumpa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1h2dzRUcG9yY3RRWjZwcmdmczFsVTdhck1QenNTWk9wWnBvY0FUdWlOdFNZdUo4bTEzbl9MSThHSTVydF85OGc3MUl2Qzd4VFhvSExMWEs1V2FKQlpJTlVxa3ZsMTRWc3pLMkdCSjMtWVFTbnhFaWZUY1AxaWF5VnhQblp1UzlwQkZOXw?oc=5"
-      },
-      {
-        "title": "Czego Rosjanie zażądali od Ukraińców w Stambule? Są nowe informacje - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTFNZUE3RzFhamVzNkd1Ykt4VkJEeV9yQURUUzVkSGktcFBhOTY1WHNxVl9zMHpFSHRxUHVOWHNEcks3Z0NyTEhIaHBfSGZQbkF1eUhfVjJhaHhYekViQlVYUVpPYVhFdGM5dmhCTWExbVI1YmcwVmVGa2hOeG9RUFY0dDdTSy1vejBneWx3UldibS03TlZRZnRPYTRhRTNRR0N6OUFJeWZnZWJrZFpaZ2hSNEo?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-17 21:11:10",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Mentzen ogłosi, kogo poprze w drugiej turze wyborów - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xPNUVvUDc0U1I1YXRjTFdjT1NkWVJzaGRzWkViLXRfYUp3aTRXcENheFRJRjhKS1lHMzI5WUxsekJGQi1DRGtqeHpMR3FhdHhWS0NOa1dYVHJCaXlqM3BIR1J0eUIyOWFaTy1OX2xOc3hUeE9LNEphQTdhUk15WVQ2UW5MRmFkZGdZSnFnNzVfalFkbU9SQy1vZTJYTUVKNGNQdzVYM2U?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-20 03:08:42",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.8004,
+      "EUR": 4.2785,
+      "GBP": 5.0801,
+      "CHF": 4.5608,
+      "JPY": 0.026232,
+      "AUD": 2.4453,
+      "CAD": 2.7239,
+      "CNY": 0.527
+    },
+    "crypto": {
+      "BITCOIN": 400789,
+      "DOGECOIN": 0.851845,
+      "ETHEREUM": 9547.42,
+      "LITECOIN": 373.04,
+      "RIPPLE": 9.01
+    },
+    "indices": {
+      "^WIG20": 2786.7,
+      "^WIG30": 3603.7,
+      "^WIG": 3603.7,
+      "^NCINDEX": 240.52
+    },
+    "news": [
+      {
+        "title": "Nawrocki kontra Trzaskowski. Ekspert wyliczył, kto wygra w drugiej turze - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTZEangzdUp0eEc2RlBJQTZRcEgycFBLMUxRSTVuU29iYmdJRW5IaXJVYk5MTklHX1dTTE9ObFVPWVc1Tmw3Y3JyX0hmdGpVLVJmeEZpSVhUX2FkTV9XVTBqRElLYlFlVlpkZG9OdGpZckFyMmx5VXBON3cxV096T2EwSnRCcXVqX2x3M213LTNHZHB6SjFUTzVCMkJhM25zclF4Nzl4WnNxTVNTNFNfcjdZZkJ4TmJXdEE?oc=5"
+      },
+      {
+        "title": "Donald Trump po rozmowie z Władimirem Putinem. \"Poszło bardzo dobrze\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjZ6TGQ5UUxHVDhaSUVHc1dfVEVFOG5SRmtLMnNnZF9nS0RzU2t3bExVYVhqYWVxczFVVlotMUhiZTVkWEtONlpyNnRtYzg5RVRjM3FKbUdqd2R4dG0xaGg0dS1sWnpnX0NlUlltSGdmeDAxLTFiODlCYmcyYjdrRUxrckIxdzdCSldNUEtqU1lUQlJySXBXbWY1cjdrZ2puWnBnLXNKMzdNV0ZzWlVScFBEbzJ0Rjg?oc=5"
+      },
+      {
+        "title": "Negocjacje Ukraina-Rosja. Wołodymyr Zełenski zabiera głos. \"Czekamy na projekt\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmVlYjJUQkZkMndNTV9hQTdaYlc5MkVqbmh3eXdBU0JsQ3U2cnh0Z0syU3RialBOV0U0WVZFb3BwNlZVNVNTZ0pKdUg0X19taGJvTUtJcHlaTlB6a3ZOVFNjR3M2VGs1V2dQdTF2NlpNOU1yU0w4dDlEdWlUcEY5TnpXUEpOZmdOVXNQRWtWRGpBS0N6dGozTUoyM0dTMVFjUGY3M1dBcGJ5eVVGbGxac2pMallYMk9XZThOem84ZU9RcGFCc0IyZy1SZzI5dFUyejhj?oc=5"
+      },
+      {
+        "title": "Media: tak Orban wpłynął na wyniki wyborów w Rumunii - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUl5aEtyNDJTa3hKVzJzeFNaa0xZa1ZYTDhuTlhoaGJObF9nT0VwSDZmeTctNE0xMVlHQjUyeFl2RHhrZU5Dem1TbU45Y0pIRU9hOV9BTGk3V19RSldqMGk0dzFQR3pyWGp5dlNCdkNlXzRsdnpVcHFvaENxbk9ySDJSbGp0VUJsRjVEU0ZXZzFaazd4WnlQZXhHZVlFZw?oc=5"
+      },
+      {
+        "title": "Trzaskowski spotkał się z Biejat. Jest komunikat - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2doWjF1NEoxUXI4a3JfcVNfeFBsaHlFWnhrSkpzVmRwVkpORG5POGR4YmhDejNBT1RRUzJWR0lQeEtDT3QzNGlQODFMeGZPdG9hR0hBVzBTN3RFNWlRWHVVbEFLZW1CS2VwX0pZcXRzUVdSZUMySEJmaVRCcjdVSmtQcDRrMU5iTUp3WNIBiwFBVV95cUxPLWNEcFlYbDQ1TF9heTlDb0lHSjE0Z3d2LWExVTRYblVNZWlWdC0tWHg4NmF0X0tBZzFKSThUcThxUWJ1a002NTRzLUNacDBzcEd6TzBJQVhjN25idGxYS1BWN01tSDRqaU5WblBSdkx3NjNiLXV5TFVPanViYkFCZlg0QkZQYWk4c0xF?oc=5"
       }
     ]
   }
