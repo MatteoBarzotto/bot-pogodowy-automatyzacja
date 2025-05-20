@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-18 03:12:04",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 395134,
-      "DOGECOIN": 0.823885,
-      "ETHEREUM": 9490.52,
-      "LITECOIN": 369.95,
-      "RIPPLE": 9.02
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Skomentował zachowanie Władimira Putina. \"Boi się\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTJGSnBCdUZoT1JOUU8tNWNTY0l2R3VoUHUxOEtTdDNiTVBSSmJmMHpIUUNTUnE4MTVocEJaRGNQVDB6WjVQTUdSdUtSTmZUUnpsWVgyaGozc2RUTEhPWXlKVlhhMzJBTnBRWUlONGVRc1BZMTVaeTM1VTZYSllRc25HNkEtV2tMdGFrUG9rdzhrZnBxMmtWUEZ3?oc=5"
-      },
-      {
-        "title": "Są pierwsze naruszenia ciszy wyborczej. Policja podaje przykłady - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJaTFlPQ3NIaDRkTnp4WmlMRzExdWFESnB2TFBFUjhfTjlMSVdWcDlFWkZvVWtZWUVNdGhKN0NleENMN3c3X19ZSFlnd0dlZGljU0FkalFpQWc4T1lXZi1YbFdvbkN1X0JSYXdnbjRFeUdobXhmdU45ZlFWbXZsaHprU0c5MG5jWnRhN3F6NlQ0WGEyOURuV3FsLXhZUVpIckhObFJab0F0MXhHZzVQN1prZw?oc=5"
-      },
-      {
-        "title": "Donald Trump zadzwoni do Władimira Putina, naruszenia ciszy wyborczej w Polsce. Podsumowanie dnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGNnc0h2RHNWZGpGNVNoVzhWRXpCX2xseEhfXzFyRjYxMWlLLVpod21YTXpZQzFOdndOUjk3dFdjQWF6ZnZpN09tVlpPRjB5YXFBMmVYOXdNNjNvdmJJQTdiSDhrWm9ObnJxQXB0WXRyeDJUSzRYd0VUdUZsbWx1T2NhY3VpS3JZNFpkUmNSc3JMUG1ndkZiaWpsUF9ZakFHMXU0REdPLVE5YngyN1ZiajNMZ3VZQU1z?oc=5"
-      },
-      {
-        "title": "Karol B. z Żor aresztowany. 11-letnia Patrycja spędziła dwie noce w jego mieszkaniu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDY1VGt6UDhnTmR4WFRFckdpMjloQlBadk1WTFFpWTk4Y0s0SDdMOVI0Z1BiV1lzS2poVjBvSF9iaVRUdjFZcFBVeXJoLXIzaFFRRHBmbTBQRUVuc0IwUDdfbVMzWllST2VzeDFKc09jRzdUNThiSFd3cG5nbFh2aDRkZGpCN0RWb25qa1BhTzNjdUR6RFQwazAtUFBvUkNJOHBsX21CYUtMQVp1VENxZXJQZDJoYWJ6aENuN1ZLZWM?oc=5"
-      },
-      {
-        "title": "Telefon zadzwonił. Rubio rozmawiał z Ławrowem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQm5Ba1ZOU2hoVEg0VEdwTHRmWWZ2dWlONnVmY0FYV2lDSkhFQmJVaEt1bFZtbVdITjA2cjZHdDRlUUpyV0VCS2dkLV8wejhmSXNFSlBPV0lxcFQ5ZVNRc3BlUHpBbEpCejE4WTVadzhUdVc0Q0ZwSTE0SmpvZ2JLQkpRRVhZVjNvMGVFX0ZFeUs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-18 05:13:41",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Czekam na propozycje\". Szef sztabu Zandberga o przekazaniu poparcia w drugiej turze - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1ExQ3JTRVFKWGNwOGFSTVhmR2dfU0RhZVpTWTk5MVpBUHVGSEEyZTloOGxMRWFpMlp1Qm5DbUxRZ1JIUkkwNnczcmJJdjR1WHEtN0ZrVWMyQ1p3eWdjR2JuQnhfWUI2TG8wVkZtbG5zeVBkX3hJdHdKblljSW5FQWNUbW9oeW5QMFJrZHk4ZXYxNTJ1UTY2UW1MWks0NEh4bTg1X29qMXJncW5Sblp2VmUwMW5jbEMyMTlORzJkdF8zUHAzb1JYeg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-20 10:19:36",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.8004,
+      "EUR": 4.2785,
+      "GBP": 5.0801,
+      "CHF": 4.5608,
+      "JPY": 0.026232,
+      "AUD": 2.4453,
+      "CAD": 2.7239,
+      "CNY": 0.527
+    },
+    "crypto": {
+      "BITCOIN": 396951,
+      "DOGECOIN": 0.841405,
+      "ETHEREUM": 9567.98,
+      "LITECOIN": 354.79,
+      "RIPPLE": 8.87
+    },
+    "indices": {
+      "^WIG20": 2793.9,
+      "^WIG30": 3610.21,
+      "^WIG": 3610.21,
+      "^NCINDEX": 240.67
+    },
+    "news": [
+      {
+        "title": "Sławomir Mentzen poprze Karola Nawrockiego? Dziennikarka ostrzega. \"To może mu zaszkodzić\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObDhYT1JsMW9kTHd4UEpMcDZyT0IxdGJob19CbmdDdjY2QzNYdjdfT1d3ZHlQeF9MRlE1Vy1ldkJ1WFVwYlJ6SS1JRF9ZMzh0LWNUd2E5eGNEZEM0YU40blQ0aFdNRGcxblpTdlhobFBmMG12MXA0Yl9JSkoxMmRzN0N5SVN6MkV6NkpjbEI0ZjdNUi01NVdGZzB1RXNKVDg2eWtvWGVreVdoVTNtSnluS2xsLWszc1lTSGw1V09aZzJ3THZJalVlUGI4cEY?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Prezydentura dla Nawrockiego, za premierostwo dla Mentzena i ministerstwo edukacji dla Brauna - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHJLcWJ5eGdoN2ZOZ2c5V1NHMHpfbUZTbldlbjdTamZfT2tXWWxoR2NnQUxZSHRJcGtKTDZlem5wclVCSHlJdTFsdllLXzFoYUwyd0ozMVF5TWxpZWNtaWdBdTlPZmNrWXlYOXE1NlRtTHp5RF9ZM2lYelR6ZXFuc0prdU1oWGgtZk4tdzBzOHFhR1RMWlZIelp1ZzkwWW93SDNOdGV5Y1ZpWlQyV1hCbzU0WGZ1UTFLNkROcGdZUFlrRHZlRlRFVnpYdDlLTEFKdjViUkJKbEV5aGRSNVE?oc=5"
+      },
+      {
+        "title": "\"Czekam na propozycje\". Szef sztabu Zandberga o przekazaniu poparcia w drugiej turze - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1ExQ3JTRVFKWGNwOGFSTVhmR2dfU0RhZVpTWTk5MVpBUHVGSEEyZTloOGxMRWFpMlp1Qm5DbUxRZ1JIUkkwNnczcmJJdjR1WHEtN0ZrVWMyQ1p3eWdjR2JuQnhfWUI2TG8wVkZtbG5zeVBkX3hJdHdKblljSW5FQWNUbW9oeW5QMFJrZHk4ZXYxNTJ1UTY2UW1MWks0NEh4bTg1X29qMXJncW5Sblp2VmUwMW5jbEMyMTlORzJkdF8zUHAzb1JYeg?oc=5"
+      },
+      {
+        "title": "Niemieckie media o wyborach w Polsce. \"Antysemita\" Braun i \"ultraliberalny przedsiębiorca\" Mentzen - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3Zqd2dQWkt5Y0U2WHQ2X2t4VG1pMTVnTy1HdkRKYmo4S0dBaVJjZUJuamdtX21lXzM0WV9oYUVwbVNxTUZJYk84cUpMWHFBM3VpZVIzUkctQ0l3dkJqMGVjZ2VMc29mYXNPcnRXMXdwcVVvU0pnd25RLUVUT3lGeEh0Qkt3MWVaZzlhM2F4TEtFZ09CYVlKRG9ITndJajI0WjgwTUlWY0Y1ZVFyOS1FR0hqYWQ5UQ?oc=5"
+      },
+      {
+        "title": "Koalicjanci pomogą Trzaskowskiemu. Ale nie za darmo - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVW01akxuVWRGd3l6Q1JPb3FjemFsb3FBblRzejZHV2ZCUHZ1OEZoNmpwZVd0Z0dmdmVwYnRhdzhUQXEwVk5vRTJlU3dVd2dXdndnUkRwTzFEZF96Q05DcXJqMFFBc2ZIVkJqU1FKalNuNkZmYkhSNEJuUzc4aktiVTBZRVFHU1c0R2ZwcmRTRm5oWVlmWnNoNHRDZ1NZM2VfX0IyTjVQenk?oc=5"
       }
     ]
   }
