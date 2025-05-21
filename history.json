@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-19 19:12:35",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.8004,
-      "EUR": 4.2785,
-      "GBP": 5.0801,
-      "CHF": 4.5608,
-      "JPY": 0.026232,
-      "AUD": 2.4453,
-      "CAD": 2.7239,
-      "CNY": 0.527
-    },
-    "crypto": {
-      "BITCOIN": 397833,
-      "DOGECOIN": 0.847825,
-      "ETHEREUM": 9513.44,
-      "LITECOIN": 372.72,
-      "RIPPLE": 8.95
-    },
-    "indices": {
-      "^WIG20": 2786.7,
-      "^WIG30": 3603.7,
-      "^WIG": 3603.7,
-      "^NCINDEX": 240.52
-    },
-    "news": [
-      {
-        "title": "Sondaż tuż po I turze wyborów. Na kogo może liczyć Rafał Trzaskowski, na kogo Karol Nawrocki? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0Zub2dHanJzUkh3R1N3UVBaLXVyZVk2ejRicTJya0NRczEzR1ZCNHE0Und3NXdNVkU0TlNkM1cxa1VOTmJaV0tKS1FWcnd3eTMzTGJZcTJvcy02ZFRId1VpeE05a3hqWHJWckNzM3VYUnNEeG5CV2VJVVpzZDBpZGg1dGFIeXltMnQ3b1NPcXlvd0JRekNSQnpvdlh1MWdiNHZ4aE1IcXVzNVF1V2VkQmR0c0hRLVZNR1B4emVIcmVXUGRZRUpHMw?oc=5"
-      },
-      {
-        "title": "Gorący telefon Trumpa. Teraz rozmawia z Putinem, potem z Zełenskim - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGl1RkhYSkFzWk1OMzdhWXZDVEZVNXVZSy15RmQzc29lXzhnbjg2eGVHVVljdE1fY2Z6cldIWHotak1PUFVBbG1PckJFZ05yWm9PMzNkLWpaZjZ6aFdLQk1oT28xYXdzTk42UklhRUtYUFZ0cnlSVjh4RFpKQWVzZTBxaWJLT0d4QkpmRGRZMHhHVG03enFzOS0zcG44bFQ2ZTZHYlRnMVk5aXFu?oc=5"
-      },
-      {
-        "title": "Sławomir Mentzen o poparciu w II turze wyborów. Jest nowa zapowiedź - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZXd1b1JvWUlDRk1kSXgzTGh5OE1oZXcxYTNLQ2d4a1NLN01PWlkxUGpMdGZyMjg0anF0S3Z4eFlmeElVcWlSYXJwT0hNb1NGdm45Y2hZamJRdFJGcXlxVFZ6dW4ycHY1OC1MQjNGdnNPMnlyZ202R1VITUV3TE82SnJWZS05ZWp1dDFBY01md21JRHpTRDd2b2ZxamVaejMtWkFuek10c2g3U3pxQzhZRkthRFR3ai16YUM3NXJaNzJaTEZTZUU5Sg?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. W których regionach Grzegorz Braun zdobył najwięcej głosów? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE1YUlJDZ3liMTM5Zmtyc2Q1dTZMclBuQVp0Mkg4dXlwTTFoalF6dGlxUEVXbDU4M1IzRkNzX1F0eno0cGtIY1ZtX1hlX0xKZjBNbDFkWmhPOW1vQ05ZQURyM3IyMzlUWjJfYnhuNlFNR3MyVHNNUkJDTFE0X0IwR3gwV0MyTkl1bm9CWjJpRjdVQ3lnZHYxZjlJWVhRdC1qUlVueDN1VmdQbTRldDh2VmdmbGlvTUNXZ0dqOG9KRXBjOTJy?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki pokona Trzaskowskiego? \"Polacy chcą takiego zakapiora\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHk3RE1NeVBRRWpySExaTlNUWlNibVFKQ0JHQmR5M3VPTEVDSGQ2SllWUE9hSGxkRFJDeWpvRGZEalB5UXhFWjRDb04yUWthNTdJb1Q4a0czaURNeEFwOV9rS3lWQ2FELUV1VWNSQWJjYy1XM0xBT0oyVFUwRV84bnM1ajExUHB0QmpaVWt6V0VsZVZyV0RXY1hpVGlCYUJyS1dBbEpKcFpnaUJqTklnY29Zd1VIZzjSAbYBQVVfeXFMUHVyLUxvYVczMW1pbUEtX21oNTJ0eHg3elFhdGVWVlVoT21Kb0hMT0Fjc0ZMYm9KN2JpMTBfSzJFWVFWeGRWRUxNTFAzdllvdWVaQTdKdFpMV0gxOUJTcXlhWmRRdW8zemtSVkpSbjZ5bnVkTHpyY0ZxOTNXR0FXajlOV3F6aEtlT29ZTENKeDktU3NPMEZmTktSX0VNT3I5V3Y3cE0zYjBuT3B1U0Q0YlNNMkIzVVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-19 20:19:34",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trzy próby Trzaskowskiego. Od ich wyniku zależy przyszłość \"Operacji Tusk\" - Interia",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmxGZmRTWmd0cXVQcDY2c0c3VUpiWGxsTnJ6OVItQWFKOVRja29pM2trcHVRRmZJdHVEV0s4VlpSVnMyM25CdFJ5Q0VwV3hocGRWemFDQWlZbDBDUkE0c2ZWb3NLWTZHYjdGejZIN2NMNFZ2NklDNGFXZXlZSE9STlFxcW5tc1BWWWJMeW9ubjFtWVJkNTFFdGJ3N3laZjR4QVhUa1o4NXJWMkJSLVhNV2lSY1A0RE5ZM3ZqVk5aeTMydnZNZEZz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-22 01:13:01",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7452,
+      "EUR": 4.2403,
+      "GBP": 5.0178,
+      "CHF": 4.5365,
+      "JPY": 0.025986,
+      "AUD": 2.4117,
+      "CAD": 2.6954,
+      "CNY": 0.5197
+    },
+    "crypto": {
+      "BITCOIN": 408243,
+      "DOGECOIN": 0.869161,
+      "ETHEREUM": 9483.81,
+      "LITECOIN": 362.84,
+      "RIPPLE": 8.98
+    },
+    "indices": {
+      "^WIG20": 2760.83,
+      "^WIG30": 3573.02,
+      "^WIG": 3573.02,
+      "^NCINDEX": 243.61
+    },
+    "news": [
+      {
+        "title": "Zapytał Trzaskowskiego, po co idzie do Mentzena. Odpowiedział wprost - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0tNM0ZrWGsydlAwZmVXLXFzbUppSU5oblI0QlBlUUFTZWxqTWhiMmJ0RzNLMHhIMjBxbE9sVHNFSTI2ZDVVTWpqbEZvdEk3NXNucm9UX0otdTFuOXZDOVhHbDNraTVCV01kcExDelBHam1SVHZKVDBuaDZ4ZlV2eDV5VDVfQkJGU3gwdjhJb2o2TUlNd3FaWXdIcExycXdjSG9HNl9B?oc=5"
+      },
+      {
+        "title": "Bójka w Sejmie. Aktor Jacek Kopczyński zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTW9oV0F4cmJfb0FvU3RrUFFza3hSazJyZmVDV2hfUVRLZUlkalVWd05Zc2IzUmE4WE9tS2tQNV9jVjZzUWFkQ1J3MHZrcTBRQ0R2ZE11blhnY2pVSGxWN1l4aHRfeFhTYUF4eWVmWUZ5Mlp3YS1OdUY2VlhnOGk0S2pQZ1l5VWlBTk9yMVBzUk9oTF9VaWQxcElmMGdyaUR0ZW53WUNMeTdlOFlydkpGVVdn?oc=5"
+      },
+      {
+        "title": "Rozmowa Trump-Putin. Media: Prezydent USA pewny zwycięstwa Rosji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdE5idGdvbU9Sa1JQUnhvWEs2Z1FwUWVzNU0xTFNDSTczM2R1MHZPaWNuLUFzbGxTOVA0bU5ROHlHTVdUaGxpWHhpSmZWcmxfRk5DcXJXTE1rRF9XQy1sSHF5MVFJZmQ3UlAyNWJMUV9fQXdLckNXcXdvblBCaTBLMmNfR3Z3aUdNWUI5RDZ0YWxIdnl3cjZSdXNLUHVRYy1Sd0VIdHMtTWxlcHl1aS0w?oc=5"
+      },
+      {
+        "title": "Trzy próby Trzaskowskiego. Od ich wyniku zależy przyszłość \"Operacji Tusk\" - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmxGZmRTWmd0cXVQcDY2c0c3VUpiWGxsTnJ6OVItQWFKOVRja29pM2trcHVRRmZJdHVEV0s4VlpSVnMyM25CdFJ5Q0VwV3hocGRWemFDQWlZbDBDUkE0c2ZWb3NLWTZHYjdGejZIN2NMNFZ2NklDNGFXZXlZSE9STlFxcW5tc1BWWWJMeW9ubjFtWVJkNTFFdGJ3N3laZjR4QVhUa1o4NXJWMkJSLVhNV2lSY1A0RE5ZM3ZqVk5aeTMydnZNZEZz?oc=5"
+      },
+      {
+        "title": "Dostał rozkaz zabicia jeńców. Media otrzymały szokujące nagranie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOelpkOXBWREdhWkdWOER1RnpHQ0ZwZnMya0NNTEVBZ0d6b185cUp6TW9wZFFqaXhIU1N4ODUzRGtPRkRqa25uaUgwZ29GRDQxM3JxREFER05ocUREQnVrOW1mWldrR3A4eEpuNVRtRTg5TzY4LUNDVF9XSGxURUlfbVVsb000VThGY09EX1lrZm1DQnV5YlBzZTBR?oc=5"
       }
     ]
   }
