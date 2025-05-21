@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-18 20:17:08",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 400111,
-      "DOGECOIN": 0.882298,
-      "ETHEREUM": 9549.05,
-      "LITECOIN": 380.87,
-      "RIPPLE": 9.15
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Oto frekwencja na godz. 17. Jest oficjalny komunikat PKW - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXVLNDVydTRvcy16ZDc2MmZzNlNvM3l6QVZmUHo2cWd3Z25WLTlUWGpVNktqX0ZfbENwRFptSlRIOGVaT0E5Y2RQMThLcUNSX0dKaW41STBLNGxzQWFFdkN1Z2ZMNjlXenVvMS1ENjFRa2pxNUduZEJiNFY0aWNNdlB3dlliZFU4MnNhaFdfR1U5ejFFS0JsOTBuS0wwXzMzM25NQkphUQ?oc=5"
-      },
-      {
-        "title": "Zmowa milczenia w Rumunii. Wybory pełne strachu. \"Wielka ośmiornica. Swoje macki ma wszędzie\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnBzYTRsQkZJRGd1N2dHN0FxZ2VzbVlCRjBuVV9ubEc5NE8yeTFkYVV1RFRtcnAxaDFUOGVyOFlaT2xiZGplZ2tUN05ET1hKNVNndXNWcUNCaWI1QU1QZk41RUIyaUptOVIxM3o1a0ZRTVFNYjJaV0JfQVZBMXd2NE5qaFI0Y1dYd2hPdEV3eFBodjVWTlpjRzVXLXcxOFFDcXFXYUhFTlZQQ1dJcjNjTWI2Q3pOMDg?oc=5"
-      },
-      {
-        "title": "Para prezydencka u papieża. Pierwszy osobisty kontakt - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ01TLW5HUVd2T0FnVkRwWHJHZUpfWnBzbUZlWXJPUUp0OGM1REhoTkM1LWY3TC1EZjlhX1ZaalFZLVdBbzFkMDVzcEptOXlaQU5rUlZrUXJBaGlTcDZ3V3Nyai1fd1NLT0JyYTdqSXJJOVRwM0RnenhhNzJ6N0dSLWVSbzdtV2NXQWRKMWM3eDVmRHh6UXVsNTBCcDBobVZHNWVJclZLWjJZMjVEUEtDM3FnSDIyVjJS?oc=5"
-      },
-      {
-        "title": "\"Zrobię to, jeśli nie dojdziemy do porozumienia\". Donald Trump grozi Putinowi. Rosja może przelicytować - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEh1dlR5WWRUYkFsTWJUMW9Ya1JlOW5na3JTS1pSOVRnM0xMLUJ6Sk4wOUpDaFV1Tkd1cFNvN215anB3T1N1cGdaaEZFYWIxZlB0SkVoZmF4OG1YblFRQnJkbXB0bVNidnQxMzNVeEdnRHFkdGh4bzFPdC1JWjItbEZ5TWhPdWdoUmdWVzVoXzItLVMtMzVrRzBPRGFKSGRVQm4waEREYVlTZ1RtMndLRHhDYWc?oc=5"
-      },
-      {
-        "title": "Skomentował zachowanie Władimira Putina. \"Boi się\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTJGSnBCdUZoT1JOUU8tNWNTY0l2R3VoUHUxOEtTdDNiTVBSSmJmMHpIUUNTUnE4MTVocEJaRGNQVDB6WjVQTUdSdUtSTmZUUnpsWVgyaGozc2RUTEhPWXlKVlhhMzJBTnBRWUlONGVRc1BZMTVaeTM1VTZYSllRc25HNkEtV2tMdGFrUG9rdzhrZnBxMmtWUEZ3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-18 21:10:18",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Groźny wypadek na trasie S3. Dziewczynka spadła z wiaduktu - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYThYNFlSVTVFM0dUTXBjR0xjTml5UjNabXBROElKMU9XX0pUc24xN3I2d0pESTdvMGROZy1Qa09SREFjN21PanJtNjBzUUc0d0N5VWxsNnNxMklyRWFaQi1iVjRhQlVMcmRqZWNhUnBOVjFELXhITC1QU0pwaVlDOVBQOVlFWWlrRk9pVVpFLXQyWUswWWdENTZ4S2dDN2pNcWhIdHpWQ1ZyTFFQVHZYYUk2bkdEUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-21 03:08:08",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7747,
+      "EUR": 4.2497,
+      "GBP": 5.0483,
+      "CHF": 4.5376,
+      "JPY": 0.026125,
+      "AUD": 2.4227,
+      "CAD": 2.7076,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 400625,
+      "DOGECOIN": 0.848137,
+      "ETHEREUM": 9490.96,
+      "LITECOIN": 354.26,
+      "RIPPLE": 8.82
+    },
+    "indices": {
+      "^WIG20": 2796.13,
+      "^WIG30": 3614.48,
+      "^WIG": 3614.48,
+      "^NCINDEX": 241.91
+    },
+    "news": [
+      {
+        "title": "Sławomir Mentzen zabrał głos w sprawie spotkania z Rafałem Trzaskowskim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSm8xLTVzZmFEdUZMaWQ2NlZzdE5td01ldGdqTWhnVlJNdEpIS1FEanMySXoyT1pYNXQ3cWVRZWRkMTZ4dHJ2amI3ZnFWWHdzbjVPZWdWTFc1eUtLWDI5WjVTUTlMMUhYVm9Fdm5MTnZEazF0dTZhaVBoSklrRzY2T3JONkQ5N1dYMXA0aXB5SWJHbnpJSGpXRnViaXRidzU4cjZGb3dFaGtrdGpjUFd5NmFrSVk4cXUwWU9KOTVpeU1hQzBTRzBLb0JWN2Z5TkU?oc=5"
+      },
+      {
+        "title": "Odgraża się Niemcom. Tusk z przekazem do Berlina - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1ljQWdVTV9GMVpYUjBBbzBMMlVubGNoTVRYZm0tVTltdkg0OHRZU3ptTHYyNVVLak5LQzE0V1dBWlNrSFlqTHloQjhWVkZKamt0Z2JpLUxyeWkwT3BkMTdZeEY1UUxoWWRfMjVpcDNIbEV1eU1oOVJZYUlEclJNM1RJWklnMk44S0NrM09SamtRbFFV?oc=5"
+      },
+      {
+        "title": "Doradca Putina o rozmowie z Trumpem. \"Długo i serdecznie o dawnych sojuszach\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlR6NkZYVnBmMWFkaDJCUzRjSGNTS2JhWE5sREl1RWRzaUJaSENjd2tUcWh6YUFfSjJHNEVUZ3lQb2g5cGVsTG01WjZ1TEFZWG0zSGVYMENZWlNBc3ZtT2E4OGVuLU02eDZ6RE9pcWpHbjdXZWwwWTY0Rk1KeGRhSi1nR2RRQUpmbHE3aTZLUmtwNXotakRyOFp2b0xvSTJtNmt5WFhfdURBRFQ5U2Zka3lSY0RlWElheFRyc0Z3?oc=5"
+      },
+      {
+        "title": "Będą zmiany w rządzie. Tusk zapowiada - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREpuTzZZTVEyNWJBNHJCbzRCMWZ3a01ubDR2Um5LVmZtZkZNTHZpVXVRY05ScUY2N0JmRGM2YUR1TEhsbVdLUFhDbjFaQmIxSnJPVWZBcGtsQjIxNUQ5Zm5WNFZ1amVDRHJib0N5UWl6UkJ1aERTRWJ5dUNrUmNnMkJNdUVMM0VTVVcxQjczNA?oc=5"
+      },
+      {
+        "title": "Trzaskowski zmienia zdanie: „Czas dopłat do kredytów się skończył”. Szuka głosów lewicy i młodych - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkNqa19ZZThZZkpmampWODBIekp1ekI5MkxrZHJ0R0tBZUprN1hjLVVIenZxYTNOeFlTeGhjTGpYQ0pkTlZPdVc1OWVZNXhoNVhUWTRhYUhuMVRPRmoxUEJZWW5LNUotSHpKblZWQ1JncE5oMXQ0cWNjMG82LUNBbUtsVjlhY1MzS28tRC1fS2pqbXg0ZFpvOHZTMXQ?oc=5"
       }
     ]
   }
