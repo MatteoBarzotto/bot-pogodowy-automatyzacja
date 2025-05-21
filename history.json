@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-19 05:14:22",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.7853,
-      "EUR": 4.2392,
-      "GBP": 5.0371,
-      "CHF": 4.531,
-      "JPY": 0.026051,
-      "AUD": 2.433,
-      "CAD": 2.7129,
-      "CNY": 0.5254
-    },
-    "crypto": {
-      "BITCOIN": 400613,
-      "DOGECOIN": 0.852113,
-      "ETHEREUM": 9190.06,
-      "LITECOIN": 376.47,
-      "RIPPLE": 9.11
-    },
-    "indices": {
-      "^WIG20": 2810.35,
-      "^WIG30": 3629.61,
-      "^WIG": 3629.61,
-      "^NCINDEX": 243.1
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie 2025. Kto wygra I turę? Relacja na żywo - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3dJODBIQUpGenlfZVozX1ZlRElKM1VhampwVGwzdENOZC00N0gyWXNrOXZ3YUZiQ0ZmcHhxOW1EYUp5UEUxc2laT3JaWlo2VUFzSld0Zno4TXJTRDRuTG1KcFZVTGxuamRNOWZwNE5SY2pIYVduSmpUbk1Tejh3YURobEtvSjVFQi0wcGZlZ25IZzRibnpKNnlzbGpwZm1jSkJsTWxDRC1ZQ1JLbU5YazU4UU84SU5ob0p6T2t6Yw?oc=5"
-      },
-      {
-        "title": "To już pewne: Rumunia mówi „NIE” skrajnej prawicy. Nicușor Dan wygrywa wybory prezydenckie - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tUzFLT1NORVEzOVBLMlAxenE1R0h4UW1YWlV3dGxNbTFFWFRUck9lV1hjSlQzWmRGQ19YTDVaN250TEMydXRJOUhZYnBDOUhQSVRqOVdZVUtCUlFJNzNlMFlIbUZLN3Q1?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. Zwrot akcji w frekwencji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzNWZGhqNG5tVmpSR1NJaWNyajdYUWcxV2dhU2cyZS1wWjQxVWVKWjRmcnh3dHZUVUZ2MzRYd2FhLUl6SWQwMDZrTVp6U0g2VmVVa2tVWTUxU3dnSENpSmpCU0ExY1FHZUNUYW1Ma3NsTWpsU0RGbU5WRGJ3bmNpS3IxUEZQX19mRDFack14elRMLW43RXRjY1JyMzlaN2dFRkg0VjlB?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. Adrian Zandberg nie kryje zadowolenia. \"Udowodniliśmy im\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXo5cms0d2k5ZFlSWkJJenRrVEVockVoOWRvc2ZMVjRBcnFaUVkzclJYQ1pBU3RWellnOFZrT09HSUZxSFF2T3BYeDgyYWpxR3dLa0Q5d01hMzFVM0hCUXQ3TE50aE9IcGRtVFhkRU1QYVpmZnJGYldEeHoyNHBlYl9VRUJxNGIzbUFkNXhaSVp6dmJMY1Y2b29xekg3VFpMWDZoeVkwVjBROXp6dWNWam93SEc0Z3NISkJnY056Y1BjN2RMZ1JDOA?oc=5"
-      },
-      {
-        "title": "Hołownia największym przegranym? W sondażu za Braunem i Zandbergiem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTRfQWJNdUYybERESHZzVDJvTE9adnFsYjlwNDM1eEtsdUxTVWtpQWFHdG1DSFlVSnc4ajVjVFY3dUo4cFNDaEVvaHRLNUFvTzMwTU05S3lxUW1GeUpJb0t3bDEzcnIycFU1WWVaY2YzcEdVbUFpc1VpODdFQWh2X0dFVUpaTVB2MWNMU2ZObXN4TTk3MWZzWW0wSlZDWWIzdlZYZXc0TTRlbUhP?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-19 06:22:06",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Debata Nawrocki-Trzaskowski. Oto szczegóły - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXZNS3I1Z3JEYUtQSWxETmlhNTRJU09oMmJfRlMxYlJqVE8tOXkyX1BLYTV2aF9JMU8tanBKbGlDT2V1R2xpQ19qOGFxTTVoM0VtQW5lUWtwb1hzMllyUjU3RUdlMWpSUkpJTjE5U2dtZjRzelZEcHFiVmYwSU81UklqS1o0OFBSTkIyNGx2VlNGclBNcDBmV2R2LU4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-21 11:15:18",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7747,
+      "EUR": 4.2497,
+      "GBP": 5.0483,
+      "CHF": 4.5376,
+      "JPY": 0.026125,
+      "AUD": 2.4227,
+      "CAD": 2.7076,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 398437,
+      "DOGECOIN": 0.845401,
+      "ETHEREUM": 9510.22,
+      "LITECOIN": 354.81,
+      "RIPPLE": 8.81
+    },
+    "indices": {
+      "^WIG20": 2755.7,
+      "^WIG30": 3566.1,
+      "^WIG": 3566.1,
+      "^NCINDEX": 243.49
+    },
+    "news": [
+      {
+        "title": "„Uderzył mnie, a następnie drugiego posła PiS”. Dariusz Matecki informuje o incydencie - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGE1aUQ4bEYxSktZamJDV09xbVM3RVFseXlXR2tKS1dhNDVSSXZDWnpJQmZ0RzJQX1g4VkE5cWI3WmlMdkI0blZDUjFLZ05ZRjJWbC1FS0lMb2JYUkdkNTdVMDRDdFVIdHdvSnhnMFR6LWdYWXgyS2gxQWZQUlpfYWthSjFZNUNwUXJ1cnAtcW1fdGhnZFozOWMydm1saUZ5VEZsZEFWVVJleUFzWXc?oc=5"
+      },
+      {
+        "title": "Sławomir Mentzen zabrał głos w sprawie spotkania z Rafałem Trzaskowskim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSm8xLTVzZmFEdUZMaWQ2NlZzdE5td01ldGdqTWhnVlJNdEpIS1FEanMySXoyT1pYNXQ3cWVRZWRkMTZ4dHJ2amI3ZnFWWHdzbjVPZWdWTFc1eUtLWDI5WjVTUTlMMUhYVm9Fdm5MTnZEazF0dTZhaVBoSklrRzY2T3JONkQ5N1dYMXA0aXB5SWJHbnpJSGpXRnViaXRidzU4cjZGb3dFaGtrdGpjUFd5NmFrSVk4cXUwWU9KOTVpeU1hQzBTRzBLb0JWN2Z5TkU?oc=5"
+      },
+      {
+        "title": "Republika zapowiada kolejną debatę w Końskich. \"Będą niespodzianki\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0hWYndNQnltZ3RocDlzVndlVEZMNXFLZ0FyMjBtTl9veHNKWHV6SFdCd0tDeHl3czcyMUhXQzg2UUtOODhFbTBmRXYweTF2RDd4aUo3MmZOUzBCeHgxV0JKcVFuSnNwQXBMZ2ZoWTBBWmU4Ni16WkJ2SGlKYXRldVlqVzMtQUstZzdLMDN6a1J4dlFJWS1HQzJOMjJyQU16LUlrQXJiS1VLRnYtQy1JeUxvaXI?oc=5"
+      },
+      {
+        "title": "Odwiedzamy bastion Brauna. Gdyby oni decydowali, byłby w drugiej turze - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWJtaDRZSElCR3FISXF2RHZBeUdsVUtuYjFoa1p5bEhab3M5TElJVldfMUd5a0E1dmtvNXNvdlZReGtIWVZLVXRGUVpiYmI0RWctOHVYZ3o1YjhFUzRpYVZIRE1hWk1sWEMyZS1QeTV3M2l6bXFIZm1wa1lsR0dTbm9WV3MwMVdZQ2tac0k2TlZvTklEUWo5d2Z1MDAzNmZUVnRCMHhQLW1icVZHUUZpOA?oc=5"
+      },
+      {
+        "title": "Tusk zapowiada rekonstrukcje rządu i renegocjacje umowy koalicyjnej - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzlNbXFXRi16Nk1tU0hCVGZtZkVmdjVFR3RJRzNfQUZkLVFaN3BLakRjbV9pOGkxU201NXRTS29IWlA1OEJtamliWlFfXzRxMkRBbHFndjRXS1oxWVM3VHBuWTRBcGRTR1I3MXpBcEFTYnRodlRiMVdORVh3aDh6WUlCdzJHZFNLQUh5RndEMmh3UE1ZMHNRaVNMdXVyMVhJZHZqeDJNVQ?oc=5"
       }
     ]
   }
