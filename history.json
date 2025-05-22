@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-19 22:15:21",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.8004,
-      "EUR": 4.2785,
-      "GBP": 5.0801,
-      "CHF": 4.5608,
-      "JPY": 0.026232,
-      "AUD": 2.4453,
-      "CAD": 2.7239,
-      "CNY": 0.527
-    },
-    "crypto": {
-      "BITCOIN": 398880,
-      "DOGECOIN": 0.848401,
-      "ETHEREUM": 9520.9,
-      "LITECOIN": 374.52,
-      "RIPPLE": 9.03
-    },
-    "indices": {
-      "^WIG20": 2786.7,
-      "^WIG30": 3603.7,
-      "^WIG": 3603.7,
-      "^NCINDEX": 240.52
-    },
-    "news": [
-      {
-        "title": "Donald Trump po rozmowie z Władimirem Putinem. \"Poszło bardzo dobrze\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjZ6TGQ5UUxHVDhaSUVHc1dfVEVFOG5SRmtLMnNnZF9nS0RzU2t3bExVYVhqYWVxczFVVlotMUhiZTVkWEtONlpyNnRtYzg5RVRjM3FKbUdqd2R4dG0xaGg0dS1sWnpnX0NlUlltSGdmeDAxLTFiODlCYmcyYjdrRUxrckIxdzdCSldNUEtqU1lUQlJySXBXbWY1cjdrZ2puWnBnLXNKMzdNV0ZzWlVScFBEbzJ0Rjg?oc=5"
-      },
-      {
-        "title": "Nawrocki kontra Trzaskowski. Ekspert wyliczył, kto wygra w drugiej turze - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTZEangzdUp0eEc2RlBJQTZRcEgycFBLMUxRSTVuU29iYmdJRW5IaXJVYk5MTklHX1dTTE9ObFVPWVc1Tmw3Y3JyX0hmdGpVLVJmeEZpSVhUX2FkTV9XVTBqRElLYlFlVlpkZG9OdGpZckFyMmx5VXBON3cxV096T2EwSnRCcXVqX2x3M213LTNHZHB6SjFUTzVCMkJhM25zclF4Nzl4WnNxTVNTNFNfcjdZZkJ4TmJXdEE?oc=5"
-      },
-      {
-        "title": "Mentzen ogłosi, kogo poprze w drugiej turze wyborów - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xPNUVvUDc0U1I1YXRjTFdjT1NkWVJzaGRzWkViLXRfYUp3aTRXcENheFRJRjhKS1lHMzI5WUxsekJGQi1DRGtqeHpMR3FhdHhWS0NOa1dYVHJCaXlqM3BIR1J0eUIyOWFaTy1OX2xOc3hUeE9LNEphQTdhUk15WVQ2UW5MRmFkZGdZSnFnNzVfalFkbU9SQy1vZTJYTUVKNGNQdzVYM2U?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. W których regionach Grzegorz Braun zdobył najwięcej głosów? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE1YUlJDZ3liMTM5Zmtyc2Q1dTZMclBuQVp0Mkg4dXlwTTFoalF6dGlxUEVXbDU4M1IzRkNzX1F0eno0cGtIY1ZtX1hlX0xKZjBNbDFkWmhPOW1vQ05ZQURyM3IyMzlUWjJfYnhuNlFNR3MyVHNNUkJDTFE0X0IwR3gwV0MyTkl1bm9CWjJpRjdVQ3lnZHYxZjlJWVhRdC1qUlVueDN1VmdQbTRldDh2VmdmbGlvTUNXZ0dqOG9KRXBjOTJy?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki pokona Trzaskowskiego? \"Polacy chcą takiego zakapiora\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHk3RE1NeVBRRWpySExaTlNUWlNibVFKQ0JHQmR5M3VPTEVDSGQ2SllWUE9hSGxkRFJDeWpvRGZEalB5UXhFWjRDb04yUWthNTdJb1Q4a0czaURNeEFwOV9rS3lWQ2FELUV1VWNSQWJjYy1XM0xBT0oyVFUwRV84bnM1ajExUHB0QmpaVWt6V0VsZVZyV0RXY1hpVGlCYUJyS1dBbEpKcFpnaUJqTklnY29Zd1VIZzjSAbYBQVVfeXFMUHVyLUxvYVczMW1pbUEtX21oNTJ0eHg3elFhdGVWVlVoT21Kb0hMT0Fjc0ZMYm9KN2JpMTBfSzJFWVFWeGRWRUxNTFAzdllvdWVaQTdKdFpMV0gxOUJTcXlhWmRRdW8zemtSVkpSbjZ5bnVkTHpyY0ZxOTNXR0FXajlOV3F6aEtlT29ZTENKeDktU3NPMEZmTktSX0VNT3I5V3Y3cE0zYjBuT3B1U0Q0YlNNMkIzVVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-19 23:12:50",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nawałnice przeszły przez Polskę. Służby walczą ze skutkami żywiołu - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaDlUX0VfYmFlZ0ZLVUdwRWhUUzVPdDhqT0FiTS1wdWY0TlF0ak5YX3JoaWllZ0kxSzRiY1Bjekdxa1R6Q20zM3p3cmItdno0blJmTUJiN2dTTktwa2dfVHJlTmVVVE8tRDM2VWtqVWQ3NENhSk1UUDQyNkRwNzFTSHhJX2E4LVRxRnpvbzZTemxMS2xWcEpGZGItMlNNVlVvVlNZOVhYOGZKUkhwQWhpcW1MbFNJckV0c1FEa3JfVkJUdzdQQW0w?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-22 06:18:42",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7452,
+      "EUR": 4.2403,
+      "GBP": 5.0178,
+      "CHF": 4.5365,
+      "JPY": 0.025986,
+      "AUD": 2.4117,
+      "CAD": 2.6954,
+      "CNY": 0.5197
+    },
+    "crypto": {
+      "BITCOIN": 417250,
+      "DOGECOIN": 0.902945,
+      "ETHEREUM": 9817.57,
+      "LITECOIN": 372.1,
+      "RIPPLE": 9.05
+    },
+    "indices": {
+      "^WIG20": 2760.83,
+      "^WIG30": 3573.02,
+      "^WIG": 3573.02,
+      "^NCINDEX": 243.61
+    },
+    "news": [
+      {
+        "title": "Zapytał Trzaskowskiego, po co idzie do Mentzena. Odpowiedział wprost - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0tNM0ZrWGsydlAwZmVXLXFzbUppSU5oblI0QlBlUUFTZWxqTWhiMmJ0RzNLMHhIMjBxbE9sVHNFSTI2ZDVVTWpqbEZvdEk3NXNucm9UX0otdTFuOXZDOVhHbDNraTVCV01kcExDelBHam1SVHZKVDBuaDZ4ZlV2eDV5VDVfQkJGU3gwdjhJb2o2TUlNd3FaWXdIcExycXdjSG9HNl9B?oc=5"
+      },
+      {
+        "title": "Bójka w Sejmie. Aktor Jacek Kopczyński zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTW9oV0F4cmJfb0FvU3RrUFFza3hSazJyZmVDV2hfUVRLZUlkalVWd05Zc2IzUmE4WE9tS2tQNV9jVjZzUWFkQ1J3MHZrcTBRQ0R2ZE11blhnY2pVSGxWN1l4aHRfeFhTYUF4eWVmWUZ5Mlp3YS1OdUY2VlhnOGk0S2pQZ1l5VWlBTk9yMVBzUk9oTF9VaWQxcElmMGdyaUR0ZW53WUNMeTdlOFlydkpGVVdn?oc=5"
+      },
+      {
+        "title": "Sejm zdecydował w sprawie e-papierosów. Nowe regulacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkhMRGdmOGlRNGxmZU5lQVdLY0ptNDd3aDgtRjZzOS1TS3pCYkhsQU9zS3l0dXlFTHRSSWJseXpjN1d6eTV4VFltOHhIbDE4a21ZY09MbkRjanlhSE1JWkZGNE1ldElqTFNfWHM2amJuWUN2LVg0MExJQnNRSGpneEN5LVFQRHdJem9VMTFnTElFbFZIdVVkQTNlR3ZiRnRrMTl6SjdyU0JqTThOOW5wYQ?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Ministra na \"gorącym krześle\". Może stracić stanowisko - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVkyMHN0V2xpcVA3NUFTb2JxMV9Hc3BaOUdRYUZwYjlBVzV5UDlDLWx0akVVVWE2NVFnSE9lWHEwM1dEMmJHckd1YmpScFNFX1RzQWpMaWRMTGd6dlhYTG9kTTVWdXZ2VDNlNzZ0NXBUT1NSSXk3WElEdGpXeEl6eTB1Vlkzamx3U3gzRHhkMnotajlwOURnWW9FWFp3X3JLVnk5WmxvTGJfdjVEWm5XQlpCNWxZbzBEc2tfYmdxYjFtM2hG?oc=5"
+      },
+      {
+        "title": "USA sprzedadzą Polsce ważną broń. Jest zgoda Pentagonu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjcxS18zQWloTzd5aHlqa01QM0VlOW00WGVXbXBORkxyTVM5T29nMzl1TGRMUmpjbGhJQ3VMY3ZncVNlQldILVU3TVYySXYtdU1DQ3NZVWlQSC1OcUpQNnRuaGJqQW5ubGVsT3B0S1FodDRoQlBVQWE0aldQQVN2Z1Iya1Z1NkpDWlJyVzVub3NpUWtnLXdKZklJMmo4QnpvdFJjajNsVW80RmlVNVFzWGhiZ0hQenNNaHV5VQ?oc=5"
       }
     ]
   }
