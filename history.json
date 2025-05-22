@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-20 13:12:06",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7747,
-      "EUR": 4.2497,
-      "GBP": 5.0483,
-      "CHF": 4.5376,
-      "JPY": 0.026125,
-      "AUD": 2.4227,
-      "CAD": 2.7076,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 396363,
-      "DOGECOIN": 0.831393,
-      "ETHEREUM": 9481.29,
-      "LITECOIN": 350.75,
-      "RIPPLE": 8.83
-    },
-    "indices": {
-      "^WIG20": 2793.45,
-      "^WIG30": 3609.84,
-      "^WIG": 3609.84,
-      "^NCINDEX": 240.53
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki odpowiada na propozycję Sławomira Mentzena - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDJCV1dEbWsxa1p1WEswOUVRb3dVcU8wanNMQ21QcFJNN2Q3RGhQYzh4cy1FajdGYlZ2QlNzUElxM1FQT0pRVUlRSHhVZ3pTWmdlYUFobjhvcWJwWXZ5OE1EcGlkaE0zNkNyLWJFQWhFZV96RllvV0IydnpYTXFzdEszcnRjLWs1clZreUZobU4zNmU3V0E5aXFSM3FRbjJ6Mk5UMlduVThETG5jNGdwejdUSnI3d3JLWXhYaHFneFZONnhQUWVHN3BqdGg3M00?oc=5"
-      },
-      {
-        "title": "Czy będzie debata przed II turą wyborów? „Rozmowy zerwane” po „nagłym telefonie” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU01JbFpyYlppNTMtYkZiTzlxQWhrT011cGlmQU5XR3dqRjVYTDBabDBYN2t5cFhmZkpMTE9yXzkwVWNxNl9PclJKVnlUTEJQTk0tbk0zOUVVMU9yUlpCczBlX0xvN0tESElwSFgxazBfUVhhM0Y4bkV4OXhaTWZoU0ZXTzV1UmRYR1NLS2RFTkpPb3FDTmZsSTdNUjV2WHlMampKUjh1NE1nSGcwcC1tZw?oc=5"
-      },
-      {
-        "title": "Donald Trump rozmawiał z Władimirem Putinem. \"Miły gość\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzlrY3gwaW5wRXVHZmVXVnZmQWhjSVhraU51LU4zdWFRZ3NzcnZMWlJ1SDhNRTFhWWl2a1E5WW1YNVo4TlZ6dlFiM3h3ekFwR3RXS19fNDlTT09VWVZsT1RHbzBMUDlCUG16OVNRNVNlSWx2TkdpUmozZFNNaUM4Mk1peWVQWkoyNFVlVnp5Q29GQy1DbzNSeFJn?oc=5"
-      },
-      {
-        "title": "Błędem Trzaskowskiego jest Trzaskowski. \"Jeśli nie ma żadnych ukrytych bomb, to przegra\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFdYcWJVSkdoRHVJcXFQV2lDejZZUGk0TG5oRU9fSUVNYWxnOXBhb012aUIxcjUzeWhEcmhGb1cweUtpTktrekZZR2VWYlZhc1g0QV9CbTk1cWVNdC1VQVhJOXZkR1BncXBvbk9zbi14RFFLNDByTWJyMnFONzR1YXh1RmVORXFLMUdlLXozRWRYek0tdkhlSEh3?oc=5"
-      },
-      {
-        "title": "Nawrocki kontra Trzaskowski. Ekspert wyliczył, kto wygra w drugiej turze - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTZEangzdUp0eEc2RlBJQTZRcEgycFBLMUxRSTVuU29iYmdJRW5IaXJVYk5MTklHX1dTTE9ObFVPWVc1Tmw3Y3JyX0hmdGpVLVJmeEZpSVhUX2FkTV9XVTBqRElLYlFlVlpkZG9OdGpZckFyMmx5VXBON3cxV096T2EwSnRCcXVqX2x3M213LTNHZHB6SjFUTzVCMkJhM25zclF4Nzl4WnNxTVNTNFNfcjdZZkJ4TmJXdEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-20 14:28:35",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Powiedział, co naprawdę usłyszał od Putina? \"The Wall Street Journal\" o słowach Trumpa - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFdpQXlNRkpWVzloVGp2U0V0bmpuZW9xb3ZlX2dCaDZDa0NBVFNXaWNMOXFlY2xxVGdSb0RjY2hpbXhGUHp1cEtwZ0NJZUdXWnM0QW5zeGVoRVZMeTU1MmhmWGhlMHJVeHY1RjJ1amVGTENOQnk3WnRveENLT3RoSEYxaEtyUVQxOEZRRkdRX2FNTGdLeDJHaVNrbXZST00tTURuQVVvb3NwUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-22 19:12:28",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.7559,
+      "EUR": 4.2447,
+      "GBP": 5.0334,
+      "CHF": 4.5456,
+      "JPY": 0.026212,
+      "AUD": 2.4177,
+      "CAD": 2.7074,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 420277,
+      "DOGECOIN": 0.906616,
+      "ETHEREUM": 10011.81,
+      "LITECOIN": 373.45,
+      "RIPPLE": 9.15
+    },
+    "indices": {
+      "^WIG20": 2738.74,
+      "^WIG30": 3538.19,
+      "^WIG": 3538.19,
+      "^NCINDEX": 240.93
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki tłumaczył się z kawalerki. Sławomir Mentzen nie był zadowolony - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHE1Y1ljMlJZR2JHWXFjYThpeE9aTE9PTnFQZzM3ZUtWYWdVSWQ2cUtNVEQwdElrQ05rN19kMkZZWkUxXzFXX1dLTk4zMjZqeTBmaV8zUzhUSTJSMVY2aFdhTk1zUlI1TG9qS3VLbVIyaVQtSHMybmNySGUyYXZpTU1sSEpPSnlfM2o2RjZiOWI0SkpiODlldzBReEI0Sk8xRnJNQ0YtWVIteDhsM0l1TXk2VmdvNXo4?oc=5"
+      },
+      {
+        "title": "Pierwszy taki sondaż. Polacy wskazali, na kogo zagłosują w drugiej turze wyborów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVF1eFJVSnMwNkpseVlsVTFBdUo2MUprV090dXVTeWFHdkc3VTlKb01PVGRPNlpROVRwNUxlLThXVVVGaC1fOGMtOHJpTGMzSGVkMnpKaWpHYVFKcFNpSmJDLTF1V3RuUzNnTmhaTWhaU3ZJQTVVRzZsRnM4MVh2YV9fV3VvYTZnSnlfVVRjbjhHNVpLaDM1OU9rSTNLajhrNExXdTFZd1dxZGdSTW1qMkpsenBLSFlWSm1WSUJMX085Vm42emdRVU9IN2xKX1dxSmxWY2pUODk?oc=5"
+      },
+      {
+        "title": "Katastrofa samolotu w San Diego. Brak informacji o poszkodowanych - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWV6d1JRck9ZWUp5aWtxbGY2aEJlVXJYc1h6Ri0zUmowRWRaaWdfS1oya21uN1lDem1SMGFvNl9Ubi1KbHBmdnN5clllbDIybXBGYjBOdmxocU9GX0k2RTJLZktLbUF0Yzg5cXNDdHZCS05hRkZRN0dua3E4Z0oybWxSOGgwZ0dnOEhpa1drZXZkWWZZSkNyRXdMS1FqZVNRaXRzakozRVFDRkZJTzVZ0gGuAUFVX3lxTE9MOW5nNjNZb1ExMkxkN0tJdUhGWWdwQ0RoTC1vYnBIR0c4czc0U0RkcW54TXJTb0tUeHJCUXl5MUdYNGg0c05JUGJoa2piRUhVSlY3MWs0SFRHVWNoNGprc2JQXzBDODlSckNOR2tDUnZQa3JxemRTbXlGWXFLMHdXYjBEaTZveHdjVW05WGRHTlZoXzhRNTF1OERRRWthdGxFTXM5YVBJMUF5aDJjdw?oc=5"
+      },
+      {
+        "title": "Powiedział, co naprawdę usłyszał od Putina? \"The Wall Street Journal\" o słowach Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFdpQXlNRkpWVzloVGp2U0V0bmpuZW9xb3ZlX2dCaDZDa0NBVFNXaWNMOXFlY2xxVGdSb0RjY2hpbXhGUHp1cEtwZ0NJZUdXWnM0QW5zeGVoRVZMeTU1MmhmWGhlMHJVeHY1RjJ1amVGTENOQnk3WnRveENLT3RoSEYxaEtyUVQxOEZRRkdRX2FNTGdLeDJHaVNrbXZST00tTURuQVVvb3NwUQ?oc=5"
+      },
+      {
+        "title": "Niebezpieczny incydent na Podlasiu. Pocisk z karabinu maszynowego trafił w dom - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWEh3M3B5ZVItSWw0QkU1V2pSTUt2MXRqTXlqa3lXWXVBUl9tUk1DU0prTXltcGJ0Z1g0elh2UEN2aTJDemJGYlZKNGYyeHV2bjFVYkdrNldDb0wwa2ZIQ2g1R0JqWTNDNHlHbnl0WWptMnpGYzBPbW1SMW9aTkduM2xETThzcHZ6eGs4WlRicVVFN3IxODVpSXFDcTAyd0RGN2FOc3p3QzlBSHdSUjNCVnZQTWhWUllqWF9XYXowQWdOWnFwdWwyYVhGdnJJLWhxMVJPQjJpYw?oc=5"
       }
     ]
   }
