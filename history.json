@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-20 12:15:42",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7747,
-      "EUR": 4.2497,
-      "GBP": 5.0483,
-      "CHF": 4.5376,
-      "JPY": 0.026125,
-      "AUD": 2.4227,
-      "CAD": 2.7076,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 397477,
-      "DOGECOIN": 0.836348,
-      "ETHEREUM": 9543.72,
-      "LITECOIN": 352.34,
-      "RIPPLE": 8.87
-    },
-    "indices": {
-      "^WIG20": 2795.12,
-      "^WIG30": 3613.77,
-      "^WIG": 3613.77,
-      "^NCINDEX": 240.75
-    },
-    "news": [
-      {
-        "title": "Mentzen przygotował deklarację dla Trzaskowskiego i Nawrockiego. Kandydat PiS odpowiada - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDJCV1dEbWsxa1p1WEswOUVRb3dVcU8wanNMQ21QcFJNN2Q3RGhQYzh4cy1FajdGYlZ2QlNzUElxM1FQT0pRVUlRSHhVZ3pTWmdlYUFobjhvcWJwWXZ5OE1EcGlkaE0zNkNyLWJFQWhFZV96RllvV0IydnpYTXFzdEszcnRjLWs1clZreUZobU4zNmU3V0E5aXFSM3FRbjJ6Mk5UMlduVThETG5jNGdwejdUSnI3d3JLWXhYaHFneFZONnhQUWVHN3BqdGg3M00?oc=5"
-      },
-      {
-        "title": "Nawrocki kontra Trzaskowski. Ekspert wyliczył, kto wygra w drugiej turze - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTZEangzdUp0eEc2RlBJQTZRcEgycFBLMUxRSTVuU29iYmdJRW5IaXJVYk5MTklHX1dTTE9ObFVPWVc1Tmw3Y3JyX0hmdGpVLVJmeEZpSVhUX2FkTV9XVTBqRElLYlFlVlpkZG9OdGpZckFyMmx5VXBON3cxV096T2EwSnRCcXVqX2x3M213LTNHZHB6SjFUTzVCMkJhM25zclF4Nzl4WnNxTVNTNFNfcjdZZkJ4TmJXdEE?oc=5"
-      },
-      {
-        "title": "Czy będzie debata przed II turą wyborów? „Rozmowy zerwane” po „nagłym telefonie” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU01JbFpyYlppNTMtYkZiTzlxQWhrT011cGlmQU5XR3dqRjVYTDBabDBYN2t5cFhmZkpMTE9yXzkwVWNxNl9PclJKVnlUTEJQTk0tbk0zOUVVMU9yUlpCczBlX0xvN0tESElwSFgxazBfUVhhM0Y4bkV4OXhaTWZoU0ZXTzV1UmRYR1NLS2RFTkpPb3FDTmZsSTdNUjV2WHlMampKUjh1NE1nSGcwcC1tZw?oc=5"
-      },
-      {
-        "title": "Donald Trump rozmawiał z Władimirem Putinem. \"Miły gość\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzlrY3gwaW5wRXVHZmVXVnZmQWhjSVhraU51LU4zdWFRZ3NzcnZMWlJ1SDhNRTFhWWl2a1E5WW1YNVo4TlZ6dlFiM3h3ekFwR3RXS19fNDlTT09VWVZsT1RHbzBMUDlCUG16OVNRNVNlSWx2TkdpUmozZFNNaUM4Mk1peWVQWkoyNFVlVnp5Q29GQy1DbzNSeFJn?oc=5"
-      },
-      {
-        "title": "Nawrocki poręczył za neonazistę? Sztab nie zaprzecza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVM4bEhjMlBGYndIWlNSZFhCT0lsZ3F1ZnA3eTRzQ3d3c2NwTEJZMXd0dEhRa0VRMjlFcmtwZjlFbXhLam5FaXVhWGhFMDRkQ19qYlAyTFU1TEZCTzJKVVY1eUlRUkdEYUpqVFotU0xBQ1dLaHE3ekJQM3l0MWxxNlU1LUNWUlNpbUQ3cDhVZFV0OEJxLVRITlFn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-20 13:12:06",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Robili to już wcześniej. Nowe ustalenia WP ws. reklam z zagranicy w czasie kampanii - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2oteEdoZzZKVUdyTk9SNUwxd0k2azJiWTFseTlUcGNyc3RnWmxjN2NBNjlhaEVCNU15cXEtTEF4UlI0M3U4UlBFOEpkRlVpVC1BckVvSGdvSkpsTE1Zby1iLTJRZjhhenRoUEZKb1pDVDJTV2Vsa0VBX0tRQmE1SjlmYWZsWkl0SllRRzB2dmY5MExVVUdSaU9VNE1kYzZTeGtieDJmXzN2SXRpc21RWk9Dbk1yaVU2S0ttTVZrWDhDQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-22 18:17:28",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7559,
+      "EUR": 4.2447,
+      "GBP": 5.0334,
+      "CHF": 4.5456,
+      "JPY": 0.026212,
+      "AUD": 2.4177,
+      "CAD": 2.7074,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 420141,
+      "DOGECOIN": 0.912734,
+      "ETHEREUM": 10058.62,
+      "LITECOIN": 374.53,
+      "RIPPLE": 9.18
+    },
+    "indices": {
+      "^WIG20": 2738.74,
+      "^WIG30": 3538.19,
+      "^WIG": 3538.19,
+      "^NCINDEX": 240.93
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki tłumaczył się z kawalerki. Sławomir Mentzen nie był zadowolony - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHE1Y1ljMlJZR2JHWXFjYThpeE9aTE9PTnFQZzM3ZUtWYWdVSWQ2cUtNVEQwdElrQ05rN19kMkZZWkUxXzFXX1dLTk4zMjZqeTBmaV8zUzhUSTJSMVY2aFdhTk1zUlI1TG9qS3VLbVIyaVQtSHMybmNySGUyYXZpTU1sSEpPSnlfM2o2RjZiOWI0SkpiODlldzBReEI0Sk8xRnJNQ0YtWVIteDhsM0l1TXk2VmdvNXo4?oc=5"
+      },
+      {
+        "title": "Ulewy i burze to nie wszystko. IMGW wydał długą listę ostrzeżeń pogodowych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVZrNG91ZUhUV3FNTks0SlBRTGNULTZqUkFKMFB1MjBGUFE1VlVUdjZwZjRjcnlWbUdjQmNiRzV0S2pPSDdqSVo1UVpFQnJweUotSUtmVTM5R0pmTk0wazFpcW5YQkVBcjBua0dveFZWMXJleGJCdDdsQ00wUWhQbjZDZDZZOTk3MFZmTlFnVUZORHpZTDZiYlVPWm5wZmdpZFJlVW1mVTZwWWpqWTg3amQzYmpfSXZNM3ZRWXRNUWVWNWNKUTRKYVhmTQ?oc=5"
+      },
+      {
+        "title": "Sondaż: Karol Nawrocki czy Rafał Trzaskowski? Polacy wskazali, kto ich zdaniem wygra - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlBDQVZuOWZISG5kUXNwU3prSWluQko4dkp5SDNMbkVHZy1jVWdhMW85eDcxZGp5LUhjRk5PbThhT2xXeEVsX0huc0g4YlExd3huYm0yQkJ2UGZ5aXZBU1J0bGtTUndzb0FfOWRjX0RiaDdFb1lPeGNuZUdvcnhmMFNLS00wUEZkNW1sUWs3ajN6QlM3YUJjSUlGT2VkbGVYWGZuSHJhc2lnM21EVV80eEdTMWhVRWpvQUZmcQ?oc=5"
+      },
+      {
+        "title": "Szok w Izraelu po ataku w USA. \"Straszliwa cena antysemityzmu\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2c2NzNISTZFbDB5VXRYbFFHUVNhUEpFRUJNcElOMnNmQmdUamNVQ1Vod3pVQ2U1TzQtTGJuSktTeE5Xdjd0anNwYlJ5RHZqNmZDbEZPNy1Ha0JVc1JrZ1BvOV9rdmRlRTJLTUlxRWVuakJ0dEd0Q1hqZVZxNkZVTHJLS3VFcEM1Mk02SVRIVWpnMkdnQzZLQndWcjhLX3kzb3hV?oc=5"
+      },
+      {
+        "title": "Powiedział, co naprawdę usłyszał od Putina? \"The Wall Street Journal\" o słowach Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFdpQXlNRkpWVzloVGp2U0V0bmpuZW9xb3ZlX2dCaDZDa0NBVFNXaWNMOXFlY2xxVGdSb0RjY2hpbXhGUHp1cEtwZ0NJZUdXWnM0QW5zeGVoRVZMeTU1MmhmWGhlMHJVeHY1RjJ1amVGTENOQnk3WnRveENLT3RoSEYxaEtyUVQxOEZRRkdRX2FNTGdLeDJHaVNrbXZST00tTURuQVVvb3NwUQ?oc=5"
       }
     ]
   }
