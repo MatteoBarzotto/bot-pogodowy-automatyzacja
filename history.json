@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-21 06:17:59",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7747,
-      "EUR": 4.2497,
-      "GBP": 5.0483,
-      "CHF": 4.5376,
-      "JPY": 0.026125,
-      "AUD": 2.4227,
-      "CAD": 2.7076,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 400521,
-      "DOGECOIN": 0.859743,
-      "ETHEREUM": 9541.93,
-      "LITECOIN": 355.59,
-      "RIPPLE": 8.85
-    },
-    "indices": {
-      "^WIG20": 2796.13,
-      "^WIG30": 3614.48,
-      "^WIG": 3614.48,
-      "^NCINDEX": 241.91
-    },
-    "news": [
-      {
-        "title": "Donald Trump o sankcjach na Rosję. Odpowiedział na apel Zełenskiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3A5aXhUYnJyWnljUzFhMjdpU09lOVdEUVhEcDRUeEg5WGN1MmZMdDVXc3pCclRnVHZEMl92cDd5WG9wSHBnSTBjdXgyN0VwVDJuZmNndWNBZXZkdU8zRHl6MjMwSGhCWk9yUmxpZHpxLXJqcHdIcXljMlNEUS1na0hXaWFOUmJncEtPX2hYUGE0M3JoMVgzd1JuNkVzVnlxeTNvNVM1LXk5azB0dEFzYVYwWlB5WHpIbDMwbFZjb3dROW5ybktjdg?oc=5"
-      },
-      {
-        "title": "Trzaskowski idzie do Mentzena. Jest komunikat - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1hRc0NfM0haWGJYNkdTUzUzVXk2aS1KY3RGME1SbTdtZXVaVGpFNVVzUDY2WjdycGM0WFZodFI3cnd6dUVjSk1ORmZXdmhQd3VjOG1xN2lLelJPakFndS1EZjRmRDFtcWRjNHl0bWJHc3B2UldpVEdFajBxVFROOXhPS0VDaFloVHhPT0x2Qzg?oc=5"
-      },
-      {
-        "title": "Debata Nawrocki-Trzaskowski. Oto szczegóły - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXZNS3I1Z3JEYUtQSWxETmlhNTRJU09oMmJfRlMxYlJqVE8tOXkyX1BLYTV2aF9JMU8tanBKbGlDT2V1R2xpQ19qOGFxTTVoM0VtQW5lUWtwb1hzMllyUjU3RUdlMWpSUkpJTjE5U2dtZjRzelZEcHFiVmYwSU81UklqS1o0OFBSTkIyNGx2VlNGclBNcDBmV2R2LU4?oc=5"
-      },
-      {
-        "title": "Donald Tusk ostro o odsyłaniu migrantów. \"Powiedziałem to Niemcom\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUp4ODhUdzd5MjRTVThEM2ttNzhuSm1zVXA3MnRhMG5pM1dHSGd6X2hHcFFVSXllZzlKVUVCSlNuSUxpMktDTGRpZVEtbE5wUXhETEptNDc3NWhtRlZMVGFxQlZaQTlmMFhLU1daeU5Mb1U2bTFCSlZ2NlFTNmNMOWxQUlUtWUVLTDkzalVXQld4ZUhERXluMEJXYndyMEZUNWpMaVNlN25xeVRyM0w5SUpETkNBZllyR2Rj?oc=5"
-      },
-      {
-        "title": "Wojska Putina u granic Finlandii i Norwegii. Donald Trump reaguje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTlUVFdRcUQ2Rzk2NklMSVhuSjhTbFZBUjhHSm01Vi13NUVqMHFGZTJMcW9uUGZnbVhXci1iV0hINFE0Vm51RGtLMXhlNDBoejBIQklteExibXBMSE5aU2gwYjNoZTJ4WGktWS04S1RDd3FkdEpqY1FTTjRsVDNlRDJPTEdKb29mY0JJTzhEM2M0MmpHWHltUGVPWFMtRDRQQ2JxeUh4Q0k?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-21 07:14:21",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ułaskawienie za poparcie? Braun: ludzie Nawrockiego obiecują - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM09aSDgyS0pyYVY3dmJoeHZianlXbTJyUGw1VzFpa29mVFhRQWoyazFEeTdoVV9ITWxaSzM3Ml9PVUJISkktdVhtdEVXVGMzZ1VaUjRpXzMwa2lZMnZzSmIyTzdSVTVkS1d6bDBkdW5QQkctTWJCV2VsT25FenFNR0FvY2VfWEhPSGJDZXdXRU5qbDRfX252QXNuaW5qZ2laYWxoTXBR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-23 12:14:46",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 416393,
+      "DOGECOIN": 0.927755,
+      "ETHEREUM": 10028.51,
+      "LITECOIN": 381.12,
+      "RIPPLE": 9.17
+    },
+    "indices": {
+      "^WIG20": 2723.67,
+      "^WIG30": 3518.31,
+      "^WIG": 3518.31,
+      "^NCINDEX": 242.96
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki mógłby ułaskawić Grzegorza Brauna? Kuluarowa propozycja przed drugą turą wyborów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjA2ZUoxTG4xZUtWRXdhRENtVWh2Ym9nTXhoMHhzY1otUTJ6VVNIZGZGWUNleE00Q0JiOGdNR1NSVXJtTlVNOHdrYXpLczlkZTFHV2t5d0JvSG4zY3EzUWFKVEZLM1kxUTB3YWJPZmFWdUdPNVdUME84MTVBOVJxcHgyYjJUcTgtalRmLWFtb2tWNFM0SkJXUVFxQWtZck80MDRZZm5ITHlyX0xEUGs4UEN0UjFjOVFrMlZuY2VHR0M3alBWaUZXcjFYbjNOalhjVUlhZw?oc=5"
+      },
+      {
+        "title": "Najnowszy sondaż prezydencki opublikowany dziś wywołał bardzo dużo emocji. Zwłaszcza w elektoracie i wśród... - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWHBCT0V6SVBzUzQ3Zk54YjFQaDRZZnRSUUMyOHpOa3hXaDdZU3p2ZGtpbW96X0tpdVFQeXZfLV9iSkltMnVuYmphNlFSQzlfZWkxMWdmZkdEYlNNMTF6RkwwbkNmNmUxbnZwVlotMlRhREtERGttTmlVUXFZaGFsSnpoS0U4VkNvQlVtWmhsNEJWbnVaYjdCMkJITlFFcUpVTVJzbTFuRVZrTjl4MXlUNVlHSEhvOVBlOVZIVGlZWmxhS3Z4VDRhREQweDJXY2tTbExYa0dRQ3NfN2wyNmxpbWJ3?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki miał brać udział w ustawce. Czy grozi mu więzienie? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbW85TzZXTHY1dlVLajNCQmRsV2JFZk9oeGQ1ZEhmNUpuQ0Y0Zi1Zckt1bnV1RkUwLUd2T0JqeEZUS3JwbmJHbjZySF9jU2RDUXdtUkNvQkx5TVlHSUl2b2ttOTRHWm9ZOS12Z01kWG5hOGRxREp2d1pRYXVlWldQd2UwRUpBalduTndhZzhUX1NKTlRyWElZT0tzNGVzLXUzZzBWSA?oc=5"
+      },
+      {
+        "title": "Ambasador Ukrainy o deklaracji Nawrockiego: Nie do przyjęcia - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOGU3ZEY3OG1TUXZwLW5jWlVJTWJmQl9PREdBZFg2em1TZkZwLVU4U2dGRzgwUTJTY2NKWnlMQkxITDJNdVlFUHpSOUQ3dkV0TmtpcjNJay1aOVBENXZCdUVlUW5uVUlKa0RvWDg0YTFsTE5ocEtDTFVRemplZ2lmdlVULUNpR29fbHdSQ0h0Rl9IaTFZZW5pOVpHdkVpZjBMbHBodzhXbEw1YkVKZWtJbTg0UnBhaHVRRW10cHRxOHYwSGl4UTFuNFd4eU5FaFFPdHQxX0F1RmtodVU?oc=5"
+      },
+      {
+        "title": "Drony nadleciały nad Rosję. Wstrzymano pracę na trzech lotniskach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUm5QeExwY1JPM0tuZ2FLazhyb0F2WURiT29mNXR4Z25UbFdUZ2s1QUF1cFY0aElGelhheVVlZ1JweklabFhZU3RBNF83bTJ1LVhObEE2NXpscGV3ck83SE9zeDBFRzcxN2Vqdll3eHdqSkhRN0xKN0dIOWNGRjZZYUFrMHJmNEVKYmhPVXdmNS1qQllLX1l0TVZWaldfMmQxblIyWDFIbzVic0pKXzY2VmZ3?oc=5"
       }
     ]
   }
