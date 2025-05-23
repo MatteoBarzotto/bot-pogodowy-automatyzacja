@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-21 14:27:52",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7452,
-      "EUR": 4.2403,
-      "GBP": 5.0178,
-      "CHF": 4.5365,
-      "JPY": 0.025986,
-      "AUD": 2.4117,
-      "CAD": 2.6954,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 399510,
-      "DOGECOIN": 0.849355,
-      "ETHEREUM": 9513.32,
-      "LITECOIN": 357.61,
-      "RIPPLE": 8.82
-    },
-    "indices": {
-      "^WIG20": 2769.26,
-      "^WIG30": 3584.03,
-      "^WIG": 3584.03,
-      "^NCINDEX": 243.89
-    },
-    "news": [
-      {
-        "title": "Rosjanie w pobliżu łącznika Polski ze Szwecją. Nowy wpis Tuska - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb1UxSHItOE1jaWljMFBNR3ZZeWowQkZpWW1IejhDWDBITEUtM2pzbmRiTmNiV0xSMVpia0JvY2FiZ0E3TzlWNGlua0hwa1ZVbG1pQXJCd2lJNVo3UUFFSkdwX1pBQ2wyLXZzS0NnS281OHdmNVhkdlhoTXdDYTRLY3FqdC12T0l4LV92Rjd4WjRmVEtzZU1WeXBPN1JRQUxPOHJCd3FjLWU?oc=5"
-      },
-      {
-        "title": "Europosłanka Konfederacji: Pakt migracyjny wejdzie w życie, Polska tego nie uniknie - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmZjdFBXY2txcGpJNXk1V3c3MjdjYk56aU5QNHE0cHdadHQzbUxGSjNPeVFLS0hiSXh5NS1DbGVma0I5dmljV1RfaVZEanpUSVdNTU1vMGNIMHhvT3QyWjd3cXFmMjFCd0VUMl9UbXZvUFVpTHMtUzFrSWlVSnVnTHFEZk0tLU44SHUyakx3cDdCNUxfU1RwTDhpWmhYVFc3U2JVVUVPY0lmXzdQVGJLZ090T3A0a2M4LWZGUjVB?oc=5"
-      },
-      {
-        "title": "Telewizja Republika zapowiada debatę w Końskich. Karol Nawrocki już potwierdził swój udział - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0hWYndNQnltZ3RocDlzVndlVEZMNXFLZ0FyMjBtTl9veHNKWHV6SFdCd0tDeHl3czcyMUhXQzg2UUtOODhFbTBmRXYweTF2RDd4aUo3MmZOUzBCeHgxV0JKcVFuSnNwQXBMZ2ZoWTBBWmU4Ni16WkJ2SGlKYXRldVlqVzMtQUstZzdLMDN6a1J4dlFJWS1HQzJOMjJyQU16LUlrQXJiS1VLRnYtQy1JeUxvaXI?oc=5"
-      },
-      {
-        "title": "Bójka w Sejmie. Zatrzymany aktor to gość posła PiS, a Dariusz Matecki oskarża rząd - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEFxTDdOMnhLeUdyczJ3SWFpNzVURGlGdXIwempUaHFXYUhncHEtMS1IYUhPczNLZjVsMF9JeHk2NkhubkYtdUc0VXR3ckFUT0VOM21PTXYwdlZtR3JrYVppX2pHSm0wU2NzZV9waUJlbHZfOHBVb2lCOS1CcDVteXpvMmlyc2x3UmdmWnUxU1RqMFJhWWc?oc=5"
-      },
-      {
-        "title": "Świat według Brauna. Dlaczego ponad milion Polaków poparło polityka skrajnej prawicy? [Widzę to tak] - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83cE5JRDc5a0ZGVXVGeTFtUHBRLWFaUmlSU1hESFl5VENpWjRzMXhXX1p6RVFMV0RqRm9ZZ3BDN2R1bGdFOWljMXE0b0YzdHNWNk1iaG9MRHFTTmUtbGhybC0ycw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-21 15:27:05",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tak sztab Karola Nawrockiego odpowiada na doniesienia ws. ustawek. Wskazuje na Donalda Tuska - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlVJMWFrZkxfR0JFQVZXZ1Vka0J5bjd5LUJqX1hxSmgwQVdPY2s3N1ZwaTlTVTVfOUFQMDh0SFZrRk1UOGxpZzNlLTNtSTlhajBwWWFOdzRJVHphM2xuZ1AzUFlKR09sSjNqSXRFOFZwVXBJdWZuYWRXOEt2OWxmZ3dDQlgtaTd1U2dYQW14SlhQZ0t6QTYxdXBseTFGbmxmUkREbmh4SHJ1LXMwaDRLblJJRkZ1Yms?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-23 20:18:12",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 409741,
+      "DOGECOIN": 0.883511,
+      "ETHEREUM": 9659.05,
+      "LITECOIN": 371.49,
+      "RIPPLE": 8.87
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Debata prezydencka. Trzaskowski kontra Nawrocki [RELACJA] - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ29CeU1yb2ktc3BadzN5Z3Zjb2NkZTB6UF92TklxY2N4MVluZEthaFdRbVkxYkhSU3NXb092SlloRE1oWWNEdDI5dVkyS1VPUkpyRDZhbU1hUDhMcXlRd2tweUhJbm9UazhjeU1vYWJ0NnZWLUNHcGp6UHlxOEN3QWR0Vmd5QVFtQ2NGcUZkZ0ROMnJiVEh3U3huQUJwMEp0dnpkYmVvbHRWTzloMFptTXJwT0JzeVZJVXZ3UUR1bjJRdTFKQy1kVE5jbW02ck5JbWJyV1pR?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki bił się w brutalnej ustawce. Szef sztabu: Nie ma wstydu - trojmiasto.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLS16UjZVdGZjbnpaUGpfUExvNFJBeHN1ajN2SEJ0Y3dDeWFRd2NQTlBickFPZGdGZWpFVzJSMmxiSUpwWFh1a0V5dFFSSmNQV3ZyWmlodXRCR1F6bDgzSmtFQ1hpRmlwTEpXaXdteVJwcE1TTFEtUGNNQWVBN2NGMWJfLXBUUG5fMkNsNmVjSl9fUzJzWmFJWGxIYXBvbXRUV0xhRFVyU0Mwd3FFdjV4d0pDeUJGZXhJWnRLNVYzYlo?oc=5"
+      },
+      {
+        "title": "\"Zmobilizujmy wszystkie siły\". Jarosław Kaczyński pisze do działaczy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEp2UEZWdk9fLVFjdkVjaHpEQjlrcHBRaXB4YlBvZHZqNUk1TGhCT1FfdW1Sbk5XejNFY1VTNG41ckVuaElQMVdhWTdIYzNWUGFDNU4yT19ENnFUQzA0cGJfdU9WM1FTZXA2S0dDRG1Hbjd2OUNmNkJqeXJjWmt3ZS1iMk9vZVIzSXhGVWpvQlVnVHJzcVNYU3Mwclh4dzhZaXJPVnh3NVJjb2R2bmFpMktzcFFjUQ?oc=5"
+      },
+      {
+        "title": "'Wyborcza' ujawnia: Karol Nawrocki pomagał przestępcy seksualnemu. Potem przejął jego kawalerkę - trojmiasto.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcW5YMkJDU1NxSm9CRVA5b3NKUHFSZHBwMzZYRk1wUERyQ0tCbXM0eW1PNW41eHdfSEUzUllNWi11SmdrM2YzSWNLRVg4ZXNJZUVtekZqdFRoR1FYWGdsVGo0WHR2VV9Nd2JXd1gzamgwR0lkekZHX0xxZFM1V0dIbnJ1TzRzRDhRaTlEZ0I3TWxOakRqYjIzRDNaUHpSeXFtQ0U1TmVZQkJOd3duVy0ybWlHUUxZY0FqcjFyaQ?oc=5"
+      },
+      {
+        "title": "Walka \"na żyletki\" o prezydenturę. Nawrocki i Trzaskowski idą \"łeb w łeb\". Nowy sondaż - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTktRVDVqWmQ2dTJfS0VuYkdkQzRWSGtTenpJaF83azZBbXctQTZ1Rkl6bEpVcVEzYnB0UkhlNEJlZXNtaUc5UWpJMGpnWi0xOHI3RFl2RHBkMVJwLTRObUF6UFdnVWJRU29sdTVEU1hTQ1A5ak1EbWNCWFg3TzRLMHhZSGdyWG9GbGlSMkZ4ZGxCVlBQV3BnYmdfTmVjd1YtTjVxbkx5Y1dkZVNWLVJvUmcxUUdnbnZNSUFDVFUwQW13V0ltY21zd3lUZFRHR1RB?oc=5"
       }
     ]
   }
