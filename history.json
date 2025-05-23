@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-20 22:15:34",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7747,
-      "EUR": 4.2497,
-      "GBP": 5.0483,
-      "CHF": 4.5376,
-      "JPY": 0.026125,
-      "AUD": 2.4227,
-      "CAD": 2.7076,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 401156,
-      "DOGECOIN": 0.842386,
-      "ETHEREUM": 9392.53,
-      "LITECOIN": 352.33,
-      "RIPPLE": 8.85
-    },
-    "indices": {
-      "^WIG20": 2796.13,
-      "^WIG30": 3614.48,
-      "^WIG": 3614.48,
-      "^NCINDEX": 241.91
-    },
-    "news": [
-      {
-        "title": "Rafał Trzaskowski spotka się ze Sławomirem Mentzenem. Znamy termin - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGhyaWFOak9Eb2pDWVBUalFCaEEtakZzcmhnTHM1OGp6Zml0aVhNemtfbUZQMmd3bVNwdzkzUmc2bV9HQ1hrNTlIRW51b1YyVXA5QUxpdld3QmVVT3Y5SG1FUm5ITnNibjVtZFVSUHFPZTVGU05LRk4yRUIxOUpMbm11QnZ6WkdqZTBMTFFHd0dremZOMzVoUVNpOG1kdGw4M3YxMDBJT3cybDdhcG5GMGFkTE1mRG9KTTFmbTNydkp5el9QblFF?oc=5"
-      },
-      {
-        "title": "Debata Nawrocki-Trzaskowski. Oto szczegóły - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXZNS3I1Z3JEYUtQSWxETmlhNTRJU09oMmJfRlMxYlJqVE8tOXkyX1BLYTV2aF9JMU8tanBKbGlDT2V1R2xpQ19qOGFxTTVoM0VtQW5lUWtwb1hzMllyUjU3RUdlMWpSUkpJTjE5U2dtZjRzelZEcHFiVmYwSU81UklqS1o0OFBSTkIyNGx2VlNGclBNcDBmV2R2LU4?oc=5"
-      },
-      {
-        "title": "George Simion nie składa broni. Chce unieważnić wybory w Rumunii - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmhwWjJuMUlWdi10cEt0SjNxa0pQLXd4MkJCenJ2bmhpd3pwbXN1VGotbFh0bWFpMngtS0lhOHB3Xy1CX2pPN0NfalU5NWdhMWpaUms2bmVNWklUUzF3NG1zMmh5c3d0c1ZoeHZzYUVLREQyZllqWU1GYVo0dGptTzRBV3pEemUxSFVCQTF3Qm9OWWNnR1VBWVhVNFIwcWNsa0ZaeEhmSFQtSjBkLXBQWUh2dTdzbURJ?oc=5"
-      },
-      {
-        "title": "CNN o efektach rozmowy Trumpa z Putinem. \"Pokój wydaje się jeszcze bardziej odległy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHlDQlIxMlhReTd1M1lrQTBndUxvYnpWS0VtZHdiVXgyZ2sxcXlmYTU3OWVLZzlfSmNPREY1WWJyZGFUT3pmTmVueTRvWUlGNkJiYWxCdnJwNGJ5S3ZhWVRMV21pNlZLLW9YdHhMTXJreTk0aXQ0bHFNTFRWNnRlblBVZ0V3OHhLWW5HOTR1UW0yUGVWYzFndTNtcEVicEFlRjhzMjE0M0ZrdjVodXc?oc=5"
-      },
-      {
-        "title": "Niespodziewane wieści ws. Sebastiana M. \"Spotkanie w cztery oczy w najbliższych dniach w Nowym Jorku\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzI3bWdqMmRNZkxxbGF6Q0hnZW1nc1FYdU53STZwLXc5MG92SmQwVFdVZkhMVExodU1qbnVKbldyNkp4akhPQjdycThMMVBMMTRWOHd4eE5fZ250VjA0YXdVTEhnYzBHVUw0WTc4dTlzUE41VWxRQ01SaEo5NGE2YmdEdUdwZ1BDS0lRM2dlMElPYlJmT3licTZCbjIwSFRVVG9KNTMxaTdYeFhvVXlSeg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-20 23:13:05",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Człowiek Dudy wsparł Trzaskowskiego. \"To problem dla prezydenta\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpxLXp0cXNEVjNGWlJ3c1A2YVpBU2YxM2JXTnJiQWZSS2lsUTFyRUtBSFVmOHNHT2NWUWYzVk01TllkZ0xkcC0yUFd6UVNxaVY4SVU3bUprUXJQT3RmNXlfcEFVSnU4UEE4cG9ic0VGdE1rUElYNG1JLUFHRmpUZ3prMXpzM1lkRmIxbmNjLWdKUEVlb18tZ1dINzE2UFlMVlNnelRxQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-23 06:17:13",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7559,
+      "EUR": 4.2447,
+      "GBP": 5.0334,
+      "CHF": 4.5456,
+      "JPY": 0.026212,
+      "AUD": 2.4177,
+      "CAD": 2.7074,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 417423,
+      "DOGECOIN": 0.941808,
+      "ETHEREUM": 10217.89,
+      "LITECOIN": 383.41,
+      "RIPPLE": 9.29
+    },
+    "indices": {
+      "^WIG20": 2738.74,
+      "^WIG30": 3538.19,
+      "^WIG": 3538.19,
+      "^NCINDEX": 240.93
+    },
+    "news": [
+      {
+        "title": "Trzaskowski komentuje rozmowę Mentzena z Nawrockim. \"Kameleon\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnpNdUJmc2lNWTdMSVh6MEdvZXRid2UxWkhqTjlmbUlhazhXTXZVWm42SlVIT1ZsN2FNNm0wNmY5Z3ZOcVpkSVJ2ckdBWHQ0Y3RPRU9KbHI0VVJaVDA3TmZwN0sybTNvQzVqYklYUHYtaUF0T3YtXzE0UTJ5dUplU1dpNnBORnBvYlVFT2RDNVc2NnloQkg4clhKZXRDc29YNkhrc2dVWTRhaVk?oc=5"
+      },
+      {
+        "title": "Trzaskowski czy Nawrocki? Nowy sondaż przed drugą turą - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVdlRnBoYUROWXZIQW9semNNVUlPeFZ1YjVrWExkd0U5V0lJdDJ2LWpWZU9oSF9YTExUeU0tbFFvLUR6ZTZNMnRtNnE4emV3eHpMQUtGTlVEMzBHQ3lnVzVlT3kzMEJ1eDIzaFdmZWtWLVJieDBNUF9kY2lPZ0lodW82cGtLWE02S05zdWlySDFMWHlDU3pFVGlXaw?oc=5"
+      },
+      {
+        "title": "Ułaskawienie za poparcie? Braun twierdzi, że 'zaplecze Nawrockiego obiecuje mu darować życie' - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDFCSi1ka1h3ekJ3TVBlZjJDTWxvUDg0RS1ZQjVadnBfRFRGZnI5cFNzUWkxaTdPNHVSUWR1aUJHc1M3UFhia3dXWW9vMGlfODNRclUxSFFYM0JFdko4WEtjbGx3cC1ORWUtd2NBZk5PSVBBYUhVbUE1S3o5ek9QaEtHRWVFTFhEMnR5SnpoZzFFS0NfUEo0ZHowSDI2azZfNW9KTmRHWWZ5VEN4YndGakFJZHg5dEUwS0ZneWtaZVl0UnY4?oc=5"
+      },
+      {
+        "title": "Donald Tusk o II turze wyborów prezydenckich: To jest wybór między wojną i pokojem - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUi1JSDNqU19VN2hBSUlrOWYwcHJvV2cydWRVbVZGZmpwSm05UVpKbjFzeFpMVXFKTTJpd0Jud2lYRVkyVlFVWG9lbEJhYjB2c3JaYkExOEtSUkY4akhRYS1CVHRpWDZVQ3R5bzZ3cmZQaEwxMEZlNFFwVF9mZnRERGhxMXVNYVNDYklXNjdYbFVKMEJVZlBhdWRHa3ppblVsamQ4dlo2VGcycE5fNDBtT0dPMThyRUt5eWRmSA?oc=5"
+      },
+      {
+        "title": "Awantura na terenie Sejmu. Jacek Kopczyński wydał nowe oświadczenie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUlYZENfeXBQNFYtOTloa2pkdWQtNWx6VkxQb1Z0NXZEXzg1R0xmSzJyWTJNcERWYnZtMTdrUWtBY1lrcUpLa3ZZbTFPdk9mZGV0dEE5d2NBMFhBTzVDSExSZmwzcTRVUV9tZjhpcGc4OEdjYlZxY2FNZHZBNUp6LXd0anFxX2lqdm8wNE0zZm94SXRhMUhGd1FxVXY3dDVDNmdrYmVYTHBYc2tzSi0teE53SWc1M2FQX2lEYW1qSzhzUQ?oc=5"
       }
     ]
   }
