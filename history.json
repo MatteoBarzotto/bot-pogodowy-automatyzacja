@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-20 21:10:58",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7747,
-      "EUR": 4.2497,
-      "GBP": 5.0483,
-      "CHF": 4.5376,
-      "JPY": 0.026125,
-      "AUD": 2.4227,
-      "CAD": 2.7076,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 397095,
-      "DOGECOIN": 0.824081,
-      "ETHEREUM": 9249.27,
-      "LITECOIN": 351.42,
-      "RIPPLE": 8.73
-    },
-    "indices": {
-      "^WIG20": 2796.13,
-      "^WIG30": 3614.48,
-      "^WIG": 3614.48,
-      "^NCINDEX": 241.91
-    },
-    "news": [
-      {
-        "title": "Trzaskowski odpowiada na zaproszenie Mentzena. \"To jest to, czego potrzebujemy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtnZ0pVUS1qVnZyUkNnY2JONm12UFhNS3lTT1l0cEhkWm9fVjJkT2sydGhxNmlUb053eDd0VEJQeDlYM2lMRWdwaXFwWkwwMzBBLXdzR2o3MG5xSDNmblZHeXpNaFRGWjRqUDdjYW9zb2lINFR2VGpOdGtzQmpqbU5qaG0wYWkycE5uQmFOQWZkVmRHMkxHa3hZWWhsMlV5dHgtbW5PZE9DeFFGbEc4cXR3?oc=5"
-      },
-      {
-        "title": "To on poprowadzi debatę prezydencką. Kim jest Jacek Prusinowski - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjVZdHBid3hrc3phS0dPMFdiaXdUMHFDOUtVTDJTenk3X3ZLbF9yYzNBWlh3OE1QeldyN2dqeWxycjJ6Nm0tRFZSWEZjQ0lCcW56TGFuSHcwaDZLc1doVzRBV0poZ3M4T3BLeU1XOHBoWVIxZ2FtbkJTbmxpbWtueTZaRWlVRWc1dkpoamd1VWJkVVgyVjFOYmVWV2NTNER4dzRXb1gyNGpkQUdLakRJ?oc=5"
-      },
-      {
-        "title": "Poważne problemy posłów PiS. Chodzi o mieszkanie Donalda Tuska - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnprOUxDUEdwU2otYnpIMFBfM3ctYUpXcHBIUnplQ2ZNd3BoaHN3dGMwd3Y5VFFlZTkycEZUaUM2WktIUTYtVW1JVTNkYkYyNVRXUzd5b2JJVEl0M0ZSQmxvdF9sUXppTFJmNnNvMG9KZ0pZbkNGY2dGNGMzS1pQaFNrTGF2RGxiTmozN28wY0RHam9nVjRDMjRhREMzRjA?oc=5"
-      },
-      {
-        "title": "Donald Trump rozmawiał przez dwie godziny z Władimirem Putinem. Co z tego wynika? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWV9kUDhibjRlRHFSSmxtRXVWcXhYTXA2R3lqWERaUnFDaDlCTUI4MmlLNDBjZlZVUEgzY1VnNC1oeU1rSjJ2QmM2X3pEcmQ1aGNjM09VUHZuWDE1clZkR0ZuX1RVQ01WRHN2OHEtMWpkUHd3RDM2S3pnQlZYazlpWjItS1BUYV9vM3N0SDV5TGNqWXlDVVZ4ckxLMllvZDZvMzFkZTFWSFhkNnZWVGlyeHdTOTg?oc=5"
-      },
-      {
-        "title": "Tusk nagle zwrócił się do PiS. \"Matkę byście sprzedali\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT19Tck16c3E2VVpvTERMbENUWTIzTG1IR2luRm1JTTk2WDZ3cDZiLW4xOUpiSzlRaWVNX0lJZlJQbW40QUFNeTVzbUJFc3dfcVc2d3REQjJyMEpHS3FQbVBsb0Z4NnMzdXhLMlJnQWg0VmkzelFlSXkzUVVnT19QR1JlRmx0SmdfbmdOYy10WFVhQ3F4bW5STHJ3d3k4ekpoNEliN2E3MFpLbElGZVEtblNxMXRBMWs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-20 22:15:34",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ekspert wojskowy ostrzega Europę. \"Putin pragnie zemsty za zniszczenie Związku Radzieckiego” - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckFxS3VNR2ptNE56UWdXOElOTm01VlNYOG1lRjNTRllicWZKMjJEMlNFRWVnbzdQRjlHS2lveUhyNnJETUtKdUFYYzQ0eUZUV1ZINFlHTXRlYVFRR0V0VndDeDRLQlRWZUo4NDlKakdwaGpDUHp5NUNlejhMVW9JN180SUEtY0gwZzJicjB2cTdjU21Wb2tmbjZ6eFA2QXd0Q3MyMFNGRjlQc3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-23 05:07:32",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7559,
+      "EUR": 4.2447,
+      "GBP": 5.0334,
+      "CHF": 4.5456,
+      "JPY": 0.026212,
+      "AUD": 2.4177,
+      "CAD": 2.7074,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 418193,
+      "DOGECOIN": 0.944373,
+      "ETHEREUM": 10182.43,
+      "LITECOIN": 383.77,
+      "RIPPLE": 9.26
+    },
+    "indices": {
+      "^WIG20": 2738.74,
+      "^WIG30": 3538.19,
+      "^WIG": 3538.19,
+      "^NCINDEX": 240.93
+    },
+    "news": [
+      {
+        "title": "Trzaskowski komentuje rozmowę Mentzena z Nawrockim. \"Kameleon\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnpNdUJmc2lNWTdMSVh6MEdvZXRid2UxWkhqTjlmbUlhazhXTXZVWm42SlVIT1ZsN2FNNm0wNmY5Z3ZOcVpkSVJ2ckdBWHQ0Y3RPRU9KbHI0VVJaVDA3TmZwN0sybTNvQzVqYklYUHYtaUF0T3YtXzE0UTJ5dUplU1dpNnBORnBvYlVFT2RDNVc2NnloQkg4clhKZXRDc29YNkhrc2dVWTRhaVk?oc=5"
+      },
+      {
+        "title": "Trzaskowski czy Nawrocki? Nowy sondaż przed drugą turą - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVdlRnBoYUROWXZIQW9semNNVUlPeFZ1YjVrWExkd0U5V0lJdDJ2LWpWZU9oSF9YTExUeU0tbFFvLUR6ZTZNMnRtNnE4emV3eHpMQUtGTlVEMzBHQ3lnVzVlT3kzMEJ1eDIzaFdmZWtWLVJieDBNUF9kY2lPZ0lodW82cGtLWE02S05zdWlySDFMWHlDU3pFVGlXaw?oc=5"
+      },
+      {
+        "title": "Ułaskawienie za poparcie? Braun twierdzi, że 'zaplecze Nawrockiego obiecuje mu darować życie' - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDFCSi1ka1h3ekJ3TVBlZjJDTWxvUDg0RS1ZQjVadnBfRFRGZnI5cFNzUWkxaTdPNHVSUWR1aUJHc1M3UFhia3dXWW9vMGlfODNRclUxSFFYM0JFdko4WEtjbGx3cC1ORWUtd2NBZk5PSVBBYUhVbUE1S3o5ek9QaEtHRWVFTFhEMnR5SnpoZzFFS0NfUEo0ZHowSDI2azZfNW9KTmRHWWZ5VEN4YndGakFJZHg5dEUwS0ZneWtaZVl0UnY4?oc=5"
+      },
+      {
+        "title": "Awantura na terenie Sejmu. Jacek Kopczyński wydał nowe oświadczenie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHBqdDJOOVNRX2V4VUtSbTZMZDJZQTlnWXVEa1BzZWdBV0llOFJRUnJXb3hDclBTM1lZMXA2STMyRkZxRWpscWUxZUJlQlBUel9TUm8td0ZPVmJzN19rYXFtR3VodEZmS3AxcC1GaVprSjQwWVpQeHVreUZlTmhZZEdheGo0U21VRXgtTDdPVE5MWC03cmZwZEs2MENFZ21IaHVB?oc=5"
+      },
+      {
+        "title": "Człowiek Dudy wsparł Trzaskowskiego. \"To problem dla prezydenta\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpxLXp0cXNEVjNGWlJ3c1A2YVpBU2YxM2JXTnJiQWZSS2lsUTFyRUtBSFVmOHNHT2NWUWYzVk01TllkZ0xkcC0yUFd6UVNxaVY4SVU3bUprUXJQT3RmNXlfcEFVSnU4UEE4cG9ic0VGdE1rUElYNG1JLUFHRmpUZ3prMXpzM1lkRmIxbmNjLWdKUEVlb18tZ1dINzE2UFlMVlNnelRxQQ?oc=5"
       }
     ]
   }
