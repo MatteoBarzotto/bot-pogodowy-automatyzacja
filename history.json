@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-21 13:11:55",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7452,
-      "EUR": 4.2403,
-      "GBP": 5.0178,
-      "CHF": 4.5365,
-      "JPY": 0.025986,
-      "AUD": 2.4117,
-      "CAD": 2.6954,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 398569,
-      "DOGECOIN": 0.846695,
-      "ETHEREUM": 9486.45,
-      "LITECOIN": 356.91,
-      "RIPPLE": 8.8
-    },
-    "indices": {
-      "^WIG20": 2761.06,
-      "^WIG30": 3572.94,
-      "^WIG": 3572.94,
-      "^NCINDEX": 243.07
-    },
-    "news": [
-      {
-        "title": "Rosjanie w pobliżu łącznika Polski ze Szwecją. Nowy wpis Tuska - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb1UxSHItOE1jaWljMFBNR3ZZeWowQkZpWW1IejhDWDBITEUtM2pzbmRiTmNiV0xSMVpia0JvY2FiZ0E3TzlWNGlua0hwa1ZVbG1pQXJCd2lJNVo3UUFFSkdwX1pBQ2wyLXZzS0NnS281OHdmNVhkdlhoTXdDYTRLY3FqdC12T0l4LV92Rjd4WjRmVEtzZU1WeXBPN1JRQUxPOHJCd3FjLWU?oc=5"
-      },
-      {
-        "title": "Nocna awantura w Sejmie. Wiemy, kto zaatakował posłów PiS. To znany aktor - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmJSYW5tV0VsbzdKaUo0cktNbWJPUGpCQjhpNDY1YzJ3Nk1ZNDhYclpTQ1VYak5TOU4tNExacGF5SnRsal9QdW9EQjFsTDdzQTFscjRWcERnQnBUSkl1ZEVLUzN1MFBtNE9ueHJCNlVDejJaU0Z3LWgzQ3BlSUNwci1IVzBNZzlfUEQ1ZTQ3SEdFWWxuakpWNGl0eG1Bdm9KOXJpSG50U2hFVHk4YXRsNTNlc3AwcE10dGI1TU95Vk5ab0pad0RZcDY4WQ?oc=5"
-      },
-      {
-        "title": "Trzaskowski odpowiada na propozycję Mentzena. \"Skorzystam z zaproszenia\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUE5kbDBPNzZuSHBaQlRrZUNieFlrUXM4aXRFMUFicVBWNTlUcTFkdEg4OFdtSzBZaUhkVWtteC1WTzZnMXIzdlhRRDd2Um9yNGFKajM0MlFVT2RhOUw1bGN3YVdhaWFic2FmOFlfSnBMdk9JOHZTQ2ZpcElTUy1mTkJXMDJVNVhDZVFkTnF0UWJyLXZBaUxObUFxb1YzdVVLTHdzNE5DRGMxNlRvcm5KWXByQmxrMmJDM2pGWWc1cS1xUlNtcVA4?oc=5"
-      },
-      {
-        "title": "Wiadomo, jaką formułę będzie mieć debata prezydencka organizowana przez TV Republika - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEhBOWJsSDRpcFZyLUUwZU5GQS1Fd1ZKREh1SUgxc1JlellETG1aZkd5eEY4Q3ZSYTFZYzZUYzNSdmMzNTJsWFprUnZnVVgxMy1uM0VTNzVwTXhpVThvWkNiX0RVSXluVnBpZEJHRnZ5eFY4TWFfVE1WbFdCQ0FFRlpRYThwNlFLVXZ2VU9YMlRLNU9XMXkzSlNkcFJVekV6LUhqdXdVeXJrbk5OYmNsNGtR?oc=5"
-      },
-      {
-        "title": "Świat według Brauna. Dlaczego ponad milion Polaków poparło polityka skrajnej prawicy? [Widzę to tak] - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83cE5JRDc5a0ZGVXVGeTFtUHBRLWFaUmlSU1hESFl5VENpWjRzMXhXX1p6RVFMV0RqRm9ZZ3BDN2R1bGdFOWljMXE0b0YzdHNWNk1iaG9MRHFTTmUtbGhybC0ycw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-21 14:27:52",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zmobilizujmy wszystkie siły\". Jarosław Kaczyński pisze do działaczy - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEp2UEZWdk9fLVFjdkVjaHpEQjlrcHBRaXB4YlBvZHZqNUk1TGhCT1FfdW1Sbk5XejNFY1VTNG41ckVuaElQMVdhWTdIYzNWUGFDNU4yT19ENnFUQzA0cGJfdU9WM1FTZXA2S0dDRG1Hbjd2OUNmNkJqeXJjWmt3ZS1iMk9vZVIzSXhGVWpvQlVnVHJzcVNYU3Mwclh4dzhZaXJPVnh3NVJjb2R2bmFpMktzcFFjUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-23 19:12:32",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 409479,
+      "DOGECOIN": 0.880622,
+      "ETHEREUM": 9634.77,
+      "LITECOIN": 369.64,
+      "RIPPLE": 8.86
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "\"Po Nawrockim to spływa\". Hołownia: tego Trzaskowski nie powinien robić [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSVl5UTR5emR5c3RIdFR6cExkUGM5QzM1S2wtbnpaQ1A4VGEyOF9lcUV5VlBiaHN1SWFHRC1ZU1JpREVhWlhhaVNWYTN0dmtidHo0NHZlLU1Ra1NTMUROUlBfcTl6SlNoWk9Ib2xrSXdZZkFURnU5UmJVMW5HQ1g3TldkUUJ0S2FoTkc1VVNic201V3gwN2t1YWRkQ0ZGS2lieTBPZi1Vb2lienowXzlCcDJkdkMwR2VKcE9HcW8yWFVEWXFjTlhTb3piX2VNQ01MQ216V1U5SGFoTWdtVUE?oc=5"
+      },
+      {
+        "title": "'Wyborcza' ujawnia: Karol Nawrocki pomagał przestępcy seksualnemu. Potem przejął jego kawalerkę - trojmiasto.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcW5YMkJDU1NxSm9CRVA5b3NKUHFSZHBwMzZYRk1wUERyQ0tCbXM0eW1PNW41eHdfSEUzUllNWi11SmdrM2YzSWNLRVg4ZXNJZUVtekZqdFRoR1FYWGdsVGo0WHR2VV9Nd2JXd1gzamgwR0lkekZHX0xxZFM1V0dIbnJ1TzRzRDhRaTlEZ0I3TWxOakRqYjIzRDNaUHpSeXFtQ0U1TmVZQkJOd3duVy0ybWlHUUxZY0FqcjFyaQ?oc=5"
+      },
+      {
+        "title": "Ułaskawienie dla Brauna za poparcie Nawrockiego? Posłowie KO zawiadamiają prokuraturę - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWW5sTWlFbHQ1SE5LcHRpUFJIN2xPZC02NHZMZzdHODdSd3plVjA3d3hETzZzZmNzSnItUTJBT3JzdDVIVjBhTzZxUkQ2R3Uyenl2ZmNmTlIzRE1PQXB2aDRZOTZGQnB1TFIxTGF3ZGhNVzRLSUoybG9McVQySlk1UmNrN3Z4UkNhOTE1eDQzYW15MEQ2YkZQeThjaTlCTnVacjFMaXUwSFdoaDF1NXZyOG1rVG9IQQ?oc=5"
+      },
+      {
+        "title": "Polacy przechwycili rosyjski samolot. Jest komunikat MON - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVVIMnN6c2J3M05EdnVyUGpkRVNzQ3ZQM1NLTDkxV3U3SVY3Z1FHdGQ3TU5nMlRucmRFWWdoSTJwS1ozVGhqeHFmVDhGa0dGLUwyWHlJcHRkdE16RUw5ZXVkWmViVzJDMHFwR3RHdzcwOHZmTVZSMjNmZm5renVoSFI4d3k0RjJOVDlHUXhoZUFVOVFONklmUjZuQ2JGZGVzVG9KX093?oc=5"
+      },
+      {
+        "title": "Tak sztab Karola Nawrockiego odpowiada na doniesienia ws. ustawek. Wskazuje na Donalda Tuska - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlVJMWFrZkxfR0JFQVZXZ1Vka0J5bjd5LUJqX1hxSmgwQVdPY2s3N1ZwaTlTVTVfOUFQMDh0SFZrRk1UOGxpZzNlLTNtSTlhajBwWWFOdzRJVHphM2xuZ1AzUFlKR09sSjNqSXRFOFZwVXBJdWZuYWRXOEt2OWxmZ3dDQlgtaTd1U2dYQW14SlhQZ0t6QTYxdXBseTFGbmxmUkREbmh4SHJ1LXMwaDRLblJJRkZ1Yms?oc=5"
       }
     ]
   }
