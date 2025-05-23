@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-21 01:12:42",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.7747,
-      "EUR": 4.2497,
-      "GBP": 5.0483,
-      "CHF": 4.5376,
-      "JPY": 0.026125,
-      "AUD": 2.4227,
-      "CAD": 2.7076,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 401182,
-      "DOGECOIN": 0.848192,
-      "ETHEREUM": 9445.25,
-      "LITECOIN": 352.41,
-      "RIPPLE": 8.83
-    },
-    "indices": {
-      "^WIG20": 2796.13,
-      "^WIG30": 3614.48,
-      "^WIG": 3614.48,
-      "^NCINDEX": 241.91
-    },
-    "news": [
-      {
-        "title": "Sławomir Mentzen zabrał głos w sprawie spotkania z Rafałem Trzaskowskim - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSm8xLTVzZmFEdUZMaWQ2NlZzdE5td01ldGdqTWhnVlJNdEpIS1FEanMySXoyT1pYNXQ3cWVRZWRkMTZ4dHJ2amI3ZnFWWHdzbjVPZWdWTFc1eUtLWDI5WjVTUTlMMUhYVm9Fdm5MTnZEazF0dTZhaVBoSklrRzY2T3JONkQ5N1dYMXA0aXB5SWJHbnpJSGpXRnViaXRidzU4cjZGb3dFaGtrdGpjUFd5NmFrSVk4cXUwWU9KOTVpeU1hQzBTRzBLb0JWN2Z5TkU?oc=5"
-      },
-      {
-        "title": "Debata Nawrocki-Trzaskowski. Oto szczegóły - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXZNS3I1Z3JEYUtQSWxETmlhNTRJU09oMmJfRlMxYlJqVE8tOXkyX1BLYTV2aF9JMU8tanBKbGlDT2V1R2xpQ19qOGFxTTVoM0VtQW5lUWtwb1hzMllyUjU3RUdlMWpSUkpJTjE5U2dtZjRzelZEcHFiVmYwSU81UklqS1o0OFBSTkIyNGx2VlNGclBNcDBmV2R2LU4?oc=5"
-      },
-      {
-        "title": "Odgraża się Niemcom. Tusk z przekazem do Berlina - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1ljQWdVTV9GMVpYUjBBbzBMMlVubGNoTVRYZm0tVTltdkg0OHRZU3ptTHYyNVVLak5LQzE0V1dBWlNrSFlqTHloQjhWVkZKamt0Z2JpLUxyeWkwT3BkMTdZeEY1UUxoWWRfMjVpcDNIbEV1eU1oOVJZYUlEclJNM1RJWklnMk44S0NrM09SamtRbFFV?oc=5"
-      },
-      {
-        "title": "Doradca Putina o rozmowie z Trumpem. \"Długo i serdecznie o dawnych sojuszach\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlR6NkZYVnBmMWFkaDJCUzRjSGNTS2JhWE5sREl1RWRzaUJaSENjd2tUcWh6YUFfSjJHNEVUZ3lQb2g5cGVsTG01WjZ1TEFZWG0zSGVYMENZWlNBc3ZtT2E4OGVuLU02eDZ6RE9pcWpHbjdXZWwwWTY0Rk1KeGRhSi1nR2RRQUpmbHE3aTZLUmtwNXotakRyOFp2b0xvSTJtNmt5WFhfdURBRFQ5U2Zka3lSY0RlWElheFRyc0Z3?oc=5"
-      },
-      {
-        "title": "Groźny wypadek na trasie S3. Dziewczynka spadła z wiaduktu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYThYNFlSVTVFM0dUTXBjR0xjTml5UjNabXBROElKMU9XX0pUc24xN3I2d0pESTdvMGROZy1Qa09SREFjN21PanJtNjBzUUc0d0N5VWxsNnNxMklyRWFaQi1iVjRhQlVMcmRqZWNhUnBOVjFELXhITC1QU0pwaVlDOVBQOVlFWWlrRk9pVVpFLXQyWUswWWdENTZ4S2dDN2pNcWhIdHpWQ1ZyTFFQVHZYYUk2bkdEUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-21 03:08:08",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rafał Trzaskowski ostro o Karolu Nawrockim po wywiadzie u Sławomira Mentzena. \"Kameleon\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEs5bVdTam1lUG5xcHJUNG5aY2lGMnExaWNBbmU0ck9iQVN3eElLaFM4RVdnSUd2ZkxyNUN5ejktYUpSWVhSNnBoZEU5X19hLXU4NGFRWFpxTmNBdVZsN2lTSzVTQnF2MFFmUk5JSnVKRVlJRnVvMEJBSXJvZXN0OFNWZmlhWHZnRmtCLUl4X3pxQzlsemdsXzlHMzFnZnVaaGZxOGpSR2p2M2hrWkx5bFpQcUc2Si1IdU5HcTRQb1RoM3B0emtF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-23 09:13:47",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7559,
+      "EUR": 4.2447,
+      "GBP": 5.0334,
+      "CHF": 4.5456,
+      "JPY": 0.026212,
+      "AUD": 2.4177,
+      "CAD": 2.7074,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 415210,
+      "DOGECOIN": 0.917427,
+      "ETHEREUM": 9991.34,
+      "LITECOIN": 376.09,
+      "RIPPLE": 9.11
+    },
+    "indices": {
+      "^WIG20": 2754.83,
+      "^WIG30": 3558.63,
+      "^WIG": 3558.63,
+      "^NCINDEX": 240.93
+    },
+    "news": [
+      {
+        "title": "Osiem punktów Mentzena. Oto co podpisał Karol Nawrocki, a co robił PiS - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDM3Qmtibi1GMWhiV0VvN09MQkh1ajFzYUFOWlJZcE42Sk5hMVNXb3JMWmFEcXROR1Z5NXl3RTNfclpBTkNfcXlkT2xxVnQ4S2FPVjE0U0J2ZnpPb05VRTVKcHZSVTFBakpQbllGZzNlZFYwTGQ3ZnVCTFJERU1fLWQyMlJxR3dFNk03TkJ4clJtdGtHZmp5a3huNWp1NXdlbEdBcEF1Yw?oc=5"
+      },
+      {
+        "title": "Nowy sondaż prezydencki. Zacięta rywalizacja przed II turą wyborów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFhLRVVKdVd1OUxvWXZQY2xCNmJKclJSRG5JeVZOdmF4T21OeHZTcG01eEJ4WExQaV9Hc0tEc3czTmpfME9fZzUxVGhWWWhaa01RbUlkUU1NYmxLTWRJbWRJODU3ZjFSR3hjanNqLXg1Q2RJaUh3a0hUNm9ibUpTM3lnU1FBNjdUZ3FHN0pHNmVSTEtDNkFGTDNGdnl1OTJKemZuMVN1WnRqWkxXUUloTXpicGI5OGZEbVdmZU9qeHo4MGZ3LVpJ?oc=5"
+      },
+      {
+        "title": "Ostatnie godziny przed debatą. \"Haki, pułapki na rywala\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkpSb044V29HNFdIRXpTZEhvWjJvY2x3UEZHZUJjQ2dsU2w3WGtRUEVwQl8wN1NGSVdqYmwyS0NtQ25wVzZYT1Ryc3ZkdFhWblF4YWFBTlJSV1RyeUZwQ29yUEwwaWpMdGp4ei1mdjloVmlUMDZrRE1iY0wtWGZTYnFmYTMyektHbzFFUGVicFJQajBSdEdTb2RUWkdkc05OUkp6eHZtcEI?oc=5"
+      },
+      {
+        "title": "Nawrocki brał udział w ustawkach? Nieoficjalnie: Wiemy, o którym wydarzeniu mówił Mentzen - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRkx4VHBqdHM1ODZId0g1bjkteGMxS1MtTVhrM01BeDBRNnZnNkRPUVMtUEt3c3VBaE44Ynh2ZEVwRkNDVnVQVnd1NUZPa0xUVHNqMzZNT2szdGh3TF9oZ3otX285QlhJanFjVUtsWHVGajcxSV8yU2ljYlI5MFlKREhiNFk0M3Mxa1RzNTU3NE9oVVNqNXJfa0o1N1NWS3RJNzBEQnRlTmVndHZQSmN2ZDQ4THQyUFhmMFVBaEh0S05WdmsycWY0?oc=5"
+      },
+      {
+        "title": "Masz 30 dni na wyrobienie perłowego dowodu rejestracyjnego. Inaczej 1000 zł kary - Dziennik.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaThIX3JVYUJrbXVZUjhZV29DSldDcjV0N0ZSMkIwdUlGbVVZZTA0QmhDWXR6Ul91MWp6WEZkMzdRSVByQ0FncjJCbkhtVXNNdlBMSGdjT1ZtZG5DZmo2RVRBeThfY0FoRHFVVVYzOGZNLS1FT1JXN0NvTDdLTEpFTkVsYVpDaThVNnR5akVPbGJaaFZMUEo1S1lLTFlRX18xM0hRSkxYd25HSWR5RmJFclhlMVphaFB2ZGVyc3UybGRTR3JrLVE?oc=5"
       }
     ]
   }
