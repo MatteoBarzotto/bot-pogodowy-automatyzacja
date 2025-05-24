@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-22 00:13:01",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7452,
-      "EUR": 4.2403,
-      "GBP": 5.0178,
-      "CHF": 4.5365,
-      "JPY": 0.025986,
-      "AUD": 2.4117,
-      "CAD": 2.6954,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 406367,
-      "DOGECOIN": 0.859858,
-      "ETHEREUM": 9394.55,
-      "LITECOIN": 361.64,
-      "RIPPLE": 8.91
-    },
-    "indices": {
-      "^WIG20": 2760.83,
-      "^WIG30": 3573.02,
-      "^WIG": 3573.02,
-      "^NCINDEX": 243.61
-    },
-    "news": [
-      {
-        "title": "Trzaskowski przed spotkaniem z Mentzenem. Wskazał, jaki ma cel - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0tNM0ZrWGsydlAwZmVXLXFzbUppSU5oblI0QlBlUUFTZWxqTWhiMmJ0RzNLMHhIMjBxbE9sVHNFSTI2ZDVVTWpqbEZvdEk3NXNucm9UX0otdTFuOXZDOVhHbDNraTVCV01kcExDelBHam1SVHZKVDBuaDZ4ZlV2eDV5VDVfQkJGU3gwdjhJb2o2TUlNd3FaWXdIcExycXdjSG9HNl9B?oc=5"
-      },
-      {
-        "title": "Bójka w Sejmie. Aktor Jacek Kopczyński zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTW9oV0F4cmJfb0FvU3RrUFFza3hSazJyZmVDV2hfUVRLZUlkalVWd05Zc2IzUmE4WE9tS2tQNV9jVjZzUWFkQ1J3MHZrcTBRQ0R2ZE11blhnY2pVSGxWN1l4aHRfeFhTYUF4eWVmWUZ5Mlp3YS1OdUY2VlhnOGk0S2pQZ1l5VWlBTk9yMVBzUk9oTF9VaWQxcElmMGdyaUR0ZW53WUNMeTdlOFlydkpGVVdn?oc=5"
-      },
-      {
-        "title": "Rozmowa Trump-Putin. Media: Prezydent USA pewny zwycięstwa Rosji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdE5idGdvbU9Sa1JQUnhvWEs2Z1FwUWVzNU0xTFNDSTczM2R1MHZPaWNuLUFzbGxTOVA0bU5ROHlHTVdUaGxpWHhpSmZWcmxfRk5DcXJXTE1rRF9XQy1sSHF5MVFJZmQ3UlAyNWJMUV9fQXdLckNXcXdvblBCaTBLMmNfR3Z3aUdNWUI5RDZ0YWxIdnl3cjZSdXNLUHVRYy1Sd0VIdHMtTWxlcHl1aS0w?oc=5"
-      },
-      {
-        "title": "Dostał rozkaz zabicia jeńców. Media otrzymały szokujące nagranie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOelpkOXBWREdhWkdWOER1RnpHQ0ZwZnMya0NNTEVBZ0d6b185cUp6TW9wZFFqaXhIU1N4ODUzRGtPRkRqa25uaUgwZ29GRDQxM3JxREFER05ocUREQnVrOW1mWldrR3A4eEpuNVRtRTg5TzY4LUNDVF9XSGxURUlfbVVsb000VThGY09EX1lrZm1DQnV5YlBzZTBR?oc=5"
-      },
-      {
-        "title": "Trzy próby Trzaskowskiego. Od ich wyniku zależy przyszłość \"Operacji Tusk\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmxGZmRTWmd0cXVQcDY2c0c3VUpiWGxsTnJ6OVItQWFKOVRja29pM2trcHVRRmZJdHVEV0s4VlpSVnMyM25CdFJ5Q0VwV3hocGRWemFDQWlZbDBDUkE0c2ZWb3NLWTZHYjdGejZIN2NMNFZ2NklDNGFXZXlZSE9STlFxcW5tc1BWWWJMeW9ubjFtWVJkNTFFdGJ3N3laZjR4QVhUa1o4NXJWMkJSLVhNV2lSY1A0RE5ZM3ZqVk5aeTMydnZNZEZz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-22 01:13:01",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Grzegorz Braun w centrum politycznego starcia. \"Jestem przerażony\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUg5b2VySjgzX3dmMk1xSThvcG54clJhaXlSZTAtMHAtMlAwQjV0VDEzLTdfcHdrNWVvVWliVDFGMElPUkRXUldfc2p1M0hSdGdqZ2l2dFZvOXNzR1Y1MEtGbjFLLWdsOGZSRUZqT0hMRVZsekNvbloyaDNacGRIMWxRa19lSUlOQWZYUnVrNEZkUFhFUXoxRDhmTnBTc2RNMnZoNA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-24 08:17:42",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 405599,
+      "DOGECOIN": 0.85577,
+      "ETHEREUM": 9561.99,
+      "LITECOIN": 361.92,
+      "RIPPLE": 8.77
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Jedyna taka debata przed drugą turą. Pięć kluczowych wątków ze starcia Trzaskowski-Nawrocki - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGFsbzc3MVJsOUlnZUZVYzZEWWh3NWd3LXJRTkl3T29oS0VXRWtVVnJqU0RZakRsejBPWVVhRG9URTdZZV93LXJJNVRJMkdFbEdVTnU5eXFxU2lDcERWcWxpODc1eG5hc3ZaWG5pOTFkV2hmbEltUl9tN0N3UFBHd1JSZmZ0a3YxZXJLd3dDV2VoSEFvbXBaM0xqa0pqc093dktSOHhPV25NLXpVUUkxaTZ0VW52akRlWkpfOXp1bDQzbnJoYnJpTElsaUNscm1CRmVOWUlsbUtPYVNDelE?oc=5"
+      },
+      {
+        "title": "Wielowieyska: Trzaskowski w debacie walczył o kogoś innego niż wyborcy Mentzena - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFJTRi1jcUV6Slhrc2pkbzV6NWt6ZW5OOUJpeXJsVTJPMkp1T0NhV3YtV2JLZ08wRFFwcTZuOXpHYUhvTmhVUHJ6czZwS3JRbUxmR00wWkpHVDBOenRROUlJOGlfX1laZkhrbHRMU0J3c2o4eV92dTlrM0JTenBlWnU2NUhaa1VfSVM5ZFhicWNOUWQ5dGJjLUNwaUhGdmpuMGoyQ0xSd2hwd3JJUmMxWF9R?oc=5"
+      },
+      {
+        "title": "Tusk komentuje debatę. \"Do końca życia\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWk3c2tjTlpwandFSEVpajJqMVFXcXdZMkdLZHpsRUsyTEF6NDlkb2t3aENnNmxVNEk2TzRpMWdBaEZMazhZTTJ5SWRXWVBfaEppMVlxLWxRcGFvMW0zTUU2aUlMaFpGcmgwR2FzTXQzSS1XYTBxLXhnOFdDUVpzVjZoX25sNzd2QVNSUTF5TFREaDJlUWJhVnNzbmI?oc=5"
+      },
+      {
+        "title": "Zmasowany atak na Kijów. W całym mieście słychać eksplozje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmV5Sl9kMFlkeFU1dzQ0WGxhaFNvRE1FOGpWYmdnaExGSTdXT0h3MmF2YTBZa21sWjlpcDRUdC0xUXNrS2Z1ZHIya1czZzlUbkV5dHdadDI1NTZFZWRpS2dia1U1SUc4ZGozVTZONEFaUlpNVmsxaklhYnkybGVHUkFrT2pXcDlQOHRvQkJUU3BFMGJZa0R0RjExWEFqbkM4dGJxNWo1NDdUSDRsUEN0ZlVpV25mOVdERnpWTQ?oc=5"
+      },
+      {
+        "title": "W weekend Polska podzielona na pół. Arktyczne powietrze i opady - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDNiN1NLSXJSSlJkV3FGXzVoLXQ0QWl4RV9lMkpyUnotUVVkQUxkTW5lLUZNMl9qX05hbVhBM3YtRmFtRDh1ZE1oV29CN0JxbUZVa0NiaVdhMTdqX1ZjSEtRYWNFS3VfUkxyWDh1UUJIcTQwWnhHeTRuVUI1VUhERS1fWEtiRW5sUGhIMmhsam16ZnZrb08zN045TVRZY1VWNXphbzlSVlk?oc=5"
       }
     ]
   }
