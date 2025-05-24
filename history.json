@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-22 19:12:28",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.7559,
-      "EUR": 4.2447,
-      "GBP": 5.0334,
-      "CHF": 4.5456,
-      "JPY": 0.026212,
-      "AUD": 2.4177,
-      "CAD": 2.7074,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 420277,
-      "DOGECOIN": 0.906616,
-      "ETHEREUM": 10011.81,
-      "LITECOIN": 373.45,
-      "RIPPLE": 9.15
-    },
-    "indices": {
-      "^WIG20": 2738.74,
-      "^WIG30": 3538.19,
-      "^WIG": 3538.19,
-      "^NCINDEX": 240.93
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki tłumaczył się z kawalerki. Sławomir Mentzen nie był zadowolony - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHE1Y1ljMlJZR2JHWXFjYThpeE9aTE9PTnFQZzM3ZUtWYWdVSWQ2cUtNVEQwdElrQ05rN19kMkZZWkUxXzFXX1dLTk4zMjZqeTBmaV8zUzhUSTJSMVY2aFdhTk1zUlI1TG9qS3VLbVIyaVQtSHMybmNySGUyYXZpTU1sSEpPSnlfM2o2RjZiOWI0SkpiODlldzBReEI0Sk8xRnJNQ0YtWVIteDhsM0l1TXk2VmdvNXo4?oc=5"
-      },
-      {
-        "title": "Pierwszy taki sondaż. Polacy wskazali, na kogo zagłosują w drugiej turze wyborów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVF1eFJVSnMwNkpseVlsVTFBdUo2MUprV090dXVTeWFHdkc3VTlKb01PVGRPNlpROVRwNUxlLThXVVVGaC1fOGMtOHJpTGMzSGVkMnpKaWpHYVFKcFNpSmJDLTF1V3RuUzNnTmhaTWhaU3ZJQTVVRzZsRnM4MVh2YV9fV3VvYTZnSnlfVVRjbjhHNVpLaDM1OU9rSTNLajhrNExXdTFZd1dxZGdSTW1qMkpsenBLSFlWSm1WSUJMX085Vm42emdRVU9IN2xKX1dxSmxWY2pUODk?oc=5"
-      },
-      {
-        "title": "Katastrofa samolotu w San Diego. Brak informacji o poszkodowanych - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWV6d1JRck9ZWUp5aWtxbGY2aEJlVXJYc1h6Ri0zUmowRWRaaWdfS1oya21uN1lDem1SMGFvNl9Ubi1KbHBmdnN5clllbDIybXBGYjBOdmxocU9GX0k2RTJLZktLbUF0Yzg5cXNDdHZCS05hRkZRN0dua3E4Z0oybWxSOGgwZ0dnOEhpa1drZXZkWWZZSkNyRXdMS1FqZVNRaXRzakozRVFDRkZJTzVZ0gGuAUFVX3lxTE9MOW5nNjNZb1ExMkxkN0tJdUhGWWdwQ0RoTC1vYnBIR0c4czc0U0RkcW54TXJTb0tUeHJCUXl5MUdYNGg0c05JUGJoa2piRUhVSlY3MWs0SFRHVWNoNGprc2JQXzBDODlSckNOR2tDUnZQa3JxemRTbXlGWXFLMHdXYjBEaTZveHdjVW05WGRHTlZoXzhRNTF1OERRRWthdGxFTXM5YVBJMUF5aDJjdw?oc=5"
-      },
-      {
-        "title": "Powiedział, co naprawdę usłyszał od Putina? \"The Wall Street Journal\" o słowach Trumpa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFdpQXlNRkpWVzloVGp2U0V0bmpuZW9xb3ZlX2dCaDZDa0NBVFNXaWNMOXFlY2xxVGdSb0RjY2hpbXhGUHp1cEtwZ0NJZUdXWnM0QW5zeGVoRVZMeTU1MmhmWGhlMHJVeHY1RjJ1amVGTENOQnk3WnRveENLT3RoSEYxaEtyUVQxOEZRRkdRX2FNTGdLeDJHaVNrbXZST00tTURuQVVvb3NwUQ?oc=5"
-      },
-      {
-        "title": "Niebezpieczny incydent na Podlasiu. Pocisk z karabinu maszynowego trafił w dom - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWEh3M3B5ZVItSWw0QkU1V2pSTUt2MXRqTXlqa3lXWXVBUl9tUk1DU0prTXltcGJ0Z1g0elh2UEN2aTJDemJGYlZKNGYyeHV2bjFVYkdrNldDb0wwa2ZIQ2g1R0JqWTNDNHlHbnl0WWptMnpGYzBPbW1SMW9aTkduM2xETThzcHZ6eGs4WlRicVVFN3IxODVpSXFDcTAyd0RGN2FOc3p3QzlBSHdSUjNCVnZQTWhWUllqWF9XYXowQWdOWnFwdWwyYVhGdnJJLWhxMVJPQjJpYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-22 20:19:09",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Trzaskowski udaje głupiego\". Fala komentarzy po rozmowie z Mentzenem - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWp1Tk01TmZnang1LXg4eWEwU00xOUt2d3pMTWxmMHE4cl9NVUd5b0pTNzBLRlFnd1pSSm5qOVRxSGhUWUxCV2VtdDhnMlNRMkJVTmhDYVRqS3JUN0g5WFBKT1ZJa0NpMmVxZlcycVJiRGFYaVQ4WERpdFl0WExyZUd4dW0tYVdYamE0R0JLRjZZWmRvQ2R3d0tfenBjVE9LXzZxa3dmNnQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-25 01:12:32",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 404738,
+      "DOGECOIN": 0.84234,
+      "ETHEREUM": 9470.98,
+      "LITECOIN": 358.4,
+      "RIPPLE": 8.73
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Widzowie rozmowy Rafała Trzaskowskiego i Sławomira Mentzena zagłosowali. Oto wynik - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2Izb29CT3J2Zmp4U3oyVzgySFluazdBV3lmNTNNaTJ1WndnRlNINk9QLXVuWVZ6Qk5Na0RvTlk3dG4ycERtRWlRekJhMzNsUlR3ZXVjdnZFTWZYS3dPd19ha3NiUTdDV0dtOEJTd3lBUXBVMnlfVElHYUEteXRJSWtIWF9vRHhDaXNyWUpFaUdvcDczT1lRS0V5c3Nlam5SRWVLVFFXc0ZtLVFPRWF3RGR2M0tqbFZ4eWZzZ055SDhiaVNoelZjM3pycms?oc=5"
+      },
+      {
+        "title": "Rafał Trzaskowski odpowiada na propozycję Karola Nawrockiego. Chodzi o gest z debaty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEs2R1RXVjcxXzU5TlVxdGRjMXdxa2hFd1A1YUpJdWNLWmdISnhsbHdBd0VFSS1VbU5VMzNLRkd4ZTE5QkJFd1dHVWJaelc3TWZxMUtaYU85WnB3MHg2YzdXcVREbGJqVDdWY2U0SDhncHFzNVQtRmJaSUpkS1YyUEFEYndBVzljT3VPVGhPcm42bkc5VzBuY0g5QmNsQTdtNVR6azgzQUZ6TmtfQThmU1BaeGpIV2E5ZV9uOWdXYzNDeGJqckdIUXNvZklWUENYLUUxNEc2MlV6SThyNjBv?oc=5"
+      },
+      {
+        "title": "Frasyniuk o debacie Trzaskowski-Nawrocki: Nokautu w ringu nie było, intelekt wygrał z siłą na punkty - wroclaw.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnFzQlRYbzgtUEQyd3lDejEtd2hkM1diemh1enFZYXlJQk1Mc1BYZDQ0NHdoenNIQmxJSDNiWFo2S1Z2YnlsNGFLRTNTUkJaLUZEQk5iVzN0cG9heFh6WkstaXV2ZnB2Y1NNTDdva0xhY09JSW9keVhOMTFxODV2Rm4wYjREeHR3b01UQS1uSXpnVkpnV1ZjUVp4SllpRDQ0UVJaeVRNTndKNEE5SnRrdVZDQXpXbWtkLVhuYg?oc=5"
+      },
+      {
+        "title": "\"Trzaskowski udaje głupiego\". Fala komentarzy po rozmowie z Mentzenem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWp1Tk01TmZnang1LXg4eWEwU00xOUt2d3pMTWxmMHE4cl9NVUd5b0pTNzBLRlFnd1pSSm5qOVRxSGhUWUxCV2VtdDhnMlNRMkJVTmhDYVRqS3JUN0g5WFBKT1ZJa0NpMmVxZlcycVJiRGFYaVQ4WERpdFl0WExyZUd4dW0tYVdYamE0R0JLRjZZWmRvQ2R3d0tfenBjVE9LXzZxa3dmNnQ?oc=5"
+      },
+      {
+        "title": "Jeden z dwóch księży zabitych przy ołtarzu. Ogłoszono nowego błogosławionego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2pOV1dTTDNRZUJIbGRLMU1rbkFEaDI3NW1TQjFYb1JnM1RqOGktZy1QZGtOaU52UTJUQUdheXpESS1rS1RTY2lkOTJISExBOXJ5UFJrVTgwMG9rQUVPc05KRU1sMG1XZW1fSkN5WUlrQlVWWEtTNHBmSmttc0FUc2p5MTZNbTBqMFRKNkN0OUVZNXVIdGJaTGJqR1FDdkNZNDlJOVBfU2UzVW8tT3lN?oc=5"
       }
     ]
   }
