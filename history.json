@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-22 12:15:04",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7559,
-      "EUR": 4.2447,
-      "GBP": 5.0334,
-      "CHF": 4.5456,
-      "JPY": 0.026212,
-      "AUD": 2.4177,
-      "CAD": 2.7074,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 416133,
-      "DOGECOIN": 0.905339,
-      "ETHEREUM": 10014.12,
-      "LITECOIN": 371.6,
-      "RIPPLE": 9.14
-    },
-    "indices": {
-      "^WIG20": 2744.07,
-      "^WIG30": 3549.39,
-      "^WIG": 3549.39,
-      "^NCINDEX": 242.27
-    },
-    "news": [
-      {
-        "title": "Tusk o incydencie na Bałtyku. \"Badamy, czy nie doszło do podłożenia ładunków\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYi1zTE05SWVFME93SU5IUUkwanRldkY2UWZBdzRhRUx5WjF1V3NrS1luM2x5WmJKVjRfZXczRU9DTW82bTU5QVNrR1RCWVFMdnhTZUdyQjVCMEdwdUF6R3lMem9vYzhraDFOTnBjSDR0ZmRjLVRsUmdZeVd3dUFNUHZIY09ISHFqcXZjMmVCdnoyeXNBbU1YX2ZTVFdxX2tORmVvT0NEd1RVQjRZZVA0eS0wenB1Rm4tQmV2REVfS3JPWjRtUVdB?oc=5"
-      },
-      {
-        "title": "Burzowy front nad Polską. Alert IMGW dla kilku regionów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmx6TE9GQ1lFSmgtXzNWN0Y3ZTNXeW1LTko1STI0S001R21PWFVIbkYzUlNXMnFobHlnMHNDNDVoVVVqUnNZalk1dnc0Ni1zeUU3R05ld0FNVTJiZFR6NVhYa3NZSF9UZzVPeWRxMFM4U1YyMENUN3ExQU9JM2cxaWNHMDkzQU5yV2prWUV5SEtUYkVIYnRHZnBBVQ?oc=5"
-      },
-      {
-        "title": "Nocny wpis Karola Nawrockiego. Pisał o \"ruskiej wódzie\". \"Do szeregu generale\" - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUJmUmo0cWwyUWtpMmdYLVpIREo0XzhtVjdkXzVlQU9RY0dnOTJKVzhqa1E2Ym9na0RVMWU4Z1JqYTE4NmF1MWFaeFVQWGZIOUgtN3Y0bGFZU0MwVDVCWFZsVFNDdENySXVIajZYRnIwaGZrc2xEdlFZR0p6R1BJdG1aX0pzRTcxVzZuUFd0bERCbFlzZ3poQ0syaDZRS29CYlJKdDRBVThRVU5DR0F4MkJYem1aMnFQSlE?oc=5"
-      },
-      {
-        "title": "Marsze Nawrockiego i Trzaskowskiego w Warszawie. Prof. Dudek uczula. \"Nie daj Bóg\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ19RcXg2WlZteHl1QW52YzhxYVRJV1dYQmNHcWFoRmtzRXFDQnYyeHJSa3dZbzliTTBDTzJYcW9pS0FtNTN3dk13WE1iSUV3LWY2a0dkYl8ya1F3MGh1X2hObk1GNVFaeWFBMVNEUGlRMzJpNFAzVU1zcDlDT2tPeHluWUp3MU1nRUhDUnhyVDR4WWN3Tm1pUnB0Rk5JbElUcl95amtwbEk5QVVyNGfSAawBQVVfeXFMUGF6eFZwb1ltNXZnNUJEOHhaZTktWjUxNmR1SzAtbHhkLWw2elctbzJpQnhVT3Byc3pmMERqMWRmWURUWFdZS2lIYmNYZWlMZU5DX2h4ZUVYdlBMT0VLRlNmS2JsWUlXeFhZdmZUcVNDZS1YR25zc3F1RmxPcFE0M0R3czNSUjZ1OUVhblFJWjFucTlHeUZDYUgycDZYRUlERldzMXVrQmtiaHZvaA?oc=5"
-      },
-      {
-        "title": "NIK składa zawiadomienie do prokuratury w sprawie KRRiT. Chodzi o 337 mln zł - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFFSc2gzVHFuS2ltYkRfN05pVEp2WHhpc044cDJjVFdpeGZfQUc3dWV0bVNtUzFsb3JNb0dGdlpSR255bXNPd1EyN1lSVmxaSXhSWUNwQlVlNkV3UmJWeWhuaW53NklzVUZIRm1JSkpyTmhXd09CY00xTkFoQ3lrR1VnMlN6N2lFWUt5c2YxWVBkNDlIazFkemE0c3ZtZVhZYkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-22 13:12:18",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tak będzie wyglądała rozmowa Mentzena z Trzaskowskim. \"To byłoby niesprawiedliwe\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3dsb25zQmV3MHVnM1E3aWQxTlBCbTFOaEpPQ29vdkRIalBpQmllUzNITWJMSS03MWlnTGRJZzdvTmVuOGFTeExBWWgyVmZXZWdaMkFVdG5TSkFiTkdLTUpHekpITlVrMFQ5Y3dJQXdTdXBGeU1GU1VyRG1pdnU2a2d2Y1BPc1RGX2h1anU1bnNHYU96Z1I4cjNQU0dLc2xnNlpvRG10eWJkRFVNWEFjMVNDUTNZamdCTFQ0S3pwb2EwUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-24 18:14:49",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 407856,
+      "DOGECOIN": 0.852286,
+      "ETHEREUM": 9566.81,
+      "LITECOIN": 362.51,
+      "RIPPLE": 8.8
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Rafał Trzaskowski odpowiada na propozycję Karola Nawrockiego. Chodzi o gest z debaty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEs2R1RXVjcxXzU5TlVxdGRjMXdxa2hFd1A1YUpJdWNLWmdISnhsbHdBd0VFSS1VbU5VMzNLRkd4ZTE5QkJFd1dHVWJaelc3TWZxMUtaYU85WnB3MHg2YzdXcVREbGJqVDdWY2U0SDhncHFzNVQtRmJaSUpkS1YyUEFEYndBVzljT3VPVGhPcm42bkc5VzBuY0g5QmNsQTdtNVR6azgzQUZ6TmtfQThmU1BaeGpIV2E5ZV9uOWdXYzNDeGJqckdIUXNvZklWUENYLUUxNEc2MlV6SThyNjBv?oc=5"
+      },
+      {
+        "title": "Nawrocki chce razem z Trzaskowskim i sztabowcami zbadać się na obecność narkotyków - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3NSZFNQandlbFBUekQ4bnVvOWpxcU5RbDN4NlpDWHM3WmVxX2RkNUp3NDJvWHJFMFNGYTYyYjg2OGJiR0dNaUFueUFkb292V2V3UExTbjh2U2V4VmhHa0xKU1B4Q3pPdTAzSFg4UVk4dUhKNU05N25adXZVbFhIT0lCZWJ6RmNLRTQ1Uw?oc=5"
+      },
+      {
+        "title": "Pojedynek na marsze. Mamy przecieki z obu sztabów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0xPN2pDNnVYUjdQR3N6OUtZSEJna3RacVlhRVRFeklIOVRsTWQxckQ4dkVFU09qUy1aTmVtVFRuU1QycUNoSTFKa2ZpMXotYXJtalMwNzhaY2hXZ3YxWm1GSUdhX2gzRU10V0pfRDA2bGZGMlliWFJ1SVMwYV82eEFYaXZFcm1SMThWT1BKNVA2ODZkMUE?oc=5"
+      },
+      {
+        "title": "Nawrocki podpisał deklarację ws. ważnej inwestycji. Oto co w niej jest - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTZrYXFKdXc0R1dNSFBxWE8zWE9DZ0VoOE5mVEdYbEczQkpOTkhDaVNHbnpHMHk3UXJyRVVUdjRhZFRBWFNIdnNPY1RJSjFwV0ZuV0RFdmFVYVlTTWdMQjd4VGtNeFdiUFE5WUNlcXlOQVZHWnI1T25hQVAyVVYwdjhPeVN6Qy1iYXFGcGpxdXZhUkZtNE03S2szekI?oc=5"
+      },
+      {
+        "title": "Jeden z największych ataków tej wojny. Prezydent Zełenski zabrał głos w sprawie Rosji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd1JabUcxNC1QQ1RDTWdaVXlKSVFsZ1NDbEkyYzQ0SUk5dzBVSEVVTDFrdEhRb3NIRHpzTURrNUw5MEQ1dlAyazFNckhjV2VPaFZTTy1FekZxNDZKdkZsMG5SRVdnZ25KYWpUbVVNOGRqbDVzVlNsalltSldNNFA2X3VSeVNKRGJ1cXJsOXRJZ1piUXl5TjhLeW1rUnVzZi1NSEZhc3NRVS1HelUzVGtjZjZ5TEZ3Nnl6MzJZc0p1WkJORFpfb1JveVVlSmRBMWJtNjFxMWNJSQ?oc=5"
       }
     ]
   }
