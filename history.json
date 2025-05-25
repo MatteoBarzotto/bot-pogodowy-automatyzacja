@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-22 20:19:09",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.7559,
-      "EUR": 4.2447,
-      "GBP": 5.0334,
-      "CHF": 4.5456,
-      "JPY": 0.026212,
-      "AUD": 2.4177,
-      "CAD": 2.7074,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 420730,
-      "DOGECOIN": 0.90971,
-      "ETHEREUM": 10022.28,
-      "LITECOIN": 374.04,
-      "RIPPLE": 9.16
-    },
-    "indices": {
-      "^WIG20": 2738.74,
-      "^WIG30": 3538.19,
-      "^WIG": 3538.19,
-      "^NCINDEX": 240.93
-    },
-    "news": [
-      {
-        "title": "Donald Tusk reaguje na najnowszy sondaż. \"Nie chcę po raz kolejny powtarzać\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFFhM0k5UHhPT3pJNFAyM2wwc1h0UTJyWXhoSDFsX1c1SnZKM2tnc0xBTENwcURKNi1HX0xlMmx2YktKdlo1bm05c21FcGNxTHlWTGxOTXcwOHNMTkdCRWM0R2JYMHprejB3dFJocF9pV0wtTlhrZnNQMEtnNllNSU45cGlwVEx0YzZ0Y2U5NlM4dzdTR2swel8ycnFuaTZYeURPcVc2RUVpdUQ4N09vSFQxOA?oc=5"
-      },
-      {
-        "title": "Sondaż przed drugą turą wyborów prezydenckich. Teraz Trzaskowski goni Nawrockiego - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlFXWTFIbzZCNzIzSkhzSzFjNktJUkFRZlhScnVJdjdGelU0TFBTR3VRZ0lRVE1sV1doX0lMSllLTlJxSWwtTHhVZE5qOHRMc3BFYVFpM1VsV05LUzREVzJDa25uNFFVUGdnZllGQUw3NXdoNzFaWXN2TXBBVmNlZG9WaWV6WlZ4Z194RnZmMGs0QUk1d0NWMXhwQ1RhaUFGR29pbzFZYkVSUmdZeG1JQXFXUkdkWWpwZ2JF?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki tłumaczył się z kawalerki. Sławomir Mentzen nie był zadowolony - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHE1Y1ljMlJZR2JHWXFjYThpeE9aTE9PTnFQZzM3ZUtWYWdVSWQ2cUtNVEQwdElrQ05rN19kMkZZWkUxXzFXX1dLTk4zMjZqeTBmaV8zUzhUSTJSMVY2aFdhTk1zUlI1TG9qS3VLbVIyaVQtSHMybmNySGUyYXZpTU1sSEpPSnlfM2o2RjZiOWI0SkpiODlldzBReEI0Sk8xRnJNQ0YtWVIteDhsM0l1TXk2VmdvNXo4?oc=5"
-      },
-      {
-        "title": "Katastrofa samolotu w San Diego. \"Wiele osób zginęło\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWV6d1JRck9ZWUp5aWtxbGY2aEJlVXJYc1h6Ri0zUmowRWRaaWdfS1oya21uN1lDem1SMGFvNl9Ubi1KbHBmdnN5clllbDIybXBGYjBOdmxocU9GX0k2RTJLZktLbUF0Yzg5cXNDdHZCS05hRkZRN0dua3E4Z0oybWxSOGgwZ0dnOEhpa1drZXZkWWZZSkNyRXdMS1FqZVNRaXRzakozRVFDRkZJTzVZ0gGuAUFVX3lxTE9MOW5nNjNZb1ExMkxkN0tJdUhGWWdwQ0RoTC1vYnBIR0c4czc0U0RkcW54TXJTb0tUeHJCUXl5MUdYNGg0c05JUGJoa2piRUhVSlY3MWs0SFRHVWNoNGprc2JQXzBDODlSckNOR2tDUnZQa3JxemRTbXlGWXFLMHdXYjBEaTZveHdjVW05WGRHTlZoXzhRNTF1OERRRWthdGxFTXM5YVBJMUF5aDJjdw?oc=5"
-      },
-      {
-        "title": "\"Strefa buforowa wzdłuż granicy z Ukrainą\". Putin ogłosił decyzję - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHdwdXZERXI3OTh1RHEyc2hIdUx1UG9qNF9UZkhoRmFIczN4QlFvcWdLQ1N3ZXRiOGpNY3hBMW5fMXFEQjNKRktyUllncDZwcHlMRURLeGEtOVMzVlQwRTd1RXFyUEhrTGJDdGJIX0R6ekRFdWFxcm5vb0lUa2p6b212bmM5TjgyR1dKRGtxcG1pd1NsZURpM202X0drcS1TTU4yVUNrcXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-22 21:11:01",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Jeden z dwóch księży zabitych przy ołtarzu. Ogłoszono nowego błogosławionego - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2pOV1dTTDNRZUJIbGRLMU1rbkFEaDI3NW1TQjFYb1JnM1RqOGktZy1QZGtOaU52UTJUQUdheXpESS1rS1RTY2lkOTJISExBOXJ5UFJrVTgwMG9rQUVPc05KRU1sMG1XZW1fSkN5WUlrQlVWWEtTNHBmSmttc0FUc2p5MTZNbTBqMFRKNkN0OUVZNXVIdGJaTGJqR1FDdkNZNDlJOVBfU2UzVW8tT3lN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-25 03:13:48",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 402766,
+      "DOGECOIN": 0.830862,
+      "ETHEREUM": 9348.86,
+      "LITECOIN": 355.62,
+      "RIPPLE": 8.67
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Trzaskowski, Mentzen i Sikorski spotkali się w pubie. Gorzkie słowa Krzysztofa Bosaka - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR0pibE5TdmVlSHhzWU5MWkUySmpDTGJQVkxrYWFOR2NkbjZObGFLd3AxMWRqRXNyOHZyeTNOM2M4b3RzME52MWlscUJYRFczUXhoMFpsYUFIbUpWZWc3RzJxTTNUNm9iQmxyMU9MUGNlU2RheFN3Rjc1X1UtT21HZTBsNmxCc1VGYzQ1cTdFTnlPVkR3dmxWcDRlTERWUFM4LWZlMFNiLVczNi1vSTRFMXNGbkF2c2VQNVR5Y1dFcWJiazFDUENNeFVfc09Ma3hEZzhac0tMTmlRdmtzZEc4?oc=5"
+      },
+      {
+        "title": "Frasyniuk o debacie Trzaskowski-Nawrocki: Nokautu w ringu nie było, intelekt wygrał z siłą na punkty - wroclaw.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnFzQlRYbzgtUEQyd3lDejEtd2hkM1diemh1enFZYXlJQk1Mc1BYZDQ0NHdoenNIQmxJSDNiWFo2S1Z2YnlsNGFLRTNTUkJaLUZEQk5iVzN0cG9heFh6WkstaXV2ZnB2Y1NNTDdva0xhY09JSW9keVhOMTFxODV2Rm4wYjREeHR3b01UQS1uSXpnVkpnV1ZjUVp4SllpRDQ0UVJaeVRNTndKNEE5SnRrdVZDQXpXbWtkLVhuYg?oc=5"
+      },
+      {
+        "title": "Kijów w ogniu! Szczegóły ataku dronów na zakłady \"Antonowa\". - Forsal",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0liVk1PYUR0dDhlUWdMcWY2cTlDcHR4VnNyVTljVWxERG0yLVRRNU1zTFZyNktJeWFVajBhMU9mZnBJOVpZcDdyNmtVRHBxTnByWm96NUZ3NEs4b0NmQUQ3UC0yZ2lCdHY0Z2U3TmhzYzM1c1ZkRmlfQnVmWTd5YThaVG9kME9ONm1wR1gyN2tqamhhSzg3d2Y1OUN3MXg4VmhMQ2p3aWR6Ylh6cWdvMldLLUY?oc=5"
+      },
+      {
+        "title": "Atak niedźwiedzia na Słowacji. Ucierpiał mężczyzna - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3Q5UWg2akhDRmdlcDF1X180bGdma0hTakpGWlpSQ3NBRWg4d1hOMW1GRkFzM3lqLTUweEFZRS00TmVjRVhGNUZ0QTYtSmgwVHpqMVRXalM5S1gwUjNzeHFUbFdjb1FWODJtZ3NVdXdJQ2tWXzd0YVBBMlRTSDFHY3dXZjhaaHQ5endsSVZTa2tNUjRWSjVSVjJUQzRWYXl30gGkAUFVX3lxTE9FODFlXzYxMWVyMnYtb1NzYWxWMFNnMzc1YW1qczVTbDM3dGxPZkdpNVRZa0hvODRTbklLZFlUMGh5SmtZRXk0UkFWMTNwbE9IcW1PVlc4NDNPeldCbVZ4bWlnUUVhVW5sLWJjMkJEbEI2MThEWl90UFpYS01NWGsxcnFNLW5sdUF5cFpEVlBJVzdrX084RUNOVDV4UHRmbXVyVUZ6?oc=5"
+      },
+      {
+        "title": "Nawroccy chcieli zakpić ze snusa. \"Śmiało, synku\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUxESW5xRnkzZVBuRzJVWGlJWmN0QW9mSmxzYnE5b3BTdUZmRW93ZjBoN0d2bFhYQzBmNENTc0JJUzczZWYzOE93elYtZktDREVtaXFkX1pqWTV0SG94U2xMd0hBWE44WnBxWTJBTl9ObEp4YUJhOWdMQUlYWFVld1UwRGpFRWN0Rm02bXFWaFZQU1BIOUdLY0tNSUU5dw?oc=5"
       }
     ]
   }
