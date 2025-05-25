@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-23 05:07:32",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7559,
-      "EUR": 4.2447,
-      "GBP": 5.0334,
-      "CHF": 4.5456,
-      "JPY": 0.026212,
-      "AUD": 2.4177,
-      "CAD": 2.7074,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 418193,
-      "DOGECOIN": 0.944373,
-      "ETHEREUM": 10182.43,
-      "LITECOIN": 383.77,
-      "RIPPLE": 9.26
-    },
-    "indices": {
-      "^WIG20": 2738.74,
-      "^WIG30": 3538.19,
-      "^WIG": 3538.19,
-      "^NCINDEX": 240.93
-    },
-    "news": [
-      {
-        "title": "Trzaskowski komentuje rozmowę Mentzena z Nawrockim. \"Kameleon\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnpNdUJmc2lNWTdMSVh6MEdvZXRid2UxWkhqTjlmbUlhazhXTXZVWm42SlVIT1ZsN2FNNm0wNmY5Z3ZOcVpkSVJ2ckdBWHQ0Y3RPRU9KbHI0VVJaVDA3TmZwN0sybTNvQzVqYklYUHYtaUF0T3YtXzE0UTJ5dUplU1dpNnBORnBvYlVFT2RDNVc2NnloQkg4clhKZXRDc29YNkhrc2dVWTRhaVk?oc=5"
-      },
-      {
-        "title": "Trzaskowski czy Nawrocki? Nowy sondaż przed drugą turą - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVdlRnBoYUROWXZIQW9semNNVUlPeFZ1YjVrWExkd0U5V0lJdDJ2LWpWZU9oSF9YTExUeU0tbFFvLUR6ZTZNMnRtNnE4emV3eHpMQUtGTlVEMzBHQ3lnVzVlT3kzMEJ1eDIzaFdmZWtWLVJieDBNUF9kY2lPZ0lodW82cGtLWE02S05zdWlySDFMWHlDU3pFVGlXaw?oc=5"
-      },
-      {
-        "title": "Ułaskawienie za poparcie? Braun twierdzi, że 'zaplecze Nawrockiego obiecuje mu darować życie' - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDFCSi1ka1h3ekJ3TVBlZjJDTWxvUDg0RS1ZQjVadnBfRFRGZnI5cFNzUWkxaTdPNHVSUWR1aUJHc1M3UFhia3dXWW9vMGlfODNRclUxSFFYM0JFdko4WEtjbGx3cC1ORWUtd2NBZk5PSVBBYUhVbUE1S3o5ek9QaEtHRWVFTFhEMnR5SnpoZzFFS0NfUEo0ZHowSDI2azZfNW9KTmRHWWZ5VEN4YndGakFJZHg5dEUwS0ZneWtaZVl0UnY4?oc=5"
-      },
-      {
-        "title": "Awantura na terenie Sejmu. Jacek Kopczyński wydał nowe oświadczenie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHBqdDJOOVNRX2V4VUtSbTZMZDJZQTlnWXVEa1BzZWdBV0llOFJRUnJXb3hDclBTM1lZMXA2STMyRkZxRWpscWUxZUJlQlBUel9TUm8td0ZPVmJzN19rYXFtR3VodEZmS3AxcC1GaVprSjQwWVpQeHVreUZlTmhZZEdheGo0U21VRXgtTDdPVE5MWC03cmZwZEs2MENFZ21IaHVB?oc=5"
-      },
-      {
-        "title": "Człowiek Dudy wsparł Trzaskowskiego. \"To problem dla prezydenta\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpxLXp0cXNEVjNGWlJ3c1A2YVpBU2YxM2JXTnJiQWZSS2lsUTFyRUtBSFVmOHNHT2NWUWYzVk01TllkZ0xkcC0yUFd6UVNxaVY4SVU3bUprUXJQT3RmNXlfcEFVSnU4UEE4cG9ic0VGdE1rUElYNG1JLUFHRmpUZ3prMXpzM1lkRmIxbmNjLWdKUEVlb18tZ1dINzE2UFlMVlNnelRxQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-23 06:17:13",
     "weather": {
       "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pojedynek na marsze. To będzie jeden z najgorętszych dni kampanii - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlyTk8zT0JfTGtDUXNZdUNiQmhxTjY0TjQwZ1RHRko1RV90VGw3cXcyRW4tWFloLWd4TE0tU2tHY2thS2ptR29JRjdiZzNIU0RFRkRfNUs2LVU2dXp6ZFJZQnE4Qm9aTi1taGVSblR6NjNoQ0VMTWJkN0dIVy1rQUhBcHFqZmkwOXNMcTNpQlBlVUY0U2xrSERIY1F2VlFCbnpUYUpzR0Nlekc4N2E3blRBUHU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-25 11:12:54",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 401267,
+      "DOGECOIN": 0.819238,
+      "ETHEREUM": 9291.54,
+      "LITECOIN": 353.44,
+      "RIPPLE": 8.58
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Ósemka Mentzena. Nawrocki kontra Trzaskowski. Co ich łączy, a co dzieli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXFwV2g1Tnd3VHZKWmVkTm1ZY01tQ0FKZ3JtQjhadHY5MU01OV9hdzNCNTgzcU1IRl95Z19uaU5pbDdVNWpQMzNjYTdDYlVnbnZJNDk1dHJvRUwxc0tFdlNER1J2MWtpV21qNUJSMVU2WVY5azVBRWlCSGxkMW5lTUdmM2k4NTJnNmQwd1Q4Zm94RHNudm56ZlB4Z0JmNkZjeFo0bm5fcFNVbnlXa2syN0xPX3BTLVVBOGc?oc=5"
+      },
+      {
+        "title": "Zmasowany atak Rosjan na Kijów. Polska podrywa myśliwce - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGRZWkdtWXlkZ1owWThoZXB3bERVODQ0OXdhT2xuYnlvVjJoVVk0ZWNGekN5OTEyQmF3c3hSM3c2Ul90NFFiUTN4TXpRb25GUmhoUmRMVHFjWnNjeXgxUnpTQUhyaU9JQkt6T01JdGEtOVVtQ0d1UU9icWs5eGRHSXNhQm1TQXRhLUtCQWtEYUp3RXU3TGdxNG1QMzUzMjBISU1oWg?oc=5"
+      },
+      {
+        "title": "\"Nagły zwrot\". Czarna wizja po rozmowie Trumpa z Putinem. Foreman: postanowił ratować własną skórę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzVSa0F6cDBEQ0xZYzNIR0kxR0dXbDA4VGxDSDJMV3JkQ2c1MW1PRlV6NUw1VnhaeVI2LWhuLWR4WmtWal9PaFk3RzdHWm90LXFILXFoa3ZULU5CdHdVZ3psd2hSbzZqcHF2Tm52SXY2QVlldHNyZ0VjelF1bTVoZThmRzRKcmRXV1NXT2RCZnctQ3BIc0E?oc=5"
+      },
+      {
+        "title": "Pojedynek na marsze. To będzie jeden z najgorętszych dni kampanii - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlyTk8zT0JfTGtDUXNZdUNiQmhxTjY0TjQwZ1RHRko1RV90VGw3cXcyRW4tWFloLWd4TE0tU2tHY2thS2ptR29JRjdiZzNIU0RFRkRfNUs2LVU2dXp6ZFJZQnE4Qm9aTi1taGVSblR6NjNoQ0VMTWJkN0dIVy1rQUhBcHFqZmkwOXNMcTNpQlBlVUY0U2xrSERIY1F2VlFCbnpUYUpzR0Nlekc4N2E3blRBUHU?oc=5"
+      },
+      {
+        "title": "Frasyniuk o debacie Trzaskowski-Nawrocki: Nokautu w ringu nie było, intelekt wygrał z siłą na punkty - wroclaw.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnFzQlRYbzgtUEQyd3lDejEtd2hkM1diemh1enFZYXlJQk1Mc1BYZDQ0NHdoenNIQmxJSDNiWFo2S1Z2YnlsNGFLRTNTUkJaLUZEQk5iVzN0cG9heFh6WkstaXV2ZnB2Y1NNTDdva0xhY09JSW9keVhOMTFxODV2Rm4wYjREeHR3b01UQS1uSXpnVkpnV1ZjUVp4SllpRDQ0UVJaeVRNTndKNEE5SnRrdVZDQXpXbWtkLVhuYg?oc=5"
       }
     ]
   }
