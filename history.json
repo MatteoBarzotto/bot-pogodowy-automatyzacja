@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-23 11:14:43",
-    "weather": {
-      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
-    },
-    "rates": {
-      "USD": 3.7559,
-      "EUR": 4.2447,
-      "GBP": 5.0334,
-      "CHF": 4.5456,
-      "JPY": 0.026212,
-      "AUD": 2.4177,
-      "CAD": 2.7074,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 416493,
-      "DOGECOIN": 0.922111,
-      "ETHEREUM": 10020.12,
-      "LITECOIN": 378.68,
-      "RIPPLE": 9.17
-    },
-    "indices": {
-      "^WIG20": 2747.52,
-      "^WIG30": 3549.78,
-      "^WIG": 3549.78,
-      "^NCINDEX": 242.77
-    },
-    "news": [
-      {
-        "title": "Liderka Partii Razem jednoznacznie o Rafale Trzaskowskim i Karolu Nawrockim - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnphZldyUEVUY3cxTk5UbGNQTmp4dnIteWNkc1V1X3RDemFmdkFhcW1vdS11ZUR4MDJtdFhwSThUbVhOUUxZeXlrOWgzZGZCTEZiUERjYS1Na1FYSkJRNldBYml0b05TNkF4QmlfeV85UjZPOTVnTmNuOHdVUWVXRFk2YzZ6Q3p5ejFEaG9TV2wzT21DczRlUWhlR2NNOElUdjFyRUkxN2dNVXo4NVhuZGQ4U09wcEtFTEluMTdiUng4OFF3aEhtanBKYw?oc=5"
-      },
-      {
-        "title": "WP: Karol Nawrocki brał udział w kibolskiej ustawce w 2009 roku - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnhTdTVMbEotZzFZMm43NURUeVkzaFFLQjZFZDIyZUVSWFN2WXhaWDdEYzYzTEJCSHo5V2p4dXMza21mVWNmZVp4VHV6R0NrUEZ1akVLOGFZMENZaTlnVFdyZ2FfaE9KbTJfY09McmRWei1uenJoV3lDUkwxZU9mY3poSk83UF9JcmRpZU1FRXBVZVB0bEdhZlNGZkxGRElhNV9tc3d5TENIaWlHUEFRRDN5TC0xUU9yZ2N3dnVBREFBNnPSAcIBQVVfeXFMTTJ4V29lVjZqVGQyRWd1RGFPT21ENmpSNnU4TnlQN0h6SERIWVoxMk5ZVTl2dWViWHg2UG5CUVF1c3hQcXNod2hta3pYZ0NOQ2ZkV1lia3JBZExnT0pobVJvT3o0cWlJdTJ6S29zNXg0QlhLREFGZkVOc1FIcGVjYkhWRG5sNnFzaHdWTUx5QkxwdUtRSUQyY2xjQk1Jd2Z6NDZXUi1XMzZmQk1BM0JLazdnc3RRcHpCZlJFc296NWhJc3c?oc=5"
-      },
-      {
-        "title": "Ambasador Ukrainy o deklaracji Nawrockiego: Nie do przyjęcia - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOGU3ZEY3OG1TUXZwLW5jWlVJTWJmQl9PREdBZFg2em1TZkZwLVU4U2dGRzgwUTJTY2NKWnlMQkxITDJNdVlFUHpSOUQ3dkV0TmtpcjNJay1aOVBENXZCdUVlUW5uVUlKa0RvWDg0YTFsTE5ocEtDTFVRemplZ2lmdlVULUNpR29fbHdSQ0h0Rl9IaTFZZW5pOVpHdkVpZjBMbHBodzhXbEw1YkVKZWtJbTg0UnBhaHVRRW10cHRxOHYwSGl4UTFuNFd4eU5FaFFPdHQxX0F1RmtodVU?oc=5"
-      },
-      {
-        "title": "Adrian Zandberg ma \"pilną\" propozycję dla Rafała Trzaskowskiego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU9NVXNnel9fUGZKV1ZJb3hBNlcycW4tRm1sQ2xpaVR3a3VxTDRNTWU0VllnTkhHREpWSlpfZ0hrdEVSQ3pQOVpPeVduTGlEc0NCdzZrT1AwMGpMVGxhcm9uRWVQaE9aOFgtc3prWXVRRml0MkJHd2dzanZieThTYTdmREZ1bld2Wl84TmhMREU2NUJVVDdaZ1pDWW5BVVR5UWNrcl9XbEZhTUpCSUR5UQ?oc=5"
-      },
-      {
-        "title": "Ułaskawienie za poparcie? Braun: ludzie Nawrockiego obiecują - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM09aSDgyS0pyYVY3dmJoeHZianlXbTJyUGw1VzFpa29mVFhRQWoyazFEeTdoVV9ITWxaSzM3Ml9PVUJISkktdVhtdEVXVGMzZ1VaUjRpXzMwa2lZMnZzSmIyTzdSVTVkS1d6bDBkdW5QQkctTWJCV2VsT25FenFNR0FvY2VfWEhPSGJDZXdXRU5qbDRfX252QXNuaW5qZ2laYWxoTXBR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-23 12:14:46",
     "weather": {
       "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zmasowany atak Rosji. Zełenskiemu się ulało: to zachęta dla Putina - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0VrX3F6c3NhQ3UzVHFwYzV2ekYwSXIxQ2YtQ296VDlIZEhQVWdIOElIRjZ0QkwyVWtJbGVBbjRZRjlMVWtqYm5Rckw4RmpQS05sZE0yUWlMenQ0OC1FN3p1bzFKMGFOeFlOa0x5MXM4YU1TdUtmWlRWQ1RqTjRLTmRITWJvVU53U0VCMm1CQ1FqcFgwbEF4RzczcXdRek90RWpZVnBhaXIycnRqVlF2RXIyTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-25 17:12:29",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.7506,
+      "EUR": 4.2541,
+      "GBP": 5.0587,
+      "CHF": 4.5392,
+      "JPY": 0.026172,
+      "AUD": 2.4206,
+      "CAD": 2.7145,
+      "CNY": 0.5218
+    },
+    "crypto": {
+      "BITCOIN": 402126,
+      "DOGECOIN": 0.818752,
+      "ETHEREUM": 9385.32,
+      "LITECOIN": 354.08,
+      "RIPPLE": 8.58
+    },
+    "indices": {
+      "^WIG20": 2716.88,
+      "^WIG30": 3508.05,
+      "^WIG": 3508.05,
+      "^NCINDEX": 243.28
+    },
+    "news": [
+      {
+        "title": "Dwa marsze przeszły ulicami Warszawy. Trzaskowski uderzył w PiS. \"Lepszego nie mieli?\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmEzWThfbklMcTU2d0hET0pCQ0VWYmhXTnJUc1NYR2Q3LUFZbWNqcGdrU0VhTHlKZEYyQU85dEpYTTBhdlJhb0FYZ3VfVWx3TDc4MWo4V0hZbld4UWJYQ0hNeGV5QnhWUmF4ZDhtUWJtV1BVYzAtTi1MZGxLanowMGQ1TzcyN2pQelo5QnJfUE9vT2NEcTZPN1p1TnUxR1UwbTU3ZF8tTFozemdWRk9CamNna0UwdWd0S1AzRm5B?oc=5"
+      },
+      {
+        "title": "Piwo Trzaskowskiego z Mentzenem. Ekspert o wpływie na wybory - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2FEV2k2c0FRZEg5Qnc1eUVoQVM2UkkydUItQXd4T1hjLUdkcldWM0JKbU1BYWg3ME1DVkFfQVpDck5YMjFTdmRjZXZTZW05d0xOVGN4cldiS2lKLXE2WVlFMGlneE96ajJJR3VjLXE0MUJYTTZFRWZ6ekV0cUlhQzhCRnYzbEVRenFEcnEtS2JhSTB3NDBkMUxCOFQwamlpVV9DSQ?oc=5"
+      },
+      {
+        "title": "Kierowca rozpędzonym BMW wjechał w tłum ludzi. Rannych zostało 13 osób, śmigłowce LPR w akcji - rzeszow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckVhTnMwM2FvZVlRT0h0ZFlDY3JGckJEcmlQcnRMNnh0VmRqNTFlb2drcFVtUmsxREtYSklGRi1zMkdNV2ZIRGRoQ25TS2tXMW11N1p2VEFVcGRWRTc2Ymg4Qzd1QVRReXFMNEg4ZEdkZnZfblB6VG44SkVaS2k5MGg4bFA5S3BNLTI1aC1LSXVldFgwQ244aVgtdXozZGFlU29Ud0YyZER2VlhnZk52QTlIbU1hdw?oc=5"
+      },
+      {
+        "title": "Joanna Senyszyn skradła show na marszu. Przekazała \"insygnia imperatorki\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmZpUWR3eFY3MHNjTml4QkxJal8xa3Bybnp2cHpJV1lHNWJGbVJZYmlTLXA0dDJhcW9TZlZsRGVMdWIxRmV2WFFfVlVDTFBvODBOZ2FhQk1ZTkJyRkc2YU10OWtIUjRkTnRZdVlvS096dFFVTlc4dVdnQ2g0X2xLSzVwZ0x6amlPN01sOEhlaDBhTXEwTlpCN1c5Y0xUbnFUVU15Q0s4YThoUklJMVFMenN2di1XRmFjQVE?oc=5"
+      },
+      {
+        "title": "Przemówienie premiera Tuska. Padło słowo \"przepraszam\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUZMVmYtYUJIVWF5SjVsVTlVVFZFZGZ2S1UwWVZ1UFZNTVZkTEFuNm1WM3dTdnBQMDU4Ti1SQXNXRW5zMy1qYjFGaFpKTzRuLTVCWnEya29IcVZxazRacWs2QWh5WFEtQ0FEc09hUjRpQkNBZFNHUF9SQzVNaFVFLWhLcUZCeFdKcFRKZVB5RWE2cTktZnZXR3dqVTdmUm9nM0Nn?oc=5"
       }
     ]
   }
