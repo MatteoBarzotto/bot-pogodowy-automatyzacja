@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-24 13:10:12",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 408890,
-      "DOGECOIN": 0.861848,
-      "ETHEREUM": 9641.78,
-      "LITECOIN": 366.06,
-      "RIPPLE": 8.84
-    },
-    "indices": {
-      "^WIG20": 2716.88,
-      "^WIG30": 3508.05,
-      "^WIG": 3508.05,
-      "^NCINDEX": 243.28
-    },
-    "news": [
-      {
-        "title": "Po debacie Karol Nawrocki proponuje Rafałowi Trzaskowskiemu „test na substancje” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXZWYjdIVjZGSDhvSktOSmxUSzh0ZWQzQ0dMLW5ZeWsyNmtsRTU2TGFvMkwwVzRnRTRKUWdCcTdKeDJLbVZFY19aVHpHU2EwR0NKaG5GZjdrbDRmM3J2dHBrOE5aMTBxQ1BENThUT2NxRi0ya1VRaThKb1RTWmtaX2w5dUlwREdsdzNHOXBiZTRYVDdmemxnUHhXaVNFRjRBUzIyN0paZGpwY0pya1htMWR4N2M0Tmdv?oc=5"
-      },
-      {
-        "title": "Jedyna taka debata przed drugą turą. Pięć kluczowych wątków ze starcia Trzaskowski-Nawrocki - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGFsbzc3MVJsOUlnZUZVYzZEWWh3NWd3LXJRTkl3T29oS0VXRWtVVnJqU0RZakRsejBPWVVhRG9URTdZZV93LXJJNVRJMkdFbEdVTnU5eXFxU2lDcERWcWxpODc1eG5hc3ZaWG5pOTFkV2hmbEltUl9tN0N3UFBHd1JSZmZ0a3YxZXJLd3dDV2VoSEFvbXBaM0xqa0pqc093dktSOHhPV25NLXpVUUkxaTZ0VW52akRlWkpfOXp1bDQzbnJoYnJpTElsaUNscm1CRmVOWUlsbUtPYVNDelE?oc=5"
-      },
-      {
-        "title": "Zderzenie autobusu z samochodem osobowym. Lądował śmigłowiec LPR - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWtMckxaMm5iel9jQWJtcVhqVW9oRmNhZXY0Qm1oQ2VuZng1YVlVX1NqdjlmNWRyeHk1Z25pSHBlV2MzQjhZUmRTWEZEemJibVpLYWRrS3QxYjJ5a25fMW43dGVjOHhKa2Y0RkRSYmRFTFVkUDJwQ09nclZTMnQ0WThjVFBfZGVGZ1A4d3pWNk5hNGR1aHpYQnhkZGota09kb01YSjJWeERrMjBwVWt2R3dQM0JlWG1lak0xTmN5SHNQQQ?oc=5"
-      },
-      {
-        "title": "Sebastian M. w końcu zatrzymany. Komunikat szefa MSWiA - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFdjRWJnWjBpX2NacWE4cjQ3ejJnMGticTRFeE9VZkx5TnN1ejZuZWVIRkVFNlFKMWYyYXJMTkE0VWdubGtza1pZWDBtZFhIWUlZRnRTR0RvbUpJWm9Eek9ldVFhMk1wakdLLWJROGtEei1oV214dXVvWG5FczY5WUc5SUo1VDI3a3I3NzJ5bUE2Z1ZNLWV6eXZ2Rmx1X0RSd0JUWA?oc=5"
-      },
-      {
-        "title": "Nawrocki pytany o ustawki i tatuaże: Przetnę tę dyskusję - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0I0OFIxdVdMb1A1TlRuMUJJcVN1REh4LVlHVFBlRXdicU42YTN4cHRJZnFkR2dGZzNoempJTVRaU25EVTdYOEtYN0FWQVhYdmgyZEFHZEQ5T0lrcnhIdzRPWHFGZ2pKZkFld1VJQU1ucC1rZUNfekQ5VV82aVBlODVkY3pDeXkwWVhFYVo0b2lmUFRQNVNnUnFn0gGWAUFVX3lxTE5PSFUxcGo4ZU9INkNvOGp6WkZSRFR3V1lSMjU3NFdmdUYycHBIRVU2cGMwR2U5X3lXSElEVGZrbTZiUzFIeUJkd0hOUmpaYkFyNTdIUlpONUlGcUlzQUFaU3NyX2dtaXZES0pHajhyeXluYUxfdzRhblVYbThrLXdnbGRRYl9SVExwUVF0bXdhWlNoNDRfQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-24 14:24:27",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Adrian Zandberg reaguje na nowe informacje o Karolu Nawrockim. Apel do kandydata PiS - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWUhaMnZWVUtIQlBWcW1oaU5PZFprSFM1TWMzd0NsdzFsdEY0a0lNS01NM25WNEhkUHg5bXgza2luV0ZIa3dVZGt1bFZRR0xCTXZGSGNLOUlWRDFCbnY1Q0NBVDZoREx2b3JpTmYtX0Y1dTB3WXdYakN5UU8tb1BOYjhXZ0ZpeERFYXFGekhadnVJcXMzczZqd1E2ZklCN2JHLWdIeG13RHRLZXJvbHJvNkpISDdOT0RsZ2E5M2w3cm1CaEM0emMwRDZ0X0QtV01VMWNF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-26 19:11:55",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7344,
+      "EUR": 4.2514,
+      "GBP": 5.0651,
+      "CHF": 4.545,
+      "JPY": 0.026133,
+      "AUD": 2.432,
+      "CAD": 2.7231,
+      "CNY": 0.5196
+    },
+    "crypto": {
+      "BITCOIN": 407921,
+      "DOGECOIN": 0.837268,
+      "ETHEREUM": 9485.44,
+      "LITECOIN": 358.02,
+      "RIPPLE": 8.63
+    },
+    "indices": {
+      "^WIG20": 2792.0,
+      "^WIG30": 3602.86,
+      "^WIG": 3602.86,
+      "^NCINDEX": 245.87
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki i tajemnice Grand Hotelu. Źródła Onetu: uczestniczył w procederze sprowadzania prostytutek - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcWpIUGN4SVRnRXhvMUZVMXNJTV90REUzb3VZd2xERVlwSlc4T3h6WnZRQnNJVVJlelNUa2kybDRkYTYwRFFfaXByNlpfR29FZFRMdjZCZzM1akVEN2VQaXc4M3I2QmZIVVRoZXJrUkF5UE42QjVyQ3VNVUpXYVUtNWVHUjNDbXp5TjlWTEdiNWNjNWtET0gtMTZYazVESkk5LTdJRDhOMW1TcWhqQmdGQU1FanZxTV9PMzV5Tm1MRWF2NFlfc09EYmpScXg3Q0F2SkthSTczbw?oc=5"
+      },
+      {
+        "title": "Braun komentuje spotkanie Mentzena z Trzaskowskim. \"Sam zauważył\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFlzVk51cHQ0YXhhRFFNZVhwM0ZoTWdOZUt4eXIydVpYanZlbFNnTC0tTjE1X0JCY0thU2NzMmpQZ1ltVXhRTEw0akdfMGd0Ym14SG05NWJlM3pFSHcyZkpSWVprODhnN3JyUzQ4ZXJYWGZxYVNMUkRXQzVJOGFzUVJwbzVrYXkxajVHNVV5dWw4TkFSTzNoSzl3bHV2WENOUG9qQVRZWEQ?oc=5"
+      },
+      {
+        "title": "Trzaskowski czy Nawrocki? Zdecydują niezdecydowani [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnlTS004dWRMNXBMSkhZRnUxN2ZzcTduVDVGZEZuX3NVbWItM1YtUk1xYjZBSW5uU04yQjktRGhDOTRiX01saEVwaEpmVUxIeWc4aW03T0E5WTFHWFoxeVJ5Vnc1eWFOX2w4RnplM2FDT3pWb2hwcjJSb0ZtOFpxMkp5alh0WE9HWnk1X1VpQm5mcnZyWmJKQVltZ20zajgzV3AxM3B2TENnZw?oc=5"
+      },
+      {
+        "title": "Duda: Prezydent nie może mieć nałogów - Gazeta Prawna",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejVzUzE2b0F5eUVJSmJFbEF5U3E1dlhnNzhKZk11Q2dvNW1CNWpUaWhGRFZaU0RWWk8wYVR3Sm5oYVdpZG9PMkUtQ3lvWGRhTUp0NmVqUkZ0cnBWRjM0emNScm5HSE5jT0Jka2hzNHBsTW1OX05mRFpuZEpBZkkxenIwTVZIVEIzT3Z1X2NLRWFlV05JUG1xbmlMal84M0NKVzJzTg?oc=5"
+      },
+      {
+        "title": "Sebastian M. wraca do Polski. Jest właśnie konwojowany samolotem - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZURrTDh5MVFsdXh1TUFVc20tSGdPbWJvOXJTZVlUZU1OUnZhd2ZESnR1WXRUcmFwWUFOd3VSX05MNlhDd29oZzhTZGJFLW5sSF9ubE5IMHVCN0N2clNyMGkxRmVQc2d2ZXBRNkE5cGstd1IwdFEtbi15WU9jR1BrMFJOUlh2R3UtaHlFcGtEcUtfUm5OdUl1V2FZVnF0LVhsaHYwZURxSTNyX01ocm1GX1RNSQ?oc=5"
       }
     ]
   }
