@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-24 15:22:24",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 407699,
-      "DOGECOIN": 0.854101,
-      "ETHEREUM": 9580.67,
-      "LITECOIN": 363.37,
-      "RIPPLE": 8.81
-    },
-    "indices": {
-      "^WIG20": 2716.88,
-      "^WIG30": 3508.05,
-      "^WIG": 3508.05,
-      "^NCINDEX": 243.28
-    },
-    "news": [
-      {
-        "title": "Rafał Trzaskowski odpowiada na propozycję Karola Nawrockiego. Chodzi o gest z debaty - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEs2R1RXVjcxXzU5TlVxdGRjMXdxa2hFd1A1YUpJdWNLWmdISnhsbHdBd0VFSS1VbU5VMzNLRkd4ZTE5QkJFd1dHVWJaelc3TWZxMUtaYU85WnB3MHg2YzdXcVREbGJqVDdWY2U0SDhncHFzNVQtRmJaSUpkS1YyUEFEYndBVzljT3VPVGhPcm42bkc5VzBuY0g5QmNsQTdtNVR6azgzQUZ6TmtfQThmU1BaeGpIV2E5ZV9uOWdXYzNDeGJqckdIUXNvZklWUENYLUUxNEc2MlV6SThyNjBv?oc=5"
-      },
-      {
-        "title": "Jedyna taka debata przed drugą turą. Pięć kluczowych wątków ze starcia Trzaskowski-Nawrocki - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGFsbzc3MVJsOUlnZUZVYzZEWWh3NWd3LXJRTkl3T29oS0VXRWtVVnJqU0RZakRsejBPWVVhRG9URTdZZV93LXJJNVRJMkdFbEdVTnU5eXFxU2lDcERWcWxpODc1eG5hc3ZaWG5pOTFkV2hmbEltUl9tN0N3UFBHd1JSZmZ0a3YxZXJLd3dDV2VoSEFvbXBaM0xqa0pqc093dktSOHhPV25NLXpVUUkxaTZ0VW52akRlWkpfOXp1bDQzbnJoYnJpTElsaUNscm1CRmVOWUlsbUtPYVNDelE?oc=5"
-      },
-      {
-        "title": "Sebastian M. zatrzymany w ZEA. Trafi do Polski - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ21HS0dEY0FSYnFJeUNTQ3RTVTRnS2pFOENiRjJmdGRwOFhCYXlEMDA1eWlCSDJFallndVF0czJRd2YtVXl2N0lkdU5zVXd0X3pnekJhZEdiNTN5cVNaZDNFN3ZweTY4ZS13QXgtcU1sbUdZR3VRSnhDckd2MXVUN3k5bi14aG5FR3duTkhVVlY?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na Mazowszu. Dwie osoby nie żyją - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUdHTGRMUE02OUdFb1VGdW52NTBvZlpGUVBEaWZpVmI2azhFMzhnYUhOS3VqRzdGVnJ3RlpvMEEtazFmZHhtdmZxRzlmMENBQTBxM0pJTkF6d195SE9HWWtfRjJyanFVbncwU1JicnVGR1NjTER6eXZBSkhFUURSNXhFUW5pMFpfejRoMlhpd1RQdEFtV244aDVHZUY1bEZaRjRSSw?oc=5"
-      },
-      {
-        "title": "Pojedynek na marsze. Mamy przecieki z obu sztabów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0xPN2pDNnVYUjdQR3N6OUtZSEJna3RacVlhRVRFeklIOVRsTWQxckQ4dkVFU09qUy1aTmVtVFRuU1QycUNoSTFKa2ZpMXotYXJtalMwNzhaY2hXZ3YxWm1GSUdhX2gzRU10V0pfRDA2bGZGMlliWFJ1SVMwYV82eEFYaXZFcm1SMThWT1BKNVA2ODZkMUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-24 16:11:26",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trzaskowski czy Nawrocki? Zdecydują niezdecydowani [SONDAŻ] - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnlTS004dWRMNXBMSkhZRnUxN2ZzcTduVDVGZEZuX3NVbWItM1YtUk1xYjZBSW5uU04yQjktRGhDOTRiX01saEVwaEpmVUxIeWc4aW03T0E5WTFHWFoxeVJ5Vnc1eWFOX2w4RnplM2FDT3pWb2hwcjJSb0ZtOFpxMkp5alh0WE9HWnk1X1VpQm5mcnZyWmJKQVltZ20zajgzV3AxM3B2TENnZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-26 21:11:05",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.7344,
+      "EUR": 4.2514,
+      "GBP": 5.0651,
+      "CHF": 4.545,
+      "JPY": 0.026133,
+      "AUD": 2.432,
+      "CAD": 2.7231,
+      "CNY": 0.5196
+    },
+    "crypto": {
+      "BITCOIN": 406572,
+      "DOGECOIN": 0.833631,
+      "ETHEREUM": 9454.07,
+      "LITECOIN": 353.34,
+      "RIPPLE": 8.59
+    },
+    "indices": {
+      "^WIG20": 2792.0,
+      "^WIG30": 3602.86,
+      "^WIG": 3602.86,
+      "^NCINDEX": 245.87
+    },
+    "news": [
+      {
+        "title": "Samochód wjechał w tłum ludzi w Liverpoolu. NAGRANIE - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzNLVGQ2OE11akg5LTRUQlc4Q1BmSEN6OEJjSlRpRFkzRG5kNmZQb2F5WHBuS0tpVGtWSFNESjNXOWprSTA0NTZJdG92eVU0Z1d3YUthMFVWX0poU1JlQnlDUC1ocmYzUzk4aXI2MWZ0ZlJCd2h6MzBpVUgtRFNocnFSMGtNaWpNMEdEN2xFdGFwY3VUY3dyTzRjd25iMF9sdlR30gGnAUFVX3lxTE1EeVZueWIwdlNDQXFzbmZJNXFDdTdNY2I0Q3pRM1o1eWNpYWhMRERPYjFEX2FIeTlrNUxfVGpobmVwZFZZZGpIcU9ZMHF2WUVPaFNxYlMxcTMweFZKQkY4cHdOOFFLdG5WalVVS3lhNDY5VXVuSWwyWjV4T2lKN3lYMTZtZVQ5ZzRlM3hlaGpkbnh4ZGJoYVV1dlBzcUs4S2pieEozU1Rz?oc=5"
+      },
+      {
+        "title": "Dlaczego Karol Nawrocki nie wybrał pozwu w trybie wyborczym. Odpowiedź jest prosta - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMm94RkRERW1MWWVZRHpNZ1NCdXl5TzB6czdFQkI2YmpRUEJJb3dxSlBGZmk0NFprWmxkVUgxWUc2MUNuWGc4SGhKT3E4OFoxUldod01BOTlVczNWMWJvU1VLeXB2dmkxMTVLN2FrZnAyaDc5QTdYUFVhSU1FWXo3S1RtQTQtTFY4aDY0MVdiRUNRUi1pa01YRnc5dEx4TVRwNEpJenpBcHM3aTZSYlFpS0Jsaw?oc=5"
+      },
+      {
+        "title": "U niej Majtczak robił zakupy w Dubaju. ”Pamiętam tę twarz” - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzRDYjBEUFBKQUlFSE43MW5HMXRQajVVMFQ2cHNPU09tRHhtSmJtYUdPVUpXWkNKMjRzSHBVdDhYcDMtQ3RUM3ZVR05FckNYd3JPQlcxeWZWbmxRckNqOE1fYWlYdUg3M3Zzc3hSUy1MOUN6S19lXzhPQUhZYklJYmdiQjV5VmJMalVkbzhIOThXa2IyWlVVOTVjWjg4cDdla2xFTWFmaXdrMy1DVnkw?oc=5"
+      },
+      {
+        "title": "Kryzys piwny w Konfederacji. Mentzen oskarżany o zdradę po piwie z Trzaskowskim - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GYkI4cHhmd2RYbW5CRm0zUWF3amZIX2NZem1hbUxlaVVaSEJGSzcxRDJrVE9yU0tJZzdJbzdzN3hoTFFKaFZuWTFGQlpQVHd0R3dHNmszLXdFclIwMUJmS3lacFZoWDB1QWRrenVsNEF3eWVJTnZMcmQ2SW0?oc=5"
+      },
+      {
+        "title": "Tusk zapytany o test na narkotyki. \"Jaki problem?\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS05XRFNBeklkaEkwQTJQSm13OU1Wa2xfc1cyVFJHb3JzRm1fZjAxcFFTVWVRZWZEcHQ4a2x2dlA4UHRtWEQ4aG1QNllWVS1nMFVvcXNSSEttQTRKYmlFejdnNy1uYXd3bEtRaGJsMlZaaGlYS1JtelVNcklKbWNvX1hzYTNSV09jRmxTUFpnSFB4WTJibTh4N3hTX3dNT1o5OTNoSWxJWU5BeE0wQkhiemdBUzR6NV85?oc=5"
       }
     ]
   }
