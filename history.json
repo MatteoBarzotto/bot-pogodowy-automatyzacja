@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-25 09:12:28",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 404174,
-      "DOGECOIN": 0.834486,
-      "ETHEREUM": 9386.01,
-      "LITECOIN": 358.86,
-      "RIPPLE": 8.69
-    },
-    "indices": {
-      "^WIG20": 2716.88,
-      "^WIG30": 3508.05,
-      "^WIG": 3508.05,
-      "^NCINDEX": 243.28
-    },
-    "news": [
-      {
-        "title": "Emocje po wspólnym piwie Mentzena z Trzaskowskim. Giertych komentuje: głupcy! [RELACJA NA ŻYWO] - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1FBS29oVmNfYmVUNFZQY3ZwbFo0bEd6dndleFV0OWxfZldZSEpfb2NhWU5Vc211VnAyc0RrbWtyQTNQZld1V0ZJNXJaSjVPZUEwQVFqdWZiLXFMNWh1bnNjSG5jTWhRRU5jY09YNHQtaU1lV1czOGY0SnhlLWJFQkJrNHo1LWt5aWVETVhQRmFhR2REV2tYOXpYYjh1aVh0dUVSWWtZNXZlYjQ0OW5ZN01OTUFUWlQ1d0NtUnlR?oc=5"
-      },
-      {
-        "title": "Zmasowany atak Rosjan na Kijów. Polska podrywa myśliwce - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGRZWkdtWXlkZ1owWThoZXB3bERVODQ0OXdhT2xuYnlvVjJoVVk0ZWNGekN5OTEyQmF3c3hSM3c2Ul90NFFiUTN4TXpRb25GUmhoUmRMVHFjWnNjeXgxUnpTQUhyaU9JQkt6T01JdGEtOVVtQ0d1UU9icWs5eGRHSXNhQm1TQXRhLUtCQWtEYUp3RXU3TGdxNG1QMzUzMjBISU1oWg?oc=5"
-      },
-      {
-        "title": "Nici z pokoju? Media: dzięki Trumpowi Rosja pewna siebie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEpfTFQzV3J6OGt3Y051RVBBTjZmOXBiYXBlakFvSTVmQmIzN052QmJPWWxPNHl5d25LTVh2c2JmWXVCRlA0Q0MwZm10bEpsV3RpZXJPYzNmbFNOZjljUFQ2MnozajI0RlRpM1d2MjRfLVpaeXBnWlZ1Qk9zVXZIR3E3MmVPdUl5Tjc2ZlB1Nld2RTd5RWVYcXNCMEt4bldKVWpkd1BMWTFOMmcxWWU4RkpZWHU2dw?oc=5"
-      },
-      {
-        "title": "Plakat na Wielki Marsz Patriotów w niedzielę w Warszawie. Chcesz silnej Polski w silnej wspólnej Europie? Wydrukuj i chodź z nami - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnBvanNVRkdBdDY1anBSajR4NVRzWjZVVjkxejYyQ1BYbG5saGEzc0JUQTk1UXp4MVIzOHdzTGw0bHpPbTE5d1E1X3FkMmJDUWt3eHhIY1F4MlhkTWR4ZHVOdkFWRW91dl90YllyQ2hhZG1HRVZtSU5UclFUSkZHbC1jVDI?oc=5"
-      },
-      {
-        "title": "Kim Dzong Un był wściekły. Aresztowano trzech członków stoczni - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUURuRWxYUU9jazRWWmpIN0VmbXI5d1JRbEdPemVlZVZwdzhxdm1NSm43WFMyRUJkZmVtaWVHczJ4WHZPSlNFaEtnOUlGMWJvazFUZFN6anRVUXJmbVpaZ1Z3SFpoZ2FrMDBnRGdWbUMxNUZYYk94SEliYmszT3VCNlN3a1VzVklUaUNiSkl1d2xxNzRVRU9RYTR3OFVUbXRQbDltU3Rqc0JWREZI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-25 10:16:04",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Chwile grozy na pokładzie samolotu z Gdańska. \"Ludzie modlili się, płakali\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejBKT3VDOHVEREhMdWZWTUpKaW9TcjU1WG9vb2kzMHRST1pqR3p0MHY5bE9PSWh1TlBfRWsxS1Zlb0paTDFoNVhPUDgtNmljaEhJZUs4Mk9Xcm8wcXUtZktfTG1UWnUtYVRkOWt4MHdhOHo0SVFpWHlYYVRsWnVHZUIxSlBTekJYdVpSU08wWTk3OGxMb1l6cmhaczdtYVh4T2xvd1RRR2F3aFdvQTUtOFlLQngyY2FCTGZR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-27 15:28:08",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.743,
+      "EUR": 4.2479,
+      "GBP": 5.0664,
+      "CHF": 4.5369,
+      "JPY": 0.026017,
+      "AUD": 2.414,
+      "CAD": 2.7198,
+      "CNY": 0.5203
+    },
+    "crypto": {
+      "BITCOIN": 411527,
+      "DOGECOIN": 0.862527,
+      "ETHEREUM": 9942.44,
+      "LITECOIN": 359.95,
+      "RIPPLE": 8.74
+    },
+    "indices": {
+      "^WIG20": 2806.04,
+      "^WIG30": 3619.48,
+      "^WIG": 3619.48,
+      "^NCINDEX": 247.36
+    },
+    "news": [
+      {
+        "title": "\"Zrobiłem test na obecność narkotyków\". Karol Nawrocki pokazał wyniki - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONk9jdGtocWdYMEQxSDR6NGJyUXY0WTdKRjVvNzNFM1dKMDZ2ejVHeDRCLUVaNU01YTUxZzQzbUhLdUp0SlRteGh6cmxQbzh0OXVteVh3TWhPWjlHU0lXLTdqNjdvcU1QY0JXZFRQVDJUZlZtS1d6azA1WGV6M0duQ083UVE3cVhMS2N2U0pqS2FESk9oa0xHN0tuM1Vyd1dkNGpXdlh1RlctdEJSc0tYc1VpWU92d0hmREZ5X0RB?oc=5"
+      },
+      {
+        "title": "Sebastian Majtczak usłyszał prokuratorskie zarzuty. Tyle odsiadki mu grozi - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzJ2TlMzclRhRE1YaGpBV1dHcHpyYkhEZDN5bEI5STN4YXpmdG5SUXJrZWpOeFlDc3k4VXpjVThYNkRZbkdndjVoVVI1NlE1RGR1MVFPRUZiX1dYbDkyREw4YmxTcnBVVV9ZWmltUF9zS25zM3BJZG80bloza3B5enRyTVpBTHNOSVhhVEZTXzVvY3VybG9tRzZjeENQS2ZyMGZzTlRzY2VsYzRz?oc=5"
+      },
+      {
+        "title": "Niejasności wokół kawalerki Karola Nawrockiego. Krzysztof Bosak: Chcącemu nie dzieje się krzywda - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUd6QnlQVXlIU2wzOW1yZjZkR0FyYWZPRlNjQWgxOVpJbGJza1paeUdjaDVvUDJOMzduZGZlQVF0WTJFQVRsb1VXdmhJUTZ3a0tOanQ4cDFJZEFnR3BRWGRFYVd6SnUwWXJBellzMkVHWVRjVTM2OURMVGtyVWxmbUdCZTFsYUR3SjZKMTE0X05OSVdCNUYtYW1KT0luQVdobXhtVFBZdXAzV0Q2WnlBaW1PV0VxQQ?oc=5"
+      },
+      {
+        "title": "Milionowe nieprawidłowości w IPN. NIK ujawnia szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEhZbHp0YVR4UVRrVjh2dkt3U2l1eXIwbk5YMWZtZHg2anoxMFBXYmlNaV9GemJMQWg0YUJ0R0ZzcDFTOFloVWUyZ21GV0Vlc2VvNkhXdDlEUFB3LUFMejRKdGpYUHNaekFMS1ZWTG50OGtWTnVsZTJyRE4tUWtnSm5jaUZzSWFSZ3BYek1ZZEJwNnROYmdWcEd3dXZ5QQ?oc=5"
+      },
+      {
+        "title": "\"Dokładnie wiedział, co robi\". Minister o spotkaniu Trzaskowskiego z Mentzenem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkxiUVQ4Zlo5b0NTYkJHME14NVpBOFFvTnBRclRTa0VEeWJiV2UxN0laMWxNZmYwUHRhdGpfODNlMXk2cVBxcExOSkJsa2p3dkhYNm8tcGw5anY0a1lrc3hod21IdjRVVjVTM0VxYWFlVVA2ay1Xb0luSkprMUN3QnVhWGV2aG16cDhwYjNkVEdoNGxUTV80emRXc2tiaHZuWlB6ZVZ3MlM0eWhISWF1SnBnck1vc1MzZ2NoRnVkTQ?oc=5"
       }
     ]
   }
