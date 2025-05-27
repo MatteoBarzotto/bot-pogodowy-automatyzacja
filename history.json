@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-25 03:13:48",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 402766,
-      "DOGECOIN": 0.830862,
-      "ETHEREUM": 9348.86,
-      "LITECOIN": 355.62,
-      "RIPPLE": 8.67
-    },
-    "indices": {
-      "^WIG20": 2716.88,
-      "^WIG30": 3508.05,
-      "^WIG": 3508.05,
-      "^NCINDEX": 243.28
-    },
-    "news": [
-      {
-        "title": "Trzaskowski, Mentzen i Sikorski spotkali się w pubie. Gorzkie słowa Krzysztofa Bosaka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR0pibE5TdmVlSHhzWU5MWkUySmpDTGJQVkxrYWFOR2NkbjZObGFLd3AxMWRqRXNyOHZyeTNOM2M4b3RzME52MWlscUJYRFczUXhoMFpsYUFIbUpWZWc3RzJxTTNUNm9iQmxyMU9MUGNlU2RheFN3Rjc1X1UtT21HZTBsNmxCc1VGYzQ1cTdFTnlPVkR3dmxWcDRlTERWUFM4LWZlMFNiLVczNi1vSTRFMXNGbkF2c2VQNVR5Y1dFcWJiazFDUENNeFVfc09Ma3hEZzhac0tMTmlRdmtzZEc4?oc=5"
-      },
-      {
-        "title": "Frasyniuk o debacie Trzaskowski-Nawrocki: Nokautu w ringu nie było, intelekt wygrał z siłą na punkty - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnFzQlRYbzgtUEQyd3lDejEtd2hkM1diemh1enFZYXlJQk1Mc1BYZDQ0NHdoenNIQmxJSDNiWFo2S1Z2YnlsNGFLRTNTUkJaLUZEQk5iVzN0cG9heFh6WkstaXV2ZnB2Y1NNTDdva0xhY09JSW9keVhOMTFxODV2Rm4wYjREeHR3b01UQS1uSXpnVkpnV1ZjUVp4SllpRDQ0UVJaeVRNTndKNEE5SnRrdVZDQXpXbWtkLVhuYg?oc=5"
-      },
-      {
-        "title": "Kijów w ogniu! Szczegóły ataku dronów na zakłady \"Antonowa\". - Forsal",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0liVk1PYUR0dDhlUWdMcWY2cTlDcHR4VnNyVTljVWxERG0yLVRRNU1zTFZyNktJeWFVajBhMU9mZnBJOVpZcDdyNmtVRHBxTnByWm96NUZ3NEs4b0NmQUQ3UC0yZ2lCdHY0Z2U3TmhzYzM1c1ZkRmlfQnVmWTd5YThaVG9kME9ONm1wR1gyN2tqamhhSzg3d2Y1OUN3MXg4VmhMQ2p3aWR6Ylh6cWdvMldLLUY?oc=5"
-      },
-      {
-        "title": "Atak niedźwiedzia na Słowacji. Ucierpiał mężczyzna - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3Q5UWg2akhDRmdlcDF1X180bGdma0hTakpGWlpSQ3NBRWg4d1hOMW1GRkFzM3lqLTUweEFZRS00TmVjRVhGNUZ0QTYtSmgwVHpqMVRXalM5S1gwUjNzeHFUbFdjb1FWODJtZ3NVdXdJQ2tWXzd0YVBBMlRTSDFHY3dXZjhaaHQ5endsSVZTa2tNUjRWSjVSVjJUQzRWYXl30gGkAUFVX3lxTE9FODFlXzYxMWVyMnYtb1NzYWxWMFNnMzc1YW1qczVTbDM3dGxPZkdpNVRZa0hvODRTbklLZFlUMGh5SmtZRXk0UkFWMTNwbE9IcW1PVlc4NDNPeldCbVZ4bWlnUUVhVW5sLWJjMkJEbEI2MThEWl90UFpYS01NWGsxcnFNLW5sdUF5cFpEVlBJVzdrX084RUNOVDV4UHRmbXVyVUZ6?oc=5"
-      },
-      {
-        "title": "Nawroccy chcieli zakpić ze snusa. \"Śmiało, synku\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUxESW5xRnkzZVBuRzJVWGlJWmN0QW9mSmxzYnE5b3BTdUZmRW93ZjBoN0d2bFhYQzBmNENTc0JJUzczZWYzOE93elYtZktDREVtaXFkX1pqWTV0SG94U2xMd0hBWE44WnBxWTJBTl9ObEp4YUJhOWdMQUlYWFVld1UwRGpFRWN0Rm02bXFWaFZQU1BIOUdLY0tNSUU5dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-25 05:15:59",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Snus, pięści i kibole. Tu wyborców Nawrockiego skandale nie ruszają - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc08tN2t5QkdZOTB2UFZSZDNzX1g5ZTZGd1AyQzB0Ymx5SDJUel9wMTBFNG1vYmNINUN4dlMwSm5CVVk0aS14RXJuZXBQWjVDeXBNbnJHQzd3ZG90a1ZabWxxalB1aGhEU3BocHgta3owNXVQZUllb1c2QWdheWNGWURDT1hjbUpsTTVTd0pwSHpKcG9ZeGpzWmhJTmNicVJmeWlDQkM0amlPWEJq?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-27 10:18:57",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7344,
+      "EUR": 4.2514,
+      "GBP": 5.0651,
+      "CHF": 4.545,
+      "JPY": 0.026133,
+      "AUD": 2.432,
+      "CAD": 2.7231,
+      "CNY": 0.5196
+    },
+    "crypto": {
+      "BITCOIN": 410667,
+      "DOGECOIN": 0.855292,
+      "ETHEREUM": 9812.77,
+      "LITECOIN": 358.5,
+      "RIPPLE": 8.65
+    },
+    "indices": {
+      "^WIG20": 2793.6,
+      "^WIG30": 3605.44,
+      "^WIG": 3605.44,
+      "^NCINDEX": 247.21
+    },
+    "news": [
+      {
+        "title": "Tajemnice Karola Nawrockiego z Grand Hotelu. Ekspertka mówi, jak mogą wpłynąć na wyborców - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1NScWwxTXBZMW1qeVA2OHVYWHlxSkEtUEFZTU5MVlNkSU1XRXRJZ05yb0xKUmFwS1l2aU8yZUxxeHNBSm9MZURwdUVSaFhXWUpNUnl4am9hWXZrTTB3blNFT0FkUF9BcmpuUE93RGMwaWxmVmNocDRaWUJvSkJ5elF5R1cyUDVFODFYSGp4dURuRUs1Nnp0T1djLWZlLWI0NVN1VHJyd3Z2SWh3X3FQWHhFUVRmTXA2N3hZcXpaMm5iZS1TRFhGTF90TXc5T3BxYUk1OG9MMA?oc=5"
+      },
+      {
+        "title": "\"Dokładnie wiedział, co robi\". Minister o spotkaniu Trzaskowskiego z Mentzenem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkxiUVQ4Zlo5b0NTYkJHME14NVpBOFFvTnBRclRTa0VEeWJiV2UxN0laMWxNZmYwUHRhdGpfODNlMXk2cVBxcExOSkJsa2p3dkhYNm8tcGw5anY0a1lrc3hod21IdjRVVjVTM0VxYWFlVVA2ay1Xb0luSkprMUN3QnVhWGV2aG16cDhwYjNkVEdoNGxUTV80emRXc2tiaHZuWlB6ZVZ3MlM0eWhISWF1SnBnck1vc1MzZ2NoRnVkTQ?oc=5"
+      },
+      {
+        "title": "Nietypowy sondaż przed drugą turą. Tak wyglądają emocje wokół kandydatów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHdaVG9Yd2lFVnk3eHF1Tkp4Yi1jc0pwbjRWWU1XYVNoRUVCVDhlTTdmdkdzM3FhemF2bHBEZzUxb0U5Zm5GendNeFU1cWd3TXU1d0hqaEFDdDQ2OUpIMTBVOEZCVTYtRWp4dXVoV3Y3VUlKcDVZUjQ2aEdrY3EwelZQeW5zLVltUEJoWE80T3dwMGpiM2Y3ZE5aai1CdXlnWGQ4MmpHRC1kTmJOQi1jbEZiQTFoTkRxREVv?oc=5"
+      },
+      {
+        "title": "Michał Listkiewicz o słowach Nawrockiego: mam żal, zostałem wykorzystany - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmNiblNoSGdUYXc0c0pLZzhLaG9OMFhESDhqR2pwSHJCMFg3ZHFtcmtxdUlqelhhci1rTU1ON1lhYjJjbmtwQlNOc3hCdkdJNDlKNkYwajNzVU5NYjFGMWNQME1JMVhnYm82TzFPdFMwQUM1cmV0UVJITlkzMGh0MjRPMmJOaXliTXJnT2hvVVp5SU1CWkNFRWIwcUwybDNaUE80ZF95bk5QV2VPbTNqNmtSQQ?oc=5"
+      },
+      {
+        "title": "Widzieli Majtczaka na pokładzie. Rozmawialiśmy z pasażerami lotu z Dubaju. \"Były spojrzenia, szepty\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2pueGduT05Bem85WVB4UVdLazNKYVRIRHBHeENFaW5SUGttWk5qNUxwd29CcW91UUpqMXVhaGU1Y3RPampNUE9iYjZSaUttN0JvZzlKQnluM3NwXzFFRnFQWk9mLTFZb3Jsamh3Y2FwVjRma2FOeVNCR0hCZG1kV3lxYXoyU1VTRDhfZzczV0l3RWFWTEVnZVVka2JZMnpwWDk0aVpjTHdNaGtjSlVBajZEdW9tS2lIYl83OTdNVTdZME9R?oc=5"
       }
     ]
   }
