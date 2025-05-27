@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-25 12:13:03",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 401373,
-      "DOGECOIN": 0.81999,
-      "ETHEREUM": 9341.3,
-      "LITECOIN": 354.19,
-      "RIPPLE": 8.59
-    },
-    "indices": {
-      "^WIG20": 2716.88,
-      "^WIG30": 3508.05,
-      "^WIG": 3508.05,
-      "^NCINDEX": 243.28
-    },
-    "news": [
-      {
-        "title": "Ósemka Mentzena. Nawrocki kontra Trzaskowski. Co ich łączy, a co dzieli - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXFwV2g1Tnd3VHZKWmVkTm1ZY01tQ0FKZ3JtQjhadHY5MU01OV9hdzNCNTgzcU1IRl95Z19uaU5pbDdVNWpQMzNjYTdDYlVnbnZJNDk1dHJvRUwxc0tFdlNER1J2MWtpV21qNUJSMVU2WVY5azVBRWlCSGxkMW5lTUdmM2k4NTJnNmQwd1Q4Zm94RHNudm56ZlB4Z0JmNkZjeFo0bm5fcFNVbnlXa2syN0xPX3BTLVVBOGc?oc=5"
-      },
-      {
-        "title": "W niedzielę marsze Trzaskowskiego i Nawrockiego w Warszawie [NA ŻWO] - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzI5TThRRklQOVFQWXE3NXIwYU84dHlFUkJwLW9BSHI4ZFVEdk9IdC02LW5ZbEZWY21sbUJPSGRxcmpCSjl3TDR3Nkp5LVA3QmlpcmFrY0R3bjFsVnpLZ3dHQllCSnlRTk9XeHpaMWJjV1ZBS2ZnLUdZYzlIczltaVF0U2pfbVdpQWZGc1Y5Q1k5Mm93WjY1cFJpV19BWTRSTzFMejdYVWtCX3EwYlFNblZucGkza1JhZzd1Qw?oc=5"
-      },
-      {
-        "title": "Zmasowany atak Rosjan na Kijów. Polska podrywa myśliwce - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGRZWkdtWXlkZ1owWThoZXB3bERVODQ0OXdhT2xuYnlvVjJoVVk0ZWNGekN5OTEyQmF3c3hSM3c2Ul90NFFiUTN4TXpRb25GUmhoUmRMVHFjWnNjeXgxUnpTQUhyaU9JQkt6T01JdGEtOVVtQ0d1UU9icWs5eGRHSXNhQm1TQXRhLUtCQWtEYUp3RXU3TGdxNG1QMzUzMjBISU1oWg?oc=5"
-      },
-      {
-        "title": "Potężny pożar na Mazowszu. 160 strażaków na miejscu. Były wybuchy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzRhSEU2d2xaZE9UV3RSLXRQNGN0MXNLVXVtNlBpQTRhMWZFbXZ2VmQxazB4U2NMUnZyVjlqa29RZ2R1ZlVnTEVBS0d2R1BVXzNINEQ2MWw2ZWw4UmRPaEFEc2FZTXhiVmhVc3hINWVvaGY0SlB5QVZRZk5FaHl3Vm9Bc0FmcGZySXJ1bThmYm01TkYxWlRF?oc=5"
-      },
-      {
-        "title": "Pracował dla Władimira Putina. Teraz mówi: Zapomnijmy o pokoju. Donald Trump ma już to, czego chce - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWJSbEltSzBHZ3BHd0tjOC1hNl9TVGkxcXFPNkwzclhlbUc3M2JFNEtKcjAtYnljOXg2RXZWNERQNzhnbnBmTldiNVZ3X241c3RzbU9QZnpQYmh6bFlmN0VLb1JPbmVhWVhWVkFuY0Ria2JPTzRzQzV5MXdHQW40aDdIdXpOS2Rkd1JfVjh1ZTlBeTdhdlpiTTJuNW9ZS2s?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-25 13:10:25",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kim jest Kristi Noem? Zastrzeliła psa, paradowała z kosmicznie drogim zegarkiem - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHJXdEtDYkQzY084MVpraXROTHpFcnlIT05KQUJKY1FSc3dXd1djTDJBMG9iU2xiZWxhSUpqcHFEZ09kSHNSbFpfZnBwQUl1ZTZ4OGhNcXE0NnhXXzA5clFFVjRlWW9Ra1VYb1ZTVTYwWVpXVENJWDhFRGVKN1FQT1Z1ZkdVa21LT090STc0WDFxWm52dHZXS3FTY3FPMDBfcUVabGNKM1ZtLTJrQVptdGd6NkF0UWNvMDRweGpwYWFpVV9tV0E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-27 18:17:40",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.743,
+      "EUR": 4.2479,
+      "GBP": 5.0664,
+      "CHF": 4.5369,
+      "JPY": 0.026017,
+      "AUD": 2.414,
+      "CAD": 2.7198,
+      "CNY": 0.5203
+    },
+    "crypto": {
+      "BITCOIN": 412775,
+      "DOGECOIN": 0.855491,
+      "ETHEREUM": 9990.1,
+      "LITECOIN": 360.79,
+      "RIPPLE": 8.76
+    },
+    "indices": {
+      "^WIG20": 2813.71,
+      "^WIG30": 3629.62,
+      "^WIG": 3629.62,
+      "^NCINDEX": 246.25
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki pozwał Onet. Poseł PiS potwierdza - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSVVPOWU2SVV1Y2lmSmRUZWd6RVVqbm15YTRRV0tXdDlFSWE2YWZCZ2lONVpSRVZJWjRENm10akZqM3p3cy1EQm5LanBCeFNZRUNBU2k5R0dDZnctdzlWOWpIUzY2YzlfdlJhdEpiVThxYi1TZVFsbTBEdnpfdUlHUmdPdmVoLUk4eGhNSmgyRjQ?oc=5"
+      },
+      {
+        "title": "Służby: ABW negatywnie rekomendowała Nawrockiego na prezesa IPN - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFVUeTcyckZndVo1cjBIN0ltVlhHQ0xhejZUWGRpZTBSM2lVUHZCWU5vWVdiR1BULTByN1Q4akJ4V2NKZW1Bd1Z4THFQaC1rLXFIWjhtMGM2YXIzSFFLZHFBSlUweXNfUDlJckItQUYxdjI2RHFSWHZEUnkwbldIa1NKRGNhazdHQ0tpQWNGT2RITUxW?oc=5"
+      },
+      {
+        "title": "\"Zrobiłem test na obecność narkotyków\". Karol Nawrocki pokazał wyniki - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONk9jdGtocWdYMEQxSDR6NGJyUXY0WTdKRjVvNzNFM1dKMDZ2ejVHeDRCLUVaNU01YTUxZzQzbUhLdUp0SlRteGh6cmxQbzh0OXVteVh3TWhPWjlHU0lXLTdqNjdvcU1QY0JXZFRQVDJUZlZtS1d6azA1WGV6M0duQ083UVE3cVhMS2N2U0pqS2FESk9oa0xHN0tuM1Vyd1dkNGpXdlh1RlctdEJSc0tYc1VpWU92d0hmREZ5X0RB?oc=5"
+      },
+      {
+        "title": "Wipler zaprosił Nawrockiego na scenę. \"Zagłosujcie przeciw Trzaskowskiemu\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkc5YV9CRTlBak9hc0JnYmZQNUJsc0swS2dCZUNSV2h6MnZtbVc0aHVPSjhuZ2wzbnVyMUkzaGxxUUpBMlV3NHJOMllOem43VjV0SVVSbGJNMUwxczBPd2V3UVZyRWs2UDJUTFhyc25lQnNvNzJlRmpqelU4Z2xweGRBekdVRGxXa09JT1U5MXpmNGROZXZuQ2J2ODFGRXRCX19WVmJWMERjQnJsOE0tWDFsakkwVWpzbDZN?oc=5"
+      },
+      {
+        "title": "Sebastian Majtczak usłyszał prokuratorskie zarzuty. Tyle odsiadki mu grozi - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzJ2TlMzclRhRE1YaGpBV1dHcHpyYkhEZDN5bEI5STN4YXpmdG5SUXJrZWpOeFlDc3k4VXpjVThYNkRZbkdndjVoVVI1NlE1RGR1MVFPRUZiX1dYbDkyREw4YmxTcnBVVV9ZWmltUF9zS25zM3BJZG80bloza3B5enRyTVpBTHNOSVhhVEZTXzVvY3VybG9tRzZjeENQS2ZyMGZzTlRzY2VsYzRz?oc=5"
       }
     ]
   }
