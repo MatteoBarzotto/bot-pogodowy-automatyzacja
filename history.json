@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-25 06:20:39",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 405002,
-      "DOGECOIN": 0.836431,
-      "ETHEREUM": 9413.8,
-      "LITECOIN": 358.4,
-      "RIPPLE": 8.68
-    },
-    "indices": {
-      "^WIG20": 2716.88,
-      "^WIG30": 3508.05,
-      "^WIG": 3508.05,
-      "^NCINDEX": 243.28
-    },
-    "news": [
-      {
-        "title": "Trzaskowski, Mentzen i Sikorski spotkali się w pubie. Gorzkie słowa Krzysztofa Bosaka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR0pibE5TdmVlSHhzWU5MWkUySmpDTGJQVkxrYWFOR2NkbjZObGFLd3AxMWRqRXNyOHZyeTNOM2M4b3RzME52MWlscUJYRFczUXhoMFpsYUFIbUpWZWc3RzJxTTNUNm9iQmxyMU9MUGNlU2RheFN3Rjc1X1UtT21HZTBsNmxCc1VGYzQ1cTdFTnlPVkR3dmxWcDRlTERWUFM4LWZlMFNiLVczNi1vSTRFMXNGbkF2c2VQNVR5Y1dFcWJiazFDUENNeFVfc09Ma3hEZzhac0tMTmlRdmtzZEc4?oc=5"
-      },
-      {
-        "title": "Rosjanie zaatakowali Kijów. \"Przed nami trudna noc\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFBPXy1DNmdWSkgzV0tERTdZWGo0UjFJbW8tYkVZWXhvRXozaVdnMUlhLUFmNldQUmN3Q0pMb1dwLV9HT2ZlSkhSMU56YlVLZnNjc2dOTmZOVlZaUjVJXzJLeC1VWU9Sb2pPZXdXQ2phbkJ2NUtWb0hsQ2ZUOHdITXMxeE40VEEyb1ROcFVTTUFneEFMeUlSU0QxNUFVZXR6NTdjWC1ERU42THlYTzl1bmF6aFkyVU0zSzltcE1NeHY0aHJS?oc=5"
-      },
-      {
-        "title": "Frasyniuk o debacie Trzaskowski-Nawrocki: Nokautu w ringu nie było, intelekt wygrał z siłą na punkty - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnFzQlRYbzgtUEQyd3lDejEtd2hkM1diemh1enFZYXlJQk1Mc1BYZDQ0NHdoenNIQmxJSDNiWFo2S1Z2YnlsNGFLRTNTUkJaLUZEQk5iVzN0cG9heFh6WkstaXV2ZnB2Y1NNTDdva0xhY09JSW9keVhOMTFxODV2Rm4wYjREeHR3b01UQS1uSXpnVkpnV1ZjUVp4SllpRDQ0UVJaeVRNTndKNEE5SnRrdVZDQXpXbWtkLVhuYg?oc=5"
-      },
-      {
-        "title": "Atak niedźwiedzia na Słowacji. Ucierpiał mężczyzna - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3Q5UWg2akhDRmdlcDF1X180bGdma0hTakpGWlpSQ3NBRWg4d1hOMW1GRkFzM3lqLTUweEFZRS00TmVjRVhGNUZ0QTYtSmgwVHpqMVRXalM5S1gwUjNzeHFUbFdjb1FWODJtZ3NVdXdJQ2tWXzd0YVBBMlRTSDFHY3dXZjhaaHQ5endsSVZTa2tNUjRWSjVSVjJUQzRWYXl30gGkAUFVX3lxTE9FODFlXzYxMWVyMnYtb1NzYWxWMFNnMzc1YW1qczVTbDM3dGxPZkdpNVRZa0hvODRTbklLZFlUMGh5SmtZRXk0UkFWMTNwbE9IcW1PVlc4NDNPeldCbVZ4bWlnUUVhVW5sLWJjMkJEbEI2MThEWl90UFpYS01NWGsxcnFNLW5sdUF5cFpEVlBJVzdrX084RUNOVDV4UHRmbXVyVUZ6?oc=5"
-      },
-      {
-        "title": "Jeden z dwóch księży zabitych przy ołtarzu. Ogłoszono nowego błogosławionego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2pOV1dTTDNRZUJIbGRLMU1rbkFEaDI3NW1TQjFYb1JnM1RqOGktZy1QZGtOaU52UTJUQUdheXpESS1rS1RTY2lkOTJISExBOXJ5UFJrVTgwMG9rQUVPc05KRU1sMG1XZW1fSkN5WUlrQlVWWEtTNHBmSmttc0FUc2p5MTZNbTBqMFRKNkN0OUVZNXVIdGJaTGJqR1FDdkNZNDlJOVBfU2UzVW8tT3lN?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-25 07:13:06",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Tusk zwrócił się do Karola Nawrockiego. \"W ciągu 24 godzin\" - Interia",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3ZRbnU2Z015d1hmU1N4b1pPR3JwelozaGpGSEhCRzVTRVZzVnZEdkw3X0dXVC12aXRPOEFvTXJYTkxEa3R1dElabVhtSTFqUGQycEhxcXh6MjV4XzRia19oTkVKc0FtcFBWSWVjenh6YkJrLWVkZXByMlh5N3UyeEZPNTc0ZU8xLUpKRVpiLUhlNFlpX0xIN3FNQkJoOUt4RExZWmJmTF8xQ2F3eVY2Y1c0U2xfMC0ycVFFTExMbGlvOUdVdm4w?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-27 12:15:38",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.743,
+      "EUR": 4.2479,
+      "GBP": 5.0664,
+      "CHF": 4.5369,
+      "JPY": 0.026017,
+      "AUD": 2.414,
+      "CAD": 2.7198,
+      "CNY": 0.5203
+    },
+    "crypto": {
+      "BITCOIN": 411489,
+      "DOGECOIN": 0.856578,
+      "ETHEREUM": 9875.99,
+      "LITECOIN": 358.53,
+      "RIPPLE": 8.68
+    },
+    "indices": {
+      "^WIG20": 2796.33,
+      "^WIG30": 3609.9,
+      "^WIG": 3609.9,
+      "^NCINDEX": 246.03
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki wykonał test na obecności narkotyków. Są wyniki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUI5anRmLXQtMkFBeGs3TWJZTGw2NFhkbGN6R2hVV2tPN3ZkcGhNNUFwQTBINS1XaTRVSUJEX0hmRUpuOXJUTC1DNWhQY3UtNGtNMVRhMFRaWk9LVVNNcC1lc2xuZzRvdXBJU00xbXBSTW9MNlZWYS1NLThuYWlaeWtxY3pDX2Zfb20xWFk5WUxKUTZDMmUwSkFRY2JjYlFsRFlYd29KQ1lvY1lsZlhnRnkzWEZOZ2dqZHNzM3ZRenRFMHc?oc=5"
+      },
+      {
+        "title": "Wrze po tym, co zrobił Lewandowski. 'Boniek nie narzekał' Reprezentacja Polski - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdV9kS3RYQ2lNS29hNmZNRGVaVFRlamliMlp1cDE0M3ducnZqSWtLLVFFdHVxR0Y2VFM1YnIySWpla1N1YkFhN3dOazBka0QyZ2lmX0xueEVRNFhHdHUwSDdSNi1TWjVIUXFucFFmN05HRUFpSlo0SS1ZUl8wQlhIZDMzZkVXdU14bV9tbHQtR2otQ2p0eVR0cDU4SFBJaHZ0TVlkTg?oc=5"
+      },
+      {
+        "title": "Niejasności wokół kawalerki Karola Nawrockiego. Krzysztof Bosak: Chcącemu nie dzieje się krzywda - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUd6QnlQVXlIU2wzOW1yZjZkR0FyYWZPRlNjQWgxOVpJbGJza1paeUdjaDVvUDJOMzduZGZlQVF0WTJFQVRsb1VXdmhJUTZ3a0tOanQ4cDFJZEFnR3BRWGRFYVd6SnUwWXJBellzMkVHWVRjVTM2OURMVGtyVWxmbUdCZTFsYUR3SjZKMTE0X05OSVdCNUYtYW1KT0luQVdobXhtVFBZdXAzV0Q2WnlBaW1PV0VxQQ?oc=5"
+      },
+      {
+        "title": "Milionowe nieprawidłowości w IPN. NIK punktuje prezesa Nawrockiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2FCQ2ZUdUppTmtpcGNlTG9IeHFsNlI4c0thTGNEWW9NVzg1a3BkUTBTZlNGenZ4T3d2SkJiVWMzZmI3Wjg4b1VjeVRNQ20ySWxMZVRyc1dIa1ZOUFpCRnRLcF9oN0RVb1dpMHNUem9nelFxQ0tTZWJyY3JXZHl6TEZlV29yUkxEZHBXMFpvaTVhLV9WR3VwVk9jVVVNNjg4Q1Y5N3pMamJ0ck9YdGc?oc=5"
+      },
+      {
+        "title": "\"Dokładnie wiedział, co robi\". Sikorski o kulisach spotkania - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkxiUVQ4Zlo5b0NTYkJHME14NVpBOFFvTnBRclRTa0VEeWJiV2UxN0laMWxNZmYwUHRhdGpfODNlMXk2cVBxcExOSkJsa2p3dkhYNm8tcGw5anY0a1lrc3hod21IdjRVVjVTM0VxYWFlVVA2ay1Xb0luSkprMUN3QnVhWGV2aG16cDhwYjNkVEdoNGxUTV80emRXc2tiaHZuWlB6ZVZ3MlM0eWhISWF1SnBnck1vc1MzZ2NoRnVkTQ?oc=5"
       }
     ]
   }
