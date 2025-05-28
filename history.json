@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-26 16:13:49",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7344,
-      "EUR": 4.2514,
-      "GBP": 5.0651,
-      "CHF": 4.545,
-      "JPY": 0.026133,
-      "AUD": 2.432,
-      "CAD": 2.7231,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 408955,
-      "DOGECOIN": 0.840259,
-      "ETHEREUM": 9537.15,
-      "LITECOIN": 361.81,
-      "RIPPLE": 8.69
-    },
-    "indices": {
-      "^WIG20": 2790.1,
-      "^WIG30": 3600.71,
-      "^WIG": 3600.71,
-      "^NCINDEX": 244.88
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki i tajemnice Grand Hotelu. Jest odpowiedź kandydata PiS - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnNFVXhJTERDWVNBUGwybTF0cDBnX21IYVpsV3lfX18yS0RCUmZBSXozQ3c3MHFNVnpYUVdOMFRfOTZGZ29tYWhPSG5YYklNUFQ3YWZaSTlmcHdiNUtkMDhPZzlYcmNCaVBDX0JySElkQTJpd1p2NU4xWkFuRmE1bWpQWFpXMmJKWWhITnpvby1jeU1WUldJTzA1Rkl3QnhvY3IxUWpRcW9wTnNPcVlpbFNfNnE5dVRiMGd2bWxkMnF5TXNjT3lnOE9fMA?oc=5"
-      },
-      {
-        "title": "Nowe informacje o Sebastianie M. Jest konwojowany do Polski ze Zjednoczonych Emiratów Arabskich - Interia",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFA0LVBMWTV6Z0hQMWRjZ1N5OFBtaUc5dmcwYWQ2VnhnWVhjSnpUeXBaMlM3cDRJUUlJQy1TN2dRODVKTkdPVUFtXzFUV1lVRi1MR3JGRmZXdmM2UU1PWEpkVVFIWWdhNnhpOHpZUTd0cjhzcE9ldkFaZ2dvaEJDVUJNREJjSmh3akF0eWdSbXRUbi1NeHZ3Vk4tbEJqNEZMcVdmdVc3ZXZzQ1ZNZTFqUA?oc=5"
-      },
-      {
-        "title": "Iga Świątek z małymi problemami awansuje do II rundy Rolanda Garrosa [ZAPIS RELACJI] Tenis - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91U0xoMWRqWW81TmJiMU5MaUhXV0tfek9ObkFtc3Nsd3R6TV9KNHBlaWVOVFRsUFZVbGRMb1BNSmE5eE9UUVFITFdRMEZ1eTAwT0ZfZDhtcXp0WUJmemc?oc=5"
-      },
-      {
-        "title": "Braun komentuje spotkanie Mentzena z Trzaskowskim. \"Sam zauważył\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFlzVk51cHQ0YXhhRFFNZVhwM0ZoTWdOZUt4eXIydVpYanZlbFNnTC0tTjE1X0JCY0thU2NzMmpQZ1ltVXhRTEw0akdfMGd0Ym14SG05NWJlM3pFSHcyZkpSWVprODhnN3JyUzQ4ZXJYWGZxYVNMUkRXQzVJOGFzUVJwbzVrYXkxajVHNVV5dWw4TkFSTzNoSzl3bHV2WENOUG9qQVRZWEQ?oc=5"
-      },
-      {
-        "title": "Prezydent Duda o snusach Karola Nawrockiego. \"Moja córka mówi, że to bardzo modne\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEUwOGZBWkppVGwta0Vrd2VmRG0zaUk1M2U5bGd1SXNtb2REeUVjZDBENnI1dUpJWEw2dmVPODZNamdTNlFkUURicHhiMEtyMTgtNjlYakMwbWlqUFZhQkItS1VNX2hqR1RFaEZaenI3RXk0UDZxRkt1OUdfZUp2LWpkZlNIQUI3UGpicC1ETFBxRzhjV1d5Z0J4aXBqTFBVUE1aeERGVTBDTjFtaFpjemtpc3pZTEprbjVyakhJQjU1cENB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-26 17:14:21",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2634,6 +2581,59 @@
       {
         "title": "Putin miał zaproponować warunki zakończenia wojny. Wskazuje na trzy państwa - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0JtNDFuWWNBSEg3TS1zN3hXY0VDNE96TGlKemVhTHBJdWZ3TFhqZGx0d3g5Z0UyOXp4VDhrVXBHdE5sOEpjNFhMUGNKa1ZNQndSV1JabU9lelkxQmVvQkpWYmdUeDVhNmhZaUY2MTYzbUROY01rbEh4U3pweEF2RzdGbFRRbjgzV2loNWtlZFhKQmxJWXM0bmplQkV0eHZ2dzY5NXRzZHN2ZjBGeEZDNmNIemdsbmlCbXhj?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28 22:15:36",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7456,
+      "EUR": 4.2447,
+      "GBP": 5.0601,
+      "CHF": 4.5306,
+      "JPY": 0.026004,
+      "AUD": 2.4149,
+      "CAD": 2.7109,
+      "CNY": 0.5211
+    },
+    "crypto": {
+      "BITCOIN": 401879,
+      "DOGECOIN": 0.817505,
+      "ETHEREUM": 9834.93,
+      "LITECOIN": 351.33,
+      "RIPPLE": 8.4
+    },
+    "indices": {
+      "^WIG20": 2836.66,
+      "^WIG30": 3665.6,
+      "^WIG": 3665.6,
+      "^NCINDEX": 245.68
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki sam na debacie w Końskich. Odpowiada na pierwsze pytania - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29zbUdveWhLMENweDRLSHBwT1VOTUE1am42Qkxyb0hmS2lnbWRUTGpFZm9sbXljclAyMTRjX2wyRHBIVHB2TkVLal9XRmFsMXZyWDZJMnV3RU9CdkJYTFBFOEdqOGFIZ1Y4S2pXQWZFUU51RkJLOWJjV0tZYm54TWhyekFsb29aalVRbEZ5MnlSSjJCZmNXNzJUT29vdkxEWEdv?oc=5"
+      },
+      {
+        "title": "\"Nigdy nie ułaskawię żadnego polityka\". Rafał Trzaskowski składa deklarację - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXNNZFJvQThjV3FIUUtlazNFUnVEVkt3VUpNSVdYN2swME1tU1lFQzI2cExmbkZ5Y3dlY2Q1RFhaUDBBNnZoTk1zQWQwNFRGRTZjcWlEYUpnV2xsRDA3ZnlBVTFWdVQ3Ymd2TjBpLW0yZkQzdXN6RVlPd21Kc1ZORlBRODZjV2Z5aXZUTFo3T3luOUR0TE5kTllxaFBNRm4yS0NCdGFWLWNpNzZJSmxnSElYb2xNcDhZMHRQT2x0bTlHMk1rRXc?oc=5"
+      },
+      {
+        "title": "Sławomir Mentzen zabrał głos w sprawie II tury wyborów prezydenckich [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkZtVDhUU0tFS1ZtM25JNXZyejM0UG9QZS0tMHpwZzBUUVdJQmxfNEN0cmZVX1Nvb3ZJRklKLXgtMFZlSU1nOVJFZUNrNlFoMEVTU19EZDE4cGdoUFpwQkc1cVUwTjNoNzMzT0hpTkl3Y0cyLWxNS0YwWFJYM2kzdjdOTjlkSUlFRjVpOHBmUmh2NF9WTXFna1hKOUd2c3Y1OFBVWmtQLXR4aU02R1c3OGpWMGY2WVV3S3RMeVdDUFJUQkNLaDN4ZFhWbjV6elhzU3ZtNng4SlY5RUNuQXNv?oc=5"
+      },
+      {
+        "title": "Sondaże w środę. Trzaskowski czy jednak Nawrocki? [ANALIZA TRENDÓW] - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUoyYWlKQWl5OFZ2UnFCczlsLVY1bThFc1lYUzlXT1dYY0docVc0QTJZdC1CNUhqOUZic2x0ZjZCMUtWb0d0UG1KdnNGTTRpX012ZGpfX0YzNkpEUGFsc29GWUFxNzUyUlpLMlRaNXVtTWZMTzJZWUUzRHRraGkzbnh3STdpWGZP?oc=5"
+      },
+      {
+        "title": "Tylu wyborców zagłosuje zza granicy. Padł historyczny rekord - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVzFtZFIxWGowTFdCWGpuamNhX2FUU2FkVU5xbEk1Vk8zRUQtN01BUmlpaUxrdzFSYVFNcEJqY0VtVW4wak5oYXVZUWg0Y0xyQzdpdWZadF83cE94Z0FZUkExRDZDNkljOGhFWlhuaDJIVmlwMVByVUJ5ZXhEems5c2xVZHVySXBsQm9aaWROQjdVNHY5WVhWaUhJZFExeC1wUkRJV19OWHFsYnc?oc=5"
       }
     ]
   }
