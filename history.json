@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-26 11:40:38",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7506,
-      "EUR": 4.2541,
-      "GBP": 5.0587,
-      "CHF": 4.5392,
-      "JPY": 0.026172,
-      "AUD": 2.4206,
-      "CAD": 2.7145,
-      "CNY": 0.5218
-    },
-    "crypto": {
-      "BITCOIN": 410361,
-      "DOGECOIN": 0.849109,
-      "ETHEREUM": 9602.43,
-      "LITECOIN": 361.94,
-      "RIPPLE": 8.76
-    },
-    "indices": {
-      "^WIG20": 2771.62,
-      "^WIG30": 3579.36,
-      "^WIG": 3579.36,
-      "^NCINDEX": 245.3
-    },
-    "news": [
-      {
-        "title": "Duda: Prezydent nie może mieć nałogów - Gazeta Prawna",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejVzUzE2b0F5eUVJSmJFbEF5U3E1dlhnNzhKZk11Q2dvNW1CNWpUaWhGRFZaU0RWWk8wYVR3Sm5oYVdpZG9PMkUtQ3lvWGRhTUp0NmVqUkZ0cnBWRjM0emNScm5HSE5jT0Jka2hzNHBsTW1OX05mRFpuZEpBZkkxenIwTVZIVEIzT3Z1X2NLRWFlV05JUG1xbmlMal84M0NKVzJzTg?oc=5"
-      },
-      {
-        "title": "Sławomir Mentzen zdradził? Internauci surowo ocenili spotkanie z Rafałem Trzaskowskim - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3c5OWp6cjZ1Wi1laWNnXzJRaEplSzBnVnE2ZEU5N0Y2QkpsbGNyTFlSWU9VUjZfT3lwbnhDSXlhRDBsdThCdGdSbHBnWUtRTTNzQWxSeHctY3RmMV84cGEtb2kxN3djQ09UY2RsQ3dKaTZsakt2RjVjc0EwdFppTzdHV3VJM1NkaGVoUWFad0tmUWxBNDFqanZ0MDhSNTRla3NZNmtvM1lZWnh6RVVsWDFlYmpRZUFEVjgyUEprRm04UQ?oc=5"
-      },
-      {
-        "title": "Sondaż przed drugą turą wyborów. Karol Nawrocki utrzymuje przewagę nad Rafałem Trzaskowskim - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNE1EU3pTTHJOLU1OdG5MeUxDWm5vNTE0OTlaTmxNc0hkd1liMGFvSWhHbEtHb3I3SktTa3hOcXU0MHF2VWpuOEs2MEhIZDhOOFlPaVU2S0plcjUzaWtDUmUydVFoakF0b3ZaQ1VRdGdaZjdPaFhxSm1SdFdGaVhPLTFFcmt4VjI2cDVCbmpBN0pYTmhqenFaVVVWWGFvRm1tNllvcEx0eGJ6YV9WY3g3MFBLWmxkSWdFaTRrcg?oc=5"
-      },
-      {
-        "title": "Donald Trump: Co, do cholery, stało się z Putinem? Absolutnie zwariował! - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHdvXzRuakwyMThHQklGRmRpXzNWcG9FUkc0QjNHellFVURmU3hCbW5xYngzZ1FmSWtEalE1RERlLVYydGRyMjh6U1NNOFZ1Nmt5RHhTNHRXWV9XWEZCb3lBWW5YX1lTNk1ZVE5LMnRvVTBoYmtrUlNKVVdtT1E0NnQ3RHpDOVlXM1hrVzdpbTdHR3pnajVIZ0tLbVhVanJLNEhpdkhTQ3hWaDBU?oc=5"
-      },
-      {
-        "title": "Jak marsze wpłyną na wynik wyborów? \"Zdolności po stronie Trzaskowskiego są większe\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVJZRHJGcUxIR2VjVC1mdDZRZ1U5UDRWb1NYNUNRYUF6ZWhGRjJJbnhLNVdUOWhveEkwUzkyUk5RdHlUMFBwNTk4amt1WW9XdkFNdWN5VkhqaGJuci03cTRQcEtFYzFWTEVKckdnS3VaOGtDRHZ6RlZQRHJod18wYlB0bmpleTJWVHNlMDg4Y2JJaUJzQXA5SW1wUUZkVGd1andtQWRHeEp5ZGUwa2FhaVhyQkc4Q2o0a2poMNIBuwFBVV95cUxNWjhUeUNaaE15RmtLZjRfMlpQYXVJMDZWOGM4aHY0d1VFM0xuRGE2UmJMZkV4QVFBTVJHOFZWZmpReC03aW9DYkRDS3FlSHZXcENleEZuSDRMWEJvRjFmc2lZZlFqcjUzX2ROY2JLUUh4UW9JWlBWaTlITTkxSUZyeGFLVjU2aDR3QU1XM2R0YjJOY1JlckUzWXFGQi1vYU56cmN2SHZkRzU1SDVtV3pkeFh3Q24ybkdSSGI0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-26 12:18:34",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2630,6 +2577,59 @@
       {
         "title": "Minister bezp. krajowego USA Kristi Noem: Nawrocki musi wygrać, Trzaskowski oznacza piekło - Bankier.pl",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0ZsUkZRdnFTa2I3VXZFYXJkSER6NmRJeUR1UHNuZWdDZ1FTbW5LdUNmU2hVTEZQalB2WVhvOUFYaWZOeGI1NGpvWFJVajlsa1A0T1JXUldHUk1RVURUNU94RDVFNzg0UUNuZk9qS3RTdmQzcjFWblJjUjltOGMtSmloQU5PR1ZhSk5YdW8zekhMTTFSVi16RUVXUHlEZlcwd0Q2WHA1WFBUcXFvSGl3QXp5Y044cHl2Q2F4UG1OR2VxX0hrWVFKWHl0ZW9SUdIBzAFBVV95cUxQcGItMWxQa3hpQjlOVXVKS2hVdUl4YmZHdEpBUXYtN1Q2Tm82QjIxZTZBNlJDbEozNXVBVEFXeUh1Mk90dWQ3V0FJNFBaZkZKam5kQWQ1dU9GaC13d1FkMGtvNmJFa20yYTBzMTJVQWR4bHdzOEhDdmFaT3pRSmc4cDJHM0NyeWVobDNNZmRMUEpKUWFUbENxSVNNNXM1YVhDMkU4U21pLTlrMFlid3Eyc2w2WVBPTENGcjJmZ1lLbmstbVJ1YlFDbE1qWnc?oc=5"
+      },
+      {
+        "title": "Władimir Putin zawrze pokój tylko na swoich warunkach? Agencja Reutera je przedstawia - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHVEZUprV0dGYmFfdWROMjk4aEpGTFpYSzNna01KY21Lek82NTg0SUxCd1J6TXlYMmhILXlYbm5wdGtuWGZDVF9IMVBlNGVnd1Z3Z2FQbURPWlg2RlhqZTRMVWtfV3JVSHlmcmY1UlJPNmpxXzR6UlhVcHhCM2JIbXlmcHFycDZpNmk5TXNfODdycTZKQk5uYnQ5Y2pTWDRtWHZUQw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28 17:13:46",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7456,
+      "EUR": 4.2447,
+      "GBP": 5.0601,
+      "CHF": 4.5306,
+      "JPY": 0.026004,
+      "AUD": 2.4149,
+      "CAD": 2.7109,
+      "CNY": 0.5211
+    },
+    "crypto": {
+      "BITCOIN": 403679,
+      "DOGECOIN": 0.824282,
+      "ETHEREUM": 9885.82,
+      "LITECOIN": 356.97,
+      "RIPPLE": 8.54
+    },
+    "indices": {
+      "^WIG20": 2836.66,
+      "^WIG30": 3665.6,
+      "^WIG": 3665.6,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "\"Nie jest ekonomistą, to widać\". Mentzen zabrał głos po wywiadach z kandydatami na prezydenta - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb2dfcW9JTkJQbFZQNXExaG9qajRoR2RTSzZJTGVtalRPZVJSOGtZUDdTOTJKN3MwWTRBYjZwbjNFeXhETjdhQTVaVGE5OHdFM2RjT1B2bFZONEhFZG02X3ZZOVRrM0ZFUnFjV0NNZ3RWcEp4RUh2OFJpem01dGR3Zl9OaURXa2pWUWFkeUFxOUdqUXdrUk1sb0szNUxmdTFuOGU2cFRxdDVDTFNGaHhNeTEyczNDYUdQWUVIcW1zdTA5ZVk4S1ZFcXNoVm1pdFM0ZTZUVGFVcXNCVzEt?oc=5"
+      },
+      {
+        "title": "Komu Polacy ufają bardziej? \"Proszę sobie wyobrazić, że tonie statek...\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTRHaW55bEFqNnJPT1JORDEyM0M1OHRQQTFZVW9qYnZQeGJTLWlkQnc0U05uMnFDUTA5dlNuNzBaVnkwU3l4N0YzdUs5a1RrNzVVdXcxYU5idFlzVlhGbkNwODRtWUc5SlZBSDdVanhsRTYzNzhvekM4QTRUeHJhbTc5eXdIZVN0enpfRjhFNjBCQTBmNlZUdWdNSmg1STlWNXA4QmRMcEw0ZHNuM3dORVg1WQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki ostro komentuje zapowiedź Jacka Kurskiego. \"Po moim trupie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1RUM1JqYzRWamllUUItWmExbGZ0Y2FiNGZkeE5UdktOVWliUU54akNGOWE2bWNzXzU0bFg3YnpUa2hOMXZyTUdmaEY2anl3WExTMWxYa2ZoWEY3ZjRkbkZwVGNtVTRGSWxYWmZEOS0xdFNqakxIdkF0ZFFIWndwS0NmbDdrbXdmaDFlTVJ5UWZjNjY0aG51X29nYkFSX3NqZG9RX2hORnFRNVhsRU5TVWFEMi1YZFZzWDVEVWdYQlJDdVZaZXBUTnVzVHFQTG8?oc=5"
+      },
+      {
+        "title": "PiS składa zawiadomienie o podejrzeniu popełnienia przestępstwa przez Donalda Tuska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVAzQkgtTmJETU5uX3VaWlJMVHd3alZPZ1YyTmpvWTk1Q0lqOEQ4d3FuR3B5S0ZCUTBfRlhFQjEzSmlPQ25lT1ZqOG9hYnBIaUg4LVBQaFFPYnBmT1plYkxFOEhoXzdJSzJQWUlYTy1CZ2FuQkhmZkZ5SzBxV1QxX0lyN3JObkFrTmsyNms3OC1YaGdtVE1z?oc=5"
       },
       {
         "title": "Władimir Putin zawrze pokój tylko na swoich warunkach? Agencja Reutera je przedstawia - Rzeczpospolita",
