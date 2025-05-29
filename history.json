@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-27 06:20:01",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7344,
-      "EUR": 4.2514,
-      "GBP": 5.0651,
-      "CHF": 4.545,
-      "JPY": 0.026133,
-      "AUD": 2.432,
-      "CAD": 2.7231,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 405644,
-      "DOGECOIN": 0.835423,
-      "ETHEREUM": 9504.02,
-      "LITECOIN": 351.81,
-      "RIPPLE": 8.55
-    },
-    "indices": {
-      "^WIG20": 2792.0,
-      "^WIG30": 3602.86,
-      "^WIG": 3602.86,
-      "^NCINDEX": 245.87
-    },
-    "news": [
-      {
-        "title": "Widzieli Majtczaka na pokładzie. Rozmawialiśmy z pasażerami lotu z Dubaju. \"Były spojrzenia, szepty\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2pueGduT05Bem85WVB4UVdLazNKYVRIRHBHeENFaW5SUGttWk5qNUxwd29CcW91UUpqMXVhaGU1Y3RPampNUE9iYjZSaUttN0JvZzlKQnluM3NwXzFFRnFQWk9mLTFZb3Jsamh3Y2FwVjRma2FOeVNCR0hCZG1kV3lxYXoyU1VTRDhfZzczV0l3RWFWTEVnZVVka2JZMnpwWDk0aVpjTHdNaGtjSlVBajZEdW9tS2lIYl83OTdNVTdZME9R?oc=5"
-      },
-      {
-        "title": "Rosja wysłała rekordową liczbę dronów na Ukrainę. Donald Trump: \"Putin zwariował\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFgyRHRyTHNIQ19WTW9adWJvUVdXZUJqRDhsSzZjV3B0NExVNVo0TTVMdDYyTTJ2OUZqcFRYbVpwNkQ0MDZFNTZpTDYxUDU4OTZtVnpvQ3FOY250SW4wdmZIVmE2OVFiYl9lMzF2VjJqRDN1bUVRSlJYQ0gxdHAzM3dRZW9PUlAxT05raEsySmFXLUdSN2pReWdNdmt2OXd5UHJ2amV6RDVLWWdVT2ptQUNySlFjNC1CRkdfMGtB?oc=5"
-      },
-      {
-        "title": "Andrzej Stankiewicz: Karol Nawrocki kojarzy, z kim rozmawialiśmy i kojarzy, co ci ludzie o nim wiedzą - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMl9PUnEwOU5LNTNsdGVSUmE2UDBMTkcxQVU5dkFsTnFZbHdublJqbEdTOHlzMjRoTXpVZV9ZRjE1SWVNSmZsVXppcWc4SUM5OTBJTFZRcHVlelYwQmNScnZENHkwSENfeVhyUkpxekRQWnJvS0p4UzluajNlc1FET1lrUjFXcWJTWmQ5SkJiZjhGalBjMXpFM3pwdWhwdUdHT2J4b3VoekNHSlZZTkVKZEZabm03VWRpa2FmdDFEUV8zMUFEdG5fWjJBX1hwSzdBRlhlb0Jyd3JhU0hYQlhqaQ?oc=5"
-      },
-      {
-        "title": "Test na obecność narkotyków. Jest deklaracja Tuska - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmZzTUltSnV6TFZ0WmkzcmZvcG1sajlxRm5vMW1BeUVSeGFObGtidGNheWtkbHJVaVI3ME1hWkl4REhNQ0ZNWVJHbVA1TXFudXNmVmlzNTVVQjFWQlR2VS1felF5SDZDVXFha1A2R2hGb0lDbjczX2dxbkJUd0FVbmI5V2JtYy16MmZ4c1I1SdIBjgFBVV95cUxQZG1sRklMRVkyd1pHLWRINjU0dl9EbEd0ZnJmamNwY3FXUWdtVjNpM2tkY0YzMnAxWExtNzZmUGhZVHNZeHVucmdMcnp1cnF5blBUS3UwSGV4S29sNVJaMGRvZ1NheWx1ZVZkRXNxdDVuRzgwQVVob3A2dWJwQXYtZmtXR1l3Q3Q4TWZraUt3?oc=5"
-      },
-      {
-        "title": "W czasie kampanii zmienili kandydata. Sondaż pokazuje dlaczego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcE9vZF9DU2ljZTFoa3hZXzZzd1dtOUlzN2ZmZFp1Tk9LVVRKNV9sYU5vN2F2VWVVc2RTT182ZEM2ZmJsRFdOZW9JZURhUUZnWUlSUjFKWFVIN3pjWGdnLUlhVDJrMlEySUtLNGNsY00tZFpuX1RQb3BTYkdXeVVOR3FqeTh5X2NZbnpWekgyenJUQkRLRlhEM0wxXzluNGdxdDc5RmQ1bEstOVVsWHM2MjB1S2J4NE5PZ3o5YXdSbmFqMmRKd2tQUDc2ZWtQal82TXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-27 07:14:20",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2634,6 +2581,59 @@
       {
         "title": "Nie wszyscy muszą iść do lokalu, by zagłosować w drugiej turze wyborów - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2xuMkxfSUV6RDhTTUVxNGN4bU5sT3dCY3ZhYzZ2bHNhX1A3eThlSm5MZFhRakk3QWYzaHBUbW1oeEhVdndrWVNHRlNsejAzclEzX0FnTE5STEZCRXRHMFhhODB0Z0JvVjl2aXJ6MXBQdVVJUnBfWUFtTVd3VTJEODJqYThDSFpJajhhNUNEMlpUOWk3WXhuVzd5OHpBTC1MRk1Za21Ma2dmdTNRR1VoZ2JIak4zUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-29 12:15:30",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.7588,
+      "EUR": 4.2369,
+      "GBP": 5.0593,
+      "CHF": 4.53,
+      "JPY": 0.025875,
+      "AUD": 2.4194,
+      "CAD": 2.7177,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 407508,
+      "DOGECOIN": 0.846318,
+      "ETHEREUM": 10257.43,
+      "LITECOIN": 366.09,
+      "RIPPLE": 8.62
+    },
+    "indices": {
+      "^WIG20": 2821.59,
+      "^WIG30": 3645.38,
+      "^WIG": 3645.38,
+      "^NCINDEX": 245.09
+    },
+    "news": [
+      {
+        "title": "Wyborcy Karola Nawrockiego zaczęli zmieniać zdanie. Nowy sondaż - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVRGckJaUF9hRER6c1lHMWZDcFpXcGRRV2M1cHFvQXNJcUtvQ1Q2WEV4bEtWTW1XY3lpMEU5eHp6ZkNLTGEzZ2d2VGI4ZGhrazNNVlZ3TzV1Rl9hNXR3X3E3TzEwUUlHZlBpLU95SXBrZUNjazN2dHhYY0ZpSEVVYkotaXRMSC1uZUlNNkNaUV9HUExfY0RjbFdNWk4xWDVYNnFNdmJCWldMUmpjVUNSNFpB?oc=5"
+      },
+      {
+        "title": "Czarnek grzmiał o \"ustawce\" w warszawskim sądzie przeciw Nawrockiemu. Jest reakcja - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmpEcDdKNEd3SXlSYUJaNklsQzJ2TmNwVE1OX3FUdFdiQmtiaWZEZXUycTNFdTZmTmlkNnR4Zmx4QUR1ZFY2b1AtV0NLbV9ZVkhIaHM3SmxWRWRZaW1kUzN6d1BMZ3BXYlN1bkY2N0hzMUJCaWlkR2t1N2VGaEo5UW5kUTJ5dEJZY095alkySDNCZHFCN0ZaMURyVTlVaEhPWG1nOXRXYnExdUFhWnJUOVhhbGZVbW80?oc=5"
+      },
+      {
+        "title": "Donald Tusk wbija szpilę w prezydenta. \"To tylko niekompetencja\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDViUEpSWlZYYmJXLXRfUG95NTFMT0VkVWNQcEU0cE5tcjBTSXlVZUtaYi0tVE0yaXhtQmhvbzhtWHdlNDhJbHFOVF9XUi1WdTRVY3hpOUxJUmpWQkJ5bHdNTFBlc21KakNRUnM5WFp0d3hGWW5Kd0NWTzBnNUhZZDliTHdNdXZ5S2xnVzI2T2tKZG0zekNRUWZMVUhfekwtbXdmQlhzN3R1SDdkTGFmeG94VTBkTzlrQjZZbkVyUVdVZw?oc=5"
+      },
+      {
+        "title": "Stopnie alarmowe w Polsce. Jest decyzja Donalda Tuska - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHQzSFl0M2Y4TWFVOFBZaG5ycl95bzBZNlZfSWdlTDV3dk1ZX3oxMjVxMml3aVl0UnhMTFIwN21sZVg3clZ2Z1RERUIyMFIxNnMxbG9WUVZiUGJkS1BLVGZ0eVVOWGZnVEJ4bmFHQ2pSOWZ2cllRY203X2tJZy13bGY5ZmJlOHJKTndfWEhBUnBDQ2xVTjdnTWdIYnE2Z19Yd3VuYlU2N1lYZktKSU12Ukt0Sm4ydw?oc=5"
+      },
+      {
+        "title": "Zembaczyński zakłócał debatę w Końskich. Jest tłumaczenie - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlhBYmpsOGdKVFlpZU5hTWUzN1VGb0s4eUJobUtQUDEzSlktOThKUHJzdzNrLVNUN3ZET0ZreGd3UHlPbWNaQmc0dXYtZU1MdnR2STg4bHlTQVdPM0dRRUt4ZVg1MmJqNFdid1JvTVF3bFdYaU5MR2FfT2oyOWdPVDBtMXEwa3luX1piYll2YjdXNU93Qk42UQ?oc=5"
       }
     ]
   }
