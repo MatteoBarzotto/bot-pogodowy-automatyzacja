@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-27 19:12:22",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.743,
-      "EUR": 4.2479,
-      "GBP": 5.0664,
-      "CHF": 4.5369,
-      "JPY": 0.026017,
-      "AUD": 2.414,
-      "CAD": 2.7198,
-      "CNY": 0.5203
-    },
-    "crypto": {
-      "BITCOIN": 413361,
-      "DOGECOIN": 0.859347,
-      "ETHEREUM": 10040.48,
-      "LITECOIN": 361.86,
-      "RIPPLE": 8.78
-    },
-    "indices": {
-      "^WIG20": 2813.71,
-      "^WIG30": 3629.62,
-      "^WIG": 3629.62,
-      "^NCINDEX": 246.25
-    },
-    "news": [
-      {
-        "title": "Wipler zaprosił Nawrockiego na scenę. \"Zagłosujcie przeciw Trzaskowskiemu\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkc5YV9CRTlBak9hc0JnYmZQNUJsc0swS2dCZUNSV2h6MnZtbVc0aHVPSjhuZ2wzbnVyMUkzaGxxUUpBMlV3NHJOMllOem43VjV0SVVSbGJNMUwxczBPd2V3UVZyRWs2UDJUTFhyc25lQnNvNzJlRmpqelU4Z2xweGRBekdVRGxXa09JT1U5MXpmNGROZXZuQ2J2ODFGRXRCX19WVmJWMERjQnJsOE0tWDFsakkwVWpzbDZN?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki pozwał Onet. Poseł PiS potwierdza - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dUeHZLNXF4YkZoQXVLWnFmdjV2SV90c3ZUZTZHMXhhR2JwQld1cE5kRThMenVQUDNtOVQ0d0QyVmRrU29OaXU3aUFYWVBsbmFFZHZpOHU5VExGS2lHYXBYWlZGZUhzRzBiQTdiNFdfM3R2OVNRaUx1U3BVRG9IdHNqMi1sdDhMa2Z0dldiU240RExtTWlMallMY2xoZ2xnSjY1MXRKelFpMC1VR09Z?oc=5"
-      },
-      {
-        "title": "Sebastian Majtczak usłyszał prokuratorskie zarzuty. Tyle odsiadki mu grozi - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzJ2TlMzclRhRE1YaGpBV1dHcHpyYkhEZDN5bEI5STN4YXpmdG5SUXJrZWpOeFlDc3k4VXpjVThYNkRZbkdndjVoVVI1NlE1RGR1MVFPRUZiX1dYbDkyREw4YmxTcnBVVV9ZWmltUF9zS25zM3BJZG80bloza3B5enRyTVpBTHNOSVhhVEZTXzVvY3VybG9tRzZjeENQS2ZyMGZzTlRzY2VsYzRz?oc=5"
-      },
-      {
-        "title": "\"Zrobiłem test na obecność narkotyków\". Karol Nawrocki pokazał wyniki - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONk9jdGtocWdYMEQxSDR6NGJyUXY0WTdKRjVvNzNFM1dKMDZ2ejVHeDRCLUVaNU01YTUxZzQzbUhLdUp0SlRteGh6cmxQbzh0OXVteVh3TWhPWjlHU0lXLTdqNjdvcU1QY0JXZFRQVDJUZlZtS1d6azA1WGV6M0duQ083UVE3cVhMS2N2U0pqS2FESk9oa0xHN0tuM1Vyd1dkNGpXdlh1RlctdEJSc0tYc1VpWU92d0hmREZ5X0RB?oc=5"
-      },
-      {
-        "title": "Służby: ABW negatywnie rekomendowała Nawrockiego na prezesa IPN - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFVUeTcyckZndVo1cjBIN0ltVlhHQ0xhejZUWGRpZTBSM2lVUHZCWU5vWVdiR1BULTByN1Q4akJ4V2NKZW1Bd1Z4THFQaC1rLXFIWjhtMGM2YXIzSFFLZHFBSlUweXNfUDlJckItQUYxdjI2RHFSWHZEUnkwbldIa1NKRGNhazdHQ0tpQWNGT2RITUxW?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-27 20:18:06",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2634,6 +2581,59 @@
       {
         "title": "Andrzej Duda broni Nawrockiego w sprawie ustawek. Premier reaguje - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWdyS0tLdXo3aExYak43TzFWd1NkVXJlbnFwRXRPd0dVbnd4MkNKTnlfOGxkcDJfVVR1V2FSRlJBbGM3WlV1Q192NW1lYVR0bl9zVVJmSkZkVkItVl9KMjNCUHlzRnNhZTZ5WGNVUE5YcW16Tl92ckNlbGRjUmtSMDZzWjVlQ1VzeWZtaGkzTzJIWHdrSUQ3R2xfMjJQcm5SMUxXNXdBSmFYN19Ga3k1VlN1TWE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-30 01:13:12",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.7588,
+      "EUR": 4.2369,
+      "GBP": 5.0593,
+      "CHF": 4.53,
+      "JPY": 0.025875,
+      "AUD": 2.4194,
+      "CAD": 2.7177,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 395403,
+      "DOGECOIN": 0.810157,
+      "ETHEREUM": 9872.3,
+      "LITECOIN": 350.67,
+      "RIPPLE": 8.44
+    },
+    "indices": {
+      "^WIG20": 2785.96,
+      "^WIG30": 3600.32,
+      "^WIG": 3600.32,
+      "^NCINDEX": 246.13
+    },
+    "news": [
+      {
+        "title": "Sondaż CBOS. Jak wygląda przepływ wyborców przed II turą wyborów prezydenckich - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTdBS0xGTWJtUko1d0dVYUM3N2ZSTHpLMlJjX2VlVzhjem4xaGxMZ3YyS1laenlQVGlMc2w1TVpMa2xEdjVSUnJ0UV9DZWRzR3NINjlWTGxvVmFnc0hCck9HTTc1MmlWUW1HYktFMWY1TGdReDlJRFVibHRNRngwM28wSlRVREMtZnM0NFpsaG5KNEtLV2VBR3hmd3hMd3NTcHVQOGxxN2tYanoyMkxNdHVRZWV5QkU?oc=5"
+      },
+      {
+        "title": "Wieczorne orędzie Andrzeja Dudy. \"Konstytucja to nie zbiór przepisów do dowolnej interpretacji\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaG5jaklJT0VTenhWbm12NUFlN1otWEpROElWbW9rRU1MV1FKWEhmZ284Yi1pZEhpS3l6OVo1Y25XWlJqMmQwdmhXcFRMY0k5SG94bDlZN3Z2b3N6WHRIWUNYU2VkV0RsT0VHcjN5VVFYNV9RR0hSVUlxbGdYTWdSTm5sSTgwZnhzWUtrUmx5eXBIUGdOb2hqMjFsODBaZFRITVJONjBKb1l4MGdBVmtvbHJxckFPYV9Ga3JZLXFrczdMMVQ2RkQyM2dBV1M?oc=5"
+      },
+      {
+        "title": "Andrzej Duda broni Nawrockiego w sprawie ustawek. Premier reaguje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWdyS0tLdXo3aExYak43TzFWd1NkVXJlbnFwRXRPd0dVbnd4MkNKTnlfOGxkcDJfVVR1V2FSRlJBbGM3WlV1Q192NW1lYVR0bl9zVVJmSkZkVkItVl9KMjNCUHlzRnNhZTZ5WGNVUE5YcW16Tl92ckNlbGRjUmtSMDZzWjVlQ1VzeWZtaGkzTzJIWHdrSUQ3R2xfMjJQcm5SMUxXNXdBSmFYN19Ga3k1VlN1TWE?oc=5"
+      },
+      {
+        "title": "'Wybór Trzaskowskiego to błąd'. Migalski mówi, kto miałby większe szanse z Nawrockim. Dwa argumenty - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjJ0U3pNU3FyN0FOblVhb1R0clhtdHdOc01Dcjg4cXBfeDMxSXdQMGpYZ2YydHFJa0VaY3JiSE1OMzhiOW12WXprN281c1FsakZ0TUdWOGhmWmdSOWt5dkI3Z1ZTVXNXODhubHJqNnUwZThUUm04WVVlR3BZQ0N4dm5xT05PcDBxSl9EVW91WW5KUE54MmNiMVB6WDZvczdKY2NVclVrYmpNY3dUaDB0TVVNMktfTVNiX2YwVVAwNFlsZw?oc=5"
+      },
+      {
+        "title": "\"Zupełnie niepotrzebna akcja\". Sztab Trzaskowskiego odcina się od posła KO - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYW53TFJRNjhRbFJ4QXI1UGVMTjhaUjJLR2U2Q0tPTGw0N1o5d2Nqb0hBNDZ6aEI3dUpHVEdERC1HNmNMWVVlaUpRU2FQSGo5REhQMndqbXFkMjZna0kyZG9KbHl6Z2lnRGlJVW1hb0VpNWlwNHZJSkpLelFIMnlkYmU0UUxIdEo4eXk0cE1lN1QzdVVaM2VuV01Hdm1wb0VrZ0dCQnRwTXZHNVBDYU1MQzd0dFY?oc=5"
       }
     ]
   }
