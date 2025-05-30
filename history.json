@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-28 05:09:28",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.743,
-      "EUR": 4.2479,
-      "GBP": 5.0664,
-      "CHF": 4.5369,
-      "JPY": 0.026017,
-      "AUD": 2.414,
-      "CAD": 2.7198,
-      "CNY": 0.5203
-    },
-    "crypto": {
-      "BITCOIN": 408553,
-      "DOGECOIN": 0.841973,
-      "ETHEREUM": 9905.31,
-      "LITECOIN": 358.85,
-      "RIPPLE": 8.67
-    },
-    "indices": {
-      "^WIG20": 2813.71,
-      "^WIG30": 3629.62,
-      "^WIG": 3629.62,
-      "^NCINDEX": 246.25
-    },
-    "news": [
-      {
-        "title": "Poświadczenie bezpieczeństwa dla Nawrockiego. Były szef ABW odpiera zarzuty premiera Tuska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDhPdWR2VTZxNF9NNm5uNnU5T01uX0JXQkRDVmlJS0h3bWJZRDBUUTdmc0JmbUZwQ18zeXNHd3M1VXlkTnRsQlZiZjNwaGFEaUs2ZDBZeEg2UDZpb2UwaFA3VlozOHBhNjctUmZRNFNTVm5nanFPSnV0TjlxVGJfV2oyYlZxZTU0d3VTZFpnT1dpeE9CdVN6UVMwMWRES0JXUzY3dUlyaXFmNEx4eXQ2MHY3SEJsSmdBWnpWN0RQU050X2FoeU9IN1RFWjI0UQ?oc=5"
-      },
-      {
-        "title": "Nawrocki i tajemnice alkowy Grand Hotelu. Stankiewicz ujawnił, co usłyszał od sztabowców PiS - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGxfWHBBcUNtaWhEb2FoZndMdUlqOW5WdVEtYmNrczlyMjNLcXA3Rnowc18tY3RuM21kQi1sbmpwcUNtTV9OY1d3aW1TbXpFLWMwaEV6blRuU0VWWDA0YnVOckVkYXBiTnVaWnJNR3pOTjc2RnZZbDJMazdDZUY3VE5iU0ZOYU9HNXViM2lQbUlfR1M3aHE2OHRXMEhCZlZxNW00VzhHeld4TnFzYW8wZ0530gGwAUFVX3lxTE4wZ0lhdW5PYlA2SVpwRXN4NUtwY25aUzgxVVRfeUFZSkJSaThMOXhZOFpRdkd5NndJeGUyT3pyNElvLTlFRURMOGljdFMxTzFYRWMzWEw2eVkySUhwcF9Ob2l5ZGxCMFM4RlN0RmxPN1c4YzFTRUM1c3RIY1FBVnZsUk1hemtjV1kxUUQtV00yb0FBRUNhbTV2U244SWxQODNtLTBwWlpJSVdVNHRNYmx0?oc=5"
-      },
-      {
-        "title": "Donald Trump zaatakował Władimira Putina. Jest odpowiedź z Rosji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYldTdTdsRXotN3duRmoxZzByMFpCY2ZsOUZWYkV1ZXR1Xy1LMWw2QnNJMkZpbXptQzFzbTBmWWhnMDd0dXdxVmxDOVIwRG85bUNRRklRbzl0ZURoY3FfbUp3X1FPeW9XZVZRa3R1ZDhEb3JDbUo2S1Fkd3Jjei1UZzdYZFF0aV93MDZ1T2FwWFZDekxLUS16cUtia1A2WUZfOEdqbzBkWVFOUHNrR3MwOThFRHU3amVrRnM0WjJvZDRCR1dR?oc=5"
-      },
-      {
-        "title": "PiS wyprzedza KO, Konfederacja na podium. Najnowszy sondaż poparcia dla partii - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDhvNGxxZ0lpekhSd3dMVDR3N0UtX3BjblhNVjRQbWZ0ZkJ0MWVzY1lyVXl5d2FJLXlnckdtY2V4NDNISU5XdTlVcWsxVkFXTTAxVFRld1pyQ0FrTVFyYU8yMUUwUzdCY1h3cFhJWnV6aG1wX0hKVUMyMmNBUzlnM2tFTTIxeHk5SmlOVEpEdmpkemlGRFI2VjRSem44VVJrdEQ4UnpwVy1KaDNLUHQ4UEU3bw?oc=5"
-      },
-      {
-        "title": "Rekordowa liczba Polaków zgłoszona do głosowania w Niemczech - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGRvZUhscEczcE5lTDlxWlc2bGd5WERtS1p2OWE3Qk1QOHN4OEw3SmgxSUQxcGoxcGE1ZWZjNVlFTjlqNmxyLU1SaDJqbDVKRFd1US14bmpUci1VTk9DNkNBRjFtYTJzSGRpOXVycExSdUM1WXE3TVI3TkJiRS16VVduaVQzY2dwTHFXcVU2NHdvMnpYTmJDckJQb05pbzVPMnhrVUI3QnkzTU5lWlluZ3BvMFY4M0tIa25lTGVubG4?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-28 06:18:32",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2634,6 +2581,59 @@
       {
         "title": "Ciocia Mai o próbie samobójczej Bartosza G. Rodzina nastolatki chce jednego - Fakt",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY09BYWJKYWFpNFRLaGFCeXV4WmYyRzdjVTdtd2k0NVJtUndhRDc2c0o1TW00VGZQYkJwQXZkZHdDUU5kZXpZRzBFMlRUWFRVQVBqVl9WV1p4STdfdFM2eXhmOC1hbjBITlFRSGQwb2tsZGJTaDI1Yi13ZlRtbUx0TjJtMzN2aTFYOFNDQkhPZUlWR2NOV3FQWVZVMTE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-30 11:14:41",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7588,
+      "EUR": 4.2369,
+      "GBP": 5.0593,
+      "CHF": 4.53,
+      "JPY": 0.025875,
+      "AUD": 2.4194,
+      "CAD": 2.7177,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 394807,
+      "DOGECOIN": 0.767258,
+      "ETHEREUM": 9824.97,
+      "LITECOIN": 338.56,
+      "RIPPLE": 8.21
+    },
+    "indices": {
+      "^WIG20": 2738.77,
+      "^WIG30": 3542.55,
+      "^WIG": 3542.55,
+      "^NCINDEX": 246.62
+    },
+    "news": [
+      {
+        "title": "Ostatnie tak ważne dane z gospodarki przed wyborami. Co z cenami w Polsce? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjB3OElVajd3SGNHWEVnanR3OWxjOUFHS0hrek9lbGROUzlLb2tCUDNCRXFkYnp5R2wwNjNOQ0lBQkY3MEw3YUgyOG5DNVRYb2hkcl81eGI4STh6cjI5TzNhMmVaTkhuelZTSWdUdUZiN01TNGlXN2h2REZxRklreXNzVlVnTzhOWGRZSmhxTlp6dklpdTdacWc4ZmlUV0lya0xhaWdyNmsxUnB6OG5TQw?oc=5"
+      },
+      {
+        "title": "Kto jest bliżej prezydentury? Są wyniki najnowszego sondażu. Minimalna różnica - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX09JLXJkWURNTktFNmZ0cXhZVG9URVczci14RkNTTzkxeEphVnhrdGp5anZhNXdRTVp4V0VjVlVfbFZrVHpCZVg0Nlg0VXc2TTkzYzNwMWxVYkxkV0FoSGlFLU1jNUZOWlh5ZzBJY0MtUWtZcVVIdWRsR0R0d2Nrb0hBM1duSlBZdHlpaVdfOElJY3Uzbkl6ak5HQXNyTVF3WTFHMUIwMF9hOHhzMzE2cFozNjZ3UVdwYzZIQmVtWko?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Trzaskowski kontra Nawrocki — polityczna wojna na śmierć i życie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM0lNQTFhYTgyVXk3OUhTVDNwdnZERkRyMVdGMXdpMmZsZDJ0QjhQanhteFNmU0YxQjF6enExRjNjZ3htTGJqRllzSUZJYUt1YmhEdjlkNms4eDgtU28zRFFDaVBFXzFzdkt6UndXRG9oeVpvazZsWjYwTFdiN21yTk0xcHBXWTNHbVBqRlU2U0x5cXp4UGR4bVEtcUh2cFg4bk1LdnB4TU9vUXFLY3hpTGJOVEQ4dW5nN0xLUVlsQUpiS0E1ek9GYzNXRQ?oc=5"
+      },
+      {
+        "title": "Polacy pobiją wyborczy rekord? Ekspert mówi, co na to wskazuje - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzB4S3dhQ2FPaTNab3pQRHUtMDFQUHpWdnRubHVUR084dFpnQ1FfeU5YcUFqU0FheWs4d1d1MWtHSlhpdFV3Q3dUSjcyTXRiMXFCWF9HM3N2WTg0NUgwdTJEZjFaYVhUWkl0V3JqSllrREZpRGRubkhNNVJtNXF2RktFQ3VGbmxfRHpuaTFJYkVaS09ON2JNR3duQkVTd1B5ZlBIQkk0RFhmcFdtN2dpdTJJRF9Xdw?oc=5"
+      },
+      {
+        "title": "Kontrowersyjna lista w pubie Mentzena. Dziennikarka z niej zażartowała - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNZSzZXbW1mdlhRdnJfM3J1UFlMSlBvSUJSSWYzUi01ejQ5Vl9jLXpDSlNTZExjeXE3QlVKRnFvVlVmSkNjQW5xRnhEVEREb01aaDVBU0pQOTl0MTRqOGtYdTlOMmxPMzYzUEN6UW50SmlXS1pfQ1IybmY3WnFpbmZqU1B4bWxqVzY5R1pnQjlGZUtGUjdZQmhHendlTzFFMXg0U1VqYVZEdEp1NGd4N05n?oc=5"
       }
     ]
   }
