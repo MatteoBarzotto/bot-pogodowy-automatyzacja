@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-28 10:18:54",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.743,
-      "EUR": 4.2479,
-      "GBP": 5.0664,
-      "CHF": 4.5369,
-      "JPY": 0.026017,
-      "AUD": 2.414,
-      "CAD": 2.7198,
-      "CNY": 0.5203
-    },
-    "crypto": {
-      "BITCOIN": 407899,
-      "DOGECOIN": 0.834982,
-      "ETHEREUM": 9878.16,
-      "LITECOIN": 358.12,
-      "RIPPLE": 8.6
-    },
-    "indices": {
-      "^WIG20": 2815.56,
-      "^WIG30": 3639.79,
-      "^WIG": 3639.79,
-      "^NCINDEX": 245.75
-    },
-    "news": [
-      {
-        "title": "Nowy sondaż prezydencki. Zaskakujące wyniki wśród wyborców Konfederacji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkU3aTBiempwZEhGQ3FnbEEtTTNtV1JNN0lPTFp2bU1mRVRkekQ5WFVkSnV6RmFFSmhGb0tkcXFLSnhJdTdUMUM0bTRzcUc2TlhXb2ZBM2VOeWNPdFAyOTdnOG1CSFJxWTNPNkYteDA5UnpxaXNlRUFpcUJ2ZF9LNGgxYnAxcWRvNHI1cEJCREVwc3pQRUc5b3ZKZ081dmhiVDBNRHNxejBlZm5VQUViNDNSZXc2bGh3QmdwMGwydFlEdm9IYy1UQlFHcEU?oc=5"
-      },
-      {
-        "title": "Nawrocki i tajemnice alkowy Grand Hotelu. Stankiewicz ujawnił, co usłyszał od sztabowców PiS - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGxfWHBBcUNtaWhEb2FoZndMdUlqOW5WdVEtYmNrczlyMjNLcXA3Rnowc18tY3RuM21kQi1sbmpwcUNtTV9OY1d3aW1TbXpFLWMwaEV6blRuU0VWWDA0YnVOckVkYXBiTnVaWnJNR3pOTjc2RnZZbDJMazdDZUY3VE5iU0ZOYU9HNXViM2lQbUlfR1M3aHE2OHRXMEhCZlZxNW00VzhHeld4TnFzYW8wZ0530gGwAUFVX3lxTE4wZ0lhdW5PYlA2SVpwRXN4NUtwY25aUzgxVVRfeUFZSkJSaThMOXhZOFpRdkd5NndJeGUyT3pyNElvLTlFRURMOGljdFMxTzFYRWMzWEw2eVkySUhwcF9Ob2l5ZGxCMFM4RlN0RmxPN1c4YzFTRUM1c3RIY1FBVnZsUk1hemtjV1kxUUQtV00yb0FBRUNhbTV2U244SWxQODNtLTBwWlpJSVdVNHRNYmx0?oc=5"
-      },
-      {
-        "title": "Poświadczenie bezpieczeństwa dla Nawrockiego. Były szef ABW odpiera zarzuty premiera Tuska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDhPdWR2VTZxNF9NNm5uNnU5T01uX0JXQkRDVmlJS0h3bWJZRDBUUTdmc0JmbUZwQ18zeXNHd3M1VXlkTnRsQlZiZjNwaGFEaUs2ZDBZeEg2UDZpb2UwaFA3VlozOHBhNjctUmZRNFNTVm5nanFPSnV0TjlxVGJfV2oyYlZxZTU0d3VTZFpnT1dpeE9CdVN6UVMwMWRES0JXUzY3dUlyaXFmNEx4eXQ2MHY3SEJsSmdBWnpWN0RQU050X2FoeU9IN1RFWjI0UQ?oc=5"
-      },
-      {
-        "title": "Minister bezp. krajowego USA Kristi Noem: Nawrocki musi wygrać, Trzaskowski oznacza piekło - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0ZsUkZRdnFTa2I3VXZFYXJkSER6NmRJeUR1UHNuZWdDZ1FTbW5LdUNmU2hVTEZQalB2WVhvOUFYaWZOeGI1NGpvWFJVajlsa1A0T1JXUldHUk1RVURUNU94RDVFNzg0UUNuZk9qS3RTdmQzcjFWblJjUjltOGMtSmloQU5PR1ZhSk5YdW8zekhMTTFSVi16RUVXUHlEZlcwd0Q2WHA1WFBUcXFvSGl3QXp5Y044cHl2Q2F4UG1OR2VxX0hrWVFKWHl0ZW9SUdIBzAFBVV95cUxQcGItMWxQa3hpQjlOVXVKS2hVdUl4YmZHdEpBUXYtN1Q2Tm82QjIxZTZBNlJDbEozNXVBVEFXeUh1Mk90dWQ3V0FJNFBaZkZKam5kQWQ1dU9GaC13d1FkMGtvNmJFa20yYTBzMTJVQWR4bHdzOEhDdmFaT3pRSmc4cDJHM0NyeWVobDNNZmRMUEpKUWFUbENxSVNNNXM1YVhDMkU4U21pLTlrMFlid3Eyc2w2WVBPTENGcjJmZ1lLbmstbVJ1YlFDbE1qWnc?oc=5"
-      },
-      {
-        "title": "Miedwiediew odpowiada Trumpowi. Pisze o III wojnie światowej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkNhdGFoZVZLRHBBMEU2bHdtZFRBM1NxakY2Q011WF9XZFRTLU9kdTBVd0ROcmZlRjFDZmJ2ZHpuWnRFNF9hYTEzRm1oeEZPWDdLeTFaVnpzYlFnZUptRnJXZE1GdXh2WVp3RlZpcWN3dkdqeFc5eUt6WlBXcGR5aEx1VWNGQ2F6VHVVZGVpQ1RLSE5KRURjNkJDYW4tT3RTd08zTA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-28 11:15:17",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Duchowny grzmi o zachowaniu jednego z kandydatów na prezydenta. \"To skandal\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmtySXo2ZS1mS29vSEJSLUVTeGQxeGVoeHpuZUpZQmNZdUFySk80OHE0VC01cjZiZS1hQ1VUWjlpSzlBdjRBVDh1UmF1RzFKRV9rLVVDRGtBSnVzaGNIc3dMNFgzd1ZlRGgxVmNHZ0tkc1M3M0cxWjdhV1dDTkRVc05rWXpjckNGSFA0cDdNYnpQcktxSGpndnRJT2g0Wk12VWV6RXQ3MGROdmxOd3ZKaEFFdzE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-30 16:14:07",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 396345,
+      "DOGECOIN": 0.762225,
+      "ETHEREUM": 9701.38,
+      "LITECOIN": 336.33,
+      "RIPPLE": 8.2
+    },
+    "indices": {
+      "^WIG20": 2758.2,
+      "^WIG30": 3565.68,
+      "^WIG": 3565.68,
+      "^NCINDEX": 244.51
+    },
+    "news": [
+      {
+        "title": "Zaskakujący sondaż na ostatniej prostej. Pięć pkt proc. przewagi - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX25vbjNTeEZXVU5HczNnS1U1VHltNHBrSElKaXNlaUdXOFpNamc5Q2EzalU4cV8tSTNCRV9HR3VhZGNSc2xCVWlaRG5DS1p3WVFoOGVoUmFOZHN6VXkzV3pjaThHaGN4SkNiUXVoMU1RalNycGQxZkVqLUtNVDFWTGFZajJaQnhRR3hPbnFzdkJzZlNicXZ4WlBqZ3BNRTl2eGFTTzZ1dzBfQklLT1QzT01B?oc=5"
+      },
+      {
+        "title": "\"Mam złe przeczucia\". Prof. Dudek ostrzega przed Nawrockim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2x3WDY5Tm1FeENZMnlsTnEzbWtiNmZ3bmJlbTAyaUNxWnNWYjhoRmNwSHZPWTZra2F0NzVyR1ZHSW5PUGZKSUVIZlNjdGtLSG9ab1BlRi1KQnFoZDRoM0Rxa2VCME5VN3g1cnR1aHdKNlhhQXd2ZkthbVN6cktoT2M2emRtMU5YUnJWbGQ4Z0ZzdnYtUDZvZ0lwaXZYZw?oc=5"
+      },
+      {
+        "title": "Kampania wyborcza dobiega końca. Tak zakończą ją kandydaci na prezydenta - Niezależna",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUExTZEVUc1FkSEVFdnUzTDlIQWVZVkdLME9PNGJ4aWQxYmEwc2YzTi13MktLLS0tNG1tNExlSjVHNHFhYW9mUVZ4NWI1aU1IZFRGZDlScXF2ZW1FN0VaZFVaM3RyYXV3ekQyTlQ0SXlBdUV4SGtJb2tRSXNGRnBtTXNHSUJFdkJHckk1N3M4ZEx6dlF6ZHp2QmRZNVpfalZMeGc3Znd6Q1dJdUE?oc=5"
+      },
+      {
+        "title": "Kiedy poznamy wyniki wyborów? Szef PKW wskazał dwie możliwości - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHRhYXdCSEFNSmo3MzBXdmltMjFXemhWYWZubVByNFVvamFxZ3hiVUxoVE4wVC1NTXRrZFNtQnFvaTZfWndTWjAzLVhFTXd4OTVOMFkzQzYxdnlKM1hMU1dLOHl0aV8zX2pqeE5OUXFleFFqdWZGcGFDblJxMVREQXhFT0o1bVFyVms1RWFoSURRNGw1UkRyTGtPUFlsajl0SmhnRndCQ0I0NVluODdtR1pCalhBWFI3OFQ3SnRjMUJGV05y?oc=5"
+      },
+      {
+        "title": "Bartosz G. w ciężkim stanie, co z jego ekstradycją? Prawniczka zabrała głos - Radio Zet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXRRbG9hYWFfV1pZVEJ5UjVxcWI2MkRabUlnQjg3aVpGYnFwUGRLdWtlU0tHS2c4Y3FnRTE5elZVZmxfU3ZIMEhXRy1POUYzRmpQSWxaNHhqaUxNWmlReUh5TzBnTHFxTElrQm9jOVRaT0pvVU5uZmxTWWtRRWdqOVNWaVFwNkhiaVpseXVkUzhRblZ1OVNOSzNxeHh0QXNhdjYyMGlnNXo1NXZ4bUx3?oc=5"
       }
     ]
   }
