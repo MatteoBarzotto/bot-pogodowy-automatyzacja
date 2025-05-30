@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-28 14:28:32",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7456,
-      "EUR": 4.2447,
-      "GBP": 5.0601,
-      "CHF": 4.5306,
-      "JPY": 0.026004,
-      "AUD": 2.4149,
-      "CAD": 2.7109,
-      "CNY": 0.5211
-    },
-    "crypto": {
-      "BITCOIN": 408393,
-      "DOGECOIN": 0.83974,
-      "ETHEREUM": 9987.41,
-      "LITECOIN": 363.88,
-      "RIPPLE": 8.66
-    },
-    "indices": {
-      "^WIG20": 2835.79,
-      "^WIG30": 3667.22,
-      "^WIG": 3667.22,
-      "^NCINDEX": 245.6
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie. \"Fakt\" zadał Polakom nietypowe pytanie [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTRHaW55bEFqNnJPT1JORDEyM0M1OHRQQTFZVW9qYnZQeGJTLWlkQnc0U05uMnFDUTA5dlNuNzBaVnkwU3l4N0YzdUs5a1RrNzVVdXcxYU5idFlzVlhGbkNwODRtWUc5SlZBSDdVanhsRTYzNzhvekM4QTRUeHJhbTc5eXdIZVN0enpfRjhFNjBCQTBmNlZUdWdNSmg1STlWNXA4QmRMcEw0ZHNuM3dORVg1WQ?oc=5"
-      },
-      {
-        "title": "Co ABW wiedziała o niebezpiecznych związkach Nawrockiego? - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEVKVDdCMUZhSzdnZzgzWDdEaDhJT3VBZ2ZJUkVwSFJLOWdPYkplV2pZZWYyXzJsbFY3YjlMMU1jVVQ4emd6V1VxS2dhN2JXbTlCNVJYWHdkNThVZkNwZTkzYmtMejNLU3l3Q1pFdUNKRnY4cFNOWngyRWVUbC1VbUQyUmtSUEIzWXVCd25WckNuTTJUbXI2aHJPbDU1ajg?oc=5"
-      },
-      {
-        "title": "Mentzen pyta Trzaskowskiego o spoty w sieci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjgwMkpaUUFNbTBTd19uc0pfOUswVmZUZHhIRlNKSnZ2eE5uWkdYR3IwLTdzUV92Y3hsd2ZZbkVEN2hhXzlLTXNVTEMyNk5OUTNRNjFkbUJoZ19BVGtxQlo2azdRUEgyOXRMeHRkUTdYcGhzdk5OY2JJZW9fRHVfUDNVVHhtLTFiR2NBbGlRdU9CYmg3NURLTVgwSUpGNEh0?oc=5"
-      },
-      {
-        "title": "Pogoda. Burze przetoczą się przez Polskę. Ostrzeżenia IMGW - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR19KRmgyekF3S3dfMDdMTXJxamQzYnNIdWlmYmhjTE1FM1hKUHZ1NG1vcEJ6S3FMX0R2TmJubXhZS0VLSEUySWNlY0E1QWtxdUpVVU1ITWdTelNRUmdzdkJjX2w3SVdEUVg2OXlIaFBLbkRXUElxejlXcU1WQmVXSjhHRDlRZjFHRjNnZnNnUmJGRE1MZFY0RndoZm5GN0VTNjhBWnJR?oc=5"
-      },
-      {
-        "title": "Reuters ma przecieki w sprawie rosyjskich żądań. Putin chce zobowiązania na piśmie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjVZcktQUHhuTVJjOVZ5NjVjTGdwTGFZNEhPZmpyZzZVNUxrZ2Fkd1ZNcURheFdtS0U0ZDc5OEdKYWNlRFVpREVIdHNFRVBab3dQRl91dGROYUEyeUFzSE85SDBQR3pEaG16WklZYnBGTXNsRUdZMFI5Y19KalJEa3cwTjE5bVpNQjktT0hnV1JmRm90am91QWdvZFlWVWFIaEZBRFdHUTE0dEZUWTJYbjNLLU0zTktyVENHb09HMFBZa0paSDd5anV5Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-28 15:28:15",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zenek ujawnił, na kogo zagłosuje w wyborach. Jak do tego doszło? Jest wideo - Plotek.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUowNlhaN0tFSUY3Q0lNVktsRVA4SUxfSERVUnZMX3FCVlcxNUZ0TWhDTENNR2loa0xqNG9adnl0aFd4X3BHNDdjeWtzNThLVmhWMjZYUm11aVNTbDREWE5WZ3BHUzJtRVp0NnAxQzZzTnZzR0J1WHpLeXNFQlRYeGdWbUVzOXptRnkxamN1MF9Cck9PMGwwR2FRb2FkSXB1MjFvU1ZyU2RGb0tEZzJzemMwUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-30 20:18:58",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 390308,
+      "DOGECOIN": 0.741709,
+      "ETHEREUM": 9559.19,
+      "LITECOIN": 329.29,
+      "RIPPLE": 8.17
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki wyprzedził Rafała Trzaskowskiego w nowym sondażu. Różnica jest minimalna - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjhtSWdFMGcwYVk1UnB3aWR2Y2ZMMnotV18tbTZhdTZteGYtdV9hMDgxM1BOcU5wVmlNNTFzSjYxY3VEeHBIbC1GLUZmVW9melIzZDhYVDVNY0hfNmc1VzRRRUdKaWJQX0tjNWhBZUpMTlJGd2RHU2tFWE5jRUVTeHBrb0dKNW1OLWtjX0xuYjZScFRCbW5BTkNIVHlMMWtqQXdkRXpvX2g3eXY0bEMwbldFQUNmZGpSMmllRGJZNXRCRkRDemozT0ZFUzd5TGhPSlNZRDN3?oc=5"
+      },
+      {
+        "title": "Wyniki drugiej tury już w poniedziałek? PKW ma nadzieję na szybką publikację - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2lRTDBLOFJtX3Uxc2hQZVlDdkJ2OWdpekd0LUdVZ09FWVFhZkEtRWthZ29URTFsTEljeDZPbEl0VXhMMWJFcEZuVVRVdGx0T3FNNTJYZ1l5TzJZcUV2SWxsY0RadzVEcUdOX3h4NlNSOEl3VGxWdGEwQ29EaEpReE5BUDdLWUYtaWRyYXlDRVBTOEszb3NNbENwUGtpOEc0QzZ4bGU5c2FSRHZVUzYzU204NkdIWUdHMlU3alR3UXdMSk0?oc=5"
+      },
+      {
+        "title": "Orędzie marszałka Sejmu Szymona Hołowni w ostatnich godzinach kampanii - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZmNod0RkTlJWdmFNRDQ0aDhIVndSTjZKTTJieWtBZzV3SXRCSWtkWmRjYWJjTWJfYXpxNGEtUXU0UHVydXRpWG5sM2VEVE5wal8zWlhNMlkyYzFaaDlxekh3UHlzWHRyS2RzSndqWFFGUXdtck1KSXBkLTNkOG5XUEpPOFFLMHJFUUZGTlgwbzVHRklUemNLWlFGaXlzMkZxQ1hGT2MwWm9LaGF1VG56R2hJM1ppN1pyakFydkItT2ZpbXVpY2NLUmpaMDc?oc=5"
+      },
+      {
+        "title": "\"Mam złe przeczucia\". Prof. Dudek ostrzega przed Nawrockim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2x3WDY5Tm1FeENZMnlsTnEzbWtiNmZ3bmJlbTAyaUNxWnNWYjhoRmNwSHZPWTZra2F0NzVyR1ZHSW5PUGZKSUVIZlNjdGtLSG9ab1BlRi1KQnFoZDRoM0Rxa2VCME5VN3g1cnR1aHdKNlhhQXd2ZkthbVN6cktoT2M2emRtMU5YUnJWbGQ4Z0ZzdnYtUDZvZ0lwaXZYZw?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński zabrał głos tuż przed ciszą wyborczą. \"Jak tak dalej pójdzie, to mogą być ostatnie wybory\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDRwWjZLMS00M2lEYW5mcF9WQ2E4eFJOZG9NOVhmbVBSVHZQaUktVnpIaGpEcVVzOFhBYlNfRE9HY3dwNU9oYU9OT05fUW1WVUk2M2lxeWtsU0ZESzV2TXdJYVRYU2VjQjVrRkZGZ1BkWXlCR3N0Y3gxN3NaWHV5eG9zTzllSG90dDRDRVE3NHZMRUpBZFBNUFN2MUpCUWFIQ29IbFozT1l4TmxlX3YybVVYWTlJZEdmU20zTjBHZHhYRGZTc2t4c096V3ZrblN5dFZvWm9POU0?oc=5"
       }
     ]
   }
