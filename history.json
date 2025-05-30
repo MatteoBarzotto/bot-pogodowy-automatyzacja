@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-28 16:14:46",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7456,
-      "EUR": 4.2447,
-      "GBP": 5.0601,
-      "CHF": 4.5306,
-      "JPY": 0.026004,
-      "AUD": 2.4149,
-      "CAD": 2.7109,
-      "CNY": 0.5211
-    },
-    "crypto": {
-      "BITCOIN": 405686,
-      "DOGECOIN": 0.831158,
-      "ETHEREUM": 9953.38,
-      "LITECOIN": 360.19,
-      "RIPPLE": 8.59
-    },
-    "indices": {
-      "^WIG20": 2838.54,
-      "^WIG30": 3667.68,
-      "^WIG": 3667.68,
-      "^NCINDEX": 244.95
-    },
-    "news": [
-      {
-        "title": "Komu Polacy ufają bardziej? \"Proszę sobie wyobrazić, że tonie statek...\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTRHaW55bEFqNnJPT1JORDEyM0M1OHRQQTFZVW9qYnZQeGJTLWlkQnc0U05uMnFDUTA5dlNuNzBaVnkwU3l4N0YzdUs5a1RrNzVVdXcxYU5idFlzVlhGbkNwODRtWUc5SlZBSDdVanhsRTYzNzhvekM4QTRUeHJhbTc5eXdIZVN0enpfRjhFNjBCQTBmNlZUdWdNSmg1STlWNXA4QmRMcEw0ZHNuM3dORVg1WQ?oc=5"
-      },
-      {
-        "title": "Mentzen pyta Trzaskowskiego o spoty w sieci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjgwMkpaUUFNbTBTd19uc0pfOUswVmZUZHhIRlNKSnZ2eE5uWkdYR3IwLTdzUV92Y3hsd2ZZbkVEN2hhXzlLTXNVTEMyNk5OUTNRNjFkbUJoZ19BVGtxQlo2azdRUEgyOXRMeHRkUTdYcGhzdk5OY2JJZW9fRHVfUDNVVHhtLTFiR2NBbGlRdU9CYmg3NURLTVgwSUpGNEh0?oc=5"
-      },
-      {
-        "title": "PiS zawiadamia prokuraturę ws. Tuska i Dobrzyńskiego. \"Popełnili przestępstwo\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVhXdEViVGtOLVBUc0Z2eE1GdnctdTh2U1RCVmY3NUp2QUgzeWdqTFlQdFdvQ0RxRXNEMUpfdVF5cmEtZU9UdXU4dGRKRDIwb1hoSE5reV93WUdRZDQwZ2xlbjlnMmhRMWoxaGEwTzFpXzNpUW1rU2s5cWFuZEVlUHRPa2sxTFRVbkF4RnEwTlhyZXg3MmhWR3E5NEpZeEUxdTNEWXQ1QlI3QllqU2pnSXEzd0xXODZQenEzZGk1bw?oc=5"
-      },
-      {
-        "title": "Minister bezp. krajowego USA Kristi Noem: Nawrocki musi wygrać, Trzaskowski oznacza piekło - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0ZsUkZRdnFTa2I3VXZFYXJkSER6NmRJeUR1UHNuZWdDZ1FTbW5LdUNmU2hVTEZQalB2WVhvOUFYaWZOeGI1NGpvWFJVajlsa1A0T1JXUldHUk1RVURUNU94RDVFNzg0UUNuZk9qS3RTdmQzcjFWblJjUjltOGMtSmloQU5PR1ZhSk5YdW8zekhMTTFSVi16RUVXUHlEZlcwd0Q2WHA1WFBUcXFvSGl3QXp5Y044cHl2Q2F4UG1OR2VxX0hrWVFKWHl0ZW9SUdIBzAFBVV95cUxQcGItMWxQa3hpQjlOVXVKS2hVdUl4YmZHdEpBUXYtN1Q2Tm82QjIxZTZBNlJDbEozNXVBVEFXeUh1Mk90dWQ3V0FJNFBaZkZKam5kQWQ1dU9GaC13d1FkMGtvNmJFa20yYTBzMTJVQWR4bHdzOEhDdmFaT3pRSmc4cDJHM0NyeWVobDNNZmRMUEpKUWFUbENxSVNNNXM1YVhDMkU4U21pLTlrMFlid3Eyc2w2WVBPTENGcjJmZ1lLbmstbVJ1YlFDbE1qWnc?oc=5"
-      },
-      {
-        "title": "Władimir Putin zawrze pokój tylko na swoich warunkach? Agencja Reutera je przedstawia - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHVEZUprV0dGYmFfdWROMjk4aEpGTFpYSzNna01KY21Lek82NTg0SUxCd1J6TXlYMmhILXlYbm5wdGtuWGZDVF9IMVBlNGVnd1Z3Z2FQbURPWlg2RlhqZTRMVWtfV3JVSHlmcmY1UlJPNmpxXzR6UlhVcHhCM2JIbXlmcHFycDZpNmk5TXNfODdycTZKQk5uYnQ5Y2pTWDRtWHZUQw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-28 17:13:46",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nawrocki dostał poparcie od idola milionów Polaków na ostatniej prostej kampanii? Zaskakujące nagranie - Fakt",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1gtNkswRTdJekFmRk1mS3lGN2M1dy1SUGJGeHZkdXN5cnJISkFmOENzdmdaOE1SbnpWaks2blZUa2dyaTZoLW41U3g4NFlrYnc0TU5vVWw0by16TEhvNnBpaTY1bUYxdzY1Wk9jUlhvcE9VUk5qTXNMdEl2M2dGaUxaclhwWlc5c3Q1RjdVdWpLbkQ0MVNBQmctc2lFZ2NlT2RGRU1kRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-30 22:15:14",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 391361,
+      "DOGECOIN": 0.749604,
+      "ETHEREUM": 9634.2,
+      "LITECOIN": 330.59,
+      "RIPPLE": 8.19
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Najnowszy sondaż. Nawrocki prowadzi, Trzaskowski tuż za nim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU21yRzlJNEpaTWVsN3d6dV9RQmJyaFdsZjg0NnhiYnAwUDVzT3B3N0hENTNucGVPWS1VbzZQUFRHUlhuTVN0ODNXaTNHRWV3RC04TXNULUZySWFDMGNCWHA5UlgySXd6dVRteFQyVFkwZjBTRVRiZ2t3VWhoM3RUVkQ5djRqOWduOGwtbVh3eDZFQy13aGFBb3RxWWw1SzlSdlE?oc=5"
+      },
+      {
+        "title": "\"Nie poparłem\". Sławomir Mentzen zabrał głos w sprawie Karola Nawrockiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE9tbElmcG9YS3dOa2ZaSlFMSV9CWktHZFd1Vko0ZHpSdFNudm1DcUU1MEFEMXpuUzV1MU0zbHlmVjdIN1lESFJzT3JJUl9NX1RlbnFtME1VNTVlWThubkdpamVqWF9Ud2IySWpBa3NVSllqXzdLWFJyZ3hiUlc3MWFaYS02UW55Wm14QVlnUTdoZU5sdVlMUlZyb0luTWZyc21hMGdDZEtHU24weFRRRDRpdF9rN0s0dk8xUUdOYmdyTGJ4OFdscFVBZVA3UQ?oc=5"
+      },
+      {
+        "title": "Wyniki drugiej tury już w poniedziałek? PKW ma nadzieję na szybką publikację - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2lRTDBLOFJtX3Uxc2hQZVlDdkJ2OWdpekd0LUdVZ09FWVFhZkEtRWthZ29URTFsTEljeDZPbEl0VXhMMWJFcEZuVVRVdGx0T3FNNTJYZ1l5TzJZcUV2SWxsY0RadzVEcUdOX3h4NlNSOEl3VGxWdGEwQ29EaEpReE5BUDdLWUYtaWRyYXlDRVBTOEszb3NNbENwUGtpOEc0QzZ4bGU5c2FSRHZVUzYzU204NkdIWUdHMlU3alR3UXdMSk0?oc=5"
+      },
+      {
+        "title": "Orędzie marszałka Sejmu Szymona Hołowni. Oglądaj od godz. 20 - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUUyVnVVa3FGcG5INzltSmhrQXFuWkNDWnZTcjlra3NxejZBQUI2UkpfVUJrVy1fWGtuT2FzQ3ktdlE4VjA2RjNrR2Y0bElXYjdwbGpKSzFwcWpuTGUtczFBalcxX0s4STZIdThfZkUyUmZxaTduaVBCSmppcVFQcFNlcUVEMzVoYXdIUXBJbWc4UzFrczhrSjA3NlIzTmk5bWpyRDROV1lhdw?oc=5"
+      },
+      {
+        "title": "Nawrocki: Wspólnie i mi, i Tuskowi udała się jedna rzecz - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hrWkVUR0hMNkNPd0wzdDNqNVRaam5xd0N4ZDBmT0NDU0hFMDFuYnVsb3NhcGN0TnJDX2c5MnJRWkhHdUFhVkh4WHRnWEtHNC1LYTgtWnd1S213b1dCWk5PV19xNXZiLUtVM28zUW10bDJWVWZEQ1h2UGp1RHY4dWtETlh0cERMZnBGX0ZnOUxZRXp6bVHSAZQBQVVfeXFMUFFIWGNkeE9TTk56dU5LWUpMc3c4UHlmVDFjdWc5clBvMmtZTjdGR0dsaWQ4NmlpeHBXNXZ1QkdvU01TQzBOOVBKYVd0c1FLLVhNSVVOZFVNanhsMU9KUDBoX0U4dGFHQmszREVqc09aT1BPM2FVUXREU0tFNmJpOVpCMkRxQ3paOUNxZHlxVFY1YTZqYQ?oc=5"
       }
     ]
   }
