@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-28 03:08:32",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.743,
-      "EUR": 4.2479,
-      "GBP": 5.0664,
-      "CHF": 4.5369,
-      "JPY": 0.026017,
-      "AUD": 2.414,
-      "CAD": 2.7198,
-      "CNY": 0.5203
-    },
-    "crypto": {
-      "BITCOIN": 408853,
-      "DOGECOIN": 0.850324,
-      "ETHEREUM": 9947.09,
-      "LITECOIN": 359.69,
-      "RIPPLE": 8.69
-    },
-    "indices": {
-      "^WIG20": 2813.71,
-      "^WIG30": 3629.62,
-      "^WIG": 3629.62,
-      "^NCINDEX": 246.25
-    },
-    "news": [
-      {
-        "title": "Poświadczenie bezpieczeństwa dla Nawrockiego. Były szef ABW odpiera zarzuty premiera Tuska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDhPdWR2VTZxNF9NNm5uNnU5T01uX0JXQkRDVmlJS0h3bWJZRDBUUTdmc0JmbUZwQ18zeXNHd3M1VXlkTnRsQlZiZjNwaGFEaUs2ZDBZeEg2UDZpb2UwaFA3VlozOHBhNjctUmZRNFNTVm5nanFPSnV0TjlxVGJfV2oyYlZxZTU0d3VTZFpnT1dpeE9CdVN6UVMwMWRES0JXUzY3dUlyaXFmNEx4eXQ2MHY3SEJsSmdBWnpWN0RQU050X2FoeU9IN1RFWjI0UQ?oc=5"
-      },
-      {
-        "title": "Nawrocki i tajemnice alkowy Grand Hotelu. Stankiewicz ujawnił, co usłyszał od sztabowców PiS - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGxfWHBBcUNtaWhEb2FoZndMdUlqOW5WdVEtYmNrczlyMjNLcXA3Rnowc18tY3RuM21kQi1sbmpwcUNtTV9OY1d3aW1TbXpFLWMwaEV6blRuU0VWWDA0YnVOckVkYXBiTnVaWnJNR3pOTjc2RnZZbDJMazdDZUY3VE5iU0ZOYU9HNXViM2lQbUlfR1M3aHE2OHRXMEhCZlZxNW00VzhHeld4TnFzYW8wZ0530gGwAUFVX3lxTE4wZ0lhdW5PYlA2SVpwRXN4NUtwY25aUzgxVVRfeUFZSkJSaThMOXhZOFpRdkd5NndJeGUyT3pyNElvLTlFRURMOGljdFMxTzFYRWMzWEw2eVkySUhwcF9Ob2l5ZGxCMFM4RlN0RmxPN1c4YzFTRUM1c3RIY1FBVnZsUk1hemtjV1kxUUQtV00yb0FBRUNhbTV2U244SWxQODNtLTBwWlpJSVdVNHRNYmx0?oc=5"
-      },
-      {
-        "title": "Rekordowa liczba Polaków zgłoszona do głosowania w Niemczech - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGRvZUhscEczcE5lTDlxWlc2bGd5WERtS1p2OWE3Qk1QOHN4OEw3SmgxSUQxcGoxcGE1ZWZjNVlFTjlqNmxyLU1SaDJqbDVKRFd1US14bmpUci1VTk9DNkNBRjFtYTJzSGRpOXVycExSdUM1WXE3TVI3TkJiRS16VVduaVQzY2dwTHFXcVU2NHdvMnpYTmJDckJQb05pbzVPMnhrVUI3QnkzTU5lWlluZ3BvMFY4M0tIa25lTGVubG4?oc=5"
-      },
-      {
-        "title": "Mieszkał w Dubaju tam, gdzie Majtczak. ”On dobrze wiedział, co robi” - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVBEdWZlQUR4cV83ZUpjb1RLcFBXSDNBV2huTnZqaWRnT0tHTG9BbDEySDRXck00eVlXNXRNZHdIT3hlM1hxc2hNRmZ5U2s3SlJtc1UtNjVGRE5sRTk3YUxvMWo3RzBydU5iODE0ODFYS3NTVVFnM2NpSEZ6ekVzeV8yT0NreHZiTVF1Z29fckpuYlFOZU51WXI0Q0dhRjRXM3d2cFR0S3FpamdjN1ptbU5B?oc=5"
-      },
-      {
-        "title": "PiS wyprzedza KO, Konfederacja na podium. Najnowszy sondaż poparcia dla partii - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDhvNGxxZ0lpekhSd3dMVDR3N0UtX3BjblhNVjRQbWZ0ZkJ0MWVzY1lyVXl5d2FJLXlnckdtY2V4NDNISU5XdTlVcWsxVkFXTTAxVFRld1pyQ0FrTVFyYU8yMUUwUzdCY1h3cFhJWnV6aG1wX0hKVUMyMmNBUzlnM2tFTTIxeHk5SmlOVEpEdmpkemlGRFI2VjRSem44VVJrdEQ4UnpwVy1KaDNLUHQ4UEU3bw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-28 05:09:28",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2634,6 +2581,59 @@
       {
         "title": "\"To tylko niekompetencja\". Premier reaguje po słowach prezydenta o ustawkach - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2hJdWRRaE5rOGtQSTl0QmJ5cVp2amxxZjJxMVhDallyYmwyd3Q1eUxZNUc1ZWJjWmVLdlY5TkE1dFlKcURROEpfaXBpQlZMUDVldmNJS0VIamtWVzYzUl8yeUpoT01JMFV1SmFGM1NlNFU0RUNpMlBiWnh3N3Z2SGlwdGpYeVlMZDRjS3cybzNRMktPcm1tUzdaSHQ0c2tIMi1uV0YzbEpFQWstQngzMUwwTTBCdTRpWTFHLTVn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-30 10:18:36",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7588,
+      "EUR": 4.2369,
+      "GBP": 5.0593,
+      "CHF": 4.53,
+      "JPY": 0.025875,
+      "AUD": 2.4194,
+      "CAD": 2.7177,
+      "CNY": 0.5228
+    },
+    "crypto": {
+      "BITCOIN": 393998,
+      "DOGECOIN": 0.767273,
+      "ETHEREUM": 9830.04,
+      "LITECOIN": 339.87,
+      "RIPPLE": 8.22
+    },
+    "indices": {
+      "^WIG20": 2753.48,
+      "^WIG30": 3560.29,
+      "^WIG": 3560.29,
+      "^NCINDEX": 246.85
+    },
+    "news": [
+      {
+        "title": "Kto jest bliżej prezydentury? Są wyniki najnowszego sondażu. Minimalna różnica - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX09JLXJkWURNTktFNmZ0cXhZVG9URVczci14RkNTTzkxeEphVnhrdGp5anZhNXdRTVp4V0VjVlVfbFZrVHpCZVg0Nlg0VXc2TTkzYzNwMWxVYkxkV0FoSGlFLU1jNUZOWlh5ZzBJY0MtUWtZcVVIdWRsR0R0d2Nrb0hBM1duSlBZdHlpaVdfOElJY3Uzbkl6ak5HQXNyTVF3WTFHMUIwMF9hOHhzMzE2cFozNjZ3UVdwYzZIQmVtWko?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki jak Stanisław Tymiński? Politolożka: nieudany eksperyment - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUt2NmJrQ1ZPLXJIejBUMWV5Q3F0SURTUTRQX3NJcUZxOVR1MzNDMlRhMHdiVXhRTUtBdDQwaDhUT3R3ZnBTSnRGNk82dmdCUmJBOFVNaEtvMXpNenpnbXNjUHZFN19MX2lEckJDWDlWdFloNVF0cEhrR0JPYWYxMjJhbXpDVm53eDJaX2JSOVNwR0RrakRFQTJpTVNzdmM3b2h4aDVLQk1KM3VxY1lHZTFBR1l6ZHl2TEF3Ug?oc=5"
+      },
+      {
+        "title": "Polacy pobiją wyborczy rekord? Ekspert mówi, co na to wskazuje - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzB4S3dhQ2FPaTNab3pQRHUtMDFQUHpWdnRubHVUR084dFpnQ1FfeU5YcUFqU0FheWs4d1d1MWtHSlhpdFV3Q3dUSjcyTXRiMXFCWF9HM3N2WTg0NUgwdTJEZjFaYVhUWkl0V3JqSllrREZpRGRubkhNNVJtNXF2RktFQ3VGbmxfRHpuaTFJYkVaS09ON2JNR3duQkVTd1B5ZlBIQkk0RFhmcFdtN2dpdTJJRF9Xdw?oc=5"
+      },
+      {
+        "title": "Najnowszy sondaż partyjny. Tak chcą głosować Polacy - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZE1raHp0WDExbE44N2JBTDVrNVBTOEhpWGhWa2FOQllJYnEybHhRZjhPbmRBV3lsQ0ZGZlJ3SllTTWx0ampsSzNVcVEwVTRTT3hBb0ltOEhhc3hSSERwMDNmMWJGOUhLOE1xcThfNC1ORVg3VGFNczBGbkFjeDVuTjNiaVozM3BNVE1JQ25MVlFsbjQ?oc=5"
+      },
+      {
+        "title": "Ciocia Mai o próbie samobójczej Bartosza G. Rodzina nastolatki chce jednego - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY09BYWJKYWFpNFRLaGFCeXV4WmYyRzdjVTdtd2k0NVJtUndhRDc2c0o1TW00VGZQYkJwQXZkZHdDUU5kZXpZRzBFMlRUWFRVQVBqVl9WV1p4STdfdFM2eXhmOC1hbjBITlFRSGQwb2tsZGJTaDI1Yi13ZlRtbUx0TjJtMzN2aTFYOFNDQkhPZUlWR2NOV3FQWVZVMTE?oc=5"
       }
     ]
   }
