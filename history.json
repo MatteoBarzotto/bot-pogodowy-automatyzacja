@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-28 20:18:14",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7456,
-      "EUR": 4.2447,
-      "GBP": 5.0601,
-      "CHF": 4.5306,
-      "JPY": 0.026004,
-      "AUD": 2.4149,
-      "CAD": 2.7109,
-      "CNY": 0.5211
-    },
-    "crypto": {
-      "BITCOIN": 404020,
-      "DOGECOIN": 0.824575,
-      "ETHEREUM": 9951.95,
-      "LITECOIN": 357.88,
-      "RIPPLE": 8.47
-    },
-    "indices": {
-      "^WIG20": 2836.66,
-      "^WIG30": 3665.6,
-      "^WIG": 3665.6,
-      "^NCINDEX": 245.68
-    },
-    "news": [
-      {
-        "title": "Sondażowe podsumowanie dnia. Tak wypadają kandydaci na prezydenta - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcktRaGVwZ0Z2Zllua1VUM3Bid1ZUVV9QaHZfTTlyMHVZRHdSRjV3MFJVYjJhcURJZ2Q5elByX1ZvRjZjZGNWOG8wcXdfN19XeU1tTFRhWlc0MzYyUEVPcEJ2eWxScU4zeS1iZjNqdjNRVFIwWXlhZVZvQjBZT3Zfc1ZTT0owQUVvd0NBS0hkWFdYOFItVUZJdQ?oc=5"
-      },
-      {
-        "title": "Trzaskowski czy Nawrocki? Mentzen apeluje do swoich wyborców - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0lVZUpKRFY2VEtMSWpOeFBscjh0Nk1mWmk4RVQzcXpMd0RqNTg5S3JSWHF6ajdYMTQ4ZkZlZWRDTHQzV3RxeUFGTmswWHYzQjJlWEp2a1VYUUt1TkVUNzRSMmhla25BUWNJbmsxdXBPZU1naGE4RWNTUnNoRXpCQ1ZqLWFoUGhrMkF0ZUUwOA?oc=5"
-      },
-      {
-        "title": "Czarnek grzmiał o \"ustawce\" w warszawskim sądzie przeciw Nawrockiemu. Jest reakcja - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmpEcDdKNEd3SXlSYUJaNklsQzJ2TmNwVE1OX3FUdFdiQmtiaWZEZXUycTNFdTZmTmlkNnR4Zmx4QUR1ZFY2b1AtV0NLbV9ZVkhIaHM3SmxWRWRZaW1kUzN6d1BMZ3BXYlN1bkY2N0hzMUJCaWlkR2t1N2VGaEo5UW5kUTJ5dEJZY095alkySDNCZHFCN0ZaMURyVTlVaEhPWG1nOXRXYnExdUFhWnJUOVhhbGZVbW80?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki ostro komentuje zapowiedź Jacka Kurskiego. \"Po moim trupie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1RUM1JqYzRWamllUUItWmExbGZ0Y2FiNGZkeE5UdktOVWliUU54akNGOWE2bWNzXzU0bFg3YnpUa2hOMXZyTUdmaEY2anl3WExTMWxYa2ZoWEY3ZjRkbkZwVGNtVTRGSWxYWmZEOS0xdFNqakxIdkF0ZFFIWndwS0NmbDdrbXdmaDFlTVJ5UWZjNjY0aG51X29nYkFSX3NqZG9RX2hORnFRNVhsRU5TVWFEMi1YZFZzWDVEVWdYQlJDdVZaZXBUTnVzVHFQTG8?oc=5"
-      },
-      {
-        "title": "Zagranica idzie na rekord. Na II turę zarejestrowało się prawie 700 tys. Polaków - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGVCY08ySW1mTVZCWUl3VEtiNmhvTjU4NTlyc2g5ajhGZWI5bUZXSXB0b0dEYTFwRHc2aHh5X3hmRko4ZjFjaERHYnJfbU9rcTdBNHo3ODBYQmEtR2lEbmtvRFk5Mk4xaGttOG9RUXpmRXVKQ0FGYWZPaGI1bW1KdlpoRi1iWmpGcGVaSFlrZXJ2ZzlzSzJTeWpWSk82VkJuSFVCSmZKQmlSbWMycjB5LUYxM0JnUm1oV3dnOUV5aEdzNW5LRDJj0gHGAUFVX3lxTE5XZ1VrNVFvam93UF9FZFpZQ1RCakVsXzc2SElEbjdJM3A0SW1yS3gzM1cwLVRjVjRNMHN5dk5nSXlBZTFqam9RdDhrV0hnU1E5MEg0STlYRWQtcm5JTzNBN0xIZGJzT25DalRSeEwwQTQzQ0ZjcEhsdVJiamdxNjVxTXJMUnF6c01LcG1HYlBpWXdIZHctcDU5b3I3Um4wOE1VWmJwQ3IwZ3FGLTF1RmZWbFR4UFF3V1I1VGhUWXZfaTVQUEpCdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-28 21:11:49",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wyniki drugiej tury już w poniedziałek? PKW ma nadzieję na szybką publikację - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2lRTDBLOFJtX3Uxc2hQZVlDdkJ2OWdpekd0LUdVZ09FWVFhZkEtRWthZ29URTFsTEljeDZPbEl0VXhMMWJFcEZuVVRVdGx0T3FNNTJYZ1l5TzJZcUV2SWxsY0RadzVEcUdOX3h4NlNSOEl3VGxWdGEwQ29EaEpReE5BUDdLWUYtaWRyYXlDRVBTOEszb3NNbENwUGtpOEc0QzZ4bGU5c2FSRHZVUzYzU204NkdIWUdHMlU3alR3UXdMSk0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-31 03:06:25",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 389757,
+      "DOGECOIN": 0.720517,
+      "ETHEREUM": 9458.19,
+      "LITECOIN": 318.18,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Prognoza wyborcza OKO.press: Trzaskowski wygra o włos, ma szansę na 50,76 proc. głosów - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01WU5wc0JZVGNXMk5pUDRzNkJkanF2Und6ZVZmM00zRUwwTzQ0TmJlYm42dEQ4d0lNTGpCYmNWczFGa19iWEhzUzFYOWEyN2wxM243U2NvQmpTekh1ejhPZUZSeU5kSHVLX1JmVXB0cXdheUJib1dXV3Bn?oc=5"
+      },
+      {
+        "title": "Wyniki drugiej tury już w poniedziałek? PKW ma nadzieję na szybką publikację - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2lRTDBLOFJtX3Uxc2hQZVlDdkJ2OWdpekd0LUdVZ09FWVFhZkEtRWthZ29URTFsTEljeDZPbEl0VXhMMWJFcEZuVVRVdGx0T3FNNTJYZ1l5TzJZcUV2SWxsY0RadzVEcUdOX3h4NlNSOEl3VGxWdGEwQ29EaEpReE5BUDdLWUYtaWRyYXlDRVBTOEszb3NNbENwUGtpOEc0QzZ4bGU5c2FSRHZVUzYzU204NkdIWUdHMlU3alR3UXdMSk0?oc=5"
+      },
+      {
+        "title": "Alarm w mazowieckiej policji. Zaginęła 15-letnia Lilka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODA5aEM4XzByVDR1WlZlSlhCTTVyYVhxdUJOVUtLeWlVbk9MMnNPMTEyeFRTT3F0QXl2ZGx3QkxvRW44RDlBemdPdnFzdXVkYnA5Zll5ak83Y1prcF8ybmtyaWRsdDA2Z3pwQ2hoTmRHNzNqemhFYVpDWEFvVUgtc0xxNWVuanZpVVBrU3FkTXhTSFhBdzB2QlNocEo5LVhDUGl6QkFnMS03X0RKbnZDRUsyRTlHYUszTnpHU0xfSQ?oc=5"
+      },
+      {
+        "title": "\"Nie poparłem\". Sławomir Mentzen zabrał głos w sprawie Karola Nawrockiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE9tbElmcG9YS3dOa2ZaSlFMSV9CWktHZFd1Vko0ZHpSdFNudm1DcUU1MEFEMXpuUzV1MU0zbHlmVjdIN1lESFJzT3JJUl9NX1RlbnFtME1VNTVlWThubkdpamVqWF9Ud2IySWpBa3NVSllqXzdLWFJyZ3hiUlc3MWFaYS02UW55Wm14QVlnUTdoZU5sdVlMUlZyb0luTWZyc21hMGdDZEtHU24weFRRRDRpdF9rN0s0dk8xUUdOYmdyTGJ4OFdscFVBZVA3UQ?oc=5"
+      },
+      {
+        "title": "PKW podała nowe dane. Szykuje się historyczny rekord: olbrzymia mobilizacja - BiznesINFO.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFpwYWxxeUdaa2ZSbFk0TGRsMG5rQnE4akNpOGVTbnBPV2o1XzdDMmEycmhTOFhzNXJjczB0dkF3RnJILUdZeS1KdVBmc0ZsYmdfamxZN0NNY1VDc1dBeUI4SWo4dUxyRzYyRHEtUVRqZy1PQnZqejg1cmVQRjRudGI0QUFkOVAtTG5aQzVjRTJQOGhiZFp5anFITGc5bGJNaFptWDFuVVBPU1UwOGFaLW9kTQ?oc=5"
       }
     ]
   }
