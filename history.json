@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-29 17:14:21",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7588,
-      "EUR": 4.2369,
-      "GBP": 5.0593,
-      "CHF": 4.53,
-      "JPY": 0.025875,
-      "AUD": 2.4194,
-      "CAD": 2.7177,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 400690,
-      "DOGECOIN": 0.824564,
-      "ETHEREUM": 9933.47,
-      "LITECOIN": 358.56,
-      "RIPPLE": 8.54
-    },
-    "indices": {
-      "^WIG20": 2785.96,
-      "^WIG30": 3600.32,
-      "^WIG": 3600.32,
-      "^NCINDEX": 245.4
-    },
-    "news": [
-      {
-        "title": "Sondaż Ipsos dla OKO.press: remis ze wskazaniem na Trzaskowskiego. Ale czy wygra? - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUhoN0Q1d282VUlkeUhONE03VXdoSU95VVVOaDhFSzVvbUF0SFg3cko2T0pSOWU4bUEzYUduSjJaNkNlM0t2YlB6RHB6eWdZbzYtSmVPZ0JNc3FOV1NwVjZmOWdkaXFfWmEycy1qdHhiYnNJYlY1SVlBcjU3dXdrYW16NC1oTlRPMmc?oc=5"
-      },
-      {
-        "title": "Zabójstwo 16-letniej Mai z Mławy. Jest decyzja greckiego sądu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmd1Mm1PcUFGM08tUVpJYlQ5eWZYSzFjbW9WazRYeERoeTF3Y25oS1hYajBFejdPU0d5YTdnR3F3U0JyV25pVGdUdnM3UEVGNlkwb3UtNUxtZE9wSnRxRVZ1Wm9jTV9EbV9mNGZiY1hRcEhYV0tLUE5NaU92UkRkcDRKbnV1a0NzR0dvUkE1cUxNbUlMakE1WkFhUDRfeWlKV0RfM1NCY1F1bnkxRXJpeUVwSHhvTVB2aVZQZGtNRFQ?oc=5"
-      },
-      {
-        "title": "Grzegorz Braun zdecydował w sprawie drugiej tury wyborów prezydenckich - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRE5QU3FZSVd6bWllYklkSC1ad3hpX2NzY0tmcXZiMUl5b3VrenlGVkk5RHljRnZOWmo1dG5uaVdaZHdDOTZ1cVozeno5LUE5Z2gxaTNfUGRhV2NQb0x0SWpzZ0o2eThDSzV5Y1NlYzZqbF9XLUtYejk0RG11RmsxdTNKY0lZdjNSSzR4cTRTMnAyclBRTFMyWUtkbFI2SXdnYXM1U25MSDQzUER2UDR1WU9YR1lhM1RMaEFnWg?oc=5"
-      },
-      {
-        "title": "Zembaczyński zakłócał debatę w Końskich. Jest tłumaczenie - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlhBYmpsOGdKVFlpZU5hTWUzN1VGb0s4eUJobUtQUDEzSlktOThKUHJzdzNrLVNUN3ZET0ZreGd3UHlPbWNaQmc0dXYtZU1MdnR2STg4bHlTQVdPM0dRRUt4ZVg1MmJqNFdid1JvTVF3bFdYaU5MR2FfT2oyOWdPVDBtMXEwa3luX1piYll2YjdXNU93Qk42UQ?oc=5"
-      },
-      {
-        "title": "Ustawka z Nawrockim. Prokurator ujawnia nowe fakty - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWtkZ21BOUNmZGZmblJFaWtxN2doU1pIMmNBZVl2c21MZXZXZHhWUUtDM3Y1SVViaXJmZXFZdWkxa0ZhdTlvdEJBc01zMVU2RFRzX01wX196ZHFWLUlwT09haTlUVXJJWXl3bVhscEtFWUx6UWFCVFdETHU2YTEzS0h2WjRwem91dVpwM1JDNFhWSGV1R09J?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-29 18:16:57",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nowy wróg Putina. Wskazał Rosjanom, że zagrażają im migranci - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRW1aVk9MNWRDNHZyQVJ4YTRZOG1JTzM0Qmp5RVI1T05aSURFellxZTdrbGRncWlLOEFHaEV5aHZDaDc5cjNINVRlV1lqclZpUE9XUlVKc3RUbzFET1Q4aUtDanhHNEI2ODRHQ3pQbEVzS3VlWVh6TjZ1alR1bWg0MnVzZmREcXEtRnBGREJlc1JTRDFjdDBpVV9OWXZnY3VZc3RF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-31 23:11:49",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 392725,
+      "DOGECOIN": 0.729122,
+      "ETHEREUM": 9535.87,
+      "LITECOIN": 328.8,
+      "RIPPLE": 8.23
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Znamy składy na finał Ligi Mistrzów. Trener Interu zdecydował ws. Polaków - SportoweFakty",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWVleW5EdDVka0hlZHc2dVBUZkVJQmZkaVJVM2JfR2ZSMFFHY2FQaHBVYUJvZjNhTC1BTmtWNUh3V1AycGZnUkJkVnRUdzRCLWdkTW0xNnJFN2pSVFNRMGJJOGNINUVUMWFadk1aXzFtQ3UxUFNPRVFSSGYyNV90ZFpVVUt3cVUwQXd0QzJ1Wlp1NmstUmNXUEhjMUczNkllTDQ4ak5yY19kbkNGb1RIREZzV1hxR2JmUmtz?oc=5"
+      },
+      {
+        "title": "Pogoda na weekend. Przez Polskę przejdą burze. Jest ostrzeżenie IMGW - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDBUN1RyQXl1MVhRWGFuOUlzV1pZR2VlR0hqZGxfaVhBWG8xSUZka1FlbWJpWjdoOVdZaXJHWTlyZlk0N0ZGTXRFQ19wYXN4d1Ezd0RYUUo5TWRXYXZacEdmV1lLenczZE9NSkRMeEs1SGptRmxKeGZ0eUEzM2hyRXJBOTdYc3hMT05jUjNaMml2emxSenZuVFhFVTRIdUZzTVJjb2x3MU1KSGRXaHhkdEhXOWRSQzZtS1lfc2dUckdzUEl2RDJIbg?oc=5"
+      },
+      {
+        "title": "\"Zginał śmiercią żołnierza\". Polski dziennikarz poległ na Ukrainie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXJ6TlB2c3pNcWZiMlZuNU9LMmpXX25MTzc2WU1Ua0o3V1lVSUF6WjhRRE9iN1NTRUREUjZwYUFTTjZiLVVibFZ0Qks4czZkMlFOSkI3WTNuTmREQTRfdlBGa0NTeEUwY2p3Y3RXdXlXNGRpd28xUUZWUVk0R0tMU1ZEMElmcWRqV2lzRXJ5YmM3MExGQlVmUTlDc1g?oc=5"
+      },
+      {
+        "title": "Nowy wróg Putina. Wskazał Rosjanom, że zagrażają im migranci - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRW1aVk9MNWRDNHZyQVJ4YTRZOG1JTzM0Qmp5RVI1T05aSURFellxZTdrbGRncWlLOEFHaEV5aHZDaDc5cjNINVRlV1lqclZpUE9XUlVKc3RUbzFET1Q4aUtDanhHNEI2ODRHQ3pQbEVzS3VlWVh6TjZ1alR1bWg0MnVzZmREcXEtRnBGREJlc1JTRDFjdDBpVV9OWXZnY3VZc3RF?oc=5"
+      },
+      {
+        "title": "Jezuita ukarany po szokującym wpisie w sieci - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXVNd1FrdFdzUU5pX1dTcHN6WTNaWG8yVXRtU2M4R3hTOThZc1p3c05HS09pamZjRjY2Q3lTZEdmUEVjOTlZbEhmLXlhREZtbVJnME9IU1F6Y1plQWFydzdwMVljUU9CdWt4alJvbnhjcFJGa29XaVhDMW5raFN1anI1VW1yVW9WekFZ?oc=5"
       }
     ]
   }
