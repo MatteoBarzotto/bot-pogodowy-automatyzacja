@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-30 10:18:36",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7588,
-      "EUR": 4.2369,
-      "GBP": 5.0593,
-      "CHF": 4.53,
-      "JPY": 0.025875,
-      "AUD": 2.4194,
-      "CAD": 2.7177,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 393998,
-      "DOGECOIN": 0.767273,
-      "ETHEREUM": 9830.04,
-      "LITECOIN": 339.87,
-      "RIPPLE": 8.22
-    },
-    "indices": {
-      "^WIG20": 2753.48,
-      "^WIG30": 3560.29,
-      "^WIG": 3560.29,
-      "^NCINDEX": 246.85
-    },
-    "news": [
-      {
-        "title": "Kto jest bliżej prezydentury? Są wyniki najnowszego sondażu. Minimalna różnica - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX09JLXJkWURNTktFNmZ0cXhZVG9URVczci14RkNTTzkxeEphVnhrdGp5anZhNXdRTVp4V0VjVlVfbFZrVHpCZVg0Nlg0VXc2TTkzYzNwMWxVYkxkV0FoSGlFLU1jNUZOWlh5ZzBJY0MtUWtZcVVIdWRsR0R0d2Nrb0hBM1duSlBZdHlpaVdfOElJY3Uzbkl6ak5HQXNyTVF3WTFHMUIwMF9hOHhzMzE2cFozNjZ3UVdwYzZIQmVtWko?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki jak Stanisław Tymiński? Politolożka: nieudany eksperyment - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUt2NmJrQ1ZPLXJIejBUMWV5Q3F0SURTUTRQX3NJcUZxOVR1MzNDMlRhMHdiVXhRTUtBdDQwaDhUT3R3ZnBTSnRGNk82dmdCUmJBOFVNaEtvMXpNenpnbXNjUHZFN19MX2lEckJDWDlWdFloNVF0cEhrR0JPYWYxMjJhbXpDVm53eDJaX2JSOVNwR0RrakRFQTJpTVNzdmM3b2h4aDVLQk1KM3VxY1lHZTFBR1l6ZHl2TEF3Ug?oc=5"
-      },
-      {
-        "title": "Polacy pobiją wyborczy rekord? Ekspert mówi, co na to wskazuje - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzB4S3dhQ2FPaTNab3pQRHUtMDFQUHpWdnRubHVUR084dFpnQ1FfeU5YcUFqU0FheWs4d1d1MWtHSlhpdFV3Q3dUSjcyTXRiMXFCWF9HM3N2WTg0NUgwdTJEZjFaYVhUWkl0V3JqSllrREZpRGRubkhNNVJtNXF2RktFQ3VGbmxfRHpuaTFJYkVaS09ON2JNR3duQkVTd1B5ZlBIQkk0RFhmcFdtN2dpdTJJRF9Xdw?oc=5"
-      },
-      {
-        "title": "Najnowszy sondaż partyjny. Tak chcą głosować Polacy - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZE1raHp0WDExbE44N2JBTDVrNVBTOEhpWGhWa2FOQllJYnEybHhRZjhPbmRBV3lsQ0ZGZlJ3SllTTWx0ampsSzNVcVEwVTRTT3hBb0ltOEhhc3hSSERwMDNmMWJGOUhLOE1xcThfNC1ORVg3VGFNczBGbkFjeDVuTjNiaVozM3BNVE1JQ25MVlFsbjQ?oc=5"
-      },
-      {
-        "title": "Ciocia Mai o próbie samobójczej Bartosza G. Rodzina nastolatki chce jednego - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY09BYWJKYWFpNFRLaGFCeXV4WmYyRzdjVTdtd2k0NVJtUndhRDc2c0o1TW00VGZQYkJwQXZkZHdDUU5kZXpZRzBFMlRUWFRVQVBqVl9WV1p4STdfdFM2eXhmOC1hbjBITlFRSGQwb2tsZGJTaDI1Yi13ZlRtbUx0TjJtMzN2aTFYOFNDQkhPZUlWR2NOV3FQWVZVMTE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-30 11:14:41",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "W sieci wrze po tym, co zrobili członkowie komisji wyborczej w Warszawie - o2.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3dhRklEWlFxYWpaQlZKRFNJUE0xTVhSaXZuNjV1REpPanE2UUp0T01vcWNVTE5tN0pqZFRFMDZBUlFMQkJZX2ZXamdfTWYxb29TQ2I2Y2p3ckpiOW1LWTMyUEFIVlhUU3pBNlhZeUdhaXlqLWhZZERneVNVV09jRXZGbC1KN3dLY1ltUnU2eFctZlExWFdqcWhmZGJQVUpTMllQZmdrVGV5c2RLSVRSR1dwLS0zb2Y4Z2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-01 16:11:49",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 391433,
+      "DOGECOIN": 0.711929,
+      "ETHEREUM": 9365.09,
+      "LITECOIN": 327.74,
+      "RIPPLE": 8.03
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Wybory prezydenckie 2025. Pojawiają się pierwsze dane o frekwencji. Jest wyraźny trend [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjQyOFR0Mkc4elJDSUU1cEI0SUg4S1Q2SUhEdXVGTUk1bDVnVF9reTlRZEVYZi1ISDlQdnFVVkRMbTFRV0RnWnV6U3hVcDZOZHJYa1ZHS0xtcXlTUzFKMVdPVzFONTNha1pQMXlXM1NnVGxLaHFScFVkQ0psUExOSmtqLS1IU2l3ZkRSUENyOGVaT2hMNWdtSDRZTmM5MXB2dHY1T01XUGhScEJ3Wk4w?oc=5"
+      },
+      {
+        "title": "Ukraińskie drony zniszczyły rosyjskie bombowce? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFN3TXYyeGNnUFpJMDZ4cFg1eS1udzRtdHNHRVNhZmRsdUFfQ2l3RHJKXzJqRFRSVHk4VlUwbmRkNXNQLVpNdnlObU1EamswVFFQSmZ5VlVBWDcxdW93ZnlnZEREazZleXZsVFF0NHR5X0pWMUxmajFaZTdNdWlWVFlnMGd2N3RoS0JINjlvOGE2VkV1Z25jMjlmcU9CbW5YY3d4QXRQamtwM1hQd25CQnhn?oc=5"
+      },
+      {
+        "title": "Ostrzeżenia dla niemal całego kraju. Możliwe trąby powietrzne - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXR1TGpOVGJVOV9ndWdiVWtkWGFNVHQzZ1VOUXdMS3lIczNnbjI3UGxDOE10VkxETjVUd3ZDZkNQcnljS0lsODVIZ0EzRzJ1NThUZmk2VC1CNUxJenNxS3Y3ZDluRDVuTGphRkdnUHZCcHhfb1NzT0JJdm1NdWZKb3MyZkI1NGFlSXo4Wm9HZzRzVzA2WUVjYTNkSy1NZXVXWXNsZXlkUVlBTzBQY0JRQk9RdG9PaFJaRzlwUVJaV1ZmSjg?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie 2025. Zakłócenia ciszy wyborczej. Jest nowy komunikat policji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGFDZjVDRS13LXh1bWdKYmk5dGZUZDhIYmJFUEdYMWNiQ2Y5WVo3U25hSzdwTy1FcUNYdk0wS3hHb1dPRjJNUkZnSjZJWkFWeW1xc0hxcXhQYWluR3dMaVQ3alNKWmk4Z1gxTk5Ca2tPNmpaLURpTzNmZ0tfb01GcXJORnpCSGU1aXJvNnpfekdPSTd6dlZzRmJPQzF0bXZMdWd1SUwyc050RWM?oc=5"
+      },
+      {
+        "title": "Londyn. Potężne kolejki do głosowania. Polacy głosują nawet w kościele - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHlQTHFDRHpJYzhwdTJTaGF5VFVndW9LTjcxa09mYW5QRTdYUFN2NFNORzdLZExDckFyS3lfWDFwN2xYMXNOanRrNUstZFNUNHBvVmhXQ05yY2dkbEVYVUxIcnFfSnZpMFZKTDF3MGJ6dmp0SjhRd3NTTC1EM2M4bFBpd1FLWlRScG5ENUlyTXpVNzEyT0pCbEwwbGhfTmYtaWluNjJxbEM?oc=5"
       }
     ]
   }
