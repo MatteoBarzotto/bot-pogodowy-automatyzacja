@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-30 07:13:57",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7588,
-      "EUR": 4.2369,
-      "GBP": 5.0593,
-      "CHF": 4.53,
-      "JPY": 0.025875,
-      "AUD": 2.4194,
-      "CAD": 2.7177,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 396868,
-      "DOGECOIN": 0.781732,
-      "ETHEREUM": 9855.65,
-      "LITECOIN": 343.1,
-      "RIPPLE": 8.31
-    },
-    "indices": {
-      "^WIG20": 2785.96,
-      "^WIG30": 3600.32,
-      "^WIG": 3600.32,
-      "^NCINDEX": 246.13
-    },
-    "news": [
-      {
-        "title": "To on jest bliższy wygranej. Mamy najnowszy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFdrVlRSZXVFTll1MWRZZGlxNUJYSGJvNXpVTEdUOGZkcDE3SlJ1ckpWT0R5SXlya0hHdmpRNHZNcnJMTmRzd1BRTFhtUlVQNmdCNF9xZkp3T1o0M2F0WjNqc2hTaHdVelZuallmQWFQZjRNaHVrRUJDVERuTlRnQVp0bUptU2x3dDNVS01tTHVnZ2oxanNN?oc=5"
-      },
-      {
-        "title": "Dlaczego Grzegorz Braun poparł Karola Nawrockiego? „Udzielamy wysoko oprocentowanej pożyczki” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWpYYUZ5OUlxXzhHZlprNFlWN045MDZDZjcxRldReXBzeVFJSUNhcEkzQzV0S1NCMDIzSkJzZ2tfb1NDNG81ZWRqRDBSSGpfa2hvdzJFZFktWUQzQlZHcjFaRC03S21GdmdUak16blBYOWRySGRjck9Qbkh6SldUby1MdjRqUm54UlFqd2xmUDlPUkF4akJCOGxTcUtJdE44dGNPVTcwczlGbWp1T2FKUUNDMlFDdjJHcGc?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski nieobecny w Końskich. Politolożka: nie było potrzeby - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JwMWJQOHVta2hrdVhkVTJqbXZOMW9yX0l5bWpjUlpEaUtDc29kSVdhbEZOdzdQSE92d1dFSGx5ZUVwWm1McFNoSTB4YzF6RkRHaXBVdGtYSmZ3UjM3alNoMlYwUGh3V0E4TlI1MlY0NkRLSXA5YkNIM015b1k3ckR2TDVUUG44aUxYVlotbUdDZ0J3Q3dta1UwMksxaVFvUHVCRlpOdnp5U3BT?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki jak Stanisław Tymiński? Politolożka: nieudany eksperyment - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUt2NmJrQ1ZPLXJIejBUMWV5Q3F0SURTUTRQX3NJcUZxOVR1MzNDMlRhMHdiVXhRTUtBdDQwaDhUT3R3ZnBTSnRGNk82dmdCUmJBOFVNaEtvMXpNenpnbXNjUHZFN19MX2lEckJDWDlWdFloNVF0cEhrR0JPYWYxMjJhbXpDVm53eDJaX2JSOVNwR0RrakRFQTJpTVNzdmM3b2h4aDVLQk1KM3VxY1lHZTFBR1l6ZHl2TEF3Ug?oc=5"
-      },
-      {
-        "title": "Andrzej Duda wygłosi orędzie przed II turą wyborów. Rzeczniczka prezydenta podała termin - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVpjV1B6SnlYbzRLUHRLcl9LZDhyVzFmeE1xNk04d0pmM3JvMVMyQm9UTEZiYjduZmNpWDJhQUp0MDdSSERLR2pjTDlQdmMyRnFOOVpJZEpENE93WkZiUlRfcGFuTTBXWThZZkVRekJzc1NVckNucFpPbkkzN1lLaS1LeTg3elJtSnNtV3dJSEo4ek9Cakk0WWlieUIwbXh4QWpsbXVqMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-30 08:19:57",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Awantura w Zakopanem o opłatę dla handlarzy pamiątkami. Zapadła decyzja - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjRDdzEyZ2hvTnRhMlJQNEZYTHFQaElMV0M2TmNqWUxPR0dxY2pTLVY2ZXRJNm9DUUpIYWtKeThxQ1ppNkVzbnluaGMtVFhHdjVDcEZLMThfTkp0Q3hiZnZ5VFpvSWRITWZNaHZTZ0swYzJ0WUJnbVNuUkdGb3g0TndHc2IweTZXdkF1Y1JucmtqZ0xlSHY5NGtLd004S3o2azZKWi1LZTlFOXR6TnJlVVNrX2NHTlI0Yi1CYkNVWFVGQkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-01 13:11:00",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 389419,
+      "DOGECOIN": 0.705223,
+      "ETHEREUM": 9340.05,
+      "LITECOIN": 323.62,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Desire Doue został bohaterem finału Ligi Mistrzów. Przed trzema laty... strzelał Polsce na mistrzostwach Europy - sport.tvp.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWZyRS00Q2RpUXNEdmxDYXRwZmtzbXBVMkNWTE9YclhzUkQyc0tEMVNDbVlWRTRzX0ZhYlNXOFFLdE1GbWZyRDVicUZueGtFODZYTU5uWUJuM3F3MW5fWm9DY19kYUdZWVR3Ylp0VGNTRl9GcVVVU2ItRkptbUVuNG4zbXR3dzB1M3RWRGlac0JDMXp2NEJLOWU3bkoxeXdMM3hObHdoWThLNE9Dd29kbHNhMEdKN3dPMTE2V2xnSkpqM3BJOUhDM3ZRSElpaVhIeUJJ0gHYAUFVX3lxTE1yaHR0djJUeWxRZmJleFhSbVVpZjc2RnJUUkxDYVRhaVF0ZVlldmc0S1lYNE5teGx3NnJhbVJqTEpCa3dMS0FIVmJId05qTDRaamhjM3JMZ1NVaFFKRmZBVGdfM2s1QUk3Um94SE5TNTdjcWhvWHBzXzZIWktZYWpPQ3NiQ2tOb2JrVkc0WE9ia0Y2cHRKZi1SM2dOVEJkMlJMaXpWWVBDNFE4aHRYVlRKenJkN0V4Rl9FY3JBUGpiaWJUTTlLQVRsSXFXUFFFVzVlc1ZSYU1DRg?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie 2025. Pojawiają się pierwsze dane o frekwencji. Jest wyraźny trend [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjQyOFR0Mkc4elJDSUU1cEI0SUg4S1Q2SUhEdXVGTUk1bDVnVF9reTlRZEVYZi1ISDlQdnFVVkRMbTFRV0RnWnV6U3hVcDZOZHJYa1ZHS0xtcXlTUzFKMVdPVzFONTNha1pQMXlXM1NnVGxLaHFScFVkQ0psUExOSmtqLS1IU2l3ZkRSUENyOGVaT2hMNWdtSDRZTmM5MXB2dHY1T01XUGhScEJ3Wk4w?oc=5"
+      },
+      {
+        "title": "W USA zakończyło się już głosowanie. Rekordowa frekwencja w II turze wyborów - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdExNZzZoYmZpWWVSeVBYOElzdHFaZGU4d3NFWExKQ21OUld0Q0h2c1Mxek5Wa3ZqZ0gtOHBHYmVyM0pPVHpoYkl4Z05paHFtX0FkYWltLWlIOEs5ODR5QkpUOXI1U3REM3JwQmVvOWNpZm41cEJBV3B3SFZQOF9IN0xEVE5QSW9vc1M2UGxEQjlHLXJaSXB3R1BtX0VVdnJLMFVQS2ZEQkdXZzluYVgweWdR0gGwAUFVX3lxTE5GN3Y4NERoWUNnSHYyYlBNdm5lcG5jSElyT2JjOHVETEFpa1E1XzI3cFRTR2MyYUczYzQ4NzdDTUdRVzloRGJEVVdXWDI3QlhRTjN1R2J1RVMxVlM4bER2ODljalUxNHF4VnBjNTZGd1QyMDVfM1dKWkVEVmNyZ3p6OGpPZ2JDMzY5bF9kMGR6M2JESlVRbUN0MGFZSEMzM3dMcjdZbE05OXdOempmVlRq?oc=5"
+      },
+      {
+        "title": "Ostrzeżenia dla niemal całego kraju. Możliwe trąby powietrzne - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXR1TGpOVGJVOV9ndWdiVWtkWGFNVHQzZ1VOUXdMS3lIczNnbjI3UGxDOE10VkxETjVUd3ZDZkNQcnljS0lsODVIZ0EzRzJ1NThUZmk2VC1CNUxJenNxS3Y3ZDluRDVuTGphRkdnUHZCcHhfb1NzT0JJdm1NdWZKb3MyZkI1NGFlSXo4Wm9HZzRzVzA2WUVjYTNkSy1NZXVXWXNsZXlkUVlBTzBQY0JRQk9RdG9PaFJaRzlwUVJaV1ZmSjg?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie 2025. Pierwsza konferencja prasowa PKW i apel do wyborców - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmdYSktlbkQycV81WURra1ZNRlZHMFNfWFB4bHk1TE95OUstaWdWZDkwZDhHU3V6clppQUdBV1EyczUtRUlPUjhFWEZUZEQ4eG83QThTWmFCRVhJeDBTMUhGUndWYVM1UHJUckVSbWg4Wi02Tk04MVR5N1k2Q2dGbGs1Y0o0T01sNmlRMVZQMEEyVVo1bWM1LWFUU0NIVEYzTXRfeDJCamYtQWc?oc=5"
       }
     ]
   }
