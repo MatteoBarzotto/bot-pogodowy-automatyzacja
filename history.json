@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-30 15:25:34",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 396058,
-      "DOGECOIN": 0.766357,
-      "ETHEREUM": 9778.87,
-      "LITECOIN": 337.83,
-      "RIPPLE": 8.25
-    },
-    "indices": {
-      "^WIG20": 2754.28,
-      "^WIG30": 3559.68,
-      "^WIG": 3559.68,
-      "^NCINDEX": 244.17
-    },
-    "news": [
-      {
-        "title": "Zaskakujący sondaż na ostatniej prostej. Pięć pkt proc. przewagi - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX25vbjNTeEZXVU5HczNnS1U1VHltNHBrSElKaXNlaUdXOFpNamc5Q2EzalU4cV8tSTNCRV9HR3VhZGNSc2xCVWlaRG5DS1p3WVFoOGVoUmFOZHN6VXkzV3pjaThHaGN4SkNiUXVoMU1RalNycGQxZkVqLUtNVDFWTGFZajJaQnhRR3hPbnFzdkJzZlNicXZ4WlBqZ3BNRTl2eGFTTzZ1dzBfQklLT1QzT01B?oc=5"
-      },
-      {
-        "title": "\"Mam złe przeczucia\". Prof. Dudek ostrzega przed Nawrockim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2x3WDY5Tm1FeENZMnlsTnEzbWtiNmZ3bmJlbTAyaUNxWnNWYjhoRmNwSHZPWTZra2F0NzVyR1ZHSW5PUGZKSUVIZlNjdGtLSG9ab1BlRi1KQnFoZDRoM0Rxa2VCME5VN3g1cnR1aHdKNlhhQXd2ZkthbVN6cktoT2M2emRtMU5YUnJWbGQ4Z0ZzdnYtUDZvZ0lwaXZYZw?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski we Włocławku - Dzień Dobry Włocławek",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmxPUUtjcGRtMllvN1FpWjRxZTEzN3RrZTlyd1hPc05hVDNZb05wMjg0TS1RNjNqVjhFaktXYTM3cEJkdGxLZUtDQ2JnTnlMWkEzMlRscUJya0VaQ25vamJKa0dUS05Wa2RhTDhGeERZS2s0YmRhd0xzV2pzaVpkT1VyUlBPYjZXYkRxUTIzYTdMbFgxc0E?oc=5"
-      },
-      {
-        "title": "To nie śmierci życzą Bartoszowi G. Bliscy Mai chcą sprawiedliwości w polskim sądzie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY09BYWJKYWFpNFRLaGFCeXV4WmYyRzdjVTdtd2k0NVJtUndhRDc2c0o1TW00VGZQYkJwQXZkZHdDUU5kZXpZRzBFMlRUWFRVQVBqVl9WV1p4STdfdFM2eXhmOC1hbjBITlFRSGQwb2tsZGJTaDI1Yi13ZlRtbUx0TjJtMzN2aTFYOFNDQkhPZUlWR2NOV3FQWVZVMTE?oc=5"
-      },
-      {
-        "title": "Duchowny grzmi o zachowaniu jednego z kandydatów na prezydenta. \"To skandal\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmtySXo2ZS1mS29vSEJSLUVTeGQxeGVoeHpuZUpZQmNZdUFySk80OHE0VC01cjZiZS1hQ1VUWjlpSzlBdjRBVDh1UmF1RzFKRV9rLVVDRGtBSnVzaGNIc3dMNFgzd1ZlRGgxVmNHZ0tkc1M3M0cxWjdhV1dDTkRVc05rWXpjckNGSFA0cDdNYnpQcktxSGpndnRJT2g0Wk12VWV6RXQ3MGROdmxOd3ZKaEFFdzE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-30 16:14:07",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rosjanie polecieli na rozmowy pokojowe do Stambułu. Już jest pierwszy zgrzyt - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXFIZnFKeVptUklCb05rWkVJeHBucHNHQk5FODdOdkdhbTdJNlA3VnhaZEJfaWN1M01mNllqRmVIMm1EOUt6ZmpXR2p0Q2dXWEtBbWdUNXhJUWlNQWd0TGNSZXNLOWhGS19HZFJHWDcyQmphQ1BVU1l5R0x4U2Q3VXM4MUxHWDY2VWhESkFsZ1Z2Q2NnUmNkS2JVN0JMbDNTa2w3N2F2MEFydVdIeHd0RnFRZlZlazhwcXJscV9fTEc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-01 21:10:38",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 392792,
+      "DOGECOIN": 0.714517,
+      "ETHEREUM": 9435.34,
+      "LITECOIN": 327.86,
+      "RIPPLE": 8.08
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Wybory prezydenckie 2025. Będzie wieczorna mobilizacja? Oto frekwencja na godz. 17 - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1fWlVJNXF6RVYyZXB1dWVvbmVWdlo3YnJEWHFyUWQ3T3E0Y2doTWRvRjlCS3Y0dy1tTEhZMTRGbFNidHFxYjk1OFM0SzhMOUZrd0VST240cUdKOFlwaVNxdXlXV09tS243b054bmJxN2FtS3lyZVBPQTZhaVRGa3BKYlpLM09fNlY4SGRkQlB1Q2QxYXZ1a1dGQXRZRVREc3ZUSndsQmlPWGpEOUhLNl9NTWo?oc=5"
+      },
+      {
+        "title": "Ukraińskie drony zniszczyły rosyjskie bombowce? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFN3TXYyeGNnUFpJMDZ4cFg1eS1udzRtdHNHRVNhZmRsdUFfQ2l3RHJKXzJqRFRSVHk4VlUwbmRkNXNQLVpNdnlObU1EamswVFFQSmZ5VlVBWDcxdW93ZnlnZEREazZleXZsVFF0NHR5X0pWMUxmajFaZTdNdWlWVFlnMGd2N3RoS0JINjlvOGE2VkV1Z25jMjlmcU9CbW5YY3d4QXRQamtwM1hQd25CQnhn?oc=5"
+      },
+      {
+        "title": "Koniec głosowania. Polacy w USA już zdecydowali - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEh1X2FWWTJmYnc5TEREQVV0SU5PUDN1UGdUSkpEQ2RlUWtnMmlqUkZXWjJJTFNGeXI5YVFfdGk0Zzk0YTJ6S0NsUWEtcGZxX3BDdUFtcFV4dWhFTkxiU3JKWXJWMVF1YTdPS1dmQ2VfcEFyOHJPbk9fczcxZDBYaERVcHdyNlJBSjBCX19CbHMydw?oc=5"
+      },
+      {
+        "title": "Burze i grad nad całą Polską. Jest alert IMGW - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXlhX1dxM2tHS2plU0hMaUZVaUF0S1FxM29yUkVUM2IxMnBGMzdLa0tGX2hWMGRpN1N0RGF4MjNKb05zOVp4LXg2ampTaE9YMzFpRUxwanZzcjlTNERqSnJlTENYOVRmZTZwdGtKWTMzdGozMkdkNTY3bG1ZVFV5OWNhQ05PMTA3ZjBJeXFHM3BUajhKX1dwT3NKaVhGd1VYSEp0MmJTS1h4Z1k?oc=5"
+      },
+      {
+        "title": "PKW interweniuje w sprawie korali w lokalu wyborczym. Doszło do złamania ciszy wyborczej? - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkxyUHNGMWRkOEgxUVFlRi1lRDFPNHozNEFVbFA1WGlTbFB2SmxUamswa0xEdmFkbmpKTUpaQ2ZVSmpBZjNiU1dWRk5oZ3hqNVhsb0RCdGc0QUhHREZGMFM3ejBHQ2xfanhYUEo4LW9Pdkx5ekFwazhrRF9KcHFDTnVKbklwSjdZZXhoNmlEZFNzR0VtYTM3Y2d2Tng?oc=5"
       }
     ]
   }
