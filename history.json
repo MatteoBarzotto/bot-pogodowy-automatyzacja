@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-30 05:07:30",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7588,
-      "EUR": 4.2369,
-      "GBP": 5.0593,
-      "CHF": 4.53,
-      "JPY": 0.025875,
-      "AUD": 2.4194,
-      "CAD": 2.7177,
-      "CNY": 0.5228
-    },
-    "crypto": {
-      "BITCOIN": 396268,
-      "DOGECOIN": 0.779852,
-      "ETHEREUM": 9818.17,
-      "LITECOIN": 343.16,
-      "RIPPLE": 8.27
-    },
-    "indices": {
-      "^WIG20": 2785.96,
-      "^WIG30": 3600.32,
-      "^WIG": 3600.32,
-      "^NCINDEX": 246.13
-    },
-    "news": [
-      {
-        "title": "Sondaż CBOS. Jak wygląda przepływ wyborców przed II turą wyborów prezydenckich - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTdBS0xGTWJtUko1d0dVYUM3N2ZSTHpLMlJjX2VlVzhjem4xaGxMZ3YyS1laenlQVGlMc2w1TVpMa2xEdjVSUnJ0UV9DZWRzR3NINjlWTGxvVmFnc0hCck9HTTc1MmlWUW1HYktFMWY1TGdReDlJRFVibHRNRngwM28wSlRVREMtZnM0NFpsaG5KNEtLV2VBR3hmd3hMd3NTcHVQOGxxN2tYanoyMkxNdHVRZWV5QkU?oc=5"
-      },
-      {
-        "title": "Orędzie Dudy. \"Brudne chwyty w kampanii\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRllaeUNTZVM4bGlzejI2X0h3d3ZvRGg3emQ0d1hidVJDNzVHOWRhOGRaYW9wWXZkVUZ0MlVHa1dzSGFpNlJKTFFCTTNKaGdocU9iYzJIcXllX0VkNzVFYnMwTjhwano0eHRaLV95VWtKcHR6ZHotbFNKRW9hMXNnYXVvUQ?oc=5"
-      },
-      {
-        "title": "Sławomir Mentzen ujawnia szczegóły spotkania z Karolem Nawrockim. Wspomniał o tematach rozmowy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDhLMzNaeXdHNGtFOUpQeVNoMlhNX0pfT3hBYTR3NlBiNXF3OEhBN1RGcE00QW5FUlJlUXU0WS1wRUZZRmFwRHFodjNBdkNjRjlrLXdDbGxiWGlqMDFqMWdiZ2kxMVJSSlMyT1ZCaHozU185X0ZyWDhvbnM0OW15SklrX3ljT0ZGNTRxN2VubFJwQTlUTVg5dm9HUlc4VC1mbS1SVTRxUzA1bjlocmVNVngxOXpHeDBoaVotZ01sN2VtR1NCdXc?oc=5"
-      },
-      {
-        "title": "'Wybór Trzaskowskiego to błąd'. Migalski mówi, kto miałby większe szanse z Nawrockim. Dwa argumenty - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjJ0U3pNU3FyN0FOblVhb1R0clhtdHdOc01Dcjg4cXBfeDMxSXdQMGpYZ2YydHFJa0VaY3JiSE1OMzhiOW12WXprN281c1FsakZ0TUdWOGhmWmdSOWt5dkI3Z1ZTVXNXODhubHJqNnUwZThUUm04WVVlR3BZQ0N4dm5xT05PcDBxSl9EVW91WW5KUE54MmNiMVB6WDZvczdKY2NVclVrYmpNY3dUaDB0TVVNMktfTVNiX2YwVVAwNFlsZw?oc=5"
-      },
-      {
-        "title": "Polska ambasada ostrzega przed wyjazdem do tego kraju. Cudzoziemcy mogą zostać ukarani - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkJQbEl3OTVIc3pyc3RlbEF3MFdSS0trOWVSLTBuM3pBREZPbDNaRzFMQkNGa2NtenpEVGpLdi1tWl9BQkN2dlFad1NTWDNXZExoeWNhWVBkR3JjYzgxWGdVajFZeW5aSFRJcVRXWUIwUm5YcjU2d3ZPREI0azJxOXVLTVJQY3R1NVhDOFlOeWFiQXVGZEt2RVpFcHptTnBUSlVWb2lQSUlWUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-30 06:18:23",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Awantura w Zakopanem o opłatę dla handlarzy pamiątkami. Zapadła decyzja - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjRDdzEyZ2hvTnRhMlJQNEZYTHFQaElMV0M2TmNqWUxPR0dxY2pTLVY2ZXRJNm9DUUpIYWtKeThxQ1ppNkVzbnluaGMtVFhHdjVDcEZLMThfTkp0Q3hiZnZ5VFpvSWRITWZNaHZTZ0swYzJ0WUJnbVNuUkdGb3g0TndHc2IweTZXdkF1Y1JucmtqZ0xlSHY5NGtLd004S3o2azZKWi1LZTlFOXR6TnJlVVNrX2NHTlI0Yi1CYkNVWFVGQkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-01 11:13:30",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 390828,
+      "DOGECOIN": 0.708619,
+      "ETHEREUM": 9385.43,
+      "LITECOIN": 324.76,
+      "RIPPLE": 8.04
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Pierwsza konferencja PKW. Nowe informacje o przebiegu głosowania - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXlFbll1QV8ycVBMbWk3blhVQXV2cm5Kd1oxUndzb0Z2cHlSUkRkM0pQY040QUZ3SUs2VE5KbWY5Wm1kZl9jZ0t1ZEhOcVYyM0dUQWdBc2U4cVlxckdxWG0xQmNYMk54cy1WYUFWZVFSaVFmWTdmdGJJRFZONjhBei1lYkc4a2pXdGQ3dk83NkNTcXBGaTdIbkpiam9aanZfOXpDTHY0MU91MGpsbnpkOWMwSlJOc2FBOTQzQjdXMEVicEk?oc=5"
+      },
+      {
+        "title": "W USA już zdecydowali. Rekordowa frekwencja w II turze wyborów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGJyS3BOVUI4ZmtUVUZlY2lrNFZteEF6dXR6MHVvRGo3TzFVQzVGeGJBUW9mYm1QajRhOUlkb3o5czNsYkNfQ09WSEhESXNyMldjVFhKVnZ2X1pLNy1FbjNReDJ4VFYwd2hoODVBdFktQVJCMjVDeV8zZnZJYWF4TVJDdEM5Z1ZHZEh6cURZYkd6WjZnSmE2em1yQnczVkVaQmdJTGhyMA?oc=5"
+      },
+      {
+        "title": "Awantura w Zakopanem o opłatę dla handlarzy pamiątkami. Zapadła decyzja - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjRDdzEyZ2hvTnRhMlJQNEZYTHFQaElMV0M2TmNqWUxPR0dxY2pTLVY2ZXRJNm9DUUpIYWtKeThxQ1ppNkVzbnluaGMtVFhHdjVDcEZLMThfTkp0Q3hiZnZ5VFpvSWRITWZNaHZTZ0swYzJ0WUJnbVNuUkdGb3g0TndHc2IweTZXdkF1Y1JucmtqZ0xlSHY5NGtLd004S3o2azZKWi1LZTlFOXR6TnJlVVNrX2NHTlI0Yi1CYkNVWFVGQkE?oc=5"
+      },
+      {
+        "title": "Joe Biden zabrał głos w sprawie swojej choroby - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbS13RFo4Qy1UWDZPakhzT1BUMDc2LWtPcUM2SVEwS25EbTNmU0xlcHlrSVkzTnR2emlhTFUyS3BuWF9BWGVYRkNpNllOd2x5bkJ2b01ORHpyUC1tdHV6TERMcE9OSExSZ3VIbXhJRmNJWXo4Ti1MTlQ1aGFqemdBajNGM2VDd0J1Z1QycXZZaXA?oc=5"
+      },
+      {
+        "title": "Dwie katastrofy kolejowe w Rosji. Podobne okoliczności, są ofiary - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaG85R3B3MFg3aUNkdXJuMXFWRkxZaHRzRS1KWnNsdVFQY0hmMlhPVzNYbGQwM1dxSVY0WXR0TW5VZ0gyem5YbjBuX3B4RUtiSXJwZUJoOS1xbmZtN2J4TDllNlBBdF9rU3lnczRrRFZzM25oVDVheWhLamY4MEpSdUNOWmdxZHRGbTh0SUFLclZmbGlXeFd2bHRPRlROekMxeTdBUHh4YTc?oc=5"
       }
     ]
   }
