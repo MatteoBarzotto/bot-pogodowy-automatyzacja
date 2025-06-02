@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-31 00:12:45",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 392042,
-      "DOGECOIN": 0.746794,
-      "ETHEREUM": 9635.35,
-      "LITECOIN": 328.91,
-      "RIPPLE": 8.18
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Prognoza wyborcza OKO.press: Trzaskowski wygra o włos, ma szansę na 50,76 proc. głosów - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01WU5wc0JZVGNXMk5pUDRzNkJkanF2Und6ZVZmM00zRUwwTzQ0TmJlYm42dEQ4d0lNTGpCYmNWczFGa19iWEhzUzFYOWEyN2wxM243U2NvQmpTekh1ejhPZUZSeU5kSHVLX1JmVXB0cXdheUJib1dXV3Bn?oc=5"
-      },
-      {
-        "title": "Wyniki drugiej tury już w poniedziałek? PKW ma nadzieję na szybką publikację - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2lRTDBLOFJtX3Uxc2hQZVlDdkJ2OWdpekd0LUdVZ09FWVFhZkEtRWthZ29URTFsTEljeDZPbEl0VXhMMWJFcEZuVVRVdGx0T3FNNTJYZ1l5TzJZcUV2SWxsY0RadzVEcUdOX3h4NlNSOEl3VGxWdGEwQ29EaEpReE5BUDdLWUYtaWRyYXlDRVBTOEszb3NNbENwUGtpOEc0QzZ4bGU5c2FSRHZVUzYzU204NkdIWUdHMlU3alR3UXdMSk0?oc=5"
-      },
-      {
-        "title": "\"Nie poparłem\". Sławomir Mentzen zabrał głos w sprawie Karola Nawrockiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE9tbElmcG9YS3dOa2ZaSlFMSV9CWktHZFd1Vko0ZHpSdFNudm1DcUU1MEFEMXpuUzV1MU0zbHlmVjdIN1lESFJzT3JJUl9NX1RlbnFtME1VNTVlWThubkdpamVqWF9Ud2IySWpBa3NVSllqXzdLWFJyZ3hiUlc3MWFaYS02UW55Wm14QVlnUTdoZU5sdVlMUlZyb0luTWZyc21hMGdDZEtHU24weFRRRDRpdF9rN0s0dk8xUUdOYmdyTGJ4OFdscFVBZVA3UQ?oc=5"
-      },
-      {
-        "title": "Prezydent Ukrainy: Rosja działa na rzecz bezowocności negocjacji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUy16dHZlOGhqTFpkb1JGVnpXb3JPTkhZXzdIaVBvUW15QzNoVURVTEdMWTBYSWJuZDhBdkFDZzFCQjJRMnBRX25wT0I5UDRkNjhfbGx0N3BKME92Z0pKa3IzUzZsVFhERkhfNXB4R1dKLWRLQTRZUmZzamRkV2pMYk5rQUhjcC1lNTZLRW02X0hwc1NYSFdEdFhIOUtqUDllcFhfR3lYOTlITnhFZ04xY3ZoUQ?oc=5"
-      },
-      {
-        "title": "Orędzie marszałka Sejmu. Tuż przed ciszą wyborczą - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0U1YUMtZ1ZpcGdBQmpOODk5RUNBa1gtZDdpcEdnaVZjMjBqRENmc0Vaa1FQMXIyWkI0RDc2Z2puZE1fcWhyOS1EcTV3X2hNUEhUaWNLTDhjVXZaRU5GTmdMMFNndTNOdi01ZGo3QXhXNXBJNURaOVhIWFNRSGYtSzUyX3p2NEl0RjRLU3pVY1BwTGVZcEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-31 01:13:02",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Przewaga Trzaskowskiego za granicą. Nawrocki wygrał w czterech krajach - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGxDbWJ2TkR4V1U5RGc1czdGeTNsMFl0Y3ZBaXQySEJWVzc5SVJlcFB2WWRXVlpTSk5zVDBkaDdzZG1ZV1N5NmNkMTBNZzJrVkZsdUg4dm1ZUHQ5Mmc5My0xVDJJNE1fcFJJNzFURzlBUE9ubFFxaFJPVDVVLVlEaDhCTGRuMkxLR2ZpVDV6YVlqclRTaXZqSExwaWdiR2FNM2s2eGZyTmZnSmpwQ0FCZC1fOFpnY0xLbnY3TWtn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-02 08:21:22",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 393284,
+      "DOGECOIN": 0.716058,
+      "ETHEREUM": 9349.84,
+      "LITECOIN": 328.79,
+      "RIPPLE": 8.12
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Wybory prezydenckie 2025. Karol Nawrocki wygrywa. Znamy oficjalne wyniki PKW [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzc4anZHUjdCSHJhcW9LbXpDOGlXOTl1ZlJkbDN5aUZyWnFnWm80YjRfck1xUlBpUHpBZGdJWWlZaDFWcGNVTnREa25LR3dud1duUEdONHY0WWhkNVRFelZvampyLWNfaWs0N3o3N2pnWUgxaXIzQXdHQ2RxaXlKd2JaNFJPdzhZRV9JTlVSOEhpU0hUZFctTk54cHJ3WXY0WnI0NDY0NTRtSlRfaXJzaXhsS3MyUy1talJCVTdoSzE4TUk?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Przeciwników prezydenta Karola Nawrockiego nie można wypisać z polskości - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3RGdmhqLVc4eVJhajY0X1BiVEJTWThsekEzQWt5YnM2SUN4MDUtd1ZrMW5uUGdUdXlsUm5McWVRblgyc20wbnJtSDM4aTZCbGZRajZBYWxoNXJnd0pLaHpZR1hhbENiVEE1T01XMHotSGhxSGluUDFvbVR0V09BaXVmWUhxenJvci1qWHA3bkRyWE9ybUh3Y3R6OG5qdkpReDZ3dXZpMHZmM05Tcll5c3lubFZDZTl1NWJteGNUMXVfT21rX0N3cUsweWs?oc=5"
+      },
+      {
+        "title": "Atak na rosyjskie lotniska. Według agencji Reutera Ukraina nie poinformowała o swoich planach USA - Portal i.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObDBJUWlSTzZpT0N0OG85UnNZSGEwcE85X3c5TkFfTGFHMUZ1LXJhUkdiY21CWVVtaVNrSUlGUGVUdWx4TWREOC1aR0RSLWxhdmhSQUJEeENoa2J3Vm52RmJSakNtWU4yMktGbW90cXgydzdnLWNlcE44WGVIZjZpcnozMmN6dGI5dnZiSXl4c1c1Y3ZaX0NMVWV5V1E1dEFLX0FLQjhVOGRpOUVOVW1mNkxHdTlrZmlydFllZ0xXYXNTRUN0?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki wygrał wybory. Polityk w młodym wieku usynowił syna żony - Jastrząb Post",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUpJTE5lc3BBV2ZtSEpsX2RoYUt4XzZsWmotaTYwZ0F4VVFHX2VKUHNrRjR5ZS1vUmlPeXNHMkQ5dFh1WWw3d09rb1hUQW40TE9jOFZfbVcxeDg0dmx6dGhZMEZXNUdxcUF3eUo4VHZ0Q20yWjFRM1lkY1FEbHNaU3VyaE9ON2tEN052QmU5RkxFUFV0ME42UnJaM0VLMndTaVVUWmVqQUxJbHNtNndyejRuSGN6cWpaRzhROQ?oc=5"
+      },
+      {
+        "title": "\"Thriller wyborczy\". Zagraniczne media o wyborach w Polsce - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2Nkek5jVUFEcnhUMndDQ1NObFlaUkhFWWVxbUw4TmlhOUp6NllSc0JlajU3dHp5NUdBYS1ueWh6UExIX0xHTXRwMHpGNTlqOTdWVVRrRmZCM0ZrQmtlS1NUdTJSWlYyRzMyQVcwN2Q3SDdSOHNkbkNOTk1XTGRlbzQ2RWtlX0k0cmZVQTMwSEpibDRiLVhFalJRVXBmSjd5QlpCZzRwR0Zva1UwYXFN?oc=5"
       }
     ]
   }
