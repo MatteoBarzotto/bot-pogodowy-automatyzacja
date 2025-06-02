@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-31 14:24:42",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 388996,
-      "DOGECOIN": 0.703938,
-      "ETHEREUM": 9464.34,
-      "LITECOIN": 320.24,
-      "RIPPLE": 8.04
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "W USA Polacy już głosują. Kolejki pod konsulatem od świtu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHlTbTM4MVBSa3l2MnBZSVpPSWkyM2FMcXY2djlfRTg1TUZVaWI1Z0R3LUFWdXUzV0pRNS1melhJQ2Q4NGNoTlNMTUVILU4wN2JESzRLRExKTjJxWnNwcGs1Ykl4TW8zMWxIUEtYV2x2R1RkLWxzc1ZBYzNhVThNc3VaVmMtN0NWTlRhTVFmcFB2MlZMb3pSX3YxOUxKVEFqMjQ0aWVHakxoQQ?oc=5"
-      },
-      {
-        "title": "\"Król whisky\" wrócił do Polski. Policja ścigała go 20 lat - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR1R4LU5qQUNyNTFOUHNSSFdCWG9vZGk0WjhHVDFDbW9Vd3l6dlF0MlJaTTMtRl90eVhXUlRkbGZKYkJXMk8tc1g1cVdDVXkyQlFqN3ZCblZoUHcwV3JyZlptMS1kSkRudE1keVFyelIwNEhvTlNtdFFsdDc4Y05FYm85QXRNeFVyLTZLcGFtMEhFM1N1Skd3ZmRn?oc=5"
-      },
-      {
-        "title": "Wjechał prosto w koparkę. Tragedia na autostradzie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkRfaXZ2amNSWXN1anZlYkx0YzRvMmFVV1ZXaE9PVV9YeTBROF95blhZbVQ1ZmFNOTM1TUhsTlR0M1o0eXBwSmp0dnBpN25TM1VZZVU5U0Z0WXRtbk9MYW9Sc2p3Mnpqd3Q2eW11dEp4YXlVaFVRWVhyd2FuSXd6TnFZN1RRa25mT21Qc0phQVFUNXJHTk1Yd01nZk81dw?oc=5"
-      },
-      {
-        "title": "Szef Pentagonu ostrzega. Chiny szykują się do ataku - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOG1neDV6NzRJTlY5ZENYZ2I3anUyNkdfV19IWDdFYTIzeFNEQUlRcmZzZnFOdzRHb0FneTVWQmU4ODlxQ1VMY3ZXSlRDV2J4MkwtcG95SlpTbEltR0M2Qms5c3ZNNWhiMnhTdXNVTERCQ3pVcE9XV21MSE1yWHZrTWYyZFVGdWs5ZVpjekhtMDFTRjZBSGpLaA?oc=5"
-      },
-      {
-        "title": "Donald Trump skomentował \"sprzeczkę\" Macronów. \"Lepiej zamknąć drzwi\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanJXaEJfaEk2WXZVejE4SjNERTVFU0lnX0loVDJSbDQ0NEFHZlYtdWc4QnB1QVQ5STFlZnhIaURUeDIxNnhFSmtESDhzZ2tqbUpsOTF3NnpLMElzMTlTVUh3dzZMbUMxX0hKNVFRbFktTU1lQ2dxeWpDbVpmZElxUFl4aEJvMG83SUdxZVBiSnBvOTBldEhGMFVmc3VmRjRGX3BjSzRBdE40ZlQ3QzZqZXNGY0tQUHpSSDNKaQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-31 15:23:02",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ojciec Andrzeja Dudy komentuje wyniki wyborów. Mocne słowa pod adresem Tuska - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmc2QllMMXJkbjNIeEtoLWljRU13aDVVZTRONWJLVWY4X09MWUhpYTgtSl9VVEtkcTdQQWlyOE14aE4ybTZYQmEyWHc0dGZXM0tQWjJTUDZVQTFlMUlUX0xHd2dIV2w1MmtEUXFyTmZVMy1FcDZ2cDhnTEl1bHNIOVB5TTVEUEQtMkhHeUFYMDJuMFpYdGV6OVJTeFpWSjdUdlZKVXdDRjBaSEVyV3J0MXBacU90Z0t0VEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-02 20:19:34",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7282,
+      "EUR": 4.2578,
+      "GBP": 5.049,
+      "CHF": 4.5592,
+      "JPY": 0.026084,
+      "AUD": 2.4152,
+      "CAD": 2.7224,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 389290,
+      "DOGECOIN": 0.716841,
+      "ETHEREUM": 9503.68,
+      "LITECOIN": 329.95,
+      "RIPPLE": 8.08
+    },
+    "indices": {
+      "^WIG20": 2755.26,
+      "^WIG30": 3568.03,
+      "^WIG": 3568.03,
+      "^NCINDEX": 243.37
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński uprzedza ruch Donalda Tuska. Jest zapowiedź [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSDQ3dmQ1aE9QYXNCci1mWUdnNDhVa012eWpodV9HSDA4ZGhsTFpOcmJCZ2J6R2lVaHhhc2hqTFBCQXFpQUFpd2IyRXlnLWRvS0dWUHZYZWdLX2dERnlSZGRFRi1KaFFpOEZFMTdERGdFXzhtQ0dKU2M0ZVRRdlhBRGkzZ1ZEX0RFY2FiWGJHWS1EdkV4ZnFQeVpPblJBN0tVRlNQT2xlWkVjckxqU1pYZDJqVk9iYmd3UHpKdTU5R3VIUFNVRDgzQ3J3dDRrM2RYSEpnc3hn?oc=5"
+      },
+      {
+        "title": "Ojciec Andrzeja Dudy komentuje wyniki wyborów. Mocne słowa pod adresem Tuska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmc2QllMMXJkbjNIeEtoLWljRU13aDVVZTRONWJLVWY4X09MWUhpYTgtSl9VVEtkcTdQQWlyOE14aE4ybTZYQmEyWHc0dGZXM0tQWjJTUDZVQTFlMUlUX0xHd2dIV2w1MmtEUXFyTmZVMy1FcDZ2cDhnTEl1bHNIOVB5TTVEUEQtMkhHeUFYMDJuMFpYdGV6OVJTeFpWSjdUdlZKVXdDRjBaSEVyV3J0MXBacU90Z0t0VEE?oc=5"
+      },
+      {
+        "title": "Specjalne wystąpienie premiera. Zwróci się o wotum zaufania - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMTFYRkRESDBObzhYSHlxRTR1M2NqcDRWaUw2amJpM2tqTFIxdTU0LW5kMDlJSW9WczY3U1plR1VNejViVkVrMEphaUtmV0ZuLW1kekRzSnhmNEd3WEtpTnhjM1VJMDI4djRGX3RRYnh5dnBCVkJYRVF6Mk8xN0Vxb3RfdmE0dUpfOE9HSkR2MEh4TGwxZW1QRHhvT2wwMHRyaUJDQ2hVVktNQjY5ZFBmMnRSWXlhWFpJUHFBUDNWYklTcGM?oc=5"
+      },
+      {
+        "title": "Rosja proponuje zawieszenie broni. Są jednak warunki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGlNbER0cmEzY2I5T2tPQ3VfeGNqX2VnTGE3QkJIejhaWTBqQl9pSG9PaEVUUm55Ym9oNEdNUFRMVzNRZG5nTFA4cW5lQUI0MnRTUzAtZXBnVGxRQlRyZTZuREZiNTFiMjEzclBaR0UyOTQtS2JlV3U2elo1S1N0b1pvMGkzR1JETHN0ZWRrWnZYN3lQVTZVNkNxTW5KVEMtZ25feVIyQnJrcU1Za0Qw?oc=5"
+      },
+      {
+        "title": "Patriotyzm, rozczarowanie i Tusk. Co kierowało wyborcami Nawrockiego? - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOem05WllSdjRhZkw1V21udXR0TFFGMUVPWWM5a1hOM2k4MDhVT292aGlpUkFRYW9RWDNZYmk5N0sxNDhvQTRzWmxCYkx4TUFqUC1MbF9ES1VHcWl5N1ZNYlA2LURWSGhvWk1PZkNkTzZtQ2xFaWREQnV0dHh5RGYyU2loUG8yMDE0WjJYSXQ2MGVuc1JXWGhKOTBHcGY3ZkVISXNNVVFSOFdCdXpFVHlQNmVVaWwxUmt6NlZaREpVY09fQ2R4cnc?oc=5"
       }
     ]
   }
