@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-05-30 21:10:49",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 392286,
-      "DOGECOIN": 0.749296,
-      "ETHEREUM": 9642.41,
-      "LITECOIN": 331.3,
-      "RIPPLE": 8.24
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki wyprzedził Rafała Trzaskowskiego w nowym sondażu. Różnica jest minimalna - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjhtSWdFMGcwYVk1UnB3aWR2Y2ZMMnotV18tbTZhdTZteGYtdV9hMDgxM1BOcU5wVmlNNTFzSjYxY3VEeHBIbC1GLUZmVW9melIzZDhYVDVNY0hfNmc1VzRRRUdKaWJQX0tjNWhBZUpMTlJGd2RHU2tFWE5jRUVTeHBrb0dKNW1OLWtjX0xuYjZScFRCbW5BTkNIVHlMMWtqQXdkRXpvX2g3eXY0bEMwbldFQUNmZGpSMmllRGJZNXRCRkRDemozT0ZFUzd5TGhPSlNZRDN3?oc=5"
-      },
-      {
-        "title": "Wyniki drugiej tury już w poniedziałek? PKW ma nadzieję na szybką publikację - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2lRTDBLOFJtX3Uxc2hQZVlDdkJ2OWdpekd0LUdVZ09FWVFhZkEtRWthZ29URTFsTEljeDZPbEl0VXhMMWJFcEZuVVRVdGx0T3FNNTJYZ1l5TzJZcUV2SWxsY0RadzVEcUdOX3h4NlNSOEl3VGxWdGEwQ29EaEpReE5BUDdLWUYtaWRyYXlDRVBTOEszb3NNbENwUGtpOEc0QzZ4bGU5c2FSRHZVUzYzU204NkdIWUdHMlU3alR3UXdMSk0?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia w orędziu zwrócił się do Polaków. \"Samymi pięściami nic się nie zbuduje\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWxQNXRvMkozbFpVMlNIRDlKTEdTNGlmYzBaOVF5WlNJRFVfWEV6blFHZFNNcE5mODdlTkxIcUlyaEV0TGE2czNxN3YxVFhDOE9qVlBlQWtxMTdvSzA3M0p3SGJ6RFVKcGVKS0N1dDdPSm12Wl9OUDl1eDBXZHR1bm9wamh6RkhpWUR5NTZ0MWJfUVl3eTdaTW5Edi1QWHEtSmRCc21BeFlFSlliM3BXTU9XelgzQ2NMNjBaNHA3Mmg0cTBudW9tNlFvZVhlTV9mX3pxS2QwQUYyUQ?oc=5"
-      },
-      {
-        "title": "Przeszłość Nawrockiego. Prof. Dudek: Mam do siebie pretensje - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQy1va0l0NVhMVzNkaExQUWwtR3dTbWVQeENHelVIT1YxdXk4M2t6SzhpNnV3SzJ3UXZRZTdGWEgtck1qWVRLcEZwV2tOdkx2RTZPSWlfNEJzUDdOblZqb3dPZ0VoamYyeTBoYWJHWkVtcEJUX1JNcjhMbGxiN2tQeFJWTkJvRVRDSnd2T3RtOTlVRWY3M2tVbVp30gGYAUFVX3lxTE42amVmUEFFUm5rMHJCd21FSkZnd2prOC1TN1NNak9ycVlLTjBzMENUTkZBSkxOX0plTDVyLWY0azJUTXVBcTlTV3B4RkJHM3FtUngwZHJxMDNTRTlKaFBJT3UxNlNMTnN0QjVSOEJ1NmJoZV9PbW12T2tHb0FBandjSTY0LUJLZ3BBVWdHdHkwNGI2VzJHRVNS?oc=5"
-      },
-      {
-        "title": "Nawrocki dostał poparcie od idola milionów Polaków na ostatniej prostej kampanii? Zaskakujące nagranie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1gtNkswRTdJekFmRk1mS3lGN2M1dy1SUGJGeHZkdXN5cnJISkFmOENzdmdaOE1SbnpWaks2blZUa2dyaTZoLW41U3g4NFlrYnc0TU5vVWw0by16TEhvNnBpaTY1bUYxdzY1Wk9jUlhvcE9VUk5qTXNMdEl2M2dGaUxaclhwWlc5c3Q1RjdVdWpLbkQ0MVNBQmctc2lFZ2NlT2RGRU1kRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-05-30 22:15:14",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Spektakularna operacja Ukraińców. Rosja straciła bombowce strategiczne - TVP Info",
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQOUk0eWpiRkNYVDJrUWZ2amZQUHh4QUZ4WDh1aUlJNThfUk50RWNvNUtxZGVobTVLM2VxMHlQMkdBbXVzNTBhMFFSX2Y2Q3lqOUI5SXNKcVRvWFUtQUNYZFozMEw5N1VrU0RIcklKZXJNRGdhZDAydHR5SnFCWm9lbWo2dHZyVTAzc25TODNYaFAyNTA5RWV1aGZJNmtaOUhYZ2Fqc0pPSDR5dzlBRFowQ0dfRjA3RXNCdjdfbDBTb0FNVlRpcDRkcTRRQm52aldNY2gxTmFpS2JJUkFjVUVna0lQRmJMRnpuY3NCbEtCVHRjQXF6SFRHY29FakFEcFl4c3ZrdHZTeC1YQ0ZVRUs4U2ZQZGNUVE5uaWk5RXBweHhkdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-02 05:16:50",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7537,
+      "EUR": 4.2507,
+      "GBP": 5.0552,
+      "CHF": 4.5555,
+      "JPY": 0.026056,
+      "AUD": 2.4079,
+      "CAD": 2.7167,
+      "CNY": 0.5216
+    },
+    "crypto": {
+      "BITCOIN": 394064,
+      "DOGECOIN": 0.716182,
+      "ETHEREUM": 9401.99,
+      "LITECOIN": 328.0,
+      "RIPPLE": 8.11
+    },
+    "indices": {
+      "^WIG20": 2771.86,
+      "^WIG30": 3581.42,
+      "^WIG": 3581.42,
+      "^NCINDEX": 245.25
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki wygrywa wybory prezydenckie. Oficjalne wyniki PKW - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hZbnU3TUQxWmNKQkdNVVNrdWJNYi1NTGlNS3N4Sm93MUI0QmduYVg4bjBpVTkzYUZxa2pXMmhMOE1CanJxcEJXaExtdlIxQkZwNE9RbndxYm1hQUg5RWtkY2JDMG5fMTEzN3BNdTBNWUtBNHI0TXhpYXFFR0ZSbnE2NG9fZVFHS2dFQkVVMlZ2bWVfalVvQlVoMDNyY3cyQS1jOUwzbFlZM1VrTVE?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie 2025. Wyniki z województw. W trzech z nich jest już wszystko jasne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVHpVUnZWUDlXdXRRYlNzWHVBLWw5SEZhd0NtN1htRm9ibkluVjZRcE15LUpNeGcxRkFMUTczWlQ3dVB6RFZMWGxDYzgwYlJieF95SWE1bUtySWU0SUZfc3pCdnB6TnhjTE5KM1JmNDhYdVBzXzRHVEEzdlZxZlZwRDBfRzlsdkp6WUttdlB0RzU2RzJ1Sk96OEc3R2ZGUmJBcFRJblQ2Z1Y0bEtOQ2hQSHBfd1BpZi1jeFhBd2hpRmlwdGRpZnlhTGtScU9EX0JNRlhyd0dCYw?oc=5"
+      },
+      {
+        "title": "Kiedy oficjalne wyniki wyborów? Szef PKW zabrał głos - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2F1WGVhWmhxTUtvX3JZcWhvQW1QTW4zQnd0TVJnbmdqd1FUdVo4MmtZUUFEXzh3TlNlNVg5TmxKdEtNZWUwMzNzNWxOcWpfWG5iaU12Q1NCRVpSeGZTZjlQMXVMVmpBZFEzU0diR19KeDRlV0w2WGRRTkE2SGgxbWNObHFJYTBLdmZhMXBhT0dnQkZyandDQmNZYXh6N0kwSlI5cVlmTE1nUQ?oc=5"
+      },
+      {
+        "title": "Zagraniczne media komentują wybory w Polsce. \"Na ostrzu noża\", \"łeb w łeb\", \"cios dla Trumpa\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU1NWdlJPeFplUU9ETWx3cG5NTXQxTVR4UWVGS0VSaEFUOVNBOGtQT3pYMHVSblhNZ0ZUS0R4SmxNZUp5YjJNR3ZuRl9HeUxjNmJwakFoZ2l3ajBiazIwek5xMGlnbTc4WF9Hd0RldS1DNTFmcTdtbndRdldlbV9BQ0g3T01IcXYyM3hzNERfNW4yUHJHRzM2aTV6NzlrQVhGT01wUjJONVptM1lJSWFhMUhXT3U4ZkFiZHpVcnpPNnVSSUdZbWxzMVh0bkc0alc4b1ZYTDhB?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński po ogłoszeniu wyników exit poll: Wygramy te wybory - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVRLdmlrTkNRMVFqd1pWV0JwNnppZ1Y5LXJ3Y2pabW5nbkRacVlxVnBESGpGZWQtWFE1THM2M3JhWWxQQzVMYkEwT0p4d1NqTDlEWUdFVFR0cFJIZ2hpMTBGY1ZqSlNuY1BubDJrU3RmV3JlRGhua3FHWnpuSEVwWGJ2ektVeTVUWThIQjBXMG95eGN3YVd5YjdtOGlYTElBRXdJcDdYTVgwbms?oc=5"
       }
     ]
   }
