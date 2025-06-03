@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 11:13:30",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 390828,
-      "DOGECOIN": 0.708619,
-      "ETHEREUM": 9385.43,
-      "LITECOIN": 324.76,
-      "RIPPLE": 8.04
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Pierwsza konferencja PKW. Nowe informacje o przebiegu głosowania - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXlFbll1QV8ycVBMbWk3blhVQXV2cm5Kd1oxUndzb0Z2cHlSUkRkM0pQY040QUZ3SUs2VE5KbWY5Wm1kZl9jZ0t1ZEhOcVYyM0dUQWdBc2U4cVlxckdxWG0xQmNYMk54cy1WYUFWZVFSaVFmWTdmdGJJRFZONjhBei1lYkc4a2pXdGQ3dk83NkNTcXBGaTdIbkpiam9aanZfOXpDTHY0MU91MGpsbnpkOWMwSlJOc2FBOTQzQjdXMEVicEk?oc=5"
-      },
-      {
-        "title": "W USA już zdecydowali. Rekordowa frekwencja w II turze wyborów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGJyS3BOVUI4ZmtUVUZlY2lrNFZteEF6dXR6MHVvRGo3TzFVQzVGeGJBUW9mYm1QajRhOUlkb3o5czNsYkNfQ09WSEhESXNyMldjVFhKVnZ2X1pLNy1FbjNReDJ4VFYwd2hoODVBdFktQVJCMjVDeV8zZnZJYWF4TVJDdEM5Z1ZHZEh6cURZYkd6WjZnSmE2em1yQnczVkVaQmdJTGhyMA?oc=5"
-      },
-      {
-        "title": "Awantura w Zakopanem o opłatę dla handlarzy pamiątkami. Zapadła decyzja - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjRDdzEyZ2hvTnRhMlJQNEZYTHFQaElMV0M2TmNqWUxPR0dxY2pTLVY2ZXRJNm9DUUpIYWtKeThxQ1ppNkVzbnluaGMtVFhHdjVDcEZLMThfTkp0Q3hiZnZ5VFpvSWRITWZNaHZTZ0swYzJ0WUJnbVNuUkdGb3g0TndHc2IweTZXdkF1Y1JucmtqZ0xlSHY5NGtLd004S3o2azZKWi1LZTlFOXR6TnJlVVNrX2NHTlI0Yi1CYkNVWFVGQkE?oc=5"
-      },
-      {
-        "title": "Joe Biden zabrał głos w sprawie swojej choroby - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbS13RFo4Qy1UWDZPakhzT1BUMDc2LWtPcUM2SVEwS25EbTNmU0xlcHlrSVkzTnR2emlhTFUyS3BuWF9BWGVYRkNpNllOd2x5bkJ2b01ORHpyUC1tdHV6TERMcE9OSExSZ3VIbXhJRmNJWXo4Ti1MTlQ1aGFqemdBajNGM2VDd0J1Z1QycXZZaXA?oc=5"
-      },
-      {
-        "title": "Dwie katastrofy kolejowe w Rosji. Podobne okoliczności, są ofiary - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaG85R3B3MFg3aUNkdXJuMXFWRkxZaHRzRS1KWnNsdVFQY0hmMlhPVzNYbGQwM1dxSVY0WXR0TW5VZ0gyem5YbjBuX3B4RUtiSXJwZUJoOS1xbmZtN2J4TDllNlBBdF9rU3lnczRrRFZzM25oVDVheWhLamY4MEpSdUNOWmdxZHRGbTh0SUFLclZmbGlXeFd2bHRPRlROekMxeTdBUHh4YTc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 12:14:08",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Koszmar\". Niemiecka prasa o wygranej Nawrockiego - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDBpWEVXdkRzVjRETzY4dk5PMXZrU2tScU5FSHlrZTVoSDlKZUY0R2F6QlpGSUdhay1DS2V6YWs4eUVrbmcxNUowM1NyRXNWMHJieFJYMmd6TW43N1dNN1dQell5S09LZkEyVWxLbENxM1dUMHR5Q3E4NTVIZGlZeTRJUlpUVU1yNnRES1BpWnZhWFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-03 17:16:00",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7437,
+      "EUR": 4.2721,
+      "GBP": 5.059,
+      "CHF": 4.5718,
+      "JPY": 0.026215,
+      "AUD": 2.4167,
+      "CAD": 2.7266,
+      "CNY": 0.5208
+    },
+    "crypto": {
+      "BITCOIN": 400903,
+      "DOGECOIN": 0.743001,
+      "ETHEREUM": 9930.92,
+      "LITECOIN": 338.23,
+      "RIPPLE": 8.41
+    },
+    "indices": {
+      "^WIG20": 2731.3,
+      "^WIG30": 3534.9,
+      "^WIG": 3534.9,
+      "^NCINDEX": 240.91
+    },
+    "news": [
+      {
+        "title": "Ruch na moście Krymskim wstrzymany. \"Ataki trwają\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUNwT1J6ZUlvV0RncG1MREtTZkdYRF9RcmNEaVFHQjBGaE5Tc2xkM3FpMXNhRHNoR3dIQ3lwU3h2S0xYTjFOd3NmT3M4VWFwU1ZRdzZUU3RwWFBoSVprb0l0dlptczJKYXlEMTZJNl8zLVZmQUJ5WTQyWnZnamlIbEJMYXlnUXpOSy16UkFRUTZMRnpsX1lCeXBHTFFWQQ?oc=5"
+      },
+      {
+        "title": "Dlatego Nawrocki wygrał wybory? Raport o nowej strategii w internecie - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXo0YzdEck96ZlhlOThwcE52V2F5ZFNLNUJfVy0tX25feTNQY0JQYXBsb1QxTEkzSGNfWDBwbk9nVkhFa1o4dXdxbjJiTVBjelhyRmwxUVdNTFVKWmNVRTRRLUtBc00zQnlKeVVZUUVkT3cyeVdHSTZYWUswYmFQMkFNOUZZTXBiOGdlZUdsWWcyeHYyN2owSm9IMkpPakZN?oc=5"
+      },
+      {
+        "title": "Rząd techniczny i napięcia na linii PiS-Konfederacja. Zamieszanie wokół spotkania Kaczyńskiego z Mentzenem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZS1Ha3M3cFhTREJ0U0dSaDVYOWxfYnpFdDVhSTBkRFc3bEJ4cy1IQ2NINk1kRlE2d2RBam96Yk5nTWpoODlqYllDc3YySE5IeG1QdGo4UkZBNUVzQ3dfeFhiVDZER0JSUl9pWGhJdWtHZnZNaUFubUNpZEhlTnVwQTBzd3cwNmtoVnVFSjREUGhYYlA0dkRrZlliWTZpMWlzTUxUZl9XSzRMQ0lSMFJPY2NEbURqSXphUlNodHkya1phRnNIRUYxQ2doRi1OdDQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki a finanse Polski. Reuters wskazał zagrożenie dla rządu Tuska - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTFpbnJ4WjljZ0lsUjBJb1VBZlMzMFV4Y01QTkhVTTFaTlB6RExDdkpjenRCeXJPbnk1ODFfMkwzSXhrOVJndFRzLWNub2FmTFNPaUJSUHprdTRFQkp1SnZoNktfM2k4MkQ4dVoyWEZqeWhPX2w0UkxkYUp5YmVIbTE0SkltY1dPSC1WYTBObzl1SWpyQ0xwLXRlYkVva29Pc3gxcV9ialJURFRwVVBRLXhWV2tFOXI4RlVGZU1XSVd0UzRhRm5IbQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk poprosi Sejm o wotum zaufania. Jest ostateczna data - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUsyak81R2dUNjBpdWtmbGhlZ0hQM1c2TjY0cWU4ZVZUQUd6VGJKa0d3Z2N2eE9KN3JhcDJrR1RzMHpDd2lBYzh3NEdPZmprdmlFaHlobUpOem40Um9FVUlRdGZ0YWdtRDBGSE9TcUJka2lmM3RuUGZvekNOclQ1d21SNm5JckQ1Zmx2eFBIcG5WNjl2VkVEWkhzY1N2eDNrOVBocA?oc=5"
       }
     ]
   }
