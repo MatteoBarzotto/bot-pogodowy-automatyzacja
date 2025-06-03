@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 13:11:00",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +25°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 389419,
-      "DOGECOIN": 0.705223,
-      "ETHEREUM": 9340.05,
-      "LITECOIN": 323.62,
-      "RIPPLE": 8.01
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Desire Doue został bohaterem finału Ligi Mistrzów. Przed trzema laty... strzelał Polsce na mistrzostwach Europy - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWZyRS00Q2RpUXNEdmxDYXRwZmtzbXBVMkNWTE9YclhzUkQyc0tEMVNDbVlWRTRzX0ZhYlNXOFFLdE1GbWZyRDVicUZueGtFODZYTU5uWUJuM3F3MW5fWm9DY19kYUdZWVR3Ylp0VGNTRl9GcVVVU2ItRkptbUVuNG4zbXR3dzB1M3RWRGlac0JDMXp2NEJLOWU3bkoxeXdMM3hObHdoWThLNE9Dd29kbHNhMEdKN3dPMTE2V2xnSkpqM3BJOUhDM3ZRSElpaVhIeUJJ0gHYAUFVX3lxTE1yaHR0djJUeWxRZmJleFhSbVVpZjc2RnJUUkxDYVRhaVF0ZVlldmc0S1lYNE5teGx3NnJhbVJqTEpCa3dMS0FIVmJId05qTDRaamhjM3JMZ1NVaFFKRmZBVGdfM2s1QUk3Um94SE5TNTdjcWhvWHBzXzZIWktZYWpPQ3NiQ2tOb2JrVkc0WE9ia0Y2cHRKZi1SM2dOVEJkMlJMaXpWWVBDNFE4aHRYVlRKenJkN0V4Rl9FY3JBUGpiaWJUTTlLQVRsSXFXUFFFVzVlc1ZSYU1DRg?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. Pojawiają się pierwsze dane o frekwencji. Jest wyraźny trend [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjQyOFR0Mkc4elJDSUU1cEI0SUg4S1Q2SUhEdXVGTUk1bDVnVF9reTlRZEVYZi1ISDlQdnFVVkRMbTFRV0RnWnV6U3hVcDZOZHJYa1ZHS0xtcXlTUzFKMVdPVzFONTNha1pQMXlXM1NnVGxLaHFScFVkQ0psUExOSmtqLS1IU2l3ZkRSUENyOGVaT2hMNWdtSDRZTmM5MXB2dHY1T01XUGhScEJ3Wk4w?oc=5"
-      },
-      {
-        "title": "W USA zakończyło się już głosowanie. Rekordowa frekwencja w II turze wyborów - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdExNZzZoYmZpWWVSeVBYOElzdHFaZGU4d3NFWExKQ21OUld0Q0h2c1Mxek5Wa3ZqZ0gtOHBHYmVyM0pPVHpoYkl4Z05paHFtX0FkYWltLWlIOEs5ODR5QkpUOXI1U3REM3JwQmVvOWNpZm41cEJBV3B3SFZQOF9IN0xEVE5QSW9vc1M2UGxEQjlHLXJaSXB3R1BtX0VVdnJLMFVQS2ZEQkdXZzluYVgweWdR0gGwAUFVX3lxTE5GN3Y4NERoWUNnSHYyYlBNdm5lcG5jSElyT2JjOHVETEFpa1E1XzI3cFRTR2MyYUczYzQ4NzdDTUdRVzloRGJEVVdXWDI3QlhRTjN1R2J1RVMxVlM4bER2ODljalUxNHF4VnBjNTZGd1QyMDVfM1dKWkVEVmNyZ3p6OGpPZ2JDMzY5bF9kMGR6M2JESlVRbUN0MGFZSEMzM3dMcjdZbE05OXdOempmVlRq?oc=5"
-      },
-      {
-        "title": "Ostrzeżenia dla niemal całego kraju. Możliwe trąby powietrzne - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXR1TGpOVGJVOV9ndWdiVWtkWGFNVHQzZ1VOUXdMS3lIczNnbjI3UGxDOE10VkxETjVUd3ZDZkNQcnljS0lsODVIZ0EzRzJ1NThUZmk2VC1CNUxJenNxS3Y3ZDluRDVuTGphRkdnUHZCcHhfb1NzT0JJdm1NdWZKb3MyZkI1NGFlSXo4Wm9HZzRzVzA2WUVjYTNkSy1NZXVXWXNsZXlkUVlBTzBQY0JRQk9RdG9PaFJaRzlwUVJaV1ZmSjg?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie 2025. Pierwsza konferencja prasowa PKW i apel do wyborców - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmdYSktlbkQycV81WURra1ZNRlZHMFNfWFB4bHk1TE95OUstaWdWZDkwZDhHU3V6clppQUdBV1EyczUtRUlPUjhFWEZUZEQ4eG83QThTWmFCRVhJeDBTMUhGUndWYVM1UHJUckVSbWg4Wi02Tk04MVR5N1k2Q2dGbGs1Y0o0T01sNmlRMVZQMEEyVVo1bWM1LWFUU0NIVEYzTXRfeDJCamYtQWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 14:25:56",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rząd techniczny i napięcia na linii PiS-Konfederacja. Zamieszanie wokół spotkania Kaczyńskiego z Mentzenem - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZS1Ha3M3cFhTREJ0U0dSaDVYOWxfYnpFdDVhSTBkRFc3bEJ4cy1IQ2NINk1kRlE2d2RBam96Yk5nTWpoODlqYllDc3YySE5IeG1QdGo4UkZBNUVzQ3dfeFhiVDZER0JSUl9pWGhJdWtHZnZNaUFubUNpZEhlTnVwQTBzd3cwNmtoVnVFSjREUGhYYlA0dkRrZlliWTZpMWlzTUxUZl9XSzRMQ0lSMFJPY2NEbURqSXphUlNodHkya1phRnNIRUYxQ2doRi1OdDQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-03 19:13:25",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7437,
+      "EUR": 4.2721,
+      "GBP": 5.059,
+      "CHF": 4.5718,
+      "JPY": 0.026215,
+      "AUD": 2.4167,
+      "CAD": 2.7266,
+      "CNY": 0.5208
+    },
+    "crypto": {
+      "BITCOIN": 399120,
+      "DOGECOIN": 0.738568,
+      "ETHEREUM": 9830.28,
+      "LITECOIN": 338.02,
+      "RIPPLE": 8.49
+    },
+    "indices": {
+      "^WIG20": 2731.3,
+      "^WIG30": 3534.9,
+      "^WIG": 3534.9,
+      "^NCINDEX": 241.0
+    },
+    "news": [
+      {
+        "title": "Poseł PSL chce dymisji Donalda Tuska. \"Do tej pory się nie przepracowywał\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODByNFRvYnNUZXgtbWc3Y09sQ1ctWW1XNXpGOWYxSk40bTl0SEN5cGRYejF5SGFKaFdZR0RORGVwdEdpY012eVNrVXFyVDNMTVdPYXc4Z3VKc0t5Y3RXcDJjLVpmdF9fVHVEaFd5bkZIbHZSNkFYUFUxNC1EbnZjRzdCNHl0OU5SVV9rY1BITFo3Y3RxMExnZ2xhcGNMTGFGZXZ6MzBRVHhIS2pQOVB4TDJR?oc=5"
+      },
+      {
+        "title": "Rząd techniczny i napięcia na linii PiS-Konfederacja. Zamieszanie wokół spotkania Kaczyńskiego z Mentzenem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZS1Ha3M3cFhTREJ0U0dSaDVYOWxfYnpFdDVhSTBkRFc3bEJ4cy1IQ2NINk1kRlE2d2RBam96Yk5nTWpoODlqYllDc3YySE5IeG1QdGo4UkZBNUVzQ3dfeFhiVDZER0JSUl9pWGhJdWtHZnZNaUFubUNpZEhlTnVwQTBzd3cwNmtoVnVFSjREUGhYYlA0dkRrZlliWTZpMWlzTUxUZl9XSzRMQ0lSMFJPY2NEbURqSXphUlNodHkya1phRnNIRUYxQ2doRi1OdDQ?oc=5"
+      },
+      {
+        "title": "\"Potężny sojusznik\" Trumpa. Politico pisze o Karolu Nawrockim - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnRkMEllWFdEVV9OaWRaZ25RdTFHTTZIUEFxUW9ydzJvQlVtbFhGUy1oLXlhbExXWmRnTlM2S2hlOTluUUtORXBCMTdrZ3pzUXB0bXJyRjJCUmE4SzRla3hZOF9uVUdlQ2YxUmNwOGhBLU5qU3ctVU9vWDN0NUEyeHBfejl0c0IyMnZxNG9HS0RyR0RvWm1scERwbUd5OHM4bWx2VFpyMVFfVDRMb0RV?oc=5"
+      },
+      {
+        "title": "Joanna Senyszyn ma ruszyć z nowym projektem politycznym - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVY2cWpMRUxuTEwzNjRoMFdVOFNqVnNwTUFBaHBoM2Y1MHRqajRwVmhOTDUwQ2FEeXIwTkhZSC1QaDM5MEd1VFVMS2tudmc4MnNaMERXNmNkSXdLQUNpbHQ4VE1pRDJlSmNIV1hNVjRUaFdWVDM5b0xaQVVCdlZYVm9VNWdSaUVFMnpjSFllNUVrWjlIRFdUSU50S1BCWmRoOW5yVDQwdWQ?oc=5"
+      },
+      {
+        "title": "Wotum zaufania dla rządu. Padła data głosowania - Gazeta Prawna",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWx4UUN1X3RfeEp0SUpRbXhmd1cxT0lGZXQyYkNUOFRfUzJwaThKaEFaUUxMblVlTFo4bl9BN3d6czg3emNJeUFnbGwzcWoyeEFlZGxMNWdXdHBJdDNVQXVvWGdibFc5cFh3YkQxVmZpY3d0YWpPMWt5S19uQmQtT0FsTGE2SlItNThmd1BmMk5XNU9XZV9fR3VzWml0XzFyTjFVZ0h4cWRnR1dlTUtRVXdtaG9JcG1y?oc=5"
       }
     ]
   }
