@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 03:21:00",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 391312,
-      "DOGECOIN": 0.71737,
-      "ETHEREUM": 9455.52,
-      "LITECOIN": 326.43,
-      "RIPPLE": 8.14
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Polacy za granicą już głosują. Rekordowa liczba rejestracji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjFKSnVtaGxUY1JYc1g3TVJEOTBZOWxWSE5FSkszaXFqVXlYcGVGeVVwdk5qOVFQeHNvblhCUHlIbGF0Z00wbThWbkNNQTRHWllGMnNmaVczSElFY25hRkpjRndqdndDWXkwdXNHMlJHWVlsMjF4Mm0tV0hySjF1X29IWmNCYjdJckVaRlB4QVZtZzExS2JPWXFvYlE1ZjBXRmhPRGdzd21kTzlzeDhSNmRfUkhDY2VRQVk0VDZkdw?oc=5"
-      },
-      {
-        "title": "Mieszko R. czeka na badania. Prokuratorzy obawiają się jednego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYktDNkc1Z3gwTVE4NnRjTC1Tdzg3bXJFZGFEanVmeUxyLXkyYkVOYlNJN1NtaEhSQXNZdXFoQW1zb3h2bURjTmkyeUcweTFHVm9hX2l4SXgteWVvUE1MTVpFcHNyOWE1LUVydkNyNUs0aG9hOUVwakF1MktGdzQ2cVh3dThTV2c3MTU1b3h5aFp4QnVZV2tsWHUxMklha3RlTW0yakFn?oc=5"
-      },
-      {
-        "title": "Maja Klajda z tytułem Miss World Europe 2025. Kim jest piękna Polka? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEhMRmowM0RDNUxybGJTRUZGdVM2c0Nub1Y4ekp0OWl2TjZJdXVxUzBfaVc0a3BOZHhUazlaUUFWWkNfSGVjQlhoMmlkRUFoaEYyMk5nVGUzZWhDN0J3RnhVX2k2U1hPZmNiZVpLQm5FdW15UGJWM2Q4VVdoR25EZ05fYXlIblFUdXFJQkRDNWtLb1Q5QVF2WGFjSHJzMHZYUDN0bFFOZjFVOGVCTmVjeFpJTlZIaUJHMkdOTkVwWQ?oc=5"
-      },
-      {
-        "title": "Północna Korea: czystka w armii po nieudanym wodowaniu okrętu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzBhRVVsNElxd3loWUVkM2JjV0NkMFpuWGFaQi1kRVRabDJqMW5tT3dqU091eVk0TC01elotLXpvWkpQTXZFSC1SVjBUNUF1ZDlSYU9hX2VDSm1WYllYWUg2NUJTcmRUQnpYUFR6YlZVdG82aFlBVjhqdzliSjRvdHdGTU9ic3NHRnZDRDc0Vzd1YWVacmVCYWdHZDMwMmE1Z0FURXJR?oc=5"
-      },
-      {
-        "title": "Silne burze nadciągają nad Polskę. Ryzyko trąby powietrznej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2t1UnJkZjJQbVlQbS1WSGRKWnZZeU91ZnRxRGt3bjZ0c1JtcEp0Z0xwVjVzUzZzY2ZtZjBLQkdOZmlVYXc3NGpKejFlVTk1SS1pT2VrYlU2MThsenVSbC1aVG5Ub2tLenlHdjVDQ3JSUi1OZ3ZXME1pS2FsZ2RDeDliTGtLam4zMlczamlnQlliOFRybXY1TGgwZ1liN2VySXBZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 05:27:22",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wpis Małgorzaty Trzaskowskiej po wynikach wyborów. Zwróciła się do kobiet - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVlNSHBGUFRZVzVtQnRjamUxM3lmSWQyMXdqSXpfNTIxbzJnTFN3c0o5eFpMQTZjRWRkWm1sUVRjM1QtMFBLbDJkWWtzQVhiaTVwdG5CNE5HR0d2V3hsU1ptVTZzRFM1NmNobzNSRDFJN0Z1X0g0NEozRGlpY2xlRngzMzlWZTk5ZHNkeXN0S2NBR2QtcWRQNlFHNG15N2RadEhQV1NEWU1GYnpxSmJyRWRnekNaWmZaZ1Y0UEFkbGhIZ2xXUDNV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-03 10:20:08",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7282,
+      "EUR": 4.2578,
+      "GBP": 5.049,
+      "CHF": 4.5592,
+      "JPY": 0.026084,
+      "AUD": 2.4152,
+      "CAD": 2.7224,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 393712,
+      "DOGECOIN": 0.729553,
+      "ETHEREUM": 9756.96,
+      "LITECOIN": 334.65,
+      "RIPPLE": 8.2
+    },
+    "indices": {
+      "^WIG20": 2694.41,
+      "^WIG30": 3490.83,
+      "^WIG": 3490.83,
+      "^NCINDEX": 243.59
+    },
+    "news": [
+      {
+        "title": "Obecność Ukrainy w NATO. Prezydent Duda o poglądach Karola Nawrockiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQekkyWjdjWmVCd2hWZ2VsS0RkTzBsOXNDNHdBZXYzUUt2b05Uc2tyWUNhVlg3bzFXRVdpaFNvZVg2X3c2QlFtaUZCeTdOTHBVa2FRS0I4VjZKc2RlSDZJSGJSMTBDV1NPbk9YX1Q4b0Jpdl9YaXppWnFsVG9fWXFIVWoxdlY5ck1tT1ZzN2lFcy01NGQ1T3pSNEcwamtDUldyUWRNMEtSVnIzMVRIR1c1Z1E0ZEt6UjlERmRF?oc=5"
+      },
+      {
+        "title": "Krzysztof Bosak krytykuje pomysły Tuska i Kaczyńskiego. \"Sfera fantazji\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWpOLURhT1kwbHBER2QzQkR1RXhhNE5Fem5NU09zeE9LczU1YjFJWmJPLWN1eFNWbmtva2FiYXFBY3JrTFJpeVZ0c3lTUWt1czEzOUVFaHBjVVhRbmlqUDdUdE1PbUlNUDRWVGFzVmZ1czRIN1c3aEdmTEpySmdPSnlHYko0djI1VU55SklPN3c5MElUd1dJRTZxTzdKeGp1?oc=5"
+      },
+      {
+        "title": "Donald Trump zabrał głos w sprawie wyborów prezydenckich w Polsce. Co napisał prezydent USA? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSi0zSlNXNFhfVUhoUnRkQTZBS0taeUNESU5KWHNIOE9LS2xZOVZOMy1HLTdoVDE0ZGZOT2VqbjJiWHVjUGhfZ0liWEZQaDNrV2NhT2twMWExR0RwbFhRNlhmMjJnR1NZdVpONkg1cTAyck05eUczUVYzeURjZ1M5Z2F2aXZ4T2VUaXB2Unk3V0tNRDQxN1V0M3RFc3ExSFZBOHJZUllrbnRTb3poT1Vj?oc=5"
+      },
+      {
+        "title": "Kaczyński o rządzie technicznym. Lawina komentarzy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUlJblU2enZLclpIcVdSMDZvMXhpdElyb0trRXVuMnRzT0tIbFdldnVzN1ZSZUZTMGpld3dHSzg2bk5jWGRxV3JLLWljS2E3eHR0ZlNUOS1oQnBIN1Q4b2FvZjU5M01mY1dISmE5UlhGQnJVQWdfVmlrX0JaYWdjQ051LWxLc2xpT1hnZVFRWEg4bnJZN0k4?oc=5"
+      },
+      {
+        "title": "Małgorzata Trzaskowska po wyborach prezydenckich: Wiem jedno - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkxmUFcwamZxYWd3eGxfX2VHME9TMktieE01MGwzLTB6NFJ5RDRTX0NMUmFpR3k0TzVlc3daRjFMZEQwR2Y3MU9hcGFZRTdRQWowUmlkNTNIT3JLbi1maWtobkZCckJVcGV4MjliX2ZQOHhCd3piSGlMZksxS2FKMnZHeEpzVzl4VGZxY3h1RnV0RWNyWG9uYkpvMkI?oc=5"
       }
     ]
   }
