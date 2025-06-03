@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 07:14:05",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 392298,
-      "DOGECOIN": 0.717976,
-      "ETHEREUM": 9456.96,
-      "LITECOIN": 327.63,
-      "RIPPLE": 8.14
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Polacy za granicą już głosują. Rekordowa liczba rejestracji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjFKSnVtaGxUY1JYc1g3TVJEOTBZOWxWSE5FSkszaXFqVXlYcGVGeVVwdk5qOVFQeHNvblhCUHlIbGF0Z00wbThWbkNNQTRHWllGMnNmaVczSElFY25hRkpjRndqdndDWXkwdXNHMlJHWVlsMjF4Mm0tV0hySjF1X29IWmNCYjdJckVaRlB4QVZtZzExS2JPWXFvYlE1ZjBXRmhPRGdzd21kTzlzeDhSNmRfUkhDY2VRQVk0VDZkdw?oc=5"
-      },
-      {
-        "title": "Maja Klajda z tytułem Miss World Europe 2025. Kim jest piękna Polka? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEhMRmowM0RDNUxybGJTRUZGdVM2c0Nub1Y4ekp0OWl2TjZJdXVxUzBfaVc0a3BOZHhUazlaUUFWWkNfSGVjQlhoMmlkRUFoaEYyMk5nVGUzZWhDN0J3RnhVX2k2U1hPZmNiZVpLQm5FdW15UGJWM2Q4VVdoR25EZ05fYXlIblFUdXFJQkRDNWtLb1Q5QVF2WGFjSHJzMHZYUDN0bFFOZjFVOGVCTmVjeFpJTlZIaUJHMkdOTkVwWQ?oc=5"
-      },
-      {
-        "title": "Joe Biden zabrał głos w sprawie swojej choroby - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbS13RFo4Qy1UWDZPakhzT1BUMDc2LWtPcUM2SVEwS25EbTNmU0xlcHlrSVkzTnR2emlhTFUyS3BuWF9BWGVYRkNpNllOd2x5bkJ2b01ORHpyUC1tdHV6TERMcE9OSExSZ3VIbXhJRmNJWXo4Ti1MTlQ1aGFqemdBajNGM2VDd0J1Z1QycXZZaXA?oc=5"
-      },
-      {
-        "title": "Rosjanie wdzierają się od północy. Ewakuowano 11 wsi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa19RRFI4d0Q0MmRnM3U0UjlCVGpmRXRZT1p3WXhJcDRibUZWREJNTnJJVXhFb1NwOUd0WVFZQzNUY3JGMDlZU054SDhWblp6N21xZTV5NHRFeTJXalVQUUFpV0t4ZjNCUkMzbDlVLVktZFpwa2JoU2VkWDFhVS1VT3l5Mm1tZzZpN2NuZ1RvQWlZU0RDeENpMTlB?oc=5"
-      },
-      {
-        "title": "Katastrofa pociągu pasażerskiego w Rosji. Są zabici i ranni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGJDVnB3WFNQM1JQYVlLOGRyeHEwTUJMbjkxME4zcW9pX3lsSnhGdXZwenlWeWNadkxuNlk1dVF1MllOWFJfTDNMa2dvZmFzeXRWeU9XOWtKV0ZfMGxmalZhOXdWMzRtR05SWDJ6NG5lWU53WHpVQnA1RzdzaU9Lc1NyaVNXTGNoTHVUdkQ0b2FsdGx1V1R6NHB1ZjNfN29TcjltaFVsNmllUEg3WjJINWJyMFRYRVBNeFlFMl93?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 08:19:24",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Karol Nawrocki zwrócił się do Rafała Trzaskowskiego. Mówi o przodkach - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGlzOXpjbzM0aU5UenZEZS1vU3BKQi1HNlFOMmthTWJpeTlEdlpUaVdOZnc5WDA5NEloMTdWMy0wUG16WFB2YXpwLXAyUzZ3MmxFV29EN2VBRGtZSkYyTk5fSXhQRkZKaUVQNGZwUndET1BmMV9XTVU0NFY0LWp6N2dWYUppVXZWWTJocWU0Vnh5S2NnOUU4akVlMDRjbVM2a0RldkVFYWZNblpEODZWb0hIQ0NzQ1hKMUJKWTZR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-03 13:12:34",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7437,
+      "EUR": 4.2721,
+      "GBP": 5.059,
+      "CHF": 4.5718,
+      "JPY": 0.026215,
+      "AUD": 2.4167,
+      "CAD": 2.7266,
+      "CNY": 0.5208
+    },
+    "crypto": {
+      "BITCOIN": 395560,
+      "DOGECOIN": 0.734472,
+      "ETHEREUM": 9818.7,
+      "LITECOIN": 335.12,
+      "RIPPLE": 8.28
+    },
+    "indices": {
+      "^WIG20": 2711.18,
+      "^WIG30": 3510.23,
+      "^WIG": 3510.23,
+      "^NCINDEX": 242.52
+    },
+    "news": [
+      {
+        "title": "Pierwsze posiedzenie rządu po wyborach. Donald Tusk zwrócił się do ministrów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEZ6VkJLSFd0VmY5NHFjMkxqZVB0aGZtdWlvMG5iMmlDVFZCWVItUTZnbzZEWnhVREtyY0tMV1pyVDY5OFgwZ3h6RHAtUFk2c0ZNenlGVVlQWGJGYW40LVdxX1ZLRzF4ZzNiMEFSa3BlZ1YzYmlDWnRQcWVGR19jSVRvRGtTQlJ1UTU2NmxkcENSc2oyTDhfQ1NrZTlqSzRBbk4ycW55bURuVU9vRG52NHlrdEhMck4yd3dleEtjTUhRZ3ZGRkRSQUx4V3FycHZla2ZMQQ?oc=5"
+      },
+      {
+        "title": "Andrzej Duda zaprosił Karola Nawrockiego. Dziś spotkanie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzZmenF3UmhLTmRjc21fU2g4bm5zVnRhTHNNZEYtbW5uSTRfV1AyMmVQUXNtaldjWjJWVlNWSHJuX0RvUVp1QWp1NENxS19BMnF0TElWa0JCY0l0N1NWc09CRkZZTno3SDhNSDc5aENWbVpSa3VDbFFFbC1FdDlCa3gtZmdkUTV5dnp4V09NT1VSR2ZuX25xN0RMYWRyQlM4Y1RHa2lSX055V0JWR1E?oc=5"
+      },
+      {
+        "title": "Mentzen chce spotkać się z Kaczyńskim w sprawie rządu technicznego. \"Omówmy to\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGhBUnVjN2hvcDBWQzRaRUdWRWhHeDlpVGZGV3pRakx0cVRuSC1UTDQ5cm5CRDdoTmRKWGpDZG1lYWNPc05hakdZbGt2QUd0RjFBVDJ5anVjbjRXQ3g0Y2xXTFFGV3ZXRmozOXd3RGdTd2hoVktQY0czSWJya0VJbllVekxOVUV6czZJSmRnMndPVHJwUVNVVVltaEdyWmV6cDVvdGN2T2k3VHZGV19xeHdMaXpuZw?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Dziesięć powodów, dla których przegrał Trzaskowski. To wina Tuska? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzhESVlsMUo1UjRrSUV1MEJ2aG5UeUh6aHp4TU5FRWhIeXNNUTVrdmtLcFRiU2RZY2dfbFhlS1lUVlB5UTBwNnA1TEh5M3U1eEJkWXdaVVVMc1hNcWJiSGE3Qk4zb0V4RlV4NHNZcm1CTFZKYVFPWEd4LVRMQkJKYi1yRjFKVjlPS0Fkdm5wcFhZc2wzUGl1elg5MW1URUc3VnFVSFRPYUg5NzlMY1pRRVA5M2QwZUZGcG5uZnFmczFXR2c?oc=5"
+      },
+      {
+        "title": "Wotum zaufania dla rządu. Padła data głosowania - Gazeta Prawna",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWx4UUN1X3RfeEp0SUpRbXhmd1cxT0lGZXQyYkNUOFRfUzJwaThKaEFaUUxMblVlTFo4bl9BN3d6czg3emNJeUFnbGwzcWoyeEFlZGxMNWdXdHBJdDNVQXVvWGdibFc5cFh3YkQxVmZpY3d0YWpPMWt5S19uQmQtT0FsTGE2SlItNThmd1BmMk5XNU9XZV9fR3VzWml0XzFyTjFVZ0h4cWRnR1dlTUtRVXdtaG9JcG1y?oc=5"
       }
     ]
   }
