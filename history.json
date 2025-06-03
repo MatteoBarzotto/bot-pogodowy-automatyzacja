@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 09:12:54",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 390695,
-      "DOGECOIN": 0.711174,
-      "ETHEREUM": 9416.11,
-      "LITECOIN": 324.83,
-      "RIPPLE": 8.11
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie 2025. O której wyniki exit poll i late poll? Oto najważniejsze informacje i godziny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS3U3aVpJWkxJQk9qYUZGYk9JWlNoMDhoTW83UEZGZkxJUFBHd19kYXl5QVM2UmNWODVzNjBNbDNtQjJ0V3JoZzBMVDNNd19oV1MzOGxNMmlWTUw3bEViWWxxbjJ0cmFtMkZ0Y1RTUWhHQ2tzcE1Eem16NjQ4VWRiV1RILVhCd05FNlptd3hFRDJtcFRYb1F3Z2xEa2RpZWxHaVcyaTZiOElVVUhKb0JEWVo1VmdtaDdEUFFNc3hvOERBSUtmcFBQZC1MSVRMdw?oc=5"
-      },
-      {
-        "title": "Polacy za granicą już głosują. Rekordowa liczba rejestracji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjFKSnVtaGxUY1JYc1g3TVJEOTBZOWxWSE5FSkszaXFqVXlYcGVGeVVwdk5qOVFQeHNvblhCUHlIbGF0Z00wbThWbkNNQTRHWllGMnNmaVczSElFY25hRkpjRndqdndDWXkwdXNHMlJHWVlsMjF4Mm0tV0hySjF1X29IWmNCYjdJckVaRlB4QVZtZzExS2JPWXFvYlE1ZjBXRmhPRGdzd21kTzlzeDhSNmRfUkhDY2VRQVk0VDZkdw?oc=5"
-      },
-      {
-        "title": "Spoty KPRM. \"A to tylko niektóre z naszych działań\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUG5TclFnbzQ5VkFXSGFieUtRMU1CTml3YU84VnBLcldqNkdkWjJYY3RYNzFpdVQ3UVdhb19OV3VwQmlmMnJfZ2lDZWNIaW1qN1dFd1o1aWItcmVna2pzZnppQkgxQmxpalY4V09PY3RzZEtDZVJpdERVenFmNUdtN05wT2htYlZmNEVuYdIBjAFBVV95cUxNbFgyVGNlUHphSllSY0pqNUJwVFZMT3I0cEV6WFFLOURSTmtBVm0tZkIyRWk1QmIzOF9UQnU4LXZfY25nVmtRRU0ybm4zNUtHUHNMcUllS0FKQXdrcGtPY3EtSDFSUXpHRW5UNVg3VUJsZWJFbWE5dUg3M0hWUncyaERyalF3TUFXQ2MwYw?oc=5"
-      },
-      {
-        "title": "Pogoda na weekend. Przez Polskę przejdą burze. Jest ostrzeżenie IMGW - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDBUN1RyQXl1MVhRWGFuOUlzV1pZR2VlR0hqZGxfaVhBWG8xSUZka1FlbWJpWjdoOVdZaXJHWTlyZlk0N0ZGTXRFQ19wYXN4d1Ezd0RYUUo5TWRXYXZacEdmV1lLenczZE9NSkRMeEs1SGptRmxKeGZ0eUEzM2hyRXJBOTdYc3hMT05jUjNaMml2emxSenZuVFhFVTRIdUZzTVJjb2x3MU1KSGRXaHhkdEhXOWRSQzZtS1lfc2dUckdzUEl2RDJIbg?oc=5"
-      },
-      {
-        "title": "Maja Klajda z tytułem Miss World Europe 2025. Kim jest piękna Polka? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEhMRmowM0RDNUxybGJTRUZGdVM2c0Nub1Y4ekp0OWl2TjZJdXVxUzBfaVc0a3BOZHhUazlaUUFWWkNfSGVjQlhoMmlkRUFoaEYyMk5nVGUzZWhDN0J3RnhVX2k2U1hPZmNiZVpLQm5FdW15UGJWM2Q4VVdoR25EZ05fYXlIblFUdXFJQkRDNWtLb1Q5QVF2WGFjSHJzMHZYUDN0bFFOZjFVOGVCTmVjeFpJTlZIaUJHMkdOTkVwWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 10:17:18",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trump reaguje na wynik wyborów. Tak skomentował zwycięstwo Nawrockiego - Fakt",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLW15em5uZm9Cd1MyOHBiU3NTVjk5WjF2OGl4bXNvVzNKMURsS1lVblREUHR2UmlFb2lBemkzZHJVeVE4WmVZbENBUUZtLVFQTnQzZERBMGlkSFRYOHNfbW5EYWtiTEZqRXZuWFJZZG1ZWl9Pbi1SVW5GQ0I3amdvcWRid1JTX2pxby1tMGN3cTR3R3NWbGJr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-03 15:29:07",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7437,
+      "EUR": 4.2721,
+      "GBP": 5.059,
+      "CHF": 4.5718,
+      "JPY": 0.026215,
+      "AUD": 2.4167,
+      "CAD": 2.7266,
+      "CNY": 0.5208
+    },
+    "crypto": {
+      "BITCOIN": 395609,
+      "DOGECOIN": 0.73589,
+      "ETHEREUM": 9839.09,
+      "LITECOIN": 335.15,
+      "RIPPLE": 8.34
+    },
+    "indices": {
+      "^WIG20": 2718.84,
+      "^WIG30": 3520.13,
+      "^WIG": 3520.13,
+      "^NCINDEX": 242.07
+    },
+    "news": [
+      {
+        "title": "Donald Tusk poprosi Sejm o wotum zaufania. Jest ostateczna data - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUsyak81R2dUNjBpdWtmbGhlZ0hQM1c2TjY0cWU4ZVZUQUd6VGJKa0d3Z2N2eE9KN3JhcDJrR1RzMHpDd2lBYzh3NEdPZmprdmlFaHlobUpOem40Um9FVUlRdGZ0YWdtRDBGSE9TcUJka2lmM3RuUGZvekNOclQ1d21SNm5JckQ1Zmx2eFBIcG5WNjl2VkVEWkhzY1N2eDNrOVBocA?oc=5"
+      },
+      {
+        "title": "Andrzej Duda zaprosił Karola Nawrockiego. Dziś spotkanie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzZmenF3UmhLTmRjc21fU2g4bm5zVnRhTHNNZEYtbW5uSTRfV1AyMmVQUXNtaldjWjJWVlNWSHJuX0RvUVp1QWp1NENxS19BMnF0TElWa0JCY0l0N1NWc09CRkZZTno3SDhNSDc5aENWbVpSa3VDbFFFbC1FdDlCa3gtZmdkUTV5dnp4V09NT1VSR2ZuX25xN0RMYWRyQlM4Y1RHa2lSX055V0JWR1E?oc=5"
+      },
+      {
+        "title": "Kreml komentuje wybory w Polsce. Rosja nie spodziewa się zmian - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamF2RlJLb1RuUzZaMzJQV2xRSGx1Q0h0SFphdjRydy1GYVFYYjEzcmY5YVN5OVpReVBJNEJwVVcxWXJmdEJqem9jWF9yM09XU1I2bnp2M1AxUEZOamkwRGFTc0xtXzc2SVd0VkxqcVJVM3RhdlVpTzJJOUxTR2ZYYTA4ZkVYMjVv?oc=5"
+      },
+      {
+        "title": "Donald Trump zabrał głos w sprawie wyborów prezydenckich w Polsce. Co napisał prezydent USA? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSi0zSlNXNFhfVUhoUnRkQTZBS0taeUNESU5KWHNIOE9LS2xZOVZOMy1HLTdoVDE0ZGZOT2VqbjJiWHVjUGhfZ0liWEZQaDNrV2NhT2twMWExR0RwbFhRNlhmMjJnR1NZdVpONkg1cTAyck05eUczUVYzeURjZ1M5Z2F2aXZ4T2VUaXB2Unk3V0tNRDQxN1V0M3RFc3ExSFZBOHJZUllrbnRTb3poT1Vj?oc=5"
+      },
+      {
+        "title": "Kłopoty Grzegorza Brauna. Jest wniosek do Parlamentu Europejskiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWJuRnB4dVE3RFhWNDJCcFowWE5rU1gxVnpCcVQ1ZzV2b1ZqbUF3V09CV0VvSlFyU2RDM3RJNHA2ZmoyT1E2ZURleXFEdlhDeXZOcFAyeEZEZTl6Yi1WOFZFMVgtenNTejNvOUJjN1g1WFlGSUhzbmIwNEZ6RXQxOEJ4dGFkR3VKWVJjSmdDbzM?oc=5"
       }
     ]
   }
