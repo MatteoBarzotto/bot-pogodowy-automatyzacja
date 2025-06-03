@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 00:12:23",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 392920,
-      "DOGECOIN": 0.729901,
-      "ETHEREUM": 9528.28,
-      "LITECOIN": 328.92,
-      "RIPPLE": 8.23
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Mbappe ogłasza po finale Ligi Mistrzów. Słowa poszły w świat - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDJuNVNLWGhWZnl2MnAwN2tBWVZ5NkZkcTlPbUplQTlvdkhTNTViZ094dmdlcWdGY2kyQ2VTNU1hYVN1X2JuZkh3LUlIQjZoWVQ3Wk9keTJ3LW5qOHVKWjJwS0FweHN5WXpJMnJnMG9uQzFSVnYtaGF1SHo5eGxiNHRqd3lJN1VvOGVIQndNRHU5aHRLd05hV3B2SWNoYk1mM0ZQbXNpTXhXWWRNcUE?oc=5"
-      },
-      {
-        "title": "Polacy za granicą już głosują. Rekordowa liczba rejestracji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjFKSnVtaGxUY1JYc1g3TVJEOTBZOWxWSE5FSkszaXFqVXlYcGVGeVVwdk5qOVFQeHNvblhCUHlIbGF0Z00wbThWbkNNQTRHWllGMnNmaVczSElFY25hRkpjRndqdndDWXkwdXNHMlJHWVlsMjF4Mm0tV0hySjF1X29IWmNCYjdJckVaRlB4QVZtZzExS2JPWXFvYlE1ZjBXRmhPRGdzd21kTzlzeDhSNmRfUkhDY2VRQVk0VDZkdw?oc=5"
-      },
-      {
-        "title": "Silne burze nadciągają nad Polskę. Ryzyko trąby powietrznej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2t1UnJkZjJQbVlQbS1WSGRKWnZZeU91ZnRxRGt3bjZ0c1JtcEp0Z0xwVjVzUzZzY2ZtZjBLQkdOZmlVYXc3NGpKejFlVTk1SS1pT2VrYlU2MThsenVSbC1aVG5Ub2tLenlHdjVDQ3JSUi1OZ3ZXME1pS2FsZ2RDeDliTGtLam4zMlczamlnQlliOFRybXY1TGgwZ1liN2VySXBZ?oc=5"
-      },
-      {
-        "title": "Tragiczna śmierć dziennikarza z Kielc w Ukrainie. Nie żyje Krzysztof Gorzelak - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3pNUnVkMFFURTlwQ1B6aHQ2MU42dnpVaVhWYkZ0VVVVSVBxSmNfdEtfWmZaOFBGbW5Xc3I4NVB2RUI0WkFFUU11NzlyS1hUX3ZhT3JET3NZbmtXZGM1UzJ4UGs2QXE1Y2phYlFFUC01RE91VnF3b3BJRkFVZzZiRF94T25Fei1KZFY3c2RZZGt6NDZSWTRpYmROREs3cGJBSnJhb3BScw?oc=5"
-      },
-      {
-        "title": "Północna Korea: czystka w armii po nieudanym wodowaniu okrętu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzBhRVVsNElxd3loWUVkM2JjV0NkMFpuWGFaQi1kRVRabDJqMW5tT3dqU091eVk0TC01elotLXpvWkpQTXZFSC1SVjBUNUF1ZDlSYU9hX2VDSm1WYllYWUg2NUJTcmRUQnpYUFR6YlZVdG82aFlBVjhqdzliSjRvdHdGTU9ic3NHRnZDRDc0Vzd1YWVacmVCYWdHZDMwMmE1Z0FURXJR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 01:12:47",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ruch Tuska i Kaczyńskiego po wyborach. Szybka odpowiedź Konfederacji - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHJGZ2ZSakNjVGRHUDBpSHN5RS10QmR1MGRFNWlWX3RKcHhjMHREOHBtSkdkZUoxRDFpU202UGotTUpSTkYyWWZ5LW1VV0V6SmlsbjNWSW1UbWFfajRhUFNaeTJtMDJ4X2sxWlNEOW5YNDBONEpDMnVLLWMxZmZLelU5a1h4RTlkNkl2MUJWaGdIT3N4Q1Q3TW5DTjNGdnhiakVPUGlYckN6OXl4MTVyS0ppVjhMZV90MFVpQnhkVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-03 08:20:51",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7282,
+      "EUR": 4.2578,
+      "GBP": 5.049,
+      "CHF": 4.5592,
+      "JPY": 0.026084,
+      "AUD": 2.4152,
+      "CAD": 2.7224,
+      "CNY": 0.5212
+    },
+    "crypto": {
+      "BITCOIN": 392894,
+      "DOGECOIN": 0.730073,
+      "ETHEREUM": 9729.66,
+      "LITECOIN": 334.15,
+      "RIPPLE": 8.21
+    },
+    "indices": {
+      "^WIG20": 2755.26,
+      "^WIG30": 3568.03,
+      "^WIG": 3568.03,
+      "^NCINDEX": 243.37
+    },
+    "news": [
+      {
+        "title": "Donald Trump zabrał głos po wyborze Karola Nawrockiego. \"Gratuluję Polsce\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHZsT3dNR3dKWm4wc2RPMG8wamJndTFlWUk0enNkalU2dkEwQ3J5OVIzdUxBdlZZTTdaR2QtT0dCLVhSN1lHNmhCYnVtb29PdUtBQXBvX1VNS0RCWUJrV2lWby1kazE0QS1qcVY4M2hKWEZlRTdUNVVsTVhleXplMWJTMklRQ0k2bTlaSjdFeV80VVZrejUwSm1VSlpaR0JNRW1vc1JnYVhXVVEwbHZ1TW1QRW5salhJenRNdnhTMmNkS0xiUmliN1dUa3dxRUpUbVJFM21B?oc=5"
+      },
+      {
+        "title": "Tu boli Putina. Rosja domaga się przywrócenie tranzytu gazu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN01MTURxREp5NlNlWWR6b2Z6N2tJX3lvWm92Ukc2VmhpTGdnX3ZoOEJZN3pDVjVMckxTVTJQMVlQbzlDcDNBXzJxVVdtcXlLZ2JLVkozekFDdUNqSTQ2WTRWV0ROUnlUUzM2QmlfUnpCZm9YMk1QTXB5YnFmcXk4M2l6OXNHQjJuLUhDakc5bXJhUURSX0dfLU9CQ01LNnNBTzNtRXJBbFBHUllSeHFHTWlXOA?oc=5"
+      },
+      {
+        "title": "\"To jest czerwona kartka dla tego rządu\". Jarosław Kaczyński proponuje utworzenie rządu technicznego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnV4SmNlTUFKTFJwMjRkMXBMaEdKRF9Jd2ZtOUxBMmgxY2ZFTEp0cDBNakNkSEhmRUpoazVDV2ZPc2l1enBjUW16MHdlM19zVGtaZDQ0NXU3MG1yVnBWNy1ucDdyeTYyXzZNNmZFQkM5WV9tTFY0ZGJ2TGZFendjSlliNVRuSWV3RTMwY1RVLXQxcEVLVGRpVEdfbUItbUd4SW5PRHlYZ1hLSXpmZ0ZRalVtMV83NDJvM0NhbVhaRDlmdnE5a0U0Qg?oc=5"
+      },
+      {
+        "title": "Ojciec Andrzeja Dudy komentuje wyniki wyborów. Mocne słowa pod adresem Tuska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmc2QllMMXJkbjNIeEtoLWljRU13aDVVZTRONWJLVWY4X09MWUhpYTgtSl9VVEtkcTdQQWlyOE14aE4ybTZYQmEyWHc0dGZXM0tQWjJTUDZVQTFlMUlUX0xHd2dIV2w1MmtEUXFyTmZVMy1FcDZ2cDhnTEl1bHNIOVB5TTVEUEQtMkhHeUFYMDJuMFpYdGV6OVJTeFpWSjdUdlZKVXdDRjBaSEVyV3J0MXBacU90Z0t0VEE?oc=5"
+      },
+      {
+        "title": "Donald Tusk przemówił po wyborach prezydenckich. Ma \"plan awaryjny\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDVwMkZzSWZLWG5SVHp4OW8yNnRCQWRuUFhJT0JDQXB6WWM4SkZPTjNrZUxvaER2a0gxNWdPNExiUGNueU1VRjhuRlZJZjFQdnhFWlhtdE9OWTdwSEIzVTNFN3NQT29LdGg1eHU3WmtPdXc2dmRaNHE3TmlZdDhTYzVQcXZ1ZmExQ2VQczloNFVTRVc1bnhkeTNHUjJHX091aUo0LQ?oc=5"
       }
     ]
   }
