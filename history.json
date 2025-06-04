@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-02 10:20:20",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 393904,
-      "DOGECOIN": 0.717599,
-      "ETHEREUM": 9369.41,
-      "LITECOIN": 333.84,
-      "RIPPLE": 8.11
-    },
-    "indices": {
-      "^WIG20": 2744.31,
-      "^WIG30": 3555.71,
-      "^WIG": 3555.71,
-      "^NCINDEX": 244.73
-    },
-    "news": [
-      {
-        "title": "Co dalej z rządem Donalda Tuska? \"Polska zaczyna się od początku\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMUpiazNnUVB2aTFXY3BhWTdOZjM5ajMyMHVwU0xxSTV1VDRYWE0zS3FSdjZNZlFRVFFKbEdKbzQ4STF4R3VGU1FUeGJ1NkJHMDFIMVZVa1hOTXJwUG9Va25ndmd5WlNZWVJncG56bjB5bkFxbnB1cTRKZmVCQ3lUQTY2QzBFdFYyTUFvajVvTmJ3YV9LS2dZdkFYZGVKZFY3VmF6Q0VSSEpET043VEdfX2JrTDVtei1oNUc3YkRnMGRMdk5GUERoVWZrbHoyUFVSSVBOMTlGU2s?oc=5"
-      },
-      {
-        "title": "Jacek Nizinkiewicz: Przeciwników prezydenta Karola Nawrockiego nie można wypisać z polskości - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3RGdmhqLVc4eVJhajY0X1BiVEJTWThsekEzQWt5YnM2SUN4MDUtd1ZrMW5uUGdUdXlsUm5McWVRblgyc20wbnJtSDM4aTZCbGZRajZBYWxoNXJnd0pLaHpZR1hhbENiVEE1T01XMHotSGhxSGluUDFvbVR0V09BaXVmWUhxenJvci1qWHA3bkRyWE9ybUh3Y3R6OG5qdkpReDZ3dXZpMHZmM05Tcll5c3lubFZDZTl1NWJteGNUMXVfT21rX0N3cUsweWs?oc=5"
-      },
-      {
-        "title": "Trzaskowski wygrał za granicą. Wyjątek w czterech krajach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYks1anZBeHVLOUg1dWpKSDdSUU5BVmRiamdBU2I3YXNua0piT0FqLWp6UmJkTExCU0k3R2dwUE5PZUdXNjNCWUszU1g5XzFiTTdLdFhsYlZ1ckxsZWJWSU9NUWgwYXpmU1hjSFlQcS1wN3o4QWtzVndXQVVOd0g0MG9yNFZ6RVU3Z2NyblpzMGUtUlBfZDNiQXUwWVVFSkd2?oc=5"
-      },
-      {
-        "title": "Dlatego głosowali na Nawrockiego. Kwaśniewski mówi wprost - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelBLSTg4cnBFQktFT0IwSW42aHZ0bXhqblZFUWNPdFV1bV9ydGNPUzJieDA0Yll1clZtek1rakZvVUVPem1vNmRNRnVuR3YxNG94Q3pibE5ZLXlLdms2bHZKby14ckh0eGJzTFFYMlBxalRPZV80Yk1vWmNiQTlDTmxTaUxPcFNjc0ZfSjdMSWpPUkkwMVJTd1FiRmpKcFBZeTFIaVln?oc=5"
-      },
-      {
-        "title": "Nowy ambasador USA w Polsce zabiera głos po wyborach. Jego słowa wywołują poruszenie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnBYcG5lWUpjbzdUOHJaejMxUmNkN0RkNlNiamF3cnM1Yk5Dc3ZhdndGT19wczJ5LUo2N1hEN1diREktTmJVRGRQZy0yU1cwb1dWaWNfeHVpeF9fbWNoZjdScUxZOUo2WHJab0lIX0tobFNMY2RwdHJzNjJrbzdZcVlXNnk5eklBSFpncnhqbk5MaV9R?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-02 11:16:07",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zwiększyła ryzyko\". USA o brawurowej operacji Ukrainy - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWxKWEh4RGxmWDR6SU1UNF9wcUhXTWxrRUg1aTZjbHphbUV4V0E1bGJpaXVRc1lpbEt2Vkk3aXRCTkFzUkt3V1hWSmx2UTBIWkJiQWRtQWZtektNRjlSaVBMZHNuaFJObDRMSWU5bkJ1ZnFnb05ZQTF1N19WQ3pYSk5rQ3JhNFR1T1RiejVJZTJjekI0VXJ1YVRQVlVzU25rQnRRWHZmY2NrTEZPalE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-04 16:11:52",
+    "weather": {
+      "Warsaw": "Warsaw: +27°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.7525,
+      "EUR": 4.2778,
+      "GBP": 5.0808,
+      "CHF": 4.564,
+      "JPY": 0.026079,
+      "AUD": 2.4297,
+      "CAD": 2.7375,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 392150,
+      "DOGECOIN": 0.719723,
+      "ETHEREUM": 9783.66,
+      "LITECOIN": 336.39,
+      "RIPPLE": 8.39
+    },
+    "indices": {
+      "^WIG20": 2764.74,
+      "^WIG30": 3579.36,
+      "^WIG": 3579.36,
+      "^NCINDEX": 238.71
+    },
+    "news": [
+      {
+        "title": "Jest decyzja o stopach procentowych. Tak RPP reaguje na spadek inflacji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWtfVGp1NFNNUWN6WlRuZ09oNlV4NmQzUVJtNExkQnRuSjRvdXZ3N1RxLWFsa0E1V3ExUDZaem5lQ0N5ZXlFMU5JeE5teC1LWHY1LWdrR2JfMjVyZ1BITl92SHJ4NW9BY1VCNDhxVDVKTGdiX0w3Ni1scWp2MGhWMno5N0cwcHNrYUpuVXNseFlYcUc2MlU0Y1NTRHJ5VGxkWkZB?oc=5"
+      },
+      {
+        "title": "Pomysł rządu technicznego do kosza. Kaczyński dostał \"czarną polewkę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkRUQXUzLWNsT3g5dUNpa1V6c2wwRFluY3BqTEJJdWtaVFFBR090UmdzM3hDaUxTNzYtcmFoZzI2c2tiQzh3ZlhWUGJHcEQwT0RieHZFbGUzcUMwNTNINmtobXc5bTB0NjZmeDVUUy01NlpqR2hVdUV1VFlqZXdvZ29aV0NiLTg2aWQ2V0p2VTRXaWlRM3kzejhaMEtYck5ReW1CTHFTMWtmMVJyemc?oc=5"
+      },
+      {
+        "title": "Donald Tusk nie chce mieć rzecznika rządu? Nieoficjalne doniesienia - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFkQlhoSl8zNXlJQTdzMm9HcHJVcU9UVzd5YXl6YTA0MDB0OEtiWS1Lal81WTIyV0k1OWlNZU93OWM5T3FJZGtqZGNwQlhwQ29GTi1DZm5rbGZ6QXJuY1lpLUJDVlpINDJSV3FudWZwaVNWMFE2THZRajRSa0xUcUtBR3loanNPRnJFMHF5SmpEb0NkcGdVejQ5SVJTeGtL?oc=5"
+      },
+      {
+        "title": "Wielkie przeprogramowanie Rosjan. Za wszystkim stoi Putin. Ukraińcy w spektakularny sposób obnażyli strategię Kremla [OPINIA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXNUU0VHQ01pY1JncVNkNmtOSVRxRUppUkRXQ2dOZHVyN0ZHYldxZzZPSmxjdEdlRHBBcFpCZ01NNWxMbDBtZkdkekJ1V3hTbEV1Mlp2Z1VwVHFqT1pZcnhtSG13TWRMZVdlX2x5SHVtT1RvMHdDa2RwQUY2UzFEbGVMOVVGX2gwMFE1OGNDbjQydjQwLTdkR2prZmtkZ1BzbkRZZzZJN2UwRDhacXd1and3Y3hwZw?oc=5"
+      },
+      {
+        "title": "MSZ reaguje na tekst izraelskiej gazety o Karolu Nawrockim - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1FpM3ZwbTFubFZoUXV4eHJJV2tnd296WlZZd2xSOEVrZzRCeXI0TVp0YllBYTB2YjlYZVNmZTNPNS0tOFVXUHQyWFVVVGR2bDVyb0c1TmgxQjItY25YdGlkTVRzNWUwY0xCRVdJQlN3QjROb2Q4YUlvRW5zeThrdkV5U3BJdmI0NElhZmcyRmhSSFVMZUE?oc=5"
       }
     ]
   }
