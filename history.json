@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-02 18:18:04",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7282,
-      "EUR": 4.2578,
-      "GBP": 5.049,
-      "CHF": 4.5592,
-      "JPY": 0.026084,
-      "AUD": 2.4152,
-      "CAD": 2.7224,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 388307,
-      "DOGECOIN": 0.71302,
-      "ETHEREUM": 9458.97,
-      "LITECOIN": 328.61,
-      "RIPPLE": 8.03
-    },
-    "indices": {
-      "^WIG20": 2755.26,
-      "^WIG30": 3568.03,
-      "^WIG": 3568.03,
-      "^NCINDEX": 243.37
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie 2025. Mocne wystąpienie Hołowni. Uderza w Tuska [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlVLTDdwcUt4VFNTSElFOHNrMFRGUXZMemxBRERuSTktOGFPTHdlMFJFQWpreGc5MXdKTzBIbkJKVjdJMDlCR2JNT1ppUExEeEYtaU8zTG5vVDM5cVhDaTNlLXFvcnE5WWlhd2MxMWd5cWhEa1FZSlZzX3ZTUkZyZmhscTliWTJmTk56bDFTeGhadE5zVzdweGpwYThCai1hVVFXc2h0T3FrN2Jyb1pNQVVmMThpeVc4RnhhcWdHTlhVcl9qRDl5TDRmLXdYYVkwNGNSRWxLa1dHMzQ?oc=5"
-      },
-      {
-        "title": "Wyniki wyborów 2025. Jak głosowano w Rosji, Chinach, na Białorusi i w reszcie świata? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX1BPa0xlbXhnZVhYR0RzWjZGbWxEVE9qNGN1aGJ4MWJrZjRlb1VYY0FiYjBIdFFCOXhQbm9TOTdLcDNhc1hQR0N6aERhQVlSNWtmS3FFYjlzNlhWU3pTLVIyb3dha0c5NTBFMm9pUG0xLVhVLVhPeU5TdTl2M2ZLS2tlZkxYQmNrSGJ4OFEzaXo4bkdxdVRaWWVMSlhqaEd1V0FwQ2c2TVpFYnRMdEF0OHhLeDNiYjBaOFljX2dzSzF5VW5LQ2MzLWFfMXV3Zk8x?oc=5"
-      },
-      {
-        "title": "Znamy treść ukraińskiej propozycji pokojowej: rozejm warunkiem dalszych rozmów - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZnQta1NUeEE5Y0ZNNkRBRUZva2ZEc2ZKZDc3ejF0RE1qc3h4OG96WGkwU2stLW5DRVhvd1A1dnJhTzJIbzNKZ01DcXlrVzFDTnlhaGIxQjBNVlhpMTJMZHBEbjZNMXhVdXdieFV3aUMzcXJYNFp2NmRkb25vbDhKUmR1ZnBFZzNLNUlLclBMbzRZVXR6bG9yM0c5Q0Vrcnk3UnhjVERURTdOOVZpWFFpYmNOLTRZUnltNTdxYnh5ai0wbzMyeTRLYXltSUhSWnZTZWE2U3h3TTFNOVk?oc=5"
-      },
-      {
-        "title": "Jaką pierwszą damą będzie Marta Nawrocka? \"Chciałabym być blisko ludzi\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmZwdlZQQU1hNGN4TVVScXl0QnUtUFNhSkhhTzJoRjQ3QTAxNXN1bi1wTFhtR3JEYkhsNV8zVDQ0aUFQWXdvaGNTaS1xT0JuLVhaWC1oa01MUmtCNWJDZjJaM3M4WE56Z0dQbUNNdHBDQzlrbUNFTFlLTEY5Y05Bc3VGY21IWU1ZNGkzd0lOckhJYkVYSXNNbEYtQnNRaHpfMFdRdmgtOWlUeU9ZcW80dkxOdUlCUWhpTndnYmMtdVVPd2RoanZj?oc=5"
-      },
-      {
-        "title": "Ojciec Andrzeja Dudy komentuje wyniki wyborów. Mocne słowa pod adresem Tuska - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmc2QllMMXJkbjNIeEtoLWljRU13aDVVZTRONWJLVWY4X09MWUhpYTgtSl9VVEtkcTdQQWlyOE14aE4ybTZYQmEyWHc0dGZXM0tQWjJTUDZVQTFlMUlUX0xHd2dIV2w1MmtEUXFyTmZVMy1FcDZ2cDhnTEl1bHNIOVB5TTVEUEQtMkhHeUFYMDJuMFpYdGV6OVJTeFpWSjdUdlZKVXdDRjBaSEVyV3J0MXBacU90Z0t0VEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-02 19:13:19",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Po co minister od powodzi sprzed roku?\". Hołownia o rekonstrukcji rządu - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmhIUmNnVUtRQURhaDh1NlduYURudHdyMEkwTXQzZHJoaDNmQTJxVENlZVVtSGpIdVU5QVdpWE8xSl9IXzdSNWlPM1ZmMGViOVd2TEdjeXNfbENzeUZMeUNIMVMzbVNpbURZREQwa0xKRGdWdGZFVWh1Qkh4My16Ui1WOEhHZlpHRm1CamEtcG9vTk84NElha1FDYUsyM2lE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-05 00:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7525,
+      "EUR": 4.2778,
+      "GBP": 5.0808,
+      "CHF": 4.564,
+      "JPY": 0.026079,
+      "AUD": 2.4297,
+      "CAD": 2.7375,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 393097,
+      "DOGECOIN": 0.709642,
+      "ETHEREUM": 9799.74,
+      "LITECOIN": 330.91,
+      "RIPPLE": 8.29
+    },
+    "indices": {
+      "^WIG20": 2769.33,
+      "^WIG30": 3585.74,
+      "^WIG": 3585.74,
+      "^NCINDEX": 239.45
+    },
+    "news": [
+      {
+        "title": "Mentzen odpowiada na plan Tuska. Nie zostawił na nim suchej nitki - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWRIZkZYMWFiT1VxemNCbmJxVTlpRlhGLTAwcDlram9rTXNEekw1eXhkMEI5R1dfNEtjLTdJaFdaMGVkcVU5RG92dEVJVjhoVkl4Z3A1T3VsOUNVUU1GQ2NQd25PQ3dFX1JZSTl3b2pvaG1mWF9vY2w2M09EV1hsQ2FpQnozSlg0b0dtLXBnc2ZuUXFOdXEyNVl2cjFQalZFZEtGcFZzOUR2UTQ?oc=5"
+      },
+      {
+        "title": "Alert RCB dla części Polski. Burze i przerwy w dostawie prądu - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWRrajktdjFUTW1oaVRvbWFhTWZUTExvUTdxYmJ2c1FqTm5NM3kySkpLZndqLXVvcUJTaTZQSDQxNFNsU25kZy0xQnJBQmFnMWNaRDAxZW1OTEtsLXZ6X1B5cXR6cGMwc29yTV9nV1ZQQ19mSmNrRDFxMEdxdVZxSG5Tb2Ffalpxekxlem1xSlVaeVh2bDhKUWVkRmVTZ9IBnAFBVV95cUxQTDRRU1RHRnN4azZLd0xPWUlOQk1lZk1rZ0Z6QXpZOGk1ZS1oeWs2U1FNMlA2Ri1JTm1mOFFlZGo4NGNNamFNTHBSbnpsSWkzSmkzSy1JQkdhTk9OX3NhNkNpQ29TSEdxQ1diZ1dFOFpTZUNIeFJ2cWRfWWRFZ0c1ZllvdEF4UG5meTNvTzNiREt1TDBIMTZYRXJqQWE?oc=5"
+      },
+      {
+        "title": "Burza z gradem: zalany sklep, ośrodek zdrowia i zerwana linia wysokiego napięcia - istotne.pl",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wTllMSG5qajdGaXg2T25XeWw5WlF2ZTd4cVR5U0tWdFZrenF0WmxrTmh0bnBmNWJYNUlkX0RNQlVWSktudVcyYnRXeVJuQXFpWnNKRTdKdw?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia o rekonstrukcji rządu. \"Do roboty\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHdWQXRqd2p5S2MzaHExUDFIeVdrcUNFc0NneWdFTVMwYUptUEFqQW96U1JOQy13NGFHTnhFTUlJaXExZEFkcDU1aG1TUUF3b1JqTXYtR1dUbklRY21QcGJGMkRna0RudFdLSXlFSk9yWDI4WmxPbjZSS2FPNVNYRHh2M0tIUElBMHN4aUZzTHo1dzRJclpxWUtR?oc=5"
+      },
+      {
+        "title": "Ukraińcy uderzyli w czuły punkt. Rosja rozpoczyna zemstę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFlKREtzOHFhcXphRG92R2YwaGJSU05ReDBZYzBKN1I5ZnkxTFhaUERCVkZhRUdCYmtPYmZtdWFqQnQzWE9VZG1PU0I1TUl5ZlpPdkdIOWFCQWtldEl1R1UxeDFNQjRieGV2akZEX3JXdm1OYTFyS2FIdlV1MGw3NXVXZGRpMDB6S0pxaXR3X1NRV2JwX3R2cDRGeHhMaGVDWERqbUtGLUdUdXVvSXU4dDY0b0lKZ2NjZGc?oc=5"
       }
     ]
   }
