@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-01 21:10:38",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +25°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.7537,
-      "EUR": 4.2507,
-      "GBP": 5.0552,
-      "CHF": 4.5555,
-      "JPY": 0.026056,
-      "AUD": 2.4079,
-      "CAD": 2.7167,
-      "CNY": 0.5216
-    },
-    "crypto": {
-      "BITCOIN": 392792,
-      "DOGECOIN": 0.714517,
-      "ETHEREUM": 9435.34,
-      "LITECOIN": 327.86,
-      "RIPPLE": 8.08
-    },
-    "indices": {
-      "^WIG20": 2771.86,
-      "^WIG30": 3581.42,
-      "^WIG": 3581.42,
-      "^NCINDEX": 245.25
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie 2025. Będzie wieczorna mobilizacja? Oto frekwencja na godz. 17 - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1fWlVJNXF6RVYyZXB1dWVvbmVWdlo3YnJEWHFyUWQ3T3E0Y2doTWRvRjlCS3Y0dy1tTEhZMTRGbFNidHFxYjk1OFM0SzhMOUZrd0VST240cUdKOFlwaVNxdXlXV09tS243b054bmJxN2FtS3lyZVBPQTZhaVRGa3BKYlpLM09fNlY4SGRkQlB1Q2QxYXZ1a1dGQXRZRVREc3ZUSndsQmlPWGpEOUhLNl9NTWo?oc=5"
-      },
-      {
-        "title": "Ukraińskie drony zniszczyły rosyjskie bombowce? - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFN3TXYyeGNnUFpJMDZ4cFg1eS1udzRtdHNHRVNhZmRsdUFfQ2l3RHJKXzJqRFRSVHk4VlUwbmRkNXNQLVpNdnlObU1EamswVFFQSmZ5VlVBWDcxdW93ZnlnZEREazZleXZsVFF0NHR5X0pWMUxmajFaZTdNdWlWVFlnMGd2N3RoS0JINjlvOGE2VkV1Z25jMjlmcU9CbW5YY3d4QXRQamtwM1hQd25CQnhn?oc=5"
-      },
-      {
-        "title": "Koniec głosowania. Polacy w USA już zdecydowali - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEh1X2FWWTJmYnc5TEREQVV0SU5PUDN1UGdUSkpEQ2RlUWtnMmlqUkZXWjJJTFNGeXI5YVFfdGk0Zzk0YTJ6S0NsUWEtcGZxX3BDdUFtcFV4dWhFTkxiU3JKWXJWMVF1YTdPS1dmQ2VfcEFyOHJPbk9fczcxZDBYaERVcHdyNlJBSjBCX19CbHMydw?oc=5"
-      },
-      {
-        "title": "Burze i grad nad całą Polską. Jest alert IMGW - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXlhX1dxM2tHS2plU0hMaUZVaUF0S1FxM29yUkVUM2IxMnBGMzdLa0tGX2hWMGRpN1N0RGF4MjNKb05zOVp4LXg2ampTaE9YMzFpRUxwanZzcjlTNERqSnJlTENYOVRmZTZwdGtKWTMzdGozMkdkNTY3bG1ZVFV5OWNhQ05PMTA3ZjBJeXFHM3BUajhKX1dwT3NKaVhGd1VYSEp0MmJTS1h4Z1k?oc=5"
-      },
-      {
-        "title": "PKW interweniuje w sprawie korali w lokalu wyborczym. Doszło do złamania ciszy wyborczej? - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkxyUHNGMWRkOEgxUVFlRi1lRDFPNHozNEFVbFA1WGlTbFB2SmxUamswa0xEdmFkbmpKTUpaQ2ZVSmpBZjNiU1dWRk5oZ3hqNVhsb0RCdGc0QUhHREZGMFM3ejBHQ2xfanhYUEo4LW9Pdkx5ekFwazhrRF9KcHFDTnVKbklwSjdZZXhoNmlEZFNzR0VtYTM3Y2d2Tng?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-01 22:14:23",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Byli wysocy rangą funkcjonariusze CBA zatrzymani. Komunikat prokuratury - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVBxZzViU3BGNnpZRWs5WW1ZRVFuSXc0eVB2d0dfd2FHOFc0QzR6d1Y4bU9HeWlwWC1XalBhOW0zUnZsZUQyeHd1c3RhX0hialI4YVUweXFmTjdhSGFMaGlQUDFHNGFZcGszbzdaUlA0TzFxUkIwa2NwT3dxbjY5bEFJOHpQa2gwRHNUUmdObnVjaERJZVRxT3ZZMVhGSW9PNzhndHVaZ2Q1UmZFaXVaSnQ0LWZ4ZnprMnpYaWdzSUJORHVoWm9jcw?oc=5"
+      },
+      {
+        "title": "Ukraińskie uderzenia w rosyjskie lotniska. \"Zniszczyli niezastąpione samoloty\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmRzN0lYRHl2VFdYY0NBdUVNc25sVVRTWk4yelA2NGtCTGVyNDk5OGlpRnZVNW9vN3oxM0RITUltZmVGUThzTmFVSjMxVGtyRjZQcnZ3LXJFdDJuYmlNaDVlMmhBN3l6U0FwZkU3dzBzZzlXUGJpNWFfZnk1MkRmb2ZVN2ptRE1TNGtqUUlkcS1valNHZTBZdUIxUXdMYU9BaWJYY0xodU5wZ01WZFVkMlNWSFNwMGFGcXg4Y0hBYjM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-04 05:12:27",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7437,
+      "EUR": 4.2721,
+      "GBP": 5.059,
+      "CHF": 4.5718,
+      "JPY": 0.026215,
+      "AUD": 2.4167,
+      "CAD": 2.7266,
+      "CNY": 0.5208
+    },
+    "crypto": {
+      "BITCOIN": 396820,
+      "DOGECOIN": 0.733791,
+      "ETHEREUM": 9833.39,
+      "LITECOIN": 338.93,
+      "RIPPLE": 8.46
+    },
+    "indices": {
+      "^WIG20": 2731.3,
+      "^WIG30": 3534.9,
+      "^WIG": 3534.9,
+      "^NCINDEX": 241.0
+    },
+    "news": [
+      {
+        "title": "Biały Dom zadowolony z wyników wyborów w Polsce. \"Wspaniały sojusznik\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdTVlSFBIVF9wbFJ5dFNIUy12R2t3aDlvOTRLVEJhSXVuZzBlaFl3c29YRGx4Q2NzUURqdlg3YVZ3SWw1eGQwMHdVZVJpbE80SDF6MC1KNnJtOEFRNDB4NHBMY3RLcG9HcWVmeGJobXEtdnY1N1BILUFad0Q1MkNhWDdsaFotLXRPU0d4c1BKUmkySzV4aTk4Y0wtNlVWQk1wMnBTVVJtY2FOdmltNG9ZMHJMNER1eWpr?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki dziękuje Andrzejowi Dudzie. Zamieścił zdjęcie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2dZWGtSc2ZWdzFIbVpuZk03WHFySWpjblFCckU3cXpIa0h6d2lmeDdhSnZoWlVZbnY5OWdVSlJ6M2dFQncyWTNKVGhlZzNGelVYMXRFS192enoxOGpLazZ2UDgyMG1ldzdScy0tdllGSDFtVmFtcm4tRk1zY3NqWENCNzltZU1QT0NBWFE5cURaWktYTjBUWHR0UFVzd0JDWFdSOHAxRzZrcGNxMFBSNVZqUjFEQlducXYtTHloUQ?oc=5"
+      },
+      {
+        "title": "\"Wiszą na nim dwie wielkie przegrane\". PO spisała Trzaskowskiego na straty? - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ21PMGdveHZhaUdkZXJWcVB2b1VSLU9OcV91UzRCLUptQkF3ZmlFamZEeUxYakhDREhKQ2JvTjJXVXBHU3NydWR3eng3bV93Rk9oWEpLaXZaeXZJQzNWdzF5WVV1cTlub20zdFgzaER5b2ItX3NiNFlGcVJua0twVXZ0R1hCOEhyd2VCUFg0ZkY5anBqUHhkVVpyOTF3aDJGTmdfejBqYUtlWG5IenlRQW13anFJckl5N3RQTk84V2QtVjlOLXFZ?oc=5"
+      },
+      {
+        "title": "Tusk podjął decyzję: chce wotum zaufania. Petru odpowiada - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXR6MzMzNW5QNXhsa1VIUzJWNkoyQnNPWkloVVdScUxBUXotWnZfVVhWTU43WjBQV0NBLXlPbWNnNWwxd0hYR0d5T2ptZEpoMEJKdUw3dXA1SmhXbU93WU84Y1FidFJCUmZiMzVFSzBHa3RFZXNFOGFTMnVleC1QaTZMcE5uNDZlNGFKS0MwaEdhcU13RDVTODE0MEdhUGtWZWdpWVlzQjJNS0JCY2Jv?oc=5"
       },
       {
         "title": "Ukraińskie uderzenia w rosyjskie lotniska. \"Zniszczyli niezastąpione samoloty\" - PolsatNews.pl",
