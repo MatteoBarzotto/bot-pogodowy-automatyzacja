@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-02 15:28:01",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7282,
-      "EUR": 4.2578,
-      "GBP": 5.049,
-      "CHF": 4.5592,
-      "JPY": 0.026084,
-      "AUD": 2.4152,
-      "CAD": 2.7224,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 388145,
-      "DOGECOIN": 0.707577,
-      "ETHEREUM": 9303.42,
-      "LITECOIN": 329.14,
-      "RIPPLE": 8.0
-    },
-    "indices": {
-      "^WIG20": 2746.19,
-      "^WIG30": 3557.49,
-      "^WIG": 3557.49,
-      "^NCINDEX": 243.15
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie 2025. Mocne wystąpienie Hołowni. Uderza w Tuska [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQlVLTDdwcUt4VFNTSElFOHNrMFRGUXZMemxBRERuSTktOGFPTHdlMFJFQWpreGc5MXdKTzBIbkJKVjdJMDlCR2JNT1ppUExEeEYtaU8zTG5vVDM5cVhDaTNlLXFvcnE5WWlhd2MxMWd5cWhEa1FZSlZzX3ZTUkZyZmhscTliWTJmTk56bDFTeGhadE5zVzdweGpwYThCai1hVVFXc2h0T3FrN2Jyb1pNQVVmMThpeVc4RnhhcWdHTlhVcl9qRDl5TDRmLXdYYVkwNGNSRWxLa1dHMzQ?oc=5"
-      },
-      {
-        "title": "Hołownia chce renegocjacji umowy i wskazuje winnych porażki Trzaskowskiego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnJwaEdKcTFSOE9hYm90NlhzWDkwR0ItMG9SYTNDNi1BdUdXdFZrZUxhMkx6eVRLcGE2czNlVFNHbEwxMVpNelR5ZmtaaGQ5X0RsRUpnYWI5UUlSN2RKV1dmYklzRWJzQnZMLTUyVHQzOWo5ejRHSWxYamtPZ1Bnay1WcU9SVkwxZXp4WnIwaXRidVBVSUR2dE41WUhXZlVfekhFbWplSEthUQ?oc=5"
-      },
-      {
-        "title": "Tercet w \"bunkrze\" i wiadro whisky z lodem. Noc w sztabie Karola Nawrockiego - Interia",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV09WS2stekFPZ0Y4RVpWaExjM0tmUFlhN09RNWZwWFlILWVqMUtINjcwTmNoaU9aS013MWFBTjlCaldGZGhwMjU0dUtKdGxCVkM5M3JDbER2aVVfRnNXc19kQ2p5aklxRFhWTWQxeGdkMUNLU0IxYjNLLXVrN0h2bXVyQnFTeGdPdGN3R2NOT2N3R3NJUVhidmFjX2NQUy1NTi1xR2J6Q1p6cDZKeXFfU2NNMUgwR1VkMmJLbjlPOXhPZlE5aEFB?oc=5"
-      },
-      {
-        "title": "Daria Chibner: Donald Tusk i Rafał Trzaskowski nie rozumieją Polaków - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXFDSlJYcW1xN1pURzdUYTl6d3JWcGc4U2pCSWhJQ0hlLUFVMHdrOHEzSGY4VUVaWFZleXdxQk1ib2twMjhXTDg1eDc2b0twQUNNRllpSE1tcHVmVm14aXdrSXBVRmFWQWJuSXZxVWNjdEtzSmE2QnFlUW14VVZFeUxiR2N2OTNhWnhyYnI1RkRSSDJDT3Z1TFZsb2l1WHdRaUxXU0kzaThON1pG?oc=5"
-      },
-      {
-        "title": "Syn Nawrockiego trafi do KPRP? \"Nie nazwałbym tego nepotyzmem\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHJrZ2hhOHZ5LVk4THNCcUNqQ3dYN0FZeDViMEE5eENZZV9fY0l6Mm1yNGM5QUczQVdZTTB1b2p1S0RjYXJaQ1F4c016NVZBNW1nTUJsLTlTSGpnMXg0OEJpWW5ZbGVQanQ1Y0xadjJKZUQzTzNoc25vQ012OGVPbTlIQTNqVWVwOGtzb0R3Nk5BNHlWc25UNXAwYkJ3alhkT21ISHlkakMwcHB10gGrAUFVX3lxTE5YaGxXNTBxQVlsMG82TnJoRHdDM01SankxR21vQ2RuUnJYcGpfN1RqV0RyTlJoYUs5ZHN6MDEydmk5Zlc4UE50azg5akQtSlZlSUhqeXBlSkhOTmtDWnFQWG1PdjdDekticU5ZbjIwbXZ6eERaRkRINFpXWGJ0S0VGRHROOVVtWEhHMmFvYURjY1lKQUhJYVlMWVdFOEw5NGVfUGROakxubEFYVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-02 16:14:26",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Sprzeczne z planami Trumpa\". USA o brawurowej operacji Ukrainy - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWxKWEh4RGxmWDR6SU1UNF9wcUhXTWxrRUg1aTZjbHphbUV4V0E1bGJpaXVRc1lpbEt2Vkk3aXRCTkFzUkt3V1hWSmx2UTBIWkJiQWRtQWZtektNRjlSaVBMZHNuaFJObDRMSWU5bkJ1ZnFnb05ZQTF1N19WQ3pYSk5rQ3JhNFR1T1RiejVJZTJjekI0VXJ1YVRQVlVzU25rQnRRWHZmY2NrTEZPalE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-04 21:11:36",
+    "weather": {
+      "Warsaw": "Warsaw: +27°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7525,
+      "EUR": 4.2778,
+      "GBP": 5.0808,
+      "CHF": 4.564,
+      "JPY": 0.026079,
+      "AUD": 2.4297,
+      "CAD": 2.7375,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 393608,
+      "DOGECOIN": 0.714878,
+      "ETHEREUM": 9865.32,
+      "LITECOIN": 334.59,
+      "RIPPLE": 8.34
+    },
+    "indices": {
+      "^WIG20": 2769.33,
+      "^WIG30": 3585.74,
+      "^WIG": 3585.74,
+      "^NCINDEX": 239.45
+    },
+    "news": [
+      {
+        "title": "Mentzen odpowiada na plan Tuska. Nie zostawił na nim suchej nitki - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWRIZkZYMWFiT1VxemNCbmJxVTlpRlhGLTAwcDlram9rTXNEekw1eXhkMEI5R1dfNEtjLTdJaFdaMGVkcVU5RG92dEVJVjhoVkl4Z3A1T3VsOUNVUU1GQ2NQd25PQ3dFX1JZSTl3b2pvaG1mWF9vY2w2M09EV1hsQ2FpQnozSlg0b0dtLXBnc2ZuUXFOdXEyNVl2cjFQalZFZEtGcFZzOUR2UTQ?oc=5"
+      },
+      {
+        "title": "Alert RCB dla części Polski. Burze i przerwy w dostawie prądu - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWRrajktdjFUTW1oaVRvbWFhTWZUTExvUTdxYmJ2c1FqTm5NM3kySkpLZndqLXVvcUJTaTZQSDQxNFNsU25kZy0xQnJBQmFnMWNaRDAxZW1OTEtsLXZ6X1B5cXR6cGMwc29yTV9nV1ZQQ19mSmNrRDFxMEdxdVZxSG5Tb2Ffalpxekxlem1xSlVaeVh2bDhKUWVkRmVTZ9IBnAFBVV95cUxQTDRRU1RHRnN4azZLd0xPWUlOQk1lZk1rZ0Z6QXpZOGk1ZS1oeWs2U1FNMlA2Ri1JTm1mOFFlZGo4NGNNamFNTHBSbnpsSWkzSmkzSy1JQkdhTk9OX3NhNkNpQ29TSEdxQ1diZ1dFOFpTZUNIeFJ2cWRfWWRFZ0c1ZllvdEF4UG5meTNvTzNiREt1TDBIMTZYRXJqQWE?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski ma propozycję dla Władimira Putina. Chodzi o ich spotkanie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTkFIUnF4blV5Z0sxRHBWMWlpUFR0QkxPeEpzOHZBMS1PZTB6ZjJaMVNCVnJfUkFMTWhYc0JrSkpRTThxWTRhR3YtdEpLYUYzZGxhVWdjV3M0cDVBMzRZbzhDTklBcWJXVFNsMHpsZm5vXzIyWTBPeEstcG1tVEs3akdJbF9SVU5uY01YU0xrTjFsd0k2dWxPVHhsOFFHTUVvRTEwWGFDTFF0MFRLUHhFeGMzZjFCeXlueE9rUEw1RHNoNVd2ZHJvc2JYVkFGQUp0YURwVjhn?oc=5"
+      },
+      {
+        "title": "Donald Trump rozmawiał z prezydentem Rosji. \"Putin powiedział bardzo stanowczo\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbURLU2RPRUNwOVc0ZjcxdFlFUnVMNkVKdlRrd3dIVnlfM2xzQTRKNHc3OXhNdXBPWTdlVEgxWVh3MGE5S2pfUzFDV2lpWGRfaE9qbjJGUU1yUG4yNkhMUGJzTUFhTFBkbmJRTEJlNF9BamZ2NGNDM1kzVk41Sks1ZjRLX3Iwb1luNmxHUHltdWU0d1pwMjJEWHlMT3JjLS1TQ2xOM2Vva0xSM1Azc1ROM1ZScDBLUExlaXItWWhIMUUtYVEy?oc=5"
+      },
+      {
+        "title": "\"Po co minister od powodzi sprzed roku?\". Hołownia o rekonstrukcji rządu - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmhIUmNnVUtRQURhaDh1NlduYURudHdyMEkwTXQzZHJoaDNmQTJxVENlZVVtSGpIdVU5QVdpWE8xSl9IXzdSNWlPM1ZmMGViOVd2TEdjeXNfbENzeUZMeUNIMVMzbVNpbURZREQwa0xKRGdWdGZFVWh1Qkh4My16Ui1WOEhHZlpHRm1CamEtcG9vTk84NElha1FDYUsyM2lE?oc=5"
       }
     ]
   }
