@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-03 07:15:01",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7282,
-      "EUR": 4.2578,
-      "GBP": 5.049,
-      "CHF": 4.5592,
-      "JPY": 0.026084,
-      "AUD": 2.4152,
-      "CAD": 2.7224,
-      "CNY": 0.5212
-    },
-    "crypto": {
-      "BITCOIN": 392752,
-      "DOGECOIN": 0.729495,
-      "ETHEREUM": 9686.48,
-      "LITECOIN": 332.92,
-      "RIPPLE": 8.18
-    },
-    "indices": {
-      "^WIG20": 2755.26,
-      "^WIG30": 3568.03,
-      "^WIG": 3568.03,
-      "^NCINDEX": 243.37
-    },
-    "news": [
-      {
-        "title": "Nie tylko Karol Nawrocki. Oto wielcy wygrani wyborów prezydenckich - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEJIeHFCZmhJWGtOdHlmTTJic2hicC1rYmpZa0xsQWlqcTdrMlZHdzNyNGUtR1Frd0tTbVZBbXFYc3BWeHdDSUFoMW9YWkZJSHdKQ3Q0YXhKMmNIT0xndDU4QzhKa21LYTF4djRLM29sbWdtaExIWmYteWxzdTNEdTRUc1FNV3JSYUdJUUlmVm91UTBsN2hKZVhTRW16UHRObUNwemdWczF6OWt5N3RSVXIwM3JBZw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki i przygotowania do nowej roli. Uda się do Pałacu Prezydenckiego. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpNR05OZlVTTVR3NkhnQUhYanN4S2RicEQ5azdsZjNhdXlsUzh0QUpsNWRpSW9XanZGeVZSY0F6ZXd2V2NJR2hPVE1kSzlzQVhVUVY2SnlCQ3ZsTGUySTU4NVdYTl9ZcHk5T0ZIR1RvakppSFEwQ3pteFNTU2FCV2RsZXhmMDVHcnEtanZNb0RnelBVNG1ZVUM0Z0ptT0JDRFZ4cFJ2MmkwQQ?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński proponuje utworzenie rządu technicznego - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHNrNHpkb0twRXhJV2t5Q1FzWE9PZ3c5bEs3OEdlbzdFRnQwQlFoVWFXRndxMkxoT2ZMUUltS2picGJPSXh6RWIzdUlyd3RGdmh2Nll6MnlVcUhmMHhrclB0cW1PUGt4bWJ0eGxnVnY3RTFWVFZFZ0FoclJKVzhhWHhLOUl4WTJwZmZNdzFqTGJTZGM?oc=5"
-      },
-      {
-        "title": "Donald Tusk przemówił po wyborach prezydenckich. Ma \"plan awaryjny\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDVwMkZzSWZLWG5SVHp4OW8yNnRCQWRuUFhJT0JDQXB6WWM4SkZPTjNrZUxvaER2a0gxNWdPNExiUGNueU1VRjhuRlZJZjFQdnhFWlhtdE9OWTdwSEIzVTNFN3NQT29LdGg1eHU3WmtPdXc2dmRaNHE3TmlZdDhTYzVQcXZ1ZmExQ2VQczloNFVTRVc1bnhkeTNHUjJHX091aUo0LQ?oc=5"
-      },
-      {
-        "title": "Ruch Tuska i Kaczyńskiego po wyborach. Szybka odpowiedź Konfederacji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHJGZ2ZSakNjVGRHUDBpSHN5RS10QmR1MGRFNWlWX3RKcHhjMHREOHBtSkdkZUoxRDFpU202UGotTUpSTkYyWWZ5LW1VV0V6SmlsbjNWSW1UbWFfajRhUFNaeTJtMDJ4X2sxWlNEOW5YNDBONEpDMnVLLWMxZmZLelU5a1h4RTlkNkl2MUJWaGdIT3N4Q1Q3TW5DTjNGdnhiakVPUGlYckN6OXl4MTVyS0ppVjhMZV90MFVpQnhkVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-03 08:20:51",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Andrzej Duda premierem? Jest odpowiedź prezydenta - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTNNNDdFUFJKMWV2Ty1mSHp5THNiaHM2UlltZXpocFVlMzhzTlY5ZDAxQjZSVURwdGVmSTdfSHoya1VhdDlvM0JZVlJNT0ZjS0o1T0w1YzdTOUdNNkwzYmNJMFdXU3N2MjlCeEljbGUyQTJZeDVMSzZMTW9NWTc2RkdlUHZDLXZEYlZfdlZrU2JUU0c1a1pscFExSHBaYjdHQ0xpaHdIaVJyN0tKUTZoQjRXaGFYVms?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-05 13:12:30",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7495,
+      "EUR": 4.2791,
+      "GBP": 5.0869,
+      "CHF": 4.57,
+      "JPY": 0.026166,
+      "AUD": 2.4389,
+      "CAD": 2.7443,
+      "CNY": 0.5222
+    },
+    "crypto": {
+      "BITCOIN": 392704,
+      "DOGECOIN": 0.707469,
+      "ETHEREUM": 9740.58,
+      "LITECOIN": 327.9,
+      "RIPPLE": 8.26
+    },
+    "indices": {
+      "^WIG20": 2755.63,
+      "^WIG30": 3571.48,
+      "^WIG": 3571.48,
+      "^NCINDEX": 240.53
+    },
+    "news": [
+      {
+        "title": "Donald Tusk zmienia zdanie. Media: dodatkowa osoba ma dołączyć do rządu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHVkQi04TUVqN2Q1OWNvTkFwNUdIR2hpRGVTZ2RkWmpBekVqMDJEYTRGSFpzMHc5NXN0TTRhdjlRZFVZbzZ5aTQwMnRtMkFFMHVORnQ3Y1paZG1uTFZMX0h4TlREaV81a3g2ZHd1c0Y4ZXIwbGZYRFlROWt3aE0wLTFnTFpVdGZnaXZlT2F5UXpEWWZKbTVZc01HTjQtNEVldC1NWVVvcHhqaGFSaHl1THhDNmRfNEx2ZjI3cVcyUUw?oc=5"
+      },
+      {
+        "title": "Akcja służb w Kazimierzu Dolnym. Na grupę z dziećmi spadł konar, wezwano LPR - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVNzSDNydzI1dWRkQjlGSmNtWDZXS19Ed0JmbUxPa3BEY2V4Q1QtU0pZOUJ5V2dsWDNlamhWUmN5Q3lJRHkxakZ0c1lwd1psdmF5MVZjaHhSVE5SYnlweFFCWE1VNHVZZU9hOVNCMWRTbUV3M3dVV3llZlg3V1kxbjVuem9UbGRISTZLLXpQY3V1eURDMDF6M3lpSWZKZ0VxVHdod1JUUTF1VERxVjdr?oc=5"
+      },
+      {
+        "title": "Zmasowane ataki dronów. Ukraińcy uderzyli w rosyjskie myśliwce i śmigłowce - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWtjeUxJRDhVTFQxYnRIQWhWRi0ya0ZmSjROTm11azZvdFY4aHpfNE1paXdQYkhpUld5eXEyM3NFekdJTFFFVWcycFhUa2lhclRVMmo4Q0Q3cUdEMWc0RGFmVnB5amNDTmxiVnhhWFFzNDVZVHdKVWlUTUQ0a3VtR2h1YUkyYWkwZGxNbHZCT3ZheFgwNkpLbWY1TlFYYlJkLXBEb1J4dTFNMU93VzU2UndVUDQ?oc=5"
+      },
+      {
+        "title": "Krytyczne słowa Millera o kampanii Trzaskowskiego. \"Słabe, niespójne i nieprzemyślane\" - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVpDWjFKZmtTU0duWXlEc2VpUlhFVDh5Yzd6cVpyM1Q5T3ZlQkNWbFRzQU1YckhIV2pRREVkU2QtVVNfRDN1dTE5RXBoMFRXRDZYMm9JVjZIZTBjaWtsa0lfelpzUXZDYkhFVkRCZVZRQU94ekJDY1cyNHZnSEpLU3NndXhnNVpJMEd6LTJYVGRTbjRpckF5X2FFSkwxSHFzNkZFMDFvcHl0c0k3UExnWUg4QkxvV3RZeFAzZ1pubGNwOFJN?oc=5"
+      },
+      {
+        "title": "Prof. Antoni Dudek ostrzega rząd przed Karolem Nawrockim. \"To może być jego cel\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVh4clk4VVNNQi1KbDE5bGYyZHIxbmJIZ1dIdE5YN1pWLURtMjhWTnlJdkVnUlkxMWJNZVV1MF93ajRJbEhTd1ctbHFIR0RlV2dnSnBNZFdRcDJSY0U1RnFVM0VoY1ItUExSVXJIeTZ0OTZUSEdxNzQzUWZ6c1oybm5MckJiTF9Oelo1Q0NYNzlXazVsRjVDYVhheUpTWnZJd2pKZm03eEQwRUdUdWM2eFlR?oc=5"
       }
     ]
   }
