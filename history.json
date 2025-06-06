@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-04 14:28:37",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.7525,
-      "EUR": 4.2778,
-      "GBP": 5.0808,
-      "CHF": 4.564,
-      "JPY": 0.026079,
-      "AUD": 2.4297,
-      "CAD": 2.7375,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 394406,
-      "DOGECOIN": 0.728188,
-      "ETHEREUM": 9869.45,
-      "LITECOIN": 338.24,
-      "RIPPLE": 8.44
-    },
-    "indices": {
-      "^WIG20": 2766.35,
-      "^WIG30": 3581.9,
-      "^WIG": 3581.9,
-      "^NCINDEX": 239.02
-    },
-    "news": [
-      {
-        "title": "Donald Tusk nie chce mieć rzecznika rządu? Nieoficjalne doniesienia - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFkQlhoSl8zNXlJQTdzMm9HcHJVcU9UVzd5YXl6YTA0MDB0OEtiWS1Lal81WTIyV0k1OWlNZU93OWM5T3FJZGtqZGNwQlhwQ29GTi1DZm5rbGZ6QXJuY1lpLUJDVlpINDJSV3FudWZwaVNWMFE2THZRajRSa0xUcUtBR3loanNPRnJFMHF5SmpEb0NkcGdVejQ5SVJTeGtL?oc=5"
-      },
-      {
-        "title": "Pomysł rządu technicznego do kosza. Kaczyński dostał \"czarną polewkę\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkRUQXUzLWNsT3g5dUNpa1V6c2wwRFluY3BqTEJJdWtaVFFBR090UmdzM3hDaUxTNzYtcmFoZzI2c2tiQzh3ZlhWUGJHcEQwT0RieHZFbGUzcUMwNTNINmtobXc5bTB0NjZmeDVUUy01NlpqR2hVdUV1VFlqZXdvZ29aV0NiLTg2aWQ2V0p2VTRXaWlRM3kzejhaMEtYck5ReW1CTHFTMWtmMVJyemc?oc=5"
-      },
-      {
-        "title": "Trzy mieszkania, zarobki w urzędach i spółkach. Majątek szefowej sztabu Trzaskowskiego - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNG1yVzFKWWZoQjMwcHltZjRGNG9kaXBJOGUyLVAwLWlTZERmOVA0RC1DOG1qaV9LTWhMdUZXNmJYRWZBTHpBdG5PQlpFemdGSDdwNFBUU2NPZjRiVjltSjluMjhiSFkyb2tCOW8tekhvYWg1ZEJqX2ZpbUNCRmRXemF0alZtRUJTVHUwOXJwS1ZyUVo4UmRLM3NkQml3YlNRVUtUM21nMmNTbU45d29CV0c2ODBvZ24zZ1BDbmR1RFVQZkxqcGlmWXFFNXpFN3ozdjFtRTNn?oc=5"
-      },
-      {
-        "title": "Daniel Nawrocki z kolegami założył redakcję. W Polska Press zasłynął kontrowersyjnym wywiadem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY29rUUJDaFEwYmlnOGJfWEptcGFyakZQSjJQemd6TEhrSjNRYTBGTEQ4Ti1qV0FjN21JTWpBWjMyWDFySFNUVGZZelR2WVI1Sms4VTBYaWFqLXUwOTNsVzUtTnA2WWR0a205Q1FpbG5aUnBKWVJLS29rLVYyT0hNY0FJTFNXcjZPMWVNc1E3c2FjUkpiU0NhdVp2NEJTb3Y1RWtpWFBDcTV5dlhrcFI5RlhrSHlHYU1yNHhJalJ3ZVpocG8?oc=5"
-      },
-      {
-        "title": "MSZ reaguje na tekst izraelskiej gazety o Karolu Nawrockim - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1FpM3ZwbTFubFZoUXV4eHJJV2tnd296WlZZd2xSOEVrZzRCeXI0TVp0YllBYTB2YjlYZVNmZTNPNS0tOFVXUHQyWFVVVGR2bDVyb0c1TmgxQjItY25YdGlkTVRzNWUwY0xCRVdJQlN3QjROb2Q4YUlvRW5zeThrdkV5U3BJdmI0NElhZmcyRmhSSFVMZUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-04 15:29:53",
     "weather": {
       "Warsaw": "Warsaw: +26°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ustawa o jawności cen mieszkań. Jest decyzja prezydenta Andrzeja Dudy - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlNvckIwMDIwZWpfVnJqQzhFcDRPYnNleHNTclhJeGVaWHdWaThXTGFNYlNxSGttVGh4YzNNN29wQTMyQTFUc1Z4Sk9yZ0tEUjhyVFR3TnVXeUNMUTVJNE9jak5DMjJNSUdmcDByRHVNdHlRWHFlZ2pwemVWNmYtUURoM0g1TDVpRVBlb09va0k3RF9FZlhsell1eE1yVVJic3Z6ZmZSd0RJWkNLeHUtZkY1UUdtY0daSFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-06 21:11:25",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 393440,
+      "DOGECOIN": 0.676036,
+      "ETHEREUM": 9395.0,
+      "LITECOIN": 325.72,
+      "RIPPLE": 8.15
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "Pożegnanie Grosickiego z reprezentacją. Polska gra z Mołdawią w Chorzowie Piłka nożna - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UUpERVVnS25ZVUhuS1lJdkpDVEtlNkt3UW9WaHd1M3NDR1hfMFI2R0tObDBxa3FLU0pNTUF5akcxeHFYcWtEbENBd2VtQWQxbldtSklqc1MxUWRlM1E?oc=5"
+      },
+      {
+        "title": "Donald Trump rozważa rozstanie z czerwoną Teslą Elona Muska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWdORUV1V3JhUVFmUVM2NmhrT0FIa2k4cmNLQm9keDhUMWZGX3Ewc1dOOEJ1ei1ISVluaWNsbWtPdHFVRy05TFgybktfM1pTS3hDejZLdGR4Y2xSTWhrZzdEWnJ4cTBHMWIxM0E0RXF1a0kwckRXeU9IcDhhMTNqa0RrYzU3bEVHMkJjY0ZFd2pPSWdtZkdRVF9aUU5ET0F4cmFhbQ?oc=5"
+      },
+      {
+        "title": "Kolejny skandal w komisji wyborczej. \"Doszło do poważnej pomyłki\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjJRM0FWeVdPQ0hfNmlyNmJGc3RKSGdiWmNHWjU3bVRlYlBnaVpmajFMeDBmN2VDSE4wZ19STDVhbUlEQkVONm8tRnJQZHp4bmVZSXQtTGFFZlg4aHl0QXdqUFFNS1NOczBDZmtPU1pmR25NVW1neGxNaVlWOUF2M1BkeW5MbFUzdjN3QUhqZ0NaMU9sdDJWQm4xN0hTYmxXbUpmOGhCTUpJbXVsb0puTWRJRVRscl9Sbjl4V1N3?oc=5"
+      },
+      {
+        "title": "Zawrzało po tekście Onetu. Polska 2050 oburzona na polityków KO. \"Złamali ustalenia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSTJvMmRDU3V2SFdpUnVHQU1NeFktYnkzdHV2bzRGTWRMcndDQlljY3ZzTnlxMHhGY0YzZ0cxM2pBeXRaQnhRdVlLb3R0aDk1N2VSMXNvVTEtQVZZa1ZfdG1TMkEySDM1ZXdHUzMxamp2bnRSUlM3VUlZR2Nvd1h2VktfU3hrbzZEc3dELVNpSEVrVGRrSnF1Wk5GTi1zM1gxbV9fbjFJV3JCVUpKanNxV29uckFGRlNTZjE3U1pzR21YNHVmcUM0ZTd6SkE1c2xRdVAxU2Jia09ESVU?oc=5"
+      },
+      {
+        "title": "Strzelanina pod Biedronką. Były policjant: W USA byłby trup, w Polsce zarzuty - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGV6VGtvNTFWWWxhcUVsekFaNl9jTFhZbjNaUnVmUGRHNlJyOHp4d1JMOEFhelZ3czZ6eTE1MTRGdFVBemNKaTh2Qmw4TlJZWHIyRFY1RE5FNEhDZXF3QlZmOVNnT3FDV1dfZm1DU1VuVWlzd182TWZwcFVudDJ6eTk4RHhJTlgxZVMxdnBORnUtcGVZNXlvU3p6MXFySk5OektQazRSUk1NS3VyenJwSXhPMHJHRE1QVy04NnZQSV9SZzFWRGc?oc=5"
       }
     ]
   }
