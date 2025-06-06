@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-04 10:19:37",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7437,
-      "EUR": 4.2721,
-      "GBP": 5.059,
-      "CHF": 4.5718,
-      "JPY": 0.026215,
-      "AUD": 2.4167,
-      "CAD": 2.7266,
-      "CNY": 0.5208
-    },
-    "crypto": {
-      "BITCOIN": 396093,
-      "DOGECOIN": 0.735466,
-      "ETHEREUM": 9892.71,
-      "LITECOIN": 339.85,
-      "RIPPLE": 8.41
-    },
-    "indices": {
-      "^WIG20": 2743.24,
-      "^WIG30": 3551.98,
-      "^WIG": 3551.98,
-      "^NCINDEX": 240.48
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki odmówił \"prezentu\" od Jarosława Kaczyńskiego? \"To nie plotka\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZW12WDZyS09rUUdqWEJiYWZrSW9VRThpdjk2akFLb0l1dU5jS1ZGSDRQYlpDRmRVblNfdlFUc0QxSWFfZWpBSjVBTVUyM1o0T21fWFFsWWF4cjRVSEdkYlptcUhqUC1CSDg0Y2U4M3M3T3E2WktkYVl0ZjJpSHA1SHJqX25lMnpjWkVzdkhkdEhGUnRPbTR2dURiRGd5VVRlNkFrektZQVZDUHBBYS1iXzI5eE9xM3FSa0ZtRVNDUDVETlVDREJV?oc=5"
-      },
-      {
-        "title": "Może być niebezpiecznie. \"Przed nami groźny incydent burzowy\" - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnhJMTVHRzB6NUFEZVZFSk1oeDVDREZjVjM3eDBlSnAxRFZTdEI4NEFfMzV5YjhBMy1lUWZSVi01WlF5UWhBUUlOR3RheGxyMjRUS0JSNll3OTBhRjNLcnZFcjZnWHVvMXA4VC1pWWFyNHhJWEE0Sm1VclBUS1FoQzFvODc1UG5Mbmg0dlk4NVF6UldNam94ZkpzblNoSkwxMDU4MExtSE0?oc=5"
-      },
-      {
-        "title": "Tusk podjął decyzję: chce wotum zaufania. Petru odpowiada - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXR6MzMzNW5QNXhsa1VIUzJWNkoyQnNPWkloVVdScUxBUXotWnZfVVhWTU43WjBQV0NBLXlPbWNnNWwxd0hYR0d5T2ptZEpoMEJKdUw3dXA1SmhXbU93WU84Y1FidFJCUmZiMzVFSzBHa3RFZXNFOGFTMnVleC1QaTZMcE5uNDZlNGFKS0MwaEdhcU13RDVTODE0MEdhUGtWZWdpWVlzQjJNS0JCY2Jv?oc=5"
-      },
-      {
-        "title": "Nawrocki z PiS szykują \"naloty dywanowe\". Co może zrobić Tusk? \"Oni by zgłupieli!\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNzdYeGY1UGlKcHF3N2Jqd2xXaU8yWWtPUVlHY29nY1RiM0FZOV9nRFhhRjdmSE5Na3J4M3dKcTdwWG91M0N5cWpDMkNrX0Zrc1Q5MkhacnlwZnFuVVJFMVVtUG5Ld0Z5aWJHM3FaTmNYLVFVZ1RsWTF5WUpFbjhkMXFSVFhnc1pVX3ZxXzNpZ0JPczVYbzdScUJrR3FjNFZVdi1sZnBGTkJlamR60gGrAUFVX3lxTE83NG1feGJxZE4tUUdtS21mbldFZEs1TkwwX2pJb3R3dmxDcmtVaVQ1bVg0WFE4YkhnN3FkdkNxNW9NTFJsZjI0NHVCRV8yRW40RTk0Q2dHei01aXZvZ282d0NMZ0E4MlhXelRhZVk4X3drcmE5aGx5MXZwRnFQVkxPSlhFWS1sWnB4bkFYV3Fya3l0RmtPckJQSWVnYkQ1R0c2aDBpWG9DTks0cw?oc=5"
-      },
-      {
-        "title": "Mentzen proponuje Kaczyńskiemu spotkanie ws. pomysłu powołania rządu technicznego - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOThYaElPTzh3OEJWMElwcW03SUNZU2Z3SUpNeGdqSlp3TEVWYjU2ckJob0tRMkRzYmpEdlYzY2pDa2c3aURlX0ZVQkU5R0J5WlQ4VkRvSloxTkNlMDFLTVR0X1psSnhYY0FCbVZKQ21UZlYyRUYzZlU2a0haRHVhMWhkUVF3c1M0bm9KMjVWS3JialFtcmNXQkJmYVYwaGJVek9mUmN5X3lCblN2LUZJU1VCaw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-04 11:15:04",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Były szef CBA Ernest Bejda zatrzymany. Zostanie doprowadzony na komisję ds. Pegasusa - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFpvWUQ4cjdyUWpfbXNFTHN2MHBHdTBIZWhkTDhvVjhHMWppQnBicWFaQjdvTFI3WUJoSGRkbVJQYkw1cFZibk5aSE8zcUtpdnMzN3FGOWpOYlNLQ3U4aEtacFQ1XzJyR3I0d3Z1X3RwQ1BiaU5tc0FUcGo0MnFHdXBHaTVMVUY0Q0k2MlFwZ09qQW9Rc3g0Tm1nVFJFYzRTRS02WlZpUDlKSUNRZF9tZlg2OFBSRnZkNnNTWXVIVVhGdHFMVVprT1VZcks?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-06 17:12:29",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 394876,
+      "DOGECOIN": 0.686414,
+      "ETHEREUM": 9485.98,
+      "LITECOIN": 326.09,
+      "RIPPLE": 8.21
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 241.79
+    },
+    "news": [
+      {
+        "title": "Ustawa o jawności cen mieszkań. Jest decyzja prezydenta Andrzeja Dudy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlNvckIwMDIwZWpfVnJqQzhFcDRPYnNleHNTclhJeGVaWHdWaThXTGFNYlNxSGttVGh4YzNNN29wQTMyQTFUc1Z4Sk9yZ0tEUjhyVFR3TnVXeUNMUTVJNE9jak5DMjJNSUdmcDByRHVNdHlRWHFlZ2pwemVWNmYtUURoM0g1TDVpRVBlb09va0k3RF9FZlhsell1eE1yVVJic3Z6ZmZSd0RJWkNLeHUtZkY1UUdtY0daSFE?oc=5"
+      },
+      {
+        "title": "\"Powinni go deportować\". Były doradca Donalda Trumpa o Elonie Musku - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3pyc3Q3TDkzQTRtelZvRWhLVnEwYmx5clBYTklEQVRzMGFoVXpyZ3NEN0huOXlfUm5QSEtqY1E1dEw4eDR5bXhNbXZ4TXBLUEJKb29QenFtZHVvbGRpZG1qNy1uZXFxVk5FMFlDZG90RE0wR1ltdVFxWnl4QVdXTVNRUlZrUXJqWW1WdnhNbS1vOHBlZVd5M3RhSWpsenJ2bExVODdJVzRDQ05BekVTTWVRaVc?oc=5"
+      },
+      {
+        "title": "Przerażająca noc w Ukrainie. Zmasowany atak Rosji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVBQNG96OEVxN080ZlAzWnI4TnVkYXROOVpEYTd2c0Nzd3l3NmhwSmpoRVR2TXIwTW1OcWUzNmxSNUFCcExxalBUdE53aHVxcDgxdHMwYWFqTjBHQ05xcE9STVRDanBRZC1NdG1nWEV1U0tzTHpOc0c5LWl1Y3lmOHd2WGdlc0JfbjRaWUhiSmNDejJFaUFZ?oc=5"
+      },
+      {
+        "title": "Rafał Trzaskowski do koalicji: to się musi jak najszybciej zmienić - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUxTZldHSTB4Z2NpOV9vV0dRR3hNckN4OGp4T2l6cmhoaXBJM3VhX2Nic0VhNjNnUFlmbm9DTHZHMXN3bWwzY1lRMWdqc3ZpcU1OV0tTdmZ5VktVbThpME0tcmRMNjhFYjNSMGpNaWVIVDNHcThCZFdNQmdzcHp0XzJTcTdUT0tzV1JOaHF4ck9jUjV3eVA4dm9SdFh3V2FQOVh4R1FCT0RmV2N2MHdfc3E3RUQyM29nUUZacVJORWRIWVlzNGNz?oc=5"
+      },
+      {
+        "title": "Pozamieniane głosy w komisji wyborczej. Premier zabiera głos - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWl9yNjN2SGF5VTR0WnNVbG5JSmw1aW95ajMycWlMWlB4NkhITmtLakw1V1FBREJCS2dSRFhxUDhJNkdFSW82LTJZLXJTWTg4ZUtFazRfVGh6UExzdkk3TUJCal83VDJwcmdyVmJNbGQ0T0U0LVk5N3Nvbk56RDYxRTd3clNKdWFHS1Zua01BTE5oREhX?oc=5"
       }
     ]
   }
