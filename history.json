@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-04 07:14:39",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7437,
-      "EUR": 4.2721,
-      "GBP": 5.059,
-      "CHF": 4.5718,
-      "JPY": 0.026215,
-      "AUD": 2.4167,
-      "CAD": 2.7266,
-      "CNY": 0.5208
-    },
-    "crypto": {
-      "BITCOIN": 396432,
-      "DOGECOIN": 0.73674,
-      "ETHEREUM": 9911.41,
-      "LITECOIN": 341.22,
-      "RIPPLE": 8.44
-    },
-    "indices": {
-      "^WIG20": 2731.3,
-      "^WIG30": 3534.9,
-      "^WIG": 3534.9,
-      "^NCINDEX": 241.0
-    },
-    "news": [
-      {
-        "title": "Zmiany w kluczowych instytucjach pod znakiem zapytania. Koalicja modyfikuje plany po wygranej Nawrockiego - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWExKNGMtYXBpYWtJaHhsbXBORHd0X1FjTXlIb3Qza2Y1dWJlUHNUZ3N4ZE82d2RLYnRnNWlJZVFrcWlkVDRqNEh0dkxUTC14eGxNNzdYdGNzWGpLZm0yeDF4ay1DSEpIR25UYWk2WXZveUNoQlh4ajF4MVZtYlZmbWpJMTFLc1NWOWpDNnF2aURpa09SMUNQbFVGV1dIak04ZklZQ21RNURSaUpOYUk1TDRTX0pUWW9jRzA3MnNrem5CaGs2NEZoQ2s4bVh2UXR2NXRMQ0ZJOG12aXp1bWE1bjV4ajNaYlFodU9MWUduSlc?oc=5"
-      },
-      {
-        "title": "Biały Dom: Trump jest zadowolony z wyniku wyborów w Polsce - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1l5Z29QQ0NHZndJQlNleTVyY0ZVbE1zd1EwSW1lMHN3ZlRMYnd0ZXFIMnBudXdyRGMtR0NxUXYyVENjSTFIdEVOTHFLSjVwOVZMSUM3bmVNSERDOW8ybWJLMlBaRTN5QnpNaHN2bmV0R3JBeW5LYUhfUTg3NTN5NFBSOFgxYXBIZFdEc2ItTml0ZUJab05PMVhOS0TSAZgBQVVfeXFMTjdCbEN5SC1xUWR1bGplVWRYWTJPSWVRQUN5WmxaWkFwS2dDMmpRSnpKRVpOUmxjczVtZU93X3UwNTRQQ0tIZWJVUlhBVG5wX2pRYTFublhobkswOWVBSVY1QVdjT1hkemthQmI4X0xGcEw3eDZjbW1TN0wwejVsVWFSdktGc0x0c2FrLXNSZjJJOEh6eGtUZ0Y?oc=5"
-      },
-      {
-        "title": "\"Wiszą na nim dwie wielkie przegrane\". PO spisała Trzaskowskiego na straty? - Interia",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ21PMGdveHZhaUdkZXJWcVB2b1VSLU9OcV91UzRCLUptQkF3ZmlFamZEeUxYakhDREhKQ2JvTjJXVXBHU3NydWR3eng3bV93Rk9oWEpLaXZaeXZJQzNWdzF5WVV1cTlub20zdFgzaER5b2ItX3NiNFlGcVJua0twVXZ0R1hCOEhyd2VCUFg0ZkY5anBqUHhkVVpyOTF3aDJGTmdfejBqYUtlWG5IenlRQW13anFJckl5N3RQTk84V2QtVjlOLXFZ?oc=5"
-      },
-      {
-        "title": "Prezydent Duda i Karol Nawrocki spotkali się w Pałacu Prezydenckim [ZDJĘCIA] - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN1hUWFNYbTJOUU1pNnlpMF9nWk5TUmtjSXNxeFBxTkstRWllNEZVazZieUxwU3ZtOUY4M0l3aUpVNkF0dHpoeFo0UXdHczFKa25SWmM2WlVscVFXQ0dWV0VoMGppaHhFbjgzdnJWc1ZidU5fSjU3TWhBUTJYOUNHMF9keWZQemJwRlI4VUVzbmktRmc3cmpvTDNzZktseHFB?oc=5"
-      },
-      {
-        "title": "Wotum zaufania dla rządu. Padła data głosowania - GazetaPrawna",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWx4UUN1X3RfeEp0SUpRbXhmd1cxT0lGZXQyYkNUOFRfUzJwaThKaEFaUUxMblVlTFo4bl9BN3d6czg3emNJeUFnbGwzcWoyeEFlZGxMNWdXdHBJdDNVQXVvWGdibFc5cFh3YkQxVmZpY3d0YWpPMWt5S19uQmQtT0FsTGE2SlItNThmd1BmMk5XNU9XZV9fR3VzWml0XzFyTjFVZ0h4cWRnR1dlTUtRVXdtaG9JcG1y?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-04 08:20:39",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Mocne słowa Nawrockiego o Tusku: Najgorszy premier po 1989 roku - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExTS0w0d1ZvcV9SbExJeGJCaVoxcHVtVFdyVHg3RUVRME5EVEN4eHhSekZxU3B5THVZYVpGNE1idzJveUpDNDY5X3pYcnpzTWlMWmdZNWlUQlB4UWRUYmduTFV5bjZETHMtLUZ5WFdOVlg3aWFHUy02ODIyTndnZkJmaVRVY2ZVcTNhZExoalBXaG9TRThrQ2pQSVU0NVg0MjdN0gGfAUFVX3lxTFBCbUNfRFJmekZyRVRjYS1zb1BkVjVNSXZ1MTREdlNudUVVZy1MNk43cXlGRVFYYlBwUUh1Y0Zwd2tiRVBNWUR5S2tpU18xSF9LaDUzRjRDSUhvUEllSUNnN3VDVTBhLW94R2h1aFJlOTJPMjZNM1V6OVBDOHVJVFZiWkN5Zi11VXRQVkV4d0MtaTh0d1djUDJneUktazE5SQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-06 14:27:30",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 390574,
+      "DOGECOIN": 0.668442,
+      "ETHEREUM": 9310.1,
+      "LITECOIN": 318.65,
+      "RIPPLE": 8.09
+    },
+    "indices": {
+      "^WIG20": 2680.02,
+      "^WIG30": 3480.77,
+      "^WIG": 3480.77,
+      "^NCINDEX": 240.94
+    },
+    "news": [
+      {
+        "title": "Zamienione głosy w komisji wyborczej. Co na to KBW? - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmFyWlNuY21mUnFONGNhcldaLXZ6NHlOVEZ4NmVQdFNsU3l6T1RQQS1fWjAyUTNCVTRCNmRmYmktbnZ1dDZvcDlWd2ZHMUp4S1hLUVRzVGN5WGVzOWRZM3hKN3U5TWowdzdmN1RaRU1hRzZYZE5UcWhaRVRoQnM5QzM2WQ?oc=5"
+      },
+      {
+        "title": "Były szef CBA Ernest Bejda zatrzymany. Zostanie doprowadzony na komisję ds. Pegasusa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFpvWUQ4cjdyUWpfbXNFTHN2MHBHdTBIZWhkTDhvVjhHMWppQnBicWFaQjdvTFI3WUJoSGRkbVJQYkw1cFZibk5aSE8zcUtpdnMzN3FGOWpOYlNLQ3U4aEtacFQ1XzJyR3I0d3Z1X3RwQ1BiaU5tc0FUcGo0MnFHdXBHaTVMVUY0Q0k2MlFwZ09qQW9Rc3g0Tm1nVFJFYzRTRS02WlZpUDlKSUNRZF9tZlg2OFBSRnZkNnNTWXVIVVhGdHFMVVprT1VZcks?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski kontra Elon Musk? Polityk nawiązał do starego wpisu miliardera - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkh0SWthY3lVSkxjR3FrS2x6UEd5OUxSaGVwLXB3NFdvUXBZRkRoWnNVMlNiOG9DN1M4eUc5WEZjcFFmUHVDNHA2NkJtYlFsZ3R2U0hOYm40bTh3MTZkcUlCb21OUGIzWUJMM2g5SVRfRDl5VkFuT1loMGxmR1VHLXAzU3lTRnIzMFpEakxwTnNlSk1RWGU5bGpsVzVHZkQxcUo4NXhqMTJSbWVUaXp0T2hmbXFuMEt5M2FONlZ2bTZFTWZRajFuQkF5MlQ1QTFZ?oc=5"
+      },
+      {
+        "title": "Przerażająca noc w Ukrainie. Zmasowany atak Rosji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVBQNG96OEVxN080ZlAzWnI4TnVkYXROOVpEYTd2c0Nzd3l3NmhwSmpoRVR2TXIwTW1OcWUzNmxSNUFCcExxalBUdE53aHVxcDgxdHMwYWFqTjBHQ05xcE9STVRDanBRZC1NdG1nWEV1U0tzTHpOc0c5LWl1Y3lmOHd2WGdlc0JfbjRaWUhiSmNDejJFaUFZ?oc=5"
+      },
+      {
+        "title": "Nawrocki: „Niech Tusk mnie nie straszy”, „Koalicja? Chyba powinna zmienić premiera” - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmdSeDRSTEFjOE1uQUdYVlhiaGFQZzJZak1BMUdsVGpLVzhXU0JpbmFTcTRScm93eEMta082c0lzenRjQXZlN1RreTRJcDR5bXR3eEtaTVlWTFdMQUFWT2lIdzdqeXY3RjJ5MGRlckdsb3dFeS1ib0pEeTN5LVU5V25rU0E?oc=5"
       }
     ]
   }
