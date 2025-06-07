@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-05 14:28:36",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7495,
-      "EUR": 4.2791,
-      "GBP": 5.0869,
-      "CHF": 4.57,
-      "JPY": 0.026166,
-      "AUD": 2.4389,
-      "CAD": 2.7443,
-      "CNY": 0.5222
-    },
-    "crypto": {
-      "BITCOIN": 394559,
-      "DOGECOIN": 0.71619,
-      "ETHEREUM": 9832.05,
-      "LITECOIN": 330.76,
-      "RIPPLE": 8.3
-    },
-    "indices": {
-      "^WIG20": 2741.75,
-      "^WIG30": 3554.11,
-      "^WIG": 3554.11,
-      "^NCINDEX": 240.62
-    },
-    "news": [
-      {
-        "title": "Szymon Hołownia zapowiada przełomową zmianę w rządzie. Będzie nowa funkcja - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdE1MQ0J2anY5NUhWVUNRbEtTeUpvTmd5eWEwenZOY05WVmdsbHRiNTFCWjktSFdKcGUxRUdTTGdUaFEzblhEOTVnZkc5UEhadzJvd05HQnl1M2JHWDBoU1ZDN3BNU1FsS3FfQjJMUjdhUkk4bUlKS2dGY3JIVDB1LThVWDFtSjVJZ3pZOUNjSmhQa2U1R1ZuT3dWS3RmdXVhTVNCNjltYXZBRTdjb01GU3BCZw?oc=5"
-      },
-      {
-        "title": "Operacja „Pajęczyna” i atak na most Krymski. Jak Ukraina to zrobiła? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG5sclU2UTZneXhPXzh0NFF0ZHFvV0xoTHBFZ1F1cWJoMkQxSkk4YkZiandVSm9NSnRqR3BYbzV6YlRYYzZKR1N0NExha0JNb3ZvdjRZUnphOVo0QmRMUFljSC0tdFNZUkJ6LTFTRWJXdEpUV285VUZ5V2VGZFFCZ29xU05PUTc2bUJMUE1JaFYwWV9NZk1CUkpnbzRLR09mVzdDNUJiVQ?oc=5"
-      },
-      {
-        "title": "Roman Giertych wstępuje do PO. „Wprowadzę odcień konserwatyzmu” - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ljem1Vb1daUnZJbEI4dmhieXZ4ejd3QmU4N2M5UkNNQjQ2dk1qVnMxeGJUSFZZQVFZSVNZNUpRMFJrOGxhUkJTdWNLTTh3S2l2Q21LMFlUU21FRFdwYWtIT1YycnM5X0JyaC1fWUlQOG51SkJwai1zNEI4UWljRnRZYVBEOG1RemVXZ3dORnV3QUh1NTVVRml1Z3dHRGFhSHl1NA?oc=5"
-      },
-      {
-        "title": "Kulisy spotkania Tuska z klubem KO. Dołączył Trzaskowski - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFXS2puRW84a0t6ZmdwdXF5dEdBa3Y4NUVkQnYyU01pN3ZpaExQS3FHV0w1ZHY0RjdnZ01wdGYwX3RfM25JVmpBTGxoeXUwVzFleHlUX0dDaVdqb2Ffekg3eHhucl9PYmwwZVZUTXN0aFA5STIyQVJQZk9ZVFRMakx6dDlwTzBVM2RvRWszUC12MHRLRS1oRjlaSEtpSWM?oc=5"
-      },
-      {
-        "title": "Polacy uczczą ofiary ukraińskich nacjonalistów. Kijów wysuwa oskarżenia - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2o1SENvWFlkTWZYdnNxYk9mSUtua2NTV3BFLWowa1lmandzRjdac2VrdENmdGtjb0ZiaDBXTHNtd2k4Y3djR3Nfb1hLU1RReTFOZ1M1ZW9CeEc5ZnBmZmFyZEdsejBsWTlTY1NLaHpaQ0NNdmRXSTNZZXc5bWhRSTN4SzBzam1mSE4xeHFkazhRWXF2a2stcl9La3NVMnpyaTJuWTJXd09tSzlYYWppc1RtY09uWGVxZEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-05 15:28:08",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Brawurowa akcja Ukraińców w Rosji. Wołodymyr Zełenski zdradza szczegóły - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUZEcEZRWnJOZW5LSnFOd1RaOFI2MDlqRFUwU3cwT3ppZ0VKUkZlYVpmZHUzQU9MZFA1Z1Q1aGVma2p6bGxqdG1MaXJLZzRUNndXYmpnMDJlTl9yWkRDaXV1aG42OHc4T0N5M1VXeHRuVGZudHdvejdIZlJadEloSmNCNjJiTnlpeEFkb1dtR0ZKbzBoQ19EOHI1dU9JaEVBS195VEIzSDhnWVhTLXE1TVN1MW1NUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-07 21:10:21",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 397594,
+      "DOGECOIN": 0.688012,
+      "ETHEREUM": 9472.33,
+      "LITECOIN": 331.98,
+      "RIPPLE": 8.19
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "Ewakuacja na Lednicy. Trwają tam kolejne Spotkania Młodych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTB2cFBkR2pzaHIyZ0JOazJlU2FNUjBEb2pJSUlpdlhyRmpPTE0zbFdsbmZBZ2VEeFN4Z2VlUkk0a0loTHhRZGxUblgwNzVrb3dKVTFPOHJyWTlqVU11RWM0UmJwWHV4N2cxbWtWcG1DTUs1YVZ2b3J3ZFF2NmtUYXpDYkk0RHhETUU0RjlvcHR6U2xsTUxZNXZJQUVqaEFNSTFFVFBYZVhKVTJycnc?oc=5"
+      },
+      {
+        "title": "Sabalenka zalana łzami, Gauff nagle wspomina o meczu ze Świątek. Ależ słowa - Interia Sport",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkRnYk85MlZ4bXh2S1MxN0lrMG5HT0dIZmI3dG54RExYLTRTY1VEeFJWZURHVkZLVGxxbVlsNmZiei1xRWNUT0hlV1FFM1ZQSThFMFdSMHh0OW1SazBfdXcyalg0UHBJZ2pnR2dCZktPWFNrZHlUZFR2VllXWWxKeV95ZUc5dTdmSHRicW5oMFl6NzExdnJIcG54aWI0V0huVlJRR0FCbmFiM3lI?oc=5"
+      },
+      {
+        "title": "Pilny alert RCB dla całego kraju. Burze nad Polską - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmJMSVNTU3NzNEdRRE1HcXRjbXE2MlB1NHg4TVRyMFJXTWZPcUYwZ3c4WG0xbTl2YmN5ZGxYY1VmUlV5bzlPQl9SWlh3VDRDRUVVRnREMGdTZjRPTHBnazlCWVM0VE8yNTNnR2NMemZvNUVwNU1BaGNCN1hGZ1JCY01La0NSbHVUbV9PalRZSdIBjgFBVV95cUxNVWVWZ3dUU1VJUXdvdmlZUDg3SzRzS2RHcHRLNjNENjA2VThCSHdndkFWNWdRSS0tUXNNR2lUNjJvYVJZRHJaTzNHTkNsU0FyMlFUeTVPaEN1dExzUTFnTGVpMl9sTi12UDZEd1c0UjBpU0gyZk1nWXBhbkhNUmx0bWowM242U0VUeWc0bUNB?oc=5"
+      },
+      {
+        "title": "Afera wokół liczenia głosów w Magnuszewie. Narada PiS już zapowiedziana - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjRaTHJVc0N5N05mLS1RY3l5R2tvbm9lWEs3SEM4aFVIRTJhaFJ2ZUd4RnhxOGpXSURvMWt3U1E2Vk9fV2RYRDBRRzNTS3BMNnY3U29IWnhPS1ptSW5YUTNSeXdVQXZtYTg5SjNqblVoVEVtT25IVVB6RDlYMDBNRjRxQ0w3TUlpLXdsTXRkVHJoMFFLN2gtMzFmMHBxSWVMWWNrQ29mLWJPXzc3?oc=5"
+      },
+      {
+        "title": "Wjechał autem w żonę i córkę. Policja podała prawdopodobny motyw - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaElIdDJPN3VlaFVXWWVaNThvenVneWFtMUQ3ZGYyWnpIcVBjOFFwYTljbDJQMVhZeE5XRHptZ2pZSWx6ZUljZU9QX0NNanJQN01SYnROSU9FeDFmSnhjdV9nRUxTM0syUXhTSERPT0tzQkNXOFJ1SUhZd3hUQldkSHBlb04xRUN4Tko3ck5BNm4wSWlSM3NucGhteEowSWN3NTZ2SWJ4bmczajlQOHdZU3pvNUw5ejBsUVdkY0FqZlJpb1E?oc=5"
       }
     ]
   }
