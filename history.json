@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-05 10:19:17",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7525,
-      "EUR": 4.2778,
-      "GBP": 5.0808,
-      "CHF": 4.564,
-      "JPY": 0.026079,
-      "AUD": 2.4297,
-      "CAD": 2.7375,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 391662,
-      "DOGECOIN": 0.70669,
-      "ETHEREUM": 9760.0,
-      "LITECOIN": 328.61,
-      "RIPPLE": 8.2
-    },
-    "indices": {
-      "^WIG20": 2775.31,
-      "^WIG30": 3595.06,
-      "^WIG": 3595.06,
-      "^NCINDEX": 241.16
-    },
-    "news": [
-      {
-        "title": "Operacja „Pajęczyna” i atak na most Krymski. Jak Ukraina to zrobiła? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG5sclU2UTZneXhPXzh0NFF0ZHFvV0xoTHBFZ1F1cWJoMkQxSkk4YkZiandVSm9NSnRqR3BYbzV6YlRYYzZKR1N0NExha0JNb3ZvdjRZUnphOVo0QmRMUFljSC0tdFNZUkJ6LTFTRWJXdEpUV285VUZ5V2VGZFFCZ29xU05PUTc2bUJMUE1JaFYwWV9NZk1CUkpnbzRLR09mVzdDNUJiVQ?oc=5"
-      },
-      {
-        "title": "Tylko jeden głos krytyczny na klubie KO. Tusk zareagował - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0hZaDdoTzc1RC1xQTZHckxnaEhoMjQ2Q0E1SmtnTFVNTlh1YnBxNnVlTHFsbjcwRzZtN0N4bFhBMFd5T25USjNZNU5rTnFxZjVzTDZmdVRWdXF3djBQWmlLMGJ0aEktbXo1WWhvejBZa290elc3Ym1YWVZHa09uTjVnZzRaS29YbzhvQUsxSWFXMXNMTW83NmdCZEl1TldUbHYtWlA0UkREdFVjM2ZkeEpaRGd6UQ?oc=5"
-      },
-      {
-        "title": "Przy granicy z Ukrainą bunt wyborców. \"Autobusy woziły powietrze\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3d1TE5kN1QwSDljczlQbGVMZWdkY2pQMFRnMGFubzVjSWcyd19wUzcxRTBfWk9TMXpFbkhEOEdfNWJGZ3Axd0FRSGVKRG9KV2ZRVHlMTHl1dkZ5WDVPcXdveHh4blhTQmJydHJkRjFuMWkwTzJUNmlIaDdtWFRpZVZCVW9CQVFuMHV4bXpNSkU4VVQ1eU9INnBXcXBRVkx4VVVWUEhIdlI?oc=5"
-      },
-      {
-        "title": "Andrzej Duda premierem? Jest odpowiedź prezydenta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHE3MEd4YTJFSHV5bldQR2ZYV2NTOUotNFpTYWtEWnhLOFg5MjFpRkhLQzVaY1lFMmpRYmE4Q2h1YnZQSWQyRUxNa1JVYXNrcVJnOWxCNnpQYUxpNWJmY1Voajd6bURaQy1IVnlibkFNOUk1dFFXZld3cHRRVXdFNDZvOGh4NjRBdWptbjZoWHQ1eVIxeWJaN2F1TlM?oc=5"
-      },
-      {
-        "title": "Gwałtowne burze z gradem szaleją nad Polską. Wystarczyło tylko kilka minut. Zdjęcia obiegły sieć - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDdHYXFYZnRxVDhsV1NDelBEWjNtV0pvWHRVRlZtbkFlZnpINTlaRDgtZ3JFX0RfTGViT0VKamNvS2Z5NmMzdWxwOEtJbmIxb2VUall4aFZGSi1CUDJ4ejcxcWFKckJkbkh4WlUySnRxSUxXSDRWYVR6Smppc216V1JVSE03c2FUbTRHYkt1Nm1RVkd6SUR2bUVPMHZSak53Zk5zNGdlSzdndw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-05 11:15:19",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Minister finansów ucina spekulacje. Jasno o pensji minimalnej - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGkxbWl2SXNya2xqeDdheUE2YThoY3d4RjFHcFB1TnkyRTRycE91c3FRSnJCOU5EdGpmb1RZdUV2NUYxVGlLT1hrTlZqbTVGZkJBSmJLWGJvX0ozWmhjSktxckpTdEItN1ltRW9jVkFxSjdoQnREd1k2Q0E2ZGhQZ3RpOHh6bmRrSWk1cjFZLUsxZVdUaGNuNVlkZko3ZUl5VE4yWnVKWnlOQQ?oc=5"
+      },
+      {
+        "title": "Wspólna Wielkanoc dla Wschodu i Zachodu? Leon XIV z propozycją - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWlzdkMwNGExZThiaFdvYjU0Rk1QT0NPXzdUNFpBMDZOSnA2U3MzS2tBUzFWM0hySkR5aEEtZV96S1RQR3pBT0FvNTN3ZlpndHpJeTRLZ2VfaHp0SWlUWHFudEdTMWt4NGgtVHRBZ3phSmFmU1JzdXBzY1hkS19tcFlnNVZIaUY2Y0x3WTJTSlZnQVJJQ0dvNnhEZmdlMFZyZ0RSeUxKeGlYQlF4OHZ3M3VzRmJyeU1P?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-07 17:12:56",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 396903,
+      "DOGECOIN": 0.70412,
+      "ETHEREUM": 9472.15,
+      "LITECOIN": 333.83,
+      "RIPPLE": 8.22
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "Burza wokół ankiet w PSL. Rzecznik partii ujawnił wynik. \"Pokazuje tendencję\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzdQRGNhTWVxMEZUU1JuZDlfQ2dhN2RpT2JOWlZfNTBlUF9LU0JRZUlQakc2YzFNczhhQ21IdE1zODJIN2NTMTZaNGkyOEpieHZxQXVIRUFWZTQxTFFuUl93ejJNLWFuSnUySEgxczRwUlFrUDlzUThzRFBJNHo4aVltTEJZVGR6VkN2TnJWZ0lBUTR1SjlKZUg0VXhjaUhyR1NqcFpvc0xvYnAtRENBdUNzNjZacXlxMU96SkN3?oc=5"
+      },
+      {
+        "title": "Alert RCB dla całego kraju. \"Przygotuj się!\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOS1ndnJZWlJLX0U2M2N5S2wtMzZOSFFwMkRBeUJBaXEzbzNlMHowMEc0S2lfMkEtVWk2T3ctN0JSQ0JqNUhqVFlYR21Zd29oanlyXzZPXzVQdmwtd1VPTWQySlFwTERfeTBYbGVCUkhzWk5ldmhFZWFjZVJSNkl1TW9qX1ItR2tTRks4eTJ3bEJtYjhnZ1B4WV9rVWZNM0xBTWdOQzF3?oc=5"
+      },
+      {
+        "title": "Kolejny \"cud\" przy liczeniu głosów. Trzaskowski wygrał w bastionie PiS? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmNZYXVreGdoRnZ3ZHhCTHkxcWZrSUdWNWNabDhTdHltR2loMTBrUlFJVlFJSGVPYUZYZWtjWFEweFZnN3hKQ2VCVFFwRm9Hc3Q4TFJZZUx1cnU0czdEX1JrYUdDb1Y0bmdvOW1sU2NRZFlpVzJsUFBqZ0hQQUs2LTdHQUhGSFl1bE0tSGMzSDh0MEhmYnBLMnp3RkZqOGVTWkl3X0VnVFFlREJONjZj?oc=5"
+      },
+      {
+        "title": "Podwyżka płacy minimalnej. Minister finansów rozwiewa wątpliwości - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeUhHUGZvSnRnNTU5WjZNOFJtLUg3MXQwOURFOWxaOTRJZ3dMR293d0FnYU92a204TzhKV3VucEpxZkwzUUllVkZHSW9UcGR4ei1Pbzk5OVpPUmtxQi1GU1RSU1pnVlJPenk1QUFHNzZ3cXRETFJicnNwNU8yWWw2MUd2S1NMb1FvVS1nbmxRWWxsTDVyMHpQOTAyMXBWY1FMTHpBdWx3QTZrcGo0MndDMUdoeWVhZjlMNG9N?oc=5"
       },
       {
         "title": "Wspólna Wielkanoc dla Wschodu i Zachodu? Leon XIV z propozycją - PolsatNews.pl",
