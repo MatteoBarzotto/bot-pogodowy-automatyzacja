@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-06 13:12:31",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 389236,
-      "DOGECOIN": 0.663194,
-      "ETHEREUM": 9319.4,
-      "LITECOIN": 316.54,
-      "RIPPLE": 8.07
-    },
-    "indices": {
-      "^WIG20": 2662.71,
-      "^WIG30": 3458.71,
-      "^WIG": 3458.71,
-      "^NCINDEX": 241.24
-    },
-    "news": [
-      {
-        "title": "Polska rezygnuje z kupna śmigłowców Black Hawk dla wojska. \"Wystąpiła istotna zmiana\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWRlemZ6SW5qME5MMFljbjBjbGhESkd1Zk9aaEtlVEpXUWNMeVBIb3JwZ2JMV0Fzd3dPY1J3Ylh0MFRrNEZEV3RTLUdLeGpfT0p1MDlNb2ZoVnJBNVl6M1NBMG5Zd0JiYy01S242SUJMZ1JfdHp5MnVFejlXS0dzMUNUdzBFalZ0SGZITDhmbHNpcDhseG5HUzlhZTR3bkdkWUwwNkFWcUZ0al9PbUkzT2VvQ29jOWdGTFI1d3h2NA?oc=5"
-      },
-      {
-        "title": "Zmasowany atak Rosji i odpowiedź Ukrainy. Płonie rosyjska rafineria - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcC14QVRxbEJfdXpTVFpmX1lSdlRGTElIZ0dNbHpLUXpWV1BwWG40NkZwbThwODRqM3NGMF9UWUhkTTRfQ0MtS3Fya0h4TDYxY2dkTkJQR242amJlcjlGMDNsUDc4OFNoMlJhc2I4dTBGcGg5UGVMeG5XN1J2WWZsNm80UVB3YmJhSjdLTFFySUxWc1hQNzh5QVlYZk5QU0RWOXpDQmxXYmhOeEs3?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski kontra Elon Musk? Polityk nawiązał do starego wpisu miliardera - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkh0SWthY3lVSkxjR3FrS2x6UEd5OUxSaGVwLXB3NFdvUXBZRkRoWnNVMlNiOG9DN1M4eUc5WEZjcFFmUHVDNHA2NkJtYlFsZ3R2U0hOYm40bTh3MTZkcUlCb21OUGIzWUJMM2g5SVRfRDl5VkFuT1loMGxmR1VHLXAzU3lTRnIzMFpEakxwTnNlSk1RWGU5bGpsVzVHZkQxcUo4NXhqMTJSbWVUaXp0T2hmbXFuMEt5M2FONlZ2bTZFTWZRajFuQkF5MlQ1QTFZ?oc=5"
-      },
-      {
-        "title": "Były szef CBA zatrzymany. Zostanie doprowadzony na komisję ds. Pegasusa - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0t2UUpzT0xnV19zLXMyWDJRN2luS2tUU2NMdzdSbXd0SVNDbDB5STBENUNkZkk4VVJ3clZWc3ROY2dsUDZyREg3am5qVWtxQ0VCcldZN0JOQzNkOXlRa2JtSTN1YXJZcWJPQWlNUmdHOUhLMkNpR29VOEVJaTlNSlo0ZWg0NmhxOXlBdU0zUi1aS25Kd1lEZm5VbklMUVROWG4xTGlaaDg?oc=5"
-      },
-      {
-        "title": "Mocne słowa Nawrockiego o Tusku: Najgorszy premier po 1989 roku - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExTS0w0d1ZvcV9SbExJeGJCaVoxcHVtVFdyVHg3RUVRME5EVEN4eHhSekZxU3B5THVZYVpGNE1idzJveUpDNDY5X3pYcnpzTWlMWmdZNWlUQlB4UWRUYmduTFV5bjZETHMtLUZ5WFdOVlg3aWFHUy02ODIyTndnZkJmaVRVY2ZVcTNhZExoalBXaG9TRThrQ2pQSVU0NVg0MjdN0gGfAUFVX3lxTFBCbUNfRFJmekZyRVRjYS1zb1BkVjVNSXZ1MTREdlNudUVVZy1MNk43cXlGRVFYYlBwUUh1Y0Zwd2tiRVBNWUR5S2tpU18xSF9LaDUzRjRDSUhvUEllSUNnN3VDVTBhLW94R2h1aFJlOTJPMjZNM1V6OVBDOHVJVFZiWkN5Zi11VXRQVkV4d0MtaTh0d1djUDJneUktazE5SQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-06 14:27:30",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "„Tak wygląda upadek polityka”. Prof. Antoni Dudek ocenia, co czeka rząd Donalda Tuska - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3FlZ1IyTXpQSjNzVEhpTzFGcUp2N2h0eEFSQnJvYkJ6QU4zSDJ6Ml84MlZBaVdqekxDN0c5dHRuZTFhSTNVSDJlNXA3ZnVxLVg1SEdBOEFSZFBrZ2tVTjhtOGhZckZDQUUwTTdyc3RQWXJtaDZtbkxoVmtOZHpwUFJfdFJaOWU4WjRaVWQ1Ml9Deks0blAxenAwWjdlTGtkWmNmdktIMU9ENldBYmZoeHNZT09Fa3pPbGJr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-08 19:11:16",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 399505,
+      "DOGECOIN": 0.697692,
+      "ETHEREUM": 9512.6,
+      "LITECOIN": 332.24,
+      "RIPPLE": 8.57
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "PKW zwołuje nadzwyczajne posiedzenie. Tematem nieprawidłowości w podliczaniu głosów - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWltYXk2TExCMDg5T2FTeFEzOHFPWXN2Mlh4NDIxbXNNYUlmUkZPSGJiTTdjNlpLVWxDUDBlZlZHcTd2eVVpaGVOaFl0bmo0QnVHSEJuVjBYM3JhU0dBaEJ3UzU5QUliOVhXWU1kWEtFczdDdkhEMHJmT003TENOUGdTS1M3aENiUWhIbWtkNEhWbmhxYkZ2Vi0zclpsZ3lnajk3SXJ2YmtQMmZaTVVfaDA3SlBUcFpGdXZPSlY5bWozN2xoUlZB?oc=5"
+      },
+      {
+        "title": "Media: Elon Musk pobił się z sekretarzem skarbu w Białym Domu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVktaSWVXVEtyOGZPRlF5eEhYUm1NcWFTUWluRklkRUR1ZE5BckhSdkJxYWVtU1RVQUdMbVAtbExRYmxndTQ0TGppWGtWWEQ3bXdiRTFSODA3SGI1TEgyb1lmam5KWkRpV1JUNWktUVNzM2FfMFYtMl9sVzQ3QndUSjNzT0tMRUp2Z2hOX3QyU3FKdjdNR0ttNTBheVdqMU03SzNwT19Ud1dLTG9kaF9Z?oc=5"
+      },
+      {
+        "title": "Pogoda nie odpuszcza. Alertami objęta większość Polski - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRThsWkxsbnp4bW9nNzNrSEZkaW96bnN4aVMwa3NFdWNLdFpYWmVKSkxuS3NnRUNOcTlsMlJGODZCTEpzTXB6STlTdVJHbXZ5M1ItTFhHMDZNMDhuTWxUMmppWjBrR2VQMDhMTnNCT1p3S3I0VEFUTDk1eTBUN0lUYUYzcEZKNUFRckFXOHA3TXhldlFIY3hRYTc1TnBzUkRLOXM2UDZXRnZUNzdOdkFDeDJNZVJEOHpjeG9FdTIzUDJKVGp5bGtkSmJSRGMyRzRPaUE?oc=5"
+      },
+      {
+        "title": "Prof. Antoni Dudek ostro o rządzie Donalda Tuska. \"Tak wygląda upadek polityka\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObjRuR0dEY0Y5UzJwTjIwZmYxVnNhM1Q1ekE1LWhydjYtU1lVYTFiZDF5Zmg5RVQyS05DN2FtQ2xwcnBMMzhLdE1vTllnNkVSeHpFMXFyVFAzeUQ5c1FwczF2SHhrdlFrdXFKcVA2Z1pqai1vQ1pqckhPaS01WGs0bXd3T1ZWM0RXMDZOOW81UFdSYW9XbjNBZXJPVnJfTzZZLS1oVlFBWkpDTE5RbGJGYUdkcDVCdHZWWHFDVUgzNW03OURU?oc=5"
+      },
+      {
+        "title": "Rosjanie ogłaszają sukces na froncie. \"Pierwszy raz od rozpoczęcia wojny\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDVfQ2p5ckRwb0l2Q3VUdFBEbzZRNzZHdnVJRDA0emZUeE80UlBRWnBJOVI3Wnl3TmUtVGhxYzJXUzAzYUlCNE1HVjRxQmVJc2Z3Q0ZNX2VTdi1sUExQSW40UVVVRWhDSS1td08tUHZYU1dBVVU1dXVIWGlicXlib0FRX25GcnFGanVTNEhTblZpQkM2MHFFbkJMbjU1NWJvdTlSWWRSNUJ6LW5fdFgyOA?oc=5"
       }
     ]
   }
