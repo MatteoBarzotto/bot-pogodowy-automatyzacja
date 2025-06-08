@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-06 14:27:30",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 390574,
-      "DOGECOIN": 0.668442,
-      "ETHEREUM": 9310.1,
-      "LITECOIN": 318.65,
-      "RIPPLE": 8.09
-    },
-    "indices": {
-      "^WIG20": 2680.02,
-      "^WIG30": 3480.77,
-      "^WIG": 3480.77,
-      "^NCINDEX": 240.94
-    },
-    "news": [
-      {
-        "title": "Zamienione głosy w komisji wyborczej. Co na to KBW? - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmFyWlNuY21mUnFONGNhcldaLXZ6NHlOVEZ4NmVQdFNsU3l6T1RQQS1fWjAyUTNCVTRCNmRmYmktbnZ1dDZvcDlWd2ZHMUp4S1hLUVRzVGN5WGVzOWRZM3hKN3U5TWowdzdmN1RaRU1hRzZYZE5UcWhaRVRoQnM5QzM2WQ?oc=5"
-      },
-      {
-        "title": "Były szef CBA Ernest Bejda zatrzymany. Zostanie doprowadzony na komisję ds. Pegasusa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFpvWUQ4cjdyUWpfbXNFTHN2MHBHdTBIZWhkTDhvVjhHMWppQnBicWFaQjdvTFI3WUJoSGRkbVJQYkw1cFZibk5aSE8zcUtpdnMzN3FGOWpOYlNLQ3U4aEtacFQ1XzJyR3I0d3Z1X3RwQ1BiaU5tc0FUcGo0MnFHdXBHaTVMVUY0Q0k2MlFwZ09qQW9Rc3g0Tm1nVFJFYzRTRS02WlZpUDlKSUNRZF9tZlg2OFBSRnZkNnNTWXVIVVhGdHFMVVprT1VZcks?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski kontra Elon Musk? Polityk nawiązał do starego wpisu miliardera - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkh0SWthY3lVSkxjR3FrS2x6UEd5OUxSaGVwLXB3NFdvUXBZRkRoWnNVMlNiOG9DN1M4eUc5WEZjcFFmUHVDNHA2NkJtYlFsZ3R2U0hOYm40bTh3MTZkcUlCb21OUGIzWUJMM2g5SVRfRDl5VkFuT1loMGxmR1VHLXAzU3lTRnIzMFpEakxwTnNlSk1RWGU5bGpsVzVHZkQxcUo4NXhqMTJSbWVUaXp0T2hmbXFuMEt5M2FONlZ2bTZFTWZRajFuQkF5MlQ1QTFZ?oc=5"
-      },
-      {
-        "title": "Przerażająca noc w Ukrainie. Zmasowany atak Rosji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVBQNG96OEVxN080ZlAzWnI4TnVkYXROOVpEYTd2c0Nzd3l3NmhwSmpoRVR2TXIwTW1OcWUzNmxSNUFCcExxalBUdE53aHVxcDgxdHMwYWFqTjBHQ05xcE9STVRDanBRZC1NdG1nWEV1U0tzTHpOc0c5LWl1Y3lmOHd2WGdlc0JfbjRaWUhiSmNDejJFaUFZ?oc=5"
-      },
-      {
-        "title": "Nawrocki: „Niech Tusk mnie nie straszy”, „Koalicja? Chyba powinna zmienić premiera” - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmdSeDRSTEFjOE1uQUdYVlhiaGFQZzJZak1BMUdsVGpLVzhXU0JpbmFTcTRScm93eEMta082c0lzenRjQXZlN1RreTRJcDR5bXR3eEtaTVlWTFdMQUFWT2lIdzdqeXY3RjJ5MGRlckdsb3dFeS1ib0pEeTN5LVU5V25rU0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-06 15:26:20",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rosjanie ogłaszają sukces na froncie. \"Pierwszy raz od rozpoczęcia wojny\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDVfQ2p5ckRwb0l2Q3VUdFBEbzZRNzZHdnVJRDA0emZUeE80UlBRWnBJOVI3Wnl3TmUtVGhxYzJXUzAzYUlCNE1HVjRxQmVJc2Z3Q0ZNX2VTdi1sUExQSW40UVVVRWhDSS1td08tUHZYU1dBVVU1dXVIWGlicXlib0FRX25GcnFGanVTNEhTblZpQkM2MHFFbkJMbjU1NWJvdTlSWWRSNUJ6LW5fdFgyOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-08 20:17:06",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 399352,
+      "DOGECOIN": 0.696947,
+      "ETHEREUM": 9502.12,
+      "LITECOIN": 331.25,
+      "RIPPLE": 8.59
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "PKW zwołuje nadzwyczajne posiedzenie. Tematem nieprawidłowości w podliczaniu głosów - Interia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWltYXk2TExCMDg5T2FTeFEzOHFPWXN2Mlh4NDIxbXNNYUlmUkZPSGJiTTdjNlpLVWxDUDBlZlZHcTd2eVVpaGVOaFl0bmo0QnVHSEJuVjBYM3JhU0dBaEJ3UzU5QUliOVhXWU1kWEtFczdDdkhEMHJmT003TENOUGdTS1M3aENiUWhIbWtkNEhWbmhxYkZ2Vi0zclpsZ3lnajk3SXJ2YmtQMmZaTVVfaDA3SlBUcFpGdXZPSlY5bWozN2xoUlZB?oc=5"
+      },
+      {
+        "title": "Media: Elon Musk pobił się z sekretarzem skarbu w Białym Domu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVktaSWVXVEtyOGZPRlF5eEhYUm1NcWFTUWluRklkRUR1ZE5BckhSdkJxYWVtU1RVQUdMbVAtbExRYmxndTQ0TGppWGtWWEQ3bXdiRTFSODA3SGI1TEgyb1lmam5KWkRpV1JUNWktUVNzM2FfMFYtMl9sVzQ3QndUSjNzT0tMRUp2Z2hOX3QyU3FKdjdNR0ttNTBheVdqMU03SzNwT19Ud1dLTG9kaF9Z?oc=5"
+      },
+      {
+        "title": "Andrzej Duda zwoła Radę Bezpieczeństwa Narodowego. \"Te pytania chce zadać premierowi\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2V2akJMcm55NnduN3NVZUoxMkdaZlV3RkVYcjNWcC10QWJkWmdTQXg2ZjJwSGNkTU92ejh4Sy1hMjdlM3VDOGNCS0JQcnY2bDFRS1ZCY2tLWmJTY2l0ZTZsSlgzMmxORy1MRFZWSk42cDRGRkJ2VWU2Rk05RjVjX18tQnN3QzlGT1FON2J2aC1aLS1hSUEwSFowNUJ1bEZMejFTN09wU082ZWdFRUNBYmlHem00blRHd1RHZW1KUQ?oc=5"
+      },
+      {
+        "title": "Nawrocki udzielił wywiadu węgierskiej gazecie. Mówił o Rosji i Ukrainie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2RiVjdENC1JSnV1VWxnVkFJazFuSDdGdU9iWGZHRGZvQXJQRFdVZ1BOSkxOWU55NUxSbTRnaVNrUlZOcWduOVllVXMyN2lEazVyejVQNDJDb1MyN3BLZ3U4eXozVWRhOHRkY29TWE0yX2RhNC1pQ2hQdU9JaDJXVUljM0JwcThSUUFnckQxYWU0bHFTaG5XQTdJTzY1S0FUTnJ6TjhtcGdVZw?oc=5"
+      },
+      {
+        "title": "Niepokojący komunikat z Moskwy. Chwalą się sukcesem wojsk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWN0ZE9LdTQwTHJnaktLUEhsbkFDanAxdUFOd05TNDBLQjZCSURaWk9rZGZZcDdWaGlUOFpTVlZDQThMNzBSTl9XeFFMcnppZ3ZWRlhyckxDY280c0lkTGlzaHROLWRTV21zQnJkcjBBb1FfVXZUQVJXREtZb2xfc2x0cmZRZThudVhkYmx5V2dVaW5NTHVySjF6NE1nRUlCSXNKcGZHT3Q4QjV1U3VPcW1RRmdqcjJNdHM5aFVOV1JDajRmUWZF?oc=5"
       }
     ]
   }
