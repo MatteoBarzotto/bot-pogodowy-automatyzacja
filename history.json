@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-06 19:13:10",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 394554,
-      "DOGECOIN": 0.679439,
-      "ETHEREUM": 9403.69,
-      "LITECOIN": 326.27,
-      "RIPPLE": 8.18
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Kolejny skandal w komisji wyborczej. \"Doszło do poważnej pomyłki\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjJRM0FWeVdPQ0hfNmlyNmJGc3RKSGdiWmNHWjU3bVRlYlBnaVpmajFMeDBmN2VDSE4wZ19STDVhbUlEQkVONm8tRnJQZHp4bmVZSXQtTGFFZlg4aHl0QXdqUFFNS1NOczBDZmtPU1pmR25NVW1neGxNaVlWOUF2M1BkeW5MbFUzdjN3QUhqZ0NaMU9sdDJWQm4xN0hTYmxXbUpmOGhCTUpJbXVsb0puTWRJRVRscl9Sbjl4V1N3?oc=5"
-      },
-      {
-        "title": "Donald Trump rozważa rozstanie z czerwoną Teslą Elona Muska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWdORUV1V3JhUVFmUVM2NmhrT0FIa2k4cmNLQm9keDhUMWZGX3Ewc1dOOEJ1ei1ISVluaWNsbWtPdHFVRy05TFgybktfM1pTS3hDejZLdGR4Y2xSTWhrZzdEWnJ4cTBHMWIxM0E0RXF1a0kwckRXeU9IcDhhMTNqa0RrYzU3bEVHMkJjY0ZFd2pPSWdtZkdRVF9aUU5ET0F4cmFhbQ?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski do koalicji: to się musi jak najszybciej zmienić - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUxTZldHSTB4Z2NpOV9vV0dRR3hNckN4OGp4T2l6cmhoaXBJM3VhX2Nic0VhNjNnUFlmbm9DTHZHMXN3bWwzY1lRMWdqc3ZpcU1OV0tTdmZ5VktVbThpME0tcmRMNjhFYjNSMGpNaWVIVDNHcThCZFdNQmdzcHp0XzJTcTdUT0tzV1JOaHF4ck9jUjV3eVA4dm9SdFh3V2FQOVh4R1FCT0RmV2N2MHdfc3E3RUQyM29nUUZacVJORWRIWVlzNGNz?oc=5"
-      },
-      {
-        "title": "Black Hawki „przesunięte w czasie”. Agencja Uzbrojenia wyjaśnia - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2xaZkxpMWMwU1JBbWFMM0FhT3JrcC1oUjdSUVNzTzhJbkpfTUd1T2lYck1XV2RleTFEOE1IbHc4UzBndThfLWw3SzVjTVlXRDlyNnRYcGJHVzhpc3JiNDdldGlBbW9nemt0bl9WaVhsWFh1QWVzZDRRRlloSE0tVHFBanU4RHVHc3JUOEJGYlBJandBZDQzbjVR?oc=5"
-      },
-      {
-        "title": "Strzelanina podczas policyjnej akcji pod Biedronką w Bolkowie. Ranny policjant - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTJDVlQtblRGUnBGYS1RZW5yMTRULU1KMjhjYWlxRGVhYm9lYzd6NXJuVU1vWWhQRzB2MFctUldaa2ZieXdQaC1taXRpMTMzMG1RbmhSMlE0MWNfQmRSdl92QjQ3U1pLYUhyX0RXR2dZNHREdUNPR3FtcnUtaGRvcklfbTVLb1ViTDh0TVdCczJMalpDMVdocEU2XzRNZWxKQ3Y0UXVTT1ZvUzNkNlFJeFJ0eGlOd2ZId2dR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-06 20:19:48",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Makabryczne odkrycie w Tarnowie. Nie żyje 26-latka - Onet",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0lQeWZFd1VqQzMxanpfb1dfX1FuS2JkU3BnNVRPQUJlVk5NMmxEWThLMGUtZzdPbFR1ZVBQNWZwN1FoaTR1ZTUzSGJjV1ZUQWJVQTBLbzU5M0E2TGFNdzgzSHRBYXY4Y0hqWkFKVUtBQkVSeExSVlZWcWg0dGVOMWZVUkRSakVQdGR1elpFcklZUDEtNkpPMkxJTFlBMHZ2X3lJd05vcWhnTHND?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-09 01:12:48",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 397411,
+      "DOGECOIN": 0.69161,
+      "ETHEREUM": 9425.92,
+      "LITECOIN": 328.43,
+      "RIPPLE": 8.49
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "Tak Michał Probierz zabrał opaskę Robertowi Lewandowskiemu. Oto kulisy - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkU3YVpPQ05qSGZocDZ2cE9RVzRuVWlfeEJKNGR5Q0xhMGJsS3VXRnEzVHNrcTZnWEFXNDlSZDNRaEs4UzJaTjlqSDBMeGt2eFhFeFoxOEJtbXZDZHpQY0lMTDhLb1NIMTlyV2k4UUdNMGREcTRxd1QydkFRWEtqTUhXaU5mZHR5YzIteDZnY0VGRm9nUDYtM2ZPOTNRa1FPdEZqd1g2ejl6S1RXcW1mVFh3ZVJWZDVzS1Via2p4WVBfaWkzTlplSlNRSWlxR0Y2TWduWU9xNkNCT0U?oc=5"
+      },
+      {
+        "title": "Powstała już petycja. Żądają ponownego liczenia głosów w wyborach prezydenckich! - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXd6WlMtWlpBYjVJaTM2VWMtSjdOOHpSdGI1LVFxUXFHRGU0SzlKUy15MWM5T3praFRTNko1T3pLbEpUc3RjUEktV25yR0Fmcm8wSHQ2Y1FKZ1VDTnhneHVPY2Q2ZTR6eFVJckpUeUNwRF8yOXlzbEEzd1pwbHRwazc2Vm9Wb29ub1JjTTItWHhBcFFuVnFPSld3?oc=5"
+      },
+      {
+        "title": "Masakra bombowców Rosji. Dron wybrał cel z drabinką i szukał czułego miejsca - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDFtNGdlRGFsME5hSTJKd1FyZVNTd0lpUmVFVk9kdXYwTGdWYjVrQzg3YzhlTllQS1BkUE80OWZ5ZkZ1LWVYTDlRWHhfWUdjWVhCd3JIb1ljTUVtT1lxUjFiRGczX3J6SGJmb19qUG0zbUtRNWQzQjlHZjVLd29vdU5KVFBPc1lhbFg1TUhydHpaNHVKdjNGa2VaMms1b2ZFd2I4S3EzVGpKcVZ4V3BaaE5yUEFWRG9Z?oc=5"
+      },
+      {
+        "title": "Znaleziono ciało młodej kobiety. Policja prowadzi działania w Tarnowie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUp4RGFTRnhhY1RZY25mcWY5clhUMDlkUVBUTVpDWml4SHRhUGZvb1c3UTkwd1F6SnlaVEF4RXlzbUNQTEZEUjVuZWMxYjlxSm51NTlRZXBZbU9Gc25YdHNJSGtMcXNFV2REMXR5TURRLVJid1FFb2FUeWl5VFpFS2VheFpXTFlwcXBZaHpqZzQtUDE5dFdEcDBvaEE3QQ?oc=5"
+      },
+      {
+        "title": "Niepokojący komunikat z Moskwy. Chwalą się sukcesem wojsk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWN0ZE9LdTQwTHJnaktLUEhsbkFDanAxdUFOd05TNDBLQjZCSURaWk9rZGZZcDdWaGlUOFpTVlZDQThMNzBSTl9XeFFMcnppZ3ZWRlhyckxDY280c0lkTGlzaHROLWRTV21zQnJkcjBBb1FfVXZUQVJXREtZb2xfc2x0cmZRZThudVhkYmx5V2dVaW5NTHVySjF6NE1nRUlCSXNKcGZHT3Q4QjV1U3VPcW1RRmdqcjJNdHM5aFVOV1JDajRmUWZF?oc=5"
       }
     ]
   }
