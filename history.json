@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-06 17:12:29",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 394876,
-      "DOGECOIN": 0.686414,
-      "ETHEREUM": 9485.98,
-      "LITECOIN": 326.09,
-      "RIPPLE": 8.21
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 241.79
-    },
-    "news": [
-      {
-        "title": "Ustawa o jawności cen mieszkań. Jest decyzja prezydenta Andrzeja Dudy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlNvckIwMDIwZWpfVnJqQzhFcDRPYnNleHNTclhJeGVaWHdWaThXTGFNYlNxSGttVGh4YzNNN29wQTMyQTFUc1Z4Sk9yZ0tEUjhyVFR3TnVXeUNMUTVJNE9jak5DMjJNSUdmcDByRHVNdHlRWHFlZ2pwemVWNmYtUURoM0g1TDVpRVBlb09va0k3RF9FZlhsell1eE1yVVJic3Z6ZmZSd0RJWkNLeHUtZkY1UUdtY0daSFE?oc=5"
-      },
-      {
-        "title": "\"Powinni go deportować\". Były doradca Donalda Trumpa o Elonie Musku - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3pyc3Q3TDkzQTRtelZvRWhLVnEwYmx5clBYTklEQVRzMGFoVXpyZ3NEN0huOXlfUm5QSEtqY1E1dEw4eDR5bXhNbXZ4TXBLUEJKb29QenFtZHVvbGRpZG1qNy1uZXFxVk5FMFlDZG90RE0wR1ltdVFxWnl4QVdXTVNRUlZrUXJqWW1WdnhNbS1vOHBlZVd5M3RhSWpsenJ2bExVODdJVzRDQ05BekVTTWVRaVc?oc=5"
-      },
-      {
-        "title": "Przerażająca noc w Ukrainie. Zmasowany atak Rosji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVBQNG96OEVxN080ZlAzWnI4TnVkYXROOVpEYTd2c0Nzd3l3NmhwSmpoRVR2TXIwTW1OcWUzNmxSNUFCcExxalBUdE53aHVxcDgxdHMwYWFqTjBHQ05xcE9STVRDanBRZC1NdG1nWEV1U0tzTHpOc0c5LWl1Y3lmOHd2WGdlc0JfbjRaWUhiSmNDejJFaUFZ?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski do koalicji: to się musi jak najszybciej zmienić - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUxTZldHSTB4Z2NpOV9vV0dRR3hNckN4OGp4T2l6cmhoaXBJM3VhX2Nic0VhNjNnUFlmbm9DTHZHMXN3bWwzY1lRMWdqc3ZpcU1OV0tTdmZ5VktVbThpME0tcmRMNjhFYjNSMGpNaWVIVDNHcThCZFdNQmdzcHp0XzJTcTdUT0tzV1JOaHF4ck9jUjV3eVA4dm9SdFh3V2FQOVh4R1FCT0RmV2N2MHdfc3E3RUQyM29nUUZacVJORWRIWVlzNGNz?oc=5"
-      },
-      {
-        "title": "Pozamieniane głosy w komisji wyborczej. Premier zabiera głos - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWl9yNjN2SGF5VTR0WnNVbG5JSmw1aW95ajMycWlMWlB4NkhITmtLakw1V1FBREJCS2dSRFhxUDhJNkdFSW82LTJZLXJTWTg4ZUtFazRfVGh6UExzdkk3TUJCal83VDJwcmdyVmJNbGQ0T0U0LVk5N3Nvbk56RDYxRTd3clNKdWFHS1Zua01BTE5oREhX?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-06 18:18:13",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "„Tak wygląda upadek polityka”. Prof. Antoni Dudek ocenia, co czeka rząd Donalda Tuska - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3FlZ1IyTXpQSjNzVEhpTzFGcUp2N2h0eEFSQnJvYkJ6QU4zSDJ6Ml84MlZBaVdqekxDN0c5dHRuZTFhSTNVSDJlNXA3ZnVxLVg1SEdBOEFSZFBrZ2tVTjhtOGhZckZDQUUwTTdyc3RQWXJtaDZtbkxoVmtOZHpwUFJfdFJaOWU4WjRaVWQ1Ml9Deks0blAxenAwWjdlTGtkWmNmdktIMU9ENldBYmZoeHNZT09Fa3pPbGJr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-08 23:11:53",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 399574,
+      "DOGECOIN": 0.699203,
+      "ETHEREUM": 9535.01,
+      "LITECOIN": 330.8,
+      "RIPPLE": 8.59
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "Lewandowski stracił opaskę kapitana. Szokujący wpis Glika. Zawrzało w sieci - Interia Sport",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVBWU0dvVldIRWJpS2VvQ3RGSUo4T3h6OHNVQ3lHVGlQWWI2T2lTWlJvLTNKTEZnV3JORVdQcjY0eVdEZVBtN0JXbEoyX3JIRGJkT2QwMF9DNHpIZ0hWWUFEdDZ1YU5tU29STG9obERQOGVsX1Zrc09RMFFMZWlqU2JvV05LSUFIMTI2bzQ1Mk5tMXFZekxGZ0dtQThER0R3NmkxX1FtclNNVlpXNzk2SG9CWjMxTHpqYWxHUE5n?oc=5"
+      },
+      {
+        "title": "Sasin o Giertychu: Jest człowiekiem, który na pewno może się bać powrotu PiS do władzy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1JLRHVCWW1xOTdVajB5ZVZWTWpNNTJDQVZXZUxmYU9xb2JOQ3Z4Z2lPdnVpazBWN19aWGg1REF1Uk0yWThxWUQ2RmZZc0ZUd0NMUlcyRDBKZUlZcjNJUXF0YmdyNHFLQ0ZQdjVYUXE3YjZWaW5jbDIyR1MwZ1BBNE1LcXpZRDRRSllBWUJHYmZ4eGNLZWJlbHVSMlV5TlRfc1VISDFCVjg2YWo4RXQyNTEzd3dpNmNJa1ZzMmtTMkxQc2pPRXJuUFFRTlY?oc=5"
+      },
+      {
+        "title": "Jak PiS oskarżał o fałszowanie wyborów w 2014 r. Fundacja Batorego pokazała, że można to zweryfikować - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1FOekFOZWpYOGNmOVRHVk5TQjllOWY4Y3k1MDlOeE9jWlBSdnZITjBSaE5wUEdCalI0UHBzWnctZERQazVLRmhqRnp0ZzR3SzFkLTl6UUl5TUhkdUh0ZXMwQm9SV2lURVh0Vm1JOS1RSUlvU0lCZEdZakFuSjBuaTQ2OEZ3RDg?oc=5"
+      },
+      {
+        "title": "Panika w Rosji. Ekspert pokazał zdjęcia satelitarne po akcji \"Pajęczyna\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHV4RkUyMXJZc25nT2ltYmQ1RkRZSWYyTnhZMWNEYldQMjlKSWxaX1RTUEY5NEU1WmZZakF5UU5UU043SXJMaXQtMXJDc2xRU01MQ010MlpKNEZYaWV1OWdZdGQyNWZnQ2I2eWZYYlowNnJfRzF2VVh1WGVpZlVQWHVKN0hkc2RFS3VSckF3?oc=5"
+      },
+      {
+        "title": "Pokaźny majątek poseł PO. Nieruchomości warte ponad 1,5 mln - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV01vdi12dXNXQUhhOVk4UGdQSy1NZXV4Yk1sMGtMOEp5MDRoaUpnbFBjcVZHXzNBMWNMV0l3bXV4VjIyTm9nLWNONVpJMGdfdlg1RXRDb2FVZW1kVlhRb0Y1OHJ2R1c2UjQ4NWdYcEs3SmFxUmF4bWd3QlZLVmhFS2tsWnRyM0JhN0ZCVWQ5dkV4V1g5QmdOd2RB0gGYAUFVX3lxTE8yRG1rNzVYc21rcVRhX0oxSWNxWEhsZDdtMlhJN0NLc3JNSFl2RGt3Z1FpVTVXdEJqUkpmbXpSREk4d005OTNGcmdYX0NwcDJtakY1X2JFSmtVY0RKbVNfdmNYS1JhMW05NFk1R3RmcXlxaVpIREZ0TzljTmVrM0FsMk9LUW5aQUZrcEJILVFJOHZCRG82TGNh?oc=5"
       }
     ]
   }
