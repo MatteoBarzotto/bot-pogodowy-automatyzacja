@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-07 00:13:04",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 392736,
-      "DOGECOIN": 0.675862,
-      "ETHEREUM": 9377.09,
-      "LITECOIN": 328.2,
-      "RIPPLE": 8.17
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Tak Boniek podsumował mecz Polska - Mołdawia. Zaskakujące słowa Reprezentacja Polski - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1VjWXJXbkRmYkNUYzJNOUdFRzJtVVlrdEJDVWpDY1loajZON3hKYXdqN3hUdzVfZU83bk93WUpUNjZrUFExdlBTZjJ2OWcwRW5xUHFBc0pCd1RxTUpkT3VOLUJJanhWRWlHVk4tR2N3TnVPd29RM2h5c3NWaXJfTE9mMkRQOXZGaFU1QmFlWnc2TUVsSnJyQVY2YnU3ekM2OUktOEtZdFJ2UWs4LVE?oc=5"
-      },
-      {
-        "title": "Anonimowe wypowiedzi zirytowały marszałka. \"To już nie prośba. To żądanie\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFVtXzdsUWxzS2FzUUFMR1l6MnFsY3ZKZExDTVZaTHNweVczZHhFbDdiaG9DbERrbEljaDJvbm1HWjF6YkE0TlA2QmhEdDdYMHBONnI5QmVxZHJxTElBc1o0R3M5VG0wT2lzUXJmR3pNb3h6anFCMlg1eERyWmtsMjgzcjhhVS1CUDNza0trcC1IUXV2aXZ1UEg5R1o1LVEySkdKLVlfeTdDTGVGQXlGYjBn?oc=5"
-      },
-      {
-        "title": "Kolejne miasto. Zamienili wyniki Trzaskowskiego z Nawrockim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHhuZjFLMVcta2hrejNwUlBqMktYMFJnTUVPUHBzQmozOGhuN1ZaMURia1plU09GbjdiUWdXZnNkbG1JdWRGeFQ2b0NFS0h6dlMtNFpacElBZWpuVEFiOGxQQlNXNDk3ZndnNVZ5dm9laTdHbnVoV1lCWlhBYXRkQjd0WnRhc1lTa0p5Snl5Y3ZHYkg5ZUJHQlJBOGVmQ1Mxb3BZRFZXdjVCUTA?oc=5"
-      },
-      {
-        "title": "Donald Trump rozważa rozstanie z czerwoną Teslą Elona Muska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWdORUV1V3JhUVFmUVM2NmhrT0FIa2k4cmNLQm9keDhUMWZGX3Ewc1dOOEJ1ei1ISVluaWNsbWtPdHFVRy05TFgybktfM1pTS3hDejZLdGR4Y2xSTWhrZzdEWnJ4cTBHMWIxM0E0RXF1a0kwckRXeU9IcDhhMTNqa0RrYzU3bEVHMkJjY0ZFd2pPSWdtZkdRVF9aUU5ET0F4cmFhbQ?oc=5"
-      },
-      {
-        "title": "Andrzej Duda rozmawiał z Donaldem Trumpem. Zdradza szczegóły - Interia",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWpZV09Vc1NZYTc3dDU4UGhkTWZ1OHBRTmE1Z2hEQlc5Ym5uNDhUcUR4VXZRSE1TclRadUJRVG5rNFJQYWJKQUJLOVJsTmtJamNnTHdoekdWUk9LNVJXSWo2ZXgwTU52NmVXa0JUbjNKMVFWN1dwNGlDZ2pkOTRpWWcwRk9zSHBBRTdJQ2M3YXlYSUNESFMxTk1rczFrR1hHUm9EX2hEM21scFFudkdfMFpn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-07 01:13:14",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pogoda nie odpuszcza. Alertami objęta większość Polski - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRThsWkxsbnp4bW9nNzNrSEZkaW96bnN4aVMwa3NFdWNLdFpYWmVKSkxuS3NnRUNOcTlsMlJGODZCTEpzTXB6STlTdVJHbXZ5M1ItTFhHMDZNMDhuTWxUMmppWjBrR2VQMDhMTnNCT1p3S3I0VEFUTDk1eTBUN0lUYUYzcEZKNUFRckFXOHA3TXhldlFIY3hRYTc1TnBzUkRLOXM2UDZXRnZUNzdOdkFDeDJNZVJEOHpjeG9FdTIzUDJKVGp5bGtkSmJSRGMyRzRPaUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-09 08:21:52",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 395939,
+      "DOGECOIN": 0.67888,
+      "ETHEREUM": 9324.4,
+      "LITECOIN": 326.99,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 2699.85,
+      "^WIG30": 3502.98,
+      "^WIG": 3502.98,
+      "^NCINDEX": 242.85
+    },
+    "news": [
+      {
+        "title": "Michał Probierz wrzucił granat do latryny, ale większe pretensje mam do Roberta Lewandowskiego [OPINIA] - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOVZBN0l6NFFLSmhpc240TlhtNWVsVENmSWVLSEgxaEUtTkdsZjRVZFd3SWdTNFhTQXdaa3VRazU0Yk9aX1owWUtIbHZ0dkdlTV8yUFRpQmpua19UUWV0aEhzRFBuLUcyRWxFYzNMTkVvOEdBb0NiWnU3dm9VbFFQT0JlQjJhSmVReExxQzl4c3gxVTlXMF9XUjJjSXRGRVVMY0FSUTYtd1g3OHBsaktYa3Y1T2txUUJiMU5zS3o3RHk5eWxkOWttR2RtR3R5SG9RYXFGQmpVQl9SdVd5ZVE?oc=5"
+      },
+      {
+        "title": "Powstała już petycja. Żądają ponownego liczenia głosów w wyborach prezydenckich! - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXd6WlMtWlpBYjVJaTM2VWMtSjdOOHpSdGI1LVFxUXFHRGU0SzlKUy15MWM5T3praFRTNko1T3pLbEpUc3RjUEktV25yR0Fmcm8wSHQ2Y1FKZ1VDTnhneHVPY2Q2ZTR6eFVJckpUeUNwRF8yOXlzbEEzd1pwbHRwazc2Vm9Wb29ub1JjTTItWHhBcFFuVnFPSld3?oc=5"
+      },
+      {
+        "title": "Poderwano myśliwce. Dowództwo Operacyjne wydało komunikat - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcThOZ2kxZENWN0hHVXAxVlRlTXdVV3FsMnF1NWNoU1YwVTFPVXFSWWhQZUZpU2hSWTQwZVRyaUU1YjhqTFRBT1RERnZXRW9ERkJMR0tvZkNCWVk3THJ3dEZLLXRSVlFkNGlISEtiOXJWSldUWGxNUlVqZzdCa2hISEtGTnJMUnNoT09aSWpIWlZJMDY0Nm9EejlVR0l5UTFjZUpOM0tR?oc=5"
+      },
+      {
+        "title": "Klęska programu \"Orka\". Okrętów podwodnych nie będzie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVYydVZaSDZJWDlGcjk3MEZpaW9OeThNNEVDYzlZd3I4N0xOaFlmdXo4aWkzWVB4QjJ0UVk0aS1yRkliTnlkMTY0dHctNmpWaUVWSW1FM25HZnhzWndQc2ZCWVdyZzNJQWt0Qkx4TVdFZzQ2dEk0ZDFQbjk5aDd4S3BtT1kzdEs4aWhOaGFjOHhRVk9lWlpEaw?oc=5"
+      },
+      {
+        "title": "Rośnie napięcie przed lotem Polaka w kosmos. Po tym, jak z ust Elona Muska padła groźba wycofania rakiety, wszystko jest możliwe - Portal i.pl",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMmFDQXRoRUN4RTgxZG1fM1k0cjZSQWlPYnZrV0pJSFJyaHBwTS1meS15REU0bVl0MVZjR3VDbV9lMTJZaEtyeWg4emRqcHdoUWMwcHNOV19WMVNOd19pRXh6WmNzd04tb2dOZzdYTkdFdmJ5c1RWUEZWS0JoRkRCSEo4cDBpUHZfT0plLXRpZkhDbUh4RjU3ZVpNSkNSOGxZYnphU1FkSmpsYkNmSlAxYUZ4b2d4UFdBOTFFM2JuZkNLUlRBd2FwakNWTEt6TXd5UHZjSHNGV1Z2bkNpX0U0bTF1U2k0TG9KSEpv?oc=5"
       }
     ]
   }
