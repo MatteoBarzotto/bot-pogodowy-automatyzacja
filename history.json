@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-07 12:14:06",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 394560,
-      "DOGECOIN": 0.697057,
-      "ETHEREUM": 9357.74,
-      "LITECOIN": 330.94,
-      "RIPPLE": 8.2
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Gwałtowne załamanie pogody. Ostrzeżenia dla większości kraju - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGNEZU9tSDN0dnlLd3IteWpoLXB3SFJZZGFNZ3BNdzVWUTE0RXFsRFI2WEpKbHZteUUtTDB1M2RWZVF2UVZ6VDBwbzZNd1U3d01xTGdFdVVtV1hsSEJQUmhDLVB6MzYtTTZrelQ5blh4c3YzSWFTOGZGS3lDcHB6T0ZPTGdfbTdLU29ld0lkMUsyUzZYYXM2R1VCUVZ6RVA4a2JVTnRtUUZnTktBX2d3dWIzUjM?oc=5"
-      },
-      {
-        "title": "Cztery najważniejsze konsekwencje rozstania Donalda Trumpa z Elonem Muskiem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZkFQeng5NnR6X3ZqSl9OcGkxd1ZQMldibXJ6OTl3WTZXTDY2Z2p3dVFreGNnbGVLRWpzdGI5emJFdXE2ZDNVUFdncnJ3UEFiTjhKenUteHlQSm5uTVV1M0hfaXJHREtkb2hLeXloSGFreUxwUkJ5RV9fd1hEa3d6eVVvZEE1eGhkd2s0Z1paVnMwWU92dG9vMVdqd05haDN5QW9YRksyLVgxTm9VT1dz?oc=5"
-      },
-      {
-        "title": "Mężczyzna zabarykadował się z bronią. Akcja antyterrorystów w Krakowie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWm5CV205RzZ1ZncyZy1JdWZHUTMwVE9NaGs1MzhjUUlGRFkzbzZaQ3M5dWU0cjFxWS1pSXZDeG1pTXZSN3kyT052SnlnQ3pDT0YxOEpodjFGdmZiZVBrSTZhNHdERW9BZk5tU1R2a3dLZTFvUzZTU01Nc3JfRlJUWVpyRG5iS0tCYVNZR3BMTWJxY05EdU1LYll4OURqNlUyWW9vaXloU1lvc0RvQnROZzNVRmppMW9lUlRVQmZxZXR0aGJuYUlj?oc=5"
-      },
-      {
-        "title": "Zapytano Polaków o Andrzeja Dudę. \"Cios na koniec drugiej kadencji\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVF1Vi0xRkNYaGlLY2lFNGFtWFkwVzBiR0lMR19Ib1p2a3FKaUtqTUw0THo0VDZrbDIzTWcwY05IV0dvcXN0YlBXUmxldEtJQzVHRk1QeHJ6ZklkVllDdlRHN1BuOFZlNzlvX0ZpRTNFRHBVTEdKclZxMGxOZldBZ3NUcU5GbnlsejNjbXF6M1VQZFBQbXZvazBEYXdIMk4zckYzTUdn0gGiAUFVX3lxTE93NDgwcEt3U2dVYnB3MzQ4eWxSV0ozSjJ0SlRTWUotalVxUmItZFJUakRiUDdSVnRZYUNmLVlxdmJTbXVtZ2VzWEQyYmZtR1RJaHlCclNQckJqQ2pzV1dxa1hGcEEwOV8tX0ZCSFM0V1VRUjRVclNJcTJweUhyLW8yZmhFaXpXTlhaaS1yZ05IRGgyLWhyU3EzZ2w4N25HdHFVZw?oc=5"
-      },
-      {
-        "title": "Nowe przepisy o przeliczeniu emerytur. Kogo obejmą zmiany? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdk1Mc3JhckZlR0I1QjAwckRPQy14b2Nta29EVXVEeFRleEFMVk5FZ0NhQUotY0VSaWZRbVJvNEJLMjhScnZRSWtfV1hnbURKMzFKdnc4dEhHVzdkVzlJazdQNG5sZEJldUV6cnQzSDVPV29TMjRsanR4UU9UWVp2bnFVbVd1XzVkMWhnUlJBTzN3a19tQjMyUkVqaVJoT3NNZ1lScDEyRGJWWUQ2cDdPNThadldFME5Vb0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-07 13:10:40",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wybory prezydenckie. Andrzej Duda apeluje do Polaków. \"Nie dajmy sobie odebrać\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUp2N21oWG42c2EtU3JEXzlwbFVZVTk0LUo4Z2NwZWFISFdQSG5GQzlhaHJBZW5kZU93dUxZSEEwNHJrM2hQc1pjNnpHbkRBTi1TQmxXLV8zSU5rWkQzUS1qd2NYOXdvOU9Hc2c0bkJ0TE16dnN6OXJuLXptcGRWR1NhM2ZfSndlYy1WUGdJYzBqR29QYjBpOTVZaFNuTjh4MFJ1V3Nn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-09 18:18:07",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7427,
+      "EUR": 4.2772,
+      "GBP": 5.0798,
+      "CHF": 4.5628,
+      "JPY": 0.025961,
+      "AUD": 2.4428,
+      "CAD": 2.7364,
+      "CNY": 0.521
+    },
+    "crypto": {
+      "BITCOIN": 403197,
+      "DOGECOIN": 0.691832,
+      "ETHEREUM": 9501.46,
+      "LITECOIN": 330.58,
+      "RIPPLE": 8.47
+    },
+    "indices": {
+      "^WIG20": 2732.67,
+      "^WIG30": 3543.56,
+      "^WIG": 3543.56,
+      "^NCINDEX": 243.15
+    },
+    "news": [
+      {
+        "title": "Żona polskiego astronauty: Podczas misji Sławosz będzie prowadził badania na własnym ciele - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUNISHRTYlVJeXVLbGZRN0IzdkhOeHJzN1VOSmZudVNMTEpLekt4c0JPRHBidERaZVNiRkIzdDEzQjBaMzVwNXNrXzNVVy16dG9jZVpNeTdwanJZdGpzRjdiWkxmS3Nxb01Mb01zMHRlRGZUUklGcmYxakVIUVZGN1RKZWFxTkF0Z2lrQjN3a1ZtemxHT0I1eDJXR0JzMVBYbFdsZHp6ZzFpTlk4MG82cXZNSQ?oc=5"
+      },
+      {
+        "title": "Granica przekroczona. Piłkarze nie wytrzymali! Ujawniamy kulisy decyzji Michała Probierza - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdHAxajhldEcxNWg1c3VVX1FOR1RGUVJPZWFpV3ZpWkRHZUJqRkNFQWk0NWZjUnprdjRQZXZSclQyRGxpcVRDZkdZRjZXWVRDeVpwbW5GeEt1QmxuOGlEbW5ucml4WlBEZzJ0NzlHbFJxQmtxN2UtZU1VOWQtNW95NFJfVVh2VEdPZHd1NkVPS1pUdDM3V3E4bVRXdDN4OHpCaHNQdERUeE0zVDl4Sk5ORkFjOEE4bkhVWjFGZ0VMb1VlQUtHdTkzd2hUa0pLNEJVVjdZX0s4cG5UR0hLbnE0MFhaOGtidw?oc=5"
+      },
+      {
+        "title": "Rośnie napięcie w Kalifornii. Protestujący walczą z Gwardią Narodową - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJ1QkdKSHpERkZxZ1RZRUxzaHk5aEtCQ0RsTE84cTJVRVFNcG1TbVVuNmpmVFc5RDBlQmdCaDd1R1BmRkdpWEtKRVZwbjRoWGctZnBZWDRDTXNhMEJuS0dPZ2o4UmZKODlsbFR5cE5YLXdKaUljTFZUZUpHNVZMRjR4U192aEh5WWZuMXQ2cUo2eDFGTnFTSmtUWndJS0dWYWpiN2xWZ0VOa3V0UGdr?oc=5"
+      },
+      {
+        "title": "Andrzej Duda bije na alarm. \"Chcą przekręcić ostatnie, rozstrzygnięte już wybory prezydenckie w Polsce\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXNoUXkwaHBmS1JXNWxrb2pENWRvTEYtVkJOSXdja2ExZXpVdDlWcldDamhJcnZNMl9qRVA2Q2R1T3ZtU2IxdXpVdU9TYzFIQjd6d0JTd2pzeEFfdjhvbFhucHBPR0dmbTBSUndnZk9VQUxPcDhVUXI5cXNRNWtZZ29QeTVRc29sbWZEMndtVmJ6UjQ0VjJ0S1ZxU0cwdFcwQ3UxaTY5OURWOGcxYkJfQVhCUDVFR1JGS1VuMnhDWm9Lc29FcWJYWkNjVTk?oc=5"
+      },
+      {
+        "title": "Prof. Migalski zapytany o \"fałszerstwa\" wyborcze. Wspomniał o Kaczyńskim - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzcwMllHaUZTaDczZ0wzTGU5eTBsbGRYMnhnb0F3cnpSVS1qdzlDWUZDck11Q1lvS3ZDcTlMa2IxX29rWXNtVGJ4SVZMMktXR1dOU2oySkZDaGNFY0Rmbll2Wnc2R0s4eUphVUppajZJek81dThDWVh4VzEzYmZvUjhoTGkxTG03dVJ4T2RqM1RvTWo3ejNvTzVOLTdRNmdtVV9GMFVUeEg?oc=5"
       }
     ]
   }
