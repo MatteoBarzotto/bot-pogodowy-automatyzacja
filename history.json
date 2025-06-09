@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-07 10:16:30",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 394678,
-      "DOGECOIN": 0.697477,
-      "ETHEREUM": 9371.01,
-      "LITECOIN": 332.34,
-      "RIPPLE": 8.22
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Mężczyzna zabarykadował się z bronią. Akcja antyterrorystów w Krakowie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWm5CV205RzZ1ZncyZy1JdWZHUTMwVE9NaGs1MzhjUUlGRFkzbzZaQ3M5dWU0cjFxWS1pSXZDeG1pTXZSN3kyT052SnlnQ3pDT0YxOEpodjFGdmZiZVBrSTZhNHdERW9BZk5tU1R2a3dLZTFvUzZTU01Nc3JfRlJUWVpyRG5iS0tCYVNZR3BMTWJxY05EdU1LYll4OURqNlUyWW9vaXloU1lvc0RvQnROZzNVRmppMW9lUlRVQmZxZXR0aGJuYUlj?oc=5"
-      },
-      {
-        "title": "Ukraina nie daje za wygraną. Media ujawniają nowe plany osłabienia Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnV4empKRDRCTnRWRGx0X2RzMk03TkI4dE1vYlNEM2t3RzdXT0E1VzBRY1VMbWRyaEtsNWg5OW9Kd1NrVWFpM21KMnJSdm5tdTRYMHFNMlduNVR3Q040WVV4aU9HWVVwLW9BOFZGeU9oalk3c3U3SlVXZkVIQ3RGLWRVZl94X2FDakIyYXB6S0UyZVNNaFhIdUhhdEZKaUhORjBEcHRVS0pZXzMxUktjdHZEQmh5VVA3d0ZnaXVB?oc=5"
-      },
-      {
-        "title": "Potężny atak Rosji na Charków. Największy od początku wojny - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDViNnpWM3Q4NngxSC1wWHZOS1NDaGluTUM1QlpzS0FKOWNLbU1kTnBTUjQxU2REMDBBVUd0MlQ2REVmTU1POUhUOV9EVmhIQWdUQnBpcjlPdEk1bExsTWdIWHd3STFBakJJenJIdm5aYTNrTUJ2MVlIUmRjc1pGT2EyTmpVdjZBQWh0N2pVZ04yR0UtbzBLc0l0ZlZGZWt3Q2k5aFZzS0UycWlMa3ZDeVdpeDhla0RmeF9XZU9rM0pyb1ZfUUZPag?oc=5"
-      },
-      {
-        "title": "Skandaliczne słowa Trumpa. \"Ukraińcy dali Putinowi powód\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlEeTRFYTM3WVhqajlkbXRfNHdRM292R2hfdlkteDJtYThPNzY3TF9NWFB2TnY4ZHRESmFWeTB3djRPdGhKcmN2Vkx2RTNRbjZ3aGxSX3JxYTVTa1RmUUQ4SHhLNV9DRVFMcUVyUHVMektUbm5NVFpHRW9Yd1cyNGd1NlZQRk1RLTMyVkRLaUpoS01TVGJVa1N3VWJHUQ?oc=5"
-      },
-      {
-        "title": "\"Cuda nad urną\" nie tylko w Krakowie. \"90 głosów na Trzaskowskiego położono na kupkę z Nawrockim\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjdRbF9BVGo1eDNXR1pkU2FEZG1oWEd3NWx5TF9sclpaaGQtYUJHanBYTjBhUXMtRzdRNHFXYTBGWm9Wenl6Y2d4MnRJYy1jZWt4UHJVV3VlZ1JhQ1hKazFJVFNSblJ2WS1PU2VaZDFFREt3NnI2ZFZXUWVfT00zUjVlelZ1Y3FGUEo3dnlzOHhMMzJIRnFaMEQ2eWRoVnB2NVlBdnFIaDdscnV3M1HSAawBQVVfeXFMT3hsWWRtUndOdVFyMnN0QzBUTGQzMmhJSjN1SkZ3RlNlSWxaU1pzUUljOVNhRFFUM0V6WDNSM3ZnYm0tdnNNZE1ld011MUJaMUpmZm9fbVl1bjVkX0h5TXRWaGtTZEl3QUl0Yl9vWlkxRVNDSWctTXIwYzZ4UTZyRmhDVDlMNjI1SEE1bVl0SWRYZU5RdFlHSlQ1Yno1NC1yUXdSTGhRWkI4X3NIeA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-07 11:13:19",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pieskow grzmi po słowach szefa NATO. \"Instrument agresji i konfrontacji\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEtVdURkMVZXRkstWUlFZWpLcTFjSHc3YU1TbkdBRXlkR0lDeVQ4cUgtQzBPLS1fcWg5YlU2U3BxM29rSTVJeWcxQ2FSSG83alpmcnJtdTk5eVFndjZ5UTdtdVRPOXhJbVRoUVFGUUpEZjlXRWpjOVdRa0oxOU1Ga3NicmM0T29NVHN6SjJrZkN6TlV3cXFkaHJoWW0wR2VURFYwdFJJQ25oTE45dmpWSFVLQ1Rway1iYkliS3pR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-09 16:14:29",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7427,
+      "EUR": 4.2772,
+      "GBP": 5.0798,
+      "CHF": 4.5628,
+      "JPY": 0.025961,
+      "AUD": 2.4428,
+      "CAD": 2.7364,
+      "CNY": 0.521
+    },
+    "crypto": {
+      "BITCOIN": 401498,
+      "DOGECOIN": 0.686916,
+      "ETHEREUM": 9440.57,
+      "LITECOIN": 331.4,
+      "RIPPLE": 8.42
+    },
+    "indices": {
+      "^WIG20": 2723.88,
+      "^WIG30": 3533.96,
+      "^WIG": 3533.96,
+      "^NCINDEX": 242.34
+    },
+    "news": [
+      {
+        "title": "Robert Lewandowski przemówił. \"Probierz złamał nasze ustalenia\" - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDFHcXlUamh5dlBFYW9zREFTNHJXUm1GYzdtaHF5LWNYZFZCT3JQQXdGa0llLVBzQUs0U1RfRGxKQWk4MHN2UkY5b1p6QURoNG45MjdjSkl1RFdmakF4OEJaZ3VRemJVOFVNZ3FQaFczLXZsLWhrcmNWUlY4ZmF0bDFaNmF0SVB1SDZIak5MSjF2QzF3MUFEYkNUWlFrQ3ktX3JBQmFvU2xXUDBmRm1PdGZLaU9PTGNWbVZWeGU1OFBLeGVoMmVqaURNQTNKeDg?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ostrzega. \"Nie dajmy sobie odebrać tych resztek demokracji\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXNoUXkwaHBmS1JXNWxrb2pENWRvTEYtVkJOSXdja2ExZXpVdDlWcldDamhJcnZNMl9qRVA2Q2R1T3ZtU2IxdXpVdU9TYzFIQjd6d0JTd2pzeEFfdjhvbFhucHBPR0dmbTBSUndnZk9VQUxPcDhVUXI5cXNRNWtZZ29QeTVRc29sbWZEMndtVmJ6UjQ0VjJ0S1ZxU0cwdFcwQ3UxaTY5OURWOGcxYkJfQVhCUDVFR1JGS1VuMnhDWm9Lc29FcWJYWkNjVTk?oc=5"
+      },
+      {
+        "title": "Dlaczego Polacy głosują na prawicę? Posłanka Partii Razem wskazała powód - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVJ5Ym5lQkhJdTROdFZWWUFNSFZXS1Fxb2M4ZElNNWJXdThRdjVFR3B0dzUtQU1UTWdXd1RkOTI5ZF9GOG9zZ3drZnNOQkZTTmkydmRIMHhJQXNXal9QQkFQM3RYaU5GVzYwOHJLUWlvbjdnVVUyWldTVWdhQ25sc3V1SlUzclJfTmdwbjVGZWtsUTRwa29NdVNDLTJzLWlpX3MyU0VQWHAtMEVpRHNaREEtN3pNQnpwWmZXSUxn?oc=5"
+      },
+      {
+        "title": "Czy wybory będą ważne? Ważny apel do prezes Manowskiej. \"To jedyne rozwiązanie\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRnc2pwdDIwdkdQc2c4TDBTQUVldkh3bExpMEE3Tk1aZzFyOUFsRzd6aVZMTVQwM25UczlZUkoyUWthWHFrT21kWVdLZ1prWnZrTlhkMVRDMGRjZ0hqZjEtUzRVV2FFTUEyZURDcVM1aTdJd0plMFhYemRJZ2tfdXh3ZGVJUGE2dWJRTFdOSGtGOHNSYVo1NVFEQld2UE52X3dRSVJkR2xFT0FWSmJuYkVn0gGwAUFVX3lxTE1rT1dYcGd0YlFEWHdvYkpISFNheUJYVzhTVHpZYW1VNk5nVnE3Z0dJUHl4SFRXTWxDU2gyMEVhVDVTRG5sNjdMUTFZZzdLc0ZOZHh2ajFHYzRfTkgxY29EUW5FUDFRa2JoZVBQaTFIYTdiUmZkZk1KSVJSN0diQ3kwU1VZakZQSkpMOG9YSkFIQ0tiVzMteXd5S0NLV0FKN3BmbllodmVPWTJRakZFajJQ?oc=5"
+      },
+      {
+        "title": "Rosyjskie lotnisko wojskowe zaatakowane. Uszkodzono dwa myśliwce - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQODFhREJYNlRGamlDWk5KY1JYTW5KcVA1WWltZTNJMFpRWDlZdy1XczhHcE54Rk5zYUFUQS1nb0R1QURTWXFUSXhadG84Rnk2SEx0RnVzcUFNS0puMTd1b1lzN18xZ3VLY0xpeVk1R3JpSmtfOE40cHREajdUTjdWMjZRVnFacnA3Yy04VDc4Nm5jT1VuanJ5eGhXQy1PdEpmTFpaNzJ5UVVvenVCTTAyQ29BcnVBbVl6ZFEtUDNPNGhPU2c5?oc=5"
       }
     ]
   }
