@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-07 15:22:04",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 396887,
-      "DOGECOIN": 0.704199,
-      "ETHEREUM": 9422.55,
-      "LITECOIN": 332.73,
-      "RIPPLE": 8.23
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Polacy ocenili dwie kadencje Andrzeja Dudy. Prezydent dostał czerwoną kartkę [SONDAŻ] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMFRYUjU4ZmxsZE9DWk9Nd1NkYTI1cW16NmdMS2c1QUJTRnZxYTNKemNyOEwtdW9DWUVaY1U4aGVPcmgwaW5wbHRaTVVWZjdpT29tVk0yX3ZrMExCNWhJQzR5bF9vVFNtZ0VOZG45QS1Ra2JhMFdBTVctSVlhWmlTUk5rNjdMVWM0a3MzcjFoZk0tenhDSXFfWXc1WnBWSWdGLTNvV2RreXpwLTJPcklaaW5Rb0lVazJqN0R5WmtrSQ?oc=5"
-      },
-      {
-        "title": "Minister finansów ucina spekulacje. Jasno o pensji minimalnej - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGkxbWl2SXNya2xqeDdheUE2YThoY3d4RjFHcFB1TnkyRTRycE91c3FRSnJCOU5EdGpmb1RZdUV2NUYxVGlLT1hrTlZqbTVGZkJBSmJLWGJvX0ozWmhjSktxckpTdEItN1ltRW9jVkFxSjdoQnREd1k2Q0E2ZGhQZ3RpOHh6bmRrSWk1cjFZLUsxZVdUaGNuNVlkZko3ZUl5VE4yWnVKWnlOQQ?oc=5"
-      },
-      {
-        "title": "Ankieta wśród polityków PSL w całej Polsce. Były premier reaguje - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEdRcXdzZ0xnMlpjbHFFeFQtWktoNG9JUFhzazNhWmpaMmY3eUJXZnNEdldVcGJWVEVqTnY1RXU3YjIzVlNvLXl0RHNpZG1sUXJheGpWY1ZadUlWQ0g1ODdVZEhwaklPX1JMRWpXSVZwa3ZuQjNObldjRnBLSWt6aDdFUjRQTE44ZzlUN0xwX2kyMjZ3SFcxdmFRcWsxcVdIXzVqU2g5RzNtb25KWmoxbmRkQQ?oc=5"
-      },
-      {
-        "title": "Nowa decyzja w sprawie granicy z Białorusią. Pojawił się podpis ministra - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXltUlF2WFBVdWtIY1AxTGphYWo2ZUFtZXF0Qmp0MVRMNE5UZUxUT3J5ZWxhXzZ6ejZibGw4aUZYWXFJQnRiRTBPVm9DN1VtcDZwbVNmYnY0WXU1eVdPMkpRa0s4NVBYc25qYjJ5OU5pcVlNX2NiaDRNcmpCUUI4QXFRYXpjaU5DUXBBOHZjTk1NbTEtcm5GbHhBQy1iMHNNd3RsOGhsZ2xfaUd3SHc4NkJ0RW9MMTdqT00w?oc=5"
-      },
-      {
-        "title": "Trump: Ukraińcy dali Putinowi powód, by ich zbombardował - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3ZqQUhRTVVVWEZEcHpOcEx6bVdxazBMWTZpUXpIblpFZk9yWU9EMUJPMFFPU3pTdnA4a2gwM2JQZHJiWUJzTXYyaklyS21UU2dJbjEtZlBZekhFbG5JcmZkdGFaVFIxQUVhSkx6c1Y0S3NBd2VnbkFqSWd2cWtMN2d3TDNTekJVeEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-07 16:11:57",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Szymon Hołownia wzywa do niepodważania wyniku wyborów. \"Wola wyborców jest święta\" - Interia",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTJuWWJyTXdQSmFNYXpxM05rMDBZNF9XaEdISjNRX0k3VEpocHdPbms4ZkJPeVRaa2E4cVNURlg2WWpQZWlBTE9OUVZOcVdBdHdGSHI4X05oVWJKZTRBaVhac1JqLWFPQVZneENoY0ZjZGFULXRzT09BeUp4bEdWZlVIOWo4dlhQXzNIeGhVRDREVU13bWlocWJ1emY1R2pGX1pQd0RuRlZ3Yzc4ZWdPNHMyQ0RlX21SSm1jd1RjQnNmV2ZBbnFV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-09 21:10:59",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7427,
+      "EUR": 4.2772,
+      "GBP": 5.0798,
+      "CHF": 4.5628,
+      "JPY": 0.025961,
+      "AUD": 2.4428,
+      "CAD": 2.7364,
+      "CNY": 0.521
+    },
+    "crypto": {
+      "BITCOIN": 405548,
+      "DOGECOIN": 0.700099,
+      "ETHEREUM": 9643.93,
+      "LITECOIN": 331.03,
+      "RIPPLE": 8.59
+    },
+    "indices": {
+      "^WIG20": 2732.67,
+      "^WIG30": 3543.56,
+      "^WIG": 3543.56,
+      "^NCINDEX": 243.15
+    },
+    "news": [
+      {
+        "title": "To ci kadrowicze wzniecili bunt. I podpisali wyrok na Roberta Lewandowskiego - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcm16YXBhUjJOZm5VeFZ0Z2lGa3otWlNkQTQyeHJVSndSSGs1LVEyOVRoNVRDd3N4NVZac2FvMXFTM1hGdnhjNWVOeEgwQi11R1BoUkdBQ242Wmd6WlhaU2VBYVVXNkhraHhKY1BSZklCYmltdG5CdWNOMHhFb0lSM2ZQQnNKSEFUZGluVlYtMmNEdGZUcXNpNktOaVFmTWFjVE9SclViOEQ3T1JacW9OcHhXTkd3UGtld0l4SDd0Nl9ITjlWai11dk1KMG9MN2c4cWxUWThoUmFvOEtyMHJQRm1wdw?oc=5"
+      },
+      {
+        "title": "Dziennikarka postrzelona na zamieszkach w Los Angeles. Jest nagranie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU0JUUGdtZHU4c0F4QnJ4Ym5OTXlXRHl3Y1BYWGNuZ2I0RzNsZDlDRy1tZVlGNjU5X0I2dXg3VDZCdlB4QW9yR3FxSnF0UXp5SkRUX29KUV9lcjRjampwVWdVZWlZTF9hTEhSbUVBcXJyYzZXX1RLNFB5cWFPb3pab1g1R2pmb0p5N2FMWEVvQ2lBQkZMOVhaTzdkaEZDZEthUndQU3AwakZEOWZ2Z2cw?oc=5"
+      },
+      {
+        "title": "Lot polskiego astronauty przełożony. Jest nowa data - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU296MkgwVmU0UkxzbUlVS2tsYXdlR29rOUpXcjJSTzVsMU5PV0VRa1NvVGFHT3oyZzJVS21fNDllOE1FbjBQTDNhMkozT0x6c3VYWF9zVVFrZ2ZfVFBISzFqcFdLeVJtNmFXazh6UmFCZ3lsMjVqZjJVeVRhLVdvbjVLZEhVSXFBYWltUGxmQUY1dVloZ0hkem41c0tIV0xsaWVnbE1R?oc=5"
+      },
+      {
+        "title": "Spotkanie PKW w sprawie \"pomyłek\" przy liczeniu głosów się odbędzie. Duda już komentuje - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpGLWFVd3dwalFUTE5pRWFkckppcVJ2WUdWd2dpOW83SDUteHBEQ1l6TEtubWNHdENPd1RMckpaazBuYllzWVhDZ0I1TzZHMXV5N3RkUlhNS2NFR0Q1QV94X1pqSlZlWUpMb051bXVYdEtYM2h6Q0h4bWdQcGI4b1c2emM0b2p0bkJDVlIzRm5PQ0tlWnB2anRuQlBRT2V4?oc=5"
+      },
+      {
+        "title": "Rosja się nie zatrzymuje. Zmasowany atak na Ukrainę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01COHZUTjhhalhqTmxGTEN5UXZJMDdZMVpSczk1dmpCV3NQejIyQm5uUi1HcC16clVXXy1MR09Yb0VnMW5CRENmZ1h2NjlVbWR2Vl9yYmNfOWpGVER0UlBOb053ZW5Ddm45ZzQ0T2JuWVZZNEhnNFdDYW02N1dkQ1BjcURHTmRFc3daUnFfYVoyN3FqVGozUGFHZ3NmV05fT1RQaUZWakc3Njdzd3JrOA?oc=5"
       }
     ]
   }
