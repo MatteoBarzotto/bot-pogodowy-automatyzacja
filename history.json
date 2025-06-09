@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-07 05:09:25",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 393577,
-      "DOGECOIN": 0.680666,
-      "ETHEREUM": 9332.19,
-      "LITECOIN": 328.79,
-      "RIPPLE": 8.17
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Kolejne miasto. Zamienili wyniki Trzaskowskiego z Nawrockim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHhuZjFLMVcta2hrejNwUlBqMktYMFJnTUVPUHBzQmozOGhuN1ZaMURia1plU09GbjdiUWdXZnNkbG1JdWRGeFQ2b0NFS0h6dlMtNFpacElBZWpuVEFiOGxQQlNXNDk3ZndnNVZ5dm9laTdHbnVoV1lCWlhBYXRkQjd0WnRhc1lTa0p5Snl5Y3ZHYkg5ZUJHQlJBOGVmQ1Mxb3BZRFZXdjVCUTA?oc=5"
-      },
-      {
-        "title": "Anonimowe wypowiedzi zirytowały marszałka. \"To już nie prośba. To żądanie\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFVtXzdsUWxzS2FzUUFMR1l6MnFsY3ZKZExDTVZaTHNweVczZHhFbDdiaG9DbERrbEljaDJvbm1HWjF6YkE0TlA2QmhEdDdYMHBONnI5QmVxZHJxTElBc1o0R3M5VG0wT2lzUXJmR3pNb3h6anFCMlg1eERyWmtsMjgzcjhhVS1CUDNza0trcC1IUXV2aXZ1UEg5R1o1LVEySkdKLVlfeTdDTGVGQXlGYjBn?oc=5"
-      },
-      {
-        "title": "Andrzej Duda rozmawiał z Donaldem Trumpem. Poruszyli kwestię wygranej Karola Nawrockiego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlU1cEFLYU5DQzB6aGVvSkItSG44VTN1ZDctX05nWWJvRXZCc0NFRXYwSmZnS0pwWU9xcjBMazYyY0dWX2VNVXItQnVuamo1bWRkUEVYSWMwdkYtNVZWT0FyV1NsWlQ4RnY4SHhBWU9zNDZFRnFwTHU1OGQ4b1dIcGtBSlRkVldEZThEQ2Nwc1JvclVHdTNPSDM3by1HaWt1UmF2cVB4M0ZWTUNVSS0xaUd2V1lUTjZIdjlZMTRyTVR6OVk?oc=5"
-      },
-      {
-        "title": "Donald Trump rozważa sprzedaż Tesli Elona Muska - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGpYSUpMOXFqaG9uOEhQcnFEVnFKRDUwaVBabVY5RFhKZ01wTmVDSUN1Vmk1UEEyQnJQaXVOdmNxYTRMWWRGZ0hQdW96a281cFNsektQOUFOcFljT045Ry1fbVJZVUJTV1l4cFY5WllLdGRQTzkwYlY4OFpQMXNlVGpFemdETGZYYkcxZjVB?oc=5"
-      },
-      {
-        "title": "\"Jesteście teraz smutni, rozczarowani, wkurzeni, a nawet wściekli\". Trzaskowski do wyborców - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUExDY3NCdEpIa3RmdmJuSHF6QXo0dGlzb29NU3NZeFg3c0NVX2JJR1dNb0IyaFczdGRJWEdncjhVQ0RXdzkyZnZLNkhNeG52OURhUFVqQnNkcTZHaXlaMk1IN1pvbjlOYk1YLUFUdXFxRXpQM2F4YVkxTVV4Q1pQQXFvV2padFIwd1lPY1JRd0NLT3hpVTkxUEhIQm5XRmNLMlRjT1JBVUt1YTZOcDBGXzVHRTY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-07 06:17:00",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Żona polskiego astronauty: Podczas misji Sławosz będzie prowadził badania na własnym ciele - Interia",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUNISHRTYlVJeXVLbGZRN0IzdkhOeHJzN1VOSmZudVNMTEpLekt4c0JPRHBidERaZVNiRkIzdDEzQjBaMzVwNXNrXzNVVy16dG9jZVpNeTdwanJZdGpzRjdiWkxmS3Nxb01Mb01zMHRlRGZUUklGcmYxakVIUVZGN1RKZWFxTkF0Z2lrQjN3a1ZtemxHT0I1eDJXR0JzMVBYbFdsZHp6ZzFpTlk4MG82cXZNSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-09 11:16:16",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7565,
+      "EUR": 4.2881,
+      "GBP": 5.0867,
+      "CHF": 4.5696,
+      "JPY": 0.026077,
+      "AUD": 2.4379,
+      "CAD": 2.7461,
+      "CNY": 0.5229
+    },
+    "crypto": {
+      "BITCOIN": 395929,
+      "DOGECOIN": 0.680859,
+      "ETHEREUM": 9325.7,
+      "LITECOIN": 327.19,
+      "RIPPLE": 8.38
+    },
+    "indices": {
+      "^WIG20": 2699.86,
+      "^WIG30": 3504.36,
+      "^WIG": 3504.36,
+      "^NCINDEX": 242.82
+    },
+    "news": [
+      {
+        "title": "Poszedł na wojnę z Lewandowskim. Zarobki Michała Probierza robią wrażenie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXREeXJlS3JUd01KTktXZl9lenM3bmxDSjRCWGhGR2dtYWpfY19lTTNGS0c3dUNuUVZuVUdONjNKdUtEREg5QmdiMzZiSTBMdkt5Vy1TRlIybTdRcnBMcjRqSUhCT3dEN3dYWFVoZ0l2blJ3Y0tRNmFsdU56ak9Pal9lMXp0T0RXMU1iZ2x1Snh0YVNGYUQ5NWJnMW9jQk1BSzB5WElvS0pGSXR3c0hpU29BMFp0VEozMDBXZm1vQUtXVTBDckVWT2NtNWc?oc=5"
+      },
+      {
+        "title": "Protesty wyborcze po wygranej Karola Nawrockiego. Nowe informacje z Sądu Najwyższego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTBMMHZWWnRfVHhsSU9CQkdxUDhuUkFnS0RDZDhkZWlwYWtmek9UNkc1QnRWcy1MZUxiUEZhQnhMdHQ1ZkhLNGR1dDVsVkZFeVZEZW1IU2gwbnFKUHU4bGNLdW9PbVhhRXd2TVdkcUNDdEgyMHVMRUpIOU9ia1V6enpya2JlQlFmTHpNYTB5WXRfQ2dJbWJMeHJxRktHNmxIUm9uTUo5eE01MHpyVFRwWUVhdG1PbFRDN1kzUjFUd3NzQVREYjduSjZXVTJMTWhtcmhJVHJ1b3JWMS1sUUlZ?oc=5"
+      },
+      {
+        "title": "Dlaczego Polacy głosują na prawicę? Posłanka Partii Razem wskazała powód - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVJ5Ym5lQkhJdTROdFZWWUFNSFZXS1Fxb2M4ZElNNWJXdThRdjVFR3B0dzUtQU1UTWdXd1RkOTI5ZF9GOG9zZ3drZnNOQkZTTmkydmRIMHhJQXNXal9QQkFQM3RYaU5GVzYwOHJLUWlvbjdnVVUyWldTVWdhQ25sc3V1SlUzclJfTmdwbjVGZWtsUTRwa29NdVNDLTJzLWlpX3MyU0VQWHAtMEVpRHNaREEtN3pNQnpwWmZXSUxn?oc=5"
+      },
+      {
+        "title": "Żona polskiego astronauty: Podczas misji Sławosz będzie prowadził badania na własnym ciele - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUNISHRTYlVJeXVLbGZRN0IzdkhOeHJzN1VOSmZudVNMTEpLekt4c0JPRHBidERaZVNiRkIzdDEzQjBaMzVwNXNrXzNVVy16dG9jZVpNeTdwanJZdGpzRjdiWkxmS3Nxb01Mb01zMHRlRGZUUklGcmYxakVIUVZGN1RKZWFxTkF0Z2lrQjN3a1ZtemxHT0I1eDJXR0JzMVBYbFdsZHp6ZzFpTlk4MG82cXZNSQ?oc=5"
+      },
+      {
+        "title": "Klęska programu \"Orka\". Okrętów podwodnych nie będzie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVYydVZaSDZJWDlGcjk3MEZpaW9OeThNNEVDYzlZd3I4N0xOaFlmdXo4aWkzWVB4QjJ0UVk0aS1yRkliTnlkMTY0dHctNmpWaUVWSW1FM25HZnhzWndQc2ZCWVdyZzNJQWt0Qkx4TVdFZzQ2dEk0ZDFQbjk5aDd4S3BtT1kzdEs4aWhOaGFjOHhRVk9lWlpEaw?oc=5"
       }
     ]
   }
