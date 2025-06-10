@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-08 18:15:42",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 399020,
-      "DOGECOIN": 0.694844,
-      "ETHEREUM": 9468.09,
-      "LITECOIN": 331.33,
-      "RIPPLE": 8.59
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Giertych twierdzi, że PiS sfałszowało wybory. Czarnek odpowiada - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFBUOWJTeUtxSXRsbWtCeXI1UWlSZ0lPaFdFSmhCcFhOcW1oZVdlUmJtcDRJUi05a2lfUHk0V01uUG4xcG5PSjhDQ3FGaDRJSkhMUVVJYzUwdmdnZzNGZnZFVkpvdEpPeXdOZ09sdmJJTVZSWlludE1xV3Nnemx2aERYZUc0Z25yLU5Xc0I1MGotcGVWME81LWlMZ09EbkMxNFHSAZ4BQVVfeXFMT25zdnhyVzMzRUZuRTZleGl3bi1ORlM0SzE4bVF1WmEwNm4wY2FOZ01pMjdJSkVrYk1jYjRKWkJFRXBrbzJNbFloa3lEVHNKZU9qUEYwWDVNNkNxS0pULXZuNGhiLXZpOWp4ZUNNU2tvT3pkVm1Id2lKYlVkQzU1aFl6WGVaRkh3T19FczlSS1l5Y3hvSnhNbWhnallnVUE?oc=5"
-      },
-      {
-        "title": "Nawrocki udzielił wywiadu węgierskiej gazecie. Mówił o Rosji i Ukrainie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2RiVjdENC1JSnV1VWxnVkFJazFuSDdGdU9iWGZHRGZvQXJQRFdVZ1BOSkxOWU55NUxSbTRnaVNrUlZOcWduOVllVXMyN2lEazVyejVQNDJDb1MyN3BLZ3U4eXozVWRhOHRkY29TWE0yX2RhNC1pQ2hQdU9JaDJXVUljM0JwcThSUUFnckQxYWU0bHFTaG5XQTdJTzY1S0FUTnJ6TjhtcGdVZw?oc=5"
-      },
-      {
-        "title": "Prezydent Duda zapowiada zwołanie RBN. Ma listę pytań do rządu Donalda Tuska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ2R2eDY3S09NSS00MGZlRFBZMHJ0M0hYZkVsaEhjZDRZSHozT2dNWkN2cTVGbmhxX21oem5MR2NjRnpUUk9qcmZicFMzbGVoV1FlT21mY25Vd21CRlBuV1hMOXpxX3BqRTFrTHB4MU80TDkxVmJ5QXFqNGd3LXVpd3JfWGJzbm1CdjVIaDZuel9aNko5Q01FUnZtZzV5RzQ1cTZJcTR4X0xMaVN5Yml1Y1pfbjlPLWpjZ2RDNGEyYkFsZ28?oc=5"
-      },
-      {
-        "title": "Spór Muska z Trumpem wystraszył Pentagon i NASA. Zwrócili się do konkurentów SpaceX - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHExV25GVDdXcGtxaU1NemR3OHRZX3ROMmVKQk0tUmZyaGk4MTJzRmJHZ0IzWGRoUzg1QllGOXl6eWFRc1dWNF9HX3Q0bGlZbHVjbjJoanhBN1RFLUY1Y1ZDam44ZFBDOVlDZ0ZMQ2FpSm5Bb2FmMkplZmhNVzJlYU5fVVVYLXhieHRQSjJCd2tDTkhpWTdJUkJxM0dvaWpMNHFLV2UxSEs5elhFRXJia1ZZT3lULUJlOVNmcFhWbS1aWVA4S1RsZ3p3?oc=5"
-      },
-      {
-        "title": "„Tak wygląda upadek polityka”. Prof. Antoni Dudek ocenia, co czeka rząd Donalda Tuska - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3FlZ1IyTXpQSjNzVEhpTzFGcUp2N2h0eEFSQnJvYkJ6QU4zSDJ6Ml84MlZBaVdqekxDN0c5dHRuZTFhSTNVSDJlNXA3ZnVxLVg1SEdBOEFSZFBrZ2tVTjhtOGhZckZDQUUwTTdyc3RQWXJtaDZtbkxoVmtOZHpwUFJfdFJaOWU4WjRaVWQ1Ml9Deks0blAxenAwWjdlTGtkWmNmdktIMU9ENldBYmZoeHNZT09Fa3pPbGJr?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-08 19:11:16",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Śledztwo ws. powoływania się na wpływy. Bodnar przesłuchany - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDROSkQzdE5uTUZjODg2N0pLMW5YMHQyZmpEdURYdjYxUGt5Qmc2WV9zcHYtTGFUUHE1c0l3RHBpNE5aUWYyenI2LWpQNGdKaXlEa3RIVnoyWEdjVWtKSUFOUzVRX1hFUG1Kb3Z4bTRzQjNUTGlrbHJzaF9JbWlvd3VhdFdQNXJmYW9zeTgwSnN6OFp5bHdQRHZ30gGYAUFVX3lxTFBzV09ZczNMZWZNZkl4ZWJxZjV3RzEyYUc1MDQ1d1ZSMWxTUjZWSjM1WUkzYVRaSWVXckx6dUNnVHdhYkt1aTRYXzFiTXlUck1leF9QQ1ZwWEsxWUQyQ1p1bmMwZGVBSER5YVQ4SVpRd05LS2dXRE9GUzFkWVBSUG1vS0RKVndodmE5YXBMQmtYbDI5WW1TTWZy?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 00:13:17",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7352,
+      "EUR": 4.2611,
+      "GBP": 5.038,
+      "CHF": 4.5486,
+      "JPY": 0.025823,
+      "AUD": 2.4332,
+      "CAD": 2.7251,
+      "CNY": 0.5197
+    },
+    "crypto": {
+      "BITCOIN": 410054,
+      "DOGECOIN": 0.727729,
+      "ETHEREUM": 10446.34,
+      "LITECOIN": 345.26,
+      "RIPPLE": 8.6
+    },
+    "indices": {
+      "^WIG20": 2794.03,
+      "^WIG30": 3618.43,
+      "^WIG": 3618.43,
+      "^NCINDEX": 245.79
+    },
+    "news": [
+      {
+        "title": "Dramat w Helsinkach. Piłkarze Polski i Finlandii zeszli z boiska Reprezentacja Polski - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcURUOHdUX1kxTVcyTWNyc3hmMWlyRWhxUlFMcXRmd1lSVUI2STYtYkhtci1pSEtNUDJoZUF4aWRwZlRqa0lFalN2bjFRRFlXM2VkX0FPNVJDU3gtNzFvM2pNcF92Z1ZBeVBHSzZCMmFXM2lnNkdNSmYxeEFERW4zVzFONDFWdERHaktNaGVFN2JKTWh5U1ZBeExxSU12N0NGVjJLRGFUeGxIYlN6MmlvUnN3?oc=5"
+      },
+      {
+        "title": "Nieprawidłowości podczas wyborów. Ryszard Kalisz mówi o skali - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2hpUkhzd2lzam1hc00tOV9YdnVQWUUwV1FybHVudVNSaEE3SVNOaXlVS3VyTnZGbVYtekpNMGZnOFA1Q3lHd19lTklvY2w3NFluMjVTaXRleFBFby1uYVRfdEZGNFlxMDBULUxMR0w4VC1McGdaNTl4VmZPRFBWRERuazBLRkJ1UTY5MGEzUk5yNzJmci1vaTBiNS1pSkxzN3NGVHFWQmlMZ2lVWFJn?oc=5"
+      },
+      {
+        "title": "Ostra wymiana zdań między Donaldem Tuskiem a Andrzejem Dudą. Sieć zalała fala komentarzy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzBHbTZQSnR3elJyT3VDT2JCWURFdVluNWVfRW5Td0hpOFczTWJQZE14RFd1MXM2X0tocDRvVUZDUWY0cDJCb2o2ZGJJbmFXNTdYUjJfZV9GMnRFZ2hOZGEydzR0ejB2TnRrc1VsbF8wcTJwbWZTcE5hOXJCamQ3S3AtZVFaTUduUHUyNk92dl9rRnM3Zl91SUhrMm44Q21TXzNNSGJRczA2VlZE?oc=5"
+      },
+      {
+        "title": "Wiemy, jak Polacy oceniają działalność Donalda Tuska i Andrzeja Dudy. Nowy sondaż - rp.pl - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb1V1OVR6U2NZbVJEdWRPN1BBMVJocGJoZEc5aDRqM2VabDRERkVKamNwR1ZiREVwZko3TEtzaXhiZHVzUEJLOHp4dS16c0tCaVFNczZ3aDFYd21vOGxfdlZKTFJZLUFuVklBaWNzLTJyeWhaYnl0T2FfbktvZzJEUFp2c2x6X2VfN29PU2JvbzRCTzZzMzlGTTdPNFlITmtoUjgzN1k5NEI5WUZBajJ0MHVUeXNHUVpTcXZ4cEZSRUl1c0R4MHJ2c0l2Z2EwVFRacV9jTQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. \"Otrzymałem zaproszenie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVpjcTQzZ3hDTzBuQjNlTzZjVUFaZXR5SnR1cWJmTktSYjFvcGFvVDdGbmV5YThQTWtRakwxMXZSZEVvM2VDdFo5dnJDUzU3OWNjUHQ1YzZCUjhUYkprQjFkdzNUUVRrMllxeE5VZHhTS0lTWjN3MVl3ZUdQZ25uemxSbm93T0RiTWVxXzZhZk92M2o4WFh1YXM0WTU3YlJFc1pDZW85R29jNmJ4YzBVTW5hTGc?oc=5"
       }
     ]
   }
