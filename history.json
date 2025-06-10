@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-08 15:22:21",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 397385,
-      "DOGECOIN": 0.688753,
-      "ETHEREUM": 9430.37,
-      "LITECOIN": 328.09,
-      "RIPPLE": 8.5
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Nie żyje wyśmienita polska aktorka. Ewa Dałkowska grała w kinowych hitach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUG1INUVXclUxbzlRQXZyUVJFX1hsczRsaUdzT1NUX080WVp4MFpaZVYtSTg1eEFWUjBJNmRqRkJpRDZtU3VUZFh0TjFaaEtqZVN6a0ZwLU80ZUJyRmNNTFVOdnowTk4xT2NzTGk2YU52UHJhR2pNRTR0WFRJUnNkeFpSVlNOQllkN0xHSXBSR0ZGOXQySjRES21KSnlQcUJoZmlHNHRjSVhIWjk4ZUdfTHhmd3gwUkdGSFNvaEViNW5PXzluM1Fn?oc=5"
-      },
-      {
-        "title": "Pogoda nie odpuszcza. Alertami objęta większość Polski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRThsWkxsbnp4bW9nNzNrSEZkaW96bnN4aVMwa3NFdWNLdFpYWmVKSkxuS3NnRUNOcTlsMlJGODZCTEpzTXB6STlTdVJHbXZ5M1ItTFhHMDZNMDhuTWxUMmppWjBrR2VQMDhMTnNCT1p3S3I0VEFUTDk1eTBUN0lUYUYzcEZKNUFRckFXOHA3TXhldlFIY3hRYTc1TnBzUkRLOXM2UDZXRnZUNzdOdkFDeDJNZVJEOHpjeG9FdTIzUDJKVGp5bGtkSmJSRGMyRzRPaUE?oc=5"
-      },
-      {
-        "title": "Pierwszy wywiad Nawrockiego. Mówi o sojuszu z Węgrami - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUZFME9VQVc5Nm93YldadElkX1Nxb05lRUlvbUxtTmNZVV9OLUhQX3ZpQXNibnZhX0MzSEx4THpCYklFQnA4bDFXbWM5T2Nya2dKWXE5Y1BwUVVJTkU1dTY1TGJIdnJ4THFSQldKQTRHZ1dYeENjcnlSR0xYcEgwOE42RVZ3UVIxcmRxaDh5M0JWMjZxeHFLaGhqM05icWxrNlNWeVFEMGFFeXM?oc=5"
-      },
-      {
-        "title": "Giertych twierdzi, że PiS sfałszowało wybory. Czarnek odpowiada - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFBUOWJTeUtxSXRsbWtCeXI1UWlSZ0lPaFdFSmhCcFhOcW1oZVdlUmJtcDRJUi05a2lfUHk0V01uUG4xcG5PSjhDQ3FGaDRJSkhMUVVJYzUwdmdnZzNGZnZFVkpvdEpPeXdOZ09sdmJJTVZSWlludE1xV3Nnemx2aERYZUc0Z25yLU5Xc0I1MGotcGVWME81LWlMZ09EbkMxNFHSAZ4BQVVfeXFMT25zdnhyVzMzRUZuRTZleGl3bi1ORlM0SzE4bVF1WmEwNm4wY2FOZ01pMjdJSkVrYk1jYjRKWkJFRXBrbzJNbFloa3lEVHNKZU9qUEYwWDVNNkNxS0pULXZuNGhiLXZpOWp4ZUNNU2tvT3pkVm1Id2lKYlVkQzU1aFl6WGVaRkh3T19FczlSS1l5Y3hvSnhNbWhnallnVUE?oc=5"
-      },
-      {
-        "title": "Media: Elon Musk pobił się z sekretarzem skarbu w Białym Domu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVktaSWVXVEtyOGZPRlF5eEhYUm1NcWFTUWluRklkRUR1ZE5BckhSdkJxYWVtU1RVQUdMbVAtbExRYmxndTQ0TGppWGtWWEQ3bXdiRTFSODA3SGI1TEgyb1lmam5KWkRpV1JUNWktUVNzM2FfMFYtMl9sVzQ3QndUSjNzT0tMRUp2Z2hOX3QyU3FKdjdNR0ttNTBheVdqMU03SzNwT19Ud1dLTG9kaF9Z?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-08 16:12:00",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zdumiał mnie\". Bosak komentuje wpis Dudy - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzB0X09ZWFlkUjNncGc3MFhhMzI2bTJWUjZlbWVacVAwLThVeVlNcTEwcUtFclNzdWN6QklKN2RmNl9CY2ZxVkd6alZnQmhVUmFEQlFiU0JVM1l0WTFIOERTY2NLUFZxT3VJaUhmR2I0TXpRa2tNdTMxc1ZWam85ejVGRE02MTJX?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-10 21:11:01",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.7352,
+      "EUR": 4.2611,
+      "GBP": 5.038,
+      "CHF": 4.5486,
+      "JPY": 0.025823,
+      "AUD": 2.4332,
+      "CAD": 2.7251,
+      "CNY": 0.5197
+    },
+    "crypto": {
+      "BITCOIN": 407825,
+      "DOGECOIN": 0.724716,
+      "ETHEREUM": 10294.74,
+      "LITECOIN": 341.33,
+      "RIPPLE": 8.57
+    },
+    "indices": {
+      "^WIG20": 2794.03,
+      "^WIG30": 3618.43,
+      "^WIG": 3618.43,
+      "^NCINDEX": 245.79
+    },
+    "news": [
+      {
+        "title": "Nieprawidłowości podczas wyborów. Ryszard Kalisz mówi o skali - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2hpUkhzd2lzam1hc00tOV9YdnVQWUUwV1FybHVudVNSaEE3SVNOaXlVS3VyTnZGbVYtekpNMGZnOFA1Q3lHd19lTklvY2w3NFluMjVTaXRleFBFby1uYVRfdEZGNFlxMDBULUxMR0w4VC1McGdaNTl4VmZPRFBWRERuazBLRkJ1UTY5MGEzUk5yNzJmci1vaTBiNS1pSkxzN3NGVHFWQmlMZ2lVWFJn?oc=5"
+      },
+      {
+        "title": "Ważą się losy rządu Donalda Tuska. Do Sejmu wpłynął wniosek - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzV2X1p4blB3NzM0dXNwSFYzcmV4QmV0bnFOeWZxT0Nab3hqaGpSMS05RFUxdmdqeXFvckhIOURNZnFaOWpyYUg0WTlYX3QxYmlJQkFRZ1hMSEhfRlFldE40aUJENHZhUE5hNlA5WTBzU2FUQXFlVWR1cXA1SklDQlo5RndJdGVad3RvNm9Ibl82Z0hBOXV0aHZEVlhJbHl1ZXVHYlBlbnp2aGkyb1JVM3ZYaw?oc=5"
+      },
+      {
+        "title": "Andrzej Duda odpowiada Donaldowi Tuskowi. \"Właśnie dlatego ostrzegam moich rodaków\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0stX3FWbkJaXzZqVmpILU0yUlFkcVhiNEJzcHpIU251RU5TVU5vdWpQbTBzN25KTG10Um91V2VTT1JSeXYxTGNqSWw2MXlNeWRVTFNmZjI1Q0NTbmczanRrOV9qWERqSEN2YVBYWHBWOUxVNHh6Z0JwNFlQTDhWZW9JQzdxU0Fnd0FSWjR3ZW9JZE1faGdwVEc4eW5JNURnRzRacndKcDNSc0xGRlVqV3NzUU5ZZERKYUtuc09PVVUzWlJpa1R1dDVmdmc0dXhNQThnTWdKX1FYZzA?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. \"Otrzymałem zaproszenie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVpjcTQzZ3hDTzBuQjNlTzZjVUFaZXR5SnR1cWJmTktSYjFvcGFvVDdGbmV5YThQTWtRakwxMXZSZEVvM2VDdFo5dnJDUzU3OWNjUHQ1YzZCUjhUYkprQjFkdzNUUVRrMllxeE5VZHhTS0lTWjN3MVl3ZUdQZ25uemxSbm93T0RiTWVxXzZhZk92M2o4WFh1YXM0WTU3YlJFc1pDZW85R29jNmJ4YzBVTW5hTGc?oc=5"
+      },
+      {
+        "title": "Strzelanina w szkole w Graz. Cobra wkroczyła do akcji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkNyNjJvOUNYX2EzM2ZTemdRVThEVlBHOER1WF8xVV95UWg0MFRwSzJaRjFuWFppSW5SSnVubHB1cU9JRVF3Q3Z0MzZ1MXpBLTdDd0xoYUJBRUZaNE0zc1ZPb0dxTmN5Mko4XzlTV3Y4a2NQSkhVR2lsY2dISklkbXdZVWtOdVVEaGt4Rzcta2FFRnBrQS1HQzY1Zw?oc=5"
       }
     ]
   }
