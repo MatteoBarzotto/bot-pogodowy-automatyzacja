@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-09 14:28:29",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.7427,
-      "EUR": 4.2772,
-      "GBP": 5.0798,
-      "CHF": 4.5628,
-      "JPY": 0.025961,
-      "AUD": 2.4428,
-      "CAD": 2.7364,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 403023,
-      "DOGECOIN": 0.69452,
-      "ETHEREUM": 9503.19,
-      "LITECOIN": 333.41,
-      "RIPPLE": 8.47
-    },
-    "indices": {
-      "^WIG20": 2717.45,
-      "^WIG30": 3526.0,
-      "^WIG": 3526.0,
-      "^NCINDEX": 242.42
-    },
-    "news": [
-      {
-        "title": "Konflikt Lewandowski-Probierz może uderzyć w finanse PZPN. Nerwowo wśród sponsorów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUMxTy1FQW1MNDVRYkVxcFZMQWR0a05OMjZfRFpiVjlLOXZSOU1hWHg0dzBFVzltTFcxNHQzRnBnRjNaWWtFaERjRXhJV2l3ZXQ3ckFTcHl1eEpFS29IT05Ua1ItcWdWVERCb29BQzgydy1WRldRQzN1VURoUFdzekUyZkhNeF9fd1owMEZxV2I1cDdPOTF6ekh6eFBxczFBTHBsRGVWRzNXRUNRNlBuX1dzT1d2aTV1Q1FLRkYtNU1MSUF6WHc?oc=5"
-      },
-      {
-        "title": "Posłanka uderza w Romana Giertycha. Chodzi o wynik wyborów prezydenckich - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeWo1Q2hCcXVBaWZhVVZ2eWV4Tl94N0VTZUx6SExESG9wcG85T3JyMzFoekVCTlY4NzFyd2QwbGstWjVXZjFEY2ZfN2oyaFQyZTdlcGJaTTdURE4tOTQzVVNKQkZIYXlaX3FmaWNfU3JMTTA0RF9IaWxsNnhFNmh6a213UDNjalJsOXlMd210ODV6UXFPRmdMLWNZSmV0S2JHcmdic0l1ejJHZXE0QXdPcXliYng4dVRNVzNqdlQ0QU53eHlYbDZlSUtoaUNEQQ?oc=5"
-      },
-      {
-        "title": "Czy wybory będą ważne? Ważny apel do prezes Manowskiej. \"To jedyne rozwiązanie\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRnc2pwdDIwdkdQc2c4TDBTQUVldkh3bExpMEE3Tk1aZzFyOUFsRzd6aVZMTVQwM25UczlZUkoyUWthWHFrT21kWVdLZ1prWnZrTlhkMVRDMGRjZ0hqZjEtUzRVV2FFTUEyZURDcVM1aTdJd0plMFhYemRJZ2tfdXh3ZGVJUGE2dWJRTFdOSGtGOHNSYVo1NVFEQld2UE52X3dRSVJkR2xFT0FWSmJuYkVn0gGwAUFVX3lxTE1rT1dYcGd0YlFEWHdvYkpISFNheUJYVzhTVHpZYW1VNk5nVnE3Z0dJUHl4SFRXTWxDU2gyMEVhVDVTRG5sNjdMUTFZZzdLc0ZOZHh2ajFHYzRfTkgxY29EUW5FUDFRa2JoZVBQaTFIYTdiUmZkZk1KSVJSN0diQ3kwU1VZakZQSkpMOG9YSkFIQ0tiVzMteXd5S0NLV0FKN3BmbllodmVPWTJRakZFajJQ?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie. Andrzej Duda apeluje do Polaków. \"Nie dajmy sobie odebrać\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUp2N21oWG42c2EtU3JEXzlwbFVZVTk0LUo4Z2NwZWFISFdQSG5GQzlhaHJBZW5kZU93dUxZSEEwNHJrM2hQc1pjNnpHbkRBTi1TQmxXLV8zSU5rWkQzUS1qd2NYOXdvOU9Hc2c0bkJ0TE16dnN6OXJuLXptcGRWR1NhM2ZfSndlYy1WUGdJYzBqR29QYjBpOTVZaFNuTjh4MFJ1V3Nn?oc=5"
-      },
-      {
-        "title": "Tak Polacy oceniają wybór Nawrockiego na prezydenta. Oto nowy sondaż - Wiadomości z kraju i ze świata - Dziennik.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFA5NlJkMloySk00cUxnaUZjLUhKaU9BQWZJa21idEU1RUw1MG43aU05ZUdKbVpRYU96S2hlVHJ6MzBzM3lXYkhZU3pBc0NLdy10bWhTUHZNdEtYOVpYMTQ2bHR1bG91RUZXOFBpYVBybXY4NUtGZGlONmQzcVFTMG9TR0M4WXZ4RlFTSHBxRGZsV2dvbmNmVnBKdVB1RmhHN3ZvRlBFdDNUcExERTNjYUl1ay1IcU8zZGlNNWh6TjBRT1p0ODlncjVRWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-09 15:27:47",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Sławosz Uznański-Wiśniewski nie poleci dziś w kosmos. \"Ryzyko 25 proc.\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXRZM2tWbl90M0xPZ0xpR0o1Z3lQVzI2OXZrR3B4dnltLU4yajB4aGFJUmt0RlRsNHhZZUVZZGxZRFR0NEFEbGJaRFYzQ1dwTDUtS004OG93WFo2dFJFSzRqMGs0ZEd3UEZ6aXJhUVhtSHN5S1hEbTNiUWp0TTFWRUtVN3ROUEVTeTZ4TkNiR0lLN3lNdy16UEZid0xIcWhoYnc0Wm1tQ3FDS2pIeVNITXJUVVExdXpUYkxsdzM0Y1VnYkpROEZR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 20:19:48",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7306,
+      "EUR": 4.2643,
+      "GBP": 5.034,
+      "CHF": 4.5382,
+      "JPY": 0.025714,
+      "AUD": 2.4286,
+      "CAD": 2.7267,
+      "CNY": 0.5192
+    },
+    "crypto": {
+      "BITCOIN": 402062,
+      "DOGECOIN": 0.726607,
+      "ETHEREUM": 10396.44,
+      "LITECOIN": 340.83,
+      "RIPPLE": 8.5
+    },
+    "indices": {
+      "^WIG20": 2779.83,
+      "^WIG30": 3599.93,
+      "^WIG": 3599.93,
+      "^NCINDEX": 244.8
+    },
+    "news": [
+      {
+        "title": "Oto dlaczego premierowi potrzebne było wotum zaufania. Cztery najważniejsze wnioski po exposé Donalda Tuska - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVFPTzZKX1ZPLUpuaFBLNnNSd3Y5NVJVTVJMeVNMSnJMS0gtTjhxbDlQTDIzNkZXNVh3MVRsNjI1RTFOTVZWS2t6M3N3bVJYOUdRQkhidFRZV1ZGRkotSUJ2NG0ycXBOekdMekJJN3VjZDRQa0RjOUd3c3FSSERYZTVlU1QwTktnT25pdmdBbTZJYkoxTDJveDcyOXo4ZFNlR2ZxR1djWTM4VkViZWxJU0NPWHhpVUxN?oc=5"
+      },
+      {
+        "title": "To już oficjalne. Nawrocki odebrał dokument z PKW - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNlZTUlo0MldpeXpIWmRId1ZXci1laUJsaG1hV2o4RHg1ejk5bm5zakFCMkI3aUROQ0k2TjVvQ1ZFcXNOeWVGNEk4bGg3U0djZUVLdUNldUQtdTgtN1pTYTJoYU1LbmU5R0hNU2h2SFRPYUZ1UVZiY2s2em1XSzJJRFM5NWZxSG5YWWlpYXFMM19VeTRoYVE?oc=5"
+      },
+      {
+        "title": "Kolejny wybryk europosła. Grzegorz Braun z zakazem wejścia do Sejmu - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2QwaVBjLWM4NUVvc2dkSE9aR1RJRXIzUWltWnFBYkVxYkRRTzY1OGNyZEYxdlpXM29VMzZnTUx1ckRrLW1mQUl1dTlELU1yNjI0VlNPbXZYbjVUYW1nQUp2ZVB2Y01yV01VZ2VHLVY5UExhMDBsY0JoTmJzNG1kekdINm92ZWdCNlBjZ0R6QzlEZHFxc19TOUVWcWdOa1BrQnIzRkNMZ2M?oc=5"
+      },
+      {
+        "title": "Donald Trump ogłosił sukces. Ważna umowa jest gotowa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2hCT2JFcVhoS2R6QTZoQklZRHJUbGFycGx6QlZFWlV2eTJKSHNIQWpQWW1oc0NSTXEzeEI0U0xHa25Na2VnYm9EdnJWcVZ4T0FVbUVfbFI1VUR6U3pwWExSUVVVdVFtdjlEakVRUDVXdGV1TFowdmdVWERiZW15ZWQ0Smh1ZWpkV3hwYUFuZHRFa1ZncW9kc0EzazBYYlpUS1RB?oc=5"
+      },
+      {
+        "title": "Donald Tusk otrzymał wotum zaufania. W expose zapowiedział rekonstrukcję rządu w lipcu - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGVuSDNBOVY5TXNFcXhJc1h1bjM1bnlOMG9QbWZ1Q1VCUFlOWlc3T1lJNE5kRW5fLU9zR3VxS0RvWG5scmpseWdZOTEybEhUcExWZ2EtbkZRT280N0NHWEpKNG4taFpCaWNndjk4bjFuSkw4ejIxdWgtUVZpb0tlazVwdWV6NVQ1azJzdjRLaFFDcGJKV2ppeFRsa3Ffbk41UW5COHBld2ZnWElVY0xCVWRvUQ?oc=5"
       }
     ]
   }
