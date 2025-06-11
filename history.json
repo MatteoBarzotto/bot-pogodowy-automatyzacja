@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-09 13:12:34",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.7427,
-      "EUR": 4.2772,
-      "GBP": 5.0798,
-      "CHF": 4.5628,
-      "JPY": 0.025961,
-      "AUD": 2.4428,
-      "CAD": 2.7364,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 400899,
-      "DOGECOIN": 0.69476,
-      "ETHEREUM": 9472.4,
-      "LITECOIN": 330.58,
-      "RIPPLE": 8.45
-    },
-    "indices": {
-      "^WIG20": 2713.27,
-      "^WIG30": 3521.59,
-      "^WIG": 3521.59,
-      "^NCINDEX": 242.48
-    },
-    "news": [
-      {
-        "title": "Wybory prezydenckie. Andrzej Duda apeluje do Polaków. \"Nie dajmy sobie odebrać\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUp2N21oWG42c2EtU3JEXzlwbFVZVTk0LUo4Z2NwZWFISFdQSG5GQzlhaHJBZW5kZU93dUxZSEEwNHJrM2hQc1pjNnpHbkRBTi1TQmxXLV8zSU5rWkQzUS1qd2NYOXdvOU9Hc2c0bkJ0TE16dnN6OXJuLXptcGRWR1NhM2ZfSndlYy1WUGdJYzBqR29QYjBpOTVZaFNuTjh4MFJ1V3Nn?oc=5"
-      },
-      {
-        "title": "Konflikt Lewandowski-Probierz może uderzyć w finanse PZPN. Nerwowo wśród sponsorów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUMxTy1FQW1MNDVRYkVxcFZMQWR0a05OMjZfRFpiVjlLOXZSOU1hWHg0dzBFVzltTFcxNHQzRnBnRjNaWWtFaERjRXhJV2l3ZXQ3ckFTcHl1eEpFS29IT05Ua1ItcWdWVERCb29BQzgydy1WRldRQzN1VURoUFdzekUyZkhNeF9fd1owMEZxV2I1cDdPOTF6ekh6eFBxczFBTHBsRGVWRzNXRUNRNlBuX1dzT1d2aTV1Q1FLRkYtNU1MSUF6WHc?oc=5"
-      },
-      {
-        "title": "Posłanka uderza w Romana Giertycha. Chodzi o wynik wyborów prezydenckich - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUklNZTJTRms1U193S184OEtuaEZMNDVNbGVfYzBRMXVfQlJIVk13WUpCdk9wUVozUy15OVp6ZUJwLW1DaEMzTl8tcWM4N1JTeF9CVW5Hd0I4OXRTdzhwNVZkX2NodWlQczk4MXBMWHZsTXlBeGFMLVJSUjdaWWFobWk5WHh0eEt6VVpxMllqaGxvU0lMdHVjbE9STDNVMXFMR3NFMWVZTVZKUmNULWpWOGI3SWxiMm5OTktGLVhoMWtRQl9qMXZDaGNzcmhpdzQ?oc=5"
-      },
-      {
-        "title": "Czy wybory będą ważne? Ważny apel do prezes Manowskiej. \"To jedyne rozwiązanie\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRnc2pwdDIwdkdQc2c4TDBTQUVldkh3bExpMEE3Tk1aZzFyOUFsRzd6aVZMTVQwM25UczlZUkoyUWthWHFrT21kWVdLZ1prWnZrTlhkMVRDMGRjZ0hqZjEtUzRVV2FFTUEyZURDcVM1aTdJd0plMFhYemRJZ2tfdXh3ZGVJUGE2dWJRTFdOSGtGOHNSYVo1NVFEQld2UE52X3dRSVJkR2xFT0FWSmJuYkVn0gGwAUFVX3lxTE1rT1dYcGd0YlFEWHdvYkpISFNheUJYVzhTVHpZYW1VNk5nVnE3Z0dJUHl4SFRXTWxDU2gyMEVhVDVTRG5sNjdMUTFZZzdLc0ZOZHh2ajFHYzRfTkgxY29EUW5FUDFRa2JoZVBQaTFIYTdiUmZkZk1KSVJSN0diQ3kwU1VZakZQSkpMOG9YSkFIQ0tiVzMteXd5S0NLV0FKN3BmbllodmVPWTJRakZFajJQ?oc=5"
-      },
-      {
-        "title": "Klęska programu \"Orka\". Okrętów podwodnych nie będzie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVYydVZaSDZJWDlGcjk3MEZpaW9OeThNNEVDYzlZd3I4N0xOaFlmdXo4aWkzWVB4QjJ0UVk0aS1yRkliTnlkMTY0dHctNmpWaUVWSW1FM25HZnhzWndQc2ZCWVdyZzNJQWt0Qkx4TVdFZzQ2dEk0ZDFQbjk5aDd4S3BtT1kzdEs4aWhOaGFjOHhRVk9lWlpEaw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-09 14:28:29",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Tusk zapowiedział kontrole na granicy z Niemcami - Onet",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHotcEh0UUFzNDk5OUQxUEZRRkxXdFgzM0tORkNHMjRIdTdBVFZyLTNxWXl6YmdrclJIVGtySG93Rlo5dl9fRTR3OExSWWNRYW9FVkw3bW5wbDFnRk5od1VrUGVUQTNKYWRhNi1tbzM5SFFLSFppUDNfdzBzUHlvM2UyYUk4aXF2c3ZEaDFPSENLTmdnUDhzd3ZFOWpkNlIybkg2MGJfNVRjcmktXzhwbDNLNkNYVDhuTjQxX29tOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 19:12:48",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7306,
+      "EUR": 4.2643,
+      "GBP": 5.034,
+      "CHF": 4.5382,
+      "JPY": 0.025714,
+      "AUD": 2.4286,
+      "CAD": 2.7267,
+      "CNY": 0.5192
+    },
+    "crypto": {
+      "BITCOIN": 405027,
+      "DOGECOIN": 0.747889,
+      "ETHEREUM": 10539.87,
+      "LITECOIN": 345.55,
+      "RIPPLE": 8.57
+    },
+    "indices": {
+      "^WIG20": 2779.83,
+      "^WIG30": 3599.93,
+      "^WIG": 3599.93,
+      "^NCINDEX": 244.8
+    },
+    "news": [
+      {
+        "title": "Oto dlaczego premierowi potrzebne było wotum zaufania. Cztery najważniejsze wnioski po exposé Donalda Tuska - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVFPTzZKX1ZPLUpuaFBLNnNSd3Y5NVJVTVJMeVNMSnJMS0gtTjhxbDlQTDIzNkZXNVh3MVRsNjI1RTFOTVZWS2t6M3N3bVJYOUdRQkhidFRZV1ZGRkotSUJ2NG0ycXBOekdMekJJN3VjZDRQa0RjOUd3c3FSSERYZTVlU1QwTktnT25pdmdBbTZJYkoxTDJveDcyOXo4ZFNlR2ZxR1djWTM4VkViZWxJU0NPWHhpVUxN?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki odebrał uchwałę PKW. \"Polacy chcą brać odpowiedzialność\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlo5bmc1SG1KOEYwS1VLY2Y4RkxSaEVpNTNETW54cmxBNG50dUwwcEh2cGV3S0dpMDlVMjl2TDRsOV9SYVJXTnRhQV9ueVd1WWZKaTI3LU93dFhueEo0enNDa0Zjc1pFZmVmaFJWZE16UzBDdk1LZ295cXAxbkNfcWstRnNJSGxJS2FhWlFnZUp4OTVTb2w4YWdfRm9CWUFQVFJDTWpSWk5XbnVocjd3bnA0UmhpWXhKZlo4UXB4RkJJc1FwRUdqd3Z4SQ?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun zniszczył wystawę w Sejmie. \"To zgorszenie publiczne\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem5ZNGpnaEQwbDBiZjRrNmNaci1CNlItQ3dkbV9jV1Q4NUJlbjVGaHVON05xdmlZMHQyNGlvUG5Pa0hOVk5CT3RNRk94UmJNT0dDMTc5cWVSQjQ2WVN6WE1fRzZBTWpyeTl4T0lZTDdFanZuQjJXU2ZMdVJLMWZwQWpNb01nQ3hUOG00dE9OSHhDRXBZOXhZcXY5d2JHM0RsbUQ4Tk9hRkJzeDNyRHpWS0lNRnl0UdIBtAFBVV95cUxQT0NGMTgxYmRlcWl4TG9Mc25PRlJCZEVOc1J1UlJBWUpHRlBUWjFLaF9xMEpUQmZMLU1zZl9Nd3BlbDFSd0JPR0lWWWxkZE9MLW9GeGtLSy1kU04yTTNQeE9HN0d5aGlmLU55SFFuUHBQUTJVck9RV2dYMy1jd3RqRjFwazcxYThTTXhMdkdhVEVnUHhmN3JDMVRmMWdCXzRtZ1dyU0dMX2dmQkdmWURTYnRDZVQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk zapowiada zmiany w rządzie. \"Każdy błądzi, ja pewnie też pobłądziłem\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUVZTThJeXlaOG9MZTNQalVncG1xUG1BcmFoUEo4RFM3TFA1ZUxnOGE3VXhJYlBfcUxmYVd1SnNkMTFHSVRaR2xQX1VPeF84YjY5VGVIYkZFRFY1R1hCTy1pLTFGVVdjSUlUNkxTUngxSXVuNE44WmNKQmxpNEZrdXJRdEtHOHlfVGpETmxTOGlmNU5KUGxUbjFyOHJuQkhRUk1fNTBmNkc1OFlGU3NsdVJfdF9zMmpwVUQxNEJ0SnR0TmFyeVE?oc=5"
+      },
+      {
+        "title": "Sławosz Uznański-Wiśniewski nie poleci dziś w kosmos. \"Ryzyko 25 proc.\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXRZM2tWbl90M0xPZ0xpR0o1Z3lQVzI2OXZrR3B4dnltLU4yajB4aGFJUmt0RlRsNHhZZUVZZGxZRFR0NEFEbGJaRFYzQ1dwTDUtS004OG93WFo2dFJFSzRqMGs0ZEd3UEZ6aXJhUVhtSHN5S1hEbTNiUWp0TTFWRUtVN3ROUEVTeTZ4TkNiR0lLN3lNdy16UEZid0xIcWhoYnc0Wm1tQ3FDS2pIeVNITXJUVVExdXpUYkxsdzM0Y1VnYkpROEZR?oc=5"
       }
     ]
   }
