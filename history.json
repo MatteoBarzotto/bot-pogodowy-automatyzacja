@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-09 15:27:47",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.7427,
-      "EUR": 4.2772,
-      "GBP": 5.0798,
-      "CHF": 4.5628,
-      "JPY": 0.025961,
-      "AUD": 2.4428,
-      "CAD": 2.7364,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 403369,
-      "DOGECOIN": 0.69372,
-      "ETHEREUM": 9527.6,
-      "LITECOIN": 334.18,
-      "RIPPLE": 8.47
-    },
-    "indices": {
-      "^WIG20": 2718.36,
-      "^WIG30": 3527.53,
-      "^WIG": 3527.53,
-      "^NCINDEX": 243.14
-    },
-    "news": [
-      {
-        "title": "Robert Lewandowski przemówił. \"Probierz złamał nasze ustalenia\" - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDFHcXlUamh5dlBFYW9zREFTNHJXUm1GYzdtaHF5LWNYZFZCT3JQQXdGa0llLVBzQUs0U1RfRGxKQWk4MHN2UkY5b1p6QURoNG45MjdjSkl1RFdmakF4OEJaZ3VRemJVOFVNZ3FQaFczLXZsLWhrcmNWUlY4ZmF0bDFaNmF0SVB1SDZIak5MSjF2QzF3MUFEYkNUWlFrQ3ktX3JBQmFvU2xXUDBmRm1PdGZLaU9PTGNWbVZWeGU1OFBLeGVoMmVqaURNQTNKeDg?oc=5"
-      },
-      {
-        "title": "Andrzej Duda ostrzega. \"Nie dajmy sobie odebrać tych resztek demokracji\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXNoUXkwaHBmS1JXNWxrb2pENWRvTEYtVkJOSXdja2ExZXpVdDlWcldDamhJcnZNMl9qRVA2Q2R1T3ZtU2IxdXpVdU9TYzFIQjd6d0JTd2pzeEFfdjhvbFhucHBPR0dmbTBSUndnZk9VQUxPcDhVUXI5cXNRNWtZZ29QeTVRc29sbWZEMndtVmJ6UjQ0VjJ0S1ZxU0cwdFcwQ3UxaTY5OURWOGcxYkJfQVhCUDVFR1JGS1VuMnhDWm9Lc29FcWJYWkNjVTk?oc=5"
-      },
-      {
-        "title": "Dlaczego Polacy głosują na prawicę? Posłanka Partii Razem wskazała powód - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVJ5Ym5lQkhJdTROdFZWWUFNSFZXS1Fxb2M4ZElNNWJXdThRdjVFR3B0dzUtQU1UTWdXd1RkOTI5ZF9GOG9zZ3drZnNOQkZTTmkydmRIMHhJQXNXal9QQkFQM3RYaU5GVzYwOHJLUWlvbjdnVVUyWldTVWdhQ25sc3V1SlUzclJfTmdwbjVGZWtsUTRwa29NdVNDLTJzLWlpX3MyU0VQWHAtMEVpRHNaREEtN3pNQnpwWmZXSUxn?oc=5"
-      },
-      {
-        "title": "Czy wybory będą ważne? Ważny apel do prezes Manowskiej. \"To jedyne rozwiązanie\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRnc2pwdDIwdkdQc2c4TDBTQUVldkh3bExpMEE3Tk1aZzFyOUFsRzd6aVZMTVQwM25UczlZUkoyUWthWHFrT21kWVdLZ1prWnZrTlhkMVRDMGRjZ0hqZjEtUzRVV2FFTUEyZURDcVM1aTdJd0plMFhYemRJZ2tfdXh3ZGVJUGE2dWJRTFdOSGtGOHNSYVo1NVFEQld2UE52X3dRSVJkR2xFT0FWSmJuYkVn0gGwAUFVX3lxTE1rT1dYcGd0YlFEWHdvYkpISFNheUJYVzhTVHpZYW1VNk5nVnE3Z0dJUHl4SFRXTWxDU2gyMEVhVDVTRG5sNjdMUTFZZzdLc0ZOZHh2ajFHYzRfTkgxY29EUW5FUDFRa2JoZVBQaTFIYTdiUmZkZk1KSVJSN0diQ3kwU1VZakZQSkpMOG9YSkFIQ0tiVzMteXd5S0NLV0FKN3BmbllodmVPWTJRakZFajJQ?oc=5"
-      },
-      {
-        "title": "Pieskow grzmi po słowach szefa NATO. \"Instrument agresji i konfrontacji\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEtVdURkMVZXRkstWUlFZWpLcTFjSHc3YU1TbkdBRXlkR0lDeVQ4cUgtQzBPLS1fcWg5YlU2U3BxM29rSTVJeWcxQ2FSSG83alpmcnJtdTk5eVFndjZ5UTdtdVRPOXhJbVRoUVFGUUpEZjlXRWpjOVdRa0oxOU1Ga3NicmM0T29NVHN6SjJrZkN6TlV3cXFkaHJoWW0wR2VURFYwdFJJQ25oTE45dmpWSFVLQ1Rway1iYkliS3pR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-09 16:14:29",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Tusk otrzymał wotum zaufania. W expose zapowiedział rekonstrukcję rządu w lipcu - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGVuSDNBOVY5TXNFcXhJc1h1bjM1bnlOMG9QbWZ1Q1VCUFlOWlc3T1lJNE5kRW5fLU9zR3VxS0RvWG5scmpseWdZOTEybEhUcExWZ2EtbkZRT280N0NHWEpKNG4taFpCaWNndjk4bjFuSkw4ejIxdWgtUVZpb0tlazVwdWV6NVQ1azJzdjRLaFFDcGJKV2ppeFRsa3Ffbk41UW5COHBld2ZnWElVY0xCVWRvUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 21:11:00",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.7306,
+      "EUR": 4.2643,
+      "GBP": 5.034,
+      "CHF": 4.5382,
+      "JPY": 0.025714,
+      "AUD": 2.4286,
+      "CAD": 2.7267,
+      "CNY": 0.5192
+    },
+    "crypto": {
+      "BITCOIN": 402392,
+      "DOGECOIN": 0.721849,
+      "ETHEREUM": 10430.87,
+      "LITECOIN": 341.12,
+      "RIPPLE": 8.49
+    },
+    "indices": {
+      "^WIG20": 2779.83,
+      "^WIG30": 3599.93,
+      "^WIG": 3599.93,
+      "^NCINDEX": 244.8
+    },
+    "news": [
+      {
+        "title": "Po głosowaniu nad wotum zaufania dwie rzeczy wiemy na pewno, jedna pozostaje zagadką - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkE5UTJpUTZEQ0RMSkY1VWNmV2Q0ZlBVSzNOMkZ3RU5ab09RbTZpSHRqWDJOWVYtaURlb2lQOGhwaDZVY01OeVlhOHRZdHp0Z2FHUldORkMxdVNOTlViRUxkSU1GSXdWSHdEb0ZocVRJWFk5cHM2ZlNQOU5qcVY5RmdXUldCOVhVdDNHek8wdUVYUjQxOTRybURyNTROZVRpaGhpMg?oc=5"
+      },
+      {
+        "title": "Członek PKW wygwizdany. Incydent na Placu Zamkowym [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnlRekVvbjJzR05KdWtQR194ZDFUWlZ1R1EtMlEtQUZMMjJDaGFWRENPWFFaaGs2d2F6b3RaZThUaFhianBvU1FxRldGOWt1QjVNMG1JUlVHRl9semNOVWVyMTI2YmR4R2JnampVVEtFV011MTdQUE50UTZpUmlJMjRvYzNNT1BTZ29BeHFzdUxtbGtYdURIZVBDY3FwWVZZSmhPTTJVV2c?oc=5"
+      },
+      {
+        "title": "Incydent w Sejmie. Grzegorz Braun zniszczył wystawę, stanowcza reakcja Hołowni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVE4Y19DSFZoT3Y2Vk1rbmRzaFY2dTZZVGtUQ1lfUEw0MDJtcmVodlpSOW03Mnh5TkwwdERHUnhsSWw5V3RUc3R1WWp2SzF0bWJxOG94T3FmSVY3ekgzWUd5NEVwN3hxOFlfZmczdklEejVEUWNhQUVkTEtaVDlaNUd1Q0ttdFBTVEllR09qZHUtdWJ1YzdBbEp2Ql9zbk0?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy podsumował liczbę protestów wyborczych. Przebita okrągła granica - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU9QaXhzMk9iMzh6VDZWUmNDSWx2eEVNa25TZmFQVVNkeElhSUNybHpvem5jc20zMDlXQUFtRWt0d0pJR3Ywb0RTUlNOaERfTDdUeEo0ODN6VDB2cWo4ZE8tdVlFQVVGcFhLN2NHaTd5VTM2RXk2VGUyVXN5Nm95QzJ0dnFzZ0ZEQWJSRl8wbldQaGZoaWQ0?oc=5"
+      },
+      {
+        "title": "Strzelanina w szkole w Grazu. Wiadomo, co znaleziono w mieszkaniu zamachowca - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXVVUU1XaHcyRnF2U1I2ZWViVUwxX1plcU1YZ015aVU0ZTJMcUJQY2ViTm53STl0NUJiaUZXVEtxSzlhNGZzbnFTcmFiekJGRloxaTZoOE0zcE9TZ2p3ZWdXWHA0TXNvN2tacnBwNm5ROVdaem5YTE1hQjA1cFc1X2gwaEdMRDZPT2UtWkpjMUFKeEpyZ0FENVFxS3d2SXVnd3pkM1FxN3BUeXRhX1VFSmRB0gGwAUFVX3lxTE5jWERYSGNNX1pvYUJFVlUxOU9QQ01TUzExUUg5Vi1CNVdCT3JaemRVNUUtNFBKUjRzTGJCMEY3RHZ0NFpzd05tblRqaDFxZW5FNXM0d3E4QjRQcURpbkpKLUpXRV9uYThlb2ZKTEpfTnVHbC1POEJtc0xKLWxIQ253RkNSTE1sbVA0RjdOTldsSURlRi1DbG8xSTNrUzItbXF1TXg4M3otSkU3dnpRT1Nh?oc=5"
       }
     ]
   }
