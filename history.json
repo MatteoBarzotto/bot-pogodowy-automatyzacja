@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-09 17:15:19",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7427,
-      "EUR": 4.2772,
-      "GBP": 5.0798,
-      "CHF": 4.5628,
-      "JPY": 0.025961,
-      "AUD": 2.4428,
-      "CAD": 2.7364,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 403300,
-      "DOGECOIN": 0.692444,
-      "ETHEREUM": 9492.24,
-      "LITECOIN": 329.26,
-      "RIPPLE": 8.45
-    },
-    "indices": {
-      "^WIG20": 2732.67,
-      "^WIG30": 3543.56,
-      "^WIG": 3543.56,
-      "^NCINDEX": 243.15
-    },
-    "news": [
-      {
-        "title": "Michał Probierz zaprzeczył Robertowi Lewandowskiemu! Tak wytłumaczył swoją decyzję - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNanJIMUhyRl9WSFFFcm5TMmwwUkpIazF1dTdjelJIR0FQX0dzLWJsZTNfVEpIX2hUUTh0UVE1LURXdmRTcmdKMkl4UFpCbC1ZekhzeTJmU3ZzRTFnNlBJeGRfN3FDVmk1UlQwUzdaOV84eDY2SkpRaW1wUlB3cVdZNXRUUnVLeElHSW5kRUh1UE1qMkZJVUtOUTQwTTBhOFRheG1VQnZ1RmY5enQtWUdISTAwQUd6a1BDMC1oeDI1MkpnN0FSUV9DYjMyckliek1mMnlXN1hlR2RmdzU4X0huM0FzUWlnXzNLWmdJ?oc=5"
-      },
-      {
-        "title": "Powstała petycja o ponowne przeliczenie głosów. PKW reaguje na nieprawidłowości - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0pvRnF1cVljWVRpS2syV1BRbXQ4ZzI5ODV5bzhqRGVGZHgyc25kQ2ZfTWI4enp2VzBwMGFMV3NZcnlQeTdKM05oOGdYSVlDa1VTQ19nX0xWMUJ0RzlmRXdieFJSUllfdlJ3WWZGNWlwZXI4NHpiUVFBMzNUdG9nN0RlNnpLYUMyT2hpeFppWTNqLW1tYVhlVTJ6QVhjOUsxVGlxT1ZXSDlzRXhPNUNNNnNoYThuYnlEbUh3Qmp2RmE?oc=5"
-      },
-      {
-        "title": "Czy wybory będą ważne? Ważny apel do prezes Manowskiej. \"To jedyne rozwiązanie\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRnc2pwdDIwdkdQc2c4TDBTQUVldkh3bExpMEE3Tk1aZzFyOUFsRzd6aVZMTVQwM25UczlZUkoyUWthWHFrT21kWVdLZ1prWnZrTlhkMVRDMGRjZ0hqZjEtUzRVV2FFTUEyZURDcVM1aTdJd0plMFhYemRJZ2tfdXh3ZGVJUGE2dWJRTFdOSGtGOHNSYVo1NVFEQld2UE52X3dRSVJkR2xFT0FWSmJuYkVn0gGwAUFVX3lxTE1rT1dYcGd0YlFEWHdvYkpISFNheUJYVzhTVHpZYW1VNk5nVnE3Z0dJUHl4SFRXTWxDU2gyMEVhVDVTRG5sNjdMUTFZZzdLc0ZOZHh2ajFHYzRfTkgxY29EUW5FUDFRa2JoZVBQaTFIYTdiUmZkZk1KSVJSN0diQ3kwU1VZakZQSkpMOG9YSkFIQ0tiVzMteXd5S0NLV0FKN3BmbllodmVPWTJRakZFajJQ?oc=5"
-      },
-      {
-        "title": "Trump wysłał Gwardię Narodową do tłumienia protestów w Kalifornii - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWp0bDJPYjdEMkZTdkVMLWt0R0NhblA5cW9BTk1oa09neVNVN3NjdFhPdExTWFFBWW8zQ0hlNEJvNTUzZnFlUUIwWlRUZHJUOFh0XzBaVlUwTHE0Mkd1Q3M4S3lfUGtCLTlfVWxZXzNGV2x1QnY0SXF0RFhUZXhxcGlPVlBabm9CeXZ0eEttV3lDVllpOF9hZ0x2MXQyMXR3RUlXd0FzOWpmeGM?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie. Andrzej Duda apeluje do Polaków. \"Nie dajmy sobie odebrać\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUp2N21oWG42c2EtU3JEXzlwbFVZVTk0LUo4Z2NwZWFISFdQSG5GQzlhaHJBZW5kZU93dUxZSEEwNHJrM2hQc1pjNnpHbkRBTi1TQmxXLV8zSU5rWkQzUS1qd2NYOXdvOU9Hc2c0bkJ0TE16dnN6OXJuLXptcGRWR1NhM2ZfSndlYy1WUGdJYzBqR29QYjBpOTVZaFNuTjh4MFJ1V3Nn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-09 18:18:07",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Grzegorz Braun zniszczył wystawę w Sejmie. \"To zgorszenie publiczne\" - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem5ZNGpnaEQwbDBiZjRrNmNaci1CNlItQ3dkbV9jV1Q4NUJlbjVGaHVON05xdmlZMHQyNGlvUG5Pa0hOVk5CT3RNRk94UmJNT0dDMTc5cWVSQjQ2WVN6WE1fRzZBTWpyeTl4T0lZTDdFanZuQjJXU2ZMdVJLMWZwQWpNb01nQ3hUOG00dE9OSHhDRXBZOXhZcXY5d2JHM0RsbUQ4Tk9hRkJzeDNyRHpWS0lNRnl0UdIBtAFBVV95cUxQT0NGMTgxYmRlcWl4TG9Mc25PRlJCZEVOc1J1UlJBWUpHRlBUWjFLaF9xMEpUQmZMLU1zZl9Nd3BlbDFSd0JPR0lWWWxkZE9MLW9GeGtLSy1kU04yTTNQeE9HN0d5aGlmLU55SFFuUHBQUTJVck9RV2dYMy1jd3RqRjFwazcxYThTTXhMdkdhVEVnUHhmN3JDMVRmMWdCXzRtZ1dyU0dMX2dmQkdmWURTYnRDZVQ?oc=5"
+      },
+      {
+        "title": "Austria: Polak wśród ofiar strzelaniny w szkole w Grazu - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG9MaXVOQjdZVFNyME1SQ29hZGJTZ0dzeUk1bHRsNFlkUmlJbTRsdWd4NXRIOXRsbm41Z0hUTUptLVlIQWVpRHp6QzRuRGdraTU1VWVHZWVBb2toaDBlRlpkVjkxc0ZsdDFvZm0xYk9VY1lRT3hXbUd3UjdzaGlUbklCVVFLcDRBNVRxN2NkWVBBcG10TVJ5NzJiTlVIdHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 23:13:24",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7306,
+      "EUR": 4.2643,
+      "GBP": 5.034,
+      "CHF": 4.5382,
+      "JPY": 0.025714,
+      "AUD": 2.4286,
+      "CAD": 2.7267,
+      "CNY": 0.5192
+    },
+    "crypto": {
+      "BITCOIN": 403771,
+      "DOGECOIN": 0.727255,
+      "ETHEREUM": 10442.69,
+      "LITECOIN": 341.76,
+      "RIPPLE": 8.5
+    },
+    "indices": {
+      "^WIG20": 2779.83,
+      "^WIG30": 3599.93,
+      "^WIG": 3599.93,
+      "^NCINDEX": 244.8
+    },
+    "news": [
+      {
+        "title": "Kulisy wotum zaufania dla rządu Donalda Tuska: W KO każdy dostał zadanie. \"Mnie to śmieszy\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVBmd19mTzI2RV9MMWdrdi1KeEl3Mng5QzhhRmxSdjhpQnNBd1Bab05HS2xiY2N5U01pU1E3ZFY2dTFva2VYZE9XYjc5akhpUjd1UXdqbjZxZlVEUTU5N2RpWjBXYXJGeWZpblN2azlCd3M3VmlHOVJ2ZTY2SnNpaWx1WUo5OFlRSFN1RDN5ZHY4N25pX3JDZ0pIYTNLbV9xSWlEU2gtRmxpbnJuSnkwY044MDRUVWM?oc=5"
+      },
+      {
+        "title": "Incydent w Sejmie. Grzegorz Braun zniszczył wystawę, stanowcza reakcja Hołowni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVE4Y19DSFZoT3Y2Vk1rbmRzaFY2dTZZVGtUQ1lfUEw0MDJtcmVodlpSOW03Mnh5TkwwdERHUnhsSWw5V3RUc3R1WWp2SzF0bWJxOG94T3FmSVY3ekgzWUd5NEVwN3hxOFlfZmczdklEejVEUWNhQUVkTEtaVDlaNUd1Q0ttdFBTVEllR09qZHUtdWJ1YzdBbEp2Ql9zbk0?oc=5"
+      },
+      {
+        "title": "Od razu zabrał głos. Nawrocki odebrał dokument z PKW - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUm5acnlmcHZLR1BRM21yMUJBYmRWaUtTYnpCOFVySkJPWXlwZVFlVzRJc1FZUWZReTFtNl9vTkNydHlnNm9rX2o2M1hSLTI4bTZUZXZsRGNpYVp2dGJtbktBUDE3dDA0QUlnN0NHZU5pcXp1UjVjZkFJUUw1d24zOE9DaXdYMkI4alU5SGNOTjdUZEdfbVJZ?oc=5"
+      },
+      {
+        "title": "Hegseth: nie wiadomo, czy Rosja zatrzyma się na Ukrainie - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXBVX28zLUNmcE9Zd1g5eVJGeFNsMjQtNFJuSlh1dDA2ZlJ0cmRaTzJEdjM3eGtSU1lkQ0U5eF8yZmtDNTY1MzhmSW9RaXRVeVhmTVFmOUpMVV9nWmdyQU1CNEtpVm1CazVEM3dJZlM1cXVzdjh5Xzhrb1EtNlpIbENUVkh1WFEzVmNGM3Q3Z1ZZcmpxWkZCc3RIandLdndpVHlOYmlGbVdKa05pMlNyNTdsaHpEOUhVZndNeQ?oc=5"
       },
       {
         "title": "Austria: Polak wśród ofiar strzelaniny w szkole w Grazu - Rzeczpospolita",
