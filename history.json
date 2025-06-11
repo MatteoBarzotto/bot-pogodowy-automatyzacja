@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-09 16:14:29",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7427,
-      "EUR": 4.2772,
-      "GBP": 5.0798,
-      "CHF": 4.5628,
-      "JPY": 0.025961,
-      "AUD": 2.4428,
-      "CAD": 2.7364,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 401498,
-      "DOGECOIN": 0.686916,
-      "ETHEREUM": 9440.57,
-      "LITECOIN": 331.4,
-      "RIPPLE": 8.42
-    },
-    "indices": {
-      "^WIG20": 2723.88,
-      "^WIG30": 3533.96,
-      "^WIG": 3533.96,
-      "^NCINDEX": 242.34
-    },
-    "news": [
-      {
-        "title": "Robert Lewandowski przemówił. \"Probierz złamał nasze ustalenia\" - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDFHcXlUamh5dlBFYW9zREFTNHJXUm1GYzdtaHF5LWNYZFZCT3JQQXdGa0llLVBzQUs0U1RfRGxKQWk4MHN2UkY5b1p6QURoNG45MjdjSkl1RFdmakF4OEJaZ3VRemJVOFVNZ3FQaFczLXZsLWhrcmNWUlY4ZmF0bDFaNmF0SVB1SDZIak5MSjF2QzF3MUFEYkNUWlFrQ3ktX3JBQmFvU2xXUDBmRm1PdGZLaU9PTGNWbVZWeGU1OFBLeGVoMmVqaURNQTNKeDg?oc=5"
-      },
-      {
-        "title": "Andrzej Duda ostrzega. \"Nie dajmy sobie odebrać tych resztek demokracji\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXNoUXkwaHBmS1JXNWxrb2pENWRvTEYtVkJOSXdja2ExZXpVdDlWcldDamhJcnZNMl9qRVA2Q2R1T3ZtU2IxdXpVdU9TYzFIQjd6d0JTd2pzeEFfdjhvbFhucHBPR0dmbTBSUndnZk9VQUxPcDhVUXI5cXNRNWtZZ29QeTVRc29sbWZEMndtVmJ6UjQ0VjJ0S1ZxU0cwdFcwQ3UxaTY5OURWOGcxYkJfQVhCUDVFR1JGS1VuMnhDWm9Lc29FcWJYWkNjVTk?oc=5"
-      },
-      {
-        "title": "Dlaczego Polacy głosują na prawicę? Posłanka Partii Razem wskazała powód - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVJ5Ym5lQkhJdTROdFZWWUFNSFZXS1Fxb2M4ZElNNWJXdThRdjVFR3B0dzUtQU1UTWdXd1RkOTI5ZF9GOG9zZ3drZnNOQkZTTmkydmRIMHhJQXNXal9QQkFQM3RYaU5GVzYwOHJLUWlvbjdnVVUyWldTVWdhQ25sc3V1SlUzclJfTmdwbjVGZWtsUTRwa29NdVNDLTJzLWlpX3MyU0VQWHAtMEVpRHNaREEtN3pNQnpwWmZXSUxn?oc=5"
-      },
-      {
-        "title": "Czy wybory będą ważne? Ważny apel do prezes Manowskiej. \"To jedyne rozwiązanie\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRnc2pwdDIwdkdQc2c4TDBTQUVldkh3bExpMEE3Tk1aZzFyOUFsRzd6aVZMTVQwM25UczlZUkoyUWthWHFrT21kWVdLZ1prWnZrTlhkMVRDMGRjZ0hqZjEtUzRVV2FFTUEyZURDcVM1aTdJd0plMFhYemRJZ2tfdXh3ZGVJUGE2dWJRTFdOSGtGOHNSYVo1NVFEQld2UE52X3dRSVJkR2xFT0FWSmJuYkVn0gGwAUFVX3lxTE1rT1dYcGd0YlFEWHdvYkpISFNheUJYVzhTVHpZYW1VNk5nVnE3Z0dJUHl4SFRXTWxDU2gyMEVhVDVTRG5sNjdMUTFZZzdLc0ZOZHh2ajFHYzRfTkgxY29EUW5FUDFRa2JoZVBQaTFIYTdiUmZkZk1KSVJSN0diQ3kwU1VZakZQSkpMOG9YSkFIQ0tiVzMteXd5S0NLV0FKN3BmbllodmVPWTJRakZFajJQ?oc=5"
-      },
-      {
-        "title": "Rosyjskie lotnisko wojskowe zaatakowane. Uszkodzono dwa myśliwce - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQODFhREJYNlRGamlDWk5KY1JYTW5KcVA1WWltZTNJMFpRWDlZdy1XczhHcE54Rk5zYUFUQS1nb0R1QURTWXFUSXhadG84Rnk2SEx0RnVzcUFNS0puMTd1b1lzN18xZ3VLY0xpeVk1R3JpSmtfOE40cHREajdUTjdWMjZRVnFacnA3Yy04VDc4Nm5jT1VuanJ5eGhXQy1PdEpmTFpaNzJ5UVVvenVCTTAyQ29BcnVBbVl6ZFEtUDNPNGhPU2c5?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-09 17:15:19",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Strzelanina w szkole w Grazu. Wiadomo, co znaleziono w mieszkaniu zamachowca - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXVVUU1XaHcyRnF2U1I2ZWViVUwxX1plcU1YZ015aVU0ZTJMcUJQY2ViTm53STl0NUJiaUZXVEtxSzlhNGZzbnFTcmFiekJGRloxaTZoOE0zcE9TZ2p3ZWdXWHA0TXNvN2tacnBwNm5ROVdaem5YTE1hQjA1cFc1X2gwaEdMRDZPT2UtWkpjMUFKeEpyZ0FENVFxS3d2SXVnd3pkM1FxN3BUeXRhX1VFSmRB0gGwAUFVX3lxTE5jWERYSGNNX1pvYUJFVlUxOU9QQ01TUzExUUg5Vi1CNVdCT3JaemRVNUUtNFBKUjRzTGJCMEY3RHZ0NFpzd05tblRqaDFxZW5FNXM0d3E4QjRQcURpbkpKLUpXRV9uYThlb2ZKTEpfTnVHbC1POEJtc0xKLWxIQ253RkNSTE1sbVA0RjdOTldsSURlRi1DbG8xSTNrUzItbXF1TXg4M3otSkU3dnpRT1Nh?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 22:14:05",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.7306,
+      "EUR": 4.2643,
+      "GBP": 5.034,
+      "CHF": 4.5382,
+      "JPY": 0.025714,
+      "AUD": 2.4286,
+      "CAD": 2.7267,
+      "CNY": 0.5192
+    },
+    "crypto": {
+      "BITCOIN": 402433,
+      "DOGECOIN": 0.720781,
+      "ETHEREUM": 10376.79,
+      "LITECOIN": 339.12,
+      "RIPPLE": 8.46
+    },
+    "indices": {
+      "^WIG20": 2779.83,
+      "^WIG30": 3599.93,
+      "^WIG": 3599.93,
+      "^NCINDEX": 244.8
+    },
+    "news": [
+      {
+        "title": "Mistrz świata nie wytrzymał. Tak podsumował słynny wywiad Jana Bednarka - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUElkVkVkLWZuZGlnRFhORnpTeU0xRExIbmtsdUtLRGFDaUF3eTJSczRCOExfSGF3ZzFBdHZ0R1N0YVc0Vm5wLWRnal9yeG85MlhFMWxVLWJreHF0ek1nSUJ0Wi1wQ1BVSWpDWGtUOHdCZGpMQXFOZDFzcS1GaDlLcWprdXVJbThldVZVT05rREJRd3dFeDQtRlBQWnpzWXd6TkN5Wk5CLTlXNE1TYjVjMm8ySmowTzlnN3c?oc=5"
+      },
+      {
+        "title": "Ważna uroczystość na Zamku Królewskim. Karol Nawrocki odebrał zaświadczenie od PKW - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclViaWRCbndQdDBfMlJObXo0QlVsZDZvaUpEREFzeFlvMjVRck84Q0d3bzlMbFJSUWVZcnpLUktTVzlTYlpUR1pTMnNueDNPNzhMM3dXU0otR09MTUY4R1R5dnZwbGtGbk1rcUhOT290NTFrdEs4YlFWT09ReU5xVDNpRE9XWVBMMkxqUkpzdmhJV243ZjNjZDM4VGVCWmpsWllSOFJ2d2xpcW55X1owN2JoYUFWQ0JlazZZNjJBRS00YUJMT2Fzdg?oc=5"
+      },
+      {
+        "title": "Wotum zaufania rządu Tuska. Trzaskowski zabiera głos - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3d2V3RsdVB0TmpyY0ZiWEx4dUFKS1hLTzh3UmJPcjJqNF92ZzI0MDNXZmdkQllMRzRaX0NBYTdFYUVwSGtPdTNXWklrZDNRNDlPWlV0aFRjS0lwdnl2djFDeWszMjdHNlQ3VGVPemVrdFhDTlMtSkRHUGZ0NWZocEdLeGpOZUZfQ2QycUdCbWhHOVd6SS1JR3VR?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun zniszczył wystawę w Sejmie. \"To zgorszenie publiczne\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem5ZNGpnaEQwbDBiZjRrNmNaci1CNlItQ3dkbV9jV1Q4NUJlbjVGaHVON05xdmlZMHQyNGlvUG5Pa0hOVk5CT3RNRk94UmJNT0dDMTc5cWVSQjQ2WVN6WE1fRzZBTWpyeTl4T0lZTDdFanZuQjJXU2ZMdVJLMWZwQWpNb01nQ3hUOG00dE9OSHhDRXBZOXhZcXY5d2JHM0RsbUQ4Tk9hRkJzeDNyRHpWS0lNRnl0UdIBtAFBVV95cUxQT0NGMTgxYmRlcWl4TG9Mc25PRlJCZEVOc1J1UlJBWUpHRlBUWjFLaF9xMEpUQmZMLU1zZl9Nd3BlbDFSd0JPR0lWWWxkZE9MLW9GeGtLSy1kU04yTTNQeE9HN0d5aGlmLU55SFFuUHBQUTJVck9RV2dYMy1jd3RqRjFwazcxYThTTXhMdkdhVEVnUHhmN3JDMVRmMWdCXzRtZ1dyU0dMX2dmQkdmWURTYnRDZVQ?oc=5"
+      },
+      {
+        "title": "Austria: Polak wśród ofiar strzelaniny w szkole w Grazu - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG9MaXVOQjdZVFNyME1SQ29hZGJTZ0dzeUk1bHRsNFlkUmlJbTRsdWd4NXRIOXRsbm41Z0hUTUptLVlIQWVpRHp6QzRuRGdraTU1VWVHZWVBb2toaDBlRlpkVjkxc0ZsdDFvZm0xYk9VY1lRT3hXbUd3UjdzaGlUbklCVVFLcDRBNVRxN2NkWVBBcG10TVJ5NzJiTlVIdHc?oc=5"
       }
     ]
   }
