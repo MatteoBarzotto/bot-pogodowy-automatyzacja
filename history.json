@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-09 03:12:35",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.7565,
-      "EUR": 4.2881,
-      "GBP": 5.0867,
-      "CHF": 4.5696,
-      "JPY": 0.026077,
-      "AUD": 2.4379,
-      "CAD": 2.7461,
-      "CNY": 0.5229
-    },
-    "crypto": {
-      "BITCOIN": 397781,
-      "DOGECOIN": 0.690877,
-      "ETHEREUM": 9418.61,
-      "LITECOIN": 327.98,
-      "RIPPLE": 8.5
-    },
-    "indices": {
-      "^WIG20": 2699.85,
-      "^WIG30": 3502.98,
-      "^WIG": 3502.98,
-      "^NCINDEX": 242.85
-    },
-    "news": [
-      {
-        "title": "Powstała już petycja. Żądają ponownego liczenia głosów w wyborach prezydenckich! - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXd6WlMtWlpBYjVJaTM2VWMtSjdOOHpSdGI1LVFxUXFHRGU0SzlKUy15MWM5T3praFRTNko1T3pLbEpUc3RjUEktV25yR0Fmcm8wSHQ2Y1FKZ1VDTnhneHVPY2Q2ZTR6eFVJckpUeUNwRF8yOXlzbEEzd1pwbHRwazc2Vm9Wb29ub1JjTTItWHhBcFFuVnFPSld3?oc=5"
-      },
-      {
-        "title": "Masakra bombowców Rosji. Dron wybrał cel z drabinką i szukał czułego miejsca - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDFtNGdlRGFsME5hSTJKd1FyZVNTd0lpUmVFVk9kdXYwTGdWYjVrQzg3YzhlTllQS1BkUE80OWZ5ZkZ1LWVYTDlRWHhfWUdjWVhCd3JIb1ljTUVtT1lxUjFiRGczX3J6SGJmb19qUG0zbUtRNWQzQjlHZjVLd29vdU5KVFBPc1lhbFg1TUhydHpaNHVKdjNGa2VaMms1b2ZFd2I4S3EzVGpKcVZ4V3BaaE5yUEFWRG9Z?oc=5"
-      },
-      {
-        "title": "Rosjanie ogłaszają sukces na froncie. \"Pierwszy raz od rozpoczęcia wojny\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDVfQ2p5ckRwb0l2Q3VUdFBEbzZRNzZHdnVJRDA0emZUeE80UlBRWnBJOVI3Wnl3TmUtVGhxYzJXUzAzYUlCNE1HVjRxQmVJc2Z3Q0ZNX2VTdi1sUExQSW40UVVVRWhDSS1td08tUHZYU1dBVVU1dXVIWGlicXlib0FRX25GcnFGanVTNEhTblZpQkM2MHFFbkJMbjU1NWJvdTlSWWRSNUJ6LW5fdFgyOA?oc=5"
-      },
-      {
-        "title": "Znaleziono ciało młodej kobiety. Policja prowadzi działania w Tarnowie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUp4RGFTRnhhY1RZY25mcWY5clhUMDlkUVBUTVpDWml4SHRhUGZvb1c3UTkwd1F6SnlaVEF4RXlzbUNQTEZEUjVuZWMxYjlxSm51NTlRZXBZbU9Gc25YdHNJSGtMcXNFV2REMXR5TURRLVJid1FFb2FUeWl5VFpFS2VheFpXTFlwcXBZaHpqZzQtUDE5dFdEcDBvaEE3QQ?oc=5"
-      },
-      {
-        "title": "USA zmieniły decyzję. Pociski dla Ukrainy trafiły gdzie indziej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlZkaFBfZlo3bWhTWHdnRHk4a3NjalVVblJhSm94SU1qNXA5VzVzUkxITUFaeklRTENOU0VQUjZIbzVqQ3lJQWJFYXBnOF94b2ptMVlXTHJfcDUzdkhUQXdVclpLOFc4S3FHdk85QmxWQlhPVDBUQlVhUFhBbnk0S0ROTGNnMjJ1cGJvdWZDcnBqbHl5Wm95U2VqODc5T1RlR3IwRmxPMFYzdk5ycHNZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-09 05:18:10",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Wariant wojenny\". Poseł KO wymownie ws. doniesień o Czarnku - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZEo4NUFnTjhMdWs1a1J0S09NZGZvLTNnbGViS0l3UkhWclBNU0xEdVB1TFFjc3ZQeEtXb1lESmlTNW1LTmhxeDRBMnFwMm52aVEwbzBRQjhQSmN6TVppZk8xMG4xd3NEcGFlNjVUeHpqZ2RoMnA5cVA1bTFEampGdXEwZkxVR3hoOTNnaHlfYW9IRklEcmVGenlsMWQyYVRoYkl4aE5fSllJcmVPaE50NThXYkxZTWdjYUZDN3NxTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-11 10:19:21",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7352,
+      "EUR": 4.2611,
+      "GBP": 5.038,
+      "CHF": 4.5486,
+      "JPY": 0.025823,
+      "AUD": 2.4332,
+      "CAD": 2.7251,
+      "CNY": 0.5197
+    },
+    "crypto": {
+      "BITCOIN": 409128,
+      "DOGECOIN": 0.758808,
+      "ETHEREUM": 10410.27,
+      "LITECOIN": 343.52,
+      "RIPPLE": 8.63
+    },
+    "indices": {
+      "^WIG20": 2770.34,
+      "^WIG30": 3588.76,
+      "^WIG": 3588.76,
+      "^NCINDEX": 246.22
+    },
+    "news": [
+      {
+        "title": "Kluczowy dzień dla rządu Donalda Tuska. Sejm decyduje o wotum zaufania [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWFFb3NLazJKSVlaMW14a0FPaTRFLU1nT1VTV0s0dlBMWlNsUFp4WFVON3ROdGdIWVBPU2FhRFQ1ZEwxc1o4YVAtN2QyeHZBY25zam9uWmxNX3Q1NDlaZ044am4zWmRnRE1lSTZWc2NfR2V5YnpEZFdCSk9IZm85QWRHX1VoenV5U21OWTJlSTZScHNxUms0UWhzbmM5bURqY3UyOURBQnJ2cWs0X0ZuLThaSQ?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny przed wotum zaufania dla rządu Donalda Tuska. Jest problem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSVEzbmY4cDVBNGpsSmVSeXp3elhPMm1jWDhEZWNhY2M1S25BNGZrcTRuVDZTMmdKb1hUTmJOWTlXVmRJaHVEeDMtSVktTnU0dWhZcHBNTkxpVG1oWUQ1UDRaaVBRdVRaOEszUmo0TWt5cVZZNmZqOUMtOTNYYlNVcUdIZzBhYzJWQWR4VkFUa1o2ZzdrbG9TNlRVdGRVVkVUQlk2RnlNQzctV2p5NVVRRkxVTGVub1A0WThQcE1fUTViSkx0bjFz?oc=5"
+      },
+      {
+        "title": "Lot Polaka w kosmos chwilowo odwołany. Podano powody - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVY5VGtRMUlpbHlNdkx1QmlFZ1dJc1VuNUxvSG5HVFFLTzZKWEdwamtSc21PNmhoaFpucnVFZjZ5ZTFkdzRDb19LZ3A5SkdfQktab1ZKQVFTMTVCNWFvMi1jTTVXTS00RkdRQXJtYk9fV3FwaGJQUzhXUURodkNJZUJubFN4V0M1bGhPdFVrZ0owNWtBNWEtQzFialM?oc=5"
+      },
+      {
+        "title": "Kwota wolna od podatku. Nawrocki powiedział, co zrobi z ustawą rządu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmRzYURkM2cxem1CeVZmWDR3UnZlTk9abzYyYTNtb1lnbTRKdkJwQjdYMEdFclA0MEhHa3lLYmlHRXhmYzNUSVlaZ1ZqdWplWmNiOFJ2ckpHa0QxUE8wNGtrYWRQMmNXMGE4aE9tbUQ2Y0hyMF9JY094ZUh5bjBJV1NnZlVaT3RlYjdkXzBsd2dJUUQ2UW9GazJPOXBuU19wSW12UUExSXkwY3F0bkVGT2J3OWl6WS13alF5VktB?oc=5"
+      },
+      {
+        "title": "\"Zanim będzie za późno\". Trump ostrzega Europę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnhJbmc0NlNTUEZiWmVwMlMwbk1vM0hGNG0wRXI4dXd6NUpFZjdOT0kza2hfQmZkeElxSWNFd3pWMHJuS2E1bjJRVTIyYm5WcmJTNXJnOTdrc3VKQXptc1hROWtoa0FtaGkxaDRMX1lTbEZRVkVpdkx5d3VmblU5Q1UwcjRmMGF1UDVIWDMxWQ?oc=5"
       }
     ]
   }
