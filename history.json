@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-10 12:15:31",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7352,
-      "EUR": 4.2611,
-      "GBP": 5.038,
-      "CHF": 4.5486,
-      "JPY": 0.025823,
-      "AUD": 2.4332,
-      "CAD": 2.7251,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 408627,
-      "DOGECOIN": 0.716622,
-      "ETHEREUM": 10050.12,
-      "LITECOIN": 335.61,
-      "RIPPLE": 8.54
-    },
-    "indices": {
-      "^WIG20": 2765.73,
-      "^WIG30": 3588.62,
-      "^WIG": 3588.62,
-      "^NCINDEX": 243.62
-    },
-    "news": [
-      {
-        "title": "Strzelanina w szkole w Austrii. Co najmniej pięć ofiar, trwa obława - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE9RaUdGVVh2cUlnREQ4R2IwOEpQR0g0WVMzcmZyQ1lEYUxvdWhmZFhkU1dXeHNuU1J1QW1ReGJVRHBsQmN2YzhEZXJTbUdqRGYwejZlM0k5S2NBcU4wRlNvbG9zaGFkaWJ3dHZKQ0g1bFR4bzJOUjlOZEcxSUhPeGpCU2ZEeHAwZVgzNnpESGQ4NWM0TS1zQWZkMy0zZ0ZzSEJaSnhjMkNlR0VCejVNVDY1YUJoWkRMM09Ja1pmTDN4YW1pdHJn?oc=5"
-      },
-      {
-        "title": "Nocne ataki na Ukrainę. Rosjanie trafili w szpital położniczy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS09MUlYyNENFSW95LTJCOS1tTzR6VmRkSkI2UmpoZEhlMlcxYTJtU3dmNjdyblZFNjF5dXVnaFh5TFptYzJYcjQ0d0tKN09yOW5yTkdFNVQyOHM0NmFNWEZiWjNQaW81a3pUZU52c2tFendyZ2VxUmg1d2VxYmZibFo2QlRqcHdFVFl6NFFKWm1lQ3dDajcxeEF6d1Y5WmRIcU9heTdDbl9Cdw?oc=5"
-      },
-      {
-        "title": "Bodnar uderza w Dudę. \"Prezydent jest w kiepskiej formie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzF3OXpwam9xTHpOY3I5MHNWV3pOMDFVT3R2b0RTbDdLb1cwWXYzdEpUMGZXUTV6VXBOMVRwcG1lUWtNMkYxdWpyNk5xVE16cHBYX0NmRHRwQzdOZE16VGVQeGh3TjJZd2ZKbkkwVlRtS1lWQmFNMExxR0tPN1VfNnRhaURnLV9HLTMzYXRySzI2V0NCSnFNY0xSdzBxZw?oc=5"
-      },
-      {
-        "title": "Wotum zaufania dla rządu. Jasna deklaracja partii Razem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1NCa0pHN0wtUkFmelFzUjhCVVNvaUJCd3BoV21CVnhPZVB3VEhXdmdjZmJBaG90X3N5Y3pkOFI1UFA3U09SWXhaVHE2ZmhJTkhxTUo1NXlDZnhLWFpma2otY1NTcEx4RUltb0pXUTVFZEhvWU5BbHlhS0dfenRnbllrUUlSNXFhWGpjVVdMYnZVR2RTVHppdkdn?oc=5"
-      },
-      {
-        "title": "\"Wybór prezesa to formalność\". Zbliża się kongres PiS - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlFMS2lybGtrVVRabzNId3BaVkphQXpYOVBzRkt1RjVDZW05YzhiT1otd2t2bVZha2dRRmZMaDh4M2doMWJTR0VCZFNmWHBlc3Y5UURCNGtSNUVVQ1psRFZCRTlmT2d1bHp6ck1YZWd2V19MTEVYX3FacEZHMkdTUGtjR3F4ZXpPWUxWX0diXzRKV1NPUFc1Q0UydzJ5VE13OVNFUXVNdEt5dWVFNmswdTYzd3JkbzJBRGJRQXFIM3pfdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-10 13:12:28",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Karol Nawrocki odebrał zaświadczenie z PKW. Jego żona cała na biało - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczlVSXRpaEplZF9sdlBQWm5iUU11N1lVZ2l1MFY0cGlvY1EydFY1MTlPRVlqRmp4VENNSWl6eldiaUZWWTNqS1R1QXo0TG1iUE9iSktIYmpJSWIya241QllKR1Nqbm93Z1pmNGJTT3FxaDRONnJTS21uc3hpeTFyVndGSGFkUDQ1bi1JbVF2Q3ozWE1uRkJXcHBIcjBUWFJzeVpPcF9rN0hyY1psZTk4NjZ3WlZaMjZkT3otUDJRU25lUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12 18:17:24",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6929,
+      "EUR": 4.2631,
+      "GBP": 5.0098,
+      "CHF": 4.5333,
+      "JPY": 0.025681,
+      "AUD": 2.4009,
+      "CAD": 2.7045,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 396297,
+      "DOGECOIN": 0.689532,
+      "ETHEREUM": 10079.76,
+      "LITECOIN": 326.07,
+      "RIPPLE": 8.25
+    },
+    "indices": {
+      "^WIG20": 2755.65,
+      "^WIG30": 3568.57,
+      "^WIG": 3568.57,
+      "^NCINDEX": 243.8
+    },
+    "news": [
+      {
+        "title": "Katastrofa samolotu w Indiach. Jedna osoba ocalała, media piszą o \"cudzie\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2M5aFRTNGUybThWTHJKVDhySzl2QnJqZXc4b3dkcWIxREU0S3BETVpJU1ViUUM4T01zYW1rNF9pUEJ1NGtGQ3NNUXFTUVFmTGtlMEJwSHUtNkN6NEZBUUxQMjlqM1NyUEtiUGRPblVKRGlCbVV3elRZY2pTTUVZUnVvQ2JKUldFOTVKQWwyUVVJREViaFJvVzhwYWRXN202WmhCdGdjOWNGVENabnRFRjVNWEcwUWFnYzFBNUZNdw?oc=5"
+      },
+      {
+        "title": "Prokurator wszedł do NBP. Zażądał tajnych dokumentów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXBfcXBrUTh4MzM1RWVsRUMzODZKZEUzMjBpXy00clZxaEFtSjYyTjAxdjI2TzB3emZsQmsyM2R4SlNScHc1dnZCQmRMTkh4MWJpM0tRUXZOOGZhbkFLcGxMOGVDVnczRHBJb09GbVFsOXJMb2RBUlROeE1TUW0tcGd5RmQ5MDJLRXR5TTd4TkZvT1pfbVVHc3BBOFBGTUtLMUNvaU5EckhEZw?oc=5"
+      },
+      {
+        "title": "Jest decyzja w sprawie lotu Sławosza Uznańskiego-Wiśniewskiego w kosmos - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFNUU2dLQW52T28tZjVGTUZpejgxZWQ4QXU3SlpydnF1bGVJWjV4QmpPeTNmLXpqX1NkU3RnOEVfeGZrR1RUeGF2OF9xeHZuWkdPVkdrYWphTW9LbEUwMUJ1eFlicmpSa3N6UU85LVBqa2IyMGY5cHUxQWVveUJ1LVlNQTRqZkdabnhyMWtld3lXaVowR0RNck9vbkhDWkFmV3BiV09nbVgzdHUtVEM5c09hV2JsVVhNRklkNlhB?oc=5"
+      },
+      {
+        "title": "Głosy z dwunastu komisji do ponownego przeliczenia? SN nie wyklucza - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMTJoZDJGUFU3a1FfMVl6NkdXdmhOZnVzcUlCTkU5U1d2bE5HZTVRNXZhZjZ0ZXJNZ243bEJhRXdYYmdYRmd4MUgtcVBITHYybnpNZlBUOXBlX2xZRWd4cXNkYU9JSUpOYjY4RTJsVl83RW1RR0QtVk9qdkFLYXNjVEF6bEN6VUNFZmJFaTJ4SUIwYi1IOVI0NGdVMEo1bFRMdVBielpnVUlkVUd4N0NYVHU3TV9NZ1JBYWFxVmEtXzhuN05xYTBMR2pObWY?oc=5"
+      },
+      {
+        "title": "Ekspertka o stroju Marty Nawrockiej w Zamku Królewskim. \"Chcieliśmy Amerykę? No to mamy\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjFDTGc1WUtXRE5KQ29DeXZVS3I4NjNHamUzOXRvR05YXzctLUNtZ3hGc0RSZVRiOFZ0aVBBVEd4bTgwM2lBX0NjWmtfUzJHcVdBLUNRdGxPRFZRVzdlSi1rSWs5M2lWYXFrZ05vVk5TMUl2NDIwY3ZwdGROcDdyNGN6a19zQTZSTEM0NHlHTjVhTzNObTF4aUVLZXZOUmZkcmJJWW5nLWlGMlNMTWZ5WHUwMEx0Z0FfQ2p5X0Jn?oc=5"
       }
     ]
   }
