@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-10 13:12:28",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7352,
-      "EUR": 4.2611,
-      "GBP": 5.038,
-      "CHF": 4.5486,
-      "JPY": 0.025823,
-      "AUD": 2.4332,
-      "CAD": 2.7251,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 407563,
-      "DOGECOIN": 0.711383,
-      "ETHEREUM": 10039.34,
-      "LITECOIN": 334.65,
-      "RIPPLE": 8.49
-    },
-    "indices": {
-      "^WIG20": 2780.55,
-      "^WIG30": 3604.47,
-      "^WIG": 3604.47,
-      "^NCINDEX": 243.58
-    },
-    "news": [
-      {
-        "title": "Donald Tusk odpowiada Andrzejowi Dudzie. \"Nie ma prawa lekceważyć nawet jednego głosu\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGxoQzlxUlU2WENRZFZmVi1RbWkxMndCUkd0VGVkN2V3OGZ2alpYeXNoYWlVQjRMWnF5UFA5Y01RazhRMXkzSHhieVhrazh5ZzZnREtlQnI4cUx0VjVxMVBVTE1HdUJuOWM5Zl9lSG5jT2ZHNGhiS09ZTmpOTkdkcFcxV3kxZjVmOE1fZDhUQnZ3VXpLSjdRNU5ZaVlUdWZDMWpycUtRX3EzUjZ5M3hBbnZENWtyWlRncE5hTmJSRGY?oc=5"
-      },
-      {
-        "title": "\"Sytuacja jest poważna\". Strzelanina w austriackiej szkole. Są zabici i ranni - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOVhwTFpPV1U2eGZkU0JxLUNxRkpodEVWTXVpc19IRng3czdPTEJsNk5TX3hFY1JzYktrSm9PUDhoWGVNU1V5b0RhVEtPSUo2S3FTR0ctYnUxenhKOVNaMDJKWjh4dUNVRVI0N2duTkduekE2SjFqQmZjTkdHcjNjNk0xeXVzUE92U2VMQ2Z6X1NrUmlOUV94MmFkaDRFcEVZbDZReXVEZURNYllZTjZDdWJpOA?oc=5"
-      },
-      {
-        "title": "Rosja i Ukraina wymieniły jeńców wojennych. Do domu wrócili żołnierze do 25. roku życia - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHdsY2EyTzBkb01BSFNNS0llSzhENm9vNTFBWE5TMnY4TTdWcVRGV3dNeFlSLUN0ZnNjMnZUakhib1NiTTVuQ1RYbTgzZTFFY2ZvUDFCZ3ZOeGQ0aVgxRVRaRmhDeFBuc19uMUFLSk9DUVRXbnNnOVZMeDFjUHp2eXdmU0U1TVdFMG5qR2JWOVJzTk1aeVU4?oc=5"
-      },
-      {
-        "title": "Krzyki na wystąpieniu Kaczyńskiego. \"Kłamca\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTg5Nk5FMzB0a1RER1gwbGZNZ1ZVY1FRQmEzem0yZ2xTZ3R5UzFXUm1WZjR4UTJ3LXNtR1E3ZkJfRmpQUDdiM29rY0pxMm5zTnBEUmpBNl81bkVMSzJ1bmVoakRYQy10WFB5SXRaTnlhY250RXdqUFQ0WXVVU2o1YmllT2Y4YndOVEV4dw?oc=5"
-      },
-      {
-        "title": "Kluczowy moment dla PiS. Kończy się kadencja Jarosława Kaczyńskiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlFMS2lybGtrVVRabzNId3BaVkphQXpYOVBzRkt1RjVDZW05YzhiT1otd2t2bVZha2dRRmZMaDh4M2doMWJTR0VCZFNmWHBlc3Y5UURCNGtSNUVVQ1psRFZCRTlmT2d1bHp6ck1YZWd2V19MTEVYX3FacEZHMkdTUGtjR3F4ZXpPWUxWX0diXzRKV1NPUFc1Q0UydzJ5VE13OVNFUXVNdEt5dWVFNmswdTYzd3JkbzJBRGJRQXFIM3pfdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-10 14:28:59",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ekspertka o stroju Marty Nawrockiej w Zamku Królewskim. \"Chcieliśmy Amerykę? No to mamy\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjFDTGc1WUtXRE5KQ29DeXZVS3I4NjNHamUzOXRvR05YXzctLUNtZ3hGc0RSZVRiOFZ0aVBBVEd4bTgwM2lBX0NjWmtfUzJHcVdBLUNRdGxPRFZRVzdlSi1rSWs5M2lWYXFrZ05vVk5TMUl2NDIwY3ZwdGROcDdyNGN6a19zQTZSTEM0NHlHTjVhTzNObTF4aUVLZXZOUmZkcmJJWW5nLWlGMlNMTWZ5WHUwMEx0Z0FfQ2p5X0Jn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12 19:13:11",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.6929,
+      "EUR": 4.2631,
+      "GBP": 5.0098,
+      "CHF": 4.5333,
+      "JPY": 0.025681,
+      "AUD": 2.4009,
+      "CAD": 2.7045,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 398063,
+      "DOGECOIN": 0.695967,
+      "ETHEREUM": 10143.5,
+      "LITECOIN": 329.14,
+      "RIPPLE": 8.29
+    },
+    "indices": {
+      "^WIG20": 2755.65,
+      "^WIG30": 3568.57,
+      "^WIG": 3568.57,
+      "^NCINDEX": 243.8
+    },
+    "news": [
+      {
+        "title": "Prokurator wszedł do NBP. Zażądał chronionych tajemnicą dokumentów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXBfcXBrUTh4MzM1RWVsRUMzODZKZEUzMjBpXy00clZxaEFtSjYyTjAxdjI2TzB3emZsQmsyM2R4SlNScHc1dnZCQmRMTkh4MWJpM0tRUXZOOGZhbkFLcGxMOGVDVnczRHBJb09GbVFsOXJMb2RBUlROeE1TUW0tcGd5RmQ5MDJLRXR5TTd4TkZvT1pfbVVHc3BBOFBGTUtLMUNvaU5EckhEZw?oc=5"
+      },
+      {
+        "title": "Głosy z trzynastu komisji do ponownego przeliczenia? SN nie wyklucza - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMTJoZDJGUFU3a1FfMVl6NkdXdmhOZnVzcUlCTkU5U1d2bE5HZTVRNXZhZjZ0ZXJNZ243bEJhRXdYYmdYRmd4MUgtcVBITHYybnpNZlBUOXBlX2xZRWd4cXNkYU9JSUpOYjY4RTJsVl83RW1RR0QtVk9qdkFLYXNjVEF6bEN6VUNFZmJFaTJ4SUIwYi1IOVI0NGdVMEo1bFRMdVBielpnVUlkVUd4N0NYVHU3TV9NZ1JBYWFxVmEtXzhuN05xYTBMR2pObWY?oc=5"
+      },
+      {
+        "title": "Katastrofa samolotu w Indiach. \"Wygląda na to, że nikt nie przeżył\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnRyaEFkTEoyQzdvWmo4OG9ZXzZwejM1NTBGTDBpdkR1LTRrejM1VkVUYlJZdmhTSDlsVzZ1UXF0QmFYRE81amM3a3RtX0R1RTlwc3ZZTEZCc1p3aXJGWW1BeWVHVmxNamVTeFM1WVZFVDZmem1BRjN6ZzZObUpfelpibHlXclRSNFZtUXRLRm5KamN3TUJ5ZEx0dnFMdG1HYzRmN25qaw?oc=5"
+      },
+      {
+        "title": "Jest decyzja w sprawie lotu Sławosza Uznańskiego-Wiśniewskiego w kosmos - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFNUU2dLQW52T28tZjVGTUZpejgxZWQ4QXU3SlpydnF1bGVJWjV4QmpPeTNmLXpqX1NkU3RnOEVfeGZrR1RUeGF2OF9xeHZuWkdPVkdrYWphTW9LbEUwMUJ1eFlicmpSa3N6UU85LVBqa2IyMGY5cHUxQWVveUJ1LVlNQTRqZkdabnhyMWtld3lXaVowR0RNck9vbkhDWkFmV3BiV09nbVgzdHUtVEM5c09hV2JsVVhNRklkNlhB?oc=5"
+      },
+      {
+        "title": "Płaca minimalna wzrośnie w 2026 r. Tyle zarobią miliony Polaków - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODZRYXJhNFNMak1KdHZfVE1MM0o2VVdON0p2OXF3WTRtS0hDY1lzbnZGUUZLMlFGeF9zUjVtX3l3dEtwbHJzMEFpbklOS09hYXRhQ09IRHh6TzdUODE1bXh3SjJpU3dXb3FDUEpFckZUcW5oWVF5dld1TnlFNEpqTWNHSlZYc3FFeUhrOWFrVWJyV2Y2d3IyZ0o1LU44dXhaSkE?oc=5"
       }
     ]
   }
