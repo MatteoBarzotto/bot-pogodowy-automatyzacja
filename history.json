@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-11 13:12:56",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7306,
-      "EUR": 4.2643,
-      "GBP": 5.034,
-      "CHF": 4.5382,
-      "JPY": 0.025714,
-      "AUD": 2.4286,
-      "CAD": 2.7267,
-      "CNY": 0.5192
-    },
-    "crypto": {
-      "BITCOIN": 407221,
-      "DOGECOIN": 0.746767,
-      "ETHEREUM": 10315.52,
-      "LITECOIN": 340.41,
-      "RIPPLE": 8.64
-    },
-    "indices": {
-      "^WIG20": 2760.49,
-      "^WIG30": 3577.2,
-      "^WIG": 3577.2,
-      "^NCINDEX": 246.51
-    },
-    "news": [
-      {
-        "title": "Wotum zaufania dla rządu Donalda Tuska. Dziś decyzja Sejmu [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWFFb3NLazJKSVlaMW14a0FPaTRFLU1nT1VTV0s0dlBMWlNsUFp4WFVON3ROdGdIWVBPU2FhRFQ1ZEwxc1o4YVAtN2QyeHZBY25zam9uWmxNX3Q1NDlaZ044am4zWmRnRE1lSTZWc2NfR2V5YnpEZFdCSk9IZm85QWRHX1VoenV5U21OWTJlSTZScHNxUms0UWhzbmM5bURqY3UyOURBQnJ2cWs0X0ZuLThaSQ?oc=5"
-      },
-      {
-        "title": "Reprezentacja Polski w marazmie. Praca Michała Probierza nie ma już sensu - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamtOMXhHWm1GdnhUazdXbHFTRldtWVZvTG91Ukk0aFpmMFVoY1JfX3U2a01ROHR1QUF1M3VCZEZFME9Vd3AyY2VYZGt5SHNfUmM5eUdwcFNGQndmLTJuRkcycThZVkxrQW9LSjlmb3ZQWWZFeGRCQWhibWxKcy1xby1OSDh2Qm9fb2NFSnZWYnkwVHpvbWg5Y3FHbEp1Yl9hNzk4Mnd5WjRUd0gwU095MFNn0gG3AUFVX3lxTE5ldW5hLXdlUUlXdUJidk1GdHdlcEZEUVNEYzR3Q25DYmlFSk0xa3JyN0pVMlBXR3ZlSklQWGxjQVpQdWlvUndDUlhKdVZIeUd3NE5Ha2ZhLWFMZ1pGNE85Z0l1UnhjT1lPRlk5Q3NPLVo4WGhOdC1iTFB2dHhhRmphM2lRWTNwaVU3T0VJUDV4eGFfYjBjY0lLVmtnZHJxMDcyR3JEOTVfX292VjdBUTVzMWUzTmdiRQ?oc=5"
-      },
-      {
-        "title": "Austria pogrążona w żałobie. Tysiące osób czuwało wieczorem przy świecach - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtpVkNxQzE5Z2ZBWmhDQVpJR3N1TzZNMkNVeXVqZWc2TlE5OVVNc04xYzd2SEhObW1vOUw2cnNYVnhQX3V0dVZ3WVhXRG5GejZSaDBpSmpHT1QtOVBidjBheTlzb2t1WmQ3bjNwNVlrZjN0TkJpTFF4ZHNjbzRPeFQtZ2NsZ19GLWItR0YtWEJYMFRzV1Y0dExBOU9ISjFYVXF0ME1Rc3dDTEN1ZFhmdVdYbThsT2s?oc=5"
-      },
-      {
-        "title": "Polacy ocenili Donalda Tuska po wygranej Karola Nawrockiego. Mają jasne stanowisko [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmQxTENrX1lDV05kS0h0b1dLVWVITG4yMnRvTVdmNXZLUk53MHhfaS1rbFBDQ2wwNGxqbFRMY3VBeVNZLU1HX3o1cEd2bzE2Vm5vUE83dklZQXNSMncwZUo3b1d3OGZOU0VUUWV5aXBrWkdKamVqSjdoeHN6ZUN1b3VnRU1ubHRZTVA3Ym5nMkdEWERmdjJOdmxISjFHQ2tpQWh3Sl9UT3VxZmNCSnpLUDZvdzczQWtfaWZqWW1lcFpGeERSZ25RZGZYZw?oc=5"
-      },
-      {
-        "title": "\"Zanim będzie za późno\". Trump ostrzega Europę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnhJbmc0NlNTUEZiWmVwMlMwbk1vM0hGNG0wRXI4dXd6NUpFZjdOT0kza2hfQmZkeElxSWNFd3pWMHJuS2E1bjJRVTIyYm5WcmJTNXJnOTdrc3VKQXptc1hROWtoa0FtaGkxaDRMX1lTbEZRVkVpdkx5d3VmblU5Q1UwcjRmMGF1UDVIWDMxWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-11 14:28:48",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kto rzecznikiem rządu? Jest dwóch kandydatów - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2dsa05paE5KeXdEMzhnenJkZkxiUnZhMlBxOHd6R1RFdG02YlgyajFsc1dRMS1MOTZFaHJXc0ZOVUk1SmJlSjNMQ2tZMVZWcGVaYzFoN2czNVZNVVJZX053VEZwcV9ONmZpaEEyTVNfUWlTSmlBUXlNZ2p0ZUQySTlLTFVtLWPSAYYBQVVfeXFMT18zT05YdnpVQlBJZEhWUGxCS0cxb01FdmRlLXhXR3JpMDdZRjNSMW5Dajktcml3dlUxaU5rWTJFUzVXQzBPWjRERV9zanJHM1dEN3JvQ2FHZ08zV2ptQ1RKcEZRZUNLeVZDZEU0WWk4YTBUTmtJNVBnTVpINEVpcE5BalhrRmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-13 19:12:11",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 390495,
+      "DOGECOIN": 0.660114,
+      "ETHEREUM": 9449.09,
+      "LITECOIN": 314.07,
+      "RIPPLE": 7.95
+    },
+    "indices": {
+      "^WIG20": 2707.86,
+      "^WIG30": 3505.79,
+      "^WIG": 3505.79,
+      "^NCINDEX": 246.75
+    },
+    "news": [
+      {
+        "title": "Donald Trump grozi po ataku na Iran. \"Będzie tego więcej\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVndrY196OTUwTXlMS2pIWlZvUF9CMDRZbGd3ekp1WkNpdTcwUE9ReUdjZFhTT0Z3M29BNEdNREpRN2tsRC1vVEpYTnFRZzdXTDZ6N0tzX3NDN3Q0d3pBblhFWjdwWVpxcXpqYkphalZZb2xOYW1oRTFGZ09PbnRiTjNBTlFwWlF2dTlVNmZ6dTZScXpnU2tMQ21mZGRSYWtfN3duS3N6Xy1ZNlRxWXZMRA?oc=5"
+      },
+      {
+        "title": "Schnepf i Klich mogą wracać do Polski. Nawrocki: to czerwone linie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3dqVlk5VUVVbHozN0o5cXRyeUJCZlA3NVNuZHBEWUZpVmV2aEVMc3ZodHZSWHozc0tNdWtlZWFGa1JjMWh3YjhpdUh5MHVfcWZFbUg0SGFnUlBMMUtYSTFQbHJqazF6UkVZMmdTSnJNdkJzR3hOSzQzZGFIT3JBazVNWFNQVU5YUGhNbFVqVTFpbzhlbVQ2LTJkd1JHc2xkX1FsbThZdkVNalU?oc=5"
+      },
+      {
+        "title": "Tusk w fabryce amunicji. \"Milion pocisków dziennie\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNFQ2dlJFSXBkWFR3dDhaWGF5SFFjaGdUZlJMMHd4SXY4cWRDUFlkRDU2ejFwSXFFNHpwSUhWa0xtYXdrRzhSbS01YWcwTS1xbk5nMXpRQ041S1FWckFxZzNrbmxFUjU4R3lfd19oSHJES2VhSVlja0l4Qk90dnlFbmlHV3N2Qk5Bdm95SmkyU3d5MW40N1FndnhjYWQ3bjFTQk50NC1ESkRJTUVvMEtGT2FNSV9ocEc3amFFWUw4TGw?oc=5"
+      },
+      {
+        "title": "Trzech 19-latków planowało ataki terrorystyczne w Polsce. Jest decyzja w sprawie aresztu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWYyUGItakExOVpfb3VqcWp3WHBTOUdYS0ZiTEhqVHNOSG4zNHEzVEtET1Rkd0tILW1QWUsxejluRWkxenJUVWplZHV1VmRoVkxFSlEtWk0zNDRocGdtWXBINFhLeTVrNkF6YWVKTjhqYVFvMDZNN05JMEZURS1CaDJIVjJ6YzJPWFRJUkoySWpYQ3FSQjFkZU40N1pUdDloMFJvTGZGdnN5OEIycWt5Nk9jMkZodmJzLXF1dW1VOVNtWUJRWkRDZExoWUx0TTg?oc=5"
+      },
+      {
+        "title": "Rosyjski samolot przechwycony nad Bałtykiem. Jest komunikat polskiego dowództwa - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTRuMnB2QXFreHlnVDdJZEp1NUdZSG9abVFScS1OanhXVHFzMWFxZ25Ed3lsZThnYkpoZDRmZFVsZUVUT3lZa0l6azQ3Y2lqYUtMbjF0dUFReUtpSmg3ajNJSndndTRxM0htOVR6dmIwS2t5UmN1eTBxdFdyaXlrWHJtZVRadXZ6ZlBvZ3ZfTkN4Y2oyT1ZwbElCRmVlLTBSWTJrOXFvNFNnYndNU2hCWUxLRQ?oc=5"
       }
     ]
   }
