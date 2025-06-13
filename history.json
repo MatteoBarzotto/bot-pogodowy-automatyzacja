@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-10 20:19:30",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7352,
-      "EUR": 4.2611,
-      "GBP": 5.038,
-      "CHF": 4.5486,
-      "JPY": 0.025823,
-      "AUD": 2.4332,
-      "CAD": 2.7251,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 405320,
-      "DOGECOIN": 0.712723,
-      "ETHEREUM": 10226.23,
-      "LITECOIN": 338.82,
-      "RIPPLE": 8.52
-    },
-    "indices": {
-      "^WIG20": 2794.03,
-      "^WIG30": 3618.43,
-      "^WIG": 3618.43,
-      "^NCINDEX": 245.79
-    },
-    "news": [
-      {
-        "title": "Michał Probierz odsłonił karty! Oto skład Polaków. Jest nowa twarz - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmY5eFFESUZpa0NtdWV6WlFCcGs1VXhRRm1EcDhHOGhxb2lBeWFDMDc4V201SGpkMlV1UkU5ZWVqT0I4dEJpSlRPWDBpU3BlZU1WTW84Y3BtOHhHNmMxREprWllCRzBEMWZCWllkTjBoU3VwWUlpZzJZMjZGaFByWGhBNGJScGhDVWYwNmc1N2N3NVUyakR5ZGlLam5IZ2stbm9JNi05aFhaWEdMWVdrQ3o0M0RyUHZyMy1fUmo0MG5Yb0dNc1o1ZzBKV21kVVRhalVocA?oc=5"
-      },
-      {
-        "title": "Konflikt w kadrze, a tu takie wieści o Lewandowskim. Straty liczone w milionach - Interia Sport",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmJlWUF1NGRyY3kwOEd3REZwUnUyWS1HRTVwdHBjbTNMSWV1WGlkcXo0aF9wT08zeHM1WW1UTXhFeG5QR0NCdGt5bjVsNFdoTTdXR1NWODgwN0Y1YkY3Q0RvdXVuZjBvbGhua19sVHAydFdVbWxIZ2xxNW9HTllnLWRBSi1IZC0xQ1pacU1xanUtc1k4Ml8tNWhnUlJIX3R3UEFqMEN3akNGODgweVZMM1lBTS1FZ0V5ai1NUFZn?oc=5"
-      },
-      {
-        "title": "Nieprawidłowości podczas wyborów. Ryszard Kalisz mówi o skali - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2hpUkhzd2lzam1hc00tOV9YdnVQWUUwV1FybHVudVNSaEE3SVNOaXlVS3VyTnZGbVYtekpNMGZnOFA1Q3lHd19lTklvY2w3NFluMjVTaXRleFBFby1uYVRfdEZGNFlxMDBULUxMR0w4VC1McGdaNTl4VmZPRFBWRERuazBLRkJ1UTY5MGEzUk5yNzJmci1vaTBiNS1pSkxzN3NGVHFWQmlMZ2lVWFJn?oc=5"
-      },
-      {
-        "title": "Ile zarobi polski astronauta po locie w kosmos? Pensja Sławosza Uznańskiego-Wiśniewskiego robi wrażenie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW9rNEhEWDVreXA4LWhlZDFLZGZjd281UDBQdFZkdlBXbVJ4emY1cWQ5eHFVaWZjSHllSUtUUFNGVzRpZkZnM05ic19JTy1zcnpfMU9BRzZLUjN4WDZPVk0wUU1hV1BHelM0S0tJZDJabFBydWdJMHloeWtucTFFVWxkYVdmbGJaWnVseHdOaDFIRkpmdjhmOHA2dUViRnY4QjFOb0I5aTc?oc=5"
-      },
-      {
-        "title": "\"Zdumiał mnie\". Bosak komentuje wpis Dudy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzB0X09ZWFlkUjNncGc3MFhhMzI2bTJWUjZlbWVacVAwLThVeVlNcTEwcUtFclNzdWN6QklKN2RmNl9CY2ZxVkd6alZnQmhVUmFEQlFiU0JVM1l0WTFIOERTY2NLUFZxT3VJaUhmR2I0TXpRa2tNdTMxc1ZWam85ejVGRE02MTJX?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-10 21:11:01",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wstrząsająca relacja z wypadku przy szpitalu w Otwocku. \"Wyszła z auta tylko na chwilę\" - Fakt",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG82S1Z4MHA5bEpuYkV6dHByTjAtQ2dDRlRLQ1RTOWtwcURNajlEM01DSGR2Zm9RQVh1SEtYdklvUHlGaUlzZ1IzaW5abVNMcWpRdlhha2pRZWMxX05FTjNJaTRHVkhFRDg1ZGZMYUtJVDdmcGxzdkpPVDk1am1yYjhhZmI2TTA0QTU1c05BV09jc0hBcFRNd1pGOFg4b1pfN3kwOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-13 03:09:59",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6929,
+      "EUR": 4.2631,
+      "GBP": 5.0098,
+      "CHF": 4.5333,
+      "JPY": 0.025681,
+      "AUD": 2.4009,
+      "CAD": 2.7045,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 382758,
+      "DOGECOIN": 0.638398,
+      "ETHEREUM": 9293.42,
+      "LITECOIN": 305.49,
+      "RIPPLE": 7.84
+    },
+    "indices": {
+      "^WIG20": 2755.65,
+      "^WIG30": 3568.57,
+      "^WIG": 3568.57,
+      "^NCINDEX": 243.8
+    },
+    "news": [
+      {
+        "title": "Katastrofa samolotu w Indiach. Wstrząsające informacje. Znacznie wzrosła liczba ofiar [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcTloeGxaQkR5SU1SN194NjFrZEQ2clg1N2U3akIyVTNKWU9IaHd2WHNBajZ2cVhwUDZFY19CbWRJQ0tFWm44U2swTm9BdnJScmpBbDlpQzJvRWdOYWNOUlFMU1RmUVpUaDdLdDZ1MExfcUtqWDhFZ3B4NGlNcEVVTmlDOWV5NTF5RFVPa1YzOXUwTE9LZHhYanJtZ0V1cUJTdHgzTFFVTHhYdVBrSkhUVGwyTWxjZXVPdXdOb0VHcEdLQQ?oc=5"
+      },
+      {
+        "title": "Jest decyzja w sprawie lotu Sławosza Uznańskiego-Wiśniewskiego w kosmos - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFNUU2dLQW52T28tZjVGTUZpejgxZWQ4QXU3SlpydnF1bGVJWjV4QmpPeTNmLXpqX1NkU3RnOEVfeGZrR1RUeGF2OF9xeHZuWkdPVkdrYWphTW9LbEUwMUJ1eFlicmpSa3N6UU85LVBqa2IyMGY5cHUxQWVveUJ1LVlNQTRqZkdabnhyMWtld3lXaVowR0RNck9vbkhDWkFmV3BiV09nbVgzdHUtVEM5c09hV2JsVVhNRklkNlhB?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy bada cuda nad urną w Strzelcach Opolskich i Olesnie. Będzie ponowne liczenie głosów - Opole.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFhXOVRza203Rm9KUWJidkdGSzRGdy1nQmdXUF93dm9XWHZFV2xHek44Ykpnd3NaQkpnMlcycUhGYnNXWlQzV1Y1VFNyWXgtdkhpMjFwWGI3d3JxOEhwYzJIQ0dTZGNzQ2M4NTlWelZGQUZNU1h2UUk4ZWpvTHlhZnlSRlJHbUQzUUdEdlVxTVoySVJWMXh5TDlJNUx6V2tOLU1jQ3FkN3B5dVdzOEdrNDBBVUlyeFBRNjFF?oc=5"
+      },
+      {
+        "title": "Ryszard Kalisz zareagował na głośny incydent. \"Każdego człowieka cenię, nawet jak na mnie krzyczy\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzJ1N0ZURzhoa3A1YWtjQlpsdkk3UDRsMUlwZUxCUFFjOWd2VDNWNTVMbC1mSzJ2WW9jV09JQ2kzbzZtaVVlYnY5MGdKVW9QLXhHeFVBNXpmNUM0M3dzQXdqREN3YnViNGpBR0QzMFdrZm8tTzNLdnE1b2RXV3FkcFNWM2xzWWd2ci1mcWtrTEZtdVctVnc5QUVtbnBLM2JNa182VDY2U0Z2QQ?oc=5"
+      },
+      {
+        "title": "\"Jest mu to obojętne\". Trump o potężnych stratach Rosji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWc1UUp4bkFESzcycnVvamZ4UDU3eFBWZXlvZXBEeTNMUllVRGlaODRMbkd1ODUwME16YUZPM3RUWVVKZ1FPd1NwbGxXekliWmJlb0E0Y2g4SVZQRERsaFBzZThyRWdBTm0wTjktRG5Jb0NMRzhka1RnZFEzMDVCNmQwZHBiQk1nMENkZk1hakM4MW9aQnAtcXU1NVdQYldxTVltMHRaeHB2VEU?oc=5"
       }
     ]
   }
