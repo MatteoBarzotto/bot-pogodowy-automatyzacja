@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-11 19:12:48",
-    "weather": {
-      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
-    },
-    "rates": {
-      "USD": 3.7306,
-      "EUR": 4.2643,
-      "GBP": 5.034,
-      "CHF": 4.5382,
-      "JPY": 0.025714,
-      "AUD": 2.4286,
-      "CAD": 2.7267,
-      "CNY": 0.5192
-    },
-    "crypto": {
-      "BITCOIN": 405027,
-      "DOGECOIN": 0.747889,
-      "ETHEREUM": 10539.87,
-      "LITECOIN": 345.55,
-      "RIPPLE": 8.57
-    },
-    "indices": {
-      "^WIG20": 2779.83,
-      "^WIG30": 3599.93,
-      "^WIG": 3599.93,
-      "^NCINDEX": 244.8
-    },
-    "news": [
-      {
-        "title": "Oto dlaczego premierowi potrzebne było wotum zaufania. Cztery najważniejsze wnioski po exposé Donalda Tuska - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVFPTzZKX1ZPLUpuaFBLNnNSd3Y5NVJVTVJMeVNMSnJMS0gtTjhxbDlQTDIzNkZXNVh3MVRsNjI1RTFOTVZWS2t6M3N3bVJYOUdRQkhidFRZV1ZGRkotSUJ2NG0ycXBOekdMekJJN3VjZDRQa0RjOUd3c3FSSERYZTVlU1QwTktnT25pdmdBbTZJYkoxTDJveDcyOXo4ZFNlR2ZxR1djWTM4VkViZWxJU0NPWHhpVUxN?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki odebrał uchwałę PKW. \"Polacy chcą brać odpowiedzialność\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlo5bmc1SG1KOEYwS1VLY2Y4RkxSaEVpNTNETW54cmxBNG50dUwwcEh2cGV3S0dpMDlVMjl2TDRsOV9SYVJXTnRhQV9ueVd1WWZKaTI3LU93dFhueEo0enNDa0Zjc1pFZmVmaFJWZE16UzBDdk1LZ295cXAxbkNfcWstRnNJSGxJS2FhWlFnZUp4OTVTb2w4YWdfRm9CWUFQVFJDTWpSWk5XbnVocjd3bnA0UmhpWXhKZlo4UXB4RkJJc1FwRUdqd3Z4SQ?oc=5"
-      },
-      {
-        "title": "Grzegorz Braun zniszczył wystawę w Sejmie. \"To zgorszenie publiczne\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem5ZNGpnaEQwbDBiZjRrNmNaci1CNlItQ3dkbV9jV1Q4NUJlbjVGaHVON05xdmlZMHQyNGlvUG5Pa0hOVk5CT3RNRk94UmJNT0dDMTc5cWVSQjQ2WVN6WE1fRzZBTWpyeTl4T0lZTDdFanZuQjJXU2ZMdVJLMWZwQWpNb01nQ3hUOG00dE9OSHhDRXBZOXhZcXY5d2JHM0RsbUQ4Tk9hRkJzeDNyRHpWS0lNRnl0UdIBtAFBVV95cUxQT0NGMTgxYmRlcWl4TG9Mc25PRlJCZEVOc1J1UlJBWUpHRlBUWjFLaF9xMEpUQmZMLU1zZl9Nd3BlbDFSd0JPR0lWWWxkZE9MLW9GeGtLSy1kU04yTTNQeE9HN0d5aGlmLU55SFFuUHBQUTJVck9RV2dYMy1jd3RqRjFwazcxYThTTXhMdkdhVEVnUHhmN3JDMVRmMWdCXzRtZ1dyU0dMX2dmQkdmWURTYnRDZVQ?oc=5"
-      },
-      {
-        "title": "Donald Tusk zapowiada zmiany w rządzie. \"Każdy błądzi, ja pewnie też pobłądziłem\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUVZTThJeXlaOG9MZTNQalVncG1xUG1BcmFoUEo4RFM3TFA1ZUxnOGE3VXhJYlBfcUxmYVd1SnNkMTFHSVRaR2xQX1VPeF84YjY5VGVIYkZFRFY1R1hCTy1pLTFGVVdjSUlUNkxTUngxSXVuNE44WmNKQmxpNEZrdXJRdEtHOHlfVGpETmxTOGlmNU5KUGxUbjFyOHJuQkhRUk1fNTBmNkc1OFlGU3NsdVJfdF9zMmpwVUQxNEJ0SnR0TmFyeVE?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski nie poleci dziś w kosmos. \"Ryzyko 25 proc.\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXRZM2tWbl90M0xPZ0xpR0o1Z3lQVzI2OXZrR3B4dnltLU4yajB4aGFJUmt0RlRsNHhZZUVZZGxZRFR0NEFEbGJaRFYzQ1dwTDUtS004OG93WFo2dFJFSzRqMGs0ZEd3UEZ6aXJhUVhtSHN5S1hEbTNiUWp0TTFWRUtVN3ROUEVTeTZ4TkNiR0lLN3lNdy16UEZid0xIcWhoYnc0Wm1tQ3FDS2pIeVNITXJUVVExdXpUYkxsdzM0Y1VnYkpROEZR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-11 20:19:48",
     "weather": {
       "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
@@ -2646,6 +2593,59 @@
       {
         "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14 01:14:40",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 391422,
+      "DOGECOIN": 0.664041,
+      "ETHEREUM": 9525.18,
+      "LITECOIN": 318.88,
+      "RIPPLE": 7.93
+    },
+    "indices": {
+      "^WIG20": 2707.86,
+      "^WIG30": 3505.79,
+      "^WIG": 3505.79,
+      "^NCINDEX": 246.75
+    },
+    "news": [
+      {
+        "title": "Iran odpowiada na atak setką rakiet. Eksplozje w Jerozolimie i Tel Awiwie [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXQtRS1HajBDbjhLazhkRFQ1X3FpUERreVZFOU8xOHZBbEQxVFFSM0k0R2p6aEhncTlBOFFheUtMckFBYU1rVVpzcmx2dkFxQnlhMzEteGdiTVV5LWJZeXh6cTRNX3pYanA2Q0NUSTZJN0dfMWNnXzhJeHlrSEpFZUozdWw3NVczbnhmUm1KbGJBZXVnMVpDT3BqR180Y1pQNVIzdDJZd3RkcEY5MG1aQjdzeGdFTWJkclU1VU8wTlcwUQ?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Minister może zostać rzecznikiem rządu. Tusk wybiera spośród 6-7 osób - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEticGp4LUs3SVpULTEyM3lULW0yaWMwel80elRGY1lSUGg3SnF0M1RzTkNJMlFGT0FESHhCVThBSGdkZ2NxZGJIcng0UGdKbVBBdjNaWm5kSldCLUJJUEhiaHNLVWZnTndWY1p3MTU1LUQwQXBUVkg5bWtWbXl2QXh3Y1lXdDFYRHFhYU96VHlXakpoUjI4VmdpZEVOclZRaS1DaFl6M0xPREc3MUZwWllOTnJ3MTJZaU5vY2paaHRRY21hNFpZS3F3?oc=5"
+      },
+      {
+        "title": "Wpłynęło kilkaset protestów wyborczych. Nowy komunikat Sądu Najwyższego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2h0RUNkczRNdjZ0NlNVX2ZPU1ZUODItQm9WZTdicWJoUjJKekZXUzhCd0NFb09HSUVVUVdfd1I4T2YwWFAyV2IxdjBNTmlQc1Boekh3aF9ETTdKd1NENVNHZjVqcUpjQVpCekZETVh2bnoxV2hOdVNUaEt6b0Y5Y01QbXp3aXItVy1yeklYdTRqaWMxMTlCSHlYVmhaVVVwbjlnUFVZUFJOZExpblN4MkRTZEw2WURkOVhPZW5aS0o?oc=5"
+      },
+      {
+        "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
+      },
+      {
+        "title": "Schnepf i Klich mogą wracać do Polski. Nawrocki: to czerwone linie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3dqVlk5VUVVbHozN0o5cXRyeUJCZlA3NVNuZHBEWUZpVmV2aEVMc3ZodHZSWHozc0tNdWtlZWFGa1JjMWh3YjhpdUh5MHVfcWZFbUg0SGFnUlBMMUtYSTFQbHJqazF6UkVZMmdTSnJNdkJzR3hOSzQzZGFIT3JBazVNWFNQVU5YUGhNbFVqVTFpbzhlbVQ2LTJkd1JHc2xkX1FsbThZdkVNalU?oc=5"
       }
     ]
   }
