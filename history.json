@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-11 07:15:26",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7352,
-      "EUR": 4.2611,
-      "GBP": 5.038,
-      "CHF": 4.5486,
-      "JPY": 0.025823,
-      "AUD": 2.4332,
-      "CAD": 2.7251,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 408314,
-      "DOGECOIN": 0.737138,
-      "ETHEREUM": 10415.42,
-      "LITECOIN": 342.33,
-      "RIPPLE": 8.54
-    },
-    "indices": {
-      "^WIG20": 2794.03,
-      "^WIG30": 3618.43,
-      "^WIG": 3618.43,
-      "^NCINDEX": 245.79
-    },
-    "news": [
-      {
-        "title": "Oto co zrobili piłkarze Probierza po meczu z Finlandią. Wstyd Reprezentacja Polski - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckZIWnNuVHJ1NWVCbGU3cHVFM0o5NVZlYzVxVlJMUE1ycVRZck1ldXBfN1Z5TDRCTGEteGsxSFhEU3F3T0pxOTdhMC1DbU1FaW5ZSjJxbWxrelU3WFBUZ0pURnJfZDVrenhUMnpScWhEOExJVWdpX1hPMXZqSlVLVFcxOTZqUF84Zi1yckYtbUJOZw?oc=5"
-      },
-      {
-        "title": "Wotum zaufania dla Donalda Tuska. Co, jeśli przegra? Oto prawne scenariusze - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDQwc1l5NmctcE5BcjBkWTcwel9vMVJ3d0hKUzdvb0RZWDVoaFRxTkoxcXo2OEpHVlFYekV3NVFEYUtlOG5UV3hnbElQMzl3X3p3UG9HWWpyWTNseHpXVVhDaTRkNUp5S2lOaGVGYWJHeHZpM3dJcEk5cmVTV3RrQzFDRngtTUhrOWRGZ1lZcTJ3eVNxc1dneUt1LThQZ1M3SWhrcDlaVXVCVVRyMDFpeg?oc=5"
-      },
-      {
-        "title": "Zderzenie ego na orbicie. Jak wojna Donalda Trumpa z Elonem Muskiem może uziemić amerykański sen o Marsie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0NWUEhFMG1CdU1kZnNscGRzM2FKRTFzU0h2TjlkNjlTZUZRVHQ3WnE0bll2ZnNJMmZVVFM5eU5CazFXNk9uTVp3VFVQYU8tTXZONHN0VXVTeHFCY2gwTnNuYXl5MXp5VWNIcUpkazRLNW93Um1oV2JXT3NmSXhOdnFxTVB6dWVIa3FLcGVpdkNhQUF4Z0JJQlFHSTQzcGJsTzlhS1Y5TG9EVGFSR3lJbDVVQQ?oc=5"
-      },
-      {
-        "title": "Członek PKW o protestach wyborczych: Wzmożenie nastąpi w ostatnich dniach - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmsxRkJzdktsOEFkekRhMkZJa19tQXNPTk9fUkJ0OG05Qk1EbTZiSTdYM0w5Y3RWdHdRTzJjN0ZJbmgxRmg1VGx0eWl2Q0dVcmNfOGhXSFBJc0ZYV1pjR2hFak5tVFN3MmRBSWg5anY2TzBsdVZPb0lQRjJyTWd1TjV1akhManRPTG5yVm9odUhvdjNTUEZDZDVCemVfN1VKemt3QTNZeGZrbndLS3g0MjZsZmZPLVV4cXVZaXF3?oc=5"
-      },
-      {
-        "title": "\"Zanim będzie za późno\". Trump ostrzega Europę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnhJbmc0NlNTUEZiWmVwMlMwbk1vM0hGNG0wRXI4dXd6NUpFZjdOT0kza2hfQmZkeElxSWNFd3pWMHJuS2E1bjJRVTIyYm5WcmJTNXJnOTdrc3VKQXptc1hROWtoa0FtaGkxaDRMX1lTbEZRVkVpdkx5d3VmblU5Q1UwcjRmMGF1UDVIWDMxWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-11 08:20:51",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tusk po rozmowie z kandydatem na rzecznika rządu. To będzie parlamentarzysta KO - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWc5OXFWcjI2WWNEekJwTVptMGtWMHVfLTdjRGsxNE5IS041UHdHdHJGQ2dPNlFoeENDeVRGLVJzM0J6VThQcjZUNm8tV205ZVBlUkNCbkpNUjhESGZVOERpajVHREdlV05mQ3VtZDY1bGJhYnBValYxN0FrYVpLVXhHOExhdmZxemhWdmVQMTNueW1RMFNUeHduOFJfS1NmZ3lRWGFxMlNXbmpTOXFqOTdGSEtWcnlfdE1tMmtn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-13 13:12:14",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 390762,
+      "DOGECOIN": 0.652986,
+      "ETHEREUM": 9432.03,
+      "LITECOIN": 312.73,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2707.44,
+      "^WIG30": 3505.46,
+      "^WIG": 3505.46,
+      "^NCINDEX": 244.26
+    },
+    "news": [
+      {
+        "title": "Wysłannik Donalda Trumpa ostrzega przed odpowiedzią Iranu. \"Masa ofiar\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXBxb0FIN0xaUDlfcTJNVmdMREdHMDNwRTRTNE4zVUYwQzU2YlE5TmN2a0l0SFZNclBwVEpPQm1ZeHZvR3JIbFk3Zl9JcWZQdjFUTnEyN3dacS1PUGNKeDg0SndPSVZwTVpzV3lPVUtCSndkUTJuNkhvaVpXMk96c3lwaGNyRXBtZk5Cd2lJWTd6bmthZk9XODh1WXZJVFdlSXk2SUI0T3JrTmpMdDYzbkNHSDRLQmJkWVpz?oc=5"
+      },
+      {
+        "title": "„Prezydent Karol Nawrocki nie będzie wasalem nikogo”. Nowy wywiad - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWQxUGs5dWRPRU1zQXF4WmdwQlFpMXU3LXVNWmh4bWFyT3RSY0xDNmZ0V1V6ZTFmcllSNDhBWWN4UWFja3Z5ZXR5MndxMVNTS2EycTNxN3ktZ1Y2NTNDMjlQemNzUVVfZ2syVUpMdGhNWmdteUQ0T2ZzcE02dWpMajBHZjdSZ3EwTFp1YmV3TXRmX3FnZ0hKZ09fdFg?oc=5"
+      },
+      {
+        "title": "Donald Tusk o nieprawidłowościach w trakcie wyborów. \"Zwrócę się do prokuratora generalnego\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQl94QVZqZGxYZjA0VEUtWktEaEpWODl1VWdMall0T3U2MFNNUDNHbU8weG02Rnl0SlBIeG8yc3BfOXBHeUE2T2pLRDNybUVCdHhoaURsS1p3b0xpbDd2Rm5yU01Xc1NPMWxBZ3NyVHVRd3lBdjNqLUkxTE1LUVdWaDhlTFM0N3VicmloZ2NoVDJLdWotYk5zRnctWms0U2ZrY2ZRN3ZJbzFJQWlXRDhPSHh1QzF3YzkxQy1QbnR3TllmX1lxSG1fQUlEdExaMk1lelo0VGdFYlM3c0VIdUE?oc=5"
+      },
+      {
+        "title": "Katastrofa samolotu w Indiach. Odnaleźli czarną skrzynkę rozbitego Boeinga - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHgxLVpxZDlqTHQzdkRhakV5SVNONVBSQVVYQlltUGNBUnNOWHJBLUNiUVBCMkx2d0hqU2phTk9NaWZXU281VE55TzM5SWFvcEhubENVcVp2NXdYU0pJbVlfb1Rrd0xiLXRHQi10bnBlc2l3NkdyQjBCVmZoRlVlMGYtSXJhdUVxcU5MWFpJelMzZ2x2cGNwZTJNUHVDdVFyUVplZHEtcWRxX0FsMjBQWE01dVc?oc=5"
+      },
+      {
+        "title": "Takiego upału w tym roku jeszcze nie było. W jednym regionie temperatura wyjątkowo wzrośnie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkVKN082UkkwZkJUMUZ3NGNYdzdBRHpQbGxyYWd4Z1Y5UUdSUDFqcFlQdkwwd3BLcmE1NzBtNTZ1VUd6ZHVSRFpsYkZ3V1BrUlRfTi1tazFGRnZER0RFYzhXMV8zdU5DU2ZwOElzZE1ybUsxSmtQb01IRUJjY3RPal8wbWh4TWQtNGdMaGJRdHZsajV2UjN6dU5OcDIzTVVZR1laM25PLUUyZjA0MFU0cDc2OWttQ25QeVE?oc=5"
       }
     ]
   }
