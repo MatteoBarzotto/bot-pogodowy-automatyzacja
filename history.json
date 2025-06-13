@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-11 10:19:21",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7352,
-      "EUR": 4.2611,
-      "GBP": 5.038,
-      "CHF": 4.5486,
-      "JPY": 0.025823,
-      "AUD": 2.4332,
-      "CAD": 2.7251,
-      "CNY": 0.5197
-    },
-    "crypto": {
-      "BITCOIN": 409128,
-      "DOGECOIN": 0.758808,
-      "ETHEREUM": 10410.27,
-      "LITECOIN": 343.52,
-      "RIPPLE": 8.63
-    },
-    "indices": {
-      "^WIG20": 2770.34,
-      "^WIG30": 3588.76,
-      "^WIG": 3588.76,
-      "^NCINDEX": 246.22
-    },
-    "news": [
-      {
-        "title": "Kluczowy dzień dla rządu Donalda Tuska. Sejm decyduje o wotum zaufania [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWFFb3NLazJKSVlaMW14a0FPaTRFLU1nT1VTV0s0dlBMWlNsUFp4WFVON3ROdGdIWVBPU2FhRFQ1ZEwxc1o4YVAtN2QyeHZBY25zam9uWmxNX3Q1NDlaZ044am4zWmRnRE1lSTZWc2NfR2V5YnpEZFdCSk9IZm85QWRHX1VoenV5U21OWTJlSTZScHNxUms0UWhzbmM5bURqY3UyOURBQnJ2cWs0X0ZuLThaSQ?oc=5"
-      },
-      {
-        "title": "Nowy sondaż partyjny przed wotum zaufania dla rządu Donalda Tuska. Jest problem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSVEzbmY4cDVBNGpsSmVSeXp3elhPMm1jWDhEZWNhY2M1S25BNGZrcTRuVDZTMmdKb1hUTmJOWTlXVmRJaHVEeDMtSVktTnU0dWhZcHBNTkxpVG1oWUQ1UDRaaVBRdVRaOEszUmo0TWt5cVZZNmZqOUMtOTNYYlNVcUdIZzBhYzJWQWR4VkFUa1o2ZzdrbG9TNlRVdGRVVkVUQlk2RnlNQzctV2p5NVVRRkxVTGVub1A0WThQcE1fUTViSkx0bjFz?oc=5"
-      },
-      {
-        "title": "Lot Polaka w kosmos chwilowo odwołany. Podano powody - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVY5VGtRMUlpbHlNdkx1QmlFZ1dJc1VuNUxvSG5HVFFLTzZKWEdwamtSc21PNmhoaFpucnVFZjZ5ZTFkdzRDb19LZ3A5SkdfQktab1ZKQVFTMTVCNWFvMi1jTTVXTS00RkdRQXJtYk9fV3FwaGJQUzhXUURodkNJZUJubFN4V0M1bGhPdFVrZ0owNWtBNWEtQzFialM?oc=5"
-      },
-      {
-        "title": "Kwota wolna od podatku. Nawrocki powiedział, co zrobi z ustawą rządu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmRzYURkM2cxem1CeVZmWDR3UnZlTk9abzYyYTNtb1lnbTRKdkJwQjdYMEdFclA0MEhHa3lLYmlHRXhmYzNUSVlaZ1ZqdWplWmNiOFJ2ckpHa0QxUE8wNGtrYWRQMmNXMGE4aE9tbUQ2Y0hyMF9JY094ZUh5bjBJV1NnZlVaT3RlYjdkXzBsd2dJUUQ2UW9GazJPOXBuU19wSW12UUExSXkwY3F0bkVGT2J3OWl6WS13alF5VktB?oc=5"
-      },
-      {
-        "title": "\"Zanim będzie za późno\". Trump ostrzega Europę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnhJbmc0NlNTUEZiWmVwMlMwbk1vM0hGNG0wRXI4dXd6NUpFZjdOT0kza2hfQmZkeElxSWNFd3pWMHJuS2E1bjJRVTIyYm5WcmJTNXJnOTdrc3VKQXptc1hROWtoa0FtaGkxaDRMX1lTbEZRVkVpdkx5d3VmblU5Q1UwcjRmMGF1UDVIWDMxWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-11 11:15:46",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Atak Izraela na Iran. Samolot prezydenta Dudy zmienia trasę - Onet",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmo1QnhyWi1PQ3JCM1pSTDhJcHBYZmllajctbG9KaW1uVnZBVEQ2czVlazBmRUtCd3U5NXVoMHFza29pNXhreGtQZVYyMno0RlBrX0R6SUoxZVhCV2t2RHhTQ0hTMkE3U3Ric2tZbGtYaWJ3QkRRRlFPLVNrMzluXy1GSGJLa0tfNC1NNnFPZUpLZHZTWUg2cXpaVFRsWHFTU0h3WmZRQUktNDYyZ29zeklyc3ZuZG1TQmxYOTRn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-13 16:13:46",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 387512,
+      "DOGECOIN": 0.648543,
+      "ETHEREUM": 9391.89,
+      "LITECOIN": 309.58,
+      "RIPPLE": 7.92
+    },
+    "indices": {
+      "^WIG20": 2704.86,
+      "^WIG30": 3503.0,
+      "^WIG": 3503.0,
+      "^NCINDEX": 244.98
+    },
+    "news": [
+      {
+        "title": "Trump grozi Iranowi po ataku Izraela. \"Zróbcie to, zanim będzie za późno\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdm5mT2N6NktLS0Z0SmlqYlpibjVXUklVYVM0eTZqRFlIcm1wZGE4cUpBaHlzRC03ZUpKbzNWLXpYLTVvNjhJdkowUjk3VWs2TnhZRkZTZGZuX0FZZzNDbElHY2F0VmlxbzYyMnY3MnJkbUNZbFhGZnNnT08xbWFJWDdxRHZKRkJiQlQ0MllwR1RubzRtMWFfVVYyeHlOeFlvS2p2ajZRaW9fYmx0ajVTZkJqVzJjTzJQMnZF?oc=5"
+      },
+      {
+        "title": "„Prezydent Karol Nawrocki nie będzie wasalem nikogo”. Nowy wywiad - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWQxUGs5dWRPRU1zQXF4WmdwQlFpMXU3LXVNWmh4bWFyT3RSY0xDNmZ0V1V6ZTFmcllSNDhBWWN4UWFja3Z5ZXR5MndxMVNTS2EycTNxN3ktZ1Y2NTNDMjlQemNzUVVfZ2syVUpMdGhNWmdteUQ0T2ZzcE02dWpMajBHZjdSZ3EwTFp1YmV3TXRmX3FnZ0hKZ09fdFg?oc=5"
+      },
+      {
+        "title": "Donald Tusk o nieprawidłowościach w trakcie wyborów. \"Zwrócę się do prokuratora generalnego\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONzdRS1N2alcwWDVUZzlVN0FMQ1RvNTl2ck00TTVOeG95NzNyVE9ROGw3SE1MWlZKTk10a1dyWHNHdF9rbnVIUXJ4T2hjX3diUjBfVHlSMWFOZzZaRkxVWEF6NGVxVUdVRTRaRGFzWVlxZEFST1RkdDBtZ1c1ejdjdEU4YVA2SlJLVHpoblJEcjVlZmduZERIOW9ybVVmci1ISkJ3NkZGZlZFX3B6c2ZFeDYwTmtpWmlyZWlxaUFXMA?oc=5"
+      },
+      {
+        "title": "Trump we wpisie po ataku. \"Wszyscy już nie żyją, a będzie tylko gorzej\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVAzNVAtQXU2Z0g4Vlp1NTg0TFZ0dmRDZ0JId2s2VFVVNVlhOWQzX3d1VUFWZ1ZQVW13SHZyVWxNZGlUdXBzbXJGd1g2Q2lLVmpiV3RaSGJMU1ZUazV5bEEySHUzVUQxZUk1RmMxYXhRcEhfbm1XUjJ5VDlXSWE1X1laQVRydDRYeVY0c3BnTHZ1a2E2MlE?oc=5"
+      },
+      {
+        "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
       }
     ]
   }
