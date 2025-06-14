@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-11 23:13:24",
-    "weather": {
-      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
-    },
-    "rates": {
-      "USD": 3.7306,
-      "EUR": 4.2643,
-      "GBP": 5.034,
-      "CHF": 4.5382,
-      "JPY": 0.025714,
-      "AUD": 2.4286,
-      "CAD": 2.7267,
-      "CNY": 0.5192
-    },
-    "crypto": {
-      "BITCOIN": 403771,
-      "DOGECOIN": 0.727255,
-      "ETHEREUM": 10442.69,
-      "LITECOIN": 341.76,
-      "RIPPLE": 8.5
-    },
-    "indices": {
-      "^WIG20": 2779.83,
-      "^WIG30": 3599.93,
-      "^WIG": 3599.93,
-      "^NCINDEX": 244.8
-    },
-    "news": [
-      {
-        "title": "Kulisy wotum zaufania dla rządu Donalda Tuska: W KO każdy dostał zadanie. \"Mnie to śmieszy\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVBmd19mTzI2RV9MMWdrdi1KeEl3Mng5QzhhRmxSdjhpQnNBd1Bab05HS2xiY2N5U01pU1E3ZFY2dTFva2VYZE9XYjc5akhpUjd1UXdqbjZxZlVEUTU5N2RpWjBXYXJGeWZpblN2azlCd3M3VmlHOVJ2ZTY2SnNpaWx1WUo5OFlRSFN1RDN5ZHY4N25pX3JDZ0pIYTNLbV9xSWlEU2gtRmxpbnJuSnkwY044MDRUVWM?oc=5"
-      },
-      {
-        "title": "Incydent w Sejmie. Grzegorz Braun zniszczył wystawę, stanowcza reakcja Hołowni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVE4Y19DSFZoT3Y2Vk1rbmRzaFY2dTZZVGtUQ1lfUEw0MDJtcmVodlpSOW03Mnh5TkwwdERHUnhsSWw5V3RUc3R1WWp2SzF0bWJxOG94T3FmSVY3ekgzWUd5NEVwN3hxOFlfZmczdklEejVEUWNhQUVkTEtaVDlaNUd1Q0ttdFBTVEllR09qZHUtdWJ1YzdBbEp2Ql9zbk0?oc=5"
-      },
-      {
-        "title": "Od razu zabrał głos. Nawrocki odebrał dokument z PKW - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUm5acnlmcHZLR1BRM21yMUJBYmRWaUtTYnpCOFVySkJPWXlwZVFlVzRJc1FZUWZReTFtNl9vTkNydHlnNm9rX2o2M1hSLTI4bTZUZXZsRGNpYVp2dGJtbktBUDE3dDA0QUlnN0NHZU5pcXp1UjVjZkFJUUw1d24zOE9DaXdYMkI4alU5SGNOTjdUZEdfbVJZ?oc=5"
-      },
-      {
-        "title": "Hegseth: nie wiadomo, czy Rosja zatrzyma się na Ukrainie - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXBVX28zLUNmcE9Zd1g5eVJGeFNsMjQtNFJuSlh1dDA2ZlJ0cmRaTzJEdjM3eGtSU1lkQ0U5eF8yZmtDNTY1MzhmSW9RaXRVeVhmTVFmOUpMVV9nWmdyQU1CNEtpVm1CazVEM3dJZlM1cXVzdjh5Xzhrb1EtNlpIbENUVkh1WFEzVmNGM3Q3Z1ZZcmpxWkZCc3RIandLdndpVHlOYmlGbVdKa05pMlNyNTdsaHpEOUhVZndNeQ?oc=5"
-      },
-      {
-        "title": "Austria: Polak wśród ofiar strzelaniny w szkole w Grazu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG9MaXVOQjdZVFNyME1SQ29hZGJTZ0dzeUk1bHRsNFlkUmlJbTRsdWd4NXRIOXRsbm41Z0hUTUptLVlIQWVpRHp6QzRuRGdraTU1VWVHZWVBb2toaDBlRlpkVjkxc0ZsdDFvZm0xYk9VY1lRT3hXbUd3UjdzaGlUbklCVVFLcDRBNVRxN2NkWVBBcG10TVJ5NzJiTlVIdHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-12 00:13:18",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14 07:14:00",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 389572,
+      "DOGECOIN": 0.658027,
+      "ETHEREUM": 9433.75,
+      "LITECOIN": 319.35,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2707.86,
+      "^WIG30": 3505.79,
+      "^WIG": 3505.79,
+      "^NCINDEX": 246.75
+    },
+    "news": [
+      {
+        "title": "Iran w ogniu, Izrael pod ostrzałem rakietowym. Druzgocąca noc na Bliskim Wschodzie [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjEwV2RfM2JaWnU4blB6WHN1SVQ3Y1JCbFpjd1VFdkluQ3ZJNDdJc056bHNDUjl2N3JqRDUyOVJ5b09YdFFSV0RmTXU2YzVlN1ZEaHl1WmR0RThlUGFIUzVPVUFUbFlKMW5nMy04eV9KY2VBRXlwVWpFYW5GdW16b2M1V1hEWWdVek5QcXJtRWg3VjdVVzdDTTU4QlB2VlE2RGdJTU4zeEJaLWdpakV4bkt2dHQ4MER1blUzeDJ3?oc=5"
+      },
+      {
+        "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
+      },
+      {
+        "title": "Wpłynęło kilkaset protestów wyborczych. Nowy komunikat Sądu Najwyższego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2h0RUNkczRNdjZ0NlNVX2ZPU1ZUODItQm9WZTdicWJoUjJKekZXUzhCd0NFb09HSUVVUVdfd1I4T2YwWFAyV2IxdjBNTmlQc1Boekh3aF9ETTdKd1NENVNHZjVqcUpjQVpCekZETVh2bnoxV2hOdVNUaEt6b0Y5Y01QbXp3aXItVy1yeklYdTRqaWMxMTlCSHlYVmhaVVVwbjlnUFVZUFJOZExpblN4MkRTZEw2WURkOVhPZW5aS0o?oc=5"
+      },
+      {
+        "title": "Sławosz Uznański‑Wiśniewski nie leci w kosmos. Astronautom kończy się czas - Goniec.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRmNna01Vb0Nha1FuaEMxNFU1dUFNdUlObE1EczVqS21FYkdNR2lUemZUbXBXdVVPRXY5OHVkVDFyU2lsQlFxNWFzYkJBREdmbjhvNENnbXNKbG9paFBrd20wUzRubHBPaEVvS3hBdjl1TFdqTjhWeWFScm5MZmc3c0xBY21SRklSc3VfdXA3WjR4OFNiUmRsV3BUdVl2LU1qOFBTRDk4VQ?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Minister może zostać rzecznikiem rządu. Tusk wybiera spośród 6-7 osób - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEticGp4LUs3SVpULTEyM3lULW0yaWMwel80elRGY1lSUGg3SnF0M1RzTkNJMlFGT0FESHhCVThBSGdkZ2NxZGJIcng0UGdKbVBBdjNaWm5kSldCLUJJUEhiaHNLVWZnTndWY1p3MTU1LUQwQXBUVkg5bWtWbXl2QXh3Y1lXdDFYRHFhYU96VHlXakpoUjI4VmdpZEVOclZRaS1DaFl6M0xPREc3MUZwWllOTnJ3MTJZaU5vY2paaHRRY21hNFpZS3F3?oc=5"
       }
     ]
   }
