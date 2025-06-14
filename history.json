@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-11 22:14:05",
-    "weather": {
-      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7306,
-      "EUR": 4.2643,
-      "GBP": 5.034,
-      "CHF": 4.5382,
-      "JPY": 0.025714,
-      "AUD": 2.4286,
-      "CAD": 2.7267,
-      "CNY": 0.5192
-    },
-    "crypto": {
-      "BITCOIN": 402433,
-      "DOGECOIN": 0.720781,
-      "ETHEREUM": 10376.79,
-      "LITECOIN": 339.12,
-      "RIPPLE": 8.46
-    },
-    "indices": {
-      "^WIG20": 2779.83,
-      "^WIG30": 3599.93,
-      "^WIG": 3599.93,
-      "^NCINDEX": 244.8
-    },
-    "news": [
-      {
-        "title": "Mistrz świata nie wytrzymał. Tak podsumował słynny wywiad Jana Bednarka - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUElkVkVkLWZuZGlnRFhORnpTeU0xRExIbmtsdUtLRGFDaUF3eTJSczRCOExfSGF3ZzFBdHZ0R1N0YVc0Vm5wLWRnal9yeG85MlhFMWxVLWJreHF0ek1nSUJ0Wi1wQ1BVSWpDWGtUOHdCZGpMQXFOZDFzcS1GaDlLcWprdXVJbThldVZVT05rREJRd3dFeDQtRlBQWnpzWXd6TkN5Wk5CLTlXNE1TYjVjMm8ySmowTzlnN3c?oc=5"
-      },
-      {
-        "title": "Ważna uroczystość na Zamku Królewskim. Karol Nawrocki odebrał zaświadczenie od PKW - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclViaWRCbndQdDBfMlJObXo0QlVsZDZvaUpEREFzeFlvMjVRck84Q0d3bzlMbFJSUWVZcnpLUktTVzlTYlpUR1pTMnNueDNPNzhMM3dXU0otR09MTUY4R1R5dnZwbGtGbk1rcUhOT290NTFrdEs4YlFWT09ReU5xVDNpRE9XWVBMMkxqUkpzdmhJV243ZjNjZDM4VGVCWmpsWllSOFJ2d2xpcW55X1owN2JoYUFWQ0JlazZZNjJBRS00YUJMT2Fzdg?oc=5"
-      },
-      {
-        "title": "Wotum zaufania rządu Tuska. Trzaskowski zabiera głos - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3d2V3RsdVB0TmpyY0ZiWEx4dUFKS1hLTzh3UmJPcjJqNF92ZzI0MDNXZmdkQllMRzRaX0NBYTdFYUVwSGtPdTNXWklrZDNRNDlPWlV0aFRjS0lwdnl2djFDeWszMjdHNlQ3VGVPemVrdFhDTlMtSkRHUGZ0NWZocEdLeGpOZUZfQ2QycUdCbWhHOVd6SS1JR3VR?oc=5"
-      },
-      {
-        "title": "Grzegorz Braun zniszczył wystawę w Sejmie. \"To zgorszenie publiczne\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem5ZNGpnaEQwbDBiZjRrNmNaci1CNlItQ3dkbV9jV1Q4NUJlbjVGaHVON05xdmlZMHQyNGlvUG5Pa0hOVk5CT3RNRk94UmJNT0dDMTc5cWVSQjQ2WVN6WE1fRzZBTWpyeTl4T0lZTDdFanZuQjJXU2ZMdVJLMWZwQWpNb01nQ3hUOG00dE9OSHhDRXBZOXhZcXY5d2JHM0RsbUQ4Tk9hRkJzeDNyRHpWS0lNRnl0UdIBtAFBVV95cUxQT0NGMTgxYmRlcWl4TG9Mc25PRlJCZEVOc1J1UlJBWUpHRlBUWjFLaF9xMEpUQmZMLU1zZl9Nd3BlbDFSd0JPR0lWWWxkZE9MLW9GeGtLSy1kU04yTTNQeE9HN0d5aGlmLU55SFFuUHBQUTJVck9RV2dYMy1jd3RqRjFwazcxYThTTXhMdkdhVEVnUHhmN3JDMVRmMWdCXzRtZ1dyU0dMX2dmQkdmWURTYnRDZVQ?oc=5"
-      },
-      {
-        "title": "Austria: Polak wśród ofiar strzelaniny w szkole w Grazu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG9MaXVOQjdZVFNyME1SQ29hZGJTZ0dzeUk1bHRsNFlkUmlJbTRsdWd4NXRIOXRsbm41Z0hUTUptLVlIQWVpRHp6QzRuRGdraTU1VWVHZWVBb2toaDBlRlpkVjkxc0ZsdDFvZm0xYk9VY1lRT3hXbUd3UjdzaGlUbklCVVFLcDRBNVRxN2NkWVBBcG10TVJ5NzJiTlVIdHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-11 23:13:24",
     "weather": {
       "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
@@ -2646,6 +2593,59 @@
       {
         "title": "To dlatego lot Polaka w kosmos został opóźniony. \"Pojawiły się nowe dane\" - RMF24",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2hpb2pMYmhpbHN3clQ1VTlpOFVUSmpMNHpRdjE1TUhyeVpYeVhLbF83NThLTGtYSjAyMF9hbDJRQ1dLMFlfclpFQWxpMlM4Vi1FdEFLU3ROTDJVVmJ6LXc2VkZNZDZjVnBmVHJYcWUwMlBBZzBQUWtyY2hWUzJwRFh4RUpzektoSWljNkpyOFAwYWs0elcwVTBTRU5HTUVhd3gteGczRdIBqwFBVV95cUxOUUUzc3R0MVFwM2Exd2hKMm1YTnFtZzBZV3JYZjdneVdMNk05d2tNcFdQcE9lQTFrb1lYcjQ5dXNnUlhUZ2lwWi14MjBpRklJZmQ0QVV1anVPQzI3QjlvUVNyUmQzNzM4NDI4bm9KdDJHNU0tX0ZSbFJfejNkV05EYTlpT2JTRnV6WGNOZl9sLWRuMjBLd3Rlb3lEa3FITEJmY3ZqWjlkXy1jT3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14 06:17:44",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 389604,
+      "DOGECOIN": 0.658919,
+      "ETHEREUM": 9439.94,
+      "LITECOIN": 319.45,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2707.86,
+      "^WIG30": 3505.79,
+      "^WIG": 3505.79,
+      "^NCINDEX": 246.75
+    },
+    "news": [
+      {
+        "title": "Iran odpowiada na atak setką rakiet. Eksplozje w Jerozolimie i Tel Awiwie [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXQtRS1HajBDbjhLazhkRFQ1X3FpUERreVZFOU8xOHZBbEQxVFFSM0k0R2p6aEhncTlBOFFheUtMckFBYU1rVVpzcmx2dkFxQnlhMzEteGdiTVV5LWJZeXh6cTRNX3pYanA2Q0NUSTZJN0dfMWNnXzhJeHlrSEpFZUozdWw3NVczbnhmUm1KbGJBZXVnMVpDT3BqR180Y1pQNVIzdDJZd3RkcEY5MG1aQjdzeGdFTWJkclU1VU8wTlcwUQ?oc=5"
+      },
+      {
+        "title": "Wpłynęło kilkaset protestów wyborczych. Nowy komunikat Sądu Najwyższego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2h0RUNkczRNdjZ0NlNVX2ZPU1ZUODItQm9WZTdicWJoUjJKekZXUzhCd0NFb09HSUVVUVdfd1I4T2YwWFAyV2IxdjBNTmlQc1Boekh3aF9ETTdKd1NENVNHZjVqcUpjQVpCekZETVh2bnoxV2hOdVNUaEt6b0Y5Y01QbXp3aXItVy1yeklYdTRqaWMxMTlCSHlYVmhaVVVwbjlnUFVZUFJOZExpblN4MkRTZEw2WURkOVhPZW5aS0o?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Minister może zostać rzecznikiem rządu. Tusk wybiera spośród 6-7 osób - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEticGp4LUs3SVpULTEyM3lULW0yaWMwel80elRGY1lSUGg3SnF0M1RzTkNJMlFGT0FESHhCVThBSGdkZ2NxZGJIcng0UGdKbVBBdjNaWm5kSldCLUJJUEhiaHNLVWZnTndWY1p3MTU1LUQwQXBUVkg5bWtWbXl2QXh3Y1lXdDFYRHFhYU96VHlXakpoUjI4VmdpZEVOclZRaS1DaFl6M0xPREc3MUZwWllOTnJ3MTJZaU5vY2paaHRRY21hNFpZS3F3?oc=5"
+      },
+      {
+        "title": "Sławosz Uznański‑Wiśniewski nie leci w kosmos. Astronautom kończy się czas - Goniec.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRmNna01Vb0Nha1FuaEMxNFU1dUFNdUlObE1EczVqS21FYkdNR2lUemZUbXBXdVVPRXY5OHVkVDFyU2lsQlFxNWFzYkJBREdmbjhvNENnbXNKbG9paFBrd20wUzRubHBPaEVvS3hBdjl1TFdqTjhWeWFScm5MZmc3c0xBY21SRklSc3VfdXA3WjR4OFNiUmRsV3BUdVl2LU1qOFBTRDk4VQ?oc=5"
+      },
+      {
+        "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
       }
     ]
   }
