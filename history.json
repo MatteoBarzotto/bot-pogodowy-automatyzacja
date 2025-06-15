@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-13 11:15:22",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6929,
-      "EUR": 4.2631,
-      "GBP": 5.0098,
-      "CHF": 4.5333,
-      "JPY": 0.025681,
-      "AUD": 2.4009,
-      "CAD": 2.7045,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 387935,
-      "DOGECOIN": 0.64626,
-      "ETHEREUM": 9330.64,
-      "LITECOIN": 309.93,
-      "RIPPLE": 7.91
-    },
-    "indices": {
-      "^WIG20": 2719.99,
-      "^WIG30": 3521.5,
-      "^WIG": 3521.5,
-      "^NCINDEX": 244.73
-    },
-    "news": [
-      {
-        "title": "Rynek walutowy pod wpływem ataku Izraela na Iran. Złoty obrywa rykoszetem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTl0T2Z2UlZvcWlfWGdGX0tMWFlvRWtnemxidGVOVk1qMlFWVDgyYjVRSmpZdHNxTG5sZmRRcS1oZS12YWJ6QlRyWk54LVlaNGpWSE9LS3pwWnQ3b3Vzb2p0X1BndDItVC1SRklFU2I2eDhqNWxVVlRXODJlVGY3Q0hnWVpUVlg0YVQ4djZWT0d1NDFjQ0xSTWEzbnNJSnpUeFhsdWJDYU5FM21ZUHdFb29vcmdmSnh2OFE?oc=5"
-      },
-      {
-        "title": "„Prezydent Karol Nawrocki nie będzie wasalem nikogo”. Nowy wywiad - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWQxUGs5dWRPRU1zQXF4WmdwQlFpMXU3LXVNWmh4bWFyT3RSY0xDNmZ0V1V6ZTFmcllSNDhBWWN4UWFja3Z5ZXR5MndxMVNTS2EycTNxN3ktZ1Y2NTNDMjlQemNzUVVfZ2syVUpMdGhNWmdteUQ0T2ZzcE02dWpMajBHZjdSZ3EwTFp1YmV3TXRmX3FnZ0hKZ09fdFg?oc=5"
-      },
-      {
-        "title": "Tusk po rozmowie z kandydatem na rzecznika rządu. To będzie parlamentarzysta KO - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWc5OXFWcjI2WWNEekJwTVptMGtWMHVfLTdjRGsxNE5IS041UHdHdHJGQ2dPNlFoeENDeVRGLVJzM0J6VThQcjZUNm8tV205ZVBlUkNCbkpNUjhESGZVOERpajVHREdlV05mQ3VtZDY1bGJhYnBValYxN0FrYVpLVXhHOExhdmZxemhWdmVQMTNueW1RMFNUeHduOFJfS1NmZ3lRWGFxMlNXbmpTOXFqOTdGSEtWcnlfdE1tMmtn?oc=5"
-      },
-      {
-        "title": "Partia Mentzena może zostać zdelegalizowana. Do sądu wpłynął wniosek - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV01LMlhLUEtXTTQ2dmpGaHBmdGRmQ2tJbFZaX0RFZWlrU1BNb1RNZlBvX2ZFT2lpaVpyRlZLU016VDh0TGFkZ1NDQVlFc0ROcDFpdG4ySUthV1JVc0kwWFlmMXVHREQwaWhDNXJ6UHRUUV9iU1dXSU9YdGtXZGNyUVJGVU5VSjg?oc=5"
-      },
-      {
-        "title": "Wipler o decyzji SN o ponownym przeliczeniu głosów w wyborach. \"Bez znaczenia\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnVnOVFfWkNLaU03UnRia0s3Z3h1LThLQ3FqZUV4MjR3SUkwdTI5U3pqZVNJdzZXMnl0QjYwZFBNUHRPcVdrYkVYMGVNcFRXMGJCeHhoQm4yVEZ0LUo5SDZhTFkxSS1nN2g3N00zY0tBeDg0VzFjTFhnRjhhazNqNG1WakJkazZlSTFPYmR4TFhOU1ZLV2tIRDQwZW5KcU1IVVVGQURZMGFUdXJTc3UwdmNtVlZVOExoUHBqbzhEUEg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-13 12:15:22",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Jedna osoba nie żyje, wielu rannych. Z tej atrakcji korzystają tam chętnie polscy turyści - Fakt",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0lXSjloeFgxX0ZTN3hDUnNvbVN6OTcxMGthV0Izekd5VlpUV2NRS0xuZVJuQ1oxRkg4N21LU1BXZ2tUa1A2TU1vU0JLZWd6X21pVmRtd3dqNTVCWTc4T1ZLSEJOeGFhdGp4aTV3d3lEZTUwNXVoQndWZE5Kb0xJY1F5eFg4bnkwVVhSN2NpcHJzZUNMT3BoZUtJbWpDZjFoSVhjaWRxMGsxZTA2UmpCZ0Nn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-15 17:12:50",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 390684,
+      "DOGECOIN": 0.652614,
+      "ETHEREUM": 9422.45,
+      "LITECOIN": 319.25,
+      "RIPPLE": 8.02
+    },
+    "indices": {
+      "^WIG20": 2707.86,
+      "^WIG30": 3505.79,
+      "^WIG": 3505.79,
+      "^NCINDEX": 246.75
+    },
+    "news": [
+      {
+        "title": "Gigantyczny sukces Roberta Kubicy! To, co zrobił, stanie się legendą - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa012YkxFQXJmb3Q4SnNMSk9zRVBjX2hRaEdub3NpRktUTE41TzY3Um9ia0tYY0tVamtIckFUREdXQUkxRGZEbjZhRE9YQzRaOExFQS15eHlEU2ZvbGNIcjl1VkZUeDVuQ0E0OFRTcnlmWng5ZncxLVlyaVFOUlNjS3pucHc5cnJaQmJpdlpNNEd2ZlY0eXVVa18xTzM1bGk5LU5VRF9VVzU?oc=5"
+      },
+      {
+        "title": "Donald Trump o porozumieniu z Iranem. \"Możemy łatwo to osiągnąć\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdExGNklHcDlHeE5sV1A2TzctMTFwTVl0SnhnNFVhSk9PZlRhRkdqSVlPbEk3VWUxZnVEYTNMYnVMYjJGaFdON1pyakFhVGhQQkcxMERKc3dqUHNPTGxWVTZCeXlfREVsbDZ6ai1zbVYzUDdJV3pBQm0tNHJSS2s3blRha2J4S0NHdThuYlVMVm5lNktza25rNjU2TkJOeHlyQVNldld6bjZJeWhPWHdRS19FWQ?oc=5"
+      },
+      {
+        "title": "Polacy muszą zapłacić za ewakuację z Izraela? Oburzenie w sieci. Rzecznik MSZ zabrał głos - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1lyV2dqbjFnSjhQeTlXVXZCOGhzcC1ZbUM1YjRGbzlOUmsyLWV1NVRteF9IX2gwZ0M4SFVuajhSQTBpT19pSjMyLWJpTF9OOFdPTmVPTERLdF8ybUc3X3dNQmtuSmJxdGtxaVpmckQxeDVfdm14Q2FDRHltcUc1TG1teWwyMXFTZEdDZ1FZUXM0MVI5eGRz?oc=5"
+      },
+      {
+        "title": "MSZ Iranu: nie prosiliśmy Cypru o kontakt z Izraelem - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2JNTXo4dGFVdExndmRweG5PQmxzQ0xwRmdMR3ptSk9Tb0VndEVZM2c5UE9rZFNCb2x3dHoyWHRhY3d6dUJXY1J5NTdWMXVQOXFNLTBHREMxMl8wdUktVVhiclhyMU00Skl2UEIyUnpOa19TOE9iYTczT011SDJVOFZOajhmdVN3OUE?oc=5"
+      },
+      {
+        "title": "Donald Tusk porównał Polskę z Iranem. Napisał o \"autorytaryzmie i wolności\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRS1oZHVlZmRydTU1akwxWXF6N1c4LWZGVEE0T1VhMmV5b0hudzBlMkFBSWw5NkRtQnVVRjBJblNfaHNqX0liZE9CTkJBZXJ6bVZjVk15X2piRFRWc1Y2M0IwNXc0ZWx2VFNON2VpdkxrQzQ2MzVxaWV4bG1lWWtKYnN6aHVsRWJ0a1hEdGs5czdaUVhaWV8yb1VHaXc4ZVlvdl84Ym9kZUFPQnB2ZWxTYy1pWEp4a1l2SEswTUQ2ck4wc1pKTTE3OE5uZlNscDlk?oc=5"
       }
     ]
   }
