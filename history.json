@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-14 09:12:43",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7056,
-      "EUR": 4.272,
-      "GBP": 5.0247,
-      "CHF": 4.5604,
-      "JPY": 0.02577,
-      "AUD": 2.4047,
-      "CAD": 2.7216,
-      "CNY": 0.5159
-    },
-    "crypto": {
-      "BITCOIN": 388318,
-      "DOGECOIN": 0.652089,
-      "ETHEREUM": 9393.22,
-      "LITECOIN": 317.99,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 2707.86,
-      "^WIG30": 3505.79,
-      "^WIG": 3505.79,
-      "^NCINDEX": 246.75
-    },
-    "news": [
-      {
-        "title": "Iran odpowiada na atak setką rakiet. Eksplozje w Jerozolimie i Tel Awiwie [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXQtRS1HajBDbjhLazhkRFQ1X3FpUERreVZFOU8xOHZBbEQxVFFSM0k0R2p6aEhncTlBOFFheUtMckFBYU1rVVpzcmx2dkFxQnlhMzEteGdiTVV5LWJZeXh6cTRNX3pYanA2Q0NUSTZJN0dfMWNnXzhJeHlrSEpFZUozdWw3NVczbnhmUm1KbGJBZXVnMVpDT3BqR180Y1pQNVIzdDJZd3RkcEY5MG1aQjdzeGdFTWJkclU1VU8wTlcwUQ?oc=5"
-      },
-      {
-        "title": "Dwa nowe sondaże wyborcze. Duże różnice w wynikach PiS i Korony - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFhhN2NXa2c0RFYya1JZWGFOSElWWURRN3I5VWE2ZVhTQmxsYW40MkFLTWF5NVNuVUtqNVFjWDc2TXVGLWgzY0Q0UWRQZGpFbndPVjZha3liWGJxZWRCX2ZTd1AxV05LZFp0X0dlYlo2X3g1dUEzMkROLTVqZEYxYkJXdE9TQmw2Qi15UzFqTzJHVHQ0ZXota1BLYVNDQ0JRNzRteldJOC1NalYtaW5R?oc=5"
-      },
-      {
-        "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
-      },
-      {
-        "title": "Nawrocki o kawalerce, sutenerstwie, ustawkach i współpracy z rządem. \"Usiądę z Tuskiem do stołu\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQWx4ZHVQdEtkMEd6SEhNXzZ6LWNXS2FIWUtxb0lfZ0RlanVMS1plY1A1ZEtLSlBFWGVWLVNIb2FjSnlyNWstbEdSRXROWVRpdWpOMUlDMkZyUkZvQ0VLaHZJNHhEX2xXQlJDZXdzYU9FQ2V2NjdtYzZ3X2FJbGZ3ckZoeXZyM0dwUExwYVduYzdaSXVKYVgxVnprbXFYWktuNlpSdjBMV2dpendHZ0I1VGY1QWlJT1NtbmJPbFJjNHlkVnJWZ3ljVWNIaFkweDFTbmE00gHSAUFVX3lxTE0xc3AtcmJfbEtEcHRPbjluRG9Zb3JwcjkwUEYwU1ZPY2hzcV9lOGtnSy16MU1MLXBnb0RTWV9pODBfTWZrUVZ2UlNlOHQ4azMwRm9XVFMtajItNmZReGQzaXpGeXg4Y3dsOU5FeWxKOU5DQW5OQTdHM2x4WlpIZmVSYzF2bVFIUmhNXzlKc2JKWFJMSlZLS0RicWZ1NDNmWm96YTRsZ2JXQjkzN1B6ZDVKZ3UwNTAyRFdSMEhiQ1EwRGttdUMzNW5vaDVmbEJtMVlSZw?oc=5"
-      },
-      {
-        "title": "Wpłynęło kilkaset protestów wyborczych. Nowy komunikat Sądu Najwyższego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2h0RUNkczRNdjZ0NlNVX2ZPU1ZUODItQm9WZTdicWJoUjJKekZXUzhCd0NFb09HSUVVUVdfd1I4T2YwWFAyV2IxdjBNTmlQc1Boekh3aF9ETTdKd1NENVNHZjVqcUpjQVpCekZETVh2bnoxV2hOdVNUaEt6b0Y5Y01QbXp3aXItVy1yeklYdTRqaWMxMTlCSHlYVmhaVVVwbjlnUFVZUFJOZExpblN4MkRTZEw2WURkOVhPZW5aS0o?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-14 10:16:36",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Sprawa kawalerki Nawrockiego. Prokuratura wszczyna postępowanie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0RRRHR2cGtRUnJCdUF2QVZqVjh3cmxsbVhWbmxDdmk0WnR4d1Z6RlNBeTRWXzB4bVRKb204anBTeE4yU1BGdDJmVnhDVU5DMHJXY3AwTVJUSjlOaDEzVUNwNnAwUmtrNVp4azZXeEpTUWpsMkIxMm1RZ1lCZVNYeFlkLUxaMnNsNU41NS1RZUFRV2t5bzhzOEM2a2steGluZGp3NEV2RFI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-16 15:29:32",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6804,
+      "EUR": 4.2612,
+      "GBP": 4.9976,
+      "CHF": 4.5317,
+      "JPY": 0.025511,
+      "AUD": 2.3969,
+      "CAD": 2.7117,
+      "CNY": 0.5126
+    },
+    "crypto": {
+      "BITCOIN": 392482,
+      "DOGECOIN": 0.650897,
+      "ETHEREUM": 9612.79,
+      "LITECOIN": 322.4,
+      "RIPPLE": 8.3
+    },
+    "indices": {
+      "^WIG20": 2716.34,
+      "^WIG30": 3518.09,
+      "^WIG": 3518.09,
+      "^NCINDEX": 245.97
+    },
+    "news": [
+      {
+        "title": "Ryszard R. usłyszał policyjne zarzuty. Pod wpływem jechał na festiwal w Opolu - Kultura Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaGQ1Q2NPejVUWHpNdWZhUVJWaGJUS1FrVWJlOFV1VGxCNVMtY1gzdUxTOFFMN3J1eDFPWWRBMF96VVYxZGxScXB1T2pER3VSSUF4czdEMVBZVmplQ2NPSjItemJ6V1VQUnVKcm9KZkFzSUdiTFNMaFk5V1FxVU84RlB6TjB3TVNuRmNmOVh1dkNRS0tEN3JWRVlXYXByd3gzYWxUemFUZ3N4X3dPZDhmWUoxSU14ZjllN1E?oc=5"
+      },
+      {
+        "title": "Francuski gigant dostarczy 40 samolotów polskiemu LOT-owi - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkp0S3U3aU1NR3lDMDloVERLbnFIRFpxcmUxWVdoYWN4d2xXeHNWMFFCVk1CUUM4SlRzUEM4V1ZNRjZDcFFtVFc4QTlIaE80ZlpKNVdjUHpjZHdDS0pOVXdVeEczX3cySU5pclJsWjhfeVhYX3dILUFlVUtxV2R1emdzb1pnME1TdEhMUHZDNUlsY2RkNG1JN1MxQk9HeU5lOGhYZQ?oc=5"
+      },
+      {
+        "title": "Gen. Jarosław Kraszewski: Atak Izraela na Iran nie jest na rękę Rosji. Ekspert wskazał powód - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWmtITnlQU19KcVNRWk1WaTFSX29TZXdWRE9Vd2Rfd01KS2RhYmhoVDN4RHVNZWUxbkpPUFBSWlhVOWxFVTVrLWpqTnF4ZExnNUVMOTJGdlZ1di1WUS03d3lmTERrbmZLSVc4ZFc3MEZzQW1RUm1BNmFVSjVJVi1GMk9Tbmw2LUdnSXBvaXZMdEpnaDJWUlVjVVkxRWVFNHktYUhhQmpodURTWUhKR3hpS1hfRWpPNnpKeTV4N3dZWS1HTnZVV2Q5clk2R2ducjZoNTJ6d0hFX2tTUV9JcmlzR0FGSXU1clp5Vm9tSFdzUm5udmZWdHFfX3FER1R2dXE2QUlqREJPTExtR1dWcXc?oc=5"
+      },
+      {
+        "title": "Poniedziałkowy przegląd mediów; Rakiety nad Teheranem i Jerozolimą; MSZ organizuje ewakuację Polaków z Bliskiego Wschodu - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUlJ5Z0N5dmZRczVsRjFFcHhIT3BRc3lkUWppbDRZekM1d3VqWVBOdlpMV0ZXVnhzbUkyamszMHRpTG9wdUVRNkZWRU1vTUxNbmZmcTlhSkRVbXJrQS0wbDN5LWhWY0JDV3YzcmRzbW9HekJONENmcklURXBkM21UeWpJOXhSODVLd2tjb0dvdXBYRl9TOFBaQWVpbnJ4NmRfTjFzaFBPTUFPaTNZeEFPWWVMaXZNc0hFVG53NTNHMDFXMWFUZW1McF9iUXBUeDNxR2FydE5wYnMtN05BeFNaU3VzQnM5aDZmbFR3Zw?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy zasypany protestami wyborczymi. Będzie rekord? Tyle ich było poprzednio - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcENHNl9fX1dqb1pOWWtUYUtMY2piY1E0aXMzMTlZTXlGSFhENE1RS3lMeG5PSlBtQlpvUWhmV2ZIZG83TXU3cXpTdVpaVV81bTg3RWdOa2hZZUdSb2tOZkc2ek81aFJ2eGxybmc1LTYxNUVueEFvMGRDOGhtdEhjd2FfMncxVEtzY1RPY1N2RU9vMDRJd29pR0EwVllBQzdhTHFUQUtKMko?oc=5"
       }
     ]
   }
