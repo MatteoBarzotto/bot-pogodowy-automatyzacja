@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-14 03:06:47",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7056,
-      "EUR": 4.272,
-      "GBP": 5.0247,
-      "CHF": 4.5604,
-      "JPY": 0.02577,
-      "AUD": 2.4047,
-      "CAD": 2.7216,
-      "CNY": 0.5159
-    },
-    "crypto": {
-      "BITCOIN": 391077,
-      "DOGECOIN": 0.660747,
-      "ETHEREUM": 9466.22,
-      "LITECOIN": 317.33,
-      "RIPPLE": 7.91
-    },
-    "indices": {
-      "^WIG20": 2707.86,
-      "^WIG30": 3505.79,
-      "^WIG": 3505.79,
-      "^NCINDEX": 246.75
-    },
-    "news": [
-      {
-        "title": "Iran odpowiada na atak setką rakiet. Eksplozje w Jerozolimie i Tel Awiwie [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXQtRS1HajBDbjhLazhkRFQ1X3FpUERreVZFOU8xOHZBbEQxVFFSM0k0R2p6aEhncTlBOFFheUtMckFBYU1rVVpzcmx2dkFxQnlhMzEteGdiTVV5LWJZeXh6cTRNX3pYanA2Q0NUSTZJN0dfMWNnXzhJeHlrSEpFZUozdWw3NVczbnhmUm1KbGJBZXVnMVpDT3BqR180Y1pQNVIzdDJZd3RkcEY5MG1aQjdzeGdFTWJkclU1VU8wTlcwUQ?oc=5"
-      },
-      {
-        "title": "Odszkodowania dla rodzin ofiar katastrofy samolotu Air India. Podali kwotę - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0FwZXpfNmR1X1pqVzZvZ2ZXWi1tbXBtM1ZmeXdjRUdQVFRMNmR4RFhlcnFXdXgxR3p1VnRMR09QVWNfS24wTHVqa3I0dUFyZll1V2JWdnZYb1J5MUZxMTZtWlVMZWVGZmZUdDdLNXR1cVhHYzVJQlFzcVRRQmotUkVTazE4ZWZjc2pLeUlFdWVPSEJBR0pqbW5pQ05EM2FuWTlESG8zQlhWUU02UHBJTlBTTkZqTVNRUHRpSVhIRk1aa2VzSTg4?oc=5"
-      },
-      {
-        "title": "Wpłynęło kilkaset protestów wyborczych. Nowy komunikat Sądu Najwyższego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2h0RUNkczRNdjZ0NlNVX2ZPU1ZUODItQm9WZTdicWJoUjJKekZXUzhCd0NFb09HSUVVUVdfd1I4T2YwWFAyV2IxdjBNTmlQc1Boekh3aF9ETTdKd1NENVNHZjVqcUpjQVpCekZETVh2bnoxV2hOdVNUaEt6b0Y5Y01QbXp3aXItVy1yeklYdTRqaWMxMTlCSHlYVmhaVVVwbjlnUFVZUFJOZExpblN4MkRTZEw2WURkOVhPZW5aS0o?oc=5"
-      },
-      {
-        "title": "Jacek Nizinkiewicz: Minister może zostać rzecznikiem rządu. Tusk wybiera spośród 6-7 osób - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEticGp4LUs3SVpULTEyM3lULW0yaWMwel80elRGY1lSUGg3SnF0M1RzTkNJMlFGT0FESHhCVThBSGdkZ2NxZGJIcng0UGdKbVBBdjNaWm5kSldCLUJJUEhiaHNLVWZnTndWY1p3MTU1LUQwQXBUVkg5bWtWbXl2QXh3Y1lXdDFYRHFhYU96VHlXakpoUjI4VmdpZEVOclZRaS1DaFl6M0xPREc3MUZwWllOTnJ3MTJZaU5vY2paaHRRY21hNFpZS3F3?oc=5"
-      },
-      {
-        "title": "Płaca minimalna w 2026 roku. Jest propozycja rządu - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDEybXkwRWc4X24ydEJsemU1NEZnN3ZJNTVQd2lXY3dKRzRJRTcwSFA5VjRVd2JrbHlWRHJuNlk0aXRSbmx3Tm9La2J3MlM5dHV2MDhqU1ZNSzdwZmZ3QVlTUm1jVWRsVkx1VWc2VlFtbVhFQVhCeGhtc2F5MDJ3eGJ3bW5Xcm0td3lmSWlZRHJZU19mUTFXWm53ZjbSAaABQVVfeXFMT3dfcmpEQ0NoZGsyOU4yaDdkMVl6cjIyM09nUnI4NnJSSTBJeUFQM09hd3NsejZuNDZmUElHUUk1cGtnYWNfdnJBSXgwQ3U0eDF6V1h3Y3Y0LUU4U3BDLUo1VTFTbzN4NFR6ZksxdFNLNnVDQkJ4RVd2aGxsWVF1UkY1M1h6MWtYcTllM1BDaXFUYlZGejlWR3ZzaDFNMzZmMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-14 05:08:06",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ewakuacja Polaków z Bliskiego Wschodu. \"Pojechali na własną odpowiedzialność\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFNKemppVzBsdXhTNDJPZVVsaDRKQlU1aFpXYU1XVXVKanVmMlZNc3VkWnp3Zm5LQTNUdWFoODBKcS1lYXJ3QXdIdHR1cUZ3N2lQbDdLa0tCaUM0V2xBMkFYU0xjb3B3RVU3MTZfQmpNTGd4SFJ6NTVmQWxta0pMaDg5b0hrUU5XdHhORzZKbkVyc05EaXFjTVh0c3ByNy02VVp2VFNLTXctZG96YVlZeXk1a1dWWDNQN1IycjNMTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-16 10:20:23",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7056,
+      "EUR": 4.272,
+      "GBP": 5.0247,
+      "CHF": 4.5604,
+      "JPY": 0.02577,
+      "AUD": 2.4047,
+      "CAD": 2.7216,
+      "CNY": 0.5159
+    },
+    "crypto": {
+      "BITCOIN": 393998,
+      "DOGECOIN": 0.654765,
+      "ETHEREUM": 9670.1,
+      "LITECOIN": 321.87,
+      "RIPPLE": 8.09
+    },
+    "indices": {
+      "^WIG20": 2724.7,
+      "^WIG30": 3525.93,
+      "^WIG": 3525.93,
+      "^NCINDEX": 247.15
+    },
+    "news": [
+      {
+        "title": "Donald Trump powstrzymał atak na ajatollaha Iranu? Unik prezydenta USA - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjcwbjRIX0NMb25Fam1DeXVNQThDVTlOMHhmcUNOSnBGckg1Mm9JZVdlQk9yOVBseWRFUVVKS0FqcHNMbU5lY29JTFZwQVJ3SGhMVmxvS3JSN21nRXhMWHM1TDdUaFVvVnBaWHRoMndhU2g4NTQtUG9VYnFxbnVON0Q4S3lNMk1pc2EyVElIV18xcmFsR3duSzdpcHpETjN4ai1DeFFkN19GN3d0UWZV?oc=5"
+      },
+      {
+        "title": "Sprawa kawalerki pana Jerzego. Jest ruch prokuratury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm0xeGxDVTJzSXJ5Z2ZuOXhQVnJaamZqZzBGWnlfU1RHUUVUdmgzbGRnUjdFTE1IcDdQRXJmMmJTVWFhYnRWZVMzZFBPS2pSbXQxTi1EeTZUcEMxS3MwaDVESWpQcG9jT2FLVWZQVVJEY0ZVWmo2LWlUNnh4MW8zSW9XbmNzZ21yaTd0RUQ2ZldUWXV2Y09IWVI5TU5vUTViaFJxYnVxQUNyZmNOblBVUkFRdHU?oc=5"
+      },
+      {
+        "title": "Karambol na Mazowszu. Kilkanaście osób jest rannych, kilka w szpitalu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjJnVDljZ2FvZjBOMl81WHJSQkdXNThTYXhGdEI1SnVLRExxdlBMWkZsRFpEMGZXTDVpbVlta3FaSHd6Q3dXMEctMXNTTlpuNXZjc2c5QVEwM1pyaExTY2daUXJuWmRiVVhnZnFNVkdmeUtiTFA2TWszREJITEJiR2hQazlDY3VGMXVMZWFQZVJVVWtmMS02ZzlCMzNJUTBpRUhyTG9hUkZpcWFMNUV1akIxV2RIQ1ROMEo4cEhxMnlQY2tpZnZZ?oc=5"
+      },
+      {
+        "title": "Ewakuacja Polaków z Bliskiego Wschodu. \"Pojechali na własną odpowiedzialność\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFNKemppVzBsdXhTNDJPZVVsaDRKQlU1aFpXYU1XVXVKanVmMlZNc3VkWnp3Zm5LQTNUdWFoODBKcS1lYXJ3QXdIdHR1cUZ3N2lQbDdLa0tCaUM0V2xBMkFYU0xjb3B3RVU3MTZfQmpNTGd4SFJ6NTVmQWxta0pMaDg5b0hrUU5XdHhORzZKbkVyc05EaXFjTVh0c3ByNy02VVp2VFNLTXctZG96YVlZeXk1a1dWWDNQN1IycjNMTQ?oc=5"
+      },
+      {
+        "title": "Quad wpadł do przepaści. Dwóch młodych mężczyzn walczy o życie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTZyUUhYalVfcGN5cnhNbjN2c3QyVWl2WWhGWWpUT1RDVFVPNVFUeHR0dTJla1RMdmNFZTNBbzJaLU9YT25yWFJ0bUc1YTFSWDBPelZHR0xudk1tSmlBQzY1T1VPdVRfQlRwcTktQWZyazRVak9QYWJocHVXMHZfOG52U2U2NUNNbjlINGdsNDB6Q280MkxFcUlLVU9jNkFxWEVZZDY3OHg2TERXVVNaNnpOcHJMRlo5bEUtbQ?oc=5"
       }
     ]
   }
