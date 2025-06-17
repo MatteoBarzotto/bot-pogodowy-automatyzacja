@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-15 11:13:57",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.7056,
-      "EUR": 4.272,
-      "GBP": 5.0247,
-      "CHF": 4.5604,
-      "JPY": 0.02577,
-      "AUD": 2.4047,
-      "CAD": 2.7216,
-      "CNY": 0.5159
-    },
-    "crypto": {
-      "BITCOIN": 388318,
-      "DOGECOIN": 0.645856,
-      "ETHEREUM": 9303.36,
-      "LITECOIN": 315.63,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 2707.86,
-      "^WIG30": 3505.79,
-      "^WIG": 3505.79,
-      "^NCINDEX": 246.75
-    },
-    "news": [
-      {
-        "title": "\"Teheran płonie\". Izrael atakuje magazyny paliw w Iranie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXVmUDdJZ0k2dmY3b0ZfaXpuNmVBTFJuVWdtT2FDd25IQlc1R0t3S04xTXRtcHVOMVpnNFVzdEM4Q1NkdDlGU3FnV3BRVWVxcjVnWE5YVGZtUjM4X0ZTak9ZaGJDaF9HZlcxTDhaUzFpR1QwbFNrd3V2eHRTakZiX01XRTdmZGd1ZU5IdEw3UnRvcXFPNTFTZUY4OFlwWjI4VnlTa2daU2dXZ3pi?oc=5"
-      },
-      {
-        "title": "Proszę spokojnie czekać, ciało samo wypłynie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHgwbE12RnA3WlhhM2ZDeV9mU21TNEgyRzNBb2hSVllXdXN4OW5jdU40UDFWNF9zWE1YbDN2NWZNS29zcnhuRmc4ekllTlM4NkM3RUJ1UEEzUDlua1pubkwxZV9QYkV0R1liNmhwZjNJUEF1V0tRR1U4OUJrNGdCSUdXQTREUHVBYk5nWTRaRQ?oc=5"
-      },
-      {
-        "title": "To może być ostatnie takie święto Bożego Ciało. Prezydent Nawrocki zdecyduje - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkJnaVA4WXpabmhBTmlrZ3RYcDgtN0JVRmtQM004SUNYZmp6MlY3cUR2cy1RN2hocmVCMzRnNW9iV2FBY2YxMThuRzhzTlFjTnN0R2RtSGctUzB1RTFabGxJWmxnXzQtcWt4TnBneHVjTVo0UVpBVE42OHRGczlacC1Ud0w3N0RfTXIxcVFRWjh5Q1FIajM3OEdacmk0eGdGMDZIeGdzdUJPNlFwWG04NGU2dFgwaFBZSlpZMw?oc=5"
-      },
-      {
-        "title": "Żar poleje się z nieba. Sypią się alerty IMGW - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVp0TmJ6VE9vNlczbF9EUXFLSF9HMXBodkxCYkdidjZPcjJtRlZPdEoxczRIYmlqZjBoZ3E3MGhiUFRGakF0VHNqa3hZaUd4N3BtbU1kTWJTRUgyeDBxR25IMnhyTkdmeUFJXzV1ei1LSml4NDUzM0hhWlV3VTJnTGFKajVrVFFNalIzUGRySzdTQkNHTEE?oc=5"
-      },
-      {
-        "title": "Wielka Brytania wysyła samoloty na Bliski Wschód. \"Wzywamy do wycofania się\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjAxTkR4by1xemgzWGdDenVQOGlTbzlsYm9aNE1Kd043QVNVeUtKRzNPbmVsREloQTJFeVg5bXI2TWUzZXl0cFhSRVZDMnlKMFRxTWlNMUtRaXM0OWZxN09vT1hRT1BXWmpfZ0ZYdzlYZlppUWVYSk1yQ3U1TE13ZHFOSTBTcV9UYkhyTWx5UFgtX0lTS3ZTWUpJaEhLekU3emloOENrVEo0ZVJSUTRNeXhPcUM4aFJ2RHQxN3pn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-15 12:14:28",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "PSL planuje zaszachować prezydenta Nawrockiego. Ma konkretny plan - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUZOUG8yUXJobEd5eXFJdkNIZ0dNalBtczBfeHRsSVRoazVDUWpjLVBKcE1IdHJ1OWdzUXlaRWFqMmVZdU1DcVhQR2JQYWdFWFJ0N0ZYWmpiTlQ3bHdMcWMyWldJUkIwNUpkaURVMXpYMmF4UlZ5MThXaExhUHNOcEZ6VGxMcEN4VE9sWTRXVHZ4YlU4RkwzSkpCeXQ5Q0N4aGVPUkt4aEpvMG8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-17 17:15:34",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.7005,
+      "EUR": 4.275,
+      "GBP": 5.0138,
+      "CHF": 4.5527,
+      "JPY": 0.025539,
+      "AUD": 2.4179,
+      "CAD": 2.7274,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 388409,
+      "DOGECOIN": 0.629597,
+      "ETHEREUM": 9343.52,
+      "LITECOIN": 313.93,
+      "RIPPLE": 8.12
+    },
+    "indices": {
+      "^WIG20": 2729.31,
+      "^WIG30": 3537.96,
+      "^WIG": 3537.96,
+      "^NCINDEX": 247.04
+    },
+    "news": [
+      {
+        "title": "Gorąco w Iranie. Izrael zniszczył wyrzutnie rakiet balistycznych [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVptRUF3X2UzVFVSeGNiaF9yNDhtRkY5eGlBTV9VVFpDSThWT2tVLUNiQnFFVE4xVS1fTVFyeG1Md0E5cnpfVGlZUE1lXzZ0clgzOUNIZFVWZWhvNXVZdGFLZTZJcDNkYUFNMzVXa2d5ZjFIbU82eVRJVU1OelREd0NtMXFhbTRoWVdNd3pqUWhZU3RQT0luTWVZU05oVlJTQVRHMmpEMWZCODQ4SV8wVVRpR3RrTzFfeVFuWQ?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie. Komitet Rafała Trzaskowskiego złożył protest - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWg1Ym8wZTZPUHFNVmtwUlNaMHhXbkdDdGRHSzBWdUppa1dBclpmOXg5eWVTcG9NcjRWdmlXRTMydjdBWHJmZEZBZWo5dExWXzhvV3VOd0I3cUlwa2YwcUs5QXdkZEx3dTNWVTRCcHJ2clFWVElPc0lIZFBUTl9NcEg4YjE0bVFRNlZrcGdKWmdDYjdveDZJaGNJdzBHT0dWWTFBRF8tQlgzWUxBMXZla3lDQQ?oc=5"
+      },
+      {
+        "title": "Cała Polska śmieje się z taśm TV Republiki. Ale ujawnienie rozmów Giertycha to przestępstwo - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYkhrbzFjS3JsOVdXZ2tobGRKdWpuamp3aTUwNUp4RmFIN3RZZl9oYTMwbEdHT1I0RkUtTXJsOTNBU3NmN3NDcGhVMkZ4TTJBMXhZNEprRkdjNlR3ZllJWnFRYlQ?oc=5"
+      },
+      {
+        "title": "Oskarżony o spowodowanie wypadku w Warszawie stanął przed sądem. rozpoczął się proces Łukasza Żaka - Interia",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ0VfaUZON3hDWnZOSjZOSERZTmFsX3ZBdnluaVhYeGNxbzkxY2h2NDdqeTFwOGlzUXE2XzdNS1FIV294TTZpQWZHMmQ5b1J6eGtCSnRTZDVfM3F6SHhfckF0LWFVbnU4ZVdJLWk5TFVxVkE5TURKLXZSYjlBaGd2LVdmcDU3MDFTS2laMUVydjlXaklDdDF5MFlPTGliZWR2YTlNQ2Zib2dwNjByY2QzWElHMlhaTnBIN3ZiUg?oc=5"
+      },
+      {
+        "title": "Tragedia na Pomorzu. Śmiertelny wypadek 13-latka na hulajnodze - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemNQYksxTmhzdWRQdmFNdzVjOGhYOGpGNnV1Zm1JTkJSa1RscFV6Z2twVmhkNm5EU05HUHA3UHFWYlZ1QVJkUGx1RjFxZGtDLWVFamNGZDBLZ09NOGIzNk9uV09uRWxuQ19hVHZNWkJNV2tUMnhqWWRqeldjUjlkTUNKdU5SQ0Q2dUhCX3BIWkx1QUdmVm5NdWZHQUNrdFB3SEZVREp6X1BvZVdCY2J1cEhrcWVZNG5xckhwa3gyZHFjZw?oc=5"
       }
     ]
   }
