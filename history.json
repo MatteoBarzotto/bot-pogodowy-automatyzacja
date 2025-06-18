@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-16 00:12:46",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7056,
-      "EUR": 4.272,
-      "GBP": 5.0247,
-      "CHF": 4.5604,
-      "JPY": 0.02577,
-      "AUD": 2.4047,
-      "CAD": 2.7216,
-      "CNY": 0.5159
-    },
-    "crypto": {
-      "BITCOIN": 388368,
-      "DOGECOIN": 0.644654,
-      "ETHEREUM": 9369.09,
-      "LITECOIN": 317.43,
-      "RIPPLE": 8.0
-    },
-    "indices": {
-      "^WIG20": 2707.86,
-      "^WIG30": 3505.79,
-      "^WIG": 3505.79,
-      "^NCINDEX": 246.75
-    },
-    "news": [
-      {
-        "title": "Donald Trump zapowiada porozumienie z Iranem. \"Władimir Putin pomoże\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWlpNLV9kS2l3WW14RjNQY1AzcnNoVVI2VWxZMDFFNnBFQzZTSUxtaVRSR2gzVWg1ZVdndGNEZmNyRU5RSXhNSXpZLU9uOUEyOGN0WW1Dc1otbVV0dU5UcW9aVHN1a0c3cmxPa2NYdjJjRVUwSG5zMGY0VVp6SUEzOHJiYkhTUWdvSDJYYzg2dXQzYTF0RWlraG9jVjUwWldUal95ZnE1U2ZZRm8?oc=5"
-      },
-      {
-        "title": "Szef KPRM: MSZ szykuje ewakuację Polaków z Bliskiego Wschodu. Loty będą bezpłatne - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcWRZd3NuZjJIQVBxMkxQeTU2UWFtem9GN0JRUHhpaU5JX0Z5U1J0ZnBaN2dOUG1lV2ZQTVBGRHl4LWk5TGVxdWQwaEZZcnBGeTlFYWRPME9mQm9EUzdwWDFlWlpveXRmNE5WSjZNTTNZWC1nZGNMTVJ2bWMxLWNIMm4ySzdxMnMwcVFsYnFOZ09CVk45WnNKZGwzSkI5S1UyakVRR09zY2xhaXloeTRGd2E4SFZwaElSSzFjcWo2Q0lBUQ?oc=5"
-      },
-      {
-        "title": "Te gwiazdy wykrzyczały Donaldowi Trumpowi \"Żadnych królów\". Oto czemu protestowali - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzREb05qcVJUR2p4X2wtSXVJN1Q4dS0zc3A0c19oVkZ0QURHTGR6UDFiR0llVkdBemVCMEZSd251WnUtOHRScFlfaWpsZ2dXS28yYXRKMlJRcXBCaFlMNHdMMW1kaU9wR2dEQVA5cm52RExIb3pFRDZqWnJKQlc5ejg0MVVCRlpPTUVwamtpdFlMc1FiaFc0UU5lS21YalBHd0VYNDBkU2Y5dzJJUTVMZVBicVFoM1haRVJVTzVZa2tFMHJPMmk1Sg?oc=5"
-      },
-      {
-        "title": "Andrzej Duda jako premier? Polacy wydali ocenę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG5vYVBoRUNybUktN2Fid3JMYUtfMnhscHZiV29XZFM2dENONTdfeGZzdkZlQkdLbEtGN2hxblVMV0diTEZSLS1HYUM3b1Ewc2hWV0RKdms3eGxmS0E3eVE1bE5zZVhPaENGNng3VHdLaFYxMUg3SlZzQWdlc0hUY2lmWFJFcnFvWlE3LXoxcWtrQQ?oc=5"
-      },
-      {
-        "title": "Chcą rewolucji w KAS. Liczą na przyszłą pierwszą damę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1lmQlA5eHB0TTJ0MnRtdW5wRGZ5NXdxVDFZckt4d21MSFhYM0dZWVpPNlJoYjZrSmF5QUcwOEJDVHU1b0EtdWdlU3lEWW5OTmxvNDNPSUdDTVZraWdZenlHdDkzWG1HWlIweU1PQ3dQbmFIR1BvZldKdWFrd3dJY3NMZ2lCcGFKR3VMZk1Fc0tqcF9EVjRxS2lnOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-16 01:12:45",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nawrocki weźmie udział w Radzie Bezpieczeństwa Narodowego - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGViWEtfSlRXVE9vR1Zzd3d0VWkyQklvQWVMcm9QUlV1b2Y1dTNPQTVLeE9wX29yRFFJS1FBTTJaQzRvdDBZazhrWUk2ZHptOEZVdU4wWV9XaUNaaEttanFBLTJKLW9NQkU4NkJfeWhEcWx1ZUkxOXpOQzZsR0hkRGJQUm5QcDFxTUFDZTE3RHdmLXdDTXZTSWl30gGYAUFVX3lxTE13Q29MX2xIOTRwRWtvMXlrVFM5Wjd2cUNCNHA0N0RzTzBYQ05LOF91dXpsM0xxSHJJU2RuV2tTVDBLZlhXUjRsQ0FZZm54cmhFUEtTV2thOWVmX3pCMUM3ZG4xNzFiU0lseG5FZ3AwWjlBb0pRaEhDZ1JTUC0wWEVYSnQzbUFaTnBpSXNHNDNHMnhzYVRPV2ZT?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-18 08:21:02",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7005,
+      "EUR": 4.275,
+      "GBP": 5.0138,
+      "CHF": 4.5527,
+      "JPY": 0.025539,
+      "AUD": 2.4179,
+      "CAD": 2.7274,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 391689,
+      "DOGECOIN": 0.635823,
+      "ETHEREUM": 9419.27,
+      "LITECOIN": 316.3,
+      "RIPPLE": 8.04
+    },
+    "indices": {
+      "^WIG20": 2729.31,
+      "^WIG30": 3537.96,
+      "^WIG": 3537.96,
+      "^NCINDEX": 247.8
+    },
+    "news": [
+      {
+        "title": "Trump rozważa atak na Iran: \"Mamy pełną kontrolę nad niebem\" - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEJjb0FLNXNnc3JIS0pOYlR1Zk5MSlVpYnpSbnFpa3JYdzVKZmw1ZDJqTkd2WVViZVZmd3F0V1ItLU9hQ1RDSVY5QUl6bmtjb2xCMWlMam9ZbzZNUXJPc3Q1aUhOYkFWRjVPUXNFUmZ3SDZqampraDFnd1Q1MFoyWDR2Z0lpVGp6Zlc2b1lCQkRpaFZhUHozcTZyaw?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia potwierdza. Trzecia Droga przestaje istnieć. Koniec współpracy Polski 2050 z PSL - Interia",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUJrMTZJenl4dXVCRUVCcGNVWFgzM3hpSnkwc19Kei1vellMUFZFalEzTjB3RGp5S1hZcUxaU3NDQ2pBQ2JtU05yMm5kaGxCQ2NheVBCU1hVNFVCbTIwcUdPV29wWkY1SmNHNDVlT0x4Zng2YnNMWXlNMGFnYWhJUzdoQ2VmMHhxaFpCWWtFUDdwUVQyN2Q0UXQwcWNwdHl3RkxPVDM2UEFreUk4VVh3?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy rejestruje tysiące protestów wyborczych. Liczba wciąż rośnie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnBYWmt5V3duZ1JfaGlBa0UwU2hIV2s2MF9VOTE2Sng4dVBkN0xDSU1rdkdDNmUzNmRPOVRLQmlFQkIyd1hiTEFtUU1iRG9XdEtEMVBFUG5VeGxrNVV5b1FJbFZHQ3hGeVNRVVB2c1ZOZnlZMUxITnRlVkVDM05sNEVBcjdNOUtET3VURmJXQ1AtT2dMeDZDaU9uQVpTUHJQUnBXNjkzZTlGSnNZSGxfdkdwRUs?oc=5"
+      },
+      {
+        "title": "Polacy wskazali, dlaczego Rafał Trzaskowski przegrał wybory. Co było największym problemem? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3lyLTdENTVtdVdjS3UtTE1HRWJJbGJjRmttZWZmUVBMSWptYllmRzVCZENSeEY5QkUyT1BMLUV6c0hwT1pPWUc4UTZOMWFZUFVkQjc3cHFHdUtkcU05cXlOV2pRM2R6Q1ZPXzluVUdtZmQzWVFWc2NSTmdKalozUjhEckVKd0JqUTJocEVIQUlydVVPRGdzcjQ5eEhVZ0ExT1owYw?oc=5"
+      },
+      {
+        "title": "Taśmy Telewizji Republika. Prawicowe dziennikarstwo szoruje po dnie - Klub Jagielloński",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWtDbElra21ObmJYaFVUR21lcjVld1BPZXJjYWVOZmU2VUpPb0xsZ3RDR21naTNudVMtX1NsaUlsbXdKOUpmVXdIc2dYakNmSGxsaFpTVjFzNGN0dGthenRucWJXQzBTZ1pnZ1FaZ19QNG01VmdRWUtlTHhkSnoyS1I5Yl9DNXRuWlhIcWZMdUVNcExBTE9kc1FCM2RXM3JNNkNhWnJCSHhWQQ?oc=5"
       }
     ]
   }
