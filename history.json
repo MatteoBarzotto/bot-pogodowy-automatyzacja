@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-16 08:22:22",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7056,
-      "EUR": 4.272,
-      "GBP": 5.0247,
-      "CHF": 4.5604,
-      "JPY": 0.02577,
-      "AUD": 2.4047,
-      "CAD": 2.7216,
-      "CNY": 0.5159
-    },
-    "crypto": {
-      "BITCOIN": 394301,
-      "DOGECOIN": 0.656399,
-      "ETHEREUM": 9661.65,
-      "LITECOIN": 322.92,
-      "RIPPLE": 8.07
-    },
-    "indices": {
-      "^WIG20": 2707.86,
-      "^WIG30": 3505.79,
-      "^WIG": 3505.79,
-      "^NCINDEX": 246.75
-    },
-    "news": [
-      {
-        "title": "Donald Trump powstrzymał atak na ajatollaha Iranu? Unik prezydenta USA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjcwbjRIX0NMb25Fam1DeXVNQThDVTlOMHhmcUNOSnBGckg1Mm9JZVdlQk9yOVBseWRFUVVKS0FqcHNMbU5lY29JTFZwQVJ3SGhMVmxvS3JSN21nRXhMWHM1TDdUaFVvVnBaWHRoMndhU2g4NTQtUG9VYnFxbnVON0Q4S3lNMk1pc2EyVElIV18xcmFsR3duSzdpcHpETjN4ai1DeFFkN19GN3d0UWZV?oc=5"
-      },
-      {
-        "title": "Szef KPRM: MSZ szykuje ewakuację Polaków z Bliskiego Wschodu. Loty będą bezpłatne - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcWRZd3NuZjJIQVBxMkxQeTU2UWFtem9GN0JRUHhpaU5JX0Z5U1J0ZnBaN2dOUG1lV2ZQTVBGRHl4LWk5TGVxdWQwaEZZcnBGeTlFYWRPME9mQm9EUzdwWDFlWlpveXRmNE5WSjZNTTNZWC1nZGNMTVJ2bWMxLWNIMm4ySzdxMnMwcVFsYnFOZ09CVk45WnNKZGwzSkI5S1UyakVRR09zY2xhaXloeTRGd2E4SFZwaElSSzFjcWo2Q0lBUQ?oc=5"
-      },
-      {
-        "title": "Polacy bez złudzeń? Oto, co myślą o współpracy Tuska z Nawrockim! [SONDAŻ] - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFhaWTNjWUN4cDNVcy1mMUxTcGhnNDQ2TXJtSk1VRUhsY3RtVkFDOXNCbHU2ZXZjU1Fmb0dpNnd5aXRvdDFUcGFhNHlCSTVwOXdPNGhaSEU2cjhkNFhyZFhfVWh2eFRaZ3ZKaDVfYTA1MVJfTWlLbVh6NlpWR3ZiWHJibldDZ1NwT1BrLU9hNWNUUlJ0U1FmbW5LMVp3MjFzTERfQXVEcld4bTTSAa8BQVVfeXFMTUxlZG8zOFVEOG5VeWJVQ0hJVEpMMkFiOVFpTlBtZko1U19FZXYxaEdabF8xZ1I4ME1nN00zeWF6dFc1eDY5OEpFSTdDR3RTaUZZTkpIYWVDdDVBb3ZBaTVyUlBQd3V3RUVxS2ViT3RyLVJaSkwzWFNPeEpnSEU2WHd3dWZ2akswZUZTWl9DcUtnTDNIdzhkRzZaNGFPWldvV0wtaktYUUpqbWl5SkZrRQ?oc=5"
-      },
-      {
-        "title": "Coraz większa niechęć do turystów. W kilku krajach protesty na ulicach - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODhITlFFcm1WUnNRMDFHMW15eDNQdHl3Tk96N1JXZWxHWkpoVGIwVkVKTVJoYjI0ajBuRkJPdWZRVl9SSHFpVDNkaWNwTjhJVHRKY0RZel9VeVpKTEFvZWg4d2NJTVdlWF9yb0dHY3Rxclg3VGRaTUw2ZGtEdHFmejRQT0JCTk9CNjV1SVQybkpGbzJHSmpSVnhDX1dkWDJ3YkFBdklnTXhOdzgtcEc0?oc=5"
-      },
-      {
-        "title": "Andrzej Duda premierem? Polacy mówią jasno, co o tym sądzą - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV29hWHlycFc4d29taEU5elJ5WjFiaWJqaF9kVXY0TFhtSVBvU3FKSGdBbVRsU0x5R2pVdXdRR1lXcTRTRVgxMlEtZ3lueVVjNHpxNU1Nb3JyQUxyTmwxUkF5UkFlRzBHZldQTldhTTA2bDNfcFY2QzRFWkdaWldDV3hJTUtobFh1QUhsUzRBeHo5YW9UMGhOTlVPanl6aFZHd2FDUHBRSjZfQzhTSjR4S29sRGRSeVptT0lfNVdDZ1N6dy10Z0JZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-16 09:15:59",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kołodziejczak złożył rezygnację z funkcji wiceministra rolnictwa - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblYzMVpKRmwzV3MyYmhNWkhyNnlBTGhkV29yd1ctZjZTVXlyRXBIbGlHMnpBOElRbWNPN1RsQVh3VUxRVzZaZVZtV05XUGJHcm1iMlA1dVhqR01qX3ZBME5QQmp6ZW9ZMDRmbVRnQXM2c3pRS0ZYVjh5STlZOFgxMVBydS1HSElUeDc4Zzc4UDlRdHFyZDdCQ09KQTFtREFQcUd2LUs3X2VUcmRWVDlhY3V1cWYzTzlMVkJF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-18 14:29:09",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 388714,
+      "DOGECOIN": 0.624371,
+      "ETHEREUM": 9306.45,
+      "LITECOIN": 313.43,
+      "RIPPLE": 7.94
+    },
+    "indices": {
+      "^WIG20": 2710.29,
+      "^WIG30": 3519.49,
+      "^WIG": 3519.49,
+      "^NCINDEX": 247.08
+    },
+    "news": [
+      {
+        "title": "Potęga militarna Izraela powinna przesądzić o krótkotrwałości wojny z Iranem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd3poQ2kyeWV6a0JhMk5sYUlaLUVycGlTM0lmQmVSdWtEeWFiRHkwbU5CZ3ZESGF0VGZJaEFSVzRaUWp5NGtINnJHamdzNkFmXzVCTTZSVTVHWHd4bHRmREpyanRHTzBxYkp5ZVUxNzBYcVVPSkpBb1NaTEZxOE10cy1uTnNSazBTWTd3ZVIwbjNkeTRFbXFuVWRodEhhSy10V3F5QWlxNWxwNm5CV01YTmFweHA4SnpYWlN6NnFzVkMxMGNIa1FyVmYtOTlWLTJuUXRtbWJaSWo5SkJW?oc=5"
+      },
+      {
+        "title": "Dlaczego Trump zmienił retorykę w sprawie udziału USA w wojnie z Iranem - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2pmbmRhakR2Z21TTUtseEFrX1l0YmdYUHBfbF9iejZyNndsMktfYmpjY1ZBcnNHdG1NTENZV0pPU3RpMFdvX3JpYlR4ajhJc3RySm1sRDZldXZyWWJkT0lGM2RrUnJ4bEt5bVJWV3J1ZGdLajYzc3dYZmo2WF9Eckc2dzJXMEJIRTBTSU1XNHhwczJMYlo3cm1SZ3c1T1VGZEtYTTRRRQ?oc=5"
+      },
+      {
+        "title": "To nie PKW zdecyduje o ważności wyborów. Sąd Najwyższy ma ostatnie słowo w sprawie prezydenta - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejg5Qno3OXM4Mjd0UEN6S3A2Mk9fN3Zib0RpQVM2VnJnRG1Ib1hqY2l2Rno2Mm1VT01rWDVsVXNjTjlSdzFwYVFUQTVUdXh6OXhNamVabE0xOXdIUDdITWFkZXFlRXJBdmVRaGwxVWJvd2tZVldBNWVkSWQ1WnRoMHJzNGYyRUkyOS1aRGFJYi1PZ0l1aFJaaG5CQjRfNkMwT2c?oc=5"
+      },
+      {
+        "title": "Koniec Trzeciej Drogi? Kosiniak-Kamysz zabrał głos - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnFaLVhwdmtYd1BzOVgwMGk1X3k3MGRiajQ4dWg2ZG00OVVaOTVRX3pJME1HcE1TMVJqS211VUY3ZmNSb1JkM2R5OVBTUk04ZjVEcUlsSHQwb2VGNmJFUFNLd00xWGNBTzBNdkVLMnFJbzFqUUpSclNZcnViRW1uSXFZbEF6TllhaGdKSlY0Wk5JWWpIcl9B?oc=5"
+      },
+      {
+        "title": "Trwa eskalacja konfliktu między Iranem i Izraelem. Ali Chamenei zrzekł się części władzy - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0NjVmVQRWszRVJCX3VrVURuX184UjdCeTZtQWs1NERlMTFWSm9md0dOeTh5dm9qRUMwMTZZb2RJa0dyRkl1ZWNhNGk1NGppR1dzVjZWMURyQW8xQzhkVFJhd1J5eUhVRHQ1U3Zpa2tpUGdNeWxUZUNQNXFpRVNoRUU0MXhVWXd1Z0FMaEpxLUxmVXphOE5SeVgtZ3lkazZxWnlHejZB?oc=5"
       }
     ]
   }
