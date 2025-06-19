@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-17 19:13:19",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7005,
-      "EUR": 4.275,
-      "GBP": 5.0138,
-      "CHF": 4.5527,
-      "JPY": 0.025539,
-      "AUD": 2.4179,
-      "CAD": 2.7274,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 385288,
-      "DOGECOIN": 0.615024,
-      "ETHEREUM": 9161.82,
-      "LITECOIN": 308.08,
-      "RIPPLE": 8.01
-    },
-    "indices": {
-      "^WIG20": 2729.31,
-      "^WIG30": 3537.96,
-      "^WIG": 3537.96,
-      "^NCINDEX": 247.8
-    },
-    "news": [
-      {
-        "title": "Konflikt Izraela z Iranem to złe wieści dla Ukrainy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTNLX3dsLWZVbnptbGxYbWxwNDRGTUE0V0h5SjlzcGdtQ25ZX1YydHg0U2VxQWdGbTRIUjh1dzZCRDJxem5xdzlmRjh0SEoxVk1sWi1CbjgzTTdialU0UlNVanNOQXBfY2ZxNkVmcmtKeHZHQ01VNkYwZEEtMDVZRlN4aThiRktnZ01LSXRmekdoTll1eEpMYWg1YnloRFZKLXJZNVpYOEw?oc=5"
-      },
-      {
-        "title": "Nawet w PiS kpią z Republiki. Wpadka z \"taśmą\" mogła pomóc Giertychowi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHItSU4tbkZzcDllY2x0QVRXdXA4d2VaZ1Z4TDdKVkkySlJib2R4d09JVzZJVWRqQmFFSGc5dnRQb0ZiTnJ4YnZEbUJscnFfREFjcmZ1RVFHb0p4ZVFzZ0pEcm5lTXZ4LV9ibnl6YVVUcXpTOVhjWUFKTUV2U0xSSk8yNmdJaDc3clNaX2VObldaQVFYeTQ0eld1UlB6ZkxON00wNnNSNFYwRmNLd0hF?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy unieważni wybory? Wojciech Hermeliński: Nie wykluczam takiej sytuacji - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUlJLYVRhVjRCeHM0ZXhLa3hSdTdKR0xqVzRSVng5LS1LYVJ2UE1yRWtOV1lhN2JRTzFPbC1ZQURDMUJRSWJMNjk4X0w5c0xxMzAyUFJQYUFMLXFhVmNPSS1lNjFtbkZfUUVXd0xPbDlrcDNVRDRTSmlFeXlBQ2VnbHRrS2NzN3otejRjQXlLOV8tdlhQQmpxYURocEJvSGQ1c1NTRmN3Z9IBpgFBVV95cUxQczQtWWJWV05kcnV2Mlg0ckYwWkpnbjdWZ0hwTU51bUZZcjZJUGZtVzdoRjlkQUZLaHZHMGVzQ3RuQ3o4MFgyNFNYU1hNSHNNUXZKcTg0MFlZbWdvOEcxS2dCdlc1Tl80djk1M0hPZUtMUDRsNFFlRDNvOUs4QlJiQ2pWdXhDRnp4WHVSalB1VjRHak9zdjNBYW9QVnZwc0lHWm5VS25B?oc=5"
-      },
-      {
-        "title": "Tragedia na Trasie Łazienkowskiej. Łukasz Żak przyznał się do części zarzutów - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjc3OFVfVkhCaXVvcG9nMm1SMDFUelgtQXV2ZXZTTVBVbEFlTlhDc3VMVVk4b21mcjdlY2hDOVp3VWo5YVliNFRIbEJFblR0Z0VqenRGd1NOTFN4YUdaaVMxUmNxZGtDa1hnNHdNbEI2WVF2aGpqWFFTVFM3VGhqUWE5NnZ6b1dibWhRejlpWU5HMS10ZzNXeURXMWRsaXY3UEpnaGx2VGFWU1dTNGxNWm5zejJ0Q1E?oc=5"
-      },
-      {
-        "title": "Polak oburzony organizacją ewakuacji z Izraela. \"Ktoś tu kłamie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzQwWXVJcnMxdkZhVzRDRnFnM3o3WF9CV3hIOXVLMGJ5aUFvZHNhZ2dhWF9XT0NRVF9kUGxmTDBvNlJsWTM4b1A4MjFwQ3pMV001bUZ5VlAydWs0Zy1MZmZDenBtWjlEeGdLOERTRWxCTDRRTVZfM21hU3UwcnNyMmFURVhManoxQy05UGRYLXdwU25HcEJBVDRKV3VaTHlDWXZJV290cDY1RFFBTnc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-17 20:19:55",
     "weather": {
       "Warsaw": "brak danych",
@@ -2642,6 +2589,59 @@
       {
         "title": "Ewakuacja z Izraela. 65 Polaków wróciło do kraju - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbjVYMUVySE1OYVdlWFpBY1VxX0dTRmYxR2pFS3lQU0w1MGVMT1duSVdFNVdrRnZmRjhVcFV6U1F6cmJkcHB2TkNLTVlfbm8wSUR6ZkRvUk96djg1RXRyaEtORnBzSGtWazZPb2dHY1FIT2pEVDkyZXNoMjRRcnpYS0wwUWVCV1dkdm1LSVVMX3lJZFRaS3RNeEkzSGN6NXBQbkFPTEZreElYelJBVXplTk1lOWVwSk53RDdPa2NDQnQ0ZHJxWHl3b2Rtc3JwX1JSZjJ1d0k5OWE?oc=5"
+      },
+      {
+        "title": "We wsi zawrzało. Sołtys zadrwił z wyborców jednego z kandydatów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFBmYjlRUWdXZ2dVS0huTFF3NnR3X1pjNTVPRWxjQjJHN3l5VFpRN2t5bDNPN1BSUE5VZnVTOENVb3JGZmZIYmFLaWc3MDN1SFNPbmRMWnB4dEN1MTh1WDV4M2FmYVRvQnM4TGpnMDBRcmFyZE5wcW5hMDlDSzY1Q2x3RUpfT0kzQTBLTHZNaEJ3dEZCemhPLVBMRUpQaEJDUzV1Rl9FWHM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-20 01:13:40",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 388723,
+      "DOGECOIN": 0.635164,
+      "ETHEREUM": 9380.16,
+      "LITECOIN": 316.12,
+      "RIPPLE": 8.04
+    },
+    "indices": {
+      "^WIG20": 2723.15,
+      "^WIG30": 3534.28,
+      "^WIG": 3534.28,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "USA włączą się w wojnę z Iranem? Biały Dom przekazał, kiedy Trump ogłosi decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2JTN0FkU0pyOWFPeE8yT0w0MGpvVEI4UUdPcmdnTDh3aVktblZxTU56bTBscklIUThtNi1YZm1iNmxHVmFDVlJpNnRGa2VuczhWQ2pTeUtBLUY0cDJPaFZ2RU1RN3Y5TEZxcFl6UXhlWEFVbkFyZlF3OUJ1c3Fhb0NvdDBBakdvQkkwNXhlMmFwdlNfTC1BMjcwQUZwcVJVeHgwWlZHX0dKRVN3dlJwckY3Y1l2SnZCYlMyZVdKTkNMc19JNl9kcFduWmViQQ?oc=5"
+      },
+      {
+        "title": "Korea Północna reaguje po ataku na Iran. Tak nazywają Izrael. \"Niewybaczalne\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW15SFNrZHJHMmJwclJmclB6SHJEdld4N0NkUUxhSERxNFFGNXkzekxvQm1tdVNpM0JpdWhPWERvQTRLMmZiSzdweFFKTzRGSnl0a3FVN0VEbDZ4cTNGcm0zelhPbXBVSVJaNjZwS20zQkJQVkZYUHlYajhBSjU5RWxWY1Q2T05zdXloVVBGZnEwRWRSclZSTE8tNUhDRFpiemhfWnQzNjNVcWIxZHZYMGFJVjdUcUU?oc=5"
+      },
+      {
+        "title": "Prof. Matczak zapytany o ponowne liczenie głosów. Padła błyskawiczna odpowiedź - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmtDTW1lMmQxdzVzVl83ZDFHM29tV1VzVk5KUDVpenNuWWVjQXE4SDdfM2tjQzlXUkozVWpiU2c2d0c0N2hBeW9qSUczdGZnbmZzX0w3aVY0dVlOTW9lNFhKQjdUUTlUSHppY2Y0MGdIbEMyWWljOU9oaTZEYWFBbG1kY0JCUWxhSTB6cExqZzYybGhjTW4wQV9PSVJ4NXZVZk5GeEdIN1FYeW8?oc=5"
+      },
+      {
+        "title": "Ewakuacja z Izraela. Kolejni Polacy wrócili do kraju - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk5pNUpRZWg4Nkg5N3NFeG5VM01UandPbUFrVFN5WmYzekRSVkxlU1ViajY2WmVxbmdMNlhFc1RoUXRMZ1ZFRGF3YkhSNV9OMEY4c1BGYTlIYmlVNzVyeFFzS2R0T1lVZ2dFc0F3eFl0b2hUZmNDdVFIMi05cWtsSm9EMkJyZ1duSFI0MExEWXVEb1dNU1pXcXdtS1ZjWUpwRGZRSkNTc2FQeWNybmQtMTlWTXI?oc=5"
       },
       {
         "title": "We wsi zawrzało. Sołtys zadrwił z wyborców jednego z kandydatów - WP Wiadomości",
