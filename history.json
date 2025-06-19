@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-16 23:13:19",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6804,
-      "EUR": 4.2612,
-      "GBP": 4.9976,
-      "CHF": 4.5317,
-      "JPY": 0.025511,
-      "AUD": 2.3969,
-      "CAD": 2.7117,
-      "CNY": 0.5126
-    },
-    "crypto": {
-      "BITCOIN": 401175,
-      "DOGECOIN": 0.663135,
-      "ETHEREUM": 9827.73,
-      "LITECOIN": 327.45,
-      "RIPPLE": 8.57
-    },
-    "indices": {
-      "^WIG20": 2715.12,
-      "^WIG30": 3515.6,
-      "^WIG": 3515.6,
-      "^NCINDEX": 246.25
-    },
-    "news": [
-      {
-        "title": "Kolejna tragedia w słowackich Tatrach. Nie żyje 76-letnia turystka z Polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS2pJNDBMMTNXLWViT0tRV2l1ZnJ5bFRjV2NxOGlvSWVlNkZjSnVOeG1pbF9ZaFZHdHplVURVQTJ5VmVHcDRVd1lfcV9idGVIVEJNRUV6SjFRREFoSDJRd3BwTmxkQ094aWl3SWE0T2JlS0M5R0RtbFdpWmp1NV95MEhhMGVST0ZlNFBPeTFzQ0xWbm9IaFA2VE1UZHlhRmtPM29LNVhiVFNQdzM0ajBIY1N2N2xVdnB3Rnl0NEhiVTlGY1RHYVZiS21BRDZQQQ?oc=5"
-      },
-      {
-        "title": "Co grozi członkowi komisji wyborczej za błąd w liczeniu głosów? Nawet 10 lat więzienia - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUMzVXpiTGY3bTAtWWF0SzFNcUdNektkSVdiX2ZWVUtrM2ZETmUzb1U5emU4Z3NINkNtTXZocjBLMUdTRFNZUzhmeGVBSC1pTTkyaHIxaU9pTnVkQ2o3SlBDbUQxSV9TbVNMZElBdldKVTg3UGpiNkdzUldidE05WmNQU0pYM0lha0E?oc=5"
-      },
-      {
-        "title": "Izrael ogłasza pełną kontrolę powietrzną nad Teheranem. Netanyahu: To zmienia całą kampanię - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjJkaWV0bEJMU29jSmNtblJUczBTbVlfdFlIdy1kZlNxZnFSdmpib2RhT0o1N0VBWWt5ck1uZm1kZGYxMV9GX0dXR3FjcFNNWG5YVS03VWFEU0d3dHB1MEhWa3J2N0tDVDBFMVZ0NzQ0NzUwRDVJOXd0b2lyUk4yRmliaW45YmlBXzA0cmZETndEVVVoTnoxMEpjQVpGOHNPZUVZbW9QYUFpeTlpT21XVnVhbUc2WkU?oc=5"
-      },
-      {
-        "title": "Prof. Jacek Czaputowicz w programie \"Gość Wydarzeń\" [OGLĄDAJ] - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEJUN0xSbVRma0NhR25JeENDX05Tc3hkeFQxSW1vSmpkRzkxZG5iMnZSSWNNWk55aXNIU1gtQlBBTHpZeEd2aUVQZUFQMTZhRGlnWnhJSnhoWkdMQ1dyZkd5VDIzSmoyZE5UX2FBV21EZk9FYkJSVVhpT3pyc0kzbjQ4NTFnQV9ZTGcxcG5pWEFEZW1iNkhFdnQ1SkxWN0JFblMwcXpHb2s1YW04VUVBWk9n?oc=5"
-      },
-      {
-        "title": "Nowy wiceminister w MSZ. Radosław Sikorski potwierdza - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1FwX1dfZmQzT245T0dlZjlRcXVKTjVobEJCaS1rX0dTMnczOFdqcVBMNGNhQmlzUTZnZnBpS2lRZjNEYWgxV0pETENBRlBMVFBZMlRPTnJOdnNwUzZqbVlGcGkzeGE0SVd4ZjRNTU1XYVg2WmlNVGRrZUhxOF9feVVQMW5mSVBQalhNVmIwel9Wai11RjNV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-17 00:13:29",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tłum polityków PiS na Wawelu. Nagle pojawiły się dzieci z prezentem dla Jarosława Kaczyńskiego - Fakt",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1J3eTNHUnJXcTAtS25WLWJDNnJHZnRuUlNQVXNfcXg2N0tyRm8yUk5VdUVVUVJyeHpqR3I2NlZQMllZNlJQNmV2UWVfdVBFV3BWZHRpbi1TTjdYR3ZMWjV6Sm9NNmV2RTd5X1RoQm1kbHF1TXVURV80SXRSZmRWM3lTSnZVNVpnaHhZYVAyTW9FOWlyb050am9wUEhRM1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-19 07:14:07",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 392112,
+      "DOGECOIN": 0.63857,
+      "ETHEREUM": 9423.29,
+      "LITECOIN": 318.22,
+      "RIPPLE": 8.1
+    },
+    "indices": {
+      "^WIG20": 2723.15,
+      "^WIG30": 3534.28,
+      "^WIG": 3534.28,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "Iran i Izrael podnoszą stawki na stacjach. Olej napędowy drożeje najszybciej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm1FRU12d1FJRC0xRWRQd1R6Z0NJa21fR0x1YmdQTGR2OGFWbTYwU0NMRFFFd25DbHRUMUVQOFNyZ0xkZTRMQTY3YmNwbHY2T1dpQlRKZURHQld3LXh6Q2w5M0d2SGg3ZDVUYXJZNDFWRDFkS1NTRENhQm83NG5WakpUWjBCX3BLWnozbWJ4ZlI5WHJId2tDWmJVaHdBYThsUjdBc1hFZG5LTEY0QUtfcnJFQzY?oc=5"
+      },
+      {
+        "title": "Media: Trump zatwierdził plan ataku na Iran - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVZMR1o0Xzg1OF9ENVkzMlk2Ulk3dW9pX2RfZHhVeEUtUFZCTWRVRUJDZGxXeTN2LVJQbWJQZ2NiWElEZHZGUnFyWXZGdTVIbVNWY3hPcDNHQkVwb3hFdkEwbEhEVER5a2VqVjc0SHJ3UHhtajRKMWVvb0ZsTUJxRm9sRTJkekZCaGxiWnZn?oc=5"
+      },
+      {
+        "title": "Do Sądu Najwyższego spływają protesty wyborcze. Liczba jest spora - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2p2U1RGYk5BRUVQenJIWi1fNUtfZkJjSHg0SzdOai1QaHpYZU9OYXN4U2lTRWpZYlUyZ0Z2Y0xiVnBRNVB4RzN0Z2JtM0xtLWg2M1V4YXhTbVVSQmU3RnBkTjZISmE2bHFlNC1GVFFSLUN6UjYxVjJiMmtDWUhFRDZhWWptbzdGZ3ZwdXVfUlJkS0pRd2JRd21wSUx5bmw1cU1rTzlHaw?oc=5"
+      },
+      {
+        "title": "\"Konfrontacyjny styl\". Pierwsza prezes Sądu Najwyższego Małgorzata Manowska o wizycie Romana Giertycha - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2VfQVhBd2xqR0g1T3RFTlN2RnNQeTlZNFlWZTFfSnFpNmdXVTZrYVp3MjNrRWRNZnlpUWNEeUNtekxaanJwc19KZWZsOWQwbTNQZFhKNXZLelcwaXFRY29ldjRWTWhxQmpaSFEwSkxzVm5PUXVuMTFSdk14ZjNJUElVSE9pNkVpU0c0M1FUNWRVSHBrVUFZbHEwdnJTdndwWm02YXZBZDhwbFdNZXhEblB4RQ?oc=5"
+      },
+      {
+        "title": "Pożar w wieżowcu w Rzeszowie. Jest wielu rannych, w tym dzieci. \"Stał na parapecie, szukał ratunku\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaE5STEFNUkdkSm14NXpKS2JIenFkdGNnV3RmVmt3TGxJRDF0S3pjWkdwRVVpWVJSZGVnUVhrdEF6eFYweHJsUTQxZlNOTnY4WExyZXJYczdXRVFZSFN5OTc1ZzlrUkg5X1BFUkd0RXZnejBOQ2RYNmJhWTI5V3gyRVIwYlM1RmtfQU9SUFNCVzl5TEIxU2Y5QTRrX1l2bDFvZEpxVTJxTEc2anprZ2VVZHpzQXBmb3lKQ2ZfYzFJaw?oc=5"
       }
     ]
   }
