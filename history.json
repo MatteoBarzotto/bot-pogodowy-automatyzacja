@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-17 10:19:58",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6804,
-      "EUR": 4.2612,
-      "GBP": 4.9976,
-      "CHF": 4.5317,
-      "JPY": 0.025511,
-      "AUD": 2.3969,
-      "CAD": 2.7117,
-      "CNY": 0.5126
-    },
-    "crypto": {
-      "BITCOIN": 394744,
-      "DOGECOIN": 0.642269,
-      "ETHEREUM": 9549.09,
-      "LITECOIN": 319.15,
-      "RIPPLE": 8.25
-    },
-    "indices": {
-      "^WIG20": 2705.61,
-      "^WIG30": 3506.81,
-      "^WIG": 3506.81,
-      "^NCINDEX": 246.26
-    },
-    "news": [
-      {
-        "title": "Ewakuacja Teheranu? Trump wzywa do natychmiastowego opuszczenia miasta - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEd4WWd0c3ZIRTE3VmpIUWV3Um5LbXlYdkV3TmYtb1RJTXlzbUdBWldxazAtQ1hjMHo3Y01MZ3NOZGlOcm9XVDhmSXpMUHNYX3pqbWpZdTJtcVdZVDlkT19kN0NDeW1MZVV3UE1zNTZvU1BPZ0VYTEdycTVudGdidFYxN1FyVE1lSzV0SUFud2MxVGs?oc=5"
-      },
-      {
-        "title": "Tragiczna noc w Kijowie. Wielu zabitych w rosyjskich atakach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0JlN2xxQ25YQUZQM3pkVnhkbkhKLTVhNDh4WEl4aENRUURoa0lWNnNZdGNVbGdBSnJIejBmTnZrR2Z1dGdHcjVLOWxVX0hNS25wTGxuVEhqWDZQZ2pHaXk1R05wR0VURzhsN1pEOXR4SEY4Y1ZJUlEzb01xRnRmY1JCdHMxeHVWdTVVWUU4RElrTEFWVlgzd1hVb2FLTlliTERoWEhtdTltS3I2UE1RZDltVlNHM09VZ3N4c2tCNA?oc=5"
-      },
-      {
-        "title": "Giertych reaguje na \"taśmy Republiki\". Zaskakujący zwrot - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdzSkw0M3QwMHMxaElFenpKOWUwMVlaNnYwei16dmpHdUpOZ002dnlFWm9GXzRObGp4bzNhSUJuZWxFTjMtMjQ2OW0zSkdsLTVVMklXT2ZIZGR6VzNwSEFGUEFmVkRiVjdkNGdVeWlYaUpFNHR3Z0gtcnlaMVZjWDhwZ0lFTTJRRi1WVHJFQ25pcTVZWlE?oc=5"
-      },
-      {
-        "title": "Prorektor łódzkiej uczelni zatrzymana przez CBA. Chodzi o wystawianie fikcyjnych dokumentów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORTIwNXZuMWJoYlZTV3UxYXhKam9pbHNpTmUtaHh1c0RpSG5TT2xJSGpRYmhMOWcxVkpTZmJtVk04dFlyX0htOXhLZkRBQVVQUVEzUnU4V1VqdUVld3FpdlNjTVF1bk5iLXdYSjJ6dVBWa2RuQVdCLXNlSWprcHo2MXhNdkczNVVpSkZhMkFnVHl4ZjNob0d3bUd6XzU4d0VjVGtqYUczR1pJbmxaeHlmWjYzeHlXQVhqX0x3TDVjZXZWV3FCY29fZEl4RDQ3V3gwZGc?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie. Komitet Rafała Trzaskowskiego złożył protest - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWg1Ym8wZTZPUHFNVmtwUlNaMHhXbkdDdGRHSzBWdUppa1dBclpmOXg5eWVTcG9NcjRWdmlXRTMydjdBWHJmZEZBZWo5dExWXzhvV3VOd0I3cUlwa2YwcUs5QXdkZEx3dTNWVTRCcHJ2clFWVElPc0lIZFBUTl9NcEg4YjE0bVFRNlZrcGdKWmdDYjdveDZJaGNJdzBHT0dWWTFBRF8tQlgzWUxBMXZla3lDQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-17 11:16:13",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Merz mówi o \"brudnej robocie\" Izraela. Burza po jego słowach - Onet",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmhqOXdoVjVHOGhVOEUyQ05UYl85SFJkeWMxRlhVQTc0WUxDQ3RGa1UzN2hjbjlzbjVWMVVRbUg4Yi1lZldtc3U5TGRBRjhHT2FDWFhCVFQ4OF9PNjNTWm9lZlUyVXJHeVFyaWVZY3diM2MzMEtwd0RSZTMyam1lR05sM1pWQ25USzFKWnNoSjNjbTYwc25BVE5KZmlLV09uRF9Gc0RWZFpPdlI1dTgtVWU0ZEFpRzZzaU9zUg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-19 16:13:28",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 388964,
+      "DOGECOIN": 0.628238,
+      "ETHEREUM": 9365.46,
+      "LITECOIN": 316.52,
+      "RIPPLE": 8.02
+    },
+    "indices": {
+      "^WIG20": 2723.15,
+      "^WIG30": 3534.28,
+      "^WIG": 3534.28,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "Korea Północna reaguje po ataku na Iran. Tak nazywają Izrael. \"Niewybaczalne\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW15SFNrZHJHMmJwclJmclB6SHJEdld4N0NkUUxhSERxNFFGNXkzekxvQm1tdVNpM0JpdWhPWERvQTRLMmZiSzdweFFKTzRGSnl0a3FVN0VEbDZ4cTNGcm0zelhPbXBVSVJaNjZwS20zQkJQVkZYUHlYajhBSjU5RWxWY1Q2T05zdXloVVBGZnEwRWRSclZSTE8tNUhDRFpiemhfWnQzNjNVcWIxZHZYMGFJVjdUcUU?oc=5"
+      },
+      {
+        "title": "Anomalie wyborcze w 1482 komisjach. Ryszard Kalisz przyniósł do TVN24 dokumenty - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZDZTZ3QwU0ZHMHVKbUNTakg4elpXcGFrV0Q5ODNJWXV2TUZCSnRldVNGSDJ0NWVBZlJ6TTFqREhEOXpQYjd1djRfNVo0UENwYXpSSkZ2WG5kdy12Z0ZNOVJTS1prcWNuVEVEMzFiZHlhLTBzRE5rbWZiR3MwZTduZ3FleTRRcy0xTXp0TXpCNkJUX2xZNVZ0NDAyWWRFaDZiMktMdDVibzdvMGVNRVduX2x1S0RNbFVwSV9ncmdfcw?oc=5"
+      },
+      {
+        "title": "Merz mówi o \"brudnej robocie\" Izraela. Burza po jego słowach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmhqOXdoVjVHOGhVOEUyQ05UYl85SFJkeWMxRlhVQTc0WUxDQ3RGa1UzN2hjbjlzbjVWMVVRbUg4Yi1lZldtc3U5TGRBRjhHT2FDWFhCVFQ4OF9PNjNTWm9lZlUyVXJHeVFyaWVZY3diM2MzMEtwd0RSZTMyam1lR05sM1pWQ25USzFKWnNoSjNjbTYwc25BVE5KZmlLV09uRF9Gc0RWZFpPdlI1dTgtVWU0ZEFpRzZzaU9zUg?oc=5"
+      },
+      {
+        "title": "Uciekała z Iranu i musiała sama kupić bilet. Rzecznik MSZ tłumaczy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXF2YXIzNU42aC1ZVXFLblgxSTR3T1FCa1pGOTF6MDJfN19tS3VKQnJpbFJKaDJqYTF1bTQyZ1FXYnZYS2NYTjEtN29jTmdQenAtTTFsOHh2SVNmcUoxeHpYbEdzcHEzUGFEUjFIR18wVWttal8tVTF0RFNpTEdrTW1kazVrbzVyUFgwUXVYSWUxWFJQVHl3aHNVa2wyUHFtU2pyRnlwczRsM2JRSjhtSlpxak92YTU1ZUF4VXZfU2pqNlk?oc=5"
+      },
+      {
+        "title": "Wprowadzili zakaz jazdy na całe Boże Ciało. Policja i ITD już wlepiają mandaty. Do 500 zł - Auto Świat",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGgybU9UaExxb3JRdHAweFUxc2tMcHpwbGVhalhpMWZ0MFJrVUpBQmNJbXZuNUF6emtDbjhyUFRrTi13YmU5bzFmLUppOU1XRlZqWFlMS3dQdFNrMHNTZ2hlWE11TlNvbVhabk1oOFVCNUdlS0lGQ3ZCM21SdGZ1S1hzSFQ0VXdHcFVWYzdkZm1JcExzNmExeEJ6WnZ2SXBZOEsxeXRPUUI0Y2ZETUJpcTBSVlJ6azhEYlc2RURQSmFoZ1drRWx1VkFkYw?oc=5"
       }
     ]
   }
