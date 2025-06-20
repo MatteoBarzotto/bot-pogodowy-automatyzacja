@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-17 23:13:29",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7005,
-      "EUR": 4.275,
-      "GBP": 5.0138,
-      "CHF": 4.5527,
-      "JPY": 0.025539,
-      "AUD": 2.4179,
-      "CAD": 2.7274,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 388407,
-      "DOGECOIN": 0.629686,
-      "ETHEREUM": 9336.35,
-      "LITECOIN": 313.79,
-      "RIPPLE": 8.06
-    },
-    "indices": {
-      "^WIG20": 2729.31,
-      "^WIG30": 3537.96,
-      "^WIG": 3537.96,
-      "^NCINDEX": 247.8
-    },
-    "news": [
-      {
-        "title": "Koniec Trzeciej Drogi - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tcm9SQ2g4VmV3aGJUZ1ZNWUM5VXh3bGFYQUdOYWtwZFlsM2s0c3VOUnR2V3p5QXc0TUttNkZwbmgwY3Y0RjNnQ2VLbFdWRE0tUkNMZE1aMm5qU1hyZGNSQzNTMF9Tdw?oc=5"
-      },
-      {
-        "title": "Donald Trump o Iranie i Izraelu. \"Prawdziwe zakończenie\" zamiast zawieszenia broni - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0JoN3FhdkF0c0J3U0lyTlpYX1ZBclJQbjdoSmNKNnJqX284YUc5ZlVUbFdfSVFkcDdVYmJvcGFRMUpJaTJmRmJyZnlIenpyS2xfd29HdGlQMGFSVDV0bE1LUG5aTm5KWDd6aGlWY2djQkMzdk4xSzNEei1BU2dZNzRaazBhR25sdk9ENDBPZGRYMlMtZzFHR1VoWmpzZW80MEcxT2tZWVM5UFM3dFdWeV9n?oc=5"
-      },
-      {
-        "title": "\"Nie mogą pogodzić się z porażką\". Czarnek o proteście wyborczym komitetu Trzaskowskiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVktnT1NMR1FPVVNvZ3Zrdk9fR2ttelJUWGhrM1JqYXNWUnFJbVNiWVdKYWV2bHdESEwyVzBTZzlid2ZzTlJCZm1kWFcwWmY4R25aUmZLMk1ORDNDbVpIc2IxVVVlV0FSUm5nSzRlNnZ3NHFpRHZ5NTZjQ2t0NzVscnVRb3c3ektaeW1ldEhUV0kzME9HeF9Hb2Y5ODJPZk00OXJKTGtfaGhKZms?oc=5"
-      },
-      {
-        "title": "Nawet w PiS kpią z Republiki. Wpadka z \"taśmą\" mogła pomóc Giertychowi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHItSU4tbkZzcDllY2x0QVRXdXA4d2VaZ1Z4TDdKVkkySlJib2R4d09JVzZJVWRqQmFFSGc5dnRQb0ZiTnJ4YnZEbUJscnFfREFjcmZ1RVFHb0p4ZVFzZ0pEcm5lTXZ4LV9ibnl6YVVUcXpTOVhjWUFKTUV2U0xSSk8yNmdJaDc3clNaX2VObldaQVFYeTQ0eld1UlB6ZkxON00wNnNSNFYwRmNLd0hF?oc=5"
-      },
-      {
-        "title": "Prezydent zwołuje Radę Bezpieczeństwa Narodowego. Karol Nawrocki z zaproszeniem - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0dTZjI4SEU4YzdZNmxoNDYtcm1SaHNvQldfOC1lWkdQZjNZYVpSNmljVEJINjNSMzJsQWF2TXAxX3VldjJfN29KOWRDM3gxLU9BMGpubFdMUlR1V2xzamlmSkUxVWp4cFg1cVFTdjI3cXY2NXdOUmd4X3hZZ1dOYmhzNDlXNy1YMkJHdkxIVXNJSVU2VDc1ckJTZVVMdnRYM2FUUThfUmVSU3FvR193aWFUcw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-18 00:13:13",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pożar bloku w Sosnowcu. Trwa akcja strażaków - Onet",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGV0X2RoNnpGVFdXWGxPMUNfOHB5NFhaa01sYkwyUXg1dlQ2aDU4OHZPQ0pIVjBneklCaE1lUGdXVW9jb3N5TERQX1haOENDT2R6Z1Q0MGh2QkdTZWdzbnFtX3ViejdINXdxTG1CYy1yM0k0WTdqRU5oYVE3MWViQXhDeFJCQTVoWTJic1ZXSDB5aXktY3FCOTdza3BDNFd3WFUyQkdPbER4QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-20 07:14:59",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 387025,
+      "DOGECOIN": 0.621907,
+      "ETHEREUM": 9301.12,
+      "LITECOIN": 313.2,
+      "RIPPLE": 7.96
+    },
+    "indices": {
+      "^WIG20": 2723.15,
+      "^WIG30": 3534.28,
+      "^WIG": 3534.28,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "USA włączą się w wojnę z Iranem? Biały Dom przekazał, kiedy Trump ogłosi decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2JTN0FkU0pyOWFPeE8yT0w0MGpvVEI4UUdPcmdnTDh3aVktblZxTU56bTBscklIUThtNi1YZm1iNmxHVmFDVlJpNnRGa2VuczhWQ2pTeUtBLUY0cDJPaFZ2RU1RN3Y5TEZxcFl6UXhlWEFVbkFyZlF3OUJ1c3Fhb0NvdDBBakdvQkkwNXhlMmFwdlNfTC1BMjcwQUZwcVJVeHgwWlZHX0dKRVN3dlJwckY3Y1l2SnZCYlMyZVdKTkNMc19JNl9kcFduWmViQQ?oc=5"
+      },
+      {
+        "title": "Izrael konta Iran. Władimir Putin i Xi Jinping reagują - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmxJekJZaWdTZXBqSEFnRHRzd1E4M050d29rYXhiS0NTYnNCVGEwczU0cHIyc2IzVndKcnk2WmZkR1VlbjI4czMzemVOYWE5OGc3X1dOUVZMOC1MT090Yk9XREJBVEZDQkI0cnR1SThUREluLU93TDIxSUh1bWp4bk02dWo3MGNMYldFTzlPel9Vem1zWWE0VTVMalFYMUNmZmtNekNyMTAxdmNUT3ZXOWNISGlRa0k?oc=5"
+      },
+      {
+        "title": "Ewakuacja z Izraela. 65 Polaków bezpiecznie wróciło do kraju - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbjVYMUVySE1OYVdlWFpBY1VxX0dTRmYxR2pFS3lQU0w1MGVMT1duSVdFNVdrRnZmRjhVcFV6U1F6cmJkcHB2TkNLTVlfbm8wSUR6ZkRvUk96djg1RXRyaEtORnBzSGtWazZPb2dHY1FIT2pEVDkyZXNoMjRRcnpYS0wwUWVCV1dkdm1LSVVMX3lJZFRaS3RNeEkzSGN6NXBQbkFPTEZreElYelJBVXplTk1lOWVwSk53RDdPa2NDQnQ0ZHJxWHl3b2Rtc3JwX1JSZjJ1d0k5OWE?oc=5"
+      },
+      {
+        "title": "Prof. Matczak zapytany o ponowne liczenie głosów. Padła błyskawiczna odpowiedź - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmtDTW1lMmQxdzVzVl83ZDFHM29tV1VzVk5KUDVpenNuWWVjQXE4SDdfM2tjQzlXUkozVWpiU2c2d0c0N2hBeW9qSUczdGZnbmZzX0w3aVY0dVlOTW9lNFhKQjdUUTlUSHppY2Y0MGdIbEMyWWljOU9oaTZEYWFBbG1kY0JCUWxhSTB6cExqZzYybGhjTW4wQV9PSVJ4NXZVZk5GeEdIN1FYeW8?oc=5"
+      },
+      {
+        "title": "Boże Ciało: procesję w Kłokocinie zakończyła msza plenerowa na wodzie (zdjęcia) - Rybnik.com.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZW52QVpOOU14bUhvajlESC1kNFRIOERoa1V3STZkWXRsRTBsY1RRaUszUGFGNFFvaWIyUjl4WHNUenlrTGhnYnd4Qi10UTZONVdKaTltMmp5Zk9FbzJRODNzR3REcVd4S2ZMNWhjQ01RN2FrUDhfNUxxVFBYOTZkUUJRY256QmplOWdxZnY0MUFPVTQ5WGFscURfZUJKajAyZ2E3UWhva2lsMTF0R0h5TDExZXdSYXNqRXhwWjR2T2ZieFRNVEJ3SVNUMA?oc=5"
       }
     ]
   }
