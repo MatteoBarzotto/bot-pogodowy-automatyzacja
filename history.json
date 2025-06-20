@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-18 01:13:08",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7005,
-      "EUR": 4.275,
-      "GBP": 5.0138,
-      "CHF": 4.5527,
-      "JPY": 0.025539,
-      "AUD": 2.4179,
-      "CAD": 2.7274,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 388896,
-      "DOGECOIN": 0.629956,
-      "ETHEREUM": 9325.23,
-      "LITECOIN": 313.12,
-      "RIPPLE": 8.02
-    },
-    "indices": {
-      "^WIG20": 2729.31,
-      "^WIG30": 3537.96,
-      "^WIG": 3537.96,
-      "^NCINDEX": 247.8
-    },
-    "news": [
-      {
-        "title": "Trump rozważa atak na Iran: \"Mamy pełną kontrolę nad niebem\" - Defence24.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEJjb0FLNXNnc3JIS0pOYlR1Zk5MSlVpYnpSbnFpa3JYdzVKZmw1ZDJqTkd2WVViZVZmd3F0V1ItLU9hQ1RDSVY5QUl6bmtjb2xCMWlMam9ZbzZNUXJPc3Q1aUhOYkFWRjVPUXNFUmZ3SDZqampraDFnd1Q1MFoyWDR2Z0lpVGp6Zlc2b1lCQkRpaFZhUHozcTZyaw?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia potwierdza. Trzecia Droga przestaje istnieć. Koniec współpracy Polski 2050 z PSL - Interia",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUJrMTZJenl4dXVCRUVCcGNVWFgzM3hpSnkwc19Kei1vellMUFZFalEzTjB3RGp5S1hZcUxaU3NDQ2pBQ2JtU05yMm5kaGxCQ2NheVBCU1hVNFVCbTIwcUdPV29wWkY1SmNHNDVlT0x4Zng2YnNMWXlNMGFnYWhJUzdoQ2VmMHhxaFpCWWtFUDdwUVQyN2Q0UXQwcWNwdHl3RkxPVDM2UEFreUk4VVh3?oc=5"
-      },
-      {
-        "title": "Cała Polska śmieje się z taśm TV Republiki. Jednak ujawnienie rozmów Giertycha to przestępstwo - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYkhrbzFjS3JsOVdXZ2tobGRKdWpuamp3aTUwNUp4RmFIN3RZZl9oYTMwbEdHT1I0RkUtTXJsOTNBU3NmN3NDcGhVMkZ4TTJBMXhZNEprRkdjNlR3ZllJWnFRYlQ?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki weźmie udział w posiedzeniu RBN - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdlNiaXhTbDZlbDlBRTdGc2xSSlpxcmx3cEpKaDFoTjBKbjhfcHpwRGsyS1lGWVVsVS03bE5HNG43Y0RMdEI0NHV6Z2gzdUMyNlVlaVpiemZFRnZUU2t3djFDcURzUUE0S21fQmZPdW5RT3c3aUxNQ1RHX3R6QzUzSllJdzFtNmg5dHJITE9qSVpzcG9Ha2JTdEVn?oc=5"
-      },
-      {
-        "title": "Tragedia na Trasie Łazienkowskiej. Łukasz Żak przyznał się do części zarzutów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWlZY3FYbktOWEVuU252YUd6d1NDZmNLU2tWRTBQanN4TjMyZHpYZmRpeGZCZXNob0tJOE4tS21NdVhnVGFyY0c4R1dJVUJfZGp1a3BXYWFmT2RobUZ0LVh1Rm1yUjVmMGZ0YXJoOVhaZ3hPeTNrUnlMbnI3U3ZtYkx0MU5IMVNxTEp5TU55WnBoMzFuc3Zlcm5DSER3M1ZvRVhoSU5Va2dER0QwQ2lTVlpOVmxaZVl6S2tZc3NvOUthc293OGJzZjFZLU1CX1loMEo0MTFB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-18 03:09:26",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Lot Sławosza w kosmos z nową datą. Psycholog: chroniczny stres jest podstępny - Medonet",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU2lFUVBfVFhwd0xqZmVlaGZIQXNxT2p5Sm9DVTdpS3F4bnBIQ1k0MjZlclRqVzZUNGN5MnNsYjZmd2tsVzhhNkpkUUdsNVJTajRFS3FxODkySEJNdE9OLXp2NW4xbk1ObExLSGJYcEtua1lCbVhGWlBZR2pobU4xcV95ajIwTHpEQzFlSWFwRjhMcGxpYldKT0o0TzNQX0wySzdDeVB3V19NVk5LQWUwN2ZDRTQzblJiLU1TM0x0eDZpTnF3TUFrNzNxYmdFM1ZBekJlSENJZ1I?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-20 09:13:45",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 388626,
+      "DOGECOIN": 0.623114,
+      "ETHEREUM": 9359.9,
+      "LITECOIN": 313.74,
+      "RIPPLE": 7.95
+    },
+    "indices": {
+      "^WIG20": 2721.0,
+      "^WIG30": 3531.51,
+      "^WIG": 3531.51,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "Konflikt Izrael-Iran. Putin nie pomoże reżimowi w Teheranie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaS0zdXVTMmhDWjF5VURsRW5nSmV3cDhQakZtb3ZKeklKRzdjQ1lJbEJmRE16VXFXTDRrUmhBZDB4clVtQ3hyTEdocFdEYjMyYmNsZEI4eTd4LTNuLXVrWFlUdWlfOFdMNlcyNU9acWRZSHNLWVJJcVA4cUFhemtZZUw1RmNVVHI1S1A3ZDBkTFBfMWtnd3Z3Vm9WY3J1TnFGTFE1a1BqNEZ6OEZyM2pBOUY2R09YMEN6Y0dzQXBn?oc=5"
+      },
+      {
+        "title": "USA włączą się w wojnę z Iranem? Biały Dom przekazał, kiedy Trump ogłosi decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2JTN0FkU0pyOWFPeE8yT0w0MGpvVEI4UUdPcmdnTDh3aVktblZxTU56bTBscklIUThtNi1YZm1iNmxHVmFDVlJpNnRGa2VuczhWQ2pTeUtBLUY0cDJPaFZ2RU1RN3Y5TEZxcFl6UXhlWEFVbkFyZlF3OUJ1c3Fhb0NvdDBBakdvQkkwNXhlMmFwdlNfTC1BMjcwQUZwcVJVeHgwWlZHX0dKRVN3dlJwckY3Y1l2SnZCYlMyZVdKTkNMc19JNl9kcFduWmViQQ?oc=5"
+      },
+      {
+        "title": "Pamiętacie rodzinę pięcioraczków z Horyńca? Mama dzieci ciężko choruje. \"Test pozytywny\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXZRd1JOMFR3Uy1haUZaZ2JjT1ZJZEVqemk3QllYM0pOU0FRaDNxZ2JYY3ZzVnh0LUF4UkpRb1RQZFBJaE5HT0tpX1BySHRzYVZQZDB0RGxZNTRYNDlleUp0bEJlSzhWQW01U19WZ3BLOXMwbzh1WUd1OGpHSVRPRnpKbWlTT29zbl9qY0IyMU1uYXRDeUtkajJnRllUaU91UjI3bTg0RHFyOUp6cDE3bUNwT21fbkQ4dmc?oc=5"
+      },
+      {
+        "title": "Piątkowy przegląd mediów: Zapad-2025 preludium przed uderzeniem na Litwę? - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGxMWTVGNWtBR3lJRkd2Y211cEl2OWVLam54bWFpTDQtYm1CMGFFTk5yLUFuRXhSN0QwM2tLbXI2amF3MlZnSjZacVpjbW1lT3FCcVc2aEwyd1gyb3pDOE95RzRROU44QlpLeVF6VmxraS1IZ01ScWoyZWRNY1cwUTRtWl9Ydl9PQlFsSFVZbHNObVlpZFJHNU0yc2cxUmNHdGctQ1pxaUxUSTg3NUE?oc=5"
+      },
+      {
+        "title": "Fundusz Sprawiedliwości nie działa, bo \"rozlicza\" PiS. Na pomoc gwałconym dzieciom zbierają w internecie i na weselu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ3FhU09mbzRLMG9uOS1kSXkxeGNnNDhLX1R6aEN0dU1MMzJ2T3F0ZnNaSG9zcUxyV1NlZ3BXRXRZLUJncXlVLVVVeXVXZ1JzZ0RTUHd1XzZ3M1MtZ0ZBRno0MkNYUVJtMmZsSGJJUEE5OXU0M3RvVHJGYXRYQWJqQkg4U3pyblUtQWwwRjF4eFNhQUdmaHdIUVl6SUNOTm95WUpkSEc2SVN1SndnQlVWU3ZsVHFNSFZxN1VxaVdFZElId2p6Vjk5ZGFXNlZ6dEFZbzhTQUtRYWs5Uk5hcHBuRVBKQjREajlzUzg0?oc=5"
       }
     ]
   }
