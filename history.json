@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-18 19:14:20",
-    "weather": {
-      "Warsaw": "Warsaw: +27°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7137,
-      "EUR": 4.2717,
-      "GBP": 4.9964,
-      "CHF": 4.5446,
-      "JPY": 0.025617,
-      "AUD": 2.4132,
-      "CAD": 2.7175,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 387464,
-      "DOGECOIN": 0.620008,
-      "ETHEREUM": 9265.61,
-      "LITECOIN": 313.75,
-      "RIPPLE": 7.96
-    },
-    "indices": {
-      "^WIG20": 2723.15,
-      "^WIG30": 3534.28,
-      "^WIG": 3534.28,
-      "^NCINDEX": 246.65
-    },
-    "news": [
-      {
-        "title": "Prokuratura Krajowa bada nieprawidłowości przy liczeniu głosów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlRPZjctdVRKbVgyc1Z1ZG9OdFU0eGd3d25VamYwazV1Mk13VzhzaWp4dnJ1U2ZWLWdrSXFRQmZzWlpPMVZ5Mlp2X3pELVMzQmlHd3VrSGhOZFUzRjFpM09BRmhvTXJyejBrbGQtMHBhd1R6RU5TUnJBLUNGS0thaTd1VWhjNFBTQlo2LWFnTG1GanlENWUyUHZaYXdHVnVXUXVKWWstRl9ReEdFNXc?oc=5"
-      },
-      {
-        "title": "Masywna bomba Trumpa ma zniszczyć bunkry mullahów. \"Matka wszystkich bomb\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODZWV0pnNnpBRXhxZURRNDlmM3JpOEE1R1NNWHVlMVdqZUNJZE5WWXZBVUk5dV9hWG5TLV9qZWhFNy1jRG5fY1hvdGhDUmtWaXZST1RJS2hHc3BETHloZmVZaW1USmUyYk1nVEZTdmRibGR4MmhzdDlfTzhZUFR0cUFJbjNBTFUxNy12UmU1ZVBzcG9QVWNTR0lRTElvczJfOFhn?oc=5"
-      },
-      {
-        "title": "Upadek reżimu w Iranie może zmienić cenę ropy naftowej. I nie tylko - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1V2RUVCRURFT0pETHdsMmhic1E4Q1JPVFJETjFwaldWRDBHdVMxbV8yMGx2UVJJZFVMOWhXWHVfQ1lMNi1OYzJfWTBrMWpuOGo5ZktJUUJ4Q296LVZuWmVVY19NaHhsZHpjRGFpWHhKRVZiMjdjT29laVEyN05CaEQ4Nml5WU1PdERwSGV4Rkd3X1NQMzFnb1lxT1lLZi00b01ueVZtZEJtb09nZnZtTGJVeWhZcm5DWlBzTXVn?oc=5"
-      },
-      {
-        "title": "To koniec Trzeciej Drogi. Kosiniak-Kamysz i Hołownia zabrali głos - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTRQbnhqdW1xSDlnSTZtUGtneWVhYVRkNEZxZkZNN2d2RU9qTXJMc2pNTThPbExYaGhrcGdwRExHT2EwbjdYOUhMcG9XTV9peTdIdmFGWUROLTZlY3p1eTRGRnJEUm45SVFxTmVEYWp0TWVQUXBDbTlxTHFxc294SWQxV0RVM19jd0pWQ3Z0THZfYW01cUQ3VjRzS1NuSG8?oc=5"
-      },
-      {
-        "title": "W Pałacu Prezydenckim odbyło się posiedzenie RBN. Jak skomentował je premier Donald Tusk? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjBIR3ljcWNycXM4WnQ4b1cxYzJRaHpqMG42OU9nWklJbTlJdUVfY1VxZWdVWXVGeTlKdGx3U0xHN21TbXVBdlg0alBWT2F4Y1EyY01KaWtKWUNQUEppMDdwSkRvMGpJQ2Y3eEdOT3Q4RmRfUDdyZ3ZacGtuNjlTcXZyb3dMSVBnZ2NwaEk1Q0ZPbjhxYVBWRndJV2lsWUtOTE53QlEzWVVRVGFKZHNj?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-18 20:19:50",
     "weather": {
       "Warsaw": "Warsaw: +27°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wiadomo, kto będzie rzecznikiem rządu. Premier Tusk zabrał głos - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjhjUUdVdnpOQVA3MEQxSVN0RTJleEc2ZUh3TU9uYzFOSmI2bF9fTjUxVFJrLWxVU25SY0tDR0JtamhidDVKV29vT1VsU0o3Z3FKanVJaldVb2p4eVV0dXQ0Vml5WEpmUEpvWDZydmlmTmhGZjdpQ2dmQmZ3dHVTSlMxOFVfOTBwM3d6ODJ0T1lnYngyel9R?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-21 01:13:40",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7067,
+      "EUR": 4.2709,
+      "GBP": 5.0002,
+      "CHF": 4.5423,
+      "JPY": 0.025505,
+      "AUD": 2.4047,
+      "CAD": 2.7062,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 381977,
+      "DOGECOIN": 0.599265,
+      "ETHEREUM": 8866.48,
+      "LITECOIN": 306.3,
+      "RIPPLE": 7.83
+    },
+    "indices": {
+      "^WIG20": 2735.44,
+      "^WIG30": 3548.42,
+      "^WIG": 3548.42,
+      "^NCINDEX": 248.37
+    },
+    "news": [
+      {
+        "title": "\"Atak hybrydowy\" na SN. Mocne słowa sędziego ws. protestów wyborczych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXNldEhuVzlMVE5YMnQ1NTMwSWlKVVBSWi1WVC1vQTdrSDZCRlNiUHM3SFN4SUxjeW1iZnExOHJDVzNRa3hlNGtrTzJlZjJBcTdIOGRaeUVmdTZ5ZVNLUWRzSEhzbTdiYUE5aUZ6cEVuNmN0OWRLTUhDSHA3cVAzZ0NxNWJHNi05MUlWRkZ5LTNEX3I0NEhOZHVncHY3eTdUNUh2STk1Ymo4WkR1RVZHc2NXVnBJRExP?oc=5"
+      },
+      {
+        "title": "Izrael znalazł się w potrzasku. Wszystko w rękach Donalda Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWJMTkxOSzl0ZWVqNngwa1I0bzRObnZNV21IcXpRLVhSWGZLSzBIbnFObi04TkxONlQ4OXR1M0UxSGlVbC1vYzlfc1FhbzhOX1hMZ19kbTk0c3JZN0JYVmc5SGVHU2MzWDNmUmZWUjZNb2FoOGxYNkM5NE5wdEg0RTNGemlkVlFpWW9JZlNtaDhkY1dGaUVXdGUtUWlpZzZrMDJkb29lcUQ5Zjg?oc=5"
+      },
+      {
+        "title": "Według Putina Rosjanie i Ukraińcy to jeden naród. \"Cała Ukraina jest nasza\". To tylko jedna z kuriozalnych wypowiedzi - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcC1pTUVBbEwwdm1QMDZPSG9TMlZPckhmNjJueFhOSS05MkJIUUlTSlJqVGVnZFEzUjI0UUw1V2xoOWtXLTh2U3hTcjZlb3U1eGVhTmpzQW9PWk1JRUxmYUg0elY5cmdSSzNnUzJ2ZFBoTml6SEVxelpMZ3ZEbmRqUDBTR1BxWUY0aElud25fRWNfaF9OeTM3cFlSSFg2SXRKV0ZMWGZNNFFtNXBXZTRfNm5zckxmbWEySnc?oc=5"
+      },
+      {
+        "title": "Irański minister po spotkaniu w Genewie. \"Wyraził zaniepokojenie bezczynnością\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUkyeXRpOW1KdXFmV3hiWlR5TDRLUm9zOURkVHRDOWJKNDBLZ0ljaEh2cndiaHZsV3Z2Y1QxakRDbDVpSkdqMXc3eG5ZczV6bHdLbVU2aV9pUlZ0RU5URFl6N0pUX1Y3Y1RoajZndVY1Tkp0ZS1Dd0Nja2p1Qk9IbGdOeDFtdmlwY05OVndrSzFZa2M2MmlDWWhuNk9oZlF3OEx1Q0ZwYTRVU1h5dFJzblhzOGx1bmlVMlZfQ2FSREJNUQ?oc=5"
+      },
+      {
+        "title": "Śmierć Polaka we Włoszech. Spadł z klifu podczas wycieczki rowerowej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjUxaGctRFlsX0JydWRrSmNHaV9DRkpCLURianZGS2FyMEVtWWV0SFREWjlPV3lFTUgwUjhXVl8yNW9EaFpsNWtVckR3MTU4WkVLRlBPNWZpU1JEMnhEeEk0YVpaZ2lySmpRXzdVR0dRTkw1MVRPRTdVT1gyRzcwSXVLM21abVZOWjg3c2hiM3U1clktMlVCNjlFbE01NF9iMl90cmlLRTM?oc=5"
       }
     ]
   }
