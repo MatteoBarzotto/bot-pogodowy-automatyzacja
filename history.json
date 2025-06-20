@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-17 21:10:55",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7005,
-      "EUR": 4.275,
-      "GBP": 5.0138,
-      "CHF": 4.5527,
-      "JPY": 0.025539,
-      "AUD": 2.4179,
-      "CAD": 2.7274,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 389744,
-      "DOGECOIN": 0.630899,
-      "ETHEREUM": 9328.97,
-      "LITECOIN": 313.89,
-      "RIPPLE": 8.13
-    },
-    "indices": {
-      "^WIG20": 2729.31,
-      "^WIG30": 3537.96,
-      "^WIG": 3537.96,
-      "^NCINDEX": 247.8
-    },
-    "news": [
-      {
-        "title": "Donald Trump wzywa Iran do kapitulacji. \"Bezwarunkowo!\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1BON0JIMTNSUkdWVVM2bmY2MGpzYkc1YW9RdWN5cG82N0tPVzB4WE1wazJwcmR3cVp3R1B0WVdBNXNZc1I1ZThCOW8yOFZLYXA4WVNIRlU5TmFPa3YyOGVia1lDNWtnRzh2dUw4bWo2RVFXR3V6T2NuRElIRTBwTTdLbDFXa2ZOSk9UbEVDRmVjSmRzbDMwaDZWVWpaYzZBSTN4ajVpWEJjaGtY?oc=5"
-      },
-      {
-        "title": "Cała Polska śmieje się z taśm TV Republiki. Jednak ujawnienie rozmów Giertycha to przestępstwo - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYkhrbzFjS3JsOVdXZ2tobGRKdWpuamp3aTUwNUp4RmFIN3RZZl9oYTMwbEdHT1I0RkUtTXJsOTNBU3NmN3NDcGhVMkZ4TTJBMXhZNEprRkdjNlR3ZllJWnFRYlQ?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy rejestruje tysiące protestów wyborczych. Liczba wciąż rośnie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnBYWmt5V3duZ1JfaGlBa0UwU2hIV2s2MF9VOTE2Sng4dVBkN0xDSU1rdkdDNmUzNmRPOVRLQmlFQkIyd1hiTEFtUU1iRG9XdEtEMVBFUG5VeGxrNVV5b1FJbFZHQ3hGeVNRVVB2c1ZOZnlZMUxITnRlVkVDM05sNEVBcjdNOUtET3VURmJXQ1AtT2dMeDZDaU9uQVpTUHJQUnBXNjkzZTlGSnNZSGxfdkdwRUs?oc=5"
-      },
-      {
-        "title": "Prezydent zwołuje Radę Bezpieczeństwa Narodowego. Karol Nawrocki z zaproszeniem - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0dTZjI4SEU4YzdZNmxoNDYtcm1SaHNvQldfOC1lWkdQZjNZYVpSNmljVEJINjNSMzJsQWF2TXAxX3VldjJfN29KOWRDM3gxLU9BMGpubFdMUlR1V2xzamlmSkUxVWp4cFg1cVFTdjI3cXY2NXdOUmd4X3hZZ1dOYmhzNDlXNy1YMkJHdkxIVXNJSVU2VDc1ckJTZVVMdnRYM2FUUThfUmVSU3FvR193aWFUcw?oc=5"
-      },
-      {
-        "title": "Łukasz Ż. przed sądem za tragiczny wypadek na Trasie Łazienkowskiej. Co powiedział pokrzywdzonej rodzinie i kolegom? - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0dwRFVkMEdQUHk3YlZFSDdvVW5jdkYyOTVja3Y4RGl6N0dDUUt5U0dySjM3QjhtUDNIV3pwLW5wZl9fM2diVVRJT2RkSE9URC1zNjA0c1NWSEJudXhweXdMbXItS0I3Ty0teDl1YmR4Rk51UzJIbEp3NW1KVEhxTkRveXdEYzYwUXpNZ29LZHJkYUU5MkVINFY5RGM5UDFMbEFhMUdFXzdtanFNZnV5NWFWVzFDUUdY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-17 22:15:19",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "We wsi zawrzało. Sołtys zadrwił z wyborców jednego z kandydatów - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFBmYjlRUWdXZ2dVS0huTFF3NnR3X1pjNTVPRWxjQjJHN3l5VFpRN2t5bDNPN1BSUE5VZnVTOENVb3JGZmZIYmFLaWc3MDN1SFNPbmRMWnB4dEN1MTh1WDV4M2FmYVRvQnM4TGpnMDBRcmFyZE5wcW5hMDlDSzY1Q2x3RUpfT0kzQTBLTHZNaEJ3dEZCemhPLVBMRUpQaEJDUzV1Rl9FWHM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-20 05:12:52",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7137,
+      "EUR": 4.2717,
+      "GBP": 4.9964,
+      "CHF": 4.5446,
+      "JPY": 0.025617,
+      "AUD": 2.4132,
+      "CAD": 2.7175,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 387791,
+      "DOGECOIN": 0.628855,
+      "ETHEREUM": 9329.57,
+      "LITECOIN": 313.88,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2723.15,
+      "^WIG30": 3534.28,
+      "^WIG": 3534.28,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "USA włączą się w wojnę z Iranem? Biały Dom przekazał, kiedy Trump ogłosi decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2JTN0FkU0pyOWFPeE8yT0w0MGpvVEI4UUdPcmdnTDh3aVktblZxTU56bTBscklIUThtNi1YZm1iNmxHVmFDVlJpNnRGa2VuczhWQ2pTeUtBLUY0cDJPaFZ2RU1RN3Y5TEZxcFl6UXhlWEFVbkFyZlF3OUJ1c3Fhb0NvdDBBakdvQkkwNXhlMmFwdlNfTC1BMjcwQUZwcVJVeHgwWlZHX0dKRVN3dlJwckY3Y1l2SnZCYlMyZVdKTkNMc19JNl9kcFduWmViQQ?oc=5"
+      },
+      {
+        "title": "Korea Północna reaguje po ataku na Iran. Tak nazywają Izrael. \"Niewybaczalne\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW15SFNrZHJHMmJwclJmclB6SHJEdld4N0NkUUxhSERxNFFGNXkzekxvQm1tdVNpM0JpdWhPWERvQTRLMmZiSzdweFFKTzRGSnl0a3FVN0VEbDZ4cTNGcm0zelhPbXBVSVJaNjZwS20zQkJQVkZYUHlYajhBSjU5RWxWY1Q2T05zdXloVVBGZnEwRWRSclZSTE8tNUhDRFpiemhfWnQzNjNVcWIxZHZYMGFJVjdUcUU?oc=5"
+      },
+      {
+        "title": "Ewakuacja z Izraela. Kolejni Polacy wrócili do kraju - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk5pNUpRZWg4Nkg5N3NFeG5VM01UandPbUFrVFN5WmYzekRSVkxlU1ViajY2WmVxbmdMNlhFc1RoUXRMZ1ZFRGF3YkhSNV9OMEY4c1BGYTlIYmlVNzVyeFFzS2R0T1lVZ2dFc0F3eFl0b2hUZmNDdVFIMi05cWtsSm9EMkJyZ1duSFI0MExEWXVEb1dNU1pXcXdtS1ZjWUpwRGZRSkNTc2FQeWNybmQtMTlWTXI?oc=5"
+      },
+      {
+        "title": "Pożar bloku w Sosnowcu. Trwa akcja strażaków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGV0X2RoNnpGVFdXWGxPMUNfOHB5NFhaa01sYkwyUXg1dlQ2aDU4OHZPQ0pIVjBneklCaE1lUGdXVW9jb3N5TERQX1haOENDT2R6Z1Q0MGh2QkdTZWdzbnFtX3ViejdINXdxTG1CYy1yM0k0WTdqRU5oYVE3MWViQXhDeFJCQTVoWTJic1ZXSDB5aXktY3FCOTdza3BDNFd3WFUyQkdPbER4QQ?oc=5"
+      },
+      {
+        "title": "Boże Ciało: procesję w Kłokocinie zakończyła msza plenerowa na wodzie (zdjęcia) - Rybnik.com.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZW52QVpOOU14bUhvajlESC1kNFRIOERoa1V3STZkWXRsRTBsY1RRaUszUGFGNFFvaWIyUjl4WHNUenlrTGhnYnd4Qi10UTZONVdKaTltMmp5Zk9FbzJRODNzR3REcVd4S2ZMNWhjQ01RN2FrUDhfNUxxVFBYOTZkUUJRY256QmplOWdxZnY0MUFPVTQ5WGFscURfZUJKajAyZ2E3UWhva2lsMTF0R0h5TDExZXdSYXNqRXhwWjR2T2ZieFRNVEJ3SVNUMA?oc=5"
       }
     ]
   }
