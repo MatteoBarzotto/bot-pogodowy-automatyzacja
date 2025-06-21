@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-19 01:13:35",
-    "weather": {
-      "Warsaw": "Warsaw: +27°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7137,
-      "EUR": 4.2717,
-      "GBP": 4.9964,
-      "CHF": 4.5446,
-      "JPY": 0.025617,
-      "AUD": 2.4132,
-      "CAD": 2.7175,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 390590,
-      "DOGECOIN": 0.636599,
-      "ETHEREUM": 9418.35,
-      "LITECOIN": 317.57,
-      "RIPPLE": 8.09
-    },
-    "indices": {
-      "^WIG20": 2723.15,
-      "^WIG30": 3534.28,
-      "^WIG": 3534.28,
-      "^NCINDEX": 246.65
-    },
-    "news": [
-      {
-        "title": "Iran i Izrael podnoszą stawki na stacjach. Olej napędowy drożeje najszybciej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm1FRU12d1FJRC0xRWRQd1R6Z0NJa21fR0x1YmdQTGR2OGFWbTYwU0NMRFFFd25DbHRUMUVQOFNyZ0xkZTRMQTY3YmNwbHY2T1dpQlRKZURHQld3LXh6Q2w5M0d2SGg3ZDVUYXJZNDFWRDFkS1NTRENhQm83NG5WakpUWjBCX3BLWnozbWJ4ZlI5WHJId2tDWmJVaHdBYThsUjdBc1hFZG5LTEY0QUtfcnJFQzY?oc=5"
-      },
-      {
-        "title": "\"Trump bardzo chce zaatakować\". Ekspert o dołączeniu USA do konfliktu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjJONEZxNGEzb3VWNERFdlJ1Y3NtRXoxdHBXM3dvRW80ZFd6aHB4NDRTVWE1ek12Ql9YUTNBSS1FajJUVnlmSWlTODY4VHBtcHBTQmU5Zy1iNkh5S0JWNzl4dHExNjRyb3ctMHZOS0w3Y1NMNjEyTFNYb2N6cDJwLUtQSnVlTW9sbVBYOHJSLTFNZWlMZllMUk42dTh3UHdxemNKYmpZa1BHU1BFNDZjanl3?oc=5"
-      },
-      {
-        "title": "Do Sądu Najwyższego spływają protesty wyborcze. Liczba jest spora - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2p2U1RGYk5BRUVQenJIWi1fNUtfZkJjSHg0SzdOai1QaHpYZU9OYXN4U2lTRWpZYlUyZ0Z2Y0xiVnBRNVB4RzN0Z2JtM0xtLWg2M1V4YXhTbVVSQmU3RnBkTjZISmE2bHFlNC1GVFFSLUN6UjYxVjJiMmtDWUhFRDZhWWptbzdGZ3ZwdXVfUlJkS0pRd2JRd21wSUx5bmw1cU1rTzlHaw?oc=5"
-      },
-      {
-        "title": "Polska 2050 na rozdrożu. \"Byliśmy umówieni\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTBsSlh0bFBLcUxfbFRUS3Q3NFJqanY1MnE3SjFKQzZlcFMwMVY4bXlmcEtKNF85S181aW05bnBWYUdzTEloOHBHaGhuakxKX2VTaHM0azc3R3IxTkw5TjZ3SENJbGxqQ28xY2pRVFhXZk5kQ2ZCWUFmWUFpYWxndkFJb1pTMnoxeDRMMEZZZ29SdTR2VmxiRGlybzBKQTQzTU10WEpyVHRvd3VkVmY1Z0J5QQ?oc=5"
-      },
-      {
-        "title": "Giertych w Sądzie Najwyższym. Manowska wydała oświadczenie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE0tZlFPMEZNX0Y4VFVuMW8xNnVQakJoRWM2U2l5RlZQQlpGYVkyLXlJRHMxT0REOHZQVEVqZkdCR3J6VEZrYWlVSUVsVF9haWt6SGpjb1B2bm5KckNVNFBnWFBjYkVLN3RNazZvT3lwWFd6YUk1QldleHY5WDRTT0hULVFvSVZqUlNzNEdRSmFDckJPcHRzNEM0VEFobW5TbGc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-19 03:09:45",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "NATO chce zmian w wydatkach na obronność, jeden kraj stawia opór. \"To byłoby nierozsądne\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlljdlBCMjJ4dVZzV3lzbWhXRVprY1c5QXk4WnduNzFrVGk5VXZodVBqakJoc2laTHhiMC0xaWw1bmZ4OC15T1BWYkxOdjg0QXF2c3N2TnpReGxZcUVUNjJnVW4yMEZEQ3VLdHFOdlJNc0pkREdPZU9VZ3ZBQUY2VzkzWkM1YjRkNmFwaENQQjJESGl6VXhRUEwyUVdMZmFESEplM2wwajZ4eVVwcXlpRE9CUWpQQWN5enF1dWxWS1NSWVU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-21 09:12:50",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.7067,
+      "EUR": 4.2709,
+      "GBP": 5.0002,
+      "CHF": 4.5423,
+      "JPY": 0.025505,
+      "AUD": 2.4047,
+      "CAD": 2.7062,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 383247,
+      "DOGECOIN": 0.603372,
+      "ETHEREUM": 8976.62,
+      "LITECOIN": 310.51,
+      "RIPPLE": 7.88
+    },
+    "indices": {
+      "^WIG20": 2735.44,
+      "^WIG30": 3548.42,
+      "^WIG": 3548.42,
+      "^NCINDEX": 248.37
+    },
+    "news": [
+      {
+        "title": "Przeliczenie głosów w wyborach? Prezes Sądu Najwyższego daje jasną odpowiedź - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHBYVVo0bWt2aVpYdFo2WENEbDcwQkhnV3N4QzgtWTZGT240WkxoZ1NpeXNvaFpZQWVybGtzQnVocHY5VW5BRU1SbFM3aWFJV3lEdjU3cTR1WFE2aDJPY0kyLTZtVkg2NGRMOWJJNTFPREt3X1FzanRSMWpLeXBEMzlYbDZfRFdMNVVMOG9Lbk9uTmZ1LUdMMFA5eXJpZWhKb2ZwRGdDWnFuWmZVUGhTN3A1SVlLQklYcWlKbXc5TUZUV0JaaWh5MHZR?oc=5"
+      },
+      {
+        "title": "Izrael znalazł się w potrzasku. Wszystko w rękach Donalda Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWJMTkxOSzl0ZWVqNngwa1I0bzRObnZNV21IcXpRLVhSWGZLSzBIbnFObi04TkxONlQ4OXR1M0UxSGlVbC1vYzlfc1FhbzhOX1hMZ19kbTk0c3JZN0JYVmc5SGVHU2MzWDNmUmZWUjZNb2FoOGxYNkM5NE5wdEg0RTNGemlkVlFpWW9JZlNtaDhkY1dGaUVXdGUtUWlpZzZrMDJkb29lcUQ5Zjg?oc=5"
+      },
+      {
+        "title": "Prezydent Turcji ostrzega Iran i Izrael. \"Punkt, z którego nie ma odwrotu\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04zYlZkQnJkRlRkTmpFNlo4X3dUSjd1NXJpMmcyYXlPREY3d3ItVUw2ekt4MURzX1kxU3hNN1pxTEtLeXBuOWhuWjFrSGppNk8weTZrUzI1NjVYTUZnZ3VlRld6X0FiY2hYeEptZGdmSVBHMlc5WmpTR2dmcXI2UmlmbVFXUUk2Z3NzZVQtUU82MWxTOWpnMC1XeV81TmM1dWducWdOU0lsOU5mektlQk5IVFJ2OHdBSFBCTXQxYw?oc=5"
+      },
+      {
+        "title": "Putin korzysta z zamieszania. \"Cała Ukraina jest nasza\" - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0FSd0lXdFp5TkZ0dm5iR01MOG1BLUhfZ3h5TG9XTHpmQ1RyMkpDZG1BdnVoZ2N5dUNBMlJEYXEtTzJXZTNheWd2NlVoTE15VmhUOXM3V0NvSnp3TktaT2FHLU4tZGRpd09DT3M1QWdzekRwRms4VmYzZlNhcVBXcGJxZ3FrcHAyb3Vuc20wV1FRcmRtclRtQzAwbV9UUHfSAZ4BQVVfeXFMT3JKVTczNjd5WHJsSGh0UzhIeHFCcXc0YWthUml6Q2VNUFJhazgzVGRhQXpvTDZiUzRJbGxHSEkzSU52U0w2OVZSRFRXS2VkYUNfbUZyOEtTbThoMFJjODFjaURITk81U2dCYldhdnRjYi1zbE9CRU1vX3BtbV9zSzVBUDlSdlRhMW95SnVDZG93d2J0dWFfd0w0Uk5SMmc?oc=5"
+      },
+      {
+        "title": "Zabij ją, a potem siebie. Sąsiedzi ostrzegali, ale: Dorota ciągle powtarzała, że go kocha - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMktyc0dXd3IwYjgwVjBDOEUyTDhQVmlHQktzaklSaGFaNEZteEN0MkRIWE5ra1V4d2otNml5NVRwa2tyUXJ4SUkwb21qMFJRUzhaX3lTcUZTWkZ5dGpxWVp2OG5vNFBxZTBhWFc4QVZJcWxUUHRzUVVwazZuYXlhbkZORGZTZDZVaGxKd1NCa19JM01taDJweGRxblF6THpS?oc=5"
       }
     ]
   }
