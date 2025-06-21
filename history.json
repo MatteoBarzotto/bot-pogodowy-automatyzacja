@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-19 14:28:34",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.7137,
-      "EUR": 4.2717,
-      "GBP": 4.9964,
-      "CHF": 4.5446,
-      "JPY": 0.025617,
-      "AUD": 2.4132,
-      "CAD": 2.7175,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 390779,
-      "DOGECOIN": 0.630987,
-      "ETHEREUM": 9441.2,
-      "LITECOIN": 319.14,
-      "RIPPLE": 8.04
-    },
-    "indices": {
-      "^WIG20": 2723.15,
-      "^WIG30": 3534.28,
-      "^WIG": 3534.28,
-      "^NCINDEX": 246.65
-    },
-    "news": [
-      {
-        "title": "Padły mocne słowa. Korea reaguje na wojnę Izraela z Iranem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWtDSjdIcWoybWtlb0lzb1RFTkJUNzF2UWVLampuNHdualVsYTh4QzhFQXplTk0xWVhGclByYVUzTVJ0REJOME9Za09mbEtWZ0pBdVhEZVpTa00wUk9qUEhfWWNKSGxQaXJFbGxXdFpnTkhKbjZUVXFyajZpUDN5aHF6cXZGYVVtckxLcld4UkE5d0hCdWx1NVFGbWYwb2RsVGc?oc=5"
-      },
-      {
-        "title": "Niemiecki kanclerz wywołał oburzenie. Merz tłumaczy się ze słów o \"brudnej robocie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0xxMWdQNzZVaUZjSFQtcExEWVUxbjVxQlZhcDlvNXlpcGhyczJfdVVNMHpGYURPRE5uRmd6Y0tsSGxUZmxMYkk2VTgxVXJYdmlQWEFUV0d5elE3RktYSnFXbjUyZ2MzRTdwNTFiMUlqcnMxUjNvQjhGY2g4dUpjZWR3MFdiLVh1bVUxN2Jja0otR0RCSVBaLWxseHFNNkhZbXhLeUhvVEVDZw?oc=5"
-      },
-      {
-        "title": "Grzech za brak udziału w procesji? Ksiądz zabiera głos - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlJrSnJTcnZTMVRXRHRmd3o4M2F0UUVLU0dQNzJzdDd2SUQxUzZyQk9Rdm1TU1F6Tnh0NWpsWGNiRW96LUVWOWdXOVgtaGZmNDNNT1Q5MWZYeHpLQ1RyRnQ1WVlvRnZVcFVlcWg0LUxSN0JqODRxQ25fQWxFQnB1ckNxQ0M5bE8yRU1uRlFnancwUnBiZ1MtWTYtTkgxWlhHdkE?oc=5"
-      },
-      {
-        "title": "Do Sądu Najwyższego spływają protesty wyborcze. Liczba jest spora - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2p2U1RGYk5BRUVQenJIWi1fNUtfZkJjSHg0SzdOai1QaHpYZU9OYXN4U2lTRWpZYlUyZ0Z2Y0xiVnBRNVB4RzN0Z2JtM0xtLWg2M1V4YXhTbVVSQmU3RnBkTjZISmE2bHFlNC1GVFFSLUN6UjYxVjJiMmtDWUhFRDZhWWptbzdGZ3ZwdXVfUlJkS0pRd2JRd21wSUx5bmw1cU1rTzlHaw?oc=5"
-      },
-      {
-        "title": "Plan ataku USA na Iran. To Trump miał powiedzieć swoim doradcom - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3dFb2xyZ0QxNVVyVGRMdDhncVlWY1dDZ3ZpbDhMSk5zVElsQXZ4SDNWRGhXTVB2Y0wwbmlrTzhsT09JQ3RLVVhFVTcybjJhR2RLS2QzWjktd0xTdENJQTVtdFpkM2g4OGZnR055NTlHR0ZjNGVNeDZWMnR4N2F6alRaMmgtNXhnTklFWDdB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-19 15:27:43",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tusk zwrócił się do Dudy, Nawrockiego i Kaczyńskiego - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3dqYTJoS052NUtjdlV3akFFMVZNcHJCOVBNWE1uYnZqU05PUkM3Y1lzdi0zZTNRUHFsUllBd3pNQ0lJSXdmbXJLZEhwMnNyUGdtME5HWnlwSE9jZmhlYXN1UUtWbUYwZjh0STV1SjFlRzU2UjNBY3dTQWoxMmg4MGlUdmdJSWE4bGpIaWRuRFduQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-21 20:17:35",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7067,
+      "EUR": 4.2709,
+      "GBP": 5.0002,
+      "CHF": 4.5423,
+      "JPY": 0.025505,
+      "AUD": 2.4047,
+      "CAD": 2.7062,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 382902,
+      "DOGECOIN": 0.590291,
+      "ETHEREUM": 8913.21,
+      "LITECOIN": 304.63,
+      "RIPPLE": 7.78
+    },
+    "indices": {
+      "^WIG20": 2735.44,
+      "^WIG30": 3548.42,
+      "^WIG": 3548.42,
+      "^NCINDEX": 248.37
+    },
+    "news": [
+      {
+        "title": "Przeliczanie kart wyborczych. Zamienione głosy w siedmiu na 10 sprawdzanych komisji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjlLOHZJYjJRakhaV3FncnVCa09ZTEgzSm9YNTJ2ZUtDQ2xPQ2N2WVRRRmFmeGFlSkV5T2dnYm54dGNoR0FLQkV6ZTNHUWExN2FyTzNGWUtFdk81QmRrU2RKdzg5b3RsZER3Qy1ocHJoS2RpY19oLVE1VXROaUtWOW8zWjlTelpTTWl1dExKOFdrWXlGcVJkVWlFN0JEV3BBYWxNTGZpQmJVc280Njl3bU1DT0RNUE8zbDFWZWJkWm1GSW9xQVE?oc=5"
+      },
+      {
+        "title": "Duda odpowiada na wezwanie Tuska. \"Zwykłe tupanie nóżką\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDlsN3RvZlFUMms2WjdUbEFfM1JFQkxVai1icVVZS1B4MWxQU2ZtdWVocktQQkNPTVZsTWQ0QmY4azliVERnRDRMa3NRUVBtd20wVklDSkk4YnpvRHNrMVFhRXpFTTI5WVJEQUNwOG52azhETmtDMV9tUFNSLU4yLUhBSHZsUk1ReWdLNTNOT2xOMTRCZUwtVEY0SDd2dnR2b1J2bUgwYzh2SXI0?oc=5"
+      },
+      {
+        "title": "Mińsk wypuszcza więźniów politycznych. Są wśród nich Polacy i mąż Cichanouskiej - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmNuX2xIQmhDNngyWUd6RWZtYUZ0NEh3NVFTVlJpYTJ0TDZJNUw2Q3VHc2JqYkI4bDhoMTc5VU4tbEpZVlQtSjhWdl9uOXI3SUZ2c1plcEgxOGhFcU1MbGpKaGRQemhHRjJSYUxGdl9MakZoNEp1Q3RfbE5nSHJMMEF3VWpzYmhpV1FKZ09GVmtrV3ZQd1hyeHZ6WFZVUjB0RWs0UXpOaXE5R0VhMUZ3Qw?oc=5"
+      },
+      {
+        "title": "Nowy wywiad Putina o wojnie Iran-Izrael. \"Rosja jest gotowa\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG1BN3Z0ZzNEdWk5elc1OC1Bd1k2eHhTTUlDX04wUUlPS0VOTW1GdE9xaGFzSklFeHNsbmZvdUdrekZMRE02bFBUNHhyMmVla0dlZ2Qyek1wZ0haTEk2cll4UkdUREVvTGRZa1dBNzlGdnk5VXl6eGhwWmZWeXlNWlFTT1AwcUc1cUp2RTkySEI5N0s2eVR2SUhVRWFGdDB3YjdlTElpTzRHRVU2bWZzc0IwWnI?oc=5"
+      },
+      {
+        "title": "Amerykanie szykują się do wojny? Bombowce zniknęły z map - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE83UHhTeW1sdjdBN0dZdjhJOUhCY0JGNFdiSFFaQktmZHNVMHdKT1o5NXl2dzU5UDF4akswbm9Uc1JNNmRaVDZuQ1BHRFdEeGFqM29UbmJzbEJtNkszN2lzNnQ5R2g3MGVhaDFOOWxJb2lkY3hjRlFKLURHM29USHI4UFBhdmRqRnVyb3B1aHVNd2JDcHVfNmtjZlo3eXd3MXF5N09xa01sZjB4Y0F6Y25kSQ?oc=5"
       }
     ]
   }
