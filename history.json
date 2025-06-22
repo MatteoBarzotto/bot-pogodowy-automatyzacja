@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-20 16:13:24",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7067,
-      "EUR": 4.2709,
-      "GBP": 5.0002,
-      "CHF": 4.5423,
-      "JPY": 0.025505,
-      "AUD": 2.4047,
-      "CAD": 2.7062,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 391203,
-      "DOGECOIN": 0.629451,
-      "ETHEREUM": 9388.38,
-      "LITECOIN": 316.81,
-      "RIPPLE": 8.0
-    },
-    "indices": {
-      "^WIG20": 2740.87,
-      "^WIG30": 3553.7,
-      "^WIG": 3553.7,
-      "^NCINDEX": 247.13
-    },
-    "news": [
-      {
-        "title": "Fala podwyżek na stacjach paliw nadciąga. Benzyna i diesel drożeją przez konflikt na Bliskim Wschodzie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDNacXdKcFBvWDEwMkU5MFJzQ0hTVExDTHdWalJtWVQ2bnZaQy1ZanN5SG1CRUpMRFIwSEJuc2swWEJvZlo4LUhJRk16eWY1U1pLTThVTHFudjBqSnRJOXdoUDd0WmRsVFFCdjZhVGY2QXVPb083Zll2RzVMZkZ0MTZUNEJrUmNhTDJZeXh0RlE1S3U1dThVd3hydlRnU0I0OF9fVGZJR3RxRFNOSTFVU0hqZjFsWUk1bjZNdElPUHI1cVNmZEQ1WHBR?oc=5"
-      },
-      {
-        "title": "Donald Tusk ogłosił, kto zostaje rzecznikiem rządu. \"Powiedziałem: weź to na siebie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVkVZdnhiN3RlV3Bpc010cVhUY2k0bnU4TWIwdXd1WnAwMC1WYXJDMmVWU2N3dG1rM2lCSkJhUzVLUm4ta1R6eHh6V2ltWENwZHJncGQ5NDNmV2lEcnFRTHU1UkFwWDNYeENxQ0JRODlwM3lxVk5mNC1Oa3VPTk1lcTJTV3pvendsWGxVRHd2NHE0ZS1tTlR2SWZzU2J5WXotcnQ4Q2toNVU2bk9GX1E2Y2xBd3VLcmUwQTdSOFNQaDVySldBYzBfYzZnSXV3UXl3blNLUlVndWtUZw?oc=5"
-      },
-      {
-        "title": "Pisowska Izba Kontroli SN utajnia wyniki wyborów po ponownym przeliczeniu w komisjach - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWtFVDZSanZEc0dfQkQ0QjZjMlc2Q3doX0hMSDh3OW53anZRT3d2SFJXZHJTQzBZWVA4M3BERWlPd2N2bURuZVNFTWhLdDNvN2x2YjlzV0E0SF9DcUFDNi1tbms3OHNmaXBvTEJ4eTVxSzQyY3pIdUVieGU3SFdnX2FtcjNoVkV4bmlBZWFwMzhkanNoSTZOcEtUU0Z6QU5CSkh6NEJ6QUlkMlJCUmc?oc=5"
-      },
-      {
-        "title": "Biały Dom nie wyklucza ataku nuklearnego na Iran - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1dKMHc4cmNrWVdKb2wzVk1FNk9xbDRrbm5GR1REVzFYUS1hOWpFSWowWl83Qmo0aF9Pd1pZa3B3aHU1UGZjNllORXQ1MFJXWVRVQTBhRXY4Z1FZclBJc0RFY3Y0Vkh1alVhMFRjdW9fYlBsdjdnZWo5d0ZnY2xpYndWT2MxN3E0VWs1QlJHd9IBjAFBVV95cUxNSzBBMFdaZHV1MkZzQ3dybVVZcXhkb1RkeWgwSlZfcU80Zm13bllJa0lvOG1rdkpyLUVwUGxMS0RrMHhGMUgtZkFNMy0tQkpwSVY5OTRaZ3BtbU43VnJKczI4Rk9oVm9hV2YzYXMwVDdRN01jWWxOWmRoMnFabmN2MnVYMktUeGRYRVhMcw?oc=5"
-      },
-      {
-        "title": "Premier ostro o kwestii pozwów wyborczych. \"Konieczne może być przeliczenie wszystkich głosów\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWV4Y1hlaVRQMDZXMmV4QnBqcldfZlZQWXBzaHlHRTkxeGFaNFk4Q0Z3OTBTeGJKc1pLZGZpUjdiVFNuR2owTDVhNkU1ZnNLRHUxTW9ENHB2ODROTDZQbC1MbXJBdnU1aU84VVB2SmdDakxzbktoMWdjZVREVnRDbzhZeGpFRjM1NHZtTGpIQkhCTVhjdVVHNk9WRDNpT0szblJOM2ZHd1A3ZXYwcXNSNkFOUlRYNE5YWkFCQ1cxR3NHR2I5dXdSbVBjRjM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-20 17:14:15",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Potężna eksplozja w Damaszku. Do wybuchu doszło w kościele - Onet",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaERWR3RzMGFoYm9EWGdlb2hBZ1lvV3ZUMXJYeXg5bm05M0tYVWNlY1NiRy1QY2hUM0FXb0NCTVdVUmx5cENReGtnaTNTYXNqSjh1M1FrUmNOdWF6VEtSM09XTVdPdVhMNlJ2MEFzN1VTeUE5bzV4dUtucW8zcWU3VTEzbERXVjd2TmxYTnJJaFp1SU1hZGJKaUtET1Fmb2k5TjdncVlUUjUyYXdlaWtjVXRWbDVMQkt0NWl1Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-22 22:14:24",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7067,
+      "EUR": 4.2709,
+      "GBP": 5.0002,
+      "CHF": 4.5423,
+      "JPY": 0.025505,
+      "AUD": 2.4047,
+      "CAD": 2.7062,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 367519,
+      "DOGECOIN": 0.543548,
+      "ETHEREUM": 8030.04,
+      "LITECOIN": 288.67,
+      "RIPPLE": 7.26
+    },
+    "indices": {
+      "^WIG20": 2735.44,
+      "^WIG30": 3548.42,
+      "^WIG": 3548.42,
+      "^NCINDEX": 248.37
+    },
+    "news": [
+      {
+        "title": "Odwet na USA? Prezydent Iranu zapowiada odpowiedź - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3JPUTJFTTU4dFBFQlZzWUtELVNOQ0JBRzE3RThuazY3Und1UFFHV3JXREthclFEaUVNXy1hQTZOcmVyZEo5bEdTZU93Yy1DcmV2b1plNFYyX0FGU0NtQjJNQkVaTGRkeXFzaml5NGI5LTU3Uk1mSnkyWF9Sdm9RTENlcHh3ejhralotSktJTTF4R1ZsREg1ZHBQUVNTOTMydDVCN1pB?oc=5"
+      },
+      {
+        "title": "Nawrocki zwrócił się do Tuska. \"Czas porzucić histerię\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2VyOXNRQUhxTWZwQXVaVFRhay02MmNKU0FFcEhyN3BfOWdqYTloRHRKc1V1ZGttQU9wQ1pkZ3hnZHhCTC10N1FxZUFxVTQ4T1lwZkM3bHJoRHRZdnNGS0pXSWFrWi04WXJwRWNRbkU0YUgtdVlnX3Q4N2tnUUtIVU5ZdjduQmtIQzdGZG82ZTltX3dIWkgyMUxWbmM3V3dmMWlpblVXYlI2di01cEVYLVZpSWc?oc=5"
+      },
+      {
+        "title": "Ruch Iranu po ataku USA. Chcą zamknąć Cieśninę Ormuz [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjBWMTRvMVBScUhhUVpJUEZCaE9RSmZUeWowalVuTEFUUFUxb0ZMNkNPbGpVX1F2SjJfRldFV2NBMjQxVXpYZS1ybV9fVVBLSmhhR2NiemxvZWNnRl9UNnFzY2RrYTNnRW81a1c5X0xKNUFrVGpySl93Y21iOXdsRXZLZ2FpZ0MwMzVxM29fNGtCTnVyWTI3NXNid0dJZXNTR1FhRDJTWVNuQTk2?oc=5"
+      },
+      {
+        "title": "MSZ apeluje do Polaków. Odradza podróże do trzech krajów - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFpqdDFxQWJDOGN1SXRQZUdPNHV4SDRqVXVZQW5WNnZTMXdQNjhWdU5LQUVaMGRYb3M3TTM5ekloWi1vbDZMSHRtVnZjT0dBQl9HeDh0dUdabkc1RHdsUXA3ZHRYS09Ga1BUVklzQlhqam9oU0J1MUFEQlJCMUNaM0JlVHFmTF8yb01tQUdVX2locHR4QTE2TUc0QQ?oc=5"
+      },
+      {
+        "title": "Powrót hegemona. Jak Donald Trump przesunął wahadło o 180 stopni [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMi1oNnUydkxFX05IcmZ6YlFPcnlYVjV3ZUpwTXlIMGhCdmpKSm1DcVFrWnp1UUxKUE42RGZTVmpaNktqTllEMDhhOEFlS3dZZHNoUDhKbE9lTXMzdDNBa1l6NFcxVGZmMHhhS0I4cUwyZjNHajVLcndFeXhqMGd5b3JOdk1jQWdsQllMTjhIX2FySW9fUkYtTk1RUlhxTHlnaHRYd1FZOU9VVDJHdU1mc0xlTQ?oc=5"
       }
     ]
   }
