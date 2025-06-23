@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-21 09:12:50",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7067,
-      "EUR": 4.2709,
-      "GBP": 5.0002,
-      "CHF": 4.5423,
-      "JPY": 0.025505,
-      "AUD": 2.4047,
-      "CAD": 2.7062,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 383247,
-      "DOGECOIN": 0.603372,
-      "ETHEREUM": 8976.62,
-      "LITECOIN": 310.51,
-      "RIPPLE": 7.88
-    },
-    "indices": {
-      "^WIG20": 2735.44,
-      "^WIG30": 3548.42,
-      "^WIG": 3548.42,
-      "^NCINDEX": 248.37
-    },
-    "news": [
-      {
-        "title": "Przeliczenie głosów w wyborach? Prezes Sądu Najwyższego daje jasną odpowiedź - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHBYVVo0bWt2aVpYdFo2WENEbDcwQkhnV3N4QzgtWTZGT240WkxoZ1NpeXNvaFpZQWVybGtzQnVocHY5VW5BRU1SbFM3aWFJV3lEdjU3cTR1WFE2aDJPY0kyLTZtVkg2NGRMOWJJNTFPREt3X1FzanRSMWpLeXBEMzlYbDZfRFdMNVVMOG9Lbk9uTmZ1LUdMMFA5eXJpZWhKb2ZwRGdDWnFuWmZVUGhTN3A1SVlLQklYcWlKbXc5TUZUV0JaaWh5MHZR?oc=5"
-      },
-      {
-        "title": "Izrael znalazł się w potrzasku. Wszystko w rękach Donalda Trumpa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWJMTkxOSzl0ZWVqNngwa1I0bzRObnZNV21IcXpRLVhSWGZLSzBIbnFObi04TkxONlQ4OXR1M0UxSGlVbC1vYzlfc1FhbzhOX1hMZ19kbTk0c3JZN0JYVmc5SGVHU2MzWDNmUmZWUjZNb2FoOGxYNkM5NE5wdEg0RTNGemlkVlFpWW9JZlNtaDhkY1dGaUVXdGUtUWlpZzZrMDJkb29lcUQ5Zjg?oc=5"
-      },
-      {
-        "title": "Prezydent Turcji ostrzega Iran i Izrael. \"Punkt, z którego nie ma odwrotu\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc04zYlZkQnJkRlRkTmpFNlo4X3dUSjd1NXJpMmcyYXlPREY3d3ItVUw2ekt4MURzX1kxU3hNN1pxTEtLeXBuOWhuWjFrSGppNk8weTZrUzI1NjVYTUZnZ3VlRld6X0FiY2hYeEptZGdmSVBHMlc5WmpTR2dmcXI2UmlmbVFXUUk2Z3NzZVQtUU82MWxTOWpnMC1XeV81TmM1dWducWdOU0lsOU5mektlQk5IVFJ2OHdBSFBCTXQxYw?oc=5"
-      },
-      {
-        "title": "Putin korzysta z zamieszania. \"Cała Ukraina jest nasza\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0FSd0lXdFp5TkZ0dm5iR01MOG1BLUhfZ3h5TG9XTHpmQ1RyMkpDZG1BdnVoZ2N5dUNBMlJEYXEtTzJXZTNheWd2NlVoTE15VmhUOXM3V0NvSnp3TktaT2FHLU4tZGRpd09DT3M1QWdzekRwRms4VmYzZlNhcVBXcGJxZ3FrcHAyb3Vuc20wV1FRcmRtclRtQzAwbV9UUHfSAZ4BQVVfeXFMT3JKVTczNjd5WHJsSGh0UzhIeHFCcXc0YWthUml6Q2VNUFJhazgzVGRhQXpvTDZiUzRJbGxHSEkzSU52U0w2OVZSRFRXS2VkYUNfbUZyOEtTbThoMFJjODFjaURITk81U2dCYldhdnRjYi1zbE9CRU1vX3BtbV9zSzVBUDlSdlRhMW95SnVDZG93d2J0dWFfd0w0Uk5SMmc?oc=5"
-      },
-      {
-        "title": "Zabij ją, a potem siebie. Sąsiedzi ostrzegali, ale: Dorota ciągle powtarzała, że go kocha - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMktyc0dXd3IwYjgwVjBDOEUyTDhQVmlHQktzaklSaGFaNEZteEN0MkRIWE5ra1V4d2otNml5NVRwa2tyUXJ4SUkwb21qMFJRUzhaX3lTcUZTWkZ5dGpxWVp2OG5vNFBxZTBhWFc4QVZJcWxUUHRzUVVwazZuYXlhbkZORGZTZDZVaGxKd1NCa19JM01taDJweGRxblF6THpS?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-21 10:17:09",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Alert RCB. Idą gwałtowne burze. \"Możliwe przerwy w dostawie prądu\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVd3VUZraGQ4dFZJU0ZNVU9PNHFhNkZVUFY0SXNod0cyN0E1a20yQ1NRalpYajVaTXpXeVRWZ29oVU5RVkhCQVRfYWl1R0ZCbzhqQzk3ajFYclhORFJfMXZkY2hkRVhuT2Fma3d4bFFBVElBSjFEM0hmdTYyUXlIUUJVQXlPWEowWmJHLWpkd2Z0d3ZjRnpYQlVCWWNDenhWNVdBR0NRT1BfMW5oWVM0T1pDOGcwM2lHMTlmV0wtNUVaVVU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-23 15:30:18",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +30°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7212,
+      "EUR": 4.2727,
+      "GBP": 4.9918,
+      "CHF": 4.5495,
+      "JPY": 0.02521,
+      "AUD": 2.3825,
+      "CAD": 2.7007,
+      "CNY": 0.5176
+    },
+    "crypto": {
+      "BITCOIN": 377434,
+      "DOGECOIN": 0.569905,
+      "ETHEREUM": 8391.03,
+      "LITECOIN": 302.68,
+      "RIPPLE": 7.46
+    },
+    "indices": {
+      "^WIG20": 2690.45,
+      "^WIG30": 3491.57,
+      "^WIG": 3491.57,
+      "^NCINDEX": 247.64
+    },
+    "news": [
+      {
+        "title": "W Rzeszowie udaremniono zamach na Wołodymyra Zełenskiego. Zamachowcem miał być Polak - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWJGZ0VSMWxOMVRVVDFkcVctdTJBQWRPektKUzNSZ3h3dlIwV0Y5N0JSZm5yWVlQUDdXdlQ5ZlpDLV9TNWdvalgyZDkwMzA1WHBQY3hXLTlvUFI0LXZiWHhiVUlWM09sUzVhN0w2eV9wVUpXT0JuRmNMRHVZeGZZQThWN0dlTEx5Wlp3VHRib0Fxc1pGdkxtTS1IWUpuRC1xTTBRV1lLOGVmOURsTWRwUDBB?oc=5"
+      },
+      {
+        "title": "Nalot USA na irańskie obiekty nuklearne to nie koniec problemu. \"Iran może zdobyć bombę w bardziej ekonomiczny sposób\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjZJWTBncEpRSWotY3RvazEzQW5mUTJoOVh3Tk01dDlxVERjLXZPamRVWHNUOExJREtqQThQbmp3bTAxZGJMUHlYR242bHhEaUgwU2ctWHd2WnNjRVdHazdQQU5QQmpwUmcyczlOdncwcmtJWVRpS2NvaDJ5SGRJa2F2cFhodWNLYmNpUmJOa2JUM3VhazQxcGVLbGtlcjlHS2Z1amlId0tERV9NajdMUy1VTGkydw?oc=5"
+      },
+      {
+        "title": "Joanna Mucha odchodzi z rządu Donalda Tuska. Rezygnacja wiceminister edukacji narodowej - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkp3Y3BTU1lOVVp1ZTk1RzV0bnBXeDdBb3cybDNkakJRN1hWdC1SaFZqa3hTM3I4UVlhaEtZbUFsdHo5NU9RTlYydlVZSW5RNEdRZzRBR243c05EMlNzcDRWVWVSX3B5OUVTemtBUGRrbzJQWGtISlBqcEJGZXp2cDlkOTRDS3E2V3c?oc=5"
+      },
+      {
+        "title": "Upał i groźne burze. IMGW wydał pogodowe alerty - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmdVMGJaUnBHckhQZnNYbzU1UjRlZER2YUNrbEZoMC02eTNmZm1INmZVV041VnU3T1BhOGpOY3dEbV83anN2Y1AtVVdHTWEyQmFFSU1sZ0JRWTgyM3h4eUdwR3JVV2x0OFVzZ1E4TV9aMldvUFlTb1NGWXRidGw4Q1pIMVFYeDN4cDR0RVNkc1EwX1ltR2lVUzFJbkF6Z2d4YTd2M29wb1JHbmtUbTJjbWhZTQ?oc=5"
+      },
+      {
+        "title": "Korea Północna na krawędzi po ataku USA na Iran. Kim Dzong Un zaniepokojony - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOTZJb0JIX1Y1QWUweTJFbk1xYnIyUjFSS3h0aHBodUNieDRrbEhheGgzWXc0djQyVzVhYzJNN1ZTSDBXNlM5QjlVNFc4clF3UmtvX1ZuWkFncGNDdW5VdG9jZk92WGx0NzJrbTl6RnoxU0g1RXpYSC0xTzJqY3lrY1IzR3JFUFNPNFdEOXBVMUlWOHppc1N4OFV4SHl0Rnd4Wnd1c0FBeWN1aGdieVZHa3J6V3Q5WDRDdFlIa2ZRdGRRZw?oc=5"
       }
     ]
   }
