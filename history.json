@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-21 11:13:36",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7067,
-      "EUR": 4.2709,
-      "GBP": 5.0002,
-      "CHF": 4.5423,
-      "JPY": 0.025505,
-      "AUD": 2.4047,
-      "CAD": 2.7062,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 384235,
-      "DOGECOIN": 0.605871,
-      "ETHEREUM": 9024.36,
-      "LITECOIN": 308.59,
-      "RIPPLE": 7.91
-    },
-    "indices": {
-      "^WIG20": 2735.44,
-      "^WIG30": 3548.42,
-      "^WIG": 3548.42,
-      "^NCINDEX": 248.37
-    },
-    "news": [
-      {
-        "title": "Ciało kobiety na parkingu. Policja nie wyklucza zabójstwa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnJTMDlsWmpjcmd2Q21pMVpKVk1aZGtQSkJ2eHczVGltMFVCSW9SbVZna1RoUVBZaE1OY3otSjJJX29uQmJBQ2VSazItNDRHT2pDVEdqTTRUMjFqa056TG01eDM0bEplekJlZ3dIeXRRT01LOFl6cm1sR0plczMwV255TGNxMVVMU1RwNlBSazQ4REFvSmN4ME5vOWtXd0R6ZWtkTnpnX0R5NVV1bXU3cEt2NW5PZw?oc=5"
-      },
-      {
-        "title": "Budynek Microsoftu w płomieniach. Irańskie rakiety spadły na park technologiczny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1h5Zy16NWZ0bVlnY0pQa29mWlE2a2FIMjJVcmRUQTBUNGY4NDJtSzI1LVdFc3FlSExLNEZLSUlDNGJzak1TVjlyVXJHQTl4NGhrRmszUVhtR2wwMFozWThfdGd1c0VDSUZyTTE3TWhRYVNQUUtQYXBXZjEyU2VMU21mVVgzb3p4dGVuekNUNW4zMVViRmJ3U0Y2U24zRV9PSUQ1NEVXR1NENlVTcWxoQV9VdnVfdDhkMkFoQl9QWElDRm45NEVaeQ?oc=5"
-      },
-      {
-        "title": "„Ona się myli”. Donald Trump odrzuca twierdzenia szefowej wywiadu USA ws. Iranu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmdxc21HZ1FLVXlnVTUzSTJIaDkzMGc0N3BpbGgyUU9MQTdBT2ljd1BBTTNpcTRoR3cwb3lnUWRmY29nM2VLLVhxWmFEN04xRVRhSkhWS0JodVNSc1NfcXBrZFhaR2RxQWRLbGVaS3pnNEM3MXM0NDEyNkpmMUswS1RwN0gzRU5oLUU2VF9WRXZyanRIb1FfZkNyQ1lrbTluMmpPNHlSQXdYbndWc2FmRzF1cHlKS3NwSV9HbHFrdHE?oc=5"
-      },
-      {
-        "title": "Przeliczenie głosów w wyborach? Prezes Sądu Najwyższego daje jasną odpowiedź - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHBYVVo0bWt2aVpYdFo2WENEbDcwQkhnV3N4QzgtWTZGT240WkxoZ1NpeXNvaFpZQWVybGtzQnVocHY5VW5BRU1SbFM3aWFJV3lEdjU3cTR1WFE2aDJPY0kyLTZtVkg2NGRMOWJJNTFPREt3X1FzanRSMWpLeXBEMzlYbDZfRFdMNVVMOG9Lbk9uTmZ1LUdMMFA5eXJpZWhKb2ZwRGdDWnFuWmZVUGhTN3A1SVlLQklYcWlKbXc5TUZUV0JaaWh5MHZR?oc=5"
-      },
-      {
-        "title": "Putin korzysta z zamieszania. \"Cała Ukraina jest nasza\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0FSd0lXdFp5TkZ0dm5iR01MOG1BLUhfZ3h5TG9XTHpmQ1RyMkpDZG1BdnVoZ2N5dUNBMlJEYXEtTzJXZTNheWd2NlVoTE15VmhUOXM3V0NvSnp3TktaT2FHLU4tZGRpd09DT3M1QWdzekRwRms4VmYzZlNhcVBXcGJxZ3FrcHAyb3Vuc20wV1FRcmRtclRtQzAwbV9UUHfSAZ4BQVVfeXFMT3JKVTczNjd5WHJsSGh0UzhIeHFCcXc0YWthUml6Q2VNUFJhazgzVGRhQXpvTDZiUzRJbGxHSEkzSU52U0w2OVZSRFRXS2VkYUNfbUZyOEtTbThoMFJjODFjaURITk81U2dCYldhdnRjYi1zbE9CRU1vX3BtbV9zSzVBUDlSdlRhMW95SnVDZG93d2J0dWFfd0w0Uk5SMmc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-21 12:13:47",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2638,6 +2585,59 @@
       {
         "title": "Joanna Mucha odchodzi z rządu Donalda Tuska. Rezygnacja wiceminister edukacji narodowej - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkp3Y3BTU1lOVVp1ZTk1RzV0bnBXeDdBb3cybDNkakJRN1hWdC1SaFZqa3hTM3I4UVlhaEtZbUFsdHo5NU9RTlYydlVZSW5RNEdRZzRBR243c05EMlNzcDRWVWVSX3B5OUVTemtBUGRrbzJQWGtISlBqcEJGZXp2cDlkOTRDS3E2V3c?oc=5"
+      },
+      {
+        "title": "\"Destabilizacja\". Bodnar dostał odmowę z Sądu Najwyższego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRFVyRXl4blEyTHZxcDFRUTloWXhoc0p0QmIyS2lfLUp2bTlkWnRaRHFXQkVpZG5LbGVkcUNUaTNnM2s1cHFCU0RRNS1NRjNRbkVUaWFBcDQxS2lYejVseHZDU1ZNREVPZlduOFlNaTZjaE9pTno4Ym0yU3YxdWV6S3BHWVgycGMtcVE5TVNqMktLVDMtR0I1d0ZuRENyYWVIUVdmUGZfTFNzSGZrLWc?oc=5"
+      },
+      {
+        "title": "Kim Dzong Un wstrząśnięty atakiem USA. Korea Północna zdecydowanie mocniej uzbrojona nuklearnie niż Iran - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOTZJb0JIX1Y1QWUweTJFbk1xYnIyUjFSS3h0aHBodUNieDRrbEhheGgzWXc0djQyVzVhYzJNN1ZTSDBXNlM5QjlVNFc4clF3UmtvX1ZuWkFncGNDdW5VdG9jZk92WGx0NzJrbTl6RnoxU0g1RXpYSC0xTzJqY3lrY1IzR3JFUFNPNFdEOXBVMUlWOHppc1N4OFV4SHl0Rnd4Wnd1c0FBeWN1aGdieVZHa3J6V3Q5WDRDdFlIa2ZRdGRRZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-23 17:15:31",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +29°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.7212,
+      "EUR": 4.2727,
+      "GBP": 4.9918,
+      "CHF": 4.5495,
+      "JPY": 0.02521,
+      "AUD": 2.3825,
+      "CAD": 2.7007,
+      "CNY": 0.5176
+    },
+    "crypto": {
+      "BITCOIN": 378296,
+      "DOGECOIN": 0.573585,
+      "ETHEREUM": 8474.2,
+      "LITECOIN": 303.96,
+      "RIPPLE": 7.51
+    },
+    "indices": {
+      "^WIG20": 2691.54,
+      "^WIG30": 3492.87,
+      "^WIG": 3492.87,
+      "^NCINDEX": 247.01
+    },
+    "news": [
+      {
+        "title": "Władimir Putin reaguje na atak USA na Iran. \"Nieuzasadniona agresja\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZENVZjJpWHJEandSODJkU3pFeGxhMTBkS2l0VUVTV3dONkppbzhmN0F6V2YyYTZfQy1DT2I1WVlQN3FxN2ZqdV9jN1NqcEZuVlNDQ1l6QU9hRXROVFpkMHR2V3pXV2FSU01kVjR6NE03MnB5QmduZ3JjbjBHWElHM2Z4RGdVNTdIdkQxd1h2WVptdnQzbnlaVmJ5cTRzVlZVQmFBaG40ZEJJdw?oc=5"
+      },
+      {
+        "title": "Joanna Mucha odchodzi z rządu Donalda Tuska. Rezygnacja wiceminister edukacji narodowej - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkp3Y3BTU1lOVVp1ZTk1RzV0bnBXeDdBb3cybDNkakJRN1hWdC1SaFZqa3hTM3I4UVlhaEtZbUFsdHo5NU9RTlYydlVZSW5RNEdRZzRBR243c05EMlNzcDRWVWVSX3B5OUVTemtBUGRrbzJQWGtISlBqcEJGZXp2cDlkOTRDS3E2V3c?oc=5"
+      },
+      {
+        "title": "W Rzeszowie udaremniono zamach na Wołodymyra Zełenskiego. Zamachowcem miał być Polak - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWJGZ0VSMWxOMVRVVDFkcVctdTJBQWRPektKUzNSZ3h3dlIwV0Y5N0JSZm5yWVlQUDdXdlQ5ZlpDLV9TNWdvalgyZDkwMzA1WHBQY3hXLTlvUFI0LXZiWHhiVUlWM09sUzVhN0w2eV9wVUpXT0JuRmNMRHVZeGZZQThWN0dlTEx5Wlp3VHRib0Fxc1pGdkxtTS1IWUpuRC1xTTBRV1lLOGVmOURsTWRwUDBB?oc=5"
       },
       {
         "title": "\"Destabilizacja\". Bodnar dostał odmowę z Sądu Najwyższego - WP Wiadomości",
