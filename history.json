@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-21 00:13:10",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 4.0893,
-      "EUR": 4.4367,
-      "GBP": 5.194,
-      "CHF": 4.5414,
-      "JPY": 0.028586,
-      "AUD": 2.7352,
-      "CAD": 3.0968,
-      "CNY": 0.5698
-    },
-    "crypto": {
-      "BITCOIN": 382710,
-      "DOGECOIN": 0.599742,
-      "ETHEREUM": 8929.81,
-      "LITECOIN": 306.51,
-      "RIPPLE": 7.85
-    },
-    "indices": {
-      "^WIG20": 2735.44,
-      "^WIG30": 3548.42,
-      "^WIG": 3548.42,
-      "^NCINDEX": 248.37
-    },
-    "news": [
-      {
-        "title": "\"Atak hybrydowy\" na SN. Mocne słowa sędziego ws. protestów wyborczych - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXNldEhuVzlMVE5YMnQ1NTMwSWlKVVBSWi1WVC1vQTdrSDZCRlNiUHM3SFN4SUxjeW1iZnExOHJDVzNRa3hlNGtrTzJlZjJBcTdIOGRaeUVmdTZ5ZVNLUWRzSEhzbTdiYUE5aUZ6cEVuNmN0OWRLTUhDSHA3cVAzZ0NxNWJHNi05MUlWRkZ5LTNEX3I0NEhOZHVncHY3eTdUNUh2STk1Ymo4WkR1RVZHc2NXVnBJRExP?oc=5"
-      },
-      {
-        "title": "Władimir Putin o Ukrainie. \"Cała jest nasza\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzBvSFFZS3FOTXZ3THgtajRUZDlGcXR6S2w2UjYtd3FfXzlDR1J5OHFFNDRpV2lzb25kaVZNdnpPLUhqLTJBbUdSeXFPZEFla3ZCb2lqSTVzX1hvSndHX0xYTkhMbnNXSzg4WUlVSWg2UUtRdUxtMHJrNjBTTGRMVmcwdTVla185U25fTmxFdUt4aGdrWGc?oc=5"
-      },
-      {
-        "title": "Izrael znalazł się w potrzasku. Wszystko w rękach Donalda Trumpa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWJMTkxOSzl0ZWVqNngwa1I0bzRObnZNV21IcXpRLVhSWGZLSzBIbnFObi04TkxONlQ4OXR1M0UxSGlVbC1vYzlfc1FhbzhOX1hMZ19kbTk0c3JZN0JYVmc5SGVHU2MzWDNmUmZWUjZNb2FoOGxYNkM5NE5wdEg0RTNGemlkVlFpWW9JZlNtaDhkY1dGaUVXdGUtUWlpZzZrMDJkb29lcUQ5Zjg?oc=5"
-      },
-      {
-        "title": "Irański minister po spotkaniu w Genewie. \"Wyraził zaniepokojenie bezczynnością\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUkyeXRpOW1KdXFmV3hiWlR5TDRLUm9zOURkVHRDOWJKNDBLZ0ljaEh2cndiaHZsV3Z2Y1QxakRDbDVpSkdqMXc3eG5ZczV6bHdLbVU2aV9pUlZ0RU5URFl6N0pUX1Y3Y1RoajZndVY1Tkp0ZS1Dd0Nja2p1Qk9IbGdOeDFtdmlwY05OVndrSzFZa2M2MmlDWWhuNk9oZlF3OEx1Q0ZwYTRVU1h5dFJzblhzOGx1bmlVMlZfQ2FSREJNUQ?oc=5"
-      },
-      {
-        "title": "Wiadomo, kto będzie rzecznikiem rządu. Premier Tusk zabrał głos - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjhjUUdVdnpOQVA3MEQxSVN0RTJleEc2ZUh3TU9uYzFOSmI2bF9fTjUxVFJrLWxVU25SY0tDR0JtamhidDVKV29vT1VsU0o3Z3FKanVJaldVb2p4eVV0dXQ0Vml5WEpmUEpvWDZydmlmTmhGZjdpQ2dmQmZ3dHVTSlMxOFVfOTBwM3d6ODJ0T1lnYngyel9R?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-21 01:13:40",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trąby powietrzne, grad jak jajka i silne burze. Nadciąga załamanie pogody - Polskie Radio 24",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzBGUjZha25RMG5oS201aENNN2tyYlpPOUpCUzZyRmtyaUJGQzJDQms5eVBzQWh6OEx0NWV6bW5MQWpJdFhTdVhNNnhlWjE5bHBjSmFwSEdZUllpXzBENThQVndCT2R4dHI2UXZrb3FXV0xpVlk4QzdNTko0NThDU0JIdGVGQ0VlSmJDSGFadUpDcEhoSnVHZ3RxZ3pLWEpvV0t3SjB6b0dMYkNhUnZvRnNmbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-23 08:22:07",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.7067,
+      "EUR": 4.2709,
+      "GBP": 5.0002,
+      "CHF": 4.5423,
+      "JPY": 0.025505,
+      "AUD": 2.4047,
+      "CAD": 2.7062,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 378123,
+      "DOGECOIN": 0.572963,
+      "ETHEREUM": 8345.65,
+      "LITECOIN": 299.55,
+      "RIPPLE": 7.53
+    },
+    "indices": {
+      "^WIG20": 2735.44,
+      "^WIG30": 3548.42,
+      "^WIG": 3548.42,
+      "^NCINDEX": 248.37
+    },
+    "news": [
+      {
+        "title": "Atak USA na Iran napędzi Putina? Ekspert wskazał, co może czekać Europę - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGFFNHlNMTI4OFJOUlQ5ZnN3LS12em45T0Q2VHV1WElGclJ2dml5akw2cEhjbUNtU3NtcFdLOFZUWWh4eGh2UzBXWHBDelFwaUx2QUxOb0ptX2JjNUVmQ1FYRmEzM3hmS2RSMjVQWEdqaW9rUXVzenpwNHE2MXU1eVlyaThybDRJZW9PU1diYTVsTWFVbjgxOHdPTlBMQQ?oc=5"
+      },
+      {
+        "title": "Seria potężnych eksplozji w Teheranie. Zaatakowano również obiekty wojskowe. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXBaX3NnLUJ1Q3JfQXRhV1FPeTZfblAzei1oT0pkbkdGN1FZeXdGSnl2b1NRZlRYSDBhamZWTmhPWGRsenBRT3ZyOGdkUWp3ckNLc2h2ZFdDZlJ0SG9IR0RJQWVsM05KU0dGMGRMQW5xdGdHTjZJek0zNUZ0YmxKaFNUODd3NEhrdG9WenlIM3liNk16VDcxOUc4OHZyVUdYZDRudHlFb3E0aVpIQWFpV2toQXFxSGgzRnBHN1B2azlmNUlvR1dkalhCcFFXYWdUei0xem5BNFg?oc=5"
+      },
+      {
+        "title": "DOMINIUM - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JX0YyU3hjekNZOGQyajE1UG5kcERSQ0VjaWYwOWFyNi0tNlF6aG9ITzNCOHZhb0FmOXpUTHk3MHQwbnNLR2tNUmxvSE10WThhTUx6cEZkNVIxRWJMdVJ0QQ?oc=5"
+      },
+      {
+        "title": "Trąby powietrzne, grad jak jajka i silne burze. Nadciąga załamanie pogody - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzBGUjZha25RMG5oS201aENNN2tyYlpPOUpCUzZyRmtyaUJGQzJDQms5eVBzQWh6OEx0NWV6bW5MQWpJdFhTdVhNNnhlWjE5bHBjSmFwSEdZUllpXzBENThQVndCT2R4dHI2UXZrb3FXV0xpVlk4QzdNTko0NThDU0JIdGVGQ0VlSmJDSGFadUpDcEhoSnVHZ3RxZ3pLWEpvV0t3SjB6b0dMYkNhUnZvRnNmbw?oc=5"
+      },
+      {
+        "title": "Węgry chcą wykorzystać wojnę Izraela z Iranem? Orban apeluje do Unii Europejskiej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FoNzdWR0FXZmNPT19vM1RWQ2tTRHlfLThIU0hmbXY2LW53OFhJaFI2WU85T1JFYTU0ZmFvT0FVX2VrQUZ2dUcya0V6YndRZkRVaXgyaWRNOHk4VmdhTHdZaUhEckRrWHJiaFItZDFiVFQ1eXZKU25Sc2kwLWZjOXdkY18tdmlOV1BEX3QxdEpidWV4bHE1dzJUNEZ4eUlEenlsRkdGdDZJaHpvSzJPT0s1RFVQUQ?oc=5"
       }
     ]
   }
