@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-23 08:22:07",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7067,
-      "EUR": 4.2709,
-      "GBP": 5.0002,
-      "CHF": 4.5423,
-      "JPY": 0.025505,
-      "AUD": 2.4047,
-      "CAD": 2.7062,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 378123,
-      "DOGECOIN": 0.572963,
-      "ETHEREUM": 8345.65,
-      "LITECOIN": 299.55,
-      "RIPPLE": 7.53
-    },
-    "indices": {
-      "^WIG20": 2735.44,
-      "^WIG30": 3548.42,
-      "^WIG": 3548.42,
-      "^NCINDEX": 248.37
-    },
-    "news": [
-      {
-        "title": "Atak USA na Iran napędzi Putina? Ekspert wskazał, co może czekać Europę - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGFFNHlNMTI4OFJOUlQ5ZnN3LS12em45T0Q2VHV1WElGclJ2dml5akw2cEhjbUNtU3NtcFdLOFZUWWh4eGh2UzBXWHBDelFwaUx2QUxOb0ptX2JjNUVmQ1FYRmEzM3hmS2RSMjVQWEdqaW9rUXVzenpwNHE2MXU1eVlyaThybDRJZW9PU1diYTVsTWFVbjgxOHdPTlBMQQ?oc=5"
-      },
-      {
-        "title": "Seria potężnych eksplozji w Teheranie. Zaatakowano również obiekty wojskowe. Podsumowanie nocy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXBaX3NnLUJ1Q3JfQXRhV1FPeTZfblAzei1oT0pkbkdGN1FZeXdGSnl2b1NRZlRYSDBhamZWTmhPWGRsenBRT3ZyOGdkUWp3ckNLc2h2ZFdDZlJ0SG9IR0RJQWVsM05KU0dGMGRMQW5xdGdHTjZJek0zNUZ0YmxKaFNUODd3NEhrdG9WenlIM3liNk16VDcxOUc4OHZyVUdYZDRudHlFb3E0aVpIQWFpV2toQXFxSGgzRnBHN1B2azlmNUlvR1dkalhCcFFXYWdUei0xem5BNFg?oc=5"
-      },
-      {
-        "title": "DOMINIUM - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JX0YyU3hjekNZOGQyajE1UG5kcERSQ0VjaWYwOWFyNi0tNlF6aG9ITzNCOHZhb0FmOXpUTHk3MHQwbnNLR2tNUmxvSE10WThhTUx6cEZkNVIxRWJMdVJ0QQ?oc=5"
-      },
-      {
-        "title": "Trąby powietrzne, grad jak jajka i silne burze. Nadciąga załamanie pogody - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzBGUjZha25RMG5oS201aENNN2tyYlpPOUpCUzZyRmtyaUJGQzJDQms5eVBzQWh6OEx0NWV6bW5MQWpJdFhTdVhNNnhlWjE5bHBjSmFwSEdZUllpXzBENThQVndCT2R4dHI2UXZrb3FXV0xpVlk4QzdNTko0NThDU0JIdGVGQ0VlSmJDSGFadUpDcEhoSnVHZ3RxZ3pLWEpvV0t3SjB6b0dMYkNhUnZvRnNmbw?oc=5"
-      },
-      {
-        "title": "Węgry chcą wykorzystać wojnę Izraela z Iranem? Orban apeluje do Unii Europejskiej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1FoNzdWR0FXZmNPT19vM1RWQ2tTRHlfLThIU0hmbXY2LW53OFhJaFI2WU85T1JFYTU0ZmFvT0FVX2VrQUZ2dUcya0V6YndRZkRVaXgyaWRNOHk4VmdhTHdZaUhEckRrWHJiaFItZDFiVFQ1eXZKU25Sc2kwLWZjOXdkY18tdmlOV1BEX3QxdEpidWV4bHE1dzJUNEZ4eUlEenlsRkdGdDZJaHpvSzJPT0s1RFVQUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-23 09:15:54",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Podwyżki w służbie zdrowia. Minister zdrowia ogłosiła decyzję - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTUwbVJ0VHU3VjlIYTBhUFc3VEdIa1FHeWNUVV9xYmx3TTZ5NXg3RGhtNHoxVjcyWHFnak5VZ3RjR3JFZDNjdm5tR0NnTlRQNnBPWFZrUHljUFpsRXJCYlp3TFpTblNLS0tnU3RrZG5hdWt6aXUtVldselBhS19zUGZXSF9wSVg2MDd0UXltcWtOUlFJckEySlBvSURBdlpVUGRFeDlfYVpTVVhSTEM4UnkwYkVGdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-25 14:29:16",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.659,
+      "EUR": 4.2479,
+      "GBP": 4.9843,
+      "CHF": 4.5427,
+      "JPY": 0.02515,
+      "AUD": 2.3772,
+      "CAD": 2.6663,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 392196,
+      "DOGECOIN": 0.604036,
+      "ETHEREUM": 8873.41,
+      "LITECOIN": 309.45,
+      "RIPPLE": 8.02
+    },
+    "indices": {
+      "^WIG20": 2756.77,
+      "^WIG30": 3583.26,
+      "^WIG": 3583.26,
+      "^NCINDEX": 246.38
+    },
+    "news": [
+      {
+        "title": "Sławosz Uznański-Wiśniewski leci w kosmos. Kiedy dotrze do ISS? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTFnT24zVnRiZDl2TmNGaXQxcEpNOGJIaGpDRDFoNEJMeDhad0Y2Y01xQ09zQ3JQTlVxbG9uel9tUWhOZ1ZweTByS2E0Q1I5TjFnTXZkWTBBRUgza3FLY2o0bG5mSVN4YmQyVTlBZkdQOGhTZTRCaWstbkxUZjBVSklseGdaZzZTcWg1OWZiQV9HNnkzVnNNaE9tcWhKMGVWVmE2eHdaOFBiMlZoR2dVcW1wWjRuVmhuRFhfTnFKdlpha21pZnMw?oc=5"
+      },
+      {
+        "title": "Nieprawidłowości w warszawskiej komisji. \"Niezabezpieczone koperty\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOckJBMEtrTHJBRDltRnVZZXpiZmFEa1BLVU9PRG42RHdTV1NWVG9wUFJqWHVQZ1dyM2xJb0Rwb3VOT0QzclhmVVhmYWhkRk5lbUNSWTZjU2ZpUnUzQ0lOZWV4YVd4eEc4Y1ptZHNXZ2RwNU1mNFRvUk05Mi1scG9pcVJZemJwRVFnY2xkamhSTVJYNmt0OFFtaGItcDdJbnN3QUEzYUt5dnBUXzVvRnJoX2Q4QlAtdkpKZTZNTTZfQklIOVpFeWlJSXlDN1RiU2RDMzU4UEZn?oc=5"
+      },
+      {
+        "title": "Duda odpowiada na kontrowersyjne słowa Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc1d5TDdaWnlhdFhBSHYybVJVVWxOZ3JhN0c3cE5ueDJMRk05d2RkRzBDVml0eTYxLTh4Z1E4NXhMTFJVNE5GcW00Slhubnh1NEdoSWJVR0gzLUVDU3F5YnVUck5VMHdtVjFoLXBoSmJabWttZmpvckFlekdueEJNUE9sUjdDSFU5REd1Z3hmdUNIQQ?oc=5"
+      },
+      {
+        "title": "Sąd zdecyduje w sprawie ważności wyborów. Jarosław Kaczyński zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2hZWmprQ01PMmcyRDhJSTdETnNiVUVwdDVLT3dyYU5DZGRmeUdaN2JQUDVjeENqRHFaMTRzVklNNzhiSUw4dHdPcW4wdkZRSER6d1QxeHR4N2VBYlcxTkRlR2dDeE9pQndLWXJONV94LUlrNGpwU2g2QTU1U2dVcDJFTHhtRWtpOHR4V0k3aE1mbnlhcDEyZFRQWmUtZUpmV3F5WFFBb1BreTBWbzNtN0hsWTlTRFlTLTFsT0pJbm1nUmZXZzF0dzhhVXNjckk?oc=5"
+      },
+      {
+        "title": "Wielka porażka Trumpa. Irańczycy kontynuują program jądrowy - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi11R0pZX1FJOERkVzBWWXY3UmpTeXMtUVNidHgyY2cyb29TVnZ2ZUdmLU5QeHJNN2R2VmdsODJGRzJSVXhjelJULW5jdWctcUgxRjk4eW5UamI0Q1I5Qk1zb0tYUnFHdFdadnZPWnJqUmVENWZ5RkFsX1dUY1hEUHRpeVFBV05jUF8xb21LNU10NWxiTFVnUy1scW3SAZoBQVVfeXFMTVh6bUthbmJJdTdkRGQ2VVdFdVhBTWQzeUdMWW5oN2NXaDZoaXFtSTZUOGpsQmVFQl9lenprNlRKV0JHRXMxOHdaRTFOREN0QWQ2cXFXZktIVUZYck1DX2dqUXp0VmV5YnRYUnRkY1I5UU5KNTFabTRTRUlkajdleEQxWUc0MTZGTW1EWUtVSXVrU3VOM2sydVlfdw?oc=5"
       }
     ]
   }
