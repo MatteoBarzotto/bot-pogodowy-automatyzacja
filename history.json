@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-23 07:16:48",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7067,
-      "EUR": 4.2709,
-      "GBP": 5.0002,
-      "CHF": 4.5423,
-      "JPY": 0.025505,
-      "AUD": 2.4047,
-      "CAD": 2.7062,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 376954,
-      "DOGECOIN": 0.569301,
-      "ETHEREUM": 8333.06,
-      "LITECOIN": 299.2,
-      "RIPPLE": 7.52
-    },
-    "indices": {
-      "^WIG20": 2735.44,
-      "^WIG30": 3548.42,
-      "^WIG": 3548.42,
-      "^NCINDEX": 248.37
-    },
-    "news": [
-      {
-        "title": "Trump uderza w irański program atomowy. Miał realny powód? - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBERkZ2VTlRRlVZRXg0ejNfNDVYUk0zeG1rcUppQ05sdWxKbnJ6VnI4QjVnZlV5blhMS3hJZm9tcXZrX2swOU0ya1NaNTZfbXpvb2RLdWNYZ0ltWTNxOEEwSm1JN0VER3NUMlJkVWUtQ1p0UG9EeTI3Qmg5MG9nbzQ?oc=5"
-      },
-      {
-        "title": "Izraelski atak lotniczy na Teheran. Wstępny bilans ofiar szokuje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTNRN3NfS1VOVkpHd1pNQU9xZDBSU1BRREpiems4dnlPTWRhVkp4MlZPSFo0TnN4TktBRklpN0dlZ0tfTnRsY2hfb3F6RUd4LWJLSTBLbEE2dzlPQ0h6ZlNJNmo3ejJGTnEtM00xMjczWC0yTnlJRjRkSlJwTVlmdXpiMmMwdW13RjJvUi1VUk92MTlPOVVnZTdRSTVCb3lYYm5tR081Q0MxZw?oc=5"
-      },
-      {
-        "title": "\"To poważne zagrożenie\". Orban alarmuje ws. planu Brukseli - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaktjU2RkQnA4eXNleFJvTGljMTBtbG1jdXlINmlMc21nQzB2TTA2WVJJZlVSUi02Q2JHTWl5a3NWcl9YeFM1a2FvUEFfZnhHZTBIVDk0T0NabFlsRTJnY240U2ZSTDl0NjN1dlJkRUNtTk5keVJWdW0xdVFrOS13c3FVaGcxT1pzbXllOF9aWTA3LVRIeVp2OThnSGpZSzZMb0c5UnBmRVo3aHVpNXc?oc=5"
-      },
-      {
-        "title": "Chiny potępiają ataki USA na Iran. \"Poważne naruszenie Karty Narodów Zjednoczonych\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRm15NkpiakdmS3ppaWIxZi1QblpPWXN6YTcyaUNTYjZOTEtvcGp6X1E2b0JQdnVXOHlLSldzaGlxX2ZxTG9LOWFySUJGN2lEUERQRkFGQ050d1U0eUlKTExaLUdhMkJVc2wtUEhLejNKX0huWjhkWkJSbjJEd0tTZzJJS2FQZTEwdUtxOUlDek1IcWhXVHFTOWpwaUVwZnBFMTZrT3AzcGZSQjNBaVZSV0Z4Zw?oc=5"
-      },
-      {
-        "title": "Trąby powietrzne, grad jak jajka i silne burze. Nadciąga załamanie pogody - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzBGUjZha25RMG5oS201aENNN2tyYlpPOUpCUzZyRmtyaUJGQzJDQms5eVBzQWh6OEx0NWV6bW5MQWpJdFhTdVhNNnhlWjE5bHBjSmFwSEdZUllpXzBENThQVndCT2R4dHI2UXZrb3FXV0xpVlk4QzdNTko0NThDU0JIdGVGQ0VlSmJDSGFadUpDcEhoSnVHZ3RxZ3pLWEpvV0t3SjB6b0dMYkNhUnZvRnNmbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-23 08:22:07",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Prezydent Iranu Masud Pezeszkian potwierdził zakończenie wojny z Izraelem - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmhXZTdNSFRTMWctakpZbWI1MlJiY2t1Sk82QTY5dHllNFdBUTBUa01BcWttenJuTk5zYThuc0QyLVJaVldsNUtXSXdNSlBjWUNFYnd2UFA3cDk2QVRQUlBQV0Q0QVVfQTZEcDQ5Q2k0YkVYVFNaVTROc00zOWxWWUxTYmZmTklaQTd5LWxkYWJHbktEUmUwS1RKX3BqT09fcExodUhQSW8tSWJWMTctemV3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-25 13:12:56",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.659,
+      "EUR": 4.2479,
+      "GBP": 4.9843,
+      "CHF": 4.5427,
+      "JPY": 0.02515,
+      "AUD": 2.3772,
+      "CAD": 2.6663,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 391817,
+      "DOGECOIN": 0.604478,
+      "ETHEREUM": 8876.83,
+      "LITECOIN": 308.81,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2751.87,
+      "^WIG30": 3577.19,
+      "^WIG": 3577.19,
+      "^NCINDEX": 246.03
+    },
+    "news": [
+      {
+        "title": "Sławosz Uznański-Wiśniewski leci w kosmos. Kiedy dotrze do ISS? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTFnT24zVnRiZDl2TmNGaXQxcEpNOGJIaGpDRDFoNEJMeDhad0Y2Y01xQ09zQ3JQTlVxbG9uel9tUWhOZ1ZweTByS2E0Q1I5TjFnTXZkWTBBRUgza3FLY2o0bG5mSVN4YmQyVTlBZkdQOGhTZTRCaWstbkxUZjBVSklseGdaZzZTcWg1OWZiQV9HNnkzVnNNaE9tcWhKMGVWVmE2eHdaOFBiMlZoR2dVcW1wWjRuVmhuRFhfTnFKdlpha21pZnMw?oc=5"
+      },
+      {
+        "title": "Kto zasiadał w komisjach, w których zarządzono powtórne liczenie głosów - wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWlCZEQ4aWdlNy1kMDVEN096VGFLdmJBV29fQlN0THNtcjFLTmlfZFhBZWJFekh2Rmlqbk5mMlpNT0oxRG45U3NncUw1NXFhd3pvend5SGw1X0otX0tjQ2EydjV1WkZPRS1uVXViNE9SQTlXR08zWC1Ga2pNdTUxRnRBOVVPbklnOFRzeFF3YW11ZmlSRFBKTVR5cnoxRkx5a0pZQzJJWDZuZ2MwNHVjSFpVSDdsN015UVJrWnlCbw?oc=5"
+      },
+      {
+        "title": "Trump wycofuje się ze swoich słów? Zabrał głos ws. art. 5 NATO - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2I0aGtkc2g2ZHE2aUMyNGp2a1dxVUYwRlFqeE1kQVYyY0VIak56MzV1bWdJTU9iSW10djBqdVVBek5wckdpdzRKbGJSUDVCLTZpN2M4WFJXZ1hreE5BYnJ4SDBXa0FWU2VlMnhhaVRUcnl6NURiY191UERmc2JhcVJnek5ZWmFUR0JXNlRMeHJFNXRWQ2lyU3htd3NkLVEwSVNzR19kRDhwRkVyZmhucjVDRHU?oc=5"
+      },
+      {
+        "title": "Sąd zdecyduje w sprawie ważności wyborów. Jarosław Kaczyński zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2hZWmprQ01PMmcyRDhJSTdETnNiVUVwdDVLT3dyYU5DZGRmeUdaN2JQUDVjeENqRHFaMTRzVklNNzhiSUw4dHdPcW4wdkZRSER6d1QxeHR4N2VBYlcxTkRlR2dDeE9pQndLWXJONV94LUlrNGpwU2g2QTU1U2dVcDJFTHhtRWtpOHR4V0k3aE1mbnlhcDEyZFRQWmUtZUpmV3F5WFFBb1BreTBWbzNtN0hsWTlTRFlTLTFsT0pJbm1nUmZXZzF0dzhhVXNjckk?oc=5"
+      },
+      {
+        "title": "Podwyżki w służbie zdrowia. Minister zdrowia ogłosiła decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTUwbVJ0VHU3VjlIYTBhUFc3VEdIa1FHeWNUVV9xYmx3TTZ5NXg3RGhtNHoxVjcyWHFnak5VZ3RjR3JFZDNjdm5tR0NnTlRQNnBPWFZrUHljUFpsRXJCYlp3TFpTblNLS0tnU3RrZG5hdWt6aXUtVldselBhS19zUGZXSF9wSVg2MDd0UXltcWtOUlFJckEySlBvSURBdlpVUGRFeDlfYVpTVVhSTEM4UnkwYkVGdw?oc=5"
       }
     ]
   }
