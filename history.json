@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-25 17:15:54",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.659,
-      "EUR": 4.2479,
-      "GBP": 4.9843,
-      "CHF": 4.5427,
-      "JPY": 0.02515,
-      "AUD": 2.3772,
-      "CAD": 2.6663,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 393038,
-      "DOGECOIN": 0.601092,
-      "ETHEREUM": 8846.8,
-      "LITECOIN": 309.35,
-      "RIPPLE": 8.03
-    },
-    "indices": {
-      "^WIG20": 2749.16,
-      "^WIG30": 3575.58,
-      "^WIG": 3575.58,
-      "^NCINDEX": 246.78
-    },
-    "news": [
-      {
-        "title": "Przełomowa decyzja NATO w sprawie wydatków na obronność. Prezydent Duda reaguje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVTg3TW1Pb2VlUEY0cW03QjQwNW9HQUx1M2I0TmR6Tk1RRktxT01KSEJsU1Y1Mzd0NmJhQ08weDdsRDlfeV9GY2p0YS1mbXQtSEJ0TU1sV3p0U0ZDQk9YUXVzMkNaWGs5OW81N1l1MllwaWdveElCVzVTLXRJNjlXYWVwam1OUF9GOGgyTFNkTHF4NVlHcXczRFVfb1dnWFhtdU9zUUNQelNlTmNFTEZOcG1VMG5fOTQtbTR0d2NacFVOSUR0WEFjaTNMSUFUOC1CU2VOakRvZVk?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski leci w kosmos. Kiedy dotrze do ISS? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTFnT24zVnRiZDl2TmNGaXQxcEpNOGJIaGpDRDFoNEJMeDhad0Y2Y01xQ09zQ3JQTlVxbG9uel9tUWhOZ1ZweTByS2E0Q1I5TjFnTXZkWTBBRUgza3FLY2o0bG5mSVN4YmQyVTlBZkdQOGhTZTRCaWstbkxUZjBVSklseGdaZzZTcWg1OWZiQV9HNnkzVnNNaE9tcWhKMGVWVmE2eHdaOFBiMlZoR2dVcW1wWjRuVmhuRFhfTnFKdlpha21pZnMw?oc=5"
-      },
-      {
-        "title": "Ponowne przeliczenie głosów w dwóch komisjach. Sąd Najwyższy ujawnił wyniki - Interia",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTi03MFRQa3k2RTFxSEtCUnVDczhVSWRtUllqVmVhdVZrVldOQVZwbmVkTzdtdHRTeHJDRElTakxYaVdPVVZzNEd0Nm5LN0p3TVRoZk5UZURDRlJSZEhLTmJxUEVyNzE1VVJ4dGtuazloemVLT0hxenEzem1kMmQ3aV9keUR3VjJpaERxd3JPaTFTXzJUSGQ1Sm96UkY3YjUwZWZhMTB4d3R2Xy00X3M2S0lXRWxZQi0tWmttR3FLenZ6UHNmOEE?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy zdecyduje o ważności wyborów prezydenckich. Jest data - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWRSSmI1dXhVRGRCYnQ0d2Jyb3dCT2hmQXhZamVnZnNoYV9DYnJxTmttWlNZY2w3dHVsbFpsS3dDUUp0N0I2cDV0RFB3eFNwNnFERUtIR2NQX0JNZHkxeEo5enhkUVhIUGVJWWw3Qkw2X1laOWJfTG1MaWlqMUt2bFlHQ2VfbXk2OTlFamVyZ3Atc3dyVV9kcmwwMTJtSFZsQXhXWktB0gGkAUFVX3lxTE94XzVtdU5hYlktekluU29reTNBQ09RbHdYY25ndHlwSzkxTzJCV2o2RFMxUVFISmNnYVJYaXV6OHdYOTdQd0N0RkNqZlBNUU5Ga09YUkE4YkxNSVcxNFE3Mk5qaVZrci1yLW1tbDREOXFSMUI5RERTbzlrV3YzVUhyR3kxeUNGTi02TDRnZW4ycGw2MkNlcjFCTUlkeU5rYXNCbmg5?oc=5"
-      },
-      {
-        "title": "Trzech nastolatków zaginęło na Mazurach. Nocą wypłynęli kajakami na jezioro - Olsztyn.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjc4eDdDaF9zXzBVSXJ0WWI4bjM3ZE92Vk9OVFlNdDJteXNGSlpSYlJkN1F4UUxvdlItdXlmX1RpS1hxOVBWdFlzS0pYeGpYTnpmTUw1RGdzdVBfOFdFM2dSWEVoWjZvM19IdkxRQ0hhd3dxNTkzLXNMZEsyV0wta0tGTlpMNFhYQmo5TDhHbndEaGdzai1NLU9KcW56WFZETC1OTXRSeEUwQUlWVGE2OURPLVN5QzA0RlpEXw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-25 18:18:24",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2638,6 +2585,59 @@
       {
         "title": "\"Kończymy wszelkie dyskusje\". Trump zrywa negocjacje handlowe z Kanadą - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenFKMXRpR185d2V0eUxCY0dsckhyUkU5Yjk4Ull6Q2lZQnJjbXFvNElidk4xaTBJSXV5M1dkc2dpQWJreW5xZVlJaXRtLWtIZTZQRFJldXBWRHpYTVZPcUhlNTNNLTE4WXVkYUNQZnZNdXc3NkttSlhIaE95WWQ5VDVxdDIwTTRkLUF5VWY3YmFKUlAtUkI5NHU1RGhPa0NJWW10RGhRVkZkOThQTWFLTEVvZTd2SEJjWHQzYUlTaw?oc=5"
+      },
+      {
+        "title": "Plan rekonstrukcji rządu Donalda Tuska. \"Pudrowanie\" to za mało. Pięć wniosków [KOMENTARZ] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmFscWNSVFNLYWNBZ0ZCdG40XzJQS1kweFdBSUJNNnNoWTZvQ2kwY1lTRFRWNHdRVWtWWUEzTnRFMWRodkw4cVFwWWJhYVdlMUZrVFVUV2w3aWM4NEl4ODY1TGdJeVlCS0FMUkpWdW1VWU1aNW83Qkl2NlpZbUVxOGU4YURxdXJRaWpRQm9JYlE3WGZsbGtwTC1TVzFhclZVaUxUMnFld0RCU0xnMzVYLTA5LTIyTkk?oc=5"
+      },
+      {
+        "title": "\"Plan awaryjny\" Nawrockiego. Sztab szykuje się na komplikacje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDZlbkpBS0JyVXY0SUlramo3RnZCcHl1dXUxTzdQdXhoYlMzdVFzajRSTTNiSmFRUnNRZXo1b240WTA0VGlfNG5uT0E5N3hudDJoVUFTb1VpWkNrS1pLTzVxTXhCaWdyQjJxUU9VdXo0U2c4OXFlOWkwM0hqaUtJMEtzRzRRb2d0S1pYeEV0RVdGc3NNQzJTMmVuZ2xBRnhDMUJB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-27 23:12:12",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 388246,
+      "DOGECOIN": 0.581585,
+      "ETHEREUM": 8787.86,
+      "LITECOIN": 306.67,
+      "RIPPLE": 7.65
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Tadeusz Duda to myśliwy?! Były policjant mówi o drugim domu zabójcy spod Limanowej - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcE9PM2JjZTBMRzlUN25uc3dNM0hhM1FBRy02RkpYYTBaazliWHVrUV8yUW4yUVNWTThyVExqVHBsRllMTUtxbC16Y3FBUi15NTVRQ0R0NElHdTIxck54MEVCcThJZTUxMnZoVF9RaDZfVkRwQ0MwbDctSDZ5MG51ZjY2V3VOa0hRVTBrUlpvYVN5OTFfc3ZyVV9RTTY5dnZPMFB5RW9MOWgwM2pxdzlnckN6djhLenpH?oc=5"
+      },
+      {
+        "title": "Protesty wyborcze pod lupą Sądu Najwyższego. Czy incydentalne błędy mogą zmienić wynik wyborów prezydenckich? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2kteFRxQ3dPODdVZEljSDU0dXZfMEVSMVE0RldWTkNvNFVWUm80TEVEeUNHbDZ6QWYyQ2ZZMHJDUU0yU3lybHFfanF1SzhmY19aeGRzbGxFT3lHTXZtQkd2anNnT1lHbmJrd2F3UDIwanZiVUx6WXlQbURzV0hiT3ZWd3N0M1VWR21xTWU4OHQ3TXFuZXVQQVVBYnVka1lRSVJHdFlwYV81alEtYVE5VHYtVVQ?oc=5"
+      },
+      {
+        "title": "\"Porzuciłem wszelkie prace nad złagodzeniem sankcji\". Trump w mocnych słowach o Iranie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU25jMVFVcGxSRWpEMmNPSHdBQXJYTVBDQ19MdFN2MWxCLVo3MEJqMnZGZGl1X0ZOejR0ckphVzlXVTlnc2dZenR0RW5abHc4dUg4TUYxLXUzazJiYnpaejU0c2FOSms4OWppUC1KcGFaSGFLSHZSMTNBUk5RVWpTR0xXek16MFMtUC0xTFd5d19IS3ZvclVpTElkMmRkUDV4MjlYdHVaempHaUZlUk9PS0dyZzItcm5GWVhsNnpJMkk?oc=5"
       },
       {
         "title": "Plan rekonstrukcji rządu Donalda Tuska. \"Pudrowanie\" to za mało. Pięć wniosków [KOMENTARZ] - Onet Wiadomości",
