@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-25 07:16:12",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6753,
-      "EUR": 4.2604,
-      "GBP": 4.9984,
-      "CHF": 4.5294,
-      "JPY": 0.025329,
-      "AUD": 2.39,
-      "CAD": 2.6795,
-      "CNY": 0.5121
-    },
-    "crypto": {
-      "BITCOIN": 388756,
-      "DOGECOIN": 0.604064,
-      "ETHEREUM": 8912.4,
-      "LITECOIN": 311.38,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 2762.7,
-      "^WIG30": 3583.52,
-      "^WIG": 3583.52,
-      "^NCINDEX": 247.08
-    },
-    "news": [
-      {
-        "title": "Prezydent Iranu Masud Pezeszkian potwierdził zakończenie wojny z Izraelem - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmhXZTdNSFRTMWctakpZbWI1MlJiY2t1Sk82QTY5dHllNFdBUTBUa01BcWttenJuTk5zYThuc0QyLVJaVldsNUtXSXdNSlBjWUNFYnd2UFA3cDk2QVRQUlBQV0Q0QVVfQTZEcDQ5Q2k0YkVYVFNaVTROc00zOWxWWUxTYmZmTklaQTd5LWxkYWJHbktEUmUwS1RKX3BqT09fcExodUhQSW8tSWJWMTctemV3?oc=5"
-      },
-      {
-        "title": "Polak znów leci w kosmos. Po 40 latach. Tak zyska na tym Polska - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYW8xMUhJV3drM0h3YkFScTcwWGREeFJxU01LMXRwN0VGSFdSSnZGdkNaVVFDWl83OU0wcVRhWVg0OS01NXNTSUdMaERvRThtVDdLeklEM0ZZUW11aDZEZ0VWd3ppWldyeFNkdy15NmRJcVJlUFBySi1KN0U2QTd3enJaVlBzaE96bExBUVhfc29kNXlMNzVka05VMHlvYUdMOFBzMmFtZ0c1OEhXd2JvUGlqbk1Wd1E?oc=5"
-      },
-      {
-        "title": "Ponowne przeliczenie głosów? Oto fakty i mity, które warto znać - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2ZjRVpic01SVHJEbFAzaFpCc0czTUU3TEZJZ2h3R2VoSnM4UkFUUHk4ZHZmNDcyNUNBS2RTVHVBbUZHSHJJVGNzWVFvd1RTYkl2TXpVS0dUUE1jZEZvamw0cE1FaG9SU01yV1cwVW5fbktjWUlveTNwdi1PNWxvX2lsbFFIUUhSMXFwUE52RUlWenJ3OWVDNVRCV2ZDRC1F?oc=5"
-      },
-      {
-        "title": "Obiekty nuklearne w Iranie. Wiemy, co z nich zostało po ataku wojsk USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2U2ZUQ1eHNFZDdJYnRhVTBTeTF5QmQzcUtMQ0ZZcVBITlJtaGR0ZUpJUjFvd1RneW5RSHJPMTdJdWRvb291amxWTDhSYVhtQlNkMHRWb2NHWExJME9fQWxVSXBBdDV0aUJUSTFYR3M3aVRPNmJZSDQ1OURaZ1RaOFNpcnJ1S3BKeGlneUdBVmpZZnE3bWpJY2JaTEt4YjJxS3Y1YTZuaXJvQ3pySWpHbXEtSkxMNXl0dDlOTURSSnVmSlZOVGtmaXNLN3U?oc=5"
-      },
-      {
-        "title": "Rutte do Trumpa: Europa zapłaci dużo. Ujawnione SMS-y od szefa NATO - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk16a1ZnN2cwMlpOR3Uyb1NmQURkMDdGRExSdE5zem9tR0M0V18zWWlVSzVpMjZiZXVfc05pV3FzQjdFc3doZWQ5OW5BUURlUFNxTkpwbm1MYVNmLUtHWllyTnp4UVBxZlVNb2dSSGFWb0NiUVhGRmFDTk91OXRoV2hSNFlmQVRVcDhwcWdCV3E5NEdpc3hnaA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-25 08:21:44",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trump przekaże Iranowi miliardy na atom? Szykuje się propozycja - Fakt",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenBJVVVCRjEzV01LOW1XLTV0SjBFdUg5YXl5WDFNYzVhNFdIczhOdWc1TW9zb0R1MzVkbFBieGp4c3IyOEdUbW9BWjA2cFpkcUVPdnZFcmg2bXc0ODF3Wkg2RHJGUzZJaUg1LVR2Y3ZJUm43M0VSVEtzSC13R3BBeEVLdE4tQWtoellHYlhFcEgwLXlSeUhwZ1ZKaUEwRVFK?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-27 13:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 387169,
+      "DOGECOIN": 0.582338,
+      "ETHEREUM": 8859.05,
+      "LITECOIN": 306.05,
+      "RIPPLE": 7.57
+    },
+    "indices": {
+      "^WIG20": 2805.19,
+      "^WIG30": 3647.23,
+      "^WIG": 3647.23,
+      "^NCINDEX": 246.58
+    },
+    "news": [
+      {
+        "title": "Sąd Najwyższy analizuje protesty wyborcze. \"Incydentalne przypadki\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2kteFRxQ3dPODdVZEljSDU0dXZfMEVSMVE0RldWTkNvNFVWUm80TEVEeUNHbDZ6QWYyQ2ZZMHJDUU0yU3lybHFfanF1SzhmY19aeGRzbGxFT3lHTXZtQkd2anNnT1lHbmJrd2F3UDIwanZiVUx6WXlQbURzV0hiT3ZWd3N0M1VWR21xTWU4OHQ3TXFuZXVQQVVBYnVka1lRSVJHdFlwYV81alEtYVE5VHYtVVQ?oc=5"
+      },
+      {
+        "title": "\"Wygrał Trzaskowski, byłam tego pewna\". Świadkowie mówią, jak dochodziło do pomyłek wyborczych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2ZmLW5MVy05N3dTMGI2aG5DT1M4ZERhOWxpZUY2OEp1OUg1a3JVMjg5VEJOdVB2M05CR0EyRThnblZHTkp5NWlIR2t6cmZyQmRBQzhHOWtRNHBXeEd5bnhiMGROWUE1azBOdHZHVDAxb2NIY1lXUjVCcllVdnBKSFNabFVRWS1wRG1jSlhzTG1kbmwyaTJWTEVaSHVYMVp0MmZCdVpzaEhaWW1Vem9WblNZNldsYkp6VUJYTU51ZFk1cklWamVzVUkxRnQ?oc=5"
+      },
+      {
+        "title": "Strzelanina w Małopolsce. Trwa obława. Sprawca może być uzbrojony - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVVjXzJacEhBanM5OHMzZ1JNZ3BUMDJEdW1Pdkw0UUY3b2sxdHhYSi1CWFlheVlLQTRRMUlJRU1qUkZRSVZVUU1fdW9kVmR0NEtxMUJnUVFrcVZ1Q09YVlFNWDJIc1VUck5qSUsxWGJCRFVkSXRmdVRyTHNMWXVBMkQtUzNRWUU0QmMwTGpwVUdwOTI3SGZPci03SWpIb1MxekU2UVVpLTE?oc=5"
+      },
+      {
+        "title": "\"Była trudna, ale dałeś radę\". Von der Leyen oceniła polską prezydencję w UE - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNpV25mMzNPY3RDWWdiVGFzQUVhMmp0dW1tSHl5eXcteFNBZ2RiWHduNlhad3lCeXI4b1JQcUhGbkR5bVlKbWRqSkFtVmxNS2hUVmFsdEU2c3lGWFBPV2ZTS2o5SDVqbTg0OWVmdUJ0blFZWHNsYWpFN2U1ZVJ5YW1TQV8taHhMOGRLS090bWNaZnUweFdZMVVZZEJFZ2ZOWnpuYTJjc205R1BRODM4UnV6dk9UX05FWFZsNldFc1gzNWM?oc=5"
+      },
+      {
+        "title": "Bosak o ponownym liczeniu głosów w wyborach - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQck5hZGZ6U2ZLZmtldlBaQVlFV2RiOHJ6MUs0aEJCVkJFbEJtRXBtMVI3RjJqNjRKY2tOQU9EQ2NXejJIeHNfZVJrTlYwSXZ4QlU2ZVJ3UkNlZXBsZEdpQ3lZZ2ZxUC03ckhaWlU1MmFrTzB6Z3FsbGpIV1NpWlNOdzNPUVBFMzkwUkHSAYYBQVVfeXFMT25EeDNkWllmOTJHdDJtYm9MLUR5dUhKX183ZF9Xb2xsSE9hRXJrOThOT2pUV2lDYi1RdnZSbXh6YlJJMkpYaDdYRVRSeW1UWV9YbklEdktaenRneXZJbHhqOV92Rmp3SG5BVEtVcGdtU0Y0S0NaSkxIQ3FTUXg3N2FRbkhlX2c?oc=5"
       }
     ]
   }
