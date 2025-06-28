@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-26 09:14:42",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.659,
-      "EUR": 4.2479,
-      "GBP": 4.9843,
-      "CHF": 4.5427,
-      "JPY": 0.02515,
-      "AUD": 2.3772,
-      "CAD": 2.6663,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 391757,
-      "DOGECOIN": 0.598245,
-      "ETHEREUM": 9028.09,
-      "LITECOIN": 310.42,
-      "RIPPLE": 7.94
-    },
-    "indices": {
-      "^WIG20": 2769.11,
-      "^WIG30": 3600.75,
-      "^WIG": 3600.75,
-      "^NCINDEX": 247.57
-    },
-    "news": [
-      {
-        "title": "Jest komunikat policji. Tragiczny finał poszukiwań dyrektora z NCBiR - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaG9pcnpuUTBPd0dONXJRRjZQeGRsUTFXWU13SFRtTE1MaVNQQUE4dkNQYUQydmxHZmJzTjlSWF9zUlRUeHBnbE93Y1dzSE9MTTNJWThBMldJRk5KMTh2czVmbUFUM1AyNXRJc3VRdXFjUi01emlvc05pVHNtTGZ0TXJ3SFJYTGVEaEdCUGxRSWh6WEN4bjF4Z01DZDUydw?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski leci w kosmos. Kiedy dotrze do ISS? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTFnT24zVnRiZDl2TmNGaXQxcEpNOGJIaGpDRDFoNEJMeDhad0Y2Y01xQ09zQ3JQTlVxbG9uel9tUWhOZ1ZweTByS2E0Q1I5TjFnTXZkWTBBRUgza3FLY2o0bG5mSVN4YmQyVTlBZkdQOGhTZTRCaWstbkxUZjBVSklseGdaZzZTcWg1OWZiQV9HNnkzVnNNaE9tcWhKMGVWVmE2eHdaOFBiMlZoR2dVcW1wWjRuVmhuRFhfTnFKdlpha21pZnMw?oc=5"
-      },
-      {
-        "title": "Donald Tusk podsumowuje rezultaty szczytu NATO. Zamieścił zdjęcie \"wielkiej piątki\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ081ZHBDaWJJWWNQdDdIQ3ExeHpkc0xNbU1XeHZ5WnVzSHd3N1FwcTBqVDBUV1NGS3lNeVBIN195M2pFYmUxdUdDUWlQTlVPQ2VhN0pyOGwtcG5USUVCN244bzQxMVQ0R2QzdjdDMEpIa3dhMVF2c2xUdmZQcHBBdG54WG92MFFEUzZ6UTJ2eEtpckh3S2xCQ1ViVnp1ejhrWkZFWVhEdHpHQnBFSzVVOElaZ3VBT2czZ2I2X3dCNjZ0OU9fR3c?oc=5"
-      },
-      {
-        "title": "Grzmi o fałszerstwach wyborczych. W KO mają dość Giertycha - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlVTeEVnVW9LQncyMUNBOTJtTkx1MnNoeVhUOEpHZlBBLUw2ODBGbjdVSEJ0TlRDUEFxcVNzOGJrd3Nma3JYVG5WTHdVZmVEeWpPYU9wLUgxS05ITVd5TFNvZ2MyM1NmNURhdlRqUE9pQWxKQ2RNRWhjN0t5aG9Ha29vbVluM2tuQVJlcGNjcWRrOHF4Mld4Z3J30gGYAUFVX3lxTFB4Y1pEeV9JSWpfUVdINHBvT3JDazl1dGRzdjhfSnZLbVVSQWphZHNXSUtMQjBUakRrTnRMU09xQUNuS29EVk0xUGlIQmRfcEQ2SmZyay1raVhsYmFrVjdqTWlkbFBpVnBQaUc2TmdjLVVMMWRqOGlZYk1BdzJjd1pEQklVY3VKcHFZSUlqUVlNbzdnZDBUNjRs?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy uznał protesty wyborcze. „Możliwe nieprawidłowości” - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFFjd1hiUTlnXzMtUkFuLXhEYVVzVmJpcGkxNVlWSkxQLXlRWHRZSXNfNlNBa2RLYUVmcG5SVU5QLWJuaHRuR25BVUtnYnFDMXRtdGpWeHJualJULXhQWUpzMXNZcGhMampiclBZaVFCQ2EySmZLb3lCMzJpVHlCbmNFM1Q1bVZWMnNwQ1BUQzMtcjlJSnRYelRjWG9iQ2VBdGRXZWRYQXNJbHhodGJQaWFsVUd2aDhtSmdRamxXTktrZjBQaHlIckhjNTZiYmstdXh5VTlZU0dMTFpnZjFQN3RkTE5EWk8tOGZKMG9n?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-26 10:19:30",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2638,6 +2585,59 @@
       {
         "title": "Polityk PiS wróży zmiany w kierownictwie partii. \"Będzie zaciąg\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXYteHMyVGFHc2k5YjdaQVhScS12bDVlT0FXTmtlaG5hRGVqRW4zRTg0RmtoN2J2dEk3V1NuOVd1d3F1VkN3UVNqV3ROcjZ2aHhaOGpHZXE4ZXNRQnNZTXZIb1Faa1pDZW5RSjhINkVuRFZySGY1dTZYdFFuS0RTcGhQZk9vbkxVZHctRHpieDBRQ2FBdVIyaHZ3U3B4dFU5VEtxSWwxSFNlcDlIVnhJbG5ubTNnRlg4Z044?oc=5"
+      },
+      {
+        "title": "Błędy w komisjach wyborczych. Ekspert: Nawrocki mógł stracić więcej głosów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUZZVjdWUXdib2hqSHFpMXktdW5hV1NpcVJsQUpiTTVYa1VsaHBldFZPbmpHTzBMVTFvTjdNX0NWb3FrbzVkQUJmc2g2YjlaNmVvUnhWTTlLSlN1NkpqVmotUlhlVEJrT0dIMmVrdWFRaGhQVlkwNXc4Y1gtOTV2NG9valV0TEQ2cjNtbTRxLXloc20ySzRSX2QtZ0t0Q0pqUmstVEp6WFR3d3NNcnRQY1NtNUFHdw?oc=5"
+      },
+      {
+        "title": "Sondaż. Polityczna przyszłość lidera Polski 2050 Hołowni - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFNHemxHUUpqUEFhdzJHb2l4dXBsbzRnb2N6LU5ZUDRKMGZ1WFcyNVpiU0ZOYmw3TVZQLUZ2a0dsem4zU3lKaVNDeEdPUmt6UG5LUzNGaW5RbFJkTkl3VmpjMGtkWnBjNzZMU0htVEtBdzRvMURUd0JBNDNfWWhWa0EwRnRBYTBHZDBfU1I1aU1iZ18zMmxFZll30gGWAUFVX3lxTE5RbGFfVHJDa25GeE51TG92c1VubjE1VlUwRnJoUzJSejNlNk0yVlRHck5pMEJ5NXlYVXlwUEpRakZ1MmsyM1JxQjh6M0p0QkxzTlp4cXU0NjNRaTdOSTY3b1ZVeFNYZjlFQld0cFJHVGVwQ0FfZWYwYnNjMGJNdHljSkRQcU03MGlQcFZhVHdtRmFqRUpRZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-28 15:22:55",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 388388,
+      "DOGECOIN": 0.58556,
+      "ETHEREUM": 8782.34,
+      "LITECOIN": 309.63,
+      "RIPPLE": 7.92
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Zbrodnia w Starej Wsi. Wielka obława pod Limanową na sprawcę strzelaniny. W akcji helikopter, drony, kontrterroryści - Gazeta Krakowska",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZVZka2hiVmVtY25ROTViYVFXRVZBd0hUVlpLZUZhSHA4bjc3dWJIckhsaVhEWjJXbXJwS0ZGMXY0b2N3YjJHanNTY0lSS3JCelhZdmhuQXYzUTRHZU01LTB4eW1vdVJiWFRDRkdxRV94Zzhtd1JZcmtpT3kxMDJrWmNpZWZoQzJmYzVWS1RwN1V3ZVhxd0kwZGRGLVpKZ1BwZ2xaNWpOSjE3Y25sazg3SkhMLTRLLVllVnMtZGpIZVd0UVBwMGI3VlFZTXNPZEtUZmgzVlRMMkw3MmR3SUlIVGlZVWpmZkVGWVRTNQ?oc=5"
+      },
+      {
+        "title": "Prezydent Andrzej Duda w Kijowie. Niezapowiedziana wizyta w sobotę rano - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnNURmhtMk02V0ZvY0VKUkloLWs4bG41X1pQOHNGYTlEMVFRZ0ZQN1RxRHk2VldCWGM4RmZpSl9pNVp5dktVRWdCbVRrWlFqV05nRTN0UTU2QTN4X0NqWFhWRklEaDQ3NGd3SmFpZDJmaVg0N3lncWtIUFNXaXRKYU96LVhvYWNoZkpwMA?oc=5"
+      },
+      {
+        "title": "VII kongres PiS w Przysusze. Partia ma być odmłodzona - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjNiczc5TmcyQ1ZBTFZtX2JQNUM1V05aQ0ZNNk1WdDVBT0toTy1DRHFKWWNwS3d4N21abzdPNWN2S29zRHFwRHFwWmxIU0FoLVRqU2V5YTVMUnNfTllEYzhoNEZKVnA3TWFjUHRzd1N0dGdmVkplN3dTY2lqRUJJbm1VUVRxeG1HNlM5SXhaSnhYcXJKSFBOSlg5Z0I3S1pUbmJiT2dvRURpSjNLOTYzRTJkdlJqQQ?oc=5"
       },
       {
         "title": "Błędy w komisjach wyborczych. Ekspert: Nawrocki mógł stracić więcej głosów - WP Wiadomości",
