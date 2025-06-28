@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-26 13:12:43",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6222,
-      "EUR": 4.2479,
-      "GBP": 4.9805,
-      "CHF": 4.5306,
-      "JPY": 0.025166,
-      "AUD": 2.3705,
-      "CAD": 2.6469,
-      "CNY": 0.5053
-    },
-    "crypto": {
-      "BITCOIN": 389479,
-      "DOGECOIN": 0.587565,
-      "ETHEREUM": 8893.51,
-      "LITECOIN": 309.5,
-      "RIPPLE": 7.89
-    },
-    "indices": {
-      "^WIG20": 2805.93,
-      "^WIG30": 3647.91,
-      "^WIG": 3647.91,
-      "^NCINDEX": 246.52
-    },
-    "news": [
-      {
-        "title": "Protesty wyborcze. Sędziowie Sądu Najwyższego wydali ostre oświadczenie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDlMX2RMbWZObE91djBMUmxaWmJTWUdSVHFYRC1WWVJfaUtkb1VWQ2hoNnVfeV9DVWdsbDRBM1QxX1BMc2FwQklvZkh4WVNtazJpd0VlR2NRYkp5cWk4OG1YcHJCSFM5TlBEcHdVcm9EWEZnRnQwME1yaDdwZlJ2XzUybGtzMHBYZFUwSXBkUnhrWjBMMEZFcHRBc2lmbDkzNjZSU1poMWdKSWQtOXJj?oc=5"
-      },
-      {
-        "title": "Jak dokują statki kosmiczne do ISS? Ten kosmiczny manewr czeka Sławosza Uznańskiego-Wiśniewskiego - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkt6cy1PVThnQi1Ud3M5YjY1a2EwaWZfLW1rcndVNVpWaWhQMVZHVFcxWTUySjBTeHJvSjVqVHhHYVp2LXdIS3RlcXhCV3RNdUFLUDgtcWRpWVBBVm8xZTB2dnBybWQ4UTJKeUJETzlwM1VEQXV5akF3RU41Vm8xTm9CWTFIZldYTlNhSS1IaldDYUhWbzBXaTlNelRHS3dCLVBxZVdmTzVZXzhpOUxILUtxVHc?oc=5"
-      },
-      {
-        "title": "Matka czteromiesięcznego Oskara opuści więzienie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0M2bU9tMVl3TmZPOEtEeGs3ekt2Q2k1SERjY0ZwYTdsWkFSc2U5NTBIQllzRVJMU2hGbWVsUHBobGtsYXczN01CdnpzbHlTbmRFZXVoUXJKUDM4YzhNTnVmRWpxRk5BWi1QejBZOWdUTjhLOEVOVXR5M1VidlgtSkZTcmR1Rk9SOFpXUnVxNVZmQQ?oc=5"
-      },
-      {
-        "title": "Trump pogrzebał zapasy wzbogaconego uranu Iranu. Nowe informacje wywiadowcze - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ19hd2JRWGpfWFJ4eDRfX29fbjEzaVh2NDN3N25YTXg2cHVyODFGUXE5WXdRWUhqb3ZDT3lrMThGMWg2WmktUXBya3VqMEFHMjZ2OHlCRVZ4NHgzM2stbjZtWXZzUjlHajRyQWhRWXNwU1ZOMEpJbEN2WTdnRDdzMlQ3dGdsSVQzdzdzb0NZN1E1bkl2SmpSZzV3V1IxX1MtU2IxZzFhaUNHejk2R2Y4M281bTY5dFdQaXAydW01UU00WC1QRUhVbThR?oc=5"
-      },
-      {
-        "title": "Klarenbach sam przyznał. \"Stawiłem się, zarzuty usłyszałem\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTJROHROdzFhVDF2OGRPZnN1Qm9VcGFRS1FJUm5ha0lGX2J3UlRqRzNhNzdlOExPZmdSZUNzaXZ1UDhnMzZyai13dkdQOHJ6VEZ1dFFMalk3QW9pb3FCMnkyeWhsUU5tenJqRnFSYnJILXdOSjNIcXI4dE5XWGFfZV95dHJmRHJWWjEyUFhKWEkzNm15VGlOZWdQTU9QYWs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-26 14:28:52",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Błędy w komisjach wyborczych. Ekspert: Nawrocki mógł stracić więcej głosów - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUZZVjdWUXdib2hqSHFpMXktdW5hV1NpcVJsQUpiTTVYa1VsaHBldFZPbmpHTzBMVTFvTjdNX0NWb3FrbzVkQUJmc2g2YjlaNmVvUnhWTTlLSlN1NkpqVmotUlhlVEJrT0dIMmVrdWFRaGhQVlkwNXc4Y1gtOTV2NG9valV0TEQ2cjNtbTRxLXloc20ySzRSX2QtZ0t0Q0pqUmstVEp6WFR3d3NNcnRQY1NtNUFHdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-28 19:11:33",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 388486,
+      "DOGECOIN": 0.590048,
+      "ETHEREUM": 8817.91,
+      "LITECOIN": 314.14,
+      "RIPPLE": 7.94
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "VII kongres PiS w Przysusze. Partia ma być odmłodzona - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjNiczc5TmcyQ1ZBTFZtX2JQNUM1V05aQ0ZNNk1WdDVBT0toTy1DRHFKWWNwS3d4N21abzdPNWN2S29zRHFwRHFwWmxIU0FoLVRqU2V5YTVMUnNfTllEYzhoNEZKVnA3TWFjUHRzd1N0dGdmVkplN3dTY2lqRUJJbm1VUVRxeG1HNlM5SXhaSnhYcXJKSFBOSlg5Z0I3S1pUbmJiT2dvRURpSjNLOTYzRTJkdlJqQQ?oc=5"
+      },
+      {
+        "title": "Trwa poszukiwanie Tadeusza Dudy. Były negocjator policyjny wskazał 3 możliwe scenariusze obławy - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDZkRll4dENsS0xfN3VoNWJSSzVoS18wUk16aU53SDNDMThIUWNYbHNXaXZuc1lOa2JNLUt4c1ZfdVpDbUM2VV8yQkMwbjBwZzY3YjE3VnhMenpTaUdRZlJ5M2dvTjM3bTQxM1JjdW9yaGcwdFN4Z2I4MzU2bzZGaG96aGxremRBMlh4VDhxOTVwb016RkttSXh2am51Vng4T0NNMWQzbVNkLUFDRlh4RGRRWVVHSFd2WG4xQUR1RHZkWHQy?oc=5"
+      },
+      {
+        "title": "Hołownia stawia warunek koalicjantom. \"Jeżeli wszyscy, to wszyscy\" - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc05WRjM2WG10QW81OUl0Ujk3cE9ZZWw1cTZDVkVDSkhaMFV6TTNmUWFCRTM4NFpkcWpKbWRJYWdYbXUxNG8zQk9QYVZfWjdldHBobUpEcnZSTk42ZDBNaDVUcS1oLTRpamlIMUc3R3ZKYXhVU1JVX2dRc0VHbERTLUxmU0NRUTY1b3JLVXo2cXFBbVV1X2ZrM0pNTXI5QjloZzAwbHNrNGtPc25YSG1YYXlYbw?oc=5"
+      },
+      {
+        "title": "Wczoraj sąd, dziś już nie, czyli ciąg dalszy zamieszania po wyborach prezydenckich [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONHJPZl9pdkZVcnU2am92V2JGWVhkZDZxNEZ5Uk8zSExoOUcxUkdNZ2RSTkU5Ylp3U2NQQ1EtVEtqM2lXOHV5SWZPeEY2ZktVaF9GVjF4RFIteGd3UU5hWUZrM0Q2ZFVLcVBGRk4wTTVLTFJ2VGl5Qi1HX2x0WXFLaGhuME9nU2twdEFYdjBnck9XaUR1TjlKWVBSTWZNOFpCNFV5czJQbC0zS01xemVxbzAwX192ejdPQjM3andZUHlfUUZ5TVJ3U1pn?oc=5"
+      },
+      {
+        "title": "Bomby na Chameneiego, Trump wygrał wojnę? Ataki w Syrii - Defence24Week 124 - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMngyTFJNanVHc2NjMnA4S0VFWVZfM1NxcGJnSjNYNG11MGR6eGxEMUhpMHF2alE2UnV0UzlXSm1RZFdWdnhaZXJ3aDdrcjlpNlliYWFZWVZiMXJ2dHVwVERTUmNnZnQwZUhST3dfbl9QY2oxYmVORU9SNC15enloRjBkOVl6S3p3TE9hYlUyaWlxZzc1ZVpWcXB1NDA5c2h3VHh1VEFNcw?oc=5"
       }
     ]
   }
