@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-26 10:19:30",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.659,
-      "EUR": 4.2479,
-      "GBP": 4.9843,
-      "CHF": 4.5427,
-      "JPY": 0.02515,
-      "AUD": 2.3772,
-      "CAD": 2.6663,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 391262,
-      "DOGECOIN": 0.598333,
-      "ETHEREUM": 9040.45,
-      "LITECOIN": 310.2,
-      "RIPPLE": 7.94
-    },
-    "indices": {
-      "^WIG20": 2785.22,
-      "^WIG30": 3624.26,
-      "^WIG": 3624.26,
-      "^NCINDEX": 247.52
-    },
-    "news": [
-      {
-        "title": "Poranne połączenie z załogą misji Ax-4. Sławosz Uznański-Wiśniewski: to wspaniałe uczucie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzZEX25GVVlRY0xDR3Q2YldKU0RaVm80NGdQSDZ0a0t1bWdoT0NlZDJWRFNDV0xYa0tGRWtxUjJneTQ0d2VYdkhBbkx5NHBKLUlVUThMeWRtNmpWaWdWQncta1Y0bE9SdEluMlh1N3ppQUxpUzFDekJRRFRsUmN0cnBNSWRtVnhrVFowZi05a2p1bDE1LXBHaFlkaW0tbGhOX2JXSVVpZU1WUHpZUkQ0bmNYUzJuTkRqYzB2NkxaZw?oc=5"
-      },
-      {
-        "title": "Protesty wyborcze. Sędziowie Sądu Najwyższego wydali ostre oświadczenie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGJ1Mkg2UjJTdkxhRWRBY0FQMU9aaTAwQ1psMmdoUlJtejlfVUEwbVB3N3J1NS1rYnZScXYzMm52Y1YwSURmdXUyWURyR29vS0pqakJsSlZHMlozTWRtRGJ5YmlQa1VaX3RnTVUyZ0s3ckE3cG8zU1doYjhRUzJySU1WQWhkOGV2SFZfWEIxSnBwS05UdFhWY3gwdTZLSzBiMGVxWEJobjRPaE05THZuWTVWVG1ac0xEMDFQVDlWaTUzV0ZxMUVnc1lNZzhVQQ?oc=5"
-      },
-      {
-        "title": "\"Maćku, na zawsze pozostaniesz w naszej pamięci\". Tragiczny finał poszukiwań dyrektora NCBR - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMENGTGNTdGFhM1BJMDIzdTh2Zmo2YUlaY3doVFZqVDZpRG9LN3FtazY5aU9CY1ozajRRN05RSmF6VzlJOEk1WHZpT0tGdHBtRF93XzlPUEU3Z3ZkRURmRGtGU2ppZVY3eGZma29mQkJGLTN6Q1JLRUhEXzhRTlVlRFhzQUpHVDJwSWlQVW5zcXA0Q2lHUDRWWHFqanUwZGYzaXZrUThvTFA0WkxlVUNPUUhBcVpQYUpBbnJIWU1CZXFRVlZm?oc=5"
-      },
-      {
-        "title": "Szczyt NATO pod dyktando \"kapryśnego\" Trumpa. \"Tańczyli, jak im zagrał\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1VCcTNqQkN3RFZTc3NIWE1YanJKNzF0algxZHNJM1RnaklCVm5KY3BSNHBxSnVVaGI2c1hoc3BPSkgtblliVXlaVnVrR2VhbW1LQXIxZmZOcVU4T1h5bjBPdnhkRlRLRWxGNlh5azJ2X3dpWWVZVGp3UTEwRHJhZHFTWllncGgtT0VpdnprSENKMlF6SDFmSEF6a1lXdGtwbkFZVE5zOGhQQXk5enhkYUdsRk00cU1aN2xyRg?oc=5"
-      },
-      {
-        "title": "Poseł PiS przeszedł zawał. Wiadomo, jaki jest jego stan - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMW9oR1U4VElyWFluSExjOFZ6RFJyZkpqQ05fTURRaFJOSmR5MUVVMmhUajdfbWl5LUZxY2pnSjNOQ21GdlRESC03dnlVanpYMk1OZEs5SklnS214R3dVOHRIanFUYVN3QXlOSG5icmJJVDBBLWpUajh4TGZoNGpUdi00d2pjTzg1dGt4czYtbEMzSnlx0gGTAUFVX3lxTE1nbjN1LTBiYlQwOWdqaFc1YkxjRmt2UWhhNnhLdDF5ckNYQ3FPVlFoNXhST3lVYUhuVTN3Zk9lSUV6aHhEVE5HVTI4a1c5SXU1UzJncjZKcVBlRWhtaEJXOHliVDdIN3Voc1FLbk84S3JjV256T0MyZUlHa0dFRVBNZTFnVV9CcmVLbTV1dEdZYnVXSQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-26 11:15:51",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Sondaż. Polityczna przyszłość lidera Polski 2050 Hołowni - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFNHemxHUUpqUEFhdzJHb2l4dXBsbzRnb2N6LU5ZUDRKMGZ1WFcyNVpiU0ZOYmw3TVZQLUZ2a0dsem4zU3lKaVNDeEdPUmt6UG5LUzNGaW5RbFJkTkl3VmpjMGtkWnBjNzZMU0htVEtBdzRvMURUd0JBNDNfWWhWa0EwRnRBYTBHZDBfU1I1aU1iZ18zMmxFZll30gGWAUFVX3lxTE5RbGFfVHJDa25GeE51TG92c1VubjE1VlUwRnJoUzJSejNlNk0yVlRHck5pMEJ5NXlYVXlwUEpRakZ1MmsyM1JxQjh6M0p0QkxzTlp4cXU0NjNRaTdOSTY3b1ZVeFNYZjlFQld0cFJHVGVwQ0FfZWYwYnNjMGJNdHljSkRQcU03MGlQcFZhVHdtRmFqRUpRZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-28 16:12:00",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 387724,
+      "DOGECOIN": 0.584908,
+      "ETHEREUM": 8775.22,
+      "LITECOIN": 310.21,
+      "RIPPLE": 7.94
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Jessica Pegula - Iga Świątek w finale WTA 500 w Bad Homburg. Relacja na żywo - Interia Sport",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0ItMXdlT1hDLW5JYXBCSnp0Q1A3QndKSHYzNjBGazJsenFTUW5oN0E0ZlNUaHh1WG5PZGtLR1BhQzBGWkVrOE5GeEhHSnhQMm12YVRJSDhabzhlajVnR3NPbG5wbDhPV3ZYVjhQQ1ZsYXRaRURUd3VVTVBGQ1QxLUF6bXY4MV9ZcnhYZzVsUWlhUzlBMUR5TGJtQXgwRkhPYlgwSTNjQ1RNQ3NfQm9uUGZJOUJ6Zw?oc=5"
+      },
+      {
+        "title": "\"Serce pęka\". Wzruszające pożegnanie zamordowanej pary spod Limanowej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGZmOTdJTklSM0hDeTEweHdZZFFwUXBTamF3ZEF5OENSVWVtUU45dS1UX1JvUHhyUWZlX19GUEhtaW43RlNyQkp4bF9jOWt4ZFVhY1RnSl9Ndno5Um9BTkYtbDl1S1NWa2NjWjlzUmpxeXdvbl9IRnNxOWx0U2JsSjNMa08tYUF6bVpvdVFNR2s5LU9DdnZYblNQSnF0SV9OX1pfb2NOblEyZWlGdUE?oc=5"
+      },
+      {
+        "title": "Prezydent Andrzej Duda w Kijowie. Niezapowiedziana wizyta w sobotę rano - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnNURmhtMk02V0ZvY0VKUkloLWs4bG41X1pQOHNGYTlEMVFRZ0ZQN1RxRHk2VldCWGM4RmZpSl9pNVp5dktVRWdCbVRrWlFqV05nRTN0UTU2QTN4X0NqWFhWRklEaDQ3NGd3SmFpZDJmaVg0N3lncWtIUFNXaXRKYU96LVhvYWNoZkpwMA?oc=5"
+      },
+      {
+        "title": "Szykują się zmiany w kierownictwie PiS. \"Będzie zaciąg z nowego pokolenia\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXYteHMyVGFHc2k5YjdaQVhScS12bDVlT0FXTmtlaG5hRGVqRW4zRTg0RmtoN2J2dEk3V1NuOVd1d3F1VkN3UVNqV3ROcjZ2aHhaOGpHZXE4ZXNRQnNZTXZIb1Faa1pDZW5RSjhINkVuRFZySGY1dTZYdFFuS0RTcGhQZk9vbkxVZHctRHpieDBRQ2FBdVIyaHZ3U3B4dFU5VEtxSWwxSFNlcDlIVnhJbG5ubTNnRlg4Z044?oc=5"
+      },
+      {
+        "title": "Jest nowa analiza na zlecenie Fundacji im. Stefana Batorego. Czy wybory zostały sfałszowane? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWdVQmliR09PSjZZWW1GcnBmeXdUMkFUcjF0N0l5ZDFsandydzJEYXl6Q1hYLTJ1aHI5Q3hkNkhQck12bnhlMGZyRWVPeE1tdjd4eVcyTjB1STdqazhucDBEWUtmb2RtbF9QSWk1aU1aR0puZVY0SXRSMGtGWF9PNUJEVFBYN1FvWkpiUWozRUI0QWpkSlJtcGtTWWJoUG0yOGdGWjNIUGc0b0xVT0NmWENIaUFDZUFWdTRmb2dyUDZiSFNvN19r?oc=5"
       }
     ]
   }
