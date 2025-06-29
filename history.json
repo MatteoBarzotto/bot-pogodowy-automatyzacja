@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-27 19:12:22",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 388116,
-      "DOGECOIN": 0.582176,
-      "ETHEREUM": 8772.12,
-      "LITECOIN": 305.29,
-      "RIPPLE": 7.61
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Nowe informacje o zabójstwie w Limanowej. Prokuratura zabrała głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTRya2RQUk1ndlZMUGxPZGhZdDlLQUVyRGwzUm5tVS11czR2RmVDS2xoSHQ3YjRyZjN6S1I4ZWRSQ1cyZTZja3VmcDNIZEFaRG5pNF93VHBfYmgxTkNYc1Q4Q0syNFJ5U2ViLVBPQ3FRT3ZEaW1RSDFZTEVCRDFLby13TnVWdzRVQllMaWtUT2k4aVR0Q2RjNFJjZ0J5a3AtTkdxWGVZNEYzam1P?oc=5"
-      },
-      {
-        "title": "Protesty wyborcze pod lupą Sądu Najwyższego. Czy incydentalne błędy mogą zmienić wynik wyborów prezydenckich? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2kteFRxQ3dPODdVZEljSDU0dXZfMEVSMVE0RldWTkNvNFVWUm80TEVEeUNHbDZ6QWYyQ2ZZMHJDUU0yU3lybHFfanF1SzhmY19aeGRzbGxFT3lHTXZtQkd2anNnT1lHbmJrd2F3UDIwanZiVUx6WXlQbURzV0hiT3ZWd3N0M1VWR21xTWU4OHQ3TXFuZXVQQVVBYnVka1lRSVJHdFlwYV81alEtYVE5VHYtVVQ?oc=5"
-      },
-      {
-        "title": "Zbadał \"anomalie\" wyborcze. SGH: dr Kontek nie jest pracownikiem uczelni - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0Z3MHRQdkdETEo2SF8yaHFBRlVXTmtMQUdwOVR2eGxCWHl3M2FGRndRWWVDdVJlTzlmUmpMOVNfRnhjVzJTUEY3Yi1RQjM3X1dYOGIyanBNdEd5Tm9XUjVyU2l1VnVIUmQ2LUtHaUxIeUxJaXJBa2hneTkzTkNFVEF4a0ZzVUU5VEExUGNBSE9HdF9vN25id0hHQTRYVGtQZ2x2Slg2NEFtU3AwbUt2SklUN2wxUG0xbXNwZU9aT2s?oc=5"
-      },
-      {
-        "title": "Zaprzysiężenie Karola Nawrockiego zagrożone. Ten polityk już mówi wprost - naTemat.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGdLc3A5MHBQZTBQc0Jad2Y2S3pNa3RhUTI4Q3hVNDd5TzR3NzI4Q1Q1c3JFWU9EeHdEaUpva0Vaemk3N0pEelZKdXI1NUs0MGVSSFZJcUF3ZjB5UEk2cW1pZ0Y3dmdOWUhwclJ5aWE0cmVhUjlpRlJxREktXzBPQW1MbWpVZkwxNEl4cVU3TmhoQzhMbTMzNGhJV2JxQdIBowFBVV95cUxPcWlsSkwwYm1pSnVPdHg1alFBZFI3YXkwTmdTemZER2YxbElmNjRDLUF0SC1kZ05QTEh1d2VvalFUUExZOXkxREY1VHN3cTJVTWVxcDlzcnlyMC1yc3JhSm9Pa3ZVcExYSlV5X0RKeFNtdjVQWm1TNHpIU2ZCSFpGcmw0TUZPNUxYWHZHcUFpNXNDeG5mU3Bhcmh3clJmU1UxOTln?oc=5"
-      },
-      {
-        "title": "Nowe informacje w sprawie zabójstwa na UW. Mieszko R. ma nowy zarzut - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjdUc3JONlVoa2VYQ181TW41U25GMEZuTkVFQTVQaTl2ZzRzUWY3MWdsSWRqRjRVSGRDQ3FkQkg5NU00Mlhxb2I1TEpsQXdxanFtbTZ2OXdlQ2FfT2owekxyUnBUeklRNVhxS3FBbkptamFpUUVySW5YaWlFRml0WkppSFh1OWJTM1VBeWtDeUVTWnJZWWJRZXdIRFppLVBpcTIxV3J6Mjh6dmlsVXVLN0Jzay11OGdHT1A2dno4V21UZHNx?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-27 20:19:37",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Awaryjne lądowanie samolotu w Warszawie. \"Problem z hamulcami\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFh5eHc5Z2I2TXFXQlF2Y1djem9OLXVyUi1qV2wzVlJXaFNDYnE1YXcxYlc3eWhrZmF4T1ppTGNPTEV3bEZ5RVFMYUtiRmQzRWUyQTJkbDRWbjlSbTFBZ0JvajBVdlJWOGhUYkJZRlNVNHZyOHdKVU9UM2cxMnBOWXVrYUpIQTc2cDV0T0JMcUg5TWVVYnVMV2d5ZncyeFd2QXVEdXRnQTlTRFU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 01:13:06",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 390805,
+      "DOGECOIN": 0.612165,
+      "ETHEREUM": 9079.33,
+      "LITECOIN": 318.84,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Obława w Starej Wsi. Alert RCB w powiecie limanowskim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUpHcE5iRGdrV2hoRlAzOFl6aGFpNGRqZW9iODgteUpHbzM0YU1jcEtOanRCNGNUVDU3TnhOODMyeEhGZXduN1NtbTJncVhGOFBWdi1wYXIwN05ma2JlQlZpUzVrVURfeG1COWVlaWk2clA3MWhDRXl6eTVDdDZQQnVqS0R1b3dkUkY1S2VMQndjd1FXcDRJWjJLN2l0MmpWUGZUaFZuSUxjNnZjZFh5Vg?oc=5"
+      },
+      {
+        "title": "Awaryjne lądowanie samolotu w Warszawie. \"Problem z hamulcami\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFh5eHc5Z2I2TXFXQlF2Y1djem9OLXVyUi1qV2wzVlJXaFNDYnE1YXcxYlc3eWhrZmF4T1ppTGNPTEV3bEZ5RVFMYUtiRmQzRWUyQTJkbDRWbjlSbTFBZ0JvajBVdlJWOGhUYkJZRlNVNHZyOHdKVU9UM2cxMnBOWXVrYUpIQTc2cDV0T0JMcUg5TWVVYnVMV2d5ZncyeFd2QXVEdXRnQTlTRFU?oc=5"
+      },
+      {
+        "title": "Będzie ponowne liczenie głosów. Adam Bodnar powołuje specjalny zespół prokuratorów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkxlVUlUWk1LZzJhdWJYSnBXQm5JUVpZR0hjcFVmajJ3cUhnZWtHdnltRnE3SEhYMTdSczdFQmxMT21SZlZZcUJ1RTh5ak1lSFJlaDBFV0lEcEZwV0thUlRJWFVEUWtKS3Q2VFp5U1lVbEFEVk9veUwyMFBjVHB2eDFHanQ4MlEtSVZDTWVjU1VlRVMtV0cxSzRkc2VzVUN4ajdtc3hIVEZwdVRXMlhseGFtaEFjRmJqcklr?oc=5"
+      },
+      {
+        "title": "Zmiany w mikrobiocie jelit, lek na raka. Tak Sławosz Uznański pracuje w kosmosie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0RvZDJFTF9jazktR3h1dnFwRDlQNllaYzhNSFJMaUZwVks0SFMtRkpTdXljSHpnRWJ5VmxMV1J2WmhyTTZKQmk2aTlTUDNMM2I0eUw3SHhWYXZPYmxXaE50NEVNWDdtNHcwbktkdXlVcE8zcERpLU5fRzVCYnljVzRqZ1k0LVBCZ3ZvcjhMSkMxaER1VGpsSEFRcjlzWndrd2lqTmVKWDEtdWZxTzZGaThXQzVlVlE?oc=5"
+      },
+      {
+        "title": "\"To może wywrócić koalicję rządową\". Ekspert wskazał powód - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG13ei1JVEVSMHRKcXVMWDgyQVFLaUtjQ2hXd0hQbFBfUG1qRjF6OC03RjZCYnhaNVFfRU1RdGQ2d2dPSEIxVDJ3REF5YlNvcTFtblNGczBLQVBaTWJEdDRvNkxNSXN5LXJvZXlBN1QxS0NsMDFvdnNacmpueHZXRVhMajlvekg3VTUtNTdweWl0RUdDcWhHcXBsamxKZ3RUR2FXWVhn?oc=5"
       }
     ]
   }
