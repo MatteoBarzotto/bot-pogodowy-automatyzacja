@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-26 20:20:00",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6222,
-      "EUR": 4.2479,
-      "GBP": 4.9805,
-      "CHF": 4.5306,
-      "JPY": 0.025166,
-      "AUD": 2.3705,
-      "CAD": 2.6469,
-      "CNY": 0.5053
-    },
-    "crypto": {
-      "BITCOIN": 388884,
-      "DOGECOIN": 0.580442,
-      "ETHEREUM": 8788.51,
-      "LITECOIN": 305.96,
-      "RIPPLE": 7.67
-    },
-    "indices": {
-      "^WIG20": 2813.09,
-      "^WIG30": 3656.38,
-      "^WIG": 3656.38,
-      "^NCINDEX": 247.63
-    },
-    "news": [
-      {
-        "title": "Wybory sfałszowane? Anomalie lokalne jako ostateczny argument? Sprawdzamy też inne analizy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkNhYlJ6dHZ5dG5ZRXBFSmFIXzNKWElDdnlNQnlaT1o1ZlhoemNQeHFaSk5xamFMSXN0Nk9uLVh6Tm04MnlSWFBZa0U0b0g4SDhZT2FHU3FiTVRZbmVoNEs1TEc0M0tfVmtrRlRSS2hoNXJqSm1VRXVMN3FhUlJKUnhJUTNTb3BzeE5xNV9oTElybWdwZzNqSHNjRlRMeWZWNU9HWWltdjA5Zw?oc=5"
-      },
-      {
-        "title": "Dokowanie na ISS zakończone sukcesem! SpaceX zamieszcza nagranie [WIDEO] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTZ0cFVXUzAzcXQzSUEwalFGeXhISHBSS254ejZDVkx6M2hnaWg0WXRlYVB5elM2ZGktSHRTRlhGek1XR3B0cGN3eFo5eTZFb3Q0VFczQ3NRVTBRd0t5Vzk3Zmo0dkhlWGJvbjIwOEhLblQ0TG5CVW5sUzVfanVzbmN1c3oyUVV3b09lUHNvcGw5SjBoQ1U5bWQ3cThpWElyaHJoVl9YVlN0eVJHbExqWTR6MA?oc=5"
-      },
-      {
-        "title": "Protesty wyborcze. RPO zwrócił się do prezesa Izby Kontroli - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWR3QlAzTUVxQTkzRFE2U01qQWJ6aEx3QXJ3MkRmclk5cUZaQ09jdEtCMUFpcUFBVHZIbXFDZlVZVnNlMnV4QTRkWEJxMUJlbDNfWkpGN0o1Wk1BakIydmZBSFpINDl6QUJmOTFrY1MtVllwdWxMeXhvSWhKR1prQXA2RUtaMm1hZ0hwTHBuMm14SFdrd3A3U0VldHZzSndETEE4?oc=5"
-      },
-      {
-        "title": "Szczyt NATO pod dyktando \"kapryśnego\" Trumpa. \"Tańczyli, jak im zagrał\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1VCcTNqQkN3RFZTc3NIWE1YanJKNzF0algxZHNJM1RnaklCVm5KY3BSNHBxSnVVaGI2c1hoc3BPSkgtblliVXlaVnVrR2VhbW1LQXIxZmZOcVU4T1h5bjBPdnhkRlRLRWxGNlh5azJ2X3dpWWVZVGp3UTEwRHJhZHFTWllncGgtT0VpdnprSENKMlF6SDFmSEF6a1lXdGtwbkFZVE5zOGhQQXk5enhkYUdsRk00cU1aN2xyRg?oc=5"
-      },
-      {
-        "title": "Superkomórki burzowe nad Polską. Zacznie się po południu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTBwenQ0b0QxQ1ZRY3puSHJmX2Q5dmw3bV8tTjVXZktZS3UxdWFqdlFQQ1JZdUgyQUszYlpHWWQ0eHZpYkk2VFlqaW5VWk4xdG9rRU5oUTVxS0VzVE4zc0djLXBFMy1xZnM2cFZxU05HY1l5VTgxeTdJMUg3UmdfcUU5V2xTY09XNklwZ0F5UVlKV3hIa2NrQkpENHRubE1VTzMzbnNsdUpveE1ON1ZzT08yYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-26 21:10:52",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Hiszpania oburzona zakazem marszu LGBT na Węgrzech - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2k4RkEtWWw3dGZzcE5DdmthME9KamJzZ2tramo1Wk5iVXBCdFViUU5qZFk2cW10MHZmUWgwUnpXSzRLU1ptWjFOQ1Nxb2lFV2UtdUFwUjdSX3F3YUlxU21jdEw1REZ4YVBiX05DZm8zNFA1T3M5TFZzN2REUEhoaXN2WWpTekJYZ1lWOXVtTWlxZ9IBjwFBVV95cUxNeS1ubWRWYmNtOUpKTzZ5SlJIRmxMcWVnTjl4OXBPeHozNkJOQm5rX0ozTGNVdmMwWE9aY2hqWVRqNGpNcFhjZXlmLTFSUHd1WHZPWUMwNUkwWmtEODB0NUdkeVd4YlhXcm9paHh4S2pDc3BEeVYweDNrbUhfTF9YVHdxQmVIWlpKajdoUzNEbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-29 03:17:45",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 388837,
+      "DOGECOIN": 0.593165,
+      "ETHEREUM": 8819.79,
+      "LITECOIN": 312.42,
+      "RIPPLE": 7.89
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński wybrany na prezesa PiS na kolejną kadencję - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXpoQlRzSXd5Tmh2N0VTX3h4aGpISlVNNTFMeEFOOThfTFp4cmJIWkpsSlRTdjZUUFhNYXBoQ1kxdndGUDhncGU4TmRJMUdMdmh3ZlZ6aVI1TzQtZHFMOTlweU4ybU5tM2VKRVpPMUpYMFhXc3phVDl2RjN4RUlXN05Da29TVHQ0bnhDT3lBdm1ieEk?oc=5"
+      },
+      {
+        "title": "W Starej Wsi padły strzały? Poszukiwany 57-latek miał wrócić na miejsce zbrodni i otworzyć ogień do policji! Trwa obława - Gazeta Krakowska",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc19GOHNhc0J6bTdlUk9lem4wRzR0SUtlYWZDdnYwR2VqTDBQY2dvZXhIVXRiSVR0S3NQQVMzWXFiaktKTjhsYXNEYmdlUFF5dnBlVDU2bDhQdjVYU2Y1aURmRXBfc2ZsdlluMDZyYWNfNzFQbUtlNzBnZlZGQUpEWE5xcWdqQzFteGZaYkxhcy0xZWlSRnRZd3RpRkdtMTI4Z1V5NGJEMmpUcDN5N2pKSnF6U29rOWFENHpmS0h1SDJZQ1NwU185Y0NPOVhyN0l1SnhLcl9sc3ZXTHowc1Y1cm9GeHdkckN6RmRXMmZHNjJHRHFE?oc=5"
+      },
+      {
+        "title": "Wczoraj sąd, dziś już nie, czyli ciąg dalszy zamieszania po wyborach prezydenckich [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONHJPZl9pdkZVcnU2am92V2JGWVhkZDZxNEZ5Uk8zSExoOUcxUkdNZ2RSTkU5Ylp3U2NQQ1EtVEtqM2lXOHV5SWZPeEY2ZktVaF9GVjF4RFIteGd3UU5hWUZrM0Q2ZFVLcVBGRk4wTTVLTFJ2VGl5Qi1HX2x0WXFLaGhuME9nU2twdEFYdjBnck9XaUR1TjlKWVBSTWZNOFpCNFV5czJQbC0zS01xemVxbzAwX192ejdPQjM3andZUHlfUUZ5TVJ3U1pn?oc=5"
+      },
+      {
+        "title": "Incydent nad Bałtykiem. Myśliwce NATO przechwyciły rosyjski samolot szpiegowski - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcmlsckRLNmxvVmlLM2tiRm82Y2RIN1FRZkd0NTgyRGRjaV9mNF9tN3VJVWo0VVJhYWFoOW0wYlA5T2lTNnVNc1ZwV3NWSDZabWJneC1xR250Ym84alU1SGVnM3FlWW9jb3VVTkdjck5GUHUxUWIwSmg1bTJZWTlMM29EeGtGQXUwakZVbzNpbGxlOFoxSl9JQVgzdTJGSlBfcEU2YlhEaDBrVkdfSWlwVkd1MW1HVzhFWTlZ?oc=5"
+      },
+      {
+        "title": "Międzynarodowa Stacja Kosmiczna nad Polską. Będzie widoczna gołym okiem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWlHUkFNa3FMcFVYOHZrNlhLemhaY0Nnd0ljUVgzRXRWcUhRbVluc25hSkVHSWNXVExsWFZHLWNxN1lHeDdOcXFSTV9ybTlFZDlaYXFsbkNXZkFVTzA1d3VwbGpGckwwSi1rSmRkSVE0TDI1LXNVUnREMDlILXhRQTNkY0U4aTFiU2ZyQ2RpLVNQUVprb1Fnbl94bnAwT0NZRTNDUVpjczBGTDA1ZWlrTHJxRkFRa012a2h5TmNiOVhhYnhvQVlB?oc=5"
       }
     ]
   }
