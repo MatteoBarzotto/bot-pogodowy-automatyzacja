@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-26 22:15:23",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +29°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6222,
-      "EUR": 4.2479,
-      "GBP": 4.9805,
-      "CHF": 4.5306,
-      "JPY": 0.025166,
-      "AUD": 2.3705,
-      "CAD": 2.6469,
-      "CNY": 0.5053
-    },
-    "crypto": {
-      "BITCOIN": 390081,
-      "DOGECOIN": 0.585463,
-      "ETHEREUM": 8849.8,
-      "LITECOIN": 308.97,
-      "RIPPLE": 7.72
-    },
-    "indices": {
-      "^WIG20": 2813.09,
-      "^WIG30": 3656.38,
-      "^WIG": 3656.38,
-      "^NCINDEX": 247.63
-    },
-    "news": [
-      {
-        "title": "Węgry wyłamały się w sprawie Ukrainy. Chodzi o negocjacje z UE - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGJIZkc0TmFnQllCUWpULWRuNGhJcTJWTklRZ1FWRjlGTlBHbnlYZG44SFhQUTEySDdMVU4wdWJwRWpEYTkycEpHcVlzdHZpTHFjWEFieGlvNU9rd1dNQS1ha3dod3ctU21ZMVhkbm9UbnlHdUFUUWhyd3V4d2NkSVlGSkVnV25reGowa19OQ182VXp4RXh3SDBJZUVQcHluX2xqV0c4b0tZS09xNW5faVJEYXFfTWtSQ1R2U3FTb3VaQQ?oc=5"
-      },
-      {
-        "title": "Wybory sfałszowane? Anomalie lokalne jako ostateczny argument? Sprawdzamy też inne analizy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkNhYlJ6dHZ5dG5ZRXBFSmFIXzNKWElDdnlNQnlaT1o1ZlhoemNQeHFaSk5xamFMSXN0Nk9uLVh6Tm04MnlSWFBZa0U0b0g4SDhZT2FHU3FiTVRZbmVoNEs1TEc0M0tfVmtrRlRSS2hoNXJqSm1VRXVMN3FhUlJKUnhJUTNTb3BzeE5xNV9oTElybWdwZzNqSHNjRlRMeWZWNU9HWWltdjA5Zw?oc=5"
-      },
-      {
-        "title": "Protesty wyborcze. RPO zwrócił się do prezesa Izby Kontroli - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWR3QlAzTUVxQTkzRFE2U01qQWJ6aEx3QXJ3MkRmclk5cUZaQ09jdEtCMUFpcUFBVHZIbXFDZlVZVnNlMnV4QTRkWEJxMUJlbDNfWkpGN0o1Wk1BakIydmZBSFpINDl6QUJmOTFrY1MtVllwdWxMeXhvSWhKR1prQXA2RUtaMm1hZ0hwTHBuMm14SFdrd3A3U0VldHZzSndETEE4?oc=5"
-      },
-      {
-        "title": "Szczyt NATO pod dyktando \"kapryśnego\" Trumpa. \"Tańczyli, jak im zagrał\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1VCcTNqQkN3RFZTc3NIWE1YanJKNzF0algxZHNJM1RnaklCVm5KY3BSNHBxSnVVaGI2c1hoc3BPSkgtblliVXlaVnVrR2VhbW1LQXIxZmZOcVU4T1h5bjBPdnhkRlRLRWxGNlh5azJ2X3dpWWVZVGp3UTEwRHJhZHFTWllncGgtT0VpdnprSENKMlF6SDFmSEF6a1lXdGtwbkFZVE5zOGhQQXk5enhkYUdsRk00cU1aN2xyRg?oc=5"
-      },
-      {
-        "title": "Donald Trump jest pewny sukcesu. Reszta świata już znacznie mniej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTZvSkNMV1BMZEdlbnJhcVNaSHJfYWo1UVN2SlRVRnp5SXd2YXZUdFYyVEZpY2M3T1FUclBUWXhDWWdkajhCRjdNYnRLNGh3X2F1cVkxVFhIekp3WE55dWpFamRUWDEwUWxhZjN6MDgzT3RHLXRBOTJDZTNjZUFIUk1STVU4R3dvS2FyNVBjNjVjaDM4bThJU3JMQUVDZXhURVdSRg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-26 23:13:15",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Hiszpania oburzona zakazem marszu LGBT na Węgrzech - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2k4RkEtWWw3dGZzcE5DdmthME9KamJzZ2tramo1Wk5iVXBCdFViUU5qZFk2cW10MHZmUWgwUnpXSzRLU1ptWjFOQ1Nxb2lFV2UtdUFwUjdSX3F3YUlxU21jdEw1REZ4YVBiX05DZm8zNFA1T3M5TFZzN2REUEhoaXN2WWpTekJYZ1lWOXVtTWlxZ9IBjwFBVV95cUxNeS1ubWRWYmNtOUpKTzZ5SlJIRmxMcWVnTjl4OXBPeHozNkJOQm5rX0ozTGNVdmMwWE9aY2hqWVRqNGpNcFhjZXlmLTFSUHd1WHZPWUMwNUkwWmtEODB0NUdkeVd4YlhXcm9paHh4S2pDc3BEeVYweDNrbUhfTF9YVHdxQmVIWlpKajdoUzNEbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-29 06:30:18",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 388158,
+      "DOGECOIN": 0.589579,
+      "ETHEREUM": 8793.6,
+      "LITECOIN": 312.57,
+      "RIPPLE": 7.9
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński wybrany na prezesa PiS na kolejną kadencję - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXpoQlRzSXd5Tmh2N0VTX3h4aGpISlVNNTFMeEFOOThfTFp4cmJIWkpsSlRTdjZUUFhNYXBoQ1kxdndGUDhncGU4TmRJMUdMdmh3ZlZ6aVI1TzQtZHFMOTlweU4ybU5tM2VKRVpPMUpYMFhXc3phVDl2RjN4RUlXN05Da29TVHQ0bnhDT3lBdm1ieEk?oc=5"
+      },
+      {
+        "title": "W Starej Wsi padły strzały? Poszukiwany 57-latek miał wrócić na miejsce zbrodni i otworzyć ogień do policji! Trwa obława - Gazeta Krakowska",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc19GOHNhc0J6bTdlUk9lem4wRzR0SUtlYWZDdnYwR2VqTDBQY2dvZXhIVXRiSVR0S3NQQVMzWXFiaktKTjhsYXNEYmdlUFF5dnBlVDU2bDhQdjVYU2Y1aURmRXBfc2ZsdlluMDZyYWNfNzFQbUtlNzBnZlZGQUpEWE5xcWdqQzFteGZaYkxhcy0xZWlSRnRZd3RpRkdtMTI4Z1V5NGJEMmpUcDN5N2pKSnF6U29rOWFENHpmS0h1SDJZQ1NwU185Y0NPOVhyN0l1SnhLcl9sc3ZXTHowc1Y1cm9GeHdkckN6RmRXMmZHNjJHRHFE?oc=5"
+      },
+      {
+        "title": "Mariusz Muszyński: Bunt nieuków - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzaVQ5UXZDbEpWbmp0Z3dyODJidlhYMWFjWC1jWTBXUmFpSkNycHkzYzNyYjg3RVR0bTFoRW5iWGlsYnAtQnNfVmo4ajkyaTJOZlQ2VlR0QlVMRVhLY3NXNWU2bGhVcEE5VWtQOUJNcThWR1ZoWW5VddIBdEFVX3lxTE94TExCUHEtZ01zRmt0QkwyQlltYlVWUmpfV2JXM05uU0ZlQ3BYUDg2bHVtS1lWdE1tRlNWNW9TSUg4TlNuVVhGY0o1UW9GZjNfYVkwbWhTXzJad1o3bEdpWEZDOUhsTG54eEJLUDhmR0U4cE1Y?oc=5"
+      },
+      {
+        "title": "Międzynarodowa Stacja Kosmiczna nad Polską. Będzie widoczna gołym okiem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWlHUkFNa3FMcFVYOHZrNlhLemhaY0Nnd0ljUVgzRXRWcUhRbVluc25hSkVHSWNXVExsWFZHLWNxN1lHeDdOcXFSTV9ybTlFZDlaYXFsbkNXZkFVTzA1d3VwbGpGckwwSi1rSmRkSVE0TDI1LXNVUnREMDlILXhRQTNkY0U4aTFiU2ZyQ2RpLVNQUVprb1Fnbl94bnAwT0NZRTNDUVpjczBGTDA1ZWlrTHJxRkFRa012a2h5TmNiOVhhYnhvQVlB?oc=5"
+      },
+      {
+        "title": "Media: Iran rozpoczął prace budowlane na terenie ośrodka atomowego w Fordo - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1h0cnpYM3JRckhtRW94NEprSXItaDRwLVBVR0JTN3VoV2tBMXlHSUM5c0M1YkdLUFE3TUFTRXFRaURMY2hSUnBJZGF6ZXZmdlY2SDQ3QXBRbnlESk40YkFtRzdVNXBPdllBSjE0bFdsLTRueVJLUF8zQ0JPZDZpUWtxdktnRkM0amJoOW5ubTVWeTFQcGN3YUtlbGZ3OEk4eGN1bHNrR1U0NkllbzZfOUJacm9veVItc1gyRGQ4MWlCUkVJem9YNjY3ZUdhRExwLUE?oc=5"
       }
     ]
   }
