@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-27 07:15:29",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6222,
-      "EUR": 4.2479,
-      "GBP": 4.9805,
-      "CHF": 4.5306,
-      "JPY": 0.025166,
-      "AUD": 2.3705,
-      "CAD": 2.6469,
-      "CNY": 0.5053
-    },
-    "crypto": {
-      "BITCOIN": 390359,
-      "DOGECOIN": 0.588329,
-      "ETHEREUM": 8890.72,
-      "LITECOIN": 309.76,
-      "RIPPLE": 7.66
-    },
-    "indices": {
-      "^WIG20": 2813.09,
-      "^WIG30": 3656.38,
-      "^WIG": 3656.38,
-      "^NCINDEX": 247.63
-    },
-    "news": [
-      {
-        "title": "\"Wygrał Trzaskowski, byłam tego pewna\". Świadkowie mówią, jak dochodziło do pomyłek wyborczych - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2ZmLW5MVy05N3dTMGI2aG5DT1M4ZERhOWxpZUY2OEp1OUg1a3JVMjg5VEJOdVB2M05CR0EyRThnblZHTkp5NWlIR2t6cmZyQmRBQzhHOWtRNHBXeEd5bnhiMGROWUE1azBOdHZHVDAxb2NIY1lXUjVCcllVdnBKSFNabFVRWS1wRG1jSlhzTG1kbmwyaTJWTEVaSHVYMVp0MmZCdVpzaEhaWW1Vem9WblNZNldsYkp6VUJYTU51ZFk1cklWamVzVUkxRnQ?oc=5"
-      },
-      {
-        "title": "Donald Trump jest pewny sukcesu. Reszta świata już znacznie mniej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTZvSkNMV1BMZEdlbnJhcVNaSHJfYWo1UVN2SlRVRnp5SXd2YXZUdFYyVEZpY2M3T1FUclBUWXhDWWdkajhCRjdNYnRLNGh3X2F1cVkxVFhIekp3WE55dWpFamRUWDEwUWxhZjN6MDgzT3RHLXRBOTJDZTNjZUFIUk1STVU4R3dvS2FyNVBjNjVjaDM4bThJU3JMQUVDZXhURVdSRg?oc=5"
-      },
-      {
-        "title": "Sędziowie TK wydali dwa oświadczenia. Chodzi o wybory, \"stanowczo wzywamy\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmJVXzU1bWlYN0I4VVdhb194X0d4TXdKM3ctYkI3TEJFSmJOejcybEpkR0o5cFRxY1hsUHY0bkhxdmg5eHpTRDdlTWI2VDg4V3k5UVRraHg1a2RITnI1dFRIcFVPUy13NGdNVWp2SnYxZ2hqVS1vSEpFR0J6c0RidnRIWlhtNTFIUk0zdVg5ZnRPY2dLYUp2SXAtX0hOOHplaEpEY2dtRWctMWxWdWFMMmw0dw?oc=5"
-      },
-      {
-        "title": "\"Szmelc za potężne pieniądze\" dla polskiej armii? \"Łapu-capu byle przypodobać się Trumpowi\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDZlTTBoRW10WXROUVpKTjBDOHhqZXhWWDktUzZHTUdYeHpMeks0dVlMQ2N0czFoamFlQ2tLM1NHaFJpdFZTdUhqMVgzcVJOR291WlptMkpYbDctVGxRM0ZoVFdhY281ZWF6eU1lT1QtRXdrN3hjNU1fWnkwQy16OUR3azMwRzhuQkw4Vk5Ga3ZueGRYUGd6Nk50eFdUZ0VuMUc4bDNVd1Rzd9IBqAFBVV95cUxOSEthWTVXbzlMNDNNSDMwZ2NsN0RZd05oMFEwZVFaN0thMlJmSlltekRia3c4NFV4WmRLZjdrOV9YRWZyRXNVUGM3dGVhc3ZiWXB2cVloM3RrUjhzaF83bHB3OEoxS3dqRmYwbGJhaURDSFJMWm5HbUZFaVBidzRucW03WXk5QWV4cXhIWEZYN2hOSTk1ODZfWGVNNHFVRFhjZUJoRE5Leko?oc=5"
-      },
-      {
-        "title": "Superkomórki burzowe nad Polską. Zacznie się po południu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTBwenQ0b0QxQ1ZRY3puSHJmX2Q5dmw3bV8tTjVXZktZS3UxdWFqdlFQQ1JZdUgyQUszYlpHWWQ0eHZpYkk2VFlqaW5VWk4xdG9rRU5oUTVxS0VzVE4zc0djLXBFMy1xZnM2cFZxU05HY1l5VTgxeTdJMUg3UmdfcUU5V2xTY09XNklwZ0F5UVlKV3hIa2NrQkpENHRubE1VTzMzbnNsdUpveE1ON1ZzT08yYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-27 08:21:24",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Jarosław Kaczyński prezesem PiS na kolejną kadencję. Mówi, że trzeba zmienić ustrój - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2VZN3BYUWRVajRZblloblZhekdDVksyTU53TnI1WVpfbWRTam53RHhVVmxSNVY4UmZQU2J1a3M2cXAxWWtUaDJzV2xGbEwxNDFnczJtOFZaa0xfQTB0c2FUZmlpd2NGVGFPalotX3JWc3NlZzJOTVdYRWxoejUzUFFhaTVNVTlRUGE5Zk5uVXA1MnZRUXFYbVNMUk5ubHJFOWxZT2tJd0puVFhRT0FiazlZRXBuREt3Rmc3cXdRLTFZRTgwbHVDSXA0VmVrNlBuYXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-29 13:11:14",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 391479,
+      "DOGECOIN": 0.594572,
+      "ETHEREUM": 8888.84,
+      "LITECOIN": 314.32,
+      "RIPPLE": 7.93
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "\"Za to miał się zemścić\" – mówią mieszkańcy Starej Wsi pod Limanową. Dzień przed tym, jak Tadeusz Duda... - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNekRuazlKLXJCU2g2ZU9YcS0tSzMzYjdhRERrVEV1OTZRWUdJaENhWTY1aF9CZGFYRTJIWDEzTjhBYm5yMDNJMG5MZmhOSXkySE1ZdTIxcTZiREJXcExRVHozQ1RrSVoyNDd2Vm1kUm5oMGFRMnFXdC16elc1M04ydERRUGNZTGhwRW5RNDQ3aU9TNmJMS0F3RFRRa05GVW1XSlVfRUhPcEpMVC1tYmRoRHVRZkx1LXkyVWhoYm1fMTYzUlg4QzJUTENiNnNSMXJKSnc?oc=5"
+      },
+      {
+        "title": "\"To największy atak powietrzny od początku wojny\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaExFMExVTGR5OVQxQVV1MkRkNzVlUGd0RXNGLTVBNFA3bzFCeE9mVGdlVi05TFlILVgyeGJEUm9qQmhrd19lVy11a3JMWlBQbXJlYVZpLWo2bVMtVDN2SEFnOW9zSnpuRGVPbThRMGJlZFBtdk9xUUIzQmd6dWc2dk5vcUpwUXJHbUphMTZPa0ZHdkFGLXRmUHNhd0ZIdw?oc=5"
+      },
+      {
+        "title": "Sondaż: Czy wybory prezydenckie zostały sfałszowane? - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSE9HRThya2JKWjkxZFVGRS1lMVZSVUNLTms3ZmJQNm1XZlJMeUlua1JUaU8tU2dqRjIyOVlqbVd6Ym50UllwUWpJZTlSd0ZGYmpVcXpYaTJnSExlTFhLWVZVQmZKNmRlbjBtNHlQQXo4ekxMdHdub090Y09zN2hwOHJ2RGZuR3ZYTU94NGJBLXY?oc=5"
+      },
+      {
+        "title": "Komunikat Sądu Najwyższego. Chodzi o ponad 50 tys. protestów wyborczych - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE4zU3NKQUJVbk83LURqWjktbVpIT2lDdjVDMU1HNzJpSlhsNW1VWWZlNFFyR0h2ZWlST1d4SjhRNTBzMnZnYUF3enI5TjltQ19Yc2dYYUpZSWE1LUs3V3N3aG9Ub2RZZ1lTeGxfTGlJSXlxNnVpR3k4c244ZVEya2xPN2IwWTI4NFdrakRBOEE0NlA0NlhDYlJNNlhuUlE3bzd6MEg4cmtOUTZEY3RzYmFMVzVoMmJYQTJV?oc=5"
+      },
+      {
+        "title": "Zmiany w mikrobiocie jelit, lek na raka. Tak Sławosz Uznański pracuje w kosmosie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0RvZDJFTF9jazktR3h1dnFwRDlQNllaYzhNSFJMaUZwVks0SFMtRkpTdXljSHpnRWJ5VmxMV1J2WmhyTTZKQmk2aTlTUDNMM2I0eUw3SHhWYXZPYmxXaE50NEVNWDdtNHcwbktkdXlVcE8zcERpLU5fRzVCYnljVzRqZ1k0LVBCZ3ZvcjhMSkMxaER1VGpsSEFRcjlzWndrd2lqTmVKWDEtdWZxTzZGaThXQzVlVlE?oc=5"
       }
     ]
   }
