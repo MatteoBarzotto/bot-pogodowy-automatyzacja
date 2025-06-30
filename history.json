@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 03:07:50",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 387681,
-      "DOGECOIN": 0.583144,
-      "ETHEREUM": 8760.16,
-      "LITECOIN": 307.47,
-      "RIPPLE": 7.78
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Strzelanina pod Limanową. Tak miała zareagować żona poszukiwanego 57-latka - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlp0d0pZdVRtRUdHd05oUVk0ZDNENVlUaWRGZ0l2V08wZ2g0MEwya0VFM0VxeUJubmM0MHNIbTdJd29uRFo1ZUFBUjB0N2NuQjJFampiZGl4M3lWUTNIVkJpaFhLWGJ2YU9yb2NnbFVrTFZ2Sm5TSHJ5ZlpsaTFvOS1fbm1WNktsenF0VFVWY0dFNmRoNWFEMUdwX01vSjdsYW8ybGpxQjFJRkdnYms2WHdqX1RaSWxh?oc=5"
-      },
-      {
-        "title": "\"Porzuciłem wszelkie prace nad złagodzeniem sankcji\". Trump w mocnych słowach o Iranie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU25jMVFVcGxSRWpEMmNPSHdBQXJYTVBDQ19MdFN2MWxCLVo3MEJqMnZGZGl1X0ZOejR0ckphVzlXVTlnc2dZenR0RW5abHc4dUg4TUYxLXUzazJiYnpaejU0c2FOSms4OWppUC1KcGFaSGFLSHZSMTNBUk5RVWpTR0xXek16MFMtUC0xTFd5d19IS3ZvclVpTElkMmRkUDV4MjlYdHVaempHaUZlUk9PS0dyZzItcm5GWVhsNnpJMkk?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski rozpoczął eksperymenty w kosmosie. Przeprowadzi 13 testów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkpiY0UtcjRCODgzQlJmSnVtTlZaeGhjOE5Cckl4T3M3VlVfb25HeFJXc2ZlaTRkTEJSSlltN01CeDVnQWM2c253eEhrcV9yNVBGRWNVSFZocjBwelc0bDdpSzhzeS0wRWFzVnR6V2VqQXNvZVo1UmozRlpWNkxpVUo5REo1LTdwR2RnYU9rSHVEeUplTnZFMlNwbmtob2N1QVpKQUU0Nlo0NUYyeEdPTG5Tc2lUY29aNWNOdUtfazBfM2Y1QVQ5SmY5ckM?oc=5"
-      },
-      {
-        "title": "Izraelskie wojsko celowo zabija nieuzbrojonych Palestyńczyków szukających pomocy - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUhJSnFESXRMX1VZOU5Ic2tXT0hUdzgxTU9IX0F4M1V3UlVxZmdHYWNlMVN2b1kwUjZTelo0am53X3BzSEhQWldXSW9GQ214U2pFbWZYaVpBSmNFT0VRSU0tUHJnblh1RjlxSjF4eUZ4UTF3SHFyY2pvd1RBV1RsbV9JOGcxWXN6VnM1QWZIVVlVemltNzJvakNRSGYtNDlCS3NjTjRNMFRKVmZhZmJBdGZ2ZWlaelFsNmhocEpkS2JKeHBmcjJVeGlXVVNSUC1L0gGjAUFVX3lxTFAxSzQ5dnlKZXN4T3BaRjFhdzNTTE9uYTZFM0IyamhPc3hkWU5neFJSTHhlTUd0Ujdld2g3QnlGbVlYUklsNnRsVW1nRUxKTHVuUHBMYzB4UFlhMXJYVVg0ZG9ZNXoyVTdURjlkR3o4aGpObzFTNEkxdlo5ZlFWVUxNUTFqNm5sYmhpVzNNZDk5d1dWYk1TVDRzQS1icS1xR3NfRVE?oc=5"
-      },
-      {
-        "title": "\"Kończymy wszelkie dyskusje\". Trump zrywa negocjacje handlowe z Kanadą - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenFKMXRpR185d2V0eUxCY0dsckhyUkU5Yjk4Ull6Q2lZQnJjbXFvNElidk4xaTBJSXV5M1dkc2dpQWJreW5xZVlJaXRtLWtIZTZQRFJldXBWRHpYTVZPcUhlNTNNLTE4WXVkYUNQZnZNdXc3NkttSlhIaE95WWQ5VDVxdDIwTTRkLUF5VWY3YmFKUlAtUkI5NHU1RGhPa0NJWW10RGhRVkZkOThQTWFLTEVvZTd2SEJjWHQzYUlTaw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 05:10:14",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kiedy Polska będzie dopłacać do Unii? Są nowe wieści - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUd3cXFyODVGTnN3QUNZZWpwOUxZek01WUJTdmlVa1hSclpvbHJXY2E0UXktNV9TU0lXbW9vbW12NG1wNEFPOUs0QVJzMmR0MlFobmtmNnhjMW5EZk9CNDB3WEpvbXRaVFYxQ0ZkSEkwUXdnYjJBOUdkcDFtckRMTmk4N0xMWkZkS2QtcXJMRkV3Z1RzUWFjSENTaWdqdnVxRUYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 10:20:18",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 389586,
+      "DOGECOIN": 0.599979,
+      "ETHEREUM": 8970.95,
+      "LITECOIN": 312.68,
+      "RIPPLE": 7.91
+    },
+    "indices": {
+      "^WIG20": 2831.05,
+      "^WIG30": 3681.48,
+      "^WIG": 3681.48,
+      "^NCINDEX": 248.28
+    },
+    "news": [
+      {
+        "title": "Adam Bodnar: Powiedzenie, że wybory mają być nieważne, jest daleko idące - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVFyT2lnNWs5UzN1Wjl2SEJOSXhGSlVieExyX3ptVWdzdlFiUVdsYXFfM09vMkgyLXhzdzNsb3RFQkpzV1I2VUhFUUlLck55X0ZrUnBNYWhvV1lOa0ljSy1LenFBckV2RlFFZ2JYQnJHVzRuazN5VFQtcklGUjJGLUNKbmxnOWE2WDNGVERYVGpEbE1KWEE5Y1huU3QtcTBtbjh5WWJudlFacllnMl9KSTlYeU93OV9FS1M3bHFfQjltdw?oc=5"
+      },
+      {
+        "title": "Obława na Tadeusza Dudę. Dron Bayraktar w akcji [WIDEO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON29ia21IMFducVNyeG4yaXNiRUhzdm05VEwwalUweXhPRWRWTnJOelNDM3lEUmxGaUlIbFFmazVhV21CaHFTbUU0WnMwWDdTU0tIbzMxWDhpZl9JaUlBOGhpczNEelBYYU1UT3NCblh0RGlwUm9RQm5xS20zamx3MTRNZ3VpMG5ZY2RIYkZDdlFXQkVSbDU2V3M5MTZlRlo3NkE?oc=5"
+      },
+      {
+        "title": "Blisko milion wniosków o rentę wdowią. Najnowsze informacje ZUS - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE9pa0tEVjA2Q3dwVS1oU1JmNHRNOVB2RFBVY0czUFFVX3dZVThlZFp3ZWdvTW1VNTNrTVpEQk1RWFVIekk4eVRJR1hLbzE2aUVHLUR1Q0xIaFAtVmlWeVdKY1NDX2JTOTRnVjlNeDE4azVEdTFsLXEzd1M1WXVqRWdqZkhFYWwwVV9GX2pNUllrc3Y1cEhyUV93?oc=5"
+      },
+      {
+        "title": "Kiedy Polska będzie dopłacać do Unii? Są nowe wieści - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUd3cXFyODVGTnN3QUNZZWpwOUxZek01WUJTdmlVa1hSclpvbHJXY2E0UXktNV9TU0lXbW9vbW12NG1wNEFPOUs0QVJzMmR0MlFobmtmNnhjMW5EZk9CNDB3WEpvbXRaVFYxQ0ZkSEkwUXdnYjJBOUdkcDFtckRMTmk4N0xMWkZkS2QtcXJMRkV3Z1RzUWFjSENTaWdqdnVxRUYw?oc=5"
+      },
+      {
+        "title": "\"Chyba odebrało im rozum!\". Poważny konflikt w koalicji - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanRqNDFhVjRrU1p0V2hXUnhBNWRGdm9XNGRfN2hvMGV0bjRvV0xGVWVJT1NBNU9CUzlHRVlGQVYzWEExNXVJc2FuVW1VNXRpb1FoaVB5MEdWOHdsc2V0aThFNEt5YTAxakhDQ1BHbmRSa2htNktiQV9XQXc3dVlWME9vUXc0X1pld1JlMXRFSnNWUdIBkAFBVV95cUxQTGRWMGNJOVpKZjdKT3dxZHphYW05VVBYTFZaTWRrR1prQml2bGdLc1E0cnF4d3pFc1VIZUowbVotNy1fYm4tQmJmNDRtaTdnZUFyYUxjZkpHTy1uSFZGT01HX3Y4TEhpVWFaSF9BYjV2NkV1cG01MVJnaWdOZE1ONjNXeGlVTXpGTTZ3UUZEMmU?oc=5"
       }
     ]
   }
