@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 10:17:05",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 389150,
-      "DOGECOIN": 0.590487,
-      "ETHEREUM": 8780.72,
-      "LITECOIN": 309.07,
-      "RIPPLE": 7.92
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Poszukiwania sprawcy strzelaniny w Małopolsce. Nowy komunikat policji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMURhNk9Hd0xNZGw3OFExclBoOTdadVBHWDc1dGd1R2dBVWZ6RnY4MDVqZFRVWXZXNFEwYkRBTXJIY0ZKOWNabEFLb1B0c2M3WHYwU09aZGxJaXNXRzJ5QzZZdFVKVXJBVGtFTjNaQWpyd29KWEpPamYtRFRXN0o5Nko3b0hLX1dVR3hTWEQ0b0JGQm00YV9OY2JnVmZFcm9XX2xuUVlCYTJxb2RtS1BWZ1JNbzF5aklRbVhlOUNidVZBenhtR0E?oc=5"
-      },
-      {
-        "title": "Andrzej Duda z niezapowiadaną wizytą w Kijowie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzJ5Vl9zLTVheXNQTWhrS3JhcEtsaFdodFVrWUc0c0ZUaG95VWFUYXc0LWlHYVBwX1ZrRk12NWFrVHRBOXJwRWxSR3NSWnNPQUtkaG9EV0JTdE5XY1FOOHF4UlVZN0k0RmFLVkJualViNHFiYXZqQlRqMFlZa2ZLZDc5c3dYWm5Td1RpWkNTMjJ0czBIYUZxQ3FvTXVObmxoUUNIdUk2YzZZVXAteEE?oc=5"
-      },
-      {
-        "title": "Błędy w komisjach wyborczych. Ekspert: Nawrocki mógł stracić więcej głosów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUZZVjdWUXdib2hqSHFpMXktdW5hV1NpcVJsQUpiTTVYa1VsaHBldFZPbmpHTzBMVTFvTjdNX0NWb3FrbzVkQUJmc2g2YjlaNmVvUnhWTTlLSlN1NkpqVmotUlhlVEJrT0dIMmVrdWFRaGhQVlkwNXc4Y1gtOTV2NG9valV0TEQ2cjNtbTRxLXloc20ySzRSX2QtZ0t0Q0pqUmstVEp6WFR3d3NNcnRQY1NtNUFHdw?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy rozpatruje protesty wyborcze. Pierwsze decyzje - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnhnbC1uSi1IMVgxSnlqMGV0bFgxcjFWeDkzZ2NDRHJieXFieVhQdmFXYjdNaDB2YmdzLUdaaU4xeV9NWmJmclNTZC1iWVJzRWptVVRobHdEd3cwZ3NKbHB2cnJfVTFaVTU2SHVCUEgwRVktY05zdDVUeUFzWmdxcEdJa1NlZDNmMnA5REdMUzh5NnJ5?oc=5"
-      },
-      {
-        "title": "NATO się zgadza na pięć procent na obronność. Tylko co z tego wynika? [ANALIZA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXRucE9waGwwU1VjQTZ0X3NCbFV2eFdnTklEU2RnaG9wTDVfSkNkekVHMTVRVUFNdFo3ZkFrWkowS01xa1BsUDg3ck5XTlhtam9LcXAxRmFrREo4XzFrTGR2UFlCLTRTZEotWl9hbzhMWlBtaUhhdktFQkFiZnFfQkFELWUwc2hnZlJYMEpZb0lxakV3a3BUU21rMFd2cVJ1clJmOXdtaTk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 11:13:35",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Mieli mnie wyleczyć, a trafiłam do sekty\". Odsłaniamy nieznane oblicze Doktor Miłość - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2V3V1hsX0NPSFQ1U0twLUtFWExxaDNKSHRPVFBMUjhQUFhKdDZVaFZ0TGhIVEE1bERzUHhtdjB4SFZsOWhvMVZRSTZDSERmb0lSRk9GYk1WSWxSejJaY0NJVXF2YmJwRkFGRGExSE51TDhOU09LbWRXSDVwRGZZNlNFRFdNSWlfUDRab05Xd0ZPYW5Qd1Zmd1lqd21waVlzZzJ4Mi03cExLa095Nkx3VTRqRTJpQi1hdmJ1VUk0UDhXUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 16:14:11",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 388625,
+      "DOGECOIN": 0.593602,
+      "ETHEREUM": 8898.01,
+      "LITECOIN": 308.63,
+      "RIPPLE": 7.88
+    },
+    "indices": {
+      "^WIG20": 2847.32,
+      "^WIG30": 3699.38,
+      "^WIG": 3699.38,
+      "^NCINDEX": 246.21
+    },
+    "news": [
+      {
+        "title": "To mógł był czynnik, który wyzwolił gniew. Przed tragedią Tadeusz Duda wpadł w ręce policji - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXRhNm9JT2FhQ3Z6QVZNWnY1Y1doMHp1Rk5QdjFxZkZzaFJ6TDNFaUlUUzBMYUkxNjlFRlItMWwtZHRFdDNRSEhwNFV4N2ZLX1FJeV9kdHBpZ0JZQVJGa3R5QXRpOEFmVkNhMXE2ZXRqdUdoaTFBT0R6d3hOU2JBRF96U0FyOW9UU1JHQmZQVlVMNXdmdURqOEFDS0dFQkNfV1d1ZDlxWWdYaGg5UUhmckFWOGtET3R4Z1I5ZHdnQQ?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy: prokuratorzy zażądali wydania akt z protestów wyborczych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm42R3UwVUNEckFFcnFET2xzeG55azAxNDRrSndSNGd5aV9LTmRhVFdvY3A3RzVjWjRKTFdsOUg0UEgzRU5VSFFkaVM1SkpRV0ZZNHZIQ21vRXRUQ0U2S1hmQ2dHOG0tUUtjVXBiaENQcnpHZGc3Skk2OWFIci1vTUlkQ1hPVDdVbDQtVnJBQ1NKbjRFSTFqdF9TLVlDZXNoZmJxdmdseDJGd2pacThOaWtRR0pOc3pSQXBoY0pwXzdKSlhUell2WTMwbnFudw?oc=5"
+      },
+      {
+        "title": "Trudna sytuacja na granicy z Niemcami. Donald Tusk o przywróceniu kontroli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0g1dEJmakg5TFltT0RJb2lqcGdjdkhDNHR3blNEUHdCbmlzelZ6Mk9SMkxZb3AydmxqeVVhLUsxaHR2bEl2TTdWSEpEVW5XSlVoX3RSelRSamVLSS1QVFAxTDlaZEVxMmdTd0IxUU05R1JGbzMyVm1sTzM4MEJJWVZWcVczMU8yLTJjY244RmtZQ1NualBLWktJYTE5WHlmNV9UOFhqTEFXTjFOdW0wZ1Q2Q2x3dw?oc=5"
+      },
+      {
+        "title": "Nie żyje 24-letnia Klaudia. Kobieta zmarła w szpitalu po brutalnym ataku w toruńskim parku Glazja - torun.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODV4X3pMVWYySGdHaTVKZ2p2ZXVOS2M0N3k4c2VmSlZmbGxweEI0dm96OU9GTmlMeTN2dXJQd0JzSGtqSDlQcWdoT3NmTF9kOFR5RGs5bTlpaU9QcFRjeENEQU5XZEcwYUlZR3N0ZWtzdmUwY3hhZ3I4ZXc0ak5jX290ZFBWXzdrTTZ6dVB1RjktZUJNUXFvSUVQVE9TT2lTeFIyOEFQSjRKZk40cDZrQ0ZwaHg?oc=5"
+      },
+      {
+        "title": "Włoskie miasta zadrżały w posadach. Mieszkańcy w panice - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzVxUTN1WFhJd1g1S0xQZkgyZGVZV3FwbjdBTl95Uk04X3VrV0F0R2JQUC1Zci1jYmJGcVkxWWZURkxOWUptQ3d3ay03cV9LdUpEMzFBQl8yZ2RVTGR6MGFXSDJBLTJOblU3eDl3LU9qTk13Z3ctN1NGWkk1T0tYbWtONlloS1FORW9SQkFlQkpDMHlhYlBfYU9ZUHo4bDhZZlZJ?oc=5"
       }
     ]
   }
