@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 18:15:55",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 388871,
-      "DOGECOIN": 0.59098,
-      "ETHEREUM": 8829.24,
-      "LITECOIN": 313.49,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "VII kongres PiS w Przysusze. Partia ma być odmłodzona - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjNiczc5TmcyQ1ZBTFZtX2JQNUM1V05aQ0ZNNk1WdDVBT0toTy1DRHFKWWNwS3d4N21abzdPNWN2S29zRHFwRHFwWmxIU0FoLVRqU2V5YTVMUnNfTllEYzhoNEZKVnA3TWFjUHRzd1N0dGdmVkplN3dTY2lqRUJJbm1VUVRxeG1HNlM5SXhaSnhYcXJKSFBOSlg5Z0I3S1pUbmJiT2dvRURpSjNLOTYzRTJkdlJqQQ?oc=5"
-      },
-      {
-        "title": "Tragedia w Starej Wsi. Ludzie mówią straszne rzeczy. To dlatego Tadeusz Duda strzelał do bliskich? - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbTV0RWg2NjdvTUNiaWNSVURKa3JXLUpzOGwtRDRuOFU0Qk12NWtpcnRUUWM4LTFCYUVkYjZqNnc2MVdTYVNwTnRzYm1iTDFwTFhJeGVCRHk2TFdRVy1OTFBkaklmTGJLNzJuRjY0NTdpbnAzNlZQTXp5TlU4NGVjcmh5XzhmY05TblBUalo1b0tuZW9uTWRwdlMzSzZfb2NhSG5fUll1TVpXbVBRLU1oU3ZWVFk3MUdTVnBv?oc=5"
-      },
-      {
-        "title": "Pijana kobieta w ciąży dachowała z 6-latkiem! Szokujący wypadek na Podlasiu - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZl9vdnIyei1QTVBfaFlFZ1BKUVhwQ0d3amFiWXNuNmthdUlham8ySzczZ1BqdWxfSWw3b09EWG5zdkdiVnJyeWlab3RxT1g5X2p0YUJ2bW5pYnpBdTVCUWEyLUpPaVFRTGVaSUMzR3UwQ0Z5eTRVY0daYVoxVjJGNnJBQ0FaU1BHY2NaV0xTRk4tSjVLSlRxa3NXeklvMkU5LWdfWHI5a2N0WGNtVlU5TUlSaTBKVDjSAbsBQVVfeXFMTW9fU1kzSERIY25CNldsQVhtck5NNG1kTE9qY0kxbXJhWlQyNU5oNE9tUWhhOWVLNFphRlhlVTU3eGdZbzR3bF9iUE5aWGZSbkRDWnpSZVdIcEwwYkdaMWo2dUQ4NHF5Z1JjX2pDZENDb0Z5TWpqaFQteG5rdkt6bUppZGlUVEEwSHZCdXdnMXd0VUFmRTdIMS1GYl9tcGRhYXl6RVU0UTZZaTE0SGo2OW5MZ2o2YnFkcll1aw?oc=5"
-      },
-      {
-        "title": "Hołownia stawia warunek koalicjantom. \"Jeżeli wszyscy, to wszyscy\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc05WRjM2WG10QW81OUl0Ujk3cE9ZZWw1cTZDVkVDSkhaMFV6TTNmUWFCRTM4NFpkcWpKbWRJYWdYbXUxNG8zQk9QYVZfWjdldHBobUpEcnZSTk42ZDBNaDVUcS1oLTRpamlIMUc3R3ZKYXhVU1JVX2dRc0VHbERTLUxmU0NRUTY1b3JLVXo2cXFBbVV1X2ZrM0pNTXI5QjloZzAwbHNrNGtPc25YSG1YYXlYbw?oc=5"
-      },
-      {
-        "title": "Błędy w komisjach wyborczych. Ekspert: Nawrocki mógł stracić więcej głosów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUZZVjdWUXdib2hqSHFpMXktdW5hV1NpcVJsQUpiTTVYa1VsaHBldFZPbmpHTzBMVTFvTjdNX0NWb3FrbzVkQUJmc2g2YjlaNmVvUnhWTTlLSlN1NkpqVmotUlhlVEJrT0dIMmVrdWFRaGhQVlkwNXc4Y1gtOTV2NG9valV0TEQ2cjNtbTRxLXloc20ySzRSX2QtZ0t0Q0pqUmstVEp6WFR3d3NNcnRQY1NtNUFHdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 19:11:33",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Karol Nawrocki o sytuacji na granicy z Niemcami. Zapowiedział ważną decyzję - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGR1cWV4VXVFLWpSREVCVTZfY040TC0wMDZGQ2RNZnJBcFdCUW1pOHdLbGNGOWN6NURHeGJGMUowYWU0SEtlWW5WMTJZQWNuZjc5RDBVV3M0alhDYjFadFVEZklTdWFNRHF5cVROam05YmFyMTZzVWNIeVRna2xrLWU1ek5IZHNMeEs5YlpkNFhteFRmNURVY0ozOHlPOFpNSHoyRWZaa1JWYnVjZUtUdFpfWVdsYmNpdmJqSlJINXViQQ?oc=5"
+      },
+      {
+        "title": "To oni pilnowali wyborów. Mamy dane z każdej komisji w Polsce [TYLKO U NAS] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ05ybnBEdG9uV1BZRWFvcFpTSlNOcFF0OUxZTGhtNk9Qd3FlZ0ZkMXVHME4yYkhpX05LZ1J6VG1FOHNJMzdhNFFKSWYwUmZQOGhQQ1NFbDRpVDluRXZMSlJZOVpQTFhVclFvbE5DblpVZHU0WDJoQ3l2UXNpWmVQN0ZDcEotMVhidC1lSjFkdEFWYmhUcWhDemkzRUlBTHVIS21PcERRYW9BVkRXN0dZVTRiY01UTkRmcFpIa3RHbng3LVQ1V1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-01 00:13:49",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 386328,
+      "DOGECOIN": 0.596724,
+      "ETHEREUM": 8967.54,
+      "LITECOIN": 313.49,
+      "RIPPLE": 8.19
+    },
+    "indices": {
+      "^WIG20": 2845.37,
+      "^WIG30": 3697.59,
+      "^WIG": 3697.59,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "Tadeusz Duda poszukiwany. Krzysztof Rutkowski ma teorię - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTdtTVJEbkNuRG1zVDI3TW9kVmVXUWY5dUpJUVk2eXBmTmdJdWIxc1lMT0JMYVhEZHQ1VjRiMGJnX25NMUFYNFM5SnN2bnR2dElUcUNTVjNJZ0M5UVB6NWNnZEVLdFVMbU9ZeHhwcFk2blhLX3dpd2UxX3lUdGF6TDdWc0xCU1U4TmZSbklDUUFrSWFVb25FbGhlRmFla2tVMjM3dQ?oc=5"
+      },
+      {
+        "title": "Trudna sytuacja na granicy z Niemcami. Donald Tusk o przywróceniu kontroli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0g1dEJmakg5TFltT0RJb2lqcGdjdkhDNHR3blNEUHdCbmlzelZ6Mk9SMkxZb3AydmxqeVVhLUsxaHR2bEl2TTdWSEpEVW5XSlVoX3RSelRSamVLSS1QVFAxTDlaZEVxMmdTd0IxUU05R1JGbzMyVm1sTzM4MEJJWVZWcVczMU8yLTJjY244RmtZQ1NualBLWktJYTE5WHlmNV9UOFhqTEFXTjFOdW0wZ1Q2Q2x3dw?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy: prokuratorzy zażądali wydania akt z protestów wyborczych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm42R3UwVUNEckFFcnFET2xzeG55azAxNDRrSndSNGd5aV9LTmRhVFdvY3A3RzVjWjRKTFdsOUg0UEgzRU5VSFFkaVM1SkpRV0ZZNHZIQ21vRXRUQ0U2S1hmQ2dHOG0tUUtjVXBiaENQcnpHZGc3Skk2OWFIci1vTUlkQ1hPVDdVbDQtVnJBQ1NKbjRFSTFqdF9TLVlDZXNoZmJxdmdseDJGd2pacThOaWtRR0pOc3pSQXBoY0pwXzdKSlhUell2WTMwbnFudw?oc=5"
+      },
+      {
+        "title": "Nawrocki zapowiada Radę Gabinetową. \"Sytuacja jest dramatyczna\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUFfWWMteU8ybVFPSnBjUDZnMnNTRmhLWUFYX0xPS3l0eTloUnZiQ2d0TzBtUGY5Rk1ybGY5VkMwclRaT3JyWmI1MnBjWEE4OTM3SjNDTldGenp1M016SVlXaUUzdnpGZXlsTnFDMTBoV2xNQnJNUzc0UXdvY1NXaUxlTWhuWE1LWXJ5YjJrZGhBNzFaeENVS01zRXdHRzBGYnVvSGlR?oc=5"
       },
       {
         "title": "To oni pilnowali wyborów. Mamy dane z każdej komisji w Polsce [TYLKO U NAS] - Business Insider Polska",
