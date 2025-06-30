@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 09:12:48",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 389138,
-      "DOGECOIN": 0.588767,
-      "ETHEREUM": 8786.33,
-      "LITECOIN": 309.62,
-      "RIPPLE": 7.94
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Poszukiwania sprawcy strzelaniny w Małopolsce. Nowy komunikat policji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMURhNk9Hd0xNZGw3OFExclBoOTdadVBHWDc1dGd1R2dBVWZ6RnY4MDVqZFRVWXZXNFEwYkRBTXJIY0ZKOWNabEFLb1B0c2M3WHYwU09aZGxJaXNXRzJ5QzZZdFVKVXJBVGtFTjNaQWpyd29KWEpPamYtRFRXN0o5Nko3b0hLX1dVR3hTWEQ0b0JGQm00YV9OY2JnVmZFcm9XX2xuUVlCYTJxb2RtS1BWZ1JNbzF5aklRbVhlOUNidVZBenhtR0E?oc=5"
-      },
-      {
-        "title": "Jest nowa analiza na zlecenie Fundacji im. Stefana Batorego. Czy wybory zostały sfałszowane? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWdVQmliR09PSjZZWW1GcnBmeXdUMkFUcjF0N0l5ZDFsandydzJEYXl6Q1hYLTJ1aHI5Q3hkNkhQck12bnhlMGZyRWVPeE1tdjd4eVcyTjB1STdqazhucDBEWUtmb2RtbF9QSWk1aU1aR0puZVY0SXRSMGtGWF9PNUJEVFBYN1FvWkpiUWozRUI0QWpkSlJtcGtTWWJoUG0yOGdGWjNIUGc0b0xVT0NmWENIaUFDZUFWdTRmb2dyUDZiSFNvN19r?oc=5"
-      },
-      {
-        "title": "Spór o wybory. Tusk pogroził koalicjantom? Nie wiedzą, o co mu chodzi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFRbU9CZE5aNEJRaXo2ZTFsVzVsUFVycmNYQ3RnX0tSX3VhVktxV0cxN0paZ1JxczBlejNtem5iSElWMldSOWIxRVNZVkxoU0VTcW12VE9YSkxNdVhNT3VLUjFjdmhoVzRQRnBTS2xzcE1RcjYydWxyZ0RDMEp4SmdFa3hZU0ZWVEhXMlkxMHFUcWtyWkNaSnhtemQxeElDX0RnZUFwcVQzZFdaOHc?oc=5"
-      },
-      {
-        "title": "Nowa wiceprezeska PiS? \"Niewiele osiągnęła, potrafi się ustawić do zdjęcia z prezesem\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmVTUzNJeHg4QVpkNU9yMzRoN2hzLWViRmlBZE85aHVnTjIycGM0X2dFbTY5U0wzWnNuVm1NNTVDVzhSRWp0RjRvZnh2MlVrZWVBRmFJbDM5V01mN2huNzVmUHR2OFRJVlltX0E2Q1djVTdrNFlhRXdNZ3QzZVRkeDM1aGtJYWpRd1Z0Rnp3c19xa2U3c3JnY1U2YktpbHNf0gGfAUFVX3lxTE5zVW9ZOWpqOXVxbmhIeWFSaGl6cWE5UndnNWI1a3RzeTNzZkdwRDBwY3RfRWtpeV9uc05oOTEtdTdvOUNseXBMRVlxRjc5N2NmaDB3eVREemZBV0puWXFDWEJ0MjQ2X3QtVU9DNE9IbEZyUU1TM2xDZlBleUxQOWhVTlRvakp1SlN4bmtUWVJ2NWNZR25TZGhEWHNqbHNURQ?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski rozpoczął eksperymenty w kosmosie. Przeprowadzi 13 testów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkpiY0UtcjRCODgzQlJmSnVtTlZaeGhjOE5Cckl4T3M3VlVfb25HeFJXc2ZlaTRkTEJSSlltN01CeDVnQWM2c253eEhrcV9yNVBGRWNVSFZocjBwelc0bDdpSzhzeS0wRWFzVnR6V2VqQXNvZVo1UmozRlpWNkxpVUo5REo1LTdwR2RnYU9rSHVEeUplTnZFMlNwbmtob2N1QVpKQUU0Nlo0NUYyeEdPTG5Tc2lUY29aNWNOdUtfazBfM2Y1QVQ5SmY5ckM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 10:17:05",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Minister Siemoniak reaguje w sprawie sytuacji wokół migrantów na granicy. \"Histeria motywowana politycznie\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUklWaC03SEZ0SF9HcW9oREJXanBNNWNfbzNFWV9ORGJrS1FXVDd6azlva1gta2pfM1I2cTI1TzBsOFdSS0ZIWlQwRFFoT1NoSEp0UWJWTGFERVNFaVhwY1dKSXRsX09POTZqSE9jS3NZaHp2d3RzZUh5dm03SDE0dV91cDJCdzM0bGJmWnNnaVU0c2JrNXJzWXpnV1VZajRJQU56SmtrRDM1THNvUjhFSHYxWV80SW5xX0E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 15:28:55",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 390002,
+      "DOGECOIN": 0.596877,
+      "ETHEREUM": 8940.05,
+      "LITECOIN": 310.83,
+      "RIPPLE": 7.91
+    },
+    "indices": {
+      "^WIG20": 2857.1,
+      "^WIG30": 3711.34,
+      "^WIG": 3711.34,
+      "^NCINDEX": 245.97
+    },
+    "news": [
+      {
+        "title": "Tragedia w Starej Wsi. Mieszkańcy ujawniają motywy Tadeusza Dudy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUpROHYtZFAzWDFlRXZ1UG9VU2dscm9PSlpoT3UweTVOYWNUSUk2NDFyM1NyX0pqMW92NElKbmRaTGRxclZ0WUdrM2dxU0MyREJ0NWVmSHA1cDBNQ2hiN0RiV0NEWldOVWxiVVM0NEtVU1BEZTdXeEEtZnJTNVgwMXJRNndnbzhucEpFa3Y0czQyRC12cm1nWWx0T2dzNE5ibGRKdlpHcTVwQQ?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy: prokuratorzy zażądali wydania akt z protestów wyborczych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm42R3UwVUNEckFFcnFET2xzeG55azAxNDRrSndSNGd5aV9LTmRhVFdvY3A3RzVjWjRKTFdsOUg0UEgzRU5VSFFkaVM1SkpRV0ZZNHZIQ21vRXRUQ0U2S1hmQ2dHOG0tUUtjVXBiaENQcnpHZGc3Skk2OWFIci1vTUlkQ1hPVDdVbDQtVnJBQ1NKbjRFSTFqdF9TLVlDZXNoZmJxdmdseDJGd2pacThOaWtRR0pOc3pSQXBoY0pwXzdKSlhUell2WTMwbnFudw?oc=5"
+      },
+      {
+        "title": "Nie żyje 24-letnia Klaudia. Kobieta zmarła w szpitalu po brutalnym ataku w toruńskim parku Glazja - torun.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODV4X3pMVWYySGdHaTVKZ2p2ZXVOS2M0N3k4c2VmSlZmbGxweEI0dm96OU9GTmlMeTN2dXJQd0JzSGtqSDlQcWdoT3NmTF9kOFR5RGs5bTlpaU9QcFRjeENEQU5XZEcwYUlZR3N0ZWtzdmUwY3hhZ3I4ZXc0ak5jX290ZFBWXzdrTTZ6dVB1RjktZUJNUXFvSUVQVE9TT2lTeFIyOEFQSjRKZk40cDZrQ0ZwaHg?oc=5"
+      },
+      {
+        "title": "Trudna sytuacja na granicy z Niemcami. Donald Tusk o przywróceniu kontroli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0g1dEJmakg5TFltT0RJb2lqcGdjdkhDNHR3blNEUHdCbmlzelZ6Mk9SMkxZb3AydmxqeVVhLUsxaHR2bEl2TTdWSEpEVW5XSlVoX3RSelRSamVLSS1QVFAxTDlaZEVxMmdTd0IxUU05R1JGbzMyVm1sTzM4MEJJWVZWcVczMU8yLTJjY244RmtZQ1NualBLWktJYTE5WHlmNV9UOFhqTEFXTjFOdW0wZ1Q2Q2x3dw?oc=5"
+      },
+      {
+        "title": "\"Mieli mnie wyleczyć, a trafiłam do sekty\". Odsłaniamy nieznane oblicze Doktor Miłość - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2V3V1hsX0NPSFQ1U0twLUtFWExxaDNKSHRPVFBMUjhQUFhKdDZVaFZ0TGhIVEE1bERzUHhtdjB4SFZsOWhvMVZRSTZDSERmb0lSRk9GYk1WSWxSejJaY0NJVXF2YmJwRkFGRGExSE51TDhOU09LbWRXSDVwRGZZNlNFRFdNSWlfUDRab05Xd0ZPYW5Qd1Zmd1lqd21waVlzZzJ4Mi03cExLa095Nkx3VTRqRTJpQi1hdmJ1VUk0UDhXUQ?oc=5"
       }
     ]
   }
