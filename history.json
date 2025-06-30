@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 15:22:55",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 388388,
-      "DOGECOIN": 0.58556,
-      "ETHEREUM": 8782.34,
-      "LITECOIN": 309.63,
-      "RIPPLE": 7.92
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Zbrodnia w Starej Wsi. Wielka obława pod Limanową na sprawcę strzelaniny. W akcji helikopter, drony, kontrterroryści - Gazeta Krakowska",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZVZka2hiVmVtY25ROTViYVFXRVZBd0hUVlpLZUZhSHA4bjc3dWJIckhsaVhEWjJXbXJwS0ZGMXY0b2N3YjJHanNTY0lSS3JCelhZdmhuQXYzUTRHZU01LTB4eW1vdVJiWFRDRkdxRV94Zzhtd1JZcmtpT3kxMDJrWmNpZWZoQzJmYzVWS1RwN1V3ZVhxd0kwZGRGLVpKZ1BwZ2xaNWpOSjE3Y25sazg3SkhMLTRLLVllVnMtZGpIZVd0UVBwMGI3VlFZTXNPZEtUZmgzVlRMMkw3MmR3SUlIVGlZVWpmZkVGWVRTNQ?oc=5"
-      },
-      {
-        "title": "Prezydent Andrzej Duda w Kijowie. Niezapowiedziana wizyta w sobotę rano - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnNURmhtMk02V0ZvY0VKUkloLWs4bG41X1pQOHNGYTlEMVFRZ0ZQN1RxRHk2VldCWGM4RmZpSl9pNVp5dktVRWdCbVRrWlFqV05nRTN0UTU2QTN4X0NqWFhWRklEaDQ3NGd3SmFpZDJmaVg0N3lncWtIUFNXaXRKYU96LVhvYWNoZkpwMA?oc=5"
-      },
-      {
-        "title": "VII kongres PiS w Przysusze. Partia ma być odmłodzona - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjNiczc5TmcyQ1ZBTFZtX2JQNUM1V05aQ0ZNNk1WdDVBT0toTy1DRHFKWWNwS3d4N21abzdPNWN2S29zRHFwRHFwWmxIU0FoLVRqU2V5YTVMUnNfTllEYzhoNEZKVnA3TWFjUHRzd1N0dGdmVkplN3dTY2lqRUJJbm1VUVRxeG1HNlM5SXhaSnhYcXJKSFBOSlg5Z0I3S1pUbmJiT2dvRURpSjNLOTYzRTJkdlJqQQ?oc=5"
-      },
-      {
-        "title": "Błędy w komisjach wyborczych. Ekspert: Nawrocki mógł stracić więcej głosów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUZZVjdWUXdib2hqSHFpMXktdW5hV1NpcVJsQUpiTTVYa1VsaHBldFZPbmpHTzBMVTFvTjdNX0NWb3FrbzVkQUJmc2g2YjlaNmVvUnhWTTlLSlN1NkpqVmotUlhlVEJrT0dIMmVrdWFRaGhQVlkwNXc4Y1gtOTV2NG9valV0TEQ2cjNtbTRxLXloc20ySzRSX2QtZ0t0Q0pqUmstVEp6WFR3d3NNcnRQY1NtNUFHdw?oc=5"
-      },
-      {
-        "title": "Sondaż. Polityczna przyszłość lidera Polski 2050 Hołowni - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFNHemxHUUpqUEFhdzJHb2l4dXBsbzRnb2N6LU5ZUDRKMGZ1WFcyNVpiU0ZOYmw3TVZQLUZ2a0dsem4zU3lKaVNDeEdPUmt6UG5LUzNGaW5RbFJkTkl3VmpjMGtkWnBjNzZMU0htVEtBdzRvMURUd0JBNDNfWWhWa0EwRnRBYTBHZDBfU1I1aU1iZ18zMmxFZll30gGWAUFVX3lxTE5RbGFfVHJDa25GeE51TG92c1VubjE1VlUwRnJoUzJSejNlNk0yVlRHck5pMEJ5NXlYVXlwUEpRakZ1MmsyM1JxQjh6M0p0QkxzTlp4cXU0NjNRaTdOSTY3b1ZVeFNYZjlFQld0cFJHVGVwQ0FfZWYwYnNjMGJNdHljSkRQcU03MGlQcFZhVHdtRmFqRUpRZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 16:12:00",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "W tym salonie pracowała zamordowana Justyna. Tak wspominają ją koleżanki - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXRBZFhFMjhvbEI4QmhEbzh3SU9ZWDlrWmZMZFpqRHpkcXljdkJHdmtQbmxMZmVTRlNUYlJyTDZrNkc3YWlrYUNNQXlnVU54dVQ0aTRkSHhDMTdZRzN3NXVsMTZ4TlczWWdEMlpOc3JpTVpJNWRiOFl4RVRXSVh5LXpMeTZMaHZ6TzlteXVPQVhqX0txVm5taDlFUDc2dmNURHNQWTFGaGhqZGZ5YzZJODZmOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 21:10:52",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 386943,
+      "DOGECOIN": 0.595337,
+      "ETHEREUM": 8982.92,
+      "LITECOIN": 310.65,
+      "RIPPLE": 8.1
+    },
+    "indices": {
+      "^WIG20": 2845.37,
+      "^WIG30": 3697.59,
+      "^WIG": 3697.59,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "Co Tadeusz Duda miał wspólnego z Lasami Państwowymi? Instytucja wydała komunikat - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaW9Remtlcno3VXI1enNLLU9PREM1WEdnRWJ4T01VbXJ6c251YWtvb1RvZGp5Y2hBc3Fvei1Na1BGeUpSeUpVRHpjTkRpcWZ4R3k1TjRsSHFuTmZIVXNKSTJJNEZLU3paaXIza3k5Y3JkWGhydnhLVnd3cVIwZFViT3VnZ09taHFYbE4zb2tWSlo2Y1BheFBHZ3ZfRktjSGFrYmdhWXFFWFZjdVA5UDVyT0o3bng2WHlVSlIyLU1rVmFFUHc?oc=5"
+      },
+      {
+        "title": "Trudna sytuacja na granicy z Niemcami. Donald Tusk o przywróceniu kontroli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0g1dEJmakg5TFltT0RJb2lqcGdjdkhDNHR3blNEUHdCbmlzelZ6Mk9SMkxZb3AydmxqeVVhLUsxaHR2bEl2TTdWSEpEVW5XSlVoX3RSelRSamVLSS1QVFAxTDlaZEVxMmdTd0IxUU05R1JGbzMyVm1sTzM4MEJJWVZWcVczMU8yLTJjY244RmtZQ1NualBLWktJYTE5WHlmNV9UOFhqTEFXTjFOdW0wZ1Q2Q2x3dw?oc=5"
+      },
+      {
+        "title": "Duda uderza w Bodnara. \"Coś niedobrego dzieje się z jego intelektem\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTJHZ1ZMX28wSFdUZkg5MVBaSkZpVWdhZ1VJY0dHT2FjMy0tM0I1SnZvV2Vtd2d4WUdpdFRjVnNHUFE0UGFKaGo0bWpFRE5Mc3ZuMEg1ZjR0X29Rc0RpYWNqMFM0SmhsUkZGRmRhTmIwaTBabHNsVHBjVk9hZF94M2IzNEstaXRYVU5GM0RUY3VBV3VLVTZvQ0kwZTlIckNxT09iT2NaV3JSUC1LdmVUMWQwOEdMQkN2ZVF2a2dxQUE2NVRmdEJz?oc=5"
+      },
+      {
+        "title": "Nawrocki zapowiada Radę Gabinetową. \"Sytuacja jest dramatyczna\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUFfWWMteU8ybVFPSnBjUDZnMnNTRmhLWUFYX0xPS3l0eTloUnZiQ2d0TzBtUGY5Rk1ybGY5VkMwclRaT3JyWmI1MnBjWEE4OTM3SjNDTldGenp1M016SVlXaUUzdnpGZXlsTnFDMTBoV2xNQnJNUzc0UXdvY1NXaUxlTWhuWE1LWXJ5YjJrZGhBNzFaeENVS01zRXdHRzBGYnVvSGlR?oc=5"
+      },
+      {
+        "title": "Znamy najnowsze prognozy na lipiec. W tych rejonach wczasowicze mogą być rozczarowani - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZU1tSWVTZ2I5RjhWZ2dzemVIM1dlcWxZUzl3Z0JaTGMtdVJuc05PeE5halctdlNqbUNHcGJiOW5TWHY0SlAwdnBKSXg4LUlXMjNFRGNnaXRKM0szaU00WXlqOUx4QnZwZV9fVVpBdlB5Vy1XMEdhdV9BMGJLMFNJeGFQQVBydDNmeng2YmlZNTczSExNWjF6djhJalhNM1V2LXpKYzY0MDN5bE14cUNqNTFhaW82LWM?oc=5"
       }
     ]
   }
