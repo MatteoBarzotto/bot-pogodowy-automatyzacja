@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 07:14:39",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 388589,
-      "DOGECOIN": 0.58728,
-      "ETHEREUM": 8792.34,
-      "LITECOIN": 309.1,
-      "RIPPLE": 7.91
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Strzelanina w Limanowej. Prokuratura zabrała głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQm9fbUkwM2hhRENZMHVheVJuNFd0ZjJzU180alhfN0hzbmpOeXlXRU5KRi12OFdDSjA0V2g1b09IUzVMU1IxYkNpNE1QUElFbW5OdlFpYkdiWkgzVVJrY244RjBvYzh6c3hGY3JtQjM4NDRoRzBqMXdrNEJJYVdnY0Zob09Cc29tOEhkc3g1YjF3QQ?oc=5"
-      },
-      {
-        "title": "Spór o wybory. Tusk pogroził koalicjantom? Nie wiedzą, o co mu chodzi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFRbU9CZE5aNEJRaXo2ZTFsVzVsUFVycmNYQ3RnX0tSX3VhVktxV0cxN0paZ1JxczBlejNtem5iSElWMldSOWIxRVNZVkxoU0VTcW12VE9YSkxNdVhNT3VLUjFjdmhoVzRQRnBTS2xzcE1RcjYydWxyZ0RDMEp4SmdFa3hZU0ZWVEhXMlkxMHFUcWtyWkNaSnhtemQxeElDX0RnZUFwcVQzZFdaOHc?oc=5"
-      },
-      {
-        "title": "Jest nowa analiza na zlecenie Fundacji im. Stefana Batorego. Czy wybory zostały sfałszowane? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWdVQmliR09PSjZZWW1GcnBmeXdUMkFUcjF0N0l5ZDFsandydzJEYXl6Q1hYLTJ1aHI5Q3hkNkhQck12bnhlMGZyRWVPeE1tdjd4eVcyTjB1STdqazhucDBEWUtmb2RtbF9QSWk1aU1aR0puZVY0SXRSMGtGWF9PNUJEVFBYN1FvWkpiUWozRUI0QWpkSlJtcGtTWWJoUG0yOGdGWjNIUGc0b0xVT0NmWENIaUFDZUFWdTRmb2dyUDZiSFNvN19r?oc=5"
-      },
-      {
-        "title": "Izraelskie wojsko celowo zabija nieuzbrojonych Palestyńczyków szukających pomocy - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUhJSnFESXRMX1VZOU5Ic2tXT0hUdzgxTU9IX0F4M1V3UlVxZmdHYWNlMVN2b1kwUjZTelo0am53X3BzSEhQWldXSW9GQ214U2pFbWZYaVpBSmNFT0VRSU0tUHJnblh1RjlxSjF4eUZ4UTF3SHFyY2pvd1RBV1RsbV9JOGcxWXN6VnM1QWZIVVlVemltNzJvakNRSGYtNDlCS3NjTjRNMFRKVmZhZmJBdGZ2ZWlaelFsNmhocEpkS2JKeHBmcjJVeGlXVVNSUC1L0gGjAUFVX3lxTFAxSzQ5dnlKZXN4T3BaRjFhdzNTTE9uYTZFM0IyamhPc3hkWU5neFJSTHhlTUd0Ujdld2g3QnlGbVlYUklsNnRsVW1nRUxKTHVuUHBMYzB4UFlhMXJYVVg0ZG9ZNXoyVTdURjlkR3o4aGpObzFTNEkxdlo5ZlFWVUxNUTFqNm5sYmhpVzNNZDk5d1dWYk1TVDRzQS1icS1xR3NfRVE?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski rozpoczął eksperymenty w kosmosie. Przeprowadzi 13 testów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkpiY0UtcjRCODgzQlJmSnVtTlZaeGhjOE5Cckl4T3M3VlVfb25HeFJXc2ZlaTRkTEJSSlltN01CeDVnQWM2c253eEhrcV9yNVBGRWNVSFZocjBwelc0bDdpSzhzeS0wRWFzVnR6V2VqQXNvZVo1UmozRlpWNkxpVUo5REo1LTdwR2RnYU9rSHVEeUplTnZFMlNwbmtob2N1QVpKQUU0Nlo0NUYyeEdPTG5Tc2lUY29aNWNOdUtfazBfM2Y1QVQ5SmY5ckM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 08:19:06",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Brutalny atak w toruńskim parku. Zmarła ranna 24-letnia kobieta - Interia",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHdnQk45Qkk3aHlMcmt5TXJ2cDJWR1FRZWQ4dGJWaXNYMlRMQzRwZlR3VkNTazdhbHJEVGdvR2ZKTE5iWWhUUUFWcDFGTFN2eS1tS1BObEVLazFLZ3A1RU1rNE0yUThocTBpLUxDUzcwQkpDbHFUQTYxNDNPM0lfSVVMVFRBZGZIVl9IUkJ5Z3lkM0praThyZTZiN1V6NW1hRGVQQjdGQ3VYWkxQOTZ4QnJsNUU0eUJnSWRYVUJaOXY3dXlSN1E?oc=5"
+      },
+      {
+        "title": "\"Obywatelskie patrole\" przy granicy z Niemcami. Policja użyła gazu. \"No dawaj, p***le je***y\" - Radio ZET",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeU9vYmFrX09zWGdNS3E4ZVdiOXRhMDZzNE9ia0N3NGNkRFZfS3hCLWFUdFlyTVZmSG52WHlsRGlteVk1Yy1TUG9JZG1QTnBfelNMZWQzY2xWY2JZMWZ1WmZsRmV0bTRHaG0yRmhvWjlyV1JtLXAtVFZ3Y3BaN0lrUnA4OGdYLWp2N1lMWHEzM28tMkw4ZXlMM3BHWENYZEp3bGJSVTJ5R1M5TXNXclNnZzhDeDFrNW54NHRIZg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 13:12:48",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 389546,
+      "DOGECOIN": 0.596639,
+      "ETHEREUM": 8891.12,
+      "LITECOIN": 309.75,
+      "RIPPLE": 7.88
+    },
+    "indices": {
+      "^WIG20": 2852.02,
+      "^WIG30": 3706.62,
+      "^WIG": 3706.62,
+      "^NCINDEX": 248.38
+    },
+    "news": [
+      {
+        "title": "Chcą ponownie przeliczyć głosy. Adam Bodnar powołuje zespół śledczy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXdQTmZRTWZUNVBQZVM5ZEt2eHdXYUhJellRNVNUMW1RcS0teDI1b1VNM1gtRG1jMGF6cWRncTZMNTdFbnNwZThldFNxSFZlb3JiMHZRNU9JSzNSUFowNndfeDd0SlhrdDhmZzBfQ3BDUEs3Ym1TWGVsSDE0bjlhZ1hHSTNkaUowdFE5TDliNmRUZkNXaXZBaTZLVFFiNVRZWVlRNXBySEhxUnNQb0M3QnA3VVBvY3lNamZxUlkydDdQNmJJZW5QOA?oc=5"
+      },
+      {
+        "title": "Rzecznik szefa MSWiA odpowiada Błaszczakowi. \"Pan dezinformuje\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUF4WkFqejFuWU9ERWNsNEoyaUsxSmpoVmZrSy1QbGVHQ3JZaXVpVUVPN2tnbWFsREdheGduMW5KWWdyalYtd3VJcE5qQUg0Z01JVDNpWFU3MFFJZjJmRjQyWVRuSDFxVVFNQXBjVU9kYkd5X2dnNmtvUkZ4ek5hdU5pTm9Nb3lXZE0xV1V3M1FEdTg3NjFCbmhOSTdMWjM4cFFkdk9HRHBycDFROXBBQ2N2bmljTnIwTjRGTkRxOWhKYm9hVUY4OGFuVEUydWc2aWc?oc=5"
+      },
+      {
+        "title": "To był motyw zabójstwa? Ujawniono, co zrobił Tadeusz Duda - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeTZxeHpTY19mbWJKSm0zaVdrVkp5dnc0OHo5NDZ6dnNna25KOVg4M3NObi16UlZOVzhGX2hFdVhCdHBNMWQ0OFVBQjBJdzZqMnVSbVY4SkJxQmtTdFhETmVQN2RWU2VVTVdHUld2WE1ndUk2ZUpkQlVHb21ocXNObnlVaUJiX0k4bFJyVzlhWXNnemZ0d2JYZU9rX1gxT1YzUGFsRg?oc=5"
+      },
+      {
+        "title": "Brutalny atak w Toruniu. Ciężko ranna 24-letnia kobieta nie żyje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWY4b1JJU1JVOW1weTRXb0I3SEdkMkx2Z0dPOEdxZUk1elVra0JyR3VCVmxMY3gxVzVidWhvejNBVVNTOVBIeU5hUTgtNk9NVkh4Y3lxQVFKSzkwNUFibV9adEVkd2tTYjloSDdXdXNCQ2lLRVh5RWpTd3VIVDdSWEZRVVczVXoxREZtM2t1Tl9pRW9kcHVNZjc3TUJweTZBSEhhNmtaV29HMEU?oc=5"
       },
       {
         "title": "\"Obywatelskie patrole\" przy granicy z Niemcami. Policja użyła gazu. \"No dawaj, p***le je***y\" - Radio ZET",
