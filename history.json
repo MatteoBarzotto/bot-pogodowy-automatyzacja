@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-27 21:10:38",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 386876,
-      "DOGECOIN": 0.572504,
-      "ETHEREUM": 8700.63,
-      "LITECOIN": 302.86,
-      "RIPPLE": 7.57
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Strzelanina koło Limanowej. Prokuratura zabrała głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV19LZG5NVXZYclF1a0RrQnJBX0s0SW4zalRpZjhfNThjQWVzalNNX3JhZ2Z3MGRMa2RjSjBjMHRyLVc4Q3pVMjFQdGgyUnllRFdJb0o1aU9uM0J4Sm1aX2pnTkwwNlBNdjlPQ0t2X3V1czdNa2pxa3BQWVhRVW9Wdy1oNUJ5YTJqY3IyUkRWUmQ1NUZ2OFE?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy rozpatruje protesty wyborcze. Pierwsze decyzje - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnhnbC1uSi1IMVgxSnlqMGV0bFgxcjFWeDkzZ2NDRHJieXFieVhQdmFXYjdNaDB2YmdzLUdaaU4xeV9NWmJmclNTZC1iWVJzRWptVVRobHdEd3cwZ3NKbHB2cnJfVTFaVTU2SHVCUEgwRVktY05zdDVUeUFzWmdxcEdJa1NlZDNmMnA5REdMUzh5NnJ5?oc=5"
-      },
-      {
-        "title": "Jest nowa analiza na zlecenie Fundacji im. Stefana Batorego. Czy wybory zostały sfałszowane? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWdVQmliR09PSjZZWW1GcnBmeXdUMkFUcjF0N0l5ZDFsandydzJEYXl6Q1hYLTJ1aHI5Q3hkNkhQck12bnhlMGZyRWVPeE1tdjd4eVcyTjB1STdqazhucDBEWUtmb2RtbF9QSWk1aU1aR0puZVY0SXRSMGtGWF9PNUJEVFBYN1FvWkpiUWozRUI0QWpkSlJtcGtTWWJoUG0yOGdGWjNIUGc0b0xVT0NmWENIaUFDZUFWdTRmb2dyUDZiSFNvN19r?oc=5"
-      },
-      {
-        "title": "Złe informacje dla Donalda Tuska. Potężny spadek notowań KO - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY09EaTZ0X2lCdTFTZlAxUndvN2U4NHItQnV3bGNqLUVkOXp6MGFWYWZDa3pKZFFaQmxDNldQSEp3djhzeUZCWURkVVRiR3JPcFRYcE8xN0RFT2VLOWMzMzR4LWduRks4cTJNSVdoV21TXzF4bWNwVlFhNVZrLVB3b2RGdFdscWVnWF96SjFodmVpaXNLbUVjVnBMVEMwWlFiVEVldUdkWEFrU0xIdGlNdA?oc=5"
-      },
-      {
-        "title": "\"Kończymy wszelkie dyskusje\". Trump zrywa negocjacje handlowe z Kanadą - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenFKMXRpR185d2V0eUxCY0dsckhyUkU5Yjk4Ull6Q2lZQnJjbXFvNElidk4xaTBJSXV5M1dkc2dpQWJreW5xZVlJaXRtLWtIZTZQRFJldXBWRHpYTVZPcUhlNTNNLTE4WXVkYUNQZnZNdXc3NkttSlhIaE95WWQ5VDVxdDIwTTRkLUF5VWY3YmFKUlAtUkI5NHU1RGhPa0NJWW10RGhRVkZkOThQTWFLTEVvZTd2SEJjWHQzYUlTaw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-27 22:15:03",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Aleksandra Uznańska-Wiśniewska martwi się o męża. \"Najtrudniejszy moment\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOEpEX2JIWXN6SkJWanNHcVpCWHdPSFdxejg1a2s1ZUF6UkZvYjRJZFlqSHA2T2hzVmxVSFFHVnk0RGZTNV90eUZNU29yNmZrUnBzUi14VnFxWnI1MnI5eTgxUlpESElvaXl3WGtIZXZYYXA3V0kzYmZKT2g0ak4yYV9sY01CcE0tVkJNUS1VcW5yMWl6YWJJSkM4VVExaTFKNm1zVkFucXpqdEYybkNPWlpXU1dsbGhVYmdDWXIwNlNXc24xOEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-30 05:20:58",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6177,
+      "EUR": 4.2362,
+      "GBP": 4.9721,
+      "CHF": 4.5307,
+      "JPY": 0.025049,
+      "AUD": 2.37,
+      "CAD": 2.6521,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 392590,
+      "DOGECOIN": 0.605259,
+      "ETHEREUM": 9049.49,
+      "LITECOIN": 316.61,
+      "RIPPLE": 7.95
+    },
+    "indices": {
+      "^WIG20": 2815.66,
+      "^WIG30": 3660.25,
+      "^WIG": 3660.25,
+      "^NCINDEX": 248.13
+    },
+    "news": [
+      {
+        "title": "Zbrodnia w Starej Wsi. Jest list gończy za Tadeuszem Dudą - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0hmeVdFY1BzNnBzc3A3TkZzRlJCa2xGa2RrUlBXcWZhMDMyd2pqcjE2VGZtV1A0MVNsZVhRYmpjYmZzUmRmWmJLWVZOcUhCMHBXbmRCZGdLNjFTME9DVDJWbENVSHZGRHBEVThXTHBsdDBfZzc4OGJiSnN3c21BT2MzOVl2NGFtaVUyQXFmQXZTeDRDM3hCVXNLazd0S194UmtDcg?oc=5"
+      },
+      {
+        "title": "\"Obywatelskie patrole\" przy granicy z Niemcami. Policja użyła gazu. \"No dawaj, p***le je***y\" - Radio Zet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeU9vYmFrX09zWGdNS3E4ZVdiOXRhMDZzNE9ia0N3NGNkRFZfS3hCLWFUdFlyTVZmSG52WHlsRGlteVk1Yy1TUG9JZG1QTnBfelNMZWQzY2xWY2JZMWZ1WmZsRmV0bTRHaG0yRmhvWjlyV1JtLXAtVFZ3Y3BaN0lrUnA4OGdYLWp2N1lMWHEzM28tMkw4ZXlMM3BHWENYZEp3bGJSVTJ5R1M5TXNXclNnZzhDeDFrNW54NHRIZg?oc=5"
+      },
+      {
+        "title": "Tragedia w Jarnatowie. Podlewały kwiaty, kiedy wjechał w nie pijany kierowca. Matka nie żyje - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTJBeGtaRlllNktjTUZiQzRqTl9QQ2tWWlVZVzdBaXFFYUdIZHB1WlQ2THN6NGFZenJDUmhoSmpvTk5xUzZQQzhGdzZuSHgyU3BTeUdyMGZ6d1NaWmhQaTF5aVNndXlVejRyaUxpZndHSTNJNVoyMmFGSWdrTW11d1RRdU5VcVpsaUxYNWFWcDJncUZFcDFoME01S1RMTDBUd0Zv?oc=5"
+      },
+      {
+        "title": "Przechwycili rozmowę Irańczyków. Komentowali amerykański atak - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNci1QYUJyM0RXSkNKR2tPMnZDSTBkbXlrbThsYzhSVGVMRkFhU1NBdFBJdXdWQzdLdDFHUEl1dE5NTjVGVlhwaTdxbU9qZk9aWmJ5QnpqMzRBSkNvU1g2VkhBRkp6YjNfTDZNTl9IanFaVkVURV9OMGRJNUJUQ1VueVk3QWRoQlVObTUxRkdHM3RncWRjSUFibHphMml5TlBNRzFzUS1B?oc=5"
+      },
+      {
+        "title": "Prawybory w Nowym Jorku. Poparcie miliardera nie pomogło - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLU5TVGh1YmFBZTlwQUY1dXZGRDZuR3l2eEtYYXZZeDUzcXdWZmFDQjFtZmVFWUYyX3o0cTdRVlpYeTFvWFZXdGtyVVQwQ2h1Sm9RVThsTVhXZ2xNWUVmM2xBREt4MXdocFpTbElxRUo3aktIU0dMMV9VMFp2VG01YjBIeVVHLTFnUFAxNDBxWnl2cmptM1pveA?oc=5"
       }
     ]
   }
