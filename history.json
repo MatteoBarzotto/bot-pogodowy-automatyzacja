@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-29 05:24:28",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 388297,
-      "DOGECOIN": 0.590449,
-      "ETHEREUM": 8801.92,
-      "LITECOIN": 313.14,
-      "RIPPLE": 7.92
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Jarosław Kaczyński wybrany na prezesa PiS na kolejną kadencję - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXpoQlRzSXd5Tmh2N0VTX3h4aGpISlVNNTFMeEFOOThfTFp4cmJIWkpsSlRTdjZUUFhNYXBoQ1kxdndGUDhncGU4TmRJMUdMdmh3ZlZ6aVI1TzQtZHFMOTlweU4ybU5tM2VKRVpPMUpYMFhXc3phVDl2RjN4RUlXN05Da29TVHQ0bnhDT3lBdm1ieEk?oc=5"
-      },
-      {
-        "title": "W Starej Wsi padły strzały? Poszukiwany 57-latek miał wrócić na miejsce zbrodni i otworzyć ogień do policji! Trwa obława - Gazeta Krakowska",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc19GOHNhc0J6bTdlUk9lem4wRzR0SUtlYWZDdnYwR2VqTDBQY2dvZXhIVXRiSVR0S3NQQVMzWXFiaktKTjhsYXNEYmdlUFF5dnBlVDU2bDhQdjVYU2Y1aURmRXBfc2ZsdlluMDZyYWNfNzFQbUtlNzBnZlZGQUpEWE5xcWdqQzFteGZaYkxhcy0xZWlSRnRZd3RpRkdtMTI4Z1V5NGJEMmpUcDN5N2pKSnF6U29rOWFENHpmS0h1SDJZQ1NwU185Y0NPOVhyN0l1SnhLcl9sc3ZXTHowc1Y1cm9GeHdkckN6RmRXMmZHNjJHRHFE?oc=5"
-      },
-      {
-        "title": "Rakiety Putina spadają na Lwów. Polska podrywa samoloty - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUhjeF9XdmdwaXFjclRpaUlEYlVEb19ONElLdU9CYkJtamYwUVJ3U2ZIXzNqMGlMRFJPRy1kSnlZR0JKVklVN0dwc2tyckhqZEU4UTJpQndUMVRpejJLSnBlbnBXTC0yQmVaTTlITllCRXREYUo3NWhOVWIxb05rTXFnUXBOWm50V3B0SFliWTRWZUhlU0U4QUIxNEtKbmFWYnB2eEpZa2xHaGNDbnM1VU9DczFPb00y?oc=5"
-      },
-      {
-        "title": "Międzynarodowa Stacja Kosmiczna nad Polską. Będzie widoczna gołym okiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWlHUkFNa3FMcFVYOHZrNlhLemhaY0Nnd0ljUVgzRXRWcUhRbVluc25hSkVHSWNXVExsWFZHLWNxN1lHeDdOcXFSTV9ybTlFZDlaYXFsbkNXZkFVTzA1d3VwbGpGckwwSi1rSmRkSVE0TDI1LXNVUnREMDlILXhRQTNkY0U4aTFiU2ZyQ2RpLVNQUVprb1Fnbl94bnAwT0NZRTNDUVpjczBGTDA1ZWlrTHJxRkFRa012a2h5TmNiOVhhYnhvQVlB?oc=5"
-      },
-      {
-        "title": "Hiszpania oburzona zakazem marszu LGBT na Węgrzech - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2k4RkEtWWw3dGZzcE5DdmthME9KamJzZ2tramo1Wk5iVXBCdFViUU5qZFk2cW10MHZmUWgwUnpXSzRLU1ptWjFOQ1Nxb2lFV2UtdUFwUjdSX3F3YUlxU21jdEw1REZ4YVBiX05DZm8zNFA1T3M5TFZzN2REUEhoaXN2WWpTekJYZ1lWOXVtTWlxZ9IBjwFBVV95cUxNeS1ubWRWYmNtOUpKTzZ5SlJIRmxMcWVnTjl4OXBPeHozNkJOQm5rX0ozTGNVdmMwWE9aY2hqWVRqNGpNcFhjZXlmLTFSUHd1WHZPWUMwNUkwWmtEODB0NUdkeVd4YlhXcm9paHh4S2pDc3BEeVYweDNrbUhfTF9YVHdxQmVIWlpKajdoUzNEbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-29 06:30:18",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Pożar w metrze, poranne problemy na obu liniach. Pociągi M1 nadal nie jeżdżą - Warszawa.Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0NseU1Tc0lqenAwWjQtdVNsRzRXWnBieXo4LWFoNmhXVC1aenVrUDlNek1qNGFiQkJaNkhVN1BGZU96VWxmeEp6aGNLZURWSlpma0pFUjNKbGhNcW41eU1fdXZERDJKdFhqLUJfSzRITnBwdjRyNHMzSHdBMkd3eUpERHNiMlFfc1VwYjBEU29WclZjV2s4aXRFR2FWLXM1QVl5ZC14RDNJVlk5X29La1A4dUp0SlJa?oc=5"
+      },
+      {
+        "title": "KO z największym spadkiem. Nowy sondaż zmienia układ sił - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDhzTHdqUzE3dUlQZUVCbTN0aXoxR2p3aV9iMGRHMTlUSVRWeC1SU3hFTHNUZVZVVkNjTTRpWEVYS2VXTnBkVXhlS3Z6QTg1aVZDM3Q1N0tFYXZnM3U4NU9Md19heXBHeElJOEVubWdpNHJoTE1PYkItWWZyb3M5ZXJXczZuTGt0MEFZbzBhbGJ5bmE0dE0wNXpyTk5lbzg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-01 11:17:09",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 383629,
+      "DOGECOIN": 0.579125,
+      "ETHEREUM": 8829.12,
+      "LITECOIN": 310.16,
+      "RIPPLE": 7.94
+    },
+    "indices": {
+      "^WIG20": 2854.33,
+      "^WIG30": 3711.2,
+      "^WIG": 3711.2,
+      "^NCINDEX": 248.78
+    },
+    "news": [
+      {
+        "title": "Gdzie ukrywa się Tadeusz Duda? Krzysztof Rutkowski ma teorię - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTdtTVJEbkNuRG1zVDI3TW9kVmVXUWY5dUpJUVk2eXBmTmdJdWIxc1lMT0JMYVhEZHQ1VjRiMGJnX25NMUFYNFM5SnN2bnR2dElUcUNTVjNJZ0M5UVB6NWNnZEVLdFVMbU9ZeHhwcFk2blhLX3dpd2UxX3lUdGF6TDdWc0xCU1U4TmZSbklDUUFrSWFVb25FbGhlRmFla2tVMjM3dQ?oc=5"
+      },
+      {
+        "title": "Protesty wyborcze. Sąd Najwyższy odpowiada na zarzuty Adama Bodnara - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdmREdEw2RkFjN1lvd1laVDhiSFNaYjI3UnBLM1lQTWFOYy1lZUdPalRYSWdGd3VyYThZeXlSQlo4dzNsSEFvMTExRHgxMzBydnhxVlFSRjloTm9OaTEzWVFYT25lcVRYQnlhV1pIMkRBUlppbHcxb2d4WFBNblpVLTh5Y0dZOUNyeFVTdFFBazQyQVUxRFdvZG14eTE0QWw2T0FCTEo3RkVxNUZNT2FaQ1phblhLSEJ6OHRLWWVCd040Tm5kcTdJQw?oc=5"
+      },
+      {
+        "title": "Pożar w warszawskim metrze. Wstrzymano ruch pociągów - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGJDbDlKRnA1SVhvU3p3SnZDWkJYMFp1UVBkajVnRTlCREt6MmRpaXlPQjdSTGl3VE1FUG5KX1B2MHplOFNHWURQbklpMUhpZ1JuamVUcXFjeFdXYnhGNTlVUmd1a2lJYVVEUmFpNGgxTUxfTHZyMWlydmZ0RGVxSDI2b2ZvZXY5T3huVHhTNmlNNFV1M0xLcTMzTlFqYVdHZ1ppNzFneGNjSFpJcVhV?oc=5"
+      },
+      {
+        "title": "Zapytali Polaków, którym politykom ufają. Faworytem niedoszły kandydat na prezydenta - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3RUdFpOUXpxaXFJZnNqdUZMU2s2MGx2QnlMU0ZiN1dyTk9xUUtWdkt5Uml6OC1DUmJUY0hQREhXbi1GSHJmZTY1eEZ2QkY0TDYwa1lSQ2FxMHR2NDJTVkQ2Q0VvdHZtbmZaZkl6eUpxUjdNQzM1TVJ6WWtOV0dDTC1UUDFwaS13cGhHb0xpLTJ3ME1CbHVWWGdiR2dKMUV0Mi14T3M2MThIREVPVjI5M1ZMNA?oc=5"
       },
       {
         "title": "KO z największym spadkiem. Nowy sondaż zmienia układ sił - Rzeczpospolita",
