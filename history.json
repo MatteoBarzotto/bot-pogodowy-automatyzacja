@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-28 20:18:00",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 388792,
-      "DOGECOIN": 0.593917,
-      "ETHEREUM": 8831.67,
-      "LITECOIN": 315.85,
-      "RIPPLE": 7.95
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "Tragedia w Starej Wsi. Ludzie mówią straszne rzeczy. To dlatego Tadeusz Duda strzelał do bliskich? - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbTV0RWg2NjdvTUNiaWNSVURKa3JXLUpzOGwtRDRuOFU0Qk12NWtpcnRUUWM4LTFCYUVkYjZqNnc2MVdTYVNwTnRzYm1iTDFwTFhJeGVCRHk2TFdRVy1OTFBkaklmTGJLNzJuRjY0NTdpbnAzNlZQTXp5TlU4NGVjcmh5XzhmY05TblBUalo1b0tuZW9uTWRwdlMzSzZfb2NhSG5fUll1TVpXbVBRLU1oU3ZWVFk3MUdTVnBv?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński ponownie prezesem PiS. Polityk zabrał głos po głosowaniu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTZyM2lhLTdkR1dvNnRncEhkbUFqUmUwaF9vOXYxc282dUZEcXNlMy1ZaUhfUGlHWTlHc2xydFhNODhwUHFLYjdwOVppZmx0cEpVd0Q5Njd4bU1ud1hlSzJVUlhWYWhDdHFEOWd1LUo0M2liR2pDZVQ5SXVtaWozcmFQTW9YVmZjYkFGdVBQQzZIeWwxYjV6eEx3YnZJQU15bkdEbmExRWFscjZvWkp5RU55b05paG1VR0ZITHpRbGVnMER6NENxVFZuZEhFOVpwU3ZZ?oc=5"
-      },
-      {
-        "title": "Hiszpania oburzona zakazem marszu LGBT na Węgrzech - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2k4RkEtWWw3dGZzcE5DdmthME9KamJzZ2tramo1Wk5iVXBCdFViUU5qZFk2cW10MHZmUWgwUnpXSzRLU1ptWjFOQ1Nxb2lFV2UtdUFwUjdSX3F3YUlxU21jdEw1REZ4YVBiX05DZm8zNFA1T3M5TFZzN2REUEhoaXN2WWpTekJYZ1lWOXVtTWlxZ9IBjwFBVV95cUxNeS1ubWRWYmNtOUpKTzZ5SlJIRmxMcWVnTjl4OXBPeHozNkJOQm5rX0ozTGNVdmMwWE9aY2hqWVRqNGpNcFhjZXlmLTFSUHd1WHZPWUMwNUkwWmtEODB0NUdkeVd4YlhXcm9paHh4S2pDc3BEeVYweDNrbUhfTF9YVHdxQmVIWlpKajdoUzNEbw?oc=5"
-      },
-      {
-        "title": "Blokowanie zaprzysiężenia Karola Nawrockiego. Władysław Kosiniak-Kamysz zajął stanowisko - Wiadomości z kraju i ze świata - Dziennik.pl",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGdCdlFXS3JwbzRTQW1YRjdZbVF2R2RTM3U0ZnpBai1Pa3NubU5ySUJTTWgtVDlaUnpPWEkwVk53NHRvZEYxelZSLURySGIwdHI2NEI5RU1nRGlXa2JvTWFWTlNVZEZLbV9xd0lvMVc5NC1EWjJGWTFUM3N6NU1JVkEyb0V0dFd1emZVVTQxQ0tjQm9uUXdvcnZwOThfdGQ5QXRxdmF3RnVxeXZDd0VXcHdiSlNDY0NaTTVZSnptTGJ6Y2gtRnNwMkFiZHBsanVMTURXM3ZERkV2a3FlVm9SNk5Baw?oc=5"
-      },
-      {
-        "title": "Groźny wypadek w Jaworznie. Siedmiolatek na rowerze wjechał pod samochód - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjVzZWNyRFFITFdrSHdGRWc5LXYxVy1qVTl2VDhlajB6b0VjT2NVSXFUZWhYU1JSQkVOTDV6OEFDZUZLTmVaUmo5bUpqRFQ1TVYzZXVieXFhSUpzRjk5ak1DdWgxV2YwYS1HdFh0YV8yYU9zZ2NLRnowckdHWEJWTndQS1NkRk4tZkx1SlpnWXVzSEUxT2NBUUZacnViU05ZbHA0eDA3bmEtU2l5X1NqSWN3V3lYWkwxQWRaQXpPLUZQM2RYa3I1MWE3eFA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-28 21:10:30",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "To oni pilnowali wyborów. Mamy dane z każdej komisji w Polsce [TYLKO U NAS] - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ05ybnBEdG9uV1BZRWFvcFpTSlNOcFF0OUxZTGhtNk9Qd3FlZ0ZkMXVHME4yYkhpX05LZ1J6VG1FOHNJMzdhNFFKSWYwUmZQOGhQQ1NFbDRpVDluRXZMSlJZOVpQTFhVclFvbE5DblpVZHU0WDJoQ3l2UXNpWmVQN0ZDcEotMVhidC1lSjFkdEFWYmhUcWhDemkzRUlBTHVIS21PcERRYW9BVkRXN0dZVTRiY01UTkRmcFpIa3RHbng3LVQ1V1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-01 03:17:56",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6164,
+      "EUR": 4.2419,
+      "GBP": 4.9546,
+      "CHF": 4.5336,
+      "JPY": 0.025095,
+      "AUD": 2.3646,
+      "CAD": 2.6446,
+      "CNY": 0.5047
+    },
+    "crypto": {
+      "BITCOIN": 386561,
+      "DOGECOIN": 0.596601,
+      "ETHEREUM": 8980.94,
+      "LITECOIN": 311.35,
+      "RIPPLE": 8.08
+    },
+    "indices": {
+      "^WIG20": 2845.37,
+      "^WIG30": 3697.59,
+      "^WIG": 3697.59,
+      "^NCINDEX": 246.65
+    },
+    "news": [
+      {
+        "title": "Gdzie ukrywa się Tadeusz Duda? Krzysztof Rutkowski ma teorię - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTdtTVJEbkNuRG1zVDI3TW9kVmVXUWY5dUpJUVk2eXBmTmdJdWIxc1lMT0JMYVhEZHQ1VjRiMGJnX25NMUFYNFM5SnN2bnR2dElUcUNTVjNJZ0M5UVB6NWNnZEVLdFVMbU9ZeHhwcFk2blhLX3dpd2UxX3lUdGF6TDdWc0xCU1U4TmZSbklDUUFrSWFVb25FbGhlRmFla2tVMjM3dQ?oc=5"
+      },
+      {
+        "title": "Migranci, granice i bojówki. Kryzys bezpieczeństwa na zachodzie Polski narasta - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWllelR2dzk4TWJwVVpneUxXbG9adWo3R2JhbWxybG12VUNUb0xnVEpCbzByZmFEMFlLTFlHSjVyRmpaSEs2NWxCLW1fWVo3OHpFN3dWbkJ0Zjk0Y2R2VFV4U3M3cXFoaDJmVjVzelBfaGt0aTlvYlBWQ1Q5NUU1NWNlLXUwaVdFRUdadTRmb3A0MmZ3U1RJN1JzZzFyTlB3TXZPcjM5SERHSVFvMXMtak1lekF6ZTc0azhKcERPbURlY2JkX0tSTDdOcno?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy: prokuratorzy zażądali wydania akt z protestów wyborczych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm42R3UwVUNEckFFcnFET2xzeG55azAxNDRrSndSNGd5aV9LTmRhVFdvY3A3RzVjWjRKTFdsOUg0UEgzRU5VSFFkaVM1SkpRV0ZZNHZIQ21vRXRUQ0U2S1hmQ2dHOG0tUUtjVXBiaENQcnpHZGc3Skk2OWFIci1vTUlkQ1hPVDdVbDQtVnJBQ1NKbjRFSTFqdF9TLVlDZXNoZmJxdmdseDJGd2pacThOaWtRR0pOc3pSQXBoY0pwXzdKSlhUell2WTMwbnFudw?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki o sytuacji na granicy z Niemcami. Zapowiedział ważną decyzję - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGR1cWV4VXVFLWpSREVCVTZfY040TC0wMDZGQ2RNZnJBcFdCUW1pOHdLbGNGOWN6NURHeGJGMUowYWU0SEtlWW5WMTJZQWNuZjc5RDBVV3M0alhDYjFadFVEZklTdWFNRHF5cVROam05YmFyMTZzVWNIeVRna2xrLWU1ek5IZHNMeEs5YlpkNFhteFRmNURVY0ozOHlPOFpNSHoyRWZaa1JWYnVjZUtUdFpfWVdsYmNpdmJqSlJINXViQQ?oc=5"
+      },
+      {
+        "title": "Majątek Andrzeja Dudy. Jest oświadczenie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2FjZjhJR1NRSjlTX1lpTmhMb1pGWjRfaW5xdzVPaGZLRFplS0gxb2FRNFlNWFU2Q0FYQ1NoQlNuQ2dmSjlQSDVFYzdNS0xmX0t4U3pYTVVKY0FpcDdyTHFqVUxaeG1DZll5OEpLb1pXY1BJSFdkSk54bHpyMGFwQXJ2RWZORTdnR1E?oc=5"
       }
     ]
   }
