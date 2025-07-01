@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-29 11:13:43",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 389744,
-      "DOGECOIN": 0.59423,
-      "ETHEREUM": 8835.95,
-      "LITECOIN": 313.79,
-      "RIPPLE": 7.92
-    },
-    "indices": {
-      "^WIG20": 2815.66,
-      "^WIG30": 3660.25,
-      "^WIG": 3660.25,
-      "^NCINDEX": 248.13
-    },
-    "news": [
-      {
-        "title": "\"Za to miał się zemścić\" – mówią mieszkańcy Starej Wsi pod Limanową. Dzień przed tym, jak Tadeusz Duda... - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNekRuazlKLXJCU2g2ZU9YcS0tSzMzYjdhRERrVEV1OTZRWUdJaENhWTY1aF9CZGFYRTJIWDEzTjhBYm5yMDNJMG5MZmhOSXkySE1ZdTIxcTZiREJXcExRVHozQ1RrSVoyNDd2Vm1kUm5oMGFRMnFXdC16elc1M04ydERRUGNZTGhwRW5RNDQ3aU9TNmJMS0F3RFRRa05GVW1XSlVfRUhPcEpMVC1tYmRoRHVRZkx1LXkyVWhoYm1fMTYzUlg4QzJUTENiNnNSMXJKSnc?oc=5"
-      },
-      {
-        "title": "Czy wybory mogły zostać sfałszowane? Oto co mówią Polacy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmFNTW5SWXZtWURneEV2dGt5d2FjOXdta2lpZV9Ub2FVTm5yMkpfLW8xYWJlMThaMlJWVEtDMmJ2ckttQ3ZWR0JWR1IycDRRenA5UE9oMUppRTI0bHhPaXpnTzBJQ0xRLVNnWmhpaGgzTF9wb2dJYVdzNVNXRVlhbGhYSXNzRkNLc3dKaU13empnd0U5Rlh5Y1M1ejg4LXNhRmlMRWd4MEI?oc=5"
-      },
-      {
-        "title": "Zmasowany atak Rosjan. Polska podrywa myśliwce - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWm5QakxtTFZGZGRVWkdTcDNneHFiTzgxUnZLODVXMk1QbEJQdDdnamY1UnVvaTdXRFRHYWw3QWhSVHhIMFJCT3Y5Smk0enVvZmtqU1RNNHhabnhKZHoyWldyZGNlZmdicktpM3VmTU5MT2dyaDlIcE12emRxc0d0Z1FNUURydHZlTzVkeXcwai1Zci1ubm5RbEJwZ1VUUjdhaDRvbk93?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy dokonał kolejnych oględzin kart do głosowania - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDdGRGVNSnpFWmd2TTh6X216U1E1VUNBNVA5b2k3S3BOZlBfQ0dUaHdBS0NCSk5yVDBXaGlRb2ZoTWhIUVdaal91WWV1U1hCRDNFLTliUkp5NjcydWt3UFlWVU5SNEsyR1BmTGY4cXZzQUM0ckFSd2JFOGROM2VNSmZXVjlIb2wtZTRNazJMRXdUQTBPNGl1MXdiWkfSAZsBQVVfeXFMTmJMd25jNGpPNUNhMEkwS1pkLUtURnhjNVUzVVo5QjJjazhMUHBLVk56YTFkRXJ1LUt5VEFWVkVMRk4zdTFRQ2hELU5sMExQbS1qMHc1WGtCQzh0T1B1bzdfZDdQTVloVWpXYTRoaG1PWDN6emh1VE1MeXdaeGt6YktrVE9VY1RxZ203TlZmNC1QOFY4SC1fYy14ZW8?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński prezesem PiS na kolejną kadencję. Mówi, że trzeba zmienić ustrój - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2VZN3BYUWRVajRZblloblZhekdDVksyTU53TnI1WVpfbWRTam53RHhVVmxSNVY4UmZQU2J1a3M2cXAxWWtUaDJzV2xGbEwxNDFnczJtOFZaa0xfQTB0c2FUZmlpd2NGVGFPalotX3JWc3NlZzJOTVdYRWxoejUzUFFhaTVNVTlRUGE5Zk5uVXA1MnZRUXFYbVNMUk5ubHJFOWxZT2tJd0puVFhRT0FiazlZRXBuREt3Rmc3cXdRLTFZRTgwbHVDSXA0VmVrNlBuYXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-29 12:15:21",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pożar w warszawskim Metrze. Odcięto dopływ prądu, jest komunikat rzecznika MSWiA - Interia",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUS1kNzF4Q3pfaG84THFYR3lzeVI3cWt1M1owRmZROVlPWndzSDkwWk10akZfWkpfQWJxc0lwWC1qM3VQOVdJMG1jeXFPeERwSV9tVVF3MmJiZkJlU1BWaURKaVJwTW5pRGU0RGlHNm9PZ3NPREc5TkE1c21NWEVJTndmdHpBMzFYYmZraHIzWVJ4b19seDQyakgwNDVmSWFjY01Yc1BjQ1RpdWMxTHVsdDlGdU51QV9SeWQ0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-01 17:15:12",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.593,
+      "EUR": 4.2415,
+      "GBP": 4.9487,
+      "CHF": 4.5495,
+      "JPY": 0.025119,
+      "AUD": 2.3668,
+      "CAD": 2.6424,
+      "CNY": 0.5017
+    },
+    "crypto": {
+      "BITCOIN": 382006,
+      "DOGECOIN": 0.574568,
+      "ETHEREUM": 8737.5,
+      "LITECOIN": 304.44,
+      "RIPPLE": 7.88
+    },
+    "indices": {
+      "^WIG20": 2826.5,
+      "^WIG30": 3676.33,
+      "^WIG": 3676.33,
+      "^NCINDEX": 250.92
+    },
+    "news": [
+      {
+        "title": "SN pokazuje protesty wyborcze. Członek PKW oburzony - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWVPWHMxUXZNT1E2UUpHa0swZXd4SG1SdU9GdzNJTkhWZXplSXRGSmc3ZEZ0dUpST28zSHVXYlB5QTBrUjdIU3REVzVFRlJxMW4tUzhhUkNsQWIzXzQtTXh5SHRzRXR0YXpJeFlBdFZEZFJ1c2pPdzJaTzNGMkVxRFFVQVRwd1BGcEdyUi1pTE9hMHYxM1NFMw?oc=5"
+      },
+      {
+        "title": "Polska przywraca kontrolę na granicy z Niemcami i z Litwą. Decyzja Donalda Tuska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkJWaEdPQ0lXcm5wWW5XZi1pa0k1NUlFaktKOGhZbjlWU0FBMTdoQ3FSVHZWbFdTNXpNOXU4SzZUSjlKRXFxci1vYWo3Slhya3cwTmVhTWFPeUZLcTNvUzRXcUJualR4eUVjWXRTdjZzb1VsaThGMkxCMU1OTF9jamFUN05RUFczcjltNko1aXZhb29WXzhWV3JiaUJRblpNZmZTcjdscUJ5RnlQWFQ1ZkEzS1RQZ205WWlzR1pGdFNfaWQzMVpOVA?oc=5"
+      },
+      {
+        "title": "Krzysztof Rutkowski włącza się w poszukiwanie Tadeusza Dudy. \"Koszty tej akcji idą w miliony\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTJrOEloNDdEZ0gxUXhBWm9FekJtcVc0VlFmQzdVVWVveWlGamFPeDNzOURGUll5UHpncVN2SHJucFh1WUFXelNoTklrTTFfRDk2bmVWNUpXQnE1UUsxUTZraXBib2t6THJqNHJWMk1QYXpPZGZKM1ZaMHc5TUExdWg5eGFWUHFXVGV2RWxjT3dpSWE0WjZHU181LXF6eVZaVXUtbXh6WXhaZ0hiemg0OTJDcGI5akVYRVd0ZXpR?oc=5"
+      },
+      {
+        "title": "Kluczowa decyzja ws. wyborów. Protest przed Sądem Najwyższym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWRlaXAzRVRNQU9PQVFoM3pRNUVIdHJkOFFPdkZubExhZEZZczBXalFTZ0dON29sdGxJQVBRYkwtLTdWMEFEZEhIdEsxOWhxblZRTHEzRjRJZ2hhYkhuMGp5N2tvUUtPemxrV2tCaEZEU01yMkRKY05YLS1yT3BoekRBblV2Q0x5YVpDSHRZa2M1YjhXWExaSGx0TVJxWlJVM1l6NjF2SkFPZ3ZfaVJwRnh6d2RyY3BoOUVJ?oc=5"
+      },
+      {
+        "title": "300 zł na wyprawkę szkolną. Już można składać wnioski - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnF0ejhaSzBwc2RVcWg2dkM4TTNiaS02Y1AyWTdKNGdIZUc2WkZvdjl3LUNFdUJ4OUFTSFFNbHo5YjNyRDVBSjh1Vi14dEI4NlZ1bTJpX3BUalJjekJfSG9ITHg2QjB6UUZQODZ1NUhGa1hJbUk4dk1LOEFfSXhCZkVaYkxuZHlZV082a0NSOG52WFF4cmxFTGxRN0FlOGp5MEtCVWcxOUVLSGM?oc=5"
       }
     ]
   }
