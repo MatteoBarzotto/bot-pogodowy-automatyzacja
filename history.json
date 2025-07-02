@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-30 11:17:16",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6177,
-      "EUR": 4.2362,
-      "GBP": 4.9721,
-      "CHF": 4.5307,
-      "JPY": 0.025049,
-      "AUD": 2.37,
-      "CAD": 2.6521,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 389570,
-      "DOGECOIN": 0.599717,
-      "ETHEREUM": 8952.89,
-      "LITECOIN": 311.11,
-      "RIPPLE": 7.89
-    },
-    "indices": {
-      "^WIG20": 2830.75,
-      "^WIG30": 3679.64,
-      "^WIG": 3679.64,
-      "^NCINDEX": 248.36
-    },
-    "news": [
-      {
-        "title": "Przeliczanie głosów. Adam Bodnar tworzy superzespół - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkRjaEdkel9vdnUtak1yTnNWTzh4LV9JemNWaTNXeHBsc2x0VkRWbERIb2hNc25EUWZNLUFqUDRyci1ZMEV5VDFodzhWQWRqTHUzeXVIMXc1MGQzeHBwbjFoWHNvYW1XbXl5NmswbS00V2FjTktJMExVTndyOEFUY3FIcVVmcHVXend4alRhMk81Q2hwbGpDWURxVm0wdktMSFdWRWlVTTc?oc=5"
-      },
-      {
-        "title": "To był motyw zabójstwa? Ujawniono, co zrobił Tadeusz Duda - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeTZxeHpTY19mbWJKSm0zaVdrVkp5dnc0OHo5NDZ6dnNna25KOVg4M3NObi16UlZOVzhGX2hFdVhCdHBNMWQ0OFVBQjBJdzZqMnVSbVY4SkJxQmtTdFhETmVQN2RWU2VVTVdHUld2WE1ndUk2ZUpkQlVHb21ocXNObnlVaUJiX0k4bFJyVzlhWXNnemZ0d2JYZU9rX1gxT1YzUGFsRg?oc=5"
-      },
-      {
-        "title": "\"Obywatelskie patrole\" przy granicy z Niemcami. Policja użyła gazu. \"No dawaj, p***le je***y\" - Radio Zet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeU9vYmFrX09zWGdNS3E4ZVdiOXRhMDZzNE9ia0N3NGNkRFZfS3hCLWFUdFlyTVZmSG52WHlsRGlteVk1Yy1TUG9JZG1QTnBfelNMZWQzY2xWY2JZMWZ1WmZsRmV0bTRHaG0yRmhvWjlyV1JtLXAtVFZ3Y3BaN0lrUnA4OGdYLWp2N1lMWHEzM28tMkw4ZXlMM3BHWENYZEp3bGJSVTJ5R1M5TXNXclNnZzhDeDFrNW54NHRIZg?oc=5"
-      },
-      {
-        "title": "Kongres wyborczy PiS. Kamiński bez awansów w partii. \"To osobista decyzja Kaczyńskiego\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGhya3BLeTMwOUZJWGR6aDVxMlBHb29FYmtGVGdxOHhzV2YzSjVwbWI5MFJmeXk5T3lOYzNpVVpkY3hJNi1SdDZ6RGg0TXBQUTl5Yzc3M19TTUZCa1NlcUN1d1IxcFFjUHBSM3lNdUVQT3haQTM2Y21heDZoZUVyNHFIWldydDl3bzNTODdEMDJmY1FIdEU5R2tqSXRQQVBLZWE3aFFKbw?oc=5"
-      },
-      {
-        "title": "Zadania domowe wrócą? Ministerstwo wraca do tematu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3hpRjhLek1XZzYxMjRBUG9BNWEtNFNZX1pFWGJOZ0tRX1lWOUFja1kwbVF2MzBJRkdfajhLWEhCMVN3MHNvNDBSREk1QWNySXdMczI2blI3VjlNbno0ekNvdXlkODFXdUJ6QldJLVdrYThiM0wydTIxLXVEN2lTdFM0RXFOdWZ3cndMQUd2cHUtYlNlVTZfX2YwZ25xWG5xOW5UT0l2NA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-30 12:16:10",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Uznański na żywo z kosmosu. Szczere słowa na temat misji. \"Było mi bardzo trudno\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDMzWURUZWpMOTl1YkllQjN1VWlfQ0lGdnNRMG1ybGVSV09VaTA4WG1tNUdqTnp5aFNlT2RXWV9GVnB1eHRISEVfUWZwZV9EZFo2N1JJU0xMR1dqbUFnZUVSZFctUnJQSlNtZUdDWnJxeE1WV2xFNEowcHZ6dE9sZDNEQTlpWUhqazBMVXN0bmRna3k1MHZKUzU5QnlFbGFtWHBET3E2RjFWeUw2enFYemtTWnA1UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-02 17:15:17",
+    "weather": {
+      "Warsaw": "Warsaw: +31°C",
+      "Kraków": "Krakow: +30°C",
+      "Gdańsk": "Gdansk: +31°C"
+    },
+    "rates": {
+      "USD": 3.609,
+      "EUR": 4.25,
+      "GBP": 4.945,
+      "CHF": 4.554,
+      "JPY": 0.025069,
+      "AUD": 2.3689,
+      "CAD": 2.6444,
+      "CNY": 0.5036
+    },
+    "crypto": {
+      "BITCOIN": 392968,
+      "DOGECOIN": 0.595406,
+      "ETHEREUM": 9003.15,
+      "LITECOIN": 311.43,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2839.82,
+      "^WIG30": 3690.46,
+      "^WIG": 3690.46,
+      "^NCINDEX": 249.96
+    },
+    "news": [
+      {
+        "title": "Jest decyzja RPP o stopach procentowych. Dla większości analityków zaskakująca - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUxsRUtLaHQtRnlPZXRMdVpxeTNrRm54RExna2o5eFVXYzVpRVd0MzVWMFZ0aDNoeTBhOVdDMk5IbTl5d0ViQmVHa0doZGFsS1ZMU3BtM1VFSWVkTmJ6Qk9PcGhfaUJ4NFRxbGk2NzBlNkd6MG45TFZ4TGRiUk5sQ3owbVJnQjRnd2pPRkpTUWU3b2phc2xFN29qOGp3SXlDbk8tcFdQSzVsZmpLeGxvV3lJZmotZ3ZCdDFZOC1ybDV1Q0VNcFE?oc=5"
+      },
+      {
+        "title": "\"Tadeusz Duda przyłożył mi pistolet do głowy\". Wstrząsająca relacja członka rodziny - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmZQNW1tSVVpdk5TMUxQUzY0bGpQaXdjR1RDNU1XQS1WelJvMzZicXBEcHlsN08yWENGNlhYcE9rWi1GV1QwRnRGOENvdzVMN2FlTWtoZ1YwYkZRZmdnTk1kX0QwWFZ1YU85Y2FYdW11MHZHc3NGR3ozTkpnT0RZeTRjQzRsZU9HY09hTC1xemcyTV9UQnJSVTM4V1NHek1PeHA3czcxR2dTbmJ3SWpleGh1WndpbVg0RUpEM0VJaG9SNC1JZmZvVUFIUF84QUdTU0hCZlJ3?oc=5"
+      },
+      {
+        "title": "Sytuacja na granicy z Niemcami. Donald Tusk sporo ryzykuje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFhoYzNlMEhZRmNObTREcWFHSU5VcVNZYWQyRVVUOHhSZmhCdHgxZ1ZWb05nV0tFbVdwZ0VFSnJUS3o1bncwb3p6TkRfWHJnXzlzNUF5bk42b2RveWp0aDVMdUhEeXA0bDN5OUN3V285VHZWWTE1bWF3VjRZemZwT0s5VDVxNEZaOGs4b2VVQmtUazdSX0FiaUc3WkhZcEtGaXFreXpiREI0UQ?oc=5"
+      },
+      {
+        "title": "Uznański na żywo z kosmosu. Szczere słowa na temat misji. \"Było mi bardzo trudno\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDMzWURUZWpMOTl1YkllQjN1VWlfQ0lGdnNRMG1ybGVSV09VaTA4WG1tNUdqTnp5aFNlT2RXWV9GVnB1eHRISEVfUWZwZV9EZFo2N1JJU0xMR1dqbUFnZUVSZFctUnJQSlNtZUdDWnJxeE1WV2xFNEowcHZ6dE9sZDNEQTlpWUhqazBMVXN0bmRna3k1MHZKUzU5QnlFbGFtWHBET3E2RjFWeUw2enFYemtTWnA1UQ?oc=5"
+      },
+      {
+        "title": "Paraliż warszawskiego metra. Policja ucina spekulacje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkZ0ZWpZSGlsZzN4cHZwOHNsdFY1SzZnRzdsdnF2WWV4RFNxelRYLWlwcV9DNm1OTzdOMWZ5dHVLbFJ6RWNVdW84VzBmMm1OSzQzZmVhNXgxalVPOWJfMHV5MVdkQU1ST29RbWdpRWlJUHN3Y0hHVFU3d3hPY1RpWnN2LVdvRl9aY3BJSmlIR1pKT0Z6N0JtM2p6QmY3MlFqUmd4T2xsa2lESU03bUlwS2FjZ09JSTRWLW1z?oc=5"
       }
     ]
   }
