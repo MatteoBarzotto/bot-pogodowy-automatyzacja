@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-01 07:18:39",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6164,
-      "EUR": 4.2419,
-      "GBP": 4.9546,
-      "CHF": 4.5336,
-      "JPY": 0.025095,
-      "AUD": 2.3646,
-      "CAD": 2.6446,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 384664,
-      "DOGECOIN": 0.586386,
-      "ETHEREUM": 8858.73,
-      "LITECOIN": 309.11,
-      "RIPPLE": 8.0
-    },
-    "indices": {
-      "^WIG20": 2845.37,
-      "^WIG30": 3697.59,
-      "^WIG": 3697.59,
-      "^NCINDEX": 246.65
-    },
-    "news": [
-      {
-        "title": "Gdzie ukrywa się Tadeusz Duda? Krzysztof Rutkowski ma teorię - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTdtTVJEbkNuRG1zVDI3TW9kVmVXUWY5dUpJUVk2eXBmTmdJdWIxc1lMT0JMYVhEZHQ1VjRiMGJnX25NMUFYNFM5SnN2bnR2dElUcUNTVjNJZ0M5UVB6NWNnZEVLdFVMbU9ZeHhwcFk2blhLX3dpd2UxX3lUdGF6TDdWc0xCU1U4TmZSbklDUUFrSWFVb25FbGhlRmFla2tVMjM3dQ?oc=5"
-      },
-      {
-        "title": "Migranci, granice i bojówki. Kryzys bezpieczeństwa na zachodzie Polski narasta - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWllelR2dzk4TWJwVVpneUxXbG9adWo3R2JhbWxybG12VUNUb0xnVEpCbzByZmFEMFlLTFlHSjVyRmpaSEs2NWxCLW1fWVo3OHpFN3dWbkJ0Zjk0Y2R2VFV4U3M3cXFoaDJmVjVzelBfaGt0aTlvYlBWQ1Q5NUU1NWNlLXUwaVdFRUdadTRmb3A0MmZ3U1RJN1JzZzFyTlB3TXZPcjM5SERHSVFvMXMtak1lekF6ZTc0azhKcERPbURlY2JkX0tSTDdOcno?oc=5"
-      },
-      {
-        "title": "Takim majątkiem dysponuje Andrzej Duda. Jest nowe oświadczenie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnI0dk1oWEpXdWJwa0ZSYURpRUN4VWVyRUFMY0RCbjZmalk4bngtVU5RNGc2eTh3NDhveDExVFBSQWI1Q3BpWHRReWJIUWVKV21mMlBGU0ZZNEZYV3lpVWFET3N5eVNrSUFWT2lSQlpUOWdYRmJWR00xRzF0V0lsYVM2VzJiRW9Ua0g4NEFWNllmeklCajFYMjVxa0V5QURjZ3pV?oc=5"
-      },
-      {
-        "title": "Duda ostro o decyzji Bodnara. Chodzi o ważność wyborów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0M1T3VLOE5Xa3ZfOWgzdU42T0Nza1A4dXN0ZVZ3by1yUUVySFlCUXh3dWgwR09Ncjh6R0pOemJueTVGUFcycW5BY2VqNzJybnRCMFdjOWVWSlcwaWNHdWtZNmdLRVl2c3FKb3NxUFZBWnBxY3ZJUlpDSm1SREhQWnhNRnJtODc0QllIUzZZRGYwT2poZl9od0hDMHU?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu w połowie lipca. Nieoficjalnie: Hołownia gotowy zostać wicepremierem, ale postawił warunek - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWEteVRsNjBpWDBlZ2JnVDU1NjN0LWc3aGJTY3BrUDd6SUZPQmtUcmliMlJfY0I0NS1uRTNuNEw0UDBtdWxtc293bXJvQWpqQmp1RXhNamV6dkJWdjZnVXh5dURFQWZEcHN5QnZLTlI2SnRGX1kxQUNVX21GZmNaZkJnQ3VublNtektxRS1vTkFMcS1CZzc0b2hiTF95ckM0TVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-01 08:21:52",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rynki ukarzą Polskę za zapowiedzi Karola Nawrockiego i Donalda Tuska? Ekonomista alarmuje - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2E2aDdDUXEyTmh4bUJqcktkdlFqenJybldvelZCQWV3Nld3bHVlb1hsTG9PQ1NIZzFaa3VRLS1aM0hCNlN4WG5WcTRPZHFXelluYXlIUHBzRVNnM3JqcHd5MmNJSGdtNEdWYjk3cFRpOS1ZMERTcml6R1o2QjR2Yk5mSGdJMndLY3M0SFRtUnpyTTFQWDM0MEF2NjIwMWU3YmZlcW9PSE5sODN0amRzTmZSUFdzT1dSNnN5aG5mcERHcFZWZENr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-03 13:12:52",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +23°C"
+    },
+    "rates": {
+      "USD": 3.6137,
+      "EUR": 4.2634,
+      "GBP": 4.9376,
+      "CHF": 4.563,
+      "JPY": 0.025115,
+      "AUD": 2.3768,
+      "CAD": 2.6595,
+      "CNY": 0.5046
+    },
+    "crypto": {
+      "BITCOIN": 395698,
+      "DOGECOIN": 0.626877,
+      "ETHEREUM": 9352.62,
+      "LITECOIN": 329.1,
+      "RIPPLE": 8.29
+    },
+    "indices": {
+      "^WIG20": 2873.24,
+      "^WIG30": 3732.15,
+      "^WIG": 3732.15,
+      "^NCINDEX": 252.2
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki przedstawił najbliższych współpracowników. Znamy nazwiska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2tMNGxLVHJyeTBfWVAzcFFMTFZ6R0pHNXN3V0h3YWxVZ1oxbnE0OHpQVlF6eXhOVG0yNExoSFVQWUp1QmJhekppQjFXRkJHbnZ0elQ2aDJtNzdPd1QzNnR4eGxXOEl2TVdfVmRULTFXeV9kbmtjbmZXMzVPR0ppdlJEdE0tN1hULWFYSlZyNy03Z2Rha0pKSjM4cmI2eXhKb0E5MnkwZWFtbVlMdC1mam42Y0JzVUJ1RTB6WDlB?oc=5"
+      },
+      {
+        "title": "Sprawa lekcji religii. Jest decyzja Trybunału Konstytucyjnego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVdwOUo5UjR3U1BtRkxVN3R4di10RjAxR2NhRFpUWjViWmt0OVRicWdvQ1dJTWhLazB6MTdqaEROcnFweGRMWHVTNndFakJnYTlFYThzdGYxUU1VN1pVSll0NjBCN0daUDNiTVhkS1Bob2RLaUNlN253c3h4ZHdXWHlGejNYV0V1TF9JUFpUVVJGdHNhZW1GRmJXNGNFeWhTMUE?oc=5"
+      },
+      {
+        "title": "Wstrząsające wieści. Media: Diogo Jota zginął w wypadku - SportoweFakty",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenQyZGFYNzlpQTk4RXBQbkFNN2xHNzdGVDlqSWdBaDl4THV2YnJxUVpsNHZQWEVPNkd0S2I3Y041TURaNjF3Um1JR3dMaTM4MFpaM2NxREN6QW5SZFM1OVZmWm1weTNOQmVHRUtsMUlpTzl5NzZ6dXdtU3hiOHF3S1l1dUM0cHF2WFl2ZHl4Y1BqdGV0aEZtWg?oc=5"
+      },
+      {
+        "title": "To były kryjówki Tadeusza Dudy. Beskid Wyspowy to trudny teren do poszukiwań - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkV5SWtlQS1BZkFGcWU2MTFTeVFwak9peGdpUGNyM0dtRUI0UFlFLVpseUxYVlZ3Vkx1M1g0MnpkWXhOQjZ4Ym9hQkh4ZmRqbmFSQ0x6ak9Id1Qxanp0T2NDSWR3Ujc1dExNRzUwbFdUU3BkYUZfTHBndjdqeFNNc2hwWU1uWkhZQ3JNaXl6bjFkRG8xaDJ2enVZT0FDc1N6V045cTAtUUpDVDB1R2xwSGt2WQ?oc=5"
+      },
+      {
+        "title": "\"Obywatelskie patrole\" na granicy z Niemcami. Prokuratura reaguje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUlkN3c1QzFtSWRVdkJEUU1LMC1OQ3p4V0sxSF9UNGVQaW9ySGlYak80UVZPQm5ETFQwN0x0YjRKellyNHlzMWNqeWlyRW5oWUNPcGRIVUFSc2pBSG1ONE00TU5NOTR4Uy1GVUhNRXN1b3puWWFhQ2JSSS1TRlBUcWlmdURtNlhfbnFQSUt2NXE4RE9SLVRiWXRwTFRibkJ2YXRVaE9Rd0tmNlZWZlM4?oc=5"
       }
     ]
   }
