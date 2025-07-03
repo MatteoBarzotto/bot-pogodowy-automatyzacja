@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-06-30 22:15:09",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6164,
-      "EUR": 4.2419,
-      "GBP": 4.9546,
-      "CHF": 4.5336,
-      "JPY": 0.025095,
-      "AUD": 2.3646,
-      "CAD": 2.6446,
-      "CNY": 0.5047
-    },
-    "crypto": {
-      "BITCOIN": 387810,
-      "DOGECOIN": 0.60256,
-      "ETHEREUM": 9053.05,
-      "LITECOIN": 312.75,
-      "RIPPLE": 8.32
-    },
-    "indices": {
-      "^WIG20": 2845.37,
-      "^WIG30": 3697.59,
-      "^WIG": 3697.59,
-      "^NCINDEX": 246.65
-    },
-    "news": [
-      {
-        "title": "Co Tadeusz Duda miał wspólnego z Lasami Państwowymi? Instytucja wydała komunikat - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaW9Remtlcno3VXI1enNLLU9PREM1WEdnRWJ4T01VbXJ6c251YWtvb1RvZGp5Y2hBc3Fvei1Na1BGeUpSeUpVRHpjTkRpcWZ4R3k1TjRsSHFuTmZIVXNKSTJJNEZLU3paaXIza3k5Y3JkWGhydnhLVnd3cVIwZFViT3VnZ09taHFYbE4zb2tWSlo2Y1BheFBHZ3ZfRktjSGFrYmdhWXFFWFZjdVA5UDVyT0o3bng2WHlVSlIyLU1rVmFFUHc?oc=5"
-      },
-      {
-        "title": "Trudna sytuacja na granicy z Niemcami. Donald Tusk o przywróceniu kontroli - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0g1dEJmakg5TFltT0RJb2lqcGdjdkhDNHR3blNEUHdCbmlzelZ6Mk9SMkxZb3AydmxqeVVhLUsxaHR2bEl2TTdWSEpEVW5XSlVoX3RSelRSamVLSS1QVFAxTDlaZEVxMmdTd0IxUU05R1JGbzMyVm1sTzM4MEJJWVZWcVczMU8yLTJjY244RmtZQ1NualBLWktJYTE5WHlmNV9UOFhqTEFXTjFOdW0wZ1Q2Q2x3dw?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy: prokuratorzy zażądali wydania akt z protestów wyborczych - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm42R3UwVUNEckFFcnFET2xzeG55azAxNDRrSndSNGd5aV9LTmRhVFdvY3A3RzVjWjRKTFdsOUg0UEgzRU5VSFFkaVM1SkpRV0ZZNHZIQ21vRXRUQ0U2S1hmQ2dHOG0tUUtjVXBiaENQcnpHZGc3Skk2OWFIci1vTUlkQ1hPVDdVbDQtVnJBQ1NKbjRFSTFqdF9TLVlDZXNoZmJxdmdseDJGd2pacThOaWtRR0pOc3pSQXBoY0pwXzdKSlhUell2WTMwbnFudw?oc=5"
-      },
-      {
-        "title": "\"Gość Wydarzeń\". Karol Nawrocki: Zwołam Radę Gabinetową ws. granicy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWNKa2JkTjJqa0FtV2kyTWNrU1gyd0VFSVFfQmxiYjVRNGxET2o3ZTJOMGpOaFJsZmt6b09SejdPNUdRcEFabUNTXzhWLWNraHd3SjVIUUhIWEEwODcya1NUTjI2MkZYQWdaYWRKeGR1U0EyOVR0VVVoZkkwck0yODUtbjRlUDUyT1lLMGM5TGRuQXA3eFNyNzM2cVk?oc=5"
-      },
-      {
-        "title": "Wiadomo, ile potrwa upał. Przez Polskę przejdzie front - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0VsNzZseG1TNDFGUG95MG5WM0g1MGZTWUdyaHZJVGZhdmNwM09XZk5XVEpEU2JWTUI1MjVFbU8wRVotZVZSS2ZNODQxQk1nbFRHTENuWjBFYm13QlFZYVhGVHdwUW4xYVNuVnNoeGRvTUxTeC1QeDFVMU1vS0tZeEtwOXRmY21zU25sTWxzeEphc3kwZW9ZTGlsNA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-06-30 23:13:04",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pożar na Krecie wymknął się spod kontroli. Polscy turyści ewakuowani z hotelu - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWDEyMGtFTU1XdFZuVWRubWNjRzR1TDdOTG5NSjRHVC1EN1RPS1d6elEyWHQ0ZjhNQmFVa1hnV255Q1FXQ1FTSVJaQUw4SlNlM0ZIT2EzX2lib3YwR285dmxpSkhiNkk2NnlPZG9xb25BSFFCZlBsaFdQdGxqd1pHcHpyb19TbllOMGVzSmR1UUxfSVhFNVA5X3F1dlN0SExXVDRHS20tckdrck5fWjJjUjZLbWxPTV8wUjhlUFQzR1ZPNHhlX3VveGE4N29hNnRlYWJQX2ln?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-03 06:26:45",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +23°C"
+    },
+    "rates": {
+      "USD": 3.609,
+      "EUR": 4.25,
+      "GBP": 4.945,
+      "CHF": 4.554,
+      "JPY": 0.025069,
+      "AUD": 2.3689,
+      "CAD": 2.6444,
+      "CNY": 0.5036
+    },
+    "crypto": {
+      "BITCOIN": 393938,
+      "DOGECOIN": 0.612355,
+      "ETHEREUM": 9283.21,
+      "LITECOIN": 320.43,
+      "RIPPLE": 8.14
+    },
+    "indices": {
+      "^WIG20": 2839.82,
+      "^WIG30": 3690.46,
+      "^WIG": 3690.46,
+      "^NCINDEX": 250.69
+    },
+    "news": [
+      {
+        "title": "Zbrodnia Tadeusza Dudy. Policja zatrzymała mężczyznę, który posiadał nielegalną broń - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN0hNZ0s1Ql9rUE05U3lPT2JYUXc2bXpfd3liTHpfOW5Sek9SNGN6S19mbE14ZVdzREYyU2dmaWJ5UmtORUkzMlo3TUxRdmNEaW9VeU00ZFRyTTdTZ0htbTM3WjdScFYtX1ZBZUVzRUZpa2o1T0UtNHIyZUlNWlk3bG1ZOUFjYXk1MThlX0dNay12eFZvWEdDa2JjbTNTd3pmQkxVbDN6STk3QlQ4QWY0VTlLWFZiMWhwN21iamg2bVl1Wl9xeDlsZ2E0Nl95MnBkT2Jv?oc=5"
+      },
+      {
+        "title": "Kosiniak-Kamysz stanowczo o propozycji Niemiec. \"Nie, nie!\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzNMR1NjRmtZSVFGR0dVWEdLa0s3a2tOa0d1UmhGRExZejM0VTd4QnRVR0ViTFNvZGhLQTJmQ0FEOE1GWjgxSW1CaFJsZ2o5S3UwOXd0Q1pCNmJfbnNZMmNGQ004UVNPQzU0YWc0Yi1EWGNfN2tGckNtUl84cjJ3LVVUR2UzbGFqS1dTRGdvSTRSWDVIQnlUT09XbFFTQQ?oc=5"
+      },
+      {
+        "title": "Pożar na Krecie wymknął się spod kontroli. Polscy turyści ewakuowani z hotelu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWG41VmtPM2lCLTQtTXJtWnlPS1pkdEhaWXFtVXJWSVRnNnFoQV9rUjRicnNLeUZibEdKeFRTSWluNEtVQVRzSk5ITG1MbGZ5SUVfZlRiR0IzeTFRZ0FDOWxXbnh0eUVGS0RyWXFCVDY5UFNEWEdyUzlHYWdJZGVFSDRuMmxxSWpVRTY5eTlmeWYyX1pYNE9xZjBPSklNWlloTXlYSDFuTVZmcjB6b2NPNWdyWE5ac3J3ajJKZE5VTTZfVU8wUWgyZnRR?oc=5"
+      },
+      {
+        "title": "Pożar transformatorów w Warszawie. Mieszkańcy usłyszeli huk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmxrY3N1QnBVa01QXzN5VDNMMnREV3JKZVFZbUdCbHhCY25tUXFZTDhnUVROanNycXFKV242bXNOZVpwSkluX3JFbjJlVDZZWDhLVXZ4clY3SDF2Y3NhcGFaUjRsUTdXS0YxNE1rY0dfY190cUt6d2cyUmRmQ2o3dmRIUUJKeXloWWpsT1NjREIyZTFjYzREaEpsT0JoTkQ3ekM1RGN2NFI3MVVKbTUtRU1yMkR5R0k?oc=5"
+      },
+      {
+        "title": "\"Obywatelskie patrole\" na granicy z Niemcami. Prokuratura reaguje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUlkN3c1QzFtSWRVdkJEUU1LMC1OQ3p4V0sxSF9UNGVQaW9ySGlYak80UVZPQm5ETFQwN0x0YjRKellyNHlzMWNqeWlyRW5oWUNPcGRIVUFSc2pBSG1ONE00TU5NOTR4Uy1GVUhNRXN1b3puWWFhQ2JSSS1TRlBUcWlmdURtNlhfbnFQSUt2NXE4RE9SLVRiWXRwTFRibkJ2YXRVaE9Rd0tmNlZWZlM4?oc=5"
       }
     ]
   }
