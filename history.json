@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-02 10:19:49",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.593,
-      "EUR": 4.2415,
-      "GBP": 4.9487,
-      "CHF": 4.5495,
-      "JPY": 0.025119,
-      "AUD": 2.3668,
-      "CAD": 2.6424,
-      "CNY": 0.5017
-    },
-    "crypto": {
-      "BITCOIN": 387942,
-      "DOGECOIN": 0.582463,
-      "ETHEREUM": 8850.68,
-      "LITECOIN": 303.91,
-      "RIPPLE": 7.93
-    },
-    "indices": {
-      "^WIG20": 2831.12,
-      "^WIG30": 3677.44,
-      "^WIG": 3677.44,
-      "^NCINDEX": 250.93
-    },
-    "news": [
-      {
-        "title": "Tadeusz Duda znaleziony martwy. Jak zginął? Były policjant zdradził takie podejrzenia - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEVBcTdyTWdlR19qV3hqWUM5NEhXQkdqSzZvN2hzYnFFRXd6ZUItU01mRDhsZ2NnWDF0ME5IUWdaVnMzRlNRY0VXN1JLd0NCRjc1R2RWT1FHTlpRNzVxZ2NzWWJJaWQtd3hHeUJtdGhlQjBtVlI5NGZ6UEYwaTU0eE1CMkNBYS00NUpsXzlZTXRBNEdVeW9mdDY5S09vVXFZV3dwM3BWeTdCa3JianR1dlY0WHpMRFJjeUVUckFaaDROUQ?oc=5"
-      },
-      {
-        "title": "Kontrole na granicach. Bruksela reaguje na decyzję polskich władz. \"Nie powiadomiły\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZU5ZYkl0LUVaQVVpa1BMRTU3ZWtXM1V2alNseFRjMVNueGpBWkV6SDVkUHQ4UXIzdkpWYWFtU1hUSWdyUy1hUXpfRm1vdXlvN3pfbEZGTm11VW5keHZ3LTBucGRjNllBd2pWa2FQelU0UG5vNDQ1RHhHb0UwNFRGZFhuUHZWS1U2cXA5cDUxd2hKdy1KQVhtajZvQ1NJQ1BiZk1VSExXeG5fZi04OEdDTWYyZ29ocTByV3owRC1YLXYzRlVLdHc?oc=5"
-      },
-      {
-        "title": "Tąpnięcie poparcia dla koalicji rządowej. Jest nowy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEYxN2hYTVJFLW02TXpnMGdEVk5lNnN6TnB0ZnY0cUZkNm1STTNvX2x0Wmp4QzBfc3FBTlNTcThZZ1NmT296eGVwcUNVR1JXc3REclIzVkhrd2ZCQy1ZczNza2xFYXVDb21EbHl6YWZXVVdOUXAtQXBaVXdybHkwbVI5VzlEeFg3Q1AwclBucTR6UE14RGpuTFNTWmdqck1sRnc?oc=5"
-      },
-      {
-        "title": "Tragiczny bilans upałów w Hiszpanii. Setki zgonów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnExNGxBMW12MURvRnFjVmo2NUpXY3hTcVdRVVlwSGhYSlhqS1dGcDloUnBEc1FOZVFZTndENkpiTndmYXpuR2V2aXI3SjdWVUNxSlNvZnJSUUJZSVVSQklYLWRHUmR1ZzZCWUVkRV9yV0RsTW9zeU1DYjlZSjBTSzlmZDlqSFJmQkl1aklGU1hXbnB4aEE?oc=5"
-      },
-      {
-        "title": "Dramat w Warszawie. Pożar w metrze i wielka awaria. Jak poruszać się po mieście? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTNUMTV3LXk2ZTVCUXp0MWVlRlVRSFJmMlF2azBZOHB0RS1UYllCbnZjNnJFOFJaTUNudUFuS0k1VUxmMEJTV0hXY3MzQlNoVHo5dGlHdWJITWl2aEJ4dF83TXVuRFdsa05YaWMxazVXNEZrRF9WckdRUTU4cjlFN1cwVE1XX1BVZGxiNGhWY2RTdk82SDJ6VU9BRWJJRGRhVWlnZHl3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-02 11:17:05",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Jest wniosek o uchylenie immunitetu Antoniego Macierewicza. Prokuratura informuje - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSXpNMTZPYlZvVXlYVnhNUTlBM1RSRXNQUEhub0dWRlpnRjE3MGk5aDJzQ01YQy1wdnZiVXp6RVJYeDYwM3hDZnJVY3hSYWFjMElLbVVfSkVIdDA2V3RMRlRJRXpkcldCZWp1RGZncjVlWTY3bFdDTjhNRDRPOE5PZVZ4Q2FnX3QtTHV6aW03Q1BqS09lUXZ4dTdMaUJTZ1FqSDNlNHFjaExLNEN3YWhqVnZERV9oZ283UTQ5VWN6WGVLeDFXLWFMc1Zhb2o1UXBJYThwRkxmMno3Mkk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-04 16:13:31",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 388619,
+      "DOGECOIN": 0.591419,
+      "ETHEREUM": 9081.66,
+      "LITECOIN": 314.24,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 2865.32,
+      "^WIG30": 3722.6,
+      "^WIG": 3722.6,
+      "^NCINDEX": 251.26
+    },
+    "news": [
+      {
+        "title": "Tragiczny pożar w Ząbkach. Sprawę badają służby specjalne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHFNbURHSmd6WTRZalJvV09KcFBVS2RIWkRfYkRCY0dkTE1ROF9LMDVBZDlIellCcFFXX21mU2MxMnF1ajZRT1F6UWRmT1FPM2ZoMXp2eGVHelZwbkFmR2llVmRuekU2VkdZeFBWNWV1akJORUdOaDQ2Wms1NmRJWERGNzNrcG9kVkx5U19EYThDZmItblJHalVhWHIwSk1JMWdvNHgtRzZUbEZjSHczNUh5dWZaRTVaVU00?oc=5"
+      },
+      {
+        "title": "Dwaj znani dziennikarze motoryzacyjni oskarżeni o gwałt. Jest oświadczenie - INTERIA. Motoryzacja",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzRRTGZUQm03LWo3RXdNdU5PRXJYTkY3QUtJRHJFTnJKUS1GVkhmbFBCdVVPVG1OU1V2aTZYNDhtanNLbzZwTTNGSlV2ajlzeExQX1M4TXRXSG4tNkNIUEJVX0hzTGZpX3V0VlVzUjl2Ni1qOFpzVWJJdGxpV2lrQ2Q5VFBkY2NnZnp2OFhNaDlkMzMydXViNTZHVkhSeTVPeGpIVllTbnoyWXdNVUs5TzE3TW53YklwZ2NHaQ?oc=5"
+      },
+      {
+        "title": "Czarne chmury nad Macierewiczem. Jest komunikat prokuratury - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHBDOFg1dEtQdC1mZThkdG1qRUo2bjBra3NUZWR5TVRJY21zZ2xsUG5idTBIcTZnMXB0THcxb2tjRDlOTHZpbDRSdWQxcmdkRE41Tmp2NElwR2lKSEN2V1RqSjZzUmNXZGVkZnpFWnUwTkpvREpVVlZJZFBHQ3BMdEFMTWM2TGJxVWZlVjdSTjVXeXVYRVpzZDdRajg0ZWNGY1lj?oc=5"
+      },
+      {
+        "title": "Kim jest Sławomir Cenckiewicz? Zaczynał jako naczelny miesięcznika religijnego \"Zawsze wierni\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVW5XVFNaejBvMm5EVGpPYVdCQUl3aU5TNGM1UjFKTlRaempkdUp1aTd6d0cyZGRCZ2Z2TS1Zc3k3aTdCV1VRZEJ2ZzRid3ZjbkEwMGJBTDFBQk9ERkhVcDhfVnc2S3FVN3BHSGluVEtxTlhDSVZkVEVPdGM5X3dUYk5jaWkxeF9OOEVvOFQ3Q3l3d2dpNFpkVmQzdlVLMTJUeTlpRWpWQm5mbVFjVXBnVTBtdllhX0lIdmFZM3Vn?oc=5"
+      },
+      {
+        "title": "Robert Bąkiewicz na granicy. Dariusz Joński: Żaden obrońca, spłaca dług wdzięczności - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDU2Y18wN09LeWh3ajFWNl9hMEY5dGRtWHNNa01OTGs2dXJnWmFHMXFRS05LQTVDSUlLRE9hTzNzc28wNHIzZzBNM2RjMUd4S2tkQVJyNV9ieFpNQlQwNXFoYUtqU2p1T2NtUFpqc3BCeEhtaEZkanNzQnN0YVlZUnhrUWdGMUhqb182cFNLZGlzeUZTUGl6eUs3VXluNkJ5SEtrVzdmN1ExOV8zbjFsSUFpTQ?oc=5"
       }
     ]
   }
