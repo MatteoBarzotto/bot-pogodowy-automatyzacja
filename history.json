@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-02 13:13:00",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +27°C"
-    },
-    "rates": {
-      "USD": 3.609,
-      "EUR": 4.25,
-      "GBP": 4.945,
-      "CHF": 4.554,
-      "JPY": 0.025069,
-      "AUD": 2.3689,
-      "CAD": 2.6444,
-      "CNY": 0.5036
-    },
-    "crypto": {
-      "BITCOIN": 389387,
-      "DOGECOIN": 0.584939,
-      "ETHEREUM": 8871.19,
-      "LITECOIN": 304.7,
-      "RIPPLE": 7.91
-    },
-    "indices": {
-      "^WIG20": 2829.12,
-      "^WIG30": 3675.17,
-      "^WIG": 3675.17,
-      "^NCINDEX": 250.33
-    },
-    "news": [
-      {
-        "title": "Krystyna Pawłowicz przeniesiona w stan spoczynku. Jest reakcja Trybunału Konstytucyjnego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTTZ2d0I3WDh1TTJPTm9QeVJLVEhQQmZ2QjZsc3d3LXRLaWcyamRWVE1QS0VZaGJXWEdfalMwMUlHMFppU0lTcENOdVM1b1JBalcwU1hMMi1ldTktdUxiQzg1TXZkY3VPR1VHd0xVa1FYd0Q4ajVhZWRKM1pyRGF5X1M3b2NkWFZRdk1udDV2WWNuLUk4SkR4bUtod2N1OTFtQ0Zod2VJdkJvc0gwVEEyUnUzOWJuMWlUWkJjeTdFX0trY3ByZ2c?oc=5"
-      },
-      {
-        "title": "Poszukiwany Tadeusz Duda nie żyje. Policja zdradza najnowsze szczegóły - naTemat.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWhLa1VBaTh4a25Eb3B6R1lmSTlWVXdnWG9YUXhmZHh4MVRIRGZGb2lIVzlKOXJJMDdidmdreGZxa0QyU3ZySV9adTRsc05ZbVRpNmdlNVpqcnJZOERrNXZEekxIaFpqenJkd3hSbE16ZGQtanNCd05jaFpKMVlFS0p6cndpU2VKMFoxOUtteGZhNWVDYVMzc1V5cw?oc=5"
-      },
-      {
-        "title": "Niemiecka prasa pisze o Polsce. Wskazuje główny powód kontroli na granicy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTRvT21fS2lmQkJvVmJtRUdWeHdFSFZSM3gwV3prdDJ4eFRlaG5QVGNHcDBCVS1PcERwelJaSThkVjNxSnd4Y01neGhuMXVXRFBUTl8tVXg1SEVhWmpjaDMzN3FkN3hHR05SMXlnb2xDTWhzYUp5WHhCN0tFUkJaVWlqWjVnbWhlYWFvR2ZLUzdOWUpZbDdMZHZ4M0Z0QmxNckJ0OHJMYU0taTdsV0tHaHlzQkR5Zm1iSjVQSWhpOA?oc=5"
-      },
-      {
-        "title": "Apogeum coraz bliżej. Na termometrach prawie 40 stopni Celsjusza - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdTh1cW8zZ2hVMW9xOVJKOUFBdHk0UldFQW9XZERibHljQkFnajc1dk5sLU1PeEo0Z29TQ2RMMGxLMngxRVRnSkJuZ2NfbzR2Rks2am5SS0ZVMWFjRC05blJBNVZ6dk43N20tQ2NFbXo5VHVweVVUM0JnWkd2bGctTUNUVFFkX0pIWFBhU241c0hHVFpYV2VwamdjQUpSQW9jXzcxRQ?oc=5"
-      },
-      {
-        "title": "Tąpnięcie poparcia dla koalicji rządowej. Jest nowy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEYxN2hYTVJFLW02TXpnMGdEVk5lNnN6TnB0ZnY0cUZkNm1STTNvX2x0Wmp4QzBfc3FBTlNTcThZZ1NmT296eGVwcUNVR1JXc3REclIzVkhrd2ZCQy1ZczNza2xFYXVDb21EbHl6YWZXVVdOUXAtQXBaVXdybHkwbVI5VzlEeFg3Q1AwclBucTR6UE14RGpuTFNTWmdqck1sRnc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-02 14:28:50",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rekonstrukcja rządu. Oni mogą stracić urząd - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVhwTnIyY1FNeXJjNUxIeVV3TlF3US1mejFhakE3YTNDS0VNdzBvZzZQSlQxNmpkMlREZHdyS2NQT2s0REVfckVWdlBLRU5QT0VIS244VU1xN0lrOHZVMUJ2VFllVl9lRk5pSmh3V3I2NHpuY2JXUmFnZ3BJRFZfWXdFUmdvQ1ZaYnZSZUdSZGlYaHhGRmpHZG1UcHA3Q3lyLWV5YlVIbWZhTEtfeGdPcWdLeGszZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-04 19:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 388458,
+      "DOGECOIN": 0.585303,
+      "ETHEREUM": 8980.01,
+      "LITECOIN": 312.82,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Szymon Hołownia tłumaczy się z nocnego spotkania z politykiem PiS. \"Ekscytacja nie jest wskazana\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWG5DLUItN3RFbDNDYWxQZW9nUzZ3Yk93bVZrcnJnV1l1LUFJZ2ZHMXAxV1c1VnZkQTlVVXNNNDZZT0hXa1A3Z1d1VGo0MEpTZzAtbEdLdEduT3ZtV2Ryd1ZoaHJwRzdqNkwteVVDenRQM0xBOVhfalhHZURObGFpdEhELWhOcmtST0loQU1qN210Ui1FSjBXSkJTN0U0dTZSSGVSS2RsOHp0QjVlNEVjU0lzcmlscDluUUZoSTRiXzVsa2t2bDZTT2JCZFA2QkVnaWl0RTdVV2FlY180MTcwNjN3?oc=5"
+      },
+      {
+        "title": "Ogromny pożar Ząbkach. Jest apel o pilny przegląd poddaszy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX20wZEdCamYxX2Y2Rm5TbjBTcXM0eXV3RU4zSTc4WDZadTdRTTVyYWhRREZ4VHFmU0lCWGFzS0FESFZ1NFR4V2hRRHlzSEYxX2VJem5rcUVlTWdsX1owU1lzdW5VOWdIU2Q0d3R0ekxOSXowc0k5NHhWMVl6ZDNTQUVjU0dJVV90WWFOV2pfVHFsSS1YcU1QbFhVSW5pQmdJcDhsSFBBeFQ3amM4Qmt4cUQyTnBmeE9GencyWmRjS1l0bEE2ckxqRmR3Yw?oc=5"
+      },
+      {
+        "title": "Kim jest Sławomir Cenckiewicz? Zaczynał jako naczelny miesięcznika religijnego \"Zawsze wierni\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVW5XVFNaejBvMm5EVGpPYVdCQUl3aU5TNGM1UjFKTlRaempkdUp1aTd6d0cyZGRCZ2Z2TS1Zc3k3aTdCV1VRZEJ2ZzRid3ZjbkEwMGJBTDFBQk9ERkhVcDhfVnc2S3FVN3BHSGluVEtxTlhDSVZkVEVPdGM5X3dUYk5jaWkxeF9OOEVvOFQ3Q3l3d2dpNFpkVmQzdlVLMTJUeTlpRWpWQm5mbVFjVXBnVTBtdllhX0lIdmFZM3Vn?oc=5"
+      },
+      {
+        "title": "Susza hydrologiczna w Polsce. Rekordowo niski poziom Wisły w Warszawie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdy0wX2JCUGZMMzh6ejJyaVhqZ0EwOFYyWlpGVVBodmlXYjZfUVJpbG05Q0hQcmludURZMzgtd0x3VGVtNElGQThIYkYtVlEwcGRHZUhwajJRM1Z3aXVmYkx6czkxR0JZOUlabllyWWpjMEdNWWZVUnluUHRQeFJlTkxua0RNRE5xMDRCVVY0R1JhaVUtU0ZuS2FMbU5WZjNCeHp3TC1KQ0lXRHVOaVpOV0FfOHdoMEti?oc=5"
+      },
+      {
+        "title": "Donald Trump rozmawiał z Wołodymyrem Zełenskim. Pierwsze szczegóły - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWk1SnhMMmFYdllZM0NxODhva2tNWHVHdEZZUzVObVVYVXM5Z2dMNk1TT2pTZGtzcElkQnBVbjhPSEFCRnUzeS1jZ0V2Xy1UU2d0bzdRaFUwQ2ZkVWxVRFRBQWJTMmQ2MmZKeWlQTnJhZGUzYWZHcU1vX2RhMGZUeEhmbnhNZVdhNTYwNDRod0RLWWVnclh0M3AtWjVBTGEyZTRXdGpZYnZ6dw?oc=5"
       }
     ]
   }
