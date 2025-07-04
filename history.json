@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-02 18:17:28",
-    "weather": {
-      "Warsaw": "Warsaw: +31°C",
-      "Kraków": "Krakow: +30°C",
-      "Gdańsk": "Gdansk: +31°C"
-    },
-    "rates": {
-      "USD": 3.609,
-      "EUR": 4.25,
-      "GBP": 4.945,
-      "CHF": 4.554,
-      "JPY": 0.025069,
-      "AUD": 2.3689,
-      "CAD": 2.6444,
-      "CNY": 0.5036
-    },
-    "crypto": {
-      "BITCOIN": 395865,
-      "DOGECOIN": 0.609514,
-      "ETHEREUM": 9182.59,
-      "LITECOIN": 314.55,
-      "RIPPLE": 8.07
-    },
-    "indices": {
-      "^WIG20": 2839.82,
-      "^WIG30": 3690.46,
-      "^WIG": 3690.46,
-      "^NCINDEX": 250.69
-    },
-    "news": [
-      {
-        "title": "Ekonomiści komentują niespodziewany ruch RPP. Co dalej ze stopami procentowymi? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFRPZ19pQ2ZILUF3a0l5RFBibzRJYVU4UWlBdHhndnc5dmlxS0dtOVBuY3VNTjlJcWpXVi1MMUFHZENJMHhNUEZCVTd3TzhCdS1NNHBwVVNyS0RHRGFLYm5xeHhGOUhvTnN4cW5MWU5sSTM3NjI3dmZtQzNQLXZTczAzcmEwTmFOdENoS2gzR2tTVHRaSkREa2VKdGloYWszUXBkTm1DUzllY3M?oc=5"
-      },
-      {
-        "title": "Tadeusz Duda znaleziony martwy. Przeprowadzono sekcję zwłok - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpvMkQzaHNKZWRESnY5cVFNTGNWNkFydDFweGFwN2xNUVlrb0hNVnlaUVhoLURrLWwxQWM4dENHWV8wZzIxQy04bWFxbHBJZFdMMi1STjRuNDhCemY0cmh0Q21lV1g4ZTZ1YVRYSlI1Y1R2eTQ0enB3TTF0azR4dzhDUTJwXzZiaXZMbG13RGdJeUJWTjloRTV2YVlaTmxibzhR?oc=5"
-      },
-      {
-        "title": "Sytuacja na granicy z Niemcami. Donald Tusk sporo ryzykuje - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFhoYzNlMEhZRmNObTREcWFHSU5VcVNZYWQyRVVUOHhSZmhCdHgxZ1ZWb05nV0tFbVdwZ0VFSnJUS3o1bncwb3p6TkRfWHJnXzlzNUF5bk42b2RveWp0aDVMdUhEeXA0bDN5OUN3V285VHZWWTE1bWF3VjRZemZwT0s5VDVxNEZaOGs4b2VVQmtUazdSX0FiaUc3WkhZcEtGaXFreXpiREI0UQ?oc=5"
-      },
-      {
-        "title": "Sławosz show. Polak pokazał fenomen kosmosu, nagranie dla Polaków - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDMzWURUZWpMOTl1YkllQjN1VWlfQ0lGdnNRMG1ybGVSV09VaTA4WG1tNUdqTnp5aFNlT2RXWV9GVnB1eHRISEVfUWZwZV9EZFo2N1JJU0xMR1dqbUFnZUVSZFctUnJQSlNtZUdDWnJxeE1WV2xFNEowcHZ6dE9sZDNEQTlpWUhqazBMVXN0bmRna3k1MHZKUzU5QnlFbGFtWHBET3E2RjFWeUw2enFYemtTWnA1UQ?oc=5"
-      },
-      {
-        "title": "Hołownia oskarża koalicjantów ws. Nawrockiego. Mówi o próbach zamachu stanu - naTemat.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFJuVzBFREc3bUtMYU1HZVhCZlM3d3g2WWsyOUtGMFBkb3doSHA0bUdJcnZqSjdheGs3TFFCdG4wZUl1UVFua1hZNkYzVTdpWFppTzZPSjJKUmk4Q3JuNkJWMlYyUHJkV0RRNV9lcE90WXJUMlJ2UThtSnVFZnRBYkRYT3BkZjdmU2tsNGIwY2V1RkpFdDhFa2x3b2k1YlNF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-02 19:13:23",
     "weather": {
       "Warsaw": "Warsaw: +31°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Trump rozmawiał z Wołodymyrem Zełenskim. Pierwsze szczegóły - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdG4zejdWYjF6SlF1LUJvMi15bWNPT2NLU09kQklhYzJrb0hxWUZpTUZqWUNwR3RHYlloSmdQT2FjTjUxSk1OTV9VM1JqTWQ4RVg3OWRranNzbWpvWmdfRlpkUzhOT3JFV1NmYlpvQ09tN3VCai1sYUhrbmVMY005cHBzZ0pTdWxDRnd6Rzh0aDdJWVlYcHRvbnlTa1hfT01wM1oyUWcxa0E3TW43RlJMQmhOeU9MM3RoeUZuck5BQThDNVl0UVV3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-05 00:13:43",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 389247,
+      "DOGECOIN": 0.587577,
+      "ETHEREUM": 9013.98,
+      "LITECOIN": 312.2,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Ogromny pożar Ząbkach. Jest apel o pilny przegląd poddaszy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX20wZEdCamYxX2Y2Rm5TbjBTcXM0eXV3RU4zSTc4WDZadTdRTTVyYWhRREZ4VHFmU0lCWGFzS0FESFZ1NFR4V2hRRHlzSEYxX2VJem5rcUVlTWdsX1owU1lzdW5VOWdIU2Q0d3R0ekxOSXowc0k5NHhWMVl6ZDNTQUVjU0dJVV90WWFOV2pfVHFsSS1YcU1QbFhVSW5pQmdJcDhsSFBBeFQ3amM4Qmt4cUQyTnBmeE9GencyWmRjS1l0bEE2ckxqRmR3Yw?oc=5"
+      },
+      {
+        "title": "Spotkanie Hołowni z Bielanem. Pojawiają się kolejne informacje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1BNQUhHVWZSaTFtYkFnNXJfQXc5ZWc2X3JxZXNxeTBjcnhYV1UzbXRscXYyajdLNWd1cVBQbk5KcjBpREhYOHJsdDRHQUxvU18wQzJ4OXB2UFUtT0xYZEMxTGNtMnNMenZ6eTRtVTlrZTRnN2RIbUZKSy12THNlQW9nd0xvQU56Ml9vVXpONHc2QWlJanVxWjNJa1lUWU00VlE2Rm8tZw?oc=5"
+      },
+      {
+        "title": "Tusk spotkał się z koalicjantami. Wiemy, co zaproponował - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUtJUVBiVE16dFRIWDRZdmpFUllHM1FnVE42Q1NXYnJZM09yc0JxN1ZKaWFWLWx3WlBlTy12N3hYVUJBWk9jOUJieUl3VHNpZnFMa1cyd2tJd3Z5WWRBTUluM295MDhNdGVnaHM2M19rb0RHQUNkVXVzQUxRZ0hVVURlcEpMbklockhaMlc3S2pkVGtxOEHSAZQBQVVfeXFMUDk1TTdjTGRrNTRhUVZHZzBSTHFiVi0xYVdubzg5VFRZcHd3ZWswa3pLRDRzdHNKc2RHU1V0a0JHOGJUbG5RWnloRXNjYUZpTzNSWXJ3TmNTYnQ0QWhFREdWZ1lGYklMUExRSUk2R1RjSVhScHN2SkJ5UVZxMVlvbm9KWUxaYXdXYlFyZDJMdzVQQUlvVA?oc=5"
+      },
+      {
+        "title": "Prezydent Andrzej Duda na granicy. Przeprosił żołnierzy i funkcjonariuszy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWElTcnYtYU9JcGtseUV1bXdtRmhjNE54eEJqMGRIbmJUTmFXWWt5eXhJMXZGTXJRZ1lFTGg2YS1CcWR3Q1c4dVo3bS1OajlzT0RWRlVNeTU2NGFvRWppenlkdUl5RTZZdGVaMHdEVTF2U190UG5Sa1RDcmhWRHhrQ3lsZ256cUkyMDhWZTBKUGdzRF8zc2wyMW1oR0hhNnN0Vm9qbUVybmZqQTQ?oc=5"
+      },
+      {
+        "title": "Były szef BBN o nominacji dla Cenckiewicza: \"Mam nadzieję\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHNDUFJfaGROQWtnWVJCQk9iUTJ2NUZkOE9VNWt6d2h4Y1Rhc0pQNlhnbWNSOFpwVk9ZWEF2cWsza0N4NVdpYk1qWnZlT2paR0NWbENMME9QSDRnSXN1ejYxRGg1TTBhUDgxbHRNRS1uc0VoZWhtdTF2V29sWkk4VUJ5Sk5lNU8zU1BRc1ZjbmxYQW8wZjRkcWdwOFBLeG8?oc=5"
       }
     ]
   }
