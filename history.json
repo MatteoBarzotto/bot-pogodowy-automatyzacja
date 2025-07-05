@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-03 00:13:36",
-    "weather": {
-      "Warsaw": "Warsaw: +31°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.609,
-      "EUR": 4.25,
-      "GBP": 4.945,
-      "CHF": 4.554,
-      "JPY": 0.025069,
-      "AUD": 2.3689,
-      "CAD": 2.6444,
-      "CNY": 0.5036
-    },
-    "crypto": {
-      "BITCOIN": 395056,
-      "DOGECOIN": 0.61947,
-      "ETHEREUM": 9378.23,
-      "LITECOIN": 317.75,
-      "RIPPLE": 8.13
-    },
-    "indices": {
-      "^WIG20": 2839.82,
-      "^WIG30": 3690.46,
-      "^WIG": 3690.46,
-      "^NCINDEX": 250.69
-    },
-    "news": [
-      {
-        "title": "Berlin ma ofertę dla Polski. Chodzi o kontrole graniczne - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdjQyMTFyOUFuSGVYVGZWeWlHeWJKN09tMjhKVmFUNHFDSnRBeDJ1dm1qZTVCeUUyWXBlaDNVMWlIZUhDOEFVdmhPZ1QxMHZvTkVvUGpkSE5ET1dlZUluU1lrZVhjaFBuVHppYldrS1BoM0ppOHZRQTBKb0p5YzRxTXFsMmdPc1hFT0FBNllJMTNtU25xdkVNUFpmV3hHTlE?oc=5"
-      },
-      {
-        "title": "Kontrole obywatelskie na granicy z Niemcami. Prokuratura wkracza do akcji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDVOSVVJRmVEODdpNFJ0Y0c3blk4N1lpall4V29LYUdnU0JUNUhWek13anpTdTF4aWpzRDZxa1kyMldpZEVVZ2lhckNyZXUxSWIyYU5XV3gtTFJnRDZiYWV1cHUzRjE0SkY1RnItLWE3bnc3ck5aZ0M5Z01pZFNWTzFOczdyY0JOVVp4c2s5X1A3enNJOU1ydHdRVTYtYk1lRFYtTld6NDZwX2QxVmlJOXZnMmluVEVzcmtta05EZkFNUFFld0hUMTBRMkw2dw?oc=5"
-      },
-      {
-        "title": "Decyzja Trumpa zadziwiła Ukraińców. Broni będzie mniej - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDhYWTAzOWZ2ZmptVUJkYkhuRzl5VlJFaEEwOGNDUnM5TkVkU1JfbHBDVzUyMXRscFE2YXpWNEdzV3VTZ3RLVGlhTmNtdVVZalBjOExIY0pUTkZlQjZNSFhkZkxaOHhZZ0MtRU9fR0s0eUt0bi1ycU5aTm5kRGVnSGVzb2drZXFIMm9UeVJQeDBnU0NybkxWR01HVWVYcldjckhEbDI3WjRoaExYX3paRXRrd3RISVgwblBKNHc0elY?oc=5"
-      },
-      {
-        "title": "Śmierć Tadeusza Dudy. Prokuratura: przeprowadzono sekcję zwłok - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRW90ZEtYTXR4dFBiTVF0VjBwTXNWQVd4RUotNzRzN2diVVZOdkNzcmlxa2MwQ1FKT1lUX1NmZmZKSmlTV2Zoa0lCRHZQa3ZWUWJMbjliazUtWkF4M1N3NVZJYTU1MXZBbUR1UUdYa3c5dUxSYUJETm12Q0NsWl9ycElJWk1Ca3JEMnRteUl4M2lDSm5NTkZTUU9pSURqV2R5?oc=5"
-      },
-      {
-        "title": "Pożar transformatorów w Warszawie. Mieszkańcy usłyszeli huk - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmxrY3N1QnBVa01QXzN5VDNMMnREV3JKZVFZbUdCbHhCY25tUXFZTDhnUVROanNycXFKV242bXNOZVpwSkluX3JFbjJlVDZZWDhLVXZ4clY3SDF2Y3NhcGFaUjRsUTdXS0YxNE1rY0dfY190cUt6d2cyUmRmQ2o3dmRIUUJKeXloWWpsT1NjREIyZTFjYzREaEpsT0JoTkQ3ekM1RGN2NFI3MVVKbTUtRU1yMkR5R0k?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-03 01:13:47",
     "weather": {
       "Warsaw": "Warsaw: +31°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trump ma swoją \"piękną\" ustawę. \"Kraj wkracza w nową złotą erę\" - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVU5U0s1VFFQMWxSZ1VJbi1kallXOUJhQWNZUldybWJ1ODBqQ2wyaW1YWFVXRzQ5MEZGY0dCcUVIQnBjbFdEd2VOUVF6WTZ3VEFnaWtySlFmWTZxSy11ZkNFUWVicGNwXzFRNGx1ZnBoSmw2SkhGZWpSYUUwU044bnVjazh6NzdQN1FmNVgwWVc2UXBuTXVTbDZudjh5QlFTcnozYnRxQTl1YnV3RHlIQVZ0NA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-05 08:19:16",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 389720,
+      "DOGECOIN": 0.591512,
+      "ETHEREUM": 9077.59,
+      "LITECOIN": 312.29,
+      "RIPPLE": 8.03
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "\"Upokarzające\". Komentują spotkanie Hołowni z Bielanem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkUyNzkyX0dHcUJxQjhOaFY2OE1Ya2VDWnRJZ2haMk85c0wxeWljMTlCMmRrMnVtOC1MNTNSVXBYYWRnUlJZOUJJckJJc25wQ2tMT1NDdWFHbGZ2UWRnMldFcHl5U041bnE3XzRqOEh1TkxQVnN3cmpUS0ZFbHBrdVZJOFNSTnUyRFh1ZWUxMERDbW5UeUlhNDB3?oc=5"
+      },
+      {
+        "title": "Pożar w Ząbkach pod lupą rządu. Policja szuka świadków i nie wyklucza żadnej wersji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ZORFhiVHFMRkUzUVVKaUEyVHRudnVkdGU2UkF1RVJJeks3cEhfeHJJR1VIYjdudlh1cTJfRmRsSzB1RXZlWE4wd0s2NlFiOFYxVl95RUk2WnpnOWRrTDA2eThYNFg3cWVOOUZ2cmxfc3BiTlI5V3FhYzUtbzBtcER2N2VhdWhxdzR5dmVqcERlbFdTdmtpQy1naHd6d3pfNXdjajRXblpFUmdS?oc=5"
+      },
+      {
+        "title": "Donald Trump podpisał \"wielką piękną ustawę\". Oto co czeka Amerykanów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVpqSzhDUkRYMzlFbjR2TWJybk8xWXFYdTZzUWVOQl8xY3c1aW8yS21GR1pyVWVaYU9fNjRHNXZJX2pxLWpsa3hiZUxKRTNxdTJVM0ZyOHlDbnJXYkZmX2dDelREUEI0NUdOb3RqSmJsZkRBLWc4enE4STF4eml4YUZySUZvV20xbjVTQk9QUXlEWkNpMUtZVHhYaklkb2M0N2E1MzZyUFhXQWtiUFZuNE9rMHo2UXpUSUFIckd3?oc=5"
+      },
+      {
+        "title": "Znany lekarz oskarżony. Ujawniał wrażliwe informacje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcm1IaDM4QnRWZ1A5dEJiUzR5MnJBSmJfb3R1STFwV1ZJX0UzWTZJbExESUhJNnJsa0NSdW95eWMxanhmLVdvbkstbUhsLWZzZWRmRDVKTG5qNG5OTjBmWFZQdGVqNGItUVUwTnhLblNYSmRfX2p6Sl9yQjU4OFRaT1NrN3ExVEJ5ZjlmLUE5TlRQUW9rZEVTUUlB?oc=5"
+      },
+      {
+        "title": "Spotkanie liderów koalicji ws. rekonstrukcji rządu. Premier przedstawił propozycję - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYXRwdjZ2WS1kdldDWlR2MzNPb2ljS1NJTTh6T0d5dEZFRmF3R25JbmxxdHpiQzg4MDNZSUJRa2k2MkZvUGp5NmtLRWRBQ3VpanlzUFNFejRGWG1fQ2lQWnRDNWhtWmRjUXBreVhfalFSeW00bExqcHVTcmYzVTBOa2NWbF9fWDQ4WlpkMHlhUE5uXzBhdEszQ0VBVDkxTGtTUVJfVXV3UVh3SjRhOUQ0ZVdxUzZxb1N5ZEg4VE9CUWc3S1BIZ3pF?oc=5"
       }
     ]
   }
