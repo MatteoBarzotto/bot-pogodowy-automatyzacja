@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-02 20:20:14",
-    "weather": {
-      "Warsaw": "Warsaw: +31°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +31°C"
-    },
-    "rates": {
-      "USD": 3.609,
-      "EUR": 4.25,
-      "GBP": 4.945,
-      "CHF": 4.554,
-      "JPY": 0.025069,
-      "AUD": 2.3689,
-      "CAD": 2.6444,
-      "CNY": 0.5036
-    },
-    "crypto": {
-      "BITCOIN": 394413,
-      "DOGECOIN": 0.617563,
-      "ETHEREUM": 9281.57,
-      "LITECOIN": 316.32,
-      "RIPPLE": 8.12
-    },
-    "indices": {
-      "^WIG20": 2839.82,
-      "^WIG30": 3690.46,
-      "^WIG": 3690.46,
-      "^NCINDEX": 250.69
-    },
-    "news": [
-      {
-        "title": "Tadeusz Duda znaleziony martwy. Przeprowadzono sekcję zwłok - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpvMkQzaHNKZWRESnY5cVFNTGNWNkFydDFweGFwN2xNUVlrb0hNVnlaUVhoLURrLWwxQWM4dENHWV8wZzIxQy04bWFxbHBJZFdMMi1STjRuNDhCemY0cmh0Q21lV1g4ZTZ1YVRYSlI1Y1R2eTQ0enB3TTF0azR4dzhDUTJwXzZiaXZMbG13RGdJeUJWTjloRTV2YVlaTmxibzhR?oc=5"
-      },
-      {
-        "title": "Sytuacja na granicy z Niemcami. Donald Tusk sporo ryzykuje - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFhoYzNlMEhZRmNObTREcWFHSU5VcVNZYWQyRVVUOHhSZmhCdHgxZ1ZWb05nV0tFbVdwZ0VFSnJUS3o1bncwb3p6TkRfWHJnXzlzNUF5bk42b2RveWp0aDVMdUhEeXA0bDN5OUN3V285VHZWWTE1bWF3VjRZemZwT0s5VDVxNEZaOGs4b2VVQmtUazdSX0FiaUc3WkhZcEtGaXFreXpiREI0UQ?oc=5"
-      },
-      {
-        "title": "Śmierć 24-letniej Klaudii z Torunia. Są wstępne wyniki sekcji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM01zbjNGVEl2TVdYTGxHZU5UOTlNZXZuVER5OTR1enJHUmZiQ1hJeHlWTzV2c1h5SW9PSzNETU1OQjVVV3hfS3RBX2w4bWFLR3h0UElLejlkSGROZlhFTnpOU3gxM1E2QTZmTGJxVzROVThvZHBWRUFLSHlvSDdra3FxMlE0dEl5b2pKaW5VRUY5aDJVMUIwQ1I0UlNrTl9kSmVBaldoZlNySWd2?oc=5"
-      },
-      {
-        "title": "Kontrole obywatelskie na granicy z Niemcami. Prokuratura wkracza do akcji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDVOSVVJRmVEODdpNFJ0Y0c3blk4N1lpall4V29LYUdnU0JUNUhWek13anpTdTF4aWpzRDZxa1kyMldpZEVVZ2lhckNyZXUxSWIyYU5XV3gtTFJnRDZiYWV1cHUzRjE0SkY1RnItLWE3bnc3ck5aZ0M5Z01pZFNWTzFOczdyY0JOVVp4c2s5X1A3enNJOU1ydHdRVTYtYk1lRFYtTld6NDZwX2QxVmlJOXZnMmluVEVzcmtta05EZkFNUFFld0hUMTBRMkw2dw?oc=5"
-      },
-      {
-        "title": "USA wstrzymują dostawy pocisków dla Ukrainy. Polska reaguje z niepokojem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1pvcVdNekxKYzA1ZnpKTFdTci1wUzU4Z2p6RmtRZ2FPUnlRaXI5MlNHd0RKa2I1VDVlcUplNFYwYk5xb285ZHJid3RzaHZBU1NnOG5ZQjJPcElHdUZZM2pLRHVmS3FudXJEbEYydUsta29FeGM1WTZOZUROdHlqVTRzNDctcmxoMmJYMzNZemJjN3pkYWdDbjBQbUtwN0lKeVkyUE9xdk5jNW0y?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-02 21:11:16",
     "weather": {
       "Warsaw": "Warsaw: +31°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ciągnik z kierowcą wpadł do Dunajca. Trwa akcja ratunkowa - Onet",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnJzQWFBcWN0a0VBUUR2SUFMQ0hMd3lVcVp1RGFTQjVPM0FqcU82SnpPOU1GdXFhN0drOHJxTWIwNVBEQTNwSFFNQ2Jjb08tVEk3VktRMXllam5sc2RxRVlkX3IxYUdzc1dPVkZDendka3FLUk5IZ3NyUGxDRi1ERzNUWWUtM08tenlyNTJWRmZSTnQ5WXJoc2M3bVN4R3pveWF3VUtGbWRqTmRfdFpyYXNyTzlTZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-05 03:07:07",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 389769,
+      "DOGECOIN": 0.588878,
+      "ETHEREUM": 9065.37,
+      "LITECOIN": 312.57,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Pożar w Ząbkach pod lupą rządu. Policja szuka świadków i nie wyklucza żadnej wersji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ZORFhiVHFMRkUzUVVKaUEyVHRudnVkdGU2UkF1RVJJeks3cEhfeHJJR1VIYjdudlh1cTJfRmRsSzB1RXZlWE4wd0s2NlFiOFYxVl95RUk2WnpnOWRrTDA2eThYNFg3cWVOOUZ2cmxfc3BiTlI5V3FhYzUtbzBtcER2N2VhdWhxdzR5dmVqcERlbFdTdmtpQy1naHd6d3pfNXdjajRXblpFUmdS?oc=5"
+      },
+      {
+        "title": "Bielan o spotkaniu z Hołownią. \"Z całą pewnością nie było tajne\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjU3X0tDeEtzYXpwZFZHUVJpd3NNRnNfZWMzVGtFZlZHRXo0VUp4bnlFdUpyU015cWZhTURyN3IwMlhqQXpjYjQwRlFuLWQ4dnBZbE5fTnJUUlZqdHh6dEVva0JLMG5EOFRIU2xfSVMtWUw5cGcxOFg5MkNNdEsxTVBDSkM3enFmcmpMSG9CRVpkMVBrWHowcmFaaU54ODFkajVlZk4yYw?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia u Adama Bielana. Znów jest „zdrajcą” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUJteEpWTVU3NDVBdDdtWXp1bklWSG5mUHZsa0dwVkRrTVhOYzVFZUwzcWxMNzllb3ZFNTQtSlVyTE5BMUM0c3FIYU5SSWduWS1UdTdxeWdzWVBfUS1DUmNNeGNacVhMMl9ZVnVwbUZXX3ZjSHZtY2EtXzZRM0JMaEdpdm5paUtCMUJHTnAtUEowbFAtXzB4X2FSNHgwNUZ1YktQZ2ZoM3cydFFGREZYX205THptd2tYSmZZLXplLUc?oc=5"
+      },
+      {
+        "title": "Prezydent Andrzej Duda na granicy. Przeprosił żołnierzy i funkcjonariuszy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWElTcnYtYU9JcGtseUV1bXdtRmhjNE54eEJqMGRIbmJUTmFXWWt5eXhJMXZGTXJRZ1lFTGg2YS1CcWR3Q1c4dVo3bS1OajlzT0RWRlVNeTU2NGFvRWppenlkdUl5RTZZdGVaMHdEVTF2U190UG5Sa1RDcmhWRHhrQ3lsZ256cUkyMDhWZTBKUGdzRF8zc2wyMW1oR0hhNnN0Vm9qbUVybmZqQTQ?oc=5"
+      },
+      {
+        "title": "Trzaskowski przyłapany nad morzem. Tak odbija sobie wyborczą porażkę. W doborowym towarzystwie - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUllWRDF2eHRZWHNheEVuYl9kb0xLWW5GWmNOcVphMEJvN1FBZWUyVUNhQ1pNd25oR1JmdnNHdXRZeTFGWk1pbFBUUy1uT21MOEVSWDBpejBqUHBtbVpYNjg1YUN2dzI5TzZkR2NEZ0tNYnRzdXg0dG9OaExBMi13R3hmNHVaUzVLendYelhOSGI2Y0gzdHc?oc=5"
       }
     ]
   }
