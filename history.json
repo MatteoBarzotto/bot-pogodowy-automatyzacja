@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-02 23:13:08",
-    "weather": {
-      "Warsaw": "Warsaw: +31°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.609,
-      "EUR": 4.25,
-      "GBP": 4.945,
-      "CHF": 4.554,
-      "JPY": 0.025069,
-      "AUD": 2.3689,
-      "CAD": 2.6444,
-      "CNY": 0.5036
-    },
-    "crypto": {
-      "BITCOIN": 394893,
-      "DOGECOIN": 0.619808,
-      "ETHEREUM": 9366.22,
-      "LITECOIN": 318.21,
-      "RIPPLE": 8.17
-    },
-    "indices": {
-      "^WIG20": 2839.82,
-      "^WIG30": 3690.46,
-      "^WIG": 3690.46,
-      "^NCINDEX": 250.69
-    },
-    "news": [
-      {
-        "title": "Pożar na Krecie wymknął się spod kontroli. Polscy turyści ewakuowani z hotelu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGQ0R0JhYS0tdVRUVWxudU5jZDNPNVdYbWJpVWJReFQ4TGYwTzZXdnIxbnBpYXp4UmRNa0YzNWRNYXhHSFJEN2FMbEJyaHQ4a1dIMnQ4TFZqU0tTWjJmclVGX1NhTnN1TnM1LU5YajVtMDBFMGFrSnZ3LVk1QmwwQ3Y0X3dSOGlGZk0zTkJ0bjFNdlZWWi1VUncxeHZXdC1UYmUwbG5UdlhuNXh5?oc=5"
-      },
-      {
-        "title": "Sytuacja na granicy z Niemcami. Donald Tusk sporo ryzykuje - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFhoYzNlMEhZRmNObTREcWFHSU5VcVNZYWQyRVVUOHhSZmhCdHgxZ1ZWb05nV0tFbVdwZ0VFSnJUS3o1bncwb3p6TkRfWHJnXzlzNUF5bk42b2RveWp0aDVMdUhEeXA0bDN5OUN3V285VHZWWTE1bWF3VjRZemZwT0s5VDVxNEZaOGs4b2VVQmtUazdSX0FiaUc3WkhZcEtGaXFreXpiREI0UQ?oc=5"
-      },
-      {
-        "title": "Tadeusz Duda znaleziony martwy. Przeprowadzono sekcję zwłok - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpvMkQzaHNKZWRESnY5cVFNTGNWNkFydDFweGFwN2xNUVlrb0hNVnlaUVhoLURrLWwxQWM4dENHWV8wZzIxQy04bWFxbHBJZFdMMi1STjRuNDhCemY0cmh0Q21lV1g4ZTZ1YVRYSlI1Y1R2eTQ0enB3TTF0azR4dzhDUTJwXzZiaXZMbG13RGdJeUJWTjloRTV2YVlaTmxibzhR?oc=5"
-      },
-      {
-        "title": "USA wstrzymują dostawy amunicji Ukrainie. Mark Rutte apeluje o \"elastyczność\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXJzX3huMWwtMy03WTlROFpidHhaNVhrR3Vrd0Q4cWNRUU5FR3ZvZlVQTUxDZ0gxdGxBTXpMazNkREZoRXVrUnRvTVJWU0ZlM0VPZUJhVXpMN2ZmRmsyYmRBYmJlU2ZZa1RmVkFqbEtRQ0xrdG5WU2pqbU1qcWRJUEc4bjZqbXFOOERLMUxGS0JnaEs3S25wR25jdHNOdFlHcEFUOHJTQXd4azFVV0I4?oc=5"
-      },
-      {
-        "title": "Śmierć 24-letniej Klaudii z Torunia. Są wstępne wyniki sekcji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM01zbjNGVEl2TVdYTGxHZU5UOTlNZXZuVER5OTR1enJHUmZiQ1hJeHlWTzV2c1h5SW9PSzNETU1OQjVVV3hfS3RBX2w4bWFLR3h0UElLejlkSGROZlhFTnpOU3gxM1E2QTZmTGJxVzROVThvZHBWRUFLSHlvSDdra3FxMlE0dEl5b2pKaW5VRUY5aDJVMUIwQ1I0UlNrTl9kSmVBaldoZlNySWd2?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-03 00:13:36",
     "weather": {
       "Warsaw": "Warsaw: +31°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Robert Bąkiewicz na granicy. Dariusz Joński: Żaden obrońca, spłaca dług wdzięczności - Interia",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDU2Y18wN09LeWh3ajFWNl9hMEY5dGRtWHNNa01OTGs2dXJnWmFHMXFRS05LQTVDSUlLRE9hTzNzc28wNHIzZzBNM2RjMUd4S2tkQVJyNV9ieFpNQlQwNXFoYUtqU2p1T2NtUFpqc3BCeEhtaEZkanNzQnN0YVlZUnhrUWdGMUhqb182cFNLZGlzeUZTUGl6eUs3VXluNkJ5SEtrVzdmN1ExOV8zbjFsSUFpTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-05 07:13:47",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 389458,
+      "DOGECOIN": 0.589452,
+      "ETHEREUM": 9063.39,
+      "LITECOIN": 311.37,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Pożar w Ząbkach pod lupą rządu. Policja szuka świadków i nie wyklucza żadnej wersji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ZORFhiVHFMRkUzUVVKaUEyVHRudnVkdGU2UkF1RVJJeks3cEhfeHJJR1VIYjdudlh1cTJfRmRsSzB1RXZlWE4wd0s2NlFiOFYxVl95RUk2WnpnOWRrTDA2eThYNFg3cWVOOUZ2cmxfc3BiTlI5V3FhYzUtbzBtcER2N2VhdWhxdzR5dmVqcERlbFdTdmtpQy1naHd6d3pfNXdjajRXblpFUmdS?oc=5"
+      },
+      {
+        "title": "\"Upokarzające\". Komentują spotkanie Hołowni z Bielanem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkUyNzkyX0dHcUJxQjhOaFY2OE1Ya2VDWnRJZ2haMk85c0wxeWljMTlCMmRrMnVtOC1MNTNSVXBYYWRnUlJZOUJJckJJc25wQ2tMT1NDdWFHbGZ2UWRnMldFcHl5U041bnE3XzRqOEh1TkxQVnN3cmpUS0ZFbHBrdVZJOFNSTnUyRFh1ZWUxMERDbW5UeUlhNDB3?oc=5"
+      },
+      {
+        "title": "\"Trump powiedział, że chce pomóc\". Szczegóły rozmowy prezydenta USA z Zełenskim - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1NTMzhGb0Q5LUdMaTF4aV9RY2g1S2pTRm1DZzVKaC12aC1BN3RnZWdJdTVhUGlNN21GRnBzTmFrTGtVdUZWYjU5RlhEUkx3SExhcXJrX0xBUm1Namp5WXFoMkppT0dzVzU5Vy1XZk1zNFI1dDJBOXdrVjBjWVNhTDhwcUtGYTYyTkxIbTRuWnBWN0ZxeWw0RHJGOUUtc2d6cGdDTE9ySk8?oc=5"
+      },
+      {
+        "title": "Tusk spotkał się z koalicjantami. Wiemy, co zaproponował - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUtJUVBiVE16dFRIWDRZdmpFUllHM1FnVE42Q1NXYnJZM09yc0JxN1ZKaWFWLWx3WlBlTy12N3hYVUJBWk9jOUJieUl3VHNpZnFMa1cyd2tJd3Z5WWRBTUluM295MDhNdGVnaHM2M19rb0RHQUNkVXVzQUxRZ0hVVURlcEpMbklockhaMlc3S2pkVGtxOEHSAZQBQVVfeXFMUDk1TTdjTGRrNTRhUVZHZzBSTHFiVi0xYVdubzg5VFRZcHd3ZWswa3pLRDRzdHNKc2RHU1V0a0JHOGJUbG5RWnloRXNjYUZpTzNSWXJ3TmNTYnQ0QWhFREdWZ1lGYklMUExRSUk2R1RjSVhScHN2SkJ5UVZxMVlvbm9KWUxaYXdXYlFyZDJMdzVQQUlvVA?oc=5"
+      },
+      {
+        "title": "Trump ma swoją \"piękną\" ustawę. \"Kraj wkracza w nową złotą erę\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVU5U0s1VFFQMWxSZ1VJbi1kallXOUJhQWNZUldybWJ1ODBqQ2wyaW1YWFVXRzQ5MEZGY0dCcUVIQnBjbFdEd2VOUVF6WTZ3VEFnaWtySlFmWTZxSy11ZkNFUWVicGNwXzFRNGx1ZnBoSmw2SkhGZWpSYUUwU044bnVjazh6NzdQN1FmNVgwWVc2UXBuTXVTbDZudjh5QlFTcnozYnRxQTl1YnV3RHlIQVZ0NA?oc=5"
       }
     ]
   }
