@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-03 13:12:52",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.6137,
-      "EUR": 4.2634,
-      "GBP": 4.9376,
-      "CHF": 4.563,
-      "JPY": 0.025115,
-      "AUD": 2.3768,
-      "CAD": 2.6595,
-      "CNY": 0.5046
-    },
-    "crypto": {
-      "BITCOIN": 395698,
-      "DOGECOIN": 0.626877,
-      "ETHEREUM": 9352.62,
-      "LITECOIN": 329.1,
-      "RIPPLE": 8.29
-    },
-    "indices": {
-      "^WIG20": 2873.24,
-      "^WIG30": 3732.15,
-      "^WIG": 3732.15,
-      "^NCINDEX": 252.2
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki przedstawił najbliższych współpracowników. Znamy nazwiska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2tMNGxLVHJyeTBfWVAzcFFMTFZ6R0pHNXN3V0h3YWxVZ1oxbnE0OHpQVlF6eXhOVG0yNExoSFVQWUp1QmJhekppQjFXRkJHbnZ0elQ2aDJtNzdPd1QzNnR4eGxXOEl2TVdfVmRULTFXeV9kbmtjbmZXMzVPR0ppdlJEdE0tN1hULWFYSlZyNy03Z2Rha0pKSjM4cmI2eXhKb0E5MnkwZWFtbVlMdC1mam42Y0JzVUJ1RTB6WDlB?oc=5"
-      },
-      {
-        "title": "Sprawa lekcji religii. Jest decyzja Trybunału Konstytucyjnego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVdwOUo5UjR3U1BtRkxVN3R4di10RjAxR2NhRFpUWjViWmt0OVRicWdvQ1dJTWhLazB6MTdqaEROcnFweGRMWHVTNndFakJnYTlFYThzdGYxUU1VN1pVSll0NjBCN0daUDNiTVhkS1Bob2RLaUNlN253c3h4ZHdXWHlGejNYV0V1TF9JUFpUVVJGdHNhZW1GRmJXNGNFeWhTMUE?oc=5"
-      },
-      {
-        "title": "Wstrząsające wieści. Media: Diogo Jota zginął w wypadku - SportoweFakty",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenQyZGFYNzlpQTk4RXBQbkFNN2xHNzdGVDlqSWdBaDl4THV2YnJxUVpsNHZQWEVPNkd0S2I3Y041TURaNjF3Um1JR3dMaTM4MFpaM2NxREN6QW5SZFM1OVZmWm1weTNOQmVHRUtsMUlpTzl5NzZ6dXdtU3hiOHF3S1l1dUM0cHF2WFl2ZHl4Y1BqdGV0aEZtWg?oc=5"
-      },
-      {
-        "title": "To były kryjówki Tadeusza Dudy. Beskid Wyspowy to trudny teren do poszukiwań - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkV5SWtlQS1BZkFGcWU2MTFTeVFwak9peGdpUGNyM0dtRUI0UFlFLVpseUxYVlZ3Vkx1M1g0MnpkWXhOQjZ4Ym9hQkh4ZmRqbmFSQ0x6ak9Id1Qxanp0T2NDSWR3Ujc1dExNRzUwbFdUU3BkYUZfTHBndjdqeFNNc2hwWU1uWkhZQ3JNaXl6bjFkRG8xaDJ2enVZT0FDc1N6V045cTAtUUpDVDB1R2xwSGt2WQ?oc=5"
-      },
-      {
-        "title": "\"Obywatelskie patrole\" na granicy z Niemcami. Prokuratura reaguje - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUlkN3c1QzFtSWRVdkJEUU1LMC1OQ3p4V0sxSF9UNGVQaW9ySGlYak80UVZPQm5ETFQwN0x0YjRKellyNHlzMWNqeWlyRW5oWUNPcGRIVUFSc2pBSG1ONE00TU5NOTR4Uy1GVUhNRXN1b3puWWFhQ2JSSS1TRlBUcWlmdURtNlhfbnFQSUt2NXE4RE9SLVRiWXRwTFRibkJ2YXRVaE9Rd0tmNlZWZlM4?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-03 14:28:53",
     "weather": {
       "Warsaw": "Warsaw: +35°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wiatr zmieni kierunek. Turcję nawiedzi \"kopuła ciepła\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVlRT2pIY3F1Z1dIYUt5ZXI4eF9SOUVNMkFGUElDSUpCSWtmNkt6b1l4cEI2OFoxYU9sUFNJRkx3Z3kxUFRrRVRYRWlYNGk2eG8zRHZaX0t1M01mZnU3Z1EyZFMwQVYtbVFYOVR0SDUwQTJuVDhxbUhlYklINjRieEtQZHZDdUdmQS13a3pqTy0yVE5RSV9JMU1SNDdkTk55THpnSWZFdk8tdFI4bmplMjFlMzh0TkNmM01nVy1WMzAtdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-05 19:12:08",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +24°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 389350,
+      "DOGECOIN": 0.588193,
+      "ETHEREUM": 9025.52,
+      "LITECOIN": 311.2,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Głośno o wspólnym zdjęciu Danielle Collins i Igi Światek przed meczem - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNk93ZHpwOFNnWDRfQ2tSYVdmT2FIbjFicmYxMm1lT2VCZW1RbWtVQmthZ0FOYkFIMW9KeS1rSEpDby1iN01DbWNBZFpteWJ6UGZwM3RFcjUwcy04MG1wTE1iOTQ3LTFjNnkxb183elFGTHlEazBGMFFRb1RBbHFmSUJyM3hETGFFUkNnRXBSUUZFNFdxVzJUWWFrX0Fid01ib08xX0JZcHYtTEN1SmxsY1JuT2gtTlE1dE50akV1ZExyNTd1dXc?oc=5"
+      },
+      {
+        "title": "Nocne rozmowy Hołowni z PiS. Kosiniak-Kamysz z apelem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclRpVzQyLTZJOXRYRXNZMEJQR3VRRW1jdnRQMXgtRzBhUFlBYmxGSUZmTzFxZy1lMWNyQjBXQ0s0VnQ3aXdJTkRuTUJ2QzJROXY2OXRJekV0aU9sSXBTNGVCWVFIMFNQYWZNVVB5YURDaFJDRkVudGs4ZF9VV3pzWHBmRUt2SHdrWUN0N0xiS1NTbUZ4RW5fTVZtb0U2MHZZVVE2eQ?oc=5"
+      },
+      {
+        "title": "Irytacja wśród mieszkańców bloku w Ząbkach. Poszło o listy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcUZSaW1GNnVKV1dfS0R2SGp4aURBRmVsQ0FJRTFuV3E3eDc2bUVyMERraTlmY0I0djEzcUF5eU5nNUZhRjZGSlpkbGlaSmlsV25mVU1oMHJ6eWppTHQzS1R4NkFsRGVxbDZFMTdCN3F4VVBQWkRsVFk4ZWdpNDhsX0pSanV3ZUs3R0xGYjAyTEZPUWdfZ3JWWFJBX3pqbl9ESHRkX2k5ekphU0JEaV9fbDZMeFBxZWtaVjdfLWcwTVQ1bjVpV2lEcFZwcXUydw?oc=5"
+      },
+      {
+        "title": "Złote algi powróciły. Szef MON wysyła żołnierzy, jest zakaz korzystania z rzeki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0xoQUlMZU51Yk9leHlqTTA3ajZhcUhpNTJQd0dlb0ZFU2lxT2NjS285ZVJRRlJkZDA5SEsyQTl3anlUaC1TS01TZ0FBRDdNOS1feWNuSWxnNGlvTDY1Y1JKdl9VNUQwbjdmMllOd1JnQTQtUDhHZ2lHUlMtWExORC11cHFtbWVzWWtEQm0zb19qc1ItRnRVbnEyc2pRNmRuVHZxWTI0YW9CczQ?oc=5"
+      },
+      {
+        "title": "Pogrzeb w Starej Wsi. Rodzina prosi o \"uszanowanie żałoby\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQl9tWmRTSmJQOF9KSW9jMDNpbUFJN1hKZHN1ak5BckdOMklxYUJfa2ZTR0kzU19ZVGY2cFlfYmxTWlZ6SXB3WDl2N3FNcm4tLUdDN0pJMlVsSVdjSHJSa2djU2xobE02YkltRTFrX2lsU2k2WDcxWU1mM0JTV3pFUlYyVUlRbi1hZTRjQ2R2ZGl1Vm1uaV94cmotb0JyYTA?oc=5"
       }
     ]
   }
