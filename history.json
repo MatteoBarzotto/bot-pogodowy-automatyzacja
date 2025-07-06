@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-03 20:19:36",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +34°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6137,
-      "EUR": 4.2634,
-      "GBP": 4.9376,
-      "CHF": 4.563,
-      "JPY": 0.025115,
-      "AUD": 2.3768,
-      "CAD": 2.6595,
-      "CNY": 0.5046
-    },
-    "crypto": {
-      "BITCOIN": 394993,
-      "DOGECOIN": 0.617445,
-      "ETHEREUM": 9301.02,
-      "LITECOIN": 324.03,
-      "RIPPLE": 8.17
-    },
-    "indices": {
-      "^WIG20": 2887.17,
-      "^WIG30": 3750.42,
-      "^WIG": 3750.42,
-      "^NCINDEX": 252.59
-    },
-    "news": [
-      {
-        "title": "Koszmar Igi Świątek, a było już 4:1! Nie czekali do końca. Tak ją ocenili - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaElPc1BfdzQ5Qzd0RmpYbF9pUUlNV2cwSTR6WXA5d2JPcGRfQTJvdUFSRF9XU21Rd1d5SzlBbnlZNUpxeFlPc2U5c0hHN210UGJtaWFNdFo2bEVjMURiSVpvcmNPRWVMc3EwNmNUS0k5N04zWEpsVWVaM0huZGZ4OTdlR09FUGVoSjdWcVkwWThPcVl1LUltdm9qRzU0VTdJYXJ6R2EyNlhSQWlKeHB6Ylk4NUpUTFNGNXF3VnFEUGhKd2Jq?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki wybrał nowego szefa BBN. Sławomir Cenckiewicz ma zarzuty prokuratorskie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEQ2WS1xNmU5UEdvNXlreWlaSlhfOFhfSXg0enFNbkd0VFdocDVjZTdGMnBqNElEcUpybFFPN3JnTXBkWXhaQndqdUlQVWxmZDRvRm05bTVibmxuWkFOcDZSNC1OanF0ZG1kMTQwV1k1YnJaSUg0dkJ3cWtJZ3N6X2tvS0ZLUUFMWTJfOGdxX01UTHd3aVNUaGg3cFJJYm0tMndUVy1xUl9iY1VmSjlfcDdXWWUtYVdtVURiUElzQ1g?oc=5"
-      },
-      {
-        "title": "Wracają kontrole na granicach. Uwaga kierowcy! Będzie specjalna organizacja ruchu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEM0eTRDaFNHWmpqOVoyTHhvbHJNelM0WnJmRkdMTnJkdkM0U3Rsb0IxbXdWR3Vwc1p2SnlGNEdlUk5UQjV3ZVBlbjFpckh5Z0VwSTA5RjJnRW8xTVlYa3FPNGtIdzBWUmJ6OHh4bERkcXR6TERpR1k4ckpfdkQtampyODZiMVRXYjJjS1I0UDg3Rnd6bmw3Q3JFT1JvUnRRa3R5YkJ0anN6b0JtWTY0STJfd0NQUjVQSUpMZWttYXhNZGsz?oc=5"
-      },
-      {
-        "title": "Trump tnie dostawy broni do Ukrainy. Pentagon zabrał głos - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnl3eWd1RmhKX1l0bHhiazF1RFYzUDEzaTVpd3NIdzlmTFYtZ012ckFTVm9vOTBNc0UzMlNoNHVoYy1yNFBoekNpVVEwTTN3MTFXQ3NBbGY5Q2NTSE9Nd0lIQll2ZThfdFZXQlVCczhKSGY5NG5NNGYzYkQ4T2tFcmQySVpoRWlOVjh6WW5iS01hVFpFVUlSQ0swcDgtSGNONzVNMTFLMHB4NlJHTTdGYw?oc=5"
-      },
-      {
-        "title": "Giertych kontra Nawrocki. Przedstawia Hołowni nowy pomysł - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFBSZTN4WUtwejk4LV91a2Y3ckxaYlR4RU1tWkx1ZC1PYkQ1dk5fRDZlUi1kMzgyRHhrempKNmhkc1M1NWd1OFljQTh5TERnYVZGcU9WdDhLclp5Qmw5cnhMX1JsYmJQRzBHREhNZlk5cFF2cTlZTk9qd0ZhaktrcXBBZXAyRTd6cUFFVzRpY2hJZmI1MFHSAZcBQVVfeXFMT05MN3FnbkpVY21QWG9wS3Jzeko1ZFhsSzBwYXJVWk1hOWd4NklfLVRTdmtfcnItcVU0UE1rTEp3Y3lQNlBWUVRoUlpGRWlPRlY3cEF5SkpYcXdQWFBORHVzanZOekk3NHFjRUlHZWxSWHk1T0oxejhsYlpTcURBVGt6Y1lYRS0zZ01oTTdyQW0zVVBQQkhOdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-03 21:11:18",
     "weather": {
       "Warsaw": "Warsaw: +36°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Elon Musk zakłada swoją własną partię polityczną. \"Aby zwrócić wam wolność\" - Interia",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVF4MTM3RVk0dW8yUzNsYkFpZGt2dnNzTGQ2bTNpbXoteHVNX29tNVhNVXh2cTN4UF9leEFnYl9jWGdlM1BveGJyMjFnYS1yMFlwZEdkV25pbVlDTExmVEtzNDBTLUVNNDNGUTljeXZwb2NlX29Qc0lTNTNVTXo5VTE0UEdtMnN3dmFhUFBIeng0V2Frb1lQSWV0bUFvNGcxb1FWeGNZWHF0UjFUREsxTktkUUV0RFZjaFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-06 03:16:35",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 389878,
+      "DOGECOIN": 0.592317,
+      "ETHEREUM": 9073.19,
+      "LITECOIN": 314.5,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Nocne rozmowy Hołowni z PiS. Kosiniak-Kamysz z apelem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclRpVzQyLTZJOXRYRXNZMEJQR3VRRW1jdnRQMXgtRzBhUFlBYmxGSUZmTzFxZy1lMWNyQjBXQ0s0VnQ3aXdJTkRuTUJ2QzJROXY2OXRJekV0aU9sSXBTNGVCWVFIMFNQYWZNVVB5YURDaFJDRkVudGs4ZF9VV3pzWHBmRUt2SHdrWUN0N0xiS1NTbUZ4RW5fTVZtb0U2MHZZVVE2eQ?oc=5"
+      },
+      {
+        "title": "Katastrofalna powódź w Teksasie. Rośnie bilans ofiar - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXoxT2pXaGV5Uk5aSHJaRjRIN1pFZzVac2VNMWhObUZlUFVueFlnclUwUEN1S0gyS19yVGlzRDFabnY0YkJQcFhMdkh6c0hXNy13N1BHbzZ1SnRBOU11aWRGX19FLWFzOThsUUcwWVBoTXo1aFV2aU85RnJaTmRoN2pNZkdueTNIZ0c0d1lMcFZZcW9ERUhCV1JJNUJxemRnV0RSRzJSLUhWOEZDRmlTVUFvd1pKQU9hSkx3ZlZraGpNbVU?oc=5"
+      },
+      {
+        "title": "\"Klepsydry nie ma, bo... czym się tu chwalić?\". Oto miejsce pochówku Tadeusza Dudy. Znamy szczegóły - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHZEd05XTzhTWkJUb0ZaN0RpajdJdURDTngzRXI4S3g3TmJ1OC1TOVJwS2RncURidWhyUlJIVnN5TEUzOXVSeVJCWnF4eUlGQjRmYXp6RVl6QnhsMkdFNE1faEczN3NzbjNPc2o0TFVmRmpsbVR1NHR3Z2c0c3RndWN0ZVdIeDU5ZHZseHUwTW5rRkphcUMyNWItdkc5NzNzNVBhcFVuLWFJY1JiLXlBYmdWaFFVbTlmLVZGQjlWenNMbW9OR3V2aDJB?oc=5"
+      },
+      {
+        "title": "Pożar sali weselnej w Małopolsce. Goście ewakuowani z uroczystości - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWlLM1RVYlJvTHlFUTJVeHlFQ3BXVWg1OXo5V0dtaE83eV95MUJodXRfczRQcmR0YS1aSjhaWDBNd1preHlONUZuaV9iRllmR3BpLVk2bWV1NHBJdEtaYXJwSXpSU2E3dTc0dzZGUlZXOThlaklkOGdtZjNaODMybXJqODM3TDdoUXpsVGFhYUJUZHpFX01ER3lyVWRKNzdNdG1BWVUzX2M2NHUyZl9LOQ?oc=5"
+      },
+      {
+        "title": "Napięta atmosfera przed spalonym blokiem w Ząbkach - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVhYeklFX1JhZi1Xb3RFWE9GeHZLWUlkbWZzMkxLZFFYZnZWektJbWhqUzZxdG1BVEJFMXRXVXE1c2VXUWtSbE9SaEdaZ216LWhuYkVMLUxaSTdpYV84M3BlUWdrM01RenVWTjRMYi1WU1A5NEtPb2J6VUNOdXpfT1RDNE0tYnBONlVGYmxiWErSAY8BQVVfeXFMTUo4ZGJHcmk3ZDlWZlpGNERFTEFKdENjakhUUkE0NFJ6SWgtX3JsNVZ0RFRGNjhOZ0wtbnBjdVhETkZOOVlfUVFkQ0FMN1ZmeWFWMUtQZFRvUXYxZ3dDTHlXY0FWc2djS2MzV1EwdGY2bDg2UXk0UVlPZWh2anBIeDlpSDhjMUpkbnVrR21PeE0?oc=5"
       }
     ]
   }
