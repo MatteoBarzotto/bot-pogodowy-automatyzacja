@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-05 10:17:23",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6108,
-      "EUR": 4.2515,
-      "GBP": 4.9339,
-      "CHF": 4.551,
-      "JPY": 0.025015,
-      "AUD": 2.3681,
-      "CAD": 2.6568,
-      "CNY": 0.5039
-    },
-    "crypto": {
-      "BITCOIN": 389531,
-      "DOGECOIN": 0.593711,
-      "ETHEREUM": 9090.57,
-      "LITECOIN": 310.83,
-      "RIPPLE": 8.02
-    },
-    "indices": {
-      "^WIG20": 2864.98,
-      "^WIG30": 3722.85,
-      "^WIG": 3722.85,
-      "^NCINDEX": 253.01
-    },
-    "news": [
-      {
-        "title": "\"Upokarzające\". Komentują spotkanie Hołowni z Bielanem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkUyNzkyX0dHcUJxQjhOaFY2OE1Ya2VDWnRJZ2haMk85c0wxeWljMTlCMmRrMnVtOC1MNTNSVXBYYWRnUlJZOUJJckJJc25wQ2tMT1NDdWFHbGZ2UWRnMldFcHl5U041bnE3XzRqOEh1TkxQVnN3cmpUS0ZFbHBrdVZJOFNSTnUyRFh1ZWUxMERDbW5UeUlhNDB3?oc=5"
-      },
-      {
-        "title": "Pożar w Ząbkach pod lupą rządu. Policja szuka świadków i nie wyklucza żadnej wersji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ZORFhiVHFMRkUzUVVKaUEyVHRudnVkdGU2UkF1RVJJeks3cEhfeHJJR1VIYjdudlh1cTJfRmRsSzB1RXZlWE4wd0s2NlFiOFYxVl95RUk2WnpnOWRrTDA2eThYNFg3cWVOOUZ2cmxfc3BiTlI5V3FhYzUtbzBtcER2N2VhdWhxdzR5dmVqcERlbFdTdmtpQy1naHd6d3pfNXdjajRXblpFUmdS?oc=5"
-      },
-      {
-        "title": "Trump po rozmowie z Putinem. \"Jest zaniepokojony\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR05kbEdHTnEwc1NZY2ZYWFFkaUxSUTBrZlYxbTV1VklXeHVwZ0ZDUWxlb1BkVDU2c3V6SkNKSEx0MWl1RzNYcUctVGM2UUpHZGo4UjdvMHpmb0dXb0xFVFFWb2Z0REpqYUpicVlucndCWWpsakZ6V2JyWTg1NkdKSUh4dFFYa0VScFBGd0dCbmJaVnlYVS1xWjNZMmdsQQ?oc=5"
-      },
-      {
-        "title": "Koszmar rodziców w Teksasie. W powodzi zaginęło ponad 20 dzieci. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaFlSN0YwQzZ6YUV1NzUzMkJHaFRHVGtRcVZkSERiV3NxbVp5ZDYtS1A1LVR6Qm1heThYaVZ1VjIxV3RkVzJ3TXNNelhqWm9NbGNnNXFUQzFpSF9jYU9COFlaVXpIRlhRa1FkMHJvbE8xQy1uUFE4eGdzWFRnYWdlS211SnM4T0NtZzZaWXJpaE92cmFKMWtNcThIUW84ZVJuMUdJbk9Lb0FPX1R0ZTFTRUc0Z3VUWVZkZUplTWUzSmdCdw?oc=5"
-      },
-      {
-        "title": "Dziennikarze TVN Turbo oskarżeni o gwałt. Jest stanowisko ich prawników - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEhLTzY2RjlsZUhtYU1aTEFzRTBmd0d2XzFVNUNCaHkxQnZocVV5UlR6TDEtNWV4akNyajYyMWk0ZWIyUTl6R0VXX0VxbnFfb3YzZFhrd2lxa2kwYXZsUUxvS0RNdGVRdldLMXFnWFN5NG1QcWVUNGVPdHNsMks4Tkl5cUVUREtiamVXNkRlU0xfNlNGQ3Bjb2h3NC1jT3oxNm5WY2lGQ2ZSeXNoTFJZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-05 11:13:38",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Obrońcy granicy ukarani. Siemoniak: Dziesiątki mandatów - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmVpMnJwVDZaNEdGTUQtOC12RTBSRnpKMFFuYndJbE9pdkRIY1J6Rk5nZ1JGWlF5Q2t1a1NHY3VBN0g4UXRWRnRwUTE2aHlXUThSMHVmX0ZMS193VDF5aWJRa09ZeG56VlN4aWZNdmxUblo5NUdoRlpqenYzaWNnaGxVQlk0Z3RWazhERFlWWXRTeGRj?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-07 16:14:43",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6269,
+      "EUR": 4.2524,
+      "GBP": 4.9258,
+      "CHF": 4.55,
+      "JPY": 0.024956,
+      "AUD": 2.3543,
+      "CAD": 2.6509,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 392708,
+      "DOGECOIN": 0.615906,
+      "ETHEREUM": 9266.35,
+      "LITECOIN": 314.91,
+      "RIPPLE": 8.44
+    },
+    "indices": {
+      "^WIG20": 2863.73,
+      "^WIG30": 3721.92,
+      "^WIG": 3721.92,
+      "^NCINDEX": 251.11
+    },
+    "news": [
+      {
+        "title": "Alert RCB dla trzech województw. Ostrzeżenia przed gwałtownymi burzami i silnym wiatrem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ19pRk9tdzNUZG9iVC1tb21ENHRxX0Z3ZHQxLWZBbV9vVVljcFFDSTh3Yzk2VS1tQXFlelRmOGl0R0QwYlpVOWQ3WWJKSGJOYWt6Vm1BTFg1a1lzcGJWcDVkVEpycC1HZkZoTTMzVUtpVjA0SG8wVWlpM1c0SXR5UWNqS0I0Qm9nSHlKel81X2luWkl4ZEJ4SEVCcXlpOHh1RWF1NG9vTUFlU05HRm92Qi1wVjFBZEx6MlBfUHhkTUo?oc=5"
+      },
+      {
+        "title": "Od dziś kontrole na granicy z Niemcami. Oto, kogo zatrzymuje Straż Graniczna - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHdxQzQzbGstSG5DZzE2VmVVR2s1V0dRY3pqSzhvUXlnT01OWk05Q2ZnSGRpZlBNQmdBUUVMSkkwc1ZaaEhXRWQxQmswanR3cFdDLTBOYi1UdU1BTkVMY2RDaWxEcS1TZmdRLXY5TnZYUVV4OFhDY2kxQlliT1E4RURxS3BfSTF5dm1EaUMtbDhpTmc0eHpwUlBFT2Y1RmdjeHc3QXUzeEEtSG9KRXlQcXhmaU1sbzdQN1pyNHVjSnZpbXZiR3BOQzVlS1o?oc=5"
+      },
+      {
+        "title": "Kontrowersje po pogrzebie ofiar Tadeusza Dudy. Policja wyjaśnia - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnZwSkJSNDc3UlVTZGxja3J0Q2xJRDk0QUZXZEhpdF82allNeGFsRGd5ZC1sNHQ3dTI1QWVZRXNuRVN6RDJFU0xhZVhPVVBDc29mdVR0c3JIOFM2UXJLX3BMUWNVSHF6eG1lVnd5WXdQcFM5cC1LMWFhelJ1T3A3Y1F3SVdjVWRGX01ZcV9SeFQyem9mQXpQNWNvNWxaM21ZcmpVN0JrZFo?oc=5"
+      },
+      {
+        "title": "Brudna kampania przeciwko Nawrockiemu. Poseł PO i żona gangstera - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXhOWDd1NVpvc1hpd0Zpel9WZkZ4elVmS0I4WmVLR1hhWGowd0VkYjBRMjZnWHEwUmsxUDNvem9VQXVZT2hRWW96SzNDM2tJQjFuS0ZwVng1TThiQjVfRFdUN01PMW9SZTFydkdBU3VCQzByek5Iblk5cV9UbTN6YzFFNU4tU1ZRb3BVTnFvT2RMV2F2d3VORF9Kcms1WFhJdVHSAaABQVVfeXFMTUxnbmt2djJRbTBwaTRMWTBBdzBlYXc1RkdveUxja0VmR3hiSVFMZ19Obkwyc0N0WFBIencwM3U5WnhPM3RmMnloTmV1ekstamlQaXVZN1BZVnhDclhaSmVHZ1ZtRkZFM2Z4UlhoaDRXenhtMWpHdUVPMWN2NlN0X0VnUVJFR09rblBIdHFScDNxRDNNX0NLdndnMFRydWFnVQ?oc=5"
+      },
+      {
+        "title": "Hołownia o spotkaniu z liderem PiS. \"To był mój błąd\" - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR192Q2lUTC1WRWlNc0lNLTBVbWJlbl80RVdjRy1mdHo2T2R0OGM2SHc5MENhczlycjB0QXEzaTA5dDZYVXJyT2IzTlp2Qk1vdWd6NDd2Uk1oQnVNWllKcTZpVE5DNzZSMzFPdTJzYmR2c0tIenUtbTZCbDJfVnhxT2lYNEdOUmhwRVhwbzY4YWhteVJPWXlLMA?oc=5"
       }
     ]
   }
