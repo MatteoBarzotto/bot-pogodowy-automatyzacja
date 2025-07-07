@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-05 16:13:16",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +24°C"
-    },
-    "rates": {
-      "USD": 3.6108,
-      "EUR": 4.2515,
-      "GBP": 4.9339,
-      "CHF": 4.551,
-      "JPY": 0.025015,
-      "AUD": 2.3681,
-      "CAD": 2.6568,
-      "CNY": 0.5039
-    },
-    "crypto": {
-      "BITCOIN": 389707,
-      "DOGECOIN": 0.590245,
-      "ETHEREUM": 9061.3,
-      "LITECOIN": 311.83,
-      "RIPPLE": 8.01
-    },
-    "indices": {
-      "^WIG20": 2864.98,
-      "^WIG30": 3722.85,
-      "^WIG": 3722.85,
-      "^NCINDEX": 253.01
-    },
-    "news": [
-      {
-        "title": "Nocne rozmowy Hołowni z PiS. Kosiniak-Kamysz z apelem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclRpVzQyLTZJOXRYRXNZMEJQR3VRRW1jdnRQMXgtRzBhUFlBYmxGSUZmTzFxZy1lMWNyQjBXQ0s0VnQ3aXdJTkRuTUJ2QzJROXY2OXRJekV0aU9sSXBTNGVCWVFIMFNQYWZNVVB5YURDaFJDRkVudGs4ZF9VV3pzWHBmRUt2SHdrWUN0N0xiS1NTbUZ4RW5fTVZtb0U2MHZZVVE2eQ?oc=5"
-      },
-      {
-        "title": "Nowe informacje po pożarze w Ząbkach. Lokatorzy będą mogli wejść do mieszkań - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQnFLelg4cEZ6YUdaeFh3T1poR2ZWdlVVRHZqVTZ3Y2h4SDZJdTZzWDVlQU5CTDJvbUVweklTTEItbWw3eVVRV0pVNXdkY3ZPbVhHRnFaVzhDa0RHT0l1cU9Ic2otWlZmd2NhQVlwRHNsdFpRRW9FcGNnYkpLdTlTcGFkSmEtcHU5LVd4aWY3Qkp2QkNpZG1OVldOU3IxRnUxNm5LTzJON0pSa0tZR2RtdnZ2NDExRGljRnhTUExB?oc=5"
-      },
-      {
-        "title": "Chaos na granicy z Niemcami? Tesla domaga się przepustek dla Polaków - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQzFUeXduQ3dmYXpQY3BvODVUaS1iSjljRFJ3ZHl2eWZiY012b0sxbjhxcGl1SjljSG9FT1c4TFY1cnVTWjc3OHd5M3hGMDUwQXl4NGphUXJIYWtNZHF4TE5Gb1BaQTNXT3hBeDRySmFQZ3ZLZlZkel91ckx5Wml4Ynd2UHBRVFc1YVFkd2NyVDlvZWRBbkFWMmJXRDEwNEdfaXQ5dXpTSXdDZHU3QlR0cHpXY2JmVEVpbzdXdG1KWQ?oc=5"
-      },
-      {
-        "title": "Ewakuacja samolotu na Majorce. Są ranni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkZLbncwOFFzVk1DTXhXcktMYTcxYkxrZ1VJdmFXcUZ6MnBNaFFaS0lnZTdlZWZaR3A3RlQ3c3B0cFAxcXc4eFV6RDBseG4zem9aQ2x1NGdPNUhZNWFrM21uMUNpT3NoMnd5LXVCZHZmenhodEYyN05Kc0l1SkpMSmVadHZsenZWcl8tVVduN3g0T2hpUW5KWlhHVGcxeDJLZEJJ?oc=5"
-      },
-      {
-        "title": "Pogrzeb w Starej Wsi. Rodzina prosi o \"uszanowanie żałoby\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQl9tWmRTSmJQOF9KSW9jMDNpbUFJN1hKZHN1ak5BckdOMklxYUJfa2ZTR0kzU19ZVGY2cFlfYmxTWlZ6SXB3WDl2N3FNcm4tLUdDN0pJMlVsSVdjSHJSa2djU2xobE02YkltRTFrX2lsU2k2WDcxWU1mM0JTV3pFUlYyVUlRbi1hZTRjQ2R2ZGl1Vm1uaV94cmotb0JyYTA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-05 17:13:03",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tak Tusk może się odegrać na Hołowni? \"Zdejmie zakaz ze swoich ludzi\" - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbV9sRl9BRDFCOUdlTllGamU0MGpSRG14ZzY5bklXU3lZTHduWEpkY29fVC1WN0ZrMXNaYzhaRWFZRDZzaW1UZXVkNmpvaXdWMWVGSG1QTXJwZzNVbEFyTEhqYTRoTEpMNDVxQnkwY2tKcHVmSWVVclFPWUdITkJfNVdwS2VkS2p4Z1gwZGhLNTE5T1V4emRDWVQwVW1Ha2h1NWVNUUNRc1cxbVRkb3BRQjZqY9IBsgFBVV95cUxOazEwYVhKMFZLaEJtVkstZHFiQl9DaEdjei1HZTBtZTRxRERKUHpjREpxVFdQWUxUSEpVVEVHQ3V0Zm1aOEROLUpxVy0tdDFwaEV1RzRVM25pZDF0SUdwdlI0S0pyQ3c4UGMxR0tKdE1GbDc3eWhIUU5Yd0tXeUpHYlVpT0tMcXoxUHZXaU45M2RyYktOQ1JjekgyV2NQOUZ0WjVDRUxNN2QyZi1yZmJ0UmF3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-07 22:16:11",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6269,
+      "EUR": 4.2524,
+      "GBP": 4.9258,
+      "CHF": 4.55,
+      "JPY": 0.024956,
+      "AUD": 2.3543,
+      "CAD": 2.6509,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 391900,
+      "DOGECOIN": 0.606017,
+      "ETHEREUM": 9206.98,
+      "LITECOIN": 310.86,
+      "RIPPLE": 8.28
+    },
+    "indices": {
+      "^WIG20": 2861.78,
+      "^WIG30": 3721.14,
+      "^WIG": 3721.14,
+      "^NCINDEX": 252.09
+    },
+    "news": [
+      {
+        "title": "Wimbledon: Iga Świątek — Clara Tauson [RELACJA NA ŻYWO] - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSURTb0thZmJsOGx6RjhUTXRCeEVxcG1qUVpNcVNNVEQ0bWlQaHlXVHhneV9aLVpmcjFybnZYZmFDY2RiZ3pyWDhITkdpZnV6Y3FLYnBEQ1JRZWVDQWV2NXNNNU9RZENVYk4wbzNEYW5qdDJGcE5sRkxYNC16WVYtb2N2VzhQTThPYWUxN3ZnUnlrb1VFNlJyelU4UUVnYkVRcnVFa2lyMjZPV25vdmhJczZMeFA5Q0Q1VFE?oc=5"
+      },
+      {
+        "title": "Sprawa Hołowni: między naiwnością a normalnością. Czy Judasz pod osłoną nocy poszedł zdradzić Pana? - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MZXRhZlJHckZndmFkS0tjOFRlQkxEME5jQ2Nma2o5ZUFMRmFQMDVRMjNjWFgxSmZOd0Z5Z0thVzRGc29tc2d6X0ZrRDlIeFp6cFZmYldTWFA2cFBrcVctYlktNGpIakhHaHpEbTRpSjNPeWc?oc=5"
+      },
+      {
+        "title": "Podali, kogo kontrolują na granicy polsko-litewskiej - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakM0c3Y2U3VJLUlhdWJGQUtlQzN5WHdDOXkxQVNJTVl6RW1XT19EWlVUbkNVV1FIdkR4UDVOMjE2NjdwejB1TFRwb3ZjZHZJV1Q2Q1RQSnl2NExnRWs3ZURBMFhCUm5iM2toRHFyRnJNY2lDa19vXzBObHdpT2VDZU55NmRDUWFqVHo2LTl0SVUxc0NtV1hnZQ?oc=5"
+      },
+      {
+        "title": "Wielki pożar w Ząbkach. Jest nowy komunikat prokuratury - Interia",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnRFeUp3MXlnR05tQWFiOWFFaE9MUVQtXzRmSWFHbzh6aEFPNDc4X1VnT2ppSml6ZjQ0ZHlOZlhXODJFb2VBRTZ2TWlpYzl0YU4taEduSXJKblVVclphQWt2OXVTcFJLODhyT0NJQmEwNy1QNUQ5Z1lRNUVhcXppcG4xYW1HYk5iSHN3N3Q1TmFmTHdZNUxraXk5a0pjZXlVZlp6cW5ZWXRnczVwdXY2MlFiUDk?oc=5"
+      },
+      {
+        "title": "Niż genueński zbliża się do Polski. Ściana deszczu budzi zaniepokojenie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2ZLU0RKN1FCNjloakpvOWxBWnFDcmtfTUNqQjhqbFBrbzJxT0FzcU1oWW9UZU1YVnhkOTJRdG9pUGhlY0lmcEtzV3V3UWVSYlB2QzVSMjB0eEFJYW1IWE1pR0MwWFBnSDBwZWc5RklZelAtN0ktaWVrbmFOXzFCU214U2RlajFtTnJYRkVIYTNqUDNkUlVXRUM5ZENmMWd1R3BITF9PWE9oVW5mNlA3LU1qOA?oc=5"
       }
     ]
   }
