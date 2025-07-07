@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-04 22:15:06",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6108,
-      "EUR": 4.2515,
-      "GBP": 4.9339,
-      "CHF": 4.551,
-      "JPY": 0.025015,
-      "AUD": 2.3681,
-      "CAD": 2.6568,
-      "CNY": 0.5039
-    },
-    "crypto": {
-      "BITCOIN": 387466,
-      "DOGECOIN": 0.584694,
-      "ETHEREUM": 8958.26,
-      "LITECOIN": 311.61,
-      "RIPPLE": 7.98
-    },
-    "indices": {
-      "^WIG20": 2864.98,
-      "^WIG30": 3722.85,
-      "^WIG": 3722.85,
-      "^NCINDEX": 253.01
-    },
-    "news": [
-      {
-        "title": "Nocna wizyta Hołowni u Bielana. Przyszedł też polityk PSL - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXVySHBXeTBDRHNRUERvMGM5YnFnZlZld0ZfM1pSUzRJaExFZERsRFZPOEhrZTR1Z0RIdjhTY0xPZUx0ZUl5WXZzUHlsTGJRV0FjRVg0VUdmODJ0N1NYSTRyd1BOemktbHNpcVRsZGZEZm5nemRGQnpLSm02TndoWnNNd0l6TWpRV0oxbW5XUjN2MDM3VVBOVldxdkQ2bTQ?oc=5"
-      },
-      {
-        "title": "Ogromny pożar Ząbkach. Jest apel o pilny przegląd poddaszy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2lodEpENG5NTHEyRTlXdmk4NDVmc3lnTkJZSjk1UXB2QnR0RTVOT1I3NFVNNEoxOTYwQXpOUEFwNjd0MWVrLXJrS0Jxa1gwX3VHY0M4NFpIQmxnMGdVbVctMDdzcWFWMktIM3VhTkw2NzdsWjZvbk9SLTdJcVN1Vk5LeXJ2amUyTkcyTjd0aTYtNHVIXzdMZzhSbXVyWTZkeENvZ1lPQnplWFd6Ul9hUzJn?oc=5"
-      },
-      {
-        "title": "Trwa spotkanie liderów koalicji. Znamy propozycję Donalda Tuska - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVpMY2ZpTWhRS2xpM1RlSUhxWmh6TFFLWWRFN09Id19XT05Cd3UzZVdIc3ZCTllwdEx3WWE5YkJJRHJSZENIUWJVem55Vkc0bnNQTE1OTmkwdFp2U2VTbndvZHpqRDR5WWI4RmZBNEtMai05S0ZyMFNHNDYySUIyc2RiampyNDRnOGxHaHdaMFd3djA0a3l0dmNqU2xxZG45R0dXZjNqX0tzRW9NeUxBTkJveDNKNFhPT0VmZ2pCcUtabEU?oc=5"
-      },
-      {
-        "title": "\"Bezczelni i chamscy\". Duda na granicy przeprosił za \"przykrości\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTElGS2NXa2h2Tlk1NE9wR3hXWEdxdG1mYWZ1N1IwV1VXcFd4a3Z6NDRwOWZpMkhpRUlPdkFIc2JHdXlpQm1GLWwzZ3NCb0lxQ1pvM0VGUWxNWXVTN3otZHFNNGE0NHZ2R05vRGwzRVF5YnFjVmtiYVJwRjN1eENydjVlMHNJNzF5TmRZN3NvTlp4MWhNbUw5dWlLNjJtUm9EWVF4T3lB?oc=5"
-      },
-      {
-        "title": "Ciągnik z kierowcą wpadł do Dunajca. Trwa akcja ratunkowa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnJzQWFBcWN0a0VBUUR2SUFMQ0hMd3lVcVp1RGFTQjVPM0FqcU82SnpPOU1GdXFhN0drOHJxTWIwNVBEQTNwSFFNQ2Jjb08tVEk3VktRMXllam5sc2RxRVlkX3IxYUdzc1dPVkZDendka3FLUk5IZ3NyUGxDRi1ERzNUWWUtM08tenlyNTJWRmZSTnQ5WXJoc2M3bVN4R3pveWF3VUtGbWRqTmRfdFpyYXNyTzlTZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-04 23:13:37",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Poseł Polski 2050 zawieszony. Wcześniej skrytykował Szymona Hołownię - Onet",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkZPeENBa0hGRm5BYXlMLVNiVVFqMkxXWlhHUlliRWlNRE9saURDcWJxTHhObFVMM2hPU2dJMTZsRzJ4ZXlQYVhBMjVTSUxDc2RqaC12Wm1LckFDZkd4UjZJaXdDajMwcjFHRVAzeFlxOTVnbk0xZU5hQjNrenc4TkpSRk1BM2MwcGtSSHdRaW9DN0MyWXRVa2VrYk8tRlBJTDVNV1AzRHFCNFM1ZzdMNkFXMkIxOGljQ25MTjdDU3pkUlkwei1GUU1B?oc=5"
+      },
+      {
+        "title": "Tragedia nad jeziorem Charzykowskim. Strażacy wydobyli ciało z wody - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM25SQURPeThSSng2dENkUG9Sc3NWcWFKckIteTJRVFNvR25jQmh0WnhkbjhJcDJILWE4M2JWTjlxRzRPLWg3MUlrTVBERWhnZ3ltM2lNbGVnZVhwLTVPTnU2UHRTTTBwZ0V0Vmt3cHBFdk5RNmF4UTFVUGxkNlA5bEplbno0UlpZdEI0TGVjaU5MUGQ3N3FGWFdOOE5wQ2lJZW50VnJiN3FIQzlCZTlYbEM5aw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-07 06:29:18",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 394075,
+      "DOGECOIN": 0.629985,
+      "ETHEREUM": 9287.34,
+      "LITECOIN": 315.91,
+      "RIPPLE": 8.17
+    },
+    "indices": {
+      "^WIG20": 2864.98,
+      "^WIG30": 3722.85,
+      "^WIG": 3722.85,
+      "^NCINDEX": 253.01
+    },
+    "news": [
+      {
+        "title": "Incydenty i brutalna policja na spotkaniu z Kaczyńskim na polsko-niemieckiej granicy w Rosówku - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlVKNzJlVEhzbm9qZkhEb0NRdUZVdVVxdTJpMklSVTlvNXRfRENMalROSXJRaktJWGVuTzFrczV1TlFGcXFqUnVMY1RxT0d6X1JlYXRDX0plNFRUZk9nc0VLeUwwMlc5VlQzOVhyQlVtemVId1g0NGpXcG4tQVFwdVFzT0ItTHhaeDVFRU1oUWtyRjU0NnBlbUtSd3c4cmUySjFxX0lqS01rVk1WeWlLQ05PODdodl9SVVUxOXRCTnNKZw?oc=5"
+      },
+      {
+        "title": "Poseł Polski 2050 zawieszony. Wcześniej skrytykował Szymona Hołownię - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkZPeENBa0hGRm5BYXlMLVNiVVFqMkxXWlhHUlliRWlNRE9saURDcWJxTHhObFVMM2hPU2dJMTZsRzJ4ZXlQYVhBMjVTSUxDc2RqaC12Wm1LckFDZkd4UjZJaXdDajMwcjFHRVAzeFlxOTVnbk0xZU5hQjNrenc4TkpSRk1BM2MwcGtSSHdRaW9DN0MyWXRVa2VrYk8tRlBJTDVNV1AzRHFCNFM1ZzdMNkFXMkIxOGljQ25MTjdDU3pkUlkwei1GUU1B?oc=5"
+      },
+      {
+        "title": "Kinga Duda wzięła ślub. Kancelaria prezydenta wydała oświadczenie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUVdXdkhiaHZha3dpR2JWWS1TSG5zdzlRLUxRS2FQNGJLT2VRay1oeTAyblBIWVB1YjlJV3hJbHhGc3YzSG16LVA0bEwwT3dOM0ZBcm5SOU9pUnZqa1NWNlhJYVB0Vjg3UFlZM3o0eThIeUstT09rX1VuT21ld0dGN2VEN2lPLUtObWlITWdlNTRJZTBNQkhSd1gybGV5M0N1Skw0TF9waEp2dw?oc=5"
+      },
+      {
+        "title": "Donald Trump ostro o pomyśle Elona Muska. \"Stał się prawdziwą katastrofą\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0txZTVKN2NUTkl5bXRBZFU2ZmdGMnZMTGtkWTRHdTdNbzJwZTZiZ1UxOGk5N1JEdWZKSUVRQ28tMGxYdzNENGNjMlk1dzJzWmhHUlEyXzgyRllhQ3Z2aktnSDhiQ1FCcjY3blBtR1hlN0VSYUdwSzVvellCTDczSGt1LUpxMVU5RnhuRGRxTjNJZzBKNzhzcEZNYy1NeUd2T0RIVlRSanNMSEFVX0xfNDZfT0JibURaSTlvNXYyNW5rcUVQYjN2dDNPdElrUQ?oc=5"
       },
       {
         "title": "Tragedia nad jeziorem Charzykowskim. Strażacy wydobyli ciało z wody - o2.pl",
