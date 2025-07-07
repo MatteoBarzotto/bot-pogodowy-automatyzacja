@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-05 03:07:07",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6108,
-      "EUR": 4.2515,
-      "GBP": 4.9339,
-      "CHF": 4.551,
-      "JPY": 0.025015,
-      "AUD": 2.3681,
-      "CAD": 2.6568,
-      "CNY": 0.5039
-    },
-    "crypto": {
-      "BITCOIN": 389769,
-      "DOGECOIN": 0.588878,
-      "ETHEREUM": 9065.37,
-      "LITECOIN": 312.57,
-      "RIPPLE": 8.01
-    },
-    "indices": {
-      "^WIG20": 2864.98,
-      "^WIG30": 3722.85,
-      "^WIG": 3722.85,
-      "^NCINDEX": 253.01
-    },
-    "news": [
-      {
-        "title": "Pożar w Ząbkach pod lupą rządu. Policja szuka świadków i nie wyklucza żadnej wersji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ZORFhiVHFMRkUzUVVKaUEyVHRudnVkdGU2UkF1RVJJeks3cEhfeHJJR1VIYjdudlh1cTJfRmRsSzB1RXZlWE4wd0s2NlFiOFYxVl95RUk2WnpnOWRrTDA2eThYNFg3cWVOOUZ2cmxfc3BiTlI5V3FhYzUtbzBtcER2N2VhdWhxdzR5dmVqcERlbFdTdmtpQy1naHd6d3pfNXdjajRXblpFUmdS?oc=5"
-      },
-      {
-        "title": "Bielan o spotkaniu z Hołownią. \"Z całą pewnością nie było tajne\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjU3X0tDeEtzYXpwZFZHUVJpd3NNRnNfZWMzVGtFZlZHRXo0VUp4bnlFdUpyU015cWZhTURyN3IwMlhqQXpjYjQwRlFuLWQ4dnBZbE5fTnJUUlZqdHh6dEVva0JLMG5EOFRIU2xfSVMtWUw5cGcxOFg5MkNNdEsxTVBDSkM3enFmcmpMSG9CRVpkMVBrWHowcmFaaU54ODFkajVlZk4yYw?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia u Adama Bielana. Znów jest „zdrajcą” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUJteEpWTVU3NDVBdDdtWXp1bklWSG5mUHZsa0dwVkRrTVhOYzVFZUwzcWxMNzllb3ZFNTQtSlVyTE5BMUM0c3FIYU5SSWduWS1UdTdxeWdzWVBfUS1DUmNNeGNacVhMMl9ZVnVwbUZXX3ZjSHZtY2EtXzZRM0JMaEdpdm5paUtCMUJHTnAtUEowbFAtXzB4X2FSNHgwNUZ1YktQZ2ZoM3cydFFGREZYX205THptd2tYSmZZLXplLUc?oc=5"
-      },
-      {
-        "title": "Prezydent Andrzej Duda na granicy. Przeprosił żołnierzy i funkcjonariuszy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWElTcnYtYU9JcGtseUV1bXdtRmhjNE54eEJqMGRIbmJUTmFXWWt5eXhJMXZGTXJRZ1lFTGg2YS1CcWR3Q1c4dVo3bS1OajlzT0RWRlVNeTU2NGFvRWppenlkdUl5RTZZdGVaMHdEVTF2U190UG5Sa1RDcmhWRHhrQ3lsZ256cUkyMDhWZTBKUGdzRF8zc2wyMW1oR0hhNnN0Vm9qbUVybmZqQTQ?oc=5"
-      },
-      {
-        "title": "Trzaskowski przyłapany nad morzem. Tak odbija sobie wyborczą porażkę. W doborowym towarzystwie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUllWRDF2eHRZWHNheEVuYl9kb0xLWW5GWmNOcVphMEJvN1FBZWUyVUNhQ1pNd25oR1JmdnNHdXRZeTFGWk1pbFBUUy1uT21MOEVSWDBpejBqUHBtbVpYNjg1YUN2dzI5TzZkR2NEZ0tNYnRzdXg0dG9OaExBMi13R3hmNHVaUzVLendYelhOSGI2Y0gzdHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-05 05:10:04",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Po upalnym dniu niespokojna noc. Ostrzeżenia dla części kraju - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3AwTzJzcllUd3VHc3FmTlFsUjNiNU9IenNkazh0SXV2cV9aQmtETlh6Vjk3eHJ2LVA5ZFg5cV9OLWZNLTFQN1VSZ0RfVzQzVFgyclBWRXpqZEJSN1B5ME02MlJUTnhWV0lMN2s0WlZzTHYzT1ZxY2xFX3JkcWJBNHVONUZka0N2Yko5dWxHNUYwc2dlYWtkTjNscGRyZG9pTjRZaDUwdXFLczh2Z3pUVXE2bTZxSjl6aDlGSmJrQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-07 10:21:00",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6108,
+      "EUR": 4.2515,
+      "GBP": 4.9339,
+      "CHF": 4.551,
+      "JPY": 0.025015,
+      "AUD": 2.3681,
+      "CAD": 2.6568,
+      "CNY": 0.5039
+    },
+    "crypto": {
+      "BITCOIN": 394325,
+      "DOGECOIN": 0.624734,
+      "ETHEREUM": 9314.69,
+      "LITECOIN": 317.96,
+      "RIPPLE": 8.22
+    },
+    "indices": {
+      "^WIG20": 2855.35,
+      "^WIG30": 3710.52,
+      "^WIG": 3710.52,
+      "^NCINDEX": 252.44
+    },
+    "news": [
+      {
+        "title": "Polska 2050 zawiesza Tomasza Zimocha. Poseł pisał o spotkaniu Hołowni z Kaczyńskim - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjZfbi16RGhsbUJfZF9qZnJvSmc4RHl3d0RtVl9MVlVaRzU0SUFsY21TeTJHQ216NHFoYk0weERSNUw0cDRlczFzQkJUbElQSV9uWU9hNk9Da1BTTjJWMS1KWFF0LWNVWDYtQldyekVyRFAwWDhiYVZIMElMdnVmRUNQY0l1ZEVUWHdHV0E1VEFCMEpxN3RKV21aYV9PNy1jcHlySVlRb0VDaFlMeVpWS2oxUkduQ1Z5Uk15aXlucHN6V19pcHJF?oc=5"
+      },
+      {
+        "title": "Ślub Kingi Dudy w Pałacu Prezydenckim. Kancelaria Prezydenta zabrała głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1RzVHBNOEI4WXFpbTgtc2hNNXBfSDgxMkducHFFVHhwVk9DRDVFNEtpQ3lQWDgzeUVieUpEMExLMjZwNGEzVUpzN1c3bEhDNVhaYlJQam9GNGhDQzUwSEdZaU1SNjhHOXZxcldVSDFuU3c1U0tEV3ZmczgybVU2VkZCU2g4LWlnTV9wRVU5dTVEZ1NpeHN0UWZ5RnljRkxyVXZnNk1kN3R3RFdORmowQVNLRGdWa3NqWVlYMnhhUlNscTlBM0tnbjlaTms?oc=5"
+      },
+      {
+        "title": "Od północy ruszyły kontrole na granicy z Niemcami. Te pojazdy przykują uwagę Straży Granicznej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHdxQzQzbGstSG5DZzE2VmVVR2s1V0dRY3pqSzhvUXlnT01OWk05Q2ZnSGRpZlBNQmdBUUVMSkkwc1ZaaEhXRWQxQmswanR3cFdDLTBOYi1UdU1BTkVMY2RDaWxEcS1TZmdRLXY5TnZYUVV4OFhDY2kxQlliT1E4RURxS3BfSTF5dm1EaUMtbDhpTmc0eHpwUlBFT2Y1RmdjeHc3QXUzeEEtSG9KRXlQcXhmaU1sbzdQN1pyNHVjSnZpbXZiR3BOQzVlS1o?oc=5"
+      },
+      {
+        "title": "Afera po pogrzebie Justyny i Zbyszka w Limanowej. To stało się przed cmentarzem. Gromy na policję - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTNFRjAwUGlzREF5VTZvNk9mSkNma2Z6VElVZ3JLSDA2VG1PODJuMkFBaFctSkhDMngxdjRsaVI2NnBJMng2a0YxRXA2UjNRUVJGMlZ3MnRNU2NwRmlQRjVBenAwaU53UFU1d2ZZUmpnMm1HVVRiM0xVdG96NjZBZVVjNl8yU2xlRjU4Njg3RGJpLVM1b3VISWZSMThON1dVMGpKM2d5bGVya1MzWWxubjJablZLd241azl5Q3pKM0I5TEVwaXQyTmEwZw?oc=5"
+      },
+      {
+        "title": "Trump o Musku: \"Wypada z torów\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OU3gydDYyeVR6N1JiTlJNRFhkOTZla2l5Nm9YYTZLMW1SRUg5N29sYTQyMGc5NVVBcmJTVFpFYlpkRkpNMGotbC1ma1NHeFFiQk1TY2RILWI4SmpyWGRfdDBkOGdLbm9FUmZHc3B1Yi0wWTJqdXliRHFpOA?oc=5"
       }
     ]
   }
