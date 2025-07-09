@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-06 21:11:09",
-    "weather": {
-      "Warsaw": "Warsaw: +31°C",
-      "Kraków": "Krakow: +31°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6108,
-      "EUR": 4.2515,
-      "GBP": 4.9339,
-      "CHF": 4.551,
-      "JPY": 0.025015,
-      "AUD": 2.3681,
-      "CAD": 2.6568,
-      "CNY": 0.5039
-    },
-    "crypto": {
-      "BITCOIN": 391202,
-      "DOGECOIN": 0.608554,
-      "ETHEREUM": 9137.69,
-      "LITECOIN": 315.12,
-      "RIPPLE": 8.12
-    },
-    "indices": {
-      "^WIG20": 2864.98,
-      "^WIG30": 3722.85,
-      "^WIG": 3722.85,
-      "^NCINDEX": 253.01
-    },
-    "news": [
-      {
-        "title": "Prezes Kaczyński zdradził, czego dotyczyła rozmowa z Szymonem Hołownią. \"Trzeba Polskę ratować\" - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1BfdDIyWXFLY0kzbEFTS1FZenU0MWtiZ1cwRmpLdEt2bU9FZDVyTmxMc1M3QlY4VjA5MUZqWWVCSGwtMTNXd0o2am1VYUVSaF9SdXE3ZWlYa2VfR0RiVVVzRmVyUzhRYk9jclNKOEVHenV1QjlSYnV6U0FOU1lWZWxyQ3F0Y1ZDUXRBcVdGOHdNV2d0TWtiU2V5UGVQcVVScWFpYjdPanAzbmlnY1JlTVZiRQ?oc=5"
-      },
-      {
-        "title": "Incydenty i brutalna policja na spotkaniu z Kaczyńskim na polsko-niemieckiej granicy w Rosówku - Szczecin Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlVKNzJlVEhzbm9qZkhEb0NRdUZVdVVxdTJpMklSVTlvNXRfRENMalROSXJRaktJWGVuTzFrczV1TlFGcXFqUnVMY1RxT0d6X1JlYXRDX0plNFRUZk9nc0VLeUwwMlc5VlQzOVhyQlVtemVId1g0NGpXcG4tQVFwdVFzT0ItTHhaeDVFRU1oUWtyRjU0NnBlbUtSd3c4cmUySjFxX0lqS01rVk1WeWlLQ05PODdodl9SVVUxOXRCTnNKZw?oc=5"
-      },
-      {
-        "title": "Płonie hala magazynowa w Kędzierzynie-Koźlu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEk3LWF1RGpLR192Y3Iyc0FXSVI2dlJRV3oweEp2OFlWbi1JcW5wUjJZcVBlb0lkTDFpSTNDWC1vd3pKYWoxYUt3bk5lRWYzeTNEMk1HeWhLQVhJak9aVlhiQ2xMNVpURXVTUlVqQ1ItcjJjSHFCUDJfLVo0T3pLMHhCR0FFeVI4MGt2MjZHc2RHODQ0LVR2VHRPSDJVcmIweGJr?oc=5"
-      },
-      {
-        "title": "Kancelaria Prezydenta zabiera głos. Chodzi o ślub Kingi Dudy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjdieDFBdFJhZkJFOW90dWUtMkZyWGhxOGRDdkdlb3NHWktzTjJZRGR2OEZJdXBhQlVqMlJ3NFpjRC05cG9FZzdEU1ltY0p2aC1HTk9hMVdadXBOV1c1NFNEdWxPY2dmUDdaUEFBaXY2ekM0Y2N0TWVtUUdocVB0NF9NMklpMUdZN0hTdkdRUmZXbExuOE1KZlFDVFg?oc=5"
-      },
-      {
-        "title": "Pozwolili im wejść na chwilę. Mówią, co zastali po pożarze w Ząbkach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUZ5RFpaZnhfWlRJaFlYOWM2RnFpRFJ0U1hEbm5MQmpNVzU3Z0xfYU9waUVScUhqSU8xNGpIVzFySjNBVG5UOWhZWU9YV014OU8zWVNxZWVVN215MWNvc2ZlUXJUbDNXX0puSlNZcTZuREhYaE9sM19kZF94TTcwR2NVSTQtOElBUnkzVVlOQTZSNnFIUEFIVlZOUVNUMUc1eXNv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-06 22:14:55",
     "weather": {
       "Warsaw": "Warsaw: +31°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Zawrócenia na granicy Niemiec i rekordowy czerwiec. Mamy najnowsze dane Policji Federalnej - Interia",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0d1WmNCRWtqRk81RjdYTjV0SU5JNk1DOFM2aEZEdkY5QUNlakVFUGJNUHdqZjBhTVY5ei1icXVTUjQ1Nm9Ca2lUME50cmZMOFZPMnhxMWNQRkI2elRMcVBPSXpNSldOZ0lrclFBN0xVRXd4ck9ILWdBZUdsTE1vNVpQR1dzX2xBMU9jcmhRYThjSDdzdnV4ZkZaVWRhSzVDQ1BUUFN6VFR0Z0VOOU9tUzVHcw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-09 05:18:02",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6135,
+      "EUR": 4.2455,
+      "GBP": 4.9189,
+      "CHF": 4.537,
+      "JPY": 0.024717,
+      "AUD": 2.3637,
+      "CAD": 2.6481,
+      "CNY": 0.5037
+    },
+    "crypto": {
+      "BITCOIN": 393500,
+      "DOGECOIN": 0.620971,
+      "ETHEREUM": 9418.84,
+      "LITECOIN": 317.81,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 2889.54,
+      "^WIG30": 3745.5,
+      "^WIG": 3745.5,
+      "^NCINDEX": 250.45
+    },
+    "news": [
+      {
+        "title": "\"Wyjaśnienia i deklarację Hołowni potraktowałem poważnie\". Tusk po spotkaniu liderów koalicji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUtUbERRV1JHTS1LSjhlNE92QkpEb09RbnFZLVJsZkh1TGFLS0podC1UQ3VUSk5KOG5sQWpFVmNINGwteEstWUNiX05ybERKT1YtMXlwcjFmcWpMaHRYTXpReVFJYkt5b2tzWE9iVWRhRnRVM1RXMThJTkJmdFgzZWF1bWI1TXRtR1hlYkJ3RjBHUko4WWotWUtXYWp6Y0U0eDRoTU4td0F3LThpUHAyUjRBNHMtWnBtSnJxaUVWUm9hNUJlLUR0OG1Kam9ZeXhmcEY0aQ?oc=5"
+      },
+      {
+        "title": "Odprawa w RCB. Alerty dla 10 województw i 2200 interwencji służb - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGl3QlFUZkxUWlJfNm43UHVaWXRZSjhpQlBlOHpSUzNBRTVlejdvYm5iNjZ0SThEQURTXzNLNnFRV0ZMOGo4SmJsdXllUnVCSmJuUnNlNzlMQlljY3J1b21ZTVFidWkzM2VnS3NqaU5qS3NtUV9Kd19yV09yV0FLMjQzVjd5LWRmbUtOTXNEUnp2VmlqUFYzbjBUUnVrWkFWNVBFWFFsRDQzMi0zSkx2Tw?oc=5"
+      },
+      {
+        "title": "Pogoda. Alarm w kolejnym regionie. Starosta powołała pogotowie przeciwpowodziowe - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR25heGk0OGl0RUNIMUdWVGpKNmdOdEp2TDNGV2F3NnRjQWNUTFJpbVo2ZE9pYy1CQW5OcnpGZnZiRlZ6WkpkcE9IMkI2T1NKNjZLTFZnN2dCa0lFYmxCdDlkM2RDZG82QWo0Mng1ZE5Uc29nNHVmUm1zS0F1Z3VYcEV5NEZkelN1MTlhSkF3STM2eHpxM2tEYy1RVV8wbzZoODlSYlpKYlpYakE3WlJqODl1OUpjajRIQV9j?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia traci posłankę. Złożyła rezygnację z członkostwa w partii - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZldtMlNudS1qeGR1N1FkSTUwU1lnRjRGN3NzRHFVcHF4ekZ5SzBMVHVPZ1E5YnBVakFxVkNNQU9zVEFDTlQwaERSRTBvMUdud1AyWkNQdElITVBvSWNUcXY1cEFaWE9HbEpTQ3A4LUNTWjBPUTFPYXBZdVB6Y1hxczl6cW5OLVRHSGJLRVRzUkxEbXNDNUFjSnFMX3pEbWpjSW52V0hBUEhkRTlTWEx6V1RfSXpFUGQzMGc?oc=5"
+      },
+      {
+        "title": "Jest nowy prezes Wód Polskich. Minister ogłosił nazwisko - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORW8tMEVPQkJGUEp6aFlaR28tQlAwMlZjb0NEYWJRd3VKblJhNThkVnZhVW5FWmNXRzN1d04zWnNOZ3J6UUlXbDdhX0ktS3lER05STmU4dnVRMnFsWDRtYy1iZkdyLWRXTXJZRVBPODlON1A4QlZhVl9kV013T0dYX25VeE40VFpNNUFZUWY4RFhKOWhhTVE3UDJaS1QtRHd4cUJxOTZHc2dldF9OV3JB?oc=5"
       }
     ]
   }
