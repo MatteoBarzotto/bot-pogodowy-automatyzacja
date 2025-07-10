@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-07 20:19:56",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6269,
-      "EUR": 4.2524,
-      "GBP": 4.9258,
-      "CHF": 4.55,
-      "JPY": 0.024956,
-      "AUD": 2.3543,
-      "CAD": 2.6509,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 392171,
-      "DOGECOIN": 0.607179,
-      "ETHEREUM": 9191.53,
-      "LITECOIN": 310.46,
-      "RIPPLE": 8.37
-    },
-    "indices": {
-      "^WIG20": 2861.78,
-      "^WIG30": 3721.14,
-      "^WIG": 3721.14,
-      "^NCINDEX": 252.09
-    },
-    "news": [
-      {
-        "title": "Szymon Hołownia chce \"rozwiać wszystkie wątpliwości\". Mówi o spotkaniu z Jarosławem Kaczyńskim - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1o2RTZWZWNFYVYwWGlrRy02b01uSkdxaDM2X3BnRVlGTmlXNnZSb29zYkN1dC1vcjlfWXVLM0M3UTlNTEdCbHU3LVBibWZldkh6RUlpY2RSeDlraTFOZlFkejNsZ0RvYnEtU1VPajUzN081YWtUTU5pUWF4NWRwZ25NTVNTU283YTk2WkFZUXBXb2d4U3F6OHJCd3M2NXZxcUE?oc=5"
-      },
-      {
-        "title": "Zaprzysiężenie Karola Nawrockiego. Szymon Hołownia zdecydował - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdGF4aVo0M1F0cXVwakhtUkdsd0xRa0I4a0VYNWlZd21HakdMYVNxZ3Vid1M4OTlzRDVfWUVTaEYtdjFReHBqUk5XYlJaNUhrZXY5Y3dHdUVNRDgzejA1eU5wZXFIVmZZNTRGV3N0ZVVTUktFT0pCM1R4c0M3VjdfZmhhdkstVUd3TDJFZHppYU02a1N3akwwcEtmM3FBZnVzUi1FRUdBWW9pZU1WZ3c3QTcyUGNNSWdYN1E3QmVPMFppbHVSN00wOHB3?oc=5"
-      },
-      {
-        "title": "Kinga Duda zarabia więcej niż prezydent? Córka Andrzeja Dudy na fali sukcesów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0ZzUXlpNTg5cjFXNzBXd3pRR2cwTldoWUg1YUdWWGRiaV9MZ0Y1aVk5VGZnZmlnazdDSzJIa0owMjBUdmV4Wnc1eElMcW9ndTJqQjlGaE9TSTU3YUJmUTFPWEFQWVhkRnljejctV0V0UVZKOUx2Z3owN2gyZlR0U1pyeGhFYnZ4SXpqTWxMWkNNeVcxd29aY2lRQWpma3hLa055dlNKc0ZoY1F4SXU4b0xUZUhOZ0RoMHhlZ095QkJoNWxBMTBKaHpqU3A?oc=5"
-      },
-      {
-        "title": "Grozi nam kolejna powódź? Nowe ostrzeżenia pogodowe - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0I0WWNPZWVpdHZxN3I3QzV3MW9IZjl2VXlVYXkxRERpallxQ2NBZDBLN0EwWWwxSUs5cGNfVUpnUXR3NklRR0pJeGpLNU44WVl3MFROWjJ4Wkc2OWpDdmVPRkdqSllSRlRlRFE4b0g5MVZWenlBSnd1QjNtOTZtU3NIRzFRUlVCQW1GU2wweWRZTzVZdUl5Mg?oc=5"
-      },
-      {
-        "title": "Burmistrz Zgorzelca krytykuje kontrole. \"Chciałbym dożyć czasów, by migranci uciekali z Niemiec do Polski\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGVhbjhuRW85RC1CUFYxWXV6bWVoblBYOHZQTHk0bXhqMFF6dXI4YjNRazVHMU9UR1dVc2dhc1piaGRmdTNub2l0Sng3ZzRTUS1pdTdnNG4zQWpCRE5aaURXRG1ZV1hzV3hLUHM4U0ZoazMzSlBvUDdDcUFFMzUySkNrTEtlcEdYUjBvWklya3JvVTNoUGNPNE52VVlPMFdlSG91cl94LTlnSHpGS2NPYtIBrwFBVV95cUxOeUNtZWx2VDNVTHdWU3ZKSExHNzhCc0REb3ktVHhncjc0LTdWOERUTU9mMF9zRzltUVdoamNVaUlrN3ZzTkRIcHVzdGdMeVBXUzdydEt1ZTFCUlN6Qlh6UkM4ZmdMVkN5aFNiMEtMMm1CREl6TTZIQTlEWHI0TkljOTdhbmF6OVhNbGxyaFd5a1ZfTnNTamlPcHlVUUN5aE9FamE2d0ZQTm5fc0JMNEZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-07 21:12:45",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Bąkiewicz wygłosił raport z granicy. Dostał owacje na stojąco - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWJ4TDJRbXMyTDdsQUNUdFNJQ3V0SVFJSFBZYlhLUGNNd05NWlRLMnJXUWE4dGt6UXFBaG0yYUl5X1ZLTGN5bGRUM0JJZTZYTGNqamNBS0J4bXRxYkoxNWR3M0VwTkFYZTYzTzZ6TklvZ2dCeC1ybVY3VUo4dXZDSzdDdXVKVXRSV2o4Z3RGdUNLbDFFcmZ1VlU4M2R5WE1fRUwzMWdHNnZONkZK?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10 03:11:34",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6198,
+      "EUR": 4.2399,
+      "GBP": 4.9232,
+      "CHF": 4.5451,
+      "JPY": 0.024677,
+      "AUD": 2.3638,
+      "CAD": 2.6452,
+      "CNY": 0.504
+    },
+    "crypto": {
+      "BITCOIN": 401127,
+      "DOGECOIN": 0.648187,
+      "ETHEREUM": 9983.63,
+      "LITECOIN": 326.58,
+      "RIPPLE": 8.68
+    },
+    "indices": {
+      "^WIG20": 2897.67,
+      "^WIG30": 3753.92,
+      "^WIG": 3753.92,
+      "^NCINDEX": 249.54
+    },
+    "news": [
+      {
+        "title": "Spotkania z Kaczyńskim. Hołownia mówi, jak zareagował Tusk - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEVjZUpoWFZOWFg4STR4SGZYaEpiYlpWR1dTOW5oOE9hYUJESkZvSmF0dExLd3l4YTl3ci1FSjdKTE56NFVQMkJFRElDQjc4ME5uazk4SW1WckpRcVpZQ0ZRcFE1NF9SU1h4eGRONHcxR2JoeUlpc1Bwd0NzT3dpb18yLWlNT29pUXhwWTBuSzRNQlA1eG1QT2RyRENUR1BC?oc=5"
+      },
+      {
+        "title": "USA wznowiły dostawy broni do Ukrainy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRC16VHRHM1pFZXZsakVIdmY1ZlRDZlFScHd3OFNKT0pCamtXWU9RT0hJYjJtRk9PRTgzdm84T3A0LWJ3V0xKSW9pcDZaNUk2Zk5VSVpueEtLbDNHUDM4VkN5dERoQklnYjFmOTVYcGowbExnUWtFd0tKQUl4emNYNVVPTTRiVjJpbGRnWmROaWtwRlhjV253T2VHckJINUJpN2c?oc=5"
+      },
+      {
+        "title": "Duda o \"wieszaniu za zdradę\". Lawina komentarzy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkVJVlhmbng4UldOOEVFWjNIVllnendmSVN0c0lEVjJ6bFNwcWdsb3RBWkk0eFAyZkYtUWRuX0FUSUhTQzlIdlU1TXJ6TUtXVU1qYjFCd0RBMzdmdWlTWWlaeHIwMzl6bVZQR1BINXloVkw0clFwRGU3eDVsNWpQRmZyRG9jRDZhUzRaaFNET2s?oc=5"
+      },
+      {
+        "title": "\"Jak się nie podoba, to zamykamy i do widzenia\". Prezydent o Ukrainie i sojusznikach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdURLZ3pGVG9lVVBicVVqLUoxS0ZuekprcDVCWnVrNUwzOGJlLTJkbm5GRS15bm5YOUhYVmpRRlFmRDlUZTZIVGM3UkxGME5rNGk2T1pLVVR2WHdtLU1leC1uWHo2enlpU19zNEZUenJPd1hOVkxBa29RaVNHalJSRHRTNlRUTVhyS19uMU9mUFJ6VGowNi1IekVRaUNXVVV5RjZUc3Q0Q3IxRGNWRTRLZ3NWaUt1c3FPWTdiUHNTN3cwLUN5YS1ybTdLdElMUE5CR2JlbG5R?oc=5"
+      },
+      {
+        "title": "Elon Musk zabrał głos w sprawie chatbota Grok - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3lyVnE3ekJZRUhZRWxrNXZGSG5KYUFsQ3EyTnpiMUt6UDltYVE0SWFoc0FpOUVEdVpGLWp5Y29rLXFvVktnX1g3N0hBQmVXZ3JEQjNoZGVlWHpEMHVJS0tWRFpiSzVWRTZ4SWw1MklvcEk4N0pXRVV1cHZLdjN6T3M3alZ1WlRKenNKNC1VS0hhaDA?oc=5"
       }
     ]
   }
