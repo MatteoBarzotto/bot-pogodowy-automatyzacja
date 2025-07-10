@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-08 19:13:41",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6135,
-      "EUR": 4.2455,
-      "GBP": 4.9189,
-      "CHF": 4.537,
-      "JPY": 0.024717,
-      "AUD": 2.3637,
-      "CAD": 2.6481,
-      "CNY": 0.5037
-    },
-    "crypto": {
-      "BITCOIN": 393759,
-      "DOGECOIN": 0.618291,
-      "ETHEREUM": 9442.82,
-      "LITECOIN": 315.22,
-      "RIPPLE": 8.33
-    },
-    "indices": {
-      "^WIG20": 2889.54,
-      "^WIG30": 3745.5,
-      "^WIG": 3745.5,
-      "^NCINDEX": 250.45
-    },
-    "news": [
-      {
-        "title": "Rozesłano pilny alert RCB. Zbliża się wielkie załamanie pogody - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0c0THFBdFFqWlllTG1mVnZUNFRBa3hBNVRzQ2dNdGNOVU1sclNLM0FOelZWeWVCVGhMRHRMQUZldEtlejY1YThfTTh4MnRaSzMtYlpZSjk0bzlrT2ZZZUpTNE12YWJkbGZKNHRGOThCSkZpdXROWlVITHBGbnBTMjZEdGNOVGNXQjF1TnA0QVRzdzBXRmVMYXZHLWQ?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia tłumaczy nocne spotkanie z Kaczyńskim. \"Nie uważam, że jest szatanem\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGJCQTB6TWxQeUZCSFg4VHU3RHhyZ2dNXzlzTUZRZDdHM1NGejJBQzB0UDl6Z2kxdHhlaDNEZGduZnVXRmlnYm5wVjBpMy1zRFNQbmw5Wkx2dThDQXllYzNfc3dLYWVscjZkcjdnMFNXd3VmV2ZCUnRsWE5QYUM2MnFjRS13SHEyU3VoTkZiQUE2MDFpNDhDVUZtZ2dwWEhRUHMtQllJdms2UEpLSERUV0E5Yw?oc=5"
-      },
-      {
-        "title": "Trump, Ukraina i NATO: chaos czy chłodna kalkulacja w polityce USA - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckJZQkwzcjh3NXhTVVlOMnZUTEU5QldobU96MjE2dV9FY0lKR1FQWHBPemgzSVhUOGI5eTNuWjQwbVViWGl3SWVpWUhSLUo1cDFBd0xqMWJuYldPMXVjWXZNRTVYcXM5TXhjdUtIY181VUhDYnl5ZnY2WkR2eVhJVllhcXlyRjhOSDhLRVMxbk5xTzhud05sYm1lNkJEZXRYN3Brc3pNR3FkUEplUmc5MDExdzZXS05BV3hJeEZjWQ?oc=5"
-      },
-      {
-        "title": "Posłanka odchodzi z Polski 2050 - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHU3V3dVbU4tZEo2YUkwSXdXZjVLZW50ajA5UFJJeVMtUnZPUFJoVDBWaV9hTUJPU0tYVGVNTmRUQ1pJRmQ5My1Vc0NNYlFxZ2RWc0pkLTM3ZC00aWtuV1FZTnN5aHpOVTZvMjU5bURrSnlSQ01mSVI4eUJYRmpOcVdPSzJ3XzJjZmlOQWVkY3BQbG1rV2o0eUE4cXdaWGlvNUozUktrZklkM19wTjFwNERn?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w Wodach Polskich. Nie każdy wierzy w oficjalną wersję - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFB0TkR5aE9yQldRZkN2MVlTNlpiZEFBNk11blpaZE04U24wdWpxZDBSQ3FiSG5xeUZKQlluc1I1X0xXWFlWUnZDQlI1RUwtVjc5V3dwREYxOG9BNHItUFVlMjJEUGhVajdodW9RTXFLQUszeDU2UmZVaWJORzR4b1RZeHJXWUpaNHFqSE81YUM5eXR6dVRBX2xRbGNHTjRIV1o0WDFqZVBHdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-08 20:20:11",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Polska 2050 ramię w ramię z PiS i Konfederacją. \"Nie ma żadnego sojuszu\" - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTNIWnpXcVRkV2RENWZCRGhlckFMSFg1RE9lamhLNkpWS0tNYUh1MUM5UWNjLVM3U0hxaHg0ZGxBUVAwSkdhdF8zaVNtZEF6OFhBMWVnVGluNzh1VFBiWFNOcFVyX043SFVrby0tTS1WU1hLUHcwTkRUbU1LV1Z0ZGlQd191aXI4dlU2Z29vU3lBTklzZkhseElxS1F4WnpWS01VWlhBb1FUMFdqc2F0U9IBrwFBVV95cUxNR25mb2F5Ui1LQ2tZYm1GTHpWVXJhSUhWSzJnd1lfdUhzR2Z4WklwZFFuOE5naGxoX0lkREhMWVk3WmE1UEc1MGloRVNLblFNRllIOFlEUy04WGs1RHg0ejRaWHJSNUhNT1IzMnJKT0k2UGpyeFQ4UElLU3dJTTFLc0xTQjdIelFQY3hKTTZpLUVvN0xWNlBoR3BidVdTbklFYUhrXy1MZ0pFQ3FqSVQ0?oc=5"
+      },
+      {
+        "title": "Dziś 84. rocznica zbrodni w Jedwabnem z 10 lipca 1941 r. Co warto o niej wiedzieć? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0Z6bVVxOUFkYTd0c09EbUZLZUMydUR1MF9WQ3JFajJKNnZsdEpSYWx1OXh0OFZjQlhab2h5RVhhZWNfZHVPdmpzZ3Q3OWNxZHB4eWFGZ3VEa19iTzY3MTM4YW1xenBtS2RpS2FfX295TVNHWXhPNWY3UmwxM0FDR0dvR3g4bnJNcldYWE1uUWQ0WEsyQWV1Z2xkY3ZmQWlJV0dwM214a25CUTV5VGVSWl9iaGI0T0h4Zno2LUxyWQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-11 01:14:01",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6209,
+      "EUR": 4.2464,
+      "GBP": 4.9265,
+      "CHF": 4.5535,
+      "JPY": 0.024739,
+      "AUD": 2.3741,
+      "CAD": 2.6478,
+      "CNY": 0.5044
+    },
+    "crypto": {
+      "BITCOIN": 421265,
+      "DOGECOIN": 0.704681,
+      "ETHEREUM": 10777.24,
+      "LITECOIN": 344.96,
+      "RIPPLE": 9.26
+    },
+    "indices": {
+      "^WIG20": 2850.58,
+      "^WIG30": 3693.57,
+      "^WIG": 3693.57,
+      "^NCINDEX": 252.27
+    },
+    "news": [
+      {
+        "title": "Zamieszanie wokół daty rekonstrukcji rządu. Donald Tusk: to jest nieporozumienie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGxISUhsWGI1azhwOUNrTmFoWUx3QkRadE5KeFh0cEI5elRGZ1pSS25zb254cWswdVAtMnFYVGZqZ3pDSHYyZnduNkFZSGxYRmZrTUdibHdXU1o0V0lIUWVaUXdSSDdSY0lRYjdQdXZlZGpGUm0yRE9ScWdaVHRNTXAxS0trY01aeENkMFNMejZIaGJTTnR3dlRuMlBQSHZyQVBTQ0hXWnd5Vll0WkxRMV9adzZzaFc5ckxQaldiRjRqTlV6NmZ1WkhGQ256Mmtl?oc=5"
+      },
+      {
+        "title": "Prezydent Duda o \"wieszaniu za zdradę\". Radosław Sikorski stanowczo odpowiada - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1doNWNPX3RiTWgwNVRFV0M0V1JPSHV4WURPMEc1SFlLRFJHMnZjMV9kY1kta2N3TnFiaXZ3ZVgtb05xMGtQeGZOMHQzaWtaRGIwS0dSaWYteUpwRENLb2VtSkJ6bk43NkhaRkM1MHVOQ2Z1RGtrZ0QyWDBMLXFmUEJNUTRSaTdkTm9TdzczSmhEMjdINGsxaXdiTy0yWlMwbE1EblMtZFA0bnVUTjMyOUJkbkVVWWU0YUg3TnBNclpWUQ?oc=5"
+      },
+      {
+        "title": "Moskwa reaguje na słowa Andrzeja Dudy ws. Ukrainy. Wspominają \"sukces Trumpa\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2tCOUxKR19haVJrbGZaRTY0eTZJRVRxOFNXVTZmUm55LXZDclpwWTBwd2hra2FGeE1BQ0lPWEZDVXcyaDJScEszLVhEWUdpbndYaTZxenFFMi1jQ3FaSGNNUDFseUdLZ0luODgxaE0zbDZXbGY1amVyeWJZNDVEaElsOTZZLVYyYWFCdmJaclJfVEE3cURuUkpfTG5SNU5PNkgya2lCQXNlVXJ2bHNv?oc=5"
+      },
+      {
+        "title": "Polska2050 zagłosowała z PiS-em i Konfederacją. Hołownia tłumaczy dlaczego - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXdXb0J3VDhITzRscXVubzhKZTM1NEt4WG5Ta1lHampINDc4eUhoUXdJdFdPSjQxTXlrZHdxUGNZQ2Rmai00MkdVWng2UDF5aVZjdUhpcW1JMm0yUjg4Ul9OaW5xbUNEN3Q4VmZtazVPXzJrQmV6TjRBd1RZeFJJb0wyQkYwZVVYRHZkTjFqc0YtcW9SZFY5OVVfMFZZU1cyNVBDbzBnRzJJcXNvOTQwSGE1MTMyVzJmbVZV0gG6AUFVX3lxTE5aS055QlZKejBCM25MNkVpVjdpTmxsS1I3OEowa054TXNseHNWcEZ1c2xWYzlrMl9XVWZRX05pdWdoNk5UWG0yZnB6UWdYQ2RINDdzWmNsalBaNjJ2UnBFLXhxZ2JKdG9DNlFaVjVhWWlTdE5aS0ZqR0NGMF82ay1BU1ZaZVluWVo0TDhDX01iLUtIelhKU25NQ2tPN0xpLVRlWEVuRWtMekotb2hGZGNrOGRFcnBZQXluUQ?oc=5"
       },
       {
         "title": "Dziś 84. rocznica zbrodni w Jedwabnem z 10 lipca 1941 r. Co warto o niej wiedzieć? - WP Wiadomości",
