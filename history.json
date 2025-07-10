@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-08 14:29:35",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6135,
-      "EUR": 4.2455,
-      "GBP": 4.9189,
-      "CHF": 4.537,
-      "JPY": 0.024717,
-      "AUD": 2.3637,
-      "CAD": 2.6481,
-      "CNY": 0.5037
-    },
-    "crypto": {
-      "BITCOIN": 393636,
-      "DOGECOIN": 0.618969,
-      "ETHEREUM": 9324.67,
-      "LITECOIN": 314.2,
-      "RIPPLE": 8.31
-    },
-    "indices": {
-      "^WIG20": 2880.19,
-      "^WIG30": 3738.05,
-      "^WIG": 3738.05,
-      "^NCINDEX": 251.58
-    },
-    "news": [
-      {
-        "title": "IMGW zabiera głos tuż przed falą ulew - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1hTcW1zZFVOZlpwdEZBeFh1OGhhRVEtODdqMlM1bWNhYk1hUm1aVWJzSWJ3X253UVFxMUphLXhlS3ZXRUF2ai1jb083dExUVTJLb2hXbjZhZmZTWW4zRnpuMTRsLXhuLTUzYTVmSzRHZVhFMFFCMF9BVWVKZ2M5ZzlPVWN6MFAybjV0UWFORkw?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia tłumaczy nocne spotkanie z Kaczyńskim. \"Nie uważam, że jest szatanem\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGJCQTB6TWxQeUZCSFg4VHU3RHhyZ2dNXzlzTUZRZDdHM1NGejJBQzB0UDl6Z2kxdHhlaDNEZGduZnVXRmlnYm5wVjBpMy1zRFNQbmw5Wkx2dThDQXllYzNfc3dLYWVscjZkcjdnMFNXd3VmV2ZCUnRsWE5QYUM2MnFjRS13SHEyU3VoTkZiQUE2MDFpNDhDVUZtZ2dwWEhRUHMtQllJdms2UEpLSERUV0E5Yw?oc=5"
-      },
-      {
-        "title": "Jest komunikat CKE. Wiadomo, ile osób nie zdało matury - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenBYclhQN214aGQzSmRad29IS2ZaaWtJRlRYUnRlYzI0LWZ1X1dpLXN4bFIzZDEzMlhDYzRXVkJDbjRxVElDemtoRC01dld5QWVYWkNpczNDNksyUno3cWZ1YkwyOGpRSWk1b3hEVGQzSXgyQzBEaWVORUppWHpCdVB2RzhQN1RLaExv?oc=5"
-      },
-      {
-        "title": "Trump, Ukraina i NATO: chaos czy chłodna kalkulacja w polityce USA - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckJZQkwzcjh3NXhTVVlOMnZUTEU5QldobU96MjE2dV9FY0lKR1FQWHBPemgzSVhUOGI5eTNuWjQwbVViWGl3SWVpWUhSLUo1cDFBd0xqMWJuYldPMXVjWXZNRTVYcXM5TXhjdUtIY181VUhDYnl5ZnY2WkR2eVhJVllhcXlyRjhOSDhLRVMxbk5xTzhud05sYm1lNkJEZXRYN3Brc3pNR3FkUEplUmc5MDExdzZXS05BV3hJeEZjWQ?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w Wodach Polskich. Nie każdy wierzy w oficjalną wersję - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFB0TkR5aE9yQldRZkN2MVlTNlpiZEFBNk11blpaZE04U24wdWpxZDBSQ3FiSG5xeUZKQlluc1I1X0xXWFlWUnZDQlI1RUwtVjc5V3dwREYxOG9BNHItUFVlMjJEUGhVajdodW9RTXFLQUszeDU2UmZVaWJORzR4b1RZeHJXWUpaNHFqSE81YUM5eXR6dVRBX2xRbGNHTjRIV1o0WDFqZVBHdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-08 15:29:43",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ursula von der Leyen zostaje. Odrzucono wniosek o wotum nieufności - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE9YbEZhRTJIcmxPVHpJSGJfTFFZckVIMmZWSF82Ni1Pb3NfRFlTeXhZc2Y1RzVuQXh4dWhRUF9NWkw2RHBJTTZVckZyOFh2Y1ljTEptdWRDN2VoUGtnZTZpU3lJeU9jNmhvRWF0Znk5bHZCcmIwR2VWZjJfUDFjekI2dVBEalFUS3VLeGMwWXBmalBKV0NIQ3d6NlJHRGI0TXdpWC01eF9iN2Rn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10 20:20:18",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6209,
+      "EUR": 4.2464,
+      "GBP": 4.9265,
+      "CHF": 4.5535,
+      "JPY": 0.024739,
+      "AUD": 2.3741,
+      "CAD": 2.6478,
+      "CNY": 0.5044
+    },
+    "crypto": {
+      "BITCOIN": 413155,
+      "DOGECOIN": 0.678438,
+      "ETHEREUM": 10286.3,
+      "LITECOIN": 337.33,
+      "RIPPLE": 9.09
+    },
+    "indices": {
+      "^WIG20": 2850.58,
+      "^WIG30": 3693.57,
+      "^WIG": 3693.57,
+      "^NCINDEX": 252.27
+    },
+    "news": [
+      {
+        "title": "Prezydent Duda o \"wieszaniu za zdradę\". Radosław Sikorski stanowczo odpowiada - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1doNWNPX3RiTWgwNVRFV0M0V1JPSHV4WURPMEc1SFlLRFJHMnZjMV9kY1kta2N3TnFiaXZ3ZVgtb05xMGtQeGZOMHQzaWtaRGIwS0dSaWYteUpwRENLb2VtSkJ6bk43NkhaRkM1MHVOQ2Z1RGtrZ0QyWDBMLXFmUEJNUTRSaTdkTm9TdzczSmhEMjdINGsxaXdiTy0yWlMwbE1EblMtZFA0bnVUTjMyOUJkbkVVWWU0YUg3TnBNclpWUQ?oc=5"
+      },
+      {
+        "title": "Ryszard Petru przeciwko partyjnej koleżance. \"Mamy inne kandydatury\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTFZNeU5YYUd2eVlKcFlvZk5WQlFOV2lBbW5OV0VGd1BrME1INERmWkZoZm9uQVBKZVZkdF95WWpGd1lRNTQ5ZHBkc0dTeTVIRDhVTWJRNC1NTlVyLUFEYlE0OTZFdUd2WmNTTUxxSDV5RlpSU0RTM2syRzFMZTJUeXlEZjNaaVQwSkpwVGw3YjRTRjlqbkM4dmpTd0J1RmFiYUZfRDJXcWNQc0pFSmpqcXNwc2ZtZ0pUM1dXcmJpcDZaSUpHY3dr?oc=5"
+      },
+      {
+        "title": "Polska2050 zagłosowała z PiS-em i Konfederacją. Hołownia tłumaczy dlaczego - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXdXb0J3VDhITzRscXVubzhKZTM1NEt4WG5Ta1lHampINDc4eUhoUXdJdFdPSjQxTXlrZHdxUGNZQ2Rmai00MkdVWng2UDF5aVZjdUhpcW1JMm0yUjg4Ul9OaW5xbUNEN3Q4VmZtazVPXzJrQmV6TjRBd1RZeFJJb0wyQkYwZVVYRHZkTjFqc0YtcW9SZFY5OVVfMFZZU1cyNVBDbzBnRzJJcXNvOTQwSGE1MTMyVzJmbVZV0gG6AUFVX3lxTE5aS055QlZKejBCM25MNkVpVjdpTmxsS1I3OEowa054TXNseHNWcEZ1c2xWYzlrMl9XVWZRX05pdWdoNk5UWG0yZnB6UWdYQ2RINDdzWmNsalBaNjJ2UnBFLXhxZ2JKdG9DNlFaVjVhWWlTdE5aS0ZqR0NGMF82ay1BU1ZaZVluWVo0TDhDX01iLUtIelhKU25NQ2tPN0xpLVRlWEVuRWtMekotb2hGZGNrOGRFcnBZQXluUQ?oc=5"
+      },
+      {
+        "title": "W radiu przerwano wywiad z Grzegorzem Braunem. Prowadzący mówi o „przekroczeniu granic” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEdLd0ZrYm1ZT2NwR1lrNnFaUGhIVzllSmlrY2hSRkxMelVMY292VERYSzFydGs0NVhBbm1UM1Q3MWo0bjVCa0lxVXVqYU03cFdyTThQc3I5SUZmUmduRnZZcHFTRjhGbUNLbnM0MlZKNFVFbDkwaUctODNDMnFFenp0Uk5sLVRSc0FfcEV5THdzelI3eGNYVFlDaHlkUF9vc0h0WEQ5VWN0VnhHQUFkd3F0X0VpUEJaV2RFRzMyUjA4Yl94cjhXSw?oc=5"
+      },
+      {
+        "title": "Wotum nieufności dla Komisji Europejskiej. Europosłowie zagłosowali ws. wniosku - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzlmSTdWMjBoTnV5QmZJX0tqRzN2LVoxOXVFRmxscm9LR3dFX0JQcVFaTDlnT2w1cHAxVGV0dS1QaC1famZjWWI2cWlVR3NxT2lQT0NGeXRlMVdKQ09kZHRWMC1JTG11Rnd5RFZVQkN3VFZUZXhRdjE0NktZcE5taUhJZU50Wlo5cHZ4UVk1VUh0Nlk5WmVJNHVzeWxUNF80VDYzdnpNbkZ6WXRFVGJZUl9uQ2I5dVI3bEE?oc=5"
       }
     ]
   }
