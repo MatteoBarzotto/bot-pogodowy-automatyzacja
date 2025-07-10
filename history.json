@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-07 23:13:06",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6269,
-      "EUR": 4.2524,
-      "GBP": 4.9258,
-      "CHF": 4.55,
-      "JPY": 0.024956,
-      "AUD": 2.3543,
-      "CAD": 2.6509,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 391869,
-      "DOGECOIN": 0.605514,
-      "ETHEREUM": 9201.69,
-      "LITECOIN": 311.76,
-      "RIPPLE": 8.24
-    },
-    "indices": {
-      "^WIG20": 2861.78,
-      "^WIG30": 3721.14,
-      "^WIG": 3721.14,
-      "^NCINDEX": 252.09
-    },
-    "news": [
-      {
-        "title": "Prezes Wód Polskich odwołana. Nagła decyzja ministra infrastruktury - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGFEUE5oQ1VwRXpfT3NLT0Jvbkg4b3BfalV6bE1qOEdhTGFVa2lEczBhRzhyVkp0UWFpOUNJZW51QlR2NV9aSFVOSnpDM0F0TE9EY3FHN2VUQkdkRHhhaHhmUnJPUTI4Y2dhVzVqZUoxSXAyNllKRlZ0MzduOXB5aU1ySWQ5OC1pUUpZN184S3JBSlNMdTZRVDVRX2dPQXNmZmRIV3RWcXZ2RGU3ZC1iNXFCR1RaZkZUY2JDWTBR?oc=5"
-      },
-      {
-        "title": "Rosjanka już czeka na Igę Świątek w ćwierćfinale Wimbledonu, co za wieści! - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFEtWC1WRlZTWk03WUxSOHBoT2hDX1FrNXZNUlhIcVE0RUQ5R0ZneGZkemlJa2FGMVBqM0M5VkhLaFBNV2g3a1ljaFhKSnk2a01LZGpFY2RSMDlPYlZCSUJkUi1TU3JkNldNQ0NJdEh3U2tPd0djWHFwWEFzTkRKSTJTWElvMnphdjBaX2FSQk1IaDNKdFN5bFlUdnNjcFU3N3JPZW1oSlBBMnJpeUxOQ1V3OG16Y1NiYlBkMnd0V0VqMzc2YkJ5MQ?oc=5"
-      },
-      {
-        "title": "Niż genueński nadciąga nad Polskę. Gwałtowna zmiana pogody. RCB ostrzega - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmVpd3Q3UkhVaXNIYTJkWV9yampicXpMME1vNERlRHRVN0QtZ0ozRHpZQ1haRFJYeDRfX2RLdFJVczFvNEd2RXItRmZ3am9rbkRja19DSHNGckhMS1RnYXFJMkJxaHcxSjc0X0RxbUxSdmxtc1FFb2FkNHNXWFdVeTRMRFJQTjlzQXFHSUEtb1Y1eV9WSHpfRjJWb3lyM3oyNVRCaTF5QzlnOTkwdjRLSW1aaDVCenJtbUs1dHZSRnNhd0FVVzRFbUYycEw?oc=5"
-      },
-      {
-        "title": "Kryzys zaufania w koalicji. Po spotkaniu Hołowni z Kaczyńskim liderzy \"gryzą się w język\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHpqZmpDSmVOYVR3QUd4MnJicFZtMzBGdU9UOHFiLWNqQjVYUUFIb0U0Zkdmc21oc1dxRWVnNmk1Wmo1cmJuVzV0ZWhyNF9WcjJTNmFHNGF1ZHF6QWtEeEFKLVlQTnV4ai0yYlQ5TUpMZG1HVV9TNFRPZ0kwU3h3NlV1eDhEOENiMVNlTlE1MmJSVzJNT1hVZDFiU2djRVJTUklZZUo3OE9wbmw1cXJhMlY5bGNFY2JVbnhCVU1YYXNXbGFrVTNZNA?oc=5"
-      },
-      {
-        "title": "Burmistrz Zgorzelca krytykuje kontrole. \"Chciałbym dożyć czasów, by migranci uciekali z Niemiec do Polski\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGVhbjhuRW85RC1CUFYxWXV6bWVoblBYOHZQTHk0bXhqMFF6dXI4YjNRazVHMU9UR1dVc2dhc1piaGRmdTNub2l0Sng3ZzRTUS1pdTdnNG4zQWpCRE5aaURXRG1ZV1hzV3hLUHM4U0ZoazMzSlBvUDdDcUFFMzUySkNrTEtlcEdYUjBvWklya3JvVTNoUGNPNE52VVlPMFdlSG91cl94LTlnSHpGS2NPYtIBrwFBVV95cUxOeUNtZWx2VDNVTHdWU3ZKSExHNzhCc0REb3ktVHhncjc0LTdWOERUTU9mMF9zRzltUVdoamNVaUlrN3ZzTkRIcHVzdGdMeVBXUzdydEt1ZTFCUlN6Qlh6UkM4ZmdMVkN5aFNiMEtMMm1CREl6TTZIQTlEWHI0TkljOTdhbmF6OVhNbGxyaFd5a1ZfTnNTamlPcHlVUUN5aE9FamE2d0ZQTm5fc0JMNEZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-08 00:14:08",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "\"Słuchaj poleceń służb\". Alert RCB dla dziewięciu województw - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHA0eTZYQ3pxY2J1QUFPX2l5WGptVkJTY2p4cGFiZ0tIZS1vdENwWm1oVHJUNkdmVDNnc1lMdE43a1pGTmJjRjNVTW1TUmluQkpBNXpWeFdhWWtLYkZwNml6b29Nd0lXVHlKb3l2eFA5V0ZrdWM3b0dBc2dHVUFNYnlwS2pUcS1wajBsbGJPRC0tRjlSdER6bW9BdFhTVkVFRVNzcDJtaEk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10 07:17:54",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6198,
+      "EUR": 4.2399,
+      "GBP": 4.9232,
+      "CHF": 4.5451,
+      "JPY": 0.024677,
+      "AUD": 2.3638,
+      "CAD": 2.6452,
+      "CNY": 0.504
+    },
+    "crypto": {
+      "BITCOIN": 401460,
+      "DOGECOIN": 0.653597,
+      "ETHEREUM": 10037.63,
+      "LITECOIN": 327.4,
+      "RIPPLE": 8.75
+    },
+    "indices": {
+      "^WIG20": 2897.67,
+      "^WIG30": 3753.92,
+      "^WIG": 3753.92,
+      "^NCINDEX": 249.54
+    },
+    "news": [
+      {
+        "title": "Szymon Hołownia uderzył nosem w szybę. Pozostała mu teraz jedyna szansa - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdG1Kc0Rwd09aMWRCeGxsVjlhMlBXMlVtUUl1MldFbDFyVTV5UWI4ckh4SS1uaGljdUV3ZHJ3NHZKamZRek8wMFpRQmRjUWxLZEdxOHZQWGN1WTNpWmQ4TVJTalE4VVh4U3NKaUxxTnFVazFXQWRaODN2M1RPY3Q1NEo4YmF1NHp6MEJWVENUYmxvOVNaVmlTSDRnSFEyTmF6cFE?oc=5"
+      },
+      {
+        "title": "Zmasowany atak dronów na Kijów. Kilkanaście osób rannych, są ofiary - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEdNSS1HTmVHYjFzTnhzNklBTFl1bFM1eUxsOGtkOWJoTnIwODA5a2pCQ0NlX3Q5MGFJNmUyemhfdlQ4eW42OHYtX04taXNrS2dySzFrclhsSDRVZVIzWVd3cWFoSURvWGQxcUpZUHZXZmp4ZXlGRU8wRlh1ZnpqeDZMSWdiWmV2ZGVqOU1ENlVsTjdvd2pUZkpRQWtERkVFMDFSZlRiN3F6czM2TWJLZm9jdGlWQnBZYzBFRlhWWlVLOW1EUVAw?oc=5"
+      },
+      {
+        "title": "\"Dążą do wojny domowej\". Reakcje na słowa Dudy o \"wieszaniu za zdradę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkVJVlhmbng4UldOOEVFWjNIVllnendmSVN0c0lEVjJ6bFNwcWdsb3RBWkk0eFAyZkYtUWRuX0FUSUhTQzlIdlU1TXJ6TUtXVU1qYjFCd0RBMzdmdWlTWWlaeHIwMzl6bVZQR1BINXloVkw0clFwRGU3eDVsNWpQRmZyRG9jRDZhUzRaaFNET2s?oc=5"
+      },
+      {
+        "title": "Znamy datę rekonstrukcji rządu. Termin przesunięty na wniosek Szymona Hołowni - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcno2bjdMWmZ3aEU5QkNwOHRrYmxfZEZYYkJueGh6cmIxZDIyNF9XRXBWYlRNLXdkS2VXZnYwRC1HNHFLUzVmandlWTlxaHNfVGNSZm9HQmlYb0Vzal9SZ05qV2tYU1M5ZmNNRUMzVHVuS1RIOFEyM0ZuZk5BVzJ2RGVWaE9qM0U?oc=5"
+      },
+      {
+        "title": "Donald Trump rozgniewany zachowaniem Putina. Media: Uzbrojenie Kijowa leży w interesie USA - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVF1djFwTFBpeXZWcXBkVzJQUmFCQ252MnhwU0ZJTUc1ajRYQ3ZhMENDdHRVVDc2S2ZjbGRNOFRYYzlua0oyWXJNXzFDVXV5d2ExcmxhNllrYVM2cnZoV0V2VGF3cTVaUWJzUDMyMkFzdTVTbTA4MGZDR3YzOTRsWU03cXZzRGwyY3pyVkF2RDhzOXd5RnhleGdJVnNPTHYteG1CQTZpc0ZMY01GOFE?oc=5"
       }
     ]
   }
