@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-08 13:13:05",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6135,
-      "EUR": 4.2455,
-      "GBP": 4.9189,
-      "CHF": 4.537,
-      "JPY": 0.024717,
-      "AUD": 2.3637,
-      "CAD": 2.6481,
-      "CNY": 0.5037
-    },
-    "crypto": {
-      "BITCOIN": 393866,
-      "DOGECOIN": 0.616554,
-      "ETHEREUM": 9329.2,
-      "LITECOIN": 313.42,
-      "RIPPLE": 8.29
-    },
-    "indices": {
-      "^WIG20": 2881.55,
-      "^WIG30": 3741.08,
-      "^WIG": 3741.08,
-      "^NCINDEX": 250.89
-    },
-    "news": [
-      {
-        "title": "IMGW zabiera głos tuż przed falą ulew - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1hTcW1zZFVOZlpwdEZBeFh1OGhhRVEtODdqMlM1bWNhYk1hUm1aVWJzSWJ3X253UVFxMUphLXhlS3ZXRUF2ai1jb083dExUVTJLb2hXbjZhZmZTWW4zRnpuMTRsLXhuLTUzYTVmSzRHZVhFMFFCMF9BVWVKZ2M5ZzlPVWN6MFAybjV0UWFORkw?oc=5"
-      },
-      {
-        "title": "Czy spotkanie Hołownia-Kaczyński mogło zostać nagrane? Wicemarszałek o ochronie kontrwywiadu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2I1cFFuTlZOdGd2Y0pUZWtUM2hhbGV6blJKQjR4Qmh4VTF6bmJTNGlPQTMwSW1YbWxlM2szMV90eDkzb09jU0JhU3AydHNtcW1iMHFEaG9EdWlJajItXzBmeDhmUUMzZkgxYVZSblZTa3VkNEYxaE9RNUI5TFJnaVp1Y0RtSUdLZjg3Ri1zbDNNWVp5TzFJbVJjOUo5eTg5Y1lGdW9Ga1VWWTVuYWhNdDBYLUZzaGxsaVhz?oc=5"
-      },
-      {
-        "title": "Wyniki matur 2025. Gdzie sprawdzić? O której godzinie? - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1h4X2N4S1BEN3daazVQRF9acElTRTl1RWEyS0xTLXZvUVFTdTVRVmxDekpxVGl2QVhUZXZxWWN2Q051SzZYeC1MRkF5bV92dkdQQ3FkQS1EbWoxcjhKMExrVVRkLW9vWjhxRzBnekh1VnN0WTd1dXFVQThTQUNFNmRoLWNEamxUYlExb1hscDE1STg5WVhmaTJ6N2s?oc=5"
-      },
-      {
-        "title": "Bogusław Chrabota: Których narodów nie chce w Polsce Jarosław Kaczyński? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjItdzVuQlAwemtjQnR4djNKbHhhb1A1NTZvNUh4aTQ4LThtRERITnBIM1dJSTNpbGpUc2NhVlVYWHF1ajVGUVFCUnZrd3IwaUx0aXh4VFFubkIyZE9TUnVod2ZoVzdvV2ZkNDhtWDFUcEoyLS1xOEc4SjNFTGpybGJhRUQ1UkJ5Nl9UMWtnMzNIRlNKaXRUUkszajVxVE1UTWVDQ2JqUUcxcGVnM0h4Mg?oc=5"
-      },
-      {
-        "title": "Aktor \"Korony królów\" stracił mieszkanie w pożarze w Ząbkach. Apeluje o pomoc - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOW9GSTJnQUUyOFNSYnJFZHo5dDRxdEMtYXFmS0d0OG45ZzV4MjNRM1RwQ3ZJcW1xZXBHUFZRMldMZzFOclR0WUs4VFd5QmVwWnhlaThJV0ZpNHFzRzdJMURyNmJkVENnelpGa1IxQ0k1YlpMSHNfcjJLTVZfS25hZk9MNU9KYmF4OGpsVmtqZnl6YWNmaURXR3Q1aXRkb0tRaER1X0JMY2x0UjVvY2Q3d3Z0Mi1kbGJuc2oxSzFnZkExTFU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-08 14:29:35",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ma zostać szefem Kancelarii Prezydenta u Nawrockiego. Oto jego majątek - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVd3TV9ZaXVMdTJHSGQyYzItQmRJNERrMV9FcnVsRHBONDNxejl2ZWJMQTdlSTVxRlp0Qm1xcGU2LVRTSmswZzhETzFaQmR4RVJDX1ZXdkVFemlHVlM5MzRpZVVnU0d1YnJMVWpfR3NqckhUNFdYMUducHBuTmVlUkw5VEN6TmNtZFl4amhCZW1LclNwMFJFYzA0ZzdVb3VudmQwX09pMHJqWTFKYktmdEFQWk9qYXJMVlF5SWoxTUxPdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10 19:15:11",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6209,
+      "EUR": 4.2464,
+      "GBP": 4.9265,
+      "CHF": 4.5535,
+      "JPY": 0.024739,
+      "AUD": 2.3741,
+      "CAD": 2.6478,
+      "CNY": 0.5044
+    },
+    "crypto": {
+      "BITCOIN": 411701,
+      "DOGECOIN": 0.670428,
+      "ETHEREUM": 10259.84,
+      "LITECOIN": 335.3,
+      "RIPPLE": 9.06
+    },
+    "indices": {
+      "^WIG20": 2850.58,
+      "^WIG30": 3693.57,
+      "^WIG": 3693.57,
+      "^NCINDEX": 252.27
+    },
+    "news": [
+      {
+        "title": "Co za cyrk! Żak robi show w sądzie. Sędzia go ucisza, a adwokatka za niego przeprasza - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY05PVmlma3oyeUFRZzJGTG9wSE0yZW00d3lVdGF5M0k0d2JfUVN0c0dDY3NCcC1Vb3hQUEJOaW5mV3hpeTAwNUVnZU1URTNEMElkcUJMM3l3SU54c3BUZFZwX3A2ekc2d2hxQkNTYnBIMGp5NmZveUhyamZFcW5ZYldlQzFia0I5RjRkeHgzQ29xcjBiaTVXSWUxQW1YUVRpUFh6NGR0czQzU21S?oc=5"
+      },
+      {
+        "title": "Prezydent Duda o \"wieszaniu za zdradę\". Radosław Sikorski stanowczo odpowiada - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1doNWNPX3RiTWgwNVRFV0M0V1JPSHV4WURPMEc1SFlLRFJHMnZjMV9kY1kta2N3TnFiaXZ3ZVgtb05xMGtQeGZOMHQzaWtaRGIwS0dSaWYteUpwRENLb2VtSkJ6bk43NkhaRkM1MHVOQ2Z1RGtrZ0QyWDBMLXFmUEJNUTRSaTdkTm9TdzczSmhEMjdINGsxaXdiTy0yWlMwbE1EblMtZFA0bnVUTjMyOUJkbkVVWWU0YUg3TnBNclpWUQ?oc=5"
+      },
+      {
+        "title": "Andrzej Duda o wsparciu Polski dla Ukrainy. Mówi o skandalu - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVXJ3a0RDRHplVTU2bjU3MDlESVg3NVczOGhHQlQyWkU0V1Z1V0ZWRk54TW5RcEo5X1BZSjItYlgtekJ2aUd4dGlvYXNPYVItNTFySFlEU0dRY1B0RmQ4ZzZ2YXA3STBHc2gyX0Q5TkExOFZMY1BOOXBpREhDWS1kT2V6Wm9IRUFyUDVpSHFRODhVRXdGdGFBNTlrXzNOVFk0WnpYS3pjeXlXZWx1RE1pQ0ZPNUJraWUxcTZqdE43anF0TDFTX0QxcE5pZ1lvWTVTYkx2WW5uTQ?oc=5"
+      },
+      {
+        "title": "Nagły zwrot w sprawie rekonstrukcji. \"Na wniosek Szymona Hołowni\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEZ2S3FuMjJPVDhzcFhxRVlTNm1pNHJCZGN2LXZLT1A2YWlJWW9vUWxxUERDM0Fnc2lGTHNUTHQ3dHZRNFFmRExnc2dCS2Y5aXlaZVJaOWI0TEZVY1pEZzRfZXAtRFQ5VDNmQkF6REFHNkNMVVM3VHhSYm02Y2FPR3pzNlpHZzBBWi1tWWtEWGw5b2lNUENFM2x4bjYtQ05tcEJ5Z3RTMmxITmlON0FrNkxkRDdmV2h1cHlLSUswZ3hfMW8?oc=5"
+      },
+      {
+        "title": "Ursula von der Leyen zostaje. Odrzucono wniosek o wotum nieufności - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE9YbEZhRTJIcmxPVHpJSGJfTFFZckVIMmZWSF82Ni1Pb3NfRFlTeXhZc2Y1RzVuQXh4dWhRUF9NWkw2RHBJTTZVckZyOFh2Y1ljTEptdWRDN2VoUGtnZTZpU3lJeU9jNmhvRWF0Znk5bHZCcmIwR2VWZjJfUDFjekI2dVBEalFUS3VLeGMwWXBmalBKV0NIQ3d6NlJHRGI0TXdpWC01eF9iN2Rn?oc=5"
       }
     ]
   }
