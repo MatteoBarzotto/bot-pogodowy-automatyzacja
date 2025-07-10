@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-08 07:15:53",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6269,
-      "EUR": 4.2524,
-      "GBP": 4.9258,
-      "CHF": 4.55,
-      "JPY": 0.024956,
-      "AUD": 2.3543,
-      "CAD": 2.6509,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 391105,
-      "DOGECOIN": 0.606729,
-      "ETHEREUM": 9213.01,
-      "LITECOIN": 311.11,
-      "RIPPLE": 8.2
-    },
-    "indices": {
-      "^WIG20": 2861.78,
-      "^WIG30": 3721.14,
-      "^WIG": 3721.14,
-      "^NCINDEX": 252.09
-    },
-    "news": [
-      {
-        "title": "Dziś początek kilkudniowej, silnej ulewy. Oto miejsca, gdzie spadnie najwięcej deszczu [POGODA] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3BydGxRRFJHOFZIa3p6cEIwZEd5bGhOcXQtajFIVFFOeVRqM194d2RSZ3gyd3RzUzJHMWRzT0V4bnM3UnE0cVNnX3VpM3dENm5kMXdzbTZwbGMzdHdhQnVFS2JlaU9takx2ZHRDMUg4RHBkdHc1SlcxcjVONXg3Mkd1bzZaLV9GY0FNT241QmN3U0E1MTVvenZLbDVqNjJzN21ZRXN6dTlfeVB0bEJheTVVLVZGVWc?oc=5"
-      },
-      {
-        "title": "Bogusław Chrabota: Których narodów nie chce w Polsce Jarosław Kaczyński? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjItdzVuQlAwemtjQnR4djNKbHhhb1A1NTZvNUh4aTQ4LThtRERITnBIM1dJSTNpbGpUc2NhVlVYWHF1ajVGUVFCUnZrd3IwaUx0aXh4VFFubkIyZE9TUnVod2ZoVzdvV2ZkNDhtWDFUcEoyLS1xOEc4SjNFTGpybGJhRUQ1UkJ5Nl9UMWtnMzNIRlNKaXRUUkszajVxVE1UTWVDQ2JqUUcxcGVnM0h4Mg?oc=5"
-      },
-      {
-        "title": "Powalone drzewa, zerwane dachy. Niszczycielskie nawałnice nad Polską - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclg3Zzk5ZW1wMUdDTzBmRmhpeHM5Z3BZYU9icGxha3kwYjdrSVVLd2tSdEZQandxTXJHcWl5OE9rWE5MMll5SzFOc3Q1ZzAwTEVQU3ZGOWpQZUpMREdzckJWRFE2bGxRSzVabHZ0OWs5aUR4N3lscUUtYXE3STJFUUU5VGtMZ1pPZTJkN2ZHLW9HYWRXTGVLV01UUl84Y2R4TWJtNG9JVzJTUnIzSTQ5aE1IMFdERnps?oc=5"
-      },
-      {
-        "title": "Szefowa Wód Polskich odwołana. Jest decyzja ministra - Interia",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3M3b0VVbXRUd2xiTjhZMXRwZ1hZN0U3TFAxNzdpMHlyS1l1bmhqa3JtWDBLMU1qbVItY3dQVnQ2X0c0a19lYlc1Y3ZodlFzdFN2MmR0eUhrcTV1bU1zVTM0N2FvUDRYcHllYTFISHJEZG5XZ0I5OWpxRExmajFvZ3dhakYxXzFRSFNRbkhKalV4NW9jX1ZvTDNUVHNBY1VaX0hRRTIxRQ?oc=5"
-      },
-      {
-        "title": "Broń dla Ukrainy. Jest decyzja departamentu obrony USA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEN1ZTU1NndtUzhtR0g2MDY5dVVVUmp2ck14ajhVVlVKcUNweE1kXy1yRFZnRnhrWUFxejViUlExMEQzaWxrZ0lwNzRmVldsZ3Z6a3FQazktZ29hWDdZOXgyTlVUYXM4cFc3NUd4dWN6a0lqUVpDV2VURGMwUGdkcENZeC1aY1dNVm1WdWZzRm1RT3NkQzNRX0xB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-08 08:21:26",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Wody w rzekach przybywa\". Niż genueński nad Polską - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPclhJRk41cG9Oak9wZkdoeW5vQkhrQzlsS3lwOU81QXNpa1NYMUhqSEhVY2IxdzI4Q2tkSkJPZDhfZ2tubDVUb0k2dHpCZHVpcHlLRFZKc3ZEUUY2dE1ZUXc3T01Ha21mOVFvcFZNOFg0ajZnd2RuUzY4YWlMVUxkbFRYSTJzNkljbHRFd0R5QVhuSWFqODRMWUZsY1hjYUlhdGxJQW5EUVQzU1BIY2Fad19zREF4ZmYxNTE0cWl4NDZqUjAxOE0zZE5B?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10 13:12:59",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6209,
+      "EUR": 4.2464,
+      "GBP": 4.9265,
+      "CHF": 4.5535,
+      "JPY": 0.024739,
+      "AUD": 2.3741,
+      "CAD": 2.6478,
+      "CNY": 0.5044
+    },
+    "crypto": {
+      "BITCOIN": 402674,
+      "DOGECOIN": 0.654786,
+      "ETHEREUM": 10079.87,
+      "LITECOIN": 329.29,
+      "RIPPLE": 8.85
+    },
+    "indices": {
+      "^WIG20": 2899.46,
+      "^WIG30": 3753.12,
+      "^WIG": 3753.12,
+      "^NCINDEX": 251.25
+    },
+    "news": [
+      {
+        "title": "Głosowanie nad wotum nieufności dla Komisji Europejskiej. Jest decyzja - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWJRblZMbjhMSVpDRDNSYXlWb3FadFV2Tnp1MXQ1UmdPWWZUMUxmUTh0dGh3LS10Zmw5QUFuSURkZ09JMFhZTUlnc3B2UWpsQWZPWmVLLU9GTlBHTjVjNENjY0N6bjFlYmk5Y21YSkZzSkVHdXlQbmppZFJZYWIteWNvWUhrd3JaMFdud1loVjAwNzc0UFluUkRiQW4wV1VJd1dfREpKcVk5Y29zLXA2cFoyZVQzZw?oc=5"
+      },
+      {
+        "title": "\"Delikatnie przypominam\". Duda zabiera głos ws. \"wieszania za zdradę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcG93VXF4bmZIMVM0MUhhLWhQUnZxZ0JtaXYwQ3d0QjNKRkpHZlZWSUlLRjlEcWxrazJBUWctZVdfVHcwTWVMMGVFY3RpZTctT0hfNWhlWUNSWnA4c1Bwd0tza1hEQUlRS2JRWjBJM0lXczV2TV95dGZUbXpvTWp2OGRNMDRCaFNjeVlidXBNemZIZzZhV21ZM0U5LWFKdlFlbEtEMDY1TnJJZw?oc=5"
+      },
+      {
+        "title": "Akcja służb przed Kancelarią Premiera. \"Pojawiła się kobieta z kanistrem\". Interwencja SOP - Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGRzUUJVekJQWmw5VFBZZG5mdmJxQk9nWkZyQzVXeXRpcHlaYUF1VUotSkh5dm1SRnlKT241Zi1RUzZZcVVEa0xHTTY0dW1USmNLY2h6MXpxMGlRUUtKV2wwWHdoWjA0VGtySGhOQTJLTzYwSjhIU3A2czFhZXk2Ui1KdFU1TFRvaGkwaDIxUS1vOXdRWS1oSi1EYnYwVXFBdVdRWXNkS0lxNGNRaUt0ZTZ0Yw?oc=5"
+      },
+      {
+        "title": "\"Putin gada nam bzdury\". Relacje z Waszyngtonem na ostrym zakręcie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazNZTzRRN2pfWWxTQ2lxLS16TTV0TnRRemdmZU9iTnRPeHlJalY0SHF6c1E4RWRFNnlkbkpndVpIeWp5Z04xdVV0Yk9vOXEtb3llSldHVkpvdUVDc0ZPOTVIcHVMT29KUE4yUDBVSXNKSXNLSjRPVG5tWUx4NE9aSlRYTjZiTGFMRWRqTWhETUh1V1E1ck1aNW43U2lwTDlSOHd1UjQ2VTBnMXZsUkpPZDZmaDlMUzg?oc=5"
+      },
+      {
+        "title": "Kinga Duda zabrała głos po ślubie. Podziękowała tylko jednej osobie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2FNdDRxY1IyaE9vZlV3MjdibndScldzZU15bVlEV2JJVGFkTkU0SzhqTUh5M25oNkxvRDBCenYxUXFXazVTdWZwLWdGNV9PMG9NNWFXdzJGaHNVZ2l3RkNvZ21EMDlRak5JQUVCNHI4YmdKUzNjYUI0SmlER2ZmX0RGekZDcE5TMG5TTlJLVGwybzRuN2VIZS1saHNMMW1Velp6RVJFTjAyYS0xenRsajhUN0k4a1FzU2tQNk5LTQ?oc=5"
       }
     ]
   }
