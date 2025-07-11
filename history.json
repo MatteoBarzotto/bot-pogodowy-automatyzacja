@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-09 10:19:43",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6135,
-      "EUR": 4.2455,
-      "GBP": 4.9189,
-      "CHF": 4.537,
-      "JPY": 0.024717,
-      "AUD": 2.3637,
-      "CAD": 2.6481,
-      "CNY": 0.5037
-    },
-    "crypto": {
-      "BITCOIN": 394155,
-      "DOGECOIN": 0.622854,
-      "ETHEREUM": 9503.37,
-      "LITECOIN": 319.66,
-      "RIPPLE": 8.46
-    },
-    "indices": {
-      "^WIG20": 2897.39,
-      "^WIG30": 3752.57,
-      "^WIG": 3752.57,
-      "^NCINDEX": 250.07
-    },
-    "news": [
-      {
-        "title": "Zagrożenie powodziowe w Polsce. Rząd zwołał sztab kryzysowy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdU12bG9BTXZfV0JEeGdhelZyWXR1NzZJQ3U4SndvWlI4ajUweDI0YURLZDh4VW52dlpQVXB6cVZCTDBNdXJYZXEwT3h4dW1xT2M2ZU5HbHFpeHdodUEtSDBkNzlQX1dxeFYxWVVVeXdDYlFHLV95Q1U2UVR4ZVo1N25SSTl5MzZxd2c2T1NLUnpSMEhjWmFuLXFKM2o3cmp4anBFTUFPU29Zb29w?oc=5"
-      },
-      {
-        "title": "\"Na cmentarzu?\" Kukiz komentuje nocne spotkanie Hołowni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEFWeE5GRjBkUUhZa2NOOV9nNVRWeGVQWS1xRl9zU2V6ZGd4Q0QwdlJWbTBiYkdiWE11UklIY3NzbTdQV3A2d2VsV3l4TExMTDE1ajJQWnVjZFJhMWpJa0ZqMER3VU1FTXV3LU9zNTE1TGUxaXZoeGJOSmRQbnZVZjRjMWtybThwUlV5U1E4WWVRck9vSV93Nm1OUQ?oc=5"
-      },
-      {
-        "title": "Rozesłano pilny alert RCB. Zbliża się wielkie załamanie pogody - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0c0THFBdFFqWlllTG1mVnZUNFRBa3hBNVRzQ2dNdGNOVU1sclNLM0FOelZWeWVCVGhMRHRMQUZldEtlejY1YThfTTh4MnRaSzMtYlpZSjk0bzlrT2ZZZUpTNE12YWJkbGZKNHRGOThCSkZpdXROWlVITHBGbnBTMjZEdGNOVGNXQjF1TnA0QVRzdzBXRmVMYXZHLWQ?oc=5"
-      },
-      {
-        "title": "Takiej nocy w Ukrainie jeszcze nie było. Rosja pobiła kolejny rekord - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTcxeVJ4VFJ2OUU1Mk9VeGJRZlEtU08wX1Y3cnNrelU2Qk9lc1pMbUE1WmFJcWpVazFBY1RULUp4OENDXzk0am1WZ3JVd2RhbUh3QUJzcm02SkVoMV9USjZGMHFoYWJaT2FIckVvU3c1aFVta05WajQ1SmYyVEx6WmE1OTVtN0RhZmhRZ3BvMHJOWDBCM3h2c0dRd08ySGJ6NnhVODREYVJlckJaWnRwZlRGZHhYYVh3aVE?oc=5"
-      },
-      {
-        "title": "Przejmujący obraz po nawałnicy. Nie miały szansy w starciu z żywiołem - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV3pUMnZHdGlvbVpObnBLR0tKTDVzX0J1bjhEV21LcE43d2xhaFdfcTU5WkJfX040ODJNNGp5SUc1Y3JfNV9HU05vZm9KZXo5aU5HeE1TcFh0bzEyVElxNWw2bkxRY1RCQnNaQVJHWUlzZFdIVmNrbVVSdm14R1JTb0RHQkdaRDliaVhsRW9DLWxoVENRbjJZaXc2ckZkMkoyRDl0bGp3REEwNGtXdjVzSWpfR0lHeTQtM1BCM2dBNDAweUk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-09 11:17:14",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zderzenie ciężarówek na A4 w kierunku Tarnowa - Remiza.pl",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KemRTRXZBTkZuclZ3ekdGYjFLenJJVGlTSG9WbUFTd2d4ZGRkQ1kzRXppRTNNSzlyakhzVi1xR21JZjAzb3U0dzMzeFlvRGxGNUtGcFRPWHRjZk91RlB4bklfTlBEeFdJUVJQZEhZei16Z9IBckFVX3lxTE9KemRTRXZBTkZuclZ3ekdGYjFLenJJVGlTSG9WbUFTd2d4ZGRkQ1kzRXppRTNNSzlyakhzVi1xR21JZjAzb3U0dzMzeFlvRGxGNUtGcFRPWHRjZk91RlB4bklfTlBEeFdJUVJQZEhZei16Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-11 16:14:33",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 430173,
+      "DOGECOIN": 0.735749,
+      "ETHEREUM": 10924.95,
+      "LITECOIN": 352.84,
+      "RIPPLE": 10.07
+    },
+    "indices": {
+      "^WIG20": 2858.57,
+      "^WIG30": 3701.95,
+      "^WIG": 3701.95,
+      "^NCINDEX": 252.06
+    },
+    "news": [
+      {
+        "title": "Rosja zamyka polski konsulat w Królewcu. Sprawa ma związek z Marywilską 44 - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1FhUmZ2RlBTeEc2N1VmOEw0R0pTR2RGZFZYWUtmSHlwZkdIQXBRMFV0SjJoRDdqNGpBUUNSX3dESnJsbEt5X0lRZmZLTEdqSDU0bEY0QllKbkNQOFdIQ09tanBOUUlydzdhNU1YemZqRU9CdjRsdG9QSmtyQWVyVUJOLVEtTmY0OGo0bThkc29Pd0ZIbk56eFRMVlVGay0xOWpadmhUSU5XM0FoZGxVSl9VNjRRYW8xTXRwa3hqdGdUVUJCUVdF?oc=5"
+      },
+      {
+        "title": "Polacy upamiętnią ofiary rzezi wołyńskiej. 11 lipca obchodzimy święto narodowe - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnkzdXVHVk5YYVBTV2RWM1RCNUJnZHJvZ1pWMXR3enl4QkZDekxSeHpmSEhTLVhickVMdDUxOE4ybFFaTWtLTHU0Q2FPZDM2RGxZUXpzUUkxRTNMdUNVaFl2TTZiQnZITDZnX1h6ZzlLSEh3b0s3bTUwdzhtSzFxWjZBR1lJVC1ETTRKc3FOX2kxV1hWOG1RMnhtMVNWenV5QjlzSjlMUk12OExIUkFvMTVaVQ?oc=5"
+      },
+      {
+        "title": "Lepsze wieści dla Donalda Tuska. Jest nowy sondaż - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2FIOTNaVmlRbjYwWXVBU0F0c0Nfa0ZoalhycXl4NEwwbFhWaXhRXzdpRU8wSmdwWExKUkk3N3ZySkE4QmZSdlY5NzU4SW5IMkhEbU5SWmZGUnJyZjdTWndPaFVVZk9kLTI0RlMwcXBfTXZUekFrbXF2dUhvRGtlbFR5UExnTzhWbFNKRURHS1RLc1didU5VbWgyMVQtYUU?oc=5"
+      },
+      {
+        "title": "Zapytali Polaków o Hołownię. Tak oceniają spotkanie z Kaczyńskim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDdDZV8yWHdPYzFibmZVYkdJTXRvQURsQ3dRUktvYkxfTHk4b3V0RDJkRkJxcEgtMEdRdWd5NWdwT2RaMGpGZVhoY21HN09hQkViZ1FFOTU4QnVDM1RTN0VhRjl4YjFkTW1KVVk4Nm9PUmJ1bWRLV3AyVndUTDV4M2l0ZWhQZW1ZRGZmSlRDNEg2NVNqUmxOdXc5X0FhNFVXWmVkNmZaRy1hZWc?oc=5"
+      },
+      {
+        "title": "Dramatyczny wypadek na Wisłostradzie. Zmarł 13-latek, który walczył o życie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmhkVWVLTHRybDJNeEl5Z3ZDdGtxdHNfNVhjMF9FT3FBMFgxTTBDZmYzTFdyandYREFTZFlVQnI2ak1VSjl5c1Awa2o0cEl5U25fVDVqSXB1My1uV3pVdFFWM1o5VG51eXVvVU5vMWxNY3UwenJYdGFqRDJsNG1xdHdROXZEZ0pxalpHLUVxbF9uc1JQSzdlNWZqN21JUXJQaFJxSk80TzY3akN2YlYyTG8yRnRoMkk1V1RweWZQRUJlTThPOHRtTlJCOUZYSjA?oc=5"
       }
     ]
   }
