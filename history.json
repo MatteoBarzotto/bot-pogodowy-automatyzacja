@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-09 17:15:43",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6198,
-      "EUR": 4.2399,
-      "GBP": 4.9232,
-      "CHF": 4.5451,
-      "JPY": 0.024677,
-      "AUD": 2.3638,
-      "CAD": 2.6452,
-      "CNY": 0.504
-    },
-    "crypto": {
-      "BITCOIN": 394924,
-      "DOGECOIN": 0.624589,
-      "ETHEREUM": 9598.83,
-      "LITECOIN": 320.36,
-      "RIPPLE": 8.6
-    },
-    "indices": {
-      "^WIG20": 2897.67,
-      "^WIG30": 3753.92,
-      "^WIG": 3753.92,
-      "^NCINDEX": 249.19
-    },
-    "news": [
-      {
-        "title": "Tak jest! Iga Świątek zagra o finał Wimbledonu. Ależ walka, 3:0 i zwrot! - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDV5dE5vYURnTUZsWTcxM2VxY2thRjUwbXhvbVF6c1A1dnFvSWxVc21LbGdrYlVKMGZXLXZEWGU0Y3g3NWVjMlpjdmpFY3ZMWWlBZXBnZzNZaTJxZ0VReXM5MWZzTWlBckEzMy0xSmZmMi0tM3AxeEVRM2IxT0hnOG1IOXV1QlN5MlBFU1R1OVFSU0ZGQU9yVEppUmdJSExUaVJhVFRrMzExTzE3UFFjMmZxVHBuTUNHMmpWRE1wQk5VUQ?oc=5"
-      },
-      {
-        "title": "Znamy datę rekonstrukcji rządu. Termin przesunięty na wniosek Szymona Hołowni - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcno2bjdMWmZ3aEU5QkNwOHRrYmxfZEZYYkJueGh6cmIxZDIyNF9XRXBWYlRNLXdkS2VXZnYwRC1HNHFLUzVmandlWTlxaHNfVGNSZm9HQmlYb0Vzal9SZ05qV2tYU1M5ZmNNRUMzVHVuS1RIOFEyM0ZuZk5BVzJ2RGVWaE9qM0U?oc=5"
-      },
-      {
-        "title": "Zobacz aktualny radar pogodowy. Tak przemieszczają się opady - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmVMVldaZGctUWlMUnU0MEZSY2hsaDdPSjNnbUx6Y3ZOQVp3WnBaVjdUQWFLcXVlTktMVnNxcWE0VzJJcU5KQk5fWHJDTERaY2xtWnZuQWRUT2JGU0RTRjBrRzFocVgzcUJCY2hxU1RCNFZLODVibE9yNEVzbUJ1RTBTdVdxanhPaWxObzRXa1NfTXZaQnlCRy1zN3B2dGtENmtoZg?oc=5"
-      },
-      {
-        "title": "Media: Polska zawraca z granicy niemieckich turystów - DW",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUJURXlaaG5OeXNmcXdSR2lUeGF6bjRuZXRPVXY3blpJZTZjbEUtZlhEd3lzUnJqTXFTVjdtUWhBcUs3NHhQZjNvY2g5b0gxSWZHRkR0LTBwYjkxV0JWM3FaYmh2QW9IZnlIeVJUeHpoT3VDaThkTGhUOS1YY2RkcVd2cTVQc2x6Wjc5blp4d0ZMWll5bjJQaWM0c2dFREpqMlN0UXpCQ0F1NkZNLWdFNNIBsAFBVV95cUxNbEprQTZhNGtJT3EtWG9WRXpRbzhpRzFOUlpMRS04Q0NfeUVwZ0poSnpqLWdPVE1sME5FeDZscXg3VXVVeHU1T3RiNm5MRUJwT0VrWWc4T3F1T1ZhYW0tdU50dW45ZXppZGUwdTJ2Zk5GVmdxN1Y1bHJXWHBvNTg5YTNVaDlPWG1QbnUyQ21QRktpbThWWGlLQVV5Tk5FZ3FyeGpibV8xVnFZM1NYNzhzZw?oc=5"
-      },
-      {
-        "title": "„To może dziś Szymona Hołownię jeszcze politycznie uratować”. Prof. Antoni Dudek wskazuje - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGZyREhQcW9fNTg2UVhVUzBkZlgweFN6MlJlUW1aWmdxUUxNY1Z3SmdhYWxnVmZOT0Y1a0ExdjhPV0VUazJsODUxUElXcFJkM2hMekRjTjN2a1AybkxFMk1NQzdweUxVSUNmM194Y0tzanVjWnl6MHFncVhjeWZIQW1PVGd4QnhLSmlMY2t0dzlyOVd1OWFoamluSHpvbWNpTFJ6Z1lQVzRITUJfYm5ZSkZlVExtcllBSDg3UUo0b1kwSFh3MFdBdEhPS2tYTlR1b242MmZnT3QzdUFwNHRsNjlKLXI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-09 18:16:06",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zobaczycie, co się wydarzy\". Trump zapowiada ważne oświadczenie ws. Rosji - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFI2OFUzYm9nZ1cyTGRSc09qLU5pcl9kRk53TnlJTWVuT3FpdjY3blZTX2o1OHl6eGpGbm5fclRkYnZIcnlpX2JGR3N4RUZsbVJDX1dBQjVjeGlRdnRrZzJGWFh3S3ZnNHNJQWE0NWJud2l2QmhyNHA1WTh5VEJLUjl6VnpodEQtY1A0SDZrZW5meWJiZV9CME96Q0xDVTQtRUcyTjB3aktndFI2MDNmazF4NzNJT0pBU0xteDNUdzVtQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-11 23:13:31",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 429414,
+      "DOGECOIN": 0.752588,
+      "ETHEREUM": 10877.06,
+      "LITECOIN": 348.94,
+      "RIPPLE": 10.03
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński reaguje na słowa Grzegorza Brauna. \"Działa na szkodę kraju\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlY1cHJWRTlCbGJvSGVhZzlmSzMwSEJCTUUtWWpKeG9qcGY0TWExWDVHOFpFQnp0SmJZdjgwcFhtZ0laYlR2VXN0alRHRW00dVBvX0lEN2ZscFFXRVRhQ1o2QVl2RHlBMHdRbjgzUkRSaUhXWlh4UDlhUENHSlZVXzhLZjJzVnJZU25BTDNBakdmcmdhcHp5eVphN3V5NmFTaUFlc096UXJIQ29RbkpRemw2SWZEWG5PUWtvVjV5WjVjX3liMHk5SVpNTE56ZDR0Tzd3MQ?oc=5"
+      },
+      {
+        "title": "Polacy upamiętnią ofiary rzezi wołyńskiej. 11 lipca obchodzimy święto narodowe - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnkzdXVHVk5YYVBTV2RWM1RCNUJnZHJvZ1pWMXR3enl4QkZDekxSeHpmSEhTLVhickVMdDUxOE4ybFFaTWtLTHU0Q2FPZDM2RGxZUXpzUUkxRTNMdUNVaFl2TTZiQnZITDZnX1h6ZzlLSEh3b0s3bTUwdzhtSzFxWjZBR1lJVC1ETTRKc3FOX2kxV1hWOG1RMnhtMVNWenV5QjlzSjlMUk12OExIUkFvMTVaVQ?oc=5"
+      },
+      {
+        "title": "\"Pełnoskalowe ekshumacje na Wołyniu\". Nawrocki zwrócił się do Zełenskiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDdaUTIyOE9tTUZwYlZxa0dITVFjVjlZUGF0cGVOWWtGY1JyQzYtQUItaVdDUnpOeEEwdlowQnhjTlVzajNiZnFkYTlULWdBMno5Q0VfN2g2bkFqWGJSLTk5UjV6d1NtSFFHRW5aX21TVWx6cDlKNjlwVG5SalJoMTJaNHRrMi1ORFVrVXNia3Q4UFlXVFlPaFpRTlhGYXZOaWVmakJQd1lSSlNVYzBjWGxFZVBYWEw2c1E?oc=5"
+      },
+      {
+        "title": "Zmiana terminu rekonstrukcji rządu. \"Względy osobiste\" Szymona Hołowni - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWdOR18waHYweHctM0ZaQjdfTnc4OGdGZE03NFd2cWd2X1pIem9rd2lLdmZ6M3cwTXQ3Tno5SmxKRmxPWHZla0pJREF0MGZzY0RRVkxIVXYtN2Uxa1R4Yjk0RDBGeW1rOFpCaWUtaUpseEpwVEQ3U25CV05xNXpsWTdlYmNsNktUT3RZN21MakJMRTY0Q0F5WUd0eVBNQ3VWY1NfeVVZU1haUXhlYm1YVm9iaWxJZVMxZXpYNXJYUQ?oc=5"
+      },
+      {
+        "title": "\"To się pożegnamy\". Tusk wysłał sygnał. Posłowie: powinien się zastanowić - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWU1DZm1YMTVuMGFLeTZERW5pYVlZdi1uSU5hMG1WejByR2ZzOE10Q2VoNktsdnF3OW44RnBfdmQyMXdHSzU0Z216cUpqWW9wblVVcFNDSERHUHR0RTgzVHl0N2Rhblp3WTY0M2YtM05YUW83NFVUMUtaWHVFZDRqeUFLUEFNZ1FTVlRyT1dRenZfZlk3N2VvYkcxVjJMR3ltakRXc3MzZ1hiTXN6REpiSg?oc=5"
       }
     ]
   }
