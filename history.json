@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-08 23:13:40",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6135,
-      "EUR": 4.2455,
-      "GBP": 4.9189,
-      "CHF": 4.537,
-      "JPY": 0.024717,
-      "AUD": 2.3637,
-      "CAD": 2.6481,
-      "CNY": 0.5037
-    },
-    "crypto": {
-      "BITCOIN": 393743,
-      "DOGECOIN": 0.616448,
-      "ETHEREUM": 9433.77,
-      "LITECOIN": 316.09,
-      "RIPPLE": 8.34
-    },
-    "indices": {
-      "^WIG20": 2889.54,
-      "^WIG30": 3745.5,
-      "^WIG": 3745.5,
-      "^NCINDEX": 250.45
-    },
-    "news": [
-      {
-        "title": "Rozesłano pilny alert RCB. Zbliża się wielkie załamanie pogody - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0c0THFBdFFqWlllTG1mVnZUNFRBa3hBNVRzQ2dNdGNOVU1sclNLM0FOelZWeWVCVGhMRHRMQUZldEtlejY1YThfTTh4MnRaSzMtYlpZSjk0bzlrT2ZZZUpTNE12YWJkbGZKNHRGOThCSkZpdXROWlVITHBGbnBTMjZEdGNOVGNXQjF1TnA0QVRzdzBXRmVMYXZHLWQ?oc=5"
-      },
-      {
-        "title": "Prof. Migalski ws. działań Hołowni: to może być koniec Polski 2050 - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXJBd1pFbTJmeE5nS2lfaFJIMWxBLTFidDN6UkRNbTdCMVlDcFhqYk5HbVhIRUZOdVRjcFdYcFltV0k3eWptLXItM1ExZFh0Q1Q1UEN0eFZzN3VqdkI0UkczazNJSjNrUW5yZEE1M0U5NWIwZUZpY084Q3Y5eTBabG8wMDRYT3VsZzBPbG9zXzVPWkY1ay1wNTRINVlEZWNXaFNz?oc=5"
-      },
-      {
-        "title": "Miedwiediew komentuje decyzję Donalda Trumpa. \"Bawi się\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeS0ydGVqVnZiRDJSSWQ2M2hvQ3A5QkdFQ0d5MGRTWWdrTDhjZVdZcjRidWRlTkNkalJaUzR6eXIxeFVPYXRhVWlMRVpUZVBOY0QwUHl0TlVNZ1BXM0JhRXFJSWdHeEI5TlllTEl0eUI0SWt5T0dWVFdvX2JuOGVxa1NBZVB5dXhnVXNfdnhPOGkxRkNoSTlMS0FBX3kyTU5USmJ1Q1ZycnluNVhIOExFZU5LWkprLVU?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia traci posłankę. Złożyła rezygnację z członkostwa w partii - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZldtMlNudS1qeGR1N1FkSTUwU1lnRjRGN3NzRHFVcHF4ekZ5SzBMVHVPZ1E5YnBVakFxVkNNQU9zVEFDTlQwaERSRTBvMUdud1AyWkNQdElITVBvSWNUcXY1cEFaWE9HbEpTQ3A4LUNTWjBPUTFPYXBZdVB6Y1hxczl6cW5OLVRHSGJLRVRzUkxEbXNDNUFjSnFMX3pEbWpjSW52V0hBUEhkRTlTWEx6V1RfSXpFUGQzMGc?oc=5"
-      },
-      {
-        "title": "Dramatyczny pożar w Ząbkach. Policja publikuje zdjęcia z działań - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1EwSmt5c0ozc3hjSERBM0NQOFZ2YWREWG9PeVNudFRUS2wwNmFUbDBjVVhjbEROTHgzcTNKdkNEY2RmdlRQR013X1ljcDd6UXBjcEhsVFJsVGNFNExSN3Z6MlNlcmRTb2lRc0llZWxsZDUyZVYxc2RIN0tya05lYTlSTW5NZjcxaUxRRzBTbTRqbW1yVEZSdjl3bkJPWnFXcEppRTY5ekNBMkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-09 00:14:03",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Skandal w Jedwabnem. American Jewish Comittee reaguje na działania Grzegorza Brauna - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ2NqVWoxUFVucmZjT0tXS1RkZU9WRTREMzNtejFoZ2tYeGVrNnZ3VlVhSEpkMVV3NUVGYmd0ZUdkYWxISk8wR3ZMZGVQUUhYQWJra09oT3dKTkFIMk5NQVB4QW9wN0dPZFU5Y254QnVuT2ZISGI0MEZYSE85NlV5OVkyazZKWW9ZYUVOeFJOVTRfYmVNQjZsc2xnbS1vWm5GXzA1QUZJazM2OW9FcmM4N25UOXk4S01tdHhkOUk3SFRteG1nLWR6OFFGMEFUb0h3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-11 07:18:25",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6209,
+      "EUR": 4.2464,
+      "GBP": 4.9265,
+      "CHF": 4.5535,
+      "JPY": 0.024739,
+      "AUD": 2.3741,
+      "CAD": 2.6478,
+      "CNY": 0.5044
+    },
+    "crypto": {
+      "BITCOIN": 427047,
+      "DOGECOIN": 0.727727,
+      "ETHEREUM": 10892.44,
+      "LITECOIN": 349.79,
+      "RIPPLE": 9.4
+    },
+    "indices": {
+      "^WIG20": 2850.58,
+      "^WIG30": 3693.57,
+      "^WIG": 3693.57,
+      "^NCINDEX": 252.27
+    },
+    "news": [
+      {
+        "title": "\"Paskudne i wyjątkowo niemądre\". Tusk zniesmaczony wypowiedzią prezydenta - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTF5SWV0ZDlxNjBwX1dpNWM4ZkRrWHZzYXFkdi1WQTFrTFUxeURUeWtKZW9tN3Bnck9Ed0w0eXhaX0xlYmRrRndVSVpCbkp4SV9GdnlfVm93NlYtQlh0cmpGYVNZTFE1LTRWVkFEcjBPelVsSjB2MVVuVGtJT2l5ZXJfR2U4MGYwd1VOZE93TUEyTjYwTEZMZ3pUMkNtVnlnaFhpRC1TQklYdkQzaF9Remln?oc=5"
+      },
+      {
+        "title": "Donald Tusk rozwiewa wątpliwości. Polska 2050 bez stanowiska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclhpZkZXdngxSGwxQjVQbXdsQzBKWENxX25CS1A4a3JiU2t4M2hBTW5QVUJIaFdFSFRfT2lrVkFWeXBaRWhxa1RqYlo3clVqcmZMUndaMkdMQmlNVTNlVERlZ01rQTd3dllNa1NIcU5xSk9ZTEVSRlBSdUcxWHd3UG1kZXFGd3U0TUlmT0IzRHNxLV9oeFFnY1ZSVHBIUnViNDlYY3lVR2g2ZUttZ2EweHZOLVFuVWtDWUF3V2Jn?oc=5"
+      },
+      {
+        "title": "W radiu przerwano wywiad z Grzegorzem Braunem. Prowadzący mówi o „przekroczeniu granic” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEdLd0ZrYm1ZT2NwR1lrNnFaUGhIVzllSmlrY2hSRkxMelVMY292VERYSzFydGs0NVhBbm1UM1Q3MWo0bjVCa0lxVXVqYU03cFdyTThQc3I5SUZmUmduRnZZcHFTRjhGbUNLbnM0MlZKNFVFbDkwaUctODNDMnFFenp0Uk5sLVRSc0FfcEV5THdzelI3eGNYVFlDaHlkUF9vc0h0WEQ5VWN0VnhHQUFkd3F0X0VpUEJaV2RFRzMyUjA4Yl94cjhXSw?oc=5"
+      },
+      {
+        "title": "Powrót polskiego astronauty na Ziemię. Jest komunikat POLSA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHFIX19tRXBOSVJISDViN0pyYWx6RWQzckdRMDRIazlwQVFXNnpOQjFVTU5UdGF2WG90NkkybHgzSExtTUZVN1UzZTM3TGJDOXZvN2RiUENCT2N2VXZ5NVBPYUxlTnE2Tmp5ZG9rdVYyQmhMV0gwdUxqdTc5NlJuSU5nTW9HV0IwcjlPMXFnZWk5dHlUZDRIOWd6eFVjdTdidmlF?oc=5"
+      },
+      {
+        "title": "Echa skandalu w Jedwabnem. Zmiana w pomocy USA Ukrainie. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3dzS3ZGcTdSWUdqMWt0UHoyVTVJc2FMM2haNHhueWJXN1ZJMDdINHowMWg3UjJlZUFJYWlFc0xTSTRQdnVwYUJQakpMeWszcDY4VGN0ZzB2QWZiUFhyS2M3aXl4b3NjVVZ6anRKQnVNT2tiZThHdGgyc1pBT0VlNzNaemNtcVYtdkRZZ0ZxbVowUzhFSEdqbE5HMGNuNkI0eWRJRWlnR2xZMU5uVnhmSDNR?oc=5"
       }
     ]
   }
