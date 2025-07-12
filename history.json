@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 17:15:57",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6209,
-      "EUR": 4.2464,
-      "GBP": 4.9265,
-      "CHF": 4.5535,
-      "JPY": 0.024739,
-      "AUD": 2.3741,
-      "CAD": 2.6478,
-      "CNY": 0.5044
-    },
-    "crypto": {
-      "BITCOIN": 404612,
-      "DOGECOIN": 0.654151,
-      "ETHEREUM": 10087.17,
-      "LITECOIN": 330.74,
-      "RIPPLE": 8.87
-    },
-    "indices": {
-      "^WIG20": 2850.58,
-      "^WIG30": 3693.57,
-      "^WIG": 3693.57,
-      "^NCINDEX": 252.09
-    },
-    "news": [
-      {
-        "title": "Polska2050 zagłosowała z PiS-em i Konfederacją. Hołownia tłumaczy dlaczego - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXdXb0J3VDhITzRscXVubzhKZTM1NEt4WG5Ta1lHampINDc4eUhoUXdJdFdPSjQxTXlrZHdxUGNZQ2Rmai00MkdVWng2UDF5aVZjdUhpcW1JMm0yUjg4Ul9OaW5xbUNEN3Q4VmZtazVPXzJrQmV6TjRBd1RZeFJJb0wyQkYwZVVYRHZkTjFqc0YtcW9SZFY5OVVfMFZZU1cyNVBDbzBnRzJJcXNvOTQwSGE1MTMyVzJmbVZV0gG6AUFVX3lxTE5aS055QlZKejBCM25MNkVpVjdpTmxsS1I3OEowa054TXNseHNWcEZ1c2xWYzlrMl9XVWZRX05pdWdoNk5UWG0yZnB6UWdYQ2RINDdzWmNsalBaNjJ2UnBFLXhxZ2JKdG9DNlFaVjVhWWlTdE5aS0ZqR0NGMF82ay1BU1ZaZVluWVo0TDhDX01iLUtIelhKU25NQ2tPN0xpLVRlWEVuRWtMekotb2hGZGNrOGRFcnBZQXluUQ?oc=5"
-      },
-      {
-        "title": "Ma zostać szefem Kancelarii Prezydenta u Nawrockiego. Oto jego majątek - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVd3TV9ZaXVMdTJHSGQyYzItQmRJNERrMV9FcnVsRHBONDNxejl2ZWJMQTdlSTVxRlp0Qm1xcGU2LVRTSmswZzhETzFaQmR4RVJDX1ZXdkVFemlHVlM5MzRpZVVnU0d1YnJMVWpfR3NqckhUNFdYMUducHBuTmVlUkw5VEN6TmNtZFl4amhCZW1LclNwMFJFYzA0ZzdVb3VudmQwX09pMHJqWTFKYktmdEFQWk9qYXJMVlF5SWoxTUxPdw?oc=5"
-      },
-      {
-        "title": "Preisner zwrócił się wprost do Hołowni. \"Zna pan historię Judasza?\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnM5Rzc0MjFHOXBtNXJJY1p2QUMwY21LbXFZWVl4bC1QTGtjeXpUSDkxOXdjemFSa0d1OEktWkFGcVVDX0s0Q0RFMnR4QXdJelBNUmZsa0tNZFpMLWxRWS1HUDllRTVJVXdhdmZudTI5VjhpNDVZYjBzTEgzN0s3VTdSUjk0MzdLTUl1UzZZUGZ2Z0ZoRGdPSmpHX1EyUzVsd1E?oc=5"
-      },
-      {
-        "title": "Polski bank mocniej wejdzie w pomoc dla Ukrainy. Będziemy w gronie liderów UE - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWk5TZ2JLLXZZUlJ3NGE4SVNFRWF1TE1MbjV1S2pYcnZFMzB0OW1Kd3ZLNG4xM29nMVJuVXFobjRyZlhHdXdvcE1QcXF4VkM4Mk5yaGZDS3oxcGw2WnFsMWRKdERHZlNhVWZPVUQzVHh1cHZ6MThZMS0yUG14ZS0wcDk3UTlteGdfUjk3SnNQcFU1YnFrSTZyWS1maG5lYVE1cGxzVnhEbUI5cl85Y3E3SGZRd2xiV1llM3NDdHh3?oc=5"
-      },
-      {
-        "title": "Pułkownik SBU zastrzelony w Kijowie. Napastnik oddał pięć strzałów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnFJMHVCU3llenBHRTROQ3hybzBnSDVyRXFjcUJpaFZBeTVlQ2pxUlFuNkRzVk9pQlJ1QlJRWWJaU0k4N2VEODVNS3NCUElKMXNOV2hTOXlNRkdLc0NNVTgzMmlFVEU5Nk0yU3ZPekM3MnRZRk82R3gwcWdTcjhYTzFQdFR6ZXExbVpIanV0NU4tcmIyeC00MV9hWTJmTjJwWGVNMWM3Z2txeGNpeGtTZHI2QQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 18:18:13",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Szukali zaginionego. Kamera termowizyjna pokazała plamę na polu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTF2YjJRTzNoblpxU3dlOXAtWnBTMkFRa25jQjZhYkM3V19TV1NxWmhRemduY2w5MFZIekhVc0tHU1IxNklTUzg0VW01dGwzbldpWVEtY0RaeTFEMmVJZ01JeENzSVFSMWlUQ3BRTWtEVGY1REVCUm1LTFVQY3M3aTFBTW9KYUxUaER5R0lNMVZpTUpEWEg0aVVQX1I3S21zZGVTRjdhUGhtVnRaYkRUSmkwcEY5aFU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-12 23:12:39",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 427874,
+      "DOGECOIN": 0.710719,
+      "ETHEREUM": 10671.73,
+      "LITECOIN": 336.56,
+      "RIPPLE": 9.87
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Iga Świątek wygrała Wimbledon, ale co wydarzyło się potem. Jest komunikat organizatorów - Sport w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS05fSHFOanptbk5DMjdZYlM0UkRXbUpKZTBvc2F6QjVUSGZHeTlCLVZSRWY2cEhUaml5NXd6UHQ5TW5hUW00TmZVbzkycDFQOVFXZUNQeVVicGVTd08tblZ5Wlc0VkFWaXVIQm1ncmlOZXVJaUhfV1BOSkd5ZzhDY1JzLVptX2lrSloxcC1oZ3N5Mk1ibUJjMUZ6YmF2RXhsZTVYSXppY1d2SzB6U0ZIVHNTWjJBQQ?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek na Wisłostradzie. Sąd zdecydował ws. aresztu - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXoxZFp5cko3RzBsVUNvOHRNN0VSeTJoMWRrSnlYMmtLZGVEOVFLQ2pBdk8zZk9aS0dWQldqbU9SakNrLTFVU3JmNmcxOEtNWG81S2I5S3doaU5zd0haWjhnbm1IUG1NUGIzZFppd2xyMUhNalVVN3RFZW1ETVd2WDZ4cUU3M0J6QUl4bW1TUFpQNTFJSDAzbVE0Sm1UNW9Ya2lGTkFNSjFnVmVzbVlGUGxxbw?oc=5"
+      },
+      {
+        "title": "\"Prawda nazywa zło po imieniu\". Nawrocki komentuje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk1aR1M1YVU0d0JSUl9VZGNNcXNHREFLUkVxZld1eVpIZ29pcVVfSzdNZk92eElBZG56d1JQME9vLWJUY1o5SktnSXdoTlc4ODEyNERCTjJMcjZ0dS11MUd0QTJCb1hhOHpLNFNnel9DYnJrZDhYQ0t0NFA1blR4RUFBeXFyNjRlRmxpSWgzbko0MXk3?oc=5"
+      },
+      {
+        "title": "Szukali zaginionego. Kamera termowizyjna pokazała plamę na polu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTF2YjJRTzNoblpxU3dlOXAtWnBTMkFRa25jQjZhYkM3V19TV1NxWmhRemduY2w5MFZIekhVc0tHU1IxNklTUzg0VW01dGwzbldpWVEtY0RaeTFEMmVJZ01JeENzSVFSMWlUQ3BRTWtEVGY1REVCUm1LTFVQY3M3aTFBTW9KYUxUaER5R0lNMVZpTUpEWEg0aVVQX1I3S21zZGVTRjdhUGhtVnRaYkRUSmkwcEY5aFU?oc=5"
+      },
+      {
+        "title": "\"Paragony grozy?\". Kupiliśmy gofra tuż przy molo w Sopocie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzdYTWxmY2RNRk1NNHhmLXhTbHQwOHFUWnd3TExOSG95U09NVkYyR0lWd2JQM182VG1nTWpfMlRsZnJ2ZmhrcURFYXM4a25YN0xKNzFFRGYyRy15czVOTjlUa05XOEY2aHVvVmZmdVFteWFCZFVNaE5iM0pQWGhyS091MEhHdzRPYTFtc1gwTGJQcXlvbGhFTHZlS0RTdw?oc=5"
       }
     ]
   }
