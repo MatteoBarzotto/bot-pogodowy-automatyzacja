@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 15:30:09",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6209,
-      "EUR": 4.2464,
-      "GBP": 4.9265,
-      "CHF": 4.5535,
-      "JPY": 0.024739,
-      "AUD": 2.3741,
-      "CAD": 2.6478,
-      "CNY": 0.5044
-    },
-    "crypto": {
-      "BITCOIN": 403067,
-      "DOGECOIN": 0.656253,
-      "ETHEREUM": 10120.35,
-      "LITECOIN": 330.63,
-      "RIPPLE": 8.87
-    },
-    "indices": {
-      "^WIG20": 2860.8,
-      "^WIG30": 3703.39,
-      "^WIG": 3703.39,
-      "^NCINDEX": 251.12
-    },
-    "news": [
-      {
-        "title": "Cztery mieszkania, 235 tys. zł oszczędności i pompa insulinowa. Majątek Zbigniewa Boguckiego [KWOTY] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2FrNkR6bWhpeUVORU5xUV9EalA4SWZ4VUV1WnhpemRrMm8tTkRCVU02aFY0cURsTzI0OURXaWhCRVdlSGFveFhnVXFuWXEza1YxempsWk5LZWY5RHhRTlBUeFd3MGdqQ1piUGh3aHRoU2hyLTl3OHNCSnRyNGtfMWJGXzh6enZIMzdVNUpNZzc0MkJIMnRPNG9OV2dRUnB0Y2RqdTZVeGROLXl4Rm5nZW1jcFQ?oc=5"
-      },
-      {
-        "title": "Wotum nieufności dla Komisji Europejskiej. Europosłowie zagłosowali ws. wniosku - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzlmSTdWMjBoTnV5QmZJX0tqRzN2LVoxOXVFRmxscm9LR3dFX0JQcVFaTDlnT2w1cHAxVGV0dS1QaC1famZjWWI2cWlVR3NxT2lQT0NGeXRlMVdKQ09kZHRWMC1JTG11Rnd5RFZVQkN3VFZUZXhRdjE0NktZcE5taUhJZU50Wlo5cHZ4UVk1VUh0Nlk5WmVJNHVzeWxUNF80VDYzdnpNbkZ6WXRFVGJZUl9uQ2I5dVI3bEE?oc=5"
-      },
-      {
-        "title": "Interwencja służb pod Kancelarią Premiera. Przed budynkiem zjawiła się \"kobieta z kanistrem\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeE9fYXNEQ0cxUk1kbkRDNFNUSXZuUVNPNG4tWTRDWFpaZTVWVXV4UjJ2RFcxWTd1TUM5bXVFb2ZEOGZtaDNfSWllRDkySWxtRk1jbVlZc3ZNR2d6WmJQOU9WU3FuNTUwXzJMYmFqVUNKcTZIX2NDQlo2VXRlMVpoQU95S083R1UwX0k5Yjcycl9Ub2xxU1ZuWUtOd0hTWmlKS1RsMU1XTmFMYnNmT1RTVWcxMlYtT2VpRDBjLUV0VjlLTEp0Wk5uVnh4SjBOYkhsNHdORUxkVQ?oc=5"
-      },
-      {
-        "title": "Białoruś naruszyła przestrzeń powietrzną Litwy. Przywódcy ewakuowani do schronów - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjdEVkYxLUFqcVM3WXNRem5QUERzOFhIOHdmSG1KUFFsWGQ5TDdST0l0WTZrSEhBTFJpZUJ1QjhoU05oeTdmY2kycHlWMVR2WTB1TVFEY2FsVXlfQlBYbU96TlJlZlZSYlFkN3kzMkp4VmM2Yzc5V0s5anBXSEhPSk5pU1VLRGtTUWN3c19VcVk3ZUQycnAwTS0yUnAtWENBLWpGQTBVRW1menVLRUJFWUFUdUZNTU1SZHc?oc=5"
-      },
-      {
-        "title": "Przegrali głosowanie, bo zaspali? \"Nie stać nas na tego typu wpadki\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2I1QkhRTm40OHFDQU00aTAwZUJpc1JfNmV2UFhmR2hHcXlSdDAxRlhtMkRySG5aZkZoUjBLOXlUMThxU1ZuS3p1T21hNHdsUVROUGt1VjV5YUswVWQxNGxVbFZwd1h5OHA2QmZOWEtrQktqUkNwSEFSXzhNX1k3aDNGWGkxYU1ZWm9ySlpNNEsxczlVWVlCengtb1ZkNzBGcUY1cXlTQTk0OE3SAaoBQVVfeXFMTXNjQ00xb3ljcmpVZk0tcGt1eUtvcl9RaEZGUlA3Tlh6dUNIMVV0N0ktMGlBOE84NTV0aFZtNjVyakRyQUpLZFBockZXd3c4dHRJNkpRVVM1QnhqYXlGU2JpcEJ0SUR6RU9FbnpFMEUtcEI4aG9LQ19HUVdjZTc4bFVqUDduR1dLWVlDU2VMVzRMb3ZpcTVYaFFCQ0d3aWdMUVVBR3VGOEVEdFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 16:14:47",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Mazut w Zatoce Gdańskiej. Zamknięte sześć kąpielisk - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVFQZ1Itb0o1ZThfU3pqUEJWY09aTUhJWm4xdFFQVnVMWk9pQnQ4bVlQRVlSQW1Rek5LV0RvN2I0VktyS1ZhWFFMS0ZnT0FaYnhWUmhNaXJvRlBkV3YweHRxbkFsREVFZ0lGN2xEcDY3YkxSSjlTRUFhOHNYNjBIOUxKOFhGV2t1aFhndkZVWHN1Ykhab3NYZGFFeXVKTjVOWFpvUWlOVFVrWVRiNUhiT0xhelM2NkRncUhqNnU4cTdtWk5WZzNRTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-12 21:10:36",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 429144,
+      "DOGECOIN": 0.722436,
+      "ETHEREUM": 10743.25,
+      "LITECOIN": 338.01,
+      "RIPPLE": 10.03
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Zmiana! Oto ranking WTA po triumfie Igi Świątek na Wimbledonie - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQck9kNzBkbkhjS3Z4V2tkTDgwbW9KSWpNckp0cU10WW03WUw2clFOekxJYWlqNnJwUXUzUm9OQXVNeTZPV0hBNVB1MDZhRmpZUUViWnAyc01qeVU1TzdyZ190V011MXhiLWhpUnowWTMyNjJXaXNMUHJVSGNMR1RqQWpsUEZ0aGhHaGphM3M1bENtSGdVMVJuekxrV2JyRnBrMURMMVhxSXhvWlpjRVBDMjMwbVd2WHRTY0E?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Wisłostradzie. Nowe informacje prokuratury - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlF1WjBsVU44WXBzcHpUMW9TQTlJMnQydmdBQTdrQS16QTFSTnBKc3BKbUY3ZDdOZ1F4NUE3VjNyUFlGZ1JScE4td3ptMkRLMFJHOC01V3BpS0pfTHdhNE4xZTcwRFpHbXBNVEhCYjVzOHIzMUZYQmkxdUVCbXlSOHNGTl9wUklSME1uX0ZBRFMxZU1Ua18xYjdyN19CcV9IQm1pUU9GZWgyanh3emRz?oc=5"
+      },
+      {
+        "title": "Prezydent uczcił pamięć ofiar. \"Ich jedyną winą była wierność wolnej Polsce\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5TYlNJcUFkQTY2ekdRQW1mbTFrVzdCWThkSFcxVmpOcTl0RE1YTV83Q3U4VUlSWEp5cnZzaTd0WW1UcE8xMG1SejhRR3BqU01hN052TEhOeFlpeXVKMVpVLURST3JzY3lQWnRYbHR1ckVqYzRzMmlFQnctdDlDU1pwaUpnUFdaMDR0dXlCS2YzejJoVTk4QlVxSEh4VGVGX3RQRG5ObERhUGZiOHZmQmhvX3VLRFNZaE42dWRqSWxGZw?oc=5"
+      },
+      {
+        "title": "\"Czyste Powietrze\" kuleje z nowymi warunkami. Liczba wniosków drastycznie spadła - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjBFa251Q1cya01OczZMUHpWU3NHUy10YkI4ZThDdG1hRHhPc3AwNWFZRE51RlItMDcwekFIbnhWal9OOFBZVUpmb1AyU0toaVV5OTZXZnR5TjhRQTVQOW1XS0haNVY2dC1RNHJ3LUs2YldVRTltNnA1SXJsbF95T1ROSDVSNE0xREtvWnZmeS0zT3RUT0pGTnpmblowSV9sbE5vdTNGUlhGeFk0elQ2YTRnOFVmc2RlRTlIelZTUWJaeXJwR2c?oc=5"
+      },
+      {
+        "title": "Wielki pożar na Podlasiu. W ogniu zginęło kilkadziesiąt krów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0szU1N3b1VkZjlEeXBzeHRreUpMT09PVW1HNmNkRWpLbzJkUWtQdkwzcklKekp0bXAtaDBKSVM1Z2lDUEdOQWQ5RjFxSFNpNDdQZGphajVndzJWTURObkxPRjhwcFpKNjBSZzhrd2stbmloLUNyRXFHZzVhZGIyQkRYeHU1cTZlZk5mZ1B2MTRsVDR6ZUJCbmlSb3Q2NG1MaTIzUTI0UVBRSWlqQi1RdzRKRjlYVWFpUkhuSDFR?oc=5"
       }
     ]
   }
