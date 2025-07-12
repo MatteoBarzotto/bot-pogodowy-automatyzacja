@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 03:11:34",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6198,
-      "EUR": 4.2399,
-      "GBP": 4.9232,
-      "CHF": 4.5451,
-      "JPY": 0.024677,
-      "AUD": 2.3638,
-      "CAD": 2.6452,
-      "CNY": 0.504
-    },
-    "crypto": {
-      "BITCOIN": 401127,
-      "DOGECOIN": 0.648187,
-      "ETHEREUM": 9983.63,
-      "LITECOIN": 326.58,
-      "RIPPLE": 8.68
-    },
-    "indices": {
-      "^WIG20": 2897.67,
-      "^WIG30": 3753.92,
-      "^WIG": 3753.92,
-      "^NCINDEX": 249.54
-    },
-    "news": [
-      {
-        "title": "Spotkania z Kaczyńskim. Hołownia mówi, jak zareagował Tusk - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEVjZUpoWFZOWFg4STR4SGZYaEpiYlpWR1dTOW5oOE9hYUJESkZvSmF0dExLd3l4YTl3ci1FSjdKTE56NFVQMkJFRElDQjc4ME5uazk4SW1WckpRcVpZQ0ZRcFE1NF9SU1h4eGRONHcxR2JoeUlpc1Bwd0NzT3dpb18yLWlNT29pUXhwWTBuSzRNQlA1eG1QT2RyRENUR1BC?oc=5"
-      },
-      {
-        "title": "USA wznowiły dostawy broni do Ukrainy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRC16VHRHM1pFZXZsakVIdmY1ZlRDZlFScHd3OFNKT0pCamtXWU9RT0hJYjJtRk9PRTgzdm84T3A0LWJ3V0xKSW9pcDZaNUk2Zk5VSVpueEtLbDNHUDM4VkN5dERoQklnYjFmOTVYcGowbExnUWtFd0tKQUl4emNYNVVPTTRiVjJpbGRnWmROaWtwRlhjV253T2VHckJINUJpN2c?oc=5"
-      },
-      {
-        "title": "Duda o \"wieszaniu za zdradę\". Lawina komentarzy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkVJVlhmbng4UldOOEVFWjNIVllnendmSVN0c0lEVjJ6bFNwcWdsb3RBWkk0eFAyZkYtUWRuX0FUSUhTQzlIdlU1TXJ6TUtXVU1qYjFCd0RBMzdmdWlTWWlaeHIwMzl6bVZQR1BINXloVkw0clFwRGU3eDVsNWpQRmZyRG9jRDZhUzRaaFNET2s?oc=5"
-      },
-      {
-        "title": "\"Jak się nie podoba, to zamykamy i do widzenia\". Prezydent o Ukrainie i sojusznikach - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdURLZ3pGVG9lVVBicVVqLUoxS0ZuekprcDVCWnVrNUwzOGJlLTJkbm5GRS15bm5YOUhYVmpRRlFmRDlUZTZIVGM3UkxGME5rNGk2T1pLVVR2WHdtLU1leC1uWHo2enlpU19zNEZUenJPd1hOVkxBa29RaVNHalJSRHRTNlRUTVhyS19uMU9mUFJ6VGowNi1IekVRaUNXVVV5RjZUc3Q0Q3IxRGNWRTRLZ3NWaUt1c3FPWTdiUHNTN3cwLUN5YS1ybTdLdElMUE5CR2JlbG5R?oc=5"
-      },
-      {
-        "title": "Elon Musk zabrał głos w sprawie chatbota Grok - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3lyVnE3ekJZRUhZRWxrNXZGSG5KYUFsQ3EyTnpiMUt6UDltYVE0SWFoc0FpOUVEdVpGLWp5Y29rLXFvVktnX1g3N0hBQmVXZ3JEQjNoZGVlWHpEMHVJS0tWRFpiSzVWRTZ4SWw1MklvcEk4N0pXRVV1cHZLdjN6T3M3alZ1WlRKenNKNC1VS0hhaDA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 05:17:55",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Polacy ocenili Szymona Hołownię jako marszałka Sejmu [SONDAŻ] - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3FpdkZMVU9wSmNOWEdNNlJHNHducFpTakRxUEZJLW9HcXV4UkFGTWNGUG5nLTRHV0VIeXdpbzBxSUMxM3NRTVV0RXBfR2I0bmhNLWg2RDlDV2RCQlpSM1BwV2syZVhiVU8xSnJsT2RhRHlHTjVEbXRiN1BJLVdFVWg2NzRabFNNUE9UcDBFMmpOTk5mM0tDcHpkZGhTNVJW?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-12 10:17:27",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 429995,
+      "DOGECOIN": 0.733976,
+      "ETHEREUM": 10822.99,
+      "LITECOIN": 340.66,
+      "RIPPLE": 10.11
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Poderwane myśliwce polskie i NATO w reakcji na działania Rosji. \"Stan najwyższej gotowości\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHpTeW16ZFVERnktN1NLcGNTeER3bFdoN1piNGJaVDBzNDFTM2gwY3Z2V04wSUJ2S2Y2VDU3WFdiSWMzazZzM05oUl9HT2JjZDZjeDJhNEVFYlRjbTl6Qmcxb1puMWhfSHNoR3VpOTlNMXZUWllqbkc5OXBObW5qcVVOQ08wallzQlJGUWw2Z2E2MFdFX1U2Tnl3ek91RzZrNWNBVVZIYWl6V0YtRTI2b3FZWHJoQTVzQnoyWXZWN1EyRDRYVXh3?oc=5"
+      },
+      {
+        "title": "\"Pełnoskalowe ekshumacje na Wołyniu\". Nawrocki zwrócił się do Zełenskiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDdaUTIyOE9tTUZwYlZxa0dITVFjVjlZUGF0cGVOWWtGY1JyQzYtQUItaVdDUnpOeEEwdlowQnhjTlVzajNiZnFkYTlULWdBMno5Q0VfN2g2bkFqWGJSLTk5UjV6d1NtSFFHRW5aX21TVWx6cDlKNjlwVG5SalJoMTJaNHRrMi1ORFVrVXNia3Q4UFlXVFlPaFpRTlhGYXZOaWVmakJQd1lSSlNVYzBjWGxFZVBYWEw2c1E?oc=5"
+      },
+      {
+        "title": "Kaczyński skomentował słowa Brauna o Holokauście. \"Działa on z obcej inspiracji\" - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUFzNlE2YWg3ckowM2tTS1B0dFN3TGFZQ2pQM3BBVGJBMFZMbVR6cGZDV2ZkR1BwYUJyaDB2Zm1VbjV5TmxYZ25fUk9Fa0o0dmRYZWp3MEFXaFZmRzY3dG1HSnZJbFlzaEhYeC0zNm44T1g0cWZCTDVfanFJZXo4UERoX1pEMEdTTm5UNGp0U1g1Q2lZMkJZZG9seE1pMTlBa3ZncVlHdFBsaGc?oc=5"
+      },
+      {
+        "title": "Adam Bodnar pisze do Andrzeja Dudy. \"Nigdy jeszcze nie groził sędziom tak otwarcie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEpLTk5mN3RhamJSRkppbVNuV1AyUmx5cFVpekp4V1VSakN0TGJfeDMxOGg3anVHYmRrc2RTVFBHOGtHVWs4MUtaLV9tbWc1ZUFYbG5VOXRHeEc5MldVeDhlUU05c3FjdEZZcUNtQ0w5X1pkTm5EYnF4NElqckw1cEF2ckZwV3VURDNIZkRHTWZtNUI5anFmS0VXbG9OXzR0LVo1ZVZYSjBkMFlYc01pNVJFYUZ0YlNIbFpoQ0FXaDdPNUIyRUhzVQ?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Wisłostradzie. Nieoficjalne informacje ws. zatrzymanych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTF6YmdlblNreWlMUDdIdzlaeWhWZjhRU1cxMTlhc1lYd1ZRQk5iSlRPaHdEOGVJMEY5aGtFZVhMa0swUHVRTjlyOU8zVl8xN01IeFh4Q1FnWHh3MC1yQ2ZpQkhiSUFRUjVUM3BOUXc2dVQ3U0ZDS1J1enJ3blBNUnVHUzVJOFpEWEhvUG4xY2VjVzcyZjFsb2ZORlIzM2FDWndVSjZjZThRMS1JOUlabE12U3hvVzVf?oc=5"
       }
     ]
   }
