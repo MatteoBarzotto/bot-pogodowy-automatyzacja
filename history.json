@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 18:18:13",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6209,
-      "EUR": 4.2464,
-      "GBP": 4.9265,
-      "CHF": 4.5535,
-      "JPY": 0.024739,
-      "AUD": 2.3741,
-      "CAD": 2.6478,
-      "CNY": 0.5044
-    },
-    "crypto": {
-      "BITCOIN": 405926,
-      "DOGECOIN": 0.657259,
-      "ETHEREUM": 10107.72,
-      "LITECOIN": 333.03,
-      "RIPPLE": 8.93
-    },
-    "indices": {
-      "^WIG20": 2850.58,
-      "^WIG30": 3693.57,
-      "^WIG": 3693.57,
-      "^NCINDEX": 252.27
-    },
-    "news": [
-      {
-        "title": "W radiu przerwano wywiad z Grzegorzem Braunem. Prowadzący mówi o „przekroczeniu granic” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEdLd0ZrYm1ZT2NwR1lrNnFaUGhIVzllSmlrY2hSRkxMelVMY292VERYSzFydGs0NVhBbm1UM1Q3MWo0bjVCa0lxVXVqYU03cFdyTThQc3I5SUZmUmduRnZZcHFTRjhGbUNLbnM0MlZKNFVFbDkwaUctODNDMnFFenp0Uk5sLVRSc0FfcEV5THdzelI3eGNYVFlDaHlkUF9vc0h0WEQ5VWN0VnhHQUFkd3F0X0VpUEJaV2RFRzMyUjA4Yl94cjhXSw?oc=5"
-      },
-      {
-        "title": "Co za cyrk! Żak robi show w sądzie. Sędzia go ucisza, a adwokatka za niego przeprasza - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY05PVmlma3oyeUFRZzJGTG9wSE0yZW00d3lVdGF5M0k0d2JfUVN0c0dDY3NCcC1Vb3hQUEJOaW5mV3hpeTAwNUVnZU1URTNEMElkcUJMM3l3SU54c3BUZFZwX3A2ekc2d2hxQkNTYnBIMGp5NmZveUhyamZFcW5ZYldlQzFia0I5RjRkeHgzQ29xcjBiaTVXSWUxQW1YUVRpUFh6NGR0czQzU21S?oc=5"
-      },
-      {
-        "title": "Głosowanie nad wotum nieufności dla Komisji Europejskiej. Jest decyzja - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWo3QXg5R1k1aXd5YVplZThBYllZdW85NV9zeVBQb2JfUmwyTHNaMFI4TmVNcVJPOFM2aW1ZVDVBNG5ZZmFUUndzS1FpSXpjMjhXWTRrNW16X2Y1YnRmTEN1SEF3QmhCSjZIVUxLNTZZbXpWTHczVGZWYVFYbER2cmc1RFBGZ2kwbWRjSjJzeTZOdGFDbTdrb1pxQ1hSOXA2MWtFSmtwdzRMWjFKT3lmUGxjUUhIM01LRHRjVUxkWHlZMW5Jb1I1Vm9ZV0ZQckZ2ZHhn?oc=5"
-      },
-      {
-        "title": "Polska2050 zagłosowała z PiS-em i Konfederacją. Hołownia tłumaczy dlaczego - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXdXb0J3VDhITzRscXVubzhKZTM1NEt4WG5Ta1lHampINDc4eUhoUXdJdFdPSjQxTXlrZHdxUGNZQ2Rmai00MkdVWng2UDF5aVZjdUhpcW1JMm0yUjg4Ul9OaW5xbUNEN3Q4VmZtazVPXzJrQmV6TjRBd1RZeFJJb0wyQkYwZVVYRHZkTjFqc0YtcW9SZFY5OVVfMFZZU1cyNVBDbzBnRzJJcXNvOTQwSGE1MTMyVzJmbVZV0gG6AUFVX3lxTE5aS055QlZKejBCM25MNkVpVjdpTmxsS1I3OEowa054TXNseHNWcEZ1c2xWYzlrMl9XVWZRX05pdWdoNk5UWG0yZnB6UWdYQ2RINDdzWmNsalBaNjJ2UnBFLXhxZ2JKdG9DNlFaVjVhWWlTdE5aS0ZqR0NGMF82ay1BU1ZaZVluWVo0TDhDX01iLUtIelhKU25NQ2tPN0xpLVRlWEVuRWtMekotb2hGZGNrOGRFcnBZQXluUQ?oc=5"
-      },
-      {
-        "title": "Ma zostać szefem Kancelarii Prezydenta u Nawrockiego. Oto jego majątek - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVd3TV9ZaXVMdTJHSGQyYzItQmRJNERrMV9FcnVsRHBONDNxejl2ZWJMQTdlSTVxRlp0Qm1xcGU2LVRTSmswZzhETzFaQmR4RVJDX1ZXdkVFemlHVlM5MzRpZVVnU0d1YnJMVWpfR3NqckhUNFdYMUducHBuTmVlUkw5VEN6TmNtZFl4amhCZW1LclNwMFJFYzA0ZzdVb3VudmQwX09pMHJqWTFKYktmdEFQWk9qYXJMVlF5SWoxTUxPdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 19:15:11",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Paragony grozy?\". Kupiliśmy gofra tuż przy molo w Sopocie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzdYTWxmY2RNRk1NNHhmLXhTbHQwOHFUWnd3TExOSG95U09NVkYyR0lWd2JQM182VG1nTWpfMlRsZnJ2ZmhrcURFYXM4a25YN0xKNzFFRGYyRy15czVOTjlUa05XOEY2aHVvVmZmdVFteWFCZFVNaE5iM0pQWGhyS091MEhHdzRPYTFtc1gwTGJQcXlvbGhFTHZlS0RTdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-13 00:13:05",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 428699,
+      "DOGECOIN": 0.715675,
+      "ETHEREUM": 10715.33,
+      "LITECOIN": 337.97,
+      "RIPPLE": 9.93
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Ależ nagroda dla Igi Świątek po Wimbledonie. Do końca życia za darmo - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTkdjTWNKSEVfcTJielh3MDM4a3pFelQ2c1VSdEVnVDBQSlhLTWozMjhnT2NMa25tLVJlZ0E4XzJVYjFjYzduNmQ2RWhXU2lhdG9Pdms5M1BvaDBkU1R5T0pXaV9JdmNuYXlHYUhGTFROQl9tejZ2X3Z2Zk1IV3JhZGtFZnhDUHBDdngyb2ZTakZIX2tWZFp6WXJWZUpPaXRlLVA1aHlzeDhmZzBRZUl4b05PRFhIZUt0TVE5TGstRnlpQmVESm1uaTNUdktqWHBO?oc=5"
+      },
+      {
+        "title": "\"Prawda nazywa zło po imieniu\". Nawrocki komentuje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk1aR1M1YVU0d0JSUl9VZGNNcXNHREFLUkVxZld1eVpIZ29pcVVfSzdNZk92eElBZG56d1JQME9vLWJUY1o5SktnSXdoTlc4ODEyNERCTjJMcjZ0dS11MUd0QTJCb1hhOHpLNFNnel9DYnJrZDhYQ0t0NFA1blR4RUFBeXFyNjRlRmxpSWgzbko0MXk3?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek na Wisłostradzie. Sąd zdecydował ws. aresztu - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXoxZFp5cko3RzBsVUNvOHRNN0VSeTJoMWRrSnlYMmtLZGVEOVFLQ2pBdk8zZk9aS0dWQldqbU9SakNrLTFVU3JmNmcxOEtNWG81S2I5S3doaU5zd0haWjhnbm1IUG1NUGIzZFppd2xyMUhNalVVN3RFZW1ETVd2WDZ4cUU3M0J6QUl4bW1TUFpQNTFJSDAzbVE0Sm1UNW9Ya2lGTkFNSjFnVmVzbVlGUGxxbw?oc=5"
+      },
+      {
+        "title": "\"Paragony grozy?\". Kupiliśmy gofra tuż przy molo w Sopocie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzdYTWxmY2RNRk1NNHhmLXhTbHQwOHFUWnd3TExOSG95U09NVkYyR0lWd2JQM182VG1nTWpfMlRsZnJ2ZmhrcURFYXM4a25YN0xKNzFFRGYyRy15czVOTjlUa05XOEY2aHVvVmZmdVFteWFCZFVNaE5iM0pQWGhyS091MEhHdzRPYTFtc1gwTGJQcXlvbGhFTHZlS0RTdw?oc=5"
+      },
+      {
+        "title": "\"Powstaje obraz rządu niedołężnego\". Były premier wskazał \"fatalne manewry\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXp1dGVHV1pKOFV3djF5OEVySDFFZi1OMzhrYk04SUh2ZG5namF2YnFwQnl0TklpLVhPaVBOc2w4WEFjWmQ3M0hPU1ZYN2JSYUN5d3BKZUhteklXOWM0VGdPc1RfUDhfNGliMkRZaDN6bFFEVE1UMVB6UEdmck9XQmE1VWxjSGt4OW9hTXdtUEZ1aVg3OHBNQlZxTWpERnJ5UUx0djM5cU1oenlRZmFwQg?oc=5"
       }
     ]
   }
