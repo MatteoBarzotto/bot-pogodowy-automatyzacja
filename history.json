@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 05:17:55",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6198,
-      "EUR": 4.2399,
-      "GBP": 4.9232,
-      "CHF": 4.5451,
-      "JPY": 0.024677,
-      "AUD": 2.3638,
-      "CAD": 2.6452,
-      "CNY": 0.504
-    },
-    "crypto": {
-      "BITCOIN": 402116,
-      "DOGECOIN": 0.654361,
-      "ETHEREUM": 10072.72,
-      "LITECOIN": 329.62,
-      "RIPPLE": 8.78
-    },
-    "indices": {
-      "^WIG20": 2897.67,
-      "^WIG30": 3753.92,
-      "^WIG": 3753.92,
-      "^NCINDEX": 249.54
-    },
-    "news": [
-      {
-        "title": "Szymon Hołownia uderzył nosem w szybę. Pozostała mu teraz jedyna szansa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdG1Kc0Rwd09aMWRCeGxsVjlhMlBXMlVtUUl1MldFbDFyVTV5UWI4ckh4SS1uaGljdUV3ZHJ3NHZKamZRek8wMFpRQmRjUWxLZEdxOHZQWGN1WTNpWmQ4TVJTalE4VVh4U3NKaUxxTnFVazFXQWRaODN2M1RPY3Q1NEo4YmF1NHp6MEJWVENUYmxvOVNaVmlTSDRnSFEyTmF6cFE?oc=5"
-      },
-      {
-        "title": "USA wznowiły dostawy broni do Ukrainy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRC16VHRHM1pFZXZsakVIdmY1ZlRDZlFScHd3OFNKT0pCamtXWU9RT0hJYjJtRk9PRTgzdm84T3A0LWJ3V0xKSW9pcDZaNUk2Zk5VSVpueEtLbDNHUDM4VkN5dERoQklnYjFmOTVYcGowbExnUWtFd0tKQUl4emNYNVVPTTRiVjJpbGRnWmROaWtwRlhjV253T2VHckJINUJpN2c?oc=5"
-      },
-      {
-        "title": "\"Dążą do wojny domowej\". Reakcje na słowa Dudy o \"wieszaniu za zdradę\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkVJVlhmbng4UldOOEVFWjNIVllnendmSVN0c0lEVjJ6bFNwcWdsb3RBWkk0eFAyZkYtUWRuX0FUSUhTQzlIdlU1TXJ6TUtXVU1qYjFCd0RBMzdmdWlTWWlaeHIwMzl6bVZQR1BINXloVkw0clFwRGU3eDVsNWpQRmZyRG9jRDZhUzRaaFNET2s?oc=5"
-      },
-      {
-        "title": "Kinga Duda zabrała głos po ślubie. Podziękowała tylko jednej osobie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2FNdDRxY1IyaE9vZlV3MjdibndScldzZU15bVlEV2JJVGFkTkU0SzhqTUh5M25oNkxvRDBCenYxUXFXazVTdWZwLWdGNV9PMG9NNWFXdzJGaHNVZ2l3RkNvZ21EMDlRak5JQUVCNHI4YmdKUzNjYUI0SmlER2ZmX0RGekZDcE5TMG5TTlJLVGwybzRuN2VIZS1saHNMMW1Velp6RVJFTjAyYS0xenRsajhUN0k4a1FzU2tQNk5LTQ?oc=5"
-      },
-      {
-        "title": "\"Jak się nie podoba, to zamykamy i do widzenia\". Prezydent o Ukrainie i sojusznikach - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdURLZ3pGVG9lVVBicVVqLUoxS0ZuekprcDVCWnVrNUwzOGJlLTJkbm5GRS15bm5YOUhYVmpRRlFmRDlUZTZIVGM3UkxGME5rNGk2T1pLVVR2WHdtLU1leC1uWHo2enlpU19zNEZUenJPd1hOVkxBa29RaVNHalJSRHRTNlRUTVhyS19uMU9mUFJ6VGowNi1IekVRaUNXVVV5RjZUc3Q0Q3IxRGNWRTRLZ3NWaUt1c3FPWTdiUHNTN3cwLUN5YS1ybTdLdElMUE5CR2JlbG5R?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 06:27:39",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tragiczny wypadek na Wisłostradzie. Nieoficjalne informacje ws. zatrzymanych - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTF6YmdlblNreWlMUDdIdzlaeWhWZjhRU1cxMTlhc1lYd1ZRQk5iSlRPaHdEOGVJMEY5aGtFZVhMa0swUHVRTjlyOU8zVl8xN01IeFh4Q1FnWHh3MC1yQ2ZpQkhiSUFRUjVUM3BOUXc2dVQ3U0ZDS1J1enJ3blBNUnVHUzVJOFpEWEhvUG4xY2VjVzcyZjFsb2ZORlIzM2FDWndVSjZjZThRMS1JOUlabE12U3hvVzVf?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-12 11:14:01",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 430401,
+      "DOGECOIN": 0.731815,
+      "ETHEREUM": 10825.68,
+      "LITECOIN": 339.37,
+      "RIPPLE": 10.19
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Poderwane myśliwce polskie i NATO w reakcji na działania Rosji. \"Stan najwyższej gotowości\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHpTeW16ZFVERnktN1NLcGNTeER3bFdoN1piNGJaVDBzNDFTM2gwY3Z2V04wSUJ2S2Y2VDU3WFdiSWMzazZzM05oUl9HT2JjZDZjeDJhNEVFYlRjbTl6Qmcxb1puMWhfSHNoR3VpOTlNMXZUWllqbkc5OXBObW5qcVVOQ08wallzQlJGUWw2Z2E2MFdFX1U2Tnl3ek91RzZrNWNBVVZIYWl6V0YtRTI2b3FZWHJoQTVzQnoyWXZWN1EyRDRYVXh3?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun neguje Holokaust, a wizerunek Polski cierpi - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV255Z1BNVG9wZ2dsa0t3TXFVNzRNeENRdkJadmYzelZlT3BrX3lwLWhmM1NEb0pBYzltNGdzUVJVUTNScVhrSlZDMmRiOXViRVZpejJwMlgwNno1TTZyNVVLN0ZobzZaUEJuYWpXNmszV252dFVMNVlUbXFFYWF0VDdOOGlUNkNOTkYxLV84aTN3RkFOaV9tTjQ3eWw0a3Jsd3RtaTQ3X01ndkRrWE8yV2NaWTc4VXpOdHlTSjF4M0RoYWtwZVdEaUhES0Q1aTh6VXkzZDJteUp1V2Zjc0RQZHJLWnZzUE95?oc=5"
+      },
+      {
+        "title": "\"Pełnoskalowe ekshumacje na Wołyniu\". Nawrocki zwrócił się do Zełenskiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDdaUTIyOE9tTUZwYlZxa0dITVFjVjlZUGF0cGVOWWtGY1JyQzYtQUItaVdDUnpOeEEwdlowQnhjTlVzajNiZnFkYTlULWdBMno5Q0VfN2g2bkFqWGJSLTk5UjV6d1NtSFFHRW5aX21TVWx6cDlKNjlwVG5SalJoMTJaNHRrMi1ORFVrVXNia3Q4UFlXVFlPaFpRTlhGYXZOaWVmakJQd1lSSlNVYzBjWGxFZVBYWEw2c1E?oc=5"
+      },
+      {
+        "title": "Wstępny raport po katastrofie Dreamlinera. Podano przyczynę tragedii - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmFXblhCSG9fcnVSdTZ5NFhsUktrbGMwVm5tR0JIZGtuQkRQQ3VaNFJYbWFpV3hzV0hwRHhCSWY4MFJ5MGtaNjgzVnRweHAwLVJmclpHOE1kTjBrbGdCUEJuNmR6am1JeXJpbkdmSGIzYUdROEtlUzc1Vi1hbFpoc3BBb2ExbnVJR1NEajhaYklPVEl6ZDdhUXB2Ujk5MHIxcE9KamV0RU5fVnRFdVdzTWxLRnJiN2FwMGc?oc=5"
+      },
+      {
+        "title": "Adam Bodnar pisze do Andrzeja Dudy. \"Nigdy jeszcze nie groził sędziom tak otwarcie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEpLTk5mN3RhamJSRkppbVNuV1AyUmx5cFVpekp4V1VSakN0TGJfeDMxOGg3anVHYmRrc2RTVFBHOGtHVWs4MUtaLV9tbWc1ZUFYbG5VOXRHeEc5MldVeDhlUU05c3FjdEZZcUNtQ0w5X1pkTm5EYnF4NElqckw1cEF2ckZwV3VURDNIZkRHTWZtNUI5anFmS0VXbG9OXzR0LVo1ZVZYSjBkMFlYc01pNVJFYUZ0YlNIbFpoQ0FXaDdPNUIyRUhzVQ?oc=5"
       }
     ]
   }
