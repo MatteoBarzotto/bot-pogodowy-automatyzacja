@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 01:13:58",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6198,
-      "EUR": 4.2399,
-      "GBP": 4.9232,
-      "CHF": 4.5451,
-      "JPY": 0.024677,
-      "AUD": 2.3638,
-      "CAD": 2.6452,
-      "CNY": 0.504
-    },
-    "crypto": {
-      "BITCOIN": 403184,
-      "DOGECOIN": 0.658502,
-      "ETHEREUM": 10050.06,
-      "LITECOIN": 330.13,
-      "RIPPLE": 8.74
-    },
-    "indices": {
-      "^WIG20": 2897.67,
-      "^WIG30": 3753.92,
-      "^WIG": 3753.92,
-      "^NCINDEX": 249.54
-    },
-    "news": [
-      {
-        "title": "Jak Polacy oceniają spotkanie Szymona Hołowni z politykami PiS? Sondaż - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkZSWDI1WTlqZmxHZDIzaTlLQ3ZkcUpIb00tSXF0QThkYWRBd295ZERxRXQxSVJ2ZjQ4MXRLaWgzWUdsX0hTM0pZc0RBV1hNVnhEa3BzV2JiRFVuUVFVd3lCTE9iUFl0bmRPd3FHU2JRRVA1LUEwU3hoNDg5MDFiaXMyZENOWDc4Zjc4MmFwV0tTQTRZRXM5eGhRSFBqcVBIb0RKckptYTRQdG43MHNkd1RyN0Yxa2xVdVE4VGJxV0oxMlRwaHB3aGZkMWg1Zw?oc=5"
-      },
-      {
-        "title": "USA wznowiły dostawy broni na Ukrainę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnFsXzdFcjVNU05mSks3MzBLemh6VVdLOEtWa2ZVdmxvUTBXVVJ5UzBSU1ZoR2VjSGhhN1hOZnRHR3VRU2QzLVNEaXE3YmR6YVU1N3d3NDJuUUxFMzI2UlJGMWc5V1FoXzFFQ05sRnhIaTBlamZ4N1VhNDEtZ3Zqd1RFcG5mV1E?oc=5"
-      },
-      {
-        "title": "Znamy datę rekonstrukcji rządu. Termin przesunięty na wniosek Szymona Hołowni - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcno2bjdMWmZ3aEU5QkNwOHRrYmxfZEZYYkJueGh6cmIxZDIyNF9XRXBWYlRNLXdkS2VXZnYwRC1HNHFLUzVmandlWTlxaHNfVGNSZm9HQmlYb0Vzal9SZ05qV2tYU1M5ZmNNRUMzVHVuS1RIOFEyM0ZuZk5BVzJ2RGVWaE9qM0U?oc=5"
-      },
-      {
-        "title": "Andrzej Duda o sędziach. Nagle wspomniał o wieszaniu za zdradę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHZVNTNLeExvSkREb2RLRjgyTEVKcXV4TTF4N0RscVBUekxrT0pvVVB1OC1neTFNQWlrX3VYWEM5bVVwUmNMTWNqdnRTdEtfajVNajNjelRSNzJVZmhUQVJJaXBqeGRyM2w2ZUNiTDZQeDgtM1BtZkhrM1FfRTNiUThsS1JBTUxKX0FPd0NEUlllajFyZUl3Qk0xWVNubWNSQy1obnRRRzBCaVFhMlgtZ01nYXV5NUJoM0p2RGc4aTJMdw?oc=5"
-      },
-      {
-        "title": "Bąkiewicz wygłosił raport z granicy. Dostał owacje na stojąco - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWJ4TDJRbXMyTDdsQUNUdFNJQ3V0SVFJSFBZYlhLUGNNd05NWlRLMnJXUWE4dGt6UXFBaG0yYUl5X1ZLTGN5bGRUM0JJZTZYTGNqamNBS0J4bXRxYkoxNWR3M0VwTkFYZTYzTzZ6TklvZ2dCeC1ybVY3VUo4dXZDSzdDdXVKVXRSV2o4Z3RGdUNLbDFFcmZ1VlU4M2R5WE1fRUwzMWdHNnZONkZK?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 03:11:34",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Trump grozi Putinowi po ataku Rosji na ukraiński szpital? \"Zobaczycie, co będzie się działo\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYU5PbGN0OTNtQnptdkdFaDdwZU9jSmdDd2lkOW5iaHdGcjlVcE1rZ2I3bWdlcnUwWU5IUjh4VlJZMmo3MjNobHpaeFkxcUdkVExYR0NWaWkxMVR2Vk94Nk9WN0I1cS15aDRvdmtSZ1V5RllueFNWQWdEN0ltSEh2aW05a0VBdExwcV91RjNSZ0dIeDdFYWxaSWdhQTNPMlVINmRPSmNvalBodHBjdDc0M1lRSDEwWXl0TEtTT3BBMmt2X1YteDRiM3c2Q0R2NzdPeTVmTnFWMm1rVk9pakE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-12 09:13:48",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 430500,
+      "DOGECOIN": 0.738206,
+      "ETHEREUM": 10813.65,
+      "LITECOIN": 340.43,
+      "RIPPLE": 10.17
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Poderwane myśliwce polskie i NATO w reakcji na działania Rosji. \"Stan najwyższej gotowości\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHpTeW16ZFVERnktN1NLcGNTeER3bFdoN1piNGJaVDBzNDFTM2gwY3Z2V04wSUJ2S2Y2VDU3WFdiSWMzazZzM05oUl9HT2JjZDZjeDJhNEVFYlRjbTl6Qmcxb1puMWhfSHNoR3VpOTlNMXZUWllqbkc5OXBObW5qcVVOQ08wallzQlJGUWw2Z2E2MFdFX1U2Tnl3ek91RzZrNWNBVVZIYWl6V0YtRTI2b3FZWHJoQTVzQnoyWXZWN1EyRDRYVXh3?oc=5"
+      },
+      {
+        "title": "\"Pełnoskalowe ekshumacje na Wołyniu\". Nawrocki zwrócił się do Zełenskiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDdaUTIyOE9tTUZwYlZxa0dITVFjVjlZUGF0cGVOWWtGY1JyQzYtQUItaVdDUnpOeEEwdlowQnhjTlVzajNiZnFkYTlULWdBMno5Q0VfN2g2bkFqWGJSLTk5UjV6d1NtSFFHRW5aX21TVWx6cDlKNjlwVG5SalJoMTJaNHRrMi1ORFVrVXNia3Q4UFlXVFlPaFpRTlhGYXZOaWVmakJQd1lSSlNVYzBjWGxFZVBYWEw2c1E?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun neguje Holokaust, a wizerunek Polski cierpi - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV255Z1BNVG9wZ2dsa0t3TXFVNzRNeENRdkJadmYzelZlT3BrX3lwLWhmM1NEb0pBYzltNGdzUVJVUTNScVhrSlZDMmRiOXViRVZpejJwMlgwNno1TTZyNVVLN0ZobzZaUEJuYWpXNmszV252dFVMNVlUbXFFYWF0VDdOOGlUNkNOTkYxLV84aTN3RkFOaV9tTjQ3eWw0a3Jsd3RtaTQ3X01ndkRrWE8yV2NaWTc4VXpOdHlTSjF4M0RoYWtwZVdEaUhES0Q1aTh6VXkzZDJteUp1V2Zjc0RQZHJLWnZzUE95?oc=5"
+      },
+      {
+        "title": "Przez to Hołownia miał opóźnić rekonstrukcję. Zaskakujące \"względy osobiste\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUd0d3pLaXBlS01OVERyTzVJQUQ4S0pobDdoTFdaWFNGMVpOWFFpeHRLN1VZbjhoNm12Q0RrSE1aLVZ6NTdMOE8xb01laXpVLXpPemlPYkhKbldTYm9yX1RqVkdVdjNlRGhNVXVnY1VUTnhCVmxvSnhKTm5YM0NiWXpKNUkxNWViaDR0dTRXYmlxV3JvekVBSjdBal9Pcllxb2EwdUZFWG5NX2o4ZDhjVg?oc=5"
+      },
+      {
+        "title": "Polacy ocenili Szymona Hołownię jako marszałka Sejmu [SONDAŻ] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3FpdkZMVU9wSmNOWEdNNlJHNHducFpTakRxUEZJLW9HcXV4UkFGTWNGUG5nLTRHV0VIeXdpbzBxSUMxM3NRTVV0RXBfR2I0bmhNLWg2RDlDV2RCQlpSM1BwV2syZVhiVU8xSnJsT2RhRHlHTjVEbXRiN1BJLVdFVWg2NzRabFNNUE9UcDBFMmpOTk5mM0tDcHpkZGhTNVJW?oc=5"
       }
     ]
   }
