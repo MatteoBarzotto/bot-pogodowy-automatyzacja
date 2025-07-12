@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-09 23:13:25",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6198,
-      "EUR": 4.2399,
-      "GBP": 4.9232,
-      "CHF": 4.5451,
-      "JPY": 0.024677,
-      "AUD": 2.3638,
-      "CAD": 2.6452,
-      "CNY": 0.504
-    },
-    "crypto": {
-      "BITCOIN": 402352,
-      "DOGECOIN": 0.66004,
-      "ETHEREUM": 9936.6,
-      "LITECOIN": 329.51,
-      "RIPPLE": 8.7
-    },
-    "indices": {
-      "^WIG20": 2897.67,
-      "^WIG30": 3753.92,
-      "^WIG": 3753.92,
-      "^NCINDEX": 249.54
-    },
-    "news": [
-      {
-        "title": "Jak Polacy oceniają spotkanie Szymona Hołowni z politykami PiS? Sondaż - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkZSWDI1WTlqZmxHZDIzaTlLQ3ZkcUpIb00tSXF0QThkYWRBd295ZERxRXQxSVJ2ZjQ4MXRLaWgzWUdsX0hTM0pZc0RBV1hNVnhEa3BzV2JiRFVuUVFVd3lCTE9iUFl0bmRPd3FHU2JRRVA1LUEwU3hoNDg5MDFiaXMyZENOWDc4Zjc4MmFwV0tTQTRZRXM5eGhRSFBqcVBIb0RKckptYTRQdG43MHNkd1RyN0Yxa2xVdVE4VGJxV0oxMlRwaHB3aGZkMWg1Zw?oc=5"
-      },
-      {
-        "title": "Znamy datę rekonstrukcji rządu. Termin przesunięty na wniosek Szymona Hołowni - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcno2bjdMWmZ3aEU5QkNwOHRrYmxfZEZYYkJueGh6cmIxZDIyNF9XRXBWYlRNLXdkS2VXZnYwRC1HNHFLUzVmandlWTlxaHNfVGNSZm9HQmlYb0Vzal9SZ05qV2tYU1M5ZmNNRUMzVHVuS1RIOFEyM0ZuZk5BVzJ2RGVWaE9qM0U?oc=5"
-      },
-      {
-        "title": "Nowy alert RCB dla mieszkańców części Polski. \"Słuchaj poleceń służb\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFRsR1dLZ0tBNGJZU3pwdUtwdUVIMDl4S043YnNjVTNUQWlvbjJhd0dkRlpReEpoZEQtTFNWaWNhNXFWcTdFbWZ6NVhFNE5hS1N1M2VhSmJMSnJaLWFKaXRCWG5iRzQxMVU4WGNody1tWW9HeDRRY255RzZFNDM0TnhnMTc4SVpTWnBjaHgyYUxpQ0xXUFU4T0JqU1BvYlE?oc=5"
-      },
-      {
-        "title": "Duda mówił o \"bezczelnym warcholstwie\". \"W tych słowach jest prawda\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemZQd1dlckVPQTFZcVc2QzB0X3NJMXVndDlFN3pvaTU5aDJlQXFocnpLUVMzakxvMEtVMEVSNm1qMVZKdzJsQzF5bFUxdzk1UG9vU0d6clRNQ0tNQWRpc1lJS0NKWW00OGNhYk4zVVNOdU4yTWVOWndsWUZJYmkxcjI2aGNHcklORXI3NGpMNVpEczIxanN5UC1nX1JlU2F4QVFMajBZUHRHUQ?oc=5"
-      },
-      {
-        "title": "Donald Trump rozgniewany zachowaniem Putina. Media: Uzbrojenie Kijowa leży w interesie USA - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVF1djFwTFBpeXZWcXBkVzJQUmFCQ252MnhwU0ZJTUc1ajRYQ3ZhMENDdHRVVDc2S2ZjbGRNOFRYYzlua0oyWXJNXzFDVXV5d2ExcmxhNllrYVM2cnZoV0V2VGF3cTVaUWJzUDMyMkFzdTVTbTA4MGZDR3YzOTRsWU03cXZzRGwyY3pyVkF2RDhzOXd5RnhleGdJVnNPTHYteG1CQTZpc0ZMY01GOFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 00:14:04",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zobaczycie, co się wydarzy\". Trump zapowiada ważne oświadczenie ws. Rosji - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFI2OFUzYm9nZ1cyTGRSc09qLU5pcl9kRk53TnlJTWVuT3FpdjY3blZTX2o1OHl6eGpGbm5fclRkYnZIcnlpX2JGR3N4RUZsbVJDX1dBQjVjeGlRdnRrZzJGWFh3S3ZnNHNJQWE0NWJud2l2QmhyNHA1WTh5VEJLUjl6VnpodEQtY1A0SDZrZW5meWJiZV9CME96Q0xDVTQtRUcyTjB3aktndFI2MDNmazF4NzNJT0pBU0xteDNUdzVtQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-12 07:15:13",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 429104,
+      "DOGECOIN": 0.732299,
+      "ETHEREUM": 10752.68,
+      "LITECOIN": 339.03,
+      "RIPPLE": 10.1
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "\"Pełnoskalowe ekshumacje na Wołyniu\". Nawrocki zwrócił się do Zełenskiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDdaUTIyOE9tTUZwYlZxa0dITVFjVjlZUGF0cGVOWWtGY1JyQzYtQUItaVdDUnpOeEEwdlowQnhjTlVzajNiZnFkYTlULWdBMno5Q0VfN2g2bkFqWGJSLTk5UjV6d1NtSFFHRW5aX21TVWx6cDlKNjlwVG5SalJoMTJaNHRrMi1ORFVrVXNia3Q4UFlXVFlPaFpRTlhGYXZOaWVmakJQd1lSSlNVYzBjWGxFZVBYWEw2c1E?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun neguje Holokaust, a wizerunek Polski cierpi - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV255Z1BNVG9wZ2dsa0t3TXFVNzRNeENRdkJadmYzelZlT3BrX3lwLWhmM1NEb0pBYzltNGdzUVJVUTNScVhrSlZDMmRiOXViRVZpejJwMlgwNno1TTZyNVVLN0ZobzZaUEJuYWpXNmszV252dFVMNVlUbXFFYWF0VDdOOGlUNkNOTkYxLV84aTN3RkFOaV9tTjQ3eWw0a3Jsd3RtaTQ3X01ndkRrWE8yV2NaWTc4VXpOdHlTSjF4M0RoYWtwZVdEaUhES0Q1aTh6VXkzZDJteUp1V2Zjc0RQZHJLWnZzUE95?oc=5"
+      },
+      {
+        "title": "\"Zobaczycie, co się wydarzy\". Trump zapowiada ważne oświadczenie ws. Rosji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFI2OFUzYm9nZ1cyTGRSc09qLU5pcl9kRk53TnlJTWVuT3FpdjY3blZTX2o1OHl6eGpGbm5fclRkYnZIcnlpX2JGR3N4RUZsbVJDX1dBQjVjeGlRdnRrZzJGWFh3S3ZnNHNJQWE0NWJud2l2QmhyNHA1WTh5VEJLUjl6VnpodEQtY1A0SDZrZW5meWJiZV9CME96Q0xDVTQtRUcyTjB3aktndFI2MDNmazF4NzNJT0pBU0xteDNUdzVtQQ?oc=5"
+      },
+      {
+        "title": "\"To nie są żarty, panie Żak\" — sędzia musiał kilkakrotnie uciszać oskarżonego. Łukasz Żak, którego śledczy... - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeURLOHYxMWl5QllsWDVzX0ktRzNBdGxpbmFkc25kOFprd0ppQVktRkdMaUNXaUM2eDNoNlUzVFpzNHU4czU3UC1qUDgyRkNNa3Z6QnFIYXllbzBXTTJ5emVsNWNLY3MxTFNtaFVJbjdEaXo1aTlKX2kwTFJ0WkRQZkFSOGR6NGs5dFhOUllpY2ZoeXJuaTJEOVM1bGRieV9CVE1pVXdIbGpiZjNmUVVHNmxHQjc3LTZQekdSUU1LZ05nekJxbXJUR0FVVEhHYUFYTHc?oc=5"
+      },
+      {
+        "title": "Ojciec i syn zginęli w wypadku na Wisłostradzie. Policja zatrzymała dwie osoby - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSV81Z2FQRDNpNXZRUDhFT0xZQlhieV80WG0xUkdraTJua1B6ejhUaE1VUWdxVkRDUmZ1ZHpWMFRPWVp1RHlfUXhSMnJ4VlRrRnhzLTY0d1Z1WWVyd1ZOU3dMb1E1OUxXLVMzQkt5VEU0b0ZQcm90M0xEY2FuTkJuTjJkM1hkdmxlOWVFZk1NbWx1UThtN0JjWjNuTjVkU3V1UVB5M094NTBUQXFK?oc=5"
       }
     ]
   }
