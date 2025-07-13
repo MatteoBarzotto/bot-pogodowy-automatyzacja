@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-11 00:13:48",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6209,
-      "EUR": 4.2464,
-      "GBP": 4.9265,
-      "CHF": 4.5535,
-      "JPY": 0.024739,
-      "AUD": 2.3741,
-      "CAD": 2.6478,
-      "CNY": 0.5044
-    },
-    "crypto": {
-      "BITCOIN": 422215,
-      "DOGECOIN": 0.697548,
-      "ETHEREUM": 10776.0,
-      "LITECOIN": 344.42,
-      "RIPPLE": 9.24
-    },
-    "indices": {
-      "^WIG20": 2850.58,
-      "^WIG30": 3693.57,
-      "^WIG": 3693.57,
-      "^NCINDEX": 252.27
-    },
-    "news": [
-      {
-        "title": "Zamieszanie wokół daty rekonstrukcji rządu. Donald Tusk: to jest nieporozumienie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGxISUhsWGI1azhwOUNrTmFoWUx3QkRadE5KeFh0cEI5elRGZ1pSS25zb254cWswdVAtMnFYVGZqZ3pDSHYyZnduNkFZSGxYRmZrTUdibHdXU1o0V0lIUWVaUXdSSDdSY0lRYjdQdXZlZGpGUm0yRE9ScWdaVHRNTXAxS0trY01aeENkMFNMejZIaGJTTnR3dlRuMlBQSHZyQVBTQ0hXWnd5Vll0WkxRMV9adzZzaFc5ckxQaldiRjRqTlV6NmZ1WkhGQ256Mmtl?oc=5"
-      },
-      {
-        "title": "Prezydent Duda o \"wieszaniu za zdradę\". Radosław Sikorski stanowczo odpowiada - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1doNWNPX3RiTWgwNVRFV0M0V1JPSHV4WURPMEc1SFlLRFJHMnZjMV9kY1kta2N3TnFiaXZ3ZVgtb05xMGtQeGZOMHQzaWtaRGIwS0dSaWYteUpwRENLb2VtSkJ6bk43NkhaRkM1MHVOQ2Z1RGtrZ0QyWDBMLXFmUEJNUTRSaTdkTm9TdzczSmhEMjdINGsxaXdiTy0yWlMwbE1EblMtZFA0bnVUTjMyOUJkbkVVWWU0YUg3TnBNclpWUQ?oc=5"
-      },
-      {
-        "title": "Andrzej Duda o wsparciu Polski dla Ukrainy. Mówi o skandalu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVXJ3a0RDRHplVTU2bjU3MDlESVg3NVczOGhHQlQyWkU0V1Z1V0ZWRk54TW5RcEo5X1BZSjItYlgtekJ2aUd4dGlvYXNPYVItNTFySFlEU0dRY1B0RmQ4ZzZ2YXA3STBHc2gyX0Q5TkExOFZMY1BOOXBpREhDWS1kT2V6Wm9IRUFyUDVpSHFRODhVRXdGdGFBNTlrXzNOVFk0WnpYS3pjeXlXZWx1RE1pQ0ZPNUJraWUxcTZqdE43anF0TDFTX0QxcE5pZ1lvWTVTYkx2WW5uTQ?oc=5"
-      },
-      {
-        "title": "Polska 2050 ramię w ramię z PiS i Konfederacją. \"Nie ma żadnego sojuszu\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTNIWnpXcVRkV2RENWZCRGhlckFMSFg1RE9lamhLNkpWS0tNYUh1MUM5UWNjLVM3U0hxaHg0ZGxBUVAwSkdhdF8zaVNtZEF6OFhBMWVnVGluNzh1VFBiWFNOcFVyX043SFVrby0tTS1WU1hLUHcwTkRUbU1LV1Z0ZGlQd191aXI4dlU2Z29vU3lBTklzZkhseElxS1F4WnpWS01VWlhBb1FUMFdqc2F0U9IBrwFBVV95cUxNR25mb2F5Ui1LQ2tZYm1GTHpWVXJhSUhWSzJnd1lfdUhzR2Z4WklwZFFuOE5naGxoX0lkREhMWVk3WmE1UEc1MGloRVNLblFNRllIOFlEUy04WGs1RHg0ejRaWHJSNUhNT1IzMnJKT0k2UGpyeFQ4UElLU3dJTTFLc0xTQjdIelFQY3hKTTZpLUVvN0xWNlBoR3BidVdTbklFYUhrXy1MZ0pFQ3FqSVQ0?oc=5"
-      },
-      {
-        "title": "Dziś 84. rocznica zbrodni w Jedwabnem z 10 lipca 1941 r. Co warto o niej wiedzieć? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0Z6bVVxOUFkYTd0c09EbUZLZUMydUR1MF9WQ3JFajJKNnZsdEpSYWx1OXh0OFZjQlhab2h5RVhhZWNfZHVPdmpzZ3Q3OWNxZHB4eWFGZ3VEa19iTzY3MTM4YW1xenBtS2RpS2FfX295TVNHWXhPNWY3UmwxM0FDR0dvR3g4bnJNcldYWE1uUWQ0WEsyQWV1Z2xkY3ZmQWlJV0dwM214a25CUTV5VGVSWl9iaGI0T0h4Zno2LUxyWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-11 01:14:01",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2634,6 +2581,59 @@
       {
         "title": "Ławrow ostrzegł USA i sojuszników. Mówił o \"pokonaniu zła\" i \"konkretnych krokach\" - rmf24.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1JPY19lelg2dElNeUZmNHdBSEZ2cWdjWXZDQVFPaFdmTHlWWC1PejZva1k5QndMV1RhYkZacFcwdjNpMjRjazhteUxJanBGRHRCa1gxaEhOb01MdUVKUWhrSkJTVDBrRmF1WUZ4VnlPTmhRVWdUcUEydmhIeVhPUHdXQzNERjdpLTg5eWIwOEtHLWMyWlZ4dFBOZzRwbmJXczhCQ2tPSHNZeENWTGhj0gGzAUFVX3lxTE1YN1lCUXFFNUR5bXVNZkNQZ3ZYaFRqSHo0NXlGNV9vQkhOeXNDZHlfOG1JY2tvMnJ4VklHUGJ3YklHUWdCUVk2a3Z1MkV5ZlpnZHlKeEdfcGx5a3ctUWNTLW5TTFNxWTNwVmNqMVNIMWstemZuamt0Y2w1YjJIX051VjBTWWFOWEM4RW1oc2pyNzlra0trT2VNemxJanZ2THU5NDEyWWxxSDUxdTA3TXh1RWVN?oc=5"
+      },
+      {
+        "title": "Media: Donald Trump zamierza przeznaczyć dodatkowe środki na pomoc Ukrainie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1ZZaEh4NWZjU09YemFWamJHa09zSWkxdHlqZEhybFkyRk5sdzZOUElaZ19ubU5MMVU0YktVRDMteHJQNEVueHNPZjcxWFltRUpyQUltaHpjNE5zVngtTVRvelE2b1B0R25UdVZGRlFjbHVnX0NaTGlBUkIySE84aDkyZVZUVzd1ZGJrNVFQcDFhMG83a2FnM2ZmLVhkMmEtc2lVc1ZMamt4aTVqWElXZnVqV0dZQQ?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Wisłostradzie. Jest decyzja ws. tymczasowego aresztu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLU9vVWRqblZEQkVDNlZ3dHNOU1hWQlRYOHMwcTdkVHk3bFhKSkVjMkl3UWI1aTV4U2x6QTc1Y0Y1R2pSTDRra0NDZXJ1UlpuTURndmNSUTR2Wlp0NnJrVW5BbzFjc3YyNVZobTRxQTJXMkdYWG5vTU5rOE1tVVVhNVItc2pFUjlieFdtbDItc19vMXlwWVpCdmpJeE9SQ0RMV3dtcVpjN1hQUXdmb2FoZ185YUk5V3JXdXhj?oc=5"
+      },
+      {
+        "title": "Andrzej Duda uczcił pamięć ofiar. \"Ich jedyną winą była wierność wolnej Polsce\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5TYlNJcUFkQTY2ekdRQW1mbTFrVzdCWThkSFcxVmpOcTl0RE1YTV83Q3U4VUlSWEp5cnZzaTd0WW1UcE8xMG1SejhRR3BqU01hN052TEhOeFlpeXVKMVpVLURST3JzY3lQWnRYbHR1ckVqYzRzMmlFQnctdDlDU1pwaUpnUFdaMDR0dXlCS2YzejJoVTk4QlVxSEh4VGVGX3RQRG5ObERhUGZiOHZmQmhvX3VLRFNZaE42dWRqSWxGZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-13 08:20:37",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 429931,
+      "DOGECOIN": 0.722781,
+      "ETHEREUM": 10781.19,
+      "LITECOIN": 344.33,
+      "RIPPLE": 10.17
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Iga Świątek musiała oddać puchar! Organizatorzy Wimbledonu są bezwzględni - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2NMY01aeTFCRXlTbWp1cDFlNm83b29TUVVWckU2cmFpdFpTNjJLRjhFT0VFcnlBM1NDTlVfYVVLYnNrV2l0VHpRWEhDcmp3a29fRkxDdnJ0aFVUTVNONlBZU2cyRVZkWXY3OEJSX1lOM1RRU2FKbTN0STBWcEdiMFRvR3E2cUNGdklnSDRTME5YS1JaUmFyWWhBMWpPUEJpZGRRUDE4Wng2Y2RDV1d3cE1ONTFNQmREVm05aGlnZ2Z3a1g3LTJXZA?oc=5"
+      },
+      {
+        "title": "Ławrow wspiera północnokoreański program nuklearny i ostrzega Zachód - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHVrSjgwcmdjVGNOOHBVTUdhUE1Ld1J5Z215cUxIbnFCODdEOEljNEw0RlNsSUVhTm1UY2dTUS0zUFU1QWthUm5vTVRhSTRLZjBCbllST09wUTJWODVKajZPQkdLbThnSUw5bS03NEVZZW90eTVZWnFxZUZTZEswaUJMcVVTQmljRGp2ckxjZnFCeWM5Z3VJQ1NheTVRQ0FJZGxpQ0h2akNNNUpUVWR5bUdZMGZpQy14eXRUNTJEdGc?oc=5"
       },
       {
         "title": "Media: Donald Trump zamierza przeznaczyć dodatkowe środki na pomoc Ukrainie - Onet Wiadomości",
