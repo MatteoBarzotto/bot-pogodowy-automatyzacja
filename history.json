@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 23:14:47",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6209,
-      "EUR": 4.2464,
-      "GBP": 4.9265,
-      "CHF": 4.5535,
-      "JPY": 0.024739,
-      "AUD": 2.3741,
-      "CAD": 2.6478,
-      "CNY": 0.5044
-    },
-    "crypto": {
-      "BITCOIN": 413198,
-      "DOGECOIN": 0.681509,
-      "ETHEREUM": 10267.92,
-      "LITECOIN": 338.6,
-      "RIPPLE": 9.09
-    },
-    "indices": {
-      "^WIG20": 2850.58,
-      "^WIG30": 3693.57,
-      "^WIG": 3693.57,
-      "^NCINDEX": 252.27
-    },
-    "news": [
-      {
-        "title": "Ostre słowa Donalda Tuska w stronę Andrzeja Dudy. \"Kończy prezydenturę w złej kondycji\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjFlSndRZjZVV3FTYlh0VU04LVh1aWptdko3ZnlPNENFZUw3Wk9FeF9KUFR0TTU0Z0V5Qy1xUTlaY0NMN3YtamdtbWFjVm1reVdYRG9wV3RPY0hxMTEtelhPQTczSjZvUkxQOWIyZUZrX3Fha25rX3FYTzhjcTFHbFZzNWh2UmM1cEl6RVZYNkMwaFhTb1FtVndJbFZvcWJkU1JxMkhYSzhCcVdGOWplUQ?oc=5"
-      },
-      {
-        "title": "Andrzej Duda o wsparciu Polski dla Ukrainy. Mówi o skandalu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVXJ3a0RDRHplVTU2bjU3MDlESVg3NVczOGhHQlQyWkU0V1Z1V0ZWRk54TW5RcEo5X1BZSjItYlgtekJ2aUd4dGlvYXNPYVItNTFySFlEU0dRY1B0RmQ4ZzZ2YXA3STBHc2gyX0Q5TkExOFZMY1BOOXBpREhDWS1kT2V6Wm9IRUFyUDVpSHFRODhVRXdGdGFBNTlrXzNOVFk0WnpYS3pjeXlXZWx1RE1pQ0ZPNUJraWUxcTZqdE43anF0TDFTX0QxcE5pZ1lvWTVTYkx2WW5uTQ?oc=5"
-      },
-      {
-        "title": "Dziś 84. rocznica zbrodni w Jedwabnem z 10 lipca 1941 r. Co warto o niej wiedzieć? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0Z6bVVxOUFkYTd0c09EbUZLZUMydUR1MF9WQ3JFajJKNnZsdEpSYWx1OXh0OFZjQlhab2h5RVhhZWNfZHVPdmpzZ3Q3OWNxZHB4eWFGZ3VEa19iTzY3MTM4YW1xenBtS2RpS2FfX295TVNHWXhPNWY3UmwxM0FDR0dvR3g4bnJNcldYWE1uUWQ0WEsyQWV1Z2xkY3ZmQWlJV0dwM214a25CUTV5VGVSWl9iaGI0T0h4Zno2LUxyWQ?oc=5"
-      },
-      {
-        "title": "Polska2050 zagłosowała z PiS-em i Konfederacją. Hołownia tłumaczy dlaczego - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXdXb0J3VDhITzRscXVubzhKZTM1NEt4WG5Ta1lHampINDc4eUhoUXdJdFdPSjQxTXlrZHdxUGNZQ2Rmai00MkdVWng2UDF5aVZjdUhpcW1JMm0yUjg4Ul9OaW5xbUNEN3Q4VmZtazVPXzJrQmV6TjRBd1RZeFJJb0wyQkYwZVVYRHZkTjFqc0YtcW9SZFY5OVVfMFZZU1cyNVBDbzBnRzJJcXNvOTQwSGE1MTMyVzJmbVZV0gG6AUFVX3lxTE5aS055QlZKejBCM25MNkVpVjdpTmxsS1I3OEowa054TXNseHNWcEZ1c2xWYzlrMl9XVWZRX05pdWdoNk5UWG0yZnB6UWdYQ2RINDdzWmNsalBaNjJ2UnBFLXhxZ2JKdG9DNlFaVjVhWWlTdE5aS0ZqR0NGMF82ay1BU1ZaZVluWVo0TDhDX01iLUtIelhKU25NQ2tPN0xpLVRlWEVuRWtMekotb2hGZGNrOGRFcnBZQXluUQ?oc=5"
-      },
-      {
-        "title": "Przyjechali do Zamościa na festiwal. Atakują ich na ulicach. \"Zobaczyli wrogość\" - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUQ4STRza3V2bDBZVmxpbldJTndXc054WndidHZQTFlYM05DbEJvOEFYQWc1NDFraHNlZVBCTy1SQzNaSzBOSk1TWl9weFZVcmYyM1A1X05SZnRFUEVhOVV1TEtBMXFRb0pGLXFkcnNXRkZZUGF4WUY3bnhNUGE4Y2hjeEhKUjR2aHFhSHpwbjFtUVlKT0E4TDBPZmJOXzcwOE5wbVBwRUtsNExTOVRsMHlCeHhGWGZTOXEwbnFZNEM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-11 00:13:48",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Prawda nazywa zło po imieniu\". Nawrocki komentuje - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk1aR1M1YVU0d0JSUl9VZGNNcXNHREFLUkVxZld1eVpIZ29pcVVfSzdNZk92eElBZG56d1JQME9vLWJUY1o5SktnSXdoTlc4ODEyNERCTjJMcjZ0dS11MUd0QTJCb1hhOHpLNFNnel9DYnJrZDhYQ0t0NFA1blR4RUFBeXFyNjRlRmxpSWgzbko0MXk3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-13 07:16:43",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 430282,
+      "DOGECOIN": 0.725713,
+      "ETHEREUM": 10800.9,
+      "LITECOIN": 342.38,
+      "RIPPLE": 10.15
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Rafael Nadal zwrócił się do Igi Świątek. Piękne słowa - SportoweFakty",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemRScGdNUE1HSlRsVkFUVER1WXI4X3JUMGF5VS0xQ25tSmh4ZDBwOVJvcFdRMndFaVdGLVNMNTdkaUJGb0VqRGIwcnphbXVwSEV6WlNoWURfU2t3X1BFMUo5Q2h1LVo1Z1FSTWNFUEI4UTlVdHNMWmF2NjZFUmY3T2RMcW9ITFM5VDVyLUlFdmVFQW9QQkRyV3Rn?oc=5"
+      },
+      {
+        "title": "Ławrow ostrzegł USA i sojuszników. Mówił o \"pokonaniu zła\" i \"konkretnych krokach\" - rmf24.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1JPY19lelg2dElNeUZmNHdBSEZ2cWdjWXZDQVFPaFdmTHlWWC1PejZva1k5QndMV1RhYkZacFcwdjNpMjRjazhteUxJanBGRHRCa1gxaEhOb01MdUVKUWhrSkJTVDBrRmF1WUZ4VnlPTmhRVWdUcUEydmhIeVhPUHdXQzNERjdpLTg5eWIwOEtHLWMyWlZ4dFBOZzRwbmJXczhCQ2tPSHNZeENWTGhj0gGzAUFVX3lxTE1YN1lCUXFFNUR5bXVNZkNQZ3ZYaFRqSHo0NXlGNV9vQkhOeXNDZHlfOG1JY2tvMnJ4VklHUGJ3YklHUWdCUVk2a3Z1MkV5ZlpnZHlKeEdfcGx5a3ctUWNTLW5TTFNxWTNwVmNqMVNIMWstemZuamt0Y2w1YjJIX051VjBTWWFOWEM4RW1oc2pyNzlra0trT2VNemxJanZ2THU5NDEyWWxxSDUxdTA3TXh1RWVN?oc=5"
+      },
+      {
+        "title": "Media: Donald Trump zamierza przeznaczyć dodatkowe środki na pomoc Ukrainie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1ZZaEh4NWZjU09YemFWamJHa09zSWkxdHlqZEhybFkyRk5sdzZOUElaZ19ubU5MMVU0YktVRDMteHJQNEVueHNPZjcxWFltRUpyQUltaHpjNE5zVngtTVRvelE2b1B0R25UdVZGRlFjbHVnX0NaTGlBUkIySE84aDkyZVZUVzd1ZGJrNVFQcDFhMG83a2FnM2ZmLVhkMmEtc2lVc1ZMamt4aTVqWElXZnVqV0dZQQ?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Wisłostradzie. Jest decyzja ws. tymczasowego aresztu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLU9vVWRqblZEQkVDNlZ3dHNOU1hWQlRYOHMwcTdkVHk3bFhKSkVjMkl3UWI1aTV4U2x6QTc1Y0Y1R2pSTDRra0NDZXJ1UlpuTURndmNSUTR2Wlp0NnJrVW5BbzFjc3YyNVZobTRxQTJXMkdYWG5vTU5rOE1tVVVhNVItc2pFUjlieFdtbDItc19vMXlwWVpCdmpJeE9SQ0RMV3dtcVpjN1hQUXdmb2FoZ185YUk5V3JXdXhj?oc=5"
+      },
+      {
+        "title": "Andrzej Duda uczcił pamięć ofiar. \"Ich jedyną winą była wierność wolnej Polsce\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5TYlNJcUFkQTY2ekdRQW1mbTFrVzdCWThkSFcxVmpOcTl0RE1YTV83Q3U4VUlSWEp5cnZzaTd0WW1UcE8xMG1SejhRR3BqU01hN052TEhOeFlpeXVKMVpVLURST3JzY3lQWnRYbHR1ckVqYzRzMmlFQnctdDlDU1pwaUpnUFdaMDR0dXlCS2YzejJoVTk4QlVxSEh4VGVGX3RQRG5ObERhUGZiOHZmQmhvX3VLRFNZaE42dWRqSWxGZw?oc=5"
       }
     ]
   }
