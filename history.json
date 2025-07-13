@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-11 19:13:45",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 429385,
-      "DOGECOIN": 0.750588,
-      "ETHEREUM": 10863.44,
-      "LITECOIN": 353.48,
-      "RIPPLE": 10.24
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Kardynał Ryś o wypowiedzi Grzegorza Brauna. \"Antysemityzm w każdej postaci jest grzechem\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3R3MjhhaWZBZlFpVDRucmItZnR3bVM4Zmg0T0JxVG55clNGbmwzeXJubjExV19CR0dlSTJ0b0IyQXAwRU9MdmhsMTRPWGtTSVQtRkZLcTZsamxKby1wUWhOeEhBVk1lYm1femJ1X1ZrUHkzcHIzQ180TmozWHNzY19uQnZJQjItVUdOdDVkSFQyWUtDNi1lSHAwU1V4cl94ajNnZmJvcGNCdDdQMTVaX01wSl9vcndhaVM5aGt1R3diU3ZGZEpqam9faWtrMUFBWG8zUXpRRQ?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki do władz Ukrainy: Pojednanie może być oparte wyłącznie na prawdzie - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzdranJoZE5Ddk9uQ3ZRYW9yX3hLVUQtZnpjWVFfZmxYNHNsUEs3UDJPZ3MxSkwtdzluVTFUYzB6RWhTTnBueW5HeWoweV9mMDBmVzJOZmNmcGNyTDNzT2QyamMwcnZHX0hBQXJreHVqRVpPYUM1VW1aUEZhbHBHSmo3U3NlcU9YV2hTSWFXbWhZVy1GalZad28ybEJNWlN0ekljUEc1THBMOEVDS1RGQ0J1MUwtMW9vRkI0?oc=5"
-      },
-      {
-        "title": "Lepsze wieści dla Donalda Tuska. Jest nowy sondaż - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2FIOTNaVmlRbjYwWXVBU0F0c0Nfa0ZoalhycXl4NEwwbFhWaXhRXzdpRU8wSmdwWExKUkk3N3ZySkE4QmZSdlY5NzU4SW5IMkhEbU5SWmZGUnJyZjdTWndPaFVVZk9kLTI0RlMwcXBfTXZUekFrbXF2dUhvRGtlbFR5UExnTzhWbFNKRURHS1RLc1didU5VbWgyMVQtYUU?oc=5"
-      },
-      {
-        "title": "\"To się pożegnamy\". Tusk wysłał sygnał. Posłowie: powinien się zastanowić - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWU1DZm1YMTVuMGFLeTZERW5pYVlZdi1uSU5hMG1WejByR2ZzOE10Q2VoNktsdnF3OW44RnBfdmQyMXdHSzU0Z216cUpqWW9wblVVcFNDSERHUHR0RTgzVHl0N2Rhblp3WTY0M2YtM05YUW83NFVUMUtaWHVFZDRqeUFLUEFNZ1FTVlRyT1dRenZfZlk3N2VvYkcxVjJMR3ltakRXc3MzZ1hiTXN6REpiSg?oc=5"
-      },
-      {
-        "title": "Ziobro trafi przed komisję śledczą? Ruch Bodnara - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlp0ODVEak9pRDNWS3FVNXBuMEoxTGJUTWJBek0xZVRYQTlYR3I4LUdJNzRHSTBpTzJJelluN3o5ZWRxZE9MZTBITXBCNkRHWGNpX2duU0VHSllmbEctVktWSzcwb0Y5Zno4SndBMDhVWmFuTFZ2a1c3ZFpuU1VqR1NYRS1uaEZZeHpWUGZyMTd6eDk4Z3VtbXJISQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-11 20:20:07",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Straż Graniczna reaguje na nagranie Bąkiewicza. \"Plucie na nasz mundur\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVl2Y0tfUEVrbFVuUk9Kdi10T2NKQnNwVERIMFBFNmJoMWxRS3FNSk85X3dDc0JwcEdLWUt3Z0JoNDZXMzREeFFhWE5Va2JEa1l6cy1qdEpDbzRDTW51M09xbjd0Z1Z5WS1HYWZMNHd2dWRxZHcyX2VaaVJZT3k2dVJUTFNacGFnMjJweHVsSnE4eHBzeFh3OWZVWkRwbkhhdjhUSUQ0dHI3RGNKenU2SGxBS3VwenM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-14 01:14:32",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 433420,
+      "DOGECOIN": 0.721504,
+      "ETHEREUM": 10825.8,
+      "LITECOIN": 344.96,
+      "RIPPLE": 10.33
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Ogromny pożar w Mińsku Mazowieckim. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlQxYTFkaDJuZjN2dXNjUEc5RHlaNmlVemFDYzE5MHZIZFVZTDlaVTlRVnhKaENtUmJWMmJIc1RLZUcyRGFGcmdBRDVrNlZFR1FwWVMzY25VOWdLU0xkNEFKejgwenhMV0ZFQUloZTlrN1BwM2lvZHNuU3JBX1NlS1BrUTJuakdZZ3p4TEFkSWFsMGx6WmRsNHhwaUZzRmNVNVh4US1sd0g0OER1ZTZYZA?oc=5"
+      },
+      {
+        "title": "O. Rydzyk ostro krytykuje szefową MEN ws. religii. Nowacka odpowiada - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnpWTkMtem85UGplZWFHSkM2T0paYUVuN2xFVzZQNUhQcEhTY1RuVS1fR1Ezck1QRUsydjh2VDNTdm1oSXlxT0VEVXBqUTRnS2RQUlBjaGtDWnpTLUgzRmZUZWZYNFJ5Z2U4R3hBZy03ZUtGQUc0bG85MzluUGI4R3BMVWs3SGp4V25iM0RtR0luTEJWbElmM1JlQXd5RGVPSkpGY19rajR1Vnp6?oc=5"
+      },
+      {
+        "title": "Wielka burza zerwała dach kościoła. Ewakuacja wiernych w trakcie mszy - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzNpSUFzOUp2bW1tSFM3bGpnWmFGM3dnRkx6c25TdzNCN001aVRwU2JwNWozakhhWklyNS1LdEpJMElyUVBiNWZZVzlUYWFtazkwajN1SHFXN3NseFlIZVZ5TG40YjMwU1Nfd0w3Q2lIaEdfcnBYeGFsTnZRM29teURyUXFCTndzSGpDOEJCa0FXbktyQWVfOVJZV3gtTzF0QTFLUmJKc1F4LXVISy1zY05ybkhhenpuWmdSYQ?oc=5"
+      },
+      {
+        "title": "Czy Kreml ostatecznie zerwie z Trumpem - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm5fRHczcXpCWlNKUXZ0T3A4NFM0OXNxSWl1YVBZTzRXSTU0N1N6WVJxdUNPVjNMUGZCcUNvQkFmelRGdWZVX1VuR3lVdnVuRDBHWGNsOUxGNm4tM3JuVGZPUHRLS3I5cEpiaG91YnBtYXJNYlcteU8wcURFbnZWNzdSalZNYWFxTS1OUXQ2ODNXak9wX0c2NmlLOTBscEpQ?oc=5"
+      },
+      {
+        "title": "Mark Rutte leci do USA. W tle zagadkowe oświadczenie Donalda Trumpa - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RmMzNJUXZ5V3lmVFhpX2xMbXhxWUNOWm1XVVhSWjAyUGtzY1F2aWxYVEdPNzZ3eml1bHE5NFByVkpON191Vl9vcW1hSVdUTGcyTldEWVppcktKS3BqcU4zR3JMT184TDE4dlhRanR0N1NUbkpESlhSbXl2VVFfRlM1S3RLRnptd1dfQ2VNclE4ZzZudE9PUDEybUhyNlRPUmNxUVhOZ21PeGs?oc=5"
       }
     ]
   }
