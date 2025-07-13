@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-10 20:20:18",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6209,
-      "EUR": 4.2464,
-      "GBP": 4.9265,
-      "CHF": 4.5535,
-      "JPY": 0.024739,
-      "AUD": 2.3741,
-      "CAD": 2.6478,
-      "CNY": 0.5044
-    },
-    "crypto": {
-      "BITCOIN": 413155,
-      "DOGECOIN": 0.678438,
-      "ETHEREUM": 10286.3,
-      "LITECOIN": 337.33,
-      "RIPPLE": 9.09
-    },
-    "indices": {
-      "^WIG20": 2850.58,
-      "^WIG30": 3693.57,
-      "^WIG": 3693.57,
-      "^NCINDEX": 252.27
-    },
-    "news": [
-      {
-        "title": "Prezydent Duda o \"wieszaniu za zdradę\". Radosław Sikorski stanowczo odpowiada - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1doNWNPX3RiTWgwNVRFV0M0V1JPSHV4WURPMEc1SFlLRFJHMnZjMV9kY1kta2N3TnFiaXZ3ZVgtb05xMGtQeGZOMHQzaWtaRGIwS0dSaWYteUpwRENLb2VtSkJ6bk43NkhaRkM1MHVOQ2Z1RGtrZ0QyWDBMLXFmUEJNUTRSaTdkTm9TdzczSmhEMjdINGsxaXdiTy0yWlMwbE1EblMtZFA0bnVUTjMyOUJkbkVVWWU0YUg3TnBNclpWUQ?oc=5"
-      },
-      {
-        "title": "Ryszard Petru przeciwko partyjnej koleżance. \"Mamy inne kandydatury\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTFZNeU5YYUd2eVlKcFlvZk5WQlFOV2lBbW5OV0VGd1BrME1INERmWkZoZm9uQVBKZVZkdF95WWpGd1lRNTQ5ZHBkc0dTeTVIRDhVTWJRNC1NTlVyLUFEYlE0OTZFdUd2WmNTTUxxSDV5RlpSU0RTM2syRzFMZTJUeXlEZjNaaVQwSkpwVGw3YjRTRjlqbkM4dmpTd0J1RmFiYUZfRDJXcWNQc0pFSmpqcXNwc2ZtZ0pUM1dXcmJpcDZaSUpHY3dr?oc=5"
-      },
-      {
-        "title": "Polska2050 zagłosowała z PiS-em i Konfederacją. Hołownia tłumaczy dlaczego - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXdXb0J3VDhITzRscXVubzhKZTM1NEt4WG5Ta1lHampINDc4eUhoUXdJdFdPSjQxTXlrZHdxUGNZQ2Rmai00MkdVWng2UDF5aVZjdUhpcW1JMm0yUjg4Ul9OaW5xbUNEN3Q4VmZtazVPXzJrQmV6TjRBd1RZeFJJb0wyQkYwZVVYRHZkTjFqc0YtcW9SZFY5OVVfMFZZU1cyNVBDbzBnRzJJcXNvOTQwSGE1MTMyVzJmbVZV0gG6AUFVX3lxTE5aS055QlZKejBCM25MNkVpVjdpTmxsS1I3OEowa054TXNseHNWcEZ1c2xWYzlrMl9XVWZRX05pdWdoNk5UWG0yZnB6UWdYQ2RINDdzWmNsalBaNjJ2UnBFLXhxZ2JKdG9DNlFaVjVhWWlTdE5aS0ZqR0NGMF82ay1BU1ZaZVluWVo0TDhDX01iLUtIelhKU25NQ2tPN0xpLVRlWEVuRWtMekotb2hGZGNrOGRFcnBZQXluUQ?oc=5"
-      },
-      {
-        "title": "W radiu przerwano wywiad z Grzegorzem Braunem. Prowadzący mówi o „przekroczeniu granic” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEdLd0ZrYm1ZT2NwR1lrNnFaUGhIVzllSmlrY2hSRkxMelVMY292VERYSzFydGs0NVhBbm1UM1Q3MWo0bjVCa0lxVXVqYU03cFdyTThQc3I5SUZmUmduRnZZcHFTRjhGbUNLbnM0MlZKNFVFbDkwaUctODNDMnFFenp0Uk5sLVRSc0FfcEV5THdzelI3eGNYVFlDaHlkUF9vc0h0WEQ5VWN0VnhHQUFkd3F0X0VpUEJaV2RFRzMyUjA4Yl94cjhXSw?oc=5"
-      },
-      {
-        "title": "Wotum nieufności dla Komisji Europejskiej. Europosłowie zagłosowali ws. wniosku - Interia",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzlmSTdWMjBoTnV5QmZJX0tqRzN2LVoxOXVFRmxscm9LR3dFX0JQcVFaTDlnT2w1cHAxVGV0dS1QaC1famZjWWI2cWlVR3NxT2lQT0NGeXRlMVdKQ09kZHRWMC1JTG11Rnd5RFZVQkN3VFZUZXhRdjE0NktZcE5taUhJZU50Wlo5cHZ4UVk1VUh0Nlk5WmVJNHVzeWxUNF80VDYzdnpNbkZ6WXRFVGJZUl9uQ2I5dVI3bEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-10 21:11:38",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Niespodziewane słowa Wojciecha Fibaka po meczu Igi Świątek. \"Oddałbym choć gema\" - Przegląd Sportowy Onet",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEI5VkJDM3VVd2ZGbWRfaDEwZ0ZBSk1jdVVHRkhULV9qSUxEelB4bTdsTDA1SWFqOVJkbUI5ZFQ3eVduWThFcFN4WHlJUWVTeDlHWTd4RjM2ci1Rck5SR3ZXZ1c5V2tiZ3ZHMUdueGt3ZjJ0akUtMlhyd1pCRzluODZTbUM5XzZrbnRHSnZJd0Rnc2MtWDZiTXRJN1FEckg0TE1uZkg3cmg0VmZZcXhXaXJsT0JjQ2FTUUsxcQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-13 03:18:51",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 428293,
+      "DOGECOIN": 0.720651,
+      "ETHEREUM": 10750.32,
+      "LITECOIN": 339.16,
+      "RIPPLE": 10.0
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Tragiczny wypadek na Wisłostradzie. Jest decyzja ws. tymczasowego aresztu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLU9vVWRqblZEQkVDNlZ3dHNOU1hWQlRYOHMwcTdkVHk3bFhKSkVjMkl3UWI1aTV4U2x6QTc1Y0Y1R2pSTDRra0NDZXJ1UlpuTURndmNSUTR2Wlp0NnJrVW5BbzFjc3YyNVZobTRxQTJXMkdYWG5vTU5rOE1tVVVhNVItc2pFUjlieFdtbDItc19vMXlwWVpCdmpJeE9SQ0RMV3dtcVpjN1hQUXdmb2FoZ185YUk5V3JXdXhj?oc=5"
+      },
+      {
+        "title": "\"Prawda nazywa zło po imieniu\". Nawrocki komentuje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk1aR1M1YVU0d0JSUl9VZGNNcXNHREFLUkVxZld1eVpIZ29pcVVfSzdNZk92eElBZG56d1JQME9vLWJUY1o5SktnSXdoTlc4ODEyNERCTjJMcjZ0dS11MUd0QTJCb1hhOHpLNFNnel9DYnJrZDhYQ0t0NFA1blR4RUFBeXFyNjRlRmxpSWgzbko0MXk3?oc=5"
+      },
+      {
+        "title": "Mazut w Zatoce Gdańskiej. Zamknięte sześć kąpielisk - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVFQZ1Itb0o1ZThfU3pqUEJWY09aTUhJWm4xdFFQVnVMWk9pQnQ4bVlQRVlSQW1Rek5LV0RvN2I0VktyS1ZhWFFMS0ZnT0FaYnhWUmhNaXJvRlBkV3YweHRxbkFsREVFZ0lGN2xEcDY3YkxSSjlTRUFhOHNYNjBIOUxKOFhGV2t1aFhndkZVWHN1Ykhab3NYZGFFeXVKTjVOWFpvUWlOVFVrWVRiNUhiT0xhelM2NkRncUhqNnU4cTdtWk5WZzNRTA?oc=5"
+      },
+      {
+        "title": "Nokaut na Wimbledonie. Iga Świątek \"przeszła grę\", poszła w ślady legendy - Sport w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa25wOU5JQk12M2JSMHl0N1kyQXVkRlA4T2V5bXVtMVVwSVVDeWF6bkpTcnViQ1NaNXB6M0w1UWRveHJFS3RHenMteFZaOF9JVWNrUkZaSTh1U1Z4UFd2alVRQVNJUUNudjRMOGhtUnoxY1RNUXE5V185RVlad3F1UlJfTExrNGVYNmg1cndBMllteDdVVk9vaEVTczM3Qnlab2FtRUYzU21kMXBHVU5QZ1ZOM1VuRW9URkVJ?oc=5"
+      },
+      {
+        "title": "Powrót z kosmosu na żywo. POLSA podaje szczegóły misji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGphV1hWMUVDcllYZHJxX1B2N0s1VGk3b1VsdGdRUWl0OXRER2NZWjQteFJDR0l4ODJBaWJJN0stZEo1N1huRFFyTXF1RlZTSWNVVmdrRkFodUZmUmloV1NKTkFQcnN1WmVkSzd5UWVLVG5Gd3BxTkJwN2Rud0o2bjR0TXdCN0hXbE9MZGVNN0llbWNoclVpdVZjZkNvY01KMVlPSXRFbw?oc=5"
       }
     ]
   }
