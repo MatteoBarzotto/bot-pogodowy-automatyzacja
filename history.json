@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-11 17:15:17",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 429523,
-      "DOGECOIN": 0.741548,
-      "ETHEREUM": 10867.64,
-      "LITECOIN": 352.87,
-      "RIPPLE": 10.32
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 252.83
-    },
-    "news": [
-      {
-        "title": "Kierowca wjechał w grupę ludzi w Chełmnie. Są ranni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTVud2ZEc1J0UmRBX2FPSHBRRl9VYzB0TFMzbl8wSHF5Y0VmbUdrOU9zOGZKT3E5eks3SzZ3N0VOUkNMal9uc1p4Z18yb3BzWEp3dXRQbnAwbW4wdVZmWkZub0NBckNxbWRaMThhZmgySDhzVTl1TWloZXFkbi1zUlczYWtsOFM1Uk1WY0Z0bmRKaU81?oc=5"
-      },
-      {
-        "title": "Grzegorz Braun kwestionuje zbrodnie w Auschwitz. Sikorski ostro - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXdGODFkYjYyTmhVbV9XMVR5VW50UzFNZ2k0Z3VTY3NsRjA3S1MwNGNOcW9EMnl1aHQyS3otOG5yLXpiSDE1MUpybWpFYjdPTE1zTU5FSUl1VERBOVUxTTZ1Z2lwdFNxOWstRnpOeE41dlBnWmNUSUxndDQtOWdzMzJlZEJoaGRnZURwQ2RrQ3dGLTBYLXpvSl9rV1JPMXRReTc2bjBPb0Ztd0ZjRW5GUWg4dmQ3Z3hKSnBkSGhLeVJuVnRoRE5yTmpGOGM?oc=5"
-      },
-      {
-        "title": "Hołownia wywołał burzę. W sondażu zapytano o spotkania z PiS - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjVrSUN6M1hxc3JnTWdwS0ZkUjVhSWh6WDkxQ2ZvbEdkOEJfZ05UUmczNkc2dlNfUkJCTVk3NWNFYzZoYTVmREFiUFJZWkpHOHlVVFRGLVh3andsbjdGSW9EcWkzRG5nYVR2UTRVYXVGVWlWX0J5TjlrMFVRQ3I3MmJYVWxrQ1hMc0Y3bms3MkRrZTg0Q0dScURSTVNDQkHSAZsBQVVfeXFMTUFkR1dQTkx2V2J2NnNocWM1dHZ5U2ZDQlJPbnRvZW4xQ2VhRjRheFZHc1U4bl9oYTdqOWNjTHJreW5fQnRZd1ZwdWg3SWhaYU82NDJiSGt4MHRqWEZhV3JaaVBvSmVIbEVnTGVWa2JWWVlyZmRKTTd1TmVoN1FZX2FvTmdjeFZnZ1lFem9PdFptMU9MNEc1VTR5SFE?oc=5"
-      },
-      {
-        "title": "Polska 2050 i PSL poza Sejmem. Najnowszy sondaż CBOS - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2lpcEdNeVZndFc0NmcxcUFTdnpGZHFKQUhxOWtoV3QwdndlbGN5Ni1Nc0JUZ0kzRktCaGV0dThtVXk2b0RNR2g4X3lzVmloMEM5WTJzU2J6Z2l0NU4zekpkRFJZdWtFYjJtZzJKdFZsTnNoQVV6SEpyVTRSSW5RMk8yWlJtUVdRWUw5OHNlRDYxQnNDRkQ3NzBEamk3aHhUTjRJQ0hrNktFSWI2aXc?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki odwiedzi Chełm. Nowe decyzje ws. muzeum i centrum Kaczyńskiego? - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0hWUzJMa3RqSlJOZWJIdm9EaXU1UmoxR3ZGandKRzJ4ZkozOTE1aFlMY3c4S1FmOURzVWM4WW01RjhDeG9HYThtQU8ybGppZFRQLTVha0Q2eDE2ZXBXVjdhZ2dpdk5CQlY5dU1xSTFjYWppZnBodS1WdDU1bzc4WlNlVUdaeHliYzVNczZLSmZYNjJJdnloNHNtbnNaemZiWWEzYzVUbi1LN21wTS1oMHRR0gGwAUFVX3lxTE9lUGNmWDJuc3lPd3o5ekt0LUxWZ0k3MlRmdDB0RnF1cmY1WXVXY2hTTTI1WFVIVGZ4OW1MX1YtYW1tSDlqb1FVd05IREduX0hxanFMV29rODZHVGFURHRILWtlRWRCUHB4anUtOFI1UjFXWGVlY3VQSGlhOHk3OHhFTW93bnA4N1VlNmhfM0UwOFBibGhRZzd5RXFwSDkwNHVDS2p2NGdOSXZMRW01R0NP?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-11 18:17:38",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Kontrowersyjne kazanie na Jasnej Górze. Riposta Sikorskiego - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdS00TlJpNXVFNEdZYlg3Y0sxcU5UZ3A4TUN1aS1wb2p6Y1ZneDNMWEY3V1RMLWphNDBzcjAxSzNnRUQ4OWpjNjZiY1Jpamh0LXgzZ2Q1Rkl2d2VZWlBtUzBKZ3BRZFdiZDZYN0xiZ1Jrb1VVTVB3LU8xaE10T1FCUjF0cUtZU2xKamxEblptYzRzSlUwckVyM1R3cUJwb1JraGtN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-13 23:12:35",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6432,
+      "EUR": 4.2563,
+      "GBP": 4.9314,
+      "CHF": 4.5695,
+      "JPY": 0.024787,
+      "AUD": 2.3946,
+      "CAD": 2.6594,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 435128,
+      "DOGECOIN": 0.733718,
+      "ETHEREUM": 10926.54,
+      "LITECOIN": 351.15,
+      "RIPPLE": 10.4
+    },
+    "indices": {
+      "^WIG20": 2860.93,
+      "^WIG30": 3705.86,
+      "^WIG": 3705.86,
+      "^NCINDEX": 253.2
+    },
+    "news": [
+      {
+        "title": "Wielka burza zerwała dach kościoła. Ewakuacja wiernych w trakcie mszy - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzNpSUFzOUp2bW1tSFM3bGpnWmFGM3dnRkx6c25TdzNCN001aVRwU2JwNWozakhhWklyNS1LdEpJMElyUVBiNWZZVzlUYWFtazkwajN1SHFXN3NseFlIZVZ5TG40YjMwU1Nfd0w3Q2lIaEdfcnBYeGFsTnZRM29teURyUXFCTndzSGpDOEJCa0FXbktyQWVfOVJZV3gtTzF0QTFLUmJKc1F4LXVISy1zY05ybkhhenpuWmdSYQ?oc=5"
+      },
+      {
+        "title": "Wielki pożar w Mińsku Mazowieckim. Apel rzecznika MSWiA. \"Ostrzegam\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREl2c2hyckhOU0k4TzQ0WkJ2OEt6cUpCb1FhRXJEUG1aQVc1X0FmUmROb2Q5TERuQ01GZzhKN2N3LTNwM1d4clJFVmVPSDBUSUhNSjNkSUlWQnBkMGQyVlNkejU1YS1HcXZIZ2V2emE1V0dsRWM0bVljVGwwYlQ4eUQ2YjBLVDc4c2Q5MlFuSHZzLUNFN05TMG9ydDR6UF9qS2NkOEp3UERwUHBO?oc=5"
+      },
+      {
+        "title": "O. Rydzyk ostro krytykuje szefową MEN ws. religii. Nowacka odpowiada - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnpWTkMtem85UGplZWFHSkM2T0paYUVuN2xFVzZQNUhQcEhTY1RuVS1fR1Ezck1QRUsydjh2VDNTdm1oSXlxT0VEVXBqUTRnS2RQUlBjaGtDWnpTLUgzRmZUZWZYNFJ5Z2U4R3hBZy03ZUtGQUc0bG85MzluUGI4R3BMVWs3SGp4V25iM0RtR0luTEJWbElmM1JlQXd5RGVPSkpGY19rajR1Vnp6?oc=5"
+      },
+      {
+        "title": "Giertych pisze list do polskich biskupów - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0k0a0hpMGhMWDZiQ0U2ZkNVRVg5X3ZYWktPbzN4SjBTX1JOLWZwUzNGanBRaFdzTWN0SFZhU2lWVGFwQzMzYlZ6MDV2bVZybmg1NHAzT0trZkZIdVdzYk1iLXlTTFVsNGF4R2xKel9NWUcwYmkzYmVKX3Q1Q2tBckthZ2FXZw?oc=5"
+      },
+      {
+        "title": "Huraganowe podmuchy i gwałtowne burze. \"Możliwe przerwy w dostawie prądu\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkNVNEZjTTNBem9XQ2JKanowZ25aZVZtdEtaWUVlT1lHNVpHOW5WTmQ0dEVkMEh3VnA2MnV3QndCaF8zSTctZUNfeUxWNEJsZ01kOTZueWR1U2JxdjcwcV9fUTd6Q1BoUVF0R1NmdTVoRzFtSjlpSVdudFJnanA1V3RuMHpKUzZxUHNqX1FVRFYtMEJhelg0SFU1WnFVeFVnZzdSc1JJYWhVcjlIbm0wbmd2RGZMUXV4QlE?oc=5"
       }
     ]
   }
