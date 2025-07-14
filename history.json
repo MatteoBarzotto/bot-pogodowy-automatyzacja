@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-12 15:24:10",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 428478,
-      "DOGECOIN": 0.715224,
-      "ETHEREUM": 10707.11,
-      "LITECOIN": 336.43,
-      "RIPPLE": 10.08
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Dwa pociągi skierowane na jeden tor. Ogromne opóźnienia na kolei - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjhCZExhWm41UHlsNVFRcEltSXh1RzJlOVpkaS1GQ3BPcEZhMTdMdVVmU29jc2ptNmNfQ3BEMklQMTI2aTVmQUpNM3NUQUpMZHdXa3o0WmZJUnZBeEFGUjNYdVJ3SUdLWlBPajI2R2twcmQ2WFFOMWs2WENPSlNLbDlvSC1aLVdySjk5ZmJGbHhNQVhMdV83NENRRFpiZzdKQlpzcE9wNmtRM25BeUZEbUVtUVZabFBueTNvaXZ4UQ?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski zareagował na słowa Grzegorza Brauna. Stanowczy apel szefa MSZ - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjBMQ1RTclh5bWFqeWVTenhJNTh3dkQ0WVY3U0hTUXp4STBlcFg1OUQtMjB1aG1wbXdrZm1ORWhHQmE0cVFrSTNqSTJUZG9KZ2hpcGttQkV2S183ZE1xVWNlUl9BUTJENHRFTjJCMUtuTmxjcnpsRkhfWU1EWm9mX3FYQzlIc2dLQXZwWFBPUjFvc0lRM0VtQXRHNnRTNS1WQWcyejNyUWlWMk5tTlp4dzAzSUZrMmZvbW9yVThvYVFsM2E3a3Rya1VfQUNCXzNtZGc?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na Wisłostradzie. Prokuratura przekazała nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVmF5Ym5iRGxiNGRjYzlaZFROdlNyOWd0QnpOVlAzN01nX21ScWRGMGxiTmlvaWUtX0FYaXZkSnBaU1l3VUQ4a195Y3lqRUNELTBrdjVJMEh0U0xTR2k1Qi1iUkJUd3lGSG5sMzR3R2RqWGhkdHhqNjJaM25iVS1OZDJvZXlISTY0alF5OHJFQkZRQjVyZFBjcnR3SDBjU0hXS2E0a1VNY2VfaWZ6QnN0Y2NERGw3STU0N1d6U3JoLXE3aksza2VkWlhSS3VkMkk?oc=5"
-      },
-      {
-        "title": "Najnowsze dane z granic. Minister wskazał \"skutek uboczny\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbTVQaXJRZndTMTI1R0w5VTJPNlpKaVNIZmphVVVhNk4zT2thSnFuN19rN3hjNHoxblpSazg3SHhmZEN1LXZWQ0RiaEVmdm4wQzNzdll4a05RRjZpR21zNUxpbGlqNXkzV1dmSjAzcFdKMGRRcC1Iek9hdUh4SmpTemhtSzJSUy03N2RUT3hwdVJ6V1hOZHhDOHNCT2l0U1lqbzVWdTJqMkVoNGE1cENESjc3SmZ4c3drQ05laUlvV2o?oc=5"
-      },
-      {
-        "title": "Apel Nawrockiego do Zełenskiego. Domaga się ekshumacji - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3VqV2oyZWY0XzJQT0VhcEd2VnI5T2lGNFpBYTR6eUJrWHdRcmExRGVTLU1qekZYMWZvdlJEdWZZX3RWYXpoQmszNlhGTjFUY1RkM2RQbFZsTEwzVDJVanFRV09DZmpya05tSlZFZU9RYm1NYl9RZDFPcG9IU3pwOHlGVTJmTk4xT2E2M1pWOWVYZEE0VWpZ0gGTAUFVX3lxTE5qb0trUF9CS3RQUDh6V3Awa0FrSXhEVHl6d3l1OHQwQUx6LWVlNkdYZDBDdmNjclNNU0NPRE5IYzMtSUlMUWdocW5VWUZ6Y0hKUndXd0dpWmFTNGF0N0JjdFNkV2txVjBxYXFhRXoweVhnS196OHZlbWhkTWFSZG1PV0E1TG8wZUhYMk5UT3VTZWhZWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-12 16:12:47",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2637,6 +2584,59 @@
       {
         "title": "Seria pożarów w Polsce. Szef MSWiA zabrał głos - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3NEem53Y3NYTHVvNUVXWFQ4cXFxckRRQUtXbFBQaVVjOVZlX0p0T09kZDZWVjZ6d2swVjhXcFJ0MTJBaGthVkRnYjRnQ1VZcVhTcE5nbG53UHlWbDZraEV0amY4Uy1ET0N1bk9rYVpGRE1MTjlEMDJDZlo2UU5hcWVMY1FROTZWa1lGem5R?oc=5"
+      },
+      {
+        "title": "Wystawa w Gdańsku budzi kontrowersje. Reakcja Andrzeja Dudy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWZJbkVTWEdFSEtiU0hqWTNDT2tiT29ueGZzRmJTQm5qNU9DSDZsMUNzR2gtOE5lVWxuQUxNMkZ4ZFlTTm9LbEdqd1FMbHdIUnRUNG5mRTNsT2ExYmZ6aXNPVTNHTi1rVDVmQi1tdHRIUU03S0o5OEJJZzUxUko0cnZKWldRQTBoUlBtMTRfU2wwVkNUeVdfWl83bF9xdTBuZUg5LTRwbVY1M0VvU0Faemp3?oc=5"
+      },
+      {
+        "title": "Skandal po słowach Grzegorza Brauna. Jest ruch IPN - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFNaZG9lcm5XRTJVNWRMQ0F6QU5seDZDX3pyQ1ROYTZMNDJrM3BocEVRXzdKYXd0Z3diRnVCNllsS2tuWEMzcm9HV0IxVzYydDU1ZTliOUU5OER0WG1RVG95Y2Vuc1c3Q09QeEVNa0txUTZQNVZIMzNYSDZId2p6M2d1dmltVG9sZk1zeTA0eEZ3Y1VaUmpiUHJLdGQ4QXVydkhfaDFrMnlLZzR1X2FwWEdOY1VhOWN0U3ZtT0dTdGlPRVBVWlRmcg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-14 21:12:25",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6475,
+      "EUR": 4.2614,
+      "GBP": 4.9151,
+      "CHF": 4.576,
+      "JPY": 0.024758,
+      "AUD": 2.3951,
+      "CAD": 2.6659,
+      "CNY": 0.5087
+    },
+    "crypto": {
+      "BITCOIN": 437351,
+      "DOGECOIN": 0.721737,
+      "ETHEREUM": 10923.83,
+      "LITECOIN": 346.93,
+      "RIPPLE": 10.7
+    },
+    "indices": {
+      "^WIG20": 2879.77,
+      "^WIG30": 3727.45,
+      "^WIG": 3727.45,
+      "^NCINDEX": 254.62
+    },
+    "news": [
+      {
+        "title": "Przełom w Białym Domu. Trump grozi Rosji i ogłasza umowę na wsparcie Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTdaVVN2R0pzU0F6LWhmeVJsYWZpSk5YQ3VEZGMwRmY5UHllQmh0dVY0RUxOTzhiTnRLZWJQNU8teFR4WlkxX1ZoMllBZVFaNDJqVnBLSllaNEJIam8tbEl4QUZ5RDRIVzY4Um9rbzgyTm9McV9vSG9HVllNa191ZFlVcy1EZWExcHBOUUFiT2ZSM29JNHZMUHotdU9BM1UzRE5vUDJFRDFWZllrRnBma1FXano?oc=5"
+      },
+      {
+        "title": "Seria pożarów w Polsce. Szef MSWiA zabrał głos - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3NEem53Y3NYTHVvNUVXWFQ4cXFxckRRQUtXbFBQaVVjOVZlX0p0T09kZDZWVjZ6d2swVjhXcFJ0MTJBaGthVkRnYjRnQ1VZcVhTcE5nbG53UHlWbDZraEV0amY4Uy1ET0N1bk9rYVpGRE1MTjlEMDJDZlo2UU5hcWVMY1FROTZWa1lGem5R?oc=5"
+      },
+      {
+        "title": "Donald Trump daje Rosji ultimatum. Moskwa ma 50 dni - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcko4OWhpWWQ1T0tRbmhSaEhPMHRnWG1pRVJpaXhNY1NUazJUYnJPa1dUTV9pUkpRUXRCa19NRm9nVjV5WTAtNHpnTWxiWGJ5ZVpRMElvOFNtN0dBSkRJQmxTNXF3ZDJ1cjdFY080WVlwMlA0YU11Q3Q4LTdwclRLZTItU290Mk40TUVoZGg2bDhSN2VMb0tDbXEtUWZhZUNVcFpYOTRUeF9mVFoyRXlqVDJySmxkbm8z0gGWAUFVX3lxTE84SkVWOGtpMG9sYV9nRXpwWEJHUXBaR0FqclhPQkt0cVFORl9zck5nOS1yQ2llV0lubEk2UGxKa1VtRUdRNUJfQVdOcUw5UXFrOUVqcWxVNk1TOXFFdE1OamxBZ25fU0ZaTTVLZ1ZHS25tYk5fb29oVUlJVHpnZGlQOV9FY1pwUDlKaFdzQ2FzZzJKT3NkQQ?oc=5"
       },
       {
         "title": "Wystawa w Gdańsku budzi kontrowersje. Reakcja Andrzeja Dudy - WP Wiadomości",
