@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-12 18:16:04",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 427800,
-      "DOGECOIN": 0.706333,
-      "ETHEREUM": 10675.75,
-      "LITECOIN": 334.05,
-      "RIPPLE": 9.86
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Świątek - Anisimova na żywo. Relacja live i wynik online finał Wimbledonu 2025 - www.polsatsport.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDNBWkVXbEJKRFMtdk1NaVc3RG16djlVNlBFczFrM0lTZXpVTXFkNklMU1pIZWRNMjRHVFVhN1dsYkhzcnZWSUsydzk0OVFNRTNvdGxidlZWRW5UbFVRWFY0UTJsdFBVSFVZTTBsMHNJYXhSVkM3U0FreUxaTVl4Sm5yODhiSnRBdThObHphazR4dEJ3RDQ5QXBuTFV0eWE4RGtWdFotYjllUXIzUEFTTTNjNGxjdnRJb2VDS2tqLVpFV2xK?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na Wisłostradzie. Prokuratura przekazała nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVmF5Ym5iRGxiNGRjYzlaZFROdlNyOWd0QnpOVlAzN01nX21ScWRGMGxiTmlvaWUtX0FYaXZkSnBaU1l3VUQ4a195Y3lqRUNELTBrdjVJMEh0U0xTR2k1Qi1iUkJUd3lGSG5sMzR3R2RqWGhkdHhqNjJaM25iVS1OZDJvZXlISTY0alF5OHJFQkZRQjVyZFBjcnR3SDBjU0hXS2E0a1VNY2VfaWZ6QnN0Y2NERGw3STU0N1d6U3JoLXE3aksza2VkWlhSS3VkMkk?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski zareagował na słowa Grzegorza Brauna. Stanowczy apel szefa MSZ - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjBMQ1RTclh5bWFqeWVTenhJNTh3dkQ0WVY3U0hTUXp4STBlcFg1OUQtMjB1aG1wbXdrZm1ORWhHQmE0cVFrSTNqSTJUZG9KZ2hpcGttQkV2S183ZE1xVWNlUl9BUTJENHRFTjJCMUtuTmxjcnpsRkhfWU1EWm9mX3FYQzlIc2dLQXZwWFBPUjFvc0lRM0VtQXRHNnRTNS1WQWcyejNyUWlWMk5tTlp4dzAzSUZrMmZvbW9yVThvYVFsM2E3a3Rya1VfQUNCXzNtZGc?oc=5"
-      },
-      {
-        "title": "O. Gużyński mocno o słowach biskupa. Poniesie konsekwencje? \"Różne rzeczy już robili\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWk1SXdVWnA3eUZGTjZMZWg2NHZiU194VW9TamtiQ3d1ci1mVU5SODZ3U2RCcFY4Q0lJc3AzY1lGOHl1RFJaTi1XZEVqbGV3LTNYUDlXck5MaEVmTk1IeDI0eG5RVVFPd1FJck5xXy1nTmRLa2R4cDhfQ0NxelY1TnNOMUhTV1JFbzI5a1lDNTFQT3NTVjFhWnBBanpCaXp5a3BwTUtCVmQwTlpK?oc=5"
-      },
-      {
-        "title": "Próbował udusić pielęgniarkę. Chwile grozy w lubelskim szpitalu - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzk1d3VIeDZGQXlXQnM4WTFnNXRmRG1yZzU0cWYwQzBEZTdrdk5MY0NhZ0E4SUVya1NfWFRJdFJVYzBTZGF5UmNlMHBNejg0eXlhM2kxSjJpV1ROMF95WDdQRlUzMmtZa0dIZzZySDg2SEI0dkI5V0xCNXNmeUZ0Ykt3OV85ektyOGlOWnNLYUotMUZrS0xqWVdEYmVoSUtRbnpiMUliT00tQWdmdU9TREQtWdIBtwFBVV95cUxPSDRUMV92NHBwYl9HbS1USHI5THhIa3FCd2p3X19YZHFTRm5DN2FGZXcxRkNmeGhoRUVwRTZfa3JTT2xZa2VVaFAzSU9aWDFqUkxaSFg2dHM0Wlk1dXVGaXFFUUVObVl0eTRFcVRwVnptQU01OGEtSEtFUDFEWDB3bEFVd29Td1k1M2xucF96eV9vLWVTakdZTjE3M1RaZ2gzbWh2VEE0UTl4UkVWV2xYLTUyUFFtSW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-12 19:11:49",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Trump uderza w stary kontynent. Eksperci przewidują skutki - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWlVhSngzT3BmenBDQk5IS1ByOTFram1zR1Y4eWR1Y09KN3N2RE1VU194QndGNEFKY2hJdmFrVm1DUFFyejBWdUFuVFRHemp2VjJWWUd0SGhtY19UN3RTSGt1X2xFeExKWFVjZ0N2SWd3dXI1dHdzMlpxZDZHaWd5Ri1ibjA5UWlJY0MwMk82aTg0RDZ3ZHBqQnZOQTk3VWRlX093RnhpelVxX3dZNmZsMlpR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-15 00:14:08",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6475,
+      "EUR": 4.2614,
+      "GBP": 4.9151,
+      "CHF": 4.576,
+      "JPY": 0.024758,
+      "AUD": 2.3951,
+      "CAD": 2.6659,
+      "CNY": 0.5087
+    },
+    "crypto": {
+      "BITCOIN": 438469,
+      "DOGECOIN": 0.720901,
+      "ETHEREUM": 10975.9,
+      "LITECOIN": 347.39,
+      "RIPPLE": 10.74
+    },
+    "indices": {
+      "^WIG20": 2879.77,
+      "^WIG30": 3727.45,
+      "^WIG": 3727.45,
+      "^NCINDEX": 254.62
+    },
+    "news": [
+      {
+        "title": "Twarde słowa ambasadora USA przy NATO. Chodzi o broń dla Ukrainy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0g2VjdNSWNPaVBEcDlKUFl6VHdDM25GaEx2ZThTZFlKNDBzb05PNmxXeWZFWEZyTEI1anhYdmlBelZsRmNQc1EwbFJJUElBQmRZNDNfMWRGcDBOdkE2VURleGdfb1RsYmRhdDlGeE9Rd0xiRnppMEUtaXZOWnVUbkM5NHptcGozSUpTOFRLUmVnNUR2b3ZiY0s1djB6X3V3anRDUkpOTFdGYW9Ma2Yta3ZuYW10T3dzMWY0ZUpfM1lCcmhi?oc=5"
+      },
+      {
+        "title": "Polak kończy kosmiczną podróż. Po powrocie przejdzie program rehabilitacyjny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRkUzQ4dDlqVWJWN3FqRU9qQ2dkYnFEZkp6R18xOHg2cERVZnVGb1IwaTN2azVRZlFOQVlDUXptRjc4Q2trd3g2ZDB2cXB1Uk1uWVUzOC1oMFFnT3hGeEhSb25DWkNhdHpacU4yaGZxS05LQS1NTk9CLXFLY2RRZmlBb2pUZi1DcHlLcG1hWWo0cGZvcm9CQkZwRjlRT29VbkZuWTBlQXI4aU8yT3BXRl8xbEllc3hRRjNIX05R?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Zamieszanie wokół urlopu Hołowni - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc190eXdNd2xieWZFNy1CUzdiVTR6cmo5Y2JZVzRObE8zQThqM0lfLVJtZXlkbFZ2SUktWmxjUnI0cTZUUnpEU3VPMzVKSjdlTlBrU2NCdkp4RTh1Z0NOcWo4NWUySHJ2SmNpTmltZXRIeTBXQy1KZ2ZXNWgtd1F2WmFYZm5XajFmTUViZ2Qyb216aGvSAZIBQVVfeXFMTzk4dFNTVnNXT1NjLXhGeWppb3NYdFFjWDBhR0RmLVVMakdzLW5YcUxabkpXUXZkMGRWLWVCeUJWSDhPNUV6dFFNX1dLM3ZYSXgzTVJJR1JzcmQ4RVVxNjRjc2RKNUpMNTlBZlRTNmlZX2NDZmZQYlJLOG1RdVZWYmtwa0lqNDQ5aW03OVdSaU8zNmc?oc=5"
+      },
+      {
+        "title": "Pożar hali w Siemianowicach Śląskich. W środku tworzywa sztuczne - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb09qcWZNTWxKZVFMSFdGdUdlSk9YdnZXbzREak4zbUh5SjFMSFkzcElxWEVqS0ItbTdJek10R2pSV1dVbS1fMlI2WmFhOGdDWGRKeW53T2s2N19QOXZtLXFPZFNKeUp3em41ZHl0U19OYnhwbTVJNFg1a1RRTlpqYk92Umtod2p5d3pUa25oOWpicXFENGgzVTcxYzE1RnZmN211UVVVM00zMXFh?oc=5"
+      },
+      {
+        "title": "Jaka kara dla Grzegorza Brauna? \"To ośmieszy wymiar sprawiedliwości\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVklxX1pZUHNKUm44RnI1djdRdTIzQ19MTnRGVFBqVHVZaXZxZ0hVTDg4V2w3bFlLZDhMNnFvYlVTdDZLamFYOWlRcE5JU1VqZkUtcUZqQ0FTeS0wRGtZQ2RVd25RbHE4VkxsNS1aV2drWHdNdHFTVDhfdEdyREhCal9yczB3YzR3UVc1NzJJZENmajI3SXVfT01FRU52VUlvQVlPV0RzU09GU2pGei1WQUVCSWtyQdIBtAFBVV95cUxNNVJzdGpMMnktQ05OdXJqaXhuN250U3RiT3p6S1ozUkNsenBQSUxEOXI0dzkyRHRJaE11UXE5YXhIUjh6VjU2QjRtcjRUUFV5OU9VOFpjc2hxSlhUSDJRclloWG1JWnV1anU2aTJWT3I0blc3WThrOWlDNDVnRlZEdXpLZTVfOURZd19FaDN2Z25fbHljZnI2LWo0V0lBbXozOGlxRGY3WHR3X0t2VFdlMEhDLVc?oc=5"
       }
     ]
   }
