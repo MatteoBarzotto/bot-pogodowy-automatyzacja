@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-13 00:13:05",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 428699,
-      "DOGECOIN": 0.715675,
-      "ETHEREUM": 10715.33,
-      "LITECOIN": 337.97,
-      "RIPPLE": 9.93
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Ależ nagroda dla Igi Świątek po Wimbledonie. Do końca życia za darmo - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTkdjTWNKSEVfcTJielh3MDM4a3pFelQ2c1VSdEVnVDBQSlhLTWozMjhnT2NMa25tLVJlZ0E4XzJVYjFjYzduNmQ2RWhXU2lhdG9Pdms5M1BvaDBkU1R5T0pXaV9JdmNuYXlHYUhGTFROQl9tejZ2X3Z2Zk1IV3JhZGtFZnhDUHBDdngyb2ZTakZIX2tWZFp6WXJWZUpPaXRlLVA1aHlzeDhmZzBRZUl4b05PRFhIZUt0TVE5TGstRnlpQmVESm1uaTNUdktqWHBO?oc=5"
-      },
-      {
-        "title": "\"Prawda nazywa zło po imieniu\". Nawrocki komentuje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk1aR1M1YVU0d0JSUl9VZGNNcXNHREFLUkVxZld1eVpIZ29pcVVfSzdNZk92eElBZG56d1JQME9vLWJUY1o5SktnSXdoTlc4ODEyNERCTjJMcjZ0dS11MUd0QTJCb1hhOHpLNFNnel9DYnJrZDhYQ0t0NFA1blR4RUFBeXFyNjRlRmxpSWgzbko0MXk3?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek na Wisłostradzie. Sąd zdecydował ws. aresztu - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXoxZFp5cko3RzBsVUNvOHRNN0VSeTJoMWRrSnlYMmtLZGVEOVFLQ2pBdk8zZk9aS0dWQldqbU9SakNrLTFVU3JmNmcxOEtNWG81S2I5S3doaU5zd0haWjhnbm1IUG1NUGIzZFppd2xyMUhNalVVN3RFZW1ETVd2WDZ4cUU3M0J6QUl4bW1TUFpQNTFJSDAzbVE0Sm1UNW9Ya2lGTkFNSjFnVmVzbVlGUGxxbw?oc=5"
-      },
-      {
-        "title": "\"Paragony grozy?\". Kupiliśmy gofra tuż przy molo w Sopocie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzdYTWxmY2RNRk1NNHhmLXhTbHQwOHFUWnd3TExOSG95U09NVkYyR0lWd2JQM182VG1nTWpfMlRsZnJ2ZmhrcURFYXM4a25YN0xKNzFFRGYyRy15czVOTjlUa05XOEY2aHVvVmZmdVFteWFCZFVNaE5iM0pQWGhyS091MEhHdzRPYTFtc1gwTGJQcXlvbGhFTHZlS0RTdw?oc=5"
-      },
-      {
-        "title": "\"Powstaje obraz rządu niedołężnego\". Były premier wskazał \"fatalne manewry\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXp1dGVHV1pKOFV3djF5OEVySDFFZi1OMzhrYk04SUh2ZG5namF2YnFwQnl0TklpLVhPaVBOc2w4WEFjWmQ3M0hPU1ZYN2JSYUN5d3BKZUhteklXOWM0VGdPc1RfUDhfNGliMkRZaDN6bFFEVE1UMVB6UEdmck9XQmE1VWxjSGt4OW9hTXdtUEZ1aVg3OHBNQlZxTWpERnJ5UUx0djM5cU1oenlRZmFwQg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-13 01:14:42",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Rosyjski rynek akcji reaguje wzrostami na zapowiedzi Trumpa - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTG5vN3ZwbWJ3ZTFrNzFheGFMR1QtTnBpcU8wX2tGOEctVGk2RXJNakt1QWZHcWtOMnB3NGRhcGdSY0dxVE41cU00bkpIQW9wdHdzaU5NWktEdk5yc25OeV9la2RoZ3FQNGxMWmQxNUQzY0kwTmVGOXdEY2dEYjhIaHNLYWVmbVBWd1JQTnMzQmJ6UTlIanh5S2YzVmVwajNsamJveWdzeG9UMlFSbnFJ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-15 08:22:48",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6475,
+      "EUR": 4.2614,
+      "GBP": 4.9151,
+      "CHF": 4.576,
+      "JPY": 0.024758,
+      "AUD": 2.3951,
+      "CAD": 2.6659,
+      "CNY": 0.5087
+    },
+    "crypto": {
+      "BITCOIN": 425929,
+      "DOGECOIN": 0.697589,
+      "ETHEREUM": 10842.08,
+      "LITECOIN": 337.65,
+      "RIPPLE": 10.43
+    },
+    "indices": {
+      "^WIG20": 2879.77,
+      "^WIG30": 3727.45,
+      "^WIG": 3727.45,
+      "^NCINDEX": 254.62
+    },
+    "news": [
+      {
+        "title": "Ambasador USA przy NATO reaguje w sprawie broni dla Ukrainy. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUs3MWpicnhuaklHb2Fldkw3QWRaTTVzUjFhTHVSWGFTTUdUZFQtMWVrb0tFQWRnV1o4N0ZYZEpNNS1pY0hPQkRRbTZHV1ZHanVkY0JMTUgxYU5oemZ3Q0ptN1RMLXNjcFFpZlk1MEdLYVFSQXp6eEIzUXpvd1JFMFJnRU1nazVIRFp4aGNQWE9HRWxXSENKaVJBZEp2TnJIMGt0SDZERnJsUUdpbGdNbG9CT0xwMlVHNUE?oc=5"
+      },
+      {
+        "title": "Polak kończy kosmiczną podróż. Po powrocie przejdzie program rehabilitacyjny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRkUzQ4dDlqVWJWN3FqRU9qQ2dkYnFEZkp6R18xOHg2cERVZnVGb1IwaTN2azVRZlFOQVlDUXptRjc4Q2trd3g2ZDB2cXB1Uk1uWVUzOC1oMFFnT3hGeEhSb25DWkNhdHpacU4yaGZxS05LQS1NTk9CLXFLY2RRZmlBb2pUZi1DcHlLcG1hWWo0cGZvcm9CQkZwRjlRT29VbkZuWTBlQXI4aU8yT3BXRl8xbEllc3hRRjNIX05R?oc=5"
+      },
+      {
+        "title": "Marta Morawiecka przejęła mieszkanie bohaterki z AK w zamian za opiekę. Czy seniorka jest tego świadoma? - wroclaw.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDFZQkVBLXc2QkptQXVLU0NleVU2dV9XQnJKVVowVlBzYnFBc3RWMkhNemhhcldsOU1ERTZLVkFVRUoyYmxuWVhJMjF2LW1iRHVKUkJqREh1Y2tuRTZYRHpLamVPWlZUbWVtN3RCLXMwd3J1Z05lVF9pZnFkX2Frcl9yaFFCb0ZHUGFHTnN3VnREU2F0cXJJNFlsY0hUWHpxRUotZnhNb1dpU2NQSmZUc0lCSkhoTExYandn?oc=5"
+      },
+      {
+        "title": "Spięcie na antenie po słowach Grzegorza Brauna. \"Pani opowiada antypolskie bzdury\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFluX1MxbFN3RDlnOV9ZWmF6NlFLZ3J5M1pYQXFvMDVSbWZXajZOangtLTB4T0ViUmJJMGlPQ3ZCMWZXVjBpeXZfRTlRak5FMGZoblZmSms0cFNTdzZBNEQ4UE92VHRBZE50SmpuTmM1VHF2MEREemsyank1MnFGNVJlUnhLTml1ZGZ6MGdvY1JZV2xkbFh5RXNSNmlwMFdLYzZxLUY0SlJmUWpKVWt6ek1vSU1PajlnY1VUY2pwTi1YUFFMbkE?oc=5"
+      },
+      {
+        "title": "Zgrzyt w koalicji? Petru: jeśli trzeba, zagłosujemy z PiS - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkd0d2VuX3A2QkpZQUJFc0NoVzd5bGVXWndmajgwRnUwbGRlT0RtbzNlME9haDlDeFNkTHk3STJuS1hpQm5QQ3Qwbm9fVVB2N3lYeUlsbFVOS0xfM1N2ajZnamEwWERaX2RQNVQyQndXVzZrdjV3Q2Z6RW9YQWliWXBpMjVMVU9DZ1Aya3RraTY3R0pGNjkyZnlDanpYcnNXOFhob2k2OGNOZGh1bnc?oc=5"
       }
     ]
   }
