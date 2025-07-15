@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-12 23:12:39",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 427874,
-      "DOGECOIN": 0.710719,
-      "ETHEREUM": 10671.73,
-      "LITECOIN": 336.56,
-      "RIPPLE": 9.87
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Iga Świątek wygrała Wimbledon, ale co wydarzyło się potem. Jest komunikat organizatorów - Sport w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS05fSHFOanptbk5DMjdZYlM0UkRXbUpKZTBvc2F6QjVUSGZHeTlCLVZSRWY2cEhUaml5NXd6UHQ5TW5hUW00TmZVbzkycDFQOVFXZUNQeVVicGVTd08tblZ5Wlc0VkFWaXVIQm1ncmlOZXVJaUhfV1BOSkd5ZzhDY1JzLVptX2lrSloxcC1oZ3N5Mk1ibUJjMUZ6YmF2RXhsZTVYSXppY1d2SzB6U0ZIVHNTWjJBQQ?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek na Wisłostradzie. Sąd zdecydował ws. aresztu - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXoxZFp5cko3RzBsVUNvOHRNN0VSeTJoMWRrSnlYMmtLZGVEOVFLQ2pBdk8zZk9aS0dWQldqbU9SakNrLTFVU3JmNmcxOEtNWG81S2I5S3doaU5zd0haWjhnbm1IUG1NUGIzZFppd2xyMUhNalVVN3RFZW1ETVd2WDZ4cUU3M0J6QUl4bW1TUFpQNTFJSDAzbVE0Sm1UNW9Ya2lGTkFNSjFnVmVzbVlGUGxxbw?oc=5"
-      },
-      {
-        "title": "\"Prawda nazywa zło po imieniu\". Nawrocki komentuje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk1aR1M1YVU0d0JSUl9VZGNNcXNHREFLUkVxZld1eVpIZ29pcVVfSzdNZk92eElBZG56d1JQME9vLWJUY1o5SktnSXdoTlc4ODEyNERCTjJMcjZ0dS11MUd0QTJCb1hhOHpLNFNnel9DYnJrZDhYQ0t0NFA1blR4RUFBeXFyNjRlRmxpSWgzbko0MXk3?oc=5"
-      },
-      {
-        "title": "Szukali zaginionego. Kamera termowizyjna pokazała plamę na polu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTF2YjJRTzNoblpxU3dlOXAtWnBTMkFRa25jQjZhYkM3V19TV1NxWmhRemduY2w5MFZIekhVc0tHU1IxNklTUzg0VW01dGwzbldpWVEtY0RaeTFEMmVJZ01JeENzSVFSMWlUQ3BRTWtEVGY1REVCUm1LTFVQY3M3aTFBTW9KYUxUaER5R0lNMVZpTUpEWEg0aVVQX1I3S21zZGVTRjdhUGhtVnRaYkRUSmkwcEY5aFU?oc=5"
-      },
-      {
-        "title": "\"Paragony grozy?\". Kupiliśmy gofra tuż przy molo w Sopocie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzdYTWxmY2RNRk1NNHhmLXhTbHQwOHFUWnd3TExOSG95U09NVkYyR0lWd2JQM182VG1nTWpfMlRsZnJ2ZmhrcURFYXM4a25YN0xKNzFFRGYyRy15czVOTjlUa05XOEY2aHVvVmZmdVFteWFCZFVNaE5iM0pQWGhyS091MEhHdzRPYTFtc1gwTGJQcXlvbGhFTHZlS0RTdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-13 00:13:05",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Seria pożarów w Polsce. Szef MSWiA zabrał głos - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3NEem53Y3NYTHVvNUVXWFQ4cXFxckRRQUtXbFBQaVVjOVZlX0p0T09kZDZWVjZ6d2swVjhXcFJ0MTJBaGthVkRnYjRnQ1VZcVhTcE5nbG53UHlWbDZraEV0amY4Uy1ET0N1bk9rYVpGRE1MTjlEMDJDZlo2UU5hcWVMY1FROTZWa1lGem5R?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-15 07:19:54",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6475,
+      "EUR": 4.2614,
+      "GBP": 4.9151,
+      "CHF": 4.576,
+      "JPY": 0.024758,
+      "AUD": 2.3951,
+      "CAD": 2.6659,
+      "CNY": 0.5087
+    },
+    "crypto": {
+      "BITCOIN": 428194,
+      "DOGECOIN": 0.698856,
+      "ETHEREUM": 10808.73,
+      "LITECOIN": 338.1,
+      "RIPPLE": 10.49
+    },
+    "indices": {
+      "^WIG20": 2879.77,
+      "^WIG30": 3727.45,
+      "^WIG": 3727.45,
+      "^NCINDEX": 254.62
+    },
+    "news": [
+      {
+        "title": "Ambasador USA przy NATO reaguje w sprawie broni dla Ukrainy. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUs3MWpicnhuaklHb2Fldkw3QWRaTTVzUjFhTHVSWGFTTUdUZFQtMWVrb0tFQWRnV1o4N0ZYZEpNNS1pY0hPQkRRbTZHV1ZHanVkY0JMTUgxYU5oemZ3Q0ptN1RMLXNjcFFpZlk1MEdLYVFSQXp6eEIzUXpvd1JFMFJnRU1nazVIRFp4aGNQWE9HRWxXSENKaVJBZEp2TnJIMGt0SDZERnJsUUdpbGdNbG9CT0xwMlVHNUE?oc=5"
+      },
+      {
+        "title": "Polak kończy kosmiczną podróż. Po powrocie przejdzie program rehabilitacyjny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRkUzQ4dDlqVWJWN3FqRU9qQ2dkYnFEZkp6R18xOHg2cERVZnVGb1IwaTN2azVRZlFOQVlDUXptRjc4Q2trd3g2ZDB2cXB1Uk1uWVUzOC1oMFFnT3hGeEhSb25DWkNhdHpacU4yaGZxS05LQS1NTk9CLXFLY2RRZmlBb2pUZi1DcHlLcG1hWWo0cGZvcm9CQkZwRjlRT29VbkZuWTBlQXI4aU8yT3BXRl8xbEllc3hRRjNIX05R?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Zamieszanie wokół urlopu Hołowni - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc190eXdNd2xieWZFNy1CUzdiVTR6cmo5Y2JZVzRObE8zQThqM0lfLVJtZXlkbFZ2SUktWmxjUnI0cTZUUnpEU3VPMzVKSjdlTlBrU2NCdkp4RTh1Z0NOcWo4NWUySHJ2SmNpTmltZXRIeTBXQy1KZ2ZXNWgtd1F2WmFYZm5XajFmTUViZ2Qyb216aGvSAZIBQVVfeXFMTzk4dFNTVnNXT1NjLXhGeWppb3NYdFFjWDBhR0RmLVVMakdzLW5YcUxabkpXUXZkMGRWLWVCeUJWSDhPNUV6dFFNX1dLM3ZYSXgzTVJJR1JzcmQ4RVVxNjRjc2RKNUpMNTlBZlRTNmlZX2NDZmZQYlJLOG1RdVZWYmtwa0lqNDQ5aW03OVdSaU8zNmc?oc=5"
+      },
+      {
+        "title": "Pożar hali w Mińsku Mazowieckim. Prokuratura zapowiada oględziny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZU00NFYyOHJIY3JsMU1CYzlBYXN1Vnh4T0NHbG9GVTVLMmJhbjRaY2NrSUVpRDJmbGtNYXBNTVVIVVFaSk4tNkt0ZEtOYmhER0E5NzNMb1lGSFZFSVZyampnMWhuT19CNWZGd203ejdsTVFwNTVHak5ScnRMZlB2RW1qZmJLSTE4YUJZTDEydUhuTVZJa19mS0pPc3F2MkxJTkNjMWNIYkZ0S0dlemd4cU1zcVdpNVAtMVAxdA?oc=5"
+      },
+      {
+        "title": "Rosyjski rynek akcji reaguje wzrostami na zapowiedzi Trumpa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTG5vN3ZwbWJ3ZTFrNzFheGFMR1QtTnBpcU8wX2tGOEctVGk2RXJNakt1QWZHcWtOMnB3NGRhcGdSY0dxVE41cU00bkpIQW9wdHdzaU5NWktEdk5yc25OeV9la2RoZ3FQNGxMWmQxNUQzY0kwTmVGOXdEY2dEYjhIaHNLYWVmbVBWd1JQTnMzQmJ6UTlIanh5S2YzVmVwajNsamJveWdzeG9UMlFSbnFJ?oc=5"
       }
     ]
   }
