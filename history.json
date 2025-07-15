@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-07-13 14:27:06",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 432152,
-      "DOGECOIN": 0.727118,
-      "ETHEREUM": 10846.67,
-      "LITECOIN": 347.03,
-      "RIPPLE": 10.25
-    },
-    "indices": {
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "\"Marszałek mógł być szantażowany\". Politycy komentują doniesienia o ofercie od premiera - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjY2YWxKTlp6NWM0dmhNa1pBVW1KNDJHX0VFS01laHV0VXFzek9fNFdfWVd0SVJHMTlSbDNSR3pFZVphVEpfZVNHVHZQSHJFMWxoTUEtZV9mUzIwd3BpcXZ1Z2RHU3VXdVEtYXNhUS1DajZwVXFHNjVFSnM3YVB5clpsWG1ndnNBbklISTVCUXBvaDFJMzA5RkN3SFlRTGtObDBYQ0djNnRndm1SY2VqdVljUExwMnlQSTFQSkxSNW8tcF9jREhERTVmd2M?oc=5"
-      },
-      {
-        "title": "Wjechał w grupę osób w Chełmnie. Mężczyzna usłyszał zarzuty - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmhoY2x0S3VDNkVuRVdhbXNHWFc0b2JsVk9RUEtPVU1qcGQ1aTFRcHVxcDdVTzBXaUZLbld5VmZ4RGJySTBleDQ4aXVTbTZfOHh1Q0xGdlFIMEpGUHlLdjk1RjM4aW1NTk1IU1NOd2dCYmZoeVFSdGJqQ1lIRDN4QW1NcExRUnJpUXQzNmVWbEJTVmxKVHdURFlTSzlObUlnMlZFREJnWjd5dWp1MGh0bmhB?oc=5"
-      },
-      {
-        "title": "Policja wydała \"czarny alert\" na Śląsku. Jest apel - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX2Q1S2dRRmwzLUJPRk83azUzTmtuQTBrSVhqY3U1QWdpdm0yQ0pCaVVFdkZ0VjVLZExXTzkzTUpxNFdVeEY2dW1sNm5qLVBXN0JTN0ExbGoxekl4VVJPaXR5M1FHV0hXYjJ4RzZ4Z1BYeEtyNm5ERXNDNTN1WkFWUWpZbXQtZFdrTHh1cGtwZ3c0Zw?oc=5"
-      },
-      {
-        "title": "Siemoniak: \"Kurier\" z migrantami zatrzymany w Polsce - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUl8tanZfdWo1Vkw4UDZSUXhjcXRuZFp1djJQOGtrdkpETkdnZG9vS0gyUDBaZjM3NTZuSnE0S3l1cHpCLVRRYUxyTUl1RU5BSVMtdHhSWG5BbzM1NW1CRVROR2I3NVQ3V1NiQW9uQ3hXbks3bTFLSlhUVFhZck5ldFk5MFJQSzFXZVRPcHpUdw?oc=5"
-      },
-      {
-        "title": "Atak na 17-latka w Tarnowie. Finał poszukiwań sprawcy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNS1aUWlTTFAtQ0lUaVo1emdfdW9YZUhpVnVLWkJtbktsRzdDQzlZWE1VRHRzbkNfLXJfYTVBdlZvVkFJblFEQUxKam9sNkMwdlRyTTRrTWVsUWxlS00xWkxrclozNGI3M3RDN2IzQ2o4enZqSGhfUXFHT0d4SFBqX09jenZieWxaOHBIMGNoSnZTSFo2V29idmp6OA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-13 15:24:18",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2593,59 @@
       {
         "title": "Pogoda nie odpuszcza. Ostrzeżenia dla znacznej części Polski - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEFvSXh5OGdfUFN6U1dqWTRYRlpQWldNTGRrQ3lrb0NfcU1YMmJYdEl2MkhEMHdmNlZBWlN0YlZfVVhDd0s5Q1I3bi1YV1FGaFRNajJVSm9oa2JTQWhMNFQ0eTRZdG03RC1iN3pKbVc0T0dJT0hvOExkY2pjWU9qazBjLVlVeVpodW5UMWUzSDJQdmx1TEdoMnlHMW03R2pFdl9KcGJDYnFPNlpVMGMyVGdjbkpzT1h4VldxdW5PSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-15 20:21:32",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6396,
+      "EUR": 4.2538,
+      "GBP": 4.8942,
+      "CHF": 4.5732,
+      "JPY": 0.024647,
+      "AUD": 2.3898,
+      "CAD": 2.6598,
+      "CNY": 0.5074
+    },
+    "crypto": {
+      "BITCOIN": 430605,
+      "DOGECOIN": 0.727781,
+      "ETHEREUM": 11359.6,
+      "LITECOIN": 352.19,
+      "RIPPLE": 10.79
+    },
+    "indices": {
+      "^WIG20": 2870.53,
+      "^WIG30": 3712.97,
+      "^WIG": 3712.97,
+      "^NCINDEX": 253.3
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski komentuje zapowiedź Donalda Trumpa. \"Powinna to zrobić Rosja\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmRYeVlCeXBqdEVNV3AxREx3WmRLLVVBRFBZZlgyc3kzeG9mV2hyRHhBOWFPRGJOODd6WGZpMjBMM1ZqdUJIN1dSckJ6b2N0QkxxeVZGanA1ZlRfZEd1X3EzQ3d5SUVUU2IzT0d4Y0JMR2VwUFNUcFQ0OS04eDYwMDlOZ1JGNkRnTzhQNVV2MnBkNEZfVEx2WlBZX0FLNUZEMldxTU1hY0dJZ09ESm9RVEJkdU5WTnptak15VkVQelpUdXdk?oc=5"
+      },
+      {
+        "title": "Donald Tusk komentuje ułaskawienie Roberta Bąkiewicza. \"Czas, aby wszyscy to zrozumieli\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPalVzalppNm9ZSXpUbDFxN3ZTSms1TVRLdzJVSi0wckZObDdQZU52d29tQlV0QV9IUDREVnhzVlkySUR6N3ZpekdyMEVxSHJSYVN2NEp5LW1iaU9pM2hhQlo1U2w5SFRocWFIREtKT2ZkUndiUkFDWHZ1VVhHdVhQV2tJZzRYay1SY3IyQjZvN2c4dUgtS01UblZBb3Y5V3g2VWRscFlzSDVwQVBDaTFXZHhkNUM0S2hTbjhoeExCanBTcXowd1IyT0VMZWl3cFc5U01HaElUOWo1OHo2Y1BZTw?oc=5"
+      },
+      {
+        "title": "Tusk relacjonował lądowanie Uznańskiego-Wiśniewskiego. \"Mam nadzieję, że umie pływać\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDFRX0paNjJHSl80ejV4d0o0ZFJpTHJKYzF5LWlBOEVNXzBWQVVLQklPeHlkbGRVZ01qbVhFWkRPVUNqZ2dLbFBGQTRtYlJzRUUwV0wwQlRtQ0tybzkxaHRkQ09RcWNYbnRsQmx4a2RrbjRaU0JsX0hsUlFxQmkyUTdBRHhCblk4RGNSa1pMSW5yTWxhbDZ0VUNibjNzSmllMzRvdG9ZMXo2WkNGd3c?oc=5"
+      },
+      {
+        "title": "18. pakiet sankcji wobec Rosji. UE coraz bliżej decyzji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUU5SERUVFpmNTFlNG9RUWlQZE5aWnFDaG1wMkRENE9DNkppQldKR0ltcGtFNzZ6UVExQXAwd1ZWZDB2UWZXMjZwaFExZWlPOUl6MTNJaXNPYWtrWFlOMUFsSWthTFROZ1I4YW42TWNaWGVwRzktM0xzenpuYlVwdDk5aUgxYW9YcklCMTQxY1U5WVpUZklNMUVZWVdXU1hWR0hkMmxR?oc=5"
+      },
+      {
+        "title": "Znów nawiązał do wystawy. \"Rozpoczynam akcję\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmhaa0FMWmRkeUhBcl9QMVNrQklKa1FQTEcyRGRNOWNTOFg0d1pRbWpXNDVvT3N0NzlIZ0RpVG1TVmFtbGtJd0FFUk1MU255UVRLTFNSTHdkVmNyWGRyN0g4M25BRW1PN3RiUDJoQzV0UVFSUk1TUWF2Z3VkY01WU21WQWZpVmdBX250UE1B?oc=5"
       }
     ]
   }
