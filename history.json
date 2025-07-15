@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-13 07:16:43",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 430282,
-      "DOGECOIN": 0.725713,
-      "ETHEREUM": 10800.9,
-      "LITECOIN": 342.38,
-      "RIPPLE": 10.15
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Rafael Nadal zwrócił się do Igi Świątek. Piękne słowa - SportoweFakty",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemRScGdNUE1HSlRsVkFUVER1WXI4X3JUMGF5VS0xQ25tSmh4ZDBwOVJvcFdRMndFaVdGLVNMNTdkaUJGb0VqRGIwcnphbXVwSEV6WlNoWURfU2t3X1BFMUo5Q2h1LVo1Z1FSTWNFUEI4UTlVdHNMWmF2NjZFUmY3T2RMcW9ITFM5VDVyLUlFdmVFQW9QQkRyV3Rn?oc=5"
-      },
-      {
-        "title": "Ławrow ostrzegł USA i sojuszników. Mówił o \"pokonaniu zła\" i \"konkretnych krokach\" - rmf24.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1JPY19lelg2dElNeUZmNHdBSEZ2cWdjWXZDQVFPaFdmTHlWWC1PejZva1k5QndMV1RhYkZacFcwdjNpMjRjazhteUxJanBGRHRCa1gxaEhOb01MdUVKUWhrSkJTVDBrRmF1WUZ4VnlPTmhRVWdUcUEydmhIeVhPUHdXQzNERjdpLTg5eWIwOEtHLWMyWlZ4dFBOZzRwbmJXczhCQ2tPSHNZeENWTGhj0gGzAUFVX3lxTE1YN1lCUXFFNUR5bXVNZkNQZ3ZYaFRqSHo0NXlGNV9vQkhOeXNDZHlfOG1JY2tvMnJ4VklHUGJ3YklHUWdCUVk2a3Z1MkV5ZlpnZHlKeEdfcGx5a3ctUWNTLW5TTFNxWTNwVmNqMVNIMWstemZuamt0Y2w1YjJIX051VjBTWWFOWEM4RW1oc2pyNzlra0trT2VNemxJanZ2THU5NDEyWWxxSDUxdTA3TXh1RWVN?oc=5"
-      },
-      {
-        "title": "Media: Donald Trump zamierza przeznaczyć dodatkowe środki na pomoc Ukrainie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1ZZaEh4NWZjU09YemFWamJHa09zSWkxdHlqZEhybFkyRk5sdzZOUElaZ19ubU5MMVU0YktVRDMteHJQNEVueHNPZjcxWFltRUpyQUltaHpjNE5zVngtTVRvelE2b1B0R25UdVZGRlFjbHVnX0NaTGlBUkIySE84aDkyZVZUVzd1ZGJrNVFQcDFhMG83a2FnM2ZmLVhkMmEtc2lVc1ZMamt4aTVqWElXZnVqV0dZQQ?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na Wisłostradzie. Jest decyzja ws. tymczasowego aresztu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLU9vVWRqblZEQkVDNlZ3dHNOU1hWQlRYOHMwcTdkVHk3bFhKSkVjMkl3UWI1aTV4U2x6QTc1Y0Y1R2pSTDRra0NDZXJ1UlpuTURndmNSUTR2Wlp0NnJrVW5BbzFjc3YyNVZobTRxQTJXMkdYWG5vTU5rOE1tVVVhNVItc2pFUjlieFdtbDItc19vMXlwWVpCdmpJeE9SQ0RMV3dtcVpjN1hQUXdmb2FoZ185YUk5V3JXdXhj?oc=5"
-      },
-      {
-        "title": "Andrzej Duda uczcił pamięć ofiar. \"Ich jedyną winą była wierność wolnej Polsce\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5TYlNJcUFkQTY2ekdRQW1mbTFrVzdCWThkSFcxVmpOcTl0RE1YTV83Q3U4VUlSWEp5cnZzaTd0WW1UcE8xMG1SejhRR3BqU01hN052TEhOeFlpeXVKMVpVLURST3JzY3lQWnRYbHR1ckVqYzRzMmlFQnctdDlDU1pwaUpnUFdaMDR0dXlCS2YzejJoVTk4QlVxSEh4VGVGX3RQRG5ObERhUGZiOHZmQmhvX3VLRFNZaE42dWRqSWxGZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-13 08:20:37",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2641,6 +2588,59 @@
       {
         "title": "Nocne spotkanie Szymona Hołowni. Nieoficjalnie: jest postępowanie w SOP. Funkcjonariusze mieli być badani wariografem - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlR3dWZWOTJRb21UbWVYX01NSTBvbE1hTWJjWjA5NE5UX0JpeWhWMmk1T1J5M0dsWG9WNGFLRTJKODBXNFhmVGU5OV9WR2taUkZzYjh3ckhBXzJyX3RLYTlGeVZTMy13VDFEbEtwNGFCSGRJaVoyd3JzRklNSjN1VFI3T0dFOHNrbVBUWnRNUG9PVU9MNGNFZEU3Q2JqWmpXdkVRVzZtYWw2TGdLM0RlOGpmaDBSRnBNS0pycGtSdzNYSXM?oc=5"
+      },
+      {
+        "title": "IMGW ostrzega: Burze, deszcz i wichury nad Polską. Sprawdź prognozę na 15 lipca - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEQ1Q2JXZFZfTmdQTVM3QU5TYy1DX1g0M1E2Z2pfRENfS2NWMk96S3h5eERaQkNXMUdyRE9mU1ktcmNiSTUwaWRBWVdEc000NmtFWVZXb19uckFGM21rYWdtQmpYcGcwd2p2QTZYQzFMWTJZS28wRHdYQVhTWGZfZzJRempXUVdBMnNhMU9wc0NpSkF2VDhwVnp3QUNYcElVQ3dqSmh0cWrSAawBQVVfeXFMT3BndC16Z2U0YVdvZjE4TC1OSFpDdVJuZUF0a3NsY1B4YS02VERPZFVQQjlOZUMweHllcTJMU3hwX2VQWTlIVTh1WkJWcExnd1JJSGtpcE5hbWJHV1hsZExYQlpZcXRHRnRNbGtCLWlJcDlXM2lEZHNHSXZJTF9VNXh1SU15Nm1kV05fYWJvb3R4YkpESHVCY2dZZUdIcDhsVkJqN3hDUXo3ZGxMOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-15 13:13:09",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6396,
+      "EUR": 4.2538,
+      "GBP": 4.8942,
+      "CHF": 4.5732,
+      "JPY": 0.024647,
+      "AUD": 2.3898,
+      "CAD": 2.6598,
+      "CNY": 0.5074
+    },
+    "crypto": {
+      "BITCOIN": 425935,
+      "DOGECOIN": 0.700483,
+      "ETHEREUM": 10841.48,
+      "LITECOIN": 338.74,
+      "RIPPLE": 10.63
+    },
+    "indices": {
+      "^WIG20": 2909.33,
+      "^WIG30": 3760.83,
+      "^WIG": 3760.83,
+      "^NCINDEX": 253.81
+    },
+    "news": [
+      {
+        "title": "Trump zapytał Zełenskiego, czy Ukraina zaatakowałaby Moskwę, gdyby USA dostarczyły jej broń - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZV9wMkhUd25NUFNsSWt4ZHpubnFHdWtuYXRSTTJqYTFkdkxXaXI3WTRZNGIxbmhNbG9PSmdmQjQyZkFVZkRGemxmNkpjSEtlUE5oa3hGVWZpQ3ZiS0J0aEhmcll4dmpwT2JyU0NwNVpXZDlvcV9kbVBna1ZJNGthcFVhVUd1MFZ5cDlnLWE4VUR1b0JjY0N0eG1Jekg4cWVvMld6UmhiQnMyZ1VMVDRKcXhsYWxHSWItUnBjYlh2T1Njb3NjQ2N2WDdPX2lwcms?oc=5"
+      },
+      {
+        "title": "Polski astronauta wrócił z kosmosu. Otwarto właz kapsuły Dragon - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0JHUXNhWUNWbGRPQTZnT0lYc21rM0tnelAydHNibF9tQU9MZ0JkRlBpcGhycXhXZENuUERhWVNrdUs0YTBZNUQzYS1XMzNYc3hsNXprb2dZaXNsZmVpLVV2dU95TFVQQ0dNQlFVbXNnT202MklldlBZYmd0WHYtNnprc1pKakdxeU5PRU13NS1sNElvLWxnWENRRDZMaWJXYXdJaS14Rk1ZNXpkRGJTeEFCMjFEN2g4?oc=5"
+      },
+      {
+        "title": "Rzecznik Kremla reaguje na ultimatum Donalda Trumpa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0l3aTRxTEFURmR2d0ZaQURkMUJ3MkhUVWo2UUg4QVpFaWgtMG42cFBMVmppRWVBQ3FNVER2UnlqUFhtYkNta0phMC1nVDJKdDkyQlA0akE5ZS1PcFRrRDZyOTBQRnZqWmZldDlsWXlvRll2ejg3em5HaGZPRFcwRnJWOUsxTnhsRTZ6UzdlN240cFA4Q2xIZ3JlZHJfUUtrbHBNbDBjeHBuV2NNYmJXWEFjaUk?oc=5"
+      },
+      {
+        "title": "Rzucił się na przechodnia z maczetą. Zadawał ciosy w głowę i szyję - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUFIeGtGZkRjS3N5cFRodGVHbFNVUkJiZjdSRTlDR2JWYjZqS3ZUNHdLdk5HS1U3TnV0WTBMb2NQWmdkeU14Q0pSUXZ4aWh6Rk50Q0hsU2ZrdlNqNE1BYTVHUEZSM2k2c190QmsyWW90ZFFYajlfSU9ubjRSM094WWZZT21KenJyeDRJd1FseUctcUVBV0VJWktxV3ltNFo3bWJxYi1aV2RRRU1xeFZBM3NXLXpyZ2RLcF9JalFXaVRUSDBz?oc=5"
       },
       {
         "title": "IMGW ostrzega: Burze, deszcz i wichury nad Polską. Sprawdź prognozę na 15 lipca - RMF24",
