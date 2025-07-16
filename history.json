@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 05:27:41",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 438370,
-      "DOGECOIN": 0.738967,
-      "ETHEREUM": 11003.91,
-      "LITECOIN": 351.04,
-      "RIPPLE": 10.69
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Ogromny pożar w Mińsku Mazowieckim. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlQxYTFkaDJuZjN2dXNjUEc5RHlaNmlVemFDYzE5MHZIZFVZTDlaVTlRVnhKaENtUmJWMmJIc1RLZUcyRGFGcmdBRDVrNlZFR1FwWVMzY25VOWdLU0xkNEFKejgwenhMV0ZFQUloZTlrN1BwM2lvZHNuU3JBX1NlS1BrUTJuakdZZ3p4TEFkSWFsMGx6WmRsNHhwaUZzRmNVNVh4US1sd0g0OER1ZTZYZA?oc=5"
-      },
-      {
-        "title": "O. Rydzyk ostro krytykuje szefową MEN ws. religii. Nowacka odpowiada - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnpWTkMtem85UGplZWFHSkM2T0paYUVuN2xFVzZQNUhQcEhTY1RuVS1fR1Ezck1QRUsydjh2VDNTdm1oSXlxT0VEVXBqUTRnS2RQUlBjaGtDWnpTLUgzRmZUZWZYNFJ5Z2U4R3hBZy03ZUtGQUc0bG85MzluUGI4R3BMVWs3SGp4V25iM0RtR0luTEJWbElmM1JlQXd5RGVPSkpGY19rajR1Vnp6?oc=5"
-      },
-      {
-        "title": "Cała Polska w alertach, IMGW rozszerza ostrzeżenia. RCB: \"Przygotuj się\" - Radio Zet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVRhZlhlMndyb3FGNW8yM3M5UmU5dmhULWNSNWtrWENLWnFxRC1taFFYWVVLb3J3N25mazB4aHRSVXBRLWdIQVVsR294UmpyZ3pxYlBER1ZkTWZUZ1pTOTZMOE1iYi1LekJpT0UtVklOdVl5eWxNWjRsMlREV2tsWDBkUzh2anZ4aU9hS2NSRUhYalRnNmlUOE9tSVFmdjU5UDZTY3NibW8?oc=5"
-      },
-      {
-        "title": "Wielka burza zerwała dach kościoła. Ewakuacja wiernych w trakcie mszy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzNpSUFzOUp2bW1tSFM3bGpnWmFGM3dnRkx6c25TdzNCN001aVRwU2JwNWozakhhWklyNS1LdEpJMElyUVBiNWZZVzlUYWFtazkwajN1SHFXN3NseFlIZVZ5TG40YjMwU1Nfd0w3Q2lIaEdfcnBYeGFsTnZRM29teURyUXFCTndzSGpDOEJCa0FXbktyQWVfOVJZV3gtTzF0QTFLUmJKc1F4LXVISy1zY05ybkhhenpuWmdSYQ?oc=5"
-      },
-      {
-        "title": "Mark Rutte leci do USA. W tle zagadkowe oświadczenie Donalda Trumpa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RmMzNJUXZ5V3lmVFhpX2xMbXhxWUNOWm1XVVhSWjAyUGtzY1F2aWxYVEdPNzZ3eml1bHE5NFByVkpON191Vl9vcW1hSVdUTGcyTldEWVppcktKS3BqcU4zR3JMT184TDE4dlhRanR0N1NUbkpESlhSbXl2VVFfRlM1S3RLRnptd1dfQ2VNclE4ZzZudE9PUDEybUhyNlRPUmNxUVhOZ21PeGs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 06:36:20",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tydzień do rekonstrukcji. Zwrot na Lewicy, nowy negocjator od Hołowni, młodzież u sterów - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDNrYXRhVVlLN2lmSHhGVGZNQmViaEF0MzZBdkVPZkRzYjZSQm8wSnkxb1NKVDlPOVhtaGprcU82YlNTX253RFctdEZfWVdpWjhUNEpfS1JNZnYycHJlbUtCZlI3dEN4WVI0cjZZc1pva1RrbkFKVi1DQm0yOFpNbF9qR0owWWpmMGtNR2hJZFpxNDNLa0VzdllXTVl3cW51Z1JuQnVIMC1tNmdveno2bG1ibEZHZnZyd1RGLWNNWGRzMDdCSmJrZWFKSVdDV3RBdmJMNEo4VQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-16 11:19:59",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6396,
+      "EUR": 4.2538,
+      "GBP": 4.8942,
+      "CHF": 4.5732,
+      "JPY": 0.024647,
+      "AUD": 2.3898,
+      "CAD": 2.6598,
+      "CNY": 0.5074
+    },
+    "crypto": {
+      "BITCOIN": 435914,
+      "DOGECOIN": 0.734748,
+      "ETHEREUM": 11619.01,
+      "LITECOIN": 354.73,
+      "RIPPLE": 10.84
+    },
+    "indices": {
+      "^WIG20": 2876.1,
+      "^WIG30": 3721.6,
+      "^WIG": 3721.6,
+      "^NCINDEX": 254.18
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony uderzyły w fabrykę polskiej firmy w Ukrainie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDZnb0lFdFBqWTNzbDlZblA1YUk0aG5yQVVLTGZOSXlXRmdfMll0UkxyUUNTblRuckhBV21uNTdUQzE5VGdiV1B0Wm5TZ0s3UlR0WDE1bDNzaE5PLUpkVXFRaFdXMHRWNlVYZDFVYlF6QklwVmVQU0xYZFJTRmdHcGs3c2FZOE5ZdWlUVmc0bC1nZXhiSFdaMTdqdmtGaTNMdGstMW1WSzhHeGpfVjZGTVJUNXE3TlZU?oc=5"
+      },
+      {
+        "title": "Sławosz Uznański-Wiśniewski leci do Kolonii. W Houston powitała go żona - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0E5dFpTYzVrWWluZW53c0E5N3prdUdxcUp0NlJUQ2lMc3NydlFxZ3NmQk0zcGRVaGpXWGcxa3JrY28yUjR4SGJkQS1YcDBUVnZvMVlVRTFYdU9VVkRoSXpZdkt2MmlGTHNiZVFhQW4wbmZXT1VQUWVqaFZkZUpFOEdTb3pMbGt6cXVRcVR0azVGSFVPb2otNk41NWUwdFV1YXBYZGUwaWxocDQzTHBYRTBiT004S3pDb1I3N0hMNGt1Y3Y0WGY0NXNn?oc=5"
+      },
+      {
+        "title": "Ułaskawienie Bąkiewicza. \"Babcia Kasia\" reaguje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXBkVm1CU1NXTTVrWWwza3YyOGZNdEhYSGV6eU10NEphUHZnVmZEUmQ2bzFhNkJ0c1dTN3pNOWRqOTdJQ1pQODRnZW9Hb3p2YVpYcmtHaWVwVDA0OHFyY2d6MHZrLU9Vb0RMTGlTTlNiTjRzandfRWJkVU9kVnZ0dXpxcDYtTkp3cTdVcW9Qbks?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny: PiS i KO mogłyby utworzyć rząd z Konfederacją. Polska 2050 coraz słabsza - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajdraFFaa3dGaXB1cG55dFZDeUI1UDRmcm5nTFdrLTk4aXdfUHFzSTlSVFFqa1k1ZlNWSEtiMVdCTmNFY2RTNXJ1ZmtvRnVCY09mUkYySGxtRzdTSGFybUtqNUliZUpmV2VWLXRXMWtSMThXQTV6TW42RGI2RlFWMFlSMDc4TzBCbGwxSUdaTkh6cHM1SEs3Y0dDbV9zOGtzRnM3NVN2YWZManNr?oc=5"
+      },
+      {
+        "title": "Dobra wiadomość dla Ukrainy, Donald Trump potwierdza. \"Są już dostarczane\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajRjWlI1WEF4MzBFcjFIN1JVdHRlNngwU1FEWFdVSkdQMlVia0pkZXRlZEJoa0llMnlEU0t3Z0hEdXRHX3BHa3lubndMeUkweURyRUY1NldOOHJhUEhNRjJzRlNSWEVzNGJ0akVVSjVuWm0xT2JVN1QtNHByNnZVRlRyaENUMFhsQXhXUmxGYS1uVU41dHp0Z3hJT0pRWWdiU1FpN2VXLWdqYkxfZjFGZzM5SUVoT29tTVE?oc=5"
       }
     ]
   }
