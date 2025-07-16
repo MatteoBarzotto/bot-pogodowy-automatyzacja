@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 01:14:32",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 433420,
-      "DOGECOIN": 0.721504,
-      "ETHEREUM": 10825.8,
-      "LITECOIN": 344.96,
-      "RIPPLE": 10.33
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Ogromny pożar w Mińsku Mazowieckim. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlQxYTFkaDJuZjN2dXNjUEc5RHlaNmlVemFDYzE5MHZIZFVZTDlaVTlRVnhKaENtUmJWMmJIc1RLZUcyRGFGcmdBRDVrNlZFR1FwWVMzY25VOWdLU0xkNEFKejgwenhMV0ZFQUloZTlrN1BwM2lvZHNuU3JBX1NlS1BrUTJuakdZZ3p4TEFkSWFsMGx6WmRsNHhwaUZzRmNVNVh4US1sd0g0OER1ZTZYZA?oc=5"
-      },
-      {
-        "title": "O. Rydzyk ostro krytykuje szefową MEN ws. religii. Nowacka odpowiada - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnpWTkMtem85UGplZWFHSkM2T0paYUVuN2xFVzZQNUhQcEhTY1RuVS1fR1Ezck1QRUsydjh2VDNTdm1oSXlxT0VEVXBqUTRnS2RQUlBjaGtDWnpTLUgzRmZUZWZYNFJ5Z2U4R3hBZy03ZUtGQUc0bG85MzluUGI4R3BMVWs3SGp4V25iM0RtR0luTEJWbElmM1JlQXd5RGVPSkpGY19rajR1Vnp6?oc=5"
-      },
-      {
-        "title": "Wielka burza zerwała dach kościoła. Ewakuacja wiernych w trakcie mszy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzNpSUFzOUp2bW1tSFM3bGpnWmFGM3dnRkx6c25TdzNCN001aVRwU2JwNWozakhhWklyNS1LdEpJMElyUVBiNWZZVzlUYWFtazkwajN1SHFXN3NseFlIZVZ5TG40YjMwU1Nfd0w3Q2lIaEdfcnBYeGFsTnZRM29teURyUXFCTndzSGpDOEJCa0FXbktyQWVfOVJZV3gtTzF0QTFLUmJKc1F4LXVISy1zY05ybkhhenpuWmdSYQ?oc=5"
-      },
-      {
-        "title": "Czy Kreml ostatecznie zerwie z Trumpem - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm5fRHczcXpCWlNKUXZ0T3A4NFM0OXNxSWl1YVBZTzRXSTU0N1N6WVJxdUNPVjNMUGZCcUNvQkFmelRGdWZVX1VuR3lVdnVuRDBHWGNsOUxGNm4tM3JuVGZPUHRLS3I5cEpiaG91YnBtYXJNYlcteU8wcURFbnZWNzdSalZNYWFxTS1OUXQ2ODNXak9wX0c2NmlLOTBscEpQ?oc=5"
-      },
-      {
-        "title": "Mark Rutte leci do USA. W tle zagadkowe oświadczenie Donalda Trumpa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RmMzNJUXZ5V3lmVFhpX2xMbXhxWUNOWm1XVVhSWjAyUGtzY1F2aWxYVEdPNzZ3eml1bHE5NFByVkpON191Vl9vcW1hSVdUTGcyTldEWVppcktKS3BqcU4zR3JMT184TDE4dlhRanR0N1NUbkpESlhSbXl2VVFfRlM1S3RLRnptd1dfQ2VNclE4ZzZudE9PUDEybUhyNlRPUmNxUVhOZ21PeGs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 03:15:40",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rzecznik rządu reaguje na głośną wystawę. Ostre stanowisko - Onet",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0NnM0h5cWFYSWJvRkxtSDZob0NLTmp5NmVUYnp6YWE2YmF4aVJZc0JXYTNSYUx1T2MtOHVLXzRGa2NLOGt2TDhVUXMyVzUwWVVrcUtXQ2NSV2lkMS04OHhPSW8ySEdPbHBHcFNDNlh5a0tDMGxOTWNZdXYwdFVjYzM1Ym15MVV4RWZwNkdmVDliX2ZZSjBjVUlXM29UZnNDWlBEV1dia1N4N3JOWnVJNG0wR2p1cy16TXdRSg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-16 09:17:08",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6396,
+      "EUR": 4.2538,
+      "GBP": 4.8942,
+      "CHF": 4.5732,
+      "JPY": 0.024647,
+      "AUD": 2.3898,
+      "CAD": 2.6598,
+      "CNY": 0.5074
+    },
+    "crypto": {
+      "BITCOIN": 432867,
+      "DOGECOIN": 0.727601,
+      "ETHEREUM": 11578.61,
+      "LITECOIN": 352.28,
+      "RIPPLE": 10.74
+    },
+    "indices": {
+      "^WIG20": 2861.89,
+      "^WIG30": 3702.75,
+      "^WIG": 3702.75,
+      "^NCINDEX": 253.3
+    },
+    "news": [
+      {
+        "title": "Szokujące ułaskawienia Andrzeja Dudy – politycy, działacze, przestępcy? Oto lista - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZks2NGU2VXdScXdiU1VMcThOZVcxbUFWbk13bWkwSmUyaEtOcl80Q0l2MFZ6VWl1VDVNVVR4Rk1yOEJCako1Vmh6aUtfRVJ2VDVWU05LRGQ2OFBGMnBrMVFFdlNXSm1HNUs5ODBFSV9rbk01bEhDVlJlbkdzUm81VjdyNlFBUzUwSHpDblEwSlE0UDZLME9aU3dlNlZkaTJNYzE0TUZwVkNnN0drSzNjZnpTWEZiLXBMc2kwdjRlLTZORFIyODlJdmhjTUhYS1U?oc=5"
+      },
+      {
+        "title": "Dobra wiadomość dla Ukrainy, Donald Trump potwierdza. \"Są już dostarczane\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajRjWlI1WEF4MzBFcjFIN1JVdHRlNngwU1FEWFdVSkdQMlVia0pkZXRlZEJoa0llMnlEU0t3Z0hEdXRHX3BHa3lubndMeUkweURyRUY1NldOOHJhUEhNRjJzRlNSWEVzNGJ0akVVSjVuWm0xT2JVN1QtNHByNnZVRlRyaENUMFhsQXhXUmxGYS1uVU41dHp0Z3hJT0pRWWdiU1FpN2VXLWdqYkxfZjFGZzM5SUVoT29tTVE?oc=5"
+      },
+      {
+        "title": "Koalicja Obywatelska goni PiS, Polska 2050 na szarym końcu. Mamy najnowszy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1h3dXNfaTBrRkRBVnBqZzg4bHBSVGduTnVfWlNKdWtvSGtTb2JCTDlFQWhKRHJQRFBVWTNPc2hocDVZZURyZEc1RkZncmJGNzhWUnJNT2VVelBZYTRQZVRzdFhGbkVmOXZnMW0wVVpyQ05va25TclJ1SjB2djQ0Tldza19TUV9CZTNVbFBSdU1rRjgwRmRlaUJGYWFnVy1OcWdvSERuM21lSDZBTF9kakVxQmlTdk1wQjJwRlBsNA?oc=5"
+      },
+      {
+        "title": "Czy rekonstrukcja pomoże rządowi Donalda Tuska? Polacy wskazali, co sądzą [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQWR6REdrcDhacHZtNGlQc215NGw4am1qd0xnWTBzLWdZQXVYV1JER1NIaVZSTFhrejF2QlVhcnNtM0tYVm1yM2ZWTGFMNk5UVlY4b0pvNkhaY1J5eHBzSlZsdXlRM0FIb193Wm9weTRIcEw3ZThmTFRkUDNZNWh0dy1venRXNll1QXIwS0pjMExlYlpvQmNaNWljekNyUWlHblJuMkhoZ1M2RGMxdThlaXp1bFIxdEtqOWE2Y3ZmWXdJQXczQmdiclI0VQ?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: kolejne problemy wiceministra z Lewicy. Ma stracić stanowisko - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWTBsVFpWQnZsWXVOT2NZZ2lpSVYyYzRDNHdENXpZRmtuekMycnRqQXlzYmpES19sRFBOU2toaDdNdFRwTjNQcjNwZl9lNmpqTzlFam81M29halYtdTNnRGdKRmplOGliNmUwNG1FZW1JVDdQdXR5ZFRlYk5YM1N6WXJ0cC13eWJlV0o1MjJjaHVkUXJGUDduNE83N0NmRUpabDF4a3AxMkQwUGZoWVhDREtkeVQ?oc=5"
       }
     ]
   }
