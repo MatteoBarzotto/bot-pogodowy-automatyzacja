@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 15:32:10",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6475,
-      "EUR": 4.2614,
-      "GBP": 4.9151,
-      "CHF": 4.576,
-      "JPY": 0.024758,
-      "AUD": 2.3951,
-      "CAD": 2.6659,
-      "CNY": 0.5087
-    },
-    "crypto": {
-      "BITCOIN": 443811,
-      "DOGECOIN": 0.745647,
-      "ETHEREUM": 11106.17,
-      "LITECOIN": 352.66,
-      "RIPPLE": 10.78
-    },
-    "indices": {
-      "^WIG20": 2867.7,
-      "^WIG30": 3712.42,
-      "^WIG": 3712.42,
-      "^NCINDEX": 253.36
-    },
-    "news": [
-      {
-        "title": "Bartosz Węglarczyk: Jak Grzegorz Braun testuje polską demokrację - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGh5OGg2aWxyZ3k3SUdva1JQbTlLZFJnbHp6dnYtTU9ZYzNyTzFMRXMtRGM0VTZiSkhuV21ZRTMzZnVhUHZNSkY4SENlZzBtSzZiWWJrNWxIeUtVNm4wM3loYnBuSkNyVmg2Y2FqS2ExTHgxS3p5bFJMTDFkd3NVSGpzbTdRQkVYNlRlVldXVlFaYXIycldOemRTckllZUM4WXZXRGdPZEY?oc=5"
-      },
-      {
-        "title": "Wystawa o żołnierzach Wehrmachtu zatytułowana \"Nasi chłopcy\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHNhZFlKeTRUOXlna3gwSV9FTXBCWURaWnY5cHQ1dVQySXdaQ3cyY2NRY0M3c1NncElXdENmRkdRNjNsRnlHTWpkamw5WDFLUjNhVkRwTjh5S3JfTGxRSHYtOGhFSVVlc1pvdXRla2ZWVkRrS0wzWnoxYVZlTXBKMDdHLTlqeUljblJFSTJwRU4yQTJNNzdQN2xkVUdJUQ?oc=5"
-      },
-      {
-        "title": "Koniec misji Polaka w kosmosie. Kapsuła Dragon odłączyła się od ISS - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGY4RG5vOXBZYUhhSTNpUjZDeFFWZHRLUWp5NmpacU93aDk1UTZIanR5cXI3Y2dxUHB3bGRyeTR0X3NIWVVPMnFkOFV0dDN6RHozWHFJdkFvOFk3VmtzVUNFelhNMHlPV0VfUThoQXNSLUtOSWw5RndIX09QVkdDMXA2ZjdmVnZSdjFKRjBidEZ2cWJVM1BqdkJFUmRuOTF2cDJBOFR5UlFIV2RqbnVOS1dzYmd6ZUt4bzZNQ09n?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu opóźniona. Powód? Urlop Szymona Hołowni - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTZuSW1XQTdsdUJQNzZ0Yzk2VU9uaVRMMHNrVVVJZkdZUU5OZWxwTUduS0diZ1puODdEV1loNzNVbzVjVC1OYVV2V054QXBGSVgwMzhPWV8ydEtxNXN4UkxTemktbDR1d0NPOE5fY1NpWjdyRmpWU0xxUDZLRzk0S19OcHR4cUxkblluaV9XWENYTHhWblZlZ3lSVmpJVndVSmFDQ2EyQjduUQ?oc=5"
-      },
-      {
-        "title": "Agresywny migrant rzucił się na żołnierza. Rośnie problem na granicy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1BkQ1FWYXRadWZBR1MwR2pMeUZmRVNjcFhBM1NaZW9WVEdpZzh2UWEtNzVQVXE5MXRLNnA4aXlxbHgwYnpFcFdZYnk0LU4tbGlMUmFYMnkwOTNjVjk0RVJfbFo4Z3k3b3J4RDYySXBzcnBpM3JDeGMyUk1zVEU5MmJPZDI3bG1ZakFDb3J2dW5YbFJxUjN1c0pja1JNVW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 16:15:34",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Imigranci zaatakowali żołnierzy koktajlem Mołotowa. \"To atak na państwo polskie\" - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG1haFpMbDctSjFwOUtVSVZzbjF4UV9ZMjFsdGRaTVBzdnR1N1lnNVc4S1RUdkJBWnZRTlZnWUliZl9jaGdBRjQzb1BLQXljRkpTcll5NjJmVHd3bFZCMDlqR3pPQ29NQjUtTjhiWTdKT1ROUFpWSkJGR0JPRldDWllPaHJYXy1kZWw1N28tNUZqbU1CYzRYWnpUbjlJajRzc0hLRlJPUDdZdlU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-16 21:13:17",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6631,
+      "EUR": 4.2585,
+      "GBP": 4.9055,
+      "CHF": 4.5719,
+      "JPY": 0.024611,
+      "AUD": 2.3889,
+      "CAD": 2.67,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 437229,
+      "DOGECOIN": 0.763262,
+      "ETHEREUM": 12227.8,
+      "LITECOIN": 361.55,
+      "RIPPLE": 11.15
+    },
+    "indices": {
+      "^WIG20": 2868.56,
+      "^WIG30": 3711.18,
+      "^WIG": 3711.18,
+      "^NCINDEX": 254.66
+    },
+    "news": [
+      {
+        "title": "Wielki pożar na festiwalu Tomorrowland. Główna scena w płomieniach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXU2eFVpQXE4d0RVcU1IanpTemROUl9McXVRZXdKcHJSaklZVVBjaWdsMkpCX1VuTXhyNldmUHY1dmVuU0hfUmhMOTJrdWtxSExCTGVUZFpZV1IweU5EekMySE1hdG1nNWZXMW51OFZ5WTdwcTk4ZWxZUTZha1c1ZU1RclJ2MEh4dzZ6OVVCeGZDalFFYjJzSkVFeVEzbV9oTmN0VGpONlJqSHJ5aFMtNXIyNFY3Y19VUC02a0RrS0JncFJhbnVj?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
+      },
+      {
+        "title": "50 dni Trumpa. Dlaczego Rosja to zignoruje? Ekspert: to może być ich ostatni zryw - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTNOUWp0OUM3YlFhT0hEX1hyd2pXM3ZuY0VNNjJVRGdkcDdwWmpRaE9WVlRBVDhlMjFFOGdGV0xaaGZmZ2tyOVNIeVBsMDFVbDVxVmVna0tOR2EzNUNGYVg1WFNyNjlUWWExTHV6b3NvOWxqSlV5M0EtNlhkYnFFX2ZVY2w4cW1Cc2lCaVRlMS1pbUszRi05N0haT0Ribk91M3NNbWlLTkU2dEhVTHNUR3JTZ210QnVxaU9vamln?oc=5"
+      },
+      {
+        "title": "Pierwszy taki protest. Sikorski \"naskarżył\" na biskupów w Watykanie. Co to da? - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFNzakotOVFmRXN3RjkyVXliNk1JUm5TVHMtZXJreXoxNFhuYU9OZEtpaEk5RXlGQVByUlBsSUhCOW9Xc1hjTjQ0bjlFeTBVak80azVpaTAtUHI0dXJpMXlZdUZBNmpyU0NjaldwSnkxNjFDZVJfU0FYM241ejNrOXItR0U1bkRwRjRTTC1SVDNnWWg2Z0tWSV9YZG9TbXMtdklPZTJmay0zSDRnZjMwMdIBrwFBVV95cUxOazlHekhhQ1JhdlNMS2FlTDJ4MVl2LW42bmRuRjU2dHhWdXZ5cHVid3VXYmZ4V1lRU2xvZTR3d2p4N0EzeTFrWTEyR2Ezd0RhbEh0Uzc5VHRud2NOaDBMVDdOcXFVMVRGVWJydEg5OFlTM1R5aGpzTEt4NWN2Tm53Q3Z6WjhWMjJlSTFfOWdabDBOYkxpd0U3ODNxY1pSOFJ1VC1OeWdxSGdoeVFfNW1R?oc=5"
+      },
+      {
+        "title": "Prokuratura robi krok w kierunku ukarania sędzi Małgorzaty Manowskiej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGRUbVMxSmZaNVV6cXZPeUxuRHNtSHl3UFozRC1ieklGTHRCVERwelEzVl9XQy1NRV9qa2dtZk1xNU95ekhwSHVFb3hRSE9UYWtVallmaG5nbGJnakxFcC1vYTlUUVFmSjhVM0tJejZGLTZqNHd6NENOLVFJQ1FaSFgxaTZORDlKdU5DZUQwUGFOZVR2NWR2aEJuZ1J1UTFRbkpDazBXejdrX1hGUEE?oc=5"
       }
     ]
   }
