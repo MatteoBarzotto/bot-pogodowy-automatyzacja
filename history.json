@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 18:18:53",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +29°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6475,
-      "EUR": 4.2614,
-      "GBP": 4.9151,
-      "CHF": 4.576,
-      "JPY": 0.024758,
-      "AUD": 2.3951,
-      "CAD": 2.6659,
-      "CNY": 0.5087
-    },
-    "crypto": {
-      "BITCOIN": 435804,
-      "DOGECOIN": 0.724702,
-      "ETHEREUM": 10976.15,
-      "LITECOIN": 347.78,
-      "RIPPLE": 10.68
-    },
-    "indices": {
-      "^WIG20": 2879.77,
-      "^WIG30": 3727.45,
-      "^WIG": 3727.45,
-      "^NCINDEX": 254.62
-    },
-    "news": [
-      {
-        "title": "Przełomowa decyzja USA w sprawie Ukrainy. Jest deklaracja Donalda Trumpa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGJvZEduRHVRV1g0TG9JNy1wWHp1M0xhTWZ3RXpQWUpwWlUxLTFKbG55VC1aTk41MExYa3Qwb2l6X2xkOUU4cFhrVEFVX19kMWpTdURoUEgwbE5GcjhqYVRCaGZQM3NOMlA3VlV0TTM0eWxPaXlNVGZFWC1Kc1ZjZ1hYcU9XMlBjeXp0a1NNVVFkOHJ5ajQyQW5wTGM3UGppZWh1UnI1cFlFck9pcHpmMWdB?oc=5"
-      },
-      {
-        "title": "Seria pożarów w Polsce. Szef MSWiA zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXFqb1dpYkN2bGJJaGREY1d6N3hUS0JHTF80OXpRS1hsa2d0dEFwWFVNTTIwamJhMDY5QXdEMGdhSTRKMXZpdGZXa0dLVmpkaHpLS1hZMjc0bjVfMDVnSnpGTHd4VGtqMUN2NTRFckdySDdSMHgxVnVtWVBidGVzRWVobzB0M1oyd3Jxc1dZWlpGYjRUR2R5MjlPWEFLVGo1TlZtSmdhbzcyVmNp?oc=5"
-      },
-      {
-        "title": "Wystawa w Gdańsku budzi kontrowersje. Reakcja Andrzeja Dudy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWZJbkVTWEdFSEtiU0hqWTNDT2tiT29ueGZzRmJTQm5qNU9DSDZsMUNzR2gtOE5lVWxuQUxNMkZ4ZFlTTm9LbEdqd1FMbHdIUnRUNG5mRTNsT2ExYmZ6aXNPVTNHTi1rVDVmQi1tdHRIUU03S0o5OEJJZzUxUko0cnZKWldRQTBoUlBtMTRfU2wwVkNUeVdfWl83bF9xdTBuZUg5LTRwbVY1M0VvU0Faemp3?oc=5"
-      },
-      {
-        "title": "Władimir Putin miał zdradzić swój tajny plan Donaldowi Trumpowi. \"Jest naprawdę wściekły\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXpubFp3cllVSjhxVEtKUWhxN004b1pHZXBwSElpeU0ycld3ODlCQnBxNFdEdUFoc2tXX3NldzFaamllMWR2Zmo3WnY5X0t4TEhNTmFvQlpyWUVKLU5OOWt3NVA5dEhaWW03RlV6R1dwclZLR19XUEdVbE9Ram5oNTlIakpSbWhZQ21KNmdOZDYtVGtienVJalFyMDhvcTR0LVZaZnhpbE1mTzNvT3FwcHVOZFBvNmlnREQ5U1dLbw?oc=5"
-      },
-      {
-        "title": "Wyciek amoniaku w firmie farmaceutycznej w Warszawie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWozbk5sbHF4TThfYWdNU3BkU3NzNnJPdlNOOWh6NVhvVW5SX1p3TTFpTm1LY05aUmlGemlDMEhHMWZtaUtab0RCSWxtQmF2eF9KQ0g5ZmFjOUU0ejA3c1lNenI3QVd0eXRXMURSSWwtWmt2UHl1amNvSmZ3UVQtSUJGN09nNl9qSjlqVWUxUXlKLXlOelU5Q3Rka09nWGF0N2pXU3Fha1Y2emJUM1ZhMmxwbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 19:14:27",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Immunitet Grzegorza Brauna. Adam Bodnar podjął decyzję - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 00:14:19",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6631,
+      "EUR": 4.2585,
+      "GBP": 4.9055,
+      "CHF": 4.5719,
+      "JPY": 0.024611,
+      "AUD": 2.3889,
+      "CAD": 2.67,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 436502,
+      "DOGECOIN": 0.795003,
+      "ETHEREUM": 12375.1,
+      "LITECOIN": 362.73,
+      "RIPPLE": 11.27
+    },
+    "indices": {
+      "^WIG20": 2868.56,
+      "^WIG30": 3711.18,
+      "^WIG": 3711.18,
+      "^NCINDEX": 254.66
+    },
+    "news": [
+      {
+        "title": "\"Dramatyczny wpływ na Rosję\". Zwarcie Trumpa z Putinem. Świat czeka na efekt domina - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEx3OE1xYTVqTURpaXlEWmdCQVk5NmJSTF81dS1NZDJwem9ndEwzRzZ1LTBRSnJQLXVlS0xiTEMxdnBWX0J1MVczNWZkY0xNZXJScllxV3R6X2hMSXZlQm5oNVJVYk5QZ1h1ZkpQeUZxNFBSUzFrYXRQNHFDVjEyQkFQVTVNbDBUejRhZzFld0k1ZDVtOHVwWEQzMUxhNXA3LV9URkF2UWpfQ2hMT0VTV1RCREFHbU1sRTdoSQ?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
+      },
+      {
+        "title": "Gigantyczny pożar na festiwalu Tomorrowland. „Ogromne” siły straży pożarnej - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2QwYXhpd0pRNGxFdk1jT2xnRmp4cDRNQUlicm04RGNISlZobzBnTkFVOUxwQW5uMXZ6Rmt0dlY2aUZfSWtfLWFWTUE2VXBrbEFOY3lGZUZVbHdrekVuMFNmaE0xMFV4WXFJYjU4LUZ0eVBFNFBUaW50UXBVcGNuSHI3WWNxWlF2b1NheENZbUUyd2ZXbDNISGpFUXRxZEdwR0ZPY0daSmRtdGMzZ1hwX2g5VEVPZEtEaWhF?oc=5"
+      },
+      {
+        "title": "Immunitet Grzegorza Brauna. Adam Bodnar zdecydował - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
+      },
+      {
+        "title": "Pierwszy taki protest. Sikorski \"naskarżył\" na biskupów w Watykanie. Co to da? - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFNzakotOVFmRXN3RjkyVXliNk1JUm5TVHMtZXJreXoxNFhuYU9OZEtpaEk5RXlGQVByUlBsSUhCOW9Xc1hjTjQ0bjlFeTBVak80azVpaTAtUHI0dXJpMXlZdUZBNmpyU0NjaldwSnkxNjFDZVJfU0FYM241ejNrOXItR0U1bkRwRjRTTC1SVDNnWWg2Z0tWSV9YZG9TbXMtdklPZTJmay0zSDRnZjMwMdIBrwFBVV95cUxOazlHekhhQ1JhdlNMS2FlTDJ4MVl2LW42bmRuRjU2dHhWdXZ5cHVid3VXYmZ4V1lRU2xvZTR3d2p4N0EzeTFrWTEyR2Ezd0RhbEh0Uzc5VHRud2NOaDBMVDdOcXFVMVRGVWJydEg5OFlTM1R5aGpzTEt4NWN2Tm53Q3Z6WjhWMjJlSTFfOWdabDBOYkxpd0U3ODNxY1pSOFJ1VC1OeWdxSGdoeVFfNW1R?oc=5"
       }
     ]
   }
