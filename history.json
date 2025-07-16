@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 03:15:40",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6432,
-      "EUR": 4.2563,
-      "GBP": 4.9314,
-      "CHF": 4.5695,
-      "JPY": 0.024787,
-      "AUD": 2.3946,
-      "CAD": 2.6594,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 434799,
-      "DOGECOIN": 0.727172,
-      "ETHEREUM": 10852.12,
-      "LITECOIN": 346.16,
-      "RIPPLE": 10.42
-    },
-    "indices": {
-      "^WIG20": 2860.93,
-      "^WIG30": 3705.86,
-      "^WIG": 3705.86,
-      "^NCINDEX": 253.2
-    },
-    "news": [
-      {
-        "title": "Wielki pożar w Mińsku Mazowieckim. Apel rzecznika MSWiA. \"Ostrzegam\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREl2c2hyckhOU0k4TzQ0WkJ2OEt6cUpCb1FhRXJEUG1aQVc1X0FmUmROb2Q5TERuQ01GZzhKN2N3LTNwM1d4clJFVmVPSDBUSUhNSjNkSUlWQnBkMGQyVlNkejU1YS1HcXZIZ2V2emE1V0dsRWM0bVljVGwwYlQ4eUQ2YjBLVDc4c2Q5MlFuSHZzLUNFN05TMG9ydDR6UF9qS2NkOEp3UERwUHBO?oc=5"
-      },
-      {
-        "title": "O. Rydzyk ostro krytykuje szefową MEN ws. religii. Nowacka odpowiada - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnpWTkMtem85UGplZWFHSkM2T0paYUVuN2xFVzZQNUhQcEhTY1RuVS1fR1Ezck1QRUsydjh2VDNTdm1oSXlxT0VEVXBqUTRnS2RQUlBjaGtDWnpTLUgzRmZUZWZYNFJ5Z2U4R3hBZy03ZUtGQUc0bG85MzluUGI4R3BMVWs3SGp4V25iM0RtR0luTEJWbElmM1JlQXd5RGVPSkpGY19rajR1Vnp6?oc=5"
-      },
-      {
-        "title": "Cała Polska w alertach, IMGW rozszerza ostrzeżenia. RCB: \"Przygotuj się\" - Radio Zet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVRhZlhlMndyb3FGNW8yM3M5UmU5dmhULWNSNWtrWENLWnFxRC1taFFYWVVLb3J3N25mazB4aHRSVXBRLWdIQVVsR294UmpyZ3pxYlBER1ZkTWZUZ1pTOTZMOE1iYi1LekJpT0UtVklOdVl5eWxNWjRsMlREV2tsWDBkUzh2anZ4aU9hS2NSRUhYalRnNmlUOE9tSVFmdjU5UDZTY3NibW8?oc=5"
-      },
-      {
-        "title": "Wielka burza zerwała dach kościoła. Ewakuacja wiernych w trakcie mszy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzNpSUFzOUp2bW1tSFM3bGpnWmFGM3dnRkx6c25TdzNCN001aVRwU2JwNWozakhhWklyNS1LdEpJMElyUVBiNWZZVzlUYWFtazkwajN1SHFXN3NseFlIZVZ5TG40YjMwU1Nfd0w3Q2lIaEdfcnBYeGFsTnZRM29teURyUXFCTndzSGpDOEJCa0FXbktyQWVfOVJZV3gtTzF0QTFLUmJKc1F4LXVISy1zY05ybkhhenpuWmdSYQ?oc=5"
-      },
-      {
-        "title": "Mark Rutte leci do USA. W tle zagadkowe oświadczenie Donalda Trumpa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RmMzNJUXZ5V3lmVFhpX2xMbXhxWUNOWm1XVVhSWjAyUGtzY1F2aWxYVEdPNzZ3eml1bHE5NFByVkpON191Vl9vcW1hSVdUTGcyTldEWVppcktKS3BqcU4zR3JMT184TDE4dlhRanR0N1NUbkpESlhSbXl2VVFfRlM1S3RLRnptd1dfQ2VNclE4ZzZudE9PUDEybUhyNlRPUmNxUVhOZ21PeGs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 05:27:41",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nieoficjalnie: kolejne problemy wiceministra z Lewicy. Ma stracić stanowisko - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWTBsVFpWQnZsWXVOT2NZZ2lpSVYyYzRDNHdENXpZRmtuekMycnRqQXlzYmpES19sRFBOU2toaDdNdFRwTjNQcjNwZl9lNmpqTzlFam81M29halYtdTNnRGdKRmplOGliNmUwNG1FZW1JVDdQdXR5ZFRlYk5YM1N6WXJ0cC13eWJlV0o1MjJjaHVkUXJGUDduNE83N0NmRUpabDF4a3AxMkQwUGZoWVhDREtkeVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-16 10:20:26",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6396,
+      "EUR": 4.2538,
+      "GBP": 4.8942,
+      "CHF": 4.5732,
+      "JPY": 0.024647,
+      "AUD": 2.3898,
+      "CAD": 2.6598,
+      "CNY": 0.5074
+    },
+    "crypto": {
+      "BITCOIN": 432986,
+      "DOGECOIN": 0.728571,
+      "ETHEREUM": 11587.06,
+      "LITECOIN": 352.52,
+      "RIPPLE": 10.73
+    },
+    "indices": {
+      "^WIG20": 2866.22,
+      "^WIG30": 3710.75,
+      "^WIG": 3710.75,
+      "^NCINDEX": 253.74
+    },
+    "news": [
+      {
+        "title": "Jan Urban w siedzibie PZPN! Koniec wątpliwości w sprawie selekcjonera - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTVEbWVfY3I1TkRBODJMNTFtM2pJU0pKZ3NfRGhGeUxCaUVnOUFCUlFmVXItNnoycEJyZ2RSM0VBZUtoelNJRWNVdjA5dTVDTDFPS25Pam1wWlhwWlVTdGYzODBxWEhWQkVsRERWc2lGTU91S3JjUzNaaXpCWTZWUDJwZG5tVG03aUN4SUlWMkIxMGRMSmlJNVZFeWpvVmx5MHpXTDhmSjRnLTNlWTZZdjdDTE9vak1rVzhJajc3eEVzQzJwcm1NNTlkamlMVzNUdlc1TlQxMkE3dw?oc=5"
+      },
+      {
+        "title": "Szokujące ułaskawienia Andrzeja Dudy – politycy, działacze, przestępcy? Oto lista - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZks2NGU2VXdScXdiU1VMcThOZVcxbUFWbk13bWkwSmUyaEtOcl80Q0l2MFZ6VWl1VDVNVVR4Rk1yOEJCako1Vmh6aUtfRVJ2VDVWU05LRGQ2OFBGMnBrMVFFdlNXSm1HNUs5ODBFSV9rbk01bEhDVlJlbkdzUm81VjdyNlFBUzUwSHpDblEwSlE0UDZLME9aU3dlNlZkaTJNYzE0TUZwVkNnN0drSzNjZnpTWEZiLXBMc2kwdjRlLTZORFIyODlJdmhjTUhYS1U?oc=5"
+      },
+      {
+        "title": "Dobra wiadomość dla Ukrainy, Donald Trump potwierdza. \"Są już dostarczane\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajRjWlI1WEF4MzBFcjFIN1JVdHRlNngwU1FEWFdVSkdQMlVia0pkZXRlZEJoa0llMnlEU0t3Z0hEdXRHX3BHa3lubndMeUkweURyRUY1NldOOHJhUEhNRjJzRlNSWEVzNGJ0akVVSjVuWm0xT2JVN1QtNHByNnZVRlRyaENUMFhsQXhXUmxGYS1uVU41dHp0Z3hJT0pRWWdiU1FpN2VXLWdqYkxfZjFGZzM5SUVoT29tTVE?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny: PiS i KO mogłyby utworzyć rząd z Konfederacją. Polska 2050 coraz słabsza - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajdraFFaa3dGaXB1cG55dFZDeUI1UDRmcm5nTFdrLTk4aXdfUHFzSTlSVFFqa1k1ZlNWSEtiMVdCTmNFY2RTNXJ1ZmtvRnVCY09mUkYySGxtRzdTSGFybUtqNUliZUpmV2VWLXRXMWtSMThXQTV6TW42RGI2RlFWMFlSMDc4TzBCbGwxSUdaTkh6cHM1SEs3Y0dDbV9zOGtzRnM3NVN2YWZManNr?oc=5"
+      },
+      {
+        "title": "Tydzień do rekonstrukcji. Zwrot na Lewicy, nowy negocjator od Hołowni, młodzież u sterów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDNrYXRhVVlLN2lmSHhGVGZNQmViaEF0MzZBdkVPZkRzYjZSQm8wSnkxb1NKVDlPOVhtaGprcU82YlNTX253RFctdEZfWVdpWjhUNEpfS1JNZnYycHJlbUtCZlI3dEN4WVI0cjZZc1pva1RrbkFKVi1DQm0yOFpNbF9qR0owWWpmMGtNR2hJZFpxNDNLa0VzdllXTVl3cW51Z1JuQnVIMC1tNmdveno2bG1ibEZHZnZyd1RGLWNNWGRzMDdCSmJrZWFKSVdDV3RBdmJMNEo4VQ?oc=5"
       }
     ]
   }
