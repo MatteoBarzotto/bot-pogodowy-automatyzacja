@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 17:16:08",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +29°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6475,
-      "EUR": 4.2614,
-      "GBP": 4.9151,
-      "CHF": 4.576,
-      "JPY": 0.024758,
-      "AUD": 2.3951,
-      "CAD": 2.6659,
-      "CNY": 0.5087
-    },
-    "crypto": {
-      "BITCOIN": 439593,
-      "DOGECOIN": 0.73312,
-      "ETHEREUM": 10997.84,
-      "LITECOIN": 350.36,
-      "RIPPLE": 10.87
-    },
-    "indices": {
-      "^WIG20": 2879.77,
-      "^WIG30": 3727.45,
-      "^WIG": 3727.45,
-      "^NCINDEX": 253.75
-    },
-    "news": [
-      {
-        "title": "Pożar hali w Siemianowicach Śląskich. Gęsty dym nad okolicą - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJjVWoxOGh5U3NUWF9IcFgwZ0ZIcGg2eXRjRmxpU2VSM2VvOXpUWExJejMyMGZuNmtwdjQ2NmVSVTVSZDdtNloxNFFlTWkxdlpaNmhDeU9rZndBRUJNTUROUTh5b0hnMUU0X2FRcjcyNHNRLTNFakJLdnZKUll0TDlNV1MzQXpSSkFRc3dYQlFoOGloUlJ0M3JOZ0pBcktBVjN3ekx3WDVuRzFVX0VuZWRSbzF2Wk0?oc=5"
-      },
-      {
-        "title": "Władimir Putin miał zdradzić swój tajny plan Donaldowi Trumpowi. \"Jest naprawdę wściekły\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXpubFp3cllVSjhxVEtKUWhxN004b1pHZXBwSElpeU0ycld3ODlCQnBxNFdEdUFoc2tXX3NldzFaamllMWR2Zmo3WnY5X0t4TEhNTmFvQlpyWUVKLU5OOWt3NVA5dEhaWW03RlV6R1dwclZLR19XUEdVbE9Ram5oNTlIakpSbWhZQ21KNmdOZDYtVGtienVJalFyMDhvcTR0LVZaZnhpbE1mTzNvT3FwcHVOZFBvNmlnREQ5U1dLbw?oc=5"
-      },
-      {
-        "title": "Kapsuła odłączona. Sławosz Uznański-Wiśniewski wraca na Ziemię - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOURYTGFCNmZWVVJJSGs2Z0RYVDlBejRaeUxPajVRUkFSUlAtSUl6aGZuR3A3TTlzS3g1bWNLelN4RGt4R0RlTVZMd1VMNXJ5NkRyMlBhaVRQM2kydGU1emp5bXhCZy0ydEgxTUVyUjJQeUkyS1dydmdwQ0VMOFNwdHdkN19EcDNZWkNyU1piV3NrU3pWT01FM0ppSUVTOE1nUUpPalVlWWlGX3dBOS13a2UzLW4zdzN4Wl93ZVVDMHdwdw?oc=5"
-      },
-      {
-        "title": "Incydent na granicy z udziałem polskiego żołnierza. Władysław Kosiniak-Kamysz zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDZIbXo5LUMtVi1xVHdFQ0NmZmZyUlgzQTF2VTh3b3Z0LUtTaFY5U3lZQzRfQXNtYlhRTU5XQ3B0c1dqVDVOeVlEcE82bzhESlVSekNFSlhEamR6Q0JPYzlKbVdhLU5IQUc1c1NmQzc0RFpEX0szQW1rLUdDZnBTVVNFTWdaTFRPa2hxN3kzaEdybWx6MXFUaXRwaG54cXQxNEg1NmtKTkoxdkhDZk13eHZWbHU0c05VS1pucXQ4bTliNzItRWNCX09RMnQ?oc=5"
-      },
-      {
-        "title": "Jaka kara dla Grzegorza Brauna? \"To ośmieszy wymiar sprawiedliwości\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVklxX1pZUHNKUm44RnI1djdRdTIzQ19MTnRGVFBqVHVZaXZxZ0hVTDg4V2w3bFlLZDhMNnFvYlVTdDZLamFYOWlRcE5JU1VqZkUtcUZqQ0FTeS0wRGtZQ2RVd25RbHE4VkxsNS1aV2drWHdNdHFTVDhfdEdyREhCal9yczB3YzR3UVc1NzJJZENmajI3SXVfT01FRU52VUlvQVlPV0RzU09GU2pGei1WQUVCSWtyQdIBtAFBVV95cUxNNVJzdGpMMnktQ05OdXJqaXhuN250U3RiT3p6S1ozUkNsenBQSUxEOXI0dzkyRHRJaE11UXE5YXhIUjh6VjU2QjRtcjRUUFV5OU9VOFpjc2hxSlhUSDJRclloWG1JWnV1anU2aTJWT3I0blc3WThrOWlDNDVnRlZEdXpLZTVfOURZd19FaDN2Z25fbHljZnI2LWo0V0lBbXozOGlxRGY3WHR3X0t2VFdlMEhDLVc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 18:18:53",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Grad kamieni i koktajl Mołotowa. Atak na polsko-białoruskiej granicy - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFVydEUzSjZLTHFRZmZiU003Nzd5RER2a3AwTEQyVFZHdWpocUIwbndYSXVMUFBsRzVERFRQQ0s5ZWFSTEdCTDc1MGlWSlFTTmk2b0FlLWNCRVRtWFpwc2Z0UVkyVElBdm9oNXN0S2JteFo5aWo3bEZyZkxOOEpPVlFkeHg4ZTBZQ0R0a2p4OGIybjFscGJMY3hTYkdoQ1RQS25WM1ZWSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-16 23:14:23",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6631,
+      "EUR": 4.2585,
+      "GBP": 4.9055,
+      "CHF": 4.5719,
+      "JPY": 0.024611,
+      "AUD": 2.3889,
+      "CAD": 2.67,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 438387,
+      "DOGECOIN": 0.774723,
+      "ETHEREUM": 12357.91,
+      "LITECOIN": 361.17,
+      "RIPPLE": 11.2
+    },
+    "indices": {
+      "^WIG20": 2868.56,
+      "^WIG30": 3711.18,
+      "^WIG": 3711.18,
+      "^NCINDEX": 254.66
+    },
+    "news": [
+      {
+        "title": "Jan Urban selekcjonerem reprezentacji Polski. Jak mogą grać biało-czerwoni? - sport.tvp.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUg1djhHM0NtdUp2ckgtTnA2RHVFUFJsUEdKTlNEUVVTdUdwOTR4Ti1iT2RmajMwQTIzZ0w5ZGJSTWl6QTBPREV1eUctaFdnaW1jalFKUXE3dDZsTjZPaTlRQUpWLTBEVnJ3WDVVOEJTMDhMUERXRmpTQ25jMExGS0xzWUM2ejY5Znk5Y1V0TkJjTDNZUnlNdjhBWTlCbDE0Ym1mSHdqdHA5RmFheGFlTtIBtgFBVV95cUxOcWNQSWQyN3AydTZhaE1aX1lpS2RjRkdkZWV3UWFoVUdjREtDbUcxSmE0T0s3eU5fa3J3YVlWcHV4bzJvTWNXUDRtUmFXSUk3ZmZzaUJlbG1NWUVnQzRaZVFhYk1HZ0lyRHVrOHM3RVVHTVgwZ3R3WkF0QzloTDZSMHVRdUhfRzNNU2VWODdhM2JFM1JjWDlsTGM3UllZMHBEa3RhSlBra0Z4X1VSSXVWSC1icHQ0UQ?oc=5"
+      },
+      {
+        "title": "\"Dramatyczny wpływ na Rosję\". Zwarcie Trumpa z Putinem. Świat czeka na efekt domina - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEx3OE1xYTVqTURpaXlEWmdCQVk5NmJSTF81dS1NZDJwem9ndEwzRzZ1LTBRSnJQLXVlS0xiTEMxdnBWX0J1MVczNWZkY0xNZXJScllxV3R6X2hMSXZlQm5oNVJVYk5QZ1h1ZkpQeUZxNFBSUzFrYXRQNHFDVjEyQkFQVTVNbDBUejRhZzFld0k1ZDVtOHVwWEQzMUxhNXA3LV9URkF2UWpfQ2hMT0VTV1RCREFHbU1sRTdoSQ?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
+      },
+      {
+        "title": "Pożar na festiwalu Tomorrowland w Belgii. Główna scena w płomieniach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUFkTENxNzhGclpYenFLbmxZSVlUNnQwREZDdms1MktDQVZaRjNyS3NwZy1wczRweUktTFVySDVscnhEbEV6c0E3cjJXYWtyajNtQW80bEMyai1ab19CVlhzMjQ0Ql9paXZJcnpsNWlRVkZWeHctR0M5b0xmOHB0Z21hRnJnOVFDOXluTFZzSXIyZUFYMTlkVzlaNWp3LTB4ZHRUSlBIRWszUTJTb3JVT1JsVG4?oc=5"
+      },
+      {
+        "title": "Immunitet Grzegorza Brauna. Adam Bodnar podjął decyzję - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
       }
     ]
   }
