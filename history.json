@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 12:15:51",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6396,
-      "EUR": 4.2538,
-      "GBP": 4.8942,
-      "CHF": 4.5732,
-      "JPY": 0.024647,
-      "AUD": 2.3898,
-      "CAD": 2.6598,
-      "CNY": 0.5074
-    },
-    "crypto": {
-      "BITCOIN": 425266,
-      "DOGECOIN": 0.696605,
-      "ETHEREUM": 10831.75,
-      "LITECOIN": 338.83,
-      "RIPPLE": 10.51
-    },
-    "indices": {
-      "^WIG20": 2905.05,
-      "^WIG30": 3755.89,
-      "^WIG": 3755.89,
-      "^NCINDEX": 253.66
-    },
-    "news": [
-      {
-        "title": "Sławosz Uznański-Wiśniewski powrócił na Ziemię. Astronauci wylądowali na Pacyfiku [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZy1YVGVYc1BvX250WDJiWDNXc1R4VXMwWjFuY3V4MUxsNklzc2xwcHVoakszX1hzMFpzQWZaS0diRVdUQm9neGFYdjFmeDc5VGxDR21EQWVXZDRaeFRPcUtkQkZkWVpQVHdZT3pOdl95R1h5SmhwcG1Gc1JFX01xa1R2cWdaQ29oeDh6Z0Utb2ZmUmh4TXF3Ml83Slo0bGlUOXdfMFJn?oc=5"
-      },
-      {
-        "title": "Donald Trump się nie zmienił. Ekspert o polityce względem Ukrainy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hVZVNIM2dZMjFtMGtJQ2xVclhLYUFvQUZwQTg3NmEzbUw3REloeDhaeS1tOHVHZXM0R3JycHQzdi1QcG5EcG4ybWpOQkVObmNFVXpzLUI4SkdrSktDTGNfdmVzekQtazhHNFk0Mkx0WGpjN2ctSWpILVRqQ1l6UTlncW5WOGcwTzhlYWE5WDJPUEd5Q0MzYld3bTNJY0FaaUZQaDBvTTZPOHlERnpTdlVoQQ?oc=5"
-      },
-      {
-        "title": "Rzucił się na przechodnia z maczetą. Zadawał ciosy w głowę i szyję - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUFIeGtGZkRjS3N5cFRodGVHbFNVUkJiZjdSRTlDR2JWYjZqS3ZUNHdLdk5HS1U3TnV0WTBMb2NQWmdkeU14Q0pSUXZ4aWh6Rk50Q0hsU2ZrdlNqNE1BYTVHUEZSM2k2c190QmsyWW90ZFFYajlfSU9ubjRSM094WWZZT21KenJyeDRJd1FseUctcUVBV0VJWktxV3ltNFo3bWJxYi1aV2RRRU1xeFZBM3NXLXpyZ2RLcF9JalFXaVRUSDBz?oc=5"
-      },
-      {
-        "title": "Nocne spotkanie Szymona Hołowni. Nieoficjalnie: jest postępowanie w SOP. Funkcjonariusze mieli być badani wariografem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlR3dWZWOTJRb21UbWVYX01NSTBvbE1hTWJjWjA5NE5UX0JpeWhWMmk1T1J5M0dsWG9WNGFLRTJKODBXNFhmVGU5OV9WR2taUkZzYjh3ckhBXzJyX3RLYTlGeVZTMy13VDFEbEtwNGFCSGRJaVoyd3JzRklNSjN1VFI3T0dFOHNrbVBUWnRNUG9PVU9MNGNFZEU3Q2JqWmpXdkVRVzZtYWw2TGdLM0RlOGpmaDBSRnBNS0pycGtSdzNYSXM?oc=5"
-      },
-      {
-        "title": "IMGW ostrzega: Burze, deszcz i wichury nad Polską. Sprawdź prognozę na 15 lipca - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEQ1Q2JXZFZfTmdQTVM3QU5TYy1DX1g0M1E2Z2pfRENfS2NWMk96S3h5eERaQkNXMUdyRE9mU1ktcmNiSTUwaWRBWVdEc000NmtFWVZXb19uckFGM21rYWdtQmpYcGcwd2p2QTZYQzFMWTJZS28wRHdYQVhTWGZfZzJRempXUVdBMnNhMU9wc0NpSkF2VDhwVnp3QUNYcElVQ3dqSmh0cWrSAawBQVVfeXFMT3BndC16Z2U0YVdvZjE4TC1OSFpDdVJuZUF0a3NsY1B4YS02VERPZFVQQjlOZUMweHllcTJMU3hwX2VQWTlIVTh1WkJWcExnd1JJSGtpcE5hbWJHV1hsZExYQlpZcXRHRnRNbGtCLWlJcDlXM2lEZHNHSXZJTF9VNXh1SU15Nm1kV05fYWJvb3R4YkpESHVCY2dZZUdIcDhsVkJqN3hDUXo3ZGxMOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 13:13:09",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tusk ostro o PiS. \"Zawsze gotowi zatruć radość\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnJCQ2pjeThCLTBUVFIwVlVfdFE0bmZMVFB1SW9PQTh6eFhmbkFmb0w4Y09xM3VyTHhPekVXaU8yNjdNM185R0VhUUVTQXZ1Wko0elN5aGhaQmk2VEhvMVRrOUxaMU9FWUFqVklNSnZqVFJEeWFXQlpaWm5KVTVJVFlQY0pPVks0Q0pFTTJ1aEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 18:18:53",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6686,
+      "EUR": 4.2559,
+      "GBP": 4.9195,
+      "CHF": 4.5662,
+      "JPY": 0.024687,
+      "AUD": 2.3744,
+      "CAD": 2.6695,
+      "CNY": 0.5111
+    },
+    "crypto": {
+      "BITCOIN": 435727,
+      "DOGECOIN": 0.778291,
+      "ETHEREUM": 12499.43,
+      "LITECOIN": 371.45,
+      "RIPPLE": 11.93
+    },
+    "indices": {
+      "^WIG20": 2905.75,
+      "^WIG30": 3756.41,
+      "^WIG": 3756.41,
+      "^NCINDEX": 254.58
+    },
+    "news": [
+      {
+        "title": "Śmierć ciężarnej Izabeli z Pszczyny. Jest wyrok - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXRmcURzSFJYVDJDT2VUUldrd0JTQnh4Mms1bHBlbVJUTzctNk5kSndMeUxtRXQzb0RPWXJxNGk5SG5OVmpLVERlZVBQYnltTmEzNU1DRThSSXdMeGhISmRfQ00wVVBIM2I2Z2lEVEhDdVdqSTFwQUF0WDJiVnVmZE04OGdRcWhsOEMxWDk5bjBGMzQ?oc=5"
+      },
+      {
+        "title": "Adam Bodnar napisał list do Szymona Hołowni. Chodzi o wybory - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzAzeGxjZVRSSkpMczJsdWR3UkcySGQ4RHlndkZzWS12eDVLS0VfRDJvazcwZUhWRnpfS21ZVHJsZkgxT2xqUVpRcjBMQWdmR2RxZWlUVVhtMEZFRDhabDFBZlMwTUNHNml1d195QjhDeTl3Sk8ySHpjUmlOd3J2VFVPTkpzRFlwQm9VYXhYRjRNNTBIUVB4Q0NjWEtxZkRnc3R3RFFjRGhqYWRSbzhfeHBWQThVZ1ZSWUtQOXRUbw?oc=5"
+      },
+      {
+        "title": "Nagła dymisja w dyplomacji. Polska odwołuje ambasadora na Węgrzech - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFpFN0pQRWJyekJ1enJNbExwd1dLcWsxS08tWWt3dmx6X0VHSFlqeTlJYXlEdm91OE91Q1p1WGE3RmlZYktJdFNTcjJ1bVBxd09IblNkcUR5bnJDd3pmYTE2cjd6UFhBSWRiWGwyRjRuOEFYeEZBRi1mcW1nMXctUkc1ZVkydGh0dGhnR1NSREpWMHJ3Y0tvX1Y2cHBwbFdEQTZFVHZYRk1Fd2YyMDRab2tFT0Y5eDhNVHU3TTZaVS01Qjg4ejJn?oc=5"
+      },
+      {
+        "title": "Egzekucja polskiego profesora w Grecji. Są zatrzymani i nowe fakty - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGtKUWxWVHJxREtqbExyRXEyOXNpNU1rZnNZbDVRWENHdUVVYUh3UkJtMzVDZkdwMWkzMk9mQjh5ZFR5RW90eVd5bWxDdWtTV0ZHenpJemJRdmFaUWhLX2JlLWRGbG5YQXFCTlhvSXlQVVZ4V1hzUDdQRDUyaUVKdVByVUcyTjhoMHBGSnM2SGJNQzNPNlNlYncxMTVtRXpyUkF2Nm1aUUp4STRsem1yeDBGcFNaR1h0X3VJ?oc=5"
+      },
+      {
+        "title": "Zawracał korytarzem życia. Kierowca zginął na miejscu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT09jQWY0OEFpVVFSYUVxZVNKQ2Juem54SnE2MWVfMk5CSzE0Z3UwM0FjQVRJZDZpS2xoc1FHRl8tNy13MjVQekhYeFZiajFUd2hiWUUxdjM0LThnbDRaNXgzWmpnSVY0UkxieGVJNXlfWE9BTHlhX21OVThBZElteE5oTjdFcExRUTJlVzFxVHh5Z0diQXR4eXJqdmNKRUFseEdIc3ZxY0hWQkFpaElPRnEtWjJsaFM5Rk9mTQ?oc=5"
       }
     ]
   }
