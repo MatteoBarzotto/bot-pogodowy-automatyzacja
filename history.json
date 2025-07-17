@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-14 22:16:39",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +28°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6475,
-      "EUR": 4.2614,
-      "GBP": 4.9151,
-      "CHF": 4.576,
-      "JPY": 0.024758,
-      "AUD": 2.3951,
-      "CAD": 2.6659,
-      "CNY": 0.5087
-    },
-    "crypto": {
-      "BITCOIN": 436636,
-      "DOGECOIN": 0.719319,
-      "ETHEREUM": 10910.05,
-      "LITECOIN": 345.05,
-      "RIPPLE": 10.57
-    },
-    "indices": {
-      "^WIG20": 2879.77,
-      "^WIG30": 3727.45,
-      "^WIG": 3727.45,
-      "^NCINDEX": 254.62
-    },
-    "news": [
-      {
-        "title": "Przełom w Białym Domu. Trump grozi Rosji i ogłasza umowę na wsparcie Ukrainy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTdaVVN2R0pzU0F6LWhmeVJsYWZpSk5YQ3VEZGMwRmY5UHllQmh0dVY0RUxOTzhiTnRLZWJQNU8teFR4WlkxX1ZoMllBZVFaNDJqVnBLSllaNEJIam8tbEl4QUZ5RDRIVzY4Um9rbzgyTm9McV9vSG9HVllNa191ZFlVcy1EZWExcHBOUUFiT2ZSM29JNHZMUHotdU9BM1UzRE5vUDJFRDFWZllrRnBma1FXano?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski wraca na Ziemię. Kapsuła Dragon odłączyła się od ISS - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ25OUHRnS3RtbTdfcVE3S0t0aHhPTzZacjVfcUFET0NlYS1BVmdxdkM1LU11N2Z3enpRcE9mblU2dVFldm9GaVRmNTA0X0oyTDRWS0d2eU1jMzhRbnluV2JYVGZoUE9NTTIxQlNEczFSLWJ3SzEwLU5GMXJkT1lwU09BV0hkMV9wRDQ3dHlMUTJiSVRKeTh1YnMxeUJrSzlNQWVGc1hsNGFoTS1BZDI3UTFWa0dDdnBkWEs2clFLYkRfekN1UWR3WWRYUHIteXNfbjM3LXhkdm41UQ?oc=5"
-      },
-      {
-        "title": "Pożar w Siemianowicach Śląskich. Płonie hala, w środku tworzywa sztuczne - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb09qcWZNTWxKZVFMSFdGdUdlSk9YdnZXbzREak4zbUh5SjFMSFkzcElxWEVqS0ItbTdJek10R2pSV1dVbS1fMlI2WmFhOGdDWGRKeW53T2s2N19QOXZtLXFPZFNKeUp3em41ZHl0U19OYnhwbTVJNFg1a1RRTlpqYk92Umtod2p5d3pUa25oOWpicXFENGgzVTcxYzE1RnZmN211UVVVM00zMXFh?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu. Zamieszanie wokół urlopu Hołowni - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc190eXdNd2xieWZFNy1CUzdiVTR6cmo5Y2JZVzRObE8zQThqM0lfLVJtZXlkbFZ2SUktWmxjUnI0cTZUUnpEU3VPMzVKSjdlTlBrU2NCdkp4RTh1Z0NOcWo4NWUySHJ2SmNpTmltZXRIeTBXQy1KZ2ZXNWgtd1F2WmFYZm5XajFmTUViZ2Qyb216aGvSAZIBQVVfeXFMTzk4dFNTVnNXT1NjLXhGeWppb3NYdFFjWDBhR0RmLVVMakdzLW5YcUxabkpXUXZkMGRWLWVCeUJWSDhPNUV6dFFNX1dLM3ZYSXgzTVJJR1JzcmQ4RVVxNjRjc2RKNUpMNTlBZlRTNmlZX2NDZmZQYlJLOG1RdVZWYmtwa0lqNDQ5aW03OVdSaU8zNmc?oc=5"
-      },
-      {
-        "title": "Jaka kara dla Grzegorza Brauna? \"To ośmieszy wymiar sprawiedliwości\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVklxX1pZUHNKUm44RnI1djdRdTIzQ19MTnRGVFBqVHVZaXZxZ0hVTDg4V2w3bFlLZDhMNnFvYlVTdDZLamFYOWlRcE5JU1VqZkUtcUZqQ0FTeS0wRGtZQ2RVd25RbHE4VkxsNS1aV2drWHdNdHFTVDhfdEdyREhCal9yczB3YzR3UVc1NzJJZENmajI3SXVfT01FRU52VUlvQVlPV0RzU09GU2pGei1WQUVCSWtyQdIBtAFBVV95cUxNNVJzdGpMMnktQ05OdXJqaXhuN250U3RiT3p6S1ozUkNsenBQSUxEOXI0dzkyRHRJaE11UXE5YXhIUjh6VjU2QjRtcjRUUFV5OU9VOFpjc2hxSlhUSDJRclloWG1JWnV1anU2aTJWT3I0blc3WThrOWlDNDVnRlZEdXpLZTVfOURZd19FaDN2Z25fbHljZnI2LWo0V0lBbXozOGlxRGY3WHR3X0t2VFdlMEhDLVc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-14 23:14:00",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trzecia kadencja Andrzeja Dudy? Były premier: Zgodziłbym się - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRklZXzNNQ1JaM0hUcmh1VHVPRUtnUDFrRVRNbGJiNDJKbjNuaTJnMDN1TWJiQ1VjLWVvaEpLT0FDYTBJbmpaSWtMUV9xN01tSGRIX25TOEZ4MlJDMUhOWEp4UEpDNm0wQW0zNm0zdm1GTHhpb3FpWFlDeFlWZUt0d29fMjVqTzVSVzR6T3htRjV3WTNTcVpyanFnYlRlby1Rb0R2aHZYNFB2YzdnZXFWdXZWb2pac3pNekE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 06:33:16",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6631,
+      "EUR": 4.2585,
+      "GBP": 4.9055,
+      "CHF": 4.5719,
+      "JPY": 0.024611,
+      "AUD": 2.3889,
+      "CAD": 2.67,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 433147,
+      "DOGECOIN": 0.764282,
+      "ETHEREUM": 12220.7,
+      "LITECOIN": 352.98,
+      "RIPPLE": 11.17
+    },
+    "indices": {
+      "^WIG20": 2868.56,
+      "^WIG30": 3711.18,
+      "^WIG": 3711.18,
+      "^NCINDEX": 254.66
+    },
+    "news": [
+      {
+        "title": "Atak dronów na fabrykę Barlinka w Winnicy. Sikorski mówi o zmianie strategii Rosji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkdqSHZyZ0NkSkhQU0JuNFZzQ2dTanlWUi1kaWtGVWJfaWNZM3JrOGI0VU04ZG1CblBXWGlsVnNJeDh5MW9WbEVsNFRMWVhVN09vamctV3RZd20tMzFSWmZJV2N4M3lPXzRucDZLcXpWQ1p1MkF0SFZpaGxOZXQ5TV9MblhfdjgyWjFLdTM2U1VaOTJRNzFxdnJwZnRJczdYWkdaVU12TnMwdnV3Sml3Sl9LTmx2S2M1NVJwYlNMcDJWSkd4U0VUWFNRdw?oc=5"
+      },
+      {
+        "title": "\"Dramatyczny wpływ na Rosję\". Zwarcie Trumpa z Putinem. Świat czeka na efekt domina - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEx3OE1xYTVqTURpaXlEWmdCQVk5NmJSTF81dS1NZDJwem9ndEwzRzZ1LTBRSnJQLXVlS0xiTEMxdnBWX0J1MVczNWZkY0xNZXJScllxV3R6X2hMSXZlQm5oNVJVYk5QZ1h1ZkpQeUZxNFBSUzFrYXRQNHFDVjEyQkFQVTVNbDBUejRhZzFld0k1ZDVtOHVwWEQzMUxhNXA3LV9URkF2UWpfQ2hMT0VTV1RCREFHbU1sRTdoSQ?oc=5"
+      },
+      {
+        "title": "Pożar na festiwalu Tomorrowland w Belgii. Czy wydarzenie się odbędzie? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2QwYXhpd0pRNGxFdk1jT2xnRmp4cDRNQUlicm04RGNISlZobzBnTkFVOUxwQW5uMXZ6Rmt0dlY2aUZfSWtfLWFWTUE2VXBrbEFOY3lGZUZVbHdrekVuMFNmaE0xMFV4WXFJYjU4LUZ0eVBFNFBUaW50UXBVcGNuSHI3WWNxWlF2b1NheENZbUUyd2ZXbDNISGpFUXRxZEdwR0ZPY0daSmRtdGMzZ1hwX2g5VEVPZEtEaWhF?oc=5"
+      },
+      {
+        "title": "Rosja zrzuciła 500-kilogramową bombę na centrum handlowe. Są ofiary śmiertelne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnhhVGRjZW91NUVaXzhRa0JOajQ0aTNFQkpjODZzdXNsdzd4UWhfMkNTUU9PVlJTLXlJLXpKZ241WXZyMThuTDBoXzY1Rm1MRTF0b0FHWWJrbnZpUDYwcU9YMzRhT3lUZzNib25UMnN6Yzc1bTJjanFQbGstYVFyZnA0dnJJNnRjUUlCajBoOHB3dHVKTDNrbHlyd2FMMHdKdnZLNWFDelhGUmNWVE4yOGMzd252OHdlMWlNUXBXazY?oc=5"
+      },
+      {
+        "title": "Immunitet Grzegorza Brauna. Adam Bodnar zdecydował - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
       }
     ]
   }
