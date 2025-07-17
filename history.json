@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 00:14:08",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +28°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6475,
-      "EUR": 4.2614,
-      "GBP": 4.9151,
-      "CHF": 4.576,
-      "JPY": 0.024758,
-      "AUD": 2.3951,
-      "CAD": 2.6659,
-      "CNY": 0.5087
-    },
-    "crypto": {
-      "BITCOIN": 438469,
-      "DOGECOIN": 0.720901,
-      "ETHEREUM": 10975.9,
-      "LITECOIN": 347.39,
-      "RIPPLE": 10.74
-    },
-    "indices": {
-      "^WIG20": 2879.77,
-      "^WIG30": 3727.45,
-      "^WIG": 3727.45,
-      "^NCINDEX": 254.62
-    },
-    "news": [
-      {
-        "title": "Twarde słowa ambasadora USA przy NATO. Chodzi o broń dla Ukrainy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0g2VjdNSWNPaVBEcDlKUFl6VHdDM25GaEx2ZThTZFlKNDBzb05PNmxXeWZFWEZyTEI1anhYdmlBelZsRmNQc1EwbFJJUElBQmRZNDNfMWRGcDBOdkE2VURleGdfb1RsYmRhdDlGeE9Rd0xiRnppMEUtaXZOWnVUbkM5NHptcGozSUpTOFRLUmVnNUR2b3ZiY0s1djB6X3V3anRDUkpOTFdGYW9Ma2Yta3ZuYW10T3dzMWY0ZUpfM1lCcmhi?oc=5"
-      },
-      {
-        "title": "Polak kończy kosmiczną podróż. Po powrocie przejdzie program rehabilitacyjny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRkUzQ4dDlqVWJWN3FqRU9qQ2dkYnFEZkp6R18xOHg2cERVZnVGb1IwaTN2azVRZlFOQVlDUXptRjc4Q2trd3g2ZDB2cXB1Uk1uWVUzOC1oMFFnT3hGeEhSb25DWkNhdHpacU4yaGZxS05LQS1NTk9CLXFLY2RRZmlBb2pUZi1DcHlLcG1hWWo0cGZvcm9CQkZwRjlRT29VbkZuWTBlQXI4aU8yT3BXRl8xbEllc3hRRjNIX05R?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu. Zamieszanie wokół urlopu Hołowni - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc190eXdNd2xieWZFNy1CUzdiVTR6cmo5Y2JZVzRObE8zQThqM0lfLVJtZXlkbFZ2SUktWmxjUnI0cTZUUnpEU3VPMzVKSjdlTlBrU2NCdkp4RTh1Z0NOcWo4NWUySHJ2SmNpTmltZXRIeTBXQy1KZ2ZXNWgtd1F2WmFYZm5XajFmTUViZ2Qyb216aGvSAZIBQVVfeXFMTzk4dFNTVnNXT1NjLXhGeWppb3NYdFFjWDBhR0RmLVVMakdzLW5YcUxabkpXUXZkMGRWLWVCeUJWSDhPNUV6dFFNX1dLM3ZYSXgzTVJJR1JzcmQ4RVVxNjRjc2RKNUpMNTlBZlRTNmlZX2NDZmZQYlJLOG1RdVZWYmtwa0lqNDQ5aW03OVdSaU8zNmc?oc=5"
-      },
-      {
-        "title": "Pożar hali w Siemianowicach Śląskich. W środku tworzywa sztuczne - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb09qcWZNTWxKZVFMSFdGdUdlSk9YdnZXbzREak4zbUh5SjFMSFkzcElxWEVqS0ItbTdJek10R2pSV1dVbS1fMlI2WmFhOGdDWGRKeW53T2s2N19QOXZtLXFPZFNKeUp3em41ZHl0U19OYnhwbTVJNFg1a1RRTlpqYk92Umtod2p5d3pUa25oOWpicXFENGgzVTcxYzE1RnZmN211UVVVM00zMXFh?oc=5"
-      },
-      {
-        "title": "Jaka kara dla Grzegorza Brauna? \"To ośmieszy wymiar sprawiedliwości\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVklxX1pZUHNKUm44RnI1djdRdTIzQ19MTnRGVFBqVHVZaXZxZ0hVTDg4V2w3bFlLZDhMNnFvYlVTdDZLamFYOWlRcE5JU1VqZkUtcUZqQ0FTeS0wRGtZQ2RVd25RbHE4VkxsNS1aV2drWHdNdHFTVDhfdEdyREhCal9yczB3YzR3UVc1NzJJZENmajI3SXVfT01FRU52VUlvQVlPV0RzU09GU2pGei1WQUVCSWtyQdIBtAFBVV95cUxNNVJzdGpMMnktQ05OdXJqaXhuN250U3RiT3p6S1ozUkNsenBQSUxEOXI0dzkyRHRJaE11UXE5YXhIUjh6VjU2QjRtcjRUUFV5OU9VOFpjc2hxSlhUSDJRclloWG1JWnV1anU2aTJWT3I0blc3WThrOWlDNDVnRlZEdXpLZTVfOURZd19FaDN2Z25fbHljZnI2LWo0V0lBbXozOGlxRGY3WHR3X0t2VFdlMEhDLVc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 01:14:23",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Immunitet Grzegorza Brauna. Adam Bodnar zdecydował - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 08:21:52",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6631,
+      "EUR": 4.2585,
+      "GBP": 4.9055,
+      "CHF": 4.5719,
+      "JPY": 0.024611,
+      "AUD": 2.3889,
+      "CAD": 2.67,
+      "CNY": 0.5103
+    },
+    "crypto": {
+      "BITCOIN": 434639,
+      "DOGECOIN": 0.775375,
+      "ETHEREUM": 12372.44,
+      "LITECOIN": 358.88,
+      "RIPPLE": 11.57
+    },
+    "indices": {
+      "^WIG20": 2868.56,
+      "^WIG30": 3711.18,
+      "^WIG": 3711.18,
+      "^NCINDEX": 254.66
+    },
+    "news": [
+      {
+        "title": "Nie żyje Joanna Kołaczkowska. Artystka kabaretu Hrabi chorowała na nowotwór - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0ltblNNc2JCamFaTWtiUjJUMTJqUTVxbW10eWFGbkNUN3c4WkZVejdxN3E3ckl2akV5VnBqV2czeWdrYzViYnhrV2JkOWRZcENuUHBlWVdiR0lLbmxTYU10N2dFZzdoYU1GcEE1UTRQQnowSzlhY3VJSG1CZVB6dlhvVDZxQVJ3S2tKcEhJRmIzakVDUHdtYVZCZFllejBNZnVnMV9HV1M1cFVMcElWSFFJODUxUlV1SDhWeGpCZ19XOGMxeFI3RFF6T1BFakJBS1VUMHhEeHR1U2pTVmg5QWZCeGQxbHdJX19hYlM1WQ?oc=5"
+      },
+      {
+        "title": "Atak dronów na fabrykę Barlinka w Winnicy. Sikorski mówi o zmianie strategii Rosji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkdqSHZyZ0NkSkhQU0JuNFZzQ2dTanlWUi1kaWtGVWJfaWNZM3JrOGI0VU04ZG1CblBXWGlsVnNJeDh5MW9WbEVsNFRMWVhVN09vamctV3RZd20tMzFSWmZJV2N4M3lPXzRucDZLcXpWQ1p1MkF0SFZpaGxOZXQ5TV9MblhfdjgyWjFLdTM2U1VaOTJRNzFxdnJwZnRJczdYWkdaVU12TnMwdnV3Sml3Sl9LTmx2S2M1NVJwYlNMcDJWSkd4U0VUWFNRdw?oc=5"
+      },
+      {
+        "title": "50 dni Trumpa. Dlaczego Rosja to zignoruje? Ekspert: to może być ich ostatni zryw - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTNOUWp0OUM3YlFhT0hEX1hyd2pXM3ZuY0VNNjJVRGdkcDdwWmpRaE9WVlRBVDhlMjFFOGdGV0xaaGZmZ2tyOVNIeVBsMDFVbDVxVmVna0tOR2EzNUNGYVg1WFNyNjlUWWExTHV6b3NvOWxqSlV5M0EtNlhkYnFFX2ZVY2w4cW1Cc2lCaVRlMS1pbUszRi05N0haT0Ribk91M3NNbWlLTkU2dEhVTHNUR3JTZ210QnVxaU9vamln?oc=5"
+      },
+      {
+        "title": "Rosja zrzuciła 500-kilogramową bombę na centrum handlowe. Są ofiary śmiertelne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnhhVGRjZW91NUVaXzhRa0JOajQ0aTNFQkpjODZzdXNsdzd4UWhfMkNTUU9PVlJTLXlJLXpKZ241WXZyMThuTDBoXzY1Rm1MRTF0b0FHWWJrbnZpUDYwcU9YMzRhT3lUZzNib25UMnN6Yzc1bTJjanFQbGstYVFyZnA0dnJJNnRjUUlCajBoOHB3dHVKTDNrbHlyd2FMMHdKdnZLNWFDelhGUmNWVE4yOGMzd252OHdlMWlNUXBXazY?oc=5"
+      },
+      {
+        "title": "Ile osób ułaskawił Andrzej Duda, a ile jego poprzednicy? [INFOGRAFIKA] - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWJyUHh2YURQUE5nclJpRXVNSmpmZzBiX2VEVERmdTEwb2otSnNDa3BKQ0FCd3BKWm01c3ZxRDlWQ1ZyQzBXQnlEM0piWmNVbzNuXzlQQWRsUm9Hd2dUMGE2bS1hdFpxQjh5Wk5GSmhlSm84U2VXTlk4WkRfdTJNd29iRExyTDVPNjJEY1ROZFZSV2dhalJodnlTRQ?oc=5"
       }
     ]
   }
