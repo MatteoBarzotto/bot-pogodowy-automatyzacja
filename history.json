@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 15:32:26",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6396,
-      "EUR": 4.2538,
-      "GBP": 4.8942,
-      "CHF": 4.5732,
-      "JPY": 0.024647,
-      "AUD": 2.3898,
-      "CAD": 2.6598,
-      "CNY": 0.5074
-    },
-    "crypto": {
-      "BITCOIN": 429065,
-      "DOGECOIN": 0.706875,
-      "ETHEREUM": 11031.89,
-      "LITECOIN": 340.81,
-      "RIPPLE": 10.61
-    },
-    "indices": {
-      "^WIG20": 2904.69,
-      "^WIG30": 3753.56,
-      "^WIG": 3753.56,
-      "^NCINDEX": 253.6
-    },
-    "news": [
-      {
-        "title": "Media: Andrzej Duda ułaskawił Roberta Bąkiewicza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE91S092QXBiZXhOSzNwa3pULXRZa3NSU181UUFGQm5lemhxalVTcGFrWGZNemF1MjFLS3NwaVRoZ0VRZ3c0dnNzTzBMY2dVbFZ2TzJoUVhJVUxNd3NRQVlzX1p5SnZhTjJBVTE2OFNyTUw4c2VjRDhSTGJ6V1d2MTduQThvVmFBZGN5NU9sV1pfakxwUVE?oc=5"
-      },
-      {
-        "title": "Polski astronauta wrócił z kosmosu. Otwarto właz kapsuły Dragon - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0JHUXNhWUNWbGRPQTZnT0lYc21rM0tnelAydHNibF9tQU9MZ0JkRlBpcGhycXhXZENuUERhWVNrdUs0YTBZNUQzYS1XMzNYc3hsNXprb2dZaXNsZmVpLVV2dU95TFVQQ0dNQlFVbXNnT202MklldlBZYmd0WHYtNnprc1pKakdxeU5PRU13NS1sNElvLWxnWENRRDZMaWJXYXdJaS14Rk1ZNXpkRGJTeEFCMjFEN2g4?oc=5"
-      },
-      {
-        "title": "Rzecznik Kremla reaguje na ultimatum Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0l3aTRxTEFURmR2d0ZaQURkMUJ3MkhUVWo2UUg4QVpFaWgtMG42cFBMVmppRWVBQ3FNVER2UnlqUFhtYkNta0phMC1nVDJKdDkyQlA0akE5ZS1PcFRrRDZyOTBQRnZqWmZldDlsWXlvRll2ejg3em5HaGZPRFcwRnJWOUsxTnhsRTZ6UzdlN240cFA4Q2xIZ3JlZHJfUUtrbHBNbDBjeHBuV2NNYmJXWEFjaUk?oc=5"
-      },
-      {
-        "title": "\"Możesz zaatakować Moskwę?\" Szczegóły rozmowy Trumpa z Zełenskim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaEl3Tnd4VTQtUmI4Nzczby0ta1ZzaW5fNHc3NVRxWndfTVlYcDJvTEZOYjVjdWp2eUhNaTNZOEQ2TmdWWWxYNHN0cG1CcXRzU09hNVhzSHBJUFJzcVdhVWo5eG9zUWdQREY0cGZ1ajlkdnRSX190emc0cVJrSWRUcDNFcWFfeDNsNDdGazJKLWNtSEZjQWNlWkJuS2l0NkxoSlBXMHlCNA?oc=5"
-      },
-      {
-        "title": "Interwencja MSZ w Watykanie. Chodzi o wypowiedzi dwóch biskupów z Polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbF9Mdi16ZTl2Wk8xdHR6T2RuT0tMeWVndWZELWdHZkdXYkVwenVrVnBPbEp2ZmVsTVVCNTVfbzZ6MXNOMFhfSTRIYk15OVFqNTZXSW5TV2hDV09RLXJHZm9FOG41OFhSVWlnVGFteXFBa25QUlpaQmNSMExTT1ZzTzFlVndNWUxQLVJnVEVEZUp1c2lFc2FCcnd2OWl3eTBpWEU0LUcyWnMyYkNsN3l6Q1JYMXM0dVI0S3ZpT1p5WkZkQWgzNm5lMEJPRGpTdTg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 16:14:49",
     "weather": {
       "Warsaw": "Warsaw: +26°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zmiana premiera w Ukrainie. Czy zastąpienie Denysa Szmyhala przez Julię Swyrydenko ma sens? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYlpmeUJTWk5JVG4tZV9QZDZPTnJ3QXlFVTRSSjN5YU9QZDJteFpzSTBHVTgtRlZuUk0xYkRpZ053SGN3eGRXRWdlX1FUTjh2c0t1bTdZSnpMM1pfVHh6MjNLSGVnTVBwbXBGdms0ZV9SRW9wTXVKXzJEVUpDQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 21:13:44",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6686,
+      "EUR": 4.2559,
+      "GBP": 4.9195,
+      "CHF": 4.5662,
+      "JPY": 0.024687,
+      "AUD": 2.3744,
+      "CAD": 2.6695,
+      "CNY": 0.5111
+    },
+    "crypto": {
+      "BITCOIN": 440076,
+      "DOGECOIN": 0.790177,
+      "ETHEREUM": 12635.65,
+      "LITECOIN": 374.6,
+      "RIPPLE": 12.33
+    },
+    "indices": {
+      "^WIG20": 2905.75,
+      "^WIG30": 3756.41,
+      "^WIG": 3756.41,
+      "^NCINDEX": 254.58
+    },
+    "news": [
+      {
+        "title": "Wstrząsający wypadek. Nie żyje legendarny Felix Baumgartner - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmhGd1hGTkVPS0pINnk0Ml96TFA4QWhNb3k2TWhaWGdtR0ZYVDBqUnA0MklROFU1UlJrVkptaEhqZHJxRVlDejlKcTZLZ2JYNDdEYTNidm5SUnNjdkhGZmdmTlgySmc4TTFsRjJMclBPa0lQeTJyOFpPZHZpUFhkZ1hWZkNnQWVMb0p1LUh3NXAxUkhTZVUyal9HeXZVUUxtQkp5TnR0Y0ZsUQ?oc=5"
+      },
+      {
+        "title": "Niemcy odrzucają projekt budżetu UE. \"Nie do zaakceptowania\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTZwVnhZV1hoYVMyU2N4eXJjRFdOVXFYT1JSa19XeE5xbXgwV1ZrTzVrZUFBYVVMYUt4dVoxNVlJV290Y0sxcjdHOExLOTJ0amxJVVZ2eFkwcWhZZjMxNmZ2Q0pNSHhTcThXYzJPNkN6SVNxMEVBaGVyUmtVVFhTUXlTWDhTd0RsUlE0NWx0elFpNU9QT2ZQWmV0N3pxTTlOZVduTFluNGI1YktLUWhYSzJB?oc=5"
+      },
+      {
+        "title": "Adam Bodnar nie zapomina o wyborach. Pisze do Szymona Hołowni w sprawie nieprawidłowości - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFJIN1l6cGpfRTU5NFdpOUF3eUN5RXhFMnpxdGV2SEZYTno2TGpCSXIybUNreHBJSzlqQU5wSjhxU3JIM1hyeTBxLWpmSGZ4NEExSHRvVkdsaVBuWlRoY19HeDRQaTRadWFqYVI1ZmZYLVRNeGJNVTlmZE5rdEppdTRrUjVMdXowb1lLbnV2Z1laX2I0U0Q1MFoyRzk4Q2E4QXVqV014N1BCR0VrbWNxdnI5S2VmQlc0NkQ1bA?oc=5"
+      },
+      {
+        "title": "Polski MSZ odpowiada na rosyjski atak na Winnicę - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnY2VXhucDZyblkzb2RMSUlBY21pY1FoWkt4YXZvREthV3BiWUNBYUVOVzJhTTB6b0U4YjlobHVSelBjRnR2YVJUalFid0xaN2xlV29fcV84UHVNek5JZUNTbEJvdUFNQkFJdTl2ajlRZGU2UXpyM1RnakVzd0Q2VkVZd08tSUNDaGJqcDdVMA?oc=5"
+      },
+      {
+        "title": "Śledztwo ws. afery maseczkowej umorzone. Sąd: Instruktor narciarstwa nie oszukał MZ - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNXMkltcUlyeWVYVnF1aVZEQ29jS2d4ZzNIcDNibmlPbDFFdTlwQkNRaXJudm42TXViOU1wS2FYQ3FBTE4xVDN2cmFzbU9lMjF5eFgwd29TdUxGOHNlbFBTM0RQdTBrdnl0UWVQaEMxeS00U3licTRPV2hjVnVVVTVGcG13U040dmJyQlBfTk1PUEhNYmRiU1NYZFJjaTE3R3RjeHVrNXlVa3VSb3F2MGNaNDlUWC1kalFCb2FyMkI?oc=5"
       }
     ]
   }
