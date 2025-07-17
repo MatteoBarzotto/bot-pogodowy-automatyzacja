@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 16:14:49",
-    "weather": {
-      "Warsaw": "Warsaw: +26°C",
-      "Kraków": "Krakow: +25°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6396,
-      "EUR": 4.2538,
-      "GBP": 4.8942,
-      "CHF": 4.5732,
-      "JPY": 0.024647,
-      "AUD": 2.3898,
-      "CAD": 2.6598,
-      "CNY": 0.5074
-    },
-    "crypto": {
-      "BITCOIN": 433216,
-      "DOGECOIN": 0.715496,
-      "ETHEREUM": 11199.37,
-      "LITECOIN": 343.45,
-      "RIPPLE": 10.72
-    },
-    "indices": {
-      "^WIG20": 2869.88,
-      "^WIG30": 3711.29,
-      "^WIG": 3711.29,
-      "^NCINDEX": 253.34
-    },
-    "news": [
-      {
-        "title": "Media: Andrzej Duda ułaskawił Roberta Bąkiewicza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE91S092QXBiZXhOSzNwa3pULXRZa3NSU181UUFGQm5lemhxalVTcGFrWGZNemF1MjFLS3NwaVRoZ0VRZ3c0dnNzTzBMY2dVbFZ2TzJoUVhJVUxNd3NRQVlzX1p5SnZhTjJBVTE2OFNyTUw4c2VjRDhSTGJ6V1d2MTduQThvVmFBZGN5NU9sV1pfakxwUVE?oc=5"
-      },
-      {
-        "title": "Interwencja MSZ w Watykanie. Chodzi o wypowiedzi dwóch biskupów z Polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbF9Mdi16ZTl2Wk8xdHR6T2RuT0tMeWVndWZELWdHZkdXYkVwenVrVnBPbEp2ZmVsTVVCNTVfbzZ6MXNOMFhfSTRIYk15OVFqNTZXSW5TV2hDV09RLXJHZm9FOG41OFhSVWlnVGFteXFBa25QUlpaQmNSMExTT1ZzTzFlVndNWUxQLVJnVEVEZUp1c2lFc2FCcnd2OWl3eTBpWEU0LUcyWnMyYkNsN3l6Q1JYMXM0dVI0S3ZpT1p5WkZkQWgzNm5lMEJPRGpTdTg?oc=5"
-      },
-      {
-        "title": "Polski astronauta wrócił z kosmosu. Otwarto właz kapsuły Dragon - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0JHUXNhWUNWbGRPQTZnT0lYc21rM0tnelAydHNibF9tQU9MZ0JkRlBpcGhycXhXZENuUERhWVNrdUs0YTBZNUQzYS1XMzNYc3hsNXprb2dZaXNsZmVpLVV2dU95TFVQQ0dNQlFVbXNnT202MklldlBZYmd0WHYtNnprc1pKakdxeU5PRU13NS1sNElvLWxnWENRRDZMaWJXYXdJaS14Rk1ZNXpkRGJTeEFCMjFEN2g4?oc=5"
-      },
-      {
-        "title": "\"Teatralne ultimatum\". Miedwiediew reaguje na ostrzeżenie Trumpa - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWhEbTVKb2MxUGY5QXFpbHRqMEcxbWhGSlZvWXh3QXU3RW5xeVFnWGV5bTdyNjFkcFpha21VTk9KZVo2NnJJRnFJRHRKTGtSYVloUzYzT2habF9pd1Z5LVlPd2plUVBXOF8zdURSZVBfTGZJemJWVWRZVGNPSUx0eENWRk9pYmdRRHZ0cXhKRXA1cmJjWFNGOWVkQkotTEZQVGE3WDJwOWRiMndna1E0S3RvdmVWQQ?oc=5"
-      },
-      {
-        "title": "Znów nawiązał do wystawy. \"Rozpoczynam akcję\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmhaa0FMWmRkeUhBcl9QMVNrQklKa1FQTEcyRGRNOWNTOFg0d1pRbWpXNDVvT3N0NzlIZ0RpVG1TVmFtbGtJd0FFUk1MU255UVRLTFNSTHdkVmNyWGRyN0g4M25BRW1PN3RiUDJoQzV0UVFSUk1TUWF2Z3VkY01WU21WQWZpVmdBX250UE1B?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 17:14:03",
     "weather": {
       "Warsaw": "Warsaw: +26°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Śledztwo ws. afery maseczkowej umorzone. Sąd: Instruktor narciarstwa nie oszukał MZ - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNXMkltcUlyeWVYVnF1aVZEQ29jS2d4ZzNIcDNibmlPbDFFdTlwQkNRaXJudm42TXViOU1wS2FYQ3FBTE4xVDN2cmFzbU9lMjF5eFgwd29TdUxGOHNlbFBTM0RQdTBrdnl0UWVQaEMxeS00U3licTRPV2hjVnVVVTVGcG13U040dmJyQlBfTk1PUEhNYmRiU1NYZFJjaTE3R3RjeHVrNXlVa3VSb3F2MGNaNDlUWC1kalFCb2FyMkI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 22:16:09",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6686,
+      "EUR": 4.2559,
+      "GBP": 4.9195,
+      "CHF": 4.5662,
+      "JPY": 0.024687,
+      "AUD": 2.3744,
+      "CAD": 2.6695,
+      "CNY": 0.5111
+    },
+    "crypto": {
+      "BITCOIN": 436104,
+      "DOGECOIN": 0.779368,
+      "ETHEREUM": 12453.65,
+      "LITECOIN": 369.37,
+      "RIPPLE": 12.17
+    },
+    "indices": {
+      "^WIG20": 2905.75,
+      "^WIG30": 3756.41,
+      "^WIG": 3756.41,
+      "^NCINDEX": 254.58
+    },
+    "news": [
+      {
+        "title": "Felix Baumgartner nie żyje. Słynny skoczek zginął we Włoszech - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUVCeUM1WmRxcFlHSUFuNVE0Zjl0aW9qcEM2NTFoLXZSbHZkNFFmWjhISzhMNFhzMGNTWjNBTlkyWTFvNk1YcVl4RXBZa1BOMDctcHBTdENpX2hQSE9zYWMzVjdKNlB3SGZweC15WWVGc1pLd0xYb21wVjBvLWR6QU1Ld1RmeFZXeDFmXzF2NFB5QzA1dXcyaklkNkwtTWZaN1BIMThzdFk2emRQT1Y5d0FyX3Y5dE04bTJR?oc=5"
+      },
+      {
+        "title": "Donald Trump usłyszał diagnozę. Biały Dom ujawnia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS283dkxpT0M4Q1NjeUxZbERKODNxRl8tdl96VEl4T1l0TmJmNHo4UjVmV3RXNTlheFZUR1U2dm1rc1FrUmFReGhKU1VjTEthQjJTMzM4MTdSYnJxcHFwYnhFNG5CYW5DdUtWdzlxSV92bE9BWnFJdWpTWW90LW5IM0ZBTFlBRUp4RTdhanhCZk9nams?oc=5"
+      },
+      {
+        "title": "Niemcy odrzucają projekt budżetu UE. \"Nie do zaakceptowania\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTZwVnhZV1hoYVMyU2N4eXJjRFdOVXFYT1JSa19XeE5xbXgwV1ZrTzVrZUFBYVVMYUt4dVoxNVlJV290Y0sxcjdHOExLOTJ0amxJVVZ2eFkwcWhZZjMxNmZ2Q0pNSHhTcThXYzJPNkN6SVNxMEVBaGVyUmtVVFhTUXlTWDhTd0RsUlE0NWx0elFpNU9QT2ZQWmV0N3pxTTlOZVduTFluNGI1YktLUWhYSzJB?oc=5"
+      },
+      {
+        "title": "„Ze względu na wagę wyborów prezydenckich\". Bodnar skierował list do marszałka Hołowni - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzBOcVM2TlFkRFE0Z2NzZ1lZRE1IcWI2eFN4ekIycWpQbUZvSFhJZUg0Z2p1T01EOHBjdnhaMkNMamhzbmRBbkFvZ0RPZUt5cFd5MlFQbEgtRUxfS29OajZ6TzhJN0ZEOHZONTl3ZHNxSzFPR1NxU2VoVDdTNUQzVno2aml1MFVuSVhjbDNHakVqX1J0bGlkS2MwVUJFbjNfWF9tZ1JYZnB0VmtGZFQtMmZwUVg?oc=5"
+      },
+      {
+        "title": "Polski profesor zamordowany w Grecji. Są zatrzymania - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOME9XUS1la1QtbHZ6RHFTQ09RVXJLS1kxX2tjRWVabi01dDJmZzdvRGtGb01mX2tpUzNZd09UMHUxaGdyWEtvX1hVZlVOWEV1X1BiTTJLS3VMV3VBUmNVaDB6S2dOUWczTmY3bVh6bmdsLXpsb0xuSzd6SkUxYTgyUU11VEtGd0p6ZC12NXNVT2pBclA2?oc=5"
       }
     ]
   }
