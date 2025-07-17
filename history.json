@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 14:30:23",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6396,
-      "EUR": 4.2538,
-      "GBP": 4.8942,
-      "CHF": 4.5732,
-      "JPY": 0.024647,
-      "AUD": 2.3898,
-      "CAD": 2.6598,
-      "CNY": 0.5074
-    },
-    "crypto": {
-      "BITCOIN": 426962,
-      "DOGECOIN": 0.699084,
-      "ETHEREUM": 10869.83,
-      "LITECOIN": 337.0,
-      "RIPPLE": 10.55
-    },
-    "indices": {
-      "^WIG20": 2906.82,
-      "^WIG30": 3757.15,
-      "^WIG": 3757.15,
-      "^NCINDEX": 253.84
-    },
-    "news": [
-      {
-        "title": "Media: Andrzej Duda ułaskawił Roberta Bąkiewicza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE91S092QXBiZXhOSzNwa3pULXRZa3NSU181UUFGQm5lemhxalVTcGFrWGZNemF1MjFLS3NwaVRoZ0VRZ3c0dnNzTzBMY2dVbFZ2TzJoUVhJVUxNd3NRQVlzX1p5SnZhTjJBVTE2OFNyTUw4c2VjRDhSTGJ6V1d2MTduQThvVmFBZGN5NU9sV1pfakxwUVE?oc=5"
-      },
-      {
-        "title": "Polski astronauta wrócił z kosmosu. Otwarto właz kapsuły Dragon - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0JHUXNhWUNWbGRPQTZnT0lYc21rM0tnelAydHNibF9tQU9MZ0JkRlBpcGhycXhXZENuUERhWVNrdUs0YTBZNUQzYS1XMzNYc3hsNXprb2dZaXNsZmVpLVV2dU95TFVQQ0dNQlFVbXNnT202MklldlBZYmd0WHYtNnprc1pKakdxeU5PRU13NS1sNElvLWxnWENRRDZMaWJXYXdJaS14Rk1ZNXpkRGJTeEFCMjFEN2g4?oc=5"
-      },
-      {
-        "title": "Rzecznik Kremla reaguje na ultimatum Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0l3aTRxTEFURmR2d0ZaQURkMUJ3MkhUVWo2UUg4QVpFaWgtMG42cFBMVmppRWVBQ3FNVER2UnlqUFhtYkNta0phMC1nVDJKdDkyQlA0akE5ZS1PcFRrRDZyOTBQRnZqWmZldDlsWXlvRll2ejg3em5HaGZPRFcwRnJWOUsxTnhsRTZ6UzdlN240cFA4Q2xIZ3JlZHJfUUtrbHBNbDBjeHBuV2NNYmJXWEFjaUk?oc=5"
-      },
-      {
-        "title": "Trump zapytał Zełenskiego, czy Ukraina zaatakowałaby Moskwę, gdyby USA dostarczyły jej broń - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZV9wMkhUd25NUFNsSWt4ZHpubnFHdWtuYXRSTTJqYTFkdkxXaXI3WTRZNGIxbmhNbG9PSmdmQjQyZkFVZkRGemxmNkpjSEtlUE5oa3hGVWZpQ3ZiS0J0aEhmcll4dmpwT2JyU0NwNVpXZDlvcV9kbVBna1ZJNGthcFVhVUd1MFZ5cDlnLWE4VUR1b0JjY0N0eG1Jekg4cWVvMld6UmhiQnMyZ1VMVDRKcXhsYWxHSWItUnBjYlh2T1Njb3NjQ2N2WDdPX2lwcms?oc=5"
-      },
-      {
-        "title": "Pogoda nie odpuszcza. Ostrzeżenia dla znacznej części Polski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEFvSXh5OGdfUFN6U1dqWTRYRlpQWldNTGRrQ3lrb0NfcU1YMmJYdEl2MkhEMHdmNlZBWlN0YlZfVVhDd0s5Q1I3bi1YV1FGaFRNajJVSm9oa2JTQWhMNFQ0eTRZdG03RC1iN3pKbVc0T0dJT0hvOExkY2pjWU9qazBjLVlVeVpodW5UMWUzSDJQdmx1TEdoMnlHMW03R2pFdl9KcGJDYnFPNlpVMGMyVGdjbkpzT1h4VldxdW5PSQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 15:32:26",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Polski MSZ odpowiada na rosyjski atak na Winnicę - Defence24.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnY2VXhucDZyblkzb2RMSUlBY21pY1FoWkt4YXZvREthV3BiWUNBYUVOVzJhTTB6b0U4YjlobHVSelBjRnR2YVJUalFid0xaN2xlV29fcV84UHVNek5JZUNTbEJvdUFNQkFJdTl2ajlRZGU2UXpyM1RnakVzd0Q2VkVZd08tSUNDaGJqcDdVMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 20:21:07",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6686,
+      "EUR": 4.2559,
+      "GBP": 4.9195,
+      "CHF": 4.5662,
+      "JPY": 0.024687,
+      "AUD": 2.3744,
+      "CAD": 2.6695,
+      "CNY": 0.5111
+    },
+    "crypto": {
+      "BITCOIN": 438842,
+      "DOGECOIN": 0.785876,
+      "ETHEREUM": 12603.72,
+      "LITECOIN": 372.46,
+      "RIPPLE": 12.22
+    },
+    "indices": {
+      "^WIG20": 2905.75,
+      "^WIG30": 3756.41,
+      "^WIG": 3756.41,
+      "^NCINDEX": 254.58
+    },
+    "news": [
+      {
+        "title": "Ujawniła, z jakim nowotworem zmagała się Joanna Kołaczkowska. \"Operacja była natychmiastowa\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXVJdjZCaVhtdG16UWpKQndLREdPTEt3WTJSQXdNZTJyNFJSOXNGZjFpRkJ0am1Nb0tPSnhKbnlnLWMyNTRsMDNhX0g3NGNNQ1hZb3BMeWs3UEJJSkJNcU9rNElNdXh2NHZCVW14MzlDUzlidlQtTl9nYUVLakZrMFVFSHVjNlNiazZFYVZTal84RWpRLWJkeVRqc1QydEJFVXl3dUN3SWtjUU04UV9BNS1zTXp6QjR5QTJNX1ZrZExwb1Q3QWJWcA?oc=5"
+      },
+      {
+        "title": "Bodnar napisał do Hołowni. Chodzi o \"wątpliwości\" wokół wyborów - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWtDdmlTWGdLQndZOFJWYUo0dWpqcXpxZ0Z5REl4NURWX0djcnpoTGtRRmZYOV8tdDFYOG10Q3lmX2swakdqcXIwWGdxLXhCUi04TkM4M3JJc3FYU05KVVFoTzFwUzM3SVltaHRPdktLdzdTeXFZeWJwMEtNU21zRnNrUTFPbC12ai1VeEJvYjlSNWQybTlxWVQtR2w1YWdGaXNiQWRzY09UWnV6NXBzWGs4Zw?oc=5"
+      },
+      {
+        "title": "Śmierć ciężarnej Izabeli z Pszczyny. Jest wyrok - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXRmcURzSFJYVDJDT2VUUldrd0JTQnh4Mms1bHBlbVJUTzctNk5kSndMeUxtRXQzb0RPWXJxNGk5SG5OVmpLVERlZVBQYnltTmEzNU1DRThSSXdMeGhISmRfQ00wVVBIM2I2Z2lEVEhDdVdqSTFwQUF0WDJiVnVmZE04OGdRcWhsOEMxWDk5bjBGMzQ?oc=5"
+      },
+      {
+        "title": "Rosyjski atak na fabrykę Barlinka. Firma apeluje o pomoc do polskiego rządu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHNERDdjbjF1dFhpbmRJa0VfLUlDcUlsVTJCU1FxQVJLOGh0T3F3Ymo5SHNhaENhUm5LX0V2U05UamljVkpkV3ZTc3FwQ0FiNVFpc2k1MFVDOUNUS3BhdGZPd3VtZ2hVSWVPOVJBS3FPVWJwdUw5X3dTZmJFVjRxZVMzZWtGandHV3NIbmQxdFc3c2dndEk3bVBKekZ6c2NMNTJlMWdLNEhIcGg4ZnV6dQ?oc=5"
+      },
+      {
+        "title": "Zmiana premiera w Ukrainie. Czy zastąpienie Denysa Szmyhala przez Julię Swyrydenko ma sens? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYlpmeUJTWk5JVG4tZV9QZDZPTnJ3QXlFVTRSSjN5YU9QZDJteFpzSTBHVTgtRlZuUk0xYkRpZ053SGN3eGRXRWdlX1FUTjh2c0t1bTdZSnpMM1pfVHh6MjNLSGVnTVBwbXBGdms0ZV9SRW9wTXVKXzJEVUpDQQ?oc=5"
       }
     ]
   }
