@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 10:20:16",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6475,
-      "EUR": 4.2614,
-      "GBP": 4.9151,
-      "CHF": 4.576,
-      "JPY": 0.024758,
-      "AUD": 2.3951,
-      "CAD": 2.6659,
-      "CNY": 0.5087
-    },
-    "crypto": {
-      "BITCOIN": 424556,
-      "DOGECOIN": 0.693153,
-      "ETHEREUM": 10806.65,
-      "LITECOIN": 335.23,
-      "RIPPLE": 10.31
-    },
-    "indices": {
-      "^WIG20": 2899.57,
-      "^WIG30": 3749.53,
-      "^WIG": 3749.53,
-      "^NCINDEX": 254.18
-    },
-    "news": [
-      {
-        "title": "Jest decyzja w sprawie Sebastiana Majtczaka. Ruch prokuratury - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGdhRGNDSHZpd3Y4Y2thZXBjTVlkaHktdzQwRHI0Um5hV2JMV3dpV0dFWklyRzlkcVluV1FuN1dDT1htelM5ZkVrVDBBMml0UXBWeHpSdG54SVlLdDRfcmdwT25NZTZDcllaYl9xdEdqakFoVk1yWkE4MGNnbXdJZHlfT0o2OGp0aThKd0wxaUNTTXlHc0YzS1NfTGY1TG5ReVFYWmNVVFlQbGNkMHQ0LTgtZnB2S21ZNXQ3UWJXbjNKdzJK?oc=5"
-      },
-      {
-        "title": "Polak kończy kosmiczną podróż. Po powrocie przejdzie program rehabilitacyjny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRkUzQ4dDlqVWJWN3FqRU9qQ2dkYnFEZkp6R18xOHg2cERVZnVGb1IwaTN2azVRZlFOQVlDUXptRjc4Q2trd3g2ZDB2cXB1Uk1uWVUzOC1oMFFnT3hGeEhSb25DWkNhdHpacU4yaGZxS05LQS1NTk9CLXFLY2RRZmlBb2pUZi1DcHlLcG1hWWo0cGZvcm9CQkZwRjlRT29VbkZuWTBlQXI4aU8yT3BXRl8xbEllc3hRRjNIX05R?oc=5"
-      },
-      {
-        "title": "Trump ogłosił dostawy broni dla Ukrainy. Jak to wpłynie na sytuację Rosji? - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVhveDBxc0MyNm1xWENoQXVZYlRXSHhidXFqYm54OTRnRktoRTNLRWpMSS1RM0lzeDRjc3lhUU1lNzdzNXlKU05XZGVRLVUwakl2N1RmRGUtVm9USlk3OVZMaDFuT2lPQTdacmJTRUFWQ01xN3dBcW1VM3lmT2ZzLVg1czVhSUZaTEk1dFRtQk5yNTZETjRHZXRSd2d3THBPWGN6ekhSZW9wWVZrdFRGYnhoQlFWWUE?oc=5"
-      },
-      {
-        "title": "Zaatakował przechodnia maczetą. Brutalny atak w stolicy - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWZsbmJUN3AwMmlQWWRjbUZBSWdxUmpKblFvNHNyTVNfMnk0eUFtSTl0WUZNcDRjNk9QR0dWRms1RkZ0T3JPdkQ3N3YycnN6am9XYU96Zk45eWh2aE1vVERVcU0zU3dPX2VPU3VTd0N5RTZOaUdOWlNUT3hRQmhXTGF3RlF2MDNzNGh0NEE5UkVTZHJ2SGhlVU1Od0lXd1hkT2NZN3RXVnFZQXRyV2fSAbIBQVVfeXFMT0ViOWxPV1M5YUxQem1OcmFxWlVtYnVnX2FwOWw4S2FEZ0hqS1kzeVVfSUJqN0t0UnlGQmZTV3ZOVWhRNGRhX1BqTjV6cVJRUVo1SGdlZ1AtU3NuNHZlUUNVbWprbXJDX3FMNktDMWhuZkhCeWdCZi1yc1pEU0xOOUhCZWprd0hpZ3RJa2FVSjdSWFZVTUhKS3BqTGo0MWhkUmZweEtnQmVhY1VFeXZDUjJIdw?oc=5"
-      },
-      {
-        "title": "Polacy ocenili Donalda Tuska. Sondaż nie pozostawia wątpliwości - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHJWWk84dXNQbWd6eVBWV1pmMGRud3JuNnAxRXNUdzNjZjFuQlpqNG1LeDNYcDBYUzlUaWdQZ2JpQjRsaUJLSE5sbzdaTUs3em5RS3c3dDdGSl8weWhHOUhWRzZ2Vy1BaEJUUTZhUURwdEJxWGdrUHAzR2lvNThrc3ltU00zQkpVVThpSlF5OHRxdTFRdFhueDZYb01TVEdfR0xrcQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 11:23:46",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rosjanie uderzyli w polską fabrykę w Winnicy. Apel o państwową pomoc dla Barlinka - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWU5GOHJmYUticGV6d0d4TFVfb3duVGJnMzVObmpSVHBrRkgzWnF2aWlSdGdOVHlrelA4WVA5S2tUX01GTl9FZWduYzJ3M2tIOXNlSGN2VnduXzIwWHl5SGE1ak5DOU1vYmhfTzlCcG9KRERwM1lmdXdjWUFYdjBJTkpYQVBaQ2xHQmtYZzlURWsxLXcxd3VfS0laUTduLU12ck8wV2RMZmVxLUt1WGlmNmc3dXRSbHNGUHpRczlLNXgtUVJhMFh2dGtWNHd4NWg4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 16:13:34",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6686,
+      "EUR": 4.2559,
+      "GBP": 4.9195,
+      "CHF": 4.5662,
+      "JPY": 0.024687,
+      "AUD": 2.3744,
+      "CAD": 2.6695,
+      "CNY": 0.5111
+    },
+    "crypto": {
+      "BITCOIN": 434611,
+      "DOGECOIN": 0.785683,
+      "ETHEREUM": 12530.31,
+      "LITECOIN": 367.87,
+      "RIPPLE": 11.89
+    },
+    "indices": {
+      "^WIG20": 2905.05,
+      "^WIG30": 3755.29,
+      "^WIG": 3755.29,
+      "^NCINDEX": 254.35
+    },
+    "news": [
+      {
+        "title": "Joanna Kołaczkowska przed śmiercią wsparła sparaliżowanego syna przyjaciół. Wciąż nie zebrali pieniędzy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXdhRkhPdWhKWXNtRk1GU2lpWjZwal9jT0xkS2tsRTJoOHU3RjZSWHlLeVBud3AzZmJVaHNiUDBHYnhXS3BSMUdRT056bl9aQU1hb2g5LXhQWTNXR3lqbFpkanpfMUNMcGY4ZjU3cW9aSkNkZ3FnYU82NHl5dFNrTm1ndXdpX3JqZGhUT2FPUHRRQUFVWWxzT0plZ0cyckF3Nk1kTUR0eWNtcjhQUTV5dEY4WlRBa2ZEQkVSM3ZiMnRLLWFDRWlYdTJHUTROMEtG?oc=5"
+      },
+      {
+        "title": "NATO szykuje patrioty dla Ukrainy. \"Tak szybko, jak to możliwe\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3BPTHg4X2N4cWpkU3g3cnJRTDhLYnZvMXJfaXd0UHFpQ3RIV1VhZGlyX2Y4NnpSVWxtM2hQZkNpdElXUEx4eVRrUmNMUDFFTTIzaGdNNF8ybHM4QTJSeG1JMHNaNkp2Rk5BMTdualhuUFhEeUc0TUF4VjVXNHU4NDE4aEtkanFDWklvY19ILVJ1enhEdHBjUUhnQVBmNjV2NUxYQ01rLU5Kc0J3YXRSeXBKY2ZwT0Zx?oc=5"
+      },
+      {
+        "title": "Wyrok w sprawie śmierci Izabeli z Pszczyny. Prawniczka o \"milczącej akceptacji\" lekarzy - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3l1d05mZnFEcFdMNmJDUk53b2g0U2hvUmsya1Y3TUdOVzVweE5jb084UzQ2ZmhZQjhmVDBtRHZJR0lKSGV3TUV4bzBxOVNxRE92NGlwR0R1R2tHM2Z2X3FPQkNCZGMtNGNWbmQxYUIyeEF1VWR5eHlpMVdjVGQtTGE3VVM5RUQzcmxOM3ptbjVCZVY4Z1JKZEdiNFJKeFB6R2JyQ1JuN2tLS1Rla3NpN2M0aw?oc=5"
+      },
+      {
+        "title": "Rosjanie uderzyli w polską fabrykę w Winnicy. Apel o państwową pomoc dla Barlinka - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWU5GOHJmYUticGV6d0d4TFVfb3duVGJnMzVObmpSVHBrRkgzWnF2aWlSdGdOVHlrelA4WVA5S2tUX01GTl9FZWduYzJ3M2tIOXNlSGN2VnduXzIwWHl5SGE1ak5DOU1vYmhfTzlCcG9KRERwM1lmdXdjWUFYdjBJTkpYQVBaQ2xHQmtYZzlURWsxLXcxd3VfS0laUTduLU12ck8wV2RMZmVxLUt1WGlmNmc3dXRSbHNGUHpRczlLNXgtUVJhMFh2dGtWNHd4NWg4?oc=5"
+      },
+      {
+        "title": "Polski profesor zastrzelony w Grecji. Zatrzymano pięć osób - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWs5aU81V3pOTW9pSE9HUzdYUDFTOTQ1eHJBMHZLdnBOVUFUZzFUMWFsVEltckUtTGhJRzB1QVVaZVlZSktPNzZadkZZbWc1aXVKSW5kbnBCMHdXc2NXTm1ValBfWlNXSHVIM3ZlbFBobWFmbHlqOUhnSzRCTVQyZlZkT0ZfNUx0QUYwR0ZPdTFlcWNxZ0VlUVk0eU9aeUo1LUE?oc=5"
       }
     ]
   }
