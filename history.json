@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-15 13:13:09",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6396,
-      "EUR": 4.2538,
-      "GBP": 4.8942,
-      "CHF": 4.5732,
-      "JPY": 0.024647,
-      "AUD": 2.3898,
-      "CAD": 2.6598,
-      "CNY": 0.5074
-    },
-    "crypto": {
-      "BITCOIN": 425935,
-      "DOGECOIN": 0.700483,
-      "ETHEREUM": 10841.48,
-      "LITECOIN": 338.74,
-      "RIPPLE": 10.63
-    },
-    "indices": {
-      "^WIG20": 2909.33,
-      "^WIG30": 3760.83,
-      "^WIG": 3760.83,
-      "^NCINDEX": 253.81
-    },
-    "news": [
-      {
-        "title": "Trump zapytał Zełenskiego, czy Ukraina zaatakowałaby Moskwę, gdyby USA dostarczyły jej broń - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZV9wMkhUd25NUFNsSWt4ZHpubnFHdWtuYXRSTTJqYTFkdkxXaXI3WTRZNGIxbmhNbG9PSmdmQjQyZkFVZkRGemxmNkpjSEtlUE5oa3hGVWZpQ3ZiS0J0aEhmcll4dmpwT2JyU0NwNVpXZDlvcV9kbVBna1ZJNGthcFVhVUd1MFZ5cDlnLWE4VUR1b0JjY0N0eG1Jekg4cWVvMld6UmhiQnMyZ1VMVDRKcXhsYWxHSWItUnBjYlh2T1Njb3NjQ2N2WDdPX2lwcms?oc=5"
-      },
-      {
-        "title": "Polski astronauta wrócił z kosmosu. Otwarto właz kapsuły Dragon - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0JHUXNhWUNWbGRPQTZnT0lYc21rM0tnelAydHNibF9tQU9MZ0JkRlBpcGhycXhXZENuUERhWVNrdUs0YTBZNUQzYS1XMzNYc3hsNXprb2dZaXNsZmVpLVV2dU95TFVQQ0dNQlFVbXNnT202MklldlBZYmd0WHYtNnprc1pKakdxeU5PRU13NS1sNElvLWxnWENRRDZMaWJXYXdJaS14Rk1ZNXpkRGJTeEFCMjFEN2g4?oc=5"
-      },
-      {
-        "title": "Rzecznik Kremla reaguje na ultimatum Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0l3aTRxTEFURmR2d0ZaQURkMUJ3MkhUVWo2UUg4QVpFaWgtMG42cFBMVmppRWVBQ3FNVER2UnlqUFhtYkNta0phMC1nVDJKdDkyQlA0akE5ZS1PcFRrRDZyOTBQRnZqWmZldDlsWXlvRll2ejg3em5HaGZPRFcwRnJWOUsxTnhsRTZ6UzdlN240cFA4Q2xIZ3JlZHJfUUtrbHBNbDBjeHBuV2NNYmJXWEFjaUk?oc=5"
-      },
-      {
-        "title": "Rzucił się na przechodnia z maczetą. Zadawał ciosy w głowę i szyję - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUFIeGtGZkRjS3N5cFRodGVHbFNVUkJiZjdSRTlDR2JWYjZqS3ZUNHdLdk5HS1U3TnV0WTBMb2NQWmdkeU14Q0pSUXZ4aWh6Rk50Q0hsU2ZrdlNqNE1BYTVHUEZSM2k2c190QmsyWW90ZFFYajlfSU9ubjRSM094WWZZT21KenJyeDRJd1FseUctcUVBV0VJWktxV3ltNFo3bWJxYi1aV2RRRU1xeFZBM3NXLXpyZ2RLcF9JalFXaVRUSDBz?oc=5"
-      },
-      {
-        "title": "IMGW ostrzega: Burze, deszcz i wichury nad Polską. Sprawdź prognozę na 15 lipca - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEQ1Q2JXZFZfTmdQTVM3QU5TYy1DX1g0M1E2Z2pfRENfS2NWMk96S3h5eERaQkNXMUdyRE9mU1ktcmNiSTUwaWRBWVdEc000NmtFWVZXb19uckFGM21rYWdtQmpYcGcwd2p2QTZYQzFMWTJZS28wRHdYQVhTWGZfZzJRempXUVdBMnNhMU9wc0NpSkF2VDhwVnp3QUNYcElVQ3dqSmh0cWrSAawBQVVfeXFMT3BndC16Z2U0YVdvZjE4TC1OSFpDdVJuZUF0a3NsY1B4YS02VERPZFVQQjlOZUMweHllcTJMU3hwX2VQWTlIVTh1WkJWcExnd1JJSGtpcE5hbWJHV1hsZExYQlpZcXRHRnRNbGtCLWlJcDlXM2lEZHNHSXZJTF9VNXh1SU15Nm1kV05fYWJvb3R4YkpESHVCY2dZZUdIcDhsVkJqN3hDUXo3ZGxMOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-15 14:30:23",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zawracał korytarzem życia. Kierowca zginął na miejscu - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT09jQWY0OEFpVVFSYUVxZVNKQ2Juem54SnE2MWVfMk5CSzE0Z3UwM0FjQVRJZDZpS2xoc1FHRl8tNy13MjVQekhYeFZiajFUd2hiWUUxdjM0LThnbDRaNXgzWmpnSVY0UkxieGVJNXlfWE9BTHlhX21OVThBZElteE5oTjdFcExRUTJlVzFxVHh5Z0diQXR4eXJqdmNKRUFseEdIc3ZxY0hWQkFpaElPRnEtWjJsaFM5Rk9mTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17 19:14:31",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6686,
+      "EUR": 4.2559,
+      "GBP": 4.9195,
+      "CHF": 4.5662,
+      "JPY": 0.024687,
+      "AUD": 2.3744,
+      "CAD": 2.6695,
+      "CNY": 0.5111
+    },
+    "crypto": {
+      "BITCOIN": 436801,
+      "DOGECOIN": 0.779055,
+      "ETHEREUM": 12504.04,
+      "LITECOIN": 373.4,
+      "RIPPLE": 12.01
+    },
+    "indices": {
+      "^WIG20": 2905.75,
+      "^WIG30": 3756.41,
+      "^WIG": 3756.41,
+      "^NCINDEX": 254.58
+    },
+    "news": [
+      {
+        "title": "Bodnar pisze do Hołowni. \"Ze względu na wagę wyborów\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkhTX2g2N0hBSm5BN3ZEbk1xUTlQdER2MFl1enYtR2Y5amNaeVNodGhBRmlzM2lLUE9nRlNHYUZzRTFsaHVmVW1FOUtVRmEtNXNSbXB6RUNtMlFBTHBTS0dUVTZXdGVCOTVzVkduTy1VTjJMODRGVVlKTzN1enp6UkM2YzV0ODBFRUpqUkdJQTRmNHdDcy1YLTNxYmRyeDlCV1pVWWxjd0tBQkhRdThjMFFB?oc=5"
+      },
+      {
+        "title": "\"Śmierć Izabeli z Pszczyny to ich odpowiedzialność\". Komentarze po ogłoszeniu wyroku - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVm9MMTlFQ3NOMnRNZHU3LVROYmdMbGVIYkxla2d1V1UzOUpabG1Sd0NIT295ci0zRFJfZ2Jya3ZCYlItX1g2dTZYZUxLeHEyeVJaS3MxS2VlTjhvQ0NweUNiRF84LWJaY0pHVDdBWkdpa2hJSzNvLXZqZFhlcERZMzR4eEFKb1hGUjRfUDdXTDhzZXAxdWVMczloVW5UbWJhanZ6aERhOHJfdw?oc=5"
+      },
+      {
+        "title": "Zatrzymanie Afgańczyków na granicy. Decyzja sądu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGR3SmFnbk1zQ1o2V1hUT3JKUE8yMy1zMzJNWFpETjBqcC03Q25oUFRNdEtmYUQxaWRkaU1WLUtkT29CZHcxSzEtVGlIelNQRDRRZzVpWWV1aUFudnJvSzl5bTVPaDZvb250OW1SR2xfc0QwVXhvbFN4cGl5SHlLSWpmaXZuQTFveElWTE9fcTBzemtQ?oc=5"
+      },
+      {
+        "title": "Polski profesor zamordowany w Grecji. Są zatrzymania - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOME9XUS1la1QtbHZ6RHFTQ09RVXJLS1kxX2tjRWVabi01dDJmZzdvRGtGb01mX2tpUzNZd09UMHUxaGdyWEtvX1hVZlVOWEV1X1BiTTJLS3VMV3VBUmNVaDB6S2dOUWczTmY3bVh6bmdsLXpsb0xuSzd6SkUxYTgyUU11VEtGd0p6ZC12NXNVT2pBclA2?oc=5"
+      },
+      {
+        "title": "Polski MSZ odpowiada na rosyjski atak na Winnicę - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnY2VXhucDZyblkzb2RMSUlBY21pY1FoWkt4YXZvREthV3BiWUNBYUVOVzJhTTB6b0U4YjlobHVSelBjRnR2YVJUalFid0xaN2xlV29fcV84UHVNek5JZUNTbEJvdUFNQkFJdTl2ajlRZGU2UXpyM1RnakVzd0Q2VkVZd08tSUNDaGJqcDdVMA?oc=5"
       }
     ]
   }
