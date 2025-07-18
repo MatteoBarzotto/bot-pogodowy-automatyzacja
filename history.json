@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-16 18:18:55",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 433927,
-      "DOGECOIN": 0.744121,
-      "ETHEREUM": 11851.51,
-      "LITECOIN": 354.37,
-      "RIPPLE": 10.88
-    },
-    "indices": {
-      "^WIG20": 2868.56,
-      "^WIG30": 3711.18,
-      "^WIG": 3711.18,
-      "^NCINDEX": 254.66
-    },
-    "news": [
-      {
-        "title": "Prokuratura robi krok w kierunku ukarania sędzi Małgorzaty Manowskiej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGRUbVMxSmZaNVV6cXZPeUxuRHNtSHl3UFozRC1ieklGTHRCVERwelEzVl9XQy1NRV9qa2dtZk1xNU95ekhwSHVFb3hRSE9UYWtVallmaG5nbGJnakxFcC1vYTlUUVFmSjhVM0tJejZGLTZqNHd6NENOLVFJQ1FaSFgxaTZORDlKdU5DZUQwUGFOZVR2NWR2aEJuZ1J1UTFRbkpDazBXejdrX1hGUEE?oc=5"
-      },
-      {
-        "title": "Atak Izraela w Syrii. Zbombardował budynek Ministerstwa Obrony - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkdhTS05eXBvekEyeUdaSzdUMHBYN2dTVW1TcWROSHJiVERiSUd6NGtOV0JDdGtrZ0lxSTlWa1RRdGViQmNQOG05ajJDNXZnVGNBaDNvZVNEbS1DVHpaMVM5MUNfUE91NGtuM1ByRDY2cHVwcHVxSFJGa0hMRVJRT0QwUGc2dXZBWHlJLXZxMk1YaUNYTjczQVR0Q2NIME5CWEhhUUFBeEVxZHVmWnVDcDhjeHRaY09MY0FYb2NyeU14QQ?oc=5"
-      },
-      {
-        "title": "Wszystkie ułaskawienia Andrzeja Dudy. Kancelaria prezydenta podała dane - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0NXbERLVk5STkFKZnUyQnFOMTBsS3JVdEtQVUN5Ny1zUmZYRUZMY2FZRm9ISXVITUQ0cWhQenVtbG1BU0Jtem5WeWtxZWZUa0RldW1EMFRtb3JMVHZjMFdWdElDNVAxeTdrNHFnUHN0M280amVvd1JIZXNGMzNxSW52NzNuSWRJQlNyTlhSb2owbGFCY0xiRnd1N3YwR3NGcjdJVjZ5aWkxQnoyNHZjQ2lSWHZrMEEyd2wybA?oc=5"
-      },
-      {
-        "title": "Kula ognia na granicy. Rzucili w strażników koktajlem Mołotowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFVydEUzSjZLTHFRZmZiU003Nzd5RER2a3AwTEQyVFZHdWpocUIwbndYSXVMUFBsRzVERFRQQ0s5ZWFSTEdCTDc1MGlWSlFTTmk2b0FlLWNCRVRtWFpwc2Z0UVkyVElBdm9oNXN0S2JteFo5aWo3bEZyZkxOOEpPVlFkeHg4ZTBZQ0R0a2p4OGIybjFscGJMY3hTYkdoQ1RQS25WM1ZWSQ?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-16 19:15:57",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kłopoty Obajtka. Jest wniosek o uchylenie immunitetu - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzNOS3V4VXN6WWFXSzlHSHozRi02WnZJUWZlamdlbnBtdExPLWpkczNrcDZVTXBiMUgzZkF0eEw3VFRuY3lLeGY1OTZzUl9pb0luLVg5VkVvNUNGWmN1Q1JyZU8yRVpRcXpudjBzU09vNUtoa0FXZ0s3cTZsUlhRMVMtME5Za1ZuS1ozS210ZUpmX3lSbzRRQTQyQ1FJdno5SzVmR2ZjTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 00:14:38",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 429437,
+      "DOGECOIN": 0.857434,
+      "ETHEREUM": 12940.97,
+      "LITECOIN": 370.74,
+      "RIPPLE": 12.44
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "PiS składa zawiadomienie do prokuratury na Donalda Tuska. Pismo przygotował Zbigniew Ziobro - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlGSXdnM3Z3RTBETlZKaW15TEltWVRkc3V5NkswOG9RMEdTSHUtWkRvQ3NkSDlnSk54SHJYY3NkUjB0V1JLcWdFQWM0VXNSSlhZS1d2VmJjVFUyYWZpZ05BNkZGbG1oaTIzNmRmSGJxT3VPdXE4aC0wOGJ2YmVrZkpzZjFJeDVnNGViYnRBdzlRZzZTZkg0SGI1ZllaQTVRZ05V?oc=5"
+      },
+      {
+        "title": "Bąkiewicz mówi, ile zarabia i że pomagają mu rodzice. \"Ile ma pan lat?\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVoxUmFScnJNOWhNc1ZCWThEVmZ6TFBvV3N3Wlh5R0tvS1BoZ1JmQkYzUklsa1RGZjduZVBXNUlmRUZpRjRGNkNmLXJPUHA2aVBleGloZ25XbWRBV3dRQUdvVDlGdEtPdFNTQkg4S3E5MC1CemNqQmJlbHFZU2tYOWNMWUtRSWxSZUVRMHFEVi11TEt4cmtRbi16VGd0RFRVR0VMdW9rTGpKeGozbnc?oc=5"
+      },
+      {
+        "title": "\"Podżeganie do wojny\". Szef węgierskiego MSZ odpowiedział Sikorskiemu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnlWdVdPby00b05ZcFFnVE1Ed0swT1M5MGh1WjNYQWhNUEp0N09GMWFrdV90SmlDX2w5N2JfUXRNZDlYNjMybmU0d2lmaHdyLUtseWc3QWlGWjhrTVFFVWhhZl9TSFhtWWRXZDRzYzBCVWNnc0lfRnpGemJqMUplVHJWdnNodW5nbXRLVUdUVXVZUTd3LWFmaG5nd2llLWdkSGJWRUpSS0RJR2h5ZWEyaS1JdmdQajA1NEVz?oc=5"
+      },
+      {
+        "title": "Prokuratura prawie skończyła liczyć głosy. Nieoficjalnie: szacunki socjologów się nie potwierdzają - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek1oX0RnNjZGTlNzQUh2VWZNdHRIMzV1aUZ0djdKeWx2Slh4NFBGTjJUZU1UeUxnSXlfTl9fZ0llMTB4djN3cWdJT1AtX3lDc21EWXpnT0d6eXNEQkpFSTl0emFHeVRQaUVrbmtnakZhbVRWY2xUclBFSlBXSVdUZk4wdm9XaUozWXg1WVgyQUh6R1hRSTZQVEhNNFhBellhNFpheDRjZkZYZw?oc=5"
+      },
+      {
+        "title": "Rozmowy ws. wojny w Ukrainie. Co Erdogan powiedział Putinowi? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTWU0NmVrZHBTT0ZVNGE5eHBKWUVqS0xHWl8xUFBqSXliRG1Wd0c2NW4za0ZWalpyLUtuSl9QMTd4N0pKeEpnaS1mand4NVZ5SmtBaEY0Q2ZIcFVLODVYNE9mN0dzVU9SWGJmenYxXy1VaDZEX3dMbmpGU29BcWJ3OWRBMjRiWkg2LUdwTjByMEJKUQ?oc=5"
       }
     ]
   }
