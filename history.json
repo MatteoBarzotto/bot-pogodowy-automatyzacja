@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-16 13:13:10",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 435370,
-      "DOGECOIN": 0.738106,
-      "ETHEREUM": 11538.81,
-      "LITECOIN": 356.28,
-      "RIPPLE": 10.82
-    },
-    "indices": {
-      "^WIG20": 2866.41,
-      "^WIG30": 3710.58,
-      "^WIG": 3710.58,
-      "^NCINDEX": 254.25
-    },
-    "news": [
-      {
-        "title": "Rosyjskie drony uderzyły w fabrykę polskiej firmy w Ukrainie. Co wiemy o zakładzie? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDZnb0lFdFBqWTNzbDlZblA1YUk0aG5yQVVLTGZOSXlXRmdfMll0UkxyUUNTblRuckhBV21uNTdUQzE5VGdiV1B0Wm5TZ0s3UlR0WDE1bDNzaE5PLUpkVXFRaFdXMHRWNlVYZDFVYlF6QklwVmVQU0xYZFJTRmdHcGs3c2FZOE5ZdWlUVmc0bC1nZXhiSFdaMTdqdmtGaTNMdGstMW1WSzhHeGpfVjZGTVJUNXE3TlZU?oc=5"
-      },
-      {
-        "title": "Ułaskawienie Bąkiewicza. \"Babcia Kasia\" reaguje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXBkVm1CU1NXTTVrWWwza3YyOGZNdEhYSGV6eU10NEphUHZnVmZEUmQ2bzFhNkJ0c1dTN3pNOWRqOTdJQ1pQODRnZW9Hb3p2YVpYcmtHaWVwVDA0OHFyY2d6MHZrLU9Vb0RMTGlTTlNiTjRzandfRWJkVU9kVnZ0dXpxcDYtTkp3cTdVcW9Qbks?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski leci do Kolonii. W Houston powitała go żona - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0E5dFpTYzVrWWluZW53c0E5N3prdUdxcUp0NlJUQ2lMc3NydlFxZ3NmQk0zcGRVaGpXWGcxa3JrY28yUjR4SGJkQS1YcDBUVnZvMVlVRTFYdU9VVkRoSXpZdkt2MmlGTHNiZVFhQW4wbmZXT1VQUWVqaFZkZUpFOEdTb3pMbGt6cXVRcVR0azVGSFVPb2otNk41NWUwdFV1YXBYZGUwaWxocDQzTHBYRTBiT004S3pDb1I3N0hMNGt1Y3Y0WGY0NXNn?oc=5"
-      },
-      {
-        "title": "IMGW: na północy burze z opadami do 70 mm. Są alerty pogodowe - Głos Koszaliński",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFJRYXFKVW14UTNSUzEzQ2QzWkNGMGFtblBIcF8tQXp6SFIwRWl4a3BfQkJjSzdtWmt3QWg0WU8xeThFV0N5dFFhRS1YNlVVSXMtOVhjWUVkdmFtQnBvOERDdTN2S3l2WkNEZGcwVHNTOFpsdk94UF8xUWNESFNrZk81VFFOUldjZlNtVVNzRlNtREhHaXRR?oc=5"
-      },
-      {
-        "title": "Nowy sondaż partyjny: PiS i KO mogłyby utworzyć rząd z Konfederacją. Polska 2050 coraz słabsza - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajdraFFaa3dGaXB1cG55dFZDeUI1UDRmcm5nTFdrLTk4aXdfUHFzSTlSVFFqa1k1ZlNWSEtiMVdCTmNFY2RTNXJ1ZmtvRnVCY09mUkYySGxtRzdTSGFybUtqNUliZUpmV2VWLXRXMWtSMThXQTV6TW42RGI2RlFWMFlSMDc4TzBCbGwxSUdaTkh6cHM1SEs3Y0dDbV9zOGtzRnM3NVN2YWZManNr?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-16 14:30:31",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "123 mld euro dla Polski w budżecie UE. Pokazano zestawienie - Bankier.pl",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckdILWd5Yi1PN25qOXlkSjd6cDdTc2hOUzlsNnM1Yi00WmpwQjlqaU5LU2VkLVVwNEt6ZWpLQXoyS3ZsUHJnYkkwZHluWElVMHB0LXVlbndhUU5HcnpZWTIxTjBuUEZkMHFNY0t6NUlCYng2QlRzd0J4aVVDT1QweWFITWxrLWFrcDFkMWU3dk16MFI2V3JISXJQb0hQaUUyYlg4dEF6c9IBpgFBVV95cUxNZERORnR3MEplbmw3Rjc3YUVvX3N1a2hQbmhpOTZRcDVPam5KVnhVd1VyUFcwcFVZaFY0cTJQRllaakpfeTRCUVA0aElxbS11dnlYR2ZBYm5wX2c2c0NDV01tZmNKOUFHNU4xQlA2NnRCNVRTZlBoRmZQNW0yUmQ1MlBDR21VcmRfSzVKdDlUbjI4WkJ1WnhLRVg4S2E1S0hwM05yMzdB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-18 19:16:11",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 429645,
+      "DOGECOIN": 0.866838,
+      "ETHEREUM": 13070.56,
+      "LITECOIN": 382.91,
+      "RIPPLE": 12.53
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Prokuratura prawie skończyła liczyć głosy. Nieoficjalnie: szacunki socjologów się nie potwierdzają - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek1oX0RnNjZGTlNzQUh2VWZNdHRIMzV1aUZ0djdKeWx2Slh4NFBGTjJUZU1UeUxnSXlfTl9fZ0llMTB4djN3cWdJT1AtX3lDc21EWXpnT0d6eXNEQkpFSTl0emFHeVRQaUVrbmtnakZhbVRWY2xUclBFSlBXSVdUZk4wdm9XaUozWXg1WVgyQUh6R1hRSTZQVEhNNFhBellhNFpheDRjZkZYZw?oc=5"
+      },
+      {
+        "title": "Syn generała i brat ministra awansują. MON reaguje na tekst Onetu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGo1WUpNcGZtOE40VVQyQ1Nhc3RoRzAySHRlUUk4ai1nQ2pxMzRLYkZiSUYwazR3bzJHc0k0TnRNejR5OVg1b01aa0FtTHRWWWxXNnVUNFpPS2wzdjZUVk5xNzVyZFNDQm55QWlUWFE4R3IyY3JPWkMya3VqNXZGX2xHRm9CRFBsYlFxbGRsak1GMHlkRFFFVmJ4WVpDS3laSlNLdVNzRWo5Y1dKSDlDSkkxYXFhZUJvUlJnYUtJVk5mR1pmTEE?oc=5"
+      },
+      {
+        "title": "Pożar hotelu w Wiśle. Trudna akcja strażaków - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGRVMU84TVNaZXdnV2sta2dldF9OLTE1UmxGZTB1bmQyckFuU1pVdEhHX3VHTlFNMWdjeE45bjBEUzR5OXFydlZGSmxuSnVKektWQW51ZlVZXzljTkd3ZTdHX0VMNTdoNnZQUHh2R3E5OGR5WVJoWjdwMHhKeEtDd1Jhd0IxdzI2Q05ZS1JnNA?oc=5"
+      },
+      {
+        "title": "Ponad 300 km/h przez Warszawę. Niespodziewany zwrot ws. pirata drogowego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmpkdW53eGZ2dUFiTF8yUEJCTXdiVFhlWmhoSkNxeTBTV0tnM3lZT0l3TnA1Z25IZUFBTW5GT0tBTDl4Y0lLR2RzakJnVEJoZjRZV21wWW5Cd1dFdDlXOWdOakJSS2hwOEtCN1o5M282VmJhWWtxYWpNQXVSWjQyTUwyYWZRamRkTkRaSGc5QUNwNUVYTWpoV05CYm1UVGJPa1o0UXZIMXoweHB0ZWJkNHhB?oc=5"
+      },
+      {
+        "title": "Wypadek w Spytkowicach. Nie żyje 8-letni chłopiec - Remiza.pl",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VOFpZVi1RNXJnNWJ1MG5DQ2dBTUhiaFNwakhnXzhqcnQ4eTFqakxlb0FpUEkxTjhiZTdmVFVEbjRXYVl3VDFWRld5eW93Zk5qczh4NUNBclg1OFFZYURUM2prN3hyQkZZcEhoV1lpeG04UlM5cnfSAXZBVV95cUxPVThaWVYtUTVyZzVidTBuQ0NnQU1IYmhTcGpIZ184anJ0OHkxampMZW9BaVBJMU44YmU3ZlRVRG40V2FZd1QxVkZXeXlvd2ZOanM4eDVDQXJYNThRWWFEVDNqazd4ckJGWXBIaFdZaXhtOFJTOXJ3?oc=5"
       }
     ]
   }
