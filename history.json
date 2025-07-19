@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-16 21:13:17",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 437229,
-      "DOGECOIN": 0.763262,
-      "ETHEREUM": 12227.8,
-      "LITECOIN": 361.55,
-      "RIPPLE": 11.15
-    },
-    "indices": {
-      "^WIG20": 2868.56,
-      "^WIG30": 3711.18,
-      "^WIG": 3711.18,
-      "^NCINDEX": 254.66
-    },
-    "news": [
-      {
-        "title": "Wielki pożar na festiwalu Tomorrowland. Główna scena w płomieniach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXU2eFVpQXE4d0RVcU1IanpTemROUl9McXVRZXdKcHJSaklZVVBjaWdsMkpCX1VuTXhyNldmUHY1dmVuU0hfUmhMOTJrdWtxSExCTGVUZFpZV1IweU5EekMySE1hdG1nNWZXMW51OFZ5WTdwcTk4ZWxZUTZha1c1ZU1RclJ2MEh4dzZ6OVVCeGZDalFFYjJzSkVFeVEzbV9oTmN0VGpONlJqSHJ5aFMtNXIyNFY3Y19VUC02a0RrS0JncFJhbnVj?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
-      },
-      {
-        "title": "50 dni Trumpa. Dlaczego Rosja to zignoruje? Ekspert: to może być ich ostatni zryw - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTNOUWp0OUM3YlFhT0hEX1hyd2pXM3ZuY0VNNjJVRGdkcDdwWmpRaE9WVlRBVDhlMjFFOGdGV0xaaGZmZ2tyOVNIeVBsMDFVbDVxVmVna0tOR2EzNUNGYVg1WFNyNjlUWWExTHV6b3NvOWxqSlV5M0EtNlhkYnFFX2ZVY2w4cW1Cc2lCaVRlMS1pbUszRi05N0haT0Ribk91M3NNbWlLTkU2dEhVTHNUR3JTZ210QnVxaU9vamln?oc=5"
-      },
-      {
-        "title": "Pierwszy taki protest. Sikorski \"naskarżył\" na biskupów w Watykanie. Co to da? - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFNzakotOVFmRXN3RjkyVXliNk1JUm5TVHMtZXJreXoxNFhuYU9OZEtpaEk5RXlGQVByUlBsSUhCOW9Xc1hjTjQ0bjlFeTBVak80azVpaTAtUHI0dXJpMXlZdUZBNmpyU0NjaldwSnkxNjFDZVJfU0FYM241ejNrOXItR0U1bkRwRjRTTC1SVDNnWWg2Z0tWSV9YZG9TbXMtdklPZTJmay0zSDRnZjMwMdIBrwFBVV95cUxOazlHekhhQ1JhdlNMS2FlTDJ4MVl2LW42bmRuRjU2dHhWdXZ5cHVid3VXYmZ4V1lRU2xvZTR3d2p4N0EzeTFrWTEyR2Ezd0RhbEh0Uzc5VHRud2NOaDBMVDdOcXFVMVRGVWJydEg5OFlTM1R5aGpzTEt4NWN2Tm53Q3Z6WjhWMjJlSTFfOWdabDBOYkxpd0U3ODNxY1pSOFJ1VC1OeWdxSGdoeVFfNW1R?oc=5"
-      },
-      {
-        "title": "Prokuratura robi krok w kierunku ukarania sędzi Małgorzaty Manowskiej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGRUbVMxSmZaNVV6cXZPeUxuRHNtSHl3UFozRC1ieklGTHRCVERwelEzVl9XQy1NRV9qa2dtZk1xNU95ekhwSHVFb3hRSE9UYWtVallmaG5nbGJnakxFcC1vYTlUUVFmSjhVM0tJejZGLTZqNHd6NENOLVFJQ1FaSFgxaTZORDlKdU5DZUQwUGFOZVR2NWR2aEJuZ1J1UTFRbkpDazBXejdrX1hGUEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-16 22:16:25",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Sankcje wobec Rosji bez precedensu. \"Zmusimy Putina do rozejmu\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktjVWZ0c19qODVLVnBvZG1WM0NxNUp0Y29Kem5uTUZvNXJxVHVBTGZYTVVNSU02TDlJNTZSSTBqSk01cnBwWk5ydXB2Snc3TnFrSV8tVHdMbF9WVzFVa3lINTBvZUgyQ25yenNxNXhzbjBhVDZEYUxTMGYyVDNJdy1KaW83eDNkc0hjWkFKV3Q4ZFRmaGJXRmFVdXFwc2RVdHp3bldRX1JwcGM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 05:18:48",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 431931,
+      "DOGECOIN": 0.888447,
+      "ETHEREUM": 13081.25,
+      "LITECOIN": 372.06,
+      "RIPPLE": 12.58
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "PiS składa zawiadomienie do prokuratury na Donalda Tuska. Pismo przygotował Zbigniew Ziobro - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlGSXdnM3Z3RTBETlZKaW15TEltWVRkc3V5NkswOG9RMEdTSHUtWkRvQ3NkSDlnSk54SHJYY3NkUjB0V1JLcWdFQWM0VXNSSlhZS1d2VmJjVFUyYWZpZ05BNkZGbG1oaTIzNmRmSGJxT3VPdXE4aC0wOGJ2YmVrZkpzZjFJeDVnNGViYnRBdzlRZzZTZkg0SGI1ZllaQTVRZ05V?oc=5"
+      },
+      {
+        "title": "Spięcie Sikorskiego z Szijjarto. Lepiej być zwolennikiem Ukrainy niż mieć medal od Putina - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVTlHSUZRRVd5UHBWTzk1RENYYTBURWowU09vem55TGRXX0MzejV1X0pXVzRkTENLdG9nNjFBeFI4YjBnalphaExpN1pZWWxlX01ITVU3RnpyUWFUbTQ4RDZpZGhfN2M4X1h0YVFDWXFnQUxSdHRZeDI4cDFDZXZuWmRkaS13NnRqU3RTNVhUejNmWW1YanNCcHV4T1RSSmFCdVQ1c1I4aXBfMk0weDVkMjRlSGozSlNDTmNJSmg4dFR3alFHckhsNEpGaDNqSWlkbG1GSUwyQQ?oc=5"
+      },
+      {
+        "title": "Sankcje wobec Rosji bez precedensu. \"Zmusimy Putina do rozejmu\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktjVWZ0c19qODVLVnBvZG1WM0NxNUp0Y29Kem5uTUZvNXJxVHVBTGZYTVVNSU02TDlJNTZSSTBqSk01cnBwWk5ydXB2Snc3TnFrSV8tVHdMbF9WVzFVa3lINTBvZUgyQ25yenNxNXhzbjBhVDZEYUxTMGYyVDNJdy1KaW83eDNkc0hjWkFKV3Q4ZFRmaGJXRmFVdXFwc2RVdHp3bldRX1JwcGM?oc=5"
+      },
+      {
+        "title": "Ponad 300 km/h przez Warszawę. Niespodziewany zwrot ws. pirata drogowego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmpkdW53eGZ2dUFiTF8yUEJCTXdiVFhlWmhoSkNxeTBTV0tnM3lZT0l3TnA1Z25IZUFBTW5GT0tBTDl4Y0lLR2RzakJnVEJoZjRZV21wWW5Cd1dFdDlXOWdOakJSS2hwOEtCN1o5M282VmJhWWtxYWpNQXVSWjQyTUwyYWZRamRkTkRaSGc5QUNwNUVYTWpoV05CYm1UVGJPa1o0UXZIMXoweHB0ZWJkNHhB?oc=5"
+      },
+      {
+        "title": "Ojciec wypadł z balkonu i umierał na oczach syna. Tragedia w centrum Warszawy - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnAwMzJITVMtWTJzU0ZmMkFvSUdPRVJnV0FDSlVZUTNIUEJKcEZDM0IyYnRWM0xwMzFvV0RVN3poNkpjUXM4SGFINFZCUTg5b1cySU1BRG0tLVk2eDl3YTJKTEZjQVg3R2JhNjNHSFFQZmZzT2h2RUJsRG9jMnNkcDUtdGh2YlF6U0pfMkdyLVRVYVZXR3I3VEpMdmlNNF9Hc1JXeUdJaEhaVGtIeUpOMzJn?oc=5"
       }
     ]
   }
