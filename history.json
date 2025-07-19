@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-16 20:20:57",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 436530,
-      "DOGECOIN": 0.760655,
-      "ETHEREUM": 12205.99,
-      "LITECOIN": 363.59,
-      "RIPPLE": 11.08
-    },
-    "indices": {
-      "^WIG20": 2868.56,
-      "^WIG30": 3711.18,
-      "^WIG": 3711.18,
-      "^NCINDEX": 254.66
-    },
-    "news": [
-      {
-        "title": "Wielki pożar na festiwalu Tomorrowland. Główna scena w płomieniach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXU2eFVpQXE4d0RVcU1IanpTemROUl9McXVRZXdKcHJSaklZVVBjaWdsMkpCX1VuTXhyNldmUHY1dmVuU0hfUmhMOTJrdWtxSExCTGVUZFpZV1IweU5EekMySE1hdG1nNWZXMW51OFZ5WTdwcTk4ZWxZUTZha1c1ZU1RclJ2MEh4dzZ6OVVCeGZDalFFYjJzSkVFeVEzbV9oTmN0VGpONlJqSHJ5aFMtNXIyNFY3Y19VUC02a0RrS0JncFJhbnVj?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
-      },
-      {
-        "title": "Wszystkie ułaskawienia Andrzeja Dudy. Kancelaria prezydenta podała dane - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0NXbERLVk5STkFKZnUyQnFOMTBsS3JVdEtQVUN5Ny1zUmZYRUZMY2FZRm9ISXVITUQ0cWhQenVtbG1BU0Jtem5WeWtxZWZUa0RldW1EMFRtb3JMVHZjMFdWdElDNVAxeTdrNHFnUHN0M280amVvd1JIZXNGMzNxSW52NzNuSWRJQlNyTlhSb2owbGFCY0xiRnd1N3YwR3NGcjdJVjZ5aWkxQnoyNHZjQ2lSWHZrMEEyd2wybA?oc=5"
-      },
-      {
-        "title": "50 dni Trumpa. Dlaczego Rosja to zignoruje? Ekspert: to może być ich ostatni zryw - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZTNOUWp0OUM3YlFhT0hEX1hyd2pXM3ZuY0VNNjJVRGdkcDdwWmpRaE9WVlRBVDhlMjFFOGdGV0xaaGZmZ2tyOVNIeVBsMDFVbDVxVmVna0tOR2EzNUNGYVg1WFNyNjlUWWExTHV6b3NvOWxqSlV5M0EtNlhkYnFFX2ZVY2w4cW1Cc2lCaVRlMS1pbUszRi05N0haT0Ribk91M3NNbWlLTkU2dEhVTHNUR3JTZ210QnVxaU9vamln?oc=5"
-      },
-      {
-        "title": "Imigranci zaatakowali żołnierzy koktajlem Mołotowa. \"To atak na państwo polskie\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG1haFpMbDctSjFwOUtVSVZzbjF4UV9ZMjFsdGRaTVBzdnR1N1lnNVc4S1RUdkJBWnZRTlZnWUliZl9jaGdBRjQzb1BLQXljRkpTcll5NjJmVHd3bFZCMDlqR3pPQ29NQjUtTjhiWTdKT1ROUFpWSkJGR0JPRldDWllPaHJYXy1kZWw1N28tNUZqbU1CYzRYWnpUbjlJajRzc0hLRlJPUDdZdlU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-16 21:13:17",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Prokuratura prawie skończyła liczyć głosy. Nieoficjalnie: szacunki socjologów się nie potwierdzają - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek1oX0RnNjZGTlNzQUh2VWZNdHRIMzV1aUZ0djdKeWx2Slh4NFBGTjJUZU1UeUxnSXlfTl9fZ0llMTB4djN3cWdJT1AtX3lDc21EWXpnT0d6eXNEQkpFSTl0emFHeVRQaUVrbmtnakZhbVRWY2xUclBFSlBXSVdUZk4wdm9XaUozWXg1WVgyQUh6R1hRSTZQVEhNNFhBellhNFpheDRjZkZYZw?oc=5"
+      },
+      {
+        "title": "Sankcje wobec Rosji bez precedensu. \"Zmusimy Putina do rozejmu\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktjVWZ0c19qODVLVnBvZG1WM0NxNUp0Y29Kem5uTUZvNXJxVHVBTGZYTVVNSU02TDlJNTZSSTBqSk01cnBwWk5ydXB2Snc3TnFrSV8tVHdMbF9WVzFVa3lINTBvZUgyQ25yenNxNXhzbjBhVDZEYUxTMGYyVDNJdy1KaW83eDNkc0hjWkFKV3Q4ZFRmaGJXRmFVdXFwc2RVdHp3bldRX1JwcGM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 03:11:33",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 430254,
+      "DOGECOIN": 0.871189,
+      "ETHEREUM": 12878.14,
+      "LITECOIN": 367.59,
+      "RIPPLE": 12.46
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "PiS składa zawiadomienie do prokuratury na Donalda Tuska. Pismo przygotował Zbigniew Ziobro - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlGSXdnM3Z3RTBETlZKaW15TEltWVRkc3V5NkswOG9RMEdTSHUtWkRvQ3NkSDlnSk54SHJYY3NkUjB0V1JLcWdFQWM0VXNSSlhZS1d2VmJjVFUyYWZpZ05BNkZGbG1oaTIzNmRmSGJxT3VPdXE4aC0wOGJ2YmVrZkpzZjFJeDVnNGViYnRBdzlRZzZTZkg0SGI1ZllaQTVRZ05V?oc=5"
+      },
+      {
+        "title": "Spięcie Sikorskiego z Szijjarto. Lepiej być zwolennikiem Ukrainy niż mieć medal od Putina - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVTlHSUZRRVd5UHBWTzk1RENYYTBURWowU09vem55TGRXX0MzejV1X0pXVzRkTENLdG9nNjFBeFI4YjBnalphaExpN1pZWWxlX01ITVU3RnpyUWFUbTQ4RDZpZGhfN2M4X1h0YVFDWXFnQUxSdHRZeDI4cDFDZXZuWmRkaS13NnRqU3RTNVhUejNmWW1YanNCcHV4T1RSSmFCdVQ1c1I4aXBfMk0weDVkMjRlSGozSlNDTmNJSmg4dFR3alFHckhsNEpGaDNqSWlkbG1GSUwyQQ?oc=5"
+      },
+      {
+        "title": "Hołownia odpowie na list Bodnara. Co dalej z wyborami prezydenckimi? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXZPWTM4N29LcGVQbnB0bm9QSEdtM2gxNWtSTVkyczFvcXptcFBNY2tQZ3Z1UW00el9IMnFMVjN4ZGdXbTVVTF9CTF96YVJHU28zMDktUnZWMEVTQ202VUdnMnhUajBkZFA2MTUyUDJoejE4QWZRdGlfb04yR3ZvbGduTjZ1UU1nS1N0aEp0MHhvU1VKTjgxa2lPUlpmbElDUWdGaW92cUJ6NV9Na1E?oc=5"
+      },
+      {
+        "title": "Ojciec wypadł z balkonu i umierał na oczach syna. Tragedia w centrum Warszawy - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnAwMzJITVMtWTJzU0ZmMkFvSUdPRVJnV0FDSlVZUTNIUEJKcEZDM0IyYnRWM0xwMzFvV0RVN3poNkpjUXM4SGFINFZCUTg5b1cySU1BRG0tLVk2eDl3YTJKTEZjQVg3R2JhNjNHSFFQZmZzT2h2RUJsRG9jMnNkcDUtdGh2YlF6U0pfMkdyLVRVYVZXR3I3VEpMdmlNNF9Hc1JXeUdJaEhaVGtIeUpOMzJn?oc=5"
       },
       {
         "title": "Sankcje wobec Rosji bez precedensu. \"Zmusimy Putina do rozejmu\" - Business Insider Polska",
