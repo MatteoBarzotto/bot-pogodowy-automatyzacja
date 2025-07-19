@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-17 03:14:07",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 435948,
-      "DOGECOIN": 0.793006,
-      "ETHEREUM": 12410.92,
-      "LITECOIN": 358.97,
-      "RIPPLE": 11.22
-    },
-    "indices": {
-      "^WIG20": 2868.56,
-      "^WIG30": 3711.18,
-      "^WIG": 3711.18,
-      "^NCINDEX": 254.66
-    },
-    "news": [
-      {
-        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
-      },
-      {
-        "title": "Pożar na festiwalu Tomorrowland w Belgii. Czy wydarzenie się odbędzie? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2QwYXhpd0pRNGxFdk1jT2xnRmp4cDRNQUlicm04RGNISlZobzBnTkFVOUxwQW5uMXZ6Rmt0dlY2aUZfSWtfLWFWTUE2VXBrbEFOY3lGZUZVbHdrekVuMFNmaE0xMFV4WXFJYjU4LUZ0eVBFNFBUaW50UXBVcGNuSHI3WWNxWlF2b1NheENZbUUyd2ZXbDNISGpFUXRxZEdwR0ZPY0daSmRtdGMzZ1hwX2g5VEVPZEtEaWhF?oc=5"
-      },
-      {
-        "title": "Immunitet Grzegorza Brauna. Adam Bodnar zdecydował - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
-      },
-      {
-        "title": "Polska utrzyma pozycję największego beneficjenta w nowym budżecie UE - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEgtYkxvZnlGVi16cTdLcTRybno3NlB4TGZ4OXhDZlY0d0pFQXd5Tk9MSDJKalZkVVliUXdPWG5xbFpNX2w1ZFByTDB1VE5YdF9XdUF1dUw4b3ltTG5KSFUxdXE2emFiUkY5ZGxmRUluWF9TZWdCYS1oZ2VhMWZZX1prQjdWbFU3RkhlTVFqc3VFX2c2a0lKWFJLSG9NZ2tRRkVrTFFDVTRMN0FWVm0zWklsN0Z5LU9JaDhUbHZKUkY?oc=5"
-      },
-      {
-        "title": "Zabójstwo Klaudii w Toruniu. Prokuratura zmienia zarzut - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1pGY01nYWl3Q0V3Zl9KcUtsYk1JR2oza3Nob2Y3WW1kR0g4cGJmdjhibWhJdTAyUE55WUZnTDBxM1dJZDRTajNvbVdTMzQtS1Bma09iY0RsTHQ4N2pabllrcXRyRVhyLWVwc2NFeF9Rd1RHNGlRc01uM1hvWXA2Mzh1R3RQbThKVkh6Sl9yWEpWTlpYVWtnaTJJRmdVWW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-17 05:23:32",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Prokuratura prawie skończyła liczyć głosy. Nieoficjalnie: szacunki socjologów się nie potwierdzają - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek1oX0RnNjZGTlNzQUh2VWZNdHRIMzV1aUZ0djdKeWx2Slh4NFBGTjJUZU1UeUxnSXlfTl9fZ0llMTB4djN3cWdJT1AtX3lDc21EWXpnT0d6eXNEQkpFSTl0emFHeVRQaUVrbmtnakZhbVRWY2xUclBFSlBXSVdUZk4wdm9XaUozWXg1WVgyQUh6R1hRSTZQVEhNNFhBellhNFpheDRjZkZYZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 10:18:09",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 431651,
+      "DOGECOIN": 0.92553,
+      "ETHEREUM": 13021.5,
+      "LITECOIN": 373.71,
+      "RIPPLE": 12.62
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Polska poderwała myśliwce. Rosja zaatakowała blisko naszej granicy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaV9hMlBrdllFUWpCbnlid2hsWTNKS0F3M1AxSmdZQ1ZTNkZ6eDJpODNRYW9YLUlvU1EySk94X285OXo5VjU3alRTaVZ5SEVPbllGS2ROVzA5T19fMzV1RjJCelBJZTd0c2wyYlVMQXZlRG5JWUhIMmsyX19SSDIwUHNUQmw3eS04Tm1VRlZudUY4SFZzcjEycDBwdnBuYWp3R1pwXzhLQ1ZhNEh4eEhvMjBpRXJMQQ?oc=5"
+      },
+      {
+        "title": "Trump rozważa siłowe odsunięcie Zełenskiego? Nieoficjalne doniesienia z USA - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUtZeHhOSEZiMWtnSFNfVjNQVGhGWVRGLWMyTEt0SEVUcG9vM29LQlJobmRoUlMzcEFZY1lZWWgxLUpzWXFhOHJkYzZJeEJXYXBNY3k4bmlQc0t0dXQwLXJrQUNKNndTdlc5LUJwWHpfbWpHY2pfRUlyNFB4V0Q0bG9yQ3ROT09TOGt2UE9hOXU2ME40TGgzQXZ3cWpMNzMwZ0tUeXY5Zmgza1JTaWozckpTRXIyOGJwNjVGTDRERFJSdw?oc=5"
+      },
+      {
+        "title": "Marsze przeciwko imigracji. Premier powinien wygłosić orędzie? \"Ma psi obowiązek\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWFSSjVZZlduc1FJZDRsdFhIYmZFWEJKcFZNZ04tSUtHaUhRd0tQYndMWmllS3pwZnJlNzRBT3NZYldaWGw1TUg0Skh3UUxMNHdBenIxWWdBeEtzUy1rQjdCVEVEMjdySHZYSjYzR2JlTHZmMEk5cEpUaHl3QXhYT09yS0Q2NEZvOTNGaFdzR1RiY0VIZ2hBYnktcWpkUjg4TG1ubtIBowFBVV95cUxQTVlmOTZpS2hDTnZ2eXkxWVpiVWhoOUlNRFk3RkxQekNZMmFzSFNESjV1X1hQZHgzOEVJdmthbXdUdUU3SXlVLUYyYnRtc2g3bno5QUVCWGE2NklMN1VMRHJMem9STE9mc0o1NDJockJMMkVkZnNzclVvZDN5X3ZsM0NMV2JGZ2o1SDlZSGstbThjMURhSS1kN0d1cU5zWUpaMlc4?oc=5"
+      },
+      {
+        "title": "\"Wszędzie leżały ciała\": Druzowie opisują, co wydarzyło się w syryjskim mieście Suwajda - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbU03Z2Z4eVZDZGQ0QlRtQ0tCT1JGLVJDWmpVWTJpSDJ6dXo1dU55RTNScWxKcVBDMTFlSjJOQjVPRGZwYnRSTEtxUlctM01ZdzRfaGZZZXRZQmdFNEpNTGt6RHZaNTRPYUFjem1oSUZfOUZEbEVXeW5kYWo5Y25UbERuT0o2cXNEYjQtVmpZM0Jscmd6SXlzS01RTGFITURCNHAwMEcxZVFCSGdpcHlPSVB5cmF1bDFSOHNkMWpvRmhQdTNVZnRDbkRB?oc=5"
+      },
+      {
+        "title": "Prognoza burzowa na 19.07.2025 i noc z 19/20.07.2025 - Mapa burzowa - gdzie jest burza? - Sieć Obserwatorów Burz",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGV5UUEyaEk3b0hMTnFka0RPTjFHQ3ZMZnFxZXR3TVA3YXNDc3pob3FzMVIxaEJYRHduTGs1dWJodjNCUi1GNTlLUjNkaVBrX3VqdDZRamJhYWp6aXYzbTl2VUFZYWNjMVRJRVVNN3poQUIxRzFRSU9Na2FZRVFwbXk1R3FQUQ?oc=5"
       }
     ]
   }
