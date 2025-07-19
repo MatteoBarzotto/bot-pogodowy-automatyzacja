@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-17 00:14:19",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 436502,
-      "DOGECOIN": 0.795003,
-      "ETHEREUM": 12375.1,
-      "LITECOIN": 362.73,
-      "RIPPLE": 11.27
-    },
-    "indices": {
-      "^WIG20": 2868.56,
-      "^WIG30": 3711.18,
-      "^WIG": 3711.18,
-      "^NCINDEX": 254.66
-    },
-    "news": [
-      {
-        "title": "\"Dramatyczny wpływ na Rosję\". Zwarcie Trumpa z Putinem. Świat czeka na efekt domina - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEx3OE1xYTVqTURpaXlEWmdCQVk5NmJSTF81dS1NZDJwem9ndEwzRzZ1LTBRSnJQLXVlS0xiTEMxdnBWX0J1MVczNWZkY0xNZXJScllxV3R6X2hMSXZlQm5oNVJVYk5QZ1h1ZkpQeUZxNFBSUzFrYXRQNHFDVjEyQkFQVTVNbDBUejRhZzFld0k1ZDVtOHVwWEQzMUxhNXA3LV9URkF2UWpfQ2hMT0VTV1RCREFHbU1sRTdoSQ?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
-      },
-      {
-        "title": "Gigantyczny pożar na festiwalu Tomorrowland. „Ogromne” siły straży pożarnej - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2QwYXhpd0pRNGxFdk1jT2xnRmp4cDRNQUlicm04RGNISlZobzBnTkFVOUxwQW5uMXZ6Rmt0dlY2aUZfSWtfLWFWTUE2VXBrbEFOY3lGZUZVbHdrekVuMFNmaE0xMFV4WXFJYjU4LUZ0eVBFNFBUaW50UXBVcGNuSHI3WWNxWlF2b1NheENZbUUyd2ZXbDNISGpFUXRxZEdwR0ZPY0daSmRtdGMzZ1hwX2g5VEVPZEtEaWhF?oc=5"
-      },
-      {
-        "title": "Immunitet Grzegorza Brauna. Adam Bodnar zdecydował - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
-      },
-      {
-        "title": "Pierwszy taki protest. Sikorski \"naskarżył\" na biskupów w Watykanie. Co to da? - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFNzakotOVFmRXN3RjkyVXliNk1JUm5TVHMtZXJreXoxNFhuYU9OZEtpaEk5RXlGQVByUlBsSUhCOW9Xc1hjTjQ0bjlFeTBVak80azVpaTAtUHI0dXJpMXlZdUZBNmpyU0NjaldwSnkxNjFDZVJfU0FYM241ejNrOXItR0U1bkRwRjRTTC1SVDNnWWg2Z0tWSV9YZG9TbXMtdklPZTJmay0zSDRnZjMwMdIBrwFBVV95cUxOazlHekhhQ1JhdlNMS2FlTDJ4MVl2LW42bmRuRjU2dHhWdXZ5cHVid3VXYmZ4V1lRU2xvZTR3d2p4N0EzeTFrWTEyR2Ezd0RhbEh0Uzc5VHRud2NOaDBMVDdOcXFVMVRGVWJydEg5OFlTM1R5aGpzTEt4NWN2Tm53Q3Z6WjhWMjJlSTFfOWdabDBOYkxpd0U3ODNxY1pSOFJ1VC1OeWdxSGdoeVFfNW1R?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-17 01:14:12",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Kanclerz Niemiec komentuje polskie kontrole graniczne. Jasne stanowisko - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2UwX1JNY1lUZElONlUyT25QX1hMM3FQcFVVNnZtcF94TGJtUnNnb3ZWdTZzUm92ekRPaTB0S2dGZGZ0NFdveXcxMUR1dlU1OXhTbDBnOENjaXVqU0VmRUozeE1hOFVyek0tQmNFRzFZVDNkc3RWNG9GUjRqNjJWcVJoVzdmSUdrTUthdDNkZk1nQzh5YWxWOXMzVWNha2ZMQmdONHZVMGtaMnN5dV9hN0w0Q0ZielhD?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 08:20:38",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 432066,
+      "DOGECOIN": 0.925809,
+      "ETHEREUM": 13082.37,
+      "LITECOIN": 375.42,
+      "RIPPLE": 12.66
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Polska poderwała myśliwce. \"Pełna gotowość do natychmiastowej reakcji\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWE1CY3p3T2U4d2VsYlpjUW8zbUZoS3lDX0pFekg3b183S1ZHMkFoTmI1U3o4cEZ3UzI1TXhyY1hjQXpMc0lpNU1EYTM4UF9HdWlVYmt1TVhxcC0tUEVxbFFCTGpST25MTlRfcHdLQ1dSb1RzWXBENFg0QTBQNEd6bWFES2xRbGZzSXFqek9ZcElJWi1wR3pQTk41NVNCNmU0dkpzVWRLd0xGRExIQzRuWTRfSHdRUQ?oc=5"
+      },
+      {
+        "title": "Marsze przeciwko imigracji. Premier powinien wygłosić orędzie? \"Ma psi obowiązek\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWFSSjVZZlduc1FJZDRsdFhIYmZFWEJKcFZNZ04tSUtHaUhRd0tQYndMWmllS3pwZnJlNzRBT3NZYldaWGw1TUg0Skh3UUxMNHdBenIxWWdBeEtzUy1rQjdCVEVEMjdySHZYSjYzR2JlTHZmMEk5cEpUaHl3QXhYT09yS0Q2NEZvOTNGaFdzR1RiY0VIZ2hBYnktcWpkUjg4TG1ubtIBowFBVV95cUxQTVlmOTZpS2hDTnZ2eXkxWVpiVWhoOUlNRFk3RkxQekNZMmFzSFNESjV1X1hQZHgzOEVJdmthbXdUdUU3SXlVLUYyYnRtc2g3bno5QUVCWGE2NklMN1VMRHJMem9STE9mc0o1NDJockJMMkVkZnNzclVvZDN5X3ZsM0NMV2JGZ2o1SDlZSGstbThjMURhSS1kN0d1cU5zWUpaMlc4?oc=5"
+      },
+      {
+        "title": "Ponad 300 km/h przez Warszawę. Niespodziewany zwrot ws. pirata drogowego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmpkdW53eGZ2dUFiTF8yUEJCTXdiVFhlWmhoSkNxeTBTV0tnM3lZT0l3TnA1Z25IZUFBTW5GT0tBTDl4Y0lLR2RzakJnVEJoZjRZV21wWW5Cd1dFdDlXOWdOakJSS2hwOEtCN1o5M282VmJhWWtxYWpNQXVSWjQyTUwyYWZRamRkTkRaSGc5QUNwNUVYTWpoV05CYm1UVGJPa1o0UXZIMXoweHB0ZWJkNHhB?oc=5"
+      },
+      {
+        "title": "Kanclerz Niemiec komentuje polskie kontrole graniczne. Jasne stanowisko - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2UwX1JNY1lUZElONlUyT25QX1hMM3FQcFVVNnZtcF94TGJtUnNnb3ZWdTZzUm92ekRPaTB0S2dGZGZ0NFdveXcxMUR1dlU1OXhTbDBnOENjaXVqU0VmRUozeE1hOFVyek0tQmNFRzFZVDNkc3RWNG9GUjRqNjJWcVJoVzdmSUdrTUthdDNkZk1nQzh5YWxWOXMzVWNha2ZMQmdONHZVMGtaMnN5dV9hN0w0Q0ZielhD?oc=5"
+      },
+      {
+        "title": "\"Ja tu jeszcze wrócę!\". Ujawniamy \"wojenne\" przemówienie prezydenta na spotkaniu z dyplomatami - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmVRaTNseEVhSW0wd0k2dlFDcnhTVTRKbEhQSXUweG5QYnpRV1hfcU9raWUtTzZLUlZIMjBKbmo5SnFrVHk5Wml4SzZfbnUySnBkeVZpa1BzaVNHb2JhTEZrRU5LLTBScEkzeDMzOTZ6dkRpaXVfZWlRTzFscmF4ekZ3TVd1TlFfUU00aTZkMWZ2SGNqeFBpZXFGTlVxcFZreGdld0RvYnVIa1htZTRQTW9aemFsQmlIUFd2ZjltLTRnajN4b1Nvcm9JOA?oc=5"
       }
     ]
   }
