@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-17 13:13:30",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 434541,
-      "DOGECOIN": 0.788087,
-      "ETHEREUM": 12685.89,
-      "LITECOIN": 366.39,
-      "RIPPLE": 12.01
-    },
-    "indices": {
-      "^WIG20": 2860.63,
-      "^WIG30": 3701.13,
-      "^WIG": 3701.13,
-      "^NCINDEX": 254.43
-    },
-    "news": [
-      {
-        "title": "Paweł Janas po wyborze nowego selekcjonera: na razie możemy dużo mówić, ale ocenimy wszystko dopiero po wynikach - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLXBxMm54TVdhVWpSNW5ieDZOeFVIUG5wcFE4TTNhUm9udmw5T2ViY2hVVWNvamRZZ3dmbHJJUGg4M3ZMSEhiMUo0T2pTNGItZVh0V18wanhsb2stRnRrRXFBd2tYZ2EweUh4Q2hRTWxacHJManl4SFRfa3BlNFlPMm5uNk5SN1NCZ2RMQWh2SjBjc3Q5UnFVQkljZjFyNWktMXgzSnp2UUE1YlV6dVdOemh4cVlRcHdUdFplbFVudl9naENGT3RrSkcwdkdieC1jd2gycUFoY9IB3AFBVV95cUxPQ1ZhQ3JLRDY3RExTc2VZczVCT244T1pHcXE0MGZabExhVm1IcGYtQU9vQjZkcFk2bHZuWllIeVVWVDRIY0MzVEtPd1BWRFdNMEQzbGJQZmZSVm1JdDdWN0NfMkx4aTZZMzhVV2NjcVJFTWNHWUo4Qi1SYUtPWE5KU1ZTWmk5UmFJZFVKTWpwTElUejVZN3FfaDRJUk03ekVxVUE5cklRVWprQ051WW1jcU1GY1E2YWk3TFROUmlMOTh0Y2VFakxKTkpTdWNlQ3JhZjdETGozT1JCYXF0?oc=5"
-      },
-      {
-        "title": "NATO szykuje patrioty dla Ukrainy. \"Tak szybko, jak to możliwe\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3BPTHg4X2N4cWpkU3g3cnJRTDhLYnZvMXJfaXd0UHFpQ3RIV1VhZGlyX2Y4NnpSVWxtM2hQZkNpdElXUEx4eVRrUmNMUDFFTTIzaGdNNF8ybHM4QTJSeG1JMHNaNkp2Rk5BMTdualhuUFhEeUc0TUF4VjVXNHU4NDE4aEtkanFDWklvY19ILVJ1enhEdHBjUUhnQVBmNjV2NUxYQ01rLU5Kc0J3YXRSeXBKY2ZwT0Zx?oc=5"
-      },
-      {
-        "title": "Dziś wyrok w sprawie śmierci ciężarnej Izabeli. Sąd w Pszczynie rozstrzygnie o losie lekarzy - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSTNqM1l0aFFzbk8tOXVSUlhINEVDZnJURVhSa0lwVWJPendwMUFsa0pxNDZuWGFqTWpVdDhTRnBpOHVLcmdITW5INmUyRXFzM0VHdHVqaVhlVWk0M0w5UUE3QllNbzJrTl9Ob25ieldtY0hlRG5TWFNIR3ZhSUhveUVwU2hBSFNqNjZ4dndIRjlIcWxJZVNrZE5yWWttN3BqWVVMSGJIN2VRcFB3MnZjaU1SNHBJLWZxdEd0ci1FTUdSZl9pX0E3OVVzV1BTR0M0ejFfQmVxN05MTkdRQldkTldxVlZNbFhxbk5QRThvT1FYS1FvRnZXS2NFR0czRHVycFNlU0NTMXlQcUE4Sk1ucktDT2tPUQ?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na S52. Kierowca zawrócił w korytarzu życia i zginął - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNVJtZVM2ZGFMazR5Mm5OMFU0dmkxejZWckUwMGJFUjEwS25EMm5FS0ZEUzk1Zi1sbHFhdFRYZThsUkFYVnY5R05Xakt0YV9JUzRNMjFuV25NYjFhdWgxZE9faExRbHFxNkdiSnFFRXdvZmUtNnJjWnJseXFTdlk0eG83OXFRZVRkVFkybzJOdGdFczhKVFF5RkYtVUtFNzBxVng5TXE0Z2FncXNBd0E?oc=5"
-      },
-      {
-        "title": "Polski profesor zamordowany w Grecji. Są zatrzymania - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVlMNGZlNWlmemlaeEcteVhwNWc4Qi10YWJETEVpUjUzRHVjRU9meEVVUWo5S0V5bmR6T2ZkV0NVRGNYNE5fYWZwalRtbUxEdmxkQXJ0TkJ1NnJKVWtQWG4zOGpVSC1RVW43TEZGMUtCWHRheGRVRUtJaFhlQlA0Zm55aTJXeTZ4T2VhMXM0bUV1elE1YVZGWVN1UE92NVk2cGQ5QklPekhVVnJaWkVqdVZKUjk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-17 14:29:49",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Ostrzeżenie dla Putina. Trump wyśle broń, jakiej Ukraina jeszcze nie miała - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3pMT0dsNjUxQUJOd3V2TFQya25PZjJBS1ZtTFJqZWFyN29JSlN1QUZ1VjZEOE01eGlMb0drSEdfLXVsaFVoelpBb1ZueEtqX2xFekJXWGRua0FOTDJjS0piaU8xeWxwVnFiMnBMODEyeVpEclpQOHRwUTBNQWpIRkFfX2dtNlA4cFNGS2lYNVYyOWpXb252bXQwUXdxTVVHUkw4MDJmay1ZcWk2ZkkxekZFblFndw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 19:13:48",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +24°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 430912,
+      "DOGECOIN": 0.888706,
+      "ETHEREUM": 12989.78,
+      "LITECOIN": 371.8,
+      "RIPPLE": 12.57
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Zaprzysiężenie Karola Nawrockiego. Jest postanowienie w sprawie Zgromadzenia Narodowego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUW9wdk03WWtTNHdpZFFMaW4wTjBmdGNuYnR4RVB1THB2WDhsVk5oUW1lMHJtN0xkcUJlTWhKUV90S2cyWjhnVE9OWTBONmNtOWFTMXR6SC1aVjFHTFIwN1gtR0hsMVhQQVVLa1ZNdG5Peko0MzhjancxSklGcUx5STFQX1JpYTdyRUt3Nm4wMEdXYTZiTXVMTnc5akRZYmhRWEs4U2hPR1g2R2hYQTNWMmNzR2JiajlPTmJzVmphN01uLVJNT0kxQ2lKX0ZXUGFBZGwyWQ?oc=5"
+      },
+      {
+        "title": "Protesty \"stop imigracji\". Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
+      },
+      {
+        "title": "\"Rosja i Chiny przygotowują się do jednoczesnego uderzenia\". Niepokojące słowa dowódcy z NATO - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG14UGJ1TEQwUk44c0NUd1VnZUJnX0t1d1JLLXEyeEdzbzVpTTlXdnZmeTNOWXZWRW5fTWVGUGcxZlJMM1hWa3NGUjEzY2I0SnVhUFhQbm5SaG1EalRMT2FtQnd4Sm1leGo1OHZILW0yT0FDMUs1cUtIQWVQY3VWSnBqUEZOZ1FMSjEtWWdTeEV2eHgyeUZJNjV1T203dkxaZzgwVk5FNGkxYUlRQnlNb3ZoQU9adndV?oc=5"
+      },
+      {
+        "title": "Ostrzeżenie dla Putina. Trump wyśle broń, jakiej Ukraina jeszcze nie miała - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3pMT0dsNjUxQUJOd3V2TFQya25PZjJBS1ZtTFJqZWFyN29JSlN1QUZ1VjZEOE01eGlMb0drSEdfLXVsaFVoelpBb1ZueEtqX2xFekJXWGRua0FOTDJjS0piaU8xeWxwVnFiMnBMODEyeVpEclpQOHRwUTBNQWpIRkFfX2dtNlA4cFNGS2lYNVYyOWpXb252bXQwUXdxTVVHUkw4MDJmay1ZcWk2ZkkxekZFblFndw?oc=5"
+      },
+      {
+        "title": "Zmasowany atak Rosji na Ukrainę. Wołodymyr Zełenski podaje szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQblUzSGp3MkVzalZnQUk4YUE0cUwtZzhZcFFTbnJ5b0NYWkg2cF9tOXMyR1NnNGpFbXZ5TmpwbWZ1Nk12UWxmbERyV1VqcGM2NW1JeVNubVBEWVlBelZpUlY1eGo1S0JNQUtvUTUzWWxMM3lmejdMQWhfM04wdWxVR09jMmowM2dUTVlqSW5VbnAwRTk4VmFYS2ZuSlZfNFctQVFFUmtQaUFQbTlzVGw1dHBnZmxGTE1YcmJ4cTNEeFI?oc=5"
       }
     ]
   }
