@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-16 23:14:23",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6631,
-      "EUR": 4.2585,
-      "GBP": 4.9055,
-      "CHF": 4.5719,
-      "JPY": 0.024611,
-      "AUD": 2.3889,
-      "CAD": 2.67,
-      "CNY": 0.5103
-    },
-    "crypto": {
-      "BITCOIN": 438387,
-      "DOGECOIN": 0.774723,
-      "ETHEREUM": 12357.91,
-      "LITECOIN": 361.17,
-      "RIPPLE": 11.2
-    },
-    "indices": {
-      "^WIG20": 2868.56,
-      "^WIG30": 3711.18,
-      "^WIG": 3711.18,
-      "^NCINDEX": 254.66
-    },
-    "news": [
-      {
-        "title": "Jan Urban selekcjonerem reprezentacji Polski. Jak mogą grać biało-czerwoni? - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUg1djhHM0NtdUp2ckgtTnA2RHVFUFJsUEdKTlNEUVVTdUdwOTR4Ti1iT2RmajMwQTIzZ0w5ZGJSTWl6QTBPREV1eUctaFdnaW1jalFKUXE3dDZsTjZPaTlRQUpWLTBEVnJ3WDVVOEJTMDhMUERXRmpTQ25jMExGS0xzWUM2ejY5Znk5Y1V0TkJjTDNZUnlNdjhBWTlCbDE0Ym1mSHdqdHA5RmFheGFlTtIBtgFBVV95cUxOcWNQSWQyN3AydTZhaE1aX1lpS2RjRkdkZWV3UWFoVUdjREtDbUcxSmE0T0s3eU5fa3J3YVlWcHV4bzJvTWNXUDRtUmFXSUk3ZmZzaUJlbG1NWUVnQzRaZVFhYk1HZ0lyRHVrOHM3RVVHTVgwZ3R3WkF0QzloTDZSMHVRdUhfRzNNU2VWODdhM2JFM1JjWDlsTGM3UllZMHBEa3RhSlBra0Z4X1VSSXVWSC1icHQ0UQ?oc=5"
-      },
-      {
-        "title": "\"Dramatyczny wpływ na Rosję\". Zwarcie Trumpa z Putinem. Świat czeka na efekt domina - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEx3OE1xYTVqTURpaXlEWmdCQVk5NmJSTF81dS1NZDJwem9ndEwzRzZ1LTBRSnJQLXVlS0xiTEMxdnBWX0J1MVczNWZkY0xNZXJScllxV3R6X2hMSXZlQm5oNVJVYk5QZ1h1ZkpQeUZxNFBSUzFrYXRQNHFDVjEyQkFQVTVNbDBUejRhZzFld0k1ZDVtOHVwWEQzMUxhNXA3LV9URkF2UWpfQ2hMT0VTV1RCREFHbU1sRTdoSQ?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony uderzyły w polską fabrykę w Ukrainie. „Zbrodnicza wojna Putina przybliża się do naszych granic” - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDE4LTkzaTh1MEw5ZzhtRnpzRjNXVTlpd3BqcmNNakNrcnNhUXZ1RW13LUV6SGZuU3YtbmViOS11X2UxWG1YMHRDMTh1RTVvQi1jWHlUYlg3V09pNTZxUlBsN0FPM3hzMEgyZVJFSU9kMEJRN29GbFJhQWxfZkp0a25aOFROVl9rWWVjbkxCOTdfS3FsczJkS2d3WWhlVlppNjdrbklJdUoyN2drWTRJRmlJY3JuZ1kxZ0trZjdCOGnSAb8BQVVfeXFMT1lleUZNcURQNmZZcXNXcmhobldQWExnbjBscWJvdUIwMWhZTXZXNlVxZTBFMDd4RFZoMHNzaFBEUXVGZTJnOHlRNGFvWHN2cVZ0aU1kNXpLZU9lOTZBUnhWc2RaOXRoRkZxM1hYbFlXaXFWNk9BYWUxVkV5aVJDdkdja0NZaEI2NkFqLXdGMGxILUM0U3hneHlFVEpLTkd0bFU3ZUxCZ2Y3dkh0cndBanpSaEJiemNtNmZGNnYxTzA?oc=5"
-      },
-      {
-        "title": "Pożar na festiwalu Tomorrowland w Belgii. Główna scena w płomieniach - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUFkTENxNzhGclpYenFLbmxZSVlUNnQwREZDdms1MktDQVZaRjNyS3NwZy1wczRweUktTFVySDVscnhEbEV6c0E3cjJXYWtyajNtQW80bEMyai1ab19CVlhzMjQ0Ql9paXZJcnpsNWlRVkZWeHctR0M5b0xmOHB0Z21hRnJnOVFDOXluTFZzSXIyZUFYMTlkVzlaNWp3LTB4ZHRUSlBIRWszUTJTb3JVT1JsVG4?oc=5"
-      },
-      {
-        "title": "Immunitet Grzegorza Brauna. Adam Bodnar podjął decyzję - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk1FT2Y5MzA4a2xkREp5OEEwX1hMSlIyM3VWMkNXS29oZ3F1Rmw5Ym84Z1RaOU1ldnRCTXFyX1g2OU0zMHJ0SE44OU1TR01tY1ZjVjI2VWtGV2RSWVlERHJBbUd6eEJNR2lIODU3TVFhYTF3QVNuWDZzWHJjLTRlN2dlUVhMcGZOMTVXM0h5LWhQa3JwTWJTOGNlZ3hTemhSZnpF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-17 00:14:19",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Sankcje wobec Rosji bez precedensu. \"Zmusimy Putina do rozejmu\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktjVWZ0c19qODVLVnBvZG1WM0NxNUp0Y29Kem5uTUZvNXJxVHVBTGZYTVVNSU02TDlJNTZSSTBqSk01cnBwWk5ydXB2Snc3TnFrSV8tVHdMbF9WVzFVa3lINTBvZUgyQ25yenNxNXhzbjBhVDZEYUxTMGYyVDNJdy1KaW83eDNkc0hjWkFKV3Q4ZFRmaGJXRmFVdXFwc2RVdHp3bldRX1JwcGM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-19 07:17:12",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 431598,
+      "DOGECOIN": 0.928884,
+      "ETHEREUM": 13089.07,
+      "LITECOIN": 375.15,
+      "RIPPLE": 12.59
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Weekend antyimigranckich protestów. Skrajna prawica straszy i manipuluje - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjJ0VnNrYXdfYUlUaUpaUFJhNmRoYkJNU3BOZXV3ZGJ0VVV3ZklVTElNdndzMVVodFluWlppWUkwZTJKejJNNGhDNDJEYllvYUpPd3VMX3ZrOEh2SEJlN0JpTTRrS1ZXdHZaV05jaEtwVlJyTVlRLVBrNG5DRzBYMkZn?oc=5"
+      },
+      {
+        "title": "Ponad 300 km/h przez Warszawę. Niespodziewany zwrot ws. pirata drogowego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmpkdW53eGZ2dUFiTF8yUEJCTXdiVFhlWmhoSkNxeTBTV0tnM3lZT0l3TnA1Z25IZUFBTW5GT0tBTDl4Y0lLR2RzakJnVEJoZjRZV21wWW5Cd1dFdDlXOWdOakJSS2hwOEtCN1o5M282VmJhWWtxYWpNQXVSWjQyTUwyYWZRamRkTkRaSGc5QUNwNUVYTWpoV05CYm1UVGJPa1o0UXZIMXoweHB0ZWJkNHhB?oc=5"
+      },
+      {
+        "title": "Ojciec wypadł z balkonu i umierał na oczach syna. Tragedia w centrum Warszawy - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnAwMzJITVMtWTJzU0ZmMkFvSUdPRVJnV0FDSlVZUTNIUEJKcEZDM0IyYnRWM0xwMzFvV0RVN3poNkpjUXM4SGFINFZCUTg5b1cySU1BRG0tLVk2eDl3YTJKTEZjQVg3R2JhNjNHSFFQZmZzT2h2RUJsRG9jMnNkcDUtdGh2YlF6U0pfMkdyLVRVYVZXR3I3VEpMdmlNNF9Hc1JXeUdJaEhaVGtIeUpOMzJn?oc=5"
+      },
+      {
+        "title": "PiS składa zawiadomienie do prokuratury na Donalda Tuska. Pismo przygotował Zbigniew Ziobro - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlGSXdnM3Z3RTBETlZKaW15TEltWVRkc3V5NkswOG9RMEdTSHUtWkRvQ3NkSDlnSk54SHJYY3NkUjB0V1JLcWdFQWM0VXNSSlhZS1d2VmJjVFUyYWZpZ05BNkZGbG1oaTIzNmRmSGJxT3VPdXE4aC0wOGJ2YmVrZkpzZjFJeDVnNGViYnRBdzlRZzZTZkg0SGI1ZllaQTVRZ05V?oc=5"
+      },
+      {
+        "title": "Kanclerz Niemiec komentuje polskie kontrole graniczne. Jasne stanowisko - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2UwX1JNY1lUZElONlUyT25QX1hMM3FQcFVVNnZtcF94TGJtUnNnb3ZWdTZzUm92ekRPaTB0S2dGZGZ0NFdveXcxMUR1dlU1OXhTbDBnOENjaXVqU0VmRUozeE1hOFVyek0tQmNFRzFZVDNkc3RWNG9GUjRqNjJWcVJoVzdmSUdrTUthdDNkZk1nQzh5YWxWOXMzVWNha2ZMQmdONHZVMGtaMnN5dV9hN0w0Q0ZielhD?oc=5"
       }
     ]
   }
