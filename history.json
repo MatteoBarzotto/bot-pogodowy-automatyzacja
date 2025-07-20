@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 11:19:04",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 433298,
-      "DOGECOIN": 0.868935,
-      "ETHEREUM": 13154.06,
-      "LITECOIN": 397.1,
-      "RIPPLE": 12.51
-    },
-    "indices": {
-      "^WIG20": 2971.12,
-      "^WIG30": 3837.74,
-      "^WIG": 3837.74,
-      "^NCINDEX": 256.49
-    },
-    "news": [
-      {
-        "title": "Jest porozumienie w sprawie 18. pakietu sankcji UE wobec Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2VHRzRicmRzdDJtV3VocmpXMmpGUGxLWEJucnBiemRhaTl0MkxnS1I0SkZjbjVaUnVDN0NiYi1XNl9Ld2ZXajlMbUh6U04wb3d6aEtZS3JHZ0NpamozV2RZcUhJUkpIcHVoRGdTV3d3VkZFOUZDUHRHQWFnVEswZzI3Tmg0YnNMU1h1V1Vqc2ZFVVRZQmpjY1ZrZjlvWU5USk9HaFlueFJ6WFBPWDBPbQ?oc=5"
-      },
-      {
-        "title": "Eksplozja granatnika w KGP. Ukraińcy nawiązali kontakt z prokuraturą - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVndpVDVJU2djLUowWjBiOWROcE9LZUI3RU5Tb2ZaRWFBcXJITksyWE4zN3gxVEotZ3A3a3ZFNFBKTFBWRmFYU1BPb2tzUXRtV3E5Y002YnJrRHhSSy1MVEhRSERxOW5PNDA1MllZMHBGX3M0LWpPaTRJRDZXcVVZTjk1eEhhcFRIRmpybk56Vll0YVp4MXg5X1RYZkJqNGVsUjhfTVl4Q0gxOFUwVHIw?oc=5"
-      },
-      {
-        "title": "Donald Trump usłyszał diagnozę. Biały Dom ujawnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS283dkxpT0M4Q1NjeUxZbERKODNxRl8tdl96VEl4T1l0TmJmNHo4UjVmV3RXNTlheFZUR1U2dm1rc1FrUmFReGhKU1VjTEthQjJTMzM4MTdSYnJxcHFwYnhFNG5CYW5DdUtWdzlxSV92bE9BWnFJdWpTWW90LW5IM0ZBTFlBRUp4RTdhanhCZk9nams?oc=5"
-      },
-      {
-        "title": "Viktor Orban mówi o przyszłości Węgier w Unii Europejskiej. \"Mogę już teraz obiecać\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYS00VGM4ck1Dazc0N2UxendJR1ZCUHphYnJTZjVLeUhqOHBxNi15aTlkMWhOWWN3QnRSb0JHdGZycDJyUldqeXhydW0ydk1wVi1nRnNOWFZsdUxvYzFSS3lJTVVyNm45bThDTGNLSEVSNHdZRTB4WDgtZnJqcC1FeUY0LS1CWm1BVHF0aG4tTXFvTG9TNGRrN0daLVhnSjZvSlY1ZDk5Yjdna19YWENfTWRCZw?oc=5"
-      },
-      {
-        "title": "Nowe świadczenie. Ponad pół miliona osób dostało już przelewy z ZUS - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzl0Y0hfdHhYTmxQVFNpM3ZlTFp1SnNvWnRvNHRzMTV0V045cWRkTkdtM1RpaTd6ZEJvbmJCSF85YXZDeUs1aG80SVltZU91cmNVLWpFeUJyY3BuTm1vbnJka0IyZHVpTWc4UW1YYnE2ZnpGalJyR2NqYnEwQ2s0TG1QOG91dWRwTWljLTFuaWJTd3hrLWdKT3dHTTFOWG92UUpvMTFlTmhPUElOQ05Rc2NnM2pKTjZPblFHV0VR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 12:16:18",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Gorąco na krakowskim Rynku. \"Przeciw nielegalnej imigracji\" protestują kibice \"Białej Gwiazdy\". Jest też kontrmanifestacja! - Gazeta Krakowska",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOclRkckZqd1VqZFFBanBPTFE0eFU2SDJrck5NMVZGNXlkZkdVb0p0UWpzNmEzT2p0WnRvMkFLZ2JpY05ZejZhZjVKdnk3bDdDUW0xR3BvOTJncHFyNVFBcE1kd013Y05rTTBnSUM2aWs1cjFOTENLbWFLNVNoR1BwYkY2c1Z1YzlBc040U1hyeUJPNENYSUtMSHRNTWswWlpEclRydkI1a1ZSd3lOdGdXWmgyR1FpVTRsbEZwWVotc1FMeTVMN2lFdDZZUW1YVGpLMEJyLUtrai1KUEJBMHJNem1ERFFtVUtvd25SUHZ3TnBZUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 17:13:51",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 432743,
+      "DOGECOIN": 0.923605,
+      "ETHEREUM": 13725.08,
+      "LITECOIN": 429.95,
+      "RIPPLE": 12.9
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Cholera – objawy, sposoby zakażenia i leczenie. Jeden przypadek wykryto w Polsce - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVU5VTRBbUJHU1RVaXJ4TVZSVUs3VFF3VTJReUZsZVRXXzZWaXFobXFnRHRzcnpRVlVVMzBzTVVySnBUbDd6STZWNHM0YU5IVV9TQlNMU0tZcmlobHhDclU1NWFUNmU5QnZQX2VXbzN6M1k3UUM1X25zTDBWLVpiUnJsN0hmSlkzbVlJejR2LVY1N1ZqelZrSWxiNVdwX0ZO?oc=5"
+      },
+      {
+        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
+      },
+      {
+        "title": "Atak dronów na Moskwę, zamknięto lotniska. \"Ograniczenia są konieczne\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnZubnk0NUY4VnZfUGJPOHJHSGtTc2VTRklJVXMxb01ieXByX2M3ZlhnVTEwcWFCZzR5dFdVQm9nN1VEREx3YnFwZ0lDd1kyZDJtc28zLVBNR1cxWG1aRVJNZTdjZ1BCVGZGaHRyVm9YZkhoNXlnc2tXZWczWlVoVmFNZ01SNllVQTdubVVSa1JsTENTUW9qMDAzNlpremh1c2w5aQ?oc=5"
+      },
+      {
+        "title": "Rzecznik Kremla zabrał głos na temat celów Rosji. \"To jest najważniejsze\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUhiRWpaQ1pES09fOXM3b3ZXaUVUZnM5R2VjdVhOS1VjUnA3VENSTEhTRVJZVmJiU0M0YkpFdHRTeE8wbkp2anRoYmtWUFVvcDhuMFBOb2dpbkNPWTRmUkN2aHBxcVowLUg5LUhPUUZ0RUZIR1NHYnp1dVczbDlzSFVuYm43NXM4R3U0aUVFTUNmdmk3bDhGWnRMVFI4OWRtWlpEU2g2YmVqOGpJSERyNHJYNVNQMlVZb3dMR1FmcmdBNVp6VndPbTlLdXJDQQ?oc=5"
+      },
+      {
+        "title": "Szczęście rodziny starosty to nie przestępstwo. Prokuratura zamyka sprawę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2t3b0d0QTNabnI0aC1RUVhFMHlFUFIxOERYa0NJb0Z0Q2c4a3o0akl6aXNVdkhNNEZHY21MZjg0TVR5SF9kLXI0OGY3OUZTMXZhcjVOc2Jhb01EQ3dITUlNR2xLZ05XT2dLUmttandhRUlMY3lhdVpYY3ZZaTN6Y3NsYmpuREVleUxQS25ySGVlYU1nRHg5M044QW9fd0o0dmxhR2JwNUVNMXcyWXpqbXpGNURLQQ?oc=5"
       }
     ]
   }
