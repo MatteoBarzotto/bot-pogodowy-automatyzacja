@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-17 23:13:50",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 440029,
-      "DOGECOIN": 0.779917,
-      "ETHEREUM": 12658.64,
-      "LITECOIN": 374.31,
-      "RIPPLE": 12.52
-    },
-    "indices": {
-      "^WIG20": 2905.75,
-      "^WIG30": 3756.41,
-      "^WIG": 3756.41,
-      "^NCINDEX": 254.58
-    },
-    "news": [
-      {
-        "title": "Zaczęło się świetnie, a potem taki problem. Polscy siatkarze nie dali rady - Sport w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGxLYmc4TldCYjZQTXN4V1ZXQ3FLZ2xrVVBqTlljSmJzcENTT2haZW52bHRtY3FYXzE4VHVLVF95b0RWbFduNUFXVmVCVXY2NzVqb29yTjdfSlhXX2pmUW1BbnJCUWE4dHprdm1qWVFyODc0Nk1lUzNPT3RiR2JVT2dCUU80VTFFX2dSV1p6cEJiVnVHc2pVMF9vWWFUT1IzaHB4blI0TWNfbFA5VERKUmxYa2NpUU9CWlc0aGxqVllJSGNrWkRlVjFPanVSdm1DVnc?oc=5"
-      },
-      {
-        "title": "Niemcy odrzucają projekt budżetu UE. \"Nie do zaakceptowania\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTZwVnhZV1hoYVMyU2N4eXJjRFdOVXFYT1JSa19XeE5xbXgwV1ZrTzVrZUFBYVVMYUt4dVoxNVlJV290Y0sxcjdHOExLOTJ0amxJVVZ2eFkwcWhZZjMxNmZ2Q0pNSHhTcThXYzJPNkN6SVNxMEVBaGVyUmtVVFhTUXlTWDhTd0RsUlE0NWx0elFpNU9QT2ZQWmV0N3pxTTlOZVduTFluNGI1YktLUWhYSzJB?oc=5"
-      },
-      {
-        "title": "Adam Bodnar nie zapomina o wyborach. Pisze do Szymona Hołowni w sprawie nieprawidłowości - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFJIN1l6cGpfRTU5NFdpOUF3eUN5RXhFMnpxdGV2SEZYTno2TGpCSXIybUNreHBJSzlqQU5wSjhxU3JIM1hyeTBxLWpmSGZ4NEExSHRvVkdsaVBuWlRoY19HeDRQaTRadWFqYVI1ZmZYLVRNeGJNVTlmZE5rdEppdTRrUjVMdXowb1lLbnV2Z1laX2I0U0Q1MFoyRzk4Q2E4QXVqV014N1BCR0VrbWNxdnI5S2VmQlc0NkQ1bA?oc=5"
-      },
-      {
-        "title": "Donald Trump usłyszał diagnozę. Biały Dom ujawnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS283dkxpT0M4Q1NjeUxZbERKODNxRl8tdl96VEl4T1l0TmJmNHo4UjVmV3RXNTlheFZUR1U2dm1rc1FrUmFReGhKU1VjTEthQjJTMzM4MTdSYnJxcHFwYnhFNG5CYW5DdUtWdzlxSV92bE9BWnFJdWpTWW90LW5IM0ZBTFlBRUp4RTdhanhCZk9nams?oc=5"
-      },
-      {
-        "title": "Mówiła o \"drugiej Ukrainie\". Zacharowa wskazała konkretny kraj - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGpBZV9PTUkzZFZqc1hUWGM1enlyQ1R2eFhKZzJGdWk5eTE3UWhYTlNpWnBIUG0zdzg4ZmdOQ094RTF1ZXdOeWt3eXZXZ1FfNU4tN1Z6ZEptYkt1R1MtWkxhbGJ1Ui1QN1lpaEFERUxMNlNZUGdrbEsxSFpJM0pqbkFQZV9tR1JndHhqQkdVa21NODNYdHdvSFVFRVRIR2dwZWFWTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 00:14:28",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2619,6 +2566,59 @@
       {
         "title": "Rzecznik LOT: w powodu awarii systemu zarządzania ruchem lotniczym - opóźnienia do końca dnia - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEdPbk5keE9nU1k4a0FJTk05X2VIcFcydXlJV19RVWVMVDYtSFdlaG96dEFxMWZ0WGpmaEkwdkt2cXNNLVZHRnhYZlg4N1EzUDhJdU8zS1ZORy1iTDBUMmJqc3JGVnN2a1QzUkRySWJqbWxhRW16N1ZpVG9FZ3VFZWE5eWZlN3AtNThhTHpBdFJZQjhhaEhlS0pDQ3g4ejBDVFVwT1dhWjFsSFRXYkVUdnNlSUJlWVE?oc=5"
+      },
+      {
+        "title": "Sankcje UE na ważny fundusz Putina. Zarządza nim człowiek urodzony w Kijowie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFlJc3BULUtTWG5vX0VabEVXSU95R3R5ZGdKN3BMajFtQnlfRk5QMVV1UzJ1MFMxT215MVY3UW5xcE5ZZGg1Wl8xaEdYbmYwMmN4cnM1UjF1OFg2cHFCRzViNTA4bUduWkRYU2lnZFU4Q0xBZWJoQ0JwRzYwXzNuTFZDV3hkOVhzMDJjRW1IQWNVN0xEYXFuOE1wSFppUlRjeEl4cVUtaVhCRWJYWExLNWp4bDJlOGw2bFpR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 07:20:09",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 430695,
+      "DOGECOIN": 0.925152,
+      "ETHEREUM": 13338.02,
+      "LITECOIN": 415.58,
+      "RIPPLE": 12.47
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Moskiewskie lotnisko wstrzymało loty. Atak dronów na Rosję - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWRuS2ZybjRtREpSMVlYamttUlV0bmFyamdnNHNnWnlGakVJYmhEWkZ4VFZjcV9Mb3FzSUphc002WmROMDBVcFlYUTF5TmI2YTV4NWxIbTVPSENEelBMWGxpVkF4MXlzUzhnYThsX19kX1RoWDJKT2g0Vy04MlhzSGFULTN1SzlKODhoNFpFMExBZ1JhVlg5MnJiSW1NYnM?oc=5"
+      },
+      {
+        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
+      },
+      {
+        "title": "Nowy supermyśliwiec z Wielkiej Brytanii. Zasięg aż po Moskwę - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObERZOG84elZXQU8zenNDMTVYQUl1c013dWtPWTBScWVMQlU4bENsWE9DQ1ByS3AyNTE0MUFxX1lhYy1kdHZXTzBaXzJBVmkzd0V4dzFyQVJYNGJSOTJaTkxuMXlMdlFjVjc4SVA5cjFWTlgwWmNoNVNnU3UwdVVHa2MyRWV3aWFKS1lPdHQ4aU9sRW0yZ0RMRk13Z2Y0Y09jWEgyenJiYkNuSlNkdkHSAbIBQVVfeXFMUGwtQ0RDZnhqUGtYdl96ZmFKMzhhZEN6SkVsQVc2T014MnJOYmxnWWJLbGZmMmF3Vy1TWS1TdlFIWWttaHlfWnhHOWNUb05oYWxvakNhSXZ3M1NTRzhaeGI0M1pSTFYtREczN0NYQWkwSHdnRTNJaC1sQXFjdmNSZTVMVkZDQ0xCcjVSUHlSbFQtck5FR0xxVjdGekNra1dxX3NlVmlpZ045VUtDZktHNWU5QQ?oc=5"
+      },
+      {
+        "title": "Zełenski: Należy zwiększyć dynamikę negocjacji z Rosją - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkVKS2NHOTBndG1fUHFqUkpFVjNwUVIzNDQ3dE5hQ0RhanlWYkpaUmpKdU15VFdGRHVzOWktckpsMkY4Z29qcUlMTlZuQW84V2FibVB1b3E5NmtxNXpJTzBSNDQ2S01VOF9URGFvbk9jeXhWQmtVbG51YmRNbXo0T2pKekRRNWFjNS1KQnBCYlc2N0tDSC1uRGNmZw?oc=5"
       },
       {
         "title": "Sankcje UE na ważny fundusz Putina. Zarządza nim człowiek urodzony w Kijowie - Business Insider Polska",
