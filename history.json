@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 03:13:32",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 440057,
-      "DOGECOIN": 0.824654,
-      "ETHEREUM": 12990.89,
-      "LITECOIN": 378.75,
-      "RIPPLE": 13.34
-    },
-    "indices": {
-      "^WIG20": 2905.75,
-      "^WIG30": 3756.41,
-      "^WIG": 3756.41,
-      "^NCINDEX": 254.58
-    },
-    "news": [
-      {
-        "title": "Nowy unijny budżet. Polska liderem wśród beneficjentów - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWVaMktKcG4za2pTVXVUSkV5eGxaNTB1a1dZSWhncGoweG02MERUS3k4V3l1UGZFcHFOVm5HN2VlX1Y3S3VuWklhLV9LVHA2Q0RGT0dYTktQNUpKX3RDelRjTVBjdmVnY0xxSldLU1l2VUtYTHoya0FiNFRkamFMd2JiSXhFN3VnLVhQR1E5RFRmN01lQzZEbXk1eXU?oc=5"
-      },
-      {
-        "title": "Donald Trump ma problemy ze zdrowiem? Biały Dom ujawnia wyniki badań prezydenta - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanRsajNzRnZBd25OQXhXb0t2eDY3MktLb1U2bHd0aDkxb1I0UHlaa2F2TUNSd2R4YnJGM3lnZTJFN0hpejJ0aWstZ2dDTUZrVVA0c1JPVTd0bHpPVF9GMmRLalp0cUNPTDlMMUV3aHFPR3lWUEdNbWJZTm9kVGN6VUJSYmpIUWM1emlvSnY2R1dqVC1KQUxtVTR0ak1ONldXLXJ4TzNxdXAxOFRDTGJXMUxoR0ZiOFRT?oc=5"
-      },
-      {
-        "title": "„Ze względu na wagę wyborów prezydenckich\". Bodnar skierował list do marszałka Hołowni - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzBOcVM2TlFkRFE0Z2NzZ1lZRE1IcWI2eFN4ekIycWpQbUZvSFhJZUg0Z2p1T01EOHBjdnhaMkNMamhzbmRBbkFvZ0RPZUt5cFd5MlFQbEgtRUxfS29OajZ6TzhJN0ZEOHZONTl3ZHNxSzFPR1NxU2VoVDdTNUQzVno2aml1MFVuSVhjbDNHakVqX1J0bGlkS2MwVUJFbjNfWF9tZ1JYZnB0VmtGZFQtMmZwUVg?oc=5"
-      },
-      {
-        "title": "\"Druga Ukraina\". Zacharowa wskazała konkretny kraj - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGpBZV9PTUkzZFZqc1hUWGM1enlyQ1R2eFhKZzJGdWk5eTE3UWhYTlNpWnBIUG0zdzg4ZmdOQ094RTF1ZXdOeWt3eXZXZ1FfNU4tN1Z6ZEptYkt1R1MtWkxhbGJ1Ui1QN1lpaEFERUxMNlNZUGdrbEsxSFpJM0pqbkFQZV9tR1JndHhqQkdVa21NODNYdHdvSFVFRVRIR2dwZWFWTQ?oc=5"
-      },
-      {
-        "title": "Śledztwo ws. afery maseczkowej umorzone. Sąd: Instruktor narciarstwa nie oszukał MZ - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNXMkltcUlyeWVYVnF1aVZEQ29jS2d4ZzNIcDNibmlPbDFFdTlwQkNRaXJudm42TXViOU1wS2FYQ3FBTE4xVDN2cmFzbU9lMjF5eFgwd29TdUxGOHNlbFBTM0RQdTBrdnl0UWVQaEMxeS00U3licTRPV2hjVnVVVTVGcG13U040dmJyQlBfTk1PUEhNYmRiU1NYZFJjaTE3R3RjeHVrNXlVa3VSb3F2MGNaNDlUWC1kalFCb2FyMkI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 05:25:12",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Turyści płynęli zobaczyć rajską zatokę. Kilkadziesiąt osób nie żyje - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnNiNnZQRFlGejFzYnk2WS1WQngyb01vRUpZeWVzNmtLbWxEQ0thNTFjU3VmSmFuQzBfLW11SEYxbnQtRkRoMEZnYjVkU1k2OEM5U0dVNGJBaUZGRmRseDlsYmgtaE1CM1lxekpTSmJuVzh5QlNZTHFZNEZYU2RwakJBNWlkN0tGZ09lYnI1WTZEeFU0UnpveDlOTXAtS0gtSHBQMmR6eHloMm93Y0NV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 10:18:02",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 431921,
+      "DOGECOIN": 0.921354,
+      "ETHEREUM": 13448.53,
+      "LITECOIN": 433.43,
+      "RIPPLE": 12.61
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Przypadek cholery w szpitalu w Stargardzie. Główny inspektor sanitarny reaguje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXNpZ0JJZXlsUzNUay0zdGo5T0VCYVE4cHFoVl9KUGN2cDJ1VVZKZUVFbmlPU0tKamxCdUlWYUtjT1ZUWDZLM2JoV3cySUhVb3FMdmZXZVBUNHJPWlNnSmxRSW5QU3JGeUJmZi1jUkVEXzJ6eTlUZHlia2VHTzFoWGRQRjI0ZE5scTl0am1lN0d6SWhxTW1Rcnk1eG16dzRZalZtbnpic1pXci1wbDVOVlZIM2F5MWctNGU4d1Rn?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Ukraińskie drony nad Moskwą - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGUxQ0NiYVBaWlZsZnloLVRXYnJxdTBuNkRBSzllNFpqUnlWU3k1Ql9vclh6MW5SX05vZ0tyUFF5QWJDX0dXTTMyLUd0ZEQyUGtGOWRZS1hwQmhsaHJZS21mTVVSR19Da0JOVGhnZzU5YzhRN1czeWR3NnNpRDlmOWZCSk81WmotWGdtc3JKc2hCZw?oc=5"
+      },
+      {
+        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
+      },
+      {
+        "title": "Turyści płynęli zobaczyć rajską zatokę. Kilkadziesiąt osób nie żyje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnNiNnZQRFlGejFzYnk2WS1WQngyb01vRUpZeWVzNmtLbWxEQ0thNTFjU3VmSmFuQzBfLW11SEYxbnQtRkRoMEZnYjVkU1k2OEM5U0dVNGJBaUZGRmRseDlsYmgtaE1CM1lxekpTSmJuVzh5QlNZTHFZNEZYU2RwakJBNWlkN0tGZ09lYnI1WTZEeFU0UnpveDlOTXAtS0gtSHBQMmR6eHloMm93Y0NV?oc=5"
+      },
+      {
+        "title": "Zabójstwo w Krakowie. Marta O. oskarżona o morderstwo męża - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDdBaFhJbVhKd2p0cE51Nm1QejRCZjNhelppLTVyRWkyc1NVRkRJOEJPaVRDa2hHYzZKWmtxTFlFZmxDUlhPN0J0RFBWaC1MbGlHeVZrN2QzNEdyZnVSdU5GWjRURHVYMlVNWTJoVTJhRmlSa1BmVkhHSjROWVdvTTdLa2pFYVdUa2J4VDJEeWVkZUVMdzI2aXFYbzgyV2xu?oc=5"
       }
     ]
   }
