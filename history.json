@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 12:16:18",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 433699,
-      "DOGECOIN": 0.877374,
-      "ETHEREUM": 13208.24,
-      "LITECOIN": 402.16,
-      "RIPPLE": 12.56
-    },
-    "indices": {
-      "^WIG20": 2972.23,
-      "^WIG30": 3839.38,
-      "^WIG": 3839.38,
-      "^NCINDEX": 256.14
-    },
-    "news": [
-      {
-        "title": "Jest porozumienie w sprawie 18. pakietu sankcji UE wobec Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2VHRzRicmRzdDJtV3VocmpXMmpGUGxLWEJucnBiemRhaTl0MkxnS1I0SkZjbjVaUnVDN0NiYi1XNl9Ld2ZXajlMbUh6U04wb3d6aEtZS3JHZ0NpamozV2RZcUhJUkpIcHVoRGdTV3d3VkZFOUZDUHRHQWFnVEswZzI3Tmg0YnNMU1h1V1Vqc2ZFVVRZQmpjY1ZrZjlvWU5USk9HaFlueFJ6WFBPWDBPbQ?oc=5"
-      },
-      {
-        "title": "Adrian Zandberg spotkał się z Karolem Nawrockim. \"Są sprawy do pilnego rozstrzygnięcia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcl9jVHdfb1lkaWtoQzFDbDhxN19hNWNmbHhaVjc3cF9lYWxxVHNKUkJ0NmJkc1gwRGdyeW9XYWpaR3lTU1J6SUZGbnM2cThzMTNmZ0o5SXFOOGVuSllYUTlGVDNsYmlPMEpHRVpnR29JMkRVOUw3R0xmdkcySUpQWmNIU3NaLVhZUFdibW00a1R6R1RQNmxsYzRMUGtwazRrbkd6TVBjblZsdFgtWTI0dWNQTnZiRE5aelNObjJCYW8xRlN6MWZOTlVuRFh2WmV0RGRMdy1KT2ZTUl9HYmVkcg?oc=5"
-      },
-      {
-        "title": "Trump przebadany, lekarze postawili diagnozę. \"Częste schorzenie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3J6aHhMMkZZNVRrUGJfS3RETFBuNXdyNVJXMHl0RkhqNm1RRFp6aFAyejhxVGoydzdfdVU0eXJSd0FPV2NENWY1N01MaktGeUkzdTZJSlBOaUxxWmpRQ3FnUnBpWHBsWGpsVE5oWU9xcW5xSWwydTNxUW9Zb2hadGYyZ01ZOTRxOU1iMjVHN2dwSTVnR2kzM2xKWTRwNXNCUlNNSUNzTE43eHRTNU5tcl8wb0dxV3BVQXc?oc=5"
-      },
-      {
-        "title": "Polski MSZ odpowiada na rosyjski atak na Winnicę - Defence24.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnY2VXhucDZyblkzb2RMSUlBY21pY1FoWkt4YXZvREthV3BiWUNBYUVOVzJhTTB6b0U4YjlobHVSelBjRnR2YVJUalFid0xaN2xlV29fcV84UHVNek5JZUNTbEJvdUFNQkFJdTl2ajlRZGU2UXpyM1RnakVzd0Q2VkVZd08tSUNDaGJqcDdVMA?oc=5"
-      },
-      {
-        "title": "Jechał 400 km/h? Szokujące ustalenia ws. brawurowej jazdy - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWx6WWFpY2VRV0stZkUzd2VoWXJFVEpqTzY5UEVoQlVudUZrU2hsSjBwRXh6LWdidVJIcnlXam42WFBwVFg5UzVXSFdhcjFYd0d0b3JMM1I1S2RWQkdMNTNzZlJPWGJncFpDZFZhZXhQV0pZSmpxTHU2YTZDaGw0ZmEtUno1TzFHaVlGRTdubnpUWlpQZTVfNEM4TGZIMzk3a0gySzk1cUtjWi12ZUJz0gGzAUFVX3lxTFBnaU9BQ0lKSXFzaWRsOU9sRjFycldvUFBNWjE2N1VRTHpNNG5tSVZIZXdEbzVkNXRBOXNmN2hJTlFESkt0bV9SYldIb1E1TW9jY3AwUUtlN2plcjJkeHNqdDExSnhxaExHWF9VWG1GdjZMenl6eFczVlRXSGtxQ0NHX0ZTbm9PTUJ2cTMtYTZ4Wm9IWUdscDZaZ0JTVTU2RWhVQkt4VkZxMGlWbWg3azVmWjF3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 13:12:47",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Szczęście rodziny starosty to nie przestępstwo. Prokuratura zamyka sprawę - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2t3b0d0QTNabnI0aC1RUVhFMHlFUFIxOERYa0NJb0Z0Q2c4a3o0akl6aXNVdkhNNEZHY21MZjg0TVR5SF9kLXI0OGY3OUZTMXZhcjVOc2Jhb01EQ3dITUlNR2xLZ05XT2dLUmttandhRUlMY3lhdVpYY3ZZaTN6Y3NsYmpuREVleUxQS25ySGVlYU1nRHg5M044QW9fd0o0dmxhR2JwNUVNMXcyWXpqbXpGNURLQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 18:16:46",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 433500,
+      "DOGECOIN": 0.960538,
+      "ETHEREUM": 13812.14,
+      "LITECOIN": 428.57,
+      "RIPPLE": 12.88
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Cholera – objawy, sposoby zakażenia i leczenie. Jeden przypadek wykryto w Polsce - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVU5VTRBbUJHU1RVaXJ4TVZSVUs3VFF3VTJReUZsZVRXXzZWaXFobXFnRHRzcnpRVlVVMzBzTVVySnBUbDd6STZWNHM0YU5IVV9TQlNMU0tZcmlobHhDclU1NWFUNmU5QnZQX2VXbzN6M1k3UUM1X25zTDBWLVpiUnJsN0hmSlkzbVlJejR2LVY1N1ZqelZrSWxiNVdwX0ZO?oc=5"
+      },
+      {
+        "title": "Słup dymu nad miastem. Pożar w zakładzie chemicznym na Mazowszu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzh5aXVQRUt5ZURBaDEtT1VqUW1Wai10U2tPRVhCUml6ZVNZV3RMRnpPYU5BdndFcktPRk1Zd0hfSjhRdEYxYVlYTkY2RUM5aUpybDR1TlVPSkh4RzdlUWljLWt3OXZGdGd6c0VFZDduUVRScW9DNkM3UU03YUhjdFdWVk1kT0l3WGxjNm93UnhEcExmbTRvb0JqRUtFZEdGNnI4S0dVWjlRM2xUbW5GaVJB?oc=5"
+      },
+      {
+        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
+      },
+      {
+        "title": "Awantura w studiu. \"Są jakieś granice bezczelności\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXdUdjVrMUV4cjI2QmZXS1EtZE54LWxpbHFPZU5zREtYempVUVdKUzY2eFFKM0RlZ0tQWFItby1HeVBDSllCZGJCWU9KYm9HS2VCUnpSVW11MHA0NXlFS3BVWkM3TlRNYnFoMjdzc2VsNHBTcG9fVDN6UW9rVExlcG0ydGdMU25xLXlKTXhleXE0WkNya2c?oc=5"
+      },
+      {
+        "title": "Rzecznik Kremla zabrał głos na temat celów Rosji. \"To jest najważniejsze\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUhiRWpaQ1pES09fOXM3b3ZXaUVUZnM5R2VjdVhOS1VjUnA3VENSTEhTRVJZVmJiU0M0YkpFdHRTeE8wbkp2anRoYmtWUFVvcDhuMFBOb2dpbkNPWTRmUkN2aHBxcVowLUg5LUhPUUZ0RUZIR1NHYnp1dVczbDlzSFVuYm43NXM4R3U0aUVFTUNmdmk3bDhGWnRMVFI4OWRtWlpEU2g2YmVqOGpJSERyNHJYNVNQMlVZb3dMR1FmcmdBNVp6VndPbTlLdXJDQQ?oc=5"
       }
     ]
   }
