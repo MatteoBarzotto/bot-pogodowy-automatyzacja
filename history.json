@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 07:20:51",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 441900,
-      "DOGECOIN": 0.867885,
-      "ETHEREUM": 13312.74,
-      "LITECOIN": 395.94,
-      "RIPPLE": 13.29
-    },
-    "indices": {
-      "^WIG20": 2905.75,
-      "^WIG30": 3756.41,
-      "^WIG": 3756.41,
-      "^NCINDEX": 254.58
-    },
-    "news": [
-      {
-        "title": "Donald Trump usłyszał diagnozę. Biały Dom ujawnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS283dkxpT0M4Q1NjeUxZbERKODNxRl8tdl96VEl4T1l0TmJmNHo4UjVmV3RXNTlheFZUR1U2dm1rc1FrUmFReGhKU1VjTEthQjJTMzM4MTdSYnJxcHFwYnhFNG5CYW5DdUtWdzlxSV92bE9BWnFJdWpTWW90LW5IM0ZBTFlBRUp4RTdhanhCZk9nams?oc=5"
-      },
-      {
-        "title": "Nowy unijny budżet. Polska liderem wśród beneficjentów - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWVaMktKcG4za2pTVXVUSkV5eGxaNTB1a1dZSWhncGoweG02MERUS3k4V3l1UGZFcHFOVm5HN2VlX1Y3S3VuWklhLV9LVHA2Q0RGT0dYTktQNUpKX3RDelRjTVBjdmVnY0xxSldLU1l2VUtYTHoya0FiNFRkamFMd2JiSXhFN3VnLVhQR1E5RFRmN01lQzZEbXk1eXU?oc=5"
-      },
-      {
-        "title": "Zabójstwo polskiego profesora w Grecji. Była żona i cztery inne osoby z zarzutami - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWN0aVdjVUlOa05XZl92eFVlQTdFMkd1aXlFamV5ek1wUVpubUJuWXlMZGZTWTdodHlON1pfaFZpR05fdmhhM19remtZTFdYSk9YZjFlWGlNaXBJQmtWaEY3cFhpNWMzTldVSV9KNWdkdUpGY1JDaVUxLVFKRnM3YVYyb2U0bGlGRFU5REVVQVl3RXJHVllKZVprbVJ5Y0NILVFRaHRkZTRHZkQ0bURMYWwxQjF3QW5QcGtyMG43UnppWVVJ?oc=5"
-      },
-      {
-        "title": "Cień zbrodni w miasteczku Nowe. Kolumbijczycy boją się, że to już koniec ich \"polskiego raju\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREg0SER0NzZBMzJjWG5uX084SjFyTnkzVk5MNW1RdXdNMHdoVXE3RkJQZGVOeGRFMTN4TVRiMlRfRWVFWHNCOEhTX2NmaU1EVHhGLVRlOExGY01odzVzOU5WT0xzMGJGSS1pcjhQaWhibjRQRmx2VVZIbThicFVLMzEzV3d4ck5YWkhRUmdYM1dTcmlaMUhEdlh3cDVVakoxdUliWmJZTE5hb19KVnFOY0Q5RGtDTFhkb08yWTZRN0l6ZWpNRzVtd1BXaDY?oc=5"
-      },
-      {
-        "title": "Stołeczne uroczystości z okazji Święta Policji - Komenda Stołeczna Policji",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0Y5ODJKcnFIRnBSUUhuYmFIX2xkaFA2QVZVVnktSmNTbjNlWHVPWjMzYVZLTnNGZjlUaEVscVZMRkY0bUo4M3lia1BDLVREV1Zjd0gwME5GWGlGTVlqWWJtZmhOWGtwV3NaRGJLTDh6NUVGNmVmSWFwMXB0MlNJa1NGREJocFZIMTVaQ3U3bVdPQWl0dmJSLW9aU1Vqd3F5Q0hIeWhwS3RzbnZ2a1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 08:22:12",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Szczęście rodziny starosty to nie przestępstwo. Prokuratura zamyka sprawę - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2t3b0d0QTNabnI0aC1RUVhFMHlFUFIxOERYa0NJb0Z0Q2c4a3o0akl6aXNVdkhNNEZHY21MZjg0TVR5SF9kLXI0OGY3OUZTMXZhcjVOc2Jhb01EQ3dITUlNR2xLZ05XT2dLUmttandhRUlMY3lhdVpYY3ZZaTN6Y3NsYmpuREVleUxQS25ySGVlYU1nRHg5M044QW9fd0o0dmxhR2JwNUVNMXcyWXpqbXpGNURLQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 13:12:14",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 430760,
+      "DOGECOIN": 0.918217,
+      "ETHEREUM": 13517.17,
+      "LITECOIN": 430.61,
+      "RIPPLE": 12.79
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Przypadek cholery w szpitalu w Stargardzie. Główny inspektor sanitarny reaguje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXNpZ0JJZXlsUzNUay0zdGo5T0VCYVE4cHFoVl9KUGN2cDJ1VVZKZUVFbmlPU0tKamxCdUlWYUtjT1ZUWDZLM2JoV3cySUhVb3FMdmZXZVBUNHJPWlNnSmxRSW5QU3JGeUJmZi1jUkVEXzJ6eTlUZHlia2VHTzFoWGRQRjI0ZE5scTl0am1lN0d6SWhxTW1Rcnk1eG16dzRZalZtbnpic1pXci1wbDVOVlZIM2F5MWctNGU4d1Rn?oc=5"
+      },
+      {
+        "title": "Atak dronów na Moskwę, zamknięto lotniska. \"Ograniczenia są konieczne\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnZubnk0NUY4VnZfUGJPOHJHSGtTc2VTRklJVXMxb01ieXByX2M3ZlhnVTEwcWFCZzR5dFdVQm9nN1VEREx3YnFwZ0lDd1kyZDJtc28zLVBNR1cxWG1aRVJNZTdjZ1BCVGZGaHRyVm9YZkhoNXlnc2tXZWczWlVoVmFNZ01SNllVQTdubVVSa1JsTENTUW9qMDAzNlpremh1c2w5aQ?oc=5"
+      },
+      {
+        "title": "Koniec Hołowni? Sondaż: Polacy uważają, że Polska 2050 się rozpadnie - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZQWjNmSkpBRS13S1hFWjhQRUk3b1MzQWl2MEp6dmNGeEZ0OGYzbkpYcmczVXRGaVdyZ2IyYkVGbXFoZUlaeE1RMkJyVnVidkpsOXpfRkU1OVU2TkJYQzhYZW1aR0c2eWFOV2ZrSDlLVmhjRHUwdVYtQ3pibzJocVhxc2ZMSHhsckRRT2lxZ0ZhSjhaMjBCY004elFXTmZtOW03MA?oc=5"
+      },
+      {
+        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
+      },
+      {
+        "title": "Film o wybitnej Polce, agentce brytyjskiego wywiadu. Zagrała ją córka Polańskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHB0MUlPa1JDX2ZraTBrLWRoblVUZnRGZDdXdGszN1JhZkFiRG5PWFdRSWtNdmFBWG5hMHR1WFdBci0wVkJ5R3RhMWl5c0pQZnVkUHFfdEhmSDU4NFktWW92M0NKaWNGM0ZwWllqdFZEaXNIWFctS1pxYWE5TU93WTR3czdTNHM2WkF0VFJZSWlaanlUbC1ZZXFCX2JPRk9qM0k0?oc=5"
       }
     ]
   }
