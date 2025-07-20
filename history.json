@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-17 20:21:07",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 438842,
-      "DOGECOIN": 0.785876,
-      "ETHEREUM": 12603.72,
-      "LITECOIN": 372.46,
-      "RIPPLE": 12.22
-    },
-    "indices": {
-      "^WIG20": 2905.75,
-      "^WIG30": 3756.41,
-      "^WIG": 3756.41,
-      "^NCINDEX": 254.58
-    },
-    "news": [
-      {
-        "title": "Ujawniła, z jakim nowotworem zmagała się Joanna Kołaczkowska. \"Operacja była natychmiastowa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXVJdjZCaVhtdG16UWpKQndLREdPTEt3WTJSQXdNZTJyNFJSOXNGZjFpRkJ0am1Nb0tPSnhKbnlnLWMyNTRsMDNhX0g3NGNNQ1hZb3BMeWs3UEJJSkJNcU9rNElNdXh2NHZCVW14MzlDUzlidlQtTl9nYUVLakZrMFVFSHVjNlNiazZFYVZTal84RWpRLWJkeVRqc1QydEJFVXl3dUN3SWtjUU04UV9BNS1zTXp6QjR5QTJNX1ZrZExwb1Q3QWJWcA?oc=5"
-      },
-      {
-        "title": "Bodnar napisał do Hołowni. Chodzi o \"wątpliwości\" wokół wyborów - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWtDdmlTWGdLQndZOFJWYUo0dWpqcXpxZ0Z5REl4NURWX0djcnpoTGtRRmZYOV8tdDFYOG10Q3lmX2swakdqcXIwWGdxLXhCUi04TkM4M3JJc3FYU05KVVFoTzFwUzM3SVltaHRPdktLdzdTeXFZeWJwMEtNU21zRnNrUTFPbC12ai1VeEJvYjlSNWQybTlxWVQtR2w1YWdGaXNiQWRzY09UWnV6NXBzWGs4Zw?oc=5"
-      },
-      {
-        "title": "Śmierć ciężarnej Izabeli z Pszczyny. Jest wyrok - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXRmcURzSFJYVDJDT2VUUldrd0JTQnh4Mms1bHBlbVJUTzctNk5kSndMeUxtRXQzb0RPWXJxNGk5SG5OVmpLVERlZVBQYnltTmEzNU1DRThSSXdMeGhISmRfQ00wVVBIM2I2Z2lEVEhDdVdqSTFwQUF0WDJiVnVmZE04OGdRcWhsOEMxWDk5bjBGMzQ?oc=5"
-      },
-      {
-        "title": "Rosyjski atak na fabrykę Barlinka. Firma apeluje o pomoc do polskiego rządu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHNERDdjbjF1dFhpbmRJa0VfLUlDcUlsVTJCU1FxQVJLOGh0T3F3Ymo5SHNhaENhUm5LX0V2U05UamljVkpkV3ZTc3FwQ0FiNVFpc2k1MFVDOUNUS3BhdGZPd3VtZ2hVSWVPOVJBS3FPVWJwdUw5X3dTZmJFVjRxZVMzZWtGandHV3NIbmQxdFc3c2dndEk3bVBKekZ6c2NMNTJlMWdLNEhIcGg4ZnV6dQ?oc=5"
-      },
-      {
-        "title": "Zmiana premiera w Ukrainie. Czy zastąpienie Denysa Szmyhala przez Julię Swyrydenko ma sens? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYlpmeUJTWk5JVG4tZV9QZDZPTnJ3QXlFVTRSSjN5YU9QZDJteFpzSTBHVTgtRlZuUk0xYkRpZ053SGN3eGRXRWdlX1FUTjh2c0t1bTdZSnpMM1pfVHh6MjNLSGVnTVBwbXBGdms0ZV9SRW9wTXVKXzJEVUpDQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-17 21:13:44",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Przekazy dnia PiS ws. Hołowni i Kaczyńskiego. Tak tłumaczą tajną kolację - naTemat.pl",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0hYSlNILXhDVi0tMjhFR3dXUF8xSE9GSncwbTcybFVTWm1nNnRpUjYzZkhXM21pVEVtN3lucFBoSjhoaXdxampscFEza1JZME1WNHNGS1gxSW1LVklKRHVZaFpmSkVWaVZlYkc1UlpDQWdsdDVyR0xOU3Y1YS1GZ2FWc1NweERSY1JvZURNcTFrejFsRjN6RGxkOEM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 03:20:31",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 431086,
+      "DOGECOIN": 0.904312,
+      "ETHEREUM": 13186.99,
+      "LITECOIN": 411.83,
+      "RIPPLE": 12.59
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Protesty \"stop imigracji\". Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
+      },
+      {
+        "title": "Moskiewskie lotnisko wstrzymało loty. Atak dronów na Rosję - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWRuS2ZybjRtREpSMVlYamttUlV0bmFyamdnNHNnWnlGakVJYmhEWkZ4VFZjcV9Mb3FzSUphc002WmROMDBVcFlYUTF5TmI2YTV4NWxIbTVPSENEelBMWGxpVkF4MXlzUzhnYThsX19kX1RoWDJKT2g0Vy04MlhzSGFULTN1SzlKODhoNFpFMExBZ1JhVlg5MnJiSW1NYnM?oc=5"
+      },
+      {
+        "title": "Zełenski: Należy zwiększyć dynamikę negocjacji z Rosją - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkVKS2NHOTBndG1fUHFqUkpFVjNwUVIzNDQ3dE5hQ0RhanlWYkpaUmpKdU15VFdGRHVzOWktckpsMkY4Z29qcUlMTlZuQW84V2FibVB1b3E5NmtxNXpJTzBSNDQ2S01VOF9URGFvbk9jeXhWQmtVbG51YmRNbXo0T2pKekRRNWFjNS1KQnBCYlc2N0tDSC1uRGNmZw?oc=5"
+      },
+      {
+        "title": "To był brakujący element. Postanowienie marszałka w sprawie przysięgi prezydenta - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG5ybG5LNmo3cXd3c2Q1Y3RrT3haQk05THhsY1h6ZnJrM19lWnpETXZmTTNYQVRUYzFDVE0xZURWMEZMNXNxQXpkcEFFamlhRFJlWWRlRUtBRWl6d2JNc1oxYm9lSjBKUHhGVVRrRlNSdFVtTWNEUDFnZ1VubUp3anI1MXUtbVBIb2xYN1QxQmFSY2NwVGtWSkRTSWRqQWprMzlValYwV0gtNTVuS0pCVEphUHFaSDRwWnVr?oc=5"
+      },
+      {
+        "title": "Rosja oskarżona przez Azerbejdżan. \"Wiemy dokładnie, co się stało\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRm96UzI3U19sOVdwQXA4NTk4eGF4YmdKb0RWVDNyWkNxZ0ZkZEVISTFNZ2R1OWIwT29wQVBuR041N2NSbDZOMldBVklCXzZnNVJNOW92OGlKdWc1UDdWWFU4dGdmYm5sbDJteHpPTnhnVUxveXdkTzV0SXFFa0ZoMkl3aU9xUFJiRUh5U0J5dzliZHF5LUdlejJ4aU9obENUdXAxZVhPNHUya2JVUWtib1FBcUZhUl8zbzl1Wjg2VkVHakE?oc=5"
       }
     ]
   }
