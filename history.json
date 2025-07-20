@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 10:20:20",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6686,
-      "EUR": 4.2559,
-      "GBP": 4.9195,
-      "CHF": 4.5662,
-      "JPY": 0.024687,
-      "AUD": 2.3744,
-      "CAD": 2.6695,
-      "CNY": 0.5111
-    },
-    "crypto": {
-      "BITCOIN": 436340,
-      "DOGECOIN": 0.881549,
-      "ETHEREUM": 13237.58,
-      "LITECOIN": 398.3,
-      "RIPPLE": 12.79
-    },
-    "indices": {
-      "^WIG20": 2957.43,
-      "^WIG30": 3820.79,
-      "^WIG": 3820.79,
-      "^NCINDEX": 255.81
-    },
-    "news": [
-      {
-        "title": "Jest porozumienie w sprawie 18. pakietu sankcji UE wobec Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2VHRzRicmRzdDJtV3VocmpXMmpGUGxLWEJucnBiemRhaTl0MkxnS1I0SkZjbjVaUnVDN0NiYi1XNl9Ld2ZXajlMbUh6U04wb3d6aEtZS3JHZ0NpamozV2RZcUhJUkpIcHVoRGdTV3d3VkZFOUZDUHRHQWFnVEswZzI3Tmg0YnNMU1h1V1Vqc2ZFVVRZQmpjY1ZrZjlvWU5USk9HaFlueFJ6WFBPWDBPbQ?oc=5"
-      },
-      {
-        "title": "Donald Trump usłyszał diagnozę. Biały Dom ujawnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS283dkxpT0M4Q1NjeUxZbERKODNxRl8tdl96VEl4T1l0TmJmNHo4UjVmV3RXNTlheFZUR1U2dm1rc1FrUmFReGhKU1VjTEthQjJTMzM4MTdSYnJxcHFwYnhFNG5CYW5DdUtWdzlxSV92bE9BWnFJdWpTWW90LW5IM0ZBTFlBRUp4RTdhanhCZk9nams?oc=5"
-      },
-      {
-        "title": "Co z rekonstrukcją rządu? \"W tym tygodniu nie było żadnego spotkania\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXBVSTVlZjlHcFFuY3NEc1hJNUJtMHdrOW1tOHZLdS1ZR21oaHpjQV9JeXpEUzhGV0JQVnowUzE4eHdFN29ibmVqSXN2c1h2eUk1Z1prcllibnZTaFVKVWxfZEIzUjdMRjdiNjRGOTBYWDctdmtZY3RqOWlGWDVlVy1ZZUp4SUo1UkhjSHljeUhMdklyVlBRZ19MSGY1bWlxZlUzNDcwbHF5ZlRRVkxtdlhwRXFhc1dYZlVJZ0d0bmtHbHhjWmhXTg?oc=5"
-      },
-      {
-        "title": "Polski MSZ odpowiada na rosyjski atak na Winnicę - Defence24.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnY2VXhucDZyblkzb2RMSUlBY21pY1FoWkt4YXZvREthV3BiWUNBYUVOVzJhTTB6b0U4YjlobHVSelBjRnR2YVJUalFid0xaN2xlV29fcV84UHVNek5JZUNTbEJvdUFNQkFJdTl2ajlRZGU2UXpyM1RnakVzd0Q2VkVZd08tSUNDaGJqcDdVMA?oc=5"
-      },
-      {
-        "title": "Viktor Orban mówi o przyszłości Węgier w Unii Europejskiej. \"Mogę już teraz obiecać\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYS00VGM4ck1Dazc0N2UxendJR1ZCUHphYnJTZjVLeUhqOHBxNi15aTlkMWhOWWN3QnRSb0JHdGZycDJyUldqeXhydW0ydk1wVi1nRnNOWFZsdUxvYzFSS3lJTVVyNm45bThDTGNLSEVSNHdZRTB4WDgtZnJqcC1FeUY0LS1CWm1BVHF0aG4tTXFvTG9TNGRrN0daLVhnSjZvSlY1ZDk5Yjdna19YWENfTWRCZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 11:19:04",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Trzaskowski zamiast Tuska? Mamy najnowszy sondaż - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkpMRTE1cEh4LXFSc2JQeC1Qa21PcFlPUnZlZUlfRnRpNXhoRVhLdVdPX0tUbzJiYVF5dEVTdnVTSDBnNjdKZ3J3eGp6UFdaUENwRFFEMDc2QlF1ZHJGQzZFLXZTS0NrTE1sVkx2S3NyRXY3VjBDV2V3ck8wYWZENEFCQTcxdTNIbmNCTnVPTGdSVTlz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-20 16:12:50",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 432815,
+      "DOGECOIN": 0.928054,
+      "ETHEREUM": 13688.98,
+      "LITECOIN": 426.88,
+      "RIPPLE": 12.84
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Cholera – objawy, sposoby zakażenia i leczenie. Jeden przypadek wykryto w Polsce - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVU5VTRBbUJHU1RVaXJ4TVZSVUs3VFF3VTJReUZsZVRXXzZWaXFobXFnRHRzcnpRVlVVMzBzTVVySnBUbDd6STZWNHM0YU5IVV9TQlNMU0tZcmlobHhDclU1NWFUNmU5QnZQX2VXbzN6M1k3UUM1X25zTDBWLVpiUnJsN0hmSlkzbVlJejR2LVY1N1ZqelZrSWxiNVdwX0ZO?oc=5"
+      },
+      {
+        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
+      },
+      {
+        "title": "Kardynał zapowiada niezależną komisję. \"Kościół skompromitował się i kompromituje się dalej\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWY1UkxqVS1ubXg0T0t5cW1Nb3VuYXRPcS0yY2VLWjVFTFRsaFplX05fbURsUmVTMF93Y09PRERnWTBkQmF1aWpKSjZ3c2xRZExhM01MQ1BSaU9RaVhUbDJaUmEzamVxeTRPRHM0cnRwX1c3endzenRKT25yYjFJbHhoUk9JeDNLTjhmNDB3a2RXR3BJUGtwLS16eGcxQ003WjRSMW9iaEo2V3JRRGY4VXUycnnSAbMBQVVfeXFMTUNiRDJjMWJzZzRONlJyNzhrM0gzcklyeEpCTDM4RTY1b0ROT0Vfc2ZzRG9vWDR3WnNKa0hheHZsRENzN1lWYl9ISGR4LXZEWWRUS0dvWFhYcUxlTjh4enVVNk54dVJPT1JvYjBXa1NfTFBCdjlibTJBZ205TTRLT0VFU2ZubUd2TWFxNG53RGFXamtHdnExaXpzOE5FNVVfZFQ3VnZKWDNBTFhleGZnZVRpdEE?oc=5"
+      },
+      {
+        "title": "Potężny pożar indonezyjskiego promu. Dramatyczne sceny na morzu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUZ5RFVvSzk3eWFxNkZzRnE4c3dLMFJLSUZWOXd1RkctMnhKeWxtRzhWWmdibThsVHBwVXBHcmw2Qy16N2dwa1BHQmxibWVVYnJudWRocHFVY1czRDI3U3BMRko3T3ByUTZ1M1MtdTVhVHA1VzVUb2xEV19GMkdNZjI2TXZFN19nZHctcE1weGw0U05sQWNqMEhpSHNEVlpoSlczSEFMTkJOQlk4QjZMM3ZNRXpLZF91bi1qcndxNmNycnc?oc=5"
+      },
+      {
+        "title": "Gorąco na krakowskim Rynku. \"Przeciw nielegalnej imigracji\" protestują kibice \"Białej Gwiazdy\". Jest też kontrmanifestacja! - Gazeta Krakowska",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOclRkckZqd1VqZFFBanBPTFE0eFU2SDJrck5NMVZGNXlkZkdVb0p0UWpzNmEzT2p0WnRvMkFLZ2JpY05ZejZhZjVKdnk3bDdDUW0xR3BvOTJncHFyNVFBcE1kd013Y05rTTBnSUM2aWs1cjFOTENLbWFLNVNoR1BwYkY2c1Z1YzlBc040U1hyeUJPNENYSUtMSHRNTWswWlpEclRydkI1a1ZSd3lOdGdXWmgyR1FpVTRsbEZwWVotc1FMeTVMN2lFdDZZUW1YVGpLMEJyLUtrai1KUEJBMHJNem1ERFFtVUtvd25SUHZ3TnBZUQ?oc=5"
       }
     ]
   }
