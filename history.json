@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 22:16:04",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 428183,
-      "DOGECOIN": 0.85108,
-      "ETHEREUM": 12912.97,
-      "LITECOIN": 371.77,
-      "RIPPLE": 12.52
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Hołownia odpowie na list Bodnara. Co dalej z wyborami prezydenckimi? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXZPWTM4N29LcGVQbnB0bm9QSEdtM2gxNWtSTVkyczFvcXptcFBNY2tQZ3Z1UW00el9IMnFMVjN4ZGdXbTVVTF9CTF96YVJHU28zMDktUnZWMEVTQ202VUdnMnhUajBkZFA2MTUyUDJoejE4QWZRdGlfb04yR3ZvbGduTjZ1UU1nS1N0aEp0MHhvU1VKTjgxa2lPUlpmbElDUWdGaW92cUJ6NV9Na1E?oc=5"
-      },
-      {
-        "title": "PiS składa zawiadomienie do prokuratury na Donalda Tuska. Pismo przygotował Zbigniew Ziobro - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlGSXdnM3Z3RTBETlZKaW15TEltWVRkc3V5NkswOG9RMEdTSHUtWkRvQ3NkSDlnSk54SHJYY3NkUjB0V1JLcWdFQWM0VXNSSlhZS1d2VmJjVFUyYWZpZ05BNkZGbG1oaTIzNmRmSGJxT3VPdXE4aC0wOGJ2YmVrZkpzZjFJeDVnNGViYnRBdzlRZzZTZkg0SGI1ZllaQTVRZ05V?oc=5"
-      },
-      {
-        "title": "Ponad 300 km/h przez Warszawę. Niespodziewany zwrot ws. pirata drogowego - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmpkdW53eGZ2dUFiTF8yUEJCTXdiVFhlWmhoSkNxeTBTV0tnM3lZT0l3TnA1Z25IZUFBTW5GT0tBTDl4Y0lLR2RzakJnVEJoZjRZV21wWW5Cd1dFdDlXOWdOakJSS2hwOEtCN1o5M282VmJhWWtxYWpNQXVSWjQyTUwyYWZRamRkTkRaSGc5QUNwNUVYTWpoV05CYm1UVGJPa1o0UXZIMXoweHB0ZWJkNHhB?oc=5"
-      },
-      {
-        "title": "Sankcje wobec Rosji bez precedensu. \"Zmusimy Putina do rozejmu\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQktjVWZ0c19qODVLVnBvZG1WM0NxNUp0Y29Kem5uTUZvNXJxVHVBTGZYTVVNSU02TDlJNTZSSTBqSk01cnBwWk5ydXB2Snc3TnFrSV8tVHdMbF9WVzFVa3lINTBvZUgyQ25yenNxNXhzbjBhVDZEYUxTMGYyVDNJdy1KaW83eDNkc0hjWkFKV3Q4ZFRmaGJXRmFVdXFwc2RVdHp3bldRX1JwcGM?oc=5"
-      },
-      {
-        "title": "Kłopoty Obajtka. Jest wniosek o uchylenie immunitetu - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzNOS3V4VXN6WWFXSzlHSHozRi02WnZJUWZlamdlbnBtdExPLWpkczNrcDZVTXBiMUgzZkF0eEw3VFRuY3lLeGY1OTZzUl9pb0luLVg5VkVvNUNGWmN1Q1JyZU8yRVpRcXpudjBzU09vNUtoa0FXZ0s3cTZsUlhRMVMtME5Za1ZuS1ozS210ZUpmX3lSbzRRQTQyQ1FJdno5SzVmR2ZjTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 23:14:02",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2619,6 +2566,59 @@
       {
         "title": "Amerykanie ocenili działania Trumpa. Wyniki sondażu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2NZaEhVZC15VkFzaVpmYktJdm91QTg5UnBURTNaN3pwY2p0bTNSMTU2MHg1OVNCSWFhQk5INnJtN0d2Y2d4QmxIZk01Z2JMMVk0TGJtWGh1Tk1uLTRONHYzRjNhZk4yZEl5a0tsVGNYSFgwaVVtTWJZUXlUYUFSWEY3YzRZOG1lWklpejY5VnNja29MSTBLdA?oc=5"
+      },
+      {
+        "title": "Tragiczny finał gorączki złota. Wydobyto co najmniej 10 ciał - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVZ2emo5RjIxWU41QnFfbFk2R0tvMXJtT0VsTUotQmFPT1VZSkFtcHVuQTdxdGpSb0hYeVNtTUZIV0N0cVowWldGblo3ZUhONXE5amY0Rmx6Y1VzcWl4SHcyYVY0UFpfS3ItZkM3V19CYzR0Z3psNy0xdGUwZ1ZfTGxFb2E2a0VmTlFvQWpYV3lvandwNVNQcGZ6NUg3eEJLLTlOWWhlRnZvSUNqTGfSAbIBQVVfeXFMUHRjNVhoR3h1ZV9Qd05ZYVBFLTh4QXJEekFpMURMMGZWWE1ta3ZQdG1LLXRCMlBqRkFRRDVYc2NmYVBLVzRqd1lvY0pqVFZZYzRIalI2SkpHSG1pd1AwaEUzNVlvRWcyb0FvRExVcVBnNUF5TFFleHFVX1paLTN0WGlsX3VhWHkwdXBjWWQ2OTF4akU2SG95aW1rd082Q2VwaTNhZ1N2V21zZnY3OVlmV0tTQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-21 06:38:04",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 432775,
+      "DOGECOIN": 0.989258,
+      "ETHEREUM": 13763.34,
+      "LITECOIN": 431.24,
+      "RIPPLE": 12.78
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
+      },
+      {
+        "title": "Podejrzenie cholery w Polsce. Szpital podjął decyzję - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHFyNmliNlJ6VUp4UHNKbFBscWIwT1VFcU9ya3RObXc5SFlYSU9ITC1wLWtVWG1XSW9zNElYa01qcjVtVmxwUzlTYmlTSzdBMk9DSnBYRzFtZ0NVX0ZGWENTUDR2Uk90Y0lRWl9VeFhRT2FZXzJjei1RaktEdm55QktOb3dpN3dZem1wX0V5RUNQZkFlbDRPbG9JRndUTElxSHV3?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Liderzy koalicji zasiądą do negocjacji. Padła data - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzUxNkJVV19ETl9DNF9FMzA5N1hOOVZYTGtaTXp2TTA4dGR0RHlWeThISzdZT2lpbDB3Q1l2bGZReFJpMzNkUUlfSEJHWXBWM00yREVSUlAyMDJVd0g0MEY4YXpjM285RlBsNkRGOWlRX2l2ZWlMZHZLUW1GZVliOFEtdFZYODUza3Nvb2R6U25wMUJINFVqV013dU9ZTk1wcjNzXzNiMVhmdklucWc?oc=5"
+      },
+      {
+        "title": "Prognoza burzowa na 21.07.2025 i noc z 21/22.07.2025 - Mapa burzowa - gdzie jest burza? - Sieć Obserwatorów Burz",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb181aUxydGh3bWV2TzBfLTUyWVpQWEgtQnN6aW91RmFKY2QtU1FFX2JtOWtkUzdHYWlCeFJyb0Ewdk9JSjAxZWRCS0pJNEw0d011d1JfWm1KQUNrLTdYRXJIcUhVLWd3OW90MEFOU3VpWWRVZ1NHWWhYaXRMRGdzMk1NNVVCZw?oc=5"
       },
       {
         "title": "Tragiczny finał gorączki złota. Wydobyto co najmniej 10 ciał - RMF24",
