@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-18 21:12:41",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 428973,
-      "DOGECOIN": 0.859632,
-      "ETHEREUM": 12988.6,
-      "LITECOIN": 375.42,
-      "RIPPLE": 12.51
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Znane są szczegóły pogrzebu Joanny Kołaczkowskiej. Podano datę i miejsce pochówku - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN05PWE0yYkpnZHpEWHoza1JuUnJjN2ZhMjRXc2pRM3o3WDdzUUJWcVI2amNNQ0J6VmZvMnA2QkQ3RU5HRWw0OGpNV0FucWlKTldyam1oOWI0c0VnNE5vUGZrZG40NG4wbjFmdHJYZTVfMFh0QlA2R1duYkZOV0piM3NYZFdrbWREWUlVanUxcVp0ZDlyWnJZVDh3RTNReEJuU2dSX1ctOUxmMXlKd0lubGlubk1DQk0?oc=5"
-      },
-      {
-        "title": "PiS składa zawiadomienie do prokuratury na Donalda Tuska. Pismo przygotował Zbigniew Ziobro - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlGSXdnM3Z3RTBETlZKaW15TEltWVRkc3V5NkswOG9RMEdTSHUtWkRvQ3NkSDlnSk54SHJYY3NkUjB0V1JLcWdFQWM0VXNSSlhZS1d2VmJjVFUyYWZpZ05BNkZGbG1oaTIzNmRmSGJxT3VPdXE4aC0wOGJ2YmVrZkpzZjFJeDVnNGViYnRBdzlRZzZTZkg0SGI1ZllaQTVRZ05V?oc=5"
-      },
-      {
-        "title": "Generalski awans brata Adama Bodnara. Seria wyjaśnień z rządu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaG1ycElycnBlb2hpSUVBTVEyMVREVUZvSmphWGs1QXBKc0lpb3cyOVNZcV80OWh2QkJKaDlvS1FoSFBZNWhMeUVZdjAtUnZwb1NrNzRMQ3RzRTRCaldGQjh5NzBvR19TUmNJZzE1ZUZqckpfRGVoZEdjMkpsVU0yamRyZ2FrakpreV8yNV9qWThja2tPeVlDeWtDbTV2UWQ4RXVya3ZnYVNZV1ph?oc=5"
-      },
-      {
-        "title": "Poseł PiS uderzył w mundurowych, ci odpowiedzieli. \"Pana wpis jest prowokacją\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWV1YmxYcUJEWkRVM2V0eUI1a2tZTlRjZDFGUXJsT08xS2NoVF9PbVhYNVJMMGxxWDVfcWRuX0ZzWW5WamZjcGV4ZUhzdFpXNU95cms3NVJ2OUJrSmxzUGxNM25OSHJEZGl0Yjh1ekNMcWFoMGRBUmp3Q2dOWWNURWIxN2h6aURHSFFqTnhvNV9MeWctN2o4eGlmZTU4dEFxNlRSV1JGYTU0S180Z09NOFhJdGFDVDYtbV9PNFBn?oc=5"
-      },
-      {
-        "title": "Rosja szykuje odpowiedź na sankcje UE. \"Podejmiemy działania\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEhQdGc5dW5XUGRMWjU1ZGNsUFVHdDVYQmFEVDRwdnZBa0F1cHI4WnUzRm9vT1p6c24wb0ZtLWhBSk5YZmtjeVpydnFrUjZFeERwSXM0c1NZZUttYnRScHBydzRwajBldFFiY2I4T183NkN0c3otZHhiUE5yRzhQbk9aMjBiWUJhNHRKYnUwbFhmZDFrX3ZWMEtndGs5WWFoMnpQd2RPNGctQU9uX3JWbE5fZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-18 22:16:04",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2623,6 +2570,59 @@
       {
         "title": "Awaria samolotu lecącego z Polski. Piloci wysłali sygnał „Mayday” - TVP Info",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGJjZVBOMWhheTFBSmpVOEhRLXM5ZU1CZTlKNzBrdk5yUUE3TVJNejVrZVBwY3lxZERGSUNubG4yOUhBZlF1YjVmTUs5eTZQQlhiLTJ6TDhMbnlTQV9haHptUjNDMEtTcXVJOWYwZDNKXzg1dHpFN0Q2VDMxLUlpZUotaXprMm02RlI1RXE4ZG00ZXFEQnN4SV9qOV93cjljM2h2NVl4dGhaVXoxSWtZRGNINUJ2QllQUXgtSU1MM0ljV2dzbG95SnZObV9NTGpt?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-21 05:40:07",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6535,
+      "EUR": 4.2509,
+      "GBP": 4.9089,
+      "CHF": 4.5537,
+      "JPY": 0.024585,
+      "AUD": 2.3815,
+      "CAD": 2.6618,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 432930,
+      "DOGECOIN": 0.992165,
+      "ETHEREUM": 13719.92,
+      "LITECOIN": 428.87,
+      "RIPPLE": 12.73
+    },
+    "indices": {
+      "^WIG20": 2964.25,
+      "^WIG30": 3828.81,
+      "^WIG": 3828.81,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Podejrzenie cholery w Polsce. Szpital podjął decyzję - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHFyNmliNlJ6VUp4UHNKbFBscWIwT1VFcU9ya3RObXc5SFlYSU9ITC1wLWtVWG1XSW9zNElYa01qcjVtVmxwUzlTYmlTSzdBMk9DSnBYRzFtZ0NVX0ZGWENTUDR2Uk90Y0lRWl9VeFhRT2FZXzJjei1RaktEdm55QktOb3dpN3dZem1wX0V5RUNQZkFlbDRPbG9JRndUTElxSHV3?oc=5"
+      },
+      {
+        "title": "Anomalie podczas liczenia głosów. Bodnar mówił o zaprzysiężeniu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVUyVUVkYkRMb0h3eTF4ZlQ4empnbG1QVzVrQi1WNWJuamV2aE5RLXpaVFNNYkZ5RTJUREk5RDA3ZUhXYlhhWDlIVVloMFVHdU44QVBoNXFlVnF3dGN5Ujlwc25wVFQ0cUF2U0p4YjdkYVZhTXFvTTk1cXZ0RmVqX0E0R292SEdJdm9sOHpKQ05sZl83U2tWVDhGZzFnUWFwaWs5MmNPalo?oc=5"
+      },
+      {
+        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
+      },
+      {
+        "title": "Amerykanie ocenili działania Trumpa. Wyniki sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2NZaEhVZC15VkFzaVpmYktJdm91QTg5UnBURTNaN3pwY2p0bTNSMTU2MHg1OVNCSWFhQk5INnJtN0d2Y2d4QmxIZk01Z2JMMVk0TGJtWGh1Tk1uLTRONHYzRjNhZk4yZEl5a0tsVGNYSFgwaVVtTWJZUXlUYUFSWEY3YzRZOG1lWklpejY5VnNja29MSTBLdA?oc=5"
+      },
+      {
+        "title": "Tragiczny finał gorączki złota. Wydobyto co najmniej 10 ciał - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVZ2emo5RjIxWU41QnFfbFk2R0tvMXJtT0VsTUotQmFPT1VZSkFtcHVuQTdxdGpSb0hYeVNtTUZIV0N0cVowWldGblo3ZUhONXE5amY0Rmx6Y1VzcWl4SHcyYVY0UFpfS3ItZkM3V19CYzR0Z3psNy0xdGUwZ1ZfTGxFb2E2a0VmTlFvQWpYV3lvandwNVNQcGZ6NUg3eEJLLTlOWWhlRnZvSUNqTGfSAbIBQVVfeXFMUHRjNVhoR3h1ZV9Qd05ZYVBFLTh4QXJEekFpMURMMGZWWE1ta3ZQdG1LLXRCMlBqRkFRRDVYc2NmYVBLVzRqd1lvY0pqVFZZYzRIalI2SkpHSG1pd1AwaEUzNVlvRWcyb0FvRExVcVBnNUF5TFFleHFVX1paLTN0WGlsX3VhWHkwdXBjWWQ2OTF4akU2SG95aW1rd082Q2VwaTNhZ1N2V21zZnY3OVlmV0tTQQ?oc=5"
       }
     ]
   }
