@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-19 11:13:58",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431673,
-      "DOGECOIN": 0.924143,
-      "ETHEREUM": 12995.84,
-      "LITECOIN": 372.23,
-      "RIPPLE": 12.55
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Protesty przeciwko imigracji w całym kraju. Ważny apel policji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2lPMEpWVEtoYjA1dS1LbnJNZGpMZFJLTExXVVYwRGZTb0tkN2VsbzdYMzJkbTk3LVl0QkstMmdZMHptZnQxR1RBdXl6NGlENGkxV0lpZ2NveTVDZjBmbE9EYlRsS2NFOFZkNUN6VnJQamgzWFptN1liM0dqODhsb3RnVGVBd2hxTmpYWHB4SVBKV0JVVmktTjJlSDMtZGRSeVoyNnQteVM4V0otcEgteWYza2RzNW9QdzZvTnNfdTBHQQ?oc=5"
-      },
-      {
-        "title": "Polska poderwała myśliwce. Rosja zaatakowała blisko naszej granicy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaV9hMlBrdllFUWpCbnlid2hsWTNKS0F3M1AxSmdZQ1ZTNkZ6eDJpODNRYW9YLUlvU1EySk94X285OXo5VjU3alRTaVZ5SEVPbllGS2ROVzA5T19fMzV1RjJCelBJZTd0c2wyYlVMQXZlRG5JWUhIMmsyX19SSDIwUHNUQmw3eS04Tm1VRlZudUY4SFZzcjEycDBwdnBuYWp3R1pwXzhLQ1ZhNEh4eEhvMjBpRXJMQQ?oc=5"
-      },
-      {
-        "title": "Trump rozważa siłowe odsunięcie Zełenskiego? Nieoficjalne doniesienia z USA - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUtZeHhOSEZiMWtnSFNfVjNQVGhGWVRGLWMyTEt0SEVUcG9vM29LQlJobmRoUlMzcEFZY1lZWWgxLUpzWXFhOHJkYzZJeEJXYXBNY3k4bmlQc0t0dXQwLXJrQUNKNndTdlc5LUJwWHpfbWpHY2pfRUlyNFB4V0Q0bG9yQ3ROT09TOGt2UE9hOXU2ME40TGgzQXZ3cWpMNzMwZ0tUeXY5Zmgza1JTaWozckpTRXIyOGJwNjVGTDRERFJSdw?oc=5"
-      },
-      {
-        "title": "Nagłe burze w piątek obejmą te regiony. IMGW wydaje ostrzeżenia meteorologiczne. Ulewy 30-40 mm, grad i wiatr 70 km/h w Polsce - Fani Pogody",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rYm0tYThuWjV3TGxpZk1POWxYRFpIX0RrMWVJMGZaUThLNC0zcVc0YUZRcjFlNTFZbWxQdF81dWE1MGJ4S2pOTWRiUlFyVlVLZjdKUUptdWgwQWdtS29VeUZqNnhzY25hejNRZ2pfTWVvQUVkQ0F1NGNWcVk2ZUk?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu. Układanie kostki rubika zamiast konkretów i nadziei na trudne czasy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BSDIxLXE1R2lYbGU1M1EwcVFfdW1uYTN3YjBVdGk0LXY2ZXdqMkdnMTJKcjBFZ05RSW1aVVVlOHZSMnh2MXZZQk14WEZaRmVNdUNtN1NKOVRoQ21QUlBiN2lZX2pndklQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-19 12:14:30",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2621,6 +2568,59 @@
       {
         "title": "Sensacja na Bałtyku. Odkryto największą czarną żyłę złota w Polsce - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWlvdDNrd1NZcm1KVDdQc3pHb0c0d3pSb0NvM3kyWUo3YTBaNE0tLTVVXzlmNnFDakp1cmk0VnRSYTAtb0djYUpHaFdkOWEwVHdwb2MwTDR5RlR6TUJiamhpUldxN1BoajJ5a2JPWnFKUV8tNGJkaV9reFlxZV8xZFIyamFqLVl6c3VMTEU4bWlCQQ?oc=5"
+      },
+      {
+        "title": "Para zatrzymana za znęcanie się nad 5-latkiem. Zareagowało przedszkole - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanUzc0sxZ0FPX08wazV3T3dvd3pCV1ptZFlhUkRsOUZ5RGJpb1prNS1NUzRReXdFTDQ4Vmg3cUtEbThlYVJmbF9pSlNaSGlZREdUNWVoUzlJSmU1ajV1NEh1b091VV85ZHhXMXVCLXJiQVd5Q1Q2clVPT25WaGpYSHp0LVJrXzlKdEJFbFU2T0FsUEdiMnpfSzJYUFVzSmx5VXdtRE45TVBMUHhVNnpueEh1OFJveHdneTY3LVZJOW1rXzdESExCLQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-21 17:16:15",
+    "weather": {
+      "Warsaw": "Warsaw: +28°C",
+      "Kraków": "Krakow: +31°C",
+      "Gdańsk": "Gdansk: +24°C"
+    },
+    "rates": {
+      "USD": 3.6455,
+      "EUR": 4.2445,
+      "GBP": 4.9041,
+      "CHF": 4.5554,
+      "JPY": 0.024651,
+      "AUD": 2.3758,
+      "CAD": 2.657,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 430928,
+      "DOGECOIN": 1.009,
+      "ETHEREUM": 13936.85,
+      "LITECOIN": 430.05,
+      "RIPPLE": 13.16
+    },
+    "indices": {
+      "^WIG20": 2949.94,
+      "^WIG30": 3811.79,
+      "^WIG": 3811.79,
+      "^NCINDEX": 257.65
+    },
+    "news": [
+      {
+        "title": "Lech Wałęsa odrzuca zaproszenie na zaprzysiężenie Karola Nawrockiego. \"Gorszące widowisko\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb21PWUhJYTItejlvdEFkQ3V4cWlUV1ZQemZIN2pkNzVJZ3o4bU0tclprUUl3cGhXR18tZTRRSEJlS0Y3bTBrLUxZdXFUSVRvOXRXZzN3OHJoWjhBRHlFcVVXSWlZblZhY2hpbXkyR2FmQWYtUDl1b0hoc0pUQTZlbzkwMTJaUXMzdUg0YnNBRW9rWDM4OTI5d3JnRERTY01oakhOLWQ4UWlXem5sVG02M1FVdHN1SDk3eWNodlB3dw?oc=5"
+      },
+      {
+        "title": "Media: Czesław Siekierski do dymisji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2xVZ2Fvd2dKWUNXaXNJYjJmQnJKemY0bzY5MW82MDJ5cy1ZVVpvbWtWWjBPRjZ2b2VSdlQxQlFxMFZDRGJPazh3VjZzN1k3SkVYaVNUdEJRYVhPcXRTOUJKNWQtNl9YblNTNWdMcXA0OUNjTTNDTnM2V2lZU3RWdmdzYkY4TDViaVZrUm44djZ5V1Vi?oc=5"
+      },
+      {
+        "title": "Sensacja na Bałtyku. Odkryto największą czarną żyłę złota w Polsce - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWlvdDNrd1NZcm1KVDdQc3pHb0c0d3pSb0NvM3kyWUo3YTBaNE0tLTVVXzlmNnFDakp1cmk0VnRSYTAtb0djYUpHaFdkOWEwVHdwb2MwTDR5RlR6TUJiamhpUldxN1BoajJ5a2JPWnFKUV8tNGJkaV9reFlxZV8xZFIyamFqLVl6c3VMTEU4bWlCQQ?oc=5"
+      },
+      {
+        "title": "Groźny wypadek na autostradzie A4. Są ranni, trasa zablokowana - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTRaUDFQT0Z4MGZ4ZGF6eDhYR284a0JfMDYwOTdvSXM0TExtYXVhUGg0c2dZMG11TDNaR0RJcHlSU0RXa2dMTGlFMUp6WGxHZnZyZl9zYWxTMml1YkZTRy1uQ01DUmpLTjRQQ0dMZTZGeVNPZ1ZKRVJsNUJPTDRYMVo2T3NLamlaQV9GS0xMZEJtSG5GM3FpU1lJMXRLcmJkbDdWU1V4d0djTWRHMmVjeXhBd3pyTmNwV0Zj?oc=5"
       },
       {
         "title": "Para zatrzymana za znęcanie się nad 5-latkiem. Zareagowało przedszkole - Onet",
