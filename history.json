@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 06:37:17",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431362,
-      "DOGECOIN": 0.929722,
-      "ETHEREUM": 13359.56,
-      "LITECOIN": 413.97,
-      "RIPPLE": 12.54
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Moskiewskie lotnisko wstrzymało loty. Atak dronów na Rosję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWRuS2ZybjRtREpSMVlYamttUlV0bmFyamdnNHNnWnlGakVJYmhEWkZ4VFZjcV9Mb3FzSUphc002WmROMDBVcFlYUTF5TmI2YTV4NWxIbTVPSENEelBMWGxpVkF4MXlzUzhnYThsX19kX1RoWDJKT2g0Vy04MlhzSGFULTN1SzlKODhoNFpFMExBZ1JhVlg5MnJiSW1NYnM?oc=5"
-      },
-      {
-        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
-      },
-      {
-        "title": "Zełenski: Należy zwiększyć dynamikę negocjacji z Rosją - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkVKS2NHOTBndG1fUHFqUkpFVjNwUVIzNDQ3dE5hQ0RhanlWYkpaUmpKdU15VFdGRHVzOWktckpsMkY4Z29qcUlMTlZuQW84V2FibVB1b3E5NmtxNXpJTzBSNDQ2S01VOF9URGFvbk9jeXhWQmtVbG51YmRNbXo0T2pKekRRNWFjNS1KQnBCYlc2N0tDSC1uRGNmZw?oc=5"
-      },
-      {
-        "title": "Rzecznik LOT: w powodu awarii systemu zarządzania ruchem lotniczym - opóźnienia do końca dnia - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEdPbk5keE9nU1k4a0FJTk05X2VIcFcydXlJV19RVWVMVDYtSFdlaG96dEFxMWZ0WGpmaEkwdkt2cXNNLVZHRnhYZlg4N1EzUDhJdU8zS1ZORy1iTDBUMmJqc3JGVnN2a1QzUkRySWJqbWxhRW16N1ZpVG9FZ3VFZWE5eWZlN3AtNThhTHpBdFJZQjhhaEhlS0pDQ3g4ejBDVFVwT1dhWjFsSFRXYkVUdnNlSUJlWVE?oc=5"
-      },
-      {
-        "title": "Sankcje UE na ważny fundusz Putina. Zarządza nim człowiek urodzony w Kijowie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFlJc3BULUtTWG5vX0VabEVXSU95R3R5ZGdKN3BMajFtQnlfRk5QMVV1UzJ1MFMxT215MVY3UW5xcE5ZZGg1Wl8xaEdYbmYwMmN4cnM1UjF1OFg2cHFCRzViNTA4bUduWkRYU2lnZFU4Q0xBZWJoQ0JwRzYwXzNuTFZDV3hkOVhzMDJjRW1IQWNVN0xEYXFuOE1wSFppUlRjeEl4cVUtaVhCRWJYWExLNWp4bDJlOGw2bFpR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 07:20:09",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ministra o rekonstrukcji. Ujawnia ustalenia w sprawie Polski 2050 - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3p0WmFxY1JCbUY1MTFjTXRvV19aQkpqNjZzR1otcjVnQ1AzNFlkOWU2TjJibHljSWtDUHBqSmVhQzdaRHR6MXE1bFJtZFMxS01pMnRiQllmek9CZl9leUxhOU5xNWxaX0pBajdmVWNfREs5dzF1VWhpWlNScWFLa3ZRYmxrSDR4dXlqb1A4VTNURVVNQVdlM1JOV3lFU054TWVSSU9DVzMyRzl2cGF0UEV1SW1ObTA2Z3dhR3ZjQkdBQTdPVkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-22 12:16:15",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 430545,
+      "DOGECOIN": 0.964678,
+      "ETHEREUM": 13338.28,
+      "LITECOIN": 414.93,
+      "RIPPLE": 12.64
+    },
+    "indices": {
+      "^WIG20": 2933.03,
+      "^WIG30": 3791.03,
+      "^WIG": 3791.03,
+      "^NCINDEX": 256.87
+    },
+    "news": [
+      {
+        "title": "Pierwsze zatrzymania Prokuratury Europejskiej w Polsce. Sprawę nagłośnił Onet - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkNBeFZfa2J6WlpqbG1wWkowT3UyMjE5Q2xfdi13VFBKZnF0VmlabV85eUR1M3l4RllZYUJoVGNnTzNjQ1B2OVdER2NFZkRUMGNEbUpSc2dFUlJ1TV92dUVqOVdWdWhpbmpDTVBycS1XRUdrZTl3STRoVE9qZ185OFNmZHpJc240LTdRRDZBTW1vMFNjSS1ZRTl2WkFHZERLUE5XQk0wdzkzWnRWMlZoSmNEbFVjQjU1WHlWZG1fSTNENzdMMldkVEhfQTVTWFRTVGF3?oc=5"
+      },
+      {
+        "title": "Tusk musi wywrócić stolik i przyspieszyć. Potrzebuje takich ministrów jak Sienkiewicz i Kierwiński - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVNPNmU1dnZTdUlTd2FSWThXM3ZKeEhJV2JEaU1xSGNRMDVGb1ZqUE00M185dHo4NGhRbExvUk42YXM5eHVTWXlPdmwyeHl4SWYzbnRTT21EblBBS1hnRHFFVDhDa2FFMzZLc2FXeFlDanhDYVNWT25jY3hPNTdJYThXc2ZJNVQ0TUlKNEIzbmFkNDR3MnItTUcyYkd5SV8zZWdzSFJaVGpvcUVkcGJJbENmb2ZqUQ?oc=5"
+      },
+      {
+        "title": "Ministra o rekonstrukcji. Ujawnia ustalenia w sprawie Polski 2050 - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3p0WmFxY1JCbUY1MTFjTXRvV19aQkpqNjZzR1otcjVnQ1AzNFlkOWU2TjJibHljSWtDUHBqSmVhQzdaRHR6MXE1bFJtZFMxS01pMnRiQllmek9CZl9leUxhOU5xNWxaX0pBajdmVWNfREs5dzF1VWhpWlNScWFLa3ZRYmxrSDR4dXlqb1A4VTNURVVNQVdlM1JOV3lFU054TWVSSU9DVzMyRzl2cGF0UEV1SW1ObTA2Z3dhR3ZjQkdBQTdPVkE?oc=5"
+      },
+      {
+        "title": "Nowe doniesienia ws. zabójstwa Polaka w Grecji. 'W 100 proc. utrzymywała się z pieniędzy Przemka' - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkVlc29WZHhoRGRpbGFtakhSem5XamdpME1xcXdtQmRLV2huemdyUzFKazl3MU1MSHpobFlZQ0NLeVlOOFZKcHRoLTliMzkxbjdGV1JnYWFYcDdQWWxZUWhuX2U1MDhSaVAzOWNoX0drZDQwOC01Z1dGX0xyc3BydmRuUFhUaWkxNW1WUjA5Vkx5Nmx4RVpZbEVzYm1SbFNaaW9tWTVMZ1BOa3JJaEQ0Yktya3dER3k1d29Z?oc=5"
+      },
+      {
+        "title": "Waldemar Skrzypczak nie żyje. Generał i dowódca Wojsk Lądowych miał 69 lat - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVExmVUI0WUJGRktESHNVR3pRUkVmeklBLW1taEF4LUdBcHBQX29UTTVUeG5Cak90dVpTZjdfT0ktMElFN2ZOZUprTFBlRFVRTEhGTVdUX2ZGSUo4S09CbVlPZDlMbXFZSTZxREk1SUVTWVZteXNCX015aEtIQUM1ZEMxcWtUTnZjNWhkbk5qajZKeTJDamJ2TFFLUXNlRjJOajFseWE3MEJOckxGQmR5X3VTVEFOTGdtZkVIMWtucng?oc=5"
       }
     ]
   }
