@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 16:12:50",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +25°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 432815,
-      "DOGECOIN": 0.928054,
-      "ETHEREUM": 13688.98,
-      "LITECOIN": 426.88,
-      "RIPPLE": 12.84
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Cholera – objawy, sposoby zakażenia i leczenie. Jeden przypadek wykryto w Polsce - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVU5VTRBbUJHU1RVaXJ4TVZSVUs3VFF3VTJReUZsZVRXXzZWaXFobXFnRHRzcnpRVlVVMzBzTVVySnBUbDd6STZWNHM0YU5IVV9TQlNMU0tZcmlobHhDclU1NWFUNmU5QnZQX2VXbzN6M1k3UUM1X25zTDBWLVpiUnJsN0hmSlkzbVlJejR2LVY1N1ZqelZrSWxiNVdwX0ZO?oc=5"
-      },
-      {
-        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
-      },
-      {
-        "title": "Kardynał zapowiada niezależną komisję. \"Kościół skompromitował się i kompromituje się dalej\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWY1UkxqVS1ubXg0T0t5cW1Nb3VuYXRPcS0yY2VLWjVFTFRsaFplX05fbURsUmVTMF93Y09PRERnWTBkQmF1aWpKSjZ3c2xRZExhM01MQ1BSaU9RaVhUbDJaUmEzamVxeTRPRHM0cnRwX1c3endzenRKT25yYjFJbHhoUk9JeDNLTjhmNDB3a2RXR3BJUGtwLS16eGcxQ003WjRSMW9iaEo2V3JRRGY4VXUycnnSAbMBQVVfeXFMTUNiRDJjMWJzZzRONlJyNzhrM0gzcklyeEpCTDM4RTY1b0ROT0Vfc2ZzRG9vWDR3WnNKa0hheHZsRENzN1lWYl9ISGR4LXZEWWRUS0dvWFhYcUxlTjh4enVVNk54dVJPT1JvYjBXa1NfTFBCdjlibTJBZ205TTRLT0VFU2ZubUd2TWFxNG53RGFXamtHdnExaXpzOE5FNVVfZFQ3VnZKWDNBTFhleGZnZVRpdEE?oc=5"
-      },
-      {
-        "title": "Potężny pożar indonezyjskiego promu. Dramatyczne sceny na morzu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUZ5RFVvSzk3eWFxNkZzRnE4c3dLMFJLSUZWOXd1RkctMnhKeWxtRzhWWmdibThsVHBwVXBHcmw2Qy16N2dwa1BHQmxibWVVYnJudWRocHFVY1czRDI3U3BMRko3T3ByUTZ1M1MtdTVhVHA1VzVUb2xEV19GMkdNZjI2TXZFN19nZHctcE1weGw0U05sQWNqMEhpSHNEVlpoSlczSEFMTkJOQlk4QjZMM3ZNRXpLZF91bi1qcndxNmNycnc?oc=5"
-      },
-      {
-        "title": "Gorąco na krakowskim Rynku. \"Przeciw nielegalnej imigracji\" protestują kibice \"Białej Gwiazdy\". Jest też kontrmanifestacja! - Gazeta Krakowska",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOclRkckZqd1VqZFFBanBPTFE0eFU2SDJrck5NMVZGNXlkZkdVb0p0UWpzNmEzT2p0WnRvMkFLZ2JpY05ZejZhZjVKdnk3bDdDUW0xR3BvOTJncHFyNVFBcE1kd013Y05rTTBnSUM2aWs1cjFOTENLbWFLNVNoR1BwYkY2c1Z1YzlBc040U1hyeUJPNENYSUtMSHRNTWswWlpEclRydkI1a1ZSd3lOdGdXWmgyR1FpVTRsbEZwWVotc1FMeTVMN2lFdDZZUW1YVGpLMEJyLUtrai1KUEJBMHJNem1ERFFtVUtvd25SUHZ3TnBZUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 17:13:51",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Negocjacje w środę. Rzecznik Kremla wprost o pokoju z Ukrainą - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTBwQjBHRkc3WVd0T2xrYjdnQ0J2aTd4R2RYakZ1aDdUMl9YRy1WZ3NwbEdGUHFOT2NhNUxmR3NYMWhHazFxSzRJM0N2OFBmRTR1OEtQWVN6RDJzOHpBWDRIVHdXS1ZSbE9Ma0dkYUNnbEY1VnE3SjdxZVpNcVo1cEFQbnVneEs2QXZYWGllTVNiczRqWWUxdTFvWWFxVlpBTnhxUjVlM0F4TWNjMUs2cUF0bi1EZmxUcGc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-22 22:17:13",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 433000,
+      "DOGECOIN": 0.947181,
+      "ETHEREUM": 13360.15,
+      "LITECOIN": 423.26,
+      "RIPPLE": 12.82
+    },
+    "indices": {
+      "^WIG20": 2929.23,
+      "^WIG30": 3784.76,
+      "^WIG": 3784.76,
+      "^NCINDEX": 257.27
+    },
+    "news": [
+      {
+        "title": "Ozzy Osbourne nie żyje. Dzień przed śmiercią opublikował wymowne zdjęcie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzZ2UTFxdFV4R2F4ZXJmMXprdDIyWTE0Z1dzVEZybUVCc25NUDZTcWpCMVNzVkU2T0NHbVY5MWpJbElCaHNSS0RJNzZObktWcG9LT2FrY0hpN0hFSFU1eXV1NWEzTkpjU2xidC1Ib1JJU3JxRmhwNW1wNi1vNFlWZzFBV1hZX2pRaGlRUDlBbXNMRnB2endGd2NDOTVNWWN2SVRoejJtWG8xb1duaF9qbHJyc0E0UXBqUy1HOHlyaG0xVEU5SlE?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
+      },
+      {
+        "title": "Nitras żegna się ze stanowiskiem. Lawina komentarzy w sieci - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFo0dmt4LVFxc3E2bmZZdHN3MURVYUpUaFVnTWs1U3BUTWZGYjdVOWFnR0NkLTZRc2ttd1lvMzhtbVFWUWdwRFV1SmY0YV9VX3dfeFVBbnZQa1VmamEyREtEbTBWY2hScVRRRjlkQU51OW1GUUthaEZGaE5QRFNDVEliSXU2MmRMQWYybWJ3blQwVm5fanRiQUF5QVhmSUVwYmVZ?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Rząd bez Leszczyny i Bodnara. \"Wyborcza\" dotarła do listy nowych ministrów - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelMtMGlTYW11STZOXzR0R3I5Mnh5MkxmdWhHTnIyY3hwRU9xMjF3aTc5WkJQUzd2blR4bU5oSXhMMG9WNGI1cktiMmtNWWpmLXFTbGY1STZ2aDExMExBYWxtWEFYMFRacFJPcllmTERhTURfYVljZzNTVEpzcGlVdDM3X0JBbWFRbjh0cmxTaFFUM0t1ZlNOdFl2Q0hfMmhIMFBneXFR?oc=5"
+      },
+      {
+        "title": "Ukraina: Rosjanie wdarli się do kluczowego miasta. Krok od katastrofy - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2hBUkdtMEROSEt4VWdCZjR0cDJ0NGpXUk5jdlZUajNfUndSMW1nZllINndXYjI1LXVuNUpfeGVLM0g3U3dvSWd2Z25LUC1Ec0F6eXFZZnQ0M0c0ZVRxVkNfZ2tLWS1OUU5hUEx0ejVWZ0xrSEpPUnVYcm9MdDhmdmp2WE5JZ0hPcVVGcnJHakUxdm50b0VPLXA0RGgxY3NzWFZySFhUc09kUlNXUWNUQ09yZFlGWU9KUlBZREh1TXR2blp5YmfSAaMBQVVfeXFMUHVJU3R0TUUxN0hOWVRqSDJQaFFVbkJvY2dKblh5SFExQ1h4QjdTR2VPX2VNWHhHTWJFMjFsWW1vVDVJYU5ZRmNxUXU5WFZ3NGF3RHhkSzRPTGFNMjRjdEpHTDJtYzBrbllpSk9JMV9mcGl5QUtiMlFFeFhUelN2MWhwbG9hY3NuRVktd015NkRYOHVXVnhCbjY0RzZnUFhMZXAtcw?oc=5"
       }
     ]
   }
