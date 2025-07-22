@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 18:16:46",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +25°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 433500,
-      "DOGECOIN": 0.960538,
-      "ETHEREUM": 13812.14,
-      "LITECOIN": 428.57,
-      "RIPPLE": 12.88
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Cholera – objawy, sposoby zakażenia i leczenie. Jeden przypadek wykryto w Polsce - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVU5VTRBbUJHU1RVaXJ4TVZSVUs3VFF3VTJReUZsZVRXXzZWaXFobXFnRHRzcnpRVlVVMzBzTVVySnBUbDd6STZWNHM0YU5IVV9TQlNMU0tZcmlobHhDclU1NWFUNmU5QnZQX2VXbzN6M1k3UUM1X25zTDBWLVpiUnJsN0hmSlkzbVlJejR2LVY1N1ZqelZrSWxiNVdwX0ZO?oc=5"
-      },
-      {
-        "title": "Słup dymu nad miastem. Pożar w zakładzie chemicznym na Mazowszu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzh5aXVQRUt5ZURBaDEtT1VqUW1Wai10U2tPRVhCUml6ZVNZV3RMRnpPYU5BdndFcktPRk1Zd0hfSjhRdEYxYVlYTkY2RUM5aUpybDR1TlVPSkh4RzdlUWljLWt3OXZGdGd6c0VFZDduUVRScW9DNkM3UU03YUhjdFdWVk1kT0l3WGxjNm93UnhEcExmbTRvb0JqRUtFZEdGNnI4S0dVWjlRM2xUbW5GaVJB?oc=5"
-      },
-      {
-        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
-      },
-      {
-        "title": "Awantura w studiu. \"Są jakieś granice bezczelności\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXdUdjVrMUV4cjI2QmZXS1EtZE54LWxpbHFPZU5zREtYempVUVdKUzY2eFFKM0RlZ0tQWFItby1HeVBDSllCZGJCWU9KYm9HS2VCUnpSVW11MHA0NXlFS3BVWkM3TlRNYnFoMjdzc2VsNHBTcG9fVDN6UW9rVExlcG0ydGdMU25xLXlKTXhleXE0WkNya2c?oc=5"
-      },
-      {
-        "title": "Rzecznik Kremla zabrał głos na temat celów Rosji. \"To jest najważniejsze\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUhiRWpaQ1pES09fOXM3b3ZXaUVUZnM5R2VjdVhOS1VjUnA3VENSTEhTRVJZVmJiU0M0YkpFdHRTeE8wbkp2anRoYmtWUFVvcDhuMFBOb2dpbkNPWTRmUkN2aHBxcVowLUg5LUhPUUZ0RUZIR1NHYnp1dVczbDlzSFVuYm43NXM4R3U0aUVFTUNmdmk3bDhGWnRMVFI4OWRtWlpEU2g2YmVqOGpJSERyNHJYNVNQMlVZb3dMR1FmcmdBNVp6VndPbTlLdXJDQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 19:12:19",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Francuski myśliwiec rozbił się na Wołyniu. \"Doszło do awarii\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUw3cEk0ZTlYeU52dUFIMEYtZDE3UkZ6cnNOZWtCdjFrVWtKbjJrQlFaT1hHdDZWUUlqdlc0bzNpeGZrSWZORWNKNVlWYXhpWXpWa3ZlSTFMWmJwTnFoSXBXdTJyNkp4MGc0S0p3Q0JMbFZnMU53SGkySndQRkNBdWJ5TkRaWHpRVFhjNlVHNV9scDFxUjNZcS1OQll3N2dn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 00:14:17",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 433105,
+      "DOGECOIN": 0.963148,
+      "ETHEREUM": 13438.69,
+      "LITECOIN": 427.79,
+      "RIPPLE": 12.8
+    },
+    "indices": {
+      "^WIG20": 2929.23,
+      "^WIG30": 3784.76,
+      "^WIG": 3784.76,
+      "^NCINDEX": 257.27
+    },
+    "news": [
+      {
+        "title": "Ozzy Osbourne odszedł w wieku 76 lat. Choroba odebrała mu siły, ale nie głos - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNklSZlR1d0tXVlBTMGFWY3hFMHFXcGtETi1Dem5hQnNxNGRZV2FrS0NUbVVnd2k1RGV6bjRPWUQ2N2lmSmw3dkR0XzJHbFhyOTRfUm9sY3FCNHpxWHNYY1hrZ3lqU3lCT2diVlZRT2oxU1FiV2xMMDB3QS1KamdEX0tMdExRTVZxN3RiOXNFeTVGNFI5cHhYcjhCZzFRdFdqMm9YTmw5aWtHd0E1NUFlTS1XMlJmMVhnUWZKRmNJd0RrRXpzYUlHRFA5MlFBbXhOSmZ3TGJaSQ?oc=5"
+      },
+      {
+        "title": "Polsat News nieoficjalnie: Tak będzie wyglądać nowy rząd Tuska. Pełna lista - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONG8xUTNUMGE1cnZuZHNFdXlOdEFWd0tuVUdaSXBKVmRYRks3cDVGUVhzVHBnWmJNWElxQlVOLVdHTmJQZzJYeHJuRU5oYjQ0VlRIRXVMOHlyamJMVGNMVjBIQWdxTjZwbzItSkdNOS01Y1ZxM2xSTkF1WHJDbVc3R21kbzVGRTVCUGZXcVVqekhTdElTTFlsSlBIMkpXYU1OaVFsRG5UVUtjOEU4S29Sc0JpYw?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Rząd bez Leszczyny i Bodnara. \"Wyborcza\" dotarła do listy nowych ministrów - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelMtMGlTYW11STZOXzR0R3I5Mnh5MkxmdWhHTnIyY3hwRU9xMjF3aTc5WkJQUzd2blR4bU5oSXhMMG9WNGI1cktiMmtNWWpmLXFTbGY1STZ2aDExMExBYWxtWEFYMFRacFJPcllmTERhTURfYVljZzNTVEpzcGlVdDM3X0JBbWFRbjh0cmxTaFFUM0t1ZlNOdFl2Q0hfMmhIMFBneXFR?oc=5"
+      },
+      {
+        "title": "Demontaż niezależnej walki z korupcją. Ukraina cofnie się o dekadę? - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmVMX0t1X2dnMy1DZEJTTHV4NGVUR1FWNlctSnExUVl6aXBSTDRhTVJZd1U4Y3pjSzNWbmdCdUphTmJ3WEZSRm1vOER0bm0zNXlhNVFzVndaR1h4VEo5QmkzVXhiZDdqS1QtWG9MUjgtU1ZabkZnejh3Y1lDTkJJMFZaOW5iV3pOTGZoQ0JvNVV2bW94Y0JUcXZDRGJBYUVCNmRrWVFBa3F6NWFPdFFGRGIzZjI1bXNhQkhTTmNjQkxVakQyTVZOS19fbw?oc=5"
+      },
+      {
+        "title": "Nie czekał na Tuska. Pierwszy minister już się pożegnał - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTluQ1pmWmhQU2tvbUZORkw2d1h5MHRmdUxoMkg1RWY3eGxzZHQ1eGxiSkJDWFRpQzZUM3FxTWNsRVJxTDJEM0Q4RnhEUUMtcXFra1Z0TS1uaGhIdjFBcG9vYU9PQTFSWVRDdVdpaS1weDlOQXZ5LTJINUE2QlVrUVhHeUxNTzFVakR2T1BZWUtUSEJBMjR0Qg?oc=5"
       }
     ]
   }
