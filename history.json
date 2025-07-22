@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 03:20:31",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +25°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431086,
-      "DOGECOIN": 0.904312,
-      "ETHEREUM": 13186.99,
-      "LITECOIN": 411.83,
-      "RIPPLE": 12.59
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Protesty \"stop imigracji\". Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
-      },
-      {
-        "title": "Moskiewskie lotnisko wstrzymało loty. Atak dronów na Rosję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWRuS2ZybjRtREpSMVlYamttUlV0bmFyamdnNHNnWnlGakVJYmhEWkZ4VFZjcV9Mb3FzSUphc002WmROMDBVcFlYUTF5TmI2YTV4NWxIbTVPSENEelBMWGxpVkF4MXlzUzhnYThsX19kX1RoWDJKT2g0Vy04MlhzSGFULTN1SzlKODhoNFpFMExBZ1JhVlg5MnJiSW1NYnM?oc=5"
-      },
-      {
-        "title": "Zełenski: Należy zwiększyć dynamikę negocjacji z Rosją - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkVKS2NHOTBndG1fUHFqUkpFVjNwUVIzNDQ3dE5hQ0RhanlWYkpaUmpKdU15VFdGRHVzOWktckpsMkY4Z29qcUlMTlZuQW84V2FibVB1b3E5NmtxNXpJTzBSNDQ2S01VOF9URGFvbk9jeXhWQmtVbG51YmRNbXo0T2pKekRRNWFjNS1KQnBCYlc2N0tDSC1uRGNmZw?oc=5"
-      },
-      {
-        "title": "To był brakujący element. Postanowienie marszałka w sprawie przysięgi prezydenta - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG5ybG5LNmo3cXd3c2Q1Y3RrT3haQk05THhsY1h6ZnJrM19lWnpETXZmTTNYQVRUYzFDVE0xZURWMEZMNXNxQXpkcEFFamlhRFJlWWRlRUtBRWl6d2JNc1oxYm9lSjBKUHhGVVRrRlNSdFVtTWNEUDFnZ1VubUp3anI1MXUtbVBIb2xYN1QxQmFSY2NwVGtWSkRTSWRqQWprMzlValYwV0gtNTVuS0pCVEphUHFaSDRwWnVr?oc=5"
-      },
-      {
-        "title": "Rosja oskarżona przez Azerbejdżan. \"Wiemy dokładnie, co się stało\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRm96UzI3U19sOVdwQXA4NTk4eGF4YmdKb0RWVDNyWkNxZ0ZkZEVISTFNZ2R1OWIwT29wQVBuR041N2NSbDZOMldBVklCXzZnNVJNOW92OGlKdWc1UDdWWFU4dGdmYm5sbDJteHpPTnhnVUxveXdkTzV0SXFFa0ZoMkl3aU9xUFJiRUh5U0J5dzliZHF5LUdlejJ4aU9obENUdXAxZVhPNHUya2JVUWtib1FBcUZhUl8zbzl1Wjg2VkVHakE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 05:41:40",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Afera hejterska. Co potwierdziła \"Emi\" w śledztwie? \"Wyborcza\" poznała treść zeznań - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm02MV9NUHpSRVZqeldLOGxFV2pkUWZLUHM3SlIzeUZRM3l5Wk11YTVtbWgyV1ZvMngzVUpZM3JoWEE3ZDdreDE5ck5VWjVxTUdJa1ppSFN4UGJvX2xBMUJ4YzEtWlNOUE82eVlWZjZsZnRPMFF5N1djM2hPLXVqRUZDSUQtaHJPRTlaY1M1Rnl5UGs?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-22 10:21:23",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6455,
+      "EUR": 4.2445,
+      "GBP": 4.9041,
+      "CHF": 4.5554,
+      "JPY": 0.024651,
+      "AUD": 2.3758,
+      "CAD": 2.657,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 428296,
+      "DOGECOIN": 0.964692,
+      "ETHEREUM": 13248.09,
+      "LITECOIN": 414.63,
+      "RIPPLE": 12.53
+    },
+    "indices": {
+      "^WIG20": 2931.11,
+      "^WIG30": 3789.11,
+      "^WIG": 3789.11,
+      "^NCINDEX": 257.24
+    },
+    "news": [
+      {
+        "title": "Tusk musi wywrócić stolik i przyspieszyć. Potrzebuje takich ministrów jak Sienkiewicz i Kierwiński - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVNPNmU1dnZTdUlTd2FSWThXM3ZKeEhJV2JEaU1xSGNRMDVGb1ZqUE00M185dHo4NGhRbExvUk42YXM5eHVTWXlPdmwyeHl4SWYzbnRTT21EblBBS1hnRHFFVDhDa2FFMzZLc2FXeFlDanhDYVNWT25jY3hPNTdJYThXc2ZJNVQ0TUlKNEIzbmFkNDR3MnItTUcyYkd5SV8zZWdzSFJaVGpvcUVkcGJJbENmb2ZqUQ?oc=5"
+      },
+      {
+        "title": "Nie żyje gen. Waldemar Skrzypczak. Miał 69 lat - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVExmVUI0WUJGRktESHNVR3pRUkVmeklBLW1taEF4LUdBcHBQX29UTTVUeG5Cak90dVpTZjdfT0ktMElFN2ZOZUprTFBlRFVRTEhGTVdUX2ZGSUo4S09CbVlPZDlMbXFZSTZxREk1SUVTWVZteXNCX015aEtIQUM1ZEMxcWtUTnZjNWhkbk5qajZKeTJDamJ2TFFLUXNlRjJOajFseWE3MEJOckxGQmR5X3VTVEFOTGdtZkVIMWtucng?oc=5"
+      },
+      {
+        "title": "Złe wiadomości dla Donalda Tuska. Chodzi o porównanie jego rządu z rządami PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXh6ZjlMWC1Hem1HWDJkTFlPNmpOZHh6R2Uwb01xSFpTTnZSSkE2dVJIZ3V0ajB0TlhPMmxwQXpKOXNwV1BJZjZ5VG9kTHlZTWphY09HVDhSR056bGhwanA4RmFpN3BtNmRQYnFzeWF4TWhyTEc2WUdjN3VHOFlRMkowd0kzMUl5eFczbTZIYW5aVXBj?oc=5"
+      },
+      {
+        "title": "I Prezes SN napisała list do Hołowni. Manowska o \"gołosłownym insynuowaniu\" Bodnara - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzlNMjhFSnR2ZTctNXZVRmVtZ1FJU0g3QjdRZTAwRDVieEc2M1BoelV5NjVhVUxFbC1KemRlNU43SHg0TGRPZ0xfQWtVYzlxWXAzeFhNcUFVbVJrTm15bVhmelNxb2xVN3RFR21Wa21RLTlIU3FuU1pidE45NlF3WGk5dXc0amlGOHY4QWxBOG1IRnh5dUExUkNyMHlPSG03VTZWZHRWR3ZmRFBPMmczcWtweUZRRUVW?oc=5"
+      },
+      {
+        "title": "\"Dyskretna i długa\" rozmowa. Sekretne spotkanie minister z premierem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1paVmo3eTRpQ3g4Q056TWVQSUNjNm9QamFDbTdILWtNLWFERzgyQmw1ZHNtdjc1akF4cWxPZ0JfYVhsSUh3aXFNeXdKYS13bzNxdFF5U2RqZDlLX1Z0b09sUVNCVS13amhRZ0w0bU0zR1prMkdPY1k0Vi0wdVczOE5kS2NBM084TVNsa3paVm9LV3I0VUdRQUFfdDg1TGJhRGNDcmhIR0xGX1h1WURYYXFDbw?oc=5"
       }
     ]
   }
