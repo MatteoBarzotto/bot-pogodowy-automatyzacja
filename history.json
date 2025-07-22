@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 05:41:40",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431567,
-      "DOGECOIN": 0.925158,
-      "ETHEREUM": 13424.83,
-      "LITECOIN": 409.6,
-      "RIPPLE": 12.52
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
-      },
-      {
-        "title": "Moskiewskie lotnisko wstrzymało loty. Atak dronów na Rosję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWRuS2ZybjRtREpSMVlYamttUlV0bmFyamdnNHNnWnlGakVJYmhEWkZ4VFZjcV9Mb3FzSUphc002WmROMDBVcFlYUTF5TmI2YTV4NWxIbTVPSENEelBMWGxpVkF4MXlzUzhnYThsX19kX1RoWDJKT2g0Vy04MlhzSGFULTN1SzlKODhoNFpFMExBZ1JhVlg5MnJiSW1NYnM?oc=5"
-      },
-      {
-        "title": "Zełenski: Należy zwiększyć dynamikę negocjacji z Rosją - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkVKS2NHOTBndG1fUHFqUkpFVjNwUVIzNDQ3dE5hQ0RhanlWYkpaUmpKdU15VFdGRHVzOWktckpsMkY4Z29qcUlMTlZuQW84V2FibVB1b3E5NmtxNXpJTzBSNDQ2S01VOF9URGFvbk9jeXhWQmtVbG51YmRNbXo0T2pKekRRNWFjNS1KQnBCYlc2N0tDSC1uRGNmZw?oc=5"
-      },
-      {
-        "title": "Rzecznik LOT: w powodu awarii systemu zarządzania ruchem lotniczym - opóźnienia do końca dnia - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEdPbk5keE9nU1k4a0FJTk05X2VIcFcydXlJV19RVWVMVDYtSFdlaG96dEFxMWZ0WGpmaEkwdkt2cXNNLVZHRnhYZlg4N1EzUDhJdU8zS1ZORy1iTDBUMmJqc3JGVnN2a1QzUkRySWJqbWxhRW16N1ZpVG9FZ3VFZWE5eWZlN3AtNThhTHpBdFJZQjhhaEhlS0pDQ3g4ejBDVFVwT1dhWjFsSFRXYkVUdnNlSUJlWVE?oc=5"
-      },
-      {
-        "title": "Sankcje UE na ważny fundusz Putina. Zarządza nim człowiek urodzony w Kijowie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFlJc3BULUtTWG5vX0VabEVXSU95R3R5ZGdKN3BMajFtQnlfRk5QMVV1UzJ1MFMxT215MVY3UW5xcE5ZZGg1Wl8xaEdYbmYwMmN4cnM1UjF1OFg2cHFCRzViNTA4bUduWkRYU2lnZFU4Q0xBZWJoQ0JwRzYwXzNuTFZDV3hkOVhzMDJjRW1IQWNVN0xEYXFuOE1wSFppUlRjeEl4cVUtaVhCRWJYWExLNWp4bDJlOGw2bFpR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 06:37:17",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Dyskretna i długa\" rozmowa. Sekretne spotkanie minister z premierem - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1paVmo3eTRpQ3g4Q056TWVQSUNjNm9QamFDbTdILWtNLWFERzgyQmw1ZHNtdjc1akF4cWxPZ0JfYVhsSUh3aXFNeXdKYS13bzNxdFF5U2RqZDlLX1Z0b09sUVNCVS13amhRZ0w0bU0zR1prMkdPY1k0Vi0wdVczOE5kS2NBM084TVNsa3paVm9LV3I0VUdRQUFfdDg1TGJhRGNDcmhIR0xGX1h1WURYYXFDbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-22 11:19:51",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6455,
+      "EUR": 4.2445,
+      "GBP": 4.9041,
+      "CHF": 4.5554,
+      "JPY": 0.024651,
+      "AUD": 2.3758,
+      "CAD": 2.657,
+      "CNY": 0.508
+    },
+    "crypto": {
+      "BITCOIN": 429200,
+      "DOGECOIN": 0.963152,
+      "ETHEREUM": 13201.12,
+      "LITECOIN": 412.06,
+      "RIPPLE": 12.52
+    },
+    "indices": {
+      "^WIG20": 2931.15,
+      "^WIG30": 3788.97,
+      "^WIG": 3788.97,
+      "^NCINDEX": 257.27
+    },
+    "news": [
+      {
+        "title": "Wielka zmiana w Cyfrowym Polsacie. Zygmunt Solorz traci stanowisko - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenlVUldQNHBCSFZqMWZkUDI2QllNUVd0dXEyd0ZtV3V6elE2Y3NPdW11Y0JZTFRGUTR1TUwyUHo3cFBUd0E5UV9nMHVhdWllMlc5dFdDNmlWZGtfTno1ZEFnbE52alhzQzBGeUpYNjdPSGtFQk5oZmZnVTh5QTJRVkJ3MldHSDZyNk1IQ0hmNkJZRmpOS1ZQS1BrUWM0aDMybHVsZUtteUlCU0J0MEo3ZA?oc=5"
+      },
+      {
+        "title": "Tusk musi wywrócić stolik i przyspieszyć. Potrzebuje takich ministrów jak Sienkiewicz i Kierwiński - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVNPNmU1dnZTdUlTd2FSWThXM3ZKeEhJV2JEaU1xSGNRMDVGb1ZqUE00M185dHo4NGhRbExvUk42YXM5eHVTWXlPdmwyeHl4SWYzbnRTT21EblBBS1hnRHFFVDhDa2FFMzZLc2FXeFlDanhDYVNWT25jY3hPNTdJYThXc2ZJNVQ0TUlKNEIzbmFkNDR3MnItTUcyYkd5SV8zZWdzSFJaVGpvcUVkcGJJbENmb2ZqUQ?oc=5"
+      },
+      {
+        "title": "Izabela Leszczyna jednak do dymisji? \"Tusk wyraźnie to zasugerował\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0txeUVTX1U3SkF0ejBLQU5YcThFZ3BWcjRvazJyV25rMWxiLUFtVGJ1THZIemxIQ1NvYU5mdE9iQ3E4MEVTYnYxZVFSVk4zVVY4Q25PWHJ1MHp6SDdmUmpwbFR5cThUMzljcldra2NnWTVwZGQ3d0dBLU1MbG1sVERNaTEwN29yN24zaFNNNHVDb0NVVC1wR0wyQXhIWFByUHV6VkVkZTNjdzA?oc=5"
+      },
+      {
+        "title": "Generał Waldemar Skrzypczak nie żyje - Defence24.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MbEJwbVBkbWNHcENZRWItOVFheUtvNUVwSkJscUVLdENlRGsxS25BR1ljQjN2Nlc0UkJwbjVGSUZNaFZFQmFQVEVkVE9rdXJNcWYweDE3Tm1tYW95MmNZd3dCYjROYU5QRTB2T0FzRnFUNUwwRTFSd2h3?oc=5"
+      },
+      {
+        "title": "Ministra o rekonstrukcji. Ujawnia ustalenia w sprawie Polski 2050 - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3p0WmFxY1JCbUY1MTFjTXRvV19aQkpqNjZzR1otcjVnQ1AzNFlkOWU2TjJibHljSWtDUHBqSmVhQzdaRHR6MXE1bFJtZFMxS01pMnRiQllmek9CZl9leUxhOU5xNWxaX0pBajdmVWNfREs5dzF1VWhpWlNScWFLa3ZRYmxrSDR4dXlqb1A4VTNURVVNQVdlM1JOV3lFU054TWVSSU9DVzMyRzl2cGF0UEV1SW1ObTA2Z3dhR3ZjQkdBQTdPVkE?oc=5"
       }
     ]
   }
