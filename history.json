@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 08:20:14",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 430385,
-      "DOGECOIN": 0.921605,
-      "ETHEREUM": 13308.73,
-      "LITECOIN": 424.71,
-      "RIPPLE": 12.46
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Eksplozje wstrząsnęły Moskwą. Nadleciały ukraińskie drony - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRl9yZEpBRTU5LW5YSGJ3VDlzLTlFMWtaalE5V0ZRaG9mZkEzRS01YjMtRFlBWTFqeUZUR2F6UFZ1dWNOaG1HdkNzNVp4eUdIMWxsb29RdEZ2LXI2MTBCSTNEQjhsa2o1MVEyeU1QS28xMU5OX2RPV2hSZWs0QVRDUWRBQ1N3T1U1eC1zX1M5SmtSV0JXT2FseTcwTjAxR1Fu?oc=5"
-      },
-      {
-        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
-      },
-      {
-        "title": "Pożar bloku w Ciechanowie. Strażacy walczą z żywiołem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3B4UVI0aHphbDdVNFl2UUFjQnlWRkNQaGRVNW5UWGVESGhiU3FWOHc1MWRzQjYwUUxuZTJzNnBjNl85V2tTaTlkRFRGakFnSHl2T1JpOUU3TlFXbUJNMWdsc3lPalhRck83NTJTYm45RTFaQkNGU3ZTWko3VFRRbmtxVXZRSlMyUGluWkFvUmFMTE41S2p6RHZRZ3ZWMnZLZE9GczR6UGRmaHZfZDlhdHNoaw?oc=5"
-      },
-      {
-        "title": "Ukraina proponuje Rosji spotkanie. Zełenski o szczegółach - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeHJqMUJKal9pZXRSNUJNTEhYaGRxcGR5WHJwd0tFRXZYdG1uOFhKcjlVQVhjYk50UHVtdWFSLUZOek9lSDU2aEVwQnZrVldlY2g2SjNNVTQ3aDRVVHdCTVRPMFdFLWNEbWN6YS1ZMkFiRzdGbHJfWUkwRWRSbjNyZld3UENsS0MtdUwzRXE3ZWE?oc=5"
-      },
-      {
-        "title": "Zatonęła łódź turystyczna. Zginęło najmniej 34 osób, w tym wiele dzieci - Portal i.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXNCeUJCQ2Z4aThRdU5VUDlVQ29QcXB3d3owM2d2WVhGVTV2M3g0M2FwTkhqb1dVQnQ3WDdFSkd1aGhjRGdyR2M4M3M3MzcweEZNZldHWXg0STlmZWJKT3BiVkFncnZ0R05aQjMwQmZiLVZhenFFM1JYR2h3VTJZZ3BLX25tRmh1OE5hV2hTN2I5TmpaS2V2OG9hNWJ1M0pL?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 09:13:07",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Izabela Leszczyna jednak do dymisji? \"Tusk wyraźnie to zasugerował\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0txeUVTX1U3SkF0ejBLQU5YcThFZ3BWcjRvazJyV25rMWxiLUFtVGJ1THZIemxIQ1NvYU5mdE9iQ3E4MEVTYnYxZVFSVk4zVVY4Q25PWHJ1MHp6SDdmUmpwbFR5cThUMzljcldra2NnWTVwZGQ3d0dBLU1MbG1sVERNaTEwN29yN24zaFNNNHVDb0NVVC1wR0wyQXhIWFByUHV6VkVkZTNjdzA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-22 14:30:52",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 434350,
+      "DOGECOIN": 0.96816,
+      "ETHEREUM": 13477.75,
+      "LITECOIN": 420.6,
+      "RIPPLE": 12.8
+    },
+    "indices": {
+      "^WIG20": 2919.65,
+      "^WIG30": 3773.51,
+      "^WIG": 3773.51,
+      "^NCINDEX": 256.9
+    },
+    "news": [
+      {
+        "title": "Tusk musi wywrócić stolik i przyspieszyć. Potrzebuje takich ministrów jak Sienkiewicz i Kierwiński - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVNPNmU1dnZTdUlTd2FSWThXM3ZKeEhJV2JEaU1xSGNRMDVGb1ZqUE00M185dHo4NGhRbExvUk42YXM5eHVTWXlPdmwyeHl4SWYzbnRTT21EblBBS1hnRHFFVDhDa2FFMzZLc2FXeFlDanhDYVNWT25jY3hPNTdJYThXc2ZJNVQ0TUlKNEIzbmFkNDR3MnItTUcyYkd5SV8zZWdzSFJaVGpvcUVkcGJJbENmb2ZqUQ?oc=5"
+      },
+      {
+        "title": "Jedno z największych w Europie złóż ropy naftowej odkryte i potwierdzone odwiertem na polskim Bałtyku - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSjNZSlZGNk5xdE1URW5VRXZqQzZGbm14ZUctSkhNN05hN2VvM0lCVTl5dXBqcnB4RG5FclZXaTNuSmdPU1BKeHZXcGJPams2NkgzbTdvUkhBeXNxUGZHNU93dU1CSUQ0bU5GTVlJMnhRN3BIbE5WLU9yMUV0TDNtQXEzOGxaUUc5SGJGMDAzR2VFdXNETEhBZHlvbHM0Mlpya0xqdXZOSUdQQmhCOWkzamN2Q09xdXYzRG4tQ0N5clk?oc=5"
+      },
+      {
+        "title": "Dwa ważne stanowiska dla Polski 2050. Szymon Hołownia: Nie dla mnie - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU3QtYUptV3NWRWV6eEVOZHRycTFYeTRHaVU3dHlRYkx0OVM2cHNPQ1pkc1pXcXpRelM4WVRpYTJsTk4zMExFLVhTNGh1RGxiTmFVQjJmZHpqdVN0VElRWVBJTVNjNVpsY1BrNHZHd244eXZWZXhsNko5RktqSEtGRGVqVXhsRGQyUXg5U29XWE5DSkQzNjlZU0pXZFk4TFNZbmVnTHpxb2h5YkdZ?oc=5"
+      },
+      {
+        "title": "USA opuszczają znaną światową organizację. To decyzja Donalda Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGlrUEwxOVBRdkFYT0t1UkVWalduaW8zcWNyU01pSldFNFp0cmZacEg4Umd3RjlpS3c4Nm8zZlNEWmZQTWpIaDZoVVhteTBSdUtPUXk5SjBESmFMT3lwNHJCZlAyS3FZZjdOZ01HRVdRSHJyRXRfaWZ0REVNTFRvYnZmOGJEZHFfazZJb2FqYm5kbktYMmVzajR1UjkzUQ?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Partia Hołowni przejmie resortu kultury. Znamy kandydatkę na ministra - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVllPdFVsN3BPb0hrRml6VXRPZVJKVHJCMXFBOVNhV2hFNGp5U1pEbEZDWGJCSEJRNm9ORmVhY3hpRDR6Z1hWV1hocDdiS0FveVF4SEVjMkRNU21keEdJb1BTOXRPbnJhYXRHdFBGdUZWbzRyOWN4bVVhSm1ISXVEbXdkcFBRZmVTWThKSzl2MGpyeldBVjhpZ1FtU1oxWGFfSEp2VWRqaVdVSl9aZHJwZzgxYl9qRDNhX2F1bHBLaGxLU0dqVmU2N0E4SQ?oc=5"
       }
     ]
   }
