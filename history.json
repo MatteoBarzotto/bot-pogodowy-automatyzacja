@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 11:13:59",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431480,
-      "DOGECOIN": 0.927438,
-      "ETHEREUM": 13544.88,
-      "LITECOIN": 435.07,
-      "RIPPLE": 12.83
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Przypadek cholery w szpitalu w Stargardzie. Główny inspektor sanitarny reaguje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXNpZ0JJZXlsUzNUay0zdGo5T0VCYVE4cHFoVl9KUGN2cDJ1VVZKZUVFbmlPU0tKamxCdUlWYUtjT1ZUWDZLM2JoV3cySUhVb3FMdmZXZVBUNHJPWlNnSmxRSW5QU3JGeUJmZi1jUkVEXzJ6eTlUZHlia2VHTzFoWGRQRjI0ZE5scTl0am1lN0d6SWhxTW1Rcnk1eG16dzRZalZtbnpic1pXci1wbDVOVlZIM2F5MWctNGU4d1Rn?oc=5"
-      },
-      {
-        "title": "Atak dronów na Moskwę, zamknięto lotniska. \"Ograniczenia są konieczne\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnZubnk0NUY4VnZfUGJPOHJHSGtTc2VTRklJVXMxb01ieXByX2M3ZlhnVTEwcWFCZzR5dFdVQm9nN1VEREx3YnFwZ0lDd1kyZDJtc28zLVBNR1cxWG1aRVJNZTdjZ1BCVGZGaHRyVm9YZkhoNXlnc2tXZWczWlVoVmFNZ01SNllVQTdubVVSa1JsTENTUW9qMDAzNlpremh1c2w5aQ?oc=5"
-      },
-      {
-        "title": "Protesty przeciwko nielegalnej imigracji. Raport z polskich miast [ZDJĘCIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkM3REtZNGxOMVYwSWVkY1E5UVR4SW9PVGR5a240bHdCS2lyVW10Ym1FaWZQMXpYWlI4T0I0T3JJSDltYXBCd2QyMDMyMDltdTBuMHlzb3pIb3EwQ21mTWt0clpXREU5cjF2QzJHUkFlVERHYmlaSkxvbmI1eE1YQ0ppNDEySDlKR3JEOXoyTmMyY0pFdjVVcnloY2I0TkpWLUFkNkVBTkE?oc=5"
-      },
-      {
-        "title": "Pożar bloku w Ciechanowie. Strażacy walczą z żywiołem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3B4UVI0aHphbDdVNFl2UUFjQnlWRkNQaGRVNW5UWGVESGhiU3FWOHc1MWRzQjYwUUxuZTJzNnBjNl85V2tTaTlkRFRGakFnSHl2T1JpOUU3TlFXbUJNMWdsc3lPalhRck83NTJTYm45RTFaQkNGU3ZTWko3VFRRbmtxVXZRSlMyUGluWkFvUmFMTE41S2p6RHZRZ3ZWMnZLZE9GczR6UGRmaHZfZDlhdHNoaw?oc=5"
-      },
-      {
-        "title": "Zabójstwo w Krakowie. Marta O. oskarżona o morderstwo męża - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDdBaFhJbVhKd2p0cE51Nm1QejRCZjNhelppLTVyRWkyc1NVRkRJOEJPaVRDa2hHYzZKWmtxTFlFZmxDUlhPN0J0RFBWaC1MbGlHeVZrN2QzNEdyZnVSdU5GWjRURHVYMlVNWTJoVTJhRmlSa1BmVkhHSjROWVdvTTdLa2pFYVdUa2J4VDJEeWVkZUVMdzI2aXFYbzgyV2xu?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 12:15:46",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Generał Skrzypczak miał dwie żony. O pierwszej mówił: wszystkie medale jej się należą - Onet",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQenNvSlhTM24yNGZuSF94SV9xUmktUHExeW9FTy00M0FQR3NMbHc0WVFVR1pnNE9LcTZSSFI5dTZiYzdGUjMwTXlVVlpwUEw1bGxfMmtVMDVjNnlRR1QzaVZVSUR3UjN5M0I3RnVMRE1hVEJSYllEVTZfeldOSDlqcXBROWZEM0JPb3l3bDJqZkJzSFlZWlRrWTRpclo5dHJsTUQ2WDVkVnRCd2lSR1FVamllLXNBdVFVa0hFLTNxNXprT0dzTF82ZDYzRkM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-22 17:15:58",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 431980,
+      "DOGECOIN": 0.968338,
+      "ETHEREUM": 13432.98,
+      "LITECOIN": 418.87,
+      "RIPPLE": 12.76
+    },
+    "indices": {
+      "^WIG20": 2929.23,
+      "^WIG30": 3784.76,
+      "^WIG": 3784.76,
+      "^NCINDEX": 256.93
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
+      },
+      {
+        "title": "Jest wniosek pięciu sędziów Trybunału Stanu. Chodzi o sprawę Małgorzaty Manowskiej - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkZDQV9NTTlrY0loTUdiWENvYkZwRm5ZT1dsRzB3WS1MWnktSXJwcFJLby1JRUVvbEtta0JXRFdGNFlZaGtWRTJrVmU2TnNxWUdYenQyLS1NSFhYclBFWnFvc1VKMEdnNDlNVERTYUU1NjFjRVdvVVhoUFhwUmdzOFVrc2lKOGFPTXByamkzYlhCX2ktSVQ2dFRlZWlyU0NHWEJhNjNmMFFYR0ZGZEJaR25TQTNQS2tkRzRoZmV3VXRRZ2ZyWTJB?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Partia Hołowni przejmie resortu kultury. Znamy kandydatkę na ministra - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVllPdFVsN3BPb0hrRml6VXRPZVJKVHJCMXFBOVNhV2hFNGp5U1pEbEZDWGJCSEJRNm9ORmVhY3hpRDR6Z1hWV1hocDdiS0FveVF4SEVjMkRNU21keEdJb1BTOXRPbnJhYXRHdFBGdUZWbzRyOWN4bVVhSm1ISXVEbXdkcFBRZmVTWThKSzl2MGpyeldBVjhpZ1FtU1oxWGFfSEp2VWRqaVdVSl9aZHJwZzgxYl9qRDNhX2F1bHBLaGxLU0dqVmU2N0E4SQ?oc=5"
+      },
+      {
+        "title": "Odkryto złoże ropy na Bałtyku. Jest reakcja Orlenu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWpxaTJZay1HMXlXT3Z6WVVqRGE1UFRFU3YzSVgtQ2pUMkNEa0R1WXNLckt5TUxQd19VZGY5SjlCRldrTXJMX0ItQ0VXYVlLYXN2S1RqbzFZM0ZaRXl6VGcwTm83aTFWVV9ieldEZWVxbU5lLUtJVEd3SnlLd2pYaFdqcjVKVWFGMEt2UGdCZFFDOVMwTjhtR090WVpDbU0tY2c?oc=5"
+      },
+      {
+        "title": "\"Bykowe\" w Sejmie. Posłowie zajęli się kontrowersyjnym pomysłem. Jest decyzja - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNG9uYnluN0F5aWEwbENvazJYZ0dfY0ZpYl9rREpKTks4UUs4RFdKZXY4aEFBWmhwajhBOTJOV1FraFVxcVprUFQ5YjF4eS1vQWRxVldTbUJ2M2pCeWVwbmtxWk9FeGxJVGRadTNOUGVDYnBuYl9QZTN6Q2JBQTJtZUkzLWJJWVJORmx6bENmWUhydzI1ekZBVkMxVUF4dVhN?oc=5"
       }
     ]
   }
