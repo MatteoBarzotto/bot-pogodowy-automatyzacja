@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-21 03:18:01",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 428113,
-      "DOGECOIN": 0.977881,
-      "ETHEREUM": 13666.32,
-      "LITECOIN": 428.02,
-      "RIPPLE": 12.6
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Podejrzenie cholery w Polsce. Szpital podjął decyzję - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHFyNmliNlJ6VUp4UHNKbFBscWIwT1VFcU9ya3RObXc5SFlYSU9ITC1wLWtVWG1XSW9zNElYa01qcjVtVmxwUzlTYmlTSzdBMk9DSnBYRzFtZ0NVX0ZGWENTUDR2Uk90Y0lRWl9VeFhRT2FZXzJjei1RaktEdm55QktOb3dpN3dZem1wX0V5RUNQZkFlbDRPbG9JRndUTElxSHV3?oc=5"
-      },
-      {
-        "title": "Adam Bodnar: Anomalie podczas liczenia głosów nie wpłynęły na wybór Karola Nawrockiego - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjJMOE1mdGV5cm9RQkJldXByV3BuNE15TGgwZHJXVk45aVN4RzdpbzBXVm44NzlNRjUtR0Fkbm5DcDhsRVkxODh3MHdtLS1uOXRLVnctWFZ4eTNLb3I5QjNBb3I1LXVkNGZQek5SRC1pQ19TeTM0Yks4QXJGdVk1ZllXN0NKY3c2V0J1bGpaSnBJaUVmenBKd3VCRGFTc09xdnlkV1p4NWxoVE80MXNZdDFjZ0hZakVnTjY1Y0dHTWRxZw?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu. Liderzy koalicji zasiądą do negocjacji. Padła data - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzUxNkJVV19ETl9DNF9FMzA5N1hOOVZYTGtaTXp2TTA4dGR0RHlWeThISzdZT2lpbDB3Q1l2bGZReFJpMzNkUUlfSEJHWXBWM00yREVSUlAyMDJVd0g0MEY4YXpjM285RlBsNkRGOWlRX2l2ZWlMZHZLUW1GZVliOFEtdFZYODUza3Nvb2R6U25wMUJINFVqV013dU9ZTk1wcjNzXzNiMVhmdklucWc?oc=5"
-      },
-      {
-        "title": "Amerykanie ocenili działania Trumpa. Wyniki sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2NZaEhVZC15VkFzaVpmYktJdm91QTg5UnBURTNaN3pwY2p0bTNSMTU2MHg1OVNCSWFhQk5INnJtN0d2Y2d4QmxIZk01Z2JMMVk0TGJtWGh1Tk1uLTRONHYzRjNhZk4yZEl5a0tsVGNYSFgwaVVtTWJZUXlUYUFSWEY3YzRZOG1lWklpejY5VnNja29MSTBLdA?oc=5"
-      },
-      {
-        "title": "Awaria samolotu lecącego z Polski. Piloci wysłali sygnał „Mayday” - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGJjZVBOMWhheTFBSmpVOEhRLXM5ZU1CZTlKNzBrdk5yUUE3TVJNejVrZVBwY3lxZERGSUNubG4yOUhBZlF1YjVmTUs5eTZQQlhiLTJ6TDhMbnlTQV9haHptUjNDMEtTcXVJOWYwZDNKXzg1dHpFN0Q2VDMxLUlpZUotaXprMm02RlI1RXE4ZG00ZXFEQnN4SV9qOV93cjljM2h2NVl4dGhaVXoxSWtZRGNINUJ2QllQUXgtSU1MM0ljV2dzbG95SnZObV9NTGpt?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-21 05:40:07",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "12 euro za godzinę. Polacy policzyli i wolą zostać w kraju - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1ZqTDQwaGtLYzdwekpfc1dDMmdpYWxvamNXUm9ERjBTVGkxX2tad2RUY0pUSERqSC1lNGkxaEZNRjFLZF9qd1kyZkJNd09CUGhiWlhaTnVPNDNCZ1U3ZWYtWU1xSmdLOHhzTE9HQlZSeGlxZW9mNU9yRGdCWlh5SVNQdFhJbG5SWEFidUxPeEF2T0lWZ01GSktYbl83UjBQNHZ0QU52RE5MTVlBWlpNZmJB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 10:20:57",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 429641,
+      "DOGECOIN": 0.94647,
+      "ETHEREUM": 13342.81,
+      "LITECOIN": 427.0,
+      "RIPPLE": 12.59
+    },
+    "indices": {
+      "^WIG20": 2966.96,
+      "^WIG30": 3833.33,
+      "^WIG": 3833.33,
+      "^NCINDEX": 257.55
+    },
+    "news": [
+      {
+        "title": "Rekonstrukcja rządu Donalda Tuska. Którzy ministrowie stracą stanowiska? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkNmR0dUaF90RjdsUWQ3VE5OV2VQaVU1b1dVNU9aWEh2aFRieFJRSkF6YWdPVjE5LWdTQ0JVX0xFeXBpRlYyMFBsOXh1SHluQ2FZN2NtQktwZmV2UjJHYTJJTjNfQW9oY0N1MlhnUHY1YXpULVM3SFQxNzN4bzBtSjdfRTAwdjlXSXFV?oc=5"
+      },
+      {
+        "title": "Zmiany w rządzie Tuska. Waldemar Żurek zastąpi Adama Bodnara? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUlTM19lMVlxME1Hbm1iMGdRbzV5dkxVem9YN2REVmRPSnl2bkFWMmxzdWtUeU5rcklpQ012aVJlSXlqOWN5djNJRlhaZXR0UkJkdjRTaGdud1ItSzVRdmdyQnoyRm41cEl4ZDRLNDBHTGN4RmhaLTRrRWU5WkdBZlJYX2ZJRTJKYjY5WDFjNHVNU3N5MXBSelphaXQtazRfeFVjSU03amk5SzVYd2dVclZWdEVVX3NRNThPeXZZUQ?oc=5"
+      },
+      {
+        "title": "Astronauci wracają na Ziemię po misji IGNIS. Co ujawniają badania krwi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDN1RVE3MkNnTTc1Yk42VEhLc25IYm01bnBXX3ZuNnVZOXQtdm1WM2FYUmp5d2YzNk1tQ01iUFpvT09Rc29YaFlZMXBSNnQwc1dkcjE5YjNYM0QxTFppWTNmaWFaOVRSTEpUVW04eXBSRVVIZWoyd0lhWjVLeURwY1JHcmx1U3ltVURwZm1WcVdzYmRCOWlWcXhFcjZ0dTJVWU1RZUhqMllMb2JKNk9uVXhER0pNRHhqTEV2SkxPMWl4VS1xQk0xbw?oc=5"
+      },
+      {
+        "title": "Rząd Tuska wypłacił premie. NIK pokazuje dane. Tyle wydano - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczNXdDBacXlkOU45MTNVVmVoZDlUdVhhYXo3V0RXTU1DTzhSUFMxNXhIR05HNnBTU01oMFJydVBoTXFCdlB0ZlJsdk53dWF0SU5mc0t5V3pIdjNOVEVUSkRxclhFRFllQWlCV1pFUjZLcF9sR2hHcVdZUWVLaHRlRk9YRlBobDlJUDI4STZINkpCWHF2cVdmbGljd3RNaXBsN2J0cENuanBVZDhYaGxkMw?oc=5"
+      },
+      {
+        "title": "W Ukrainie zawrzało. Zełenski tłumaczy się z podpisu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3NUejU2NmRZUFgzSTBCNGFnMXBaS0dNcHNvVEZSLUpYc1M3V09WN2I1cnZRdXZyakI4VEl1RTdUbUl2b2lOaTQ5ZnhSTG1RQzg3eEJRX0h4dUh1M1ozLVI0aWZPTkhiLUQzM2gtNk5FLWhGT3Fud0ltOExsMjQ4anFVVVQtNTZwN2ZEWUZma3NCQS1udVE2dXN3?oc=5"
       }
     ]
   }
