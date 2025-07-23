@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 20:19:07",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +25°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431695,
-      "DOGECOIN": 0.964648,
-      "ETHEREUM": 13683.62,
-      "LITECOIN": 430.5,
-      "RIPPLE": 12.81
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Zamieszanie w sprawie przypadku cholery w Polsce. Jest stanowisko lekarzy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1lZcm1ITnpaeGJFbWY5Z2JzYVVCaU5rQ2djeU1teDU4aW9mdEIyQ0RVanF6LVpPSUxmZUNlOUUtZlhQb2FMcmRQR0d2SF8zNmptX1ViWXVPOEI3TUN4UThsRE1uNjJYbzV6YWNKUE1nS29hdnVfUnRaUlNKMVJSRkppc0ljVXZCc1F5UFlEWC1obzhKMWtOLUdwaFNFMm1lWUJEaXhHNEQyVWtXV05KeWR6MA?oc=5"
-      },
-      {
-        "title": "Kaczyński wzywa do przyjazdu na zaprzysiężenie Nawrockiego. ″Oni kombinują dalej! - Niezależna",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2hGZXVENnZCMTl6TlZ4ZkFncHZpZFp5N2otcDBQOWRIaUYtTVNJMUZZbjJZTWZsQUVtUTNhN29pRWk0NExQQjRZRVhhYU9sOVlqQkRQdHR6NXFmakdadXlTRXR0dThoV0h0anNDbjg1Z1RyRFdITUxOemtkR0REeGtZOEVheDdMLTRVNzliendoeUl4TWJMUmtZWmRpTUk3eC1CbVg2R2NVbngyTnFmc3h4Q3FEbW8?oc=5"
-      },
-      {
-        "title": "Awaryjne lądowanie samolotu z Poznania do Londynu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0FjVE9BcGFTNm1MX2hOVVVNZHIxWXlERWJ1NVBOM0N5dmdOVnR4V1laRGFsNEVDbzdjSjFDWUVZNWFxd2FBT0pRZFI0VVRPeXE4OXZVU181Y2Vvcl9oajNnLWZWRFFFTmNMRFVtNUd5OTFYMFJuemdaVDFCTnZEdVBCLUc2Nl9TWm5aTkhsUXdIeWxTcU5CTm1xdkJsT2luY3NFZHU3TFdYYVQ0UFMxdjR3?oc=5"
-      },
-      {
-        "title": "Słup dymu nad miastem. Płonie zakład chemiczny na Mazowszu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzh5aXVQRUt5ZURBaDEtT1VqUW1Wai10U2tPRVhCUml6ZVNZV3RMRnpPYU5BdndFcktPRk1Zd0hfSjhRdEYxYVlYTkY2RUM5aUpybDR1TlVPSkh4RzdlUWljLWt3OXZGdGd6c0VFZDduUVRScW9DNkM3UU03YUhjdFdWVk1kT0l3WGxjNm93UnhEcExmbTRvb0JqRUtFZEdGNnI4S0dVWjlRM2xUbW5GaVJB?oc=5"
-      },
-      {
-        "title": "Awantura w studiu. \"Są jakieś granice bezczelności\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXdUdjVrMUV4cjI2QmZXS1EtZE54LWxpbHFPZU5zREtYempVUVdKUzY2eFFKM0RlZ0tQWFItby1HeVBDSllCZGJCWU9KYm9HS2VCUnpSVW11MHA0NXlFS3BVWkM3TlRNYnFoMjdzc2VsNHBTcG9fVDN6UW9rVExlcG0ydGdMU25xLXlKTXhleXE0WkNya2c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-20 21:11:08",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Spotkanie Karola Nawrockiego z klubem PiS. Nowe informacje - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDZPcTVKdDBjQnFESDY2RHJTYlZ3YTdkbFRnalQzVWpXM19ONjFGYzVvY0RKSVZycnlxRXZqTVhZMTlwcTgzTUY4MnlfU0pESk03N0FqUExEMnY3Z3pYcWg2bGd4bGx6N2FfWlpVa3JPNVFnaHMxS3RWNmxxeVdlWV9mLVVTcFRsMnQ1VEZMTjhpQ0V6Z2ttc2tVLWJ3UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 03:15:08",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 433013,
+      "DOGECOIN": 0.961488,
+      "ETHEREUM": 13481.52,
+      "LITECOIN": 426.96,
+      "RIPPLE": 12.71
+    },
+    "indices": {
+      "^WIG20": 2929.23,
+      "^WIG30": 3784.76,
+      "^WIG": 3784.76,
+      "^NCINDEX": 257.27
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
+      },
+      {
+        "title": "Prezydent Ukrainy podpisał kontrowersyjną ustawę. \"Ona niszczy infrastrukturę antykorupcyjną\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzhWV3d1Ri1faFlvV3EyRktubGVOUVoxaVAzSzkyVzM5bzIyNk1RX3RmajFfUEloYy1DWThDbXZfZG5rR1JDX0ZLMFp0c25JOWxmWGdKaExDd2NtZ2E4d2ZqN3BPX21MbDF1UGhFVEZESk1rUXNzNDA4cGhTUFZvRVh5ZGR4dDBBc0pxRktQYmQtNDBsQlZiY216VXBXYkVpNl9sXzJmN1BxYnp4ZlhvOEYtai1NRTkteUZIcjkzaHI?oc=5"
+      },
+      {
+        "title": "Nie czekał na Tuska. Pierwszy minister już się pożegnał - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTluQ1pmWmhQU2tvbUZORkw2d1h5MHRmdUxoMkg1RWY3eGxzZHQ1eGxiSkJDWFRpQzZUM3FxTWNsRVJxTDJEM0Q4RnhEUUMtcXFra1Z0TS1uaGhIdjFBcG9vYU9PQTFSWVRDdVdpaS1weDlOQXZ5LTJINUE2QlVrUVhHeUxNTzFVakR2T1BZWUtUSEJBMjR0Qg?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki spotka się z klubem PiS. Znamy szczegóły - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXQ0U19xX2tZMHhBYVRnSFByUkNEbjRwWEtDU0VYcUxwMWZFMi1QWmxBS3F0Y2o0Y1U3YnEtTVR1bk1BaDBZY0dhTWNvZS1VVFlENWYxV1FYQkN2bUo4aWtvWkg2T0VCbjkzWVVVWFNNWi13RDNYTENsdHlLY1hqNi15Mm5ialJRb24xVDVVOS14djlIRWZhakhDWVZLZEhCUnN0eA?oc=5"
+      },
+      {
+        "title": "Akt oskarżenia przeciwko politykowi PiS. Ponad 483 tys. zł za fikcyjną pracę - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeVAxRWoyQXQ5dFFlYjlpZ2lLWlIyRHU3Q2dxUkxzeENRTlkzc2lfeGZyNGtXbk1lcTdpY1hrN3FMOTVrc3ZhUWVwaUV1ckZGV3JwMlViUXFvTXIyc28zZjVjSlRlTm1CVFlFS2ZPel9SNC1heXNvb3dNY3l0WGw4bmJVNTlOUVVXOHpLdEpOeVNEa0VFYjhEbFdqdWdSYWd0MjU3WnJQZ0d3WVdjSTUybFVyME9wZU9YdUplU3poUGlPaXY0YS10V3RWZjNweTNQQVV0SDRvVG9jQmp4Tm1Bc3loN09xWGxzNmYw?oc=5"
       }
     ]
   }
