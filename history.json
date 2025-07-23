@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-20 23:13:12",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +25°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 430928,
-      "DOGECOIN": 0.990142,
-      "ETHEREUM": 13634.25,
-      "LITECOIN": 426.25,
-      "RIPPLE": 12.79
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Zamieszanie w sprawie przypadku cholery w Polsce. Jest stanowisko lekarzy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1lZcm1ITnpaeGJFbWY5Z2JzYVVCaU5rQ2djeU1teDU4aW9mdEIyQ0RVanF6LVpPSUxmZUNlOUUtZlhQb2FMcmRQR0d2SF8zNmptX1ViWXVPOEI3TUN4UThsRE1uNjJYbzV6YWNKUE1nS29hdnVfUnRaUlNKMVJSRkppc0ljVXZCc1F5UFlEWC1obzhKMWtOLUdwaFNFMm1lWUJEaXhHNEQyVWtXV05KeWR6MA?oc=5"
-      },
-      {
-        "title": "Anomalie podczas liczenia głosów. Bodnar mówił o zaprzysiężeniu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVUyVUVkYkRMb0h3eTF4ZlQ4empnbG1QVzVrQi1WNWJuamV2aE5RLXpaVFNNYkZ5RTJUREk5RDA3ZUhXYlhhWDlIVVloMFVHdU44QVBoNXFlVnF3dGN5Ujlwc25wVFQ0cUF2U0p4YjdkYVZhTXFvTTk1cXZ0RmVqX0E0R292SEdJdm9sOHpKQ05sZl83U2tWVDhGZzFnUWFwaWs5MmNPalo?oc=5"
-      },
-      {
-        "title": "Tragedia na Mazurach. 57-latek nagle zniknął pod wodą - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZGN5V2xRdXE0S2tkTTRSZEZvLVgyWnllSEVPTlExdTFfRndPa0IxOGpZdUdFTmd2TnpCSEJEVklGM2szTG8zQ2xEbXFKMHZzTjNIeXNZR0NRYUkwZkhYbEhGWXpieUVXSzIyTWlKQ1YzQ0JBMV85bVpJODFWbWk0c3FkQ2RVTXZLVExpWHV1N1ZHVTJaUXRKZGlRTTREVDJv?oc=5"
-      },
-      {
-        "title": "Awaryjne lądowanie samolotu z Poznania do Londynu. Dym w kokpicie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDZLekN4aktIcDRNdmY4OXF1UFZDYXZHWnJnaUloVVRhSWdUUEtnXzhNQjRhZUZWRHpPTHJyc1YyV1M1NWhkUFhJcFlhck51U09kc1V1aXFZbFRiWHVsVXdxaDlUemZPN0FOR3B4TXpzLVdiNUVsV0F0TEo2aC0zU3d4TGZCT040WkV3Q1lEVzRhc21kdWxKT1RQNWhMSE1aS0hVYUxrT2REZw?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu. Liderzy koalicji zasiądą do negocjacji. Padła data - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzUxNkJVV19ETl9DNF9FMzA5N1hOOVZYTGtaTXp2TTA4dGR0RHlWeThISzdZT2lpbDB3Q1l2bGZReFJpMzNkUUlfSEJHWXBWM00yREVSUlAyMDJVd0g0MEY4YXpjM285RlBsNkRGOWlRX2l2ZWlMZHZLUW1GZVliOFEtdFZYODUza3Nvb2R6U25wMUJINFVqV013dU9ZTk1wcjNzXzNiMVhmdklucWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-21 00:13:42",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Małopolskie obchody Święta Policji - Policja Małopolska",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmExUkgwbVVIUExCcXhlcnRjaWlCNDkzUHU3SGVudUhja0JUemFjSFhWdVBRa1lrVXc0Sk0yWW1KV3U0MWZRekNtRkdKWEtaNE9nNjEyd2Ezc0VlSFlEcFNObUtidFVPOFpZUjMtT0tBZ1JRQ3RVWFhDaUU3bWFTUXktRThvSUs4THAxdzBXRFZYVXh6TjNDdmxuNHJ3ZkY4emRXRmlNY2JxUU0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 07:22:43",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2531,
+      "GBP": 4.9044,
+      "CHF": 4.5612,
+      "JPY": 0.024628,
+      "AUD": 2.367,
+      "CAD": 2.6572,
+      "CNY": 0.5067
+    },
+    "crypto": {
+      "BITCOIN": 430872,
+      "DOGECOIN": 0.961751,
+      "ETHEREUM": 13504.4,
+      "LITECOIN": 433.04,
+      "RIPPLE": 12.69
+    },
+    "indices": {
+      "^WIG20": 2929.23,
+      "^WIG30": 3784.76,
+      "^WIG": 3784.76,
+      "^NCINDEX": 257.27
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
+      },
+      {
+        "title": "Prezydent Ukrainy podpisał kontrowersyjną ustawę. \"Ona niszczy infrastrukturę antykorupcyjną\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzhWV3d1Ri1faFlvV3EyRktubGVOUVoxaVAzSzkyVzM5bzIyNk1RX3RmajFfUEloYy1DWThDbXZfZG5rR1JDX0ZLMFp0c25JOWxmWGdKaExDd2NtZ2E4d2ZqN3BPX21MbDF1UGhFVEZESk1rUXNzNDA4cGhTUFZvRVh5ZGR4dDBBc0pxRktQYmQtNDBsQlZiY216VXBXYkVpNl9sXzJmN1BxYnp4ZlhvOEYtai1NRTkteUZIcjkzaHI?oc=5"
+      },
+      {
+        "title": "Na saksy już nie tak chętnie. Polakom się nie opłaca - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUhhZzNfRWo3eFVWTnQ1R1pYYVdIUmhjTC1YQzloUlJlMWUzR3Q5WFZTdjc4X0pRdy1WN2F4V29iNVppeHdMVWI4XzYtTnVIVERvSjBDTVhmU3ltSElPNWhxeFY5NkpIRHFaNEY1N2YwX1Q3N21KTVlVMTBtUHlnRmdJVVVBLV9uSVZzSkNGTTc1X1pnMHkzMmhSV1A?oc=5"
+      },
+      {
+        "title": "Sławosz Uznański-Wiśniewski wraca do Polski. Znamy dokładny termin - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXMtTWhWNVdUMmdoenBqZVM2Vkk0NFlfYUZFVzhHMmFuRGJpa2ZnUGplN1RsYzU0TVJfN0xuNlc3c1BEZl9GYjA1TE9NZ1RHdnNqMnhvN1FTemRLZXU4V2Y1TDNQa0pkV0xiM0taUDJvWmRFQ0w2MGxOQTJ1TENaSU9oeTZVdVNvQjVLbUZwQjBZQW9TdE9qdTBDY01FWmlCOGY0c0xqN1ktdFVLVnQxNHFHaUY3Zw?oc=5"
+      },
+      {
+        "title": "Wyborcy są rozczarowani miękkością Tuska? Ekspert: rząd ma bunt na pokładzie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFN6dWtwanZ1ZjlYVzB6VmM5V0pETkh4QU52bEF3UzhhVHViT2dwZ2NzU2Foel9Cb2dOS0xHbDkxUzJJNkVYMjlrb0lObWR2dGRhTFNMRkZ2ZTktLWMxWjU4TGNsZkQtZ3ZyV2pfaU9KZG9na1BpM2lvN2NQaHVDYnFaRTNHcldYcEVid1Rqc1hNVS1neFJBSVdzMGxWeC1PckIySDVScnd6OWlFNWEwam1MZDNrbE9EVlRYNDZEWm4wM2ZEVUg1ag?oc=5"
       }
     ]
   }
