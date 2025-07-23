@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-21 16:16:59",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6455,
-      "EUR": 4.2445,
-      "GBP": 4.9041,
-      "CHF": 4.5554,
-      "JPY": 0.024651,
-      "AUD": 2.3758,
-      "CAD": 2.657,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 431555,
-      "DOGECOIN": 0.9986,
-      "ETHEREUM": 13870.94,
-      "LITECOIN": 428.79,
-      "RIPPLE": 13.05
-    },
-    "indices": {
-      "^WIG20": 2944.49,
-      "^WIG30": 3804.62,
-      "^WIG": 3804.62,
-      "^NCINDEX": 256.81
-    },
-    "news": [
-      {
-        "title": "Spotkanie liderów koalicji. Znamy szczegóły - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWVRbDQ0clVISDluRXJEbmlpdS14SllLRzdNWXFoLVJZR09YREFKSHdna1R2TnhmYnJjTWFiSkZqb3VlNTJ6SEIwWndXY21aQ2VLX25kRnNpbHprUldxaV9BbU81V2pwMXRBNWhPeG03UGFoS1lNanlBSDR0QzVDT3VyY0V4VjNJQlpUbF9n?oc=5"
-      },
-      {
-        "title": "Prezes Sądu Najwyższego napisała do Szymona Hołowni. Chodzi o działania Adama Bodnara - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGZIVVRqb0Zjc0ktM0xzZmJoSW92QXhHQ3IzT09mbHFUdlVmQTJUUC1VQURUVlpGWFZSRm52RWJramkwSkszY2IzUUZkMDEwZWY5d0VvaGNIdm9oSGM3ZGlaaWZDYVhZRlJjYU9WUjRSMUw1TnljNzZmQnljUkxBQXFGZGJMU1VsZ1UxeGdqVkJha2tWdUNXcWhIYkJmOU5IWWFqQUFTUW9LRlpoa0ZsSzZVbGFhbFFiX1JibFlrMXRpU3VUbXJEV3RodjFLbzZrZXhJQ3N6TVRwNFNH?oc=5"
-      },
-      {
-        "title": "Noworodek w kieleckim oknie życia. Dziecko jest w ciężkim stanie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2x6Z2NVZmcwMFh5SF9POUlKMzNxd29LejFPMHFnM3JRN2Z3bkRrLVYzMmU5aUNVc1V0Q3JQRmlJNWRRWW10ME4xX0s4eFBXekNBbEJzVUVnS1ZaR04xYnNCSnVaazloREphSlFFWHpkT05SUG93dmRNa0x3a0tnTmxBdV9tXzc0aXlESFNxNlNiLWk3LXhzTUp2UTFUUEplV1RsYWx6eUEyUnNhWWJPT1BEbW9NaWU1cmRXTi0wREtyelR3UGV3?oc=5"
-      },
-      {
-        "title": "Sensacja na Bałtyku. Odkryto największą czarną żyłę złota w Polsce - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWlvdDNrd1NZcm1KVDdQc3pHb0c0d3pSb0NvM3kyWUo3YTBaNE0tLTVVXzlmNnFDakp1cmk0VnRSYTAtb0djYUpHaFdkOWEwVHdwb2MwTDR5RlR6TUJiamhpUldxN1BoajJ5a2JPWnFKUV8tNGJkaV9reFlxZV8xZFIyamFqLVl6c3VMTEU4bWlCQQ?oc=5"
-      },
-      {
-        "title": "Para zatrzymana za znęcanie się nad 5-latkiem. Zareagowało przedszkole - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanUzc0sxZ0FPX08wazV3T3dvd3pCV1ptZFlhUkRsOUZ5RGJpb1prNS1NUzRReXdFTDQ4Vmg3cUtEbThlYVJmbF9pSlNaSGlZREdUNWVoUzlJSmU1ajV1NEh1b091VV85ZHhXMXVCLXJiQVd5Q1Q2clVPT25WaGpYSHp0LVJrXzlKdEJFbFU2T0FsUEdiMnpfSzJYUFVzSmx5VXdtRE45TVBMUHhVNnpueEh1OFJveHdneTY3LVZJOW1rXzdESExCLQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-21 17:16:15",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ziobro stawił się na komisję. \"Przeniosłem zabieg\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGlCcDFtNy1EYlJMbWZsdWNlT0JqQ3ljaWpLRFc4OVdIZU04cWpTUGNmSXdwS3F3SmJfTUZlTHB0cmxvSU5WcnMyaEhtSmMxb3lmNUlhUkVWZ0VnWFlacnZFOVdGRnBVdFBWT2VQTmhObjcwMV91N0ZlNkZfTHRVaG02LWxpUTJjeTBIZ2g0TmJHbEJv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 22:16:33",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.626,
+      "EUR": 4.2544,
+      "GBP": 4.9102,
+      "CHF": 4.5746,
+      "JPY": 0.024701,
+      "AUD": 2.3871,
+      "CAD": 2.6696,
+      "CNY": 0.5061
+    },
+    "crypto": {
+      "BITCOIN": 427813,
+      "DOGECOIN": 0.875106,
+      "ETHEREUM": 12962.27,
+      "LITECOIN": 405.03,
+      "RIPPLE": 11.51
+    },
+    "indices": {
+      "^WIG20": 2946.62,
+      "^WIG30": 3808.74,
+      "^WIG": 3808.74,
+      "^NCINDEX": 257.66
+    },
+    "news": [
+      {
+        "title": "W czwartek zmiany w rządzie. Prezydent Duda powoła nowych ministrów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVnZDNkZhZ3p5WmxXVmkxVlNGazJ3ODR6SlZfa21uZEdUZGNER2I0SFhGSEd5S3R5Q0ZscXdUOGJuRVdycHBxSnF0bU1XeVJhTTNhYWVMM3lTcVQ2dVR0VThldTUtNE9MTEdpbURlTVN4RWdWRFoyWXdKekFaN3pMcUxtSndrRm5KTzRJVkZMSlY3VWZJNVI1djFSaHIxcTRidkNkZzVFZEFFaVJT?oc=5"
+      },
+      {
+        "title": "Ruszyła trzecia runda negocjacji między Ukrainą i Rosją - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXNkb3U1RUhlVXljMklsQ1VhTUViRnNXQ1lnSTRzbUpLZkRXY1ZaR1UwcHNZWnk5bG03d25NVHl3SHIxdkVyUXd5QVIwWkotVkRrTm04VTNzOUViT0ZORjBYSmZfUzRROEhlUDI5TEVoOTRYMjVRb3ZlX1U0clgtN294Q242MnZoY2NSYmFZMXI2OGc1Vzl5VzZfdklrZGRBbXFGbmJRZWxxdmZvOTRkeDZBTHVYTEk0ZHc?oc=5"
+      },
+      {
+        "title": "Minister od \"twardych decyzji\". Co czeka wymiar sprawiedliwości pod rządami Waldemara Żurka - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEVHM0cwakRmSHFNZlZMVnA5RkZhYnZlRDJzclBVM0JMdnNHZV9GNVNON2JFaWFYWERPSHJqdFdsVVRBbmJTZ2RBRlFGMW9OcXd3RU9aZFI1ZlIyUE9OemZtWkxlZzhKUFIybDdSUG16VklSbk9INk5fTTdyWVlnSkRKTXYyUGFMc2xiQ3Vrc0tWY0EyWGNMeGtMay1OeEtZeHpzSA?oc=5"
+      },
+      {
+        "title": "Nowa minister zdrowia. Kim jest Jolanta Sobierańska-Grenda? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEJ1eWt3eVBfdGo2MmZqR2l3eVZsaGJ1b24zZnlQZjhyR250ODI5ZW1aZGpvTk45dFBxa1RHVWlyS0RkZFUyb0p0aXdIVllnTGxoVldTU0Z3V1ZDdnQ3VlhHTG0xWXViT0JxN1phZ1cxbGc5X3VKT3pLcll6UHltQ3RfUUdmUGQ4Z1FYSGZsMjNlbVc5Tl9ZWno0NjEyY3FLaVdhYXI2NHpjTEFGTWladFBn?oc=5"
+      },
+      {
+        "title": "Przywrócone kontrole na granicach. Jest nowa zapowiedź rządu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeDk5Ym9UZ0JmS0xFSnRhNzV0YnlyUTJrNE5EM19YNGptUkZuZmNERzFpblVpdHhDWTI4REZXMjBUY2FpdWtsUkJBQW9RSHptR2VLMFlNT2NTc0JiVlg2cGY1ZWxQZTNZZXJCSm4xXzNDdm1FZXM0ZXlHc1RUYlIySlRYNUUzSnhyU1BvQXB1Ymh0dlZLcGNNUkNIazJkU3J0eTlhN2lJY3VyODk0TllZZkdMdExuX003NGxmc1JQZw?oc=5"
       }
     ]
   }
