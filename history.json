@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-21 07:22:36",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6535,
-      "EUR": 4.2509,
-      "GBP": 4.9089,
-      "CHF": 4.5537,
-      "JPY": 0.024585,
-      "AUD": 2.3815,
-      "CAD": 2.6618,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 431813,
-      "DOGECOIN": 0.990561,
-      "ETHEREUM": 13712.35,
-      "LITECOIN": 430.78,
-      "RIPPLE": 12.76
-    },
-    "indices": {
-      "^WIG20": 2964.25,
-      "^WIG30": 3828.81,
-      "^WIG": 3828.81,
-      "^NCINDEX": 256.25
-    },
-    "news": [
-      {
-        "title": "Moskwa pod ostrzałem ukraińskich dronów. Przerażeni mieszkańcy i pożary [WIDEO] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlRUYWF2Qmx3YVp4ZXhTc1k4amktTHpWY0E1YmJCR1g1Yld4TkdDV1oxS2Z6X2VSa3kxLTJ2bEFKbEhEQjlVQlU2b0Q3NGczRUZXVWhGTW5YUmh1eHNfbXpyVVJzQjk4OFhTTFVZUGRGTkRvTzJfay1IazhnQUhxVE4wR1pha3ItQWlxSmFPRjlVWmFCU2UyV3htWVdrYUVwS0Fhaw?oc=5"
-      },
-      {
-        "title": "Rekonstrukcja rządu. Liderzy koalicji zasiądą do negocjacji. Padła data - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzUxNkJVV19ETl9DNF9FMzA5N1hOOVZYTGtaTXp2TTA4dGR0RHlWeThISzdZT2lpbDB3Q1l2bGZReFJpMzNkUUlfSEJHWXBWM00yREVSUlAyMDJVd0g0MEY4YXpjM285RlBsNkRGOWlRX2l2ZWlMZHZLUW1GZVliOFEtdFZYODUza3Nvb2R6U25wMUJINFVqV013dU9ZTk1wcjNzXzNiMVhmdklucWc?oc=5"
-      },
-      {
-        "title": "Prognoza burzowa na 21.07.2025 i noc z 21/22.07.2025 - Mapa burzowa - gdzie jest burza? - Sieć Obserwatorów Burz",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb181aUxydGh3bWV2TzBfLTUyWVpQWEgtQnN6aW91RmFKY2QtU1FFX2JtOWtkUzdHYWlCeFJyb0Ewdk9JSjAxZWRCS0pJNEw0d011d1JfWm1KQUNrLTdYRXJIcUhVLWd3OW90MEFOU3VpWWRVZ1NHWWhYaXRMRGdzMk1NNVVCZw?oc=5"
-      },
-      {
-        "title": "Podejrzenie cholery w Polsce. Szpital podjął decyzję - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHFyNmliNlJ6VUp4UHNKbFBscWIwT1VFcU9ya3RObXc5SFlYSU9ITC1wLWtVWG1XSW9zNElYa01qcjVtVmxwUzlTYmlTSzdBMk9DSnBYRzFtZ0NVX0ZGWENTUDR2Uk90Y0lRWl9VeFhRT2FZXzJjei1RaktEdm55QktOb3dpN3dZem1wX0V5RUNQZkFlbDRPbG9JRndUTElxSHV3?oc=5"
-      },
-      {
-        "title": "Protesty przeciw imigrantom. Rząd zapowiada stanowcze działania - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMklWSFY1V3RQSV9EQ1RSR3plUzBWSG9vUVduTG5UQUlBeGxDaTh1clAtdldLOGdocmljWG5oLVZYajJ5RHFKc0lGZ0ZxR3RzbnEtR3RwdG1rdDMyaWktRUx1UU9ZS1RTM3RIdVVnVlE5OVBMbGUtOTdTM3FyQXlVeWVhb1J2d1NaNkc5RGFBR3lHVTVYRGNaN0NnMER3a053U3d2OFNBcFc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-21 08:23:17",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Astronauci wracają na Ziemię po misji IGNIS. Co ujawniają badania krwi - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDN1RVE3MkNnTTc1Yk42VEhLc25IYm01bnBXX3ZuNnVZOXQtdm1WM2FYUmp5d2YzNk1tQ01iUFpvT09Rc29YaFlZMXBSNnQwc1dkcjE5YjNYM0QxTFppWTNmaWFaOVRSTEpUVW04eXBSRVVIZWoyd0lhWjVLeURwY1JHcmx1U3ltVURwZm1WcVdzYmRCOWlWcXhFcjZ0dTJVWU1RZUhqMllMb2JKNk9uVXhER0pNRHhqTEV2SkxPMWl4VS1xQk0xbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 13:13:28",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.626,
+      "EUR": 4.2544,
+      "GBP": 4.9102,
+      "CHF": 4.5746,
+      "JPY": 0.024701,
+      "AUD": 2.3871,
+      "CAD": 2.6696,
+      "CNY": 0.5061
+    },
+    "crypto": {
+      "BITCOIN": 429555,
+      "DOGECOIN": 0.929241,
+      "ETHEREUM": 13284.56,
+      "LITECOIN": 426.13,
+      "RIPPLE": 12.51
+    },
+    "indices": {
+      "^WIG20": 2940.66,
+      "^WIG30": 3801.43,
+      "^WIG": 3801.43,
+      "^NCINDEX": 256.97
+    },
+    "news": [
+      {
+        "title": "Waldemar Żurek nowym ministrem sprawiedliwości. Jest reakcja Adama Bodnara - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaU1oalg1OXZ6Ym9EQXR4bnlxWVdDLXk5d1l0aFd6RWJVLXAtOFhqTTN3LWlPQVdBVmI5MlR1WDlkZ29SOTJLR21hdGVVTG45bktCcklHVG5aSnhYNE5oMUY1a21Wc3NxZlBYd0U1WVJlaWE1aEdZa0J4RTR2ZG1NRW4yQ3NmblRUcUhPaFdzWUd5WUF2VXhlVWxCSVdtREJtS18td3ptRkZMNkxsR21DcE9ISGJ4eFhVSEdWWXFhOGw?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Donald Tusk ogłosił zmiany - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDVKaUFfZXpnbGN3dWt1bU8zenlPYVg4UXg3bE0ySHZUWXJ5V2lYYmI5a2hzbDhRZGxOck5kNkstSzlHNVlIRUV1a1pjdmhYUWxnYVpsaUFJaE5ZamdrY2ExUWxZUTZTSk12dkxDVUwtcDBhb0xXRmg1Qkx0TF9JU041Nnk2LWlfV1FzV0VsYVVJaGZkY29FX0NCbEp2aVhvWEZJ?oc=5"
+      },
+      {
+        "title": "Nieruchomości i pół miliona pensji. Oświadczenie majątkowe Jolanty Sobierańskiej-Grendy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXkySGhmWkJvejJqWnJNZWxMSWxlUEt5VTBseHdUM2M0enkzSzZ0dlBUckRDTFcza0ZNd1E2SDNZV1lRQXVRUm1TZmFHSWhrNk5Bd01URU12eG53ZGZ3YjZKU1k5cGNjdGhUdHlvZ2Z2ZGhKenNzM05IWFp1SVk5UG5WellMM3EwNlVLb1BtQWk0Zk13d0owZDQ2eFUzMmxJRDRNRTlkZzkzWmVwcUNDODdOcEpEMUYzVjA4Z0RnYVg3OVBMUGplRA?oc=5"
+      },
+      {
+        "title": "Astronauci wracają na Ziemię po misji IGNIS. Co ujawniają badania krwi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDN1RVE3MkNnTTc1Yk42VEhLc25IYm01bnBXX3ZuNnVZOXQtdm1WM2FYUmp5d2YzNk1tQ01iUFpvT09Rc29YaFlZMXBSNnQwc1dkcjE5YjNYM0QxTFppWTNmaWFaOVRSTEpUVW04eXBSRVVIZWoyd0lhWjVLeURwY1JHcmx1U3ltVURwZm1WcVdzYmRCOWlWcXhFcjZ0dTJVWU1RZUhqMllMb2JKNk9uVXhER0pNRHhqTEV2SkxPMWl4VS1xQk0xbw?oc=5"
+      },
+      {
+        "title": "Jakub Rutnicki ministrem sportu. Zajrzeliśmy w jego oświadczenie majątkowe - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcl9Wc3daMkxNZnVSVWtmWXVwRWhyUFk0dm0wYndmdzdvdTNMc0x0WE9HcXc4R3o3NXBqV2prNVlmWVk4UDZXd0VqQ1RPNnlrcUlMU0RCR2w3OTUxNWJvTHo1dnhnNTJfbTJmdTdzWFVUSVQtTjVMVERmS3Ffbm15aTZKSHg2M0lRRGtFTWxxMVNCX2xod1kwSkRYdEZmY1ZPSnV0ZWhzZlY?oc=5"
       }
     ]
   }
