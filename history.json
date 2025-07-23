@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-21 15:34:50",
-    "weather": {
-      "Warsaw": "Warsaw: +28°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +22°C"
-    },
-    "rates": {
-      "USD": 3.6455,
-      "EUR": 4.2445,
-      "GBP": 4.9041,
-      "CHF": 4.5554,
-      "JPY": 0.024651,
-      "AUD": 2.3758,
-      "CAD": 2.657,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 430834,
-      "DOGECOIN": 0.99353,
-      "ETHEREUM": 13800.19,
-      "LITECOIN": 426.67,
-      "RIPPLE": 12.86
-    },
-    "indices": {
-      "^WIG20": 2937.15,
-      "^WIG30": 3795.86,
-      "^WIG": 3795.86,
-      "^NCINDEX": 257.19
-    },
-    "news": [
-      {
-        "title": "Spotkanie liderów koalicji. Znamy szczegóły - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWVRbDQ0clVISDluRXJEbmlpdS14SllLRzdNWXFoLVJZR09YREFKSHdna1R2TnhmYnJjTWFiSkZqb3VlNTJ6SEIwWndXY21aQ2VLX25kRnNpbHprUldxaV9BbU81V2pwMXRBNWhPeG03UGFoS1lNanlBSDR0QzVDT3VyY0V4VjNJQlpUbF9n?oc=5"
-      },
-      {
-        "title": "Adam Bodnar o anomaliach wyborczych. Powiedział to wprost - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG9oOTNxM3h0RlN6aUNnMkg5QnJQMWJ0YjJrU3Q4VHZuZFBlR2ExV1NfYTBqNzNJQ3VpdkV2N3BWNnprdlBpTndCd3Jfdno1cFdmOTV2ek54eDNkcEVwc1c1NGk0c3ZDQUtSX0V2S1kwMzFaMXlqbVZxUjJxOG54SGd4WDNsUTM5M2J2X3hxMWZsR01wcE16cUV5c3k1d0paWVdtc3M1Vlhvdw?oc=5"
-      },
-      {
-        "title": "Niebezpieczna pogoda na zachodzie Polski. \"Znajdź bezpieczne schronienie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEs4azFJakJlQThjMlduTnZ4b1JidTV2VW1jYXJIYjFvXzFZbkZvN0E5Q09zQXNyZTdSUTR4NjNITmdLSnY1WEVMNWt1Vm9XeVhlekotbHF4b2lGc19helB2TURidjBGdTBsdXVFWE9QNFRaVGtxNWpHTzBfTmdvdkFpZDFxa1Fha2R0VzJIRnBHNmRCbGh3UndySUJER2RvaEhNMTZHU21iWU9RQXgtalpLamtiWWdBQmFhN0pKZFh6dUxVYWdDTTVucnlQUQ?oc=5"
-      },
-      {
-        "title": "Wypadek awionetki na Dolnym Śląsku. Trwa akcja ratunkowa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONk5qRHpNNjB3UHhPUUlEZkdaS0k4Nk5KdGRFTzdfTFBHNHlSUU8tMFVMQVN3elBXaGh3R2Z0cFZNbGM4aEhwZjJHdkdCZ3J5ZmRqYS1LRDBMN1F1QnJaWGtuWDhEVFNOeUNqN0syek5aUXpDZ0d6b2VITEZZMUQ5VFE4RUVmUGZjZkI0ZjhqcUk0TWI5S1BSM2dRZXpRT2M?oc=5"
-      },
-      {
-        "title": "Wojskowy samolot rozbił się w Bangladeszu. Spadł na prywatną szkołę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDBBYkxXWm9lQ2c1NDNJTzlhSzdoMWVhSUNxUkZNV3ZBZTI4Q0hyWWhIZlVfNlE3MXQ1ajhvUGFsMzlaUU81Wjh4SWkwNUZxY1E1aDZfM1dBTXRCT2pmT0RzVGVhemdXQ0d3ZXpKeHFTZGF3TDV5Uktaa1hsTHlCUnBpS1ZXQlQ4Ymc0WFRsQXNQTnZNS1J1VEFFdUdwMEV0dnAzRHd5WFJhRnBQYUdwcEdteDBvWkZPcUpBbUxtMlRadENqNkE2TQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-21 16:16:59",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wrze na ulicach Ukrainy po decyzji Zełenskiego. Prezydent zapowiada nowe kroki - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWC1GQ0NXcS11WkFvX1NmRVBJNWtmNnRQSjhTRDlENHE3MV8zRENodFVaQ2QtMmxJd2duLTZQeHZTb2hHV0lwZUx2aXNjd0t3NWdDelJGSm5JcW1zaHo5Y19lbGg2QWR3X3ROeTFwREhvcmxsb0Y2enRYLUxMUUdVQlZ6WW82b0lWbk5xY0FuVWw2c0xoVGNtamY0ZGVVWDhvbUxIUWYzT2xsOWs4ejdIRXViZjB4djZrSDF3TS1PSVdmaGc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-23 21:13:56",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.626,
+      "EUR": 4.2544,
+      "GBP": 4.9102,
+      "CHF": 4.5746,
+      "JPY": 0.024701,
+      "AUD": 2.3871,
+      "CAD": 2.6696,
+      "CNY": 0.5061
+    },
+    "crypto": {
+      "BITCOIN": 427773,
+      "DOGECOIN": 0.880701,
+      "ETHEREUM": 13033.13,
+      "LITECOIN": 409.84,
+      "RIPPLE": 11.73
+    },
+    "indices": {
+      "^WIG20": 2946.62,
+      "^WIG30": 3808.74,
+      "^WIG": 3808.74,
+      "^NCINDEX": 257.66
+    },
+    "news": [
+      {
+        "title": "W czwartek zmiany w rządzie. Prezydent Duda powoła nowych ministrów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVnZDNkZhZ3p5WmxXVmkxVlNGazJ3ODR6SlZfa21uZEdUZGNER2I0SFhGSEd5S3R5Q0ZscXdUOGJuRVdycHBxSnF0bU1XeVJhTTNhYWVMM3lTcVQ2dVR0VThldTUtNE9MTEdpbURlTVN4RWdWRFoyWXdKekFaN3pMcUxtSndrRm5KTzRJVkZMSlY3VWZJNVI1djFSaHIxcTRidkNkZzVFZEFFaVJT?oc=5"
+      },
+      {
+        "title": "Minister od \"twardych decyzji\". Co czeka wymiar sprawiedliwości pod rządami Waldemara Żurka - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEVHM0cwakRmSHFNZlZMVnA5RkZhYnZlRDJzclBVM0JMdnNHZV9GNVNON2JFaWFYWERPSHJqdFdsVVRBbmJTZ2RBRlFGMW9OcXd3RU9aZFI1ZlIyUE9OemZtWkxlZzhKUFIybDdSUG16VklSbk9INk5fTTdyWVlnSkRKTXYyUGFMc2xiQ3Vrc0tWY0EyWGNMeGtMay1OeEtZeHpzSA?oc=5"
+      },
+      {
+        "title": "Jolanta Sobierańska-Grenda ministrą w rządzie Donalda Tuska. Dorobiła się ogromnego majątku - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWxvSGZDTjZsUDZLNlhFcVYxYXlLVjI5S1EyTW5seTk0UEpReThWa0ZEc255VFJnY0ZVMGNBb19sTzI2VFA1MGtxdmlwZWdPSXZpdzFvWV8weTMzd0JyT1lEa01UcmtDdW1jb25JVTJlUTNsa19ySlhCNHlONzlIMUV1U1lIWU41ZnlRU1djanlqUllOeU9LU0kxUnhLeFp1cldGOTlFbEhlbnlCSWJJc1JfcEdCMDdfOEU3NmJNRTJJZHpwS1RxbHBkSXJmSGwwTGFmVQ?oc=5"
+      },
+      {
+        "title": "Ruszyła trzecia runda negocjacji między Ukrainą i Rosją - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXNkb3U1RUhlVXljMklsQ1VhTUViRnNXQ1lnSTRzbUpLZkRXY1ZaR1UwcHNZWnk5bG03d25NVHl3SHIxdkVyUXd5QVIwWkotVkRrTm04VTNzOUViT0ZORjBYSmZfUzRROEhlUDI5TEVoOTRYMjVRb3ZlX1U0clgtN294Q242MnZoY2NSYmFZMXI2OGc1Vzl5VzZfdklrZGRBbXFGbmJRZWxxdmZvOTRkeDZBTHVYTEk0ZHc?oc=5"
+      },
+      {
+        "title": "Ziobro stawił się na komisję. \"Przeniosłem zabieg\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGlCcDFtNy1EYlJMbWZsdWNlT0JqQ3ljaWpLRFc4OVdIZU04cWpTUGNmSXdwS3F3SmJfTUZlTHB0cmxvSU5WcnMyaEhtSmMxb3lmNUlhUkVWZ0VnWFlacnZFOVdGRnBVdFBWT2VQTmhObjcwMV91N0ZlNkZfTHRVaG02LWxpUTJjeTBIZ2g0TmJHbEJv?oc=5"
       }
     ]
   }
