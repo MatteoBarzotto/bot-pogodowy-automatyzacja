@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-22 18:18:49",
-    "weather": {
-      "Warsaw": "Warsaw: +26°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2531,
-      "GBP": 4.9044,
-      "CHF": 4.5612,
-      "JPY": 0.024628,
-      "AUD": 2.367,
-      "CAD": 2.6572,
-      "CNY": 0.5067
-    },
-    "crypto": {
-      "BITCOIN": 431395,
-      "DOGECOIN": 0.965645,
-      "ETHEREUM": 13518.36,
-      "LITECOIN": 422.63,
-      "RIPPLE": 12.73
-    },
-    "indices": {
-      "^WIG20": 2929.23,
-      "^WIG30": 3784.76,
-      "^WIG": 3784.76,
-      "^NCINDEX": 257.27
-    },
-    "news": [
-      {
-        "title": "Rekonstrukcja rządu. Pierwszy minister żegna się ze stanowiskiem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG5XZnMxOHlYQ0JlVzZZdWFGTzBMZDdPdnNweW5yS3pBeDJWQ0lIU0dkdTMzYTdRSjd5bkRxM1hZTkFweTBnU2Z0QzBMSTFsaExST0hoS04tTUdaTlN4dDc4N0p3S1gxelNvRWhSYUd6VHZsYXZaRUZWNUxqQ1o0bkJSdGYxR2VOWUhWbzlXNWdNckt0YVhGNWxUVVNSREstdkptWUNqWjJTWkxHdHpLVWoyc1dIRjZBSHFfdXg3a2ZINDlX?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
-      },
-      {
-        "title": "Te stanowiska ma otrzymać Polska 2050. Hołownia zapowiada - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHlvRzRUbTY4ZGFOeDE4cHJXbjdYYzQtLU54bUtVenVLYmJzSUQzRjNEaG5aQ1l6R1p0ZnJHR2xXUmh0RFNPeXc2XzVobTNSczBqMlAwcklpdFN5ZzVHX1c0UmZUVXdjdFFQVkdrWDBzVjM5X3dqZ3NzVHdUQzlfV3c0UjhWaDE3SnRDVzZUbW1wOXZndFROS2tETVk0LVpTaWg1ZGNZcTIwWW40Wk8yaVNn?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: Rząd bez Bodnara. Waldemar Żurek nowym ministrem sprawiedliwości - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelMtMGlTYW11STZOXzR0R3I5Mnh5MkxmdWhHTnIyY3hwRU9xMjF3aTc5WkJQUzd2blR4bU5oSXhMMG9WNGI1cktiMmtNWWpmLXFTbGY1STZ2aDExMExBYWxtWEFYMFRacFJPcllmTERhTURfYVljZzNTVEpzcGlVdDM3X0JBbWFRbjh0cmxTaFFUM0t1ZlNOdFl2Q0hfMmhIMFBneXFR?oc=5"
-      },
-      {
-        "title": "Donald Trump podjął decyzję. USA opuszczają ważną organizację - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXBaX21HdEk0MTdKenhzaVFGd201UGJwanFUUngxVEZXMmVMVThTVEFjR0xkLTVvM2tIUkFaUDZaZE04RW9zaVRtMlVaMzQwS2daYTdKbzYyQTFydVktY1F3Z2dXZjkzdEZTSVUzcWFlX2c0VTV3RHBPVjQ3YVRQRUZScjFJbFNnNThoR2dRT2tsaGNLNjRCM0drbko3MjhaTlE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-22 19:16:01",
     "weather": {
       "Warsaw": "Warsaw: +26°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Sławosz Uznański-Wiśniewski wrócił do Polski. \"To dopiero początek\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWtKOFBDcldST1QxZERXalpKa0l5MGlQS1lIaHoyQ1Vwa3J0WGV1MHp2S0tsV3RYcGlTTnlBazhfMWh0V0lsNnBSeE9ReTV5VUZiRVdPdnFPb09zTFBPNFBJS1JmZjZtOTU4MjF1RkJLRWZ0enZLdHZKbXN4cEJDMVhQeE9JWk5URTdBZWhfNnRad1hiRkw1b084dGlZSXVxM3hSLThBb3pmdFJUeEZHd2ZVTzZwZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-25 00:14:53",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6158,
+      "EUR": 4.2514,
+      "GBP": 4.8974,
+      "CHF": 4.5543,
+      "JPY": 0.024674,
+      "AUD": 2.3937,
+      "CAD": 2.6579,
+      "CNY": 0.5053
+    },
+    "crypto": {
+      "BITCOIN": 429780,
+      "DOGECOIN": 0.854042,
+      "ETHEREUM": 13461.75,
+      "LITECOIN": 408.57,
+      "RIPPLE": 11.53
+    },
+    "indices": {
+      "^WIG20": 2968.34,
+      "^WIG30": 3831.12,
+      "^WIG": 3831.12,
+      "^NCINDEX": 257.67
+    },
+    "news": [
+      {
+        "title": "Pierwsze wystąpienie Waldemara Żurka w nowej roli. \"Musimy o to walczyć\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOME1DOUJYaHJIUEUzU0puNWVWZF9ONFVHNHI1bmMzSWpvZWxnWlJBOGNBVjNPMmVZV1NzZUlSZDZfMGd6QXJpSnF2dG5KWEU2TkxpY2NuY1hkdkN0OU85bW9OMVBnRlJTOGd5TGFZV2RubUc1YkpDQUhDaVc4a0UxQ282TkFHbmZWVThBaE5mWE41YlZtRVBBWDQzbmE5WFZwUWI2ZV8tVTZvLVpRT0lGeloxano2WkxDSENmRG90YkllVzVhLU16ZHpfdG9PeHZ2OEJmbkNZdw?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Prezydent Duda odniósł się do Donalda Tuska. Premier zareagował - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejlqeUY1X2dlSHc4ZjBrVEd3S0JlMmpVUklvS3R0cF9JWXgwWEdBLXQ4aU5ZVUE5b3FYQW5TUW9peDF2cUxPcTZrSWN2VENFR2YxaEZJSzVvMXdhNW1qS0RTWC1pVTV6YlRjRlJ0RzVmckozWHN1S3Q2NjRWWTE1V3puSmF1MGNBb3hGUHBuNG5veGNFQm5zdWNJYlVocnVidzlMeHBJS1JnUWRRUmNIOHkwOHoyTXRJcDhXUWs3VGViQQ?oc=5"
+      },
+      {
+        "title": "Śmierć 15-letniego harcerza. Dwie osoby z zarzutami - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZW1odDFud1dLWDdhdXRLY1BPcXYxVzhlTkdqYW10ME5RNzFuOTJBcFkwMW9LNDNzdEVGTHplRU44RGxmcGtpVE5rMVVqc19TZjg1MGNpRVpINHptcm9UQXY5Q1M3N0JuZ3haWmxESTJibHJ6VnkyVzVBakFrZTMweE13RGprTlNZ?oc=5"
+      },
+      {
+        "title": "Nowa minister zdrowia. Tak zarządzała spółką jako prezes, wiadomo, ile zarobiła - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblYwWVhHUHJuWlk1UlhVaU5iVUw1c1hYcmNPekY1TC10eWVUSVVQTG8xU2xmeFdOMFlfbmxENzdhSnJOVXFWSEFfY1JNTVJ3S2loUkxCQmVIY0kxZlowYndpYWdEc1lGUUxjYk4zTGV0VHBPcmRCUWQxWE40STN4SVFxMXpXZEZqR0NCRUUxVFpybnlnWXlqMmN4aWpTU0t0QXRCZzdERklMOXNydTJ3UXNjbUFvRWxsQzBV?oc=5"
+      },
+      {
+        "title": "Pierwszy wywiad po powrocie do Polski. \"Nie mogę się doczekać następnego lotu\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnFkSzVLNUZnUHBkYzlHNDJMVENNR3ltQWVtRGdETGxSS3hULVZzNzBVN3l5TmtQWi0xeFVJYl9FSFIxQTR0YjlOTG5rTmYzc19OcWljcE1DbG5CcGw3TUZ2SVIwa3A2UE9JN01QN0lxaUhnWW9wSjgtLXNWTmdsNzBWdG1jbWtjc3NpV1J2STVhQ3BfVUxyZVlrVkg3cDlxMm1yTWNXZDI0eGUxWDc4Qlo5RVlsQmdQc0FYd0hFcmJPQQ?oc=5"
       }
     ]
   }
