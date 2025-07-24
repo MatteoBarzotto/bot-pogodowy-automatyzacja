@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-22 07:20:14",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6455,
-      "EUR": 4.2445,
-      "GBP": 4.9041,
-      "CHF": 4.5554,
-      "JPY": 0.024651,
-      "AUD": 2.3758,
-      "CAD": 2.657,
-      "CNY": 0.508
-    },
-    "crypto": {
-      "BITCOIN": 425162,
-      "DOGECOIN": 0.947632,
-      "ETHEREUM": 13389.17,
-      "LITECOIN": 421.01,
-      "RIPPLE": 12.57
-    },
-    "indices": {
-      "^WIG20": 2949.94,
-      "^WIG30": 3811.79,
-      "^WIG": 3811.79,
-      "^NCINDEX": 258.16
-    },
-    "news": [
-      {
-        "title": "Radosław Sikorski wicepremierem? Oto jego majątek - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd29IdVBHMm9XMTdaeklHdDhKb3pZenUzX3JCVzBtV3BWbVFBaVV4TjVLZjZhRkU4cllNRmpuQVBnSkJmN1RRLVR4OG51Ynl3M3RHMndGb0hTeXREN2w4eG9kdjNHWlE5TkdSbzlsNWhNX0E0QXdGMFVIRTJGbm9EVHZsRjktWjJiWkVuWlNiNHZ2clBJV09kUEx0QzZ6RGxnMTdQRW9R?oc=5"
-      },
-      {
-        "title": "Nie żyje gen. Waldemar Skrzypczak. Miał 69 lat - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVExmVUI0WUJGRktESHNVR3pRUkVmeklBLW1taEF4LUdBcHBQX29UTTVUeG5Cak90dVpTZjdfT0ktMElFN2ZOZUprTFBlRFVRTEhGTVdUX2ZGSUo4S09CbVlPZDlMbXFZSTZxREk1SUVTWVZteXNCX015aEtIQUM1ZEMxcWtUTnZjNWhkbk5qajZKeTJDamJ2TFFLUXNlRjJOajFseWE3MEJOckxGQmR5X3VTVEFOTGdtZkVIMWtucng?oc=5"
-      },
-      {
-        "title": "Spotkanie Karola Nawrockiego z klubem PiS. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk0yT2hOb1ZkTmptSVluQmJRNGxEejRZb0ViUHBnRTZ5TkRDa3RabVZSNl9jbFJKUXRoU1JheG5UcnU0Q011NGR6ZzhSemFmWWRXZk5qLTlvZVNXRFJYOFNrZzJvTlRvLUNyZ0pRRUhxRzJGSjIzSWRqaDItUHVKQWRidWdoTkc5U3hUZ051RloteVRCUzNjVGxXRjJlY2QxMVVIZ2hjbHdGeGM2eTkwQzZxWEVfS0xQeWpGXw?oc=5"
-      },
-      {
-        "title": "Syn Bidena o pamiętnej debacie: ojcu podano tabletkę na sen - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFh4V0FmREY4VGNTZ0I0Vk5HbDkwVjhrVXg2bGRJZ2M2bTFnbkk4TXZQb0N6c1VyZ3hPalRlZUp2QjFNOEdIbXZlR3FwY3JJeUloV3BPT3BTMkdVQS1xNElYbW12cUpELTZ0Mm5oaWNNcnAtWDdBZ28yZVIyZk02bkJIV2VMUnREbTFVMkZWMlRTOGxSR2l2cnhUcVUyaUpndURZdG5MOWtfaUVFQVN3OUdSNA?oc=5"
-      },
-      {
-        "title": "Trump jest rozczarowany Putinem. Europejczycy to wykorzystali - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3JpUlc5VUZBZXNfUDVEWEpOTEtOXzBFamRRUFV1TFRkZE1PMnc3cVg1aUtUNGN3RU5TeHQzTzRjaGhlSl81MXdyc1Q5OERWNUQ0djN5RE9aLS1tdExqeTdpX2xSSUtOZEg5YV9oVnpJc1dFUGxVanp6Q0ZIWlJqZVpKQ1VXUzQ2ZFdPUlFmbzdXNWcyZmhseHpmb1liVmRzcEJIeEV4VHhUcjVjZ0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-22 08:22:25",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ukraińcy protestują przeciwko ustawie Zełenskiego. \"Oddajcie Europę\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk5iMWNjTmNyd0U5ZTdVZHNFQ3ZSU1JKSHFyX1VlS3F6YVBMR29COGFySHhVdGhYWFh5UzJLaGtwekF4Vmtkdk5IYjR1a1ZtWWR4SjVwb1pIX2JQLVVlTjUyRHV4eF81TXA0eEtjNUJxV29nNFU5Ym91UjJlM2lUYnRmZ1d5aXVqcHpvNzJhWWFPdzVfZERKY1JyZHNheTFab1RVSlhsQjdYallrZHJsR191RXJDQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24 13:13:32",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6158,
+      "EUR": 4.2514,
+      "GBP": 4.8974,
+      "CHF": 4.5543,
+      "JPY": 0.024674,
+      "AUD": 2.3937,
+      "CAD": 2.6579,
+      "CNY": 0.5053
+    },
+    "crypto": {
+      "BITCOIN": 429206,
+      "DOGECOIN": 0.854091,
+      "ETHEREUM": 13165.97,
+      "LITECOIN": 409.71,
+      "RIPPLE": 11.26
+    },
+    "indices": {
+      "^WIG20": 2950.76,
+      "^WIG30": 3811.27,
+      "^WIG": 3811.27,
+      "^NCINDEX": 257.18
+    },
+    "news": [
+      {
+        "title": "Waldemar Żurek zdecydował w sprawie statusu sędziego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1hsS0dnOXFWNEFNUjIyMjJHZWw4YnljQkNzR051ZnRma3B0dkw4UUJNTDhXYzVrSTJsbnF2T0N3dWpic0xZQXpKQ3lIN3hNS2dUNk5MUVF0aVNqd0NwdkJuWDBER19ZU1A5OGZ4LVFPaEttS25mY1JuNTJRQlA4bXFPWUIyRmwwRWFEbHFHczh6aGRHbnRnc1gzRGd1RVM1dUFBTThBLUxNUjJ0N093V3NmYkJJQQ?oc=5"
+      },
+      {
+        "title": "Nowa strategia polaryzacji. \"Tusk, prezentując rząd, ani razu nie wymówił słowa PiS\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjNlZUJZaC1YWTdELW02SFFRMWFjZzFkbVZGQVhxdVpqY18xVUttcWQzUFlBaHlibmpwTzdablJLV1NaUjRoa2w4bkduV0R6bVhsWV9vUlFOVXdFcnNyU1JJbWFxcEhOZnV2TS1KYWhPeW93TFpNYkNfRjZtSVE4TjFqZEIwUlM2QlZuMTRyS0ZORGJBeUpnaVAwa2M4amRN?oc=5"
+      },
+      {
+        "title": "Sławosz Uznański-Wiśniewski w Polsce. Pierwsze słowa po lądowaniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmMtNEgzbVhoS1VJclo3Xy1VOUdyR3JiRXNxY1dKS0YzZ1dsSUcxRVd1T2VTblZESEZRZGs0V2dWRE8xWU12RlI0ZTlvX0MyZDhYbWFRZTlrUVlsdlM1b2xKdklMdm1LVUwxbzJDUExMYng5TWdlUzNUTEdSSGlmSjM3bUNxcUVUUnRWZXFIdTdpaG5ScVZCa1FZR2xIejVCaE5NNTlHeWxWb2JadXJQeE9pS3RvRUQ5MG1lcmgzbkxRVThFWEE?oc=5"
+      },
+      {
+        "title": "Krótkie negocjacje na temat zakończenia wojny. Porozumienie w jednej sprawie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjVSbmVzZjA0TnprUXBrTTEyWnlsZVk0Nk56YzV4ZXhvdHdQUDBPRS1UR1RQUXpQWklDTXdyeWh1ZFFQX3lXMWl6Ym54TmQzOXViMHFsOHhsYTdiQl9OWWZtaEliNzlvcENJbi1pQUtJdTg5c2ZpOF9GZHFIQUVMck1GSUl4MXdSUmtMeVduLTc0RHQ3UjZaRW1pbUdJZk9RVmJkRVhSOXltTFRjRFE?oc=5"
+      },
+      {
+        "title": "Nie żyje 15-latek. Tragedia w trakcie obozu harcerskiego - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkhTdzdsMmNsNVFUbkhmLWtfLUUtZlNZSXFiNkN2Vy1BaW42YVgwRHRXQ19NUWpaNW9YN2pRWDZibUdITFlUV3V1dlhoWE56dTFQei1aYnNkQWdBY2JXbjJ4MDBSUWVSZVZwSGg3Z2NyTmI0Z2hZSzdtcnVpSzhJUE1zYlBTeDhfUi1kRmloaXRhYUVadTNoVEpB?oc=5"
       }
     ]
   }
