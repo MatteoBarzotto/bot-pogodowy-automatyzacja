@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-22 15:34:08",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2531,
-      "GBP": 4.9044,
-      "CHF": 4.5612,
-      "JPY": 0.024628,
-      "AUD": 2.367,
-      "CAD": 2.6572,
-      "CNY": 0.5067
-    },
-    "crypto": {
-      "BITCOIN": 433466,
-      "DOGECOIN": 0.96893,
-      "ETHEREUM": 13445.8,
-      "LITECOIN": 418.51,
-      "RIPPLE": 12.8
-    },
-    "indices": {
-      "^WIG20": 2933.85,
-      "^WIG30": 3791.33,
-      "^WIG": 3791.33,
-      "^NCINDEX": 257.12
-    },
-    "news": [
-      {
-        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
-      },
-      {
-        "title": "Niemiecka prasa o złożu ropy na Bałtyku. Alarm na Uznamie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGdNR0wyd1ZXNW1ERVJtUWJ1RktSNGxMbU9JdWZRWjd3dXN5U1JILXFtQl9QRXVWdngyN0JWTnV0WVBheU9aNzdyaGdnS1pYcDJnUDEtZTByTkNDUm9FdEZQMncyTTZJampEVE1vMUZlaGVpOWlhMkhiMm5VTU1NR1JhSzJidmdzVjBub0tUanJXSW1vYzRaVVdxVDBDRmN4eHh0R3RqeXZpdHJvSktoQ2dobkNJcGF1dnNF?oc=5"
-      },
-      {
-        "title": "Trybunał Stanu dla Małgorzaty Manowskiej. Jest wniosek - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXJBVXJ5dnBPa2k0TUNteTBWTUxCSGZHdnFUbXZjU1F2SUxDN3o2YzktMExSSlhmakhDQlIzQm54R3d2enU5LUlxaWRjSFdnLUJxNVB0MGp6Y2thWkRfdlJfSVFfVUxQWU1US2RCMHpOS1ZWQmZodHkwTTJHTlJFN2JfcENZckpYZzgzSTdKdjRTeUxyQlBHQjFnY0RUWGU2UmhUQ3VNZFJjM2FhT3RTZUtYMmZ4ZUU?oc=5"
-      },
-      {
-        "title": "Izabela Leszczyna jednak do dymisji? \"Tusk wyraźnie to zasugerował\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0txeUVTX1U3SkF0ejBLQU5YcThFZ3BWcjRvazJyV25rMWxiLUFtVGJ1THZIemxIQ1NvYU5mdE9iQ3E4MEVTYnYxZVFSVk4zVVY4Q25PWHJ1MHp6SDdmUmpwbFR5cThUMzljcldra2NnWTVwZGQ3d0dBLU1MbG1sVERNaTEwN29yN24zaFNNNHVDb0NVVC1wR0wyQXhIWFByUHV6VkVkZTNjdzA?oc=5"
-      },
-      {
-        "title": "Donald Trump zdecydował. USA wychodzą z UNESCO - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUFtamZjeC1OeEFoTkR4d0JwalR6elhLcDQ5XzVqd2FjdVRrQXdENV9veWtvS3FNT2gwbkRfajZMOHEwTE1mYV9TVlZjZlFBXzhTX214VDFlWnpLUXJWbnBOSVEyQ2ZxQkJyaDFZQkpoNzhYNmhpRkhqOUkwNnlyWGd0bm5WeTJyb1ZRdDVBTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-22 16:16:50",
     "weather": {
       "Warsaw": "Warsaw: +26°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Lekarze w szoku po słowach Tuska. \"Hejterska retoryka\" - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVhLR0d5Y2lJZlozU0h4T1MzS2ZoRVFoUHhseVlhUVU2SzlWdG5pMUFadUdIN0ZGaV91aVV4ci1ydEVyZThfd2V3M0hvMzJZQS1BYlNFQmVRNmEzVG9aUmtvc3dadE00aHQwWmNHeGR2RTgyX2dLakhzTGZRd2VWME9NR3B5S3N5S1R5ejlsVGVCQdIBkAFBVV95cUxNbWROanJ5bF9Sa0dyOG83c3RkY0JTOEFnTEcwc3FFR1JlWnh4bDBDMFFHMU8xMXZ2d1ZPVU4zUjl3ampHUzNLWDc3TDBsNWV3cFh3UW1zckxPTkhydG83TFhRdUUyNkR5WGp0Q2FvNzY5dFZkdzk2ZEF4SWpRclN1TnEwV3hzQXdSZmMzSEJEekk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24 21:13:53",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6158,
+      "EUR": 4.2514,
+      "GBP": 4.8974,
+      "CHF": 4.5543,
+      "JPY": 0.024674,
+      "AUD": 2.3937,
+      "CAD": 2.6579,
+      "CNY": 0.5053
+    },
+    "crypto": {
+      "BITCOIN": 431647,
+      "DOGECOIN": 0.869706,
+      "ETHEREUM": 13564.69,
+      "LITECOIN": 411.05,
+      "RIPPLE": 11.76
+    },
+    "indices": {
+      "^WIG20": 2968.34,
+      "^WIG30": 3831.12,
+      "^WIG": 3831.12,
+      "^NCINDEX": 257.67
+    },
+    "news": [
+      {
+        "title": "Tragiczna śmierć na obozie harcerskim. Są zarzuty dla dwóch osób - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1dRejlRWGJjeWF3UW9NcnZLRGlWNTF5SEZFY3N3VmZoVEMwZ1ZnMDdYd0R5MHFNekx0aHlxY0lfMkRnZGxrSGVlRURkcjgtaWtmZHdsNkdNenl4VTBSVVhzRmxZZnJLaHRiNnpjNk84SUU1NkNNUk5CcmxDSjl1S0puX3Ffd09YeDFtTUNTemFESG0yY1U3SXE0a0RvZkQ4N3V1aXU3emNGQVQ4Y1RKYTl5SU1NZzU4ZjJwQWJrVQ?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Andrzej Duda odniósł się do Donalda Tuska. \"Wie to znakomicie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0tUaU01Y3RSRUtHZ1NIZFZqZEQ1bi1pWWxpUTQyaU9vRnlDa3QtN21qejJENnFGNW0tT1lFS2U2SF9VLWROcUlPWU1VV0FpcGV2dDdueEJLSlNBZjNOMXc2VXlCTlAwV082c2NhR0NNRTF0ZFZhNUxLV2xBdFpuUGFKYm5pNFd4V0wxM3RSa21oOU9LTlhjSFRGcXd0b2ViOUxLenRyVXdpeDFCSTlpdjdvNA?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: pierwsza decyzja Waldemara Żurka jako ministra sprawiedliwości - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUNoUHZRS2trVkJoTEhCQUh3UHJvNTZGdS0tWjZYd0YtSEdvYzhISVpONWpEUnpVV2xPeUo2blNLR0hzN2VnYXlxYkdsY0UzYXVGYWlwNWt4QXVYWjVNc0t1YkFLQng1Z1M3YVB0UUczdUUxamVwa1h5c3hBaTRLd01Dd0RmQWxYcjdkUVQ5NklRbWxHQTJDVHdyblRFczV2NmNoLUZYOUh4ZDla?oc=5"
+      },
+      {
+        "title": "Nowa minister zdrowia. Tak zarządzała spółką jako prezes, wiadomo, ile zarobiła - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblYwWVhHUHJuWlk1UlhVaU5iVUw1c1hYcmNPekY1TC10eWVUSVVQTG8xU2xmeFdOMFlfbmxENzdhSnJOVXFWSEFfY1JNTVJ3S2loUkxCQmVIY0kxZlowYndpYWdEc1lGUUxjYk4zTGV0VHBPcmRCUWQxWE40STN4SVFxMXpXZEZqR0NCRUUxVFpybnlnWXlqMmN4aWpTU0t0QXRCZzdERklMOXNydTJ3UXNjbUFvRWxsQzBV?oc=5"
+      },
+      {
+        "title": "Nawrocki gotowy. Szefernaker zdradza pierwsze kroki prezydenta - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHJ1SDV2b1gzUkt6U19EOUZCMGpZdkJvM29oMXhSckpWbVBQclVfa09RX1BFcWcySlJwdFhsUlU3NGx6aGJKQ3RhaDFiRU95T005eHVSLXV4SFFUYnR4ZjBtbzNjRlNtYVRjUnN2aERiSnloVGtNZDhTYlJveUotLXZlbE0wb21velUxSmU2cDdQWVdyaVY1VW9wNk9ZQkZaWlVGMEdKdUdNc01IUTM1aUxZckFVcDFxcTZB?oc=5"
       }
     ]
   }
