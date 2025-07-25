@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-23 17:16:22",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.626,
-      "EUR": 4.2544,
-      "GBP": 4.9102,
-      "CHF": 4.5746,
-      "JPY": 0.024701,
-      "AUD": 2.3871,
-      "CAD": 2.6696,
-      "CNY": 0.5061
-    },
-    "crypto": {
-      "BITCOIN": 427749,
-      "DOGECOIN": 0.896479,
-      "ETHEREUM": 13076.27,
-      "LITECOIN": 411.26,
-      "RIPPLE": 11.88
-    },
-    "indices": {
-      "^WIG20": 2946.62,
-      "^WIG30": 3808.74,
-      "^WIG": 3808.74,
-      "^NCINDEX": 257.34
-    },
-    "news": [
-      {
-        "title": "Ostatnia szansa rządu Donalda Tuska. Trzy wnioski po rekonstrukcji [OPINIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcThhUjBmN3ZGc0JvY3oxRHNEcG5SazVmdmh6MzlVU3BHenUxaDR6ck1XdlRlaEVyRmJmTG55eWxCM2NKb0VQY2hlY1p6bmVORl9McFRlVnFObXV0TGV4dHRMUk1oWHlKRjJHTmpTTGZMa1Q2cUd4YjdOS1NldF8zZExULUxNMDRNUjN1WGV6R0xsRzJqVFVFdWczOTM0ZmpUVi11N0lhWGFuaTZGVkxBUFBFTEt4SnkyREdGdG9zOA?oc=5"
-      },
-      {
-        "title": "Minister od \"twardych decyzji\". Co czeka wymiar sprawiedliwości pod rządami Waldemara Żurka - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEVHM0cwakRmSHFNZlZMVnA5RkZhYnZlRDJzclBVM0JMdnNHZV9GNVNON2JFaWFYWERPSHJqdFdsVVRBbmJTZ2RBRlFGMW9OcXd3RU9aZFI1ZlIyUE9OemZtWkxlZzhKUFIybDdSUG16VklSbk9INk5fTTdyWVlnSkRKTXYyUGFMc2xiQ3Vrc0tWY0EyWGNMeGtMay1OeEtZeHpzSA?oc=5"
-      },
-      {
-        "title": "Jolanta Sobierańska-Grenda ministrą w rządzie Donalda Tuska. Dorobiła się ogromnego majątku - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWxvSGZDTjZsUDZLNlhFcVYxYXlLVjI5S1EyTW5seTk0UEpReThWa0ZEc255VFJnY0ZVMGNBb19sTzI2VFA1MGtxdmlwZWdPSXZpdzFvWV8weTMzd0JyT1lEa01UcmtDdW1jb25JVTJlUTNsa19ySlhCNHlONzlIMUV1U1lIWU41ZnlRU1djanlqUllOeU9LU0kxUnhLeFp1cldGOTlFbEhlbnlCSWJJc1JfcEdCMDdfOEU3NmJNRTJJZHpwS1RxbHBkSXJmSGwwTGFmVQ?oc=5"
-      },
-      {
-        "title": "Nowy resort dla Polski 2050. Posłanka potwierdza w TOK FM. \"Nasza pani od kultury\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTRvY281eUlOOG1HQm44VldSTnhRU3Z6S1huaWZOX3BhZnJiMTNFOVRBaUFjbzJjZE1haUNjN2VaZzZnc1lhUkxnUkVCZzluZzQyQ0pzVEVNbTUtRE8zNW1RZGNlbWVGQzF5QjFoS2h0N3R4TjVRLThHblFETjJodzU4bFF2Qk9oTjNIcld2X1BGX2ppdnIzSlB3b1p1TWdGdm1HMGo1SG81R05mVTU3Uk930gGwAUFVX3lxTE9DY0hDVl9RUVNjNnB2ZU9SZ21ldmNQWDkyNjgwMENwR1RrbHVPOVByWWF2Qk1xSDZvTlc4RVE1OEFMdHlsV3I1dmM0eHl0aHVMZXNUM0pWU1hCSXFkMlpoNjRVUE41ZnZDZml2QTdjVlFfbXJra3JsdlQwT2toUUVLZGgyVFlMcXVLZ0Z0cTQ3cjJ0ZjdLVG5adVE2TmxzbVYwM0dXOVBnRi1Jc0Q3X2hv?oc=5"
-      },
-      {
-        "title": "Niemiecki polityk ostro o odkryciu złoża ropy w Polsce. \"Zacofana polityka przemysłowa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGlYQjNqLTZDM00zWVFROHhscTBKTldRYUFBNVJ1V2RMWUZ4cjE0NDkyV3hpNWQwczlqZ3pDdGtDUHo5UDFuVDVnT041WGIwbkxDT3E0VHItZ2l2Sl9HWW9XMUszTmxOR040ZlI0YlZ0dWR0bWtpRHdyRHFXa2NWaUJYOTRGbEQ2TnlwZHFWa3EySVBSNTdEam5DcTVwNkdUUVdhdmRYV19NX3FjaWZ5YjR3M0V3MDVvc1djU1RhbkhteWZHSW1UWUV0bWVGaW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-23 18:18:59",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Jarosław Kaczyński chce, aby Konfederacja przyjęła „Deklarację Polską”. Co się w niej znajduje? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTEFaeE5yQnFTSDRFcXZGLTZnd1B4UHVBcGlKOUxET1RSMkNvMkdrRjZLTUlyRUplV3hhUEFDN1NJTzZTbkxWQUNwUVNmaEhTS0JtNGxEZVhtZVBRRGdnNmp4bjd6TElOQnpZbEhhS1oxQk50U3J5S0VsUVpjREhNeTB6LWl1cDBQNUNkeWNZNG1PSTRrS3lUTkJiVXFJaU1xa1dfTUNRU0NOcEg2VVhGNl9Ba1M5ajQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-25 23:13:50",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 424059,
+      "DOGECOIN": 0.843441,
+      "ETHEREUM": 13384.43,
+      "LITECOIN": 409.25,
+      "RIPPLE": 11.33
+    },
+    "indices": {
+      "^WIG20": 2962.94,
+      "^WIG30": 3823.99,
+      "^WIG": 3823.99,
+      "^NCINDEX": 257.54
+    },
+    "news": [
+      {
+        "title": "„Następnego dnia się pożegnamy”. Donald Tusk przedstawił ministrom ultimatum - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFZYR3pGaUlkSFB5VWhxbEhGM1ZHdTk5ZjhqcktKQXNKcUlTX3pockRQNFZ4dDAxU1ptWlN0cks4N3Z3NnRCaGN5eENITmtNa1c1Y2pvZk5IbnJaQ2pnb2RYSFM2Z1RqNnNISE9teGhiOHhrRkpZQUoyTlFuaXYxQy1tNFdMRnZoaVNXdlpYczhXSmx3alNVazQwdWphTWxNeW5hTzNGdUV4V3pmcWRwX0FB?oc=5"
+      },
+      {
+        "title": "Tragedia na obozie harcerskim. Barbara Nowacka komentuje śmierć 15-latka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXhuV1d0ZWJQNGZNVzZaZ3g3WUVQQ2FKekt1MTlQNm9wdWdfeHMtSWZqV0c4WlMwYzFnd0JiNWdXRkVoRk9SamtxTFVPNWpQbG9hQ3YzSE51eXY3WTA1TUcySk8yWGs2Vk1hc283UTF6d2VpLThPdUZ1TFRnM20zbUxZdUpFemlTT2I4N0FfbDV2d1R5d3p0YWJpekt6YVBSb1VMYmd1QVM5RWctcHJ1eGkzNTBTZE1IQkdtdGVRUGpPdk1SMWc?oc=5"
+      },
+      {
+        "title": "\"Realne zagrożenie dla demokracji\". Wrze po słowach Hołowni o zamachu stanu - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkI3Wk52NDVIaDlLVU1tRkFVTGRESXBRaGFxS1pFQlpMQlc0dXZsRWtpN3FLWlZZU2hXakl3a2UtWUhtWG8xU0tUTHVOS0lHZHlCRFVzNGwwcFdDOWFsY1otSy1SMDctT2FoSHEzNmdoSGFVMWxDYlVwVEtnVFpCbE5DcnlNWVJyWGxzbXlLZkUtMUloVm96VGt5T2JkZjhNZC1FSkxvaUU3TVY0ck5wYkZ6SQ?oc=5"
+      },
+      {
+        "title": "Podpalone zwłoki mężczyzny na drodze. Duchowny z zarzutem zabójstwa [AKTUALIZACJA] - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlhfdUVLYjU0Nm0zSnNpQ0NJbTBYOGZ2VWZBYkktbWkxZTB1cTZJZG01SVh0SkNoeExtMHhUV3R5eWZvbWcwMWxwYnZhSFpxeTVZVGdMMmJGNEVYb2p4Z1NTa0s2X3ZVU0oySkZmaFRKamxIZ2tWUFlRbFpnLUJWdGNaVFVMUkJ0dTZ6bVFPWnhVbEhLdWdFTm5FUXl4Q3VfZVM3b3ZPbk10SGMwWGNV?oc=5"
+      },
+      {
+        "title": "Trybunał Stanu dla szefa KRRiT. Jest decyzja Sejmu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0xlSEdNbnllUEFGMkQ4NHowRkpRVjBIRVIzTmJkUlZmSWJDc0hYWGRBUDF4cWladjdEaUNjdEhVa1N0OGxxYlE5N3FZVE8xbmdlOHR1VVQxa1cyaWo0dVJoWGU2VDlkQzJXZ0JRWlNsd09xLUVNei1EWEhJaTNWUnlERkNZQTVMTnhRMlBmQU9xLXRlSW9LeGtnbGVPZw?oc=5"
       }
     ]
   }
