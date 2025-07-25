@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-23 06:36:03",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2531,
-      "GBP": 4.9044,
-      "CHF": 4.5612,
-      "JPY": 0.024628,
-      "AUD": 2.367,
-      "CAD": 2.6572,
-      "CNY": 0.5067
-    },
-    "crypto": {
-      "BITCOIN": 430582,
-      "DOGECOIN": 0.960976,
-      "ETHEREUM": 13522.31,
-      "LITECOIN": 433.6,
-      "RIPPLE": 12.69
-    },
-    "indices": {
-      "^WIG20": 2929.23,
-      "^WIG30": 3784.76,
-      "^WIG": 3784.76,
-      "^NCINDEX": 257.27
-    },
-    "news": [
-      {
-        "title": "Radosław Sikorski może zostać wicepremierem. Szymon Hołownia potwierdza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhrRFdxQTBISU5kbThQTmxPSUhlSE80Vk5pRG53Nm4wSHpyNHlwTWVBTHI2dFFRa0JVcjZDWVh1SDRZRTZYRDFONjFlUUtjQnVId2UxTk9YSk1yeUQxSzBLbVRvR3poa2xrQzNXTVFHd1d3UVVlQ0dFN1NnMl94SWU1YS0wUVRLbTdUMmNCV3dVTEl0VmtzTzVlWDh4dDI0TEt6b3BOSjFEazNkQnEzVG9LY0hldWZkXzh5Tg?oc=5"
-      },
-      {
-        "title": "Prezydent Ukrainy podpisał kontrowersyjną ustawę. \"Ona niszczy infrastrukturę antykorupcyjną\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzhWV3d1Ri1faFlvV3EyRktubGVOUVoxaVAzSzkyVzM5bzIyNk1RX3RmajFfUEloYy1DWThDbXZfZG5rR1JDX0ZLMFp0c25JOWxmWGdKaExDd2NtZ2E4d2ZqN3BPX21MbDF1UGhFVEZESk1rUXNzNDA4cGhTUFZvRVh5ZGR4dDBBc0pxRktQYmQtNDBsQlZiY216VXBXYkVpNl9sXzJmN1BxYnp4ZlhvOEYtai1NRTkteUZIcjkzaHI?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki spotka się z klubem PiS. Znamy szczegóły - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXQ0U19xX2tZMHhBYVRnSFByUkNEbjRwWEtDU0VYcUxwMWZFMi1QWmxBS3F0Y2o0Y1U3YnEtTVR1bk1BaDBZY0dhTWNvZS1VVFlENWYxV1FYQkN2bUo4aWtvWkg2T0VCbjkzWVVVWFNNWi13RDNYTENsdHlLY1hqNi15Mm5ialJRb24xVDVVOS14djlIRWZhakhDWVZLZEhCUnN0eA?oc=5"
-      },
-      {
-        "title": "Nie czekał na Tuska. Pierwszy minister już się pożegnał - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTluQ1pmWmhQU2tvbUZORkw2d1h5MHRmdUxoMkg1RWY3eGxzZHQ1eGxiSkJDWFRpQzZUM3FxTWNsRVJxTDJEM0Q4RnhEUUMtcXFra1Z0TS1uaGhIdjFBcG9vYU9PQTFSWVRDdVdpaS1weDlOQXZ5LTJINUE2QlVrUVhHeUxNTzFVakR2T1BZWUtUSEJBMjR0Qg?oc=5"
-      },
-      {
-        "title": "Małopolskie obchody Święta Policji - Policja Małopolska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmExUkgwbVVIUExCcXhlcnRjaWlCNDkzUHU3SGVudUhja0JUemFjSFhWdVBRa1lrVXc0Sk0yWW1KV3U0MWZRekNtRkdKWEtaNE9nNjEyd2Ezc0VlSFlEcFNObUtidFVPOFpZUjMtT0tBZ1JRQ3RVWFhDaUU3bWFTUXktRThvSUs4THAxdzBXRFZYVXh6TjNDdmxuNHJ3ZkY4emRXRmlNY2JxUU0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-23 07:22:43",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "4 mld dol. na modernizację armii. Jest podpis szefa MON - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek12eDlTeWEtQ3hyREZDQUlLVjczTWhpSENkMTBmLWtDMG9ieWlyWFYySlQ2MDV3ZTJDNVJhQ3RidUx6WFAza0JLenhfR0tvemZ2U0wtby1UTVIxLU5nV1FLby1RTlRTVE1sZ2ZaNmp6NnJDQnViSTk1WTZDMVh3T19DRXBJQWV2NXVELUlRMHZ5YWxSVnJhaUt2Y2prZlhTZ2dHQmNrTEEzaHJq?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-25 12:16:42",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 421233,
+      "DOGECOIN": 0.840635,
+      "ETHEREUM": 13486.76,
+      "LITECOIN": 416.12,
+      "RIPPLE": 11.34
+    },
+    "indices": {
+      "^WIG20": 2948.74,
+      "^WIG30": 3807.76,
+      "^WIG": 3807.76,
+      "^NCINDEX": 257.34
+    },
+    "news": [
+      {
+        "title": "Donald Tusk o wyborze Waldemara Żurka. \"Umówiliśmy się\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXJWZTJHazlWdDJDWGV3QTZmYXJQVmtpZF9VR21iZkN6eWtEaEF2amw0RFhWYXdMalExdEdveE1aUWY1RWJ0a2daMmdWRDl0RlRVNGU0TUZSWm55R2JKZERxTktvOEcxMm5aYks4QzFPeGo0R0ZjWlRqMkg4bHZDMDZIdEhsWEhGWTF4RndJazNRWXNlek00?oc=5"
+      },
+      {
+        "title": "Tragedia podczas obozu harcerskiego. Dziś sekcja zwłok Dominika - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2l6ZFl5NGpIVWUwTmk5VmF4Nlg0UElFa1YtRlRjVGNmSHdkMXo5SFlRZWd1aFFQdmhOS2dTYVE2TjlVWjlKZ1dBOC1uS05VaHUzOC11Y0k1SXg0QXhvWjhiYUdMSkNWS2F4SzhSbDNfdXBFUld1eUZYQUJUNWZVaG4tbVREWlAxWDBiN0syZjVNaTBDU3hsYURhMmZZLVVZ?oc=5"
+      },
+      {
+        "title": "Leszczyna pożegnała się z resortem. Niespodziewane podziękowania z PiS - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTlJMzAtYXJnYlMxOU4xcThRa0EwU0RQYXU4YWw5UmM0bW8wdmVGb3F4LVBrT3d1eEJCaTJROF80ODNlWGNPX09XRmNUTXd6YlRvMlZfQ3dfR0Z3Q3doYnl0NFpraEdhRlJ6MG5SUy00eGlVSWh2clA4SXRPa0JkTjBMNFpCZlBPSFFjNllpNDM3a05vSGg4OXFFWk0xWUhyYk1fX0RYMTNfeWJxQ3l2YnBB?oc=5"
+      },
+      {
+        "title": "Ministra edukacji - ocalała przy rekonstrukcji, ale przed wyzwaniami. Eksperci komentują - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlNRU2FtZWdPWThZc3dqTVp5Q01qSEVDQVBMcUZCV0JvbkRWRU9OT0tiQVJsc0RjYm9QQW02VHhMWk1KNFVoMnV4ZWJsRl8wd1hEX2lMUWlsZ3B3c1BXY2Y2ekQxUVJ3SXVGcHVENVhBN2hIT1NRZXJQZE5XTlpBYlQ2U1VlMzhwRjlRakRBc1RXOEFtTWJZYklnZlBxMjVXRktTZ216WTJ2bEFOa2FLQ2IzTmtjNTFpMm1zcnJ3Q2MtUjlDQ00tcWU3TTFDWnpQeEZLNjA1RQ?oc=5"
+      },
+      {
+        "title": "Rekonstrukcja rządu. Prezydent Duda odniósł się do Donalda Tuska. Premier zareagował - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejlqeUY1X2dlSHc4ZjBrVEd3S0JlMmpVUklvS3R0cF9JWXgwWEdBLXQ4aU5ZVUE5b3FYQW5TUW9peDF2cUxPcTZrSWN2VENFR2YxaEZJSzVvMXdhNW1qS0RTWC1pVTV6YlRjRlJ0RzVmckozWHN1S3Q2NjRWWTE1V3puSmF1MGNBb3hGUHBuNG5veGNFQm5zdWNJYlVocnVidzlMeHBJS1JnUWRRUmNIOHkwOHoyTXRJcDhXUWs3VGViQQ?oc=5"
       }
     ]
   }
