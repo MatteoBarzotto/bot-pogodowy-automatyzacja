@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-23 10:20:57",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2531,
-      "GBP": 4.9044,
-      "CHF": 4.5612,
-      "JPY": 0.024628,
-      "AUD": 2.367,
-      "CAD": 2.6572,
-      "CNY": 0.5067
-    },
-    "crypto": {
-      "BITCOIN": 429641,
-      "DOGECOIN": 0.94647,
-      "ETHEREUM": 13342.81,
-      "LITECOIN": 427.0,
-      "RIPPLE": 12.59
-    },
-    "indices": {
-      "^WIG20": 2966.96,
-      "^WIG30": 3833.33,
-      "^WIG": 3833.33,
-      "^NCINDEX": 257.55
-    },
-    "news": [
-      {
-        "title": "Rekonstrukcja rządu Donalda Tuska. Którzy ministrowie stracą stanowiska? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkNmR0dUaF90RjdsUWQ3VE5OV2VQaVU1b1dVNU9aWEh2aFRieFJRSkF6YWdPVjE5LWdTQ0JVX0xFeXBpRlYyMFBsOXh1SHluQ2FZN2NtQktwZmV2UjJHYTJJTjNfQW9oY0N1MlhnUHY1YXpULVM3SFQxNzN4bzBtSjdfRTAwdjlXSXFV?oc=5"
-      },
-      {
-        "title": "Zmiany w rządzie Tuska. Waldemar Żurek zastąpi Adama Bodnara? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUlTM19lMVlxME1Hbm1iMGdRbzV5dkxVem9YN2REVmRPSnl2bkFWMmxzdWtUeU5rcklpQ012aVJlSXlqOWN5djNJRlhaZXR0UkJkdjRTaGdud1ItSzVRdmdyQnoyRm41cEl4ZDRLNDBHTGN4RmhaLTRrRWU5WkdBZlJYX2ZJRTJKYjY5WDFjNHVNU3N5MXBSelphaXQtazRfeFVjSU03amk5SzVYd2dVclZWdEVVX3NRNThPeXZZUQ?oc=5"
-      },
-      {
-        "title": "Astronauci wracają na Ziemię po misji IGNIS. Co ujawniają badania krwi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDN1RVE3MkNnTTc1Yk42VEhLc25IYm01bnBXX3ZuNnVZOXQtdm1WM2FYUmp5d2YzNk1tQ01iUFpvT09Rc29YaFlZMXBSNnQwc1dkcjE5YjNYM0QxTFppWTNmaWFaOVRSTEpUVW04eXBSRVVIZWoyd0lhWjVLeURwY1JHcmx1U3ltVURwZm1WcVdzYmRCOWlWcXhFcjZ0dTJVWU1RZUhqMllMb2JKNk9uVXhER0pNRHhqTEV2SkxPMWl4VS1xQk0xbw?oc=5"
-      },
-      {
-        "title": "Rząd Tuska wypłacił premie. NIK pokazuje dane. Tyle wydano - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczNXdDBacXlkOU45MTNVVmVoZDlUdVhhYXo3V0RXTU1DTzhSUFMxNXhIR05HNnBTU01oMFJydVBoTXFCdlB0ZlJsdk53dWF0SU5mc0t5V3pIdjNOVEVUSkRxclhFRFllQWlCV1pFUjZLcF9sR2hHcVdZUWVLaHRlRk9YRlBobDlJUDI4STZINkpCWHF2cVdmbGljd3RNaXBsN2J0cENuanBVZDhYaGxkMw?oc=5"
-      },
-      {
-        "title": "W Ukrainie zawrzało. Zełenski tłumaczy się z podpisu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3NUejU2NmRZUFgzSTBCNGFnMXBaS0dNcHNvVEZSLUpYc1M3V09WN2I1cnZRdXZyakI4VEl1RTdUbUl2b2lOaTQ5ZnhSTG1RQzg3eEJRX0h4dUh1M1ozLVI0aWZPTkhiLUQzM2gtNk5FLWhGT3Fud0ltOExsMjQ4anFVVVQtNTZwN2ZEWUZma3NCQS1udVE2dXN3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-23 11:20:54",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Tusk o wyborze Waldemara Żurka. \"Umówiliśmy się\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXJWZTJHazlWdDJDWGV3QTZmYXJQVmtpZF9VR21iZkN6eWtEaEF2amw0RFhWYXdMalExdEdveE1aUWY1RWJ0a2daMmdWRDl0RlRVNGU0TUZSWm55R2JKZERxTktvOEcxMm5aYks4QzFPeGo0R0ZjWlRqMkg4bHZDMDZIdEhsWEhGWTF4RndJazNRWXNlek00?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-25 16:14:03",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 420016,
+      "DOGECOIN": 0.833267,
+      "ETHEREUM": 13405.87,
+      "LITECOIN": 415.71,
+      "RIPPLE": 11.22
+    },
+    "indices": {
+      "^WIG20": 2960.93,
+      "^WIG30": 3822.17,
+      "^WIG": 3822.17,
+      "^NCINDEX": 256.27
+    },
+    "news": [
+      {
+        "title": "Wniosek o Trybunał Stanu dla Macieja Świrskiego. Posłowie zdecydowali - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEZ2RzdNRWIxYThLX19GVW9VYlN1UmIxbmIyQ0c2RXdvOFhmQ3lrdU1fRmZ5NXR3blBWanJPbzE1ZFpQUWE0dlZSYzdub2N5dW0ycThLamYzcERyOGFXV2hWWnVGLUdFYkFZS1lMZEdZS2ZJSXZTd2RpVDYxWlVOdi1QZW5NaXpraGtndWNoa1EzUVdDTnFaQlB6N1h4UEVOWVo2MHlRQ1hDUVZ0ZFVSS2JuckdZSFBqdkRadGVkMVJMcDZBVnVNb0Fibw?oc=5"
+      },
+      {
+        "title": "Sejm zdecydował w sprawie doprowadzenia Zbigniewa Ziobry - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDJoRUFwRFo1YVFZakNHUEdPV2pLaHJ5NEFrVVE3MDd1cHRMaVBOTERQaTBvVHFwM21CZFVpVHdhb2xxc0t1aEpSaEo5blhNS3EzVmowZjZJQkJTb21NZnlsaURuaFM4Y1JWeTBQaXo2RjZhWjJUQl85enNpeHZhWTFnbWhvbWhzZDFlM1lMOXNWY0F6QzREWFFsdWk3MHZRQ0Zyd1ptT0xGdUg1RDVENEhnNWY2bmZzaHB3?oc=5"
+      },
+      {
+        "title": "„Następnego dnia się pożegnamy”. Donald Tusk przedstawił ministrom ultimatum - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFZYR3pGaUlkSFB5VWhxbEhGM1ZHdTk5ZjhqcktKQXNKcUlTX3pockRQNFZ4dDAxU1ptWlN0cks4N3Z3NnRCaGN5eENITmtNa1c1Y2pvZk5IbnJaQ2pnb2RYSFM2Z1RqNnNISE9teGhiOHhrRkpZQUoyTlFuaXYxQy1tNFdMRnZoaVNXdlpYczhXSmx3alNVazQwdWphTWxNeW5hTzNGdUV4V3pmcWRwX0FB?oc=5"
+      },
+      {
+        "title": "Tragedia podczas obozu harcerskiego. Dziś sekcja zwłok Dominika - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2l6ZFl5NGpIVWUwTmk5VmF4Nlg0UElFa1YtRlRjVGNmSHdkMXo5SFlRZWd1aFFQdmhOS2dTYVE2TjlVWjlKZ1dBOC1uS05VaHUzOC11Y0k1SXg0QXhvWjhiYUdMSkNWS2F4SzhSbDNfdXBFUld1eUZYQUJUNWZVaG4tbVREWlAxWDBiN0syZjVNaTBDU3hsYURhMmZZLVVZ?oc=5"
+      },
+      {
+        "title": "Nieprawidłowości przy liczeniu głosów. Jest raport prokuratury - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlNtN3ZCR3pEam5KWjBMQVJvM3lfRWpKZXU0V2NROWVreW1iVDNUVE4tS3psajk3MTVwQVM3ZGkwZV9oTkFLMFZnYi0yaU5kWkNoY2hMV01OS1BTMlpaUFM2QTVkbVo2UlNuZ3E3eEhHaWJlMVN4bi1CRTAzenhNUHZHamdUS0RmS0tCSDl3Q1Z5V25BWHd1YnQ5QzlDVEF5UC1rc0t4RDJJcXdaZUVsSmNJZThGeWNBR012RnNzcnZ5dWI0a3JEdEpaZw?oc=5"
       }
     ]
   }
