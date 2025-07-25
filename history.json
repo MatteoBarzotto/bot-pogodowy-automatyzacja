@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-23 19:16:51",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.626,
-      "EUR": 4.2544,
-      "GBP": 4.9102,
-      "CHF": 4.5746,
-      "JPY": 0.024701,
-      "AUD": 2.3871,
-      "CAD": 2.6696,
-      "CNY": 0.5061
-    },
-    "crypto": {
-      "BITCOIN": 425859,
-      "DOGECOIN": 0.880248,
-      "ETHEREUM": 12909.79,
-      "LITECOIN": 407.19,
-      "RIPPLE": 11.64
-    },
-    "indices": {
-      "^WIG20": 2946.62,
-      "^WIG30": 3808.74,
-      "^WIG": 3808.74,
-      "^NCINDEX": 257.66
-    },
-    "news": [
-      {
-        "title": "Ostatnia szansa rządu Donalda Tuska. Trzy wnioski po rekonstrukcji [OPINIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcThhUjBmN3ZGc0JvY3oxRHNEcG5SazVmdmh6MzlVU3BHenUxaDR6ck1XdlRlaEVyRmJmTG55eWxCM2NKb0VQY2hlY1p6bmVORl9McFRlVnFObXV0TGV4dHRMUk1oWHlKRjJHTmpTTGZMa1Q2cUd4YjdOS1NldF8zZExULUxNMDRNUjN1WGV6R0xsRzJqVFVFdWczOTM0ZmpUVi11N0lhWGFuaTZGVkxBUFBFTEt4SnkyREdGdG9zOA?oc=5"
-      },
-      {
-        "title": "Fotel ministra dla Waldemara Żurka. To bilet w jedną stronę? \"Niestety, muszę\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnl4Yi1UcTdSR2xpbTU3dk9mRTI2T1F1RUx4NWFheXUycGNlWVZuWURVNEFhcXNDdWdJdGhseDFSY1ZETWN4bEhLTkkwUVpWMEtTZEJ2c3l3ems1OHh0dmprVnpWXzFpX1JyT243Y1lEcVJkaGsyamRvb1c3ZF8wQ2o1RXN4c19jTEVKbE1rUHg3Qng3d0dJbXQtblNlbzJkekNCN0o3bEZGTWfSAaoBQVVfeXFMTnNjdDFKa2lBVWV4ZW9Yc1Vhd1VrN21EcG1CdnlEOVluS19OUFd5U0dXdTdPMlRhd1VIc093T3VnMTBuUXBBanZXaDA3cFRKaHB4SEk4Snh1NEh2bnhwUkh6VEFGVUZ1SU5UZE5iV0R4SnFvX2JfWnRpOWZYZnNvZWc1Q1dKX3R2amg2eFZrT0RuWk1hTF9NVWVPNzZuMV9XUjh1dF9SVkU0Vnc?oc=5"
-      },
-      {
-        "title": "Jolanta Sobierańska-Grenda ministrą w rządzie Donalda Tuska. Dorobiła się ogromnego majątku - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWxvSGZDTjZsUDZLNlhFcVYxYXlLVjI5S1EyTW5seTk0UEpReThWa0ZEc255VFJnY0ZVMGNBb19sTzI2VFA1MGtxdmlwZWdPSXZpdzFvWV8weTMzd0JyT1lEa01UcmtDdW1jb25JVTJlUTNsa19ySlhCNHlONzlIMUV1U1lIWU41ZnlRU1djanlqUllOeU9LU0kxUnhLeFp1cldGOTlFbEhlbnlCSWJJc1JfcEdCMDdfOEU3NmJNRTJJZHpwS1RxbHBkSXJmSGwwTGFmVQ?oc=5"
-      },
-      {
-        "title": "Ziobro stawił się na komisję. \"Przeniosłem zabieg\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGlCcDFtNy1EYlJMbWZsdWNlT0JqQ3ljaWpLRFc4OVdIZU04cWpTUGNmSXdwS3F3SmJfTUZlTHB0cmxvSU5WcnMyaEhtSmMxb3lmNUlhUkVWZ0VnWFlacnZFOVdGRnBVdFBWT2VQTmhObjcwMV91N0ZlNkZfTHRVaG02LWxpUTJjeTBIZ2g0TmJHbEJv?oc=5"
-      },
-      {
-        "title": "4-latka przygnieciona na podwórku. Tragiczny wypadek - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRG1qMzZlU2g2cExhdzljYlVuLWVsc0NadUtxU2kyT05RQ1lZeDJ3ZXlfSXJWMGc4RkVCdm5nVDZBc2lJb2x1VHhhaExCaDA4ZFZWU3VKTVp6RnJVYUpiOHJ6R2VCcE4yYmVid1h6Q3JlME02Q09tTFVIRHk1cXMybHJDbDVRN1I3WmlzZC1FSWhXUFg4WHFsMUV3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-23 20:21:27",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Bunt w partii Zełenskiego. Nieoficjalne doniesienia - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVVtaXZ0SmFpYTc1VXM0Y0EzbEVXUWtGZlhpb2dOZE93TnZacDY5MzNXaUJfSkx5WF9qWEVady1oT0VHY1ZKSVVfYjNZSkNIVjd0SGJ6Rmx4MGg3bHc2X2lNeTRXQ2NpREk0clZycVRIajRhWlBiUUJEYVlsVy16Nld1X0p4R1VNZ3RfTGpvXzFoVFpuUXg2UXVSVzJIX1hETmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-26 01:14:33",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 424055,
+      "DOGECOIN": 0.850075,
+      "ETHEREUM": 13435.11,
+      "LITECOIN": 410.34,
+      "RIPPLE": 11.36
+    },
+    "indices": {
+      "^WIG20": 2962.94,
+      "^WIG30": 3823.99,
+      "^WIG": 3823.99,
+      "^NCINDEX": 257.54
+    },
+    "news": [
+      {
+        "title": "Szymon Hołownia: sugerowano mi dokonanie zamachu stanu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0lYV1h5YkJ4T3E4LWtBV09EeE5hTS1kVllVNlN0eTNOWDUtT2JPa3Njd0ZzTHZ6UjY4dmNLZ2JxQkFTWm1CTkNkQ3RpeEZPLVVNS3JjdnZvT1B0MXY0VzN6R1I5elN0bms2MllzZFR2dFlGdjVDSmk4LURaQWdNQV9fUDdxVlhiRldnbkhYa280V0ZBUmNyZlA5NXNtcFN1WUVTNmh3?oc=5"
+      },
+      {
+        "title": "Tragiczna śmierć mężczyzny w Lasopolu. Proboszcz z zarzutami zabójstwa - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWZjVmhySWJBVzEyZENDY2tIVDZtMmx5cVV0UFBBekYxdXgxT1lRNVZNRmdjYndxdEFtSFZCLTF0M2hYMGVoYXByVDNsc2ItdE1tb211aE42djlacU90YlJMOGdCMi1lRXdLOHNEb1dua1pHVjdCUVlkc25YZm9Na1Fsc1kyRWRJaFJ1Y3N3TzFGWGZ3SlZOVnlmcVBjQWNlc1FXUzJRQlZiQlBidEUyYzJ3?oc=5"
+      },
+      {
+        "title": "Tragedia na obozie harcerskim. Barbara Nowacka komentuje śmierć 15-latka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXhuV1d0ZWJQNGZNVzZaZ3g3WUVQQ2FKekt1MTlQNm9wdWdfeHMtSWZqV0c4WlMwYzFnd0JiNWdXRkVoRk9SamtxTFVPNWpQbG9hQ3YzSE51eXY3WTA1TUcySk8yWGs2Vk1hc283UTF6d2VpLThPdUZ1TFRnM20zbUxZdUpFemlTT2I4N0FfbDV2d1R5d3p0YWJpekt6YVBSb1VMYmd1QVM5RWctcHJ1eGkzNTBTZE1IQkdtdGVRUGpPdk1SMWc?oc=5"
+      },
+      {
+        "title": "\"Deklaracja Polska\". Jarosław Kaczyński chce jasnej deklaracji od Konfederacji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTlmTUE0WlJXLXdEWjdwYl96Qmd3aGZ0bklnbTNIU0FPNXI4d0ROVXJFSWNLbGF4NDh6bzhuMEdMWlllSl9tTnBHQllQbXJxLVhDdVJtZ2xzM19VRUJDNkdpNm5RakJyWjdueERlWFpQSFBVWndpTkVWcE5yQlpLYlhFSnN2RjBIVElUaERnR1ppbElYVnZFSHExalVSLUpETVpWaGozSkV0WEpmcHhaMXBPelNuQ3li?oc=5"
+      },
+      {
+        "title": "Jakie wyzwania stoją przed Waldemarem Żurkiem jako ministrem sprawiedliwości? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0NDSlktbnpSX0s2emUxSEN3dlVSZ2xSdUsyUWdyb0FQdmFjeHFBRXp1d0F4eHNqV1p0Uk41bExUTmxnZWY3YTZSZ0YzS3pUN3pQaFpCUWxNVnRrb0o5RWduRnRHLUs0aVJuaWpKZl8xNE9zQVh0aThES0l2bzFvd25lWTRYLUxOdDk4M3ZiQ3d3XzdsR1V0YkJJdlJGeXh0NGlXTUkzMEtiZDAzcDZKeFBubkZjQk5DMXVfU3NZakM?oc=5"
       }
     ]
   }
