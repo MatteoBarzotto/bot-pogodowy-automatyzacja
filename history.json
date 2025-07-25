@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-23 09:19:28",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2531,
-      "GBP": 4.9044,
-      "CHF": 4.5612,
-      "JPY": 0.024628,
-      "AUD": 2.367,
-      "CAD": 2.6572,
-      "CNY": 0.5067
-    },
-    "crypto": {
-      "BITCOIN": 429279,
-      "DOGECOIN": 0.948716,
-      "ETHEREUM": 13378.09,
-      "LITECOIN": 429.43,
-      "RIPPLE": 12.61
-    },
-    "indices": {
-      "^WIG20": 2954.29,
-      "^WIG30": 3816.39,
-      "^WIG": 3816.39,
-      "^NCINDEX": 257.78
-    },
-    "news": [
-      {
-        "title": "„Polityczne tsunami”. Przed nami potężna przebudowa przy udziale znanych twarzy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcnlfRk1FQXp2Y2w2aWdOSWFRRXpaWTF3eTdCbFFzWEpiV3gza2Z4NVNQbjF2QzI4SWZvbHBoVDBpanBqUzh5SmRSQXRMTVd6WXhNNVp1cFlzWk5VaGVwU1RiOGpxTktOSlVpMlNCakk5bUdRbmh3Z2xmMlNnU01ueWFyTkJQWVlaSnRVNEwyOXk1SWhxY19pYU5JMTB5cV9UTUFPamNiY2xKSUpxOVJxSkhB?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: Rząd bez Leszczyny i Bodnara. \"Wyborcza\" dotarła do listy nowych ministrów - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelMtMGlTYW11STZOXzR0R3I5Mnh5MkxmdWhHTnIyY3hwRU9xMjF3aTc5WkJQUzd2blR4bU5oSXhMMG9WNGI1cktiMmtNWWpmLXFTbGY1STZ2aDExMExBYWxtWEFYMFRacFJPcllmTERhTURfYVljZzNTVEpzcGlVdDM3X0JBbWFRbjh0cmxTaFFUM0t1ZlNOdFl2Q0hfMmhIMFBneXFR?oc=5"
-      },
-      {
-        "title": "Rząd Tuska wypłacił premie. NIK pokazuje dane. Tyle wydano - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczNXdDBacXlkOU45MTNVVmVoZDlUdVhhYXo3V0RXTU1DTzhSUFMxNXhIR05HNnBTU01oMFJydVBoTXFCdlB0ZlJsdk53dWF0SU5mc0t5V3pIdjNOVEVUSkRxclhFRFllQWlCV1pFUjZLcF9sR2hHcVdZUWVLaHRlRk9YRlBobDlJUDI4STZINkpCWHF2cVdmbGljd3RNaXBsN2J0cENuanBVZDhYaGxkMw?oc=5"
-      },
-      {
-        "title": "Sławosz Uznański-Wiśniewski wraca do Polski. Znamy dokładny termin - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXMtTWhWNVdUMmdoenBqZVM2Vkk0NFlfYUZFVzhHMmFuRGJpa2ZnUGplN1RsYzU0TVJfN0xuNlc3c1BEZl9GYjA1TE9NZ1RHdnNqMnhvN1FTemRLZXU4V2Y1TDNQa0pkV0xiM0taUDJvWmRFQ0w2MGxOQTJ1TENaSU9oeTZVdVNvQjVLbUZwQjBZQW9TdE9qdTBDY01FWmlCOGY0c0xqN1ktdFVLVnQxNHFHaUY3Zw?oc=5"
-      },
-      {
-        "title": "12 euro za godzinę. Polacy policzyli i wolą zostać w kraju - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1ZqTDQwaGtLYzdwekpfc1dDMmdpYWxvamNXUm9ERjBTVGkxX2tad2RUY0pUSERqSC1lNGkxaEZNRjFLZF9qd1kyZkJNd09CUGhiWlhaTnVPNDNCZ1U3ZWYtWU1xSmdLOHhzTE9HQlZSeGlxZW9mNU9yRGdCWlh5SVNQdFhJbG5SWEFidUxPeEF2T0lWZ01GSktYbl83UjBQNHZ0QU52RE5MTVlBWlpNZmJB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-23 10:20:57",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Katarzyna Zielińska zapozowała ze Sławoszem Uznańskim-Wiśniewskim. \"Zamieniliśmy kilka słów\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLW5IWkZXZjRHQlRWRks3TEJBYW5hRGNJOEw2XzY3dU56S0kyaWxkWHlBTnhHTWNGbTVRWDRobWpoYUZsend6S0FDcFhqdzZVa2gySlNWQkV3ZGxBelJIRTZFQXhxbmpIbmY3c0lwcXRHYUZodU1kaTA1cnI3TEZsUzY0Q2IwWWxUbngtQXVHU0dVeXlJZnNRQWlGdVR1ajRWMmNjUXFZQXp5N3ZVUElIWXN5WVk0YjA3emxFcE1neUFiRldaeE03bzZKMjg2NVNKb2NZa09WVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-25 15:32:13",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 420780,
+      "DOGECOIN": 0.838218,
+      "ETHEREUM": 13435.62,
+      "LITECOIN": 416.74,
+      "RIPPLE": 11.3
+    },
+    "indices": {
+      "^WIG20": 2959.62,
+      "^WIG30": 3819.83,
+      "^WIG": 3819.83,
+      "^NCINDEX": 256.33
+    },
+    "news": [
+      {
+        "title": "Cholera w Polsce. Nowe podejrzenie zakażenia w Lublinie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUZOR21ZZElJdEJuWWQwbXctejFIM0lSbHEtVEdvaWc5ekZ4SENsemVuSkxXNklaaXQ4alJIM08xaGoxWDlMR0xJRVN2VWVXMngyazFQR0R3a0VuVTV6X0x4NlB4WlhlVTlSazlvSGRkZWI2NFZRR3JkcjdGYWhMTlREak9FU3AzZWhFMnhON1pGbFZVUWJzc0JFekFlM2V5dExaaU9hb2pQMnhSY1BRaUIxNUU3SkpnNFBrYXZ3?oc=5"
+      },
+      {
+        "title": "„Następnego dnia się pożegnamy”. Donald Tusk przedstawił ministrom ultimatum - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFZYR3pGaUlkSFB5VWhxbEhGM1ZHdTk5ZjhqcktKQXNKcUlTX3pockRQNFZ4dDAxU1ptWlN0cks4N3Z3NnRCaGN5eENITmtNa1c1Y2pvZk5IbnJaQ2pnb2RYSFM2Z1RqNnNISE9teGhiOHhrRkpZQUoyTlFuaXYxQy1tNFdMRnZoaVNXdlpYczhXSmx3alNVazQwdWphTWxNeW5hTzNGdUV4V3pmcWRwX0FB?oc=5"
+      },
+      {
+        "title": "Wniosek o Trybunał Stanu dla Macieja Świrskiego. Posłowie zdecydowali - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEZ2RzdNRWIxYThLX19GVW9VYlN1UmIxbmIyQ0c2RXdvOFhmQ3lrdU1fRmZ5NXR3blBWanJPbzE1ZFpQUWE0dlZSYzdub2N5dW0ycThLamYzcERyOGFXV2hWWnVGLUdFYkFZS1lMZEdZS2ZJSXZTd2RpVDYxWlVOdi1QZW5NaXpraGtndWNoa1EzUVdDTnFaQlB6N1h4UEVOWVo2MHlRQ1hDUVZ0ZFVSS2JuckdZSFBqdkRadGVkMVJMcDZBVnVNb0Fibw?oc=5"
+      },
+      {
+        "title": "Joanna Racewicz wstrząśnięta tragedią na obozie harcerskim. Uderza w opiekunów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS25NeXVnbVU3RzB5Q2dXc1ZlekVlR2FVcEx2aDQzRnctVVBjTmxnNVZEZlE3OW9lRlIxa3psY2MwLXJxdFVORFhYMjdobkRHM24xZEtOcnNpdTNRLXJMNjk2SGNYS2VlSF9DdGVPbDBSdU9xdnZHV3Q3V3dGNU9iWWd3cTJQeDJkSThYdS0ta2NTTnpIalpwUG16QXJrQlM0N21jeGd0OER4MVpSQjFjSzY5NkJ4Qks3Ulp0ckdmNGJyRmZIUEE?oc=5"
+      },
+      {
+        "title": "Donald Tusk o wyborze Waldemara Żurka. \"Umówiliśmy się\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXJWZTJHazlWdDJDWGV3QTZmYXJQVmtpZF9VR21iZkN6eWtEaEF2amw0RFhWYXdMalExdEdveE1aUWY1RWJ0a2daMmdWRDl0RlRVNGU0TUZSWm55R2JKZERxTktvOEcxMm5aYks4QzFPeGo0R0ZjWlRqMkg4bHZDMDZIdEhsWEhGWTF4RndJazNRWXNlek00?oc=5"
       }
     ]
   }
