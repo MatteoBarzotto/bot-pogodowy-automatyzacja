@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-25 18:18:48",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 419759,
-      "DOGECOIN": 0.812368,
-      "ETHEREUM": 13172.68,
-      "LITECOIN": 399.77,
-      "RIPPLE": 11.03
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Wniosek o Trybunał Stanu dla Macieja Świrskiego. Posłowie zdecydowali - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEZ2RzdNRWIxYThLX19GVW9VYlN1UmIxbmIyQ0c2RXdvOFhmQ3lrdU1fRmZ5NXR3blBWanJPbzE1ZFpQUWE0dlZSYzdub2N5dW0ycThLamYzcERyOGFXV2hWWnVGLUdFYkFZS1lMZEdZS2ZJSXZTd2RpVDYxWlVOdi1QZW5NaXpraGtndWNoa1EzUVdDTnFaQlB6N1h4UEVOWVo2MHlRQ1hDUVZ0ZFVSS2JuckdZSFBqdkRadGVkMVJMcDZBVnVNb0Fibw?oc=5"
-      },
-      {
-        "title": "„Następnego dnia się pożegnamy”. Donald Tusk przedstawił ministrom ultimatum - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFZYR3pGaUlkSFB5VWhxbEhGM1ZHdTk5ZjhqcktKQXNKcUlTX3pockRQNFZ4dDAxU1ptWlN0cks4N3Z3NnRCaGN5eENITmtNa1c1Y2pvZk5IbnJaQ2pnb2RYSFM2Z1RqNnNISE9teGhiOHhrRkpZQUoyTlFuaXYxQy1tNFdMRnZoaVNXdlpYczhXSmx3alNVazQwdWphTWxNeW5hTzNGdUV4V3pmcWRwX0FB?oc=5"
-      },
-      {
-        "title": "Tragedia podczas obozu harcerskiego. Dziś sekcja zwłok Dominika - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2l6ZFl5NGpIVWUwTmk5VmF4Nlg0UElFa1YtRlRjVGNmSHdkMXo5SFlRZWd1aFFQdmhOS2dTYVE2TjlVWjlKZ1dBOC1uS05VaHUzOC11Y0k1SXg0QXhvWjhiYUdMSkNWS2F4SzhSbDNfdXBFUld1eUZYQUJUNWZVaG4tbVREWlAxWDBiN0syZjVNaTBDU3hsYURhMmZZLVVZ?oc=5"
-      },
-      {
-        "title": "Sejm zdecydował w sprawie doprowadzenia Zbigniewa Ziobry - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDJoRUFwRFo1YVFZakNHUEdPV2pLaHJ5NEFrVVE3MDd1cHRMaVBOTERQaTBvVHFwM21CZFVpVHdhb2xxc0t1aEpSaEo5blhNS3EzVmowZjZJQkJTb21NZnlsaURuaFM4Y1JWeTBQaXo2RjZhWjJUQl85enNpeHZhWTFnbWhvbWhzZDFlM1lMOXNWY0F6QzREWFFsdWk3MHZRQ0Zyd1ptT0xGdUg1RDVENEhnNWY2bmZzaHB3?oc=5"
-      },
-      {
-        "title": "Podejrzenie cholery w Stargardzie. Są nowe informacje GIS - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVpZZ0JNTlBuWEtIMEQtcmZjeTlSRHNMVnFKcHNycEJwRzR6M05Cb2dIODloMmt0alY3Wmp0MHZpOGFtN0ItQ1pSOVg1aGliQlF3OFdQWm1ha1IwdEVxSWlYMXh5VmNrVTNlclB3OHNmTmtOaGQxSWwycjVfNnBOd0oyNHBjbUFtdFNJRWtSdVE2NGF6NlJtbA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-25 19:15:12",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ostre słowa rzecznika rządu do Roberta Bąkiewicza. \"Zakłamany hipokryto\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWm1OZDd6Yk1OZTdtaTd1QWxWTkVLUGZJNkVqYTVQMV93SDV1SVEzelA5ZzRvTG1PQXRqdldLeEkwUTl0TmUwYmp1NFVEUVlpRUZFNER1OU9MU2FLc1pqLXNoUlllZXVZY0J1X00wMk1DQjRRaFRiVzVDYVBZaDVTV3RaUzNHTjhXTC1pdktkakgxODJZcVlJTzF5UVQ3Z2hzZlpCZDBhcEw2bmVLYkNRRVRrTVQ1RFdOQWxzeUlWejZLZWpGWEh3WUM0TlE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-28 00:13:56",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 432282,
+      "DOGECOIN": 0.875975,
+      "ETHEREUM": 13898.5,
+      "LITECOIN": 414.37,
+      "RIPPLE": 11.68
+    },
+    "indices": {
+      "^WIG20": 2962.94,
+      "^WIG30": 3823.99,
+      "^WIG": 3823.99,
+      "^NCINDEX": 257.54
+    },
+    "news": [
+      {
+        "title": "Pas ulew nad Polską. IMGW ostrzega, alerty w 11 województwach [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUdQbmdHVnR0SXljRFB4Wm9yQkxFa2otLW5HTEZHOFFDZlBCeWFhQ25jZFhiYUdwVUU0OHRZbmZhQjJUVUFjY2R0UXE4c3NLZU9pMjhLNmk5Z1lNcFY2SWFSWFFpd2hHQkczX0h0blpOcTEyeU9lTy0tdU9xMlBCMXo1MHJPMDA2d01uQWJtY2k5ZHEtVnI0Zm01aVJoUjBHQUNDRnQxOWY5U0RQYW55MDJjbk9hUQ?oc=5"
+      },
+      {
+        "title": "Katastrofa kolejowa w Niemczech. Są ofiary - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkNYYngxQXVka3R5V3VZaFdVa2FaSkJmclJVcTZSYTFUMHZ3NENFMFlRNmVaTy1OZWtGVE4yM3lJQkFkb2c1bXFIV0xrR1FMZjJ3el9Va0I4YTg3Xy1IZU1mVWVONGI1cDhOMVo4ZW00MVM5OHpVQV84Z3BDaXVtZVI0bGwxd0ZKVHZNV2c3TS1jc3Y1bzU4OGZNUQ?oc=5"
+      },
+      {
+        "title": "USA i UE osiągają porozumienie w sprawie ceł. Wojna handlowa zażegnana w ostatniej chwili - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNktGYzZ1Yzg2MVBubnpEckl4VmNDYm1yZVNsa0ZvbDNHM1BSVUtHTnlZc0J3WmRnNzhKQnJLV3N5R3lxT3dpVnUtSjhlYUEwRE82V0NSSTJjdVpJblhaTDR5WWh5cU84MF84QVBpbUpwTWUyZ2VHWmdsZEd4NTZzWlVqaEsweGVYdHRJQXI5WXNHYXhmNGUyS2k1al85emtHaHY4c281U04xcmd5U0FscDY2djlxa202MXZSUGotOFFiZEtBaDVwNQ?oc=5"
+      },
+      {
+        "title": "\"Zakłamany hipokryto\". Ostre słowa rzecznika rządu do Bąkiewicza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0RpSXRCdkJqZ0JJSWt4VEg0LW5KVk1SUWUxYnRCenFjWHVUcF9RVFVVb3VmaGdIbG1Ra2s0b3VxMUlqM0JTUFJBSFNHUWtoTzgweGtrbHdFckFWaFRXV0IxaFM1bGFGeUJUUGZaZTBhR2VnaVZwWHgzR2hMTTBxWFVyWmZjMnFsVEZ5MlVlS2JYV2lPbWJ3aHlYSlVvdW12Z3ZORjRkdw?oc=5"
+      },
+      {
+        "title": "Oberwanie chmury nad Kielcami. Ulice, chodniki i auta pod wodą - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3lGNmRrV3JxOVNQWlBDdmRnR2tkdXprZDQ4VE0yRW9jRW00SnpBZnBhMnY4Nm9MdHYxd0ZXMXZSQW85Y01JQ0Q4Nmk3dzVMcm85WkZiUmhxZWRnbkNGSWs0TkVyWlNmWnB2ZGRRNlhEMEczXzFHT09zMl9FcWliLTF6NDBubHA2dUIzdU1NX3dfSXhadzN3dE1yRlg0Y0tlVHUwcmhB?oc=5"
       }
     ]
   }
