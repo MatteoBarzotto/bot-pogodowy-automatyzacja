@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-25 14:29:51",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +22°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 422034,
-      "DOGECOIN": 0.834745,
-      "ETHEREUM": 13488.28,
-      "LITECOIN": 418.9,
-      "RIPPLE": 11.28
-    },
-    "indices": {
-      "^WIG20": 2950.09,
-      "^WIG30": 3808.14,
-      "^WIG": 3808.14,
-      "^NCINDEX": 256.73
-    },
-    "news": [
-      {
-        "title": "Donald Tusk o wyborze Waldemara Żurka. \"Umówiliśmy się\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXJWZTJHazlWdDJDWGV3QTZmYXJQVmtpZF9VR21iZkN6eWtEaEF2amw0RFhWYXdMalExdEdveE1aUWY1RWJ0a2daMmdWRDl0RlRVNGU0TUZSWm55R2JKZERxTktvOEcxMm5aYks4QzFPeGo0R0ZjWlRqMkg4bHZDMDZIdEhsWEhGWTF4RndJazNRWXNlek00?oc=5"
-      },
-      {
-        "title": "„Następnego dnia się pożegnamy”. Donald Tusk przedstawił ministrom ultimatum - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFZYR3pGaUlkSFB5VWhxbEhGM1ZHdTk5ZjhqcktKQXNKcUlTX3pockRQNFZ4dDAxU1ptWlN0cks4N3Z3NnRCaGN5eENITmtNa1c1Y2pvZk5IbnJaQ2pnb2RYSFM2Z1RqNnNISE9teGhiOHhrRkpZQUoyTlFuaXYxQy1tNFdMRnZoaVNXdlpYczhXSmx3alNVazQwdWphTWxNeW5hTzNGdUV4V3pmcWRwX0FB?oc=5"
-      },
-      {
-        "title": "Tragedia podczas obozu harcerskiego. Dziś sekcja zwłok Dominika - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2l6ZFl5NGpIVWUwTmk5VmF4Nlg0UElFa1YtRlRjVGNmSHdkMXo5SFlRZWd1aFFQdmhOS2dTYVE2TjlVWjlKZ1dBOC1uS05VaHUzOC11Y0k1SXg0QXhvWjhiYUdMSkNWS2F4SzhSbDNfdXBFUld1eUZYQUJUNWZVaG4tbVREWlAxWDBiN0syZjVNaTBDU3hsYURhMmZZLVVZ?oc=5"
-      },
-      {
-        "title": "Zwłoki płonęły na drodze. Makabryczna egzekucja pod Grójcem - Niezależna",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnBHcnYza2tsMXF2Q3RSZzgzQWZPQkhpd1FFYl9qd3E0TndCa19iOEtydWRHQW5pODlKNDU4dXJSVG1jNUxQLUs2elBHUldWT09yNDNRd0V5eHctNG5OUnFiY0xhdFpCZ292MlNlazBMdTY1OGZqY0F6SG9qWVIzY0ItZnhHdVI3enBZRFVTdlN0Snc2S0R5VFBB?oc=5"
-      },
-      {
-        "title": "Katarzyna Zielińska zapozowała ze Sławoszem Uznańskim-Wiśniewskim. \"Zamieniliśmy kilka słów\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLW5IWkZXZjRHQlRWRks3TEJBYW5hRGNJOEw2XzY3dU56S0kyaWxkWHlBTnhHTWNGbTVRWDRobWpoYUZsend6S0FDcFhqdzZVa2gySlNWQkV3ZGxBelJIRTZFQXhxbmpIbmY3c0lwcXRHYUZodU1kaTA1cnI3TEZsUzY0Q2IwWWxUbngtQXVHU0dVeXlJZnNRQWlGdVR1ajRWMmNjUXFZQXp5N3ZVUElIWXN5WVk0YjA3emxFcE1neUFiRldaeE03bzZKMjg2NVNKb2NZa09WVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-25 15:32:13",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Bóg płakał, gdy ginął Wasz syn\". Ostatnie pożegnanie 15-letniego Dominika. Witoszów Dolny we łzach - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTRDZ2JPODRkV1ljaXRxSU1KbHZyaThZZVZlMjhxN1VyM3pxUlZsdDYwOXhrdDNBQUlkWGF2bklXTDFEZzRna1BhZ2tVTVZ4N1JMWXFUVmx1UVF4b1F5NFA0YXBKcmEwUHZxUXRST1BBcmhKT3J0eEVoY1dJbmswYzBnYWl2T1pzeGZJM0x6ZWpPN3A5dEh1Q01wTDRwMTVVVllHc2N3T3h1RTFfRkVlSHZobzdjbTdxTXV5Mllrd21iZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-27 20:19:29",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6228,
+      "EUR": 4.2544,
+      "GBP": 4.8772,
+      "CHF": 4.5514,
+      "JPY": 0.024519,
+      "AUD": 2.3796,
+      "CAD": 2.6491,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 431403,
+      "DOGECOIN": 0.871008,
+      "ETHEREUM": 13925.76,
+      "LITECOIN": 414.58,
+      "RIPPLE": 11.59
+    },
+    "indices": {
+      "^WIG20": 2962.94,
+      "^WIG30": 3823.99,
+      "^WIG": 3823.99,
+      "^NCINDEX": 257.54
+    },
+    "news": [
+      {
+        "title": "Spotkanie Trump–von der Leyen zadecyduje o cłach. Negocjacje trwają - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHZwSHBSUG4xbzRUb2xydG9jZG9id05oYk1GUFNuNFUtci1LWFZjR2JsSGpkUG15bFhsLTVTSTkyTFVnNkE2ZzNzT2puS2R5cXFRaDhZam5Obi1xYVdUYXh2VTltUkFjNllZcEZfeTVWUHNNVmpZVlJGN1prN0ZNV3loTlJsdzM1TkcyMEJHeXJtZUoyRzR6VnN3ZUNlS3d1aE1zekw1dUtqUExNbkJMWUotNjlpXzQ?oc=5"
+      },
+      {
+        "title": "Trudna sytuacja pogodowa w kraju. Coraz więcej regionów z alertami najwyższego stopnia [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1loOXhHYzhZY0M2akJacmVrWGs0SktuSnRyZ3F4QXFwX2FxVmF1d0M1QV9IZkdzdXFTSzk0TTNJSHo0eUxnUDF5N01GSUc0aWNfZ3RPcFVBSUQxUS1BNVNWRUQzbFltYWFQa0tmU285Qk9Bb0Y3ekpVNUVKdksyX3ZwT29hOGdkX2xzQS1UVE42ZGVoV0pDNHpNWkU4dEJBZU1wc29pVXRmNTdhMUlGVGpuRGQyaGM3M0k2aXZ6MUlEMFk?oc=5"
+      },
+      {
+        "title": "Prawica pobudzona po słowach Hołowni o zamachu stanu. \"Trzeba go przesłuchać już w poniedziałek\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZBTHlFbDkyak1GaHc3S0FDaDlqaFlZYy1pZGs2ekpCS2xvTWNQcFR6LXU2TFRNVzY4YXp0b0JtWXA2U0V6V1VaRUJSazdKanZGWWY5WHVrTlpPNjJJeGlfa3liUVd0ckJRRzVRTDZtbzFfSlFVS1pMX1ZrN05pbE5sNy1BcUFnUi00c3V3VjlLYjlaam9VZ1prdm5qb1JjX1JJ?oc=5"
+      },
+      {
+        "title": "Zalane ulice w Głuchołazach. Trudna sytuacja pogodowa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWFSX3YxM0xIaG1udDVYWHhmUkVUNU11a1ViMlJoanU0NldUMHNObUpYOER2dVR4ak5URjZIOFRrMlRvTFBXS0lCRFd0dUw4VXRjMnZqZjdlQTBYVUVHeWlMTkx2dlpvR0M4UWtINjVxcHdfTm9HWk9SV19QdlZ1d19zMVU5NUpyakVjdzB3?oc=5"
+      },
+      {
+        "title": "Pogrzeb 15-letniego harcerza. Poruszające kazanie księdza - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTlHU0RWVXVQZnhsYU0xekFETzBRbmRlMFRzLUstUkhCNzl5X1VUME81WHlaNnJXSGdYSzVORnl5cExjUW9zdHU2UVd4QjN2bTlwTjFGYm5ydU5XcXZrb2h4S2h2Q3NDbUhxSDVBQmNibjNJWjZ4cUVlVjNHeEZOZDllSS1tZ0RoTFBDNUtmWi1IZmF5UFdVTFpWaGdJd2JJRWtLRA?oc=5"
       }
     ]
   }
