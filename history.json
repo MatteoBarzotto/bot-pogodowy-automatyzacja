@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26 12:14:25",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 425426,
-      "DOGECOIN": 0.864416,
-      "ETHEREUM": 13594.3,
-      "LITECOIN": 412.53,
-      "RIPPLE": 11.57
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Burza po słowach Szymona Hołowni o „zamachu stanu”. Jest wniosek do prokuratury - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ29ZZVRYb0xzLU92NU01SkQ1QU9OLURmalQ1cXZtX2huVGxCTTlqU0c2UlF0ZkU0ZmpiZGpYYTVOeXJqT19qX3QwQWhkejJ0N3Q5R2RFV0E0THppWHZWMGhYdHloT3BPaXZYeWtjd1NjcG50ZGtxT2RiMEZlMHV6X2w3VkNUQVVGQ3NSOVFCd3Y4OFg4OUttVDVTNFV3TW0zS0dpS2Q3MHJoQnhvNmVtUXBtN2d3Zw?oc=5"
-      },
-      {
-        "title": "Uderzył go siekierą w głowę, później podpalił. Proboszcz z Przypków z zarzutem zabójstwa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWNwYS1ZbGZBRVFXTTQ1cldpT3lsVTU4Wnl6c282UVBvNHlpTFdaVG1pVFVKdV8tRTFSUnNNTDYtaFZEZDNVVHQwQk4tdldXRXlqVnV3N3ZGSGMyRGpYY0UwcHNWNXMyZmUydjduNE9vLXE1UThYMTM2OEotbmM0Wm53Rll5SkVQcnUyRFduOFFsTEJXUUV3VVhVSjNuV09TQmQ0eXUwSng5cDRTUGJ2d3NlaTdkZEJCc0g3NnZpQWVsTmdYM21TYkVkb2Nra0gzd0h4cVUzVTJycFU?oc=5"
-      },
-      {
-        "title": "ZHR o utonięciu 15-letniego Dominika na ich obozie. \"Prawdopodobnie zostały naruszone reguły\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFpQS09XTjlRUGo5a2x2b0UtZ1NpemF6dnJhSGYwVUVxUGVleTFhXzhkaVJ2bXM3YnZBcmxkN2RGeDBiX2lpSUFiSHV3VS1mRVdlRVlYVnBaVld6ajhJNlJvT0trU3hNM0h1clpGbHAyYTZPSEhXZ2tqT0lqRkhMS1lHUURTT1ZnZTRCWjI2SVdBSTlIalZNcmdYYW1BOGpqb3R6alI0aW1qSXNrbVZHN3hCcnBLWFnSAbYBQVVfeXFMT2MwdmdVTHhqZTJQUmI0RW94YnVBRm1FR252amR3WkZDZDRKT2NvdDQwVmZNdkFMdXRlR0Y1ZG5TMVJnX3ZEcjQ5TjMzR2pla05iSnFmTTduQlRaWGcwc1dNZ2hGVVYzeHBUVFZhd3FGQzF3OVNDbFNVVVYybWp5T0JyQ19KWGV2RU04UG9pOTVOYlFSWlhpV2o0TTJPY1VxNG01Mk5LS0RPS1FxVEZEWUYxUTB1akE?oc=5"
-      },
-      {
-        "title": "Zaatakował gazem pieprzowym z okna tramwaju. Poszukiwania sprawcy trwają - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVppb1oyc0RfVS04M1BVdlFVdmtRcnExZ2tFTDZNcWo0YWtmS0NRM3JCZGhmbVRkdnJpMzdwelZLdkhjN19tNnNoNEc2ZDU2N2xYXzkyYXRVcnVPd0swX25QUllGODlsamtBVHo4bkRMRldjMXU4aDM0MjFLbWYyQVVORU5PcHpIdDBTamo0TmdMWGtWeXJjUWNOQ3dfdnZrckNBd3pycktBSF9hb2ZESE9Ec0haZWswU1E?oc=5"
-      },
-      {
-        "title": "Politycy wykorzystują cynicznie. Ekspert: To przerażające - Tygodnik Interia",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTdkMlI5SE9saFJadGpYOW1QdEQxSWhONUVaeDVUSUthXzM3anRKalZPQUF2a1FSM3hSQ0o1aUdrN1hERVRNX2ZkYW9pVTN2S2draTdaS0ZsNmUtQ1dxa3NERG42TU5FOEp4eGRtcy1udl9SSV92TkFyOVhiZkN4ZnFVZkx5M3Zsd25kbDZxa1E5U1BSSmZzZDFINjZQS2g3SGc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-26 13:12:24",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Niż genueński dotarł nad Świętokrzyskie. Groźne burze i ulewy. Są ostrzeżenia i alert RCB. Oto nasz raport na bieżąco - Echo Dnia",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT2pQUkQ1cTZVVzRuZU53VTlmQ2tTUk5PLVRMemFoM1pYWEdYSW5jZTdvdnhtMmtiU0dIODA2NUF0Z3I0QmJLQ3V5Q0o1R2ZxTzVtMjE1SDcyeGhRZnNZdVpxdEUxeXBJSnZhT0dfZV9Tdkx4bWZMa2JlQXJGVG1IQWpXNFRZVnBfN181WlZrVW5jZGd6am14aW9wT0JFdHlES1BFUExVZjVQWDd3eDFXWGZiN2pOc0tOcGhZbE1hb21hbEhYYmNwYTZsWFN6SHFkWDY3eUVDWl9kc1Q0V1FzWWZIWGt5ZzZzbmZSWWtscDJOdnZHRW1KaVln?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-28 18:19:35",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6446,
+      "EUR": 4.2565,
+      "GBP": 4.8911,
+      "CHF": 4.5607,
+      "JPY": 0.024579,
+      "AUD": 2.3772,
+      "CAD": 2.6546,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 434196,
+      "DOGECOIN": 0.851559,
+      "ETHEREUM": 13980.83,
+      "LITECOIN": 404.95,
+      "RIPPLE": 11.61
+    },
+    "indices": {
+      "^WIG20": 2906.6,
+      "^WIG30": 3750.33,
+      "^WIG": 3750.33,
+      "^NCINDEX": 257.5
+    },
+    "news": [
+      {
+        "title": "Dariusz Kamys ostro o \"przyjaciołach\" Joanny Kołaczkowskiej. \"Przyjaźń mijała się nawet z faktami\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHpYcWVQZ3VzN0tnam9RcEQ5ck1ub3hEOUhtNlRkX2l5WlBnUGpKU1dwTERPUmVON24zWS1NenNLWEt1VmlQMy02Y1dzel9JOG5nMnZTWmFXbC11Z1VvNDhoekdXVHRUcnFBOHVIcV9HTjhyUldzSUhTWjRKdTYya3FOX1NRQVpNX1dDOVh2RDRDQThoQ1o5UmZKNEFmR3MzYk5EaVFVeU5ycndqd01WVGplcTZJVU5hLTA5WDM2Mk1uVHkyQzJaUXZrbVhpZw?oc=5"
+      },
+      {
+        "title": "Viktor Orban grzmi po porozumieniu UE–USA. \"Trump zjadł von der Leyen na śniadanie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUlBS0hvQVFZSGNoRmpDVXpQSTJ6eTlyM2dUQ0lNeEJOTnl2b3dERTg4MDNydW14bEt1N1FvajZLOTBrbkFaQ1REMzNONkl6cXFtRHQ2TXFVQkdudVNObzZ3a25yd19fUGM0S1A2emtkcHRLblBiVlBNNjc0c3h3UGt2UmVhaU96MW9VakszdUZhSnJmaHk4QVpwb3o2X3VHZElfX2tOUjhWVE9oXzFvRGZ3QQ?oc=5"
+      },
+      {
+        "title": "\"Wyrządził ogromne szkody\". Koalicjanci wściekli na Hołownię - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1JIdFFDUV9NTEEyR1ZJaVlqOFdKTk93d3lDLWtodTdyVWFDdVlpMXJCZFJwQzFDRUVPVzdENGtWeWtQbTlUbDZ2NWxydmVmMXRjMzdYck05ODhzRHRINUVCMFZXd29DYU9kaFJkckVybWVCOFV6SG5RNUZZbldWZ2huMVhZa1BHUXUtNVdsY1EyWDhLTklSQUU5VHdPMmpWSnc?oc=5"
+      },
+      {
+        "title": "Prezes TK z pismem do Szymona Hołowni. Chodzi o szefa KRRiT - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1h0ckp0X0ZyNWlmdldYOE1IM1lvNkw0M2RPOFpPM1kwZEFHenFYMXR5WUJvZW9pQjM4T29RX0xHclpEd0V6OG9WN1NkUklLcTlBUGpoTGQ4QVBISVJmT3FnNmc5X08weW9MYUZRbjZjX2wtU0tjWnNCU3hZUWJwUW5NREJfOEJLUC16alhTc1lVZzFQZmg3anpfZDhRZ2dqTG9kNTVSN0JfMlplczYtSndpenlWd25BcW9RWXJB?oc=5"
+      },
+      {
+        "title": "Trump skraca ultimatum dla Rosji w sprawie rozejmu z Ukrainą - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVk1xUy15VXcxTURROXRqbEFKYTBRdWNud3dlZkRTUl8wc1lZS0VYYy1ORHBWcW05ZTFEMHd2ZTNnS25qazNtcC1nNFIxZzY0UExKU2p5TkFJaVhnT1pLZnlkUS1udkN5V3RlOGNzMzZaUE13UmlCc19fUlZyc2ZLMG4yMDFCSTg1eWlTMzV3UmF2cGJHMEUtTXZJX0dJcTlsZ1dQb1JmZm1qZzdhYmxxck1NMjdyaE5YWHh1RmlkNlo3UUM1?oc=5"
       }
     ]
   }
