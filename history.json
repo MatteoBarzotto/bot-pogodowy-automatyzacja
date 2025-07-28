@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26 13:12:24",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 427027,
-      "DOGECOIN": 0.86314,
-      "ETHEREUM": 13616.87,
-      "LITECOIN": 412.5,
-      "RIPPLE": 11.57
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Uderzył go siekierą w głowę, później podpalił. Proboszcz z Przypków z zarzutem zabójstwa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWNwYS1ZbGZBRVFXTTQ1cldpT3lsVTU4Wnl6c282UVBvNHlpTFdaVG1pVFVKdV8tRTFSUnNNTDYtaFZEZDNVVHQwQk4tdldXRXlqVnV3N3ZGSGMyRGpYY0UwcHNWNXMyZmUydjduNE9vLXE1UThYMTM2OEotbmM0Wm53Rll5SkVQcnUyRFduOFFsTEJXUUV3VVhVSjNuV09TQmQ0eXUwSng5cDRTUGJ2d3NlaTdkZEJCc0g3NnZpQWVsTmdYM21TYkVkb2Nra0gzd0h4cVUzVTJycFU?oc=5"
-      },
-      {
-        "title": "Spięcie na antenie TOK FM, w tle burza po słowach Hołowni. \"Patopolityk\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnA4LXVxbE5vcU95T3JQUUFPTlJ0Q2xYQ2pLRHZDVWtDdEFhb3hFbk5tS3U0UzZ4NXotZUVyREw2NjltaFhOeWM1RV81TG52ZTIxWll6RFpxbWczRGUxQnF1SmxqOUMxMlZnTWUtRkh1OFFWVkVxa0hobTcyZlNkbnN1Q2pRY1pkS05aZTVvc2F1SlJVZXprQ3dqRFMwUFU1OEgzTmkyVnVteHBLR25XUThlUENtV2xKdkHSAbgBQVVfeXFMUDFwY0ZENHczcXdZZzBMOEpRVm9Ec09xNEV1NGxPbWZvdUFIRGd4Q2prdlZ6ZS1VNEdQSHRhN1JpNTNhREZCNmxzdWduS05jbkhUR1k1SkRxMzYyTjVubjJRUTlGQ2d0SUZVZEFYbmw0WmMweWZXTk9sbGwwa0ZvUm5KbDNGcFVsZUFHRHl2NTFMdFVaUjk0eEVqOVotV2UwWnJGak16ZFFZS0QycXZVWDhFZzJCdjhGdQ?oc=5"
-      },
-      {
-        "title": "Sondaż: Złe wiadomości dla Donalda Tuska. Chodzi zwłaszcza o najmłodszych Polaków - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXVhbllVZ0Z1ejBtYzF4REtYbUZiaGw0T0pWdU5Dd2o3YjBKWkwxd3hWU3Y1eG9KWldoRlBob3pTT1EzQi1mbUg1T091TkdnYno5VjNJZ2xrVVk2S09qQUtWbTQwMV9xcDROczMyOU1Ec1c4NDhlLUZaU3hqeE9fZWFFVVM0TlZONXpEMWJCTGQyM01SU2t0Y1g5Z3RDVGI3UlpJeHJXVFdGeTN2LVl4RDBSNFlJcjNkdnQ1bzQ3UlBidw?oc=5"
-      },
-      {
-        "title": "Donald Tusk zdradził, co usłyszał od generała NATO. \"Dostałem precyzyjną informację\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHFueGc4aE5faDZGU1ZJdUdUa2hfMU9kWUVHRnNsWllYNkpGU0ZlWmduSS01aGZZdXBlVURPaXJsRFV1N0gzc1Q3NmVWZHlTaTNYV3dfRzFuNHFCbVFDLVVYNFZRdnAyMWJsZjdDSW9wZnJoRHRCX0Z2NzRsdVo5dllteVMtcjVWc1BzQ3JVdGdzWXY3bm1PeVFxdGYwRXF2NzZELVJTSVpOWEVTcjBULXRuTmJLSGJDUDBJem9tbC1LX25JczlITUNSeFdWVDN1RHRr?oc=5"
-      },
-      {
-        "title": "Skandal w Krakowie. Rozpylił gaz na przypadkowych pasażerów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUFmczVxY1JTZFlSUXJMVDZrbmNsMXVwOXhYX19ZVkxxTHpzMG1YbmZrWkpKQ1NKeGRoWjdYeXM3TVpzWWluQ3BHR0hpWnhzWXprVzhTYVhQcXFnaXhnVFV2d1ZKYXJiNjctY3I3RFVUQ3M5Q1BRejM5TFZ2QUxjdllHbERQbGlIVDBxOFhpNHVfSGIwb3AwcFBfcF80WkdBOFdNdjlzcmhldXdnbjZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-26 14:27:24",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Trump skraca ultimatum dla Rosji w sprawie rozejmu z Ukrainą - Defence24",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVk1xUy15VXcxTURROXRqbEFKYTBRdWNud3dlZkRTUl8wc1lZS0VYYy1ORHBWcW05ZTFEMHd2ZTNnS25qazNtcC1nNFIxZzY0UExKU2p5TkFJaVhnT1pLZnlkUS1udkN5V3RlOGNzMzZaUE13UmlCc19fUlZyc2ZLMG4yMDFCSTg1eWlTMzV3UmF2cGJHMEUtTXZJX0dJcTlsZ1dQb1JmZm1qZzdhYmxxck1NMjdyaE5YWHh1RmlkNlo3UUM1?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-28 19:17:44",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6446,
+      "EUR": 4.2565,
+      "GBP": 4.8911,
+      "CHF": 4.5607,
+      "JPY": 0.024579,
+      "AUD": 2.3772,
+      "CAD": 2.6546,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 433386,
+      "DOGECOIN": 0.852557,
+      "ETHEREUM": 13971.15,
+      "LITECOIN": 405.81,
+      "RIPPLE": 11.65
+    },
+    "indices": {
+      "^WIG20": 2906.6,
+      "^WIG30": 3750.33,
+      "^WIG": 3750.33,
+      "^NCINDEX": 257.5
+    },
+    "news": [
+      {
+        "title": "Zmiana na stanowisku prezesa KRRiT. Maciej Świrski odwołany - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR05HTGVSTUwtaTVUek1SM3NXektVV0dmYThjSGpUSWVEeXVGZ2hpU2dGRnpOR29qWldQdy1UY3J5X1phLTVQNDlLNmZGUXpzWWhGN0tzSFRNcWFHdEQ5cDdITTJ2dUpVdkZ3OVpEcE42NU8wSElpUmVBeURrVnQ4cGVJT1c3VU9vYkdvaWNHYnowcDZpWUh4UWFFVlBjM2Z2eGNTVVEwVzFwc3ppd2JKT2xlVHlBc2IxdkpXQVlQcVh1YzllZUpDVkpDNnZSR0hG?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny. Dobre wiadomości dla PiS i Konfederacji - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0VkY3B2YkwxdWlycjhZcjlxTmNFNEVnZVpRNkNmc2RmTDhlVks3R3NVdi1zZWljT1lldGxnYU43NzB5dlVTY0VITmUtdk9QeW00RzM3RnRxcEJPSXR6Um84VElHcE40WFU1elN5SXJoQjRiZXI5b01zd2ZfV3lVR2pZWHgyYlFVSTBLVXVjQ1pIVHk0dU92OTRDaWdub2QtVHc?oc=5"
+      },
+      {
+        "title": "Awaria systemu informatycznego Aerofłotu. Problemy dla tysięcy podróżnych - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0pzNWtVRzdEVk1LdVEtS2JVNGFKa080M191eW10cnNXY1hDOVVzRmg0SjFHRGxqcS00ZFNqREtRbDlIanRBck1GTG5vbWdmMERYS29kS3VsRmNsaU1mMG1aOUlfcTRpMHNrMDN5UGlmSU1hSDdnamozS3dGaE0xNjUtRGxkYWE4ZHFSOTR0VG5nS3lLX3J5Uw?oc=5"
+      },
+      {
+        "title": "Ulewy nad Polską. Wiadomo, kiedy niż opuści kraj - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWdkRjNneUYxdEl5N0ZDM3o5T2RVX0MwZEtlcU1hUUE3b2xJbjExN3I0bGVzQ3FlaHd5OU5JYTR0TTlDQmJYQXhwZmhFWmRrTFpuNlZNUWktWVJCVEdfRUNUeU4ySmV1LWJIRDlKSHFUeXMyeGU5Z3BfSk5IdEQzZU5ac0hLaUdiTHlyQm0xd29ITjQ?oc=5"
+      },
+      {
+        "title": "Robert Bąkiewicz usłyszy zarzuty. Jest komunikat prokuratury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXlBSXp1Z1h4akZUZE1OZWJVOW03ZXctdXk1eVFERnNORXJPZWpxRzB3MHVVTmVFS0JGNm1IVldaTVZXMVZZOThVXzFxYXp3UmNqdVczTFdYd3lqRmpoczJyeDJQTk1UeTRISktFODVXUmtmZFlzSHdhMFkzVUxsLWJjck1NaFlFTS1DX1pRbFRjbExTdVF2aDA4WjFhR1JiVkVISlBRLW9Nd2FOVE1pcHhWRDhTNmpZeFFVZGYxcw?oc=5"
       }
     ]
   }
