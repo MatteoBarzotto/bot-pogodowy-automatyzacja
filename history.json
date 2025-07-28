@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26 11:14:21",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 425310,
-      "DOGECOIN": 0.861009,
-      "ETHEREUM": 13599.07,
-      "LITECOIN": 412.34,
-      "RIPPLE": 11.5
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Na drodze płonął człowiek, obok leżał kanister. Proboszcz z Przypków z zarzutem zabójstwa - onet.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1lwLWwwZC1lVmF3ZzRmWjNIMlYxTnFOMnRaTVotX1pOcVljSXNXX29Vdm0xc2xtZXl6bWZFSWVncjBUa2RnMzN2bkZFWDMwZnN2Y0NpRWJNSlVOd2lmb1JqTjE2VmdZQXFSVTZFOHp1QXVtSUxmRTR3SGhTazBPMVpiQTBvdUk3OU1zQTlUaE1lTFJITjN6WW1icDZOWllGcWxFV1JDRVplSFZGR0VOWFVNMkYtdWNPdzdIMGRaLVJreG5fdEU4WGtpb1JlNl9pd1Fv?oc=5"
-      },
-      {
-        "title": "Hołownia mówił o zamachu stanu. \"Złożyłem wniosek\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0hFMndqUHd5aDQ1bERhY3JXR05ROHVzWEtrUXItbWxET2EwSTVfOEE4TkxpTTNNeE9WLVFZTFFXajRwMnRzYmN6cnFkWDRVUkZkdGNUQXI3MkNQa3g3azh3blQtUTdwNWp5S0JGNUdLR1RmTzM1VlB6dlZBaXRudGJSaFV3NE1kcGU0cVpmSjVmZmEz?oc=5"
-      },
-      {
-        "title": "ZHR o utonięciu 15-letniego Dominika na ich obozie. \"Prawdopodobnie zostały naruszone reguły\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFpQS09XTjlRUGo5a2x2b0UtZ1NpemF6dnJhSGYwVUVxUGVleTFhXzhkaVJ2bXM3YnZBcmxkN2RGeDBiX2lpSUFiSHV3VS1mRVdlRVlYVnBaVld6ajhJNlJvT0trU3hNM0h1clpGbHAyYTZPSEhXZ2tqT0lqRkhMS1lHUURTT1ZnZTRCWjI2SVdBSTlIalZNcmdYYW1BOGpqb3R6alI0aW1qSXNrbVZHN3hCcnBLWFnSAbYBQVVfeXFMT2MwdmdVTHhqZTJQUmI0RW94YnVBRm1FR252amR3WkZDZDRKT2NvdDQwVmZNdkFMdXRlR0Y1ZG5TMVJnX3ZEcjQ5TjMzR2pla05iSnFmTTduQlRaWGcwc1dNZ2hGVVYzeHBUVFZhd3FGQzF3OVNDbFNVVVYybWp5T0JyQ19KWGV2RU04UG9pOTVOYlFSWlhpV2o0TTJPY1VxNG01Mk5LS0RPS1FxVEZEWUYxUTB1akE?oc=5"
-      },
-      {
-        "title": "Triumf Michała Kamińskiego. Skąd bierze się siła Miśka, który z niejednego garnka jadł miód? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek42Sk9Bc2NVdXFSUThnTEN6ZnpLVUtoTF9UR2FvWHRqQkd1elpjQTZXN2pMZEZLbXotRDNVMTc1eGhXb1JyMjZFMkY0cjZtbktKOVJfRm5oSmp4cFdrSTZYa3UwUGs4ank3dWJZUVUycFdfcFBfbmNQc0s4dGNPTFdwSDZIRjRMaTh6NU4yRWViaXRzYVAybXF6U0N1QVdPUXBJeXZxa1YyX0FqdkR0U1gxWmNxWXIyalE?oc=5"
-      },
-      {
-        "title": "\"Pożegnamy się\". Tusk stawia ultimatum swoim ministrom - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHo2bGJBUDctcWM4dzh4TThOSW9LWTVVNDNOZ0d3QTk4emZPS0pEbEtqU3B6TjJ6WGltNFJYRG1oOXBaLTVibTRPT0c5UjdXVnkwVnM4VXpXRExZdE55aTNfOTMwSUtTd21tWW16Z1RQcWtVVDZyUGItS3dPT2lLeW50eFhaWThWRTJyZHI1MXJiS0lsRE0tTkFmV0pNM052X2RKZ0stbUdBQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-26 12:14:25",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Włodzimierz Czarzasty radzi Szymonowi Hołowni, by „pięć razy pomyślał, nim coś powie” - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWFxZ1Zxbi1CdjBOd1BHRTd6ekJuY0ZnNHY5NWRJM1U2T0pxZEtZR3JXMXZpU0ZyYmZoRnBLV2JVUTVEWVVMMVVIT3RtY1pqelA1ekwxUW95Z21Nb0FvQ2pCUTdhME04cU5lRlZSY05XZV91TWZrcFlQVFFyRGt1UHVCWTltR2Q0YUcwU2lWSVpYZVhPekYtUHRn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-28 17:16:42",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6446,
+      "EUR": 4.2565,
+      "GBP": 4.8911,
+      "CHF": 4.5607,
+      "JPY": 0.024579,
+      "AUD": 2.3772,
+      "CAD": 2.6546,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 433314,
+      "DOGECOIN": 0.854512,
+      "ETHEREUM": 13922.34,
+      "LITECOIN": 405.06,
+      "RIPPLE": 11.6
+    },
+    "indices": {
+      "^WIG20": 2906.6,
+      "^WIG30": 3750.33,
+      "^WIG": 3750.33,
+      "^NCINDEX": 257.32
+    },
+    "news": [
+      {
+        "title": "Trump skraca ultimatum dla Putina. \"Jestem bardzo zawiedziony\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUowR3FqeVc4cUNhTEl0V3ZKNU1DUURvdzVKQjlwYVlhbzl5LWFQSjhGNTVUcTlMdDFGRGxta0hIRDBWSXVEdTN0aWl4VmtPUkxYZURDRmo3SkFkTkU1MHROczRqV0hTem5qN0VoOHRnYU94c3ZoWjhTaUtSS3d6WnY2ZXlIUTlYSVdV?oc=5"
+      },
+      {
+        "title": "Edyta Bartosiewicz zabrała głos po pogrzebie Joanny Kołaczkowskiej. \"Aż mnie przeszły ciarki\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmhzbWxqNEptSnNVUmhtMC01ZTJTT212VTIxaE1NLTJNc3ltWHhiQVY4NW9iUDdVdE5XYU5iOUdMNU44Y2o3RXVlMTh2REFaSkE5QmxkNERUMkd6aWJOTjhQMGgzZE1DSWROb1dINkF0VHFqZmdTejYyY1h4cDBlN1F5d2dWOE0tWGJaaUxJSDFoT0xBNkdNWGF4aUdwa0VzNUtFTG5BUDJlcTNKblBvQVpybW42R05kT1pwX1VnZlZySUJLZXM1NzZrME9PWjR1eEhyX2JR?oc=5"
+      },
+      {
+        "title": "\"Wyrządził ogromne szkody\". Koalicjanci wściekli na Hołownię - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1JIdFFDUV9NTEEyR1ZJaVlqOFdKTk93d3lDLWtodTdyVWFDdVlpMXJCZFJwQzFDRUVPVzdENGtWeWtQbTlUbDZ2NWxydmVmMXRjMzdYck05ODhzRHRINUVCMFZXd29DYU9kaFJkckVybWVCOFV6SG5RNUZZbldWZ2huMVhZa1BHUXUtNVdsY1EyWDhLTklSQUU5VHdPMmpWSnc?oc=5"
+      },
+      {
+        "title": "Orban: Trump zjadł Ursulę von der Leyen na śniadanie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHF4cnRaV243bkdRRUpRbWpTY21TS1dsSU9RTUZBU3c2M3ZQQlI3QWFqcmNnZFlaQnRSUk1kblUtRkRUOW41NWZ6RGFIb3h6bjBDWm5hT19kRDBxRHdXUXNsalc0VFFOX2wydzZzbHhaTkw2TkZJTzE3VWNfTGlXN2kwaE1IU09BTHd4cVBZOU04Zk5yV0ZWZXdoSVFTanhYMzFOc0FMZlJsUQ?oc=5"
+      },
+      {
+        "title": "Niż genueński dotarł nad Świętokrzyskie. Groźne burze i ulewy. Są ostrzeżenia i alert RCB. Oto nasz raport na bieżąco - Echo Dnia",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT2pQUkQ1cTZVVzRuZU53VTlmQ2tTUk5PLVRMemFoM1pYWEdYSW5jZTdvdnhtMmtiU0dIODA2NUF0Z3I0QmJLQ3V5Q0o1R2ZxTzVtMjE1SDcyeGhRZnNZdVpxdEUxeXBJSnZhT0dfZV9Tdkx4bWZMa2JlQXJGVG1IQWpXNFRZVnBfN181WlZrVW5jZGd6am14aW9wT0JFdHlES1BFUExVZjVQWDd3eDFXWGZiN2pOc0tOcGhZbE1hb21hbEhYYmNwYTZsWFN6SHFkWDY3eUVDWl9kc1Q0V1FzWWZIWGt5ZzZzbmZSWWtscDJOdnZHRW1KaVln?oc=5"
       }
     ]
   }
