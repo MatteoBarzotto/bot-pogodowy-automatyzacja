@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26 15:25:33",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 427392,
-      "DOGECOIN": 0.85941,
-      "ETHEREUM": 13553.06,
-      "LITECOIN": 412.5,
-      "RIPPLE": 11.51
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Donald Tusk reaguje na głośne słowa Szymona Hołowni. \"To jest jak z dziećmi na wakacjach\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWmVBZERqd2ctbXlOV2Y0b0VPakRoT2ZlWk8zVExwLVJsT3FpdkZsY09ScU1lYmRBLWJ2cGtMNHE1OC0tRkNvSzlxR0hMUU95RDZwUVJNUTY0MW9Ud1Z2Y05BemdqWTZ3WG92dXVjRU1uaHVlb1RrYjA2NjdCXzRKeXBiaE9wejRIY1EzNS1xcjNzZnNDVnZUN3NzcWlfVW9MckJsdjRNb2J5b2EwWFJvSVJLbkRObFZ3T2JGWmdKY2x1elk1Zm9rRm12RnV0c2RiQXhtVmxn?oc=5"
-      },
-      {
-        "title": "Proboszcz zatrzymany po zabójstwie. Prokuratura o zmianie zarzutu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3ZqMnFhVHBuRFhtTk9LeXF6czdBeWMxaW1pcEJPYkJBQWNsdUp6bnR3UE1NaEl2SnBVZFZoZXZaTnRPemJsWG9Wc0pXSTBEeFpIZmxOS0dObnBXN3VMcEtlYjZUNWJneFI2UzhQYXQwS0dDcHJCQTByUkRULVFaMFNENkNCYUh5NHphSjNsTEZzcmNMbElUU3pYXzQ5MXk1R1MxcWQ0ZzJxQVk?oc=5"
-      },
-      {
-        "title": "Sondaż: Złe wiadomości dla Donalda Tuska. Chodzi zwłaszcza o najmłodszych Polaków - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXVhbllVZ0Z1ejBtYzF4REtYbUZiaGw0T0pWdU5Dd2o3YjBKWkwxd3hWU3Y1eG9KWldoRlBob3pTT1EzQi1mbUg1T091TkdnYno5VjNJZ2xrVVk2S09qQUtWbTQwMV9xcDROczMyOU1Ec1c4NDhlLUZaU3hqeE9fZWFFVVM0TlZONXpEMWJCTGQyM01SU2t0Y1g5Z3RDVGI3UlpJeHJXVFdGeTN2LVl4RDBSNFlJcjNkdnQ1bzQ3UlBidw?oc=5"
-      },
-      {
-        "title": "Nowy sondaż partyjny. PiS przed KO. Pięć partii na granicy progu wyborczego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUS13cWlFOTlTTFAzbFg2TzVqRVVQYnlRamM2b0ZBbEoxQmR1aGRiZHMzeWF4TXdlS0VPVGNZUXAxWnNaQlIxWU9GaC1acldmNXBnTHMtQWNCNVpWbnpYZE9UR0JXb0lRRzdwb2dSV3pZMEswT2FMandFWnV6MEUxdjV2UUxqUTVwUm9pOVFBWGdkMWFTM19ZcC1oNnBtMUZYMTNnRkNDRDFGaHJtSGtYc1ZCSQ?oc=5"
-      },
-      {
-        "title": "ZHR o utonięciu 15-letniego Dominika na ich obozie. \"Prawdopodobnie zostały naruszone reguły\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFpQS09XTjlRUGo5a2x2b0UtZ1NpemF6dnJhSGYwVUVxUGVleTFhXzhkaVJ2bXM3YnZBcmxkN2RGeDBiX2lpSUFiSHV3VS1mRVdlRVlYVnBaVld6ajhJNlJvT0trU3hNM0h1clpGbHAyYTZPSEhXZ2tqT0lqRkhMS1lHUURTT1ZnZTRCWjI2SVdBSTlIalZNcmdYYW1BOGpqb3R6alI0aW1qSXNrbVZHN3hCcnBLWFnSAbYBQVVfeXFMT2MwdmdVTHhqZTJQUmI0RW94YnVBRm1FR252amR3WkZDZDRKT2NvdDQwVmZNdkFMdXRlR0Y1ZG5TMVJnX3ZEcjQ5TjMzR2pla05iSnFmTTduQlRaWGcwc1dNZ2hGVVYzeHBUVFZhd3FGQzF3OVNDbFNVVVYybWp5T0JyQ19KWGV2RU04UG9pOTVOYlFSWlhpV2o0TTJPY1VxNG01Mk5LS0RPS1FxVEZEWUYxUTB1akE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-26 16:13:18",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Nie będzie rządu bez Konfederacji? Sondaż: Rekordowy wzrost formacji Mentzena i Bosaka - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNend2cU4yNU9pS0Mxc01XcVM1NURaczVqZm5NUU1NUFZkNXBPQk5rTFEyNnhXTjhJSFJiMlN4SnpFVFFOdWswSlMyTmJZYjZ5cmRKemFfRWpjZTIyWVZ3ajNvNEJjZC1LTGx6TlkydG1lMmdJcFV3SjYzYmt2a2JnNmlWVjlubi03VlJQTXZNNEtGb2xFLVY3ejZmSUhoaDUwQUU1WlJrVW8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-28 21:15:00",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6446,
+      "EUR": 4.2565,
+      "GBP": 4.8911,
+      "CHF": 4.5607,
+      "JPY": 0.024579,
+      "AUD": 2.3772,
+      "CAD": 2.6546,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 434345,
+      "DOGECOIN": 0.845515,
+      "ETHEREUM": 13967.23,
+      "LITECOIN": 403.48,
+      "RIPPLE": 11.61
+    },
+    "indices": {
+      "^WIG20": 2906.6,
+      "^WIG30": 3750.33,
+      "^WIG": 3750.33,
+      "^NCINDEX": 257.5
+    },
+    "news": [
+      {
+        "title": "Zmiana na stanowisku prezesa KRRiT. Maciej Świrski odwołany - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR05HTGVSTUwtaTVUek1SM3NXektVV0dmYThjSGpUSWVEeXVGZ2hpU2dGRnpOR29qWldQdy1UY3J5X1phLTVQNDlLNmZGUXpzWWhGN0tzSFRNcWFHdEQ5cDdITTJ2dUpVdkZ3OVpEcE42NU8wSElpUmVBeURrVnQ4cGVJT1c3VU9vYkdvaWNHYnowcDZpWUh4UWFFVlBjM2Z2eGNTVVEwVzFwc3ppd2JKT2xlVHlBc2IxdkpXQVlQcVh1YzllZUpDVkpDNnZSR0hG?oc=5"
+      },
+      {
+        "title": "Przesłuchanie Hołowni ws. \"zamachu stanu\". Prokuratura informuje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFlmQ2xsRnhHb2YtOTR6djFWSU8ta1l2d2M2a2laSkpmakw3T1Q4c2xoV0YxbG1sMXVUZmNqbm9IMmlMWEFISzRVS0ZoOWMyTExTWWp5M3FJcFQ5WVI1d3p2cGpYakcyUEpZcWsyWWl0MDNPT3NIdTlRTmZwWXdvTHBOVElWa2F5X1lVWFZmZ28zREkzUURUdXdBUUVoc0tiMjhMeEtR?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny. Dobre wiadomości dla PiS i Konfederacji - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0VkY3B2YkwxdWlycjhZcjlxTmNFNEVnZVpRNkNmc2RmTDhlVks3R3NVdi1zZWljT1lldGxnYU43NzB5dlVTY0VITmUtdk9QeW00RzM3RnRxcEJPSXR6Um84VElHcE40WFU1elN5SXJoQjRiZXI5b01zd2ZfV3lVR2pZWHgyYlFVSTBLVXVjQ1pIVHk0dU92OTRDaWdub2QtVHc?oc=5"
+      },
+      {
+        "title": "Dramatyczna akcja ratunkowa na Bałtyku. 16-latek zniknął pod wodą - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejRpTERFVmN3c0VncFBXZjlIbE5NSV9yVkxUTUJDRlJocHcxdTFYdlgzN2x2VmNFWGhxeG0tcFJSZXZkcXBwS0VtT0ZHYUVQTW1PTEFRVWtFMUI5QVhvNlNMN2hLUWlVMnBmN19HZE90SmYwMGpuRDNKcU56cDBvWHBCcXcySl9SMlFOTk9SYVk5MHJoQVhzWTd5MmZIa25QNVFfLTdEd3hHYjJvUS1UeEtHVDlGQ3AyZzFCWGp6eUN5MlFwVVE?oc=5"
+      },
+      {
+        "title": "Michał \"Miś\" Kamiński: Żonę mi szantażowali! Tak rozstałem się z PiS - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1Z5N2QxZVNxSDRETTB0UEhjcjF2UlloR2VaVWZ3QXRQa1VWcW13NnJUMVc4b3hTYW9zTUxRNmNYSFFjd2xlZGtzeXFhVFlIUHhLT2RHUXkzZTdFTGxDcDhLVXo1QlpXWjluLXU0VkNhY2l6cDJlMWk5ZUxGWm9ZMTEzTDlHaXBkZ21kalM0VS05UW5hT3hVc08xM1AteXlkNmU1ZEE0OTUxYmduLXFmTWVWWQ?oc=5"
       }
     ]
   }
