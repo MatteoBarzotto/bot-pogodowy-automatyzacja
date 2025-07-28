@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26 16:13:18",
-    "weather": {
-      "Warsaw": "Warsaw: +28°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 427565,
-      "DOGECOIN": 0.862522,
-      "ETHEREUM": 13551.27,
-      "LITECOIN": 413.44,
-      "RIPPLE": 11.55
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Burza po słowach Hołowni i spięcie na antenie TOK FM. \"Patopolityk\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnA4LXVxbE5vcU95T3JQUUFPTlJ0Q2xYQ2pLRHZDVWtDdEFhb3hFbk5tS3U0UzZ4NXotZUVyREw2NjltaFhOeWM1RV81TG52ZTIxWll6RFpxbWczRGUxQnF1SmxqOUMxMlZnTWUtRkh1OFFWVkVxa0hobTcyZlNkbnN1Q2pRY1pkS05aZTVvc2F1SlJVZXprQ3dqRFMwUFU1OEgzTmkyVnVteHBLR25XUThlUENtV2xKdkHSAbgBQVVfeXFMUDFwY0ZENHczcXdZZzBMOEpRVm9Ec09xNEV1NGxPbWZvdUFIRGd4Q2prdlZ6ZS1VNEdQSHRhN1JpNTNhREZCNmxzdWduS05jbkhUR1k1SkRxMzYyTjVubjJRUTlGQ2d0SUZVZEFYbmw0WmMweWZXTk9sbGwwa0ZvUm5KbDNGcFVsZUFHRHl2NTFMdFVaUjk0eEVqOVotV2UwWnJGak16ZFFZS0QycXZVWDhFZzJCdjhGdQ?oc=5"
-      },
-      {
-        "title": "Ksiądz zabił znajomego. Nowe informacje z prokuratury - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMllNWmhzcHFIaGpQakRuM19Sd1lOUmgxdC0tQlRXQzZYNG5vdmFGdFR1N2FuSkRJZUFVQ0EwSWdfSURmWk5LRG5ZY0I4YVREbXNaRlJ3c25pbjVQbnpPNFVydEtLLVZfOXpPbEdSV3NIX3RZdURDUjNMdkk5YXdJMWRCdFJ0Ni0xenNzZ3FOTHVMNzlKMTNiM2VuSl9HQ2xiVUFjUzJXaFRMaUpmd1pnbjVlVmhvdTBodlN1bQ?oc=5"
-      },
-      {
-        "title": "Tusk zapowiada pilne działania. \"Bardzo niepokojący fenomen społeczny\" - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTG5ZZzMtemxMUTJzclBDY3JLUXlHS3Z2bjdHWTVBX3ktV3pFb2RPWFYzRmtnRjljNGNWVkVGQU51Z0V4akJEMnFGQlBkSHR4VkZhM3N4RHdGS0V5SkQxdm1Fdm5GYVBjLWVRNFFkUDRlV0NDRFc4VXJjQjRyWUp5NW5ia2lXVnBoOEI0WDNJOGJXYkZFX3kxN05vZFdhc1ZRNUxDRDM5YWhXLWI3OWpDd1JfdFg?oc=5"
-      },
-      {
-        "title": "Sondaż: Złe wiadomości dla Donalda Tuska. Chodzi zwłaszcza o najmłodszych Polaków - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXVhbllVZ0Z1ejBtYzF4REtYbUZiaGw0T0pWdU5Dd2o3YjBKWkwxd3hWU3Y1eG9KWldoRlBob3pTT1EzQi1mbUg1T091TkdnYno5VjNJZ2xrVVk2S09qQUtWbTQwMV9xcDROczMyOU1Ec1c4NDhlLUZaU3hqeE9fZWFFVVM0TlZONXpEMWJCTGQyM01SU2t0Y1g5Z3RDVGI3UlpJeHJXVFdGeTN2LVl4RDBSNFlJcjNkdnQ1bzQ3UlBidw?oc=5"
-      },
-      {
-        "title": "Konfederacja na podium. Słaby wynik Lewicy, Polski 2050 i PSL - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzROaEhIYnUtTktUNDVlVzhPXzFkM09yTFd1ekJtd2lISkhRSzhUdE9BLTZXdHItOXJhcXNoQS1odXZleEVRQXFkenBldzZWdnZYRDN5clFJSFZaZVJKN2hxWlUtNlFVcHhmNWpMdWNsNERnU0FMdUw3LVZzRXd6M2hQTFppTjBpa0lKbFZkazczNld4TFM1a0VwVkdvVEJxWWNhYlBxamo3N2FmME1vUEZyZ3I2RUd6WDhj?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-26 17:13:47",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Michał \"Miś\" Kamiński: Żonę mi szantażowali! Tak rozstałem się z PiS - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1Z5N2QxZVNxSDRETTB0UEhjcjF2UlloR2VaVWZ3QXRQa1VWcW13NnJUMVc4b3hTYW9zTUxRNmNYSFFjd2xlZGtzeXFhVFlIUHhLT2RHUXkzZTdFTGxDcDhLVXo1QlpXWjluLXU0VkNhY2l6cDJlMWk5ZUxGWm9ZMTEzTDlHaXBkZ21kalM0VS05UW5hT3hVc08xM1AteXlkNmU1ZEE0OTUxYmduLXFmTWVWWQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-28 22:17:14",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6446,
+      "EUR": 4.2565,
+      "GBP": 4.8911,
+      "CHF": 4.5607,
+      "JPY": 0.024579,
+      "AUD": 2.3772,
+      "CAD": 2.6546,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 433276,
+      "DOGECOIN": 0.840947,
+      "ETHEREUM": 13919.6,
+      "LITECOIN": 402.16,
+      "RIPPLE": 11.54
+    },
+    "indices": {
+      "^WIG20": 2906.6,
+      "^WIG30": 3750.33,
+      "^WIG": 3750.33,
+      "^NCINDEX": 257.5
+    },
+    "news": [
+      {
+        "title": "Zmiana na czele KRRiT. Maciej Świrski odwołany, zastąpiła go Agnieszka Glapiak - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE9WLTVWOU51SklQUUkwRUxydGJYSXFoUWJlOTluWERVWGttZnI4amRNOUxQX3Y3YjJCaHNTTjFaMWVnYm41QlZNTkFKLXhTMXlsTEF5VE5ZOUZfTS1LZTJQOVlRUmttVXZVMnBqUmVJQ0pDelFGOFFTN0NLcHpQNnZTMmEyZkpMU0J2cmRPQ2w5aHFTa0g4d0hzbGhjM2xtZWc?oc=5"
+      },
+      {
+        "title": "\"Zamach stanu\". Prokuratura przesłucha Szymona Hołownię - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1VydmVUZHNrUEVKdkFidDBjUHQ5RHRaYmx1MWNTWUt4bkxib2hjb3NncXNHeDdKWmJmOHZ1eWlEa0xJd3R3cjhwWUhTb080aFBoVnlPS050UGhzMklXMDh4emN6aVlKOEZLdnJraUFTcGRwLU56em1QREVKaTNWbXpHelpTcXhGdXQ4ZHVvRXRnd1o3SDJhZ0sycWFWZkVBb2JYOGc2LXBtSUQxVVc4?oc=5"
+      },
+      {
+        "title": "Dramatyczna akcja ratunkowa na Bałtyku. 16-latek zniknął pod wodą - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejRpTERFVmN3c0VncFBXZjlIbE5NSV9yVkxUTUJDRlJocHcxdTFYdlgzN2x2VmNFWGhxeG0tcFJSZXZkcXBwS0VtT0ZHYUVQTW1PTEFRVWtFMUI5QVhvNlNMN2hLUWlVMnBmN19HZE90SmYwMGpuRDNKcU56cDBvWHBCcXcySl9SMlFOTk9SYVk5MHJoQVhzWTd5MmZIa25QNVFfLTdEd3hHYjJvUS1UeEtHVDlGQ3AyZzFCWGp6eUN5MlFwVVE?oc=5"
+      },
+      {
+        "title": "Rozstała się z mężem zaginionej Beaty Klimek. Teraz ujawnia ważne szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGsxVXdyTXpqbHVKQWhaVG1WS3pEaHU1U3dFbHN0Y1dCSDhrMXVpZDVSQzhlT21lb1A3VWVjamdTbV9yQVJDaDVLdUZ0MXJ4ZEFRTTNkcms4NkgxQ2xwNDJlT1VsYkE5dG05N1A1VXhiWWtya1VNN3pwbi1ja3d1aGF5b1pLX1pWZmZFRjRmUDF6NzdvRVFBTG5iR0Y4MU1CTC1reEdrdDNlRE9jVDNVQThSMm5Bcko5OU4ybk9uRlJZcmJjaThaejNaVXVfN2s?oc=5"
+      },
+      {
+        "title": "Kulisy spotkania Hołowni z Kaczyńskim. Kamiński ujawnia - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaThSNEtRbjdEZS0yMnBLR2lQWDJpTHpORDRkUlV4YV8wcnZ5ZktMbkp6T2VHc19VcnkyNmdvUUt4bXZuY1BUN0RndUYtTkZfcWFQVl83S1NCU1pQdnptS2IxMHFNWXhuN2pNeldaWlZXaDFpYktDNGpON1lxMDhRV0pzd0pxWXVmbG5ZTW5CUmYwN2FON3lKQ2xRdWt5dw?oc=5"
       }
     ]
   }
