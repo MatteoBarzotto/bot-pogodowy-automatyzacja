@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-27 08:21:19",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 427955,
-      "DOGECOIN": 0.870825,
-      "ETHEREUM": 13678.36,
-      "LITECOIN": 415.68,
-      "RIPPLE": 11.64
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Sytuacja pogodowa w Polsce. Wiceszef MSWiA zabrał głos po posiedzeniu sztabu kryzysowego - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamRzaVlMY3JFUVg5Um9keEVCZ1FoYXJKTVkzbHVLa1ZyTDRPUHlqZkRLcGViMHRtd0FIcWpFbUxRaWw3ZHMtYWo5LXNIT3BoOU9kTm44RG11aFZObFNnV0RkdS1WaU9BWlkwN2J3aFVtR085dkJqSncwN0kwNEs4aTRaTlIzZ3RlUC1ZZ1lqZ1FUQTJrc1MyVFl4clNWY3JrOVA1cVJ6bkQxSkpVZUZoU0pZNFNTLU5LU1E?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na S7. Trzy osoby nie żyją - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWxJVklKdDl2WVgwbWVyZnVtS05tU0F6QkItRDBWbkxpNGhqM0dxdzY0dVUxX0hLRTFFZlVlUENGZWV3SjJQSktMOExxdTNwSHhXcmpVbWstZkFPWjhyZTNDYS1FSzZJMVE1SjFjX3lBVEZqUU9vLU9fRTJCVFk5MFctWUR0d2otdFhLWXdyRHA4RVZxR3pWY3FtN0Zud9IBogFBVV95cUxQck4zTzlFcTFWRmdhNUEwdHpQTGYwb2ctOEpRcjFEUE05ZEprRlNyZWVaV2FWUmQtSXNwZmJWMnVvX3pLV1RyaHNwQUg5azQ2U1ZGdEdzc0toSTFGSFhiY2J6Smt1dUdPbUJyaVl6dzBJdHF0aGw1aTZ1MmNJdFpuT0hld19LeGRLa1NvSmZLN1Z5ODA2dXVOR2IyV3JRX0xZd2c?oc=5"
-      },
-      {
-        "title": "Przed nami ciężkie godziny w pogodzie. TOPR apeluje do turystów, wydano komunikat - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2U1S3pfZ0wxN05LZUpNNmI4dkw4UWcwclpNQlFKMVhKeGN2QmVmMGM0ZUd3Wk5JTF91a1RiQk0tTXM2a3pRMlJjdWhmRUY1MUdIQUpCUDJHcnZ4Zk1hbVNBUDFxWjhfdHVyT184TzlFUGZfQkVYZTJlZTBpNFpsQ0dna2VxOHlGLVl4MXoyUEdsZFZhVmM1eDJsUk1FLWR0ZjN5LUdiaHZpem5lbFBMV0Jqd3lSZjItMG1LMEprT0g?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia tłumaczy, co miał na myśli mówiąc o „zamachu stanu”. „Nie ma spisku” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMm03bVZTTUhtekdmaU1lYzNJdThYLXlKWHBBc2c1eFBQNW5jbVdvbmxzWHFKUEtNVTVBSjNnRlFTekstWjJCX21RS0hfeUNGZDB3NDdRem1LY0ZTVW02ZFZqQjVGZi1Sb242UU0xVWhxblJlUGdvMDgtYjFPQzB2czJKSWlIajM2Z1VRRUkwT0d5RV8zY29ILXI0Q0FQUWlWU3pEYUN6Y3FodXlhS0hzU2stUjdxZlgy?oc=5"
-      },
-      {
-        "title": "Kaczyński odskoczył Tuskowi w nowym sondażu. W Sejmie siedem partii, znamy wyniki - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUFoV2ZuNnF0MXZtSEVkR1ZQaEpCdkRiVFJnTjlKb0Y3VXdZS2JrNXpvNll1WWV3ZkFkSVdCNWVOSWhwdV9MaTZuNVBvMkkxUXc4a2ZVZ1h1LTk1Tkluc0Y5aDFmNTRhT0JEdkFJMktMWlpYakZzZzVxc2VMZTBhLVN1Uk14eXdKeFdpMDhBYmxwaWFJMWk1bm5idmVnYTNXYjlDajBIbWRGQ1BQT3JlOEtaQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-27 09:14:10",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Zwrot w sprawie Macieja Świrskiego. Nowe oświadczenie byłego szefa KRRiT - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEVpVDZnb083TXk3SzRtbVdMUjFCazhDLVVqQ2pfaGNYcXh3d0FYSnBCN0xtbTJXb3Z6eUFRTEc2Z09KRHFMeEZ1SGxtdUltZE81TVA2cWZqY1Jyd2hiOXVhUEU2bUhOYmhmd2JQVFpOVFpvVjhGa0U4Tkt6V2RDdTRRSjRzRk9xS1ZtMjF3Wm8xLXg2YVkzWUVPSHRKNGsyc29pTjI0QWdIcFp4amlZS0I5dERsNjlRcUVF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-29 14:31:57",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6941,
+      "EUR": 4.2737,
+      "GBP": 4.9284,
+      "CHF": 4.588,
+      "JPY": 0.024866,
+      "AUD": 2.4064,
+      "CAD": 2.6879,
+      "CNY": 0.5148
+    },
+    "crypto": {
+      "BITCOIN": 441274,
+      "DOGECOIN": 0.850417,
+      "ETHEREUM": 14287.45,
+      "LITECOIN": 407.48,
+      "RIPPLE": 11.7
+    },
+    "indices": {
+      "^WIG20": 2934.85,
+      "^WIG30": 3786.35,
+      "^WIG": 3786.35,
+      "^NCINDEX": 256.28
+    },
+    "news": [
+      {
+        "title": "ABW: Pożary składów budowlanych w Polsce na zlecenie rosyjskich służb - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPblVUT2lfRE56eHRYZ3pLMkhPa3VSNFFIVXRpQ3NJNFlFLVBtMy1VVy01Wm9ya3ZpeWpOVnNqcjlleVhDWm4yQ3J1RmcyX3RXV3Z3azZuTzYxMDZjaXd6VkZ3LTcwTzhUQWtuS1VEaVFGcHBiSDB0c28wY2tQSVl4TUdnemgzY0lNd2hvSmVfWkZWWGNVU0g2Nl9tU180WWpJaGQ4eW1HV0Jhc0xxTU0xSV9ocmtia1NK?oc=5"
+      },
+      {
+        "title": "Miedwiediew ostro odpowiada Donaldowi Trumpowi: \"Krok w stronę wojny\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONThTMVNhRU9HRWcwWHdTQ3NqMkJ6Ri1BVUJJTk1yMWxJUkVMUTJiQ3JhVkdYcjNhc1NTVkxsRmR3Z29FWmcxRzdUZ0M2c2VuZXdiVmI4VENTOHJoUDZZVVlWQ21ySnNQbWx6S29MY2xDdldRd2tueDE5c2xZU05mRGhRMExuRERyNzNhcGR2Snp3cjdBbjA4UXVqcUpqN0VXVV9RQ2x2VjFFZU15SzZfZjFyRnJVcEVESDl1WUw2VnpUVXZ5UFJiSmp6Z0poUQ?oc=5"
+      },
+      {
+        "title": "Ustawa pod znakiem zapytania? Słowa premiera wywołały falę wątpliwości - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1hyTXZoOXhNN0hBZ2F0LXJHWXUyMlo4c2ZhRTFNWk00dlM2T2wyWXJ0LXVUN1NZU0ROd3BIOGYwVE84RmNmaTJZNTQyVFJJYlc0X1RsT2UtTVNadGF1R2RoZDhkQVQzSEVkVmhDVm5oRllKZXduQ1Nta2dnQVhDMUR1RUlRdlJyTXdHRktOY3NEaFBoSDlGVEVPZzY0Rlc3M0Jzb0dEakswM3k5OWludjVFUVVKU2M?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia i \"zamach stanu\". Poseł ocenia: teraz ma kłopot - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalJZXzRfWm5xWllDNTJ2ZHVJOW9LOVpjZnhKWkEyWnpGOExvcTRvRGxMZGt6M1JiN1ZfQW94NjNGODU3Yl9WR1VQdWE5X3BkM21GbjBsd1Q0RzJmM1JXSDVpT05jektxZGM1RkVULVZTdWdocjQ3RVhxYjQ3Qy03RjZrNEZqek9TTXRPRS1NaFNIR3FJUkM2OEE2UFRsTEdnRWFXTERiN1ZPRlA4Uk5LenVQTjdvc2hoLUswZlhGcw?oc=5"
+      },
+      {
+        "title": "Będzie musiał płacić ZUS. Tak zmieni się pensja Waldemara Żurka - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGc0OXJ1azdxRHRGWUtuUTFNcFJ1OUtOQTQteTRVZHdjVkUzRjROUDlmRDBxbTVVU0dkeF9RUkZ2WjdyazVRN3ZuaWhRVk9XUThMNlpqeF9zdmdoQzNqVU4wZ1FwNEltZ1Vsbk5CakoyNWEySWhjcElWTXhGUWtBV0d2OFhzQnBHX0JWTXVqUWF6cnFfX1R1U0dlRllDbi1nYllLNDJCWDRyU1lpM2JyVVB0aHYyOEM1aFluWnJB?oc=5"
       }
     ]
   }
