@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-27 15:26:44",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 427576,
-      "DOGECOIN": 0.8608,
-      "ETHEREUM": 13817.93,
-      "LITECOIN": 411.04,
-      "RIPPLE": 11.58
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Załamanie pogody. Nadciągają groźne burze, są czerwone alerty - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDkyeUlOemFUTGVWelhaeUxlYmxLWlB0Tm9SUXRtNzAyRWd1ZE5zTUlNWDZSSW5HaDBpWERPNzk4NEJqY19QbjZWem9TLTgtMzlGWWpVb1pFWm9DY05QSTRmdmVxb3E3MDdmcWZxTTA3bFV4WDlMdVRVXzM3UTVpc2tERFlscWgtVmFybVR3ZHg5ZkhKSG1WRExFTk5fWE9zeWN0QXJhN20xUEh4c0psYW80U0dGNVU?oc=5"
-      },
-      {
-        "title": "Andrzej Duda spotka się z Szymonem Hołownią. Padła zapowiedź - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkNhejJxeUJob3VHQ1dVdVh5QmRWRWR2b2M1R3BKN18xYXhFeklTRGNvNjFEYnpLX0ZYLVVTSjctcXFhM2dRLVVqOVZwcU9MVWhGVGR0OHhiMXFUSVU5cHRuR0p5bm5tYWpEUFdhT1NPTXRoUl9WOVVxY2RYdGZ1a1d4TndhOEtFeDNoMXFRX09keEtWUDJSMGdmUldjQlp4R0hhWA?oc=5"
-      },
-      {
-        "title": "Dramatyczne świadectwa z Gazy. Lekarze bez Granic o głodzie i śmierci - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXIxZ2R5NGJYT2FlRGc4Mm51ekEyYTNzc2E0MjRJUkhxZGROaDBiYllUTU5FQzF2N0NKRGtZRUV1NkVfemg5TmZnTG1DczJZbFhtZy04LWd2MTRGTXRZQXd6aWdCMEJXNXVTcDBlQXZlU3F3SzVMc3hJNkV0SFBoMG9nYmd5eXJVdDMwSGVGTUZtSWwwS3RzZWJLYlNUajZ4dkYyQkRBaWhWd9IBpwFBVV95cUxNYkdHVDVqUFRvLVg3WldsRGFPWlNfWW5nWTZvTFhweTBheUVJdnBnRnliR3hVbVUtNngzcEdzTVYxWjBhUW1XS09zVl9NdWxqcGlhNFMzQUFGTUZRS2pzZmVfaWF1NDFjREJ3RTRtclRuRE5UZVBlX0dDaHpicGtHazQ1ZC1RREh3WUtJeVU2b1JycWREdTZDT1g2U0JYTk92ZHdyZkFUaw?oc=5"
-      },
-      {
-        "title": "Chciał samotnie zdobyć Triglav w Alpach. Ratownicy znaleźli ciało 34-letniego Polaka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRng3RTYwczA5ekQ0bzQxd0x5SzZjZDN5dzNTN0h4b3pSMjhBdF9nT0cxR3ZZX0Y5VGk0aHZyR1RRTWpxQXYyMWpiMVZ4cFlLM2s0bml1WXpMaElyWWVUeVl4WlZqWkEtU3lTS3pCUEpXNWgxVENWT2s0aTdNREJxRUZqeHZvVjBTRm9GN2J3dnlZVWJvZlBKU19aM25ZdnZjZkJVZjVDZGRrY3lZSUw4NkpGRDFvQ1ZxWktqZGdXbjVmc2Yya2pVQmE4R2hhUms?oc=5"
-      },
-      {
-        "title": "\"Bóg płakał, gdy ginął Wasz syn\". Ostatnie pożegnanie 15-letniego Dominika. Witoszów Dolny we łzach - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTRDZ2JPODRkV1ljaXRxSU1KbHZyaThZZVZlMjhxN1VyM3pxUlZsdDYwOXhrdDNBQUlkWGF2bklXTDFEZzRna1BhZ2tVTVZ4N1JMWXFUVmx1UVF4b1F5NFA0YXBKcmEwUHZxUXRST1BBcmhKT3J0eEVoY1dJbmswYzBnYWl2T1pzeGZJM0x6ZWpPN3A5dEh1Q01wTDRwMTVVVllHc2N3T3h1RTFfRkVlSHZobzdjbTdxTXV5Mllrd21iZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-27 16:12:49",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2641,6 +2588,59 @@
       {
         "title": "Kosiniak-Kamysz potwierdza. Polska wnioskuje do KE. W grze projekty na 45 mld euro - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGxxSUREMWhMbFZWUEVfSW8wSGdkajZRNXJwVFJRbW45V2ZLTFlySkZla1JIRm9NYnM1Z1diV09MNVQwOW5DMDlDOE95ZmNoYU9GeW8wa3B3OEVUWlVjRzFjdlYwUmJpVW9kcUFORkc0c2VIUDUxeElqaTdsbXFwdXN3Tl9mVjZfcE0xSm9QZkdnWDg2enZDdnI4WjUzRVJWZDlEX1ZMa2N3NE5EYmxFVGxSeWMxdURXRWQzVHdSS2pCblFHNFFUaml1ZF9adFdI?oc=5"
+      },
+      {
+        "title": "Rzecznik rządu krytykuje planowany marsz PiS. \"Hipokryzja\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2VQSVdtUG1OSGRFQi1ObWprRWtFNkRXckxySkdBU2dLN1BLNW9WdVo5X050SWFEd1M5d1JzSXU0NnZfdEN6ZXMtRVNsUXhNejl0VnVhS0llNEZrTXlNRlktbTc1eXh4OXBjTWg0VHUwMnhGak4xNFZsb2QxZURKSmhOLXdnUmFNdWxWRjU0MjlDTTd6ekk1SE5OTFhrMDg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-29 21:16:56",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6941,
+      "EUR": 4.2737,
+      "GBP": 4.9284,
+      "CHF": 4.588,
+      "JPY": 0.024866,
+      "AUD": 2.4064,
+      "CAD": 2.6879,
+      "CNY": 0.5148
+    },
+    "crypto": {
+      "BITCOIN": 435855,
+      "DOGECOIN": 0.8249,
+      "ETHEREUM": 13979.2,
+      "LITECOIN": 403.41,
+      "RIPPLE": 11.62
+    },
+    "indices": {
+      "^WIG20": 2950.95,
+      "^WIG30": 3805.64,
+      "^WIG": 3805.64,
+      "^NCINDEX": 256.84
+    },
+    "news": [
+      {
+        "title": "Wypadek polskich turystów w Egipcie. Są ofiary śmiertelne - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM21iSDV0V01ROEZPSEk0eHJSb3dCcFNCWmJFdjZMMEg4NTF1R2tqZDd4WlVuV0RXOFlDM3A1dUU4TkNxanNEVFVNRl9NMnJwNVBnQnM2R1FWWVJ3bDJ3NjJ5YXVxN1o0TFNya0lPTTNWTzJKbkFOeXg0NE5HVUM1b2NkM25LTmxEalFYbS1TWm13THVQMHVhVGVidnJSZTVZT2kyX2hWaE0?oc=5"
+      },
+      {
+        "title": "Nowe ultimatum Donalda Trumpa dla Rosji. Prezydent USA potwierdza - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczlTVXZVOExIWjJtbEFlUlBfR3dyMEFuSzBMdWpBeUM4ZTA4ajhXWWtDeVZZdmVUcXpDUkFfeUFnT3F1X3JDRHhxVEgzQlVfU1BaWDhRbzdwMzU2WnhtNVUxTjFWMW5HX3Rub1ZUa0Vja2RDc25PME5Gdkl3Q0lFWXJYTFFzdE9VVGFHVXJLNTk1YjlGdUJpR0xLYk55TzBhdFVfQks0YzBjZFpldTBxSmRuaDRMTEphNE5hUVVMVUtpZzBvb2c?oc=5"
+      },
+      {
+        "title": "\"Źródło problemu jest głębsze\". Pełczyńska-Nałęcz stanowczo po słowach Hołowni - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVJQV3hkWF9TdVkzWEZObGtTa3NKb2hNcFJCcFZXSV9oai1mMDVSeG9IWm9raHNxOHN1azYycDc4OVREZkNlY3FjZVZTLWFETVEzVWQyQklXZzhCLVlxVEN6bkEzWjlvOEh6dmRCMmpBa204akdGbEJQS2loeWNfeXpqVnJrakdsM29HcVQzM1FwMVg4eFpnTE9JWVhlZHlHZS1nRHBIR1VLOXRSTm45X3VPLXczNU83SlpvenNuUkJfZ2s?oc=5"
+      },
+      {
+        "title": "Agent Putina czy pretekst do hejtu? Prawica gra sprawą Kolumbijczyka oskarżonego przez ABW - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRGVBenlLUU92RWhJNDlCYVQ1NFRJQkhDU0RSanIxZ0VHek82bTVNUWFkT3ZnNjRSSTV0ZGZVR0xiV3B4YjhTQVRrZG9EbHdHY3BxRDlJWTE4eXNQdWZjUzZTbGxhbXN6bFFrOVZnRzk2dG1NM19rOTZuV0dZQXJEeUhVcTlGNzJuMWFFNWpFaHl2SXotczNiRjVaZ1g5WmdaQnZDQ2FscmM5eWlxM3pnWWE2dGxQRWpid1pFaXJ4dTlFMVU5cXpyeEFNbXpEMks5RmJNOWRBTHFtdnRaWHB0amF3?oc=5"
       },
       {
         "title": "Rzecznik rządu krytykuje planowany marsz PiS. \"Hipokryzja\" - WP Wiadomości",
