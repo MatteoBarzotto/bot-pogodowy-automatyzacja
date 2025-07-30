@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-27 20:19:29",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 431403,
-      "DOGECOIN": 0.871008,
-      "ETHEREUM": 13925.76,
-      "LITECOIN": 414.58,
-      "RIPPLE": 11.59
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Spotkanie Trump–von der Leyen zadecyduje o cłach. Negocjacje trwają - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHZwSHBSUG4xbzRUb2xydG9jZG9id05oYk1GUFNuNFUtci1LWFZjR2JsSGpkUG15bFhsLTVTSTkyTFVnNkE2ZzNzT2puS2R5cXFRaDhZam5Obi1xYVdUYXh2VTltUkFjNllZcEZfeTVWUHNNVmpZVlJGN1prN0ZNV3loTlJsdzM1TkcyMEJHeXJtZUoyRzR6VnN3ZUNlS3d1aE1zekw1dUtqUExNbkJMWUotNjlpXzQ?oc=5"
-      },
-      {
-        "title": "Trudna sytuacja pogodowa w kraju. Coraz więcej regionów z alertami najwyższego stopnia [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1loOXhHYzhZY0M2akJacmVrWGs0SktuSnRyZ3F4QXFwX2FxVmF1d0M1QV9IZkdzdXFTSzk0TTNJSHo0eUxnUDF5N01GSUc0aWNfZ3RPcFVBSUQxUS1BNVNWRUQzbFltYWFQa0tmU285Qk9Bb0Y3ekpVNUVKdksyX3ZwT29hOGdkX2xzQS1UVE42ZGVoV0pDNHpNWkU4dEJBZU1wc29pVXRmNTdhMUlGVGpuRGQyaGM3M0k2aXZ6MUlEMFk?oc=5"
-      },
-      {
-        "title": "Prawica pobudzona po słowach Hołowni o zamachu stanu. \"Trzeba go przesłuchać już w poniedziałek\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZBTHlFbDkyak1GaHc3S0FDaDlqaFlZYy1pZGs2ekpCS2xvTWNQcFR6LXU2TFRNVzY4YXp0b0JtWXA2U0V6V1VaRUJSazdKanZGWWY5WHVrTlpPNjJJeGlfa3liUVd0ckJRRzVRTDZtbzFfSlFVS1pMX1ZrN05pbE5sNy1BcUFnUi00c3V3VjlLYjlaam9VZ1prdm5qb1JjX1JJ?oc=5"
-      },
-      {
-        "title": "Zalane ulice w Głuchołazach. Trudna sytuacja pogodowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWFSX3YxM0xIaG1udDVYWHhmUkVUNU11a1ViMlJoanU0NldUMHNObUpYOER2dVR4ak5URjZIOFRrMlRvTFBXS0lCRFd0dUw4VXRjMnZqZjdlQTBYVUVHeWlMTkx2dlpvR0M4UWtINjVxcHdfTm9HWk9SV19QdlZ1d19zMVU5NUpyakVjdzB3?oc=5"
-      },
-      {
-        "title": "Pogrzeb 15-letniego harcerza. Poruszające kazanie księdza - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTlHU0RWVXVQZnhsYU0xekFETzBRbmRlMFRzLUstUkhCNzl5X1VUME81WHlaNnJXSGdYSzVORnl5cExjUW9zdHU2UVd4QjN2bTlwTjFGYm5ydU5XcXZrb2h4S2h2Q3NDbUhxSDVBQmNibjNJWjZ4cUVlVjNHeEZOZDllSS1tZ0RoTFBDNUtmWi1IZmF5UFdVTFpWaGdJd2JJRWtLRA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-27 21:11:35",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Kaczyński zapowiada manifestację 11 października. \"Wzywam wszystkie siły patriotyczne\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPal9PcUZYaGlnekVqaVA4Q2QwMDg1c3hrMHJBZHRPcjZmTWhTbE9xY09jSTJUaVdmY1ZsWmlwUTVMWFlSbWdhMkhwTUVFcWJFSElCMXFRQVVWUWtKQlRlSG9MUEhtRklScTFWUnotNk5XVXlDYnh1alNBVmRlS3NoZjJramNORnQ2ZTdWMVlzU2VGb3hNdDBIMkhRdHVHbFQzZC0xRHRsUG55MWRSZ1lGSW1B?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-30 03:15:54",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6941,
+      "EUR": 4.2737,
+      "GBP": 4.9284,
+      "CHF": 4.588,
+      "JPY": 0.024866,
+      "AUD": 2.4064,
+      "CAD": 2.6879,
+      "CNY": 0.5148
+    },
+    "crypto": {
+      "BITCOIN": 435397,
+      "DOGECOIN": 0.826345,
+      "ETHEREUM": 13975.64,
+      "LITECOIN": 399.92,
+      "RIPPLE": 11.54
+    },
+    "indices": {
+      "^WIG20": 2950.95,
+      "^WIG30": 3805.64,
+      "^WIG": 3805.64,
+      "^NCINDEX": 256.84
+    },
+    "news": [
+      {
+        "title": "Nowe ultimatum Donalda Trumpa dla Rosji. Prezydent USA potwierdza - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczlTVXZVOExIWjJtbEFlUlBfR3dyMEFuSzBMdWpBeUM4ZTA4ajhXWWtDeVZZdmVUcXpDUkFfeUFnT3F1X3JDRHhxVEgzQlVfU1BaWDhRbzdwMzU2WnhtNVUxTjFWMW5HX3Rub1ZUa0Vja2RDc25PME5Gdkl3Q0lFWXJYTFFzdE9VVGFHVXJLNTk1YjlGdUJpR0xLYk55TzBhdFVfQks0YzBjZFpldTBxSmRuaDRMTEphNE5hUVVMVUtpZzBvb2c?oc=5"
+      },
+      {
+        "title": "Nowy sondaż: PiS i KO zamieniają się miejscami - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTV6Y1VDLWNISXA4NVJGeDNrZjk5X1Vra19NdlNFWExSdVktRVRGTXZBMDlmQzBBSFJqLWlDVmxWNm5DNzhqNzNDaWdrT1VIQ3lTY0dMY3VxQV91bE80b3BjbWYyekRvbkZXcGdWVWdpOF9QcG5vUzdndTRXU0EtZnJDaUR5QlRzZTljZ240a05DbFlkNFNNczY4cE1qaGxYckM1ajI0VFA1UWxURHN3OVlLT2Fja1Zt?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek w Egipcie. MSZ: zginęło dwoje Polaków - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmIxZ1FJMEpTbGpURzhZSW0yTHJmNmtwNXgwLTJ1YzZPcTE5NjlPTnlVTGFIWFVZbldlNUpNU1k5Rm1zejFtMGFBVFJzQWNlS212emJ3QktSenFNZ09yZXZ6YXBhUXRxWi0taDhlUEcwdGx3UVNndUJ3YXhocmhPb3o2NkNuNm1DekZsWk93?oc=5"
+      },
+      {
+        "title": "Kaczyński zapowiada manifestację 11 października. \"Wzywam wszystkie siły patriotyczne\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPal9PcUZYaGlnekVqaVA4Q2QwMDg1c3hrMHJBZHRPcjZmTWhTbE9xY09jSTJUaVdmY1ZsWmlwUTVMWFlSbWdhMkhwTUVFcWJFSElCMXFRQVVWUWtKQlRlSG9MUEhtRklScTFWUnotNk5XVXlDYnh1alNBVmRlS3NoZjJramNORnQ2ZTdWMVlzU2VGb3hNdDBIMkhRdHVHbFQzZC0xRHRsUG55MWRSZ1lGSW1B?oc=5"
+      },
+      {
+        "title": "Wielka Brytania idzie w ślady Francji. Chodzi o Palestynę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3lLRklJemZVQVJmUUxUYUV0Zy1sQ2M2UXRYZ3R2QjBuUnRKWjlDNG82TnNNWDc0dW1TXzNpenFzRllvTUVrVXF2T25jeHZQS19WZkd6T3VISlZ1c0tJaHFnajUyQ1Y1Q0lLLTVxR2E3QWtHUVdlMXMyYWpVZkhMaFFjckZqaHlyeERsbDNGb0RiX1ZTMlB4aTBrcXYzZzZTRVZiTGpqeDk3endkaXE5WkhiLU4zVXhjRFJualNhbw?oc=5"
       }
     ]
   }
