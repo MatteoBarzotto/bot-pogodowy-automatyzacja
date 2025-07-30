@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-28 13:13:35",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2565,
-      "GBP": 4.8911,
-      "CHF": 4.5607,
-      "JPY": 0.024579,
-      "AUD": 2.3772,
-      "CAD": 2.6546,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 433854,
-      "DOGECOIN": 0.879328,
-      "ETHEREUM": 14191.95,
-      "LITECOIN": 414.95,
-      "RIPPLE": 11.81
-    },
-    "indices": {
-      "^WIG20": 2937.8,
-      "^WIG30": 3788.55,
-      "^WIG": 3788.55,
-      "^NCINDEX": 257.19
-    },
-    "news": [
-      {
-        "title": "Nowy sondaż partyjny. Dobre wiadomości dla PiS i Konfederacji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0VkY3B2YkwxdWlycjhZcjlxTmNFNEVnZVpRNkNmc2RmTDhlVks3R3NVdi1zZWljT1lldGxnYU43NzB5dlVTY0VITmUtdk9QeW00RzM3RnRxcEJPSXR6Um84VElHcE40WFU1elN5SXJoQjRiZXI5b01zd2ZfV3lVR2pZWHgyYlFVSTBLVXVjQ1pIVHk0dU92OTRDaWdub2QtVHc?oc=5"
-      },
-      {
-        "title": "IMGW ostrzega przed powodziami. Marcin Kierwiński: sytuacja naprawdę trudna - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHJxTmxMZGVOb3ZTMHZNMDdGSGtHRmZ5NkVpVmVIRUJGRW5KSXladmE2U0NFcXc1Z055ejdUbDY0Tzl3T0xKWlJkcnN2Sk5iSU16Y19tRGlmMVN3VUtkVUlHVlU2ZHRhMzlFZXRwYVlna2QtSThWbVR3QjJ4dEstUUFQdmR6NWw5RjJ1S1RmVTVVb3ZqQy1zTlNncnlhd2RZeEhYVXc0dm10SndYUzY1VFJxeXVhdFk1?oc=5"
-      },
-      {
-        "title": "Prezes spółki Cinkciarz.pl Marcin P. poszukiwany listem gończym - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1FKRVRkalN3MjIyS1c2NlpkQmc4WGVrbWFMWTE4SVlrZzVrS0dIM2pXZUM2OFdBQzVCNVBWNEU0LTg2c1JHZDR3Mmlqd0NsSHNfLWV1YXktb3JTQ1VsOXlsbmViVXczcVdvMkxfRVlTUDlxUlE4YUhRTlNrdXZldlVBRUM5UW9vdXB5bWFHa0t4ekgyUlZTeHBwR2lFdTR6M2hz?oc=5"
-      },
-      {
-        "title": "Tajowie się nie patyczkują. Ich F-16 atakują z najrzadszą bronią - Geekweek Interia",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUVNNkFMU1EyaFdINzgxV3FFOWx1RW5GLVpweTJtMmtlU0kxaXFLdHRzcm43SzVmQ0JMRkdOMHNMQmdKd3Nrc19qMG82VWdhUUJLVDl6Ql9aM0VreGNhV00yb0E0d2hYdy1rMnNiaXN5dUZ4TjY1NXZYR3I5VTRPaFRtWWFOVXAtTWN6UUpVc2REQ1dEUlQ3cjUtLVdZaWcxSjlOdWNQeUhzU2c?oc=5"
-      },
-      {
-        "title": "Orban: Trump zjadł Ursulę von der Leyen na śniadanie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHF4cnRaV243bkdRRUpRbWpTY21TS1dsSU9RTUZBU3c2M3ZQQlI3QWFqcmNnZFlaQnRSUk1kblUtRkRUOW41NWZ6RGFIb3h6bjBDWm5hT19kRDBxRHdXUXNsalc0VFFOX2wydzZzbHhaTkw2TkZJTzE3VWNfTGlXN2kwaE1IU09BTHd4cVBZOU04Zk5yV0ZWZXdoSVFTanhYMzFOc0FMZlJsUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-28 14:31:47",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Mentzen odrzuca propozycję Kaczyńskiego: Nie zamierzam tego podpisywać - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3YwZllVOUVTeFdOLWJ0d1Vic21XUDZHeG5vUTE1S2JNS0JEdVU5d3R3bU1RS05Wcy1Ea09pRHp3OGxBT05ya0RvelpHNWlyQUN4THpjdjdFREVyMGp6NFNzckxVbDh5WDlpVWlIQ29pLWllMHVpbUdKeEpKeXpEb0QwUUhRck8yMXYzN0FvRkdCRWxqMFg1Y3c4MjJfVTk2QkZzc2JIU0E5NzFPUFV4WS1n?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-30 19:15:42",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6981,
+      "EUR": 4.2732,
+      "GBP": 4.943,
+      "CHF": 4.5958,
+      "JPY": 0.024989,
+      "AUD": 2.4039,
+      "CAD": 2.6848,
+      "CNY": 0.5149
+    },
+    "crypto": {
+      "BITCOIN": 437841,
+      "DOGECOIN": 0.821692,
+      "ETHEREUM": 14110.6,
+      "LITECOIN": 407.69,
+      "RIPPLE": 11.68
+    },
+    "indices": {
+      "^WIG20": 2982.18,
+      "^WIG30": 3842.76,
+      "^WIG": 3842.76,
+      "^NCINDEX": 257.95
+    },
+    "news": [
+      {
+        "title": "Pierwszy ruch ministra Żurka. Jest błyskawiczna odpowiedź z Trybunału Konstytucyjnego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXloMFU2VDh1UjMyMWN1bkotRksxVmFJMlFGMXpyTWhRNTVkRjFscjhISEtCejdwb3BRNFFxbDlJY3Z3YzM1UjNWeC16VGRYR3RLS3pwTFdKNEpFQzN0OXNfOTc2OWYtWXhWd3JYLVlMTkFCdUllZFNWMTE0aDk3cFkycHpJU1VrS250eVVZbjU3aThfTmk5T09UX0IxTXJYQ1NnTHFtSnNBY0c5Uy14QkZUNWFPOWJuSk1NamE1azQwRWhJN2hiempQaGlHdWRRVEkzamJBWC1ZWDNJMU9jUg?oc=5"
+      },
+      {
+        "title": "Erupcja wulkanu na wschodzie Rosji. To efekt trzęsienia ziemi - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTy1rWXpJWmFacklEazRabEhGcGhkMDUzWi00cV9OVzZWYXhzRUt3TUhxclB2Q2xXeXNlOEdocUM5WHMwX3Z6UmhGWWdyQU5zWWVIU1lWc1h4NTFyTklXaVhxUmRhNWY0RkJPQ1QtVkR4QXBhSGNTTFJBSmZtbVZJLW5naWhLSVdSdnNpUWFZVHJ6QlkxLVA1TVhsbTNIVE1lc2FUTjluU3ozaU1LLVRNX0Jna0hCZGhzOUE?oc=5"
+      },
+      {
+        "title": "Duda odebrał odznaczenie Jolancie Lange - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1BHdmgzdjhXLV8teldaQ1NhMmE0cjEzLU40dXFmUlM0ZzFRekNiZUQ3aXN6b1JUUlJrbjAtYU1lZWplUUlKTGtQVzNLWXM3S28tV2tFeThIVHdYejYxTDRtUjdBNXF3YlZfcktFRUZtdEhpU29nTWRhVmktSTBNcTJZQ0sxTlUyR3c?oc=5"
+      },
+      {
+        "title": "\"Liczymy na wnikliwe śledztwo\". Nowe informacje o wypadku Polaków w Egipcie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVZQSzdUM2xMcS1KY3doMUNIcmhMSzdraVlaY0hvWXBMelFhSW5LWl9QQ3FIMDgxWTQwejVwRWlRYUtYbm9wY05nSkVOYVVkc1h6NE9HZXF0dHZ2cmVwTzNZR1RwVHdOSVplQWdKb1NudExGZFdudUJFUE5PeFV4UTc2QUwyX3RSUjZHR2FySWpaQWI4VXlwZ01WcjhleGRXVE9pdXRiTk1yOWo3b0NuaFliZjRZeV9NeUpGN0ZVM2twbUpwT2M2cGl4Vzc?oc=5"
+      },
+      {
+        "title": "Czy to koniec politycznego projektu Hołowni? Zaufanie wyborców dramatycznie spada - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0tzNzFjRFRwTXE1RVBwclluTFptQmRFREJYWGc3STRoLXhXWlNhb0xiQlZRMkYtcTlhRTVNYW5FSkVSNzFVaXYxV1NZM0ZEWExrT1d6dm9ZMTB3SzBidVd0U2ZpMnk5WmluUWNuZ2M4SnBLYnJKaHF1aTY3alpCTlpWNkpLS3gtY3lFMnBGZnN4YlhZQ2kzUTVjMElzVXIzdzdidVhUZ1hKaDI4WEhHdWNTTVZiMUduR0lvR0JGUHNRSHp3c3hPZ3oxTW90dlZ3R013ckVUMlY?oc=5"
       }
     ]
   }
