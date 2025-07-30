@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-27 22:15:43",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6228,
-      "EUR": 4.2544,
-      "GBP": 4.8772,
-      "CHF": 4.5514,
-      "JPY": 0.024519,
-      "AUD": 2.3796,
-      "CAD": 2.6491,
-      "CNY": 0.5055
-    },
-    "crypto": {
-      "BITCOIN": 430096,
-      "DOGECOIN": 0.86819,
-      "ETHEREUM": 13866.62,
-      "LITECOIN": 412.36,
-      "RIPPLE": 11.65
-    },
-    "indices": {
-      "^WIG20": 2962.94,
-      "^WIG30": 3823.99,
-      "^WIG": 3823.99,
-      "^NCINDEX": 257.54
-    },
-    "news": [
-      {
-        "title": "Wykoleił się pociąg w Niemczech. Są ranni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHoyLWQ5Z2x1ZUctdDRhTTNiMGUwNFhJNzB2RHZFMXNuOUJPQXVmVlJIR2dxRl8wUmpxQi0tRmhienA5T1Vvbi1iWENOREl6aFFwOVZTLUJkUGNMMGFrWk1MSnA1UF9wLUVlVWtuTlRqTDlmRjIwRjdCRUdhdUlnSmtSNlMyUDBsSGJkUndUcENDSG1UTm1KNVhGVHVkcnp5QTRKUWx3?oc=5"
-      },
-      {
-        "title": "IMGW podnosi alerty pogodowe. Ostrzeżenia III stopnia dla kolejnych regionów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGJ1aFY0azkzY0NFR1VydkhKcEtDWG5LcXFhYzZ4dHVjRTJhVUFXdkF3Y2ZackxOTWZ4MjB2a1NILXlLVHJsc3pLMW9OM2JON0o4Q0owQVRJMXNESVU4R3lLd0c2S3lGZFpEdGhqRV9Ua3dlZGhfYzllazFmcmxRczh0V3BHU0ZHbDI2WVliX0VEWm9KQ3lNZ3BLcV9yLURuRTdQTHpLWjVybUtPb21sdEpzVkZSNW5TUVlqM0FKLXluSUVyNzlvVF9VNHlobG8?oc=5"
-      },
-      {
-        "title": "Prawica pobudzona po słowach Hołowni o zamachu stanu. \"Trzeba go przesłuchać już w poniedziałek\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZBTHlFbDkyak1GaHc3S0FDaDlqaFlZYy1pZGs2ekpCS2xvTWNQcFR6LXU2TFRNVzY4YXp0b0JtWXA2U0V6V1VaRUJSazdKanZGWWY5WHVrTlpPNjJJeGlfa3liUVd0ckJRRzVRTDZtbzFfSlFVS1pMX1ZrN05pbE5sNy1BcUFnUi00c3V3VjlLYjlaam9VZ1prdm5qb1JjX1JJ?oc=5"
-      },
-      {
-        "title": "Pogrzeb 15-letniego harcerza. Poruszające kazanie księdza - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTlHU0RWVXVQZnhsYU0xekFETzBRbmRlMFRzLUstUkhCNzl5X1VUME81WHlaNnJXSGdYSzVORnl5cExjUW9zdHU2UVd4QjN2bTlwTjFGYm5ydU5XcXZrb2h4S2h2Q3NDbUhxSDVBQmNibjNJWjZ4cUVlVjNHeEZOZDllSS1tZ0RoTFBDNUtmWi1IZmF5UFdVTFpWaGdJd2JJRWtLRA?oc=5"
-      },
-      {
-        "title": "Jest porozumienie z Unią. Trump ogłasza - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVBvM096WlJfMklOdUJMNWZiSzhOM2hWQkt3UzQ0Tk5DbXFFRnZMMHFGeE5qZF9yLW56X1F0bFdHS19EcHlybmhqVklYa2hVUElfVkdRT2ZoNTdvSlVEbWV2VkZiTkJ5NEUtWWJHTjhNWmt2T25WVVdQSi1SeXFiSktQV05SRWVCVGM1UENkQ3k5SzJUUTJpUXFVZUtxTk1Xc0ZfZGhB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-27 23:13:25",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Nowe ultimatum dla Putina. Trump daje Rosji 10 dni i grozi sankcjami - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQi1uVzM1THlfRThsYVhSMEk0NVpIUGtfVEJhZ01jT3FWMS1TaERCalBJU1RYcXpSd0dwNXBzQlBoLWp1Qkt6YkVwMjBGUFQ4RlJTcG9zeElNLUdiU25QLVg0ZDJKN1I3TWdzZU55TDB5UkZBMjJIZEdFMlk2aUM1cE4yNENrSTduVF85UnVNekYtOEVPSktGYlBzU2N5RVNmYVd6YVE2bm9yX21wSEtfNUFieERvTzA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-30 06:37:41",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6941,
+      "EUR": 4.2737,
+      "GBP": 4.9284,
+      "CHF": 4.588,
+      "JPY": 0.024866,
+      "AUD": 2.4064,
+      "CAD": 2.6879,
+      "CNY": 0.5148
+    },
+    "crypto": {
+      "BITCOIN": 437209,
+      "DOGECOIN": 0.827486,
+      "ETHEREUM": 14104.53,
+      "LITECOIN": 400.66,
+      "RIPPLE": 11.57
+    },
+    "indices": {
+      "^WIG20": 2950.95,
+      "^WIG30": 3805.64,
+      "^WIG": 3805.64,
+      "^NCINDEX": 256.84
+    },
+    "news": [
+      {
+        "title": "Krzysztof Bosak o Szymonie Hołowni. \"Jest na politycznej liście śmierci Tuska\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFdWSGVvQW9RcnZVQWlfQlRyOUdJYXB2MHZxYlBjdE0xTVhnQXdlWjRmYmZ1SnN1aXFjdlZMQV9qY2RiNmhINzU4aUJpbWlibWlsNTYtTmVwX2MwakFRV05lNFpINDMxV1lxRkY2a2xHamYwLTU1TFhiejB6dzdRazhUTUpiVlRCaTFXLU1ZWGMyMGR1eUNiaHZ4S2V0S01yX2JxM3B0eVRNQQ?oc=5"
+      },
+      {
+        "title": "Nowy sondaż: PiS i KO zamieniają się miejscami - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTV6Y1VDLWNISXA4NVJGeDNrZjk5X1Vra19NdlNFWExSdVktRVRGTXZBMDlmQzBBSFJqLWlDVmxWNm5DNzhqNzNDaWdrT1VIQ3lTY0dMY3VxQV91bE80b3BjbWYyekRvbkZXcGdWVWdpOF9QcG5vUzdndTRXU0EtZnJDaUR5QlRzZTljZ240a05DbFlkNFNNczY4cE1qaGxYckM1ajI0VFA1UWxURHN3OVlLT2Fja1Zt?oc=5"
+      },
+      {
+        "title": "Nowe ultimatum dla Putina. Trump daje Rosji 10 dni i grozi sankcjami - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQi1uVzM1THlfRThsYVhSMEk0NVpIUGtfVEJhZ01jT3FWMS1TaERCalBJU1RYcXpSd0dwNXBzQlBoLWp1Qkt6YkVwMjBGUFQ4RlJTcG9zeElNLUdiU25QLVg0ZDJKN1I3TWdzZU55TDB5UkZBMjJIZEdFMlk2aUM1cE4yNENrSTduVF85UnVNekYtOEVPSktGYlBzU2N5RVNmYVd6YVE2bm9yX21wSEtfNUFieERvTzA?oc=5"
+      },
+      {
+        "title": "Wypadek polskich turystów w Egipcie. Są ofiary śmiertelne - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM21iSDV0V01ROEZPSEk0eHJSb3dCcFNCWmJFdjZMMEg4NTF1R2tqZDd4WlVuV0RXOFlDM3A1dUU4TkNxanNEVFVNRl9NMnJwNVBnQnM2R1FWWVJ3bDJ3NjJ5YXVxN1o0TFNya0lPTTNWTzJKbkFOeXg0NE5HVUM1b2NkM25LTmxEalFYbS1TWm13THVQMHVhVGVidnJSZTVZT2kyX2hWaE0?oc=5"
+      },
+      {
+        "title": "Doradca prezydenta krytykuje Kaczyńskiego. \"Chyba zapomniał\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTVpTlBvcGtHamFya1lhWmhmYWtydTQ2RVFETC1FcDBPSV9GNy1nUGpaWEFVdVlCYVZiUDFGZ2xGT3ljbENFLTJLUkRyTlprZ1Z0T09UU3llb2tPUUhwTUZZS0tKSW0xRGhheDduUnBZVlFpLUV1dlZSS2NZSWFtX0lnU09LSWEyazA0NDFpaGVsVEUzNUhjei1mTUJtSmtydlpuQjBCUG5xbThmMkNsSEVCNDl1Rk1kdEtSYQ?oc=5"
       }
     ]
   }
