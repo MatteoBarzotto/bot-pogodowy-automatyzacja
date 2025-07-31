@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-29 00:14:54",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2565,
-      "GBP": 4.8911,
-      "CHF": 4.5607,
-      "JPY": 0.024579,
-      "AUD": 2.3772,
-      "CAD": 2.6546,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 434531,
-      "DOGECOIN": 0.837954,
-      "ETHEREUM": 13950.56,
-      "LITECOIN": 402.55,
-      "RIPPLE": 11.55
-    },
-    "indices": {
-      "^WIG20": 2906.6,
-      "^WIG30": 3750.33,
-      "^WIG": 3750.33,
-      "^NCINDEX": 257.5
-    },
-    "news": [
-      {
-        "title": "Zmiana na stanowisku prezesa KRRiT. Maciej Świrski odwołany - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR05HTGVSTUwtaTVUek1SM3NXektVV0dmYThjSGpUSWVEeXVGZ2hpU2dGRnpOR29qWldQdy1UY3J5X1phLTVQNDlLNmZGUXpzWWhGN0tzSFRNcWFHdEQ5cDdITTJ2dUpVdkZ3OVpEcE42NU8wSElpUmVBeURrVnQ4cGVJT1c3VU9vYkdvaWNHYnowcDZpWUh4UWFFVlBjM2Z2eGNTVVEwVzFwc3ppd2JKT2xlVHlBc2IxdkpXQVlQcVh1YzllZUpDVkpDNnZSR0hG?oc=5"
-      },
-      {
-        "title": "Prof. Zoll odpowiada Szymonowi Hołowni. Padły mocne słowa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmo3RDRGQ3hMWDVDREV5MzhHYnljN2dPZ0dpejVaVGFaczZIcXR6eE5IbGFwZVd6Y0dXc21oTTNTY1hKMjViVG9zRXVCY1VVN01nWXRyRVU1TVRCVGFpN3dpd3R0RmwyZnB1R1hvTmtvbDZGdkRtNWdXWFFHU2xkSFJCQXM5cDJtT2I4blhiMDhwY3dmSno2cHA1ZDgxdE9BQzBabG11R1pCM3Bhd2RCYmlmak9sVEpaaUE?oc=5"
-      },
-      {
-        "title": "Apogeum opadów przed nami? - Trojmiasto.pl",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmFSTDg1dDZhczJ3NEZCUUc0RjJham5tSGxIOExNVXFfQUVKZEpyZzR2SEllRXJhN3NMZERPS1V4aGE4VTlYWjc1dzFBUjVYOU9iR2w5LUV1a0w5RXVDVEJUNmtuZFI2MDY3M1QwUnpnT3ZLNGpwT3JtSllmVjJTYWlfbElxVjVzcWpz?oc=5"
-      },
-      {
-        "title": "Rosja wyczerpała swoje zapasy broni z czasów Związku Radzieckiego - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRjdhVzEyTU9YVkI2cmZkLXRiSzNoU2VlWG43R3plYWdxVzdpY0xjbnA5MjgyN1o3YkJvMFEwQVhPWXJyY3NkeFFzcU1UaThub3cyTTB3cEVKY3pYY2g1R2RqR1Q4bDFjeEhiQUFsQ1NyTjhxZ2RNVzFEY1g5VElWYXBCRVlISHo3V3pISThXTTNuNGdjdmFGY05DX2g0Vm4xc3dvS3d1OWpMV1RKSzVkejRMY3ZYcXVheWlMRlNvLXl4ZW5tOVNiVHZBVQ?oc=5"
-      },
-      {
-        "title": "Robert Bąkiewicz usłyszy zarzuty. Min. Siemoniak w TOK FM: Machina państwowa działa - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaG1nYWlLMy1ET0pGa2YxSXZ3blVhTWlpdi1HWXNwRHdhUzdQLTBQUTVURm5aOVdkaHhrM0U0WFc4d0poT0NBc0FBeG0ydVR4RlNoVVZSeWFjYzVBclVEOVR3bUpCVVBRZWtxc1ZKeTdFNTMyRVkzbHVMUXhGbUlEZUpHTWVrX01BbHBsMk1YVHRtbVFyajJQRWpoc0JNRG5SYkdpMGdZM3JiN0wtclFGR3FCMNIBsgFBVV95cUxOSmdEYnVJYXNyNURwSmpEZGh2SHFHRlJtUmwxbUp1cXhSRkNjaXhsY2dGdU14d1NNMlozYXc1QkJCSlQycGFMYlZlcWdRRmIweGxMMS0wMzktOFZMdXNBUzJUR003eW9DTWtfUExqQ0VzdmRKTFhpN0JpSGh1eDV6bEFWYmlEa05lRXFXUTExSVpXRk9mQ3NfRDZZQTRJMTU2RmNMZ2JEN3luTFN0YnVxUTRB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-29 01:14:57",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trump nie stchórzył, spełnia groźby. Ekspert: złoty strzał - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRFZyenZCMlpSNzdOMDRjaFJ1akw4emNSY0RqcG5xTlMwNlc4aTVUYXNVUVFyem02WjdxYUQyMEFLYU5jVlJ0OFU1cVNRZWdZX0ZlR28yLWJwQTNyZWowMlNhSWd6VmNCVmdTdk03c0VWRXR3MTlDU01vWDlqSmJ5UWFPZUxacmc1YlF4QXhhQVVrcmZCNzVFcmp3ckVLWU9qMHlQaHZ0eDFNaWl2NWpBQXUyN2RLbTVwNVBMNUotV0lObnVUQWtWSkdrQmZ2MXhaUkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31 08:23:15",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.6981,
+      "EUR": 4.2732,
+      "GBP": 4.943,
+      "CHF": 4.5958,
+      "JPY": 0.024989,
+      "AUD": 2.4039,
+      "CAD": 2.6848,
+      "CNY": 0.5149
+    },
+    "crypto": {
+      "BITCOIN": 441258,
+      "DOGECOIN": 0.831129,
+      "ETHEREUM": 14393.5,
+      "LITECOIN": 413.0,
+      "RIPPLE": 11.7
+    },
+    "indices": {
+      "^WIG20": 2982.18,
+      "^WIG30": 3842.76,
+      "^WIG": 3842.76,
+      "^NCINDEX": 257.95
+    },
+    "news": [
+      {
+        "title": "Atak maczetą w Sosnowcu. Napastnik nie żyje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3NQZW5QVG5MN2J2TXRmRlRpTDVTNE5ZWm5UaDNSdmltRWV1RUpuZWczci1BZ2dkcEM5Y2VfQkNvRjRSemxtWXQ0THVsM0NjS2xnWUNvMGFhNXA3ekVsUjZiM1ZHanRPejVmeEdaZUVJTzNjVEE5NExCVmg4c0Z4OV9BS0hNQ2owLWRyNTRZSDhrRjYzRGoxRDQ0VmJVeWVtU3gza0I4Z1I?oc=5"
+      },
+      {
+        "title": "\"Ale po co pan drąży?\". Platforma dojrzewa do zmiany lidera. Kto weźmie władzę po Tusku? - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUZaUEV5R3FCcU1iZVZMYlZpNDcySlZLdklxX0dBeVJxNUxXeGZ3NjJOQjNLYTQ0VDAxcXk3ZmJLdFkxTUJlelVIazRSbUQ5MERtUUVUT25kTVlIRDB3QzM4akRoTkg0dk1YWDdQaUctN1p4QjZQM215MGhlWlVCdUU2N3lHRy1oOVB4WDJvZE04ZEM3ZHBTbWU2VEhKZjdXWXJoXzFPQjhVZw?oc=5"
+      },
+      {
+        "title": "Kaczyński i Mentzen mają problem. Prezes przestrzega przed Konfederacją - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3ZLS3dicnhNVDFCVDdfTW52M2RHUzBhQzBzckY4ekpxbkk2bGZBNXBYMlZ0U1EycXJ4ZWdMUlR6LXAxOHlCcFpPOThvRkM5a1YxNDRzNFZIaXRZbVhsQVZ1R3Z4OWktQnc1ZzJmdmNPS2thWk1JSlN5NW42XzQ5X0FaWm9BSUJUb3NKa2xMcVAtTTg2bDlBSlVwYkU3RmtmTkNZb1FITWRxYTJGdm12Zk94QQ?oc=5"
+      },
+      {
+        "title": "Ogromna transakcja. Polska będzie miała więcej czołgów niż Niemcy, Francja czy Włochy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaU93RHMzUVppWGg4TVVtc0ZTa3I0YzZiSFRncExFcGRDdUNIRmwtZ0pEbTBTM1BsWnJiWENzR0hyMVNaempjaWZpUE9LbU1XbnR6N292aE8tTUVHNTNCMW1nSVp1SWpNbWJYY3B0SXk3S1JqRTZ5dUtCaHNaWWU5b05MZWs2UTRkMVVobUxDVkZfYUsyWFo5Z0N6dGpOSm1aM0hZRngzc1o3RG5RazVZVTdWdUxqVW1EaDFIb2VuU3pwTFBCMGF4UThIakFjS05UNkVGWQ?oc=5"
+      },
+      {
+        "title": "Mapa zagrożeń trzęsieniami ziemi. Są ostrzeżenia dla części Polski - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXlDMG9SSEowREhKODlrcmo0TEkzSG9lMHFHTFJVZHE4T202SUpXUFZMU1E1Zl84YjlJZVNuOF9BS2V0dXZ5UnBOejFBY1V2emM3UzV2R2txZ005YmhTbzFaMU9hZlM3akhVaF9zWWx1R0pNSnhPX0hZclhiOXh4YnFNQ1ZORm5NbGd1Smo4dEtJeXNYNU9vM2RhSTNUQndBdmhjOUp0cU53eDNOWGFtWTRaQ3dtODFTcUtCRURn?oc=5"
       }
     ]
   }
