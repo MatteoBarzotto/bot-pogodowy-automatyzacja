@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-29 11:20:17",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2565,
-      "GBP": 4.8911,
-      "CHF": 4.5607,
-      "JPY": 0.024579,
-      "AUD": 2.3772,
-      "CAD": 2.6546,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 439183,
-      "DOGECOIN": 0.848077,
-      "ETHEREUM": 14305.33,
-      "LITECOIN": 406.51,
-      "RIPPLE": 11.66
-    },
-    "indices": {
-      "^WIG20": 2934.85,
-      "^WIG30": 3786.25,
-      "^WIG": 3786.25,
-      "^NCINDEX": 255.94
-    },
-    "news": [
-      {
-        "title": "Maciej Świrski wydał kolejne oświadczenie. Zdecydowana zmiana frontu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMENCZjNGRnVsU3BFXzFSY1NhSlJSai1nUUYydzNaemZYT0QydDlhN0ZCUFRBV01QNXVtMHU1cGpvV0hSTGZ0TkxBWWZNYTJrSjZPX0t5TEpNYWhkX1FXakdCMThCeDRyRFFfTDQ5TzBld0RRTnN2Sk5jT1dSNlY1M2xuZ0swM0dRa2NIUjhJY1lydTJYZGY0ZUZRUk9kNW1xOFp2OUVpVjMxX1N1MDd4MHV4b2NObEZybEZn?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia i \"zamach stanu\". Poseł ocenia: teraz ma kłopot - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVZMbnVtTWNLNkxpb2YyUzc0N0FSbnV6ekFZdTlfWGNoeHdUbk1Kc3lQY0ZTeWI1WTVnS2g0TFpLMDVCN2NpOUNTcjVyaXIxQVRnLUIwMG9RaHJ2cWwxSUZYdEpuRUVnbTBXSGo4NVp1TDI1bWkxeWpHYnFEYWlIUEpLQVdfY29kcHFPTGdlckNldWVyX2FhVFM5WEdZWkF0?oc=5"
-      },
-      {
-        "title": "Jest potwierdzenie z rządu. To on ma zastąpić Mariana Banasia w NIK - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1B2T0FBOGhTTlpqN0dlYXVXQjhMX2pMVTlINWxyM19xNWxLM1YzZUt0UDZFei01bDk2LUZycnotd0VKRXl4aElsME81SEF3SFpPZUtfQVhVclhhcnNGeEc3QWRhSjlnb1cyTlRRRmo3ZmtLRGdnYkVVVmVQM0IyNG1qczAtM05kRm9rZUNnVWRfZGw0VDljY3RZNkktWi1IUkVjTlNYMW9YR25pWWMxOG9pblQ2a1k?oc=5"
-      },
-      {
-        "title": "ABW ujawnia, kto stał za podpaleniami w Polsce. Kolumbijczyk działał na zlecenie Kremla - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnlFRzRkQUNldlRCY29pYmh6bzBmaVg3OHhtbl83em5CQWZDTzFYaXc0QmxfYmFGbEwwdUstd28wNk5uN0hRdFU3TVk5VkNzd214Mm1zY1ZLYzEtSkxISkxhckpYU19DeVJjTnBQbkFtRV8zN0ZiaXYwd0F1bkxZM2stNHlZTGE4YWVFRzVBXzNwQi11cEtOcEtocmJ2QVU?oc=5"
-      },
-      {
-        "title": "Trump skraca czas dany Putinowi. Jest reakcja z Rosji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDVrRjlhVWFLYXdMN0dKVEgwZUxEMTRxeXR3UW9nbkR3MkVZQkhiREhadTZENjg2X09MdGgzN2ZhYlRmNGl4OHJpNmNkNHN6ZDJLelktanZ5NXM2NWxJTExMRUM3SnB4WWkydHZnVWIyYTV6UU5CUWVtaFA5aHo3blRjN090OWw5WWNWY2pYTVpJeWQ3T2gzTll0dkRTZGEtcG4yVUNPTDQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-29 12:16:22",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zmarła powstanka Halina Jędrzejewska. \"Dziękuję za poświęcenie\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGx1SzdScmJBSWdwUG04RVl4dU1SanBNUDg3S1FydGFWRERWTFhKRWJ6QXdfM2ZMMEw1Y3VObFhvRjlUcVZ3N21pQi0zWHhIS3VWZGNySndBY0ZjSEt3TFpZMFVmdVpDX0NROUdRbHNpalc5RTY5dnZ3NElJcDRfRTZ6M29HRDMyaHJLNGhjV05JZlVrd2E4WHd6WHV0VnFhYXpoemhKX0U?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31 17:16:13",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7257,
+      "EUR": 4.2661,
+      "GBP": 4.9362,
+      "CHF": 4.5838,
+      "JPY": 0.024899,
+      "AUD": 2.4058,
+      "CAD": 2.6924,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 440872,
+      "DOGECOIN": 0.805806,
+      "ETHEREUM": 14093.63,
+      "LITECOIN": 406.75,
+      "RIPPLE": 11.53
+    },
+    "indices": {
+      "^WIG20": 2950.42,
+      "^WIG30": 3801.54,
+      "^WIG": 3801.54,
+      "^NCINDEX": 255.66
+    },
+    "news": [
+      {
+        "title": "Waldemar Żurek zabiera głos po objęciu urzędu. \"Jeszcze nie przywrócono praworządności\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVJBeU1oX3dMNVZsMmVmdHVhaUtlbW1CMmg5bS05SlVWYzZoVmx0OGVFTml1azB0TTRZVDVqRUpDU2xBbm9jcXZqUEE0b3REQTZJQ2ZGa2x3bnJIemduUVg2U3ZvQ2NBbVZYc2d4Mm5xOEZuRXR5cFFOT09WcmZRZXU0QmhDajNkN0VEakhqMUIxQ1ZBUDBiQnJjNk9uZ3BXbTRwN2ltc0VuQ0k2V0g0TV9lZXJTWTg4NVJsV3gzdzlNUnJNUkFpeFZR?oc=5"
+      },
+      {
+        "title": "Nowa \"miotła\" w sądach. Znamy kolejny ruch ministra Żurka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGp5SVdoUEN0ZU81bV9OM3NlaGUzRGc3blJZbGo4Q0k3XzYxVzVrWHdLdDViTWFjSE04QzRPSlVZd1ozV3VDU2djZDg4aGdmUkRBRVNuQWZwQzhreUF6OG1Cd19sQUUxdkJ0bWFQUWhvanNJUFNPaHRVSWd6eTVQRlNyeXZ6LUZZYWt3ZnJ1c3pjNmMzMEo3WkI5Q3hpVkZYNzNRdnY5V1d1bW1DSVROY1FMN3E?oc=5"
+      },
+      {
+        "title": "Sosnowiec. Mężczyzna ruszył na policjantów z maczetą. Wtedy padły strzały - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVBWMGZjdlRmdVdjdUVNb3g5YnM4OUVyMmFaRnc5MnBvTDg5Vm1sZzVqbGtjaDZpOHFFbWZ1RWxES3V1T0M0MnR2d1RkVFVVUTlJNXZ0ME80WEhlU2NCeTk1azh2SkF2Ymc1X21lWWJna1poaHR2M3k0Y1NjczlUS3VYZWp3Z0dROHpXVXBkTkVhaFdDQWR3UlRPNk5kZGNya2VGbA?oc=5"
+      },
+      {
+        "title": "\"To powinno ulec zmianie\". Nawrocki dał jasny sygnał Zełenskiemu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmdYV005RUZSREpHNnhwcHlNTE51MXFyTWZZVWRyXzVZZHJWRnVMQXZZWjR5R0hEWTZ3ODJDRmhaN3dpTmh0bFAyQm1mOHZWVlg3bk9faTFqNThNVVFpYzZfLXJJYklDVkphX21TUlMyWU9wS1ZEVTBiSFJaREhLUGlpTmh0UG53RkRaQlY0QzhWTl9jdUtYNWJ1N0hfQTFJTnlKLVVPTTBEcHdsaktTSXZ3cm5iUDFyVXJN?oc=5"
+      },
+      {
+        "title": "Ukraina zmienia zdanie. Przywraca uprawnienia organów antykorupcyjnych - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLU55dHBlYkRCNExuOGtFRlFzMDBnSmFOOFV4UHVzUW12LTl6UTE4UjZPMkhnLUc3MkxPY05hd195M0l1NEJFVXpMR2NqODBwLWJ2MmpvRjhDV0dlUDJZeGEybm5YMkw4a1RkSXpGVW14X1AzM2NRa05vcll4bWZBb2FUdk5JakFEd1V6SWtZaW5yRURNVmVDZ244djZZZm85TTRPLWRFT3h4X3BBUlE5VDdwY3hxdko5blE3T2x6VVBPZw?oc=5"
       }
     ]
   }
