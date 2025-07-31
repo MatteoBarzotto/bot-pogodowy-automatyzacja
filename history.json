@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-29 08:23:11",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2565,
-      "GBP": 4.8911,
-      "CHF": 4.5607,
-      "JPY": 0.024579,
-      "AUD": 2.3772,
-      "CAD": 2.6546,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 437783,
-      "DOGECOIN": 0.841005,
-      "ETHEREUM": 14032.06,
-      "LITECOIN": 404.74,
-      "RIPPLE": 11.58
-    },
-    "indices": {
-      "^WIG20": 2906.6,
-      "^WIG30": 3750.33,
-      "^WIG": 3750.33,
-      "^NCINDEX": 257.5
-    },
-    "news": [
-      {
-        "title": "Duda zaniepokojony słowami Hołowni o \"zamachu stanu\". Niewykluczone zawiadomienie do prokuratury - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkNGYnp3V0wwMXh1aFpaVlFGSTl3Q2Z3TjRCdk1fMnVRNmtPVzdiWS1OcUVBMTJXclh4Q015ek03c0E3MnYwR1U5UmhFSWpxbUh5cTVScS1FcmR4TkVRQTE2aEtXby1qc2QxZU1RWTVCM051WjktamxvbU5SX0xOS0k1U1RLQno5TXZ5UHp6MWNma3luSDdhWnBVX3lJZGZWWExnZF80SHQyOXdsekxXekZn?oc=5"
-      },
-      {
-        "title": "Tolkmicko w powiecie elbląskim walczy z powodzią! Woda na ulicach miasta. Wlewa się do domów i sklepów - wPolityce.pl",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkEyb3NZdWx6V0J4Y0V2YVVEYTVNUHBrNktpRTdRcVNXNGVOTGxjS1BZV3BhT1RaTDE0UEhfb0FxMEE4Vmp5WFFFNkt4QkxFemFUZzYwQ05nZFR4WUxpNmprYklhWkpxczN2bEtqM0t3VGg0U0FjZnN5dVZhUWFidlFhRi1KMm50?oc=5"
-      },
-      {
-        "title": "Ulewy na Pomorzu. Woda zalała drogi, wdzierała się do domów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkdDT3JZSDhVMUpZc1BhTmpJQ1A1S0hpNDlZMFUtSzJCMFFzdHFFRW16WUFWSjdOWG5URHlEUGc1TkxrUjBhZVBZRnhZdzdzRHdJLV8yWmF2TW5ENkh4cktJUEROa2ZBVlRuLVhsN2JjLVptY19URTBoWVRoa2tkek9wa2k4UzVVYzZlcUNYZklPU2VFczNSUEN3OE8taHN1WGZuS1NJNFNEWkhndHc?oc=5"
-      },
-      {
-        "title": "Pogotowie powodziowe na północy kraju. Ulice miasta już pod wodą [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczA4VDdxblQ5MDVuSFF3eFRzY3ZWaGFpSFR2bUZIeWJSMnJuaXh6Yk9PMzVkM25ISnVCcXE4dXZySmhYVTJ4cEZLU3h6emMwZlRlQlBPNDdLUFhLTlN0X1labW54WV93ZVl3bUNoZ2pMMDFFWUQ0d1JsVTVlUGtKSWZTeDdRVEJqR1B3RUNGa3hrcmNVZjZtRzM4anNGOUVCSklacGZPRW1ZNGpy?oc=5"
-      },
-      {
-        "title": "Zmiana na czele KRRiT. Maciej Świrski odwołany, zastąpiła go Agnieszka Glapiak - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE9WLTVWOU51SklQUUkwRUxydGJYSXFoUWJlOTluWERVWGttZnI4amRNOUxQX3Y3YjJCaHNTTjFaMWVnYm41QlZNTkFKLXhTMXlsTEF5VE5ZOUZfTS1LZTJQOVlRUmttVXZVMnBqUmVJQ0pDelFGOFFTN0NLcHpQNnZTMmEyZkpMU0J2cmRPQ2w5aHFTa0g4d0hzbGhjM2xtZWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-29 09:19:39",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Waldemar Żurek zabiera głos po objęciu urzędu. \"Jeszcze nie przywrócono praworządności\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclFBTFVyWEdOcUc1NnVjSmtMV3gxdjVlajlkTWJhUHJoVGpTVU1YelBHdXdFNl9YZDJ6REdwZ3F4akMwdEp0T2pPSWFfcV9CM3I3SFFBNllCWkpMaUI0SWxwUEFybE1wWk03ZkJKdkhVUzR2YzR4V3BINXJQMkVNXzJ2eU00Zm1qQnFlYy0wYjB0YTlWOVE3TUdIS3h1NkNfS1U5cnpmVGZQdHVrZlVvNjV5NEN2UUJMT2RSMGE5d3JEazhlTjRLZUwwVXNDWkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31 14:30:07",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7257,
+      "EUR": 4.2661,
+      "GBP": 4.9362,
+      "CHF": 4.5838,
+      "JPY": 0.024899,
+      "AUD": 2.4058,
+      "CAD": 2.6924,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 442282,
+      "DOGECOIN": 0.827088,
+      "ETHEREUM": 14324.92,
+      "LITECOIN": 409.82,
+      "RIPPLE": 11.68
+    },
+    "indices": {
+      "^WIG20": 2948.02,
+      "^WIG30": 3800.02,
+      "^WIG": 3800.02,
+      "^NCINDEX": 256.09
+    },
+    "news": [
+      {
+        "title": "Waldemar Żurek zabiera głos po objęciu urzędu. \"Jeszcze nie przywrócono praworządności\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclFBTFVyWEdOcUc1NnVjSmtMV3gxdjVlajlkTWJhUHJoVGpTVU1YelBHdXdFNl9YZDJ6REdwZ3F4akMwdEp0T2pPSWFfcV9CM3I3SFFBNllCWkpMaUI0SWxwUEFybE1wWk03ZkJKdkhVUzR2YzR4V3BINXJQMkVNXzJ2eU00Zm1qQnFlYy0wYjB0YTlWOVE3TUdIS3h1NkNfS1U5cnpmVGZQdHVrZlVvNjV5NEN2UUJMT2RSMGE5d3JEazhlTjRLZUwwVXNDWkE?oc=5"
+      },
+      {
+        "title": "Nowa \"miotła\" w sądach. Znamy kolejny ruch ministra Żurka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGp5SVdoUEN0ZU81bV9OM3NlaGUzRGc3blJZbGo4Q0k3XzYxVzVrWHdLdDViTWFjSE04QzRPSlVZd1ozV3VDU2djZDg4aGdmUkRBRVNuQWZwQzhreUF6OG1Cd19sQUUxdkJ0bWFQUWhvanNJUFNPaHRVSWd6eTVQRlNyeXZ6LUZZYWt3ZnJ1c3pjNmMzMEo3WkI5Q3hpVkZYNzNRdnY5V1d1bW1DSVROY1FMN3E?oc=5"
+      },
+      {
+        "title": "Sosnowiec. Mężczyzna ruszył na policjantów z maczetą. Wtedy padły strzały - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVBWMGZjdlRmdVdjdUVNb3g5YnM4OUVyMmFaRnc5MnBvTDg5Vm1sZzVqbGtjaDZpOHFFbWZ1RWxES3V1T0M0MnR2d1RkVFVVUTlJNXZ0ME80WEhlU2NCeTk1azh2SkF2Ymc1X21lWWJna1poaHR2M3k0Y1NjczlUS3VYZWp3Z0dROHpXVXBkTkVhaFdDQWR3UlRPNk5kZGNya2VGbA?oc=5"
+      },
+      {
+        "title": "Finał afery melioracyjnej. Sąd skazał Stanisława Gawłowskiego na 5 lat więzienia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakJma1ZDRm11T0hWM2c0YjY5bEZfWmJsQUt5SGJKRE91OE9JTEs3RGtJTmlqMUZWWVphaE1CU2R4XzBVbGhja0xpODJTandOV29FcEFXWkVJNjBzczZFRV96Qmo5MUVObW9CRHkxY25Zb1JxYURfTEdRVnExdzJuZ1ZWTVJFaFRlMU5lbU5fZlJndHA5UXhjV0pLS2pDc0RPZXc4SmJpeG0yNTZwMk5Hd1ZOUWRfMG1FaThOM2ZyVHczWC1idUNRWGFpa0lidEE?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski pod presją. Deputowani cofają kontrowersyjne zmiany w NABU - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHRXMm54cVFsaFg2VzFLWXdyOXZkbHVNNFhlZUpEMVctTUwyVThyZzF3TzFEQVJuVnBuamNPLWN4NFZQZzdiOEt4NmthRWZsZFFMYi0xRUwyd29nTlVqQ2pCVlpmUmUwOG5pY2dwVG4waU1HX3NJNUprVy0ySi1IOTdqRFBvMW14V3ZCcUt1M2N6VjBHdURGR0ZpR0FCbmRpMmV3bmxJVWhDdw?oc=5"
       }
     ]
   }
