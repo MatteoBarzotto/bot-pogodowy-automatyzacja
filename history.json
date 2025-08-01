@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-30 03:15:54",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6941,
-      "EUR": 4.2737,
-      "GBP": 4.9284,
-      "CHF": 4.588,
-      "JPY": 0.024866,
-      "AUD": 2.4064,
-      "CAD": 2.6879,
-      "CNY": 0.5148
-    },
-    "crypto": {
-      "BITCOIN": 435397,
-      "DOGECOIN": 0.826345,
-      "ETHEREUM": 13975.64,
-      "LITECOIN": 399.92,
-      "RIPPLE": 11.54
-    },
-    "indices": {
-      "^WIG20": 2950.95,
-      "^WIG30": 3805.64,
-      "^WIG": 3805.64,
-      "^NCINDEX": 256.84
-    },
-    "news": [
-      {
-        "title": "Nowe ultimatum Donalda Trumpa dla Rosji. Prezydent USA potwierdza - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczlTVXZVOExIWjJtbEFlUlBfR3dyMEFuSzBMdWpBeUM4ZTA4ajhXWWtDeVZZdmVUcXpDUkFfeUFnT3F1X3JDRHhxVEgzQlVfU1BaWDhRbzdwMzU2WnhtNVUxTjFWMW5HX3Rub1ZUa0Vja2RDc25PME5Gdkl3Q0lFWXJYTFFzdE9VVGFHVXJLNTk1YjlGdUJpR0xLYk55TzBhdFVfQks0YzBjZFpldTBxSmRuaDRMTEphNE5hUVVMVUtpZzBvb2c?oc=5"
-      },
-      {
-        "title": "Nowy sondaż: PiS i KO zamieniają się miejscami - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTV6Y1VDLWNISXA4NVJGeDNrZjk5X1Vra19NdlNFWExSdVktRVRGTXZBMDlmQzBBSFJqLWlDVmxWNm5DNzhqNzNDaWdrT1VIQ3lTY0dMY3VxQV91bE80b3BjbWYyekRvbkZXcGdWVWdpOF9QcG5vUzdndTRXU0EtZnJDaUR5QlRzZTljZ240a05DbFlkNFNNczY4cE1qaGxYckM1ajI0VFA1UWxURHN3OVlLT2Fja1Zt?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek w Egipcie. MSZ: zginęło dwoje Polaków - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmIxZ1FJMEpTbGpURzhZSW0yTHJmNmtwNXgwLTJ1YzZPcTE5NjlPTnlVTGFIWFVZbldlNUpNU1k5Rm1zejFtMGFBVFJzQWNlS212emJ3QktSenFNZ09yZXZ6YXBhUXRxWi0taDhlUEcwdGx3UVNndUJ3YXhocmhPb3o2NkNuNm1DekZsWk93?oc=5"
-      },
-      {
-        "title": "Kaczyński zapowiada manifestację 11 października. \"Wzywam wszystkie siły patriotyczne\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPal9PcUZYaGlnekVqaVA4Q2QwMDg1c3hrMHJBZHRPcjZmTWhTbE9xY09jSTJUaVdmY1ZsWmlwUTVMWFlSbWdhMkhwTUVFcWJFSElCMXFRQVVWUWtKQlRlSG9MUEhtRklScTFWUnotNk5XVXlDYnh1alNBVmRlS3NoZjJramNORnQ2ZTdWMVlzU2VGb3hNdDBIMkhRdHVHbFQzZC0xRHRsUG55MWRSZ1lGSW1B?oc=5"
-      },
-      {
-        "title": "Wielka Brytania idzie w ślady Francji. Chodzi o Palestynę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3lLRklJemZVQVJmUUxUYUV0Zy1sQ2M2UXRYZ3R2QjBuUnRKWjlDNG82TnNNWDc0dW1TXzNpenFzRllvTUVrVXF2T25jeHZQS19WZkd6T3VISlZ1c0tJaHFnajUyQ1Y1Q0lLLTVxR2E3QWtHUVdlMXMyYWpVZkhMaFFjckZqaHlyeERsbDNGb0RiX1ZTMlB4aTBrcXYzZzZTRVZiTGpqeDk3endkaXE5WkhiLU4zVXhjRFJualNhbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-30 05:38:39",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wracają gwałtowne burze i ulewy. Alarm w 10 województwach - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlM1SXF1YUlMWHV3c21tT29DNWYtZTRZQ0ZtQVNocnRCcXhBREdWMGROUzhIaEhaYnZZX3lKWGxHc0d5Y1lTcnlQLThwRjdlZzNxUl9ocUowQXpnWXU1SXE3Q2Nwb1JjeWk2VENxTzgtY2hjYWVBOE94VF9XRDRWY1VPZUNwelNWU1kwR1M2Z0J6WW9BOXpDeG9tYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01 10:20:51",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7257,
+      "EUR": 4.2661,
+      "GBP": 4.9362,
+      "CHF": 4.5838,
+      "JPY": 0.024899,
+      "AUD": 2.4058,
+      "CAD": 2.6924,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 429749,
+      "DOGECOIN": 0.761228,
+      "ETHEREUM": 13549.01,
+      "LITECOIN": 389.87,
+      "RIPPLE": 10.94
+    },
+    "indices": {
+      "^WIG20": 2911.21,
+      "^WIG30": 3750.58,
+      "^WIG": 3750.58,
+      "^NCINDEX": 255.61
+    },
+    "news": [
+      {
+        "title": "Andrzej Duda opublikował zaskakujący wpis i nagranie. Drwi z Waldemara Żurka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDR5dy1yeTBOUE1YVDFrS0tfdE0yaE9hQlBkeVBKTzU4MXhlSnYzM2txT3NFWHh4QVlhYTA1VVFkRmdiQm1uMXVHeWNzSXpNWXpzQ2RpdDRvbWlWQS1HbVFINkh6eG8ybVpoYURnY0xMd1ZKdXU0bnhnYjEtQWhVUlZQUGxXaXFjS1lWR1R4YVF0S29McUFTLVYyb282QU03NERkeTRqd3VSMnB4TDlTOEJfa1FBZE9hNDR6M1VRcW43NUNsUk9B?oc=5"
+      },
+      {
+        "title": "Prezydent Duda do powstańców: Dziękuję za wolną Polskę - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTFFZEFxNC0yYUJidG5sbnpTVy1fbWlieWhOVnRqMDlQRk0ybzN2NVA3OEZpZEo1bnQ0SVBuRzVTUG9OOVNjS3hYVU9IamkyU1dzSzhmMjhESXJzSnVmUlJyMTh1ZGIxWHFpNjRQajRyUWhCcEg4SV9mbW14NG9UMXBISC1xcXp4TnJWX3V6cnlBblZr0gGTAUFVX3lxTFBINE83LWlKMW4yOVJfOVlSNGpvVlAtVWJmSGk1NUxaTC1GZjdwb3pXWGUwMXVscGR2S05FSi14ZUJmWG80aDhXVHFGX2Myem5KTVZ5dU91S0NWVU02ZU44cjFqWTNuR0RtQzZtU3ZEeXo5Mm55YWVYQUpydUh4MmFvTlBYbEctVkNwNmd2RlhPYnBLYw?oc=5"
+      },
+      {
+        "title": "Wracają gwałtowne burze i ulewy. Alarm w 10 województwach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlM1SXF1YUlMWHV3c21tT29DNWYtZTRZQ0ZtQVNocnRCcXhBREdWMGROUzhIaEhaYnZZX3lKWGxHc0d5Y1lTcnlQLThwRjdlZzNxUl9ocUowQXpnWXU1SXE3Q2Nwb1JjeWk2VENxTzgtY2hjYWVBOE94VF9XRDRWY1VPZUNwelNWU1kwR1M2Z0J6WW9BOXpDeG9tYw?oc=5"
+      },
+      {
+        "title": "Trump mocno o Rosji. \"Odrażające\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFZRYlZMdExvME9lbmlQZk9lZmdLZWxoZFRRRjBwVVB1MDBaTHI2RUw0M3dfQ2FUWnk2TDJTaHlqcHdYRXJMNWF3eVgxUFdFV1o4YWg5M2o2YVZjQmtnSGlFVDVNM2h2N05ZWWxCSTVrNnQ4dWFfSExTUnZndTFJNWljY2R6d1hKUVNtTjhmbnpOaUY2VjJHN2NGekhQVndmbVdkd0lUNA?oc=5"
+      },
+      {
+        "title": "Żadnego nowego programu nie będzie. Tusk \"więźniem\" budżetu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXZhbENUM1loOHlObDluTGpoTHhHSjhRbHhYMU1PemNoWFZzR0J3dzJBWHA3Zm9kS2hURGQ2ZzVkZEN6RXY4MDM5b2VVUE14UVdFUUkxRGdrRUpmdmVEdGU4ODIyQTBkUVVac3lXZmtCeV9MQl9ITnYwV2dzSTdMa1J0YVg2dHhVVmFickd4NDJKeDJsME5kakhUVGNGR0hs?oc=5"
       }
     ]
   }
