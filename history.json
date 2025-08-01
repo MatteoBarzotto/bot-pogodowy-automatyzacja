@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-29 23:14:11",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6941,
-      "EUR": 4.2737,
-      "GBP": 4.9284,
-      "CHF": 4.588,
-      "JPY": 0.024866,
-      "AUD": 2.4064,
-      "CAD": 2.6879,
-      "CNY": 0.5148
-    },
-    "crypto": {
-      "BITCOIN": 435151,
-      "DOGECOIN": 0.819943,
-      "ETHEREUM": 13953.92,
-      "LITECOIN": 399.86,
-      "RIPPLE": 11.53
-    },
-    "indices": {
-      "^WIG20": 2950.95,
-      "^WIG30": 3805.64,
-      "^WIG": 3805.64,
-      "^NCINDEX": 256.84
-    },
-    "news": [
-      {
-        "title": "Nowe ultimatum dla Putina. Trump daje Rosji 10 dni i grozi sankcjami - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQi1uVzM1THlfRThsYVhSMEk0NVpIUGtfVEJhZ01jT3FWMS1TaERCalBJU1RYcXpSd0dwNXBzQlBoLWp1Qkt6YkVwMjBGUFQ4RlJTcG9zeElNLUdiU25QLVg0ZDJKN1I3TWdzZU55TDB5UkZBMjJIZEdFMlk2aUM1cE4yNENrSTduVF85UnVNekYtOEVPSktGYlBzU2N5RVNmYVd6YVE2bm9yX21wSEtfNUFieERvTzA?oc=5"
-      },
-      {
-        "title": "Nowy sondaż: PiS i KO zamieniają się miejscami - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTV6Y1VDLWNISXA4NVJGeDNrZjk5X1Vra19NdlNFWExSdVktRVRGTXZBMDlmQzBBSFJqLWlDVmxWNm5DNzhqNzNDaWdrT1VIQ3lTY0dMY3VxQV91bE80b3BjbWYyekRvbkZXcGdWVWdpOF9QcG5vUzdndTRXU0EtZnJDaUR5QlRzZTljZ240a05DbFlkNFNNczY4cE1qaGxYckM1ajI0VFA1UWxURHN3OVlLT2Fja1Zt?oc=5"
-      },
-      {
-        "title": "Szefowa KRS o ministrze Żurku: „Nie jestem przekonana o jego bezkompromisowości” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalJ1NXZXQ1VXd05ZYkFsZDY5OF84STVLOXdIYi1mT1lZQi1FSDNQY2dXbjhUN2VwNzhqXzgzMmlMd0x0eENHcHlzUTluN2l6NXJkVy14TTYyZUdWc2NzdURSd083RUthVHlyNFZZUGU5SVRubVI0QmJ6dENQenhlQmRodkNPaDEwMmxEejNuckZMRGdZR3ptTThjTlVSM0NBRUpzYlN2V2c4VE41LTlKb21aV0lGak1aS0xITlZmc19fY1FWeGg5TkxkT0d3TG8?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek busa w Egipcie. Wśród ofiar są Polacy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNENiejV2TjF0Vjc1YjdSNldxT1RLTzJ3QWd5ZEo5WF9JcTR1bmhJWTB6dFhtX2ZIVjlISGplVTdvUWJmRmdjcEQxeHFVR0k3bWZxYWswMy03Unc5NEtRS19YeXV1STZhU05JTkFKemlmOWZnNWNOZUctVXdhU1NJNnVBUWxsTFZjNExmY183bUVxOFlMMmtxM09sY1puR1RqdFFJN0pyOUxlek1QT2RaSU5GRQ?oc=5"
-      },
-      {
-        "title": "Dziwnówek. Weszli do wody mimo zakazu. Dramat nad Bałtykiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3RhekVlLVZCSUZhck5HYjlpc2d4bXNGVGdjdWsyeTdhSzh1N3g3WnJJdkNqYllJcjdYekFuSDhOd2VqMGRQMExnamthNlB0NTBoNGhEcy1NdjBwNllhenRlUlk2ZHBITDFhalJ5clNqRGdaOUNKNlM3U3BFR0ZrU0NzZ2Q1a3Q4Zkp0QmRfUjRsVG1xVXlBQ1g4eUlITTVFTHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-30 00:14:45",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2638,6 +2585,59 @@
       {
         "title": "Prezydent Duda do powstańców: Dziękuję za wolną Polskę - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTFFZEFxNC0yYUJidG5sbnpTVy1fbWlieWhOVnRqMDlQRk0ybzN2NVA3OEZpZEo1bnQ0SVBuRzVTUG9OOVNjS3hYVU9IamkyU1dzSzhmMjhESXJzSnVmUlJyMTh1ZGIxWHFpNjRQajRyUWhCcEg4SV9mbW14NG9UMXBISC1xcXp4TnJWX3V6cnlBblZr0gGTAUFVX3lxTFBINE83LWlKMW4yOVJfOVlSNGpvVlAtVWJmSGk1NUxaTC1GZjdwb3pXWGUwMXVscGR2S05FSi14ZUJmWG80aDhXVHFGX2Myem5KTVZ5dU91S0NWVU02ZU44cjFqWTNuR0RtQzZtU3ZEeXo5Mm55YWVYQUpydUh4MmFvTlBYbEctVkNwNmd2RlhPYnBLYw?oc=5"
+      },
+      {
+        "title": "Szef gabinetu prezydenta: najgrzeczniejszym z aniołków to prezes Kaczyński nie jest - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZG1xS0pHOXJGSkhfUHFPRTQ4dGxkME1Lck1POGx1QU5fTG0xWGc0c2swYlg0Rm1TVXAwbExUZXhDbTJROGtYcjZrbWZvMzRXbEhWUHcwLXJra2pCeDlYc0FycHNhbm9ZSEVBbnVhTkxjOGtWUG5NVU9rOHpSNEtCZ1ZabWpxd1VkSzJpVGREcDZLYkNPRWlhV2hXSlB5cC1fXzc3SHVTdkczQ09VUXpJeXZRYU1PNE1fZUpkU1JjUld5c0tFR1FENGhuaV9RakY5MEVTbDhqa3dObmJaU0E?oc=5"
+      },
+      {
+        "title": "To nie była maczeta. Nowe informacje prokuratury po tragedii w Sosnowcu - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakNSWjcwUjh4UmRobHV0UWw0MUJlX0pXaHJENENqX0h5cnoydDVYandhd0NVZGVKeVpSUlBOWnJLMUhrU05hRDdxeUQ4UnhlLUFYbEwxQXp2MktlTXZySFpRbm95RUhhaHFLNGNEaUJObS1IaXRzRDN1djVTQlpVX0FOTFBCQ3hGQXFUZnpYeUNhTEZGOGJLeHBPeURFeXpNWlU5LUNkMjVmdEtXOXV4bWNWOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01 07:27:18",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7257,
+      "EUR": 4.2661,
+      "GBP": 4.9362,
+      "CHF": 4.5838,
+      "JPY": 0.024899,
+      "AUD": 2.4058,
+      "CAD": 2.6924,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 432760,
+      "DOGECOIN": 0.775976,
+      "ETHEREUM": 13778.28,
+      "LITECOIN": 396.62,
+      "RIPPLE": 11.14
+    },
+    "indices": {
+      "^WIG20": 2950.42,
+      "^WIG30": 3801.54,
+      "^WIG": 3801.54,
+      "^NCINDEX": 256.25
+    },
+    "news": [
+      {
+        "title": "Ważna decyzja Waldemara Żurka w sprawie sędziów. Zbigniew Ziobro zareagował - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWdHU3JTamt5ME9GTEppWnFXX3duRHdtSkJZdFFWZER3QTdMTDFsYlFsX3FYYlVDNFdVNk50WWE4UkNHOGx2ell2SnZQdXdSdHpwREpHcTZBaUNqZEtEVDRTVmJQY2xkQnZCQlc1YlNZMU1kcWNydmRBX2pFUXhnTTlXQ19wXy1EN1BWbGNlRzJJVktjV2h1clBBbVpMSkM1NXBmaFV0ejl3MU5JemNDSUVDS1lQcGd4Vk81WTM0RnRIQQ?oc=5"
+      },
+      {
+        "title": "Prezydent Duda do powstańców: Dziękuję za wolną Polskę - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTFFZEFxNC0yYUJidG5sbnpTVy1fbWlieWhOVnRqMDlQRk0ybzN2NVA3OEZpZEo1bnQ0SVBuRzVTUG9OOVNjS3hYVU9IamkyU1dzSzhmMjhESXJzSnVmUlJyMTh1ZGIxWHFpNjRQajRyUWhCcEg4SV9mbW14NG9UMXBISC1xcXp4TnJWX3V6cnlBblZr0gGTAUFVX3lxTFBINE83LWlKMW4yOVJfOVlSNGpvVlAtVWJmSGk1NUxaTC1GZjdwb3pXWGUwMXVscGR2S05FSi14ZUJmWG80aDhXVHFGX2Myem5KTVZ5dU91S0NWVU02ZU44cjFqWTNuR0RtQzZtU3ZEeXo5Mm55YWVYQUpydUh4MmFvTlBYbEctVkNwNmd2RlhPYnBLYw?oc=5"
+      },
+      {
+        "title": "Wracają gwałtowne burze i ulewy. Alarm w 10 województwach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlM1SXF1YUlMWHV3c21tT29DNWYtZTRZQ0ZtQVNocnRCcXhBREdWMGROUzhIaEhaYnZZX3lKWGxHc0d5Y1lTcnlQLThwRjdlZzNxUl9ocUowQXpnWXU1SXE3Q2Nwb1JjeWk2VENxTzgtY2hjYWVBOE94VF9XRDRWY1VPZUNwelNWU1kwR1M2Z0J6WW9BOXpDeG9tYw?oc=5"
       },
       {
         "title": "Szef gabinetu prezydenta: najgrzeczniejszym z aniołków to prezes Kaczyński nie jest - Onet",
