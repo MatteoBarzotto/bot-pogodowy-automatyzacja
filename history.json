@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-30 07:24:34",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6941,
-      "EUR": 4.2737,
-      "GBP": 4.9284,
-      "CHF": 4.588,
-      "JPY": 0.024866,
-      "AUD": 2.4064,
-      "CAD": 2.6879,
-      "CNY": 0.5148
-    },
-    "crypto": {
-      "BITCOIN": 436529,
-      "DOGECOIN": 0.822516,
-      "ETHEREUM": 14069.26,
-      "LITECOIN": 399.16,
-      "RIPPLE": 11.53
-    },
-    "indices": {
-      "^WIG20": 2950.95,
-      "^WIG30": 3805.64,
-      "^WIG": 3805.64,
-      "^NCINDEX": 256.84
-    },
-    "news": [
-      {
-        "title": "Alarm na Pacyfiku. \"Natychmiast się ewakuujcie\" [RELACJA NA ŻYWO] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE5VaVZELTBiRnJfaGlZWjRXc1FVYXVYQTA3dTIxMEtPanZRWWZLT3dKcUZXMlZ2VWhfWTI4OUxEdG0zWVZWbGtBT1R6aDJkb3R6dHVPUzcyLWVnaTY1MklIXzlWeFE0eWY1SnQtMnFwUmM3dWdGV2hxSHJHSHRBeUZwVXpIVnF2QUwwZEsySkdQbEprQkp6RUhDbGtiZlBsNFVtNG1n?oc=5"
-      },
-      {
-        "title": "Krzysztof Bosak o Szymonie Hołowni. \"Jest na politycznej liście śmierci Tuska\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFdWSGVvQW9RcnZVQWlfQlRyOUdJYXB2MHZxYlBjdE0xTVhnQXdlWjRmYmZ1SnN1aXFjdlZMQV9qY2RiNmhINzU4aUJpbWlibWlsNTYtTmVwX2MwakFRV05lNFpINDMxV1lxRkY2a2xHamYwLTU1TFhiejB6dzdRazhUTUpiVlRCaTFXLU1ZWGMyMGR1eUNiaHZ4S2V0S01yX2JxM3B0eVRNQQ?oc=5"
-      },
-      {
-        "title": "Nowy sondaż: PiS i KO zamieniają się miejscami - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTV6Y1VDLWNISXA4NVJGeDNrZjk5X1Vra19NdlNFWExSdVktRVRGTXZBMDlmQzBBSFJqLWlDVmxWNm5DNzhqNzNDaWdrT1VIQ3lTY0dMY3VxQV91bE80b3BjbWYyekRvbkZXcGdWVWdpOF9QcG5vUzdndTRXU0EtZnJDaUR5QlRzZTljZ240a05DbFlkNFNNczY4cE1qaGxYckM1ajI0VFA1UWxURHN3OVlLT2Fja1Zt?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek w Egipcie. MSZ: zginęło dwoje Polaków - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmIxZ1FJMEpTbGpURzhZSW0yTHJmNmtwNXgwLTJ1YzZPcTE5NjlPTnlVTGFIWFVZbldlNUpNU1k5Rm1zejFtMGFBVFJzQWNlS212emJ3QktSenFNZ09yZXZ6YXBhUXRxWi0taDhlUEcwdGx3UVNndUJ3YXhocmhPb3o2NkNuNm1DekZsWk93?oc=5"
-      },
-      {
-        "title": "Doradca prezydenta krytykuje Kaczyńskiego. \"Chyba zapomniał\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTVpTlBvcGtHamFya1lhWmhmYWtydTQ2RVFETC1FcDBPSV9GNy1nUGpaWEFVdVlCYVZiUDFGZ2xGT3ljbENFLTJLUkRyTlprZ1Z0T09UU3llb2tPUUhwTUZZS0tKSW0xRGhheDduUnBZVlFpLUV1dlZSS2NZSWFtX0lnU09LSWEyazA0NDFpaGVsVEUzNUhjei1mTUJtSmtydlpuQjBCUG5xbThmMkNsSEVCNDl1Rk1kdEtSYQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-30 08:24:29",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zmasowany rosyjski atak na Kijów. Rośnie tragiczny bilans ofiar, ogłoszono żałobę - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHlGLWZlZndra2hxcnY0a1Y2WnFIRFd6UkRfbl94T3ZvdVNDUmw4dEU3QXBRWDJKUGh6VU41YUwyWXFDTXJBWXVqamNVX0VpbEpHQ29ZbDl4ZFFUcGJsXzVQeUMzYzNMNjI3aTNpS3JWTjJQaVNvRUxvUjJCTl9KMkVlY010RXdUMEZ1WFBHMy05S3lUczB5dDJvU1d4UmVjenZnY1laekN3TzNTR0lncThwSHlTQ0pUMTZuZVN0R0otWk5TYy11ZDdfamlETmgzRU9SWTFn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01 13:13:25",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 429939,
+      "DOGECOIN": 0.769954,
+      "ETHEREUM": 13540.32,
+      "LITECOIN": 392.03,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2885.79,
+      "^WIG30": 3720.42,
+      "^WIG": 3720.42,
+      "^NCINDEX": 254.78
+    },
+    "news": [
+      {
+        "title": "81. rocznica wybuchu Powstania Warszawskiego. W całym mieście zawyją syreny - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmNWMmFZTFJTU082ZV9WVlRVREdibkdoZUc5M2ZkUEdPZDNTRjVJTVhzNXljbmhhQmhaUmYzTjM3bXdsYWl1X2NzalVLQUxBQTRlOHRtSGhKcHNIckxEWXZmMHZoVlJqd3B0VElwaWVzd1RaT2RiNVRfRlh2aG5wRHNXWXM5M1BMaGE0TWpNTEZrS05aN2hUYkpKSmJrNmJTNGVQWFdUd3J0aXluRkVZNlhYS3BaelMzMWd3R3NPRS1kaC0wSU9XWUI4OA?oc=5"
+      },
+      {
+        "title": "BGK zagwarantuje pancerny kontrakt. Poznaliśmy szczegóły [TYLKO U NAS] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUFRWkRwaHRpYWNQODRQLVdkNXl6RTlVc2V3Q1BSMHlucVdjNW1UamNyb250bHVkR1hRWUltQ0VUd2w3cTlubVZldVB3TXJFb081ZFB4QkJCSVNuRzlZcjF1RmQtYmhJWmR6NnVyclVzZVJERmsyS21mS0h3X0R4ZjYwU3l3dEdCNUlwNjRidzVNU2dONjVjOVl5LUhnRWxZVVA2LUFxU1FVSEh3VGlvOWxRSlhBQmc0?oc=5"
+      },
+      {
+        "title": "Prokurator chce wyłączenia. Zwrot ws. Bąkiewicza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1Nkd3ZuS05ZTVFIdDZIUnNZaXN3VTQwZ1Y4UHM1c2ZBb0NacGl0ZEdESlE0WFRHcHBSa3NKTkU5UlZkcEV4ZXM1dlJQU3A1dHM3Q1lRaTc3bnFwWnF2RVBQRzJESXlSR0JBTDJ6LVVEUkFLRlFKSTdnRzAwcFlVV1ZWb2wwV0FvNkZOQ19tV3pjSnpiQ1BQREk4Q2MxeXRwSl85ck5R?oc=5"
+      },
+      {
+        "title": "TVP Info wyśmiewa Andrzeja Dudę. Burza w komentarzach: standardy Kurskiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWpZZ1g4ejl4X1d4UjRTcl90c1hxMmVGNG0zWFdoalJ6MXM4eEZOY25WUjItUzlITmVER2pVZEpaLWRwSnhoTTdYajZNd1Q4OWZlMUdHVTA1UUdoQ1VibE54QVBMN3EzbmtlUTZPMlhqME5TWjB6RUFKcXpYQW1iMkxBYlBSQVJnV0NNQ29JZFdhZHoyZVdSWDNMWlhfZVlXSElEYktxTk5laHhGdThVT0FwaVFRb3lCdVhLU19zSFdvUnlocXdB?oc=5"
+      },
+      {
+        "title": "Minister sprawiedliwości odpowiada na ultimatum Zbigniewa Ziobry - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGhpVnRrOWlOUExnUzR4enNOSW9ERURGb1kwRHBCX2xqUnJvN296NjZjQUZZSk1Mbm9uZ2pTWWh5Uy1Ca3lYOC1ydXZTOTZTRFlQM1BSdEt1VVJsNm1mMmdGVW9qOHphQkhmS2NsUzI2UDkwdERMWkM3VU1xRU1TSEZEMnBsbzZ6dFhRN0xST1hvbnp4UTEtYUhXNA?oc=5"
       }
     ]
   }
