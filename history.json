@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-30 05:38:39",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6941,
-      "EUR": 4.2737,
-      "GBP": 4.9284,
-      "CHF": 4.588,
-      "JPY": 0.024866,
-      "AUD": 2.4064,
-      "CAD": 2.6879,
-      "CNY": 0.5148
-    },
-    "crypto": {
-      "BITCOIN": 436787,
-      "DOGECOIN": 0.831833,
-      "ETHEREUM": 14124.08,
-      "LITECOIN": 403.51,
-      "RIPPLE": 11.63
-    },
-    "indices": {
-      "^WIG20": 2950.95,
-      "^WIG30": 3805.64,
-      "^WIG": 3805.64,
-      "^NCINDEX": 256.84
-    },
-    "news": [
-      {
-        "title": "Nowy sondaż: PiS i KO zamieniają się miejscami - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTV6Y1VDLWNISXA4NVJGeDNrZjk5X1Vra19NdlNFWExSdVktRVRGTXZBMDlmQzBBSFJqLWlDVmxWNm5DNzhqNzNDaWdrT1VIQ3lTY0dMY3VxQV91bE80b3BjbWYyekRvbkZXcGdWVWdpOF9QcG5vUzdndTRXU0EtZnJDaUR5QlRzZTljZ240a05DbFlkNFNNczY4cE1qaGxYckM1ajI0VFA1UWxURHN3OVlLT2Fja1Zt?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek w Egipcie. MSZ: zginęło dwoje Polaków - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmIxZ1FJMEpTbGpURzhZSW0yTHJmNmtwNXgwLTJ1YzZPcTE5NjlPTnlVTGFIWFVZbldlNUpNU1k5Rm1zejFtMGFBVFJzQWNlS212emJ3QktSenFNZ09yZXZ6YXBhUXRxWi0taDhlUEcwdGx3UVNndUJ3YXhocmhPb3o2NkNuNm1DekZsWk93?oc=5"
-      },
-      {
-        "title": "Doradca prezydenta krytykuje Kaczyńskiego. \"Chyba zapomniał\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTVpTlBvcGtHamFya1lhWmhmYWtydTQ2RVFETC1FcDBPSV9GNy1nUGpaWEFVdVlCYVZiUDFGZ2xGT3ljbENFLTJLUkRyTlprZ1Z0T09UU3llb2tPUUhwTUZZS0tKSW0xRGhheDduUnBZVlFpLUV1dlZSS2NZSWFtX0lnU09LSWEyazA0NDFpaGVsVEUzNUhjei1mTUJtSmtydlpuQjBCUG5xbThmMkNsSEVCNDl1Rk1kdEtSYQ?oc=5"
-      },
-      {
-        "title": "Śmigłowiec Bundeswehry spadł do rzeki. Zginęły dwie osoby - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVdxVU1RUHhrV203YklibXNSWFRUVEpOWHFfS3VZbkdQMHdiTEp2eTdlN0NmQ04zdmFwVE9GNTc3d0U1cEdiVEpQRFBBTl9RVGUxVXN4SVg4eEEzMFJzLVFjRVpDVTJqbmJwRko5RTlNUktpZE93UUdYR1pxZmdFZlhaaEtEQ05KWWpQcDVSeWlBUlQ1VWZhNVhEVDVNb3k3Zldhc3BXUDhSYlp1NklJ?oc=5"
-      },
-      {
-        "title": "Nowe ultimatum dla Putina. Trump daje Rosji 10 dni i grozi sankcjami - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQi1uVzM1THlfRThsYVhSMEk0NVpIUGtfVEJhZ01jT3FWMS1TaERCalBJU1RYcXpSd0dwNXBzQlBoLWp1Qkt6YkVwMjBGUFQ4RlJTcG9zeElNLUdiU25QLVg0ZDJKN1I3TWdzZU55TDB5UkZBMjJIZEdFMlk2aUM1cE4yNENrSTduVF85UnVNekYtOEVPSktGYlBzU2N5RVNmYVd6YVE2bm9yX21wSEtfNUFieERvTzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-30 06:37:41",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Żadnego nowego programu nie będzie. Tusk \"więźniem\" budżetu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXZhbENUM1loOHlObDluTGpoTHhHSjhRbHhYMU1PemNoWFZzR0J3dzJBWHA3Zm9kS2hURGQ2ZzVkZEN6RXY4MDM5b2VVUE14UVdFUUkxRGdrRUpmdmVEdGU4ODIyQTBkUVVac3lXZmtCeV9MQl9ITnYwV2dzSTdMa1J0YVg2dHhVVmFickd4NDJKeDJsME5kakhUVGNGR0hs?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01 11:20:47",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.7257,
+      "EUR": 4.2661,
+      "GBP": 4.9362,
+      "CHF": 4.5838,
+      "JPY": 0.024899,
+      "AUD": 2.4058,
+      "CAD": 2.6924,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 431497,
+      "DOGECOIN": 0.769666,
+      "ETHEREUM": 13613.48,
+      "LITECOIN": 391.91,
+      "RIPPLE": 10.97
+    },
+    "indices": {
+      "^WIG20": 2890.12,
+      "^WIG30": 3725.88,
+      "^WIG": 3725.88,
+      "^NCINDEX": 255.53
+    },
+    "news": [
+      {
+        "title": "Zwrot w sprawie Roberta Bąkiewicza. \"Prokurator złożył wniosek o wyłączenie\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObE5HMkt2cENzTU5BSmk2QmxOTmp6NzF6LWR1cmNtU3Q5U09QSDcwV0xsa3JuSFY5YTJjRHhta21SZWpzTmhyNXNPbXRlWE9tYXRQVHhNaHRaWXMydWNJc1VVX25aR0QwdEpFNUgyR0s0ajhmcVFKZ3JxZmJLNjE0NkRnQzh3SkNkNWJacEZnTXh2TDBiTlRMTmI4ZDBpTFBSQjBCdg?oc=5"
+      },
+      {
+        "title": "Żurek wyśmiewa ultimatum Ziobry. \"Traktuję w kategoriach żartu\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3haQmFMcGVHTk1aaHJmOGxnLTV0bzRMaHc2R3Z5SmNUUkhBWWZWRjNLMnBpV29HZHBNMXk0VDJDUWRHTUxIcC05OWdXVFNmRnBybkJiRDNNT0swelFZMHlNalFyMVhTQXV6N1UxMDVLR0tJak52Ym5lbkp3bTVRWWY5TGFReUtQVFE?oc=5"
+      },
+      {
+        "title": "Wracają gwałtowne burze i ulewy. Alarm w 10 województwach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlM1SXF1YUlMWHV3c21tT29DNWYtZTRZQ0ZtQVNocnRCcXhBREdWMGROUzhIaEhaYnZZX3lKWGxHc0d5Y1lTcnlQLThwRjdlZzNxUl9ocUowQXpnWXU1SXE3Q2Nwb1JjeWk2VENxTzgtY2hjYWVBOE94VF9XRDRWY1VPZUNwelNWU1kwR1M2Z0J6WW9BOXpDeG9tYw?oc=5"
+      },
+      {
+        "title": "Wyrok TSUE w sprawie sędziów Sądu Najwyższego. Zapadła decyzja - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3NWU0g5bEl6a01fU29qTVhSUEZUQ1ZfWjFfMlRZRFZUdjdXbUZadXZqQzUtamhURTBuWXh6ZnAtY21xZHRESXIxbFYtb3pFcFhfeUJycWFBSFZ6d1lRVXpPWjVGaU9LZWdwYzNSbmJnZGIwbUhoVDlHRGV2TjVqSF91Qi1HLWlXVXlSZG52WDd4WDRlbEVDSEZhUGRMZEcxT3BB?oc=5"
+      },
+      {
+        "title": "Prezydent Duda do powstańców: Dziękuję za wolną Polskę - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTFFZEFxNC0yYUJidG5sbnpTVy1fbWlieWhOVnRqMDlQRk0ybzN2NVA3OEZpZEo1bnQ0SVBuRzVTUG9OOVNjS3hYVU9IamkyU1dzSzhmMjhESXJzSnVmUlJyMTh1ZGIxWHFpNjRQajRyUWhCcEg4SV9mbW14NG9UMXBISC1xcXp4TnJWX3V6cnlBblZr0gGTAUFVX3lxTFBINE83LWlKMW4yOVJfOVlSNGpvVlAtVWJmSGk1NUxaTC1GZjdwb3pXWGUwMXVscGR2S05FSi14ZUJmWG80aDhXVHFGX2Myem5KTVZ5dU91S0NWVU02ZU44cjFqWTNuR0RtQzZtU3ZEeXo5Mm55YWVYQUpydUh4MmFvTlBYbEctVkNwNmd2RlhPYnBLYw?oc=5"
       }
     ]
   }
