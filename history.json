@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-31 03:15:20",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6981,
-      "EUR": 4.2732,
-      "GBP": 4.943,
-      "CHF": 4.5958,
-      "JPY": 0.024989,
-      "AUD": 2.4039,
-      "CAD": 2.6848,
-      "CNY": 0.5149
-    },
-    "crypto": {
-      "BITCOIN": 442845,
-      "DOGECOIN": 0.829321,
-      "ETHEREUM": 14357.17,
-      "LITECOIN": 414.93,
-      "RIPPLE": 11.68
-    },
-    "indices": {
-      "^WIG20": 2982.18,
-      "^WIG30": 3842.76,
-      "^WIG": 3842.76,
-      "^NCINDEX": 257.95
-    },
-    "news": [
-      {
-        "title": "Jolanta Lange pozbawiona odznaczenia. Prezydent Duda zdecydował - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXlZQ3ctczZQS3E2VGxNVXNwX2VBckNGQ0xBZWhZLUJ6d1FVU19ZeUZPSEtGdjRWTWdFYkpSa0pLamlqbEVpSUdYd2QzSW92SEVpc2xfZ3UxRl93dThkYmF3UVZxWEdpTE9xRnQzSGZlNmxQR01ITWJnNGpZUGEwUEZvZ2d1RFNNcTBLQ0JOdFdRRmlQTERrTQ?oc=5"
-      },
-      {
-        "title": "Wołodymyr Zełenski zatwierdza umowy z USA. Porozumienie ma wzmocnić sojusz - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0dGb2liY19OZjl0YTBnSzE0ZXJUS21KeXlBQUVhZ0g1Yzg0U0NtQnpnMUVmeS1lQXNTRFhJV0FwY0psRGlwY0plM3FhQmVEN3J0NExsZFdCeGMxUFhManFXa0s2TTd0bGloc2diU0hDTllHR2Q4M1FNUnlDVlZReUEwajRCbVRJZEpmZ0pERzZoNXdQVkNvVmJnbDBOb2VFRko0anlTZ1RRQlB4UlFLWFYyWm1yTnJNc3oyM0lBZXd4WFQwZFoxRnM5aDdkdw?oc=5"
-      },
-      {
-        "title": "Anita Werner relacjonuje z Hawajów.\"Jesteśmy bezpieczni podczas tsunami\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjVUTlhxR3JQYVZmdzlZd1dMNHYzYzM4aUNWeGU1M2NmV05JbnFkR2hqd2JfWkNmNGJhWGdmMGsyYUhzRWF6U1ZFUDRacFFGQTYwX0NkZWlOeU5SUmYtY3BvUS1jVmdsS0JkWUUweks0LTNjMkdPTFVCaDNSTEtQekp5U1doeE96eEcxSXp2T0NhVHJDOU1ZQWk0TUp5NkhvSmpWSUw3MDZWa3pDcndfeHYwNWQ0WkNoWUE3MDFDb3hlbm1DQl9UVGt3?oc=5"
-      },
-      {
-        "title": "Duda uderza w Tuska. Mocne słowa na wizji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVZvYXZMN3FvbXZ2M0I4MjFTamRZUTZGeGRnaGJvbURxV0U4OE5pWjJndmtmLWZSRnBLckV6R3VFN3NNeE1IRWN4bWNTSThCckltWllrYW9Gb1BkTDhCSVpUOS1KZGRFRkY2a0pmZzdrUlRuU20tU2hXZlIxcThxbEkyQ3dGQ2V2ellJ?oc=5"
-      },
-      {
-        "title": "MEN reaguje po burzy wokół kanonu lektur. Stanowcze zaprzeczenie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2FHaWNzcTZJelFwa1pKMmRfLURSeGdyc3E0aVotUUZWRlQxZVpMdWVucF9KREhVYWlWdGJHRHF1Z1hfYzF1dVVWUjk3WG5wWUt1c3RkYm03MjhsbW5JM0I0WEUyZFZwdU9rQ3k0T01FZDhRTTFVcl93aTlyTDljcFlRVzFyQTgyQVpsX1g0b0JudFMtZXFjd29QRFZBVGM3aVQ3NjgtT1NuQVpCRjduMDV2MjlKMm12d3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-31 05:28:15",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "IMGW alarmuje. Oto, co będzie się działo 1 i 2 sierpnia - o2.pl",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVcxVEptU3FoZ3JZWnlmck1zMmNLbFJISXZhOXBXRVRmSk5jRm5VMGVIWV84LUQ0Um0xTkZ5Tkx6bFJzaGlGY2NJUVVWbjBtZ0hCRVVIUmZqNkN2WnpEWlVldExRLUJ5QUl0YlI2ZDNRM0I0bFdlLWNmd1BiUmVHOHJ0NF9McGRnNUp6U3VqOFo2NjBqd2l5ZFdFWWU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-02 10:18:11",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 419971,
+      "DOGECOIN": 0.738268,
+      "ETHEREUM": 12965.37,
+      "LITECOIN": 398.23,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Most Krymski zamknięty na kilka godzin po serii eksplozji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEI2YU9DdWtPZkgyM3c3RmFwTm1HVTFSN3c4WXRUUWxxWnYxTFZWZFFwM2RoakR2MnRkakt6SUVEQjRTNk9oSGREWWJNSFRCaUpOSENoQmdOcXM3T0hQdHFJd0F6Wm1WUm5nbjgxNDVlTl95RTdydlQ3ZW1Xbjd6Zm10c0Z0WGtuSktuamN4amhmSVhMWVdrM2NXaEVBUE5VU3hZaVJGTTMyZw?oc=5"
+      },
+      {
+        "title": "Uroczystości na warszawskiej Woli. \"To było arcypolskie powstanie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0lJdG9vRXB0LVg0WFk2QTdXV2o5ekZEbU5OZHZuV2stdUt2WERtMlRhb2tJZmFuUTFYWmp4WFVRMXFsN1g0UVFjSmEzVTBjb012MmVBRVk5dFh2TkdNNUh1alF1ZnhIVFZITkJrTllXQ1VuU29lSlFwcDBPT3hqRUJJN3BnRk5rdy1wRFNaRHotbDBlUVJqYm9XN0hmejdNbmlKR1dHSmV6QjE1SVNndGMwM0xuTnM0SVd1X2ZyNzBpNXRrNWpGaw?oc=5"
+      },
+      {
+        "title": "Koncert TVP dla powstańców. Tłumaczka języka migowego ponownie zachwyca - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlA5TGxiaE1jQzkzUFVKeGpzbnZJSjVDdVBDdU43NU1QVTJkMXk1TGlyOTh3U2N6akhTU0htTWRRbGYtaUhPR3BmMWVibFJ6ci1pbFI0al9VSV9wdG9OVnh3SDVqcDlST3FGb2xzNUIxWVNUMXJSNE03V3J4OGo2UU0tbGkzNE1iOXkybjBGY3RNeThyV2pwRWV6LTFNN1YxN1cyeVlBN0lTSkNpaVZNY2M0WWtuZjJ3MDYwOHYxc0QxTmI4?oc=5"
+      },
+      {
+        "title": "Oszacowali szansę na upały. \"Myśleliśmy, że będzie tak zawsze\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2tVVVdldUY2WDZMc3JRZkwzbDV3aWVqenFZbTBjLU5hVGpwTndFS3NnNUVoc1YxRlFnalIzVGJPUWNQNmhmNTNtX2UzOHB3SVVKczRCU1pZazNrd0pGa3FIek9fMDY3RzFiUTBoZjdtcUNrb3ViZU8tejctaWduM1FmdDhYSlA5Y1FfbkI1Wjcxc0hCc2gteEFuekU0YWt5N3lSRy1mblR0SGFwektzT3hfTG9hOGpIc1FUdmVR?oc=5"
+      },
+      {
+        "title": "Szef gabinetu prezydenta: najgrzeczniejszym z aniołków to prezes Kaczyński nie jest - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGFrakgtdjZ6YWhRZ1lCY0lUa1I5bmk3TGxlOTMzY2xVM3pycEZtNEduLWhqaEYxV3p0RDlKR3RJT1U1UDJGS3VaN1dfcnlXYzJzaHBsekhKNVJZVVg2WlpVNkJNdHV5NlpvWGlhTkVQSUtUb29TM2hCbks5YTFhVUxxREFoVE45dW1WX3h6OWdMam9uZnl0T203NWw1cy1TckNaRF8tVTZZS2FVaG1jU0E1X0VubF9JSmM2TjUxVQ?oc=5"
       }
     ]
   }
