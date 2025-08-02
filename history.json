@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-30 20:21:18",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6981,
-      "EUR": 4.2732,
-      "GBP": 4.943,
-      "CHF": 4.5958,
-      "JPY": 0.024989,
-      "AUD": 2.4039,
-      "CAD": 2.6848,
-      "CNY": 0.5149
-    },
-    "crypto": {
-      "BITCOIN": 437566,
-      "DOGECOIN": 0.825963,
-      "ETHEREUM": 14152.08,
-      "LITECOIN": 409.17,
-      "RIPPLE": 11.62
-    },
-    "indices": {
-      "^WIG20": 2982.18,
-      "^WIG30": 3842.76,
-      "^WIG": 3842.76,
-      "^NCINDEX": 257.95
-    },
-    "news": [
-      {
-        "title": "Donald Tusk reaguje na burzę wokół Szymona Hołowni. \"Zadałem mu to pytanie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUR2a3p4ZEd1enBSM0pSR041V2xySDVyN2dlRGkzRE1UaEpfVzRsLWlNeG1MSFNMX0pRYks1RnMzQ0VjN2dacUlnLTMxSG40OTQ5TUlpaEc0dlNxYmJQbGNYR1VZU3VSalRIVGphUG9pVVlYdnYxVW9lS2hmSnhUTVpnN096RlR0akJYYU1uamU5a3hBY2dnT3VGTkFfTE5jYlFrVUEtOGJTb1J3U2E0dnJRNWR0WXFHaEJkdEdUYVU3bElRdlRoYlJEaVNnTGJG?oc=5"
-      },
-      {
-        "title": "Szok w PiS po brutalnej odpowiedzi Mentzena. Były poseł Konfederacji mówi, czy koalicja z Kaczyńskim jest możliwa - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQME1UUDFLSE1kRk5RV2p0SXNYZnJKeEZhMElfcnFpM1NpRENsaUpmMVZJTnZLa1pKM0J5TDRYOTZISHg4ZGh3YnJWT0JKcDh2aGxSS1NDLS1IRHE4eVV5YzkwTHEwaWZKN0FCWF96enR0c3VtRGtUczRaZmJIYkhfOWd6aEs3bkJFNHU4dDlac0NiaWdaR2NvUnpkbnpFaEYzV3BuRQ?oc=5"
-      },
-      {
-        "title": "Żurek zawiesił żonę Święczkowskiego. \"Przejaw zemsty\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHdiRTRwbmNiSnYzOU15NXl2YWRaQXpvWVpQRjJ4SGswTFg3WVB3S1l5QjlnM0NSa0l6bmtlWXFPQVE1MXJzNDBkOFFtNFRrOEN5N2NmYmtXRWw0SGRBbWt2U1llX3VuTTZJVmM4Y3lXTDFBMmRqODZFMFh0dTYxVm1telM0YUhtWDl0SDhyM1ZYT3hLYzJ4QQ?oc=5"
-      },
-      {
-        "title": "Jolanta Lange pozbawiona odznaczenia. Prezydent Duda zdecydował - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXlZQ3ctczZQS3E2VGxNVXNwX2VBckNGQ0xBZWhZLUJ6d1FVU19ZeUZPSEtGdjRWTWdFYkpSa0pLamlqbEVpSUdYd2QzSW92SEVpc2xfZ3UxRl93dThkYmF3UVZxWEdpTE9xRnQzSGZlNmxQR01ITWJnNGpZUGEwUEZvZ2d1RFNNcTBLQ0JOdFdRRmlQTERrTQ?oc=5"
-      },
-      {
-        "title": "\"Wszyscy jesteśmy celem\". Dramatyczna relacja ze Strefy Gazy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1Brdlplc1huc0JtbFJ0blBXX1ZuNmdWVzdVNXdpdVhrbzhTNHp6Wk4wbUpiVkt2TWlydnpLbWJiODhYbkw1UEI0eWJDc2FIMEhxczIwYW9PRkN4UklCX1RrLXpTR3Z2RTNaclptOEVyZFZzeXptVnd0blRMaGtYbUNQVzJzY2JGRlNQNGo2dDBEVUpqNVRWU3Mza1M0YkxNSFFDQTVTQ1h6cUFEanl0anItYXE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-30 21:14:53",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Indyjskie rafinerie wstrzymują zakupy rosyjskiej ropy. Presja działa - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaEpQYmZOWVFBN0k2WXVqNl9DYWxzVTRpYmx1NWZuRnlramduWVVFX1dYWFlURy0xbFVNQVJtb1pwRTF5R2tRQy1aa0Z5cEl6YVZ1dnNSWGtGelhfcXNZRC1ESXNCakdvVVJjSWtVNGNyOV9xOVVCNkY3emw5N08yaDBlbU1wZWpOT0Q3V2FrdFBrejRSSVpMeGhqcnJ2WnVsQzNOeFZwM0dvLUU5MWozRUtYcWpOeE5fUXJxMVQtVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-02 03:12:10",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 419437,
+      "DOGECOIN": 0.746382,
+      "ETHEREUM": 12948.86,
+      "LITECOIN": 395.09,
+      "RIPPLE": 10.98
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Uroczystości na warszawskiej Woli. \"To było arcypolskie powstanie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0lJdG9vRXB0LVg0WFk2QTdXV2o5ekZEbU5OZHZuV2stdUt2WERtMlRhb2tJZmFuUTFYWmp4WFVRMXFsN1g0UVFjSmEzVTBjb012MmVBRVk5dFh2TkdNNUh1alF1ZnhIVFZITkJrTllXQ1VuU29lSlFwcDBPT3hqRUJJN3BnRk5rdy1wRFNaRHotbDBlUVJqYm9XN0hmejdNbmlKR1dHSmV6QjE1SVNndGMwM0xuTnM0SVd1X2ZyNzBpNXRrNWpGaw?oc=5"
+      },
+      {
+        "title": "Trump wysyła okręty atomowe w odpowiedzi na groźby Rosji - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLS1LLS1fNEQxcUdJNTQ5RnRGOFJ6emUyalR1ZGt4dnVMVkFuWlhwclZ3bndjU0l3WHBTaU0tRHZqYXJWWmZEeHpycV9JM2plbnYwemVtMm5UVnhNeWNZNFgtZnZadWtHckVsVzB6eEp2UFZiV2ZZS0hKZXBod2x5MlZDZExzaWtkVWRWU3NFVUt2Mnc?oc=5"
+      },
+      {
+        "title": "Waldemar Żurek reformuje wymiar sprawiedliwości. RPO zabiera głos - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjVicXJ5bS1RdjJ2LUo2Qk5GbkxYd09ka0ppMnFfTkwyaUY5V21NbFctUl9jcXY2ZnFKTXh2M1JaVEVOUmNHQUcwRjA3OEZIN2FRd1BoUE1qQXJxN3ctLWtNa1Z0N3h1bW9DeDBUeS1CaEtVUjdZdldFNVRMcnQ3TDF5UDhzY2x2bkZTejdHTlNQUGZxUGJBek5IUU5CTWc3MFdkb1JiVQ?oc=5"
+      },
+      {
+        "title": "Wał przerwany, powódź na Żuławach. Wody Polskie winę zrzucają na bobry, rolnicy na Wody Polskie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkt1b3dNMU9KREVfQnFzZDNNRlJUQU1xVmVrb1NhTXk4ZFBRal9WV0x3MDJINUV5X0E1eExMODZXYWs5NnNWbVhrb18tamRhMFQwYmJNMTFEVTRjMVpKMkp4SU9YOWgxM2wxVmNkcGVqenFSVzlkN1ViUnl5RHktcUFSTWZlS2laTXhTb0FFYXQ2d08tamtoSlJxSjhQNXNiWXFGcTAxY2FUZzI3VkhiV28wNFE1SGFkd1RpRnBfdm4xU3JmbmZlaGxsV1ExeU0?oc=5"
+      },
+      {
+        "title": "Niepokojące prognozy na Pol’and’Rock Festival 2025. Namioty pod wodą? - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0RqRkJiZFRpYUo4cldLaXM5cFJZazE0MTVRT2daSHNpQ2RSdW1xSXJuVW82WGZyN21IOUdLdERvOTFHTHMyNWZfNGtlUUhVdEIxb3R5Q2Z1STUzd0JFSVFHaGV1SThEcmRKVG54ZFpuZW85OVZkdzhZUGpHLVlPc0RuNUNfeEo4V21pcEZaTXVQNVpVMFhfNmJhNGtpdi13OVV5RzRNbko4TW9IUkh2a1E4dWI?oc=5"
       }
     ]
   }
