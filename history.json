@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-30 21:14:53",
-    "weather": {
-      "Warsaw": "Warsaw: +24°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6981,
-      "EUR": 4.2732,
-      "GBP": 4.943,
-      "CHF": 4.5958,
-      "JPY": 0.024989,
-      "AUD": 2.4039,
-      "CAD": 2.6848,
-      "CNY": 0.5149
-    },
-    "crypto": {
-      "BITCOIN": 434038,
-      "DOGECOIN": 0.789336,
-      "ETHEREUM": 13797.04,
-      "LITECOIN": 396.47,
-      "RIPPLE": 11.29
-    },
-    "indices": {
-      "^WIG20": 2982.18,
-      "^WIG30": 3842.76,
-      "^WIG": 3842.76,
-      "^NCINDEX": 257.95
-    },
-    "news": [
-      {
-        "title": "Kwota wolna od podatku w górę? Donald Tusk zabrał głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnZfYnQxekF6a2dzbFJKUE5jZDFHOXg2bXdUV2xkd1VDNWc1NjBJUUJOR2gzb3N5TVp5eE1ZUUNsWXlEcnY4aWYyWTlmcmlBdklGUmp0TGhqcFE3NHBNb1d1U3VuT3pJSllVcUdfTExadHF1SEhEM3ZQWEFHZVZOTEdIOVItWDNINXBJVFVsSzFsTXl4TG5xWA?oc=5"
-      },
-      {
-        "title": "Będzie zmiana premiera? Komorowski jasno, mówi o \"powodach emocjonalnych\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRk9WaGN4ZWk2ekktMTFkeGlBNjY2TlNOMkpwSDhBMmZlRGJfQWlsNXU3ZE5JdnlxNklSZFZma2l3YlBFc2NkaGhubVdVVno3aWZyeGNKM1BDU1FEYVJ3a0RHNFFpLWNaZTZ1d3lGLTZnYXNiV0VfV1ZyLWdmcHFWMWxEVmhXOE9YTnlRbGY5UVJ4Qm9VTktGdlRWRVViSjBybkd1all5MXVZaTdSYnRGSEl1aw?oc=5"
-      },
-      {
-        "title": "Czarnek nie wytrzymał. Mocne słowa pod adresem Mentzena - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUpQekNfa0dFOXVwclBvU3VkMm9mazBSU01zZlF0MjJIczkxaWhDODhOTUp0dzFDZXBfZnpkLUFmM2xnNGxyWm5PaXNwRHBQcGxCa2t2ckd1ckNIUmRvZDlhNEFFX1lKQ09oSHdkaHltd2JmeThTazRsSFZ1RVJWZnBEaTluekozckZfc1NyN0VfeFlYZm4xVUQ5aHE4X3duUFRieXczNW9MUQ?oc=5"
-      },
-      {
-        "title": "Duda odebrał odznaczenie Jolancie Lange - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1BHdmgzdjhXLV8teldaQ1NhMmE0cjEzLU40dXFmUlM0ZzFRekNiZUQ3aXN6b1JUUlJrbjAtYU1lZWplUUlKTGtQVzNLWXM3S28tV2tFeThIVHdYejYxTDRtUjdBNXF3YlZfcktFRUZtdEhpU29nTWRhVmktSTBNcTJZQ0sxTlUyR3c?oc=5"
-      },
-      {
-        "title": "Byli na wycieczkach w Egipcie. Jechali takim busem. \"Nigdy więcej. Miałam śmierć w oczach\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlUwUm9GdzM2MmEzSGZLMXZkZmIyZkVva3FURUllMmxKNVExV1hrV19zTXJ6cVY4VHUxREFvdjZfOVVuMHh3eVAzZmZ6Z0cyaEZua0dXa1J0SFI1eXlwSC1qTE0tNXBaMF9xVkQtRzcwYm91RjdKNHRLSElWOEpHVEYyc0pZZnNVMTAwTWNCMFNTdWx5bjBWaUx5ZUlLQU03S3hndXhzWW9QZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-30 22:15:22",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Niepokojące prognozy na Pol’and’Rock Festival 2025. Namioty pod wodą? - Fakt",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0RqRkJiZFRpYUo4cldLaXM5cFJZazE0MTVRT2daSHNpQ2RSdW1xSXJuVW82WGZyN21IOUdLdERvOTFHTHMyNWZfNGtlUUhVdEIxb3R5Q2Z1STUzd0JFSVFHaGV1SThEcmRKVG54ZFpuZW85OVZkdzhZUGpHLVlPc0RuNUNfeEo4V21pcEZaTXVQNVpVMFhfNmJhNGtpdi13OVV5RzRNbko4TW9IUkh2a1E4dWI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-02 05:21:31",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 419521,
+      "DOGECOIN": 0.745229,
+      "ETHEREUM": 13001.34,
+      "LITECOIN": 396.91,
+      "RIPPLE": 10.98
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Uroczystości na warszawskiej Woli. \"To było arcypolskie powstanie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0lJdG9vRXB0LVg0WFk2QTdXV2o5ekZEbU5OZHZuV2stdUt2WERtMlRhb2tJZmFuUTFYWmp4WFVRMXFsN1g0UVFjSmEzVTBjb012MmVBRVk5dFh2TkdNNUh1alF1ZnhIVFZITkJrTllXQ1VuU29lSlFwcDBPT3hqRUJJN3BnRk5rdy1wRFNaRHotbDBlUVJqYm9XN0hmejdNbmlKR1dHSmV6QjE1SVNndGMwM0xuTnM0SVd1X2ZyNzBpNXRrNWpGaw?oc=5"
+      },
+      {
+        "title": "Trump wysyła okręty atomowe w odpowiedzi na groźby Rosji - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLS1LLS1fNEQxcUdJNTQ5RnRGOFJ6emUyalR1ZGt4dnVMVkFuWlhwclZ3bndjU0l3WHBTaU0tRHZqYXJWWmZEeHpycV9JM2plbnYwemVtMm5UVnhNeWNZNFgtZnZadWtHckVsVzB6eEp2UFZiV2ZZS0hKZXBod2x5MlZDZExzaWtkVWRWU3NFVUt2Mnc?oc=5"
+      },
+      {
+        "title": "Podsumowanie ceł Trumpa. Szwajcaria uderzona mocno, Unia w tym Polska potraktowana ulgowo [MAPA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTjZPMm5zZ1VWSUlSQ3lGU1J0YmVFUnBpUTB1RmctcEswSjRFSjg3RmxCMUFxYUVUdC1vdXFFUURYeUZMTHhWcFM3UE1SdHhRQkZVUkNKQnhCQkpqUXJfc0hRRFV0eTdNeVoyMjd1NXBjRHBIWDI2bXljS3RKMTRPd19ucHR3XzlwUVR2M293SHhNRDM1TkxjVmxjenJxYk4tZjRFOG52SS1zaU1EbVBzblQxblRrYml2Y2lvb0ZVcUlHRFhBMzdFX0N3?oc=5"
+      },
+      {
+        "title": "Waldemar Żurek reformuje wymiar sprawiedliwości. RPO zabiera głos - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjVicXJ5bS1RdjJ2LUo2Qk5GbkxYd09ka0ppMnFfTkwyaUY5V21NbFctUl9jcXY2ZnFKTXh2M1JaVEVOUmNHQUcwRjA3OEZIN2FRd1BoUE1qQXJxN3ctLWtNa1Z0N3h1bW9DeDBUeS1CaEtVUjdZdldFNVRMcnQ3TDF5UDhzY2x2bkZTejdHTlNQUGZxUGJBek5IUU5CTWc3MFdkb1JiVQ?oc=5"
+      },
+      {
+        "title": "Wypadek z udziałem radiowozu. Cztery osoby trafiły do szpitala - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTU5TZUJWVmk2ZW5hSWxLX3g2R2diLWV6YmxtUEF0VHhyRExWallDeVhzNXJvcFR4eTNSejk3b01lMmtSZHlYOUc3aW1rVTQwTUM3XzU0MzllenlfRXpLQmY2Rk9kQ1MtbzZNVXRHaElJQnh6MnpDd3VkSXNEVklDbDU3cGZtb0l0c3pyUUNSTGtqTjhkRG9DdG8zakdkNXZqZDF2ZWRtb091SWE2UlE?oc=5"
       }
     ]
   }
