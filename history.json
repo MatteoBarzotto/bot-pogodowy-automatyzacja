@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-07-31 10:21:16",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
-    },
-    "rates": {
-      "USD": 3.6981,
-      "EUR": 4.2732,
-      "GBP": 4.943,
-      "CHF": 4.5958,
-      "JPY": 0.024989,
-      "AUD": 2.4039,
-      "CAD": 2.6848,
-      "CNY": 0.5149
-    },
-    "crypto": {
-      "BITCOIN": 442078,
-      "DOGECOIN": 0.833706,
-      "ETHEREUM": 14401.19,
-      "LITECOIN": 412.69,
-      "RIPPLE": 11.76
-    },
-    "indices": {
-      "^WIG20": 2962.96,
-      "^WIG30": 3818.27,
-      "^WIG": 3818.27,
-      "^NCINDEX": 257.72
-    },
-    "news": [
-      {
-        "title": "Afera melioracyjna. Jest surowy wyrok dla Stanisława Gawłowskiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGJWOF9VcHRhR3hveE9ua3dHZUxweEZuSjR0YWVjRGZpeDQxUGF5RFQxbXoteTlBX1dONkF3Z09PTkdCNlhhemNtWlV1UVFrNnlUNUN5Qk1MbHdLV202M3NMM1VGS3k3U2N1ejVvcHU4dklPZFY2TjZ4WlN1UHBfczJhNUxzanV3OVhFUkxVNmoxbWdvMGpPNXAycV9JNnRDRlNHYVZhMklydFct?oc=5"
-      },
-      {
-        "title": "Ciotka Jacka Jaworka stanie przed sądem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNajcwdlpEQUU5cm5BWVJoWVpLQ3BLYi1jeHFOS3JUeUpnY0EwUnE2NUlWdVFkT2VaazB0U1MwcWdnZE9vZDBqS2pfLUtSZEY4eXlTQUR4dmNXQksxMWtFVXZYNVV4VnJsa3ZoTjlDODh5dnJ4dkdkVVRnUjRLUE9DVDFRZS1ibTJuQlE?oc=5"
-      },
-      {
-        "title": "Dramatyczne sceny w Sosnowcu. Ruszył na policjantów z maczetą, padły strzały - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVhQdl9HTnN3UnhPczB4akctSkpIbHVpMDh6ejJzeHByY214UjRkblBiX281aGZCRnpucF9uVE1xM1A1aGFudnFXZm1uYk1jSnlTTlJNMHd5TTlyWlI4MGpVXzhqbWRKRUtJNzUyckozVjJaZTh5S2NrZ05EcDRnZ2FVaDZLbmZxaFR3V1E2TmhoUEx1TDRxd1FNc0lHWTJHVGp6WmVFbF9naUNPbExEZ0xmUHptSWs?oc=5"
-      },
-      {
-        "title": "Dramatyczny bilans ataków na Kijów. Są zabici i ranni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbU83NzJkYWRVM3pZNXlCcEkxOHhuN1FJT0pVN3NTNHQ5cWRMY0JTdjBwR1pkbWtPRTB5WjJqcEphRFdfQ2RfZ3hvc3VvblFaOENJWk5kN0N1NDdZaDBsdzBnaEtVRzB0aXdUUkZPQ05SX1dhV0gwTzVRVTE1Q2tfa2V5eVRxTzNyUVc1TWVvdXFWYnFRVWF3Mw?oc=5"
-      },
-      {
-        "title": "Ogromna transakcja. Polska będzie miała więcej czołgów niż Niemcy, Francja czy Włochy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaU93RHMzUVppWGg4TVVtc0ZTa3I0YzZiSFRncExFcGRDdUNIRmwtZ0pEbTBTM1BsWnJiWENzR0hyMVNaempjaWZpUE9LbU1XbnR6N292aE8tTUVHNTNCMW1nSVp1SWpNbWJYY3B0SXk3S1JqRTZ5dUtCaHNaWWU5b05MZWs2UTRkMVVobUxDVkZfYUsyWFo5Z0N6dGpOSm1aM0hZRngzc1o3RG5RazVZVTdWdUxqVW1EaDFIb2VuU3pwTFBCMGF4UThIakFjS05UNkVGWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-07-31 11:21:03",
     "weather": {
       "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zwrot w sprawie Pawła Rubcowa. Przełomowa decyzja sądu - Onet",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzNNWlFpZWxLaUkzbHVienNYY3NpU21za0pONDNLdEw3V3g4Z3VEMDdqX1R6TnM0bXhNSU1oSFhOenRmb3R0UEZocFkwSkFPM1M2aWVMR29LSjRPMVpET21TbHpYd0dhcGk1MWxUZHN2Nm9BVjJ5YUhJQTZPdXlFZ3RYNWNfQVpOZWhuS0p5SlFOS1haY2hIdjd4UE9LLWdIb3dqa3huYzFsTVNMRTBiakQxMWRTcUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-02 16:13:20",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 418120,
+      "DOGECOIN": 0.733176,
+      "ETHEREUM": 12936.69,
+      "LITECOIN": 402.21,
+      "RIPPLE": 10.8
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Polska – Brazylia [NA ŻYWO]. Śledź półfinał Ligi Narodów siatkarzy! - sport.tvp.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWhxWkowT2pEalk0NXZiQk82TnNiZzB4RVp5VElkZmJVa01Pak1YYnBHNjUzcjFKVEp1WDNtUVJNYWs2UkkwUml5bjFjT1hjUVhlTXdTNlNOTEFTRDFVSEp4TzI0QXZ1TDZ2TGhtMWpDbFlGOEpZZUdQSkxKaGluWHdIU3EyLWtlYmV5UnNjUEVTcVBLZWg5a3VSRXR0VDFGTDZUWUFLV2JYbUQyaWpaQk1QQk5TRHFFYlN3?oc=5"
+      },
+      {
+        "title": "Nadciągają burze z ulewami. IMGW wydało ostrzeżenia - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFRISWdHcU9qNFd2b3VFdkxub3Y4WmxfaFpYSmljdE5oSVBJWDJqaFNjQldKNkp2LXFMTmpTUV9GX0pIYWlCdVo4TUFPS1NSYXF6V0IzNFlVbU1jaWtTMTRQaVJ4eFdwRFc4RWpGZTdhcUo1dVoxakVNSlNQd0dVXzJuNE84M1B1?oc=5"
+      },
+      {
+        "title": "Kierwiński chce wyjaśnień po zatrzymaniu policjantów. \"Nie mogę zrozumieć\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhJaVc4QldpaUtjeVRoLWtqWE9mX2w5ZE5GRHZ2MG5lRzAwMWxUVk1uVXZhRkgzQW9QSThFQXd2SDlOd3A0ZVBEMnJaTUVKR09LRmF6VTZJVlR2X3FNRFhnZWIyYUU5bzZKaTZlQmV2NlFuVFlIRklKQnZUaHdCTUxPb2sxT2hlQURyazd4V1dWeHhkb0hFd3hybXR2VmJNME12WU1UaUtrSVJ4cGdfcDF4cw?oc=5"
+      },
+      {
+        "title": "Znamy termin posiedzenia Trybunału Stanu. Chodzi o immunitet Małgorzaty Manowskiej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVZDbzRReEgtSWJueFlMSkFmMVhldGV5bkJPNjQ1SmtUWDlwN0RqSE0zODVmM0o3bnZKaEpENHkzTUJYS0haZWdxVWx1ekhpcmk3M3NDMlZIVTVVU0txNkEyaFVFRXUzU0xVUEFaak1QZlRQSXBiSWtjajJ6bWREWUtLV3Ewc0RyYXphVjJsM3ZWODZ6d0tBWFZKMDd1Mmc2WWpOOTdfTU9YazVRT0hzNkVNaDR0YWt3aXRQWDBGMTh6ek9u?oc=5"
+      },
+      {
+        "title": "Czy Donald Tusk powinien odejść ze stanowiska? Polacy odpowiedzieli w sondażu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yOFZnbEs0S0tPZmN0UVJUd3UwSjFfTlZrbmNpQWI4TlpJbU1wX0RXV09WdzFuUzc3RWxsRTNtWFJMZHRJMndmUXgycmNzekpzb3pTa1lHVHlQUElzX3dfZVZJNlBaRExvV05tVC1FUUJMVW1kYmpIRFlxX2puVWhzWm1oZGw4WmF5aFN2LXRJT3djX2kya1VRU3piRDJqRWJBTl9LX1ZPdGJOVXY2SHg1cFZ2UDg?oc=5"
       }
     ]
   }
