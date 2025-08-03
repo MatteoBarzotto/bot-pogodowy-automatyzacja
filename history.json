@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-01 19:16:52",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 425107,
-      "DOGECOIN": 0.764109,
-      "ETHEREUM": 13263.18,
-      "LITECOIN": 389.34,
-      "RIPPLE": 11.14
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Uroczystości na warszawskiej Woli. \"To było arcypolskie powstanie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0lJdG9vRXB0LVg0WFk2QTdXV2o5ekZEbU5OZHZuV2stdUt2WERtMlRhb2tJZmFuUTFYWmp4WFVRMXFsN1g0UVFjSmEzVTBjb012MmVBRVk5dFh2TkdNNUh1alF1ZnhIVFZITkJrTllXQ1VuU29lSlFwcDBPT3hqRUJJN3BnRk5rdy1wRFNaRHotbDBlUVJqYm9XN0hmejdNbmlKR1dHSmV6QjE1SVNndGMwM0xuTnM0SVd1X2ZyNzBpNXRrNWpGaw?oc=5"
-      },
-      {
-        "title": "Nadciągają burze z silnym deszczem. Jest najnowsza prognoza pogody - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWlIejRJQnBjVVplamtfYUc1SnhhY2dSamx0el9pS1g5TGN5SHU4YkxIbXJ5SHlZWkxqSkNFMk8xWERSaDA1eXNFS0g1WjM0ZFowMmRtcXRERlBnSmExcG5CSGtlTnZwUDU5S1pJeVJCYUs1a2x5RFFKNENBRXMtcWVqM2RpaFpBbHRxQmxFOVE5VzRaNXJqMGRTTUpvUjIzR1ZmamtsZlVYdVpk?oc=5"
-      },
-      {
-        "title": "Czarne Pantery z Gliwic idą do wojska. K2PL podpisany - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGlYaWo0UlJHQ09keERZcnlndFZsUkE4eE1hTmdwYi1TRWZDajRLWkhSajdWRi00VU5fVFBhX1o4ZG5PT25lS0tRZjBoMkxWd3hTU2ctbnF6Zm9zQmV5UHE3c3JabnMtNUpscHFVbzV4OWhEQ1RrV0VoVVdtR2RYeEpyTTB1Wm5VeXZSbUo5MA?oc=5"
-      },
-      {
-        "title": "Znana sędzia zatrzymana przez policję. W tle narkotyki - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWU3VVZUV2VveTF5Z2IzTGFrQ000eS1Dc0RPMWlnUlh2TWFpUFladXhZQjRQTzQ3NUI0RHlzdXRmNE1zY29TNnBQX1Nwa0UyWTd2akdTeDVCTV9PNzFWMUtjeUpXYzVDR05meERjdU0ybGptYlN4UE5pbmRjaHRvTUJZcHN1MnJBbWFseHZpOFB0b1o4XzFCeFZrdENtU2ZqY1lmWXpjc3NLYlBy0gGwAUFVX3lxTE9RQzQxSjVKeFdwaDhQQnJpSWw5bkR1ejZTYktEcVhjNTBGSWl3NUU4MVNoUGxKYmtQYWVQSi0yQnhXdWFNREdRTm45X1E1bzFjSTIxVXFuVU5leHhFNVZWWWNrN09EcXY2ZkdKOXlzdXN4Wk4zanNBZXlDek9zMXNfbVNVbkpxVUVnQnBHZEE0WWdpLTd1LVlxbFYwRkhIMTVmMUVNMFllT1F2Z1BNZ1Bt?oc=5"
-      },
-      {
-        "title": "Zmasowany rosyjski atak na Kijów. Rośnie tragiczny bilans ofiar, ogłoszono żałobę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHlGLWZlZndra2hxcnY0a1Y2WnFIRFd6UkRfbl94T3ZvdVNDUmw4dEU3QXBRWDJKUGh6VU41YUwyWXFDTXJBWXVqamNVX0VpbEpHQ29ZbDl4ZFFUcGJsXzVQeUMzYzNMNjI3aTNpS3JWTjJQaVNvRUxvUjJCTl9KMkVlY010RXdUMEZ1WFBHMy05S3lUczB5dDJvU1d4UmVjenZnY1laekN3TzNTR0lncThwSHlTQ0pUMTZuZVN0R0otWk5TYy11ZDdfamlETmgzRU9SWTFn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-01 20:21:07",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Pierwsze problemy Żurka. Zawiadomienie o podejrzeniu popełnienia przestępstwa - Fakt",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWJsbTEyaWNoX0EyTTRsVU5GX1NZX2wtVjF6ZlBDci1MSHZBb0NrdC1NMWVlOEVZSm1oMWZMdGxYdG0yaUFLUjhrYWw4WTJNZ2VWZWw5NV96TFlUNXpRdUpqZTBFNlp6eW14Q05IZVJ1Zk1kQXZxaWE1NTczUVNaYkN1eTZtN0dGUTJ3bFVyYXlYajg0ekwyU3Jpcw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-04 01:14:31",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 421480,
+      "DOGECOIN": 0.735645,
+      "ETHEREUM": 12934.73,
+      "LITECOIN": 408.46,
+      "RIPPLE": 10.9
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Wypadek helikoptera niedaleko Radomia. Na miejscu pracują służby, są ranni - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFpYMTdmTzZHQ2p4djk5YVg2bnFvSjk1WlNCNTFLdWdNUS1sWV9WWlp4bERTUzR3a041NUtvYnl0SFdPdzNuaEhFZW1ObkRWNWtNR2oxVEVISWhhdERQTkphaVc2cl9RQlVmaDgwcFc0ckg3RWM3cC1fYlI1aVI0N2xYX2w3azhoUWNBamFjcW5oNGktMC03QTNXU2QtM0pPS0wzWUNpcklFQ0JnY1E?oc=5"
+      },
+      {
+        "title": "Burze, deszcze, mgły, upał, wiatr i grad. Alerty RCB i ostrzeżenia IMGW - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVl3eHdNS1FNZkVLQ1hKUDJkYnA1dEFwMC11VFc4TFhzTTQ4VU9NeEZPMnoyWGQ0U2d0TlplTE1qN0tyNXQ1LXV2djJfQm5PeGFmcktRYWh6M3E0dF9mQ0ZjckhLbEhRREpud29QeG5KOVRvd2htWXlZMDJiM3A1TUptSDZaNVBwdERHdjZDenNuRFd4dVpzODdjdy11RHl1WHZEeWh2eUHSAawBQVVfeXFMT0plNUJlV0VaejRMN1JvNGhnc2hySXpJOWhpN1dtTVZGODBrczZCVWUyN1EzNlZucFZqQUhlaVJUZWxjLU5HN1hlRFFWX0RKX1pLbmdqV2llX3pIS0ZtRUlycVdUbFBxaVA0eUhDUk5oNHQyT1N1WUdoZWV6LTRuc0l5bGVsVmxFVmVFVFZEeG1rUHRRaG9JWmV5M1lmSkxrQldncGQxX0lFd1lLTg?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński spotkał się z wyborcami. Mówił o zmianach w PiS i planach partii - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzJSU2w3WHo0bmwwTklNQlRzS3BrMkZibzlrNUxKZ0tzTVM5TWlJMkJwUkRxTmJmUExPeFpxTVhlZFd5VW94UFkxNENucGIzZ0dDOTJ3OGJ3UlBfMWxiRWwzZ2dPRVpSUzBNbnlEYUpHaG1FUjlDaG9oTVpKNWhnZHhMa1ZSTmxvaFZnb0E3ejM4Vk5QX0RRdnlTNTF6Zw?oc=5"
+      },
+      {
+        "title": "Wstrząsające odkrycie w Nowej Zelandii. 2-latka zamknięta w walizce - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzM1dGtJZTVDemxtUFpxRWl0VXlBX2lUdHUwUy1JV1hxb3VHWmlOUDU3bFBiWWlFS1RMekh0OWVuY20xVlJ3S25xSlp1aUdKakVkSHZxTzBudlAxdDZ4NFFidGMwNms2Umd6UjU1cFVOQUNUa3ZqZzROUm5kQ3NkdThkcHdTSDhxTkZuQnJkTGhJV2x3QWtjX3Z0c3RIOVhDbEJ4RWt0Y2EyTng5SndxcWMzakw3U3RqWUJocURLZ3ROS05nZ0Jxcw?oc=5"
+      },
+      {
+        "title": "Poszukiwania Wojciecha K zakończone - Grajewo24.pl",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DaVpCdHdWbkNzRmpTcEw0WUlOTlJqZWc5VEdVc1dYYlBxVkNUdVFkeTNpV3JicHRJeFF4N3p5LWlPZFJQMDkwVS01V2EwREFpdEdEdVhFVUx5QXdnVXFhblEtRXJQZmVWTVhmVi1SOUhrbW04Mjg0TTFTaHlJZw?oc=5"
       }
     ]
   }
