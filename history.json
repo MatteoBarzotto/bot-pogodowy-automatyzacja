@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-01 15:33:48",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 426079,
-      "DOGECOIN": 0.763932,
-      "ETHEREUM": 13458.92,
-      "LITECOIN": 388.57,
-      "RIPPLE": 11.04
-    },
-    "indices": {
-      "^WIG20": 2888.56,
-      "^WIG30": 3721.35,
-      "^WIG": 3721.35,
-      "^NCINDEX": 255.35
-    },
-    "news": [
-      {
-        "title": "Czarne Pantery z Gliwic idą do wojska. K2PL podpisany - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGlYaWo0UlJHQ09keERZcnlndFZsUkE4eE1hTmdwYi1TRWZDajRLWkhSajdWRi00VU5fVFBhX1o4ZG5PT25lS0tRZjBoMkxWd3hTU2ctbnF6Zm9zQmV5UHE3c3JabnMtNUpscHFVbzV4OWhEQ1RrV0VoVVdtR2RYeEpyTTB1Wm5VeXZSbUo5MA?oc=5"
-      },
-      {
-        "title": "Minister sprawiedliwości odpowiada na ultimatum Zbigniewa Ziobry - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGhpVnRrOWlOUExnUzR4enNOSW9ERURGb1kwRHBCX2xqUnJvN296NjZjQUZZSk1Mbm9uZ2pTWWh5Uy1Ca3lYOC1ydXZTOTZTRFlQM1BSdEt1VVJsNm1mMmdGVW9qOHphQkhmS2NsUzI2UDkwdERMWkM3VU1xRU1TSEZEMnBsbzZ6dFhRN0xST1hvbnp4UTEtYUhXNA?oc=5"
-      },
-      {
-        "title": "Sąd zdecydował w sprawie aresztu dla Sebastiana Majtczaka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWk0ZW9fQXNhc3hEX2JHbF9pRl9jdGV4d2lPOWZ1WUxFbUFBRVUzb2Fma25FTzl5LU9RTXFMdFdCc1J3WVowdTduYVBtWUlBR2J5NkhxYUVxOFBxV3lwUHFqeXg2a3RScTBDQ29wSUt3SWp4bFdDajNxOTN5OGVBYkhINUIwQWQtQWZsME56bjVXSHVaUkhOenpXdy1UZkNoMTN4bk1BUEpmN05rZG9FajdiMl9mWGZ6eGdOTg?oc=5"
-      },
-      {
-        "title": "Przenoszenie sędziów w Sądzie Najwyższym legalne. TSUE wyjaśnia powody decyzji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmN2ZGdlTlVBS3RoVk9yVlFLUW9RNHcyN1Qyakw1R055WnQ0SU9EQnNPMjhlaDdvYzZiLUp0MC1WT3JvZ25MMEZ3dGhzQkxBZk1HWTJqbzhsQUYwT3dLWnhfSGZSNFFxenBWWFc1ck1OS3pJVU4yTzhldjgxZEw5cTBHbVF0V29lalhCVGp3ejcydXg1UVRoM2JhTGdoQQ?oc=5"
-      },
-      {
-        "title": "81. rocznica wybuchu Powstania Warszawskiego. W całym mieście zawyją syreny - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmNWMmFZTFJTU082ZV9WVlRVREdibkdoZUc5M2ZkUEdPZDNTRjVJTVhzNXljbmhhQmhaUmYzTjM3bXdsYWl1X2NzalVLQUxBQTRlOHRtSGhKcHNIckxEWXZmMHZoVlJqd3B0VElwaWVzd1RaT2RiNVRfRlh2aG5wRHNXWXM5M1BMaGE0TWpNTEZrS05aN2hUYkpKSmJrNmJTNGVQWFdUd3J0aXluRkVZNlhYS3BaelMzMWd3R3NPRS1kaC0wSU9XWUI4OA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-01 16:17:05",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Polacy wierzą w porozumienie Nawrocki - Tusk? Jednoznaczny sondaż - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRDWWM0dnJDcWp2dFRhZHpWcG9HMFlBOVZXYy1lVFRqWmJ4aXhUcVcyUUNuS2NYLXRic0d5ZkJyQTBpQnRLcU5JUlYxNmJBNUlfTzJRc0ZtSVR0OFl2Vjcya0hyMC02MVlPU3RzM1ZHSEw1VE1RLWFqbWNfck5MaDk5eDhOSkQtYmhXUjJtV0x0bkVneERZdE1uRHVNZjNHaE1lbWE1U2ptR1JHQ1dXaWdR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-03 21:12:10",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 421598,
+      "DOGECOIN": 0.733638,
+      "ETHEREUM": 12875.41,
+      "LITECOIN": 401.67,
+      "RIPPLE": 10.72
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Wypadek helikoptera niedaleko Radomia. Służby w akcji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3NwdWJfLXNXNGRBRUI5RUE5SE1KV183NjlJdDZNcXFfT1R5bWg5cDZaU1Fnek5uY28wRHh4UTMyZ0xxR3Q2LWh1WEs0SEgxUVdQR0FIN1FsMFp5cm1Ha1d6al82QVdqbmZtMXFMaHJpT2JZMU5FaXltcEpzSDcyUEh1RWhsU1FUcnhfWF91Vm0zaUVKQjRrUFVQakdOWmUxYUFPVjZoZkdxUXMxeTJNTHJuNA?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro składa zawiadomienie do prokuratury. \"Wyznaczyliśmy termin Żurkowi\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTJxVE5HZUZuRzF5ak5fdjVxaEtDTWxhQno3dXJ3VkxXTzMxMVU1Y0ZVc3UwX010cjBIVU9KOVB5d3l3MnN0RDlOT1JVbGdGakFLN0VRWFlBMW90b05oS0c5SlVMdUZkMHF4b0JsUFBsczZreXZUb3RQd0NGUnBTQ0hWWXdJRTNtV25heVR1bmRpLW5YVW9peHR6QTJZc2NESnRLcE9iakFRNnZJczFBSWVEQQ?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński odpowiada na głośne słowa Sławomira Mentzena. \"Jakoś to zniosę\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2NZNEVLbWNyLVFFSDVHWFZtcnNZZXlqX0pDYXk2OVBTbjBPUy1RTldjV0ROR19XVkE1Q0tUc1Y3SFRzUFgwMTUwMEF2OVNFUVFpRG4xb2tDTUxUeHVja0dmc1FROVFtRmdHdy0wV2JMaTdkZzM1UGtONGFCajJOcUtfN0ZxT1BFSGhTZ281VlprZ1JlVTRWYTRKOVBQV21QLUE?oc=5"
+      },
+      {
+        "title": "Polacy wierzą w porozumienie Nawrocki - Tusk? Jednoznaczny sondaż - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRDWWM0dnJDcWp2dFRhZHpWcG9HMFlBOVZXYy1lVFRqWmJ4aXhUcVcyUUNuS2NYLXRic0d5ZkJyQTBpQnRLcU5JUlYxNmJBNUlfTzJRc0ZtSVR0OFl2Vjcya0hyMC02MVlPU3RzM1ZHSEw1VE1RLWFqbWNfck5MaDk5eDhOSkQtYmhXUjJtV0x0bkVneERZdE1uRHVNZjNHaE1lbWE1U2ptR1JHQ1dXaWdR?oc=5"
+      },
+      {
+        "title": "Uderzył w wicepremiera. \"Będzie się nazywało Sikorski\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdldxY1ZSNDM3OUpBdm1wNmw4eU1kLW5kbjdxMThNTjJsOURTRE0tMDYtUF8wSURLQ3VUR3YtUzNYY25Zc3BDNkswcVVJVUhmekhqbXFvVWlPbGRQSDJrb3Nubm52bjZKWkU5RkZhUUg1RFV5ZnJjM2dKWjRGaURwdHduNGp0bmpYU1VWZVdjM1JRa2M?oc=5"
       }
     ]
   }
