@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-01 21:14:08",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 421286,
-      "DOGECOIN": 0.765886,
-      "ETHEREUM": 13158.45,
-      "LITECOIN": 389.54,
-      "RIPPLE": 11.16
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Rozmieszczenie broni jądrowej \"we właściwych regionach\". Trump odpowiada Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlYwZzFuMHhDYTEyWFpHZG5oaWpkOG4xdFFWMWh5OWFlZDJwLU5sSHFnWTBQZGlTSk9SbENVSG9DVVdmUVI1bTNKcmJsUE9HcWVjSnNiRVk2VnNjYmpWa2hIaWtDRWdDdGl5LV95MndfdVRYbGFCVDVMY0xsczA2dDBkcGJVWmRYTmZHWXh2TTRjQmxla1JBQ3A3cHZKZ0MzbjJ6VVNMUGJ0Tkc2TGNYRXdTQXJhanYtYmoxVWh5SXBQQ1U?oc=5"
-      },
-      {
-        "title": "Uroczystości na warszawskiej Woli. \"To było arcypolskie powstanie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0lJdG9vRXB0LVg0WFk2QTdXV2o5ekZEbU5OZHZuV2stdUt2WERtMlRhb2tJZmFuUTFYWmp4WFVRMXFsN1g0UVFjSmEzVTBjb012MmVBRVk5dFh2TkdNNUh1alF1ZnhIVFZITkJrTllXQ1VuU29lSlFwcDBPT3hqRUJJN3BnRk5rdy1wRFNaRHotbDBlUVJqYm9XN0hmejdNbmlKR1dHSmV6QjE1SVNndGMwM0xuTnM0SVd1X2ZyNzBpNXRrNWpGaw?oc=5"
-      },
-      {
-        "title": "Nadciągają burze z silnym deszczem. Jest najnowsza prognoza pogody - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWlIejRJQnBjVVplamtfYUc1SnhhY2dSamx0el9pS1g5TGN5SHU4YkxIbXJ5SHlZWkxqSkNFMk8xWERSaDA1eXNFS0g1WjM0ZFowMmRtcXRERlBnSmExcG5CSGtlTnZwUDU5S1pJeVJCYUs1a2x5RFFKNENBRXMtcWVqM2RpaFpBbHRxQmxFOVE5VzRaNXJqMGRTTUpvUjIzR1ZmamtsZlVYdVpk?oc=5"
-      },
-      {
-        "title": "Świętokrzyscy policjanci postrzelili atakującego ich mężczyznę - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenBjdHY5cE1QZkhHazZlN2JJcjR6MnpZa0xGY2owSWpWU20zUU9nSG5ibHRqUnFNMTQxbHhmOXREeFNISEhOMjJuTW14TmVRY2xKVjJZVC10MjlUUjVOVUE1ZFY2LVlFQjBoTHdEV1d6M0R1WWFzNHd1NVRtWjllWlFwclc0ckJLSEZkTVcwTzJEbEM3TnpYS0xJYkhDcmxwaV8tV21xQ3BUdEV1bEZWb2F5QdIBtwFBVV95cUxNaWJRbVJiWW9nZlZGU0pSOEN2OXNFQkJDT1NudGpKQWdiRmRaSWtfQWVaa1RvVUxuQlg2bXZneWJpMnBYNDFIYjNYRTktSXdkbmlEVkdmTmltLWQzSHhlbUJYVzhjRFBkYlo1U0dzX0NoU1MyTEFReUtuYVV1OC1mWWVUYXJ0LTZxMXMzUFlwZkVnamNVUTNmY1NYVVRLRHNORVRIYzE2YXhzRm1tWEJseE85enNsVUk?oc=5"
-      },
-      {
-        "title": "Zmasowany rosyjski atak na Kijów. Rośnie tragiczny bilans ofiar, ogłoszono żałobę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHlGLWZlZndra2hxcnY0a1Y2WnFIRFd6UkRfbl94T3ZvdVNDUmw4dEU3QXBRWDJKUGh6VU41YUwyWXFDTXJBWXVqamNVX0VpbEpHQ29ZbDl4ZFFUcGJsXzVQeUMzYzNMNjI3aTNpS3JWTjJQaVNvRUxvUjJCTl9KMkVlY010RXdUMEZ1WFBHMy05S3lUczB5dDJvU1d4UmVjenZnY1laekN3TzNTR0lncThwSHlTQ0pUMTZuZVN0R0otWk5TYy11ZDdfamlETmgzRU9SWTFn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-01 22:16:29",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Policjanci postrzelili agresywnego mężczyznę. Usłyszał zarzut - RMF24",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3BwbllGOFpOZGl1UmdXdXlScl9WUjZoOU9HYzZHTV9sNE1Kazlob213MWlEZU9qaVlISVlyZUdKbjRQbTJ4cTVMZU5pQ2Uxam5vTnRsVXFOZzgxRHZvbzM5NzRXNG01eUFWV254WGswUkZ4Mzk3UFJYTHd0ODhLZklPOGNsMDM2dmZTZy1uYWdlSTRmU1JrV0F6WTAzTS1DajVnYkJJbDFwQ1NwVUVUUThFTdIBtwFBVV95cUxPdHhkOWJRNTJOOE1rUHFCdHpmX21ZNVp0UDRuU3NIUkJXWHdCOU1GLUp6SUc1U1lNR0lWYThGVURiMS1yR1JvWlpOTUNrSUNfZlBkdHN6ejNiaUVQRlU4d0tSVEVVSm9Ba0NNM1ZIeVFSVkljVFkybXVKdEN6Rk4yazBTN3NTNFBhSzBKZUYzYWRXWU1FOVN2MzBDR0l0ZXhYQXRPdVBCVjlDaTgwY0ktQ1RyWm5IRWs?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-04 05:50:59",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.7536,
+      "EUR": 4.2813,
+      "GBP": 4.9398,
+      "CHF": 4.5937,
+      "JPY": 0.02492,
+      "AUD": 2.4106,
+      "CAD": 2.7049,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 422826,
+      "DOGECOIN": 0.744455,
+      "ETHEREUM": 13134.1,
+      "LITECOIN": 410.12,
+      "RIPPLE": 11.07
+    },
+    "indices": {
+      "^WIG20": 2884.84,
+      "^WIG30": 3715.31,
+      "^WIG": 3715.31,
+      "^NCINDEX": 255.55
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński spotkał się z wyborcami. Mówił o zmianach w PiS i planach partii - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzJSU2w3WHo0bmwwTklNQlRzS3BrMkZibzlrNUxKZ0tzTVM5TWlJMkJwUkRxTmJmUExPeFpxTVhlZFd5VW94UFkxNENucGIzZ0dDOTJ3OGJ3UlBfMWxiRWwzZ2dPRVpSUzBNbnlEYUpHaG1FUjlDaG9oTVpKNWhnZHhMa1ZSTmxvaFZnb0E3ejM4Vk5QX0RRdnlTNTF6Zw?oc=5"
+      },
+      {
+        "title": "Pierwsze problemy Żurka. Zawiadomienie o podejrzeniu popełnienia przestępstwa - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWJsbTEyaWNoX0EyTTRsVU5GX1NZX2wtVjF6ZlBDci1MSHZBb0NrdC1NMWVlOEVZSm1oMWZMdGxYdG0yaUFLUjhrYWw4WTJNZ2VWZWw5NV96TFlUNXpRdUpqZTBFNlp6eW14Q05IZVJ1Zk1kQXZxaWE1NTczUVNaYkN1eTZtN0dGUTJ3bFVyYXlYajg0ekwyU3Jpcw?oc=5"
+      },
+      {
+        "title": "Niebezpieczna pogoda w Polsce. Na południu spadły duże gradziny. Są nagrania - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG1sSW5QWXFJUWtlMGx5ZHlCTU16OVlzamRFMG5oX2phb2ZNVEdkYkhHbEh1eEVKVHZ3b2ljZ2YzZnlCc0szamlvNnNOc3lpejJyYnRkVHFjY0xLbGNZaHd6V0FlMDRiUmtYRFdRRkd0MVFGYmpqeEVMUEZ4eHN1Z25hWktmdEVySkNzNEpmcHg2LXdSSmNHNnJlWE41LU9FT19Wa3BvQ09mc3owQ1Z4UVYwVWY1ZXlEdFlheg?oc=5"
+      },
+      {
+        "title": "Milion osób na mszy. Nagle papież zacytował Jana Pawła II - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2o1UHZUR3A5WDFLcjhab2ZVaXQ1aDZocWFjTkM3WVJILWEzNVpnQlJDbEhXS29ERFc1bEdOR3R0V0dPZ0lhd3RNUUs2bVlGZ0RVWkc1OTZwUTEtOF9zRUdzRUtDZmI0aVZmZk5pZVlNMzZFbzRTWFRGdlcyV3p5cGg4VmpBMUFZLUwxNnZjdjJmTExFeWk5UlFHRlJFbS1O?oc=5"
+      },
+      {
+        "title": "Wypadek helikoptera niedaleko Radomia. Na miejscu pracują służby, są ranni - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFpYMTdmTzZHQ2p4djk5YVg2bnFvSjk1WlNCNTFLdWdNUS1sWV9WWlp4bERTUzR3a041NUtvYnl0SFdPdzNuaEhFZW1ObkRWNWtNR2oxVEVISWhhdERQTkphaVc2cl9RQlVmaDgwcFc0ckg3RWM3cC1fYlI1aVI0N2xYX2w3azhoUWNBamFjcW5oNGktMC03QTNXU2QtM0pPS0wzWUNpcklFQ0JnY1E?oc=5"
       }
     ]
   }
