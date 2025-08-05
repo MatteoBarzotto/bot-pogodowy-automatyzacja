@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-03 13:12:54",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 420371,
-      "DOGECOIN": 0.731819,
-      "ETHEREUM": 12890.56,
-      "LITECOIN": 402.67,
-      "RIPPLE": 10.64
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Pojawiły się nowe alerty. Jest najnowsza prognoza pogody - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWC1uMnFFMHI4TWU3a3k4WWI0Nk82QzdwUGxjd1didFN5ZUdTZHlxT3hlT3pIa3ZQQkVDRUFRUERxcE1xQnk2NEhvMXpyckIwRVM4X0RveEpzSG1ZY1RUR2pBOWpFSzhZOUFoZkpZUTE0VkdXMHBCTXJGVldjcXAtOUQ3VlB3blB6UFZyTko1a2FZN1FfYUFRc0pmelI4Mlk?oc=5"
-      },
-      {
-        "title": "Nie żyje Jadwiga Morawiecka, matka byłego premiera - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemppckhlTWtYZEdWZGZjTWltRzFZVVhvVXpPUnVlQzVvLXYxcFJGREs3SndLNk9lV3ZsdEsxSEg2Ui1UMGt6Y08tQzIwNXA3dEp6cENrbi1VY3BVTlYyck1qek9aNWdUc3c3aVN6T0V3bW8zWEZPWUExdFR1elJGcUs2TGZaTWp0UTAtQjJFdjFXUGE5UmlF?oc=5"
-      },
-      {
-        "title": "Jaka współpraca Nawrockiego z Tuskiem? Polacy odpowiedzieli w sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHpnbUJWMWQzY1hMTk9CWmxVMFdiQlVpLWVMQkRGVXlrTEpaM0laZzl6XzNHVkRnRU0wR3UwSkd5MGFXZy1rdzIwZS1tbmV1LVVlZlNsWHgxZ0VUcG9EeGZtbEZCN2VfS0ZRUlNrT0tSbGVEZGRaVlhNZmxjczhaRlV2Z3ZQMmluWVdveWY0YjkyVEt2Mkg2ZEFDUVp5S3NZTUVyU3JWX1JqejFZU3ZVTw?oc=5"
-      },
-      {
-        "title": "Ukraińskie drony uderzyły w Soczi. Płonie lotnisko - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnRPdWxsVFhuMVZDaXY3TlVHVG9iUm5qTFQ3aVlxaFNCdGNVY21KbGgwbWpzMlR0MTltTV9LdkhIQzFlc2pGMFN3VjBhTkVNOFhMQUZwX292eVFvalA1dXhoYTNKRzN2YTVOWlhVMmkzeURHWWdNVHAtM2hCYnlubEE3MVhyMVI3OEZXcDZ0TkRPTHZjTnhGWldLLW0wUQ?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w Rosji. Władze ostrzegają przed tsunami - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZG1OdGRlMjVsZUdvSHJqdFo0cHo1QlNBdTdzejViM3doSnBiOExiQ2l3cEVYWFQ1VUk0S0o2S3c0LWJLOFM4cGtQbGthSWEzQ1FwcmtCdVdvV1lYeDNsdlFzaG1wa19WMFpBZFRNcm1UT2diMzdmX0NScDB1TmtaWWJfNk0yNEtMbXR4TkVlOFBKVDA1cDFMSnAzd215WFpYQ2pRZTVkWk5sMnh4Uzc3di1NY3l0cFJ3VUZJ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-03 14:28:54",
     "weather": {
       "Warsaw": "Warsaw: +27°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Dramat we Wrocławiu. Ciało młodego mężczyzny w Odrze - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcExLeDR5azJvUkFxYjhPZ2xWeG5FVDk1anRlVGlNMDM5V19zaVFUcmdUd3c3T19FNklPc2VGZUR5Zk84eXlxUU9rWW5Na1lkcnpiVXgtOVNRSVEtcnRaNThJVkJVcGZoYjlDaF9KRENxWUs3bjhaRjRCYkZFbTJoNlBMbm1MMVdzVVVaeFE0WkpPUFJMV3hZaW1IVFlTc0Ju?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 19:14:28",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7066,
+      "EUR": 4.2763,
+      "GBP": 4.9226,
+      "CHF": 4.5702,
+      "JPY": 0.025116,
+      "AUD": 2.3919,
+      "CAD": 2.6847,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 418488,
+      "DOGECOIN": 0.735195,
+      "ETHEREUM": 13252.17,
+      "LITECOIN": 448.93,
+      "RIPPLE": 11.0
+    },
+    "indices": {
+      "^WIG20": 2865.63,
+      "^WIG30": 3706.07,
+      "^WIG": 3706.07,
+      "^NCINDEX": 255.7
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki obiecał Polakom tańsze życie. Wywiąże się z danego słowa? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0JTUllaYlBCYWx1SE9Eelh5ZU5WclFLZG1zODVKaHo4NDVyQUtDNUZDTExxdUNEZjVMQ1ZpMlFnaUpLbTFTU0RhM29UZGNXWWVoYW9VUFU1NWZPaExfSFp0b05Od1hFc19Ua1hhSVpqNUFQU3hmUHFpXy12MUt5T3gwWjZyb3gtVjIzaDlGU09aSi1hODdzd24tdEpZWG5VZ2xDYlk1RGpTZEpyc1FGOGtSYWlMUXFtOW1wN2RXRGFwTHhHRjRmbm9n?oc=5"
+      },
+      {
+        "title": "Donald Tusk ostro o Macierewiczu. \"Paskudna misja się kończy\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUFuN2FEUGtOdVQtZkJDblk3cWQ5TGw5cmEyZS1KMTdyRS1WZF9hTFk4RzRtWW1CSUlJbnh6d3ZncmlRc2UtOXdNcXo2Vlh6V3dnT0s4MzRlS19KeHNUZnFSb3c0Rkc1eHhoMm9oTUY1dGZ6cFBYQ1BjQkRRZmRFWEc2Wm9KNTdYX2pEOHBuaWQyaC02N1N3VmUwYXpOSEhFNTVkYzdtV2pSc2pHVzFLLXRGQ0w3UVpyalhIVW1B?oc=5"
+      },
+      {
+        "title": "\"Chciał sobie przypisać kompetencje prezydenta\". Mastalerek uderza w Ziobrę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2pfZm1vTXlfclZsaFQtTy1ENXJFQlE1QjVkbkNEekczV2pmZTdwSmtlQ0xoWU02TU9nbnVhbzEyMHFpUHI1ZWNzc0w0RHNORjNOazYxNG13VVh6elhTZ2dfNzJtdjE1aV9Ma041eE02dFRWaU9pMnlGODZPTU00blM0UFZid1FaUURKOTk1Q2Q1dHFRN19YR1FvT3dnUFJoaWZkNEpXS2lNTWlrdmYxUTV3UjhhZw?oc=5"
+      },
+      {
+        "title": "\"Wtedy Putin przestanie zabijać ludzi\". Trump ogłasza stanowcze kroki - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlNFbDB1ckRTUEN3WGdVSlNBTUZpM0xtX3Bsenh3bXZzaGVtOElQNzdGaXcwNmhRSXRyeEItaWN4dVRXREZ1cE1LQ3dNaWFWSjgtaWJtRGFCeVlSZ2ZCaUNwYWtuS2RLbjNDS0xrSDRQa0ctWlVFZm9TcHg1cUluNV9kTzdUM01URVBtVHRuWlNwWlBqNU5pa0NINDBrNTBmT3M4?oc=5"
+      },
+      {
+        "title": "Porażka Waldemara Żurka. Kolegium sądu mówi „nie\" odwołaniu prezesów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkp6dkVhSWd2QnFPWjhfamJLQWlMLVNnME1TcjNJMFNrV0duTUl0aDdNcWdnbU1odnlsb25TMngxdk5HQW1hNFpZOWRCTF9DcHVnSThyMENtM1J0aDlQWVFLTE15aXNmWjNyZFI2WlpQbk1zMVdvT1gtanV5NjU1bmhiYkwyLXhnRVhyNVcyRWdackEtaHB6N2hSSXBNUDhwOTdncFJXdnhUVkRXRWhfVXl1LUM5SGc?oc=5"
       }
     ]
   }
