@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-03 06:42:57",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 417863,
-      "DOGECOIN": 0.720004,
-      "ETHEREUM": 12669.19,
-      "LITECOIN": 394.93,
-      "RIPPLE": 10.41
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Ewakuacja na lotnisku Chopina w Warszawie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGVMU1hucUFPZGZtVWtxclNBc3ROV2NCaGVNd3VnZ1MtZllCTkVabzZPRXpDVUd6NDlfb20ySTJhVU41Q3hLSmFZelpSQ2NySWN2dGtJcEgyMjZsMmZkSE1lWk4tc1I4ZmdIR1VvWjh0TXdibjcwRFFhWTJmUU5yQi14ZE9nWDNV?oc=5"
-      },
-      {
-        "title": "Komendant Główny Policji reaguje na zatrzymanie funkcjonariuszy - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnpqMWtsOXNZRGNCWEhJVVZibi1BeWFWZGdkMnpRX3J2aDhqY3dnLThYcnlhM0U4dzJMNVJLYWhkNEpzS3d6TlZFTVFGOW1VTnpXSzZ6UVFiSkUzdGpQMGR5SklVekQwWDk3cHF5Y2xFZXRpRXpGdTN2bm9CeF8wcGNaa2tKT3FSU3ozc0NjVlFxSGVXQVpJdko2U3hvamdZaEI3N055SlU3SnlDeHfSAawBQVVfeXFMT0YxTFd6eXFPRnctczBxM2RJUVhDTjBXdlhUZ3F4MFdzQ01OY3hSSWxtb2k2aTU5QWJEOGZ5amdSc0xuajgtbmtMcDVKbmR2M2t3eDFTNXI0d1ZtSEk1eUlUc2RuNk1PN3hWNzIwZ2ZwbDBSVTJVSVBUVWt3R21BLU5Yd2xEU0syb1ZQUzJWVHR3MWtiM2FVMERhTVVCSnJmeGF1NFlVYmZ4bm0zbQ?oc=5"
-      },
-      {
-        "title": "Pojawiły się nowe alerty. Jest najnowsza prognoza pogody - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWC1uMnFFMHI4TWU3a3k4WWI0Nk82QzdwUGxjd1didFN5ZUdTZHlxT3hlT3pIa3ZQQkVDRUFRUERxcE1xQnk2NEhvMXpyckIwRVM4X0RveEpzSG1ZY1RUR2pBOWpFSzhZOUFoZkpZUTE0VkdXMHBCTXJGVldjcXAtOUQ3VlB3blB6UFZyTko1a2FZN1FfYUFRc0pmelI4Mlk?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek reformuje wymiar sprawiedliwości. RPO zabiera głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjVicXJ5bS1RdjJ2LUo2Qk5GbkxYd09ka0ppMnFfTkwyaUY5V21NbFctUl9jcXY2ZnFKTXh2M1JaVEVOUmNHQUcwRjA3OEZIN2FRd1BoUE1qQXJxN3ctLWtNa1Z0N3h1bW9DeDBUeS1CaEtVUjdZdldFNVRMcnQ3TDF5UDhzY2x2bkZTejdHTlNQUGZxUGJBek5IUU5CTWc3MFdkb1JiVQ?oc=5"
-      },
-      {
-        "title": "Letni obóz zamienił się w horror. Dzieci w szpitalu, 76-latek zatrzymany - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGdwWmNfMWQzYy1SSi1BUzlCSzQtR0V0NjNqNkdRVndCNXRJMUNENDVBUnRaVUJQNWU4YnZneHhBaU9xRzdkX2pWTEd2SUtXa0swM0Q4NmZ3ZU8yOVNqTDg3RmdHSVBmcE9CcGVHTUdzd3NxQVpQaG5lN25VTXVJNXR3c05vMnN0cFpON2hScUNENFlaU3Q2UFk1NkZYVWtWaHoya1QyMmpnT0hDNEs00gGzAUFVX3lxTE5WaWJ1YU11ZmVabkRvR3E2THczdFg5U3R3QXNQenBKMENhUEZRTHRRR0Rfc21FVWZpQXRRVTVHbWl4YWZIQ1I0UkRyS2FYMFYtWWhQemxSRUk5REQ0TEk1RVYxbDJQUXB4QlJlMWVqby1jdnpUbDV3eXJ4R01qR3hqVndDd0hVMHYwd05OWmRUQ0RDZl93Q0hmWTdfT3dKN1daQzR6T3FtaTF0Q1EybVBDWDhZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-03 07:22:09",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Żona Andrzeja Dudy nie przejdzie na wcześniejszą emeryturę nauczycielską. Musi wrócić do pracy przy tablicy? - Bankier.pl",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZDFKdW1zNVA4NWF5alRSdU1MalFWR21OQjU1YnFEUnBCVDJFMVF0SDExSmxaTDhXY004WnhfQjh2TDFzckN1VWJudHAxajBTeURhUFluMEcwUmJ0bEtBcTVpR2tEUzJSdnFfRm9EeV9mNTE4eEVERlpXRFQ5bG93V3VWUTh0ci1yS0NabE1sYkRjdHp4OFMwTG10U0lvX09kVzNuUUxDZGtDU0F5Y19IOExZYV9WZUg4ZGJSN1VpSDFucFQ5Vmtta0ZUX2J1Wlpid25uUnpSQXZFdlc0UXFhX2lCVE5pZnfSAeYBQVVfeXFMT29zWmJqWi1wYjlObkxzb0lhUklVWVdRcmNhalJZdTdSYklGaE1qUDRzZUtNMUFXeDFVWFJUWlhTdzVTc0s0U0ZtYTZKLXJGWWc5QWpFdllkS2JSOHc0a3JWd2RacDgyVnRVRlNNU191cVAzLXFyWjVCWFdPZktKRnhuWENBeWV6dHg5RjMzUVlPZFlPSGZBZXhvQnVJWnJKYk1XUGxGWFBHMk9UdjlqTGVyVVh1VFdXal9kUEpRUFVyVmd4TXZDb0hWbUxYYXRoTXMycVVoZkRDRUh4SEVMdHlYWmY3LXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 12:17:06",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7066,
+      "EUR": 4.2763,
+      "GBP": 4.9226,
+      "CHF": 4.5702,
+      "JPY": 0.025116,
+      "AUD": 2.3919,
+      "CAD": 2.6847,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 424638,
+      "DOGECOIN": 0.76351,
+      "ETHEREUM": 13565.27,
+      "LITECOIN": 470.66,
+      "RIPPLE": 11.32
+    },
+    "indices": {
+      "^WIG20": 2885.77,
+      "^WIG30": 3727.66,
+      "^WIG": 3727.66,
+      "^NCINDEX": 257.13
+    },
+    "news": [
+      {
+        "title": "Andrzej Duda sam wystawił sobie ocenę. \"Prezydent na piątkę\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZk9VYmJnTGhuV2VXS2pkS1ZOZHVudHB1WWV5cElEa3VmOEllelhYakJLQmRWTnhrYWdmZHQyZDFib2dFdDFBdTdVeHZnQlYxQmtPYTRILVJWdGxVTmU4T0tRUHI0T19KYW1hX0ZnR2ltdnVibHBSdTJZTnRFN2R6VldGY0RwWmpHcklmN05VTG1LczlMd0xLZHJHTVMxbVVwTE1RdUlpR0liU1JxVFZVV1h1NDY5WGtkYy1GRkM4ZXVSYm93MnFSMmpSUQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki prezydentem. Najtrudniejszy start po 1989 roku - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT1RHcDlXbFY2QTZ2ekE1bWVUX0ZfcFFCcU1ibUZSdlJZTk4yQVY3YzUtcG41RWJVdmxQZU1ScWp2VkJvWkl6Yy1nQ1lHM2FtdWNNQ3MyNzR6SzlvN0ZCWVg2V0FicGkzaWRidWNKSUE4cVlycFN1NFZTejQtU0toVW90djRKTXpId1ItU0NHa291TTVLU3FKamU2TjFncmZpU2I1cGdrbjdzaFBxU1hpQ0I5T19waDlSNjN5QkVxdUdmczlyNnJVMmp0Rk1JN2ktNl82S2Q4bjYzUHhEekp2aW5RQWl1dlo0a0I4d3B3?oc=5"
+      },
+      {
+        "title": "39-latek ranny w strzelaninie. Trwa obława za sprawcą - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUg4dHlLX084cjN2X0ZaYTZualZwbm1IOWZ0bEp4M1FSbkk3QVByMHQwc3VmYXlrb01tRUpOVFFwS0lyZUpZRGI5bE5Dbm1rZjhKRzljTDJxb000ZEVJZC1QQlk0akd3dS1HMnRxNldHUHdDWi0tRW8wZTFmdVZ3Q3BnbnZvS09OWDY5QVJtY0hNTEM0YUpLWm0zSlBCblBwcllHbC1PdU02elhxSFhF?oc=5"
+      },
+      {
+        "title": "Jest decyzja komisji ws. immunitetu Macierewicza. To nie koniec - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkUwVDFxR2s4M1F2Q3k5Y0NtTDg5SnpNQ3BwU0dUY3hXR2xRLWFaSURKeUlLY2ctZnpKeTRfTi1ZQkJyb3FzN05KNlpEWlBlLUZsOTlpdmRPazNWWVhZZGtfYmVuUGgyUWRwNmxSNE1fV3prZU4tRDdEb2J5SWhKSmNhYlNuTlM2VkQyclI2LVRxWXVzaVIyQnJMRV9JU0FpbkpDU0IxM1ZIalJtU3c?oc=5"
+      },
+      {
+        "title": "Awantura w warszawskim Wilanowie. Policja wydała komunikat - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV3huejU2UG9ZRFZNVjd6UWUyS19MbjhyTnNURDNhT0JzS1VDUDh0U21LWFFQbkxkZEYxY2haTG9ITHFlRHVHWkJSR0c1bVlzMjZrU0tfdUZKOFpGcDBqUWlYQ3VCeDg3dVVoU2M0ckJocEpHRXlMUVNNa2Z0Zk9lQ21Udkx0dm5ja2IzbEVsOHpXSUVYaU15cTJRNUZDNFlTY1R1RWJqTFVGMllEeWFFcTFKdE9SVkJTNGc?oc=5"
       }
     ]
   }
