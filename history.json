@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-03 14:28:54",
-    "weather": {
-      "Warsaw": "Warsaw: +27°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 419341,
-      "DOGECOIN": 0.728927,
-      "ETHEREUM": 12838.77,
-      "LITECOIN": 403.0,
-      "RIPPLE": 10.57
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Nie żyje Jadwiga Morawiecka, matka byłego premiera - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemppckhlTWtYZEdWZGZjTWltRzFZVVhvVXpPUnVlQzVvLXYxcFJGREs3SndLNk9lV3ZsdEsxSEg2Ui1UMGt6Y08tQzIwNXA3dEp6cENrbi1VY3BVTlYyck1qek9aNWdUc3c3aVN6T0V3bW8zWEZPWUExdFR1elJGcUs2TGZaTWp0UTAtQjJFdjFXUGE5UmlF?oc=5"
-      },
-      {
-        "title": "\"Potrzebowano wariata\". Ostre słowa o Żurku - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3BiSVJ6R0lFTHlPcTVRQ1k4X3NTcGNYRnk3eTFDRE1NaWdRb3hoeEV2czJSQ1NWS2dEeldBQ0U4eUw4cGF2SVluNjF6UjVpOGdDVDg0VlFSV0E1ZE1fLW1NdTZHa01RRHNuSldOQWtodVF4WG4xbkxhLXJLal92VzZTQ2VJZlBIZ3o1NUR0akRnUQ?oc=5"
-      },
-      {
-        "title": "Ilu cudzoziemców zatrzymano na granicy? Straż Graniczna podaje dane - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3U4dllhdGRvTnAzN19DX1FpN3hTVlgydGVqYlAzVjc1V3pRUGI3Q3ZQWHhwUGJGQ0lOaTVyak9BNzBCelgwUE5qMkNzcEhnVWhzLXpCUFNZMk1wcmdsa1BRR2g2cl9oam96R251eTAyZlRyT192anZMRUhUMWhDRU5pYV9hN0tlZVBVaTlVa2tNLWt2eHFNZFNTOXh5Nkd3bnN4Rk52ZXJyNWhUdThqcDVGeXU2WXM?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w Rosji. Władze ostrzegają przed tsunami - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZG1OdGRlMjVsZUdvSHJqdFo0cHo1QlNBdTdzejViM3doSnBiOExiQ2l3cEVYWFQ1VUk0S0o2S3c0LWJLOFM4cGtQbGthSWEzQ1FwcmtCdVdvV1lYeDNsdlFzaG1wa19WMFpBZFRNcm1UT2diMzdmX0NScDB1TmtaWWJfNk0yNEtMbXR4TkVlOFBKVDA1cDFMSnAzd215WFpYQ2pRZTVkWk5sMnh4Uzc3di1NY3l0cFJ3VUZJ?oc=5"
-      },
-      {
-        "title": "Ukraińskie drony uderzyły w Soczi. Płonie lotnisko - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnRPdWxsVFhuMVZDaXY3TlVHVG9iUm5qTFQ3aVlxaFNCdGNVY21KbGgwbWpzMlR0MTltTV9LdkhIQzFlc2pGMFN3VjBhTkVNOFhMQUZwX292eVFvalA1dXhoYTNKRzN2YTVOWlhVMmkzeURHWWdNVHAtM2hCYnlubEE3MVhyMVI3OEZXcDZ0TkRPTHZjTnhGWldLLW0wUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-03 15:28:35",
     "weather": {
       "Warsaw": "Warsaw: +27°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Porażka Waldemara Żurka. Kolegium sądu mówi „nie\" odwołaniu prezesów - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkp6dkVhSWd2QnFPWjhfamJLQWlMLVNnME1TcjNJMFNrV0duTUl0aDdNcWdnbU1odnlsb25TMngxdk5HQW1hNFpZOWRCTF9DcHVnSThyMENtM1J0aDlQWVFLTE15aXNmWjNyZFI2WlpQbk1zMVdvT1gtanV5NjU1bmhiYkwyLXhnRVhyNVcyRWdackEtaHB6N2hSSXBNUDhwOTdncFJXdnhUVkRXRWhfVXl1LUM5SGc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 20:24:00",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7066,
+      "EUR": 4.2763,
+      "GBP": 4.9226,
+      "CHF": 4.5702,
+      "JPY": 0.025116,
+      "AUD": 2.3919,
+      "CAD": 2.6847,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 420034,
+      "DOGECOIN": 0.737251,
+      "ETHEREUM": 13316.11,
+      "LITECOIN": 446.22,
+      "RIPPLE": 11.01
+    },
+    "indices": {
+      "^WIG20": 2865.63,
+      "^WIG30": 3706.07,
+      "^WIG": 3706.07,
+      "^NCINDEX": 255.7
+    },
+    "news": [
+      {
+        "title": "Ostatnie orędzie prezydenta Andrzeja Dudy. \"Nie mówię: żegnam\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnM3aEMtdlk0aENWMGx0RTh4VHYyLWFuWjlZeTRZVlZldHN0TVRidURYdmtZS1JFUkgzNTlyTmFQUUsySlZUWW9GazRFWk5FdDVrZk8zRFVmYjBiYXlFT0RjYXJ0TTVrSWxnb2hYUmVBcDVpSkdrczJwb1VsODVnWFJkX0kyU1ZXOWtwaWN0bkg4RnZVM2lWQTR5WVZkVUN0?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki prezydentem. Najtrudniejszy start po 1989 roku - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT1RHcDlXbFY2QTZ2ekE1bWVUX0ZfcFFCcU1ibUZSdlJZTk4yQVY3YzUtcG41RWJVdmxQZU1ScWp2VkJvWkl6Yy1nQ1lHM2FtdWNNQ3MyNzR6SzlvN0ZCWVg2V0FicGkzaWRidWNKSUE4cVlycFN1NFZTejQtU0toVW90djRKTXpId1ItU0NHa291TTVLU3FKamU2TjFncmZpU2I1cGdrbjdzaFBxU1hpQ0I5T19waDlSNjN5QkVxdUdmczlyNnJVMmp0Rk1JN2ktNl82S2Q4bjYzUHhEekp2aW5RQWl1dlo0a0I4d3B3?oc=5"
+      },
+      {
+        "title": "Prezydent Andrzej Duda zawetował dwie ustawy. \"Nie zgodzę się na to\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGJQNkdzMGtIajI3NnJmY2pkYVVWdjEwYW84M0lOZDdvLWZ0LXJKbFlYRG1sek1HN2l5VW02a2FvRWhEN1RXQTdfekNCT2VwajJCMkRsWm9JT01MRTNrLWhpeldrZ1lEWEFnUHdZS3REb18zZnNDdUZ5d2pia2NoT2dCNFlqNGtqQkJxYS1PWGl2U29tX3hLS2Utd1pZUk5TNVJn?oc=5"
+      },
+      {
+        "title": "Putin może pójść na rękę Trumpowi. W grze zawieszenie ataków na Ukrainę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVYtc3NxTm5ZUkRla0JmTnFmVTlvQ2hmVkdxY3JaRGdCelVZZllWRXZDTmNNYk1KR0w1TkZFN2tPZHZUUWhValYxMXhQSFlOV1E3YVdaTmdXdGl3NDQxek9LOGhmM3pMcFdycEdRR3BNbXJZTVhJaXZuWjZ3V0hOZGh2TEhWOGJMRDdDLXA0R0ZMMXhWa2pUcjVrc1dhWWw4bDJKTXZSdzhZd0tkMm5NbVBGaFA3anFKV2RVUw?oc=5"
+      },
+      {
+        "title": "Sejm zdecydował. Antoni Macierewicz bez immunitetu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemstT2NlaFEwSXJOd3lsdExMWVlNNEF1aXVNU3p6WHFzTVhraC1uOVNrQlB2Y19YNmh4MU10SjFKc1ZPa1V4cms2RnMwLXFocW5XR1NjbHcwT2c4dVJPTFZmcGZCR2FlcFBCeXd4N3RFbk9yYXdtSVBZc1B5b0pjckZ6STlrektOdlN2X3BPZUZtamRWNkFRNEw2ZlowWnNKZ190eDRDVQ?oc=5"
       }
     ]
   }
