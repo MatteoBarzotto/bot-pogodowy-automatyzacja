@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-02 21:11:02",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 413674,
-      "DOGECOIN": 0.70446,
-      "ETHEREUM": 12484.21,
-      "LITECOIN": 387.59,
-      "RIPPLE": 10.23
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Nadciągają burze z ulewami. IMGW wydało ostrzeżenia - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFRISWdHcU9qNFd2b3VFdkxub3Y4WmxfaFpYSmljdE5oSVBJWDJqaFNjQldKNkp2LXFMTmpTUV9GX0pIYWlCdVo4TUFPS1NSYXF6V0IzNFlVbU1jaWtTMTRQaVJ4eFdwRFc4RWpGZTdhcUo1dVoxakVNSlNQd0dVXzJuNE84M1B1?oc=5"
-      },
-      {
-        "title": "Kierwiński chce wyjaśnień po zatrzymaniu policjantów. \"Nie mogę zrozumieć\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhJaVc4QldpaUtjeVRoLWtqWE9mX2w5ZE5GRHZ2MG5lRzAwMWxUVk1uVXZhRkgzQW9QSThFQXd2SDlOd3A0ZVBEMnJaTUVKR09LRmF6VTZJVlR2X3FNRFhnZWIyYUU5bzZKaTZlQmV2NlFuVFlIRklKQnZUaHdCTUxPb2sxT2hlQURyazd4V1dWeHhkb0hFd3hybXR2VmJNME12WU1UaUtrSVJ4cGdfcDF4cw?oc=5"
-      },
-      {
-        "title": "Awaria tankowca w Świnoujściu. Statek stracił zasilanie, rzucono kotwice - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYV8tR1hYcXRFYUNkZHItekZ5dTRRaTZGZFFQWnVSRENwTi00akY2Q2lOanhhU09TTGZlYWViSUZnU0dLTTc1WGgxR1FxX0xLTXE0enVzemdyS2pFanp0ZFV5a0tsbFdQN1hFM3FqdW1ZaWc2SU4wX0gyVXIxN3R0YlVoM2FIMzJBZEFsOXBISGcxaUZfZ1Z4VVIwUFdNZFA0bTdCX0tlNUxnNWlySi13RUV2Nm4?oc=5"
-      },
-      {
-        "title": "Donald Tusk powinien podać się do dymisji? Wyniki najnowszego sondażu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcm9sZk0tSnloLThzUWRiN3BkR0V3WEpzRy0xV0ZBNUg0V2JUNUFIX0VpVDVLaDRoeHJFT1ZSSVZha2pSZXNqNUEzdnZkS24zeTJla2lsbU1WTXBKSHljOU56bmVFTXkzeTZOLTZrYkgySUJQc1FwckJFU2oxYjVqbkg4ZUNfVV83ZUxtTHF1ZTR5TkFzZGdFZzMwdjVWTlI1TWl5T3paaUxHTk1VcDNZMy1PUQ?oc=5"
-      },
-      {
-        "title": "Siedem osób w jednym aucie. Policja zatrzymała nielegalnych migrantów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0ZMNEVEakRoM3ZLcExyVFkyX0NaT0N6YVVRYktpMXI0SnBYT3gtUUtQcUtURC1BUENfd01GdHpvWnBnV2tHRGRFQ1IwN3ZiaXhtSHNzY2dlNEpLN0ZNNmVYYWczVDExYmNVWGZQS0dkWms0SW1EM0dIWFFDckNDWU9iZVh6eHRSRmRTOEhTLVFEX0xoYmJ6aVJvaHdTVmRpbW5GZW5vd3ZLNWJLekVGeGM0TU03bVBfMnc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-02 22:15:07",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2635,6 +2582,59 @@
       {
         "title": "Będzie okupacja Strefy Gazy. Decyzja Netanjahu zagraża zakładnikom - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcTYwcWhSekFaakJIbmxOeTJKTDYzcmpDa0dJMkx6SGNhTno4aGdwUzZxN0R1dTFsb3REM1BDVVJaUG5nNFpLbldFaGEwdjhORWplUk13U2p2clVuUnVTTTYxN2xVOXhvNlk1QkhMX0FUYlJIZXF0dWdabXZxRmdCczBubUlFMVo1X2xMVE5mX2t3ZlN4SzdnRGYyUFZrNFZ4cEU5RUR3Rzc0WDhWRjhuaHdnVDVSTXpJUmNhZUVDUmlnQTJvSGFSaW9hNk5pNW5vb2R3NGRubm1udw?oc=5"
+      },
+      {
+        "title": "Trump uderza cłami w Indie. To kara za handel ropą z Putinem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVF9FMFVrbERyRmhDdlp4Z1pMX211QVp1dlZ5Y2NPaWVfRFNnXzZjV09fSzJGdUFFdHppWXF4ZDB4MHJ3QlQ2STE4bmJQRGtlM0xhcGRuMDJnSVpPMlJKakJqV3BsalNuR2FENjEzVjczNjVIWV9lbUNyT0FFR2lNNGRBTEI4T19Sd2FuNXBfaXRiQnJxT01WZFhSQ3lOYXEzMjAwV0JUcUNhYTgySGhueVJCV28?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 05:42:41",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6977,
+      "EUR": 4.2734,
+      "GBP": 4.9091,
+      "CHF": 4.57,
+      "JPY": 0.024999,
+      "AUD": 2.3952,
+      "CAD": 2.6824,
+      "CNY": 0.5152
+    },
+    "crypto": {
+      "BITCOIN": 422875,
+      "DOGECOIN": 0.764087,
+      "ETHEREUM": 13518.36,
+      "LITECOIN": 451.31,
+      "RIPPLE": 11.25
+    },
+    "indices": {
+      "^WIG20": 2880.23,
+      "^WIG30": 3719.38,
+      "^WIG": 3719.38,
+      "^NCINDEX": 256.3
+    },
+    "news": [
+      {
+        "title": "Dramatyczne informacje z Wrocławia. Z Odry wyłowiono ciało nastoletniego chłopca - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWE9qNkN4SlRYR1dMLXFnOXdna0ZkSS1lNEVDWUVEOGtlMmJ1WURtbkM1RWNTLWJfN3Y1X2VUWU9wYWNLYkptYURscGxEQzNmQXdLd0NwMXd5SHdwa3RIdEF5elprRzdzOElRU2FraW1UZzJQOHJOaGRFUTJTelBCWWJWcy15cENhSzJKSmUybEJnM3BmQXY3Vnc4aUNONmkwVHdlVmJBaXVsUFFRQU9iTm1vdnAwTEVRX3ZNZTl1cXhYWXVnbnFkVHBCODQtdw?oc=5"
+      },
+      {
+        "title": "Izraelska dyplomacja oburzona słowami Tuska. \"Niedopuszczalna aluzja\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGQ2VmZMTDd5dE8za19qN0VWUmZLdTdrTUlfZFh2cktjTHVxZzFzQWpORmxPWnRwZDQwdGVDMTFIdkJIWWMyMlE2Q0pPMFpNRVJ5eXZfS0pweEZZNWJYcU5RSl9TNk8xTXo3d3h1VkZLRnBybmI3QnZDLVQ1X0N0U3JKeXRqRGpYZ3o4REV2dHdWUHN0ZnMzUGpPRUZRdk1TZ2xPMXpHcjRJZDM0aXZNYjFTRQ?oc=5"
+      },
+      {
+        "title": "Zwrot ws. spotkania Duda-Hołownia. Prezydent zabrał głos - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3VyVzlPbFY4NXViM1NaWGoxSjZURG9tWExQcG5HOVdyeXo1TUpoeXZEejVYVkJ4YTRmaklPY3l1b1RPa0kwQXBzQ0lQUWlMMm5tNmQtZFFWU1N4SFBvUzM3Z3hxV0dEVk5wQzFwa1h6NEk3OWIxM3FrZUd5bzVLeFpMaTNXUUN1ck9IZGhn?oc=5"
+      },
+      {
+        "title": "Jak będzie wyglądało zaprzysiężenie Karola Nawrockiego? Pełen program ceremonii - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFJKY1dqc0ZqazlIZE03N1lQSU5OZW43Mm9tWFgxUzVuZkxPUUZySlViZjVYT0pIcDZDbFNIQ2J6dGlDN2Y1Uko2NEQxUTFZMEIwcE1JNnJaM05yRURQSmdTYVpXUlhsWlhyV1Z6aXlZSEFGUGxfTjJPMDFZd2hCRDdSUGVIcmVaNHAtZDVPVUZIcFFoampLRnJQaTRtQXppbGQ3VTlFYUstSDhkbGtmX2dGLTJOYkRNWEwyVjZKSHg0V0Z1NEhDSG1Rdw?oc=5"
       },
       {
         "title": "Trump uderza cłami w Indie. To kara za handel ropą z Putinem - Money.pl",
