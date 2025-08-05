@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-03 05:46:07",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 418923,
-      "DOGECOIN": 0.7233,
-      "ETHEREUM": 12711.6,
-      "LITECOIN": 396.92,
-      "RIPPLE": 10.46
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Ewakuacja na lotnisku Chopina w Warszawie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3hmeEZLcTBtTnBrcWl6MzBlY0F0SkwzUlBDSDJGVnowS0MyTkxaMVF0dWZCWlRJclRxdE11bVdJVGVxX25yMnZTUFNFNEpmZ0lBQVdLekt0NG5jZXpLblJRUGdKOGc5bVAwQnZaQ3NCNElqc3ptRmJwRHVkN3lRZk8yWmVOS05EeUFDbTd6X1RTbzV1V0NENFoxcTdZMWtvY21LSjdnNA?oc=5"
-      },
-      {
-        "title": "Kontrowersje wokół zatrzymania policjantów. Komendant reaguje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlpXMEk2LUZJS25lZl9xbHJjOGVsbHdJYTYtTXppRmVnX2FKaEFSSmduOWg5R05wMjRkRjN1VW5tbDhmNmZOWk5IMlJtTEZCR2h2dFhRUi1qTDJ6Z25RbXBERVpBZnd2WU9vZ3E4bE1BbHhQa2JCcTQxSl8tblhxSlB6a05jZ21RZjBnWWt1TUNmYzNBYVNaVWdOQkFmZlNnZkp1T2N3?oc=5"
-      },
-      {
-        "title": "Palestyńska dziennikarka o zrzutach żywności. \"Czekają na nas snajperzy\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTNGSEhwOGRURlNNV05TeElma1ozS0dXWDRTbW4tLWRlZWNBTWVmTzl5S01HeTNSNFNrSWtfeUJtbmtkMFdHRDZVS2RBSWRSSi1QaFVKYzR0alVoZXNTWGpkeEtJaVVBdzFub21BYnhfdnpQZDZrMk1sSERaeG13TW5iZE5CUlhqY2dsN2RUUTVwNm5JbXNjWkRGa3RSNU1rSTlDbmpHVUNxYkZQR21pV0ZpQW1YSndBTGpBendFVGlvYkk?oc=5"
-      },
-      {
-        "title": "Nadciągają burze z ulewami. IMGW wydało ostrzeżenia - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFRISWdHcU9qNFd2b3VFdkxub3Y4WmxfaFpYSmljdE5oSVBJWDJqaFNjQldKNkp2LXFMTmpTUV9GX0pIYWlCdVo4TUFPS1NSYXF6V0IzNFlVbU1jaWtTMTRQaVJ4eFdwRFc4RWpGZTdhcUo1dVoxakVNSlNQd0dVXzJuNE84M1B1?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek reformuje wymiar sprawiedliwości. RPO zabiera głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjVicXJ5bS1RdjJ2LUo2Qk5GbkxYd09ka0ppMnFfTkwyaUY5V21NbFctUl9jcXY2ZnFKTXh2M1JaVEVOUmNHQUcwRjA3OEZIN2FRd1BoUE1qQXJxN3ctLWtNa1Z0N3h1bW9DeDBUeS1CaEtVUjdZdldFNVRMcnQ3TDF5UDhzY2x2bkZTejdHTlNQUGZxUGJBek5IUU5CTWc3MFdkb1JiVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-03 06:42:57",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Szef Instytutu Pileckiego chciał seminarium o zwrocie przez Polskę dóbr kultury Niemcom - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHAtQWN4X3ZzVEVPWWllU2cyeFQ5Y1ItTjdLNUdsLXRwdVVtQzh2RURnc2NqZVhLdkFvS2lEOWRkMjdUSE9DVXRTd0ZzRFNsUDhRVHZpRGRJN3NKZ0R5VDNubEdMZlh4R21jNW9MS0ZMeV96cmNQR2xIbl9SMDh2X3ZWaThGdHJyZXdBS1NXcTcxNEtwbjU0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 11:21:49",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6977,
+      "EUR": 4.2734,
+      "GBP": 4.9091,
+      "CHF": 4.57,
+      "JPY": 0.024999,
+      "AUD": 2.3952,
+      "CAD": 2.6824,
+      "CNY": 0.5152
+    },
+    "crypto": {
+      "BITCOIN": 423864,
+      "DOGECOIN": 0.755065,
+      "ETHEREUM": 13478.32,
+      "LITECOIN": 462.54,
+      "RIPPLE": 11.26
+    },
+    "indices": {
+      "^WIG20": 2873.67,
+      "^WIG30": 3713.0,
+      "^WIG": 3713.0,
+      "^NCINDEX": 257.08
+    },
+    "news": [
+      {
+        "title": "Siedem legislacyjnych grzechów głównych? Podsumowanie 10 lat prezydenta Andrzeja Dudy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnFhbE9BRDVwdS0xbnJUQTFnVE1ONHpQOU9XeDQtajFQUEVOMXphM1EzQmRJU3pMZkRuQzRWdlllLU40QmZWRHZ5ZmV4S0JmRGMzQXp2c2pxSmNWSkZqSXBFS0Y1bFNxWnd2S0tSMjFzTC0weEpxZ1hoZEhMWHFYZ1UwdWdaQVJYOXZoMEcxNUNQdUNXbENwRzFoZ09yRFplTlhkaUJoNkhpVHN1TVFnM0pJa0R3TGVGR085SkVDT1ZKY2NmclhaWQ?oc=5"
+      },
+      {
+        "title": "Program podatkowy Karola Nawrockiego. Wiadomo, kiedy prezydent odkryje karty - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzd3bEVFUHlvU3NtUnpZQnRTa3dGQVl1UVFPQTlXNm5RZW82cEUzOFNmZW1QTmtLeWo4TEJ6WHBTWjBxaVR5TUE1UVRROGJWWGRCZWxOSUxzQUFqZ0tXWG5OMnZWNHdiV3pUUjZsMU0yVV9DR25BcllxdmZTbVI2LVdheFRSOEcxelJTMWxjNUdFQ2JNVG9JOHdLa1NmeWNzdWRRQ1oxb0pHZFVsV1M2Sm1RcVUxdzdqV29UUUxBdEh3b2Q4?oc=5"
+      },
+      {
+        "title": "Spięcie Antoniego Macierewicza z dziennikarzem. \"Pan niestety kłamie, a to jest przykre\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDNqbmxwT0pQQXM4Zk9oSnEyWUdpX2lrNDVfN1pkeTlGUnpNY1FYRW0tU2ZvUHI4b1ktSWtDRmZqQlNOR3JNZURUUGt6akxxT3dYN2NaaWZtbkVnSEVacHVtN2tMYnNlSk1BLWV0eFZ5TGQxdS1OQW1NZldjRm5wZjNGc3F3Nnp2U3pQMmJsYVhJSzBpYTNhVUMyMmd5alNUZXpRZFhCMHduQXlDeTdVX0xZRXgxU2xjLWNBZXhQZDRjXzRPV0xKNE5JY1FBRGFHUFM0X1VVRlVWNHlsblJTVg?oc=5"
+      },
+      {
+        "title": "Daniel Nawrocki do Donalda Tuska. \"Nie chciałbym być aktualnie w jego sytuacji\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWVUMkZxX2hYbjZqcmhrRi1xdEVsaWQtWnUxeTRYUzV3ZWt5RGpMc0VsM0hlSjVqQjVXT1dsOXNMR1QyMGxjMXUyanhQclpZek84b2hCLWo3Sm4yM3gtSUVmaXlnTGExMnRkWjJleHNreVpLU2ZMby1JbFRGNnJsd2w4MXg4ZFBvcDdJVmh5WDY3dk50Ti1WdUVQY0JLQm9lYlFrbV80WjZXc3U4OFJwZUx1dHRCUjdMX0FWRDRqNDVVMzN3RTFaMjcyM2FWeWQ2QUE?oc=5"
+      },
+      {
+        "title": "Żona Andrzeja Dudy nie przejdzie na wcześniejszą emeryturę nauczycielską. Musi wrócić do pracy przy tablicy? - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZDFKdW1zNVA4NWF5alRSdU1MalFWR21OQjU1YnFEUnBCVDJFMVF0SDExSmxaTDhXY004WnhfQjh2TDFzckN1VWJudHAxajBTeURhUFluMEcwUmJ0bEtBcTVpR2tEUzJSdnFfRm9EeV9mNTE4eEVERlpXRFQ5bG93V3VWUTh0ci1yS0NabE1sYkRjdHp4OFMwTG10U0lvX09kVzNuUUxDZGtDU0F5Y19IOExZYV9WZUg4ZGJSN1VpSDFucFQ5Vmtta0ZUX2J1Wlpid25uUnpSQXZFdlc0UXFhX2lCVE5pZnfSAeYBQVVfeXFMT29zWmJqWi1wYjlObkxzb0lhUklVWVdRcmNhalJZdTdSYklGaE1qUDRzZUtNMUFXeDFVWFJUWlhTdzVTc0s0U0ZtYTZKLXJGWWc5QWpFdllkS2JSOHc0a3JWd2RacDgyVnRVRlNNU191cVAzLXFyWjVCWFdPZktKRnhuWENBeWV6dHg5RjMzUVlPZFlPSGZBZXhvQnVJWnJKYk1XUGxGWFBHMk9UdjlqTGVyVVh1VFdXal9kUEpRUFVyVmd4TXZDb0hWbUxYYXRoTXMycVVoZkRDRUh4SEVMdHlYWmY3LXc?oc=5"
       }
     ]
   }
