@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-03 12:14:38",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 419115,
-      "DOGECOIN": 0.728632,
-      "ETHEREUM": 12791.1,
-      "LITECOIN": 405.0,
-      "RIPPLE": 10.58
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Ukraińskie drony uderzyły w Soczi. Płonie lotnisko - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnRPdWxsVFhuMVZDaXY3TlVHVG9iUm5qTFQ3aVlxaFNCdGNVY21KbGgwbWpzMlR0MTltTV9LdkhIQzFlc2pGMFN3VjBhTkVNOFhMQUZwX292eVFvalA1dXhoYTNKRzN2YTVOWlhVMmkzeURHWWdNVHAtM2hCYnlubEE3MVhyMVI3OEZXcDZ0TkRPTHZjTnhGWldLLW0wUQ?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w Rosji. Władze ostrzegają przed tsunami - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZG1OdGRlMjVsZUdvSHJqdFo0cHo1QlNBdTdzejViM3doSnBiOExiQ2l3cEVYWFQ1VUk0S0o2S3c0LWJLOFM4cGtQbGthSWEzQ1FwcmtCdVdvV1lYeDNsdlFzaG1wa19WMFpBZFRNcm1UT2diMzdmX0NScDB1TmtaWWJfNk0yNEtMbXR4TkVlOFBKVDA1cDFMSnAzd215WFpYQ2pRZTVkWk5sMnh4Uzc3di1NY3l0cFJ3VUZJ?oc=5"
-      },
-      {
-        "title": "Ilu cudzoziemców zatrzymano na granicy? Straż Graniczna podaje dane - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3U4dllhdGRvTnAzN19DX1FpN3hTVlgydGVqYlAzVjc1V3pRUGI3Q3ZQWHhwUGJGQ0lOaTVyak9BNzBCelgwUE5qMkNzcEhnVWhzLXpCUFNZMk1wcmdsa1BRR2g2cl9oam96R251eTAyZlRyT192anZMRUhUMWhDRU5pYV9hN0tlZVBVaTlVa2tNLWt2eHFNZFNTOXh5Nkd3bnN4Rk52ZXJyNWhUdThqcDVGeXU2WXM?oc=5"
-      },
-      {
-        "title": "Kandydat na ambasadora USA odpowiada Radosławowi Sikorskiemu. \"Czy zrobiłaby to Polska?\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcll5d3BPR1ktYkhCVXZnazhVMTkwVzlUX0pOQ2FpV3AzdW91RVhBSlplRHU1YUtqY0EwRVBiQWVHSzJ1YXJkWFViQjZfLTE3SVdPZEtMR3RmMDRIVzNfT0kxeXV1LUsweVhZaEJsVmx2Qk42a29xdDNoaGdsUVhiQW5teUg1NG1hdlBfVlJwUS1ycFJvQTd0c3VSTjZrR0x3NXBfeE1VU1A2U3I4UHg0NWk4MHFQLUV3MmE2V3dR?oc=5"
-      },
-      {
-        "title": "Duda: To był jeden z najtrudniejszych podpisów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGN5ajFqaDB5Nmx3N24wY0Z1eTJ2VXY4S2xzX19Kd1JLcnhuc2N0QmJhc1lNazd2dVVmQnBIQkJDNGszVXl0TGNyZGdHMjdrNG9GRTdZOW5DUUdNWGk5Nmt0YW9aWlhUeDJRc1E2MVctS0theTdUb2ItcHpSbXNHQ0hkUXJveERpNTJQcVBMZ2ZXdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-03 13:12:54",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Postrzelenie człowieka w Iwanowicach Małych. Policja apeluje: pozostańcie w domach - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOV81TF9vSVdvYlNrVzQ4ejhCV01zR0ZTaXpZT0pKb0Rnemp4bWdmTG45eW10X2UzOU5OQjR2cVlPZGdhTUdKUXJDRW1tbjZmTTVzT2hCenlEN2FRQkRMRW5PMkloRG9yTE5rR2xSdjhzblFSLVl2eWMwcjYzZWsydkkxZlNIV2JlSnVKY2lsRUtJT25SOTJmLThMTEs1Umswbmg1bG9RSk9RRGs?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 18:16:21",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.7066,
+      "EUR": 4.2763,
+      "GBP": 4.9226,
+      "CHF": 4.5702,
+      "JPY": 0.025116,
+      "AUD": 2.3919,
+      "CAD": 2.6847,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 418486,
+      "DOGECOIN": 0.736396,
+      "ETHEREUM": 13253.29,
+      "LITECOIN": 454.09,
+      "RIPPLE": 11.02
+    },
+    "indices": {
+      "^WIG20": 2865.63,
+      "^WIG30": 3706.07,
+      "^WIG": 3706.07,
+      "^NCINDEX": 255.7
+    },
+    "news": [
+      {
+        "title": "Zaskakujące słowa Agaty Dudy podczas pożegnania. \"Jestem najszczęśliwszym człowiekiem w tej kancelarii\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWEybmFxWUFXVjBkQUVGUEZFUl9CTGpwMXFwdWd2YkhHQVMzZ2pzMGc4bm9JOTRxNnJRcDRzSmdxUlh2V3paRWs2MFgzNW0zTU05bVVKeFgtbnhydzVJMlFpS3RYdDZlUlFsajJ2U2ItMDFZa0xWZVY4WTJNcnYyWkgzLS1SbERVZzg4QTJiOFN4NjMySGJOMnVqY1JLMjByaEE2d0JGMWNqZkhFV08zX1FuZHRzbDR6NlVYYk5veUtNM1hmSnJaSFhyelpRTkk?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki obiecał Polakom tańsze życie. Wywiąże się z danego słowa? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0JTUllaYlBCYWx1SE9Eelh5ZU5WclFLZG1zODVKaHo4NDVyQUtDNUZDTExxdUNEZjVMQ1ZpMlFnaUpLbTFTU0RhM29UZGNXWWVoYW9VUFU1NWZPaExfSFp0b05Od1hFc19Ua1hhSVpqNUFQU3hmUHFpXy12MUt5T3gwWjZyb3gtVjIzaDlGU09aSi1hODdzd24tdEpZWG5VZ2xDYlk1RGpTZEpyc1FGOGtSYWlMUXFtOW1wN2RXRGFwTHhHRjRmbm9n?oc=5"
+      },
+      {
+        "title": "Sejm zdecydował. Antoni Macierewicz bez immunitetu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemstT2NlaFEwSXJOd3lsdExMWVlNNEF1aXVNU3p6WHFzTVhraC1uOVNrQlB2Y19YNmh4MU10SjFKc1ZPa1V4cms2RnMwLXFocW5XR1NjbHcwT2c4dVJPTFZmcGZCR2FlcFBCeXd4N3RFbk9yYXdtSVBZc1B5b0pjckZ6STlrektOdlN2X3BPZUZtamRWNkFRNEw2ZlowWnNKZ190eDRDVQ?oc=5"
+      },
+      {
+        "title": "Pierwsza porażka Żurka. Sędziowie odrzucili jego wniosek - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObld0bDRDOEVERGUxcUd2NUp0Z3Vla2pRY3NTRFlLN01uUmZmYkRUYVZWOG9pUlNzT3ozd1RkSXkzUGQ1SHZfNXB0M3JVVzhtXzNiQm42NmJGdEtkakhRSjJXem9PM09LYkJJYjUwUUM5aUVLT3Q4VldnQjdqUUNsdU1lRm85OUpIalBPUHRGdXcxTjgwck9tMmU4dzV6aVk?oc=5"
+      },
+      {
+        "title": "Dramat we Wrocławiu. Ciało młodego mężczyzny w Odrze - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcExLeDR5azJvUkFxYjhPZ2xWeG5FVDk1anRlVGlNMDM5V19zaVFUcmdUd3c3T19FNklPc2VGZUR5Zk84eXlxUU9rWW5Na1lkcnpiVXgtOVNRSVEtcnRaNThJVkJVcGZoYjlDaF9KRENxWUs3bjhaRjRCYkZFbTJoNlBMbm1MMVdzVVVaeFE0WkpPUFJMV3hZaW1IVFlTc0Ju?oc=5"
       }
     ]
   }
