@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-03 08:20:34",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 418459,
-      "DOGECOIN": 0.719995,
-      "ETHEREUM": 12684.07,
-      "LITECOIN": 396.21,
-      "RIPPLE": 10.44
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "Ukraińskie drony uderzyły w Soczi. Płonie lotnisko - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnRPdWxsVFhuMVZDaXY3TlVHVG9iUm5qTFQ3aVlxaFNCdGNVY21KbGgwbWpzMlR0MTltTV9LdkhIQzFlc2pGMFN3VjBhTkVNOFhMQUZwX292eVFvalA1dXhoYTNKRzN2YTVOWlhVMmkzeURHWWdNVHAtM2hCYnlubEE3MVhyMVI3OEZXcDZ0TkRPTHZjTnhGWldLLW0wUQ?oc=5"
-      },
-      {
-        "title": "Pojawiły się nowe alerty. Jest najnowsza prognoza pogody - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWC1uMnFFMHI4TWU3a3k4WWI0Nk82QzdwUGxjd1didFN5ZUdTZHlxT3hlT3pIa3ZQQkVDRUFRUERxcE1xQnk2NEhvMXpyckIwRVM4X0RveEpzSG1ZY1RUR2pBOWpFSzhZOUFoZkpZUTE0VkdXMHBCTXJGVldjcXAtOUQ3VlB3blB6UFZyTko1a2FZN1FfYUFRc0pmelI4Mlk?oc=5"
-      },
-      {
-        "title": "Komendant Główny Policji reaguje po tekście Onetu. Chodzi o zatrzymanie funkcjonariuszy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzliU3BRb1VPUEdNRURBS0tDZzM2Wl91VGlNNzB2Y0xZWjNVU0VuQVNSZzBickpFcEhfR0VzX3ZSV0FNQjdqNFNUdng4c2RBWGUxVXJKZF9RTHlhTldVLThMam1KNGF4VlRNMWN4T1I0Qi1RQWJZS2JQODVfcEJvV3B6ZzBOaWxVYkJiMC1hZVZWMEVrNmhSWGJkU2hFOWNIWkdTT0tlS2I0cVFyVDJDWEUzc0ZjMm5hbm81NXJFWVlQbEgtcm9rU3RPc1UwZw?oc=5"
-      },
-      {
-        "title": "Wielka ewakuacja lotniska Chopina w Warszawie. Akcja służb - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbm4zUVJOUlB6TUxnZ29YNVBlck11UHY2X1VXSzdOa1BmckFWM090RXVreF9wR0o1dTZaQ291NzBWLVRyb21TdnAzeFhXbGFaSUp4LWg4bkRLTzhSUF9tY3FCbUV0X3JhZlRuMXBTdHBXellHVy1TNFBxbmctTDlnRDVqOElXNms2WnBrSXBZN0FyZkFZYjYySFlhdEF6MllWZVc2cGU4YVZVY3F0bkhZ?oc=5"
-      },
-      {
-        "title": "Okręty atomowe USA bliżej Rosji. Miedwiediew zapalił „czerwoną lampkę” - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWi1iV1pKcDFrRmd2WFZGUXFvYWlfVEpnWFdheVpCQ0RnYTdKZHZ1VFE0ak9qU1MwY2M2RUQ3V0NBMjdPR29Da1M1VjV2MTQyTEJTcFlIeHhKTmttQkRzTjU1RE1oZEI1N0FIeWlFWDZCMVlLU29ORk8zeGFKVzFPc3doY0pFZ3B3ZkZqMmhIQ3pVVWk0OTM1eThB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-03 09:14:08",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Kwiat o zapachu gnijącego mięsa. Dziwidło olbrzymie ponownie kwitnie w Warszawie - o2.pl",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3U4UTc0M0NQb2s4UlFTYXFuWm5uNEJiU0N1TkRjakItSzNqOEI5SzcxTVRZWElnaFJUanR6TVV0dFgzcUF4Y1RHOS0tLTFwSlJWS3NnUGRTUkNObkx3WnNaSFV3ZU5HRksyaE0tb2hQZVRvU2JyNnFvVC0xT0ZtLUdXMUVURWFKVS1GeU5KNzNRSmYwS0VVZlpKa0JzckZ1US1xMklXeU1KNXFmV1B2RDBBNWY5NnNYNGIzTVVLb0F5eHph?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05 14:32:38",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.7066,
+      "EUR": 4.2763,
+      "GBP": 4.9226,
+      "CHF": 4.5702,
+      "JPY": 0.025116,
+      "AUD": 2.3919,
+      "CAD": 2.6847,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 424492,
+      "DOGECOIN": 0.761396,
+      "ETHEREUM": 13556.68,
+      "LITECOIN": 460.74,
+      "RIPPLE": 11.29
+    },
+    "indices": {
+      "^WIG20": 2876.83,
+      "^WIG30": 3719.08,
+      "^WIG": 3719.08,
+      "^NCINDEX": 256.38
+    },
+    "news": [
+      {
+        "title": "Andrzej Duda odwołał i odznaczył ministrów swojej kancelarii. \"Jestem ogromnie dumny\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbENoTEg0bUdPZ2tjT1V5dGYweDlXblBzSUlWTFlRSkZ1T0FHV2xTRXVjUENqVXBvTjdDd3NpU2xWTE9hem8yVnpMUHB2QzctMFdDNE40dFVKRlpGQmRqaTVTQjJoS2xmMXYyeFhZU3dJcWhNcEpCc2M2WFQ4UmhDeWpRYWs4WWN4Q1FVNmZhUmw4MW5Femp5TDhKemVBUG5JdTZkT21abnNLazFBWDVMaEdGN1VaRE1ydGlOSTVYWQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki prezydentem. Najtrudniejszy start po 1989 roku - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT1RHcDlXbFY2QTZ2ekE1bWVUX0ZfcFFCcU1ibUZSdlJZTk4yQVY3YzUtcG41RWJVdmxQZU1ScWp2VkJvWkl6Yy1nQ1lHM2FtdWNNQ3MyNzR6SzlvN0ZCWVg2V0FicGkzaWRidWNKSUE4cVlycFN1NFZTejQtU0toVW90djRKTXpId1ItU0NHa291TTVLU3FKamU2TjFncmZpU2I1cGdrbjdzaFBxU1hpQ0I5T19waDlSNjN5QkVxdUdmczlyNnJVMmp0Rk1JN2ktNl82S2Q4bjYzUHhEekp2aW5RQWl1dlo0a0I4d3B3?oc=5"
+      },
+      {
+        "title": "Tak uczniowie zapamiętali nauczycielkę Agatę Dudę. Uwagę zwracają dwie kwestie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUXVmQkhWVGJUckoxb3NrWU04c19mTnFhUE1yU3lpMHhMNVJOM3d6cldrbngtR0FEdnc3ckxLem91eDhXampTOU1wam44M1FBc1lMRVlwZ21FdWktSm45Szd6c2ZUUDVUN3hwcVRtRXNGWkVHRUxmQnRvWDdpMWlLb1czSnA4Y01vcjd3Vm83SEtjMTNTelVTcmt2cU52cjhuck5sd001LXhrNUtPRVFyeDVTeGhpRUktRTFrWUVTOHp1cl8yblFr?oc=5"
+      },
+      {
+        "title": "Strzelanina we wsi. Trwa policyjna obława na sprawcę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0JCakN4SllmQnVpcTFheGMzUS1CXzg2aFQxV3k1ZUZSRnltZUpvV3pOc1hHck5zV0ZQNXNibUxYeWZWcHRPaERVTFYtUTlQOVRndmk3Rnk5bnUzSkZxNzFHeW1WbFJZd0l2RXVrOHpTUEhQRXZLRTJOR0NMdG9ldHZMYWFPanAtMXQzeGRzZUVwTF9nY0E?oc=5"
+      },
+      {
+        "title": "Pierwszy sąd stawia opór Waldemarowi Żurkowi. Jest negatywna opinia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEhYWGF5UFFNWkFrTUVHS1JPUW5ENnQ4c01KeVZLNUhva2ZjSmIyMnNzRDBmWkloY29KcDdveDdRUEFoeWVyWDZVOEZsZHRvVXVvQThLazFiREw2VGwxREZUQjVjTF9uRDV1MXhuTV9yUThocEtDQW8zdzRxQ3R6YjlfMmh5QTY1NE5wZDdObWJEMmUyTVYySmF0ZWw2aE5jNlAtZFU2dEQxMnpXNTZrb1VYSlpIVjhPQVl4NWhnU1V2bG1DZ1hSYw?oc=5"
       }
     ]
   }
