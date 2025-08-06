@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 16:19:30",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 425512,
-      "DOGECOIN": 0.759194,
-      "ETHEREUM": 13478.56,
-      "LITECOIN": 439.61,
-      "RIPPLE": 11.34
-    },
-    "indices": {
-      "^WIG20": 2871.85,
-      "^WIG30": 3708.49,
-      "^WIG": 3708.49,
-      "^NCINDEX": 255.7
-    },
-    "news": [
-      {
-        "title": "Trump wysyła okręty, Kreml odpowiada. \"Wszyscy powinni zachować ostrożność\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa09hUWNXUzNwZjV2NmdjdEhRTHZ1NHowVmZkckNfcnA4RXp6bzk3Tnh1d2lxTEhvT1doY3Z5djhCdVFMT0Q3LVJiT1J5Y28wSm1ycnNZUGZ4dHB4aEdXVlJnT09FYnNkdi01WlhnR0dDOWZ1LWpkRjVsQVNkcHM3ZGtUZWZyYWlFVUw5cTJ3bmg5UXhCeXV2bTJ2V3o5Tk1ITkRjX0ZKY0hPMl83TERRT0pweXNJbVZs0gG3AUFVX3lxTE1VZ096aWI1clRxNmxta3J2ZlhxRmtXTl93eGJDdGhrV0JrdzBrOS1aTkFuMm1yeWFQSlJLXzBiMnVQNEs3NEJjZlFJU2RpMTR3bnFIRW1fRVpxMWhBNGhfbEJwQkd5Yms2emRZd0hYdFVNRnVQb0UzV0tZSmF2V1hDZFVORm14YXdRSmVZbzBzTWp2bkN6RDUteS02Ul9PeGpEYnFPZjE1cno3bXJ5YTQ2VVdGNmtBTQ?oc=5"
-      },
-      {
-        "title": "\"Z niedowierzaniem przyjąłem tę informację\". List obywatela do Karola Nawrockiego, nowego prezydenta Polski - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa09rRzhLMWg4a3MxVTEwZjRnb3pNQnc1QWhrVWhvVWdxSWg3NmZBeGMtdWQ1ZllkbjdmTndTakV0MWhyejdkV2N3a29hSUVYTkhrMnN5OEhJTGgtNnlQczRITmRCUkdBcE45YjBUWEJWcUQ4TmFKcVN4d1MzRnNPeDhXMHZMRFRHajRuLVQ1cExockFnLXVTYnktZm53c1NZR081UnZFU3huMkhDWFdmWkh3UUcyaXVfZTB0Tg?oc=5"
-      },
-      {
-        "title": "Chaos na Litwie. Afery korupcyjne zmiotły premiera i rząd - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXNsMDdUeWVpWlFMdWZSdGpWNUxlYjl4b2dUbGJ6cGE2c0dZMUEweXpiZHZBZDRhbVhzNFpQd2tFZUVmTENqN3FBRk9EVEdrZDgya3BrVHlaal9RLUgwWHBfUWpZSjZfcjdTWDhqYWNvUzA0SDlYMkw4ZGNSUFJoMmg0NTdwYnhBdF9Yc0lmcGtteGtzYkktOEVaX09BYlZjamhWUkJ1YTlVUUFKN2VGSmRiak5mdHJpN29mUFdFN0VBRjJS?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki kontra Donald Tusk – Polacy nie mają złudzeń. Wyniki sondażu szokują - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUxtX0xjTWMxNE9TTWkxdXQ2TnBVR2xmaER6dVJpR0NBcEIwNTczaUVyanZvUERwSUZfZXdja0ZrTHJVRkQxelFPX01IQWtSQXZiWnNZU2JmaHplRzlXa3lPLTZsam4tUDcxRzlrU2ppaFNiclA1elZ2Sk9CWlZ4RW5lWXJOSmh5RGpRYm5ZbmZWdnlKc0ZjcmxtQUw0YzRKSEpmMEN1TGRkMzZ2NjNGc0FYNHY3dklSWE84SWVSeXctbWlxRHc?oc=5"
-      },
-      {
-        "title": "Makabra na kampusie UW. Jest decyzja - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2xoeG9LTVhRcWFtMGk3aHNpbWx3cnJOVmdLVl9JcDFVc2FiYVBXelJUNjJOcG5SdXRibkc2VlJ6dDJlbnd1a1YwNHBLR2RReEljSVhqU21tcnJUY2hTdHNjUzU2LVVKVjBVZ3BveUFzWjZXbFV3ZWUwZ3d4X0RwbzA5Tm4?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 17:17:11",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Indie ukarane za handel z Rosją. Donald Trump ogłosił decyzję - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVBxeXlRMG9KbHZOMVRUSVl4aVRUbFJicVdIZzExdjRRVDRwTUxHNG9LbEVkWF9iWVhfdWlybm15WGFVX2xMRjl4a2JZaHcxLWtsR3h0c3lxbmFDdTJ1cG1Bd2hrUmxacHRIOG5HU0s3c0RUaFlXVGl0dGxwTHJsdmpmb05MekhhbWNOdEo5S2drZTcxeDBxMHYxUDMyWnJkQXhyWjJBYS1BdUJ2aGtF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-06 22:16:51",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 422487,
+      "DOGECOIN": 0.753536,
+      "ETHEREUM": 13484.14,
+      "LITECOIN": 439.75,
+      "RIPPLE": 11.02
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.95
+    },
+    "news": [
+      {
+        "title": "\"NYT\": Donald Trump chce spotkać się z Władimirem Putinem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTdHdWpzZVp2MlRnWkR4WFh2Yy1sRGhtLXVma1BXaDNDa19NaFR3XzhRVTZyeXZWVl9MeG9TZkpUdnNsNFpvcGRxN25TVlJJbUhGVXRmVUZCelVrdlpXVmtvXzhTaDh1WTNiNXhuTDN6bkdtYzVRZ3prV013aDFVTnFsQy1DNVBRVXhFN3dyOFNVUTZZTWJ0TjdUd3U3QXpha2xZeVhWWEZVOXFXdjA2emRNWm5UX3M0?oc=5"
+      },
+      {
+        "title": "\"Rzuca wyzwanie Tuskowi\". Brytyjski dziennik ocenia Karola Nawrockiego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXdSeFZGQXU0RmhlYVVESFdQQkp4Y2FEaWpNakVnZC11eDlCa29yVzdqZGozZmtQX3JISEVEZWhLaW5FT3JtcjZ5cG0zNzJJYTgwZG9nR1ZDcUhubS04aE1lbF9kX1ZRVlZoNXhMM2t4eFlLd1BHeGR6VGpVLUhkdUp3NVl3R0lROE45QV9Wa0p1UlE0dXdLazI1WEhyRzNZdTB5T0VRbmxXd3JpUGw2RTdrb1c1NVUxTy1SbEp2OA?oc=5"
+      },
+      {
+        "title": "Krzyki i gwizdy w stronę Kosiniaka-Kamysza. Tak odpowiedział zebranym - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk5CdjllalZOUmllR2ZLVmpQYkZPX093dEhXd0dGaEVCcHRrc0pLRUV6ZDNZWVFDNGFkOUU5OFFiRXRkSDlSd3kyS0VBMF9ya3N4X1AxX0xEQzZTS1UyaWFNT3NUZjlLQlJ4ZndZeVVYd3BOSmJDUnpWQ3diS0lFZ21IX2Ewclc5THhNaExmclRXbDVhNml1bzNqMi12VGs5RWlLQzRLdHYwMHdfNU5sVU53OUo2ZUE?oc=5"
+      },
+      {
+        "title": "Steve Witkoff po spotkaniu w Rosji. Jest wpis Donalda Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmppaUNNcG1MNXQ2ZHo2ZlNQaXdhUmlTRDB5SmMzQ1NXMjFrV2lmdHg3TS1iLV9WcEh4YjN2NWFpRnFYQU9LeXpYRzNIVjM3MDlVQ2hyTm5RR0N5Mm9Cbm92N3dIT2F0Q2xHT0t0blJCNFNIWm5ndlYwQmNzUHcwblctQ0Y5ZGxXZkVEcjYzSEg5cTJZRE9SRFBsampBVWhoQm1DMkJJWHM0SlJPYnc?oc=5"
+      },
+      {
+        "title": "Dzwon Zygmunt nie rozbrzmiał z okazji zaprzysiężenia nowego prezydenta. Powód może zaskoczyć - Radio Kraków",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0ZmYk01c25PNTJjaEd4Z2FPZTF5OENLcm5ZTVVycXQyVHBUclFqbk5vUnF0REJ0TGJobm1HOTRwSW80MGlTQTMxX1NEYmhYaHV0VlVfMmZkLVJocnduNU9sNVQ2SGRveThJOHEtY0RELWN6Q3FBRjAzbHRFMmZId2NadHdIcFY0YWlMbEtsLXBSZmUtTi1UUEJKUENaTTRRQV9LUXh4MGY3VHR5SkktSGp5VjlqcnJCY3hYbzRXUkdGSzdMdFQtUldGMW5CZWZjbjFwMQ?oc=5"
       }
     ]
   }
