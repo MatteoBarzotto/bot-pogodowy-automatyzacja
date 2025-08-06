@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 11:26:07",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 423581,
-      "DOGECOIN": 0.747598,
-      "ETHEREUM": 13151.53,
-      "LITECOIN": 414.03,
-      "RIPPLE": 11.1
-    },
-    "indices": {
-      "^WIG20": 2861.38,
-      "^WIG30": 3692.62,
-      "^WIG": 3692.62,
-      "^NCINDEX": 255.42
-    },
-    "news": [
-      {
-        "title": "Wiceministra odchodzi z resortu sprawiedliwości. \"Złożyłam rezygnację\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzRzSm5uejFJbjc1LTFITE51SVhYRFVma2VJU19UTmhFZWJGVGxVWUFCZENESkVnUEJkSHBTRUxIc3RnUUJhNlVTZ3ZJaXZRdEVzWmZacFd4dWdhLTd6X3R6RGp1MUlQNnNEQXlDSHB6cGlBUU15QUxSVmVYVTNnU1BvR2hPUl8zRjV1Z1BqelpIS082d2JRN0hRTGR5Q1R6eHJ6MVkyNndJWjBrb2NOdTdDOFFOS19EQjZlQk4tM0JDcHc0Tm5kTFFn?oc=5"
-      },
-      {
-        "title": "Polityczny wstrząs u sąsiada Polski - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdmhfY2I5dzd0aVo0Uk5xM2VDVVJLUHNzdkZXTzVPWjlURS1RMnJPN0lBOWNMY2FZTEV1bzEtMGFUZjFwT2U1QkxZdFljYjZJX05rSWFNWVQ4b1JPdFRqb2E5NWhCWV9PbmFHWHQyT3B3dmdsSkRiOFFuT3dlREFLWGpNTWF2UGxMWXR2Y2hhOExXbnhi?oc=5"
-      },
-      {
-        "title": "Sikorski odpowiada Kaczyńskiemu. \"Całował mnie po rękach\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdThTOUoxVkJuX0JfeGZEZnVDRlpfZUJPYk53bEotd3NFZHZfZy1tUkJ2NThoZEctTEd1LU55YnBudjlURDVydmhIUGtGSm5rWTlpeTBuaUJtdW9kYjJtY1lJU2I5ZThMWkt5OTVMUW9RTU8wYVFiUmhHakFKLWxJRVN3NmlhcEhRUlNkbWlhU2NuUzBicUdkejVlWUZqQVY0M1E?oc=5"
-      },
-      {
-        "title": "6-latek bawił się na torowisku. Policjanci zdążyli w ostatniej chwili - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTZ5V3JmUFVmUFhBVENhMWticFlXRGwwaXEzMFFwMTJiVmVOMVZIRm5oNFZXLWxMNzNvR21qbkZpbHUzc1Ztd1lVa2VCUm1MU0o1eWJCSVdNUEktWm90Yk1QWVRLS3dJVVBsWWtad2Rta2VoajZ1SjdoZjMxZ3c3eHZuNFFNNjd1dW8wQ0tsRk5rVlM5eWNTRFFiRFEyNWpGeHNkV1V0Z3V2X2RBTGJpakVnQjN5dw?oc=5"
-      },
-      {
-        "title": "Andrzej Duda wróci do Krakowa. Tak reagują przyszli sąsiedzi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JLU0pZUDVta2pvNEQxaDFIaXBtd1VROGs3RDk0cjVqR3BrM2hqVXpjZV8wX3dPc3U2ZFhJR1U5WXlUTUFNMGdYcmVmTE1QTEVnbmczeURCclJSNXBteHYxcEZxbHNjaWN1ZENjX2NaN2phWC04OUxOZUhKUUtiNzdOZi1mbEZIX20xNEh3YlE0SllTbGxGTUh4V1hJRC1lRGhieQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 12:18:30",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Robert Bąkiewicz usłyszy zarzuty. Ruch prokuratury - Onet",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1V1UWI3N0FIeWNKelRGX0c5SGZTcUtjUGFkeEJjRDA4cWl1SmNaNXIzV09WM2h1WUtZT2g1ZTFFNDZJeF81ZlNsLTlLTXRDWXo1LUcxcGNFQm1PcHFrME5HVUtDYnJNOVk2YUhlUXpzVEo5eTlCUDBBRjlDM2gzbUdlal9qcEl4YkFoVjFjWXdkMFc3QVV1TTQ5NFJOQllnX2xLTjlGRWEzbmJXWXV2MmlR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-06 17:17:36",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 422629,
+      "DOGECOIN": 0.745467,
+      "ETHEREUM": 13326.42,
+      "LITECOIN": 429.87,
+      "RIPPLE": 10.94
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.64
+    },
+    "news": [
+      {
+        "title": "Andrzej Duda powitał Kasię Nawrocką. Znamienna reakcja dziewczynki na gest byłego prezydenta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTdGb2xTOXBycWVLQndIQVJ5Q3NqZTlGc2hnY3p3R2p0UlpldkVwVy15MkgtQ3UybS1sZkV4MnhjSHgxSV9kb0tMMUJNbFM3Rm9xb0NCdTZ5MG04bTlZUVVvdUoxX3JlSFJON0drdjBteS1iQmpEZ1J3dV8wUFphS0dFQ3RpUkxCY1dadVhWblpZQ3NqQTA5bEpLYjJDWjlhU0Vtci1IM3NSMzE4S3Fib1VNY3hwbGlKeExtZzN1UEdheGV2ZzR2dS00WVBiNEU?oc=5"
+      },
+      {
+        "title": "TK może być bronią Karola Nawrockiego. Rząd Donalda Tuska w żelaznym uścisku [ANALIZA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXpWUExtRjE4RVRaZFJMUTJFcGZIY0tfM3FwY2g3MmFnNUZmTFh1QU9OSGhVbkRxRmJIbXdDX0hEbXFmVlVNUHZYVEhrVzFKRnFnNnZmQTZ0Q1dpZFBFbTRvZ2lHM2RGWUJETXdMY0U0dXNPY0RDNkFEU0RJRjlXOGdnaFVEVjd1N25DOEk2V1lrLXJraU5ocVNYRFVFbFNoU2VkQTBjaXZBUC1sU05Zb0Fua3lTdDFSZUxn?oc=5"
+      },
+      {
+        "title": "Agatą Dudą targały silne emocje. Ekspert zwraca uwagę na białe i czerwone plamy na dłoniach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVptZzZ3alVWS0RNOHMtQTFMLWg1Z1JWQUt1RzY5STNxNWgxb0pqRDRjMzJub1FOWXM0TnpqazhQSjV0dHlnU0tTT3BiZWVieW52X0N6OFQzUGtxUzdQTTVlY1NhaGg5ekd5R05meXp2ZC1lSUhtNDV6eWJycmpKalBQeVZ4d0NRV2V6MVRZakFiaEFpanozdEZWLTJPZG1uQkhRcFpScXpNVlViNkxpeDc4b3AxVTBpTkVuNTNRSm9FTFJsSmJYdGtRZXV3NHR2?oc=5"
+      },
+      {
+        "title": "Klamka zapadła. Będą wyższe cła na Indie. \"Przykręcenie śruby\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXJKcnA1LW1KMGdJZzNCUFQ4bDdmdmVybnR6bDhJbjJuRmhoSmhoMUJFLWdhZXM2a3RFNTZfSlIzbC0yRlBxSXZNVTZhNkVVOHZlNmpFZURWS3BYM2FTVDk0Q0xDTF91R2JKMTgyWU1US3h6WXVYekRfWExleXgwY3BfS0tkR3VCQ2tjSHRlanhSNFVWb1EzTnhn?oc=5"
+      },
+      {
+        "title": "Zwrot Donalda Trumpa w sprawie Ukrainy. Plan może posypać się jak domek z kart - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkR6ZUw0M1RzampYRWxycnF0ajNpYjM1LWM3Y29FMEJYNXhmSTRtMDNqUjdqNkhqZXdoNS00NF9rTjZKSWk0enRTM1kxeG9xRV9jWjF6UkVBTGdBZUs0bGZLLW9UdFEwTURXVmtmWUFDRGpiUlNrdENOb2J0VW82MXpFLVVhTndZa0hEWFFBWlBmeHdkS2M2Wl9JSk1MTFdfSkM4S3o2NUFGVTNROW0yWlowQVlKVmJYYW5j?oc=5"
       }
     ]
   }
