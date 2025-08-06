@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 09:24:14",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 423176,
-      "DOGECOIN": 0.746873,
-      "ETHEREUM": 13085.74,
-      "LITECOIN": 412.95,
-      "RIPPLE": 11.05
-    },
-    "indices": {
-      "^WIG20": 2854.55,
-      "^WIG30": 3687.05,
-      "^WIG": 3687.05,
-      "^NCINDEX": 255.44
-    },
-    "news": [
-      {
-        "title": "\"Dziadek dzwonił, babcia się zabiła\". Dlaczego seniorzy nie chcą żyć - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVC1TLWFuS3A5cDl2YUVTa21fTHRtQTBxdWhVcC1EQ05yTmtOYUdBRlV5SHU2U183a3FSbm1LemRpTDY5VHhOMW13Q2J2d2I2QlNzZjVTTnp6Z3NrTkctdEp6cEpGQ0JyUEFVajdfbmN1Nm1xckJOcTd4UE9UWEljV08tVDFobEo1SWtVNDZGS2lxMU5mbGRfczVIVkw4c0daM1I1UVp3U1RIclE?oc=5"
-      },
-      {
-        "title": "Andrzej Duda wróci do Krakowa. Tak reagują przyszli sąsiedzi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JLU0pZUDVta2pvNEQxaDFIaXBtd1VROGs3RDk0cjVqR3BrM2hqVXpjZV8wX3dPc3U2ZFhJR1U5WXlUTUFNMGdYcmVmTE1QTEVnbmczeURCclJSNXBteHYxcEZxbHNjaWN1ZENjX2NaN2phWC04OUxOZUhKUUtiNzdOZi1mbEZIX20xNEh3YlE0SllTbGxGTUh4V1hJRC1lRGhieQ?oc=5"
-      },
-      {
-        "title": "Nowy minister sprawiedliwości: postawiłem wszystko na jedną kartę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3pIaVRaemI4OFl6dzNuTzJtM1pzOGZTRUd2MWNncnluZmlnVkJJaWdCc1JSQlBWUC1GRHBvNlhuNDRueFlpRy1oZUJieHZEZFBFQ0R4UmxKWkIzZktnUnJYMkZ3OVc3ZVNwdE1RMGozNXprSzRMX0dsRXk2V2U3NEFwNWxfdVlGVW00?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński spotkał się z wyborcami. Mówił o zmianach w PiS i planach partii - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzJSU2w3WHo0bmwwTklNQlRzS3BrMkZibzlrNUxKZ0tzTVM5TWlJMkJwUkRxTmJmUExPeFpxTVhlZFd5VW94UFkxNENucGIzZ0dDOTJ3OGJ3UlBfMWxiRWwzZ2dPRVpSUzBNbnlEYUpHaG1FUjlDaG9oTVpKNWhnZHhMa1ZSTmxvaFZnb0E3ejM4Vk5QX0RRdnlTNTF6Zw?oc=5"
-      },
-      {
-        "title": "Dramat w Portugali. Masowe zatrucie na plaży - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXEyYU5fQVdfZG84b3Q4Y1o0T3ZOTlRjYXBGc1g1UzlEZ0swTnpzaG9Bb2J1NTdOcDZmYkh2V0xHTUxFcDNGcGNrM0t1Y0NNMy1scG1wUktDT2NJM2hwa1pqR0lrRjNQekczYTFpR3B6NXI5UF82TmJ5X0NENVVpRkM0SWhnNTJUNTdwVkh0dm1QVkdzUkhzYUFpNDJKMnM2QmMw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 10:22:17",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Rozpromieniona Agata Duda w biało-czarnej kreacji. Stylistka tłumaczy, skąd taki wybór - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXRNNW1xWk5CQWRlOTRFM21wVmNFNjdQdHVya01tblIwWGpWeWlkRUliWVZXMUN5T2x6SWNZWUhqUW52Znk4cUdobUhIblp3TXNxclFxd3V4bWtoOE1IeEVMMTFuX1NkeXZTc0VtQjZLakpmR21YTXFWTUxTcTZRVW1WYTg0Y0FBQnNpejhzVFRma28yTG5QazNHeTcxaGlKQnVYTjR0UEI2RE9KbUZmRUFfVHRlMFRQZlM1YWh5WXlaem1TQlE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-06 15:38:01",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 418844,
+      "DOGECOIN": 0.737029,
+      "ETHEREUM": 13198.32,
+      "LITECOIN": 425.14,
+      "RIPPLE": 10.84
+    },
+    "indices": {
+      "^WIG20": 2905.75,
+      "^WIG30": 3754.17,
+      "^WIG": 3754.17,
+      "^NCINDEX": 254.35
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki w orędziu mocno o CPK. \"Jutro złożę projekt\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlqRlFJeHBNSjRVQ3lmajYxRkVKd2N4dDJ1aWJXeFM1U3hneWc4ZzFXX2NsQkJoeUxkMk41cjkwcWYzM1dKcDQ5b2lUaVR6MU5YVzNVaHhqQVVhSmtNQWRKMmxFdmVCVzJjeVVzNzFZNmZnZnpFQnVSX203ZnFTaGEwMG14OUN2WmZWanB6VkY1U3Zaam1Ddzc4b2luRVk5NWVsRW9fX0ZxRUplV3c?oc=5"
+      },
+      {
+        "title": "Zaskakujące słowa Donalda Tuska. \"Jarosław Kaczyński był zdenerwowany podczas orędzia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWkpaZ0Iyc0JDaHRfNV8wbEhCTGVTOFNzRk9kLUd0dFZETmtONFlrbGY2RTlRMExXTVB1SFhINFV6UHY0Si1MNkMyQWs3ZVlZTFpRQXlRS0hvS0NQem9iRmpvWWdSZEY0WF9lb2Y5SFl4UnhIY0RORklPUnM1R2VrMVNmSzh0SjlMelZXT19WVy00bkNWc1VDM2g5NVctVlpzWmVnV2RkdnhKQzdQMzF5dVUyNUJvX0pSTGZDYUV5YWFpR3V6YmRMcTJsN1NhOGJ0MjIxOFRaUFhneWZsM1Uw?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka przeciwieństwem Jolanty Kwaśniewskiej. Tak zachowała się na zaprzysiężeniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXB3MHQyODE0RkxFMGxOamhaMERlV3E4S0ZoT3c5WnQ0dktDV19xaWxVZGtIVTN6ZG1mdmJOWlhsYXJmUFQ1bFpzZXo1U0ZwajE0SlA3NTdTc3VmUDRRSTU1eFFoR1VWUDUyM0MwbmR5ZGNiRjJBVnJqR1FYemdKb3JPbTBYWUE2Q3RNNXFreFFqaVl5alk2ejBYQ09pc01GMi1NYzZUS1BiX3FmVzBteGhhVHNXZ0d4eDhHdFZpaVR5VTdxTzh4TEZBMGtGS1pw?oc=5"
+      },
+      {
+        "title": "Trump postawił Putinowi ultimatum. Jego wysłannik wylądował w Moskwie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1c5R1hEdVFLUVNSbFJ1Wi1GM1ZBcGVWMVFCZG1GLU5mTlZ5WjdVR1NNekFVRGhIZnowMzVhNnhIRjhobDRYSm5meUh3RG1ieTdhUUEyT3BlUkd1T2gzQVNEX1ZZWUdPOE1MRmNvaU42ODMxa1BtNUVCS2tnM0Z4Q2FxVkFYZ3gtRnU2TkFIRUlzZlA4RXRrU3ljT2R0U2ZleEFFSVJJS1lzUTdhNFNKekxWWWZDQzA?oc=5"
+      },
+      {
+        "title": "Kaczyński starł się z reporterem TVN24. \"Pan jest chamem\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjd2cURZZ2l0QkRYVlY0UkI5R3pxVGZRTjNVTDhKcEtXdUMzUDhIanFNVWhwSzBfU004MXJqUU9WaEllMHVLSTMtTVJEdEJLbGtjdWhhd0NTdGlRckJLS0tMdENFcUdYQUNNb0lzZjYtV3BhREhCV0dWeVJ4dGpOamdkcEFuY01NRUh0QU1rODRfZjZ1ejJPbG5mclJ5UQ?oc=5"
       }
     ]
   }
