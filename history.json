@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 08:29:13",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.7536,
-      "EUR": 4.2813,
-      "GBP": 4.9398,
-      "CHF": 4.5937,
-      "JPY": 0.02492,
-      "AUD": 2.4106,
-      "CAD": 2.7049,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 421840,
-      "DOGECOIN": 0.739213,
-      "ETHEREUM": 13036.81,
-      "LITECOIN": 410.8,
-      "RIPPLE": 10.98
-    },
-    "indices": {
-      "^WIG20": 2884.84,
-      "^WIG30": 3715.31,
-      "^WIG": 3715.31,
-      "^NCINDEX": 255.55
-    },
-    "news": [
-      {
-        "title": "\"Dziadek dzwonił, babcia się zabiła\". Dlaczego seniorzy nie chcą żyć - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVC1TLWFuS3A5cDl2YUVTa21fTHRtQTBxdWhVcC1EQ05yTmtOYUdBRlV5SHU2U183a3FSbm1LemRpTDY5VHhOMW13Q2J2d2I2QlNzZjVTTnp6Z3NrTkctdEp6cEpGQ0JyUEFVajdfbmN1Nm1xckJOcTd4UE9UWEljV08tVDFobEo1SWtVNDZGS2lxMU5mbGRfczVIVkw4c0daM1I1UVp3U1RIclE?oc=5"
-      },
-      {
-        "title": "Steve Witkoff ma udać się do Rosji. Donald Trump wskazał termin - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTktVdHJyeHp3QlhTY2JhX2V0LWFYVjl4QVFQdlhKU2hCM3pkS2xTTXYtdlVZa3NYai1wejBGUlRBRkF6aUQzVC1aSkwzdzZYSG5sQ1J4cmJSWTA5TENJdlZRcU5VX0dWcVZ5Uk0yS2tqS01kQXNUM2NQV1NoQXoxS0VSQi0yb1dkejZVRVdQcmhacDJkc0xmLWoyOVUtTnV4YzE0czhDaDNIV25qVWo0XzlubGdjaTNCRy12ZXlzbmMxYjk4NHh5NWh3?oc=5"
-      },
-      {
-        "title": "Andrzej Duda wróci do Krakowa. Tak reagują przyszli sąsiedzi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JLU0pZUDVta2pvNEQxaDFIaXBtd1VROGs3RDk0cjVqR3BrM2hqVXpjZV8wX3dPc3U2ZFhJR1U5WXlUTUFNMGdYcmVmTE1QTEVnbmczeURCclJSNXBteHYxcEZxbHNjaWN1ZENjX2NaN2phWC04OUxOZUhKUUtiNzdOZi1mbEZIX20xNEh3YlE0SllTbGxGTUh4V1hJRC1lRGhieQ?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński spotkał się z wyborcami. Mówił o zmianach w PiS i planach partii - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzJSU2w3WHo0bmwwTklNQlRzS3BrMkZibzlrNUxKZ0tzTVM5TWlJMkJwUkRxTmJmUExPeFpxTVhlZFd5VW94UFkxNENucGIzZ0dDOTJ3OGJ3UlBfMWxiRWwzZ2dPRVpSUzBNbnlEYUpHaG1FUjlDaG9oTVpKNWhnZHhMa1ZSTmxvaFZnb0E3ejM4Vk5QX0RRdnlTNTF6Zw?oc=5"
-      },
-      {
-        "title": "Dramat w Portugali. Masowe zatrucie na plaży - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXEyYU5fQVdfZG84b3Q4Y1o0T3ZOTlRjYXBGc1g1UzlEZ0swTnpzaG9Bb2J1NTdOcDZmYkh2V0xHTUxFcDNGcGNrM0t1Y0NNMy1scG1wUktDT2NJM2hwa1pqR0lrRjNQekczYTFpR3B6NXI5UF82TmJ5X0NENVVpRkM0SWhnNTJUNTdwVkh0dm1QVkdzUkhzYUFpNDJKMnM2QmMw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 09:24:14",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Najlepszy prezydent III RP? Polacy wskazali - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGphLVZTbjVhcE5oSk80ckNOS3p4bHZvS2NwUHdnRW1OY2xjNHh0WUxwd19Yb0Qwb1QzRGFvcUFDWkF2VDJzeUdSem4wdUNhalpRQXVRM1R0Vk03bGk3V3lsVU5OZFJUWUhzTWdORzl5N05FWi1LVG5tSVc3Z1V2Y21OcEppaEsyM0NYWHFR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-06 14:32:19",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 420404,
+      "DOGECOIN": 0.737,
+      "ETHEREUM": 13257.19,
+      "LITECOIN": 428.05,
+      "RIPPLE": 10.83
+    },
+    "indices": {
+      "^WIG20": 2888.19,
+      "^WIG30": 3734.47,
+      "^WIG": 3734.47,
+      "^NCINDEX": 254.67
+    },
+    "news": [
+      {
+        "title": "Zaskakujące słowa Donalda Tuska. \"Jarosław Kaczyński był zdenerwowany podczas orędzia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWkpaZ0Iyc0JDaHRfNV8wbEhCTGVTOFNzRk9kLUd0dFZETmtONFlrbGY2RTlRMExXTVB1SFhINFV6UHY0Si1MNkMyQWs3ZVlZTFpRQXlRS0hvS0NQem9iRmpvWWdSZEY0WF9lb2Y5SFl4UnhIY0RORklPUnM1R2VrMVNmSzh0SjlMelZXT19WVy00bkNWc1VDM2g5NVctVlpzWmVnV2RkdnhKQzdQMzF5dVUyNUJvX0pSTGZDYUV5YWFpR3V6YmRMcTJsN1NhOGJ0MjIxOFRaUFhneWZsM1Uw?oc=5"
+      },
+      {
+        "title": "\"Po porażce trzeba wstać i iść dalej\". Premier opublikował nagranie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXZMdUZVbDEzM1ZKb3JSLVBZTWdQWjVPcXN0OFdTRDZEZ0R1UnV3cS1hbTdtNGl2RENLNlBBQUdONXdKS1dnNndmcHdlcUtnMkV6RmlzcUp3c3Y1V2Y3c3ZKM2xVRGVMUVZxUkZjdDFwRzFlMTl3cldGdEFoZ1o4SHNuLVY4NUl4RTlYMnBTbGdBWllfcWItbHFuYTdqVGVjN2xSZzJ4NnYzVkx5WE4wci1raw?oc=5"
+      },
+      {
+        "title": "Stylista ocenia kreację Marty Nawrockiej z zaprzysiężenia prezydenta RP: \"Inspiracją była Melania Trump\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUIyLUxQcXpRRDc4dXo3YUo4MlJDLXdzSVJ2b2Nmdm9SUHdvTTU4TWlEM2RjOG0tSDJ2YWJicGxXQUQ4d19SQWM0cE1DRXN2dnpMSDNIaFdZQkgzMl9hbXJycnFCX0I0RWVvUlhYZlRGYmNseEJpZE9odTBXRWZ0amdUUTVkM29OQ18yQmJvWFJOWGc0UGptSHRMS19yUW8xUTBkZVI2bElFNENXdDVmZFoxd2hhaldubmNLYlUwR1B4TjUxOFhzUll3?oc=5"
+      },
+      {
+        "title": "Radomir Wit skomentował ostre starcie z Jarosławem Kaczyńskim. Zareagował na obelgę pod swoim adresem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnJEVy12dTZtaXF0WHNLMVZOUkZSU2lvb0xPSDVTcFJkeU5MN2huUGctUUFZdmE0RXhNZng4UGRMQ29EbmRlQk9hNFdOWUltV2NxenV5TmY3N0kwNjEyWWxKRlF6UV91cnZ2ZHdQNmRiSl9tb3hSeTFsMmdkOFRfb1NNRkc1Ylh3NzFEeXdSdng5RzVVRFVzS2xBaXpwTEtsaHZVLTJpNWxVb2VjUl80dkVzbXBmNTVNcmNtamZWejdYd1NNQWFGaHdURVBBUDE3QWh6MQ?oc=5"
+      },
+      {
+        "title": "Rozpromieniona Agata Duda w biało-czarnej kreacji. Stylistka tłumaczy, skąd taki wybór - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXRNNW1xWk5CQWRlOTRFM21wVmNFNjdQdHVya01tblIwWGpWeWlkRUliWVZXMUN5T2x6SWNZWUhqUW52Znk4cUdobUhIblp3TXNxclFxd3V4bWtoOE1IeEVMMTFuX1NkeXZTc0VtQjZLakpmR21YTXFWTUxTcTZRVW1WYTg0Y0FBQnNpejhzVFRma28yTG5QazNHeTcxaGlKQnVYTjR0UEI2RE9KbUZmRUFfVHRlMFRQZlM1YWh5WXlaem1TQlE?oc=5"
       }
     ]
   }
