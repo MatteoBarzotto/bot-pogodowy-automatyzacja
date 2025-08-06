@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 15:37:28",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 421693,
-      "DOGECOIN": 0.744958,
-      "ETHEREUM": 13190.84,
-      "LITECOIN": 431.92,
-      "RIPPLE": 11.1
-    },
-    "indices": {
-      "^WIG20": 2866.18,
-      "^WIG30": 3701.77,
-      "^WIG": 3701.77,
-      "^NCINDEX": 255.76
-    },
-    "news": [
-      {
-        "title": "\"Z niedowierzaniem przyjąłem tę informację\". List obywatela do Karola Nawrockiego, nowego prezydenta Polski - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa09rRzhLMWg4a3MxVTEwZjRnb3pNQnc1QWhrVWhvVWdxSWg3NmZBeGMtdWQ1ZllkbjdmTndTakV0MWhyejdkV2N3a29hSUVYTkhrMnN5OEhJTGgtNnlQczRITmRCUkdBcE45YjBUWEJWcUQ4TmFKcVN4d1MzRnNPeDhXMHZMRFRHajRuLVQ1cExockFnLXVTYnktZm53c1NZR081UnZFU3huMkhDWFdmWkh3UUcyaXVfZTB0Tg?oc=5"
-      },
-      {
-        "title": "Chaos na Litwie. Afery korupcyjne zmiotły premiera i rząd - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXNsMDdUeWVpWlFMdWZSdGpWNUxlYjl4b2dUbGJ6cGE2c0dZMUEweXpiZHZBZDRhbVhzNFpQd2tFZUVmTENqN3FBRk9EVEdrZDgya3BrVHlaal9RLUgwWHBfUWpZSjZfcjdTWDhqYWNvUzA0SDlYMkw4ZGNSUFJoMmg0NTdwYnhBdF9Yc0lmcGtteGtzYkktOEVaX09BYlZjamhWUkJ1YTlVUUFKN2VGSmRiak5mdHJpN29mUFdFN0VBRjJS?oc=5"
-      },
-      {
-        "title": "Trump wysyła okręty, Kreml odpowiada. \"Wszyscy powinni zachować ostrożność\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa09hUWNXUzNwZjV2NmdjdEhRTHZ1NHowVmZkckNfcnA4RXp6bzk3Tnh1d2lxTEhvT1doY3Z5djhCdVFMT0Q3LVJiT1J5Y28wSm1ycnNZUGZ4dHB4aEdXVlJnT09FYnNkdi01WlhnR0dDOWZ1LWpkRjVsQVNkcHM3ZGtUZWZyYWlFVUw5cTJ3bmg5UXhCeXV2bTJ2V3o5Tk1ITkRjX0ZKY0hPMl83TERRT0pweXNJbVZs0gG3AUFVX3lxTE1VZ096aWI1clRxNmxta3J2ZlhxRmtXTl93eGJDdGhrV0JrdzBrOS1aTkFuMm1yeWFQSlJLXzBiMnVQNEs3NEJjZlFJU2RpMTR3bnFIRW1fRVpxMWhBNGhfbEJwQkd5Yms2emRZd0hYdFVNRnVQb0UzV0tZSmF2V1hDZFVORm14YXdRSmVZbzBzTWp2bkN6RDUteS02Ul9PeGpEYnFPZjE1cno3bXJ5YTQ2VVdGNmtBTQ?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki kontra Donald Tusk – Polacy nie mają złudzeń. Wyniki sondażu szokują - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUxtX0xjTWMxNE9TTWkxdXQ2TnBVR2xmaER6dVJpR0NBcEIwNTczaUVyanZvUERwSUZfZXdja0ZrTHJVRkQxelFPX01IQWtSQXZiWnNZU2JmaHplRzlXa3lPLTZsam4tUDcxRzlrU2ppaFNiclA1elZ2Sk9CWlZ4RW5lWXJOSmh5RGpRYm5ZbmZWdnlKc0ZjcmxtQUw0YzRKSEpmMEN1TGRkMzZ2NjNGc0FYNHY3dklSWE84SWVSeXctbWlxRHc?oc=5"
-      },
-      {
-        "title": "Nie tylko Bąkiewicz. Kolejne ułaskawienie Andrzeja Dudy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGdxblpHX21mU0lsdU1rZ2RYZzc4T1JPcVhmM0hwMENPUjY3RjFjMDR1dVBxVXItemhLTmlvRVZHbmlzOVk1UEk4bU15SDFIZHE1YjZQYjkzLUE5Ty05dnM4SHVQTVp5a1YzM0RSRkpoTHQ3N3NJSVNLVEFGS1ZIM01DNGx3SzZwMlpBeTl2WDd5U1pRZGFrVndmQ0pRUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 16:19:30",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2641,6 +2588,59 @@
       {
         "title": "Tu zamieszkają Nawroccy. Remont w Pałacu Prezydenckim - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGt4RWJld3E4X0ZSbWJUTUVJOE5Bd1VRYjB2UDNVTXNfRVlnVEJ0ZUdYRWptTVZXU0l2WklIa09RNlpsanRIRGt4NUx2aTh3Undpc2RwbzRIV183bVhkUVk1RXBYRG9nRGZnUlZLYXdzX0tPZzh4VHo2T0wzdDJFWXZhTXlISnBWaHFGcFVHcURZZUdvZmVEMHJfYw?oc=5"
+      },
+      {
+        "title": "Indie ukarane za handel z Rosją. Donald Trump ogłosił decyzję - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVBxeXlRMG9KbHZOMVRUSVl4aVRUbFJicVdIZzExdjRRVDRwTUxHNG9LbEVkWF9iWVhfdWlybm15WGFVX2xMRjl4a2JZaHcxLWtsR3h0c3lxbmFDdTJ1cG1Bd2hrUmxacHRIOG5HU0s3c0RUaFlXVGl0dGxwTHJsdmpmb05MekhhbWNOdEo5S2drZTcxeDBxMHYxUDMyWnJkQXhyWjJBYS1BdUJ2aGtF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-06 21:15:37",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 423032,
+      "DOGECOIN": 0.754634,
+      "ETHEREUM": 13487.39,
+      "LITECOIN": 438.4,
+      "RIPPLE": 11.03
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.95
+    },
+    "news": [
+      {
+        "title": "\"Rzuca wyzwanie Tuskowi\". Brytyjski dziennik ocenia Karola Nawrockiego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXdSeFZGQXU0RmhlYVVESFdQQkp4Y2FEaWpNakVnZC11eDlCa29yVzdqZGozZmtQX3JISEVEZWhLaW5FT3JtcjZ5cG0zNzJJYTgwZG9nR1ZDcUhubS04aE1lbF9kX1ZRVlZoNXhMM2t4eFlLd1BHeGR6VGpVLUhkdUp3NVl3R0lROE45QV9Wa0p1UlE0dXdLazI1WEhyRzNZdTB5T0VRbmxXd3JpUGw2RTdrb1c1NVUxTy1SbEp2OA?oc=5"
+      },
+      {
+        "title": "Incydent na placu Piłsudskiego. Tłum zagłuszał wystąpienie Władysława Kosiniaka-Kamysza - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc3NMSklBV3NXM3hrMGVfN3Q4X3pwV0dyYzdHZUlzVXIzdEZ2VFF5dEhncXJtWW5vd3dIUkZzbEF3SzFhMHdWZktEWnJBSG9QUXRFMzhHMEVBQUl6a2NUbEo4eXY5TG93dWVyQllwZnR6NzUzbGJISGhncW1RcTZheWVCaTVhRUYtVXpBSGdSTXp6Qmp5TXFxZDlxcHduajZqeTNzZUhBVndFeGlKMmJyU3RCOWdsbDV4ZlRfLWxBeEhrbG4wd1M0TzBlRzVtN2VHaF9uMlgtRmQ?oc=5"
+      },
+      {
+        "title": "Indie nie skapitulują przed Donaldem Trumpem. Będą nadal sprowadzać rosyjską ropę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3hhdGpkX2QxOFlKeV9ERWxiVXR6Q1U5VjZScVJRR0dyRVNZXzRBMDJ1UVkzaVV2VWRHcDNlc1M1bEFZTW5XXy1va2luUXRYS21QOEMwTkIydnVobVlhU0NYYmExXzNiU2ttcXRadHh2dWd1c0tzcWExTDZPdUlDekNlejg5VFJxNUpRcDRORDBDOVRROG5hTUx5VUc?oc=5"
+      },
+      {
+        "title": "Wcale nie Pałac Prezydencki. To tam zamieszkał Karol Nawrocki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSURpVHdDMFJzSFVVd0Q3dnJoZXdkZU5sX19Zb2FKdV9jbFVhaHlhY3ZidGxDc3lKdm1vdE5ERng2YlVWaGtfSkhxQ1dadktxdVhfaGNUVWZhME1EZk5FYmJPaFpvazl1QkNsS3p4WTBmS3h3RDdUWkh4MUtScGNiZDJLSDR2TUVLdUZaYl9INjBrQkVNamIyWV9QUVN0cHh5RFVaZWV5X3BoVXc?oc=5"
       },
       {
         "title": "Indie ukarane za handel z Rosją. Donald Trump ogłosił decyzję - Business Insider Polska",
