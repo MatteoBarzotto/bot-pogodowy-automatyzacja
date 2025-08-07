@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 21:16:09",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 425100,
-      "DOGECOIN": 0.759284,
-      "ETHEREUM": 13607.0,
-      "LITECOIN": 440.79,
-      "RIPPLE": 11.27
-    },
-    "indices": {
-      "^WIG20": 2880.23,
-      "^WIG30": 3719.38,
-      "^WIG": 3719.38,
-      "^NCINDEX": 256.3
-    },
-    "news": [
-      {
-        "title": "USA podniosą cła na Indie. Trump obwinia je o wspieranie Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0F1YlY4aElvUDNJVUI0R3dPX0FzUFlUaVNjWEpOWkh3X1B2emxWSURVSVNzMVQwOXVpTW55Ri1NSlZ4blVIZUJtZi1SYUhwQWJEVUxYLUxnS1RveEN4VkhSLTM0RllDSGZRYU1JdFpaWEpVeU1JVHJDeXdLYTRJN0I1Tm16ZzNlOElEQklJdWhHMElweXNWbnBodTBUUWw3SkhfWFBlVWNhdFA3b1pGR3lMYw?oc=5"
-      },
-      {
-        "title": "Chaos wokół rozmowy Duda-Hołownia. \"Nie dojdzie do spotkania\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjNlcXE5QU93S3hFTUNiQmkycG5LZU5wM0I0cGI2cUpEY3dNWGFFRHo3ZUpHdk1aMGYzX3p2NzBBT0g0a250Z3NvWHdKUWd4MDFiTk9BVGNTWkVaN2QtMWFFVGRUZ0V2Q3QxYzRlR2pnY1pDb3ZXclh2dUFENXg4UHNqWTNVbE1sOEZ4Y3B2ZDJJX0NuYzNkUUMxVS1lYWM?oc=5"
-      },
-      {
-        "title": "Jest decyzja komisji ws. immunitetu Macierewicza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnNUdFZvUFJUU2VSY0xyQmwtZXduZjAtMHFyR01rYzhudUR4YmtYZXhweVVlcUdzWkFJcTB6aktxZFNueEhtdjlSdE1QeWsxR01ET2pTTGgxQ3BNYUNtVldOeHgzaTg5MFRuUWtranJOUDFxbUJHWE9DZ0xJMm9NeG5LZGJEOGhVTlRmMzZ4Vm9EQ29V?oc=5"
-      },
-      {
-        "title": "MSWiA zwraca się do szefa PKW. Chodzi o odwołanie grupy sędziów - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEo2aV9mSXc3TC1sanNyTU1KNjNxbmlMenRoQXl5WDI5ZENWd01MWldOaHkyZXZRSXVFZmJpTWg3c3ZTcGdHcTFvLXRIbXJwWllxOWVmdDVHVEY2TmQ1T0JYaTEwZmZOQVF5S05VaVlveTczV2JQcHl3aDAzcDBkaFJGb0REOFRPVXhISmpNbnNxUV93LWwxRWM3akVSdnYzc3M5c0NkaURURi01eFM3ajBrNA?oc=5"
-      },
-      {
-        "title": "Całkowita okupacja Strefy Gazy. Jest rozkaz Netanjahu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1RtcWJkaEthazU4bU11a0VXc29Cc00yWHdYeWdiS2d2blV1QUNTaFJYaGN1UFVzS29oZWZBaDUzVlg1NFBhTlVtYjk3Q0M2OW5zUk5aVVFyR19VR2ZhSW1QQkhFSGNaei1lNUQ1Mm9YSkp4NGJBN0FKeHdnTjNRVUhmd3QyUGx1Y0ZTT2E5Z2FPeE5Tel9lbkMyTko1em5CZ3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 22:17:14",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Kuriozalne sceny w studiu. Poseł PiS próbował mu zabrać notatki - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWhvY0dkcHo3cnRKRlhkV1hac3lwR0NqOWN3UnVDMlhNOGpTbUxnZXkwSHRjRUdqOE9zVlBSRXhBaUdKQ1N5T3c2RGw2YmRJbUpXRk9MTkJSQlFjRWVoaEl2SUlFQVRmbksyQ1BMdjJfajZyaVpXSU82cXc0Mm1aOVBjMnp4eTZXM3lfVFVyZjV2Y3ZBdnV6QUJVeFhJQVVVT3dxNw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07 05:39:56",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 419893,
+      "DOGECOIN": 0.747748,
+      "ETHEREUM": 13405.47,
+      "LITECOIN": 437.86,
+      "RIPPLE": 10.89
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.95
+    },
+    "news": [
+      {
+        "title": "Miller opublikował wpis po zaprzysiężeniu Nawrockiego. Co napisał były premier? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGVIa0VjZ2E1SXNsUXNFUzdWdnNvX0VueF9qb1BZQUpSVnlyZnUtUGU4RTJYYzZrR000UkFVb0F5ZEFpRmoxRDRUT0lNVGs5YWswYWc2bzM5ZWlBN0hDS3hYWnVxNnYxcHN5RXZnaTlfUTNGR3ZZeHRvWWp6ZXVLZHBtNXpDV1FBV2s0LXBjT3NMVGFmdS1Lam9lQmQtOGRKSGtnYnI5eGg2VmF1XzlZRHUwRnFRWG56aERJ?oc=5"
+      },
+      {
+        "title": "Donald Trump zabrał głos na temat możliwego spotkania z Władimirem Putinem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUc2V3FyLWJvOGlBZHF1OVFYZk00NEtZb21IQ0thbmZzUWQtV1Q2U3RtRVJnM1l3QTNCZTctYy15SEl3Rm00R3dCZlZ3SFpRNHVGVWl4MHFMLUIyMzd1NVMtaTZQWXd4UkRWbTNISGRoS29FSVc5N2NCTGtjeXJQejl3UTRzc2I5cndOQVo5T3kwY3VSajhJNmVhOWJaeFhpYVV4UkE1MHlfZEdXTWRMNFJwVjFRMVNKbmpueG5IRWF5azNuMXc1bE50Y0pITlNqNkRN?oc=5"
+      },
+      {
+        "title": "Nawrocki stawia na Piebiaka od afery hejterskiej. Pójdzie na wojnę z Żurkiem, będzie paraliż sądów - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BVzdEVkZxYW50NHJhdnBXdnhqNlZHdVJIejhIWVJUYjAxOFNOVnNrTUdXYkJHb2NSekRiN1h4RFp4YTE2dmVaQWhzMGo0bUVBem5nemlqRUFoZWVvN1M3QzFOdzJXQ2Nxa0k4ZWtxM3RNaG5VWFltd3dqREM?oc=5"
+      },
+      {
+        "title": "Kuriozalne sceny w studiu. Poseł PiS próbował mu zabrać notatki - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWhvY0dkcHo3cnRKRlhkV1hac3lwR0NqOWN3UnVDMlhNOGpTbUxnZXkwSHRjRUdqOE9zVlBSRXhBaUdKQ1N5T3c2RGw2YmRJbUpXRk9MTkJSQlFjRWVoaEl2SUlFQVRmbksyQ1BMdjJfajZyaVpXSU82cXc0Mm1aOVBjMnp4eTZXM3lfVFVyZjV2Y3ZBdnV6QUJVeFhJQVVVT3dxNw?oc=5"
+      },
+      {
+        "title": "\"Musi się skończyć\". Sojusznik Trumpa wysłał ostrzeżenie krajom Europy ws. ropy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2FYN2sxQ28tb09hZW1YTHpEdElEMllJVHEwTDlucjcyV0Yyd3FkVlJqRkozWjZQak5QYjd6LVVrMXM2U09SeXBhUWdyamVQWkpmQy1RcEJpVGotQ1hycGtDT2ZFeFNfTy11azhRUFNXcl9QSVBQcUJqU0VFMWV5NjNFMm1fNUJYb1pmUlNWSVNxNE1PWWdMU3VnanJpYXJVQ3ZsZEI5Nk5RcHpVaW51RFVyNndHdkpUQ21MQ2M2MFVqY1UyeHhTUXpYZw?oc=5"
       }
     ]
   }
