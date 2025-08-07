@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-05 11:21:49",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 423864,
-      "DOGECOIN": 0.755065,
-      "ETHEREUM": 13478.32,
-      "LITECOIN": 462.54,
-      "RIPPLE": 11.26
-    },
-    "indices": {
-      "^WIG20": 2873.67,
-      "^WIG30": 3713.0,
-      "^WIG": 3713.0,
-      "^NCINDEX": 257.08
-    },
-    "news": [
-      {
-        "title": "Siedem legislacyjnych grzechów głównych? Podsumowanie 10 lat prezydenta Andrzeja Dudy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnFhbE9BRDVwdS0xbnJUQTFnVE1ONHpQOU9XeDQtajFQUEVOMXphM1EzQmRJU3pMZkRuQzRWdlllLU40QmZWRHZ5ZmV4S0JmRGMzQXp2c2pxSmNWSkZqSXBFS0Y1bFNxWnd2S0tSMjFzTC0weEpxZ1hoZEhMWHFYZ1UwdWdaQVJYOXZoMEcxNUNQdUNXbENwRzFoZ09yRFplTlhkaUJoNkhpVHN1TVFnM0pJa0R3TGVGR085SkVDT1ZKY2NmclhaWQ?oc=5"
-      },
-      {
-        "title": "Program podatkowy Karola Nawrockiego. Wiadomo, kiedy prezydent odkryje karty - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzd3bEVFUHlvU3NtUnpZQnRTa3dGQVl1UVFPQTlXNm5RZW82cEUzOFNmZW1QTmtLeWo4TEJ6WHBTWjBxaVR5TUE1UVRROGJWWGRCZWxOSUxzQUFqZ0tXWG5OMnZWNHdiV3pUUjZsMU0yVV9DR25BcllxdmZTbVI2LVdheFRSOEcxelJTMWxjNUdFQ2JNVG9JOHdLa1NmeWNzdWRRQ1oxb0pHZFVsV1M2Sm1RcVUxdzdqV29UUUxBdEh3b2Q4?oc=5"
-      },
-      {
-        "title": "Spięcie Antoniego Macierewicza z dziennikarzem. \"Pan niestety kłamie, a to jest przykre\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDNqbmxwT0pQQXM4Zk9oSnEyWUdpX2lrNDVfN1pkeTlGUnpNY1FYRW0tU2ZvUHI4b1ktSWtDRmZqQlNOR3JNZURUUGt6akxxT3dYN2NaaWZtbkVnSEVacHVtN2tMYnNlSk1BLWV0eFZ5TGQxdS1OQW1NZldjRm5wZjNGc3F3Nnp2U3pQMmJsYVhJSzBpYTNhVUMyMmd5alNUZXpRZFhCMHduQXlDeTdVX0xZRXgxU2xjLWNBZXhQZDRjXzRPV0xKNE5JY1FBRGFHUFM0X1VVRlVWNHlsblJTVg?oc=5"
-      },
-      {
-        "title": "Daniel Nawrocki do Donalda Tuska. \"Nie chciałbym być aktualnie w jego sytuacji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWVUMkZxX2hYbjZqcmhrRi1xdEVsaWQtWnUxeTRYUzV3ZWt5RGpMc0VsM0hlSjVqQjVXT1dsOXNMR1QyMGxjMXUyanhQclpZek84b2hCLWo3Sm4yM3gtSUVmaXlnTGExMnRkWjJleHNreVpLU2ZMby1JbFRGNnJsd2w4MXg4ZFBvcDdJVmh5WDY3dk50Ti1WdUVQY0JLQm9lYlFrbV80WjZXc3U4OFJwZUx1dHRCUjdMX0FWRDRqNDVVMzN3RTFaMjcyM2FWeWQ2QUE?oc=5"
-      },
-      {
-        "title": "Żona Andrzeja Dudy nie przejdzie na wcześniejszą emeryturę nauczycielską. Musi wrócić do pracy przy tablicy? - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZDFKdW1zNVA4NWF5alRSdU1MalFWR21OQjU1YnFEUnBCVDJFMVF0SDExSmxaTDhXY004WnhfQjh2TDFzckN1VWJudHAxajBTeURhUFluMEcwUmJ0bEtBcTVpR2tEUzJSdnFfRm9EeV9mNTE4eEVERlpXRFQ5bG93V3VWUTh0ci1yS0NabE1sYkRjdHp4OFMwTG10U0lvX09kVzNuUUxDZGtDU0F5Y19IOExZYV9WZUg4ZGJSN1VpSDFucFQ5Vmtta0ZUX2J1Wlpid25uUnpSQXZFdlc0UXFhX2lCVE5pZnfSAeYBQVVfeXFMT29zWmJqWi1wYjlObkxzb0lhUklVWVdRcmNhalJZdTdSYklGaE1qUDRzZUtNMUFXeDFVWFJUWlhTdzVTc0s0U0ZtYTZKLXJGWWc5QWpFdllkS2JSOHc0a3JWd2RacDgyVnRVRlNNU191cVAzLXFyWjVCWFdPZktKRnhuWENBeWV6dHg5RjMzUVlPZFlPSGZBZXhvQnVJWnJKYk1XUGxGWFBHMk9UdjlqTGVyVVh1VFdXal9kUEpRUFVyVmd4TXZDb0hWbUxYYXRoTXMycVVoZkRDRUh4SEVMdHlYWmY3LXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-05 12:17:06",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Sędziowie TK o \"bezprawnej inwigilacji\". Chcą powiadomić prezydenta - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFZlZGFfUXp2dTFXSl9XeWxuZWtOX1JLTzlIMTJJNGRTaHE5QklUdkdVVmFaczZxTTB4TzB1aHRrcVp1VGVKcEptVVJWQm9UdnU3OXlkNzBRSGdfOGpzdE82dzBxLTJndEJIV3hzTDAxR1B3NU9QdHd6ZTVmTkJPblRnQWo4TVl4cEk2V21qRWZWdS1vOUpQOGZhbDIyRVVhSFJSMHp5YzJENGE0b2dTUmYyMXR2TjhMekV6TXZsMDhsbm5CQ2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07 17:17:27",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6477,
+      "EUR": 4.2618,
+      "GBP": 4.877,
+      "CHF": 4.5249,
+      "JPY": 0.024791,
+      "AUD": 2.3825,
+      "CAD": 2.6567,
+      "CNY": 0.5082
+    },
+    "crypto": {
+      "BITCOIN": 426372,
+      "DOGECOIN": 0.780774,
+      "ETHEREUM": 13992.79,
+      "LITECOIN": 441.14,
+      "RIPPLE": 11.15
+    },
+    "indices": {
+      "^WIG20": 2985.33,
+      "^WIG30": 3850.71,
+      "^WIG": 3850.71,
+      "^NCINDEX": 253.79
+    },
+    "news": [
+      {
+        "title": "Wielka zmiana w PZU. Potwierdziły się informacje Business Insider Polska. Prezes odwoałny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYl8xT0FRa19yV1FkdWNKVWpSajFFTzR6LWNGbEFpR2VyS3I2WTdSLTY5RUFCWXFKcHlGbTR6SFM3SmxCLUYyMzZfdlEtb0RmSnNoTVo2SmZOUVhQREw5UWhpZXBrT1NJaUxVXzE1bFhfeDJ6aURHdmNOajBLejdLVDBRdWttVkUyM181bEVjUXNaS1dmRWZ4Q05JbHVUbHpUMmVURU04WFJ0SzJDUkR1OXRxU002Q3BlRUY5WVUxQURWdw?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki: Trzeba wrócić do tradycyjnego kształtu CPK \\ Aktualności - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYndfS3RJU0Y1M0VZakxnRXRUbXVxSmRPMU0yZGRVY001NHVvU3lyU0RtU05sVFBaanVIVUVQTkRCTjIzUnhLX2tHc3RrRHdjN3dqV3J2N3lWMC1lenJ1TU9XVXdWZkQxQXVfUnNWdmFNdFl3Mk03dVVhRC1xT3E3NzJzSHlqVGRnNEVJamQ4T1FBWkktaVdyV1haMkRvalgwNW1KbENJV3VSZFR6V3prS0Rn?oc=5"
+      },
+      {
+        "title": "Spotkanie Trump — Putin. Jest porozumienie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcV9JTVJVQkNqc0RkOGFCclZXcXNzQmp0S3VsVldjb3hKZllkd2ppQ3UzTGpmdHFfSjZQOTRXWEc1b3RaZHhhdFJIVEF5ODZ6bGhTTV9RQ2NNZ0hTWC1jNTJXbk81bTlHWTltX19uekZjdWdiQnNBOE5TN0NrM1VWckNDRjRrSFk?oc=5"
+      },
+      {
+        "title": "Co dalej z karierą Agaty Kornhauser-Dudy? Nieoficjalne informacje od poprzedniego pracodawcy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLTgxY2VIMGd4Mk5HQ2ZnazRDUFhJbWtXbTVGenp2UWludk10cUg2bkZEZFRwbk05azRXa3loY0EzVEZlUldKa1hDYVhic2xNYnFYVUpDNzh0THVXU3BfV2NRTmNTWHJhTUFBRU1OR1hSQ2U4SVo4R2lER2hfZnA5TWc1ZTZHNlhRZmpGR05wUmZtRW5tUGxzVUllS0lzRzktak4wUHhn?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek w Tatrach. Turysta spadł ze 100-metrowej ściany - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUZQeGphUmJRWjQtWmdpOURCaGhKai1odGZ6TVM4X3Ztb1NiM0pkYUYzcEpnU0VVaEtyUVZzemZhclI4WDdWNUZjOHhzNElXUWk0Y3Ixd0gtODJqX2cwZ29FTXotenozUlhsNThXWUpPNW9Qa3NkcXVvV1VYUFcwM1dqeS1LTTdHVFFOY0FvX1NPUm94OW1qVUtaRFVwZFAtRE1aSVR3WUdLNFowX0lhZWNlclBEOTBQLUR1cGI2d2taQQ?oc=5"
       }
     ]
   }
