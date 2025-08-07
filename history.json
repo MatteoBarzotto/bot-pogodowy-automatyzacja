@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 23:14:39",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 424674,
-      "DOGECOIN": 0.767155,
-      "ETHEREUM": 13700.88,
-      "LITECOIN": 444.19,
-      "RIPPLE": 11.32
-    },
-    "indices": {
-      "^WIG20": 2880.23,
-      "^WIG30": 3719.38,
-      "^WIG": 3719.38,
-      "^NCINDEX": 256.3
-    },
-    "news": [
-      {
-        "title": "Izrael reaguje na słowa Donalda Tuska. \"Niedopuszczalna aluzja\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEg4ZDJKSlduR1BrekMwQjc0M09BbFZuMUx2WnhzbGh0VFBjYlF1RWlTQzVVQ0ZQR3Z3NHR5MnoxSDBud2VDc19ITmVFM190bGg1V3BXTlkxdTBKaHVHRHpqMEpfUlpJTzRCWnZnQ1VmeGdESGJNVkl2YklCZEVpNkZoeENZM0ZOSFNING8ydEYxOHZoZmw3R25XRmJ6a1dkd1FRVzE1RFpTZzRoR2hRaWNKTmM5Z09NVkdHSXJuSUY?oc=5"
-      },
-      {
-        "title": "Zwrot ws. spotkania Duda-Hołownia. Prezydent zabrał głos - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3VyVzlPbFY4NXViM1NaWGoxSjZURG9tWExQcG5HOVdyeXo1TUpoeXZEejVYVkJ4YTRmaklPY3l1b1RPa0kwQXBzQ0lQUWlMMm5tNmQtZFFWU1N4SFBvUzM3Z3hxV0dEVk5wQzFwa1h6NEk3OWIxM3FrZUd5bzVLeFpMaTNXUUN1ck9IZGhn?oc=5"
-      },
-      {
-        "title": "MSWiA zwróciło się do PKW \"Oczekujemy pilnej decyzji\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN21GSlIxaTJ5UldmaERWQVQyb0VIUUktNTdMLUJ4ZnhQSElMY3lBb04wWVBQSk8yMlJ3N2p3TE1kZzVRWFdKbDBqSzBDaTRUbURlLXQzV1Nyc3RraGI5cDJqd3FuQ1UtVU80U0dKSGE5UTF1VjM2VlZvRVgtQmhpN28yRXpRMUthOFRIUWhYMlRBZzhDcWt1QW5BYw?oc=5"
-      },
-      {
-        "title": "Jest decyzja komisji ws. immunitetu Macierewicza. To nie koniec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkUwVDFxR2s4M1F2Q3k5Y0NtTDg5SnpNQ3BwU0dUY3hXR2xRLWFaSURKeUlLY2ctZnpKeTRfTi1ZQkJyb3FzN05KNlpEWlBlLUZsOTlpdmRPazNWWVhZZGtfYmVuUGgyUWRwNmxSNE1fV3prZU4tRDdEb2J5SWhKSmNhYlNuTlM2VkQyclI2LVRxWXVzaVIyQnJMRV9JU0FpbkpDU0IxM1ZIalJtU3c?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro krytykuje decyzję Andrzeja Dudy. Pisze o „notariuszu\" - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFp0Xy1MSnVfaEpGWi0tSnoxQjgyZ3NhaWp3UkowMG5LQ0V0LVNjdDdZbzNKWDBuZllmYlpvNDNHWnpBMTNJZ05VSXExWmRxWEU2SjhKME04V3VoNi1IZ05Zc2tsdDlNZWZOems0NFVtc1g4TDFiR0VGZjAwUkxCUGZhX3RRdUI1ZWFrNks0Y1RjbTQ2NHI4SlozanMxbXd3bXBKRk5PeEQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-05 00:15:09",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Kłótnia na antenie Polsat News. \"Pan mnie obraża\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2ljYVlDSXZtUWRDYjJUUkhWYW82RDNFWTNDWEFpakNCZGpKYkROaXdlWHlTWHVwQzV4dDBIczl3LWhFcmxrOWRFd2Nwa2JrSi1iNVMtb1lfWU9kOElIVG1hdzVWQmZIc2t4SlBqMDZoLThkZ1pKdDhvWEMxYlB3Z2d6SjlaZmxYTlFPdDYxMHJrVW5vanpxcG5n?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07 07:24:03",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 419103,
+      "DOGECOIN": 0.749053,
+      "ETHEREUM": 13441.42,
+      "LITECOIN": 442.82,
+      "RIPPLE": 10.9
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.95
+    },
+    "news": [
+      {
+        "title": "Miller opublikował wpis po zaprzysiężeniu Nawrockiego. Co napisał były premier? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGVIa0VjZ2E1SXNsUXNFUzdWdnNvX0VueF9qb1BZQUpSVnlyZnUtUGU4RTJYYzZrR000UkFVb0F5ZEFpRmoxRDRUT0lNVGs5YWswYWc2bzM5ZWlBN0hDS3hYWnVxNnYxcHN5RXZnaTlfUTNGR3ZZeHRvWWp6ZXVLZHBtNXpDV1FBV2s0LXBjT3NMVGFmdS1Lam9lQmQtOGRKSGtnYnI5eGg2VmF1XzlZRHUwRnFRWG56aERJ?oc=5"
+      },
+      {
+        "title": "Donald Trump zabrał głos na temat możliwego spotkania z Władimirem Putinem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUc2V3FyLWJvOGlBZHF1OVFYZk00NEtZb21IQ0thbmZzUWQtV1Q2U3RtRVJnM1l3QTNCZTctYy15SEl3Rm00R3dCZlZ3SFpRNHVGVWl4MHFMLUIyMzd1NVMtaTZQWXd4UkRWbTNISGRoS29FSVc5N2NCTGtjeXJQejl3UTRzc2I5cndOQVo5T3kwY3VSajhJNmVhOWJaeFhpYVV4UkE1MHlfZEdXTWRMNFJwVjFRMVNKbmpueG5IRWF5azNuMXc1bE50Y0pITlNqNkRN?oc=5"
+      },
+      {
+        "title": "\"Musi się skończyć\". Sojusznik Trumpa wysłał ostrzeżenie krajom Europy ws. ropy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2FYN2sxQ28tb09hZW1YTHpEdElEMllJVHEwTDlucjcyV0Yyd3FkVlJqRkozWjZQak5QYjd6LVVrMXM2U09SeXBhUWdyamVQWkpmQy1RcEJpVGotQ1hycGtDT2ZFeFNfTy11azhRUFNXcl9QSVBQcUJqU0VFMWV5NjNFMm1fNUJYb1pmUlNWSVNxNE1PWWdMU3VnanJpYXJVQ3ZsZEI5Nk5RcHpVaW51RFVyNndHdkpUQ21MQ2M2MFVqY1UyeHhTUXpYZw?oc=5"
+      },
+      {
+        "title": "Kim są ludzie Karola Nawrockiego? Oto nowy skład Kancelarii Prezydenta - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObEtnZzMwekVtSktqUjFGbG1xSlVET3dPeGJmYnpSeTh5ejNlUlhfaEl1ckhYZk4tSzU4NVNFRUtTbkZiQ3ZiSk0xbjhOVUZUSmltZVRhTmpPY2xNWjY0M0hOTmVMRllLWGQ5UEY1YnNBNzE3N1dQZE1GTVluNzN6aEEyckZXNmFlamI5SkZMUWdJMjJaWjQ3WGNRaXdPb2VuRTVsNTZKQUhGVXBRQWt3WlpTb0YxWk5RX2p4Y290OUVBdkY2RVh3?oc=5"
+      },
+      {
+        "title": "Dorota Goldpoint żegna Agatę Dudę po 10 latach. Rozpływa się nad pierwszą damą - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXBMZGQ5dGRqTTdoQ1U5TFdlcHdaNWstZVNzR0d6UFRnRGVhNlBxUXU1MzJGZkx4SEJDU3pmZTZpU0dGc0hkZkpkMm41NnVCYjFIdGQwb3l3WktmSGxyeXhBMDVKd2Y5TnI2ampfZjRLdEZPbjhaa3FZTVJjMmRYVWtod2lkWTB5RkFlZkw1aXhGT2hkek9MRUVyNTNvYnhsTnJBY0tpX2lacTFlbGhsM2QtX2NrN0Q0Nk15X1NhaGp0TXNXSFVBTg?oc=5"
       }
     ]
   }
