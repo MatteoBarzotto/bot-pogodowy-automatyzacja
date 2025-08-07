@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-04 20:22:10",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 425552,
-      "DOGECOIN": 0.762391,
-      "ETHEREUM": 13607.11,
-      "LITECOIN": 440.98,
-      "RIPPLE": 11.29
-    },
-    "indices": {
-      "^WIG20": 2880.23,
-      "^WIG30": 3719.38,
-      "^WIG": 3719.38,
-      "^NCINDEX": 256.3
-    },
-    "news": [
-      {
-        "title": "Donald Trump uderza w Indie. W tle ropa z Rosji i wojna w Ukrainie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUtCT1h5SUxkcnJvQkZZZUVCSGIxM1pfYzBGcTNNeTBjaTRSeVJZWVJlTW9iTlRzTDJ1dzNKdF9DeTMwSVJaRXowYW8xY2ZnbU8zU3lsYlhHeEx4WE9sWVZaZ1pJQXcyc0FCaXpoYnp0M1Nlc3JFaC1qQmV2V1dkWXdfY3FMYkh5WTI5YllIUC1LUDZnQ01lY1liby1wZlFlNHRMTk1IRnpZb2puZWRkVg?oc=5"
-      },
-      {
-        "title": "Jest decyzja komisji ws. immunitetu Macierewicza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnNUdFZvUFJUU2VSY0xyQmwtZXduZjAtMHFyR01rYzhudUR4YmtYZXhweVVlcUdzWkFJcTB6aktxZFNueEhtdjlSdE1QeWsxR01ET2pTTGgxQ3BNYUNtVldOeHgzaTg5MFRuUWtranJOUDFxbUJHWE9DZ0xJMm9NeG5LZGJEOGhVTlRmMzZ4Vm9EQ29V?oc=5"
-      },
-      {
-        "title": "Wybory prezydenckie. Niezapowiadany wniosek do PKW. \"MSWiA oczekuje pilnej decyzji\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm5qU2xqM1Z0Qm1xNnFXVlRxMUtxa0N4cndxNTJWSGVfd3hYVHluTS04M0lyU2xQZFpydGpLbE1oZ1psdGhITnR3emdtT3ZFQ3hBcVRaNC1lS3dFeUJmSkFGeEREOFhhZ1pRTDd5VGdYeDVZMFVYdURsamVMS04zMklVbUZDalFzUVNpM0FWNkZiLXdYeV9TTzJ0S21RUlVhU0hmNXpndGVmdE1jeWI4NElB?oc=5"
-      },
-      {
-        "title": "Binjamin Netanjahu podjął decyzję w sprawie Strefy Gazy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzZ0eVpDN25aaF9KeUNYWmJxQzF0eU5wLTJXT01OTGZlYzZHWGUxcFJuTFQwWEJWSGtTSjFGM1ZOSUtCRC0tN3hJSFpQVnU0c2huWkhJUWpobW4yUVlvWVJNUFF6Y3RmaWZ4dm9sWDlHNFBwb3diSGcxYUkwRXR1TWFqaTdnNXRybEM1aXp2MnREYUxlYWQ0eVNQaHVQcXN6U3Fld1hMbzR4RTRQcTREUjhXYXdyMnZTWHc?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro krytykuje decyzję Andrzeja Dudy. Pisze o „notariuszu\" - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFp0Xy1MSnVfaEpGWi0tSnoxQjgyZ3NhaWp3UkowMG5LQ0V0LVNjdDdZbzNKWDBuZllmYlpvNDNHWnpBMTNJZ05VSXExWmRxWEU2SjhKME04V3VoNi1IZ05Zc2tsdDlNZWZOems0NFVtc1g4TDFiR0VGZjAwUkxCUGZhX3RRdUI1ZWFrNks0Y1RjbTQ2NHI4SlozanMxbXd3bXBKRk5PeEQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-04 21:16:09",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Dzwon Zygmunt milczał podczas zaprzysiężenia. Dzwonnicy nie przyszli - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDJNQ3MyOVl5c2VvZG1wUG4tUTlKQ2RLbFBQc3EyeFZOS19SRlpMdjN5WHFxRDB5ak5SLTBqWUEwMmFFN2lBU2s4UmhKSXJpWEhGQlhucGZkT1R2Tm05LWVhdF83MXR2YVpRam1MNEYwcmZLNHlvUkcwTkc1SUU4VThieEV6UFNPTUI3QTJkclZwX0x6VVN1bnNtTFZwaHZoS3ItTmd6MGVDdk8tMlBDM3g4WHE0UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07 03:16:18",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 421449,
+      "DOGECOIN": 0.752327,
+      "ETHEREUM": 13487.37,
+      "LITECOIN": 434.79,
+      "RIPPLE": 10.96
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.95
+    },
+    "news": [
+      {
+        "title": "Miller opublikował wpis po zaprzysiężeniu Nawrockiego. Co napisał były premier? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGVIa0VjZ2E1SXNsUXNFUzdWdnNvX0VueF9qb1BZQUpSVnlyZnUtUGU4RTJYYzZrR000UkFVb0F5ZEFpRmoxRDRUT0lNVGs5YWswYWc2bzM5ZWlBN0hDS3hYWnVxNnYxcHN5RXZnaTlfUTNGR3ZZeHRvWWp6ZXVLZHBtNXpDV1FBV2s0LXBjT3NMVGFmdS1Lam9lQmQtOGRKSGtnYnI5eGg2VmF1XzlZRHUwRnFRWG56aERJ?oc=5"
+      },
+      {
+        "title": "Donald Trump zabrał głos na temat możliwego spotkania z Władimirem Putinem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUc2V3FyLWJvOGlBZHF1OVFYZk00NEtZb21IQ0thbmZzUWQtV1Q2U3RtRVJnM1l3QTNCZTctYy15SEl3Rm00R3dCZlZ3SFpRNHVGVWl4MHFMLUIyMzd1NVMtaTZQWXd4UkRWbTNISGRoS29FSVc5N2NCTGtjeXJQejl3UTRzc2I5cndOQVo5T3kwY3VSajhJNmVhOWJaeFhpYVV4UkE1MHlfZEdXTWRMNFJwVjFRMVNKbmpueG5IRWF5azNuMXc1bE50Y0pITlNqNkRN?oc=5"
+      },
+      {
+        "title": "\"Musi się skończyć\". Sojusznik Trumpa wysłał ostrzeżenie krajom Europy ws. ropy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2FYN2sxQ28tb09hZW1YTHpEdElEMllJVHEwTDlucjcyV0Yyd3FkVlJqRkozWjZQak5QYjd6LVVrMXM2U09SeXBhUWdyamVQWkpmQy1RcEJpVGotQ1hycGtDT2ZFeFNfTy11azhRUFNXcl9QSVBQcUJqU0VFMWV5NjNFMm1fNUJYb1pmUlNWSVNxNE1PWWdMU3VnanJpYXJVQ3ZsZEI5Nk5RcHpVaW51RFVyNndHdkpUQ21MQ2M2MFVqY1UyeHhTUXpYZw?oc=5"
+      },
+      {
+        "title": "Nawrocki stawia na Piebiaka od afery hejterskiej. Pójdzie na wojnę z Żurkiem, będzie paraliż sądów - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BVzdEVkZxYW50NHJhdnBXdnhqNlZHdVJIejhIWVJUYjAxOFNOVnNrTUdXYkJHb2NSekRiN1h4RFp4YTE2dmVaQWhzMGo0bUVBem5nemlqRUFoZWVvN1M3QzFOdzJXQ2Nxa0k4ZWtxM3RNaG5VWFltd3dqREM?oc=5"
+      },
+      {
+        "title": "Kuriozalne sceny w studiu. Poseł PiS próbował mu zabrać notatki - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWhvY0dkcHo3cnRKRlhkV1hac3lwR0NqOWN3UnVDMlhNOGpTbUxnZXkwSHRjRUdqOE9zVlBSRXhBaUdKQ1N5T3c2RGw2YmRJbUpXRk9MTkJSQlFjRWVoaEl2SUlFQVRmbksyQ1BMdjJfajZyaVpXSU82cXc0Mm1aOVBjMnp4eTZXM3lfVFVyZjV2Y3ZBdnV6QUJVeFhJQVVVT3dxNw?oc=5"
       }
     ]
   }
