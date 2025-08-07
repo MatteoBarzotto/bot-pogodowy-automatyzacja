@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-08-05 00:15:09",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6977,
-      "EUR": 4.2734,
-      "GBP": 4.9091,
-      "CHF": 4.57,
-      "JPY": 0.024999,
-      "AUD": 2.3952,
-      "CAD": 2.6824,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 425291,
-      "DOGECOIN": 0.773041,
-      "ETHEREUM": 13755.14,
-      "LITECOIN": 443.95,
-      "RIPPLE": 11.36
-    },
-    "indices": {
-      "^WIG20": 2880.23,
-      "^WIG": 3719.38,
-      "^NCINDEX": 256.3
-    },
-    "news": [
-      {
-        "title": "Izraelska dyplomacja oburzona słowami Tuska. \"Niedopuszczalna aluzja\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGQ2VmZMTDd5dE8za19qN0VWUmZLdTdrTUlfZFh2cktjTHVxZzFzQWpORmxPWnRwZDQwdGVDMTFIdkJIWWMyMlE2Q0pPMFpNRVJ5eXZfS0pweEZZNWJYcU5RSl9TNk8xTXo3d3h1VkZLRnBybmI3QnZDLVQ1X0N0U3JKeXRqRGpYZ3o4REV2dHdWUHN0ZnMzUGpPRUZRdk1TZ2xPMXpHcjRJZDM0aXZNYjFTRQ?oc=5"
-      },
-      {
-        "title": "Zwrot ws. spotkania Duda-Hołownia. Prezydent zabrał głos - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3VyVzlPbFY4NXViM1NaWGoxSjZURG9tWExQcG5HOVdyeXo1TUpoeXZEejVYVkJ4YTRmaklPY3l1b1RPa0kwQXBzQ0lQUWlMMm5tNmQtZFFWU1N4SFBvUzM3Z3hxV0dEVk5wQzFwa1h6NEk3OWIxM3FrZUd5bzVLeFpMaTNXUUN1ck9IZGhn?oc=5"
-      },
-      {
-        "title": "MSWiA zwróciło się do PKW \"Oczekujemy pilnej decyzji\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN21GSlIxaTJ5UldmaERWQVQyb0VIUUktNTdMLUJ4ZnhQSElMY3lBb04wWVBQSk8yMlJ3N2p3TE1kZzVRWFdKbDBqSzBDaTRUbURlLXQzV1Nyc3RraGI5cDJqd3FuQ1UtVU80U0dKSGE5UTF1VjM2VlZvRVgtQmhpN28yRXpRMUthOFRIUWhYMlRBZzhDcWt1QW5BYw?oc=5"
-      },
-      {
-        "title": "Tragedia we Wrocławiu. Ratownicy wyłowili z Odry ciało 16-latka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYi1Ia1ZpT01XMjFqSzBSb0U3eUNXSjhOd2tEcnY2Z01qeW82QTVNcVl3MUxGXzQ2ZXZQb0NwQld3aXh4cnQ1SVJRM0FQZTBuOUZCR3F0OHQzUlZra2J5ai1jbTNxMVJqTFJvTFoxdlpLSDlhUUVpT2FNTFUzZERyRkMyT05LSlFIaElQamlidWRaQUhkOWt0MUItaV9OcjlhTHBfci1hS21PekJKRWFUMkdabkItTHc3ZVBCdVdnUHpqTGtydUUzYzFDYw?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro krytykuje decyzję Andrzeja Dudy. Pisze o „notariuszu\" - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFp0Xy1MSnVfaEpGWi0tSnoxQjgyZ3NhaWp3UkowMG5LQ0V0LVNjdDdZbzNKWDBuZllmYlpvNDNHWnpBMTNJZ05VSXExWmRxWEU2SjhKME04V3VoNi1IZ05Zc2tsdDlNZWZOems0NFVtc1g4TDFiR0VGZjAwUkxCUGZhX3RRdUI1ZWFrNks0Y1RjbTQ2NHI4SlozanMxbXd3bXBKRk5PeEQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-05 01:14:41",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2645,6 +2593,59 @@
       {
         "title": "Dorota Goldpoint żegna Agatę Dudę po 10 latach. Rozpływa się nad pierwszą damą - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXBMZGQ5dGRqTTdoQ1U5TFdlcHdaNWstZVNzR0d6UFRnRGVhNlBxUXU1MzJGZkx4SEJDU3pmZTZpU0dGc0hkZkpkMm41NnVCYjFIdGQwb3l3WktmSGxyeXhBMDVKd2Y5TnI2ampfZjRLdEZPbjhaa3FZTVJjMmRYVWtod2lkWTB5RkFlZkw1aXhGT2hkek9MRUVyNTNvYnhsTnJBY0tpX2lacTFlbGhsM2QtX2NrN0Q0Nk15X1NhaGp0TXNXSFVBTg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07 08:24:24",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6994,
+      "EUR": 4.282,
+      "GBP": 4.9142,
+      "CHF": 4.5733,
+      "JPY": 0.025028,
+      "AUD": 2.4014,
+      "CAD": 2.687,
+      "CNY": 0.5146
+    },
+    "crypto": {
+      "BITCOIN": 419809,
+      "DOGECOIN": 0.754197,
+      "ETHEREUM": 13524.62,
+      "LITECOIN": 442.67,
+      "RIPPLE": 11.0
+    },
+    "indices": {
+      "^WIG20": 2932.58,
+      "^WIG30": 3787.25,
+      "^WIG": 3787.25,
+      "^NCINDEX": 254.95
+    },
+    "news": [
+      {
+        "title": "Miller opublikował wpis po zaprzysiężeniu Nawrockiego. Co napisał były premier? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGVIa0VjZ2E1SXNsUXNFUzdWdnNvX0VueF9qb1BZQUpSVnlyZnUtUGU4RTJYYzZrR000UkFVb0F5ZEFpRmoxRDRUT0lNVGs5YWswYWc2bzM5ZWlBN0hDS3hYWnVxNnYxcHN5RXZnaTlfUTNGR3ZZeHRvWWp6ZXVLZHBtNXpDV1FBV2s0LXBjT3NMVGFmdS1Lam9lQmQtOGRKSGtnYnI5eGg2VmF1XzlZRHUwRnFRWG56aERJ?oc=5"
+      },
+      {
+        "title": "Spotkanie Donalda Trumpa i Władimira Putina coraz bardziej prawdopodobne. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkFMRzdCLTBxQWlTdTdRSGpSdWRMVjFXQnFDZkJHOUdOUU9RNk9JSWNfS0tIdm9mNGYyWnVHV0FFcjJNN01DNFVvVGlCc0x5YTNaeU1PclFZRTBrNVVEZmZSVkxrb2I3bHFZU1dhNlNpYXJJY01RWFB2WmMwUXhuVjhaX0ZlUFNXekpUYktoUWNFaU5FRkNXaHlXekZUNDBzaTVpWG9NektYbndEVjBsS3N2VkRtcFM2Zk5LaWh4OUFIUm94?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka przeciwieństwem Jolanty Kwaśniewskiej. Tak zachowała się na zaprzysiężeniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXB3MHQyODE0RkxFMGxOamhaMERlV3E4S0ZoT3c5WnQ0dktDV19xaWxVZGtIVTN6ZG1mdmJOWlhsYXJmUFQ1bFpzZXo1U0ZwajE0SlA3NTdTc3VmUDRRSTU1eFFoR1VWUDUyM0MwbmR5ZGNiRjJBVnJqR1FYemdKb3JPbTBYWUE2Q3RNNXFreFFqaVl5alk2ejBYQ09pc01GMi1NYzZUS1BiX3FmVzBteGhhVHNXZ0d4eDhHdFZpaVR5VTdxTzh4TEZBMGtGS1pw?oc=5"
+      },
+      {
+        "title": "Zmiany w rządzie Litwy. Jest kandydatka na nowego premiera - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFJKM2F4alM0eGxObGF2ajZQakQ1c3ZYOEdwaF9FM1hYcEJNbmxodlV4YV9nRkFfSHRJcmM3azVQeUh5ZnpwZFV3V3Ezanc1QjBVN2RVZEpYSDQxUVIyUS1tTUIya2R6ZE94OXY2YVQ3Q0p1RGRub0lPaGhGWkM1bkJtZXBKRjRRVEJHT081V3FfZWE1WS12dkFQeFg5b0hkUkJ6V1ozSmU2dTQ?oc=5"
+      },
+      {
+        "title": "Finlandia wyłamuje się z planów NATO. Minister ogłosił decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEV2N3poaFprUXhXczQ4ZjJDUTVnU3ZQMlFIdk9iOVhzdHpQUkVSeGZSaHBfR3IwZG10UjdlUW5uYmp4TDY0UUhlVDd5VUkxcjJOWGczMHc3YWNQZjFqbzFiVnk0U0JTZHBpekViSDBvMTFfWG1BZ1JrZWZORkhtWlBuOFRFMXVBQ2RGck9zdGlva1hSNXF0OU1hNXZpT2ZZVHFpRnFxT0NpbW03RmFHT0VGLWRyMWs?oc=5"
       }
     ]
   }
