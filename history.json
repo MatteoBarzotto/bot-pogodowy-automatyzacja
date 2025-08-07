@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-05 16:19:47",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.7066,
-      "EUR": 4.2763,
-      "GBP": 4.9226,
-      "CHF": 4.5702,
-      "JPY": 0.025116,
-      "AUD": 2.3919,
-      "CAD": 2.6847,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 421390,
-      "DOGECOIN": 0.745176,
-      "ETHEREUM": 13353.06,
-      "LITECOIN": 454.85,
-      "RIPPLE": 11.14
-    },
-    "indices": {
-      "^WIG20": 2877.22,
-      "^WIG30": 3719.58,
-      "^WIG": 3719.58,
-      "^NCINDEX": 256.05
-    },
-    "news": [
-      {
-        "title": "Immunitet Antoniego Macierewicza. Sejm podjął decyzję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWdBdDBFRDlrTHVja0xva3FhNVIySDFMYXRINkdKVE5pVXRfSFR5UEtYaDZVd2lGQ0xHNGdqc1NHMzNfcHFVd1hBQ24tRFlRSmp4SVlOM2NIbmRXMVF5eEpuU0ZnVG54OVMwU1c4OF9xT2syUkJkY0E0dV9OZjhZdTR6dEZGb2pQT2lYQ1gtS0piVzhNVmUw?oc=5"
-      },
-      {
-        "title": "\"Chciał sobie przypisać kompetencje prezydenta\". Mastalerek uderza w Ziobrę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2pfZm1vTXlfclZsaFQtTy1ENXJFQlE1QjVkbkNEekczV2pmZTdwSmtlQ0xoWU02TU9nbnVhbzEyMHFpUHI1ZWNzc0w0RHNORjNOazYxNG13VVh6elhTZ2dfNzJtdjE1aV9Ma041eE02dFRWaU9pMnlGODZPTU00blM0UFZid1FaUURKOTk1Q2Q1dHFRN19YR1FvT3dnUFJoaWZkNEpXS2lNTWlrdmYxUTV3UjhhZw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki obiecał Polakom tańsze życie. Wywiąże się z danego słowa? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0JTUllaYlBCYWx1SE9Eelh5ZU5WclFLZG1zODVKaHo4NDVyQUtDNUZDTExxdUNEZjVMQ1ZpMlFnaUpLbTFTU0RhM29UZGNXWWVoYW9VUFU1NWZPaExfSFp0b05Od1hFc19Ua1hhSVpqNUFQU3hmUHFpXy12MUt5T3gwWjZyb3gtVjIzaDlGU09aSi1hODdzd24tdEpZWG5VZ2xDYlk1RGpTZEpyc1FGOGtSYWlMUXFtOW1wN2RXRGFwTHhHRjRmbm9n?oc=5"
-      },
-      {
-        "title": "Szukał go cały Wrocław. 17-letni Adam nie żyje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaVZka1hfRjNNRHJPOG5DTzhOWU1uT1hvaHVhX2NXeWxLMl9xUnVZSVF2d3IzaDRxbE5ZWmNlR0swSTg0VUE4d0t2a0xsQUdOa0ZnTHFMa3lWUnRIcDdkSjVKLWEtOFkxYXhJUEs4by1mQlBEbHgzSjNUOTNNNy1EODZ0Y0xEdnU1b0t0UDg3cU9ZUQ?oc=5"
-      },
-      {
-        "title": "Postrzelenie człowieka w Iwanowicach Małych. Policja apeluje \"pozostańcie w domach\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOV81TF9vSVdvYlNrVzQ4ejhCV01zR0ZTaXpZT0pKb0Rnemp4bWdmTG45eW10X2UzOU5OQjR2cVlPZGdhTUdKUXJDRW1tbjZmTTVzT2hCenlEN2FRQkRMRW5PMkloRG9yTE5rR2xSdjhzblFSLVl2eWMwcjYzZWsydkkxZlNIV2JlSnVKY2lsRUtJT25SOTJmLThMTEs1Umswbmg1bG9RSk9RRGs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-05 17:18:06",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Wstrząsające zeznania wdowy. Łukasz Żak schował twarz w dłoniach - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2FVOExqMHdIR3o4Wmh5LXBVTVhhZzRzYndyR0Ftc2xpVXltbG1ZN1lCTF9vc2FLQmZ2eDNzbGhPT05td3JBUU5UQUFyQ2JGWU8tZ1dQZFJZYmx0MHVGMXFPcV9nMkZtWmJ5eDZEVldhTUY0WWRKR1h6czlFSWlJclc0ckYxZUFnNzRlblVYT2kzRmZHVE44dVlSNm14WmEzZGhmMVNjVW1qVXN1c3I4TA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07 22:16:35",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6477,
+      "EUR": 4.2618,
+      "GBP": 4.877,
+      "CHF": 4.5249,
+      "JPY": 0.024791,
+      "AUD": 2.3825,
+      "CAD": 2.6567,
+      "CNY": 0.5082
+    },
+    "crypto": {
+      "BITCOIN": 428352,
+      "DOGECOIN": 0.791763,
+      "ETHEREUM": 14079.62,
+      "LITECOIN": 445.81,
+      "RIPPLE": 11.34
+    },
+    "indices": {
+      "^WIG20": 2985.33,
+      "^WIG30": 3850.71,
+      "^WIG": 3850.71,
+      "^NCINDEX": 254.42
+    },
+    "news": [
+      {
+        "title": "Pierwsza inicjatywa z podpisem Prezydenta Nawrockiego: TAK! dla CPK \\ Aktualności - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNW1kWVhub0pYaVJiLXR1eG5SdGMwOFlpTnowT2I0dWVXN3ItS0FhWGpXNkRGX0xCdjhuNHc4WHduYmI1c01uNjNEeFJBa2VGcVRReTVGaWdVTHpacjBlazI5X1hyLUtVQ0E3dVJKNzFmQVoxRmNWYUFYdGl3NmlmQlNXLXJzYnFnU3VNR0I2MDJHMFBqWXBIYVYtM0Nfdw?oc=5"
+      },
+      {
+        "title": "Trump miał postawić warunek Putinowi w sprawie spotkania. Nieoficjalne doniesienia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWZib0tqZDFSWlNybzF5bTBGaUk5RFM1b0RzQ3dzWHF6MkpfYUJWZzZEVE1HUFNpdExZUWNaWWtuRzNfNG5sWWRSUTZDekFyWDBYZlNSX0RoZnRSQWtxMkJKRzc1aWlQUGJ1Zy1SSHhYaVRoQ0FncmxPQzEzX0p1LWVpQjA3T1FPTTZNTGthbDNYbDRGTmFGQ0hId05vc1VaOFI0M3BUVHBITGNFczdBLVd1NEQ2ZG1Db3d4SFFIcHdPZDRlaW9qTg?oc=5"
+      },
+      {
+        "title": "Jest nowy sondaż partyjny. Fatalne wieści dla dwóch ugrupowań - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZBTmRDa2k3M0VnMy1UXzc4cGRHNHB1d0pXU21aV0prRlRHZHpWNnBzNFJmZElSWkZpR3VWZVFUcUs1UjNnQlR3bFdfTDdPNGd1NlA2dUY4RmNXdHlnMHcwSGU2bkVxQjFMZ2RZRTViZFBLeTRzLURFaVRlTVVSbVdUVHZtS1hKeHh6RENDeF9LeTlwRUp0RUF1UEZlSjkzNnVWUGVMR1ZOUFM5bHV1VmxIdVNJR1M0dUJWNXIxS0x0Um1yQ0E?oc=5"
+      },
+      {
+        "title": "To zły sygnał. Zły dla Polski, zły dla prawicy, zły dla prezydenta [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmVpUC1wWGdmd2hZZDM2TGN3aS0yZG14SWcwU3ZCTUg2OFNCYXpRTnRwSkt6ellCeEZRNFktMm9OMWRoZWFuVlp2V1RZU3VTUm5lV1VGRmZYQ1BUcTBoM2ZZcGlTV0otYTYzOTl0UGRyUnM4ZHhvNm1TMktCZFdGN2pQNFVRckFoNmljOUI3SmUwVGc5RmwzOUNOUG1qQ1VPM0c1ci16TTNwYUVIel82Qll3cw?oc=5"
+      },
+      {
+        "title": "\"Wpadka\" Donalda Tuska w samolocie. Wszystko się nagrało - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWhCT1E2R3ZMeFhlakxxdW5BdW1iQWhuX2JCa0lISXdLUHBjM1JFWXZBSnpkZ1ZmTTNoOTNyN3BNSGxUcGEwX3VFNWlya0JLM0ozRy15TkVwbVBwVzZMaExaQTNxZllJZW1rVFFjMlhBQXJtQk9EMlJKQlZCVGJITW9qTDJ0cmJ1R0xjYTB0eEQyLWdZMnQ0ZmtCR1llY1hQc09SR2owQVJrOW1WdFE?oc=5"
       }
     ]
   }
