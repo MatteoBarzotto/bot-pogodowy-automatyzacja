@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-06 18:20:02",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6994,
-      "EUR": 4.282,
-      "GBP": 4.9142,
-      "CHF": 4.5733,
-      "JPY": 0.025028,
-      "AUD": 2.4014,
-      "CAD": 2.687,
-      "CNY": 0.5146
-    },
-    "crypto": {
-      "BITCOIN": 423237,
-      "DOGECOIN": 0.752721,
-      "ETHEREUM": 13432.33,
-      "LITECOIN": 432.5,
-      "RIPPLE": 11.02
-    },
-    "indices": {
-      "^WIG20": 2932.58,
-      "^WIG30": 3787.25,
-      "^WIG": 3787.25,
-      "^NCINDEX": 254.95
-    },
-    "news": [
-      {
-        "title": "Nawrocki do żołnierzy: nigdy nie powiem \"naprzód\", będę mówił \"za mną\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMERxczZZVVJ4c2hvRk5HSjB1X2VwTWttV1BkbkhEZ1kxTk1UV1AyS3pGUDd0TmpuYXJzSk5meko1TmtjXzMzVndTcEhiOFNBbWN6N0tGQ2piQ2VxSkpZNGpocElqTDZFTkhLTE40emZ5RDZNdjNaVW12Szl4UU9IanI5X2ZIdVdEWkF4LUJ3WV9LamRZYTl5VWl1WGVSUk0zR1ZLZ2xtcGM4SHo4N2FuQ2tOVmMtTEtuS3lBeg?oc=5"
-      },
-      {
-        "title": "Tusk ocenił orędzie Nawrockiego. \"Jedynym zdenerwowanym był Kaczyński\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbUZheG5MYWF6MUlMNVpUU21iXzBKdTNvelpHSGFiUkwxZjNiSWVCMnNyVGpLcnJ6cVdRR1pFNlBqdXV5TGppV0Zpd3VTcVF5RXloUFZFT2k0NXFRVGk5VUhvd2E1MzhzeFhyckFDRElLbWNkM2ZGdl8xQjl5MmowWDJNb3BXU0Z6UjVmX0dZejhKZGtYSXJBSXNzT1hKREw1UHUzS3NCdEFOMVBvTTVzWXJqZE1IbGg3SDlTX3pjbw?oc=5"
-      },
-      {
-        "title": "Indie nie skapitulują przed Donaldem Trumpem. Będą nadal sprowadzać rosyjską ropę - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3hhdGpkX2QxOFlKeV9ERWxiVXR6Q1U5VjZScVJRR0dyRVNZXzRBMDJ1UVkzaVV2VWRHcDNlc1M1bEFZTW5XXy1va2luUXRYS21QOEMwTkIydnVobVlhU0NYYmExXzNiU2ttcXRadHh2dWd1c0tzcWExTDZPdUlDekNlejg5VFJxNUpRcDRORDBDOVRROG5hTUx5VUc?oc=5"
-      },
-      {
-        "title": "Indie ukarane za handel z Rosją. Donald Trump ogłosił decyzję - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVBxeXlRMG9KbHZOMVRUSVl4aVRUbFJicVdIZzExdjRRVDRwTUxHNG9LbEVkWF9iWVhfdWlybm15WGFVX2xMRjl4a2JZaHcxLWtsR3h0c3lxbmFDdTJ1cG1Bd2hrUmxacHRIOG5HU0s3c0RUaFlXVGl0dGxwTHJsdmpmb05MekhhbWNOdEo5S2drZTcxeDBxMHYxUDMyWnJkQXhyWjJBYS1BdUJ2aGtF?oc=5"
-      },
-      {
-        "title": "Kaczyński starł się z reporterem TVN24. \"Pan jest chamem\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjd2cURZZ2l0QkRYVlY0UkI5R3pxVGZRTjNVTDhKcEtXdUMzUDhIanFNVWhwSzBfU004MXJqUU9WaEllMHVLSTMtTVJEdEJLbGtjdWhhd0NTdGlRckJLS0tMdENFcUdYQUNNb0lzZjYtV3BhREhCV0dWeVJ4dGpOamdkcEFuY01NRUh0QU1rODRfZjZ1ejJPbG5mclJ5UQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-06 19:18:03",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Ponad 30 stopni na termometrach. Nadciąga fala upałów - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUhKRzA1aTNfRmFjZ1NpX3U0VC1PZjA5WjltbVBmMG9pSVVDT3BPQVhjNjRseTJMUkpKYUlxNjlwNE1uaTRJbHZpQ3hacEFrbEVrNHlBOGFsOXBVZ0xYUC1TMzFrUWdEQk9nTkNodGt0V3FTQmV1aFo0aXRabEFIU0J6c2o?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-09 00:13:53",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6577,
+      "EUR": 4.2566,
+      "GBP": 4.9141,
+      "CHF": 4.5237,
+      "JPY": 0.024771,
+      "AUD": 2.3847,
+      "CAD": 2.663,
+      "CNY": 0.5092
+    },
+    "crypto": {
+      "BITCOIN": 426352,
+      "DOGECOIN": 0.837854,
+      "ETHEREUM": 14706.24,
+      "LITECOIN": 455.41,
+      "RIPPLE": 12.03
+    },
+    "indices": {
+      "^WIG20": 3022.19,
+      "^WIG30": 3884.57,
+      "^WIG": 3884.57,
+      "^NCINDEX": 256.41
+    },
+    "news": [
+      {
+        "title": "Spotkanie Donalda Trumpa i Władimira Putina. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3NMZ0FKV1lmU3l3b2wyRmhfcFRuWjVtZWJrSEhMa1BmcFIweEhNZFNETGpMQUhjWlZ4ZkoxWUpnWW5BeFNVeFAyeXZSRTh2c2E5cFcwRzdaSTVTckJUWFNaZjJ5NUZOR0thT3NYQkxfeG9kLXFDNXRiLXhhZ3pDeVFMNFA3bVNOVHo5ZFRYRTl3N1BjQ3BrUUltNzMyenppcDRKblRxUXR1eFQtMkVCSFpucDkwU3dURlQxejhTYw?oc=5"
+      },
+      {
+        "title": "PARP rusza z kontrolami w HoReCa. Zwrot dotacji nawet w 14 dni - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYW1xRGYyT013cWlKMGhNUHRnd180RzZGaHdpZE9yMFFhNFRTcERDcTVZYWtFVlpkZXd6M2U2NDVRQk9pZC1BUEtDS2diX2tZZHdUX2tRa0psVFhKT0tuY3c4eVUySy1tYzNaS0RHZ0JFZkVKUGJOT1prNncwOGNIUWRoWEhGVEJMdFVwM3g5ckExQUR5U2xUOXpLZ3hYdkRaS0hLb2Zpaw?oc=5"
+      },
+      {
+        "title": "Drugi próg podatkowy w górę? Nawrocki zapowiada projekt - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlhxaGs4UzE5Y0JORW1OSlAxemhhbmVZb2VYNWl5bk4xUXd3ZXZWSUVnclMzS2gtSDZHRTEzNi0yQmNPQm9rZ29QMFlscERMZEdsZ0JkaW5HYV9nWDhOZTRNZVRtSF9GeE5Wa1Z0eXVHY1gyYmpoenBMVDk5OFdzVkxlRGZvdVBabzF5aWY2ZnNQZ1NieWxjcW54SXY2eVdIb19Nc3kxX29zUQ?oc=5"
+      },
+      {
+        "title": "Posłanka Razem Paulina Matysiak na wiecu prezydenta Karola Nawrockiego. Co łączy Razem i PiS? - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSWlKLUhqVzRRVjhlaW5KczhYQ0x4R051VzN6Z1hvTVhRdnNYUEVOaVhvZzlibVJvUTlJQzV2MGp5WWFwekxGMUE3MlhmNzNkRnp2aFhUZmRFNE8tYjBfLThLQk9UZnd5N2tWWWZQM0tIdWxCVGlEYjZXWHFDaFZQdDFUTHZmeHdSaEpqdnZMUkdaS0p0OHVNNnhBZ3ByOXVqNmlqQVUwZFFxUXJSMXZwM09sZw?oc=5"
+      },
+      {
+        "title": "Niemcy mówią \"stop\", wstrzymują wysyłkę do Izraela. \"W tych okolicznościach...\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzhMTFREM0xUQ2x2M1djY3E5S2hTQTI1NldYdUIzU3FKSUJBZWRiOElkc29LR2Z3VU1oLUpRQjZXbFlrV0dvbW5OUXFJMDZEc0VFNVBOZlJIQW9FS3FWOUhPcTFDX0l0eFlyRDRlVjA1X2NQa3ByeERXWWllZW0xZjMyMFEtcnhPdVB0QW5wMXk2LVhzUEVlZHREbXpXSFVST2hreEZBcGZXVjFQ?oc=5"
       }
     ]
   }
