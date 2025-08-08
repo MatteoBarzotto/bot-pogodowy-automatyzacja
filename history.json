@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-06 05:39:46",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.7066,
-      "EUR": 4.2763,
-      "GBP": 4.9226,
-      "CHF": 4.5702,
-      "JPY": 0.025116,
-      "AUD": 2.3919,
-      "CAD": 2.6847,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 419449,
-      "DOGECOIN": 0.727417,
-      "ETHEREUM": 13236.04,
-      "LITECOIN": 436.29,
-      "RIPPLE": 10.79
-    },
-    "indices": {
-      "^WIG20": 2865.63,
-      "^WIG30": 3706.07,
-      "^WIG": 3706.07,
-      "^NCINDEX": 255.7
-    },
-    "news": [
-      {
-        "title": "Donald Trump wysyła delegację na zaprzysiężenie Karola Nawrockiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZGNLR3NneDlOOVZVLWd6WVl1b3JpeUNQYnlqd1VBX09wa194RDRmcDlud3JhU2k5UEVYRHJiWHg5OXVUSlJaR1FicVJLcldvV05CaHBXSUF5WE9HdDFsTkNtUG8zMGhTbnBXWXJva1hnTXNhdlVkcmdURVU5dWM2M2dWYlZ5clQ0M1lyUnlyTEUxaTY0ci1BVEZGZV9uYTludHF1aTV1UlBLSk1mSGpqM1FxVVZ0THJENEFPeWQ4VTQtNjJYeFRfTw?oc=5"
-      },
-      {
-        "title": "Pierwsza dama zacytowała jego piosenkę. Kuba Sienkiewicz reaguje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEtKYXFFaWFQVEtCT1JZQjNOM3lXZDgxZ2RIZkwwd0I5Zm5FbGsyb1RISEVYNmV0eW95N2twYkVkeHBLNVlvMWpPSVFQLVF0NnJNZEduc3FHdUlDMUJLZVdwTHlYTnpYcTRsRGF6b0gybUpkRERBdHZ5R01WNVhBU0NmR3ZhOVU3V3J1bGttVWQ1bEtUNE1kXzN0RGFrNnEtaFFZbURFX2J3Wkhk?oc=5"
-      },
-      {
-        "title": "Ostatnie orędzie prezydenta. Andrzej Duda zwrócił się do Polaków - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEE5QXl1ZW5RWUNzUWVZVk5OXzFIVWZtcF95T3ZNUy1Ub1p5MlhmdDQ5MUdoZU1pb3p2RnNLaDhwZUhRSlZSOV9DSnV1czdsMjNkcVdvZklER2xaMmY2MzBsVU1FMnNsY3BXeUszcGlObXdSeGdYaXh4VzFZYlk4Sm1NRnd3QkVLOFBTMVAyUURyWktSY2lnYThQOW1FNkNiZDhKNjEtUEZsNjY2UXpWOVlBNA?oc=5"
-      },
-      {
-        "title": "Sejm głosował ws. immunitetu Antoniego Macierewicza. Jaki był wynik? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHBhZ3h2R29oMnlEWk5UT3kxTnB6cmlUYkF0UHh2ZzBZbnZBWi1aWDc2WUdIV2lNYlYzVExPM1ZfOWJHWXlyTEZLYXRXOV9qUVVpUTdjbkxzLTNjNmw3RTRla0dpNDBqTlZwR3dTRk84bE51alpULXlSV2M4cHROdk1kUFA1MDViOXZmS244V2dFazFlV2J6R2x1WQ?oc=5"
-      },
-      {
-        "title": "Indie krytykują USA i UE. \"Same angażują się w handel z Rosją\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWFlNlJSTmNUZnVkU2hhS19ZZEk0ZTVmOXBvbjNjelFPOUQtdzVGTGVDTG1MRjRjc2REeTNJTXBBZzk0WFBfVFZDUnVsNlZJemlDSDZrbTZmZi1VaXlRY1I1ejN4QmhnaFZablAyOTY2d1ZDX0o2VDdIVkN0d1c4YkhjanNmM2llbmxvVlB2RXdsRk9ETlZMQ2NjZllrbXU0WWVfbFlKMF9XOHFtOWhnS3Zzc0Q?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-06 06:39:17",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2637,6 +2584,59 @@
       {
         "title": "Spotkanie z Władimirem Putinem. Donald Trump zdementował ważne doniesienia - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFBaa1dwSVdTQUQ0ODdDa3BPR1lUOFV0dGloTUtUTkpFaDRIMnQ2NkhjT3d3R0RmbjBjZU9ZU3pUYWVKZmJzWlRuRnVJLVpIdWJXTU1zSTA4bWtmTlBPMlA5bGlobVFnQk9RSFR0dkw5enBrbmlnX0Y5S0RMUzJjb29BX1BnbjNPWlFqOTR0WUpheF9lemtvWkQzRjNDaVc5T0IxbWxkVWVhaEVxRmtqSEoyVE9xc1N5NEVBMVBaOTQ?oc=5"
+      },
+      {
+        "title": "Izraelczycy masowo wyszli na ulice. Netanjahu i tak przeforsował swój plan - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenR3enVOTnlINUl5cU1PQXVUUmhMMzhvR056czVIYWwyaklBRHVVVDA2RTdHdDRLLTZ4eEk0OWg2ekVaWFZpNUNxOXJfSXNuc2VpdXJBYlczanVlNTZSOVh6TDh6b1JxVjZYdl9LaHVjVVdQNDhYTE9HdXFFMkVNMTQ4dkpZbExfQUQxZWJVaURHNFlmWnc2SzJsMkNGSE5MUzYxb1JZMFlkNjJndVhzc3VxbmdyMGI0WDBDdzdVUG4zUQ?oc=5"
+      },
+      {
+        "title": "Kim jest \"Jarek z brodą\"? Nowa twarz w Kancelarii Prezydenta - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXo1VUJlWHpIdUpMbnNvbUhydXlKaGtkTUlSZXQ4RzdYZGVvQmN6U1J6ZHJPNk5mRXpxVTV5R0Jvb2VTelR1ODF0RjdiUU5DYWZBUHFsbE5GQ1lfaVdVY0NaR1lpY2E1STJGWWs2OGtBa016c0ZuRC1SOFk1M2FMdDUxS1Z6aklSeFVPdVFYamRFeGxiLTBfYVUyY0V6eUNhc1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-08 11:21:16",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6477,
+      "EUR": 4.2618,
+      "GBP": 4.877,
+      "CHF": 4.5249,
+      "JPY": 0.024791,
+      "AUD": 2.3825,
+      "CAD": 2.6567,
+      "CNY": 0.5082
+    },
+    "crypto": {
+      "BITCOIN": 426612,
+      "DOGECOIN": 0.816079,
+      "ETHEREUM": 14249.1,
+      "LITECOIN": 447.1,
+      "RIPPLE": 12.21
+    },
+    "indices": {
+      "^WIG20": 2970.17,
+      "^WIG30": 3827.03,
+      "^WIG": 3827.03,
+      "^NCINDEX": 254.49
+    },
+    "news": [
+      {
+        "title": "Burza w sprawie pieniędzy z KPO. Minister zabiera głos: włos się jeży na głowie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFYzcnp3bzNCdXUySFpSNXdwMGprOE9TSHNWTUp3NmpqbHdOdjd2dFl4Ry1yYVFsV3hvZUxYTFZ0OW9Ic2x6aTdxSWhHMVUtQ2V5TUxSMWFSMmF1MkE0YTlKYmh4UGgzVDVicDYydkNmeUJQNTFzZlV2cUpGWkZYamFraXo3OFNoQnlFeFRuSnBfVFZ2RjhJZDgwa1htRV84cmZjUXYyOS1PZXdndTZ4U0NxbWpUbm82X3lhNGFNQnRLNWtWc2ZZ?oc=5"
+      },
+      {
+        "title": "\"Przepis na niegospodarność\". Maciej Lasek dla money.pl ocenia prezydencki projekt ws. CPK - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRmxsVEdFYk0xMzJ5RG5aTUhqYzl5OGNwMFltWnQzTkRaUk9KcXlNMi1Yb3N2eTJwWm84R3BnQ01rUUxST2ppc2lTaVVPWUlyeFNqOXUzX1hQeUJ3WUJyZkNkeHRSNGw4d2hUOUpNdkszQ0J1QXlaNmRScGpsMzBmandFdEJub1IwV3pTaDIwUzVOVU82LURNME9KWmhlWjNoSm1iQUVOQnNrMktZU0QzcjRUeF9xb2RreE9INUZ4aU83b1c3bnBqdVNET0hGb0xrQzFrb2d1R2g?oc=5"
+      },
+      {
+        "title": "Prof. Jerzy Bralczyk ocenił orędzie Karola Nawrockiego. \"Osiągnął to, co chciał\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTDF0WjYwVTROdkZqa0NZMHhzMmRuT3NNazRVbHRVQzVGRFUyc3dBWmFTOHlZc2ZrMXVVM2hwcjhseThpcVBQMHlLTWZFdlJfZVBQOXVYMG5qTjBRZ01ZN1drazdPN25QZllfM3hKRjF2cURRdzFNWWljWTFLTDIzZHBQOU5kaWFQR1Z2cFVpT1YzaWkzQjRmOWt1MC00Vjlpb3lmV3VlZjF5RXRzdVFIMmZTejQyNGdvcWFOQWREVzVGdG4zTjJkcWJPcDFzYkVK?oc=5"
       },
       {
         "title": "Izraelczycy masowo wyszli na ulice. Netanjahu i tak przeforsował swój plan - PolsatNews.pl",
