@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-08 08:24:23",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6477,
-      "EUR": 4.2618,
-      "GBP": 4.877,
-      "CHF": 4.5249,
-      "JPY": 0.024791,
-      "AUD": 2.3825,
-      "CAD": 2.6567,
-      "CNY": 0.5082
-    },
-    "crypto": {
-      "BITCOIN": 425374,
-      "DOGECOIN": 0.804677,
-      "ETHEREUM": 14269.51,
-      "LITECOIN": 437.78,
-      "RIPPLE": 12.16
-    },
-    "indices": {
-      "^WIG20": 2985.33,
-      "^WIG30": 3850.71,
-      "^WIG": 3850.71,
-      "^NCINDEX": 254.42
-    },
-    "news": [
-      {
-        "title": "\"Przepis na niegospodarność\". Maciej Lasek dla money.pl ocenia prezydencki projekt ws. CPK - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRmxsVEdFYk0xMzJ5RG5aTUhqYzl5OGNwMFltWnQzTkRaUk9KcXlNMi1Yb3N2eTJwWm84R3BnQ01rUUxST2ppc2lTaVVPWUlyeFNqOXUzX1hQeUJ3WUJyZkNkeHRSNGw4d2hUOUpNdkszQ0J1QXlaNmRScGpsMzBmandFdEJub1IwV3pTaDIwUzVOVU82LURNME9KWmhlWjNoSm1iQUVOQnNrMktZU0QzcjRUeF9xb2RreE9INUZ4aU83b1c3bnBqdVNET0hGb0xrQzFrb2d1R2g?oc=5"
-      },
-      {
-        "title": "Zamieszanie wokół spotkania Trumpa z Putinem. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlNXTms2YXRUWmQtTUJ4WEYxdmNkaHEzdWlqUDhJTlpFRmk4VTkyOTctdEFCbzZWRElQZmltdEJydWoxa3VEalJzckF4UU1jdkI4VzNTTzRkSF9UOUZfWkJ2eng4NG5pbDB6OWZjaXJ3eE9IOTI1TzBWcGg5SGZSUkJucmFzUDY1YWdXZ21MaU40MHRCcUNaQlE4WndJQlc4LU1URnln?oc=5"
-      },
-      {
-        "title": "Kim jest \"Jarek z brodą\"? Nowa twarz w Kancelarii Prezydenta - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXo1VUJlWHpIdUpMbnNvbUhydXlKaGtkTUlSZXQ4RzdYZGVvQmN6U1J6ZHJPNk5mRXpxVTV5R0Jvb2VTelR1ODF0RjdiUU5DYWZBUHFsbE5GQ1lfaVdVY0NaR1lpY2E1STJGWWs2OGtBa016c0ZuRC1SOFk1M2FMdDUxS1Z6aklSeFVPdVFYamRFeGxiLTBfYVUyY0V6eUNhc1E?oc=5"
-      },
-      {
-        "title": "Benjamin Netanjahu przedstawił plan dla Strefy Gazy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkVGWmVoc2tDQThMek9QOUZEUlR2UWZNb2gtVmNyeXRQU0dpWnRDODNGOTYwekZjbWUwR21vUGVQQjMycWJvVWdlR0ZQRk82UFFBay1uaEdDZjBtZjBzWWFubFVhdHVHa2xmU1RnbTNMdEZ3Y2hXNUtVNWhOUnZUREZ5dEprenNqcFQ4X0EtbmZiZURLSnFOc1U1U2hZUlFHekkyRVZzMUg?oc=5"
-      },
-      {
-        "title": "Bronisław Komorowski krytykuje Pałac Prezydencki. \"Kompletne bezguście\" - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmJTVTRNWVdISkVLS2UyVWNDV2tGdVNMRFVCS0tHUlNhWEhiWE9idzEyYS1BVVZMSjNJVkJfQ3F4bjVpam1vcWprWmU4OGY2b1NYVk1vNUZiam9mWi1hZ1dFTnp2NHVwVXl1d3VLamJNQk1PVjIwTDdIVEpoU2FfZzBfMGYyNmtMTFZseDhkZmJGRlQzZmdXQzhJeVR5NndQdTZF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-08 09:20:54",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Makabryczne odkrycie. Ciało noworodka znajdowało się w reklamówce - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUJhZDdlTkJpbnhHbTlUZVNsMmxvNkRfZVlfOV96dF9BQm1PUDBodFBtSDBMcjNrUzRna1k4aDlFSEd1dENOejZMd2tVbEY1U0dvOFBwdjhSdUlramZ0azg5WmN0STBGNE9nUEZuYzBicElVVU1pZGdQSVdDSUYwMmNRekVUaURqSWJvenJCMkRXem9yVTBHaGJsMXV2YTVEYVN1X25KQk1nR2xrNFJYMzhHZjBiX3JCcEEwRTJhUUw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-10 14:27:52",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6577,
+      "EUR": 4.2566,
+      "GBP": 4.9141,
+      "CHF": 4.5237,
+      "JPY": 0.024771,
+      "AUD": 2.3847,
+      "CAD": 2.663,
+      "CNY": 0.5092
+    },
+    "crypto": {
+      "BITCOIN": 432635,
+      "DOGECOIN": 0.843786,
+      "ETHEREUM": 15280.02,
+      "LITECOIN": 443.18,
+      "RIPPLE": 11.62
+    },
+    "indices": {
+      "^WIG20": 3022.19,
+      "^WIG30": 3884.57,
+      "^WIG": 3884.57,
+      "^NCINDEX": 256.41
+    },
+    "news": [
+      {
+        "title": "Szczyt Trump-Putin. CNN: to powolna porażka Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRTJGTnZtUnpDWnpxU3d0bjlSdjk1RTdHbHVsUFE3cUNjR1g1Z2tKdUwySXB3OWo2YUFIWHM5TlhUZ1lya3VpMFMxVjZLN200UXBhekJ5alRfS2JhbTlxY2ZtZ0NCUml6ckZaV25EcHZvWVJ0RXdBV2R1NmFiT2trVlBoc2hKZGxHSWlOSng4S28zVkkydzN1X2V3cUQxNi1kZy1hcjA1cV82MFJCblE?oc=5"
+      },
+      {
+        "title": "Fogiel uderza w rząd ws. KPO. \"Plucie w twarz chorym na raka\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdldXZUxWNlBYUFpnWktvZE1tdUNrZU1BMFVRTE95ZWJhclNXMGZCTlVSaFo0dU5PakE0bEw4bG53aUNxanhsYzF0b2RaUmF5UGs4ZzBIMWt4Y3l2NGItMzFXalNLZ3BzWE93bDFyalB5a04tSHdpRTE1THFSLXN5LTlUMDN6RHJJYV9rZDdYaXRMMlNiRE9jZG1YaHJkYVIzZFVRbWRGSWJlWllYM053R0V5YnhtbHY1MmgxOTdNYw?oc=5"
+      },
+      {
+        "title": "Jarosławowi Kaczyńskiemu puściły nerwy na miesięcznicy smoleńskiej. \"Te śmiecie, które tu stoją\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUJhVG95VnFKYzI0V1JIVkh6YzlFNTdnWWhPNjFMX3hTa25YVUU2UUFEc25tWnJ3MVFVZFZremxCQWgwZDRjdW85U3hCVGZhVVF3TjVHMkFKbjZyOG16Y0dBQW92eWNOU0l2S0pjWE52QTV5MTRrR0k4NXFYazNfVk4zVFkwRlpRMFNpMjcwZGpMajJZampsaHpsRllucTBHZGpHaHM4am1UcGFfdFdPak1Cay0tOXYyZVJtaTNrVnQ0RU1ZYnpZQVRMTWxEZ3RkUmc?oc=5"
+      },
+      {
+        "title": "Makabryczne odkrycie we wsi pod Rykami. Na posesji znaleziono noworodka. Chłopczyk nie żył - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZE5MNWs0dG1ZME9vZVhiMy1NSGZCWHJ0TlBwWnVKOVRYd0FLOGJPZjF6MzhUSTdDMWlQbmpCSElwUnNkUDVGcnFVY1h2UzNGcW9RRWZCLUdweUtpZ2U1WWp4LVllWUM3c0FMOTdCRHhXcFNmbjVkRF9rYzItQ2h1S0tLa2JIaVlwYm1mV0ZhRmNEWUgwdG5SRGZWNjdEbjQwdDhoT0dfYmZHU0k2alZtLU9HcVo4MXRlVVppOFFhQ0ZnRV9pbVh0RXp3?oc=5"
+      },
+      {
+        "title": "Pogorszenie pogody. Ulewne deszcze w wielu miejscach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnAzbHg5Smh1ZFRhVWNhbW01YVJfb0lJUzRkUHdsSlMzME1ray11dFJ4TXExdHBIUnh0WndHYUYzSzdKalBVMGlzMkQtb0lPUVIxTHhCZnFxeklKVTVBTHVZbDNCTEJuMzhnS1pLSWowNzd4WTJ1alczeHhmVkYxV01Xa1ZMQmdjc281TlVVV3RBTzVwVEp1c0J3?oc=5"
       }
     ]
   }
