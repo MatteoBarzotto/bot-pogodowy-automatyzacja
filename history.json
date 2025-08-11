@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-09 11:14:12",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +23°C"
-    },
-    "rates": {
-      "USD": 3.6577,
-      "EUR": 4.2566,
-      "GBP": 4.9141,
-      "CHF": 4.5237,
-      "JPY": 0.024771,
-      "AUD": 2.3847,
-      "CAD": 2.663,
-      "CNY": 0.5092
-    },
-    "crypto": {
-      "BITCOIN": 427492,
-      "DOGECOIN": 0.863188,
-      "ETHEREUM": 15277.44,
-      "LITECOIN": 455.59,
-      "RIPPLE": 12.13
-    },
-    "indices": {
-      "^WIG20": 3022.19,
-      "^WIG30": 3884.57,
-      "^WIG": 3884.57,
-      "^NCINDEX": 256.41
-    },
-    "news": [
-      {
-        "title": "Spotkanie z Trumpa z Putinem. Prezydent USA podał datę i miejsce - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDFhNHlKQzBmYVVsR1BBOEh4ZDFsWXp3SEptTUVnOUt3d0ZTTjNfblpJRjFsVjZLN0tsWDZ5WnNoMGxhWmo1djdOd1pCWmtiM2ZyRlc2b0VQUjRoM0tHZDFSeDI0MFNSMTVLZ2N4QklUZkJHV29KOHdFMzdTdUtILWJUWV95NVl5R2c0RE5hQ1o?oc=5"
-      },
-      {
-        "title": "ONZ apeluje o pomoc dla Gazy. Izrael planuje pełną kontrolę nad terytorium - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1d5eHlrT1VNNE1xdkVTbG1ja3RHdU1xYy1wak9CYXdwdE1vZzY1RC1jUkpOY3BWRFpGSDlWUFB5amp6ajdxQ19BeENXUDBKcUFTY2QxTzk4ZjB6TXY5MG1aU0tLc3VBM1hmZzhlZ2NsTktkNU9ZVWNyUjR0SFhZMlVpRkU3Y196RHU5TlVrazdFNUNMZl9sbHZ0YTNtZ255bGM4TkRWU3kxUmtsUEFhVlZpZw?oc=5"
-      },
-      {
-        "title": "Pieniądze z KPO dla klubu swingersów. Właściciel zabiera głos - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlBKM0w0UWZxdmZqbEh5eUZuUDdRODNlUTUyTnZwMUpXMjFDcTZVajJmdWYwcTRqTzNVM3FaM085N21GaGpaLTN1ZzBOZTVpV1hLY2ZURW9YYWVOVHBsX29nZThKTm9GXzJ1UTlVaFBOMGhwUWI0d0ZXbXNBV2YzQ1p3SW9UVWU2RzEzay1vRlFUTmw5Z2FheURGQXp5NHdzUk9NTXRoTzJMcVF5S0Z6QmRSV3gxdw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki spotka się z Donaldem Trumpem. Padł oficjalny termin - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSm9TTjZDdGotZmNjc0lUQ3dmbVM2V0dmRmNEOWN5Z1prM1p3dV85T0dnZl9YVnRHTG5uVmxUVFVqTjRySDJhWVlRMTJKWGs5QVpWXzJxZEl0OWkxajB1cV9TZlFRLU5DbXc0ekhpbEJHQnZmb2lsT3ZNMHBZdmtrZXlpMWdoMi1LeXoyV1hPcG5UcWpMdjNOTnFKUGgteWdYdFFKTFhEWEtCQ2hrdFJONEZic1JSN3VJYWNaWUxUeFZHUngtOW9SaQ?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki odpowiada Barbarze Nowackiej: \"To nieeleganckie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzkydmg2VFZPeE56ZGRzWEJJdHoyUFlDRXF4bmV1aTQyWllSMTN4NGtGcHUySVJEZWdRU19BbHZ1UTNEMVN2dlVBanQwZFZ2aEZfeEw4Mk1MeW1pSWwxRDZwUmVJSHE3RGRJZnU5NW9rUTJFc3gtY1pCNUgwemMwYjBOYThOb0xnNmdzZ3QtR085T0FQX2JXQnVxd1gxcFNXZFk1TG1B?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-09 12:14:08",
     "weather": {
       "Warsaw": "Warsaw: +26°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Waldemar Żurek, minister sprawiedliwości: Nie będę pukał do drzwi prezydenta Nawrockiego - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWFQeDlwc202ZHNINTdkOGt6S2E4NXIyUW9TdlZUMld6dTVTVkV3d2FIaUg5QTRfT0xXNWRhbWltT20tTDZOenB6RTJFT2VqN09yQlJBc1BVbjdVZnBoLUpsZ05tMWZuY3ExTWI5Nm16eVhuS0FTQzEzVW5ZRmpEZHBQMllVTVhGRmg0Z2tSd2M2Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-11 17:16:21",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +24°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6495,
+      "EUR": 4.2533,
+      "GBP": 4.9137,
+      "CHF": 4.5145,
+      "JPY": 0.024739,
+      "AUD": 2.3797,
+      "CAD": 2.6514,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 440757,
+      "DOGECOIN": 0.837208,
+      "ETHEREUM": 15692.85,
+      "LITECOIN": 455.29,
+      "RIPPLE": 11.7
+    },
+    "indices": {
+      "^WIG20": 2994.43,
+      "^WIG30": 3851.13,
+      "^WIG": 3851.13,
+      "^NCINDEX": 258.38
+    },
+    "news": [
+      {
+        "title": "Ostry wpis Donalda Trumpa. \"Waszyngton zostanie wyzwolony!\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUl6VWJDRzkyUVBYOTQ5bE91RjFtd3pGcUU5R1RXMkFsMzZjMXNUd1R2QWJGVnBMZzJsZTBRUm4wajZKcXQ0NnBMaXd6M1ZUZkRBRVdfUENQYUZSQjV0dGg4QmpmUFIwNUU1LUhvejB4NURUaDNyM2dBSEdwVzFZWE9YVzVZZElUZEs4WnpKQ0ZzRlNoRm9zbHFTZGsyZFFSS1l0LWd6cUdTX25wWU1Kbi04REVoQ2xLSGc?oc=5"
+      },
+      {
+        "title": "Samochód wjechał w pieszych. Dramatyczny wypadek w Warszawie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDQ2cVdDSHF2QWRMVnA3X1VoRHl2Y184T2Z3QlVsV0Y5dzVpaUJZTVF0VXppcVJNdi1oRFR3bXh0S2xEY00wN0NCM3dlTTRPNmplU2JaMk5kLVVOeWxjZ3cxQ0hBenVvaFU4ZTRrdFNkZk90LUEyWlRtdGNGbmpzb3pqNkp4RlBnWHZ6a253NEpiRnk0bmF4OXpPdWw5bFdNSXdialY0NmY4X2c?oc=5"
+      },
+      {
+        "title": "Donald Tusk komentuje aferę KPO. Możliwe decyzje personalne - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUlsdUhtamFKLXR0S1lCa1JPc2lZM0ZyM29PV0phOHZ6Q19ra0ZKZVBGRE5DY1NxaWw5dFE5ZjJWOEROS0pMN1RXM0w0QkFIWUFEeW5TTjg1cU9Hd0dacURRMnJaaURvYUNPWTFTTTlnNTVQV1NxN05oRlBEb2pJRUNrU1gtaG5JbENzdXVCeElzTXBiVGlaZ3YzMkJpTjBheDV6Ui1tZnVvdE85?oc=5"
+      },
+      {
+        "title": "Spotkanie Trump-Putin na Alasce. Analityk mówi, do czego dąży Rosja - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMW02amVfalVWLTd4MEV4UF9meW1MVjU5NW1LUGNybWNPZUw1Ymc0amFJaUZyNUVGT0Q4VzljMjk4aEpqdGZycG45b3AxZkdRZ2dlSDAtX0JLNTU3X3J2Y0JTcG9XU1ZHSVRZOUxJWXJsd1F5RmRQUW5adERZT2piWDBWS0F1b2R1RUQ0Qm5CMW5kX19BN3plc1JBTGRIWVBsX0VPMUpYYkZfQUtWc21yTExDcklOZw?oc=5"
+      },
+      {
+        "title": "Co zrobi Nawrocki z ustawą wiatrakową? Rzecznik prezydenta nie pozostawia wątpliwości - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelo2X19hOU5jeXg3MVcwbm1Qd3dmUG0zR3Bxa1pSN3VCQUVER2pJWkZlUEZrYXRpOFFtT0VVNzZaZ0ZxZlExNC0ydXBMeFczZ3RzcXRidG5HSnl4UllrdjN3OHoySmFBVHlHSm1ZVldybU1RZWk3VlpTb0dnV0dIU3dXeW9aS1EyTDBEeWU2SUVwOWVTWjZTQUFzTVBhYUh2ZXBaQWI3dWx3Z2NjM09JcF9Vdw?oc=5"
       }
     ]
   }
