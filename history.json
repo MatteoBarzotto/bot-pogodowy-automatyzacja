@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-12 00:13:44",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6495,
-      "EUR": 4.2533,
-      "GBP": 4.9137,
-      "CHF": 4.5145,
-      "JPY": 0.024739,
-      "AUD": 2.3797,
-      "CAD": 2.6514,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 434418,
-      "DOGECOIN": 0.817991,
-      "ETHEREUM": 15408.42,
-      "LITECOIN": 439.91,
-      "RIPPLE": 11.47
-    },
-    "indices": {
-      "^WIG20": 2994.43,
-      "^WIG30": 3851.13,
-      "^WIG": 3851.13,
-      "^NCINDEX": 258.73
-    },
-    "news": [
-      {
-        "title": "Radny PiS, który tworzył wnioski o dotacje z KPO przyznaje: Sugerowaliśmy jachty - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWkE3MUR0RUY4eHd2ZjdKNHVhZ2UydWVRSWNUc1NpeWNqTl9KeGc2aHA1a1ZWNl9lczVDUENZQkZBVGdfLU9kQUtHeEhsVmN4UmtpeFJHSHZhUG12RWd0bTUxNTktQVg4ak1EZ2pGT24xdlpFbktnZG1aQ0FxdTZjYzNnV0F1em4xZmFiMm4xY2ctUDNkRnA5UXNvSVhkMVAzXy1zaTJXb1I3RWZhbW1GVFVZUlB5TnN1NEJZcXRoeUcwVTRhdkxfNTgycEdJdw?oc=5"
-      },
-      {
-        "title": "Spotkanie Putin-Trump na Alasce. Prezydent USA zapowiada, co zrobi po szczycie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2hhVmlOb0tHWDJqN19EZjRJX1BSLWVmd2VmSEJ4RWU4SUU2NFFKQ0tvcEo0WUF5cTdxNlI5YU84X3JQQVpGX2hXanZBSjh1alJER0hqS3d6T1A1cVp5VW00aGZwQmgtRV80NGVSTEhmNTE4bmVpdFFfeHlwcTFOclBqb3padjlPcVc3Zlp1WnVTOEtZSjJ0S3JsNElxUU5abjRYZGFEYmhjTWpWVThIY0dsV3Nncm5YNjF3dUg0SzBoTXhP?oc=5"
-      },
-      {
-        "title": "Rosjanie przełamali linię frontu. Wkrótce mogą zająć ważne miasto. Chaos w ukraińskim wojsku - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1pMTFNDeURUN05HS19XR1RMUjk5R0d6b3VCdVpxR2E3Q0wwbWZJQ3NNNm43bkJZeWRvTkM1R1dNYXpMSERBSnUzeWsxOHVxT3ZUbHZ4VzN2MUpCcFVoVEM4N2d5NVAxWmtUbXg0d2ZmdDNmcFQwRFZBSkZLNnVaNjdkSjdodGJFb1VCcGNqOElQZS1MblNQSzJlTnZfVllsTnRNV19aVWVUQWh2TnNaRkstMTl4WTVEUTBlZ0c3YVZCZENGaGc?oc=5"
-      },
-      {
-        "title": "Płomienie i śmierć na A1. Koszmarny wypadek pod Pelplinem - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0w2dVd3bHZmLUt5d3NrSFNYRjdNbFFoUmJraTFDaW8yei1oQVRyQ1plWGZuam5aNVVjWXVEaHNsVEhJUmpWUUVxSmF2ZmF6WjRoV1liTV9zQXBRbHZKdnNsVkppVTFiY21tSU1rRDVyZG5jdHJvdlJkdnpqY2h6RkZfcjNzS1Ntd0dNc1Bvcm5ZSFhfdEdlRXZmeWNvRTBaTlZsVUt2bG5SdjhLeHphbVJzb9IBtwFBVV95cUxQYmhrcjg1V2tWcXdxaGhsZGNCcUt2UnJqV3o0ZmoxRkNSc0RfLU9YM0xESWFrTlJSYy1naThDQmtLMVMzQm1TY1Q5VGI1dnJ2SzB2QndUalk5dmw5ZDhUQnVXeUdqWmJHMlZfZDhEZGVBQnpObzU0Ym92VFFMb1Z5ZXljblhEbDlRR2c0NkdRbjJfR3V1cGZra25CT0J3VVRBdmZFLW1rbE5GbWVPQUFoTl9uMW56ODg?oc=5"
-      },
-      {
-        "title": "Żurek odpowiedział Nawrockiemu. Zacytował utwór Paktofoniki - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcExlOWwyblpySnJ4eG1pY09WTHRGRm5CQl9SVWIxTXJ0Z2U2MlBHRGFPUDI2WEg3MzBjRDRDN2tlT2ZKSEk1NUNJbTNpQmdwVzM1WmJ5amxzTkFUdnFpemVTQUFXYVU4dzZvN2ZfWkdOb0lELUtfWEdnd0ZIeDNrYVF2OWxqUml3RUpNVExnLVI0cHl0b3owNkducHprQmxSOE5iYnhaLWRFQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-12 01:13:27",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Rząd szykuje zmiany dla rodzin wielodzietnych. Oto szczegóły - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSnVfWG5va2toSlpHeE1Ha2lyR0p5R3JlV01waW9LMi1GVFI1T0ZvSEM3MTVfb1ZtZ21hVGh1ekVaY2RSVVFiSXBvY0E5a0VjUHpad0x2QUpvY2dFWEtqNTFnM0RFSmhVYTVOOS1la1FQNklQM2h4VUE4Y2oycU10VW80dEFMbHJYdEVOMzBSX3l5OHBLMS00eVBSVFdWamN6MlNkYUZMWFpKRTFxUkl3VF84cmg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-14 08:22:23",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2586,
+      "GBP": 4.9281,
+      "CHF": 4.5249,
+      "JPY": 0.024685,
+      "AUD": 2.3814,
+      "CAD": 2.6414,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 442091,
+      "DOGECOIN": 0.893676,
+      "ETHEREUM": 17197.57,
+      "LITECOIN": 473.05,
+      "RIPPLE": 11.81
+    },
+    "indices": {
+      "^WIG20": 2997.03,
+      "^WIG30": 3849.47,
+      "^WIG": 3849.47,
+      "^NCINDEX": 256.38
+    },
+    "news": [
+      {
+        "title": "USA zawiesiły część sankcji wobec Rosji. Komunikat rządu przed spotkaniem Trumpa z Putinem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTk2NTNqdWhJVW5zRlowd2VMVTB3eVQ3NDhPSTlHaGNwWGsxV2EweW9GSVdEV0dYSHozNVM5bEEzUVEzSzRqQnlVeWN1X1RwR2NUaTNhNlhKdW9iRVJEWDhTb01HeGhyT1VCenlxclhMd1NXanJ3cEFXWGUyRGNRYWgtc0tvNXJLTzVxaFdVTmM?oc=5"
+      },
+      {
+        "title": "Dlaczego kanclerz Niemiec zgodził się na udział Karola Nawrockiego w rozmowach z Trumpem? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWhaQ3ZKT0ZiUnhMRzlIYUZFNHI4a0JqemxqTWZXTEd6ZFJTS2JDYVoxRHVFel9vVzQyS0xBRzQ2MW9WSDR0RXBtTk9hWHZwQ1RkQzNsUEV4Ry1EV3hBZVh2a0RBS3YwWktHc29XcVlXRU1QVF9wMW9JSXI1S0RKUDR1dURQVDdZSkd4ODZ4MktIaHgxYnBJY0lRcDdDVnZocngxNVpTWTFQUS1CWlExSHhDTlZldUl3ZTVhWlVDcE5kZ0RoVWk4?oc=5"
+      },
+      {
+        "title": "\"KPO to dopalacz\". Ekspert podaje dane o pieniądzach z UE dla Polski - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXd6amJraVg2OUEyYzFucUg1T3ZVSk5hU3pETktCc3NNSGtHcFpyVVBuamtOVllKSjVhME5ka05aemRkczlyYndPYVgwNl90SGx6b1FPakw0dmhqSHNTTVNrb1F3TGR3ZUdQcFd5bV9fRFMtZFNaenE1N0E0VkRrcGVYOFBTMVJRa1BqSTZkblplYk1lcWF1eV92NHpqUXZnYzlmTVRtTVg3VTVjc2NYVkJmS1czOE9LbnFMWXRR?oc=5"
+      },
+      {
+        "title": "Pożar na Pomorzu. Płonie hala produkcyjna - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXI1dkRVWXUtbVJHS1hNLUVrNVd4X213eWdueDZmMVJsd2FkWXVlUlMwSG9zTFFWWXk0endEQ2prVzlaY2hYbGh2RFpheldCeERsdTI0cEhpYVoxR1JOd19TZzRCdmVCSEJFNDBBRTlRWnBEUlRVcUZDejlOb1hPRW5JbHRWOFJqR3Q4?oc=5"
+      },
+      {
+        "title": "Ludzie Mariana Banasia nieusuwalni z NIK. Ruszyła lawina konkursów - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTJYbnV6S053MmFEdnZWLWRBb0MxeDlCeGtJUURKeXo5NjIwQTFxNnpqV0Y5QlRVLXRvcDRYVm9hbG8wVUVodFlVMF9KbWwtaENwUWt2ZFZUTzRJdXExNDFQVXRRajd6dHBINW5Sc1JmX1FtTzZjRF9DV0tKekJkazRaNjdOWFp3S0dPczBob2ZkQVczQ0ZGQ0RXcE9FOGVUTU1faWhLbVM?oc=5"
       }
     ]
   }
