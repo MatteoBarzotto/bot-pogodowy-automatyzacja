@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-12 15:30:06",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +22°C"
-    },
-    "rates": {
-      "USD": 3.6702,
-      "EUR": 4.2626,
-      "GBP": 4.9427,
-      "CHF": 4.5311,
-      "JPY": 0.024726,
-      "AUD": 2.3828,
-      "CAD": 2.6615,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 436616,
-      "DOGECOIN": 0.829765,
-      "ETHEREUM": 16192.02,
-      "LITECOIN": 447.56,
-      "RIPPLE": 11.69
-    },
-    "indices": {
-      "^WIG20": 3009.85,
-      "^WIG30": 3867.66,
-      "^WIG": 3867.66,
-      "^NCINDEX": 255.91
-    },
-    "news": [
-      {
-        "title": "Donald Tusk reaguje na aferę KPO. \"Winny jest jeden\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUlDUm9JVG9kMHlXT25iSUdfck10cVM5N1I5WVhGemF3MVU1eElsRndPN3k5S1RCczdWYnUycjhJbUM4S29jbC1TeHNuT3Zab3BITl9wRTN4bk9SWUZaMU1pcjRWUTdzQ0lVYmcwUjBuZGp3UGV1M2diMW9TLTY4cl9ZbThQOW1WTktMR05GQ1l6QkU?oc=5"
-      },
-      {
-        "title": "Skandal podczas koncertu na Narodowym. Premier Tusk zabrał głos - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTZGSE0tbm9LVkI2Nk9DdjNlbXFmc3VfMWs2ZHZsdEN1VzhxMjlMTW9FQWQzVHlwbTNrVnY4enFWbmxwYUludTVTdVZYLU9RQ05MTzBvNVpCcjlQdHNxa1FLeV9VN0hrcVRwZTQ0X0tYZ1NDVC1RMVkxdkR1aU9rLUF1a05xZUNsNVRZT29aZExrZEpWb3hiRA?oc=5"
-      },
-      {
-        "title": "Spotkanie Trump-Putin na Alasce. Liderzy państw UE wydali oświadczenie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2xuMkNZWUN3MTFnSXlRa21QSzY4bmd3dFI0MTlSQ0tSWU1DRGVxOTFsNS01eDVhZEtKYzhKVEVfTHV5dnhFU0djbjJXNEJ1T25RUDF1SDd6aVo4NjVWQ01jZGZxeVFDMzB2WnViNnpoWHRuczRnZzI3NWtqRmZxb2NtMWZUWnBINDk2SXBNNzBHQzdHTERyVF9hNWRXZW1pb0N5cGdlSlBLd25XT3IyajkxbDlrbWViaGNN?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński ukarany po wielkiej awanturze w Sejmie. Jest rekordzistą - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1c3RzlCUDFQZ0lxUzdERmVncGUtejZXRGFHWm5IWkNjOWpISkxHTDhIU2otc2FGaHJ1TkxYdHVCU0c0WDN6QmVBMEhPY1RpMHRlWklLY1E0MDZZOVpqSEc3X3RwdlhxUUYtMzRsa1RkbkRiOU9XVVZMRUM5dm5qcjJiYXM2eHhRdUFYZlpKNG0xZjdpVVotQTVjTGlDVTdyT0RYTUJCTkxaejFLbXhpZUtJLS0?oc=5"
-      },
-      {
-        "title": "Jest nowy sondaż partyjny a w nim zmiana na prowadzeniu. Na te partie chcą głosować Polacy - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWxoUUJSdGtXdzZEX3BQTzhaXzNWLWtLTGpBdXZlWjFnR0xGLWN6WE5jcEF0U0VpNDQwN0R2cEw2YnhEVWRHWU9oaHIwQWFsdVNnR0hDVUdLLXB5YzQxZU14WkVQcVZRd3BhdVFmZGJwWnJRZHBWdWtyb2x0czJnZ2wzaEgtLW5WM01rZjhDMVlSelNSTTZQX25taGh5TFFjZmVjX2ExQVZ1VENzSjNHTHNuLVlCQzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-12 16:14:28",
     "weather": {
       "Warsaw": "Warsaw: +27°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "Pożar hali produkcyjnej pod Ciechocinkiem. Strażacy apelują do mieszkańców - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWxuM05lcFdCSDBZRVRGZWl3aFN0NnlDclRFbmFMeTF4SS1oQWRNdVFRR3ZHWUNJRWdVZFlteThYRWpSQ2xJaFpxaEJpc1gzcEQxUUlsSkxkUHhKQUdHSjE4MXRybkhpTDRBb0dNX0RwMy1KU1BVX1FLOWd4TDBfaTAzQkpvNXFLTFhlMUU2ZlZ1eVozSng1LTN6SzNHWEQ1YV90WDh0QkRwbTZIWnZFV3Y0akFiZ2ZNWFhnM05VbXlZbDh6X1dfWi1NOXpNLWVSbmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-14 21:12:10",
+    "weather": {
+      "Warsaw": "Warsaw: +32°C",
+      "Kraków": "Krakow: +31°C",
+      "Gdańsk": "Gdansk: +25°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 432669,
+      "DOGECOIN": 0.821461,
+      "ETHEREUM": 16655.0,
+      "LITECOIN": 445.39,
+      "RIPPLE": 11.29
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Donald Trump pytany o wojska NATO w Polsce. Zaskakująca odpowiedź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHFWMVMzWXBSeW16bE01VHJUZW01R21sN1dQc1hNN0l5YnlaRkpveDk2TklsQWtXak9tbDQyX2RoNFc4TXF4bW1JLUhHYUF4MkQ3ekhTUzY4QzJWRHdZbnkzVG9jU3ZsUVZKTDJUUkpqX1NoRm5zYXZiWXFpeEJfd3B6d2RkOVg4TGNQdlpKX3poQUpvZnNIRy1hQUpEQVlybElXcWNoR1VDY1NWZWEyUzZMaVJSX2lsUENjZzBtSUk2Y0VyQkE?oc=5"
+      },
+      {
+        "title": "Donald Trump mówi o szansach na porozumienie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1BVUFRsaVhyeXdNR3VmZ2dHXzZmZ08yTHlOV3BPU3VUNFc0UUUxYjR5NE5fMjFfOWUzbEU0WTFmNWtsa0c3MzBkUFJTLWlXUjJLYmZlbEVsZUROckRUZDUza0kwVUhLUktqVzhLSzU2RlZwamphZkpfcUJPcGZ0U2N6YnZ1RHJtOVEySVFtRE9WLXJ2eEhfS2F6cTh3UFhrR1kyclZZSnVVdVUtTjEtUjllVTFZUVE?oc=5"
+      },
+      {
+        "title": "Spotkanie Trump-Putin na Alasce. Czego mogą dotyczyć rozmowy? - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa242eUZVdVZweU1qeTJhVEdJS2h5OGZtUExZMmlZeDZhRERUOWk4TWdMOEM2QWVEdmxEZU9mME9EU1RjTi1MWmhJY2tuNTdnV0lWb0lYdndSdDRHUlN6c004M0tYQTE3MHBVbVhyQVlRMjN5S21NdDZfaHk4YkJxVExDUnVmUzIwa0VMOE1XaXdUU3lhU1Z1SnJBTUp6UDhtUXc?oc=5"
+      },
+      {
+        "title": "Afera z KPO. Pełczyńska-Nałęcz zdradza co dalej z wiceministrami - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0VabmtTSFpFSVRjN19LV2xaU053UFctRmdGN1lUMlYwZWppVVItMzlwTkgxYks0cjlqM3RHcU5jUDJNSU1ab2R5Q240eUQwUm9KeENOZ1k2M2RsVi13VzBtRUJ6OWY4c1FnZmYzNlp2YXh4S2tsRHZWNWo3TVNISEFCbXhkUkJ4V0RrMDZtMkNjM1ZKZDJOZzZCN3FQQlV0eVZyRkp1SUJXRnYwTExxU0ZkaVRueHlCYUE?oc=5"
+      },
+      {
+        "title": "Kaczyński kontra Komosa. Zapadła decyzja sądu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUZjS3pzMkF4bWQyd3BuR3huZ3FrVHJaQ1Rvc3RDaHM2Z3RZcHZ4eXBwQXpPRFY1UFJDZHEzOXBXSFFIdW5heG9XM1JXVEU4NlhKeHBrVWpSWnhlaGxaUHRMdndfcDF4YkJ3MF9pM3JJVmNoWnQtaEY5SkROR1FLb1RudmdwUmIySXJwb1dWanE1cVF6ZHYxbHR2VkpjMTg3QklRZXY2cVFVMUZnbDVVRjZFNVBUT28?oc=5"
       }
     ]
   }
