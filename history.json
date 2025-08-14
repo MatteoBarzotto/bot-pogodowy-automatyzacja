@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-12 07:14:53",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6495,
-      "EUR": 4.2533,
-      "GBP": 4.9137,
-      "CHF": 4.5145,
-      "JPY": 0.024739,
-      "AUD": 2.3797,
-      "CAD": 2.6514,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 435190,
-      "DOGECOIN": 0.824916,
-      "ETHEREUM": 15751.92,
-      "LITECOIN": 439.4,
-      "RIPPLE": 11.55
-    },
-    "indices": {
-      "^WIG20": 2994.43,
-      "^WIG30": 3851.13,
-      "^WIG": 3851.13,
-      "^NCINDEX": 258.73
-    },
-    "news": [
-      {
-        "title": "Emocje przed planowanym spotkaniem Donalda Trumpa z Władimirem Putinem. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXRib0dqSUFxcXJGWk5hX3NaZWdPNmx2Zy1ZbjVURDVwQTE0a29raEZGQTdVendnbUpPY0ExT2x1b2VTVlEyQVFoYkotQThEOHZobFFvSUxaVkhsUlJwOHUxeUpFbmRxSjFyM3hMZ24xWVNQVVQzNy00WUloZ0w5UnZCNENiRFNxN1dDN3Z4THU2eXVHUUpWMmlhbnh5czQ2VWV4RVJLQUNSNTNlM3c?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek w programie \"Gość Wydarzeń\". Transmisja na żywo - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzZaVkJwSHRmNHN4Z1lJZTlFNXlyVXJXZW5qTmd1ZHJEeGlqTzJZN2dIcWpucmREczlndkd6MmhNbi1LUG1RZEtnN05ybVZhNHY4U3pSWktfSmRuZWtsd0p4RndOLWFEVjVSNl9NSFZwMHVYWldDel9kN0Vya3N5T2tOYl9rV2RpR1BxRmowSGpudw?oc=5"
-      },
-      {
-        "title": "Zapowiada się największa defilada Wojska Polskiego w historii. Oto szczegóły - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDZndi1SbW8yci0tR25icm9aaFhfYThuWTNaeXN4dWNDVHNCVUtubGtTQ2NBM2VmQU1qekhBcGZOcGlTcmtpNS1NLS03RDNSTGRlczdjZDlkaVdIR1o5SXVmaDJSZXFwVkVvb2RiVUhDSGduYUtnVW9yVjBBQkM3TEhVeUxuYWlmM1V1RThfR2ozSzY5VHAyLU1yVUM5OUZuZlFvMmoySUlvcnZjTzNEb0Vn?oc=5"
-      },
-      {
-        "title": "Pożar hali w Małopolsce. Akcja straży pożarnej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQloyclBYU3hrY3Qwb0IxdXdienBFbG5La2NPWTJ5dHQ1M2pNc1JrdGxDNUhEQ0tlZHVQSjZRQTI4NDB5RndINUpVeXRjSjktZkxBLVlVSHhLck90WHVsamM4aDYzd3lralE4UFlPSXVaeXd5Rk8xalN2VHpXM1RFT0VTZGlvX2pod3dTUXRuM0NJYWpjMGFNd09oTGdxQmNXRHZrSGVhbw?oc=5"
-      },
-      {
-        "title": "Wojna na Ukrainie. Rosjanie złamali linię frontu. Krytyczny scenariusz dla miasta - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSFlDMGFKX2J4MDdFT2xZS0RXdkRoTnVwRVlFakJqM2M5U3VhZnNUdUE4UUJqQmJhTU05bTQ2R2t6SFhZM2FVQjlhLS1Bb2VhclZ1Nm5GSFI3YWlJM0tPNjloSlRPZXRDY090SUp4aVJSVWhRcDZQNzJsQ3ZmYWdGRnZIT3ZpWFJmS25kZXZmNzlPTEJocFJuNjNQWDNHbXBCMkNfUzQyaUpYa3psWkJEck9vQWppSzBPVlpGOXY1Yw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-12 08:22:06",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Rozległy pożar na Pomorzu opanowany. Strażak wciąż poszukiwany - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEo2T0ZMWkw1Yjg5YzN3clczeUh0TW15dlBlWGJ1dU9CY0tGazR1Sm9kd2JSOFA5MjhSclpMaWlsMldqSVV1emljdWsxdURmcGlIVkYwVDE2QWpkSGNZcmQ4N3JqY3QtXzVETTVnRGFHQXZXYnY4OGtEcU5ycFNKbVJOdTNPT3VHZXhhRDVnZEQ1OUFlSGhqRjA1TjdmZjhhcURENmYzekRLaUY4UWgxekxB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-14 13:13:06",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 440328,
+      "DOGECOIN": 0.866355,
+      "ETHEREUM": 17157.37,
+      "LITECOIN": 465.08,
+      "RIPPLE": 11.68
+    },
+    "indices": {
+      "^WIG20": 2953.95,
+      "^WIG30": 3794.98,
+      "^WIG": 3794.98,
+      "^NCINDEX": 254.77
+    },
+    "news": [
+      {
+        "title": "Tusk już u Nawrockiego. Pierwsze rozmowy z nowym prezydentem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONnVnQk1rY3Q5dWx4N3FtU3VoVGZHdDlsdVV0T1RuRGN6VHhJY2tKMU05cWlHci1FR0I5b2ZMXzRPVkt5Z0E0cmh1Rmh5elZ0b0RvY2RwMDJLUjR5X1RTenU1b0g0MXNSWF9mekxJZjBsc0lVcTh0blU4NXhsdnZFaDBZaFRIY3ZYLTBPbkQ3OW5TRE9vRVhKRWJlT291cjZKRV81aQ?oc=5"
+      },
+      {
+        "title": "Spotkanie Trump-Putin. Nowe szczegóły szczytu na Alasce - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjN2VEVrZkpaeEtHamlvSkxqS3Zsc3JIc0JFbGZnd0MwQzBJMU9tNkVUNHBOQk9iN3hUSjZycjFhRl9STE96UmVGR3pxX28xUU1CdkZkczBYQzVKMWhVa09BVXJYZzBYb3QxMTAxak1nOEtvR1NxVEhEQmt5aEFBM0dVZVFCUlZCaDNYLVM2dzJkcnM2aWxEdXZNdDhMM282X2tSQXVncjVWaF9WU3cyUElUT05jUEs0?oc=5"
+      },
+      {
+        "title": "\"KPO to dopalacz\". Ekspert podaje dane o pieniądzach z UE dla Polski - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXd6amJraVg2OUEyYzFucUg1T3ZVSk5hU3pETktCc3NNSGtHcFpyVVBuamtOVllKSjVhME5ka05aemRkczlyYndPYVgwNl90SGx6b1FPakw0dmhqSHNTTVNrb1F3TGR3ZUdQcFd5bV9fRFMtZFNaenE1N0E0VkRrcGVYOFBTMVJRa1BqSTZkblplYk1lcWF1eV92NHpqUXZnYzlmTVRtTVg3VTVjc2NYVkJmS1czOE9LbnFMWXRR?oc=5"
+      },
+      {
+        "title": "Jak Karol Nawrocki zapunktował w starciu z Donaldem Tuskiem dzięki Donaldowi Trumpowi? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcjBCbFlnN2t2aUdqaURQRjZxX2pFenNMclNoY3NRQV9iMnQyaVJISHRxOTFuSlQ5VDk3VW9nd0ZwSEdyWU1sbWd0UDBmYmotRmFpbFAwTDlKMlN0Z0J1RUotOFNSaUttdEprTGh2OElKMHdsdmhINVM5UVdtVlRqd3l2VnliOUlod2JvLVZpd2xJaTBNSDNCaWJtLWVUY0dyejRQWWJIRnZxTlZiTEFQaW1wSk5Nc1R4OW5jZ29qUm04b2I1M2VEcGE4VQ?oc=5"
+      },
+      {
+        "title": "Gigantyczny pożar hali na Pomorzu. Trwają dramatyczne poszukiwania zaginionego strażaka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2tUODF1NWJhams4elNDWm1vR2swTGRWcDJCWnlITDNGNDdTVlhDa2U3b0ctd01ob2dlZEh4dF95UHRmam5CUzVOY2l1SlVkOE5qbGxQY2p4Wkw0TDg4WXhUdi1rVnVsR3pLVXNHLW82REpSNFltYjhZdzhnQloydG0xMlY3Y0t0RHNZRV9YcG1qM2VXaHNFbjZVT3J1dw?oc=5"
       }
     ]
   }
