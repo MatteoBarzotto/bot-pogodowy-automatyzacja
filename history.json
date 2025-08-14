@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-12 03:09:04",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6495,
-      "EUR": 4.2533,
-      "GBP": 4.9137,
-      "CHF": 4.5145,
-      "JPY": 0.024739,
-      "AUD": 2.3797,
-      "CAD": 2.6514,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 435982,
-      "DOGECOIN": 0.822484,
-      "ETHEREUM": 15645.04,
-      "LITECOIN": 440.59,
-      "RIPPLE": 11.53
-    },
-    "indices": {
-      "^WIG20": 2994.43,
-      "^WIG30": 3851.13,
-      "^WIG": 3851.13,
-      "^NCINDEX": 258.73
-    },
-    "news": [
-      {
-        "title": "Waldemar Żurek w programie \"Gość Wydarzeń\". Transmisja na żywo - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzZaVkJwSHRmNHN4Z1lJZTlFNXlyVXJXZW5qTmd1ZHJEeGlqTzJZN2dIcWpucmREczlndkd6MmhNbi1LUG1RZEtnN05ybVZhNHY4U3pSWktfSmRuZWtsd0p4RndOLWFEVjVSNl9NSFZwMHVYWldDel9kN0Vya3N5T2tOYl9rV2RpR1BxRmowSGpudw?oc=5"
-      },
-      {
-        "title": "Spotkanie Trump-Putin. Prezydent USA: zadzwonię do Zełenskiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUxtZDRLbFZRSzhkU1NCQ0s1bGtGci1uZnpsU2hJVjVkQlc4MEk5ODNUbE5oaXYxLTB1VGt6WC1xWmFVcGJYUGJPLVFGU2UyaFVjNmt6emtYOWVycFhXenY0RTRRZ3BYMExUcndBelVTWkhqdzFGZi1zc2NRNWFoelhlVDNId1pram9WVnZHblZyRHVOa0EwaVJOS0s2SUZVTjNyaXlYcHlRRGhQYXlGdXNOV1hDR1lvUURQc1dTQjU?oc=5"
-      },
-      {
-        "title": "Załamanie frontu w Ukrainie. Rosjanie poczynili ogromne postępy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWg0Z05zZ0ZmNHZlbzdMNUtLeWV2WlY3dEVEV2EydW11OHN1dFNpb2ZoWTJPSVBjUGZOQlA0YnUzTlltenBGTEc4a1QzN0t2am5vaktiNWF2ZmdfYWJNTzZoMy0zb3A3YUVTMnlNUXVEeHhiRTV0eDBKd2MtY0xWbGZZQkxHWDk2Mm1jQW5DNmRwLWhSUGZ1Zzd0cjlaUWFpRE90YnFwaXBWQXMtQlA4bVJ2b0tsdjF2Q0ZDdUdvdk5TZkE?oc=5"
-      },
-      {
-        "title": "Nawet do 34 stopni w cieniu. Pogoda na długi weekend - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0d3Y21hMkxISEE5Q2tpN0tQRmhnU2Zma1FwVG1ydlo0UnFiV1FKVS1COE9MZWNvYU5tV3BRQU9rQm1NaGpJWGxhVm5lSHJHZ3d0c2s1bFFfeU5HYUpzVWVLRHl3Q2V4eWRySGdTdUFaYklWRW80M1d0TTRsYVFnUjBkdFNFVTFOcmZLTUJrODFudDJ6OHI2Y2pCZFdBZ291dW4tQnRndGE3NmhKSm1oNXNKc3ZrWV9HV3dxU0s1enprb01XTVE?oc=5"
-      },
-      {
-        "title": "Płomienie i śmierć na A1. Koszmarny wypadek pod Pelplinem - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0w2dVd3bHZmLUt5d3NrSFNYRjdNbFFoUmJraTFDaW8yei1oQVRyQ1plWGZuam5aNVVjWXVEaHNsVEhJUmpWUUVxSmF2ZmF6WjRoV1liTV9zQXBRbHZKdnNsVkppVTFiY21tSU1rRDVyZG5jdHJvdlJkdnpqY2h6RkZfcjNzS1Ntd0dNc1Bvcm5ZSFhfdEdlRXZmeWNvRTBaTlZsVUt2bG5SdjhLeHphbVJzb9IBtwFBVV95cUxQYmhrcjg1V2tWcXdxaGhsZGNCcUt2UnJqV3o0ZmoxRkNSc0RfLU9YM0xESWFrTlJSYy1naThDQmtLMVMzQm1TY1Q5VGI1dnJ2SzB2QndUalk5dmw5ZDhUQnVXeUdqWmJHMlZfZDhEZGVBQnpObzU0Ym92VFFMb1Z5ZXljblhEbDlRR2c0NkdRbjJfR3V1cGZra25CT0J3VVRBdmZFLW1rbE5GbWVPQUFoTl9uMW56ODg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-12 05:13:15",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Gigantyczny pożar hali na Pomorzu. Trwają dramatyczne poszukiwania zaginionego strażaka - Fakt",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2tUODF1NWJhams4elNDWm1vR2swTGRWcDJCWnlITDNGNDdTVlhDa2U3b0ctd01ob2dlZEh4dF95UHRmam5CUzVOY2l1SlVkOE5qbGxQY2p4Wkw0TDg4WXhUdi1rVnVsR3pLVXNHLW82REpSNFltYjhZdzhnQloydG0xMlY3Y0t0RHNZRV9YcG1qM2VXaHNFbjZVT3J1dw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-14 10:20:19",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2586,
+      "GBP": 4.9281,
+      "CHF": 4.5249,
+      "JPY": 0.024685,
+      "AUD": 2.3814,
+      "CAD": 2.6414,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 444666,
+      "DOGECOIN": 0.889485,
+      "ETHEREUM": 17283.64,
+      "LITECOIN": 469.57,
+      "RIPPLE": 11.83
+    },
+    "indices": {
+      "^WIG20": 2957.85,
+      "^WIG30": 3801.22,
+      "^WIG": 3801.22,
+      "^NCINDEX": 255.75
+    },
+    "news": [
+      {
+        "title": "CNN nieoficjalnie: Tego zażąda Donald Trump w czasie rozmów z Władimirem Putinem - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0VPNnd2c3BjLWVfWkpRZFlOYmZkYmJDRTJ0M253X05hRjJqRGRDV0RjbjAyamwyTk5LS3h6bXBSQ21qYk56SzhfeF9HX2FVWk9oakpxdTBCZ2plMnpMQzJpZFNPNk41aVJxd3lhREJ4S000X1pLT3dVVjhHQzhmZGZTdWxEUzhmbTJFZDFlckdTNHEwcF9KNFdRejF0SlVUNEhpRW9wWGYtdkJBRFFZOE0zV2lHYS1QYkw0Y0NUWlZYd2VVQlptaWxBWQ?oc=5"
+      },
+      {
+        "title": "Konferencja na szczycie: Tusk i Nawrocki rozmawiali z liderami UE i Trumpem - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdVl3ZG9MMDVlY2tPeE1WUDlMNG1ob2VPUWt5Y1FxVTNBc1hlZW9lc201UDVuOXJ5djFwc2U1LW1EVHJlWDBweW0zdjlaVDhnQm5WNjl3TzFTU2ZNVF9ORGpqSUd6YzVZUjdYSGRTWk5PLURlOHJMMVZqazM1WlhxZ2YyYm5yY2lMakU2dktDc1JLbUNzR3hWYWJCZ3NKQXZlUENaS01SNWlUdVRjOEd6SkR5VkJWSU5NaTh4VnVJeHlVSl9oLXNyX0J3?oc=5"
+      },
+      {
+        "title": "\"KPO to dopalacz\". Ekspert podaje dane o pieniądzach z UE dla Polski - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXd6amJraVg2OUEyYzFucUg1T3ZVSk5hU3pETktCc3NNSGtHcFpyVVBuamtOVllKSjVhME5ka05aemRkczlyYndPYVgwNl90SGx6b1FPakw0dmhqSHNTTVNrb1F3TGR3ZUdQcFd5bV9fRFMtZFNaenE1N0E0VkRrcGVYOFBTMVJRa1BqSTZkblplYk1lcWF1eV92NHpqUXZnYzlmTVRtTVg3VTVjc2NYVkJmS1czOE9LbnFMWXRR?oc=5"
+      },
+      {
+        "title": "Gigantyczny pożar hali na Pomorzu. Trwają dramatyczne poszukiwania zaginionego strażaka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2tUODF1NWJhams4elNDWm1vR2swTGRWcDJCWnlITDNGNDdTVlhDa2U3b0ctd01ob2dlZEh4dF95UHRmam5CUzVOY2l1SlVkOE5qbGxQY2p4Wkw0TDg4WXhUdi1rVnVsR3pLVXNHLW82REpSNFltYjhZdzhnQloydG0xMlY3Y0t0RHNZRV9YcG1qM2VXaHNFbjZVT3J1dw?oc=5"
+      },
+      {
+        "title": "\"Grillowanie\" Pełczyńskiej-Nałęcz. \"Gęsta atmosfera\" na posiedzeniu rządu - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFU5TjN5a0RKbnNwYTZ5YzNhd0VQaXNQSDFCMVRDa0dHTkJJMVk0N1N2VkNRc3pPOHAzMFNNTGIxcFVVbWFtelVxbGFBSzA4YnFIS3MxMTdFY3dGWWNWU0FrMEJfMnpwVUR1aW11NHNYMmNGSzF6R05WUUlFUk9TdmVEX1IwUFBQbFdjc1hJbG85eDk4NDJwWUZpLTRCaEdlSDdCZUpPLUg?oc=5"
       }
     ]
   }
