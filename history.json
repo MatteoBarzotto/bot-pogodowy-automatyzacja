@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-11 20:21:40",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6495,
-      "EUR": 4.2533,
-      "GBP": 4.9137,
-      "CHF": 4.5145,
-      "JPY": 0.024739,
-      "AUD": 2.3797,
-      "CAD": 2.6514,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 438620,
-      "DOGECOIN": 0.843097,
-      "ETHEREUM": 15763.85,
-      "LITECOIN": 461.25,
-      "RIPPLE": 11.7
-    },
-    "indices": {
-      "^WIG20": 2994.43,
-      "^WIG30": 3851.13,
-      "^WIG": 3851.13,
-      "^NCINDEX": 258.73
-    },
-    "news": [
-      {
-        "title": "Radny PiS, który tworzył wnioski o dotacje z KPO przyznaje: Sugerowaliśmy jachty - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWkE3MUR0RUY4eHd2ZjdKNHVhZ2UydWVRSWNUc1NpeWNqTl9KeGc2aHA1a1ZWNl9lczVDUENZQkZBVGdfLU9kQUtHeEhsVmN4UmtpeFJHSHZhUG12RWd0bTUxNTktQVg4ak1EZ2pGT24xdlpFbktnZG1aQ0FxdTZjYzNnV0F1em4xZmFiMm4xY2ctUDNkRnA5UXNvSVhkMVAzXy1zaTJXb1I3RWZhbW1GVFVZUlB5TnN1NEJZcXRoeUcwVTRhdkxfNTgycEdJdw?oc=5"
-      },
-      {
-        "title": "Spotkanie Putin-Trump na Alasce. Prezydent USA zapowiada, co zrobi po szczycie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2hhVmlOb0tHWDJqN19EZjRJX1BSLWVmd2VmSEJ4RWU4SUU2NFFKQ0tvcEo0WUF5cTdxNlI5YU84X3JQQVpGX2hXanZBSjh1alJER0hqS3d6T1A1cVp5VW00aGZwQmgtRV80NGVSTEhmNTE4bmVpdFFfeHlwcTFOclBqb3padjlPcVc3Zlp1WnVTOEtZSjJ0S3JsNElxUU5abjRYZGFEYmhjTWpWVThIY0dsV3Nncm5YNjF3dUg0SzBoTXhP?oc=5"
-      },
-      {
-        "title": "Szef MON ostro o podejściu Karola Nawrockiego. Chodzi o ustawę wiatrakową - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2dqSllRRVZubTBIeDN4eEF0aE9pbFlIc0ptdV8waUpsT0pJWHVSUGRpYlQ2OUQ1TnFrQmdlR1R5STNGRDNLUWRTYk82LXQweFVlZXdfbVRPdGtsWEhKMXFsUHBVVWRIRkRaX3JnM2c4enNyckgyaFFTUEY2ZEtERmFnOC1GeXFUT3VWUDJ3Z3FwT0dWZTBzeVd3bjBlbG5PcERDOVZSVHJZZmZSUHVYdE5vQlhEWDk3cVdXT1pRbw?oc=5"
-      },
-      {
-        "title": "Ostry wpis Donalda Trumpa. \"Waszyngton zostanie wyzwolony!\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUl6VWJDRzkyUVBYOTQ5bE91RjFtd3pGcUU5R1RXMkFsMzZjMXNUd1R2QWJGVnBMZzJsZTBRUm4wajZKcXQ0NnBMaXd6M1ZUZkRBRVdfUENQYUZSQjV0dGg4QmpmUFIwNUU1LUhvejB4NURUaDNyM2dBSEdwVzFZWE9YVzVZZElUZEs4WnpKQ0ZzRlNoRm9zbHFTZGsyZFFSS1l0LWd6cUdTX25wWU1Kbi04REVoQ2xLSGc?oc=5"
-      },
-      {
-        "title": "Okrzyki na konferencji Żurka i Kierwińskiego. \"To są obrońcy granic\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0ZPQ25waTM1UDBrczlYSDgzTUJiczliS0VpeXdkTkVmUWM1X1htNldCN3lvTkt4YndrTGhQUDdXbWJGSWpHVElEVmpCN2Z2aVVxT3BMTVBZaFFTZl9ybzFoSXpqekNxWnVfa3M1NGxFbWYya1pDUUpIYUoyWGc4RGVhaFF3RENJM256WU9SRVJJQTVXcnVndmVMLU01STRZanVDQ29KTmE0cWNO?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-11 21:14:01",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2597,6 +2544,59 @@
       "ETHEREUM": 17261.07,
       "LITECOIN": 475.78,
       "RIPPLE": 11.93
+    },
+    "indices": {
+      "^WIG20": 2997.03,
+      "^WIG30": 3849.47,
+      "^WIG": 3849.47,
+      "^NCINDEX": 256.38
+    },
+    "news": [
+      {
+        "title": "Brytyjski dziennik: tak Trump chce skłonić Putina do pokoju. Na stole ukraińskie minerały - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmhEOVhac04yU0ZFTGFGNGdJOEdGd3BKcjEzMDVOc3V4bUFfd0RhUEhNdzlweURCS1Mxa1NmNEhoYXk1UjNrYnIwUGhJcTF2MXd6WEp0M1BWdU5RZndtdGNFTWpEb3NkRDBrSDJQUFJuUnc1M0lJc2U2VmF0YVVFNjRlajQ1bEdvcWVReThLRDA1a3ZZNWM1VTljaFhveW5ENVU1NWpuczRiV2ZzRGRuZkJvelgwdVVFLWh0a1B5eHBEOGhEVGMzT3lWWkIwOFg2T1pyeGwxbGVwQQ?oc=5"
+      },
+      {
+        "title": "Dlaczego kanclerz Niemiec zgodził się na udział Karola Nawrockiego w rozmowach z Trumpem? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWhaQ3ZKT0ZiUnhMRzlIYUZFNHI4a0JqemxqTWZXTEd6ZFJTS2JDYVoxRHVFel9vVzQyS0xBRzQ2MW9WSDR0RXBtTk9hWHZwQ1RkQzNsUEV4Ry1EV3hBZVh2a0RBS3YwWktHc29XcVlXRU1QVF9wMW9JSXI1S0RKUDR1dURQVDdZSkd4ODZ4MktIaHgxYnBJY0lRcDdDVnZocngxNVpTWTFQUS1CWlExSHhDTlZldUl3ZTVhWlVDcE5kZ0RoVWk4?oc=5"
+      },
+      {
+        "title": "Pełczyńska-Nałęcz w TOK FM o dymisji. \"Odbyłam jedną rozmowę telefoniczną\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalppZG9HQnV3emFLMXZzM0tvLWRrZEw4TjYxUDhEUXlod1Vpc0xqME5xeXZiWkJWYlpzZ1FBSlV5N0JGbkNBcTdqWWNKLVJwZ1RDYjlOVldUUGwwN0l4M2RSeVpVQU1CWVE2TFpOUFA2bnpudWtTaUx4dE1pREtYWWl3N0JDeEtIMG1OVnV4ZDQ2M1VmaHBDemo2SUtyX2ZfcFl0eEd0eC1WRktL0gGrAUFVX3lxTFA0T1UtM3F4dHRqSzFvX3d2cGUxdThUaGxPdUxuT1djdFJUclBzbER6dnR0Sng0NDZSSmtJdTZGdWpZOWFjYVdmNFVBaW1Qa09HSlRnOVNVWDdaVDFNQ3RSTlpzZGtXUWNiakZ3WncxTW1pTExNOFlWalkzN1dQTURMNkRSOXp0d3o5REczd0lZM3Z4NmREdE9kRFdPMGxxNUhwU1lEemdreFZYYw?oc=5"
+      },
+      {
+        "title": "Donald Tusk spotka się z Karolem Nawrockim. Znamy termin - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmtQUVBtNG1LbVhTY0QyMUdzRGZBZUlkbzFOUExKMmdjNV8wZi14NnJBV0ZVbmE5d09vVGg2UmFOWmdsOUxMVHEyWlVCMFBCbDMtQ1lya1BXX19oR3FzblVNNmtseDlMZjFpZC1XcnFvdTE1OTQwNXZxQ05DZ3F3WkRJck5oSDZvQi1zblBDU2VGcDkxZDAxQ0ZMVkdoMDNGRUF3MTQ4bk5RODFSODUtaUxsNmdySE1yVkE?oc=5"
+      },
+      {
+        "title": "Dramat podczas pożaru hali na Pomorzu. Utracono kontakt ze strażakiem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3hJaGFkLVNWNVgwTVZYcGpSLVRENGwtcWtKRWlFSzU2VWRfTHpxbUxJX3BmUUdzM0xoWTVOZk45ZEc5djdKWDNuZ3BFNktsM1VCTF9TMV9DVlN5M3VFTWNaOFlrLU1BVkxDMy1WRDlaOXhHbHRmbmgwTHRmTDBVLXJGbkNCNUlMd1BfeGZGcGFBTkJKRUZwUEtQTzJRVVZldzY1RHc2eDJheEZMRlBWU0lyaHBJelk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-14 03:11:00",
+    "weather": {
+      "Warsaw": "Warsaw: +30°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +24°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2586,
+      "GBP": 4.9281,
+      "CHF": 4.5249,
+      "JPY": 0.024685,
+      "AUD": 2.3814,
+      "CAD": 2.6414,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 449165,
+      "DOGECOIN": 0.882497,
+      "ETHEREUM": 17124.56,
+      "LITECOIN": 475.8,
+      "RIPPLE": 11.92
     },
     "indices": {
       "^WIG20": 2997.03,
