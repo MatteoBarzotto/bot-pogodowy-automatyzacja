@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-11 22:15:20",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6495,
-      "EUR": 4.2533,
-      "GBP": 4.9137,
-      "CHF": 4.5145,
-      "JPY": 0.024739,
-      "AUD": 2.3797,
-      "CAD": 2.6514,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 435513,
-      "DOGECOIN": 0.831703,
-      "ETHEREUM": 15561.58,
-      "LITECOIN": 444.27,
-      "RIPPLE": 11.53
-    },
-    "indices": {
-      "^WIG20": 2994.43,
-      "^WIG30": 3851.13,
-      "^WIG": 3851.13,
-      "^NCINDEX": 258.73
-    },
-    "news": [
-      {
-        "title": "Burza wokół KPO. Tusk nie wyklucza dymisji, Pełczyńska-Nałęcz przerywa urlop - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUdMa2xkdUlYcVp0VEh6YUpwVzR5T1ZRZW5mNlN4dnctNkxTMk5SYW9WOGxCZ29KdEhNMGRKdktHQVpaTG5rNUFyUWE4VWJCUVpfelAydmliWlRWak5acjc3S2hSLTM1c0NoaWVha2xqaU0yUFVoQllydG9PaW55aVNPQjkzSFZCV0dSWlY0STN6QXhFbWI3QmVVd3EtSXZpLVZkdERTbzhwVU1nSVBVZWNnN0JpRXNF?oc=5"
-      },
-      {
-        "title": "Spotkanie Putin-Trump na Alasce. Prezydent USA zapowiada, co zrobi po szczycie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2hhVmlOb0tHWDJqN19EZjRJX1BSLWVmd2VmSEJ4RWU4SUU2NFFKQ0tvcEo0WUF5cTdxNlI5YU84X3JQQVpGX2hXanZBSjh1alJER0hqS3d6T1A1cVp5VW00aGZwQmgtRV80NGVSTEhmNTE4bmVpdFFfeHlwcTFOclBqb3padjlPcVc3Zlp1WnVTOEtZSjJ0S3JsNElxUU5abjRYZGFEYmhjTWpWVThIY0dsV3Nncm5YNjF3dUg0SzBoTXhP?oc=5"
-      },
-      {
-        "title": "Będzie weto prezydenta do ustawy wiatrakowej? Jasny sygnał z Pałacu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2Nla2p2THpmQ3VXc1FTTnpuZ0dzLVVrRTlzUlREM0hhSnY3TExaOGt4dG1iNVAya0pwSUVsQkRVZmo2R2ZVYjJoSnZvb3BmV0Fnajd4VnhTU01VR1lZcE8wd1VTbElVTXcwSEhDaGpBMktNdkRhQnMxaUZyaUVycVZFZHZSam9YZlRGaWdDU3RHUnpsd3FtOWZtTTU1UGtSUDYwNmVOQm45TnhKVGVjUjZtdWd1a2tHdlkxcWJR?oc=5"
-      },
-      {
-        "title": "Płomienie i śmierć na A1. Koszmarny wypadek pod Pelplinem - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0w2dVd3bHZmLUt5d3NrSFNYRjdNbFFoUmJraTFDaW8yei1oQVRyQ1plWGZuam5aNVVjWXVEaHNsVEhJUmpWUUVxSmF2ZmF6WjRoV1liTV9zQXBRbHZKdnNsVkppVTFiY21tSU1rRDVyZG5jdHJvdlJkdnpqY2h6RkZfcjNzS1Ntd0dNc1Bvcm5ZSFhfdEdlRXZmeWNvRTBaTlZsVUt2bG5SdjhLeHphbVJzb9IBtwFBVV95cUxQYmhrcjg1V2tWcXdxaGhsZGNCcUt2UnJqV3o0ZmoxRkNSc0RfLU9YM0xESWFrTlJSYy1naThDQmtLMVMzQm1TY1Q5VGI1dnJ2SzB2QndUalk5dmw5ZDhUQnVXeUdqWmJHMlZfZDhEZGVBQnpObzU0Ym92VFFMb1Z5ZXljblhEbDlRR2c0NkdRbjJfR3V1cGZra25CT0J3VVRBdmZFLW1rbE5GbWVPQUFoTl9uMW56ODg?oc=5"
-      },
-      {
-        "title": "Trump ogłosił \"wyzwolenie\" amerykańskiej stolicy. Gwardia Narodowa na ulicach miasta - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0p2SUpjdFlhYlNDc2FPZXlzbngySFhUWnc4STNua2Y4ZEJSSjVjUWt0amNxYU9lMk9WelpmWm5YLXNIOXUtSlZ1OTBqWWszZEF1VXR1RHJ5N3N5cHBZWV84ZWVORGZHOEFTUkVRZWZ2TU9iVG9XbWlHdXVPeXhicmY1eUtBMlg0emk3QXVfWmZSbVhEdTJnN1N4TTdxMFB2dWlXNmlPMDctQmthbDYwQl94SQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-11 23:13:50",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Trzy godziny lekcji zamiast 45 minut. Zmiany od 2026 r. - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelpMR1ZabkhnaGRhT0ZCQmpfb0dfQUtVb1I0OWtKLW1vUFM0VWdwSXN3U0NaLTRnVGxhendQUm9SeXVZQl83RDkwSjRna0l6RTJxaEhiRUlqakI1bHJ0RW5hS2JhaHlDRGtHbzJCbjlzZUJiX1RVQnUzRHMzbmpMWnIwMlN4UlkzZTk4SGRjNnhXaVFyN09RdWc3ZW5xYWNpS3lOUldB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-14 06:25:10",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6353,
+      "EUR": 4.2586,
+      "GBP": 4.9281,
+      "CHF": 4.5249,
+      "JPY": 0.024685,
+      "AUD": 2.3814,
+      "CAD": 2.6414,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 448585,
+      "DOGECOIN": 0.920864,
+      "ETHEREUM": 17386.79,
+      "LITECOIN": 484.98,
+      "RIPPLE": 12.1
+    },
+    "indices": {
+      "^WIG20": 2997.03,
+      "^WIG30": 3849.47,
+      "^WIG": 3849.47,
+      "^NCINDEX": 256.38
+    },
+    "news": [
+      {
+        "title": "Szczyt Trump-Putin na Alasce. Stany Zjednoczone złagodziły sankcje na Rosję - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzJyUDJ0RXhnMzVoTUIzaUF3bWxfOUFwMFdTTFpOUWpHRFNtbVZVWkY0X191SUJ6eWlNNUQ2MmRDV3B4Y2xqamJDNzNxdDRPVi11cHR6UGF2bm5vV3hGZmRtSmdvWUo4NVNxVncwOXlKN0t2d2JqVWMxS1NtM3pIZ25vUEVpbVB5dTAyaW1yMDNZell4aHhVRy1mLVlvYUd6Z0J0LW5aNlpQLWxwbGFoaHppeHd0UUR5TkVjT3dCSHRnallJR3pxeEN0UURXd2Q2Q0lF?oc=5"
+      },
+      {
+        "title": "Dlaczego kanclerz Niemiec zgodził się na udział Karola Nawrockiego w rozmowach z Trumpem? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWhaQ3ZKT0ZiUnhMRzlIYUZFNHI4a0JqemxqTWZXTEd6ZFJTS2JDYVoxRHVFel9vVzQyS0xBRzQ2MW9WSDR0RXBtTk9hWHZwQ1RkQzNsUEV4Ry1EV3hBZVh2a0RBS3YwWktHc29XcVlXRU1QVF9wMW9JSXI1S0RKUDR1dURQVDdZSkd4ODZ4MktIaHgxYnBJY0lRcDdDVnZocngxNVpTWTFQUS1CWlExSHhDTlZldUl3ZTVhWlVDcE5kZ0RoVWk4?oc=5"
+      },
+      {
+        "title": "Dramat podczas pożaru hali na Pomorzu. Utracono kontakt ze strażakiem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3hJaGFkLVNWNVgwTVZYcGpSLVRENGwtcWtKRWlFSzU2VWRfTHpxbUxJX3BmUUdzM0xoWTVOZk45ZEc5djdKWDNuZ3BFNktsM1VCTF9TMV9DVlN5M3VFTWNaOFlrLU1BVkxDMy1WRDlaOXhHbHRmbmgwTHRmTDBVLXJGbkNCNUlMd1BfeGZGcGFBTkJKRUZwUEtQTzJRVVZldzY1RHc2eDJheEZMRlBWU0lyaHBJelk?oc=5"
+      },
+      {
+        "title": "W Polskę uderzy fala upałów. Alerty dla 11 województw - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnB1TDlPSXc1YUd4dWJMem5NUE5DQVZlazVGUjFwUzBiRVJseE02YnE5YnM4RmRQdlBiVTdtNUNJQ2t6SG1iVTNxS0tXVVhudF9oX1E4c2tZY2ZoRVhDbjBzb1FQZ3Q0clhqWDhjT1JhLVFKLVpKOUZzdnExRnJkR0xGTkZsX24xZ2lDU056MmlUaEVpU0xCek84NVlnRXZONFR0SjZVakU0bm1kbnJFb2pXSQ?oc=5"
+      },
+      {
+        "title": "\"Średnio mnie przekonały argumenty pani minister\". Tusk ocenił wyjaśnienia ws. KPO - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXFTcWdaZXNTU0FuOTNLZWJKNk51bk9URVRlVEhuN0UwZGxaRmdpLVlQVFQzVUdQeS0ySFhqOVBYMFJITm5kcHFDM3B2ZVBxdlFRMkFqVndUdTFvWmh1WDhSNFFmcThSdWU2ZjJiSHJIU1N0cVI5T0tvTnpmYkh4NW1VUjczam9YUUNWR2JkU2JkeTZseV9WMG5ZZ2JVRld1bG5PWWI3ZWxtcUEzbzhyc25YZGZVT2RyamhMNG5SNEtJUkZqOXdLRnhiQ19XUQ?oc=5"
       }
     ]
   }
