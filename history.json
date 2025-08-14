@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-12 19:14:44",
-    "weather": {
-      "Warsaw": "Warsaw: +27°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +24°C"
-    },
-    "rates": {
-      "USD": 3.6702,
-      "EUR": 4.2626,
-      "GBP": 4.9427,
-      "CHF": 4.5311,
-      "JPY": 0.024726,
-      "AUD": 2.3828,
-      "CAD": 2.6615,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 436682,
-      "DOGECOIN": 0.844399,
-      "ETHEREUM": 16363.33,
-      "LITECOIN": 456.06,
-      "RIPPLE": 11.81
-    },
-    "indices": {
-      "^WIG20": 3014.18,
-      "^WIG30": 3874.41,
-      "^WIG": 3874.41,
-      "^NCINDEX": 256.68
-    },
-    "news": [
-      {
-        "title": "Pieniądze z KPO dla hoteli i restauracji. Katarzyna Pełczyńska-Nałęcz zabiera głos - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdlJxMklIYTZPd3FPQW9GclR6b3pRWDJnRkFkUnc4UmhEak9OZ1ZBdWNFNkpsUnB4ZnJibFByOEJhazRoQ1RSRV93a28xcHVGVElEbzdQQXlEWVRwT19TRGFSMVRER2VwRFM5R2dOR2xaRnRGTDBjOWZISWZ6RzdLcEJrTnhlYjlSOWpfcUlQbzc0LXFEblJ1Nno4UkZYRmtQTzg3R3hVRjZnQ0dWMkpLa0szTVZlOFd2aG5xRjh4OEpwRm1QUEtUVGxSN2w5T1dVYXc?oc=5"
-      },
-      {
-        "title": "Spotkanie Trump-Putin na Alasce. Liderzy państw UE wydali oświadczenie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2xuMkNZWUN3MTFnSXlRa21QSzY4bmd3dFI0MTlSQ0tSWU1DRGVxOTFsNS01eDVhZEtKYzhKVEVfTHV5dnhFU0djbjJXNEJ1T25RUDF1SDd6aVo4NjVWQ01jZGZxeVFDMzB2WnViNnpoWHRuczRnZzI3NWtqRmZxb2NtMWZUWnBINDk2SXBNNzBHQzdHTERyVF9hNWRXZW1pb0N5cGdlSlBLd25XT3IyajkxbDlrbWViaGNN?oc=5"
-      },
-      {
-        "title": "Skandal na Stadionie Narodowym. Donald Tusk przekazał nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSW9RcUJ0WVJPSm5YbmxTai02cWpvVl9lU2lZTkhsOTZoakpNM3NmRVhGMW55R2ZjZ25fRXVvaHRfUENoaW5DclF3LVgyWTE2bzM5eEZQOWZuWDlRWUN6QThBcnNjM2szeFV0dC1aeGtQZF8tUzFQQzF1RjkyVTgwYVdzMmNlYmZpMHV2aVlsRFd3ekxhZlFaYzdqOU41N1h0RzBMQlhtYjFyR05PYVhfWVVQSm1lc2VWWWhvb29YYmZKUG91UnBBdWVHZw?oc=5"
-      },
-      {
-        "title": "Nawrocki jednak podpisze ustawę wiatrakową? Rzecznik prezydenta w TOK FM: Być może nieprecyzyjnie się - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWZMZVFuM0ZzdHJ3M1BybEt5ZTVHTmZLRFpZYXFfR1dScUJoaTY3MjFuYXBEbGdwSVFTcnVRRzMxdEJwcDdnUlFDLVY0djBDb2JjbUNSLWh3aFhhYmVzTVM4bXV5TWlmMHdyVFVUUTRVNXM5eUJoOWEtOFlYMF9lUHc4aEg1dDBYTlQxanRDcW5BTzRlWVZPRUtXMS1VV2l1b3NPT0lnclNkMldnMGhCb3NR0gGwAUFVX3lxTE5KQTZhYUxhc1hrWVpueGZYMzFOSzJiNktFTHg1bHpCdVg2MHJXdXNuWkl5SUpCQUpCWThEdEF1aFFHVlV5c2dzaVJXR0NZUldlU295TjFWMDNya1poZEc1LVlVNkRQR3l4QXppNGFLS211QlBxSzR2eDFlc3h2S1plVFdiUWc2NGlGVVpEODVUSzRGX0s0ZTFPQlFiLWlLVWxOWndVemhXSlhNR0VjckxH?oc=5"
-      },
-      {
-        "title": "Awaria śmigłowca ratunkowego na A1. Ruch wstrzymany - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjVFZFJQLTZSSE0xbTM1Wm9OSlNESlU3TlpHeVhFMVFoczI5VFQ1WGFMRmZINDdZdmpHTW52SGp5NUEtNndqMWlNSHBrNUxOVTZWMlV6WGNkdlNYcHlORGhBXzBqd1J6azI4dTB1RnVnODZpeG05RG01ODNIdV9IWkdnVWFEV1lPdTNidEZVdlZidHJIR1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-12 20:21:44",
     "weather": {
       "Warsaw": "Warsaw: +27°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "17-latek z Ukrainy. Ma poważne zarzuty, grozi mu dożywocie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk9tVUx1SHRabk5zbUdENWRjY3BXb0VrQ3RQb1VKaG02MDhfSGVVRWpNSWd4OExheTVJS3JpNm9UVVFMMkZyQV9rSjduenZ2b1JsV1FHeGlic3oxa3RhYldSbFZJVTU0WTA0R3N6Q010MVZ4MWt3S2Q3YktTYUdoNGJqdXVKZTY2ZEhsSGhHYUFySHBoSlZYbWVFZHhDRFdRb1VoVlBnVG5ROXNJUFl5ZUNVb2RvMHVnZmNuYVlWbUN1QjF5?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-15 01:13:34",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 433223,
+      "DOGECOIN": 0.815489,
+      "ETHEREUM": 16611.49,
+      "LITECOIN": 445.66,
+      "RIPPLE": 11.29
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Zbigniew Bogucki: Karol Nawrocki był, jest i będzie w bardzo dobrych relacjach z Białym Domem - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmRXN3FRQl9UeEFXVXNQdDA5LW9WZDZYYVgwelB3UGZWVE9kN3B6aU8wcGE4S0dPT0UwNVZSenNweWJfZGdZb0RXT0xPbjZpd3RiQWI0RFVCSG9STnVYOWJsNUEwYXZ2NUsxQXU1RW1YNXRyalVJRjBmYnM2cEdmWEJkejI2MGFuSEJrOExfTGs0R2YwVTkzeUVWdU1QVV8ydUJIeWpBOA?oc=5"
+      },
+      {
+        "title": "Afera KPO. Prokuratura Europejska wszczęła dochodzenie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUo0dFN1ZElHdFh1WmVVUEd0MWIxWHlIR0VMOUNtd0F6Qk5oemt4aHlkdHVTQlFoeEpQLXJjVWt1bUZ4OFVhLWJ4OC1UZFFCUjRESTUtcTZuT2pUNWVrdy1rV01nUHQ2ZDRxSGpjenBPN3V5SEJzSWowVGZaY3duYmZEZU83TGZ5YVRtUUZ2RDNKdmdqQVVkM3dMcVU0M2p4dlpwU3ZraU1KakpQTU1PejRpTkVDWWc?oc=5"
+      },
+      {
+        "title": "\"On jest przekonany\". Trump widzi motywację u Putina - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGJ2Q1o0cldBYkVpUTN6cGNaa3hVT0x4TWFjQ0hVdEVQWGVIREtDOTJQZEhVMGhYQ1RwdHBaR1ZOcmt6TU9reURIMjZrVVpTY285MGlMM3BZRGVLS0ktYk1BS3RNTGk0bjIzUERXb3VUX21RSjhmajZja2hvbExXUmV5Sm9oa2pMNWllOHFoUzRDd2lCY0hVdVIyQWZCQktpUThlZFh6djB4MUVMZWFGUjFVQzVzUGtmdWc?oc=5"
+      },
+      {
+        "title": "Trump o wycofaniu sił NATO z Polski. Niepokojące słowa - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGROSjJzT0RKcW90S3ZkdkF6ak80aXBoZGVhUTg5emRZQjNxLUQwWXVoVjJKQ1dObEhqMjZSNklCRXJiMnI0cC1RbTY4RU1QYVk0djZ6MjVmdUpPcFRRS1ltTi00cWlZd3ExWnlmMXdla1JvYzlOV2p0QzAxWlZNNFJ6b0R5aWo4dE5odFdWelZTaTFjMGfSAZMBQVVfeXFMTjFXckxaajRza25oel9tSjF0Q3c5ZUtCOVlNUklGUUUxcjJGSmZWQU5XRTBuUC0wWG53cHFjMmwybG9FUnZxa2ZMenpGcFFqcFdUbWtZTHFIWVFnUlY0dVJaME8wN2JnX09kSnpiUnkxT1BnNnEwTzQwcEFwUURxUFpoc19FUjVlclR6OTdzMUJiY2xj?oc=5"
+      },
+      {
+        "title": "Duży pożar bloku w Poznaniu. Dwóch strażaków trafiło do szpitala - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdC1KcHFSdmxqSHpTY0RvckR1LXdaUG85UjJpcWhOSjl5UDRyYnpRX3hZb2x3TVJSTkVpdGlFeXhZM2M1d0k2NkpvbXZKQ21fLTlDZm9DamFXSFc0aVVkYU5RSG9wZjYyOFg4cU5STU5ic3BpVmJfeDJaQXp1NlF2aXBrcjdEeDZJR2lYRG9obDljVjZ1bXVMTmtwOTFEbVRBTVAxNWF6aw?oc=5"
       }
     ]
   }
