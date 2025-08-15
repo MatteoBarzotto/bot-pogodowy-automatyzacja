@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-13 01:13:57",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6702,
-      "EUR": 4.2626,
-      "GBP": 4.9427,
-      "CHF": 4.5311,
-      "JPY": 0.024726,
-      "AUD": 2.3828,
-      "CAD": 2.6615,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 437332,
-      "DOGECOIN": 0.861997,
-      "ETHEREUM": 16730.85,
-      "LITECOIN": 476.64,
-      "RIPPLE": 11.92
-    },
-    "indices": {
-      "^WIG20": 3014.18,
-      "^WIG30": 3874.41,
-      "^WIG": 3874.41,
-      "^NCINDEX": 256.68
-    },
-    "news": [
-      {
-        "title": "Donald Trump spotka się w Władimirem Putinem. Biały Dom podał szczegóły - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmQwSWVyR3VEbDJ1M1RKejJjTmZoR2l4bXQ1OU5TeFVFNFFjZzdKWEN1RTVYQnZST3hvSGs1Qi1Gdm1xdUxtbEtmNXFuWUV3cC1OenFZTDRFR0VDQ3FFRlk5REVFUkdrS0hPQ0Q3bDNIS0FtSXpkU2ZHWml1RW9Td3NidkhtQUdPZmRqSE1sSHdyNTdLS0JsVUU5T2xnSHlHU3VmUk5BZEVEdlB6UElLclNrWXZIYU5YVWlxUw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki ostro odpowiada na słowa Donalda Tuska. \"Nie ulegnę szantażowi\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ3pBM2stakp4ZW81QTJFNC1VdmlKZGhvQ3FsZnlOcm82bkpSNjNKalFIV2N1NUFBeXZlVDlBRnFXRHhUNXFST25DcjRweTVhQ1BTWG9mOU5KUXZzXzNPQW1EenBnVzVQczJOcGhwNkNBb3lhWmdoNHpFanpsYmZjOFVvdGVySW84UktVWEp0YTZhbm83dmt4ZnE1dm85cjBPSEc5UUNLaEZDRnV0N2tr?oc=5"
-      },
-      {
-        "title": "Solarium w pizzerii ze środków z KPO? Właścicielka pozwie posła Konfederacji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3lrVVQ5U3FlNFFDS05IUHFhWnVxMHR0RlhSbjJIMm9iQjBYTUo1Zi01c3BhTDBpdVZwbXVDYXRFWHFJRTdDelpLS2JKMnVJSVdVYW0zYngwM05BUjlNMTdZM3JPQWtXeDd2STdDMkN1TUJkaGhIdUNwTnFFOUptRXJxenY5ekVBWTRwSU1MZnZmS2ZBM09DUVF6SC1kT0huMzkyVHJhcVJ3YjdvX01kdDJNSTZJNjNicDlyRVloN2lpcWxrVGc?oc=5"
-      },
-      {
-        "title": "Nawrocki nie rozmawiał z Tuskiem. \"Nie dopomina się\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3lpcU00enliZkk2Njc1dVBlejFuVFFvZF9PYlJQVEtiNHlxQXE2ZkhlbExGZjN3ZWxIeHdadUlBX04wQ0xybGFJTGhLeWRLOERqeDhRdzhJc0RhdVBwUmlwd0RXZkNSZ3JQaFUtX0lHeUVOenBBcEJMTzd4aXNwS2JVb1pGY3NUVHBQZlRabmRrd2plRHZv?oc=5"
-      },
-      {
-        "title": "Tragiczny koniec poszukiwań w kopalni Knurów. Nie żyje górnik - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWU1PSmRhUzUtQWdsbmdORlFJdHItdUQzMnRSaERIYWdyVHdfR3hhTWhJNmR6Ri1RbU1hLWdSa1VIazFTeW82a2dPVE1IWTZHRGt6SzJFVVJKUFlCOFR1RFVRY2NkOWk3WHNCSVU0QkQ5NVZGQXhSUHZtYU5qNlMyVHlJYVJNbXVyVDdBbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-13 03:10:31",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "\"Wstrząsy wtórne\" po aferze KPO. Czego obawiają się w rządzie? - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUlDWU9YcTNTNHVISE1YZmRlOFA4RWoya2h5QUdfQlhBaDQ5MEZTcTl0WG50U1ViLXdPSFdKVVIwUzRYUWY4aXBHWWVUc2R0d0NoR1A5X09WTWFtZFM3M2lXMFJENzQwLTVPTmpGVFl2VWpYNVFwalowLVpHRWZsZUhpZHNoNHZ1VzB1dWY4QjVmNExIYUdfSnBqOEFpWHNFbi1URzIya3pxWF96d3hNUGo0Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-15 09:14:48",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +21°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 434076,
+      "DOGECOIN": 0.841168,
+      "ETHEREUM": 16944.16,
+      "LITECOIN": 445.7,
+      "RIPPLE": 11.39
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Spotkanie Putin-Trump. Godzina została przesunięta - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0dpVFVmc0Y5UWhoeGROTXA0eDAyYmEzZFBWcTY1TzRpY0t6U21xaUU0eE9mQm9jY1dOcE1EMElEQS1xaFhoWDFiOWZPMzUzMDZBUTNTQjMzbk5XSVdQeWxRQUlwZmw3QmUzV2s1Nl9qMnNwbnpDMGhlbTZjTlZ2SXFrM2ZyOG9ZeG9ESXNLVDlJMjN0?oc=5"
+      },
+      {
+        "title": "Skandaliczny transparent kibiców z Izraela. Reagują prezydent i szef MON - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF95cm4xa1l6bVB2eXRPTG5mS3FlMjFpX3RWMnhWYVNkT0h3WEh2S0RGdUpjVGE5d3FkSnEtUjU0eWtpeWtLZWJIbjJldzNveW9jeThtRHYwRi1ZSlR0bzhkbFU0czlralptZVd0X2lzRWxxSG1SazR5SURVdnc3OFU0YlplSFdxNXdMZlZPdGsxdUwydGdERDN3X0VuQVJHS3ByUHd1MzJlbGgySGlJSU9wU21mWnRnVFEzeVpWSQ?oc=5"
+      },
+      {
+        "title": "„Prezydent nie będzie chował się w pałacu”. Szef KPRP o kulisach rozmowy Nawrockiego z Trumpem - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVJmT0xrWS0yZ3g1ZlRmQjRJN0hybEdpMVdkTlRvd2E4NkFiSkdKSzZJN0lydWFlWFZTbDNZaXdzYVRtNElpVG82dE82UWhTYzZMbERENFAwNF93aXU2MmVyb3UwMlVUXzgyM2s4bWxyUUFqM1VmNlNTdldrcG1zMlZ5MmVjcGJ3NGFycnlIR3NfdXJzZy01M3VaQXF6d3M4MUgzQXFyM0hMMUt4N1ZrNHBGNmRXZWJLLTJhTkg0VTJSMXN0TjdwQWl3?oc=5"
+      },
+      {
+        "title": "Surowy zakaz podczas defilady wojskowej w Warszawie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnVoYUZQLVpMZUUxRm4yRWNrTlBObHBBSThwS19sNElIbDY0RF9jY1NSVWR1d3JHSzZ0V3UwaFlMbkVENVRVUi1kNFMyQVB2UTlfczRpM1VfSmhHczZHQlRxNjJxaDRlM0c3QUJoUjZQVDF3ZzEzdlJXQXUxYXpTeFpZMVNabWJQcnlIbE10S0dBdmxuNHlYUGthbEMxNHhKT0N6aGxtM1JVeEVHYlVUYjFtS2lhWG5TclE?oc=5"
+      },
+      {
+        "title": "Płonie blok w Poznaniu. Ogień trudny do opanowania, mieszkańcy ewakuowani - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUQwdURLZDBUM0dtSGtOOGo1TXZrYkctcldwUzRuRTk4R1Q3Q0dURXVXZmxuLVJhbzNwVTIxVTdlV2hzQWZIYVV0V2NaTldJTUxPQUVtY1JGd2VVZl9CWExGU0t5UXpuMVdSN3NIRkhtOXZVb0JXa000V1J0RUo0WU9nNzJnY1RCbU5MMnRXX2prWFAzLWxoMlp6QnNDbXhCcXZjU09UV2NBQlQ0YWtDSFNhenRJRmxDdTZv?oc=5"
       }
     ]
   }
