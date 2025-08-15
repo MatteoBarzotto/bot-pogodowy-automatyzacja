@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-13 03:10:31",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6702,
-      "EUR": 4.2626,
-      "GBP": 4.9427,
-      "CHF": 4.5311,
-      "JPY": 0.024726,
-      "AUD": 2.3828,
-      "CAD": 2.6615,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 435540,
-      "DOGECOIN": 0.85692,
-      "ETHEREUM": 16750.27,
-      "LITECOIN": 476.14,
-      "RIPPLE": 11.77
-    },
-    "indices": {
-      "^WIG20": 3014.18,
-      "^WIG30": 3874.41,
-      "^WIG": 3874.41,
-      "^NCINDEX": 256.68
-    },
-    "news": [
-      {
-        "title": "Donald Trump spotka się w Władimirem Putinem. Biały Dom podał szczegóły - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmQwSWVyR3VEbDJ1M1RKejJjTmZoR2l4bXQ1OU5TeFVFNFFjZzdKWEN1RTVYQnZST3hvSGs1Qi1Gdm1xdUxtbEtmNXFuWUV3cC1OenFZTDRFR0VDQ3FFRlk5REVFUkdrS0hPQ0Q3bDNIS0FtSXpkU2ZHWml1RW9Td3NidkhtQUdPZmRqSE1sSHdyNTdLS0JsVUU5T2xnSHlHU3VmUk5BZEVEdlB6UElLclNrWXZIYU5YVWlxUw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki: Ustawą wiatrakową premier Tusk chce szantażować prezydenta i Polaków - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjlmRkVTS0x2eVBid25EdFlISjUtakZaeGRwLUNBQ2FBWGt1ODl3VW5xTi0xUGxKd3Q4QnBvaGtmTW1ORzhRRE8yc0R4TmVMemVIM1NxYnRSSjROTVI5Mm5wUTdXZkRtZjA5YXpONmVkYktmcTR0TmxwUUVyUUZDTlRrd21BY0lLOTlkalRlSlkwLVh6aThmT284d1NIQTVFV0wtTmRJNmprRnlGRHJtOEVoMU5sbll4TzRSSXJBbw?oc=5"
-      },
-      {
-        "title": "Solarium w pizzerii ze środków z KPO? Właścicielka pozwie posła Konfederacji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3lrVVQ5U3FlNFFDS05IUHFhWnVxMHR0RlhSbjJIMm9iQjBYTUo1Zi01c3BhTDBpdVZwbXVDYXRFWHFJRTdDelpLS2JKMnVJSVdVYW0zYngwM05BUjlNMTdZM3JPQWtXeDd2STdDMkN1TUJkaGhIdUNwTnFFOUptRXJxenY5ekVBWTRwSU1MZnZmS2ZBM09DUVF6SC1kT0huMzkyVHJhcVJ3YjdvX01kdDJNSTZJNjNicDlyRVloN2lpcWxrVGc?oc=5"
-      },
-      {
-        "title": "Nawrocki nie rozmawiał z Tuskiem. \"Nie dopomina się\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3lpcU00enliZkk2Njc1dVBlejFuVFFvZF9PYlJQVEtiNHlxQXE2ZkhlbExGZjN3ZWxIeHdadUlBX04wQ0xybGFJTGhLeWRLOERqeDhRdzhJc0RhdVBwUmlwd0RXZkNSZ3JQaFUtX0lHeUVOenBBcEJMTzd4aXNwS2JVb1pGY3NUVHBQZlRabmRrd2plRHZv?oc=5"
-      },
-      {
-        "title": "Tragiczny koniec poszukiwań w kopalni Knurów. Nie żyje górnik - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWU1PSmRhUzUtQWdsbmdORlFJdHItdUQzMnRSaERIYWdyVHdfR3hhTWhJNmR6Ri1RbU1hLWdSa1VIazFTeW82a2dPVE1IWTZHRGt6SzJFVVJKUFlCOFR1RFVRY2NkOWk3WHNCSVU0QkQ5NVZGQXhSUHZtYU5qNlMyVHlJYVJNbXVyVDdBbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-13 05:15:31",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "Płonie blok w Poznaniu. Ogień trudny do opanowania, mieszkańcy ewakuowani - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUQwdURLZDBUM0dtSGtOOGo1TXZrYkctcldwUzRuRTk4R1Q3Q0dURXVXZmxuLVJhbzNwVTIxVTdlV2hzQWZIYVV0V2NaTldJTUxPQUVtY1JGd2VVZl9CWExGU0t5UXpuMVdSN3NIRkhtOXZVb0JXa000V1J0RUo0WU9nNzJnY1RCbU5MMnRXX2prWFAzLWxoMlp6QnNDbXhCcXZjU09UV2NBQlQ0YWtDSFNhenRJRmxDdTZv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-15 10:19:21",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 433893,
+      "DOGECOIN": 0.84151,
+      "ETHEREUM": 16914.77,
+      "LITECOIN": 442.02,
+      "RIPPLE": 11.37
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Zasoby mineralne Ukrainy. Oto co Trump może położyć na stole przed Putinem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWphdjZKLXJrYVdKSXIzQm5IcXVCYkt1MXZtOUFCSklUUTVFWFhkRFZ6VTdpSEllaHRORW5XWXFXR3F1aTVMT1htNmJqZng0SjFaNHQ3cTRuMm1sN194NUtONENSeWlzMy0zMmItcDFwcmRMRWU3LU1mVDRMM240S2gtQVRSQXFIa1hFU04tZHlWS2NJVHRNYnJ3RUlvb3BuMU9LRm1CRTRSYnN1WUlXblJPVER6ei1sbkRQdS1PeDNZaHlVV0Rj?oc=5"
+      },
+      {
+        "title": "Polscy politycy grzmią po meczu Rakowa z Maccabi. Skandaliczny transparent wywołał oburzenie - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHVoRUhDYkQwQS1TVWxmMThqcTlzdkFBcndWdVZnT3RBQUpWNGxvMEdlWGlMU2tVMDF2VzUxTXN2UXhKOFNNT29iT0pYeUNTRzYzWXhJbC1kWFVnRXFVM0I4WGhCV2xaczJYRVA5QVkxMlFmMkdBT1AxU0dpNTJ5SGFjUVpVd3B3STFGbHo1SFV6RFJLY1N0SFJ6MU94OU95M25rcTFkVHBWcGsxR0RmMGRNMA?oc=5"
+      },
+      {
+        "title": "Surowy zakaz podczas defilady wojskowej w Warszawie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnVoYUZQLVpMZUUxRm4yRWNrTlBObHBBSThwS19sNElIbDY0RF9jY1NSVWR1d3JHSzZ0V3UwaFlMbkVENVRVUi1kNFMyQVB2UTlfczRpM1VfSmhHczZHQlRxNjJxaDRlM0c3QUJoUjZQVDF3ZzEzdlJXQXUxYXpTeFpZMVNabWJQcnlIbE10S0dBdmxuNHlYUGthbEMxNHhKT0N6aGxtM1JVeEVHYlVUYjFtS2lhWG5TclE?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Mazowszu. Nie żyją dwie osoby, trzy są w szpitalu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3kySFdLal9WajdPbnBJZVZVT1lEYlNvU1RVNEJsaWtfXzhtUk1NTWF4bjNyeUEzMUtERFdLa3FuTHlvdGp1eW4yNTdiTFRIcEFuSVdCcGRnOEIxUGdnUzdIN2phOEtpUk1VazBhbVpVV01zWlVldTRDbzI1aG1wTzlGSzB6bnJqa1V3NkxTSmk2TzJPa3FEU0dQN05KQjlkUDBQZF9tU05YWTM5TDJtZk1wd25URzhRc2I3WE42UXpRSjdFUlpB?oc=5"
+      },
+      {
+        "title": "\"Wstrząsy wtórne\" po aferze KPO. Czego obawiają się w rządzie? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUlDWU9YcTNTNHVISE1YZmRlOFA4RWoya2h5QUdfQlhBaDQ5MEZTcTl0WG50U1ViLXdPSFdKVVIwUzRYUWY4aXBHWWVUc2R0d0NoR1A5X09WTWFtZFM3M2lXMFJENzQwLTVPTmpGVFl2VWpYNVFwalowLVpHRWZsZUhpZHNoNHZ1VzB1dWY4QjVmNExIYUdfSnBqOEFpWHNFbi1URzIya3pxWF96d3hNUGo0Zw?oc=5"
       }
     ]
   }
