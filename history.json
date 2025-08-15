@@ -1,37 +1,5 @@
 [
   {
-    "timestamp": "2025-08-13 06:24:59",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6702,
-      "EUR": 4.2626,
-      "GBP": 4.9427,
-      "CHF": 4.5311,
-      "JPY": 0.024726,
-      "AUD": 2.3828,
-      "CAD": 2.6615,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 435750,
-      "DOGECOIN": 0.873188,
-      "ETHEREUM": 16998.36,
-      "LITECOIN": 482.14,
-      "RIPPLE": 11.85
-    },
-    "indices": {
-      "^WIG20": 3014.18,
-      "^WIG30": 3874.41,
-      "^WIG": 3874.41,
-      "^NCINDEX": 256.68
-    },
-    "news": []
-  },
-  {
     "timestamp": "2025-08-13 07:16:00",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2625,6 +2593,59 @@
       {
         "title": "Tragiczny wypadek na Mazowszu. Nie żyją dwie osoby, trzy są w szpitalu - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3kySFdLal9WajdPbnBJZVZVT1lEYlNvU1RVNEJsaWtfXzhtUk1NTWF4bjNyeUEzMUtERFdLa3FuTHlvdGp1eW4yNTdiTFRIcEFuSVdCcGRnOEIxUGdnUzdIN2phOEtpUk1VazBhbVpVV01zWlVldTRDbzI1aG1wTzlGSzB6bnJqa1V3NkxTSmk2TzJPa3FEU0dQN05KQjlkUDBQZF9tU05YWTM5TDJtZk1wd25URzhRc2I3WE42UXpRSjdFUlpB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-15 12:15:17",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 433231,
+      "DOGECOIN": 0.842874,
+      "ETHEREUM": 16895.99,
+      "LITECOIN": 441.17,
+      "RIPPLE": 11.33
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Oświadczenie MSZ w sprawie skandalicznego incydentu podczas meczu Maccabi Haifa - Raków Częstochowa - Gov.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGtKY3QzS2ptLVh3T2I4MlBoeGExc2pIT19vckpBcWZLMXQ2U21pdXpmQkZNMmp4emlqcThXRVQyS3ZDNWxfeDZycW9fU3dPY0dQZFN2MlZKWGNUWFpxRG1QaFBBMzlhNlB0NDNJdlFiMUlHZWdKdnlWb2ZfbS1SQUpiWDBBaDg1Sms5WDhFU042SngtRlNpS0xrRzk2OEJfTkZWTF8tdnp5Y0NXTTdmbFhHelhrcHlrMzllYzNrbU9lMkVmTi15YlFoNFM?oc=5"
+      },
+      {
+        "title": "Putin ma propozycję dla Trumpa w zamian za poparcie USA w sprawie Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmgtYWlLRGY1ZnpYMUtYcDYtU2NuMVY1UGlJUnlYLVgtRzh3MWhoQ2p0QXpTTDEyVTJHQnVwMEluSnhya29oTDlLeWNjeWxGeFVYN3FEc3N3aWwxcnFBWWN2RGhsXzdzbGlBbVY3OVpRS3g3OW1ZQ0FOZ3JQLXVPWnREYy1sTS1OazM3bC1teVpESk1sZ3RNR29RWS1WeWU2c3JRYldWdTg3T05CaHFsRU82RV9rcnJqSFIwRk4xUGFVNFk?oc=5"
+      },
+      {
+        "title": "Surowy zakaz podczas defilady wojskowej w Warszawie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnVoYUZQLVpMZUUxRm4yRWNrTlBObHBBSThwS19sNElIbDY0RF9jY1NSVWR1d3JHSzZ0V3UwaFlMbkVENVRVUi1kNFMyQVB2UTlfczRpM1VfSmhHczZHQlRxNjJxaDRlM0c3QUJoUjZQVDF3ZzEzdlJXQXUxYXpTeFpZMVNabWJQcnlIbE10S0dBdmxuNHlYUGthbEMxNHhKT0N6aGxtM1JVeEVHYlVUYjFtS2lhWG5TclE?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Mazowszu. Nie żyją dwie osoby, trzy są w szpitalu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlE2dmF4T2xzUHdaeG1VZXU3Z1NDZmwtR01icDJvTFFHZHJpVlozMk9kSDcycVVEanhFaDBIUnFzV1pqQ3J3NHpOdlNDVVpKVDJZQUpkejRUMWJsMy1hVjZmMERiSnNYX0Q4bWFCN3pHd0tud1Y2TWpzYmlQVGIwaWdlZU9BeGJvcXI0VUR5N21jMUw1bjM1M2pXX0VLblhXVUdqV0s5Qy05dUltbXU0ZEFB?oc=5"
+      },
+      {
+        "title": "Ławrow przybył na Alaskę. Uwagę przykuła jego bluza - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWJhWjZscjk1U2RXZzJGNU1TWmxUWGxlUFBXbWgwWEc0M2NvMW9wOGE5NVo2SlBHSmVOeEN0UXlqS2ZsN3BaXzNqN1dZXzI0SVIwRXdFaEFWZDZzc2FxQURVN1A5MERZbDVhems4WWF4LUozbXVxcFA3MTRuOTZZYlRhMTlpYm9oTUx4bHpuMWtHY1F2WlBibjF2TlAyRy1ENTBIVnRUSTEzTUNVRG8yQVQxOA?oc=5"
       }
     ]
   }
