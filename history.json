@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-14 16:14:15",
-    "weather": {
-      "Warsaw": "Warsaw: +32°C",
-      "Kraków": "Krakow: +31°C",
-      "Gdańsk": "Gdansk: +25°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 432509,
-      "DOGECOIN": 0.82773,
-      "ETHEREUM": 16789.98,
-      "LITECOIN": 449.71,
-      "RIPPLE": 11.37
-    },
-    "indices": {
-      "^WIG20": 2938.25,
-      "^WIG30": 3778.5,
-      "^WIG": 3778.5,
-      "^NCINDEX": 255.9
-    },
-    "news": [
-      {
-        "title": "Sprawa Kaczyński-Komosa. Jest wyrok sądu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUJSOER4eE4xYWg4QWlfX01EbTVSUTJEb1g4ZmFxcGZhRDdJYUZUUnRZcGo1SzkyS05RWUEzeW1mNVItYXFZV2JXZllPOTVZcDdGVVBSYktKbE53bWMyM2xhaWFhUFJGQkZnemNSV2NTbFRvVDdmU1pDczhtQ0Iya2RFZVFFSW1HYUNPaXNGUDFNR21Udzd0bHItSWUtazVBbGxabUJETQ?oc=5"
-      },
-      {
-        "title": "Spotkanie Trump-Putin. Nowe szczegóły szczytu na Alasce - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjN2VEVrZkpaeEtHamlvSkxqS3Zsc3JIc0JFbGZnd0MwQzBJMU9tNkVUNHBOQk9iN3hUSjZycjFhRl9STE96UmVGR3pxX28xUU1CdkZkczBYQzVKMWhVa09BVXJYZzBYb3QxMTAxak1nOEtvR1NxVEhEQmt5aEFBM0dVZVFCUlZCaDNYLVM2dzJkcnM2aWxEdXZNdDhMM282X2tSQXVncjVWaF9WU3cyUElUT05jUEs0?oc=5"
-      },
-      {
-        "title": "Rozmowa Karola Nawrockiego i Donalda Tuska. Premier musiał czekać na prezydenta - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGlTcW1RNWJ2V0ptMC1GQTJLSUl1YUREb0R5QmJVbnI0TDdfZWIwb3hHdHRETUdmWk9EZEp3ZFBNR0xFY1dJT2NteTg3Ul9nOTdTa1hTWFcteWJSOGV3djF5Mzc5OUNTUktiVnh6UlNKWGU3UkQ1M0xQWklod3hIRmVSMDlKT01ONHNydUhWU1Z6Sk5VZVVYSU5zM0VCVlBaNXBZV3ktSGdEWW9NWS0wWldwVnlsQ0tfM1o2VVliR1ktRGpJYV80?oc=5"
-      },
-      {
-        "title": "Defilada na Wisłostradzie – jak poruszać się po stolicy? - UM Warszawa",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYTQ0LWcxV09VcVAwaGd3NFdVSlF5WTdTYXBwSXdJazd5RDNPUmdmZWdHdllKcWg0T3ZTLThjTm9CdG93VkdRa0VibVZMemM4cEVBdlYzSDY1QWdWWGVZZElWWVg4dmhjQ2xZT1ZVejRjVjJrQnBoa1c3VE9rWkN2MXFLeTRJZw?oc=5"
-      },
-      {
-        "title": "Afera z KPO. Pełczyńska-Nałęcz zdradza co dalej z wiceministrami - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0VabmtTSFpFSVRjN19LV2xaU053UFctRmdGN1lUMlYwZWppVVItMzlwTkgxYks0cjlqM3RHcU5jUDJNSU1ab2R5Q240eUQwUm9KeENOZ1k2M2RsVi13VzBtRUJ6OWY4c1FnZmYzNlp2YXh4S2tsRHZWNWo3TVNISEFCbXhkUkJ4V0RrMDZtMkNjM1ZKZDJOZzZCN3FQQlV0eVZyRkp1SUJXRnYwTExxU0ZkaVRueHlCYUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-14 17:15:35",
     "weather": {
       "Warsaw": "Warsaw: +32°C",
@@ -2619,6 +2566,59 @@
       {
         "title": "Agata Duda zrobiła mężowi awanturę. Wyznał prawdę po opuszczeniu Pałacu Prezydenckiego - Onet",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHljX1BJVmlBWEVvVEpycF9JNzlEcklSNjZpNVFFRTZYS284ODF4Q2xtZ2s3SENTZ09kOFBybW5QZ1ItUGhnZldkcXlUOHBxalhwX3RYSndlQi11X25aQ0xZYjVvZV9SU3VEQ25NSG5BS1RFUWFJbkJhSWhZd2l5VTZXNmUxTHlCXzlkS011NEVNOXlCQy1SaWFqZkd0XzQ0cllHM3BLbDllbjh0c0k0REVMNHN4ZkRqOF9KY0JWemR5cG5Q?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-16 22:14:10",
+    "weather": {
+      "Warsaw": "Warsaw: +28°C",
+      "Kraków": "Krakow: +30°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 428164,
+      "DOGECOIN": 0.834713,
+      "ETHEREUM": 16078.65,
+      "LITECOIN": 436.82,
+      "RIPPLE": 11.28
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "\"Koalicja chętnych\" zwołuje spotkanie przed wizytą Wołodymyrza Zełenskiego u Donalda Trumpa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZnl2QTU3bklPaXJYYWtMcmpLYXlTdHdBcmUwU2lmTGxMQmNYUnhPTm5rUlhoQVRvaHZ6a0FTeWpCOTRHaVpHUk1IMHpRWnhzd0lvWThEM0p0dFNaS2JuN19PV2VVX3V3bFRwQ3dLeFRKU3ltNHV3cHNuVUdDWWM5c0VvNkNseGYwQVR3OXBRcFMzWVE0Rnp1dWRiZTZ0eDNDY24xeVZockppMUZfZmlvT2Z1QS1GemhPdnNhak5yZThsZTNGeTdSOExhc25lT050NlR3N1podFB5UQ?oc=5"
+      },
+      {
+        "title": "Kulisy rozmów Trumpa, Putina i Zełenskiego. Prezydent Ukrainy tej propozycji mówi \"nie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0c2T2d4LW9DYU1SRktvVno2WTFOcXhtR0FVdE5MMm9Cbmc3Yi05T2NyQm83WVJKbGZlWUZGWUpuMHFlUnBQYUgyTU5xZlpUdzNuOGJDdFZkMENtMmw5Z2g4NGFndVBQMEFFN3pNUkd0ZS1kLW1WenItTUs1WnZ2czI0THpkWE9IazBLVU9zTnc5d01Xa1Y3ZWp0TFcwV1hMdGV2T29XZVJuU0J6cWxhOWp3?oc=5"
+      },
+      {
+        "title": "Nawrocki dał wskazówki Trumpowi. Rzecznik prezydenta ujawnia - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGJrNUxBUFZOR0ZBdDUzejBEN0lrUVlUVm52TkJvVjZqNTlhQzF0a05vbVl3RWJuQ1RPQlpMNS1NX2ctR1pLSE5pMGxmVnp6V0k4bkQ3OVIzSzFPalJ3RTA3OHMyMFhOYWNqV3FCNTlnVWRjNm9kMUZfZC1UdWxncURxUDRhTEs0UTk3Rmd0bVpCcVhMQXZUNzVMQ1hhR2pHOWRkMG5OUFM4UHZKcEdXYUNmbw?oc=5"
+      },
+      {
+        "title": "Nowa taktyka Rosji. Nagranie pokazało prawdę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWs5ZTVZN3pvRnhKQlE4OFI2cEJiOE1KOUZQSEJKYTVNUm03OW1xc3h5cm1leWd0TmR2SUEyWFhtQWMtakVZNm5aZ3NSUGdZZ3VIUGlXbFdYZlNSbXZ3OUNKR0FOUG15WWRnVUc5ZER6OHVKaUNTNzdLTEVBSlpWVVJTSldLb0pZWVlJX2o5c2hyT0hEYWVxWjB3?oc=5"
+      },
+      {
+        "title": "Bójka na deptaku w Szczecinie. Nie żyje młody mężczyzna - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcS0ybTFwWFNxVDlSejkxak9tejlCSjhhZHh5dDZ1VnJCX0NZNGpjMXh6c21WanRfSWUtQnRVWEp2OGxFUWdmR2dsTlM5b0NIQ1VGSDNYWmpUX2lpWW9vUHl1eXZ3N0p4cEpkbUFMRlhmODhKUjUtUWctSHBvT19KVXdhQTRVdHp2VVBSZkFzR0FadkVLanBRanRhZW1OQXgxQ3lZR1NaM1lGZw?oc=5"
       }
     ]
   }
