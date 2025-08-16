@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-14 00:14:28",
-    "weather": {
-      "Warsaw": "Warsaw: +30°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +24°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2586,
-      "GBP": 4.9281,
-      "CHF": 4.5249,
-      "JPY": 0.024685,
-      "AUD": 2.3814,
-      "CAD": 2.6414,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 446798,
-      "DOGECOIN": 0.885887,
-      "ETHEREUM": 17190.3,
-      "LITECOIN": 472.04,
-      "RIPPLE": 11.88
-    },
-    "indices": {
-      "^WIG20": 2997.03,
-      "^WIG30": 3849.47,
-      "^WIG": 3849.47,
-      "^NCINDEX": 256.38
-    },
-    "news": [
-      {
-        "title": "Brytyjski dziennik: tak Trump chce skłonić Putina do pokoju. Na stole ukraińskie minerały - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmhEOVhac04yU0ZFTGFGNGdJOEdGd3BKcjEzMDVOc3V4bUFfd0RhUEhNdzlweURCS1Mxa1NmNEhoYXk1UjNrYnIwUGhJcTF2MXd6WEp0M1BWdU5RZndtdGNFTWpEb3NkRDBrSDJQUFJuUnc1M0lJc2U2VmF0YVVFNjRlajQ1bEdvcWVReThLRDA1a3ZZNWM1VTljaFhveW5ENVU1NWpuczRiV2ZzRGRuZkJvelgwdVVFLWh0a1B5eHBEOGhEVGMzT3lWWkIwOFg2T1pyeGwxbGVwQQ?oc=5"
-      },
-      {
-        "title": "Co ryzykuje prezydent Karol Nawrocki, reprezentując Polskę w rozmowach z Donaldem Trumpem? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1ByRU8xSEZGS0E1aDFRQkRKQ0VWQkRNWUVQQ2tyV3NUbzh3cVRxaGc0b3RNSWtpYVhfYVZBWGIxamZxUi03SUxkZDNCWDd3eW9TV0xUUVFGLUZTcnY3aWpPRlpfTGtiWXZ2TnpsV0xaelppd05rZmk0MzF2dzdLajNGaUNKXzgzOE1XWUtKWDFIUmdmZTVIeks5Slozd2hSVk5iSGVxdEJMYndjOThkSDRHemJLZHJUb20wd1ZUSERidF8yT3RDVjN0bkZqZHQ1MHJjS0FlMW0?oc=5"
-      },
-      {
-        "title": "Pełczyńska-Nałęcz w TOK FM o dymisji. \"Odbyłam jedną rozmowę telefoniczną\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalppZG9HQnV3emFLMXZzM0tvLWRrZEw4TjYxUDhEUXlod1Vpc0xqME5xeXZiWkJWYlpzZ1FBSlV5N0JGbkNBcTdqWWNKLVJwZ1RDYjlOVldUUGwwN0l4M2RSeVpVQU1CWVE2TFpOUFA2bnpudWtTaUx4dE1pREtYWWl3N0JDeEtIMG1OVnV4ZDQ2M1VmaHBDemo2SUtyX2ZfcFl0eEd0eC1WRktL0gGrAUFVX3lxTFA0T1UtM3F4dHRqSzFvX3d2cGUxdThUaGxPdUxuT1djdFJUclBzbER6dnR0Sng0NDZSSmtJdTZGdWpZOWFjYVdmNFVBaW1Qa09HSlRnOVNVWDdaVDFNQ3RSTlpzZGtXUWNiakZ3WncxTW1pTExNOFlWalkzN1dQTURMNkRSOXp0d3o5REczd0lZM3Z4NmREdE9kRFdPMGxxNUhwU1lEemdreFZYYw?oc=5"
-      },
-      {
-        "title": "Dramat podczas pożaru hali na Pomorzu. Utracono kontakt ze strażakiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3hJaGFkLVNWNVgwTVZYcGpSLVRENGwtcWtKRWlFSzU2VWRfTHpxbUxJX3BmUUdzM0xoWTVOZk45ZEc5djdKWDNuZ3BFNktsM1VCTF9TMV9DVlN5M3VFTWNaOFlrLU1BVkxDMy1WRDlaOXhHbHRmbmgwTHRmTDBVLXJGbkNCNUlMd1BfeGZGcGFBTkJKRUZwUEtQTzJRVVZldzY1RHc2eDJheEZMRlBWU0lyaHBJelk?oc=5"
-      },
-      {
-        "title": "Donald Tusk reaguje po spotkaniach w sprawie Ukrainy. \"To budzi emocje\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTNmeGZVdmdodWVfb3B0cmZ5S1lQVlVwQURwaFMwdm1OMTBMRVozZlVFdzhKak1QdWRDN2dFcXVkWXgtZ2dFbV9JTVRJMWlxU2tLdEJ4X09ScllkbDV5LU5qbWx6YWRPOElOcG5GenJmdWY3cEdzdGc0RVlZTWR5MHhQRUFjcUdaZUNURGVYRWotakZkUGZvR2VRdGhtUHVQdEhuQms3OEJXanNTZllaSjR3UGVoQTQ2TWVfNnByNkxqS29FQXl1TFhjUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-14 01:13:53",
     "weather": {
       "Warsaw": "Warsaw: +30°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Linia frontu i rosyjski stan posiadania. Oto mapa przed rozmowami na Alasce - TVP Info",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZkt2bFgtZ1lXZUpsSWZleXBOZmhpbTNlaThXLTRBQThtTFZudmVYQ1dKcE4xR0tHQ3l1ZmdQMFNmaTVBMG1JN2l0ajA1NmJlamd3MEFWekFibERScnp2NUgySkRxenBMWE5qUkFmQm1TWU9LaDVvd2NuNGI5WFhKZ2RiUTJ0dm93ZExETVk0WW1DeUdVRkdOemU1bW9iQktYcDJMd19Hem9ZN1U2Wm91UU1landQZTdzVndSdU5SUXlKelFZX0NjT2RIYUEwZEFOUGJ3VFUtbHB2Rk9Ba0tjdTVxUm9ZcVU0ck9YZktKRkhkRkdwTlV6RFNETnlPXzFDdWRjSTRLNXhYLWJxQUUwMTFiek9MZWNx?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-16 08:19:38",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 427651,
+      "DOGECOIN": 0.840891,
+      "ETHEREUM": 16101.52,
+      "LITECOIN": 433.26,
+      "RIPPLE": 11.28
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "\"Putin ograł Trumpa\". Komentarze po szczycie na Alasce - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcE56MkRsNldvbHZnLUtrbDZMT2xEMnRiQTUxM1NqclhvVkk5emhaU2Z1dUVtYjZCUk4wQWgzWHRDeVBHMGo5ZTV0UXEzNXdEeXBmNDBqT0k5TEREc1RzcTJYUDVuMlBTTDZMRnI2QnczQlk3ZmlzNkFONDdKUDl3RFdXUTV1OURsWm1MUFJUeUs1NGRrb1I0WjdiOFRJc2VuOGNB?oc=5"
+      },
+      {
+        "title": "Oby politycy nie zepsuli Polakom 15 sierpnia. Przed rozmową Trumpa z Putinem nie czas się kłócić - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzJTUEZieTBMYU1sVXJpNy04bU1WSjU5dnppcy1MZTJwUjdvVTFZU0lJR0hxQzRpUnpsdFNpMjJOTlk3aDdTUm5SVzlzdjlIVE5tbFNnZmRGcTdJVnJVUDNjOVA3Y2dzcUNhZ3RxU2JqMTJmYnBTalVFay1haHB1RUkzNWFwMlRZWXJLNW8wRUJiQ05CZUZMcUF0UGFvbnJ5RU5xcERPMTBieVNfUWg3em52Y25pYXQwdVhla0ZnNE1iUHlSMXZSdTJQdjM0YzM1cUtfT2Ezck0ta01VY0tGRlVpc0N0RXZqQWUxa2N6TWdrRUZzd2lpRHcwTU9VdFZlYlZJSGZhaw?oc=5"
+      },
+      {
+        "title": "\"Żar leje się z nieba\". Upał nie oszczędza. Aż 37 stopni w cieniu - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1BTRzlKTmdETngtcWFYSHJ5MzYtLVRwMWhTVkxIUVJDQVRaOF83Y09PSjZKODE4VVFGQS1jM0V2MDF5dzBkMmZfd0VqenhoMVJTbFlsUWtQWEtxdWhyYnRzZWl3SGtISkdvY1RYXzRhWWpBLVhMcTB3R0VLcllTMS1UOGFHdHQ2eF8wcXhQZ3gtNFR2dF9fSnhueDAtSGdZekNMVEx6MXdHWWVh?oc=5"
+      },
+      {
+        "title": "Tak Polacy ocenili działania rządu po wybuchu afery dotyczącej wydawania środków z KPO - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak9KT1U0Y3UybEV2eEFxQ3g1X3hzUnJEY193cEdLdGdfMnpKWnZOcDkwOGRla21ZY0R1RWI5YlFtWWRkMGJueUZmWjZPZ1ItdlJRZkpVSUVhb21BeVZRZDhTSENQNXZoallvaE82eDI2VlUyOUpPbVJLcjBPcUg1a2szcnpwc2VqUjZTSS13aVVzNVpfOFh3NkJlNGlMS0NIRGJlQU41RDFTOVYyN0NaVmVTZEFSYkpYNklGSkZncVlzc2Fia2o1cFFDcnc?oc=5"
+      },
+      {
+        "title": "Nawrocki \"robi ukłon w kierunku PSL\". Czego zabrakło w przemówieniu prezydenta? - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXBJZFYyZEtfSWNxMEJNcmJVRUFaaHpjVVVESnAwRzZaczE4MHJKRVpVQUZQTnJQQ3BVZkhlOXBzc3Z6VHZMR0dGY1hiN2JNcXBiLW9yTnRDNHNZWjFfU2NRUjZzN0JUY0pWbWFCR2pmQkRoUEhqNF83cEVQbmZSbFZadnVDVmRESzRtbEdwNF93VWVUQjdBZ2hrdnV3YjFrY2VNWlJhYjBQRmlpYXJOM0o0R1bSAbMBQVVfeXFMUFMxczc1OXZuWTY1ZmVJSE9oNWQtSHFUWUFnWmNqZkt6UHN6Qmk2MFk1Vzh6VkkyX1pmVmdSVThPUWxhLUg1MlJhbWxldzRKR3FwVDNnMFBROFoxaURJMC1lZVhjMTh1cV9qZEF5M0hVT3FuTUxQbUZlamR1b0JwRVplOHU5NkZFVjNWLUxZZGZaclJrY1NpMm9lZVFSczJQZ0RIMXQ5bEJIQ3cwdHQ3SHp5SXM?oc=5"
       }
     ]
   }
