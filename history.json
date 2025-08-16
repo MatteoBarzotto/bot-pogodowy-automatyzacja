@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-14 13:13:06",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 440328,
-      "DOGECOIN": 0.866355,
-      "ETHEREUM": 17157.37,
-      "LITECOIN": 465.08,
-      "RIPPLE": 11.68
-    },
-    "indices": {
-      "^WIG20": 2953.95,
-      "^WIG30": 3794.98,
-      "^WIG": 3794.98,
-      "^NCINDEX": 254.77
-    },
-    "news": [
-      {
-        "title": "Tusk już u Nawrockiego. Pierwsze rozmowy z nowym prezydentem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONnVnQk1rY3Q5dWx4N3FtU3VoVGZHdDlsdVV0T1RuRGN6VHhJY2tKMU05cWlHci1FR0I5b2ZMXzRPVkt5Z0E0cmh1Rmh5elZ0b0RvY2RwMDJLUjR5X1RTenU1b0g0MXNSWF9mekxJZjBsc0lVcTh0blU4NXhsdnZFaDBZaFRIY3ZYLTBPbkQ3OW5TRE9vRVhKRWJlT291cjZKRV81aQ?oc=5"
-      },
-      {
-        "title": "Spotkanie Trump-Putin. Nowe szczegóły szczytu na Alasce - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjN2VEVrZkpaeEtHamlvSkxqS3Zsc3JIc0JFbGZnd0MwQzBJMU9tNkVUNHBOQk9iN3hUSjZycjFhRl9STE96UmVGR3pxX28xUU1CdkZkczBYQzVKMWhVa09BVXJYZzBYb3QxMTAxak1nOEtvR1NxVEhEQmt5aEFBM0dVZVFCUlZCaDNYLVM2dzJkcnM2aWxEdXZNdDhMM282X2tSQXVncjVWaF9WU3cyUElUT05jUEs0?oc=5"
-      },
-      {
-        "title": "\"KPO to dopalacz\". Ekspert podaje dane o pieniądzach z UE dla Polski - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXd6amJraVg2OUEyYzFucUg1T3ZVSk5hU3pETktCc3NNSGtHcFpyVVBuamtOVllKSjVhME5ka05aemRkczlyYndPYVgwNl90SGx6b1FPakw0dmhqSHNTTVNrb1F3TGR3ZUdQcFd5bV9fRFMtZFNaenE1N0E0VkRrcGVYOFBTMVJRa1BqSTZkblplYk1lcWF1eV92NHpqUXZnYzlmTVRtTVg3VTVjc2NYVkJmS1czOE9LbnFMWXRR?oc=5"
-      },
-      {
-        "title": "Jak Karol Nawrocki zapunktował w starciu z Donaldem Tuskiem dzięki Donaldowi Trumpowi? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcjBCbFlnN2t2aUdqaURQRjZxX2pFenNMclNoY3NRQV9iMnQyaVJISHRxOTFuSlQ5VDk3VW9nd0ZwSEdyWU1sbWd0UDBmYmotRmFpbFAwTDlKMlN0Z0J1RUotOFNSaUttdEprTGh2OElKMHdsdmhINVM5UVdtVlRqd3l2VnliOUlod2JvLVZpd2xJaTBNSDNCaWJtLWVUY0dyejRQWWJIRnZxTlZiTEFQaW1wSk5Nc1R4OW5jZ29qUm04b2I1M2VEcGE4VQ?oc=5"
-      },
-      {
-        "title": "Gigantyczny pożar hali na Pomorzu. Trwają dramatyczne poszukiwania zaginionego strażaka - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2tUODF1NWJhams4elNDWm1vR2swTGRWcDJCWnlITDNGNDdTVlhDa2U3b0ctd01ob2dlZEh4dF95UHRmam5CUzVOY2l1SlVkOE5qbGxQY2p4Wkw0TDg4WXhUdi1rVnVsR3pLVXNHLW82REpSNFltYjhZdzhnQloydG0xMlY3Y0t0RHNZRV9YcG1qM2VXaHNFbjZVT3J1dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-14 14:30:28",
     "weather": {
       "Warsaw": "Warsaw: +31°C",
@@ -2619,6 +2566,59 @@
       {
         "title": "Tego Trump nie przewidział. \"Droga do Nobla coraz dłuższa\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmdnWWp2V0pqNnRQTFV4ci1PVzZMSDFUazVNajBmSHMyMFhxRXhlLUtKeXpEV2VVRkdMNndwQmZleTZMOG5tYmh1amQ4ajRxaGJ0UDY5bUQwZ3pWakVKNURwdnNPSTd1MlRUaTNzZml2MnVrWERtbzRvRkQ4d0hKanBnQ0FjckxRUkI2MjZCOHJrOVJhcGxMZXcxOVBON0k?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-16 19:11:27",
+    "weather": {
+      "Warsaw": "Warsaw: +28°C",
+      "Kraków": "Krakow: +30°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 428697,
+      "DOGECOIN": 0.834998,
+      "ETHEREUM": 16031.3,
+      "LITECOIN": 433.68,
+      "RIPPLE": 11.31
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Po spotkaniu na Alasce. Tym razem Trump jak Zełenski. \"Nie miał kart\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanFqVFNCNDloQlR6M01RajZDTkdTcUc2NXBiRWFUNkl5YTlYRTk1VVNNSENKNENRZVhRQUxhRjRaMS1VMGVCVDJSWnY2alZIQkxSV1lJYm44MFJxckJEOEFodkhEZElaaWFlWGd2VUZzX0tKNUg1THhtUkpuemNwN1Q5ZTRGZFptNlVmTS1ITUhEQ2hsbFlmMEsyTXZXXzlBYjA3RzRLaXN3bVExcUR5dFA1MlI3VGhWSkpuXw?oc=5"
+      },
+      {
+        "title": "Spotkanie Zełenski-Trump. Są nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1VwU2hZbjd6UEFpRDl5N096QWdLbVhJemJZc3QzNG5vR2VrZzhfM0dweEVhR2tFRW52UlZEMmZ2cWJieVdVQUpGRVg4ZG1mWWR4VjhjMEtFaEFpNkFHN1lFQkJvWjNMc1ZjaUJVQ0lEcjF4SzctWHI4eDUxYkNrTFhVaGZLNUt1UFdYenhNWFhiRU9adHJKVUhHNmFOSmVJbzFCMFlmSENCQQ?oc=5"
+      },
+      {
+        "title": "Pałac prezydencki komentuje spotkanie Trumpa z Putinem. - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakhCNmFYODdzeG1oRThiTkM2UG5Nc3JvSzljMDgtOUtDZV9tNG12NGN3QklZd3JfN2ZoZUFOVm1IU1E4UGg0eVdJeVk5cXdFWV9OZTl2c3l4TDlNang2YVpIS2x6cm9BWnVWVlNwUTFoZ1F4VTdtM0trblBLQ2RBZTFrcUdfWGRITzMzQXdNQTJrU21qb3FmeXVHZVhwRFNXVDFEUGNMYw?oc=5"
+      },
+      {
+        "title": "Pożar hotelu w Starachowicach. Niezwykle trudna akcja straży - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUEyWXVYTl81N0JyQnZ5eVR5YlFZejdkUlVzVFNkU0thTUZWa3RYZ0wtN0ctNG0tYllXLW05RHRFWGVtblNFNXYwQldQcVc3bEliSjN1YjY0MWMtVkFVc0EwOTBtV2hwbXotV25Tem45TzZaRDNnVjN0V3laRmV4ZER1OF83MzJLMmZwN2JRWkE4QU9lRV9QT3o0QUxSdVhHS2Vxd2RnQnpjcmhOLWFVM2x5Y2VuTXdhblE?oc=5"
+      },
+      {
+        "title": "Hillary Clinton nominowałaby Donalda Trumpa do Nagrody Nobla. Chodzi o Ukrainę - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM18tYVItM2k5dFlhVnNSa2Fta3YyNUVBR0xaNlk2RVlVR3VMc3pBYWhOUklPQzFqQzdzdngzTGc2dUt1U2xhRHVDdEtYajZnMXZ6VzVfODJMWGNiRzJZQW9TWjFkSEwtaVVWdTcya2JxMGlBTGpRRmsweF9DWXBXdmJTZHBnVU81NENjVmJzeE1pMXZGUVdjV2N3UTdVcU9DbXRqYUQ4b2t0VXdKYmNZ?oc=5"
       }
     ]
   }
