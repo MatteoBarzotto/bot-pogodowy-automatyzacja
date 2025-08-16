@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-14 18:19:10",
-    "weather": {
-      "Warsaw": "Warsaw: +32°C",
-      "Kraków": "Krakow: +31°C",
-      "Gdańsk": "Gdansk: +25°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 431837,
-      "DOGECOIN": 0.818126,
-      "ETHEREUM": 16683.96,
-      "LITECOIN": 446.21,
-      "RIPPLE": 11.25
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "Władimir Putin mówi o kolejnych rozmowach z USA. Nie chodzi o Ukrainę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUpkMjV6ZXlXemlPMFBMajNOcTRibl90R1pIRkdnVUpGdTM0VzRONXFEeVh0aFYybWNjZnEzdkhmZk0zYVFfQnpuRFpSck5YdkdaVWg4NmREcTlKVXVWOUVhQXZjRFI4MDAtWjI1X2lHN18yY0U1X3o2V0hCT0kzN0tOOS1YZldFUzB6amFmcHpLU0NNVkw0dGxXSFFpeU9GREFfY3laRlBFVGx3MTNrYmFHWk9nR1lNcTlpS3lrZWFYMmZiOWFUb2JjRQ?oc=5"
-      },
-      {
-        "title": "Rozmowa Karola Nawrockiego i Donalda Tuska. Premier musiał czekać na prezydenta - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGlTcW1RNWJ2V0ptMC1GQTJLSUl1YUREb0R5QmJVbnI0TDdfZWIwb3hHdHRETUdmWk9EZEp3ZFBNR0xFY1dJT2NteTg3Ul9nOTdTa1hTWFcteWJSOGV3djF5Mzc5OUNTUktiVnh6UlNKWGU3UkQ1M0xQWklod3hIRmVSMDlKT01ONHNydUhWU1Z6Sk5VZVVYSU5zM0VCVlBaNXBZV3ktSGdEWW9NWS0wWldwVnlsQ0tfM1o2VVliR1ktRGpJYV80?oc=5"
-      },
-      {
-        "title": "Wpadka kancelarii Tuska. \"Bez szans na rozmowę z Trumpem\". Znamy kulisy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTUzMzVqZm1acWNGMS1wNUdjNnV1Q1JmNUZJMjBpWEhkdG5uOXBjOUx6czFoVUZzSHkzaGI5dy1rbVpYdC00R1pWWmFBVVlLQjRuM1RoQkFOWk1IYjVBTzh3eW54ZWxJbFRqUWdrRDlYNHdvS0JfbTZlMlhtOGpfNDdKdUhoQ1B0SEllazNEaDBIQVUzVlZ6NnBCTXpZQkVuLUJVbWdFZy1KNkdxcHV3?oc=5"
-      },
-      {
-        "title": "Sprawa Kaczyński-Komosa. Jest wyrok sądu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUJSOER4eE4xYWg4QWlfX01EbTVSUTJEb1g4ZmFxcGZhRDdJYUZUUnRZcGo1SzkyS05RWUEzeW1mNVItYXFZV2JXZllPOTVZcDdGVVBSYktKbE53bWMyM2xhaWFhUFJGQkZnemNSV2NTbFRvVDdmU1pDczhtQ0Iya2RFZVFFSW1HYUNPaXNGUDFNR21Udzd0bHItSWUtazVBbGxabUJETQ?oc=5"
-      },
-      {
-        "title": "Defilada na Wisłostradzie – jak poruszać się po stolicy? - UM Warszawa",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYTQ0LWcxV09VcVAwaGd3NFdVSlF5WTdTYXBwSXdJazd5RDNPUmdmZWdHdllKcWg0T3ZTLThjTm9CdG93VkdRa0VibVZMemM4cEVBdlYzSDY1QWdWWGVZZElWWVg4dmhjQ2xZT1ZVejRjVjJrQnBoa1c3VE9rWkN2MXFLeTRJZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-14 19:13:08",
     "weather": {
       "Warsaw": "Warsaw: +32°C",
@@ -2619,6 +2566,59 @@
       {
         "title": "Pałac prezydencki komentuje spotkanie Trumpa z Putinem. - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakhCNmFYODdzeG1oRThiTkM2UG5Nc3JvSzljMDgtOUtDZV9tNG12NGN3QklZd3JfN2ZoZUFOVm1IU1E4UGg0eVdJeVk5cXdFWV9OZTl2c3l4TDlNang2YVpIS2x6cm9BWnVWVlNwUTFoZ1F4VTdtM0trblBLQ2RBZTFrcUdfWGRITzMzQXdNQTJrU21qb3FmeXVHZVhwRFNXVDFEUGNMYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-17 00:12:48",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 427491,
+      "DOGECOIN": 0.83583,
+      "ETHEREUM": 16075.2,
+      "LITECOIN": 436.77,
+      "RIPPLE": 11.28
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Sikorski o spotkaniu Trump-Putin: Nie sądzę, by zawarto jakieś szczegółowie porozumienie. - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE1iSGJpUlJ6RHRfSzJWRndzZ1BMaGx0a2F0TjBIV0VnVHd4QjJlRWFjWmhxbU9xd2xpTjl1WS1fLVJNQlFqc25JN0xoQ1dZbWZJWnF1cmF5b3F2aEFzeURaa0xHMnhmVjliTW5Ib0UtVXhtM055NFhYb1d3QThDSVFMZDkxYWZaODczYks2ZUdCU1hQNWhTcndYNXVhbWNhNzFPN3ZjajZWcldjekRRcHdrVGM?oc=5"
+      },
+      {
+        "title": "Rzecznik prezydenta ujawnia, o czym Karol Nawrocki rozmawiał z Donaldem Trumpem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVRhNkhKcXQxWUMyZVZ3VWZtVC1MSXBrbWlDODNIdERyZzZwYy1PeVhfSk9lcmdzUHFWNzMyeFJkTzNZTUlTY1R6bHoyXzFBOVJBVUVhcmJnT3JOSlhsNFJmdE5JYWVoQ1hiemlGeldaaTRPdHhqTUs3T0I4Tkxtc05aVFNUUWVQSlBLekdRQ2VrNk5xTzRILVQ1bEkwakZvOWJPVzRCTDdIYkxFRmUzREhSb3F1V2JXQTd5VzB5bWRTODZ6TWdYbkQzRmxueW8?oc=5"
+      },
+      {
+        "title": "Zaginął nasz redakcyjny kolega. Może potrzebować pilnej pomocy - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd015eUNGbEJyRVNjNWd6TE5ERTI4RHNHZXNDMnpHd0dzMEdzTWlNR1FORGgtbHFHNUZjcGRTQWx3bkpOUGtZZHRjN09jMGpDUWhVY3ZMOWQ5QmFTbnRSQ3I0VUU2UEl6ZmExRG02bWhQbW8zMVdRRXdIVzlnV2VwV3I0X2hqOGVtOFhpYlN4ZGQyN0xzNTFudjQ4TXU2MUVvRlRGeVRTMTNiUWJXYnA5NXFTR3pjbndTSi1zNQ?oc=5"
+      },
+      {
+        "title": "Prezydent Ukrainy nie będzie sam? Donald Trump zaprosił europejskich liderów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0c5cjJ2VFQxbC1YZkNLRUQzNzNWNTl3SDdpY2xKS09Fa2Y2dDEtRUdkaFF5OENubnFCbTNBbVhFX0VKTVpkcE95THBDMHpUd0tjSTRIVGhhRWN1WEx6ZXlWYjFwZGptZlJPYmRRbk1FSFF0S2MyV1QtMXl0eFRUM1VaNjMxNDFYaVlLNFVRc2dMQURRaVJ4VEttM0xqRFZWSmhoSE1sSXR0R3ZjWjBuR3ZB?oc=5"
+      },
+      {
+        "title": "Nowa taktyka Rosji. Nagranie pokazało prawdę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWs5ZTVZN3pvRnhKQlE4OFI2cEJiOE1KOUZQSEJKYTVNUm03OW1xc3h5cm1leWd0TmR2SUEyWFhtQWMtakVZNm5aZ3NSUGdZZ3VIUGlXbFdYZlNSbXZ3OUNKR0FOUG15WWRnVUc5ZER6OHVKaUNTNzdLTEVBSlpWVVJTSldLb0pZWVlJX2o5c2hyT0hEYWVxWjB3?oc=5"
       }
     ]
   }
