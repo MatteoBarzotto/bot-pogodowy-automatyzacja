@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-13 23:13:23",
-    "weather": {
-      "Warsaw": "Warsaw: +30°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +24°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2586,
-      "GBP": 4.9281,
-      "CHF": 4.5249,
-      "JPY": 0.024685,
-      "AUD": 2.3814,
-      "CAD": 2.6414,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 446485,
-      "DOGECOIN": 0.885955,
-      "ETHEREUM": 17226.04,
-      "LITECOIN": 471.98,
-      "RIPPLE": 11.88
-    },
-    "indices": {
-      "^WIG20": 2997.03,
-      "^WIG30": 3849.47,
-      "^WIG": 3849.47,
-      "^NCINDEX": 256.38
-    },
-    "news": [
-      {
-        "title": "Brytyjski dziennik: tak Trump chce skłonić Putina do pokoju. Na stole ukraińskie minerały - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmhEOVhac04yU0ZFTGFGNGdJOEdGd3BKcjEzMDVOc3V4bUFfd0RhUEhNdzlweURCS1Mxa1NmNEhoYXk1UjNrYnIwUGhJcTF2MXd6WEp0M1BWdU5RZndtdGNFTWpEb3NkRDBrSDJQUFJuUnc1M0lJc2U2VmF0YVVFNjRlajQ1bEdvcWVReThLRDA1a3ZZNWM1VTljaFhveW5ENVU1NWpuczRiV2ZzRGRuZkJvelgwdVVFLWh0a1B5eHBEOGhEVGMzT3lWWkIwOFg2T1pyeGwxbGVwQQ?oc=5"
-      },
-      {
-        "title": "Co ryzykuje prezydent Karol Nawrocki, reprezentując Polskę w rozmowach z Donaldem Trumpem? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1ByRU8xSEZGS0E1aDFRQkRKQ0VWQkRNWUVQQ2tyV3NUbzh3cVRxaGc0b3RNSWtpYVhfYVZBWGIxamZxUi03SUxkZDNCWDd3eW9TV0xUUVFGLUZTcnY3aWpPRlpfTGtiWXZ2TnpsV0xaelppd05rZmk0MzF2dzdLajNGaUNKXzgzOE1XWUtKWDFIUmdmZTVIeks5Slozd2hSVk5iSGVxdEJMYndjOThkSDRHemJLZHJUb20wd1ZUSERidF8yT3RDVjN0bkZqZHQ1MHJjS0FlMW0?oc=5"
-      },
-      {
-        "title": "Pełczyńska-Nałęcz w TOK FM o dymisji. \"Odbyłam jedną rozmowę telefoniczną\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalppZG9HQnV3emFLMXZzM0tvLWRrZEw4TjYxUDhEUXlod1Vpc0xqME5xeXZiWkJWYlpzZ1FBSlV5N0JGbkNBcTdqWWNKLVJwZ1RDYjlOVldUUGwwN0l4M2RSeVpVQU1CWVE2TFpOUFA2bnpudWtTaUx4dE1pREtYWWl3N0JDeEtIMG1OVnV4ZDQ2M1VmaHBDemo2SUtyX2ZfcFl0eEd0eC1WRktL0gGrAUFVX3lxTFA0T1UtM3F4dHRqSzFvX3d2cGUxdThUaGxPdUxuT1djdFJUclBzbER6dnR0Sng0NDZSSmtJdTZGdWpZOWFjYVdmNFVBaW1Qa09HSlRnOVNVWDdaVDFNQ3RSTlpzZGtXUWNiakZ3WncxTW1pTExNOFlWalkzN1dQTURMNkRSOXp0d3o5REczd0lZM3Z4NmREdE9kRFdPMGxxNUhwU1lEemdreFZYYw?oc=5"
-      },
-      {
-        "title": "Donald Tusk zaskoczył odpowiedzią na pytanie o Katarzynę Pełczyńską-Nałęcz. Wystarczyło jedno słowo - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGdDN0IyT0twQkJFU2ZMRVZoTzNic3ptNklwaHFmcG04c2U0WktEaFp1QnZ2SWJTNG1KbVp6NzRVNXZGWlotM2ZQa29SNThNOVBLY2x1ZWY5YXBTYlRkX1NncER2Tjg2OXNMTkNKcFVtQTZaazFadC1KYTJweHVuQlRCZzNoTzdJTk5ONGUwY1FTc2o2N0ZjTmtSUjYyeGpVNnlUUzJzQ1Vwa1JwM2ttWWVXRkZ2Z0NGR0VEbkM2VXJTQ3lNanBSUjQ2V3dVQ1Vy?oc=5"
-      },
-      {
-        "title": "Pożar hali na Pomorzu. Kilkadziesiąt zastępów straży pożarnej walczy z ogniem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUE1KeldTa2wzR1ZMUWhlR2tyUGthbjE5MjFyQ2ZNUEFGeGR2UkRuUVQ1TnZXOUttRHpXS0t2UjRMWVdabjZlalozYWlnOGZiZ05pbXFubkh4cHZSWDVMZlFKempWdVRGUDhnMkU5RElHUXpURER4SEhXV1loeWRrUDNKVmJwUC1yb2pPcjA4YmZyTjg5djVUM05lZ2ZoSDBtc0JCQ3hSZ2ZwRWdRNkRJZWFsSnB3T3E2MVJ3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-14 00:14:28",
     "weather": {
       "Warsaw": "Warsaw: +30°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Tragiczny wypadek na przejeździe kolejowym w Wielkopolsce. Nie żyją cztery osoby - poznan.wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2FwZ2RqWTljSXB0NkphWlVvdEVsMEw0eVhJTlI5TkxWX1JwaklsWXo0QzNaS3VtdjZfcmlkdEJSZlJxdElRQ2E4dHBIUmdCLUVPbEdRd0QyVnR1WFFjOFlCVzFkMXB1WDVMQ1hiRDl0S2R0V2V5WHJMRW5GUVdiYVJOVE50eFpoS3dteHZFQktwSGFJSWswdllxVHNCLXRBMnBJTDZaamJLeUhkQXlYWFZGM0hYTTl5?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-16 07:13:41",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 428753,
+      "DOGECOIN": 0.848232,
+      "ETHEREUM": 16201.97,
+      "LITECOIN": 437.3,
+      "RIPPLE": 11.31
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Spotkanie Trump-Putin zakończone przed czasem. Wszystko, co musisz wiedzieć po nocy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakNZeWM1OW5FMzI2b203ejgzUnpBcWpkVXVQV3drbWV6YTRmSUc4Um5lWlpjRlgwNllROEN0cWtEZTdCLUVFak40ZWlhMUx3OUJIT1FOdUxnNlJUN3R2TlNmVGJEVEdtRlYtZkMtVEI4Z2dkZExTazJTR29sdzV5NnE0dDhzZHpHLThwUEZGU2VDZzNsSFVmaGRreUR4eHg3SFVTMTlGdE5aZGs?oc=5"
+      },
+      {
+        "title": "Oby politycy nie zepsuli Polakom 15 sierpnia. Przed rozmową Trumpa z Putinem nie czas się kłócić - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzJTUEZieTBMYU1sVXJpNy04bU1WSjU5dnppcy1MZTJwUjdvVTFZU0lJR0hxQzRpUnpsdFNpMjJOTlk3aDdTUm5SVzlzdjlIVE5tbFNnZmRGcTdJVnJVUDNjOVA3Y2dzcUNhZ3RxU2JqMTJmYnBTalVFay1haHB1RUkzNWFwMlRZWXJLNW8wRUJiQ05CZUZMcUF0UGFvbnJ5RU5xcERPMTBieVNfUWg3em52Y25pYXQwdVhla0ZnNE1iUHlSMXZSdTJQdjM0YzM1cUtfT2Ezck0ta01VY0tGRlVpc0N0RXZqQWUxa2N6TWdrRUZzd2lpRHcwTU9VdFZlYlZJSGZhaw?oc=5"
+      },
+      {
+        "title": "Nawrocki \"robi ukłon w kierunku PSL\". Czego zabrakło w przemówieniu prezydenta? - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXBJZFYyZEtfSWNxMEJNcmJVRUFaaHpjVVVESnAwRzZaczE4MHJKRVpVQUZQTnJQQ3BVZkhlOXBzc3Z6VHZMR0dGY1hiN2JNcXBiLW9yTnRDNHNZWjFfU2NRUjZzN0JUY0pWbWFCR2pmQkRoUEhqNF83cEVQbmZSbFZadnVDVmRESzRtbEdwNF93VWVUQjdBZ2hrdnV3YjFrY2VNWlJhYjBQRmlpYXJOM0o0R1bSAbMBQVVfeXFMUFMxczc1OXZuWTY1ZmVJSE9oNWQtSHFUWUFnWmNqZkt6UHN6Qmk2MFk1Vzh6VkkyX1pmVmdSVThPUWxhLUg1MlJhbWxldzRKR3FwVDNnMFBROFoxaURJMC1lZVhjMTh1cV9qZEF5M0hVT3FuTUxQbUZlamR1b0JwRVplOHU5NkZFVjNWLUxZZGZaclJrY1NpMm9lZVFSczJQZ0RIMXQ5bEJIQ3cwdHQ3SHp5SXM?oc=5"
+      },
+      {
+        "title": "Tak Polacy ocenili działania rządu po wybuchu afery dotyczącej wydawania środków z KPO - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak9KT1U0Y3UybEV2eEFxQ3g1X3hzUnJEY193cEdLdGdfMnpKWnZOcDkwOGRla21ZY0R1RWI5YlFtWWRkMGJueUZmWjZPZ1ItdlJRZkpVSUVhb21BeVZRZDhTSENQNXZoallvaE82eDI2VlUyOUpPbVJLcjBPcUg1a2szcnpwc2VqUjZTSS13aVVzNVpfOFh3NkJlNGlMS0NIRGJlQU41RDFTOVYyN0NaVmVTZEFSYkpYNklGSkZncVlzc2Fia2o1cFFDcnc?oc=5"
+      },
+      {
+        "title": "Linia frontu i rosyjski stan posiadania. Oto mapa przed rozmowami na Alasce - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZkt2bFgtZ1lXZUpsSWZleXBOZmhpbTNlaThXLTRBQThtTFZudmVYQ1dKcE4xR0tHQ3l1ZmdQMFNmaTVBMG1JN2l0ajA1NmJlamd3MEFWekFibERScnp2NUgySkRxenBMWE5qUkFmQm1TWU9LaDVvd2NuNGI5WFhKZ2RiUTJ0dm93ZExETVk0WW1DeUdVRkdOemU1bW9iQktYcDJMd19Hem9ZN1U2Wm91UU1landQZTdzVndSdU5SUXlKelFZX0NjT2RIYUEwZEFOUGJ3VFUtbHB2Rk9Ba0tjdTVxUm9ZcVU0ck9YZktKRkhkRkdwTlV6RFNETnlPXzFDdWRjSTRLNXhYLWJxQUUwMTFiek9MZWNx?oc=5"
       }
     ]
   }
