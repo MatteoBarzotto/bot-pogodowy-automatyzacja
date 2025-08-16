@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-13 21:11:30",
-    "weather": {
-      "Warsaw": "Warsaw: +30°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +24°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2586,
-      "GBP": 4.9281,
-      "CHF": 4.5249,
-      "JPY": 0.024685,
-      "AUD": 2.3814,
-      "CAD": 2.6414,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 442786,
-      "DOGECOIN": 0.880637,
-      "ETHEREUM": 17180.92,
-      "LITECOIN": 469.73,
-      "RIPPLE": 11.9
-    },
-    "indices": {
-      "^WIG20": 2997.03,
-      "^WIG30": 3849.47,
-      "^WIG": 3849.47,
-      "^NCINDEX": 256.38
-    },
-    "news": [
-      {
-        "title": "Wideorozmowa z Donaldem Trumpem. Polskę reprezentował Karol Nawrocki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXFVTkQxQlZrTEczZlk4SElycm0tc2o5TzBmU05Cazg4bl9NTVV2T0V5N3ByOGh4aThNOC1HTmgtcmN0MlV6Vmc0bGNsbF9HY3pOdEFTaXdCZElfNGFneTF3dUFxN1J4WmxOX1NIZm1vaWpJb0JoS2pxTHVHZjlCcTR4RlVudW9GdjQ1c2VCRnZzZXVJek52aER3SjZneWpmcTU3QTdFSkVFZVdZ?oc=5"
-      },
-      {
-        "title": "Pełczyńska-Nałęcz w TOK FM o dymisji. \"Odbyłam jedną rozmowę telefoniczną\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalppZG9HQnV3emFLMXZzM0tvLWRrZEw4TjYxUDhEUXlod1Vpc0xqME5xeXZiWkJWYlpzZ1FBSlV5N0JGbkNBcTdqWWNKLVJwZ1RDYjlOVldUUGwwN0l4M2RSeVpVQU1CWVE2TFpOUFA2bnpudWtTaUx4dE1pREtYWWl3N0JDeEtIMG1OVnV4ZDQ2M1VmaHBDemo2SUtyX2ZfcFl0eEd0eC1WRktL0gGrAUFVX3lxTFA0T1UtM3F4dHRqSzFvX3d2cGUxdThUaGxPdUxuT1djdFJUclBzbER6dnR0Sng0NDZSSmtJdTZGdWpZOWFjYVdmNFVBaW1Qa09HSlRnOVNVWDdaVDFNQ3RSTlpzZGtXUWNiakZ3WncxTW1pTExNOFlWalkzN1dQTURMNkRSOXp0d3o5REczd0lZM3Z4NmREdE9kRFdPMGxxNUhwU1lEemdreFZYYw?oc=5"
-      },
-      {
-        "title": "Donald Tusk na kolejnym spotkaniu w sprawie Ukrainy. Rzecznik potwierdza - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzJOQVRzakJIWUcyd1ppSENYb0dWemJSN0pxd1pCRWRrMXZCZWtrSlVmeUdVWEJmbjZNZzI4RlFTWDd5YTJKd1R2cTFzSXVjMHAzTGo0eGFFV254bVRmOFJxOGdJZThJaklwczEwclFkN0RCM3NNODUtTWUxYURscFVyY29IdUVvajlXRkJoaEJVTU1RVjBYNzlLblAxalg1SWw0d3JaX2ZYYk83a0dfeEF5Zy1vVmxkWDVsSDM2OWsta2FBX2xBMEI2REZfRk0?oc=5"
-      },
-      {
-        "title": "W miejscowości Kawle pali się hala produkcyjna - Remiza.pl – Polski Serwis Pożarniczy",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QWnY2WWROLXYyRUc4WGhqbzlLaDRBYXBGeG5YQ2hoRWtUOUVmS1pTY1BlbUp6cUxMVlptd3ZxUlc2TTEzdlRpYWRDV1RHX3lPUHdRZFphbmxzcG1vRmdJOTdNV25VR2R4WFd5cnYzc3dySTDSAXNBVV95cUxPUFp2NllkTi12MkVHOFhoam85S2g0QWFwRnhuWENoaEVrVDlFZktaU2NQZW1KenFMTFZabXd2cVJXNk0xM3ZUaWFkQ1dUR195T1B3UWRaYW5sc3Btb0ZnSTk3TVduVUdkeFhXeXJ2M3N3ckkw?oc=5"
-      },
-      {
-        "title": "Donald Tusk zapowiada spotkanie z Karolem Nawrockim. Wskazał temat - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmg5QkJDZ2F5SmNpX0NXaEp1eGpEVXRxSXM0MzZtRmZIS0JVU3Iwb1N0MTNLcTFpU1dvX1k0QUE0dGdLTHFIVEhuSnVZVXc4MnFuUFRBLXUwTDhSQzcxZWkzcEs4cnFfLU1EQmk3Sy1xZWFiLWQxTDBJWDhPRjd0Qkt0emZuUFFDblV0VmY2aFdmS1k4aXBNN29laXd1VGIzTnV2cXZKYWRQNVVzNGRXb1JpWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-13 22:15:34",
     "weather": {
       "Warsaw": "Warsaw: +30°C",
@@ -2613,6 +2560,59 @@
       "ETHEREUM": 16255.01,
       "LITECOIN": 438.59,
       "RIPPLE": 11.26
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Węglarczyk: Trump i Putin dogadali się co do jednego — to oni zdecydują o losie Ukrainy [KOMENTARZ] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWl9HeXFsazVIUENmeUJmYWY3VmRkS3VtWGRfTEtnLXpMd1YxYjdHU1MtREstOUZvQnQtQVRna0FwLVJaRmtDYjVvZ3pRMF9Xb2d3dE1fRkhpMEZ3SmFPb3ZiS0Exdk9pM19TNUtTeWxsOXpRR2hESHZXQnh4LVdKaU9JRXd5NXJ5TlJFN3hnekdKMW5xbzJpbjRvSjRqRlQ1M3FZU0s1VjVDaEdvM3p4cnY5WHBwSHFPV2ZzU1JUTVVtSk1j?oc=5"
+      },
+      {
+        "title": "Prezydent Karol Nawrocki zwrócił się do premiera Donalda Tuska. Postawił polskiej armii wysoki cel - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEU2TGJfSWV0RXYtYXNGbHkxWEllSEd4SGNEZ2tGMmVSU0FlTUhGN0FQSDFJY0lLR1VrYlE5MElleG5DUXdEUzNVWUhTQVVxWWRXTWU2eDBCNnpWREJLd2tHY3pVQTFFVnhnVlJ0NXJ6Q2ZoeDhmY3VUXzhDUUs4Z2FCb0p6cTdOczFIZFBNMVhGQktfRk5RREhpalpiV09lYk5tdXRLV3FmbzVlYXNLNExlR3k1RkRRUWF5RjRZbG5FNWNQU1B3OVpR?oc=5"
+      },
+      {
+        "title": "Defilada Wojska Polskiego. Jej znak szczególny to modernizacja armii - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEdIcGNjVEdCR3ZvVW1EaVh5cnZxdWl3eFhGSy0yODZ6VjRZV3FGaGtxdWxZb1FlSG13WVlzMlNONjhfQlNtak5zOFRYWkREYmJEZE5yVWR0V0R0U3haY0x0a3RzTGtmaXIwb3ZGbU9UQlA2REw1YzZhY0IxeHdwSkZhaUxJYkpnWEhycWRoYUJTdnR4UW80b1lyYVN4NlJtU0V0U1c2cHl4TnhKRVlwbWxwN2xMbGh6eDEweGFNaw?oc=5"
+      },
+      {
+        "title": "Linia frontu i rosyjski stan posiadania. Oto mapa przed rozmowami na Alasce - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZkt2bFgtZ1lXZUpsSWZleXBOZmhpbTNlaThXLTRBQThtTFZudmVYQ1dKcE4xR0tHQ3l1ZmdQMFNmaTVBMG1JN2l0ajA1NmJlamd3MEFWekFibERScnp2NUgySkRxenBMWE5qUkFmQm1TWU9LaDVvd2NuNGI5WFhKZ2RiUTJ0dm93ZExETVk0WW1DeUdVRkdOemU1bW9iQktYcDJMd19Hem9ZN1U2Wm91UU1landQZTdzVndSdU5SUXlKelFZX0NjT2RIYUEwZEFOUGJ3VFUtbHB2Rk9Ba0tjdTVxUm9ZcVU0ck9YZktKRkhkRkdwTlV6RFNETnlPXzFDdWRjSTRLNXhYLWJxQUUwMTFiek9MZWNx?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na przejeździe kolejowym w Wielkopolsce. Nie żyją cztery osoby - poznan.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2FwZ2RqWTljSXB0NkphWlVvdEVsMEw0eVhJTlI5TkxWX1JwaklsWXo0QzNaS3VtdjZfcmlkdEJSZlJxdElRQ2E4dHBIUmdCLUVPbEdRd0QyVnR1WFFjOFlCVzFkMXB1WDVMQ1hiRDl0S2R0V2V5WHJMRW5GUVdiYVJOVE50eFpoS3dteHZFQktwSGFJSWswdllxVHNCLXRBMnBJTDZaamJLeUhkQXlYWFZGM0hYTTl5?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-16 05:10:40",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 428152,
+      "DOGECOIN": 0.848332,
+      "ETHEREUM": 16203.64,
+      "LITECOIN": 437.51,
+      "RIPPLE": 11.28
     },
     "indices": {
       "^WIG20": 2949.71,
