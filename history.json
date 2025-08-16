@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-14 01:13:53",
-    "weather": {
-      "Warsaw": "Warsaw: +30°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +24°C"
-    },
-    "rates": {
-      "USD": 3.6353,
-      "EUR": 4.2586,
-      "GBP": 4.9281,
-      "CHF": 4.5249,
-      "JPY": 0.024685,
-      "AUD": 2.3814,
-      "CAD": 2.6414,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 447060,
-      "DOGECOIN": 0.892601,
-      "ETHEREUM": 17261.07,
-      "LITECOIN": 475.78,
-      "RIPPLE": 11.93
-    },
-    "indices": {
-      "^WIG20": 2997.03,
-      "^WIG30": 3849.47,
-      "^WIG": 3849.47,
-      "^NCINDEX": 256.38
-    },
-    "news": [
-      {
-        "title": "Brytyjski dziennik: tak Trump chce skłonić Putina do pokoju. Na stole ukraińskie minerały - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmhEOVhac04yU0ZFTGFGNGdJOEdGd3BKcjEzMDVOc3V4bUFfd0RhUEhNdzlweURCS1Mxa1NmNEhoYXk1UjNrYnIwUGhJcTF2MXd6WEp0M1BWdU5RZndtdGNFTWpEb3NkRDBrSDJQUFJuUnc1M0lJc2U2VmF0YVVFNjRlajQ1bEdvcWVReThLRDA1a3ZZNWM1VTljaFhveW5ENVU1NWpuczRiV2ZzRGRuZkJvelgwdVVFLWh0a1B5eHBEOGhEVGMzT3lWWkIwOFg2T1pyeGwxbGVwQQ?oc=5"
-      },
-      {
-        "title": "Dlaczego kanclerz Niemiec zgodził się na udział Karola Nawrockiego w rozmowach z Trumpem? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWhaQ3ZKT0ZiUnhMRzlIYUZFNHI4a0JqemxqTWZXTEd6ZFJTS2JDYVoxRHVFel9vVzQyS0xBRzQ2MW9WSDR0RXBtTk9hWHZwQ1RkQzNsUEV4Ry1EV3hBZVh2a0RBS3YwWktHc29XcVlXRU1QVF9wMW9JSXI1S0RKUDR1dURQVDdZSkd4ODZ4MktIaHgxYnBJY0lRcDdDVnZocngxNVpTWTFQUS1CWlExSHhDTlZldUl3ZTVhWlVDcE5kZ0RoVWk4?oc=5"
-      },
-      {
-        "title": "Pełczyńska-Nałęcz w TOK FM o dymisji. \"Odbyłam jedną rozmowę telefoniczną\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalppZG9HQnV3emFLMXZzM0tvLWRrZEw4TjYxUDhEUXlod1Vpc0xqME5xeXZiWkJWYlpzZ1FBSlV5N0JGbkNBcTdqWWNKLVJwZ1RDYjlOVldUUGwwN0l4M2RSeVpVQU1CWVE2TFpOUFA2bnpudWtTaUx4dE1pREtYWWl3N0JDeEtIMG1OVnV4ZDQ2M1VmaHBDemo2SUtyX2ZfcFl0eEd0eC1WRktL0gGrAUFVX3lxTFA0T1UtM3F4dHRqSzFvX3d2cGUxdThUaGxPdUxuT1djdFJUclBzbER6dnR0Sng0NDZSSmtJdTZGdWpZOWFjYVdmNFVBaW1Qa09HSlRnOVNVWDdaVDFNQ3RSTlpzZGtXUWNiakZ3WncxTW1pTExNOFlWalkzN1dQTURMNkRSOXp0d3o5REczd0lZM3Z4NmREdE9kRFdPMGxxNUhwU1lEemdreFZYYw?oc=5"
-      },
-      {
-        "title": "Donald Tusk spotka się z Karolem Nawrockim. Znamy termin - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmtQUVBtNG1LbVhTY0QyMUdzRGZBZUlkbzFOUExKMmdjNV8wZi14NnJBV0ZVbmE5d09vVGg2UmFOWmdsOUxMVHEyWlVCMFBCbDMtQ1lya1BXX19oR3FzblVNNmtseDlMZjFpZC1XcnFvdTE1OTQwNXZxQ05DZ3F3WkRJck5oSDZvQi1zblBDU2VGcDkxZDAxQ0ZMVkdoMDNGRUF3MTQ4bk5RODFSODUtaUxsNmdySE1yVkE?oc=5"
-      },
-      {
-        "title": "Dramat podczas pożaru hali na Pomorzu. Utracono kontakt ze strażakiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3hJaGFkLVNWNVgwTVZYcGpSLVRENGwtcWtKRWlFSzU2VWRfTHpxbUxJX3BmUUdzM0xoWTVOZk45ZEc5djdKWDNuZ3BFNktsM1VCTF9TMV9DVlN5M3VFTWNaOFlrLU1BVkxDMy1WRDlaOXhHbHRmbmgwTHRmTDBVLXJGbkNCNUlMd1BfeGZGcGFBTkJKRUZwUEtQTzJRVVZldzY1RHc2eDJheEZMRlBWU0lyaHBJelk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-14 03:11:00",
     "weather": {
       "Warsaw": "Warsaw: +30°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Nawrocki \"robi ukłon w kierunku PSL\". Czego zabrakło w przemówieniu prezydenta? - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXBJZFYyZEtfSWNxMEJNcmJVRUFaaHpjVVVESnAwRzZaczE4MHJKRVpVQUZQTnJQQ3BVZkhlOXBzc3Z6VHZMR0dGY1hiN2JNcXBiLW9yTnRDNHNZWjFfU2NRUjZzN0JUY0pWbWFCR2pmQkRoUEhqNF83cEVQbmZSbFZadnVDVmRESzRtbEdwNF93VWVUQjdBZ2hrdnV3YjFrY2VNWlJhYjBQRmlpYXJOM0o0R1bSAbMBQVVfeXFMUFMxczc1OXZuWTY1ZmVJSE9oNWQtSHFUWUFnWmNqZkt6UHN6Qmk2MFk1Vzh6VkkyX1pmVmdSVThPUWxhLUg1MlJhbWxldzRKR3FwVDNnMFBROFoxaURJMC1lZVhjMTh1cV9qZEF5M0hVT3FuTUxQbUZlamR1b0JwRVplOHU5NkZFVjNWLUxZZGZaclJrY1NpMm9lZVFSczJQZ0RIMXQ5bEJIQ3cwdHQ3SHp5SXM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-16 09:12:34",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 427660,
+      "DOGECOIN": 0.843175,
+      "ETHEREUM": 16118.88,
+      "LITECOIN": 430.35,
+      "RIPPLE": 11.33
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "\"Putin ograł Trumpa\". Komentarze po szczycie na Alasce - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcE56MkRsNldvbHZnLUtrbDZMT2xEMnRiQTUxM1NqclhvVkk5emhaU2Z1dUVtYjZCUk4wQWgzWHRDeVBHMGo5ZTV0UXEzNXdEeXBmNDBqT0k5TEREc1RzcTJYUDVuMlBTTDZMRnI2QnczQlk3ZmlzNkFONDdKUDl3RFdXUTV1OURsWm1MUFJUeUs1NGRrb1I0WjdiOFRJc2VuOGNB?oc=5"
+      },
+      {
+        "title": "Tajny plan NATO na obronę Bałtyku. Eksperci podzieleni w ocenach, wskazują \"linię rozgraniczenia\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenN6R3RERkwxOXpJbk5MNC1WV25IdlE1WE5Yc3dfTTJMT3ZTcFFNYWM3VmFMV3hIMWlJU0t1YnMzR2FHQ2t2Y21aLXBDNDN3aEdOaGVEU0Q1anJYTkQ5RnlpN2JOUWtQZ2YwWWpaUktsekJ3SEcyZWtFek12aWtYMTJhUzNkczBLdW9iN2luWEYxTWQ2VDdxQTFkX1VmcVh1N2xoY1BoMHB1X0pCLXBMbVVKbw?oc=5"
+      },
+      {
+        "title": "Melania Trump napisała do Władimira Putina. \"Trudna sytuacja dzieci\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHozSzQ5NDdsNElCdDI5cV8yWl9ZeEpDbnJ5QWk5YmF1N0RwT054bU1vRXNHdkFVQTVnVXhJekU1YWdsZ1V6QkI4dk9HVFpqVkxPVjhHel9LV2lpNkVoWWt2eWl6eW80YUhlSWFzSk1zYXU2b1hLUjdaSllqeXFHMFlwbmlGVENDZ3diTmFwejdnbVVScFFIMk45c0VKQ3hpOGNFSGlVb0hsb1NfNTYtUEwtdU1aQ0c5dVRJX3pQenNNT1lzQklHdjJ2cw?oc=5"
+      },
+      {
+        "title": "Tak Polacy ocenili działania rządu po wybuchu afery dotyczącej wydawania środków z KPO - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak9KT1U0Y3UybEV2eEFxQ3g1X3hzUnJEY193cEdLdGdfMnpKWnZOcDkwOGRla21ZY0R1RWI5YlFtWWRkMGJueUZmWjZPZ1ItdlJRZkpVSUVhb21BeVZRZDhTSENQNXZoallvaE82eDI2VlUyOUpPbVJLcjBPcUg1a2szcnpwc2VqUjZTSS13aVVzNVpfOFh3NkJlNGlMS0NIRGJlQU41RDFTOVYyN0NaVmVTZEFSYkpYNklGSkZncVlzc2Fia2o1cFFDcnc?oc=5"
+      },
+      {
+        "title": "Azow ogłosił \"oczyszczenie terenu z Rosjan\" - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdndQZkdaSUt5SUNSaEFKaVRaRVZ4RDhFYk1ibGlYUTU0X2wxWjh2RHZmaVBOVjlMVWRxYW5SY3U2bTFySTlfQUJ6U3k5RG9mWl9sN000NGI1RDRDSFdMcm44Wk5Ld1pKMTByVFRHcGZuaUhLVjk4WkhTUUtmRFJTd1UwdjVaRTFDYzdiSlZzSDcxeUJmMGIybmRmVXVCNTJzajUtblBpVXNuLXp40gGKAUFVX3lxTFBFWUt0WFdJRXF1QVY2dzNwdHhVWVFwM2Y3YzE4UEN2NWIyNE1EM1VpSnJrdUtPSHdsZThtSmw2Rml0dlROdEs5MEN2WlM5RDU3UjZwWDVqSm5qckRiZ29lTDRjQ3AyNlpHWE1aZ0NBV21zeENXWUZqRDdmUEd2UXdiT2VhVnQxX2NzZw?oc=5"
       }
     ]
   }
