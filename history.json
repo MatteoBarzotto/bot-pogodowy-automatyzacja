@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-15 19:12:20",
-    "weather": {
-      "Warsaw": "Warsaw: +32°C",
-      "Kraków": "Krakow: +30°C",
-      "Gdańsk": "Gdansk: +31°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 426537,
-      "DOGECOIN": 0.809644,
-      "ETHEREUM": 16034.21,
-      "LITECOIN": 429.0,
-      "RIPPLE": 11.04
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "Wiadomo, kiedy Putin wyląduje na Alasce. Jest oficjalny komunikat Kremla - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0xYMUo3c0VQWEVkTWF6QlY1eU4wcmFRN3dUc1REcUtYb0E2b3ZaWm5wVzh2Ukk0LUVZc3hWVVpLS1FnMjlDWGtVRWFqQnZzMFpkOXBzUlBXNFFabEkwQjdRM25HanFfVjdwMXE2end0c19SbjRYeVRsdElERFJLcEVqLVJzUVlqb2tuRmhLS01HRXFVa0pfRTAxQzVMY1QxRU10N2FCcnNXc1FlUW10dE4wZVgwbmYtVmoxZmpzeGFBVnM?oc=5"
-      },
-      {
-        "title": "\"Antypolska nienawiść\". Przyszły ambasador USA oburzony transparentem na meczu Raków-Maccabi - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG9vbHloYmJ2TmlPLTVqXzZtaXFTalktOXp1YTl0ZGpoalhST0xYaWNRdVdXSmlwa0RheHNHVWx3Y3I3bzNBamlrWHVGZ1kwNHpTMTVYRTE3Vm12eGd6UmhBZlJ5X25SUnQ1V3VlMHVEU3NHcGFrNjRsZTVMWjNKQUd0YkVEQlloSmRRWHFySVNYSUxUdlFyb0hVaUdZbGZOUWRCdXNXSWlNRWt2TzBkSWM1YkFOR09pN2hxNk9BVjVla2lMM0lHVmx2Y0ZJWlRlOGtCZnJ3?oc=5"
-      },
-      {
-        "title": "Prezydent Karol Nawrocki zwrócił się do premiera Donalda Tuska. Postawił polskiej armii wysoki cel - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEU2TGJfSWV0RXYtYXNGbHkxWEllSEd4SGNEZ2tGMmVSU0FlTUhGN0FQSDFJY0lLR1VrYlE5MElleG5DUXdEUzNVWUhTQVVxWWRXTWU2eDBCNnpWREJLd2tHY3pVQTFFVnhnVlJ0NXJ6Q2ZoeDhmY3VUXzhDUUs4Z2FCb0p6cTdOczFIZFBNMVhGQktfRk5RREhpalpiV09lYk5tdXRLV3FmbzVlYXNLNExlR3k1RkRRUWF5RjRZbG5FNWNQU1B3OVpR?oc=5"
-      },
-      {
-        "title": "Oby politycy nie zepsuli Polakom 15 sierpnia. Przed rozmową Trumpa z Putinem nie czas się kłócić - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzJTUEZieTBMYU1sVXJpNy04bU1WSjU5dnppcy1MZTJwUjdvVTFZU0lJR0hxQzRpUnpsdFNpMjJOTlk3aDdTUm5SVzlzdjlIVE5tbFNnZmRGcTdJVnJVUDNjOVA3Y2dzcUNhZ3RxU2JqMTJmYnBTalVFay1haHB1RUkzNWFwMlRZWXJLNW8wRUJiQ05CZUZMcUF0UGFvbnJ5RU5xcERPMTBieVNfUWg3em52Y25pYXQwdVhla0ZnNE1iUHlSMXZSdTJQdjM0YzM1cUtfT2Ezck0ta01VY0tGRlVpc0N0RXZqQWUxa2N6TWdrRUZzd2lpRHcwTU9VdFZlYlZJSGZhaw?oc=5"
-      },
-      {
-        "title": "Tragedia na przejeździe kolejowym. Nie żyją cztery osoby - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWxCRFY5emRlZWJTZ2NUNW44QzRla1ZHNEdwRXRERFVHSUE2bXppMWhtbHQwZi1hRzl0X2dfV2dIQ0dQeVI1V1h3YWVCVDdQSW40eEc1dExWamRBb3A5aU9pNHh5eVFEQlExbGFEYXVRQWl2RkFrQmJpZThkNWVnVnd6aU5vN25lalk4bjkzdGxxaFp5S1k4c0gxUk1oYk0xQmZteVpyVVpxX3VwcVdCMEZKZWlERkI1WXVUblB4cnN3TFBsZ1owdg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-15 20:20:41",
     "weather": {
       "Warsaw": "Warsaw: +32°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "Nietypowi pomocnicy w walce z pożarami. Nowy projekt rządu - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVFaaExKZG5jV2pkZEFwRUFPcDdITHpCOTdnMkRSeFVSUFFhQTZWZ0hSQ1NKRXpEcTRBTi1TeFhUVVoxVHo5UGRselZSVURnZG9xWG56VDR6QkNkNUN2WVZ2b242eW5NQzJIQXV0VEdLUzNVdDVCTnAyMExfV2NZVnVzQm13Y01ZMGFqV2djZGhsZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-18 01:13:27",
+    "weather": {
+      "Warsaw": "Warsaw: +23°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6542,
+      "EUR": 4.2639,
+      "GBP": 4.9592,
+      "CHF": 4.5296,
+      "JPY": 0.024934,
+      "AUD": 2.3846,
+      "CAD": 2.6518,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 429051,
+      "DOGECOIN": 0.861486,
+      "ETHEREUM": 16435.4,
+      "LITECOIN": 442.11,
+      "RIPPLE": 11.31
+    },
+    "indices": {
+      "^WIG20": 2949.71,
+      "^WIG30": 3791.13,
+      "^WIG": 3791.13,
+      "^NCINDEX": 256.57
+    },
+    "news": [
+      {
+        "title": "Zełenski i Trump zaczną od rozmowy w cztery oczy. Będzie powtórka z kłótni? - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWS1jZGFmSjhiWjR2dDVZVXp0RlZpSWp0QXJiUkJVS2dCLW93Nk9nc190dW8yVTE0TWlIdjdYNlQxUjJWc0c3cnhreC14QlZxaFljLUZPOW9IOXNKam1yRTRMSW5XeEFIM0pjRFoyNG1iYWlsZGR6TzgzSWJyeEFkUVo0bVV5VDluLTBEUng4VlJsaTVMejM3YU15M1gtY1RWSjg0NVQ4N05xQWhLNkFNeXE5bzQ?oc=5"
+      },
+      {
+        "title": "Dyrektor Ośrodka Studiów Wschodnich: Nie chodzi o Ukrainę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcmVzMF9tcjZWY2JoMUF6TTNxeTNpcUV3Zmk5X2ZVdkZua1ItdEs1c0dGMk00VW5tbVRwdzJQcTJKWmFkbHhuQjFoSmRNdzF3YnhidDJKX0RlVzdYTkxfdjQxWDYzSWpyeDQtVlNaNF9hTXJ0YVhEcS1yME9pQjRWZG9sTDM3dWZyb3o1WDJ0U2luSmhLTG9NQjd1a2c1bmNSNVBNQWdielRhTUQwOW5UaEthek8tSDlPaWxDa2lBd2phYjBSU3V3Rm9EN0pjVlRlYVFtVXdIZmFiSmpTeG1vVk5PbWRLMlRybFh4TkpB?oc=5"
+      },
+      {
+        "title": "Ojciec rzucił się do Bałtyku, by ratować córki. Tragedia na plaży w Stegnie - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWE95LXJqbzBSYzd5MGlGdi1aQlNoN2N5NEliUURmQ2Z3OFZYVVJZM0wwMnJ0T1BiRTRXcUI5M3d5T1NTQURPamowMnVobHBZajR4T0UzMTZ5NzRmdkxBVmlNUGtXaDJsZzdVNEFSUFpmZmduWHpaNlUtZHcwTDdNMk43QnFKX2I0ZlBvVVdpem9fVnkybzhtY0RvaC1nUDJBdmVCZVRlck9ySW5VVlJ4UDcwYkhjWTNWOXc?oc=5"
+      },
+      {
+        "title": "Tragiczny bilans długiego weekendu. Ponad 170 wypadków - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamV5QTFVR0EyRFFROUdMUUJ2T0RJTEV1S3R0dUJWVzVvMjFkNXljZXhDV1Nzc2d4ODJUQ2RFWTdSUXFaVHV3VTVRR08wdkpyVTBCcC1ZU01uazk5TGtEb05Lamh3WHgya210SUlvT1VJNDViYUQwT1lIZVM5X3RNR29Ua2QwMWg5Sy1aNmtGY3YtMTFIazh2SkJQaVJoZUtta1Fv?oc=5"
+      },
+      {
+        "title": "Zakończyło się spotkanie \"koalicji chętnych\". Minister Sikorski zabrał głos - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQXI0TFFMLU5mQ2J2T2ZCRWQ0eGJnU1JNOS15T19jUWp0eHNuai1fUW0xTTZNZ0xxSjEyallCcTdTaVVZSGtPUDN4d2RPUWszX2Y2RFN4MkRDZlBKQXNXTnNCM2wxa09DNENLVzcxNm1wT010Q3FhbUtxei1ib0Q3YVJZNmlDRTlRdWkxQ3NvdXlYN2FxMWh6TFBCU2dremlyenYyZWZTXzFNYnpyZ0dkQm5BWGdxUTZSSnlLRnB2WQ?oc=5"
       }
     ]
   }
