@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-16 17:12:55",
-    "weather": {
-      "Warsaw": "Warsaw: +28°C",
-      "Kraków": "Krakow: +30°C",
-      "Gdańsk": "Gdansk: +22°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 428461,
-      "DOGECOIN": 0.832096,
-      "ETHEREUM": 16028.75,
-      "LITECOIN": 431.91,
-      "RIPPLE": 11.32
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "\"Putin rozegrał Trumpa\". Media w Europie bezlitosne dla prezydenta USA - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMS04d25FM0RoTVJ4MnhkdGhOeWRQYlZkS092SDlVQ0ZWbWNyUjdXcGlvOV9nWWQ0aHdyb1NlSW5UVElEaXhHR1lpUDVpUUNScy1qN1lzUTJqTzlxV20ybEhRSmxuMWJwRHVCRGtveU5oemhLLTVval9fWm9QY3NQc1B3RnhzSnZ1UDg3Wi1EZE5FbW1RXzJ0dE5GU2xkby1GdWdvUGNWSExVOVE4OWFRWjFkNUU3TmI4?oc=5"
-      },
-      {
-        "title": "Spotkanie Zełenski-Trump. Są nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHpsNkJpZWNCWjdUZk01VHgxb1NqQ24zeW84TU5mVGFTSTRxMGN6V2dkZUpHaUViT0NZdTJuMGNkSWZyRGJVa05jYzVERXRYV3dpdEZRQ3pwcmJQZ3lxQndRTm9ac0NtWlhScHFXcXpjaERqaFpGOWE2X2F0TXlZVkdPR2ZFYklWMGU2bg?oc=5"
-      },
-      {
-        "title": "Hillary Clinton nominowałaby Donalda Trumpa do Nagrody Nobla. Chodzi o Ukrainę - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM18tYVItM2k5dFlhVnNSa2Fta3YyNUVBR0xaNlk2RVlVR3VMc3pBYWhOUklPQzFqQzdzdngzTGc2dUt1U2xhRHVDdEtYajZnMXZ6VzVfODJMWGNiRzJZQW9TWjFkSEwtaVVWdTcya2JxMGlBTGpRRmsweF9DWXBXdmJTZHBnVU81NENjVmJzeE1pMXZGUVdjV2N3UTdVcU9DbXRqYUQ4b2t0VXdKYmNZ?oc=5"
-      },
-      {
-        "title": "Premier Tusk ostrzega po szczycie Trump-Putin. Wspomniał o bezpieczeństwie Polski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmMyNU0yZ1Y2S1F1bEFFUWlROXpTVDdGVHZNNUFMVHlwVkdKN3BySlBac3NGUzkzSjZJalF6REtwQWRsc3hjYVRPUEI1NnBHaXNOZTdEU2s4U2otbG5vUEI1aXZ5MHVUZjVNRkR5aGdxVGFTQUVSamFXR0Z6TW8xZExsSS1Od0IzSHo4TnNNY0Q1RVNoMGFOYjZpdDZ0TjR0QlhfUnR0b1hWWnZscTJMajh4OWROb2l0djlnakl3?oc=5"
-      },
-      {
-        "title": "Tragiczna doba na polskich drogach. Policja apeluje do kierowców - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pDWVUtTWxmanhSemhTcnNuZmhKaURnd1FNS0NYdU53U1Y5TDI4ZzgwR2thejNTbVNWbkl3Z1YxQ2xPa24yTFgtcXpkMGZubjNEcTQza2FBVkg2T2NkOXg1TXM1VWVCTTBTY1Y5X0FtQlJNaFUwVktRX1lMZkVnd3lmUXVDNjJRU19WSDlsOGlrSENXOEtvLTZ1SjJGZkl1Vzd0alpWX3VuWEVKZjJN?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-16 18:15:22",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Deweloper, który negocjuje z Putinem. Oto, kim jest kontrowersyjny człowiek Trumpa - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQlNMQ1duNjJXOXVBZW9KZzVCbWFwTTZPQzlQVk5JbTV3d3puMkFHalVoQWJXcllSVTJrWDEtX3RybHY2eWptTkFCR2xlMU5LX3c1c3JPX3MtSlZtRFdfZXVpU3pLSkVpS3Jxenc4TXp0YzM2T3l5cmFEaHRBQjNJbVZQOUI1ZlRvXzZoVk83TTJwRUlEazZoVWhsazVYeEFNZ0J2S3BZNUc1dmJybkMwRFZYcTd1cXpiNG40Q2JYYV9XOEswRVctemhKVUdCNlE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-18 23:12:24",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6434,
+      "EUR": 4.2558,
+      "GBP": 4.9354,
+      "CHF": 4.5135,
+      "JPY": 0.024725,
+      "AUD": 2.3736,
+      "CAD": 2.6412,
+      "CNY": 0.5075
+    },
+    "crypto": {
+      "BITCOIN": 424667,
+      "DOGECOIN": 0.816358,
+      "ETHEREUM": 15804.12,
+      "LITECOIN": 428.96,
+      "RIPPLE": 11.22
+    },
+    "indices": {
+      "^WIG20": 2962.09,
+      "^WIG30": 3814.74,
+      "^WIG": 3814.74,
+      "^NCINDEX": 257.38
+    },
+    "news": [
+      {
+        "title": "Wall Street w trybie \"poczekamy, zobaczymy\". Giełda bez szczególnej reakcji po spotkaniu Trump-Zełenski - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTmhkdnlzU1BfZkMtX0xrREVGR3NHcXNRSTM0R2hLYUN0MllCWkplSGxiUVhyLWNQM2RQc0ZTT2hHamowTXB2OVp3ZmgxRVd2NllYMWVVRU1WMk1UR0JpR2J0MGR5b0Q0cXBuVXU3OTdudVd0X1RwODhBTTVDa3M3bEVVS0VaTktjSTl5cVI4QlZtSDFsQVZXVllXSHVOaXA3ZHp4b19sZ2ZWYjgtbUtMOTVtNnI2WmdoZTloRTh2WWt1dEdzdDRzdU9vVUJEVlo5WTZTMkRWZVY?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Podkarpaciu. Nie żyje troje nastolatków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanBGTFVyX3lTNzlNRTRHTE9DSVg3TDE2WWFYVTBCRDllSC10Wnp5cEpRQkVzUlZvM1ZBU0FUblBZUU1pc3ptSGluNmp0bzQ1QkdETG0taFcyMHdqV0I0bkJBLV9HcUpnNmxRc3U5QXpmckhqZGh3WlBkVjBoX3gwV1o5YjE0VmpDYlVOS0IxYnV3Q0JrOVVkX0hiYW4yTnAyTWtqQ0VJZjBqRTdRX25jS3lLY3NyNkkydXp3?oc=5"
+      },
+      {
+        "title": "Prezydent Karol Nawrocki czy rząd? Kto jest winien temu, że w Białym Domu zabraknie Polski? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS05tWms3S1ppeXFkYThERnZiOE5fYjc4X1NVNHZKbFNfTGVsQjFyOG5mTHRzUmlsZDY5VVVrbFhHUUtmTjh0eEZ5c3dVNy1NVjlUQURmaEVyajg0Z3VkLTJaOWtnMEFfS0otRElNQUMwbzUwcHFvVjFtMzB2VkRIRUM4TDdkdldvcExFZkJxdThnQVgtRkpubVR3eFlvUTQwTTRsNGRlWFhUaXpSOVVuX3F3aDQzNDFMaV92UmgtdlEtVGFQTFVFNDUtUnVPRlYt?oc=5"
+      },
+      {
+        "title": "Deweloper, który negocjuje z Putinem. Oto, kim jest kontrowersyjny człowiek Trumpa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQlNMQ1duNjJXOXVBZW9KZzVCbWFwTTZPQzlQVk5JbTV3d3puMkFHalVoQWJXcllSVTJrWDEtX3RybHY2eWptTkFCR2xlMU5LX3c1c3JPX3MtSlZtRFdfZXVpU3pLSkVpS3Jxenc4TXp0YzM2T3l5cmFEaHRBQjNJbVZQOUI1ZlRvXzZoVk83TTJwRUlEazZoVWhsazVYeEFNZ0J2S3BZNUc1dmJybkMwRFZYcTd1cXpiNG40Q2JYYV9XOEswRVctemhKVUdCNlE?oc=5"
+      },
+      {
+        "title": "Rosja straszy rakietami balistycznymi. Syreny alarmowe w całej Ukrainie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnltdDhuUUVKbTl5cFlPZGlLRmo1V2EzampsRWNoM24wdzdrcmNKNlE2RHp1NGJST2ptUjRfTGpZYUNibTViNjFQdFJ5MjhRMk1lUkFBV3dlVDFLMTdzb1ZqUE1GUkpkTGpFR3hfam5Sem95VGhZSzRKMlVBbUZfVW11bUl3Z0Z3Ui1FQ0loWTZvZVQ1SnJnUUowblBqQ0UzNWtSanE0MDJ1WEFWR2RiWlI4TnlNaFBGZ0E?oc=5"
       }
     ]
   }
