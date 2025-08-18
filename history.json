@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-16 19:11:27",
-    "weather": {
-      "Warsaw": "Warsaw: +28°C",
-      "Kraków": "Krakow: +30°C",
-      "Gdańsk": "Gdansk: +22°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 428697,
-      "DOGECOIN": 0.834998,
-      "ETHEREUM": 16031.3,
-      "LITECOIN": 433.68,
-      "RIPPLE": 11.31
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "Po spotkaniu na Alasce. Tym razem Trump jak Zełenski. \"Nie miał kart\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanFqVFNCNDloQlR6M01RajZDTkdTcUc2NXBiRWFUNkl5YTlYRTk1VVNNSENKNENRZVhRQUxhRjRaMS1VMGVCVDJSWnY2alZIQkxSV1lJYm44MFJxckJEOEFodkhEZElaaWFlWGd2VUZzX0tKNUg1THhtUkpuemNwN1Q5ZTRGZFptNlVmTS1ITUhEQ2hsbFlmMEsyTXZXXzlBYjA3RzRLaXN3bVExcUR5dFA1MlI3VGhWSkpuXw?oc=5"
-      },
-      {
-        "title": "Spotkanie Zełenski-Trump. Są nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1VwU2hZbjd6UEFpRDl5N096QWdLbVhJemJZc3QzNG5vR2VrZzhfM0dweEVhR2tFRW52UlZEMmZ2cWJieVdVQUpGRVg4ZG1mWWR4VjhjMEtFaEFpNkFHN1lFQkJvWjNMc1ZjaUJVQ0lEcjF4SzctWHI4eDUxYkNrTFhVaGZLNUt1UFdYenhNWFhiRU9adHJKVUhHNmFOSmVJbzFCMFlmSENCQQ?oc=5"
-      },
-      {
-        "title": "Pałac prezydencki komentuje spotkanie Trumpa z Putinem. - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakhCNmFYODdzeG1oRThiTkM2UG5Nc3JvSzljMDgtOUtDZV9tNG12NGN3QklZd3JfN2ZoZUFOVm1IU1E4UGg0eVdJeVk5cXdFWV9OZTl2c3l4TDlNang2YVpIS2x6cm9BWnVWVlNwUTFoZ1F4VTdtM0trblBLQ2RBZTFrcUdfWGRITzMzQXdNQTJrU21qb3FmeXVHZVhwRFNXVDFEUGNMYw?oc=5"
-      },
-      {
-        "title": "Pożar hotelu w Starachowicach. Niezwykle trudna akcja straży - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUEyWXVYTl81N0JyQnZ5eVR5YlFZejdkUlVzVFNkU0thTUZWa3RYZ0wtN0ctNG0tYllXLW05RHRFWGVtblNFNXYwQldQcVc3bEliSjN1YjY0MWMtVkFVc0EwOTBtV2hwbXotV25Tem45TzZaRDNnVjN0V3laRmV4ZER1OF83MzJLMmZwN2JRWkE4QU9lRV9QT3o0QUxSdVhHS2Vxd2RnQnpjcmhOLWFVM2x5Y2VuTXdhblE?oc=5"
-      },
-      {
-        "title": "Hillary Clinton nominowałaby Donalda Trumpa do Nagrody Nobla. Chodzi o Ukrainę - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM18tYVItM2k5dFlhVnNSa2Fta3YyNUVBR0xaNlk2RVlVR3VMc3pBYWhOUklPQzFqQzdzdngzTGc2dUt1U2xhRHVDdEtYajZnMXZ6VzVfODJMWGNiRzJZQW9TWjFkSEwtaVVWdTcya2JxMGlBTGpRRmsweF9DWXBXdmJTZHBnVU81NENjVmJzeE1pMXZGUVdjV2N3UTdVcU9DbXRqYUQ4b2t0VXdKYmNZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-16 20:17:50",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Donald Trump: Putin zgodził się na gwarancje bezpieczeństwa dla Ukrainy - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3N0ZGJUUzFsd3ZWYW9zdjZDTlVEdFpQSE5lWElQS1VxV3RjX3ptYWVhSGFDR0NVVWxBTUZ6TkZ1cU9SeHgxbFJwQVIzc3dtR1RHbjBrWnJQaFBSTmVRT3NMazJLQWZhZE9aUG9pdXZRUXJFcG0zblNhYTZvQ2NRTkhLWmMyZkhVamNyODdTUkV6Q3RfTWJJRld4REpmMHNjRDUxOS1vaXJOWjVpdWRkTlhBZklwUWRidFFyd3VxS3RYX2l4U1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-19 01:13:04",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6434,
+      "EUR": 4.2558,
+      "GBP": 4.9354,
+      "CHF": 4.5135,
+      "JPY": 0.024725,
+      "AUD": 2.3736,
+      "CAD": 2.6412,
+      "CNY": 0.5075
+    },
+    "crypto": {
+      "BITCOIN": 424407,
+      "DOGECOIN": 0.819287,
+      "ETHEREUM": 15816.67,
+      "LITECOIN": 431.18,
+      "RIPPLE": 11.17
+    },
+    "indices": {
+      "^WIG20": 2962.09,
+      "^WIG30": 3814.74,
+      "^WIG": 3814.74,
+      "^NCINDEX": 257.38
+    },
+    "news": [
+      {
+        "title": "Nieoficjalnie: Ukraina oferuje Trumpowi transakcję na 100 mld dol. - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnZrLWF5dTBnSU1yMTAweXJzNFpWdFVEdEdXSFEybXpIMXREQjZLeUFIWEs5WXA1RWZoRV95R254NlFmRlQ2cXhXXzRCSnBOOWQ2T196d3BKSTR1MGtHd2tUZFYyR05PMGNHQzhmQVdzd041S29pRzZnTDRvWnNrcnBkSnd3cEtfTEQzSHdzRWpyVU1pX2lkWk40WmRmazA5U29xQ0dLbnc?oc=5"
+      },
+      {
+        "title": "Brak Polski w Waszyngtonie. Mosbacher wskazała na administrację prezydenta - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXAwa01SZTVDSUNHemxVdGpoX2QzWEVHcXVndkJxcXVvZldSTzNqc083RlNPRHhtM2JidUVUazBRRFpkQWJZUDdjcHIybWk1T0JzWU1GUE5sejRvdTRjcUd0ZldMV0Z3OGVtRDBOUTIxMTh0VUVXakFTWDBHcFhJN0V3Ul9SQ0hqa21UQkJKYmFnd3JtazkzUC1HN1RUQUNEVzZjNnRIdURDaS1ES2RRTGNqZWpMajd3cjdWTVVCaw?oc=5"
+      },
+      {
+        "title": "Deweloper, który negocjuje z Putinem. Oto, kim jest kontrowersyjny człowiek Trumpa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQlNMQ1duNjJXOXVBZW9KZzVCbWFwTTZPQzlQVk5JbTV3d3puMkFHalVoQWJXcllSVTJrWDEtX3RybHY2eWptTkFCR2xlMU5LX3c1c3JPX3MtSlZtRFdfZXVpU3pLSkVpS3Jxenc4TXp0YzM2T3l5cmFEaHRBQjNJbVZQOUI1ZlRvXzZoVk83TTJwRUlEazZoVWhsazVYeEFNZ0J2S3BZNUc1dmJybkMwRFZYcTd1cXpiNG40Q2JYYV9XOEswRVctemhKVUdCNlE?oc=5"
+      },
+      {
+        "title": "Mikrofony uchwyciły, co Trump wyszeptał do Macrona. \"Putin chce to zrobić dla mnie\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3dlR0tBaTh5eFZWWkNndDdJMm44Znh5R282Y2ZUUXlxaHV6ak5Ma2ROMnlHRVBNWm5jVXduSl9hTVRKc19ObU5NZHNJclpIMXFCRGpxUldyanFENXlQU1g2eFItZGhjNTJQclJQUVpNa0ZfU3BlQ0tFNmZPS1pqaUd5b0FNOXlrUm5TakEwcy02bmVzdmhPQUN0UEVhVXZHcDVzTzNxZE0zcjlwRHIzVUoySmhvYURPOXFmeA?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na Podkarpaciu. Nie żyje troje nastolatków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanBGTFVyX3lTNzlNRTRHTE9DSVg3TDE2WWFYVTBCRDllSC10Wnp5cEpRQkVzUlZvM1ZBU0FUblBZUU1pc3ptSGluNmp0bzQ1QkdETG0taFcyMHdqV0I0bkJBLV9HcUpnNmxRc3U5QXpmckhqZGh3WlBkVjBoX3gwV1o5YjE0VmpDYlVOS0IxYnV3Q0JrOVVkX0hiYW4yTnAyTWtqQ0VJZjBqRTdRX25jS3lLY3NyNkkydXp3?oc=5"
       }
     ]
   }
