@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-16 08:19:38",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 427651,
-      "DOGECOIN": 0.840891,
-      "ETHEREUM": 16101.52,
-      "LITECOIN": 433.26,
-      "RIPPLE": 11.28
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "\"Putin ograł Trumpa\". Komentarze po szczycie na Alasce - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcE56MkRsNldvbHZnLUtrbDZMT2xEMnRiQTUxM1NqclhvVkk5emhaU2Z1dUVtYjZCUk4wQWgzWHRDeVBHMGo5ZTV0UXEzNXdEeXBmNDBqT0k5TEREc1RzcTJYUDVuMlBTTDZMRnI2QnczQlk3ZmlzNkFONDdKUDl3RFdXUTV1OURsWm1MUFJUeUs1NGRrb1I0WjdiOFRJc2VuOGNB?oc=5"
-      },
-      {
-        "title": "Oby politycy nie zepsuli Polakom 15 sierpnia. Przed rozmową Trumpa z Putinem nie czas się kłócić - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzJTUEZieTBMYU1sVXJpNy04bU1WSjU5dnppcy1MZTJwUjdvVTFZU0lJR0hxQzRpUnpsdFNpMjJOTlk3aDdTUm5SVzlzdjlIVE5tbFNnZmRGcTdJVnJVUDNjOVA3Y2dzcUNhZ3RxU2JqMTJmYnBTalVFay1haHB1RUkzNWFwMlRZWXJLNW8wRUJiQ05CZUZMcUF0UGFvbnJ5RU5xcERPMTBieVNfUWg3em52Y25pYXQwdVhla0ZnNE1iUHlSMXZSdTJQdjM0YzM1cUtfT2Ezck0ta01VY0tGRlVpc0N0RXZqQWUxa2N6TWdrRUZzd2lpRHcwTU9VdFZlYlZJSGZhaw?oc=5"
-      },
-      {
-        "title": "\"Żar leje się z nieba\". Upał nie oszczędza. Aż 37 stopni w cieniu - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1BTRzlKTmdETngtcWFYSHJ5MzYtLVRwMWhTVkxIUVJDQVRaOF83Y09PSjZKODE4VVFGQS1jM0V2MDF5dzBkMmZfd0VqenhoMVJTbFlsUWtQWEtxdWhyYnRzZWl3SGtISkdvY1RYXzRhWWpBLVhMcTB3R0VLcllTMS1UOGFHdHQ2eF8wcXhQZ3gtNFR2dF9fSnhueDAtSGdZekNMVEx6MXdHWWVh?oc=5"
-      },
-      {
-        "title": "Tak Polacy ocenili działania rządu po wybuchu afery dotyczącej wydawania środków z KPO - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak9KT1U0Y3UybEV2eEFxQ3g1X3hzUnJEY193cEdLdGdfMnpKWnZOcDkwOGRla21ZY0R1RWI5YlFtWWRkMGJueUZmWjZPZ1ItdlJRZkpVSUVhb21BeVZRZDhTSENQNXZoallvaE82eDI2VlUyOUpPbVJLcjBPcUg1a2szcnpwc2VqUjZTSS13aVVzNVpfOFh3NkJlNGlMS0NIRGJlQU41RDFTOVYyN0NaVmVTZEFSYkpYNklGSkZncVlzc2Fia2o1cFFDcnc?oc=5"
-      },
-      {
-        "title": "Nawrocki \"robi ukłon w kierunku PSL\". Czego zabrakło w przemówieniu prezydenta? - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXBJZFYyZEtfSWNxMEJNcmJVRUFaaHpjVVVESnAwRzZaczE4MHJKRVpVQUZQTnJQQ3BVZkhlOXBzc3Z6VHZMR0dGY1hiN2JNcXBiLW9yTnRDNHNZWjFfU2NRUjZzN0JUY0pWbWFCR2pmQkRoUEhqNF83cEVQbmZSbFZadnVDVmRESzRtbEdwNF93VWVUQjdBZ2hrdnV3YjFrY2VNWlJhYjBQRmlpYXJOM0o0R1bSAbMBQVVfeXFMUFMxczc1OXZuWTY1ZmVJSE9oNWQtSHFUWUFnWmNqZkt6UHN6Qmk2MFk1Vzh6VkkyX1pmVmdSVThPUWxhLUg1MlJhbWxldzRKR3FwVDNnMFBROFoxaURJMC1lZVhjMTh1cV9qZEF5M0hVT3FuTUxQbUZlamR1b0JwRVplOHU5NkZFVjNWLUxZZGZaclJrY1NpMm9lZVFSczJQZ0RIMXQ5bEJIQ3cwdHQ3SHp5SXM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-16 09:12:34",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "Tragiczny bilans długiego weekendu. Ponad 170 wypadków - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamV5QTFVR0EyRFFROUdMUUJ2T0RJTEV1S3R0dUJWVzVvMjFkNXljZXhDV1Nzc2d4ODJUQ2RFWTdSUXFaVHV3VTVRR08wdkpyVTBCcC1ZU01uazk5TGtEb05Lamh3WHgya210SUlvT1VJNDViYUQwT1lIZVM5X3RNR29Ua2QwMWg5Sy1aNmtGY3YtMTFIazh2SkJQaVJoZUtta1Fv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-18 14:30:44",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6434,
+      "EUR": 4.2558,
+      "GBP": 4.9354,
+      "CHF": 4.5135,
+      "JPY": 0.024725,
+      "AUD": 2.3736,
+      "CAD": 2.6412,
+      "CNY": 0.5075
+    },
+    "crypto": {
+      "BITCOIN": 419460,
+      "DOGECOIN": 0.812701,
+      "ETHEREUM": 15641.37,
+      "LITECOIN": 425.98,
+      "RIPPLE": 10.85
+    },
+    "indices": {
+      "^WIG20": 2951.98,
+      "^WIG30": 3802.12,
+      "^WIG": 3802.12,
+      "^NCINDEX": 257.2
+    },
+    "news": [
+      {
+        "title": "Cysterna zderzyła się z samochodem osobowym. Zginęły cztery osoby - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUtJR254NmJZcGppQjM5bG9uaUJRWS1pakQ1WXFSV0ZPdGdPQ2hWVHp4RmhsMVl5MzRPV0pfZU9TS1NmcjVIZnMyY2pjcnFvUUl6cHZ6bEhLTXJGeGRZX2k3bmZIa1FSSF9wemlwdXJzbEFuaHowX1VFUEZ3ZzVOSmRLMUNMdjQzT2FzSlRYR1NHVWlZaEdDRFZWS3REX3JrTmotZjUzSVlQM1pSRGN2Yw?oc=5"
+      },
+      {
+        "title": "Bez Tuska i Nawrockiego w Białym Domu. Tak to tłumaczy Pałac i rząd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFF3cE1ZbENhaS1IX1BKdzlDdDF0ZnhDN2xNUG9LOFFVckhPbkhnR2xmUkZHMmpaX2ZieVF6MGEwaGVqRF81ZF9EYjBqTk9wZzU3RGx0VXNjem9FMGZRd0ZTQjJ0a2kwMFdXU3BOUUl3MnRjTlQ4ZlZyaE01dlVGYWIzOC1rSWIwSllJQ3ktN25US2JycUxRQXJtZEtDZ2ZqZF9VeGpVdjNITF9UeVRkZW5GVm8tVEtMczZ5dG9n?oc=5"
+      },
+      {
+        "title": "Czy Zełenski naprawdę może zakończyć wojnę? Donald Trump ujawnia zaskakujące warunki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRwUUtCVklGdmFBeElhMzNkV2Y4TTJEY3M2N2pRVldqUXNMc3ZMXzEycmpRckE2VUptNmxzUWZOU25peG1QOGxMa2tzWHByVldBNkk5R0FfUXRfYVFWLThqeXlwcXM3T0Y3MVA2bTlyeXpBbElIeHAwZHZacEtzUGRUeUJDRjVNWVFrUURIdXlHMlhsSmVhR2RxSXg5LVc1d1IzWkhqN2xEcHJDZnJkZDdfaDB4MWVFNjBPTFBXTm5uNDQ?oc=5"
+      },
+      {
+        "title": "Spotkanie Trump—Zełenski bez udziału Polski. Ekspert wskazuje powody - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzcxMU1uTThUTWFJSy1qcVF3Q3I3eDFJRnVfeVZBRHZHZDQ0eW85cEZNdEt3MDJnazdNckFMUVpRT0JDTzB2YlFCd3BpWmx0YUZ6STZHSDliV2paUVJjNVl5MGttWlRsNzU0R256VXZFcWRiN2M4VkZMZmlPczhqOEZCMHk5ei1TSW1oUnh3a1YxcVBGckxkOHpibF9TLTcxUHdkbVJ0U1FpUFk?oc=5"
+      },
+      {
+        "title": "Bąkiewicz usłyszał zarzuty. Chodzi o znieważanie funkcjonariuszy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcE10TVRwdGRoRWViN0I1XzRHS0ZZU3IzMnVZbnBkUXFVd1VoRFdKSENTck4tTWFKV21Qam40bFB4UWJEMVdHUHI0YjE5UDJINDBtRjZVeTFzSjcwRk96NnRnTDgtanhwWkp3T0FtTG5tZnJ2WU0zZS1EdzBXeW4wVkFpM0Z2am9IR1BpR2FHVm9tNmJLczFIQk5XTUJqZ2dSU2h6ZlhEM2U?oc=5"
       }
     ]
   }
