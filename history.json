@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-16 06:19:06",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 427717,
-      "DOGECOIN": 0.84708,
-      "ETHEREUM": 16156.48,
-      "LITECOIN": 436.13,
-      "RIPPLE": 11.34
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "Węglarczyk: Trump i Putin dogadali się co do jednego — to oni zdecydują o losie Ukrainy [KOMENTARZ] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWl9HeXFsazVIUENmeUJmYWY3VmRkS3VtWGRfTEtnLXpMd1YxYjdHU1MtREstOUZvQnQtQVRna0FwLVJaRmtDYjVvZ3pRMF9Xb2d3dE1fRkhpMEZ3SmFPb3ZiS0Exdk9pM19TNUtTeWxsOXpRR2hESHZXQnh4LVdKaU9JRXd5NXJ5TlJFN3hnekdKMW5xbzJpbjRvSjRqRlQ1M3FZU0s1VjVDaEdvM3p4cnY5WHBwSHFPV2ZzU1JUTVVtSk1j?oc=5"
-      },
-      {
-        "title": "Oby politycy nie zepsuli Polakom 15 sierpnia. Przed rozmową Trumpa z Putinem nie czas się kłócić - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzJTUEZieTBMYU1sVXJpNy04bU1WSjU5dnppcy1MZTJwUjdvVTFZU0lJR0hxQzRpUnpsdFNpMjJOTlk3aDdTUm5SVzlzdjlIVE5tbFNnZmRGcTdJVnJVUDNjOVA3Y2dzcUNhZ3RxU2JqMTJmYnBTalVFay1haHB1RUkzNWFwMlRZWXJLNW8wRUJiQ05CZUZMcUF0UGFvbnJ5RU5xcERPMTBieVNfUWg3em52Y25pYXQwdVhla0ZnNE1iUHlSMXZSdTJQdjM0YzM1cUtfT2Ezck0ta01VY0tGRlVpc0N0RXZqQWUxa2N6TWdrRUZzd2lpRHcwTU9VdFZlYlZJSGZhaw?oc=5"
-      },
-      {
-        "title": "Prezydent Karol Nawrocki zwrócił się do premiera Donalda Tuska. Postawił polskiej armii wysoki cel - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEU2TGJfSWV0RXYtYXNGbHkxWEllSEd4SGNEZ2tGMmVSU0FlTUhGN0FQSDFJY0lLR1VrYlE5MElleG5DUXdEUzNVWUhTQVVxWWRXTWU2eDBCNnpWREJLd2tHY3pVQTFFVnhnVlJ0NXJ6Q2ZoeDhmY3VUXzhDUUs4Z2FCb0p6cTdOczFIZFBNMVhGQktfRk5RREhpalpiV09lYk5tdXRLV3FmbzVlYXNLNExlR3k1RkRRUWF5RjRZbG5FNWNQU1B3OVpR?oc=5"
-      },
-      {
-        "title": "Tak Polacy ocenili działania rządu po wybuchu afery dotyczącej wydawania środków z KPO - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak9KT1U0Y3UybEV2eEFxQ3g1X3hzUnJEY193cEdLdGdfMnpKWnZOcDkwOGRla21ZY0R1RWI5YlFtWWRkMGJueUZmWjZPZ1ItdlJRZkpVSUVhb21BeVZRZDhTSENQNXZoallvaE82eDI2VlUyOUpPbVJLcjBPcUg1a2szcnpwc2VqUjZTSS13aVVzNVpfOFh3NkJlNGlMS0NIRGJlQU41RDFTOVYyN0NaVmVTZEFSYkpYNklGSkZncVlzc2Fia2o1cFFDcnc?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na przejeździe kolejowym w Wielkopolsce. Nie żyją cztery osoby - poznan.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2FwZ2RqWTljSXB0NkphWlVvdEVsMEw0eVhJTlI5TkxWX1JwaklsWXo0QzNaS3VtdjZfcmlkdEJSZlJxdElRQ2E4dHBIUmdCLUVPbEdRd0QyVnR1WFFjOFlCVzFkMXB1WDVMQ1hiRDl0S2R0V2V5WHJMRW5GUVdiYVJOVE50eFpoS3dteHZFQktwSGFJSWswdllxVHNCLXRBMnBJTDZaamJLeUhkQXlYWFZGM0hYTTl5?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-16 07:13:41",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "Tragiczny bilans długiego weekendu. Ponad 170 wypadków - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamV5QTFVR0EyRFFROUdMUUJ2T0RJTEV1S3R0dUJWVzVvMjFkNXljZXhDV1Nzc2d4ODJUQ2RFWTdSUXFaVHV3VTVRR08wdkpyVTBCcC1ZU01uazk5TGtEb05Lamh3WHgya210SUlvT1VJNDViYUQwT1lIZVM5X3RNR29Ua2QwMWg5Sy1aNmtGY3YtMTFIazh2SkJQaVJoZUtta1Fv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-18 12:16:45",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6434,
+      "EUR": 4.2558,
+      "GBP": 4.9354,
+      "CHF": 4.5135,
+      "JPY": 0.024725,
+      "AUD": 2.3736,
+      "CAD": 2.6412,
+      "CNY": 0.5075
+    },
+    "crypto": {
+      "BITCOIN": 419297,
+      "DOGECOIN": 0.810007,
+      "ETHEREUM": 15618.96,
+      "LITECOIN": 424.44,
+      "RIPPLE": 10.8
+    },
+    "indices": {
+      "^WIG20": 2944.62,
+      "^WIG30": 3791.87,
+      "^WIG": 3792.06,
+      "^NCINDEX": 257.95
+    },
+    "news": [
+      {
+        "title": "Bez Tuska i Nawrockiego w Białym Domu. Tak to tłumaczy Pałac i rząd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFF3cE1ZbENhaS1IX1BKdzlDdDF0ZnhDN2xNUG9LOFFVckhPbkhnR2xmUkZHMmpaX2ZieVF6MGEwaGVqRF81ZF9EYjBqTk9wZzU3RGx0VXNjem9FMGZRd0ZTQjJ0a2kwMFdXU3BOUUl3MnRjTlQ4ZlZyaE01dlVGYWIzOC1rSWIwSllJQ3ktN25US2JycUxRQXJtZEtDZ2ZqZF9VeGpVdjNITF9UeVRkZW5GVm8tVEtMczZ5dG9n?oc=5"
+      },
+      {
+        "title": "Robert Bąkiewicz usłyszał zarzut. \"Polityczna hucpa\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGNOSjl0YlUzUzYyS3gtVVRlY0EzSTJsM0FrQXM1dHczcF9la0s1eS1pTUJLbXc4dUhqcXdFbmVjX2d6ano4RWdmRjJMTnJJQm9OR1NBSDNiVUdVRnA1cFVmRXlCOFdVUmIzMGZBMWlGOTB5djl2blk3N3pkcS16TU1zVFFVNWRtRkFzdDU4MTdiNll3ZG5qNHdySjZ1bVNTN1p2ODB6SDZrV1NlUVpv?oc=5"
+      },
+      {
+        "title": "Czy Zełenski naprawdę może zakończyć wojnę? Donald Trump ujawnia zaskakujące warunki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRwUUtCVklGdmFBeElhMzNkV2Y4TTJEY3M2N2pRVldqUXNMc3ZMXzEycmpRckE2VUptNmxzUWZOU25peG1QOGxMa2tzWHByVldBNkk5R0FfUXRfYVFWLThqeXlwcXM3T0Y3MVA2bTlyeXpBbElIeHAwZHZacEtzUGRUeUJDRjVNWVFrUURIdXlHMlhsSmVhR2RxSXg5LVc1d1IzWkhqN2xEcHJDZnJkZDdfaDB4MWVFNjBPTFBXTm5uNDQ?oc=5"
+      },
+      {
+        "title": "Rozmowy Trumpa i Putina zakończyły się nagle. Ekspert: muszą osiągnąć porozumienie do tej daty - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWh3TzBtSkRidVI2NTJXem5VanBjUlZUNHNQbUwwbVNJb3Y5eXFuamNXN09mdEYzbi1yOUZsMl9GZGVIUHQ3aVRzbHRJNE9KVHFuUFJqc2xLZFpBM1NVYnA3QWNQVllqSEdLVXBYUktsVzY1UDFvUmdkU1l1Q09nd0dwcU01VUR2bkcwUll6NEhpNWJ3YmlVQ2Fmc294UFkwUWJPQQ?oc=5"
+      },
+      {
+        "title": "Żurek trzyma się planu \"reaktywowania\" starej KRS - wPolityce.pl",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWhiTEpwVktVT1lSRF8xeW5NNTNoYkJITTY1cFJIUTQ0ODFaOFFkM0txOXNJMW1jU0E4OEVQbkVCOTJfTVoyVFNmbTY1UkNEa0dwc3cxMEJWd3FmMWdlbUNjNEJ1dlNCbEpPVFEyYXJGZ21oeE5VS2VDNWtJVTZEeDJmRlJ2OXY2cmhUaQ?oc=5"
       }
     ]
   }
