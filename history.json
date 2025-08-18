@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-16 12:13:09",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 427296,
-      "DOGECOIN": 0.842805,
-      "ETHEREUM": 16014.79,
-      "LITECOIN": 432.26,
-      "RIPPLE": 11.43
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "Niemieckie media o szczycie na Alasce. \"Putin jest wygranym spotkania z Trumpem\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjFSSi04WGtsMW9vRjZpTHpuR1luR09jNXBfeHF5dDdjbzFCTm54cWJFMkZ1YUFUYjRmWWNBZXRqMmJUNlZYamhWTjRDaDhyOU01Qno5ZWZmTm51SlZLOXo5NzU3R21peTJYMEZrcjlPSGJyNXFzQ1hmaVVUY2RValhKODFfZ0NzWmFzQy0ydThVaG1qMnhHNUw3Nl9Kd1BlYm9CeGNFZVlGU0h1b2lpbnFfTklKOXRhWXc?oc=5"
-      },
-      {
-        "title": "Donald Tusk zabrał głos po spotkaniu europejskich liderów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkg5d3BOUnVUTlJEX0RCQ2dMY2xnRVF2UXpnTlpQaktsYXVTUy1vbkxYd2U1N21lTV9nUGpwN1huNmhteTV1RHhkaWdZMWp5cmZZZktPQW16RHgwY2MxNk1fN1VzdEU2NkZWdktEcUpEUUNTSTFUUW1YYjZadGZ4Nkk1RnpPTUw5b0R4dnNvVERKaHhFOTBiZnVYSXl0Sk8tQklYd2ZEVENpOVk?oc=5"
-      },
-      {
-        "title": "Zełenski wysłuchał Trumpa, jest decyzja. \"Lecę do Waszyngtonu\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNm1ORG4zZHlla0llelppVWJ2RWlLTUoxY1VyYmtXWGVqUkNqX1NLaXlfb0YxTzdGNWQ5eGh6QkIyNTIzSkEyWWlhWnBCV3NrcjRScDdvdWdXYjB3N1Q2cTMtMVk4NWJIWm95Q3FCaEpOOHJ4VzNfeE9BT2hYTzlZOHpoeFNJR0FHUVRXaFhqZHFKTzNsaTd6TVRBTUw5d0xKSGd4VTFNWTZvdw?oc=5"
-      },
-      {
-        "title": "Tajny plan NATO na obronę Bałtyku. Eksperci podzieleni w ocenach, wskazują \"linię rozgraniczenia\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOenN6R3RERkwxOXpJbk5MNC1WV25IdlE1WE5Yc3dfTTJMT3ZTcFFNYWM3VmFMV3hIMWlJU0t1YnMzR2FHQ2t2Y21aLXBDNDN3aEdOaGVEU0Q1anJYTkQ5RnlpN2JOUWtQZ2YwWWpaUktsekJ3SEcyZWtFek12aWtYMTJhUzNkczBLdW9iN2luWEYxTWQ2VDdxQTFkX1VmcVh1N2xoY1BoMHB1X0pCLXBMbVVKbw?oc=5"
-      },
-      {
-        "title": "Media: Melania napisała list do Putina - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRU8tTHNPT05sSzJta2k5ckE4WTRESUZHRUFpUEh1d0VqUHpCbjd0SzgyQjBKcU1tR2RlNzQtbDZDSnZFQkpkYkVVNjV6ekEzajNfZlV1ZHFVNlZFNDVmZXpJUzNBRS1oc1lxNEFlVllUQzNyZmQ0MU4xRDdsUy1sdHBKQW1aeUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-16 13:11:03",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "Nowy sondaż poparcia. Najbardziej zyskują PiS i KO - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXNIeXp5T2tlaGJuNmlxNmt2N0QzZW0yYW96MVhmamttMHJFVHItOXpDRGJUMzdLVEdkN1JzcGZXSWMxa0p3LTQzUDlrRXNta3RPd1hidzJJNXNmM2hGYUFuQ1NjRDl3T0RpRXh6eV9PRE1Vd1JyWmt4TTNBWmhFQ1ZwZUJVNG5PS0lXZUFFLVNzZ1ktc2VNVkhSVGtvQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-18 18:18:32",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6434,
+      "EUR": 4.2558,
+      "GBP": 4.9354,
+      "CHF": 4.5135,
+      "JPY": 0.024725,
+      "AUD": 2.3736,
+      "CAD": 2.6412,
+      "CNY": 0.5075
+    },
+    "crypto": {
+      "BITCOIN": 422906,
+      "DOGECOIN": 0.813479,
+      "ETHEREUM": 15783.42,
+      "LITECOIN": 429.53,
+      "RIPPLE": 10.97
+    },
+    "indices": {
+      "^WIG20": 2962.09,
+      "^WIG30": 3814.74,
+      "^WIG": 3814.74,
+      "^NCINDEX": 257.38
+    },
+    "news": [
+      {
+        "title": "Dlaczego w Białym Domu zabraknie Polski? Błędy Karola Nawrockiego i Donalda Tuska - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnNXWVNlTlJ5WnV6QXBpVmt1cFVyaVRVcE50Sl9BV0gwWVVqbjhyYzdXd1JGOTJqdEhEUTlJNE1KWVdZLWY0Ni1JUWVMRmNBc1d0ZEM5Z2NDV2FqMDFURFhueHpRVmZfLW9rdXlCNGhZbEwzaDFUaVI3empUQzRSU0ZIaWF3Ml9wOEwwVEo5eEs2WFJaOS1BOUEzSkVJNjluT0JmUmR6aDVQNWdwWnM1NlNHVzFFRjZp?oc=5"
+      },
+      {
+        "title": "Szczyt w Waszyngtonie. Jest ruch przewodniczącego Rady Europejskiej - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb05lQnU2UFZZQzdvUEZRXzkzcHBlZkM0cUJfQU10ZFBrbFpLTFQ5dnYyT0Z0TkNlVm1tWG5LSmVZUHRNa0FrYTVtYnRhaUtKci1jMVdYR0ZibF9zZkxLSEJqM0lnMDFwMnJEQ1lpUmc0WlpVVXdOTk5oVEpScWNYVEVtYUE4Rzl6QnAySFBIeExtZHhtMmVMS2RIdVotUEZQV2ZyRnJlekNSNjBxQjRCX0tRLU53cGFkSVhlOXJFYTRGMzJVd3RSeQ?oc=5"
+      },
+      {
+        "title": "Tragedia na Mazowszu. W zderzeniu z cysterną zginęły 4 osoby - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3hrMkpBZGlvcHBVOFFwTmROY2dzRmhqMC1OUVlYRENTb2dlNk5iMzlJOFZRZWg1VnJpc2g2d2tMWDdPTUE4NXpvWkdySm9wNGlkZU9KQnVZc0dud3N1dmhEWjN5dVlzejdmRDNoMDIwTXBiX0FfeWhvS2UycXR5aXc5UVg2Q3g4dWJVbnJNNzVnTi1JOFJoMXpBTTc0SnVYM3ozSmtFSWtYZG5sM0Vkam5BSHHSAbgBQVVfeXFMTlpVSlJPbS1HODByaVNhQ2hLanRvSENIU2EyOVNONmtvQmNCbFNzUWR5Nm9KbzVHbGs2d3JLcEh0dkhsNHZIbDhvbXprUHJTckQ5Qmh0QU5HVElGa0dISG1mY3VseUk1dzRXX2dKVWp2Q0xQX1hYS3NFSUhRbTZNOXJzSjJDNjVJdE5jdHFtWGpfUFlTcDdfOTd1ampMVk5uQVMzVXkyQUw0LVdOZXAzVDdjcUNlOUVmSg?oc=5"
+      },
+      {
+        "title": "Mężczyzna wyszedł przed dom. Tam zastrzelił go myśliwy, który \"myślał, że to dzik\" - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KcWptbUQ3R2VNcGxfellibFJtbXRhUkRGWFBDWERHTlhHcDlMZnpWbkM4dWFQY3FPSURMeFRnMzdNVVI0RHZ2bkNEclUtOXNubjY4bE5QcXRTZmNJRjdQS2hpLWdTLVpfSzlSeg?oc=5"
+      },
+      {
+        "title": "Zełenski nie odpuszcza. Kolejna twarda deklaracja [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3ozMlpYZTN0SWNhMURtbUpRLXlsREJKdU1WT0loTU5sUS1SU3RWTDBEeVhfUnJsd2VacllIRUdqQjZQQ1ZWcEFSc3RSVmplM2F5SlIwcXYzU0dYT1A3ZzdYbWJNbHBfdkR5bkhCUGdGZ1JVUHBSYlhoSTdlVnFMR0w0V1ZsczFsV3dmV1N6ZVpPcXFkQlVNVEJLQmI5bTh4OENpUVZmMDQ5VjlPMnM0?oc=5"
       }
     ]
   }
