@@ -1,37 +1,5 @@
 [
   {
-    "timestamp": "2025-08-16 13:11:03",
-    "weather": {
-      "Warsaw": "Warsaw: +28°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +22°C"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 427615,
-      "DOGECOIN": 0.839001,
-      "ETHEREUM": 16070.27,
-      "LITECOIN": 430.83,
-      "RIPPLE": 11.4
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": []
-  },
-  {
     "timestamp": "2025-08-16 14:26:38",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2625,6 +2593,59 @@
       {
         "title": "Zełenski nie odpuszcza. Kolejna twarda deklaracja [RELACJA NA ŻYWO] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3ozMlpYZTN0SWNhMURtbUpRLXlsREJKdU1WT0loTU5sUS1SU3RWTDBEeVhfUnJsd2VacllIRUdqQjZQQ1ZWcEFSc3RSVmplM2F5SlIwcXYzU0dYT1A3ZzdYbWJNbHBfdkR5bkhCUGdGZ1JVUHBSYlhoSTdlVnFMR0w0V1ZsczFsV3dmV1N6ZVpPcXFkQlVNVEJLQmI5bTh4OENpUVZmMDQ5VjlPMnM0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-18 19:14:32",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6434,
+      "EUR": 4.2558,
+      "GBP": 4.9354,
+      "CHF": 4.5135,
+      "JPY": 0.024725,
+      "AUD": 2.3736,
+      "CAD": 2.6412,
+      "CNY": 0.5075
+    },
+    "crypto": {
+      "BITCOIN": 423917,
+      "DOGECOIN": 0.809624,
+      "ETHEREUM": 15797.33,
+      "LITECOIN": 428.55,
+      "RIPPLE": 10.99
+    },
+    "indices": {
+      "^WIG20": 2962.09,
+      "^WIG30": 3814.74,
+      "^WIG": 3814.74,
+      "^NCINDEX": 257.38
+    },
+    "news": [
+      {
+        "title": "Spotkanie Trumpa z Zełenskim. Biały Dom miał pytać o strój prezydenta Ukrainy - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTElUR2p3cDM4VjIyR1NvZ3YxZkl3SGpmd3lpTktVZUF3cHNubmoyR2FmSnp3UVVjT0c1SjR6Q2hUdmg1YUpTWkotaEpSdHo5OC1zOFpVRkswT3lTNkIyQkJOVUdFcWgzZkRSQW1oaVJuVHNPbmV4QmstT1RORUdUcmI5bkFKSmR2Ti1HWURnb3RHYzQtQ2IwbkN3SVI4TERpNG82OGlnZE5ib2M0eU92bDJBWQ?oc=5"
+      },
+      {
+        "title": "Dlaczego w Białym Domu zabraknie Polski? Błędy Karola Nawrockiego i Donalda Tuska - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnNXWVNlTlJ5WnV6QXBpVmt1cFVyaVRVcE50Sl9BV0gwWVVqbjhyYzdXd1JGOTJqdEhEUTlJNE1KWVdZLWY0Ni1JUWVMRmNBc1d0ZEM5Z2NDV2FqMDFURFhueHpRVmZfLW9rdXlCNGhZbEwzaDFUaVI3empUQzRSU0ZIaWF3Ml9wOEwwVEo5eEs2WFJaOS1BOUEzSkVJNjluT0JmUmR6aDVQNWdwWnM1NlNHVzFFRjZp?oc=5"
+      },
+      {
+        "title": "Mężczyzna wyszedł przed dom. Tam zastrzelił go myśliwy, który \"myślał, że to dzik\" - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KcWptbUQ3R2VNcGxfellibFJtbXRhUkRGWFBDWERHTlhHcDlMZnpWbkM4dWFQY3FPSURMeFRnMzdNVVI0RHZ2bkNEclUtOXNubjY4bE5QcXRTZmNJRjdQS2hpLWdTLVpfSzlSeg?oc=5"
+      },
+      {
+        "title": "Nowy sondaż poparcia. Najbardziej zyskują PiS i KO - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXNIeXp5T2tlaGJuNmlxNmt2N0QzZW0yYW96MVhmamttMHJFVHItOXpDRGJUMzdLVEdkN1JzcGZXSWMxa0p3LTQzUDlrRXNta3RPd1hidzJJNXNmM2hGYUFuQ1NjRDl3T0RpRXh6eV9PRE1Vd1JyWmt4TTNBWmhFQ1ZwZUJVNG5PS0lXZUFFLVNzZ1ktc2VNVkhSVGtvQQ?oc=5"
+      },
+      {
+        "title": "Ojciec i syn nie żyją. Alan G. złożył wyjaśnienia, trafił do aresztu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXQxRFg5WVdVdnloLWRXdVo4NjQ5OFBHY0lMWTgxcG12dnpRdXVKNXg5T3o1XzFlZ3IwTjNvOExHMEJrTXdtOC1CYWx6dXoyZ3B0eU1BLURTMEhHUEdOMURFX0hLNUZlb2ZidzZBc0JPcU1Ra3VzZUwxaHB1akVMd3NYZ0dzSWY1QnRFYXU3Sk40MlBRbDAyVzVjVkZRQzRMVmFwS2cxSUFEeWpH?oc=5"
       }
     ]
   }
