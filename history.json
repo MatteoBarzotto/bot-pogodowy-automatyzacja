@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-17 08:20:27",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6542,
-      "EUR": 4.2639,
-      "GBP": 4.9592,
-      "CHF": 4.5296,
-      "JPY": 0.024934,
-      "AUD": 2.3846,
-      "CAD": 2.6518,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 429812,
-      "DOGECOIN": 0.852285,
-      "ETHEREUM": 16306.77,
-      "LITECOIN": 443.81,
-      "RIPPLE": 11.38
-    },
-    "indices": {
-      "^WIG20": 2949.71,
-      "^WIG30": 3791.13,
-      "^WIG": 3791.13,
-      "^NCINDEX": 256.57
-    },
-    "news": [
-      {
-        "title": "Sikorski o spotkaniu Trump-Putin: Nie sądzę, by zawarto jakieś szczegółowie porozumienie. - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE1iSGJpUlJ6RHRfSzJWRndzZ1BMaGx0a2F0TjBIV0VnVHd4QjJlRWFjWmhxbU9xd2xpTjl1WS1fLVJNQlFqc25JN0xoQ1dZbWZJWnF1cmF5b3F2aEFzeURaa0xHMnhmVjliTW5Ib0UtVXhtM055NFhYb1d3QThDSVFMZDkxYWZaODczYks2ZUdCU1hQNWhTcndYNXVhbWNhNzFPN3ZjajZWcldjekRRcHdrVGM?oc=5"
-      },
-      {
-        "title": "Spotkanie Trumpa, Putina i Zełenskiego. Jest możliwa data - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDY5bDBPdnZqMTAwSUpFTWtWc3VkeTNEc29UN0M4WS14QjBwS0kwYXRvdmpKQXdBcElHYjhmUmVPRHFpWVNIRzA0MmtLNHNRVlBSQUNIVEVtOGExaWpaTUpXdUtTSDE0YlVwN09jc0N4SzRpOTF5VW1mY24xNVBLbXFCbWZwcFVJNHd2YlFBamstS0FTaWhiU0dZc2I?oc=5"
-      },
-      {
-        "title": "Redaktor Polsat News odnaleziony. Wyszedł do pracy i nie dawał znaku życia - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYy1iLUFoZmRCZE4tbTZWM2FWdXB3YVhRZVd4UG9STWZWaEEyMW5XclpjbDdmaE5zT1lTcGJvWGE2QVI1cVg3d1pBOGRHZVVzRnJiZzZ5cjJsRXI4eU81amVuaG9WRlluME45YkY4dXZKZnh4U2hOMWZFUjhaTHdfRTVvczBkcWk3VWszN090dFFPZ21jMHpzNjJuZ0hQTFRhZnJERzkwX052MHNrQXN2bXRIU3UxVFdKdWRCQw?oc=5"
-      },
-      {
-        "title": "Tajemnicza przesyłka do Władimira Putina. Ujawniono treść \"listu pokoju\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXNEcVFLdGFLS2taRk9ZVlA4WnFYRTFIbHJGbkFhU2NpTnZLczFlQnlYUzd3eTVNNDF4THRJVmkzaE5jU082R1NjeTQ4UHdyMjY3bFFkcHRsMUwzY2ExUlYyaTlTdmVUYTdVMUczbklXU3llaXRqSTlQd1VYRGdQV0FxY3FELUZyMmhsaDR6YVRjX0NzalZZS29zUWRwY3czLXc?oc=5"
-      },
-      {
-        "title": "Pałac prezydencki komentuje spotkanie Trumpa z Putinem. - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakhCNmFYODdzeG1oRThiTkM2UG5Nc3JvSzljMDgtOUtDZV9tNG12NGN3QklZd3JfN2ZoZUFOVm1IU1E4UGg0eVdJeVk5cXdFWV9OZTl2c3l4TDlNang2YVpIS2x6cm9BWnVWVlNwUTFoZ1F4VTdtM0trblBLQ2RBZTFrcUdfWGRITzMzQXdNQTJrU21qb3FmeXVHZVhwRFNXVDFEUGNMYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-17 09:12:41",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "\"To sprawa między mną a Putinem\". Zełenski po rozmowach w Białym Domu - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2toLWx4OXhZMVl5ak9QdTZNUzFmV2I1SURlX2sxZHlETWRrQUFxMnMwQ3U5aHZSNHNRMGRLcGFOZjVLbHdObElaaE10Wi1jS0hLSWdYaVRWdzV0d1BaeEE1MWxKVVg5TUVobkhqVEF0Q3lIQUwtV2VMWng3UzhCU05MWWMtai1naWgtXzBOTUgxVlFqcDhWaTd0NG9Bb2Jpd2pF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-19 14:28:45",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6332,
+      "EUR": 4.242,
+      "GBP": 4.9123,
+      "CHF": 4.5077,
+      "JPY": 0.024605,
+      "AUD": 2.356,
+      "CAD": 2.6293,
+      "CNY": 0.506
+    },
+    "crypto": {
+      "BITCOIN": 419968,
+      "DOGECOIN": 0.799956,
+      "ETHEREUM": 15663.0,
+      "LITECOIN": 421.46,
+      "RIPPLE": 10.96
+    },
+    "indices": {
+      "^WIG20": 2977.44,
+      "^WIG30": 3838.67,
+      "^WIG": 3838.67,
+      "^NCINDEX": 256.86
+    },
+    "news": [
+      {
+        "title": "\"Najlepsze spotkanie\" Trumpa z Zełenskim. Co ustalili w Białym Domu? [Podsumowanie] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFN5ZG5DWTVkdG1yVWFMY0R5UlI1U1FoZk9VSWZaQjQ0MEZGMWZ3a3BnUTVCdS1objJac3REMW04Qi1JRURSWjNULUhaNXVaYlgyVzNjSkxWcll3YW1mZFRRTWRMZ2liN0ExX0t5dk5ISHdYamIxYl9ZSDJ6ZVdwT1JrMENzV01KbWVhMzFoMjFiYm52YXVTWkRsYUJLSXJiRGVJdUtKdHFDcDZnamxJMThPZXcwdnBXdEE?oc=5"
+      },
+      {
+        "title": "„Dziadek Tusk” ma być jak „sleepy Joe” (śpiący Biden). Nawrocki kopiuje strategię Trumpa - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5OEFjLXhQb3BGUGRyUlREVVZYeG5rVGhXbkNEOVAyWjc3UUR1TmdkRk1zYWNSSHlLZEdCWldqMERDVnp6Qm5hZFFOMWhkVWxrUVY4ZXZlVzZwOFNCdmVHUmhxcmE0eXZzRUhWQW9fMGdjUQ?oc=5"
+      },
+      {
+        "title": "Zełenski podziękował Polsce. Odpowiedział na wpis Sikorskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb01PN2wycHRGcGM3RmxoVnE4bnhyMXgwLUxBUkpIS0VsU1lReDh2UkdFZHJLX18zME1MYVB5S0tJZ082dV9JdlVSWHh3aUVQWE9DUi00VmplZXRlOEk2X1JJcU1WRzNGdkVtMnZlcVRNSWVtdF9hbERORzhTQzNwSzk4WFlSVEluaV9nM2hGMlJqNUxaQWUyUFlEZ2ZUTGpmWVZrRUFn?oc=5"
+      },
+      {
+        "title": "Żona podejrzana o zabicie męża. Świadkami zabójstwa były dzieci - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDZBY1luZzhMcnlQTlFONVdBdFVBLTd3RjlOZUFHT1NMMjBTSmtkUXUybVFKYkZQVzBvQmRiaW9XaTZZNmdnRFRHMFlWam9ZMmJGRWplbDZwNUVPX2ZrSlRRdFcwUzdVQVdDTVVrbmdfZDFLc3RpU1ZYMWhHS3VrZkVmX0lTUlN5MzQ5d3BJdkNySDNSX3JoaUgyNGhZdms1N2RMalF2Tmt0SXhEWVE?oc=5"
+      },
+      {
+        "title": "Dramat w Łebie. \"Koloniści z opiekunem toną w morzu na plaży niestrzeżonej, 100 m od brzegu\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXk0YU5OaFJnaWlZWS1RUHhQUTE1WURoaXpzYUZzMmUxM0JqWDZxVnFia2FCbmEwQ2MxQUQwZHdYNjhHSV9mVXo1cElPZjJHTzUyblZKVzl2YVgtMndTMExMZmJUbWdWOEp2bE5tVjFPNklPMDYxN0tjMXFUZ05MRjFrMTl3YmZOaE05QkpJVTlGZWs4c0x2aVJzbDBOdklyNS1kR1VYMVVJand5YzZ2dg?oc=5"
       }
     ]
   }
