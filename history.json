@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-18 12:16:45",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6434,
-      "EUR": 4.2558,
-      "GBP": 4.9354,
-      "CHF": 4.5135,
-      "JPY": 0.024725,
-      "AUD": 2.3736,
-      "CAD": 2.6412,
-      "CNY": 0.5075
-    },
-    "crypto": {
-      "BITCOIN": 419297,
-      "DOGECOIN": 0.810007,
-      "ETHEREUM": 15618.96,
-      "LITECOIN": 424.44,
-      "RIPPLE": 10.8
-    },
-    "indices": {
-      "^WIG20": 2944.62,
-      "^WIG30": 3791.87,
-      "^WIG": 3792.06,
-      "^NCINDEX": 257.95
-    },
-    "news": [
-      {
-        "title": "Bez Tuska i Nawrockiego w Białym Domu. Tak to tłumaczy Pałac i rząd - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFF3cE1ZbENhaS1IX1BKdzlDdDF0ZnhDN2xNUG9LOFFVckhPbkhnR2xmUkZHMmpaX2ZieVF6MGEwaGVqRF81ZF9EYjBqTk9wZzU3RGx0VXNjem9FMGZRd0ZTQjJ0a2kwMFdXU3BOUUl3MnRjTlQ4ZlZyaE01dlVGYWIzOC1rSWIwSllJQ3ktN25US2JycUxRQXJtZEtDZ2ZqZF9VeGpVdjNITF9UeVRkZW5GVm8tVEtMczZ5dG9n?oc=5"
-      },
-      {
-        "title": "Robert Bąkiewicz usłyszał zarzut. \"Polityczna hucpa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGNOSjl0YlUzUzYyS3gtVVRlY0EzSTJsM0FrQXM1dHczcF9la0s1eS1pTUJLbXc4dUhqcXdFbmVjX2d6ano4RWdmRjJMTnJJQm9OR1NBSDNiVUdVRnA1cFVmRXlCOFdVUmIzMGZBMWlGOTB5djl2blk3N3pkcS16TU1zVFFVNWRtRkFzdDU4MTdiNll3ZG5qNHdySjZ1bVNTN1p2ODB6SDZrV1NlUVpv?oc=5"
-      },
-      {
-        "title": "Czy Zełenski naprawdę może zakończyć wojnę? Donald Trump ujawnia zaskakujące warunki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRwUUtCVklGdmFBeElhMzNkV2Y4TTJEY3M2N2pRVldqUXNMc3ZMXzEycmpRckE2VUptNmxzUWZOU25peG1QOGxMa2tzWHByVldBNkk5R0FfUXRfYVFWLThqeXlwcXM3T0Y3MVA2bTlyeXpBbElIeHAwZHZacEtzUGRUeUJDRjVNWVFrUURIdXlHMlhsSmVhR2RxSXg5LVc1d1IzWkhqN2xEcHJDZnJkZDdfaDB4MWVFNjBPTFBXTm5uNDQ?oc=5"
-      },
-      {
-        "title": "Rozmowy Trumpa i Putina zakończyły się nagle. Ekspert: muszą osiągnąć porozumienie do tej daty - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWh3TzBtSkRidVI2NTJXem5VanBjUlZUNHNQbUwwbVNJb3Y5eXFuamNXN09mdEYzbi1yOUZsMl9GZGVIUHQ3aVRzbHRJNE9KVHFuUFJqc2xLZFpBM1NVYnA3QWNQVllqSEdLVXBYUktsVzY1UDFvUmdkU1l1Q09nd0dwcU01VUR2bkcwUll6NEhpNWJ3YmlVQ2Fmc294UFkwUWJPQQ?oc=5"
-      },
-      {
-        "title": "Żurek trzyma się planu \"reaktywowania\" starej KRS - wPolityce.pl",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWhiTEpwVktVT1lSRF8xeW5NNTNoYkJITTY1cFJIUTQ0ODFaOFFkM0txOXNJMW1jU0E4OEVQbkVCOTJfTVoyVFNmbTY1UkNEa0dwc3cxMEJWd3FmMWdlbUNjNEJ1dlNCbEpPVFEyYXJGZ21oeE5VS2VDNWtJVTZEeDJmRlJ2OXY2cmhUaQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-18 13:13:22",
     "weather": {
       "Warsaw": "brak danych",
@@ -2643,6 +2590,59 @@
       {
         "title": "Wielka Brytania rozważa ochronę ukraińskiego nieba i portów - Defence24",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWsxTC12UE1sOUNnc3U0TWN0bHBXc2d5eEd5eFlrNmZ0MjY3MUFDMVl0am04LXpIRk9iOGhrUkhJcEwzUG52ZnVZNWVDUF8wbENSVXZaZVdQZzJSMUlvWEhZTlowRVpFY2laSnU5cmRsRkQxNnpLZS1mcWlyU3BPaWtvNm9mMFJSNmQ3My1RVkpIQ004bjZPUExJWGNrc3dUTGxFWDR1N3UwUFVneEtnUnl4SmZaSDVRd1BQLXFTNllNMWc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-20 18:17:18",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.654,
+      "EUR": 4.2524,
+      "GBP": 4.9329,
+      "CHF": 4.5226,
+      "JPY": 0.024758,
+      "AUD": 2.3508,
+      "CAD": 2.6327,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 414683,
+      "DOGECOIN": 0.791065,
+      "ETHEREUM": 15678.32,
+      "LITECOIN": 422.28,
+      "RIPPLE": 10.63
+    },
+    "indices": {
+      "^WIG20": 2982.29,
+      "^WIG30": 3843.99,
+      "^WIG": 3843.99,
+      "^NCINDEX": 256.5
+    },
+    "news": [
+      {
+        "title": "Jak dron wojskowy spadł na pole kukurydzy? Oto polski system zabezpieczenia - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemZTcUtTNGtCRnpNdFBoSkQyYTRHLWxPVmhZc1pST0JLXzBLbnQtamVYVm93RXAtaXBVUTdWdlZBM0w4Ti1NUUFPaElqc1JMUmxNaHMwWTcwNkMzT1g4MVZ4bXdlVC1OSFdyMUVTUUxicWh0TXI5d0FvMGNIbXd3dnB0bTFnVjNlQVhpLXlMWHd3QWdRYVNMdDhnb3B6NVhBa1ZEWER2TGtJaU1mTUhXTDJJdw?oc=5"
+      },
+      {
+        "title": "Polował na dzika, zastrzelił człowieka. Myśliwy to syn potentata z branży wędliniarskiej - Lublin.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkZmY051NG03VXZiSzhVNVFlSXhZVUdjQ1VUdDhyeFdPX2ZRTTZEbEEyaDZvSlJsNVgwTzVobi1FTXQ3dlNNYWJkZnZVQjZ4TVVTWUdGSnRzUmd4VkxTS0YxWkVHY1UzOEdPTUlQMkZqV1llT0R1dFJ0UDUwT05mZ0RLcWdidXJIbTc5TmNCdjFXODdEYlFfTnUtUUtDY1ZhQm44b3NQa2xBNUpfZVczbHRJWTFCSk1ydmc?oc=5"
+      },
+      {
+        "title": "Donald Tusk zabrał głos w sprawie spotkania Putin-Zełenski. \"Spróbowałbym znaleźć inne miejsce\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMUZXOUlTWUZ2ZUowOTBBTktuZGMzMGo3cnV3XzZYZmZTUVhnVld5NVVpSElIeXZxZGlvUXZXWlNsUlVGV2ZEVElZcXBRWkc4YUZkeXpKSGpuemtfeUd1a2VQZWV3QmMyNExNSU01MFpDaHAwQk5yakRRcFJleUh6VkVUc3hzVTNSQXppd3JQeTBRd1NMeXlvR055Q3FnN2JuVXJEcFAwQ0QxQk5PZnR2eDNrcmwtX1NSNXFiRFNOQmFPazctVHRmYmk3ek5RblNqMDV1cXNzVlROLUxaWFNvNw?oc=5"
+      },
+      {
+        "title": "Szczyt na Alasce był pokazem dla rosyjskich elit. Media: Putin wysłał jasny sygnał - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVFlzTzdYS1U2REJWYzVYS1VmMmxUZWt4N0xpNUdDTklUSExHd1RhU0luLVNuazhySGctYzNfTU41VFl3VVNoYjBkN2NLOEJUNmFRQ3k1em1zZW8wTEY3WExUT2VPT1FZd09JOEFfaVB1R1dhNjVDX0Y3cG9HWWpaMXJTQWRZUExjWVFYQ1YyMkRnR0RDeDZQUHZ1LTBGNTVfQU9mZk9MZ3pJTktDaXJlMDJERkxlWnBGc2lodFVkNi1KMXBMOHBCVkFBMGpRSUZJ?oc=5"
+      },
+      {
+        "title": "Od września w szkole dwa nowe przedmioty. \"Po co dzieciom dokładać obowiązków?\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejNwYTlpcnlKenJuXzBEWkJSYXdsSVdCYml6cExfMmUzazg1bFplZGxHZHEwT0VGT252SHZiaU9DSm1mXzVncnQ0NTJxX3FYV3phbXJrNDVDcmRSZVdiNEU4YTZ5dFFMLXducXR4STBqUnhfaVRpWkdPV1RiN0E4bW9NNml4N1RtbHFOWVA0cE42eWhoeVpKYVU4VWFZV2lWTmplalpRY2FrbDJPU2xaRjVncGo2cmozeFA5S2QxZmZZY0hhcHc?oc=5"
       }
     ]
   }
