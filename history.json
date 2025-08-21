@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-19 11:14:59",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6434,
-      "EUR": 4.2558,
-      "GBP": 4.9354,
-      "CHF": 4.5135,
-      "JPY": 0.024725,
-      "AUD": 2.3736,
-      "CAD": 2.6412,
-      "CNY": 0.5075
-    },
-    "crypto": {
-      "BITCOIN": 419148,
-      "DOGECOIN": 0.79543,
-      "ETHEREUM": 15513.17,
-      "LITECOIN": 419.93,
-      "RIPPLE": 10.96
-    },
-    "indices": {
-      "^WIG20": 2972.57,
-      "^WIG30": 3831.75,
-      "^WIG": 3831.75,
-      "^NCINDEX": 257.12
-    },
-    "news": [
-      {
-        "title": "„Dziadek Tusk” ma być jak „sleepy Joe” (śpiący Biden). Nawrocki kopiuje strategię Trumpa - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5OEFjLXhQb3BGUGRyUlREVVZYeG5rVGhXbkNEOVAyWjc3UUR1TmdkRk1zYWNSSHlLZEdCWldqMERDVnp6Qm5hZFFOMWhkVWxrUVY4ZXZlVzZwOFNCdmVHUmhxcmE0eXZzRUhWQW9fMGdjUQ?oc=5"
-      },
-      {
-        "title": "Co ustalili w Białym Domu? To trzeba wiedzieć po spotkaniu Zełenskiego z Trumpem [PODSUMOWANIE] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkJkdHZ3czRTUHphR2NkM2lSdlJzamVTT19JVFE1clBvMkdMVTZjeHB6UTVhV2pOVlZjMjd3bnppS3JlTXhuRmZtN1VaeG1GMk1kMW5RU2h0djhrUkI3TUw4UnZfMGtTTlhlN05KZXZTclV0eGdZMFE1YjNkN1YzcU1MRE9zRW1ISW9rcHNhS2dyTTlXWUozZi00a014WV9lTzllUkQ1MA?oc=5"
-      },
-      {
-        "title": "Kierowca lawety uciekał pijany. Zginęło troje nastolatków - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQazJ0TVctZS0wUVFtUXMyeVh6YmVscXNJVUNVUWR5cUhFYkxQejBvTGJLcW1SdWNpNjY0akdHMUo0Q01ZRWl3clhCUm12NTRORkZGMmFpemlTNEl4LUNQVXJpMUQ5Q3YwYVBTdmNXT1ZDbFFITGFZWEd3X1NXVTlmSDFtNlBGOWc?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski mówi, jak powstrzymać agresję Rosji. \"Aby nastał pokój...\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG02bFBoVHhPNUM5ZU4xMngzRndFRGpIZFBEREFTaXJTTUxJZHdhQVVCeUJPcGV5SDJYcDJwMzI2QmRibm5FOVdnRThSTXVpNkdFRFRaNzUyT2JTUVgtNGM2YkNDYkRPMElsTzlLN0NFZllQOFNVaDZiZXJjYnhiaVZ4YjV6VVh5SXhBVFg0V0ZoWGJmYVdUc1U3em14ZUc3eTBXZXNnUHR5TUZNS2FqRUFuUXIwLWtDYlFXZHlCdWFNME0?oc=5"
-      },
-      {
-        "title": "\"Polska może być w menu\". Niepokojące słowa Czaputowicza [RELACJA NA ŻYWO] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObG1KcW8xemtVa1FuS3hLdmhSQjUtUmZ1MXdBVm9PSEZ4MGRsUV9lZmdnSmZyU18wSW1ZclhmQmNBMDF2R2pUUkc1b0ZtTlpKV0wzZXN6X05zZ0ZMVHEtOFhSQ214dW9TaFR1dFlDSUN0czBBQ3NhcDRhbVQ4OFNyclRocEhZMDY3YVpNTlZlZVYxQjFJSjJlVGI0dlpPWHBOTkh1aXRSTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-19 12:15:06",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Ławrow: gwarancje bezpieczeństwa dla Ukrainy tylko z udziałem Rosji i Chin - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWpvOXhhRUZ4VlZEdGk4QjhXN1ZnSWdVWjhWWEFXU1NtRzBuMjM0NHB5cF81RThyR3VYS1JRZDlFVVZVbkktcFJKX1J0OWhRdTdGS09UV1VFeHY2b2djdTd0UXh1VkRRNmdhVnlfUS1NaDNmMkNGY1VzRGZsT3o1ZUt6c0IwVGJKZm5Xb3RwVHRFWmhhYW1iakRiUG82bWdDa0V0TDRaSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-21 17:15:06",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6483,
+      "EUR": 4.2521,
+      "GBP": 4.9123,
+      "CHF": 4.5307,
+      "JPY": 0.024718,
+      "AUD": 2.3437,
+      "CAD": 2.6292,
+      "CNY": 0.5082
+    },
+    "crypto": {
+      "BITCOIN": 413127,
+      "DOGECOIN": 0.791379,
+      "ETHEREUM": 15558.07,
+      "LITECOIN": 420.53,
+      "RIPPLE": 10.57
+    },
+    "indices": {
+      "^WIG20": 3020.22,
+      "^WIG30": 3891.94,
+      "^WIG": 3891.94,
+      "^NCINDEX": 257.83
+    },
+    "news": [
+      {
+        "title": "\"Nie\" dla ustawy wiatrakowej. Pierwsze weto prezydenta. Co teraz? Wiemy, co rozważa rząd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1R3U1ZPdzVlZTM2blphanZmUlFoc3VXUkYwN2RIWkxpb1U1c1RuUlNCVnozQVE2WmpPSTFnQjlaZWVUZS1vb3liSG15RE0yVmhDTzYtUGtfZDFmM0k1bVFsTFo0RGNLaUROSl9FZExYelQwQy1oYndHQVl0Q2E2RkcyTUhWV0paWU1kejVhTG1aNWF3eDRmc2JHbDBJeUxZY3djVUwzNmd5UkhjUkVhbUFjN1VnM1ZfeXZxbk9KcWhiUnppaW5n?oc=5"
+      },
+      {
+        "title": "\"Trump wycofuje się z rozmów pokojowych między Ukrainą i Rosją\" - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzdhTWhyVFlJZEkwNjZTYUVGeWM2YmlKazZXM3FGTHgxWTlCWUZkQkNRSURPdTNyeEhVQ2xLN2tLYVZSVHZFTWRKU3RpU2RTWlUzeXNCdUZKcVNfU0liTklkQWx0blhRWnQwUndSX0Y0bV9paE1STzdpY29TbmhHRFFfMGc2WTh5WHZoVWdEMUFkQmx0bUxLSGRieGsxOElUME9TVHdiOTRXTVHSAaoBQVVfeXFMT3VlY2NJaWZuQlJpeDNPT2Zqem1HYm5rSlNBMmpLYm1TM0hCbDdydTFTNHV1dEx4Tm1XbkhPTE1QY2ZBMDZIV1U3ajh6dlJic1h4SG5WM21xVEJVUXB0clAtSnVqQnFFV1V3Ti1TLTJYOGFWWHo4Qk9hdy1PbElkbWN2dEVhRnNadTJMb3VjZkFGOHRSdG1nSm03eTI3WWF5WkM2TkZNblZ1YWc?oc=5"
+      },
+      {
+        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
+      },
+      {
+        "title": "Europoseł przeprasza za słowa w Polsat News. Dziennikarka odpowiada - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGU0U1lJdE13aWdYR00tNG1QQ2czVkJGVmxub1g1NDQzWDM5RnpIQmNYS2NrODJVZlFIb0VxLWt6TkVxN3Z3T1JPZ3NGYkJSXzBsNmZmMDhjQVZtNkM2dXFuMWtTWVBJZ3lFZXhuZjFKRjROTHhFYWQ3WEZwTXMtdC13M0wyb2dyZFVrVFhKX3lqc0RuckRPN2NOZWJwT1E4UmhxbEFmaXhVM2h1NGV2endxV2NsTGVVV1RB?oc=5"
+      },
+      {
+        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
       }
     ]
   }
