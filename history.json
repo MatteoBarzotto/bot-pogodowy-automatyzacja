@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-19 15:25:27",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +24°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6332,
-      "EUR": 4.242,
-      "GBP": 4.9123,
-      "CHF": 4.5077,
-      "JPY": 0.024605,
-      "AUD": 2.356,
-      "CAD": 2.6293,
-      "CNY": 0.506
-    },
-    "crypto": {
-      "BITCOIN": 420692,
-      "DOGECOIN": 0.800994,
-      "ETHEREUM": 15654.64,
-      "LITECOIN": 421.27,
-      "RIPPLE": 10.96
-    },
-    "indices": {
-      "^WIG20": 2998.06,
-      "^WIG30": 3863.15,
-      "^WIG": 3863.15,
-      "^NCINDEX": 256.15
-    },
-    "news": [
-      {
-        "title": "Pilne spotkanie \"koalicji chętnych\". Nowe informacje - Wiadomości - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3F1VTlxUnk3MllXZWRwMjZZZUJyc0k4OWpuM2pCNHEtM2U4MnE2OFFkUGFZUl8tdy1pVEZoTGY1MGdwT2ZOV3RZd21yOFBObzlobnRWVmdTaE9LUFRTdWlaemQ4d1NNRFNvLWE0V0NFaFB6MFNpUXZ0M0Fhd2ppYklpOGJWTENtRzdtbXVnelhQTXRDS0Nfd0h3dkFadFdScjJKZGNENE5vVFlreHZpeWZn?oc=5"
-      },
-      {
-        "title": "\"Sprawa między mną a Putinem\". Zełenski zabrał głos ws. terytoriów - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHduTUxvenpoWnpEclZnQVVnellMbkR4Nmh4U3c5Yzl0M2o1MlFQa0UzNGd1X29KVlVPOEM4TWlCY3R4aDh2VnJWd1Y1eHBDR2FSM19kV01ZSmktY1lER3dNMllDbXV6eEU5aWpZMkN2SHBUaV9LZVQ0RGpHNXFINGdJS3M0Q0NWTjRFZU9GeDNfdlp6QWEtSDE3SS1WREQ3QzFaZ3k5VHpHazk0MFJaRGhFYmlCYkhJ?oc=5"
-      },
-      {
-        "title": "„Dziadek Tusk” ma być jak „sleepy Joe” (śpiący Biden). Nawrocki kopiuje strategię Trumpa - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5OEFjLXhQb3BGUGRyUlREVVZYeG5rVGhXbkNEOVAyWjc3UUR1TmdkRk1zYWNSSHlLZEdCWldqMERDVnp6Qm5hZFFOMWhkVWxrUVY4ZXZlVzZwOFNCdmVHUmhxcmE0eXZzRUhWQW9fMGdjUQ?oc=5"
-      },
-      {
-        "title": "To tutaj spotkają się Zełenski i Putin? Propozycja prezydenta Francji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTNRWF9TaWd4eG4yNHpjR1Jfdml4SVFoanNSd05EVVpMOF80SHRwbjNjU3Y5U0JRMWFxTnFiSE1sZC1EZm53Qmd0Um9MZHhhSUwtb1dzX1RKX2NMWGQ2MnNzM0NuUGJkNDNpd2RPbWFSUXNmaWdtcTVURUtrb1k3TmNVdGJvUFV3V2hmNmRnb3RPMVQ1em01bkJzM0xVS0N1S0NGblBzYVJYWHNRUWpLNWFSTHNYbGFWMmc?oc=5"
-      },
-      {
-        "title": "Dramat w Łebie. \"Koloniści z opiekunem toną w morzu na plaży niestrzeżonej, 100 m od brzegu\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXk0YU5OaFJnaWlZWS1RUHhQUTE1WURoaXpzYUZzMmUxM0JqWDZxVnFia2FCbmEwQ2MxQUQwZHdYNjhHSV9mVXo1cElPZjJHTzUyblZKVzl2YVgtMndTMExMZmJUbWdWOEp2bE5tVjFPNklPMDYxN0tjMXFUZ05MRjFrMTl3YmZOaE05QkpJVTlGZWs4c0x2aVJzbDBOdklyNS1kR1VYMVVJand5YzZ2dg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-19 16:13:52",
     "weather": {
       "Warsaw": "Warsaw: +24°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Akcyza na alkohol i podatek cukrowy w górę. Ministerstwo Finansów wykłada karty na stół - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTVNamFSSlJ1SEREaVZCdkxkYXBTREdKd0dmdmVnUFFHdFdqTm10OWRjaV93TktXQ0tOUkx4SGpnT3hsQTZMeFZTcWQzZWVJTzl1MzBhQUxLZnVXOVpSU0drMkNmNm9wZFpGQTUyT0RhMkJlbVhOVEZoWU1xbHdwSThGTmp1dWp0LVhJejlpZ2YwVWFGNGMtc3lpZ1BUSlpwdDRlSW5vR1FIWmlyTG5FQnlBV3FrNXlzXzRobFRxRS1OeEZSYU94TnpXc1lyOWltT3Jj?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-21 21:11:01",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6483,
+      "EUR": 4.2521,
+      "GBP": 4.9123,
+      "CHF": 4.5307,
+      "JPY": 0.024718,
+      "AUD": 2.3437,
+      "CAD": 2.6292,
+      "CNY": 0.5082
+    },
+    "crypto": {
+      "BITCOIN": 413123,
+      "DOGECOIN": 0.799627,
+      "ETHEREUM": 15656.78,
+      "LITECOIN": 422.85,
+      "RIPPLE": 10.69
+    },
+    "indices": {
+      "^WIG20": 3020.22,
+      "^WIG30": 3891.94,
+      "^WIG": 3891.94,
+      "^NCINDEX": 257.94
+    },
+    "news": [
+      {
+        "title": "Energetyka wiatrowa i weto Karola Nawrockiego. Eksperci mówią, co dalej z OZE - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3UtcHlsYTg4N2J4ZUR2c1BvRmhfbnNPS0JzUXo0S1J3M0ZVWEFBc01hT1BCYzRKS1pFT2Zqb05BMWcweG1NZkpQXzRCRmFDNFhLZEZMN3J6eVpfdVlVN0I5clpqWDFVZ2tZNGlqS21lemlfbzdtQnMtTmtNRFpFTTRCXzE1bXdJb3dqTm1hQjJvTzhkdHd5aVh6bFNFc2dSU2tGampUbmNDTGRtN0NIY1htZk0?oc=5"
+      },
+      {
+        "title": "\"Pozdrowienia z Polski. Co Rosjanie piszą o dronie z Osin? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRllfU3NQdkZsLWh0VFBQLUNIZUFmQ3BSQXFUZHRabjZIYVRscHpnRmg0S2NRM0RoeE5ZRXVDSlU4WE5YZVBWZ00wcVF5dEF0SGxkSmx6cldscV9LaXhxYVV4Q0dHaG1RYTF6dEJKUFFnQmppSl9BRlRMcDBSXzliVW5sWjNpLUtsT0FHUUxsaENBcGU1amV2d0djdEdjaHZ3bXVnVEo3ZjJHZFVZakw5QjJTM0VIOWdaWXFQT3ZB?oc=5"
+      },
+      {
+        "title": "Trump chce wycofać się z negocjacji ws. Ukrainy? Media: Może odczuwać frustrację - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHRoSC1UeHMxLXNYTVNNaGZuYjZmZlMwSW1mYjQ4ZDRiNHFNcmswZ0dGUzFtbmFfclZWdjNDMVpBRENlYzYyRDhxcS1xRmZHYkEtN0lWeFlhNjE3dGN2VWZ3Q3F3eG83T25VNmRyLXY3NmYtMWI3UHcybjlWQ1UyYWQ5Y0NteUc4WmM0Ti0tcVo1RjFiZlJYZzl5QmhTYWp5RUJZeTgyT3F1MHFSX3RjeDRR?oc=5"
+      },
+      {
+        "title": "Żądania Władimira Putina wobec Ukrainy. Nieoficjalnie: trzy główne kwestie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVVmVlZ5ckw1R1BTbnBLWFZtS1UxeElCdUlESU5GY3lUU2JoeWpZZjNBTHdybHlaU1ZnTEM2WFJvVUlzVmg1bUdPWDN5LS1XbGQ5bGkwY2laRS1STTU0UUJpZTZwWGtmMC1KdVdRQjVIOXNhbWIyMHRoY0szeWVMOVFZZjg2WXBjLUgwZG1QQTBGQkJyTEtmYnljUkNIemlCTU9CcHZZejh4OFQ3TzhuQWpMSQ?oc=5"
+      },
+      {
+        "title": "Potężny rosyjski atak w Ukrainie. Trafiono zakłady przemysłowe i lotniska - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYWR5X0pGVi1YSGJmM0ZYMjQtVTJ1clZfWjhrWm02VzVOeXMyZGh3VWlQTU5MTzljdktiZzZIYnU5OUgtQnBKdHdDUjJuZlVJMWpnUUEycG1ibU9DaUpvTndzQWN3NXRFeGY1MGNLRTFjaW9PZGMzcnVNeGxibjBIalQ1WmJONDFKTzVjVEtBYU9RSWJsbWppNDIxcWQ4eWJ0blJneVFLMTFncU1JUHd4T1o2MDAyWUttZHBQMjl1R2VOOE5PZVFlUC1kNXAxaEhHSG91a2JMeXhQSmtO?oc=5"
       }
     ]
   }
