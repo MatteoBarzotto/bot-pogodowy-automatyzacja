@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-19 10:19:00",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6434,
-      "EUR": 4.2558,
-      "GBP": 4.9354,
-      "CHF": 4.5135,
-      "JPY": 0.024725,
-      "AUD": 2.3736,
-      "CAD": 2.6412,
-      "CNY": 0.5075
-    },
-    "crypto": {
-      "BITCOIN": 418132,
-      "DOGECOIN": 0.78865,
-      "ETHEREUM": 15407.3,
-      "LITECOIN": 417.41,
-      "RIPPLE": 10.9
-    },
-    "indices": {
-      "^WIG20": 2953.85,
-      "^WIG30": 3807.96,
-      "^WIG": 3807.96,
-      "^NCINDEX": 257.02
-    },
-    "news": [
-      {
-        "title": "Co ustalili w Białym Domu? To trzeba wiedzieć po spotkaniu Zełenskiego z Trumpem [PODSUMOWANIE] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkJkdHZ3czRTUHphR2NkM2lSdlJzamVTT19JVFE1clBvMkdMVTZjeHB6UTVhV2pOVlZjMjd3bnppS3JlTXhuRmZtN1VaeG1GMk1kMW5RU2h0djhrUkI3TUw4UnZfMGtTTlhlN05KZXZTclV0eGdZMFE1YjNkN1YzcU1MRE9zRW1ISW9rcHNhS2dyTTlXWUozZi00a014WV9lTzllUkQ1MA?oc=5"
-      },
-      {
-        "title": "Brak Polski w Waszyngtonie. Mosbacher wskazała na administrację prezydenta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXAwa01SZTVDSUNHemxVdGpoX2QzWEVHcXVndkJxcXVvZldSTzNqc083RlNPRHhtM2JidUVUazBRRFpkQWJZUDdjcHIybWk1T0JzWU1GUE5sejRvdTRjcUd0ZldMV0Z3OGVtRDBOUTIxMTh0VUVXakFTWDBHcFhJN0V3Ul9SQ0hqa21UQkJKYmFnd3JtazkzUC1HN1RUQUNEVzZjNnRIdURDaS1ES2RRTGNqZWpMajd3cjdWTVVCaw?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek na Podkarpaciu. Nie żyje troje nastolatków, zatrzymany pijany kierowca - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMER6NjdnTk5RallYU2NrbDdPSFlmTnh5a004WWRDcmxCNFNDLTFFZ1pKWFZZM19aMkU0SVBKbzNfN3pIM1NtZC1KckI2V05oMlVZRWFpaW9pRlhFWXY4QzJBeGZONV9zUEcyUDR1QmVFeTBzMi1tUjZVaHp1SlEwMnd3alZ3dlp2RUl6MEx4Z0VHUXNyTTNXQVhST0dXVUpSbGRhT3BYcU14YnJTQXJj?oc=5"
-      },
-      {
-        "title": "Nawrocki nie poprzestał na słowach. Pozwał Onet ws. Grand Hotelu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQm1HMnNTckxzM1ZOOFBOLVdGRFRTNTRNblo5cFNqaU5ldFppdW91S0pzN1RKc2lZeE83dFlycjJ1SU5aZUFDVTRVdHl4ODBvQlZIamV1MTIwOVJyZ2dXNUpEc0dOc2txRmcxTWhpTk5MeGJSZUxBRzRuc1dpUFZhR2w5X2N1QlZQYmJyeFhZeG1senVLYzFrQWhiX3BLOGdMTFA5V3g4WEY?oc=5"
-      },
-      {
-        "title": "Donald Trump zaskoczył gości w Białym Domu. Zabawna scena z prezydentem Finlandii - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDEtbEloT2lsR0V3UExRS2FNSGhFcVZxNXBadnptYVZIb3NCdjc0Wk80dTJkb1hyam9sZk9iWl9hVHlvd0FtczVvSHFKVHI5VXdRTDVkWDFJVnNqb0JheDc2YTJyNEZySEtzRlBpdWFlZVVQdlJDMUFEdVNGOUJ5a2Z0dzBuX0MwU1JaTHFiQXE0MDROUUNyamJVaUZhRDBp?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-19 11:14:59",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Prowadząca była w szoku. Szczerba przeprasza i tłumaczy - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDdVdk8yc2t2VjlaYkYwWHYwUW5ocFlGajVhdEJaZzR5R1BTTVJKaFpaSkswMmxBOUdiTlhfVTNjWmxjTktpQnVjTlRnX0g3eEhWaFRkV2xrV2ZfTGRtMi12QVZoWXI3QksyelNWNFJQeWxkRzhFTElKb3BKUU9GOXphOV8wYkdxRW9mT05rZ0FrQ3VjUVlxdllNcHlPWkVoeVgtTjZtVGxSRE94TFlr?oc=5"
+      },
+      {
+        "title": "Ławrow: gwarancje bezpieczeństwa dla Ukrainy tylko z udziałem Rosji i Chin - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWpvOXhhRUZ4VlZEdGk4QjhXN1ZnSWdVWjhWWEFXU1NtRzBuMjM0NHB5cF81RThyR3VYS1JRZDlFVVZVbkktcFJKX1J0OWhRdTdGS09UV1VFeHY2b2djdTd0UXh1VkRRNmdhVnlfUS1NaDNmMkNGY1VzRGZsT3o1ZUt6c0IwVGJKZm5Xb3RwVHRFWmhhYW1iakRiUG82bWdDa0V0TDRaSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-21 16:14:03",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6483,
+      "EUR": 4.2521,
+      "GBP": 4.9123,
+      "CHF": 4.5307,
+      "JPY": 0.024718,
+      "AUD": 2.3437,
+      "CAD": 2.6292,
+      "CNY": 0.5082
+    },
+    "crypto": {
+      "BITCOIN": 416318,
+      "DOGECOIN": 0.799415,
+      "ETHEREUM": 15686.94,
+      "LITECOIN": 421.89,
+      "RIPPLE": 10.63
+    },
+    "indices": {
+      "^WIG20": 3012.84,
+      "^WIG30": 3883.3,
+      "^WIG": 3883.3,
+      "^NCINDEX": 257.65
+    },
+    "news": [
+      {
+        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
+      },
+      {
+        "title": "\"Nie\" dla ustawy wiatrakowej. Pierwsze weto prezydenta. Co teraz? Wiemy, co rozważa rząd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1R3U1ZPdzVlZTM2blphanZmUlFoc3VXUkYwN2RIWkxpb1U1c1RuUlNCVnozQVE2WmpPSTFnQjlaZWVUZS1vb3liSG15RE0yVmhDTzYtUGtfZDFmM0k1bVFsTFo0RGNLaUROSl9FZExYelQwQy1oYndHQVl0Q2E2RkcyTUhWV0paWU1kejVhTG1aNWF3eDRmc2JHbDBJeUxZY3djVUwzNmd5UkhjUkVhbUFjN1VnM1ZfeXZxbk9KcWhiUnppaW5n?oc=5"
+      },
+      {
+        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
+      },
+      {
+        "title": "Europoseł przeprasza za słowa w Polsat News. Dziennikarka odpowiada - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGU0U1lJdE13aWdYR00tNG1QQ2czVkJGVmxub1g1NDQzWDM5RnpIQmNYS2NrODJVZlFIb0VxLWt6TkVxN3Z3T1JPZ3NGYkJSXzBsNmZmMDhjQVZtNkM2dXFuMWtTWVBJZ3lFZXhuZjFKRjROTHhFYWQ3WEZwTXMtdC13M0wyb2dyZFVrVFhKX3lqc0RuckRPN2NOZWJwT1E4UmhxbEFmaXhVM2h1NGV2endxV2NsTGVVV1RB?oc=5"
       },
       {
         "title": "Ławrow: gwarancje bezpieczeństwa dla Ukrainy tylko z udziałem Rosji i Chin - Polska Agencja Prasowa SA",
