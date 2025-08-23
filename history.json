@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 18:26:39",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6483,
-      "EUR": 4.2521,
-      "GBP": 4.9123,
-      "CHF": 4.5307,
-      "JPY": 0.024718,
-      "AUD": 2.3437,
-      "CAD": 2.6292,
-      "CNY": 0.5082
-    },
-    "crypto": {
-      "BITCOIN": 413523,
-      "DOGECOIN": 0.793744,
-      "ETHEREUM": 15584.34,
-      "LITECOIN": 420.01,
-      "RIPPLE": 10.63
-    },
-    "indices": {
-      "^WIG20": 3020.22,
-      "^WIG30": 3891.94,
-      "^WIG": 3891.94,
-      "^NCINDEX": 257.94
-    },
-    "news": [
-      {
-        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
-      },
-      {
-        "title": "\"Nie\" dla ustawy wiatrakowej. Pierwsze weto prezydenta. Co teraz? Wiemy, co rozważa rząd - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1R3U1ZPdzVlZTM2blphanZmUlFoc3VXUkYwN2RIWkxpb1U1c1RuUlNCVnozQVE2WmpPSTFnQjlaZWVUZS1vb3liSG15RE0yVmhDTzYtUGtfZDFmM0k1bVFsTFo0RGNLaUROSl9FZExYelQwQy1oYndHQVl0Q2E2RkcyTUhWV0paWU1kejVhTG1aNWF3eDRmc2JHbDBJeUxZY3djVUwzNmd5UkhjUkVhbUFjN1VnM1ZfeXZxbk9KcWhiUnppaW5n?oc=5"
-      },
-      {
-        "title": "\"Trump wycofuje się z rozmów pokojowych między Ukrainą i Rosją\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzdhTWhyVFlJZEkwNjZTYUVGeWM2YmlKazZXM3FGTHgxWTlCWUZkQkNRSURPdTNyeEhVQ2xLN2tLYVZSVHZFTWRKU3RpU2RTWlUzeXNCdUZKcVNfU0liTklkQWx0blhRWnQwUndSX0Y0bV9paE1STzdpY29TbmhHRFFfMGc2WTh5WHZoVWdEMUFkQmx0bUxLSGRieGsxOElUME9TVHdiOTRXTVHSAaoBQVVfeXFMT3VlY2NJaWZuQlJpeDNPT2Zqem1HYm5rSlNBMmpLYm1TM0hCbDdydTFTNHV1dEx4Tm1XbkhPTE1QY2ZBMDZIV1U3ajh6dlJic1h4SG5WM21xVEJVUXB0clAtSnVqQnFFV1V3Ti1TLTJYOGFWWHo4Qk9hdy1PbElkbWN2dEVhRnNadTJMb3VjZkFGOHRSdG1nSm03eTI3WWF5WkM2TkZNblZ1YWc?oc=5"
-      },
-      {
-        "title": "Europoseł przeprasza za słowa w Polsat News. Dziennikarka odpowiada - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGU0U1lJdE13aWdYR00tNG1QQ2czVkJGVmxub1g1NDQzWDM5RnpIQmNYS2NrODJVZlFIb0VxLWt6TkVxN3Z3T1JPZ3NGYkJSXzBsNmZmMDhjQVZtNkM2dXFuMWtTWVBJZ3lFZXhuZjFKRjROTHhFYWQ3WEZwTXMtdC13M0wyb2dyZFVrVFhKX3lqc0RuckRPN2NOZWJwT1E4UmhxbEFmaXhVM2h1NGV2endxV2NsTGVVV1RB?oc=5"
-      },
-      {
-        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-21 19:17:22",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rządzący w ogniu pytań prezydenta? Rzecznik Nawrockiego: Dzieje się coś niedobrego - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcm44OV9jaXBZdnBQc3FYY2hwVVhvZXJpVGt0Tmh3NW1CVy1MM1JYbXY3ZkM2RUMtbHV3SjQxY25WOUs4cXZscmpVYWFhSkJBcGhlZVZ5OTk4b1BEazg0c2hfY29GOXlaWENDZHVmcFJYcGx6ODFIRkxaaE8zcUdkeEpJNk5oQ0s3ekx4ZjU2eklRNXh2Zng1YWF2a0ZfQ083Qi1wc1lhWUVPeFpYcFhyMzVSZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23 23:11:31",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 418876,
+      "DOGECOIN": 0.85696,
+      "ETHEREUM": 17270.39,
+      "LITECOIN": 439.76,
+      "RIPPLE": 11.03
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Zakup tych urządzeń przez MSZ miał być tajemnicą. Wiadomo o nim za sprawą NIK - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2Y1dTVpX1lhdUlDdkppT1gzQ3lsMXhHLXY5VXRHTm43TDNwbXVlcE9qUDdKWHgtTXY5MDNhMmZkSXNBZEJMQmNwa2dxaXBqeXNKZzdXN3RHWVBfZTgtTTBXNkZLWDlnWWI1ai1NczhkTXo3VjY1SkJ0Wlp3UGtvVW9hY3B6U0o1a1JGeA?oc=5"
+      },
+      {
+        "title": "To tu zatrzyma się Nawrocki w USA. Tajemnice rezydencji mrożą krew w żyłach - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDNSajRqVlFQeWpiU0JOLTE4Q0Jkd1BlNjZVWlhGMXZxSzVYb1d6ZVBoTk1mbjhGTkw3SEk2V3hMU3gyeXJUVmF3cU1sWjVrSk43d29SRVM5UGpRSWZZUldreUVPa2FIZnZjbEFuLWNOYjNYX3kwLUdEMFVOaW9BSHZSd0ViS1F1dlVrZ2NDektLeWF0YV83dnN1eTBCblY5ZFRqRWRoVWZIcXlMaWQ2aGFxOE0?oc=5"
+      },
+      {
+        "title": "Dron leciał w kierunku Moskwy. Lotniska w Rosji wstrzymały działania - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2h3UTgycUtvZWRnalF6dXZjVXhfb2F0bG5uV2VCb1h0REJ6TUhLVjIzVE5XYjdBSGw5N1ZMVldKZ0xjMlB4MDVSZzBTN2tvcWU1cjRZZElST3p1VXcwMnVTbWVvYXdNd004dWF0YmpOQVNWenZHWnhXOFMxUmRqNnhmdnpBYkJtOTNSZVJjcEdvRmdQMl9tMXRLTGNKZkIyeERId0M3dWczUWpIWkdQbFl5TGU4cVEtaW5nTE9BZlBLX21yTkVVUFdB?oc=5"
+      },
+      {
+        "title": "Kluczowe spotkanie pod znakiem zapytania. Eksperci wskazali obawę Kremla - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdjdktHZHJWZ01GUkFfdl9HNnA5OVhjUEhlbkdFUGJGTE53T0pkVVFnRV9CeE41Y0ZoWHA1aEtqd2czeTEydHlldExpU29sOGZLb1Q5a3MxX3J6d3R6aFVBdi1tT0tseU80U0RYX3l0OUhsTEs2UkwtM21xbDU2bC1CMTZSM0MtZDFPUTk1WE9fdGp5eW5NdktQazVJZVFiVUhGSFdn?oc=5"
+      },
+      {
+        "title": "Wybuch gazu w domu wielorodzinnym. Są ranni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3RYWVBNS3hKWHo3ZEx4Q3Z5dXJiNWd1REZZSS1ZRXNxcnYtbjdNTndUV1BGUVMyd01EYUQ0dnYwRDB1aEQ0VDhOdElYVUFGOVA0SE1NNlJ2Q2tYdnBFNDBZRHJ3VllkYmtIV25kVkliTmZUNU0zZDVsZnk3UTZGem84U2M3aHdISVN6cFN3LUtQOVhCdkRfVFVEY0ZMdnRuaVE?oc=5"
       }
     ]
   }
