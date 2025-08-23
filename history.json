@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 11:14:50",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.654,
-      "EUR": 4.2524,
-      "GBP": 4.9329,
-      "CHF": 4.5226,
-      "JPY": 0.024758,
-      "AUD": 2.3508,
-      "CAD": 2.6327,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 414043,
-      "DOGECOIN": 0.798385,
-      "ETHEREUM": 15577.03,
-      "LITECOIN": 419.71,
-      "RIPPLE": 10.55
-    },
-    "indices": {
-      "^WIG20": 2999.24,
-      "^WIG30": 3865.21,
-      "^WIG": 3865.21,
-      "^NCINDEX": 256.78
-    },
-    "news": [
-      {
-        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
-      },
-      {
-        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
-      },
-      {
-        "title": "Węgry odpowiadają Tuskowi. \"Co pomyśleliby polscy przodkowie?\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZm00c0ZrUy1mMDU3cEFBS29VNlVsYllNbmxweTdkcTJsSmw4OVJIZkEyQ3JURjZ1SG5KeDJPWjJtdFh1dUcyNEZNSHNQLTFiSWdYR1VENWJ5cEZsOFVQNE9RVlFFcHREXzY2dnRxOElnem1fb2dILV80eWhvY1RURWtDeTM4NWl4YnRGM09DRmR2T3VHS3MzYlBrUDFvOVJxZFZxREsyeDNiaU12eXVBTlhjNA?oc=5"
-      },
-      {
-        "title": "Rosjanie zaatakowali amerykańską firmę w Ukrainie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbXBtRTExRGZOcFhON281WURpVHh4R0dBN3pjMzhLTDFLaDFQT251WVZTeVpKTncxWGNhMWt0ZmlGQTVtMko3dXpqbUI4OXdRTk1pTE1qSGtMREdmS1RyaXlOTjNqNmxHSlV2OVMydTVadXctVHV0blBva3FoVkVVLXBPYVd1X2ljaG1vc1ZNNnZYZw?oc=5"
-      },
-      {
-        "title": "Ławrow: gwarancje bezpieczeństwa dla Ukrainy tylko z udziałem Rosji i Chin - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWpvOXhhRUZ4VlZEdGk4QjhXN1ZnSWdVWjhWWEFXU1NtRzBuMjM0NHB5cF81RThyR3VYS1JRZDlFVVZVbkktcFJKX1J0OWhRdTdGS09UV1VFeHY2b2djdTd0UXh1VkRRNmdhVnlfUS1NaDNmMkNGY1VzRGZsT3o1ZUt6c0IwVGJKZm5Xb3RwVHRFWmhhYW1iakRiUG82bWdDa0V0TDRaSQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-21 12:14:37",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Debata Gozdyry\". Hennig-Kloska zapowiada pozew przeciwko Kmicie - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlkN3A3QXBvMUtmWHFVSnVocVZnNFRjQ0lERjZHTDVfUWoyZExncGYtekdSbEE4b1BLMHZtTzFOeWN5MXNhRzg0SGRUYXE1M2c1ejNrcnZfNjZyTkhXbGlVMXlzaTJNVWFFc2YxaWhiYVFhVDJFM1FvekZYYlJxQ0V0c2dDZmdjdThCeU1VSnZYb1NrTHRPWEMwNzRSaTAwaU1TT1ozUklNbDZSQ0l3bS1fSzdMbWJTU01NQ1Vzc0VUd08zRHZPNWR6cmpOdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23 16:11:30",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 417970,
+      "DOGECOIN": 0.855257,
+      "ETHEREUM": 17186.5,
+      "LITECOIN": 439.01,
+      "RIPPLE": 10.97
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Tragedia pod Marsa El Alam. Dziś pogrzeb lekarki i jej syna - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzJRRzZWaDJqN1lfZEZPRXhrZTctZkkyNVpTVnZ6TGE0NDhmS1hEc2pISS1CNmhJd3hFQzdTcXNYcWJXeVJjcUtZcjRmSjlUdWJkNVViQ3l3SnhGbENMV1k2NkN1ZzU1MlFmaUlqU3YyeXlBb3o0blgtS280NFZpN0wxQ1pEbHg0Y3E5WDFFTmRkUmlKQkoweENNNW14SUg1bkRBY1owZnVRRE1Fdkl4M09iM2xwSm9iTmJ2d3RuUGg?oc=5"
+      },
+      {
+        "title": "Akt oskarżenia dla Błaszczaka i Cenckiewicza. \"Sprawa jest arcypoważna\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHQwSmV5Q0tfQ1JDUzZzUmhNSUp0U3JzQlhEeUZvamlKSmhBTmR2UDR2ZVREamJPbzBSSlM3aTlzdzdYZkl5b2RmQ2RldzRHdE14WWlsYnp5VGpDVzMxbHR5V3c1MndRNDNrd0stdVhzam55ZzlneWtsUmlWQmM1bzlzd3BjaXIwYUlHejlGNWtaMVdpUXRr?oc=5"
+      },
+      {
+        "title": "Polska najczęściej atakowana przez hakerów. Wiadomo skąd - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2FFV2pSYmJabldISWhncUtPcDk0MXZldTFYcXRuR2ZVQy1idnMzWnJVa3FMQWloOWRjcEtGWm8wazdBWkJwUXI3aWh5a0hmQjdsV0p5dnNaekFCUGk2WmdrcjJvQk1sdU5DTlRwYU5ERUhPNkJTTWczdjhBeU9TMjhwNGpTNmZueGZnY2NOT2pqZDE5bXpGb0dwSnk4Q2ZnWUxMR0xrTmQwUQ?oc=5"
+      },
+      {
+        "title": "MON wykrywa nadużycia w systemie studiów wojskowych. Powtarzanie roku atrakcyjne finansowo - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1hVMTE1R0dMeXhJekpiV1M5Y01fRWd1R2VnZXdJSGFmbmN4VWVfOTdwZkJrcFBxQU1VTEY3Rk1DY21VNnBzLTFOV1dkaUY1UG95WnpNMWxUdW1EWEZKN0lNVEp0WGNZLWMzWHU4d1plNDJGdmxnaGMtaEc2ZVRsem9NbDBxcG9xQ3FnU21Yd0dyc1o3VTZ2Z1NjRXFlUHRUb3FITDJQX3M4Nnd0em9pbWc4YXA?oc=5"
+      },
+      {
+        "title": "Polityk koalicji ostro o Tusku: Zachowuje się jakby abdykował - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWW10ckpYRl81cXhCOHdvcnd1UURiQ2s5OGludHhXdzdaSE1NTktmSkR1VkFMbktRS2NSaUs0b3Jpb3ZXR0NZNHVRMm53aTE1c3h6VHZfUXFRMkQxZEpEN0tKeDE2eWZ1dExhRVFYa2hxejBEcWVVUFMwRGR6NWVGc3VvYkZicmRyZVJYY2FXNEVDdDVlTTY5cHloMTFpUdIBnAFBVV95cUxNeEN5VjdMUkhiTm9aMlduOWJIU1dyZ0lCd1BPaXc0SFBBa1FsLU1ZcUFXWi12am9aU1hTZHFLekNUVU9uQWFqTmZOUXpvdVRGTXR0VzNjMlVMN1ptUmNuYTUyUXllNHdrejJ6UjlDdUlNS0x4YjJxcEN2cnZJcms1NjFWbi1yajFaYXJOcG9VbjN3TWltRHlOLXA3VXE?oc=5"
       }
     ]
   }
