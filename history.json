@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 10:18:53",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.654,
-      "EUR": 4.2524,
-      "GBP": 4.9329,
-      "CHF": 4.5226,
-      "JPY": 0.024758,
-      "AUD": 2.3508,
-      "CAD": 2.6327,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 416029,
-      "DOGECOIN": 0.807478,
-      "ETHEREUM": 15728.61,
-      "LITECOIN": 423.94,
-      "RIPPLE": 10.63
-    },
-    "indices": {
-      "^WIG20": 2997.0,
-      "^WIG30": 3863.12,
-      "^WIG": 3863.12,
-      "^NCINDEX": 257.19
-    },
-    "news": [
-      {
-        "title": "Węgry odpowiadają Tuskowi. \"Co pomyśleliby polscy przodkowie?\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZm00c0ZrUy1mMDU3cEFBS29VNlVsYllNbmxweTdkcTJsSmw4OVJIZkEyQ3JURjZ1SG5KeDJPWjJtdFh1dUcyNEZNSHNQLTFiSWdYR1VENWJ5cEZsOFVQNE9RVlFFcHREXzY2dnRxOElnem1fb2dILV80eWhvY1RURWtDeTM4NWl4YnRGM09DRmR2T3VHS3MzYlBrUDFvOVJxZFZxREsyeDNiaU12eXVBTlhjNA?oc=5"
-      },
-      {
-        "title": "Eksplozja na Lubelszczyźnie. Ekspert mówi o \"pełnowymiarowej głowicy bojowej\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWQ0aFNmSkQtcmJ2cjYxMHI3R2taSTUyYlhnUTZzZlVodlE0NWdvZHFQeGY5dmdjTUpMX1FDVnJGdEo5Mm9rY25RTFpReXJrMEtsSmd4RXRlQU9aV25rY2hhVGtGenQ1QUtuNEtmeGhSSzctbTgyYWVOaU9XXzhDWkhOcVo4WVBlVWFVYVdDczg4c0h4VEJ3UTRMVXBrTWhJNS1SWjZScmFlNGRmUWY2b1l6ZzhfcDVoNDc2VU1SNXN2eWhhc013ZA?oc=5"
-      },
-      {
-        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
-      },
-      {
-        "title": "\"Stan najwyższej gotowości\". Polska podrywa myśliwce - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmdCU0tYTzY5QTBPVVhKMnRreEtCRlUwVy05RnptNjd2TDNDVndoUDZMTDFWQm00TmNWWDNMTVZSZDM2elQ4M3djWkZISGJPR2Y1UHd1NlBMbTNXLU9tdlVyeW1kcUtvOTNULUtYSV8tWHZxQTcwSTVwRmZZVlBzZms1aHJYcFJZX2VGbWpHdm8xQjNGUEt4SVlubDcxdw?oc=5"
-      },
-      {
-        "title": "Nie żyje abp Józef Kowalczyk - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hbjNDUnc5STFKSm4zZHdaNUZkaWZ2bGRuWDc5WjRFaGtEN1Q5cVRjX3RuLUZOekJTVWNOS2xtbldYd1FTcktjaVVJQ1hqeWd4T2ZZOTJPbU1fam5wLUVCWW1oTzBPTDlMQTdObjVnVG1USXhGUS1qUk9BZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-21 11:14:50",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Putin o \"światełku w tunelu\". Rosyjski przywódca zabrał głos - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlR2bHRMWnR4U1NiaDJlLWdzS2diSXQ5ZlhoYU1SVGRIMWx0WmtCcXpaT3l5eTBJWURjeGNoaTdvaXdQaDJxM1Z6SzJxUzZHRjVpdzVlWGk4ZHBkN1lYbWVvRjhlcVQ2ZnJIS3ZkNzNLVlU3Q0VSdG9GV25UX3J4UzFONmY3TDR2TmVjRGQzLTlkRHcxeFJkSWxLUVZ4czMyQjlRb3ZOTzQ0YmM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23 15:20:30",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 418900,
+      "DOGECOIN": 0.860447,
+      "ETHEREUM": 17175.03,
+      "LITECOIN": 440.93,
+      "RIPPLE": 11.02
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Tragedia pod Marsa El Alam. Dziś pogrzeb lekarki i jej syna - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzJRRzZWaDJqN1lfZEZPRXhrZTctZkkyNVpTVnZ6TGE0NDhmS1hEc2pISS1CNmhJd3hFQzdTcXNYcWJXeVJjcUtZcjRmSjlUdWJkNVViQ3l3SnhGbENMV1k2NkN1ZzU1MlFmaUlqU3YyeXlBb3o0blgtS280NFZpN0wxQ1pEbHg0Y3E5WDFFTmRkUmlKQkoweENNNW14SUg1bkRBY1owZnVRRE1Fdkl4M09iM2xwSm9iTmJ2d3RuUGg?oc=5"
+      },
+      {
+        "title": "Akt oskarżenia dla Błaszczaka i Cenckiewicza. \"Sprawa jest arcypoważna\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHQwSmV5Q0tfQ1JDUzZzUmhNSUp0U3JzQlhEeUZvamlKSmhBTmR2UDR2ZVREamJPbzBSSlM3aTlzdzdYZkl5b2RmQ2RldzRHdE14WWlsYnp5VGpDVzMxbHR5V3c1MndRNDNrd0stdVhzam55ZzlneWtsUmlWQmM1bzlzd3BjaXIwYUlHejlGNWtaMVdpUXRr?oc=5"
+      },
+      {
+        "title": "Nożownik zabił przechodnia. Mieszkańcy: Napastnik od lat wystawał na ulicy, zaczepiał ludzi, pił alkohol - Katowice.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVg5Q0J2X1RGdmV2cGYwQXM5bl84emZXbW5tdEt2QS1HOEZTZ2FEekdWaU93UHV5Ul9OQmZDTjh6QXM4cnMyTkpFNGtmNG9wZ2hYS2xfWWtyWVFrMnJacVIzVEdaRWZmQjdUVVVrU2NZOUJ1TUowYUp6TE9oLXBaNXg0bEFpZzhaS2ZtMGd5Z3BPbG1CblJCd2hwdlRoek83azBaNTVEeE1LRU9HRkdGbWpTUDBwUUhsRzdreXhwWVQ?oc=5"
+      },
+      {
+        "title": "Atak nożownika na taksówkarza w Krakowie. Nowe informacje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWxOaHVlOS1mXzZnTjN2cHFGaVdrc05NWVc0dnJScTVNWmJ1VTdxS01XQXBJci1RQmFHLVhyN3V1V1V2RGo1Yk9WRTJjbjliOFBubzFKZXc5SjY5S05xZUxnQjdQUXpjZkVTSzk5UXdFUHhKOFJKa0R5SkRDM3J4VDNzd3Q3VG41emMyQjd5RGhiU1BZc0lXUVZpOXA1dlU?oc=5"
+      },
+      {
+        "title": "\"Debata Gozdyry\". Hennig-Kloska zapowiada pozew przeciwko Kmicie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlkN3A3QXBvMUtmWHFVSnVocVZnNFRjQ0lERjZHTDVfUWoyZExncGYtekdSbEE4b1BLMHZtTzFOeWN5MXNhRzg0SGRUYXE1M2c1ejNrcnZfNjZyTkhXbGlVMXlzaTJNVWFFc2YxaWhiYVFhVDJFM1FvekZYYlJxQ0V0c2dDZmdjdThCeU1VSnZYb1NrTHRPWEMwNzRSaTAwaU1TT1ozUklNbDZSQ0l3bS1fSzdMbWJTU01NQ1Vzc0VUd08zRHZPNWR6cmpOdw?oc=5"
       }
     ]
   }
