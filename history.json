@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 08:30:50",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.654,
-      "EUR": 4.2524,
-      "GBP": 4.9329,
-      "CHF": 4.5226,
-      "JPY": 0.024758,
-      "AUD": 2.3508,
-      "CAD": 2.6327,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 415498,
-      "DOGECOIN": 0.81174,
-      "ETHEREUM": 15700.56,
-      "LITECOIN": 423.03,
-      "RIPPLE": 10.63
-    },
-    "indices": {
-      "^WIG20": 2982.29,
-      "^WIG30": 3843.99,
-      "^WIG": 3843.99,
-      "^NCINDEX": 256.5
-    },
-    "news": [
-      {
-        "title": "Alarm w polskiej przestrzeni powietrznej. Poderwano myśliwce - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckpoVGdsT3pNZDJJTXlMX01XSl80SDJacWFxS2lRUkZtelBBVU14ZWUwRXl0TEJxZnhfWEN2RXFILXV3WEdPZ2piRVJRZlg1cmlSR1JrZUswREdvckZ1Y1FqcWRReWduWnNCa1RuSHZDZk5yczBLcjNCT3M0RnZQNXFaTWpnaGQ2V0t6VHZVQXdBN1hXaGtSUWxKX0pyZENjS2lpdnJCa3hsT3dWWU5V0gGzAUFVX3lxTE5lRUFvd1VIcXdVZUg4aEdsMDlTTXdDLWl1ZjZkdjlFWklPcFRxamZmSFhtNVhSNFllZjQ4Rmd3Q0FSOWNyVkl3bEgxZmszNVJMVlZoOE1yenllY1h2VC1KS3VBV1NucG9VQjNIV253UFV4dlliQVdZdXpVcmhGZWxIcjNydGIyUEtONmM1XzNNS3pNNE0ybk5oTURZNlBUU3JpV2JkMmF6M2RNYWM1TjUyNFJr?oc=5"
-      },
-      {
-        "title": "Rosja atakuje Ukrainę. J.D. Vance kreśli scenariusz gwarancji dla Kijowa. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGlNTEJ5c2pJM1NoSHRnNUc5azNyV0J1X2xnb05yQW1KWlN5THh6RW5rcUxaRk9aUi1vemxmMXRaYUJ3YVJTd2k0OWw4TWFMZThsZ2t1YWN6R2hFa3ZacXpfVXBFaGJmLWpLM3l3dXlRQnh6dEYzM1oyQXF2UVBDaWNDMmRJbHNhd1JHUWc0SWZJdlpPc3lNb3NOeFl6amVuT1E4bnY2N1NvVUItV3hBcENyX3hVa01KYlIwNExCZGI?oc=5"
-      },
-      {
-        "title": "Sondaż: KO zyskuje, w przyszłym Sejmie możliwe dwie koalicje - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVFkYXNmclpkNEpBOWJXYWNCQkZmR2VsZllfaEt5TWhLVG5WUEY5NFBTbzFGUi1HVFV0MEJsSDRUaUlpMWdvdlRUTVpYZVhoeWcwVWp6Uk54TDNnNm1VYWk1dEtoVkxYUzJNYkpRUVZRdjhQSWJyTDNLaWJVenVyMHlSb2lLeGVkVGJTRXlLeW1OLWt5STZSN0tjNXFobHRsLXVQazlKRHlLSlZUNUFHWEFlUQ?oc=5"
-      },
-      {
-        "title": "Nawrocki miał zająć się Stanami Zjednoczonymi, a Tusk Europą. Wyszła wpadka. Prof. Dudek wskazuje rozwiązanie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjl4dGlGdHFPRGotVTAtc1Q2Q1hCOU5ldG9SQ05pcjUwWVY3ZzlhMnEyTkFuX2ZUbjRoWG1MbGZlS1FybDJDVWZpUjUxUGZodlhydHZpcndTUEJvYTBZYVREcVByazRUQWFESHY3Skhua1R6ai11ZU0wRzhZVlBJNkotck1wcXVGNWthdGlqT183MVNySG5veHIwb1ZKdDk1elVCdTVQSkFjLXA5dmJiRUFn?oc=5"
-      },
-      {
-        "title": "Eksplozja na Lubelszczyźnie. Ekspert mówi o \"pełnowymiarowej głowicy bojowej\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWQ0aFNmSkQtcmJ2cjYxMHI3R2taSTUyYlhnUTZzZlVodlE0NWdvZHFQeGY5dmdjTUpMX1FDVnJGdEo5Mm9rY25RTFpReXJrMEtsSmd4RXRlQU9aV25rY2hhVGtGenQ1QUtuNEtmeGhSSzctbTgyYWVOaU9XXzhDWkhOcVo4WVBlVWFVYVdDczg4c0h4VEJ3UTRMVXBrTWhJNS1SWjZScmFlNGRmUWY2b1l6ZzhfcDVoNDc2VU1SNXN2eWhhc013ZA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-21 09:17:21",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zapomniałem o pańskim istnieniu\". Iskrzy między Tuskiem i Błaszczakiem - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0RiNzJpczBTWTU2T1RzdU45M0ltWW1aSUhQdDBCazdwZmVSeW5KRkx5XzlVR3hrRGNEdkh4c2FZQ0F1eEVMYTNjMkFlYWpWSWJyUEdmOFlYSjVKaHhSVEpjbGd4dG1wQjRpMzUzdWZ6XzlPRVl1MVdNT0ZaNEFQNEI4NmJicUdQTGNBNVlYV3A4MEJSVVZ2eHZpd0w4ZUZfendpa2c2T2NQeFpvbERna2ZKbWNkeE0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23 13:10:21",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 420446,
+      "DOGECOIN": 0.860951,
+      "ETHEREUM": 17184.48,
+      "LITECOIN": 442.06,
+      "RIPPLE": 11.05
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Wichury i gwałtowne burze. IMGW wydał ostrzeżenia dla ośmiu województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3NKSkhoRG01QTNFZ3N6QzV2ektuY0ZjSDNra21HN1l3T3hnMlhjSVBybExBeU9PdExLOVhXVzBJR3E0eWoxamRmdzBzVms2TS00bUEwM2UtLUI5WENNVHJnX2QxbnVXQU9mVTFld2NsdnNrQUlwa1FFbi1NT3N6X3VhdG11WE1hNFJTYmdyTUk2MVlmcmlFZkFWenRuMnduUkpiVHQ3M1ZqRXpMSkNQal9LeG5VT1dsSTZaVTZQMGo0SHdFc2Nv?oc=5"
+      },
+      {
+        "title": "Brutalnie zabiła swojego partnera i uciekła. Policja odnalazła ją w Polsce - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzBSZml5NjdZTnpyTWx6clJNbUxTbXNULW1hY2dXRkJPR1dOa3FRd3F1LTE0SV8tdjFSdTN6NXVHSGs1Z2owa0hHaXRiRzlBblNGYjVMT1ZENF81NV9Fc2hpODhVOGlCT1l0Z3RHcU10Nm5RWkdWcGZ1WXlWZFlTVGNfZjJYOW95b1M0MVBPbXVfWlByTWxFdkl0VEd3NUotNks1UmRyNmpRV0Eyd2dYTnR3ck8?oc=5"
+      },
+      {
+        "title": "Atak nożownika na taksówkarza w Krakowie. Nowe informacje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWxOaHVlOS1mXzZnTjN2cHFGaVdrc05NWVc0dnJScTVNWmJ1VTdxS01XQXBJci1RQmFHLVhyN3V1V1V2RGo1Yk9WRTJjbjliOFBubzFKZXc5SjY5S05xZUxnQjdQUXpjZkVTSzk5UXdFUHhKOFJKa0R5SkRDM3J4VDNzd3Q3VG41emMyQjd5RGhiU1BZc0lXUVZpOXA1dlU?oc=5"
+      },
+      {
+        "title": "Katastrofa ukraińskiego MiG-29. Zginął pilot - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2NaSkNTY19Xd0hTVlRlUFRXU2doOVU2VW9QRy1tQndoQjFBUW03dTNfQWVqZ2ltZUxDc2pYSXczb0JwNUNlMG5KaUljcWhsT1FWb0lXUG1tbmh4WVYxNTN1eTdkQ3JMSHYzZWZ1Wi1wVUtTVmhuTXhVejNqYWwyd095VHc4YXBaOGZzLXBPX2hwLTV5STRjb3BxdlV3ZUZCTGMxTGJvYTFySFVNeVE?oc=5"
+      },
+      {
+        "title": "Putin o \"światełku w tunelu\". Rosyjski przywódca zabrał głos - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlR2bHRMWnR4U1NiaDJlLWdzS2diSXQ5ZlhoYU1SVGRIMWx0WmtCcXpaT3l5eTBJWURjeGNoaTdvaXdQaDJxM1Z6SzJxUzZHRjVpdzVlWGk4ZHBkN1lYbWVvRjhlcVQ2ZnJIS3ZkNzNLVlU3Q0VSdG9GV25UX3J4UzFONmY3TDR2TmVjRGQzLTlkRHcxeFJkSWxLUVZ4czMyQjlRb3ZOTzQ0YmM?oc=5"
       }
     ]
   }
