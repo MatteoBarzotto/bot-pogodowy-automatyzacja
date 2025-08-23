@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 17:15:06",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6483,
-      "EUR": 4.2521,
-      "GBP": 4.9123,
-      "CHF": 4.5307,
-      "JPY": 0.024718,
-      "AUD": 2.3437,
-      "CAD": 2.6292,
-      "CNY": 0.5082
-    },
-    "crypto": {
-      "BITCOIN": 413127,
-      "DOGECOIN": 0.791379,
-      "ETHEREUM": 15558.07,
-      "LITECOIN": 420.53,
-      "RIPPLE": 10.57
-    },
-    "indices": {
-      "^WIG20": 3020.22,
-      "^WIG30": 3891.94,
-      "^WIG": 3891.94,
-      "^NCINDEX": 257.83
-    },
-    "news": [
-      {
-        "title": "\"Nie\" dla ustawy wiatrakowej. Pierwsze weto prezydenta. Co teraz? Wiemy, co rozważa rząd - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1R3U1ZPdzVlZTM2blphanZmUlFoc3VXUkYwN2RIWkxpb1U1c1RuUlNCVnozQVE2WmpPSTFnQjlaZWVUZS1vb3liSG15RE0yVmhDTzYtUGtfZDFmM0k1bVFsTFo0RGNLaUROSl9FZExYelQwQy1oYndHQVl0Q2E2RkcyTUhWV0paWU1kejVhTG1aNWF3eDRmc2JHbDBJeUxZY3djVUwzNmd5UkhjUkVhbUFjN1VnM1ZfeXZxbk9KcWhiUnppaW5n?oc=5"
-      },
-      {
-        "title": "\"Trump wycofuje się z rozmów pokojowych między Ukrainą i Rosją\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzdhTWhyVFlJZEkwNjZTYUVGeWM2YmlKazZXM3FGTHgxWTlCWUZkQkNRSURPdTNyeEhVQ2xLN2tLYVZSVHZFTWRKU3RpU2RTWlUzeXNCdUZKcVNfU0liTklkQWx0blhRWnQwUndSX0Y0bV9paE1STzdpY29TbmhHRFFfMGc2WTh5WHZoVWdEMUFkQmx0bUxLSGRieGsxOElUME9TVHdiOTRXTVHSAaoBQVVfeXFMT3VlY2NJaWZuQlJpeDNPT2Zqem1HYm5rSlNBMmpLYm1TM0hCbDdydTFTNHV1dEx4Tm1XbkhPTE1QY2ZBMDZIV1U3ajh6dlJic1h4SG5WM21xVEJVUXB0clAtSnVqQnFFV1V3Ti1TLTJYOGFWWHo4Qk9hdy1PbElkbWN2dEVhRnNadTJMb3VjZkFGOHRSdG1nSm03eTI3WWF5WkM2TkZNblZ1YWc?oc=5"
-      },
-      {
-        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
-      },
-      {
-        "title": "Europoseł przeprasza za słowa w Polsat News. Dziennikarka odpowiada - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGU0U1lJdE13aWdYR00tNG1QQ2czVkJGVmxub1g1NDQzWDM5RnpIQmNYS2NrODJVZlFIb0VxLWt6TkVxN3Z3T1JPZ3NGYkJSXzBsNmZmMDhjQVZtNkM2dXFuMWtTWVBJZ3lFZXhuZjFKRjROTHhFYWQ3WEZwTXMtdC13M0wyb2dyZFVrVFhKX3lqc0RuckRPN2NOZWJwT1E4UmhxbEFmaXhVM2h1NGV2endxV2NsTGVVV1RB?oc=5"
-      },
-      {
-        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-21 18:26:39",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tragedia podczas wycieczki w Aleksandrii. Sześciu uczniów nie żyje, 21 zostało rannych - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSC1GYUFUVVdYTUxDYVdLR0hnWFEtelFHaV9TcVRKTHlhb2RONmVaVmdGQTQyVEFINzBuZmV4V0pUOExXbk1ITDJ6RDRoT2pmbzhsV05kNUJRN1FlRkZXUTFlX2tTbEdxdE9nMVlNQVdfc3B2V3F3dFEzLXc3eXVyeTlUTlFYckFwd0tZZWRlS2hfaUtkM3NNVDdseXZBcTh1NU1mTTllX1FmbVc3TkpidDhVT2lFcXRs?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23 22:13:44",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 418816,
+      "DOGECOIN": 0.861521,
+      "ETHEREUM": 17284.24,
+      "LITECOIN": 440.33,
+      "RIPPLE": 11.02
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Kluczowe spotkanie pod znakiem zapytania. Eksperci wskazali obawę Kremla - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdjdktHZHJWZ01GUkFfdl9HNnA5OVhjUEhlbkdFUGJGTE53T0pkVVFnRV9CeE41Y0ZoWHA1aEtqd2czeTEydHlldExpU29sOGZLb1Q5a3MxX3J6d3R6aFVBdi1tT0tseU80U0RYX3l0OUhsTEs2UkwtM21xbDU2bC1CMTZSM0MtZDFPUTk1WE9fdGp5eW5NdktQazVJZVFiVUhGSFdn?oc=5"
+      },
+      {
+        "title": "Tak Trump przyjmie Nawrockiego. Ujawniono szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmZ6LWU0cFN1OUxNOUZ6ckxpeHJ0ZUdURUxhR1g1S2NGNjFTSlZ5bnR5MFpuanRkai11T2hsbW5NYUdPYWxiWmEwSTFfNTdiV2lZU19qWS1sZXlyTWdnYl9KTWFSRHh0cnptWENua1ZzTDlIc1c3bmppRG8ydVQ0QW5EWHFsa1F1ejBaNzhRRHF6Q1dWalFBcA?oc=5"
+      },
+      {
+        "title": "Niezwykły widok znad polskiego morza. \"Tak wyglądało dziś Niechorze\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXctTWZKb1BLenR1MmtIWktrLUE4Yk1veWxTOXVnZEFxS1BQa01ad3hOZGhIMzdleUdiRF9ZQ3liMUc2VERya3BkcWF3Z2psUUhOWlQ0YmdmeVB1Rk9ydmdTS2JTekRlMXlJLWZEU2Z0UHBOemJWaVYwX2NocTJlVnFDR0RSek4ydjRodW5vVG91eDZyR1BDSjV5ZThzTkwwVXc?oc=5"
+      },
+      {
+        "title": "Dron leciał w kierunku Moskwy. Lotniska w Rosji wstrzymały działania - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2h3UTgycUtvZWRnalF6dXZjVXhfb2F0bG5uV2VCb1h0REJ6TUhLVjIzVE5XYjdBSGw5N1ZMVldKZ0xjMlB4MDVSZzBTN2tvcWU1cjRZZElST3p1VXcwMnVTbWVvYXdNd004dWF0YmpOQVNWenZHWnhXOFMxUmRqNnhmdnpBYkJtOTNSZVJjcEdvRmdQMl9tMXRLTGNKZkIyeERId0M3dWczUWpIWkdQbFl5TGU4cVEtaW5nTE9BZlBLX21yTkVVUFdB?oc=5"
+      },
+      {
+        "title": "Rządzący w ogniu pytań prezydenta? Rzecznik Nawrockiego: Dzieje się coś niedobrego - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcm44OV9jaXBZdnBQc3FYY2hwVVhvZXJpVGt0Tmh3NW1CVy1MM1JYbXY3ZkM2RUMtbHV3SjQxY25WOUs4cXZscmpVYWFhSkJBcGhlZVZ5OTk4b1BEazg0c2hfY29GOXlaWENDZHVmcFJYcGx6ODFIRkxaaE8zcUdkeEpJNk5oQ0s3ekx4ZjU2eklRNXh2Zng1YWF2a0ZfQ083Qi1wc1lhWUVPeFpYcFhyMzVSZw?oc=5"
       }
     ]
   }
