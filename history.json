@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 14:28:07",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6483,
-      "EUR": 4.2521,
-      "GBP": 4.9123,
-      "CHF": 4.5307,
-      "JPY": 0.024718,
-      "AUD": 2.3437,
-      "CAD": 2.6292,
-      "CNY": 0.5082
-    },
-    "crypto": {
-      "BITCOIN": 413597,
-      "DOGECOIN": 0.793856,
-      "ETHEREUM": 15570.78,
-      "LITECOIN": 418.8,
-      "RIPPLE": 10.59
-    },
-    "indices": {
-      "^WIG20": 2992.09,
-      "^WIG30": 3856.81,
-      "^WIG": 3856.81,
-      "^NCINDEX": 257.79
-    },
-    "news": [
-      {
-        "title": "\"Nie\" dla ustawy wiatrakowej. Pierwsze weto prezydenta. Co teraz? Wiemy, co rozważa rząd - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1R3U1ZPdzVlZTM2blphanZmUlFoc3VXUkYwN2RIWkxpb1U1c1RuUlNCVnozQVE2WmpPSTFnQjlaZWVUZS1vb3liSG15RE0yVmhDTzYtUGtfZDFmM0k1bVFsTFo0RGNLaUROSl9FZExYelQwQy1oYndHQVl0Q2E2RkcyTUhWV0paWU1kejVhTG1aNWF3eDRmc2JHbDBJeUxZY3djVUwzNmd5UkhjUkVhbUFjN1VnM1ZfeXZxbk9KcWhiUnppaW5n?oc=5"
-      },
-      {
-        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
-      },
-      {
-        "title": "Dyplomatyczny kryzys. Polacy wskazali, kto ma rozmawiać z Donaldem Trumpem [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlFjTmZoMXM0VkRtOFhwR3VhcmM4d0JuaS1LdXFvS0RpcTlMTk1ORGZMNms3eWx3M3lJS2E0VWY0RkVjQV84YWszQ1VJSEFLRnZ2SWlYR3BtS0lfV1I1Nko4Ynh6enhfMGdHYUQwYm9ySHlEU09hWGs2Y0sxZ3NveEN6UFRVeUhBV2E3Z0NySVN0U254LW01SkRPWUFfaG1iOXNjTzlob3JFZUx4ZmhvbDFQcDlKbDR2VC0xNHZJZWNwaHNtdmR2azk0NGt3dw?oc=5"
-      },
-      {
-        "title": "Abp Józef Kowalczyk nie żyje. \"W nocy odszedł do Domu Ojca\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGFUd3Zfck5iNUc3SWxFNUZnajZnUHVwVzFMVXlCaTBwZGgyNUJzMmpXTWtEU215amNuNVpkR1QwVGRPdVpnMlUxRGdTUTVhUk1TSFdhamtPbHVaN2dLZE5STjFuNmdkbnN3d1UzU2FoSkFCTzF6Q2hsM1E0eXZaRW9mWHAzSFZoZldFZzVrMEpRV0U3RUtGNVZ1QjRNY1pxdzJ3VFY2aw?oc=5"
-      },
-      {
-        "title": "Szczerba o sytuacji w Koninie. Polityk komentuje własną poradę dla pacjentów - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzFPNzNia3dCQTBJZUFUSHg4Z3RmTnlkYmpDOV9LV0pEa3FzQVhvSUxfR3NnNHFJLTRJcUh1by01dzVXN0k0U2RsSEItSnA0bng1eWUzR2J6VXhKZWlZaXZxTjA3YU1YVENnekdzMHBrMDJQY25aQXczY0hYY3JXQjA0MUFVa1A2SlZWcDlnT3FJVDh5eVgteU5TZEh5aFR4YWJZYVVpb21ENWVaSGduRzg5NEzSAbABQVVfeXFMTlI3NXAtY3NPTzZOYWZwSmNhQWFlZVU5WmZRcEF2QUU3WVBvdzZkZW5WeTVJbm5HWk55TmxCTGhCX1psaHN2amRMOUVPUFpfSF9vMEpDNGJnaUpJUXRkZnZDS3M0cTJfck9ENmo2aFVqNGZfMmZmWnVwbGcxbTFaRUNtWF9vdnZ1RG8zTW9SNzhPSmFlRnRPZlZ6ajNta2I0SWFkaXV2eVYwa2VCMUJYQTk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-21 15:25:18",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "MON wykrywa nadużycia w systemie studiów wojskowych. Powtarzanie roku atrakcyjne finansowo - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1hVMTE1R0dMeXhJekpiV1M5Y01fRWd1R2VnZXdJSGFmbmN4VWVfOTdwZkJrcFBxQU1VTEY3Rk1DY21VNnBzLTFOV1dkaUY1UG95WnpNMWxUdW1EWEZKN0lNVEp0WGNZLWMzWHU4d1plNDJGdmxnaGMtaEc2ZVRsem9NbDBxcG9xQ3FnU21Yd0dyc1o3VTZ2Z1NjRXFlUHRUb3FITDJQX3M4Nnd0em9pbWc4YXA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23 19:10:23",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 418588,
+      "DOGECOIN": 0.862513,
+      "ETHEREUM": 17274.03,
+      "LITECOIN": 440.66,
+      "RIPPLE": 11.0
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Tragedia podczas wycieczki w Aleksandrii. Sześciu uczniów nie żyje, 21 zostało rannych - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSC1GYUFUVVdYTUxDYVdLR0hnWFEtelFHaV9TcVRKTHlhb2RONmVaVmdGQTQyVEFINzBuZmV4V0pUOExXbk1ITDJ6RDRoT2pmbzhsV05kNUJRN1FlRkZXUTFlX2tTbEdxdE9nMVlNQVdfc3B2V3F3dFEzLXc3eXVyeTlUTlFYckFwd0tZZWRlS2hfaUtkM3NNVDdseXZBcTh1NU1mTTllX1FmbVc3TkpidDhVT2lFcXRs?oc=5"
+      },
+      {
+        "title": "Tak Trump przyjmie Nawrockiego. Ujawniono szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmZ6LWU0cFN1OUxNOUZ6ckxpeHJ0ZUdURUxhR1g1S2NGNjFTSlZ5bnR5MFpuanRkai11T2hsbW5NYUdPYWxiWmEwSTFfNTdiV2lZU19qWS1sZXlyTWdnYl9KTWFSRHh0cnptWENua1ZzTDlIc1c3bmppRG8ydVQ0QW5EWHFsa1F1ejBaNzhRRHF6Q1dWalFBcA?oc=5"
+      },
+      {
+        "title": "Kluczowe spotkanie pod znakiem zapytania. Eksperci wskazali obawę Kremla - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdjdktHZHJWZ01GUkFfdl9HNnA5OVhjUEhlbkdFUGJGTE53T0pkVVFnRV9CeE41Y0ZoWHA1aEtqd2czeTEydHlldExpU29sOGZLb1Q5a3MxX3J6d3R6aFVBdi1tT0tseU80U0RYX3l0OUhsTEs2UkwtM21xbDU2bC1CMTZSM0MtZDFPUTk1WE9fdGp5eW5NdktQazVJZVFiVUhGSFdn?oc=5"
+      },
+      {
+        "title": "Przez kościół niósł się szloch. Olsztyn pożegnał Anitę i jej synka. Słowa męża rozrywały serca - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXJHWmhtQU5XWVYyaEpFSzdtbklrc1Bxazg2ZERCdDZ3WDU5SGRUQUlrdG9SRlJETjBTSFBiaHRrMzNVaDBzQVZaa0NRbUxPM3BmWDhweDIzYXNseTZuaVRjMGlVSEpPRnRzcE44dEtVa0dJSjBnZTFoQWlFalQ3UENUaWVNdlMtS3VDX0ptQ0U0NUN0Y3hiZVRwNTVDYm91SmEtcHdJdW4xMGVtdjlQN2Y1aDZNdTR0aGhtYVFB?oc=5"
+      },
+      {
+        "title": "Chciał zapalić papierosa, spowodował wypadek. 22-latek był pijany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2RCT0hOX1lmdFYtYkNaRXJIcWNKTUYtdGVtbjREUnFRTjN6Y2ZfcHFlQ1lFc2dNRTBtUGFhanJvWHRaU3U0QVZGVFFxQ2Fid3VkTzNkZ3BZWUtOZThqTVVrVkRWcExEWVdDQ1hJZmR0bXV2Q3VkcjctdkM1ZGJtak40ejNUdG1CYWdGZjEtUEd1MjE1akctWTVhX1RBVzV5aXBaeUdiVjJxN0lqZVFGdndyUjdhNTlxcjh3MjUzTk02MGR5N25qc3RBUFR2c1BrS08zN3FPYlp5Zw?oc=5"
       }
     ]
   }
