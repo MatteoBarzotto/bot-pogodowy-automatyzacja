@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-21 23:12:50",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6483,
-      "EUR": 4.2521,
-      "GBP": 4.9123,
-      "CHF": 4.5307,
-      "JPY": 0.024718,
-      "AUD": 2.3437,
-      "CAD": 2.6292,
-      "CNY": 0.5082
-    },
-    "crypto": {
-      "BITCOIN": 411639,
-      "DOGECOIN": 0.789893,
-      "ETHEREUM": 15479.07,
-      "LITECOIN": 420.82,
-      "RIPPLE": 10.53
-    },
-    "indices": {
-      "^WIG20": 3020.22,
-      "^WIG30": 3891.94,
-      "^WIG": 3891.94,
-      "^NCINDEX": 257.94
-    },
-    "news": [
-      {
-        "title": "Stanisław Soyka nie żyje. Wielki muzyk miał 66 lat - Kultura Onet",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjU5U2dlSWpsdU9tMDQwQkVqZWRoVmNHZGpPWGhCcVJqMENKOUVkOWpseWRESk15c2xva2Rkdy1UT2h1Ujd6dTlCVWNZVWtTYmxIOXE1cWRWbTVLUGhPRzBVQUtKYlg2a0EzU1NkakVsQzRDZUpCcUFTUHlDWlZVdThqNlpXZnVxQjVmYXhNRXJ0VHNvVlRBZVNoVEdyUXpD?oc=5"
-      },
-      {
-        "title": "Energetyka wiatrowa i weto Karola Nawrockiego. Eksperci mówią, co dalej z OZE - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3UtcHlsYTg4N2J4ZUR2c1BvRmhfbnNPS0JzUXo0S1J3M0ZVWEFBc01hT1BCYzRKS1pFT2Zqb05BMWcweG1NZkpQXzRCRmFDNFhLZEZMN3J6eVpfdVlVN0I5clpqWDFVZ2tZNGlqS21lemlfbzdtQnMtTmtNRFpFTTRCXzE1bXdJb3dqTm1hQjJvTzhkdHd5aVh6bFNFc2dSU2tGampUbmNDTGRtN0NIY1htZk0?oc=5"
-      },
-      {
-        "title": "Trump chce wycofać się z negocjacji ws. Ukrainy? Media: Może odczuwać frustrację - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHRoSC1UeHMxLXNYTVNNaGZuYjZmZlMwSW1mYjQ4ZDRiNHFNcmswZ0dGUzFtbmFfclZWdjNDMVpBRENlYzYyRDhxcS1xRmZHYkEtN0lWeFlhNjE3dGN2VWZ3Q3F3eG83T25VNmRyLXY3NmYtMWI3UHcybjlWQ1UyYWQ5Y0NteUc4WmM0Ti0tcVo1RjFiZlJYZzl5QmhTYWp5RUJZeTgyT3F1MHFSX3RjeDRR?oc=5"
-      },
-      {
-        "title": "Pilna decyzja Binjamina Netanjahu. Chce \"natychmiastowych negocjacji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2lTX0RzSXQxVW9BRks0eEotdXlZS2RQZ2FkNGFjMThPRVdDUXlCTEhTZmJuczNhQW9xZVN0QU1RLVlLbjVZVHg0cmtEY0IzbWEtTF8zT0lzbk5TV291V2N3NWJrbENtdTBWcEE2dS1kekJubGV0a1JWb3M3dXJxSXU1LVh0ZDlPU0hxay1xQWo2WE5aQVp2ZTVvTkFUUGFxV3RWbGlYTm9NNFpFNlZ5czRJV216QUpNTjdn?oc=5"
-      },
-      {
-        "title": "Nieoficjalne informacje. Rosja podyktowała trzy warunki zakończenia wojny - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2dsUm8yOWZZbURzLUFzaVFZemR3RHB5Q3RDRTZ2NjNsMTBESXVKZVVBZFB3dHIwNmJfWUd5ZHdrUWZnU3BLaWlQblN1SmE4c1ZBVEU2RHNweXg5dFFBcEtuOEppeG1CTk5EVHdyaUFyc21VVUE5cDAxcDg0NG9hR3FQRnExMzlIR3FVWWZ1ckdtWU0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-22 00:13:40",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Spięcie między Millerem a Komorowskim. \"Panie premierze, litości\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa09rZ09aa3NFMWVmUXZiX2FrTDF6QzlPM01feUxDSWZqV256S1Exek55bWhGVWFhLS1ZdjNlTXAtQXNTd2FhRmVlVVhOalNLVndEa2NKZjlmdEc2Q0V5TDNpR3Fsd2FlZUFnZ3J4NGxqMjRxaFA2RVRLUEowRnhJVEJsRVJKdkQ2VEdsYUdIRUx5cnd3eWRSbnhtRFc0VDRaY1VTZHMxMGtJN0ZuWTRPNEU5X05PQTg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-24 06:20:25",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 419174,
+      "DOGECOIN": 0.86109,
+      "ETHEREUM": 17407.97,
+      "LITECOIN": 441.13,
+      "RIPPLE": 11.1
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Nieoficjalnie. Donald Trump chce wysłać wojsko do kolejnego miasta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2ZSdEtVMjNyUmU0RDF0NEJyRDJRUFFpN3IzaXd1ZDdVN3FNNXpIMzBGWFBJUHdCb3gwZHU2VktuVGotSDhtbmYteGNNN1ZHb3lscVc4RzVUc1NTV1dOc1luWXZsYkxRNE1EU0E4eC1JVFk3TXcwOHA1QS1xcVl5d2pTXzhEOHNtYmhLaWh1YU9ZeUVtUlZaenZ1dUNpVjk1Ulc2elJDUlpRU29mWEVqYXBhV3B5QWJWSVRfUU5GNlBHTmZiUjRJ?oc=5"
+      },
+      {
+        "title": "Centralna Rosja zaatakowana przez drony. Zamknięto lotniska - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1UzMThrVXptX1NBbWJRVjdERjVyZ25hWk9HMC10S0NYZ2xIUW13Umd5dkRNb1h4WkJPTVJkeXUwWGZqSE94UHp2YXkyX1JVVURnVnBZeWNpMVJlTTlobkhJdW9DZzcxQS1vdE9YXzN4XzJ2WjhpR0VJd2lzdjNuUWkxYm1hZWV6dzNjSUkzQTJKcUMtN3VyZ1lwWUNxU0pvVmtTMnRGYVRSUQ?oc=5"
+      },
+      {
+        "title": "Zakup tych urządzeń przez MSZ miał być tajemnicą. Wiadomo o nim za sprawą NIK - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2Y1dTVpX1lhdUlDdkppT1gzQ3lsMXhHLXY5VXRHTm43TDNwbXVlcE9qUDdKWHgtTXY5MDNhMmZkSXNBZEJMQmNwa2dxaXBqeXNKZzdXN3RHWVBfZTgtTTBXNkZLWDlnWWI1ai1NczhkTXo3VjY1SkJ0Wlp3UGtvVW9hY3B6U0o1a1JGeA?oc=5"
+      },
+      {
+        "title": "Niezwykły widok znad polskiego morza. \"Tak wyglądało dziś Niechorze\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXctTWZKb1BLenR1MmtIWktrLUE4Yk1veWxTOXVnZEFxS1BQa01ad3hOZGhIMzdleUdiRF9ZQ3liMUc2VERya3BkcWF3Z2psUUhOWlQ0YmdmeVB1Rk9ydmdTS2JTekRlMXlJLWZEU2Z0UHBOemJWaVYwX2NocTJlVnFDR0RSek4ydjRodW5vVG91eDZyR1BDSjV5ZThzTkwwVXc?oc=5"
+      },
+      {
+        "title": "Kreml obawia się spotkania Putina z Zełenskim. ISW wskazuje - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzBseEZxYmVoMWJ1amJ1Zk4tSkd5bkFWRzZ5WW5kd2dqSnNSOHZLYjdNRjBNUGpMQ24wQTRHc1R3YXNfYlJyRHFTZ3U3YVQ5R0lmZXNUNWdDZ3Nlb1JRb3Q5TDV2aXNpa3JVU0trREE4V3V1bnFOQU5NeUpycjFwOUhzc1lOcFJTbGtzVUJzUE5HNTVQMGc3aVRWcXNzZw?oc=5"
       }
     ]
   }
