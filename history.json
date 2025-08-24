@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-22 20:19:17",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 425563,
-      "DOGECOIN": 0.862768,
-      "ETHEREUM": 17372.26,
-      "LITECOIN": 444.24,
-      "RIPPLE": 11.12
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Co ze spotkaniem Putina z Zełenskim? Ławrow odpowiada - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNldpSHNiSUxnU25McE1RMUxGSzFrN3VzeEtFWkxXb1I0V2t2bjRhRmNORHRIdDh2S3ZmdFFuS3NVYkRrRkc0aWU0Zm8xbEoyQjNnWVN5TDlyV3dNeDhTdmFMUFE4Zm1uTmRBYTZnZ2dwZ3hmRWlkS1VDSXRUMzJuU01IZEVkVm1xNmZ0MVVFcm16VWswMS0wRkpHTEtEdkR3aEpqOEhLT3VnNTczNUMw?oc=5"
-      },
-      {
-        "title": "Mariusz Błaszczak odpowiada na wpis premiera. \"Urlop nie jest poważną sprawą\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1JfMW14WU1iMDFTaDc2MlhDSDRCcWNwZmp6OC1odERZOTFnUU5uV1JyTFJtdHhvZjBudFlncl9GbkgxNG1uV2RFWDdWTlJTR2hnSXpWQVpSd2QwMnZ4c2lnME45eElDU1NLNFRlUElFSERSZFJHMWtZTklUc0t5eDgydTF6cGF4SXRBMVlzN242aDN4a1VldENlRWlFQk1aejlwVVJJNXUxeldUUWp1NVotUEQ?oc=5"
-      },
-      {
-        "title": "Orban poskarżył się Trumpowi ws. ukraińskich działań. Jest reakcja - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFpkZ0hHbldBS1JYSHNBYzJRWVJJbjhRdl9Hc1BsRzh4LVNhcjRTQmJCeWVySW9fQzhxS1ZQVXdia3RQYUN0clFjZFlkTnhjNzZSMmVWcFZ3SFZLUWlSb0p0eDZGN0hSNDNwOThTTkRFckRHTXk5T09yR0ZOeVg0OVp5MlhMZzVLSzVYWml0YWRQVnc2MUd4N0RmUHVTMmFPM0RHa2U5LXRpV0h2SzlwbHVqX1htQVMwOG84?oc=5"
-      },
-      {
-        "title": "Żandarmeria Wojskowa w domu Antoniego Macierewicza - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXVWTFFGRWJ2SU9OT1RkUENIM3p1dmhBMldqUGR1Zk1CS2RSLVdZTEV6bGZrMmxyMmNaQWsxNVZRVnBlY25DcGtIc2pXVWs0U0tuS3A5NXRYTmRMcVlLTDVIVUVGV2dkdGhYYXh4MkJLWFJaSHFickxNaGoyTW9UTjBQcWctSTN5Z0dheTY1S0JoWmdz?oc=5"
-      },
-      {
-        "title": "Policja szuka 5-miesięcznego Borysa z Przyszowic. Matka z dzieckiem zniknęli bez śladu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3FZVjVPWEhObUlVTy1uMmdyMTVZdTh6cGxLZDRHWmRVbndKVndtZ1dGMzA3R1dYS1dtVVRhV3JZcUsxTnI5TFF2dk1GTUE0aTRRQ3ZQN2V1T0g1bmxPNlhQZnBXWG1hMnNPdXRPUUx4Vm1vUlNmamVXRFBGVENuaXdPc3hsd2cwMkk1SE1lbkF6RHI2X3BmTFZpcjZ3WmNDMjBhVnVtNS1oVzF6d2t3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-22 21:11:00",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "WSJ: USA uniemożliwiają Ukrainie użycie rakiet dalekiego zasięgu przeciw Rosji - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWowcGNxbjl6aDVOOGRjZkNpOVpqeWFYZmlLX2ZKMlNpTXNXYTJjWk1QcGVIOWtKeFJvVjNXbVB6V1FRenJLalQyWnV0TmR2VVhMNmctVFo5V3ZDMWVQXzlMN3FfdW1VMUc0NEFsb2NOZ2hLWWhsU0pyenNWNDNlNTBCX0FrUTd4ZVVoU3B0N2RxZlA0X2RJckhiUEVDTjhWU1lPTEExVVltcFl1RENCM3lDTHI3VFZwWDhKTjhuVGFSMDlpTTZvMkVhZTBTeHhYYmN4VXJWSQ?oc=5"
+      },
+      {
+        "title": "Pożar w Ząbkach. Silne zadymienie, trwa ewakuacja mieszkańców - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem1KazR3MXFsMlBpUVNJd1ZhTE5oNnlkMnFYNng4N0VScy1mV3UyV1JMWVpMNk9DNHJ0bU9RcXRocVhzS3hFMG5xR0dZYkZXR0VfQklvUnRnNHZHVDVMbXFvWF9CSm9NZmZlLUtTeUpEOEJVN2dVemVjczBkQjlncVRsekNGSExNRzBlNUhDdkF3eFlyTXhGMl9zRFU2MXhoVVh3TkN6bHBybnIzcTdDaUtReS0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-25 01:12:48",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 412812,
+      "DOGECOIN": 0.841915,
+      "ETHEREUM": 17414.26,
+      "LITECOIN": 431.91,
+      "RIPPLE": 11.03
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Zełenski pokazał list od Nawrockiego. \"Ważne memento dla Polski\". Nieprzypadkowa data - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzFaWFRLU2w1eURPbDRNNlgxYVNwcEQydkZlcjNKQXZwUVIzLVVhVlFRVXU3Q0NTMVJfOVdxU25CcGhIM1FaeWFWQ1pTVWhqc2x1SHptLS04bUcxbWRwajBrQ2RHVUctNWUzbTRtRWJxZ2hsblFSSHU0N0czYW5PdS1CdVV2NDVhZjBZclM3UHpKU3pteWVLMGltRlFjdVZWNGQ1OC1FaEREb013MkJUZ2lua3JxeF9vVlE?oc=5"
+      },
+      {
+        "title": "Wzrost akcyzy na alkohol i opłaty cukrowej? Szykuje się kolejne weto - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1Eyb1NkOGpfS0FIMHhwOFFtbGFpQ0J3LUZpMmNjWnZtRElDYmZiVlNuem5SbE12YmFOWWNhTHFNYWxvVkVKa1RPSGRYODZ0YjlialB6OFEyYlVGZmwxR2dzQ0hZRUczNHV2eE1Jem1BTTl5X1RjMkJsaGsxS3NDYTNsdXlZNzFQSXAyaEEyenY0Q2JkQ1ZiU2pqdE5GM3dP?oc=5"
+      },
+      {
+        "title": "Marsz przeciwko imigracji w Warszawie. Spalono flagę UPA - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWFUMTlMbGRJNWE1Uk1wc2NCQlpDRnkybGVDOGNJV0dRdVlrYkd0ZU1OcXpfeGxFTWl0Q2l1ZmRPcXFVdmVjX3cwZlplNzFfQ3ZmTkh4R1FoWHgtY0N4bkNWeDdISS03ODliV3o3UUhGVXNfS2w1cUtBZ1hfSGJQd1ZLWmt0VS1NV0RGbm82QTUtangtVG9LLXB2Vk9kck9hcGFRVm5n?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie w Zabrzu. Znamy wyniki II tury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0lrWGVCeTBkT3Y3LVNVNzVPZzZhTlNuSXA0TnV4YVh6Qnhvdzh1M19JMGQ5MWU0Z1pEOXlvVkVHVmVhNEVHY1lSYUl5UmxvWHJYMHp4aWg5ZGpoTWF1dVhpTTk5b3Z3RjJJczQ2eGF0ZG95Vkk2MWswdklfamJKdkxNVHN3akRWUTdsd3hSbnIyNlBlZ3FhOUpjYlNiNHNpblB5blNCdzVnNDkwZ2o0WE91dVNGUQ?oc=5"
       },
       {
         "title": "Pożar w Ząbkach. Silne zadymienie, trwa ewakuacja mieszkańców - PolsatNews.pl",
