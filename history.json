@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-22 03:05:31",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6483,
-      "EUR": 4.2521,
-      "GBP": 4.9123,
-      "CHF": 4.5307,
-      "JPY": 0.024718,
-      "AUD": 2.3437,
-      "CAD": 2.6292,
-      "CNY": 0.5082
-    },
-    "crypto": {
-      "BITCOIN": 412641,
-      "DOGECOIN": 0.793469,
-      "ETHEREUM": 15552.46,
-      "LITECOIN": 420.68,
-      "RIPPLE": 10.47
-    },
-    "indices": {
-      "^WIG20": 3020.22,
-      "^WIG30": 3891.94,
-      "^WIG": 3891.94,
-      "^NCINDEX": 257.94
-    },
-    "news": [
-      {
-        "title": "Skąd nadleciał dron, który się rozbił w Osinach? Są nowe informacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1QwRkJPdmVQb0twSWdpRGVYVno5Wk1VZWdHbVRFcTkyN3U0ZTBDQnFndXdsUGhaWDR2LUJVd2NmQkFuTVVMWWFLUlVGc1F1MzdwbGtmbDJUc3pZVTJxcU1BN3Vrc0I2R0ZoZFNWWHFrVVNuQV8tQmtmcHdJUGhCRXhMQkU3OUMzN2FROXJiT3l2ZnREWS1CUk1R?oc=5"
-      },
-      {
-        "title": "Pierwsze weto prezydenta Nawrockiego. Chodzi o tzw. ustawę wiatrakową - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUl6SVdMeVVvc1lSdGFtdk5ialJmWU9GME1YVnVVOGpmN0NORXZLMTBIbVNXSE5fTDBCN0thaWFaSE92Q21uTjh5VVdfYXh4ZUVQeGcxVmtFX1NHQnBUZDl5QlBLbW8zdFRLMl9NOW9FeXZhLTdSbEdtWkc3dHY2bEJFZlBsLURyQUpZY1NjN25rbE1FWkY3OTNEQWxkZUE?oc=5"
-      },
-      {
-        "title": "Niekorzystny sondaż dla rządu Donalda Tuska. Nawet zwolennicy rządu widzą problem - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUktX0hTeXlMQWZrczJ2NXdUTE9Jek8wUnZqT3dBQW83b2lTYXNtMERDZGRZdGJfMnpEbl9CYng2cS1vTXI5VkF3SlQyVkR2NU56akVPZ2JpRmZ2eWNBSlV2UDN6MEtzWFZ1Z2tSU0d4MnF4Z0dVUEpROUN3Zl85bFBHOHpRQ1VwNjlnUXg2cFlVZk9pTmRLM3hLODJGVHJQWTlRQ1draFpiTmpVeWhnc0Q4SkVaTUpfSjh0cQ?oc=5"
-      },
-      {
-        "title": "Czego zażądał Władimir Putin w Anchorage na Alasce - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUhxT1AweHRjMUtmbE1zM1BlVDc1NGhjYmJ3cFhnM2hGak55SDhjb3BvdHRtQU1qY1BpVjB0TXpWSDlQVVJjYjRhTTBKYnpyLTY4V1ppb0JIX21kaUNCc25wOXhzaENTUklrbHctSGkxcWxtSW15eV9HZGM1OGswZU1Ja044akxnS2RjdXcxZDNQaXIybW9iNUEzckZyeEE?oc=5"
-      },
-      {
-        "title": "Pilna decyzja Binjamina Netanjahu. Chce \"natychmiastowych negocjacji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2lTX0RzSXQxVW9BRks0eEotdXlZS2RQZ2FkNGFjMThPRVdDUXlCTEhTZmJuczNhQW9xZVN0QU1RLVlLbjVZVHg0cmtEY0IzbWEtTF8zT0lzbk5TV291V2N3NWJrbENtdTBWcEE2dS1kekJubGV0a1JWb3M3dXJxSXU1LVh0ZDlPU0hxay1xQWo2WE5aQVp2ZTVvTkFUUGFxV3RWbGlYTm9NNFpFNlZ5czRJV216QUpNTjdn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-22 05:03:56",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "To tu zatrzyma się Nawrocki w USA. Tajemnice rezydencji mrożą krew w żyłach - Fakt",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDNSajRqVlFQeWpiU0JOLTE4Q0Jkd1BlNjZVWlhGMXZxSzVYb1d6ZVBoTk1mbjhGTkw3SEk2V3hMU3gyeXJUVmF3cU1sWjVrSk43d29SRVM5UGpRSWZZUldreUVPa2FIZnZjbEFuLWNOYjNYX3kwLUdEMFVOaW9BSHZSd0ViS1F1dlVrZ2NDektLeWF0YV83dnN1eTBCblY5ZFRqRWRoVWZIcXlMaWQ2aGFxOE0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-24 09:12:35",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 417988,
+      "DOGECOIN": 0.846181,
+      "ETHEREUM": 17338.24,
+      "LITECOIN": 437.42,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Płonie zakład przetwórstwa opon. Alert RCB dla mieszkańców. \"Nie otwieraj okien\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1I3U2VwaW4zV0hXNVdmUDM1NlF5R0NUMFZTY1Q2RWlad2VCWDVPMmpBV3VIRlY4Z25wWDQwYTdBS1ZwNHJvYXhwMVgtR0I4Sm5tb1dfYVhvc0JyV0F2N2h6aTY2T09PMFF4bzA0XzcyTFhTaEJkQmRMRUY1MTRXYmlGdFR6QzFCRnNPQkxiWC1ORUdsb3ZBdUJCUFBoZ0JEQzZfTmEwMngwR0hSblN6UkJLNTBab3FaT0w1V0Q0ZnNxZw?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na A2. Kierowca ciężarówki staranował biletomat, pojazd stanął w ogniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlZzMlI3TTJVTERST0d1UVN5UHdOdE9Zd1RSZDFGZnFHX1laWXlvREdsOHJ6RFZEcHJzUkZma09jQzdVXzN0SXhwV19tQkd1eDNqOEVBUnJ0ZmJBdjdQb1U0Q2FLU2hPQWNpZU1TRnRTdF9remlTRkRuM0o0R2ktWURwVkhEVmw0eW5CQ2VxRUxiRG5tM0Z1NVpYZ2RMMzFURl9uSXllOUtzQUNZTk5uenRkMlR2OWt5ZVAzeC14UndZRkhzVW1USGl0Wl9UMF90RmFZT2RDZWNiQQ?oc=5"
+      },
+      {
+        "title": "Premier Kanady przyleci do Polski. Nieoficjalnie: okazja do ważnego ogłoszenia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1RCb2JETkRLOFVtcEppelpJajdzOVpLNUlaTzR0ckJ3UWVUZHZ6YzhhYkRKbEpuakNyOXVVZUR5b2FreENtb2Fsa2dPdVZzTENnXzBtSG0wRUhfX1F3UmNsM0UxejFiMUhzYkxrR0x2OUVteEpOQ0hwMkJkMXd1eC14VzVfSngyLVdUaUpQRG1DLTh4TXZ1dHhZZnFvajctNW90blA0NFR6aktvaGwwRUZDNFdITmc?oc=5"
+      },
+      {
+        "title": "Tragiczny pożar na Pomorzu. Wśród ofiar 11-miesięczne dziecko - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmxsUWJ1THEtYlBoZVFZZ3lTSllab0FoM1cxX1o0ZTlQa0dwaGdvY0xmb1Q0M0lreXAxcnlEV0czV1puYlc5OWNGVkk2Y2xkemZXdkFvblZobXdVUkdrbFFnTkxieFdvWTN4Y0UzWS1JX1RYY3RBam9PcEtPdEs2V1NfTlBWWDk4RDN2cXhWNVhjUDhlUGlDaGVJalBiVExpSlliOTdJTE5XVXlQSlU4YXBRWlRab1pZem91TUNJVWI?oc=5"
+      },
+      {
+        "title": "Kreml obawia się spotkania Putina z Zełenskim. ISW wskazuje - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzBseEZxYmVoMWJ1amJ1Zk4tSkd5bkFWRzZ5WW5kd2dqSnNSOHZLYjdNRjBNUGpMQ24wQTRHc1R3YXNfYlJyRHFTZ3U3YVQ5R0lmZXNUNWdDZ3Nlb1JRb3Q5TDV2aXNpa3JVU0trREE4V3V1bnFOQU5NeUpycjFwOUhzc1lOcFJTbGtzVUJzUE5HNTVQMGc3aVRWcXNzZw?oc=5"
       }
     ]
   }
