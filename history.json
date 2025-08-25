@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-23 13:10:21",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 420446,
-      "DOGECOIN": 0.860951,
-      "ETHEREUM": 17184.48,
-      "LITECOIN": 442.06,
-      "RIPPLE": 11.05
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Wichury i gwałtowne burze. IMGW wydał ostrzeżenia dla ośmiu województw - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3NKSkhoRG01QTNFZ3N6QzV2ektuY0ZjSDNra21HN1l3T3hnMlhjSVBybExBeU9PdExLOVhXVzBJR3E0eWoxamRmdzBzVms2TS00bUEwM2UtLUI5WENNVHJnX2QxbnVXQU9mVTFld2NsdnNrQUlwa1FFbi1NT3N6X3VhdG11WE1hNFJTYmdyTUk2MVlmcmlFZkFWenRuMnduUkpiVHQ3M1ZqRXpMSkNQal9LeG5VT1dsSTZaVTZQMGo0SHdFc2Nv?oc=5"
-      },
-      {
-        "title": "Brutalnie zabiła swojego partnera i uciekła. Policja odnalazła ją w Polsce - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzBSZml5NjdZTnpyTWx6clJNbUxTbXNULW1hY2dXRkJPR1dOa3FRd3F1LTE0SV8tdjFSdTN6NXVHSGs1Z2owa0hHaXRiRzlBblNGYjVMT1ZENF81NV9Fc2hpODhVOGlCT1l0Z3RHcU10Nm5RWkdWcGZ1WXlWZFlTVGNfZjJYOW95b1M0MVBPbXVfWlByTWxFdkl0VEd3NUotNks1UmRyNmpRV0Eyd2dYTnR3ck8?oc=5"
-      },
-      {
-        "title": "Atak nożownika na taksówkarza w Krakowie. Nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWxOaHVlOS1mXzZnTjN2cHFGaVdrc05NWVc0dnJScTVNWmJ1VTdxS01XQXBJci1RQmFHLVhyN3V1V1V2RGo1Yk9WRTJjbjliOFBubzFKZXc5SjY5S05xZUxnQjdQUXpjZkVTSzk5UXdFUHhKOFJKa0R5SkRDM3J4VDNzd3Q3VG41emMyQjd5RGhiU1BZc0lXUVZpOXA1dlU?oc=5"
-      },
-      {
-        "title": "Katastrofa ukraińskiego MiG-29. Zginął pilot - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2NaSkNTY19Xd0hTVlRlUFRXU2doOVU2VW9QRy1tQndoQjFBUW03dTNfQWVqZ2ltZUxDc2pYSXczb0JwNUNlMG5KaUljcWhsT1FWb0lXUG1tbmh4WVYxNTN1eTdkQ3JMSHYzZWZ1Wi1wVUtTVmhuTXhVejNqYWwyd095VHc4YXBaOGZzLXBPX2hwLTV5STRjb3BxdlV3ZUZCTGMxTGJvYTFySFVNeVE?oc=5"
-      },
-      {
-        "title": "Putin o \"światełku w tunelu\". Rosyjski przywódca zabrał głos - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlR2bHRMWnR4U1NiaDJlLWdzS2diSXQ5ZlhoYU1SVGRIMWx0WmtCcXpaT3l5eTBJWURjeGNoaTdvaXdQaDJxM1Z6SzJxUzZHRjVpdzVlWGk4ZHBkN1lYbWVvRjhlcVQ2ZnJIS3ZkNzNLVlU3Q0VSdG9GV25UX3J4UzFONmY3TDR2TmVjRGQzLTlkRHcxeFJkSWxLUVZ4czMyQjlRb3ZOTzQ0YmM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-23 14:24:46",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Zapisujcie dzieci na edukacje zdrowotną\"! Wierzący ojciec odpowiada polskim biskupom [OPINIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1JFODBNdlFUdm1VNnlMclZsOEFVV3ROOUlvZzFyZVBTeG5nY01lTlg5Q3Q0MTh5R2hxNFpZcGtRam13OGExNjA0eVkzeDdjaEFySzRCUnY3YmhBUEcxb3FxOXkzNklTRkFWUE9ON0lCZDlxUVl6VFNTVkl6c29VM2E5U1BNT1V3SS01QU54LXQ2ZzFKRVlQQWptR0RvVGdGOGRjSmktckpmWU9sYXRodkNudzVSeVgxUzhKaVVMcm15cFU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-25 19:10:42",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6421,
+      "EUR": 4.2627,
+      "GBP": 4.918,
+      "CHF": 4.5416,
+      "JPY": 0.024728,
+      "AUD": 2.3659,
+      "CAD": 2.6342,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 411232,
+      "DOGECOIN": 0.795979,
+      "ETHEREUM": 16760.1,
+      "LITECOIN": 408.83,
+      "RIPPLE": 10.76
+    },
+    "indices": {
+      "^WIG20": 2905.64,
+      "^WIG30": 3766.02,
+      "^WIG": 3766.02,
+      "^NCINDEX": 262.07
+    },
+    "news": [
+      {
+        "title": "MŚ siatkarek 2025: Polska - Niemcy. Gdzie obejrzeć mecz? Transmisja TV i stream online - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTgydE5fcmxfYWRTRDVRQ2QtVDhqem8wT2Z4OVVXbjF4d3RkbjBYcnJnSGdwcVBpb2NzSUVpdWNTbHNfcW9seUotUzQwMEJuTVQzRmRWM1VQZTVqdFlwY2hJQ200Nnpfa0liZWxpckdxT0N3cmpkVjBuT3NsTXZmSE5pT3dCeUw0YmM1SWNpa2dFUW1aUmNJYXROalFrMnEtdzNJWXE5NnFFcTBFSU4tczF0QkxwOEdsbVlJd05GWGwzTDdhRnRRNjdB?oc=5"
+      },
+      {
+        "title": "Weto prezydenta dla pomocy Ukraińcom. Eksperci wskazują na duży problem dla firm - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFBFZndhZTEwbW0xQ251ckFSNGJkZG9fQmtlc1pNRWdvX1RuVWR1T1Y2MUJkck1UbTVSQ0VlWGl1RDhZTVB5eWZURlBEbnBnMFBSekxGOXl5SnVyVWd5eXdpbG1XWHZXalhFS1VpX01sOFhlZ1NSUWdNYzRkVmczV3oxazh4bGpJX29nYmZfZWttRDlERmRQQVFSNTYzcnlRbGpJckdscmpjUXQ3V2UtQXBEQjh3Zw?oc=5"
+      },
+      {
+        "title": "Śmiertelna katastrofa awionetki pod Lesznem. Spadła na teren prywatnej posesji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREliajlGenNwbl9TVkVNZ0cyNll0aDhRRFhBU2RJOE40Z2hpRDFqRG02X3g0eTRqdjMxZHN0ZDFJZE80X09IV0JTWlF1TXFXNE52UWhObDZHVVJkUFBLa2tPNUxFMmJ4dVJHWEFHU3hOT2tLU3JNcDFzUlduOFpFSW9PQzB5VU9BOTdhQ3F4SlNIeGk4VHVqS3c3RXZpZk81ZG4wUWxlY3d5QXB4a2tvckNZWWpDQ01Yc1JiWHZFQlNHMG8?oc=5"
+      },
+      {
+        "title": "Mierzawa. Tragiczny wypadek na S7. Zginęły cztery osoby - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHp5V2o4MXY0MkN3Y3dRMU96elJLY0RUeDlnNU1wYWNjNWp4SnJnb3YyVm9HU2NLZWdtTlVOVDNpYnlaOWpobDVFdGU2TTliVTZnYl9zVWhqNHd5eTFzaTFzSzYtSkNNTTZRczNSb1gzbFEzZno2N2V4YTFZODI4Vzc0b1dsRjZpQ1oxOF9hRjlYckdMUEF4NzlsdUdzMDRTYU9zQTQ3VzQ4cnRoMmVrMFZHNmpQUQ?oc=5"
+      },
+      {
+        "title": "Ważne zmiany w edukacji. Prezydent zdecydował o \"godzinach czarnkowych\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRG9ueHlBYk1ocFdxQlROa0xaT21ESGFlNWFWZE5kd2FoelZLMjlLYnZVZEJ3LUdCdkloeEFiX3BHcDBCSjdTU2cycldvTWRKdUU0MFIwX0o1bVZzMk9nVExqRTRURkFPaGJsMzdtd2p1akx4R2JQaXhyWEV3MGFydU85eHByRmM2WVFTVnJXSUZ6bkswRnBIeDQ1WEdZbXhTcGFWYWNfMjljS3Y4UEhTSXlFX1dpdWRwNmc?oc=5"
       }
     ]
   }
