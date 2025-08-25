@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-23 00:12:34",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 425485,
-      "DOGECOIN": 0.875355,
-      "ETHEREUM": 17564.0,
-      "LITECOIN": 447.72,
-      "RIPPLE": 11.21
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Trump: Zobaczymy, czy Putin i Zełenski będą współpracować - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWt0NFg0aHNsT0RpSV9CUXpzX3RBeUJaVVNzMlp6bDR2WkZQdk1jVUs0TzQzWDNNRXNXUTlfeTRYUnFpX1ZqT00tWnY0SkVaWnFlY2IyTkpLdFYtMEwwRWV0WUtFZ0RnODlORjUwOEZDOFprUGxpeHZMbmJCSy1WQWU1eVFYSVFLX2JSeDBuYzVJZ29TaHBJSXJ2d3o0YVhZNk9RX0FxcmhURHRSZUtpRG1MTVRUMUY2SFE0?oc=5"
-      },
-      {
-        "title": "Nożownik zaatakował taksówkarza w Krakowie. Trwa obława za sprawcą - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1J3M09pQ2pwaWZabkY5YW16T19WYWc5OHRERW1aMDNCU0RzWVA4WjRpcUZLcjF2bmxkeEZzeHM4Nk9FTGdSMGdJdV9oSF9TVG5RelVKckhCQkVwVV9VSmZ5cEw5Y3ZKOHJKazBkTU5aaHJSYUtYM2pUa2Q2QjdCeHFzU0dla0I5TzRJNTdMYmRLUmxtN1VodDlYdmNPbG9Pd0FHMFFUZ2N3eWc?oc=5"
-      },
-      {
-        "title": "Polsat News: Jest akt oskarżenia dla Mariusza Błaszczaka. Ujawnienie planu \"Warta\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFItQTFxdHRxTTJ3WjBBYV9WZUdmVE5ZVHM5SlA5TXhXWjdVR1dKRGhGLU1mUndtWkd1RVZKX3A2eWVrc3BITHJkUDlEbzY1SVprMXFtYWlBaEFsY2hEamhnNUtPMFhOc2lhX1ZWcFhMQzVnRThncV9FRDJZel9XVFpnUWxaYU1SZmRLREI5U09rRlhlUWtzUnhSaXk4dlNKbVVLNUp5R3hfOWZVV3ViQ1ZWbw?oc=5"
-      },
-      {
-        "title": "Żandarmeria Wojskowa w domu Antoniego Macierewicza - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXVWTFFGRWJ2SU9OT1RkUENIM3p1dmhBMldqUGR1Zk1CS2RSLVdZTEV6bGZrMmxyMmNaQWsxNVZRVnBlY25DcGtIc2pXVWs0U0tuS3A5NXRYTmRMcVlLTDVIVUVGV2dkdGhYYXh4MkJLWFJaSHFickxNaGoyTW9UTjBQcWctSTN5Z0dheTY1S0JoWmdz?oc=5"
-      },
-      {
-        "title": "Atak nożownika w Chorzowie. Nie żyje mężczyzna - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT21GRlphbjdWcEVLZk9NamNqN2NVUURPVU91WDFBRVN4UDlEY283a2FESzBTWWpjRUx5eGtOWUhoaDRuVDR0WXkyN1pocHlSYlh3UE5YZ2RMQl8zVVNCcjRSUkhlMnRkbjJiRWtyOWQwY0JyRzB3TjI4bkVSUk5Ccl9oSEMtS29iSkV3djZqS0RvdUc2d2xOag?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-23 01:12:45",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kolejny pożar w Ząbkach. Silne zadymienie, ewakuacja mieszkańców - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem1KazR3MXFsMlBpUVNJd1ZhTE5oNnlkMnFYNng4N0VScy1mV3UyV1JMWVpMNk9DNHJ0bU9RcXRocVhzS3hFMG5xR0dZYkZXR0VfQklvUnRnNHZHVDVMbXFvWF9CSm9NZmZlLUtTeUpEOEJVN2dVemVjczBkQjlncVRsekNGSExNRzBlNUhDdkF3eFlyTXhGMl9zRFU2MXhoVVh3TkN6bHBybnIzcTdDaUtReS0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-25 07:15:12",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 410079,
+      "DOGECOIN": 0.831417,
+      "ETHEREUM": 17146.08,
+      "LITECOIN": 422.62,
+      "RIPPLE": 10.93
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Rząd chce podnieść podatki. Prezydent Nawrocki stawia sprawę jasno. Będzie weto - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeURGVk05MTV0bGUxYWVvbFNQTGhRZ2hNd2pORDc3MzAyZlVQMTVIYmtpTTJqNWwzamR3QS1VQy1KMmIwMzMwcUE3RDZTSHNJUWNQT2hCWkN2d3lNa2NQTDB6YVhOZDVDU0VobTFWd3Z0Q3M2NU9hSFBsSUZybU4tN29weWRpWW9yUUViZG5QVGczSnFSekRiT1pIY3FadU9KZ1BhcG0zUi1qWWg2R1lpQWlJVEhzQ0ZncHFYRHRRY1pPR2xUbV9kSndKMVM?oc=5"
+      },
+      {
+        "title": "Zaskoczenie w Zabrzu. Znamy wynik wyborów na prezydenta miasta - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFNPeC1LcHcyYWNsRDl6OEkwTlhKVklnTWRfdC1NMHBMaTNkeUJSNHdNVHI5N3I3d3B6ZEdlRmpFNzQwVkFrRjQzZXh5cW5VVzhNOWJtdEpldEJ4aWdzOEF2RVhJcFk2aU01N2NLdHVTQzNZUG5YcHNLWXZxeFIwM3NNckJ2cmYySHd2cEJmZmExVDRIRTJ4MjJoLTFkUnpsQTlIV2NPblVmeXcxMVNNbA?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski zwrócił się do Ukraińców. Odpowiedział mu ukraiński minister - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmEtVkxuNlI4ZE0xa0x0cDRya2IzSEhGQnVGVnFLN1B3UkF5cnItQW9fUlNrOGZJSDU4MS1CcWRCYjZCd3pwNEFZT0NrT3d5dko2cUlNbm1OVXZ4MUVidHZ1azVhcUJCSUdGTnJVNlcxZFZmdmVqaExKV1dFejR2WFRqRGNSQ09wa3h3VGdoSzZieG1temlac0JLX2xTSVZCSTN4bFBWRGhzYWlFck81eXFHblJzdjlGSDRGVDZiY3ZPUTlsRG9sYVhqSFlUVk1Fak5CWTJwNA?oc=5"
+      },
+      {
+        "title": "Kolejny pożar w Ząbkach. Silne zadymienie, ewakuacja mieszkańców - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem1KazR3MXFsMlBpUVNJd1ZhTE5oNnlkMnFYNng4N0VScy1mV3UyV1JMWVpMNk9DNHJ0bU9RcXRocVhzS3hFMG5xR0dZYkZXR0VfQklvUnRnNHZHVDVMbXFvWF9CSm9NZmZlLUtTeUpEOEJVN2dVemVjczBkQjlncVRsekNGSExNRzBlNUhDdkF3eFlyTXhGMl9zRFU2MXhoVVh3TkN6bHBybnIzcTdDaUtReS0?oc=5"
+      },
+      {
+        "title": "Huti zaatakowało Izrael. Tak Tel Awiw odpowiedział - wiadomosci.wp.pl",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzhLREFlejl3S252WDRteFJPaW9fSVFrVjF0b08zMGM4N25OaXR5aVBodzQ1ZlNON0Rpek9sZTJmbHpVYjB5bkFaQlkzUDlkVEd1b18wYjB6R09aTnR3WmJfenBnRjNKbW5YUGFhWnBSR05sZGhLTkVLUmlWLVlZZ3JqaGkxZUlWWnQzdHVKQ1dDRW1aRFpV?oc=5"
       }
     ]
   }
