@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-22 22:15:04",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 425019,
-      "DOGECOIN": 0.870146,
-      "ETHEREUM": 17559.9,
-      "LITECOIN": 446.14,
-      "RIPPLE": 11.2
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Trump: Zobaczymy, czy Putin i Zełenski będą współpracować - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWt0NFg0aHNsT0RpSV9CUXpzX3RBeUJaVVNzMlp6bDR2WkZQdk1jVUs0TzQzWDNNRXNXUTlfeTRYUnFpX1ZqT00tWnY0SkVaWnFlY2IyTkpLdFYtMEwwRWV0WUtFZ0RnODlORjUwOEZDOFprUGxpeHZMbmJCSy1WQWU1eVFYSVFLX2JSeDBuYzVJZ29TaHBJSXJ2d3o0YVhZNk9RX0FxcmhURHRSZUtpRG1MTVRUMUY2SFE0?oc=5"
-      },
-      {
-        "title": "Polsat News: Jest akt oskarżenia dla Mariusza Błaszczaka. Ujawnienie planu \"Warta\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFItQTFxdHRxTTJ3WjBBYV9WZUdmVE5ZVHM5SlA5TXhXWjdVR1dKRGhGLU1mUndtWkd1RVZKX3A2eWVrc3BITHJkUDlEbzY1SVprMXFtYWlBaEFsY2hEamhnNUtPMFhOc2lhX1ZWcFhMQzVnRThncV9FRDJZel9XVFpnUWxaYU1SZmRLREI5U09rRlhlUWtzUnhSaXk4dlNKbVVLNUp5R3hfOWZVV3ViQ1ZWbw?oc=5"
-      },
-      {
-        "title": "Nożownik zaatakował taksówkarza w Krakowie. Trwa obława za sprawcą - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1J3M09pQ2pwaWZabkY5YW16T19WYWc5OHRERW1aMDNCU0RzWVA4WjRpcUZLcjF2bmxkeEZzeHM4Nk9FTGdSMGdJdV9oSF9TVG5RelVKckhCQkVwVV9VSmZ5cEw5Y3ZKOHJKazBkTU5aaHJSYUtYM2pUa2Q2QjdCeHFzU0dla0I5TzRJNTdMYmRLUmxtN1VodDlYdmNPbG9Pd0FHMFFUZ2N3eWc?oc=5"
-      },
-      {
-        "title": "Żandarmeria Wojskowa w domu Antoniego Macierewicza - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXVWTFFGRWJ2SU9OT1RkUENIM3p1dmhBMldqUGR1Zk1CS2RSLVdZTEV6bGZrMmxyMmNaQWsxNVZRVnBlY25DcGtIc2pXVWs0U0tuS3A5NXRYTmRMcVlLTDVIVUVGV2dkdGhYYXh4MkJLWFJaSHFickxNaGoyTW9UTjBQcWctSTN5Z0dheTY1S0JoWmdz?oc=5"
-      },
-      {
-        "title": "Tragedia w Chorzowie, nie żyje zaatakowany na ulicy mężczyzna - Katowice.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXdWdVBfX25uZGxuMXVfaDlmZEJBV01ic2c3WkU4ckJJRG5FMFlBYXAzLUhka2NobDRuSGc1UUdPanNLOWNsTGszOHhfaGJWbjVjSFJJNURSa19LcGllclhZUjBCbFB0alRJcExlYi10YVc2ekR5MlBISzRrMEcyMkhneEtkRGQyb3VkaUt0enNUallnems4ZkNtZVRVcjlkYlFKUlhfZHRhVHdsNDg5TVhNOWRNX0kyQXpvNA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-22 23:12:22",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Radosław Sikorski zwrócił się do Ukraińców. Odpowiedział mu ukraiński minister - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmEtVkxuNlI4ZE0xa0x0cDRya2IzSEhGQnVGVnFLN1B3UkF5cnItQW9fUlNrOGZJSDU4MS1CcWRCYjZCd3pwNEFZT0NrT3d5dko2cUlNbm1OVXZ4MUVidHZ1azVhcUJCSUdGTnJVNlcxZFZmdmVqaExKV1dFejR2WFRqRGNSQ09wa3h3VGdoSzZieG1temlac0JLX2xTSVZCSTN4bFBWRGhzYWlFck81eXFHblJzdjlGSDRGVDZiY3ZPUTlsRG9sYVhqSFlUVk1Fak5CWTJwNA?oc=5"
+      },
+      {
+        "title": "Kolejny pożar w Ząbkach. Silne zadymienie, ewakuacja mieszkańców - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem1KazR3MXFsMlBpUVNJd1ZhTE5oNnlkMnFYNng4N0VScy1mV3UyV1JMWVpMNk9DNHJ0bU9RcXRocVhzS3hFMG5xR0dZYkZXR0VfQklvUnRnNHZHVDVMbXFvWF9CSm9NZmZlLUtTeUpEOEJVN2dVemVjczBkQjlncVRsekNGSExNRzBlNUhDdkF3eFlyTXhGMl9zRFU2MXhoVVh3TkN6bHBybnIzcTdDaUtReS0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-25 05:10:53",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6786,
+      "EUR": 4.267,
+      "GBP": 4.9341,
+      "CHF": 4.5452,
+      "JPY": 0.024748,
+      "AUD": 2.3654,
+      "CAD": 2.645,
+      "CNY": 0.5125
+    },
+    "crypto": {
+      "BITCOIN": 413711,
+      "DOGECOIN": 0.850099,
+      "ETHEREUM": 17373.46,
+      "LITECOIN": 431.27,
+      "RIPPLE": 11.1
+    },
+    "indices": {
+      "^WIG20": 2880.55,
+      "^WIG30": 3732.55,
+      "^WIG": 3732.55,
+      "^NCINDEX": 258.65
+    },
+    "news": [
+      {
+        "title": "Rząd chce podnieść podatki. Prezydent Nawrocki stawia sprawę jasno. Będzie weto - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeURGVk05MTV0bGUxYWVvbFNQTGhRZ2hNd2pORDc3MzAyZlVQMTVIYmtpTTJqNWwzamR3QS1VQy1KMmIwMzMwcUE3RDZTSHNJUWNQT2hCWkN2d3lNa2NQTDB6YVhOZDVDU0VobTFWd3Z0Q3M2NU9hSFBsSUZybU4tN29weWRpWW9yUUViZG5QVGczSnFSekRiT1pIY3FadU9KZ1BhcG0zUi1qWWg2R1lpQWlJVEhzQ0ZncHFYRHRRY1pPR2xUbV9kSndKMVM?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie w Zabrzu. Znamy wyniki II tury - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDNJRTZaSDI1WVJ5U0Y2NHNmeTlPMFhSbHVxbndMYm1zYWY0SEtNUUVlUWxjVVVKMEtiWFA5REZFZzhOeW1hSkRVRFhGWERBeHdDd1I5ZVRZSmkwakQ0ZWlHT05WZkk0dVpELW5PeWV5V1lrcFFILXpITU5ndkVQWTBGUk9vQjdaeVhHdi0zVTZYODlF?oc=5"
+      },
+      {
+        "title": "Sikorski wspiera Ukrainę w Dzień Niepodległości. Padły mocne słowa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFh6RWZqa2hUWlA1NkVaMHRXclJLb2d6TkRMc1hWSy1MV0E2UEd5aWNsRzNSNVdXQjl3U05GU2JNS2ZDZmNCY1dld3J4RU81TkE0Szl3UWwzLUdMTnJNWC1OeFp3UWFTRzBGejVlS20tZU4xNVFSenVoN0lqendUTnVTblJJS08zamhYd2dpMmJTZXlzR2VpclQzc2VvNnlfcGZCcTN0NmZsTVB1dFhzN3liUGNTQQ?oc=5"
+      },
+      {
+        "title": "Marsz przeciwko imigracji w Warszawie. Spalono flagę UPA - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWFUMTlMbGRJNWE1Uk1wc2NCQlpDRnkybGVDOGNJV0dRdVlrYkd0ZU1OcXpfeGxFTWl0Q2l1ZmRPcXFVdmVjX3cwZlplNzFfQ3ZmTkh4R1FoWHgtY0N4bkNWeDdISS03ODliV3o3UUhGVXNfS2w1cUtBZ1hfSGJQd1ZLWmt0VS1NV0RGbm82QTUtangtVG9LLXB2Vk9kck9hcGFRVm5n?oc=5"
       },
       {
         "title": "Kolejny pożar w Ząbkach. Silne zadymienie, ewakuacja mieszkańców - PolsatNews.pl",
