@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-23 14:24:46",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 419742,
-      "DOGECOIN": 0.864341,
-      "ETHEREUM": 17168.79,
-      "LITECOIN": 442.04,
-      "RIPPLE": 11.06
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Akt oskarżenia dla Błaszczaka i Cenckiewicza. \"Sprawa jest arcypoważna\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHQwSmV5Q0tfQ1JDUzZzUmhNSUp0U3JzQlhEeUZvamlKSmhBTmR2UDR2ZVREamJPbzBSSlM3aTlzdzdYZkl5b2RmQ2RldzRHdE14WWlsYnp5VGpDVzMxbHR5V3c1MndRNDNrd0stdVhzam55ZzlneWtsUmlWQmM1bzlzd3BjaXIwYUlHejlGNWtaMVdpUXRr?oc=5"
-      },
-      {
-        "title": "Atak nożownika na taksówkarza w Krakowie. Nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWxOaHVlOS1mXzZnTjN2cHFGaVdrc05NWVc0dnJScTVNWmJ1VTdxS01XQXBJci1RQmFHLVhyN3V1V1V2RGo1Yk9WRTJjbjliOFBubzFKZXc5SjY5S05xZUxnQjdQUXpjZkVTSzk5UXdFUHhKOFJKa0R5SkRDM3J4VDNzd3Q3VG41emMyQjd5RGhiU1BZc0lXUVZpOXA1dlU?oc=5"
-      },
-      {
-        "title": "IMGW wydało ostrzeżenia. Te województwa są najbardziej zagrożone - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFdnLUo2S1pKSmJOTlU1OFY5X2VxVDNmN3R0cEUwT29DUFNYaG5lTDFSMzFmWE03bWRFcmdiUHlYaGVrSDBxRzI0UzdCYUJQSGYwMXdlZnp3QlRhbEY3S05SREVzNkYwMFpCWFh0eGpZblA0NTdUejIxdkR2ekdJRnNwSGFxVUhmSnMxRDRmSjV6T1MxeHdGZk10M1hyTGVfZUVTbEU4SUpWT0N5bVlCRHdsZW4wSGs?oc=5"
-      },
-      {
-        "title": "Brutalnie zabiła swojego partnera i uciekła. Policja odnalazła ją w Polsce - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzBSZml5NjdZTnpyTWx6clJNbUxTbXNULW1hY2dXRkJPR1dOa3FRd3F1LTE0SV8tdjFSdTN6NXVHSGs1Z2owa0hHaXRiRzlBblNGYjVMT1ZENF81NV9Fc2hpODhVOGlCT1l0Z3RHcU10Nm5RWkdWcGZ1WXlWZFlTVGNfZjJYOW95b1M0MVBPbXVfWlByTWxFdkl0VEd3NUotNks1UmRyNmpRV0Eyd2dYTnR3ck8?oc=5"
-      },
-      {
-        "title": "Putin o \"światełku w tunelu\". Rosyjski przywódca zabrał głos - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlR2bHRMWnR4U1NiaDJlLWdzS2diSXQ5ZlhoYU1SVGRIMWx0WmtCcXpaT3l5eTBJWURjeGNoaTdvaXdQaDJxM1Z6SzJxUzZHRjVpdzVlWGk4ZHBkN1lYbWVvRjhlcVQ2ZnJIS3ZkNzNLVlU3Q0VSdG9GV25UX3J4UzFONmY3TDR2TmVjRGQzLTlkRHcxeFJkSWxLUVZ4czMyQjlRb3ZOTzQ0YmM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-23 15:20:30",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Mierzawa. Tragiczny wypadek na S7. Zginęły cztery osoby - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHp5V2o4MXY0MkN3Y3dRMU96elJLY0RUeDlnNU1wYWNjNWp4SnJnb3YyVm9HU2NLZWdtTlVOVDNpYnlaOWpobDVFdGU2TTliVTZnYl9zVWhqNHd5eTFzaTFzSzYtSkNNTTZRczNSb1gzbFEzZno2N2V4YTFZODI4Vzc0b1dsRjZpQ1oxOF9hRjlYckdMUEF4NzlsdUdzMDRTYU9zQTQ3VzQ4cnRoMmVrMFZHNmpQUQ?oc=5"
+      },
+      {
+        "title": "Ważne zmiany w edukacji. Prezydent zdecydował o \"godzinach czarnkowych\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRG9ueHlBYk1ocFdxQlROa0xaT21ESGFlNWFWZE5kd2FoelZLMjlLYnZVZEJ3LUdCdkloeEFiX3BHcDBCSjdTU2cycldvTWRKdUU0MFIwX0o1bVZzMk9nVExqRTRURkFPaGJsMzdtd2p1akx4R2JQaXhyWEV3MGFydU85eHByRmM2WVFTVnJXSUZ6bkswRnBIeDQ1WEdZbXhTcGFWYWNfMjljS3Y4UEhTSXlFX1dpdWRwNmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-25 20:20:36",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6421,
+      "EUR": 4.2627,
+      "GBP": 4.918,
+      "CHF": 4.5416,
+      "JPY": 0.024728,
+      "AUD": 2.3659,
+      "CAD": 2.6342,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 411641,
+      "DOGECOIN": 0.799071,
+      "ETHEREUM": 16791.48,
+      "LITECOIN": 408.5,
+      "RIPPLE": 10.83
+    },
+    "indices": {
+      "^WIG20": 2905.64,
+      "^WIG30": 3766.02,
+      "^WIG": 3766.02,
+      "^NCINDEX": 262.07
+    },
+    "news": [
+      {
+        "title": "Weto prezydenta będzie kosztować 10 mln zł. Chodzi o Starlinki dla Ukrainy - wnp.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0dmTnAxQzk1SkdiRExDZVhUdk0yZ0Qwc3MtdUFOX1hNOG5OcXhiVGdQbHRrSE1JeXhaYjBHcTRMd09wc0JvdmsxUTlIZzZBeGJQYTNIWExnZFczQmdTeEVXSVNlc1gycUFaOVctZ2xPX1NkRzVUcVYxenlZYXVwRGR6N2RmSURDNFp5QTRTWjFoTXVOOGVXSUdYdUx4QlNUSE15M3dTNDBxN2RFVUE?oc=5"
+      },
+      {
+        "title": "Katastrofa awionetki w Wielkopolsce. Są ofiary - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ09HLTI0RldtSHZVZ3dyUDFSYUgyME5ZUkJEVlRoX1JKaHNOVkhYUURLRGFlSlJvQTdqbnc5R1FnVUVEYmhDTEVxcjJrVmg0ZXR1eTYzRzYzR3FjX25Ga0tnQWZYeVRsUUZINUNZUmk3VUwybGppeTZDY1JVQ3d3YV9KWVFyZlVyWGozT0d2RC04VjJ4cGZUMC1VQ2ZXVklUNUtLX1BSd2VJRUU?oc=5"
+      },
+      {
+        "title": "Bus zderzył się z ciągnikiem na S7. Nie żyją cztery osoby - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDUyQUZNQlNvNHNSel9HUEV2WHl1bU9DeVBoaWJsMjBvSk9xWW9nZF9aQl85WTdmUktrQTdtbHN6bFl4dVNELWxnUkJpSVlhWm1lQy1GaXdNanVIYzRwSFl0Z2tHZFZTcFo0OWdScXQ1Ukt2d29GcV91TndqTmROa095XzM0dWl6VlZDRVFVTmttNVRWdE53?oc=5"
+      },
+      {
+        "title": "\"Zapisujcie dzieci na edukacje zdrowotną\"! Wierzący ojciec odpowiada polskim biskupom [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1JFODBNdlFUdm1VNnlMclZsOEFVV3ROOUlvZzFyZVBTeG5nY01lTlg5Q3Q0MTh5R2hxNFpZcGtRam13OGExNjA0eVkzeDdjaEFySzRCUnY3YmhBUEcxb3FxOXkzNklTRkFWUE9ON0lCZDlxUVl6VFNTVkl6c29VM2E5U1BNT1V3SS01QU54LXQ2ZzFKRVlQQWptR0RvVGdGOGRjSmktckpmWU9sYXRodkNudzVSeVgxUzhKaVVMcm15cFU?oc=5"
       },
       {
         "title": "Ważne zmiany w edukacji. Prezydent zdecydował o \"godzinach czarnkowych\" - Business Insider Polska",
