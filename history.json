@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-23 20:17:10",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 418957,
-      "DOGECOIN": 0.861185,
-      "ETHEREUM": 17302.24,
-      "LITECOIN": 440.19,
-      "RIPPLE": 10.98
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Kluczowe spotkanie pod znakiem zapytania. Eksperci wskazali obawę Kremla - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdjdktHZHJWZ01GUkFfdl9HNnA5OVhjUEhlbkdFUGJGTE53T0pkVVFnRV9CeE41Y0ZoWHA1aEtqd2czeTEydHlldExpU29sOGZLb1Q5a3MxX3J6d3R6aFVBdi1tT0tseU80U0RYX3l0OUhsTEs2UkwtM21xbDU2bC1CMTZSM0MtZDFPUTk1WE9fdGp5eW5NdktQazVJZVFiVUhGSFdn?oc=5"
-      },
-      {
-        "title": "Zakup tych urządzeń przez MSZ miał być tajemnicą. Wiadomo o nim za sprawą NIK - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2Y1dTVpX1lhdUlDdkppT1gzQ3lsMXhHLXY5VXRHTm43TDNwbXVlcE9qUDdKWHgtTXY5MDNhMmZkSXNBZEJMQmNwa2dxaXBqeXNKZzdXN3RHWVBfZTgtTTBXNkZLWDlnWWI1ai1NczhkTXo3VjY1SkJ0Wlp3UGtvVW9hY3B6U0o1a1JGeA?oc=5"
-      },
-      {
-        "title": "To tu zatrzyma się Nawrocki w USA. Tajemnice rezydencji mrożą krew w żyłach - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDNSajRqVlFQeWpiU0JOLTE4Q0Jkd1BlNjZVWlhGMXZxSzVYb1d6ZVBoTk1mbjhGTkw3SEk2V3hMU3gyeXJUVmF3cU1sWjVrSk43d29SRVM5UGpRSWZZUldreUVPa2FIZnZjbEFuLWNOYjNYX3kwLUdEMFVOaW9BSHZSd0ViS1F1dlVrZ2NDektLeWF0YV83dnN1eTBCblY5ZFRqRWRoVWZIcXlMaWQ2aGFxOE0?oc=5"
-      },
-      {
-        "title": "Zginęli w Egipcie. Olsztyn pożegnał lekarkę i jej syna - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejIwYkY2bnpTdFBORnhwYnNkM3NGVmFfMlFZOHpYaXVVTmJmNDlvbXRVeWk2ekxyYkxRMkRmRklSOWNqV1YwTVlXV25sQW5xY0xYQTl0NU5yMTdYc0JtT3I4MGg5emdDY0VtLW4xVl9FQkRpMS1uY2VuNXBQMVZ6eVc0T09HYWpTWjFjMVlnZm5yOExGSVBmWEtLLXUxNElWOWc?oc=5"
-      },
-      {
-        "title": "Nożownik zabił przechodnia. Mieszkańcy: Napastnik od lat wystawał na ulicy, zaczepiał ludzi, pił alkohol - Katowice.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVg5Q0J2X1RGdmV2cGYwQXM5bl84emZXbW5tdEt2QS1HOEZTZ2FEekdWaU93UHV5Ul9OQmZDTjh6QXM4cnMyTkpFNGtmNG9wZ2hYS2xfWWtyWVFrMnJacVIzVEdaRWZmQjdUVVVrU2NZOUJ1TUowYUp6TE9oLXBaNXg0bEFpZzhaS2ZtMGd5Z3BPbG1CblJCd2hwdlRoek83azBaNTVEeE1LRU9HRkdGbWpTUDBwUUhsRzdreXhwWVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-23 21:09:37",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kijów zareaguje, jeśli Polska zrówna czerwono-czarną symbolikę z nazistowską - Defence24",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTTBuV0Z2T08xR3F3NVUtR1lNTnpPMjlxamFSS2tacExLYTlBU1huRjdGRzFyQ1ZRMFdYdGk4YmRCbjJ2QVE3dmRKcjR0SzdfSUw2Mlg3dTdvNS16MG1jWXZOU1pWaV9NZkczd3k0eW5XTU9aNTU2VEVPZGVBeUxhOHVjeE5Ed1dRRWQtWklmMExQWWlqMlJ5RmRGRUhqRlpjUU5rdm9INlVRRjZFeWU0YzJ2YWRDTG9BeEpCbXlCcHE3U2w5UVJjZTRiTjNNTnNuOHliLWNMcVg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-26 03:06:43",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6421,
+      "EUR": 4.2627,
+      "GBP": 4.918,
+      "CHF": 4.5416,
+      "JPY": 0.024728,
+      "AUD": 2.3659,
+      "CAD": 2.6342,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 399888,
+      "DOGECOIN": 0.76205,
+      "ETHEREUM": 15884.92,
+      "LITECOIN": 401.28,
+      "RIPPLE": 10.47
+    },
+    "indices": {
+      "^WIG20": 2905.64,
+      "^WIG30": 3766.02,
+      "^WIG": 3766.02,
+      "^NCINDEX": 262.07
+    },
+    "news": [
+      {
+        "title": "Monika Olejnik zwróciła się do Marty Nawrockiej. Apeluje w sprawie weto prezydenta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdkp6N29MNUNxdVpISExVY3lOQ01CX3lUWlpfWUxtTHlNRVMyS3dSeDZ1eTBhZS1vNjhkU0o4ajYxOUpXYWJaRTMtM0JDUWctWUlZaExLT1k3c2VwZHpFM2F2N0xfNTVQSUtSRzRrT2M4OVBfMnMwQ2RCbGs3cFhLdFNfNVg5UmxhVnBWVEJicWE3cndxZWptM2tESkJudTRaZTM4UDNtQWhvN0ZsMW1oS0g3c1M1c2N2TTN5eFhOa2NBVmtRLTZkd05fS0kzbDloVnFN?oc=5"
+      },
+      {
+        "title": "Wędkarz trafił na ciało mężczyzny. Policja: To prawdopodobny sprawca - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcF96N2ZEazBwc09rSmMtUWlLVkhoZkVnVUducjRGLWVvQ1ZqVU1CLXlLRlNocEI4Q18ySWRQaHFzcFllNk1NQ1FpdXdBal81c3k2RW1zYWpGSkFiaHRqRno2UGpUZGFCdTNXaWlQNnlnb1poNHU5ZE9tWFpXcnF3cnZQem5qcnBNeXpNd0FsUGRucjNtQVBUbTkzOFJUR19uLTZ3d3RkT00xOGJ2NVNFbnBhN3c2UQ?oc=5"
+      },
+      {
+        "title": "Katastrofa awionetki w Wielkopolsce. Nowe informacje - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTRfZTkwWFdMLXB2dWFaeFFOSmdkdFd3QmU4dlQyTEJUYXZ2YXNaZmFFNEstWXUtMEhmdHdOdWZ5WlI3M1RUdFhqaS00TDdkZjNkdkhFVFJmd0xScnczazVnOEVESmlvNjBOdU5SeWg4RUJyNlhUWUpsZWc0OVM5QXJrQ0pZdGNDWmNZTG9KR1NfdG04aFVGYQ?oc=5"
+      },
+      {
+        "title": "MSZ podaje nowe informacje w sprawie drona, który spadł pod Osinami - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTEyV2ZYMVBfRDQ2eXk4am45RXItak5KdWtDOTFxMHBSNFgtR3Y3NDNrUDZpQjQyVURDak9Hcy1mX3ZSd2huQk9kVW1TYVZYTHU3S0Z4d0RrRVgwZmhMLTZMWThlUTRrMmNhOV9NcU5YMjhzcHJld3drWHdjcTRpY2pRbE9HME9NcS1IRnJRXzNJUVl5RHh2dC1RRkJkdw?oc=5"
+      },
+      {
+        "title": "Ważne zmiany w edukacji. Prezydent zdecydował o \"godzinach czarnkowych\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRG9ueHlBYk1ocFdxQlROa0xaT21ESGFlNWFWZE5kd2FoelZLMjlLYnZVZEJ3LUdCdkloeEFiX3BHcDBCSjdTU2cycldvTWRKdUU0MFIwX0o1bVZzMk9nVExqRTRURkFPaGJsMzdtd2p1akx4R2JQaXhyWEV3MGFydU85eHByRmM2WVFTVnJXSUZ6bkswRnBIeDQ1WEdZbXhTcGFWYWNfMjljS3Y4UEhTSXlFX1dpdWRwNmc?oc=5"
       }
     ]
   }
