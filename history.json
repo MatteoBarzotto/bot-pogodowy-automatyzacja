@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-23 23:11:31",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 418876,
-      "DOGECOIN": 0.85696,
-      "ETHEREUM": 17270.39,
-      "LITECOIN": 439.76,
-      "RIPPLE": 11.03
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Zakup tych urządzeń przez MSZ miał być tajemnicą. Wiadomo o nim za sprawą NIK - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2Y1dTVpX1lhdUlDdkppT1gzQ3lsMXhHLXY5VXRHTm43TDNwbXVlcE9qUDdKWHgtTXY5MDNhMmZkSXNBZEJMQmNwa2dxaXBqeXNKZzdXN3RHWVBfZTgtTTBXNkZLWDlnWWI1ai1NczhkTXo3VjY1SkJ0Wlp3UGtvVW9hY3B6U0o1a1JGeA?oc=5"
-      },
-      {
-        "title": "To tu zatrzyma się Nawrocki w USA. Tajemnice rezydencji mrożą krew w żyłach - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDNSajRqVlFQeWpiU0JOLTE4Q0Jkd1BlNjZVWlhGMXZxSzVYb1d6ZVBoTk1mbjhGTkw3SEk2V3hMU3gyeXJUVmF3cU1sWjVrSk43d29SRVM5UGpRSWZZUldreUVPa2FIZnZjbEFuLWNOYjNYX3kwLUdEMFVOaW9BSHZSd0ViS1F1dlVrZ2NDektLeWF0YV83dnN1eTBCblY5ZFRqRWRoVWZIcXlMaWQ2aGFxOE0?oc=5"
-      },
-      {
-        "title": "Dron leciał w kierunku Moskwy. Lotniska w Rosji wstrzymały działania - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2h3UTgycUtvZWRnalF6dXZjVXhfb2F0bG5uV2VCb1h0REJ6TUhLVjIzVE5XYjdBSGw5N1ZMVldKZ0xjMlB4MDVSZzBTN2tvcWU1cjRZZElST3p1VXcwMnVTbWVvYXdNd004dWF0YmpOQVNWenZHWnhXOFMxUmRqNnhmdnpBYkJtOTNSZVJjcEdvRmdQMl9tMXRLTGNKZkIyeERId0M3dWczUWpIWkdQbFl5TGU4cVEtaW5nTE9BZlBLX21yTkVVUFdB?oc=5"
-      },
-      {
-        "title": "Kluczowe spotkanie pod znakiem zapytania. Eksperci wskazali obawę Kremla - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdjdktHZHJWZ01GUkFfdl9HNnA5OVhjUEhlbkdFUGJGTE53T0pkVVFnRV9CeE41Y0ZoWHA1aEtqd2czeTEydHlldExpU29sOGZLb1Q5a3MxX3J6d3R6aFVBdi1tT0tseU80U0RYX3l0OUhsTEs2UkwtM21xbDU2bC1CMTZSM0MtZDFPUTk1WE9fdGp5eW5NdktQazVJZVFiVUhGSFdn?oc=5"
-      },
-      {
-        "title": "Wybuch gazu w domu wielorodzinnym. Są ranni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3RYWVBNS3hKWHo3ZEx4Q3Z5dXJiNWd1REZZSS1ZRXNxcnYtbjdNTndUV1BGUVMyd01EYUQ0dnYwRDB1aEQ0VDhOdElYVUFGOVA0SE1NNlJ2Q2tYdnBFNDBZRHJ3VllkYmtIV25kVkliTmZUNU0zZDVsZnk3UTZGem84U2M3aHdISVN6cFN3LUtQOVhCdkRfVFVEY0ZMdnRuaVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-24 00:12:19",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nowe rozporządzenia Trumpa. Kara za znieważenie flagi - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTExaE9sYzRkQldBRGtxT3JEZk91YnFONDhmN3YzYmNFaXNvbFFhcHQ1NWotY3pnNmJManVrM3Uyb0FOZUFyM01mTEhYcmdqa2hZZHFGNjdKakhSRjhBcl91XzcyS19sbFVsaUItVGdiSFFDZmw2alRlQi0xSlowM1ZvQzFSOEc5LWJMdU5EUGgzdnB3WjVhSmZRcGxwa3kxY0dz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-26 07:14:36",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6421,
+      "EUR": 4.2627,
+      "GBP": 4.918,
+      "CHF": 4.5416,
+      "JPY": 0.024728,
+      "AUD": 2.3659,
+      "CAD": 2.6342,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 403728,
+      "DOGECOIN": 0.776532,
+      "ETHEREUM": 16280.47,
+      "LITECOIN": 404.6,
+      "RIPPLE": 10.66
+    },
+    "indices": {
+      "^WIG20": 2905.64,
+      "^WIG30": 3766.02,
+      "^WIG": 3766.02,
+      "^NCINDEX": 262.07
+    },
+    "news": [
+      {
+        "title": "Weto Karola Nawrockiego a Starlinki w Ukrainie. \"Trwają konsultacje ze stroną polską\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0NNWDhsSnQtcW9lZmlXOEF5LXJVNUxFU1d2RHpKTG9zcUk3QlNhQm9KM0NoalVvSFMxazd4YWNPRmdfT0V0cTFxQ05uNHZKS3ROall6MmM5c3Vrdy0zLTgteUJnb1FLX3V5UjZqd3RrcTRYVVB2cVI4eHJmZWVKX0VMSWtpY1YyN0NyazVDVk5ScTFncHFKTFVweHU0b2JpcWhBbGYzZEtUbEg0TjNXUVFRb3UxZ3EtQ0NpVmNDbXg1bnVIV2JhdUpfTFJZSXlnenNUOWVFUDNRaHV3d3c?oc=5"
+      },
+      {
+        "title": "Wędkarz trafił na ciało mężczyzny. Policja: To prawdopodobny sprawca - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcF96N2ZEazBwc09rSmMtUWlLVkhoZkVnVUducjRGLWVvQ1ZqVU1CLXlLRlNocEI4Q18ySWRQaHFzcFllNk1NQ1FpdXdBal81c3k2RW1zYWpGSkFiaHRqRno2UGpUZGFCdTNXaWlQNnlnb1poNHU5ZE9tWFpXcnF3cnZQem5qcnBNeXpNd0FsUGRucjNtQVBUbTkzOFJUR19uLTZ3d3RkT00xOGJ2NVNFbnBhN3c2UQ?oc=5"
+      },
+      {
+        "title": "Obraźliwe słowa posłanki PiS w programie. \"Pani naprawdę to powiedziała?\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTk1NmVEZWRUcFYwb2hXeU56U2d1bjFReDFZbHZ0UGtJWWlFSl9YMWtnS21VUTRielRKa3MySEtUMHFIT2tGVlBKemxJWHo5OHNxaUVkZGdhNkNUeGxfbmVjWmc2S3JXQzVjcTlvbjdoSlhkWmRhN0VRYlN0RDJMTkQ0YUd6T2h4a3E4eVlMOEdmOEJ2Unl1cHdHVmpMM1p0Z0tNMWU3V3R0MmVVV2hNTlhn?oc=5"
+      },
+      {
+        "title": "Nawrocki kontra Domański. Prezydent stawia wyraźną granicę ws. budżetu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0lwbXFRSkRaYldaOXFOb005T3N2RF9pVkRMU1dNbVVtNDVwdi0yOWttbHpfRzNXMzJ0Q1JKdFZUc3BLSE5lbFhKNUJVdkpOSUYzYUdkaTlIUFZwUlBBbmNiVl9Ca2FVbloyV3otd19lekpsVDNsOGZaRVFaNWk4WUh6V2ZBd2l1Nm9PQ1M3YWZLSGg5cVNRWk12MTZjTUFOYVRkTHBjTWRKZWNCM1BsNXZQUmpQb056YXdHUFVROW8?oc=5"
+      },
+      {
+        "title": "Tajemniczy statek płynie w kierunku Finlandii. Oto co przewozi - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTd4VVR2eTlkNWNPU3RqQWcxVVh1ZWxKd1FVT0pDMldJR0VBZVF4S1ZSbnUzbHEzQ05uYkF1cWdOSUZxWUw4b1F1cXVwN1NDV3lVaVhOa0o5SGh1NUx4eWs0cW5vUm5JQXNNNy1IVDhMQUQ3alNxQ3BOdUI1UWdEZnM2VE44d2FvWGc0bjJxUFlfSndCSjZZcC1hamlTUzlyZEdsU2VBdnp5TkU4b0lZMmUxaXk1N0E?oc=5"
       }
     ]
   }
