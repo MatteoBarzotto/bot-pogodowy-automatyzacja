@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-24 07:13:25",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 419030,
-      "DOGECOIN": 0.859109,
-      "ETHEREUM": 17433.71,
-      "LITECOIN": 442.27,
-      "RIPPLE": 11.1
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Nieoficjalnie. Donald Trump chce wysłać wojsko do kolejnego miasta - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2ZSdEtVMjNyUmU0RDF0NEJyRDJRUFFpN3IzaXd1ZDdVN3FNNXpIMzBGWFBJUHdCb3gwZHU2VktuVGotSDhtbmYteGNNN1ZHb3lscVc4RzVUc1NTV1dOc1luWXZsYkxRNE1EU0E4eC1JVFk3TXcwOHA1QS1xcVl5d2pTXzhEOHNtYmhLaWh1YU9ZeUVtUlZaenZ1dUNpVjk1Ulc2elJDUlpRU29mWEVqYXBhV3B5QWJWSVRfUU5GNlBHTmZiUjRJ?oc=5"
-      },
-      {
-        "title": "Tajemnicza instalacja blisko Polski. Co planują Rosjanie? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXpoTEFBOFBJb1Qyb2NVN24zVEdINzdrTWFkOE5DVEJWLVVFTTBFMzZhYjd1SzlOLWNIdks1bEQ5OHRqTnZLUmFBM2lTd3hNTDRyWWh2UXpqNUtuVDBfQ3Q5eHJ3UG8zYWRocG5BeDRTMGFGU2dQTkthSFFJUlBudEpWLWh3bEljSmU1QXQ4QXphaUZKQ2tmRmpUdUNUX3c?oc=5"
-      },
-      {
-        "title": "Wybuch gazu w domu wielorodzinnym. Są ranni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3RYWVBNS3hKWHo3ZEx4Q3Z5dXJiNWd1REZZSS1ZRXNxcnYtbjdNTndUV1BGUVMyd01EYUQ0dnYwRDB1aEQ0VDhOdElYVUFGOVA0SE1NNlJ2Q2tYdnBFNDBZRHJ3VllkYmtIV25kVkliTmZUNU0zZDVsZnk3UTZGem84U2M3aHdISVN6cFN3LUtQOVhCdkRfVFVEY0ZMdnRuaVE?oc=5"
-      },
-      {
-        "title": "Zakup tych urządzeń przez MSZ miał być tajemnicą. Wiadomo o nim za sprawą NIK - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2Y1dTVpX1lhdUlDdkppT1gzQ3lsMXhHLXY5VXRHTm43TDNwbXVlcE9qUDdKWHgtTXY5MDNhMmZkSXNBZEJMQmNwa2dxaXBqeXNKZzdXN3RHWVBfZTgtTTBXNkZLWDlnWWI1ai1NczhkTXo3VjY1SkJ0Wlp3UGtvVW9hY3B6U0o1a1JGeA?oc=5"
-      },
-      {
-        "title": "Kreml obawia się spotkania Putina z Zełenskim. ISW wskazuje - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzBseEZxYmVoMWJ1amJ1Zk4tSkd5bkFWRzZ5WW5kd2dqSnNSOHZLYjdNRjBNUGpMQ24wQTRHc1R3YXNfYlJyRHFTZ3U3YVQ5R0lmZXNUNWdDZ3Nlb1JRb3Q5TDV2aXNpa3JVU0trREE4V3V1bnFOQU5NeUpycjFwOUhzc1lOcFJTbGtzVUJzUE5HNTVQMGc3aVRWcXNzZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-24 08:19:42",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Znaj proporcje mocium panie\". Poseł PiS o ostrzeżeniach Kijowa - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDQ1UVNNcXR0UFlFb3ZBdkFZa0ZQSWtoOUUzUmY0alBvQ2FkcE50dHZTa0kxM1gyd09JYmhZRlhyMFNLMEs3MkhCQnFzdWpZQmdPYndiYWVCRmRqem16QV9QU0JzbDQyNTRKSEoteS1JYWU4OS1udGNzMU5ySnlRLU4wb2tBYzRqQjFzSmJKZ3RkWVBHdDVLSkFHclVhcHNsak53bGhXWmh4NU5Q?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-26 13:12:47",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6716,
+      "EUR": 4.2657,
+      "GBP": 4.9432,
+      "CHF": 4.5511,
+      "JPY": 0.024881,
+      "AUD": 2.378,
+      "CAD": 2.6495,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 402800,
+      "DOGECOIN": 0.773874,
+      "ETHEREUM": 16276.98,
+      "LITECOIN": 404.7,
+      "RIPPLE": 10.64
+    },
+    "indices": {
+      "^WIG20": 2898.69,
+      "^WIG30": 3758.78,
+      "^WIG": 3758.78,
+      "^NCINDEX": 261.64
+    },
+    "news": [
+      {
+        "title": "Prezydenckie weto w sprawie Ukraińców może mieć nieoczekiwany skutek - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUVVR2tJbzRPYl9IWkRyX3F0UFVIcFlXcGZXSUFwZWMwYTJLcWF6VVEyd0Uzd0lpN3NqUk1HY3hYeWdPYmUyNUhjYVZDc012eWtwWkJJRV94VERFcXozXzh6N3ZFMDFjZGQxMDhRRUlMNDBVRTNsT2ZhaUN2UUFuWFVDMG02Nnd2c2tnMnBpQm9faTltLUx3b2NLaHluMTE1SjZRRmNSbElEZFRqaFBIMFBxd3g5QXhHQmc?oc=5"
+      },
+      {
+        "title": "Nawrocki kontra Domański. Prezydent stawia wyraźną granicę ws. budżetu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0lwbXFRSkRaYldaOXFOb005T3N2RF9pVkRMU1dNbVVtNDVwdi0yOWttbHpfRzNXMzJ0Q1JKdFZUc3BLSE5lbFhKNUJVdkpOSUYzYUdkaTlIUFZwUlBBbmNiVl9Ca2FVbloyV3otd19lekpsVDNsOGZaRVFaNWk4WUh6V2ZBd2l1Nm9PQ1M3YWZLSGg5cVNRWk12MTZjTUFOYVRkTHBjTWRKZWNCM1BsNXZQUmpQb056YXdHUFVROW8?oc=5"
+      },
+      {
+        "title": "Podlasie: migranci ranili polskiego żołnierza niedaleko granicy - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkZHWm5YdjZmNlZITTlZM25UVGpqNnIyc3Z1T2tqRndKVWZNMmlrelhrZ2RTRjRwOUdyYUhiRC1VbWJfV3JUd0lDQ3doeHphOTh0dk85cnpfNzFNNV9TNGlqTHVYRDJJN1JHRlRJNlRLS0Zpd2R2SEhreXdqdkVHcHRDUnZIT3Zka1VnbGJLLUw5cjdrYUpGVG5oV1Z4YnNzVHc?oc=5"
+      },
+      {
+        "title": "Dyscyplinarka dla sygnalistki. Minister Cienkowska pozwala ją zwolnić, Ruchniewicz pisze do Niemców - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2RqV2hKVzduRm11V2w2WkJUNm1CYlhBbTB0blJITVFDSFhqM0lRcXV1cktjaFFnbTF0dUlsd01RYkhtZzFJRmRjT0F3RF9UQ2lzN2YyT3E5RndIM3QtMHk4TEFJNXkyb1BiTmltTjVTczhkYmhmOFpRRjJmNWtZVVBESVB5QmtHSTQzelVraHJ4aDFPR1k1UVc2R2VyTGI2UGx6bmpCT1JpcjRBajVpV1luX1hXbUZ2bGpNTC1YcTRZNWIzaWFVcFdtcW04U2lUall4Y3psZw?oc=5"
+      },
+      {
+        "title": "Samuel Pereira prawomocnie skazany. W tle artykuł o matce Krzysztofa Brejzy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0RTSUwyNmpuYkxMNGdwd25pTEFaMHF3dTh6bHBZOFlPZlJYZkZfZzJxZjhKUGFKMUpFV2RzQUN5Y19NVkZDNkQ4WjU4RWxoS3FXbVJSTVltSjA3RUJBNlAtVTg2MXptMlJzdmlCNEIzZHMtVnFOUEJMMmppYUJ1YVFEejAtUWV2bWFFdU1aejFWRzNGcmhsa1E5VHVzY0Z3S1pFY2pMMUZxRTBYU055WXBmdzU?oc=5"
       }
     ]
   }
