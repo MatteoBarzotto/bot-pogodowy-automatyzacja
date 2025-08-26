@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-24 18:15:00",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 415950,
-      "DOGECOIN": 0.841212,
-      "ETHEREUM": 17480.99,
-      "LITECOIN": 434.28,
-      "RIPPLE": 10.98
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "USA ograniczają wsparcie Ukrainy w atakach na Rosję. Zełenski komentuje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0hRcTVMUE5MUkJUMmpHVm9JeFNHZTQwR2JmNFN6SzlIM2pWNkpTejg4dU9YZFBWLWU3TWluQTBPQXJvNUZFb18xU3BIeUY0cnlVTF8xS0paMDZKOTBEclVvTURUclAtazhYazNYOFNMZGlxQTdkUk5zNlNjNGpwdjNfdzJiT3hoaHZ5NVNhbXVHandRWVVvaGpuT0xqb2oxRi1wRmVmZnlPY2lrSmxLeTJnZ0o5b1hYRGRXdg?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski zwrócił się do Ukraińców. Odpowiedział mu ukraiński minister - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmEtVkxuNlI4ZE0xa0x0cDRya2IzSEhGQnVGVnFLN1B3UkF5cnItQW9fUlNrOGZJSDU4MS1CcWRCYjZCd3pwNEFZT0NrT3d5dko2cUlNbm1OVXZ4MUVidHZ1azVhcUJCSUdGTnJVNlcxZFZmdmVqaExKV1dFejR2WFRqRGNSQ09wa3h3VGdoSzZieG1temlac0JLX2xTSVZCSTN4bFBWRGhzYWlFck81eXFHblJzdjlGSDRGVDZiY3ZPUTlsRG9sYVhqSFlUVk1Fak5CWTJwNA?oc=5"
-      },
-      {
-        "title": "Atak nożownika w Chorzowie. 47-latek usłyszał zarzut - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzdubVFPbmdSMXg4NVBreWxmdWJaRks3NzFiZDROWXFYZ056TGpObXlWWUFuSjRLSWg3SmNIY3otT0M0OHd3TUhaWTh3ay1QQ0FsVWNoTTlrRUtONlNxcVpQNUxfTkdRcU1RVHo4SWtLcWV5RmwzZTZ1M3cxSXhTSWh3bS1MUS0xdF8wS2pXMjVrWGhYaVh6bG52Z0dSTVJi?oc=5"
-      },
-      {
-        "title": "Ogromny pożar w Rosji. Atak dronów, płonie port - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDAwZ0o0M3pMekNWNFNVd2hKY0swbkZiZVBmN1ByNW5nSGI5ZGM1NU5vZzZzbFBwb3g5c2ZHVVEzZXEtZHJYZGdzSE1aSXdobFUyb05fRHVMRUc2YUNPLUE0cG5LQ2hsV0FSZWk0MnBKTGl3Q2VHbkhJWTR0cnF4TGpTT3QyMU5R?oc=5"
-      },
-      {
-        "title": "Dramat na autostradzie. Ciężarówka staranowała bramki. Momentalnie pojawił się ogień - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2NVZHZwbXhrSXVtcWY0eHA2MENCdXFZbk10YmR5TDdGNDllcDJmV3RrOWZWN1lzdEM5TFNTdkdQaF8wS2p0dXVNeXlQQk0weWhHZVlNS2lHNVdYZExfTlBRUlY5Z2U0a1BpOGRBU1BRS1FqUV9jVE5NT2RybEZkNnNRTGVWTHFNSEtCek44VHVPd2x3QzlocGRKTllyVldtajFjaXJZZmV6R24yWk5FZGJ6V0dOQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-24 19:11:22",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Prokurator Ewa Wrzosek delegowana do resortu sprawiedliwości. Podano szczegóły - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVp3OXV3ZWVmYkZuLTJXQ0xzUEprY0JNbERwVFhIQ0cwS2JLSklscEp2dlVsRWR3aTVaQVRkbmEzSDVIN2pKY1pad0hSOW5zUVdZOUpfM0puaDJyVWdTZHhGU0RiMEt2UURURGxFZUpyOGtKZDliTm1tNTRqbkotcjEwd1FjeGZGbXRiU3R6a1FsRVdUNGJMRFVGRXVrQV9YYmptTzJyX0pxa0ZJMW53T1ln?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27 00:12:53",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6716,
+      "EUR": 4.2657,
+      "GBP": 4.9432,
+      "CHF": 4.5511,
+      "JPY": 0.024881,
+      "AUD": 2.378,
+      "CAD": 2.6495,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 408925,
+      "DOGECOIN": 0.801168,
+      "ETHEREUM": 16806.74,
+      "LITECOIN": 414.83,
+      "RIPPLE": 11.05
+    },
+    "indices": {
+      "^WIG20": 2907.53,
+      "^WIG30": 3769.92,
+      "^WIG": 3769.92,
+      "^NCINDEX": 261.17
+    },
+    "news": [
+      {
+        "title": "Prezydenckie weto i ostra wymiana zdań między szefem związku Ukraińców a rzecznikiem prezydenta - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0QwQzJVZzhhY21pOG96NFFXT3MyTVdwd2dtWVBJSGxhS25md0MyazVaRkhWU29MY2hTank2ZXREb1pPNzFYdmE2bno0VDlGLXBuTnZQUGx1ajZTZVZYX2hwbGNmZ0owbjc1Q0NLeFBkaDZjY2NQckpuNmN5Ujk0YzRzNFlNZXdJcjdtQ1EzZ2dxS1FpcnFKbzZ3Tng1SUhYZDF3QkdBRUVEZ000TC1pbUhCbDRya3IzNFpMcl9yOE1tVnRBVlRIQWdJdGlaRHM?oc=5"
+      },
+      {
+        "title": "Ministerstwo Kultury rozdaje 102 mln zł. Lista dotacji wywołała burzę w internecie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjNVdWpxQkl5TUZrTmVVZGI0ejFFUmZXUEtMY2xadUxfTkdsR3hUZGJfY0hDUzNIZDZIYVF5cDl6dUlHRHJXSlJ6TVpqR0R4S3RDOG44YzlZZDVNM0RTb3JQN2g3NEoxZ205dXJVa0ZUQVhySG12ci1IT0tYYXl0clZYYldWR05xWFVHU0xEZTNhLVMyNS1jWTBhSUMyUkxMeWMzS2Z4LTlmUURYZ0FzZW9yUQ?oc=5"
+      },
+      {
+        "title": "Donald Trump chce kary śmierci za zabójstwo w stolicy. \"Nie mamy wyjścia\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXy1zYkhnRm5vVzNQXzQ4RFB4QmZmRW9YSDlCZVBIZS1DS05DZHo2ck5VdjhKUW03a25qZkJZRHNWb3Y1dTVaRlRjSDMxRm5ZRzFqVUJ1cFd1NTF4SDdBZFh5dDBPYk5QTDRob2M4aWlsZEY1eVRob0NrUDNrVDZtTGFVZTZVajZrNmhmU25DYmlXWFdZM3Z1YlZXTTBjanUwaVBTR1M3Y3pKYTJCclNkSA?oc=5"
+      },
+      {
+        "title": "Pogoda mocno zaskoczy. Nowa prognoza na najbliższe dni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHV2UVh2a05ZekFXQUtKbTdMb1pKeXJ6QjFwdFl2NS1QYmpFeUxnTHM2UUJfekJhR29RM0M0ODhyZTRLUVdLZUFHem5PY2RoaGlBQS1mM0lsMko4QVBMcjMwY2J0bmV1NnoteFI3aE0wV1VZaXR3NlVUQWI4Vi1OVzRJWVRBY3BYTkRrM1JPOVo4czlRWktPdVdIbGNSZUU?oc=5"
+      },
+      {
+        "title": "Merz o uznaniu Palestyny. Jasne stanowisko Niemiec - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUC1nMVlIbGlFWGxxUVd2d0kxdTh1NFA4RkRYOFZnRHpMMW5ITEg4UE1aenB1Q0dvc3cycW5SSW5idDYzVURwc081YnN4VjZXY3VVdTZpNXlQRjlLeVZzX004UmJmR0w0QzVMLVV0UUJIYUdoalhjVEgzQU5ZZVE3ano4NC11UF9nMHZWRVh3cHB0VVlCWHVtekVWc1FrcjhjQm1Ca0lqdTNyNm83MzNsNV9FekJfeVd0?oc=5"
       }
     ]
   }
