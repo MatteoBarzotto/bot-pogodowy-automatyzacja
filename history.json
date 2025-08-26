@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-24 19:11:22",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6786,
-      "EUR": 4.267,
-      "GBP": 4.9341,
-      "CHF": 4.5452,
-      "JPY": 0.024748,
-      "AUD": 2.3654,
-      "CAD": 2.645,
-      "CNY": 0.5125
-    },
-    "crypto": {
-      "BITCOIN": 415707,
-      "DOGECOIN": 0.846149,
-      "ETHEREUM": 17561.84,
-      "LITECOIN": 436.91,
-      "RIPPLE": 11.03
-    },
-    "indices": {
-      "^WIG20": 2880.55,
-      "^WIG30": 3732.55,
-      "^WIG": 3732.55,
-      "^NCINDEX": 258.65
-    },
-    "news": [
-      {
-        "title": "Będzie kolejne weto prezydenta? \"Nie podpisze takiej ustawy\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWxybHRfSUotUjkwODA4ejhQSk9TTHBONEViQjl1d0U4Si1WUFl6VnZCWm5wNVJpZXBFM1F0ME9IOEM4b1J3XzBtVTk3bjFMWVI3S1otOHM5alVsTTlFMW1HNnlqWk9CTUJYMlI4ZEVLZTBCWTgzakVUX211QTZBVlRJTDVnUHFHZU5qaXpoRmdndllkXzM5ai1lZG8xeGFCLVR1enRXTW4?oc=5"
-      },
-      {
-        "title": "WSJ: USA uniemożliwiają Ukrainie użycie rakiet dalekiego zasięgu przeciw Rosji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWowcGNxbjl6aDVOOGRjZkNpOVpqeWFYZmlLX2ZKMlNpTXNXYTJjWk1QcGVIOWtKeFJvVjNXbVB6V1FRenJLalQyWnV0TmR2VVhMNmctVFo5V3ZDMWVQXzlMN3FfdW1VMUc0NEFsb2NOZ2hLWWhsU0pyenNWNDNlNTBCX0FrUTd4ZVVoU3B0N2RxZlA0X2RJckhiUEVDTjhWU1lPTEExVVltcFl1RENCM3lDTHI3VFZwWDhKTjhuVGFSMDlpTTZvMkVhZTBTeHhYYmN4VXJWSQ?oc=5"
-      },
-      {
-        "title": "Wytrącił nóż z ręki zabójcy z Chorzowa. \"Bałem się bardzo. Ale nie mógłbym spojrzeć w lustro\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXdCUUhVbmdKNldZcjFsU0hNazNLeTlheUtwSm1ZWDdSbHMtM3c5eEdvVElqQ2luT2h4SFZPMFlFdExZZ0R0RG56aWtWS0JBcGUzQWFUekFRXzRiOXA3YzhJU0o2Tm1zT1hDUmRqN2VOb0lmaE9td3lteTZ2ZmZLaHpZWFREaE5naDVYOXBKekRoelFET3BQTC1JLXJER1Jjdi1qMW1uMlNsNE4xeEE?oc=5"
-      },
-      {
-        "title": "Sikorski wspiera Ukrainę w Dzień Niepodległości. Padły mocne słowa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFh6RWZqa2hUWlA1NkVaMHRXclJLb2d6TkRMc1hWSy1MV0E2UEd5aWNsRzNSNVdXQjl3U05GU2JNS2ZDZmNCY1dld3J4RU81TkE0Szl3UWwzLUdMTnJNWC1OeFp3UWFTRzBGejVlS20tZU4xNVFSenVoN0lqendUTnVTblJJS08zamhYd2dpMmJTZXlzR2VpclQzc2VvNnlfcGZCcTN0NmZsTVB1dFhzN3liUGNTQQ?oc=5"
-      },
-      {
-        "title": "Ogromny pożar w Rosji. Atak dronów, płonie port - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDAwZ0o0M3pMekNWNFNVd2hKY0swbkZiZVBmN1ByNW5nSGI5ZGM1NU5vZzZzbFBwb3g5c2ZHVVEzZXEtZHJYZGdzSE1aSXdobFUyb05fRHVMRUc2YUNPLUE0cG5LQ2hsV0FSZWk0MnBKTGl3Q2VHbkhJWTR0cnF4TGpTT3QyMU5R?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-24 20:17:41",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Merz o uznaniu Palestyny. Jasne stanowisko Niemiec - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUC1nMVlIbGlFWGxxUVd2d0kxdTh1NFA4RkRYOFZnRHpMMW5ITEg4UE1aenB1Q0dvc3cycW5SSW5idDYzVURwc081YnN4VjZXY3VVdTZpNXlQRjlLeVZzX004UmJmR0w0QzVMLVV0UUJIYUdoalhjVEgzQU5ZZVE3ano4NC11UF9nMHZWRVh3cHB0VVlCWHVtekVWc1FrcjhjQm1Ca0lqdTNyNm83MzNsNV9FekJfeVd0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27 01:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6716,
+      "EUR": 4.2657,
+      "GBP": 4.9432,
+      "CHF": 4.5511,
+      "JPY": 0.024881,
+      "AUD": 2.378,
+      "CAD": 2.6495,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 410754,
+      "DOGECOIN": 0.803191,
+      "ETHEREUM": 16937.8,
+      "LITECOIN": 416.4,
+      "RIPPLE": 11.05
+    },
+    "indices": {
+      "^WIG20": 2907.53,
+      "^WIG30": 3769.92,
+      "^WIG": 3769.92,
+      "^NCINDEX": 261.17
+    },
+    "news": [
+      {
+        "title": "Prezydenckie weto i ostra wymiana zdań między szefem związku Ukraińców a rzecznikiem prezydenta - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0QwQzJVZzhhY21pOG96NFFXT3MyTVdwd2dtWVBJSGxhS25md0MyazVaRkhWU29MY2hTank2ZXREb1pPNzFYdmE2bno0VDlGLXBuTnZQUGx1ajZTZVZYX2hwbGNmZ0owbjc1Q0NLeFBkaDZjY2NQckpuNmN5Ujk0YzRzNFlNZXdJcjdtQ1EzZ2dxS1FpcnFKbzZ3Tng1SUhYZDF3QkdBRUVEZ000TC1pbUhCbDRya3IzNFpMcl9yOE1tVnRBVlRIQWdJdGlaRHM?oc=5"
+      },
+      {
+        "title": "Ministerstwo Kultury rozdaje 102 mln zł. Lista dotacji wywołała burzę w internecie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjNVdWpxQkl5TUZrTmVVZGI0ejFFUmZXUEtMY2xadUxfTkdsR3hUZGJfY0hDUzNIZDZIYVF5cDl6dUlHRHJXSlJ6TVpqR0R4S3RDOG44YzlZZDVNM0RTb3JQN2g3NEoxZ205dXJVa0ZUQVhySG12ci1IT0tYYXl0clZYYldWR05xWFVHU0xEZTNhLVMyNS1jWTBhSUMyUkxMeWMzS2Z4LTlmUURYZ0FzZW9yUQ?oc=5"
+      },
+      {
+        "title": "Zdradzona sygnalistka z Instytutu Pileckiego alarmuje. Zastępca zwolniony - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHlJc3pJQlNEdUxoS2hZNUVueVU4dExWNDFEYUJ4ZVZvMHAzQV9hb19BUEZ2NXFLQzA4TDllczYtVkVFTzB0VS1kWjFxVXFPNHhjbDB5dHR4MTF5Sk5aMDRhdHA4T0gyNC1ydmVmOGhPbXRmNGc5RHVfdU1lQzRiM3hJb19USkNOQVA2MXlGUXZHMmhPS3RpTjNfRWpnNGtWaHhFNVhIUE5vZVBvSlQxYWVaQ3YxZw?oc=5"
+      },
+      {
+        "title": "Donald Trump chce kary śmierci za zabójstwo w stolicy. \"Nie mamy wyjścia\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXy1zYkhnRm5vVzNQXzQ4RFB4QmZmRW9YSDlCZVBIZS1DS05DZHo2ck5VdjhKUW03a25qZkJZRHNWb3Y1dTVaRlRjSDMxRm5ZRzFqVUJ1cFd1NTF4SDdBZFh5dDBPYk5QTDRob2M4aWlsZEY1eVRob0NrUDNrVDZtTGFVZTZVajZrNmhmU25DYmlXWFdZM3Z1YlZXTTBjanUwaVBTR1M3Y3pKYTJCclNkSA?oc=5"
+      },
+      {
+        "title": "Pogoda mocno zaskoczy. Nowa prognoza na najbliższe dni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHV2UVh2a05ZekFXQUtKbTdMb1pKeXJ6QjFwdFl2NS1QYmpFeUxnTHM2UUJfekJhR29RM0M0ODhyZTRLUVdLZUFHem5PY2RoaGlBQS1mM0lsMko4QVBMcjMwY2J0bmV1NnoteFI3aE0wV1VZaXR3NlVUQWI4Vi1OVzRJWVRBY3BYTkRrM1JPOVo4czlRWktPdVdIbGNSZUU?oc=5"
       }
     ]
   }
