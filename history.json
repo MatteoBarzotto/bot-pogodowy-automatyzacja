@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-25 14:28:40",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6421,
-      "EUR": 4.2627,
-      "GBP": 4.918,
-      "CHF": 4.5416,
-      "JPY": 0.024728,
-      "AUD": 2.3659,
-      "CAD": 2.6342,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 406287,
-      "DOGECOIN": 0.800272,
-      "ETHEREUM": 16821.67,
-      "LITECOIN": 406.38,
-      "RIPPLE": 10.76
-    },
-    "indices": {
-      "^WIG20": 2910.03,
-      "^WIG30": 3770.62,
-      "^WIG": 3770.62,
-      "^NCINDEX": 261.26
-    },
-    "news": [
-      {
-        "title": "Kolejne weto prezydenta. \"Nie godzę się, żeby obniżać kary za przestępstwa skarbowe\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHZ2QnpkbmxabFU2LWY3Q2JHS09MS3BUTjdBaWtPb1ZxRDVDNWpTZnZFbG5Gdzc2cmxMSUpfUjJFcVlDajVHSlJQME9PcWZmeHQwMXZsZzFYRl9oaHJEd1J4dXp0QjVPemFqS2tKOTU2NlQyNHhhNy1ua1NJWFFreWZ3WHdjXzExNW9BZ2RtSV9lQV80Y2FlMEtKWGZ4TzE1RWc?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki zdecydował. Zawetował trzy ustawy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDN1VDFLdEJnUHh1STBweTB4dm1RRnQwVm9jTWpqRU84YmcxNFJoZkRXWDRwLTZNamFMbW5mZzN2dXR1aFlwbWRpN2RxZzllOVZGOFg5cTdmYTZoVHpOTkZSa3JPbWRRWXdiVmU1NmxibW5EVm01V05IRGZQVlhtVENYZXU5T0hWUTdiSzlzYWI1blRlaHF5aEVBaU5PY0lsa2NueXl6eGRONG5PckhB?oc=5"
-      },
-      {
-        "title": "Łukaszenka wraca do pierwotnego planu. \"Presja rośnie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUpvcEVSVmtya2cyY3ZMQ2ZjZkpaaXFHaDJ6M1E1azNoSXZxdWRTcDF5cjRCOU56RExSNW1TX1Ryek8yUkxGZEdZNGpucWE5YllSZC1nX2JTbnBtTWR2TDF1dHdfUTJiamNCSUpxVGxoS2ZadXBhZHVzbEJQeWlocjRFWmZBRVdhWXo2Wmk1eDlEOWt0cFl2Yi1IaUltSUhi?oc=5"
-      },
-      {
-        "title": "Katastrofa awionetki w Wielkopolsce. Są ofiary - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ09HLTI0RldtSHZVZ3dyUDFSYUgyME5ZUkJEVlRoX1JKaHNOVkhYUURLRGFlSlJvQTdqbnc5R1FnVUVEYmhDTEVxcjJrVmg0ZXR1eTYzRzYzR3FjX25Ga0tnQWZYeVRsUUZINUNZUmk3VUwybGppeTZDY1JVQ3d3YV9KWVFyZlVyWGozT0d2RC04VjJ4cGZUMC1VQ2ZXVklUNUtLX1BSd2VJRUU?oc=5"
-      },
-      {
-        "title": "Żbikowski czy Weber? Wiadomo, kto zastąpi Agnieszkę Rupniewską w fotelu prezydenta Zabrza - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcElTVWtYTFc4ckxTejBNRkFfQl9ScTB5MnFsX1NRMkVmTHhaNTItTEp1TWFEZUhOa3JIc3lmdVJOQlFuVGVWbEFlTFBnUzY0S0pnY2dWMWowVmkzQnVvd3E2Z0lnUTlGeFVkZEZuX1hkS0s5ZGh4TVJkNk5NTG9WTDRIbzhzcjhldWtnOVgwNzZwTzQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-25 15:26:37",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tusk: Wiatraki będą powstawały, weto prezydenta mało skuteczne - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWJyNmMyM3UzTE5qeUg4dDJtU1NDNF9fMU5kaHhiY2JoSjBibXkxX2ZLWWZKektoZ3FUN2ladXdPR2VUdEhtVmVwQmh1Wi1nSjZvWEZqVUM2azc1NFRHZjFVOWlCR0pHOUxWSXNYUklBMzdkWjlUNERmZlhKV0Ywckg2QjVsRHJwcWFsV3ZkQ0VBUGdBazRiampHQmlpSW1Dc19QWDV1ZlE4dC1ZOHpKMDVtX1k4UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27 19:12:00",
+    "weather": {
+      "Warsaw": "Warsaw: +24°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6793,
+      "EUR": 4.2639,
+      "GBP": 4.9468,
+      "CHF": 4.5623,
+      "JPY": 0.024875,
+      "AUD": 2.3807,
+      "CAD": 2.6569,
+      "CNY": 0.5138
+    },
+    "crypto": {
+      "BITCOIN": 410902,
+      "DOGECOIN": 0.809425,
+      "ETHEREUM": 16951.22,
+      "LITECOIN": 415.96,
+      "RIPPLE": 11.07
+    },
+    "indices": {
+      "^WIG20": 2856.56,
+      "^WIG30": 3703.06,
+      "^WIG": 3703.06,
+      "^NCINDEX": 260.79
+    },
+    "news": [
+      {
+        "title": "Polska nie dostosowuje prawa do UE. Jest kolejne weto Karola Nawrockiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVZYblhuN21ueGhueEM1cldyUGNRMFFPVm02WnNrQTZqQzFsQjBWS0dGVjY1ZmdmUVJoYmRHZFctbWc0dmJyQTVCSVIzZFhVU3FZYTRpVU03d0o0anhEaVg4ZTBKY21hMjg2VVU4bGQ2N1lxR21uZldCSFJHNDVpNWkweVRHQUFMQXVkbUdyZjZxSzhtSVBVWm1rQVprR29yRlpKOTdhak9ELXh2MVVwZXlRSUdRTGFSeXNJbHNB?oc=5"
+      },
+      {
+        "title": "Polska - Niemcy. Siatkówka. Mecz na żywo, transmisja, wynik - Sport w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWt6TlBSY3VCNlF2cEd3czhPWFQ5THlwMTFuZmhpXzdoV2w1YzFVVF9tcnNsa1VYeHc4S2lNSkVsT3BrYmJCZnRfdjlUamlTenFpeVFyeS1jRGgyem9SbWI4clh4a3hMZEpEby15VF9PSWQ0VzZ6VURmUmh6akJzYll1dWMybmJJeXNZdFJ0RXBLckhxbkpZYnJEWkNqUWpfeC02YXFXYjJfOHNZODNUelNvNzlkYjUzd003azFxNWpVWGY5SjYySThmN1c?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki zabrał głos po posiedzeniu Rady Gabinetowej. Krótki wpis prezydenta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcno5V0s2TENKTjdNY1A0aXlqU3plN1A5MTNEUkRuemR0QnRUNm1iaXJJZ29TVlpvTjBnX3BZWnNkOFVRYUpyNGxKS05NNWVZSmJITXVVeG9ERjdMN0dBQkNXMW5rbDN0c2wxQWV1THlRcWpONGhFZnV3anpVNXlMWGprejgxMUtCd0xqUU45NEJtb3BTcjZZNXBKR3lJSTdTYlY0QWllUWRYanpuR2owV1UyN25JeVNTM05tbzRMZ3phTlc2dFFVNkx0QXU1d0RRNXgyVW81S2lPUVVs?oc=5"
+      },
+      {
+        "title": "Morawiecki o pobiciu byłego ministra. Mówi o \"nienawiści w polityce\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEYwV0NlM1RTRTJ1a2U1NmNYSGFHTnFiV2wxamNXN05mYjVBbEJ0YjhQMXZ2djhzSVo5R2ZVNU5XUXREUzVwWlFieWNDWnR4enVXdjBlVWxxR1RkaHVHcGlRVnl0S19PcnJhQXMtTWpPNHlTdnByNUtsUUZ6dTBzNUpSYzh4cjRWRm1LLWlwWHgtQVdJQnY0X20wazk3cEd4Yy1MM2JmZw?oc=5"
+      },
+      {
+        "title": "Marek Magierowski: kancelaria prezydenta nie do końca była przygotowana na atak - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGhsMFBEVE5saEQyYVlUQTR4SGNYbzlhOHd1OUFoeDM0Z1RnQWdhMDk1X3RwRUpZb1RDWk5JQXNST0l5SUVPc2lvcWNnTXozbEc3UkJKYUVTSDd1WjhYR1MxLXRETE45dmd5d1hwUmExQjZHWkUzYTB5cHlKOEhKMlRGVjZTbUJDWnJDTE1udzdNeGNQSm9wdHpvTWNJbXFla1ZrZWFQNnlNdmpidl9uTkZVUFJBYnpGU1g5UDB3?oc=5"
       }
     ]
   }
