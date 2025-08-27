@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-25 17:14:44",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6421,
-      "EUR": 4.2627,
-      "GBP": 4.918,
-      "CHF": 4.5416,
-      "JPY": 0.024728,
-      "AUD": 2.3659,
-      "CAD": 2.6342,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 408230,
-      "DOGECOIN": 0.800412,
-      "ETHEREUM": 16898.83,
-      "LITECOIN": 408.57,
-      "RIPPLE": 10.81
-    },
-    "indices": {
-      "^WIG20": 2905.64,
-      "^WIG30": 3766.02,
-      "^WIG": 3766.02,
-      "^NCINDEX": 261.01
-    },
-    "news": [
-      {
-        "title": "Weto prezydenta dla pomocy Ukraińcom. Eksperci wskazują na duży problem dla firm - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFBFZndhZTEwbW0xQ251ckFSNGJkZG9fQmtlc1pNRWdvX1RuVWR1T1Y2MUJkck1UbTVSQ0VlWGl1RDhZTVB5eWZURlBEbnBnMFBSekxGOXl5SnVyVWd5eXdpbG1XWHZXalhFS1VpX01sOFhlZ1NSUWdNYzRkVmczV3oxazh4bGpJX29nYmZfZWttRDlERmRQQVFSNTYzcnlRbGpJckdscmpjUXQ3V2UtQXBEQjh3Zw?oc=5"
-      },
-      {
-        "title": "Bus zderzył się z ciągnikiem na S7. Nie żyją cztery osoby - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDUyQUZNQlNvNHNSel9HUEV2WHl1bU9DeVBoaWJsMjBvSk9xWW9nZF9aQl85WTdmUktrQTdtbHN6bFl4dVNELWxnUkJpSVlhWm1lQy1GaXdNanVIYzRwSFl0Z2tHZFZTcFo0OWdScXQ1Ukt2d29GcV91TndqTmROa095XzM0dWl6VlZDRVFVTmttNVRWdE53?oc=5"
-      },
-      {
-        "title": "Ważne zmiany w edukacji. Prezydent zdecydował o \"godzinach czarnkowych\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRG9ueHlBYk1ocFdxQlROa0xaT21ESGFlNWFWZE5kd2FoelZLMjlLYnZVZEJ3LUdCdkloeEFiX3BHcDBCSjdTU2cycldvTWRKdUU0MFIwX0o1bVZzMk9nVExqRTRURkFPaGJsMzdtd2p1akx4R2JQaXhyWEV3MGFydU85eHByRmM2WVFTVnJXSUZ6bkswRnBIeDQ1WEdZbXhTcGFWYWNfMjljS3Y4UEhTSXlFX1dpdWRwNmc?oc=5"
-      },
-      {
-        "title": "\"Tusk na urlopie i Zabrze odbite\". Fala komentarzy po zwycięstwie Kamila Żbikowskiego - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWVWaFZxbVNid2tRdFp2NWp3akwtRy1MNEJNaV90MldScF9EVUFUMHg1MnVReUdnaFA2T2RXWWdPT2JfaUxZeW9rUDRGTC1BM00xUnZ3VkR0UUhHUVpCYUNwRU5qc1R6MmxWNlZuWUszQkZSajNNMEdoS0RlRWRQSG5JYVB5OXh6LVpleXg3M0ZfQTZxYWZ4VkpGQUxSS3ZCLTk2blNRSW1UR3htbldZWEYzOA?oc=5"
-      },
-      {
-        "title": "Katastrofa awionetki w Wielkopolsce. Nie żyją dwie osoby - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzVpYXU0ajBJYlJTbmpDU0NBelZ0bXBfeGdnZlJ1QlhpcFVQSVpDTDhHVWxSczBvNHoyUDhzWk5uTGhHWERDMUpVVk9pY0VGYTYyS3l6TVBmNk9LeGNyODRqV2FYeWc1bEh2VkZ1WUxVeGQ0SUNFaXQ3Zk9hb0ZVZDZZcHNMa0lCOUQycHp4UVN4MlFrSFlB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-25 18:17:32",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tusk: Wiatraki będą powstawały, weto prezydenta mało skuteczne - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWJyNmMyM3UzTE5qeUg4dDJtU1NDNF9fMU5kaHhiY2JoSjBibXkxX2ZLWWZKektoZ3FUN2ladXdPR2VUdEhtVmVwQmh1Wi1nSjZvWEZqVUM2azc1NFRHZjFVOWlCR0pHOUxWSXNYUklBMzdkWjlUNERmZlhKV0Ywckg2QjVsRHJwcWFsV3ZkQ0VBUGdBazRiampHQmlpSW1Dc19QWDV1ZlE4dC1ZOHpKMDVtX1k4UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-27 22:15:07",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6793,
+      "EUR": 4.2639,
+      "GBP": 4.9468,
+      "CHF": 4.5623,
+      "JPY": 0.024875,
+      "AUD": 2.3807,
+      "CAD": 2.6569,
+      "CNY": 0.5138
+    },
+    "crypto": {
+      "BITCOIN": 410347,
+      "DOGECOIN": 0.805954,
+      "ETHEREUM": 16715.05,
+      "LITECOIN": 414.24,
+      "RIPPLE": 10.99
+    },
+    "indices": {
+      "^WIG20": 2856.56,
+      "^WIG30": 3703.06,
+      "^WIG": 3703.06,
+      "^NCINDEX": 260.79
+    },
+    "news": [
+      {
+        "title": "Donald Tusk reaguje na pobicie byłego ministra zdrowia. \"Zero litości\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUJGaWcwNFdwdmdSX2xBT1I4di1JZjh0ODNpRzNyNVpYVUphVTBwdzdwU0JRQ1J0RmY0UE5GYk8zY1psUU5EODl2ei1ubTM5UkZkX0Z1WG5WSE1zYTFJVEdOZjhTX2RwZF9zZWRZNVlOUjdqR2JodzFEYVZPSTRUU0o2XzBfdkliTDVCbFFJTEdEZnhxTVQxMFlUWFBpN3hxS0ZDdXNfaDlIV2NkRTFUdjVsX2dUcWVvX3JEUm5qQ245RmxJT3FCNTl3?oc=5"
+      },
+      {
+        "title": "Jacek Nizinkiewicz: Karol Nawrocki potwierdził na Radzie Gabinetowej, jaki jest jego główny cel - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDN2dElZa3cxWXo4NUNSOXdoTXNTZk42bHFNNHpBMUh2emlvOWluRHB6c2VZajV6enpLZE44SXlDaUh3OUZzUG5nTWYwb3dOUkdmd0ZGOVVVdVg3djdoTGFlbnVIdkJnYmk1Q0FkUlVwMHZoSlFXbmFZOGFBVWs1NkNHRzV3enhHTWF1VXlzRnowLWVtb19vVXhkcFYtZ0owdERkM08ySjVmc2dHQm05bFlZdHk1RnFBbUkyUTdyR0ttREI0ODNpalhaRHJrQlhUcXc?oc=5"
+      },
+      {
+        "title": "\"To nie łzy, to wkurzenie\". Siostra Chmielewska komentuje swój list - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY052c0d4bTl3SGNlSmVFRTFzczh4RzBBZlNPRV82bDBMOUxSOV9TTUJHdlowc2RqUGlQamZ6ZzhRenFsRzFSSGdhMXEtUEhVbkxocGQ2cEw1ME1USlgzZDBUTFFMSkdVclZLS2JHeGhucmtpYVdhaDNJcnI0YkY3dGNFVGpSOENwQXNOZzhhaDFZXzFLam5TN2t4YUhFSGpYQUlzWmc0QmtSTjNWT19HSDJzU1JlMzhBQ1E?oc=5"
+      },
+      {
+        "title": "Polska nie dostosowuje prawa do UE. Jest kolejne weto Karola Nawrockiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVZYblhuN21ueGhueEM1cldyUGNRMFFPVm02WnNrQTZqQzFsQjBWS0dGVjY1ZmdmUVJoYmRHZFctbWc0dmJyQTVCSVIzZFhVU3FZYTRpVU03d0o0anhEaVg4ZTBKY21hMjg2VVU4bGQ2N1lxR21uZldCSFJHNDVpNWkweVRHQUFMQXVkbUdyZjZxSzhtSVBVWm1rQVprR29yRlpKOTdhak9ELXh2MVVwZXlRSUdRTGFSeXNJbHNB?oc=5"
+      },
+      {
+        "title": "Strzelanina w USA. Wielu rannych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTg3VGlielc0UFVBbkR2ZzlXeDZJWlN2OHY4U3QtcVVEcFo0T1BDYXFjRWw0MjNEZEZ6RDkzdV9NT21DMjFTUFFDTWNzRnZHVTltdWhMOHJGZWxjaHJWb0FLZUNvM2VjeVpoRHNTckQxOGtDSWVVVzRVWU1IaXBrUGRPT0hydy0yOWg1aVpzYmg?oc=5"
       }
     ]
   }
