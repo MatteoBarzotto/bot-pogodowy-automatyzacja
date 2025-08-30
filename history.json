@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-27 23:12:20",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +27°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6793,
-      "EUR": 4.2639,
-      "GBP": 4.9468,
-      "CHF": 4.5623,
-      "JPY": 0.024875,
-      "AUD": 2.3807,
-      "CAD": 2.6569,
-      "CNY": 0.5138
-    },
-    "crypto": {
-      "BITCOIN": 411432,
-      "DOGECOIN": 0.817653,
-      "ETHEREUM": 16793.34,
-      "LITECOIN": 417.93,
-      "RIPPLE": 11.05
-    },
-    "indices": {
-      "^WIG20": 2856.56,
-      "^WIG30": 3703.06,
-      "^WIG": 3703.06,
-      "^NCINDEX": 260.79
-    },
-    "news": [
-      {
-        "title": "Adam Niedzielski pobity i przewieziony do szpitala. Ostra reakcja Donalda Tuska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3RvNnFpdmFxNUpqeHBISDdEanpnSTJJVUZXRGdVUzhpOExaLUR3WjlrWERudVBySnBmZndCQUtQeGtnQjItMGduTkRXZ2RNMjRsU1cwd2FlaTZyYmVTVmpLcXFSX1ZsOWtjd0wwRVMwNWhlWkFtUldfaTgyRUR2a0haWTJWeS1BTmNOWDBJUElwaFVUamFyV3YyZjdNM3l1dVRBVGFmd3NUN3NCblJoV2NLS1Z1TFdObDVMczQ5XzhsY1NTa1pJ?oc=5"
-      },
-      {
-        "title": "Horror w meczu polskich siatkarek. Biało-Czerwone pokonały Niemki - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREVwdHBoNXh5VWZpQ1B2RGxzbWJkejF1MDYyTzdYbFBpVkQtWGhXLXp6N1RRUVlnME9JZ1JQVVVSTWh4YXJNa183cVRyUlR6c0ZZdWlYNEt1aFBxQ3hZVUxNOWxGc1RWN01pSVBzSEROWTIwdUZLNE5VRG5EWnE1UWJXeVlxSlNpeFd4THE0Z2NEY2VlOU1TOGR0T2dkb0NCRDFJckh6dzdSeXR5cjc4UUtJM1RRTndsMEc0eVdsdkxkUm9lWEktTWpDRU4wY2_SAaMBQVVfeXFMTkRtSllvMUxycGJXVlE5T2h2NWdLQ2tSUmpfZlN5dVdESEg0MW85eGsxMndJaTBNNjFTS2Y3UHFqNUVQU2RrSlJsaFhLM1RCNzVaQlAyMUZPOVBXTllyRHhVWXdJQzZsalFLNGJIdzlwdWtiVXZESG1MYzd4RW5wY1BxUFduMWlCeHFKaDdoUTFlUGZFYUt4QTY5NVhiR2pFVENxTQ?oc=5"
-      },
-      {
-        "title": "Jacek Nizinkiewicz: Karol Nawrocki potwierdził na Radzie Gabinetowej, jaki jest jego główny cel - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDN2dElZa3cxWXo4NUNSOXdoTXNTZk42bHFNNHpBMUh2emlvOWluRHB6c2VZajV6enpLZE44SXlDaUh3OUZzUG5nTWYwb3dOUkdmd0ZGOVVVdVg3djdoTGFlbnVIdkJnYmk1Q0FkUlVwMHZoSlFXbmFZOGFBVWs1NkNHRzV3enhHTWF1VXlzRnowLWVtb19vVXhkcFYtZ0owdERkM08ySjVmc2dHQm05bFlZdHk1RnFBbUkyUTdyR0ttREI0ODNpalhaRHJrQlhUcXc?oc=5"
-      },
-      {
-        "title": "\"To nie łzy, to wkurzenie\". Siostra Chmielewska komentuje swój list - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY052c0d4bTl3SGNlSmVFRTFzczh4RzBBZlNPRV82bDBMOUxSOV9TTUJHdlowc2RqUGlQamZ6ZzhRenFsRzFSSGdhMXEtUEhVbkxocGQ2cEw1ME1USlgzZDBUTFFMSkdVclZLS2JHeGhucmtpYVdhaDNJcnI0YkY3dGNFVGpSOENwQXNOZzhhaDFZXzFLam5TN2t4YUhFSGpYQUlzWmc0QmtSTjNWT19HSDJzU1JlMzhBQ1E?oc=5"
-      },
-      {
-        "title": "Zwrot po Radzie Gabinetowej. Nowe weta prezydenta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDhVWHpxajZWVndOa1RlRXdJblFrRmQtSFhHUE1ZRUF0Umw1N3l1SWM5djVSUG1fM2dydm1JV2JoOWpBV09UVmxLRWF1enZDV19rYUo3VUQwNzVYT2I3VDdGbzU2aDEzdEVnRjltLWRPaTBSdUQ3UWFJaWE1R2RudWNia1NKVHYxTnRQSTVKLWo?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-28 00:12:37",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Weto prezydenta ws. lex Kamilek. Minister sprawiedliwości zapowiada kolejne kroki - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmpDVW50ZnNOcDh4YXZwaXJLcVd0ank4MGJOeU9VenhZRnlLV3JTVlhmaWdZMG5zZEltbUJiWWgweXQzLXFJTWI5U3lweWxqRnpKUEctZVFVdWFUMmFfeHVlbktTbWoxSVl0VkJWUUZSbEJaLXdwak5XNldyUkVCZUltLUZqdFV5d3BNV2ljUFY5anVxWnl5S0ZzakhibHlLNmFqLXJMT2JjckxWaVdaX3NHb3ZGUzVIek9VQko0Ml9maFhvakE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-30 04:51:53",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6559,
+      "EUR": 4.2684,
+      "GBP": 4.9269,
+      "CHF": 4.5659,
+      "JPY": 0.024877,
+      "AUD": 2.3893,
+      "CAD": 2.6605,
+      "CNY": 0.5126
+    },
+    "crypto": {
+      "BITCOIN": 393889,
+      "DOGECOIN": 0.786883,
+      "ETHEREUM": 15742.3,
+      "LITECOIN": 400.27,
+      "RIPPLE": 10.22
+    },
+    "indices": {
+      "^WIG20": 2793.76,
+      "^WIG30": 3626.42,
+      "^WIG": 3626.42,
+      "^NCINDEX": 260.63
+    },
+    "news": [
+      {
+        "title": "Katastrofa F-16 w Radomiu. Odnaleziono czarną skrzynkę, wszczęto śledztwo - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMU5OaTM1bGhOcl9ETFBmN28wdFIzbWUyX3Q5cnAxSHNSQURrRk5fNC1oVFh5THVocU1HRXpudjdMQ3lVVXlEZUk3WVUwbXROaDdXcGc0cmlTWXppazVoczctcWZKaWI2Q0dqdFFMS0M3NmtmWFlfLWdLaWR5TGcxdHFCWWZKQ3RqY1UzZ3dwSWxOZGdDVG5tSjk4dnRNZFdURFdRZg?oc=5"
+      },
+      {
+        "title": "Samolot LOT zawrócony na Lotnisko Chopina. Miał lecieć do Chicago - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjF4bC1lT1kxcmcwRjV0MGo2bjdjRndNd0VTUXFBc1VGeU1OSGVZVUhCNUR6Mk9SQkhqckFHTmFKMS1VOGlWNld0QnZTRF9oamxiVTA3WmtBWDZ4NHh3akJYMEVqRHVSSzByYlkzckJ3ZW9XdFYtOWIyR1VzRlpPT3ZCOGJRb0twLXFreHZ1cW9Fa0s1dzNXRG1hUTlIclFBQ1VtNUR3?oc=5"
+      },
+      {
+        "title": "Nowy pomysł Nawrockiego za 5 mld zł rocznie. Inwestor: nie rozumiem, po co - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTQtVXZqejdWNWF5TnJiZVRMbm04bkdIbmp5MlpWXzVpTVRvWVo2TFlwWU43bVBITmM5Zmdkd0dqT0xMU0hNbDFWQ3IxdGRZMnYyRFA4Ql9qN2kzVmhOSWYxQ3plNFRmNGhTeDRFb1o0OEprM2h6UlI0X3pRN3NjYkk4VFk2MS11QmxNMXVmMUhYVUh2ZzNkdk9oUDdlc0NmeWNGYXlZUGlVaHQyRkRPby1vMEIxOFV0V3ZtMnhITmdJRDhy?oc=5"
+      },
+      {
+        "title": "Deficyt budżetowy na 2026 rok. Eksperci ostrzegają przed \"greckim scenariuszem\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEMxdzRORTA1N2ZtOERyc3JVeXdMbVc2NXdMbURVT2lQVGo3ZnhES2pvcXdaN2h4MEQtdjZfR25yOThXNWlaVXJTSzBBcUR5blJTQzBzVDQ1SUtmUk5CbU50MXREUjlMV2MtYTR6cGlkTXdkdkFQN09xTllkVnBEZ3U5bnJqTnVDcWNLd2pBVjUwckptVmsteHNOeXNWRmxzZDlYU3h2Ynd6dHZuR0xn?oc=5"
+      },
+      {
+        "title": "Pobicie Adama Niedzielskiego. Sprawcy działali z powodów przynależności politycznej. Jest decyzja sądu - Portal i.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHNMU1Rqb2tVMTRYN0hQeHVqaHcwb1lqNUF6aEhORjB2ejdLVGlWWWtMWDQyTVBPaUFZUFlpZGJCVVNLZGlnUHJpYXJ4UEd5QlRWaTdmRU81N1IzSS1tbElMdnZvYXFGenlMMUtrYkRLb0hNdjZqa3FzRXZXd3hsci15Wi1fT0RVODMtLVVoLTQwN3Z5Y19hUWpIdEoyOFNNZ2dUM3dhamI1d3gyaEJySUtwMV9yQTFzMWFaWXhheldMbDZlVUVyYkhn?oc=5"
       }
     ]
   }
