@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-28 13:11:15",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +28°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6658,
-      "EUR": 4.2681,
-      "GBP": 4.9485,
-      "CHF": 4.5753,
-      "JPY": 0.024906,
-      "AUD": 2.39,
-      "CAD": 2.6615,
-      "CNY": 0.5139
-    },
-    "crypto": {
-      "BITCOIN": 413160,
-      "DOGECOIN": 0.816388,
-      "ETHEREUM": 16789.05,
-      "LITECOIN": 413.82,
-      "RIPPLE": 10.98
-    },
-    "indices": {
-      "^WIG20": 2845.02,
-      "^WIG30": 3689.37,
-      "^WIG": 3689.37,
-      "^NCINDEX": 259.47
-    },
-    "news": [
-      {
-        "title": "Były minister Niedzielski pobity. Sprawcy sami zgłosili się na policję. Co z ochroną SOP? - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDNaSmJoaTZfb20xYlA2aXhWTFlBbTVWd3V3N1EwX1hMSUs0VGNHYXF5SmcwWGtMZG5wXzcwMDZKVzg2TnV3aVlNbmtDNW9JQmVfSzg4YzJBaE9NOXdKWmZuakpSWHItN0VBSUFLUERmbXptQ0lrNzBSR0NtOXMxWkdZNzFiLVJEN1REcndmT3VWUXhETnJWTURpUUNUbFg1TlNzQnlJWXYxQ2NTa1pxVlhVam9OTDgwbGpjMUFxWjF5RWZubEtvUW1jLWvSAcsBQVVfeXFMTWdENFI4MHlZUjdaXzNPUk84Q0psMm5GNzZiNEs0SlpQeENxYllRbHlQWHRrZDBYdDlJb0ljV0xsaFFSMldheTFPaDExbGVYd2lFUHltV1RNdkcyd21xNDVNQnhDQk8zZnVlc1dsVnVBcUEySk5PVzVreGxRZmYwVDhaRXV2b0RKdXo3QW9uUmE0YVFGRjhXeFEyV000LUt2T3lNbVNzcm9uVTVVUUpveDZCRXJuT0l0NDU1azBRMHJQcjY3MnlOWXZ4MTA?oc=5"
-      },
-      {
-        "title": "\"Toksyczne towarzystwo wpuszcza go na miny\". Minister o propozycji prezydenta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUdZR1ZyMW5MZDZTaTI1dFU4WUlhZ3FGUlF0NTVsR3B3Mlh2bmxrbG90OEJFRkdvalhfSzl6Mm5CZTlJaUg5dGVaQnhVTDFNQ3hmaEtVVzNYRkpsWmNKZ0VRdGM0cGRCakxGZlFIVThJZDVDWUt6cktMckNCWjB2SU9DT0s2bHc1ZnE0YkdSRzJCVzNVNEdBVFR4UVUxc1JMLWE0bTZ6ZGd4QW05QzZLeXZ4QjZzeG55cTZlSlR2S3FFc1R1cFZ1cQ?oc=5"
-      },
-      {
-        "title": "Rosja znów zaatakowała Ukrainę. Polacy ocenili weto Karola Nawrockiego [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTElyR1lLT2JUbWVUd3BiQ0tjQkhmYjhQT0loLTROTEJidzJlTEZSbl92NnZNbm02N1NNczE3TmRidWdvNlJMS2o0QU10NnRjdnhKVjQwM2VrRHVxWjJPV294cDFRcHdDcHd2VWdDM2N4NXhrXzNGdkpaUVdPMEtxN0NYU2IzMnFxeVBFLWRHbnlJRXRrOHZKeWo3N0JSM2Z3OU9Lcm56ZlQ4aGs2eVZGQnNJMWFzODdWa0Q0NU1mYURlOG85?oc=5"
-      },
-      {
-        "title": "\"Trafi do każdego domu\". Rząd wyśle specjalny poradnik bezpieczeństwa - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZk53ZUI0cjJ1TGFaRTFkZy12b0diRmtCeWpkbVJxRnZkUVRQZUhXcklnR010cGllN2ZkRkNFVDBYSFlfUVV6UE1TaFBTX0djbFVxcG1aRk9XOFVxdEYxZE5od0dEU2pUZVFocXVJWk54TnlCWC0wU0JqaUFwbW5kemRiVEU1dWJoTzl3anlVV3hjN0VZOGpUUTdEbVlMc21LLTBFaG9uUDdtcWUwZFVkRkVnWXpObURVcGttLXpn?oc=5"
-      },
-      {
-        "title": "Weto prezydenta wobec socjalu dla Ukraińców. Wyniki sondażu - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREhXRmxqTVpjTUdlaFFLZFc1SV9UcGdWaVRCaWdidV94LTk5R3pudzhCQWZlSTRnTDhEX2FKbE11NG5sTGxwMU9QYjFranMzTGVfSlpBT0cyQk0zN0FQOU82ZHhpUWhCWjVfOUFYNnR4Z1ZuTFNMNU8wM0JQc25FU0xIbElLeUtPLUJpdGtTN2JFaGpOOWhYb05FMUwwQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-28 14:27:38",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rosyjski atak na Ukrainę. Polska poderwała myśliwce - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWp0aG9kWllTOFpweTJ5VlVVc0IyWkZPYU5uR2pIb3RBS1ZUVEV0Y1NmUThFZ0I3NVVtMGs4YV9aelp2N1k0dUx4Ml92aWVTY3Z4Q1dOM2x0UFVtckdNZmplcnZmRUprZ1VfeVQ1UU5hbVNRbktSdHd5VTlURE9vTmtBVW9nbW9RU0FOdklnRzZNXzh5SG5GSHpqQVhHdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-30 17:11:39",
+    "weather": {
+      "Warsaw": "Warsaw: +28°C",
+      "Kraków": "Krakow: +28°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6559,
+      "EUR": 4.2684,
+      "GBP": 4.9269,
+      "CHF": 4.5659,
+      "JPY": 0.024877,
+      "AUD": 2.3893,
+      "CAD": 2.6605,
+      "CNY": 0.5126
+    },
+    "crypto": {
+      "BITCOIN": 396341,
+      "DOGECOIN": 0.784635,
+      "ETHEREUM": 15927.06,
+      "LITECOIN": 400.9,
+      "RIPPLE": 10.21
+    },
+    "indices": {
+      "^WIG20": 2793.76,
+      "^WIG30": 3626.42,
+      "^WIG": 3626.42,
+      "^NCINDEX": 260.63
+    },
+    "news": [
+      {
+        "title": "\"Slab\" był polskim \"Top Gunem\". Pułkownik wspomniał tragicznie zmarłego pilota F-16 - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVBvUGZwWHVvWGZmWnFfeTljMzVFNkpFb2pCY2Y0WE9fTjBQRGVVNW9NeDM1MVY5cDJhMC1HNEdPXzhWUDlvbWNUTWh1YlBSemw2NEMxajRpUnBaZ2ZBcWRMOTBmeFRYNXBZTHpUZjRTc2M3N0gyUldTSDAydDFCNXF6Rk5FR2thZ2VXNGNBS1pRcGhwTF9oRjRRWmVsU0JNbXI3M2NuUlE5ekdjWHdxeGdiSEowYnp6TmZ1UktQUDdaRU5D?oc=5"
+      },
+      {
+        "title": "Strzały we Lwowie. Nie żyje były przewodniczący parlamentu Ukrainy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZG40V2dydFFaU3V5LVRhaXpJNE1PTXFVclA2VlFZeEN0U19qYjlqem5HSTRYdEFDcHRQTUVkM3BHbVRETE5QSTFhWHBQdndMWV9KclpqRm9lM2NNWWJ0VUcyZXpsdk1MTlJteE9meEt6NXNRVjU0bjdTQUh4LWRBWklpY0I1R05ITzVQc19BUXYtdFJBeE1FSzJUN05vdG5SSXo1Z1dTeDljSEJGS2JheEN4YlVqSUVHVEw5cmlvMnplVlRyc1NN?oc=5"
+      },
+      {
+        "title": "Nawrocki: Polacy nigdy się na to nie zgodzili - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVlOOVpxWkdMeVIzb05aZjd1WFlKWGlCSTNfT3plbmNPLTRJZ0s3N1JocmlMSV9zYjM1WFhvUjlhbmd2YmR2dWw1dExDSVFrcDFXZHA3clN3RHVfemFmbzQ0bW9KVHNyUzVSd3R4SVZmVjRnVzYwbWQ3QlZuVkhtd012LUlwM1o4Xzd1MzQ4M3E?oc=5"
+      },
+      {
+        "title": "Prezydenckie weto ws. Ukraińców. Przedsiębiorcy apelują - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVhGdGo0djZPTGhLNVZWWTNYT0lYcFdPMk9Zck9nNXd4eGlqZDJWMWJteXlqdkxyMEszSjlCS21zNUNKcGd1R2phUHRIanY3RmpzQW51NHEtUGhvdEpGZ2Q4YU9FLXYzelBBX2dsbmdiSElNY3VWWnUzN05jNmpkandZa194aE9sV3E4V2dhQ3NaZGhZRHNCTW81ZjNZVk9PcVZFYU5VQzhoS3F1?oc=5"
+      },
+      {
+        "title": "Ostatnie Pokolenie domaga się \"rewolucji\". Akt wandalizmu w Gdańsku, oblali słynne tablice - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWU2Wl9jMGpXSkFqMy1pb2hoN25TMVJMOEZRTjFUTGdlREJrUFNaclpod0d5cDNLWkFSYnI0eFVPLUctbGdTNEJpYWpHZUJZcVN2V0d5b24yMWNHM1BWX05CWGFTQWxYM25TcTJvbmJTSlhLc09JemUzQzhGejZxVHgyaWlWbFoxUzZaYTVIWTlZb0ZySlVOMjJ6TVdrR1BEZWQyUG8zN3ZaMHdMeEdoUk9jQnZ0WDBNaXc?oc=5"
       }
     ]
   }
