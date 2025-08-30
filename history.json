@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-28 08:20:57",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6793,
-      "EUR": 4.2639,
-      "GBP": 4.9468,
-      "CHF": 4.5623,
-      "JPY": 0.024875,
-      "AUD": 2.3807,
-      "CAD": 2.6569,
-      "CNY": 0.5138
-    },
-    "crypto": {
-      "BITCOIN": 413652,
-      "DOGECOIN": 0.819215,
-      "ETHEREUM": 16739.4,
-      "LITECOIN": 415.35,
-      "RIPPLE": 10.98
-    },
-    "indices": {
-      "^WIG20": 2856.56,
-      "^WIG30": 3703.06,
-      "^WIG": 3703.06,
-      "^NCINDEX": 260.79
-    },
-    "news": [
-      {
-        "title": "Wybuch granatnika na komendzie. \"Pięć dni przed przyszedł mail o bombie\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOW1DWUNuUzJZR3F0VXRzaW5EUHM4bGppLXYzOWFUVjF0TmhKdGNVeDI2a0ZOY3g4WXMzVHNIWWY3bUs4V19GM3h4NjM5dkZYVWtyRkRfdHM4WmVoWjRIaDFkakhXRnQtazdKRVRJa29sZnB1QVdsZDJxVVA2YUttRjVnYUlTbHJRQ21QZ3pOLTg5eHFaUktNNlBvd1BMMHRJNkRMdHN3aFdQX1dDTWc?oc=5"
-      },
-      {
-        "title": "Adam Niedzielski pobity i przewieziony do szpitala. Ostra reakcja Donalda Tuska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3RvNnFpdmFxNUpqeHBISDdEanpnSTJJVUZXRGdVUzhpOExaLUR3WjlrWERudVBySnBmZndCQUtQeGtnQjItMGduTkRXZ2RNMjRsU1cwd2FlaTZyYmVTVmpLcXFSX1ZsOWtjd0wwRVMwNWhlWkFtUldfaTgyRUR2a0haWTJWeS1BTmNOWDBJUElwaFVUamFyV3YyZjdNM3l1dVRBVGFmd3NUN3NCblJoV2NLS1Z1TFdObDVMczQ5XzhsY1NTa1pJ?oc=5"
-      },
-      {
-        "title": "\"To nie łzy, to wkurzenie\". Siostra Chmielewska komentuje swój list - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY052c0d4bTl3SGNlSmVFRTFzczh4RzBBZlNPRV82bDBMOUxSOV9TTUJHdlowc2RqUGlQamZ6ZzhRenFsRzFSSGdhMXEtUEhVbkxocGQ2cEw1ME1USlgzZDBUTFFMSkdVclZLS2JHeGhucmtpYVdhaDNJcnI0YkY3dGNFVGpSOENwQXNOZzhhaDFZXzFLam5TN2t4YUhFSGpYQUlzWmc0QmtSTjNWT19HSDJzU1JlMzhBQ1E?oc=5"
-      },
-      {
-        "title": "„Oho, ktoś odreagowuje Radę Gabinetową”. Komentarze po kolejnych wetach Karola Nawrockiego - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUxtSGZYeE1KcE9haURsMXp2Q2JfbGR3NU4xeFJ2RkJFYmx6UFNaeHFzNlpOZUN0RTc3ZEZJNTlTRzctZ3QyQ0VOVmJnTGR0aGZrdjVvTFJpbnNTbk92SmlCakZnWGd1U29Eei0xS3hJeUd6TFY2Mng3UDdZWVRSX2tKZ21fczRiZTVNVHJ3Yzc1S3ViWmdGLWg0enJ6Q19ScWdQbVJsYlNBd2NQWVNYSnJrWlhuSG1FY1NETA?oc=5"
-      },
-      {
-        "title": "Kto tu naprawdę rządzi? Donald Tusk i Karol Nawrocki na Radzie Gabinetowej - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52ZUJyM0hDdHlQWWRra1hHN0s3c2Q2dHR4V3RXb3BncXVfWW83QTJlU2FtdC05SjN5b0VjODBPeGcwZHlWeTU0b0xNdXRqR1hVRTZfei1BQXlFSldyNXE4WXVMSjVQOW9uenFHck5YbDhBUXZsSFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-28 09:13:28",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rząd przestrzelił o 29 mld zł. Oto ile mają wynieść dochody państwa - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmRPaWJzN0gydlhrVS1tRFJEaE52clk1RFNOeVU5OUgwLUQ5NVNva2lieWZCLUNGRTRGYTNwQUplZl9FanVXT1VWbk1HdDVUSXMxNnYyTGR0cmxBN2hLOW85Z0lMSlpab0RGOVFfQzBVTnRvRUNMc1o4MldoM3NJSHgwOEZHTEZqbmhKV0RjTG9mVzhtRXpHcmxfU3RfWUpCcWotbjZGYk5KUFJENEFQM252dGJCWTNmUFJXTUVB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-30 12:12:33",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6559,
+      "EUR": 4.2684,
+      "GBP": 4.9269,
+      "CHF": 4.5659,
+      "JPY": 0.024877,
+      "AUD": 2.3893,
+      "CAD": 2.6605,
+      "CNY": 0.5126
+    },
+    "crypto": {
+      "BITCOIN": 396207,
+      "DOGECOIN": 0.788418,
+      "ETHEREUM": 16045.75,
+      "LITECOIN": 404.15,
+      "RIPPLE": 10.25
+    },
+    "indices": {
+      "^WIG20": 2793.76,
+      "^WIG30": 3626.42,
+      "^WIG": 3626.42,
+      "^NCINDEX": 260.63
+    },
+    "news": [
+      {
+        "title": "Zamieszanie w Radomiu przed wypadkiem F-16. Błędna komunikacja w wieży kontrolnej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWNMY2Z4a1RfaEFYT1U2ZVVkc0lMQzhrOFU5cS1scTgybkZGTTBfcWlNYUhrYTJpSlhLNF9ZU3U3NjNuRVJ4eFBTTGV4d3cyUU9TZW0wUWl0QUhCV3I4ZG1hY01Ca0hQRmVQSUR5clcxX2hxSWZPX0YtNUhLVFEtcUZGUnZKcFEwaERSQm96OGkxeXRSR0RQMjU3WXo1a3FvQVVGRk1TYjNIcjJlQWMxSVpGWldUdTlqYW1FWDVDdw?oc=5"
+      },
+      {
+        "title": "Rosyjski atak na Ukrainę. Polska poderwała myśliwce - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWp0aG9kWllTOFpweTJ5VlVVc0IyWkZPYU5uR2pIb3RBS1ZUVEV0Y1NmUThFZ0I3NVVtMGs4YV9aelp2N1k0dUx4Ml92aWVTY3Z4Q1dOM2x0UFVtckdNZmplcnZmRUprZ1VfeVQ1UU5hbVNRbktSdHd5VTlURE9vTmtBVW9nbW9RU0FOdklnRzZNXzh5SG5GSHpqQVhHdw?oc=5"
+      },
+      {
+        "title": "Polacy ocenili nowy przedmiot szkolny. Co piąty zgadza się z opinią Kościoła [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRbk8xS0h6MThaVElEVFV3Q2NsX1kwY0xCbmdVMHlodmI3Zi0zQWxQbjV6NVlWQkM3cWhyT0ZnbHhjYVdadmJZM3V5d1BHVDc3dnVVUnpGekNLakY2WHhyNENjc3BDQWl5dXdMSWFDRWZva015OHV1YU1JSVhrWF9sRjRlNzJ0Q0dlcnBVZnZ6YWVyZWVLbG5BQTRkTWdwS0ZqQWtKYXJpZENZajhLRmlR?oc=5"
+      },
+      {
+        "title": "Rząd przestrzelił o 29 mld zł. Oto ile mają wynieść dochody państwa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmRPaWJzN0gydlhrVS1tRFJEaE52clk1RFNOeVU5OUgwLUQ5NVNva2lieWZCLUNGRTRGYTNwQUplZl9FanVXT1VWbk1HdDVUSXMxNnYyTGR0cmxBN2hLOW85Z0lMSlpab0RGOVFfQzBVTnRvRUNMc1o4MldoM3NJSHgwOEZHTEZqbmhKV0RjTG9mVzhtRXpHcmxfU3RfWUpCcWotbjZGYk5KUFJENEFQM252dGJCWTNmUFJXTUVB?oc=5"
+      },
+      {
+        "title": "Cła Donalda Trumpa niezgodne z prawem. Taryfy mogą zniknąć - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUJjb3FXeHZxb3UyZ2U2VGlKWFY5T3Z0LU94TTdKS1p4cHBFOWF1T3BKT3g1VFEwSVhGRE01QlJFN1dxNmd3NDAyTlM3MGJSWFJXQkhNTjNmd2czM3hubkU0S3RsQ0M5WDllOGhGaUNvdEQ0eFFUOWpwdm9RQXBfYkhPbS1tWTEzSWdZeFJpTzVzM0VIU1lsZElSenJkZ2txa2JnVXR2VklSeU94Y0hOcURDZW5hQQ?oc=5"
       }
     ]
   }
