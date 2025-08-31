@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-29 17:11:34",
-    "weather": {
-      "Warsaw": "Warsaw: +31°C",
-      "Kraków": "Krakow: +32°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6559,
-      "EUR": 4.2684,
-      "GBP": 4.9269,
-      "CHF": 4.5659,
-      "JPY": 0.024877,
-      "AUD": 2.3893,
-      "CAD": 2.6605,
-      "CNY": 0.5126
-    },
-    "crypto": {
-      "BITCOIN": 395077,
-      "DOGECOIN": 0.783097,
-      "ETHEREUM": 15752.44,
-      "LITECOIN": 401.79,
-      "RIPPLE": 10.33
-    },
-    "indices": {
-      "^WIG20": 2793.76,
-      "^WIG30": 3626.42,
-      "^WIG": 3626.42,
-      "^NCINDEX": 260.09
-    },
-    "news": [
-      {
-        "title": "Ile kosztuje F-16? Szokująca kwota zakupu i późniejszego utrzymania - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFdjRTc1c3VsSXBlOS1rQXRTaVhCX1g0OVh2TTVGZTJseEJUdTNTbEZacG9QRmZfZDhhemZsa28xSFBudXUya1NFaERkRGpLRnJCT2QzWHFPbE1pV3hwdWlHR2FhTElLeWlzYVNRMDRqcTJlNkdlazFieUVZMFNxT2ZzYWhMMDdHQW9fN0NtUnUxWFkxVEhiTg?oc=5"
-      },
-      {
-        "title": "Krzysztof Ruchniewicz odwołany z Instytutu Pileckiego po publikacji „Rzeczpospolitej” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWJiNXBLdFZaS1pBampKSnl5aFJrM3dtZ3AwTmNyNWpTMkYwbmdyME42cUJ5NGlvTkRzemtLcDltN2pma1Jvb0ljVWZXaXJlVlN1UndueXd5TmlPMjkxZGJWclNvMFY3cEdIcjNPOTEwZG5iY2JsNDhMUndVR2ZVTVRwY08wRENjUWFrLWlOVXl1NU15VVFoazVYSm50OWhXNGhlRW44TXREM0FudHdWLXNkSDhJU0VCakRtcFVMTQ?oc=5"
-      },
-      {
-        "title": "Zaskakujący wyrok sądu ws. Amber Gold. Pozew oddalony - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzFSZXM2ZllQdzNza0Y4S19WbVJ6SmVmcUJ6UmprcjhJMGkzSld5VF8xTU5MRzk2Z3FsUXdGaEoxRUVvMzczRkhSUTBMc2todWJQV1l2cUxuY0E2YWx1cDRfdGJLTHpfQnlLU1BNcW54bFBUMFptNEVpWUZROUwtdEFmekdKeEJKREJyeFdUOTA?oc=5"
-      },
-      {
-        "title": "Prezydent podpisał ustawę reformującą szpitalnictwo. \"Mimo pewnych wątpliwości\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGtGVDRvUWdmZGROWF9rNTNBS0NVSkllV3J0RjIwQnAxbDY0SXY5QndZWmZUazFfbUtweHQ0clVWbklteUFld3d1amNhNjBadHprMTVDX3ZnY2VtMXlmbDhnTlhTaFRyaDVXZEJoQmtPNjZONHBtMHl4ZlJhWVFLRTJYWm9vOENZZHd3RmoyX2RUcnVQb3NsM2JnaEdoVUFqclR4SVBpLVNPWHYyYTRtRExlQ1MwOXBPcWhBc0ZSS2VCUkYyVFNhNDN2VQ?oc=5"
-      },
-      {
-        "title": "Obiecał Mentzen, realizuje Nawrocki. Czy w Pałacu urzęduje prezydent Konfederacji? - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXVaeXpYM19pT3FYNzZGanZjWHBZelJEV1RpWnRHS3g3TmRKMFh5Qm9TVzhiT0tHY0o4NnZaa0lCUWxYWXFCSW1EeVFXN3FxVWJaNE9mRTIyajNEQTFkaTZjV1JOU19DNVhsSHVEYmRUbkJmRS1ucEpibnVIYWsxQ25NR25vdGZpWUVKVExRVDBGVU50Ty1pTmVRN0F0N25QZjAtbFRMaFQ1QU5qOXI5QXc5bw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-29 18:16:13",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "PiS znów na szczycie. Ujawnili wyniki wewnętrznego sondażu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1Q0OWNtd0k5SUJNblZFSzRkU2dFWUhDWWlCbGxFekswVzZ6MlEtYlgyQlBZdVotaFVfMGRvOVRoRnBETmdTa1dBLVl4TWx4MjJ5WWx6SG4zX3ZRc3l2eHplMVFTVnFCTnhaOUl2LXRWSG8tLXBuT3ZBV183aUNNWDRJZWFjUFVqNzhPLVV5b3BFM09WZFAtckgxd2FobjRTUUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-31 22:13:48",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6559,
+      "EUR": 4.2684,
+      "GBP": 4.9269,
+      "CHF": 4.5659,
+      "JPY": 0.024877,
+      "AUD": 2.3893,
+      "CAD": 2.6605,
+      "CNY": 0.5126
+    },
+    "crypto": {
+      "BITCOIN": 397613,
+      "DOGECOIN": 0.794005,
+      "ETHEREUM": 16260.76,
+      "LITECOIN": 402.16,
+      "RIPPLE": 10.23
+    },
+    "indices": {
+      "^WIG20": 2793.76,
+      "^WIG30": 3626.42,
+      "^WIG": 3626.42,
+      "^NCINDEX": 260.63
+    },
+    "news": [
+      {
+        "title": "Obchody rocznicy Porozumień Sierpniowych. Prezydent Nawrocki atakuje Wałęsę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkdzZ3JRcGQ4OFBHUmFMYVl0R29SbDlIcEFuX1RoZ0poMm9hSHlXX2MzNkNBWGdMaE0yRU9CTHVYYWF4X3pQV0F3M1M1dXR1bndQc1NOeVNtYWVsakNvbDJNWEd5MWJjbUl5WlVxOXNmaTR1YXY1R0hVSGcySDluRlRMY3JDd1ZjNGttaDlncThPbUkzOTROMEIzN2ZGeTR3dDJYM1ZfOVlKZEMzV1VXNHBOWQ?oc=5"
+      },
+      {
+        "title": "Dorota Naruszewicz o publikacji nagrań z katastrofy F-16. \"Profanacja tego, co nietykalne\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMTBoY2VQTUN0bWV3RFRpRGpSWXc1X1NPZENTelcwa0cteG1rRG4zaGtERDVTUTY0YW5meVpiYVJQWlBaWTM1MndnNHFFa1MtaHpUOUpyM0l1OUN1ajdmaUxEcENSUWxSR3QxeWxKMUxlZWd0d1ByQllNN3dheW96dlNMN2hOb01vZ0RfeWxFWVh6ajVaOXVaR2ZHSG9PaU4yVnFzUFdreFFnbDJkdU5EQUdSZk4zclBpOElEb2hwaWQ?oc=5"
+      },
+      {
+        "title": "Plan von der Leyen. Mówi o wysłaniu wojsk do Ukrainy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTJfNkxTbnQ0bEg3b0YxWVZOY0VCV2RCYXJaX2gyS2hMZVB0SUw1eWVlc3JIUlc0bnhKWUF5LUt3WmpqRThBVVZpb1BYRTRYZVpLTFAzWkZZWnh4UmUxUjNrVllhMTBBZzJHbWx1TkJnTVFNZUJvWTVEa0F6UkZJQlQ4NzRpX1YxTk5UM0wwNTFFRU5BZW1DRjVB?oc=5"
+      },
+      {
+        "title": "Polacy utknęli na Korfu. \"Dzieją się sceny dantejskie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZV9DRlZyRDV3RzdwV0NWakpXVzBiN1J1N0lBMldlYTJkUG5xek82WXRacVI1a2pDTjBWZjNzblNqSllBeDNRME1zOXNmZEpvYTBoZWlISkdkRlNycjA4RTJ3SXRaamZZQlI2X0VRYmFvVUxxOWs1ZHlhQWtxaFZOWWlCVHNjWEJWc1J6NC1XUGdxYWtEbVEtbW1CNkJpMEQyMjQ4ODNNWldSdVk0YTVqYms3SDQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk o Rosji i Putinie: żadne ustępstwo nie prowadzi do sukcesu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDMtaXNFUVg5Tkw2UkhrU0dLMnV1N0E4dXBZMmhsR09RSUItWTVweUU1aXZCMkkxYnJVbXE4bkpiakVpeXlWdzd4WFBOamppVVR2X2NEOWMxaUgxQ0FVS3MtbmswOTlXNDNzaFNTd1B3UnphbFd1R1NVbFZTd3ZYYm9Qd090ZVdtMVlQRnpjZUlnM1ZteUk0VzE4dVlTME1qem9jMWViWXMwWGc?oc=5"
       }
     ]
   }
