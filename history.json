@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-29 09:13:31",
-    "weather": {
-      "Warsaw": "Warsaw: +21°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6658,
-      "EUR": 4.2681,
-      "GBP": 4.9485,
-      "CHF": 4.5753,
-      "JPY": 0.024906,
-      "AUD": 2.39,
-      "CAD": 2.6615,
-      "CNY": 0.5139
-    },
-    "crypto": {
-      "BITCOIN": 405673,
-      "DOGECOIN": 0.792146,
-      "ETHEREUM": 16144.95,
-      "LITECOIN": 405.96,
-      "RIPPLE": 10.54
-    },
-    "indices": {
-      "^WIG20": 2835.13,
-      "^WIG30": 3678.27,
-      "^WIG": 3678.27,
-      "^NCINDEX": 260.54
-    },
-    "news": [
-      {
-        "title": "Katastrofa F-16 przed AirShow w Radomiu. MON zdecydowało o wydarzeniu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc05JcXJwV3NOMzd5c1BkazFtcndEb3JmS2RxdWJiMUxPWHJZcjBEenFfREZZWHk4M1Zjd3B5RkREcHc4WDZLN2xWdktKbU05ai1jYzBKM1R6OTFmMW4welI3czlkWkE3Zm1JWTdDb1NDalhuVUpRbnc5VE5MWVNUYXpNaWltT3poelFORmxYWk5pV2pFZlZmT2l3Tk52RjV6SmhtUkRHZ3plbDBqcUJ1T2JiZExzOE1xdlE?oc=5"
-      },
-      {
-        "title": "\"Musimy sobie odpowiedzieć na pytanie\". Wicepremier o deficycie budżetowym - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdF9tNDY4VWlvYWJ2bXQyV2lmNVFLY2EwV1lrOE5fZDVqUW9FVjBycE9HSlRVclpJWTZtN1U2QllPMEltcVZjakxuanZLcGxZUXoxYnVUMl9KY19zbGhYb0ZiTFA0VWtuLTJ4a2dBdmRNT2lnanh0Y0s2Qll5emY5Y1RIR0p2NkNXaU56aWhtWjhVQ2VVYWRhWk5ULXk4YXFfQWtQWDZCaWpXSXFTTGFLeEFyeFctakRTLUE?oc=5"
-      },
-      {
-        "title": "Trzy ofiary, nie można zidentyfikować płci. Tragedia w Małopolsce - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUJ1alA4TVltYlNLNkdBVkJ6b1ZOSkdEQ25ZVHktTEtaTlotcWlFRjlBb0NnUUtwSzFXd2JJZjZoZEk1OVBBNVRUMDFPa1ViNzNmbWg2YVRLSmh3ZnNuclJ5Q1hPeFVlUlpCaWd3bVF0ZEY0YmFqQk9NWS13cVJoYWItczRSQThsczJqVWFCRTM3QUZVb2kxQVlNX0ZOVEsxMldiSkl1UFNvSW9SMFlIRVJ6WdIBtwFBVV95cUxQbnlGUl9wa2NuVnUxRVFBVXVHZWNpRVRXQWdaMzJCQmtFWEg0WExkQWM2TzFuMmlGc2FoUVEyZDV6bUFieS05VWhDaE8tMTc0ejg0QWdKdXc3QnhfcHpqSURaa2xxY0pMSi1Db25YTklaM2pTY1RmWl9DNHhGV25NWGRGYjR6cDZoR1FaZnlLd0VsaU5fOWg2Z2hvdkxHY1ZULWJUSkhYZXZaeUJMcVRNS0Q2emFkbEU?oc=5"
-      },
-      {
-        "title": "Apel Komisji Wychowania Katolickiego KEP w związku z wprowadzeniem do szkół przedmiotu edukacja zdrowotna - episkopat.pl",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVVRbG1GZXdya2lSNzZ4Skp6WTQzR3Z3enpIdWptVU5QV3VGSm00OHFHcjBhdlJ0czJNcGJad180WWhiZm1vSjdkTlI2a1ZrWEhDSkcyUDh1NWV6UDBGTXpmc2Y1bmNveHZ4VUZIWmllM0hPX2R3NlBDY3MyTTEwSGc4SUlYd1RVZzlBSw?oc=5"
-      },
-      {
-        "title": "Będzie kolejna dymisja w rządzie? \"Znów jest smród\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRnNtNkRFdXNDakF0V1IzZ3M5NEtmR1VCX1NEeTFJOS1SQTZhLUE4NEVtNGIwM0l0YjF6ZGozSGE1OEpnOHBTZjVVRXpTY2ZGeWdleG9XanJoWTZMdEZ0Wjh0UXRlaDdWeDJmRXVQTzltSE1TWDVaNE1WdGstMUpKM05ueC1KZ25DM3RxSGQ3NWFzbkZYRkVCREhYRzctdDEwSUNPX1pCa0t3WUVzc2JlTUNJYnJ2WDVPM2hYRDJEZ3JVSUk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-29 10:17:47",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Donald Tusk spotka się na granicy z Ursulą von der Leyen. Znamy szczegóły - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZi0tdG5Ec04xNHdsUjFUd21aWUFpUlVZcjN1bFhLLTZnaUpoSkpOME9YS0pHTXQ3MmhvSU5IZVNfay1yVFBIQjVqQU90bE9jeml4LXRYUl91T2l6LVZLN2QzOGxHWVhnX3FGdHFPY0FxclRTUnNHUndOYWlFV2FZcDZMYmo0LUpLVktaMXZjZ1FSMW5jNm0wdHpvNFZUODJma0JraE9hUHFrQQ?oc=5"
+      },
+      {
+        "title": "Niemcy o wecie Nawrockiego ws. Ukraińców. \"Prowadzi wojnę z rządem\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3JibjhUclFUX2M3WktGYzBvTjUzdEQzTVg4TmM3Um1ldi1ETXNrUVNNLVNJV2V0cXdLRURrUE5OSm0yQXkycGZ6RGQ4Z2VPUUlqZjlVeEt0TUJYUWVETHFjZGJ4OUZCWmZvNkExakd6RDIzV3ZjWXNJRGlmZVE3WVh4aUdlWWNEcU5lYlluLVFDLUNuZzF0RUdjQ3BqMXdvUFB6eWZNY1h6aHN0WjhzRVJ2cFItVnlMSUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-31 14:24:44",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.6559,
+      "EUR": 4.2684,
+      "GBP": 4.9269,
+      "CHF": 4.5659,
+      "JPY": 0.024877,
+      "AUD": 2.3893,
+      "CAD": 2.6605,
+      "CNY": 0.5126
+    },
+    "crypto": {
+      "BITCOIN": 395284,
+      "DOGECOIN": 0.79413,
+      "ETHEREUM": 16328.51,
+      "LITECOIN": 405.32,
+      "RIPPLE": 10.27
+    },
+    "indices": {
+      "^WIG20": 2793.76,
+      "^WIG30": 3626.42,
+      "^WIG": 3626.42,
+      "^NCINDEX": 260.63
+    },
+    "news": [
+      {
+        "title": "TVN24 niewpuszczony na uroczystość z udziałem prezydenta Nawrockiego. Stacja wydała oświadczenie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzBlRkRUREJFTm1jODcyemxZQ3FNb05KTm94dXdhQVhoclpOWURIUm5jM3FiR3VwSkdHRmdIejJFZW95dzVjRWZhNWhuV005dFVTbXhraHNnREltcXZleVFMa1hfR1RLcnBWU2VydDkwc2ZsTHNoTG5xbV94bWswXzUxX1J6c1FaQUhLYVRZdk5vOVlmRU5hNEkyVEhrNkxfNy1LWTlSaWZTcFR6dVJ6QVJobS15cjdYWTRVc2xYcw?oc=5"
+      },
+      {
+        "title": "Katastrofa F-16 w Radomiu. Prokuratura zakończyła prace na pasie lotniska. Znaleziono kamerę pilota - Radom.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnE1WTktWWJxQ1pRLVBCTGtpZlZISGh3TXlWQm5LbnFhbVUyWmJMbEdxa1BNUEU4U3E2NVgwTTd4ZldsOGdxR2FsNFhLWTZmWWtGVVlHNmtzbHNJUTRDTDBLT1hFZTRkNzFBeW50NnVHbkFjdWVxRnVvbElOMmJ3c1Y2a1Z1WENPYXYxNDZOOXdzY2UyOGZveDI4ZXIyZnJ6akF4SHNIS3gyNnVtYUlydmZR?oc=5"
+      },
+      {
+        "title": "Ursula von der Leyen ogłasza plan na obronę. Polska dostanie najwięcej - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRElYOWhOazRIT0tCcWdJMjE1N1hmVWxuY1BDeGZDTXNrR3VFRnZYSGpUNkhKOFpHUF9UbzF0S2JoQUFnMHd1WEV6d0JiR202WGZfRHNlTGVZT3lHSUQxbTRrZERTNm5ZZHk5M1lZUElqOHhCRVZvYlk0OFBKVlUydEdLa2pBaThIbzRoLXJfOHA4RzVTTGdRb3FuZlhsX0gyWGRqcEtoU1JJRXNzWm53cWRabHItcHVxdlhNek9VVnY0dw?oc=5"
+      },
+      {
+        "title": "\"Trening komandosa\". Od 1 września lekcje mogą zszokować rodziców - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0dTZmJ2R2R2WDZfX2RtMU50Y1lDUm5LeVBtY3EwMnBSb3hPVkJFcG9hb0J3azlqZklkU3FTdF9PU3FqU1pka0xrX1U2MnMxRW5uM1ZYVS16NkRZSzBKOWg4YVdEUjJKd3FSSTNjaFRaU1U3SFRaS24zekJDNlY4eURwb1ZTa1pQYmV4OXNndDJabmNFZ3Joc20zYmFKRVczUjZ5NV91bGRJNHhhOXIw?oc=5"
       },
       {
         "title": "Niemcy o wecie Nawrockiego ws. Ukraińców. \"Prowadzi wojnę z rządem\" - Money.pl",
