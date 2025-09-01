@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-30 19:10:34",
-    "weather": {
-      "Warsaw": "Warsaw: +28°C",
-      "Kraków": "Krakow: +28°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6559,
-      "EUR": 4.2684,
-      "GBP": 4.9269,
-      "CHF": 4.5659,
-      "JPY": 0.024877,
-      "AUD": 2.3893,
-      "CAD": 2.6605,
-      "CNY": 0.5126
-    },
-    "crypto": {
-      "BITCOIN": 397106,
-      "DOGECOIN": 0.786871,
-      "ETHEREUM": 15931.5,
-      "LITECOIN": 403.16,
-      "RIPPLE": 10.28
-    },
-    "indices": {
-      "^WIG20": 2793.76,
-      "^WIG30": 3626.42,
-      "^WIG": 3626.42,
-      "^NCINDEX": 260.63
-    },
-    "news": [
-      {
-        "title": "Katastrofa F-16. Na miejscu wypadku odnaleziono kamerę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUF1WEVRTVZ5MF9LaUdlRUl5WFdpY0hVbS14TEdJNVpVaXB0dHJrLTV6M2RjZ3ptdHNLNWJ0TFc0V1hYR2ItaVFMSVBReExiaHNYdmg3M3NzVmhfVEtLTG1pRmxabnh6UnNYVzJyOUJxdHdiUWkzZWk2MEJob1BXNUktRTJpOUEzMUFKZ2lxd3l4Z0F5NGdRNS1jZG9MbFBBenNkWnZB?oc=5"
-      },
-      {
-        "title": "Strzały we Lwowie. Nie żyje były przewodniczący parlamentu Ukrainy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZG40V2dydFFaU3V5LVRhaXpJNE1PTXFVclA2VlFZeEN0U19qYjlqem5HSTRYdEFDcHRQTUVkM3BHbVRETE5QSTFhWHBQdndMWV9KclpqRm9lM2NNWWJ0VUcyZXpsdk1MTlJteE9meEt6NXNRVjU0bjdTQUh4LWRBWklpY0I1R05ITzVQc19BUXYtdFJBeE1FSzJUN05vdG5SSXo1Z1dTeDljSEJGS2JheEN4YlVqSUVHVEw5cmlvMnplVlRyc1NN?oc=5"
-      },
-      {
-        "title": "Nawrocki: Polacy nigdy się nie zgodzili, by komunistom oddać naszą wolność - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVlOOVpxWkdMeVIzb05aZjd1WFlKWGlCSTNfT3plbmNPLTRJZ0s3N1JocmlMSV9zYjM1WFhvUjlhbmd2YmR2dWw1dExDSVFrcDFXZHA3clN3RHVfemFmbzQ0bW9KVHNyUzVSd3R4SVZmVjRnVzYwbWQ3QlZuVkhtd012LUlwM1o4Xzd1MzQ4M3E?oc=5"
-      },
-      {
-        "title": "Amerykanie trafią do Ukrainy? Trump sonduje zaskakujący wariant wśród sojuszników z Europy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDlSaTVYX1I0SWZqUDlFQi0zUFY3UWtOZHpvWnFtN3VtMUIzV3ctdVJYVHdYX2tGT1Y4R054dUNyLWJjYzNGREk1MVJacTdGSWR6alYtVmhxcmgtUVZCbmMxb1ZIZzB1Z2ZJTUg4ODNETVhUVHNfZTVkT0QwWjlZNHJpQWFYRWZhbWxzS3hZVFExek14NW9MNGxSQWhUNjVydlpyVTNoQmk3TVctaWc?oc=5"
-      },
-      {
-        "title": "\"Biskupi walnęli tak, że szczęka opada\". Nowy przedmiot w szkole ma szkodzić zbawieniu - lodz.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3Z5b2hfUzBYZHVGM09ySEhBZVFJeko3SWhXRWpEbEN6eDdTbnBzODkxTlgwSHZMUjNRdDdTMnVieHRkLTNVdlh4bzlFMFJ4ZndoQmdIeWkyLU1mVERJSHA2cDNVVlk5YzFEdTVlNUpJZU9FN0xXUUZXeGFxcU01cGU5dWtlSUdKX0FDem5mYk9IWXA3eXp5Z0ZxR2ZKMVVvOXZocmdsVzVDYUZpb1hobEdn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-30 20:16:47",
     "weather": {
       "Warsaw": "Warsaw: +28°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Szczyt w Chinach to przełom? \"Raczej zręczny PR, by zagrać Trumpowi na nosie\" - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTRVZmhnUkgyTzFoZkNYME5rUVJpRXZrOHNkSTRadmhXQjBLUkdyM180OW1FaTQ2WktUUDhleDBGSUs1cU1FZjRRd2hrTHgySHI0M3FCWWhLRG9aUlFmN0trVElURFBtQ0M5ZnZnWVFsQlRKeE5iUUFWNzZmNDJ1UUJvYnlzYjRhcklYWldhQVl3N1JuTFRRYmE3R0FQWTZJbEFMWDRLSmFpbm1SQklQZFV3UktScUViY1c3OVhKSlBDV2lkV2FB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-02 01:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6278,
+      "EUR": 4.2574,
+      "GBP": 4.9108,
+      "CHF": 4.542,
+      "JPY": 0.024681,
+      "AUD": 2.3788,
+      "CAD": 2.6406,
+      "CNY": 0.5086
+    },
+    "crypto": {
+      "BITCOIN": 395297,
+      "DOGECOIN": 0.758535,
+      "ETHEREUM": 15637.07,
+      "LITECOIN": 392.3,
+      "RIPPLE": 10.0
+    },
+    "indices": {
+      "^WIG20": 2770.36,
+      "^WIG30": 3591.21,
+      "^WIG": 3591.21,
+      "^NCINDEX": 262.53
+    },
+    "news": [
+      {
+        "title": "Reparacje od Niemiec? Karol Nawrocki chce odszkodowań, Radosław Sikorski studzi emocje - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemJlTTQxc0pVTUVFY3ltSG1oZ1NaODlVZy0zdkJnR3NVanJ2TWQ2YWJsTDFXYlJrSGVaS0xhTUZaVEdpS0U5YjgyTXFSLUpEZFFlLU81Qk1hWnlQdUNzMkdlT3p4WUtfTHNmV2YtTWxNb1daVklDOE9NU2h4TDVIYXBRUzFpWElXRnYyMjk0MzFISEh6M1ZmMW5OSFhTZkJma3NCM0tNYTNEWS1GeXc?oc=5"
+      },
+      {
+        "title": "Ukraina skomentowała deklarację po szczycie w Chinach. \"Dyplomatyczna klęska Kremla\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWZoZFNXcldCNm94YVJuTUZDRTd2cFFTeWJfTUJyc1V4RDYwYnJXWllfV1AydU51TjlpMG9WRm85M1FPa2kwNmdwd0JEQWN2ZXdrVmNtNFY1ZUh5a1hWUHRCVjcwSWlrSlRYalZyMzRyQlk0TjNOdlVrdzlqVXgzOU5QVVVYMVRNQ2t4X0ZwLXhlRFIzT2lGY25EbHBETW9vYUVRYU5PaXJBWkxqYkl2b3FudXFRQ2cyVVhMM2NfUjZoT3RkYURoRkVXUQ?oc=5"
+      },
+      {
+        "title": "Matka i dwie córki zginęły w szambie. Sąsiedzi nie wierzą w najstraszniejszą wersję tragedii. \"Musiał być nagły wybuch\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFgyY056eG5vS05CeG9KY19BTmk2MmxlQmxpVktYTG5zRVAyUnA3cEVkSVp0V1J0UGZaTXl6Y1dUQkJKTXJwWTNDTkI4X0VOSG95X0wwOUh5Q1pjNGlzNEJ5cGxCMjJUbVd6eUd6YWE0eExPc3NERXVBQ1dFMndUSHp6c1pjTWRmanE1LUxTOEl0U0w0a29hZkNRNVktbVdZUnN6UFc5bzVxWEFERTZCVk5iem51UlZUSWhQQVAtNnJXajQ?oc=5"
+      },
+      {
+        "title": "Gigantyczny pożar w zakładzie odpadów. Dym widoczny z kilkunastu kilometrów - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFREYW5maFB0dW5jY3NmTTBGdmZ5NWpjZ3Z2N1d4WmpwVU50SDFBUHBYcElWMGxIZzBZRzNBcC0wRmhjUDRNaml5T28yb01jTUExRUgtLTVoalNyTGRLWkN1ZTNRYk1feHdDR2RIREMzRGZ4X0JwSmdHbkt5ellLN185RGhsbXI5VTRlQ1BQYUduNE1UX1RiRXBvS2lQZw?oc=5"
+      },
+      {
+        "title": "Lotnisko w Radomiu ruszyło po czwartkowej katastrofie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkh6TVNfOGVqVUVOZHE4aTUtRVFBcjdGbVV0dWlXWWNlT0p1eEFPODk3S0wtZzItblpSVTJiZ0c1SExQdE1idTdiNzl0WlpUczFyaU5ieXYwSUJnd3VVWnFyS1lqV3ZaWDN6Vk4wTDZRZ0d4QzdzVkZvV2NMOFliWWNDY0NYSS1mWk5STzlCSEx0cjQwTzE2R3NIY0RPZ3B2VlJSbVRQWUFGMnp1?oc=5"
       }
     ]
   }
