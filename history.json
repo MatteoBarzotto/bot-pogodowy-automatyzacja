@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-08-31 09:12:14",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6559,
-      "EUR": 4.2684,
-      "GBP": 4.9269,
-      "CHF": 4.5659,
-      "JPY": 0.024877,
-      "AUD": 2.3893,
-      "CAD": 2.6605,
-      "CNY": 0.5126
-    },
-    "crypto": {
-      "BITCOIN": 397021,
-      "DOGECOIN": 0.79533,
-      "ETHEREUM": 16229.67,
-      "LITECOIN": 404.99,
-      "RIPPLE": 10.34
-    },
-    "indices": {
-      "^WIG20": 2793.76,
-      "^WIG30": 3626.42,
-      "^WIG": 3626.42,
-      "^NCINDEX": 260.63
-    },
-    "news": [
-      {
-        "title": "Tragedia na S17. Zginęli w trakcie zmiany koła - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVE51VTM2RmZUT2xHdmRxV1l4MTUzaS1fWjdMeVNCZEpHYWVzcXBYY25ZZDhIQmh2dDR5LWNRZHBtUUxTQ0ZpeEgwMDZDZUc2eFpITXVlQlZQY29kMHZNZ3RKV0VlaXFRa2s5eHNVMlFCNjVUQmhZSTdLY2kxSWhfbENBbk5UTUpsSDlkMzRSa3M?oc=5"
-      },
-      {
-        "title": "Iga Świątek - Jekatierina Aleksandrowa. Kiedy mecz Świątek w US Open? O której godzinie? - www.polsatsport.pl",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGVxUVBsUWZVVTV2VGU0dGx2TmhmekVkaTBaWjVQUllzTnZSQmxkQXVOajdpdDVPLS15RnRlOGFtcnp2VmNMby1KcllkUkRja21lNlcxNXVlMkhOeDhCck5SNFpIMVlQdHE0MDdDaUhlUHpyOXFJaE84RTRrbkFNMVo4VWMxM0ZlSEQ1SGpTRHlPQzRUMzdkckJWT1ltNzFabW5KUXJnMzZmQzkzbGd1SlkteWdybDZFS1Nua3FZUWtvMXlJenI2RnhibFdpSVE?oc=5"
-      },
-      {
-        "title": "\"Sprawdziłbym, który z doradców był takim durniem\". Radosław Sikorski zwrócił się do Karola Nawrockiego - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2EzczdJM0pGUklGSmdCcDQ5eFNUZ1FpRExfN25PSjRtS3d4UGprWXdfbENIaEVFci05WlpqaVJ4d0FTSy1rXzJRdGZhQjZuUk9hMXIwdGRzbjlqOWJMalBIajFHRjBXLUYyVUZJeXNoMjBlUlU2MEQ3YVI1Q1MwbVVwSUd4QXQ4NkpmS0ptQmxVc0l5V0xwUFNsc3RFVHpzci1HMFJTNjBkdm1MYUgzX2dwTQ?oc=5"
-      },
-      {
-        "title": "Nie mam już marzeń. Izrael zabrał wszystko, co kocham - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazVpVUNDeVcxVHZ3OGcyTU9kTl9ybUkzMFlnajJGcDMybUE3TW5ET2Y1WXQ1MUdXbUlkRFA1WU1aQS13Z0cySVRwVXlSaXlBOHRzczUzRzhTaU9NTTJTQUw4SEREU3RVNHRjamw5YWl1d094aHhzZ2FHdWtIWV9RLVJERWNja1hvTHlCNVFhS09TSlota3djenhB?oc=5"
-      },
-      {
-        "title": "\"Tu nie da się żyć\". Wałęsa o Polsce i kosztach życia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjQyTFlGUFZmQkJnZ2VXcFRXQUxwUWtHU1NPNzBmRjZPOEZGemsyMnNZd2VjWEYwQjlZSGJkU01FM0JubEd0Nkt2bXZUSlRNZ3RzcHVlX1VYSnlGZW9VQUZzaDRUY29NN3pmOFR0RlBnZHpUUWM3am5WN04zdnZVVEZseUtyZ0U0OVoyUUJYT2ZLYzk2NHBpWTl5dE5lZzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-08-31 10:15:42",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wszystkie domy Waldemara Żurka. Ujawniamy, co ma, a czego nie ma minister sprawiedliwości - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXJ1ajRrdWl3TlpIRDZ1UUJCSW9SaURFNy1ubXRHOWlma2xVWXRoY0d5SDh6WXF3THEzU3JSRERuOF9vR0puTUZyR0tYeHVfRGpsS0N4TlRXQzJhU3ZVTWZMQ2ZRM01sSXJ1QVdfTFozRGVFSU1nSEZFLWhuOHVfYWhndXRIUXFGMlJXaWUySUx3YVRRcG1KWXpPR19aRkZvT2kta3RucWVpUDRwYldVWHhBazRNYmgxZmNJY0t2U1hfenllMVI5eA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-02 15:25:19",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +27°C",
+      "Gdańsk": "Gdansk: +22°C"
+    },
+    "rates": {
+      "USD": 3.6626,
+      "EUR": 4.2651,
+      "GBP": 4.9129,
+      "CHF": 4.5541,
+      "JPY": 0.024674,
+      "AUD": 2.3857,
+      "CAD": 2.66,
+      "CNY": 0.5124
+    },
+    "crypto": {
+      "BITCOIN": 400446,
+      "DOGECOIN": 0.76408,
+      "ETHEREUM": 15743.21,
+      "LITECOIN": 400.86,
+      "RIPPLE": 10.18
+    },
+    "indices": {
+      "^WIG20": 2746.63,
+      "^WIG30": 3559.17,
+      "^WIG": 3559.17,
+      "^NCINDEX": 262.85
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki leci do USA. Radosław Sikorski zwrócił się do prezydenta - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkYyNEFUN2VQNUlvMTR3RjlUMnczNzVXR3hCU0tWeUVIWVpuRXFqZWUyU1k5YktkcC1mUFZDSUREXzRxYUFtWldjNElPYjBtOUJuM25wcHV1OG85ZmtqVWRJUG5pcWI0QmxiS1RIUFJCZ1ZzZHNwR1JYQ3NaX1pqaHBpY3VpQk5sUEh6bFdTVEFnWnY3ZmVfQmpOTGRTWUVyd0VoZ1VTeHFvOUpkUmRBUVdoSW9ISmpDNzE0NA?oc=5"
+      },
+      {
+        "title": "Po tym pytaniu posłowie zamilkli. Dziennikarka TVP Info wspomniała o owulacji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkNveTA5Slk2N21LdGoxWFUyRjBDOTdTYTRGUEtGOGR0X284SHVCTnpZR3FLYWx1dmJYNUpwa0lObldQbFh1aUZaQ0taYWNScmt5ZDc3VjItWjduLUlBYkxUMTRHaHo1Wmd1MkEwWk1ETGdEc01YNjIyZ3hwekpGVWVHMDJza1RaYWZLUnpmbnVDZE9FbEFCNXl6WWZ3a09XYW5sa19LeDNTTExtVFJrQmt2cXhRMDVqVmpWUGFWQTB1NUVtQ3FDLW16dnU?oc=5"
+      },
+      {
+        "title": "Śmierć majora Krakowiana. Są nowe informacje w sprawie pogrzebu - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEczcUxKcHVkeWhhOXJnVWtRVW9zMm0yLVgwTWpuUC1tckFUWDQ0SmVnTmFST0U1RHJ4bXJiQU8tN1llREM2MUpkRHFfNHNFTVVuU3FaZWplTDF6V3RnVV9VTzBfUFhjc1YxWm1qMzRVckV4a0Rmd1FwTnFKaTFDMmR5Wi1MRDkyaTFQUkM5U3lYbmxqd29VSQ?oc=5"
+      },
+      {
+        "title": "Podejrzany o zabicie Andrija Parubija przyznał się do winy. Przedstawił żądanie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUlhbG1kOEp6UDRHaWFydkJ6a3hpQ1ItUzFFVE5ldkxKX0E5STVGYkxNOENHRDkxd2RMLTAyNU1yYUdVa1RkWjdGQkVnbk9RcGNaVnlUUzQyY0JkWEhtakM5S2JXai1oY3pQWjBta2hkcF83T2k0eHdneldxRWpBRUZPRGg1RDYwYlhHYmk4eU5DdnlzRGNxckNsODRFdkZ1XzNzNFlEUHJjdTJSUE1sMFJPalBtRkYtLTNr?oc=5"
+      },
+      {
+        "title": "Premier Słowacji dziękuje Putinowi. I uderzył w Unię Europejską - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFR2VFdVTGdUaGVpUFM5b2ZLcjAzaFBHOWktdjREeVlWNFZfQzdWaXc4Q0pDMXBoUzFNX0FmTnl5RGp4OGpZTG5zVXRjTFI5YU1DVGg0ZWZhek01eDZxakZrRThMVmViZXB3WFR5bmRGbGtKN3B0aFNZOEFKd0JtV2hFMUNuNVdDWkdXb3VCWVFxZS1wY3ZiY0RSa002dWU4TnV2Q1ZDU0p2OUxWaElnWm5mWEFTdjVL?oc=5"
       }
     ]
   }
