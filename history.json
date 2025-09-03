@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-01 10:20:12",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6559,
-      "EUR": 4.2684,
-      "GBP": 4.9269,
-      "CHF": 4.5659,
-      "JPY": 0.024877,
-      "AUD": 2.3893,
-      "CAD": 2.6605,
-      "CNY": 0.5126
-    },
-    "crypto": {
-      "BITCOIN": 398135,
-      "DOGECOIN": 0.786986,
-      "ETHEREUM": 16252.1,
-      "LITECOIN": 402.13,
-      "RIPPLE": 10.17
-    },
-    "indices": {
-      "^WIG20": 2810.64,
-      "^WIG30": 3646.83,
-      "^WIG": 3646.83,
-      "^NCINDEX": 261.46
-    },
-    "news": [
-      {
-        "title": "Nieoficjalnie: Karol Nawrocki spotkał się z Donaldem Tuskiem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWk5sUFdIOG5SbXBaU21SMjdYM09YVjZ1VkhmNzdqZnFrTHhQV0JDOTNXSDE5c1I2YV81NWluZzBpdURyXzFPcTV5MVFxZHVnVXBucVdRSlJ5WTBfNG9XTkY5NkMyTHhGbkgxdEJia00yMnlVbTVVTE5KQnBFVXJuUmlHdXRIelgyOVp6ejEyUjR4S1B4VHlHcjRmYm5aV0JVcE1ZcEswZDdrMTNHTVMzQUhBbTNHemUySkQxWmxybw?oc=5"
-      },
-      {
-        "title": "Ciała trzech osób znalezione w szambie. Tragedia koło Konina - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWUtVXAzMEl3RDVXRTAyMU55Y0RJY3pHVGFzdVdJazBCNmdhWExGcm5PeTBWWHpHUl85Q25NcWFCb3QtUlg5SFQ5QWhFT043RHYxcVlvRk43VmpORFE5ZUhxeGw2Ympia21oSUNoNkR6WkhVM2NraFU2a3JYMzk3ZEI4TS1oZXlVbTZRYUYyel9oVDkybWZHMHV1MVJtVEpUa21sV2FpekhUQlM5Rnc?oc=5"
-      },
-      {
-        "title": "\"Musimy rozumieć, kto jest wrogiem\". Premier Tusk w rocznicę wybuchu wojny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbFJza21uUlc3UndveVhLR0NJWGJjVE56S0JDQzRoQTNPZUpoMWFKM3VTOFhwQ3U2SVdpSjFTVXFjQ1RTTW1Xb0VZeHJRWUNDclhpcUNyRmFtSlYyeDhJOF9RX3QxR1poenlhYVFFbzNaMHNwVWQ0dlE3X19hV29lYXZFeHdlcG4yRFE?oc=5"
-      },
-      {
-        "title": "Nawet 10 tys. zł. Tyle zarabiają teraz nauczyciele - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTNQcDF0U3JOWVV5bVdDb0hNck5UckNPUzU5cWhyc1ZnQWotQWQwRmZiSWJwZTNiQlFKZV9vWTFVVEdCbmJvOWxIYjFTMl9MblZaOTdkSm1FNkkwMTI2RG5Mdm5EeXRRREgwSlRzN01oNVZlY19VMUYwTmRTa19VQkkyT3F5ck9zdzM5VHVfcGFMM05vLXZjQVZZQ3pwTU5USXpTZGV6VHpudw?oc=5"
-      },
-      {
-        "title": "Rekordowe wydatki na obsługę długu publicznego w budżecie na 2026 rok - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdEZESFBaSnNUM1NzcmlyYm9rOHhMc0NHQVZFNlNwbjE4VDVMRXpGY1gyRXIxUmZfWmhEU0NUZDltRzJTSjZaUUtlS2h3WFlLdVMzNm5PSmwwajZrbUxITzRpVFJONTZDd3hYSlUtSDZSbUFPLUFISEF6UlMxUFFVRm9OY3RkaGlzdkJaLVlHNk9hVXVRcXNDSGlUemdZejhyVmh2Uy1Rbmo3OHpNRWpQV0NMS3NmTDU3OEJwRldYZ3FiZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-01 11:16:59",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Skandal w szkole w Starachowicach. Ministra edukacji reaguje. Mówi o \"promowaniu pijaństwa\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDV5SE91WndWWjA5OWFRV3JDdFpmZ3dRemhqYWcxc0ZsdVBrQ3BYcWhlY0wtX2hCTXBucnlLUU5qZ2hobGJJbEkwOWhWamJadGFvc0ZlVkNKWHdfVk5RUnd6bWF0d2Z3U1duRDhpS2RZcmtrMDdDS00zTlZfUGZpZThNckZYWXhwOExHTmp0aDRMV0p2c3VFdU9KOUR1NFJPSTdfWFFqbjlkdnhOa29wWUlHZFZfeXY3RG0zQTcwT1dteVlfcUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-03 15:22:33",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6538,
+      "EUR": 4.2589,
+      "GBP": 4.8987,
+      "CHF": 4.5436,
+      "JPY": 0.024589,
+      "AUD": 2.3841,
+      "CAD": 2.6475,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 407028,
+      "DOGECOIN": 0.791518,
+      "ETHEREUM": 16024.42,
+      "LITECOIN": 409.42,
+      "RIPPLE": 10.43
+    },
+    "indices": {
+      "^WIG20": 2803.36,
+      "^WIG30": 3625.98,
+      "^WIG": 3625.98,
+      "^NCINDEX": 265.73
+    },
+    "news": [
+      {
+        "title": "Jest decyzja RPP w sprawie stóp procentowych. Co na to kredytobiorcy? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3JtLVpEQjhYRV9CLU5rMERYWDdUUFdTMnY4Y3lxWmthQ01UYl9uZ0xJdm1jVlFyM1RFQzFWN2RuNDdyczliNWxMLWczbUxxSG16em90MXJFVG9Pai1vLW5sVTNhOXJPYXVoZWtRRW1UUjlmamtBRURZbGtkd2pQeDk0RjBZM2Z2SFdEZVFCX1Nob01TOWljRGgwbERkcnM3VldDb2FwQmpwU0pxZFNoZVptZWFQWTlGM1NwMQ?oc=5"
+      },
+      {
+        "title": "Jest ruch prokuratury. Antoni Macierewicz usłyszał zarzuty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVpDX1RGcjNic1pIdWVXX3p3al9KZ2lmYVQ5RmxMVU5wZ2JPZWRzdTc3Ukg2WVNkV2tDWTRYQ0dDWk1lN2wySFBCN3VPZ3V1NGJ3UzdfVEl4RmZYaDBINWtyTE5ma1R2R2pEOVJqV2dFemxkRnZ1bUd3OEVOU2RTS1J6bGMzSWdDV0R4M25uWWFxRTBKTmtCRko5VExkRTBZNXNZZmlBc2JWdk5scTk3eXo4X2htRnhISVgxNw?oc=5"
+      },
+      {
+        "title": "Umowa UE z Mercosurem. Jest decyzja komisarzy. Co ze stanowiskiem Polski? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHV4bTBRTGp5ZVRJZmlNa0xSNGhzN1E2NU5tdWJpSE1YaUEwLTFzT1hJZWs4Sjk5R3YyOTByUEZaVnMxcldqMHJJa2tSb0dQUktCeTB6bHNXbTFQN3pnRkFseFhRLWhHeTFKMWtSVWh4M2gtT1lxMVJickJjWkdxQlRrT0FJWWhrOXJ4VkdBLUNfb3pDTXNoeHlhMHFjVUNLSDU2U2o5Rlp3Sk9WOHJyVm1qbm5qSmdsUnlKeEdEZHc2c0k?oc=5"
+      },
+      {
+        "title": "Z Trumpem powinien rozmawiać Tusk czy Nawrocki? Nowy sondaż nie pozostawia złudzeń - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTlEYUpYNTUyMEJOYWpGdTZaR2VaMDIzczhLZmIxbXktdEp0VmJtSl9BYl82Vm1MbVV1Vm9UQ25DMFVkdFdYZHN6S25PQWRDdHl6RGJUeDhiNjU1aDNDdTFxejhtVnY1LTdRMFJya0pWVGJQTzdsUlR1U2JVWFl4RzlGTHZFSGQwS2F3VDEwUW9DbkhtdU9MT0MycUdXNnEtd1lXRlBvMFo4WkxSajB2OGRJdm1RNnFpRWhneg?oc=5"
+      },
+      {
+        "title": "Wielka kłótnia w Trybunale Stanu, sędzia grzmiał, wyszedł z sali. \"Dość tego\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1IxT2pPdzloMVA4TGNWS0xYUnUtU3UyUGE4N3dCWHM2aE5VU1BuczFMZ3lRTlF0aGU5Qi1PU0xaRFkwTE93MHdoNE5PRWdmR1VuNHJldjVzQmdOVENkSTlQcHFpOEd5dUdWcGYzRUkzeklIcjV6NlFCZ1FiUFE3dnh1RXB2dFdQSnBTQVBxd2RLOTdnOVE3MkFzOTZRSGx1Q3JwdkFpbUd0VjI5dm9Ha1RlSQ?oc=5"
       }
     ]
   }
