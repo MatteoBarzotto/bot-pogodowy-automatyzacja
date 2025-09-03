@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-01 13:12:00",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2574,
-      "GBP": 4.9108,
-      "CHF": 4.542,
-      "JPY": 0.024681,
-      "AUD": 2.3788,
-      "CAD": 2.6406,
-      "CNY": 0.5086
-    },
-    "crypto": {
-      "BITCOIN": 394112,
-      "DOGECOIN": 0.786745,
-      "ETHEREUM": 15998.5,
-      "LITECOIN": 398.73,
-      "RIPPLE": 10.14
-    },
-    "indices": {
-      "^WIG20": 2780.69,
-      "^WIG30": 3607.29,
-      "^WIG": 3607.29,
-      "^NCINDEX": 261.48
-    },
-    "news": [
-      {
-        "title": "Tragedia pod Koninem. Matka i jej dwie córki utopiły się w szambie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclh5S1lELVo0UXRMNVRzTy0zMGZHY00zMUVGZTQ5dmRYbFFGUGRBNWdfUHVVNENpcTB6WTltV0hPbGdHdDJjTFVkTG9UbHBxQ1lKa3BfQ2RvMWdyUEFfMVI5MW1YQWQ3cV9nNkd1X1J1MkRucGw5ZmNqUmlQd2ZwS0pITjRtNDFDMm53VXAweG4wdEdIa3JJMVgxUHFpTEJXNUJtWUN1VEg?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki mówi \"jednoznacznie\" o reparacjach od Niemiec - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1lIY1RHLS1PXzROc0hDRFYwX3ZMYXdSb0FNQmdMa3EwYTItdHNsOGtMbjJXNHczZERsTVRHQ0pfNG9HdjhaMUpIdXI5aXVIYVQta0xaM1ZCaVUtMWIyekcwbm9ZdUpBTlhHekd4ZG96YllDLUxrRzdPWUJROER5d2NuYkd2Q0g4aUJCUFB3RlFhZS1BUkx1U21GT2ktUQ?oc=5"
-      },
-      {
-        "title": "Rosyjski atak zakłócił lot Urszuli von der Leyen. Przewodnicząca KE lądowała bez GPS - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1NBLWZ6MlA2WklwZHlDWWtaMUQzYmdaUDYyRFFDZG5FUUNYZGRDZGJqS2tyVGJqX0VFT1lqaGJSNFJZMVhCaUpVMkZRXzNsZnBBSXJtYS16ek1DcVJJVlFGM1BvakFkc3daZ1BnSHpsRlNKVnU3ZW5tWXp5TVVJTVR3bGdGWHpUdXVEajlKbG5kS1p5VzJBSXlxSmdPR2c4NW5GUTVOaFhMazZvSGtYc3pR?oc=5"
-      },
-      {
-        "title": "Zamach we Lwowie. Wołodymyr Zełenski przekazał informacje o sprawcy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE1aclJWTzJlNDZJTFNzUzVvdXUtSU8yMDF6SE5sSjQzNWtkSW1FdFFOOHJBSDhaSjUwT0ZKcHFkanBtQTI2a3FMeUZVa1gtTVdDa3MzaXB4dWZGcnYxNnB0S3RfLWhpLWVjc2JvTWM2NlkyTnlRVUdpVkNqMGYzcGFFckpVQ1doSEVFc3oxTzZSTEhWaHdZRDJINjFDb1RfYTZLT2xRVWV6V0JQTnp0dTY0SlE?oc=5"
-      },
-      {
-        "title": "Nawet 10 tys. zł. Tyle zarabiają teraz nauczyciele - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTNQcDF0U3JOWVV5bVdDb0hNck5UckNPUzU5cWhyc1ZnQWotQWQwRmZiSWJwZTNiQlFKZV9vWTFVVEdCbmJvOWxIYjFTMl9MblZaOTdkSm1FNkkwMTI2RG5Mdm5EeXRRREgwSlRzN01oNVZlY19VMUYwTmRTa19VQkkyT3F5ck9zdzM5VHVfcGFMM05vLXZjQVZZQ3pwTU5USXpTZGV6VHpudw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-01 14:28:34",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Premier chwali się wzrostem dochodu rozporządzalnego. Ekspert: Polak wciąż może kupić mniej niż Niemiec - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUpxQ2NBNmUxcWE4dHBoVV9nV0Q1allqdTZSVVVsTXl6eXRvaEI0X1RCdXg3Y1ZZZVFpZlkxNzYwamIyQzBaYTJ2YURDSnZnNVBRWnlrUTR0WkxmaHdLMnNtV2tUdDJyd2xZQjNyRld1R0RFRUtXd0JqMGE2ZmJkQy1LalFCQmlzT2U4OTEtQUJ0U0tVdlVWaEhMNGpZUVZYVlExckd4TUgzaDBTOEtaOGxjSEkwYU83dHRpNld5QlBkcE9BR2hsWGN4UFhEVXFqT05oNWNFdnVWSTlqb1ZMbGRfTElkNXFpLVVVeg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-03 18:16:10",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +23°C"
+    },
+    "rates": {
+      "USD": 3.6538,
+      "EUR": 4.2589,
+      "GBP": 4.8987,
+      "CHF": 4.5436,
+      "JPY": 0.024589,
+      "AUD": 2.3841,
+      "CAD": 2.6475,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 408856,
+      "DOGECOIN": 0.797439,
+      "ETHEREUM": 16291.86,
+      "LITECOIN": 412.24,
+      "RIPPLE": 10.46
+    },
+    "indices": {
+      "^WIG20": 2786.15,
+      "^WIG30": 3606.63,
+      "^WIG": 3606.63,
+      "^NCINDEX": 266.02
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki przybył do Białego Domu. Przywitał się z Trumpem [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjBIeExFbWg2Z09Rbm1iNk8zNUI0UWhZaG91TS1RTU5ITWI2TW55U2hKOUd1QkNuUHFuYjVlVEZ6bXJBLS1jeE5LbEt5S1dxMUd5Vm1ZUjJUSWJaSnpNcFp4Q2hRek1sOHhSV2RBeDc2U0ZWTnJjelFlNkt2S005b0t0eGEwMVo5UURZb1o5eV9wNmQzanY4UFlXSW9VT3Z2T1Ewa0FaQW5GaE1YSXluWVM4OVBrbHNvOXc?oc=5"
+      },
+      {
+        "title": "Polska - Włochy. Siatkówka. Ćwierćfinał MŚ. Mecz na żywo, transmisja, wynik - Sport w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS0xMS0JIa0g1QjZ6U0Y0bjNOeUFwU3djcGh1X1FlZmMtd2ZJMEpwQzh5V0RIZ1hzRldwY2FVUjB2SlJQcVNtWE1ZTENoRndDNGFONWowQmNKT1pHRkJnNGxZbDUzSS1jQ0psT1R4SXd5UVFqcnNkLUlROXRIN1ltaXl6eEZqSTg4ZHdBeEE2djVfaEdpbEd5QlJmeFlxMHlEVUNqNHA0Yl9OcTNoNkpRY0N5YWpnRlQydDFMcGwza0RUVUtqY1pFNmUwZkZNVVh6R2s1d21B?oc=5"
+      },
+      {
+        "title": "Awantura i przepychanki na sali Trybunału Stanu. Kim jest Piotr Andrzejewski? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3F1Q1dEbFJLMk1BQWtMR0ZTR3pMajZNQnV0Q2JrY3h6cEREUzB2QzBud0xWX0xmcG9lWGNXdlR5SWNjVmFnNTg3c2hwenZ6dGltVUc2ZWxtMDFHS1BERUktQnI1Y0RqQXZhSFRwYnp1dUMxaWNPTVNRbXktN191WF8zeVA2NFJjRU5zWHlKV0lGODJOVk1PVXF6M3ZpcEJKV3gtM0JLVQ?oc=5"
+      },
+      {
+        "title": "Lekarze półtorej godziny walczyli o życie siostrzyczek z Helenowa. Byli bezsilni - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSjlRSWFMYzBCQzRTWExCaFZ4RTBSQlN4NkxWRkJ4QWdvTERLeWRMV24tMVZHcngtbG85aXlpaEJubjExb0hiOFNHZWM5eEo2RTFsUkhWaGhhNTRyaWkyR0pSa2xLSjQ5dEdGWVpZY1ZEX2oyS1VSYVZnc2RYNVFzR0cwUXpabDRmN1plOVYyVE9NMndidUdydGxjU3NWYmxGZnVaNEV2UHBjMXYyZ1cwWjBhbTJUNUVmWHlqXw?oc=5"
+      },
+      {
+        "title": "Władimir Putin gotowy na spotkanie z Wołodymyrem Zełenskim. Wskazał miejsce - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkJqZzZOQjNDbnd1c0RCM3RiN3luVl9abUZ2em9RUGFTdjVTdm1GbzgteW5LOWlGQTZ6Yk12aVRRTkFhcnlUZExyU21iTGpCc0tfTzlNajlLTWd1ajBpUjRzMVZaLUV5SUwzZjl6MWNuaU11MVJGRVdNeVdSXzN6Tm41MGtXal9ycmNFdFd4bkdWUzlEOFQtQmJvcWszc0NrQUItQktNWTFIM2tyYlMwZ09PZnhRXzJOWkpDRGxCLVVBakxsX0E?oc=5"
       }
     ]
   }
