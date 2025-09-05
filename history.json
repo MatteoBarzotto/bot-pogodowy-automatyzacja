@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-03 07:12:50",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.6626,
-      "EUR": 4.2651,
-      "GBP": 4.9129,
-      "CHF": 4.5541,
-      "JPY": 0.024674,
-      "AUD": 2.3857,
-      "CAD": 2.66,
-      "CNY": 0.5124
-    },
-    "crypto": {
-      "BITCOIN": 406566,
-      "DOGECOIN": 0.787413,
-      "ETHEREUM": 15881.17,
-      "LITECOIN": 408.12,
-      "RIPPLE": 10.39
-    },
-    "indices": {
-      "^WIG20": 2774.05,
-      "^WIG30": 3590.46,
-      "^WIG": 3590.46,
-      "^NCINDEX": 263.63
-    },
-    "news": [
-      {
-        "title": "Polska obrona powietrzna w gotowości. Karol Nawrocki przybył do USA. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHlPbXViVDl3dWhUeGpjeDlkSmprT0RLbnF5Uk0xLS13WXVWU213UDgyQjdXUTFLc01FdWZndVBxS3VSMnpNaVZMRGdVbEdaTXB6OXZ4WS1qRl9RN0stdnJrc201Zm5scURBRkRwZjc4TGxzV1J6VWt0dXFaMzBLMlNtS1Q5YVhDVkJOX2EzcXdXUkVGa3Y2dktiaw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki spotka się z Donaldem Trumpem. W planie \"mała niespodzianka\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdRNXozOGZhOWs5VkN2T2Y1akt6c29WdjJkTzZ2V0FqdmlBbjljeGZoYnV0RHdKUFJIZXZiSlp4M0wwSnl1UENNbUQtTW5uUWt0ZGE0cUxFcEIwVFFlampmaVgxc3lQUG5Qc0RCTElDQlVOM0cwZC0xNThEZmh1UW85czJFc21zM0MtOHlsQ0pzcDJqN0tsQThTRnRPTGc3YzhoS3gtWDE4UVBFUm9xM3VqdUJoaDNWNEVDaXh3?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski spotkał się z Marco Rubio. Wręczył mu symboliczny prezent - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXdhVGhjQ3dpM2RaVlF6dFJVVkFoZ1dGakdoQy1LXzNJcnV5Tk1vWkswVHJFVklfOUJ1WENyZm1VN1JiSXRYWVFjZC1HSHk0U2NSWUJicFY0bzFoR0g0LVNzcWI0WGdTS3o1LVdTdDE3T0p1YkpzMF9pbTRiUG1QZXZLaWYyY2NCSmxKV3FPNHg3VTNEdENIWF9IaTFEQlpIY2lrYWc2dDNQSUE?oc=5"
-      },
-      {
-        "title": "Kłótnia u Olejnik. \"Bezczelne, aroganckie pytanie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmg0a2dfZEtuOUI2NjFFRVhsZGlzaFZTcXRTYmxFdmdOOFo2MUlTOF9pN2EyQ21UaFhLNHFPX2RqMzJnc2w3RmRyRUlOdWxhQ050elBRdHliTGc2QkNUeTFKT2U4QTFzUWVRYmc5ZkV1OWhPQUFmaGtWdzc0M1IzT25pNERJREoxVXVUdW53LW85aDA?oc=5"
-      },
-      {
-        "title": "Trump zabrał głos w sprawie Ukrainy. Mówi o „dużym rozczarowaniu” postawą Putina - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGZBeU5GOU9GbWJVSTZnWE9VSHB4a0ZYNDJSa0FQUjdPalpKaGpEVHhSaFR4c1NQWWt0NnAySFdFY1RVUUp2T3lyRmdtNmJMYWF0RE10OEkxd1FZejk2dGhWYnNWZjlKUFNWLTJ0Mnl3WHhWb3JVLW9xQTV2WmpEUHo1RzZpTHlUdlRPRWx3UEdUdE5wakU3NVQ3NkY2a1FTNlFtOG5sU3hQRVpwc24tS1pwcm1ZY2M0ZWU4eG82czUtSWM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-03 08:19:19",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Prezydent Nawrocki spotkał się z premier Włoch Giorgią Meloni - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0EyVmIzWkRCUkpYbXZKRG9fbzh1eUUwODVQRkZINDlHSkJocFdXZUdtWmpuYUExN3kyclZIZEZGcXMwc2Z5UHpUUkgxTmFXLWpNeFFwMGpfNjdyMFRiNFQ0UDZ2R0ZpZG0xaHNLQlAwX1BhZzE1b1NnRjVTVXdkdzJZWXctVlBUdm1KWDFNRlN1aVJjem93?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-05 11:13:58",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6501,
+      "EUR": 4.2553,
+      "GBP": 4.9112,
+      "CHF": 4.5378,
+      "JPY": 0.024628,
+      "AUD": 2.3827,
+      "CAD": 2.6435,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 409324,
+      "DOGECOIN": 0.7883,
+      "ETHEREUM": 16002.33,
+      "LITECOIN": 411.0,
+      "RIPPLE": 10.33
+    },
+    "indices": {
+      "^WIG20": 2848.32,
+      "^WIG30": 3703.85,
+      "^WIG": 3703.85,
+      "^NCINDEX": 268.19
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki w Watykanie. O czym będzie rozmawiał z papieżem Leonem XIV? - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUEx3WXM5REdQMUg0X2diTEhQSU93bnUtWmRGblhaRm0yODE0eHZfV0ZHUDV3aTBqLTlGVHkzRC1lX1JaN3ZlZXI0TlZSclBoLUhkMTdBdzljU2NGVmdlVVRGN1lFM3ZiTVNab0ZWQkNySmdNbmlIYVl0SEpBLUhMdHNiYXdRN1dtSExwdV9DUlBoVF9fNklnMlFOSXVhVWRjaXh2Ng?oc=5"
+      },
+      {
+        "title": "Donald Tusk ostro o naruszeniu polskiej przestrzeni powietrznej. Zapowiada \"działania kinetyczne\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE91cGZDNFZDdl9RWFE4ZkdJcFhFejB6RHZPRlh6b3phT0NWN2lDZjFVS29DMVQwOWlCSUE3QmtjN0lwRDl3enNFSVRtUGhETzNQQjBqejl4NU51WjlQMjQ0TG9CVHB6TW5jMlVYU2x3dVBnSzBpdk5xOXc1aDFWRWlaZ2FlSGlld3RUT3RBYk1HX2VZb1dIZU50Q1FMT0loYkVkVTRNWjRlYVhGckxGQnpiaDltcUNwX1l4dURfS0ZmZ19KbExESnJIX2ttWnlST1d1R0VILWxHcmtNNVBB?oc=5"
+      },
+      {
+        "title": "Kłęby czarnego dymu nad Gdańskiem. W ogniu dwie kamienice. Przekazano dramatyczną wiadomość - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXJESTkzT0Q1QksxMngzaExVNDhYZW5DM0YzMHg1elY5Umd6Z0NYZjBHdWNLdnM1ZDlNNWpnbWU1dElvNy1fdEt1aFRjMWlSaG1mVUUydERvcFF5TjJVUmhmU0JqSjhheGJGa2N3WWVOX1NQLThJbnlWSlUza0tPZmFvM0YzWXpCemQtQnVDRjhTTEJqSkpqMlh0b2dxVTVHbGpHendRcHJmZHNiWVctM2lVU1NGb2JDTGxrWDF3Q1dJellPMGtqaU4yVmhWQQ?oc=5"
+      },
+      {
+        "title": "Polak zatrzymany na Białorusi. MSZ: Traktujemy to jako prowokację - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWFCYlZqTmJmMVM0dk5sYS1idGkwVEZLTkZrR1haUS1MZHR6eTFuRlQwQ2lVRkZ0WjRac0dPUVpOc2o2Mk0xNW9BYU9NcjJoRTNHVHByaTgtWHkxUGhuZVpQOUxFcFpHYllLMlRUVkhfYU9DSW1GZVd6Z1JNWG5pN2N0cWVJd2REb1ROcHNaVE05QUhMSGZLWlY4UXBJUjZ2Yk8xakRnV214VV9YNkV2LQ?oc=5"
+      },
+      {
+        "title": "Szpiegowali dla Rosji ze szkodą dla Polski. Po wyroku nie chcą wrócić na Ukrainę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzFrUWJ1ODFmWHdFUldOVUdwUjg5SDJwUlNHYnUwckVXbDJjemQ4NXZjcUhVWnVTeUtVZkF6NkNOOThfNnBpVUtVWkRUbDFSbDQ2RVNIT2pWallpRngybnNZV05Sd1h2bUd5X0R3dWN5LVZMZzhTNVJFTEtPU0tZbEoxZ1B4LUE1akk2NlVqOW95MmJoRFNjVnJrcGtRUEtfbVZrYnhQWmJXYVpYdnFGUEFvVzY?oc=5"
       }
     ]
   }
