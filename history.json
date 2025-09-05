@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-03 09:12:58",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6626,
-      "EUR": 4.2651,
-      "GBP": 4.9129,
-      "CHF": 4.5541,
-      "JPY": 0.024674,
-      "AUD": 2.3857,
-      "CAD": 2.66,
-      "CNY": 0.5124
-    },
-    "crypto": {
-      "BITCOIN": 405712,
-      "DOGECOIN": 0.790005,
-      "ETHEREUM": 15758.95,
-      "LITECOIN": 407.37,
-      "RIPPLE": 10.32
-    },
-    "indices": {
-      "^WIG20": 2783.66,
-      "^WIG30": 3603.0,
-      "^WIG": 3603.0,
-      "^NCINDEX": 263.63
-    },
-    "news": [
-      {
-        "title": "Nawrocki w Białym Domu. Co ugra u Trumpa? \"To byłby największy sukces\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWdYWVpqX181QlRZWGRNRHR5Sk1SZ1hSS0JxWE82bXQ1bTNXYVZpME5OSWhNT1IzYnNyVlB1VXZEdDgyRjlqa2F3OGlIX0VRMEZxWkFoZ1NfZVM0a2s0aFpHX1U4ZlhPazhyczRQV0E0N0RPN3VwSldHRG4tSk5XcXR2TjFzTzZHbmRSZUY4YmRBN1BROUJRNTRoR04?oc=5"
-      },
-      {
-        "title": "Nad te regiony dotrą dziś burzowe chmury. Pogoda stanie się niespokojna - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTVhGRGpYZTljNHdKWmlzTGZ4dEFTZjRETjJZVzRKa2dQM1RHaW9mT1otWUVfMG9LWmRhUEd2Tlk2aEx6SEFGYmFXZWhCMjhQd20xTkJGbTVxY1hzZVo2bFVEeG1UdjNEQmY2c1h5Q3JiUVdlT2pTWnpNZVVYLWNPSFF4WmFjTDVrbHNNak80R0pleFZIXzhXcWJacVZUSWsxWTNudkJhcDctczJLYVRaS25vWXVodGJzNE83ZG5hOVpUdndtUEFKdTRnRzE?oc=5"
-      },
-      {
-        "title": "Polska obrona powietrzna w gotowości. Karol Nawrocki przybył do USA. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHlPbXViVDl3dWhUeGpjeDlkSmprT0RLbnF5Uk0xLS13WXVWU213UDgyQjdXUTFLc01FdWZndVBxS3VSMnpNaVZMRGdVbEdaTXB6OXZ4WS1qRl9RN0stdnJrc201Zm5scURBRkRwZjc4TGxzV1J6VWt0dXFaMzBLMlNtS1Q5YVhDVkJOX2EzcXdXUkVGa3Y2dktiaw?oc=5"
-      },
-      {
-        "title": "Marsz dyktatorów. Chiny nie bawią się w półśrodki. Wielkie ambicje Xi Jinpinga - Next Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGNQWHRKODhWVU13Y2NWUlJmQ1B6LTR2TGZYNV9nNVIwM1ZwdTJzR1BmRDVUTXdLOGQxbkxrenkyamlBV3o5ZFo0RjhxMUVDTHVfb2xibjlYdEswQlYtTG5hRFI2dHo0QW1GT0tSbnNIZlNwR0Q3TUkyNzk1V24wV0tGMlcyUllMU25GaDFJaTJxMzF3cjhKcXpvSU9WeVZwM0hlVGNvTmxHZjNMLXdNVHZvcjFEUQ?oc=5"
-      },
-      {
-        "title": "\"Jestem bardzo rozczarowany Putinem\". Trump zapowiada działania - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTRiaEpaLXdjZkU1dFNKWm9iOWhnemRPN1pOb2ZTRVJ4VFB0UTdIMXAxaXVhSWdyWVM4SUZELXJVbWx5UFB6ZEEycEphdGUtUDN4bzg1REtTQzlfeF92M3MyZDJ4dVc4RnlxRlNtOHNEU2R6VE9UUTNCSUtucjNQQW1FamdXMXpSRE9NUzhWSGthR3NKTVdRVkNGSFhZMFUzMkVHVUtydXBnUWhz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-03 10:18:06",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Trzęsienie ziemi w Ministerstwie Zdrowia. Donald Tusk o zmianach - Onet",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjJDVXlpc0xIZ0xTVjdMa084dzNlSUFOWnZUOXlkaFdQWGg1czlEZnpnMFo1UDVpU3E4NHZuVkdWMjZqN2R2YmRvMFU1d0JCcTRDWGFVZklPV1VMTk9aTnl1SjlYSVE3c1RyUGJ1azV1dHp6T1U5VE5BZ1gtVU91UzFkVFNEdE4tVkNLUTU0Rk0wdmJTMlNqSmFUM1UySWlGSlYtVlg4MndfZERHWGFBdEprclJSMVlsWFJmb0VPakNlMWlD?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-05 13:10:59",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6357,
+      "EUR": 4.2476,
+      "GBP": 4.8975,
+      "CHF": 4.5257,
+      "JPY": 0.024538,
+      "AUD": 2.3792,
+      "CAD": 2.6361,
+      "CNY": 0.5093
+    },
+    "crypto": {
+      "BITCOIN": 408501,
+      "DOGECOIN": 0.787731,
+      "ETHEREUM": 16051.26,
+      "LITECOIN": 410.92,
+      "RIPPLE": 10.34
+    },
+    "indices": {
+      "^WIG20": 2837.45,
+      "^WIG30": 3693.27,
+      "^WIG": 3693.27,
+      "^NCINDEX": 270.57
+    },
+    "news": [
+      {
+        "title": "Karol i Marta Nawroccy u papieża Leona XIV. Pierwsza dama w czarnej sukience i mantyli - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOERNRGFQS3A4Zy1qTHQyQ1cyNjdsTFZabVF1SWdrb19wcFlmYmZmTC05dTZ0OEVVek1JQ18xMTJuNjB0ZEN5RjU0OXZ4a0JMZXdfZGI5VlFpS2JxQm9kdU82NnE4eEpnbDByT0VUcTY1Y2VWNWNCSTF5MGx1MXhOdGotajh4YU1JbjJISDNVcFRIMmtZV1R5ZkR2MGlIT3NLV2FMTUFYaDlONEdEUVE4c2t5TDZYRmZKRTI1ZUJRVWlXWEtfUlJCYVVWelBYbE55QUdmcFAtMTQ1SnJfZ2c?oc=5"
+      },
+      {
+        "title": "800 plus dla Ukraińców. Jest ważny ruch rządu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbm9nOWRNTkdoMXc3a0NZS0dIN0xveElUbGdMSHNIekFjbGY5aGgzakN0cnlqRzZpVmhBa0JLZEFDblpjQ01ZVEpQeWxnNk9aMmh5ODlJNWY3YTRrdlBkVlNkTGthZjlsLWdQM0RMLXM3TVZ5QWpRQmVzZ3NYbW5aRWRQTXg3V0dkTjVqMXVWd0t5ZTREM0E?oc=5"
+      },
+      {
+        "title": "Leszek Miller: Spór rządu Donalda Tuska z Karolem Nawrockim skończy się strzelaniną - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaF9FcEdyX3JpX1Vxa1M4Tkp4YS1Wa2ZUYTJWSUJNXzVRX25hTFFQbFo1Qm1mNEVzWllxMzhzNm1FMFk1aDhNbldpa01PODJSQ3dlNDA4TUdaVlE1SmNLOTVpemM1ZTVkbVFLbnhPTTBwT2ZwbkVqOUE3YTBrT1hnd3ViZDBadG9EcUxIbklOWHRsQ1RQeVlsWFhpak1Wa3IzUC0w?oc=5"
+      },
+      {
+        "title": "Padło pytanie: gdzie jest minister zdrowia? Tusk: dałem wolną rękę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkU3WXRNdjdlcVhRUFZSeVdpUV83TldzS2FfYUxuZ1lSOV8xY2FHWE9qcXYtQTQwQVJCdmF4RFA5M2JYYl9qZlRRSWJCemZ3eDVySHJHTlVrQXRCZDZmNHg0c2RlQ082OVdnbW1mNWZLQTRjLUpfLTZ3a3drODY5UjZ6R2VjUHpFU0E3bFV4b3NUd1puU1prZnJEM2NfTFBCSk9iN1NKeGJ0YzExMEVn?oc=5"
+      },
+      {
+        "title": "Pilny projekt rządu po wecie prezydenta. Co będzie z cenami prądu? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORU9JMFJlOEJNMTBiSkJOckE3UEV0cF95LTNNOXpxd1k1eHQ4a1MybFhzSElUYVlocUNjeG1wYkQxVkE4bXhaZkZITHo0WlFCT3VNUzZhUWdpTkxBb2c1a1NiODNPVDZBNFpJOFcteDRDbkxpSnJ3NzRRZ3I5QUY3aGtnS3R3RnJPNGpobmljQURGSEpJSDdfNXFKclZSeUduenU3WVBIMEpaY21JM3pTNWlhMndTdjdUT0s4?oc=5"
       }
     ]
   }
