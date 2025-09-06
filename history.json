@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-04 07:13:00",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6538,
-      "EUR": 4.2589,
-      "GBP": 4.8987,
-      "CHF": 4.5436,
-      "JPY": 0.024589,
-      "AUD": 2.3841,
-      "CAD": 2.6475,
-      "CNY": 0.5113
-    },
-    "crypto": {
-      "BITCOIN": 404419,
-      "DOGECOIN": 0.787427,
-      "ETHEREUM": 15982.8,
-      "LITECOIN": 406.46,
-      "RIPPLE": 10.35
-    },
-    "indices": {
-      "^WIG20": 2786.15,
-      "^WIG30": 3606.63,
-      "^WIG": 3606.63,
-      "^NCINDEX": 266.02
-    },
-    "news": [
-      {
-        "title": "Spotkanie Donalda Trumpa i Karola Nawrockiego. Oto pięć rzeczy, które warto wiedzieć - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUtaS2liOXJoZlh1anZRaHNrSFFKUXNGMFpVUkJGeUc0ekpGd3h1dmdreUh5bFdmempMdlMxSmZpejg2TXh6RkRPMUZvSXhzczdDcnVRT2dCV0Z4czg4a3QyYmpuZGdWVk1kbW1TbVN1UldtZGpPUmhOblBUWVNEZlc2dWlkbGhEcjJGLVhSdVFkTUZ0NHdKUmhTdnE4UGVzd2pEVnBPa3lVck4xQmtQa3lB?oc=5"
-      },
-      {
-        "title": "Anisimova wzięła rewanż na Świątek. 98 minut i koniec! Tenis - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclBLTkJUb1BkQnJVS0otNG5qcDhERFJQWFlNYWhBMWJEZkc3eFVEZ0ZiY1FuNnRDakRxbzBOaUN3MmJkajdUb1VsS3hPLXJ4OW9nTjlrUHhMbDRLXzBYNmpXNDNUZmdZejVRZV9DZTB3dF9STUhEbHNEcjd2SEFOQjc3OUxkMnZGY2Fqa1c2a2lFSFdvb1ZlNTA5SnZQdTBtd0M4?oc=5"
-      },
-      {
-        "title": "Tragedia z stolicy Portugalii. Rozbiła się kolejka linowa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmpQeV9idklnbDk0M0doTTlIdXNZTERqcUl3X1RaZTRhTU1JZFY4VkJOOFNHNFpmMmlwTTdQWU02clMtNmx2WVVubUZlOHdORXl6UjNCRGZEU1h4ZzJmVHB5cVo0THQ3TUdDbU5KS1lHbEl4SkhrTlRrd1BISjVjdzV0VDA4d2N2UXF3TTREbW5aRDZkRVo4?oc=5"
-      },
-      {
-        "title": "Pocztówka do Tuska i \"zatruty pokarm\". Tak wyglądał protest przeciwko edukacji zdrowotnej - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXdFQ3hZZVlLOU5HWEp1RmJBUDhCbjBkZE13WUZyX1NiRldjUmdJYmhBSWRIS3ZCM2xKT241OV9ZczRaMHJiaWJkRm90WlZjVDlFVlhEYlRsd19TXzhwUkF6bnVCR055MDhMZm9LajE0WHp2WFVMdWFjX0FMR2xwWWNlVWs4c2NVbkYwUExOMFAtU0FDdm9GSkRIVjZkX2tROWhoUmVhaTlBX0ZvX0kwWjNkMmVyUkpSVWc?oc=5"
-      },
-      {
-        "title": "Trump pozdrowił \"spiskujących\". Doradca Putina odpowiada - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdm9jajh5VjFobG9pTlpnZnF5elFXRGZDMVE0YWhnMzVTWWhvUnBKc2REaExjUmlYM0ZTdm1kZ0JDQ21JSFVVbjFuRUtEZkpiaS1fSDBLblU2SXZ2QmVvVTdYMlgwNjhpVG5DYjRHaDNERGtuaVd2WnpGX0V3V0pTTUsxNm9zV2s3QTMxck5YQ2NZWWlHSHZKeldfcjZlTHk3XzRzX09lb0tXc0F1?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-04 08:19:57",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2631,6 +2578,59 @@
       {
         "title": "Potężne burze w Polsce. Strugi deszczu i intensywne opady gradu - Onet",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFBLNFZrTVNKNlRYY3hkZEotRHpra1FqOUdFR1ktNzlMcXJUSnRTcEhhZnd1MlF4SElkaGV6WVJzcDBXVVFsdldJblJOQVczUE00Z0JUTVlqQll2OEZIRjZMV3B4WWhaOGJ1VzRTbTZ5Q0lrdEVzcEhXUXdKenZHS243d3FKMmVuYjN2SXFVUzMyQzlFdENCSWZOLVpjcy1Ub1laWmpDZm9ZUWZmUXRVY2lYclRKVWRWSFJVT0M4QnpZOTdzWUU4bm54Zk15TTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-06 11:11:53",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6357,
+      "EUR": 4.2476,
+      "GBP": 4.8975,
+      "CHF": 4.5257,
+      "JPY": 0.024538,
+      "AUD": 2.3792,
+      "CAD": 2.6361,
+      "CNY": 0.5093
+    },
+    "crypto": {
+      "BITCOIN": 401890,
+      "DOGECOIN": 0.778755,
+      "ETHEREUM": 15598.71,
+      "LITECOIN": 404.75,
+      "RIPPLE": 10.19
+    },
+    "indices": {
+      "^WIG20": 2805.02,
+      "^WIG30": 3654.02,
+      "^WIG": 3654.02,
+      "^NCINDEX": 269.4
+    },
+    "news": [
+      {
+        "title": "Polak rozzłościł Trumpa w Białym Domu. Sikorski stanął w jego obronie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVlNTHpsM2IwSGdVVzhFQTVuazd3UFJrQjVrN1VqTFlaVlR4bmcxTUo2Q2E1cC1lN3dDbkM2bTVobDlLNGdOd2hqVGtaYU1nd3Z2eDIzR01oMDdjNHZDMUxUZV9GTndsUl9lcFFmRWNLOGtZenBRQlZiNjhUNkwwTmpYVS1oSGFhbkVrX0pLTlJENkNHa2FCYzBUWWJqTlExc2tMYTJ5dDVrcllTY3VhZjVSYWxDNjdHeVhPVg?oc=5"
+      },
+      {
+        "title": "Katarzyna Stoparczyk do końca pracowała nad książką. W ostatnim zdaniu napisała o śmierci - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXo0NHkxblpIYjN6M0lWZk1XdjBQSnBTUnFXdEJSYlZmRXZtR0VFNXlacHhGQnROcWhMdGcyZTE3RVdhdzNGdVFPR1NBc09MNU5CZjBwekFIaUIzNDRfc3V3endrc2pOaFQtcFpvV0tmNk90akxFTElFZHVSTWNvWU9nTGJDNWRINXI2dEh1ZzEzQ092X2NPcXJEdm15YkZVTlRfaWRfSU1KTnl6QlBsckpISzhYU0FMVTRkVXYxaXJNVnlpZkZHb0pydUowOUJVVWpTRFJKMA?oc=5"
+      },
+      {
+        "title": "Trump zaprosił Polskę na szczyt G20. Teraz zastanawia się nad Rosją. \"Muszę to przemyśleć\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1JXSG1MRVQ1aGJESC10cFVsdkVpMFM1YVdWeTFNa3hiRzhVaHg4aDhJb2s0NGd4ZnlEVlJxNjE0WGVNZU1Mb3ZQMWhtckIxR1FuU1FkWENIYlA4LXp1Z2pyc04xQndaRWlLVHAyVGJjYm55ZTVxQVdfdEhQRWRpdURiWmZRbnRndC1WcU5TTEN4QmNuN0FXbVhnNkxvenF0c09xVHNyVEIwdHVFMDRNaEhpNk1RbE0?oc=5"
+      },
+      {
+        "title": "\"Teraz ja zajmę się aniołkiem\". Sąd orzeknie, czy wypadek na rybach był zabójstwem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajlaZmE4ck9MbFhINjkyNEtlazBwZE1uZ25BZG9HQjB5Q3ROLUlKZDU3TUcwclVXYnRDTElVMkpjSXFzVzJ0MVlOWFJ4VFNYWVdBTHliUXBkMDlZbnBWOHR5ZnNFYm45anN3NG8zYVFsUEtENE9NTldqU2dhX3BZYXp0REZ3d1hMNDdJajdJNGdNMWZ2T2NJSTZjSHNiUXBPQUExSk1Fd0RLQ3k3Vm9jMDh4ZGVPUVF2V3I0djJB?oc=5"
+      },
+      {
+        "title": "Więcej jedynek niż szóstek. Wiemy, jak Polacy oceniają Karola Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFU5dlJNX3hhNU1HZ3NEQVZ4WEFyTUdoWENRcTg5ZFJxcndHVFBTN2J5bG9YUDAzVXNLRm8zaGd2T1J1ZDdjeGxNVVhpWGtWOVN0a01EVTJtelctallXRWNmUVV4TTM2OWRkTXhVX016UFozWDFueHFONEYybm9neGpWSjg2RUl2UHNCT1VmYlk0MmRXU3dyaWRCRmFycVhiV3BEREQ1c0FTMFFBX3Z0VlgtT1hkalNveUdZbQ?oc=5"
       }
     ]
   }
