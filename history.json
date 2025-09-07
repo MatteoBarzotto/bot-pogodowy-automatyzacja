@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2025-09-05 17:13:51",
-    "weather": {
-      "Warsaw": "Warsaw: +30°C",
-      "Kraków": "Krakow: +30°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6357,
-      "EUR": 4.2476,
-      "GBP": 4.8975,
-      "CHF": 4.5257,
-      "JPY": 0.024538,
-      "AUD": 2.3792,
-      "CAD": 2.6361,
-      "CNY": 0.5093
-    },
-    "crypto": {
-      "BITCOIN": 400557,
-      "DOGECOIN": 0.77494,
-      "ETHEREUM": 15515.89,
-      "LITECOIN": 406.45,
-      "RIPPLE": 10.18
-    },
-    "indices": {},
-    "news": [
-      {
-        "title": "Maciej \"Slab\" Krakowian pośmiertnie awansowany - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTFhZi1OeDhVeVp5R1JnR0JwZEttM3hscVVNZ3pKZjcwVmRfZ25rTnF2MHBDVlYxOHNweUNWZ182ODQzY0REUERZdGVFYmlZQUhIY1k3OFNiQ0VUbU8xWDhmQnRXUERqTWdNUmxtckwxaWhSQUQ2VDBSZnFBNy1zTmdMWWRmbjNTWGtPMDVKWENCMHpDX0txWFZWMXVJdExoN0dTRUkydjJYTU0?oc=5"
-      },
-      {
-        "title": "Zatrzymanie obywatela Polski przez KGB. MSZ ostrzega przed prowokacjami Łukaszenki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcldYNEJBdnk5eFdrQVhiZkdRZEZWRThFSEE4X0ltdEpQS3hoTW53ZHU3MzdtcUdMVExhT3gtMVB2aGRkWnhOWXJGRkpia0t0YW94emlvZzZSUmFMaXN1enJRSU1DUXZCcWxOQXJTNkFyTGVDZVRoMmNQQVRDNUxuZnB6Vy1DX0RUNUdoTEVmX0gwaDhLVHVvT2xwRGY0dG5Wc0toSXBjTWpEd2lTdlc3aUFDM0ltS1RBTTJNaVFuMTUxVC1iaFUxTUxMZw?oc=5"
-      },
-      {
-        "title": "Burze z gradem i fala upałów. Ostrzeżenia dla niemal całej Polski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0o1Uy02bkFRaERFSFBjZ003aU16dkZaaF9jTGhGMjE3TDNMZEx1TmtpXzJJODY0M1llTTA3WnRBUUlDRnFyLWNaSi0yZUZ6dTYyTjhhcGI1d1F0ZzRUUHJLVmFSMFFXZ2E4eWQyOFJpc3hvNWxOTG5LeElodzF5b3p1cVhUUjVVZ1M2UnJKNUFDMXJncXp5Y1dFcGJmc09lNk92VGt5X0RLTFpJT2JmNUtkNlIxUGNMY0ZNcA?oc=5"
-      },
-      {
-        "title": "Nawrocki w Watykanie. Skomentował słowa Tuska - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGd1SWpUb0NwS2tTVnpmOUtrdVIyUHEtaTY2R3NTMnRFc1NrOTBKSEdGOG9TY3dpWW5XbVpncDE2SktKQ3loUnJyWlpJUklsRzAxQ1dRcDZONmoxRG1QV0hOOVY2QWwzM3BxSThJQlJ2dUhiUXdrTXFVYkoyVU9JOW1lUEY0b0xtZDFxcGxRNno?oc=5"
-      },
-      {
-        "title": "Donald Trump uderzył w polskiego dziennikarza. Jest reakcja Radosława Sikorskiego [WIDEO] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZzV5blAwcVJDTDBvaFRPOUNKV2VQVUgxU0RBc01wUHhEQU5icjdFTWlPWlY4UnFqLUFQRjJYeDhHV3pjWlJXRmhzcGU2Z2dNbzR5VTdTWG4tWnY2Mnl3b01faEZVRWt6N3UwU1RBa1JxLW5CdUxGWmkyY2YtQlZkcUtFeF9mNENJQ2xGRUktTHVjZm8taS1qVWZMU2FpTDNaQzJVblo3bi1hcW9wRkluUUJEdzhDRGY0cmhhRXZ5Qm1xRmxGWkV2MWszZ0NCa3RrR3Nv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-05 18:16:13",
     "weather": {
       "Warsaw": "Warsaw: +30°C",
@@ -2613,6 +2565,59 @@
       "DOGECOIN": 0.803638,
       "ETHEREUM": 15520.27,
       "LITECOIN": 414.98,
+      "RIPPLE": 10.39
+    },
+    "indices": {
+      "^WIG20": 2805.02,
+      "^WIG30": 3654.02,
+      "^WIG": 3654.02,
+      "^NCINDEX": 269.4
+    },
+    "news": [
+      {
+        "title": "Donald Tusk apeluje do USA i Europy. Rosja musi natychmiast przerwać ataki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0NfV0JsajVQTGZpbDZuZ0xVaUdDVk1MYW9DaHgzdHZpS2hFcnFSUGltazZlZ2FHLWZXWGFyVWdpX1hqNWpVbFBLT3NxNFdEUWxaV01vUDNEdnc3Y3RLVk1UcEVBYmR6MXBYMksxQ2FJdFNfTWhpVnY3bDBoSXBaY0pOeVZQYVBrUkFTM0lYZm9uRXZJLU82X2NkMzg2cXBVOXNHWEVyQ1FEMklKZkVUODM2R1I?oc=5"
+      },
+      {
+        "title": "Frasyniuk o pierwszym miesiącu Nawrockiego. Otoczenie prezydenta nie będzie zadowolone - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFFUZ0pZdzFubHl3Y05mOXJTby1jZ3QtXzJrM1VCeWdveGI2NkpkSng0UUozeGJTamRKNGhxMnU1MElPeTBleXNlODk2WFB0YjhkSWN5dHg3OW1Ha2xuNE4xcVlvZE9mSTV6SzRERXM3Z1FyU3JoeVNVTC01dnVvWjh6UnVqYmxHQU9NaDB3TG9LcE0yb2t3YW1NVUQ1T1paV0E?oc=5"
+      },
+      {
+        "title": "Pięciolatek zginął pod kołami miejskiego autobusu. Policja podała nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkZNbTM2V243cXZ6Q1BrMXkxWHM5VWYyQnM3SnQ3cEJhMlV3SXZHZGRxX2ZLcXZRdDVnVDBidjhUX2YtVEZGSUJLb1I3d2hYbERmNFFyUFF2cVRZa1BOcGpSWDZsbGtpcUVJeHdwZ1lLNVQwNnZKTlFzM2NGREljVUlrY1l2VDBuZW5qWnpCUEdmSEJQdmVyc3lMLVVOcDloUGpVQ3Ffdjhjem9xQVppbzc2SFo1b2xDYjV2aUtRN3VlVzV2S0VN?oc=5"
+      },
+      {
+        "title": "Tragedia pod Wieluniem. Ofiary wypadku to strażacy miejscowej OSP - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHhZbnFZaVlsLXNFcFpZRWJBYUZCTUdRZTlCcWQxQ0hZVGlxaDhUTlU4WU42LWJXYjQwamhtN2VzdlVfRzRXUXBVWHNFV0JjeXFUSjdxbGRhT0RQWW9NcWJLc014OWhLYnlEc01YdDFJSW9Ba21RWjZLNDAyZEJzWk5ZOEtvVXNxakpRY0YzcjIyVWd2ZkIzekd2NklzUE5MUUlEREQ1djdpVzBYWVlwTF9NNFFYRzBIa2ZPZEhJZw?oc=5"
+      },
+      {
+        "title": "Nowe informacje ws. drona pod Tomaszowem Lubelskim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU01NcWVjbEFranFManc3TTNWSjB5cExyLUJJcGJ4dDNMSFJJQUlQVWRYb1ZrSTFJeG1BQS14MGFMZGhpUTlHeWpjOWxrNVg0ZW0wRktoRzFmTjJuMjRyUTlqQzg4M1l5d3VaTjFGckp3aDJRMEMwd04wWUNPbzlaM3VJWWhOeTlrUDExRm43bWcxR3lMakYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-07 21:09:27",
+    "weather": {
+      "Warsaw": "Warsaw: +19°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6357,
+      "EUR": 4.2476,
+      "GBP": 4.8975,
+      "CHF": 4.5257,
+      "JPY": 0.024538,
+      "AUD": 2.3792,
+      "CAD": 2.6361,
+      "CNY": 0.5093
+    },
+    "crypto": {
+      "BITCOIN": 403498,
+      "DOGECOIN": 0.804597,
+      "ETHEREUM": 15551.05,
+      "LITECOIN": 414.83,
       "RIPPLE": 10.39
     },
     "indices": {
