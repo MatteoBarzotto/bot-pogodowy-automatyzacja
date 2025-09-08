@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-06 14:23:06",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6357,
-      "EUR": 4.2476,
-      "GBP": 4.8975,
-      "CHF": 4.5257,
-      "JPY": 0.024538,
-      "AUD": 2.3792,
-      "CAD": 2.6361,
-      "CNY": 0.5093
-    },
-    "crypto": {
-      "BITCOIN": 402071,
-      "DOGECOIN": 0.777278,
-      "ETHEREUM": 15601.42,
-      "LITECOIN": 405.23,
-      "RIPPLE": 10.18
-    },
-    "indices": {
-      "^WIG20": 2805.02,
-      "^WIG30": 3654.02,
-      "^WIG": 3654.02,
-      "^NCINDEX": 269.4
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki odpowiada Radosławowi Sikorskiemu. \"Apeluję o powagę\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekZSVnNhZ2x4SEVqcnU2VFpZQ2Q0bVhIMHZLTF9GYTluVVlEWlJRVUlPV2tLYjlsOGRsbS1melQtcjBvOUVFYnpCU2hrM29lYWJ6T1lSby1uMHlkdmZjV1A4VktGbWI5enprOUlIWkgxN3YtSUx4c0NYZFdaaTNULWVYQml3bzhxRUdHZ00xWDlvTmRmaUlYT0s3QUNNYUxadVJIaXVEMWdhY3N5WE9pYlhDa2k2T1FUSHZhYWZZLW5nM1FFT2dv?oc=5"
-      },
-      {
-        "title": "Wzruszający hołd dla Katarzyny Stoparczyk podczas Kongresu Kobiet. \"Odkrywała ich mądrość\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEZ0LXduZ096cWRycUR4Q0JvcEJ0eVRwTFgzVExaeTc3dzB3WTdMSnpzRnVsTGFwRWJBem00RjhOTTlGOXRmS1M1MEJKNGFUVHlYNkFqbFNRVVU5ZThQN3ZKWVYweGIySG8tVXFRRFZNRHFKdnAwN3Y3dEE1QWVPRXBIZERsZzNkZGRaN0NFaVc2WlAzaURwYnpyUVljbUk2OGs5dFVCT3I2WWtSc0UtMGdCdlBCX19vemdocXdpWTEtS1lPakd1b0N0cTdueXNv?oc=5"
-      },
-      {
-        "title": "Trump zaprosił Polskę na szczyt G20. Teraz zastanawia się nad Rosją. \"Muszę to przemyśleć\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1JXSG1MRVQ1aGJESC10cFVsdkVpMFM1YVdWeTFNa3hiRzhVaHg4aDhJb2s0NGd4ZnlEVlJxNjE0WGVNZU1Mb3ZQMWhtckIxR1FuU1FkWENIYlA4LXp1Z2pyc04xQndaRWlLVHAyVGJjYm55ZTVxQVdfdEhQRWRpdURiWmZRbnRndC1WcU5TTEN4QmNuN0FXbVhnNkxvenF0c09xVHNyVEIwdHVFMDRNaEhpNk1RbE0?oc=5"
-      },
-      {
-        "title": "\"Pancerna pięść Nowogrodzkiej\". Prezes PiS ocenił miesiąc Nawrockiego - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkt0TnNUTlpURWNSTnV0VzBWMzlGZkZwUTdKU1A5VnIyTmVSUDBkTHV3NWdwcklrMHRuYk1SYkpRWGFHaXpiM2ZZNHF6Y2h1U3Z0a0V6dDRfTEdPTDl0RUctWUFFVzNXNXlBaTJLbG9sYTFmdXQzZjYta29uaGhsc1ZKUFdFT1FfekMtZXBaVUk0T1dENGVVODRkS2U4cmpoNjJib2N5ZnFHR2c3bzlKWEEyaw?oc=5"
-      },
-      {
-        "title": "Kierowca celowo potrącił 5 osób. Policja apeluje o pomoc - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRF80eHgweUdpV3NCcjFaQUJRX2tEVDZNWFdMODRjekxyX1RnSDZQZGVNYXY1dmNCbGtfN2t0Nm1qYldMWTBVRFR6RWlnNjFQYzFSalptelF4Y3RaUnNsbUpxR2hodTlOa2pKVnFGVThORHlFT0pVNGljYTlyWVNaUEFxQlE3NjNqUVJHS0lQaEgtVklIdDZ2VDJzZktkbVJWbWJrck1fdG82QdIBrgFBVV95cUxNVU5QOFJzcUJLM1NHY1lybzJzQ2p2TzRKc0dzenVlZFJWei1YakJLd1VVXzBpWm5EdlNjdXFfQjRIX2NLLWhjN2ozaUVSQmt0MkJOd0FHcHo3VkxvNzdFcXlVd3BtMWI3WktPXzlsVWZpdnUtaVg0TkZvZnEwM2dlVlAwU0h6T0ZDZndiRlpUQ3pmcThiZ2lpdGxxWkN5bTgxbEFBOFYta1o2LTFtRVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-06 15:16:23",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Nawrocki próbuje upokorzyć Sikorskiego - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdTVYUXpoOUVRQmxldW5lZEsySzZ1eWRNV3N4ZXpzZlBiTnpGSU5GR1gtQWVoaDdMbG9URF9KckdNTXI1djJITnNRSE9kY083OVZHM042WTBVUVdjdDRuYzFyMWVnTVdnVTdDYUx0RXBJanNZeVotR2dYLXptcUlHMnVwOFRFUF9XSF9mQmp6N0NqTTk4T0luQUR6ZWJkbmlCMVRWTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-08 19:12:05",
+    "weather": {
+      "Warsaw": "Warsaw: +25°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +21°C"
+    },
+    "rates": {
+      "USD": 3.6214,
+      "EUR": 4.2484,
+      "GBP": 4.8936,
+      "CHF": 4.5498,
+      "JPY": 0.024521,
+      "AUD": 2.3845,
+      "CAD": 2.6211,
+      "CNY": 0.5078
+    },
+    "crypto": {
+      "BITCOIN": 406445,
+      "DOGECOIN": 0.857469,
+      "ETHEREUM": 15673.62,
+      "LITECOIN": 407.66,
+      "RIPPLE": 10.73
+    },
+    "indices": {
+      "^WIG20": 2862.51,
+      "^WIG30": 3726.44,
+      "^WIG": 3726.44,
+      "^NCINDEX": 270.53
+    },
+    "news": [
+      {
+        "title": "Dron spadł w okolicach Terespola. Prokuratura podała nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjZad3N6QU4tSml5cWVHdm94dGZ3MFZrQmc5eVdzVktqSDFhUkVkdWpjRjRVa3ZVUldOaWNueFdhRXJudDlTNzNrZVhhQmhlU3VubTItSUplWW0zZmFfc0c4Ym05ZWlWUExhREN2MEhreDVvdlJjcjA3ZERjWjF0eUFkXzN3a3BJNTJCUTNVTlJReWxNWGg4VWtRY3l5bFpNM3lJYXBKaUZ5N003bWJ0M2UtYVdtRjYyOF84MVFvbWJYbVJycmpTbEp3?oc=5"
+      },
+      {
+        "title": "5-latek zginął pod kołami autobusu, niepokojące doniesienia o kierowcy. \"Martwimy się\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0xTUGRkQUlyeUFTdmZzQjZjdVFCZ1FndS13aU1JMUE1R09PdVl4Z0ZfWUxTS01sek5YR2xFbmQyRU5vUjNaZGJxZ3hCZzloLW4teDRPMUFuamxkSHRyR0xiNEd2NWpHRjVQWjJCZ1lkRmcwUm9FMVY4QmlxTW9hR2UtTGxJV0Zxa2tuZ0R2d0VGQVBPdVJaTXpjdGNUektjSF9KNm8wdmJpbjRzZ09OSzl2bjZRMTQ1N25GUnhsYjgtTlZISmF4RlFNM29wZUk?oc=5"
+      },
+      {
+        "title": "Afera GetBack. Minister sprawiedliwości domaga się wyjaśnień - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWU5ODlsWlhzeHFvTHNBcUZWV3ZDblJSSjRFNGttNWRjbm41NG1KckhjbHNWelhHSWk1MnhTNFhWSmhuY1ZjOGIyUDV6MGY1RDhOTXdTZGVodzlyNllnVzR1WUdteFltci1rNjhZZDhCNEwxa3dnM3BTN0xGVkZ5V3FpZzNzYkU0Qk1qNzJpX2dGV1JDa25HMEU3cFRyT3hQdjdqdWdIdlJvLW53NHc?oc=5"
+      },
+      {
+        "title": "Katarzyna Stoparczyk tuż przed śmiercią wysłała SMS. Oto jego treść - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeTJkV01IbWozQ2haTmg0ZEI5Wk9vc1RPOFpLYkt2SWkyMVpZV3hxVXVMemQyU3Q0LTdmMDJkb0N1WXl4RWlELWZPOUlOUUpuLUJJOEVMTWxGMmtULTdMT3hlLS1NT3NFUkVfalVMc2U1RDFvU2VfVmt3MUN1UUlHdlNmdjdMdkpHNjA5akd3RmpFaVI0SG1QdUVhNU1OMF84b1VvTkVGMDk5a2tVYld5YlIzajltV1oxM1E?oc=5"
+      },
+      {
+        "title": "„Piątka z Hajnówki”. Zapadł wyrok w głośnym procesie aktywistów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamNTSk9iSm5vSkV2WnFsdWx0c1g1RXlwdVE3bDMzS1QxNG04bWp4UEVvZm91WE5oS3NPVXg0SXRSaEM3UFJDb3B6cWJVTkQ2UkMtcmpGNlJSM0VuU1pxMW5Tc0xlWUg0cjhwNVNzQlZhZUNMaURka0pUY3lhNGFGM2ZlcDJYeUkzZzU2RU9rX0RZeUVINzhaT0wwTDdfbmhLc0syTA?oc=5"
       }
     ]
   }
