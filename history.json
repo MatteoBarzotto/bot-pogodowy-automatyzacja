@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-06 22:12:42",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6357,
-      "EUR": 4.2476,
-      "GBP": 4.8975,
-      "CHF": 4.5257,
-      "JPY": 0.024538,
-      "AUD": 2.3792,
-      "CAD": 2.6361,
-      "CNY": 0.5093
-    },
-    "crypto": {
-      "BITCOIN": 399189,
-      "DOGECOIN": 0.773681,
-      "ETHEREUM": 15453.5,
-      "LITECOIN": 407.58,
-      "RIPPLE": 10.15
-    },
-    "indices": {
-      "^WIG20": 2805.02,
-      "^WIG30": 3654.02,
-      "^WIG": 3654.02,
-      "^NCINDEX": 269.4
-    },
-    "news": [
-      {
-        "title": "Dron rozbił się na Lubelszczyźnie. Są nowe informacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmdoQUt6NHlLYVZoRlFobVBOYk5NWFFqSm52MEdudjJPQmxDcHZaYnRtT3JRcm93ZXpRN0tDcDdMSHNkcFlZU0d2N043a29LRDdHMDhNSlVVbGNmRjBYWTkyTy02VUV0YmFTVEl6LXdUdUt0WTRfYm1hSUR1a2dTd09OX01IbVJtWUo3cGEyUXlhX09xM3pUQnM2UnpnX21IcXE5ag?oc=5"
-      },
-      {
-        "title": "Eksplozja na poligonie w Warszawie. Rannych dwoje cywilów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0JvQUZZb2lXT0FwaXNjSGxmQkJFR3hUblBBUFlDMzRwV1dnMXgyeHA4dU5wN0RKZ0RIdjcxVWZHLW9LMGcxUndJUmttV2hPa3l0SkJ6RVlqVWpLeWdIZnhyOElnclE3TWZ0YnZZVG40UTVkeTF1UFJCZ2t5RjRGWjVERHBxaGpxYXJScko4emczREhZTmFodm1SX2VhRGhiWk5kSlRBcXFZV2pMb3dwbmJwLXFNa010?oc=5"
-      },
-      {
-        "title": "Bordo i kokarda. Stylizacja Marty Nawrockiej przyciągnęła wszystkie spojrzenia - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXBnSmJzM3VWaDNZNkZjdW9iTUdBdGZnX21tX2lXQ0I2a0RGOXFSX2FNU01ERmQzRkV2UDNiXzRnalJMOGRwdDl0TEtNNFY4aElHYVJRRXVWb01Za0JSaDhWbS11ZHVXTGFCY01mZHJMYjMxUTdObHpoMlZWMGdwOV9mTDZoMUFVa3hzNUU0TlRqQVp3VUNaM0ZHcEM5LWhaV3VLQkxYLUVmYUNoRGhuNUtRWThLYnprZWhxTmJ5OGQwWmJtUFRuQWI4RDk4Zw?oc=5"
-      },
-      {
-        "title": "Jechał na rowerku, potrącił go autobus. Tragiczna śmierć pięcioletniego chłopca - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1I2U19JQ1NhYms1LXdnQ3piT1pMR3JYbl9OZ2xaR29KaHFHMWI3ZGtFdm1VUk9MdWVudzJpY0tDOTZEam1RVGFFb2JVN2dlaUhGSk1Nc3hqV2dYeWFBQ19aTUp3YklhUDZtRnZ5LThTZnFjX3d3UUZ2a3ZTWHZsNkhfMmptZTBGN3NwYW5kTkhpNl9BS3FEUHhjb21oUC1XODdjWG1IZ3VpZ2N5UlZoSTR2eXI?oc=5"
-      },
-      {
-        "title": "Zmarła dziennikarka radiowa i telewizyjna Katarzyna Stoparczyk - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0tjTmQ4cVd5N2pNNEFaMm13UHE3T2JydFZJb3Nva0l0Y0ozVXhqdUpYbDBEY0laUWNWa0dmeFBlVmhFTk85OWo0RTdWZnZuREVpdkJ3N25MVE5odVY3X3ZkcXVYeXRld21VVmhBQVpPSFQ5QkhqaUR1MTlwSFZQU2RRMGFSMk1TdUNxUXNQYUJqRUdrUk5kNlF1RQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-06 23:10:33",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Komisarz ONZ formułuje poważne oskarżenia wobec Izraela. Ale nie mówi o ludobójstwie - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE1RakVxYXFoMGtZeFJkY0xPOXRGWXRjbUNreVhOdkVOX0trbkVCaWRoY09uY19JNGtuMHVmQWs3V2pDdHJLcmZ0am1UYzU3V0VnUXZ3U0hHU3VyNlcxSWtHS0ZmUEZiQmlmQjZJZ1NwS1B1cXZqb1U2aWlPNXZiaHlBWmt3VkJkSHhUWXhENmpKbmljQ0kzMDdFQUdIQWxacTA4VkxvRjIzdUdNX0lzSWJMR1ZXNXA3RjFNRU1BZkJWLWs?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-09 04:57:06",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6214,
+      "EUR": 4.2484,
+      "GBP": 4.8936,
+      "CHF": 4.5498,
+      "JPY": 0.024521,
+      "AUD": 2.3845,
+      "CAD": 2.6211,
+      "CNY": 0.5078
+    },
+    "crypto": {
+      "BITCOIN": 401870,
+      "DOGECOIN": 0.845629,
+      "ETHEREUM": 15472.96,
+      "LITECOIN": 403.82,
+      "RIPPLE": 10.62
+    },
+    "indices": {
+      "^WIG20": 2862.51,
+      "^WIG30": 3726.44,
+      "^WIG": 3726.44,
+      "^NCINDEX": 270.53
+    },
+    "news": [
+      {
+        "title": "Wstrząsające okoliczności śmierci Katarzyny Stoparczyk. Strażak zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3c1Ql8wX2NXYUdDT25RMmk1SU1PTmJaQ0tROFhUVmlfT3FIUXFwRXRfd0Z1UGdIYjZhR20zU1lCOTdqbzhZNldqT0dZalBXMnhsRU5MRVlHUGNzSkhkRkVraEJwUXZoVW1PWU4ySXJROVIzT0I5OHJ3SlpscXU3Z1AtbVI2R3dsUG5PYklxUVhYcHdtRGt4TGhoc3NFaXQybEQ0TXhaRDNjR0hnZFNIczh2bWhWaWNWakFSTnRTdUNzZ2lmWkRKVE9B?oc=5"
+      },
+      {
+        "title": "Piątka z Hajnówki niewinna. Wyrok w sprawie osób pomagających na granicy - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSHREVFpQZkN5UHFlZi1RcnZ4RWd5NVdLTktfU3otb2FWMVVuU1BpTmJQb0pMaXhPZnpWY0MxUHhRRHUyRUt6WEhYVVBCWGhxaTQ4cDZUZWc4RDRFeGRPOW8tcklqRlB5QnBwMQ?oc=5"
+      },
+      {
+        "title": "Potężna burza w Krakowie. Na ulicach armagedon! Woda zalała jezdnie, parking w centrum handlowym. Ogromne problemy w komunikacji - Dziennik Polski",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdHdWaURRLVlyNDdib25nNTZWdTJJUWxyMUZIcGN2S05ZOVduRUNFTTZoSFNjVVJySDRJTnE3bEN0Y25qcnlCdHdkaFpGRkNxWFlFa3pWVlJNMXJ2LWpKWTFqb0dBTGZEbWxWaXZQcW4yX1EyRVJiWmV2eDF6ekRPYWZaQ1M5cWlYa2NRWFZXSklLMFRsSkxwZXdNLUpsUzN5ZWFCT01GSVVZbXBQRVRaYVdJeUpLSDJqYnhITVlJc0FiR2JSV212SGQ0bXFYYjF5OU03aWhXYXBlWUNGQmdGaFlhZnBWTXU0NXhLZm5QSzhZZ3dWZTdhVDVkVDQ3Zw?oc=5"
+      },
+      {
+        "title": "Banaś złożył zawiadomienie ws. GetBacku. Dotyczyć ma m.in. Morawieckiego i Ziobry - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1Zud1Z6eEpHdTJKazhFZEx6TEFLLUxQSDUyb0YxMDNuRGdKemhIZnlRSkJmOXNFZ241c2dsV3lYdnA5akJ2Q0JmaEZTaFVDQmxWUXlQY2NHN05xR1A2UHFmZmtUWVlHWi05M1I2MGc5S1NONHRHQ29CNXhKQzZxU3daalJKZjZ3bWdGeFNOaHN2VnRqTTFOY21hYk1MTkp6SGNIT3BEUjNJZEE2dlpSbUgwYjdDVFVhTkpSUVdGSm9CbF9uNEpuUWpsb1ZsZw?oc=5"
+      },
+      {
+        "title": "Upadł rząd we Francji. Prezydent Macron mianuje nowego premiera w najbliższych dniach - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHExVk42Ym9ySDZvVWpRMmZrQ01sc09GQ09GbnlIYVRtdmtrTkhfTzRaRDlzX3lETTlOUTBqZHhINE5SLXFfQThrUEFsM0doX0xZS2YzcGNsNFYxRC1VRlozQU00Q193bEY1c3pQZkhoU3p1dTZ3T3lTR1FRYVFyZzJBblJEbjBSc2hYZmxzLTBNT1FSZnN2QVQtc2V6YllTU2xiVklLM21zWVduemdIZFlpdw?oc=5"
       }
     ]
   }
