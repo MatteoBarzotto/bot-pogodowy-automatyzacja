@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 18:15:55",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 406247,
-      "DOGECOIN": 0.864401,
-      "ETHEREUM": 15748.63,
-      "LITECOIN": 409.07,
-      "RIPPLE": 10.77
-    },
-    "indices": {
-      "^WIG20": 2862.51,
-      "^WIG30": 3726.44,
-      "^WIG": 3726.44,
-      "^NCINDEX": 270.53
-    },
-    "news": [
-      {
-        "title": "Dron spadł w okolicach Terespola. Prokuratura podała nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjZad3N6QU4tSml5cWVHdm94dGZ3MFZrQmc5eVdzVktqSDFhUkVkdWpjRjRVa3ZVUldOaWNueFdhRXJudDlTNzNrZVhhQmhlU3VubTItSUplWW0zZmFfc0c4Ym05ZWlWUExhREN2MEhreDVvdlJjcjA3ZERjWjF0eUFkXzN3a3BJNTJCUTNVTlJReWxNWGg4VWtRY3l5bFpNM3lJYXBKaUZ5N003bWJ0M2UtYVdtRjYyOF84MVFvbWJYbVJycmpTbEp3?oc=5"
-      },
-      {
-        "title": "Pomagali migrantom na granicy z Białorusią. Sąd zdecydował ws. aktywistów - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczdnTFZ1dlZWcmlrSzVmbFBaR2gtTVRPUTJnaWRjUFFpV0xvUWVuMktmS2prVmdIRFBYOEFPZkRtbElZQ0VEbVdUYW0yVkQyRlBrbDF3ZkJXVlc3Zk5fb3EzQzdJRUMzekhZU0gwVFBEX2J0Y1UzSV9OX05qMzBWNWhxYXdXUTBZNkpBYmFzREVWVFBPSVFzY1ZOMVN1eVRxTkxMZExXOHNfdUhISE8ybGhR?oc=5"
-      },
-      {
-        "title": "Afera GetBack. Minister sprawiedliwości domaga się wyjaśnień - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWU5ODlsWlhzeHFvTHNBcUZWV3ZDblJSSjRFNGttNWRjbm41NG1KckhjbHNWelhHSWk1MnhTNFhWSmhuY1ZjOGIyUDV6MGY1RDhOTXdTZGVodzlyNllnVzR1WUdteFltci1rNjhZZDhCNEwxa3dnM3BTN0xGVkZ5V3FpZzNzYkU0Qk1qNzJpX2dGV1JDa25HMEU3cFRyT3hQdjdqdWdIdlJvLW53NHc?oc=5"
-      },
-      {
-        "title": "Tragedia w Egipcie. Nie żyje 49-Polak. Utonął obok hotelowej plaży - Onet Podróże",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmVRNWRTdUpwbDZodFl4bVF0RmlIc1ZlTGxIMW53WGdVMFpjcWo1YWNjVEdscmloRHpRQ25DVXQ3c2dqU0FsOG55MXdQQUJLS1U4SFhIbHkzcDBjR202dEljbVAwcFh0UE9fbDNPc0VhdGh0XzRJNnRqemZpV3ctM1Q3Wk9KVG4ySGZoZW1paHZ0RWZnQkhtZHp3NFhERzNrZVFoWQ?oc=5"
-      },
-      {
-        "title": "Nawrocki próbuje upokorzyć Sikorskiego - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdTVYUXpoOUVRQmxldW5lZEsySzZ1eWRNV3N4ZXpzZlBiTnpGSU5GR1gtQWVoaDdMbG9URF9KckdNTXI1djJITnNRSE9kY083OVZHM042WTBVUVdjdDRuYzFyMWVnTVdnVTdDYUx0RXBJanNZeVotR2dYLXptcUlHMnVwOFRFUF9XSF9mQmp6N0NqTTk4T0luQUR6ZWJkbmlCMVRWTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-08 19:12:05",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Szeremeta nagle padła na deski, a potem stało się to! Jest medal na MŚ! - Sport.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkx1dC0tSDYwV2c3YmtwQ3BDWTNLaFNicExVZm5BeWxkT3NySHE2SUJMbkdfSkhqMzJ4bVpLb2JkNkprbmQ4NkFTVktOTTF3OEJXOFFXZzM4SlZ5emQwb0ZuMzUtZE1kaUJONS00LWUyc3RGSks5VDhVZzVuNFJzNVVJVG5KUDhlaHZFYTdQMk9TRmJGWGU3Mk0xQVRvNEs4WlU2RHVVeERvZEl4TURR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-10 22:14:14",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 414357,
+      "DOGECOIN": 0.877238,
+      "ETHEREUM": 15789.35,
+      "LITECOIN": 421.09,
+      "RIPPLE": 10.87
+    },
+    "indices": {
+      "^WIG20": 2811.48,
+      "^WIG30": 3660.74,
+      "^WIG": 3660.74,
+      "^NCINDEX": 273.75
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską. Wszystko, co wiemy do tej pory [ARTYKUŁ AKTUALIZOWANY] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckljTkxPRm5Bd0dGT1FqVGxrUzVjTHA1YnVWMkxHYTNDakMzU3A1cjRNU2c3MVNheFFBcUFDMEcwdnozSlRXV0VZYW1NdVRkUXUxOWFBclZ0WkxBcGxDTnQ4ampFbklLNzF4VVpvV0Mzek9Qa0xVQlNkTk5yeHpibm81U1JuQzJmYkVMZVFTazNVa1lFaE9DcjlUbTRKSWVVRXVhUzFjTVc2LWQ3MEpwSUJGY2pxcy1ENkE?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. Prezydencki minister zdradza szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1VCbXRFb3lBeS1CbTk1WW5RYXNDMlBZc192Z3FIN29IWnJ1YzJ0Zzdvb2Fuc1RGR0JrUlI0c3p2US1ET3pRLUktejNrTXZpTndGbEFXS1lwcE1Odlo0d1pCVm55MjcwMFJwcU56TEg1anFVMFc1TUVsZjBIN0hGWlYzWUp1RnFJVFc5ekRjTkxYNjM0WDdzMnQ2TFJjUTVvOTBLY1U3Yl8weTQzYThYVDN2UXNFT2JRQVBrSTFzSlVGTE1xSmZRYUtjQjQ4Vm01Mjh4VW84dDAwNlNORWc?oc=5"
+      },
+      {
+        "title": "Strzały na Uniwersytecie Utah Valley. Charlie Kirk w stanie krytycznym po ataku podczas wystąpienia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0J4UTZLb3N5S0ROVmhRb244clVhMW9sSU5LLW52czJfRHMzUzdMZ0t1YW5USUtRMUIyLVZnbVktQXpuNWpBVWhqVzRiRjFsVHl6aEhPNWQtamw5OUU3YldnbUtrLVNhc3ZBTXlVbzFZM1NJdnpmZVdUNmpHZWJkc0FGemJpclE2THA3Y25uSUZCSEJFb21za25HMzJXeUo2aFpfdjRPcHZMdVQ5UU50aEtnN0JhS1lhY3dUUFZwaVYyVXY5WHM5dw?oc=5"
+      },
+      {
+        "title": "Rząd zamknie \"chińską bramę\" do Europy. Polski gigant mówi o skutkach - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHF2SFBXS2w1b3FzZm1VNWNjX0xxVUVUNEpkTWxxMXpOaUVwYVVjd1NoV21VNkxWUWhBY09vQkZaYTBfNFhKRUpBWnRRTlpxT3dMTzFPVHFvQ3ZvenItNDgweE94NExLQTJVYUVLUl9la25KMUxieFZVUUVQNmptdWl3cWpDQ2YwdUJ1aC1CZVBjYlVmdnU3djNyMWNraFlhNXNDcFVvY0xFU19RWlBSSGFSUkh3ZFBn?oc=5"
+      },
+      {
+        "title": "Ile dronów spadło w Polsce? Jest nowy komunikat resortu. \"Możemy potwierdzić\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjN0T1NGS2ZfRkQxTHQyREZjRWpKSVprNEdkdEdWa0tGc2p1YWxJenctME1LYU9pd1pnRUo0TDk4WHNsS2hxazk1LU40cTNXclVldnRHcXF4b3B2TkV1c1NqVEc0ZUxZNURsMzVHWUJVdkY1YThDQ1ZlLWNvRU93cFBEOTNmYzZDWFhpTklZS3liWUxmOXRNZVk0VDAxQlo1dWxvekNFZ2ladlE?oc=5"
       }
     ]
   }
