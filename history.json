@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 20:19:56",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 406374,
-      "DOGECOIN": 0.862478,
-      "ETHEREUM": 15639.11,
-      "LITECOIN": 407.53,
-      "RIPPLE": 10.75
-    },
-    "indices": {
-      "^WIG20": 2862.51,
-      "^WIG30": 3726.44,
-      "^WIG": 3726.44,
-      "^NCINDEX": 270.53
-    },
-    "news": [
-      {
-        "title": "Michał Bajor grzmi po śmierci Katarzyny Stoparczyk. \"Karać samochodowych morderców\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUldqQldkdW9BWS11ejBId1hvdVdFTG5kZ184TEpyZjNFM0UzMDczVXl5SmoyZThZeUQ0SGpXaWpQVVpCU29ORnpKSXV4UlJCT05NMnpVQ3RsSzUyZVk3NU1YVHZsckVjbHQyZXZzN1ZoN09yNmJTZnRxYzB2RUFILXBOXzM2MGdJbUdPLTJVbjZydU0tWlBYX0JIZWg2TFdWam9sSHF4ejZiYi1vX0xldWJmOWx5RW51T0Z4MXpKelJ3NGd4REhWaHVReHJjME5sZWc?oc=5"
-      },
-      {
-        "title": "Rząd Francji obalony. Premier przegrał głosowanie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnNQMTlTUlA2dXVhVXpiNXczX3d6QWtDZzFjS0hPVzVzVXhUaXBBSjd2TWVKazFuNXVmdlhHZWtNZWcwTmhiNEgwaTgxOFBncXZ3UWduemFLYTJ1SkZ2RVBjc1RESTY2Z0EwUVEyTTZ2VUZwMjR1SnprWi1qNUZabjFja0plSWVTY2JnbWxWbzlRZzdpNlVEZ3hKdDUxcjZ4VHhSTkpB?oc=5"
-      },
-      {
-        "title": "Zabezpieczono szczątki drona, który spadł pod Terespolem - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEM4Rk82NEZ3N0lMRkIzQkoxQU1oNEZKZnZKNURSanF6WmNtYjVpb2tHcDc3TTZ3Umt6TnpkZmF6Y1J6RlpiWjBXSGNfTE8wbDNYMWs3bERYUjBqUWlvN2lNajAxY3h4X3V1X3hrd3ZWRXlabWZsZldfVlp0ZW5uSmlaVWw4WWxNWElYem1jN1hWQXR1S3BlQkFDNnRFR2VWUzZzdjRQSQ?oc=5"
-      },
-      {
-        "title": "Afera GetBack. Minister sprawiedliwości domaga się wyjaśnień - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWU5ODlsWlhzeHFvTHNBcUZWV3ZDblJSSjRFNGttNWRjbm41NG1KckhjbHNWelhHSWk1MnhTNFhWSmhuY1ZjOGIyUDV6MGY1RDhOTXdTZGVodzlyNllnVzR1WUdteFltci1rNjhZZDhCNEwxa3dnM3BTN0xGVkZ5V3FpZzNzYkU0Qk1qNzJpX2dGV1JDa25HMEU3cFRyT3hQdjdqdWdIdlJvLW53NHc?oc=5"
-      },
-      {
-        "title": "„Piątka z Hajnówki”. Zapadł wyrok w głośnym procesie aktywistów - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamNTSk9iSm5vSkV2WnFsdWx0c1g1RXlwdVE3bDMzS1QxNG04bWp4UEVvZm91WE5oS3NPVXg0SXRSaEM3UFJDb3B6cWJVTkQ2UkMtcmpGNlJSM0VuU1pxMW5Tc0xlWUg0cjhwNVNzQlZhZUNMaURka0pUY3lhNGFGM2ZlcDJYeUkzZzU2RU9rX0RZeUVINzhaT0wwTDdfbmhLc0syTA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-08 21:10:53",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nalot na Polskę. W tych miejscowościach zidentyfikowano 16 dronów [PODSUMOWANIE DNIA] - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXd4NGxybkVmcmpFSGRUTmV1SlpsYm5JQUtzNlBid0dPUWZGV3BKUXpIZkdYU3puRWpZX3g4VTJiUWxPdWZ1ZlNtNnh5N2ZjTUVvbTRvZmt5LXpYQTlRa1VOaWYzLWV1TGxZYkg4REJaR1k0TGlSTTEyb1NPenJTVU9pVlh2OWpOUl81dGVmNjNNM01ydXAxclZRemNJSkxRcUxGMXp3blVRYmtrODdMR3lzalM3Zm81RmlDMktmSHRsdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 00:12:30",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 414788,
+      "DOGECOIN": 0.889405,
+      "ETHEREUM": 15843.83,
+      "LITECOIN": 422.98,
+      "RIPPLE": 10.86
+    },
+    "indices": {
+      "^WIG20": 2811.48,
+      "^WIG30": 3660.74,
+      "^WIG": 3660.74,
+      "^NCINDEX": 273.75
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską. Znaleziono kilkanaście obiektów [NA ŻYWO] - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWQ5QnZlX0l6T2ptRUUyWWFFTHdsUktFUjNWb2FUV3dsSjh4bFg2SHJULVB5dUcydjY1R2ZfaVdHcWJLMkNoNTZLSFNFWnVKZDE1T1JXMTlNR1B1LWMtLWJqVW5YZFVfeFk4eHg5V0pFMms3cS1QTE5PVjNrLVR2X0dPcVJMVjVHVlhOUHlLbnhYWlZ0N3JhbW5tUHlIdVYwaFhraUl1ak9qR2R6a3ZNRG9wZw?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. Prezydencki minister zdradza szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnJoN2pqYTF4ZFFsLUttOXNVZUF2OUF5ZFgwQkRycFRXQndwaHB1MEJyNnZtdklwWlU0V0xGdzBfbzRtWEZnSjFfNEd0a21XcVZiZURlWmkxdTd0MTFHaXA3YWpuM18zdWNYdGZYdC1Ca0hOcUdZX2N0R0tHbHNpS21RQnRCNlNobUJvY2JxcC1HVVpZMVp0Ml8wZ2xQdHRRRGtsbHlHal8zdWRWQUxv?oc=5"
+      },
+      {
+        "title": "Trump o postrzeleniu Kirka w Utah. \"Musimy się modlić\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWNrTVZWLUVVR0pZdzl5T1V3a1RCMzRMUENVSEl4aV9SaHFGY3ZTeUFYSFF5ZmJOV1BiUWp4TG10VXF2TWhNNXM5SnUtVWxQOVlpNEEwc3cwUGx5YmhVWVlLTWxNNG54SHRQZ2E5NlNCLXBWSlNVcmkyOWtucDFtMDVDZ2w4QkxZOUtPQzhWeHNYWlR3N1VsdFd3?oc=5"
+      },
+      {
+        "title": "Samochód rodziny Donalda Tuska odnaleziony. Akcja policji zakończona sukcesem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2NhT3BGd3VJb3dyTUlubVMtM2oyN1lsRm1yWmJJSUVpTEZPMU8wcFpfeEI3T2xXRVMzWll0bjFtcGxmR3hrMkVTWVp5RHk1MkdNV2lHRXMydEpodVFzNHNFanAwVS1ReFBkc0REQUxXNHVuUmthM2s4TlNlWnBYTjJUTVp6UW1IVWNKdmVWQ2RMSkwxVlJjZ2NZQ2JDalVwa1VsSER5dHA4UQ?oc=5"
+      },
+      {
+        "title": "40 tys. żołnierzy przy granicy z Polską. Wiceszef MON ostrzega - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjZ5OUtycDlHdERoZGFNb2RnV3VUX0FmOEJ5ZmxUbHJlamJFWF9aZXFsT1lFelRWZHRnd29ON1IydmQ0N3Fwa0JxRW5GNzY2MGFmakxUR1EtSFFobXBoRXIzRFF5Vm9jbDA2bVZLOGxYaTc4c3pQTnlLdVdmTWcyZzQ0bm5rU1pQYkQ2aEZZcV84N2VHTFNuMVppTzJmaVRhbF9DNA?oc=5"
       }
     ]
   }
