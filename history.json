@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 09:14:02",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6357,
-      "EUR": 4.2476,
-      "GBP": 4.8975,
-      "CHF": 4.5257,
-      "JPY": 0.024538,
-      "AUD": 2.3792,
-      "CAD": 2.6361,
-      "CNY": 0.5093
-    },
-    "crypto": {
-      "BITCOIN": 402851,
-      "DOGECOIN": 0.839066,
-      "ETHEREUM": 15568.29,
-      "LITECOIN": 408.15,
-      "RIPPLE": 10.45
-    },
-    "indices": {
-      "^WIG20": 2839.09,
-      "^WIG30": 3697.35,
-      "^WIG": 3697.35,
-      "^NCINDEX": 269.4
-    },
-    "news": [
-      {
-        "title": "Donald Trump o kontakcie z Władimirem Putinem. Zdradził, co planuje zrobić - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkd3aXVRUUhHQUlSdjRVR3FwSkpqME44YzVSXzRPN2I3UGlEdWVkd2ViTUtZQU1MMF9ibGhwQTY4WW5rNEE5aUZQZWNFUEkxQ0JTVHVPMTZKTFNvMUFJUkdjWGVRM2ZWWXZ2SFJYMThmQXdNWGxsR1lWNXhwa0Y5dm9YR3ZMLXdSeFVXV2FlYzA4Ti1pQTZjQm1MRnc0alFwQXlMWjdGZXNrYmlhcC1meXFmaw?oc=5"
-      },
-      {
-        "title": "Cyrylica na dronie. Nowe ustalenia prokuratury - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZm1CWnl5U1FiRFRFTWdvZWhZU3ZvX2taMGlFVnkyNmpWWk1Nc0Q1T1BJRDlaOFQ3SlN1VEFQZlNtU1JCdWdMRVJmcllPQnl2S25vcWFKX3VESGs1ZUNKbmpYTzhkcUtCZlVKVlV3eHRBOXl2bHFFWXdENTRsODB2MGd6M2hfS01uSVROUkI1TnNvUQ?oc=5"
-      },
-      {
-        "title": "Donald Tusk apeluje do USA i Europy. Rosja musi natychmiast przerwać ataki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0NfV0JsajVQTGZpbDZuZ0xVaUdDVk1MYW9DaHgzdHZpS2hFcnFSUGltazZlZ2FHLWZXWGFyVWdpX1hqNWpVbFBLT3NxNFdEUWxaV01vUDNEdnc3Y3RLVk1UcEVBYmR6MXBYMksxQ2FJdFNfTWhpVnY3bDBoSXBaY0pOeVZQYVBrUkFTM0lYZm9uRXZJLU82X2NkMzg2cXBVOXNHWEVyQ1FEMklKZkVUODM2R1I?oc=5"
-      },
-      {
-        "title": "Polska - Finlandia. Jan Urban ogarnął bałagan i wlał wiarę w piłkarzy - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmpOQW5nTVNxM0xYN1ZzdEtNS3ZRNGs0cGgxNFVuTzczV0FqZXJkX3hocFRjRTBWTmJtUkZfZ1J2NFpzSWh2WEpHOWM0eGRZaXdVaEh6VEN0d0NJMmlKYk90ekpWc2pON1h4dWpxMEZRZTVycmpPcEs4U04yTHd5dXo5ZlRSR0F3NTROaXJXSDdMd0lMdk9HQUdTMFB5b0tt?oc=5"
-      },
-      {
-        "title": "\"Powinieneś znaleźć inną pracę\" - usłyszał od Trumpa. Co planuje polski dziennikarz Marek Wałkuski? - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2w0dWowMkV5MHZtSkYxeElKUzlkY1VQVTJVWE1TeDRQb184R1J3LV9qclNldC1ObzZzTWw5UnRlT0VEMlhjVlNiRWNuOHdQZy1YQm56YmlBYlVYVUZrZXBIMm5lYktoZUNtdzQxQW0xbEw0YllsR3RYVWZDQU5OWURWM2JBWnltR1RKRXRiYTFSWmVkUXNjTFRUZnhHaEhnNkNn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-08 10:19:22",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "\"Dla nas to śmierć głodowa\". Echa decyzji Tuska o zamknięciu granicy - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0VteDlHRWc2SVhZWlBUSTlqWExDSGR2YmpNcVNVNmx4N3VxdzNNOGpaVU52YWJCMTVkdDBqeE5zUDNaQ0FKaFpGeWZJT0FTUkZkeXdVaTZ3ZmgtLVNNNDNrWllobFdFbXp4VlFIMl9fZFUycXVXNFZRZUZlUEpBVi02NWlFeE95TGJHd3BhUlNkaUJYMjlhNW01UlhZQ2g1eTJ4QlBfTWxKWkwyYzhiTzYtZ05CX2FtNDJ3Ng?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-10 13:11:05",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 409301,
+      "DOGECOIN": 0.876819,
+      "ETHEREUM": 15784.41,
+      "LITECOIN": 411.32,
+      "RIPPLE": 10.82
+    },
+    "indices": {
+      "^WIG20": 2802.66,
+      "^WIG30": 3649.75,
+      "^WIG": 3649.75,
+      "^NCINDEX": 273.17
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską. MSZ reaguje. Wezwie przedstawiciela Rosji [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGMyeWpfN055QWx0b0ZTSE53NmxVYXlLQ2ZvZ3dfNENFdlZpalNGQ1FDelhDRk5heExLTTZCSDZySTBjTU4tWktQU3k1a1VHX3VZLWpMNzVsc0JmUXphYjdLT0w5NHZrd3k2Q2FYRGc1TWVtU3ZvMlJNekU2eUdPTm1mUXdnSlMyOTNFSWJFMW1QaHdfZmFhRE5qTDhaa2dPRTN2NmVjWDVjYlZ4TlVZZFpGRnJMZjNyYmIwUGNmZW4?oc=5"
+      },
+      {
+        "title": "Polska zamyka granice z Białorusią. Ma to związek z ćwiczeniami Zapad - InfoSecurity24",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPei1icWlKZUlPVkNjNHhCUE5MVlNDeUZhbndtMjFvLTVnaF9ZZVZpNnhJdEgxQWNpSTNLQXpFSWs4V1FEUkR1c2h1RlVMdTFrQW94bnl2ZHdhMUZhSVY0MTg2RTZhQ3VJb0NsN1BnNjFGWElUb01VNGZDR3NPNzdMQ1g5R2ZPaHF5UUZ6U213UDVDd2xMWVlfWUNkdFRvLXJxRkszNGRvN3c5UWZXNG9hNjlBS1Nsd3FOZ1BReA?oc=5"
+      },
+      {
+        "title": "Niebywałe, co zrobił Polak na EuroBaskecie. \"Ale żeby aż tak?\" - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV29JVUNxUEVZR2ZBR3FnTTZNTjNONV85TW1QejJFaG1jTkRRVGlkeTdNWDRLTlIwNlpOSzlyTG55Y0FMY0cwLUNuNnJjYWhJWmxIRFVCQW5lVkhicUM4SmRBZnZEZno5Q0xaNk9pSWt0bjlkUEdRWEMzUUg5RmJoOWNQS1E1aDVyLW42VmdrRXhUbkVoc2IwOVVWU3ljZ2ZicHBqUThBTjVJM1NoXzhHVGxB?oc=5"
+      },
+      {
+        "title": "Kluczowe wieści dla Polaków! Sensacja w meczu rywala. Oto tabela - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmoyV0hPWmd0R3dhRWwtYjJ6QjZLUEo3bFhOdFYtT2VEZTJFVnZkWFl6ZFJMa1VQNy1McUdSQ2FWOXJxTnlleW5xTE1zMGpqZHMyemg0dHNIRFU5RkthWS0tWVRfZ01EQXVuYS1FLUd1T3U1WDZIV0wzOG5JUlE0a1Vpd2tWVjdXbGNkRWMtNTkxSzhQclY2SUthRWxfY2NRV2hid3FlaU9nbnZYSldtZ1NaalR1SWpFcy1JWHkxZll6Y2JnZl9EUVJxbnJMUQ?oc=5"
+      },
+      {
+        "title": "iPhone Air, iPhone 17, AirPods Pro 3 i wszystkie inne nowości Apple - Komputer Świat",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem9menNQNWR4ck1kRGU1N1dVTXBjQzBuNUpXYy1CSXNrcXl1dDA1YWxhQ1dxQndSQzRCczF1Tm5wb3B2TmxUS2t3QUp1Wk53QllaS2E3aDBBbFdwYjlxUmRmMXNTWXhaWmkySzU4REhXa2tMNl95TDBFcnRaZFA0QzlVSktLTEt3RkFfNzFVSFNTSW1aNFdhdzFndTRmcUJMaU94SlJJLWVZQjM3T2YwbFZONVBNTFJrNGxZ?oc=5"
       }
     ]
   }
