@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 16:13:55",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 405476,
-      "DOGECOIN": 0.860803,
-      "ETHEREUM": 15660.99,
-      "LITECOIN": 409.58,
-      "RIPPLE": 10.81
-    },
-    "indices": {
-      "^WIG20": 2854.62,
-      "^WIG30": 3715.93,
-      "^WIG": 3715.93,
-      "^NCINDEX": 271.36
-    },
-    "news": [
-      {
-        "title": "Nowe ustalenia na temat drona, który spadł w okolicach Terespola - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2dGeGpPRllQLVpJSkdfZzVHYnJlN3o4RDJfNzV2R2dvNm5IN3pzT3F4YVFwLXdsZmcyeGlGdTRUMGhqOWxfeFZ4QnNJaExrSEJ3ZTI4dlhqVEZkemNNdVlFSTBKTnl0WC1kVHJEVU81Q0IxRnBTTGhGLTBZaU8yeU42TjZXTXFabDRpRDlaYUtPZU1mSml3eXNWVVdPeUdJckJWS2FB?oc=5"
-      },
-      {
-        "title": "Azyl w Europie. Niemcy nie są już głównym krajem docelowym - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdU9sRlpvOTlqaFZHWVBkeUZkaW1SX0Fial9BTGlhampkSE56UVQxclZKbkxSUktMYzhfM2M1elFoZE5iSkNEQy13cmNzM1NENGlrVzJNY0I2Y3M1a2hKREJuUjdhSDFaN0lmczc1T0hlc1JBZktyV3RGWlgzc1lXLTF5cXdFeFpPaktzVnZSZjY3ODJhcWY0Z1NLb0RJZzdwRjNsSWdqQmxkWXhTQ01kRHp3?oc=5"
-      },
-      {
-        "title": "Pomagali migrantom na granicy z Białorusią. Sąd zdecydował ws. aktywistów - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczdnTFZ1dlZWcmlrSzVmbFBaR2gtTVRPUTJnaWRjUFFpV0xvUWVuMktmS2prVmdIRFBYOEFPZkRtbElZQ0VEbVdUYW0yVkQyRlBrbDF3ZkJXVlc3Zk5fb3EzQzdJRUMzekhZU0gwVFBEX2J0Y1UzSV9OX05qMzBWNWhxYXdXUTBZNkpBYmFzREVWVFBPSVFzY1ZOMVN1eVRxTkxMZExXOHNfdUhISE8ybGhR?oc=5"
-      },
-      {
-        "title": "Pogoda nie odpuści. Burze, grad i silny deszcz w nowych prognozach - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG1JcHlGV25lV3FGTW11WFFZczJTdDdEejNqSDZ3TERvcHJvWWxWaW5jczhBNGtrRGFrdUtyb2tabllRcmZRQlEwTVhiT0ZjZjVmQkc5OWNIX1lvR3YtaHlvcGgzVTBXYlVjWXV3UEVqOHlxOGcySWtGUGpSamlNS3l2LVpqNWtCY1UzcHpnVG8ycl9RTHBHYjBnYURmb21IalNRTkEwaFJ0MGJGRHY3VHFYT1c4UQ?oc=5"
-      },
-      {
-        "title": "Unia pod presją Waszyngtonu. Amerykanie chcą radykalnego odcięcia od Rosji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0R6Nl9LNzJKb0NGU2VfcUI0QWVld0VwUmViaS1QUXJJV21POTZmTEhNVmZEQXQ1akhQVG9VMkZ6a0tkU01xbEFMV2dTWlpKdXZ3SEp3VVk0Z1RhUnloWVRfdHc1OEw4b2JLdG1TUF9PQTlsNkZSMlNLRHlYWmpqNnlmaFcybmdUelNubWd3enNVSlBEbjNrY19CR1I2X3dBQTU3Vm9Bd3J0RnJ0LTktbg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-08 17:13:14",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Eksplozje na przedmieściach Wilna. Wagony wiozły gaz z rafinerii Orlenu - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnhMVDhuY1BkZWdyTzJfTWhRdkozR3M4NDBkMkVhbW5wSzc5Z2xVTGZST3J0aWZGTElpUEd4Q0paTGQ3Mk1tLUFEYXJOS2hab0F6eTlrLU9rajNSdHl2Q1ZGVHRKZ3U2ZlFsZXBSSXNlUVVBV1FaRWt0Y1VTc1hXVXdVLUN4d0Z5TXVPNm9TMEliMndmbEhuazdXSGpYZm5tdXdIRktzV21xeE9QWEZVR1FrNUZ0SzVxdXhnTTllTF9SRDFO?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-10 20:19:14",
+    "weather": {
+      "Warsaw": "Warsaw: +26°C",
+      "Kraków": "Krakow: +25°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 413889,
+      "DOGECOIN": 0.890399,
+      "ETHEREUM": 15862.03,
+      "LITECOIN": 423.32,
+      "RIPPLE": 10.91
+    },
+    "indices": {
+      "^WIG20": 2811.48,
+      "^WIG30": 3660.74,
+      "^WIG": 3660.74,
+      "^NCINDEX": 273.75
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską. Radosław Sikorski grzmi. \"Tak tego nie zostawimy\" [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWljZ0V6S3FQY3YyTkU2VFBqV0pQd2I3VUtWSjlBUE5NbWppZG8wTUJCak5aaTFnLTNLTTBDbFpJOURURE9PUGQ5ZXRUbUhyMXhwUnNRYjlvUm9ITGFORWllVkkza0RPUnc2YVVXeTRVUHItdXZBT01WbnBoZ2xjanEtVTFBSDNMYm4wWjQzVkZTdFpLZ29mQkxjVmVsZVBocGJYMWFCU1pxZmJrcVpUanZhVWRWa2E3dHFYcg?oc=5"
+      },
+      {
+        "title": "Ile dronów spadło w Polsce? Jest nowy komunikat resortu. \"Możemy potwierdzić\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjN0T1NGS2ZfRkQxTHQyREZjRWpKSVprNEdkdEdWa0tGc2p1YWxJenctME1LYU9pd1pnRUo0TDk4WHNsS2hxazk1LU40cTNXclVldnRHcXF4b3B2TkV1c1NqVEc0ZUxZNURsMzVHWUJVdkY1YThDQ1ZlLWNvRU93cFBEOTNmYzZDWFhpTklZS3liWUxmOXRNZVk0VDAxQlo1dWxvekNFZ2ladlE?oc=5"
+      },
+      {
+        "title": "Zamknięcie granicy z Białorusią. Jest rozporządzenie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUNReWxDcktwQ3Q5aFVaYnc3MzROSk9rTTZYNDVLeUhlYUhOdi1CV0EtQjlGNTNSbWZwSkR3RkI5TzhqQlJwRFFyRWV6MU9lbUJZS3ZHRklKdHVhcUlhZTM4YnFVdXhiUkhwZDlHakh0alotYjdlYmRxbExXVWNIbUhLSDRqS3A3ODV3aGZmY1FqVFNkUHVZcm12Q1h1aW5vc2sweUNfR3l4UQ?oc=5"
+      },
+      {
+        "title": "Donald Trump wzywa UE do nałożenia na Chiny i Indie 100 proc. ceł. Presja na Władimira Putina - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0hodjNJWGtoSDZueUNJQy1CZzh0Sy1tLVVwUXNUa090ejB6QnN3RDNBMjlNeE9DT1BqWjFzeFRGNUpEREF0OE1GWHMtb01YSXBCbWlwR1FNTmhtVlVJMEVPTGU3a1lXSVZyTkxNU1Yyd0JQQjlOOVlaSjBmeDhOT1BXUFJ6WWpMOWtLcmtTVXI5ZE83RnJpcHJ3QVl5eVhMbE1yNC0xNHNkRmJITl8tbHd0aw?oc=5"
+      },
+      {
+        "title": "Białoruś modernizuje bazy wojskowe. Może posiadać najnowszą rosyjską broń - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmdDcEtGWTRLSHl6X3o3M2kyWU14XzdsQnNNaUMtOGU2SUVIVnJqTHdBcVEwR2c5b2ltV2NMbkZ6d2prZjdlUDE4SnFZdTZJMUNKS3hTdGdvMEtTY2xkbWp6alNPU3lVbzlaRHRLTVNJYzE4dl9Sdk0zNjRQVXZBOVFYVDhRdjN6SnNYMkliOW5LMVhweFZlWi14SVluRTBNWER5bXhaSTBISEk1MlF0UnFyTDlsV3ZRR0dmblhJMA?oc=5"
       }
     ]
   }
