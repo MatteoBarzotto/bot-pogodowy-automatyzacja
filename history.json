@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 11:14:58",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 408346,
-      "DOGECOIN": 0.870568,
-      "ETHEREUM": 15746.01,
-      "LITECOIN": 413.86,
-      "RIPPLE": 10.9
-    },
-    "indices": {
-      "^WIG20": 2842.17,
-      "^WIG30": 3705.57,
-      "^WIG": 3705.57,
-      "^NCINDEX": 271.96
-    },
-    "news": [
-      {
-        "title": "Po dwóch latach od tragedii na A1 zaczyna się proces Sebastiana M. Najważniejsze fakty - lodz.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmZDY2NHVWM1UGJVWmluWWJ5WGNoa2lhQ0pxMk42amNCckRXN3JrVkZiZnhqVHlJT19kbnI4VU5abVJfaFRraG1VT0NlVXY3MmFXcTNUUTFvYy1hM2dPaHNRT2ZUMjlOZXBLdTQ4aC14WGI4X09IM0VGNmx1aFpVSTFELVBBNC14cmFsZ19WM3lmaVh0c3dacW4zdV9TalRDenBlWWlGQ1IySU5WTi1oRDlaRS0?oc=5"
-      },
-      {
-        "title": "Nowi wiceministrowie zdrowia. Znamy nazwiska - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjF2T0RXTlplMGh2NjZSQVk0TlAyVDgwb3Itb0hoMEFvNlpzdWV4TGpPa1M4M0hXcDFXMWI1OFd6YnB5VnZPeElCbV9Oal96MFlEUkVxZjVfNV9DNkZvMXp3S2E0TXFocERNNTl1bUMxTUl4SExfdGh1azdyc2daalprVkM0MFZJYnE1TmVEZmc0Z1MtS1BSdmJsUmRuamFVTy1seEdPT1BtUQ?oc=5"
-      },
-      {
-        "title": "Burze z gradem i porywisty wiatr. Ostrzeżenia dla kilku województw - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSldFNkdGWDdRbDNBd2VuMjI3REV0Sm00aEstSGZMWm9ORmI1a094Q2Zac2gtOWtFS3R6Y1IxTm9UZnl6SGFhZjhkcTRSTlZHMEZ2Nld5am9wclh5MWMyM3NFR1cweHM1anRIdnBSWVR3WFVyam4tcHhaZkNGZ3dyWmNyMG9weU1MeVZIZWpEUmRwVDUzWnB3SUs3TUxHd1o4azZHQnN2TjdQY2xsQ2ZHaWR3?oc=5"
-      },
-      {
-        "title": "Szef MON o strzelaniu do dronów. \"Trudna decyzja\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdm9WMEYwdmNoNUJ4N1lYVlhOT1V2SFRUdkVURWgxWDNWUTY5bkhtMzhaMTYzYWg0SDNLNnVHeE1mTWUzWWVfTDk0ZzFsbHd6b04xTHgxaFFPM18zb2RZSkxublpNRHpneDNMRVJNc2tzbkRsZlcydzdWc3R5ZXNFaTlVMFFOQTBYcWxBNU5DNA?oc=5"
-      },
-      {
-        "title": "Nauczyciel \"miłości\". Przedmiot miał prowadzić po godzinach, szkoła wiedziała i milczała - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlp6TlRJOTRaQ0k4MGN1M0l0ZmZXa1pXQU9hUFR2S3BwZTROdnAzTEExd0g4RVgyT0V3emZXbHNseTBsbWxnYVNFSG16SDJNQXliS1JHQUFrSVVKa0RSXy1qc1J6NnMxX0Nja0RkUTM3Rm52VFBSc2wtWmtQelFCMTFvR2pRaWlFZTdPNWg5SkREd1l4X0xJeDZ1dUVMUkZjSzJXN04zeUhBR2RFeWY1dW5keWREemNiZ29PdFZpc3V1VkJySHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-09 12:14:40",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Włożył ośmiolatka do wrzącej wody \"za karę\". Teraz grozi mu dożywocie - RMF24",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjd5QnBURnhuT1VCMEEzanJxanRMbnAxWVVjTjRQcWZNS1BaTHJpM0t6Q3ltckxISk1QWFBkZlBpNlZYMVdGenE5VHJ2TEZJNlJVWDFuZmJBX0pxNV9CUnZ3MGFiRkpyUjdCTUZYZTN5Sm5HVW92MkR3ZERoTTB6enEzeGlTZ09yQzF0M1dwdFJ4QXRYUFB0NU5oVW45M2RyYVpWaG03QjRKUFFSYThib1pWTDd5Z9IBugFBVV95cUxNV29nTzhPb1BEY1M4T3pJZHIzVmNUUV8zZXgyOWpVX1hrM3dLWmhzS0U1M2lNTFdnRWtOa1dGY3hrUjFvRko3VENEWDhaY0ZUVEc0eF9UQjYxbEtMeFRnX3Ztc3lKbzZrVEo3QVlGanNWbDFmM1I2SDNQY1JZcHFBUml4Zm1YVU5iclFZRlpVcVhQanFEdWdqWmF0aDJUWVdJNlVxWkRIZ0FZd0NwcXgyWUlyODlOUHRoY3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 15:19:48",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6459,
+      "EUR": 4.2626,
+      "GBP": 4.9276,
+      "CHF": 4.5611,
+      "JPY": 0.024657,
+      "AUD": 2.4093,
+      "CAD": 2.6268,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 412405,
+      "DOGECOIN": 0.895431,
+      "ETHEREUM": 15972.69,
+      "LITECOIN": 421.16,
+      "RIPPLE": 10.85
+    },
+    "indices": {
+      "^WIG20": 2843.61,
+      "^WIG30": 3700.17,
+      "^WIG": 3700.17,
+      "^NCINDEX": 273.52
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony w Polsce. Jest reakcja Chin [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnlYNjI4cUlGWlFvaFFFbzdzSHJ6dl9yb2dOTE9WTmxLS0ZRQnNRQ21zZjJ2b3htMjVFZlpXVzVLQkJRUEM5ZXhmYWd3OWdqNzhoeFhpUEZrRHVzZ3J1T05xRGV6d3JOclhxTlFjSVIxMlA4X2dEd3ZqelpfOTZlWllGWDd2Wi1aMml4TW96V3hSa3I0My1XTUZrazB3ZFE?oc=5"
+      },
+      {
+        "title": "Wielka akcja uwolnienia więźniów z Białorusi. MSZ: wśród nich są Polacy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUW9oMEp0R3kxTkRDcVJCbkN4YkpUYWNGYlo4dmtKR2R5R01rQ0hDN1NDWEg4T1VYR3NoLTUwZ2Z0SUlVLXBJeThYZXZmSzd2NVFtUUtYZkZnbzBfUmhCS3lheU93REx2Y295SlRiRWRvNXRldjVRR1pFbTVmLUJGUFBpZmtCRUtveG9fVUlmMjJkTDY0RWcyWkpabURicHl6SGNQc0tLelpaM0sxQ3RwNWcxb0F3dlJpMG44?oc=5"
+      },
+      {
+        "title": "Jest decyzja. Do 9 grudnia ograniczenie ruchu lotniczego we wschodniej części Polski - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xGVVRnV01kX2RFXzVodE5lbkNIaDZIdXFwb0J4Mkx3SElid3VMS3UzdnVTc1U1a1NUVkhFMDNDXzZLQWpOc0ZiUTBEYXYxYmhIUFlSTEJYTFc1RWtUbnI1RThyOWlTNUl5X0otRjZsX0JzbW9PU2VjQ3ZMaFRBNWRkNTZDc1JiVThmdWR5eTlsODI1R0tRU3BsU2RTQVdWcXRMaHNUSnRfcEJIVWJEcGNvcFdac3d0RGhlQWFHd0VDZ2NFVlB3RnhLajNSSEh2UmgzNA?oc=5"
+      },
+      {
+        "title": "Alarmujące słowa. Zachód ma szanse z Rosją? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUJjOHlRaVhtUVVtNGhEWHgwbC0xLWRhOGs1bWFGT0d1S0hsNGtGMmJxQWRPTjFQMnpWMXp2VXpsRWl0Tm9JWWtzM1FxeU9MREVaNk9Da1M1Q2NrdUNkQ1BqVDRQcjJkNm4zcllsTFN6WldJUHF3SWxMa19Eb05zUTVvaDBvRExHSXNzSg?oc=5"
+      },
+      {
+        "title": "Startują manewry Putina. Stratedzy obawiają się czarnego scenariusza. \"Zapad\" naraża \"piętę achillesową\" NATO [ANALIZA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ21PT1NPX28yN1RkU0JEU09rWlNjbFlILVZ4d09ha2Rhb1FYcHJpLUp6ZWxIN2hod2owODFGbVRZYlhXTmRsYUZSUDlGcm5qTkJYc0EzNEF2UTlGNUstT09NSjdtVmdTNmEyS2xVbHBtb21BOE5veFJETHpGWVRUWnpSUDhtRnJtdkl6Yjk1N3NEVGQ1YzJxQzBtQnZ6Y2M5anhBb0MxeW9pb19rZHRPT1ZYTlZyaDRTYURXN2VB?oc=5"
       }
     ]
   }
