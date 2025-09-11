@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 01:13:05",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 405293,
-      "DOGECOIN": 0.879978,
-      "ETHEREUM": 15589.52,
-      "LITECOIN": 406.31,
-      "RIPPLE": 10.75
-    },
-    "indices": {
-      "^WIG20": 2862.51,
-      "^WIG30": 3726.44,
-      "^WIG": 3726.44,
-      "^NCINDEX": 270.53
-    },
-    "news": [
-      {
-        "title": "Upadł rząd we Francji. Prezydent Macron mianuje nowego premiera w najbliższych dniach - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHExVk42Ym9ySDZvVWpRMmZrQ01sc09GQ09GbnlIYVRtdmtrTkhfTzRaRDlzX3lETTlOUTBqZHhINE5SLXFfQThrUEFsM0doX0xZS2YzcGNsNFYxRC1VRlozQU00Q193bEY1c3pQZkhoU3p1dTZ3T3lTR1FRYVFyZzJBblJEbjBSc2hYZmxzLTBNT1FSZnN2QVQtc2V6YllTU2xiVklLM21zWVduemdIZFlpdw?oc=5"
-      },
-      {
-        "title": "Wstrząsające okoliczności śmierci Katarzyny Stoparczyk. Strażak zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3c1Ql8wX2NXYUdDT25RMmk1SU1PTmJaQ0tROFhUVmlfT3FIUXFwRXRfd0Z1UGdIYjZhR20zU1lCOTdqbzhZNldqT0dZalBXMnhsRU5MRVlHUGNzSkhkRkVraEJwUXZoVW1PWU4ySXJROVIzT0I5OHJ3SlpscXU3Z1AtbVI2R3dsUG5PYklxUVhYcHdtRGt4TGhoc3NFaXQybEQ0TXhaRDNjR0hnZFNIczh2bWhWaWNWakFSTnRTdUNzZ2lmWkRKVE9B?oc=5"
-      },
-      {
-        "title": "Piątka z Hajnówki niewinna. Wyrok w sprawie osób pomagających na granicy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSHREVFpQZkN5UHFlZi1RcnZ4RWd5NVdLTktfU3otb2FWMVVuU1BpTmJQb0pMaXhPZnpWY0MxUHhRRHUyRUt6WEhYVVBCWGhxaTQ4cDZUZWc4RDRFeGRPOW8tcklqRlB5QnBwMQ?oc=5"
-      },
-      {
-        "title": "ONZ oskarża Izrael o \"masowe mordowanie cywilów\". Ambasador odpowiada - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalBiY0t4dTVTb29iN1Ywa0otLTVTUmQtVnBfekhhNllkLXo1bUowaXdQZDVidW5UQXFWVDUxZHpDUGx5bVpzRllkU0JjdXJHejlNSy1SaEp3dVhKMW56S2JwZXBrRVZVT250Sm5Tc2ZoSGppSTB3LVk4NWs4T3BqdzlYME9IV08wRG91VllGb3NOTFBrODZZclBwb2NTMUdIY2Z0MGFIU3Y?oc=5"
-      },
-      {
-        "title": "Banaś złożył zawiadomienie ws. GetBacku. Dotyczyć ma m.in. Morawieckiego i Ziobry - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1Zud1Z6eEpHdTJKazhFZEx6TEFLLUxQSDUyb0YxMDNuRGdKemhIZnlRSkJmOXNFZ241c2dsV3lYdnA5akJ2Q0JmaEZTaFVDQmxWUXlQY2NHN05xR1A2UHFmZmtUWVlHWi05M1I2MGc5S1NONHRHQ29CNXhKQzZxU3daalJKZjZ3bWdGeFNOaHN2VnRqTTFOY21hYk1MTkp6SGNIT3BEUjNJZEE2dlpSbUgwYjdDVFVhTkpSUVdGSm9CbF9uNEpuUWpsb1ZsZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-09 03:03:20",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "USA: Zamach na przyjaciela Donalda Trumpa - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHhESm5pVjU3Vl9ZaEdjUTFGTFZzVW1KVlpsdFVXajFMNzFSODc3TUQ1a2dOMU80NGNwUWprbmZ1LVY2Qkx6MURsV1JnT19SbTRLZUVIRXFEaWpmMmk1UXZpRG82ZXBVd3BrS2VQd2o0aFNoRkJQSnF2WU9fTzhSXzE3RmXSAYIBQVVfeXFMT201Q0IyU1NnTnZEMnpUREo2M09NSVNzWldwLU9GU05Vc1NtOHdreVJ6REUxRVY0RGpjZVNqSWNDMW14bjE2a2Z2ekdNcC16aDAzTF9kZm5NQmk0bWhBWXYwQmJwZFpXT0tNUnRuSGhxMUNHRXlVdWhuRU1FTkdaOGo0QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 06:16:01",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 416298,
+      "DOGECOIN": 0.919669,
+      "ETHEREUM": 16045.86,
+      "LITECOIN": 424.27,
+      "RIPPLE": 10.95
+    },
+    "indices": {
+      "^WIG20": 2811.48,
+      "^WIG30": 3660.74,
+      "^WIG": 3660.74,
+      "^NCINDEX": 273.75
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską. Znaleziono kilkanaście obiektów [NA ŻYWO] - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWQ5QnZlX0l6T2ptRUUyWWFFTHdsUktFUjNWb2FUV3dsSjh4bFg2SHJULVB5dUcydjY1R2ZfaVdHcWJLMkNoNTZLSFNFWnVKZDE1T1JXMTlNR1B1LWMtLWJqVW5YZFVfeFk4eHg5V0pFMms3cS1QTE5PVjNrLVR2X0dPcVJMVjVHVlhOUHlLbnhYWlZ0N3JhbW5tUHlIdVYwaFhraUl1ak9qR2R6a3ZNRG9wZw?oc=5"
+      },
+      {
+        "title": "Charlie Kirk zastrzelony. Binjamin Netanjahu grozi Katarowi. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkhzck1NakdibWFTLUVtU21CT1h2UlZONG5zaldGUDRCYy1lQTd0QVhzMjBmR0ZqWVZTSmJmRjRqMUp1STJ0RGxXbDVYRVdQNTFuVnp5eDI4Z2p1aF95cFEyRzJJSkNNeTVVaUh1bjZHQThJbjRoOTdsQzVkS2dFRnZ6bXBnYzlBdTV1Z3hxSV9fWFlZcDVrbWxaQ09GcExpV2xnS1ZJZFBUeWJBQ1Q3WlljZ3pVMHh6LUVvV3MyTU90ZmhXeDRYRV9qLXNIUmFwSUVQSGdR?oc=5"
+      },
+      {
+        "title": "Decyzja polskich władz wywołała amok wśród Białorusinów. Setki samochodów na granicy. Chcą zdążyć wyjechać z państwa Łukaszenki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPXzMxYW0yM2NBazlGb3E0UkRIektSczJaUFNPVFl2WkVpNG9TcXZ4eVBIVXNUb3V3Y0kzcUU1d3pDVHpBb0xtelBXTGdtQ2ZqMHBZYU1IelJ3WE5teEFhRlZta25tZ21qbU9ndzZ2X3pSa3BlRi1jd0wwbzk1MkxQdkREM2JIWVNwMUtsZ2FFSFY4QnFiTGx0Y0lGejNfQXdYeXJ3aGNQLTJPZ0ZvS0FzdzJNbGdyQk9CZUNzaWVwc09LdTR2N3Q0VkRPeDlGSVVBeEhWY0loTQ?oc=5"
+      },
+      {
+        "title": "Samochód rodziny Donalda Tuska odnaleziony. Akcja policji zakończona sukcesem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0Y0a3kxN1RYSEpQSk5JX1czcHpNYU1vNVlZVEVROWZzc1V4RThjWkRKYWY4Y3U5RU5TRUEtYTdsZXQ0SVRuVjdZM25IWFliTmM5T1Y1MWJjSUxYNXVRdy11YUtSX3Rrcm1GNnd5R0VUZE5hS0ZUUlllZHJORFp2YXhtSEtBc3Jrd0tSQ3F5RjVFbGVxQ0VKMTY1bkozbXNrY2pkNDBvRkttVnpWaXRSb3Y3eURtWFI3Q2V6YWxJblR2Z2FEdElpTA?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. Prezydencki minister zdradza szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1VCbXRFb3lBeS1CbTk1WW5RYXNDMlBZc192Z3FIN29IWnJ1YzJ0Zzdvb2Fuc1RGR0JrUlI0c3p2US1ET3pRLUktejNrTXZpTndGbEFXS1lwcE1Odlo0d1pCVm55MjcwMFJwcU56TEg1anFVMFc1TUVsZjBIN0hGWlYzWUp1RnFJVFc5ekRjTkxYNjM0WDdzMnQ2TFJjUTVvOTBLY1U3Yl8weTQzYThYVDN2UXNFT2JRQVBrSTFzSlVGTE1xSmZRYUtjQjQ4Vm01Mjh4VW84dDAwNlNORWc?oc=5"
       }
     ]
   }
