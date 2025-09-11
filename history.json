@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 08:20:42",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 406391,
-      "DOGECOIN": 0.863037,
-      "ETHEREUM": 15668.95,
-      "LITECOIN": 409.57,
-      "RIPPLE": 10.78
-    },
-    "indices": {
-      "^WIG20": 2862.51,
-      "^WIG30": 3726.44,
-      "^WIG": 3726.44,
-      "^NCINDEX": 270.53
-    },
-    "news": [
-      {
-        "title": "Upadł rząd we Francji. Prezydent Macron mianuje nowego premiera w najbliższych dniach - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHExVk42Ym9ySDZvVWpRMmZrQ01sc09GQ09GbnlIYVRtdmtrTkhfTzRaRDlzX3lETTlOUTBqZHhINE5SLXFfQThrUEFsM0doX0xZS2YzcGNsNFYxRC1VRlozQU00Q193bEY1c3pQZkhoU3p1dTZ3T3lTR1FRYVFyZzJBblJEbjBSc2hYZmxzLTBNT1FSZnN2QVQtc2V6YllTU2xiVklLM21zWVduemdIZFlpdw?oc=5"
-      },
-      {
-        "title": "Piątka z Hajnówki niewinna. Wyrok w sprawie osób pomagających na granicy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSHREVFpQZkN5UHFlZi1RcnZ4RWd5NVdLTktfU3otb2FWMVVuU1BpTmJQb0pMaXhPZnpWY0MxUHhRRHUyRUt6WEhYVVBCWGhxaTQ4cDZUZWc4RDRFeGRPOW8tcklqRlB5QnBwMQ?oc=5"
-      },
-      {
-        "title": "Putin chce zająć przesmyk suwalski? Rzecznik MON: Musimy być przygotowani - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeE9ZbWVaS3hOVzczcGZSZTAtQ3hYY1Fmc3Q2bTkwVi1ubkw4dkJSZmpqUThPVXdoNzFlbzVvcjIxaWFYcXVHNk5ZZ3dPMUdWWTFKZlRFSTFHbWZWSWhCNXg4U0gyZ1pNLXZvRWVZV1pkSjN1QVBXeGQ5cEF1SUUxckU4WG1wV3Q0dlpjSDE2Qk9sT2oxdnZKaXJrR0ZaMExtZlBSZk1fbVlhdllUSlFhNm0tYVJpeW1ZY3NJ?oc=5"
-      },
-      {
-        "title": "Nowy komunikat prokuratury w sprawie afery GetBack. Padły nazwiska - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVhsem9pX3RidGY3RTA5aUIxSUtxTXJaR0VkZ054cURKbGpmMmk1Sl9tT25PZHMyZURnN05aNjVGbDZMMU5ha244b01FbC11LTBWVFpBWkI5amllR1hBUXk4aGg4MGFpRXRkM200Wkd3c2RMTGk4MklPbkdib1NaTi1qNmRYQVRMS043enBzZnNfcEZBbmNwMklLQmpQWmhja2JOR1VJcmNCeTZxaEgwT2lVc3NhWjNESnBOaXA4S2FLVFFkazlv?oc=5"
-      },
-      {
-        "title": "Podwójne życie Damiana D. z Radomia. Kreuje się na biznesmena z sukcesami, oszukał sto osób - Radom.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXp2MFh2REhBeTdGTHNzd3c3WERjTU5VT0gtU3Z1TUp1d1gweUloa01ySmJwMXNPc0kxWjJwZ0hiNndvQ2tfYThuRXZ4dG5WZVlfdERLWC04RWFNeTFVcXBVb05QUzE2UzhiLTc3U2F6VGVnUXl6ajZBY2NPTUplSkZsV1luZEpsSG16ZmkxRkNQaEVjTnlmS1JYQk81QjVxNm00QzFNcUJBcUFRMjNjLWhBMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-09 09:14:09",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Binjamin Netanjahu apeluje do Kataru o wydanie liderów Hamasu. Izrael grozi działaniami - Onet",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEJCT0lOWWJLaXF3Ym15eU56N2NjNExZTXRDN05aaTVqYVhoM05WbENtSW11U2o5NTlaRTlvYW9Pc3c5a0lSWHpSTjYyV0FSYlZOb05CRmtod254Zk9abmdUa2U0dkVEZks4amw3V1Y2NDdJSnVKTl8yMzhVTjFqVG1MWDE5VUMzZ1pPRm1LdzNONTRxdjRLeUdvY0N3cFVYVXYtUXhEelNQaW1aYnBxRVNwYmxFa0NHclE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 12:13:52",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6459,
+      "EUR": 4.2626,
+      "GBP": 4.9276,
+      "CHF": 4.5611,
+      "JPY": 0.024657,
+      "AUD": 2.4093,
+      "CAD": 2.6268,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 416285,
+      "DOGECOIN": 0.914075,
+      "ETHEREUM": 16169.83,
+      "LITECOIN": 427.32,
+      "RIPPLE": 11.06
+    },
+    "indices": {
+      "^WIG20": 2830.75,
+      "^WIG30": 3685.96,
+      "^WIG": 3685.96,
+      "^NCINDEX": 274.84
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony w Polsce. Jest reakcja Chin [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnlYNjI4cUlGWlFvaFFFbzdzSHJ6dl9yb2dOTE9WTmxLS0ZRQnNRQ21zZjJ2b3htMjVFZlpXVzVLQkJRUEM5ZXhmYWd3OWdqNzhoeFhpUEZrRHVzZ3J1T05xRGV6d3JOclhxTlFjSVIxMlA4X2dEd3ZqelpfOTZlWllGWDd2Wi1aMml4TW96V3hSa3I0My1XTUZrazB3ZFE?oc=5"
+      },
+      {
+        "title": "Premier zdradził, kiedy F-35 dotrą do Polski. \"Mam nadzieję, że Amerykanie wywiążą się z terminów\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUZjUzVlQXJvV1IwXzZUNUFaWGVxUzBXNDQ0LWRNdUd6QkJEYnBkbE14dWRENnViTDZwZ2Rrdjh2OHMwX3hVWDBBMG9JbkY5RVZfb1JDOGQ4NUpSTnpTaDJpSENUVHlGVUp6YzhqTmpOMEZtNjh2YlJEVFhOaG9YY1FBYmt4QWcxRm84N1J2NFRpOVdIMEpENnp6TUlwYkVrb01LNjFHQ2t0V01hYzdURjg2aGlZcHBoM09YLWg4Z0hpT0M1VHc?oc=5"
+      },
+      {
+        "title": "Strzelanina na kampusie. Nie żyje Charlie Kirk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2ZGTHBtNng2eUpPVHIySkh6YTF0V1FjcUZrMEgtRkU3dXAtbG5RQl9FS0V1NkVWcnpSZzNlS1NKclZLYnl6X1JybzRRekJIU2twVGY1WFVvYjBVRkNMYnhlckdmUHZIMTZGTk1zWElVbUFIdXF2dnBwR0pyNGJoTFRrVnI1ZXVlU3pvTmNNbDRNdTZHZndRUi1jSjV5Zk1zTzVpWndQUDA?oc=5"
+      },
+      {
+        "title": "Decyzja polskich władz wywołała amok wśród Białorusinów. Setki samochodów na granicy. Chcą zdążyć wyjechać z państwa Łukaszenki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPXzMxYW0yM2NBazlGb3E0UkRIektSczJaUFNPVFl2WkVpNG9TcXZ4eVBIVXNUb3V3Y0kzcUU1d3pDVHpBb0xtelBXTGdtQ2ZqMHBZYU1IelJ3WE5teEFhRlZta25tZ21qbU9ndzZ2X3pSa3BlRi1jd0wwbzk1MkxQdkREM2JIWVNwMUtsZ2FFSFY4QnFiTGx0Y0lGejNfQXdYeXJ3aGNQLTJPZ0ZvS0FzdzJNbGdyQk9CZUNzaWVwc09LdTR2N3Q0VkRPeDlGSVVBeEhWY0loTQ?oc=5"
+      },
+      {
+        "title": "Jest decyzja. Do 9 grudnia ograniczenie ruchu lotniczego we wschodniej części Polski - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xGVVRnV01kX2RFXzVodE5lbkNIaDZIdXFwb0J4Mkx3SElid3VMS3UzdnVTc1U1a1NUVkhFMDNDXzZLQWpOc0ZiUTBEYXYxYmhIUFlSTEJYTFc1RWtUbnI1RThyOWlTNUl5X0otRjZsX0JzbW9PU2VjQ3ZMaFRBNWRkNTZDc1JiVThmdWR5eTlsODI1R0tRU3BsU2RTQVdWcXRMaHNUSnRfcEJIVWJEcGNvcFdac3d0RGhlQWFHd0VDZ2NFVlB3RnhLajNSSEh2UmgzNA?oc=5"
       }
     ]
   }
