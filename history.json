@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 23:12:16",
-    "weather": {
-      "Warsaw": "Warsaw: +25°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 404443,
-      "DOGECOIN": 0.868207,
-      "ETHEREUM": 15530.29,
-      "LITECOIN": 404.96,
-      "RIPPLE": 10.71
-    },
-    "indices": {
-      "^WIG20": 2862.51,
-      "^WIG30": 3726.44,
-      "^WIG": 3726.44,
-      "^NCINDEX": 270.53
-    },
-    "news": [
-      {
-        "title": "Upadł rząd we Francji. Prezydent Macron mianuje nowego premiera w najbliższych dniach - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHExVk42Ym9ySDZvVWpRMmZrQ01sc09GQ09GbnlIYVRtdmtrTkhfTzRaRDlzX3lETTlOUTBqZHhINE5SLXFfQThrUEFsM0doX0xZS2YzcGNsNFYxRC1VRlozQU00Q193bEY1c3pQZkhoU3p1dTZ3T3lTR1FRYVFyZzJBblJEbjBSc2hYZmxzLTBNT1FSZnN2QVQtc2V6YllTU2xiVklLM21zWVduemdIZFlpdw?oc=5"
-      },
-      {
-        "title": "Wstrząsające okoliczności śmierci Katarzyny Stoparczyk. Strażak zabrał głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3c1Ql8wX2NXYUdDT25RMmk1SU1PTmJaQ0tROFhUVmlfT3FIUXFwRXRfd0Z1UGdIYjZhR20zU1lCOTdqbzhZNldqT0dZalBXMnhsRU5MRVlHUGNzSkhkRkVraEJwUXZoVW1PWU4ySXJROVIzT0I5OHJ3SlpscXU3Z1AtbVI2R3dsUG5PYklxUVhYcHdtRGt4TGhoc3NFaXQybEQ0TXhaRDNjR0hnZFNIczh2bWhWaWNWakFSTnRTdUNzZ2lmWkRKVE9B?oc=5"
-      },
-      {
-        "title": "Piątka z Hajnówki niewinna. Wyrok w sprawie osób pomagających na granicy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSHREVFpQZkN5UHFlZi1RcnZ4RWd5NVdLTktfU3otb2FWMVVuU1BpTmJQb0pMaXhPZnpWY0MxUHhRRHUyRUt6WEhYVVBCWGhxaTQ4cDZUZWc4RDRFeGRPOW8tcklqRlB5QnBwMQ?oc=5"
-      },
-      {
-        "title": "Dron spadł przy granicy. Nowe informacje prokuratury - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3BSSENXYnZ0RUJfRXlEMGhsaUlZY3YwVnlQMkZfU2R1ckJzSzllZ09LajlfaWlfaWEtUVJwa3pqX0UyRDhjVm1TaWtvMW1wVTZobXE0TFYxSHpxdTBXX0twWXc1eDUzZlZUUUtQbDFjYjhZSWlEb1k1elpaVTRvREYxdDVqdTRVVU9MdERoQVZzbGF0MUJsblNheUNCYXBXYU9TTk9KVFdUVnllVWk2dWhVd3l0U0JwT1E?oc=5"
-      },
-      {
-        "title": "Komisarz ONZ formułuje poważne oskarżenia wobec Izraela. Ale nie mówi o ludobójstwie - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE1RakVxYXFoMGtZeFJkY0xPOXRGWXRjbUNreVhOdkVOX0trbkVCaWRoY09uY19JNGtuMHVmQWs3V2pDdHJLcmZ0am1UYzU3V0VnUXZ3U0hHU3VyNlcxSWtHS0ZmUEZiQmlmQjZJZ1NwS1B1cXZqb1U2aWlPNXZiaHlBWmt3VkJkSHhUWXhENmpKbmljQ0kzMDdFQUdIQWxacTA4VkxvRjIzdUdNX0lzSWJMR1ZXNXA3RjFNRU1BZkJWLWs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-09 00:12:55",
     "weather": {
       "Warsaw": "Warsaw: +25°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Charlie Kirk nie żyje. Sprawca w rękach policji - Onet",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcER2REdqUnU5TUtSX2QwV0lBUVZXRjhfRk5hcGZsSzExVHRhYWVIZXA2UjNCbVJMTlVreGxGRTZXWjA2RXdpdzdJb1ZFYmZ2Z1c2WFdiT1JRRWNLVS1pTzE4TG84YTJRaUVOQ2NSOEZkTUpEdkNGeXFmSmVyMDAzSFJ5RGh6YXVPRnpMb2c4NElrLXpCQ3FSWGlXMHd2OTVZX1JjREkxWG54Y3NSYmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 04:56:04",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +19°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 414768,
+      "DOGECOIN": 0.898332,
+      "ETHEREUM": 15961.24,
+      "LITECOIN": 423.21,
+      "RIPPLE": 10.9
+    },
+    "indices": {
+      "^WIG20": 2811.48,
+      "^WIG30": 3660.74,
+      "^WIG": 3660.74,
+      "^NCINDEX": 273.75
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską. Znaleziono kilkanaście obiektów [NA ŻYWO] - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWQ5QnZlX0l6T2ptRUUyWWFFTHdsUktFUjNWb2FUV3dsSjh4bFg2SHJULVB5dUcydjY1R2ZfaVdHcWJLMkNoNTZLSFNFWnVKZDE1T1JXMTlNR1B1LWMtLWJqVW5YZFVfeFk4eHg5V0pFMms3cS1QTE5PVjNrLVR2X0dPcVJMVjVHVlhOUHlLbnhYWlZ0N3JhbW5tUHlIdVYwaFhraUl1ak9qR2R6a3ZNRG9wZw?oc=5"
+      },
+      {
+        "title": "Decyzja polskich władz wywołała amok wśród Białorusinów. Setki samochodów na granicy. Chcą zdążyć wyjechać z państwa Łukaszenki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPXzMxYW0yM2NBazlGb3E0UkRIektSczJaUFNPVFl2WkVpNG9TcXZ4eVBIVXNUb3V3Y0kzcUU1d3pDVHpBb0xtelBXTGdtQ2ZqMHBZYU1IelJ3WE5teEFhRlZta25tZ21qbU9ndzZ2X3pSa3BlRi1jd0wwbzk1MkxQdkREM2JIWVNwMUtsZ2FFSFY4QnFiTGx0Y0lGejNfQXdYeXJ3aGNQLTJPZ0ZvS0FzdzJNbGdyQk9CZUNzaWVwc09LdTR2N3Q0VkRPeDlGSVVBeEhWY0loTQ?oc=5"
+      },
+      {
+        "title": "USA: Zamach na przyjaciela Donalda Trumpa - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHhESm5pVjU3Vl9ZaEdjUTFGTFZzVW1KVlpsdFVXajFMNzFSODc3TUQ1a2dOMU80NGNwUWprbmZ1LVY2Qkx6MURsV1JnT19SbTRLZUVIRXFEaWpmMmk1UXZpRG82ZXBVd3BrS2VQd2o0aFNoRkJQSnF2WU9fTzhSXzE3RmXSAYIBQVVfeXFMT201Q0IyU1NnTnZEMnpUREo2M09NSVNzWldwLU9GU05Vc1NtOHdreVJ6REUxRVY0RGpjZVNqSWNDMW14bjE2a2Z2ekdNcC16aDAzTF9kZm5NQmk0bWhBWXYwQmJwZFpXT0tNUnRuSGhxMUNHRXlVdWhuRU1FTkdaOGo0QQ?oc=5"
+      },
+      {
+        "title": "\"Jedność sojusznicza\". Prezydent podsumował rozmowę z Trumpem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3kyYVFqOGhYTi1zYndpcm5XU2lIM2h6MmNxSXc2NFI1dTdfc3YxdlhIeWUxeElFZ2FGbXB6eFZneW9yaUtZN3FrMWk2THJqWXdJUjlTMlEtMDdZd2R4emRqc0VDM2F1RFJQVG5jT3dpdjJrdnpuWFNUX2x5eHRZRE5wMzFjSk16cFViYXdn?oc=5"
+      },
+      {
+        "title": "Samochód rodziny Donalda Tuska odnaleziony. Akcja policji zakończona sukcesem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2NhT3BGd3VJb3dyTUlubVMtM2oyN1lsRm1yWmJJSUVpTEZPMU8wcFpfeEI3T2xXRVMzWll0bjFtcGxmR3hrMkVTWVp5RHk1MkdNV2lHRXMydEpodVFzNHNFanAwVS1ReFBkc0REQUxXNHVuUmthM2s4TlNlWnBYTjJUTVp6UW1IVWNKdmVWQ2RMSkwxVlJjZ2NZQ2JDalVwa1VsSER5dHA4UQ?oc=5"
       }
     ]
   }
