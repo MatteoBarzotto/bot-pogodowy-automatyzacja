@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 10:19:14",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 409069,
-      "DOGECOIN": 0.87064,
-      "ETHEREUM": 15763.09,
-      "LITECOIN": 413.75,
-      "RIPPLE": 10.96
-    },
-    "indices": {
-      "^WIG20": 2851.83,
-      "^WIG30": 3717.03,
-      "^WIG": 3717.03,
-      "^NCINDEX": 272.99
-    },
-    "news": [
-      {
-        "title": "Tusk zapowiedział zmiany w resorcie. \"Ta decyzja mi się nie podoba\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pnMnE1Rnh5Zno0Y1dpenhRX2QzYWdSZ19CM0hvdmcwMVpfZmhaWXhnM21Qd3Vpa080Q29zbEJFUnI2STIxQkxKQ1Fmc3EyTmpkekRCcUxNdjBKNG5yVUhCb2doSnhyOXNwUElfWTBJZkRXZHpWVWtETUQtUWQ4NVE1MmpYdGFQU0ZpdHp2c254TTRsMHR3SHNLbFBrWEtVX0hKLWdfdkJleFd1MmhQSmV3?oc=5"
-      },
-      {
-        "title": "Burze z gradem i porywisty wiatr. Ostrzeżenia dla kilku województw - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSldFNkdGWDdRbDNBd2VuMjI3REV0Sm00aEstSGZMWm9ORmI1a094Q2Zac2gtOWtFS3R6Y1IxTm9UZnl6SGFhZjhkcTRSTlZHMEZ2Nld5am9wclh5MWMyM3NFR1cweHM1anRIdnBSWVR3WFVyam4tcHhaZkNGZ3dyWmNyMG9weU1MeVZIZWpEUmRwVDUzWnB3SUs3TUxHd1o4azZHQnN2TjdQY2xsQ2ZHaWR3?oc=5"
-      },
-      {
-        "title": "Brytyjski ekspert o możliwych planach Władimira Putina. \"Niepokojące sygnały\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXpkTU5yYTQwRmF0RzVNR1BZOWdOWnRJX1RnRzBFckQ4d3o3dUR4a2lYYVlMdUNLUU55YUhVVmVtbExlakJNcmFwM052Q0o5Qlo1MkltZ2ZVOUN3WWl2XzN1SDJOTkRQamRwWk1UNzdQSkxyUWw3QVVTZWNtZDB6Ym9mNTBJSXRyeDBpNWl4OURpb2RQY3lnN0NjdlI1MnVXdFpxSDhHSEdWSEJKeHFtQ3h5QQ?oc=5"
-      },
-      {
-        "title": "MSZ potwierdza: To były tajne rozmowy. Co oznacza obecność Cenckiewicza na spotkaniu z Trumpem? - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HaTFYTThKSXFqbXhvQ0hENzZVaEU2ZERUNzZrbFRvXzJDbi1PWjJTVUM5X0w4TkZOSnhSNmttLTllMkdHRDBNVnRiQVhOaE5fSFBDd0RKNjVRTzNHNXY2d0ZMZVdBWlVJZ1R2eFV2NA?oc=5"
-      },
-      {
-        "title": "Nauczyciel \"miłości\". Przedmiot miał prowadzić po godzinach, szkoła wiedziała i milczała - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlp6TlRJOTRaQ0k4MGN1M0l0ZmZXa1pXQU9hUFR2S3BwZTROdnAzTEExd0g4RVgyT0V3emZXbHNseTBsbWxnYVNFSG16SDJNQXliS1JHQUFrSVVKa0RSXy1qc1J6NnMxX0Nja0RkUTM3Rm52VFBSc2wtWmtQelFCMTFvR2pRaWlFZTdPNWg5SkREd1l4X0xJeDZ1dUVMUkZjSzJXN04zeUhBR2RFeWY1dW5keWREemNiZ29PdFZpc3V1VkJySHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-09 11:14:58",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Binjamin Netanjahu apeluje do Kataru o wydanie liderów Hamasu. Izrael grozi działaniami - Onet",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEJCT0lOWWJLaXF3Ym15eU56N2NjNExZTXRDN05aaTVqYVhoM05WbENtSW11U2o5NTlaRTlvYW9Pc3c5a0lSWHpSTjYyV0FSYlZOb05CRmtod254Zk9abmdUa2U0dkVEZks4amw3V1Y2NDdJSnVKTl8yMzhVTjFqVG1MWDE5VUMzZ1pPRm1LdzNONTRxdjRLeUdvY0N3cFVYVXYtUXhEelNQaW1aYnBxRVNwYmxFa0NHclE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 14:26:29",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6459,
+      "EUR": 4.2626,
+      "GBP": 4.9276,
+      "CHF": 4.5611,
+      "JPY": 0.024657,
+      "AUD": 2.4093,
+      "CAD": 2.6268,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 416981,
+      "DOGECOIN": 0.916943,
+      "ETHEREUM": 16262.73,
+      "LITECOIN": 428.06,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2833.3,
+      "^WIG30": 3688.53,
+      "^WIG": 3688.53,
+      "^NCINDEX": 274.47
+    },
+    "news": [
+      {
+        "title": "Wielka akcja uwolnienia więźniów z Białorusi. MSZ: wśród nich są Polacy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUW9oMEp0R3kxTkRDcVJCbkN4YkpUYWNGYlo4dmtKR2R5R01rQ0hDN1NDWEg4T1VYR3NoLTUwZ2Z0SUlVLXBJeThYZXZmSzd2NVFtUUtYZkZnbzBfUmhCS3lheU93REx2Y295SlRiRWRvNXRldjVRR1pFbTVmLUJGUFBpZmtCRUtveG9fVUlmMjJkTDY0RWcyWkpabURicHl6SGNQc0tLelpaM0sxQ3RwNWcxb0F3dlJpMG44?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony w Polsce. Jest reakcja Chin [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnlYNjI4cUlGWlFvaFFFbzdzSHJ6dl9yb2dOTE9WTmxLS0ZRQnNRQ21zZjJ2b3htMjVFZlpXVzVLQkJRUEM5ZXhmYWd3OWdqNzhoeFhpUEZrRHVzZ3J1T05xRGV6d3JOclhxTlFjSVIxMlA4X2dEd3ZqelpfOTZlWllGWDd2Wi1aMml4TW96V3hSa3I0My1XTUZrazB3ZFE?oc=5"
+      },
+      {
+        "title": "Jest decyzja. Do 9 grudnia ograniczenie ruchu lotniczego we wschodniej części Polski - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xGVVRnV01kX2RFXzVodE5lbkNIaDZIdXFwb0J4Mkx3SElid3VMS3UzdnVTc1U1a1NUVkhFMDNDXzZLQWpOc0ZiUTBEYXYxYmhIUFlSTEJYTFc1RWtUbnI1RThyOWlTNUl5X0otRjZsX0JzbW9PU2VjQ3ZMaFRBNWRkNTZDc1JiVThmdWR5eTlsODI1R0tRU3BsU2RTQVdWcXRMaHNUSnRfcEJIVWJEcGNvcFdac3d0RGhlQWFHd0VDZ2NFVlB3RnhLajNSSEh2UmgzNA?oc=5"
+      },
+      {
+        "title": "Zabójstwo Charliego Kirka. Donald Trump obwinia radykalną lewicę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFdMR1RMY1hDejRVc1REZVQ1alhYM1V1aVk2MlZ5V1A2YWZjRmJTREdWOWM5T181bGdQOTRhRGJMVnNMbnhSTmRkSUlHWHNaNHVyWGktWVRSZTJOajVaei13Z08zSlE4Nkhra3MyNmZWS3VxTEZZQjFhNGZBbUl3VXdFUlhDbzJrWHlwTTN6b1JLZF85N3lyS0U2ZzFUME9hTlNzZms5V2ttT28?oc=5"
+      },
+      {
+        "title": "Włożył ośmiolatka do wrzącej wody \"za karę\". Teraz grozi mu dożywocie - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjd5QnBURnhuT1VCMEEzanJxanRMbnAxWVVjTjRQcWZNS1BaTHJpM0t6Q3ltckxISk1QWFBkZlBpNlZYMVdGenE5VHJ2TEZJNlJVWDFuZmJBX0pxNV9CUnZ3MGFiRkpyUjdCTUZYZTN5Sm5HVW92MkR3ZERoTTB6enEzeGlTZ09yQzF0M1dwdFJ4QXRYUFB0NU5oVW45M2RyYVpWaG03QjRKUFFSYThib1pWTDd5Z9IBugFBVV95cUxNV29nTzhPb1BEY1M4T3pJZHIzVmNUUV8zZXgyOWpVX1hrM3dLWmhzS0U1M2lNTFdnRWtOa1dGY3hrUjFvRko3VENEWDhaY0ZUVEc0eF9UQjYxbEtMeFRnX3Ztc3lKbzZrVEo3QVlGanNWbDFmM1I2SDNQY1JZcHFBUml4Zm1YVU5iclFZRlpVcVhQanFEdWdqWmF0aDJUWVdJNlVxWkRIZ0FZd0NwcXgyWUlyODlOUHRoY3c?oc=5"
       }
     ]
   }
