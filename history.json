@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 06:16:10",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6214,
-      "EUR": 4.2484,
-      "GBP": 4.8936,
-      "CHF": 4.5498,
-      "JPY": 0.024521,
-      "AUD": 2.3845,
-      "CAD": 2.6211,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 403698,
-      "DOGECOIN": 0.851213,
-      "ETHEREUM": 15547.98,
-      "LITECOIN": 405.01,
-      "RIPPLE": 10.65
-    },
-    "indices": {
-      "^WIG20": 2862.51,
-      "^WIG30": 3726.44,
-      "^WIG": 3726.44,
-      "^NCINDEX": 270.53
-    },
-    "news": [
-      {
-        "title": "Upadł rząd we Francji. Prezydent Macron mianuje nowego premiera w najbliższych dniach - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHExVk42Ym9ySDZvVWpRMmZrQ01sc09GQ09GbnlIYVRtdmtrTkhfTzRaRDlzX3lETTlOUTBqZHhINE5SLXFfQThrUEFsM0doX0xZS2YzcGNsNFYxRC1VRlozQU00Q193bEY1c3pQZkhoU3p1dTZ3T3lTR1FRYVFyZzJBblJEbjBSc2hYZmxzLTBNT1FSZnN2QVQtc2V6YllTU2xiVklLM21zWVduemdIZFlpdw?oc=5"
-      },
-      {
-        "title": "Piątka z Hajnówki niewinna. Wyrok w sprawie osób pomagających na granicy - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSHREVFpQZkN5UHFlZi1RcnZ4RWd5NVdLTktfU3otb2FWMVVuU1BpTmJQb0pMaXhPZnpWY0MxUHhRRHUyRUt6WEhYVVBCWGhxaTQ4cDZUZWc4RDRFeGRPOW8tcklqRlB5QnBwMQ?oc=5"
-      },
-      {
-        "title": "Nowy komunikat prokuratury w sprawie afery GetBack. Padły nazwiska - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVhsem9pX3RidGY3RTA5aUIxSUtxTXJaR0VkZ054cURKbGpmMmk1Sl9tT25PZHMyZURnN05aNjVGbDZMMU5ha244b01FbC11LTBWVFpBWkI5amllR1hBUXk4aGg4MGFpRXRkM200Wkd3c2RMTGk4MklPbkdib1NaTi1qNmRYQVRMS043enBzZnNfcEZBbmNwMklLQmpQWmhja2JOR1VJcmNCeTZxaEgwT2lVc3NhWjNESnBOaXA4S2FLVFFkazlv?oc=5"
-      },
-      {
-        "title": "Groźne burze w Małopolsce. Woda wlewa się na posesje, spadł grad \"wielkości orzechów\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlhQQTFIYkVOMDJwc3JSQklyU3RnN29fVWRWcHNyWHpCT18zdlg2MkY3bVpuVWo1am5pY3BkcUVya3hYaVJoTkhfcWh6bkZjNTJLWnJUNGRjQXM3OXI4aDNxem9scERaMGQtODh3Wm5rWk94WDF1ZTd0Z0ZFSUppQlFtVkJLWmNnd0V0eHRXU09kOWZUVTJlODJmalBBWWpwNWFDLV9oRGw4aWpsLUpBeXEyOGE?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek z udziałem Katarzyny Stoparczyk. Prokuratura z nowym komunikatem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnlQLWNndEVWQkk1NDZZMnlERnREalZPa2lsN19BLWttLS1qaWdmRThPSVFVaFJwdk8xZkY0cllNZ0VPRF9ib0dEcjFxSEpqQVEtY2I5bGxzcDRTb2lqWk1RRThoeUlQQjdsVmpsTnZuRzVpaEEyX1oyeGJUTUlxSHRGelB3ZlpxVENjckR2U05mUVNxdHcxdnhjOG9KcFl1c3AwMEJCNG9rTmtMSlVyc21qd1Rha2NRc0ExaQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-09 07:13:32",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kolejne miejsca, gdzie znaleziono rosyjskie drony i szczątki rakiet - TVP Info",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm1oRFQxTlR2dFJVNk5lOG9NYVFTVTRXSmItcWVRQ0w3NjNVZ09XVG1fUjRpTExzejN0blMxU0FMSTQ0bFNYaE1ENUROQVdBcmlNTE5TTm9mSlhwT3JIWC0zTER3TjVlbklqZm9EYXFUQUNNcVZJaUFiQ2dUdy03TEpadnlHaVQyV0ttS0g0OVpoOHNWWUhPa3FZa215aGNsZ08yeWhZQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11 10:18:23",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6414,
+      "EUR": 4.2604,
+      "GBP": 4.9259,
+      "CHF": 4.5659,
+      "JPY": 0.024684,
+      "AUD": 2.4035,
+      "CAD": 2.6288,
+      "CNY": 0.5113
+    },
+    "crypto": {
+      "BITCOIN": 416425,
+      "DOGECOIN": 0.91025,
+      "ETHEREUM": 16168.59,
+      "LITECOIN": 426.75,
+      "RIPPLE": 10.95
+    },
+    "indices": {
+      "^WIG20": 2834.7,
+      "^WIG30": 3691.53,
+      "^WIG": 3693.41,
+      "^NCINDEX": 275.81
+    },
+    "news": [
+      {
+        "title": "Rosyjskie drony nad Polską uderzyły w akcje linii lotniczych. \"Sygnał ostrzegawczy dla wszystkich w Europie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUldQNVF3OFVPQ2ZRQ0xjVkdiNnM2d2Jyb2Y2WVhITm1VOGU2c3dHVlY2V09zY0NPS3ZXZlNGbkoydVhEVlFITDBBR1NxdFNYMjFkaGFZa3VOdXd2SXFvZnJMYlpoY2F1d3oyZm9oRklkM1lMZEZKcFRZRnMxTnpjRHY3VnZNM092WV8xc0Z5NWo5TkFsM0lPUlBZQ1Y5aE9BX1ZpTjFEOWkzNWd6VllvRDVjTjBHOEYwMHd6cXRGRm5CeDBhRGk4?oc=5"
+      },
+      {
+        "title": "Donald Tusk o znaczeniu lotnictwa. \"Wielka, narodowa lekcja\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0dYaXZpWUxMbUdveXFnWEE0NXhTQ0xQMlZkWXh3Nzk4X1llZy1YdjJHcGVTTThmTF9RdlI5T0J6TG9JM1dtSHJDWjk0c2trWVhEc00tS1BpOHRRNURRRFIwVmxoN0hYUDFQZEhUZktyZ0RhVFI3bl9Ea2dDT2xhUEpvMGxMTlJtT25TcDd3aXVsbWVHcXNubXU1VUdiOVJ0Z3VOTFFibUJRbG5ON3d5b0xIVU1iNmZGR0ww?oc=5"
+      },
+      {
+        "title": "Strzelanina na kampusie. Nie żyje Charlie Kirk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2ZGTHBtNng2eUpPVHIySkh6YTF0V1FjcUZrMEgtRkU3dXAtbG5RQl9FS0V1NkVWcnpSZzNlS1NKclZLYnl6X1JybzRRekJIU2twVGY1WFVvYjBVRkNMYnhlckdmUHZIMTZGTk1zWElVbUFIdXF2dnBwR0pyNGJoTFRrVnI1ZXVlU3pvTmNNbDRNdTZHZndRUi1jSjV5Zk1zTzVpWndQUDA?oc=5"
+      },
+      {
+        "title": "Jest decyzja. Do 9 grudnia ograniczenie ruchu lotniczego we wschodniej części Polski - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xGVVRnV01kX2RFXzVodE5lbkNIaDZIdXFwb0J4Mkx3SElid3VMS3UzdnVTc1U1a1NUVkhFMDNDXzZLQWpOc0ZiUTBEYXYxYmhIUFlSTEJYTFc1RWtUbnI1RThyOWlTNUl5X0otRjZsX0JzbW9PU2VjQ3ZMaFRBNWRkNTZDc1JiVThmdWR5eTlsODI1R0tRU3BsU2RTQVdWcXRMaHNUSnRfcEJIVWJEcGNvcFdac3d0RGhlQWFHd0VDZ2NFVlB3RnhLajNSSEh2UmgzNA?oc=5"
+      },
+      {
+        "title": "\"Nieudana próba odstraszenia\". Gorzkie słowa gen. Hodgesa o sytuacji w Polsce - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHRZcm1aWGFuSHZFTW9wTGMtOVVEWkZMeTlHU210aWYtRy03cHEybkpkSk9CVHlNT1JJczQxU3dTQVB6bFp6WV9KLXB4R1M2aFAta1RvcmllV0taYl9Bckxid1VSSGdrMDM1eUpGNHhMWFhrWVlEZjI0Y2xTSGk5MGVOY3I1WVVJOXlKY2hvdEtlcHZQMnhpb0pTYXE4U25yMThHUFRjczJRMWdlVU55UTRQak5ORUk?oc=5"
       }
     ]
   }
