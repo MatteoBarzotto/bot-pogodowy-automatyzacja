@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10 09:13:02",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6173,
-      "EUR": 4.254,
-      "GBP": 4.91,
-      "CHF": 4.5614,
-      "JPY": 0.024672,
-      "AUD": 2.3922,
-      "CAD": 2.6218,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 407635,
-      "DOGECOIN": 0.875618,
-      "ETHEREUM": 15731.62,
-      "LITECOIN": 410.87,
-      "RIPPLE": 10.77
-    },
-    "indices": {
-      "^WIG20": 2808.71,
-      "^WIG30": 3654.24,
-      "^WIG": 3654.24,
-      "^NCINDEX": 274.38
-    },
-    "news": [
-      {
-        "title": "Bezprecedensowa akcja rosyjskich dronów nad Polską. Nocna reakcja wojska, Tusk zwołuje pilne posiedzenie rządu [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWTdpRDdDZjU1bHpCZHJKNkEzQm54bGsyYndEalNNajhZQnZ6TEx1anltNUlmVEZiamVtUzFwSy1GQVNxWVB6LUIyaHZqc3dWTFFKWm52VGhkVVE2a3ZZSFNxYXVRMG5uRGtndFNOYWcyR1UzeDdKWlFYM1c5TUFYZllCczg1b0hjOHlfVGxkVkpmTFhHYUtBTDlwTzFGZm8ySlhHYmt3RmVvYjhqYUJDaTI5Q01HNzhEUTN0WHc3bV9MUQ?oc=5"
-      },
-      {
-        "title": "Polska zestrzeliła rosyjskie drony. Pod Białą Podlaską znaleziono pierwsze szczątki [NA ŻYWO] - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10ZkdpU1BpaGNqelB5bHhfM25NZXp1THpMa3NjTzV2dVgxVEZNcXJqNXNwMEc2TXo4XzcwbW9GMnplM1dQb1B6RVhOaDBBcWpEZWRVMDZZSkxqbS1jLUJCWg?oc=5"
-      },
-      {
-        "title": "Burza po zmianach w resorcie zdrowia. \"To odbyło się w tajemnicy\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkVOV2NhRGtkQmlLZGxQa1JaVFBGLXZ3WFZHemhMWDN4Q1F4cVJUcWllM3FLN3gwbnJTQUFNcVFrcG1SU01yWm9uaWZrbjJJa1cyRHpYT2RCTkVDMzBRb3pYaGdsTFR6dkFmVkhfX0kza1hubHktT3k3czJtSk90cHMwLXdXSnBXby04MjAyLW5rTkU4R2FoT0dCdmZmaTVTR0RUaW51LW1PbVM5S3NnbnpwY2R1S1gtUjNZVTJ6Y2NMUQ?oc=5"
-      },
-      {
-        "title": "Wspólne manewry Rosji i Białorusi. Polska zamknie granicę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWVHQnlwR295clFITS1LYkNzNkxvcF92cEhMNkljS3ZESmwzcnRZRGtIQXBlaFVRR3hBX1J0azBKeThQTU5faUE2UWUtdExHbXZHTjU5OVRkZVJJZE11U1dZTjFrUFJkMjR2VUE4VGgxdER5ZURoeXBkVzI3LU05VlJzOHdCMHY5T3FNbGotQ1d3REVNOGZpSWpOZ3VTOXpvbm9NT3BobC1uUQ?oc=5"
-      },
-      {
-        "title": "Oto nowy premier Francji. Pałac Elizejski ogłosił nominata - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU1ZNXk0MGdxZW1nSzA1SHo5bExuVHBQQnBJR0ZiYjJYSjNjb1hONUF1M3hUb1VhZjhpZXpzcThvOUFJbWJfZk1XTWVzbGd4NHBBNnVwY3daTE5Eak11X2E2OWh2ck5XWWRrVTJuQ2xNNlVHSFh1ei1VSmx1VnRUTk1KZ0JFZTI2TUV3OUZuSmZiNlo1a2g3b0M0NWVCUm00OTNTT3BJYno5bGZtM1NmWVV3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-10 10:18:24",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Odnaleziono kolejnego drona. Akcja służb na Lubelszczyźnie - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEhldmM5dTZEYmM5czBUV1FSelRqbjZ6T21zUmVIMHIyMWFjeDNhM3dkTTNuT3hXTzhlUnhheEx0MGlzWDB2UnJXYXF0RjEzM0prcGJRbEhxaWZZOW53ajFQRWVxYktXeC0xNGxFYV9VUXRKcGdkaFZsU2NNbDVYM3VRNFl4Y0QxdkdEY1VyUDF5VjY3cGk4M3d3bFJoN3owdXFxdHZhX1I?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-12 13:10:49",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 416841,
+      "DOGECOIN": 0.943607,
+      "ETHEREUM": 16398.77,
+      "LITECOIN": 419.04,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2858.93,
+      "^WIG30": 3719.56,
+      "^WIG": 3719.56,
+      "^NCINDEX": 274.31
+    },
+    "news": [
+      {
+        "title": "Ambasador Rosji we Francji na dywaniku. Chodzi o drony nad Polską - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajllSjhqaFVoWnpubmJiMHJSS0hqU3F6OEkyUWQtMTJia3phSEFFZ2NlMktVZU9WQW94QVZKVnphVjRjdlQ2OFZORWduVGxRSV9MdDVVNlJpb0lrZ1ZTTnp2STNSVE1sSmJkcGNvVjJ4QW5uTjNudHNXQ0xYbkhVNkhYSVNKOTJuZDM0cS1CR3NBQnV3by04d2pwZkQ2VzdEd1VnNGk2d2YxQWFvUVJIaWtscTE?oc=5"
+      },
+      {
+        "title": "Rosja ogłasza zawieszenie rozmów z Ukrainą. Rzecznik Kremla zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkExclRoelNUamFBdzlyRGxob3kwNTRZc191RFFqSnNMbHJpUkx4Q21PZHVRRFQ1aDgtSEhqY0lsOTUwR2J1cnZXbFByZGVFOG12ZFpCTmx1RUU0d1lhalFYY1hIcG5YYXBod1E3T3lLYWpSR0ZHaFJOaXhiOWxEekl4MVh4Y2VhRXh6aGlwcWw3VnhhMzVZWllXNEwwUEFqN3FQemNVSnEtV2tRUV9fU25yMnppOTFhaFh6MVR6WjRZVjhxcFBDMHg0SXVEdw?oc=5"
+      },
+      {
+        "title": "Potężna dysproporcja. Tak wygląda wymiana handlowa Polski z Białorusią - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbndPMk13U2l5MHpteVdlbDNlRnNsQTlPUTB0d3hxaUZVZTk4MG40MWlSTHNTd0I2c2FBdVlWVlBfY0h2OVVhdlhJMS1sSWRNeWZmRUd6NnJ5NTVyOXNHazdibmpxdXhBaWk4OGlIVHZ5OHdpbDYyVUtLTG1pd0tOeUVZQTE2b001Ulp5YzhJaVd0LWl2a3ZFOGstOHJsNmN5RU1PR2RqZDhYVGhOQjNDeEtDVHdyM2hHRUtOcVpqMEl3MGc4aVlB?oc=5"
+      },
+      {
+        "title": "Wydawanie paszportów w całej Polsce wstrzymane. Co się stało? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX1Y5TEVJTk5jTUpJcnlrQWdjQ2NxTlRaNG9OT29ld2hERV9uTEFtZ1EwU0xpcXJ3YmdkU3lCZ2cwbWktVGhGZjUwb0dpdkdJR1ZVWWRYeDhXdHRabjZYQ2Yxa0ltVFlRRC1zaUVDbUlOaWtkNXhDOWlmdk5wX1Q3MUpxUTNiN2MwMXIzREVBbGxNTVBhSm95dmpzTEVGV1NCVXVxeHUxb2pkM1pRODc4dk94WEZFeG8yeThiWDEwUVFicTBvV2hXYkln?oc=5"
+      },
+      {
+        "title": "Polacy przejdą na Ukrainie szkolenia ze zwalczania dronów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0xkZ0ZUWldBcGQ4RWgwX3J1UzhqcG9FV181bndtTU83U0xkYmZsUXJFamQ0YzhjZGFEcGM0UFhMZW51UjhWdnJLNGxyN3FJQU5ZQlVld19JT20ySGk0NklfRVMzNVNHTEE2RWJ0am1XdW1wS0I3bXVDUml3Z1pEX1NHbEZYakFyUHNpc3NfQ0JqcXRfZXBBbTlR?oc=5"
       }
     ]
   }
