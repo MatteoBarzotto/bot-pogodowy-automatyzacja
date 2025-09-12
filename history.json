@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 23:11:17",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.6173,
-      "EUR": 4.254,
-      "GBP": 4.91,
-      "CHF": 4.5614,
-      "JPY": 0.024672,
-      "AUD": 2.3922,
-      "CAD": 2.6218,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 404934,
-      "DOGECOIN": 0.878389,
-      "ETHEREUM": 15643.12,
-      "LITECOIN": 406.32,
-      "RIPPLE": 10.73
-    },
-    "indices": {
-      "^WIG20": 2836.41,
-      "^WIG30": 3690.41,
-      "^WIG": 3690.41,
-      "^NCINDEX": 274.38
-    },
-    "news": [
-      {
-        "title": "Tusk grzmi po ostatniej wypowiedzi Nawrockiego. \"To niestosowne\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNoQXJrWkFMLVhWaEVYS3lpenJhYlRKelZweHFpeVpVNDFuV2Q4SUJrMlVKaFYxZnRmaUZLQnpvNmRnNEFIa3ZQSjQ3WExLUkdJU3BlNVp0RklEWVAyR0VFdGExd3BDVkItOGxsTG83NkxKbXA0aDNjUTdrYlQ2T0VCYzBfNElVa0l3clNERHhYWDN3dFJ6WFo0cFphOW5QM2JCeXRDYTJjY3J4ZC1MMDl2LXU?oc=5"
-      },
-      {
-        "title": "Zamknięcie granicy z Białorusią uderzy w tę branżę. \"Będą perturbacje\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWhWTjk2OVpCaEljOEUweHRFQ3l3M1AtYVNNNzk5QzRVT3VtZklXQnhtakdGV2RZOEhyNnU2OGhuM2hQTHh5d3llc0JIWTdJODJuTHlScGhwYVpOLXJvZGtHMHQ3NW9UbURxNGRxeUpWajFyZmFyRzhwYm5MUW1jQ2RIV2pfblVGdm95OGo2MmtRU04zVnBpTHVuU0s?oc=5"
-      },
-      {
-        "title": "Atak Izraela w Dausze. Katar i Iran reagują - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUZpOWE5QTFKRGZzNnNHXzBQNUR5N0hkTzNFb2hOU0pvMmhMQ05FeUdsSmR0ejA5TVpJVTJ0dUdNekhyc0VJLWdrMVZwRlB5V2lPLU1Kb2tkSDZnMjUxcVV1YV9RbUtBZWhlLXJmZmZySnhLNDQzUnJSWXgtbFMxeDI3SkJWUTNnX1NpN0VYVWtFNTVSOTF5bFlKemMyT3g4OFBRZFVJOXM?oc=5"
-      },
-      {
-        "title": "Nowy premier Francji. Emmanuel Macron wskazał nazwisko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGtmWlRHa1l2LXNDY25KQzh4TlJSZFg1cGViTlROM0VpSG1XVzhoRDlfV3F4ZHhsY3lNSmJHRW1pSTFDVDU3eUpwSWZFUTZqZnZlbzhyb0Z3Q3pDdWUxeUJUU1Z1RlE2ckJDUXhNTmszakhYLU8tY0hpdUZqZXR5djl4dWxVMzZlSHk1VmI2M2pEZGlHUVRfMVBR?oc=5"
-      },
-      {
-        "title": "\"Dziurawe niebo\" nad Polską. Dlaczego drony omijają radary - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHU1ZkV4WVN1NFI5WFZVY2lFWi1TWDMxVlY0MjROMlBfQjRoUlRIdjk4bi10MUR0NmNRRW9vbFpLYVZpMjh5ZVRmTG45dEd2ZWhXM0drZzNIV2praVpwZWhuX3l5TlJNdkVVMC1OREVRQjZfZEpKX0tMQmRkVXFCMFdrWF9lT0gwbERsaXJycmhhNVd6RzBDaEw4MWozX0E2LXp5MDRMN3I?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-10 00:11:09",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Halucynacje Domańskiego. Budżet zarobi „kilka niskich miliardów” na zabraniu dzieciom 800+ - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjdDMF9ZMFhmM0t3NFY5N0llQU00SXFKTkNobllnclBCZ1ZzV0RaYmpXNVdKNkRBYW1qTVBscURZUHZ3QUpBYm9tdmhTMWNaVjJzRnc5Mkd0WWc2enAyQ0JuZTg0STdfc2lub3paS2ZMakRra3RhRm9hYkctU0FpcS1pbzlCRWVJdWQ2QjFuQkUzdXU0YV9NSXpLa3hfOThGSXhhLU96dw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-12 04:50:39",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6459,
+      "EUR": 4.2626,
+      "GBP": 4.9276,
+      "CHF": 4.5611,
+      "JPY": 0.024657,
+      "AUD": 2.4093,
+      "CAD": 2.6268,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 418812,
+      "DOGECOIN": 0.948099,
+      "ETHEREUM": 16355.99,
+      "LITECOIN": 420.59,
+      "RIPPLE": 11.06
+    },
+    "indices": {
+      "^WIG20": 2855.75,
+      "^WIG30": 3715.44,
+      "^WIG": 3715.44,
+      "^NCINDEX": 273.27
+    },
+    "news": [
+      {
+        "title": "Donald Trump o rosyjskich dronach nad Polską: to mogła być pomyłka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFFSVFBUR1NneG1rYVpRUUFjYTUtQWttWVg3akFfUDFKREVOb2lFXzgwNm1aeU9wdURCYnFqQ0kxWWx6clpxZmlyVDRXcEg3d3J4RDFWeUhKbHBYU1NJVDBYd1BLMnZTS3B6U0FwY3BhVC1NQWtISGxvMFFBVHI3OGdGQ0thX1pHaWlZQ0x2Y29xZ1dvWFp4UllVbGlJSHlDTFB4MmdnbE1PQQ?oc=5"
+      },
+      {
+        "title": "Premier Tusk: każdy, kto będzie chciał zaatakować Polskę, zostanie potraktowany adekwatnie - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFhqNTMybnNzcXQxdXUyRzBnQ3BhWC1MOEQyRnNQUjJVckMyV2pfWTdxS19lZl9oUzliYXB3NFVjUE81MC16bWctbldnY1QweXpPam5SaTAtZzkwVHMzdnZZVHFhT3BaOTdLQWtNcHgtQ3FQaVhLYUJGN1phYVdrU0hRd1kzend5QWNXanJXWkNyVDNkY3lHRGlfS1hRaUt5LUd1aXhsZjdhUEs4bkQwOVdqVmswbjFwRFE?oc=5"
+      },
+      {
+        "title": "\"Rosja wzywa Polskę\". Zacharowa o decyzji względem Białorusi - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQk9QY19pX09QRmU0dWd0VDMzRTQtdVNyYXhUUnZaVkF5b2Vub0NIQjJ2MXhPM0I1d1RoTzFDMk5meFR5VVp2U0tDNFdUZDhjcWN0Yl9OQlJMaUYwd3hpdm1GSG1RanBhcmtsYTZjbHJRT20wWnZqQk5LX1dPTlRoWDR0WlJSRWp6d3pMMzZ5bGFPVmozSkhrRkNBMmJVWTY2QlRWa0Uxem9sTGNvY0JTQ25QMWp5QQ?oc=5"
+      },
+      {
+        "title": "Kolejne miejsca, gdzie znaleziono rosyjskie drony i szczątki rakiet - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm1oRFQxTlR2dFJVNk5lOG9NYVFTVTRXSmItcWVRQ0w3NjNVZ09XVG1fUjRpTExzejN0blMxU0FMSTQ0bFNYaE1ENUROQVdBcmlNTE5TTm9mSlhwT3JIWC0zTER3TjVlbklqZm9EYXFUQUNNcVZJaUFiQ2dUdy03TEpadnlHaVQyV0ttS0g0OVpoOHNWWUhPa3FZa215aGNsZ08yeWhZQQ?oc=5"
+      },
+      {
+        "title": "\"To element większej gry USA\". Wiceszef MSZ o uwolnieniu więźniów przez Łukaszenkę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFl2bS15aGdKYUI4WkNoMmQzRWFjN2UwcUtJa3V3TG5fd3F4aE1yQ1laaDBEa0FDQzQ4V09GcUY0T2JiajBjOFlQMWRTd0hKXzItNy1mYmJUQlV2MTJpeFhCRUhSb2E0dnd0VHJjMnFxdW81QVFhd0M0ZVpxb1dpalBuN2dhYkFIUDV4VjJ2ZXRZT2xEM0VjV3gwS3BhRTZxVURveDB2a0lLakZhNUcwUjdTbU1lWUc2bjFmbzE5R2Y0cWVGRHB6amtR?oc=5"
       }
     ]
   }
