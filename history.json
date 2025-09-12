@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10 10:18:24",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +14°C"
-    },
-    "rates": {
-      "USD": 3.6173,
-      "EUR": 4.254,
-      "GBP": 4.91,
-      "CHF": 4.5614,
-      "JPY": 0.024672,
-      "AUD": 2.3922,
-      "CAD": 2.6218,
-      "CNY": 0.5078
-    },
-    "crypto": {
-      "BITCOIN": 410350,
-      "DOGECOIN": 0.88098,
-      "ETHEREUM": 15759.36,
-      "LITECOIN": 411.9,
-      "RIPPLE": 10.86
-    },
-    "indices": {
-      "^WIG20": 2792.95,
-      "^WIG30": 3640.91,
-      "^WIG": 3640.91,
-      "^NCINDEX": 273.04
-    },
-    "news": [
-      {
-        "title": "Wyryki: Rosyjski dron uderzył w dom. Szkoły zamknięte, lekcje odwołane - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHA2MVBianB3X0J4dUtlNDNKc0lacVkzdzBjM3N0ME03TUxZWmYya2VPdTZoVUFmZjZFYWpJc21TYTA4TVQtMHNzZnlSWm5NMHNxRGJaaWdUZWUzT19qbDQ2dTR1d3B5X0gyTl9ZLTN3ZFFOVWFsbEZrS0R0UTFiSG9GYlZSRjY2UWNTWERsSWxvNDRwTVZ6amxYU0NEd0d3dEZwRkxuMkppN3Zwa3RXNnpTVElZUDRGT09wMllpbWx4dw?oc=5"
-      },
-      {
-        "title": "Bójka i morderstwo na Dworcu Centralnym - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2JWSDVGd2hEY1M5eVdnMlJhWk5LanlBeGYwd0Vvb3RnTWlTVTMwcW9DV1RMSkJtUjR0RHBvSmVFUURxcWQtY3M0Q1VDbmVoWkNUc3czdnNVOWdKd2JCZ185dV9XVHdnMDBlZi05T2kzQUtNMUFwWTRSMDdCaVdDQ29uZ1ZVSUk3LU1tMDd5NnB3MWJFTjduRA?oc=5"
-      },
-      {
-        "title": "Burza po zmianach w resorcie zdrowia. \"To odbyło się w tajemnicy\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkVOV2NhRGtkQmlLZGxQa1JaVFBGLXZ3WFZHemhMWDN4Q1F4cVJUcWllM3FLN3gwbnJTQUFNcVFrcG1SU01yWm9uaWZrbjJJa1cyRHpYT2RCTkVDMzBRb3pYaGdsTFR6dkFmVkhfX0kza1hubHktT3k3czJtSk90cHMwLXdXSnBXby04MjAyLW5rTkU4R2FoT0dCdmZmaTVTR0RUaW51LW1PbVM5S3NnbnpwY2R1S1gtUjNZVTJ6Y2NMUQ?oc=5"
-      },
-      {
-        "title": "Rosja naruszyła polską przestrzeń powietrzną. Znaleziono pierwszego drona - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmMzWUhYRmpDek5SdkRZdENEcGNycTNlSEY1ZzUzVFFaRml0aEpBcG5pUlpLaE5rb1BxU0VYRXJhRFRUcWRSMUJWQXQ4dkNtY0JjbHJERExvSzBBZnJSRVFOT1lWME5FZ3VKU0VXS09QaWx4QWhsV2tIMFpUS2pMVEFCeVI3V0FZYnFBbGdsWDVCakJHcldlWk92TE1TV2dZX0E?oc=5"
-      },
-      {
-        "title": "Trump żąda od UE nałożenia na Chiny i Indie 100-procentowych ceł - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX29ucFoteHlhYW1JS2tBYVAwTzl0cE43UnpHbjhHbmdBZEZpNFFWbC1sWHRWZHhmWHU4NG9wVFNYcFotUnVZM0Y2MnFRYUV1WFBiVWhFNWpWOG41YzFoZGJhUFR2eGotSmFBcDJ5LUhQSURrZldlaV9wN2lvUkd6dmpWUnkxRG9Wb05rRWhJcTl5UUpIdDVYODZVa1h3Z1BBMXBzdlRVdGlHSWlyNUhuazFSZGM4cHVKNElZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-10 11:14:09",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Polacy przejdą na Ukrainie szkolenia ze zwalczania dronów - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0xkZ0ZUWldBcGQ4RWgwX3J1UzhqcG9FV181bndtTU83U0xkYmZsUXJFamQ0YzhjZGFEcGM0UFhMZW51UjhWdnJLNGxyN3FJQU5ZQlVld19JT20ySGk0NklfRVMzNVNHTEE2RWJ0am1XdW1wS0I3bXVDUml3Z1pEX1NHbEZYakFyUHNpc3NfQ0JqcXRfZXBBbTlR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-12 14:26:34",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 417536,
+      "DOGECOIN": 0.943604,
+      "ETHEREUM": 16405.25,
+      "LITECOIN": 418.56,
+      "RIPPLE": 11.03
+    },
+    "indices": {
+      "^WIG20": 2849.64,
+      "^WIG30": 3708.08,
+      "^WIG": 3708.08,
+      "^NCINDEX": 274.15
+    },
+    "news": [
+      {
+        "title": "Ambasador Rosji we Francji na dywaniku. Chodzi o drony nad Polską - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajllSjhqaFVoWnpubmJiMHJSS0hqU3F6OEkyUWQtMTJia3phSEFFZ2NlMktVZU9WQW94QVZKVnphVjRjdlQ2OFZORWduVGxRSV9MdDVVNlJpb0lrZ1ZTTnp2STNSVE1sSmJkcGNvVjJ4QW5uTjNudHNXQ0xYbkhVNkhYSVNKOTJuZDM0cS1CR3NBQnV3by04d2pwZkQ2VzdEd1VnNGk2d2YxQWFvUVJIaWtscTE?oc=5"
+      },
+      {
+        "title": "Tak wygląda teraz granica Polski z Białorusią. Pojawił się drut kolczasty [NAGRANIE] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVl2c2N2VGpvZUFqOExZb2MxRTROOW1zakFfWU4xNHJpUFZ0a2NYM3Y2d1V1YlpJZmxPdWwyTEUteVREM1Q5bVJsWTJ6Rnp3Rk1FWGdaWE13Nm1TS1NYa2xWQXF6Z0U4b2d0SVpJb2wzQ0VTVHB0NUhNbmlRbkZDdS1ZbE16VFJWZEJGaGdCMVd1anRmSU5Lb1YxaUNaR2pjc1dIQVBVaVVTZGNCNkYtcUJzUXBDVktmYXBTWUtXb0xyWmxJUVVKbS14cVpuOTZYRlBxU0ItLUJYMnlx?oc=5"
+      },
+      {
+        "title": "Odnaleziono kolejnego drona. Resort spraw wewnętrznych podał lokalizację - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmJMV2JTdEgxaHVwMXRMRlFoZVRuQnoxSXNGS2pUaDcxRDl1TFpFTVlFejNMSUdUTGtJTDdNeWZTeUdUbWNEVDhOeF93bUhWUGRlelpoNlh0aG9IYjZOQTM3bThmYnFhWlM3SWFuaG9DN2dqU2E1aEo1S053bjVlTDdVVHlCYnFBeEcxWTlXZkR5Vzg5dW9ISXVrQjFjQnBPVXB4MENB?oc=5"
+      },
+      {
+        "title": "Rosja nie będzie rozmawiać z Ukrainą. Rzecznik Kremla o negocjacjach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOF94c01mRHBMYXJteS1OMnI2ZlpBQWNzTkt2SnAtMEJ2UVl3SDRNclBsNVNrZnpZNUs2MkcwdGl1eE0zeWdxZm9mWUxTMHJzUlZ1MHIwdFpmVGgtZW15amowRXY5NXNVYkN2VzI4UmxWY0lKZEhIVGZvZGRETFhnZXdrRWlQeHRKd2w0TjJxaXpmdFZ1TTEycXRObkRlMFEzMTZyYTFkMUdLNzhZd2luLUZmZ3BBZ3k1?oc=5"
+      },
+      {
+        "title": "Wydawanie paszportów w całej Polsce wstrzymane. Co się stało? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX1Y5TEVJTk5jTUpJcnlrQWdjQ2NxTlRaNG9OT29ld2hERV9uTEFtZ1EwU0xpcXJ3YmdkU3lCZ2cwbWktVGhGZjUwb0dpdkdJR1ZVWWRYeDhXdHRabjZYQ2Yxa0ltVFlRRC1zaUVDbUlOaWtkNXhDOWlmdk5wX1Q3MUpxUTNiN2MwMXIzREVBbGxNTVBhSm95dmpzTEVGV1NCVXVxeHUxb2pkM1pRODc4dk94WEZFeG8yeThiWDEwUVFicTBvV2hXYkln?oc=5"
       }
     ]
   }
