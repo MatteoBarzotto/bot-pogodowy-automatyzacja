@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11 00:12:30",
-    "weather": {
-      "Warsaw": "Warsaw: +26°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +19°C"
-    },
-    "rates": {
-      "USD": 3.6414,
-      "EUR": 4.2604,
-      "GBP": 4.9259,
-      "CHF": 4.5659,
-      "JPY": 0.024684,
-      "AUD": 2.4035,
-      "CAD": 2.6288,
-      "CNY": 0.5113
-    },
-    "crypto": {
-      "BITCOIN": 414788,
-      "DOGECOIN": 0.889405,
-      "ETHEREUM": 15843.83,
-      "LITECOIN": 422.98,
-      "RIPPLE": 10.86
-    },
-    "indices": {
-      "^WIG20": 2811.48,
-      "^WIG30": 3660.74,
-      "^WIG": 3660.74,
-      "^NCINDEX": 273.75
-    },
-    "news": [
-      {
-        "title": "Rosyjskie drony nad Polską. Znaleziono kilkanaście obiektów [NA ŻYWO] - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWQ5QnZlX0l6T2ptRUUyWWFFTHdsUktFUjNWb2FUV3dsSjh4bFg2SHJULVB5dUcydjY1R2ZfaVdHcWJLMkNoNTZLSFNFWnVKZDE1T1JXMTlNR1B1LWMtLWJqVW5YZFVfeFk4eHg5V0pFMms3cS1QTE5PVjNrLVR2X0dPcVJMVjVHVlhOUHlLbnhYWlZ0N3JhbW5tUHlIdVYwaFhraUl1ak9qR2R6a3ZNRG9wZw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. Prezydencki minister zdradza szczegóły - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnJoN2pqYTF4ZFFsLUttOXNVZUF2OUF5ZFgwQkRycFRXQndwaHB1MEJyNnZtdklwWlU0V0xGdzBfbzRtWEZnSjFfNEd0a21XcVZiZURlWmkxdTd0MTFHaXA3YWpuM18zdWNYdGZYdC1Ca0hOcUdZX2N0R0tHbHNpS21RQnRCNlNobUJvY2JxcC1HVVpZMVp0Ml8wZ2xQdHRRRGtsbHlHal8zdWRWQUxv?oc=5"
-      },
-      {
-        "title": "Trump o postrzeleniu Kirka w Utah. \"Musimy się modlić\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWNrTVZWLUVVR0pZdzl5T1V3a1RCMzRMUENVSEl4aV9SaHFGY3ZTeUFYSFF5ZmJOV1BiUWp4TG10VXF2TWhNNXM5SnUtVWxQOVlpNEEwc3cwUGx5YmhVWVlLTWxNNG54SHRQZ2E5NlNCLXBWSlNVcmkyOWtucDFtMDVDZ2w4QkxZOUtPQzhWeHNYWlR3N1VsdFd3?oc=5"
-      },
-      {
-        "title": "Samochód rodziny Donalda Tuska odnaleziony. Akcja policji zakończona sukcesem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2NhT3BGd3VJb3dyTUlubVMtM2oyN1lsRm1yWmJJSUVpTEZPMU8wcFpfeEI3T2xXRVMzWll0bjFtcGxmR3hrMkVTWVp5RHk1MkdNV2lHRXMydEpodVFzNHNFanAwVS1ReFBkc0REQUxXNHVuUmthM2s4TlNlWnBYTjJUTVp6UW1IVWNKdmVWQ2RMSkwxVlJjZ2NZQ2JDalVwa1VsSER5dHA4UQ?oc=5"
-      },
-      {
-        "title": "40 tys. żołnierzy przy granicy z Polską. Wiceszef MON ostrzega - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjZ5OUtycDlHdERoZGFNb2RnV3VUX0FmOEJ5ZmxUbHJlamJFWF9aZXFsT1lFelRWZHRnd29ON1IydmQ0N3Fwa0JxRW5GNzY2MGFmakxUR1EtSFFobXBoRXIzRFF5Vm9jbDA2bVZLOGxYaTc4c3pQTnlLdVdmTWcyZzQ0bm5rU1pQYkQ2aEZZcV84N2VHTFNuMVppTzJmaVRhbF9DNA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-11 01:12:31",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Fronty Wojny\". Oficer wywiadu wojskowego: Nasze wojsko nie było zaskoczone atakiem - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcEc2Q0tiQmV3UVdWODc3bkg2QWJTVVFxclVmakM5dTdjdXJNYUJNQ212YzBLaHhmUnhaNWZGeGxpR19zRjh4VXdsSEFkNDUtM2NmY1NpM1FnVDlZM0QtUTNSSXd2N2gtTWp1b2ZUWHh1N0Faa1lOdTRaUGpwSUNpX0xFNmlfZklqVU5QZXpUV0J3bXFiZ2pqMFlWZnhWVl9yNU9tVDlDVnRvVVp3Rm5SaTEyUHN1Q0hGT2VHbE9wY09kQUJHVml6a1VjVFpxd3ZCZHhleHVkSXAwQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-13 05:16:52",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 420658,
+      "DOGECOIN": 1.011,
+      "ETHEREUM": 17104.92,
+      "LITECOIN": 427.75,
+      "RIPPLE": 11.27
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Rada Bezpieczeństwa ONZ. Rosja sieje dezinformację o dronach w Polsce - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDcyaWZfM3FibDVHLTBMZTJVWnYxTm9zUzZNNDRHMEstVGZGcFRGaDJ1bkJkUjRZeTMwWk4zcGVMWjJqTjI2T0F0dHVXTVZrSFYwOFJxSXdmdlNfeEs1a2NQRlA0YS1xNTJ5QjBGVDA2VjFaYXFTd0lLMmhhWG10UUEtQlpaaWIxU2RTaVhVaDA0V3BpdlY5eWV1UWRHWVgwWEM5Yi1NWUJCSXk2cXpZVnJYcEY2WUVibTgxQXpkY05namhxVHc?oc=5"
+      },
+      {
+        "title": "Kłótnia w Sejmie o minutę ciszy. \"Może być pani cicho?!\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0Q4Q3RIQlFQdlhZZXdLaGVhR3Bha1V5NHJUb2x6V29OSEJXWFY2cV9OcFdXdEJhcWJkT1czRnd1QzNfWmlLSTgwakVIclRVdWhuUlVNRFZvXzUxQVJXWmVNVkZXbXh0bkI0YlFNX0lsREZfTDZkeEdiaGdBUW4yR3RFM0ExT25sQVhaNUJ4dURTXzl6QWc?oc=5"
+      },
+      {
+        "title": "Dodatki dla mundurówki. Sejm podjął decyzję - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEZMdXdINDYyamU5WHYtdUhudVY2d2MzOTVNUW51cXpRNkhqclg1QkRJdlNHOTZ6RGNuSmlJbktSaDdiSHZxbENGS1VxNWR0MmVzeEgxbUlNSTh2MmllTTk0a0E2ZWRhdGxsYjJFZV9rSFRkVF9FQUZfMHM4cjJEaW94dHZCSHU5M1Y4Z1BTSVFCTHkxaDJiT0pGellKdw?oc=5"
+      },
+      {
+        "title": "Polska zamyka granicę z Białorusią. Białoruski opozycjonista: to \"atomowy pocisk\" w reżim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzkyMm15RFNndXp0VXFaaTNVY0FpMl9uM3ZHWEFYMXAyaUpmN3ljdXV5SkplcG1sT0s4a2N1Vmw2VjFfYkI4d1dLSURfSERkZ3JYMk4wUG1FV1N3bDhwcjVlRnh6d1RZMG9RMTFxdG9MSEhtSUtKNXkzSl9vNW1EclhHcG9rZGRRdFVOV0tPTkhOZGZWREtTYmdKY0xyYVNLUmM3RldlYVNfUV9YRnY1VHd2eDkzaFlxbDBGNnhsNTl5ODM0dnBV?oc=5"
+      },
+      {
+        "title": "Mark Rutte ogłosił, jaka będzie odpowiedź NATO na wtargnięcie rosyjskich dronów do Polski - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUJtdXhKcUVmR05qbHhob2trTk9rQmhadXhRR0pNVFJwUFg5eExFU2tDMjRDcFNkQkg3bU14UUtLSkt5Z3VKUHpHTDF3YS1ZQzYwOU5ReGlJcFJKOV93QVlHMzJtamNEdm5GaUFqV3hmVHo0UmR2dmRfYzM5QWZpQ1RwMmxhN3dLN2FaWlktN09VcnlKNnRyMVFseDdZb3ZuczB4NEVfU2M4dw?oc=5"
       }
     ]
   }
