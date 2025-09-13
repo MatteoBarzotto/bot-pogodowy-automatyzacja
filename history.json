@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11 06:16:01",
-    "weather": {
-      "Warsaw": "Warsaw: +20°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6414,
-      "EUR": 4.2604,
-      "GBP": 4.9259,
-      "CHF": 4.5659,
-      "JPY": 0.024684,
-      "AUD": 2.4035,
-      "CAD": 2.6288,
-      "CNY": 0.5113
-    },
-    "crypto": {
-      "BITCOIN": 416298,
-      "DOGECOIN": 0.919669,
-      "ETHEREUM": 16045.86,
-      "LITECOIN": 424.27,
-      "RIPPLE": 10.95
-    },
-    "indices": {
-      "^WIG20": 2811.48,
-      "^WIG30": 3660.74,
-      "^WIG": 3660.74,
-      "^NCINDEX": 273.75
-    },
-    "news": [
-      {
-        "title": "Rosyjskie drony nad Polską. Znaleziono kilkanaście obiektów [NA ŻYWO] - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWQ5QnZlX0l6T2ptRUUyWWFFTHdsUktFUjNWb2FUV3dsSjh4bFg2SHJULVB5dUcydjY1R2ZfaVdHcWJLMkNoNTZLSFNFWnVKZDE1T1JXMTlNR1B1LWMtLWJqVW5YZFVfeFk4eHg5V0pFMms3cS1QTE5PVjNrLVR2X0dPcVJMVjVHVlhOUHlLbnhYWlZ0N3JhbW5tUHlIdVYwaFhraUl1ak9qR2R6a3ZNRG9wZw?oc=5"
-      },
-      {
-        "title": "Charlie Kirk zastrzelony. Binjamin Netanjahu grozi Katarowi. Podsumowanie nocy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkhzck1NakdibWFTLUVtU21CT1h2UlZONG5zaldGUDRCYy1lQTd0QVhzMjBmR0ZqWVZTSmJmRjRqMUp1STJ0RGxXbDVYRVdQNTFuVnp5eDI4Z2p1aF95cFEyRzJJSkNNeTVVaUh1bjZHQThJbjRoOTdsQzVkS2dFRnZ6bXBnYzlBdTV1Z3hxSV9fWFlZcDVrbWxaQ09GcExpV2xnS1ZJZFBUeWJBQ1Q3WlljZ3pVMHh6LUVvV3MyTU90ZmhXeDRYRV9qLXNIUmFwSUVQSGdR?oc=5"
-      },
-      {
-        "title": "Decyzja polskich władz wywołała amok wśród Białorusinów. Setki samochodów na granicy. Chcą zdążyć wyjechać z państwa Łukaszenki - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPXzMxYW0yM2NBazlGb3E0UkRIektSczJaUFNPVFl2WkVpNG9TcXZ4eVBIVXNUb3V3Y0kzcUU1d3pDVHpBb0xtelBXTGdtQ2ZqMHBZYU1IelJ3WE5teEFhRlZta25tZ21qbU9ndzZ2X3pSa3BlRi1jd0wwbzk1MkxQdkREM2JIWVNwMUtsZ2FFSFY4QnFiTGx0Y0lGejNfQXdYeXJ3aGNQLTJPZ0ZvS0FzdzJNbGdyQk9CZUNzaWVwc09LdTR2N3Q0VkRPeDlGSVVBeEhWY0loTQ?oc=5"
-      },
-      {
-        "title": "Samochód rodziny Donalda Tuska odnaleziony. Akcja policji zakończona sukcesem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0Y0a3kxN1RYSEpQSk5JX1czcHpNYU1vNVlZVEVROWZzc1V4RThjWkRKYWY4Y3U5RU5TRUEtYTdsZXQ0SVRuVjdZM25IWFliTmM5T1Y1MWJjSUxYNXVRdy11YUtSX3Rrcm1GNnd5R0VUZE5hS0ZUUlllZHJORFp2YXhtSEtBc3Jrd0tSQ3F5RjVFbGVxQ0VKMTY1bkozbXNrY2pkNDBvRkttVnpWaXRSb3Y3eURtWFI3Q2V6YWxJblR2Z2FEdElpTA?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. Prezydencki minister zdradza szczegóły - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1VCbXRFb3lBeS1CbTk1WW5RYXNDMlBZc192Z3FIN29IWnJ1YzJ0Zzdvb2Fuc1RGR0JrUlI0c3p2US1ET3pRLUktejNrTXZpTndGbEFXS1lwcE1Odlo0d1pCVm55MjcwMFJwcU56TEg1anFVMFc1TUVsZjBIN0hGWlYzWUp1RnFJVFc5ekRjTkxYNjM0WDdzMnQ2TFJjUTVvOTBLY1U3Yl8weTQzYThYVDN2UXNFT2JRQVBrSTFzSlVGTE1xSmZRYUtjQjQ4Vm01Mjh4VW84dDAwNlNORWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-11 07:13:18",
     "weather": {
       "Warsaw": "Warsaw: +20°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Polska zamyka granicę z Białorusią. Białoruski opozycjonista: to \"atomowy pocisk\" w reżim - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzkyMm15RFNndXp0VXFaaTNVY0FpMl9uM3ZHWEFYMXAyaUpmN3ljdXV5SkplcG1sT0s4a2N1Vmw2VjFfYkI4d1dLSURfSERkZ3JYMk4wUG1FV1N3bDhwcjVlRnh6d1RZMG9RMTFxdG9MSEhtSUtKNXkzSl9vNW1EclhHcG9rZGRRdFVOV0tPTkhOZGZWREtTYmdKY0xyYVNLUmM3RldlYVNfUV9YRnY1VHd2eDkzaFlxbDBGNnhsNTl5ODM0dnBV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-13 10:15:29",
+    "weather": {
+      "Warsaw": "Unknown location; please try ~52.2319237,21.0067265",
+      "Kraków": "Unknown location; please try ~50.0619474,19.9368564",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 420174,
+      "DOGECOIN": 1.028,
+      "ETHEREUM": 17122.41,
+      "LITECOIN": 434.61,
+      "RIPPLE": 11.3
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Ukradł samochód rodziny Tusków. Mężczyzna został zatrzymany na lotnisku - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelVsM2EtaHdGcWUzcGgtcVhLTWxKNDk5a0lOYVZRWFV0X1M4ci1VdmVXME9xU3RYM01PcGJDd3F6b1RBQU9MTkJ5djlQT2FjUDFXRVV3QkRvLVBDS0M1cU16MUZIVGt3cGxpOFdjWWlGM09LOHhfQUlvZzRrdEdWWE0wQW9RVDd0ZVFaSHYwMjRlekVSQnF2OE5raHN6ang3TnFRZTBoaWlIZkxRV21F?oc=5"
+      },
+      {
+        "title": "Rada Bezpieczeństwa ONZ. Rosja sieje dezinformację o dronach w Polsce - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDcyaWZfM3FibDVHLTBMZTJVWnYxTm9zUzZNNDRHMEstVGZGcFRGaDJ1bkJkUjRZeTMwWk4zcGVMWjJqTjI2T0F0dHVXTVZrSFYwOFJxSXdmdlNfeEs1a2NQRlA0YS1xNTJ5QjBGVDA2VjFaYXFTd0lLMmhhWG10UUEtQlpaaWIxU2RTaVhVaDA0V3BpdlY5eWV1UWRHWVgwWEM5Yi1NWUJCSXk2cXpZVnJYcEY2WUVibTgxQXpkY05namhxVHc?oc=5"
+      },
+      {
+        "title": "Andrzej Duda pokłócił się z członkami klubów \"Gazety Polskiej\". \"Nie kłamcie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnItNWxfVjZXcDJaSWdJLWo5dWRrN01qeUZHcjlTSFNXUjUtcmJuOXdzajgtRlNvd2tVblFCM3pnRkxHNVJZaW5hUE1IaEhaamRVV3lhbzUwRlNQdWJPNDVaZzBCY1hqamJXbkVJTlROeGhoZVNNdE0xWDFTTGg3b2xNTy1QcnJKcWEybmxlNzQ1RGJyXzFQS0RxRmlKYnlySVBzTnlfbzBucnk4aGNyMUhYOFl1Nm9uM2FvWUF2dk90SjBDNEY2b28tZjlNTGJm?oc=5"
+      },
+      {
+        "title": "Polska zamyka granicę z Białorusią. Białoruski opozycjonista: to \"atomowy pocisk\" w reżim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzkyMm15RFNndXp0VXFaaTNVY0FpMl9uM3ZHWEFYMXAyaUpmN3ljdXV5SkplcG1sT0s4a2N1Vmw2VjFfYkI4d1dLSURfSERkZ3JYMk4wUG1FV1N3bDhwcjVlRnh6d1RZMG9RMTFxdG9MSEhtSUtKNXkzSl9vNW1EclhHcG9rZGRRdFVOV0tPTkhOZGZWREtTYmdKY0xyYVNLUmM3RldlYVNfUV9YRnY1VHd2eDkzaFlxbDBGNnhsNTl5ODM0dnBV?oc=5"
+      },
+      {
+        "title": "Kłótnia w Sejmie o minutę ciszy. \"Może być pani cicho?!\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0Q4Q3RIQlFQdlhZZXdLaGVhR3Bha1V5NHJUb2x6V29OSEJXWFY2cV9OcFdXdEJhcWJkT1czRnd1QzNfWmlLSTgwakVIclRVdWhuUlVNRFZvXzUxQVJXWmVNVkZXbXh0bkI0YlFNX0lsREZfTDZkeEdiaGdBUW4yR3RFM0ExT25sQVhaNUJ4dURTXzl6QWc?oc=5"
       }
     ]
   }
