@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11 17:13:43",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +21°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.6459,
-      "EUR": 4.2626,
-      "GBP": 4.9276,
-      "CHF": 4.5611,
-      "JPY": 0.024657,
-      "AUD": 2.4093,
-      "CAD": 2.6268,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 415743,
-      "DOGECOIN": 0.901748,
-      "ETHEREUM": 16048.9,
-      "LITECOIN": 413.32,
-      "RIPPLE": 10.87
-    },
-    "indices": {
-      "^WIG20": 2855.75,
-      "^WIG30": 3715.44,
-      "^WIG": 3715.44,
-      "^NCINDEX": 273.64
-    },
-    "news": [
-      {
-        "title": "Aleksander Łukaszenko: naszym zadaniem jest pomaganie Donaldowi Trumpowi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW1hVHRZQ01iOHN4TmVraXUwT012VTgzc2lFR0Z0NGxjbUpKZTY3Y1piWDdKRDdOVlNBemZ2ME0zUWFUTzFTWjRIMnZlMHhoUUt3OWg0Q2cyT29BYzU5Nmk0RmdwZDd3ZFVRUjJLRzlLQkM3WnBqNGV1WXhmN3RsY1VEbk93ZDBQa1NYOEc1NjJ6RW5UZjFzUnR5ZnRUelJhdEZDRDktbV9BWVFmN1VhUkhn?oc=5"
-      },
-      {
-        "title": "Nalot dronów nad Polską. Media piszą o prawdopodobnym celu Rosjan - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFJqTFFXdmFETEZjUW9aWWF6Q0lwdzV5V2otenAzdlFibFNmamRZMlpETF9WQTd3MDNKaGxsaWtlZzl2elVHTXY5VVVhRF9zamFyTmgyR0xWcXR3OVpwcXA4YXpYd3FkN2tGblVOWjBPVlc4T09rbExkTmIzQlRtRTdjWV93aVhBckg0Zk9NZFZnYnhvbWh5Y1J4ejRTb3ZEWHEtV1NnLW5GcEl1bVE?oc=5"
-      },
-      {
-        "title": "Zabójstwo Charliego Kirka. Donald Trump obwinia radykalną lewicę - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFdMR1RMY1hDejRVc1REZVQ1alhYM1V1aVk2MlZ5V1A2YWZjRmJTREdWOWM5T181bGdQOTRhRGJMVnNMbnhSTmRkSUlHWHNaNHVyWGktWVRSZTJOajVaei13Z08zSlE4Nkhra3MyNmZWS3VxTEZZQjFhNGZBbUl3VXdFUlhDbzJrWHlwTTN6b1JLZF85N3lyS0U2ZzFUME9hTlNzZms5V2ttT28?oc=5"
-      },
-      {
-        "title": "Są wyniki kontroli w Lasach Państwowych. \"Kuriozalne przedsięwzięcia\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnRVYnhfb1NINlYzOTZtRFpXdk1xSC1hV2FxMXM4MGc3OXpFa3NRUVJ6TkloS0ZDS2l4NW5lV2plbW9DQ0NDTEZ6T0tRMnctU1FiWHhOS1FHQzVOZ2ViZkxrWjdwNUhPdEJPcmhFZ0I3YS13MElYZEJpVnhSa2ltXzlsY0pLOEhMalNYb2xGdFdWUFlzSEJMeUJOdHRXZ0Q2OFZqXzllYjNhZng0YWdwSVhZMlFYY0dDcHF2bXln?oc=5"
-      },
-      {
-        "title": "\"Rząd nas zarzyna\". Przedsiębiorca komentuje zamknięcie granicy z Białorusią - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVl8tQXYtcVVLb2d6N2FJb0dUNG5xUnVGZkVTUUhHUE54T215c0gxRlRCemRBZlNnSUwxbW83R1BOMDZoQ2diNmdKcEZ6Q0EwRkhnMHBDUTBvaFZnWWJkOVBDcC1WdjAzanoxbkJCNUdCYVNDMmQ2akdNVzBnb0pOU1BnZGtlU2RHLXp2VG9rbHZQdGEwckdUdUFwWWM4WUl6SmFieHBn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-11 18:16:42",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Rosyjskie MiG-31 na Morzem Barentsa. Trwają ćwiczenia Zapad-2025 - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFRUcXBJQWp4TFRJdmx4bEhKZHFILU1BNHViVGd0MDhlTDFVMjhVNjBvX0ZCUVdqa2FDeGExX043eTJXVkRDeDlNLXNCM21BMzdrT2o0NVlLTGwyMlc3bUJMNDVUSTQ5b1FfaDh6U3dNTHBWUEQwaHU1VkJWUUJwLXBtVkY5QTlEZm1zcXFEbUt1aWZPWXg2YVhoQThaQlRXZkhjcmpoU1Q1enczU040MmROQ3ZhY21uVWc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-13 21:09:12",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 419448,
+      "DOGECOIN": 1.037,
+      "ETHEREUM": 16836.74,
+      "LITECOIN": 434.15,
+      "RIPPLE": 11.29
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Alert RCB w Lubelskiem. Syreny w Chełmie i Świdniku. \"Zagrożenie atakiem\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcndxTHgyMkJiX2xxb0QyenRkejZXa2dDdVpiNjB3VXczLU1qQnlMSWVQMUZIVlgzOTE4NkxOeUJSSl9iR2lXdXdNN3pCR1REb0twMUJLb0M4QXpIZFF6bGg5bmZON1V1cm1aemRYeFZ3UWpFYklSaXhfN3U5MElONUpOYmFQaGVXT2htazZEZDVNaDN6aFZXbk02MC14T0dKOWxhVVlFQVEyR01EOEdYZjVQT18td0k?oc=5"
+      },
+      {
+        "title": "Sekretarz stanu Marco Rubio o rosyjskich dronach w Polsce. \"Zostały odpalone specjalnie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXk1X2NzZFZKNjA3WmtfX3h2OXNzRFo3R3JWczduMjQwUnZjU3BvUERydER3THdjNjltMHk1X3VyY0hYNEhKdUp1cVcyMzcxUXo3eGFmLTluNXNZVmc4YjlQX0pzblhZNnJZT0xsczRwZ2Iwazhxa2Y1eVBrUlg4VVotS1JsRlc4SXBwVFJFVGZ5aFl2MnNHVVpyaEdCZ1d5akk1R25QTHQtOGp3U2FaT04yNjlPa3NhT1k3NXlZWGY4bEFnQXAzLTIyb0xlelIy?oc=5"
+      },
+      {
+        "title": "Rosyjskie MiG-31 na Morzem Barentsa. Trwają ćwiczenia Zapad-2025 - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFRUcXBJQWp4TFRJdmx4bEhKZHFILU1BNHViVGd0MDhlTDFVMjhVNjBvX0ZCUVdqa2FDeGExX043eTJXVkRDeDlNLXNCM21BMzdrT2o0NVlLTGwyMlc3bUJMNDVUSTQ5b1FfaDh6U3dNTHBWUEQwaHU1VkJWUUJwLXBtVkY5QTlEZm1zcXFEbUt1aWZPWXg2YVhoQThaQlRXZkhjcmpoU1Q1enczU040MmROQ3ZhY21uVWc?oc=5"
+      },
+      {
+        "title": "NATO odpowiada na prowokację rosyjską i rozpoczyna operację \"Wschodnia Flanka\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmlmLU04ZmFDbFFHVTg3amRTQVlPZ2xPQzNPMlZ4Q0p1NVJIQk1COGVoM1dDNDNPM3lVZnhLSTBCYzkxcUlNanJFZXhVaTYtd3FiTjhOVGJXN0pEWnByS0tqNVBkSk4xZWRIZXlrRjNCbHhrUXgydnpncEJUMVYyNm52V0NZTWFHUmwwbWVLRUdsWk4zaExWaVVNTTF4dUU?oc=5"
+      },
+      {
+        "title": "Trump stawia warunek NATO. Oto kto jeszcze kupuje ropę z Rosji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTBaV0JGS3JVLVFwQW5uQldPdFNpbHppVHp5dlo5OG0xczVQNGFiQzZ0WFZvckpLM091VUpoOXlmcmhGeUhKWDNwS2JNcVhNWE1Qd1Vjdkk4Njg5YTZndXd0eENUZ19IaXZqbC1iRzl6OEdsQ0gwb2FOM3dFV1lGMThUSmw0enBwb3htTDZXVFhTRFhTT0hNTFRkNElNR2FvVmh4bkZSZDl1OE5CN1pVY1VB?oc=5"
       }
     ]
   }
