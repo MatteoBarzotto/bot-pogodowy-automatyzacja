@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11 14:26:29",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6459,
-      "EUR": 4.2626,
-      "GBP": 4.9276,
-      "CHF": 4.5611,
-      "JPY": 0.024657,
-      "AUD": 2.4093,
-      "CAD": 2.6268,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 416981,
-      "DOGECOIN": 0.916943,
-      "ETHEREUM": 16262.73,
-      "LITECOIN": 428.06,
-      "RIPPLE": 11.04
-    },
-    "indices": {
-      "^WIG20": 2833.3,
-      "^WIG30": 3688.53,
-      "^WIG": 3688.53,
-      "^NCINDEX": 274.47
-    },
-    "news": [
-      {
-        "title": "Wielka akcja uwolnienia więźniów z Białorusi. MSZ: wśród nich są Polacy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUW9oMEp0R3kxTkRDcVJCbkN4YkpUYWNGYlo4dmtKR2R5R01rQ0hDN1NDWEg4T1VYR3NoLTUwZ2Z0SUlVLXBJeThYZXZmSzd2NVFtUUtYZkZnbzBfUmhCS3lheU93REx2Y295SlRiRWRvNXRldjVRR1pFbTVmLUJGUFBpZmtCRUtveG9fVUlmMjJkTDY0RWcyWkpabURicHl6SGNQc0tLelpaM0sxQ3RwNWcxb0F3dlJpMG44?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony w Polsce. Jest reakcja Chin [RELACJA NA ŻYWO] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnlYNjI4cUlGWlFvaFFFbzdzSHJ6dl9yb2dOTE9WTmxLS0ZRQnNRQ21zZjJ2b3htMjVFZlpXVzVLQkJRUEM5ZXhmYWd3OWdqNzhoeFhpUEZrRHVzZ3J1T05xRGV6d3JOclhxTlFjSVIxMlA4X2dEd3ZqelpfOTZlWllGWDd2Wi1aMml4TW96V3hSa3I0My1XTUZrazB3ZFE?oc=5"
-      },
-      {
-        "title": "Jest decyzja. Do 9 grudnia ograniczenie ruchu lotniczego we wschodniej części Polski - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2xGVVRnV01kX2RFXzVodE5lbkNIaDZIdXFwb0J4Mkx3SElid3VMS3UzdnVTc1U1a1NUVkhFMDNDXzZLQWpOc0ZiUTBEYXYxYmhIUFlSTEJYTFc1RWtUbnI1RThyOWlTNUl5X0otRjZsX0JzbW9PU2VjQ3ZMaFRBNWRkNTZDc1JiVThmdWR5eTlsODI1R0tRU3BsU2RTQVdWcXRMaHNUSnRfcEJIVWJEcGNvcFdac3d0RGhlQWFHd0VDZ2NFVlB3RnhLajNSSEh2UmgzNA?oc=5"
-      },
-      {
-        "title": "Zabójstwo Charliego Kirka. Donald Trump obwinia radykalną lewicę - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFdMR1RMY1hDejRVc1REZVQ1alhYM1V1aVk2MlZ5V1A2YWZjRmJTREdWOWM5T181bGdQOTRhRGJMVnNMbnhSTmRkSUlHWHNaNHVyWGktWVRSZTJOajVaei13Z08zSlE4Nkhra3MyNmZWS3VxTEZZQjFhNGZBbUl3VXdFUlhDbzJrWHlwTTN6b1JLZF85N3lyS0U2ZzFUME9hTlNzZms5V2ttT28?oc=5"
-      },
-      {
-        "title": "Włożył ośmiolatka do wrzącej wody \"za karę\". Teraz grozi mu dożywocie - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjd5QnBURnhuT1VCMEEzanJxanRMbnAxWVVjTjRQcWZNS1BaTHJpM0t6Q3ltckxISk1QWFBkZlBpNlZYMVdGenE5VHJ2TEZJNlJVWDFuZmJBX0pxNV9CUnZ3MGFiRkpyUjdCTUZYZTN5Sm5HVW92MkR3ZERoTTB6enEzeGlTZ09yQzF0M1dwdFJ4QXRYUFB0NU5oVW45M2RyYVpWaG03QjRKUFFSYThib1pWTDd5Z9IBugFBVV95cUxNV29nTzhPb1BEY1M4T3pJZHIzVmNUUV8zZXgyOWpVX1hrM3dLWmhzS0U1M2lNTFdnRWtOa1dGY3hrUjFvRko3VENEWDhaY0ZUVEc0eF9UQjYxbEtMeFRnX3Ztc3lKbzZrVEo3QVlGanNWbDFmM1I2SDNQY1JZcHFBUml4Zm1YVU5iclFZRlpVcVhQanFEdWdqWmF0aDJUWVdJNlVxWkRIZ0FZd0NwcXgyWUlyODlOUHRoY3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-11 15:19:48",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Co wiemy o zabójcy Charliego Kirka? Co znaczyły napisy na kulach? [FAKTY] - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3g3bWpBVmcwQncxWGUzV3N2NDl3TzlwVzNvS01XVnZyVzNDSTRHal85eHk3ZC1lZjJNQWtNR21xQlVYdWdrRTk4RXlOT1h4M0c0YnNERllSNlcyT3dIQlg4eTN3amVEWnVDU2RmMGFaWDNlY3l0TTVjenFFRUUwZXJhaFJaNXJyRXJMbk1HWHI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-13 18:13:39",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +23°C",
+      "Gdańsk": "Gdansk: +20°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 419646,
+      "DOGECOIN": 1.081,
+      "ETHEREUM": 16818.34,
+      "LITECOIN": 432.61,
+      "RIPPLE": 11.37
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "DORSZ: lotnictwo wojskowe w polskiej przestrzeni, zagrożenie atakami dronów nad Ukrainą - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUZQMnVwUlJmSU9kY1J5Q3ZhUHhmc1A3djlZcUJzVUZpcVJYbEZPeFViR19oRXQ0RU1FTXczUGtIVzlmOTRPNURqLS1aTzUxS004TGlUc2JLQWItbndFZ2xLaHFpWThtalM2S0Z5UVVVWFBaMzVBd29fdFY5ZUlGRWZnaUlzZ2haM0xxZ1U3LUZFUV96dWplWXNtS1NpeHhUSUZNY0V2MmF4SXNrcS1jbXNXMjRFNUE?oc=5"
+      },
+      {
+        "title": "Alarm RCB w Lubelskiem. \"Zagrożenie atakiem\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFNjRFBTZWZRRlBfWmgyLVhSOGJQVjJLZ1F6T0tBbFB1SGVxbVNFQlJPaW1UUzVhQ3o3NU5nXzh6NjVzZEZuWmVOLTluS2d0SDgtR1NGOUVZeXplRVJWUjhCOFN4Y0hTcEV3T1ZyQ092QzdmVW4zNlJrU2x4cDRuaVh1aDlFQ1c1Q0JRejctanhhY3NSMjR0dDl4dUd4cmw1UlJsMXdCYw?oc=5"
+      },
+      {
+        "title": "Trump stawia warunek NATO. Oto kto jeszcze kupuje ropę z Rosji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTYwQjN5SFNrTklYdkE5TnFVQURPbEg4SHlSMTcwUkZyTVFBYnQyODUwM3JJX24yRi1uTXhxSzdLTnFZYVAxaFdzYmxwbTRvT3c2LVdLendZdVY3eHZLMDQ4ZXNGa2cwX3BOaGZERXVlNDlldjBVQ21yeEV0R1JpeGxVNjNqSTdGVlNxT2tPYU5OWGhZdnl2Rmx3Z0c5bVZseWRBbU1lTWFQWlRiSFdvTEx5UTRXcnhUbVRlRzVGS1JscnA3M1haWA?oc=5"
+      },
+      {
+        "title": "„Kompletne bzdury”. Andrzej Duda komentuje zarzuty wobec Donalda Trumpa - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUkzYmxSLVN4bXJpOTg2MkoxbWhxdEZadGF1a0RwMEx0ZDdBTkZ6QjlwclY1QVdWbDhiRWs5WlRETGJTajZoa3Mwc1NETEI2eFhvX0d6djh0VXdMSmQ0bVNLc04wNzdnOXVZZWo4VW5sREtiLWpTa2NoZm5ERS1pb190VFNCM3FWWmJVZ0JPWGFiMkxNbXg1UDJWZ2dnSjE0MUxDY1d5cHQ?oc=5"
+      },
+      {
+        "title": "Reprezentacja Polski siatkarzy zmierzy się z Rumunią w mistrzostwach świata. Wielka niewiadoma przed meczem - sport.tvp.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEhCV2t4NUNKQ3FMZVZOeWM1Wno3ZnhUSlNlbEZQNzlac1hWRzlrMjFOUTYxaGk1aUhHY0lkU2JyajREMk5tRUI5dHZiRmN1VnBJM292UXJnWFo1WHV3WEZuUDA5UVBWQ1VlNzZZVE85WFN3WUtFUDZXT0JoQVJGR3c5QXRYbVpnaGFHYVdaaVlBcmxsTzZVdnVUTXl2SFVlQWhxRjFkRlVwdHlTSjdBRWsyZ2FKbE9EdVZ3dUNGWnRmTmlkNW5EMzVmOFU3M3NkM1HSAdcBQVVfeXFMTjlubFJ1SjF1YkZPYkNMamFYREo2Q0xDNk50bWFHTzdmOHBYWktzSm00b3ZIelBIVVExQldwYmhZS0V0dGF6eGFaRGhRWDRRU0pPWFo3ODkxd1RUVHZfaVpicmhuVnN1eW9KRk0zLVhvVXNCMnFONW82aHE2NlowbnRHdVMtcWJBWlloc2R0cEN6R0d2YkNkY0Q1MHJHMmJpeE50WUF5amxhREk1NUxzWC0ycWNoOVBiQ2dlZ3pUVVo1VUk4STRySk9DN3NoWDVKcWNRblFjaDg?oc=5"
       }
     ]
   }
