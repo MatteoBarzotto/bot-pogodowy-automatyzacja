@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12 21:10:12",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 422118,
-      "DOGECOIN": 0.981238,
-      "ETHEREUM": 16765.54,
-      "LITECOIN": 424.56,
-      "RIPPLE": 11.15
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "\"Mówię w porozumieniu z prezydentem\". Tusk o sytuacji z dronami [RELACJA NA ŻYWO] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR3FBaEVPUFdTY0xIVzhILWxsaHBkeGZaX1gyMTdVemFIMF9yMU41Y0JPbmMya0JZY1NBR1p3dmwtUDZJZWJXWU12VWM5UzI5cldDUlloUER2QU5RMWg3M3ZTbFRCT1hDb1lRTHQ4Q1FERF85dXFNWVZwSGlRTmhLbXpPYnpNakNjOTJGSWdqQ243RDRNemdGLWtfU0NSelVDTUtyRkZSRDhRZ0tkRkhPeFNtYnJRVWJH?oc=5"
-      },
-      {
-        "title": "Wybór nowego szefa NIK. Jest decyzja Sejmu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXRNbGdhNXBEdnZEQk1sWXpYWUpKMWU3WWhFRjJaWERTSU5XNkRWMzB0ZVVpcUoycERLUldEdXllQlpmR3NNeHZPSnoyZVNGclpBRlBkZUE5dXZGMjVCZlljOTRsT0VWNHF0SmxjdlJRX2RseVVXUFNWWWxoQmtUNjVJcWNUa3gxVEMzOTM2UnVXOExNYmtBZU9NOUZpeW9wLW1fNFJB?oc=5"
-      },
-      {
-        "title": "Rozmowa z rolnikiem od drona podbija sieć. Ale ludzie zwracają uwagę na coś jeszcze... - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDJpYnJXNnZkTGd0RlR0ZjBNcGtMS2VQLXVNelBaYXh5aTd4N1dPczhSRkNCSFU4TzRtbUdzbGlYeTFQdjE1YVdHS1NxallDellFcE1odEZkOHpzcy1YOUxLeG5CRXhnQXdORlJjdjltUkRVRFEyUks3dmxOeUZKNEZGaUMzbE9EMkFCUUFuS2hFTnprRWFVak8tclBOdw?oc=5"
-      },
-      {
-        "title": "\"Wielki Bu\" zatrzymany. Patryk M. wpadł w Hamburgu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0FObHljeG11ZTBRbVFZZmZhRU9hbEF6RG9wOVBMemUyOGRNM2pkeUdmWW1pZVhVdUVHLUx3cWd0OG1VRWd2OE5JTFVhUzh2N0hLSl96VmNjeFEtRERIaEx2VzZDRzRMMDlXczZ4Z2xHam9TTU12eVFBdzJaRjR5c1RFb3E4M0t0eGdxQ25YZ1pkTWs?oc=5"
-      },
-      {
-        "title": "Mark Rutte ogłosił, jaka będzie odpowiedź NATO na wtargnięcie rosyjskich dronów do Polski - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUJtdXhKcUVmR05qbHhob2trTk9rQmhadXhRR0pNVFJwUFg5eExFU2tDMjRDcFNkQkg3bU14UUtLSkt5Z3VKUHpHTDF3YS1ZQzYwOU5ReGlJcFJKOV93QVlHMzJtamNEdm5GaUFqV3hmVHo0UmR2dmRfYzM5QWZpQ1RwMmxhN3dLN2FaWlktN09VcnlKNnRyMVFseDdZb3ZuczB4NEVfU2M4dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-12 22:14:32",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Symulują atak na wroga. Rosja wystrzeliła hipersoniczny pocisk - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzdWSG5XMGx2Y1RubWFGWWhFN2dCYVpTUWNSTUI0U3F6RDRWcGVDQnV6MkIwQUk4R1FzeGkzcXY3c2RWOEpUR1FwZXg3Z0pkZkpfVFVLazdBeVUzdmoyX0lUdWN5ZzMzZTRick9nc3RMM2hNdjFPSWNGQm92bV9hVW1ZaGlxbXM5THUtU3JYZFZrYUJib2s5YUxrVTA1WWZpN0ZHNDRvNE5nQUFBY3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 01:11:16",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 420158,
+      "DOGECOIN": 1.017,
+      "ETHEREUM": 16762.43,
+      "LITECOIN": 419.49,
+      "RIPPLE": 11.05
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Lewandowski notuje \"wejście smoka\". Cudowne gole Polaka, Barcelona zdeklasowała rywali - Sport Interia",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdzBocW5aME5INExkdDJfV2dtMGZGTmZDZmNBcnd4amZVUHFFWHEtZkZuZVVzRVJCVWZlX2dtMUpBeHJFR08tR3kyazBpU1hENDI4dUNzck5kUkw4T1AxWmw5QnE1aUx6MW1BNUdLMWJYWWJzTjZxdURlakZpaEhPSWlNeUNoa1Y4ZGJUN1JpVXQ0R3JnSDNXRlJWTHNLMmNWUDQ4bk9meHI4bGpyZDllX19ocWh2LXRlREJnT3pZSWU?oc=5"
+      },
+      {
+        "title": "Operacja Eastern Sentry. Niejawne postanowienie prezydenta Karola Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Fla3Ixa0xLeFBTbDBlMHZDc1hyQnJJZktzZ2RzbUpJYWU3NWkzU0c4UkxKRnNqTUlQRk5WNnRPNDhsbmVKV0RxZVgyalBUNzNVdlV5ZUp4YUFxUzNqV3JWUGc5amRxSEtYak03WHVuRWtpMEJSNGFVMG1jOXlMNW1kb3NwUENPSzNoSFRaOTltaHBhWFVpd1RHUkZSeUxIcUFjdXltSFVmenp2SUdHVTB5Mkttd0k?oc=5"
+      },
+      {
+        "title": "Przed dronami Putina bronili nas m.in. Niemcy, ale nie USA. \"Ślepo stawiamy na ten sojusz\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3R5a21DM0lneld2VFJnRkdNVUh4elVYWjBlMkNiSmtTVWdfOTFDcmEwNHBpOEkwNi1QUWdCcnZFczFmTnMxR0tqd2ZsNXVIcElyV2hDLV9BNUJ2MWlmOXFlckRpaUYzVzgtTWtDWXB4dmljX2d6cVh0TDBFVEt1WTlTcWVwX1V6cWtiSVdEeTNCR2dQc3BEaTJfWlUtTWRkMzdveU4tdm5ULXZkVThOYXZR?oc=5"
+      },
+      {
+        "title": "Balice wstrzymały loty po incydencie. Samolot wypadł z pasa startowego - GazetaPrawna.pl",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQm9HUEJGVGRZVlRIM3VvbF9xVnhxMHBPR21zWFUyRU5EZVpYdzV3MHc4TnRHcmJabXVzc0ZTZDI2VDFWZENDRW9xR1lLRmNjcnFDSW5fTndmQTBLbUVtMDdpeGJTUDlhLU1BOG1PTWpDTHNxNy1jRUFuc1I3WWxIekdMZXU2ckkyanVnU0NaMWdWaXFHQ01yQlZFRzhmQzNEaHJtM1hQZzJZcjBzSndVX3hDN216b3plOHY1Y29wRjBHVWJObTEtS3gycVlaTjA?oc=5"
+      },
+      {
+        "title": "Dlaczego szef chińskiej dyplomacji Wang Yi będzie rozmawiał w Polsce o Białorusi? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3RrVkZrSTlLTmg2TndsQ1JKYTF4aER1bDVwZldWamFKaG10SndQUVdSeXdsNk4yTkVyTkpLaEMtN2s4VXJKV29acGVpZHNTVUw2RFI5YVVYNktOeWtjVmFFcGtTVFZKYnpjUmdULUZJYWEybGhSLWkzWGlkNXV0azFGdHZXNW1mUzNKLW9rOHV1SHhKaWVZdzltVTNOdFoybUV4SGdvSFdsOV9FSk5xYUVQRjEzQ09YaUh5alp3?oc=5"
       }
     ]
   }
