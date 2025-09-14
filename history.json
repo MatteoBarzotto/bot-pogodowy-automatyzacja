@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12 03:00:45",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +22°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6459,
-      "EUR": 4.2626,
-      "GBP": 4.9276,
-      "CHF": 4.5611,
-      "JPY": 0.024657,
-      "AUD": 2.4093,
-      "CAD": 2.6268,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 420178,
-      "DOGECOIN": 0.950222,
-      "ETHEREUM": 16379.02,
-      "LITECOIN": 422.43,
-      "RIPPLE": 11.09
-    },
-    "indices": {
-      "^WIG20": 2855.75,
-      "^WIG30": 3715.44,
-      "^WIG": 3715.44,
-      "^NCINDEX": 273.27
-    },
-    "news": [
-      {
-        "title": "Donald Trump o rosyjskich dronach nad Polską: to mogła być pomyłka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFFSVFBUR1NneG1rYVpRUUFjYTUtQWttWVg3akFfUDFKREVOb2lFXzgwNm1aeU9wdURCYnFqQ0kxWWx6clpxZmlyVDRXcEg3d3J4RDFWeUhKbHBYU1NJVDBYd1BLMnZTS3B6U0FwY3BhVC1NQWtISGxvMFFBVHI3OGdGQ0thX1pHaWlZQ0x2Y29xZ1dvWFp4UllVbGlJSHlDTFB4MmdnbE1PQQ?oc=5"
-      },
-      {
-        "title": "\"Maski opadły\". Tusk o zdrajcach i dezinformacji rosyjskiej - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3JYQVdndlY1YXZqWEt4WmhfeFV1NXVuV3Q3aW9DSjN6eEcxZE9jSE1BT2RnV1lvd3FzWTRXQzBhRmlCa3dYZEw3b0hwSzc4TDVPU0JrS0FzYktXRV9weFpSMld6ckRjNnhwbVNkczF1T3dUcWFZWFJabzkybGZzSmxmTXZTMHlYeElqTl9oSVpCcjA3QWNHTW1tYkNMUlF2Y0pHWENNT25KQ2VSRFVmQWxEWm9IZw?oc=5"
-      },
-      {
-        "title": "\"Rosja wzywa Polskę\". Zacharowa o decyzji względem Białorusi - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQk9QY19pX09QRmU0dWd0VDMzRTQtdVNyYXhUUnZaVkF5b2Vub0NIQjJ2MXhPM0I1d1RoTzFDMk5meFR5VVp2U0tDNFdUZDhjcWN0Yl9OQlJMaUYwd3hpdm1GSG1RanBhcmtsYTZjbHJRT20wWnZqQk5LX1dPTlRoWDR0WlJSRWp6d3pMMzZ5bGFPVmozSkhrRkNBMmJVWTY2QlRWa0Uxem9sTGNvY0JTQ25QMWp5QQ?oc=5"
-      },
-      {
-        "title": "Kolejne miejsca, gdzie znaleziono rosyjskie drony i szczątki rakiet - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm1oRFQxTlR2dFJVNk5lOG9NYVFTVTRXSmItcWVRQ0w3NjNVZ09XVG1fUjRpTExzejN0blMxU0FMSTQ0bFNYaE1ENUROQVdBcmlNTE5TTm9mSlhwT3JIWC0zTER3TjVlbklqZm9EYXFUQUNNcVZJaUFiQ2dUdy03TEpadnlHaVQyV0ttS0g0OVpoOHNWWUhPa3FZa215aGNsZ08yeWhZQQ?oc=5"
-      },
-      {
-        "title": "Halucynacje Domańskiego. Budżet zarobi „kilka niskich miliardów” na zabraniu dzieciom 800+ - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjdDMF9ZMFhmM0t3NFY5N0llQU00SXFKTkNobllnclBCZ1ZzV0RaYmpXNVdKNkRBYW1qTVBscURZUHZ3QUpBYm9tdmhTMWNaVjJzRnc5Mkd0WWc2enAyQ0JuZTg0STdfc2lub3paS2ZMakRra3RhRm9hYkctU0FpcS1pbzlCRWVJdWQ2QjFuQkUzdXU0YV9NSXpLa3hfOThGSXhhLU96dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-12 04:50:39",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "\"Wielki Bu\" zatrzymany. Rzecznik o reakcji Karola Nawrockiego - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1BWa0dVS056UHdEOGNEdVprYUM1YmkxU0lPcjVSOEhnQVBRS3FqeEdJRUYtaTk0UHN3OUw3RWhkZTJXeFVrSGVvRDgwTmV3VGdPYzNNazJOVjZ0bG04QUJBMS12SkFnMk1EbjVsQWQzQUZfSnprZzB2c3RKNlAyZEtVOGZJamdCaVluM1RnMndwMnNVRVZabFMzaWx1ZkFuU2dB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 07:12:05",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 420175,
+      "DOGECOIN": 1.042,
+      "ETHEREUM": 16952.6,
+      "LITECOIN": 425.26,
+      "RIPPLE": 11.25
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "List Donalda Trumpa zmienia politykę NATO. Sankcji USA na Rosję nie będzie. Polska w trudnej sytuacji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0ZkZGwyUlpXQW04cmc1SVhKLXJTWE1JaGpkLTJQSG50VVlFNmVNWmpMMXJUTzdSNG5MNTI4c3loZXVqSjFJOWxYaVh6eHkwU1l0Q0w3d2prOG9FZkRTbmdJVU5ST0dGWHdPZDM0S1JucS1qbnBKOHJnY19BSlFDdkk4UnA5VkZwWlhkaE5kNGp4YkZUM1BubXpVR1FQWXNmUkFZajlNT3ZReWdLMU5nSTVXWndxV3NrZTUybEFqTjFqZkdhZGF4SFMxRkVrYlk?oc=5"
+      },
+      {
+        "title": "Alert RCB: zagrożenie atakiem z powietrza - InfoSecurity24",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkpHRzQyV3ljX2tEdll1RzhoNGducU83VTNMQlNaYU11MXJHUmthWjk2QlhTb3g4cnkzWGZrOXd2U1RIMl82ZDBiTGZZMmIzcWFoVUhobHZVV0ljNURDWF9zQUYzcjlZSjduaXBVdG5JVVZNbkdkbTB4eWJFZ3FvdmhQRzZjdTZ6dlc3eHhDN0F5OTA2blZz?oc=5"
+      },
+      {
+        "title": "Zełenski o rosyjskich dronach nad Polską: NATO nie zawiodło, ale trzeba odpowiedzieć - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0hhTUhEWVF4UjY0S2QzUGprRExPTkJmSVRwRy1DQVpldHh6Q210Y082WFBQYThnclFmd3kyVEhSN29IY29hdXRQOExNN3B2dUgwbGxIdEpWcUtXVTdmQmZJTE9QTjRtaWhPbXFmLU1oajFfNEpwMkJaQVQ3X3dzOUtoTmRHbHdtUDVuOXhMdGdVOWZ3eC1DcjlzQm5NbHlmcE1iX1gyRjFNXzlLWng1T1pKcw?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony nad Rumunią. Wysłane myśliwce F-16 - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2lkX2dwcnBHbW4xTWUyR0M4OXJjYzJvOWxYOXphOGxHUHR3N21IZ2xwbmxUeURYTzB0cjJHUEllT0VuWU1hZ0lZUVQ0UXhaQTBRRlRKWXVreTdnMFpjOXdydjFvaU0xU2FzbktFRkhsQ0ZsOWlRZ3EtTXBDZTVpUDRjSzhmUUdQWlVvaEpVMlY0MnN5ZjdPUnRUUWdncDlp?oc=5"
+      },
+      {
+        "title": "NATO odpowiada na prowokację rosyjską i rozpoczyna operację \"Wschodnia Flanka\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmlmLU04ZmFDbFFHVTg3amRTQVlPZ2xPQzNPMlZ4Q0p1NVJIQk1COGVoM1dDNDNPM3lVZnhLSTBCYzkxcUlNanJFZXhVaTYtd3FiTjhOVGJXN0pEWnByS0tqNVBkSk4xZWRIZXlrRjNCbHhrUXgydnpncEJUMVYyNm52V0NZTWFHUmwwbWVLRUdsWk4zaExWaVVNTTF4dUU?oc=5"
       }
     ]
   }
