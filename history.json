@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12 09:12:34",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6459,
-      "EUR": 4.2626,
-      "GBP": 4.9276,
-      "CHF": 4.5611,
-      "JPY": 0.024657,
-      "AUD": 2.4093,
-      "CAD": 2.6268,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 417537,
-      "DOGECOIN": 0.947285,
-      "ETHEREUM": 16460.88,
-      "LITECOIN": 420.27,
-      "RIPPLE": 11.07
-    },
-    "indices": {
-      "^WIG20": 2866.19,
-      "^WIG30": 3727.02,
-      "^WIG": 3727.02,
-      "^NCINDEX": 273.27
-    },
-    "news": [
-      {
-        "title": "Ruszają rosyjsko-białoruskie manewry Zapad-2025. Czy jest się czego bać? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDVkZ2hWMDBvUWdqV0ZXMFZuS1MzNW5GX2NBR1h6WmFRNUdCdEp0d25SNmFHTzNXME1lcldyQUg1dFJqcGg5LVBwNHJVMVF0QnVOcUN1UjBHdnF2ZTJ2NXBoVVpYeUMyLUhIVy1NNk92RUJTdWtuU2I0ZUpuQ2xUQ0trZTN3eWdJcFdLeVRsbVZud3g2R1VkMkJOODBrTXBtdmVSRW9kVWlndllQMHd3Qg?oc=5"
-      },
-      {
-        "title": "Polska energetyka gotowa na kryzysy takie jak drony? \"Za bezpieczeństwo trzeba zapłacić\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNENxb1lsY3Zmd2VDUTFoamF2cE1MekxIcHhfV1REZVprOFplQ1ZlRXN5SnlNcEZ4bXZlaXpnQTBPRWY3cWFNVTJ3QWxSWjBLSVpOaEE3Q0d1dXlxNk42cTBaeWlNM3ROSk96eHhTX196bXZFT3pUeVJabDJxT3BvUkpQd1hGZVFXMUlkQWdlclVXYVRFdVZNSUZQMEtZaGZ1akRtNXJqaE0yZGtaanB6cXA5UWNvcWc?oc=5"
-      },
-      {
-        "title": "\"Dokonała tego Federacja Rosyjska\". Jasna deklaracja po posiedzeniu RBN - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbW9TaGxIMldQVExQRkpvbjU0cnJSakZNM0d6MEJGOTVWUTdDekgydktjbGtsdDQzR2s2WjktdlBGdDBjYjhELWlOZy0zNWJDRmpROTl4R2NmcVVSZHotZDV4Mjh5TlJ2YzZLVHRQcWZ0ZktJRG1KRWN0MW1Vei1KcU1hOEQwTVhsTzctNkZpWml0Q2pMM0NBZTdEZVBNbDhmRzJTNTA5TUpFbkYwQ2ZTZlJpeEVLejF2SG1uRWY3ZWpkSkpUUWNiUDVtblRIemdnVGNjLTJB?oc=5"
-      },
-      {
-        "title": "Nowy sondaż partyjny. PiS liderem. Zaskakujący powrót do Sejmu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONE1GVF84Vzh4b3p2YktCZEwwMVhTRVdBcXFiQU5OaXVBUHRQd2xmMjdwRmlUWW9STk1EOWYxVzZSUGlIa05TWUw4VTRYY3g4bWF4d0h2WFA1cWZFdDRhRTU5RnEtYTVZR0pQN21yaDhDVFFmTzBUaDNmVEplSUpaRFZfR2NqYVd4UUdZWEE2UmhtN2JyTlhWTEVsdWpjRjYtLXc?oc=5"
-      },
-      {
-        "title": "To on zastrzelił Kirka? FBI publikuje wizerunek - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUE9jRmdEaGM0a09rbEdKeG9GekJpWE5BR2JJRFMtTnZSSjY5dWNaRTVldUVnanJZdEg3aEY4LVRCWTlpVmV4YjhNQUpzdkJxSW10TERNY0pzUWF1UnBmcnVYV0M2RzBHaFU1QXRUXzdDWXRXQVF5cTFDR0lqNVlIUVNRVXEyQU5XV3JyWTBCM05xTlE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-12 10:17:42",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Żółte alerty IMGW. 14 województw zagrożonych - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0U3YlkyNVJpUHdTRTVhSG9YcERITXpPNFlHVG4zQWxFX1BfTmVBRm5yVXBHWDlGdHpYckN0N1hKa2FQa2FCbWNTVjZkSlhWVnFNWUotWTdPNWticGRRVWVsaTZ0WHBhQ1VvbFd5V3FXbHNYbG5uMzFWTnVMV3FlalJsb203NWZrbXM4dnVKdDRad3ZKLVBweHctTlBZdlJYU1BCR3RmamhQQkNrQzBwSlFtQjdtNlY2czJRYXhqZ1NlMFRnaUNycDEzX3RKSzZhRGpwdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 13:09:09",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 421277,
+      "DOGECOIN": 1.05,
+      "ETHEREUM": 16929.05,
+      "LITECOIN": 423.13,
+      "RIPPLE": 11.2
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Mieszkańcy nie zareagowali na syreny ostrzegawcze. Władze miast planują konkretne kroki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFVseFJuaHg1bEJDNEw4b1JnWTl4SlQwMGxycDdzOFprdXB0UVJsZ0hfNnlQMDVINzQwM2FCTi1wZHFKaW9hNFczUTdIaExqR0hXSjJmYTJQdW1kaDdUaFRQRTF2Q09xdy1ZZGtKVVJ2OC1aeWxiMm0wVkRjUzdxOHhYN3VHVm5DYkI1b0ROZldzSWN3QmU4b2k5OEF6T2xrRGVxNkZPa1JTRHVPTWJ3MEJGd1Zla0tBb1ZsalRPVW9IX3dNNUU5SWJHZw?oc=5"
+      },
+      {
+        "title": "Zełenski reaguje na list Trumpa. \"Przestańcie szukać wymówek\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlR6S0JKVklyNWpwZXNqTTVsS0pfNWhOYS14ZzZuUGFpTDZQN0tXNzBSM3JjNUQybUFhRWV5VTB3UmhhT0xQMGVmY3UzVzlYbVZGNHBCRUxFUG54NFgybmZxc0FwMnEtSTRFZDNZV0RDZ0ZYUHBLUWRQaFN5ZWRVcWVfQ3JjWWIweFQ5TEpuM0RBLVUzT1phRkthRnJNdGFPUER3?oc=5"
+      },
+      {
+        "title": "Przed dronami Putina bronili nas m.in. Niemcy, ale nie USA. \"Ślepo stawiamy na ten sojusz\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3R5a21DM0lneld2VFJnRkdNVUh4elVYWjBlMkNiSmtTVWdfOTFDcmEwNHBpOEkwNi1QUWdCcnZFczFmTnMxR0tqd2ZsNXVIcElyV2hDLV9BNUJ2MWlmOXFlckRpaUYzVzgtTWtDWXB4dmljX2d6cVh0TDBFVEt1WTlTcWVwX1V6cWtiSVdEeTNCR2dQc3BEaTJfWlUtTWRkMzdveU4tdm5ULXZkVThOYXZR?oc=5"
+      },
+      {
+        "title": "Atak ukraińskich dronów. Pożar w wielkiej rafinerii w Rosji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDNGTUV0dUNaWkxGd2pONUxIbFRzNFRGNkxudm5rZXhnd1hOSlNndmxmam9Za1dTZzlDY3BOVk1XdTFiSUQyTkRobGxtMW5rdHhGWThOUXFtR1dXenZpNGEyM0xPcDBGLU03azFfaVRldlRZdlN0ZGhnNU5najYwOWZoOW5Zd2pha2dJc252d284cGFiOGd5NDgzSVpXSmQwQkU1bDBFQmpVQTBpcjNvLXZVbw?oc=5"
+      },
+      {
+        "title": "Atak Rosji na NATO? Niemcy pełni niepokoju [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVowV3ktOXg0b3Q5OW1LTXBycnhBa2luM0d0b1U5RVVEVFhJRkdfNmpJZFlMQ0dvQmhnOE03WV9DalVTTWZuVEtoNGZ5YVNvdEYyVDJFbERhamQyVHhNbDNhSjlmbmZ5SmJ1RHBuREFwVnFQWE13UldobnBObGFlSnhQVmNhTjlpQVJ0bG9sZ0FiUXlOTUxjTTlfOGRjTGdHSzRtZmE0TkVqTVBaYS1JalFnVGdlM0xmQVc4?oc=5"
       }
     ]
   }
