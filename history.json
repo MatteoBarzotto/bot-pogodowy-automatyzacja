@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12 06:15:03",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6459,
-      "EUR": 4.2626,
-      "GBP": 4.9276,
-      "CHF": 4.5611,
-      "JPY": 0.024657,
-      "AUD": 2.4093,
-      "CAD": 2.6268,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 418263,
-      "DOGECOIN": 0.946,
-      "ETHEREUM": 16368.23,
-      "LITECOIN": 418.73,
-      "RIPPLE": 11.01
-    },
-    "indices": {
-      "^WIG20": 2855.75,
-      "^WIG30": 3715.44,
-      "^WIG": 3715.44,
-      "^NCINDEX": 273.27
-    },
-    "news": [
-      {
-        "title": "Donald Trump o rosyjskich dronach nad Polską: to mogła być pomyłka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFFSVFBUR1NneG1rYVpRUUFjYTUtQWttWVg3akFfUDFKREVOb2lFXzgwNm1aeU9wdURCYnFqQ0kxWWx6clpxZmlyVDRXcEg3d3J4RDFWeUhKbHBYU1NJVDBYd1BLMnZTS3B6U0FwY3BhVC1NQWtISGxvMFFBVHI3OGdGQ0thX1pHaWlZQ0x2Y29xZ1dvWFp4UllVbGlJSHlDTFB4MmdnbE1PQQ?oc=5"
-      },
-      {
-        "title": "Premier Tusk: każdy, kto będzie chciał zaatakować Polskę, zostanie potraktowany adekwatnie - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFhqNTMybnNzcXQxdXUyRzBnQ3BhWC1MOEQyRnNQUjJVckMyV2pfWTdxS19lZl9oUzliYXB3NFVjUE81MC16bWctbldnY1QweXpPam5SaTAtZzkwVHMzdnZZVHFhT3BaOTdLQWtNcHgtQ3FQaVhLYUJGN1phYVdrU0hRd1kzend5QWNXanJXWkNyVDNkY3lHRGlfS1hRaUt5LUd1aXhsZjdhUEs4bkQwOVdqVmswbjFwRFE?oc=5"
-      },
-      {
-        "title": "Moskwa uderza w Polskę. Żądają zmiany decyzji ws. granicy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVG1neEFhbk5PaFZEOFBZRzQxcWI3RHNsTkRxVndQMWhpNmdmN0gyek9vMDFTSDJwVzV2SUkyTzBhV3d4cnZHLWFmcWJXejNkaWdSQ3hpcDd1WGVQSlZtN0h2S2ktU09fTHhSYTBPZ21LOVE0d0JQbkNBSTJhUGI5SFIxYVNoUjNwMEhQcjUwQ1RVNG5WMDZic1ctZF9YenUwUDJZYmVLWDNVZDdFbnQtaHA1WTlQVGs?oc=5"
-      },
-      {
-        "title": "Dziennikarze TV Biełsat na liście uwolnionych przez Białoruś - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0dGVDV3VEw0bHBlcFhhckUtcmlNWkQzUFl2eHd0dEZJUnp0R00tVXR6b2RKQnY5NU95a1hhWGlGX2VKWWoyekNPQUtpcWVWOWN5ZkNKNzVpcDZiYUJZaXNWMjUzVVh6ZmFzZGE1N2swd0xhTFM1SkZTVGI5aVR6MnY3VVNVZm1iS0F2YXQxMUdHb19TRDkwRUpYQzhRVUNkNF9lVnNYM18xRk55b3pv?oc=5"
-      },
-      {
-        "title": "Kolejne miejsca, gdzie znaleziono rosyjskie drony i szczątki rakiet - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm1oRFQxTlR2dFJVNk5lOG9NYVFTVTRXSmItcWVRQ0w3NjNVZ09XVG1fUjRpTExzejN0blMxU0FMSTQ0bFNYaE1ENUROQVdBcmlNTE5TTm9mSlhwT3JIWC0zTER3TjVlbklqZm9EYXFUQUNNcVZJaUFiQ2dUdy03TEpadnlHaVQyV0ttS0g0OVpoOHNWWUhPa3FZa215aGNsZ08yeWhZQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-12 07:13:17",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2645,6 +2592,58 @@
       {
         "title": "Protesty na ulicach Londynu. \"Największa demonstracja w historii Wielkiej Brytanii\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdy1zQ182dC1fS3JrNTN2ZTFqLTNXMXFJNl9xNUpLNDk1bW9nQjJZQVYyVG9uQ3k5OVJ1NDVkNVdHQzcyazhkTlJGczRkWXl0WnNQYkN6aXo4bWNXZWs0QVgweGVpNjhwSm8ySG5jQ21uR3NVblFyc05GSnE3LWR1OF85YVJJSWd0ZHFvREhPVjVhRVZaYndmUThadUZKaENjQ1QyREdTd1FQMW1qcG9BejA5bFBmblB1QzlRYUxJZzZiTHkzZW5F?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 10:15:34",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 420203,
+      "DOGECOIN": 1.057,
+      "ETHEREUM": 16887.46,
+      "LITECOIN": 422.96,
+      "RIPPLE": 11.18
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "\"Stan Wyjątkowy\". Polityczna wojna o ruskie drony. Nawrocki dostał lekcję od Trumpa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTQtRTEwd0N0cjJITVZLMWxfSEJrMHR1aXl4YV91Rzh0TVpSRVpSY3JSX2tRUGZ5Ulk1NXF2c09aMnhGVU8yUGRQamhIeTlRY0toZmRLaVcwUVNGUDBNNUZGZlVYQzA0TXNGYV9semU5VEJHT05kVURPWFNHdHNDOGxFZ203VV9Na0FqMC1pZWFGU0s2TjBVbkR3OTVfbEFMMDZVMS1WeEN4NUNGUDNYQ0ZhUi13bktLNjNHUnlnQnJ3UFZRUGkwbw?oc=5"
+      },
+      {
+        "title": "Trump \"gotów nałożyć silne sankcje na Rosję\". Stawia warunek krajom NATO - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEhiVHVyQkFhOFkzMWFkak5xRmJJSC1LbjFORDB6YXlUbWVLZTMxN1lzWnJhUnI1UTdpc1pXaXlCMzJEc3BpUm9IcHEtcE50bUpvcUtVS3pSN0xDZzNuRzBDREZ6dE9CVG4tWDZ0c1o0cmlWeGFVcW1rR0RaZzRXX3lJajhBUTd3Szg2dFBfSXJZNlgxcWFyY0Y4SzVQM2M1ei1LM2dabGRJSXBEVlAtMDF4cG5qNWRrSTlZUw?oc=5"
+      },
+      {
+        "title": "Poderwano myśliwce, rozesłano alerty. Wojsko o szczegółach sobotniej akcji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkk5RTZkTW9rdVJfU3Nwd1djSzZEZjM0bkQ1TXBlVzFBMEF2SnBrdUtnMnc1VWJMZVEyLTYyRTU4Um5CWnBPVXUzc0pIb0dNajg5X3NkV3hyZE4yalVMaUJQRDdGTnZIYXZfb2NKUW85QWkwQlpKbnJacXk4UkhJQ0VUX2tHeFhCUGN3eEczWk9RcGpJbmFBVXZjb0VRNDJRc01NdXozUDdyNlhLTWk1RE1FSy0xOGVUcG9JUw?oc=5"
+      },
+      {
+        "title": "Żółte alerty IMGW. 14 województw zagrożonych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0U3YlkyNVJpUHdTRTVhSG9YcERITXpPNFlHVG4zQWxFX1BfTmVBRm5yVXBHWDlGdHpYckN0N1hKa2FQa2FCbWNTVjZkSlhWVnFNWUotWTdPNWticGRRVWVsaTZ0WHBhQ1VvbFd5V3FXbHNYbG5uMzFWTnVMV3FlalJsb203NWZrbXM4dnVKdDRad3ZKLVBweHctTlBZdlJYU1BCR3RmamhQQkNrQzBwSlFtQjdtNlY2czJRYXhqZ1NlMFRnaUNycDEzX3RKSzZhRGpwdw?oc=5"
+      },
+      {
+        "title": "Tarczyński na wiecu skrajnej prawicy w Londynie. \"Podnieście głosy i pięści!\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelFMSkNrLUxYY3VyakYydTNGMzJOeXY2OTl4emh2NVZPbjJRUWtBclVtOXZGU3BmRjAtbVlCY1RCdmlKSkQxRmdFYWI1UGw1aVEtWGJMazF5SFJKR18xNEtEZVlGLVNVRm9pTW9kQjhqcTEtbXpPS0FBTzU2WG9iNEFVdjVjLTk4Tl8zOG11TGVORnBLR1ZQVWk2eE9TVk85SHc?oc=5"
       }
     ]
   }
