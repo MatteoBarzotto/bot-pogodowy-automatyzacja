@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12 20:16:34",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 420685,
-      "DOGECOIN": 0.981196,
-      "ETHEREUM": 16723.36,
-      "LITECOIN": 426.69,
-      "RIPPLE": 11.13
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Oto nowy prezes NIK. Mateusz Morawiecki powierzył mu w przeszłości ważne zadanie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3JHNHkzSkpCcW1KLTBwNXh1VkdIQUQ5SUlJbzVBV0EzOVJFcW1aVm4xU1RTRHVKZjRZck5UQUhEMmREYjlwVUxucFNiMHZUOUlUR0dpWnJJQnc1dmd3bFNTYm4wMXNFdjJFZTJNZ1NkOWZ0bkZaOEJzcHFqUldZdUJnakZTcF9YMHFRM05wT01OSUJjamJ0ZXZwXzRQUkVQMGhfeW9jOEFnaEd4eHZJX0xhc1JuZ0F4RW9Z?oc=5"
-      },
-      {
-        "title": "NATO po nalotach rosyjskich dronów na Polskę. Padła nowa propozycja - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNal83c0RiZDQxRG1QVlRwWlhXdHd5aEhSRXZHMXhwMDFaeHBxci1PM3VpMW10S1JVeHFMVTQ2ZXZBVko0LTVaM00zN3V2bF8wMFhYSjF0QnNMeEQ5bnRJMGdxTVhaSEEtOHl0a0hGR0pHTmw1ZmV6Q3ZVdUJnRlhDbmZrTm85b3BldXpFTnZ0al9vaXJMNTdBVEZZVmZXMkZDYnpyX1RqS1I3aE5NeEVWeUhLWkYwNm9CYUpqOWNnWQ?oc=5"
-      },
-      {
-        "title": "Potężna dysproporcja. Tak wygląda wymiana handlowa Polski z Białorusią - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbndPMk13U2l5MHpteVdlbDNlRnNsQTlPUTB0d3hxaUZVZTk4MG40MWlSTHNTd0I2c2FBdVlWVlBfY0h2OVVhdlhJMS1sSWRNeWZmRUd6NnJ5NTVyOXNHazdibmpxdXhBaWk4OGlIVHZ5OHdpbDYyVUtLTG1pd0tOeUVZQTE2b001Ulp5YzhJaVd0LWl2a3ZFOGstOHJsNmN5RU1PR2RqZDhYVGhOQjNDeEtDVHdyM2hHRUtOcVpqMEl3MGc4aVlB?oc=5"
-      },
-      {
-        "title": "\"Wielki Bu\" zatrzymany - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TbFZ1YktzWkttVm1zRkZ1LWxmQi1XUk1MSExqUHFtVmN3ODZzQlBmUlVLRFBUTG9ISW5KZkJOSDFwdG9sLTlxTERHbHFESjZlbTM0QS1kU1RjdW5PS01Wb2d2b21ucTNvOFJ0emthSTZzZnVlLUU1QWE2MWM5dw?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski opowiada Amerykanom o rosyjskich dronach nad Polską. „To nie błąd” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUx6MUtWUTJjX1ZyY1F6ay1RTmZ5OElPWDg0aUtBUW81ZTBMelJyR1hsMmRUd3NvU01nYmpycmhxVmFHRjFrWERLQ25KX0V5RWgxUFZyXzI2aERtQmtuandFTWU0QWpOSmxYQ1hkSG5rR0pyaU1RWDRNNFNqXzRJei1wREl3dGJ1cGwtZ2N6QjZLSndZUWNRMDdDS1lOcklMUDZpVVBhNXVOaGdv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-12 21:10:12",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Nie żyje biskup Antoni Dydycz. Duchowny miał 87 lat - Onet",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjVnamRFQXNPWWFVMVU1VU5CY1AwMzF0Z0tNQWluU2MwX1hsZm01dm95bFBqNE5fM21jblV1WThsS1lxOXNMZndwQXVsYU8wcXNDdFo3Znd2U0tTYmF1M3djUnE0Vzdsc0NnY1VtZ1JRN1RVSENVSWxnS1p2RF96VkRzUnVYOHlxRmp4S0NhdDU2UkhIMDkzQ2ZhWXQ2SFc2TDdF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 00:11:47",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 420611,
+      "DOGECOIN": 1.016,
+      "ETHEREUM": 16740.53,
+      "LITECOIN": 418.87,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "FC Barcelona - Valencia CF [RELACJA NA ŻYWO] - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWE1GMHRYVXFyQVAwS0JyeGZ4WGdzMElzamJ5dk1zMktEOExCajhmaTFINGtkUUEySGxmRFI5c0VtVnFGMUQ5OTNQd0xuMjJvY19iQWNMLTFMYzkwVHkxdmVxSlNOT2JMa0g3dDZvSGprektYeVJxR3BNbzJoY201cm1uc1RrUzFlbmdyTk5kcUE4d2kwczRWQi0wRUE0SFJ4QS03NlZvaWx4dw?oc=5"
+      },
+      {
+        "title": "Operacja Eastern Sentry. Niejawne postanowienie prezydenta Karola Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Fla3Ixa0xLeFBTbDBlMHZDc1hyQnJJZktzZ2RzbUpJYWU3NWkzU0c4UkxKRnNqTUlQRk5WNnRPNDhsbmVKV0RxZVgyalBUNzNVdlV5ZUp4YUFxUzNqV3JWUGc5amRxSEtYak03WHVuRWtpMEJSNGFVMG1jOXlMNW1kb3NwUENPSzNoSFRaOTltaHBhWFVpd1RHUkZSeUxIcUFjdXltSFVmenp2SUdHVTB5Mkttd0k?oc=5"
+      },
+      {
+        "title": "Przed dronami Putina bronili nas m.in. Niemcy, ale nie USA. \"Ślepo stawiamy na ten sojusz\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3R5a21DM0lneld2VFJnRkdNVUh4elVYWjBlMkNiSmtTVWdfOTFDcmEwNHBpOEkwNi1QUWdCcnZFczFmTnMxR0tqd2ZsNXVIcElyV2hDLV9BNUJ2MWlmOXFlckRpaUYzVzgtTWtDWXB4dmljX2d6cVh0TDBFVEt1WTlTcWVwX1V6cWtiSVdEeTNCR2dQc3BEaTJfWlUtTWRkMzdveU4tdm5ULXZkVThOYXZR?oc=5"
+      },
+      {
+        "title": "Samolot wypadł z pasa na lotnisku w Balicach. Trwa akcja służb - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnF3cy16LVQtV0VOVlNQbEpWN0pBNlVINlN3a096cERiekIwN1JqTm1CQlozZEJfM0RjNUNHdG92elFwQThfdWRaQlRHNjJZbVB3Qkk3N0t2b2pYanBYVG1wLTZvbVMzMVVEa2ltc1d5YW9yU3JXQVN5ekpsX0Y4dWx4UUMwRWlpX1U5QkRXaXBQcHJwWUlRRUZWdmpnWVNQcldRV2VMXzUwNWVvaUVFY2Y4NA?oc=5"
+      },
+      {
+        "title": "Symulują atak na wroga. Rosja wystrzeliła hipersoniczny pocisk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzdWSG5XMGx2Y1RubWFGWWhFN2dCYVpTUWNSTUI0U3F6RDRWcGVDQnV6MkIwQUk4R1FzeGkzcXY3c2RWOEpUR1FwZXg3Z0pkZkpfVFVLazdBeVUzdmoyX0lUdWN5ZzMzZTRick9nc3RMM2hNdjFPSWNGQm92bV9hVW1ZaGlxbXM5THUtU3JYZFZrYUJib2s5YUxrVTA1WWZpN0ZHNDRvNE5nQUFBY3c?oc=5"
       }
     ]
   }
