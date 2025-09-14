@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12 19:11:13",
-    "weather": {
-      "Warsaw": "Warsaw: +23°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +21°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 419067,
-      "DOGECOIN": 0.979965,
-      "ETHEREUM": 16579.62,
-      "LITECOIN": 424.93,
-      "RIPPLE": 11.03
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Donald Trump o rosyjskich dronach nad Polską. \"Nie powinny znaleźć się tak blisko\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkRXT0hobGxVSVhWSk16T0tYUVBXOFF4aEtQSUM0X0lHcmZiVVlSdnpyai1tUkh0WUV3WWdlTGc2dXlKaV8wSDBLQm5XLWRqMXU4bWctUVpvQlVkek1uV1NMWjh0bVRId3RYcjJVOXRueC1xc0kzb05NcG9ieTZDZjVqMEs2U1lFcndNdUFPRU9zVGFhYlJDSWg2SGZHR2JTbk1FMmpEVmNIQ05yU0VqN19RYVZBWDNKejN6Sg?oc=5"
-      },
-      {
-        "title": "\"Wielki Bu\" zatrzymany na lotnisku w Hamburgu. Miał lecieć do Dubaju - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVRkVXVFc2l1OWtOU0thZ3RuTXdSSVpqQktVd2tOVXNxMEd6RlVqQmljMWdYcll5Z1E1d2doNTgxeXhRUXlGMVJQVE94YllBLVdRVHI5WkkwLUlkeVhnRTFxaFVUWG9lMGlrMTlIYnYwbGFLLWN5STRFT2dnY05HWHN1T2t4bHFsU3hFeE0tZk1FN2xBZ1V5TFFnUi1oTVlxSEREZHBGTHdvZw?oc=5"
-      },
-      {
-        "title": "Polska zamknęła granicę z Białorusią. Ten autobus już nie przejechał - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNci1rRzRfTExRYV8tbzBoZTlwYmVqWlNpakdhNnhLQlo1bFRhcjRWcDF3S1pfcHN3dmZtTkM5WVdQQTcxRzRKVDQteFlsLXNvY3NMQTFmT2g1YVl5S1dzbmRfc0tSbzlyWVRaM256OEg3TnVXMW03WkVSRU5sMC02SHRFajFoSTRmYm9paWg4TGlyNDVJeDhrUW1XRFg5SzZGZkhjcF9RMWZRcXRfend1Xw?oc=5"
-      },
-      {
-        "title": "Charlie Kirk i amoralny nihilizm współczesnej prawicy. Oto tekst usunięty przez Facebooka - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzVKZGtta25oVjZQTTNtSFpTdzRmSzdNaFhoWTFTaVJKMlc2OUlxai1YTS1aaU04b01EMzBaRXhMYlNMNzYyN0xpMURyY0RRaG5zQkdhSmdLTjVLTzhXWWV1aHFWa2tpellEUGZGcTBhZUF5QS0wcGc5NmZDc2R5ckhVSy1QbGJXZTRHcnpFUmszNFM1MUFPbUl0aXUwLXlXRXl2OGNIUnFfZw?oc=5"
-      },
-      {
-        "title": "Polacy ocenili Karola Nawrockiego. Zauważalna zmiana - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFM5YjJQZU8xV24xTWVma3FWQUw2OU96TG5TZTF4TGNSSFlPSGdwZ3JsNkRIS0ZpYkFIa0Ywd2NtdGdtRS1VZllmOWFTOFU1QlVoTVVrNmIxS3hDT0p6QkJuYmNlVkdES1RZM042eXdhbnJpR3U1NXNPX05YRkR6QWllbjI0NW41X3BvQzh3X1BvTW1pa1htV293MmdoUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-12 20:16:34",
     "weather": {
       "Warsaw": "Warsaw: +23°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Marta Nawrocka na Dożynkach Prezydenckich. Wszyscy zwrócili uwagę na jeden szczegół - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcm5sNDRRQXlCSkR0dzlNLVl4QmRUSlhXbEVsbS16YUFJQ0pKdXB0TnljdUM2M1ZSU3RBbm1TcklSSEk3MVQtMXZRNXFjNHVKVDR3Ql9jZk5Pa0ZvdWVmZzF0Ty02NXFQdUs3bEhTZ2FfQnI1YmZBNjNjbkY1THVJb09FcldNdnVLdFNHbG92QUNhNnhpS2F6UzBhTEtvT19sOWhMWU9kRlFnWWpkQzBFWE1Odm9qNjNhbHNxd1QzNE5odw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 23:10:39",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 419619,
+      "DOGECOIN": 1.011,
+      "ETHEREUM": 16706.06,
+      "LITECOIN": 417.7,
+      "RIPPLE": 11.0
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Operacja Eastern Sentry. Niejawne postanowienie prezydenta Karola Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Fla3Ixa0xLeFBTbDBlMHZDc1hyQnJJZktzZ2RzbUpJYWU3NWkzU0c4UkxKRnNqTUlQRk5WNnRPNDhsbmVKV0RxZVgyalBUNzNVdlV5ZUp4YUFxUzNqV3JWUGc5amRxSEtYak03WHVuRWtpMEJSNGFVMG1jOXlMNW1kb3NwUENPSzNoSFRaOTltaHBhWFVpd1RHUkZSeUxIcUFjdXltSFVmenp2SUdHVTB5Mkttd0k?oc=5"
+      },
+      {
+        "title": "\"Putin otwiera drugi front w Europie\". Ekspert wskazuje, o co chodzi Rosji w sprawie dronów nad Polską - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVBSckFzZ0hOaWxkNlFQcERWdnpwaEREckZpbHRxcklJTllxVEtIWVFpdk1FXzJaYUZpbzRzNFNOSlhBWnhBcEhjLW1UVDNIZlNlb09OVnhLNGJwQ1VXTVpmVXRrTmdjZ1hxYy1CcmFXdnAxajhNVndILS1CV3gtOGtxWFpsaGNLRk5za1h2bGNEc2VqX0tpTnFveF9GUlNGclpUOTBSVFZHLTNVVGFDMXlveTE5RHpwb0xQU1NsMA?oc=5"
+      },
+      {
+        "title": "Samolot wypadł z pasa na lotnisku w Balicach. Trwa akcja służb - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnF3cy16LVQtV0VOVlNQbEpWN0pBNlVINlN3a096cERiekIwN1JqTm1CQlozZEJfM0RjNUNHdG92elFwQThfdWRaQlRHNjJZbVB3Qkk3N0t2b2pYanBYVG1wLTZvbVMzMVVEa2ltc1d5YW9yU3JXQVN5ekpsX0Y4dWx4UUMwRWlpX1U5QkRXaXBQcHJwWUlRRUZWdmpnWVNQcldRV2VMXzUwNWVvaUVFY2Y4NA?oc=5"
+      },
+      {
+        "title": "Symulują atak na wroga. Rosja wystrzeliła hipersoniczny pocisk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzdWSG5XMGx2Y1RubWFGWWhFN2dCYVpTUWNSTUI0U3F6RDRWcGVDQnV6MkIwQUk4R1FzeGkzcXY3c2RWOEpUR1FwZXg3Z0pkZkpfVFVLazdBeVUzdmoyX0lUdWN5ZzMzZTRick9nc3RMM2hNdjFPSWNGQm92bV9hVW1ZaGlxbXM5THUtU3JYZFZrYUJib2s5YUxrVTA1WWZpN0ZHNDRvNE5nQUFBY3c?oc=5"
+      },
+      {
+        "title": "Nie żyje biskup Antoni Dydycz. Duchowny miał 87 lat - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjVnamRFQXNPWWFVMVU1VU5CY1AwMzF0Z0tNQWluU2MwX1hsZm01dm95bFBqNE5fM21jblV1WThsS1lxOXNMZndwQXVsYU8wcXNDdFo3Znd2U0tTYmF1M3djUnE0Vzdsc0NnY1VtZ1JRN1RVSENVSWxnS1p2RF96VkRzUnVYOHlxRmp4S0NhdDU2UkhIMDkzQ2ZhWXQ2SFc2TDdF?oc=5"
       }
     ]
   }
