@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 15:16:08",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 420617,
-      "DOGECOIN": 1.081,
-      "ETHEREUM": 17125.8,
-      "LITECOIN": 435.16,
-      "RIPPLE": 11.48
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Donald Trump napisał list do wszystkich państw NATO. Postawił warunek w sprawie Rosji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFRvVlZiZi1YelI0YVgwY1NyWjEzbTFtT19KVUU2TGUyOVRNcDV5bi1FZF9odm1Bcy1ZZjM1OGtfZnRIbGF1YkNDMURLSF9wSjd2WWdKM0tlWUpIeno3NDdYa2V2QUlfN1ptd05NQWdiajdXU3F5YUdWMDZZU3lhN2k2TlNSdmFaSy1rX2s3aGd1ZzNETDBWS2ZrNENDSDdBczBfdmdTZUlJSWM?oc=5"
-      },
-      {
-        "title": "Wielka awaria terminali płatniczych. Problemy z płatnościami w całej Polsce - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmFzVG0wWDRNVUM4Z2pLeGdzaEZnbi0xR2ZRRW8wSXZiUncwMWtHMWJaQXhHdGpIaU9rWDhHalpqekRVdDBDamtMT0RKMXZmRVhDTVNhUGVoMTlfNFFNMEowVERtc1FGTkxxQXo5X3d2enUzWXNwZzVMaGRhUnR1Nl9XaWZqV3Vwa2ljRWNXdVNDcjhRQUhvbTFxOEN4VHpvYlR5TnpoSFVJaTRtN3UzbGMyQzFQX1o1SmNZZ2djVHhSMEU?oc=5"
-      },
-      {
-        "title": "„Kompletne bzdury”. Andrzej Duda komentuje zarzuty wobec Donalda Trumpa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUkzYmxSLVN4bXJpOTg2MkoxbWhxdEZadGF1a0RwMEx0ZDdBTkZ6QjlwclY1QVdWbDhiRWs5WlRETGJTajZoa3Mwc1NETEI2eFhvX0d6djh0VXdMSmQ0bVNLc04wNzdnOXVZZWo4VW5sREtiLWpTa2NoZm5ERS1pb190VFNCM3FWWmJVZ0JPWGFiMkxNbXg1UDJWZ2dnSjE0MUxDY1d5cHQ?oc=5"
-      },
-      {
-        "title": "Polacy przy granicy dostali alert RCB. \"Możliwe odgłosy strzałów\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQejV6YUdRTGVpZXJxQzR0aENiTU8yaDZfZmNfdFBzY0FrT0xGemthUFktSkl6c0p3eGxZeWtqUDVrcVVUYmZtTFp0WU9HbENraDBma05tSndvTlFlajZOU2dHN3lPRWZtRDJneFhzeHp6bno5aUhmc0ZydzBhQVZodnJVdzdBNnVRM3Qyc0E4cEMzZUU5cUpTVk5TZG9qcjNtSEIzOW95SDc2aloyaVBNWW1n?oc=5"
-      },
-      {
-        "title": "Premier wskazał dwie partie. \"Stają na głowie, by zdjąć z Rosji odpowiedzialność za atak\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWElfOHhEYnAyZm5lbWNLTHFBMC15R0RRZURkTEFYOE4wRndldTJWUVYtaEo3Q0J2ZnFnY2QtN2lzME1zd250TWZXMlFTMC1mbG9ZMWt3N2lidllDR1BybjBCZ0pRQVZyVUVzZ1ZFR0JRRzNTMGJFR3hZbzBtUjAydDBsMk5reHBzV3NWNmczNDRUZGlsNVFjNWl4YWN4aWc1?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-13 16:10:05",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Bosacki dla \"Wyborczej\": Na Radzie Bezpieczeństwa ONZ stanęły za nami 52 kraje. Byłem bardzo podbudowany - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1VYU0hGbkNfQmNRVVhBeUlmSjFDcVVDcUl6bmRXSm1Cd2E3d1o0aWV4WHNIT2pyY1dPMkFBX0Z3WUplZk1FeWtBeVNvb3doZ2FlUGV3LUdBM3NXTjZqcVlFZVE3UEpqc2hRLW00VmVoZWU5Z3dlWXFGakZqOEZvTDR5YU9idkpwY25HWW1NLWpzTEluM2tzaFhyOTQ5b0kxRHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 20:19:24",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6188,
+      "EUR": 4.2476,
+      "GBP": 4.9148,
+      "CHF": 4.5458,
+      "JPY": 0.024549,
+      "AUD": 2.4101,
+      "CAD": 2.616,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 415197,
+      "DOGECOIN": 0.95611,
+      "ETHEREUM": 16224.82,
+      "LITECOIN": 407.24,
+      "RIPPLE": 10.83
+    },
+    "indices": {
+      "^WIG20": 2866.16,
+      "^WIG30": 3731.4,
+      "^WIG": 3731.4,
+      "^NCINDEX": 277.57
+    },
+    "news": [
+      {
+        "title": "Białoruski minister grzmi. Jego zdaniem Radosław Sikorski powinien się tłumaczyć Chinom - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZllxWDRaWnh6eS0wNzJDcldCWDhlUUxuZmFFNU9nenNTV3prQ0RxTHQ2SWJNUnotYjFydnZUaWxoZk94aFpwMDNIbjE5VG9iemtsUU9Ca05Gdkhaa3BleERDZ0U2cU8yVkZ2eWl6OVhZQ3RUdkJyNjluSkdPM3BjSkxBeEpNLW1GY2Z1blI2Zl9DdDJkTF9nMVp2UlVEZUk4QzV2SFRob25HbEYtbG91SFRJLWtJeGFTYzN6dnk3WGxWQmxXVXFDcHFfc040MVBkRFhKeg?oc=5"
+      },
+      {
+        "title": "Wizyta prezydenta Karola Nawrockiego w Berlinie. Niemcy zapowiadają współpracę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXpQdmJySV9YRGFqcDJBc3laeHNHYXo1bUlCUHRJdFV1dTg2MjVqaXhvTFl4NVRubXB4S0JFbEEzNGw0MW5zVnRMT1NCSU1HbVdJZDQwSEtyT2hHVkpLRVNUcFNpMEpMeUg3OGt3TV9hc0VmRVN5OXdlT21rb3lkNTA1YmdMdEpBb2QzaWctMEVseVhqMDNPV2F4Nm8yajgtVzJnSWg4NVEzdmxIdWt6UWxBTVFYQmhtNU5aVGNGbw?oc=5"
+      },
+      {
+        "title": "Bosacki dla \"Wyborczej\": Na Radzie Bezpieczeństwa ONZ stanęły za nami 52 kraje. Byłem bardzo podbudowany - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1VYU0hGbkNfQmNRVVhBeUlmSjFDcVVDcUl6bmRXSm1Cd2E3d1o0aWV4WHNIT2pyY1dPMkFBX0Z3WUplZk1FeWtBeVNvb3doZ2FlUGV3LUdBM3NXTjZqcVlFZVE3UEpqc2hRLW00VmVoZWU5Z3dlWXFGakZqOEZvTDR5YU9idkpwY25HWW1NLWpzTEluM2tzaFhyOTQ5b0kxRHc?oc=5"
+      },
+      {
+        "title": "Rzeczniczka KE odpowiada na apel Trumpa. \"Jasny plan\" ws. odejścia od surowców z Rosji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR25fc2ZLVlNySnJYM1ZVQVhZSHlDWFJVNkFhcWdHd0k1RTRmYXZaQWFDYzBpNHE5TWYwZ0JEX0pEUk1IMWJ3amZnSHJnWTdLYVpvaXREQk1NaWM2ZHY5bDJONmUwS0hoLS1CSDZ4UVhGcFc1c0VZdzZvdG0zZjZWaldJLW9yUVFoUndRSWp4RjdwNjRWTTJmaTVRSEt6bDJZT0c3eG5Ma3F3STR6VE0yb3N6ME85Rldpeld6YmtFLXZyNGRNbVRGWXdEUkpUS3hHZEhj?oc=5"
+      },
+      {
+        "title": "Minister Żurek odwołuje ostatnią grupę prezesów sądów z nominacji Ziobry - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQU9zRWx4RjB6a2xaWlpEdGlGbkxlSTF1ZG9XTmk2TmQtQzVoTDQ5eTRwM1RFcUQtVkVqS3VGZUp0LVY5VDY1V214cXVBNmlaT2hnaGRCSFBxY29MMUNxdmNrYmtjVTducXprYjU2RVVxMHpYM18yREtmcEtNck9VLV9xdU8xVzN0cHNwZ2JMZllzNXVBb19JMUZjRGNfQQ?oc=5"
       }
     ]
   }
