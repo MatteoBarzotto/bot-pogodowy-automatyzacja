@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 18:13:39",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +23°C",
-      "Gdańsk": "Gdansk: +20°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 419646,
-      "DOGECOIN": 1.081,
-      "ETHEREUM": 16818.34,
-      "LITECOIN": 432.61,
-      "RIPPLE": 11.37
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "DORSZ: lotnictwo wojskowe w polskiej przestrzeni, zagrożenie atakami dronów nad Ukrainą - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUZQMnVwUlJmSU9kY1J5Q3ZhUHhmc1A3djlZcUJzVUZpcVJYbEZPeFViR19oRXQ0RU1FTXczUGtIVzlmOTRPNURqLS1aTzUxS004TGlUc2JLQWItbndFZ2xLaHFpWThtalM2S0Z5UVVVWFBaMzVBd29fdFY5ZUlGRWZnaUlzZ2haM0xxZ1U3LUZFUV96dWplWXNtS1NpeHhUSUZNY0V2MmF4SXNrcS1jbXNXMjRFNUE?oc=5"
-      },
-      {
-        "title": "Alarm RCB w Lubelskiem. \"Zagrożenie atakiem\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFNjRFBTZWZRRlBfWmgyLVhSOGJQVjJLZ1F6T0tBbFB1SGVxbVNFQlJPaW1UUzVhQ3o3NU5nXzh6NjVzZEZuWmVOLTluS2d0SDgtR1NGOUVZeXplRVJWUjhCOFN4Y0hTcEV3T1ZyQ092QzdmVW4zNlJrU2x4cDRuaVh1aDlFQ1c1Q0JRejctanhhY3NSMjR0dDl4dUd4cmw1UlJsMXdCYw?oc=5"
-      },
-      {
-        "title": "Trump stawia warunek NATO. Oto kto jeszcze kupuje ropę z Rosji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTYwQjN5SFNrTklYdkE5TnFVQURPbEg4SHlSMTcwUkZyTVFBYnQyODUwM3JJX24yRi1uTXhxSzdLTnFZYVAxaFdzYmxwbTRvT3c2LVdLendZdVY3eHZLMDQ4ZXNGa2cwX3BOaGZERXVlNDlldjBVQ21yeEV0R1JpeGxVNjNqSTdGVlNxT2tPYU5OWGhZdnl2Rmx3Z0c5bVZseWRBbU1lTWFQWlRiSFdvTEx5UTRXcnhUbVRlRzVGS1JscnA3M1haWA?oc=5"
-      },
-      {
-        "title": "„Kompletne bzdury”. Andrzej Duda komentuje zarzuty wobec Donalda Trumpa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUkzYmxSLVN4bXJpOTg2MkoxbWhxdEZadGF1a0RwMEx0ZDdBTkZ6QjlwclY1QVdWbDhiRWs5WlRETGJTajZoa3Mwc1NETEI2eFhvX0d6djh0VXdMSmQ0bVNLc04wNzdnOXVZZWo4VW5sREtiLWpTa2NoZm5ERS1pb190VFNCM3FWWmJVZ0JPWGFiMkxNbXg1UDJWZ2dnSjE0MUxDY1d5cHQ?oc=5"
-      },
-      {
-        "title": "Reprezentacja Polski siatkarzy zmierzy się z Rumunią w mistrzostwach świata. Wielka niewiadoma przed meczem - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEhCV2t4NUNKQ3FMZVZOeWM1Wno3ZnhUSlNlbEZQNzlac1hWRzlrMjFOUTYxaGk1aUhHY0lkU2JyajREMk5tRUI5dHZiRmN1VnBJM292UXJnWFo1WHV3WEZuUDA5UVBWQ1VlNzZZVE85WFN3WUtFUDZXT0JoQVJGR3c5QXRYbVpnaGFHYVdaaVlBcmxsTzZVdnVUTXl2SFVlQWhxRjFkRlVwdHlTSjdBRWsyZ2FKbE9EdVZ3dUNGWnRmTmlkNW5EMzVmOFU3M3NkM1HSAdcBQVVfeXFMTjlubFJ1SjF1YkZPYkNMamFYREo2Q0xDNk50bWFHTzdmOHBYWktzSm00b3ZIelBIVVExQldwYmhZS0V0dGF6eGFaRGhRWDRRU0pPWFo3ODkxd1RUVHZfaVpicmhuVnN1eW9KRk0zLVhvVXNCMnFONW82aHE2NlowbnRHdVMtcWJBWlloc2R0cEN6R0d2YkNkY0Q1MHJHMmJpeE50WUF5amxhREk1NUxzWC0ycWNoOVBiQ2dlZ3pUVVo1VUk4STRySk9DN3NoWDVKcWNRblFjaDg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-13 19:09:35",
     "weather": {
       "Warsaw": "Warsaw: +21°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Zamrożony eksport polskiego drobiu do Chin. Oto co ustalili ministrowie - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtzMUNreGViTzdaQUVrLWVxbVlzZDNTb0hDVmp6RTNkUEhhb3pWVlAwVXdONy1WQUtzZ01PakNOczNqRXU1bkg1SVFFd3IxTWk5Y2hSZ3M4eU9KTGFUS0ZfcXFMZXZhSVRSZFh3MURiT3hYVXltQ0JGdDZMUnpKaGlOR0tOUlVZd013ODFkSmZ2U0g1VkMzZzFkVUU1akQ0UTBIcHcwVi1ReXFKR2VvMWdMbFFJN1ptcndIVTgxTDNWSG8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 23:11:37",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +22°C",
+      "Gdańsk": "Gdansk: +18°C"
+    },
+    "rates": {
+      "USD": 3.6188,
+      "EUR": 4.2476,
+      "GBP": 4.9148,
+      "CHF": 4.5458,
+      "JPY": 0.024549,
+      "AUD": 2.4101,
+      "CAD": 2.616,
+      "CNY": 0.5081
+    },
+    "crypto": {
+      "BITCOIN": 416618,
+      "DOGECOIN": 0.962573,
+      "ETHEREUM": 16307.25,
+      "LITECOIN": 409.45,
+      "RIPPLE": 10.82
+    },
+    "indices": {
+      "^WIG20": 2866.16,
+      "^WIG30": 3731.4,
+      "^WIG": 3731.4,
+      "^NCINDEX": 277.57
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki w Berlinie. Tak nazwały go niemieckie media - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXdYaXZSSjR3NVRCNnNFcG0wV0dMaVNQU0NkVEExdUVOQ0dEUTNHdGQ0M0dCc05qV3MycmlkYlUxODZ0MHVteW5RSmFycnJGTC0ybzEtS19Ba0JhdFdzZE5zRzZTQThTeWlocnpFdDF0bmtCLTlZQnlfV1hQZmNZSDcyc3F1aEN3UHY3aU91YTFhaGpiWWRGTFRSYXR3RjVKdlFnXzlyOHp0Q29UVFJYUk5NSEFpdU9xZ0dON3RTWQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk: Służby zneutralizowały drona nad Belwederem. Są zatrzymani - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzM3eW9ISkZLWURmRmtpdHhDcm0ybFJpNXdkWHhMTjJnMS00RnBZYXR1NFZsNS1RVnV2X2JhNWstbzh6SC1UaHFmeU5FcjJKWWlPOEZvR3phSVdWeFlWZE5LdV9nVVVrMUIxdm5MNzl1N3dWLVlvT0FqMnJNTjFkcmdZd2w1NGI1LXE5TTJORE9ob01uQUtNVHJQcjE3dUluRUh0NVQ5TGNYMmtycm9MWW84MThLSnFCYmo5RA?oc=5"
+      },
+      {
+        "title": "Po spotkaniu szefów dyplomacji Polski i Chin. Co ustalono? - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXc2dlctSGx4MEhNRDd6eW9GdDU5OWlmME9YUUJPZ3pDRmRGM1JrYVlmaUc1S0drQV9MVWxfbFAtT25LN25fWEpsNFFybF9rX0paTkowYVc4dG85bDZXQ2ZfVDdPN2xVQ0c5dVJ5N0I4NFJjMkt2UVlUUHdCTWY1Sm1nWHZWX3BrTFpPVGJVQkE?oc=5"
+      },
+      {
+        "title": "Sufit runął na ziemię. Ewakuacja galerii handlowej w Toruniu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3Z3Rk5RQlJVa2RjeGwzQ2VSUFIzOFl0Z1VVcFpiWG9VM3cwalFPRUNZWDhLdkNZb0RhNG1ITkZYVWlud0tBaFQxYlJpSDNLNFVCdTh5RTZJSG9nR2FjLXg3TDBlMnowazlpM3NjTUhHdnpkT3hJYXpIT3Z4LW5mRVJhM1VWbE5nMG1OZ004d3ZTR2hicUxTM3lYZ09wUkJHLU5OMENRN3hQQVo4U0Q4VzhPVVlRQQ?oc=5"
+      },
+      {
+        "title": "Rzeczniczka KE odpowiada na apel Trumpa. \"Jasny plan\" ws. odejścia od surowców z Rosji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR25fc2ZLVlNySnJYM1ZVQVhZSHlDWFJVNkFhcWdHd0k1RTRmYXZaQWFDYzBpNHE5TWYwZ0JEX0pEUk1IMWJ3amZnSHJnWTdLYVpvaXREQk1NaWM2ZHY5bDJONmUwS0hoLS1CSDZ4UVhGcFc1c0VZdzZvdG0zZjZWaldJLW9yUVFoUndRSWp4RjdwNjRWTTJmaTVRSEt6bDJZT0c3eG5Ma3F3STR6VE0yb3N6ME85Rldpeld6YmtFLXZyNGRNbVRGWXdEUkpUS3hHZEhj?oc=5"
       }
     ]
   }
