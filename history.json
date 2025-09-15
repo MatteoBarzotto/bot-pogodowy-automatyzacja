@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 02:58:16",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 421870,
-      "DOGECOIN": 1.005,
-      "ETHEREUM": 17088.86,
-      "LITECOIN": 429.03,
-      "RIPPLE": 11.26
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Rada Bezpieczeństwa ONZ. Rosja sieje dezinformację o dronach w Polsce - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDcyaWZfM3FibDVHLTBMZTJVWnYxTm9zUzZNNDRHMEstVGZGcFRGaDJ1bkJkUjRZeTMwWk4zcGVMWjJqTjI2T0F0dHVXTVZrSFYwOFJxSXdmdlNfeEs1a2NQRlA0YS1xNTJ5QjBGVDA2VjFaYXFTd0lLMmhhWG10UUEtQlpaaWIxU2RTaVhVaDA0V3BpdlY5eWV1UWRHWVgwWEM5Yi1NWUJCSXk2cXpZVnJYcEY2WUVibTgxQXpkY05namhxVHc?oc=5"
-      },
-      {
-        "title": "Awantura w Sejmie. \"Może być pani cicho?!\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGswMlhzUmJWSzBnc3FLUnMxbjJDMm5wdG14dnJZYmZEbEdWOUs2eUM2aEpMT1IwUmVaQlQtQnJLTEE4QVhfSllHNmpVNnhPc3Y0S0ZoQ0hVTlI4VGxTRElzSGNiZ1k1ZWdCYTVLMnFrYjJaNlNqVmV1N1Z6LUFLWTh5Yw?oc=5"
-      },
-      {
-        "title": "Mark Rutte ogłosił, jaka będzie odpowiedź NATO na wtargnięcie rosyjskich dronów do Polski - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUJtdXhKcUVmR05qbHhob2trTk9rQmhadXhRR0pNVFJwUFg5eExFU2tDMjRDcFNkQkg3bU14UUtLSkt5Z3VKUHpHTDF3YS1ZQzYwOU5ReGlJcFJKOV93QVlHMzJtamNEdm5GaUFqV3hmVHo0UmR2dmRfYzM5QWZpQ1RwMmxhN3dLN2FaWlktN09VcnlKNnRyMVFseDdZb3ZuczB4NEVfU2M4dw?oc=5"
-      },
-      {
-        "title": "Służby przeszukują las w Warszawie. Zgłoszenie o szczątkach drona - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVnJBOEdzS1hzWnc2WmlLNlNEMjFITy1KSTdXa3ZsNmdySTZEX25vTldFRk1ObjFIZ3ZiRURIREJDY1hrMUZfX3VLNjluWDBrZTZGVHNtWXRuNVZreXN0LVk0elNNdHNUc1d1aVJsZUczdk1OWXlYNko0anVmTEdOUmNhZW1seE53WWdqc0t1SElZRXVpelJfTXZGU00xTUpoNGpQbw?oc=5"
-      },
-      {
-        "title": "Polska zamyka granicę z Białorusią. Białoruski opozycjonista: to \"atomowy pocisk\" w reżim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzkyMm15RFNndXp0VXFaaTNVY0FpMl9uM3ZHWEFYMXAyaUpmN3ljdXV5SkplcG1sT0s4a2N1Vmw2VjFfYkI4d1dLSURfSERkZ3JYMk4wUG1FV1N3bDhwcjVlRnh6d1RZMG9RMTFxdG9MSEhtSUtKNXkzSl9vNW1EclhHcG9rZGRRdFVOV0tPTkhOZGZWREtTYmdKY0xyYVNLUmM3RldlYVNfUV9YRnY1VHd2eDkzaFlxbDBGNnhsNTl5ODM0dnBV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-13 04:13:36",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Kluczowy chiński polityk przyjeżdża do Polski. Rozmowy o Białorusi w tle - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZNdTZTUV9scVZnRVdNMGF4X1lNUmlnYkY2dHU0OGdEb3FzOFgxMll6d2lBTG0wUWN6QVhEMDBLYzBudWltTnF0dlhnRUZwM0RkRW9WZXM1ZHRGb2ZNU2tPZ3hMMzNnY1V2NnBqQUtreWg3SmZpTzFrZ1VWcUQtdDBvQVY2emdzU0doSGJFOUVXazVhbjNzT0t0eWM1emdtTERmNmRPTXRma24wSVBxTE9ITlh0OHh0RWo3OHB3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 08:21:30",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 422819,
+      "DOGECOIN": 1.016,
+      "ETHEREUM": 16913.36,
+      "LITECOIN": 422.96,
+      "RIPPLE": 11.09
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "Trump dostał odpowiedzi na swój list do NATO. \"Nie robią tego, co do nich należy\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONlRWVDJyQjl4WW9mNkFmTlMtaUlhblYwTWJWaG9IVGgxbzhaLXY2QktJcHRLVDZEdUhPUXdYejk3Y2lGTXFGellTTGJJdzJXQXQwaDdKYTRYbFlHTGgzbXNPTWZwSUdCb1VLN0M4eEdrZnpTeWNpTG1MZXNrblpWM2NlQ1ctZUF0YzRKMEs5WVNUaHozRHNmUzJ4aUR2RnR3TWJkSUJvTEhNOGNCNW9oVW5DcTR1Y2RwbC15cFlCTDQ1cUU?oc=5"
+      },
+      {
+        "title": "Marcin Bosacki o stanowisku Rosji podczas Rady Bezpieczeństwa ONZ. \"Jedno wyklucza drugie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQblVQaWZvZmVBYS1MQXVxOGNoY1ZIYVB3NlhwNHhFN0psb2ZpRXEzQk5QdVY2RHBpUnY5X1FOV0FHMXpmZDdoVF9JSlZlejAwNzVtLWNKd0hZem5ESTA0dzdlOUdEVlRkWTRuSEQ4cjZwakg0anE0eUphZ0tVN3JqZy1ISExCR01KTTFzQWZqOFpXVXM2al96d2xYNG9EQ0F4V3REenhfZjhqenZzdWs1MjFzdHltNFJVU1ljWTliekh4N1NOTXhHazZ1azd0QQ?oc=5"
+      },
+      {
+        "title": "Samolot wypadł z pasa na lotnisku w Balicach. Trwa akcja służb - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnF3cy16LVQtV0VOVlNQbEpWN0pBNlVINlN3a096cERiekIwN1JqTm1CQlozZEJfM0RjNUNHdG92elFwQThfdWRaQlRHNjJZbVB3Qkk3N0t2b2pYanBYVG1wLTZvbVMzMVVEa2ltc1d5YW9yU3JXQVN5ekpsX0Y4dWx4UUMwRWlpX1U5QkRXaXBQcHJwWUlRRUZWdmpnWVNQcldRV2VMXzUwNWVvaUVFY2Y4NA?oc=5"
+      },
+      {
+        "title": "Operacja Eastern Sentry. Niejawne postanowienie prezydenta Karola Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Fla3Ixa0xLeFBTbDBlMHZDc1hyQnJJZktzZ2RzbUpJYWU3NWkzU0c4UkxKRnNqTUlQRk5WNnRPNDhsbmVKV0RxZVgyalBUNzNVdlV5ZUp4YUFxUzNqV3JWUGc5amRxSEtYak03WHVuRWtpMEJSNGFVMG1jOXlMNW1kb3NwUENPSzNoSFRaOTltaHBhWFVpd1RHUkZSeUxIcUFjdXltSFVmenp2SUdHVTB5Mkttd0k?oc=5"
+      },
+      {
+        "title": "Część Polski na żółto. IMGW wydał ostrzeżenia przed burzami - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWNHQ1Q2WGVQRXBSNTJCN29iemFIck00ZkR4LUZ2ZnQ2VkpTYk9RYWltdjFBVWlsYnhSOE9lX1hiMW9PSnpZd3VSeWNFcVI5Z2p6VmxmQ2I0Y3YtWURFbWFWWEFtMkxMUWZ4eHl3TzdnRDUyR0pSSF8tZmF4MmIydTBEZzFZVS0wdERoUXBSNWtlemY1Q2xfRkg5VUdicVdfNVZrZmo1eFVieGFiUXZBdE9B?oc=5"
       }
     ]
   }
