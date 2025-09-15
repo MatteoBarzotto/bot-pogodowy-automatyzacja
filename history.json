@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 01:11:50",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +18°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 420776,
-      "DOGECOIN": 1.001,
-      "ETHEREUM": 16987.62,
-      "LITECOIN": 427.43,
-      "RIPPLE": 11.27
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Rada Bezpieczeństwa ONZ. Rosja sieje dezinformację o dronach w Polsce - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDcyaWZfM3FibDVHLTBMZTJVWnYxTm9zUzZNNDRHMEstVGZGcFRGaDJ1bkJkUjRZeTMwWk4zcGVMWjJqTjI2T0F0dHVXTVZrSFYwOFJxSXdmdlNfeEs1a2NQRlA0YS1xNTJ5QjBGVDA2VjFaYXFTd0lLMmhhWG10UUEtQlpaaWIxU2RTaVhVaDA0V3BpdlY5eWV1UWRHWVgwWEM5Yi1NWUJCSXk2cXpZVnJYcEY2WUVibTgxQXpkY05namhxVHc?oc=5"
-      },
-      {
-        "title": "Kłótnia w Sejmie o minutę ciszy. \"Może być pani cicho?!\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0Q4Q3RIQlFQdlhZZXdLaGVhR3Bha1V5NHJUb2x6V29OSEJXWFY2cV9OcFdXdEJhcWJkT1czRnd1QzNfWmlLSTgwakVIclRVdWhuUlVNRFZvXzUxQVJXWmVNVkZXbXh0bkI0YlFNX0lsREZfTDZkeEdiaGdBUW4yR3RFM0ExT25sQVhaNUJ4dURTXzl6QWc?oc=5"
-      },
-      {
-        "title": "Mark Rutte ogłosił, jaka będzie odpowiedź NATO na wtargnięcie rosyjskich dronów do Polski - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUJtdXhKcUVmR05qbHhob2trTk9rQmhadXhRR0pNVFJwUFg5eExFU2tDMjRDcFNkQkg3bU14UUtLSkt5Z3VKUHpHTDF3YS1ZQzYwOU5ReGlJcFJKOV93QVlHMzJtamNEdm5GaUFqV3hmVHo0UmR2dmRfYzM5QWZpQ1RwMmxhN3dLN2FaWlktN09VcnlKNnRyMVFseDdZb3ZuczB4NEVfU2M4dw?oc=5"
-      },
-      {
-        "title": "Trwają poszukiwania drona w Warszawie. Władysław Kosiniak-Kamysz potwierdza szczegóły - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEZJX2ZhczlfTGZXYWo4cnBvdlFjbnFQUTd6a3NvTUYxT1dmLUFBdGZsUG9JUk5SV1g5YUJMbjhJN0FHZzVuMGRQZF9jYWF2VVkzWmhjSjNRamZ3dUJ2OHJnOFEyY0xURTVUYlNJcHlZUkFkV1hGcWZiVTloc1NyNFZJOEVoM3Y3ZEw1dmc5MmxaYXpUcXRYTHB1OVNtR1dmNHBYSk1JaDc?oc=5"
-      },
-      {
-        "title": "Patryk M. \"Wielki Bu\" zatrzymany w Hamburgu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWpyRXRNQkdjT1V4TlJhSGlibm1jc2NKSzU5c1FnQl9tNWowbjJFUFhEUHNydjBGeUxXX0pOck1sWXlGZ1lIVUNjWElLWjZ6RUItWG03b2szQXg5YUhxRU9KY2lTeE0zNEZORnNKamVjN1BlLTlNZG9mY2dqRWZLX0U1eS1ESHdZZ0RXZm9DdjBTUndX?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-13 02:58:16",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Symulują atak na wroga. Rosja wystrzeliła hipersoniczny pocisk - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzdWSG5XMGx2Y1RubWFGWWhFN2dCYVpTUWNSTUI0U3F6RDRWcGVDQnV6MkIwQUk4R1FzeGkzcXY3c2RWOEpUR1FwZXg3Z0pkZkpfVFVLazdBeVUzdmoyX0lUdWN5ZzMzZTRick9nc3RMM2hNdjFPSWNGQm92bV9hVW1ZaGlxbXM5THUtU3JYZFZrYUJib2s5YUxrVTA1WWZpN0ZHNDRvNE5nQUFBY3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 07:14:07",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 421291,
+      "DOGECOIN": 1.017,
+      "ETHEREUM": 16870.91,
+      "LITECOIN": 421.11,
+      "RIPPLE": 11.09
+    },
+    "indices": {
+      "^WIG20": 2836.58,
+      "^WIG30": 3691.0,
+      "^WIG": 3691.0,
+      "^NCINDEX": 274.88
+    },
+    "news": [
+      {
+        "title": "KE reaguje na list Donalda Trumpa. Raczej go to nie usatysfakcjonuje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHdwVGRJMnJNNVlodmQ2VkIzamg5dTNOUVJMaG5vTGgxMkYwZ2xvbWRMaDdrMnBTSTFPdGp0SDJ0QjI0MHpMY3puWExyQ1BVVFA2YVJuZlhlLVN0QjBGeC1IaDZaeUwxQkxtSFlOd0RKNG90Y2RUc19fZTVoZFdBcHFIZ0hscEJLV3QxbEtlWXNkZDRTNDR4MHA3UmVrVzZ0MU5UcDFiSWFNdURsRm8xdG1IRQ?oc=5"
+      },
+      {
+        "title": "Lotnisko w Krakowie wznowiło operacje lotnicze - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVl3dEtnNjNHMDduaGUxWDFvaGtlTmI3Y0lSTjgxTE4yaHQ1X084Vy13MDBFb0ZGV09yeUdhSTcwSkVOMERYaDg5S24wRnZJQnl3TDBfU1hidVpyOWtsUGFNT19KbEFmU0lNMGxOSzhvQmlFZUwxcGk0MExEUUFEbG5NcnU2Y2dGTVNUeC1rVGFTYkt5bWFyNW5uanRLSTdVMGc?oc=5"
+      },
+      {
+        "title": "Przed dronami Putina bronili nas m.in. Niemcy, ale nie USA. \"Ślepo stawiamy na ten sojusz\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3R5a21DM0lneld2VFJnRkdNVUh4elVYWjBlMkNiSmtTVWdfOTFDcmEwNHBpOEkwNi1QUWdCcnZFczFmTnMxR0tqd2ZsNXVIcElyV2hDLV9BNUJ2MWlmOXFlckRpaUYzVzgtTWtDWXB4dmljX2d6cVh0TDBFVEt1WTlTcWVwX1V6cWtiSVdEeTNCR2dQc3BEaTJfWlUtTWRkMzdveU4tdm5ULXZkVThOYXZR?oc=5"
+      },
+      {
+        "title": "Operacja Eastern Sentry. Niejawne postanowienie prezydenta Karola Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Fla3Ixa0xLeFBTbDBlMHZDc1hyQnJJZktzZ2RzbUpJYWU3NWkzU0c4UkxKRnNqTUlQRk5WNnRPNDhsbmVKV0RxZVgyalBUNzNVdlV5ZUp4YUFxUzNqV3JWUGc5amRxSEtYak03WHVuRWtpMEJSNGFVMG1jOXlMNW1kb3NwUENPSzNoSFRaOTltaHBhWFVpd1RHUkZSeUxIcUFjdXltSFVmenp2SUdHVTB5Mkttd0k?oc=5"
+      },
+      {
+        "title": "Kluczowy chiński polityk przyjeżdża do Polski. Rozmowy o Białorusi w tle - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZNdTZTUV9scVZnRVdNMGF4X1lNUmlnYkY2dHU0OGdEb3FzOFgxMll6d2lBTG0wUWN6QVhEMDBLYzBudWltTnF0dlhnRUZwM0RkRW9WZXM1ZHRGb2ZNU2tPZ3hMMzNnY1V2NnBqQUtreWg3SmZpTzFrZ1VWcUQtdDBvQVY2emdzU0doSGJFOUVXazVhbjNzT0t0eWM1emdtTERmNmRPTXRma24wSVBxTE9ITlh0OHh0RWo3OHB3?oc=5"
       }
     ]
   }
