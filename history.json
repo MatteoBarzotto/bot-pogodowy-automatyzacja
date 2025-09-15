@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 06:14:55",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 420324,
-      "DOGECOIN": 1.021,
-      "ETHEREUM": 17203.8,
-      "LITECOIN": 428.13,
-      "RIPPLE": 11.29
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Rosyjskie drony nad Polską. Prezydent Finlandii wskazuje. \"To słabość Rosji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0hncHZEaFBxS3FRZHFzLWNEMFFyWnJpTVBNMTZ1UzBHZzREYUNaZU5iZmRBUmdRdk1FZkZWd3FkQkx2V0pOMHYyNWt2ZHFKQnN5bldPeXlIUWc3OUpPOHBGaDIwSGpnLVFZa0JESDhzQTUwdm1QRHFaN2Ezb2hIcjJsNjIwMUx0T1FCSXlwRmRCUVlUa1pfa01BMmZWQ3ZuXzVuTXpta3F1aFh5X2RRRml2Y1RwV3hHYVFJSXR1VldNdw?oc=5"
-      },
-      {
-        "title": "Mark Rutte ogłosił, jaka będzie odpowiedź NATO na wtargnięcie rosyjskich dronów do Polski - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUJtdXhKcUVmR05qbHhob2trTk9rQmhadXhRR0pNVFJwUFg5eExFU2tDMjRDcFNkQkg3bU14UUtLSkt5Z3VKUHpHTDF3YS1ZQzYwOU5ReGlJcFJKOV93QVlHMzJtamNEdm5GaUFqV3hmVHo0UmR2dmRfYzM5QWZpQ1RwMmxhN3dLN2FaWlktN09VcnlKNnRyMVFseDdZb3ZuczB4NEVfU2M4dw?oc=5"
-      },
-      {
-        "title": "Trwają poszukiwania drona w Warszawie. Władysław Kosiniak-Kamysz potwierdza szczegóły - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEZJX2ZhczlfTGZXYWo4cnBvdlFjbnFQUTd6a3NvTUYxT1dmLUFBdGZsUG9JUk5SV1g5YUJMbjhJN0FHZzVuMGRQZF9jYWF2VVkzWmhjSjNRamZ3dUJ2OHJnOFEyY0xURTVUYlNJcHlZUkFkV1hGcWZiVTloc1NyNFZJOEVoM3Y3ZEw1dmc5MmxaYXpUcXRYTHB1OVNtR1dmNHBYSk1JaDc?oc=5"
-      },
-      {
-        "title": "Hołownia: Jestem zdumiony tym, co wydarzyło się w tej izbie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm1TRWNxQ2ktVzNUY2FOYnN0cU00QWdjTzBWM2F1dDc2anktZVBSV0YxRnE4RDEyMkJldmpKZEJzUE5sRWNXSkwzSEFydDl4TDlrcFZOQ3pLcTBleGVuRnc2SFJiS0w5dWpfY1ljaU8zQkZwdXg0Y0ZZUWFjNHgxM1VZYU45aWgzSTRXQXh6OFB6UVMwNWJLeE00dDN2VDlERXc?oc=5"
-      },
-      {
-        "title": "Na Białorusi ruszyły kluczowe ćwiczenia wojskowe - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjc2S0Vsd3ZwSFBjOWI0bDQyT3p1TURoV0pIVUJld3NkbnNzbVlGTG1nUWdyU0hKWUtrTjdpVTR3a1g4TFh2LTdGeHNzbmhBb1FRaTkwcVM1bXZYZTRjOEFsQ2t5RXpkMmJiSmNXQVdoUTFoNmxoQ055YkNBa2wybDBwSmlJSnlxTXFVME9rTkJkazUxNWRjREkwVjY5YmM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-13 07:11:57",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Trump kluczy w sprawie sankcji na Rosję. Lotnisko w Krakowie wznowiło działanie [PODSUMOWANIE NOCY] - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWY5eERoOGx4YXNsTVFYS2ppTGw0RlJSMWdJdXkwOXNaQmVWck41emt4WFg0T0VXX3FPS2tGcGNxLXBCbS1PaUZNMEJPS090c0hxR3JDYkc0QUhuUW94Vm1XTUxCZ3JvdTFRMlYwME1EV0tiNnFiUUxpS3RyNTM5Yl9uTHJPRDZLMjlIczctanRyanZmMjFOQTAzcDZ3ZEotT0NqVGZwbFhGamEtTU9ValJLNTFnX3dCcGJmVllMZU1hUEY1SnBjRHgyQUtmRXlFcHNTc2Iwbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-15 11:16:01",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.635,
+      "EUR": 4.2593,
+      "GBP": 4.9192,
+      "CHF": 4.5588,
+      "JPY": 0.024575,
+      "AUD": 2.4157,
+      "CAD": 2.6251,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 415473,
+      "DOGECOIN": 0.947669,
+      "ETHEREUM": 16341.04,
+      "LITECOIN": 409.72,
+      "RIPPLE": 10.76
+    },
+    "indices": {
+      "^WIG20": 2852.44,
+      "^WIG30": 3715.99,
+      "^WIG": 3715.99,
+      "^NCINDEX": 278.24
+    },
+    "news": [
+      {
+        "title": "Marcin Bosacki o stanowisku Rosji podczas Rady Bezpieczeństwa ONZ. \"Jedno wyklucza drugie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQblVQaWZvZmVBYS1MQXVxOGNoY1ZIYVB3NlhwNHhFN0psb2ZpRXEzQk5QdVY2RHBpUnY5X1FOV0FHMXpmZDdoVF9JSlZlejAwNzVtLWNKd0hZem5ESTA0dzdlOUdEVlRkWTRuSEQ4cjZwakg0anE0eUphZ0tVN3JqZy1ISExCR01KTTFzQWZqOFpXVXM2al96d2xYNG9EQ0F4V3REenhfZjhqenZzdWs1MjFzdHltNFJVU1ljWTliekh4N1NOTXhHazZ1azd0QQ?oc=5"
+      },
+      {
+        "title": "Kluczowy chiński polityk w Polsce. Sikorski zdradza, o czym będą rozmowy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNExfSkFOdzUwdjNkeXJyb1dDOVhZaTViY3ZHa3QzcGp2QXllY2R2TjRtdkN5RXFqaUR0N0VpZW1qeU0xWXNXaVJKS2htaTQyYnF6VzNIT0p0aGE4eWg1a1h0YTgwYmVUNjF6MW85cXF0QkcybldzeE5hMXRUUjFFUmlyLXdlNzVPYVU2OGFicGhpMDltckswQWtkRTV1RjMzbDgycg?oc=5"
+      },
+      {
+        "title": "Europa usłyszała żądanie Trumpa. Rynek ropy już reaguje - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVR1V2lKME05QngwS0t0OFlrNExfUS1HYi02Y3lEU3JDUzFjaWZsLVN0cm0tUV9FUFVWUXhYX1ZiOEI5NzJVUnZWd0ZHa1QyQkZNbHczUHFJQkFpR3gzUmxueE1KN2lyZ2pSRWRyeDlQcUwxSGJiVFRjdGRPTTNabU1mREt6ZW12SUxMcHIwckRlMWtGTWdaMUFkaXBSUXJBSVRPcncxTXJUNEhab2dLR3gxMDUtbWNqNmJoR0hYZzQ?oc=5"
+      },
+      {
+        "title": "Prezydent Chełma tłumaczy włączenie syren alarmowych. \"Tylko przypomnę\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGVsLWMyOEd3aGJ2ZzdMdHBPRV9Qc2FCTlhodHdNNUZpTFZMRU5HSndaWlo3Mk9WSUVnT2JaOXNJaWpFci1XUlRxRDlnT0Fmamx1MkZ1eWVQNGpoVmt6MDZzNFFQcHdnMjhEeXRVWWFKTVVXY21oaGVMbEFyRk1aRTJfU0lMWGlqU2U5SEx6R0RQTzBxdWtmR0NKdS1WSi1LSXJXUjNucHl4cjIzSFQ4?oc=5"
+      },
+      {
+        "title": "Andrzej Duda o kłótni z członkami klubów \"Gazety Polskiej\". Zamieścił wpis - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVm1qRDRqZG1sdlZJWGQzMmlnc2dHSE9TejdRbzltUE1VSTN1enZ5RnhRN3MtM2tlOHpILXN1OHMtOFZkYjdET3R5dU1HR3pXb2swTlFtb0VpdVU0WHpvSGJ5OFZ6SVc2aU94YWx3amxRZnlxdmJ2YzhvWlJPWVhidDNvNmpwSEFHVGEtOHBFOUNIOEkwdFR0cnZPNFdsXzdCb0NBWHFmTjV6LXJ4LWFHTQ?oc=5"
       }
     ]
   }
