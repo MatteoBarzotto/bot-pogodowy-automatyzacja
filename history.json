@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14 20:16:08",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 418729,
-      "DOGECOIN": 1.018,
-      "ETHEREUM": 16736.45,
-      "LITECOIN": 418.15,
-      "RIPPLE": 11.05
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Wojska NATO w Polsce. Jest decyzja prezydenta Nawrockiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnlTSGUxOG5CUWZpTG1Od2JnTFppSE85eTY5N1FycFdBOHpocVl6S2JLVDdrMW9KWXJDbzlpdEdqMy1xQ0Q0d0VEWUE5RUxUbFFhR1cyRjBMeVNVeXQ3aGxRVllqU2xIY0JxX2dpbTI1MHI0cUR3WlllUkRtZHBNX1FYZDZjUklSRUxpV2lhWkxEU3BDcDYyYlpINm4?oc=5"
-      },
-      {
-        "title": "Przed dronami Putina bronili nas m.in. Niemcy, ale nie USA. \"Ślepo stawiamy na ten sojusz\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3R5a21DM0lneld2VFJnRkdNVUh4elVYWjBlMkNiSmtTVWdfOTFDcmEwNHBpOEkwNi1QUWdCcnZFczFmTnMxR0tqd2ZsNXVIcElyV2hDLV9BNUJ2MWlmOXFlckRpaUYzVzgtTWtDWXB4dmljX2d6cVh0TDBFVEt1WTlTcWVwX1V6cWtiSVdEeTNCR2dQc3BEaTJfWlUtTWRkMzdveU4tdm5ULXZkVThOYXZR?oc=5"
-      },
-      {
-        "title": "Samolot wypadł z pasa na lotnisku w Balicach. Trwa akcja służb - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnF3cy16LVQtV0VOVlNQbEpWN0pBNlVINlN3a096cERiekIwN1JqTm1CQlozZEJfM0RjNUNHdG92elFwQThfdWRaQlRHNjJZbVB3Qkk3N0t2b2pYanBYVG1wLTZvbVMzMVVEa2ltc1d5YW9yU3JXQVN5ekpsX0Y4dWx4UUMwRWlpX1U5QkRXaXBQcHJwWUlRRUZWdmpnWVNQcldRV2VMXzUwNWVvaUVFY2Y4NA?oc=5"
-      },
-      {
-        "title": "Skradzione auto rodziny Tusków. Prokuratura podała nowe informacje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2k3SUJ1WFBoeG1ORWpkakNObnFwQ2dMZUhuT25ZM2VtSzdUdW44ZndfRjRfN0lfcWhBOTBCUDhOVUU1Z3Z2eWJLZFlBLTlnS0hxQndpdDZIMWMtZ2JpSUlGb0hQOFVwZ1BYNkxGNkdCY1BBdkYzTkhMZ0o4Z3llR0xRMWxtSEdlMzdBUHNTU2tIZmdCSFlDM21sSlVURU5lRjVLTU1aY0VVUVFW?oc=5"
-      },
-      {
-        "title": "Niepokojący alert RCB. Są nowe informacje od wojska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUZTQ19lX3lhNHVsREdpVU5BdzB6c3hrY3J0YjJaejNXWVZOMk1Ocl9Qa1hhQkxoS0lkeEdtclg4YnM0MjlJODVXclQ4RmxpaUlWNlhCQjYwOHFGVlMxSzRTSFdNOG42Ui1vaF9XeWd5UG5EUXZKeEJvamNNNnJSMzJXZkJDU3FlckZXNTdwbEtvdlprWGJyX0NTQXo5NnRqN2JZS3p4VmlJNzBzUlBRLWdCOVZucG42TlpVX3ln?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-14 21:09:16",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Dron nad budynkami rządowymi i Belwederem. Prezydent i premier o incydencie - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRENpdFZFaG5HbFdIY0NmbGhqQnRGdDdpbXBQTDFXUkhkMXA3eXdGWjEyZGpudGlnUE9HLXZjRXp0dnktNjVYNGdpT1NWRjlMdDItNHZDTktqMXY4UEJEM1NvYlA5OXFaU2tYNU14MXJ1V3lXdC1LZGdqaDJ5MzRmZWZvcVVidjd1MHE4RzJZdkVvang2NUlxLS1B?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-17 01:09:42",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6034,
+      "EUR": 4.2504,
+      "GBP": 4.9095,
+      "CHF": 4.5486,
+      "JPY": 0.024514,
+      "AUD": 2.4009,
+      "CAD": 2.616,
+      "CNY": 0.5064
+    },
+    "crypto": {
+      "BITCOIN": 418654,
+      "DOGECOIN": 0.969096,
+      "ETHEREUM": 16191.34,
+      "LITECOIN": 412.63,
+      "RIPPLE": 10.91
+    },
+    "indices": {
+      "^WIG20": 2819.54,
+      "^WIG30": 3670.18,
+      "^WIG": 3670.18,
+      "^NCINDEX": 276.55
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki z pomysłem na reparacje. \"Wtedy byłyby możliwe do osiągnięcia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWk5KcUZqMm9KQWtGbnFIOElaTXV6eURLR2F6S2xxX0IzQUU2dG9XY3lNdUhlSnBDa1lJZTI5eFBXeFFuakMxTF9QZExnV1NOUTZaS016YmNaS1dzX1JOOUozQzZTODFSZ0JhUGFsQ3RMZzV1WThiMjVlT0t3MFNiakxadjIxRGVnS3dMdlFhbmNFSlQtMUhKNnhqVGxMZlBzV09scWFFRlZqTzhmSThFUUtacGtTQQ?oc=5"
+      },
+      {
+        "title": "Nie rosyjski dron, ale polska rakieta. Nieoficjalne informacje o uderzeniu w dom w Wyrykach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZThCZ0FIbF9FeEdUdXdpalhDMVlMZFBYaDh4NTB5Ylk0OVpBRVBqSlN6eXpUVF9kclNoUFRhakNoV18tY1VaT1BsSWVTWEp4OXJnOUxqakVyaWRYVENqQjBDMHhSSm9sSkpmRHN3b3pjblJlMTZyc3Jjc3A0QlQyTDZxT3dUQXAxZnAzeExmS1J6bGM3TGY5WEJJamN1Z2t1Rko5OERqUmlIUW05aWctYkpxRkdjUUtfQ0NsYk1LSXJYZw?oc=5"
+      },
+      {
+        "title": "Dowództwo Operacyjne zabiera głos ws. doniesień o rakiecie w Wyrykach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzhBX1dYX3JxMTVjRWxmMGQyQXJOSmU1Ui1Bel9SZFZGb1pZcTRVSmVERDdRbDh1NnVEMlJES1pGYmRoV3FQZG1iQTV1VTBXNGs3Q0Q4V2RyZHp4UzFKaUJaUUlaWG1OQjZja3Z4SE9WR3dLQXFTN0VXSnVrdGFWeTBOSXgwRU13Q1NSZXFVNmdPQ0hrYlJzWk51S0VaNnFFb0xsazFn?oc=5"
+      },
+      {
+        "title": "Dron nad budynkami rządowymi i Belwederem. Prezydent i premier o incydencie - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRENpdFZFaG5HbFdIY0NmbGhqQnRGdDdpbXBQTDFXUkhkMXA3eXdGWjEyZGpudGlnUE9HLXZjRXp0dnktNjVYNGdpT1NWRjlMdDItNHZDTktqMXY4UEJEM1NvYlA5OXFaU2tYNU14MXJ1V3lXdC1LZGdqaDJ5MzRmZWZvcVVidjd1MHE4RzJZdkVvang2NUlxLS1B?oc=5"
+      },
+      {
+        "title": "Zabójstwo Charliego Kirka: Notatka przed morderstwem i wpis w sieci. FBI o prowadzonym śledztwie - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmFSMzZEY1dCRlZmX3p3aWx1eGNHUHpXLVlTZ2luQnRKNHZTYkdIVENHZnhQNDFUaFRUOGZNVFpmQzJ4eEpXQmN3N2NXSEVJNUFtb2NVdzFtM1AzVWtfQ2ZkMjlOa05nYUI4NldtM0MzRGZJQjRPSHk2LTdXYzF3a240N1VYWFBnN3YwMmh0VWpYOHh0Skc5LU1hSVRpWjJsbWtNX05FUnZCUGFPcTVVSUl2SC1jVHAwckwwMUpwblc?oc=5"
       }
     ]
   }
