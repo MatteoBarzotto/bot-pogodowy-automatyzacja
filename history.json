@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14 11:12:03",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 420776,
-      "DOGECOIN": 1.055,
-      "ETHEREUM": 16911.48,
-      "LITECOIN": 423.55,
-      "RIPPLE": 11.19
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Republikańscy jastrzębie chcą przechytrzyć Trumpa. \"Wspólne działanie z Europą\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUFyRXhDTmtpR0VVTWNiV3EzeG9mY1gwSUxtYjNTVnFKaWhobDRDWTBPLVRMMmRsa3BoeFpxbFMyVEJOVmFzdkFQVUVWVzBzOEh6MHhtVlJNUmM0dENwX1JSYnFpREpjZ1JIRWpYTU4ybDRSVGYtWmktVE9wbE01VkdNSHV1TWUxa2tGbmhPazd0LVNqVFZTWldkdEV1dTRDb0lwZWxLajRWZHBNY0FKREFMVnZyR0pD?oc=5"
-      },
-      {
-        "title": "Drony bojowe. Tania rewolucja, która zmienia oblicze wojen - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkFkMl9scTEtY1NaT01jaWVHZmhpOTJUY1dOZV9RU2tmSzFRcGpDa0VBaXROMFJ3akFLTnJmak5FWjdRc3RhN0FlVF9pbkhXQzlDSmxxaWUtT2lhQU4tNDdoaG9JQXdRcVNEM3h4a3pLaGM4VFJMTlZJbkI2MmJOaEpFM1BLNkJOeVJ0Vlc2SFExOC1YVnpvMnhVeE1ERUxYMjlhc3ZIRHUwbXNuVmdZTjNiem1OZnVlZG1mZFBkR2VnUQ?oc=5"
-      },
-      {
-        "title": "Alert RCB \"zagrożenie atakiem z powietrza\" odwołany [AKTUALIZACJA] - InfoSecurity24",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkpHRzQyV3ljX2tEdll1RzhoNGducU83VTNMQlNaYU11MXJHUmthWjk2QlhTb3g4cnkzWGZrOXd2U1RIMl82ZDBiTGZZMmIzcWFoVUhobHZVV0ljNURDWF9zQUYzcjlZSjduaXBVdG5JVVZNbkdkbTB4eWJFZ3FvdmhQRzZjdTZ6dlc3eHhDN0F5OTA2blZz?oc=5"
-      },
-      {
-        "title": "Atak ukraińskich dronów. Pożar w wielkiej rafinerii w Rosji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDNGTUV0dUNaWkxGd2pONUxIbFRzNFRGNkxudm5rZXhnd1hOSlNndmxmam9Za1dTZzlDY3BOVk1XdTFiSUQyTkRobGxtMW5rdHhGWThOUXFtR1dXenZpNGEyM0xPcDBGLU03azFfaVRldlRZdlN0ZGhnNU5najYwOWZoOW5Zd2pha2dJc252d284cGFiOGd5NDgzSVpXSmQwQkU1bDBFQmpVQTBpcjNvLXZVbw?oc=5"
-      },
-      {
-        "title": "Półnagi wandal w kościele. Zniszczył krzyż i zaatakował księdza - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFRXZEpNRHVtNURfNFBudlBidXA2VFRTZE1VR0hWSjZhMDRHdlViWE9pc1MtUE85NE4tcXA2MDBQUUtNQjNnTERxc3pFaVdzbGprUEdLa19YZUtXejNlWkFkM04zdF93MzVMcEg3dzI1anhvRXd5RHRiRVlZSlhOZnhOSUxpTUpBZ2F5elhjc1N3TXdKWmd3V1IwUmY3bmxuREV2c01Bb1pPTUFINWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-14 12:11:40",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Dron przechwycony nad rządowymi budynkami. Wiadomo, kim są zatrzymani - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUo0V2lDNVBvcHRQUFFGZU1vVk52QlBaV2dBSnZGMEltUVdUOFc5cWt4RW50VXU2a2ZnRjVKQjNqY0tLaVFvQzc4Yld2WjRwcFpMZUF2S05QMXlpQkxkQnVFN1hPTlpmM24wRE15aGxjUlZ6eGNCNUNpbVViUDVBU193RmFWLW1WbXJRYWk4bFU4MVBtTVJfUTdkQlZzdWZGNUhSbnM4d2Y2bHhOS3BIY2lZN2hxbXZtUEppWEJzM01xUndI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-16 16:14:12",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6034,
+      "EUR": 4.2504,
+      "GBP": 4.9095,
+      "CHF": 4.5486,
+      "JPY": 0.024514,
+      "AUD": 2.4009,
+      "CAD": 2.616,
+      "CNY": 0.5064
+    },
+    "crypto": {
+      "BITCOIN": 412627,
+      "DOGECOIN": 0.932365,
+      "ETHEREUM": 15914.67,
+      "LITECOIN": 408.57,
+      "RIPPLE": 10.82
+    },
+    "indices": {
+      "^WIG20": 2821.7,
+      "^WIG30": 3674.0,
+      "^WIG": 3674.0,
+      "^NCINDEX": 276.07
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki oczekuje wyjaśnień. Nieoficjalnie: to rakieta z polskiego F-16 zniszczyła dom w Wyrykach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXhLZzlXeENqbTM3dEk2U3pxVF9KZVB1dXU1V1B6b0FMUVp3WTN0bDE2WG1vbHVCX1JDdk45TWpabC1HTl9UbXF4Tm54V1NseTJxZ1IyUGhkMDI4VHNWUTc5aWc0N3k2V0Ryb2RUZ1YxMkJvSlZDOHVrd2NxbnVOVDNiQnFtV3VUQldjOWhJLWZmVzNPWlczeDhQZlVtakJ1bk1paXFPS2dBQXBjeHhtZg?oc=5"
+      },
+      {
+        "title": "Czy Zbigniew Ziobro stanie przed komisją śledczą? Sąd rozstrzygnie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHJuQ0Z5eXVBOTZfb2R1NzVUZ1B5VkU4TDhYYWhub1ZjV2tReDltalFSeFIxekdOSFVRTW16S2xzalZENUxteURTU1JLVUkySkZraTRCOEpsNU5DdS1UU3d4aktaeFJVZndqZDVmODNRTmYyRkJlZDRnWndpWW1VMHc1anYxNFM2Z3JZUkZ3c010SWNnOE1aWms0SjNvcFJjU3p1SXdSZUhSbDZXaTV6MG1QV2xTUVFyekE?oc=5"
+      },
+      {
+        "title": "Ekspertka o walce z dezinformacją: Nie można zaklinać rzeczywistości - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZk9FUXo1YUtfeVVHczFBZGNuMVl0ZVdSZUdaWTVPV3E0a2ozUEV3NmNQc3h4WER1cW5TdnM3MG53MFBXU1c3UERMSmFEbnNueTlCbVNuc1cyeFhnUk9ZNjJpZm9NU3EtMTFmRmZJZlJWNWtqdENheTF5R1daMlYtVHcxcWFRRmVHWHpEOVdXS1B1LVVvM3J0aVJxQlcyNXprcnRHWlNYREhIeFlIRFI4TmEyTDlxTzI2LVk0U2x5NGpDOXVlVlB0TTd5SQ?oc=5"
+      },
+      {
+        "title": "Nie żyje Robert Redford. Legendarny gwiazdor miał 89 lat - Film Interia",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1dYanUzWjQ3LVhuR0ZSeGNPc0NMZ0U3VXpQUEJXcE1LTGd1MHpPLUtZbkwxdVYzTENjd2ZIUjQ4VFhDbVJ3YlF1ZnduLWF3UlpFUVhTdjdSZm1WXzhuai1XZi03dTJ4d3Q0OF9hVEhRak92R0cwQVRkMl8tMDdmeFc3WUltLTRHdjM4MVg4c3g5MEdqTTFjdDNlSGtQRDE3YjNtOFF0Q002VkU?oc=5"
+      },
+      {
+        "title": "Witold Jurasz: Dlaczego Polsce nie grozi wojna. Manewry Zapad to post scriptum - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdy16XzJxd3NEZUo1NnFPOW5WSTQ3akJlcWlmcWc1c0hNWWI4ZnJMdlNlRWxiZExpbTRTZ1VaS0ZTbFVyejRKWTlCSjFqZkRubFNFdHMtVnVJVXBkekJ4Q1cyZXJ3WDVIaHM1X2FGdGFBeHFmNnVILTN3cVRnQ2pXMEpYMFQ1Mk5LaEVacFZwWTg0c04xNUxteXdXZU8zUGNjRGxFcGN5T3Z5U3pTSVZBQzU5RWZrd2h1akE?oc=5"
       }
     ]
   }
