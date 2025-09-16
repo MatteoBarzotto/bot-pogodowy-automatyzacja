@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14 09:11:59",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 420035,
-      "DOGECOIN": 1.052,
-      "ETHEREUM": 16912.97,
-      "LITECOIN": 424.51,
-      "RIPPLE": 11.2
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "\"Stan Wyjątkowy\". Polityczna wojna o ruskie drony. Nawrocki dostał lekcję od Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTQtRTEwd0N0cjJITVZLMWxfSEJrMHR1aXl4YV91Rzh0TVpSRVpSY3JSX2tRUGZ5Ulk1NXF2c09aMnhGVU8yUGRQamhIeTlRY0toZmRLaVcwUVNGUDBNNUZGZlVYQzA0TXNGYV9semU5VEJHT05kVURPWFNHdHNDOGxFZ203VV9Na0FqMC1pZWFGU0s2TjBVbkR3OTVfbEFMMDZVMS1WeEN4NUNGUDNYQ0ZhUi13bktLNjNHUnlnQnJ3UFZRUGkwbw?oc=5"
-      },
-      {
-        "title": "Trump pisze do NATO. \"Sankcje za niekupowanie rosyjskiej ropy\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWJZV0pER2ZNNG12dGxvSklwV0F5eV9sYzkzOXVNWWxBQVNJR2ZLX25rVENnMF9zSGtIU0k5UnN5clNRclFsZlR3UHlCSVlZMFhWNHh5Zkk5amJIeWhtUGpuUkpaUkluc2xFS2ZBNjlnY0xFdWI3Z09yNklIZjVYSWxFYkFBdUNYUHljNVpQZWh0YW9pSE9LTlpJRGprSlROdENIY3BXUG3SAacBQVVfeXFMUHhlV0p4dFloWEQ0cmduTTg3MExXTlJKWVhsU3hnTG85MHBtLWpsT2dRcUZybk93RTJPSEc2QWg2VFdtSV9fZElFVkFxa1loaUlkbFlPWEVTaFpZSEpzTERiaWtIRHRvaWtqRXpXQk9neWJrMEtFS0stTHJILTlLdnBxcUhOSVlZZ2pBV1RieHI3b2NIRTl2UE5TYzV6RW5sTXU5QlFndUk?oc=5"
-      },
-      {
-        "title": "Żółte alerty IMGW. 14 województw zagrożonych - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0U3YlkyNVJpUHdTRTVhSG9YcERITXpPNFlHVG4zQWxFX1BfTmVBRm5yVXBHWDlGdHpYckN0N1hKa2FQa2FCbWNTVjZkSlhWVnFNWUotWTdPNWticGRRVWVsaTZ0WHBhQ1VvbFd5V3FXbHNYbG5uMzFWTnVMV3FlalJsb203NWZrbXM4dnVKdDRad3ZKLVBweHctTlBZdlJYU1BCR3RmamhQQkNrQzBwSlFtQjdtNlY2czJRYXhqZ1NlMFRnaUNycDEzX3RKSzZhRGpwdw?oc=5"
-      },
-      {
-        "title": "Potężne manewry amerykańskiej armii. Padły groźby \"negatywnych konsekwencji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeFRPTU81eDhPSWRlSWFLNlprN1hId0lmZ3NKSU5QNml5NXcxVEIyQTRwN0hNeE1tQ05KYkFyRk9zNHY3amRGN1M3TF9DeVB6MlVHVnhkTnRCR1V5Z3BCRXRZUzRMUTl4ZTk3Uy1RdTRjMjRZZEZsOXR3ZTRmLUJPNFdwWHYxTmtCQ3lzT09RYWlXMDRibHlDUGtRY2lNdEg1OGZkTV9NTWNPeWs4MjhqVWsxeGdNWGcxUGUxNENxMzRqTGNoMzE4aDgyWkxYSkUzZUE?oc=5"
-      },
-      {
-        "title": "Protesty na ulicach Londynu. \"Największa demonstracja w historii Wielkiej Brytanii\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdy1zQ182dC1fS3JrNTN2ZTFqLTNXMXFJNl9xNUpLNDk1bW9nQjJZQVYyVG9uQ3k5OVJ1NDVkNVdHQzcyazhkTlJGczRkWXl0WnNQYkN6aXo4bWNXZWs0QVgweGVpNjhwSm8ySG5jQ21uR3NVblFyc05GSnE3LWR1OF85YVJJSWd0ZHFvREhPVjVhRVZaYndmUThadUZKaENjQ1QyREdTd1FQMW1qcG9BejA5bFBmblB1QzlRYUxJZzZiTHkzZW5F?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-14 10:15:34",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Niepokojące znalezisko przy ogrodzeniu Senatu. Akcja służb - Onet",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU5XN2tETkFGZDB5X1BjRk9BdFVNZXZXZEQ4ZjdEcjZMUkZrRXVKVDdXYmdpandLUkx3WThRWXB6b0xVX3c0cmxKNHdiRTEzaGM0NlFhMml3Z05xeThYdDltNTZQTE0ycjhGbkszLTFQNkZiekdVUTdQVVM4OVFvd0JtV0cyeWQ0bkc3SVRtWEg0ZHFoWDk3UXZ5bXZKVFM3NWdz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-16 14:27:23",
+    "weather": {
+      "Warsaw": "Warsaw: +20°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6034,
+      "EUR": 4.2504,
+      "GBP": 4.9095,
+      "CHF": 4.5486,
+      "JPY": 0.024514,
+      "AUD": 2.4009,
+      "CAD": 2.616,
+      "CNY": 0.5064
+    },
+    "crypto": {
+      "BITCOIN": 415368,
+      "DOGECOIN": 0.954921,
+      "ETHEREUM": 16201.87,
+      "LITECOIN": 411.95,
+      "RIPPLE": 10.92
+    },
+    "indices": {
+      "^WIG20": 2852.43,
+      "^WIG30": 3714.0,
+      "^WIG": 3714.0,
+      "^NCINDEX": 276.94
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki poruszył kwestię reparacji w Berlinie. Jasna odpowiedź Niemiec - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFI4SXRhcUM1OWlsVFNONjhlM1pURjBLdGhDU3JsbnZBamVNQWdOSkJ0QXBaQVVLSFZSLUZlTTgwdnFVQlVMbnFlQVU1RXlUdWh6SzEwWkE4NDFlT3hmTHVGclJSbl95clMySHkwU2Fkc2ladnZHMmFyWWJjNnBsaDRwTV9mSENCWDJBeFVCQmtfWmlCa3FNY0hqdkdMOURvd09qYl9RWGdmcEg4NGhsR0oxcmVOM2tI?oc=5"
+      },
+      {
+        "title": "Dron nad Belwederem. Wiceszef MSWiA przekazał nowe informacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWlsMUFRWWRDQnRNNVZMV2RHTFNKbkZhSHI1c094TFBvM3FjM2lBamFvQ21oTjRxekxBc3QyZGdta0NyTzZLSDlwNmcySHRtVUczNk0tVUxJT2g2bXc4SVQ2b0FKRThJdHo2RHgzWFRqVVBnanBVVG9rd2Q3VnlVS3B4c2JHdUVfcUxFMHhwem9zUl9rYl9XUUJRYnlpQk5aakZobXRkeVJGeWF5ZlRadnlmeGk?oc=5"
+      },
+      {
+        "title": "Ekspertka o walce z dezinformacją: Nie można zaklinać rzeczywistości - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZk9FUXo1YUtfeVVHczFBZGNuMVl0ZVdSZUdaWTVPV3E0a2ozUEV3NmNQc3h4WER1cW5TdnM3MG53MFBXU1c3UERMSmFEbnNueTlCbVNuc1cyeFhnUk9ZNjJpZm9NU3EtMTFmRmZJZlJWNWtqdENheTF5R1daMlYtVHcxcWFRRmVHWHpEOVdXS1B1LVVvM3J0aVJxQlcyNXprcnRHWlNYREhIeFlIRFI4TmEyTDlxTzI2LVk0U2x5NGpDOXVlVlB0TTd5SQ?oc=5"
+      },
+      {
+        "title": "Drony, śmigłowce i artyleria. Piekło w Gazie w Gazie trwa, Izrael rozpoczął wielką ofensywę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkRVQm9FcnRBU3FLWmFuQlF5WkJodVZBZkNTRWZmeG1zdHlUZFphZ0N5dng3eG41YmVBSWxSTGFSTEU4eHhSVjlwQmlJWGJ0bWYxVW9tR2RndEUxOHR0OEM0dkg3OEI2TncyQ21iMTRUNXEtU2ZLUDZUelBCY0l6WHJxVE9nc2MxRmtWQ3g2YXBrVDlyTG9vQnFMc1N5NFZWaEhlVQ?oc=5"
+      },
+      {
+        "title": "Witold Jurasz: Dlaczego Polsce nie grozi wojna. Manewry Zapad to post scriptum - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdy16XzJxd3NEZUo1NnFPOW5WSTQ3akJlcWlmcWc1c0hNWWI4ZnJMdlNlRWxiZExpbTRTZ1VaS0ZTbFVyejRKWTlCSjFqZkRubFNFdHMtVnVJVXBkekJ4Q1cyZXJ3WDVIaHM1X2FGdGFBeHFmNnVILTN3cVRnQ2pXMEpYMFQ1Mk5LaEVacFZwWTg0c04xNUxteXdXZU8zUGNjRGxFcGN5T3Z5U3pTSVZBQzU5RWZrd2h1akE?oc=5"
       }
     ]
   }
