@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14 16:10:42",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 418458,
-      "DOGECOIN": 1.026,
-      "ETHEREUM": 16784.52,
-      "LITECOIN": 417.39,
-      "RIPPLE": 11.02
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Groźne zdarzenie na krakowskim lotnisku. Samolot wypadł z pasa - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2VyOW5jMmVRSUFQZGVfNUFJQ2EtWWFtVWpnMnh0eUppZDd0YTdBOUNtbUw0d2kwU25WWnEzejhKU0swd3BEREpnVlA0bjJuaU1sb2hUNmlmQmhNX1hDelRMSWlqSG1wQzNtejlDWXRUWkVjeVNEWWdUMlY1RmZGVzg0LWliOGhLeUxYWlZWZXNuMGF6eWxXSHFxY1NVdjg3Q1NUaGpn?oc=5"
-      },
-      {
-        "title": "Przed dronami Putina bronili nas m.in. Niemcy, ale nie USA. \"Ślepo stawiamy na ten sojusz\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3R5a21DM0lneld2VFJnRkdNVUh4elVYWjBlMkNiSmtTVWdfOTFDcmEwNHBpOEkwNi1QUWdCcnZFczFmTnMxR0tqd2ZsNXVIcElyV2hDLV9BNUJ2MWlmOXFlckRpaUYzVzgtTWtDWXB4dmljX2d6cVh0TDBFVEt1WTlTcWVwX1V6cWtiSVdEeTNCR2dQc3BEaTJfWlUtTWRkMzdveU4tdm5ULXZkVThOYXZR?oc=5"
-      },
-      {
-        "title": "Komisja Europejska reaguje na list Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0xaaWU0SzlhaWdKMV9rY29iVGo0ZUN6WGVMTzVIQlJqZXRqbDdBUVlvZ21FVEN2VTVQRk1pX2dmMzF5OGJkQUs4VEhLQTlwQ1ZxNTNhbGViZExwTlRpMDVKdElWdEZfX2dlc3BkSGZSNUd1dVM0Y3hrSzliTGRnaTZ2RFlSV3pwOWV3RVlwYVV0bUZhWVZhbm9ScWVpSjdhRGh1SFBYMDZPVEJjMWhrZ3Zn?oc=5"
-      },
-      {
-        "title": "Niepokojący alert RCB. Są nowe informacje od wojska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUZTQ19lX3lhNHVsREdpVU5BdzB6c3hrY3J0YjJaejNXWVZOMk1Ocl9Qa1hhQkxoS0lkeEdtclg4YnM0MjlJODVXclQ4RmxpaUlWNlhCQjYwOHFGVlMxSzRTSFdNOG42Ui1vaF9XeWd5UG5EUXZKeEJvamNNNnJSMzJXZkJDU3FlckZXNTdwbEtvdlprWGJyX0NTQXo5NnRqN2JZS3p4VmlJNzBzUlBRLWdCOVZucG42TlpVX3ln?oc=5"
-      },
-      {
-        "title": "W Wielkopolsce runęła ściana kamienicy. Trwa akcja służb - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnRydGtvTHNHdkRaMm96Rk1RUVhBdzdGSG1qLVMzdEdBM2FZSnk1dmpncnlMS1BaSXdPNmJtaDd1alVlNks4cW15MFNMVURQM2U1OEs2VzlHc0lXcFJ4MS1KTkxSNWJybnJJdjN0Y09UX0NCY25aR2lfMVhXaEFEOUNZZ21jUzdneHV2MXhNeTFSNXJqRV9xQW5YUVN2b1A4SzFzRG13?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-14 17:10:56",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Nie wiadomo, kiedy Polska otworzy granicę z Białorusią - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVF5aUFydl85cEZxNW9WUXhWTDIwelRPTkNfZU9BM29LTV9mZ2FuTmszelRUWGVmNFVPQjRrd0dpaWxaY19DMERJQjNieU1pc205ak00V1FwbVZqZlNtcFBLanA0UkctMlpsNVJXS3dKc1MtdmFEeGMxdlZsVzI1aWREeHduU1NBUmY5X0tRTUdQT19IT2lGNmJ30gGTAUFVX3lxTE9RcmZINXFIODhZbm4wVHlCcDF5cWozUEk1SUpleWowcW9ldkdfd3JWbVNIVzNoOVVhS2NzNENVOU12YUtnZEdhSEF5Zmk4cmltTHE4UUIxTG12dERzM0VOZlZoX0pIVnl6MkE1UjY4RGxIYnB5YkdHazBxbmZ4RVoxRmpSMWxyMDZaMllETWJpcy1RYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-16 21:10:40",
+    "weather": {
+      "Warsaw": "Warsaw: +21°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.6034,
+      "EUR": 4.2504,
+      "GBP": 4.9095,
+      "CHF": 4.5486,
+      "JPY": 0.024514,
+      "AUD": 2.4009,
+      "CAD": 2.616,
+      "CNY": 0.5064
+    },
+    "crypto": {
+      "BITCOIN": 417146,
+      "DOGECOIN": 0.959394,
+      "ETHEREUM": 16025.55,
+      "LITECOIN": 411.53,
+      "RIPPLE": 10.89
+    },
+    "indices": {
+      "^WIG20": 2819.54,
+      "^WIG30": 3670.18,
+      "^WIG": 3670.18,
+      "^NCINDEX": 276.55
+    },
+    "news": [
+      {
+        "title": "Media: Polska rakieta uszkodziła dom w Wyrykach. Stanowcza odpowiedź Donalda Tuska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM01oeWtYUVNvTDNTSS1yVnR6SmxUR0paUG9IN3BHdndzcnR2bDBjSFVwSEgtYkJtMUgxT19OcWVncGlfdXctQ1diUkQ4S3FhREZrbTJlOUVxdDhCdy1mUEsxbFpWMnN2N3pvX3paNWxMblZJYlZZV3pBbnZRRGk4WFpUcUViRnlTSC1RSVdUV0V5eTJWOFR3Tnp5Mkx2R0s0QVBRVHF0RmQyUHpiZzgtQXJPekhWdXQtTjhrbFpydmdkQQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki z pomysłem na reparacje. \"Wtedy byłyby możliwe do osiągnięcia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWk5KcUZqMm9KQWtGbnFIOElaTXV6eURLR2F6S2xxX0IzQUU2dG9XY3lNdUhlSnBDa1lJZTI5eFBXeFFuakMxTF9QZExnV1NOUTZaS016YmNaS1dzX1JOOUozQzZTODFSZ0JhUGFsQ3RMZzV1WThiMjVlT0t3MFNiakxadjIxRGVnS3dMdlFhbmNFSlQtMUhKNnhqVGxMZlBzV09scWFFRlZqTzhmSThFUUtacGtTQQ?oc=5"
+      },
+      {
+        "title": "Nie rosyjski dron, ale polska rakieta. Nieoficjalne informacje o uderzeniu w dom w Wyrykach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZThCZ0FIbF9FeEdUdXdpalhDMVlMZFBYaDh4NTB5Ylk0OVpBRVBqSlN6eXpUVF9kclNoUFRhakNoV18tY1VaT1BsSWVTWEp4OXJnOUxqakVyaWRYVENqQjBDMHhSSm9sSkpmRHN3b3pjblJlMTZyc3Jjc3A0QlQyTDZxT3dUQXAxZnAzeExmS1J6bGM3TGY5WEJJamN1Z2t1Rko5OERqUmlIUW05aWctYkpxRkdjUUtfQ0NsYk1LSXJYZw?oc=5"
+      },
+      {
+        "title": "Nie wiadomo, kiedy Polska otworzy granicę z Białorusią - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVF5aUFydl85cEZxNW9WUXhWTDIwelRPTkNfZU9BM29LTV9mZ2FuTmszelRUWGVmNFVPQjRrd0dpaWxaY19DMERJQjNieU1pc205ak00V1FwbVZqZlNtcFBLanA0UkctMlpsNVJXS3dKc1MtdmFEeGMxdlZsVzI1aWREeHduU1NBUmY5X0tRTUdQT19IT2lGNmJ30gGTAUFVX3lxTE9RcmZINXFIODhZbm4wVHlCcDF5cWozUEk1SUpleWowcW9ldkdfd3JWbVNIVzNoOVVhS2NzNENVOU12YUtnZEdhSEF5Zmk4cmltTHE4UUIxTG12dERzM0VOZlZoX0pIVnl6MkE1UjY4RGxIYnB5YkdHazBxbmZ4RVoxRmpSMWxyMDZaMllETWJpcy1RYw?oc=5"
+      },
+      {
+        "title": "Nowe informacje w sprawie drona nad rządowymi budynkami w Warszawie. Zatrzymano Ukraińca - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEx3eHY2N3Q0RVJzMXFRUG1YaUstUlVnbC1ZRHl0a0h4MHVIMGQtUDFQQkpvQ2JEaTFPcTJ0dm9pakpYNEUzS25vVXFXSXV6WjJwT3lBQ241QkU0Z0twODVtRDNMWk5LX3c4VlZxU0NrZ2pCVXdXRi1pejRkWmx1SXBQQm1UaEdRNWFOc1hjcV9tTktVTGg1ajV0T2tlS2wybTBfYzZhTTQ2TDFtbmt6NG9BRWladw?oc=5"
       }
     ]
   }
