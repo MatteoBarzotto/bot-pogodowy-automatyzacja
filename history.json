@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14 23:10:39",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.635,
-      "EUR": 4.2593,
-      "GBP": 4.9192,
-      "CHF": 4.5588,
-      "JPY": 0.024575,
-      "AUD": 2.4157,
-      "CAD": 2.6251,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 419619,
-      "DOGECOIN": 1.011,
-      "ETHEREUM": 16706.06,
-      "LITECOIN": 417.7,
-      "RIPPLE": 11.0
-    },
-    "indices": {
-      "^WIG20": 2836.58,
-      "^WIG30": 3691.0,
-      "^WIG": 3691.0,
-      "^NCINDEX": 274.88
-    },
-    "news": [
-      {
-        "title": "Operacja Eastern Sentry. Niejawne postanowienie prezydenta Karola Nawrockiego - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Fla3Ixa0xLeFBTbDBlMHZDc1hyQnJJZktzZ2RzbUpJYWU3NWkzU0c4UkxKRnNqTUlQRk5WNnRPNDhsbmVKV0RxZVgyalBUNzNVdlV5ZUp4YUFxUzNqV3JWUGc5amRxSEtYak03WHVuRWtpMEJSNGFVMG1jOXlMNW1kb3NwUENPSzNoSFRaOTltaHBhWFVpd1RHUkZSeUxIcUFjdXltSFVmenp2SUdHVTB5Mkttd0k?oc=5"
-      },
-      {
-        "title": "\"Putin otwiera drugi front w Europie\". Ekspert wskazuje, o co chodzi Rosji w sprawie dronów nad Polską - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVBSckFzZ0hOaWxkNlFQcERWdnpwaEREckZpbHRxcklJTllxVEtIWVFpdk1FXzJaYUZpbzRzNFNOSlhBWnhBcEhjLW1UVDNIZlNlb09OVnhLNGJwQ1VXTVpmVXRrTmdjZ1hxYy1CcmFXdnAxajhNVndILS1CV3gtOGtxWFpsaGNLRk5za1h2bGNEc2VqX0tpTnFveF9GUlNGclpUOTBSVFZHLTNVVGFDMXlveTE5RHpwb0xQU1NsMA?oc=5"
-      },
-      {
-        "title": "Samolot wypadł z pasa na lotnisku w Balicach. Trwa akcja służb - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnF3cy16LVQtV0VOVlNQbEpWN0pBNlVINlN3a096cERiekIwN1JqTm1CQlozZEJfM0RjNUNHdG92elFwQThfdWRaQlRHNjJZbVB3Qkk3N0t2b2pYanBYVG1wLTZvbVMzMVVEa2ltc1d5YW9yU3JXQVN5ekpsX0Y4dWx4UUMwRWlpX1U5QkRXaXBQcHJwWUlRRUZWdmpnWVNQcldRV2VMXzUwNWVvaUVFY2Y4NA?oc=5"
-      },
-      {
-        "title": "Symulują atak na wroga. Rosja wystrzeliła hipersoniczny pocisk - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzdWSG5XMGx2Y1RubWFGWWhFN2dCYVpTUWNSTUI0U3F6RDRWcGVDQnV6MkIwQUk4R1FzeGkzcXY3c2RWOEpUR1FwZXg3Z0pkZkpfVFVLazdBeVUzdmoyX0lUdWN5ZzMzZTRick9nc3RMM2hNdjFPSWNGQm92bV9hVW1ZaGlxbXM5THUtU3JYZFZrYUJib2s5YUxrVTA1WWZpN0ZHNDRvNE5nQUFBY3c?oc=5"
-      },
-      {
-        "title": "Nie żyje biskup Antoni Dydycz. Duchowny miał 87 lat - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjVnamRFQXNPWWFVMVU1VU5CY1AwMzF0Z0tNQWluU2MwX1hsZm01dm95bFBqNE5fM21jblV1WThsS1lxOXNMZndwQXVsYU8wcXNDdFo3Znd2U0tTYmF1M3djUnE0Vzdsc0NnY1VtZ1JRN1RVSENVSWxnS1p2RF96VkRzUnVYOHlxRmp4S0NhdDU2UkhIMDkzQ2ZhWXQ2SFc2TDdF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-15 00:11:47",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Zabójstwo Charliego Kirka. Wiadomo już, co zatrzymany pisał o ataku - Fakt",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUdfODNwa0toLTVTZXVNSVBkZ3FZNE42eVpFWVc0RmVLcDF1Tk1VZDBNc2lmQkJWdmpZTUpDWmRjWTRqT292TzQtQ1NtN1ZkTVFpSHQwWWg3OFQzeXV6eEtGaU1kVVU4a2RvSXV1Y09yRHVKRUlmSXJUQWdmdWlTNEFmZGlqV0l6cjBwcW5naFFkSFF4S0N5TmpYRWhRNlpvUkM5N3k3V01Vcjlwc0dj?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-17 05:23:18",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6034,
+      "EUR": 4.2504,
+      "GBP": 4.9095,
+      "CHF": 4.5486,
+      "JPY": 0.024514,
+      "AUD": 2.4009,
+      "CAD": 2.616,
+      "CNY": 0.5064
+    },
+    "crypto": {
+      "BITCOIN": 418348,
+      "DOGECOIN": 0.964904,
+      "ETHEREUM": 16226.29,
+      "LITECOIN": 414.39,
+      "RIPPLE": 10.87
+    },
+    "indices": {
+      "^WIG20": 2819.54,
+      "^WIG30": 3670.18,
+      "^WIG": 3670.18,
+      "^NCINDEX": 276.55
+    },
+    "news": [
+      {
+        "title": "Nowe informacje w sprawie nalotu dronów. Wójt gminy Wyryki: dla nas to nic nie zmienia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1NHd0tZT0IzVVd4cENDZUprQlpFRm9zeUY0YVBwekFybmktVkRtaDhjYzV2eU0yUmpzMHRkR3NyQVJrcC1Tb2Y0TE1FSlpuN2Y4NHhtQmNfNEQzY2ZyZ1BzTVJsQTJ1NUVDSFpyT296a0d1Z2Q5QmRfV1hGblhCc1lJd0I2Y0NlQlh3alJaVUJTeGRWcC1iTUp3WnFobWpyQXVnc1pHN3JXakh3SHhKcXF5aVFfUXlnZ193ZTN5bWtXdw?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki o reparacjach od Niemiec. Zaprezentował swój pomysł - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3gxbDFlQWwzM1FRTF9ZV3pJR09fSHNQWFNHNjlQWElfYnZORGtIbUQ1U0paTGRQZTA4T1J5NHlKdTFTLVloREl0SWlvOW1OM0N1LTFmV0t0bnZzMkc3YXl0U0tXaVlzTmtFZVNzelRNanhlWmpUaHJTTXRVNHlza3F4Uk1YYU43VUZVdm9QSUVlRVBwdTRsd3h4aXpqZzlyNUV5REc5SG14RzR6WER1ZXVrcVo3Z0hPRkxhYlhfU3g?oc=5"
+      },
+      {
+        "title": "Dron nad budynkami rządowymi i Belwederem. Prezydent i premier o incydencie - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRENpdFZFaG5HbFdIY0NmbGhqQnRGdDdpbXBQTDFXUkhkMXA3eXdGWjEyZGpudGlnUE9HLXZjRXp0dnktNjVYNGdpT1NWRjlMdDItNHZDTktqMXY4UEJEM1NvYlA5OXFaU2tYNU14MXJ1V3lXdC1LZGdqaDJ5MzRmZWZvcVVidjd1MHE4RzJZdkVvang2NUlxLS1B?oc=5"
+      },
+      {
+        "title": "Nie wiadomo, kiedy Polska otworzy granicę z Białorusią - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVF5aUFydl85cEZxNW9WUXhWTDIwelRPTkNfZU9BM29LTV9mZ2FuTmszelRUWGVmNFVPQjRrd0dpaWxaY19DMERJQjNieU1pc205ak00V1FwbVZqZlNtcFBLanA0UkctMlpsNVJXS3dKc1MtdmFEeGMxdlZsVzI1aWREeHduU1NBUmY5X0tRTUdQT19IT2lGNmJ30gGTAUFVX3lxTE9RcmZINXFIODhZbm4wVHlCcDF5cWozUEk1SUpleWowcW9ldkdfd3JWbVNIVzNoOVVhS2NzNENVOU12YUtnZEdhSEF5Zmk4cmltTHE4UUIxTG12dERzM0VOZlZoX0pIVnl6MkE1UjY4RGxIYnB5YkdHazBxbmZ4RVoxRmpSMWxyMDZaMllETWJpcy1RYw?oc=5"
+      },
+      {
+        "title": "Wielki pożar w Czeladzi. Ogień widać z innych miast. Dramatyczny apel do mieszkańców - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFF3TE1CY3kyT2tuODM3djBLX3NSODRLT2tQU2lPd3g3ZGdmcnEzQ2prRmNNblBUYlktX19KMi1NZ2xvb2RreVgydHVwQ0dwQWxONEpzRlJ2YkN6QTVrY21WMFV5bU5zNVZMVE1JdU5DaWdUeWxFbzBtYzhwejRSWmtia1N0a1d1eUdKNWMxSTB2dE5lSy1ucjdQbnA5Tmk1eXBLWURWalFyWlNseUNSSDNnOVhncFVrR1NtVnFES3NPTTdPNzl2RWRHMUNHUQ?oc=5"
       }
     ]
   }
