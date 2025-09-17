@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-15 13:11:27",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6188,
-      "EUR": 4.2476,
-      "GBP": 4.9148,
-      "CHF": 4.5458,
-      "JPY": 0.024549,
-      "AUD": 2.4101,
-      "CAD": 2.616,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 415203,
-      "DOGECOIN": 0.956462,
-      "ETHEREUM": 16367.17,
-      "LITECOIN": 409.95,
-      "RIPPLE": 10.79
-    },
-    "indices": {
-      "^WIG20": 2843.86,
-      "^WIG30": 3705.82,
-      "^WIG": 3705.82,
-      "^NCINDEX": 277.05
-    },
-    "news": [
-      {
-        "title": "\"Żyjemy jak na tykającej bombie\". Nowe informacje o śledztwie w sprawie przerwania tamy w Stroniu Śląskim - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkNDVE44aVNFVVV0ZXlxcVdEby1MQlprRmhPRlAwY0hmQkxVc3lMVkJ5NENGUlpBOFh2NEltekxiS2liUXpBMC1wNHY0NDN5TlZzWm1UOVJzYnlVVlZtWFZCWFppSFdRTzN4MndObUhCWFlqVVBhVGJJMGFWV2xBRTk4OGFhLVc1OGE0MXlPUFBPM1B3RFduSm16R3RWVzFSVkhvUjhhSExKa21VVGVycFo3bXFZSWFlc0Y0dGU0QUotLTVlNDJYV19TVlJZTjM3UXc?oc=5"
-      },
-      {
-        "title": "Wzrost cen ropy. Trump apeluje o sankcje na Rosję - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUpwWlNYRzFYUkp6bi1wTGVWVC1kUXZqQmZpMGlWZ293T1ZIdWZ3ZnZkemkzU0s4cGFrQ3JYODNRdG1wTjRlZkhMUDVjd0U1MUlJSUxpQ00xVDVLWU91UWhia3N5S0ZhN1ZOOW9MVEZfMjJvOEFSS25ERlE4b1d0NGJrbzg3TXJYVWpWY193RGllQkk?oc=5"
-      },
-      {
-        "title": "Polacy zapytani o wiarę w deklaracje sojuszników z NATO. Nowy sondaż - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXV4bG12M1UwOTNQTHlaSlRMTE1GaTRveWxmaXVoSEc0WjlxZlFnQ2l3TEd5QnUzeFZGeHVkWjNxR2pvQnZlY09kRDVLc09VNmRQYXc2NHpWNG9LcGpja2RYampRMGc3X2JKQ2Z4TTNkMkd3R2FLLTkyMTZQbjNSVFVaVXhseTVMNUNmY3kzRkZHZlBqaEpvb3FZRW55UQ?oc=5"
-      },
-      {
-        "title": "Możliwy motyw zbrodni zabójcy Charliego Kirka. Nowe ustalenia - Onet",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2NzV1YwUVN5V0llMDNVQnhBMGhxVDFFR2dVMnZLZ0JUMHRId25Yb3JvNVd5SDF2WDRNZDcwUVVqYmRQLWdsTERJMVNjblNqSU9lcGZUQ0FWRnF6WUtxQlRjOWZUcXRHcVJ5Q0VGempQeElHSEg1S1NFVmQzcDhudkkzVG9RYW1pLUdvZ28wYkE1aU0zTEtYXw?oc=5"
-      },
-      {
-        "title": "Szef chińskiego MSZ w Polsce. Spotka się z Karolem Nawrockim - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRE8yaFNMS2RyTkFDZXZyTnRpbFZHa05uNjRZZGloRGhXcV9QTXBrQjd3b1R3Q3FrNDdDZHNPUlgtOUF3M0doYzZnbGtXM0Zsc19EMTlYUXktUHBaWTBsRTdTYy15alo3S1Y5cVdFZjRiTldadzJLN3RzWHJsSzdtVFZlVEpzUEtkZzg3XzI1dlBpbGJjeEhINkFLcF96UDY5Y1JqLWdCYVlZSTc4NVVEMlhGRmdqWUF5MFBaQW9kMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-15 14:27:53",
     "weather": {
       "Warsaw": "brak danych",
@@ -2645,6 +2592,59 @@
       {
         "title": "Sprawa listu Trumpa do Nawrockiego. Mamy nowe informacje z Pałacu - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmlXZmFKQ2xDejB1ajZrZlVmNWpxTUFvWURLUFJkRmRBOUZLcXZPd2EtV3dOVnRqMkR0bWhaOHladGM4RVZwckx1UkM0cFpnVzVySlVjY3dCempIUi1hQWNtY0dpWndtQnpOWWVmaUNZV0dKZkw1RXVoY21WTl8zYUVCcmpUajNlQkdkV1RHbS1EWFRHU2VUaDFpNl9YdEVORV9MLTZmVU1tcVpneW9UV1NNYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-17 17:14:03",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +16°C"
+    },
+    "rates": {
+      "USD": 3.5919,
+      "EUR": 4.2559,
+      "GBP": 4.8994,
+      "CHF": 4.5647,
+      "JPY": 0.024526,
+      "AUD": 2.3962,
+      "CAD": 2.6112,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 415328,
+      "DOGECOIN": 0.95169,
+      "ETHEREUM": 16130.93,
+      "LITECOIN": 409.23,
+      "RIPPLE": 10.83
+    },
+    "indices": {
+      "^WIG20": 2813.42,
+      "^WIG30": 3661.58,
+      "^WIG": 3661.58,
+      "^NCINDEX": 277.98
+    },
+    "news": [
+      {
+        "title": "Polska - Holandia na żywo. Siatkówka dziś. Relacja live i wynik online mecz MŚ 2025 - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazVlSUNSVHJRZWVjZUExVi1GMHJaUTVsZDFEbTA5TTliXzRpWEpNVk04SjZWdFpMMlRXZmlZWENxdW1rZC1yeUpPQzM3OThIQndzYVlncFNFT2NqT0hscE9URkVGLWNhNkZCaTJnbHAxZGNTMVVIWGRTNUhoemRKZ2M1anJNVjNnQjVObW9ZYXRTZU13emZuRzZ3R0RkcW45azF2dlphaDFtS0pFOG4tRUJ0anZucDVvMHotRTFiTmtIU1pWSkVr?oc=5"
+      },
+      {
+        "title": "Rakieta z F-16 i uszkodzenie domu w Wyrykach. BBN jednak o wszystkim wiedział? Nowe ustalenia - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaW9vMU9IQ1d5TmRsbFMtYmd1NWtrMnNWcHVTNGRVbUVyTHhNQUZmelcxZkZtM3QxaUY2akNsaGpsTjVMV3o3d0VHVnYyVW9Ca1h5amFSOXNxRVNkc0JEZTBzWWhFWllaUXdXdEIxQ2J4MkF1bm56Z3NNRWpoaEM4eHI0WXdOc1dkeldjRzMzQXdtMzBEY2xwUDI4dTU2VzhvaUlPekh5bWEzSGlxbGE4SHJ1WWc5bndCQWhMM2FPLW9UT3NmcXRqY3dIUms?oc=5"
+      },
+      {
+        "title": "Wzruszający gest Michała Bajora na pogrzebie Katarzyny Stoparczyk. Nie przyszło mu to z łatwością - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXI5dkRpMUluMnpFVm5qN0V3b3NPMl91aDhqdFFpWndpWVVfSXlFUnhMaXFOUGxDdl82S2dPOHpwREhjMngtNDgwVGViWDJCd3VoQkJCaDRBdTJ2eDRwTWVzVTVOUW5kRGttZks3ZV9LbmgxLVhmOGJWWHlhcTJjWkd1NmJDSXdrVWlGSjkyb0xIZGdnakJ1LTk0ZzRpckdvZ3VvVzFSSE9xTnhvRXpHU0Q2ODRkMEptREhCY1NMblZBaHNyRXRpZHZzZFVRUHZaWkdidGtqYw?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Polska deportowała Ukraińca, który operował dronem nad Warszawą - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzdVVTRtZUJQVjJma1UzTkhuTGtMbkE2anRiXy1mQlItQi04TEZmVG51Vk8yelpCSkdOZHl3MklkY0IyZVF3UlFQTTNJcG5tbGt5Mk1PcU43MWNyTVlEMUJPY1JpbW10Ry05MXpocUFzRGxOWmF1UDV0NzNHcXI5cHNiSFhvMmUxdHI0cjRTRFVNNURIZ0VxRV9DYzZRVFFuNzQwaDR0ZkRFX3N2Qk9EVDJMRkZ2MW9vZVk0c01MSjk?oc=5"
+      },
+      {
+        "title": "\"Ustalenia trwały od sześciu do dziewięciu miesięcy\". Melania Trump dogadała się z Kate i Kamilą - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNHFYbElRMDFWV25JbVBpWUk5TmdUUVBrdnROVjVXQUdKRGltai1mYmN6ZkcxSU1vbjczV2pjNlBSMklHa09KRnJ0NThnTkZaV1M2SVFvUUFpTEJ3dkVOR185VXNLZ0dHai1LcThOWlB1LUwwUnJTb1VtUGZGTWM0dDRMb1pTZEFoRGppMzh6em1RWEplRl9HSzZrRmZqVUtPSjYxTFdUVzliX0hRUDNLb0ZieVY3M1pydndzRTB4T3dERXdW?oc=5"
       }
     ]
   }
