@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-16 06:16:32",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +16°C"
-    },
-    "rates": {
-      "USD": 3.6188,
-      "EUR": 4.2476,
-      "GBP": 4.9148,
-      "CHF": 4.5458,
-      "JPY": 0.024549,
-      "AUD": 2.4101,
-      "CAD": 2.616,
-      "CNY": 0.5081
-    },
-    "crypto": {
-      "BITCOIN": 415298,
-      "DOGECOIN": 0.957543,
-      "ETHEREUM": 16268.64,
-      "LITECOIN": 405.06,
-      "RIPPLE": 10.72
-    },
-    "indices": {
-      "^WIG20": 2866.16,
-      "^WIG30": 3731.4,
-      "^WIG": 3731.4,
-      "^NCINDEX": 277.57
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki w Berlinie. Tak nazwały go niemieckie media - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXdYaXZSSjR3NVRCNnNFcG0wV0dMaVNQU0NkVEExdUVOQ0dEUTNHdGQ0M0dCc05qV3MycmlkYlUxODZ0MHVteW5RSmFycnJGTC0ybzEtS19Ba0JhdFdzZE5zRzZTQThTeWlocnpFdDF0bmtCLTlZQnlfV1hQZmNZSDcyc3F1aEN3UHY3aU91YTFhaGpiWWRGTFRSYXR3RjVKdlFnXzlyOHp0Q29UVFJYUk5NSEFpdU9xZ0dON3RTWQ?oc=5"
-      },
-      {
-        "title": "Donald Tusk: Służby zneutralizowały drona nad Belwederem. Są zatrzymani - Onet",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTC1ZSkMweGFrcDNrV3kyNGlfTV9jeVh0MENhMldYTWJwX2FHTzNyeGFMeHBlbUxUQV9xVktvUDdwRmlUcVpCM0dON0NOVDZKaE5BVzdhMXNOVnRGSnNPZGtFNDV0YzhZSmpsbEpBLU9VaDRobFpzOWQ1SGkzY08wYldNNnIyaDhuVFdkaUYtSURnbGVNY21rYWZuVkM4dw?oc=5"
-      },
-      {
-        "title": "Rosyjscy dyplomaci wzywani na dywaniki ws. Polski - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkhXUi1EaUNOSGV1MmJnb1ZkY0tRUk9xV1FTM0ZvV09faEl0ZjRsNHJXckNBWXRTdlI5N1pXdkJUYVJ5VDlXNmtDZEJRd2ZiM3pGeWtBZE9mUmRPWjd0NzRoTVcwUmE1dVVEN3BzZ0VybWxzeXp0MXlBYk5fM2VQcXh3UlE2Qk5MS1NsTTR6aDVOSnpQRXc?oc=5"
-      },
-      {
-        "title": "Po spotkaniu szefów dyplomacji Polski i Chin. Co ustalono? - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXc2dlctSGx4MEhNRDd6eW9GdDU5OWlmME9YUUJPZ3pDRmRGM1JrYVlmaUc1S0drQV9MVWxfbFAtT25LN25fWEpsNFFybF9rX0paTkowYVc4dG85bDZXQ2ZfVDdPN2xVQ0c5dVJ5N0I4NFJjMkt2UVlUUHdCTWY1Sm1nWHZWX3BrTFpPVGJVQkE?oc=5"
-      },
-      {
-        "title": "Sufit runął na ziemię. Ewakuacja galerii handlowej w Toruniu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3Z3Rk5RQlJVa2RjeGwzQ2VSUFIzOFl0Z1VVcFpiWG9VM3cwalFPRUNZWDhLdkNZb0RhNG1ITkZYVWlud0tBaFQxYlJpSDNLNFVCdTh5RTZJSG9nR2FjLXg3TDBlMnowazlpM3NjTUhHdnpkT3hJYXpIT3Z4LW5mRVJhM1VWbE5nMG1OZ004d3ZTR2hicUxTM3lYZ09wUkJHLU5OMENRN3hQQVo4U0Q4VzhPVVlRQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-16 07:13:35",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Sprawa zniszczenia domu w Wyrykach. Siemoniak zabrał głos. \"Wszystko na to wskazuje\" - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjd6M01tYjVtbDNPZFBEQWZaWlpyY3p1TEJFOHhVTnRZRmpiR1ZtN3JncEZLb3ljMVlZeEFyYjlaRmV2dTNubndvRjBsRzJpWGdfUk1obVNHN1Jaemdna21WcmN1bDA4LU1GZjFrRG8xT3ROU21ybDFQYXVuRlJMMmwwd3BLYmRYeUwzdDFLTnJLM1lCVnZzaGU4V29HR1VmS2gwUDMtZ0FBdjdl?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-18 10:17:50",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.5919,
+      "EUR": 4.2559,
+      "GBP": 4.8994,
+      "CHF": 4.5647,
+      "JPY": 0.024526,
+      "AUD": 2.3962,
+      "CAD": 2.6112,
+      "CNY": 0.5055
+    },
+    "crypto": {
+      "BITCOIN": 422161,
+      "DOGECOIN": 1.01,
+      "ETHEREUM": 16504.3,
+      "LITECOIN": 417.08,
+      "RIPPLE": 11.17
+    },
+    "indices": {
+      "^WIG20": 2812.64,
+      "^WIG30": 3660.95,
+      "^WIG": 3660.95,
+      "^NCINDEX": 278.92
+    },
+    "news": [
+      {
+        "title": "Iga Świątek - Sorana Cirstea w drugiej rundzie WTA 500 w Seulu. Relacja na żywo - Sport Interia",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkpHbXV0Nk9uU0p5emtIN09HV0wxaEhNdjB1YXVhNnY3cC1FSDY3YTlfZnhhVkg3TWUxRl9mdlN2ZjVRb0I4TUJwX2JOdVpnNlJMR3poMXZNWFNJYnlwcXE4dElBazYzNEdoSUlFUjJpOXI0amxNNm9FcGRSUjVOaF93QjIzc0VsSlhsb1VSNmRWYUtzSXE2UXZPLVA0RGtPRDhuY01sOG5xQ1FWMExZcWQwZWwzZw?oc=5"
+      },
+      {
+        "title": "Niezapowiedziana wizyta szefa MON. Minister jest w Kijowie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc0RENXdqUHRsY0RnTEdOcGM3c1BxSEJDa2FKcS1YTlBMeWJxTVV0WFk3UERJd2dpWWpOWWMtOVNLMVlqazZTdG1vWlFrY0I5Smd1RUpmSmc5bHJ3UENJQ3MxeXhianN3c0NpOW5WdGlCLVBUc09MMk5DZjh5UHFHMVd5YVVZT2tqNFM4OE15bDNnTlRJN1RHd3lIZjlLNHdsOGZPUUZVSXZXTlltSmtka0toTE9tRHIzaEhyNGFZNUNYdkhQNFRKWTd6cllhUQ?oc=5"
+      },
+      {
+        "title": "Władysław Kosiniak-Kamysz o tym, co spadło na dom w Wyrykach: Informujemy BBN o wszystkim - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb3RCcXpaWVpxdXZjTHNUdUF5dUYyLVpCNkhxM2g1bWtuRlprR2VidS1tNWc4Q21IM1htUmFCelN2d2hnUE1ncm5aTXR3QWYtLUpCLWRvelJhcHBPeFpyZjJudEY3S09FV0lyeEl5c2tyT1RVUndXTlJ1cVRNUDVNc2taLUJ3YVF3Y0NJcHhtTHM4NEV3QWZMdTllUTBSV05BdHVUVWl6YkFOcFA5d1FkSUxMUEo4MmFEXzdZOVFkd3N4M1RrcVFBTHB0VmgwenVC?oc=5"
+      },
+      {
+        "title": "'Wiecie, że oni grożą powtórzeniem zbrodni wołyńskiej\". Demaskują rosyjską prowokację w sieci - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVBmZzhSU0R5Vld5Wk5pTnYycHUxUDVyYzNrTl9aV1hob3VfVDI4aVNsWFRfNXdoUVgyOExJX29OTncwZkVzRXdYT25lSjhzQ25laFQxUklITE1WclJOZ2FhMWZLbTVRUmw4X3B1UGdZOW40NjZBSUw3LTdJNkZPR3Z0UWh1TlR1X2t2TzhBSTBXWmxHVlNvRUJXcll4ZHNnTXlnUkdGV1d4QVRrLUg1MFdWcmJ5V1ZWck1OaWduU2ZienVrTm0waU92LUI?oc=5"
+      },
+      {
+        "title": "Kradzież samochodu premiera. Minister ujawnia kulisy śledztwa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS19MdkFkU0l0T0tpUXZMQ2FRaTVhLUlXR1hvamZXX21WMDJibGhjTTFidlZlY0R4UXcyUWlXUFd2NG12b1lfdHVZbVhkXzBmUlIyZXZuM0QzZmdtSThlb09aS1hQai1BaUI0M0xnT1JydWxwek5iNnZhcGZKWEpfTjRkVnZQRE5hZTZtMmZFOUFSZzFBbllBd05TZHJrLU9yMllTczJpMDZRWE5wSGtzVmRvUU5LQVRHU2Q0dHdkOHhmUV91cHItenVlZw?oc=5"
       }
     ]
   }
