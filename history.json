@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-17 08:20:36",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6034,
-      "EUR": 4.2504,
-      "GBP": 4.9095,
-      "CHF": 4.5486,
-      "JPY": 0.024514,
-      "AUD": 2.4009,
-      "CAD": 2.616,
-      "CNY": 0.5064
-    },
-    "crypto": {
-      "BITCOIN": 419830,
-      "DOGECOIN": 0.959888,
-      "ETHEREUM": 16204.44,
-      "LITECOIN": 411.31,
-      "RIPPLE": 10.83
-    },
-    "indices": {
-      "^WIG20": 2819.54,
-      "^WIG30": 3670.18,
-      "^WIG": 3670.18,
-      "^NCINDEX": 276.55
-    },
-    "news": [
-      {
-        "title": "Donald Trump napisał list do Karola Nawrockiego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUp3Tko4cURkdlFxdkxSeXpxY2hiaUZVSVhSQUhLMWNzenM5SXlyQ0JjTGdUdzlpWkFNdm9fdGM0N2xuTFpxVnItd0pGTjRjUWEwMmNKLXJyMzdjRmhnRE1mRmVQWEU2c1RvbTNWd1hOZ240dGJ3TlpoamxyNEYwT3docGdtRG45Vk5sVlRBa3BLVFhvWWtzWTRnVnlkZ3ZwQnZWajFXanBHc2NIWE1kaG1obDBaa0tNdEJFZFBn?oc=5"
-      },
-      {
-        "title": "Nowe informacje w sprawie nalotu dronów. Wójt gminy Wyryki: dla nas to nic nie zmienia - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1NHd0tZT0IzVVd4cENDZUprQlpFRm9zeUY0YVBwekFybmktVkRtaDhjYzV2eU0yUmpzMHRkR3NyQVJrcC1Tb2Y0TE1FSlpuN2Y4NHhtQmNfNEQzY2ZyZ1BzTVJsQTJ1NUVDSFpyT296a0d1Z2Q5QmRfV1hGblhCc1lJd0I2Y0NlQlh3alJaVUJTeGRWcC1iTUp3WnFobWpyQXVnc1pHN3JXakh3SHhKcXF5aVFfUXlnZ193ZTN5bWtXdw?oc=5"
-      },
-      {
-        "title": "Nie wiadomo, kiedy Polska otworzy granicę z Białorusią - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVF5aUFydl85cEZxNW9WUXhWTDIwelRPTkNfZU9BM29LTV9mZ2FuTmszelRUWGVmNFVPQjRrd0dpaWxaY19DMERJQjNieU1pc205ak00V1FwbVZqZlNtcFBLanA0UkctMlpsNVJXS3dKc1MtdmFEeGMxdlZsVzI1aWREeHduU1NBUmY5X0tRTUdQT19IT2lGNmJ30gGTAUFVX3lxTE9RcmZINXFIODhZbm4wVHlCcDF5cWozUEk1SUpleWowcW9ldkdfd3JWbVNIVzNoOVVhS2NzNENVOU12YUtnZEdhSEF5Zmk4cmltTHE4UUIxTG12dERzM0VOZlZoX0pIVnl6MkE1UjY4RGxIYnB5YkdHazBxbmZ4RVoxRmpSMWxyMDZaMllETWJpcy1RYw?oc=5"
-      },
-      {
-        "title": "Szefowa KE rozmawiała z Trumpem. Polityczne komentarze na temat działań Rosji. Podsumowanie nocy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWVIVllHdGpDODkwOTdNemg1MHlIWDY1ZE9WczE3SGFsYnpkamRWQndMSEtXWUE2bXl0d28zTEE4REVQaUFMS09fQllsNjNoZjdWdmg0eUY3c3dJZUwzUkFXOFdlWE9uczNXSDd2S0JqTDI0bl9lMzNfOThKUmtYQ0JOeHVyRmUtQ1B1Sm1NcTQxeVA0cV9tUU1YbXgtM3c1YlBORWFKSEhVMld6cEp3YjhZVnprMG1a?oc=5"
-      },
-      {
-        "title": "Prezydenci Łotwy i Finlandii o rosyjskich dronach nad Polską. \"Wtargnięcie nie było przypadkowe\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeWZnOXM4eTNwVHR3WkRvYnhfclNfY0lPWHQ1OFRYNVFqZl9SME1LdWMwbHVJNjdDZVp6UDVJb1lSNVhzTHpWZHVyTUpwQTFTRWxIVzZRNTY3SHZFVzlSYkIyVlpyYm1VdzVDaVNieFNBS3RUX19LaGotVFBaaGY3LVJQdlFMcEk0UVFzbUNiR3RqSFhYQi02c0NCZVFCeW1nNkd0d3E4dkJ6cVU2SUJ1dmtaeUgtd0FiVG5fZXhfMzFObnJPbV9aUGdKY2tpRDQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-17 09:12:47",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Efekt weta. Pałac zadowolony, rząd ws. uchodźców chce iść dalej - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ292RUZ6Z3Q3MDFYWUs2TWJQZjd3RGRBVDctb045QUhZZl9DYlBvRjNFQlJxeGZpS09IOHp3Z1hleTJ6a0JJd2hNdGNMYUVuQ2M0dFA0Y21wcHUzcVVjXzZZMlZ3QkEzSHBrWVR4clBPdlFiM3VHVmtVQlNWQm9qWVlsV3VlR3FYZThpWElXUnU2VUk2UklwSnRZX0FNUUg4dktMSThvdkt5Y0kzNXMxdDhOY3ltdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-19 12:15:09",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +20°C",
+      "Gdańsk": "Gdansk: +17°C"
+    },
+    "rates": {
+      "USD": 3.6278,
+      "EUR": 4.2666,
+      "GBP": 4.8974,
+      "CHF": 4.5617,
+      "JPY": 0.024534,
+      "AUD": 2.397,
+      "CAD": 2.6273,
+      "CNY": 0.5101
+    },
+    "crypto": {
+      "BITCOIN": 422552,
+      "DOGECOIN": 0.990935,
+      "ETHEREUM": 16419.05,
+      "LITECOIN": 422.83,
+      "RIPPLE": 10.98
+    },
+    "indices": {
+      "^WIG20": 2807.73,
+      "^WIG30": 3653.13,
+      "^WIG": 3653.13,
+      "^NCINDEX": 278.59
+    },
+    "news": [
+      {
+        "title": "Ryszard Rynkowski w żałobie. Zmarła jego ukochana żona. Wspomnienia sprzed lat - Kultura Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUNvZEtnWFZnYVlaX2phMEFWbzZvRjQzdm5qNzhxVDBWZEN3bllvdXJrLWdKYlRwOE9zOTRuZ3J0cVozRnpNMENGME8xVllVTXhIRHlaaGw5X00yVWZWNEs0UUgtZzFGcktWSzA3STBGRF8zbmk1NE5SLWRySUpJR09BNGFQdUk2S2lmanRfSFVMQ2o2REdEbnItMzd6MHdJeDVxUzFHNmpBX2w1WlJENVNVcXVOMTF5QlA4?oc=5"
+      },
+      {
+        "title": "Akcja wojska na Lubelszczyźnie. Prawdopodobnie znaleziono szczątki rakiety - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcThUai1OVVNqanJsWGNoal9saUwwRnJmSmNGUmpaN2pOQWUzWFJTeW95ejZmS0lpeU5oMmtkNmJ2dTkxaloxY2JwaWZGTmxFUXpmTUt2M1RGbVRxT3IwbTFfQmFpZUtGQ2RpeHo3eDRHaTFZY0EtdGYzVHBYUUFMck1BcEEwdE1fWE1xOUM3M3RaZ3Zra2R4d3hCeTlReUt4cnMxSUF1c0hCM2VDUWxzMjdzano2N2E0SHo5dGFwV3hONUk?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony nad Polską. Donald Trump mówi o \"pomocy po wojnie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkZHUXFIR0J4d1c2MkxNd1RJeTVVVzUyMnZOT09Mem5DZk1MMi1GaXo2eExvY3RRVUVjdi1XR3U5UkoxTlJlY19UamtHdzVVQzhTamVaT01lZHRwT2d6R2hCRFNJOWFlN1B3bGh1T1JQSzJFRE9GLWFmNGwwS0V2YlFlc09kSUt1ZTdkTnN1OXVsOUNNTWcxOXdSQ2lIaGhraUh0YnY5UUJlamRTbmRwNlZPTQ?oc=5"
+      },
+      {
+        "title": "Trump: pomogę po wojnie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1VwUmZBd21mQkNWdTV2WG1vUFpQUUNQWFFOTGxPWDhPcW5fc095RTV2UjhiSlZ1Yjh6bWlWY1dsRGFHU1J4OUtfcTJIaVRZbEgtbUJ0bk5qN1c5LWhlZDhWRlF6Wml2aDRxTGFWNTlyVzFzQUc4TTdrM1F1eGxUbzgyUW1MMzFMeWlCaFYxTFhqRThUQXc?oc=5"
+      },
+      {
+        "title": "Rząd pokazał swoje priorytety. Mówi o czterech filarach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEgwenBUTTI2X2JCM2xqdUtsQnNhVHo5eXVCSEhyaENtTmN1eDNvR1FhbG92a0xtRE54S0gtZ1JCbjNWS3BWcE1MNEtXQW80eXJ3UWRVUVlCYVNvLXc1MFcxcklOQU1CYkZubjAzTFJnejA5WWVHdnJNbUItT0pDR2xHMzBGMlhLdHFDWGo1WjVYNy01UG1Fb1hZRjM3ODBt?oc=5"
       }
     ]
   }
