@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-18 17:13:48",
-    "weather": {
-      "Warsaw": "Warsaw: +19°C",
-      "Kraków": "Krakow: +19°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.5986,
-      "EUR": 4.2564,
-      "GBP": 4.9085,
-      "CHF": 4.5601,
-      "JPY": 0.024408,
-      "AUD": 2.3888,
-      "CAD": 2.6116,
-      "CNY": 0.5064
-    },
-    "crypto": {
-      "BITCOIN": 425318,
-      "DOGECOIN": 1.021,
-      "ETHEREUM": 16647.84,
-      "LITECOIN": 421.11,
-      "RIPPLE": 11.29
-    },
-    "indices": {
-      "^WIG20": 2809.46,
-      "^WIG30": 3654.65,
-      "^WIG": 3654.65,
-      "^NCINDEX": 278.46
-    },
-    "news": [
-      {
-        "title": "Nocna prohibicja w Warszawie. Jest decyzja w sprawie dwóch dzielnic - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2E3LUp5TXJ5dGs4bVpQeEhpVTlXcUZEanI5eWcxRE5ia2t6cjJiNE9ycjNRSnFzSFdZTThoZk1wTU15NWFqMjJXUmxEVl9WVGRDTmhFcEN4ZG9lc0JzZ0hteTh1Ylk4M2puR0otQU5qR3hDVXZqNHFKUjEzZ0o0MFlFdXppUDRNS0twdXVXbmpTVWtXZnduSU03WEIxZUtQTXpOMXhsVERzNmVQeW1VYmo1N2p5di1HNWZsM3ZMcGF4Y0lzZFE?oc=5"
-      },
-      {
-        "title": "Mistrzostwa świata siatkarzy. Reprezentacja Francji siatkarzy poza turniejem! Sensacyjna porażka mistrzów olimpijskich - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ0FlRm5qVGZ6bjV0eWdKLU01YzM0OGpsMEJidVJya2k1VmdhY25pdTZkSUF2ZXVXbkJPTTFjWGpsaTJ3VlIxOXN4eWNHRml3dERMR2c1WnA0ZHhnNjdUeFVELWN2YU1yNFdQQjVLeUpzcE1mZXMzLWpSaEx5SzBXZkt3ZzlPRkRjU2hDenhDaENRUE94U1doY3dnaUpwSWZWdzk2TnpnV2JwVEUydjhnM0M0ZXp5LW4tT3E1X0twNlBYX3hYdXV5SGRidy1ZRGJsb0llV3ZkUlFwVGtVSmhF0gHkAUFVX3lxTE1mcFdoaS1nSzFrSWN3bXhQejBrWmt0b25FNGtLUXZ6Z3U1LUNFeGtFa1M4cU9RUk1Mcm1jc2tTR2VCcmlrT0ktdWxxdnNnb1pmSXBRNlpGZE43RVZvb2FKR05DVmlhMV9hLUhrbHY4Unh1YjFILXdLeUo0QUpteUhaRHhKU0k4M3FOWFNJRzZRUGVhX18tMFRfVFFueFVGUHZXSTh3eUJhWGlpVEJta3kyU05fdWZBOGJyaXdzM3Rha3d2bFN2c1lxN01pWl9KN2w1Ym9SYms4c1VkX1d6cmtuUkZWdg?oc=5"
-      },
-      {
-        "title": "Polska zablokowała drogę Chińczykom. \"To można włożyć między bajki\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHNCZk9XSDE0Z0FlQVpKdWZvLVNqNFZ1WE9lcVBLWFQwX0NnbnZJZ2stbFg0R2ExTnhodzdjRGZCSHdqLU1VN21ZSGZoYXl1VVJMWG1kYmhhUHhUVDBJeFdoOU9reS1XQkpxN2phS2Fxd0hkaWdKV1BISW1xSkN5ckdFVW44R0ZSenpMUlM2WGJEVWZtaUhKaHlvTURqMW05Q29CR0tsamJuc0tnMkJzbGotRUxXUTJ4MGdUVV9hbDJQdDBiekE?oc=5"
-      },
-      {
-        "title": "Melania Trump zadała szyku. Tak wyglądała podczas pożegnania z królem Karolem i królową Kamilą - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGdEOGxfa1VjdV9YVWFBemtBak9GZVcxVUpaTDVfZGswc3hveWNuTjAwQkFfYzN3MnhHckkteXZEOGdRVENzQ21lalBIUktSaWtKTW5YaG03SWtON0UxRGdhdHRLNkVzNzJ3NUtjU0dGNDJObDZhVkZSckhqNWUxMHA3d1p5WThNM0RTbmxSUVhLdGl2czBzcFB4bmNXV1NFSDNFNC1ILU5TdHVXUExxOVR4LTNUNWNITXpfODFaSGtxZjM1dnhTMUxMa0U?oc=5"
-      },
-      {
-        "title": "Białoruskie i rosyjskie drony próbowały przekroczyć polską przestrzeń powietrzną. \"Dziś w nocy\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3NZY0J6aDQ1ZE5SNjlQVHJvWmVJMjZtTHh4RlM3aWFZeWotNFprT2JIdGpiM3ZwRUZieE9GdTEycU1TLUtDYXZRQ1EyRVRyWXNiSXdBOWxUd0wzTUIzTDNtZklsUVBXUkk2Sjh6WVNkaDM5Tjc4amNsZU9RNkplakdvbklabjJrVzJyRUozcFV1ZUFGTmFZVHRVVnltc0NfN1lDLTZodldudjNfaXRnNVdWRWYyQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-18 18:16:18",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Karol Nawrocki podjął decyzję w sprawie swojego syna. \"Warto skorzystać z tego prawa\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNkhuR3hILUQ0UFZGR0llRGVYUXN2bFQ3Um8tNmhMbGVqTldtMDNzRFpMM3NlOXFtR3RMdlhDSE1kS0RsQ1V2dS0ybm1jY0hsNVViWXJYN01mdjFLYkZzOGpYUV9ES1pFVVhMUmlnS1BBc1Vibm1TdEJ4V2gteHlHdFlxQURpTngxUzNfU2JzaUdBaGlSaGd2UWJHaUJuNHFmc1hoMEhwdU45RXduVGpmQ3NZemFvRVp0RWZ0VVFubw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20 21:09:19",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +29°C",
+      "Gdańsk": "Gdansk: +26°C"
+    },
+    "rates": {
+      "USD": 3.6278,
+      "EUR": 4.2666,
+      "GBP": 4.8974,
+      "CHF": 4.5617,
+      "JPY": 0.024534,
+      "AUD": 2.397,
+      "CAD": 2.6273,
+      "CNY": 0.5101
+    },
+    "crypto": {
+      "BITCOIN": 420159,
+      "DOGECOIN": 0.965937,
+      "ETHEREUM": 16251.2,
+      "LITECOIN": 413.05,
+      "RIPPLE": 10.8
+    },
+    "indices": {
+      "^WIG20": 2802.69,
+      "^WIG30": 3641.52,
+      "^WIG": 3641.52,
+      "^NCINDEX": 279.93
+    },
+    "news": [
+      {
+        "title": "Dramatyczna akcja w Wielkopolsce. Malutkie dziecko wpadło do studzienki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWEtNXlVR01EcWFrM0s1MWFrM0sweDJGTjFDbFZPOHRrNkVubHN0aGdfLWQtSkIxRkJHbFc5M1pnMEd3RFBUUGdxNDhmNEFXV1ZDX1pNNEJaSVpiMkYxUTZRRkNjeWYtUk9qY29KYXROLWhiMi1pNkYzdElzRmVqMno4ZXIyVGlHc0hFU0Z5TnZVRENLMWpuQ2RsZ1FaN204OEpLVWNDRmdUYUZ2WjcxZk5R?oc=5"
+      },
+      {
+        "title": "Rosyjskie myśliwce nad Estonią. Jest komentarz z Moskwy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTFVZl9OYWl4M3VzSTBVZEVhTm5iVFg3UmZRcXhQYUwzM0Q5SXVQM2wzX255WlJoNERROGJaZUZIU01uX2dLeEQxUm5qcW4tNXRyek1KTnc3SGpBUUMzTFpranBUVnBvRThSVGVXNzMtQ1RhWHJYMjlNQzFHNHpZdGptYW1ZMGY2TnM0MjBJa3BBUHFWRkxXaHBPN2xteWdCMDl6Ymd3b0c3SUM1QlBNYWNPTGJLUmNs?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki podjął decyzję w sprawie swojego syna. \"Warto skorzystać z tego prawa\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUg4dWVDLUxHbi0tY01UTGhNck1yazQ2RkRKVF9ib2REZWhQMFA2NDFJU3dxNG5jU3VFT0t2YUpfbjVfOWdGaWVJWkg5VVJGTnM5eU1VaFVuN0xKTWhSaXB3YldpaHR0WnJqQ3MzVlhnTG43amNKRDlza0tWTkV4UDE3TDJkUDU1Y0luNlFwaURkenZ4UnhYVGJ0Q1lRTmdDZVpicUY5Y3RmanRuaG9FSTZLckQ?oc=5"
+      },
+      {
+        "title": "Wizyta Prezydenta RP w Stanach Zjednoczonych Ameryki wz. z udziałem w debacie generalnej 80. Sesji Zgromadzenia Ogólnego ONZ – program prasowy [PL/EN] - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNGxka2U3dW1FV2YxUENSTzRLd1djZjUxWEgwZnVlOXBELXBaaEg5OVBfTXhuWnZXVlVqNVNuVXpLbVd2YXZBN1FZbnI5MnJiZmk3VWZPTnZ2TkRXSGhpb2pYN0NQd1AwbUZURVBLV0tSUVNOeDlMV2lBcjdqUnlfLXRXTHpPdjF4NnNEWGItVGFqbVRNTUtuUkdTcFBKQTk3ZU85b05PdGdrOV85MTN4MzVTNWtpYnp0Y2hwVlV1b0pWcGU3UW1BYmhOZVVmZVRrYXJWSlp5SjFKdkZ0VGxqMzBhSGpBamNVeFM2czhwN0Q4a2p0bjNMb2I4NHU5QUo1a3hiMEhaRTZ2ZWhfQWZj?oc=5"
+      },
+      {
+        "title": "Dron znaleziony w woj. warmińsko-mazurskim. Służby w akcji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUVlUU8yS29CaEFaU2VaTFRzNUZmbG9sZ0s0anZmS0ZFRXY3OC1Mbmt3M0x5SkRRZWptcUlNc0VVTWJKZ0FmR2pWNVkzdnNPNENuUzEtUjhTenh3d3ExRnNYaFkwVXFqTmtvalZSeWpqbE1OUmJlbjRZdDNGY2N2XzJPQjAxRTltM1F5Zkx1cTU0cF8wY0VMU3ptUENSRHQw?oc=5"
       }
     ]
   }
