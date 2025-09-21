@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-19 12:15:09",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2666,
-      "GBP": 4.8974,
-      "CHF": 4.5617,
-      "JPY": 0.024534,
-      "AUD": 2.397,
-      "CAD": 2.6273,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 422552,
-      "DOGECOIN": 0.990935,
-      "ETHEREUM": 16419.05,
-      "LITECOIN": 422.83,
-      "RIPPLE": 10.98
-    },
-    "indices": {
-      "^WIG20": 2807.73,
-      "^WIG30": 3653.13,
-      "^WIG": 3653.13,
-      "^NCINDEX": 278.59
-    },
-    "news": [
-      {
-        "title": "Ryszard Rynkowski w żałobie. Zmarła jego ukochana żona. Wspomnienia sprzed lat - Kultura Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUNvZEtnWFZnYVlaX2phMEFWbzZvRjQzdm5qNzhxVDBWZEN3bllvdXJrLWdKYlRwOE9zOTRuZ3J0cVozRnpNMENGME8xVllVTXhIRHlaaGw5X00yVWZWNEs0UUgtZzFGcktWSzA3STBGRF8zbmk1NE5SLWRySUpJR09BNGFQdUk2S2lmanRfSFVMQ2o2REdEbnItMzd6MHdJeDVxUzFHNmpBX2w1WlJENVNVcXVOMTF5QlA4?oc=5"
-      },
-      {
-        "title": "Akcja wojska na Lubelszczyźnie. Prawdopodobnie znaleziono szczątki rakiety - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcThUai1OVVNqanJsWGNoal9saUwwRnJmSmNGUmpaN2pOQWUzWFJTeW95ejZmS0lpeU5oMmtkNmJ2dTkxaloxY2JwaWZGTmxFUXpmTUt2M1RGbVRxT3IwbTFfQmFpZUtGQ2RpeHo3eDRHaTFZY0EtdGYzVHBYUUFMck1BcEEwdE1fWE1xOUM3M3RaZ3Zra2R4d3hCeTlReUt4cnMxSUF1c0hCM2VDUWxzMjdzano2N2E0SHo5dGFwV3hONUk?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony nad Polską. Donald Trump mówi o \"pomocy po wojnie\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkZHUXFIR0J4d1c2MkxNd1RJeTVVVzUyMnZOT09Mem5DZk1MMi1GaXo2eExvY3RRVUVjdi1XR3U5UkoxTlJlY19UamtHdzVVQzhTamVaT01lZHRwT2d6R2hCRFNJOWFlN1B3bGh1T1JQSzJFRE9GLWFmNGwwS0V2YlFlc09kSUt1ZTdkTnN1OXVsOUNNTWcxOXdSQ2lIaGhraUh0YnY5UUJlamRTbmRwNlZPTQ?oc=5"
-      },
-      {
-        "title": "Trump: pomogę po wojnie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1VwUmZBd21mQkNWdTV2WG1vUFpQUUNQWFFOTGxPWDhPcW5fc095RTV2UjhiSlZ1Yjh6bWlWY1dsRGFHU1J4OUtfcTJIaVRZbEgtbUJ0bk5qN1c5LWhlZDhWRlF6Wml2aDRxTGFWNTlyVzFzQUc4TTdrM1F1eGxUbzgyUW1MMzFMeWlCaFYxTFhqRThUQXc?oc=5"
-      },
-      {
-        "title": "Rząd pokazał swoje priorytety. Mówi o czterech filarach - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEgwenBUTTI2X2JCM2xqdUtsQnNhVHo5eXVCSEhyaENtTmN1eDNvR1FhbG92a0xtRE54S0gtZ1JCbjNWS3BWcE1MNEtXQW80eXJ3UWRVUVlCYVNvLXc1MFcxcklOQU1CYkZubjAzTFJnejA5WWVHdnJNbUItT0pDR2xHMzBGMlhLdHFDWGo1WjVYNy01UG1Fb1hZRjM3ODBt?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-19 13:11:19",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Jesień z impetem wtargnie do Polski. W prognozach widać chłód i pierwsze przymrozki - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWlA2V1NYal9LSm5tY1RzeURMMXR3TkU3TTZWSFRMUnZQc1hlQWczWDlCWS1YNEFFR2ZzVS1tb3RLRmIzQVR0dldPNUlRQmJKcldRLWVPQkhLaWNXVjF1TDBzUVhoQ1VKNzE4Z1E3XzFyNGtHREZzZEN0M01YcHd5cEJlQWViLTFLT1o5SS1vbmUxUlFENTJFckxmN25za1owdHpEY0g1SXd3OW5NY2l0dENEdVp4dXgzSDdMMFZTelllOFNWM0NFZ1F6UV9YX2dJamJjNmpR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-21 17:11:49",
+    "weather": {
+      "Warsaw": "Warsaw: +30°C",
+      "Kraków": "Krakow: +30°C",
+      "Gdańsk": "Gdansk: +27°C"
+    },
+    "rates": {
+      "USD": 3.6278,
+      "EUR": 4.2666,
+      "GBP": 4.8974,
+      "CHF": 4.5617,
+      "JPY": 0.024534,
+      "AUD": 2.397,
+      "CAD": 2.6273,
+      "CNY": 0.5101
+    },
+    "crypto": {
+      "BITCOIN": 419645,
+      "DOGECOIN": 0.968708,
+      "ETHEREUM": 16256.69,
+      "LITECOIN": 417.27,
+      "RIPPLE": 10.81
+    },
+    "indices": {
+      "^WIG20": 2802.69,
+      "^WIG30": 3641.52,
+      "^WIG": 3641.52,
+      "^NCINDEX": 279.93
+    },
+    "news": [
+      {
+        "title": "Binjamin Netanjahu reaguje na decyzję państw o uznaniu Palestyny. \"Absurdalna nagroda za terror\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEUxSXhfY3l1aThOMXNhbDVIVndEdS1CMjk3R1lJTzN3ZmUtWEV3ZldjUTc2YnluTFdFWDhzRlFNblRBUGtWcW9sbXBwaF9peGxHUW5Ed3o3ZzVHQXIzTDNmWGdNVmJVdVZMeHY4WVhTeTZnY0xMdWszNXJ2QlpWVEFhREc2SUxZWE1Ham9oaS1PRnFWaTdpTzMteHhxYlpFcjBHUzBYYzNsSVNiVjlSSWs4b3F1eXM?oc=5"
+      },
+      {
+        "title": "Maria Żodzik wywalczyła medal mistrzostw świata w skoku wzwyż! - sport.tvp.pl",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNlVpOTh6WWp4TzJERkFVR0RoamJfeHA1a0V5LTZUMzNKOHB4c3pmYU5RQzJzMUV1UWoxNjAtWDUzQy13RHl0RXB0dzN4SDdOdmEtcUsyRC1sR1k2Q1dEYl9NbjBPblkwNzIyWGdIWVlWdy13VmNBcUp5YWJHZlZEcHRYZ3dPY3pjOVd5MnQ1S2pDblhCclHSAZsBQVVfeXFMUHRpVnJZY0ZORFJBbktPTS1KU0lYT1U3Slo3MExTVTBZazRvdWNTejQ1NGwwLWgyUVZ2VmktTFFsQi1SaGlCMDBmajVwS0g1WTJHOE4xNGJUR1daR2tSTC1ubDhvWHlFTkVQOXhSZmdQNk41MlZwdG9tRHlxbE5Cd1R4cUtZVjItbjVXRUg1d1drTUZkRnFFWDhzeDQ?oc=5"
+      },
+      {
+        "title": "1:6 w pierwszym secie, później zwrot akcji. 164 minuty walki w finale Igi Świątek w Seulu - Sport Interia",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3RvdE5xM0h4WW9yRmt1cUUtM01IaHRYTEF5dFJ4NzNRRGlQV1JCX3FJSmhPdWw3ZXUzeFhIb0RIVUlzNjBQUFRhVU9faDk5MUczUWFXamZBamVsMk44UGszaUxGQUY0bFJ4SzMzNVFkNHo0ajg3MW9wT2FIUGFwWXFvX0NLVV9EQk9HdUFMS3FGejlla1E5YzQ2dU1jUU9Kejl4ZjlsMG40T3FwcFhFWF9idHhJdw?oc=5"
+      },
+      {
+        "title": "Kolejne drony znalezione. Jest komunikat policji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeksxUUlOVTd5OVRmRXlGLVE0Y29GLUpvaW5hZVNnWk5UZnhCUlhubVlIalZab2F0bm55ODctVnhtNG92cnRYbFgzbWdWN2JKb2hySlFiek02ZFNfNXRlYmtUME1zc1A5cTJYV0NKOUtWSXBwYVVpZkVUNjhHWXpPS29IX2lUSVhmU293QzhRWXRncndlczBaZ3Y2WVZjcjA?oc=5"
+      },
+      {
+        "title": "Władysław Kosiniak-Kamysz ostrzega przed Rosją. NATO pod presją - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY190bUdyTWNmN3BuLUc0bm9WclFNZGlhbFZEazJTeFVETXhJZDVWd2pMbEktRGk5bmhPVUJLaVN3bzRMRzhCak1jUVh4REtReHNWYzlWX2RKVi1tbDNOblRaSDlUVTFlNTEwZmhsMzhVc2UxTUtpTFVoSFR4YUN4U3JfSnRfWWtfdFJLMWFib2I1SFJtanRjdnRhUEtqTmZhc25yWllKLWJRT0E?oc=5"
       }
     ]
   }
