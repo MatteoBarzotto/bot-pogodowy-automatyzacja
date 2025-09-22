@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-20 10:15:54",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2666,
-      "GBP": 4.8974,
-      "CHF": 4.5617,
-      "JPY": 0.024534,
-      "AUD": 2.397,
-      "CAD": 2.6273,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 420639,
-      "DOGECOIN": 0.965878,
-      "ETHEREUM": 16255.62,
-      "LITECOIN": 417.79,
-      "RIPPLE": 10.91
-    },
-    "indices": {
-      "^WIG20": 2802.69,
-      "^WIG30": 3641.52,
-      "^WIG": 3641.52,
-      "^NCINDEX": 279.93
-    },
-    "news": [
-      {
-        "title": "Rosyjskie samoloty nad Estonią. Jest reakcja Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlFUbzRMb09YR3oxUUVXb0M2bkdUVG14NUFZbVNZaHJHZ1NmOHM3ZGRodGtpQXdjQ1ZDTlk2MlJzMVNKVThUTDY5Q3dLamd4SmJWSU1Yem9FSktRTW5YYUo5VmwwTmhDQTNKanVFUXBKdi1DV09TVE9ObzUtUEJtbF9YaktGdUhLODZaWFNPUTZ6aWhabHhaQWRCN1FFeUZh?oc=5"
-      },
-      {
-        "title": "Tragedia podczas ćwiczeń. Nie żyje dwóch polskich żołnierzy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGsyR2ZvYlhjVGFMT3d6d21DenVrWFhfX2lpZEdES0ZOMmRELW9NdWJhNXE2UGs4blRyeE1RLU9tOHp4RGx3QURzNmhnMWRlOWlTZUQzSDl2enh3Tmg1XzlDeWxOOXpWeTA0UjFJZUVfWFZqdlZLRUtBdGNKNm1DNkFDWmQ3dVBERnk2YVRSQUItWVd1bHZ2YUlhRjdQYjV5YlBYMnFLMUZ3eXZ1STNBNHB3?oc=5"
-      },
-      {
-        "title": "Alert w całej Ukrainie. Polska podrywa myśliwce - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3Fxai1ZQjRHR05pNTBncXlhTnZxcHNuUF9kWndSYWJFMjRNRkV2QjdqdDhKMjFobEktWDZhMmw2TjZBOWo4YXhvVXNiOS1FcHg5VVZmWk8wejdIdFRGT1F2SkhGQV9KMlNZZ21mSnNlVC1MTzZfR0E5ZjBlRVhfOWV4UzVoUlh1MDFRR004SjUweDQ?oc=5"
-      },
-      {
-        "title": "Sławomir Cenckiewicz uderza w rząd. \"Polska zyskała miano kłamczucha\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQktRODZXaVZ2Zk5pRElfY3QwTmp5cDZ3SnlOU0R3NmNrYmlZUFdmR1Etb0VEMzFHUDZRb1E4cXRjaGJNYUNnUGd4S2dIWjFWbmlNd20zcGVBSkFmTmU0TnI4cElFdEYyVWVOUG1mWkdmb3lzTFdlQzU1Z2JwWXZzZ083WHZBdjYwd1N3SDlWM3BGaTFyTWJqdXhMWU1OVHNxbGhPT2pRUU16Sl9xSzdmUVlESDNEaVlrOEVfZkU4QnpGcUdCWmE5Z2lya2p6ZGs?oc=5"
-      },
-      {
-        "title": "Ekspert alarmuje w sprawie wydarzeń w Polsce. \"To się Rosjanom udało\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnpreEtsQ2hIck1RMVNjVUpKbWdQVlpoR2VMWnd1V3p6Wl9jeEE4ajR2d3VwSGR2VzBWRXQwZXpYa0lyNEFRY0djajFKWnFOUXBNTFRLaUQ1MDV2Nklld3c3eHlzMHpYTmFjbURTNHkyRG1SXzhKNVp5Tml4dldmYXhXMTFjSXROaGV6U0lkTmVvT1BsOFJzX3JTNUxseW1TaFVMT0VPRjMxUDNuSDBjLWdUZno4OUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-20 11:12:27",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Warszawa. Agresywny mężczyzna uderzył pasażerkę. Policja zabrała głos - Gazeta",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFZPVExzazJ3eElteDgzN2puR2RrdzI3NVlSNW1wZXMtaG1Oa2xwaHptNV9WN2ROQmg2Uk15LWdneWM0aWhBSnRpLTlYVTl0dWVXdGdXb0xqX05NOTVOdnlUYVZfcXRpSVFGQVZXQUI1V1VoWjhsdGxLd2JDZjR0TUZUdFkzUk81eFV0MzlSMXM5RlZCampVYWc0Y0syTEtvbTJSU2FYOWVqaTV2UWhEVmZOb2NvUUI4eHFkRUZR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-22 16:14:28",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6255,
+      "EUR": 4.2645,
+      "GBP": 4.8933,
+      "CHF": 4.5651,
+      "JPY": 0.024519,
+      "AUD": 2.3908,
+      "CAD": 2.6262,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 409482,
+      "DOGECOIN": 0.872519,
+      "ETHEREUM": 15200.58,
+      "LITECOIN": 384.29,
+      "RIPPLE": 10.32
+    },
+    "indices": {
+      "^WIG20": 2799.44,
+      "^WIG30": 3634.65,
+      "^WIG": 3634.65,
+      "^NCINDEX": 279.57
+    },
+    "news": [
+      {
+        "title": "Putin ma propozycję dla Trumpa. \"Jestem gotowy\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXplTldSOVV3NUJKZk1WbDZtNFppRWdFQV9ERDNiSnpQdWRYdjBUeVpKUjktS3hQZENlQ1JaeHk0VmdYVkhyZmxrNmhpcmxyQ0taRGN0U3JxajY3bWZBX01GMGtobmlzV3FUY1RieFQ3d1dlbzdXTzRvaFFZUkM1WE8wVHpmNC1SQWpibmdUQUt0QlpzZjFubzRR?oc=5"
+      },
+      {
+        "title": "Wyniki sekcji zwłok żony Ryszarda Rynkowskiego. Znamy przyczynę śmierci - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUE83RlM3YWp0TE50aWlLOHNnUFdENVlYU09zbmdLbmVyZlI3Rmt1MVJMcFoySWd0QlVtR1pFdVNTcDY5UldpV05CZzk4bG5yYlQ4S2RQWGloNjVKT3pDNGUxdGkza1pnd1NrRXJVRUZVMkFDZnBkVXozMXFWdWVOZ3lpRFg5QVpfSjM4dGo4ZVlxUlBZWDFTVlZPSEUyc0hDaEhWaklncGNrZzFjc0ZDUXRMSU5hMl8wR0J2bTl3QlFxbFVi?oc=5"
+      },
+      {
+        "title": "Barbara Nowacka odpowiada na ruch Karola Nawrockiego. \"To jest ideologia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0luNUVia1h6dkE5MElMVlQzZ0hreW9tMFZJS1RaWldUVFdUdWp5SS1iLWJSa0pEQVowcGI1d2NLUVh5WktXc0pveENhZVQ4bnlDVXM0bmt0NHNmM2JVeE1rV2tLSGl6Q0tTNHZZR1pFT25rb3M2UUJTeDhaSmd4ZEI5bGFER3EwVUJzNWpjcjhzVFhWaXhPYXJ1eTk1OUJEQmRJVy1oUXdfZlhxMFFSR2p2QkZoS3Vid3lyZFR0YTU0T3U3cldmWA?oc=5"
+      },
+      {
+        "title": "Wszyscy jesteście z Hamasu [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2w5WS1DYzVXSE9DSzRfWWVuQ2FsaEYxRDNmS1hHcnBqQzY0bjhuSFo3bnR5bmV0LUFYZlZWMS1sQXI4cVpMWXZNTDFTNk9yd3FleFJCUXRLa00xZ2o2Wnhwaks3dDZaejc0eDFGY0xvUmVubmlrZjVFYzNxM25PcFh3?oc=5"
+      },
+      {
+        "title": "Nocna prohibicja ujawniła konflikt w PO? Jest komentarz Donalda Tuska - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2FyYkNLbEVIZGRlZHlvTUlIb1A1RUVpLWtwNGc0TDBtSjFVdVFUOWhmd1ZDZXI5aGJaTXRzemVCMDdTSVo1Xy1WQ01ZUmcyUEYzWjhyaE9aZXMzN1hhWERVeHI4STVFVzNBY0NSallLY2tRV2hJX0RKMjIxUkptbkZTOG1qd2hvTUtSN1hkYUstN0pJc1J5TkVObjVBbm5VeUstN3J5dlBiZTR1Z20tRHhJOERYX25o?oc=5"
       }
     ]
   }
