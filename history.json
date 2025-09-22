@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-20 11:12:27",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2666,
-      "GBP": 4.8974,
-      "CHF": 4.5617,
-      "JPY": 0.024534,
-      "AUD": 2.397,
-      "CAD": 2.6273,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 420416,
-      "DOGECOIN": 0.961445,
-      "ETHEREUM": 16232.32,
-      "LITECOIN": 415.53,
-      "RIPPLE": 10.84
-    },
-    "indices": {
-      "^WIG20": 2802.69,
-      "^WIG30": 3641.52,
-      "^WIG": 3641.52,
-      "^NCINDEX": 279.93
-    },
-    "news": [
-      {
-        "title": "Cyberatak na europejskie lotniska. \"Opóźnienia i odwołanie lotów\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmI5REUyZzNvOEpzZTFCb0ZERm4tMHhVLUlhd2RHcTg4THBkVEZGM3VMZTZtMkhlMlU3VGhyekc2VDYxekZ6dTQ2YjFRWS1GdkJKZFBWYzhkZ1NkeTVtRDJXYnpEbkh4RmlJRjBSUUVyV253RzVFTXc0czZ6aFE2a29fRFNMbU5EdWpWX0l5QWhCRGhNZVJSQktIT0NLZWtuMWRCNHpB?oc=5"
-      },
-      {
-        "title": "Rosyjskie myśliwce nad Estonią. Mark Rutte mówi o reakcji NATO - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM254cmtUOGNuTUVoMVYxMzgweUR0VVpxNDFTbTBqQXBpR0U0UUpFR29GNGRZdUlqdXNPbDRLUWNKOWVsRlVQT2dfM0ExV1lxWG50YVFMb0t4UUdnVXR1WnlXUFpzR2g1Ymt4VGxYT2FZbElXeE1rUlI4TnVFTTAtY0g3UGJ4c0lYTWNQeDBSdkprT0Q3X1ZsV0lxSHY3VVdCS1o1OG53?oc=5"
-      },
-      {
-        "title": "Dwóch żołnierzy Wojsk Specjalnych zginęło podczas szkolenia spadochronowego w USA - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnMxdEx2MHp3V1lpeHg1YzNVRjRUdWl6TzRUMGNuZ1MxMWhLcmxvNjlHZk1ZNlo2QkNONVdFZnM2ZVVhOW1FOGNJNXA2UVJiZHFXOWFfX2toSnFIZHBiaVBWUGxYYUxxcHhLSnB5R09SVUdNVDg3MzhZM09sd3pFZ0luM0dLcG1qbEZTZkk5eWdXNVlPeEZHWGtPazVYRl85MTBQTUgtaE81c0t1RHI2OXlB?oc=5"
-      },
-      {
-        "title": "Nocny atak Rosji na Ukrainę. Nie żyje jedna osoba, seria pożarów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXBkSTNRRS1BVFZSTkZZOGhZd2ZkRzk2dVZhQS1ELWpWMThnUkNQZHVpcXJxOUFQclMteWh1NkVNOUhDUkg2X0dZbmdMWkdPVTRzbFU4UkZYci1YNjBoa2lBbUtGYm1fRkdWQWlhTTBIQUtSdXVvdVRiYjNBSG5NUWxxLXFPeG9NRnp5dVF5YkxjMG03akxRX0JWRDFaR3JjSFJXWlVia3BkQWxLT1hMbGJNakEtcmhnaEJJcGprU2xwTTA?oc=5"
-      },
-      {
-        "title": "Wojsko poderwało myśliwce. \"Stan najwyższej gotowości\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzJhWmxoNERTeV9uOERnWGZtVjVlcTdfYkJfWU13R0ZhVnF1OWE5VFdBNWxqb3BOX290X256c255T2ZETXJZN2dHQ1Q2T01lZlpPblBpdGlqVy1ReEdwcVN1dVZnWDNWWDlUbUMxZ0p1QThFNFNacUszVDdWc2NPdlZCa3d3bmFEdFROUjdoVkZXbFdyTUpIUXpzSHEzOEVC?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-20 12:12:28",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Nocna prohibicja ujawniła konflikt w PO? Jest komentarz Donalda Tuska - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2FyYkNLbEVIZGRlZHlvTUlIb1A1RUVpLWtwNGc0TDBtSjFVdVFUOWhmd1ZDZXI5aGJaTXRzemVCMDdTSVo1Xy1WQ01ZUmcyUEYzWjhyaE9aZXMzN1hhWERVeHI4STVFVzNBY0NSallLY2tRV2hJX0RKMjIxUkptbkZTOG1qd2hvTUtSN1hkYUstN0pJc1J5TkVObjVBbm5VeUstN3J5dlBiZTR1Z20tRHhJOERYX25o?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-22 17:15:06",
+    "weather": {
+      "Warsaw": "Warsaw: +22°C",
+      "Kraków": "Krakow: +26°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6255,
+      "EUR": 4.2645,
+      "GBP": 4.8933,
+      "CHF": 4.5651,
+      "JPY": 0.024519,
+      "AUD": 2.3908,
+      "CAD": 2.6262,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 408461,
+      "DOGECOIN": 0.869252,
+      "ETHEREUM": 15113.32,
+      "LITECOIN": 382.47,
+      "RIPPLE": 10.37
+    },
+    "indices": {
+      "^WIG20": 2802.03,
+      "^WIG30": 3638.49,
+      "^WIG": 3638.49,
+      "^NCINDEX": 280.13
+    },
+    "news": [
+      {
+        "title": "Barbara Nowacka odpowiada na ruch Karola Nawrockiego. \"To jest ideologia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0luNUVia1h6dkE5MElMVlQzZ0hreW9tMFZJS1RaWldUVFdUdWp5SS1iLWJSa0pEQVowcGI1d2NLUVh5WktXc0pveENhZVQ4bnlDVXM0bmt0NHNmM2JVeE1rV2tLSGl6Q0tTNHZZR1pFT25rb3M2UUJTeDhaSmd4ZEI5bGFER3EwVUJzNWpjcjhzVFhWaXhPYXJ1eTk1OUJEQmRJVy1oUXdfZlhxMFFSR2p2QkZoS3Vid3lyZFR0YTU0T3U3cldmWA?oc=5"
+      },
+      {
+        "title": "Putin ma propozycję dla Trumpa. \"Jestem gotowy\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXplTldSOVV3NUJKZk1WbDZtNFppRWdFQV9ERDNiSnpQdWRYdjBUeVpKUjktS3hQZENlQ1JaeHk0VmdYVkhyZmxrNmhpcmxyQ0taRGN0U3JxajY3bWZBX01GMGtobmlzV3FUY1RieFQ3d1dlbzdXTzRvaFFZUkM1WE8wVHpmNC1SQWpibmdUQUt0QlpzZjFubzRR?oc=5"
+      },
+      {
+        "title": "Żurek i Kierwiński kontra PKW. \"Żaden minister nie ma takich uprawnień\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTZSejNZdy1QUGxZX2haTUlRQUs2TnJhVGQwYzdaYzJURF9HQ3RxanZKcTNXN1BSbzBPelpxYW5ydEtvMnpmbXVLRkVvNjA0MFZWZVJEUVFLMkM1aHphakYzQlhuYW5BYngzMG1EWXdnUVFjRVRCeW9NTHYyUEFqOWlvRlhXbTZFUU9XdmJLZTlOdG1wa3E3ZnU4Yi1WLUNqZVFkX2hQczg4a2dHZ0NoMjBHQTF4Qk1zMVZ3N1FmNmI?oc=5"
+      },
+      {
+        "title": "Tusk odpowiedział na pytanie o strzelanie do rosyjskich myśliwców. „Musimy mieć pewność” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFlkN2I3WmZHWHBpdmtoVmQxN0wtc1ZvVHpkdENTTGJKVG93NWZRSXlKdjdkX2JLcXFKU0lKVGJQLUphQjdoOFdHZ1BvVlpWS0lvS1hSOE5yZzR6Y1RYU1RuSm1qc2Nmalp5djdGQmp4RXRHcnRPUUdNdXU1RHVlNFlJN1Z0QU5vWnRqV0JKSUF4NElXSEFBX0pQSUZzTkNxQUp3Rg?oc=5"
+      },
+      {
+        "title": "Umorzenie sprawy Sławomira Nowaka. Tusk skomentował - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelE2MUd3dnFRS1N1Y3ZET2d0aTJYZkRTdUdvR3FLMnRiTWNpZ3dQczllaWNFY2lvYkRKRjJLUzRCR000eE12NkMtX0d6MWNXWkdua09YUnhmcXNEU29IYlNXNkZYUENKa3U0Smd6WHJKMlpsMkhVMEFwYWxOUG9id2pkc1RuSF9ZSGhqNnpfaVJMcm9Iam9ZODBKWTdhckdZN1V3elE3S1o3dmNyRG1nQm5QYkk?oc=5"
       }
     ]
   }
