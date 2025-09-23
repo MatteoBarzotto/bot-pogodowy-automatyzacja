@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-21 03:08:21",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2666,
-      "GBP": 4.8974,
-      "CHF": 4.5617,
-      "JPY": 0.024534,
-      "AUD": 2.397,
-      "CAD": 2.6273,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 419803,
-      "DOGECOIN": 0.974942,
-      "ETHEREUM": 16285.67,
-      "LITECOIN": 415.08,
-      "RIPPLE": 10.85
-    },
-    "indices": {
-      "^WIG20": 2802.69,
-      "^WIG30": 3641.52,
-      "^WIG": 3641.52,
-      "^NCINDEX": 279.93
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki podjął decyzję w sprawie swojego syna. \"Warto skorzystać z tego prawa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY01zMmtjMEVBMlFNbWhGWHRYNHRKSURDTjZYRlpNU2ZTZVprUjMzTko2OF9VcGNLbUdQNWcwNHlCaGQzTEpRcTkzZWJkdFNFQTZTTEtNXzc5dHVTb091NDBEQ1dOUXpxWmxINzhLa005R3puaWtHYmNJb2sydzhnbk4wMXBhMlA1S2wwWWtocFB6RnN2Q3drOGVGV3JCT2NWT2x0TGlxLTBmTWR4MjIxamhnQWxvYVE0eF8yM0hhWDNCa2MtZS1zcmNUeWlXM0xHTlJvaUpjWHU4SFRQX3c?oc=5"
-      },
-      {
-        "title": "\"Putin się cieszy\". Były ambasador USA w Ukrainie o reakcji NATO - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0E0SzBGeGdXU3BJbjUtdmJobHozYlR5bU9TRkctRi1mczd5VTNmNnpLZzBDOHFmSkRYSUFnUmxQUWc2eFZvWmt5d0N6OUtkd2RseTlVVTdodHRPY3lfaEkwVHYzamZndlFPX0FaX1MzcjFLTUNuRVN2a1IyWmVqREl0NWlJVzZwTUlYUDkxR1dwZGgzYmJpdFlDRmkwZWl6VXFSWG9LQUxBMlBXbGtuYTgwOFN2SE9aY3FjdnBJWTlncWlsdU5jcFJrcEpzNnJic2c?oc=5"
-      },
-      {
-        "title": "Wizyta Prezydenta RP w Stanach Zjednoczonych Ameryki wz. z udziałem w debacie generalnej 80. Sesji Zgromadzenia Ogólnego ONZ – program prasowy [PL/EN] - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNGxka2U3dW1FV2YxUENSTzRLd1djZjUxWEgwZnVlOXBELXBaaEg5OVBfTXhuWnZXVlVqNVNuVXpLbVd2YXZBN1FZbnI5MnJiZmk3VWZPTnZ2TkRXSGhpb2pYN0NQd1AwbUZURVBLV0tSUVNOeDlMV2lBcjdqUnlfLXRXTHpPdjF4NnNEWGItVGFqbVRNTUtuUkdTcFBKQTk3ZU85b05PdGdrOV85MTN4MzVTNWtpYnp0Y2hwVlV1b0pWcGU3UW1BYmhOZVVmZVRrYXJWSlp5SjFKdkZ0VGxqMzBhSGpBamNVeFM2czhwN0Q4a2p0bjNMb2I4NHU5QUo1a3hiMEhaRTZ2ZWhfQWZj?oc=5"
-      },
-      {
-        "title": "Donald Trump grozi Wenezueli. \"Cena, jaką zapłacicie, będzie nie do obliczenia!\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFBlLWlwSlQwdkJRRE04dFMwWjd1cjFaS2xVV085amowNVMtV2hDbGY5YXhOTEpQZjVKa1ZPZ2NUeWpQRVljNFlGdV95ZDlIbG1sSzA3SjFwVHRUUGZOSDhkRUFsUVRCRktjbTRYYUwzUUR4STVzVnJHTDBVQWRxQ3NSVTkxalJTUW1nVzlWdmdhMm9rdEJpeUxtT083TkhhdTRJUklVVGFOelF1N1B4b3FPT25SY0doSV90UktfdFhfdw?oc=5"
-      },
-      {
-        "title": "Zamieszki w Hadze. Demonstracja wymknęła się spod kontroli - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVU94MDZqRnMzZUE0ZHRmSHNla3k3cGQzT1ZlakFDaXVlVEVVZ19PMnFVR3RZTFRwT3ZxNXQzODBjbUNrUld5UktTQmE4cDRWWndjXzNfTF9FeHRfM093azdvUWtoMWdmVE9IWUJoOVhBLU1WdGpFZWtVQ1VmczNGUHVqN25ZM21DZHFybVE3MVgtX1l6RUk4V0cyOERtcTZPeUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-21 05:02:55",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Nocna prohibicja w Warszawie. Kierwiński wskazuje, co zawiodło - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1pyM0lZQUV3SFk0NVpiQ0UzRUFSZlJqNDY4UzctcWwzWk9Zd1NrLVZvOWRPYVppLUNQNml0dEJfRXBJVlBMdUh4QXRwWEo5aldkWF9QaFJNd1NZOVk4cTBsaDVIa3hjZ3lFalI5T2h1S1BsYXpTekVlczlSQUYxYkVIaGczUjk0VUdjYm5aRjJYbGcyelZ4REhjUFVMamo1V3NGYXJfSkFKN19XVmNaYUdWU1FKbkpzdnpr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-23 09:13:45",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6255,
+      "EUR": 4.2645,
+      "GBP": 4.8933,
+      "CHF": 4.5651,
+      "JPY": 0.024519,
+      "AUD": 2.3908,
+      "CAD": 2.6262,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 408061,
+      "DOGECOIN": 0.874223,
+      "ETHEREUM": 15193.48,
+      "LITECOIN": 383.65,
+      "RIPPLE": 10.37
+    },
+    "indices": {
+      "^WIG20": 2822.25,
+      "^WIG30": 3665.55,
+      "^WIG": 3665.55,
+      "^NCINDEX": 280.18
+    },
+    "news": [
+      {
+        "title": "Drony nad lotniskiem w Kopenhadze. Nowe informacje od policji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDJ1VzU3U3ltb1FaYTczV2VKMUkxcHd5dkVMeVRtY1ZQRlAtM2JZZnIzZ0RZUm5uZ294T09zLWM1TUtKVnQweDE4SVl4NU5TdmwtdWFnbEY3ajdwcnd1R29FaGUxMk5JVDdkQUZDOUl2REdnTTlEakt4UFZxYkxzaXh1ZE1ibU9fbTllMFY1dlhsaXdacVhKbllaeFJ0SmFfMFRz?oc=5"
+      },
+      {
+        "title": "Pałac Prezydencki zwrócił się do MSZ. Chodzi o przemówienie Nawrockiego w USA - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEJrNXFpQVFudjFOOFRrd1l1M1d4UXFnNk5wR3g2OGpWeHdhUEEtOU5hMFlQUy02MENFbmxKM25DSm11ZmNQOXh2eDBCcXBKVDQyV2l6TGEtTGd2M19ic1RJamFzZFZBVlg2LXg3UDNDNEtlaGFWbGV5MVJxdk9HTDlhamo0U2tKRW43TXI1N1VxYmN6M2lzNXNCNmprRldfemZQX0RWajZnaEdEbzhJbDFRWEdaZw?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski zapowiada solidarność z Estonią. NATO reaguje na rosyjskie prowokacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzF6eDFWS0FrU3cyc1g0SldTY0dEUExOTnlHb1BjcHRpQU9oOVlNVFFTNFJWVm9zMl9HZ1dld251OW43elVmQWlzbXV3b0czRjh6R2U2TjZVdHlaYUFnWTR0MmZnM19JMnBoaC03S1Q1M2UydWZUSFRKay1lYTVvLThuemVQbmhOdjlSbDhyd2tBejlhczNySGV6a2c1SXZVRFJNbU01UzQ?oc=5"
+      },
+      {
+        "title": "\"Należy otworzyć drogę do pokoju\". Francja uznała państwo palestyńskie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWF91UmF0M3l0VzVEamFUY3l5dnowbC1lMDNONGtWcnRMSTNFX3cyakpKbHNRRUt3bnZIQ1psSWQyMTBtM2FjTmpYT1E4cElHZGRHQUFkcEFBMURST3pDdVB1R1VjRWtpZUUxSDFmdHV5WjNyLTl3NEEtM253WnA4MURUOFBucHZSZHRmS3ROM1drR0dlWUFPRXpWTUNKd0xPOGZpVmhSY3RvaTJST3ozdUxlMXlUZw?oc=5"
+      },
+      {
+        "title": "Reakcja: tak, zestrzelenie rosyjskiego samolotu: nie - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUdwVHRuRWRsVEhFQmRWNzJDNGtKZHZSTUtoSFhfemk1UHZiQVBjbmFPVWd5S3NpT1R5OTJac2lCZzdBUWl5eVlBdGpMazRVM2wtUy1rRjNZMGxxR1FKemVETVhTeG9GbXJQMTEyMVVNb0o1M1pkZTIzdG1La1Q3OFlIRmstODM2ZVE?oc=5"
       }
     ]
   }
