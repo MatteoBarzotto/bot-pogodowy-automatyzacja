@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-21 01:11:17",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +26°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2666,
-      "GBP": 4.8974,
-      "CHF": 4.5617,
-      "JPY": 0.024534,
-      "AUD": 2.397,
-      "CAD": 2.6273,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 420352,
-      "DOGECOIN": 0.973071,
-      "ETHEREUM": 16306.19,
-      "LITECOIN": 414.29,
-      "RIPPLE": 10.83
-    },
-    "indices": {
-      "^WIG20": 2802.69,
-      "^WIG30": 3641.52,
-      "^WIG": 3641.52,
-      "^NCINDEX": 279.93
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki podjął decyzję w sprawie swojego syna. \"Warto skorzystać z tego prawa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUg4dWVDLUxHbi0tY01UTGhNck1yazQ2RkRKVF9ib2REZWhQMFA2NDFJU3dxNG5jU3VFT0t2YUpfbjVfOWdGaWVJWkg5VVJGTnM5eU1VaFVuN0xKTWhSaXB3YldpaHR0WnJqQ3MzVlhnTG43amNKRDlza0tWTkV4UDE3TDJkUDU1Y0luNlFwaURkenZ4UnhYVGJ0Q1lRTmdDZVpicUY5Y3RmanRuaG9FSTZLckQ?oc=5"
-      },
-      {
-        "title": "\"Putin się cieszy\". Były ambasador USA w Ukrainie o reakcji NATO - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0E0SzBGeGdXU3BJbjUtdmJobHozYlR5bU9TRkctRi1mczd5VTNmNnpLZzBDOHFmSkRYSUFnUmxQUWc2eFZvWmt5d0N6OUtkd2RseTlVVTdodHRPY3lfaEkwVHYzamZndlFPX0FaX1MzcjFLTUNuRVN2a1IyWmVqREl0NWlJVzZwTUlYUDkxR1dwZGgzYmJpdFlDRmkwZWl6VXFSWG9LQUxBMlBXbGtuYTgwOFN2SE9aY3FjdnBJWTlncWlsdU5jcFJrcEpzNnJic2c?oc=5"
-      },
-      {
-        "title": "Wizyta Prezydenta RP w Stanach Zjednoczonych Ameryki wz. z udziałem w debacie generalnej 80. Sesji Zgromadzenia Ogólnego ONZ – program prasowy [PL/EN] - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNGxka2U3dW1FV2YxUENSTzRLd1djZjUxWEgwZnVlOXBELXBaaEg5OVBfTXhuWnZXVlVqNVNuVXpLbVd2YXZBN1FZbnI5MnJiZmk3VWZPTnZ2TkRXSGhpb2pYN0NQd1AwbUZURVBLV0tSUVNOeDlMV2lBcjdqUnlfLXRXTHpPdjF4NnNEWGItVGFqbVRNTUtuUkdTcFBKQTk3ZU85b05PdGdrOV85MTN4MzVTNWtpYnp0Y2hwVlV1b0pWcGU3UW1BYmhOZVVmZVRrYXJWSlp5SjFKdkZ0VGxqMzBhSGpBamNVeFM2czhwN0Q4a2p0bjNMb2I4NHU5QUo1a3hiMEhaRTZ2ZWhfQWZj?oc=5"
-      },
-      {
-        "title": "100 tys. dolarów za wizę. Urzędnik tłumaczy, kto będzie musiał płacić - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHRzRF8wRXRSWGtGR1MxUnNNZ1ZtQ2Zub2NMM1ZtcWM1UmtKakpkUXZhaGNPVmhWYVpwODVrLWs5MjZoc2Frd25KcWhnWml3bS15d0FLa0k2RlFpNmxldHpwQ1VhSTQ0RzBsdmYxRm16N0czMFY0Ri16Q2RvWUpoV1hocGVMc3d3N2VpaHR1TFNxdEs3V0k4WFFFT2o5S1RZQVMzMHdETkZOcmhLVDNyaDMwMnR5eUNoSWJqTzVn?oc=5"
-      },
-      {
-        "title": "Donald Trump grozi Wenezueli. \"Cena, jaką zapłacicie, będzie nie do obliczenia!\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFBlLWlwSlQwdkJRRE04dFMwWjd1cjFaS2xVV085amowNVMtV2hDbGY5YXhOTEpQZjVKa1ZPZ2NUeWpQRVljNFlGdV95ZDlIbG1sSzA3SjFwVHRUUGZOSDhkRUFsUVRCRktjbTRYYUwzUUR4STVzVnJHTDBVQWRxQ3NSVTkxalJTUW1nVzlWdmdhMm9rdEJpeUxtT083TkhhdTRJUklVVGFOelF1N1B4b3FPT25SY0doSV90UktfdFhfdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-21 03:08:21",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Światowe echa groźby Donalda Tuska pod adresem Moskwy - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUJvYTd5S252VC1OSm12UVRUOUVxVXctWW9hV0dRZll4cEx3ZmVXU2ZiaTRXbEJwbFk0dEZRQjF1Q01mR0RMQmhjV2hmVXJzSnk0RnZicDlDQkcwUkh1VV9UcnhWQm5SbThfenhiVXl1cXQ4U01zYlVLMVRnOTZyMjFKVUFOd0xGWFEtNXczejZXMXg3NFdta1FnMFBBd0ZIeVpTLXRRWklWQXdENmFES2JadEh0WEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-23 08:20:41",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6255,
+      "EUR": 4.2645,
+      "GBP": 4.8933,
+      "CHF": 4.5651,
+      "JPY": 0.024519,
+      "AUD": 2.3908,
+      "CAD": 2.6262,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 407475,
+      "DOGECOIN": 0.870585,
+      "ETHEREUM": 15157.77,
+      "LITECOIN": 383.08,
+      "RIPPLE": 10.36
+    },
+    "indices": {
+      "^WIG20": 2802.03,
+      "^WIG30": 3638.49,
+      "^WIG": 3638.49,
+      "^NCINDEX": 280.18
+    },
+    "news": [
+      {
+        "title": "Drony nad lotniskiem w Kopenhadze. Nowe informacje od policji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONnQxVUI5aTlfcC1hOENwRzU2WVJIaDAzYXFXMnRrNmpucGtYcXNvdXZXalBjc2NjSHRVUTg5MU0tSVhNUnRxU3pNR2xBZU9qM3ZCUFZBMHBlOWhQTmNCNE1DcDZZSHlCSUZaYVVCU0JfVnh4QUFxajdCS1NLUWFhZmxHZHhMa3FtajNtVEhJczhib1VnMldNcURGR21UQXlPUnRUcXJvajRhbU01V0lpWW1QSDVuNW5UdmFTOFRvSVM?oc=5"
+      },
+      {
+        "title": "Pałac Prezydencki zwrócił się do MSZ. Chodzi o przemówienie Nawrockiego w USA - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEJrNXFpQVFudjFOOFRrd1l1M1d4UXFnNk5wR3g2OGpWeHdhUEEtOU5hMFlQUy02MENFbmxKM25DSm11ZmNQOXh2eDBCcXBKVDQyV2l6TGEtTGd2M19ic1RJamFzZFZBVlg2LXg3UDNDNEtlaGFWbGV5MVJxdk9HTDlhamo0U2tKRW43TXI1N1VxYmN6M2lzNXNCNmprRldfemZQX0RWajZnaEdEbzhJbDFRWEdaZw?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski zapowiada solidarność z Estonią. NATO reaguje na rosyjskie prowokacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzF6eDFWS0FrU3cyc1g0SldTY0dEUExOTnlHb1BjcHRpQU9oOVlNVFFTNFJWVm9zMl9HZ1dld251OW43elVmQWlzbXV3b0czRjh6R2U2TjZVdHlaYUFnWTR0MmZnM19JMnBoaC03S1Q1M2UydWZUSFRKay1lYTVvLThuemVQbmhOdjlSbDhyd2tBejlhczNySGV6a2c1SXZVRFJNbU01UzQ?oc=5"
+      },
+      {
+        "title": "\"Należy otworzyć drogę do pokoju\". Francja uznała państwo palestyńskie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWF91UmF0M3l0VzVEamFUY3l5dnowbC1lMDNONGtWcnRMSTNFX3cyakpKbHNRRUt3bnZIQ1psSWQyMTBtM2FjTmpYT1E4cElHZGRHQUFkcEFBMURST3pDdVB1R1VjRWtpZUUxSDFmdHV5WjNyLTl3NEEtM253WnA4MURUOFBucHZSZHRmS3ROM1drR0dlWUFPRXpWTUNKd0xPOGZpVmhSY3RvaTJST3ozdUxlMXlUZw?oc=5"
+      },
+      {
+        "title": "Nocna prohibicja w Warszawie. Kierwiński wskazuje, co zawiodło - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1pyM0lZQUV3SFk0NVpiQ0UzRUFSZlJqNDY4UzctcWwzWk9Zd1NrLVZvOWRPYVppLUNQNml0dEJfRXBJVlBMdUh4QXRwWEo5aldkWF9QaFJNd1NZOVk4cTBsaDVIa3hjZ3lFalI5T2h1S1BsYXpTekVlczlSQUYxYkVIaGczUjk0VUdjYm5aRjJYbGcyelZ4REhjUFVMamo1V3NGYXJfSkFKN19XVmNaYUdWU1FKbkpzdnpr?oc=5"
       }
     ]
   }
