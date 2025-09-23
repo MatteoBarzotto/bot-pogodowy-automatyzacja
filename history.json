@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-21 06:15:34",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +17°C"
-    },
-    "rates": {
-      "USD": 3.6278,
-      "EUR": 4.2666,
-      "GBP": 4.8974,
-      "CHF": 4.5617,
-      "JPY": 0.024534,
-      "AUD": 2.397,
-      "CAD": 2.6273,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 419755,
-      "DOGECOIN": 0.975254,
-      "ETHEREUM": 16233.66,
-      "LITECOIN": 414.67,
-      "RIPPLE": 10.88
-    },
-    "indices": {
-      "^WIG20": 2802.69,
-      "^WIG30": 3641.52,
-      "^WIG": 3641.52,
-      "^NCINDEX": 279.93
-    },
-    "news": [
-      {
-        "title": "Barbara Nowacka zwróciła się do Karola Nawrockiego. \"Warto czytać dokumenty!\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSF9LSlJUVjllS3V5UTFKWjNYQ2JEbUtsMnJJc20xYnFGbzlaOGt0TEhLTnRDbzRSV05xdnRmZE5DU3JIajBxRzZNUWIyTXpQN1BQYjV0ZXNIWGdmTENHRFRxLUh5RVNpYmY1SnZESXJTUVZBXzJoanVQM09TcC1tQXNtTEd6eExWc0JRRVlYeU81Tk04aFJnNEp6a2Vfa3E1VVdqb3N6cWxDeFQyRFB0cE1HdTRVYlIyX2lxRU9rX2F3NXhXbDNqRXpKamFtcHVpYUE?oc=5"
-      },
-      {
-        "title": "Rosyjskie myśliwce w przestrzeni NATO. \"Chcą odwrócić uwagę od Ukrainy\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemtGOGNZMXdoR3IxaDVyejk5ZEdWLXgtdk5fS0IydTM1MEEwQW1McUtOaUZ4QlVoc0dtVXFDYkhZV0FEaHJUdGkyUUViazRtbW9iR2dseTQ0UFhRS09iYWc0YWdqcmxVbmpfNl9qSGVvOFNnaDlIWVI2X2dmOGZuNXU3aGRkWFRFNUZnblRoVDBBQ3VuTVhSUWFLckVwbC1nT2hYU21OZlA1M0JjVnY5WHZXR2xEX1pjcU9xdjZuRmQweWZWZERORU4xMA?oc=5"
-      },
-      {
-        "title": "Wizyta Prezydenta RP w Stanach Zjednoczonych Ameryki wz. z udziałem w debacie generalnej 80. Sesji Zgromadzenia Ogólnego ONZ – program prasowy [PL/EN] - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNGxka2U3dW1FV2YxUENSTzRLd1djZjUxWEgwZnVlOXBELXBaaEg5OVBfTXhuWnZXVlVqNVNuVXpLbVd2YXZBN1FZbnI5MnJiZmk3VWZPTnZ2TkRXSGhpb2pYN0NQd1AwbUZURVBLV0tSUVNOeDlMV2lBcjdqUnlfLXRXTHpPdjF4NnNEWGItVGFqbVRNTUtuUkdTcFBKQTk3ZU85b05PdGdrOV85MTN4MzVTNWtpYnp0Y2hwVlV1b0pWcGU3UW1BYmhOZVVmZVRrYXJWSlp5SjFKdkZ0VGxqMzBhSGpBamNVeFM2czhwN0Q4a2p0bjNMb2I4NHU5QUo1a3hiMEhaRTZ2ZWhfQWZj?oc=5"
-      },
-      {
-        "title": "Odpowiedź NATO na prowokacje Rosji. Tureckie systemy mają chronić polskie niebo - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUExUGdXMkpjX0UzbmpFWmxUNUlZMnZONWZLUGhVaTRZa1BxUGlnLXJiZHQ4NDJRQmNNelNNemJUWm1CV28xYXZ4NU83cVNqTTgtcjNudHlSOUdiZzdsSnR5NEoyZlQtOFc1VGR4aU1fOFVIZmhHdlAtbFRPUV9HYWppbnRSOG5zOGYtMzBPWkNKZWN6NVF5MHdiNndycE1VaUc1SmQzanlWc0lOMzd5STNSZGhxdEpyX2FQMlBwbl9FMmgxTnhV?oc=5"
-      },
-      {
-        "title": "Izrael nasila ataki na miasto Gaza. Co najmniej 84 ofiary [RELACJA] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzVCbGowcldMd0lOR09yd1ZXaWdZd2JjRGllLUcwV3ltVV9Ib0FncEdwcGJyeURydzI1Z19JMGNiZVROY1FGQU5tMHl0X08tdkV3Ny01VjF6OFQ4QkpFMGdnTlY2Sm52X1praVB1VnlzaTZkNFdBN2hzamd1Mmx4MlZ0Y2hHdGVQMllQZ0otYmhtVTRaSWFTOTJSaWJtdFVhRjZWd0phQ1Y?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-21 07:12:36",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Polacy łamali sankcje i sprzedawali luksusowe auta do Rosji. Akcja CBŚP - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTA3akJTekNRNGNUMFc1MlBfS0xRTFRQeEZmcE1KbDdYT2VSZTFFVmEzeF9jV1o2bzBNTDh4N3QzUUYyWGNKSXRTOXI1Y2xlTWk3aWtBX3VXd3VoNzUyQWV3UmdDQXhmVFJvNHpBNWswUzVKSl9semxGbW0zaldqNDRGSV9veEJPUDdVUWxLM2dPQ0lTck5xVjAya1BUR2pua3VWMjlqOC1iZG1GNHhRSWFQUXdDQUF4VEs1TzRTemVWc3Y0cWtQSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-23 11:15:10",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6255,
+      "EUR": 4.2645,
+      "GBP": 4.8933,
+      "CHF": 4.5651,
+      "JPY": 0.024519,
+      "AUD": 2.3908,
+      "CAD": 2.6262,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 408508,
+      "DOGECOIN": 0.873663,
+      "ETHEREUM": 15230.83,
+      "LITECOIN": 384.12,
+      "RIPPLE": 10.35
+    },
+    "indices": {
+      "^WIG20": 2827.64,
+      "^WIG30": 3670.54,
+      "^WIG": 3670.54,
+      "^NCINDEX": 280.68
+    },
+    "news": [
+      {
+        "title": "Drony nad Kopenhagą. Premier Danii: to najpoważniejszy dotąd atak - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjNQQmlaMGxrb1l2WE5EdlZmbU9QWHBkV01BTmNHZDBpeDZEUk54X3lTZGJHZTlNZ1N4cC1MOFptZTBzWTRmNlFNUWd5RF9RaXlfbXdMV2JiS2VXUGx6YW9qaks5VHJRSVVfTzdpZzdjbk5oY1hWMEtjYWs3dHVieHFGNGkta2lsd2RqaTIxVDF0UGxySGtCck44NVBTemtiU3VrcFJqdw?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski zapowiada solidarność z Estonią. NATO reaguje na rosyjskie prowokacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzF6eDFWS0FrU3cyc1g0SldTY0dEUExOTnlHb1BjcHRpQU9oOVlNVFFTNFJWVm9zMl9HZ1dld251OW43elVmQWlzbXV3b0czRjh6R2U2TjZVdHlaYUFnWTR0MmZnM19JMnBoaC03S1Q1M2UydWZUSFRKay1lYTVvLThuemVQbmhOdjlSbDhyd2tBejlhczNySGV6a2c1SXZVRFJNbU01UzQ?oc=5"
+      },
+      {
+        "title": "Pałac Prezydencki zwrócił się do MSZ. Chodzi o przemówienie Nawrockiego w USA - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEJrNXFpQVFudjFOOFRrd1l1M1d4UXFnNk5wR3g2OGpWeHdhUEEtOU5hMFlQUy02MENFbmxKM25DSm11ZmNQOXh2eDBCcXBKVDQyV2l6TGEtTGd2M19ic1RJamFzZFZBVlg2LXg3UDNDNEtlaGFWbGV5MVJxdk9HTDlhamo0U2tKRW43TXI1N1VxYmN6M2lzNXNCNmprRldfemZQX0RWajZnaEdEbzhJbDFRWEdaZw?oc=5"
+      },
+      {
+        "title": "Erdogan podpowiada reakcję na rosyjskie prowokacje. \"Turecki model\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnFvem1DVEVIQlVMSzhTNGh2b1dFamZEa0ZSeXpEYUtWLUNHS1g5SWxaQndOcWZKZ3lCNFVLaGlxYzZ4WklycXRoeU1lVG5PM29lWXFWdXVJZF9HdDFHd1hwRmttRjk5MUxSbFc3clJfdkE3TURtdXJPU3EzTFFiN0lnQmt1MXRXNjEySVZ2NWVoMlUzNFppMFlLaF82R3NSY1c4cjFQQzQ?oc=5"
+      },
+      {
+        "title": "\"Zabłąkani turyści\" robili zdjęcia wodociągów w Krakowie. Policja puściła ich wolno. Sprzeczne komunikaty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZk1xaGpNV2otbVF4TmFSSjNPYzFwZGFjWFItSGpXVkNkcFp3bllaMDJGOTllaE9JNjBEUkZkOFIyUlEzQjRBbDlmR1YxZTVicTcxV0ZBZF9JVmZ6MWl5SkVyQWYyYmZITEhGMGtvQ3l1UEdCSklhRlNRN1FRclk4aUdWcVZzOHpvSFo0NEx1eUdOQWxZQnl2SkVoaGs5WGRNNDhIOUg0T2pqY1FudkNqdWNJNWdMY2NaRHNlNlZURFBBZzVvS1I2MUVBZzBKOUVBa29ha0Z3?oc=5"
       }
     ]
   }
