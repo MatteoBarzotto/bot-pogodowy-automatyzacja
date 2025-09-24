@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-22 21:10:28",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6255,
-      "EUR": 4.2645,
-      "GBP": 4.8933,
-      "CHF": 4.5651,
-      "JPY": 0.024519,
-      "AUD": 2.3908,
-      "CAD": 2.6262,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 406150,
-      "DOGECOIN": 0.858624,
-      "ETHEREUM": 14990.62,
-      "LITECOIN": 378.62,
-      "RIPPLE": 10.23
-    },
-    "indices": {
-      "^WIG20": 2802.03,
-      "^WIG30": 3638.49,
-      "^WIG": 3638.49,
-      "^NCINDEX": 280.18
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki zaskoczył zgromadzony tłum. Zabrał dziewczynce telefon i zrobił to - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWNmZ3ZJN0RoRXZGaXRLbnlaOE9iWk1mcmo1dy11anp6MllWd09ocnV2Qm5xYjZWYXF1eUxnS2tSa3pLbXpzUUNWZlAxR3JRRERXakRsSVVRbVZHV1pTcG13a0gxU3F1UlJFcERMZzN3Vk4taTNvQ0Zaak50YXdVelFISzA3aVNheFVTcGRqNk5fM29XdUZsMWJjWlpBbzd4SEVrTUVybzY4ZWxxRUdneWQzb0t3RGNWanhoZUprQWdaTkFpcFUwTXpR?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski zapowiada solidarność z Estonią. NATO reaguje na rosyjskie prowokacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzF6eDFWS0FrU3cyc1g0SldTY0dEUExOTnlHb1BjcHRpQU9oOVlNVFFTNFJWVm9zMl9HZ1dld251OW43elVmQWlzbXV3b0czRjh6R2U2TjZVdHlaYUFnWTR0MmZnM19JMnBoaC03S1Q1M2UydWZUSFRKay1lYTVvLThuemVQbmhOdjlSbDhyd2tBejlhczNySGV6a2c1SXZVRFJNbU01UzQ?oc=5"
-      },
-      {
-        "title": "Wszyscy jesteście z Hamasu [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2w5WS1DYzVXSE9DSzRfWWVuQ2FsaEYxRDNmS1hHcnBqQzY0bjhuSFo3bnR5bmV0LUFYZlZWMS1sQXI4cVpMWXZNTDFTNk9yd3FleFJCUXRLa00xZ2o2Wnhwaks3dDZaejc0eDFGY0xvUmVubmlrZjVFYzNxM25PcFh3?oc=5"
-      },
-      {
-        "title": "Wielki show ku czci Charliego Kirka. Trump: „Został zabity, bo opowiadał się za Bogiem i ojczyzną” - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcTJZZkZiS2U3bFctNVJHaDJpdjBSMG1VUnhLN0tmekY2OXNSbDliNGhwVU9STkZtS3hkMTBZRWdJOVFBaDZuQzRNVXE3WVg3TGM5NTVwX0kzZzBVdXhDX19vM1gyYTVwZW5IYw?oc=5"
-      },
-      {
-        "title": "Barbara Nowacka odpowiada na ruch Karola Nawrockiego. \"To jest ideologia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0luNUVia1h6dkE5MElMVlQzZ0hreW9tMFZJS1RaWldUVFdUdWp5SS1iLWJSa0pEQVowcGI1d2NLUVh5WktXc0pveENhZVQ4bnlDVXM0bmt0NHNmM2JVeE1rV2tLSGl6Q0tTNHZZR1pFT25rb3M2UUJTeDhaSmd4ZEI5bGFER3EwVUJzNWpjcjhzVFhWaXhPYXJ1eTk1OUJEQmRJVy1oUXdfZlhxMFFSR2p2QkZoS3Vid3lyZFR0YTU0T3U3cldmWA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-22 22:14:56",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ekspert reaguje na szokujące słowa Kaczyńskiego. \"To jest absurdalne\" - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnVSNGh6Rm1CVGR4a1RSamlZSXVJUVpZWGdxN0YtWW9hUmxEbFlYUzNtVXpST29PWGowd3RjUmlVX1gtYWtzVEltZmYzemZ4aGI3bjJDOUk4alhWYTZacnp0VmlHendqUnFGUTJNSEZFaTVNN0Z5UlVpUDNZZU9iMTJRYWg1eDBhajg5MWpaaUswRl9mMjJoQkJONUpXYnZCSDBaMkVVNXlIMXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-25 01:12:14",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.6254,
+      "EUR": 4.2676,
+      "GBP": 4.8879,
+      "CHF": 4.566,
+      "JPY": 0.024451,
+      "AUD": 2.3974,
+      "CAD": 2.6156,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 412207,
+      "DOGECOIN": 0.876563,
+      "ETHEREUM": 15110.58,
+      "LITECOIN": 385.24,
+      "RIPPLE": 10.68
+    },
+    "indices": {
+      "^WIG20": 2828.82,
+      "^WIG30": 3668.9,
+      "^WIG": 3668.9,
+      "^NCINDEX": 283.44
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki zapytany o relacje z Radosławem Sikorskim. \"To wspólny obowiązek\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1lvakFneWcxdGlmemN6eFdMYkFTdEhvczdXUFN6cWpMcVJES3BVeXM3MHByVVcyakE3cF9LN3c1Z3c2OENfOTQ0S2ptbXNkQmdqZlpPLXp4SnpRWjgzTGoydmtfVkhISVEtMzE0Mm5qa1JIQ2pnQ003SzY4UV9SNVoxT21rNHVscFVma05OUENQdlNQTG1yVW42MTNUUzFjeGFVQ2ZMdWUxYkxFdEFVRjRBaGNXQjNqOHc?oc=5"
+      },
+      {
+        "title": "Polska otwiera przejścia graniczne z Białorusią. Celnicy dostają wsparcie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTVB0SmVfQUhLTXNQZUxGX0xjaVg4UWs3bFBoQ3VFYmtIamFJdlJYMlg5MEpCYTNvalEzQ0RBYmx3UmdhVnAxT3NjdDh3RndyZEVOTTZwTjFkTEM0dG11Y2xvNXgzeHVWSTduNDMyOU0tSHFLYl9Sa0toNnFpUXlqN2RNN3RoZ3VHUUJMblVISm9yaG5VQzRDcFI4bzhvaHFCbjV5RmNKd2dRY1N2bDVlZ0Izb1ZRVVpNdnBHSFV0WQ?oc=5"
+      },
+      {
+        "title": "Spotkanie Nawrocki-Trump. Prezydent RP o szczegółach rozmowy - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazZUR1pjREZYdWplTl9rX3BhaExfZEtSUlh6bDhnRHRDeVQyVXBBZi1BOUFvLU9CLU9icmV1YUdtaTRMSzE0a0ZiWTl4U1FKV3ItZ2hqZnB5djVMRFg1X19JaXZGZi1zcmdOWUN5dXpMQUhYNjY0QUFJMExzM2wwY0JzRFFJVzI4djM5T25kOTZ3ckl0?oc=5"
+      },
+      {
+        "title": "Drony nad duńskim lotniskiem. Samoloty zostały zawrócone - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1p6VzZpZEJsaUROeWMtVjJla2dLR1U5S3dkcWhiVFNKTVhmLXc5TGNfZ1lwOUFyOWhlN3EyYVc5WlBsVC0yRkc5OUtENUltVWJaT0JRQ0lWOEhlbWQxNzVhb1QxbEJ3X2FRZV9MUkFBSm1ob1pETThOcjNMWmJ5VDM5bXVPVmFGOXRnaHJzSVRJNVR1R1ZjMmZWNkdBcjJOOEpYanlEbVdUbXgwTGw1Z194RGkySkMwSUE?oc=5"
+      },
+      {
+        "title": "Rosyjskie samoloty nad niemieckim okrętem. Zakłóciły manewry NATO - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdllMbG5zdTVEc09wV09fbHktMkdTeGdpeE1aRjJhUm5PWVlFMUx2OEpINkZvLUkxRFVBRTBFai1YOUhwZmdRNzVoeC1YWGN6cy1YWVNFQ0FZeTNTQnJMcnpxWmNlQi1VT3FuNl9IRFFZUHhTT2FrRHJ6ei1vLVlYcXNwWklKSkktVlRTQ2ZmV1hjVHlDWmcxTllMT3dCaEM4SFR4ay1RQm9oTk1rTWgxWUNB?oc=5"
       }
     ]
   }
