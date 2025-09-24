@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-22 16:14:28",
-    "weather": {
-      "Warsaw": "Warsaw: +22°C",
-      "Kraków": "Krakow: +26°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6255,
-      "EUR": 4.2645,
-      "GBP": 4.8933,
-      "CHF": 4.5651,
-      "JPY": 0.024519,
-      "AUD": 2.3908,
-      "CAD": 2.6262,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 409482,
-      "DOGECOIN": 0.872519,
-      "ETHEREUM": 15200.58,
-      "LITECOIN": 384.29,
-      "RIPPLE": 10.32
-    },
-    "indices": {
-      "^WIG20": 2799.44,
-      "^WIG30": 3634.65,
-      "^WIG": 3634.65,
-      "^NCINDEX": 279.57
-    },
-    "news": [
-      {
-        "title": "Putin ma propozycję dla Trumpa. \"Jestem gotowy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXplTldSOVV3NUJKZk1WbDZtNFppRWdFQV9ERDNiSnpQdWRYdjBUeVpKUjktS3hQZENlQ1JaeHk0VmdYVkhyZmxrNmhpcmxyQ0taRGN0U3JxajY3bWZBX01GMGtobmlzV3FUY1RieFQ3d1dlbzdXTzRvaFFZUkM1WE8wVHpmNC1SQWpibmdUQUt0QlpzZjFubzRR?oc=5"
-      },
-      {
-        "title": "Wyniki sekcji zwłok żony Ryszarda Rynkowskiego. Znamy przyczynę śmierci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUE83RlM3YWp0TE50aWlLOHNnUFdENVlYU09zbmdLbmVyZlI3Rmt1MVJMcFoySWd0QlVtR1pFdVNTcDY5UldpV05CZzk4bG5yYlQ4S2RQWGloNjVKT3pDNGUxdGkza1pnd1NrRXJVRUZVMkFDZnBkVXozMXFWdWVOZ3lpRFg5QVpfSjM4dGo4ZVlxUlBZWDFTVlZPSEUyc0hDaEhWaklncGNrZzFjc0ZDUXRMSU5hMl8wR0J2bTl3QlFxbFVi?oc=5"
-      },
-      {
-        "title": "Barbara Nowacka odpowiada na ruch Karola Nawrockiego. \"To jest ideologia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0luNUVia1h6dkE5MElMVlQzZ0hreW9tMFZJS1RaWldUVFdUdWp5SS1iLWJSa0pEQVowcGI1d2NLUVh5WktXc0pveENhZVQ4bnlDVXM0bmt0NHNmM2JVeE1rV2tLSGl6Q0tTNHZZR1pFT25rb3M2UUJTeDhaSmd4ZEI5bGFER3EwVUJzNWpjcjhzVFhWaXhPYXJ1eTk1OUJEQmRJVy1oUXdfZlhxMFFSR2p2QkZoS3Vid3lyZFR0YTU0T3U3cldmWA?oc=5"
-      },
-      {
-        "title": "Wszyscy jesteście z Hamasu [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2w5WS1DYzVXSE9DSzRfWWVuQ2FsaEYxRDNmS1hHcnBqQzY0bjhuSFo3bnR5bmV0LUFYZlZWMS1sQXI4cVpMWXZNTDFTNk9yd3FleFJCUXRLa00xZ2o2Wnhwaks3dDZaejc0eDFGY0xvUmVubmlrZjVFYzNxM25PcFh3?oc=5"
-      },
-      {
-        "title": "Nocna prohibicja ujawniła konflikt w PO? Jest komentarz Donalda Tuska - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2FyYkNLbEVIZGRlZHlvTUlIb1A1RUVpLWtwNGc0TDBtSjFVdVFUOWhmd1ZDZXI5aGJaTXRzemVCMDdTSVo1Xy1WQ01ZUmcyUEYzWjhyaE9aZXMzN1hhWERVeHI4STVFVzNBY0NSallLY2tRV2hJX0RKMjIxUkptbkZTOG1qd2hvTUtSN1hkYUstN0pJc1J5TkVObjVBbm5VeUstN3J5dlBiZTR1Z20tRHhJOERYX25o?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-22 17:15:06",
     "weather": {
       "Warsaw": "Warsaw: +22°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Atak dronowy na polski statek. \"Nie ukrywam, było to przerażające\" - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWxmV283NzlrSGEyLUxRU3JJQ3lUWk1Qci1KempsNzc0cjh5RjExWV9OQ2l4cXlHdlp1LVdfR29LTFhrT3pXVVdGNVZFNVg2TEFJaGs4cFZ1RU5YUGlzWEpyeXNnOTRtcFVzZk9aRldSU3pJWHNUWFh4QTVTcFdsTDVkempwSFI2al9mdmF3STlhVUx1NW9j?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-24 20:18:44",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.6254,
+      "EUR": 4.2676,
+      "GBP": 4.8879,
+      "CHF": 4.566,
+      "JPY": 0.024451,
+      "AUD": 2.3974,
+      "CAD": 2.6156,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 413046,
+      "DOGECOIN": 0.889106,
+      "ETHEREUM": 15164.15,
+      "LITECOIN": 387.27,
+      "RIPPLE": 10.72
+    },
+    "indices": {
+      "^WIG20": 2828.82,
+      "^WIG30": 3668.9,
+      "^WIG": 3668.9,
+      "^NCINDEX": 283.44
+    },
+    "news": [
+      {
+        "title": "Przełomowe słowa Donalda Trumpa. Co zrobi Rosja? \"Putin miał bezsenną noc\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0gzZGNIckJFblZHQlFFNEdfRDNFdXE5d1QtbHJKVU53ZXBPbWEzT0lfUGpmTzIyWU1tY0x5NnNIdmUzYlNMVm1UMHhNVGRNaTNLRlktUUlvLWxSZE1VVUNfQ253b0ZoUzJETWdEWHZEUWlzSk5yeEl2Zk9ZbEw2YmZac29DN1FFRVBHVS1HeFJWR2ZqR0hwNkJ3em9YNnVUVldwaU56bF8xQ19VQjN4ODdoUHZqRWo3TF9YMWpEbV9XVzg?oc=5"
+      },
+      {
+        "title": "Wyniki 1/4 finału MŚ siatkarzy. Polacy grają o medale - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlBkOU1Cb19QbGw2a2MtT0U5LXNNa1R5OThXeHN1Wmw4YlZyM0dYb2NZMnp2Y2dRUjFSWmIzTnFDSXZEOUk4YWZQSXQ2aWpNNU9ncWRuWnFJdWx1a3F2RFl0bFF5VjF2NUNoVk1EU3lZd2hWQ3BJOG1uc3R2dldfVFNLNUthZW1vck5WajZRcHR0X2pmbnpXcQ?oc=5"
+      },
+      {
+        "title": "Wymowne słowa Karola Nawrockiego na forum ONZ. \"Europa pogrążyła się w ideologicznym szale\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkR0a19UcDVwTUdWZHpYS1llVHpRNFB0TUh1WE96bmJHd2xHUHF1MzFlcHRZZTFJcFFYVE54VXFfcmQ5elhTOEhHd2tuZGI4eVRGOWlXMFoya0FaWWktWlRqTGhPek5FSDZpVkxiaDNNQUdSUmJxWU1pN3N0UzI1UDVxU05HWWdldG5fOUVzUHRXdw?oc=5"
+      },
+      {
+        "title": "Nocna prohibicja w całej Polsce? Prezes PiS stawia sprawę jasno - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2xEaEtYUHppaHdfYVNTNXNMU2ZHS3dwUFV5WlZ0OF9IOW1FTUU0UGk1M01wYXdjLWprQ2pMUW1pSnFsa011c2IxR2E2MF92NExvZmRHdmI2cFVzMXlMVFQ5SWtLTHZ6b2luREhfa0JFeW9BTUgwWHV1UWdBTWNfYkFHeThQZ3hqek4zNGZSeW8wTUZkeGZ2UzJkLVp6WE1xSEhMdWlfanhIR1NreTF6bzRTd2J4UEVQdlE?oc=5"
+      },
+      {
+        "title": "Człowiek Trumpa chwali Sikorskiego za słowa o Rosji. \"Bardzo dobre\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzY1NUJqTkltaWctaEVwb3RXSzVjNmI3QkZfTldRTWZmQ283Q1NVM3dzVnBEVVRmbS11WVpSNFFqa1hPODRQZVp4SGs4X2lDUDRjb2RMSEY5eFpCSWhkc09CTUtZdWt0SDV2YXA1Vm1xVVRReDRMYVY3UFlzMjdsYVJhbks3ZDhTQ2lhRjNxRW8wdGJqS2VOMzcyZ01naDM4S0g0Xzh0VksycGliOXQyQjlfSnlrWVhQd3c?oc=5"
       }
     ]
   }
