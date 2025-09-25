@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-23 01:12:34",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6255,
-      "EUR": 4.2645,
-      "GBP": 4.8933,
-      "CHF": 4.5651,
-      "JPY": 0.024519,
-      "AUD": 2.3908,
-      "CAD": 2.6262,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 406745,
-      "DOGECOIN": 0.867391,
-      "ETHEREUM": 15148.35,
-      "LITECOIN": 381.72,
-      "RIPPLE": 10.27
-    },
-    "indices": {
-      "^WIG20": 2802.03,
-      "^WIG30": 3638.49,
-      "^WIG": 3638.49,
-      "^NCINDEX": 280.18
-    },
-    "news": [
-      {
-        "title": "Drony przy lotnisku w Kopenhadze. Duńskie służby w akcji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGtveWxsb0ZkbHV0aDhjWHd0T2h4Tk94VE9hWjVHbDB1cTd2OXFnV3RhZ0RNdi1zWkR6TWI4LTA2ZTRaVVYxWTl3MTJMMGdRWXduOVAyaEV0MlRGUEZrX0dpd0RiS1FnaTRRbkl1NkphSTNfVnpTNm1VVXAwZ3gxTlFxZVRTbWpER3JMWURyd3V6aGUwU1djT24xX0s?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski zapowiada solidarność z Estonią. NATO reaguje na rosyjskie prowokacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzF6eDFWS0FrU3cyc1g0SldTY0dEUExOTnlHb1BjcHRpQU9oOVlNVFFTNFJWVm9zMl9HZ1dld251OW43elVmQWlzbXV3b0czRjh6R2U2TjZVdHlaYUFnWTR0MmZnM19JMnBoaC03S1Q1M2UydWZUSFRKay1lYTVvLThuemVQbmhOdjlSbDhyd2tBejlhczNySGV6a2c1SXZVRFJNbU01UzQ?oc=5"
-      },
-      {
-        "title": "Dlaczego konflikt między Sikorskim a Nawrockim jest nieunikniony i niebezpieczny? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2x2MmZSRWcwdlRNRlZEYzF1ejRSSnpZdVduNnJydG1YS2xHaFVXU0swbnpuUC1JanVLN3UzcEJkV1RGcWVLeXdueVpEMllOLVZDaDBuNlJGZlhwcEZFbzBPRnNWWjVMLWxkdWNNTjdHLTVya1hjVUF0M3FOVE9NdWgtRnZHTFRHSTMxSW5SaG5yVVVVWks0UDhTWkdQeFR1cXUxREtKS0VpdTA3RFhaQUo2YXpFWlVOdGllYkpJZUkzOWdLSVZCdjJobUZHSUpuMWVOV3NNSE83MFk?oc=5"
-      },
-      {
-        "title": "Pastor baptystów o Charliem Kirku: „To, jak umierasz, nie odkupuje tego, jak żyłeś” - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLS1YQURuRjFzZDhSTlpyTUZKUWdicFdOOWRvcWQtVF9IZk94cFJmT0xNSTY0Unl0aUNNNTRQSU1EQ1QxcWtkMTAyMDJ4M25NOHFCdWprOUY0bHM5MTMwRG50T3laWUJZQTZmeDFPSHkzWGVwUHRxakMzVkd2TUNoTEhQc1hrV1NPVmNYY2NLSEZGUzNsOFpES25R?oc=5"
-      },
-      {
-        "title": "Francja uznaje państwo palestyńskie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlpjMF9ja056Y3JUVUZFZ0pMakdkRF9KNnpEOFE3eUpURmlwZjhUMzhUS19jWE0xTk91d3RCejJtZW5jZUZuOUowU2FXaHVvZzVnemVqc19ic2NQNV83ZG1XT2pOcmE0RVB0VE9Qbms0R2xfS1FHdlVXTlpjYXY4LVpqRGtGQjBVTlUxUjdkcm1zdjctdUEwb194SF94akdiQkhOZ2NjUVJFZEswV1Z3eg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-23 03:01:46",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Eksperci odpowiadają na słowa Kaczyńskiego. \"Bardzo szkodliwe\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFZDbUlGUjB1dmJmeWE3TnA0UDZocTlRQVVqQzh4VkRDSFdJdEJmQUpXcVhHbllYT21qMjA2TERyYmhUWlN0aUk2S3JmdDI1VFlOc0FDYUw1ZkxOQ2tIMmdoRmhldy1JbDlNT1ptZ1JtOG9iUnhuNVozNE8zLXdVMzZoNjRPMXhHOWJrcVpXd1lreW52V2FIUXVLYW95M0VTdGZlbmpqYWhQcjU2Z0FVdA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-25 06:16:38",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.6254,
+      "EUR": 4.2676,
+      "GBP": 4.8879,
+      "CHF": 4.566,
+      "JPY": 0.024451,
+      "AUD": 2.3974,
+      "CAD": 2.6156,
+      "CNY": 0.509
+    },
+    "crypto": {
+      "BITCOIN": 407677,
+      "DOGECOIN": 0.855158,
+      "ETHEREUM": 14683.59,
+      "LITECOIN": 380.31,
+      "RIPPLE": 10.41
+    },
+    "indices": {
+      "^WIG20": 2828.82,
+      "^WIG30": 3668.9,
+      "^WIG": 3668.9,
+      "^NCINDEX": 283.44
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki zapytany o relacje z Radosławem Sikorskim. \"To wspólny obowiązek\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1lvakFneWcxdGlmemN6eFdMYkFTdEhvczdXUFN6cWpMcVJES3BVeXM3MHByVVcyakE3cF9LN3c1Z3c2OENfOTQ0S2ptbXNkQmdqZlpPLXp4SnpRWjgzTGoydmtfVkhISVEtMzE0Mm5qa1JIQ2pnQ003SzY4UV9SNVoxT21rNHVscFVma05OUENQdlNQTG1yVW42MTNUUzFjeGFVQ2ZMdWUxYkxFdEFVRjRBaGNXQjNqOHc?oc=5"
+      },
+      {
+        "title": "Eksperci odpowiadają na słowa Kaczyńskiego. \"Bardzo szkodliwe\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFZDbUlGUjB1dmJmeWE3TnA0UDZocTlRQVVqQzh4VkRDSFdJdEJmQUpXcVhHbllYT21qMjA2TERyYmhUWlN0aUk2S3JmdDI1VFlOc0FDYUw1ZkxOQ2tIMmdoRmhldy1JbDlNT1ptZ1JtOG9iUnhuNVozNE8zLXdVMzZoNjRPMXhHOWJrcVpXd1lreW52V2FIUXVLYW95M0VTdGZlbmpqYWhQcjU2Z0FVdA?oc=5"
+      },
+      {
+        "title": "Drony nad duńskim lotniskiem. Samoloty zostały zawrócone - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1p6VzZpZEJsaUROeWMtVjJla2dLR1U5S3dkcWhiVFNKTVhmLXc5TGNfZ1lwOUFyOWhlN3EyYVc5WlBsVC0yRkc5OUtENUltVWJaT0JRQ0lWOEhlbWQxNzVhb1QxbEJ3X2FRZV9MUkFBSm1ob1pETThOcjNMWmJ5VDM5bXVPVmFGOXRnaHJzSVRJNVR1R1ZjMmZWNkdBcjJOOEpYanlEbVdUbXgwTGw1Z194RGkySkMwSUE?oc=5"
+      },
+      {
+        "title": "Spotkanie Nawrocki-Trump. Prezydent RP o szczegółach rozmowy - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazZUR1pjREZYdWplTl9rX3BhaExfZEtSUlh6bDhnRHRDeVQyVXBBZi1BOUFvLU9CLU9icmV1YUdtaTRMSzE0a0ZiWTl4U1FKV3ItZ2hqZnB5djVMRFg1X19JaXZGZi1zcmdOWUN5dXpMQUhYNjY0QUFJMExzM2wwY0JzRFFJVzI4djM5T25kOTZ3ckl0?oc=5"
+      },
+      {
+        "title": "Brytyjska gazeta ostro ocenia Trumpa. Tak określa jego podejście do Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEoxei1MU3hNd3lKdnlwUVp5cW9rMmtfcE81YjNVcjNjeHZQeFphemR3WGg5RzRLMExuSm9kWllESjJEMTZNbWVFUWlTS2UtUTNmWGU3a3c3Z0o1c3dLeTZxbDhaWUhtNGNPcnJBSTNnaUlpdE5OSU1yTWFETXg2MUpWajE3ZXc0ZkFQY3NsTFVrX1VuVjFLYlFTaXVwaGV6NTNBZU83SHJxRXVTV0czSmVUM01fVHRpMWo0SXh2OEhUazdLenRB?oc=5"
       }
     ]
   }
