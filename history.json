@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-23 09:13:45",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6255,
-      "EUR": 4.2645,
-      "GBP": 4.8933,
-      "CHF": 4.5651,
-      "JPY": 0.024519,
-      "AUD": 2.3908,
-      "CAD": 2.6262,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 408061,
-      "DOGECOIN": 0.874223,
-      "ETHEREUM": 15193.48,
-      "LITECOIN": 383.65,
-      "RIPPLE": 10.37
-    },
-    "indices": {
-      "^WIG20": 2822.25,
-      "^WIG30": 3665.55,
-      "^WIG": 3665.55,
-      "^NCINDEX": 280.18
-    },
-    "news": [
-      {
-        "title": "Drony nad lotniskiem w Kopenhadze. Nowe informacje od policji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDJ1VzU3U3ltb1FaYTczV2VKMUkxcHd5dkVMeVRtY1ZQRlAtM2JZZnIzZ0RZUm5uZ294T09zLWM1TUtKVnQweDE4SVl4NU5TdmwtdWFnbEY3ajdwcnd1R29FaGUxMk5JVDdkQUZDOUl2REdnTTlEakt4UFZxYkxzaXh1ZE1ibU9fbTllMFY1dlhsaXdacVhKbllaeFJ0SmFfMFRz?oc=5"
-      },
-      {
-        "title": "Pałac Prezydencki zwrócił się do MSZ. Chodzi o przemówienie Nawrockiego w USA - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEJrNXFpQVFudjFOOFRrd1l1M1d4UXFnNk5wR3g2OGpWeHdhUEEtOU5hMFlQUy02MENFbmxKM25DSm11ZmNQOXh2eDBCcXBKVDQyV2l6TGEtTGd2M19ic1RJamFzZFZBVlg2LXg3UDNDNEtlaGFWbGV5MVJxdk9HTDlhamo0U2tKRW43TXI1N1VxYmN6M2lzNXNCNmprRldfemZQX0RWajZnaEdEbzhJbDFRWEdaZw?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski zapowiada solidarność z Estonią. NATO reaguje na rosyjskie prowokacje - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzF6eDFWS0FrU3cyc1g0SldTY0dEUExOTnlHb1BjcHRpQU9oOVlNVFFTNFJWVm9zMl9HZ1dld251OW43elVmQWlzbXV3b0czRjh6R2U2TjZVdHlaYUFnWTR0MmZnM19JMnBoaC03S1Q1M2UydWZUSFRKay1lYTVvLThuemVQbmhOdjlSbDhyd2tBejlhczNySGV6a2c1SXZVRFJNbU01UzQ?oc=5"
-      },
-      {
-        "title": "\"Należy otworzyć drogę do pokoju\". Francja uznała państwo palestyńskie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWF91UmF0M3l0VzVEamFUY3l5dnowbC1lMDNONGtWcnRMSTNFX3cyakpKbHNRRUt3bnZIQ1psSWQyMTBtM2FjTmpYT1E4cElHZGRHQUFkcEFBMURST3pDdVB1R1VjRWtpZUUxSDFmdHV5WjNyLTl3NEEtM253WnA4MURUOFBucHZSZHRmS3ROM1drR0dlWUFPRXpWTUNKd0xPOGZpVmhSY3RvaTJST3ozdUxlMXlUZw?oc=5"
-      },
-      {
-        "title": "Reakcja: tak, zestrzelenie rosyjskiego samolotu: nie - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUdwVHRuRWRsVEhFQmRWNzJDNGtKZHZSTUtoSFhfemk1UHZiQVBjbmFPVWd5S3NpT1R5OTJac2lCZzdBUWl5eVlBdGpMazRVM2wtUy1rRjNZMGxxR1FKemVETVhTeG9GbXJQMTEyMVVNb0o1M1pkZTIzdG1La1Q3OFlIRmstODM2ZVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-23 10:18:26",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Eksperci odpowiadają na słowa Kaczyńskiego. \"Bardzo szkodliwe\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFZDbUlGUjB1dmJmeWE3TnA0UDZocTlRQVVqQzh4VkRDSFdJdEJmQUpXcVhHbllYT21qMjA2TERyYmhUWlN0aUk2S3JmdDI1VFlOc0FDYUw1ZkxOQ2tIMmdoRmhldy1JbDlNT1ptZ1JtOG9iUnhuNVozNE8zLXdVMzZoNjRPMXhHOWJrcVpXd1lreW52V2FIUXVLYW95M0VTdGZlbmpqYWhQcjU2Z0FVdA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-25 13:12:18",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.6295,
+      "EUR": 4.2619,
+      "GBP": 4.8825,
+      "CHF": 4.5604,
+      "JPY": 0.0244,
+      "AUD": 2.3949,
+      "CAD": 2.6127,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 404907,
+      "DOGECOIN": 0.841787,
+      "ETHEREUM": 14536.96,
+      "LITECOIN": 375.66,
+      "RIPPLE": 10.23
+    },
+    "indices": {
+      "^WIG20": 2805.32,
+      "^WIG30": 3639.66,
+      "^WIG": 3639.66,
+      "^NCINDEX": 282.02
+    },
+    "news": [
+      {
+        "title": "Donald Tusk reaguje na słowa Donalda Trumpa. \"Lepsza prawda niż iluzje\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUGZwdUJybEFval80MDhpaGF4RWs1SUswY2xvNGFBU3p1a1NlcHJzUU5aeE84Y0RpalgxLTMxMFBiNlp4a29VbG1ZVVJaM2dVVUVpNll1eTZNamRKSXVXSUpZMWFvcnlTTjdkaS1oZE5kNUt1QXFoZmNQSU40elh2dEJyUXZFLWdNaEszTGpCQ3otSVhaU0xpd0tjNUFxV2ViUTNrOFVPY3ZzNV83aFhPMHJCaDA0ejlEdzFLdkktWWgyNHkzc1BDQ0RjZw?oc=5"
+      },
+      {
+        "title": "Andrzej Bargiel przeszedł do historii! Niesamowity wyczyn w Himalajach - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMTFPRXE4dk1xSnZMcFFJYVNyRkFaMDRlUDFoTll3aVYzU1RLbFdvZ01YUDFPQjVFalRoRWZsWWhoYk1RcTQ4c2pVTEVNZUtaVFV1cnIwRkNZSE9HcElTUURXeHV1bnZZcmpSdzBpaFJPYlFqUkpxUjhMZkZ1dG80b3U0dVVocXVIM2FBRGMtaWR6QzBhMXJZczRlSVV4VFFjalNPY0FjV1A0d0xy?oc=5"
+      },
+      {
+        "title": "Eksperci odpowiadają na słowa Kaczyńskiego. \"Bardzo szkodliwe\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFZDbUlGUjB1dmJmeWE3TnA0UDZocTlRQVVqQzh4VkRDSFdJdEJmQUpXcVhHbllYT21qMjA2TERyYmhUWlN0aUk2S3JmdDI1VFlOc0FDYUw1ZkxOQ2tIMmdoRmhldy1JbDlNT1ptZ1JtOG9iUnhuNVozNE8zLXdVMzZoNjRPMXhHOWJrcVpXd1lreW52V2FIUXVLYW95M0VTdGZlbmpqYWhQcjU2Z0FVdA?oc=5"
+      },
+      {
+        "title": "Incydent na Bałtyku. Rosyjski samolot 100 metrów nad fregatą - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGgxdXZDMzQtdlAtRzVMZ2NkVDVVcTBBLUdqRWY2OF9OZG5COTRwZGtmWEF4RkFYeE1nZUEwQ0lRUXdyVU5xYURJcGRPM0FBZGFVSFM3OEktTmNxSFJLU1NjbzlTczM3MVkyTzFYUEN2cGtUbzZTUHg0OWU1Z0xUckMya0pPTjZXV1VxZjB0U0w1TEpiSzJpSEtkOXFEZw?oc=5"
+      },
+      {
+        "title": "Drony zatrzymały pracę lotnisk w Danii. Policja mówi o szczegółach incydentów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemI2eDdRUy1pUnNLd1dhLWZMbVR3NEtMc2tTZEJuQWxFalp3VFFsODl2Q3F6WmtWRmZULTk4OVBGQW1FSEpURm94Qm5Kd3p1QmpQTk1QZzdWVHdZZGYydHo0S1JJUmIyQUF6ZFREdDZJd3lwUG5XOWFfOVNyUVBzMlRnZUlma09DUC1ZM3JsclpxWTNDRkgyVWktMW11LXJnS09Ndkp3LVU?oc=5"
       }
     ]
   }
