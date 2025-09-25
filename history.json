@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-23 14:27:13",
-    "weather": {
-      "Warsaw": "Warsaw: +15°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.605,
-      "EUR": 4.2552,
-      "GBP": 4.8686,
-      "CHF": 4.5527,
-      "JPY": 0.024432,
-      "AUD": 2.3792,
-      "CAD": 2.6066,
-      "CNY": 0.5069
-    },
-    "crypto": {
-      "BITCOIN": 407760,
-      "DOGECOIN": 0.870495,
-      "ETHEREUM": 15126.85,
-      "LITECOIN": 384.72,
-      "RIPPLE": 10.34
-    },
-    "indices": {
-      "^WIG20": 2819.03,
-      "^WIG30": 3659.67,
-      "^WIG": 3659.67,
-      "^NCINDEX": 280.65
-    },
-    "news": [
-      {
-        "title": "Rzecznik MSZ o kulisach wystąpienia Radosława Sikorskiego. \"Trzy minuty przed\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlBJZHk2dTBPRkhJNjktU1plUTVRc0Jxa1BjZlhQa25MVXlxdDhuVFdjU29xbGFyRFV3VmJZSzFCaWZHYndfMUdRWDh2WDdIX1BUZzI2RGxENmVnTFd6WmtINnpMMVVSTzAtWHdEbnh4R2JmM0tSNEJaaDFCbUVvc2l2aGc5bHlYaWF2bDB3Ym4xMVVYOGdrRmpTOGNRdDZnTUxMaWlfUkl2bjk1a21HM3VtVnAydw?oc=5"
-      },
-      {
-        "title": "Marta Nawrocka podbija Nowy Jork. Kolejka do rozmowy z pierwszą damą - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelFoOGV3OFdtV3liUzlWS3F4ZlVxcDBEVWUxbmdQeEJRejFhT2g1Z3RYQ21JUFVXVzR3MUxVSVBUR0gtdEdhNHNMZ0tsTnF3ajNzVzNsY1lBSXZBV2o2UVhLeEh3Ny1DOTZCTlVaUlUzamxwNXdYTVA1R1g3Tk01T2ZCckJxQ3JKQlJPTVBCY05wMVo4UURoV21lckJLeU53QnMtdnh0czhjSWM?oc=5"
-      },
-      {
-        "title": "Drony nad europejskimi lotniskami. \"Oto nasza pięta Achillesa\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFZnclphZ1FFa3g4MjdURGNPVEZBaS1GeUVpRERsWlZmeDQxeGdpRVN3LUNFdG9EVHFEeHNRanJYZjB2Z28ybHREYkMyWVctMkg3QnMtQzhuRnpCdm0wSllUd3ctcm82NWR5QmZMZzAtUHN0cWZhMnAtc0VBZUhBaTJCc2YweTBXOGFyYTNYbTdUMW02cDFfYlgxMjE?oc=5"
-      },
-      {
-        "title": "Nocna prohibicja w całym kraju? Minister komentuje propozycję Lewicy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEdpYXNVNzZWUmYtYWE3MzBCMFJ5YmJFUzhhYVVGUlJSZzNNVEQzUEtYUXhJYjR4Zkc2Ui1PdDhrY0NVYlhvVzdMbUwtS0doNXlsOHF4ZTBjZlJXRmp2T2NfdFE1VGNsVktJYmJBLUxtZlUyYVNXcHNfbUhrMVNVZ2dEaE1zZ1VqLVFPMUoxcEdPX3Mza2VndFhTM0FjMm5aM2pvYlRkQ1NweUYwRklOcTI0VUhIZw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki wykonał znajomy gest. W sieci zawrzało. \"Lekceważy Polskę\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0lyc0hqSjFZNWlORDJ3LTB6QjFNaGktYTAzdU02UXBXcGV2Y3QzclRPQjRDZHlSZXU1WUlDOVFWZ1RYV01PcFBaYVJxYlhtYklpSE4tSWRxbEZnMWRSWUd5WDBQQTZnbVpyZEo3c0R4dzUtWThicGpQZ1FRNDBuX1NTa2VjV0ZHeGQ3dU0tNU9FT1pldThYNjFVYU1lZHlXM2FLOFVaMDJGM3JQY3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-23 15:23:57",
     "weather": {
       "Warsaw": "Warsaw: +15°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Czy Polska jest gotowa zestrzelić rosyjski samolot, który naruszy nasze granice? - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16RGRKZDlyQUt6OUZ3Z2tlWEVpeU94T2hyZkd6VzNXMEtTU2FzRlRzd3VkYlVndlVSRzRQQlRMUFNxVktOcThLUEV1cWJBT3ZoSFlzRDJtRlB3dkhjZ3NSb3J2UWVmazhrY0N1LTNRb3FMSHh5dFpR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-25 18:16:39",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6295,
+      "EUR": 4.2619,
+      "GBP": 4.8825,
+      "CHF": 4.5604,
+      "JPY": 0.0244,
+      "AUD": 2.3949,
+      "CAD": 2.6127,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 407550,
+      "DOGECOIN": 0.845347,
+      "ETHEREUM": 14609.82,
+      "LITECOIN": 382.09,
+      "RIPPLE": 10.35
+    },
+    "indices": {
+      "^WIG20": 2797.79,
+      "^WIG30": 3628.46,
+      "^WIG": 3628.46,
+      "^NCINDEX": 282.24
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski dla CNN o Rosji. \"Musielibyśmy zrobić, co trzeba\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV2ZjU1MwQXZTNjc1T196ZHVSRFc3blRuQTJCdzQ3bF93c0ZDVlFiZ1JlZmNSQldnbjhpc2tGdEhNbWF3VGhlXzRTclQ3ZW4yTmU1NllVRHRUM0dJZ2V5dGJ6Zy15Qmk5V0hPRDVHbUdCV2R4YXRfY3Y3NGFWWnBKZExRNC1hMjVrZktaSnllQkVPdU41enZaWDZMRGRmMnZ4QXk5dmY0dFFMaG10RzIxNHpJd0tuamlseGo2Rk1YcmdnMjNQ?oc=5"
+      },
+      {
+        "title": "Nocna prohibicja w Warszawie. Rafał Trzaskowski podał datę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkktY0w2NFRIZ0F6UWM2QmJ5b2pHNXFidmY1eFVCckx0SUtmbl9VaHd0QTFUbG5jN0pvQml5NHhNYmhDbzdlZllHb3ZDeHlidWRkeUtOWFEzeHRDYVlzSDZ6M25aa29MTW01V3hhWmZmMWV1bUt5eXdwd2tjNy1DY0I4cXVJVHBVdVZLb2oyX3dMb1d3Vm9oTUFRMlllN1Y2Z2RIU2RQTDQxbVVDRGtaUjAwMEtydw?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski z wiadomością dla Moskwy. \"Powinni dowiedzieć się, gdzie znajdują się schrony\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmtHZ2FxRWdjTVkzRGFYS1RQTHJ0dk9DVmllV0xMWmJ6MUU1WDZwVHpFbEhYX2ZQMWpzTTR3RTJDNzcxRE5tcEw3eDN4bFNoeXp1NVF1ejY4VzVIVE9jbkFRX2szc1JfcEFDdG1ic21JXzZEcWM2bXBNN1VpUUpSVGdtVE84WDV4RG5JdVZndVBPZEtVTlo1dW1VSFlCY19jblZVRnp2R1gzWWZoNlpSZTYwZzQ4dF8yYWFvNjBYOGN2d1lWYlFlUHJn?oc=5"
+      },
+      {
+        "title": "Polacy o edukacji zdrowotnej. Zaskakujące wyniki sondażu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDEzZUM5T1JyYnQ0S0NzSkh6X2RWSEh3N0t4czd6dDZZLWdPT1lyLUQ0d1UyTUhqbFIxSnpXTW5GTm1XbW1DekVERVFmanNDZzFCdG9OMnduaUdFa1lOVnVqZTNFYVpqMnpqcDRfR18weFV4M2pTLW82SkRBQUxsZmFKUHNjYUdneFNJcHpnVmlrQzVycEp2blAyYU1uZERyYjVTWEkzbmE2R0pZTjlOOHAwUXFxV2dTRTBkLQ?oc=5"
+      },
+      {
+        "title": "NATO pokazuje twardą strategię wobec Rosji. Nowa misja już działa na wschodzie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHN4RFoyVExEaVA2elI4cmlHRFo3cS1yN0lPOFVZLXhrb0F6ZGZHbFlTWmVETHFzdU1qSDhWUFY0dmtLb1N5RTVKNlpuR2VwNE1DUXV1Y1BxaVZiRkhJRmpMVUpXYzV3dy1QZ3V5QmloaE1JRk15VHh0WXhERnZlUEt3SUU1VGI4MkMtd3NYVEpVTWFBVVNnc0sxM1Q5MDljUEpJNTlSX0xOSmVDd25YSzQzMlI2WnVBYm5nRlQzcFU0S0xma0E?oc=5"
       }
     ]
   }
