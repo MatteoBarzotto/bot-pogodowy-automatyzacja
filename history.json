@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-23 22:14:36",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.605,
-      "EUR": 4.2552,
-      "GBP": 4.8686,
-      "CHF": 4.5527,
-      "JPY": 0.024432,
-      "AUD": 2.3792,
-      "CAD": 2.6066,
-      "CNY": 0.5069
-    },
-    "crypto": {
-      "BITCOIN": 403361,
-      "DOGECOIN": 0.860599,
-      "ETHEREUM": 15002.96,
-      "LITECOIN": 383.37,
-      "RIPPLE": 10.29
-    },
-    "indices": {
-      "^WIG20": 2819.1,
-      "^WIG30": 3657.9,
-      "^WIG": 3657.9,
-      "^NCINDEX": 281.12
-    },
-    "news": [
-      {
-        "title": "Donald Trump nagle zmienia zdanie o szansach Ukrainy. Napisał o odzyskaniu całego terytorium - Onet",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1VmaEh2VTZkUHFySURPY1o1MW1iODB3SFZ0ekZXbThSN1hJVnJ4X2JwUHYyRlJPdzdzR1VMeFo3dFRYcS1vMEgtUFJwZzlfRXVqV0xJZFhEM1JHUGVhTFJveUVOQi1sc1JzWG9kUHl4N3BRVmNkeXRvbTdoSXlHU3QyNlNqRjA2bk95MFpRbFJqbU1JU202cA?oc=5"
-      },
-      {
-        "title": "Szef MSZ zaskoczył. Podzielił się wspólnym zdjęciem z Karolem Nawrockim - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblNzNXc1ZWxqN2ZDbkxSQUgtTHlEQTRtdVJKVDBDUWlFM0ZKMHJsRGtZazFuSlZpbGxYX0k0OC02em81S29TLWJhNEtDOHhNYjFTZ1Q5a09senlhLUlUZzRVejR3Znh0MFZVSWg3cTI2SEtLMnF3ZUVUdTE3VGRUM2l0MW1mYXRzMlNhXzVlYUx4eHptSFg2dllRTUpEMGJZVXktQ1R0S0xhaU9qWVlQaGxPaVozblI3NWc?oc=5"
-      },
-      {
-        "title": "Drony nad Kopenhagą. Stanowcza reakcja Kremla - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDUxeWF1dERsX2YwRTVBejNFOWI5bVZWSm1FT25kd1lVbFJ0VE5UNXJPYktGU1U2UDNxQ2JXS0xkYzh5WWZLTUVPUnoyRUg3Q1NOLWZod3BnVk0yNVFOTWlmQU01RmhlTzEyYldHSlc3T193REdETkRoNWtERThfUHVxQ1M1M3NieHlzbUZkM1JYSlZLdGFmdERB?oc=5"
-      },
-      {
-        "title": "Trump jednoznacznie o rosyjskich samolotach nad państwami NATO - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjJEVGotbEtlb1hCbkFYNGZmdkRBTG1MbDNuUmVGVi1xVjdwRVg3SzJ3Rl82QXJJSDhxQ3hra1FXM3E1N3Mtb1NQN1QzUDNxSHhxSVdLXzRIejZXWWZMUTNjaHV1Z3pYM3dLMUVkNGtMLWs3T0VhMFBRQzZDTVpzeFA2azN4TUx1U3BUOEtFckJ6Vkpfbk4zQg?oc=5"
-      },
-      {
-        "title": "Macron stawia się Izraelowi. Amerykanie są wściekli. Francja ustawia Europę na kursie kolizyjnym z Trumpem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWRJTFkwcVRlTk85Y2JHdkVQbTFvYlRYVE9IdnQ3eGh3aldjNWp4LUdMUnVXcEExSEk1ZUF3VFZqVFRmbWxtTm9WNHhzck9GU1Q4ZDYwY0ZlQThsOGVUdnkwM05HbzBBUk5XZXJfV2RLSmhseGZEeXNoeXRZSGFpN0pSbi1xMnNuQUdJbjJyWHpHVF90QlBsdGVCVVh3Y01IOWVzMmY5LUwtTVUzSVVma05mWkdUV2NzQloyTXM0QkQzQjYzblJzbHA4MlBzbVZhblNVcVZIaW44eEY3MnlF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-23 23:11:36",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pilne spotkanie w Pentagonie. Hegseth wzywa niemal 800 generałów i admirałów - Defence24",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWRwSzhTSW83T1dPYTVjaklkTHJIdnpLSmFQQWFlcGgydHpyTnJVOXVSM2ktRWFmV0RHTHdVdkZmUG9wZHczSk5GLUxmMVJKRXh6VkZfRWFaT1o1bGMxMEQzM0NYNVJLdFJqb0ZJa0tYcnRwOXNNc3VwdVFyV1NjR1pkZDEzWUEyV2FTSzZGYm1CR09jRU56T3p0QllyMnJpaFNYQ0J3N2VaZDV0cVp2U2ZRSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-26 03:02:46",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6295,
+      "EUR": 4.2619,
+      "GBP": 4.8825,
+      "CHF": 4.5604,
+      "JPY": 0.0244,
+      "AUD": 2.3949,
+      "CAD": 2.6127,
+      "CNY": 0.5094
+    },
+    "crypto": {
+      "BITCOIN": 400942,
+      "DOGECOIN": 0.826999,
+      "ETHEREUM": 14393.15,
+      "LITECOIN": 378.87,
+      "RIPPLE": 10.13
+    },
+    "indices": {
+      "^WIG20": 2797.79,
+      "^WIG30": 3628.46,
+      "^WIG": 3628.46,
+      "^NCINDEX": 282.24
+    },
+    "news": [
+      {
+        "title": "Hiszpania i Włochy wysyłają okręty wojenne. Ochronią flotyllę płynącą do Gazy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEptaVZCT2FsWHJyUlR5WjQ4SldPTHJzRWYxc3UzZFZaSDNiaDJIUnQycjNpVXZ3alJ3OHp0aXFtOV9lRHRTcjZUTmtaYTVCU0dsTDJCZjNvM2NrS2xpVy1HeDh1aExDX2dFekJyN0NYcDhyMURyTW1FbVd6YnFfMERsU0VYVnRma1o3SFdFTGp5Y2o2dEJvalNQYURKajhxRHh6ODd6WGJ3S2JjNC04QnZXblNKeEJIX0E?oc=5"
+      },
+      {
+        "title": "Pilne spotkanie w Pentagonie. Hegseth wzywa niemal 800 generałów i admirałów - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWRwSzhTSW83T1dPYTVjaklkTHJIdnpLSmFQQWFlcGgydHpyTnJVOXVSM2ktRWFmV0RHTHdVdkZmUG9wZHczSk5GLUxmMVJKRXh6VkZfRWFaT1o1bGMxMEQzM0NYNVJLdFJqb0ZJa0tYcnRwOXNNc3VwdVFyV1NjR1pkZDEzWUEyV2FTSzZGYm1CR09jRU56T3p0QllyMnJpaFNYQ0J3N2VaZDV0cVp2U2ZRSQ?oc=5"
+      },
+      {
+        "title": "NATO dyskutuje o zestrzeliwaniu rosyjskich samolotów. Moskwa reaguje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenFocnc4N2xiOUxTSzZMbVo2QmRsajVaNTlJX1BkQlhOYWdxbEh4TzY3NXQ1MUcxdEFOVldZTWQ0S1RzZGtIaS1wVGpRcTdkME1pOG1xdVZYVGNaU0x6YUpCemo5NWVJVWg1SC1vaUU5MEZwdmxqVkYzZ1R3cnhXVzVuYjB6MkJ3MG9VU0czVGV1Skw1ekY5bFVqWXR2UVpEQWNVOUJMLUVTUFI1?oc=5"
+      },
+      {
+        "title": "Trump przywitał Erdogana w Białym Domu. Apel do Turcji i krytyka Putina - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2ZnZDd2R2pDUGRXa1BGUmtsemFjSUZIOUlaSlpsc0x3N0hBcTlpaURtYmJEYnhaOHNqSU00MTJyMlVDUjcxRkl3eU9uajc4NFZFbmxWUXBRQ1lGXzR5aUpVZmh0RENnMEpJTmoxTVJRdU9YM3B5VFhHN21tcGNGaEsxOVhOaFE4YWF1b05RZkF2SVhXNFhSemdOcGFhcUxBM2x6aDBvMEU5bHZPYmFodg?oc=5"
+      },
+      {
+        "title": "Rosyjskie myśliwce zbliżały się do granicy. NATO poderwało samoloty - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjhSMU55WjlTZXh5clVkdVlzU19RNHJPVzdLbGNmaWhVb2FibnVfZ3ctRTZRa00wbHhaRllKcHRQUjhJRzRHN1RQNUpScHp0WXZpenJ5UXQtckRzOHpIQWdJV1ZIT2dwal8zaUZfVVNBVV9RblViNzNiMWdxWGh0MmxiX3JhcWJ3bkdaaW9ia1lNWWJ3cjhmeURmT1g2UXNfcnpNM2J4NmU3NkpZeWc?oc=5"
       }
     ]
   }
