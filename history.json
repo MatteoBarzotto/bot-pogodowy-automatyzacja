@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-24 13:11:30",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6254,
-      "EUR": 4.2676,
-      "GBP": 4.8879,
-      "CHF": 4.566,
-      "JPY": 0.024451,
-      "AUD": 2.3974,
-      "CAD": 2.6156,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 410777,
-      "DOGECOIN": 0.88043,
-      "ETHEREUM": 15190.65,
-      "LITECOIN": 389.14,
-      "RIPPLE": 10.46
-    },
-    "indices": {
-      "^WIG20": 2782.95,
-      "^WIG30": 3613.33,
-      "^WIG": 3613.33,
-      "^NCINDEX": 282.31
-    },
-    "news": [
-      {
-        "title": "Incydent nad Bałtykiem. Celem samolot z szefową MON Hiszpanii - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVBJS1RldjVzR1hlNVFaUERSM2trZnN6bmJQSmRNZFNzN2JkN0QwZFBxLXZJdlQxZmxaenNTWGVTYjEwYWJlSkdxYWNfQ1RueUo3NFA0NEM2dDFiU25TMzE2cFlLSE9aa2pVaVZOaE5QUXN6MjRIVF9vNWp6NWV1eVIxQVdZWkhEajZtZTVWOFR6cThTcE1oSEZkbi1nQ2hZODVZ?oc=5"
-      },
-      {
-        "title": "Niespodziewany wpis Donalda Trumpa. Wskazał na Ukrainę i jej terytoria - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUlwRFByZngzT2YtT3BQVk1zcFNIblIxN0FiZmFnbjRBdEZJWUMyRG50NDRQdkJRQ0NNNWN2Tk9NbTdnSk9VY0dMMGRiclQ2cFVoWkVjajU3UlhYWmhxVkZSbmtQNHZ5dTdTV3U1dVgteHBoSUw0NkpLdFZLamlNbFlrNWxISDhlbENzZV9DaTM1bnpwSlpmNFgxTGdiMWJhMzNScGVVVDVWOUIteTlyMkN3WjJGNmdNRldSQWxB?oc=5"
-      },
-      {
-        "title": "Wymowne słowa Karola Nawrockiego na forum ONZ. \"Europa pogrążyła się w ideologicznym szale\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkR0a19UcDVwTUdWZHpYS1llVHpRNFB0TUh1WE96bmJHd2xHUHF1MzFlcHRZZTFJcFFYVE54VXFfcmQ5elhTOEhHd2tuZGI4eVRGOWlXMFoya0FaWWktWlRqTGhPek5FSDZpVkxiaDNNQUdSUmJxWU1pN3N0UzI1UDVxU05HWWdldG5fOUVzUHRXdw?oc=5"
-      },
-      {
-        "title": "Rosja będzie kontynuowała wojnę. Rzecznik Kremla: nie ma alternatywy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVldRMlBtU0dMZUxnUTh1SG5SOWxrSWJsdEU5SG9VdXVqZXB1Yjl4T0kxWm1PUkI2blEzZl9SM1ZKV2NEaEpYTS0yMnRvWmdHZFl0NFEzMmVuMHV1ZFlnRWZTOGpDMTZ4OTd2VWNhY29QTnhUVWVxVF9vWXJZOXpRdnpsbWlzVGxndzVQM0UxM1ZfbXFNR2JBNHpLREdpX3hxUXNqMlktdG9nNm5JZXR3cVVfU3VNT01PM3RFTXNmUnNwazZubHVjZw?oc=5"
-      },
-      {
-        "title": "Jest nowy prezes NIK. Właśnie złożył przysięgę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3dWVWd1YkxhU3N1Q2RoSWc4MXdqbHRYdDJaX0hpQ1VZcWhxZFJ1MGxucUt4R1F1VVVFb29obm9PS1YwUEEzaXdGZ0lVRFB0NWVvS3BZT2ZjcGtMQ2ZwZEVEVVkzQkN0M0VrSnZNNEtLbFdlZElKa19YbFAxRWtXOXM2YlhUaEw4VzJJQ0lHY21SZk1qdVEtdlZOOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-24 14:27:51",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Były prezes Polskiej Grupy Zbrojeniowej usłyszał zarzuty prokuratorskie - Onet",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSXM2VmNyeFRvaGs2djRYTWJ0eWVfUGFFdUl5YXVFT09jcXZnMHEyVlRXQS1DTWU5VkJ2SG9WbjkxUUY0SlVSR1FHM3dIaEhiTFNzTERMc1Z5RGtnQjE1d28tVzc5S0RBVXlHeVptTmFzLUNxaXdETEZMUS1EREdCU29EY3gwcDM0RFY0aWkwLWJVUkNRYjNsbFR1RHM2TUlQSFJ0eDFkbGtuektmX1h2Yw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-26 17:14:00",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 398077,
+      "DOGECOIN": 0.827473,
+      "ETHEREUM": 14390.29,
+      "LITECOIN": 376.8,
+      "RIPPLE": 9.94
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.05
+    },
+    "news": [
+      {
+        "title": "Donald Trump o Strefie Gazy. Przełomowa deklaracja - Onet",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV01USzRlWGlOdF9zSFN3QVRWWmpDV3lCNGJkaGlDcWhrNExvaGZTZjdBTHZmYVdYVDZhY3hBUHd0M1JzLTlYOGN1RmVrZ0JJWEpydnZwVjc4cjlWd2FZNEQ3bFhlZFhXRHZveUc4Y3U1RGpldHNSUUVWWnYwWHNranJGX3h2cjRwbUtNLWdVeWZJZzBO?oc=5"
+      },
+      {
+        "title": "\"Nie akceptuję\". Donald Tusk o \"uratowaniu\" prezydenckiego projektu ws. CPK w Sejmie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSTlmZTVkLWVVbHhQaFZHTkdZdnQ4Ym9XYmt5LS1IMUFsY2ZWWlFsb2ZnTm0tbHpEVFlQZko2QVBkNzFvVDNJcGlkY3NvQ1NqNm5GdUVUX21kWkl4UEhtUnBGeW13bWlaOEI2cTBCWDNUOTJQSjFIMEh5ZzRrWkYtazhKdzhzSXRnUHF2ZzkyT0xDWk1jMHVWbUJ5a2ctODdNQVoyUFViM3ZKVUlMSldZWFQ4anl0amw3aUVDMjBzZ09rMXA5NnVkam1oUFBldw?oc=5"
+      },
+      {
+        "title": "Węgierskie drony szpiegowskie nad Ukrainą? Wołodymyr Zełenski reaguje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX21aM2tqb0Z0dWFybm5VUlNSQWpSRk9KTHdpbnI4MDgzZ3pKdDA0emxDMTluckRfOTE4TldrZkt1cmtkUzNUOGtzMFdxbVAxSlJWeUpPRDk5RTdRZC1HcHJwaFZSdVVpN25MZE5xZmVXSGZGSWoyX0g4NDFNX24xME9VbTZoR1NVU3pvSURpWUpQQ0kwSHBRT2VoX3cxZHRtd3NfM3pRemhlN09fWEw0LXVTVDFDV1l2NW90X0RIVDQtRVJ5TmZmUGRHdw?oc=5"
+      },
+      {
+        "title": "Binjamin Netanjahu w ONZ. Rozległy się gwizdy, część osób wyszła z sali - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGNvSkZIWEpFTU9SVGVIeHpRZHVob2tab1RJYkJieFJodUVYNDJ0ZVlTQy1VQ0EzZmZNTmFUU1JxNnY0Y004aW0zR2NiYndQRjQ0OG1OVnpldWg4RWJFd0c1NnpMNmxoSlpDLUdoN2N3NlFnbVhmZ2Y3dnU1QVNReXVzU3V5aGFfSlFLYXdVd0draUlZXzVTX3VjR3FsTTRCZnB3U1BvdUpIZ05nYnRycWUxOXV0VVFXbUpRN0JNTmZESkMzQ3k5dG9DOEo?oc=5"
+      },
+      {
+        "title": "Rząd przyjął projekt budżetu na 2026 r. - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0c0NDBjSzNta0h2VnpWc3RSc1BZZXlSb2k2X0ZTclBmZTJHZ1hZd3hONENHWUZVZ2JIS3lIM0t5ZC1KR2N6Y0hmMHd6aHo0Qnh2TGhOMFh5WldpRUpZMGlodXJHSHFTbXJsYTJ5ZnNocGt5YW03bV93NWlPZTBtQmV3V0RFckZ2MF91dnY2c2ZoSEI0TkRBUg?oc=5"
       }
     ]
   }
