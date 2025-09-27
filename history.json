@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25 10:18:33",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.6254,
-      "EUR": 4.2676,
-      "GBP": 4.8879,
-      "CHF": 4.566,
-      "JPY": 0.024451,
-      "AUD": 2.3974,
-      "CAD": 2.6156,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 406577,
-      "DOGECOIN": 0.851374,
-      "ETHEREUM": 14642.87,
-      "LITECOIN": 378.8,
-      "RIPPLE": 10.35
-    },
-    "indices": {
-      "^WIG20": 2813.18,
-      "^WIG30": 3649.87,
-      "^WIG": 3649.87,
-      "^NCINDEX": 282.89
-    },
-    "news": [
-      {
-        "title": "Paczka z migającą diodą przed sklepem. Akcja służb na Dolnym Śląsku - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWltcS15SWpyUzA3eFVNZkxxajNxd3hFVk95dldQdnhucHhOWmI5ZUo5ZkNwRXlkb1VEMjlZWU5DNkNuQzEwZXIzUXVDNktOR202a2xnaWdKb3ZxUUF1MEhOaGlZbUVKM05mZEk0VGtWX01BMnZNVHZGQnFWNWQ2RE9QMDJ0VkNhc1NYODhaWmF5Z1FzYmc4SUFSQnlPZm5ObWxSZGlXQno2VnhFb3c?oc=5"
-      },
-      {
-        "title": "Drony nad duńskim lotniskiem. \"Przestrzeń powietrzna zamknięta\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVJRQjJ4d0lUMkNXRmFfU19Ka0dxRk9BUkxpdFNqaUd4cXdPbnNtSGd6b0ZCLUxneWhzbGt4dFZDc2xoa1R1T1FNVUJpRlBoSmxrRGMtYlpSbTZMOV9Rb1lJWjV3STlHa0JRcGprTk1CdXZOOV9xOVNfd0JJbDE1VEdPbVZ5VklJQ09jQUE4ZmV6T3Y4MHV1YmZB?oc=5"
-      },
-      {
-        "title": "Jarosław Sellin skomentował słowa Radosława Sikorskiego. Zwrócił uwagę na jeden szczegół - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9Sd0RJWHZ2Y0xWeHVxUUI3SUtxVnlJREt3OFphb09EVkNnTmppVXZ0cVQyQUszWnhjZmpTa3R0cERsRTBVV1ZJSF9hZ3oyYW10cGc5ZU9zWExiamlaQ0Rkek1rVHo5SDVGWU54VlJncUZpMS1oWGY3TERKZEpSVUZ3Y0Q5U3hBM1dMTFpIQXhTdU5ZNHY4ekxuR2RwdFRYa3N5UnJuV1V6UkxtMVVEYUY0Smh1WGhibHpkOFB3?oc=5"
-      },
-      {
-        "title": "Nocna prohibicja w Warszawie. Burmistrzowie dwóch dzielnic zabrali głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGZkenB3T1Q4UkN3bXBxbGNaRExrLV9tajI3eHR6ZExZYnl1R2pJLUFZSElPSTdzTkRNUGRZdTZ2X01UQWNPRHY0eWVsMzc5cnkwRDZiNGE3eHo4Smh3aU9QbFhXeFJFQWpNMmRxQmk5XzNydUJvYWhaak0wU3BfZ1NOUWlKTUZKYlh0RmxKZFRyblA5MC1WeFVZNmVvc285V3RHZUFsOF9uMTRjTXgwMms5bUU?oc=5"
-      },
-      {
-        "title": "Trump nagle zmienił zdanie. Media: trudna sytuacja Ukrainy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjhSVS1rWjc0UVRQOUdBMFdwUnhjZ1A0V2xoNGYzOWlGQW4xV2dlaGdMZVd5RUFMbE11bmNBRUwxSzdwdFNSTUJCXzE1bVlaLXdZT0hqNWNKQ1gzZ0ZZNDlqTHJvckZORTFqWXB4bHBEZ1F4Yl93SXRGUU9HaFVWSWFsUmxrQzV5SGhfWlZDc2xYYjNWR2YwejlNZm4yN2U3QlJGVGJ6TEhOSmVweWJndmRzQ3poR2I1VFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-25 11:14:28",
     "weather": {
       "Warsaw": "",
@@ -2643,6 +2590,59 @@
       {
         "title": "Karol Nawrocki o głosowaniu w sprawie CPK: Ważna i odważna decyzja - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWItci0wa3FpdkYzQnlkV2MzN0ZEcWZmLXlaSXFQeFYxOGlNVUVIeUJsWE9NejJMcUs2VnpPckhuWmFNQ3k3SG5Ecmh0aVdXbjkxd2o1ZDdsVlIxTWVYVWVMUngwNmhOakFqX2J4dUdRb1lCLURfT2p4WXlPaXZJMkJleUpUdlR4VVlibFR6RWt2MkRJWGpfNWRn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-27 14:23:46",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +16°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 398505,
+      "DOGECOIN": 0.83743,
+      "ETHEREUM": 14578.1,
+      "LITECOIN": 380.0,
+      "RIPPLE": 10.13
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "Szymon Hołownia zdecydował w sprawie swojej przyszłości. \"To jest ten moment\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjNPcVVzU1l1d2Z1YkVYZ2k4Z25hUmt2WTdZUEtMenptU202d2ZkcXR6dXg3RnlZb0VpTUVsc1FkVHpuNVZsdDM4V29YTzhjLV9KZ1k0LU5MdC1DOTVrR0FSWmVDYVA3WHVpWnNpclVDay1EYTV2dnVVSGpwamYxcEdBWnBEWjF4NHNEam5YckFScWFVME5TNGkxYUo4MTgwTjRCQ1hKenlYemRHMWpXMGtQTUg?oc=5"
+      },
+      {
+        "title": "Polska - Włochy. Siatkówka. Półfinał MŚ siatkarzy na żywo, transmisja, wynik - Sport Interia",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHVicXByTmt5Q2FPQjNaZU13ZkJ4cXZNWVljd1Z1VWcxNXZXYnhpeFpXd2ZUZ0I1N0J3MGF2Vl9zcjkwU19WWGNsUUlycGFwUWxGTmtNM0lzZ1BiM281ZnNEd3QxZFZZR3R6REtyaFZ6eHZ1eERodC1nRFFPUkcyTnhIU2RBbFVkNUltY3BIUERwcHV2TmdWVUE1RVJPamdtTm9Zdk01WXJHT2pMTXZOWHZyYTV3UUVmcElaaWZaZFpaX0tOUkV3cUluX05obFlsVWNXa055SjE?oc=5"
+      },
+      {
+        "title": "800 plus tylko dla pracujących Ukraińców. Prezydent podpisuje ustawę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXd6X0NuVmcySTZTSXZfUk80TENZUE4yeTBfdno3cmxUY2NPWWdPb0RzN1N1UU9tcWxSMU00R25JY0RMSkVnOEtfZVJCM0dEZ2Y4Z2M5X01CNlVFYWRuczlueTJPNHM0RmRXSDNGbjFydnc0Znk0TUlEYUhFTzVSWThTa2xBdllGTUN4LXRzNzNvNDNRWXpOMkNXRGRhcTdQamZ2NWlwUlB6d0l6X1ItSXowNA?oc=5"
+      },
+      {
+        "title": "Polacy o zestrzeliwaniu rosyjskich myśliwców przez NATO. Najnowszy sondaż - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnIxeUFqNU9sMXhsM0FJMy1NUEFhVnZyc1E1QmR2SlZnZlFYdlRZcGVXTlV2N3Z6UllyV0xXY243YzI3ZHNEOGRLUGJyUXRDUUE1X0xUaHF2NlJwRzE4NGY2b0w5QWNseVBncmtNLWdNSlYxT1VvLWV0dzlKNTkydWNSTy1SUkVaUGhHclhsejBlMTlFSTgzT2I1aGY1clJHTWVOWFFXS0RGMUlSb0NwNDdqQjM4UExpOG9YcQ?oc=5"
+      },
+      {
+        "title": "Karambol na trasie S8. Dwie osoby nie żyją - Onet",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlFNY2t0NWJXd2FOMUtfaTMzYXpxNnA4RUE2T1dtTDVJSGpnZ1NYM1RZZ3Jpa2oyV0RtUmRpcnVIUjJCakplZHE4VjFxY2VSa3Bidm1lN2NjMWNCNkIyMTNkbXcxdnBKYTNIV05RRG9iczM0R2ZPUkp6LVVPdVk3aS1LRWFuQVlwTjlINE13RDRFLUZNakxtcw?oc=5"
       }
     ]
   }
