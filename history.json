@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25 03:03:00",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.6254,
-      "EUR": 4.2676,
-      "GBP": 4.8879,
-      "CHF": 4.566,
-      "JPY": 0.024451,
-      "AUD": 2.3974,
-      "CAD": 2.6156,
-      "CNY": 0.509
-    },
-    "crypto": {
-      "BITCOIN": 410424,
-      "DOGECOIN": 0.869115,
-      "ETHEREUM": 14980.48,
-      "LITECOIN": 382.18,
-      "RIPPLE": 10.58
-    },
-    "indices": {
-      "^WIG20": 2828.82,
-      "^WIG30": 3668.9,
-      "^WIG": 3668.9,
-      "^NCINDEX": 283.44
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki zapytany o relacje z Radosławem Sikorskim. \"To wspólny obowiązek\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1lvakFneWcxdGlmemN6eFdMYkFTdEhvczdXUFN6cWpMcVJES3BVeXM3MHByVVcyakE3cF9LN3c1Z3c2OENfOTQ0S2ptbXNkQmdqZlpPLXp4SnpRWjgzTGoydmtfVkhISVEtMzE0Mm5qa1JIQ2pnQ003SzY4UV9SNVoxT21rNHVscFVma05OUENQdlNQTG1yVW42MTNUUzFjeGFVQ2ZMdWUxYkxFdEFVRjRBaGNXQjNqOHc?oc=5"
-      },
-      {
-        "title": "Spotkanie Nawrocki-Trump. Prezydent RP o szczegółach rozmowy - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazZUR1pjREZYdWplTl9rX3BhaExfZEtSUlh6bDhnRHRDeVQyVXBBZi1BOUFvLU9CLU9icmV1YUdtaTRMSzE0a0ZiWTl4U1FKV3ItZ2hqZnB5djVMRFg1X19JaXZGZi1zcmdOWUN5dXpMQUhYNjY0QUFJMExzM2wwY0JzRFFJVzI4djM5T25kOTZ3ckl0?oc=5"
-      },
-      {
-        "title": "Polska otwiera przejścia graniczne z Białorusią. Celnicy dostają wsparcie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTVB0SmVfQUhLTXNQZUxGX0xjaVg4UWs3bFBoQ3VFYmtIamFJdlJYMlg5MEpCYTNvalEzQ0RBYmx3UmdhVnAxT3NjdDh3RndyZEVOTTZwTjFkTEM0dG11Y2xvNXgzeHVWSTduNDMyOU0tSHFLYl9Sa0toNnFpUXlqN2RNN3RoZ3VHUUJMblVISm9yaG5VQzRDcFI4bzhvaHFCbjV5RmNKd2dRY1N2bDVlZ0Izb1ZRVVpNdnBHSFV0WQ?oc=5"
-      },
-      {
-        "title": "Drony nad duńskim lotniskiem. Samoloty zostały zawrócone - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1p6VzZpZEJsaUROeWMtVjJla2dLR1U5S3dkcWhiVFNKTVhmLXc5TGNfZ1lwOUFyOWhlN3EyYVc5WlBsVC0yRkc5OUtENUltVWJaT0JRQ0lWOEhlbWQxNzVhb1QxbEJ3X2FRZV9MUkFBSm1ob1pETThOcjNMWmJ5VDM5bXVPVmFGOXRnaHJzSVRJNVR1R1ZjMmZWNkdBcjJOOEpYanlEbVdUbXgwTGw1Z194RGkySkMwSUE?oc=5"
-      },
-      {
-        "title": "Eksperci odpowiadają na słowa Kaczyńskiego. \"Bardzo szkodliwe\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFZDbUlGUjB1dmJmeWE3TnA0UDZocTlRQVVqQzh4VkRDSFdJdEJmQUpXcVhHbllYT21qMjA2TERyYmhUWlN0aUk2S3JmdDI1VFlOc0FDYUw1ZkxOQ2tIMmdoRmhldy1JbDlNT1ptZ1JtOG9iUnhuNVozNE8zLXdVMzZoNjRPMXhHOWJrcVpXd1lreW52V2FIUXVLYW95M0VTdGZlbmpqYWhQcjU2Z0FVdA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-25 04:57:14",
     "weather": {
       "Warsaw": "",
@@ -2643,6 +2590,59 @@
       {
         "title": "\"Rosja ma złe zamiary\". Premier Tusk nie owija w bawełnę - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb1JONGl3Qy1LMk9qRW0xS05ZbTgwZEVTQU9sWHozeHhiMEV0UFpaY19sUUhtNHJidm9zWnFVb3RYOXN5Nl9SMmdoeXRISUlzQkRQT04tWmJBZ0VXVGw1N2dEcEdqV3dfQnFpcnptMElnbGd2eDgtOGdyRlp2TThnSXdWcmJSU1o4SHpiSzZpdDNVbXVJZVduQzV1c2JpV3p4cVFVMmNn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-27 07:12:40",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 399826,
+      "DOGECOIN": 0.848018,
+      "ETHEREUM": 14646.08,
+      "LITECOIN": 378.23,
+      "RIPPLE": 10.13
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "800 plus tylko dla pracujących Ukraińców. Prezydent podpisuje ustawę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXd6X0NuVmcySTZTSXZfUk80TENZUE4yeTBfdno3cmxUY2NPWWdPb0RzN1N1UU9tcWxSMU00R25JY0RMSkVnOEtfZVJCM0dEZ2Y4Z2M5X01CNlVFYWRuczlueTJPNHM0RmRXSDNGbjFydnc0Znk0TUlEYUhFTzVSWThTa2xBdllGTUN4LXRzNzNvNDNRWXpOMkNXRGRhcTdQamZ2NWlwUlB6d0l6X1ItSXowNA?oc=5"
+      },
+      {
+        "title": "\"Zestrzelcie rosyjskie samoloty\". Były ambasador USA w Polsce wzywa NATO. \"Turcja ustanowiła precedens\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkwwRXFXLW1kb2x4VHlKM2xoWG80T3p1aEloODhzb3lnU2hkSU5vM1JPQ0hpRTROejdxZXlPWUJxeE00SjBUX1Q4OUp3Y2M0WDA4dHhyUHNXSGdWYjhOak9TWVdueWZGMUtZbjZBcC04NTExRGFUc0x0NzVocEVWdDh5Rlk4NWxPYTdIZFVvTlJoMWJjVG13UnlxYUtWT1FWdU43R3lzVlpRTkR1OUxXeWFYUnlzeThl?oc=5"
+      },
+      {
+        "title": "Sejm nie odrzucił projektu ws. CPK. Spięcie Donalda Tuska i Szymona Hołowni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFVhR3hNanFDRktMeDNLQkFKX29ITjRMNjdXSWtYZHBmakhpMERTWTItcEQ0OURvMkxJUGEyWG92UE1pYjgzZVhUTG9aRDBOZEhOaVRnWkJqVm9TZlY3MUtkTjdXck95bThTb2VEcnAwT2dZelA0TUJucUFCdmhBaUdRSEZmRjk2WWJ5Y2V2SnJzXzVzX24zamc0cW5CRFFEU0tOTEFySnFaVFplR1h3c2RCVkVLOGsxRGNrbklDSC1mVU5oa2c0ZXM2RQ?oc=5"
+      },
+      {
+        "title": "Rafał Trzaskowski: Przestańcie czepiać się prezydenta, że używa snusu - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXVYb09nM1dHRlZoMnRTTHhXYnktY1VuZFdHUlVHY0Q2eVQ5M19wczc3cWdtTHNvLXlUQ2dCMExVOF9Ccm8td0ZTZ3JaMnAzQlRLWHFtWGQwcU9sOFkxSGhKcGtWSHF6RlZLWGVZTzZWNk04RXBucFhmSGNaSWFMd3NscFU4NjJGdlhjLU5ScEdFZEFwc01wZ0hOcE1DcVlBWTRtZ2phR3ZhSEVWcm9nTi10MEttZ1BGRlE?oc=5"
+      },
+      {
+        "title": "Ranking zaufania: prezydent Nawrocki z rekordowym wynikiem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEstelI0R2RlLTBSaDJ6aWkwNWgxU0xkaTExTE5GcUt3TWVQZjFSOTBnWXZ5ZFFJTDNOX0FDa0lUSWgtX1VSdUZweG0zaWlyLUFlbW5LTTZ1S3RoZG53YmdQamNBU19PVkhLWTVzazZiY2NULTdrVjNNMVJTSUpwSHZTUEhBYVFGa0Q3Nk02TGRSc3JuUXk0V2o1WlpDTXRsSVE?oc=5"
       }
     ]
   }
