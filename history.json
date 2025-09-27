@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25 13:12:18",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.6295,
-      "EUR": 4.2619,
-      "GBP": 4.8825,
-      "CHF": 4.5604,
-      "JPY": 0.0244,
-      "AUD": 2.3949,
-      "CAD": 2.6127,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 404907,
-      "DOGECOIN": 0.841787,
-      "ETHEREUM": 14536.96,
-      "LITECOIN": 375.66,
-      "RIPPLE": 10.23
-    },
-    "indices": {
-      "^WIG20": 2805.32,
-      "^WIG30": 3639.66,
-      "^WIG": 3639.66,
-      "^NCINDEX": 282.02
-    },
-    "news": [
-      {
-        "title": "Donald Tusk reaguje na słowa Donalda Trumpa. \"Lepsza prawda niż iluzje\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUGZwdUJybEFval80MDhpaGF4RWs1SUswY2xvNGFBU3p1a1NlcHJzUU5aeE84Y0RpalgxLTMxMFBiNlp4a29VbG1ZVVJaM2dVVUVpNll1eTZNamRKSXVXSUpZMWFvcnlTTjdkaS1oZE5kNUt1QXFoZmNQSU40elh2dEJyUXZFLWdNaEszTGpCQ3otSVhaU0xpd0tjNUFxV2ViUTNrOFVPY3ZzNV83aFhPMHJCaDA0ejlEdzFLdkktWWgyNHkzc1BDQ0RjZw?oc=5"
-      },
-      {
-        "title": "Andrzej Bargiel przeszedł do historii! Niesamowity wyczyn w Himalajach - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMTFPRXE4dk1xSnZMcFFJYVNyRkFaMDRlUDFoTll3aVYzU1RLbFdvZ01YUDFPQjVFalRoRWZsWWhoYk1RcTQ4c2pVTEVNZUtaVFV1cnIwRkNZSE9HcElTUURXeHV1bnZZcmpSdzBpaFJPYlFqUkpxUjhMZkZ1dG80b3U0dVVocXVIM2FBRGMtaWR6QzBhMXJZczRlSVV4VFFjalNPY0FjV1A0d0xy?oc=5"
-      },
-      {
-        "title": "Eksperci odpowiadają na słowa Kaczyńskiego. \"Bardzo szkodliwe\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFZDbUlGUjB1dmJmeWE3TnA0UDZocTlRQVVqQzh4VkRDSFdJdEJmQUpXcVhHbllYT21qMjA2TERyYmhUWlN0aUk2S3JmdDI1VFlOc0FDYUw1ZkxOQ2tIMmdoRmhldy1JbDlNT1ptZ1JtOG9iUnhuNVozNE8zLXdVMzZoNjRPMXhHOWJrcVpXd1lreW52V2FIUXVLYW95M0VTdGZlbmpqYWhQcjU2Z0FVdA?oc=5"
-      },
-      {
-        "title": "Incydent na Bałtyku. Rosyjski samolot 100 metrów nad fregatą - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGgxdXZDMzQtdlAtRzVMZ2NkVDVVcTBBLUdqRWY2OF9OZG5COTRwZGtmWEF4RkFYeE1nZUEwQ0lRUXdyVU5xYURJcGRPM0FBZGFVSFM3OEktTmNxSFJLU1NjbzlTczM3MVkyTzFYUEN2cGtUbzZTUHg0OWU1Z0xUckMya0pPTjZXV1VxZjB0U0w1TEpiSzJpSEtkOXFEZw?oc=5"
-      },
-      {
-        "title": "Drony zatrzymały pracę lotnisk w Danii. Policja mówi o szczegółach incydentów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemI2eDdRUy1pUnNLd1dhLWZMbVR3NEtMc2tTZEJuQWxFalp3VFFsODl2Q3F6WmtWRmZULTk4OVBGQW1FSEpURm94Qm5Kd3p1QmpQTk1QZzdWVHdZZGYydHo0S1JJUmIyQUF6ZFREdDZJd3lwUG5XOWFfOVNyUVBzMlRnZUlma09DUC1ZM3JsclpxWTNDRkgyVWktMW11LXJnS09Ndkp3LVU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-25 14:29:04",
     "weather": {
       "Warsaw": "",
@@ -2643,6 +2590,59 @@
       {
         "title": "Drony nad bazą sił powietrznych w Norwegii - businessinsider.com.pl",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0I1Z2dBVF9LVlRWenpmR3pFN0g1Y2JMc1ZhVHNFOXhhcGthM1hZQjVjRXdPNWQ2VzRKVlBrN1NXZjliZXhBaXNVVjU3UVl6V3hkemZvM2xGR2VCRk9udUVuUm0yaFEtYmZQQ1RNQnFaYVZ6Y3JFaVhxRFZoV2dMQ1ZNeFNTNDdvMVJNQjhrcW9QRTBTVDA4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-27 17:11:52",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 398411,
+      "DOGECOIN": 0.832592,
+      "ETHEREUM": 14606.92,
+      "LITECOIN": 381.39,
+      "RIPPLE": 10.13
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "Nowe informacje w sprawie rosyjskich dronów w Polsce. Zełenski podał szokujące dane - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0pMTlgyYmQ2R1VUWkFxRS1GRk1ndG02d2llSG05ZjRNQmJWUkpTS3NwaURDYi1kakJQeHJxcjlTYS1EMm1paU5tOE43amFYcnRQMk1qc3lXdk8wNGZ4MGVwMnlIZnpzUTRXNTdxdlA4WjhnQmFTcUFSNE8tVU02OFZsaXpuYzdvYi14S0F1QlJGX2VGVklTQUt3Mk0yamdIX0k1cTZ6b0NvTGdRNTNiX0xvZll6SHhRYXZpblZ0bllqaG1mcFhCbWV0U2p1VkU?oc=5"
+      },
+      {
+        "title": "Bartosz Kurek zdruzgotany po porażce z Włochami. Ujawnił, dlaczego nie zagrał w półfinale - Sport Interia",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmx2am9kcXJRVnR1ZWsybUJMaEVuQWplUmJEa09uQUp2aHlsdDZuWDJ0QWljRDlDWmVMU1NRU2NObE1DN2szTzBPWWoxb3NjRzI2V3RWSWVWRHpFWGdkRkhwd0J2TmVqV0stOXJtZHY2clVma2JISVk3QkV6bzRSVGxLYjlHT0hLb0tDdTdRakpEd1BiSGpKOGY1OXp0NUc4V1FkQ0ZaZllYWXNMRi1JUWI5S1NnQ2ljOFhrb0REZlZiYndyZkVkX3RNRTVlRjlYZWc?oc=5"
+      },
+      {
+        "title": "Drony nad bazą wojskową w Danii. Pojawiły się w nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHAxNmVvcnFSTWltcnFrZk9MYUctQWtTc201eVRmZGtNYm9GWjZlQkg0d2dJUzg4cVI2NUJoNU85US1hcFA3Rno0RldDeGZVdDYxMFNaTEVVNktWQTZGZngxTlIweUVVRmhueUViaFlKNFk4aTljaDRmVXEtRld1R25NR2I0ek5lcUFFMEhfMDFfRndyVll4UjVIWU1aSW5FXzd1d0hsVURrTjd4ZjM4NTVpSUo?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia wbił szpilę Rafałowi Trzaskowskiemu. Odpowiedział na słowa o CPK - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYlNRWHo2eEEwNllETVhvX1ByUEpGYUhlaG5NcjB3em5acEcxTERXSk1nazN4Y08xRXJfdWhxS1F5ZVJKdjBsRVlvZUJJMTJwV1ZqZjBTckhvWjY5cU0tZUNRWndEVmRDcHhEcmRzN2s3RUxGMkJnVDZmMTRQeEp3NXlCa0cxaXR3Z1dEMkJmTm5KUTdkS1pTNG9ZN1ZIS3Y1aTY3RTl4MmlUNXBnV045TFBvVGZBdTJJYjRQQ3dJNks5STN6VHhoRU9mcE5aeERIbzhpcXU1SHRydw?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Unia Europejska chce restrykcji dla rosyjskich dyplomatów. Jest propozycja - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX29yRDBEVzFNVDFxeXN2SU1qTkJMNThVNEY5RGNUV0lDY1huQ3BDSkI4STVrcDhmdEgwTlNkOUU1Z3lwS3l5dTRnQkhKYVVyTjc3ZEh2Tl9NaTU0d3pqZ3Y4eVpRV1ozVnkydnpnOHpqWDRBUFp3WXFENGtIeDBqcWgyRTlycTZwWkdfZWZ2dmV3NGlHeFVVSzZPVEZLWjlpelk1S0dBSnp2NGI4Vi1BREdHYnZxMWJNdmdHN2FNbzUwWG11WWZ3WUVlM0ZTWGduSUxNUjdB?oc=5"
       }
     ]
   }
