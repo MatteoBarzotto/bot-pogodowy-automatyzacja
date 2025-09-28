@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-26 12:14:09",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 399255,
-      "DOGECOIN": 0.818719,
-      "ETHEREUM": 14226.78,
-      "LITECOIN": 371.33,
-      "RIPPLE": 9.98
-    },
-    "indices": {
-      "^WIG20": 2807.02,
-      "^WIG30": 3635.37,
-      "^WIG": 3635.37,
-      "^NCINDEX": 282.35
-    },
-    "news": [
-      {
-        "title": "Premier uspokaja w sprawie składki zdrowotnej. Jasna deklaracja rządu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1d1bFByVGplYThHRTVvUVJOZ3IycVVVWVNEVkdEeVdVUW5EMnd1dm5pNmVJcTlFcWpQTmhsc3ZXeHVOZVlXanBDZjZhX1lNdEMyb3R1S3Nib2V3VnRnN29yRGhPQ3VQVi1Fdkdkc1lNb0FTZ3FZYnlHVEZlUGFiWEdKa2JOVm9qbVF2YnFYMGFsS256WEdTMGg0SjZ6RnFYaXFvWnF4RUhGM19MOEpUcE9BTnMteDg2VExyM2ZBZHk5eTBsRXc?oc=5"
-      },
-      {
-        "title": "Tajemnicze drony nad Szwecją. Policja informuje o nocnej akcji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNk1Bbll3dHdJWFFWTGRPOWdUQkZzYnE1b05GOVpsN0Ffb25admNRcllwRGVmLThYQUdyUms5SF9wSUJ6TFJKaWlrRXBCbW1NbzU4dlZHNUFXc1pTSUdna3JpY3kzQmV3X3lHaVZzMGhVaW5zWVprWTVDTGFyam5DV0ZPbWo5ekRleHRqV0VmY1FCc1h3b0JoOHVTVzJob3BVMmtsSw?oc=5"
-      },
-      {
-        "title": "Doprowadzenie Zbigniewa Ziobry na komisję śledczą. Jest reakcja policji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVG02OTFQbFNscEh2MXRqTVpRZVY5cm5lMnpUMHE1Sjc1VTQyX1ludTBRdVhMQUFVNmdBNy04dW40QWFuWHhHU0xJZV9ERnl1R1RaczFiWXZIdEtfWjcxTEYtM2pLa3RZTXJIemhBdEpjdHBkSkdBNmFfWTV2MldSVjcyZXc2blA2ME5sRzZWdXVyZzktX0FmUnN4d2tNb1FlYi1FX2YwQWF3RFlYSXRta2x1aw?oc=5"
-      },
-      {
-        "title": "Andrzej Duda premierem? W PiS niechętni. \"To pan z Pałacu\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWV0QWJZZ3RURHY3SU9NTk1HRFlyMG5VanJKUkJRTzBhQWtvMVVJLVcyaGI5RTVoLTVpZGp2UGpOcnRlMFlTMnhQUWRyRGwyd3Y1b1ZRVk14UlJUMHBWdzhDVlREU0hvOWFha3lmRUY3NzlaZ0kwX052MzQ1NDJabEw1MnBqUHkwSFZGcnBn?oc=5"
-      },
-      {
-        "title": "Flotylla płynie do Gazy. Kolejny ruch Rzymu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTlJSVpuUXRyYlhta1pGX2ZSczVxTnRubkRVRHViLVlKaHNjY2V0aUY1OEx5QXFIbjdVb3ZVbURhMHd1WXl4Tmt6SW1qcVBXN1F6RnJNQjA0V3JLVTJoaFRpTEFvaXVLNTRoLUFuN2t4NVhSeGN3RU5ydy13MWpaeExYa01vLUFwSzZKVXBfNUo2bFIzcTRlaVlrX3lIZUNBc24tTU1wMThhNHR3WEc4WjVR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-26 13:11:18",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Poszli na grzyby, ale zapomnieli, czego nie wolno. Dostali 500 zł mandatu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRl9nNWVTdkRWSmZrQm9KTUFxU09YTlY4NUxPZEZFd3dSeDdrVm9TTXZBQUMyS3hVTXNMUzdYU2h6aWx5YWM3THJ3SUdLTFRBcmhDbnpKa1pBcElGZFNPOGhBNXhnd2lMazZIeklIaEwwaGdDZkpBckJkbE9lRURTbXVTS0x3NDFSUHhUNC1zU29KMUFOODFmQy1oLUt4cDlXUUF2ZjN6a3R1bXcyam1BTlZ4NA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-28 17:11:43",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +15°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 400414,
+      "DOGECOIN": 0.836854,
+      "ETHEREUM": 14663.2,
+      "LITECOIN": 380.05,
+      "RIPPLE": 10.2
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "Nocny nalot rosyjskich dronów na Ukrainę. Wołodymyr Zełenski zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdTaDNNTk5ZN25qNE9UWnF3SDBtTE12RXJtUjRmN21OMkZaQ1BmWlFlazllbEs3ZHNFMWdieUJTQzRVT1V0UmM0a2daU1BVTkxLVzBPb3JtNkdzbHNnQlpvdUdmTEJlRHRyUnJrMEd6TXh1X2tyWVhpZHcyU0luMl83OUtGQjI0SzRuWHlsalEwSXhRZEZOTzFPcGMxaTRva01uUmcta0NXNlkyZDdyXzdB?oc=5"
+      },
+      {
+        "title": "Łukaszenka ostrzega NATO. \"Natychmiastowa odpowiedź\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWREWjZlMnpHd3ZmYUU2TmVub3k3cDYxODg2MGtxQXZsMmJTU1JoWVU4ZTZvNzZKWkJEQkZYaWxXWm5HTmxoREZnbUtfdEtpWUpZa3JEU09XNzQzS3FTMG9mTU5nejJJQVVoODNTUV9wcnh4TU9mMGVpcWQyMEJFVnJ6aEY3THNqRkRSdGtaWE8zcGh1?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Hołownia prowokuje Tuska. Wrogowie Morawieckiego zwierają szyki. Kaczyński diagnozuje alkoholizm - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjIyeUhhUS1kd1ZPdlN3T293NjRlVXREeFZUc2pmeHNWbUp3WmNTSGFEc3NRcE9SazVOZzhQZ0lIeUZwZlhCc2lNcFlnZHRnLWFNN1pKR1lya2plbVZ6N3VkSXlnU25kZ1lvRHNwVHJzNG95NmJBOHVCZ0Rmd2h4V05KYUI5ZVF2R04zRWkwdnZUQzFWeG5aZktWaVdYYk94QVBtMk1zdUF2Z2RwN1AxdFBvWWNWNmlMNzFYU1pSUGNHamJlenMtVkNzeG00ZFNCT2t5MVBULVU1OUE?oc=5"
+      },
+      {
+        "title": "Drony nad bazą sił powietrznych w Norwegii - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0I1Z2dBVF9LVlRWenpmR3pFN0g1Y2JMc1ZhVHNFOXhhcGthM1hZQjVjRXdPNWQ2VzRKVlBrN1NXZjliZXhBaXNVVjU3UVl6V3hkemZvM2xGR2VCRk9udUVuUm0yaFEtYmZQQ1RNQnFaYVZ6Y3JFaVhxRFZoV2dMQ1ZNeFNTNDdvMVJNQjhrcW9QRTBTVDA4?oc=5"
+      },
+      {
+        "title": "Media dotarły do planu Donalda Trumpa dla Gazy. \"Otwiera drogę\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkNLVU9LUEppN3R2R2dKdzVKNmEzZE84WDM3MGtTUVJNMW1oNG1ZTjhOY1NrbEY2LVE1QTBpWkhRTlVPME1Wa0NLckVOMlJqcUlxV0YxUlZVcWNkUVR3SmU5bVE0N0E1a1FOaldNa2NoZndfdnpialZocm5XYkotMTlkaXZuVkNFQ2hCQzZwcU9HbEFmcnc?oc=5"
       }
     ]
   }
