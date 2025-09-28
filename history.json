@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-26 07:13:30",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6295,
-      "EUR": 4.2619,
-      "GBP": 4.8825,
-      "CHF": 4.5604,
-      "JPY": 0.0244,
-      "AUD": 2.3949,
-      "CAD": 2.6127,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 400239,
-      "DOGECOIN": 0.831437,
-      "ETHEREUM": 14464.83,
-      "LITECOIN": 378.24,
-      "RIPPLE": 10.13
-    },
-    "indices": {
-      "^WIG20": 2797.79,
-      "^WIG30": 3628.46,
-      "^WIG": 3628.46,
-      "^NCINDEX": 282.24
-    },
-    "news": [
-      {
-        "title": "Nawrocki i Sikorski na ONZ. Przydacz: Słyszałem, że mówili coś o Tusku - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0lrR0dFTTh1RGVBcG9oRGdrUXhJa0YyOTNOV04yQkg1WEtJT3VlZ2FLS1QteFlleXZTcmg4enZ1VnBCU1hJVEk5VjM2aHlEVGlFdF9PcFlKVGlGN0ZNTEVLRXk5bkxGaTNyeWlqNENpNTJOY19zaFdWd2JiM2xBOWFOelZvS0FERnhDa0RjbURFZzBrUVN6UUNNTi1CMjN5VnlEb09DV3Nyd9IBpgFBVV95cUxQWk93ZC03RzBMM2RwQzJDalA3MDdEV0p4TTZVQ3pwdnhzYkp6b3hmQlY2T1Q1YTNpb29mNDlBZi12SGdKNmszZFFsMjgteXNGN2tjcTZaRUFZbXIxWDVPNWJRVXN2TDV4S2hhZHRwal8wcmFsUG4yczRFd05ONG9sVFFIc3ZIWHBDM3FJU3hwblg1bk90Wm14M3BUZkxsSDU4bFctQ2Z3?oc=5"
-      },
-      {
-        "title": "Hiszpania i Włochy wysyłają okręty wojenne. Ochronią flotyllę płynącą do Gazy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEptaVZCT2FsWHJyUlR5WjQ4SldPTHJzRWYxc3UzZFZaSDNiaDJIUnQycjNpVXZ3alJ3OHp0aXFtOV9lRHRTcjZUTmtaYTVCU0dsTDJCZjNvM2NrS2xpVy1HeDh1aExDX2dFekJyN0NYcDhyMURyTW1FbVd6YnFfMERsU0VYVnRma1o3SFdFTGp5Y2o2dEJvalNQYURKajhxRHh6ODd6WGJ3S2JjNC04QnZXblNKeEJIX0E?oc=5"
-      },
-      {
-        "title": "\"Byłem w szoku\". Jego syn jako jedyny w klasie chodzi na edukację zdrowotną. Ma apel do rodziców - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORm1QcVNjT0ZsMDZtWEhaRk1OeHIxRUxsMEdESGt2d3QzUGFMcXAwbzUwbXpUcWUwR0oyaENjcHNkUWZkQ1NTODd5VEZPekRIUHRCZEg2aXRkQVpNdG84ZURUb1NVV0tTbXZIYzdsUlAtbXBNckprTkhsVnVkNlBhanUxRGNMXzgyTlVIUkZxVjBJaGcxdjVNOXRCNTByTksyLUVucHpFYnQxRHhsZnlqVXgySTBZR0UyYi1kbnhGUEdRdndIeWRzdF9vcjdraEJ3?oc=5"
-      },
-      {
-        "title": "Pilne spotkanie w Pentagonie. Hegseth wzywa niemal 800 generałów i admirałów - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWRwSzhTSW83T1dPYTVjaklkTHJIdnpLSmFQQWFlcGgydHpyTnJVOXVSM2ktRWFmV0RHTHdVdkZmUG9wZHczSk5GLUxmMVJKRXh6VkZfRWFaT1o1bGMxMEQzM0NYNVJLdFJqb0ZJa0tYcnRwOXNNc3VwdVFyV1NjR1pkZDEzWUEyV2FTSzZGYm1CR09jRU56T3p0QllyMnJpaFNYQ0J3N2VaZDV0cVp2U2ZRSQ?oc=5"
-      },
-      {
-        "title": "Andrzej Duda ma jeszcze szansę odegrać ważną rolę w polityce? Nowy sondaż - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMjBjcmM5WmtHRTFPRXNZVEpxMWV6azMteThDV2VJRm9MUUdTdk00bTV3X3REN1VWVzdheEFmVGVHUk42bUJjSDRxNnNWYUhQWXFsTGRSdnBDcGxQNzBXaVliOFRHbDUtYnZfR05QSk1UaUZrcFJROGl2N0I2dmd0NTI2eUFWS3o3U1VteW5TTkZRX3B3ajNkV3pUMG5QLUJfZFhiQk1zQ1Vrd21BeTFaSVk4S0hJOXJ0SlFsYXRGVnA5YzNQN014dHgwc1pBdnpY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-26 08:20:37",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Koalicja mogła pokazać, że Nawrocki nie ma sprawczości. A pokazała, że nie ma jej Tusk - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlYxckIxTlpUejU3dFVtOXFGSURBY1BaY3ZGY1gteDZtU2JmVkR2dC14bVBxNHItQnpKcU5MQ2VLaE9Ia3UzT0hIZUlORDFWcE1HTllvOUFGcVRPWTBxT0dGVVJrV3R3bFJjdUtFQXNBQzNVOGRVanhieU41Y3dWU1JnbjFFb3JDcHlNeHBHdkJLZWFxejNVRlU5S1NXdDZmcng4MlEta2hXUmUybVJF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-28 12:12:15",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +14°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 399143,
+      "DOGECOIN": 0.824304,
+      "ETHEREUM": 14562.67,
+      "LITECOIN": 376.73,
+      "RIPPLE": 10.11
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "Wielka radość polskich siatkarzy! Mamy medal mistrzostw świata (WIDEO) - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkxZQnloY29OTTB3R3ZBR25HS3JMTzJkY3lTYlFXZjVjajRKODg5cDFyMF9qQmxqbjdSZTVlcWc5YzVadXdnWU5tU1VEX1ZGOUtGTWZJSFQ5Wnp2dWdiSzgxN1RGLWRITVRRQWM1Y1lNSFozT2RtRTg4NFpYdGFBMEhSdXBYY044T2VaSFVwTmJYTnhwdFZpektSNTQwWWVJSlJJOTVxc2puLVBuVldGbzBjbERHc1U?oc=5"
+      },
+      {
+        "title": "Nocny nalot rosyjskich dronów na Ukrainę. Wołodymyr Zełenski zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdTaDNNTk5ZN25qNE9UWnF3SDBtTE12RXJtUjRmN21OMkZaQ1BmWlFlazllbEs3ZHNFMWdieUJTQzRVT1V0UmM0a2daU1BVTkxLVzBPb3JtNkdzbHNnQlpvdUdmTEJlRHRyUnJrMEd6TXh1X2tyWVhpZHcyU0luMl83OUtGQjI0SzRuWHlsalEwSXhRZEZOTzFPcGMxaTRva01uUmcta0NXNlkyZDdyXzdB?oc=5"
+      },
+      {
+        "title": "Spór w programie na żywo. Prowadzący przypomniał przemówienie sprzed 19 lat - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2xBOFlSS3RvRjlVSW5QT1RuNncxZkVZV2xxRWh5OVN1b3h4cEQ0MldaR0c5WWdDQm9JS0FScVNSNlhISEpCMjVDQS1XSExmeE1NWUpmdFE0Y29lOVpnby1kSGxOS0QtclEzRGZENGFfcWNkVlBhRHhfaC1nYVBlMDlvaktyT281TmlmTFQzRXA3NGhyMTJtaWN1REozWlNSMDd4R2VTbDRCMWF1aVFPUHA1Y08?oc=5"
+      },
+      {
+        "title": "Ławrow grzmi po słowach Trumpa. \"Polityczna ślepota\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkp5d1ZTal9jdFBPZHBRdlBFdlhIY2d4VE9ZXzZpNjU0MFByREdIeFhqdnBUeUFWMTlxNEptVlF6MTB4UlBkQzByVENhSzlHVi0wZDhxYWpjX1NzYUpWTUJnTmFUc25wZkg0bHMtODc1Z19YemY1Z096dmp6bEM3cmw0cm90T2loQ0VYdXRycklHOTNyd3lwdmdFZlNZbmNfMTFzZHlSRkhiM1dBM1N6a0F2S0M?oc=5"
+      },
+      {
+        "title": "Premier Węgier ostro odpowiedział prezydentowi Zełenskiemu. \"Ukraina upadłaby\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGp2VkFMRVBBNzhvQ3ZSWjVZSmN3Q3ZNZjdyUmQ4RUxMZG5UU3EtZlBKb3A0V2xkaGNvRlFhaUFVRHQwcXVCRW5aYjExSzNhV2ZBdElPMlE0UGRkQUh2NFJJR3hHNExHY3B0UlZ6SGhwbFEyZS1RTW10U0FQWGpRWDFlR3hvR3gyRFd0SXVRY3NxZkY3N2xpMGttSXVYUmZWaU1qMU4xX3dZbmQwT0dUTmtSQ1UxWmRNQ254bw?oc=5"
       }
     ]
   }
