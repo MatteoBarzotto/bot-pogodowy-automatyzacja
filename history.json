@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25 22:15:25",
-    "weather": {
-      "Warsaw": "Warsaw: +16°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6295,
-      "EUR": 4.2619,
-      "GBP": 4.8825,
-      "CHF": 4.5604,
-      "JPY": 0.0244,
-      "AUD": 2.3949,
-      "CAD": 2.6127,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 400396,
-      "DOGECOIN": 0.827089,
-      "ETHEREUM": 14268.66,
-      "LITECOIN": 376.3,
-      "RIPPLE": 10.12
-    },
-    "indices": {
-      "^WIG20": 2797.79,
-      "^WIG30": 3628.46,
-      "^WIG": 3628.46,
-      "^NCINDEX": 282.24
-    },
-    "news": [
-      {
-        "title": "Rosyjskie myśliwce nad Bałtykiem. NATO poderwało samoloty - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHZkTnBfXzRCTHhLcGY0eGFrbTZBV3l3ajVKQ3N1cHJXdXJmd09Db3d0NG1yVWNWdGlYOHVKQ1dSNzFETDNpd2tFR012XzZQY1VLNXNxWjlma21rQ2Rza1BicXRSal83R1RBR2o4N1FBZHBVX1VfQkotMEtfUWxhWlcwWDVvMEdBU0dNbzVUeGhJd3V0dzR4TDdjaWhtWG1tbjBJZ1VLZjZXdVMyNXc?oc=5"
-      },
-      {
-        "title": "Polacy o edukacji zdrowotnej. Zaskakujące wyniki sondażu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDEzZUM5T1JyYnQ0S0NzSkh6X2RWSEh3N0t4czd6dDZZLWdPT1lyLUQ0d1UyTUhqbFIxSnpXTW5GTm1XbW1DekVERVFmanNDZzFCdG9OMnduaUdFa1lOVnVqZTNFYVpqMnpqcDRfR18weFV4M2pTLW82SkRBQUxsZmFKUHNjYUdneFNJcHpnVmlrQzVycEp2blAyYU1uZERyYjVTWEkzbmE2R0pZTjlOOHAwUXFxV2dTRTBkLQ?oc=5"
-      },
-      {
-        "title": "Pilne spotkanie w Pentagonie. Hegseth wzywa niemal 800 generałów i admirałów - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWRwSzhTSW83T1dPYTVjaklkTHJIdnpLSmFQQWFlcGgydHpyTnJVOXVSM2ktRWFmV0RHTHdVdkZmUG9wZHczSk5GLUxmMVJKRXh6VkZfRWFaT1o1bGMxMEQzM0NYNVJLdFJqb0ZJa0tYcnRwOXNNc3VwdVFyV1NjR1pkZDEzWUEyV2FTSzZGYm1CR09jRU56T3p0QllyMnJpaFNYQ0J3N2VaZDV0cVp2U2ZRSQ?oc=5"
-      },
-      {
-        "title": "\"To będzie wojna\". Rosja odpowiada na zapowiedzi NATO - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc202U3F2ZVpiYVdKM2tzVHdvV2lXMFVoVHhlUElRWklHX1FZWE4wRTF1bUVtVkUtWFBFTWtOSUUyYTB5TzRCTGFOSlQ3cnlWY2JhSGRkcjdpQm1KN1F6TXRqSG03a0lOSm44MDB2dElURTRwZlNoZmotcVJDbUNWem90NjVwSmNacEpGYUw5bjhXanlWNTVwaEFlekhFUk1ib3Zfb2wtLUU3TUgtMDJtVTcxMEg4dzhpUHo3WUVMQnJyT3hVNlZnODBfcHU?oc=5"
-      },
-      {
-        "title": "Trzeci okręt wojenny w drodze do Strefy Gazy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzVpVlZ4S3gxSXZQMTZZeHBlWnJ6YTZaVVVFOW5mS25aaHZNV1ZwOHFNc1VITm9Sb3gtV1lTYUI4dDFwdk01dWV4bGdPNWRFbW9vT0NLM2oyaHRYNnpib25lb0NFMzAwUDYzSGZtTkxyWmplTXpKeTZPVzkwZzYzRkxiZE5uZzdSNXRNSEx2LWw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-25 23:12:16",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "\"Im mniej w mediach, tym łatwiej\". Radosław Sikorski o sporze w sprawie ambasadorów - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmJvcDFCbFhHR29OTzRoQ1ptbS1DdElsejdQNFBpSGlvWGtEZm1vLXo4TDVXLVNuWWFBZTRaaG1ER1JHZmUxNnEwemM5X0xCdGpDbUFPaFNxTW02b0YtSnF3cjZjSFBJY28wVVJsdE1JaW41ZFE3TERIOEZFTDBYLUNMR2JGMDh3bWpKTkhsWGZBaFh1dW1VY1JqZmRZVmQxMDkzMU81TDE0MVlfWDFKWW8xeXJ2d2N1UEo5eHhSQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-28 03:09:21",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 399517,
+      "DOGECOIN": 0.835912,
+      "ETHEREUM": 14628.26,
+      "LITECOIN": 379.93,
+      "RIPPLE": 10.2
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "\"Mam do ciebie żal\". Była posłanka Polski 2050 apeluje do Szymona Hołowni - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTA2VXpDbXRPZXFGOVZqSEQ1UGFTdFB3akRvdmhwd1o0ZTJoS3RYQWdNWlAwdk5TRzQ4X3M4bDFrclRIaXdmY2QzZmxLVGkwaTlvaFVYaGhLNGdQblkxellhbmJ0Q3NZLXBjQ001TWRCSklwdkU5dmlVQ1c0TkxtaWo4ajdjNEo2Y0xYNktsSzFKRHM0TjBoNXY0aW43U19lam1PalJlVVNQREFXVXl5RDQwZmg4REtPMFMtMjdxSUROdnExMFdRSWdPWU9wa2pyQXc?oc=5"
+      },
+      {
+        "title": "Rosja gotowa do negocjacji. Ławrow zabrał głos na forum ONZ - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjl1SEh0WERUeFJ1WU01cU5Tck1vTDBMamNEZnRRSnVuRUlsTU9oT1BLem54X0ZfQVU4NFlOWHhmQVMwZlpoMVduTnBnRlhGZUwwQTU3ekVhbHc0djFjN2dYM1lLcHkxaTA2QVVPX3ZyTDl5SzU1RkpPekw3ZkJXWFB4ZnBZZzlORFIxSGItSDRfbHhLRzE5amQyMThTZEh6SVdIV09xUnZxUU41bGl5RXhicFV5SUJFeGEzcGZn?oc=5"
+      },
+      {
+        "title": "Premier Węgier ostro odpowiedział prezydentowi Zełenskiemu. \"Ukraina upadłaby\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGp2VkFMRVBBNzhvQ3ZSWjVZSmN3Q3ZNZjdyUmQ4RUxMZG5UU3EtZlBKb3A0V2xkaGNvRlFhaUFVRHQwcXVCRW5aYjExSzNhV2ZBdElPMlE0UGRkQUh2NFJJR3hHNExHY3B0UlZ6SGhwbFEyZS1RTW10U0FQWGpRWDFlR3hvR3gyRFd0SXVRY3NxZkY3N2xpMGttSXVYUmZWaU1qMU4xX3dZbmQwT0dUTmtSQ1UxWmRNQ254bw?oc=5"
+      },
+      {
+        "title": "Ważne oświadczenie Szymona Hołowni. „To ten moment, ta chwila” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1FxZ2ZYZUR0aEZhX0l0U1Z0eFg4RTFXWXdPanYxWndIYUVoWnBmeGRDMzN0R1FPU1FYR1hDNmVvcHc1VktLNC1Kam05YWR4SDRVSXVBTkt4U2JmaFhvUVdpcklnRVNiOVJBY1U3QUNyaDRWbFFKemlLTnVSTVdmZE9oaTF6OUVrdXBXWUZFN2tDNnNDazJTSEFkWnRmZw?oc=5"
+      },
+      {
+        "title": "As w rękawie Europy. Tym może zaszachować Putina. \"Skuteczny środek nacisku\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXJaeUVld0J3ell5RHduR3RVeXFudTRkWDhVUllSUWFzSERTODY4cWNSLW4taDNaUmhvZjJwQ0l2SDZKcDB6YngtSTV0V2N5QWRWOWxFdF9OMzRqY1JTZkMwdWZKX0ZRRkx1RHFFbmlwT2FXbWdvOUwtUktXN29rUjNMN1FFejRUUW04czhYeEpIWHlIakE?oc=5"
       }
     ]
   }
