@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-26 05:28:28",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6295,
-      "EUR": 4.2619,
-      "GBP": 4.8825,
-      "CHF": 4.5604,
-      "JPY": 0.0244,
-      "AUD": 2.3949,
-      "CAD": 2.6127,
-      "CNY": 0.5094
-    },
-    "crypto": {
-      "BITCOIN": 400511,
-      "DOGECOIN": 0.82892,
-      "ETHEREUM": 14494.36,
-      "LITECOIN": 377.54,
-      "RIPPLE": 10.09
-    },
-    "indices": {
-      "^WIG20": 2797.79,
-      "^WIG30": 3628.46,
-      "^WIG": 3628.46,
-      "^NCINDEX": 282.24
-    },
-    "news": [
-      {
-        "title": "Hiszpania i Włochy wysyłają okręty wojenne. Ochronią flotyllę płynącą do Gazy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEptaVZCT2FsWHJyUlR5WjQ4SldPTHJzRWYxc3UzZFZaSDNiaDJIUnQycjNpVXZ3alJ3OHp0aXFtOV9lRHRTcjZUTmtaYTVCU0dsTDJCZjNvM2NrS2xpVy1HeDh1aExDX2dFekJyN0NYcDhyMURyTW1FbVd6YnFfMERsU0VYVnRma1o3SFdFTGp5Y2o2dEJvalNQYURKajhxRHh6ODd6WGJ3S2JjNC04QnZXblNKeEJIX0E?oc=5"
-      },
-      {
-        "title": "Pilne spotkanie w Pentagonie. Hegseth wzywa niemal 800 generałów i admirałów - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWRwSzhTSW83T1dPYTVjaklkTHJIdnpLSmFQQWFlcGgydHpyTnJVOXVSM2ktRWFmV0RHTHdVdkZmUG9wZHczSk5GLUxmMVJKRXh6VkZfRWFaT1o1bGMxMEQzM0NYNVJLdFJqb0ZJa0tYcnRwOXNNc3VwdVFyV1NjR1pkZDEzWUEyV2FTSzZGYm1CR09jRU56T3p0QllyMnJpaFNYQ0J3N2VaZDV0cVp2U2ZRSQ?oc=5"
-      },
-      {
-        "title": "NATO dyskutuje o zestrzeliwaniu rosyjskich samolotów. Moskwa reaguje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenFocnc4N2xiOUxTSzZMbVo2QmRsajVaNTlJX1BkQlhOYWdxbEh4TzY3NXQ1MUcxdEFOVldZTWQ0S1RzZGtIaS1wVGpRcTdkME1pOG1xdVZYVGNaU0x6YUpCemo5NWVJVWg1SC1vaUU5MEZwdmxqVkYzZ1R3cnhXVzVuYjB6MkJ3MG9VU0czVGV1Skw1ekY5bFVqWXR2UVpEQWNVOUJMLUVTUFI1?oc=5"
-      },
-      {
-        "title": "Rosyjskie myśliwce zbliżały się do granicy. NATO poderwało samoloty - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjhSMU55WjlTZXh5clVkdVlzU19RNHJPVzdLbGNmaWhVb2FibnVfZ3ctRTZRa00wbHhaRllKcHRQUjhJRzRHN1RQNUpScHp0WXZpenJ5UXQtckRzOHpIQWdJV1ZIT2dwal8zaUZfVVNBVV9RblViNzNiMWdxWGh0MmxiX3JhcWJ3bkdaaW9ia1lNWWJ3cjhmeURmT1g2UXNfcnpNM2J4NmU3NkpZeWc?oc=5"
-      },
-      {
-        "title": "Prohibicja w całej Warszawie. Jest zapowiedź Trzaskowskiego - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVg3T21WUTlJVjc4d2VqTlpaY0U5cWZ4eFVvSVpxM3BrbzRLdmZSeklId3QwcDRfZzBBOTI4V2NoaW1VRjNPUGZFT24zVVktOUlRaEFqM1BEV3VQa3FwZVFDMG5sSnh1b2R3OEl2Z2FEaWVleVc1dEEzZmJpaDNoTjQyQThGY3ItTU14bXNiUVBzVkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-26 06:16:25",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Co z granicami Ukrainy po wojnie? Siergiej Ławrow mówi o „politycznej ślepocie” - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmxMbW4tanV4S2RvVDJYNGtiS3NGMEdxRW1mZVJaMGhfZTFIdjE2UURVRlh2VWZJVVgwT1FJTUc1TjJCVU8xZ3Q4VTF4ZUpPRWU0cFdqeEhDZnNtb2xxaWhEcEpkaEMzcWhFbTA2eWltYkNEei1zZHI3Qm1ZSlYxcDBhS3U4N3FFVk1neXlQTFB5bVVXdzFzeUpZTFVYU3ptQ2haU0Uyaw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-28 10:15:27",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6528,
+      "EUR": 4.2668,
+      "GBP": 4.8819,
+      "CHF": 4.5705,
+      "JPY": 0.024392,
+      "AUD": 2.386,
+      "CAD": 2.6193,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 399392,
+      "DOGECOIN": 0.833554,
+      "ETHEREUM": 14631.31,
+      "LITECOIN": 379.44,
+      "RIPPLE": 10.18
+    },
+    "indices": {
+      "^WIG20": 2832.26,
+      "^WIG30": 3668.63,
+      "^WIG": 3668.63,
+      "^NCINDEX": 283.73
+    },
+    "news": [
+      {
+        "title": "Rosja atakowała Ukrainę. Poderwano polskie i sojusznicze samoloty, zamknięto dwa lotniska - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnBrT2J3UHZmRlpIOWJ4cWoyZEhJU21kRVFzVldRV1R0b0t4aGF4ek9XbW5vOHJQMzkxN0hpSmc4S2gtYVpkWnowUTVINjFJT1pobEcwel9DVHdudE83S2xZUFJUNWlrLURkbGxmRjhzWDlYR3AtX3MyVi1jZ1NvZi03elZ1SW5kSkN1UmtjLXY1QXlrUnh6U1BHbWRQbzV0N0NaSzJxVE9lOW5FTHF2dFJBQQ?oc=5"
+      },
+      {
+        "title": "Ławrow grzmi po słowach Trumpa. \"Polityczna ślepota\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkp5d1ZTal9jdFBPZHBRdlBFdlhIY2d4VE9ZXzZpNjU0MFByREdIeFhqdnBUeUFWMTlxNEptVlF6MTB4UlBkQzByVENhSzlHVi0wZDhxYWpjX1NzYUpWTUJnTmFUc25wZkg0bHMtODc1Z19YemY1Z096dmp6bEM3cmw0cm90T2loQ0VYdXRycklHOTNyd3lwdmdFZlNZbmNfMTFzZHlSRkhiM1dBM1N6a0F2S0M?oc=5"
+      },
+      {
+        "title": "Prorosyjska partia wykluczona z wyborów w Mołdawii. Liderka ugrupowania zapowiada zaskarżenie decyzji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2tuaU4wS1ZJNGNNem9HdUJnNHYweGpuT3ByQlhUN0ZDTTFCazN0M0lhbi00cXJtTXEycUU4eFg4bGhVU3AyamtrRlRxQ09FeklZbW9TREZBbkRuUTlCSHdrS3paMExSdjlWY2p6d1M3RllzZTJ3SkVIRW5LVVFmN3lKUjN1dzZJbF9hbEtZTDdFUzl0VWI0TEw3azJLc29HZjFiLTM3NHBMWUxqX2lBY25pQ0h5SlNKT3FTdjVNbGI5QlRYdC1zaGRKbDhGcGdWMTZMVDNaaw?oc=5"
+      },
+      {
+        "title": "Koalicja mogła pokazać, że Nawrocki nie ma sprawczości. A pokazała, że nie ma jej Tusk - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlYxckIxTlpUejU3dFVtOXFGSURBY1BaY3ZGY1gteDZtU2JmVkR2dC14bVBxNHItQnpKcU5MQ2VLaE9Ia3UzT0hIZUlORDFWcE1HTllvOUFGcVRPWTBxT0dGVVJrV3R3bFJjdUtFQXNBQzNVOGRVanhieU41Y3dWU1JnbjFFb3JDcHlNeHBHdkJLZWFxejNVRlU5S1NXdDZmcng4MlEta2hXUmUybVJF?oc=5"
+      },
+      {
+        "title": "Rosyjskie drony nad Polską. Zełenski ujawnia szokujące informacje - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDUxWkZna0tFRHZEM202a3lzNnNBQ0pBc2xzRHA5djJqUERzVGdHZTFGT0ZMRDdQdVM2MFZ4WFJxdFZUVFZoUklxQXRPMVM1bVd1SnhiRFlfNENsVHY2MUZYaHNMbC1IOU5oNVNFWndWQXBYZTNGNzh0R1M0YXZwajlJMlRMUE9Jb3RpVi1BYW16TnBCUkN1dVBvcDgtV205Z3FDcWRFNG5IbVJMdDI40gGuAUFVX3lxTE9JclJUWDVJVlpaOHlGalpNaS1MWWhNUU9FQ0tBQjVNTGlVOEUzWEZsdmdGbl9QcGNVTFJmeENMdUE1V1gyRjhNenJBbU5Xc1A3S1o1RkxhSGNPZl9lelVGdlkxVXlQbEtYZXpkcGFVZzRrX3NPY3FTcG0tTmxNeTRvTE9mb2JSdTVPVVJ2eGp1Nk4tQzhfUHVqQkZBZ3BBVG1BdVRYMkxwcjZpZ2tydw?oc=5"
       }
     ]
   }
