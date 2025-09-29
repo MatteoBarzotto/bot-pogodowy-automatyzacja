@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 13:09:30",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 398896,
-      "DOGECOIN": 0.839151,
-      "ETHEREUM": 14618.37,
-      "LITECOIN": 380.02,
-      "RIPPLE": 10.17
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Mistrzostwa świata. Wyjaśniona kluczowa kwestia dla reprezentacji Polski siatkarzy. To nie Tomasz Fornal nie zagra - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1BjUkl0SE1tQmZDdm8wcTRZT0xqNG0xZWVSa3Bfb0JidGpSdkVRLVE5dXdXQm15WmUxQlNsell3RVlyV0ZJR0l1R0gtQ0lRemkxS2NtcTdDdDdkUzliVGJzc25Za3VJSnh1N2QwUmZud2c0RS16OVN6bFRsTVhabE5YeXozRzRGYjlycUwzTFl4TEZ6Y2Q4NU9MLWJnS0Nzc1ZpZVNqcllWTlcwdU54eG1WNnZCcmY3WUlfTU5MOE10VlhWMmhjUHBaWGRDX0lzaUVSZF9jSTVmd9IB3wFBVV95cUxQaEJhVWc2ZjhET2VQVk85QTN4a3c3Y0gwR2c2aUhsZ21hUlprbkdwejZzd0p0b2RDM205aVA3cUdmeldncjZMX3NOY0IxSUZyd0VRVUI5MDNfc2dLM3c1UnFJRnl3X28wNWlJVVdnd0o4VEh2aWhYN3RJek1ZbW5OTXVaeFRYc2FIVXNmQUtJcnkxMjVUMmpxeXlNbFhqNEVlNnlJdXJmREljM3Q4aHVUSlNNbmNHYUNKVkFPZHhtanpkZV94a2Vsdy14bEV1SDU1aWlmS0tNQzZ5Ulo3bjEw?oc=5"
-      },
-      {
-        "title": "Karambol na trasie S8. Dwie osoby nie żyją - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUhRWGF6a0dKMDF3eWpDN0VYUnR3dUpIVms3azlRR3dLaEROXzNKTEV4ZC1oWllwUUs4UUV5a2tScDRoUnV4dXlqNDRyZGtlLUhwOG1fVU9tUUR6eGlVRlMzc0F4cHgyaUtUVWJCM1dLLVpCUW5aY25mR2p1NzZ4TGk1Z3RUNmR0SmFoVEIzNHVKaExaU2JNNHZNOEdfNDQwRV9NMWNhcE9wRUYzOXpB?oc=5"
-      },
-      {
-        "title": "Polska - Włochy. Siatkówka. Półfinał MŚ siatkarzy na żywo, transmisja, wynik - Sport Interia",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHVicXByTmt5Q2FPQjNaZU13ZkJ4cXZNWVljd1Z1VWcxNXZXYnhpeFpXd2ZUZ0I1N0J3MGF2Vl9zcjkwU19WWGNsUUlycGFwUWxGTmtNM0lzZ1BiM281ZnNEd3QxZFZZR3R6REtyaFZ6eHZ1eERodC1nRFFPUkcyTnhIU2RBbFVkNUltY3BIUERwcHV2TmdWVUE1RVJPamdtTm9Zdk01WXJHT2pMTXZOWHZyYTV3UUVmcElaaWZaZFpaX0tOUkV3cUluX05obFlsVWNXa055SjE?oc=5"
-      },
-      {
-        "title": "Polacy o zestrzeliwaniu rosyjskich myśliwców przez NATO. Najnowszy sondaż - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnIxeUFqNU9sMXhsM0FJMy1NUEFhVnZyc1E1QmR2SlZnZlFYdlRZcGVXTlV2N3Z6UllyV0xXY243YzI3ZHNEOGRLUGJyUXRDUUE1X0xUaHF2NlJwRzE4NGY2b0w5QWNseVBncmtNLWdNSlYxT1VvLWV0dzlKNTkydWNSTy1SUkVaUGhHclhsejBlMTlFSTgzT2I1aGY1clJHTWVOWFFXS0RGMUlSb0NwNDdqQjM4UExpOG9YcQ?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki o głosowaniu w sprawie CPK: Ważna i odważna decyzja - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWItci0wa3FpdkYzQnlkV2MzN0ZEcWZmLXlaSXFQeFYxOGlNVUVIeUJsWE9NejJMcUs2VnpPckhuWmFNQ3k3SG5Ecmh0aVdXbjkxd2o1ZDdsVlIxTWVYVWVMUngwNmhOakFqX2J4dUdRb1lCLURfT2p4WXlPaXZJMkJleUpUdlR4VVlibFR6RWt2MkRJWGpfNWRn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-27 14:23:46",
     "weather": {
       "Warsaw": "Warsaw: +17°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Iskrzy między Kijowem a Budapesztem. \"Ukraina nie jest niepodległym krajem\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUxPeTVhd2RtVkdoeFU2M3BHSmNUV09yUkdHYWppbzRnV3MxcGg2U1Fnb0RiUGtXSThsb2hQNl93VjhuYjJXWnN1X2V4VjZackZvSldnNm5sZmUxVUV5bnFqRG5abDZBeFBKUkp3blRCcThBRlBsTl9aZ0FmZTUzSDhoTTJxMjZsZEd3QlFST3pyRWN1UnpBVjZKMWlwbnpRbm9pVy1WcG5udktzOFhlbmxHN0VJQXRlTjdXcA?oc=5"
+      },
+      {
+        "title": "Mocne wystąpienie Donalda Tuska. \"Chcę, żeby moi rodacy usłyszeli te słowa\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc3M3b3pSeGx1elNqaFZjY19fVUtOa1dRUDZVcHpEVmJGMkI3WFFMekRtZHE5MXZjbUktSHRfb3JlWHRmbU9pSG84XzVPY1pOZlV0N1RRcmd4Q3VhZUpKbS02bUdkSktXQmNCaXppcFJDMjNfM2NIaVdxRXRWS1JoWmc0VWVBYTVRZ2l5aHlvWUhtU1BKamFWMi1DLTUxMU9sM2xuSVJFTTU2eEllelRfMm5CaWFENnZDMlpaWV9QeHVGeTg4VThVeEIzN2ItVm8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-29 18:13:51",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6411,
+      "EUR": 4.2688,
+      "GBP": 4.892,
+      "CHF": 4.5739,
+      "JPY": 0.024514,
+      "AUD": 2.3921,
+      "CAD": 2.6162,
+      "CNY": 0.5115
+    },
+    "crypto": {
+      "BITCOIN": 415302,
+      "DOGECOIN": 0.853514,
+      "ETHEREUM": 15189.09,
+      "LITECOIN": 388.4,
+      "RIPPLE": 10.54
+    },
+    "indices": {
+      "^WIG20": 2832.01,
+      "^WIG30": 3668.3,
+      "^WIG": 3668.3,
+      "^NCINDEX": 282.94
+    },
+    "news": [
+      {
+        "title": "Donald Tusk o wynikach wyborów w Mołdawii. \"Lekcja dla nas wszystkich\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3pPSHVYUmljNndLNUJDMERZcjRlbE1RUzBVUTJmcmZLNE55V1d1emdrNnVtRDNhVDc3aG05Q0NKaEpfVG81MGlkMUdtTndEXzRNQ09EYjJRRnp1dHB5alFSWlZUcnNfQjcwLVl1SUgtcGZHb0tJbXRCQlc0dXJKQVpCOXp0VURhRTlhemRveHk1MGFjaXdxbk9fYktkVS1FelN6UmtsSnJMajg?oc=5"
+      },
+      {
+        "title": "Zawiadomienie w sprawie Święczkowskiego. Za straszenie sędzi, która pozwoliła zatrzymać Ziobrę - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnpKQ0ljZmswTUtrSlU2X3UwcE8xeEpPeDM1OHhrVE9QMXoxZTVQejdnOHk2UnFwQmsyam1DMUItWi1PWjZvMHkwdk5ocHNyZDJ1UzlkMzdRcXFZUk5RLWNMRVRpNjlzRlE3bXVtM2xBZEpsVVlMZnVYTUczNndnQjEtTTRsbDhaT3NGVV9LNTFYcUZKRG40SlVBNHVhdHZMWGNfbjJTOU1wYnBCOFI4?oc=5"
+      },
+      {
+        "title": "Śnieg spadnie nie tylko w polskich górach. W tych miejscach może zrobić się biało - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGl6akZ6U3cxd1BOR0otVG5yemRyYWo4MXZNQy04VFNWMGFtUm5BV1BzX05IWlRKb2VDXzV6bGVGSEJFbHROYkJjOFp2cHozMXl1dTVvZUFab0NzVEhkSVQ1cmlXc2U5dDFBdVFFX3FtT2Q5ODkya3BMR1JZd1lGUkdWY3pKdjdQMTlnbW5PanljR2t3cThOdnhpOXhnak9Ya1BWclVUd3JnR2VubVNxdDVVZHJPOGlRcEZiM1l6VmlHRndiemhpWXluVWxzS0N3NWoyWHRB?oc=5"
+      },
+      {
+        "title": "Trump daje Ukrainie zielone światło. Chodzi o ataki w głąb Rosji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1djOWMwSlVDdHc3QWxGRDNqd1M3Q25FdzZtY1ZoOF9TT3V2QXNJQldDVlNnNmRxVjdyM1BKeFRBWmZXWG9tQzNxMTNlWnRCcmxEakMwbktFT09yS1d2RnhqeXJ6aklQWktEOV9UQnQxWTA4Vi0zM3hiTF8xNUstWWYzdmpaMDZtVmhEOFpJVTRzTVNDYTAyNndiSko2UGt3UVJpVVZYTDgzbUs4RXlnOHZVYw?oc=5"
       },
       {
         "title": "Mocne wystąpienie Donalda Tuska. \"Chcę, żeby moi rodacy usłyszeli te słowa\" - Onet",
