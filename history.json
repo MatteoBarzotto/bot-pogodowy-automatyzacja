@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 15:17:29",
-    "weather": {
-      "Warsaw": "Warsaw: +17°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 398752,
-      "DOGECOIN": 0.840012,
-      "ETHEREUM": 14654.38,
-      "LITECOIN": 380.53,
-      "RIPPLE": 10.16
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Zakończyła się Rada Krajowa Polski 2050. \"Podjęliśmy istotne decyzje personalne\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUx4cmFSSmtXVld3ek01T24wX0xsTF9jUm45Q1QydnNTLThvTFBIaEZiMEt0Tm5JdzlDOHJ5UXdDYi1yNG9rdnFodUNWTFJiNjlWQ0pIdDFkTjFLSGFVMzN0ZVdIX1ZkbVVIaEw2T1JwcHVuS2k0bnRDUzJ4OVBFZmd2a3FmcVNuS2N4TW0zQjZHQWdrQ0M4Q0RRMzFFdEFYalhPOERiVXY?oc=5"
-      },
-      {
-        "title": "Polska - Włochy. Siatkówka. Półfinał MŚ siatkarzy na żywo, transmisja, wynik - Sport Interia",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNHVicXByTmt5Q2FPQjNaZU13ZkJ4cXZNWVljd1Z1VWcxNXZXYnhpeFpXd2ZUZ0I1N0J3MGF2Vl9zcjkwU19WWGNsUUlycGFwUWxGTmtNM0lzZ1BiM281ZnNEd3QxZFZZR3R6REtyaFZ6eHZ1eERodC1nRFFPUkcyTnhIU2RBbFVkNUltY3BIUERwcHV2TmdWVUE1RVJPamdtTm9Zdk01WXJHT2pMTXZOWHZyYTV3UUVmcElaaWZaZFpaX0tOUkV3cUluX05obFlsVWNXa055SjE?oc=5"
-      },
-      {
-        "title": "Karambol na S8. Dwie osoby nie żyją, duże utrudnienia - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTRQWHh5WFNBci1FMmx1aWs2dU95V3pWUmgwbzhoLU8tU25ZQS16YWo0VzhQWXVtei1tRnRHaTBNNnNfSVQxZ0xxQzdjbVYzYzV5YklpeENqY2tBV0pkbFFCQl9ZeDNtOHl6WkFXdGJxajIxT0VCRHFMTGM3VkhMTUVrLWtTNG5MWkozUlJ3ak5WVmg4cDBaaG9CbVNZS1B5djBrWGlWV1fSAawBQVVfeXFMTTZlSlgyRExUc3gyR3Nhc0xsZ0VNb19LZDFRYzBfLUxSc1loWmp0cjllcEpoZ2NHMm0tWmtMOUtKQlJUWVVxVl9MZmtVVzZxUmN6cjhXby1Qd1JFUmlYTWVtWTRTQ3hfV3dlOXpYazhnR016LTBaVmxUZlRuX3pNc3d0NndmZmo2enplM3BTZWR3M01lMGlnZ3ZwNUlUck9NN25aTnJwYUNhV0NQRA?oc=5"
-      },
-      {
-        "title": "Podróże rosyjskich dyplomatów na celowniku Unii Europejskiej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRm9LVzFuZHBDRFFyVkFTOXI2VVRrVklOMjdkRjZScmVaZ0lPcmlDdHFsSnl3OHpmckVlSmdtNG5wbFBGOU1LR0JTc2ptVmJaaklfV1J4M25NLW1KUlhHV1dXX09IOGctNUhudnRGYkJVNWhyWmxGRV9qNkduMmdvQUc3VENBNzRiZlowYU9wUlBodjR0M19tNm94MGRYZDNJZDFYSTFSV3dJUmZaSXRFVFMxVnRxcFhnQU92b21pLVY?oc=5"
-      },
-      {
-        "title": "Potężna fala chłodu niebawem spłynie na Polskę. W tych dniach zrobi się bardzo zimno - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQTJyalZEWDRKU2dJS2tVaWh3a0hHeTAzNmJRTnlKWWRiNGJlSE1hcEVZTzBIQ1hsNUxjVFdiQ2lld214QTRsWWQyU2FiaXdoVTNrMmYycExBNTYtUThFYkwxTXdIaGlRcjN5RTFVWm1NZVliT242UGNHYmZUY2p0OXNiRTRWSzNPYnJsT25FUzlfRmswSl9fVlNJM3NreGJpWlRNZExrSWtSRWZpQjFQbnQyRHg1QWNVb05pUHpTaFYwdDNhcUJhNzFmT2JhZVlJN0lPejRB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-27 16:10:46",
     "weather": {
       "Warsaw": "Warsaw: +18°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "\"Granica została przekroczona\". Lekarze ze szpitala psychiatrycznego w Tworkach przerywają milczenie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcDJGVkpYQzN4clhIV3ByYURVci1qaWo1YkxkVnZjZFN0ZU1fNEJ4OFpud1BRbU4wSVBBeWEwUldhZ0VtOFpRMnFsV2poaVhDYl90bk91ajBvYl9RTGJtUTQ0UXdkOW9uQkVXeDRRb21PUDV5MjZZc2htakNJMDloMlRaYWw2VktCMjA2dWk4Smx2MURTWGFCdXpaYlRMM2JrZGw1Wm9idlVsbHJGaWFxNnVUOTZYZXZGNW03NjFQZS10N1FzT2VOM29xeGs2emZXVGJ3aHZOZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-29 20:20:04",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6411,
+      "EUR": 4.2688,
+      "GBP": 4.892,
+      "CHF": 4.5739,
+      "JPY": 0.024514,
+      "AUD": 2.3921,
+      "CAD": 2.6162,
+      "CNY": 0.5115
+    },
+    "crypto": {
+      "BITCOIN": 415152,
+      "DOGECOIN": 0.846828,
+      "ETHEREUM": 15110.42,
+      "LITECOIN": 385.38,
+      "RIPPLE": 10.46
+    },
+    "indices": {
+      "^WIG20": 2832.01,
+      "^WIG30": 3668.3,
+      "^WIG": 3668.3,
+      "^NCINDEX": 282.94
+    },
+    "news": [
+      {
+        "title": "Spięcie na przesłuchaniu Zbigniewa Ziobry. Ostra reakcja przewodniczącej [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE0tRU5LT2l2LVFNWlBCbVhOZFFjQU9aZHFYX19LUklpNnV5SlhjV3dZQi11Q0xIYVlDRkNDWGlIV090NkNsaGhnWGFyMTNNUHNTNFZqOWpac0pBWUlMWmhlMHhfblVTa19jaUlKNThETjhpcWdiczVNamFudGFEWHE0S0FpQUJzSnVEaGMta0FIaEdzcDc2TkZvRTdEVFlrZnpnWFllbFhIQ3N1UUZRTDItYktqWmRCb2ZuU0o1bw?oc=5"
+      },
+      {
+        "title": "Proeuropejskie siły wygrywają w Mołdawii. Jest reakcja Donalda Tuska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSldpWEZSWDZ5Z2NwRjJXN2NTSVhJeFd1enRsQ21aVk1mcHdqSk9hWDhFR3JJeTdHSDVGb0ppWU1iX2Q0MkxJX0E1bWhTLWhLVjg5TUxjYkdjMlgyQXhYQ3NZVmY2MngyeUx2c0NnYWpDTVNCZk9Fd2xkb0lvVGRCbWFwWlBHcnZfbEZqZ1dwTkFlZzZlcEFjNHhDMzAwQjNMMXFPSC1HMHlOZ096SUtjR1lwLWo1Uy1QZThfZg?oc=5"
+      },
+      {
+        "title": "Burza po tekście WP. Naczelna Izba Lekarska reaguje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSENrdTFsX3pxZGNqT0xNV1REbzFQUXNWWFhjVDdudllMeDk2TklhcGtJbWV2Vml6OXRHc1Z1S1VCUUszM29CNWw4S3h5V0owbVloVVF5SHBaUFZEV1FsODlPb19SNXlfWjIwdkZiSThpMlFNYzdnYzF6TC1od1FWZmhEWDNaMW1JeGk3UHNXSi1TajNlTHk2Ng?oc=5"
+      },
+      {
+        "title": "Śnieg spadnie nie tylko w polskich górach. W tych miejscach może zrobić się biało - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGl6akZ6U3cxd1BOR0otVG5yemRyYWo4MXZNQy04VFNWMGFtUm5BV1BzX05IWlRKb2VDXzV6bGVGSEJFbHROYkJjOFp2cHozMXl1dTVvZUFab0NzVEhkSVQ1cmlXc2U5dDFBdVFFX3FtT2Q5ODkya3BMR1JZd1lGUkdWY3pKdjdQMTlnbW5PanljR2t3cThOdnhpOXhnak9Ya1BWclVUd3JnR2VubVNxdDVVZHJPOGlRcEZiM1l6VmlHRndiemhpWXluVWxzS0N3NWoyWHRB?oc=5"
+      },
+      {
+        "title": "Przełomowa decyzja Trumpa. \"Prezydent zgodził się na ukraińskie ataki w głąb Rosji\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMEdIU1FjQVVEZTl6MzctVGNTM3ZxZVFpM0R1UGE2U3g2VjBvR2JCT0xQYjNhNFQ3OXFEa25SeVZ6bEdwQVZmcVUySXN0TDVUcWlkQVdwUUdVV0VJaThiYUV5Z0dsWWEtODR5b3lqbEJ0eWFxb3NQS0tXU1l0eDg0dzQ3TnJKeWRqeGczRHpQWVVNb2N0YVAzOUc4RnBtVHZlTDJZd3V5aHN0Y1RzaWpxZGVqbE42VjVXSWdqanRpUUdxanJhQXZHOHZiSHFVVkRt?oc=5"
       }
     ]
   }
