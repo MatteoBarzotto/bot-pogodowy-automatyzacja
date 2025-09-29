@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 08:17:29",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 399663,
-      "DOGECOIN": 0.846919,
-      "ETHEREUM": 14642.09,
-      "LITECOIN": 378.45,
-      "RIPPLE": 10.17
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "O której Polacy grają z Włochami półfinał MŚ siatkarzy? Gdzie oglądać? [TRANSMISJA NA ŻYWO, TV] - Sport Interia",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWo1aDlTcGdmQ3pHR25qMFlUY2lDRktkbjBYMS1ULXVMU2VkZnMzWU1zTi1KSzI4MkxPZEZsaWJuLW9sVW5hMlk0anVOaGN0Tm9uR2UzQm9DUHNjYW9ycE5NVmtrR2tsWldLYkZkX2R2RmdWbmk0dFFBMGlHQ0tUckptT2tNWWdiejUwWlQxOWpoWWpCQ1pLc3dlYVg2Mkg0TmtxQVQ2YW5IWDYyMkxKTXMwUW1iTFJyeUFhYnltYXRJNF9JN1FnMGNOaENqSTFvOG9uRWFYUWg?oc=5"
-      },
-      {
-        "title": "Czy państwa NATO powinny zestrzeliwać rosyjskie myśliwce? Polacy dali jasną odpowiedź [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVE1bHM1X0dVOUR6NkQxY0htWXhodFdiZmY2bmZtNHY3X29uTUd1UzBRdEEzZGJfdG1CM043UFo4bENMTjY1eVdLalE5TThvWjlxank0dlJyYjhMR1NmdlljQWRIemYwYm1FRFRzUG5LZll2V0RkTWlFbXdYRExwWEhRMkpYYXZ1QkdNQU9WLUwwYVQ5YXlFNEk5a2V3Q244V19Ob2x4d2hHUTJEdHNkWTg2UC1kZWsyXy1iS1hNcG1OTmdqdGZEUWxSRHJmR3Jqd1ZmTXdmcXpxVU1nZTVBWQ?oc=5"
-      },
-      {
-        "title": "Sejm nie odrzucił projektu ws. CPK. Spięcie Donalda Tuska i Szymona Hołowni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFVhR3hNanFDRktMeDNLQkFKX29ITjRMNjdXSWtYZHBmakhpMERTWTItcEQ0OURvMkxJUGEyWG92UE1pYjgzZVhUTG9aRDBOZEhOaVRnWkJqVm9TZlY3MUtkTjdXck95bThTb2VEcnAwT2dZelA0TUJucUFCdmhBaUdRSEZmRjk2WWJ5Y2V2SnJzXzVzX24zamc0cW5CRFFEU0tOTEFySnFaVFplR1h3c2RCVkVLOGsxRGNrbklDSC1mVU5oa2c0ZXM2RQ?oc=5"
-      },
-      {
-        "title": "Ranking zaufania: prezydent Nawrocki z rekordowym wynikiem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEstelI0R2RlLTBSaDJ6aWkwNWgxU0xkaTExTE5GcUt3TWVQZjFSOTBnWXZ5ZFFJTDNOX0FDa0lUSWgtX1VSdUZweG0zaWlyLUFlbW5LTTZ1S3RoZG53YmdQamNBU19PVkhLWTVzazZiY2NULTdrVjNNMVJTSUpwSHZTUEhBYVFGa0Q3Nk02TGRSc3JuUXk0V2o1WlpDTXRsSVE?oc=5"
-      },
-      {
-        "title": "Etos wojownika - oficjalny powód zwołania dowódców armii USA - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd21HLVFlWkcwWGotXzFNdFhBOGlnMFBUSXUxYzFncWdVOWlqQnl2MWRtVWJtUS03a0hVMjgzbUJuWXljRVpPVXFGbkJINjVYS0dPU25SVzZNem84b1pWWUltQlh1aEFYd0dsVEs3bmZleGljU1RoYUU4QlVkaDV1bHdjN3VxNVRvZjRJT2xBd1JPc0wwZWkteVhCbEZfd9IBmgFBVV95cUxPbEdrTVdQZ1JDbDdGeW9wUlYzRGxXaGZHWGYxWndEdGZEYUItZ3pzaVZ3UTRZTHgtSk1tQ2pvTV9BSWYwOVZNTHBhNE1MMU5USkxHaVlqX3N3bjM0NnM5V3FITnVTbFlqTEhvUk43UDlvcVJGenktS0xaZUZWQTJwaVQyczNFeVBaMjZJVFNlQjhob1l6TXFHTkl3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-27 09:10:51",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Trump zgodził się na ukraińskie ataki w głębi Rosji - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVlvZE1pZ3RiQkJQVjEtbHJObkVPZXV2ZUsyTTJVblR4UUFpbF9VMlZmSWtIanRwUUc2Um51ZTR1Y2dhMGZ3VW91NlJXNHpPTlRiZ2tLOUJqbm45WjBVM3Zja0xrX2RUOTlKN2tSbkg4aUwweU9iVGktQTlCQ1ZfaGdtZFdpNXpncEl1dkJPWDYxLXRPUzNVWEVn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-29 13:11:39",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6411,
+      "EUR": 4.2688,
+      "GBP": 4.892,
+      "CHF": 4.5739,
+      "JPY": 0.024514,
+      "AUD": 2.3921,
+      "CAD": 2.6162,
+      "CNY": 0.5115
+    },
+    "crypto": {
+      "BITCOIN": 408177,
+      "DOGECOIN": 0.837666,
+      "ETHEREUM": 14956.5,
+      "LITECOIN": 384.94,
+      "RIPPLE": 10.41
+    },
+    "indices": {
+      "^WIG20": 2832.3,
+      "^WIG30": 3668.03,
+      "^WIG": 3668.03,
+      "^NCINDEX": 281.52
+    },
+    "news": [
+      {
+        "title": "Emocje na początku przesłuchania Zbigniewa Ziobry. \"Do najbliższych też się pan tak odnosi?\" [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXprZWFBOW9IUFR5bTBWN0l0U3dTSDdzcmRGcVgtbkJubmpNVkxqckN3enljazB3Z2g0VHFIUEV3cGdNM2kzQU5vTWZrcGFGYVQ4dm5NTnYxX1JKZWxlcmNISnlhSEsxYTFRc0ItWHN4TjY2WHB0YWhKaHM2eVZlTlRyRE1oZDNvWEYydmRySVdmQXhHU01kNzZLc1kxbVFXV0Rac3VxY2poM0xzeXBTSExvckpCQnhsc2c?oc=5"
+      },
+      {
+        "title": "Donald Trump dał zgodę. Ukraina długo na to czekała - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDc2UU5xQ0w4czFrTkxYTFdEa2VKRGFZQzZLUFdfSndsajBydGF3R1Vfdm93dXk1ZzhLUmJCSUdacmxyTndqa2dteDltRFRCem5sdjFFbmtnb0RWY29nbVJBYW8yQTV4bjhJMVNIeVJXRWpfc2Fwd01rWU0yMU1icXliWENZbmJaQWZpT3pMMHJsMjVTVGF2bmZ5SnM3MU1samdIeHRNMktRU3V3dEpxQUZqWnU?oc=5"
+      },
+      {
+        "title": "Proeuropejskie siły wygrywają w Mołdawii. Jest reakcja Donalda Tuska - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSldpWEZSWDZ5Z2NwRjJXN2NTSVhJeFd1enRsQ21aVk1mcHdqSk9hWDhFR3JJeTdHSDVGb0ppWU1iX2Q0MkxJX0E1bWhTLWhLVjg5TUxjYkdjMlgyQXhYQ3NZVmY2MngyeUx2c0NnYWpDTVNCZk9Fd2xkb0lvVGRCbWFwWlBHcnZfbEZqZ1dwTkFlZzZlcEFjNHhDMzAwQjNMMXFPSC1HMHlOZ096SUtjR1lwLWo1Uy1QZThfZg?oc=5"
+      },
+      {
+        "title": "Hołownia chce odejść z polskiej polityki. Opublikował szczery list. Zdradził, co dalej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE5QczNEVGc1RlhVNjJ3cnhUSVR2Q2NJbjA3NUpHYmgzNWV1dFNtOFJyRDhCN01PWDZIOWFHNG5nRmxQYkozbE4wanVxTUNQYWtZMlk2Z3F3c1JVUEswYmY2X3hRUWQ1UXFiQlRqSEF5X3ljX1VZenI1eFo1TDN0d1NBU2t4YTd5QWlGNm9Ta2pUUnZEb2RaSDVvR3hrU1huMWJRczhEWHNMbVgxOHQtMVZ0MUQ?oc=5"
+      },
+      {
+        "title": "Rosjanie w Pokrowsku. Ukraińcy użyli czołgu Leopard 2 z parunastu metrów - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZS01cHY3MTQ3RWlZOVMxWEkwYVJRSDVvMTFESlh6NW1CeXhfelQ2RTZPU1ZtOEhxR2FmbDJiWG9raS1ZN2lJRzloR3BmUUNJYUJJako0bGhIU2w2ektjZFBSbm5WeGpqNFlJUW4tS3VRUHNGYTE2Z29feXFMQU5FbDZfTkRXVVhCTkt3WmhFTXlZTVhQZmhFdDJrYS04bHFFdHBrVHVEODlJZFZw?oc=5"
       }
     ]
   }
