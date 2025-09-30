@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 21:09:19",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +17°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 399077,
-      "DOGECOIN": 0.836366,
-      "ETHEREUM": 14570.13,
-      "LITECOIN": 381.03,
-      "RIPPLE": 10.18
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Nowe informacje w sprawie rosyjskich dronów. Zełenski podał szokujące dane - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejBmT3dnY0RablBqUTVVRlpzNVlCTVJaV1FOSWpIdzlhckd3LTl1Y1FZSC01MVA1aVRDczdTdnZOMXFfMFVvblpNcTRJWXZ6bFpTczU5Tk5kUGtNVVQwcmYzOTBGSG9SWVZvZzFyWFRud1pkWHJKbEdXOVZkNk13MnBBMnFKQVN0V25OQWJaMTRGbE1Mei0tRnBlT0wxaU41TnltMHM1SmVmVF9rbVFpMDZ3?oc=5"
-      },
-      {
-        "title": "Wiemy, jaka pogoda czeka nas w październiku. Amerykanie pokazali nową prognozę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDd3SHkxSDFQa2NwMlYwR08tc2hkZk9JTWNmN1NPLUhrM25ZdVYzb1UwcFppNnRjeWprYXFHc05xeTdjNlNwdERWQk5mQWdBZzEyZVZNUDFqelNYenFRZHVEMkdxalB1WDJEV05yRU9sWFBYVWhBZXFXV3ljcDJMQzBlSnUtQ25tMlZVYW1fRFlpMG1GT2s5QWtqX0ZMc0ljNDFHUl9oc2FaaFF3MDVhdldhbw?oc=5"
-      },
-      {
-        "title": "Blackout w Moskwie? Zełenski ostrzega Rosję - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ2ZPaXlGTlVYYkZOal9JRktzREZyVEpUZU55cWRVNU41M0ZuTm9tZWY1cjk4Nno3aDhVUHNwNUJaeWFVeVBaMmFFbmUxbGpVUngzU3I3ZHhQT0ZESjN3WVI0Z3BtbXRVNHdRSmFUSzc0UkVCYjBTdUdzaGZrTk1GTGFkZl96Y29QWGV0VS11N0FKVVZQcnFNYnlteUJoLWJ3TG5wOWpSUlA0X0hQdVE?oc=5"
-      },
-      {
-        "title": "Rosja mąci przed wyborami w Mołdawii. Kolejna partia wykluczona - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjRJcHlQSHFGUFNhTHh2SkFnUEFNZmkxT1Vrcnl6QjRIem80ZU5mXzJXZG9LTGZoOW9SY01qVm9IUDZqd2pXbTV4X2xfSkpTTFBzLVVob0YyYWtualR2T2NwRWVzRXZXYUNabTFhYjl4MjRaTGlVUHZxRHNLTHdjRzZ4YmR4a1lFaWxib0k1MlNIbmJfLWMzUU5sY3ExbkpHZDlBTVgtMVBFcHFZVFNz?oc=5"
-      },
-      {
-        "title": "As w rękawie Europy. Tym może zaszachować Putina. \"Skuteczny środek nacisku\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXJaeUVld0J3ell5RHduR3RVeXFudTRkWDhVUllSUWFzSERTODY4cWNSLW4taDNaUmhvZjJwQ0l2SDZKcDB6YngtSTV0V2N5QWRWOWxFdF9OMzRqY1JTZkMwdWZKX0ZRRkx1RHFFbmlwT2FXbWdvOUwtUktXN29rUjNMN1FFejRUUW04czhYeEpIWHlIakE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-27 22:13:16",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Trzaskowski wywiadem udowodnił, że znów by przegrał? \"Nie widzi żadnej swojej winy\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFcyN3YxVWFYbHVpWW8ybGdwZEdfUjQ4MklsYXd2eDhHRTZhN255bTdtdlFucnIwVUNtaXhzbWo5YnRSb3NSekMwczhBdExhSklqUzhNSVNKTlNUYWdTQ2tMR212SGZPQ3M2bTRoSDhTUWNjQW1vU1VkS3NkMjNsT3dFSjBCUmo0V1hSZFdJQndhdlRUSjlkOEJ5a2NIU0RRY1A3Uk1YOURsWHYxdVBtVkpJVjNCWHBTc2syNDRGUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-30 03:03:45",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6411,
+      "EUR": 4.2688,
+      "GBP": 4.892,
+      "CHF": 4.5739,
+      "JPY": 0.024514,
+      "AUD": 2.3921,
+      "CAD": 2.6162,
+      "CNY": 0.5115
+    },
+    "crypto": {
+      "BITCOIN": 416870,
+      "DOGECOIN": 0.849492,
+      "ETHEREUM": 15312.77,
+      "LITECOIN": 388.78,
+      "RIPPLE": 10.48
+    },
+    "indices": {
+      "^WIG20": 2832.01,
+      "^WIG30": 3668.3,
+      "^WIG": 3668.3,
+      "^NCINDEX": 282.94
+    },
+    "news": [
+      {
+        "title": "Spięcie na przesłuchaniu Zbigniewa Ziobry. Ostra reakcja przewodniczącej [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE0tRU5LT2l2LVFNWlBCbVhOZFFjQU9aZHFYX19LUklpNnV5SlhjV3dZQi11Q0xIYVlDRkNDWGlIV090NkNsaGhnWGFyMTNNUHNTNFZqOWpac0pBWUlMWmhlMHhfblVTa19jaUlKNThETjhpcWdiczVNamFudGFEWHE0S0FpQUJzSnVEaGMta0FIaEdzcDc2TkZvRTdEVFlrZnpnWFllbFhIQ3N1UUZRTDItYktqWmRCb2ZuU0o1bw?oc=5"
+      },
+      {
+        "title": "Jak Rosja zareaguje na wyniki wyborów w Mołdawii? Jest pierwszy komentarz - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzdpeWVzMzZxU1dld0VYcFhIQUdvOVR4X2YtU0lVVEE1djZSZHJ3T0lSbk1HX2pHUXo0N1RVSktmbVdDRTBnOERNU2ZtUTF6MVRSSVpqeFFLNGdFa2R1VzBDTy15a1RaWFd5bkxYcHJKZl9naFBfYUNzWlVMemUyTHRlZ1dFZUNIM1pxT18xblhtTzlvLXprVk9FcW8yUVRDZjFyQTdoRTQ1Q0VFeFVmcw?oc=5"
+      },
+      {
+        "title": "\"Historyczny dzień pokoju\". Nowy plan rozwiązania konfliktu w Strefie Gazy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFdJemhLVWtJR0JUT1pqRHNFTktnUTFlQlByNFNCVVNQaFFqN1VEVWdIakJXSE16emRuZEFDaDN1dHZWVkhudGlJVWF1ZGpSMlZkT3pFdk1iZjFXaFZDd1VrZTZlMnE3NnhWd2tqNW4wUWtzcHpyaW1HdHlyQXc3YmRXbVgyaURRclk0YU54SHpSUGVpUGhBNEltN0xUR29XTC01bTBPek9uaXNJSkNqODR3d2xocmtmOEZtSk93?oc=5"
+      },
+      {
+        "title": "Prezydencki projekt zmiany ustawy o obywatelstwie polskim \\ Prawo \\ Inicjatywy ustawodawcze - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYm42d1ViYVVqUGJGYTNMMGUzNWxMalJ5Sk9MQW1QclItYUxpNHNfcXM5MmlfelV2X2dvdlN3eVd6R2hZZDZ6VWJkWWYyMFhHdzFuYXVzb0JUZGZPM0gyTTNGYnh0cmVvLW1Idk9mSEJSM05vVTNQMHJYVjRGNlZHWGJSb3U4QWZBMHNLeEJFWkJ0YjVzMnVLem5YVkRDRFJYUWRvelQ2YS1lQ1N4aG9TRDU3SHVPTVBxUXBMUQ?oc=5"
+      },
+      {
+        "title": "„Traktat z Trianon” dla Ukrainy i węgierskie drony na wojnie - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWJXWFV1Uk5ZVzlaVW9scjEzbU4wVnJfUEVkODJSeTRsY0tZRzFFbmE1aVdFMVhJb1J6d205QjNMNi1aeGpQLWpndDQxY0FocXo2Njd3TnIxMEllNnlJMER2TVA0UnF3N1JpQkNpd2ljc0QwaWtSV2JfSzBaSVpTZXZyN3RjQjl5bmF1WUJjd1BjMWVnaGxOd01iWkJhREJROUxhYkhvbEstTFFzSVk2am9UVTR4anUzN3JfUmRUN0VVQQ?oc=5"
       }
     ]
   }
