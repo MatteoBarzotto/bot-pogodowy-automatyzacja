@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28 01:12:07",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 399710,
-      "DOGECOIN": 0.844544,
-      "ETHEREUM": 14671.63,
-      "LITECOIN": 381.74,
-      "RIPPLE": 10.28
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "\"Mam do ciebie żal\". Była posłanka Polski 2050 apeluje do Szymona Hołowni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTA2VXpDbXRPZXFGOVZqSEQ1UGFTdFB3akRvdmhwd1o0ZTJoS3RYQWdNWlAwdk5TRzQ4X3M4bDFrclRIaXdmY2QzZmxLVGkwaTlvaFVYaGhLNGdQblkxellhbmJ0Q3NZLXBjQ001TWRCSklwdkU5dmlVQ1c0TkxtaWo4ajdjNEo2Y0xYNktsSzFKRHM0TjBoNXY0aW43U19lam1PalJlVVNQREFXVXl5RDQwZmg4REtPMFMtMjdxSUROdnExMFdRSWdPWU9wa2pyQXc?oc=5"
-      },
-      {
-        "title": "Premier Węgier ostro odpowiedział prezydentowi Zełenskiemu. \"Ukraina upadłaby\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGp2VkFMRVBBNzhvQ3ZSWjVZSmN3Q3ZNZjdyUmQ4RUxMZG5UU3EtZlBKb3A0V2xkaGNvRlFhaUFVRHQwcXVCRW5aYjExSzNhV2ZBdElPMlE0UGRkQUh2NFJJR3hHNExHY3B0UlZ6SGhwbFEyZS1RTW10U0FQWGpRWDFlR3hvR3gyRFd0SXVRY3NxZkY3N2xpMGttSXVYUmZWaU1qMU4xX3dZbmQwT0dUTmtSQ1UxWmRNQ254bw?oc=5"
-      },
-      {
-        "title": "Ławrow zabrał głos w ONZ. Tak wyglądała sala obrad - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2xwVktWNWtJWk44NFFCV2FObFBUdGZCWEJCOHZxWmZCa04yWFhVcGthQkl3QkZmaHd6VWlTaFdONjVCU2pURzY4M01NZEwtaTdCUnZfa3NvSk5haGk1X2FsV2lyYmdsTXlkYms2eHR0Q2RCU2prZGtvV0d2eWpXd3o1Y2hiQ1lqcFVYVFBQdTR0ZkdTMWNn?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony nad Polską. Zełenski ujawnia szokujące informacje - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDUxWkZna0tFRHZEM202a3lzNnNBQ0pBc2xzRHA5djJqUERzVGdHZTFGT0ZMRDdQdVM2MFZ4WFJxdFZUVFZoUklxQXRPMVM1bVd1SnhiRFlfNENsVHY2MUZYaHNMbC1IOU5oNVNFWndWQXBYZTNGNzh0R1M0YXZwajlJMlRMUE9Jb3RpVi1BYW16TnBCUkN1dVBvcDgtV205Z3FDcWRFNG5IbVJMdDI40gGuAUFVX3lxTE9JclJUWDVJVlpaOHlGalpNaS1MWWhNUU9FQ0tBQjVNTGlVOEUzWEZsdmdGbl9QcGNVTFJmeENMdUE1V1gyRjhNenJBbU5Xc1A3S1o1RkxhSGNPZl9lelVGdlkxVXlQbEtYZXpkcGFVZzRrX3NPY3FTcG0tTmxNeTRvTE9mb2JSdTVPVVJ2eGp1Nk4tQzhfUHVqQkZBZ3BBVG1BdVRYMkxwcjZpZ2tydw?oc=5"
-      },
-      {
-        "title": "\"Im mniej w mediach, tym łatwiej\". Radosław Sikorski o sporze w sprawie ambasadorów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmJvcDFCbFhHR29OTzRoQ1ptbS1DdElsejdQNFBpSGlvWGtEZm1vLXo4TDVXLVNuWWFBZTRaaG1ER1JHZmUxNnEwemM5X0xCdGpDbUFPaFNxTW02b0YtSnF3cjZjSFBJY28wVVJsdE1JaW41ZFE3TERIOEZFTDBYLUNMR2JGMDh3bWpKTkhsWGZBaFh1dW1VY1JqZmRZVmQxMDkzMU81TDE0MVlfWDFKWW8xeXJ2d2N1UEo5eHhSQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-28 03:09:21",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "„Traktat z Trianon” dla Ukrainy i węgierskie drony na wojnie - Defence24",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWJXWFV1Uk5ZVzlaVW9scjEzbU4wVnJfUEVkODJSeTRsY0tZRzFFbmE1aVdFMVhJb1J6d205QjNMNi1aeGpQLWpndDQxY0FocXo2Njd3TnIxMEllNnlJMER2TVA0UnF3N1JpQkNpd2ljc0QwaWtSV2JfSzBaSVpTZXZyN3RjQjl5bmF1WUJjd1BjMWVnaGxOd01iWkJhREJROUxhYkhvbEstTFFzSVk2am9UVTR4anUzN3JfUmRUN0VVQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-30 07:13:45",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6411,
+      "EUR": 4.2688,
+      "GBP": 4.892,
+      "CHF": 4.5739,
+      "JPY": 0.024514,
+      "AUD": 2.3921,
+      "CAD": 2.6162,
+      "CNY": 0.5115
+    },
+    "crypto": {
+      "BITCOIN": 415297,
+      "DOGECOIN": 0.847023,
+      "ETHEREUM": 15249.2,
+      "LITECOIN": 387.06,
+      "RIPPLE": 10.5
+    },
+    "indices": {
+      "^WIG20": 2832.01,
+      "^WIG30": 3668.3,
+      "^WIG": 3668.3,
+      "^NCINDEX": 282.94
+    },
+    "news": [
+      {
+        "title": "Trump i Hegseth spotkają się z dowódcami. Wojskowi zaniepokojeni nową strategią obronną USA - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEpPYlFodmRCeTJOempVa19ROVhsR2ZMeFRib0VCNWI5RlhubzdRZE5HMFczYzF6S3VtTTAxVC1SaVNqWU5nZkhFLXFDR1ppZWFjdjJWOUNJaXVKNnFZZ3lrbWtxd3hIX0w5VDhteG9LVkt3UkVRR2pqTDZxWmwtb3kzTERDMEhBNzBxQUZZdlV4ZXlua2djQUswUE9ZZUdYcTVDUkRoS2tLQWRucWJvdmMxRWw5ajVyUURkWWhFWWViNm1mSGpzYnVpNlUzbUF4bXdRdQ?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro po przesłuchaniu. \"Bezprawie było górą\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFVBVWc2OTZwV2Y2VVhEOE84Uk1GeHpNUXJBTURFR2FnaWNKSllEUGs4MXh5MzJqTkZWbUlLZkNIdVViRm1rcU9scVZoeWNVcGNrRFRLSmRLM1kwR3ZpUnQxdV9jclduTlowUkJvQWtOcmE5bXFkaVlnUnJ1T18ta2dBbjVtNld0bThjbzNpdUIxSkZfZ3NuZWVaWEZCTUxMcmJVa01IMDhsa0NFSC1Yejh4cXlYaEppREstckhzcXViSW8?oc=5"
+      },
+      {
+        "title": "Jak Rosja zareaguje na wyniki wyborów w Mołdawii? Jest pierwszy komentarz - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzdpeWVzMzZxU1dld0VYcFhIQUdvOVR4X2YtU0lVVEE1djZSZHJ3T0lSbk1HX2pHUXo0N1RVSktmbVdDRTBnOERNU2ZtUTF6MVRSSVpqeFFLNGdFa2R1VzBDTy15a1RaWFd5bkxYcHJKZl9naFBfYUNzWlVMemUyTHRlZ1dFZUNIM1pxT18xblhtTzlvLXprVk9FcW8yUVRDZjFyQTdoRTQ1Q0VFeFVmcw?oc=5"
+      },
+      {
+        "title": "Plan pokojowy dla Strefy Gazy. \"Możemy położyć kres śmierci\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPekJfTnZxa0NjZXlTY3djdUdrWC1nN0pOTWl2UWRRYVhKTTctZWhvc3h6RnZXQ055d2lZZTBUVy1ZR2xBTENicXU5RU8weWVjN3VhUXczUWgzcXVrS25zc1VvNm9rUUZvMWtVX1ExNXVTSVY1ZHVCZ0N5M1VzcUx3cVA5SDRPM3FVbDJUZExSR3lsbkMwbTVhRzRFNmRVRmxB?oc=5"
+      },
+      {
+        "title": "Samolot zawrócony do Warszawy. \"Pierwszy poziom zagrożenia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUU2RmVzNUFGcE9wTXlIdzJOeFpCVEplWUxGTDdIR2l2dDRuUUZWT0FTc1dKUE9nQXFodS1ldnlaczl5UVBPNTRxaGhjd2pFbnFmeWJlRklkUlJIRDQzRUFxNjJyQXZFZ2YzUmlFWEV3MTk4V0NmLVM5VVlGRlpiRVBrZ3hSd3A4WVRXUEYwQ1R3SkhGWXJMNTVIY201MmZuYU1TU1JiMW1MU2dKcUhhRzBVaWRQbnRt?oc=5"
       }
     ]
   }
