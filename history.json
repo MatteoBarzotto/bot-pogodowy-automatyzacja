@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28 10:15:27",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 399392,
-      "DOGECOIN": 0.833554,
-      "ETHEREUM": 14631.31,
-      "LITECOIN": 379.44,
-      "RIPPLE": 10.18
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Rosja atakowała Ukrainę. Poderwano polskie i sojusznicze samoloty, zamknięto dwa lotniska - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnBrT2J3UHZmRlpIOWJ4cWoyZEhJU21kRVFzVldRV1R0b0t4aGF4ek9XbW5vOHJQMzkxN0hpSmc4S2gtYVpkWnowUTVINjFJT1pobEcwel9DVHdudE83S2xZUFJUNWlrLURkbGxmRjhzWDlYR3AtX3MyVi1jZ1NvZi03elZ1SW5kSkN1UmtjLXY1QXlrUnh6U1BHbWRQbzV0N0NaSzJxVE9lOW5FTHF2dFJBQQ?oc=5"
-      },
-      {
-        "title": "Ławrow grzmi po słowach Trumpa. \"Polityczna ślepota\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkp5d1ZTal9jdFBPZHBRdlBFdlhIY2d4VE9ZXzZpNjU0MFByREdIeFhqdnBUeUFWMTlxNEptVlF6MTB4UlBkQzByVENhSzlHVi0wZDhxYWpjX1NzYUpWTUJnTmFUc25wZkg0bHMtODc1Z19YemY1Z096dmp6bEM3cmw0cm90T2loQ0VYdXRycklHOTNyd3lwdmdFZlNZbmNfMTFzZHlSRkhiM1dBM1N6a0F2S0M?oc=5"
-      },
-      {
-        "title": "Prorosyjska partia wykluczona z wyborów w Mołdawii. Liderka ugrupowania zapowiada zaskarżenie decyzji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2tuaU4wS1ZJNGNNem9HdUJnNHYweGpuT3ByQlhUN0ZDTTFCazN0M0lhbi00cXJtTXEycUU4eFg4bGhVU3AyamtrRlRxQ09FeklZbW9TREZBbkRuUTlCSHdrS3paMExSdjlWY2p6d1M3RllzZTJ3SkVIRW5LVVFmN3lKUjN1dzZJbF9hbEtZTDdFUzl0VWI0TEw3azJLc29HZjFiLTM3NHBMWUxqX2lBY25pQ0h5SlNKT3FTdjVNbGI5QlRYdC1zaGRKbDhGcGdWMTZMVDNaaw?oc=5"
-      },
-      {
-        "title": "Koalicja mogła pokazać, że Nawrocki nie ma sprawczości. A pokazała, że nie ma jej Tusk - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlYxckIxTlpUejU3dFVtOXFGSURBY1BaY3ZGY1gteDZtU2JmVkR2dC14bVBxNHItQnpKcU5MQ2VLaE9Ia3UzT0hIZUlORDFWcE1HTllvOUFGcVRPWTBxT0dGVVJrV3R3bFJjdUtFQXNBQzNVOGRVanhieU41Y3dWU1JnbjFFb3JDcHlNeHBHdkJLZWFxejNVRlU5S1NXdDZmcng4MlEta2hXUmUybVJF?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony nad Polską. Zełenski ujawnia szokujące informacje - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDUxWkZna0tFRHZEM202a3lzNnNBQ0pBc2xzRHA5djJqUERzVGdHZTFGT0ZMRDdQdVM2MFZ4WFJxdFZUVFZoUklxQXRPMVM1bVd1SnhiRFlfNENsVHY2MUZYaHNMbC1IOU5oNVNFWndWQXBYZTNGNzh0R1M0YXZwajlJMlRMUE9Jb3RpVi1BYW16TnBCUkN1dVBvcDgtV205Z3FDcWRFNG5IbVJMdDI40gGuAUFVX3lxTE9JclJUWDVJVlpaOHlGalpNaS1MWWhNUU9FQ0tBQjVNTGlVOEUzWEZsdmdGbl9QcGNVTFJmeENMdUE1V1gyRjhNenJBbU5Xc1A3S1o1RkxhSGNPZl9lelVGdlkxVXlQbEtYZXpkcGFVZzRrX3NPY3FTcG0tTmxNeTRvTE9mb2JSdTVPVVJ2eGp1Nk4tQzhfUHVqQkZBZ3BBVG1BdVRYMkxwcjZpZ2tydw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-28 11:11:59",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2643,6 +2590,58 @@
       {
         "title": "\"Rosjanie to lubią\". Była ambasadorka USA mówi wprost - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkcxSWZ1eFRTcmFsdjUxV2Z5UXhMQnJnckZPYmpLSDFoeXBHUm1UQmg0T3ZhWUNnZFRMVXM0VDNqRmdzNzVFUlZYOWlJMUZvWFRmNEhHanZ6bGp6aHlzZ1Uwc0xwLTFsVEtiV0t2OTJSSWpaVWxoSk1wazlPV1FTWWYxYUUzWUdDcEY2YzgxMW4xWGNaMFRyWHFkSnJtWURYTnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-30 14:28:47",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6315,
+      "EUR": 4.2692,
+      "GBP": 4.883,
+      "CHF": 4.5616,
+      "JPY": 0.024562,
+      "AUD": 2.4004,
+      "CAD": 2.6108,
+      "CNY": 0.5101
+    },
+    "crypto": {
+      "BITCOIN": 411215,
+      "DOGECOIN": 0.836957,
+      "ETHEREUM": 15154.15,
+      "LITECOIN": 383.16,
+      "RIPPLE": 10.37
+    },
+    "indices": {
+      "^WIG20": 2816.59,
+      "^WIG30": 3653.89,
+      "^NCINDEX": 282.11
+    },
+    "news": [
+      {
+        "title": "Wraca sprawa eksplozji Nord Stream. Podejrzany został zatrzymany w Polsce - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjVFSExGMXBObG5lMHFNRDY5b2ZwaE8tazhIa3dkV1JHZEJ3YjZKTUptS1hYd3VYQlJpeTlGUXlaOHNOQm9YMFBkTGVxVVNHVmNkUzI2UUxrMHdpX1lnN2Z3bGZ6OUt4eWlqX3RqTXcwMXNQSkh5NUJ4cnhCMTVLRXBLV09pQ3pXaVlLenNiVWdaQndJNHAxWE82S3FncUYxV1NQbk9PZ1RuSmZWcUFXQzJ4NA?oc=5"
+      },
+      {
+        "title": "\"Dzwonili do mnie przedsiębiorcy\". Nawrocki wprost o Ukraińcach w Polsce - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1ZPei1FcndpOGRhZFhxQTZRRXF4Ri0xVGxtUGtoZDdsY0VrRFZuczNDckFxVzlhNkxieUd6X2VQU3hYcFE5WndPUVVnZ010d1Zna3BBRHFSaHVaWmdXVlZRYVBjN01lakhkX2xVb3N1ZzR6cENacUhqMG9TTFgxSjA5aDJmbTRuXzNzd1ZGZEY2dGtyUEh3MmR4b2xhU1Buc0k5RVRtUVlWX0F0dHNhNmREai10TXBXMkhxWUN6bzkzZw?oc=5"
+      },
+      {
+        "title": "\"Rosjanie to lubią\". Była ambasadorka USA mówi wprost - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkcxSWZ1eFRTcmFsdjUxV2Z5UXhMQnJnckZPYmpLSDFoeXBHUm1UQmg0T3ZhWUNnZFRMVXM0VDNqRmdzNzVFUlZYOWlJMUZvWFRmNEhHanZ6bGp6aHlzZ1Uwc0xwLTFsVEtiV0t2OTJSSWpaVWxoSk1wazlPV1FTWWYxYUUzWUdDcEY2YzgxMW4xWGNaMFRyWHFkSnJtWURYTnc?oc=5"
+      },
+      {
+        "title": "Syn Rafała Trzaskowskiego wypisany z edukacji zdrowotnej? Prezydent stolicy odpowiada - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTzlfNXFaUXNSRmVOMDhkRVozSTNwTzM1VUJYcGcwOEF0OWN0MFNFcmVTbWNyVnczTXFLczFGSVJXTy1rMGdzVm1tVWswZ2c5cjZEZXdVY0ZtMzNuOXVEUnBORnhCYTJvcnYzNXZaWFhSQnA4LW1UZDItanpLR2UySGhaT1lCQlI5Q19jTmtpdnIxOU9mNXNkUmtoV19QV2tockNmZ1Y5Z25kTkZZLWZCVVdNWnFGN05oUl83V3JqRDc?oc=5"
+      },
+      {
+        "title": "Sondaż: Jeden zgon i żadnego wesela. Najnowsze badanie poparcia nie ucieszy Donalda Tuska - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZWVwbW45NXB0bGRhd1FIMldjaloySldlYTNjQXozbkpzQ3hNVWJLR0xacFJXWEZWcVlIWUg5ZWJhZ0JoVk5ZT2VHZVI1SnVuQzdzazNRbzFZN19uOVFBMHB6cXNDUVl4cmx1U3dNLXdOUVdBNTV4Z3EzbllLcUQ3bzFQUzJVaFAxQlVyUjZiNGpBbnZCMG5Da09lSWdrdFNqaEcwTHRXZkdqcjljajZWNDZ2dEVCVEwtZGx5b0pCRUw0UF93?oc=5"
       }
     ]
   }
