@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28 22:13:26",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +15°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 402617,
-      "DOGECOIN": 0.845691,
-      "ETHEREUM": 14731.08,
-      "LITECOIN": 386.08,
-      "RIPPLE": 10.31
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Wybory parlamentarne w Mołdawii. \"Fałszywe alarmy bombowe\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQck5HODVFYmE2OXNmcDBvMGE5ZlJNUEhWNmxDZE80SEdDQ2FlTEdqUHk0RXhQWFh6OFVxR0k5eC05bEwzX2o2LWdBZlZkR1o5eTE5cm5mc1daY3RkNjZPdW9tNWRmUldMamZPNG5hMkZ3MkQ3QWtkc1IxdjFEemh6ZzR2cGJ6ekZ5MS1fS2lqVjVBQkhHcTlGbFJGWW0?oc=5"
-      },
-      {
-        "title": "Strzelanina w kościele w USA. Jest reakcja Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmdHbE1obzEzZDFlaXdCeFZHdHBTUnN6X215dlVtaDEwYzE4Z2NVTVJ5Snd1SWRUMHAyWEVWU2ZzZ041Z1B0ZEJScWlBZHhLaVBQdnlzOENMS0JPNHh0Zm1hS29sOUFqVVhXd1pJNzA4RkxQQjd6eFVKVUhnY2piRUZvYWZhWGl2LW5IMnBJQmVhNDdPSWVMUF9ueHFaeDlxR184UnRBSVBRRGc5Vk16SFplWnkyNzllSGdN?oc=5"
-      },
-      {
-        "title": "Rosyjski atak na Kijów uszkodził polską ambasadę. MSZ potwierdza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUhfNTdsdWJweWxlV1ZJQkU1VEJMdjcxUWJna3dtWVlrZ0dRV3lSZXlEVWczQm0wVnRrUjdYcnFtTk12YW92OEdrNko0QzNzYkY4VmZtRzI3dk8zOEdDcFZHM2JDSThpTU5OTng4MEV2U1B4XzR1OTMxU0I0bXFlUmlHNFlsT0laSWF0NVV6N205Z0I1R09HbGFaNHRzM1k5TEhpTDBsRkJ0ZzlkeVJ4VnFiTQ?oc=5"
-      },
-      {
-        "title": "Ukraiński atak na Biełgorod. \"Przerwy w dostawie prądu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmdyOUpxUHpkY0N5aU1BVk9PdFg1XzQwN1VXMWVacV85bVlhdXhkWHZkRlp6dDBiaHhpMkVoMXNjcjFHWkItODVZazZ1ZFNrWHVyZmo0bTAwckJrbGZ5bFVfWDI3aV9aSWVFelNZVWxyRHJaTEpHRXRvV2JTV08zTzhxaG1Bcno4TDdzM2E4U3lFYm93T0NDT2FUNXR1ZmZrTXd4a1BGbllib1FwUkg5NG4xbURndw?oc=5"
-      },
-      {
-        "title": "Łukaszenka odgraża się NATO. „Odpowiedź nadejdzie natychmiast” - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjJnWGtsYnFPdmF5RGtuQmdqQUUxSVFsdk9neS11QWpiZ2U4N0RTTlE2Y0xSZlZvZlJhNnJPNnRkZjBrSk5zc2p4MDlyM3dSdGEzYlM4ampSdjdkZF9pYXoxWF9TMFc0bTItSXhGVlVnUVdjMkRyYXdYMTFvWEJYZjdoeERkUi1aZ2p0T182YUkwWEJSLW9HcllCY1hsdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-28 23:10:44",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Noc długich noży w PiS. Na Dolnym Śląsku polała się polityczna krew - salon24.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUJzMkpIQ2dfUlZyUlZRTkxHQ0s4MWlmT2c4X2hjb2ZudGxEbXk3azhTMVVNNXl4YTY4LXFQOVpWbWZINjI0VkgzQnJJLUp6cm9kNldITzE0UkVmUDhqWkVISmpoemdNSWRDdjZGSmVUSks2V3pRWE83WlAyb290Mmw1ZkpHSGxJZ0pRZExGcEZCRU5DRmRVMDJ2d0l6ZFBzLXNoU3RyX3ltZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-01 03:10:27",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6315,
+      "EUR": 4.2692,
+      "GBP": 4.883,
+      "CHF": 4.5616,
+      "JPY": 0.024562,
+      "AUD": 2.4004,
+      "CAD": 2.6108,
+      "CNY": 0.5101
+    },
+    "crypto": {
+      "BITCOIN": 415577,
+      "DOGECOIN": 0.845248,
+      "ETHEREUM": 15085.3,
+      "LITECOIN": 387.48,
+      "RIPPLE": 10.32
+    },
+    "indices": {
+      "^WIG20": 2827.17,
+      "^WIG30": 3665.35,
+      "^WIG": 3665.35,
+      "^NCINDEX": 283.87
+    },
+    "news": [
+      {
+        "title": "Jest reakcja na potężny pożar. Sztab kryzysowy w Koszalinie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDJ2ZjBGWkExcE9wcVFHc0hCWjFnaU9XcTIyVUJFTHNYVGJPSFk2c2xVajBqVmd6SXdpYkpoZVF1M1lGTkNualVidWZsS0RWb3hSTEtILTNGNFpnWUdSbGJ4SGpRQWcyVkhoMUNvM3c4UDJTQ3cwV1p2d2FzQll4b0syd1hxbVhIemREUklRbUMzUDZjT3BLQ3hoTlBiREdfSFRGVw?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia na komisarza ONZ. Jest decyzja rządu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl3cG5kZk5kcDRlSXZRaVprcDJKWnR4MHljRGRHNkJPejhJLVJmaXNab1Vib1I3TWpCbkRrY2wyTU9hQmczdUJxZEdWdjc5bE96X3J6LTR6UjdtVXRDOVhkSHdabmJxT2dQRVd6REtVNnN6TmVmLXNrdm9JMGl4cUlyRzV6UVhxenh3LUdsbmNPRVBsdFlTNF9kSWpRZFBGYnhZ?oc=5"
+      },
+      {
+        "title": "Klub Polski 2050 podzielony ws. kandydatki na wicepremiera. Zdecydowały dwa głosy - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDZwV2doQmNzcWY0dENkenhPQ3FUWjRJUW1GVm5xOGJ0NklWdG1DajZTYVZsS1ZFcG5qN19RT1FNTDJ5QWdRLXRQUmtfY0RCTTFFZGFmNGg5bWxxSmdMcG1nemhlVDczdlZvOEpycHNKTTZxcFdHVGhzMVVvbUJHSlN1eEJRVE9ITWJjMkJiX3QzdnpBam9McUZxMkxuTHc3dk9VUFgydXhPMU1yeVlpMzlsLXBjWThMN2c?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski o sytuacji w Zaporoskiej Elektrowni Jądrowej. Alarmujące słowa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzBKWERQbzFsd1JkaU83TXI0Nk9xdnJkemlCc1pqbzNDWFp1cUdfYU1naUN4UFBiNzdaN3lnbFJORXhEMDhpenBQWXQ4RXgzSUdzR2ptLXNaTkJOQkJFNWFicGFrSnNiangtRHNYLVd1TmcyMnNHVDJEdF8wSDJ4RkNnQl9VUDNtc3ZWZXJ2Z1ROQS1xM0Y3VUt6Q09uS1J2WHhTMUUxWjl6Q1JEYkFTaDllSFZhRl96cktKdW4yLWJlR1VKSV9tTUhuN0FfRVVWUnBZ?oc=5"
+      },
+      {
+        "title": "Trzęsienie ziemi w PiS na Dolnym Śląsku. Kaczyński zdecydował - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXRjS3RzWEUxNExORVYwUTJYMktrVVBrYlNxbnpaUi1KekpMY3lBSVRmUTM3VUxVZXBMNGF1Wmx4MldsT2VRMXZIUkk5ZmUwLXh0RERpUEhDVmt5dHBNLVVYMXZsN3pLYnhNd0lGR1hITlVaTU0yVDNnVWJVVERGc3NRa1pDTEwyYm5CY0M0bWd3WGhxMHRSeWVGWmpiSXlSdzVCdGhB?oc=5"
       }
     ]
   }
