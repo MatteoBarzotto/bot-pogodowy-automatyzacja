@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29 01:12:14",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +15°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 409088,
-      "DOGECOIN": 0.862856,
-      "ETHEREUM": 15061.62,
-      "LITECOIN": 390.17,
-      "RIPPLE": 10.44
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Wybory w Mołdawii: Po przeliczeniu 90 proc. głosów prowadzi Partia Działania i Solidarności (PAS) - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3dFbFF4OVZyYXVCR2wwNGU5Rk9Ucm5adjh3UWctaEQ5VWlsbm13OFhpS25Pc2JfclRPSmplSjNzQlJkdjBuX1NQOGxkek9yYk5Lb1JmRHZmVkhKajUtNFZXZmJSdTRTMTc3c1d2ai1lX2FMeG5tYzgwaERSX2JWalhwbC1PUjlCZ1ZrRExxMGtraTg?oc=5"
-      },
-      {
-        "title": "Rosyjski atak na Kijów uszkodził polską ambasadę. MSZ potwierdza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUhfNTdsdWJweWxlV1ZJQkU1VEJMdjcxUWJna3dtWVlrZ0dRV3lSZXlEVWczQm0wVnRrUjdYcnFtTk12YW92OEdrNko0QzNzYkY4VmZtRzI3dk8zOEdDcFZHM2JDSThpTU5OTng4MEV2U1B4XzR1OTMxU0I0bXFlUmlHNFlsT0laSWF0NVV6N205Z0I1R09HbGFaNHRzM1k5TEhpTDBsRkJ0ZzlkeVJ4VnFiTQ?oc=5"
-      },
-      {
-        "title": "Strzelanina w kościele w USA. Świątynia stanęła w ogniu. Są ofiary - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkw5WGxwWHZRZFhSZmZWS3VsYkNTVm5XNEdNUnBnaUNVSnlsQno2Z2phdm9hZ3VHMnh0WW5udTE4N0ZLV2s0Q2VhZExoeEJsb3NoMUROeE9Ld09nRTFVZ3ZneEtQcUVGV19aUmhENXpKUndYTzJPY1h0bm5QUjBoUGp6X2dfVlotTnQzLWNxeDhVNVlfR294eWtkNFVCeUFnNWZMYlh3QmFFMEFBSG1XTWd5XzVsRkxkajBxQ1dJaWJ5ZGk5WVE?oc=5"
-      },
-      {
-        "title": "\"Rosja musi się obudzić\". Zdecydowane słowa z Waszyngtonu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUNZZ2pBSFItYnVoZjk0YUZwai1Wck1ESldyMGd3dWFOYTlTbW81c0NDRmtCY05yblZ3b1RBSTZ3SU1wanBMbzFna0h6TFE0b3JnQ0FVYVk5dmx5aWl2U0ZLRF9WMnJMRzdoZEZJZmFhTmJ6dFFrLXVpTVVwVjlDT1UwYlNGcXBUMFZSMVc3VDdJZkZrbTJrblBCM2o2WjA1clBPQWlYbDk4MVc3dkVERg?oc=5"
-      },
-      {
-        "title": "Łukaszenka odgraża się NATO. „Odpowiedź nadejdzie natychmiast” - TVP Info",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjJnWGtsYnFPdmF5RGtuQmdqQUUxSVFsdk9neS11QWpiZ2U4N0RTTlE2Y0xSZlZvZlJhNnJPNnRkZjBrSk5zc2p4MDlyM3dSdGEzYlM4ampSdjdkZF9pYXoxWF9TMFc0bTItSXhGVlVnUVdjMkRyYXdYMTFvWEJYZjdoeERkUi1aZ2p0T182YUkwWEJSLW9HcllCY1hsdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-29 03:04:35",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Wołodymyr Zełenski o sytuacji w Zaporoskiej Elektrowni Jądrowej. Alarmujące słowa - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzBKWERQbzFsd1JkaU83TXI0Nk9xdnJkemlCc1pqbzNDWFp1cUdfYU1naUN4UFBiNzdaN3lnbFJORXhEMDhpenBQWXQ4RXgzSUdzR2ptLXNaTkJOQkJFNWFicGFrSnNiangtRHNYLVd1TmcyMnNHVDJEdF8wSDJ4RkNnQl9VUDNtc3ZWZXJ2Z1ROQS1xM0Y3VUt6Q09uS1J2WHhTMUUxWjl6Q1JEYkFTaDllSFZhRl96cktKdW4yLWJlR1VKSV9tTUhuN0FfRVVWUnBZ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-01 07:13:48",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6315,
+      "EUR": 4.2692,
+      "GBP": 4.883,
+      "CHF": 4.5616,
+      "JPY": 0.024562,
+      "AUD": 2.4004,
+      "CAD": 2.6108,
+      "CNY": 0.5101
+    },
+    "crypto": {
+      "BITCOIN": 416114,
+      "DOGECOIN": 0.847684,
+      "ETHEREUM": 15071.73,
+      "LITECOIN": 386.01,
+      "RIPPLE": 10.33
+    },
+    "indices": {
+      "^WIG20": 2827.17,
+      "^WIG30": 3665.35,
+      "^WIG": 3665.35,
+      "^NCINDEX": 283.87
+    },
+    "news": [
+      {
+        "title": "Rewolucja w polskich sklepach. Rusza system kaucyjny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVc2TEJMN29mZ3k2NDBNcnFxdlk3UW4yb0ZXM2tDNHRqbXMyaXRpREhFNnpWWXF1aVlYV002aG9vNTR0T3JMbjFFS0U2UnNYN25TenhJOWJLNzF1NFloNmZlTG9SWmNkLVplTE5NN3dpQXFQZVJCYXFKMmpONGZESVkyWUE1Rnh0MHVVXzVFZGFCQlJoeWJDMzQteGlRSjU1VS1QLVRVelhQWkJuMXc?oc=5"
+      },
+      {
+        "title": "Rząd USA zamknięty. Kongres nie osiągnął porozumienia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObTdOZW1RMUVPZFNOTVRyOGlNZ1hzdnVCNWZ2SjRyZEJSNGtGMmYtNGdRVzhIZ3NYV1Exa2Y0UmVHeTFucHNhWkJ2VUpCUTdEcThNcU9va2ZiWTg3ci1takVDdWs2ejR2U096cWUxYU8wd0F2b1VVT0VYdEJNbEVZdG1nX1NLaHdHNWZ5NXNoMTVTaWs2dUdRU0IzRVpwd2tHRlNob2R0MjB6bUE?oc=5"
+      },
+      {
+        "title": "Pożar w bloku w Koszalinie. Dziewięć osób poszkodowanych - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0VIdHhIV2IxOWV5ZzdDM1pKMkVURkd2X193OGhnZXA0SnRHUVlGVkpJTzVQNXVUbnFFV0NOMnJUcDJxeHhZb3IxNGd1Si1aLW5rSHV3VFJmTWk2dWhRSEZ4cjdNVjhNQ3Jmb1g3emVDYXFLM2ZQWVRIWkc4WXo2ak1nU3ljQXRqQ1BaWHZjTVJsSGJ6RDdXWGIwdElwb0U0NEFJNENn?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia stara się o posadę w ONZ. Imponujące zarobki i nie tylko - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzJIelBWMF96OU54Y2hnVnFTMEdrSlg1OW9RRjhyelFxeFFMSnV5Q0VYclhyLXYxNXVmendHRUY2LU5JM1ZrTTAxbnRrQ2V1NnBaM1RtaExkYkJiMm13NHZ2SUQzTlprZmhRX05Da3pOYXpSdTEtSHEtT3gzTEdKdTktTGlBUFYzLU9fWTAzZERoVmJfRjBranhVVU1nMkUzRzgzeDVWUHVKR1QtdUt1eHUyXzE0aVVSd2FqdFJ2dHhfLW5IWEE?oc=5"
+      },
+      {
+        "title": "Klub Polski 2050 podzielony ws. kandydatki na wicepremiera. Zdecydowały dwa głosy - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDZwV2doQmNzcWY0dENkenhPQ3FUWjRJUW1GVm5xOGJ0NklWdG1DajZTYVZsS1ZFcG5qN19RT1FNTDJ5QWdRLXRQUmtfY0RCTTFFZGFmNGg5bWxxSmdMcG1nemhlVDczdlZvOEpycHNKTTZxcFdHVGhzMVVvbUJHSlN1eEJRVE9ITWJjMkJiX3QzdnpBam9McUZxMkxuTHc3dk9VUFgydXhPMU1yeVlpMzlsLXBjWThMN2c?oc=5"
       }
     ]
   }
