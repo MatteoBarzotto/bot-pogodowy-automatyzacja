@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29 08:21:57",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6528,
-      "EUR": 4.2668,
-      "GBP": 4.8819,
-      "CHF": 4.5705,
-      "JPY": 0.024392,
-      "AUD": 2.386,
-      "CAD": 2.6193,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 406545,
-      "DOGECOIN": 0.847813,
-      "ETHEREUM": 14937.54,
-      "LITECOIN": 385.41,
-      "RIPPLE": 10.38
-    },
-    "indices": {
-      "^WIG20": 2832.26,
-      "^WIG30": 3668.63,
-      "^WIG": 3668.63,
-      "^NCINDEX": 283.73
-    },
-    "news": [
-      {
-        "title": "Przesłuchanie Zbigniewa Ziobry. \"Nie doszło do zatrzymania w domu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDBvbXdSeFgyWjhhLUdEdFBWR2tJQzh1MzhfU19qQ1lJTXpIZVpwbS1ZT192S0xuNmJnTkluZHM0a2NnY2tPNDhEU0dNNG1ubzRQZjhOdFdzNUpsTUI1WHpFWUZLdVJlSmJIUE83dXNwbl9SdVpzWTA1YWxRU3dIX2xtT3FCanhBWEJaR25ZTngwYlZvYzMtS3Q0N2xLc3V3M0hWUA?oc=5"
-      },
-      {
-        "title": "Mołdawia wybrała. Przeliczono niemal wszystkie głosy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQktOOVFCWDVvMWowZTJ2cmIzRW9HVmRzZXFuU01HNVFYMHRpSVBlQVhxSHhDNTg2dUlpUExPS1c3Yzk0VGhpeUc1LU1pV0QtY0ppVlNOV1hNQld5Q0R1ZTItemYzdFZ5bDJEc3E0NGh0MTE2MWRRS2FuZ3dnMmVKQnNJX1AzczByLUxseV9VRGt3REZfejVqMmpBMm0xU2tzTDczdmxJeHJkTUNLeVl5VG5pWUpJT25URzZrTnZOdU01dUZvTmc?oc=5"
-      },
-      {
-        "title": "Co skłoni Putina do zakończenia wojny? Sikorski kreśli scenariusz - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDUtWTU4R2psang4dEhwVEszWVZIMUR1a0MwOEhRSFZrUDlwelZsQ2NYMlMya0JIY1ktSHVPV3kyX1BEbU81bHdiUkxLSUNRQktZclpQY0U5R0RTLTNhVE1XWFFXNHZCMUFhaUtNSUVPRllHc2xJSWxwRGFKdXlwb2gxTFZPU2p3RW81TXF3Vm1HMm9ZQ3dHcW5IU2NwMksyWjhtWVRGYjg1ZWg0eWF5VG1n?oc=5"
-      },
-      {
-        "title": "\"Właściwa reakcja\" i \"dobra nauczka\". Były szef BBN o akcji polskiej armii - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHFGaTg1aDRtaXZtdzJIcGswX1ViSUZiSDMxWWFSRkdQbEtfaEVmLS1qdGI5NmRDcGRQd0lXMk0zRjdwOWhsT0lwNnRXZndKU3lLVkhiZWRXWEp0c25tbzRJQll3RElxVkJIZUdQVnR6UlA3S3RlY015NUFmcG9rZVIwOHJWOUpKQk1ZZDUzVDBPb19fZEotVk00M3Ixb2QwdkN2cndycjdpbk9tTmltRzE0UTl1bG4w?oc=5"
-      },
-      {
-        "title": "\"Ze statkiem dzieje się coś niepokojącego\". Tajemnica śmierci kapitanów, część 1: afrykańska gorączka - Szczecin Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzVjR0tMN0Y0VjJ2aG5UUldydlhPYlZSNGxpS1N0MXZBYzVtZDJFUUw1MXFtNjFqV3djOTg4dzZISVBZSXk3SnZRcTdLQWhxODFWdHdVUHlkNFB5T2gtM0l2emp0cTFmSWI2Y1h2UGR6a3VNcmNrdTdhd29ITlFiWTh2TVlhenJETVEwUVR3V3I?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-29 09:14:30",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Rząd w USA zamknięty. Ambasada w Polsce tłumaczy, co z wizami - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDA3UjB1MTBOakJjRk9GdlJSeTNMRS1OTGNzMG02V3pQTFFzR0tjeG4yMWk3TUpDYldPZ2I0bjRhSzkzY2xxMWpWZU9maF9MbENxQjgwUW9CdHo0aXcwYVZYTnBVcm1faXN2aENjcUFaYUdhUlJxM1gzb1pQNUVaQWhhOU9oSlRkeHprbml0ZzQ1TjNRdDRnYWc0clJ5cFJDQTl1clZWRUtqRXk5QjE4MS1ETVJuVFB4WEh6VVhVQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-01 13:12:04",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6245,
+      "EUR": 4.2586,
+      "GBP": 4.8812,
+      "CHF": 4.5542,
+      "JPY": 0.02463,
+      "AUD": 2.3974,
+      "CAD": 2.6041,
+      "CNY": 0.5099
+    },
+    "crypto": {
+      "BITCOIN": 422469,
+      "DOGECOIN": 0.88039,
+      "ETHEREUM": 15588.99,
+      "LITECOIN": 399.27,
+      "RIPPLE": 10.66
+    },
+    "indices": {
+      "^WIG20": 2844.92,
+      "^WIG30": 3686.98,
+      "^WIG": 3686.98,
+      "^NCINDEX": 281.59
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński wyrzucił ich z PiS. Teraz radni zabrali głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWtZU204d1A0YWphelJraG9IQnhncmtaWmxibkktcU9obkxBOTcybDdHR1ZEZXUxMHNoM2xNbzlZRzRoSjI1Z093X0xtNU5pT3dEQVhBYlJIU1pKRnZSOGI2aTBRUE1IR0g2Ui12UVRIVTNscVJUWURCQ1huVzRwN2hLSjJvTzlCYXFDcVNkVUJjdXRGN1ktbDRTX3pTRUlyeEE1SFBzN2xldw?oc=5"
+      },
+      {
+        "title": "Brutalny samosąd we Wrocławiu. Zwabili Ukraińca, ogolili głowę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUU1aREZhSkpPRHZjRi1sV0hjeGVnUTVxRWpxVGdlclFWVm5OUWxkaGMtRkpSMFVHRkFwaHpIQjFwTjREdDJaUzgtc0ExWTVxWGR0UUN0LVJEZEFjZS13azVXaXpNNVZZMHhPRDVaWVBtX2ZhZy1Mb3NuaGxLZzNaRElxcy13Zmhnekd2ZE93bWtxSE84Q0p5SE9nbDAyR1Q1SE1zajlB?oc=5"
+      },
+      {
+        "title": "Ryszard Petru chce przejąć dowodzenie w Polsce 2050. Oto jego majątek - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGpiM3lFeGViWk40eTJGNVZROUlES3hfTGZQT0luT2NnOGR5Ykppd2E5cHRoQ3h4T0FiS1V1ajBrenRRZVB1X1FKYlhCRURac0h1aFkzLXZTRldoXzdFNTloWjlVMGQ3OFliNEgtbDVqeUVHRFZNVUN1MEU2UGkwR0ItdFhKbEE2cDcxQWNhZWN6OTc0SWdYYkRqMXpmYjZ3UXhqLWpYYm9WWlBNcXM0Z212YnlNZ1E5SHNYSUo1UQ?oc=5"
+      },
+      {
+        "title": "\"Pan finansuje tę wojnę\". Orban uderzył w Tuska. Dostał odpowiedź z MSZ - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1RqLXRRWS1DN2hSVTNuYWk3NW5GR2Q4UUtWOE1WMWE1eG1fdGVkMHd1TVpKTF9FaHE5WDFvRW5wbTZ6NmJmNFJoMElwN1hSTG5ZUGp6S1NadW1FdFlBYU02MVY4dndrMDFCUV9vYVRVeTVndjl4VFlhTTJLbjdyYlZROFQ5YlJFdVFRN0ZhSHh4WnhWc3VFSWFoNA?oc=5"
+      },
+      {
+        "title": "Eksplozje, strzały, pożar i ciało na ulicy. Północna część Monachium sparaliżowana - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkZBN3RwdmtRSmNqY0VPTmtDNC14QWZXd0xGaVBtUWNfQjZ3WkJKbzY4NHNjTHdCWC1OZmtFeW1ldXZ6TlR0dnAwR1NsWGdkWE1qa3ZLdEpjbHlrQkNScVhSdzNpYTZOajBHb2FzR29LOHc1QzlaWlloVEVPdHhSM2lHQ0pVSHlOS25VQ2l3eGw3Wk9rVkhxR2RHZ0pTZ1BUSVBUUUZjRDBrVVNpdzZTdzJaME13THdvOU10di1EY3U?oc=5"
       }
     ]
   }
