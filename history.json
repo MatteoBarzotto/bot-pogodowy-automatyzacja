@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 12:14:25",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6315,
-      "EUR": 4.2692,
-      "GBP": 4.883,
-      "CHF": 4.5616,
-      "JPY": 0.024562,
-      "AUD": 2.4004,
-      "CAD": 2.6108,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 410599,
-      "DOGECOIN": 0.834661,
-      "ETHEREUM": 15076.26,
-      "LITECOIN": 383.46,
-      "RIPPLE": 10.34
-    },
-    "indices": {
-      "^WIG20": 2814.34,
-      "^WIG30": 3648.39,
-      "^WIG": 3648.39,
-      "^NCINDEX": 282.44
-    },
-    "news": [
-      {
-        "title": "Polityk PiS wezwany do prokuratury. Chodzi o zarzuty w sprawie Pegasusa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkpod2gyV2pUXzZfYUppd3dtcjRFdGhWUDNBWXRmWVZkTkNYQ0ZvZVNGc204Yk83R2ctTGplUEZqdUx6aHdoRUhoQk11WEtYWm5oT1lvMmFZUWU3aW8ydzd2SUpnYnJ6MnBjeVJzc0Q4N2t0WE5GdHdYT0x0eUNHUjBQSzRhTTFiY0xnbmVMQ24zMHJUOG5GeTZaU3h6NDNLdm5wdzdLTjVSMTRKWG5N?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski reaguje na doniesienia, że wypisał syna z zajęć o edukacji zdrowotnej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU1CMFI4QWdGUDBINWxMbkw0RlEtRnk1aGZMUi1COERBS2gydTNYR2x4R3dHNWJsb0ZnbnFFLUYyb2JOcW81WWhiRVMxSGlyLWFibmVBYjIwcUo0aVdfMGtwVXZIdmlwQU5jbWdZQW9ick1RUkpFSFhfUl80YmstYWJjY2steURMRzdHOTRYRW1CUE1ZWERSY2pTTW8zNlJBckw5LU1rSEw?oc=5"
-      },
-      {
-        "title": "Ograniczenie 800 plus dla Ukraińców. Rządzący otwierają puszkę Pandory [OPINIA] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOFFfUmxtVWk1d2FZbWlEZzJQUXZJNEdtM3VFcFEzRzU2LWx3Vy1hX1h0bGNBcTBzRGhLWGQybmUzb1ZiSE5GZjlnc19pX0RwQ2QyMjdMYlZHcWFBQUVwZE5nTzNlMVluMmt1ZkRtQnBCcFVhbFRicnlRdUZZc3gya1c4OHpoaXQwSUZRUGUyNzFBam9BZVprUzRJd01IcS11RmRZczRGRnpoMFdDbW5xSnREcHV6dXE0MFM0UGIyREp5M2IyTDg2YQ?oc=5"
-      },
-      {
-        "title": "\"Rosjanie to lubią\". Była ambasadorka USA mówi wprost - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkcxSWZ1eFRTcmFsdjUxV2Z5UXhMQnJnckZPYmpLSDFoeXBHUm1UQmg0T3ZhWUNnZFRMVXM0VDNqRmdzNzVFUlZYOWlJMUZvWFRmNEhHanZ6bGp6aHlzZ1Uwc0xwLTFsVEtiV0t2OTJSSWpaVWxoSk1wazlPV1FTWWYxYUUzWUdDcEY2YzgxMW4xWGNaMFRyWHFkSnJtWURYTnc?oc=5"
-      },
-      {
-        "title": "Sędzia Jakub Iwaniec zawieszony przez ministra Żurka. \"To była decyzja konieczna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1RnMTN6aldxMXBKZDVjSG1aenlWM2JyZHJuZFRZbjg0RVRNQ1VMWE5hZXdmaGgzYUNXRlpoZVZrd3hkeEE0dm05d2t3UGZTNW5HdV8yYzJxdW5UVnBrS2N4eVFhbWpzSmM4b0tTUGZEUWd5dml6OThGRkFyV3VIUFZsT3hZZm50Z0h2eDVuM1ZmWUM0RkQw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-30 13:11:59",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Coś dziwnego stało się na granicy z Niemcami. \"Obrońcy uciekli\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFpwWExicFVfR1BzYmVBeVhxNTRQTUZOWUhyS1dxWVBDS0FJZExpekJ2dER3dWJLM3hiYzYxTl9WUlRTc3M2T1l4Z3FaNVdnaWpsUlB1Y2lLdHFiOEtuLVNnd0pWMldHaHFQUGN2M2xhSWlIOHE0VFZKd2plZjdCNHVzaWlrVWEyaGswSlB6Zml2RkZrc19DTVFSSlh0YTNoc2dmaS1rbmczSVdFUWVOdUYwOHhtTmdJaS1XaTBjLVdsbGkySzhwMXp6RWk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-02 17:13:28",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 433590,
+      "DOGECOIN": 0.920093,
+      "ETHEREUM": 15956.2,
+      "LITECOIN": 429.74,
+      "RIPPLE": 10.8
+    },
+    "indices": {
+      "^WIG20": 2861.62,
+      "^WIG30": 3711.33,
+      "^WIG": 3711.33,
+      "^NCINDEX": 286.06
+    },
+    "news": [
+      {
+        "title": "Donald Tusk o rosyjskiej prowokacji koło portu w Szczecinie. \"Otrzymałem informację\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDlsVDdpVkZUTkRCdTdsa1FLMXRLekpDSHJDN0FqOWVGSV9CV1c0NlZxZHBTU2FreXBqNXZ6ZVF1cGJjakNTaFRoendKd1hoT2RpaW9sMVN3LTFDVTFXWVFjeVBKdHBiV1pnSUpQVk9nNzUyWEhXOHNiWlA2MDQ2MmVWTS1HZlBteFpjYTN3SUhKRzlodGhYMGw1R0dKcThSUHFEVXozWnFCSUZlaXRYWWpXTzBPVzQ5dENyVlpXaw?oc=5"
+      },
+      {
+        "title": "Prohibicja w Warszawie. Jest decyzja Trzaskowskiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWo3U05wM0dVYW9JdkYzcUJLcWhPdXNFSzIzNklpMTMyZ2hOUXhmdVY2UXNqS19xRXJpdWtTcUF1VVV5T2dtdUhScVJGdDVqRmFXSHc1ZnBsTEx1T2xTbUJMSFVFSEZYREFzbnBHa3pCS1poTTNJN0ktdUMzX0xvdFRuZnlaRVJVUWZaQkxR?oc=5"
+      },
+      {
+        "title": "Wicepremier stanowczo o wyjazdach w miejsca niebezpieczne. \"Nie mam nikogo na wymianę\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnBERHFlaXBMTmtPaExiNDhvZXhfYjhuVzVBZW85SG5aVnlPQ3dpWGdLZS1vcHBNcENrUUtwMDRDbVJmU1FtNFZRdVZMOGsxZm5SVGJaVHRGdEV5UGdVdzc3QmpUZjFPZWl3UlZKckJUenFZVndDRndWTGtvSkg5Um02MGVxZ2ZyLWw5TUJ0YzU4OXd2MXRlQW9YSk5DLTFMTVR6c3VVTDNJZ1FQRjhrT3hRN3VlR0k?oc=5"
+      },
+      {
+        "title": "Klaudia planowa rozstanie ze znanym TikTokerem. Służby ujawniają szczegóły dramatu w Wolsztynie - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1IxOEpkclY1VXlXRGY4cGNBT2hQT1Z4MEdCVjJDNGphUzhqMXZfTmkzZGVuMmw2QTR4QThKTHByTFYxWngwNmh4S0h2aV9uTGRBQWUwOE9CdTg3cmxoNEI1VGVoV2FoUms2TWluR0NwZkhxVVRocHoybnBsS2JJaEVtUEkwaGFvMTVDSXcxNWZyQWIxTTZhbkdOeHpMTnhWY25UWEF4REV1Y3diN2E4UEdJYUJXVkNfQjRYYWk2Mkk3UQ?oc=5"
+      },
+      {
+        "title": "'Wyborcza' ujawnia: Rosyjski wywiad ukrył materiały wybuchowe na cmentarzu. Podejrzane puszki wjechały do Polski - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0NVQUpwS0J5YzZqb2dQR2hIcHhpV2NSSXROTUUyZElJWVdKeWhZT3hLbWNmUnE0RmdSZVpKM2p3eTJuaUpZc19aZklNQ2xEQVVGSUIta0lRYXZPWnhQem9VankwRzlwRUJZaXZqY0pmWm43OTcwVThnVDQ5Z0o1Q1BMVzhQbWdBWnNZS3BzTlU5a25HVVlLZzJXaWEzN2pLQ1NjemQtRUdsUjVuVFR2OV81TEFDdzFjNThDdV8wcGs?oc=5"
       }
     ]
   }
