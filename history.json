@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 20:18:23",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6315,
-      "EUR": 4.2692,
-      "GBP": 4.883,
-      "CHF": 4.5616,
-      "JPY": 0.024562,
-      "AUD": 2.4004,
-      "CAD": 2.6108,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 412078,
-      "DOGECOIN": 0.835612,
-      "ETHEREUM": 14937.86,
-      "LITECOIN": 380.43,
-      "RIPPLE": 10.29
-    },
-    "indices": {
-      "^WIG20": 2827.17,
-      "^WIG30": 3665.35,
-      "^WIG": 3665.35,
-      "^NCINDEX": 283.87
-    },
-    "news": [
-      {
-        "title": "Donald Trump do amerykańskich generałów: jesteście gotowi poświęcić życie za USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3ItZ0hBczNvcldRSHVoQk9wbWE3V2RUSW1JenBwcFJpWkczcXNaX1oxVVVWRmY1UndfSmxoWlBxTGE1cEo1a0oxTnRWQkoySWRvZHFQMVByVHc2MklsUnFuWmgxamtOZ3Q3aTRMWS10Qmg4MkNGUGctQjFGaW9fZEYwYmxHWlhuSF92clRDYTYxYkZySHV4YjhGdjJ3ZWFxeTJBVGpwQW5Gdw?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia na komisarza ONZ. Jest decyzja rządu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl3cG5kZk5kcDRlSXZRaVprcDJKWnR4MHljRGRHNkJPejhJLVJmaXNab1Vib1I3TWpCbkRrY2wyTU9hQmczdUJxZEdWdjc5bE96X3J6LTR6UjdtVXRDOVhkSHdabmJxT2dQRVd6REtVNnN6TmVmLXNrdm9JMGl4cUlyRzV6UVhxenh3LUdsbmNPRVBsdFlTNF9kSWpRZFBGYnhZ?oc=5"
-      },
-      {
-        "title": "Tragedia na torach. Dziadek z wnuczką potrąceni przez szynobus - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWU1CZmdZeFFCazAya1VFN1M5eUNNVy1TVWt2OV9iSGlDMmwyaDFLS2RnTjF2LVB1Qlg1TWs5QXN1enVHSlNHX0JBWXhzOGdBemhGUmR2b0xoWEJORkNXekNGem0yTU9IYW9EUnhTUnI1bE52VlhJY3YwdGZHV3RibDlDc3JTU1NkUDFLdUdmRjBpb0RNV3ZWNkEyLXRYQW9ra3pGNS1fM1BEM0RzY0NoRjQtQkpiM0VKVTE4TTJR?oc=5"
-      },
-      {
-        "title": "Orban zwrócił się do Tuska. \"Grasz w niebezpieczną grę\" - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzVkdjczYmpTQ3Nyc1NUMWFHUkFIMmdTcm9ZeTJOV0E1T1dkNkVyNDVQYnpZYjZiT1hpRHpRMGNaVlZOdEp5S2dqODFnZnNndlB2bnJSOUc4N0hJdjgtcDJ5TVVCWEtkRWs2VDJmaUFVQnZtOTVpOGstbHNqUEd6T1J5UmxsYTB3UmZz?oc=5"
-      },
-      {
-        "title": "Ataki na Nord Stream. Podejrzany zatrzymany w Polsce - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXZ1Q0pIRkRvZ3lmMG1pTFBVM1BxdkZHYmJ3MlFhdjgtTnVCSVhlT2JPZUxNRkZ4TWVfdlE1TzJheWhvdi0xdUZpTWtJeFVVLThMYmVwZFp1c3JadkdXZkt2c3FWXzc0SHFCNndSY3czN01wYjR0Z0RkV0p4c21vTjJTQ29OT29WRGtHb213REh0YzZjSFQ5RlEzWll2cndOTVU3OEVlelRSZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-30 21:10:52",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Protest przed Ministerstwem Spraw Zagranicznych. Policja zatrzymała uczestnika - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmJaR29aQzU5OWwtNjE1Sk91dkJxZ1ZLUWg3WUt1Z2Z0SlR6SGNVZU84WnRBdTdXN2pfN0NHaDQ3SHBuNUhlOTRWX0tKaTd1azk5bkM1dFVnNHdzRG1JXzVfaWNVTjFycm9UWlpRRVFyYk82YzJONV9nTlJRQ2h6WkR0TGI1OXB2VFBKNEtyTG1ZYlRVSktUY1BXM3J1eFk0dDVxUUUzNkpQLVI1Xy1vbW01QlBLMy1W?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-03 01:11:53",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 437823,
+      "DOGECOIN": 0.94919,
+      "ETHEREUM": 16249.76,
+      "LITECOIN": 433.48,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2861.62,
+      "^WIG30": 3711.33,
+      "^WIG": 3711.33,
+      "^NCINDEX": 286.51
+    },
+    "news": [
+      {
+        "title": "Sikorski kpi z przetrzymywanych przez Izrael aktywistów. Przy okazji zadrwił z powagi MSZ - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXhoekFjbE0zYXNqZjhJWVlXWmVGWWdQalBqVjd3N2Jxd2lpVnVkQktHZ1E0cF9OdjhSMW53alFKSXB0aVRlVm1sYXhqcHp0VzVmSm83M0tiZU0wX3Vqb1Y4QzE3ODhxOEFCeTdsWTJVT0NWdktjblFRT25PYXZ5WURhSTNBRkQydnF1ZkJLYl9Ib3ZvUXJiWDFhbnNZN2t2Mm4tVFFJblRUZw?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia w ONZ? Polacy nie są przekonani [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkVMdnZzZ1FxOVBMWUJjamJZc3VYNUdLcVRrTnpxR1cxazB1WURYN2tIcWhYbzhoZWt2d1MxZDZqLUUzeUl6bllxVTNiZXVTdFpXNzZkWlNOdnI3WmljY1VlVmtCODdFOVUzeWVRMjBVYVVrX0tKLVB2cE45Z1Y2ZGYxdU80OTZ5U2hnRy1wMnQ5cGozVExHYUJ6SHo5UkR4RUdvX212OWxJZ2du?oc=5"
+      },
+      {
+        "title": "Tajemnicze zaginięcie żołnierzy w Norwegii. \"Nacisnęliśmy czerwony przycisk\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUl3ZVdQckc0aXVCazRfaERPRXRXd0pZeWZwYWRVeENrYkxMSkxZOWtIcTJNc3ZIZDVQbDR6Y2paZ24xRWw1QWEyb1pyTC1MRnFrRm9KUDkxWG9ZMDBNbWV5NVdVNjJpZW9jcE9CbzNvSHRBTlg4anBfME0yWVBiaEdNOHJ2dUZxZU9pWHE0aHlzaXhRVkJEODdqWGdYS2tFbUk0?oc=5"
+      },
+      {
+        "title": "Protest przed siedzibą MSZ. Interweniowała policja - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcVFxUHVfNGx3Q3B4R0VqTHp2Smo4d0xsa2t0UERZX3FkdWI4M2ZwRXRCR0t1ei1STS1FR2xwRmw4V09hcERNb19aS2RsdGk4LW1vNFJsclJpYlJhS2FqSE1CbEpBX3NQMnJRS3BLWldNVHZCM3JycFZ1djMySnJ1dUI4c3JZRXMwejlfR3d3OGd6RWRTaXlIVUlYYnRyQQ?oc=5"
+      },
+      {
+        "title": "Game changer dla Ukrainy? Ten plan wywołuje w Moskwie furię. \"W języku rosyjskim nazywamy to po prostu kradzieżą\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTV0Z1k1SlA2VllGN0dRQUE3NzBocUpHTEtvZGJUMmFuLXFfOVM4cjQtNDdOSVg1dXctOHBTTlNzT1A3MGI3TzlfemxodkVXQXVfd0JyNGFpYzV4T0pjX1YtVUNFWWNWSjJFZG5lVG9iVmludUtsQ1M0SXRqYmdxVEpleHZEUWtRc0dRcGpFaFZ1NFJkMkJBbDdnRWtiV1VhNk1GU21GSTFuUU1IcHU3OWNOdldva2lq?oc=5"
       }
     ]
   }
