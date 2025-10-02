@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 10:19:12",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6411,
-      "EUR": 4.2688,
-      "GBP": 4.892,
-      "CHF": 4.5739,
-      "JPY": 0.024514,
-      "AUD": 2.3921,
-      "CAD": 2.6162,
-      "CNY": 0.5115
-    },
-    "crypto": {
-      "BITCOIN": 413351,
-      "DOGECOIN": 0.843796,
-      "ETHEREUM": 15191.65,
-      "LITECOIN": 384.67,
-      "RIPPLE": 10.44
-    },
-    "indices": {
-      "^WIG20": 2808.7,
-      "^WIG30": 3642.07,
-      "^WIG": 3642.07,
-      "^NCINDEX": 282.93
-    },
-    "news": [
-      {
-        "title": "Sędzia Jakub Iwaniec zawieszony przez ministra Żurka. \"To była decyzja konieczna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1RlZ3BCazBVMW8yaUxjMi04bXlNUmpoNnVUMTNNYWt0NHBQejhnY3ZFa0h1cFhEUHVpQXRrMWlrNzczUUVuNmFYZ2thNG5EaDdiUkc4SDNnaW5VeWhIcE5CdHhGNXhfZDFRMzREUVliaVVYWHZKcmpsc1Z3LXlMejFVcWcxTzlTX1pHeVduRTdYSFBJV0JJLUF4TFh2ZnZoeHhrcTVTN0xZTlBsUHNubFRTMHh1Vnp4aVE?oc=5"
-      },
-      {
-        "title": "\"Szorujemy po dnie\". Waldemar Żurek nie owija w bawełnę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmdSdjNOVktuSVZzOGJGOFZhMHlGaE9yY29taDRPUjNfbmlON0FtVklodXUyeFc3VGZKd3BCN01Mck40cUJuRkZpSlBsM0Zyemh5MUk1OWxVTm5PZG1PVUROZTZpTVdZbjJ4NXRsSFpJZFB6cDR4UWpQVmN0b1lyR2JvMkNjTV9pRkF2TUpITkhsd1ZwTzBVVmpmcktzdm42Z0lZNw?oc=5"
-      },
-      {
-        "title": "\"Rosjanie to lubią\". Była ambasadorka USA mówi wprost - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkcxSWZ1eFRTcmFsdjUxV2Z5UXhMQnJnckZPYmpLSDFoeXBHUm1UQmg0T3ZhWUNnZFRMVXM0VDNqRmdzNzVFUlZYOWlJMUZvWFRmNEhHanZ6bGp6aHlzZ1Uwc0xwLTFsVEtiV0t2OTJSSWpaVWxoSk1wazlPV1FTWWYxYUUzWUdDcEY2YzgxMW4xWGNaMFRyWHFkSnJtWURYTnc?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia liczy na posadę w ONZ. Tyle może zarobić - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3ZmNmVWcVpPZzUxQVJNWF9DMUxOMzQ4bThjLVktS3pKcXRmM3h5S196RHBXcmE5aWstSDVGOWpZNFBrZmw5TE5sclNWcVNtVnF2ZnpCVUwyTVktVnJLazg2ZXdtQ3QxSlJmOXMzaFhYRkt0eFg4Mnp6dmhmUk1IdDlsOHlNVEJnRFFmNTRGVS1pLWY3Q3N6akFjNDl5cTRTcGhfaEJsZjJxaThHOFE?oc=5"
-      },
-      {
-        "title": "Trump i Hegseth na wielkiej naradzie. \"Dowódcy zaniepokojeni nową strategią obronną\" - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1IyMG9KUmNmYUt6SlVzZS1hTV9ObkcxRGIxWm90WWFudnE1UlBUTlVkVm83aEdaY2N5Z1gtR24zeWhhM2tOVndvb3pSTm9jbG5mWEdFanh0ZlhmVlRkUm1uT0oycGQ1TmVkSDFPNUFNVWFxeFlZLW42Zm1PRWpwNlZleTJlSGZ5TWJtcTdIWnk4OUd3ekY2MV8yeTczTnU5YTJMQ1RYcnJGSG03dkhsVjljZ2ItVXJT?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-30 11:14:50",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Koniec budowy trasy Via Baltica w Polsce. Ostatni fragment już otwarty - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNndQQkJGSEtaa1pEdjZvS0FscHl2NEUwNmViLWpNdjRGeGYtb2hzTENGb0tzTWZWU2JsYm8xVGtsamxseUNJM2FZalBIaVhudnZ3RzlMdFlmblBmNXZieGMwTS1FdU1LcWNwd3NsWTdMRjNPSnkwWm1PY2JvVXRpcEMwMldfNHkxSWR4MkVWd1N5SVViZXN4RUd2Ny1tZkNldXhxQURya3lQN3NQLXJ2RTlCcmRhTDFCcFl6aTF6VGlTUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-02 15:22:22",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 431944,
+      "DOGECOIN": 0.922722,
+      "ETHEREUM": 15923.76,
+      "LITECOIN": 432.16,
+      "RIPPLE": 10.78
+    },
+    "indices": {
+      "^WIG20": 2885.92,
+      "^WIG30": 3739.47,
+      "^WIG": 3739.47,
+      "^NCINDEX": 285.99
+    },
+    "news": [
+      {
+        "title": "Tragedia w hotelu w Wielkopolsce. Nie żyją 25-latka i 28-latek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa09qdXlMRkY3Wk0wOFFSSXo5QWRwZS14TTlGdkVQaEtZUG5rNTJ3R0MzUTB2TndkU2lOWWY1V2JmazExZDlXYkVzYzlBTkstT1kyS1NmTlEtNDNjdUVxR1A5dG5Sc3RtbDhUTXR2WWt0eW1LMGdTeF9fdUVweE1PXzVPdDkzQlR0a3dJakNJTXc2ajh5WDJxMUNMT3dlN1N5elhMc3ZveU43WWo4aFBiYklZVVhDY0RNbklhV05sSG5Nb1lQM1R0TXRrMk8?oc=5"
+      },
+      {
+        "title": "Dramat na międzynarodowych wodach. Kim jest zatrzymany poseł KO Franciszek Sterczewski? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGRER0ZtMnVZVW1oQzV4ZlBqM0JVcGxOU1Z3RndZWkpOQ0hDQUV4Zll2TGl0SndHempoUjMyZGhsWDYtUjhBYm4tWjVwRWtOT0M2X1pVU0dpMXRoMFBYT2pxZnEySXZldTBWeUE5U21HNjhXUUc4TFZVLWFaLS0wQk9meE5KR3V2cm9GZE5DYUFiSC1oSlhtY091QmFja2hhdndadHZkY2Z6N3VBUG5TRGdCRF9aSjFQdWlYZU9BRFcxaDJJVm8tS0lR?oc=5"
+      },
+      {
+        "title": "Incydent w pobliżu portu w Szczecinie. Premier o rosyjskich prowokacjach - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3RZOHRvRTVxT1d0M2Z4WGVuTEJ6Z2N4UTNCdnVvRUc0dHpSUFc3SHllS19SX3NrUjBtcW9GUE15SGZXdG82RmdIQUpXN2tfRFFqQnh1S3RfLU9BWlBFQXF1MGptUnhNTGJLN245eWRvS1hxdWlid3J4a19kd0ZFUVgtZ3VaYUhBcHJWeTd1ZTV6V3ZUeV9uMUxYWWxZN1A0Q3gtNE9NYw?oc=5"
+      },
+      {
+        "title": "Zakaz nocnej sprzedaży alkoholu. Nawrocki: czuję się wolnościowcem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjFrSU5ZS1VvSjM0b2xDQUk1aTJNWEhBUmhwMHhSeVI3dGp4UEdkYXBRZzNVbTJPX2ZJT01KMXlValdraW9pRnptWDJyM1NRMF85Q082Z2ZmN25CbEhlNDU4OHB5NlN6VjRObU1SbEp2RHZKSzB4OFRMM2E3cUYtZFFvcVBFc191MXhFY0lacTNieWstLWgwUTJSdU5pc3J6UTBhU3B0MWRNVU42RDN2NFF6V3gxWWk3WUNR?oc=5"
+      },
+      {
+        "title": "Znamy datę powrotu ciepłej pogody do Polski. Temperatura jeszcze przekroczy 20 st. C - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGdqSkQ4MW54Z1Zkb05lVTAzTmlaY182V3JpS2hoSWxJN0tkODNpZzFRZWRfM0NqQkJhbmdZYzRaLUk5OEFWc2o4cWRRMkFWXzNMdGp2bldKV3E2RFpicU5lWHJJc1MweW5heFVUbjgwSzNPaFNfUGNvRVlxS0Exa19RSkxHZmJwaUxUem9Nbk94Z1U2dnVlVE95X0E1SzhEb3JIVk1OV2RWTW9MMThLZmdBaW1pSW9IaTV2czh5Wkk5MkhlM1pfdWhoNC02cWVKVEo4?oc=5"
       }
     ]
   }
