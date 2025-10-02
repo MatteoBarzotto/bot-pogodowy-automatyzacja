@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 09:13:45",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6411,
-      "EUR": 4.2688,
-      "GBP": 4.892,
-      "CHF": 4.5739,
-      "JPY": 0.024514,
-      "AUD": 2.3921,
-      "CAD": 2.6162,
-      "CNY": 0.5115
-    },
-    "crypto": {
-      "BITCOIN": 414253,
-      "DOGECOIN": 0.846741,
-      "ETHEREUM": 15265.55,
-      "LITECOIN": 385.82,
-      "RIPPLE": 10.52
-    },
-    "indices": {
-      "^WIG20": 2816.06,
-      "^WIG30": 3648.74,
-      "^WIG": 3648.74,
-      "^NCINDEX": 282.94
-    },
-    "news": [
-      {
-        "title": "Zbigniew Ziobro po przesłuchaniu. \"Bezprawie było górą\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFVBVWc2OTZwV2Y2VVhEOE84Uk1GeHpNUXJBTURFR2FnaWNKSllEUGs4MXh5MzJqTkZWbUlLZkNIdVViRm1rcU9scVZoeWNVcGNrRFRLSmRLM1kwR3ZpUnQxdV9jclduTlowUkJvQWtOcmE5bXFkaVlnUnJ1T18ta2dBbjVtNld0bThjbzNpdUIxSkZfZ3NuZWVaWEZCTUxMcmJVa01IMDhsa0NFSC1Yejh4cXlYaEppREstckhzcXViSW8?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek: Chcę pojednać Polaków - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSE1IdlJXTS1FVk1CZjdrMGQtVUk1VFlYQnVqeWhySXpITVdXbWJxM1R4SlZYRnJUdjFlYTNTY0FvYmMzTGp5QmFhWi1PR2tOeUVEQUE3alVWSGZoUS0tSUFBdmRXY3FvRlhKVkQ4eFVmQzRnVV9aWFpLN09EYWpvUWtvV3FkYkk1b0ZESnVVTjI?oc=5"
-      },
-      {
-        "title": "Samolot zawrócony do Warszawy. \"Pierwszy poziom zagrożenia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUU2RmVzNUFGcE9wTXlIdzJOeFpCVEplWUxGTDdIR2l2dDRuUUZWT0FTc1dKUE9nQXFodS1ldnlaczl5UVBPNTRxaGhjd2pFbnFmeWJlRklkUlJIRDQzRUFxNjJyQXZFZ2YzUmlFWEV3MTk4V0NmLVM5VVlGRlpiRVBrZ3hSd3A4WVRXUEYwQ1R3SkhGWXJMNTVIY201MmZuYU1TU1JiMW1MU2dKcUhhRzBVaWRQbnRt?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia liczy na posadę w ONZ. Tyle może zarobić - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3ZmNmVWcVpPZzUxQVJNWF9DMUxOMzQ4bThjLVktS3pKcXRmM3h5S196RHBXcmE5aWstSDVGOWpZNFBrZmw5TE5sclNWcVNtVnF2ZnpCVUwyTVktVnJLazg2ZXdtQ3QxSlJmOXMzaFhYRkt0eFg4Mnp6dmhmUk1IdDlsOHlNVEJnRFFmNTRGVS1pLWY3Q3N6akFjNDl5cTRTcGhfaEJsZjJxaThHOFE?oc=5"
-      },
-      {
-        "title": "Jak Rosja zareaguje na wyniki wyborów w Mołdawii? Jest pierwszy komentarz - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzdpeWVzMzZxU1dld0VYcFhIQUdvOVR4X2YtU0lVVEE1djZSZHJ3T0lSbk1HX2pHUXo0N1RVSktmbVdDRTBnOERNU2ZtUTF6MVRSSVpqeFFLNGdFa2R1VzBDTy15a1RaWFd5bkxYcHJKZl9naFBfYUNzWlVMemUyTHRlZ1dFZUNIM1pxT18xblhtTzlvLXprVk9FcW8yUVRDZjFyQTdoRTQ1Q0VFeFVmcw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-30 10:19:12",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Tragedia w hotelu w Wielkopolsce. Nie żyją 25-latka i 28-latek - Onet",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa09qdXlMRkY3Wk0wOFFSSXo5QWRwZS14TTlGdkVQaEtZUG5rNTJ3R0MzUTB2TndkU2lOWWY1V2JmazExZDlXYkVzYzlBTkstT1kyS1NmTlEtNDNjdUVxR1A5dG5Sc3RtbDhUTXR2WWt0eW1LMGdTeF9fdUVweE1PXzVPdDkzQlR0a3dJakNJTXc2ajh5WDJxMUNMT3dlN1N5elhMc3ZveU43WWo4aFBiYklZVVhDY0RNbklhV05sSG5Nb1lQM1R0TXRrMk8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-02 14:26:13",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 431151,
+      "DOGECOIN": 0.92714,
+      "ETHEREUM": 15898.75,
+      "LITECOIN": 434.78,
+      "RIPPLE": 10.79
+    },
+    "indices": {
+      "^WIG20": 2890.45,
+      "^WIG30": 3746.27,
+      "^WIG": 3746.27,
+      "^NCINDEX": 284.97
+    },
+    "news": [
+      {
+        "title": "Donald Tusk o rosyjskiej prowokacji koło portu w Szczecinie. \"Otrzymałem informację\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDlsVDdpVkZUTkRCdTdsa1FLMXRLekpDSHJDN0FqOWVGSV9CV1c0NlZxZHBTU2FreXBqNXZ6ZVF1cGJjakNTaFRoendKd1hoT2RpaW9sMVN3LTFDVTFXWVFjeVBKdHBiV1pnSUpQVk9nNzUyWEhXOHNiWlA2MDQ2MmVWTS1HZlBteFpjYTN3SUhKRzlodGhYMGw1R0dKcThSUHFEVXozWnFCSUZlaXRYWWpXTzBPVzQ5dENyVlpXaw?oc=5"
+      },
+      {
+        "title": "\"Nie mogła dodzwonić się do koleżanki\". Ciało znaleziono w jednym z hoteli w Wielkopolsce - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckVGelZkZ19tLUh0ODNGQXkyU0dVZXY5XzhoMms4cF9wX2tVQlBBZzVCM3k5RDVtSC0wc3p0SVFjM0tOYlRTbHRWSmJlTjJRbnp1TWtEYVJEeFNuOTNGb2JxOHBUSGhiRGFLYXN2a0VVWXI1OXJLSHhKNFlBenZJdHdrYnRURkhEbzVRdXZkZ0JpeFd6WFNJZmFEcG9SdkNlTHc4cHBydjJBaFhHMDAzdA?oc=5"
+      },
+      {
+        "title": "Dramat na międzynarodowych wodach. Kim jest zatrzymany poseł KO Franciszek Sterczewski? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGRER0ZtMnVZVW1oQzV4ZlBqM0JVcGxOU1Z3RndZWkpOQ0hDQUV4Zll2TGl0SndHempoUjMyZGhsWDYtUjhBYm4tWjVwRWtOT0M2X1pVU0dpMXRoMFBYT2pxZnEySXZldTBWeUE5U21HNjhXUUc4TFZVLWFaLS0wQk9meE5KR3V2cm9GZE5DYUFiSC1oSlhtY091QmFja2hhdndadHZkY2Z6N3VBUG5TRGdCRF9aSjFQdWlYZU9BRFcxaDJJVm8tS0lR?oc=5"
+      },
+      {
+        "title": "Coś dziwnego stało się na granicy z Niemcami. \"Obrońcy uciekli\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFpwWExicFVfR1BzYmVBeVhxNTRQTUZOWUhyS1dxWVBDS0FJZExpekJ2dER3dWJLM3hiYzYxTl9WUlRTc3M2T1l4Z3FaNVdnaWpsUlB1Y2lLdHFiOEtuLVNnd0pWMldHaHFQUGN2M2xhSWlIOHE0VFZKd2plZjdCNHVzaWlrVWEyaGswSlB6Zml2RkZrc19DTVFSSlh0YTNoc2dmaS1rbmczSVdFUWVOdUYwOHhtTmdJaS1XaTBjLVdsbGkySzhwMXp6RWk?oc=5"
+      },
+      {
+        "title": "Koniec budowy trasy Via Baltica w Polsce. Ostatni fragment już otwarty - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNndQQkJGSEtaa1pEdjZvS0FscHl2NEUwNmViLWpNdjRGeGYtb2hzTENGb0tzTWZWU2JsYm8xVGtsamxseUNJM2FZalBIaVhudnZ3RzlMdFlmblBmNXZieGMwTS1FdU1LcWNwd3NsWTdMRjNPSnkwWm1PY2JvVXRpcEMwMldfNHkxSWR4MkVWd1N5SVViZXN4RUd2Ny1tZkNldXhxQURya3lQN3NQLXJ2RTlCcmRhTDFCcFl6aTF6VGlTUQ?oc=5"
       }
     ]
   }
