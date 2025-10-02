@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 11:14:50",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6411,
-      "EUR": 4.2688,
-      "GBP": 4.892,
-      "CHF": 4.5739,
-      "JPY": 0.024514,
-      "AUD": 2.3921,
-      "CAD": 2.6162,
-      "CNY": 0.5115
-    },
-    "crypto": {
-      "BITCOIN": 411524,
-      "DOGECOIN": 0.837344,
-      "ETHEREUM": 15109.29,
-      "LITECOIN": 382.88,
-      "RIPPLE": 10.36
-    },
-    "indices": {
-      "^WIG20": 2808.05,
-      "^WIG30": 3640.91,
-      "^WIG": 3640.91,
-      "^NCINDEX": 282.94
-    },
-    "news": [
-      {
-        "title": "Pozytywna niespodzianka. Poznaliśmy najnowsze dane GUS o inflacji we wrześniu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjdqbW1taVJYVlhkM2VoR2pJY2I2SDdzNVdNMW9BN1dDbDZFckJJaFNGT1lLcmtESGdMMXI3NXR2YjBqTGVaLUhaSWZvYms4RHN0QXFGRjd0YVVReWFwMURfUHlMNnN1UWNGU0tCaFBoOGFzS3UwOHFVQzBuMDRrQWgzeUs0WUJxd0RyTTlSaHhFZUREcThGUmx5WTNiMWszaUxSeFBIdk1pWjg1LUhFak9yZHI?oc=5"
-      },
-      {
-        "title": "Według konfederatów Nawrocki oszukał wyborców. \"Wyglądamy teraz średnio\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEhGWG8tdnk5VXNtZEVLaTJHRllKRGJyLWlpSExleFd2MExpbVcyQ29ub01aZFJrVTJaY1d5UndMcjZfSVUwVzU0cy13VkNON1YxSzFkSXptX2w4TS1GYnJOYTRObEZjanktZVRHcVZDYmZTMFF5MWZzbmY2ZG91SHJYSDltNjZqcUV1WTU2dEVHanJtdkxjSWExdGo0YjVkc2RZNEVB?oc=5"
-      },
-      {
-        "title": "\"Rosjanie to lubią\". Była ambasadorka USA mówi wprost - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkcxSWZ1eFRTcmFsdjUxV2Z5UXhMQnJnckZPYmpLSDFoeXBHUm1UQmg0T3ZhWUNnZFRMVXM0VDNqRmdzNzVFUlZYOWlJMUZvWFRmNEhHanZ6bGp6aHlzZ1Uwc0xwLTFsVEtiV0t2OTJSSWpaVWxoSk1wazlPV1FTWWYxYUUzWUdDcEY2YzgxMW4xWGNaMFRyWHFkSnJtWURYTnc?oc=5"
-      },
-      {
-        "title": "Rafał Trzaskowski reaguje na doniesienia, że wypisał syna z zajęć o edukacji zdrowotnej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQemJwVkRKVEMxV1I5OE42QzBzQkQyeWQ1RldhSkFLX2hZZ014WG9JZ25aaF81Z3VmT1d1cXRhZ29RRGFXVnhEVXF1eFhsb1VIM2x4ajAzMkFQU1JJTlktSVhya0N6emhnUjdVYks5LUVNRHAzTmpYMVktZTVXSEE0QU53RjNMMGRaZEk5YVJkRFVxT1F2V1JvaG5EbnlDQjdrcFJRZW1IenNGYWhZRVNVeFhRa3hHczdpbkZ4MlIyNW1RZi11bGJF?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek: Chcę pojednać Polaków - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSE1IdlJXTS1FVk1CZjdrMGQtVUk1VFlYQnVqeWhySXpITVdXbWJxM1R4SlZYRnJUdjFlYTNTY0FvYmMzTGp5QmFhWi1PR2tOeUVEQUE3alVWSGZoUS0tSUFBdmRXY3FvRlhKVkQ4eFVmQzRnVV9aWFpLN09EYWpvUWtvV3FkYkk1b0ZESnVVTjI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-30 12:14:25",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Znamy datę powrotu ciepłej pogody do Polski. Temperatura jeszcze przekroczy 20 st. C - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGdqSkQ4MW54Z1Zkb05lVTAzTmlaY182V3JpS2hoSWxJN0tkODNpZzFRZWRfM0NqQkJhbmdZYzRaLUk5OEFWc2o4cWRRMkFWXzNMdGp2bldKV3E2RFpicU5lWHJJc1MweW5heFVUbjgwSzNPaFNfUGNvRVlxS0Exa19RSkxHZmJwaUxUem9Nbk94Z1U2dnVlVE95X0E1SzhEb3JIVk1OV2RWTW9MMThLZmdBaW1pSW9IaTV2czh5Wkk5MkhlM1pfdWhoNC02cWVKVEo4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-02 16:13:13",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 434036,
+      "DOGECOIN": 0.924854,
+      "ETHEREUM": 16000.47,
+      "LITECOIN": 432.3,
+      "RIPPLE": 10.84
+    },
+    "indices": {
+      "^WIG20": 2877.25,
+      "^WIG30": 3729.09,
+      "^WIG": 3729.09,
+      "^NCINDEX": 285.79
+    },
+    "news": [
+      {
+        "title": "Donald Tusk o rosyjskiej prowokacji koło portu w Szczecinie. \"Otrzymałem informację\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDlsVDdpVkZUTkRCdTdsa1FLMXRLekpDSHJDN0FqOWVGSV9CV1c0NlZxZHBTU2FreXBqNXZ6ZVF1cGJjakNTaFRoendKd1hoT2RpaW9sMVN3LTFDVTFXWVFjeVBKdHBiV1pnSUpQVk9nNzUyWEhXOHNiWlA2MDQ2MmVWTS1HZlBteFpjYTN3SUhKRzlodGhYMGw1R0dKcThSUHFEVXozWnFCSUZlaXRYWWpXTzBPVzQ5dENyVlpXaw?oc=5"
+      },
+      {
+        "title": "Dramat na międzynarodowych wodach. Kim jest zatrzymany poseł KO Franciszek Sterczewski? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGRER0ZtMnVZVW1oQzV4ZlBqM0JVcGxOU1Z3RndZWkpOQ0hDQUV4Zll2TGl0SndHempoUjMyZGhsWDYtUjhBYm4tWjVwRWtOT0M2X1pVU0dpMXRoMFBYT2pxZnEySXZldTBWeUE5U21HNjhXUUc4TFZVLWFaLS0wQk9meE5KR3V2cm9GZE5DYUFiSC1oSlhtY091QmFja2hhdndadHZkY2Z6N3VBUG5TRGdCRF9aSjFQdWlYZU9BRFcxaDJJVm8tS0lR?oc=5"
+      },
+      {
+        "title": "Zakaz nocnej sprzedaży alkoholu. Nawrocki: czuję się wolnościowcem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjFrSU5ZS1VvSjM0b2xDQUk1aTJNWEhBUmhwMHhSeVI3dGp4UEdkYXBRZzNVbTJPX2ZJT01KMXlValdraW9pRnptWDJyM1NRMF85Q082Z2ZmN25CbEhlNDU4OHB5NlN6VjRObU1SbEp2RHZKSzB4OFRMM2E3cUYtZFFvcVBFc191MXhFY0lacTNieWstLWgwUTJSdU5pc3J6UTBhU3B0MWRNVU42RDN2NFF6V3gxWWk3WUNR?oc=5"
+      },
+      {
+        "title": "\"Nie mogła dodzwonić się do koleżanki\". Ciało znaleziono w jednym z hoteli w Wielkopolsce - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckVGelZkZ19tLUh0ODNGQXkyU0dVZXY5XzhoMms4cF9wX2tVQlBBZzVCM3k5RDVtSC0wc3p0SVFjM0tOYlRTbHRWSmJlTjJRbnp1TWtEYVJEeFNuOTNGb2JxOHBUSGhiRGFLYXN2a0VVWXI1OXJLSHhKNFlBenZJdHdrYnRURkhEbzVRdXZkZ0JpeFd6WFNJZmFEcG9SdkNlTHc4cHBydjJBaFhHMDAzdA?oc=5"
+      },
+      {
+        "title": "Coś dziwnego stało się na granicy z Niemcami. \"Obrońcy uciekli\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOFpwWExicFVfR1BzYmVBeVhxNTRQTUZOWUhyS1dxWVBDS0FJZExpekJ2dER3dWJLM3hiYzYxTl9WUlRTc3M2T1l4Z3FaNVdnaWpsUlB1Y2lLdHFiOEtuLVNnd0pWMldHaHFQUGN2M2xhSWlIOHE0VFZKd2plZjdCNHVzaWlrVWEyaGswSlB6Zml2RkZrc19DTVFSSlh0YTNoc2dmaS1rbmczSVdFUWVOdUYwOHhtTmdJaS1XaTBjLVdsbGkySzhwMXp6RWk?oc=5"
       }
     ]
   }
