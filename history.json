@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01 12:14:34",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6245,
-      "EUR": 4.2586,
-      "GBP": 4.8812,
-      "CHF": 4.5542,
-      "JPY": 0.02463,
-      "AUD": 2.3974,
-      "CAD": 2.6041,
-      "CNY": 0.5099
-    },
-    "crypto": {
-      "BITCOIN": 422463,
-      "DOGECOIN": 0.881576,
-      "ETHEREUM": 15588.04,
-      "LITECOIN": 399.43,
-      "RIPPLE": 10.63
-    },
-    "indices": {
-      "^WIG20": 2838.91,
-      "^WIG30": 3677.42,
-      "^WIG": 3677.42,
-      "^NCINDEX": 282.37
-    },
-    "news": [
-      {
-        "title": "Jarosław Kaczyński wyrzucił ich z PiS. Teraz radni zabrali głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWtZU204d1A0YWphelJraG9IQnhncmtaWmxibkktcU9obkxBOTcybDdHR1ZEZXUxMHNoM2xNbzlZRzRoSjI1Z093X0xtNU5pT3dEQVhBYlJIU1pKRnZSOGI2aTBRUE1IR0g2Ui12UVRIVTNscVJUWURCQ1huVzRwN2hLSjJvTzlCYXFDcVNkVUJjdXRGN1ktbDRTX3pTRUlyeEE1SFBzN2xldw?oc=5"
-      },
-      {
-        "title": "Co z kontrolami na granicy z Niemcami i Litwą? Zapadła decyzja - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmMxeXFqcXBuN3Rpa1pST2tKUzdXMEJUb29EMHlpTExIUklFbUxIMEduYng3WFN5RGNMTzNubFN1QnoxQmZJejBiMjk4WnE4MzB3OHlZM3ZKaXVlbllTZGZFUFVXTHR2YXBuTTk4U0RPNVFPVG43ZkR2TGlpMVpYeTRvWWI4UWx1SjM0eUJPbVNVcVdrdFdNeUZ4cG9jVUlnZnZR?oc=5"
-      },
-      {
-        "title": "Ryszard Petru chce przejąć dowodzenie w Polsce 2050. Oto jego majątek - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzJwdGJQeWM0Tm52VVNZSl82NHdDV2ozRE1XMlpWSzZDZGg1MDBxUUlGRzA4cmdvQXhRbE43VFBSX205cHpBU3VVNHV2dm14bWFLN1lxUVNHS3hJcEYwQkJobnJXR2tmbk9FWXN3UWR4aW1EeF9QQVREU3pYekkzcjlGbUJIYXA4eWUwMmEya1dCUDRHSTZhanNwd2ZRMDNEb0xvN3lQVUJhV2J5cFk0dVh1eDdIWkRDc0lpV0JoYUhJbnc?oc=5"
-      },
-      {
-        "title": "Eksplozje i strzały w Niemczech. Akcja służb - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGFtMzRPRjFXSWpJb2hxUE9NcktETVpEVFJSNzAzRGc1WUItQ2Y3Uktpa1hxa0xCMEdsUENsc0NQcTFERjhLVDZGMk9VcWVsbWN4VUxfcXhLcWlXdEtIU0R5U2I2XzJybnRMTHlzSDZfaVdVYlFkR1FXOWl1bTdPWmRwQTZRUzNyX2NYSzgzSGVHdUJ3ckE?oc=5"
-      },
-      {
-        "title": "Rząd w USA zamknięty. Ambasada w Polsce tłumaczy, co z wizami - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDA3UjB1MTBOakJjRk9GdlJSeTNMRS1OTGNzMG02V3pQTFFzR0tjeG4yMWk3TUpDYldPZ2I0bjRhSzkzY2xxMWpWZU9maF9MbENxQjgwUW9CdHo0aXcwYVZYTnBVcm1faXN2aENjcUFaYUdhUlJxM1gzb1pQNUVaQWhhOU9oSlRkeHprbml0ZzQ1TjNRdDRnYWc0clJ5cFJDQTl1clZWRUtqRXk5QjE4MS1ETVJuVFB4WEh6VVhVQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-01 13:12:04",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2645,6 +2592,57 @@
       {
         "title": "Hołownia już w Nowym Jorku. \"Nie jestem zupą pomidorową\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXB6S3dTWHV6Z1JNelpqMzduYnAzSXFlRDlVZW1QZV90R1RrQjI3Q3JOMUVxTFA0LXFFc3JxUUdXZVJpdl9OMlZjbnNxaU1QdV9TanBqMWFPSWdMaFJQWTBaMXMzY2xLUFpUZUtVeVY2V3ljTWR1SmVocXdfcm5IMDdwUWhGWUVLcUR0TW9JcjZESEZ6UnphY0k2eFY?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-03 16:12:48",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6253,
+      "EUR": 4.2559,
+      "GBP": 4.8784,
+      "CHF": 4.5527,
+      "JPY": 0.024604,
+      "AUD": 2.3951,
+      "CAD": 2.597,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 435411,
+      "DOGECOIN": 0.922272,
+      "ETHEREUM": 16136.19,
+      "LITECOIN": 427.08,
+      "RIPPLE": 10.95
+    },
+    "indices": {
+      "^WIG": 3713.52,
+      "^NCINDEX": 284.46
+    },
+    "news": [
+      {
+        "title": "Prezydent Turcji oskarża Izrael. \"Ludobójczy rząd Netanjahu odmawia zgody na zaprowadzenie pokoju\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNakRweWRpTGpGSHdGUVJUTDBPTW5WWWw1dTJlbnBaY1V3X3EtbENSdUFpSmtDV25iZXJGOU9jbE92Q09BUWEyNG1CUFBLWTlDT0xTNFp0NjZnMGpfaUQ4ektNUVc3NTBOVEt2NUNWQzNXcGczTFlGdDc1cExNNGpNTlFiMTA5WkFqRDhmVzA2LWhscHpzSk1WQTJVZTRfTmRFaGVWaDI0NXUzUjkxWXFZd0dJcjNvbXVFU3hXTFhVWUs2MndQTE15WHFUbXdoTUZnbVBZV3VFQ0VZTTR0WTZmTw?oc=5"
+      },
+      {
+        "title": "Wołodymyr Z. podejrzany o wysadzenie Nord Stream. Nowe informacje z prokuratury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYl9MM1FiNkQyUmQxUFM1aHFlUlRiSGVQTGYtZHpQQmcySldodVY3cEt0b1l2cm5lOW5Ya2xIOUxHNE0tTDBKQUcyWWhGQ0pFcGlLbUZaZXZCSjBLYjhOWTNyWXo3dEk2WWNSUVBmeGRZdl81dEZDdl9Wby0wMTZubWo5Z3BLOXBwRk1kS3dHckdualRsa3dYT0ZnQi1nMW81RExpYQ?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia walczy o stanowisko w ONZ. W tym celu poleciał do USA - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWllLVY5RUY3cFY5MTNvYTNJYnRmaE12VGUwaldvUkZkT000ZU5QQTJoaktLRGNVS1pFS2J6T0pHRkVVNkVCR19PNS1KaEFoTjNJcUY2MUQxaWhwTUdLWlNMZGJiUU5kS0ZjUmFCYkN4MlFmZGR2dzc4TWw3QUo2MDRielhrQ3BwZFR1QzNUQU5lcGI0OEhEY25ENXlZNUpwdGF3Nmc3aWwxYmJYajgtN2hZUHZwSG8xZXN5QjcxQmVpOWo0Y3c?oc=5"
+      },
+      {
+        "title": "Polska podpisała strategiczną umowę z NATO. Podłączymy się do rurociągów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVFRBVkNaNWU0ZEdCMV9pNERpTFY0MzV4QklBaDctTUN2Wl9CdU05RUlHTFljYmp0VEVpdzJYUTdGYWE1MXotYzA1bjJQVjlPbEtCakM0M1dDMzV5RzFNbzBVbzlyM0I1eEtqVHhteTloaWRUek04U2FseEU5cDFyQVZRcEFwUGRBUHpOQ21HZVhLOHNUNHFnV01iTFVrYmc2RlRXNWMyVmhZZUZ2bDJmODA0c0RuWEVTSXVUYlVzd3pmM01JNnBJbW8yZGd3eE0?oc=5"
+      },
+      {
+        "title": "Władimir Putin reaguje na słowa Nawrockiego. \"Polska popełniła wiele błędów\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2xSSTVPbmZyWkFYaEt5VTcwWEU2M1ZkQzc0cDQzUkZEVTcwNXlvaXEtTkdvblNRN3UwTHE3UjdfOVR3M0FsU2prWW9wR1ZVMHY5dk4wODNDSnBSRmg3QmdHTUkyMjdNTjN1M3FBZzgxRkxIWm0tRU9ZbEtzRS1YSHVBV1ZhaTk5YnZxTGNGVmdObU1fMGp3THhmcGtXLS1uZXpPUE5GQnNiajk0amFMY1NB?oc=5"
       }
     ]
   }
