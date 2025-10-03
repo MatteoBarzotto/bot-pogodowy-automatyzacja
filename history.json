@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01 00:12:27",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6315,
-      "EUR": 4.2692,
-      "GBP": 4.883,
-      "CHF": 4.5616,
-      "JPY": 0.024562,
-      "AUD": 2.4004,
-      "CAD": 2.6108,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 414785,
-      "DOGECOIN": 0.847186,
-      "ETHEREUM": 15131.73,
-      "LITECOIN": 388.83,
-      "RIPPLE": 10.4
-    },
-    "indices": {
-      "^WIG20": 2827.17,
-      "^WIG30": 3665.35,
-      "^WIG": 3665.35,
-      "^NCINDEX": 283.87
-    },
-    "news": [
-      {
-        "title": "Partia Szymona Hołowni na granicy rozłamu. \"Tusk nam zetnie głowę\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGw4TEppWVRaZ0pMcDhqOEFVUkYzcTJ0TGtobXotbkRzRWdUUHpWbUZKZHZnbHFMSk41ZW1LZEdoR1ZvRTVOZ3dRS1dpQzZsR3E0TTFKZWg2Y0tPRktyekN1R090UWVEQVQ2VHpnaHVhdXhuM2NaLVpwSUVWTkZJN21xeGN6bHEzNkUzMmQ5M0hkbGZ1VVo2YUFjdk55Q054U2tWUG02NzUyUnZYZzFDcFZ4dw?oc=5"
-      },
-      {
-        "title": "Pożar w bloku w Koszalinie. Dziewięć osób poszkodowanych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0VIdHhIV2IxOWV5ZzdDM1pKMkVURkd2X193OGhnZXA0SnRHUVlGVkpJTzVQNXVUbnFFV0NOMnJUcDJxeHhZb3IxNGd1Si1aLW5rSHV3VFJmTWk2dWhRSEZ4cjdNVjhNQ3Jmb1g3emVDYXFLM2ZQWVRIWkc4WXo2ak1nU3ljQXRqQ1BaWHZjTVJsSGJ6RDdXWGIwdElwb0U0NEFJNENn?oc=5"
-      },
-      {
-        "title": "Donald Trump o byłym prezydencie Rosji: Bardzo głupia osoba użyła słowa na N, którego nie wolno używać - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3ZtVGZnV3JaODNqNkJOZDNfMUowTDc2UGFERFo3c3pXTEllXzlONzYwdElZcS1udk1QcGltUnd2NlpjOS1jTUtoNHpzVFZ2YjR1RmszRHJLdk5lS2Y3ZjY3WnlSd2xXcnpKY0xMRVVFZERhU1AxZWVWNzRiYk1VdVJ6dVVYUkJ1MS1YNHZMenZCWER5NWNxNm1KV2NCWkxpbEVsV1FFamhTZVZlek9wTm93VVpVY2tzNzBVVWRKdDNMZW5RVVB6aw?oc=5"
-      },
-      {
-        "title": "Noc długich noży w PiS. Na Dolnym Śląsku polała się polityczna krew - salon24.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUJzMkpIQ2dfUlZyUlZRTkxHQ0s4MWlmT2c4X2hjb2ZudGxEbXk3azhTMVVNNXl4YTY4LXFQOVpWbWZINjI0VkgzQnJJLUp6cm9kNldITzE0UkVmUDhqWkVISmpoemdNSWRDdjZGSmVUSks2V3pRWE83WlAyb290Mmw1ZkpHSGxJZ0pRZExGcEZCRU5DRmRVMDJ2d0l6ZFBzLXNoU3RyX3ltZw?oc=5"
-      },
-      {
-        "title": "Orban zwrócił się do Tuska. \"Grasz w niebezpieczną grę\" - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzVkdjczYmpTQ3Nyc1NUMWFHUkFIMmdTcm9ZeTJOV0E1T1dkNkVyNDVQYnpZYjZiT1hpRHpRMGNaVlZOdEp5S2dqODFnZnNndlB2bnJSOUc4N0hJdjgtcDJ5TVVCWEtkRWs2VDJmaUFVQnZtOTVpOGstbHNqUEd6T1J5UmxsYTB3UmZz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-01 01:12:22",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Dziwny przypadek Szymona Hołowni. Cztery lekcje z upadku marszałka - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0xmQzk4OGs5SmNxakE2bWd2dnYwOGtNaUJUMlB4X2hyelhWM2loS25rUlQydGFaRFp5ZWFNaEg3M2I5Uld3ZG8zZTFFQVVVRmhRWDhXZW9icC1DTXZsODRmSDQxck5VLXBfSVBtWkl1SFJhR3o2MEotVGxoUV9MWVA2cXFZTnlWcDY0bnF0eGY1Tk9KXzZobE81dHU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-03 06:15:49",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 437053,
+      "DOGECOIN": 0.946748,
+      "ETHEREUM": 16371.72,
+      "LITECOIN": 427.86,
+      "RIPPLE": 10.99
+    },
+    "indices": {
+      "^WIG20": 2861.62,
+      "^WIG30": 3711.33,
+      "^WIG": 3711.33,
+      "^NCINDEX": 286.51
+    },
+    "news": [
+      {
+        "title": "Prezydent Turcji oskarża Izrael. \"Ludobójczy rząd Netanjahu odmawia zgody na zaprowadzenie pokoju\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNakRweWRpTGpGSHdGUVJUTDBPTW5WWWw1dTJlbnBaY1V3X3EtbENSdUFpSmtDV25iZXJGOU9jbE92Q09BUWEyNG1CUFBLWTlDT0xTNFp0NjZnMGpfaUQ4ektNUVc3NTBOVEt2NUNWQzNXcGczTFlGdDc1cExNNGpNTlFiMTA5WkFqRDhmVzA2LWhscHpzSk1WQTJVZTRfTmRFaGVWaDI0NXUzUjkxWXFZd0dJcjNvbXVFU3hXTFhVWUs2MndQTE15WHFUbXdoTUZnbVBZV3VFQ0VZTTR0WTZmTw?oc=5"
+      },
+      {
+        "title": "Lotnisko w Monachium zostało zamknięte z powodu niezidentyfikowanych dronów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEZSaExwOVBfMnBRQlRVaVMzeWUwSTRUOGxfazZqRl9FSGowb0FhZUZVNlRWLVFuN1JKTlNZRDg1YVE1RDNqQXFUMGVYQ3dGY1ZITENNSms5b1o2NndGY3JWS3l1bUJLX1N4V0VlcjNHem9CX2U4LVNTYXMyUnRvYVFqdUJWM01jSll0VFdYdXFoa1RUNnBtT3VZR2MtMEdZSFktbEpJOWwtTktWWHI1Yi1wa25OTFo5SWZtZ3htZFl5UVRrTnZqaTNyR0ZVZw?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Szymon Hołownia spotka się z sekretarzem generalnym ONZ - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLU1kRFR2cExtTXJjemxVM3k1ckl0YVJxdVRKM0xNWVpORzViV2FYMkR6V0Zsc05aR244NGFHZFVYMUNsSjVwR0NKM1hFM2RyalZleFpZRDF1SkNnbjdEbWdYZDQwRWpad0l1bjBBSGM1S1ZzZHg3cktWVkQ5cEZONHVHSElOSTFDb2Itdlo5LW1EUWMxZFhsWFE1cHg4U0U5MDh2UFdKT3Y2dDctLUhrX2IyNjR5SG1lT1JRMFFxNXc0UQ?oc=5"
+      },
+      {
+        "title": "Rosja \"papierowym tygrysem\"? Putin odpowiada na słowa Trumpa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJUWGxXSHRvM2dzaXFZenRDVldTajl2c0RKN0FiZ1pDZTUyTWFGdnpsX3ZlQkU2UThwZHY1V1N4dmJPaFhMWXhDdjl1YlRqLWVXeVVIcUQyWUJoZGprVzV4bi1yQ002cU42OU5SQXhqWmtHMTBab2pWcDRpNGtwTy10TmJDU29HLUxTVE5kMGZiS2d5S2xhZDdWN05HdlY4cGlVaGdzRjQ2ZU5QQ0dSUml3?oc=5"
+      },
+      {
+        "title": "Tajemnicze zaginięcie żołnierzy w Norwegii. \"Nacisnęliśmy czerwony przycisk\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDFvUzZXLUx4Y19wMm9aZ3o2Z0xRU2VwekRyLWRrLXd3SmZrODd1bDZKVHdvNE5OSk11R1dVSlI1VW9pNGpseHltMk16OG05YkRBUXZxeEgwN0M4Q3ZjMjgxODJWQTBqdXdvbWN0VGhGWGRxYzEtNWk2bHFKd0EtS014TXp5cmR4U1dKc3F5VEhka2tNcUNfalAzYzQ4a3pCdzJybWNjdFVmUVdOUG54QmVKSTFGelZPQVJHTXZjU2ZfdHNzMkw0c2hEWTgtb3Jrb0E?oc=5"
       }
     ]
   }
