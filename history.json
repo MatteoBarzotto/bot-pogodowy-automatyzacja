@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01 15:24:51",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6245,
-      "EUR": 4.2586,
-      "GBP": 4.8812,
-      "CHF": 4.5542,
-      "JPY": 0.02463,
-      "AUD": 2.3974,
-      "CAD": 2.6041,
-      "CNY": 0.5099
-    },
-    "crypto": {
-      "BITCOIN": 422412,
-      "DOGECOIN": 0.8834,
-      "ETHEREUM": 15564.18,
-      "LITECOIN": 401.9,
-      "RIPPLE": 10.68
-    },
-    "indices": {
-      "^WIG20": 2847.95,
-      "^WIG30": 3692.54,
-      "^WIG": 3692.54,
-      "^NCINDEX": 282.12
-    },
-    "news": [
-      {
-        "title": "Sprawa eksplozji Nord Stream. Warszawski sąd zdecydował w sprawie podejrzanego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSW8zN3FUbHdoN19HTW13WnFWNDYwUnZYc3ZVbnVVY2RETjZKNkNCS1ZrT2lkOWQ3MTlJWWRyQTByMGVxc3o4YkJOSHV6akFfT0tzNHhpQWJXYUVxSlc0RUZpMGpTZWgxMW5NcUJLZ19UYUJLN3R1TDJTQ2tSSXJiNlRqWEVsTXFDUkVlcU9lVGVBTWJPQWVjVFVtZXEweHFVRWVOek54LUxwQllMeW9PTXBiendwT0JydnVNemEwaVJNRG9SQ2Z5ai1jdTRyRWJtMDhlU1JxTQ?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński wyrzucił ich z PiS. Teraz radni zabrali głos - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWtZU204d1A0YWphelJraG9IQnhncmtaWmxibkktcU9obkxBOTcybDdHR1ZEZXUxMHNoM2xNbzlZRzRoSjI1Z093X0xtNU5pT3dEQVhBYlJIU1pKRnZSOGI2aTBRUE1IR0g2Ui12UVRIVTNscVJUWURCQ1huVzRwN2hLSjJvTzlCYXFDcVNkVUJjdXRGN1ktbDRTX3pTRUlyeEE1SFBzN2xldw?oc=5"
-      },
-      {
-        "title": "Viktor Orban ostrzega przed szczytem UE. \"To będzie jak walka w klatce\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelZNOFhRSzBmVHVxd3lnel9Qdm1CRjFJWTdKOTVydUlOYmJ2QzlVYWJrYjBRY291TXh1ZVgxOE5ubEJ6YmVLS2x0OE5WWFctQXdyZk5IQnJuN2cyMmlTbkhvY0ZYM3pWdDRGb2hzdWlkRGJzV3M1VWxkY0Y0Zmc5eTRJQzBjMXBzVmp3OVVUSzhQOUJaUkNTUkg0M0VjM2ZtTzk2bHpWMTR6SlU?oc=5"
-      },
-      {
-        "title": "Zapytaliśmy gen. Polko o zmiany w armii USA. Ujął to po żołniersku, krótko - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJ5cFlxMjVaemgxaHdCZ3pJNjBva1NwLW43SkU3emxSaTZRbnUwcmxQTTVTWXNweG5jWC1kUTRKcm1oMFdBMHU5UW5xOG56QzExZEl3U2VfbUhBWlEtMVFqRTkxZkxKOXpjLXJ3NG5IY3otREprN0tJdGpsYldlTEw3VnhqejBvWjdWZ01JZ1B6Q2xEMlVOd0pLQlh5WGlCeFo4?oc=5"
-      },
-      {
-        "title": "Polscy żołnierze pojadą do Danii. Jest zgoda prezydenta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjNqellTZ0hRa3hZTjB5TU1NaHdHdVFDUlBZVE10d3ZnNkZwLTJhWEpjajNST19KZ2syTENLTS1FVUlZNFo0aHVzcWpPTkpBMGJWbDlsQ0VxcXoyM2w4QWYxMGo0V1lrUVZKQWJYMm1jSk5UUlR4S2wwMUsxQ0tsSGlZYnIxNGVpdzRPZi05SFJwQkxDaURZMWJZRFhQX25sSVY4?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-01 16:13:45",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Dariusz Matecki nawołuje do ujawnienia danych policjanta. Jest zawiadomienie do prokuratury - Onet",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1o0alkyUXMySkdfVzM2UjBsV3FTNXREd1lkTFBfelNxNHh4ZGRSRGhPYmpaZDB5ZGRxa0xqdk55ZVA1dFZpMnFsVk1iX3h1NXRhZlBEUW0tdmJXelJaSDVNNXlWT1I5RGNHNTRnQUZhVXV6TmlWVUhiM3R5WDdpdVhJM3dpamZVZVRuRTFSbnVqbTlIV2I5eGJBekVoRXIwNlRZbTBaTzROUi1PbnhGWmVzd0pVWHg2RjJYdmRtOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-03 19:11:09",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6253,
+      "EUR": 4.2559,
+      "GBP": 4.8784,
+      "CHF": 4.5527,
+      "JPY": 0.024604,
+      "AUD": 2.3951,
+      "CAD": 2.597,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 444811,
+      "DOGECOIN": 0.934469,
+      "ETHEREUM": 16336.38,
+      "LITECOIN": 434.04,
+      "RIPPLE": 11.02
+    },
+    "indices": {
+      "^WIG20": 2862.96,
+      "^WIG30": 3725.45,
+      "^WIG": 3725.45,
+      "^NCINDEX": 285.22
+    },
+    "news": [
+      {
+        "title": "Donald Trump stawia Hamasowi ultimatum. \"Inaczej wybuchnie piekło\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0pXNkVmMDdlU3c4UEZ6aF9sRF9Cd1dQNVJIOHFzOU01R2VFY2prVnl0eTJxaXpzRFBKNmVuVmVoQV9hX3Z6MHptT0lnRndob1dWbzBidEZxUVlSRHFUZm0xVnJ0VEJPUTUtYUt6amlsR2QydXZVd0h4emgzRkRlTm5CNk9PQzRKX1dCa0lsLTFyakJNR3ZBZnN4aktTRHpBMGl1c0ZZUlh1U1lzeTM3X0p3SlZYVkp6U2VuQUkyZWF0aHRM?oc=5"
+      },
+      {
+        "title": "Sikorski kpi z przetrzymywanych przez Izrael aktywistów. Przy okazji zadrwił z powagi MSZ - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXhoekFjbE0zYXNqZjhJWVlXWmVGWWdQalBqVjd3N2Jxd2lpVnVkQktHZ1E0cF9OdjhSMW53alFKSXB0aVRlVm1sYXhqcHp0VzVmSm83M0tiZU0wX3Vqb1Y4QzE3ODhxOEFCeTdsWTJVT0NWdktjblFRT25PYXZ5WURhSTNBRkQydnF1ZkJLYl9Ib3ZvUXJiWDFhbnNZN2t2Mm4tVFFJblRUZw?oc=5"
+      },
+      {
+        "title": "Polska ma kłopot z wyjaśnieniem. Cały świat broni ukraińskiego nurka - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZThuVW5SWVJ4TE9yM3NvS1JGaldNZTgxUjhvX3FZS04zM3VyeW9rTzhncGc5TzZ5YmRoeUNwdlZWSzNtWTFONlBnWDdGQlpmRUEzeldrSnN4ZkFGRUJVS09UMklISW5ReUxZTGxFSmx2YkZxcE1HeE1tTjY5ZTZsS3JYeHpSRFE3NHgtTWpQRHExVW9fQ2xvbzdRRUpjRXVFZjdkeHA3cXNERTJORzNz?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia walczy o stanowisko w ONZ. W tym celu poleciał do USA - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWllLVY5RUY3cFY5MTNvYTNJYnRmaE12VGUwaldvUkZkT000ZU5QQTJoaktLRGNVS1pFS2J6T0pHRkVVNkVCR19PNS1KaEFoTjNJcUY2MUQxaWhwTUdLWlNMZGJiUU5kS0ZjUmFCYkN4MlFmZGR2dzc4TWw3QUo2MDRielhrQ3BwZFR1QzNUQU5lcGI0OEhEY25ENXlZNUpwdGF3Nmc3aWwxYmJYajgtN2hZUHZwSG8xZXN5QjcxQmVpOWo0Y3c?oc=5"
+      },
+      {
+        "title": "Dariusz Matecki nawołuje do ujawnienia danych policjanta. Jest zawiadomienie do prokuratury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLUIwbDFxeFJiYXR5X2ZHZWV4cWhWOFJtQTJDMU55b1RiSXlUeV9weDJ3WXlleFh6WmJCSGFiQk5zVmRqUFJ4bHBlN3ZWTGJsY2h6bXMtRmZhSDR3Skhjd1pKem1LU0lWb0l0ZGdDRG1SQk1OeHN3MU1tLVZaTWJLSWxLZnp3SkpORzJoQW1UcUJnOWpHODlGdHlZWGx3ZE5ncTNWQVJDU2I4a1dIZTUyb1lLUnh4VEZ4dVJUQkJ0eTk3akdyVTYyQ0hTSmxoN0FBYzJBZkNn?oc=5"
       }
     ]
   }
