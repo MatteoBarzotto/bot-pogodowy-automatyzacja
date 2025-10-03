@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 21:10:52",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6315,
-      "EUR": 4.2692,
-      "GBP": 4.883,
-      "CHF": 4.5616,
-      "JPY": 0.024562,
-      "AUD": 2.4004,
-      "CAD": 2.6108,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 413620,
-      "DOGECOIN": 0.838455,
-      "ETHEREUM": 14957.28,
-      "LITECOIN": 382.82,
-      "RIPPLE": 10.34
-    },
-    "indices": {
-      "^WIG20": 2827.17,
-      "^WIG30": 3665.35,
-      "^WIG": 3665.35,
-      "^NCINDEX": 283.87
-    },
-    "news": [
-      {
-        "title": "Donald Trump do amerykańskich generałów: jesteście gotowi poświęcić życie za USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3ItZ0hBczNvcldRSHVoQk9wbWE3V2RUSW1JenBwcFJpWkczcXNaX1oxVVVWRmY1UndfSmxoWlBxTGE1cEo1a0oxTnRWQkoySWRvZHFQMVByVHc2MklsUnFuWmgxamtOZ3Q3aTRMWS10Qmg4MkNGUGctQjFGaW9fZEYwYmxHWlhuSF92clRDYTYxYkZySHV4YjhGdjJ3ZWFxeTJBVGpwQW5Gdw?oc=5"
-      },
-      {
-        "title": "Viktor Orbán zwraca się do Donalda Tuska. \"Grasz w niebezpieczną grę\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQncyVU9pT0ZIVEZ3UDVKZ3A0ZFNDVGdBWG5CNWtoZmlOSFlCWE5FQXRFNGllcWs5d1hNN1ZUdW84ODR0SFp5c29PZkFZU1VXRmtsQmNGbHZGSVhiX1Izcl8wN0pxSVRZR25iWXEyU3g0Z2EyS09YbDU0MWtZSmoxb1JwS2dmRWpFUHoyd2F6V0lmMWR5MnRPTmRqdVlsbkdxVnFxem1QNjYwdUM4Wnc?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia liczy na posadę w ONZ. Tyle może zarobić - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3ZmNmVWcVpPZzUxQVJNWF9DMUxOMzQ4bThjLVktS3pKcXRmM3h5S196RHBXcmE5aWstSDVGOWpZNFBrZmw5TE5sclNWcVNtVnF2ZnpCVUwyTVktVnJLazg2ZXdtQ3QxSlJmOXMzaFhYRkt0eFg4Mnp6dmhmUk1IdDlsOHlNVEJnRFFmNTRGVS1pLWY3Q3N6akFjNDl5cTRTcGhfaEJsZjJxaThHOFE?oc=5"
-      },
-      {
-        "title": "Wysadzenie gazociągu Nord Stream. Podejrzewany Ukrainiec zatrzymany w Polsce - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWJ4MXpCTllJRm1UUGpRbm0wbjFLRjZTRjVaN0hHbWZjcUJfWXFKeG5zUk9iZVBxTFVBbld4eTUtT0JzMFVZTHBXeENrWUxtWVBLTVc4dW8wZkhLUnZqNER2eVhnZDdhbWZNSjY4LXp4MnNLSDVmc3RjT3F6RjVseHBfaFNlb3gtcVdFYmNNUXpueWUta0FuTW5QdjNpSE9mWGs3REhERzZlZ29jT0NxbE1Icw?oc=5"
-      },
-      {
-        "title": "Nowe informacje po tragedii w Prusicach. Adam Sz. zmarł w szpitalu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVdiZk1lNzBQeEQ2XzhQdmFTNkNxUlExakVDUEQ4WGNZQXNJcFc1bTBLSXBUMmdyaGFqX2x1SjB3UHEyUGxfUmQ2bW8yb285MW51YTFDVWUxck1qX01NSFBJNnpyYm04aUxjNXQwYVNaNTUya3g4TkNQNGoyMmNHZExnMHQxb2JVbEJGMWc3czcxNkxlVEhtb2l4UlhmeHFlQmViWDk0dUVrYXM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-09-30 22:14:38",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Game changer dla Ukrainy? Ten plan wywołuje w Moskwie furię. \"W języku rosyjskim nazywamy to po prostu kradzieżą\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTV0Z1k1SlA2VllGN0dRQUE3NzBocUpHTEtvZGJUMmFuLXFfOVM4cjQtNDdOSVg1dXctOHBTTlNzT1A3MGI3TzlfemxodkVXQXVfd0JyNGFpYzV4T0pjX1YtVUNFWWNWSjJFZG5lVG9iVmludUtsQ1M0SXRqYmdxVEpleHZEUWtRc0dRcGpFaFZ1NFJkMkJBbDdnRWtiV1VhNk1GU21GSTFuUU1IcHU3OWNOdldva2lq?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-03 03:01:29",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.621,
+      "EUR": 4.256,
+      "GBP": 4.89,
+      "CHF": 4.5475,
+      "JPY": 0.024665,
+      "AUD": 2.3973,
+      "CAD": 2.5985,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 436643,
+      "DOGECOIN": 0.946601,
+      "ETHEREUM": 16242.23,
+      "LITECOIN": 429.66,
+      "RIPPLE": 10.98
+    },
+    "indices": {
+      "^WIG20": 2861.62,
+      "^WIG30": 3711.33,
+      "^WIG": 3711.33,
+      "^NCINDEX": 286.51
+    },
+    "news": [
+      {
+        "title": "Sikorski kpi z przetrzymywanych przez Izrael aktywistów. Przy okazji zadrwił z powagi MSZ - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXhoekFjbE0zYXNqZjhJWVlXWmVGWWdQalBqVjd3N2Jxd2lpVnVkQktHZ1E0cF9OdjhSMW53alFKSXB0aVRlVm1sYXhqcHp0VzVmSm83M0tiZU0wX3Vqb1Y4QzE3ODhxOEFCeTdsWTJVT0NWdktjblFRT25PYXZ5WURhSTNBRkQydnF1ZkJLYl9Ib3ZvUXJiWDFhbnNZN2t2Mm4tVFFJblRUZw?oc=5"
+      },
+      {
+        "title": "Protest przed Ministerstwem Spraw Zagranicznych. Policja zatrzymała uczestnika - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmJaR29aQzU5OWwtNjE1Sk91dkJxZ1ZLUWg3WUt1Z2Z0SlR6SGNVZU84WnRBdTdXN2pfN0NHaDQ3SHBuNUhlOTRWX0tKaTd1azk5bkM1dFVnNHdzRG1JXzVfaWNVTjFycm9UWlpRRVFyYk82YzJONV9nTlJRQ2h6WkR0TGI1OXB2VFBKNEtyTG1ZYlRVSktUY1BXM3J1eFk0dDVxUUUzNkpQLVI1Xy1vbW01QlBLMy1W?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Szymon Hołownia spotka się z sekretarzem generalnym ONZ - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLU1kRFR2cExtTXJjemxVM3k1ckl0YVJxdVRKM0xNWVpORzViV2FYMkR6V0Zsc05aR244NGFHZFVYMUNsSjVwR0NKM1hFM2RyalZleFpZRDF1SkNnbjdEbWdYZDQwRWpad0l1bjBBSGM1S1ZzZHg3cktWVkQ5cEZONHVHSElOSTFDb2Itdlo5LW1EUWMxZFhsWFE1cHg4U0U5MDh2UFdKT3Y2dDctLUhrX2IyNjR5SG1lT1JRMFFxNXc0UQ?oc=5"
+      },
+      {
+        "title": "Tajemnicze zaginięcie żołnierzy w Norwegii. \"Nacisnęliśmy czerwony przycisk\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUl3ZVdQckc0aXVCazRfaERPRXRXd0pZeWZwYWRVeENrYkxMSkxZOWtIcTJNc3ZIZDVQbDR6Y2paZ24xRWw1QWEyb1pyTC1MRnFrRm9KUDkxWG9ZMDBNbWV5NVdVNjJpZW9jcE9CbzNvSHRBTlg4anBfME0yWVBiaEdNOHJ2dUZxZU9pWHE0aHlzaXhRVkJEODdqWGdYS2tFbUk0?oc=5"
+      },
+      {
+        "title": "Putin może spać spokojnie. Największe państwa UE blokują antydronowe zabezpieczenia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0hyeEpuMHlMT0ZjMEpHeTJhQW1ZZ0JiSUpZZEF1elI1c2Q4YkZGT3I3RkRoNUxOR0piSm9tRndKZzVYd0w0elF3SDNKWG1BQVp0SFdxU3FrWUkySmRjWjBnNERNMjE1ZmZQc3Bha084blM1NHM2cGlxdnBrb2ZrNFRnbEFoVFh4MG1wX3p2d29oSTlNQ1pLUmd1NWFNbGNRSE9iWG1INlNleVVEeXJTTktvZWI0aGhzV3F3N29fWVM?oc=5"
       }
     ]
   }
