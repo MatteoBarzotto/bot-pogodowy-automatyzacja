@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01 08:21:00",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6315,
-      "EUR": 4.2692,
-      "GBP": 4.883,
-      "CHF": 4.5616,
-      "JPY": 0.024562,
-      "AUD": 2.4004,
-      "CAD": 2.6108,
-      "CNY": 0.5101
-    },
-    "crypto": {
-      "BITCOIN": 415469,
-      "DOGECOIN": 0.846787,
-      "ETHEREUM": 15025.14,
-      "LITECOIN": 385.81,
-      "RIPPLE": 10.32
-    },
-    "indices": {
-      "^WIG20": 2827.17,
-      "^WIG30": 3665.35,
-      "^WIG": 3665.35,
-      "^NCINDEX": 283.87
-    },
-    "news": [
-      {
-        "title": "Shutdown w USA. Amerykański rząd zawiesza działalność - Onet",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZHRGtPeG1tM3E5UU44Z0p2OEktUGE4d3NYNVVVOG0yLVdRekhhZHNRTE5XX1ZMSTFXSk5vYzZTRXpEaUZsYTZ0TUFQdEVBbWN5VHVIOEtvQndIS3hyeXZvRU1CaWw2bFlKYjRsZ1ZON3llWmdEWUhpdVFGUmczTEMzUVI1MU10TUlRLW1yNTdZc2g0VjUtbw?oc=5"
-      },
-      {
-        "title": "Rewolucja w polskich sklepach. Rusza system kaucyjny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVc2TEJMN29mZ3k2NDBNcnFxdlk3UW4yb0ZXM2tDNHRqbXMyaXRpREhFNnpWWXF1aVlYV002aG9vNTR0T3JMbjFFS0U2UnNYN25TenhJOWJLNzF1NFloNmZlTG9SWmNkLVplTE5NN3dpQXFQZVJCYXFKMmpONGZESVkyWUE1Rnh0MHVVXzVFZGFCQlJoeWJDMzQteGlRSjU1VS1QLVRVelhQWkJuMXc?oc=5"
-      },
-      {
-        "title": "Wołodymyr Zełenski o sytuacji w Zaporoskiej Elektrowni Jądrowej. Alarmujące słowa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzBKWERQbzFsd1JkaU83TXI0Nk9xdnJkemlCc1pqbzNDWFp1cUdfYU1naUN4UFBiNzdaN3lnbFJORXhEMDhpenBQWXQ4RXgzSUdzR2ptLXNaTkJOQkJFNWFicGFrSnNiangtRHNYLVd1TmcyMnNHVDJEdF8wSDJ4RkNnQl9VUDNtc3ZWZXJ2Z1ROQS1xM0Y3VUt6Q09uS1J2WHhTMUUxWjl6Q1JEYkFTaDllSFZhRl96cktKdW4yLWJlR1VKSV9tTUhuN0FfRVVWUnBZ?oc=5"
-      },
-      {
-        "title": "Koalicja Obywatelska przed Prawem i Sprawiedliwością. Partia Grzegorza Brauna w Sejmie. Mamy nowy sondaż - Onet",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFZNdU1zOXhJWnlGSGgtY0prempJV3A3eGhKN2M4aUJwUTN2YlN3SHRKdjVWQ1JOLXJvV3Y3d0NMclQwWmczNjA1d19BM2p4MjJOYU5QUWxjemVHVk01MnZRSHNmdkJvSlBnN2x5N0U4NVEtdkJqNUFuZUNUb2pPR2NCNk1qUjNxVHdoUmVXT2didl94a1Vv?oc=5"
-      },
-      {
-        "title": "Dyplomata ocenił szanse Hołowni na pracę w ONZ. \"Nie postawiłbym dużych pieniędzy\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2JMM3F5ajQ5YTkwT0ZUa2s5V09xNjllVThsQ0w1RkJjWjRwWGVwaGVUbGdiUG1MMnVqaWVFR2FLUHFsVjhSVW13Q09CcHRndnAwQ0hjOTZxRENfa0Z0M3k5VTZ6TlhxZHBzX1JZSW1hdjM4aHQzN05NVzZrMU9ZLWxSbkVLVFM5X3hESHhVN2ZaOUJ1MzFXemFVTWZqLWFVbmk2eg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-01 09:14:09",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Szkoła strachu. Najważniejszy był awans w rankingu . \"Syna tam nie puściłam, jest zbyt wrażliwy\" - bialystok.wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXVKNTBEQ19GOEhjSzJza1JVYUIzVXRtX1I2QkFTMGthM3pTeGVfb042Z0hXZUdWb0pPdGJBbXE2WFY0WjJHTVNRM0x4Y2c2elBOdnJROEU0cmcyWTBxY1dJLW5GZ19HTEh5NnE0OUdwWEN3dkVEQUhTeENnaWNxRWluYnRFVVplX2ZfWnBjUGlMSXZQazVMd25YLWJ1U0Z1bGp5Q3A0YUp3dG84SmQ5X3ZuOVBDYVFT?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-03 12:14:00",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6253,
+      "EUR": 4.2559,
+      "GBP": 4.8784,
+      "CHF": 4.5527,
+      "JPY": 0.024604,
+      "AUD": 2.3951,
+      "CAD": 2.597,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 436446,
+      "DOGECOIN": 0.930671,
+      "ETHEREUM": 16212.52,
+      "LITECOIN": 425.09,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2881.0,
+      "^WIG30": 3743.19,
+      "^WIG": 3743.19,
+      "^NCINDEX": 286.5
+    },
+    "news": [
+      {
+        "title": "Władimir Putin reaguje na słowa Nawrockiego. \"Polska popełniła wiele błędów\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2xSSTVPbmZyWkFYaEt5VTcwWEU2M1ZkQzc0cDQzUkZEVTcwNXlvaXEtTkdvblNRN3UwTHE3UjdfOVR3M0FsU2prWW9wR1ZVMHY5dk4wODNDSnBSRmg3QmdHTUkyMjdNTjN1M3FBZzgxRkxIWm0tRU9ZbEtzRS1YSHVBV1ZhaTk5YnZxTGNGVmdObU1fMGp3THhmcGtXLS1uZXpPUE5GQnNiajk0amFMY1NB?oc=5"
+      },
+      {
+        "title": "Hołownia już w Nowym Jorku. \"Nie jestem zupą pomidorową\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXB6S3dTWHV6Z1JNelpqMzduYnAzSXFlRDlVZW1QZV90R1RrQjI3Q3JOMUVxTFA0LXFFc3JxUUdXZVJpdl9OMlZjbnNxaU1QdV9TanBqMWFPSWdMaFJQWTBaMXMzY2xLUFpUZUtVeVY2V3ljTWR1SmVocXdfcm5IMDdwUWhGWUVLcUR0TW9JcjZESEZ6UnphY0k2eFY?oc=5"
+      },
+      {
+        "title": "Akcja CBA w parafii. Milionowe oszustwa, proboszcz w areszcie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXV2MTdUMEhtQy14ODBBbjUtdVdvMjBqbmFGbUcwcDJTQmR0S291NTNYcXh5a1JlM0VPQUFfTGlRWFp4ZHJhaV9MR3RYMXpDVVA0RnB0aGlrM3hMaC1USHVlU2JVdVh5a1VrZDFhMWNBTHJfbDY4eWN1N1BENjdTZm5rTGxYUmREVF8ydFk5MTRCMHM0SUNWTFRpMkN4dmgyYUVmdGw0SUhqTExLSGlHSDFEWTEzSFU2b2tfUA?oc=5"
+      },
+      {
+        "title": "Odnaleziono wszystkich żołnierzy, którzy zaginęli w Norwegii - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEVkRkpKUDRETV92Q0NTbFBNX25Dc1BaZmcxVVpSanlfM0c0U0t3VEN4Z2xNT3BLazJiYjRvaTZBUkFiWWpOckZhcE9hdjlMZF9WamJ2cF81ekZDcHlPSTJidTZpcjRXTUxYajBqblRZOEZDUjEwdVhEN3FUNGpTS3NHWFBIM1N2S3U3T0ZJSlFfR24tb0k0LTRjNUlnemJQeW1fdEZpc0V6X01ZZnVFM0R3?oc=5"
+      },
+      {
+        "title": "Sikorski kpi z przetrzymywanych przez Izrael aktywistów. Przy okazji zadrwił z powagi MSZ - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXhoekFjbE0zYXNqZjhJWVlXWmVGWWdQalBqVjd3N2Jxd2lpVnVkQktHZ1E0cF9OdjhSMW53alFKSXB0aVRlVm1sYXhqcHp0VzVmSm83M0tiZU0wX3Vqb1Y4QzE3ODhxOEFCeTdsWTJVT0NWdktjblFRT25PYXZ5WURhSTNBRkQydnF1ZkJLYl9Ib3ZvUXJiWDFhbnNZN2t2Mm4tVFFJblRUZw?oc=5"
       }
     ]
   }
