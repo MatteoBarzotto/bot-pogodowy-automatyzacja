@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02 03:01:35",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6245,
-      "EUR": 4.2586,
-      "GBP": 4.8812,
-      "CHF": 4.5542,
-      "JPY": 0.02463,
-      "AUD": 2.3974,
-      "CAD": 2.6041,
-      "CNY": 0.5099
-    },
-    "crypto": {
-      "BITCOIN": 430488,
-      "DOGECOIN": 0.898316,
-      "ETHEREUM": 15754.49,
-      "LITECOIN": 429.28,
-      "RIPPLE": 10.7
-    },
-    "indices": {
-      "^WIG20": 2850.42,
-      "^WIG30": 3694.68,
-      "^WIG": 3694.68,
-      "^NCINDEX": 283.35
-    },
-    "news": [
-      {
-        "title": "Flotylla humanitarna blisko Strefy Gazy. Izrael przechwytuje statki - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUI3REZ6djVNODJXMjJWMEdJVmdHRnItX0lWdkJHUXNjRC1fNnZQZjRVR2JuVEg4am51b0dsTzdZaVkzTlB1SUFFZHZXQ21VR3JZc3dyd2VoQXBMTzcxZmg2b2tTZVE2dVdoSVlVaDZDYVFqdkRuZ1V3ai14VG04Qm5wU2dDY1RJUm1CVl9MTWhOdzhnNFI4OUhKbG5pZEJVM3Jkdi0tX3lXU1U?oc=5"
-      },
-      {
-        "title": "\"Mur dronowy\" na wschodniej flance NATO. Europejscy liderzy podjęli decyzję - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeENlNXRIcmJwWDdkajhKbnlIdmJrOS1kX210RVFLcFAzZUxPWFA5U0NGdWd0aWVPTWdxQVJWQkJhY2RKcWlkTU5GY21MNUxoYm5LX2U4Y0p5dzNNNWlEZnJxTHVZQnN2VjBqV0pheGhwVDVCcWZEOEJtZTBjYU5qWm9MSFA2REdrZHdiX1AyTHZKbVN4bXR5RHBjcjNWX1hoVGY3alN2ZEMxX29oSlpfdklGSHZLZ0poT0V2aA?oc=5"
-      },
-      {
-        "title": "Blackout w Czarnobylu. Awaria zasilania w elektrowni jądrowej - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXVXOWFkMkJsR1ZaQzFQU3psZnVrWU4xV2VEaGE1ZGljV0NxR25tbS1KeEpoXzAwekFfZlJFWjFzYjBLSFRqU0piUW9TWGJLYUktS2c0cG5pQVlTVU5idEJKMHBDUFh6b0xyNjZHYVNJUmtnSVRFUUFsMWtqaFJBNk00c1R3bXo2OXQxNXJDS1d6X3dJcW9OTXlWWHZHSzVQYnJjMQ?oc=5"
-      },
-      {
-        "title": "ONZ to co prawda nie jest \"Mam Talent\", ale mam dobrą wiadomość dla marszałka Hołowni - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2F2Wkxld3lxMFdaVUFKZ0N3MjgtSWVOVjVwemVkZHlWSVR2dGlpdXFlaTE0VkxPRlBLRlhtUExSNldwc0I2eWRiQkRKd2hzVEJwOVgtbHc2cW1wNTI4dXFkcmpoRnVUbGlzcmJwNERUMU10eFRacDl1NldLazlNYndSSHJRSWFLRXJhTjVidmo0Vk5QVExMRXVzM3hkYlh4ZUx2djVKcDVyN0VxTC1Vdw?oc=5"
-      },
-      {
-        "title": "Skandaliczne oświadczenie Ukraińców. Chodzi o propozycję Nawrockiego ws. UPA - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR20wbG1vbkZSOGRJNGt3Z2gzZFRyVFFsLUtxUTJ0clJrVWI4TFlORkNjWkJtSmJveW1CUHRPaGluQUtfNHAxd21yR3ltZVp0R0lKZllIQ0V1aGVIS0pocDJvUTA1N3dTQlJRQjZ5aXFnWkltUFZxSVlxZl8wU2dKLWlrM1V5eGhBYmUtNGRvN3VCT3RWa0R0SU5sZ2o1UUxqZnVTWDkxTUJUazdaZHFwUtIBrwFBVV95cUxOQ0E2c0QwTHFsalNqZ20zdW9PQlVVTFhxQTlTQjdmbjR4RjU4dm05dVZjbnd1cGsxdTd0Q0VGVmVlVHcwdzhKQlEzdHdUQlV5X2UyZ0tPWW5XeVR5X1JkUzRtSGQ3R2h1QmtKOHZhWDlBWlhjOUx5UVIxRTByZ1pIeXFybXRwaHduVERScGxlckl4N2NwNjFkSi1Dc0plQWQ4ZXpDcWp3Zm5QZHFVZzZR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-02 04:52:41",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Żurek zmienia składy trójkowe. Czy to droga do podważania orzeczeń? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTdrbi1pVGc1NzEzSDRldWdjRk5BY2FWTkR6X3BrVkZyVDVrWWhnOE5HRWZfaXcyWmJuMlJtQ01RQXozRUlxcURxQU83dlBMQlI3SzFWWnFpZk1LTFdYNHZveHNCVWF1bFhFbklRanVCWWdmdkdMVVJSWXc3X3RrMmpYNGRodVZMcGthWXhHc0xHdlNlUWVveElvV2htY2NKSFV2MVhmb0R0eWVieW43R1VDaGxpZWhqdFBiWDBGTG1XMW1xWGZXbTN5MVo?oc=5"
+      },
+      {
+        "title": "Niemcy. Alarm na lotnisku w Monachium. Przestrzeń powietrzna zamknięta - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWgwTDIwM1Bod1FKMkNfQWg2Xzh5ejIzTVEwc2hqTlRwaEczWHUyMVNrLXE4UVRHdF9TVHBVQ0I3aFRtSkV5eGNIMjlMSzI4dmUyZUVQZWlCQkQ3dFdYMDBjWVoxTGFPSVpUNTFDQ0l6OFl6Y1ktYmotc3ZEQ2JVTXhVb1MwU0V3aWtYeFA2aTI0dUkyaU9tLWowYXQzWG51RUhSQkt0VjBhR240OUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-04 07:12:18",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.6253,
+      "EUR": 4.2559,
+      "GBP": 4.8784,
+      "CHF": 4.5527,
+      "JPY": 0.024604,
+      "AUD": 2.3951,
+      "CAD": 2.597,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 444278,
+      "DOGECOIN": 0.918657,
+      "ETHEREUM": 16323.79,
+      "LITECOIN": 432.72,
+      "RIPPLE": 10.95
+    },
+    "indices": {
+      "^WIG20": 2862.96,
+      "^WIG30": 3725.45,
+      "^WIG": 3725.45,
+      "^NCINDEX": 285.22
+    },
+    "news": [
+      {
+        "title": "Donald Trump i Hamas o końcu wojny w Strefie Gazy. Europejscy liderzy reagują - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc09TVTZDQlNQS3RUSDBfSVFEaEZ4ZFlTeG1mNWpnNGdMMnpoMzJVaG1CZlcta3JuZVNwNFRtbXVmNU1YS0FzS2tfVHh6LTU1UzdDN3UwcWM3TjlJNUJIOEEydTBvaEl6RDcwMlBucTN6UE1leTl1TGlyVVhlNGU5NUVSSUpKQWc1c2N4VUtRRmd1NU05WUZ4UWtOLXBBM3FxQW1WQTViZVlpUWlhRUp5UGowNWR0ZURoenBSQTNQVERtNUJqR0E?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia spotkał się z szefem ONZ. Zdradził szczegóły rozmowy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3Fiay1USGYzWTNzMXV3Z05VVFpGN1drS1JRU1ZoNF9hY29icE5vam1kM3V0emk1a0UzWk04Y1pEc2xaaGZFYjVxUHNYSXVWUHVlakN2TURsZXFDZ0Zsc0JhcV80YktfUmNEb2ZQWEc4d05MaTMzTlJjNEVwZ1lPcFByU2tsSWVvTDk2SGItT1ZBZ3dpVVpBTkZvMGV0dm1HVVNrWDBab1ZndXFxelZ1LWM3UWpSVVpBOVY1ajRRSXRWS3NtQWx5WGFR?oc=5"
+      },
+      {
+        "title": "Żurek zmienia składy trójkowe. Czy to droga do podważania orzeczeń? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTdrbi1pVGc1NzEzSDRldWdjRk5BY2FWTkR6X3BrVkZyVDVrWWhnOE5HRWZfaXcyWmJuMlJtQ01RQXozRUlxcURxQU83dlBMQlI3SzFWWnFpZk1LTFdYNHZveHNCVWF1bFhFbklRanVCWWdmdkdMVVJSWXc3X3RrMmpYNGRodVZMcGthWXhHc0xHdlNlUWVveElvV2htY2NKSFV2MVhmb0R0eWVieW43R1VDaGxpZWhqdFBiWDBGTG1XMW1xWGZXbTN5MVo?oc=5"
+      },
+      {
+        "title": "Izrael deportuje uczestników flotylli. Polacy wśród zatrzymanych aktywistów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOW8zblM3QXdDVHZWaV8yeFYyT1BySVdnVko2OHV0TFBkelZTUVh1alhFZVZNc0VYbkI3dXhubkdLQlB6dlpDWkNJYkRZb2FkMkppVGxaM3RnclRwNjBfS3lMaDJ6OXBBcElrQjQtemEzZzlfWnJ1NmNFVnZtcFAySXNyNXVSNWRjMkFFazFJVVZ4U0dVMzBXanpPSWRiTVNNT0xwRm9zV0ZiUzRmbUtn?oc=5"
       },
       {
         "title": "Niemcy. Alarm na lotnisku w Monachium. Przestrzeń powietrzna zamknięta - PolsatNews.pl",
