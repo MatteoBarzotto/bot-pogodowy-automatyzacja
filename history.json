@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03 12:14:00",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6253,
-      "EUR": 4.2559,
-      "GBP": 4.8784,
-      "CHF": 4.5527,
-      "JPY": 0.024604,
-      "AUD": 2.3951,
-      "CAD": 2.597,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 436446,
-      "DOGECOIN": 0.930671,
-      "ETHEREUM": 16212.52,
-      "LITECOIN": 425.09,
-      "RIPPLE": 11.04
-    },
-    "indices": {
-      "^WIG20": 2881.0,
-      "^WIG30": 3743.19,
-      "^WIG": 3743.19,
-      "^NCINDEX": 286.5
-    },
-    "news": [
-      {
-        "title": "Władimir Putin reaguje na słowa Nawrockiego. \"Polska popełniła wiele błędów\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2xSSTVPbmZyWkFYaEt5VTcwWEU2M1ZkQzc0cDQzUkZEVTcwNXlvaXEtTkdvblNRN3UwTHE3UjdfOVR3M0FsU2prWW9wR1ZVMHY5dk4wODNDSnBSRmg3QmdHTUkyMjdNTjN1M3FBZzgxRkxIWm0tRU9ZbEtzRS1YSHVBV1ZhaTk5YnZxTGNGVmdObU1fMGp3THhmcGtXLS1uZXpPUE5GQnNiajk0amFMY1NB?oc=5"
-      },
-      {
-        "title": "Hołownia już w Nowym Jorku. \"Nie jestem zupą pomidorową\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXB6S3dTWHV6Z1JNelpqMzduYnAzSXFlRDlVZW1QZV90R1RrQjI3Q3JOMUVxTFA0LXFFc3JxUUdXZVJpdl9OMlZjbnNxaU1QdV9TanBqMWFPSWdMaFJQWTBaMXMzY2xLUFpUZUtVeVY2V3ljTWR1SmVocXdfcm5IMDdwUWhGWUVLcUR0TW9JcjZESEZ6UnphY0k2eFY?oc=5"
-      },
-      {
-        "title": "Akcja CBA w parafii. Milionowe oszustwa, proboszcz w areszcie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXV2MTdUMEhtQy14ODBBbjUtdVdvMjBqbmFGbUcwcDJTQmR0S291NTNYcXh5a1JlM0VPQUFfTGlRWFp4ZHJhaV9MR3RYMXpDVVA0RnB0aGlrM3hMaC1USHVlU2JVdVh5a1VrZDFhMWNBTHJfbDY4eWN1N1BENjdTZm5rTGxYUmREVF8ydFk5MTRCMHM0SUNWTFRpMkN4dmgyYUVmdGw0SUhqTExLSGlHSDFEWTEzSFU2b2tfUA?oc=5"
-      },
-      {
-        "title": "Odnaleziono wszystkich żołnierzy, którzy zaginęli w Norwegii - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEVkRkpKUDRETV92Q0NTbFBNX25Dc1BaZmcxVVpSanlfM0c0U0t3VEN4Z2xNT3BLazJiYjRvaTZBUkFiWWpOckZhcE9hdjlMZF9WamJ2cF81ekZDcHlPSTJidTZpcjRXTUxYajBqblRZOEZDUjEwdVhEN3FUNGpTS3NHWFBIM1N2S3U3T0ZJSlFfR24tb0k0LTRjNUlnemJQeW1fdEZpc0V6X01ZZnVFM0R3?oc=5"
-      },
-      {
-        "title": "Sikorski kpi z przetrzymywanych przez Izrael aktywistów. Przy okazji zadrwił z powagi MSZ - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXhoekFjbE0zYXNqZjhJWVlXWmVGWWdQalBqVjd3N2Jxd2lpVnVkQktHZ1E0cF9OdjhSMW53alFKSXB0aVRlVm1sYXhqcHp0VzVmSm83M0tiZU0wX3Vqb1Y4QzE3ODhxOEFCeTdsWTJVT0NWdktjblFRT25PYXZ5WURhSTNBRkQydnF1ZkJLYl9Ib3ZvUXJiWDFhbnNZN2t2Mm4tVFFJblRUZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-03 13:11:01",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Znaleziono niezidentyfikowany obiekt. Trwa akcja służb - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlRjSnZRdWhKelVhbm1jMURlWUN2RTBRZzJ0MVZWRmcwZ2EzT3gyMHljVi1XaHRRUTc5SkZJUDd0QnB5dUd4dVE5dmVPNGVtbEJuOXF6NTIwVVFia1IzYnVfZ1kzTUsxa2ZKbHVLRlM5MnJWWXZlVGcxaWpnT3llVFB6S1QyRnNnR0JmTlVEY1NWV2J0YzI4VjNac1BMclpWWmU0bWZLNExhV1Y1YlAtbVJCZGZhTzdJNTNnN1VHWjA3UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-05 17:11:32",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6253,
+      "EUR": 4.2559,
+      "GBP": 4.8784,
+      "CHF": 4.5527,
+      "JPY": 0.024604,
+      "AUD": 2.3951,
+      "CAD": 2.597,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 445207,
+      "DOGECOIN": 0.925919,
+      "ETHEREUM": 16418.83,
+      "LITECOIN": 434.2,
+      "RIPPLE": 10.85
+    },
+    "indices": {
+      "^WIG20": 2862.96,
+      "^WIG30": 3725.45,
+      "^WIG": 3725.45,
+      "^NCINDEX": 285.22
+    },
+    "news": [
+      {
+        "title": "Zmasowany atak Rosji na Ukrainę. Wołodymyr Zełenski zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHFyX0ZGa2ZzdmltUTZqOTlEcGxmMEg1MFVocE5iaEI5OERCWU9JQ09pcEZRNzZOR0NYb3NwNG40ajkxcmFFY3pEYndCbF96NGJuakJRUG9tZHpzaURrNS13SmFTcEFpcV9xd3RidmJvdEMtMEF0ZVFoVlJOUDA5NVhSSzc3cWdpSWNRTTNSd3RKQ0lmUFVSUFo4RFpRcmpyY1VCTUJKOUdvOHVibEs2aVJuYW5oQUZ2bjUwTHRHb205Y2c?oc=5"
+      },
+      {
+        "title": "Atak w szpitalu w Suchej Beskidzkiej. Brutalnie zaatakowała pielęgniarkę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzNwX2JKTkJtTjRmSUpGTzl6UzFWblk5TTdiOUdiVFJuVmVSOFR1cElkNmlqakxlR3hWV2hCU3duRDNSWExyNzdHYTFiT1A1Z2JZeHlxVGtTaTkyTjhaV1VfZVJWREdnZVBYeU81VTFkUFlLN3pTTHNOYW9wZWo5RmQwRkxKQ2FlZWcxT3RUSnhib3loRVI0MjFQSzVQTXBQNllQcHo0d1JCVnByaVMxbVY5aTVyaUlXWU03T0huUVg1NnNTak9uOTc3cFo?oc=5"
+      },
+      {
+        "title": "Izrael aresztował członków flotylli. Polka rozpoczęła strajk głodowy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlBQdHFJVnNrMUdjRFU3elgyNzJXd2JESHNDQVNLdzU0YWZGWGdsdzV6UW5mTkVEX004MVJMNVIxT3BCM0RzSVhuaU1abGlPR3dPUEp0NVd6bnYtbG1RMDB2RHpnOXpTRU9PY3czYnU0WHhaRDBtYnhrSTJPUmxYR2txemhDVGJqeHBmRkRJQ3h3MlFWMGpWMlpycEZmWXZlNVdHLXBncGI0ZWVISHZvT3lETnJldw?oc=5"
+      },
+      {
+        "title": "Szturm na pałac prezydencki. Premier o \"próbie zamachu stanu\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3RVdGZ6WkdvdnpvRDVVT2VUVGpSUm5XaFpHMHlWVDY1MWkxOHpQMlFWRjAyY2hCR3hEUGwxeG1aVWVzNFBMazJHVFNXSm5CR3pqcW56TXBSb1pIQ2FMZVQ2bFRqM2wwOG1BOFNhUGhyN1FaaHpyemVNdmdOaW9IYS1sbUZVaXVWOWNOY2tCLXlKMWNScnlZYzV2OHlfZjJiOUk1MHhsc004S3ZqNWxzWktScmdxMUJDTS1r?oc=5"
+      },
+      {
+        "title": "\"To zniszczy stosunki Rosji i USA\". Putin przestrzega - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUg4Zks1MG56cU91aC1GV29ja1Zkc1pQaENHbzhUYnlMT0g4OFRRVU1BU2JacDlYbGFGd1BtOWtLTlJoNTgxUEJkSTNtUVdQU3U2THV0aVdQRk5oblJla1pxc19takF3U0Q4VmJraE9BQXBQZzNLLVlIMnVKT0w4VzJxdDVwWlU5cEZTZmcydmJBSEJURTRtMkJESTJiM0lTaFE?oc=5"
       }
     ]
   }
