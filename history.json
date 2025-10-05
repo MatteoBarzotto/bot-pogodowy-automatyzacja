@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03 10:17:32",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.621,
-      "EUR": 4.256,
-      "GBP": 4.89,
-      "CHF": 4.5475,
-      "JPY": 0.024665,
-      "AUD": 2.3973,
-      "CAD": 2.5985,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 433164,
-      "DOGECOIN": 0.924019,
-      "ETHEREUM": 16093.39,
-      "LITECOIN": 421.14,
-      "RIPPLE": 11.0
-    },
-    "indices": {
-      "^WIG20": 2879.84,
-      "^WIG30": 3736.7,
-      "^WIG": 3736.7,
-      "^NCINDEX": 286.71
-    },
-    "news": [
-      {
-        "title": "Prezydent Turcji oskarża Izrael. \"Ludobójczy rząd Netanjahu odmawia zgody na zaprowadzenie pokoju\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNakRweWRpTGpGSHdGUVJUTDBPTW5WWWw1dTJlbnBaY1V3X3EtbENSdUFpSmtDV25iZXJGOU9jbE92Q09BUWEyNG1CUFBLWTlDT0xTNFp0NjZnMGpfaUQ4ektNUVc3NTBOVEt2NUNWQzNXcGczTFlGdDc1cExNNGpNTlFiMTA5WkFqRDhmVzA2LWhscHpzSk1WQTJVZTRfTmRFaGVWaDI0NXUzUjkxWXFZd0dJcjNvbXVFU3hXTFhVWUs2MndQTE15WHFUbXdoTUZnbVBZV3VFQ0VZTTR0WTZmTw?oc=5"
-      },
-      {
-        "title": "Odnaleziono pięciu norweskich żołnierzy. Śmigłowiec poszukuje reszty - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmc5TjA2NmZXS0IwbnVFZ2dsQVd5OTBrTU9tY1FNd25oeGpPTTdMY081REZiMUkyQlBuU2RnRko4SzN0MHdBNHNLN1RiV0IzYzJRSHFCR0IwVnpJSlJSUlR0cERGQkp0NE40MktsZktzblNtTmJpOEZIREZaOU9tTXlWVDRkSTRIRzZhY1RwTW1jZFhxRnN2cmg3d2x4VVFUQ3ZXcW50d3cyNm9PY3I4?oc=5"
-      },
-      {
-        "title": "Władimir Putin reaguje na słowa Nawrockiego. \"Polska popełniła wiele błędów\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2xSSTVPbmZyWkFYaEt5VTcwWEU2M1ZkQzc0cDQzUkZEVTcwNXlvaXEtTkdvblNRN3UwTHE3UjdfOVR3M0FsU2prWW9wR1ZVMHY5dk4wODNDSnBSRmg3QmdHTUkyMjdNTjN1M3FBZzgxRkxIWm0tRU9ZbEtzRS1YSHVBV1ZhaTk5YnZxTGNGVmdObU1fMGp3THhmcGtXLS1uZXpPUE5GQnNiajk0amFMY1NB?oc=5"
-      },
-      {
-        "title": "Czechy winne Polsce terytorium. MSZ ma zamiar wkrótce wznowić rozmowy z Pragą - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHhNMG5qWUZtbDI2el9xaEhKS25NaGJSUTZJaXhVeVN2ZEhJa01BaWRWN0FzRHV4SEJ4Skd5QnQyOWc4NktGTHVwZG5kQmx4eGtvSUNiQmk0Q0ZZRkxPaU5PRU93XzRfMTVyaVl0TDF5Y2xCQzYyby1Vd19hcy1UVFRTeTNJYmhEZDhrcnVrR3I0VHdPTjRZVVFWdHQ2OFhrY05PcUpiT2dEUmctRXJhbFlIRdIBsgFBVV95cUxONm0wNDJxY0RFYmlGTWdJUGdjTVFxa05SRVIyWlpQOEYwTC1aRmZkd0JoZEVOQXE0R0VNYktOLXdobF9haHI5aWdkVmFOYUdERWlsa0p1clRjclYyMUVQZUxlbVFSam9YbGc4UG1kMDF6NXhkcE95ZkVPdXBKMWduMUk5ZDZFZXlCZXZ0a1ZDVDJaaVpRaU1nbEl4d1ZtQi1KMXdyQmpGdEZDMFRtQTBPMnJB?oc=5"
-      },
-      {
-        "title": "Kto chciał ułaskawienia z rąk prezydenta Nawrockiego? Zabójcy drogowi, oszust i gwałciciel - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDRWbGtpenUtR1dHam1taDdvM1Y1b2V1UGthX0lueDkwdmZrb2ZZbEltUzZXajRObkFPNS05dV9mQ0FqS3ZKX2dtM0laeHdhR1EyYkx5Q253NWJOeUUyOFFJUFV6RnZzY0tScjVFYmJhal91UXdZY25uT2hKTU5VUWw2SzExTDJ1VWZpbTZIZ2F3bUF2eHZnU1VoQkRBRVlnUTFyOXo5akZfb2RuRS0walFONXJxTEhSRHFUNWplVHpnVmFlOUlOTEJYSXVKbnZpWUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-03 11:13:34",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "\"To atak\". Polska ambasada reaguje na profanację pomnika Jana Pawła II - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkQwWXZCa2VWN1BnVFh3ek5waU5vNnFleTdmaU53MnY1MW9uU085azNqVzFZcDZNRUZmOXl3QkxPdHBTWDlsbGhadHFzaEJHS0dwTE1GSktZTjhLVGtKQXkwdE9ycHJsVExJczdmUG9ZOE5ZNDZmb2FMdnVWMnhhLWhnNmRJRFNPOVVyS0ZQS193VW1uOS1TTTlaN2JiWGJTNE9zOXFQR2ozODF6WS1v?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-05 15:17:33",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6253,
+      "EUR": 4.2559,
+      "GBP": 4.8784,
+      "CHF": 4.5527,
+      "JPY": 0.024604,
+      "AUD": 2.3951,
+      "CAD": 2.597,
+      "CNY": 0.5096
+    },
+    "crypto": {
+      "BITCOIN": 446533,
+      "DOGECOIN": 0.930911,
+      "ETHEREUM": 16442.33,
+      "LITECOIN": 434.88,
+      "RIPPLE": 10.9
+    },
+    "indices": {
+      "^WIG20": 2862.96,
+      "^WIG30": 3725.45,
+      "^WIG": 3725.45,
+      "^NCINDEX": 285.22
+    },
+    "news": [
+      {
+        "title": "Zmasowany atak Rosji na Ukrainę. Wołodymyr Zełenski zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHFyX0ZGa2ZzdmltUTZqOTlEcGxmMEg1MFVocE5iaEI5OERCWU9JQ09pcEZRNzZOR0NYb3NwNG40ajkxcmFFY3pEYndCbF96NGJuakJRUG9tZHpzaURrNS13SmFTcEFpcV9xd3RidmJvdEMtMEF0ZVFoVlJOUDA5NVhSSzc3cWdpSWNRTTNSd3RKQ0lmUFVSUFo4RFpRcmpyY1VCTUJKOUdvOHVibEs2aVJuYW5oQUZ2bjUwTHRHb205Y2c?oc=5"
+      },
+      {
+        "title": "\"To zniszczy stosunki Rosji i USA\". Putin przestrzega - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUg4Zks1MG56cU91aC1GV29ja1Zkc1pQaENHbzhUYnlMT0g4OFRRVU1BU2JacDlYbGFGd1BtOWtLTlJoNTgxUEJkSTNtUVdQU3U2THV0aVdQRk5oblJla1pxc19takF3U0Q4VmJraE9BQXBQZzNLLVlIMnVKT0w4VzJxdDVwWlU5cEZTZmcydmJBSEJURTRtMkJESTJiM0lTaFE?oc=5"
+      },
+      {
+        "title": "Znaleziono niezidentyfikowany obiekt. Trwa akcja służb - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlRjSnZRdWhKelVhbm1jMURlWUN2RTBRZzJ0MVZWRmcwZ2EzT3gyMHljVi1XaHRRUTc5SkZJUDd0QnB5dUd4dVE5dmVPNGVtbEJuOXF6NTIwVVFia1IzYnVfZ1kzTUsxa2ZKbHVLRlM5MnJWWXZlVGcxaWpnT3llVFB6S1QyRnNnR0JmTlVEY1NWV2J0YzI4VjNac1BMclpWWmU0bWZLNExhV1Y1YlAtbVJCZGZhTzdJNTNnN1VHWjA3UQ?oc=5"
+      },
+      {
+        "title": "Czy zwycięstwo partii Andreja Babiša nie oznacza, że Czechy będą jak nowe Węgry - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTZIMUU3bFIwdERpYlJpem1pb243Q1lHRFdSNHZaZS1BNlpNRjBTOUpCX0E2S2syN1JPd0xIdWhnMHR4cm1FSC1ZSFJRZEtjZmFQYnhMWUJHM1ZvNHA4eVN5WXNXOFZWcTZ6eVBHNGxHOVZTa01tSS1qRDlYMUxmWGNRcGxvMXJ1YV95ZzNXUnNhNEd6akpzWkp6ckJyNElPWF9sTWhn?oc=5"
+      },
+      {
+        "title": "Atak w szpitalu w Suchej Beskidzkiej. Brutalnie zaatakowała pielęgniarkę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzNwX2JKTkJtTjRmSUpGTzl6UzFWblk5TTdiOUdiVFJuVmVSOFR1cElkNmlqakxlR3hWV2hCU3duRDNSWExyNzdHYTFiT1A1Z2JZeHlxVGtTaTkyTjhaV1VfZVJWREdnZVBYeU81VTFkUFlLN3pTTHNOYW9wZWo5RmQwRkxKQ2FlZWcxT3RUSnhib3loRVI0MjFQSzVQTXBQNllQcHo0d1JCVnByaVMxbVY5aTVyaUlXWU03T0huUVg1NnNTak9uOTc3cFo?oc=5"
       }
     ]
   }
