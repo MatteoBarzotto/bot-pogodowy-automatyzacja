@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-04 15:16:33",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6253,
-      "EUR": 4.2559,
-      "GBP": 4.8784,
-      "CHF": 4.5527,
-      "JPY": 0.024604,
-      "AUD": 2.3951,
-      "CAD": 2.597,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 443693,
-      "DOGECOIN": 0.909381,
-      "ETHEREUM": 16316.7,
-      "LITECOIN": 429.73,
-      "RIPPLE": 10.87
-    },
-    "indices": {
-      "^WIG20": 2862.96,
-      "^WIG30": 3725.45,
-      "^WIG": 3725.45,
-      "^NCINDEX": 285.22
-    },
-    "news": [
-      {
-        "title": "Izraelskie siły miały wstrzymać ofensywę w Strefie Gazy. Padł rozkaz - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN25faEtlMi01dDZ6NFZ3eXhmS0Jtal96ejlvZllKQVRlTVlfcUgxcGR2bWFQTGpQTDdHMmtiV2JtdHVlVXNnel9EUWdkZ2cweTlCRDdQUTRjek5rZmVDTFM1cFlDVE5famRidmZTUEpYZTJoSFhrMF85QVRXck9wbzJ5WVRmR1BRaWx1Z2t6a0NjVkNoZmpVU215NERnX1ktYmxGVHpLNHFoMVJw?oc=5"
-      },
-      {
-        "title": "Prezydent kontra szef MS. Prawnik: wrażenie takie, że Żurek chciałby mieć ręczny wpływ na wybór sędziów - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjZjcHZDdTdtRnNoenY5R21YWEpYTE9TT3ZFbmZxVUduUjgwYUktSi0zTXV1RmlFWjFvZEJGMEkzckx2VzFiM1k2TUpqMjdCNDMwU2dVUmM0am41czQzU0tmazEwclFmTmdvYURCOWNCMVRMLXA4cGF4YjdTVFR0U2xmY0dwcTRGUzV1a2l4Y3hZNkFZbjd0X19KWndUQ3pDS0pEUHctNHNMNHB0?oc=5"
-      },
-      {
-        "title": "\"Na wschód czy na zachód?\". Zakończyły się wybory w Czechach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONE5icUxfLWppT0xFbXFDQlE5a0JPNnlZNU9FU2oyTjE4cHJHellKc0dIUk5IakhoYWEwUEc0aHdfTGxNRzNKLWZkeTlNS0s1WEE5eDUxNTU5Qkw1dUhnOTV6SGlDNjYxSUJNSVN1dXRCb0t1UG9KRU1FT09GRkNWSVh4ZXpSVkhneE1vejFzZ2VTV3MzQkl3WkJnRlZhdw?oc=5"
-      },
-      {
-        "title": "Premier chwali się. \"Polska staje się portową potęgą na Bałtyku\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlFwSzlsTVV5Mjdna0N2N29KY255bV9QRnRMRm9UQlZyV2t2OWpxRUkzVEFybEdMZTVTeTlRT0tNUE1zLU9ZbDd6SXktb0VDMjVRYjh5OWl3OUY0cGtPQ0VKUDZ2YjZPbXpNZzZwWnBHZzBfSEgwbG41WTZLX1Y4QnVYRDBIZ3VlQnhUcTJOS0w1SjNmQ2VVaHd2S2NsV29hVG05Q3lMdE9FY1JiVjBPZTRGZ2dzNWs?oc=5"
-      },
-      {
-        "title": "Atak Rosji na pociąg, jest wielu poszkodowanych. Prezydent Zełenski reaguje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbS11LW1pdGVqWWZ1cThVbl9JUll1UFAzRXhRMXh3b2I4S3pVdm1NWUtqRUROZHF1YUN1YWZQTmIxMWo2SHhjeU92ZEtpT3d3SDgtMjZOeDE3WnFiWG9hZDRTNkI0aTR5YkpiRktuOWlWZ21PbWFJbDA0LXlFSnJ2eWlGall6YVpqRnFSY2pSRjkzbjNMenB0R0R1eWtVTERPT05HdDRSOUtRQi1ua09lSm9UWXQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-04 16:10:42",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nobel z medycyny przyznany - TVN24",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFJGakNnOWpTNUw4V2lvVG1ISm1TalpxaEhLemFyamhTN0x5RTRpUEFQamtBOFZCdEROamlTelZFRDlfSTFvT2dIQWhvb2x4Z2R2MkdGZVIxVGIwQm1GT19aSXhDU18tZXlNSEtsdU9xRHpQLUhjcFdRYTRpNVZvUmlLcnp5VTZPek1LaURYVFRBMzlnMDhQRVJaQ2NiSWVRREFv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-06 20:20:27",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6446,
+      "EUR": 4.2521,
+      "GBP": 4.8962,
+      "CHF": 4.5631,
+      "JPY": 0.024237,
+      "AUD": 2.4045,
+      "CAD": 2.6128,
+      "CNY": 0.5084
+    },
+    "crypto": {
+      "BITCOIN": 455487,
+      "DOGECOIN": 0.976008,
+      "ETHEREUM": 17072.46,
+      "LITECOIN": 433.95,
+      "RIPPLE": 11.04
+    },
+    "indices": {
+      "^WIG20": 2838.1,
+      "^WIG30": 3690.88,
+      "^WIG": 3690.88,
+      "^NCINDEX": 284.29
+    },
+    "news": [
+      {
+        "title": "Ukraina pokazuje pazury, a Kreml ma powody do obaw. Pociski Flamingo mogą zmienić zasady gry - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOODFaSnBIQ2padlNBUjdYYm1GcUVKTEhhNWhZYmxaSkVFZGNfb3k4S3lBMWozUFVqUjIxSEl1bFJjald4TUJmNUMxSzFCOTEtMEdhMVJqejFaMFIya2pZNWJ1S0toVFpMaHF0bkJCdERPcDZnbnkzWjZuLWxXNDhmYTE1cEVMd0ttbWRubUNacDB5VmwzS3Ftb2FyTHlfY25qMG5IYlRwMHlUTzlyUUQ5ZkF0Zw?oc=5"
+      },
+      {
+        "title": "Zatrzymanie flotylli Sumud. Greta Thunberg deportowana z Izraela do Grecji - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWi1tNHFrSWVGcDBsUkFCWVREM2RmbklQRjZGWlBmU0ZjbURhTTV2dXNJUUdycFVGNzA3NEZoNk9MYWVCb25ycm5KN1RmZEF3aXRQM2hSbTFwVVh3eW1SLUdFdkV6ZlR1VEVTS1VXZ2sxNExoSzFZVlB0c1k4QkxvQUVDdDI2ZzZZR195MEg2RXg4aXFaU2xYakZNcWdmUWF2TGEzR1FxMA?oc=5"
+      },
+      {
+        "title": "Sikorski reaguje na wywiad z Merkel. \"Widocznie zapomniała\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORk5yRHQwTVBPenUxanRDZkdVX0ZWeG5uQVdlMlAyZnh6RUt3MjNBUnZBSnR5Zm1KUkJZT0dzNHZRSlplUVljMFRfd2lhSW1hVWpNSVJaWFplQTg1c1BsUDBsVGNxZG1uVEZURWtzcW9nU0VQemZ0dGJWU0ppR0tWd0VJbHk4UF95Ym4yNmwtb2Jmd0gyc1lCbDVNbVNIZHlmSkxWNmdlWQ?oc=5"
+      },
+      {
+        "title": "Rozmawialiśmy z sąsiadami Józefa K., który próbował zabić żonę. Policja właśnie go znalazła - Kielce.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3JtbE9rWW9lOGVBMXdWV0pxbHNTSHdVNWYyT0VNdlZ5MEJSSHNqWlFGZF9oYWIwM1BqaGpCcTlaVW00TzRsSFpMX2hST1BwWmYtV2kydC1DSHQ3WVFfSm91dFRDZEtEeXB4TzFTOTVfY0Ruc21idU1RY1JRd0N6bVJNSW5HMzB3cHRCZ1d1QVE2TTZOZnJiTHNxVTJEVmRmMWhNQ3plZmtCLVU?oc=5"
+      },
+      {
+        "title": "Wstrząs polityczny we Francji. Premier podał się do dymisji - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0RKQndQeVU2VXNheThpTk11UXRqVVZVYk9oYVotZE9ySWZNZFY3ZUY2MlNKRFQxVzRkRElOUU1LSko2N1JGUGMxOS1mM0c4SmNmLUtFdWFMbUp6WEhUaW1Icm91VHdiU1k5UXE2Q0Vnb0tQclQ3WmwwVG1SX1NMbXRoeE1jQ21sLXV3WVFiSllCZUMzakpfLUl2OFA2amNPVkVfWUFTaHZMbFB1?oc=5"
       }
     ]
   }
