@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06 06:16:11",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6253,
-      "EUR": 4.2559,
-      "GBP": 4.8784,
-      "CHF": 4.5527,
-      "JPY": 0.024604,
-      "AUD": 2.3951,
-      "CAD": 2.597,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 450023,
-      "DOGECOIN": 0.919846,
-      "ETHEREUM": 16471.71,
-      "LITECOIN": 437.24,
-      "RIPPLE": 10.8
-    },
-    "indices": {
-      "^WIG20": 2862.96,
-      "^WIG30": 3725.45,
-      "^WIG": 3725.45,
-      "^NCINDEX": 285.22
-    },
-    "news": [
-      {
-        "title": "Kulisy \"napiętej\" rozmowy. Donald Trump ostro zareagował na słowa Binjamina Netanjahu - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEdLUWVhZFF2UVRnU3V1RW9Pckc2dVVQcjBaTjNob1hRWVVQdlNtUFhYd0pIV1lWb1Rwb0pfbkxNWVdRVGV6SGR6OEJ1SzR6ejF2ZEE0UV9iZWdzNU8tSXBKWDBkTVljM1g4dDN4dTlCdHlzZlhwek45N0xGckZxbW9vNGYxbEFQdzlMNGo5c05hajlueDBjX3VpQldETUs4Zjh1cG1CRTNSMHZMVFE?oc=5"
-      },
-      {
-        "title": "\"Śmieje się z Zachodu\". Zełenski ostrzega przed Putinem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNck5VdFliYVVaMlpfemQ2aWl1TDBoemVpS3ZkZjZxMi1POWprSnFqMnFYUWFhTExQcTVXWnZWdFltM1gzc0xUUGowTjZaQzUtYXhYVDhoMUlid0RXQlRXdFhXVVVYX043VzRucHl4MW5FdE5fVmx2al8xMUNaWE5GMlcwd2hwMzlldV9QaXhBV3AzRGZheU45ZVhSLTNvMzdWV3NEUkw5WWlVaHIwazEtLTl4NmQ?oc=5"
-      },
-      {
-        "title": "Gubernator pozywa Trumpa. \"Zapierające dech w piersiach nadużycie władzy\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRWM0R2E4cTc0bE9idXdyTzNLT2dsOUVvRHJpVjROVC1aOUVPLXFkZl8zNVBUYXFmQmNkVWZYY1VrNXdicy1YbUdqeVdTMmhWWHJDbEhvcWw4SzlkVUFnN0NFM1FibHhobWllSzhrdDAwWlI0d3dqal9CSnpKNThsT09TZFFoTVdFYW0yNWF4d1JOdHVOWTRGeHA1YmZXQjM1dTJIcjNOSXJOY0M3QklCMm9KMHlEY2ptMHNieEtGcFF1Z1RHYm5Ceg?oc=5"
-      },
-      {
-        "title": "Literacka Nagroda Nike 2025. Ogłoszono nazwisko laureatki - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1N5YnJaVnFPWnJqZm5SbDFYcnJkcmpJTFhtMTNCd2Y0SVo3NWhqWlFYcDdMZTJRUld3LW5HZHJIYjcwT2w1NWgtamN3S1NoYVo2cWNKMjJ1UTVHM2lWQTMwUzRPbWxtU2YxZ3c5TjJTb2dwSGJYaEthUUllMFdNaXdTV2dxMzhLS3hjTGIzdllxczBkWEtmcFVzNXBRUQ?oc=5"
-      },
-      {
-        "title": "On może zastąpić Hołownię. \"Ma ogromną wiedzę i doświadczenie\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFhUVU4tbk5oajBpSmxlXzZ6RjdnNmRjVFp2US1XLXFfb3FiUVJLczRldDZST3p4TldtNm1QTmJvNldZVFNEMEo3WXl3NUo1SHVXYlc0ZXlyd1RJNWM0b21EZ3BVMjhxTThNZ3NQYVJUdmo4UzZYZ2E4aGkxT09rb190MmhSb3Fublc1Nk9WdkdKM21ESEVFbDVpdlg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-06 07:13:40",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Klęska edukacji zdrowotnej? Dane nie pozostawiają złudzeń - Onet",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekJIcVVpdE9lR1IxNEZLUW5QQ3lEWUpHUDBFanF0dFJZZW9pME5ISjF6X3ljVjhJcDN2THN6YktpekI4OEpsdnlyNTRwQk9MTlAxVFI3ZzdRei15bUlMM051U296Y0ZGdVVkQ2dDdWJ1T0ZyY2lwbE1kNXg4YXF5ckVTYmJUZVdkdi0zeXVVSV85X1cwRkllTHNqWFE?oc=5"
+      },
+      {
+        "title": "\"Inwazja\" Donalda Trumpa na Chicago. Żołnierze na obrzeżach miasta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelpFb1RxbTZyZFV0RHNwbk9MSm1NZG9VMWlMM3ZqYU1QTFJ3NXVuY29wY1VoZDA0WUVHdno0R3pKVUgyYzJUNVJGcWZfZGpPeWNmeGNYcUNvdVRPSzZrOWtOWUdCb1lyMGJualJfZHZIUWNUME1ORE5GNlZid1REZDJjRUJ6OEhHU1MtQ3FjZ1VybDd2aVBWSF90SUV5SHpJWG5sMXRrMXFaT0o0TkNTQzNVZVRVX2RsdURWWDlOeFViTzNR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-08 10:19:05",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2559,
+      "GBP": 4.9023,
+      "CHF": 4.5728,
+      "JPY": 0.024193,
+      "AUD": 2.4045,
+      "CAD": 2.6142,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 445180,
+      "DOGECOIN": 0.902979,
+      "ETHEREUM": 16325.7,
+      "LITECOIN": 425.06,
+      "RIPPLE": 10.46
+    },
+    "indices": {
+      "^WIG20": 2864.85,
+      "^WIG30": 3716.93,
+      "^WIG": 3716.93,
+      "^NCINDEX": 282.36
+    },
+    "news": [
+      {
+        "title": "Afera Pegasusa. Komisja śledcza składa doniesienie na Zbigniewa Ziobrę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUxWS3VXUGlQQ01LOUNmV2VXcHNpVVpRN2FpVWI4NG9LYkVRYUkxNi12Y1Fab1RXTVJnTjR4d0czM3lvaTA4dS1LdEU1dVBxdTVPZTAzeDhzVllubHJ6aGRVTGF2T0tMa0psaUNyMms1OHBjVWp0QXZhbi1MY3N6SDBURFd4ZDhyZGNOVG9ZR0d6T1pXdDRpOG1BZXhsMGYzcEk5VjZkVDVxRE82dXc?oc=5"
+      },
+      {
+        "title": "Powszechne szkolenia obronne. Wiceszef MON: wkrótce ogłosimy program - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzhNQjRhSGVKeW5YNkJjclZrQVUwQUVsb2tCWmZQTFZDTElRVjdUT1ZfSDNsZ2RWWlM4OWJwOXdoSmNfX29PWEVYZ2x0VElCdlVaWXJtNG5tVzRKZzI1OFJCQ2JkX2otUDdYMEZTdGpzbFY2VXdVQW5heGI4dDdkS29GZGJDTkdlYk1ab2lwRWN1VFBkNUpzSXZxQ1VFTHlHTllNdDV1TnI0WFFFbkdNU2hyZXUzUklnTTllTG13?oc=5"
+      },
+      {
+        "title": "Wejherowo. Kierowca wjechał w grupę dzieci, jeden chłopiec nie przeżył. Policja zatrzymała 33-latka - trojmiasto.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjFUZ0s4dHZEWDdGeG5TV1lBdG1RNzYzQ1lPZzVKX1ZzNVh0LThkVmpxWUtscVRsS0lIRmR0MXp6c0lPMzUwbEhyVUtlVjhwZ3E0Q3o2RU41Uk9lQllYQTlsMGJRUnFwOEpaRVhVa2dUOWZ6eVBiUjM0NTNiUFFnWVVBTlNoejJTSW1WNFJ3NVdzU2VnRkhTbnFPVC1jNGExYVJZU1hnV091RkY1LV9jRVdGQnRFRnVKQWVMZXhSaW8ydWs?oc=5"
+      },
+      {
+        "title": "Wybrańcy ministra zwolnieni z orzekania. To efekt głośnego rozporządzenia Waldemara Żurka - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFBGT19MbWliQk5URWtpYjB1a2lfbU5BcjZxd1FUemtBME9QRlVLWkVVRHUzaGtmMTNwX3hkVkVPMXV0WkNqMTJxMkhkbkp1eFVwR2MwTHRKQUR6cjdFLUhfLXA4ZElnYWpSbktWWjBwb1pjOG9CUlU5REtqTngyRWhDX3ptS0pjMXVOOEtMVjkySThYLWRaMFJ2aXVHZ3lvUFJzUEdMQnRTWlItY1E?oc=5"
       },
       {
         "title": "\"Inwazja\" Donalda Trumpa na Chicago. Żołnierze na obrzeżach miasta - Onet",
