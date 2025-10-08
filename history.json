@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06 03:03:38",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6253,
-      "EUR": 4.2559,
-      "GBP": 4.8784,
-      "CHF": 4.5527,
-      "JPY": 0.024604,
-      "AUD": 2.3951,
-      "CAD": 2.597,
-      "CNY": 0.5096
-    },
-    "crypto": {
-      "BITCOIN": 447634,
-      "DOGECOIN": 0.913559,
-      "ETHEREUM": 16316.7,
-      "LITECOIN": 429.79,
-      "RIPPLE": 10.75
-    },
-    "indices": {
-      "^WIG20": 2862.96,
-      "^WIG30": 3725.45,
-      "^WIG": 3725.45,
-      "^NCINDEX": 285.22
-    },
-    "news": [
-      {
-        "title": "Rosja ma jasny cel przed zimą. \"Władimir Putin śmieje się z Zachodu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdkJ2V080TWMzYU0ycElIa1dCVTdTdTVUU1RaZ1hqUVFseXROb2h1ZEx0OFdaTFljcm0tSlJqS3FKUkpBTEtpaGtBNUFURlpidTZtTlZrMFpkU09IWEpoc0VBWjdCUDFsWVBQMDVRa3QzRXhmNC1JMFlKRHlKNllpV2hOWXBpTVZ5MUtTdmhoRTY0MXZiTzJjQkpBNkRWWm1LaF9IRUYwVy1PQQ?oc=5"
-      },
-      {
-        "title": "Literacka Nagroda Nike 2025. Ogłoszono nazwisko laureatki - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1N5YnJaVnFPWnJqZm5SbDFYcnJkcmpJTFhtMTNCd2Y0SVo3NWhqWlFYcDdMZTJRUld3LW5HZHJIYjcwT2w1NWgtamN3S1NoYVo2cWNKMjJ1UTVHM2lWQTMwUzRPbWxtU2YxZ3c5TjJTb2dwSGJYaEthUUllMFdNaXdTV2dxMzhLS3hjTGIzdllxczBkWEtmcFVzNXBRUQ?oc=5"
-      },
-      {
-        "title": "On może zastąpić Hołownię. \"Ma ogromną wiedzę i doświadczenie\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFhUVU4tbk5oajBpSmxlXzZ6RjdnNmRjVFp2US1XLXFfb3FiUVJLczRldDZST3p4TldtNm1QTmJvNldZVFNEMEo3WXl3NUo1SHVXYlc0ZXlyd1RJNWM0b21EZ3BVMjhxTThNZ3NQYVJUdmo4UzZYZ2E4aGkxT09rb190MmhSb3Fublc1Nk9WdkdKM21ESEVFbDVpdlg?oc=5"
-      },
-      {
-        "title": "Była kanclerz Niemiec Angela Merkel obwinia Polskę o inwazję Rosji na Ukrainę - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemhhTXFKazQyQ0NydzVJU2R1eDRpeWhsaUw5ZmI5Y1hRc0U0NjliZU93SktBZkhPdHAzdEN1Zm1JNFNXQTRUS0xDOENieDBkRDNSZWFLNkdnS2ZQWkFJLU16MUNnV0dPNVN5SjdaeE9IZzRvVW9zN1FhalNmQUpPdlJzT2xKN3c1NGtNdzRjWllQM2JFa1VJbGRUb2ZSa2ZFTkRUZjYwRXp4UWtIQm1QRS00VGhGckU?oc=5"
-      },
-      {
-        "title": "Atak Ukraińców w rosyjskim Biełgorodzie. \"Bez prądu prawie 40 tys. mieszkańców\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVVQS25Vd0YtU2REdjduQktNOGF1R3FJUkU5d0FQZG53b2w3aW8tYWF0U1A0VVhjd3VNWE1VdmQ4R2RXZm1GV05Ceko1RU9wSWlzdlRWWmRVd3hWRUVhZlUyTHowenpOXzFiNUpzeWdoWVMtbEhWSmxrVk9vajZDVTBac2xMMVJKY1U1aVp0VWVOck5aYmdWak5wWFNKb2l5UmJUQURMRGFudWUxYkhTOW5PRUlaT2lValBYR0lLWnBEZ04tOEV5VEZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-06 04:57:43",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Runął budynek w centrum Madrytu. Trwa akcja służb - Onet",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSWVPX2xwbXplLUxQZW9CN29aYWxwLUE3NzhXWkpOQklKUWRQY3B0OFZVdXptenJZM1piRDZoaVpoTUFIWmFXMzMySFgyMmwzbmwweG13YVRYLW1pTU1yOXV6a0ROa1BaWVgtTDRyUjRuQXU5bkxmekVRcUVUb3BNYlhOOVZRcDVfRklQcnFnWU92Tmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-08 07:13:44",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2559,
+      "GBP": 4.9023,
+      "CHF": 4.5728,
+      "JPY": 0.024193,
+      "AUD": 2.4045,
+      "CAD": 2.6142,
+      "CNY": 0.5089
+    },
+    "crypto": {
+      "BITCOIN": 446182,
+      "DOGECOIN": 0.902791,
+      "ETHEREUM": 16307.01,
+      "LITECOIN": 427.49,
+      "RIPPLE": 10.47
+    },
+    "indices": {
+      "^WIG20": 2868.67,
+      "^WIG30": 3722.94,
+      "^WIG": 3722.94,
+      "^NCINDEX": 281.94
+    },
+    "news": [
+      {
+        "title": "Tragiczny wypadek na Pomorzu. Auto wjechało w grupę nastolatków, jedna osoba nie żyje - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGZNNEJNMEUyTzF1QW9vNFQyTEZ1N3NHWkMyNU11T2lqN2RjcEpya0NIenhkbGVSZmJ3UVR6a0N1c21zMUZzN0NnVGJpaXcwbzN2MTlsNURZQVI3VFpPc254UERKaWRSSTRGMzZDRXk0cVZNWlpyelNpUDFXa2hmQm1JalVnYmRRUmVzYjgxd3UzTGZPenhDblJZN21SU3JWUnlGQ3dWcEF3YzFqU3R6Z0tRUXk?oc=5"
+      },
+      {
+        "title": "Hołownia stawia Tuska pod ścianą. Premier musi przystać na jego warunki - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWW9YVFZhSkFfWVBIcldHR3RyUGNReFVPRHRjQU55NWRZOTMxeHJmcGZueGNoT043NHYwdUVwSXRCSnpvRmVZOHJpODBVLWVLYkRjUVB0cGNQc09DVlZoYUxXeTVISndKd3BGbjdxNHZxWGdvR215VjVUV3NWOGNfMDRiUzJmbWhQdUNjby1Jc3J4NnBVZmNRdVhyc3J4SW9TT0NxOTJNSUZLLU0xSHBVWUEtYlZscER2ZVE?oc=5"
+      },
+      {
+        "title": "\"Inwazja\" Donalda Trumpa na Chicago. Żołnierze na obrzeżach miasta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdENOTkpUem5NSF95ZkN2RGxpX2JmUUZXRHMyQkFYc2dSYUduZjA0YjJQb0M0dnJNX09vRzZDLVA1TEt1Q3Z0VHg4REFLcTExNFNHTnZnOFVFRTZxU29IY1ZISmx3c3RaSXN1Q2lONWt5dDdlRUc5SDVzUlZDNXBVYlFhY2RRN2pSYjJhRlpvcUcxUHV1Vy1JcjdvamowUDVhNGpKVVVyUQ?oc=5"
+      },
+      {
+        "title": "Dramat w stolicy Hiszpanii. Runął budynek w samym centrum. W środku mogli być ludzie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkY5SjVqRjFIcGpIUERiaXBXMURUamRjTTZ0cFd0RlFmcks4SmlFemsxSnFYQzBaQWM2R1lDWHoxajhsOXVhRm9lb2picWsxWmhWUkVfN25JNGhBSnNrR3Bsal9pdkxCOTh5V1FnU00xQVJrN0h6ZzVocUY3WGgteTdZdloxMzN1ZGJmd0d5UDZhaFNMY3pGc1FZN1Btbnc?oc=5"
+      },
+      {
+        "title": "Lekarze spojrzeli na wyniki badań kogoś innego. Pani Ewa przeszła niepotrzebną operację - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemd6dU9YUXpMeEdLdm0zazFlekpfRmJhVDZ5d0ZuWVF6a2F6eHBkdUliU05wM05CbnVRYkdhQXlnU3liMDM2VUN1azZVdUROYVQyMm9Ya2ZBb1ZfdzMzN1JkT1pTS0xvZm1pamk4cFJEaG9tWmtld3FnZWtTY25LQS13cVp5NVZHODF0Q1FXaTNhcUJwb3ZBN1NIZ25MaXk0QjVCa19DMXhrWExnVWh5MnVCZEZwVFRoaUk4WnNGSE1YWEVMYlhyZ1ZWT0VQQWFDSUE?oc=5"
       }
     ]
   }
