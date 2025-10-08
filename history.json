@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06 16:13:43",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2521,
-      "GBP": 4.8962,
-      "CHF": 4.5631,
-      "JPY": 0.024237,
-      "AUD": 2.4045,
-      "CAD": 2.6128,
-      "CNY": 0.5084
-    },
-    "crypto": {
-      "BITCOIN": 455176,
-      "DOGECOIN": 0.955465,
-      "ETHEREUM": 16910.78,
-      "LITECOIN": 438.28,
-      "RIPPLE": 10.96
-    },
-    "indices": {
-      "^WIG20": 2838.03,
-      "^WIG30": 3690.99,
-      "^WIG": 3690.99,
-      "^NCINDEX": 283.04
-    },
-    "news": [
-      {
-        "title": "Izrael deportuje członków flotylli. Wśród nich troje Polaków - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWElDaVo5M2JxTXlKTHFEQ0E3dllibS1wSGZJRS1kNndSQkFhblRUWGZzVS1uVFVQWUt1cGRzVkFqTnZHUE1MWXM4RExpeFpWWFViUlNDQ2hFWHJyc2JkVnVDMGtHR0hHZHJFZlp3NGt0QldRS1lvc183R3dWUmZLWDJCX0dmMUExandhWjE3UFVOZ1Fkek5WWHRjNjJpTDRKMVhobGZuSDR5dDVkTVQ0STFxZklHcGgtcUFCU1NkYw?oc=5"
-      },
-      {
-        "title": "Najkrótsza kadencja w historii. Francuski premier rezygnuje - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHNqRTU2ZXNwOWdKc05Nd3N2OUlBd0M2UVZBbk55ZmNualhzVWJBZWFxWEJlZ3ZqZjVRMzdQT2ktNWFubkFfZEQ1cEFncU82U0tKQ3BpS0gyck5VTHBYOTNPS2hEQkQ2Y05qaGs4em5LcmNjSXlsY2dhX29NbTNBWUdGRWJSV0xsT3FjV1Zub09nZXlqQ0lkTFhfc1lVTk4tTkpHOVp3?oc=5"
-      },
-      {
-        "title": "Ten tydzień rozgrzeje nas do czerwoności - Portal i.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2hqaEdFU3hiN3ozbGdzYXk1ZkY0UnZ0eHRRMkVjRU0yNjl4R3YxWTJ5MDNfRzJ4U3dPOW9mc2VSckttVXFJYTRPX29yRmNLNlBUYXZjck56a015WWpMU3dQalNRaFhCdlE2NFE0eUpLcExGUUlUSEJFbFFES2lkcG5VMWNsWnVKQmIwcDFYdHk0QjJPUTc3cnhMQQ?oc=5"
-      },
-      {
-        "title": "Nord Stream. Były oficer ukraińskiego wywiadu o śledztwie Niemiec: działają w interesie Rosji - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalRGZnA0b1lUVmVTOUlyYzNfTUNaTWdPdnNTMnU0MjZnN0d3RW03aHFMb2dRcmNWdXZ2MzJaTGVKMmd0SERKZ1BDNm1iVGt4WWFhR2hmUFo3Q01wSUNpbURIOGVvTTM0dC1KWDh0Uy1IQjJIQVdFNGNrb1VWOVd6M2N5QkhCNG5walFkZjhCamVLdWRfOXpYWXdZbkZvNDlBd3JZcTZzQ1NmUTRja2d2ZHh3dzQwQUJmaTF0eGsxM0lvTEVWVXN5UXJUWVBuQQ?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek w Alpach. Trzech turystów nie żyje - WP Turystyka",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWpqUnFvNWhYb0VOMk0zSXJsVkg2bVMyWGZIcFVqOGE1VmZHUGtvekFMdWxiTWRFMFF5YmVVcFJDc3hQRnphSDdyekVMN0phQ0tUZG5EVk9ZRkJjeHVWM2RrblJDZmJITVNFYTVlY2x4eUZ1Mzg2Yl9iTVRkeHRldEpkYkJBQm5RZk5qbVJubm1UcmxNUFRKXw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-06 17:13:52",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Dramatyczne sceny na poprawinach. Nie żyje jeden z gości - Onet",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1lqQmdyMUE4Nnp2cGJCaFdoeG5URmdCeFVCQ29EZEloVG1ISXpXTXF4T2JjVzVvOTVVUmIxUDd0Xy04SEV2V0RuaG82RXdxMUF5R2IyM0d3dVlFTGx3MmdOMi0yWGpvSW1pY1pqM3VMTHVjblY2TkdYN29zQXNNLV9OX0hEWHFsSllKcmNiTV9sRUdtdUttLVdFXy04RTh6eTZCa3pXa25tRm9rZkJ3Xw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-08 20:20:32",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6619,
+      "EUR": 4.2533,
+      "GBP": 4.9103,
+      "CHF": 4.5712,
+      "JPY": 0.023975,
+      "AUD": 2.4026,
+      "CAD": 2.6244,
+      "CNY": 0.5086
+    },
+    "crypto": {
+      "BITCOIN": 453527,
+      "DOGECOIN": 0.952703,
+      "ETHEREUM": 16631.78,
+      "LITECOIN": 437.23,
+      "RIPPLE": 10.69
+    },
+    "indices": {
+      "^WIG20": 2877.99,
+      "^WIG30": 3733.73,
+      "^WIG": 3733.73,
+      "^NCINDEX": 286.17
+    },
+    "news": [
+      {
+        "title": "\"Kategorycznie nie zgadzam się\". Karol Nawrocki ratuje Krajową Radę Radiofonii i Telewizji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU1EWXFkZEljclJQS245aVJZc2pBeWFpUWRKSnRYT0ZPMHhEVFpCNWVvcXdPR0hjRDl0NDE5ejJOZVREMWVTUEZVaDQyV091WldnSnpXR09NdDN2T2V4cWRjeGFrdTdJdVl1NC10NWpUMUo4SjVaTk4xUzM5S1JXQ0lBdlhfcTVWMUwzOVNnX092WlZ6dXJKclhCVEVfN3FuOVNMSVBybHAtdms?oc=5"
+      },
+      {
+        "title": "\"Daremna próba\". Kolejna flotylla zatrzymana przez Izrael - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjltbnRfTFpzUTJaZDZjWEVrcDBqY2NDaFJVUVcxT2N0Z0l6S3RGdk9LNjBYRl9RdF9kcVZfcnJIUTJ6Q0MxcTBrZmluNUF5ZXdmWXVhX3pfOHhETWgtM2JhRHRqcHFsQ3hkRjJlQ1JhQ2dycjN5cjB3ZWZjeGN6X0pnaEN5SkpkVHlRNzFRNTRSUnRGZVMzYjBiVFE3SndRRVNnTg?oc=5"
+      },
+      {
+        "title": "Niemiecki rząd reaguje na słowa Tuska. \"Czekamy na rozstrzygnięcie\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbC0wSUVOVXNLWG1TaFJveTgxYzVCTnp1WnBCOTVwakR3R01LaktleU1ZdDFIQ3E4QXcxbUhhTXJEcTF0TUpubWNRcDNFMXlVTFJCTnRuUS1iQndYc0FqZ3BHQ1pXLVE0R2lVUjlwZVFVNl9JWFNTYXJUSHNZZGNWcXczLXFXRUp2bnZwdXNFOWJ4OGd3UFgtdjZVWkYyblUwSDZzVzkzNTltZTQ?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro odpowiada na ruch komisji śledczej. \"Stąd ten teatrzyk\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkMtV0N3QnByX0RDSEktdnppcmx6bnkyNFY1amc1bGkwQldyTk5ESUh4eVFMTEF5Y1BYeE5Sd0pIZnpMU0d2cGpqMmhHaWVrdTlpWEx1STBmMzJCNFItejhmTEl6SGZOa3h1VDFDRm92VE1fNURQdlAwd1RSMzRHd0JxM1pIUDItLXBSVXVCcjVpM1FVTlZSUVo3c193WjRXa080aUxybFFzdW8z?oc=5"
+      },
+      {
+        "title": "Łebieńska Huta: Samochód wjechał w grupę nastolatków - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ25OTW5FbUJaaEZHcG4xay1KaWc2MUs3QjdiZ2U5cDc4ckxmYXBRTTl3bEVGNzBXdmg2MkVROUhSekp0cFBBZHE1VE1jQmVCTGVCSEFyaUFwVjJKcjctcW5wZVVraVFsMzM4UXI3TUNGN3oyTnNMYmRhSmtYLVFOZjMtWEp4blg2dU51dXZwdXVLX0Zy?oc=5"
       }
     ]
   }
