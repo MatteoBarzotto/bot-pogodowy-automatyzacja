@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07 09:14:04",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2521,
-      "GBP": 4.8962,
-      "CHF": 4.5631,
-      "JPY": 0.024237,
-      "AUD": 2.4045,
-      "CAD": 2.6128,
-      "CNY": 0.5084
-    },
-    "crypto": {
-      "BITCOIN": 451198,
-      "DOGECOIN": 0.950275,
-      "ETHEREUM": 17035.11,
-      "LITECOIN": 430.64,
-      "RIPPLE": 10.82
-    },
-    "indices": {
-      "^WIG20": 2849.46,
-      "^WIG30": 3704.83,
-      "^WIG": 3704.83,
-      "^NCINDEX": 284.29
-    },
-    "news": [
-      {
-        "title": "Odejście Szymona Hołowni z polskiej polityki ma drugie dno? \"Problem jest gdzieś głębiej\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZjVWQ1ZzZHhXNUlWSHRFdWJNZDN6VlV6dEJqaU1CN3dCNlhiemdIX3F0cmtOTW16aVNjWnJ2dnlrT3hRNmdTZDlEaFdNRTdyRGZJWUttdW5PU2hNWXBBQkNhUzJVTEJ5QjFva011bWloNElfS2dxbWdOU3JWTXhXX0d3cnJpbnVwLXdaZUhwY2hlemY0YUlTVGNWYVZya2dKUi1wa0tRRG4zOVV3UTZKcWVOV0Z1S1h5WVJnbUx5YWdQUVVGM2pjZ2VFdmFJTDd4WlE?oc=5"
-      },
-      {
-        "title": "Pościg za żołnierzem w Elblągu. Padły strzały - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxTUFpNdlR1Uk5SZ21HM2c2Z3Qxby1QWjExZ2tvYUVLenJwVzFKd0ZKM3pEazg4UVRhT1o2cm9HSzY3QUM5MGZ4R3BNNW5FOElIRDN2U3JzdlZ0ZlQ4QUpJTUpaUFBYbmZYUEIxc3Y4Nmd5LVJOZ2lOZmtBMFpKY1lQRUdsNGNSbHhSTkRnakllU1lWYTRF?oc=5"
-      },
-      {
-        "title": "Trump podjął już decyzję ws. Tomahawków. \"Muszę zadać pytanie. Dokąd je wysyłają.\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHBISUg1OGZCUVpXUGNnZ1RqR1p0M2tfUFVsdGNqTGhOMWF2RDNOdklxa0Z6bEQ5dUtuSWQ5d0wtcVlPRl9DNzRDdndiWTZZMVlRS3QyTlhFSVFBMXdURmpUdkZoM1Z4XzFUdmItUEdNOGhVSDdfUU1aaHR2MUFFTDNka215ZHZpaDdnTVFzMjIzRXU0VnpjeXNSUExNZGUyclRVOUZEbk5DU29iWnphLTlnbmlWQzNnZVVydF9vWWctRWprVk5OYmowZw?oc=5"
-      },
-      {
-        "title": "Orban oskarża Zełenskiego. \"Stosuje moralny szantaż\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXktN2RxUDFHSm1sY2dIUG9ObGhJQWJFV0d5NHJlRnZXSHJpSzlJTk9zV3NIVk9BS3FsVUVDNUgwaHZqOXFuckRrQVNJeTBjbFZ2R0VhQ3phZFZyVkQxN3FhRU53RldDNUJTLW8wUVlwSjRTTVQzRWFNZUpTakxDSTZtbkhCcmhBdDkxMU9weTZFVy1DNjFLbm9ZcUlyX1QxdUlnZjZKdEZyaGpPekNLLWlwaw?oc=5"
-      },
-      {
-        "title": "\"Izrael przegrał starcie o Strefę Gazy\". Negocjacje w Egipcie - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEw2bTJLckxVb3RCam5yZTdLSnEteFF4WV9QaXh4Z2t0M3dIemxZaDN6YjR3cjVrTjVoMmdfU2VFYUh0aS03dmp1a0xibTdTeXEwdGZxQ25tSFUtVm5jcHdGV3hMRGNSU0w1TTFhQURPM1hkb2k1OVV4aEEyemJucXB6XzYtS1lOQ3AwU2haTHJiekNJWXBaVWhyZFN6Z9IBmgFBVV95cUxQNnV1eGtHYVVidzBuakhjMG5Oam5HV3pFdjF4b004TDdaaF9JVGhwR0YwdW1fRUN2eDBPLWlJM0IzM09NZ2IyX3pkNGdrdWdxZ3NKdlNONEN4M1B2OTFtcENna1l1ZjZQTXRMWlZmN3MxUDNvUlFfQU1RTWxqMzdQTUMwOUtkeG1NbWhwT18tbURsS29sXzVGc1Zn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-07 10:18:59",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Szpieg z warszawskiego ratusza. Jakie materiały wynosił rosyjskim służbom? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDdjU2hleUxYYXFKU1ZJVDNscmJTdTVHTFF4Y3E3cWw3WFpQZ2laS080ajhEbXVsSEZFSzNFSkh1UkJKLXF0WUhOWWpOVEZ6XzZ5TUV0N3pJQk55ZkE3anNpS1NKNllLQmRsQzRYTTdSVzZJamxYbEpkSFJLSFlCem1UeUZCVkt0OXZ5dmZTRlBnWnR0Q0hMaGUtckZwUWdDazJBUEszUXVKci1JdVJFYzRIZFBwSDRKTXVpRkFUc2NYU3FLSUZXSA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-09 13:11:54",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6659,
+      "EUR": 4.2569,
+      "GBP": 4.8981,
+      "CHF": 4.5704,
+      "JPY": 0.02399,
+      "AUD": 2.4126,
+      "CAD": 2.6276,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 447883,
+      "DOGECOIN": 0.902363,
+      "ETHEREUM": 15978.36,
+      "LITECOIN": 427.73,
+      "RIPPLE": 10.32
+    },
+    "indices": {
+      "^WIG20": 2894.89,
+      "^WIG30": 3751.66,
+      "^WIG": 3751.66,
+      "^NCINDEX": 286.44
+    },
+    "news": [
+      {
+        "title": "Wotum nieufności dla szefowej KE. Jest decyzja europosłów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOellGRXhNY2t3SHNuWXkxZ1VkTjBKdzg1WUNvaGZFZm9NcWFsaDNybEVWS0x0bGRWdktGanFDMXZCMlBoSFVnRXQ1YmRzTTBIYW1CT3RiWTBuSGUzcTRsS0NJNHFNTWRlME9HUmx6OTJ1T0xRRWlscmpvNjJNaDB1QlAwVjVlYUdmMEdxSElpRlhRMG5HTm9TMV9DTHYwUQ?oc=5"
+      },
+      {
+        "title": "Porozumienie pokojowe Izrael - Hamas. Prezydent USA Donald Trump ogłasza sukces - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHJaeEJ1TE92M0RZaktGXzdxQ3FFajRTVGdYQVdvMHFZWHZqcWI3TkItQ2NUV0JCTk04SGQ0REFsUjh1NXdIVHdtZHpNZ1F1ZVRfcXJkMGxNazBaNUdtSEFKc21qWXJSeWl2Yk5Nc1VGVHZUVF83b0N2RE5ySm5EZHFITEhza042WV83QnhuNFNzOWNHVF9naDl3QXlSazhKdWFWelNhVFVOcDI5Y2VvX3BNdUxQZldUZ24wdE51YVU5UQ?oc=5"
+      },
+      {
+        "title": "Waldemar Żurek ujawnia swój plan. Są szczegóły w sprawie sędziów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHhwQml1YU9OZEsyc2x1TThfeWt1R2JXMDlDcHdkR2ZMejNIeURldVl2bjlRbGQyTnJSaDAzbG1iMzVMUmdmRTlEbGdzQVRjWE5DY3RaNTdJNTBUV1YtYUgzaENfWWVqTGxGdFNsM2J3cEdtQV9CbnZLTkhKVzZhU2xfaklRSVFWWUlDVmlHS21FRUkyUVppeFBJbjNJRm9xdkk5MFBlY1FQNDQ?oc=5"
+      },
+      {
+        "title": "Polscy strażnicy graniczni zaatakowani w Gruzji. Są poważnie ranni - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckJFV09raFA3bkZXMlZBQ0JpdE11N3c5Um9MLXZuMjh2Wk93YjlITWdBUlM1bndCMDJZeHJFNlpaYTh0Vm9rR1JTa0hpVW1pc2FvcnZzZl9WRmRLWTZ0Tk9IbVY0OXNUUnQ0M1BLZUszUWJ4OUd0QWlDaTl5MnBLTWRTZGEyTmJOZW53dzVOSzI4M1pXaXVMN2xzX2lwMXRNMGdNMnByQ0NGRW1FTTFPVmNYV2pBYkQ0?oc=5"
+      },
+      {
+        "title": "Nawrocki napisał do von der Leyen. \"Polska się nie zgodzi\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUxBUEpVNnpIQ3BQMjl1RVRaRFNXQmJ6dnc4QldoNnEycDJwdG9qMmV2bWltT09VQVNkaGd2eVExYUZ1TzFNS2NfaHJGTUFwblAwZ2VFeWRGOVprZmgxeHhmb0tJX296cWVQQ1Q0V1RaU1VnNERMamJORld0aXIzeWZ2ZmllazRYakRvazFkMmpBOXQ1MlBNcDA3eEwwUEU?oc=5"
       }
     ]
   }
