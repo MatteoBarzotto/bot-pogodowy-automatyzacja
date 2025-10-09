@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07 05:26:50",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2521,
-      "GBP": 4.8962,
-      "CHF": 4.5631,
-      "JPY": 0.024237,
-      "AUD": 2.4045,
-      "CAD": 2.6128,
-      "CNY": 0.5084
-    },
-    "crypto": {
-      "BITCOIN": 451520,
-      "DOGECOIN": 0.968688,
-      "ETHEREUM": 17029.68,
-      "LITECOIN": 429.6,
-      "RIPPLE": 10.83
-    },
-    "indices": {
-      "^WIG20": 2838.1,
-      "^WIG30": 3690.88,
-      "^WIG": 3690.88,
-      "^NCINDEX": 284.29
-    },
-    "news": [
-      {
-        "title": "Polacy z flotylli humanitarnej wolni. Radosław Sikorski dziękuje służbom - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnhrZV9iTi1yRDFjeFdhZVo4bE9YcnJ6eEVXWGVsTjF1dDY2M01GM1RQSGo3TEhHeG9uZ0ZyRXViNVdWbzRTSjlCS01fT2s3Z0lnQm9uZWVscVdRWlh4czFoajBWQzJyMlZfSVZrczhaeS1BVGZSb2dQMEZqSS1NX0FtRmNSTVYyOTBteFQtcU85OWttOGp1U2M5NmNBa2I3YTZGX3UtQlBYZ19fQVQ4Z29PX1QzdThfQXc?oc=5"
-      },
-      {
-        "title": "Nobel z medycyny przyznany - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFJGakNnOWpTNUw4V2lvVG1ISm1TalpxaEhLemFyamhTN0x5RTRpUEFQamtBOFZCdEROamlTelZFRDlfSTFvT2dIQWhvb2x4Z2R2MkdGZVIxVGIwQm1GT19aSXhDU18tZXlNSEtsdU9xRHpQLUhjcFdRYTRpNVZvUmlLcnp5VTZPek1LaURYVFRBMzlnMDhQRVJaQ2NiSWVRREFv?oc=5"
-      },
-      {
-        "title": "Potężny kryzys we Francji. \"Macron może przełamać pat, ale wysadzi tę V Republikę\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTS1KYTVZTFlNUlBHSUNyQUxUUUZfQ180T3ZocXRKWFZDM2VJczR6SmwyRmZ5dGM1VW5nVEEyN1MtTHlOSDRVWERqdkh1aGc4azgyUzlKY3duZlZDUXU1SXV0Z19DMTRkTWFyQnpPdTNVcHdUWHRPYldYYjROOW5ERm1RamtBbUt5ckFXRjVNNHM0bmFCVzRuV2VJeXpWdjhCZGNrOWs5TE1ZXzUzbHppLUpuTmJfUEs2Q3RsS2ZqVTNHN05RLVlUVEVQek5zUVZMVk1Mc3FucTI?oc=5"
-      },
-      {
-        "title": "Pościg za żołnierzem w Elblągu. Padły strzały - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUxTUFpNdlR1Uk5SZ21HM2c2Z3Qxby1QWjExZ2tvYUVLenJwVzFKd0ZKM3pEazg4UVRhT1o2cm9HSzY3QUM5MGZ4R3BNNW5FOElIRDN2U3JzdlZ0ZlQ4QUpJTUpaUFBYbmZYUEIxc3Y4Nmd5LVJOZ2lOZmtBMFpKY1lQRUdsNGNSbHhSTkRnakllU1lWYTRF?oc=5"
-      },
-      {
-        "title": "Donald Trump o Tomahawkach dla Ukrainy: podjąłem decyzję - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc21sWmFjX202ejdCSU5JbkJOVFhqZnNueUluYzU2cklUc1lQU2Fab1JjYURTUTBzb0lMdHlSbXFvZHVFX0Fyc0lqdml1QmlXTFBWY3FfdDJmMnlPcUlmU2l2QmFEMGdXQ3EyUGdPcEptYlRiMDYyTVhLVEx4TVI2VnZ0cnhIUVFBQzhSXzRSYmZvZ1pkcmZDYmZmWkhwRGNuUTR1dnJGSWgwbFVIcXJZYjNQTkhadTFwaDJnR09MVWI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-07 06:16:48",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Pokojowy Nobel dla Donalda Trumpa? \"Członkowie komitetu musieliby stracić rozum\" - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnc0NW1MWEVRX05xMTNfUXloSnk3WjhjWUVpQTlhNm95MEdPc19CQ1NhMXAtME1zcnE4aHRCSXZuc1ZtQzNVQnh6M2Jjc1JKVkVQYjVwbDZUTzBkM013WVdYVDFSTktpbGtRRTVkRFJVV0NqODQ2MGZsRC16WWYwdDd5bVhyUDdicVJmanowMDVRb05nclZ5T2ZBSU5iaXZfMzVmNnU2Y1Q?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-09 09:13:42",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6619,
+      "EUR": 4.2533,
+      "GBP": 4.9103,
+      "CHF": 4.5712,
+      "JPY": 0.023975,
+      "AUD": 2.4026,
+      "CAD": 2.6244,
+      "CNY": 0.5086
+    },
+    "crypto": {
+      "BITCOIN": 446915,
+      "DOGECOIN": 0.90833,
+      "ETHEREUM": 16220.37,
+      "LITECOIN": 431.16,
+      "RIPPLE": 10.35
+    },
+    "indices": {
+      "^WIG20": 2891.01,
+      "^WIG30": 3747.83,
+      "^WIG": 3747.83,
+      "^NCINDEX": 286.17
+    },
+    "news": [
+      {
+        "title": "To będzie kluczowy czas dla Strefy Gazy. \"Rozpocznie się 72-godzinne odliczanie\" [RELACJA NA ŻYWO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkhRRlYzdEMwbXN5T19hZE9qRERya2kxeGw1aTlmTjhzZHl0OWNpVDZMUDhyLTZQcWZrN3g5Mm5CT2t1dXFTdDMtYlJjei1kTUgtRmJFYzU3TUtaY2R4TDdDeWJ0eTY0TXNEUXJqc1pHY09wNWQyWXdBUU9SdVdYS3lIQWZTSlVUbXVqYWtDbUtyekpHMkM3Q3dNTE5SOFpFQlhlTHZPR3lYY3RPSV9SN2xjTUlydkRlTk9PSHpwX2RxVGJJ?oc=5"
+      },
+      {
+        "title": "Szpieg z warszawskiego ratusza. Jakie materiały wynosił rosyjskim służbom? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDdjU2hleUxYYXFKU1ZJVDNscmJTdTVHTFF4Y3E3cWw3WFpQZ2laS080ajhEbXVsSEZFSzNFSkh1UkJKLXF0WUhOWWpOVEZ6XzZ5TUV0N3pJQk55ZkE3anNpS1NKNllLQmRsQzRYTTdSVzZJamxYbEpkSFJLSFlCem1UeUZCVkt0OXZ5dmZTRlBnWnR0Q0hMaGUtckZwUWdDazJBUEszUXVKci1JdVJFYzRIZFBwSDRKTXVpRkFUc2NYU3FLSUZXSA?oc=5"
+      },
+      {
+        "title": "Przerażający widok po wypadku w Słowacji. Sześć ofiar śmiertelnych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0FZY0FyamU1VFdqYnBIbDdrM1JpbllIc3pzSDhtdTNyeXVVU0lyWks2MUNKVDNMSlNKVXJfQ1huVGpld3pPZW5admppOWVPWkNwem9SeVdqS1YyY3Y1cXJ6ZU8zMlc3bm8wQXJsNzNIS0VCc0tKUGxCQl9lYVFSVGlNU0VjNHVBTWtSaUU0aThkeFFqQkhteTYwajA1Wm9EeE9Xa2NCTTBjOURF?oc=5"
+      },
+      {
+        "title": "Stracił prawo jazdy za alkohol. Nowe informacje o sprawcy tragicznego wypadku - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOampuUVFfdGtCSk9EUEQxNE5fR3VRSmpwSk5ZN1o1b0RjMXZGOU5TSTRmYkF1S1NQVFRYM20zUUZCdVBhbVpPMUJFUkgwVHltN09qTWhkbVowaHdzVGtJeDc3TDR0Ymh1SXpZRXk2NjQwWFVyOGpDS1pMZTM3WUxQMnBOUGRjSm9vcjRkMFkwR2lTNnE4cDhYblFfSjdrTDVIYXp2ZFlQZVFpLXM0REx3WjhVQmdOWkdC?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro ma niezapłacone grzywny. Ujawniono kwotę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQTNRM3RaSzBDRlczbnhnVjVLSUduSEFTQWJ6dXU5bHhwdFByd21EWFdGREU1dllKV20wVkdkSFVTYkN4aEVpSzB1bGxDV09BdDhRd1Q0SFV0RGlITGJVMFJmcGo4WEpnYTRjSXVwZ2FEODlhREN3Y0VLcDVQMWZxcEFZdDQwZ3NBLTNQdHFDZjBPQjE3Y1Nqempzem1USjBVcnVGVw?oc=5"
       }
     ]
   }
