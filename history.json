@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07 18:16:52",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +14°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2559,
-      "GBP": 4.9023,
-      "CHF": 4.5728,
-      "JPY": 0.024193,
-      "AUD": 2.4045,
-      "CAD": 2.6142,
-      "CNY": 0.5089
-    },
-    "crypto": {
-      "BITCOIN": 442966,
-      "DOGECOIN": 0.910311,
-      "ETHEREUM": 16343.42,
-      "LITECOIN": 421.31,
-      "RIPPLE": 10.5
-    },
-    "indices": {
-      "^WIG20": 2868.67,
-      "^WIG30": 3722.94,
-      "^WIG": 3722.94,
-      "^NCINDEX": 281.94
-    },
-    "news": [
-      {
-        "title": "Donald Tusk o Nord Stream 2: problemem nie jest to, że został wysadzony - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnFyaGVGQVlpTGppTncxb09JaXBkZVZjeEI2UGpEbUxaRk54NHotWDNVZnN6Vm9CN2g4Mkp4VE4wWFJ4YVhtOWwyd0NVcXNxbXhxVkxaRUZob090UFNwQ2NDVjRNbEVlRktic2RXQmhsblFkY1NRX3Q3aVp2YkR1QS02Qy1fVU9Zai0ycHQ0blAwVWN1cFNKdktEUVhzYWhDVjh1RXBLelgyT05ZOUE?oc=5"
-      },
-      {
-        "title": "Posłanka KO zawieszona w prawach członka klubu. Zdradziła kulisy decyzji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXNiSE1oV0tzSVE5aWxLZWRaWlRqM1Yzek1sSEdqRjlONXotdS1rc0ljc1BHcWxmN1BfNUxIeDZ3UTZ6aFpEbExlc1hsRXlvQWdxcTFRRlVSeVNrcGc4NjVKVFZ6NEFwYTAtR3lDSURsblVuNzRuS3N1c2UzTlNRX3FieVhMWnc0X2w2MmNfUjQ1cE5kejQ3ZFBWM1Q0VzhJZTlmcXNPSGFWQUhRZWVidg?oc=5"
-      },
-      {
-        "title": "Niemiecka burmistrz dźgnięta nożem. Jest w stanie krytycznym - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXy1OQ2syMVlZSWtfUUFjb1huc05TY2V6Mk5JQVRLYkZnT2lqaW40WFp3OW9IZ05rc0syMnhWRjJfeVdKOC1YUGhQR3dSMExTZFUwRWJNNndBV2hESUZmUERERnFVNzI4NjBKTHpBMnlJV3diTHZCZDlVdGoxZ2pxS293aU8ybW40S2wwNEVFLWdRTlZMQ05lTjI5UEpxVllPWU9nSlQ1V0R0cTVHTUVrb041Um41UmJjY1UwSHhwYw?oc=5"
-      },
-      {
-        "title": "Ciała nad rzeką. Kobieta przed śmiercią wykonała dwa telefony - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREZoYTJkOW5TRC1xMGxpamMwUFRNNV9HeDk1eE51ZlV3VGxONVJBSmpQeklodXdNcUlMdHhtS0VkaUVpbkdRQzN0dE5VbmdkZ2IwQXdZT0pZck5YMjNOTDc1Y1ZESlhJak5QZXZ1SU15a0dnSzk4VUdXNFVTb29mdS0xejZlczZ0OVlrUGhVT0t4eVpfU1pBemtVTW9PNWJrQVZmd1lXY1Q?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek: Nie dam się wciągnąć w polityczną grę, którą rozpoczął Pałac Prezydencki - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGJDajlUM3NoWTkxNG1pZlc2dHU3MDk4TXJXVHQyMDVaTTUtaFNsQjBnNjZ1aWxEZS1zLS01X0ZvQVdnT3VzSWpibVBCVHM0cVZwNk42Wjgtam5aVnY0Tm42LVJnRV9LbUJDTFZkSFlXNU9OY3JndXNaWU5TN2I0cWlBd1dpRXJHQmlrX3RIMzVHTkVKTnlPcUh3bVVpSFNIS1RNRmJwSmpuSWlpVnlpRklwQTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-07 19:12:00",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Incydent na spotkaniu z Sikorskim. Kobieta wyprowadzona z sali - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDdEU3hERWQwSDA2QnFPUGw5TmVEZWprZjdhUXY2UFo0UjJ1X3RYVjZfLWhQSkI1Uko2VE9OM3dlaVQ5NGtZUEl2Z2dpQjE5bEZSdl9kTk9xc200ejREZ2hFUDVHWmtXbWpZUzVPMTdxVjRZS2VpTFdYb3hjZmxCdEpMVGF1ZVJTYWpMUWEtNVRfdFI2RS0yS0lTNVRTRDZnS2hrNUZ3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-09 22:15:09",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6659,
+      "EUR": 4.2569,
+      "GBP": 4.8981,
+      "CHF": 4.5704,
+      "JPY": 0.02399,
+      "AUD": 2.4126,
+      "CAD": 2.6276,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 445408,
+      "DOGECOIN": 0.908147,
+      "ETHEREUM": 15966.84,
+      "LITECOIN": 438.22,
+      "RIPPLE": 10.27
+    },
+    "indices": {
+      "^WIG20": 2874.3,
+      "^WIG30": 3724.15,
+      "^WIG": 3724.15,
+      "^NCINDEX": 285.52
+    },
+    "news": [
+      {
+        "title": "Debiut! Jan Urban namieszał. Oto skład reprezentacji Polski na Nową Zelandię - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjk5VWRXQl8xMWlBRnZKLV96Tk1GY1pQVEhFVWZMb2lHNWt4bktVQWM2OVlGSGQ0Y0toU0VqelBhNXFqZjBFREY4MmE3SlBfai16anhqLUprWW9TekRfT2xWZE85QWlYcHh3V3NHd2kyMktOejd0eUtZQnY4SzdGNmJ1Wlk0YVZ2bnNpSEJBOTczeUQ1NnlxMWxGTm9yamxlS1VreUVIOGw2MmpEbXhNSzNrSHVzOTlWZjlaSjduU2wwOGJtaHJnNHpSX21obk9YS2g2blV5MklDSmlOZGJBcjFB?oc=5"
+      },
+      {
+        "title": "Donald Trump ogłasza \"wielki dzień\". Chodzi o Izrael i Hamas - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUpRZDVZZkZPX0lyYkxzdkpxOFY0dDFfMUdqb0p3Qi02T0o5bmJSb3gzRENOVEpjTmNnUzAxOXhiaEY0OHVXRzEwS050VWdqeWNfOGZsVjVScEc5QmZRR29pb21Cc2VHVVRDNXRIVm1JcEFpbDJSS0FYRjhRTGF4bDFoNHlhSzFOajQzdmNMWG1KdV9FLTlqQi11UGUzMTEwdWpYUzlVZjJvTFAwVHc?oc=5"
+      },
+      {
+        "title": "Minister Grabiec o wyjeździe posła Sterczewskiego do Strefy Gazy: bardziej wakacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEJPV2NBaWNFNldJWXVrU3dvZ1d2U1kzQWs5cHg5UnRsOUtuVG1XSHdPVkw4aDl2U19CbXVKTWJMMDNpd3RCNWtNVEdmN3d6d3U1Q3E2UW1PR1RaVl93VlBqS3ZjUWY3R29Mb3FyOGs1UVRqUVYwUGRhSGpYWnR6elNUTjI5MUNhR081Qk1mX1lNckFzcF84bFU3M2ppREUwQUJ5TzJMXy10S09NTEcwcXJCQ0trUXNXeE42RF9n?oc=5"
+      },
+      {
+        "title": "Sterczewski ukarany. Za nieobecność w Sejmie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYU5YRXIxSXR1RG1jRGNXc0d0amdsaFN2Mk9QNWhjUGw1dUJpSy1saHR3Y25adHoyek82YlBoeUVEaHhYRXc1UUxnT3VITHp5blBSV1c3U3ptZWV3ZWU0MmxSWjNMNjJoYzQwZFVabHJ0NzAzd0J6VFRLN2hIWlJQdk1YVG95TWRwa1NOUlpjZw?oc=5"
+      },
+      {
+        "title": "Spięcie na debacie o alkoholu. Poseł PiS wymienił nazwiska polityków, zareagował prowadzący - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWlFT3g3QXNiTXlrVW1GT214R1BjdTB1ZFVmLVNrT0FES2VHT3E3bzBHR2E3VS1ZelpyQTJHSWJGOS10M1dpaExUQjN1ZHduUjNteXBELUxsZ05zNVNFV01aOG1ReEZHQTktLVJpNm0wMktUUUV4WWdkcVBMdk1TakVpSElBV2JMR0kwdF9STG52YjVlWWJCbmtnbExNV2IwZjNGSHFjRHh1Zw?oc=5"
       }
     ]
   }
