@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07 11:15:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6446,
-      "EUR": 4.2521,
-      "GBP": 4.8962,
-      "CHF": 4.5631,
-      "JPY": 0.024237,
-      "AUD": 2.4045,
-      "CAD": 2.6128,
-      "CNY": 0.5084
-    },
-    "crypto": {
-      "BITCOIN": 452902,
-      "DOGECOIN": 0.950282,
-      "ETHEREUM": 17073.17,
-      "LITECOIN": 432.15,
-      "RIPPLE": 10.84
-    },
-    "indices": {
-      "^WIG30": 3707.53,
-      "^WIG": 3707.53,
-      "^NCINDEX": 282.72
-    },
-    "news": [
-      {
-        "title": "Szymon Hołownia wyznacza czerwoną linię. \"To byłby koniec koalicji\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGhad2xMb3IzeGhHX0ViUmRsSnhGZWpXaG5DemV1R0ZkMG1zclREQS14NG45UkFaNzI1RW9jeTR0YVhHUUlVVzdoZThBd01POXRPczh1ZWtDTW5OT1UtZk1nU1dnWXhLYXNORmNCLTc3bzVnOFF3STVmbTRtVmVJRnJpUEk5bS00T1JvVDZyeUl1VHZ5SVdRSlZPeUsxQk80bVVRVm5UWQ?oc=5"
-      },
-      {
-        "title": "Samochód wjechał w przystanek na Pomorzu. Wśród rannych dziecko - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFQzYk5aSVB1dXViYXI5YnoxeXE5LXZuQUp3aXU2SG5weFk0WmNuRE1KOG01VEpXWktBa0ZGRVRMby0tcF9XV0RzRnlybXp4NWdNd0ZhRldsWWJELTZsMHg3aE8wT1BwX0xMVHRwaU9LZ2ZhVVNoTDZfR3lGV01tSkI0cmEyeEZwMEFIUTBGNHpHT2VkUjZ3aVJTcERHM1YxSmpGaGZzaG5CZGhwa1hzZEFDbW4tUXpxNzQzZkRjcTBJS28?oc=5"
-      },
-      {
-        "title": "Ukraina uderza w Rosję. Atak na strategiczną fabrykę Putina - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW92eDc3WXQ1MEFFbnZHRDRxSVotdzN6SHkxeWlhMUU1WUpkV3A5ZXppWWxEaE5uaWw1dUwyZXYwdHE1Ul8zdVRha3h6SmR6alBwMktCcTdOTHVILW9WM1JFNnI1eWxyRUlBc2NvelA5Mnk1T1BSQkZYM2JaSmdEZXBjd3pqcHR5ZVo2MmhZRWVSQURFZ0s2VkxBLWF0ZG5YYW00cG5rTEd4V1lV?oc=5"
-      },
-      {
-        "title": "Orban oskarża Zełenskiego. \"Stosuje moralny szantaż\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXktN2RxUDFHSm1sY2dIUG9ObGhJQWJFV0d5NHJlRnZXSHJpSzlJTk9zV3NIVk9BS3FsVUVDNUgwaHZqOXFuckRrQVNJeTBjbFZ2R0VhQ3phZFZyVkQxN3FhRU53RldDNUJTLW8wUVlwSjRTTVQzRWFNZUpTakxDSTZtbkhCcmhBdDkxMU9weTZFVy1DNjFLbm9ZcUlyX1QxdUlnZjZKdEZyaGpPekNLLWlwaw?oc=5"
-      },
-      {
-        "title": "Szkoła ze 100 proc. frekwencją na edukacji zdrowotnej. Nawet ksiądz zachwalał - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVRNR2hmYUVIZFhhLVdnZmVTQ2lDR0RJWjJpdVlMbjZ6U1psSWNHRXcyZkg1UThVYnZMNzFRZzJuQVVFbUEyV3pDVDdKWXhxMmdCQ2Y5bXZFM0dNT20tZms1bFc4MThkZ0FTZW9QdTVlR2pCV3BydFBYRXRfSHZDOTVLb1MxT2FxY195TUVZX0NRblpUaUdIN04wRzM2UVJJLWxVUlhSZk1mM19yQnpQQWthYmt1QWhZaFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-07 12:14:17",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2591,59 @@
       {
         "title": "Europarlament przyjął rezolucję w sprawie rosyjskich dronów. Chce \"zdecydowanych działań\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMlNRcjBRa1A5REdrcl9NNEI0Tlpua1lwMUxtT2M2SW01VGR3SW12ckJ0cU82TnZ3NGpNMXVWRUJWVUY0S2oxT1lfR2c4U2xMTWxzdHFhekhaS2JkVVZUZW9abWVOMTJBeDU0YmR5V0VrZ2owTklJbXM1RXoyT0RQVzljU1A0WTdHQllQeG1nVE40OF9GWGhlX1RvUDNpdHVwZmswb2FQWlFRajJKaU5pWkZtaTg0VjBIMFlOU1lkRUVGaVZKOXg3cE1tRVFJOVBRT2hwTTNCV3k?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-09 15:25:44",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6659,
+      "EUR": 4.2569,
+      "GBP": 4.8981,
+      "CHF": 4.5704,
+      "JPY": 0.02399,
+      "AUD": 2.4126,
+      "CAD": 2.6276,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 452328,
+      "DOGECOIN": 0.911317,
+      "ETHEREUM": 16120.77,
+      "LITECOIN": 434.14,
+      "RIPPLE": 10.37
+    },
+    "indices": {
+      "^WIG20": 2885.89,
+      "^WIG30": 3737.32,
+      "^WIG": 3737.32,
+      "^NCINDEX": 285.74
+    },
+    "news": [
+      {
+        "title": "Są zarzuty dla sprawcy wypadku na Pomorzu. Wjechał w grupę chłopców - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMHMycFJoVEV6RkRqR2xobE1YcXlUbHh1SVVjc0podEJUVENRQUFTMUFVNm85YXlBdHFIcVMtbzlqWHYyNGd6UExlNlB4bDZ1WVdYVjFCRjFuM3VSTmluTkFneDF2QmI5MzY4U0NyWmVRbVhoY0hUb0tMdXp3b3ltSE5mc09YT0FfUFNCbUFGVUhGT0Q5ajQyckZ0UW03Q2htVkYtRGVpZDZVOXFHS1poeEtnZnJNeW5LRlMyWS1oVUFkZ0tkbkdFSA?oc=5"
+      },
+      {
+        "title": "Polska stawia opór planom UE. Karol Nawrocki odrzuca przymusową relokację migrantów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVVtUHphVm1FazZMOF9IbFRkSkh6bjBxZFVHREt1VHo5d0RjYTl1MS16R3YtcHU3M0dUcFRmeTNiQXVpaTFCNW5NSDJJWWtnNWk1SkRUMWlJbk83YlFpeXp1MjlzNlE4Ri1GYmNaeGpaRmNYOGsxZ1pPQ3BlbF9xdkhNX1ZvQXB0SFphcWdkVnlnTnF4THZEZzZrNXd0YkdJOEt3czNGWTlZbk96eEI1WFJ2TQ?oc=5"
+      },
+      {
+        "title": "Putin przyznaje się do winy: to my zniszczyliśmy ten samolot - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFlqQlJDZ1UzOGN4dEg3SjVZN3F4UEZsRnNEOGNoNVcxX1NSdU9iY2huMkdNd0RVOEFkX3p5ODBPSllBUGZFZjJNQkxGV0cxa3M2dWpiYWotb3o4RjY4c1JkR1Z2RDd5X29NRWlUYjU5eXgyMk1zbnZVWVQxMTA4RERZZU5GY2xheWJLcjNMaXRjZ1Z3dW9EOGhGNnJUY1lEWG44YThsd2VkT05OVlE?oc=5"
+      },
+      {
+        "title": "Jest porozumienie Hamasu z Izraelem . \"Dużo pretekstów, by nie dotrzymać warunków\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEVaeTVKQ1FsQV8tZWJ2bUxjTExPMm5Rc3VDS2F4SmxmWUFlNHpjMmttc3RjRnJuRVRpLUlGemVVdWFNTlFBUXMzLUlLcFhXR1hQbW12RlhmZFZjblBoNkNWYXIxMjFYN1h1QURxNGZocTdnZ1BQcWVlQkx0RFVnZkhTMUFUM2sxWGNySkNfMWpfd3RSWGxVRS1jLUpkUFAwZDk3QVpzbw?oc=5"
+      },
+      {
+        "title": "Szpieg z warszawskiego ratusza. Jakie materiały wynosił rosyjskim służbom? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDdjU2hleUxYYXFKU1ZJVDNscmJTdTVHTFF4Y3E3cWw3WFpQZ2laS080ajhEbXVsSEZFSzNFSkh1UkJKLXF0WUhOWWpOVEZ6XzZ5TUV0N3pJQk55ZkE3anNpS1NKNllLQmRsQzRYTTdSVzZJamxYbEpkSFJLSFlCem1UeUZCVkt0OXZ5dmZTRlBnWnR0Q0hMaGUtckZwUWdDazJBUEszUXVKci1JdVJFYzRIZFBwSDRKTXVpRkFUc2NYU3FLSUZXSA?oc=5"
       }
     ]
   }
