@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 12:14:19",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6619,
-      "EUR": 4.2533,
-      "GBP": 4.9103,
-      "CHF": 4.5712,
-      "JPY": 0.023975,
-      "AUD": 2.4026,
-      "CAD": 2.6244,
-      "CNY": 0.5086
-    },
-    "crypto": {
-      "BITCOIN": 448921,
-      "DOGECOIN": 0.909864,
-      "ETHEREUM": 16417.64,
-      "LITECOIN": 427.54,
-      "RIPPLE": 10.51
-    },
-    "indices": {
-      "^WIG20": 2871.27,
-      "^WIG30": 3725.03,
-      "^WIG": 3725.03,
-      "^NCINDEX": 283.52
-    },
-    "news": [
-      {
-        "title": "Auto wjechało w grupę chłopców na Pomorzu. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmJpZFJUNWxzcS1nRUZnSUZpd0ZqZjRNT0dDWXpNQXdKMHFIQVdnSjRsS3EzY2FObzZiOVY3d3hIMmFOQnAzSy1NdUtGUEZxb1RIdW1nSHltOTFTOFdZTHBUcDJKMlRON3VkR04xOFBsNFVTSTl2Vkt3YWlsRGt6SGRWdXZhZzRKZWRBQnZrejFzRTlvYmc1b05YRmlvcHN6dC15QXFB?oc=5"
-      },
-      {
-        "title": "Afera Pegasusa. Komisja śledcza składa doniesienie na Zbigniewa Ziobrę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUxWS3VXUGlQQ01LOUNmV2VXcHNpVVpRN2FpVWI4NG9LYkVRYUkxNi12Y1Fab1RXTVJnTjR4d0czM3lvaTA4dS1LdEU1dVBxdTVPZTAzeDhzVllubHJ6aGRVTGF2T0tMa0psaUNyMms1OHBjVWp0QXZhbi1MY3N6SDBURFd4ZDhyZGNOVG9ZR0d6T1pXdDRpOG1BZXhsMGYzcEk5VjZkVDVxRE82dXc?oc=5"
-      },
-      {
-        "title": "Turcja odwraca się od Rosji. Gaz z USA i własnych pól - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEdTbXdXaGRUNjNBSERMMXlPWFMwWXlBdjFEaktqU3FVSmJrUFFndDlucm83bUNMcEdzTHhhX0tvQVhWR1BOcEVZYVo4dmx1MHBad1Z2X01UREFRMHBTdGxacmlVM2lSamRsOUkyaE9ma1V4YXZSTFdYVkR0SUQ3VHZQYlRCSmZ5LU9CZURtMmk4YTNZZXlpTk1qRTVTUkpKR1k1a29n?oc=5"
-      },
-      {
-        "title": "Donald Trump nie blefował. Chicago ma zacząć się bać. \"Inwazja przeciwko własnemu narodowi\" [REPORTAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkZIMlBjSDE0V0RUVjd5dlJ1MVkzYXZHd3o3cVBkSXVUT01LT0pZMnJQeDZJRTRtRTFnbnZVR1pfUFBVUllBR1BIWXhfS0JkYUNBNGNCUWphNTEyV2FSaHFqSFRYSEFmZjFfWFFkTkljeS1HMWdfb3czZkNMQzJHNEhvN1lWZHNhWjNFaS16Z0pfMnFjZU1UdG5tTHJHTjFFYVdnUUJibkdiUllNUDU2WjFZZVZwNFpH?oc=5"
-      },
-      {
-        "title": "Ta broń w rękach Ukrainy to koszmar dla Kremla. \"Rosjanie zobaczą, że to wojna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb20wSk5LVzJDVEZiREhBeGNvSkhZU2piSzF6MnpKdUNCT3E5aVpTZndPdVJOQjRiMTA3a1RDb3IzUjhmOThfWUhCU1h3VmF0SkFzcWktM2YwN1JZU3VUOVN2eEN6ZTlVc1BCejB1QmdzYzcxaVdvdmZMZml2WGo1c3U1TGRxbFZEaVdIeHhoWnQtRzNZamEwQUZMVWlSaVMzZ19mRHNfcTJGRTRhaDE4RVlDVVhvZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-08 13:11:19",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Pierwsza faza planu pokojowego dla Strefy Gazy. USA wyślą żołnierzy do Izraela [RELACJA] - Onet",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTmNHY1R6bHNCM2swU2NlM0JyV042T0VqVWxmRjBxN2UtaEhaZ2JQbktoMDFwUEdFa2RETGFlSVFDdWJIeUV4cUNKQXYyamdqTENSeUNyX0dicVJpdndlOHEzbDFFVkozbE1VOENPTDJBSUhRRS0tdnUzc255Nk9HQXlUWlZ6OG8zR3BXSl9Md01HQlQxWlhmTnNWUzBvQTA5cEV0SmpnVmMtOU1PWGxXZWxLcTR3RmRyUktMYUhuZFlhX0xUQzRWcW9pdnVpVjlJeHp1a0xnZUpzT29LSTMtdWZB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-10 16:13:31",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 448775,
+      "DOGECOIN": 0.929519,
+      "ETHEREUM": 16059.02,
+      "LITECOIN": 496.0,
+      "RIPPLE": 10.43
+    },
+    "indices": {
+      "^WIG20": 2870.85,
+      "^WIG30": 3711.39,
+      "^WIG": 3711.39,
+      "^NCINDEX": 284.59
+    },
+    "news": [
+      {
+        "title": "Donald Trump bez nagrody Nobla. Ostry komentarz z Białego Domu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2hrbk4ySFpMRWNydG9EOVpBT3FON3pPN19mc3NXSkZwdlFCcFFLeVhIVEpUQzUtd3FlWGctWEdIQXpqbkJWbU9VX0gyQlJxcTR2Z0JZS2kyeFhvaUhHcmhVNW1QX3BDLXRqamlTTnYwa3V3N3l2a0RyTE9adGhfbmJkNl96cWE2MGJQcWFOcWlxWldMdEJ0Zl8yN2w5dFlsNVJVMEQ5QjFqZ0pya0Fzck9aS3VLYnpSSWJsTUxwU2o2dTZzd1dZ?oc=5"
+      },
+      {
+        "title": "Pierwsza faza planu pokojowego dla Strefy Gazy. USA wyślą żołnierzy do Izraela [RELACJA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTmNHY1R6bHNCM2swU2NlM0JyV042T0VqVWxmRjBxN2UtaEhaZ2JQbktoMDFwUEdFa2RETGFlSVFDdWJIeUV4cUNKQXYyamdqTENSeUNyX0dicVJpdndlOHEzbDFFVkozbE1VOENPTDJBSUhRRS0tdnUzc255Nk9HQXlUWlZ6OG8zR3BXSl9Md01HQlQxWlhmTnNWUzBvQTA5cEV0SmpnVmMtOU1PWGxXZWxLcTR3RmRyUktMYUhuZFlhX0xUQzRWcW9pdnVpVjlJeHp1a0xnZUpzT29LSTMtdWZB?oc=5"
+      },
+      {
+        "title": "Awantura w Sądzie Najwyższym. Przerwał konferencję ministra. \"Na jakich zasadach pan wtargnął?\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElYQ3FQU0U5X1Y4VjdaVWpSSm5DUGJrZ05adFNBV0xGY21ZTktpWUZVbjF0cEdGSThfUUsxbGdrazVpNkNoTk92cnhtME9YSVZWUThlQndxLS1ETXc4YTR3MWVaVFo1eGtZLW5lWnZwcklzcEpuY0xSbG8xMElIUTJwNUNUdm9WWXRQTWtvdWxDZDA5YVBIVFU3VThwUU5lSmluaDZCMi1rQVo1S0Y3cXBR?oc=5"
+      },
+      {
+        "title": "Komisja Europejska odpowiedziała na list prezydenta Nawrockiego w sprawie migrantów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzRoSklXVDBHbUNLVVp4NUlzUWliOXRHdGJUd0FTemFGdWtVRWllbG9QclVLSlZFNE9JMnBxLWEwdTRiZmhKTkQwN2h5a3ZDQ0JQZXduSDEyU0t2RjlXM3dOOU9YWDdwbnIzOUN6cUp1TWwzWWFLLVZUU2U2djBSVEFzeEQ0U0l4ek50aUY3RWxUZGR0dGtheFlBMGtDZzZuMy1PWllVcGFEcEd3UVB4b1NWVQ?oc=5"
+      },
+      {
+        "title": "Tak żegnają prof. Strzembosza. \"Jego odejście zamyka pewną epokę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUJjLUZPNHRLSndHeDlIWXhlQUFyTlJRdzVUX2JkWUNwWks2ejByZWdqZVBPWWh6ZjlfbFZ3dkZsM3k1SUFHSFcwZ3Bnd24zekc3LTBuRWhGS1ZIeHN1ZEp0ZlJIN1BYa3ZIOTgzY3lNbm9NVFAxeHl2cDgxTjRnZFpOZlNYem9scFczUVI4cEZmS0JqZVVtVHM5X3hQell2UGtYbzNHTQ?oc=5"
       }
     ]
   }
