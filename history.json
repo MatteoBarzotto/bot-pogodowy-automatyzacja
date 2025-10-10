@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 08:20:52",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2559,
-      "GBP": 4.9023,
-      "CHF": 4.5728,
-      "JPY": 0.024193,
-      "AUD": 2.4045,
-      "CAD": 2.6142,
-      "CNY": 0.5089
-    },
-    "crypto": {
-      "BITCOIN": 444809,
-      "DOGECOIN": 0.900351,
-      "ETHEREUM": 16309.77,
-      "LITECOIN": 424.74,
-      "RIPPLE": 10.46
-    },
-    "indices": {
-      "^WIG20": 2868.67,
-      "^WIG30": 3722.94,
-      "^WIG": 3722.94,
-      "^NCINDEX": 281.94
-    },
-    "news": [
-      {
-        "title": "Auto wjechało w grupę chłopców na Pomorzu. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDJRcTQyZWM4WWhPV0pEV2pVYmVrbmtZR3ozNldlUzNEZlhnTVVIY19uU3RMelh4WUtCbFEyWVM2aUZJSGZjanU5VWk1VjlzWXdESTVfbTd5NHZTZURkSFExeU9mdzhvTFBxcU1RRkpLNTZONlp0OGpPNy1kWVBjUmFEVmJhdWJ3bVVYdXdkVHQteUItWXlPQWFGR0JxY0YzZm1zZlN4eWNwZnNTRjZvMWdFMlBGSy1rbmg3Yw?oc=5"
-      },
-      {
-        "title": "\"Inwazja\" Donalda Trumpa na Chicago. Żołnierze na obrzeżach miasta - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdENOTkpUem5NSF95ZkN2RGxpX2JmUUZXRHMyQkFYc2dSYUduZjA0YjJQb0M0dnJNX09vRzZDLVA1TEt1Q3Z0VHg4REFLcTExNFNHTnZnOFVFRTZxU29IY1ZISmx3c3RaSXN1Q2lONWt5dDdlRUc5SDVzUlZDNXBVYlFhY2RRN2pSYjJhRlpvcUcxUHV1Vy1JcjdvamowUDVhNGpKVVVyUQ?oc=5"
-      },
-      {
-        "title": "Hołownia stawia Tuska pod ścianą. Premier musi przystać na jego warunki - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWW9YVFZhSkFfWVBIcldHR3RyUGNReFVPRHRjQU55NWRZOTMxeHJmcGZueGNoT043NHYwdUVwSXRCSnpvRmVZOHJpODBVLWVLYkRjUVB0cGNQc09DVlZoYUxXeTVISndKd3BGbjdxNHZxWGdvR215VjVUV3NWOGNfMDRiUzJmbWhQdUNjby1Jc3J4NnBVZmNRdVhyc3J4SW9TT0NxOTJNSUZLLU0xSHBVWUEtYlZscER2ZVE?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński ostro o Waldemarze Żurku. \"Powinien się znaleźć w więzieniu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGozaTlyUXp2Tm05aHBpc255SjNqQ2R1QldSeTZGQVpfX3JIZHdPNUZTXzQtTmVvUHpfc2xZdV9ET0liS3g4S3U3b0p5OEJRTHVFY29ELVA5WE11dHI4eDFxcGNKRUxSV0tacVlnME5aTVo1RS1Cd0ViYUhhanl0NmdHenlTeXgzdUctbVlKenVRSDhMU0UxaE5mZDVIYUtDQURidjd0eXVVYlN2czJGUl9zSGNWMms?oc=5"
-      },
-      {
-        "title": "Dramat w stolicy Hiszpanii. Runął budynek w samym centrum. W środku mogli być ludzie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkY5SjVqRjFIcGpIUERiaXBXMURUamRjTTZ0cFd0RlFmcks4SmlFemsxSnFYQzBaQWM2R1lDWHoxajhsOXVhRm9lb2picWsxWmhWUkVfN25JNGhBSnNrR3Bsal9pdkxCOTh5V1FnU00xQVJrN0h6ZzVocUY3WGgteTdZdloxMzN1ZGJmd0d5UDZhaFNMY3pGc1FZN1Btbnc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-08 09:13:31",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Sławomir Mentzen napisał o \"buraku z dworu w Chobielinie\". Jest reakcja MSZ - Onet",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWh1c0JieGZlMGY2azB1SW5ZV0JYaEJIMmVwVlZyS2cyX2oxVVA0bUFseTl6TzdONWpvNUQ5RzdHY2lTcm10Yk44M3l1WFB0UEVXRXoxMi1TM3pKQjNXYjloQndRckxaRGZfdExPY1RFTXcwYWNpVE55a01uaDJMQnE5bzdvYlR2eU1aSDZ2RC04QWUtWGk0Tnk5RzQ3LTJfNnBGSnNiRU0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-10 12:15:07",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 446595,
+      "DOGECOIN": 0.918193,
+      "ETHEREUM": 15916.37,
+      "LITECOIN": 479.09,
+      "RIPPLE": 10.36
+    },
+    "indices": {
+      "^WIG20": 2855.51,
+      "^WIG30": 3693.42,
+      "^WIG": 3693.42,
+      "^NCINDEX": 285.26
+    },
+    "news": [
+      {
+        "title": "Pokojowa Nagroda Nobla nie dla Donalda Trumpa. Laureatką wenezuelska polityczka - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmd6bm1EX0ZIdHRmdXdEMmpQaTN1M2FFTllNdmVWeFA0Q0ZKMUR1U0phNDdFVGN5N1JtWHRIS3V5Q3QyTjVERHlLQTJ4MzI2WF9nRU5BUVFYcHdvUzNyS2FHWmV1X01PTl9GdjVoa3NyVExweEJKck1JVjFXSlN0QTYyNlFGaERQTmxCbWxWQUctTDQzUllvVDhsRFVXWHljc2d4TjM3aWQ0Y04yQ3VqamM5RGZMVGZtdE42SGM5ZzItVXB3SlE4?oc=5"
+      },
+      {
+        "title": "Prof. Adam Strzembosz nie żyje. Ceniony sędzia miał 95 lat - Onet",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkVnQ3NlN3pMMjdQWElraXZLYWhOaEdoclM4YjdnMWwyM1pYMFdZbkVMNHRTRzdya1NSR3lHR0JxYzcyeXZpZF9VWXRBUlZrRUdBTlFzM0k4NGFGYkwzS1owcW5DRmRwbFRPTnVaeV9xcHJVazVFMDBWZ2tTWnFCOFF2dnZITWQtXzZlN0NJWmVSUjlKOWM4dk1tay0?oc=5"
+      },
+      {
+        "title": "Groźny wypadek na Pomorzu. Autobus zderzył się z ciężarówką - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmhYMlpBbnRZTVlFUWtXZHRnOFFYN1hZSXN4ekFka1NhVzZzUkppejNSWHdhYTB4dVBfTnhveTc3eVVmNmtweEZOanBwWENpaGRsTFhmM2hMVk1rS2dnbWNWSjBkamJla0NDRlZXX3UtRmdpWklnVklPTktRMTZBYnVaRGI1dEVacTRiZktXdkNCRno5c3A4RGhycm5OYzlGMkZsMUZiVQ?oc=5"
+      },
+      {
+        "title": "Poseł PiS napisał o niemieckim maśle w samolotach LOT. Jest reakcja - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmxDWktONF9sV3Q3TkU2cVRncWlFbndTdGRrUjVkYTRnX3Q3Ulg0SlE4YUctbnIyWlRBNGJWWVZEenNJOGdGZEVMSUJHOVpkUG1DeXFVcl82SjZ4REl2RUQ4UDhVSjFHQml3ekt5UGJkVThBLUk3UXpmbU8tUWk4SVd5ZENneFNrTXhpRDQ5RUdWZ1ZnSVlSdDhWUkpvdVA3cGhFYngxdUhaMWk1UGlDYWtkOV9yWXVhbjk2T3cxVjB6bVdt?oc=5"
+      },
+      {
+        "title": "Waldemar Żurek pokazał nową ustawę. Jest pierwsza reakcja prezydenta Nawrockiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1JjYWdjY2c5LW5STWFNb3NpaWs4bFdOX3BZVWJQMVlfZzVvLXcwRmpDVXBSemJQajRiV3NaY0Z6RUdDcnhWcDJGYk1HNURYbzdlQWZRYUJ1OWppcHJPZ01EN2pscElNaFdWaTdnNHVtZG5SZUJoSTNiY3ZBVXpialdibEJzWFVZNXJmcjZzMnlrYUlacGhpekhaaEp1LTdqU21Wbk9RVExGbkNrYVRV?oc=5"
       }
     ]
   }
