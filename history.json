@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 23:12:23",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6619,
-      "EUR": 4.2533,
-      "GBP": 4.9103,
-      "CHF": 4.5712,
-      "JPY": 0.023975,
-      "AUD": 2.4026,
-      "CAD": 2.6244,
-      "CNY": 0.5086
-    },
-    "crypto": {
-      "BITCOIN": 450332,
-      "DOGECOIN": 0.941836,
-      "ETHEREUM": 16498.1,
-      "LITECOIN": 432.43,
-      "RIPPLE": 10.6
-    },
-    "indices": {
-      "^WIG20": 2877.99,
-      "^WIG30": 3733.73,
-      "^WIG": 3733.73,
-      "^NCINDEX": 286.17
-    },
-    "news": [
-      {
-        "title": "\"Kategorycznie nie zgadzam się\". Karol Nawrocki ratuje Krajową Radę Radiofonii i Telewizji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU1EWXFkZEljclJQS245aVJZc2pBeWFpUWRKSnRYT0ZPMHhEVFpCNWVvcXdPR0hjRDl0NDE5ejJOZVREMWVTUEZVaDQyV091WldnSnpXR09NdDN2T2V4cWRjeGFrdTdJdVl1NC10NWpUMUo4SjVaTk4xUzM5S1JXQ0lBdlhfcTVWMUwzOVNnX092WlZ6dXJKclhCVEVfN3FuOVNMSVBybHAtdms?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro ma niezapłacone grzywny. Ujawniono kwotę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQTNRM3RaSzBDRlczbnhnVjVLSUduSEFTQWJ6dXU5bHhwdFByd21EWFdGREU1dllKV20wVkdkSFVTYkN4aEVpSzB1bGxDV09BdDhRd1Q0SFV0RGlITGJVMFJmcGo4WEpnYTRjSXVwZ2FEODlhREN3Y0VLcDVQMWZxcEFZdDQwZ3NBLTNQdHFDZjBPQjE3Y1Nqempzem1USjBVcnVGVw?oc=5"
-      },
-      {
-        "title": "Zostali deportowani z Izraela. Polacy z flotylli Sumud wrócili do kraju - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1FKUldreE9qZ0g1TmNFUnZzeU5DeG1URUxVWHBVWnhENWlhLTlRMVNfUnpUZ004UzV2Z0tTRTgxTHpMUjFkQWxYUDZTM0RnMlRmUHhRYnZYVzFEaXdDTXZ0dnhrV21fMDcyVldaMmRHZHQ3LThzWTFOeENxTURwS2xPT0VMbHFlZ1VSYUtxU0pMY2d6aHk3QW5Tb3UwWmNqRjFYUmFOc0ctX29pcm1zUnNLT21XS1VQRnc?oc=5"
-      },
-      {
-        "title": "Pożar hali w woj. śląskim. Trwa akcja służb - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTd3cFpqaWVabFNBWG1VeGt2U0pWclgxUzNubmUzZzBlWm1kWkgwWXJ0cTN3S3dUVXVFVEZ6MUtoVi1Ja0p5MkNnY1lodGJxcktJdkFndmhEZjNxdW9FcUFfMFVmcTJMX2RFSE8zMTF4VmhrX2ZJcFloU1Jla3NaU1RzZjhHN005RVE?oc=5"
-      },
-      {
-        "title": "Łebieńska Huta: Samochód wjechał w grupę nastolatków - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ25OTW5FbUJaaEZHcG4xay1KaWc2MUs3QjdiZ2U5cDc4ckxmYXBRTTl3bEVGNzBXdmg2MkVROUhSekp0cFBBZHE1VE1jQmVCTGVCSEFyaUFwVjJKcjctcW5wZVVraVFsMzM4UXI3TUNGN3oyTnNMYmRhSmtYLVFOZjMtWEp4blg2dU51dXZwdXVLX0Zy?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-09 00:12:31",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nie żyje sędzia prof. Adam Strzembosz. Miał 95 lat - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSG45YWVlOEY4b1VnTHRvSllwbHEtZ0J5cXJKWWdOV0llMDBLNXdQc3JjVkRzLWxiRk1MeDFpaEplX255NlRHd0dhSlVpa3hLYlVZQjJBRjJnZUJZQko4YlJyeWJ1c2tDanNxQXR2b1RKZ2tNcXJlTUJ4RHpEUlVMcS1ycDBiX2I4VW4wNFg5UHcyNkY2ZG5j?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-11 04:19:46",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 410583,
+      "DOGECOIN": 0.716189,
+      "ETHEREUM": 13864.16,
+      "LITECOIN": 359.39,
+      "RIPPLE": 8.75
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Impas polityczny we Francji. Emmanuel Macron wskazał premiera - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2x5Zkh6Qi1Gb2huVGZoM3I0aUQtQ2I2TTRxQTdDVDJYcnJKdjFwanVsNGNmWmg0QXd1NkZmOGlDYllValJvWHFRNVFDcDNpRGt5RVVkeWx5LVA4OXROMHhiemdVMVJWX0lmSkM3UFJtci01WjI4aVB2YWg2amc1YnZWU25Xcm9CSnB1S3V1Z2gwTkJjdS16M25qczh4UEt0VlZr?oc=5"
+      },
+      {
+        "title": "Donald Trump dziękuje Władimirowi Putinowi. Krytyka Nobla łączy przywódców - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVpvMDJLS083QThMa3h3bk1JNWJXMVdTLTRWVVRZN0s4UjFRRmJnOE5RaXliRWRzQmRoNXA0d2xCZXJpOEtJbkkwMmNfRFkzMDlkZy1EemtHSG1zMExycVlzXzZGcEVQeDZOdXNBVUlIaGd3ZWNBSkRfazNUNGRqVlB4aFdHNlRoMHhPWVYtUkVHUVRsSTRTWUljOTA4TUpMckR5QQ?oc=5"
+      },
+      {
+        "title": "Poruszające wspomnienie Adama Strzembosza. \"Mówił, że prawdopodobnie widzimy się po raz ostatni\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3IzdXdDcE1DZFg0bTc4aXB3eW1PSzRvQktWR0o5WFJnajg4aHpLc3Q4eFpsLWI3ODZHaDh3QkM1NEMyVmxQTGZKQ2t2OExjaWgzQjl2ekl5b1V3VXhGYk5qck1veW9ra2pqV2RoTjVPRU1BWVdHTjdKRUhVMVVRTlpOVHlKcjVreHEybEd2TEVPbjR3R1dBY0I0cUdpbUFoWEptZVRxSQ?oc=5"
+      },
+      {
+        "title": "Po słowach Grabca dziennikarka zaniemówiła. \"Zatkało mnie\" - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWFfeE1KRmxXQnh4RkZjVHRrNGlneHRzX0drRUFHRjNaRHA3US05MVR6S29BQXhBWUpBUEMxdEVGeDF0S21aR2FwMzRPSFBRQ1hhckVFYlFUZzJfZEFaN0hxYkxucnVlVmFDQUhFbFdEOTlpZFhQeDZCTG41N04tZjBnYk1nc2tiOTBxTmNHVElJQUE0M1Fr0gGWAUFVX3lxTE01MFVmX042WVhsT3NnX2VoN0V1aThqN2FRbTdrVE1uQ3hPUFpURGJHWlJTek5LLUdLM3FCLW1KZUJsaE5XUFRYejlYX19DRy1RNEpHOThnczc5dXhibjk0SlF6VVJpbk9oY2hKdE5VRFc2aWtHMlludHUzS1NJUUJlaTZvaTFRMEE2RVVTdWRFSnlCZ2xOUQ?oc=5"
+      },
+      {
+        "title": "Zawieszenie broni w Strefie Gazy. Armia Izraela: Wojsko wycofało się na ustaloną linię - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlpZYlY4b2RBZlhCYnUzYVNsVW5uLV9FWGJaX2pyMlVoNzd3Q2gyaktMbWRyTl9UdjVQdHc2OGVMcV91TFk2ZVBUbDV3U0FjVTJLZTJCTTg3VzQzRXlwUTBJRlNpRERIdGxhNUpkYTJGNzk3enUzQ19JZGpyT2M3RXlIUUoxR0t5MWRnUG5UWUNsMVF4Wkl0X191Z2RZTG1ia0xSdmFFbi1MazJ6OUtrT3VGYUUwX1NDeTlxajRsMWpMYXF1SmZKUEFfUVg?oc=5"
       }
     ]
   }
