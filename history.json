@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 21:11:41",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6659,
-      "EUR": 4.2569,
-      "GBP": 4.8981,
-      "CHF": 4.5704,
-      "JPY": 0.02399,
-      "AUD": 2.4126,
-      "CAD": 2.6276,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 445453,
-      "DOGECOIN": 0.906388,
-      "ETHEREUM": 15917.61,
-      "LITECOIN": 433.42,
-      "RIPPLE": 10.28
-    },
-    "indices": {
-      "^WIG20": 2874.3,
-      "^WIG30": 3724.15,
-      "^WIG": 3724.15,
-      "^NCINDEX": 285.52
-    },
-    "news": [
-      {
-        "title": "Donald Trump mówi o końcu wojny w Strefie Gazy. \"Wspaniały przełom\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3g2OTJKcEdDRGpjZFZSS3ByZFhkcERXcEo4eElxcGxWNDluQllTSkJ4UmpRWlVPS1l5WjhEQzlnOFZJbUpJVkV4aC13MXZaOHJSWWlxVWtpZVRpVVo1RGF1NUU0MkJwWnNXWjVsSVVhMmtscXFSOW9FWUJQZHIxNk9scHpVMUJyZGxzTDZObE00Rm5YZ3lhTXNHankxblpYWGdiNTI2WG0?oc=5"
-      },
-      {
-        "title": "Budżet na 2026 r. Sejm podjął ważną decyzję - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclRpOWc0WHdDbTN0ajBsZHFTczFHbjBPVGJCOTFGbGMyd3hXakhPN0JPZ0c5emcyNFRzVU5MWmxiYnI0OVZNSFozeFhSWlg3M09SWHJOZlk5NmgxNkYxRElZNk1XZ3V0bl9QcXoySEdXM3R4ajFMc3JiVWJ0aWhOOXprMHc0MGl3dVI4SGR1a2RhdXRZQ1BJU2RfQTZlblNGcUdVelhSWWM?oc=5"
-      },
-      {
-        "title": "Sterczewski ukarany. Za nieobecność w Sejmie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYU5YRXIxSXR1RG1jRGNXc0d0amdsaFN2Mk9QNWhjUGw1dUJpSy1saHR3Y25adHoyek82YlBoeUVEaHhYRXc1UUxnT3VITHp5blBSV1c3U3ptZWV3ZWU0MmxSWjNMNjJoYzQwZFVabHJ0NzAzd0J6VFRLN2hIWlJQdk1YVG95TWRwa1NOUlpjZw?oc=5"
-      },
-      {
-        "title": "Minister Grabiec o wyjeździe posła Sterczewskiego do Strefy Gazy: bardziej wakacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRW1wXzRQUkpGVzRQRXVfS05kQW5JRzEtQWJTMno2cnBEWTlRT0xxTVl6b3VGN1c1OWQ1ZHpkWDBCaDVDc202TmwzQ050U05hRnVrcFI0aHh2dWN2bnl1b3dRRTZ1YlpzOTJKQnY0OFc0MHNCU3I2bjdvb3J2MFhmRGVrQWRBNFN4QVdybkRONzZKdFJXamphUWpjY3QycUo0Zy1XZ0JwOEdJSXI4bW9TazB6QUVfTmZ6RjhCaTc1WHFyY0hYN3hmWmRPVkdXRW1YcVJmc2dCOWlUYXBj?oc=5"
-      },
-      {
-        "title": "Incydent na spotkaniu z Sikorskim. Kobieta wyprowadzona z sali - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDdEU3hERWQwSDA2QnFPUGw5TmVEZWprZjdhUXY2UFo0UjJ1X3RYVjZfLWhQSkI1Uko2VE9OM3dlaVQ5NGtZUEl2Z2dpQjE5bEZSdl9kTk9xc200ejREZ2hFUDVHWmtXbWpZUzVPMTdxVjRZS2VpTFdYb3hjZmxCdEpMVGF1ZVJTYWpMUWEtNVRfdFI2RS0yS0lTNVRTRDZnS2hrNUZ3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-09 22:15:09",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Strzały w niemieckim mieście. Kilka osób zostało rannych - Onet",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHNFMGdMSnF1alFRSmJQdUZtTTJfT2V0TE1SZzExZ3NkRU42bnl5RlV0dHdLVkplZGx1MFpHSk1XT1dSeFJWSTlaZXY3MHd0VHBHbHpTbnlLVm5VZ192S2hTWXlaSC1NQ0JqQUJWWldITm8zYUZMU2FIcTVoSUt2Tk9pcGpYeUJEM1FpaWZYMGRIWDUzUXQyU183ZGtRemEtQW8xd1RoSVhacmJqWHlZRnBqR1luVk1jY2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-12 01:12:03",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Unknown location; please try ~54.3482259,18.6542888"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 407093,
+      "DOGECOIN": 0.678617,
+      "ETHEREUM": 13737.51,
+      "LITECOIN": 343.88,
+      "RIPPLE": 8.77
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński kontruje Donalda Tuska. \"To są stare gry\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZldaRW5qQ2dnOXV6Q2pESkpCaUk0TEZaaWNLNWx2bkxidGdKanlvZEdEdkNBVUIyOUVmaUZnelV4aHFHYnZ4MERXaXhvNnp4LUg2SHVmcGRaZ3R4YzZqUk9FbE5faTVVN19nRUppUWVwc2ZTYWM3cE80bWRQbmoyOWZ6VFpEM0hhQjRFWHVOVWlUaE5qWU9SX01RODB4UFRnMlAyQ080VzVqajhJQnpGOUVGNnh5Qk1sdFNCMDZMMENiblY5TTdfUTFlb2hYZw?oc=5"
+      },
+      {
+        "title": "Tragiczny finał poszukiwań pary nastolatków na Podkarpaciu. Policja odnalazła ich ciała - rzeszow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemQ3ZWRfZWhCQU1wVG5VVGhZNWRpbVROX0F1TjFtY3hVelhIYlhQSDU3UExDSVMtczg1VjhnTzRjWTFrRXlpMUFUMnp5T0ExdDdOUWRCRTZST2NVNC1lREp2RF9taUljVUFGazJkNEpUZ1pfd09TbHFKQnUybVBfcDNXdkR0SERtNlpoY1JpVDhVcDQyNXRLMjFXWHQ3YmptNEZBZGd0TFNvT2JIcjZlaWFDRGRYU05x?oc=5"
+      },
+      {
+        "title": "Wymiana zakładników coraz bliżej. Specjalni wysłannicy Donalda Trumpa byli w Strefie Gazy [RELACJA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDEyd1NGY3VvVEduVlhpM041VGNOeVBsd3RwOHdzdEJUWVFnWlhsMVlNemQyRG1wOWpVMDZZRk5lX3V3dUFGTjJVczh3emxlNElyQWJTVTdTVHFka05ndmlrQWI3M0R3TExoUDloM0dqYTF1RXZULVlnX0UyTmlabTdncGdoV1hJT2t3b3NuWkxsbXBwVk9qRVJHUmNYRHlNYWJpVUdLcXV0RXA2VEhFaDZVLTZ4bXNFVXY3VGdTRWx0QQ?oc=5"
+      },
+      {
+        "title": "Rosjanie przy granicy z Estonią. Kraj zamknął drogę - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmdqcW93Ti1uX1plaHU4QnFaN1FkQlJHam9TeTFjd2VkNFFZdnBXMi1yTlZ5SE5XZnRNNHlwbUpub09GZm5LT0xKS2x0ZXU5My1HVmZDOWQzcDJjTGpfa1E2aUxWOFNiaWxhZmFFVk5kMVpWUVNfMjNOb2xXcVFBRW1GeFVpVjBjOEFEQTZIckFiaEnSAY8BQVVfeXFMTlpXd1dycW9zX0llR0F6TkFUV3RJVXgwcVdIdnpXV3Q0eDFWZXFlaWgwbkN3clNNQ1JOQnlIZU1WREZpWkRoY01Kc2EwcGItUGJRZ0EzY2Jsd3ZaNEp3eVVfVTlueGFQRjZ3UF9tYUptSHZWSkI3U0x5QjFrUVJULUkxZlNjUEZabWNPTFJEeDg?oc=5"
+      },
+      {
+        "title": "Eksplozja w fabryce amunicji w Tennessee. Nikt nie przeżył - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFI0eFdqLXFKTTYtc2NfQnRIWmRRTWJBbFhRb0x1aUZEeTlmVlZGRVdob3NLcnZqZUJtb3hRNmJrNnpsdXBNMGtTTXBHdnJ2ZnNVR2NDYXNSY3pSd3Jfdk5LOWtTU1BuRU4xU1I4YXpMMUJBN0RLS0MxWFJXN3ZwblRCUFYtUWtoRzFfbjJwWTRnSVIyYWctZFM5YlNwaDJCaGc?oc=5"
       }
     ]
   }
