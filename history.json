@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 20:19:12",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6659,
-      "EUR": 4.2569,
-      "GBP": 4.8981,
-      "CHF": 4.5704,
-      "JPY": 0.02399,
-      "AUD": 2.4126,
-      "CAD": 2.6276,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 445328,
-      "DOGECOIN": 0.907515,
-      "ETHEREUM": 15984.8,
-      "LITECOIN": 434.7,
-      "RIPPLE": 10.34
-    },
-    "indices": {
-      "^WIG20": 2874.3,
-      "^WIG30": 3724.15,
-      "^WIG": 3724.15,
-      "^NCINDEX": 285.52
-    },
-    "news": [
-      {
-        "title": "Debiut! Jan Urban namieszał. Oto skład reprezentacji Polski na Nową Zelandię - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjk5VWRXQl8xMWlBRnZKLV96Tk1GY1pQVEhFVWZMb2lHNWt4bktVQWM2OVlGSGQ0Y0toU0VqelBhNXFqZjBFREY4MmE3SlBfai16anhqLUprWW9TekRfT2xWZE85QWlYcHh3V3NHd2kyMktOejd0eUtZQnY4SzdGNmJ1Wlk0YVZ2bnNpSEJBOTczeUQ1NnlxMWxGTm9yamxlS1VreUVIOGw2MmpEbXhNSzNrSHVzOTlWZjlaSjduU2wwOGJtaHJnNHpSX21obk9YS2g2blV5MklDSmlOZGJBcjFB?oc=5"
-      },
-      {
-        "title": "Donald Trump ogłasza \"wielki dzień\". Chodzi o Izrael i Hamas - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUpRZDVZZkZPX0lyYkxzdkpxOFY0dDFfMUdqb0p3Qi02T0o5bmJSb3gzRENOVEpjTmNnUzAxOXhiaEY0OHVXRzEwS050VWdqeWNfOGZsVjVScEc5QmZRR29pb21Cc2VHVVRDNXRIVm1JcEFpbDJSS0FYRjhRTGF4bDFoNHlhSzFOajQzdmNMWG1KdV9FLTlqQi11UGUzMTEwdWpYUzlVZjJvTFAwVHc?oc=5"
-      },
-      {
-        "title": "Donald Tusk o ustawie Waldemara Żurka. \"Króciutko\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWwyNDBWTW4td29iUnZSYkdHVDl3a2U3WDdfMEtlc0R1SFVYRGFvY1FLeU8yVFpsbTBOWHNqRkhPUUUyY25aTDYyQ1A4SW1pTWo1WkZOQUEySE4weE5ZUHpCLVU2UVBaTWF4WTRRNWJ3RWV5cFljVzN3S0ZCOEkwMGRuNFpQalo2d1NWUzBnMA?oc=5"
-      },
-      {
-        "title": "Zeznania świadka rozwścieczyły Łukasza Żaka. Puściły mu nerwy i wyszedł z sali - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzM0TE5haTVBSWs1SkVuQUlxYVBzcHY3aU0ydU1XdmxoQkM2Y0l1c0wzNTk4MjVIVmdTdUt6NWJUY1ZRbmtqaFl1RnJES3JmVUFtVGI0YWdPeEZmOXpyam9SYndSdUdWeTVNRVVMRUZPWFZheDBwbTFwckhXS0JTc3JJdmhJbkVVcmRFbTc4LTJ4bG9rQThHWUxCbThIeUt0c2VNbnlwUjBaMTF4?oc=5"
-      },
-      {
-        "title": "Incydent na spotkaniu z Sikorskim. Kobieta wyprowadzona z sali - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDdEU3hERWQwSDA2QnFPUGw5TmVEZWprZjdhUXY2UFo0UjJ1X3RYVjZfLWhQSkI1Uko2VE9OM3dlaVQ5NGtZUEl2Z2dpQjE5bEZSdl9kTk9xc200ejREZ2hFUDVHWmtXbWpZUzVPMTdxVjRZS2VpTFdYb3hjZmxCdEpMVGF1ZVJTYWpMUWEtNVRfdFI2RS0yS0lTNVRTRDZnS2hrNUZ3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-09 21:11:41",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Aleksander Łukaszenko daje rozkaz swojej armii. \"To byłby bardzo zły sygnał dla Polski\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0JqSVdXbHdOa21UWjIzSnRrRVVzdldtS1d0MEVyeE1kQnI0TW9tLTkzdDZKV3pSMGYwN2RweHgxT01CRE4tRGZESC1UbjdxRExuRklQR2ZVRzlnUWh2S3NZN2loektoMTJDYVprbjdDNG50Q05lcWNqazhNTV9WVW14OEtRRFJlOWJ0bXdVOThDUDhMYlRMelBIZy1jd3RYTXlRMUtndDlFb1VTaTNhNVBJc3FjaDR3MjQ1aVlnVk03bFFQUEMtUk5IeXRlODVsUVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-12 00:11:39",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 407158,
+      "DOGECOIN": 0.678547,
+      "ETHEREUM": 13720.65,
+      "LITECOIN": 342.67,
+      "RIPPLE": 8.77
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński kontruje Donalda Tuska. \"To są stare gry\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZldaRW5qQ2dnOXV6Q2pESkpCaUk0TEZaaWNLNWx2bkxidGdKanlvZEdEdkNBVUIyOUVmaUZnelV4aHFHYnZ4MERXaXhvNnp4LUg2SHVmcGRaZ3R4YzZqUk9FbE5faTVVN19nRUppUWVwc2ZTYWM3cE80bWRQbmoyOWZ6VFpEM0hhQjRFWHVOVWlUaE5qWU9SX01RODB4UFRnMlAyQ080VzVqajhJQnpGOUVGNnh5Qk1sdFNCMDZMMENiblY5TTdfUTFlb2hYZw?oc=5"
+      },
+      {
+        "title": "Nie żyją dzieci z Podkarpacia. Tragiczny finał policyjnych poszukiwań. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXVNd1k2am43eWNyeVliUzB2RGpZMEpvQVBUdDEybkd6V2xVVWlRNDVaTkRNWFhmLWRtZzR5QjZaR1BqaHRDcXJBcnA5dkhITFFJa04xeFE2S0pqVmJ4ZEdCUjFaQXJFRUw5VWotYWQ3MTBhWmFUTHFKbTVvYzZaOWFaazJlQk5ncVFHMk01OUo4TlpZa2tnVWQ1dHZEQWdMSC1SSVJnSVAyY2l0aHg5ag?oc=5"
+      },
+      {
+        "title": "Gorzka relacja ze Strefy Gazy. \"Izrael nie okazywał żadnej litości ani miłosierdzia\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTl1QjdUZjBtMnYzMHNyX1lOUVIybVZWeENna0czQmdfZkh4SUR0d1NOWEFXTG8weG9RZ2FoZ1dSQUdJQnFCZFFTZnI4SFJNb0x1bDhLUkVYM1I5UUtMZU9LbEg5dHpCWFVhY1pOSWh6V292dUtUTXV1OTg1X1I5RkZUUGxtdXZVRmdPelpSSGM1YmloWFZuTW5SZ1RXQ2JHNVZ5UDF5TG9nOG16SUpvUlEyVHJpZFdyN01VeGdVNA?oc=5"
+      },
+      {
+        "title": "\"Rosyjskich żołnierzy więcej niż zwykle\". Estonia zamyka przejście graniczne - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbkE2VXY1Q195bzZhTzNGbWRUaG9nZHhOMGxyYTJXNFphYXZaNnVIUWwySWFTSXdUMDQ2cGRPWjU4ZDYtMm1TeVRNTzN5LXV6U2Y3WVN5dExlVU55TVc0RmNwQUI2TmhuREFfejJKQUpMVW1DZ1lETFQ3ZGlBOHZYeWs0S3g1X1BIdWhwcFd3eGhfZC1rdHg4eGJaenFDSzZ5SWhYOGdYV25MUTdxMGd0ZkdGcjdMODNpUUE?oc=5"
+      },
+      {
+        "title": "Strzały w niemieckim mieście. Kilka osób zostało rannych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHNFMGdMSnF1alFRSmJQdUZtTTJfT2V0TE1SZzExZ3NkRU42bnl5RlV0dHdLVkplZGx1MFpHSk1XT1dSeFJWSTlaZXY3MHd0VHBHbHpTbnlLVm5VZ192S2hTWXlaSC1NQ0JqQUJWWldITm8zYUZMU2FIcTVoSUt2Tk9pcGpYeUJEM1FpaWZYMGRIWDUzUXQyU183ZGtRemEtQW8xd1RoSVhacmJqWHlZRnBqR1luVk1jY2c?oc=5"
       }
     ]
   }
