@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 19:12:20",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6659,
-      "EUR": 4.2569,
-      "GBP": 4.8981,
-      "CHF": 4.5704,
-      "JPY": 0.02399,
-      "AUD": 2.4126,
-      "CAD": 2.6276,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 442773,
-      "DOGECOIN": 0.897941,
-      "ETHEREUM": 15851.07,
-      "LITECOIN": 430.45,
-      "RIPPLE": 10.29
-    },
-    "indices": {
-      "^WIG20": 2874.3,
-      "^WIG30": 3724.15,
-      "^WIG": 3724.15,
-      "^NCINDEX": 285.52
-    },
-    "news": [
-      {
-        "title": "Donald Trump ogłasza \"wielki dzień\". Chodzi o Izrael i Hamas - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUpRZDVZZkZPX0lyYkxzdkpxOFY0dDFfMUdqb0p3Qi02T0o5bmJSb3gzRENOVEpjTmNnUzAxOXhiaEY0OHVXRzEwS050VWdqeWNfOGZsVjVScEc5QmZRR29pb21Cc2VHVVRDNXRIVm1JcEFpbDJSS0FYRjhRTGF4bDFoNHlhSzFOajQzdmNMWG1KdV9FLTlqQi11UGUzMTEwdWpYUzlVZjJvTFAwVHc?oc=5"
-      },
-      {
-        "title": "Sejm skierował projekt budżetu na 2026 r. do komisji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVV2bURfWGZpMGJJWHBiRHdXa0Fyd3RDdUF4UWhQd0JWdmJCUmJENF96YzJuRUJ3NUZpc2RHQmhuemM3LTNKTnZfSmktZW5YNXFDMEFEWlhDRXNGelBhWHVLbi1lT3ZGV0xUR25BNktTdVBzREhjeGVHQ0FYeW5pb0hzdE1QU21WS2ZrV2NadUlEajl5VFlXeTFyUm1ZODlmQUh4M3lweE00NFNTWmpHNTV4YUg?oc=5"
-      },
-      {
-        "title": "Franciszek Sterczewski ukarany przez swoją partię. Będzie musiał zapłacić - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHp3QU1hWnZBMlJHYXN2YlpNck1kZEY2dlRzdzFodzZQTWwzMDQ3WUdNal93Y0pfSXIxOGZPdU5wWGlfN2V1Q2xCcU5yTWpLQ0lEYUdMT0ZtRExrQzVTN3VraFhzNllKTEpsU1JDelVfWl9tTmhfZUlIQ08yeC1laWV3YnN1VHNvN0dlcmRyd1F0M2FVREw0MXNxU2xreTJ2dFVvOUF5RW9uRjdxaXZMRnhB?oc=5"
-      },
-      {
-        "title": "Zarzuty dla sprawcy wypadku na Pomorzu. Prokuratura wnioskuje do Danii - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjQ4QWNQd2d5QjcxSjgyc0xCVDBzNlhNM0ZKbVZxclI4Q0hiVVVZSTMwcHJ6MkNqdVVIWjZsWVhFSXoyZWZqak5BMC1MTTVlTWNGdGFFR1RBNzFDdjRIVEwyc00xQ1JIZjNWT0xiOHJuVW9MNnpnSS1RRDV3N2dlQnA4bFR5RzdNcEo2QmFZS2dmY21ZU0RBMU9TUklNa01jb3c?oc=5"
-      },
-      {
-        "title": "KO przed PiS, dwie partie na granicy progu wyborczego. Jest sondaż - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1o3T3A2MVNNQVNQZTI2QnNnWnRuVV9abGRwX3A3MjNGTnUzcWQ4bEpCZHQ1aElMN0hkaEd0eDl3NlNxNUpDLXZVV3hkVGdjVnk3Nl9JaG9SbVhuV04tY2tKYnoxSFFfb3cxZF85V3gtd09wN2E3c0RyakNsSFAwODM0eWFLOE5yUGtYeE1DMTVMc2xIUFRHVXAzVXN3RDFfSm94aGViS3haUElSNFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-09 20:19:12",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Opolskie. Wypadek podczas rajdu, auto wjechało w reporterów - TVN24",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb256RHpoRENfMkxJOUNzMkpjeDRDRGdwaGZURkRKSlpWWFJ3WjBYM3AzY2F0b0ktb05zNjdyMVNVbUN0VHhUVEg5RHBsRjI5M0ZDTjBBckNpS2lWd0JrVE8xMVUwVXREcG4yZVFBVi1ZRVFuZ0VUWTZiZTRfYnR6SXVyTl96RjlDTWZkUzZmT3lVOHNLcHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-11 23:10:27",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 402740,
+      "DOGECOIN": 0.657843,
+      "ETHEREUM": 13411.73,
+      "LITECOIN": 333.03,
+      "RIPPLE": 8.57
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Nie żyje Diane Keaton. W przeszłości zmagała się z podstępną chorobą - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHF5bmlKdG5Ca0NXRTJHUUZOOW9GWG9LZmREc0t2UjhUYU9yQXZ2VjIzTFBOR1R6ZDZnZEFvbTlibEo5aTVXUklENDFiUWJpMGdtVjlIV3BkQWcxLW1Nb3dkWERlQUxmVk9GUExicHRUbHNrdzZ1OVluTVhURWgxSEs0NmZkdnptbEgwaFo4R0lTYVZDa1E1aEI2NXVWNzl5N2trLW5TXzhfWlpYRnctamp2RjctNDMwT1BhLWpjSFk2N25fWWhlR3I4a2g?oc=5"
+      },
+      {
+        "title": "Nie żyją dzieci z Podkarpacia. Tragiczny finał policyjnych poszukiwań. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXVNd1k2am43eWNyeVliUzB2RGpZMEpvQVBUdDEybkd6V2xVVWlRNDVaTkRNWFhmLWRtZzR5QjZaR1BqaHRDcXJBcnA5dkhITFFJa04xeFE2S0pqVmJ4ZEdCUjFaQXJFRUw5VWotYWQ3MTBhWmFUTHFKbTVvYzZaOWFaazJlQk5ncVFHMk01OUo4TlpZa2tnVWQ1dHZEQWdMSC1SSVJnSVAyY2l0aHg5ag?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński kontruje Donalda Tuska. \"To są stare gry\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZldaRW5qQ2dnOXV6Q2pESkpCaUk0TEZaaWNLNWx2bkxidGdKanlvZEdEdkNBVUIyOUVmaUZnelV4aHFHYnZ4MERXaXhvNnp4LUg2SHVmcGRaZ3R4YzZqUk9FbE5faTVVN19nRUppUWVwc2ZTYWM3cE80bWRQbmoyOWZ6VFpEM0hhQjRFWHVOVWlUaE5qWU9SX01RODB4UFRnMlAyQ080VzVqajhJQnpGOUVGNnh5Qk1sdFNCMDZMMENiblY5TTdfUTFlb2hYZw?oc=5"
+      },
+      {
+        "title": "Opolskie. Wypadek podczas rajdu, auto wjechało w reporterów - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb256RHpoRENfMkxJOUNzMkpjeDRDRGdwaGZURkRKSlpWWFJ3WjBYM3AzY2F0b0ktb05zNjdyMVNVbUN0VHhUVEg5RHBsRjI5M0ZDTjBBckNpS2lWd0JrVE8xMVUwVXREcG4yZVFBVi1ZRVFuZ0VUWTZiZTRfYnR6SXVyTl96RjlDTWZkUzZmT3lVOHNLcHc?oc=5"
+      },
+      {
+        "title": "Aleksander Łukaszenko daje rozkaz swojej armii. \"To byłby bardzo zły sygnał dla Polski\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0JqSVdXbHdOa21UWjIzSnRrRVVzdldtS1d0MEVyeE1kQnI0TW9tLTkzdDZKV3pSMGYwN2RweHgxT01CRE4tRGZESC1UbjdxRExuRklQR2ZVRzlnUWh2S3NZN2loektoMTJDYVprbjdDNG50Q05lcWNqazhNTV9WVW14OEtRRFJlOWJ0bXdVOThDUDhMYlRMelBIZy1jd3RYTXlRMUtndDlFb1VTaTNhNVBJc3FjaDR3MjQ1aVlnVk03bFFQUEMtUk5IeXRlODVsUVE?oc=5"
       }
     ]
   }
