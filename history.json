@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 13:11:54",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6659,
-      "EUR": 4.2569,
-      "GBP": 4.8981,
-      "CHF": 4.5704,
-      "JPY": 0.02399,
-      "AUD": 2.4126,
-      "CAD": 2.6276,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 447883,
-      "DOGECOIN": 0.902363,
-      "ETHEREUM": 15978.36,
-      "LITECOIN": 427.73,
-      "RIPPLE": 10.32
-    },
-    "indices": {
-      "^WIG20": 2894.89,
-      "^WIG30": 3751.66,
-      "^WIG": 3751.66,
-      "^NCINDEX": 286.44
-    },
-    "news": [
-      {
-        "title": "Wotum nieufności dla szefowej KE. Jest decyzja europosłów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOellGRXhNY2t3SHNuWXkxZ1VkTjBKdzg1WUNvaGZFZm9NcWFsaDNybEVWS0x0bGRWdktGanFDMXZCMlBoSFVnRXQ1YmRzTTBIYW1CT3RiWTBuSGUzcTRsS0NJNHFNTWRlME9HUmx6OTJ1T0xRRWlscmpvNjJNaDB1QlAwVjVlYUdmMEdxSElpRlhRMG5HTm9TMV9DTHYwUQ?oc=5"
-      },
-      {
-        "title": "Porozumienie pokojowe Izrael - Hamas. Prezydent USA Donald Trump ogłasza sukces - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHJaeEJ1TE92M0RZaktGXzdxQ3FFajRTVGdYQVdvMHFZWHZqcWI3TkItQ2NUV0JCTk04SGQ0REFsUjh1NXdIVHdtZHpNZ1F1ZVRfcXJkMGxNazBaNUdtSEFKc21qWXJSeWl2Yk5Nc1VGVHZUVF83b0N2RE5ySm5EZHFITEhza042WV83QnhuNFNzOWNHVF9naDl3QXlSazhKdWFWelNhVFVOcDI5Y2VvX3BNdUxQZldUZ24wdE51YVU5UQ?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek ujawnia swój plan. Są szczegóły w sprawie sędziów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHhwQml1YU9OZEsyc2x1TThfeWt1R2JXMDlDcHdkR2ZMejNIeURldVl2bjlRbGQyTnJSaDAzbG1iMzVMUmdmRTlEbGdzQVRjWE5DY3RaNTdJNTBUV1YtYUgzaENfWWVqTGxGdFNsM2J3cEdtQV9CbnZLTkhKVzZhU2xfaklRSVFWWUlDVmlHS21FRUkyUVppeFBJbjNJRm9xdkk5MFBlY1FQNDQ?oc=5"
-      },
-      {
-        "title": "Polscy strażnicy graniczni zaatakowani w Gruzji. Są poważnie ranni - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckJFV09raFA3bkZXMlZBQ0JpdE11N3c5Um9MLXZuMjh2Wk93YjlITWdBUlM1bndCMDJZeHJFNlpaYTh0Vm9rR1JTa0hpVW1pc2FvcnZzZl9WRmRLWTZ0Tk9IbVY0OXNUUnQ0M1BLZUszUWJ4OUd0QWlDaTl5MnBLTWRTZGEyTmJOZW53dzVOSzI4M1pXaXVMN2xzX2lwMXRNMGdNMnByQ0NGRW1FTTFPVmNYV2pBYkQ0?oc=5"
-      },
-      {
-        "title": "Nawrocki napisał do von der Leyen. \"Polska się nie zgodzi\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUxBUEpVNnpIQ3BQMjl1RVRaRFNXQmJ6dnc4QldoNnEycDJwdG9qMmV2bWltT09VQVNkaGd2eVExYUZ1TzFNS2NfaHJGTUFwblAwZ2VFeWRGOVprZmgxeHhmb0tJX296cWVQQ1Q0V1RaU1VnNERMamJORld0aXIzeWZ2ZmllazRYakRvazFkMmpBOXQ1MlBNcDA3eEwwUEU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-09 14:28:18",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Sebastien Lecornu wraca na fotel premiera Francji - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNFFZX1U1ZDVDc2ctSG8yNkhST3BwYmRYa1BqWDZqSTRaY3cybTZWRjFJblRydzM3MmxKS0VvNUhPN3JhTVlqeGlPaTVpWEFRc2hEU1JucHpmQnFXbUtaUThMUTU0ZmR5Y3FLS3ZIdTFpUjZxWm93WGJldXVzRmpiOURxUUMzenFEc1pzYUUtMk9ZZDJ4b24tdlYxNVpZSXpIWFB0RHY2MmwwTWpiUzJXcGpMXzVWWXNwM0dOTg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-11 17:11:19",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 411056,
+      "DOGECOIN": 0.702803,
+      "ETHEREUM": 14037.57,
+      "LITECOIN": 354.13,
+      "RIPPLE": 9.06
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński odpowiada na deklarację Donalda Tuska. \"To są takie gierki\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2tVSk12N0M5Qy1tN3htWnJDTzRiZXFfQmt3NWM4Z3VKaVZPWXBVQS1sbzdORUhabnpZY1piR1VIUHRyNm9NS2NDeWJmUFg3dFRLbE9PQm96di1jYmYybjZmblFOdGVpZ0J4cjh5WndKSUIxbHVuT05CMDZhaExWN2tUVk4ya1ZOcGw0MlFtQ3V2TGowTG1UN3VKZVV5NUxRejlGOXJWQ05ZeDlvRnl6WjJhT01tdw?oc=5"
+      },
+      {
+        "title": "Premier Donald Tusk chwali się sukcesem w temacie relokacji migrantów. \"Załatwione\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY214Z0huM1JSZ0VmN0dVNkF4dTJzT3ROaE03RjJaeGtfS2lRVno2Q1RHVkdpeS1uT0lvOW4zeGhFdUJhMHUxaVpITVh6YmtrbE54OG5tMUZNTVYweUN1bnJMdlhzOGJEWDFYRE1aUDNtWUNjZm01UnRESjBWMnctLWVzelhtYngzVkxmSzNaWXU2UUJoUmFHOFZNRVpfNzRxX2YwS29PeDFubXVJ?oc=5"
+      },
+      {
+        "title": "Członek Hamasu o wymianie więźniów z Izraelem. Potwierdził datę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY190Q0hPeUlORzVKa0VBbW4yTVlkbkZ5dVB6MG9xVzZtQXJFckJscHBIZjVra3R6Ym1ULUpaV3h4Y0x3Z016TTRoZUZQQUxKM2hCdlVGbXpsbF9Gc2FwM0FGZEdDQ3JGd2hpd2VaSUozZV9MaUxJbDczdzNCaVlhVkI3dE5WdG5vekZGV0FHZ3hheE1rWEVRS1VVMHVLeEhtWlpoS21n?oc=5"
+      },
+      {
+        "title": "Aleksander Łukaszenko daje rozkaz swojej armii. \"To byłby bardzo zły sygnał dla Polski\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzRLZkJ3UUd3dkV5ZVUxeVJWZUZXbGJmem9Sb3BXeG1sRFlHSkVNQmRZd3ZkeG5aWjhJbEJCakVRUElKRnQtS3FEd2xTYmdfMGphLWFEblFOQ0d4MF9XUXhHNWM3QTB3WHdpaXU1ZjA1NEdDMV9Cek11eU12YmYyeVF0aEUtZmlaUUpzM3RSLXN2WjVzUHhPMGdaajI5SFl3ZVR4RWNVQ3M3TEtWbzNlc0I3RQ?oc=5"
+      },
+      {
+        "title": "Amerykanie ukarali polskiego dziennikarza za poglądy. Wiemy, kto z Polski napisał na niego donos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWpKSDVCNHdtV3Z5MEl1S3R5bm5tdWxBMVNzZzR0ZUV4eWpkaEVYWU0weE5aYXNHbkxzZlJBaUlPQWF4ZGUyREhkYmxFT2tULTZfQUVpbEQxb1VWWXVQd1dlRzR0UHNTUmxRTW1HVWJVVDBPRXBrRS0yTE16Vm1JQTM2dzY1aDlpa2ViMTBrNTJoVHNkTDhoRU9ER18waUJvYUoxVXM5LWJvbzR0eXM4?oc=5"
       }
     ]
   }
