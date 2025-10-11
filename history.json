@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 16:13:45",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6659,
-      "EUR": 4.2569,
-      "GBP": 4.8981,
-      "CHF": 4.5704,
-      "JPY": 0.02399,
-      "AUD": 2.4126,
-      "CAD": 2.6276,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 449571,
-      "DOGECOIN": 0.9036,
-      "ETHEREUM": 16028.16,
-      "LITECOIN": 433.92,
-      "RIPPLE": 10.34
-    },
-    "indices": {
-      "^WIG20": 2875.99,
-      "^WIG30": 3726.23,
-      "^WIG": 3726.23,
-      "^NCINDEX": 285.66
-    },
-    "news": [
-      {
-        "title": "Ponad dwie godziny walki! Nikt nie przewidział takiego meczu Igi Świątek - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV19aMUdmZUhvSkIwVnhPdnlDT3JQNjN3bUZCN21IX3pIT1JDdVhiYklKVUdiNlZTVXFZZUJmS3g4d2tzNFpabXR4dnJ6R0RqREFTM21rQm5NVWxDdnRybkVGWEFqSzdzWlhkUUczS1dQWnVOWEFicmZtWXpiQWRWRDlOcGQ0ZUJtR01nYjF0M29DUHBlbHZXbkdxVC1ROE1kTXhUT082U1gyRTFJOVd4QU5STXJ4SEQwNGc?oc=5"
-      },
-      {
-        "title": "Są zarzuty dla sprawcy wypadku na Pomorzu. Wjechał w grupę chłopców - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMHMycFJoVEV6RkRqR2xobE1YcXlUbHh1SVVjc0podEJUVENRQUFTMUFVNm85YXlBdHFIcVMtbzlqWHYyNGd6UExlNlB4bDZ1WVdYVjFCRjFuM3VSTmluTkFneDF2QmI5MzY4U0NyWmVRbVhoY0hUb0tMdXp3b3ltSE5mc09YT0FfUFNCbUFGVUhGT0Q5ajQyckZ0UW03Q2htVkYtRGVpZDZVOXFHS1poeEtnZnJNeW5LRlMyWS1oVUFkZ0tkbkdFSA?oc=5"
-      },
-      {
-        "title": "Jest porozumienie Hamasu z Izraelem . \"Dużo pretekstów, by nie dotrzymać warunków\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEVaeTVKQ1FsQV8tZWJ2bUxjTExPMm5Rc3VDS2F4SmxmWUFlNHpjMmttc3RjRnJuRVRpLUlGemVVdWFNTlFBUXMzLUlLcFhXR1hQbW12RlhmZFZjblBoNkNWYXIxMjFYN1h1QURxNGZocTdnZ1BQcWVlQkx0RFVnZkhTMUFUM2sxWGNySkNfMWpfd3RSWGxVRS1jLUpkUFAwZDk3QVpzbw?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek ujawnia swój plan. Są szczegóły w sprawie sędziów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHhwQml1YU9OZEsyc2x1TThfeWt1R2JXMDlDcHdkR2ZMejNIeURldVl2bjlRbGQyTnJSaDAzbG1iMzVMUmdmRTlEbGdzQVRjWE5DY3RaNTdJNTBUV1YtYUgzaENfWWVqTGxGdFNsM2J3cEdtQV9CbnZLTkhKVzZhU2xfaklRSVFWWUlDVmlHS21FRUkyUVppeFBJbjNJRm9xdkk5MFBlY1FQNDQ?oc=5"
-      },
-      {
-        "title": "Nawrocki napisał do von der Leyen. \"Polska się nie zgodzi\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUxBUEpVNnpIQ3BQMjl1RVRaRFNXQmJ6dnc4QldoNnEycDJwdG9qMmV2bWltT09VQVNkaGd2eVExYUZ1TzFNS2NfaHJGTUFwblAwZ2VFeWRGOVprZmgxeHhmb0tJX296cWVQQ1Q0V1RaU1VnNERMamJORld0aXIzeWZ2ZmllazRYakRvazFkMmpBOXQ1MlBNcDA3eEwwUEU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-09 17:27:22",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Dwójka nastolatków zniknęła. Policja ma obawy - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0l3ODQ0aDVCVFV1V2doS2dqbW1MeVdfNkdORWoxdkpCQXIwQzJzbTBYSW1hV00xdElwNlBHNVJmdmlObkU0Vk4xU0lMUUdVV1JyaDdFUEhSbHh2WTBEdTlzS25KS3lRbTlNNW5RY01uLVJrdGVlZGFXSG5QSW5vZE9VOVRpaV9ZMUtUMTVPWmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-11 20:15:56",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 410445,
+      "DOGECOIN": 0.707293,
+      "ETHEREUM": 14002.84,
+      "LITECOIN": 357.9,
+      "RIPPLE": 9.06
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Nastolatkowie spotkali się w centrum miasta, ślad po nich zaginął. Tragiczny finał poszukiwań - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2RBeUNIdjd5S3VfdHNPMHlKMUdfOXd3R19rMm1pOXZQLVNpSEhiRkJuck0zUkVhY2xibTZPaHZIbWFZRXQ1T1lDR1V0NjVpLWZBXzR6M0NRX1NVVUpVOXdUYlBMZHQ5WHRLeko5eFEyQnY4V2tPdmphcnhJSWhtS3FPSkJJUGdhNVgtdjZUdkRzY1pfRktTcDg2cUkxbGRiYmxoT3VoNA?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński odpowiada na deklarację Donalda Tuska. \"To są takie gierki\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2tVSk12N0M5Qy1tN3htWnJDTzRiZXFfQmt3NWM4Z3VKaVZPWXBVQS1sbzdORUhabnpZY1piR1VIUHRyNm9NS2NDeWJmUFg3dFRLbE9PQm96di1jYmYybjZmblFOdGVpZ0J4cjh5WndKSUIxbHVuT05CMDZhaExWN2tUVk4ya1ZOcGw0MlFtQ3V2TGowTG1UN3VKZVV5NUxRejlGOXJWQ05ZeDlvRnl6WjJhT01tdw?oc=5"
+      },
+      {
+        "title": "Strzały w niemieckim mieście, kilka osób zostało rannych. Sprawca jest poszukiwany - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPalNTRDRUNkdUc3hrNDBJT2NRbjdrV3NKODRzQXFheTdBR2xvdU9nZDRBM2FHQVpQM0llRnluLTlwcFBtY1ZCTjVva2Q1aTBJNUFIeUd5Wm40ZDU0Y21VMWVxNU5relhqenBkNGRZNXRRcHlwUFc0RGpXVVFZa1pWQ2Fud2dGbHVlaWxRYjZQakg0dVJIajdpamRxYV8wSy1WNUZjbkdTTlBRV2hab2xtSXVGS3dQX2NnNnNja3Z0U2NyY1V1QV9DV2ZKT0RydVJDNi1KUDVsZ0lLeXM?oc=5"
+      },
+      {
+        "title": "Gorzka relacja ze Strefy Gazy. \"Izrael nie okazywał żadnej litości ani miłosierdzia\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTl1QjdUZjBtMnYzMHNyX1lOUVIybVZWeENna0czQmdfZkh4SUR0d1NOWEFXTG8weG9RZ2FoZ1dSQUdJQnFCZFFTZnI4SFJNb0x1bDhLUkVYM1I5UUtMZU9LbEg5dHpCWFVhY1pOSWh6V292dUtUTXV1OTg1X1I5RkZUUGxtdXZVRmdPelpSSGM1YmloWFZuTW5SZ1RXQ2JHNVZ5UDF5TG9nOG16SUpvUlEyVHJpZFdyN01VeGdVNA?oc=5"
+      },
+      {
+        "title": "Premier Donald Tusk chwali się sukcesem w temacie relokacji migrantów. \"Załatwione\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY214Z0huM1JSZ0VmN0dVNkF4dTJzT3ROaE03RjJaeGtfS2lRVno2Q1RHVkdpeS1uT0lvOW4zeGhFdUJhMHUxaVpITVh6YmtrbE54OG5tMUZNTVYweUN1bnJMdlhzOGJEWDFYRE1aUDNtWUNjZm01UnRESjBWMnctLWVzelhtYngzVkxmSzNaWXU2UUJoUmFHOFZNRVpfNzRxX2YwS29PeDFubXVJ?oc=5"
       }
     ]
   }
