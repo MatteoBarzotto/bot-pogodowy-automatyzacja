@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 22:14:58",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6619,
-      "EUR": 4.2533,
-      "GBP": 4.9103,
-      "CHF": 4.5712,
-      "JPY": 0.023975,
-      "AUD": 2.4026,
-      "CAD": 2.6244,
-      "CNY": 0.5086
-    },
-    "crypto": {
-      "BITCOIN": 451662,
-      "DOGECOIN": 0.947773,
-      "ETHEREUM": 16497.21,
-      "LITECOIN": 433.61,
-      "RIPPLE": 10.62
-    },
-    "indices": {
-      "^WIG20": 2877.99,
-      "^WIG30": 3733.73,
-      "^WIG": 3733.73,
-      "^NCINDEX": 286.17
-    },
-    "news": [
-      {
-        "title": "\"Kategorycznie nie zgadzam się\". Karol Nawrocki ratuje Krajową Radę Radiofonii i Telewizji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU1EWXFkZEljclJQS245aVJZc2pBeWFpUWRKSnRYT0ZPMHhEVFpCNWVvcXdPR0hjRDl0NDE5ejJOZVREMWVTUEZVaDQyV091WldnSnpXR09NdDN2T2V4cWRjeGFrdTdJdVl1NC10NWpUMUo4SjVaTk4xUzM5S1JXQ0lBdlhfcTVWMUwzOVNnX092WlZ6dXJKclhCVEVfN3FuOVNMSVBybHAtdms?oc=5"
-      },
-      {
-        "title": "Zostali deportowani z Izraela. Polacy z flotylli Sumud wrócili do kraju - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1FKUldreE9qZ0g1TmNFUnZzeU5DeG1URUxVWHBVWnhENWlhLTlRMVNfUnpUZ004UzV2Z0tTRTgxTHpMUjFkQWxYUDZTM0RnMlRmUHhRYnZYVzFEaXdDTXZ0dnhrV21fMDcyVldaMmRHZHQ3LThzWTFOeENxTURwS2xPT0VMbHFlZ1VSYUtxU0pMY2d6aHk3QW5Tb3UwWmNqRjFYUmFOc0ctX29pcm1zUnNLT21XS1VQRnc?oc=5"
-      },
-      {
-        "title": "\"Stąd ten teatrzyk\". Ziobro reaguje na ruch komisji ds. Pegasusa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEhObVlSQjBoY192bXhRRUtLZHdwZnZYeldUVXh2aTR6WmxIOV9FODRJWnMyd1BIVkNMZDllQjdBSkNvSXB3dHhxVEdoRWxVY1RneWJQeVdzYmsxOGpLODl5TDRTWE9aZzcyVkxGVnNCOC1SMjlLRDFJTWduSVN6NGZkaFFSYnVuV0FhREhtNkcwV3pTMV82RTZvTkJFVVZLLUlTSThR?oc=5"
-      },
-      {
-        "title": "Wypadek nad jeziorem. Awionetka wpadła do wody - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWi1oM2xQekVhYm9QR3ZrRXVKa1JHWHRWYXMtUG1VbGZ4UkRHUE9NVUUtbUt3dTdYNGcxM2JnaVI5YmZ5bHNwUDdzTVVRZ1BCSjJIMW5UNDMxYkdET0RuaW1RYnRueEUtUkpac09vQXZOQ28xVGhSUnNuakgyUnlwcENZaVFmVzk5SGl5UmpndHRnSHNRZFdXcmx2TWo0RktqU3dV?oc=5"
-      },
-      {
-        "title": "Pożar hali w woj. śląskim. Trwa akcja służb - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTd3cFpqaWVabFNBWG1VeGt2U0pWclgxUzNubmUzZzBlWm1kWkgwWXJ0cTN3S3dUVXVFVEZ6MUtoVi1Ja0p5MkNnY1lodGJxcktJdkFndmhEZjNxdW9FcUFfMFVmcTJMX2RFSE8zMTF4VmhrX2ZJcFloU1Jla3NaU1RzZjhHN005RVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-08 23:12:23",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Niepokojące doniesienia z Ukrainy. \"Skuteczność naszej obrony powietrznej spadła\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTTJ2OFVqQjhzcTN2VEZnY2JiUkNmZElSaVMyY2NiUTE5MkZxTWxKRHNsWXA5RUhrS3UzOEVzcDU3N2dsMUlIZXlwMDMtS29DaUlkM2FCRGNOUGVURFBHMjd6ZWJCTG1CMGRmUXpOam9JcWxjYnVXMkdmUHdhQXlSUTcwX0ZxdEpPZThKRGpGdHFyMGxlTlcwOG13cnIyNG5vc2FsbktRS0FXb3M4S0NsYU1WdURpSmxXQW0wRUVFT1NvNmd1eG9oeUdZcVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-11 03:00:24",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 413550,
+      "DOGECOIN": 0.720168,
+      "ETHEREUM": 14105.25,
+      "LITECOIN": 355.7,
+      "RIPPLE": 8.8
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Zawieszenie broni w Strefie Gazy odbija się na rynkach. Putin w opałach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1ZQXlCdnNYTC1VSFY4b1hzb0JUYlMtZFdBRFBOb2FDR0twTEVzR1BwdEtjUE4xd29YblpySV9QaG5Pc1FlX2VKQXVvVTZnX1JKS2lhSTY0X0JwNnFubk1hMndmVk13S0RkYkRKQzdKTmJjTEl5d2ZjelotZ2wzVlNyUTgwWXlGMXlKaVdmQVd2WUhJMTFXLWVqNzR3VmlOSUJFMTRsVGczZzgyTUlRSHJ4X3BsTWs?oc=5"
+      },
+      {
+        "title": "Impas polityczny we Francji. Emmanuel Macron wskazał premiera - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2x5Zkh6Qi1Gb2huVGZoM3I0aUQtQ2I2TTRxQTdDVDJYcnJKdjFwanVsNGNmWmg0QXd1NkZmOGlDYllValJvWHFRNVFDcDNpRGt5RVVkeWx5LVA4OXROMHhiemdVMVJWX0lmSkM3UFJtci01WjI4aVB2YWg2amc1YnZWU25Xcm9CSnB1S3V1Z2gwTkJjdS16M25qczh4UEt0VlZr?oc=5"
+      },
+      {
+        "title": "Donald Trump bez Pokojowej Nagrody Nobla. Czy Norwegowie podjęli dobrą decyzję? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1Z2RmNRZFU0aldlVnFoY0RiWnFMOTNyOUNQVGFTaXlNOWk4bWJnS0toMy1ZLTkxb3AtNmcwSmF5bUVQOGZmZjNUcXhRWWZfSktITzRjR2ExY2NhdmQzYzQ4ZzNQdmxlZGhLdjdJR1pGTmxGYnJUbHJPMWJsZThuZ1Q2dTVtLXdnR09mV09CSFY2Sm01Q3FlVzlYdmhWWjNNZkdnVGhfamJJU0xVNVBpZlR4STlhckZ1ZGtXOEhB?oc=5"
+      },
+      {
+        "title": "Kolejna noc, kolejny zmasowany atak na Ukrainę. Bez wody dwa miliony odbiorców - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWxfRVNUdWdzaHpMc0I1Y0Rwb0JRVUpoakZLeGI3SnEtZ3RuOUF2NUo4cGw2VFNjNDVRLXVFNE9WbjVWWWwtbDdMekpyVVM2V2xGUVI3aU9ZNWQ5SGZBZzJsMUlOVzllTzdaLXhjekRGSVpic1p1N2dVV3AydVRJRHZYdTVIaVhDaXQzOEFRU1JSZHlqdkJTOS11OHJYTVk3dEhDY0l3R3NqTFYxRml0T3N4RWs?oc=5"
+      },
+      {
+        "title": "Nie żyje sędzia prof. Adam Strzembosz. Miał 95 lat - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSG45YWVlOEY4b1VnTHRvSllwbHEtZ0J5cXJKWWdOV0llMDBLNXdQc3JjVkRzLWxiRk1MeDFpaEplX255NlRHd0dhSlVpa3hLYlVZQjJBRjJnZUJZQko4YlJyeWJ1c2tDanNxQXR2b1RKZ2tNcXJlTUJ4RHpEUlVMcS1ycDBiX2I4VW4wNFg5UHcyNkY2ZG5j?oc=5"
       }
     ]
   }
