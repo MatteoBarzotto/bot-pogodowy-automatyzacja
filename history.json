@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 00:12:18",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6659,
-      "EUR": 4.2569,
-      "GBP": 4.8981,
-      "CHF": 4.5704,
-      "JPY": 0.02399,
-      "AUD": 2.4126,
-      "CAD": 2.6276,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 447399,
-      "DOGECOIN": 0.916446,
-      "ETHEREUM": 16064.87,
-      "LITECOIN": 440.49,
-      "RIPPLE": 10.32
-    },
-    "indices": {
-      "^WIG20": 2874.3,
-      "^WIG30": 3724.15,
-      "^WIG": 3724.15,
-      "^NCINDEX": 285.52
-    },
-    "news": [
-      {
-        "title": "Debiut! Jan Urban namieszał. Oto skład reprezentacji Polski na Nową Zelandię - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjk5VWRXQl8xMWlBRnZKLV96Tk1GY1pQVEhFVWZMb2lHNWt4bktVQWM2OVlGSGQ0Y0toU0VqelBhNXFqZjBFREY4MmE3SlBfai16anhqLUprWW9TekRfT2xWZE85QWlYcHh3V3NHd2kyMktOejd0eUtZQnY4SzdGNmJ1Wlk0YVZ2bnNpSEJBOTczeUQ1NnlxMWxGTm9yamxlS1VreUVIOGw2MmpEbXhNSzNrSHVzOTlWZjlaSjduU2wwOGJtaHJnNHpSX21obk9YS2g2blV5MklDSmlOZGJBcjFB?oc=5"
-      },
-      {
-        "title": "Główny negocjator Hamasu o zawieszeniu broni w Strefie Gazy. \"Mamy gwarancje od USA\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2tCUG1oanpyaVZVYzVVZzNuZFZ3R0pWeVhlS2RLc082a09IcDBoakVzTWNfYUJ4M3NtOGR3clBCZzlFUWhtYnUxVVotcDB5cHBkQWhsSE5fMkRJajdJUHY2WV9EbTY0MDlzWERtRGtNS1dnZU5YcV9JV242LW5fM2pIb2NZampFTEd2ZkswUVVHck1VLS1yWk12ck8xWGJEOE84UnJoQlJlekU?oc=5"
-      },
-      {
-        "title": "Sterczewski ukarany. Za nieobecność w Sejmie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYU5YRXIxSXR1RG1jRGNXc0d0amdsaFN2Mk9QNWhjUGw1dUJpSy1saHR3Y25adHoyek82YlBoeUVEaHhYRXc1UUxnT3VITHp5blBSV1c3U3ptZWV3ZWU0MmxSWjNMNjJoYzQwZFVabHJ0NzAzd0J6VFRLN2hIWlJQdk1YVG95TWRwa1NOUlpjZw?oc=5"
-      },
-      {
-        "title": "Rozmieszczenie wojsk USA w Europie. Jest deklaracja Donalda Trumpa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzNBcTdGeV9PbE9XUkctUVZOVTRyTkltcndGTlJlOVRHQ296Y001Wk9NUUtTaFFUZ0RUZXFMdXp3bUNjOERLSnRBamZYelJEbkYzN0JlMENqXy1Pc2F2NXRWWnVuUHBkUzFYQlZGQTJyQjBRZUFfOFlIZVdjRmRZcFIzM0IwOG1ZTmx6NmZXTmhyaXU5b3EyRUtQODE0eVFRZjQ4cVpmTW1mQ0VfNlZGWA?oc=5"
-      },
-      {
-        "title": "Incydent na spotkaniu z Radosławem Sikorskim. \"Pan kłamie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDdEU3hERWQwSDA2QnFPUGw5TmVEZWprZjdhUXY2UFo0UjJ1X3RYVjZfLWhQSkI1Uko2VE9OM3dlaVQ5NGtZUEl2Z2dpQjE5bEZSdl9kTk9xc200ejREZ2hFUDVHWmtXbWpZUzVPMTdxVjRZS2VpTFdYb3hjZmxCdEpMVGF1ZVJTYWpMUWEtNVRfdFI2RS0yS0lTNVRTRDZnS2hrNUZ3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-10 01:12:09",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wymiana zakładników coraz bliżej. Specjalni wysłannicy Donalda Trumpa byli w Strefie Gazy [RELACJA] - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDEyd1NGY3VvVEduVlhpM041VGNOeVBsd3RwOHdzdEJUWVFnWlhsMVlNemQyRG1wOWpVMDZZRk5lX3V3dUFGTjJVczh3emxlNElyQWJTVTdTVHFka05ndmlrQWI3M0R3TExoUDloM0dqYTF1RXZULVlnX0UyTmlabTdncGdoV1hJT2t3b3NuWkxsbXBwVk9qRVJHUmNYRHlNYWJpVUdLcXV0RXA2VEhFaDZVLTZ4bXNFVXY3VGdTRWx0QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-12 05:33:53",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 406935,
+      "DOGECOIN": 0.680447,
+      "ETHEREUM": 13880.37,
+      "LITECOIN": 344.11,
+      "RIPPLE": 8.65
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński kontruje Donalda Tuska. \"To są stare gry\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZldaRW5qQ2dnOXV6Q2pESkpCaUk0TEZaaWNLNWx2bkxidGdKanlvZEdEdkNBVUIyOUVmaUZnelV4aHFHYnZ4MERXaXhvNnp4LUg2SHVmcGRaZ3R4YzZqUk9FbE5faTVVN19nRUppUWVwc2ZTYWM3cE80bWRQbmoyOWZ6VFpEM0hhQjRFWHVOVWlUaE5qWU9SX01RODB4UFRnMlAyQ080VzVqajhJQnpGOUVGNnh5Qk1sdFNCMDZMMENiblY5TTdfUTFlb2hYZw?oc=5"
+      },
+      {
+        "title": "Tragiczny finał poszukiwań pary nastolatków na Podkarpaciu. Policja odnalazła ich ciała - rzeszow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemQ3ZWRfZWhCQU1wVG5VVGhZNWRpbVROX0F1TjFtY3hVelhIYlhQSDU3UExDSVMtczg1VjhnTzRjWTFrRXlpMUFUMnp5T0ExdDdOUWRCRTZST2NVNC1lREp2RF9taUljVUFGazJkNEpUZ1pfd09TbHFKQnUybVBfcDNXdkR0SERtNlpoY1JpVDhVcDQyNXRLMjFXWHQ3YmptNEZBZGd0TFNvT2JIcjZlaWFDRGRYU05x?oc=5"
+      },
+      {
+        "title": "Eksplozja w fabryce amunicji w Tennessee. Nikt nie przeżył - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFI0eFdqLXFKTTYtc2NfQnRIWmRRTWJBbFhRb0x1aUZEeTlmVlZGRVdob3NLcnZqZUJtb3hRNmJrNnpsdXBNMGtTTXBHdnJ2ZnNVR2NDYXNSY3pSd3Jfdk5LOWtTU1BuRU4xU1I4YXpMMUJBN0RLS0MxWFJXN3ZwblRCUFYtUWtoRzFfbjJwWTRnSVIyYWctZFM5YlNwaDJCaGc?oc=5"
+      },
+      {
+        "title": "Aleksander Łukaszenko daje rozkaz swojej armii. \"To byłby bardzo zły sygnał dla Polski\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzRLZkJ3UUd3dkV5ZVUxeVJWZUZXbGJmem9Sb3BXeG1sRFlHSkVNQmRZd3ZkeG5aWjhJbEJCakVRUElKRnQtS3FEd2xTYmdfMGphLWFEblFOQ0d4MF9XUXhHNWM3QTB3WHdpaXU1ZjA1NEdDMV9Cek11eU12YmYyeVF0aEUtZmlaUUpzM3RSLXN2WjVzUHhPMGdaajI5SFl3ZVR4RWNVQ3M3TEtWbzNlc0I3RQ?oc=5"
+      },
+      {
+        "title": "Gorzka relacja ze Strefy Gazy. \"Izrael nie okazywał żadnej litości ani miłosierdzia\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTl1QjdUZjBtMnYzMHNyX1lOUVIybVZWeENna0czQmdfZkh4SUR0d1NOWEFXTG8weG9RZ2FoZ1dSQUdJQnFCZFFTZnI4SFJNb0x1bDhLUkVYM1I5UUtMZU9LbEg5dHpCWFVhY1pOSWh6V292dUtUTXV1OTg1X1I5RkZUUGxtdXZVRmdPelpSSGM1YmloWFZuTW5SZ1RXQ2JHNVZ5UDF5TG9nOG16SUpvUlEyVHJpZFdyN01VeGdVNA?oc=5"
       }
     ]
   }
