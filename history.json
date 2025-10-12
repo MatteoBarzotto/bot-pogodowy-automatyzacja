@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 18:16:59",
-    "weather": {
-      "Warsaw": "Warsaw: +14°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 436294,
-      "DOGECOIN": 0.871622,
-      "ETHEREUM": 15087.89,
-      "LITECOIN": 472.29,
-      "RIPPLE": 10.06
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Maria Corina Machado zadedykowała Pokojową Nagrodę Nobla Donaldowi Trumpowi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXJELXNraFo0VWZmZEVDYnBYVXlKWTdPVHpvcElfTTdScWFoUjhfWnp1YjlFWGVYZVhrckQxTjZ3Smt5enlta2gydXNic2JJaDdrYnJseEFRT0dnekJ1WVJPVmdmdzdzS0EwVWJ1ZnlzSGc2RFJYYUVRWEVISlhkWDZlck5XWlJIdVFFSkJ0OC16Y2JKd3VrZGNnOGxFWEFHX2JCQThkcnNoMDJLMGFwQmhPRHdYeFE?oc=5"
-      },
-      {
-        "title": "Zawieszenie broni w Strefie Gazy odbija się na rynkach. Putin w opałach - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1ZQXlCdnNYTC1VSFY4b1hzb0JUYlMtZFdBRFBOb2FDR0twTEVzR1BwdEtjUE4xd29YblpySV9QaG5Pc1FlX2VKQXVvVTZnX1JKS2lhSTY0X0JwNnFubk1hMndmVk13S0RkYkRKQzdKTmJjTEl5d2ZjelotZ2wzVlNyUTgwWXlGMXlKaVdmQVd2WUhJMTFXLWVqNzR3VmlOSUJFMTRsVGczZzgyTUlRSHJ4X3BsTWs?oc=5"
-      },
-      {
-        "title": "\"Podobnie jak prezydent Nawrocki\". Orban mówi o pakcie migracyjnym - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3ZhVzdPQ2V6TUtZSTZ5clp3RUZkR3JzYk1pcE5qeWtjTnBycE02UGt5Q2NObnNPMlEyTjB0anFEWlIweldyRFdHMlNCVER2cy1wY1I3NVprSzN2cTlnUy1kemJoaU9XUm8tX01FcDlMVWphQnEzaHl5ODV3TGRfYzB5U1pKeWRiVUFiRVcwaV9iZzRqQmRqZXppZXRabTB2Qy1rVjdaeWdwTXlfRnBJcmd3OXNraUs3bEE?oc=5"
-      },
-      {
-        "title": "Prof. Adam Strzembosz nie żyje. Miał 95 lat - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSUFiQ0NpU1B2Q3hCWGJNUHZMQmNYWW80UmM1UkY3REFEcEg4MHcwSFVUdlZHTENaQWVTMnFoNUpOOGcwSFl0WC1hVjcybERXcldGM1BKVExRWU51UU9tTVBzYTh0b29IZXBLTkFCS2U4REJNTUU0WFNQVGlNajRPbXZxdlVsU1pBSkxpcA?oc=5"
-      },
-      {
-        "title": "Może zabraknąć pieniędzy na leczenie. Szczególnie zagrożone dwa województwa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHJ4aUl4NDU2aldKTzFVeERVTHhzWThIUEotcDcxX0tmRkFaSWdsLWtqNVl3SEdXVVZSRGxMdWFHRHliTzdiUTU1NV8yTVk1UzVzU1VQbjFNNnFMMGtRUUpMekxfcmJkZlBUVlloaVlQRmJ6U3k0LXBucjhUNFMxM0VOelltallDZlloM25DcUFpRkhBLWdNb3A2WDZiSkljOWlOYl8xWFY4dnJFZV9xYXVnQ3FCVGtU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-10 19:12:43",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Strzelanina w USA. Są ofiary i ciężko ranni - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHNhOHMwcUpGQ2dEMTh2ODJYQjhPSzRaRmM3cmpPb2Nzd1NqcTdvVlMwcW5pWE1fU0RMXzhQV1p5ZjJ4aWtqYUNqMmhvcHZid0RLSXBkdndpOERHSzg1QkZfalBDTWpzUXd2RUJzTzBWZDFkT0JUQkhQWnVtbF9yUDFSZlJCakpFdEFjN1d1OC1CVm11NE05d3RqRGExVkdJNjhFenJPRUNHT0ZQcEpXdFNXUW1iM2c1ei01Uw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-12 22:13:57",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 420516,
+      "DOGECOIN": 0.77046,
+      "ETHEREUM": 15162.45,
+      "LITECOIN": 370.88,
+      "RIPPLE": 9.36
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Tak Donald Tusk zareagował na bluzgi pod swoim adresem. Pojawił się też transparent - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSXI0MkZvc0pyYzVQOWZWbzM0bm0zWVl5UC1kc19nT1AzeXZjUFcwNzBra2lreGtFNTI2ZE5fTFRMSnUyeEQ1Ykk4bE9TamtNUk5FQXlhLW1LVW83Wl95TkF1NzRCZWN6eHpoRjNDd2pYY2V3eGJrTkprS2p3bThDaWVVQjFPUmQyYlBnZnBTYTE0WmljeHg2bklBMktQbExFcEFfaHlCX09HR1NvVmZ2WEw4R05LVm5KYTU4N0Zqakx6cTNFSi1EYUgybkJ5Q18tT3lxb25JYzNpOVBOUktmY0gydHBpbnktM211ZQ?oc=5"
+      },
+      {
+        "title": "Eliminacje MŚ 2026: Litwa - Polska. Relacja live i wynik na żywo online - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenh0U1hTMjJKb003cE1mSVkyQUlRRURIbnZqRDd4RFlQMjg2dTlDOHdROUVENHAxZUZkVFFnaS0wcG9fOHpMc3pDZnBrLVNFQ3pBVFkyQXVGY0dycXZLN09seWRnMnRTRzNQN2xrN2o0aURtNFhZYzJVbDM0S2N1TmFLTXIxN0lHdXJielZaZnRGbmdFeTJrRXhHMWRfVTJ4ZWZiQ3EwRHlRenZEN3Q2WkticDZubkE?oc=5"
+      },
+      {
+        "title": "Nie żyje dwójka nastolatków z Podkarpacia. Mogli brać udział w nowej internetowej \"zabawie\" - GazetaPrawna.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemxETklhQ2g1ZS1MUnBrVFlub0ppT3poZU1VQXdCRjNqOTAtazM1OGZpQkxEQkZQZGUwSlNsM3ZpZ1V3ZVp2cmpFV3M4OHJSTm1Fd2sxQkVUc3hUQ3JlRllfWHpDZ0xuZUxveFdocmY2Q3dNbmd5dEJ3WkNDeGVLWTNRdGhfb3hPLUp2M0RhSlpaQlF5Zkx3LUZ4R1ZTMkx3dUJidVlnUXAteUlhQlljWFFhMHpIa2FnZF91Mks5OVlucmpHWnJPWnlabVJFMGFkdHc?oc=5"
+      },
+      {
+        "title": "Donald Tusk ostro o wypowiedzi lidera AfD. Uderzył też w \"ekipę Nawrockiego\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajAxUno0SVR4QjItVjJRNDFwRXNHem9ld1dwdnNIVXItLVFnc3JyLXRRWFhIcWsySVBIaUFZRDhtMElpVHNlbVVwcVRGbGhNc00wRWttZFNzUkp2Y3FZRTY4UVlSZ1BXdjhPaVRWN29sMEQycFBoZ1RvY1lIY09jS2EwR01yUEZKa1drX1RfQ2JxVzVPa0NZY1RWcUN3RWtqUmMyTmRHU3ZNeDR0RGRJbWoxUXlMYndERVNHX0c2Q2VzMXZrZkhkd01YMGJZM1hTbFE?oc=5"
+      },
+      {
+        "title": "Jakub Iwaniec, sędzia od afery hejterskiej spowodował kolizję. Był kompletnie pijany - Lublin.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkx3aXhqVDFkRjAzVmxmeUM4RDhKSW9DeGgzWEhtM3k0SC1TRks2SDRrMmZWS0RyZ3N1R1ZxX1JRbEFRSWdhUThZdm9tQUFNeFBRb2dfVW5wWEU0dERJVnlZWWJGQ1dyZEd5eXZKU0NmNkRyWFM2LTdFZW9GQVJYM3dhR1V2QUotQXFKazlxQ21fOEpidUY1RUh1OWZIMzROWTVqeVdYR2w3UzhRSGtYbjZFYW9kdGtp?oc=5"
       }
     ]
   }
