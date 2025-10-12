@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 21:11:05",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 430204,
-      "DOGECOIN": 0.859496,
-      "ETHEREUM": 14826.84,
-      "LITECOIN": 465.79,
-      "RIPPLE": 9.93
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Potężna eksplozja w fabryce wojskowej w USA. Są zabici oraz ranni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSG9wY3ZjeEFfUHVzNm5vQ1BPdEJmZVJXNlNxWFFQV1pJeURiMDgtdVI2ZnpEcERPeXd6OTNmSXB2c2R5cXVOcFM3R0NPQlNSR2hEVmk1WllIVVhVZFdPRHU5NVJELVhRN3hsREFYZ1dBLXZJNXQ2aEloX3V4bTFnTGxkSE1zeG1PZmJYaGxDU1BNa3FWeE45ZC1jX1RaQzZRZ0lpUUhHYXo?oc=5"
-      },
-      {
-        "title": "Donald Trump dziękuje Władimirowi Putinowi. Krytyka Nobla łączy przywódców - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVpvMDJLS083QThMa3h3bk1JNWJXMVdTLTRWVVRZN0s4UjFRRmJnOE5RaXliRWRzQmRoNXA0d2xCZXJpOEtJbkkwMmNfRFkzMDlkZy1EemtHSG1zMExycVlzXzZGcEVQeDZOdXNBVUlIaGd3ZWNBSkRfazNUNGRqVlB4aFdHNlRoMHhPWVYtUkVHUVRsSTRTWUljOTA4TUpMckR5QQ?oc=5"
-      },
-      {
-        "title": "Wrócił z wakacji? Sterczewski odpowiada Grabcowi - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnJkWUxQV1N2Sm51ZmhockppbjRqb0JMbzIwYURYcDRjcjR2QVZGNTRGZVdmOTJsMVdfUThvS0JLYjdKdFJNNE0zVnpZS3laZ3JCXzMzT1pGRTQ2eUFqXzJOTGxjQXZ0THJUWnJPOU1RN1hYV2xfV1lBQ19NLVZHYXpiLWhRekxEcGhudHRoQzUxTkZqU045YWhHUQ?oc=5"
-      },
-      {
-        "title": "Władimir Putin zareagował na list żony Donalda Trumpa. Znamy szczegóły - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUNyUXpCa3VLOVNob2RCR25IdEE1c1BsZGw2RGNDOXRtMVlUWFEwbHJ0ZkRQemZ1bVh4NFZIMnJ2Vko2aVdOLUl2bjl0U2Vlb2JZeXFURXBGZ251c19UVDZsVWRHamgzbDZTX1hGeXhVWDE2dnVTRkFpYnZPa3Y4aHhFb183dmNtSTZNS3VJN0lSR1ZEN0hBOFo5b2lWSU9kLWdJa1BBU0RMdF83eHJta2VZaWxrWHdqcUFv?oc=5"
-      },
-      {
-        "title": "Zawieszenie broni w Strefie Gazy odbija się na rynkach. Putin w opałach - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1ZQXlCdnNYTC1VSFY4b1hzb0JUYlMtZFdBRFBOb2FDR0twTEVzR1BwdEtjUE4xd29YblpySV9QaG5Pc1FlX2VKQXVvVTZnX1JKS2lhSTY0X0JwNnFubk1hMndmVk13S0RkYkRKQzdKTmJjTEl5d2ZjelotZ2wzVlNyUTgwWXlGMXlKaVdmQVd2WUhJMTFXLWVqNzR3VmlOSUJFMTRsVGczZzgyTUlRSHJ4X3BsTWs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-10 22:14:23",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kaczyński \"namaścił\" Czarnka, ale Polacy widzą w roli premiera z PiS kogoś innego - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVhWNXQya0dVTzJyWlI5emwyQmU0WVFkb21Ha1F3bV9jb2RMMmozY1FLQ1JNSkxyYXI0RTgwbHdXQUVmTGxrYUVyRk9XYmJBZmNLWDdGRUFwV3JLbjMzOFVQUUFmWUhIelF2ZzZaT0FOYTdYWXBvLW84aTA5RG5zRE5RaENFUnJNMWlDNE9ST0hUQm56MEp0T2lpRzFfMGFPWExvd2I5OHdwZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-13 01:11:54",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 422565,
+      "DOGECOIN": 0.759501,
+      "ETHEREUM": 15174.72,
+      "LITECOIN": 361.97,
+      "RIPPLE": 9.27
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Stadion w Kownie zapłonął. Polscy kibice w akcji. Padł okrzyk do Donalda Tuska - Sport w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa183N21GVFVqZ1JCQXlNTnR2d3dsNG83YXpkb1dVci1URUM0WGdrX25JZTAtd0t2ZUNNRFp0cDYzTl9WbnlEX0drNEFoS3hWQzJXamVac3dhMUQzSG9Ja2V5Ri1NNE4wc2FtM2lidzBzNXV2U2tCdDhfYVNCZnN3NV9HdHFBNmtRZlhSV0NtQ0VwN1VmTGJVZHotdFBjN0tOaDJINzZVYWRBbl9STUQ5NVNuUU5KVVZyMDZmd3ZB?oc=5"
+      },
+      {
+        "title": "Potężny pożar w galerii handlowej w Poznaniu. Języki ognia trawią budynek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlFaSGthYk9YQzNJQWphRktQOVRLSV85REFBWmdNUXFteG90ODZrNUFHOElNWmtUM2FWei0zRlRXWkNoejd6bmxUX3oyM1hVY00wU3F5OFJxYjFudHdjU3prZlZPRTBzV2poX1BUQklnR1ppVERCcTlpUXJmQWhiRWRNVEk4MGlqVFRDZWNUQ2Z3YXdVdlpMVlFueEIwS3R6enNNYXhVbjBkSHlHaVVVUDBwb1E?oc=5"
+      },
+      {
+        "title": "Zełenski rozmawiał z Trumpem. \"Drugi raz w ciągu dwóch dni\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFFhOE01b3g5MUI2N0hjelFZbzJHeGNoQ1ZrTml2NU9JOHJnQ09yZExDS3RtNmR5UGRadHM0Q3RFWVc1cnFZUnE4Y3MzRjM4WUdfUmJxVHViQkhvVFpvV0RfMUtTS1RnbnZwZklFQmJUc1RjNkd1eUc0XzlwMkRWZG5Da3JPUS1kX0FnZjVXS0NTX2ZPM0h4MDJR?oc=5"
+      },
+      {
+        "title": "Kaczyński \"namaścił\" Czarnka, ale Polacy widzą w roli premiera z PiS kogoś innego - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVhWNXQya0dVTzJyWlI5emwyQmU0WVFkb21Ha1F3bV9jb2RMMmozY1FLQ1JNSkxyYXI0RTgwbHdXQUVmTGxrYUVyRk9XYmJBZmNLWDdGRUFwV3JLbjMzOFVQUUFmWUhIelF2ZzZaT0FOYTdYWXBvLW84aTA5RG5zRE5RaENFUnJNMWlDNE9ST0hUQm56MEp0T2lpRzFfMGFPWExvd2I5OHdwZw?oc=5"
+      },
+      {
+        "title": "Netanjahu triumfuje i przestrzega. \"Walka się nie skończyła\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa09EWmhFajJRQ1N5TWc1M0RMelU0amlxbkpLZ2VXQklBOHhyU1JlbzBydXYyWlZGZk1KLVdmTDR1ZzgzWFFUUEczMGNIQ0JKS1F1ZGRRZHptN1Y4LW5DcWI5RkhlcTdtMllPSTNrcVJQbktuaHB2MVAtMEs3NlYzNElNSUtVdHNGRms4WFpEckdFZHYtWlJDUlJiakRLbDhETy0wS3pkU0dJbXJ3NTVtQ2E5TUU?oc=5"
       }
     ]
   }
