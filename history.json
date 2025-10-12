@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 14:28:14",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 447288,
-      "DOGECOIN": 0.921777,
-      "ETHEREUM": 15990.09,
-      "LITECOIN": 485.97,
-      "RIPPLE": 10.37
-    },
-    "indices": {
-      "^WIG20": 2870.67,
-      "^WIG30": 3712.96,
-      "^WIG": 3712.96,
-      "^NCINDEX": 284.83
-    },
-    "news": [
-      {
-        "title": "Donald Trump bez Nagrody Nobla. Komitet komentuje sugestie o naciskach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblZ5VG5XRzA3VUU3dmtTbTdCX1BLcUQ3NVRKdzI2VHAwdmMzLV90QUlDd2I5YVg3S3R3Q0F5TnBFNUtGZGhGeTVneWZLa2ZReGo1R3lyNkRWeGFpbFV6SElBMUFMTk9CenBFZTg2LTNkRXJQd0w5S1NRN2txLUU1VFh0b3puNFNJRTNJQzhPOWxDSkRENDJIb2F6NmFRNUJvYS13a2NxMTdXMGh4dklB?oc=5"
-      },
-      {
-        "title": "Awantura na konferencji ministra Żurka. \"Na jakich zasadach pan wtargnął do Sądu Najwyższego?\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1hQS2xpWU5YN1RIaGRLYTJHZDRyWUNBS3VESHJZaUVjLU5RdjRYdW1TVzUzb1ZwSS1vaVFHNHkxLV9aaTRzRWd1QzQySGRYdnNUUWl0dTBiTGNuYmM0eVNjd2thVmU2WGNVWl9RYUpOQ1dRNU5GVlhEaEdEeFVoX1BwNnhfcVpCblVLYTYxdzBWQk5YUmZ2Rk9zc2ZkY0x3SVNIb2xKblYtX3VYMURjeQ?oc=5"
-      },
-      {
-        "title": "Pierwsza faza planu pokojowego dla Strefy Gazy. USA wyślą żołnierzy do Izraela [RELACJA] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTmNHY1R6bHNCM2swU2NlM0JyV042T0VqVWxmRjBxN2UtaEhaZ2JQbktoMDFwUEdFa2RETGFlSVFDdWJIeUV4cUNKQXYyamdqTENSeUNyX0dicVJpdndlOHEzbDFFVkozbE1VOENPTDJBSUhRRS0tdnUzc255Nk9HQXlUWlZ6OG8zR3BXSl9Md01HQlQxWlhmTnNWUzBvQTA5cEV0SmpnVmMtOU1PWGxXZWxLcTR3RmRyUktMYUhuZFlhX0xUQzRWcW9pdnVpVjlJeHp1a0xnZUpzT29LSTMtdWZB?oc=5"
-      },
-      {
-        "title": "Adam Strzembosz nie żyje. Był wielokrotnie odznaczany - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93b3lmMUNUd3NoR1FzYTlkQnFGLXBsaW05YzA4Uk5CVV9nOWFGN3dyT21pZldacEZMUndPNWF0RGlwb3lyb2preDktLW1DVTZMbGVQd24xdnkzUjJmMlhDTG1RTnpkNGJXZEI3ajdHMFEtdER0Ukhxcmg0NA?oc=5"
-      },
-      {
-        "title": "Waldemar Żurek pokazał nową ustawę. Jest pierwsza reakcja prezydenta Nawrockiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1JjYWdjY2c5LW5STWFNb3NpaWs4bFdOX3BZVWJQMVlfZzVvLXcwRmpDVXBSemJQajRiV3NaY0Z6RUdDcnhWcDJGYk1HNURYbzdlQWZRYUJ1OWppcHJPZ01EN2pscElNaFdWaTdnNHVtZG5SZUJoSTNiY3ZBVXpialdibEJzWFVZNXJmcjZzMnlrYUlacGhpekhaaEp1LTdqU21Wbk9RVExGbkNrYVRV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-10 15:23:39",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Śmierć pasażera na pokładzie samolotu LOT. Dreamliner musiał zawrócić - Onet",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1M0SUFfM1M0MmY3U3Z4U29UdDNUZjJCcEQweVJpSXJ6Mkl0N0FVamZFRFNzVFdKRWlrX2Q5MWkxcUpZSXJiX1p1WFdxMGJyVWphaVVKbUVEc3FyM2JzdlFBN08xTmU1cUpFTlVsbldfYU9KSVJTd3d3dGR3eW0yS2VaeWZMOVVCb2dtd2NYTjlzYnZ3SjFFOHpoTVN6ZFQxZG9iejVwcTZsOVU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-12 18:14:26",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 417687,
+      "DOGECOIN": 0.760777,
+      "ETHEREUM": 14967.22,
+      "LITECOIN": 362.32,
+      "RIPPLE": 9.19
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Strzelanina na Wyspie Świętej Heleny. Są ofiary śmiertelne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2c2SERqXy16am8ybk5OR1hybzl4RkxwcjJLSWNDSVhQeGFJQUdVZjlTeHZzcnhienpJb0tUS0ZEcXF2YjdfeVU4b0ZFZGdyVUEtcndFcFpuQWVXdUNNSDV5ODhsYnhkMXdfeHJjd3ItWndWWm9td2VrX1NENnM5R2RPRFNHMDhuTnlxeUZONnA4ZTFjQUdUUG5JTmdrYUE?oc=5"
+      },
+      {
+        "title": "Szukają dwojga nastolatków z województwa łódzkiego. Policja apeluje o pomoc - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVB3cS1zT1RfX0p0NWxjYVRCb05BY05lXzBsNllBc3FoQ3Noa1IyQzBQLW0wWC1mVG1vRmpQdGI0S0ppMFVVb2h5OHVETFRmQ0dHdEMwdU9JaXFoZDVDcUw1cXozcDFtN29nNjl3SGVCU2Rtd3Q0MElkd2Ntd1RGQnBFSlFOLUJYTWsyQThyT3N3blFnT1VGOTR5LWRxZWdtczVmUkY5aW15SmQxTlkwN1hVS1oxT1FGSlpYVlRfVQ?oc=5"
+      },
+      {
+        "title": "Bogusław Chrabota: Mały jarmark patriotyczny PiS. Ale zostanie zapamiętany z innej przyczyny niż frekwencja - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN1EyR2kwaXJpSm5hVm1hVmpZRjZKdUZjajVpYnJ6WEFSVzNUXzFfUG9lUDYtYjNkZkJsbHZRY3pnMVJmQzhCVVNmVEN5a01PbGgybUs5NVhrUnI2cXJEV3oySTZCSV8xbklvUFBqZ3MweERZVWUwNTN4N0Y5NW9POTJjektmbmdiVnhRLTZRZU5GMXhmb2ZKd3hOcVEwN0g2WjBZR1UydXI5dkdCNXFSLWIxVkxVa0tBSVd2Y3YzNFhTN0cxTWR6ZDNsOE1abzAwcHNIYUcwUEU0THdZc3k0?oc=5"
+      },
+      {
+        "title": "Szczyt pokojowy i obawy o zakładników. Armia Izraela ma nowy cel [RELACJA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONk1nUXd2X2VSQkpmUDdUb040eTQwWlkwZm5xdXFPT3REM194dW9xenp4RC1YNVc4NkVmSTFUbEk0SGM1czdGQ1Mwc3J2elQzbi00VnI0MHNSMHFFdVQtOUhrLU9mek1ETWlVQWdWbjFlNy1LZjY0ZHVBY1pmdTB6bERiRjJ0a3BVS3J6emtNWXI1d3Q2Z0pMdGFWd3kxT3RDY3Z1LTFtdWN5R0tfanE4MUtn?oc=5"
+      },
+      {
+        "title": "Tragedia na rajdzie w Nysie. Nie żyje 40-letni kierowca - Onet",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHJoQU1VdFpPZkhVQy1IdXpqS0szUFAyYS1OQUhWU0RCVzM2czAzQUhtNkpJeVNIZzJYalN5bHVnZTZOcGZkT0phMHN5ZW1MSDBNV0NXcWpmMmtEUndPdmlIaUdQTkJxdl9uYmc0TGd4eURBZWV4UjdoRF9MUXVSdEpTVjk4OE9TWnB5bGh2V2M4NnJtR21GSGZGUQ?oc=5"
       }
     ]
   }
