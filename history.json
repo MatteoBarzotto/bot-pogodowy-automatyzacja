@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11 03:00:24",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 413550,
-      "DOGECOIN": 0.720168,
-      "ETHEREUM": 14105.25,
-      "LITECOIN": 355.7,
-      "RIPPLE": 8.8
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Zawieszenie broni w Strefie Gazy odbija się na rynkach. Putin w opałach - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1ZQXlCdnNYTC1VSFY4b1hzb0JUYlMtZFdBRFBOb2FDR0twTEVzR1BwdEtjUE4xd29YblpySV9QaG5Pc1FlX2VKQXVvVTZnX1JKS2lhSTY0X0JwNnFubk1hMndmVk13S0RkYkRKQzdKTmJjTEl5d2ZjelotZ2wzVlNyUTgwWXlGMXlKaVdmQVd2WUhJMTFXLWVqNzR3VmlOSUJFMTRsVGczZzgyTUlRSHJ4X3BsTWs?oc=5"
-      },
-      {
-        "title": "Impas polityczny we Francji. Emmanuel Macron wskazał premiera - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2x5Zkh6Qi1Gb2huVGZoM3I0aUQtQ2I2TTRxQTdDVDJYcnJKdjFwanVsNGNmWmg0QXd1NkZmOGlDYllValJvWHFRNVFDcDNpRGt5RVVkeWx5LVA4OXROMHhiemdVMVJWX0lmSkM3UFJtci01WjI4aVB2YWg2amc1YnZWU25Xcm9CSnB1S3V1Z2gwTkJjdS16M25qczh4UEt0VlZr?oc=5"
-      },
-      {
-        "title": "Donald Trump bez Pokojowej Nagrody Nobla. Czy Norwegowie podjęli dobrą decyzję? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1Z2RmNRZFU0aldlVnFoY0RiWnFMOTNyOUNQVGFTaXlNOWk4bWJnS0toMy1ZLTkxb3AtNmcwSmF5bUVQOGZmZjNUcXhRWWZfSktITzRjR2ExY2NhdmQzYzQ4ZzNQdmxlZGhLdjdJR1pGTmxGYnJUbHJPMWJsZThuZ1Q2dTVtLXdnR09mV09CSFY2Sm01Q3FlVzlYdmhWWjNNZkdnVGhfamJJU0xVNVBpZlR4STlhckZ1ZGtXOEhB?oc=5"
-      },
-      {
-        "title": "Kolejna noc, kolejny zmasowany atak na Ukrainę. Bez wody dwa miliony odbiorców - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWxfRVNUdWdzaHpMc0I1Y0Rwb0JRVUpoakZLeGI3SnEtZ3RuOUF2NUo4cGw2VFNjNDVRLXVFNE9WbjVWWWwtbDdMekpyVVM2V2xGUVI3aU9ZNWQ5SGZBZzJsMUlOVzllTzdaLXhjekRGSVpic1p1N2dVV3AydVRJRHZYdTVIaVhDaXQzOEFRU1JSZHlqdkJTOS11OHJYTVk3dEhDY0l3R3NqTFYxRml0T3N4RWs?oc=5"
-      },
-      {
-        "title": "Nie żyje sędzia prof. Adam Strzembosz. Miał 95 lat - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSG45YWVlOEY4b1VnTHRvSllwbHEtZ0J5cXJKWWdOV0llMDBLNXdQc3JjVkRzLWxiRk1MeDFpaEplX255NlRHd0dhSlVpa3hLYlVZQjJBRjJnZUJZQko4YlJyeWJ1c2tDanNxQXR2b1RKZ2tNcXJlTUJ4RHpEUlVMcS1ycDBiX2I4VW4wNFg5UHcyNkY2ZG5j?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-11 04:19:46",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rosja w coraz trudniejszym położeniu na Bałtyku. Przełom nastąpił w 2023 i 2024 r. - Onet",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHRZcEp5REpTSTFsVzRjeTBKeUl0MVFTa1hVMUhWQlpGRmNJOVNESE5tZXh2S2VfT2d4ajlCdnVGZmdONl9BeG5GeThPb0Q3akxpYzJVc2pKQU5zSFM1R0hSQjBmT0dqWV93d1ZwYlVHWV92MDhxNEw1cWpRbG5PN0VYc1dUa29zVjF4U0tseTlMaEZ5TWRjcEZLempSSWtmdWNqanozNG9iS1g3OWVR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-13 08:22:10",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.6778,
+      "EUR": 4.2583,
+      "GBP": 4.894,
+      "CHF": 4.5675,
+      "JPY": 0.02409,
+      "AUD": 2.4116,
+      "CAD": 2.6237,
+      "CNY": 0.5162
+    },
+    "crypto": {
+      "BITCOIN": 421973,
+      "DOGECOIN": 0.76469,
+      "ETHEREUM": 15221.05,
+      "LITECOIN": 355.65,
+      "RIPPLE": 9.39
+    },
+    "indices": {
+      "^WIG20": 2873.04,
+      "^WIG30": 3715.29,
+      "^WIG": 3715.29,
+      "^NCINDEX": 285.61
+    },
+    "news": [
+      {
+        "title": "Hamas uwalnia pierwszych izraelskich zakładników - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGJzUDY5UHM2X281RXFabjNaQXU3UkxKU250UDZNNkFwektiLVg1SkhiSU9FbXhpU2w3MkV2dW1hUmFWR3daV3dOc0pxeXczRHpQM3ZRWDdhbHllSVA3Y3Z0dkhWZVZmdkc4TE9zNUMwZmxOdHpSYXA2MEFYLV9qLW12M3VDUFVsMnhrdEFRQ1RKbjFYaXNERmZqZml6WVRlT3BZTHlwdlJCZHZ6Z2NMYQ?oc=5"
+      },
+      {
+        "title": "Nowa zapowiedź, Kreml grzmi o dramatycznym momencie. Czekają na decyzję USA - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNllZVDJDVE9zVXhYNV9GVklTNU4zTDRSTWxkcnJpZEFxdnJUd3NuQ2pEN3dfQTlfOVZhQmpxV2hzb0xRMmZ3bHEyV1ZmQWVGOVhPMkJ0TWNBV3JZZk52Z0RFdzY3b1J1eTJxVnBxUHcyRDItR3NwTFdnOFlnZ3V0MW1oYko4T2FwUDVZMi1PVlM3cTYta2V5NGpTdlJvUElWRlZnYVkxQ0h4TU1jSTNONFRsQ2pyXzgxS0JQalZxVQ?oc=5"
+      },
+      {
+        "title": "45-letnia Polka zginęła w Tatrach Wysokich. To nie jedyna osoba, którą w niedzielę ratowano - Zakopane.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOalMxeU1udV9ycjBZR2FROW1rVmYwclU1dmlkUXVMY0ttMGNEUHExNHBCRWZoMW52QmdfTjI1bkF5QnNORjNBZ3FUdEQxal9FV3pGeTItMmtYSEpoR0pfRHdnMC1wb1otMXNkclZ4ZkRyOFJWU0NjdGFEQU9DdmVjZVVkS0xIUlRrUTFFbXVxX203WEY5VGViQU5SRVUtZWtTQm5YY2xaRF9SdkljT054RF9XQVBPZWlhT0hncmtYbkY?oc=5"
+      },
+      {
+        "title": "Wielki pożar w Poznaniu. Płonie sklep przy jednej z galerii handlowych. Na miejscu wszystkie służby - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1MZjY2bGExMVVwS1hTYlA5dnFpdmtxSktRWjBpbjdlTHdEdVFmWS1RNjhWQWVwR2ItdTlYcGlQcGE1SUFwQ2hxVG81ekNKUi1ra2oySmdaMVRVWTQ3Wkk0RFotNm5hd21hSnJFVW5fOHJmUzNZdEJUQ0FuLXlQSnVhM2M4aE1pZVloS2NWWENmaS1rMkdHSWNaRGlHT2tldjhDcW9lNlpNTmdNeEtSVw?oc=5"
+      },
+      {
+        "title": "Polska wygrywa z Litwą. Biało-czerwoni zdobyli dwie bramki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNExCZ0Zma3lUQTFiYVJmVEE4Z0VrdjlIZGlMX3dNcjBUQVpQbzF2NjAwS0szSHEwenE2U3JWakNMRVNTdE1IOEROa09oa0MtbDF3Uk1WbzVaY2phU3BfcF9YcXdnalBhVmhSTXkyTERpZmtwdEE4bkMyT0tjX1RBOXYwcDBWYjhETFc0enlvcnZlQjlUTDhZUlFWSzVtU2pvQUVIcVpZNzRUbElY?oc=5"
       }
     ]
   }
