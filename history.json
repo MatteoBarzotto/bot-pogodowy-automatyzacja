@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11 07:12:21",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 413376,
-      "DOGECOIN": 0.717194,
-      "ETHEREUM": 13980.53,
-      "LITECOIN": 367.04,
-      "RIPPLE": 8.96
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Donald Trump dziękuje Władimirowi Putinowi. Krytyka Nobla łączy przywódców - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVpvMDJLS083QThMa3h3bk1JNWJXMVdTLTRWVVRZN0s4UjFRRmJnOE5RaXliRWRzQmRoNXA0d2xCZXJpOEtJbkkwMmNfRFkzMDlkZy1EemtHSG1zMExycVlzXzZGcEVQeDZOdXNBVUlIaGd3ZWNBSkRfazNUNGRqVlB4aFdHNlRoMHhPWVYtUkVHUVRsSTRTWUljOTA4TUpMckR5QQ?oc=5"
-      },
-      {
-        "title": "Zaproszenie dla dziennikarza wycofane. Minister reaguje. \"Co za żenada\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkNpeXhPZWJZdWl0NnQ0UmVBM29GOEdxWjhqeGpFaXZHYnhxZzkzRnpnUDY5MjlPSjVFeVl1WEdNZWNjWVR1Vnc2V180ODZWcHNwMHZ6YlY4TXdPUG1EZ0hkZnI4dUtwa01WdmpWc0l6SXBnSGdoazUxXzVfdDllYmtOWDJzVW5IOUFpSU1vZjRvWGpjZ0UwR3VXeDlhWEF5VXBQWUY4T2VFQ1k?oc=5"
-      },
-      {
-        "title": "Nawrocki wysłał list ws. migrantów. Jest reakcja KE - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTJlNEx2R2JFRWw2VTQxV0NERHppS19WaFc3ZXFXY2FlaHJ0MG9CU0M0ak1PLThhem1fbXpqMjdzOXJBUVV3UGdkODkzVkRmTnhLdVUzeGp4Z2xoc3pSajhRNlZfenRjVWoxRlBYUEw1NFN0NE1kOXNqS3g2LUU5aTNXSjhoR05VMHVKeHNTQjRiZ3JPcUdz?oc=5"
-      },
-      {
-        "title": "Putin bał się kompromitacji? Szczyt został nagle odwołany - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0hqZDdwTjhLa0pRbzV0dGkxenlhSENHQ0I3dlZXQ0hxZVRyR2tOQnFkMnB3Nk9oRm1pMTFhc3hocWRfNUZrSFNTamFpc1gzTWJGTU9DYmlkRHNTOHg0ekw3WmRNQjZtcjljRWlUOGtDS0Z0S2RqTU9qbERsb1FxU1lRMjVoSFVEMW5XVm1uSE94TU5OWkprbEUyS1BhYUgzNFBSTlpsMnNTZUJUNThubXFVYkJEQ2FtcEEtcU1kT2NuX1JkdXdBbTk1VVFRRzZkS1haaA?oc=5"
-      },
-      {
-        "title": "Biją na alarm ws. zadłużenia Francji. \"Efekt kuli śnieżnej\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkN4ZmkyOERpdHBUcG1JQTl5UUFHMHdfeFVZeDloQkZ1TjJSLXpwX2lFdkVrQWpCSFA1ZURQNDFRaVJCZGJqX3VpWi12WjRHcy1IcjNiTGQwdkltVXJVeDl6ZXczMmluLTVTVXNjTUxNZmdBUUNEZ3Y4OXhyNG91WUFUZDIxb01MOGpXTC1kdk50MmFsQWNDaF9fTDJ6NVk3bXEySTdsZHpROWxxN1ZZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-11 08:18:24",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rząd wyciąga wnioski z reformy. Jasny sygnał ws. wieku emerytalnego - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTDZ1VEpsRG43bFh0T3hETUk5NGFhOWNZdjBGMGdHR2dtT1Y0UkhaX2o3X2hZcG9EY0syVFZBM0tLaTRRQ2lld2FHMnlRcHFNRFNlbzVLTGxJQjdRZVFtb3E3TnBuZ0o3NFpKM3kwVnBaYWF2ZmJMUzFUWkVnbkZtRFNuRURkeU8ybkMwOGx1S2prUHdHVHJKSmZuV3pRbjkwOEVtcFNhaDREdDBCQ0E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-13 12:16:58",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.6763,
+      "EUR": 4.2592,
+      "GBP": 4.8993,
+      "CHF": 4.5719,
+      "JPY": 0.024132,
+      "AUD": 2.3973,
+      "CAD": 2.6258,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 422913,
+      "DOGECOIN": 0.774174,
+      "ETHEREUM": 15264.24,
+      "LITECOIN": 360.97,
+      "RIPPLE": 9.58
+    },
+    "indices": {
+      "^WIG20": 2871.21,
+      "^WIG30": 3710.24,
+      "^WIG": 3710.24,
+      "^NCINDEX": 284.34
+    },
+    "news": [
+      {
+        "title": "Nagroda Nobla z ekonomii przyznana. Poznaliśmy tegorocznych laureatów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE1OMmxDamROcXJkSGV1ZWNrS09IeHh1cEZENlM5RWdUcksyQnYtNWx6SzJnVVd1WHBlWGVRR2xoTVV5V3VPR2R6U0RsbjRhN2dOSDBnZHZKa1dfcWI2UjI1R3otbEIxQ1EteWdmcEFuMjhDNFJjVmJYZFp2V181VVdHOWhKWE9ISWVNOTRYdDdFWXhhWEMzZGV2MzJiYWwydV85cWNnVVpXc0E?oc=5"
+      },
+      {
+        "title": "Zderzenie pociągów na Słowacji. Jest wielu rannych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHdOZkZSY0VxSUpFUVJ1N3plaE5DVjV2UGJIOFY4RDhrRHgwazlLc3AzMEtoTi02djZFVFYtckFQZ0Rha1VjUFhTUW5RdXVQRm4zek9CXzJ1ZWsxckZ2eGl3QU05bjFTTHk5cVU2V1AtS1hFeG56VFExbGVMMVZKbWQyUTdOQjJVR1ZRdG84YzFrV3FM?oc=5"
+      },
+      {
+        "title": "Trump złamał protokół. W \"bestii\" nie podróżował sam - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHo1VmwwSE9CR1RlMFhqLVdZOVVZOExsd2I1anlDa1NqNlo2cEZCN1pFamJCYjRzX1BuU2J2aDdNQnJjVE1tZWh6QjZYZm4yQ2NWNUdiSkVYMEJUUEJ1alExZUpTai1sbU5hUndGaFYxYVVnMUxZdlNWcVJocTZxdkVTNE9ZdTVhaHJ1emlZUlJMMHFYVXZyQjZaS01SRWtOdW4tMllFZERyaTFjZ0FCRTIyYno3ZlA1SklWN3AxLWozdw?oc=5"
+      },
+      {
+        "title": "Ostatni oddech w górach. Cienka linia pomiędzy życiem i śmiercią - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXdWd01vQkc1cjJicnJqZ0JvcVZKOXhMNEZZcXFnU2h5aV9YNTZMLUVDUjZBeVY2Xzl6cUYyRXpLZGJuRGZIQnhnS0E2VEhyTFJKeEJkbVBlanNaWkRhaWhvTFdNelFMYS0zcEZqbm1CanpUTG9mcDcxQnpfNFljRUdoTXU5Uzc1clZRMmRlRE1uLVVhN0hDUDVZRXZqcVl0ZExVVXU5LWJYQQ?oc=5"
+      },
+      {
+        "title": "\"Oczekuję przeprosin\". Szef MON reaguje na głośne słowa posła o śmierci żołnierza - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc09jLTJmTkJjLUFxQ2Y5bnhENTJuOFVxZFhrVXpNZ1BVTFJ0XzU1bmxzellhX2RWSkFNX1k0ZzM5VGJtWDMxSlFzZXo4RURtRHQ5dHlIUzVWWDZWeGZxQm1fNnNFOTBNU2t4VXdxR0Z6dWdpaGRIVGdHcFdmZmk1YlpFUnVXdUNvYjVuSGduMU5hSGFVdEp4LWMwZXVVeVpvd21yLUVRMUxRd1V6TFdXQ0pXZ25kY3ZKVE0xMVpfbTFnM09FVnoydHl3?oc=5"
       }
     ]
   }
