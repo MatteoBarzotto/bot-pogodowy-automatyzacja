@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11 18:14:25",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 411093,
-      "DOGECOIN": 0.708419,
-      "ETHEREUM": 14090.58,
-      "LITECOIN": 354.47,
-      "RIPPLE": 9.12
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Fala komentarzy po manifestacji PiS. Sławomir Mentzen: może dlatego przyszło tak mało ludzi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEZvTGo0WmE5VU5CcElHM3hHQTFwTFRaWEI3bVNZMW1PdzhueTRHQTdsR25IQWhsd0hRLUkwSlUyaEI3WDJCZ1R3SWRlbVhzNWU2enJ1ZHgwTEV2eWJRaUktdmRaVGdNdFo5cXR6MjctSHR3NDVrUmVqczRmWjJFS1pwTHZ5TDMwOXJVODhqUWEtb2dXZ0dVc01DYzh3TXBBdDVYTmNKaktYR0d2YzBRSnM5M2RvY0lBVnBfbw?oc=5"
-      },
-      {
-        "title": "Premier Donald Tusk chwali się sukcesem w temacie relokacji migrantów. \"Załatwione\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY214Z0huM1JSZ0VmN0dVNkF4dTJzT3ROaE03RjJaeGtfS2lRVno2Q1RHVkdpeS1uT0lvOW4zeGhFdUJhMHUxaVpITVh6YmtrbE54OG5tMUZNTVYweUN1bnJMdlhzOGJEWDFYRE1aUDNtWUNjZm01UnRESjBWMnctLWVzelhtYngzVkxmSzNaWXU2UUJoUmFHOFZNRVpfNzRxX2YwS29PeDFubXVJ?oc=5"
-      },
-      {
-        "title": "Żołnierze USA na Bliskim Wschodzie, atak Izraela w Libanie [RELACJA] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1ZnT1BZcUhJMlRWOGU4SlpLYS1PNGhXdFpPRnZXRGd2TXV3bGNtay1KUUJ5U1Ytajd4Y3dLTVZnUEhheDM5aF9NRE4wLVFtR1BmZXJZTTlQMzNsX0ZvRVpycDRMNWJHRUs3T0g5cXdxaU9MQW11WG9VbnhuVWZFNDBWZ19BSlc4Z3l1YVlONTdHWHFmMExoVm5SSDA4TUYtWDFXNzM1RWgxQQ?oc=5"
-      },
-      {
-        "title": "Aleksander Łukaszenko daje rozkaz swojej armii. \"To byłby bardzo zły sygnał dla Polski\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzRLZkJ3UUd3dkV5ZVUxeVJWZUZXbGJmem9Sb3BXeG1sRFlHSkVNQmRZd3ZkeG5aWjhJbEJCakVRUElKRnQtS3FEd2xTYmdfMGphLWFEblFOQ0d4MF9XUXhHNWM3QTB3WHdpaXU1ZjA1NEdDMV9Cek11eU12YmYyeVF0aEUtZmlaUUpzM3RSLXN2WjVzUHhPMGdaajI5SFl3ZVR4RWNVQ3M3TEtWbzNlc0I3RQ?oc=5"
-      },
-      {
-        "title": "Dwójka nastolatków zniknęła. Policja ma obawy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0l3ODQ0aDVCVFV1V2doS2dqbW1MeVdfNkdORWoxdkpCQXIwQzJzbTBYSW1hV00xdElwNlBHNVJmdmlObkU0Vk4xU0lMUUdVV1JyaDdFUEhSbHh2WTBEdTlzS25KS3lRbTlNNW5RY01uLVJrdGVlZGFXSG5QSW5vZE9VOVRpaV9ZMUtUMTVPWmc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-11 19:10:25",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Maja i Wiktor nie żyją. Mamy nowe informacje z prokuratury - Fakt",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQXhIcm9WSDFveGtCUXNTTEcxanRYQV9uczlNODZ4Y2k0Y3JjM0Qzell6cEJoaUVGa1RUSG5ueDRqQmtPM1FERUlnSjdDSGZqZHRVdGZxTE94bXFQVWR6b1p3TkJFc1JXMXVQMzZ4akZ2T3gxQVR3RW5lWUg5U0VuTVN3U3JwOW1EX2tscktWR3hkZE9fcFVZT0YxZjJkRmhaVTEtTXl4amhpeTRKYkJsNzBCMkZnTHJ6NGM4b2V2aVU4WkRoR1BaUWdUVFI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-13 23:11:57",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6763,
+      "EUR": 4.2592,
+      "GBP": 4.8993,
+      "CHF": 4.5719,
+      "JPY": 0.024132,
+      "AUD": 2.3973,
+      "CAD": 2.6258,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 426054,
+      "DOGECOIN": 0.801642,
+      "ETHEREUM": 15746.02,
+      "LITECOIN": 372.22,
+      "RIPPLE": 9.72
+    },
+    "indices": {
+      "^WIG20": 2875.17,
+      "^WIG30": 3715.53,
+      "^WIG": 3715.53,
+      "^NCINDEX": 284.86
+    },
+    "news": [
+      {
+        "title": "Plan pokojowy dla Strefy Gazy został podpisany. \"To zajęło trzy tysiące lat\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNejhPOEgzTEh1Ml9ndVdTZm1mSEhpTVliV2NTZjJaN1dkdThyRlJucmp3c0RMNnhQaWtiUW5qX09oWDNNdnd4ZzRFMTFndmpvNUk2cHh3eUtuVE96MkJEblNwT3E3Z3pINVhHdFo0OTQ4ampmUnBSQmhLbmI1a0Zrel9WU2h5X0k5RzU0SU02VXNIWktkbTZzMGFIeWFWWGZkeXZTMjlFZXlzeFdGRlNGR2tTUTQ?oc=5"
+      },
+      {
+        "title": "Donald Trump ostrzega Władimira Putina. Chodzi o ważną broń dla Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFFhU3FIalNxWGN2a2lwamhoQ1pYUDRiZ0FDVGZpMWhEaW11OEFkUFV0NG5Ea3dIVzBvS29xMGhJOGF6aDRCWWhTWkw0SXc3N09fdzlvd2dnTVVHVkFVSUFQSDNiUjg4d29mN05uaDhCTjFVa1FHYXh0RndFZ0tpakNBajlxZF9uMUc5ZEFoMVNubkdJZmI5NGtWb3FvOXQ0OU1FYmczSk5yaDZVaFVkN3dSUmRxZjFmblB1VDk3SUo5MjV0SU5SSklB?oc=5"
+      },
+      {
+        "title": "Antoni Dudek o taktyce PiS. \"Kaczyński się boi. Zorientował się, że to poważny przeciwnik\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXQ4blp0aHNWWHdsczloNG9RcEJxQmxReDFvMm5NU1A0eEZwblp6Rlc2UVFLaUktWl9EVTZEY0JhTERpUEllTElXX3prRG9hRzE4eWZxLXEta3NKdlFURjFGQXByZkIteUdCaVlRaHloZjBNdEM2YnlmWWNIRHFIdDVsU051ZkZ0RTRMcUpwa1M4MjFxWG9rZVA0ZDVtYk9aNHNTSGlvNWNrQVMzek1hTkhXUXBxQklpbUVqbHExdnpkT0wyeFhOZnRIVGlCVVYzc2Vxc3U1OWM?oc=5"
+      },
+      {
+        "title": "Antoni Dudek przewiduje, czy w po wyborach dojdzie do porozumienia PiS z Konfederacją - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQThTcjBQZU9KbUhZblIyLTl3NXI4aVJlU1E1akZ2TkFWNm44OGl0Y29uSkVJc09COUF1SFhSbTFFbV90bzk5OElaM0FZWDZGaUEyVWRHbnFPLUtJNlQ4TUZJRzJYWmVCem9KZ2RSMDJ5M2UtNkMyVnlkM04wZzFhSEJIMEE4eHlRbGg4TDBmZkI2V1dZQ1RxQjFIb3RJdWZRakVGUlpCRmpSekdaSFBMaVlkZw?oc=5"
+      },
+      {
+        "title": "Zaskakujące informacje ze szczytu pokojowego. Erdogan był gotowy zawrócić własny samolot - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclVnNjFTY3dTUzBHMnFVTHl2UlhLZi1wc2hiVHNhZFpNUndqWmVYM1QtcGgzdk5uXzR6clVUeG9Td3RTQVBwZ09tTnFKVkUzcndGOGxKc2xUc0w1R0xLMU00SG42NTRfLXZTdXR5MXZZZE54ZGw4Y1QyMTZuSmJyclBuYmdCcm1qUHdDYTJCdk5lTWJtdk94WlBEUnVNSzIySTA0dlhyZjFULXRaX0RMMldFRHJOTm03Q3FDTjN6d1U?oc=5"
       }
     ]
   }
