@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11 10:15:44",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 404553,
-      "DOGECOIN": 0.703125,
-      "ETHEREUM": 13831.2,
-      "LITECOIN": 359.84,
-      "RIPPLE": 8.84
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Nieoficjalnie: Polska zwolniona z paktu migracyjnego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJ6bm8yUzhpMFhWaWxmVkwzNlVHd3ZtXzlmTWN3WVE5b2NhN2NpMDNEemJDTHU0YVR0R21xdklfaEpaeGlEZ2J1dlNnbS00YjNFVlhKUmNjcXZNX1RsR1BlMjdBdEVyOW9xUEN1UEsweWZFMm53NVUxaHlJS2FXVWV1ekczTDZmNkRaczdKeTZqMHRSSHc?oc=5"
-      },
-      {
-        "title": "Zawieszenie broni w Strefie Gazy odbija się na rynkach. Putin w opałach - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1ZQXlCdnNYTC1VSFY4b1hzb0JUYlMtZFdBRFBOb2FDR0twTEVzR1BwdEtjUE4xd29YblpySV9QaG5Pc1FlX2VKQXVvVTZnX1JKS2lhSTY0X0JwNnFubk1hMndmVk13S0RkYkRKQzdKTmJjTEl5d2ZjelotZ2wzVlNyUTgwWXlGMXlKaVdmQVd2WUhJMTFXLWVqNzR3VmlOSUJFMTRsVGczZzgyTUlRSHJ4X3BsTWs?oc=5"
-      },
-      {
-        "title": "Biją na alarm ws. zadłużenia Francji. \"Efekt kuli śnieżnej\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkN4ZmkyOERpdHBUcG1JQTl5UUFHMHdfeFVZeDloQkZ1TjJSLXpwX2lFdkVrQWpCSFA1ZURQNDFRaVJCZGJqX3VpWi12WjRHcy1IcjNiTGQwdkltVXJVeDl6ZXczMmluLTVTVXNjTUxNZmdBUUNEZ3Y4OXhyNG91WUFUZDIxb01MOGpXTC1kdk50MmFsQWNDaF9fTDJ6NVk3bXEySTdsZHpROWxxN1ZZ?oc=5"
-      },
-      {
-        "title": "Donald Trump bez Pokojowej Nagrody Nobla. Czy Norwegowie podjęli dobrą decyzję? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1Z2RmNRZFU0aldlVnFoY0RiWnFMOTNyOUNQVGFTaXlNOWk4bWJnS0toMy1ZLTkxb3AtNmcwSmF5bUVQOGZmZjNUcXhRWWZfSktITzRjR2ExY2NhdmQzYzQ4ZzNQdmxlZGhLdjdJR1pGTmxGYnJUbHJPMWJsZThuZ1Q2dTVtLXdnR09mV09CSFY2Sm01Q3FlVzlYdmhWWjNNZkdnVGhfamJJU0xVNVBpZlR4STlhckZ1ZGtXOEhB?oc=5"
-      },
-      {
-        "title": "Wielka parada w Korei Północnej. Kim po raz pierwszy pokazał nową broń - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQekxVZUl4cjJ2UFFzRnhfRi1YMXR5ME56M0JfTnZUMk5GN3R0QkgyUEFDSndCWkFwZ0ZBcHlaSGdtOWVCZmR6Y3Buc3NhLUFPR1dnYTJXbElCUG5xb3lTUTdXQ0VCSG42SlJSR2NPd2JLYWdKNzF0c1pmMkhPVDdsSmJpRkppQnFPUkl6LTZlY0ZkYW9GOFB2NkFHNk9nV2ZRdDFwdFBwVmVyOGhEZXdCRy02d0tHdThobUVv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-11 11:12:07",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Dramat w Tatrach Wysokich. Nie żyje polska turystka - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDFGYV95ejNfQ2F1UXNmRzJWWmZEUXFMdHRjb1NremFvV2JFNHo0ekdGT0xBVmRyb2M5NXBpNnZkb3A0TjExN1E0UnU2TEl0THNlOHl4ZFAyNGJ6dzczMjdaOHlzWGxEUDFmaWpDR0gwd0VzenFBR0Z3V3JkdjRlYVR2bTBkUURkMkRZcVo2bWZ1NDFpZnZjOXBRZjdfakhZeXpqNS1qWldaRGhhZ0tYNG1EeUNac0M0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-13 15:25:47",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6763,
+      "EUR": 4.2592,
+      "GBP": 4.8993,
+      "CHF": 4.5719,
+      "JPY": 0.024132,
+      "AUD": 2.3973,
+      "CAD": 2.6258,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 421326,
+      "DOGECOIN": 0.760378,
+      "ETHEREUM": 15113.51,
+      "LITECOIN": 357.29,
+      "RIPPLE": 9.42
+    },
+    "indices": {
+      "^WIG20": 2866.4,
+      "^WIG30": 3704.25,
+      "^WIG": 3704.25,
+      "^NCINDEX": 282.73
+    },
+    "news": [
+      {
+        "title": "Donald Trump w Knesecie. \"To koniec ery terroru\". Podsumowanie wydarzeń na Bliskim Wschodzie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVF3UTBsSnRudk9MZFV2Y2lBeXZ4enRNWUliNVpGTmZrN2swZk9mYVREcXk4LUxjdDAxMjVZdFIyLWZ5YldOTVV1dlFBR3o4bHROaURQX0hFYjdkbUUtcVFOQWRaLTBqNVVRZVIyZnhWNzVqeFRWNzJLVm5ycXhPZkUtX1JlS3gwTGtwejQ3Q2pza2xVMjkyUHV6SS1QRVBZb3FnNVBsS0QzSHJ6Ymt1ZGo2eDUtQnRTVlZTWVNjZlAyR1FMNU1Eb0daWGtuWDVtY2dGbmltZUo?oc=5"
+      },
+      {
+        "title": "Maja i Wiktor nie żyją. Prokuratura odnosi się do wątku internetowego challenge'u - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjZGTC1SM3dvU2VhZmhkMlBWeHd2TWljSFItVjY2MXRKMDlzQ0k1a0dVVWxXQnhXOExuWDlEdGRodVlvRF9RcUxaUVVydjFSZEFOWHJxUXR0cFMtQlZXMlBMRDhHclg0YXBINFlyVXBqb3dteGxHMVZNbG80c0lYd2huZEJaUzBoWkp5d0poQnJVcHg3aFZYZG1ReVFISEpQa2IzYVc2dk42YlpWT0JYZkN3a250VFh6WXdPVC0xdw?oc=5"
+      },
+      {
+        "title": "Czołowe zderzenie pociągów pasażerskich na Słowacji. Jest wielu rannych - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnBIemFLbkMzWGQxUThBeDdyVEU0YjVacm0yTzg1YTk1ajNnemF2V2pqNWFiWU1fSFU0VVhMWmFrSXQ3amx6VXBXVXJBdWNLNEdJdkdRYlRfbUd0dG9QM1Q2OUdvc0pOYUtRWUFOMlFlUkZKTXpEYkp6TXFBZEVPQ19JSS1rMktuNzEtWWRvaHRiejNkdldkSHhSOXlWRDJiV3FadS1weE1iX1ZO?oc=5"
+      },
+      {
+        "title": "Z dziewięciomiesięcznym synem ukrywał się na działce, w organizmie dziecka wykryto kokainę - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdUd4d1hfMXJUTFBqNjNvaC1WcEhaNExnOGU5Z0xFNkZRREhUaHlkWUNhWUF2Um1HT3dEVnVtRm9tQUVUbFBnbHFNUEtTbFlQbHJKdktGd2dFSm5XSklQY0g3Yy1kQi1heXA2TndXNHp4aUZiS2hFZ0I1eFV5UHIzOWhTT2VJd3daN2FSemdNODVhd3poM2pEcGQxWUV1U0c3M2tBOGpLRWgycWsyQWt0ZE9mQXRNLWZJbXZRdkRtZkFrbVVFVUE?oc=5"
+      },
+      {
+        "title": "Nagroda Nobla z ekonomii przyznana. Poznaliśmy tegorocznych laureatów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE1OMmxDamROcXJkSGV1ZWNrS09IeHh1cEZENlM5RWdUcksyQnYtNWx6SzJnVVd1WHBlWGVRR2xoTVV5V3VPR2R6U0RsbjRhN2dOSDBnZHZKa1dfcWI2UjI1R3otbEIxQ1EteWdmcEFuMjhDNFJjVmJYZFp2V181VVdHOWhKWE9ISWVNOTRYdDdFWXhhWEMzZGV2MzJiYWwydV85cWNnVVpXc0E?oc=5"
       }
     ]
   }
