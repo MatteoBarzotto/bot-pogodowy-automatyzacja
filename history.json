@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-12 15:17:56",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6778,
-      "EUR": 4.2583,
-      "GBP": 4.894,
-      "CHF": 4.5675,
-      "JPY": 0.02409,
-      "AUD": 2.4116,
-      "CAD": 2.6237,
-      "CNY": 0.5162
-    },
-    "crypto": {
-      "BITCOIN": 410144,
-      "DOGECOIN": 0.696863,
-      "ETHEREUM": 14029.39,
-      "LITECOIN": 353.08,
-      "RIPPLE": 8.84
-    },
-    "indices": {
-      "^WIG20": 2873.04,
-      "^WIG30": 3715.29,
-      "^WIG": 3715.29,
-      "^NCINDEX": 285.61
-    },
-    "news": [
-      {
-        "title": "Tragedia na rajdzie w Nysie. Nie żyje 40-letni kierowca - Onet",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHJoQU1VdFpPZkhVQy1IdXpqS0szUFAyYS1OQUhWU0RCVzM2czAzQUhtNkpJeVNIZzJYalN5bHVnZTZOcGZkT0phMHN5ZW1MSDBNV0NXcWpmMmtEUndPdmlIaUdQTkJxdl9uYmc0TGd4eURBZWV4UjdoRF9MUXVSdEpTVjk4OE9TWnB5bGh2V2M4NnJtR21GSGZGUQ?oc=5"
-      },
-      {
-        "title": "Donald Tusk uderza w PiS. \"Pośmiejemy się razem\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2pub3V3aGNGS2dIX1lheGtZbHc3TzJBcmQ1MENaeU9oQVpvOUZzVjZnZzEzQXJMM2pNODNkMFJSMUR0SmZYQm5ZN3JvazlZNVFoTjd0bE9qWm1hX3VabmNKNWgzUlA3Wm9VQ24yZ2VUYm83QXJqZzMzQTBvWE14cDNYQ1FnajkxMXRYZ2lHNXNSaGk5UEtLaQ?oc=5"
-      },
-      {
-        "title": "Tragiczny finał poszukiwań pary nastolatków na Podkarpaciu. Policja odnalazła ich ciała - rzeszow.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemQ3ZWRfZWhCQU1wVG5VVGhZNWRpbVROX0F1TjFtY3hVelhIYlhQSDU3UExDSVMtczg1VjhnTzRjWTFrRXlpMUFUMnp5T0ExdDdOUWRCRTZST2NVNC1lREp2RF9taUljVUFGazJkNEpUZ1pfd09TbHFKQnUybVBfcDNXdkR0SERtNlpoY1JpVDhVcDQyNXRLMjFXWHQ3YmptNEZBZGd0TFNvT2JIcjZlaWFDRGRYU05x?oc=5"
-      },
-      {
-        "title": "Estonia zamyka granicę z Rosją. \"Wyraźne zagrożenie\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmJCR1MxWENxMFdvZGl2MWdiekVLYnB6UVFKLVBnd0dMT0ZWa3draEhlODlMQXlGcGprOEw4VEc0dmc4ZEdkZkRKMEVod09lLXRMTGM4WDRSTWNJUm1EMVludTNjRzU1Q1BpSEhka3ZUemROa2NGeHZHeTZja1dmOFlIUnMzNmg2d3U4Sm9JQjhrTjhUX2trODRaY0E1WHNlbzFBMmhBUTl4cUJ3VU52bTE1N2g0TVhVN2c?oc=5"
-      },
-      {
-        "title": "Walki na granicy afgańsko-pakistańskiej. Dziesiątki ofiar - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFJOV3ZMbUxLQi02WGJXekdoaUhBWXhsWnRkbW5xME4wc293ai1uYUljTzNDRkdrY01WUDJOTk1SX1A0T09yRnBCSFBVcWdkV19paGVxcHVVN2ZRTDlrZGhna0pUYndVZGdQOVZ0enVLVnl6UUpMLU51c0wxZVRZVjlfWTlLTG5yZTRqUTlzWXlSVUh0eDdSbllsSW44M3RZQk9yR2g3bWtvM0h0VDV6RWhtSmFUVnFneFNZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-12 16:10:56",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Najnowszy sondaż. KO wygrywa wybory i traci władzę - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGpGTnlBLS1oQjZranlSLVA5UE5OeFVfN3JJTXFnWm5Iak5TamJUN2tWazJfM1hPMk9femdLdHA0amhEY0ZQLVhtVVF1RVFQUkpFbnhoUHhZdWhNTlNfZmkxeHRYUk9hMzNRZjdlclpsbk5BMTZDZmd3MEJjQXhjX2NWcVBjaVlvc2pHUzhDdXhUSDZubEJGenZSVFVNc1pTQ193UWhKSmJhY3BEemc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-14 20:20:36",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6897,
+      "EUR": 4.2645,
+      "GBP": 4.9009,
+      "CHF": 4.5931,
+      "JPY": 0.024275,
+      "AUD": 2.3826,
+      "CAD": 2.6243,
+      "CNY": 0.5167
+    },
+    "crypto": {
+      "BITCOIN": 416272,
+      "DOGECOIN": 0.752626,
+      "ETHEREUM": 15152.56,
+      "LITECOIN": 355.6,
+      "RIPPLE": 9.26
+    },
+    "indices": {
+      "^WIG20": 2844.05,
+      "^WIG30": 3672.17,
+      "^WIG": 3672.17,
+      "^NCINDEX": 280.93
+    },
+    "news": [
+      {
+        "title": "Chaos wokół rozejmu. Hamas nie wydaje zwłok zakładników, Izrael nie otwiera przejścia granicznego [RELACJA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQURSNWtpOWlLTHhlb1dSS0oxQWxXVlVGeVdhOTA0OXpnaUtKLVBQc3Eza01hWGFlSC0xWXNqLTdteHdfNGRhOUZYdlY3R1FoQU9vMmM3aTdVS0lzTGtPVUR4TVJiZG9RYUFkRzRyLWh5Qkkxd0t4UEdOUVdDY3FQTUt3TzVuaHdNWElYd0U0eHBnQ2ZyVUtNcWwxY1N0M3FnbVRRRUQ1ZFM5Ym5wa0xsaUpjQlNJaVFWbnVPZ0RGeFBGQQ?oc=5"
+      },
+      {
+        "title": "Jeden telefon Władimira Putina kończy wojnę. Radosław Sikorski wskazuje kluczowy krok - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2o5eEZ5VkNEWUZwMEVVR0d4Y3V0a3lVaERTZDQ2cll4ZExkaDQ0aVdoZDRrb1ZwRnFPTGxfT0hyQ1ZoOUM4RjBrWmIwT1B5cU1aZ2ZHbEk2ZEdLaUFUNXkxVlhJYkthMGxkMm1iVjJleGZOVWxURmFZU21QWVBtc05uWDRVX2V4dEpaaDVyeVo2WjVyU3lEcVRwZjhMSENDSHJQQ01MYkFWSlloemc?oc=5"
+      },
+      {
+        "title": "Horror na Śląsku? Rodzice mieli wiele lat więzić własną córkę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEgzMGN3eVdTTFlJQXNrbXBWOU1CVld2VFR0QVhvQTk2OXNDbHlfRjdPRUsxd2k4bk5qRjBUaVNUQXFkVEtvcHdXREJRZlJfR2VoeFpENzFwZ1V6WEJGM3dldVB5UURxYU5kcFI0ZWtfT3NKREFacjlOY25ZV21OZEJVV3lzMV8tZHk3Um9jNE5XT3pXd3UyTWktdW5Oa2xrMEdpQUxib0JfemxZS0hlbngweGhvQ2ZT?oc=5"
+      },
+      {
+        "title": "Poseł Łukasz Mejza jechał z prędkością 200 km/h. Odmówił przyjęcia mandatu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHNiU004azZUb1o1YnNBdnBKWG9BeHJkLXFza3h1UHo1X1dPSUFieGNvWW9YMWVkbU5BRWl5eXpBampBYmk3NXVXNG5QZm1RVi0yTng3OGFRaHBHSHh2aHJ2SWFUZ0d4Z0RZN2pGZnBqb0xWX3ZwekNnSklRaUU1UkZFUUhLNDFsMmlndV9SRXNma0xHcm9IWUtzR0NNSFpkRjE4V1NsSDU4bmZQZmVNSUtvbk93OTUzaVcxdV9Nc0RLajktOVI0?oc=5"
+      },
+      {
+        "title": "Nominacje sędziowskie i asesorskie \\ Aktualności - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFVJYjRUQ0k3V0o4RU5obXpDNjhLWGlVd1NQckdiaFhuLXpHQVJHMU12RVJoOHZIV3Vma0p3Tkxvb1ZRY0gyVFNfbW1QRWVXaGtqRm5TMUJfdmN5Tml1MFNwT2JoREpHUnNVMnMxdG9rUkNsQlFFbWRMRWVmUnR5d3FPS3Y3V1hZTzZ5OWJvSlVsUQ?oc=5"
       }
     ]
   }
