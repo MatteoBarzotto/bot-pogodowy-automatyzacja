@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14 03:02:57",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6763,
-      "EUR": 4.2592,
-      "GBP": 4.8993,
-      "CHF": 4.5719,
-      "JPY": 0.024132,
-      "AUD": 2.3973,
-      "CAD": 2.6258,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 424061,
-      "DOGECOIN": 0.789575,
-      "ETHEREUM": 15642.51,
-      "LITECOIN": 369.52,
-      "RIPPLE": 9.62
-    },
-    "indices": {
-      "^WIG20": 2875.17,
-      "^WIG30": 3715.53,
-      "^WIG": 3715.53,
-      "^NCINDEX": 284.86
-    },
-    "news": [
-      {
-        "title": "Przerwał przemówienie Donalda Trumpa w Knesecie. Wyjaśnia powód - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTJxTm42MUluNDZESEtzbnBPTmw0TlZmUmdfWHVRQWRrSllYNzdLTDhsZDM2Qy0yUDBwWDdEa3BsWUJDbmxtb05SZUFsaTUwVmJEdE9wN0xjZnY2TVV2RUFEZF9QMnpqdThNMy1Qa0E2NmJZU2ROYmROazJ5eHUtYWUwZXp0bkU4c3FkT29WVDZuZWdjei04YVloSnk0X0xBaDRDdjVid0h5emxFeGxQbUY0Um9mSGlIa1dBTmZ3OWJiM3d5Z1ZVTlFSbFc?oc=5"
-      },
-      {
-        "title": "Zełenski spotka się z Trumpem. Prezydent Ukrainy podał datę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9FRUxiNV9UQTc5LTB0dWdXNUx3ZUthUUlxVFd1dHBWWjVlY254ZXZkMGliNENubEtfcHRsS2FJYzdNZlBSaXNNVFgxYTBCZ0Nvckw3Zmh1ZG1FWWhBR3YyNXNMX3dUZFdydFM0eWxhdGxtUFZ1VjNMcUVWUnBvYUVGUW1YRW11TzNhMF90Q2J2NW83MWdOMUNNSjVxWDNiSkNuUlBzZ3pTakFReHNqeQ?oc=5"
-      },
-      {
-        "title": "„Nie bądźmy jak Percival, który przegrał z Yamashitą”. Gen. Roman Polko komentuje incydent przy granicy Estonii - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDVLSXlNMXFiRjlSM2ZxZVpSNjVDUnR0ZWdzb2hFZURwNmtteWt0SUlYc1p6V2JSZ0hLZEJpVTc4Y0dPdnhyX3FPV1ItdzFFRUNvUXFiS1Y0d0tXWGM2NWtiZW1waXZmVFhJVm5yTUZrc1F1UWZrT0xpWWtXbmlsaEJyUmJjdUw3UTRxRzlGY3JYWGIxT0JZODJpdmNmLTlJYkhXRG0zSnRxN00xWExjYVJGbEVac3dLWHI4ZGp6dktWZTNkMk5qWHhjYXFTUDN4c3luWl9vS2Z6TXo3RnhV?oc=5"
-      },
-      {
-        "title": "Bąkiewicz o \"wyrywaniu chwastów\". Prokuratura wszczyna śledztwo - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ211ZDNqSVlUTlJJN0lhQU9uMU9MV1psdUFxeDEwUFBnZWJaTmY5LV9ITXJ1T3JPWmJYaXZlRHgtS001dUFNNnJSVnZxZmQ1U3g3cndKT2hjZEROMHhDbU5VdVJueWlFNzhjbDd3ejU3ZkQ5QkNMalVIU2NtNXdLVV9wY050Z05vMEFQNE9QMllKcXFycHJuYjV2N2M3MzVEa3BDUEln?oc=5"
-      },
-      {
-        "title": "Mentzen po rozmowie z Nawrockim o PiS: Jestem dobrej myśli - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZHRaYUp1cjlLTkJERElHYWUxMlB5R1ZkZlVCVVNnb3ZXTmFIamExQ2VKYTgxWHI1YXNad2tsU2UyOG1WWmU1dFFPN2lTSjVhajgxWXBOZldMeFdyWUNodndOS2FfTkhqRWRiODNuVmtuZVJ2M25qeEdsS1ZrcjM2aGxpTjhzVzBPR2dVRWZpbDNfZ3UweFlCbGxHSkrSAZgBQVVfeXFMTmNzbFRxQUZkMzc2M1lnVUwxQjc5MWwwd3FKWGhGV3dzS21oMkF0NUZVTlZCUS0wT2I1UjVQTHM3OWtCdzBoQUZ5Tlo1SnpFYWoxNkkzWUZEOEpwdTRRUVpGMndVcEdnSW9mdHRtNDN4VkZHck12YlRYZ1AyaVJZRHBnQmg0LVdWTDdXV285NWdKeVZEd3hfQmE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-14 04:56:26",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Nowy ambasador USA w Polsce. Kim jest Thomas Rose? - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTVoNTg2WE9oSWFLS1FWSXNaeFpIejdIWlAydWZSSXVseGl6WXRqVG9qNXNlbXJfNGJuMy1Ud2pfMFJ4djZXOC1iRkh0cFRVQzB5RS1VTXlvNk84dUVVQ21JY0RodXpkUzhBcTg3dEsxV3I4QTdMUXZSWDVGUF9QYV9kMDd0RTI3dUVrZDFlbkgxa01QOXZ0N1YwajM3ZDFvX3RubDJzeVQwTV92cDVSMi1aRWFXdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-16 08:21:10",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6585,
+      "EUR": 4.2556,
+      "GBP": 4.882,
+      "CHF": 4.5739,
+      "JPY": 0.024193,
+      "AUD": 2.3844,
+      "CAD": 2.6052,
+      "CNY": 0.5134
+    },
+    "crypto": {
+      "BITCOIN": 405045,
+      "DOGECOIN": 0.716835,
+      "ETHEREUM": 14607.3,
+      "LITECOIN": 345.02,
+      "RIPPLE": 8.81
+    },
+    "indices": {
+      "^WIG20": 2901.08,
+      "^WIG30": 3751.7,
+      "^WIG": 3751.7,
+      "^NCINDEX": 281.98
+    },
+    "news": [
+      {
+        "title": "Donald Tusk się wygadał. 'Zrobiłem to w białych rękawiczkach'. Ukraina nie była zadowolona - Next Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjNRaVMyQWRzRWVXa1VZRXJwdFR3cm9ueDNJX3pGS1BqdUtEajBQbkU0QjY3Q3oxN3dXRjdDUXQtQ29xelEwd0lXNDk5VEV2d2t2UE9jQTlyb1dQWlpBVTBCb0ltUjY4OUtUWXE1ZzZLdUpESFI2ZFlyNWFXN0V0Z2owSG5wSTV1ZWZSWENMSVNhUURHdmZMeHFobzhFTnptVnlZeFpVYjAxZDQzdkE?oc=5"
+      },
+      {
+        "title": "Nowy ambasador USA w Polsce. Kim jest Thomas Rose? - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTVoNTg2WE9oSWFLS1FWSXNaeFpIejdIWlAydWZSSXVseGl6WXRqVG9qNXNlbXJfNGJuMy1Ud2pfMFJ4djZXOC1iRkh0cFRVQzB5RS1VTXlvNk84dUVVQ21JY0RodXpkUzhBcTg3dEsxV3I4QTdMUXZSWDVGUF9QYV9kMDd0RTI3dUVrZDFlbkgxa01QOXZ0N1YwajM3ZDFvX3RubDJzeVQwTV92cDVSMi1aRWFXdw?oc=5"
+      },
+      {
+        "title": "Awantura i skandaliczne słowa na sejmowej komisji. Poseł nie wiedział, że ma włączony mikrofon - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFdMTzhhV29pRW9OZ2l4SVREbHl6cVNWZlpTZEJaTlRyeXFFRWo5b1ZrTUtybjBMX09wTmZfV0M4SDNHS2x3ZGJiUzFCM1JsTjlQcmU2djdaZkh4SkZQb19iMm1lZFZZM2s1aU5JWlRkSXFDQnBKb09NRXBSTkhCemNwbll1blJfOHlzWmttSUpzY1V3LUVfbzBBeGpubzZCMHlvYXZhdUI5NlJ3QllHT25rNHFSTWM4X21tWmNsalgyNF9hLW9IUDA1cjVCblFWR2xhNzVYalF2V1F1VGcw?oc=5"
+      },
+      {
+        "title": "Koniec z rosyjską ropą. Trump przekazał fatalną wiadomość dla Putina - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFlNZXJjS0FXaDBZM2JYNEFPZW9KYXRyWE04ZWZGTTI1RVlDc3dna1RNRUN0c0Y0RTd4eDAtZjJva1FybWxMaS12MVBKY2wzblpyUDREeDdFOWlZZnY3bnhzcmZjT0tLUUNSY0RHT0ZrNU9OZ1dXMmlSUVp1ZTlIaW9FMld2S0hlemNZZTVaSWtwQXZrdERhVDBmNlo0by1zRTZjY180NEx0a3NEczIxdXU0Q0x0SnlqVy15dXhBQQ?oc=5"
+      },
+      {
+        "title": "Mur dronowy w Europie. Są najnowsze doniesienia z NATO - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0dxcFpMemdPQ0d3QklFOFhIOWJiRTFGUzV5Y05CU2xmUHcxZGY5NW95c21EcjBOdkRCaWlLa3M5SFlzQ1V1V0hiZzRMVUc3eWYtYU9wTDhsU19pVmlvdXpBQkhwTlRMTXItbU1tTTV3ajE5S21TVV92d244QWM0aHdhbXRvVHBfNGRRbDdZeERBUWRRVm5IclY0OGJ4ZkJCcGFkN0pB?oc=5"
       }
     ]
   }
