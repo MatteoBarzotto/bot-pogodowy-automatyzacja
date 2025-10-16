@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14 10:17:43",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6763,
-      "EUR": 4.2592,
-      "GBP": 4.8993,
-      "CHF": 4.5719,
-      "JPY": 0.024132,
-      "AUD": 2.3973,
-      "CAD": 2.6258,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 412694,
-      "DOGECOIN": 0.73124,
-      "ETHEREUM": 14692.65,
-      "LITECOIN": 345.73,
-      "RIPPLE": 9.08
-    },
-    "indices": {
-      "^WIG20": 2838.54,
-      "^WIG30": 3667.95,
-      "^WIG": 3667.95,
-      "^NCINDEX": 283.4
-    },
-    "news": [
-      {
-        "title": "Awaria numeru 112. \"Szukamy jej przyczyny\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVJfRURMYU96TTRobncyYmpvXzFLbHJxZ3FKYzliVUJaWFRTcHBaRmhVbnR0RnREcHI1TTk4TXcwNGZQTTI5a0NQeFlJN0ZFNGZSdVpRLUZpQ1FkREpETlQ5NVl1TW5fdG93Wnh0VUhNbWFDem5HNS1qUGQzM3E5RUJXQjBwdw?oc=5"
-      },
-      {
-        "title": "Donald Trump w Knesecie apeluje o ułaskawienie Beniamina Netanjahu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzFxQ2FsM3B3TFhoTmFFMWMyc0RCWVJYdDNyTFFZbHhyTWVTemVIaFVMVDJ6dGt3VG5sZjZkUmFkSmY5YzNzamg5SUF6YUZza2ZDZjR4LTFkRmtOcXpWZTVFN2hvejN4LWJTdzJHeHB3TTJhaVNaRXU3SWFieU5qVVNDLWJSUHQ2RXNSek5qODNaNm5XSFdwMGFpZXBOaUlySUV0LVNiSUwzZlRSaWtYVFZSRQ?oc=5"
-      },
-      {
-        "title": "Spięcie w TVP Info. Marek Czyż wyrwał mikrofon - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEFic2pFbWhaVzFDR21Mak53SFhQMlNqNUs5MnAwQzRBM3k4LW5LZWl2MWo5R25VWWRXZmFIY0U2QTdHWmoxZzBVNzhsSVFObktGcENEMkItdVJLNUhvSFpZYkZPU3VKWnc1SThQcUxtUjV4WjFZd1dNbVlmcGx0bFVTRG0zS29CaDlKR3B6RFo3UQ?oc=5"
-      },
-      {
-        "title": "Afera RARS. Michał Kuczmierowski złożył propozycję prokuraturze - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmstWEpfbW1OdkxiZTFDb3BrOV9SY21LTUVkVG1JR280QjBsU3gycTltWllUdmNuMnQ4WkxMOVloRmdEZEhFR0NaT2lfc1ZzZjRodm1LbzJVeWZaVXhMRkZ5S1hnaTRraTVQeTFjTHNGb2h0TEZXYkVLZE80Y2NIMWN0ZldFdlpYU09OX2JlX1Nnd0EzeTRoeWZjLUZYQi1HV19idDk1Uk14NmlMRzRhXzhyR2hfNDB2ejRxY2ROc2ZMWjQ?oc=5"
-      },
-      {
-        "title": "Zarobki nauczycieli w górę? \"Trzeba bardzo poważnie podejść\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDVDZTlBY18tNmNZR2hLb0QwVEtWc291Q3ZOTmpuYlhuVm1MWUIwUW9qbFF3MXh2MDJhcnVzR1c2THZhRFhiY2VTRFM1ZEsycVYtVlFSbzVmTXBkOFNON3Y2WWNLbktEN0VDTHZaQnI4NEltamdpTlQtOUxhcmZFTUpkMjVDX1JKODJPanRwcmFFWURadUpHcV9Rb3dhWXVSWk9FTndUYnd4RHN3a1A4?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-14 11:15:56",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2643,6 +2590,58 @@
       {
         "title": "Wulgaryzmy i wniosek o badanie alkomatem. Dantejskie sceny w Sejmie - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUxXMzJha2EwMFdvcGx1SFc4djJzNGQ2dXNVM3JSQ0FFbmdiclRISUMzcFFRNzRZdXFJZlBJbTVmSFRjZklLengyd29fb1BNQ2MzQjI5ZWE3dkVKbjNSWURuNVFkUU82NEkxSHZ5bXBjQVhBZnB2dEpCRHVqSFJSWnJzdGtKam40VEF4MmNjWlROMEpXUHk2dUx2TC1rekF0aU9EbzZFSkRsZUMtV3hZZmMyUzI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-16 15:26:36",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6467,
+      "EUR": 4.2517,
+      "GBP": 4.9005,
+      "CHF": 4.5781,
+      "JPY": 0.024111,
+      "AUD": 2.3727,
+      "CAD": 2.5981,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 405134,
+      "DOGECOIN": 0.726187,
+      "ETHEREUM": 14741.24,
+      "LITECOIN": 350.16,
+      "RIPPLE": 8.92
+    },
+    "indices": {
+      "^WIG30": 3741.44,
+      "^WIG": 3741.44,
+      "^NCINDEX": 279.79
+    },
+    "news": [
+      {
+        "title": "Mężczyzna został śmiertelnie pogryziony przez psy. Właściciel zwierząt zatrzymany - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcU9yZDNIZ2R5XzluY29Za0dJN1RNM3k1Q3IyVDRSS19kei1yeEhmdXl5R3VkRDR2T3VjejFRaHFMQ1htYW5reU5fY19ORVIzYzdhUmZnX1U4WFlQaUQ2bGhqeHVCVG9RRGlCa0ZyWlRPV0ExQWpLeW56dmp0WXpMWXVnUjhEWUM4anFtMVBBQmNMa3RrUVhLSXRjelpHZ2x2N1RRMTJEOC1JRmh5Qk1GdXlQU3pCOGFHUkR0cEFwYnBrQQ?oc=5"
+      },
+      {
+        "title": "Tragedia w Barcicach. Nowe fakty. Są wstępne wyniki sekcji zwłok - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkR6VEdleGVZS2xFaW1oZTkzUm1NUi1BQlV3WXlvZkVfcTNzakNlVko3MElZR1cyQzFwZVVZM21wTjNyWWRNSUkycXNoendOVWtxSXFzYld2UU1rbUxlNFMzSlk1Ty00eVR0S2tTU1dEZHgxSU9wQUNHWEQ0NFNaMU40M05hbTZ5enJQRWVSNjhrMG0ta0J6c2FlSExPWVl3TGFxaWowZzhPa2V4bE9aNFhB?oc=5"
+      },
+      {
+        "title": "Ruch w sprawie immunitetu Łukasza Mejzy. Komunikat policji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVlWVNDelZZZHV5eWZRMGlkaHEwQ21wdWlXSm9Cd1M3RE9lNE5HakxYTjU2Q21LT0kyaXhEaEhrVkxvZmVueHA2MUlFZzJjdlB4aTRqSFBtTFE4UHZHWkdvRTNmbkk5Z0MxNHU2eUdXNEMtLVE4ZS04dmUzb25OWEhLWHltbXI2RV8yeERqaVpzV1VRYXlCb0FyU2RNeHFsMmlwZS0zc0w?oc=5"
+      },
+      {
+        "title": "Niemcy i długo nikt. Tak wyglądają wydatki na obronność w UE - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2Y0Q19LZ19XWjZtN0pTT0JUZmxVa2Q3a1dPeWg0ZGxFdm1ZeGl6a0hCZ1VMUmY0eW1fdF91c2xkVUFLZTFXTmE3YUR2bkYwMlRWZG1LUDNXYmJNdTh2dHhlNS0taXAwWk02TG9rY0g3a3BvVV8zYU45TmROMEloblFteTgzX1lTV1JXR1gwNDJNclhCRnloWlp0bjJwUDd3NlgwdlJZUzlKaXoxNnlpUGswSEVNNEww?oc=5"
+      },
+      {
+        "title": "Nocna prohibicja w Warszawie. Jest decyzja radnych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUM5bkUyOGtqRmJsWGIwd3lpcHU0RWM3dnk0TWk5S0dmbUZDU0ZReF9rR0pTRVNRZlVucXF0UFZlOGlabV9YV0RyeFI2d0ZaQU43VGZtM1I1RHlFdlR3MkQ0b0RpeXd5WUN2NVNTc1piNlZoZThRMmEtR1pmclAxT2NWeTNxSXMxVXRjbHlFVEtVTmhnS0hqTGY1aUxwSVRPcG1IMEI5UkQyWF8zVVN3?oc=5"
       }
     ]
   }
