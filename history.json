@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14 11:15:56",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6763,
-      "EUR": 4.2592,
-      "GBP": 4.8993,
-      "CHF": 4.5719,
-      "JPY": 0.024132,
-      "AUD": 2.3973,
-      "CAD": 2.6258,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 412635,
-      "DOGECOIN": 0.738454,
-      "ETHEREUM": 14752.34,
-      "LITECOIN": 349.0,
-      "RIPPLE": 9.1
-    },
-    "indices": {
-      "^WIG20": 2831.76,
-      "^WIG30": 3658.42,
-      "^WIG": 3658.42,
-      "^NCINDEX": 283.27
-    },
-    "news": [
-      {
-        "title": "Poseł PiS-u pędził prawie 200 km na godz. Odmówił przyjęcia mandatu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFR3QnJJVXhPbi13b2JEX1ZGTDdwVDQzRmRZVTRaYW80ZUhJdjdCOTZxTU5wbHpSU1lZVVo4eXVDa2EzbHl0dDQyM1gzanBzZlMwZC1nM3k1T2xOZzk4d2pqbWVHSXlSSG8tMFduekZhTGVTLUZ6M0VrNkl2RzAyaHVjOENxa0dabnkyWTJqRFBINmJMYkNuQ0pRNTZTQ0Y4am9BSWhLTFJZS2s?oc=5"
-      },
-      {
-        "title": "Spięcie w TVP Info. Marek Czyż wyrwał mikrofon - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEFic2pFbWhaVzFDR21Mak53SFhQMlNqNUs5MnAwQzRBM3k4LW5LZWl2MWo5R25VWWRXZmFIY0U2QTdHWmoxZzBVNzhsSVFObktGcENEMkItdVJLNUhvSFpZYkZPU3VKWnc1SThQcUxtUjV4WjFZd1dNbVlmcGx0bFVTRG0zS29CaDlKR3B6RFo3UQ?oc=5"
-      },
-      {
-        "title": "Problem z numerami alarmowymi. Niektórzy nie mogą się dodzwonić - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1FYTEF5S1RMc05XZHhiTkh1bFBVWXJfZGtYMGJCTzdJZ1ZxbktfZUVtSWlIbUU1bDZNS05qRFRfMmszMFdPTFNHOVRWVmEtemVYX2RzUlEzQWh6d1NDZWJ3VEhtTmZ6aDBwT3F1UjctUklkUVU3Z242aDNCZ2pVZFIyelNqNmtieTdiVVpQeE1jMThKb2NRbTM1dko?oc=5"
-      },
-      {
-        "title": "Dwa lata rządów Donalda Tuska. Polacy ocenili w sondażu dla RMF FM, jak im się żyje - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazk4R2FFLVAyRVNtM1FSUW5UOUlKU1BwV2dfWUhVeGNZN1dCdjZNdFlseTd0SlQxZU9rckJHaXNRUmZxNDloTkFQcFRFZXJsVVg4RURXT0ViQmp2RHFtX0dzSUNJNndXSVVKRXUwc3JxbC0tQ3JiY3huYmY4RXdzZ3NBM0x5R3ZrWlRKN1cxZkFPTjFMWGFuN0Zvb3Y5bUpPMzd4X3RHWQ?oc=5"
-      },
-      {
-        "title": "Orban namawia do rozpoczęcia rozmów. \"Teraz kolej na Europę\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDJCRU40NExHbkdmckFZeW44ektTeVVFRTVNbS16SU9iblBXS0xvY1dBX05WOHV1VFllWERVbTE1eVRqRkpBdFlKVVBtNVpxWmtyS1pNRW5JZHJTTlZBTnRpUlhaX3dnTU9sZzNTdzFDVjFGXzhaYlM3M2VFdWFZdUh6RnI2ZWZEd19IaW1CLWxINjljTGZLNjVhTnU4ZlkwOFN2NGhFWlk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-14 12:14:48",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Nocna prohibicja w Warszawie. Jest decyzja radnych - Onet",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUM5bkUyOGtqRmJsWGIwd3lpcHU0RWM3dnk0TWk5S0dmbUZDU0ZReF9rR0pTRVNRZlVucXF0UFZlOGlabV9YV0RyeFI2d0ZaQU43VGZtM1I1RHlFdlR3MkQ0b0RpeXd5WUN2NVNTc1piNlZoZThRMmEtR1pmclAxT2NWeTNxSXMxVXRjbHlFVEtVTmhnS0hqTGY1aUxwSVRPcG1IMEI5UkQyWF8zVVN3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-16 16:14:14",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6467,
+      "EUR": 4.2517,
+      "GBP": 4.9005,
+      "CHF": 4.5781,
+      "JPY": 0.024111,
+      "AUD": 2.3727,
+      "CAD": 2.5981,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 402072,
+      "DOGECOIN": 0.716456,
+      "ETHEREUM": 14546.22,
+      "LITECOIN": 346.25,
+      "RIPPLE": 8.84
+    },
+    "indices": {
+      "^WIG20": 2884.48,
+      "^WIG30": 3726.44,
+      "^WIG": 3726.44,
+      "^NCINDEX": 280.39
+    },
+    "news": [
+      {
+        "title": "Sprawa Mariusza Kamińskiego i Macieja Wąsika. Jest akt oskarżenia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTNUZ3QyRmxoNmdYb0E0Um45NVR3R1ZlWkZCclRrQ3lfSDhnb2I5UUJ2ek1GdnBWUkZFNm1Ib0xNaTdaS0RHVzJ0RzVRaTJ3WUhvNnhabmtPUlVUSDU3U3RrYzVkS2l0dnYtREM4YWptMkxYMVJZVHVZY0hDeDROTmRkejBMVUhUNjk4VVRZSGx1d0w2ODBrMFBaRUljTXZneDhDTFVqYw?oc=5"
+      },
+      {
+        "title": "Ruch w sprawie immunitetu Mejzy. Komunikat policji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVlWVNDelZZZHV5eWZRMGlkaHEwQ21wdWlXSm9Cd1M3RE9lNE5HakxYTjU2Q21LT0kyaXhEaEhrVkxvZmVueHA2MUlFZzJjdlB4aTRqSFBtTFE4UHZHWkdvRTNmbkk5Z0MxNHU2eUdXNEMtLVE4ZS04dmUzb25OWEhLWHltbXI2RV8yeERqaVpzV1VRYXlCb0FyU2RNeHFsMmlwZS0zc0w?oc=5"
+      },
+      {
+        "title": "Psy zagryzły 46-latka na grzybobraniu. Właściciel zwierząt zatrzymany - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGhFXzdpNkI2cVpxc01vY3NrdzNxbWczNWN0Yy04R3NSUS02TTktNV9OSDgtSTh3M2MxcGVobEdaTzFWZ3JFWFhtRFVlTVRpM0xnOWozT01GQUFWempxRmJpczBLNmhJMnJNdXE5R3VEaVBtYzZqakFveXFxYk90V3UwTWYwSVlMU1FQelJZdkkybENsb2FIbnZ1UjdSeHlraUtlbEFYR2FiUjlNNlVFSk95dw?oc=5"
+      },
+      {
+        "title": "Tragedia w Barcicach. Nowe fakty. Są wstępne wyniki sekcji zwłok - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkR6VEdleGVZS2xFaW1oZTkzUm1NUi1BQlV3WXlvZkVfcTNzakNlVko3MElZR1cyQzFwZVVZM21wTjNyWWRNSUkycXNoendOVWtxSXFzYld2UU1rbUxlNFMzSlk1Ty00eVR0S2tTU1dEZHgxSU9wQUNHWEQ0NFNaMU40M05hbTZ5enJQRWVSNjhrMG0ta0J6c2FlSExPWVl3TGFxaWowZzhPa2V4bE9aNFhB?oc=5"
+      },
+      {
+        "title": "Niemcy i długo nikt. Tak wyglądają wydatki na obronność w UE - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2Y0Q19LZ19XWjZtN0pTT0JUZmxVa2Q3a1dPeWg0ZGxFdm1ZeGl6a0hCZ1VMUmY0eW1fdF91c2xkVUFLZTFXTmE3YUR2bkYwMlRWZG1LUDNXYmJNdTh2dHhlNS0taXAwWk02TG9rY0g3a3BvVV8zYU45TmROMEloblFteTgzX1lTV1JXR1gwNDJNclhCRnloWlp0bjJwUDd3NlgwdlJZUzlKaXoxNnlpUGswSEVNNEww?oc=5"
       }
     ]
   }
