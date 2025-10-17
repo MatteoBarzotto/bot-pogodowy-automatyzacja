@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15 17:14:02",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6585,
-      "EUR": 4.2556,
-      "GBP": 4.882,
-      "CHF": 4.5739,
-      "JPY": 0.024193,
-      "AUD": 2.3844,
-      "CAD": 2.6052,
-      "CNY": 0.5134
-    },
-    "crypto": {
-      "BITCOIN": 406162,
-      "DOGECOIN": 0.731233,
-      "ETHEREUM": 14678.01,
-      "LITECOIN": 351.56,
-      "RIPPLE": 9.03
-    },
-    "indices": {
-      "^WIG20": 2901.08,
-      "^WIG30": 3751.7,
-      "^WIG": 3751.7,
-      "^NCINDEX": 281.48
-    },
-    "news": [
-      {
-        "title": "Donald Tusk ma powód do zmartwień. Tylu wyborców koalicji przestało ją popierać [SONDAŻ] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVAyMHl5aE04WnBHdTdWOXIxaVlFeU82Y2lHYjloOElKUG95dzZCMlJZSHRmQUNydHNISEoyMGwyQVZRY2NPTmdMMGJZYkViM2lNM09oaW9CWGwxM2todGpzSy02WWptczdTQ3ZQak51SjVDUzdrV2NwZE1ESW5xOUZWczhadFhuRnZYYmswLTdPaEk5b1ozT25uLS1VSm93ZTdoSlFCdUFaZw?oc=5"
-      },
-      {
-        "title": "Potrójne morderstwo w Barcicach. Sołtys: w tym domu policja bywała wielokrotnie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcU5hWXFIalFJaG9yemQ0aGk1WnIzWWxXLWFoSDgyMkRiQnZFQ1hOa0FwZ3RJUHZQNHhNM2R2cXNRYld6TUJhRVJZaFRVLUk5MXJtNmZvakxPYlVVQ25kY0ExeDJuNnlsZ19sbTAzX2FNM2xvckkySlpxTnpxOGl6V3lHOGRDb1pHYy1IMzBobnQzeDlqM21HZzZUelZpbFRVV0RxWmlpT3EyNnBDWHc?oc=5"
-      },
-      {
-        "title": "Donald Trump ogłasza drugą fazę planu pokojowego dla Strefy Gazy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFZHdlc3WHJXcVN6WHFpZk9jaG5BajlfWWhRelRmeXY5X1ZhU2k4RG1seHV4UDlDLWNZSWYydFNNVWstUG1XZUxFc0dOVENtakplTXdnWkdiZGd2SDdOWmozWVc2Nk05dV9BMkhHc19xRWlMclVJVGU4RFdSWURJQVRIMXFLZ19XZ3FkalVoOUpJbWw3Nlc3Umg0U3RZR3NkUm02UGtsLWRRTXU2Y3l5Ng?oc=5"
-      },
-      {
-        "title": "\"Będę żył; nie wyciągam nogi z drzwi\". Krzysztof Śmiszek zabrał głos ws. choroby - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakw4bUZtVWwtWE5qUE5nVzNQQVM1Y1dabUJqd1k3TThmRUhrNXZwWGNHbHZEd2hwbGtnQ2xiNG9oRXl6MGRsM0pQbjB6STlyUjlNTDQwYzVBX0h0dmRGUEduXzBINFN0ZWlfQ3JVS3RsZ2lpREV6Vm5wb1drNHN1S3dRbHR6ZDliX3I4RHVacmtqVTdzNlM4Z20wM2NzUDNiOFBwTkdmRGhOUVB0TGJtaHhyOEZKbGRmVXRqVHJqY1g?oc=5"
-      },
-      {
-        "title": "Sekretarz wojny USA do państw NATO: oczekujemy więcej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmlXMEhJUGVWQS1lbGlXMnVYM3Z2dWlEMzFaX2FKTE9DZ1laRVdhSHc5dGtnYUhLYWZPaHpxaFZBVkRKc1NUTDBVT3l4eVRab1FwLS1McVJFcWlIMFJvV0tzVnVkSlMyQjh4OWU4bkk1OVlYaVRqd2JkY3djU3VKSmZlblAtUWZreEFLZGo5ZW14OGRTYlg4cTE4VkJJT1A2ZWRJdFpnMTJjOGRKa1JuU0MzLWVndw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-15 18:14:45",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Incydent przed biurem PO. Akcja służb - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbS1XWXJzTERoWU9JaVMySUZUalZmOFFqZ1JZN1cwTXlNNUp3YzlEVXZiWHYyY24zQVhISGpxRl90ZEpQVy12WEZHcnhxNElkN3hhUzRZZ1lzcE1zMm5vc3NxaW1RQkgxeEFXYUxKdmE5VmhmRnBtOXRJWjBVN3p5WkE1REJTM2MxdENSZURJLVBNVktSOHN4d3BZOUlKcTEwNVV4ZXFTTUpOYUpUUWF3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-17 21:10:56",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6388,
+      "EUR": 4.2565,
+      "GBP": 4.8847,
+      "CHF": 4.6096,
+      "JPY": 0.024294,
+      "AUD": 2.3506,
+      "CAD": 2.59,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 388024,
+      "DOGECOIN": 0.672416,
+      "ETHEREUM": 13963.91,
+      "LITECOIN": 330.33,
+      "RIPPLE": 8.39
+    },
+    "indices": {
+      "^WIG20": 2872.02,
+      "^WIG30": 3713.72,
+      "^WIG": 3713.72,
+      "^NCINDEX": 280.05
+    },
+    "news": [
+      {
+        "title": "Rozpoczęło się spotkanie Donalda Trumpa z Wołodymyrem Zełenskim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDQ3aC1CRGg3ek52WFRjM1pRZHQ5U2xaUlcxWGNRejNpWVEwZm8yOC1kUkg2cTRQSmtfXzBTaWxsempaWjVkWkhmNld1T0RrUGswZEE4bU5hcnJUa3A2QWhnakRZY3NmTXNENG9ZUWxLTFJHTXFyVjA3Y2Jja04zbkNmcFpoVTFfMV9oQUN4c3pVVlhreU04TlpETE1wdTZSeWg0ZXhVT2RMWmdyRnVuTTMxMVR5czYxbXAyd3N6OHJ1Ulg5?oc=5"
+      },
+      {
+        "title": "Sąd nie zgodził się na wydanie podejrzanego ws. Nord Stream. Tusk: \"I słusznie, sprawa zamknięta\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjdDcWJBd0tEVWFNZkZCWDFJMFh4cUNKYWJaSmhxM09PMFVRRlZWcjZCNEJlR3UzNEJDSElZUVg0VU5jSU5WS1Q1OFNrbkpidnVFTW15UmJqdGdWLXlxQ3hjd3dxVWZ2UHFiYzdUX2xyTUhyVS1yOVpjd1doeV9uanNobnN3aXU0enNOTzFydVVMVm5vZHk1b2hUM2otMkJLMTRVYktfcUpqS3lPemtCeURuMUlMVHRWSlI1TWw1dm9XcEllRjNvTHAwQk9fT0tETXlRVFE2VHJiZE9ZZm8w?oc=5"
+      },
+      {
+        "title": "Incydent przed biurem PO. Akcja służb - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbS1XWXJzTERoWU9JaVMySUZUalZmOFFqZ1JZN1cwTXlNNUp3YzlEVXZiWHYyY24zQVhISGpxRl90ZEpQVy12WEZHcnhxNElkN3hhUzRZZ1lzcE1zMm5vc3NxaW1RQkgxeEFXYUxKdmE5VmhmRnBtOXRJWjBVN3p5WkE1REJTM2MxdENSZURJLVBNVktSOHN4d3BZOUlKcTEwNVV4ZXFTTUpOYUpUUWF3?oc=5"
+      },
+      {
+        "title": "Budapeszt areną wielkiej polityki. Wiktor Orban ujawnia szczegóły spotkania z Władimirem Putinem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VoRTc2Tk83dUtsRVhsUXYzMHZ1dUswNGNzUjdGdVg5U0FCQWxfRFl6UjduRGZIcU0ybUxxT19LRnlzSnRuVjAwb1c1MTJCN2hKaGZpWjMtYnQtMjctWnF2MFB5LURveGJrekN3amc3MFhpYWJkbXJ6bTlxV3VvVHlxSG9CX3A3aDlZeE92R3hETExiUmJjU09MUjNPaFJRUWZKMEhtc0FCTEJ1Q0gxYUdMOHA2aUZTNTRncFotM2g2a3c?oc=5"
+      },
+      {
+        "title": "Syn zaatakował rodziców. Ojciec nie żyje, matka w szpitalu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeE9HMDM0UHhPampKRzJvOUpRZkhyNldaeVhQeGNOYTBjYzlkNWhfYVRocDN4UVVBRFZaa2d0VXhjOHdQRmNOU3RZMHRTNnhVSkRJS0RWNzQyR2ZMb2MyX2c2VmM0bXFsaEk0VzJOdE5YRHIybGFoaVQ2SGg1MnhMQVQxSTdmUDlxUUx5dDlvRmpHMmlaUHJmaFRkSnctQTEtZGc?oc=5"
       }
     ]
   }
