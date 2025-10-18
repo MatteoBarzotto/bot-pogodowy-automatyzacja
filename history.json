@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15 22:15:47",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6585,
-      "EUR": 4.2556,
-      "GBP": 4.882,
-      "CHF": 4.5739,
-      "JPY": 0.024193,
-      "AUD": 2.3844,
-      "CAD": 2.6052,
-      "CNY": 0.5134
-    },
-    "crypto": {
-      "BITCOIN": 406925,
-      "DOGECOIN": 0.722379,
-      "ETHEREUM": 14552.94,
-      "LITECOIN": 346.04,
-      "RIPPLE": 8.8
-    },
-    "indices": {
-      "^WIG20": 2901.08,
-      "^WIG30": 3751.7,
-      "^WIG": 3751.7,
-      "^NCINDEX": 281.98
-    },
-    "news": [
-      {
-        "title": "Awantura i skandaliczne słowa na sejmowej komisji. Poseł nie wiedział, że ma włączony mikrofon - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEcxcW5ZM3ZHS0RtLXpiWGhFVGxvUFNiUzhWSEJxbTVvQlZzOGVkc3plc1pROGxBZFQtWGRhZ3pyQUpFVGVvQmlrODNORXp3bmNVVmRyYlF3VVZRZTdsZ29WR0piNkZVa2tPeXo1MUdBU01iam0yZC1iMi1leHAxRENwb05KZVB0TzRPZzk3R2hid0U2aURoRHV0WnBJZVRKdy0tdEsxQ0JRdmV3SVdnM3lxdERqMGhuMFQtX2x1TXI?oc=5"
-      },
-      {
-        "title": "Aktywistki do Tuska: w 20. gospodarce świata młodym nie starcza do pierwszego - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmpPWUJaUXNyQWctdWpINEo4cmQyVWY2S3JnRkVQRDdSb2txQS1XeURuMkRfd21aRkc2U05LYjBjSGJnaEo4VTZZZXhFM3JINGYwNXRmNVYyamVkLUZ6U2tLRF9yNjdtMFJfYl81VWt5TzQxc051dVNIVDh1VVJPR0J2WjV0endGZVR5dWVIZUF5WDF6NjlxOVhzSk1Ybk80NXFwS0ppN2hkRmE3RF9wcF9iejhlVXJwazMyclVWLVA?oc=5"
-      },
-      {
-        "title": "Izrael: zwrócone przez Hamas ciało nie należy do zakładnika - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHIydEhaTjZnc0lWeks5b0NMUF9LRTd2aWxRTnYxM1RBa01fOF9KSnczd2FZMXJ0cnpyMGVpTzZzVjE3QU51c2NxX0lReVgyUTFqeC10X1NRbmdtMHpzQkotbExLRFpkOWR4bTdyZVd4cC1WNEY0RVRfX1JRS0FPbG9Tb09yS2M4M1hQRmFVNHN6UVI1VGo0X1J6cTl3ckFlTFNz?oc=5"
-      },
-      {
-        "title": "Kosiniak-Kamysz po spotkaniu z Hegsethem: obecność wojsk USA potwierdzona - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeDJ3U21nZjBDYWE2cnlMUUUtV0ZfdzhOYUpqUzdvcEdnQWJpNlRiZHkyN0doQVlkX0pJLVkzVm1xT1dzemFnZHd3MFMzRkl0REFkZXQwWmlDeE1aUE5zcHFtQ2tjSV92WjUtSmtVRF9lbHNidkZ0WEYtcER3cDZxbFhkYjFrZWVCWklUNThZeWQtd3d0dVEwQ1ZNaVo2Z2RLNTNkQURNb1pUXzg?oc=5"
-      },
-      {
-        "title": "Amerykańskie Tomahawki dla Ukrainy. Plan jest już gotowy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOThuaHhURzJRMS1GVnFXRUNrM09YVWp3RnlCLS1oWnY1UlEzNHF5VndHTktZa2dPMXpHZS1vVHN2eW5QeGVFcVUwR3FUaWVYT0R1VG5UMTZZZXRBWkV6TDlPekFNdmJYN3RxOUlkRmZ6ZkMteVAtclBCSnBVU0YyN2dzX3JwQ0tUVm5UOEtCcnlWYjRaQWhNemxkWmY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-15 23:12:09",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Premier: jeśli możemy, musimy znaleźć polską firmę, gdzie wydajemy miliardy podatników - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTZ4cHRtNkRCVVpDLWRleF9UcGk3MHpYbXFfNlhudVdLdVVKR2d0NXQ5dkZFUUItdHBZdlNucWE1cy1palBWWEw3bW5Xbm5RSHJUWVFNVG5TU2ZqektJcHBPYUpJQnd4NFRkUDVSSFcxUVVTekRBM29zeW5jUnJjcWFTVGI4UGg1dFZTU2JJUDhtclZQMGxURHllZC1GbThuOUgtQ2J6MWlhMDNqY2pKRXFxWmc5Z3RH?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-18 03:00:59",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6388,
+      "EUR": 4.2565,
+      "GBP": 4.8847,
+      "CHF": 4.6096,
+      "JPY": 0.024294,
+      "AUD": 2.3506,
+      "CAD": 2.59,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 389123,
+      "DOGECOIN": 0.677103,
+      "ETHEREUM": 13987.35,
+      "LITECOIN": 329.47,
+      "RIPPLE": 8.41
+    },
+    "indices": {
+      "^WIG20": 2872.02,
+      "^WIG30": 3713.72,
+      "^WIG": 3713.72,
+      "^NCINDEX": 280.05
+    },
+    "news": [
+      {
+        "title": "Echa wizyty Zełenskiego w Białym Domu. \"Nie zanosi się, by Trump chciał takiej konfrontacji z Putinem\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1VvUm5UUWhmcXR2Z2VZMWhzQWR3eTBjTEJNamVQODBBLU1OT2ZJTFdIUnF0SlBrWVRPTGhOeC1kMTFGaUxBcjhVLU91ZlI5M2tEQ0FVMEtLN3BVVG9STHNSeDBpdHlYZkNENTJVTzlORTVKTEUxLWR2dzIyZmxrTXdEVU1qNUN2R3M1czJjeGo0NU0tZ3RTU2lCVWRMaDNiVzBXSXFB?oc=5"
+      },
+      {
+        "title": "Sąd nie zgodził się na wydanie podejrzanego ws. Nord Stream. Tusk: \"I słusznie, sprawa zamknięta\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjdDcWJBd0tEVWFNZkZCWDFJMFh4cUNKYWJaSmhxM09PMFVRRlZWcjZCNEJlR3UzNEJDSElZUVg0VU5jSU5WS1Q1OFNrbkpidnVFTW15UmJqdGdWLXlxQ3hjd3dxVWZ2UHFiYzdUX2xyTUhyVS1yOVpjd1doeV9uanNobnN3aXU0enNOTzFydVVMVm5vZHk1b2hUM2otMkJLMTRVYktfcUpqS3lPemtCeURuMUlMVHRWSlI1TWw1dm9XcEllRjNvTHAwQk9fT0tETXlRVFE2VHJiZE9ZZm8w?oc=5"
+      },
+      {
+        "title": "Donald Tusk wypomniał wiek Kubie Wojewódzkiemu. \"Też się przygotowałem\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVBGMHFKNUFNSnB3YzRmQU5QcDR0RkhUckxaaHVNdUJkcDdqWnpHRTU3TEhiWVJOZC13Ry1BeDJrMlJyM3ZrdTFyM29oU1RvTG9sMWNzWGtDaEpQbmtuTlh4Y0dnQmREMVBUNXlPZGgzOVFCeWxBYk5qUmdTVFJTTDN1UmhlaHJlaUhMOWVPclZDeWFLUnUyMGk5WjV6blkweW1qdzQ0ZVZyMnF2XzNhWGtObWExUUpQczViaktaQ2RxZw?oc=5"
+      },
+      {
+        "title": "Nagle na sali rozległ się śmiech. \"Tak myślałem\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVW1HZ24tQWxKYlBpQTVsQ090cDdOR3lha2VDSUNIbFl1MzJQanJVaEJYTlMzOWFLUkExYmViLWE2bjU3dnBhWUF1QlVwSkpCb0c1NEN4VWVYV3h6ZThvMV92aUdjV2hpajdRQ2IzZnllTFV4YzJ5eW5vM0ZybHNETVdlMmtVZkoxTzdKX0RxenF3QQ?oc=5"
+      },
+      {
+        "title": "Straż Graniczna odkryła tajemniczy tunel. Akcja na granicy z Białorusią - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9ld1B3OGhaaGZLM3lLTFdnUXZURTFqZDBYdjdyVDBDdlp3cmpKcE9Rbm90UnNEN1Q0QlhPVzlXUXpQenc3d1kyWkJrQjZldHJBbS1mNWZ3cmFrbUQ0SXRRTXV2T3BpeC1FNmw1UVFFelpIeXdUY0d2SGd0X3FsM0QwLVE2MFVHYzN4TzM0cy0tcldObTNKU1JBYjBiUlcxeWdjNFNkcWNBSmZ2VUIw?oc=5"
       }
     ]
   }
