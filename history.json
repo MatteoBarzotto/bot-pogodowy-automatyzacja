@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-16 21:09:52",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6467,
-      "EUR": 4.2517,
-      "GBP": 4.9005,
-      "CHF": 4.5781,
-      "JPY": 0.024111,
-      "AUD": 2.3727,
-      "CAD": 2.5981,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 393966,
-      "DOGECOIN": 0.690403,
-      "ETHEREUM": 14163.96,
-      "LITECOIN": 332.95,
-      "RIPPLE": 8.53
-    },
-    "indices": {
-      "^WIG20": 2887.16,
-      "^WIG30": 3729.11,
-      "^WIG": 3729.11,
-      "^NCINDEX": 280.51
-    },
-    "news": [
-      {
-        "title": "Będzie spotkanie Trump-Putin. Tym razem w Europie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3VDdmhRb2w4Y1ZjN1BkVnVwMkswOFpnby1uRVAtZ01STFBUS1daSUR4Q2I3OWJsTUVUTWhzSERqU0FMbF9nQVFZLUlmeC12aEVQbGtUNE5ONmlaeVdhY1RCcm9BdTllSTZhbmtTYi1KelFTVWdmcDg3cGZBUUhJUmRfVXdoUjc4bkl0NHhsYW5hYTF3Z0tNU2FCc2NWdjNUQVE?oc=5"
-      },
-      {
-        "title": "Nawrocki zawetował kolejną ustawę - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWRFVWg3cVRmcU9fQzBtMk9WMXRSby02ZW5TSHVhaTFEaXI1VFR6YzhUeHJ5c2N3WjZZODhXM2h1dFY5V3RUMTBMRzRMaTJ3N1lVdmx6SmpiWjlkM0Vkb2E5QXQzWnctTXY3LXRCN3VINmpIMlRYQUVJR21HQlAzdHE0UURzUTZNVGpXaGQzal9GX3J3RkhpbDNwRHdLTFpMa1dxRkUxaVBldzJfd0hValVZdlNSdw?oc=5"
-      },
-      {
-        "title": "Amerykańscy żołnierze w Strefie Gazy? Donald Trump stawia sprawę jasno - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3NoY0lDdUI4QmQ3ZE84bTBHNjZkOGtzN296b01LNEgxYU5Qc1FvSGI0dXcySkxXNkhCNVNHMHNzem50MGdlSTgtcXB0MEhBdFZQMXdaaXFrZVdzOHZmZEhQdmVDNW5XZ3VuNVBqSENoMVNzNmxuZTJzbFlWNWFCbnBVcGVUNER1RWY3SldRUGt5ZlFrYmNmcmc0WENpbnhvaHJnMXNvRmQzZlp1Z2RCOQ?oc=5"
-      },
-      {
-        "title": "Psy zagryzły 46-latka na grzybobraniu. Właściciel zwierząt zatrzymany - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGhFXzdpNkI2cVpxc01vY3NrdzNxbWczNWN0Yy04R3NSUS02TTktNV9OSDgtSTh3M2MxcGVobEdaTzFWZ3JFWFhtRFVlTVRpM0xnOWozT01GQUFWempxRmJpczBLNmhJMnJNdXE5R3VEaVBtYzZqakFveXFxYk90V3UwTWYwSVlMU1FQelJZdkkybENsb2FIbnZ1UjdSeHlraUtlbEFYR2FiUjlNNlVFSk95dw?oc=5"
-      },
-      {
-        "title": "Jest ruch prokuratury w sprawie Mariusza Kamińskiego i Macieja Wąsika - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGJkR2tBYy1qM0lpUkNCUl9faFIzdnFJVUM5NlV6czFqaGk5U2tzUE94VE1PT2hMVTVZM0x2bWVaM01JUkNtSHZjMlZOT1lTYy04WmFGbTlFWFZndE9jZkxlb2JYYk0tSm1hU2UzTVUtamJOWnFDd0g2dHpPaV9FRWtTdnJzWjRuUjhFQlNtNDlhSEJfdmtTd3haSGczSVpoNElPSEdhTFAwclhnQ0VMQlFiN1daYjA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-16 22:15:21",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Kłęby dymu nad azjatycką stolicą. Zawieszono wszystkie loty - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2tBUEl1QlZfWW5BdVZYRDlieTdtOTMzektzeE15Tk1iWUNZWENTazR2QUdyUzFiLVZwbnoxUkZZVnpDejQtdmdVeWxNbDBEMGw3SXZnNEdnU0dNMG1IZ0w1SVFHVWFBME1sMjlzdkxVY3RKT3hzTlVqZFVMSnV6cHNHNzViaUF5dmFtYmh3eTJHdkFKdUNyMHllY1Y1dzYzY1JUbzdkZjVXdlVUdnZ6aEZBdnhvejdVZ0xIQw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-19 01:12:09",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6388,
+      "EUR": 4.2565,
+      "GBP": 4.8847,
+      "CHF": 4.6096,
+      "JPY": 0.024294,
+      "AUD": 2.3506,
+      "CAD": 2.59,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 389999,
+      "DOGECOIN": 0.689463,
+      "ETHEREUM": 14147.91,
+      "LITECOIN": 333.61,
+      "RIPPLE": 8.59
+    },
+    "indices": {
+      "^WIG20": 2872.02,
+      "^WIG30": 3713.72,
+      "^WIG": 3713.72,
+      "^NCINDEX": 280.05
+    },
+    "news": [
+      {
+        "title": "\"Twoja stara\". Rzeczniczka Białego Domu odpowiada na pytanie o szczyt Trumpa z Putinem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFhjcGlqXzVUTk0wZVFkV3pFc3VHZFl2OXB0dF9HN2g1S3YtaVpHaXN4QTVrODRQWmoyRTd5aEpZYmdvZFJmVmhiZW52WHNSNE9Zak1ianUxd2pCNHBmOUVUbHZaNVhMZHQ2TTNFNk1sZjFxSGV5THZEM2NTeUgySTZXd29vS0FJZHFxc3pHLWU5dmV3U1hxanZQWUN0bjBpLXRtMlRzbUhLZldLTTRCM0lVZUJXc3k1YVJ0cE5ieGRWM2xQc1lSTUN0U0ZTQ3drVXIxTg?oc=5"
+      },
+      {
+        "title": "Merz: spotkanie z Trumpem nie przebiegło po myśli prezydenta Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYlBxVUR0R2ZUaUVjbzRYN0lzMGVhcGxsNWZybm5SNlc2QUQzSzVsUUFTN1A1SUFWZGpPZDJXOGtKU3dOdlRWLTNfMndVY01Hek12cGtQdW9xckdQLU1zMDloaGVsN1FUX0pDUDdDT3FzbVVCUW9DeVRpeXNQbnhrVDc4UHJsNnZWTXplVmFaR1hpVnVXZmpZRWVFVTU3Z0VmRmdseU43ZElhTmF5Uk5vdkRsYlhWNUE3MEZBV2R5cDdmUQ?oc=5"
+      },
+      {
+        "title": "Donald Trump zdecydował: Nicolás Maduro musi zniknąć - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXMyRkN3UHZERm5CVFBERkxlaEx1a05renpiNXVoS3ctNHd6S1RONG5fUGg2OGU3c1pPMTluTmhJVGhfMF95akZVX2d0a2hUSENCbngtdGFad19BZlcxY1BQOWh4ckllRjBSR2ZZVjRFRHJPUmFNR2hNUlR1YzNKVUNnZ3Bsdw?oc=5"
+      },
+      {
+        "title": "Potężny pożar lotniska w azjatyckiej stolicy. Budynek stanął w ogniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnNMdW9KU1owczBXVWQxNkhFekRWbTdOdldPQWNEdWM2NjNvaTFLTGVnNmpXQVVjVFhaWEhFZmNydG5rZDZRZ2toaTZhQVZCMndHQ21VWnJoM1BqQjl4OEpnOUp0QUw2NGFIaU1CbWxBWm9WaTdKanh6bTIxZHdSVU9jaXNPTUViQThvLTA1TWNObTBHb3I1NlRnQ1dueHVueWNMbWNVeWJ1LVFfNjZMNVppRWs2NGdMZlN3NkZtR2wtUzhLYWlVMWhHbHE3WjIxT2dxOHFn?oc=5"
+      },
+      {
+        "title": "Kolejne kłopoty sędziego Jakuba Iwańca. Decyzja prezes sądu po pijackim rajdzie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenpkSlZobmM5bVY3NVpIeVZiMmRtYTZpYjdiMUN6UWxwdzlGVjJFemhlQjlLTnVYMG1yekNXWFduUTZBNHh0V3RhZTVfd195U0ZNMFptUWdacHhXM0U0WE9GSkptSmF4N0NMelI1UjkyWjMxdS1fMFJ2SUJZalRsYkFFVEJYQnAta08wZUFkbGhrM1dXUHhhOWZwUDlDWjdRVkkzR3NMVEdLLUlWTUExTDF3?oc=5"
       }
     ]
   }
