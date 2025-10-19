@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17 13:11:24",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6388,
-      "EUR": 4.2565,
-      "GBP": 4.8847,
-      "CHF": 4.6096,
-      "JPY": 0.024294,
-      "AUD": 2.3506,
-      "CAD": 2.59,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 381699,
-      "DOGECOIN": 0.65448,
-      "ETHEREUM": 13597.36,
-      "LITECOIN": 313.22,
-      "RIPPLE": 8.16
-    },
-    "indices": {
-      "^WIG20": 2841.75,
-      "^WIG30": 3673.86,
-      "^WIG": 3673.86,
-      "^NCINDEX": 279.13
-    },
-    "news": [
-      {
-        "title": "Wypadek polskiego autokaru w Austrii. Jechali nim \"członkowie delegacji z Małopolski\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1NyQnRHaDMzQ0pnckhiSWtIUWNKcElzaUhxeHBqT2duaG1aNGFBUzRxeUxDSU1faktUQlJvX3pFN1YzNmZndDFEdUhEZzBGbmVCZGpablBXQW5mNHBSTHREY05qSl9qYkF0dkJYY1pVY3lCclBjTVNRVjQySjBMbXN4Z3ZXMXdJckF1QVJYSkFqblV1MkE3UVQ1cnljdGxOWWJHUHR6VGIwOEFJR0hwenBmMHNLeEhIVkNjRng0N1NwaHZQY2VlNHctZlR4M1k?oc=5"
-      },
-      {
-        "title": "\"Kościoły nie zapłoną\". Biejat w TOK FM o ustawie o związkach nieformalnych - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcTJFaDBsak5iX1NJekNjQXdmWTl4Wll4RG5ySmtSU2tCdTd6WG1ITjd4MU1IX3JBSHRUQklJRGZpR25Xc2FpNDB4VGNlYXpyNUpoVlVROVZMb3BycHBFd2w4N3RYXzNGdWowVmNUTW83S2N3YUdDU3ZidkRZYzJSVHRGN1hJYWYwRy1fWW5JZFZycUlhc2FQT3RXZ3NEaDZYMl9aelJBVHlybDJwWGlBMkV6Wm1pNUZmd0xSemVHS3FIaGlHdWM0?oc=5"
-      },
-      {
-        "title": "Ekspertka o ataku psów pod Zieloną Górą. \"Grzybiarz nie miał żadnych szans\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXI2V1NaSzNtV1JhYU1lelA3UEZLUmxzZmNQRThvN2pNbU42T1MzS0s4dTEwREptTmV0Vmc1eGQ5YXNkdXFxbm5fNGM3aUJXcDJNRFNvdWduWEpocnpyZ0xPTzk4Y1ZlTk5vNXZWd0FUelpoUUZGN3hwOWRfRkU2b3UzZGJRd21CQ2tXTUliazlfX0kwZHMwcA?oc=5"
-      },
-      {
-        "title": "\"Okazja dla Putina\". \"Washington Post\" o rozmowie z Trumpem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0VMSWZmWGlDbHFaOUZBYUdzQnpoWDB4bkFaYUxxOE5Bd1R1YWxSamlYYWl1ZXgxMFhyRDZhaGNVX0hXdm9jNl83RmY3RGFxUjExSEcyOUxpaW9iZ01TT3otVnJCLTBPZkR1S2FYS2xMTTF0bk9VaTRCYkR6MUk3SjZGdVcyT2lpdG9RVzE4UDRGRnZ1cDFaa3pCSk53RGFUQ1d3M2hUdw?oc=5"
-      },
-      {
-        "title": "Ważne akta wojskowe na śmietniku? Szef MON Kosiniak-Kamysz: Poważna sprawa - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2FvcmM4dkVsX0NWZHVHLS1VSWNjU3k4VDJXckFWanAtQXVURDZKX2Jza1VEeU5KSFdQMVlGa2ZLVnJvUWdTWmJsQ2dUZ2dLN0ZqLXEtYm1iZjZ0QXZBX25oQ2xUdnh3OWNmUk5IdndfTkdTWGhDN0RLanItQlNTNzRSOUdtMzZKNjNBd1gyUHVaTF81RG5aaERzc2NNeTRDampuVk9tVUNydExzcUFYb9IBrAFBVV95cUxOS2U3ZGhxZjN0UnhOdE9EQnRHVEU2UVotZDJJS1R1ckJBZFJYQ01hUG9vNExENWktMXJGTXQ5R0hiRFVLZzIwbWtINVJCSU1rZG5oa2hTN2hoY0VtUDVQckR0N2t3ZEVTRVhuZUw4Y20tSU5rRE4tMTNEdkRCVUNwM0pWcmxqcEU2THowTWpvOEx2d1RmLVdpbEJoNnYtY2tacmI3RXNYck9TbU1U?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-17 14:28:12",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "\"Stan Wyjątkowy\". Połówka rządu Tuska. Kaczyński przytulił Bąkiewicza. Żurek chce odbić Trybunał Konstytucyjny - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUF2WkpOZG5QZ0VuSndkTWJfb1Q0R0pXVE5Kazlna2M0c0NIVmhWZ3U5WGxKd0lsbllwOGtTS2pyZmtCRUpscGgxN2pDTWJhX2tQV1RKd2dubUJtcTdPeDhRRXFQUm1EOHFjTnVCc0k5OERVbnhabTFlci0wbFE4My1RdjNXQTVfT21MUkZrbWRZdmNKS1FPRThvZEpyQmFwZm9Dd0hhbUxIUTE3cFpWdjNSSHNwb2VlNTZaTG1R?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-19 18:14:56",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6388,
+      "EUR": 4.2565,
+      "GBP": 4.8847,
+      "CHF": 4.6096,
+      "JPY": 0.024294,
+      "AUD": 2.3506,
+      "CAD": 2.59,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 394633,
+      "DOGECOIN": 0.714421,
+      "ETHEREUM": 14461.7,
+      "LITECOIN": 342.08,
+      "RIPPLE": 8.73
+    },
+    "indices": {
+      "^WIG20": 2872.02,
+      "^WIG30": 3713.72,
+      "^WIG": 3713.72,
+      "^NCINDEX": 280.05
+    },
+    "news": [
+      {
+        "title": "\"Putin coś weźmie\". Trump zmienia zdanie ws. Ukrainy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnZIVnJHRW1nSU9GYVJWNmFjTk82cGJDNzVmdDRscGM5ZEx3VXE2cUd5VDl4ZHpNOHdBbUVMRUxhNGxxdEozRHZ3cXJtTFE4OTBVLWV1ZGFocHpDYWVPWTlHLW0tNDZlMUxtd09GUWpnOGhsUlJuODhOZmo2QW13MjNHa3E4Z3lzc0pvUEZEWEpDTEFTdHlBa18xcjRidEVPZDJNZXdR?oc=5"
+      },
+      {
+        "title": "Atak Hamasu na wojska Izraela. Benjamin Netanjahu: będzie odpowiedź - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0hob2ItWWJYLWxXckluVGJ6c0xQTGlQV3UtQTBLTWRXQmJadjdBNEo1cjNYRkRjdG9SaXVoQzd5M1ctSHZXREtGTEsxZjdVNGY2dGZBajFSdWFKakVMNWpwYzlPMHpTOWFTTWVEYWFDeGNkX0VyY2JuSzZUdDJhNGstNUpwbFc1VlRWLUtnb0o5ZDFkQjIyOHVNU0xkREZGZE8xQWhoSXItOEQzN2ZEa2RhOEpZdk9KOHpONjhn?oc=5"
+      },
+      {
+        "title": "Kradzież w Luwrze. Klejnot żony Napoleona porzucony podczas ucieczki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOV9IdWpOVG91QzlkMVhfbms2UkpLX1hLS29NbHVUWkNDQ1FLakJJRzNCdEV5TEFnOWk5ZGlBUTk1bTNOUU1EeWUtT1VCc0tTa1l0Q0ZoOU92VUJUcFZReXZOSWtHTFZVYk4yRGZxT2tjY2g0bWxMTTNlUWJjd0Q0RjUycXJtcnpKLXNpRFVLck05R1g0WEF2QWE5NndabmJIWEVZd3pvR3JSQ3FUZWxBaGRxR3JyejJlMkQxd050c1lqbnViRjlXem9n?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Połówka rządu Tuska. Kaczyński przytulił Bąkiewicza. Żurek chce odbić Trybunał Konstytucyjny - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN19qc29Ta3pqaUtQRXMzaHU5X3dzc1o5WUlMRnZZV3c0Y19mN2VkdVM2NTFUV0RWUTRMZTNRY1Y0RW9kQzJOSmdua0w5LTFpLVZUQWJQVFc4ZEtmcmF0bm55UlhwMlVmRXhXSXFrZFZiNXhhQ1A5M3BRRzdJeWRndk9uSEVlemdYR3kwaC1CYUtVUmUwTktDT1B4NGwtWjFhUzEtaGVaTm1ndThnTEhNUElIM2VzOTRTdzZpVXI5VkRGU1RQWDd1Q0hETUZjXzQ?oc=5"
+      },
+      {
+        "title": "Hołownia ambasadorem w USA? \"Bardzo zabiega o tę posadę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjBvbVpRdGQxeEVxU1VjMmh0VmhxUFJBVS1KSGg3cTBJQ3pDcUdQa1h0SDMtZ3hRMUZWNmYyeFYtWUR3SFh6WTJqalh6eWgycXZoNWtza3E0TG5UVjRQWDJodHpHTE9NRGFQQnUyVER2elZkeUVKM1RrTVJhRzdpaUdtM05LR2FnWTJOb2Rxb3RwUHJqVGpROGtiaXE?oc=5"
       }
     ]
   }
