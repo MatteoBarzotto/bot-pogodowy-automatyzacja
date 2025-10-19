@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17 00:10:13",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6467,
-      "EUR": 4.2517,
-      "GBP": 4.9005,
-      "CHF": 4.5781,
-      "JPY": 0.024111,
-      "AUD": 2.3727,
-      "CAD": 2.5981,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 393562,
-      "DOGECOIN": 0.68277,
-      "ETHEREUM": 14080.75,
-      "LITECOIN": 331.63,
-      "RIPPLE": 8.42
-    },
-    "indices": {
-      "^WIG20": 2887.16,
-      "^WIG30": 3729.11,
-      "^WIG": 3729.11,
-      "^NCINDEX": 280.51
-    },
-    "news": [
-      {
-        "title": "Kreml o szczegóły rozmowy Władimira Putina z Donaldem Trumpem. \"Ostrzegł go\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeTNrZ0lHUHJ3S245OVlqOFFDVElHaFcwX0VCcWd2d3N1Tmo1TUNVNE91RWdXSU5BODJINGVveE01VzQ5ZEpsMElZQ1hqOUU3dXk2X18zTXByaFd2VHRkMmVoM3ZHRmE2d2QzTU9YQ1NjOGhEZ3ZCcWVxYzN1bXpmSTlnRXJFWWowaFhtR3ZPYUxVZWNISHVkS1JHWHptcWFWbU9hWXU0cVl6Mmx5dWVjX1ItY2dNaDJaSmctd0c5SlJzTkE?oc=5"
-      },
-      {
-        "title": "Język wilamowski bez ochrony. Prezydent wetuje ustawę o mniejszościach - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM01rZV9UaUd4QXNhUkdjRjBLMHhhekU1VGtza1pnQVJtZ2NGaUxFME1yMUVWWnBVMUZvVXRZZm14aEVxdHMybXVwN1ZiTno5MmJzSlRES05OWElsY21lSnFEZHJSTEp1bWlsdDhQZHF0Y2o5R2k1WF9KME9wOUVWRTVBZ0tIeUs3MmpOdUFtSmtVQ09oV1BoVEpjVGp5Qnc?oc=5"
-      },
-      {
-        "title": "Tragedia w Raculi. Ekspert tłumaczy, dlaczego psy zaatakowały - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFNiek8wRklGbktXTkdUUHRvSGhRM2JyenVrVlRPWmZwSF9obXFrek9fZWl0eTY3VlRzNXhXN0lPc00yVDRrS0gyaTNnSjZwc2E5c05RcG5BUzNIS2VwX2lpeUhnclhYVDRRS2lBaDI3VzZZeE5aVWxJU2Vhak5wcXlsc1pJMEM1U0RLSU1yRDB5QldRS1RiRGtzbi1pM1NsQmdHTQ?oc=5"
-      },
-      {
-        "title": "Jest ruch prokuratury w sprawie Mariusza Kamińskiego i Macieja Wąsika - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGJkR2tBYy1qM0lpUkNCUl9faFIzdnFJVUM5NlV6czFqaGk5U2tzUE94VE1PT2hMVTVZM0x2bWVaM01JUkNtSHZjMlZOT1lTYy04WmFGbTlFWFZndE9jZkxlb2JYYk0tSm1hU2UzTVUtamJOWnFDd0g2dHpPaV9FRWtTdnJzWjRuUjhFQlNtNDlhSEJfdmtTd3haSGczSVpoNElPSEdhTFAwclhnQ0VMQlFiN1daYjA?oc=5"
-      },
-      {
-        "title": "Wykrzyczał wulgaryzmy na sejmowej komisji. \"Mamo, przepraszam\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQem1mMlhFcUxEVDdOU3BkdVVYYkd1bFdnamlWbzFjdTJmaWhnN21scnowS0gzWmhidXpXT09nTGJxX2gzQnNOclVLeENJT3MtVzdqRjRBd2FZSnFtTUNMcEtuaGZnSmRKN3Z1ajRqR0xTTUJ1VTJUSW9GUGppbm9jTWN1S3BRNG9sbV9xTWV5ZFM2dmZ3cERRb0Z0eHpyb1c5ZVFVbmY4TU80Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-17 01:12:13",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Departament Stanu alarmuje o planach Hamasu. \"Zbliżające się naruszenie zawieszenia broni\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1B3V3VzU2Q4c2M0SHAzVkN6Ri1qellHcE5Ebkp4cTB2M3owekdySXlwZzdrWkwzVXUzMHFWMHRWNmxjQl91RDAzYmJwa0dPLUIxdHBldlVqek9ZOVNubkpycWNIM3BoV1kySkdDbjgxRFhKWmdQbktkTGRaaVh5emZiM1k2cExMbTZNeXgtaVVlZmVKa0x0M1pXNDEzejFUQ2lPZjVBTnN5OW0yVlNKcQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-19 06:17:30",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6388,
+      "EUR": 4.2565,
+      "GBP": 4.8847,
+      "CHF": 4.6096,
+      "JPY": 0.024294,
+      "AUD": 2.3506,
+      "CAD": 2.59,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 389839,
+      "DOGECOIN": 0.691429,
+      "ETHEREUM": 14190.06,
+      "LITECOIN": 334.78,
+      "RIPPLE": 8.59
+    },
+    "indices": {
+      "^WIG20": 2872.02,
+      "^WIG30": 3713.72,
+      "^WIG": 3713.72,
+      "^NCINDEX": 280.05
+    },
+    "news": [
+      {
+        "title": "W miastach USA protestują przeciwko Trumpowi. \"Jesteśmy tu, bo kochamy Amerykę\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamdmX3QyeHZsdlJycW5kMzE1NE1JbmNKX0dwQ3IyRmU4eWhWbGpfd3NITFdJVXF0d1lvQkNRNklhN2ZYVFhuNldjV0lFYnhSOTdwdXFpMnJXVk43NTRaemxBVjgxd2kwTTVCQW1fMVc3WGhJa193d1JfenVYMWZQRUNzY2FFRHZMbURRQjdiazVpZTJHcExBVnN5dnNJR0hwczNIUkxRRDYyUzgzTXJqT3lCUVhjQ1VaTjVEcHREWQ?oc=5"
+      },
+      {
+        "title": "Piekło: Rosja jest na skraju społecznego wybuchu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzRnTGlNZndXMWFEQjZXbjFUY3RJUVVMOXdDaWx5bFp2OHZvbTh0ODQzanJ6NDBaQUJXWV9yVDVGOWh4cnJfbFhGNUxtdDlTRFlKOEppNElGNk9MbnVnOEtZR3ctMjlZdlVIX2dBVndqLU9Jd0F3S1IzV0Jxd3BmVHpxbjBOVkN5UUtSYmh5WE0yVGJY?oc=5"
+      },
+      {
+        "title": "Merz: spotkanie z Trumpem nie przebiegło po myśli prezydenta Ukrainy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYlBxVUR0R2ZUaUVjbzRYN0lzMGVhcGxsNWZybm5SNlc2QUQzSzVsUUFTN1A1SUFWZGpPZDJXOGtKU3dOdlRWLTNfMndVY01Hek12cGtQdW9xckdQLU1zMDloaGVsN1FUX0pDUDdDT3FzbVVCUW9DeVRpeXNQbnhrVDc4UHJsNnZWTXplVmFaR1hpVnVXZmpZRWVFVTU3Z0VmRmdseU43ZElhTmF5Uk5vdkRsYlhWNUE3MEZBV2R5cDdmUQ?oc=5"
+      },
+      {
+        "title": "Potężny pożar lotniska w azjatyckiej stolicy. Budynek stanął w ogniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnNMdW9KU1owczBXVWQxNkhFekRWbTdOdldPQWNEdWM2NjNvaTFLTGVnNmpXQVVjVFhaWEhFZmNydG5rZDZRZ2toaTZhQVZCMndHQ21VWnJoM1BqQjl4OEpnOUp0QUw2NGFIaU1CbWxBWm9WaTdKanh6bTIxZHdSVU9jaXNPTUViQThvLTA1TWNObTBHb3I1NlRnQ1dueHVueWNMbWNVeWJ1LVFfNjZMNVppRWs2NGdMZlN3NkZtR2wtUzhLYWlVMWhHbHE3WjIxT2dxOHFn?oc=5"
+      },
+      {
+        "title": "Fala dezercji w rosyjskiej armii. Ukraiński wywiad ujawnia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnlYWWpFNzBqTEJkaW9hNlFiM1dtV080QVhjYjlPZzl4THU0MkpBcEc0dndiXzJzZElsVktLQmJ4Sk5famh0MmxNeXJhMnVMbEJraEpPb28tUG5PYUhEUEJWV1VCdTJEeExteC1nNWVjLTZ3azhVLTJnQTBMV3p1djU5NDlncHFnZ0Z2OFlta3JndWFBRF9qbThfVXI4RkVRb0o5cWo5QlZTOXBpU0pwYW5rQkdlSWxfeWc?oc=5"
       }
     ]
   }
