@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17 09:13:52",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6467,
-      "EUR": 4.2517,
-      "GBP": 4.9005,
-      "CHF": 4.5781,
-      "JPY": 0.024111,
-      "AUD": 2.3727,
-      "CAD": 2.5981,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 387302,
-      "DOGECOIN": 0.659946,
-      "ETHEREUM": 13775.59,
-      "LITECOIN": 319.8,
-      "RIPPLE": 8.3
-    },
-    "indices": {
-      "^WIG20": 2857.55,
-      "^WIG30": 3692.12,
-      "^WIG": 3692.12,
-      "^NCINDEX": 280.51
-    },
-    "news": [
-      {
-        "title": "Wysadzenie Nord Stream. Dziś posiedzenie w sprawie ekstradycji Wołodymyra Ż. - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ1BIbXdpbjlWMjJ4d2VGalJZYk8tbExpOE1xbUlObFpaM0hYMUJ4TzRVUlgyTFpFLTF0VHdEWGZ1YjhMcl80eldqQzdRZlZxYWRYWUNEVENDSV83UDJHYzlHaS16TW5vb3NlN2RUakdNN3lYdFo2c1BKeUN2VzlMMVhVVmoyZkE0bzlONElmbHNNNGI3VFZlbEk4d0lnZWljak9hb0hzdWpHZ1FjSUtiaktxWlpZbm5RckVON1JueGJXRG41ZkRldXBaOUwwdG8wcnZB?oc=5"
-      },
-      {
-        "title": "Jędrzej Bielecki: Trump ostatecznie przechodzi na stronę Ukrainy? Tego się boi Putin - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlF6RjIzeE5xbmxGLTZtSnhZU1MtVWpWZm5lcU5iZjU2MllKOWxtQUdZeTJUT251WDB5elNiZW1acG1yRnFoYkVtMDJDVEFlZldUanhycncwLS1kc1V0WGdEM2kyVkhGQk1YWnlFLUNMR1VWS01MdmdVVmx2Q1VXMFdrR25HMWdRNXJ5UVJNR01DZ3RZV2xMSXlWeFpHSnVoZEQ0Ym1NRXVmRUh1Q09HU21iY0dyVlRqaGs2aXBMbVI?oc=5"
-      },
-      {
-        "title": "Władysław Kosiniak-Kamysz reaguje na tekst Onetu. \"Sprawa jest poważna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1hyemg3RW0wd2huLVNrRDJPZXlCN3pnaE5sZVFrblZmcUoxQUhwZFJvZ08yTm9lM0gyQm5LZ0lYa0hTSFpfTkFTelJxZVQ3Ti1PYlBzUmpCb2RxSl9laDVVRkZwZTlBckZmN29Ea2E1VEk4SkdQMXJZRXBRMGVmWnp5VzhQbzZCQTlOU0pmNDNmbTMwbjdNZGxUWVRpSGNnZXhJNGNHM0ZOTGQwMnIxMjh1WnM2eG43Q2NfVExMWEdpMWhlcDZZNS1zMA?oc=5"
-      },
-      {
-        "title": "Zielona Góra: Psy zagryzły śmiertelnie grzybiarza. \"Właściciel to były policjant\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOFdQZE9kWm9ieHFGa2FlRV9yQm1QN3luYU4yVWRjNVQ1al9rNC1EUnc0aEpZemE1enpyM243OVh4eHgxdW1QRDBLT0R2eDljcENhZUY4OWpYNWN0c1RqS2ZEc3E3R0cwaklBMGYxQzFfcnI0VFE5el8yX2pJUnZZMUVwXzFabWtOYlM1cjdBZnEwV1BhdzhVczI3SkhGbGhMRThkYTRJcGV2TUZUTlJMb1pYQTXSAbMBQVVfeXFMUDlJT281ZFN4U1o0dV81TTZmRDdiWHprRkw2OXE1dmVvczZBSk4zXzRvQ1FZdFVyc1dveXYyVW1UQjVyNXhVV1pUWFV0MVAzVmt5OEE2a1l0LWthVml5U0plcE5STElBMXZIb0pxQWJRZlBsT3JIOXRVN1p4SzhaQmt4TkpDZ3VfVjltT1Q2NXpnVlRqLXRRVEtGWGZsR2tFb0w0ZVg3WWNoc3pTN042Z1p5VG8?oc=5"
-      },
-      {
-        "title": "Zełenski reaguje na rozmowę Trump-Putin - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUmtiSlQ4N2xRbzVTU09FRzFNMlVxZnhwVHVWZTdoNS10YWphZmRTMExGMWUtTldnOWxoSXpQNDkxWFJoU1hOZWx3UXl1MkNyZzNyQlYtNFc1YWNlR0xOS215R1NLa3A1REdXbEJudEVSOEpKRDYtQ3RHYVhOYm5VODhYLVRwWHIwZ1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-17 10:19:19",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2624,6 +2571,59 @@
       {
         "title": "Tragedia w Bytowie. Nie żyje uczeń. Jest śledztwo. Pojawiły się straszne podejrzenia - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSURWeWkxVWY2ajBJZzZ3YkZ0M0VwckRPRDdjaDlJOXdXbTJ2NWhaam1UeWdzTms5Sm5xUXFjcmd6WmgzaUlXa19hV1I0RERvc3ZzSFB0NHFjYUxVY3ZhTjBYZTJuSnQ3ZHdJRmFDOUlOMjhYZFJqV2NHeEZ6TzlLRmpxdUJibTRoaHUwbVFXQU82R2YtZFR0RzNDaFBBdWk5ZHpMN2V6RXNKa2ZYNWVWLWQxenpuLUtzSEJOZ2l2bFNMV2M?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-19 14:24:49",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6388,
+      "EUR": 4.2565,
+      "GBP": 4.8847,
+      "CHF": 4.6096,
+      "JPY": 0.024294,
+      "AUD": 2.3506,
+      "CAD": 2.59,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 391746,
+      "DOGECOIN": 0.703359,
+      "ETHEREUM": 14254.73,
+      "LITECOIN": 339.46,
+      "RIPPLE": 8.63
+    },
+    "indices": {
+      "^WIG20": 2872.02,
+      "^WIG30": 3713.72,
+      "^WIG": 3713.72,
+      "^NCINDEX": 280.05
+    },
+    "news": [
+      {
+        "title": "Atak w Strefie Gazy. Premier Izraela zapowiada siłową odpowiedź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFN4SV9yR3EtRFJSWEZzSm91OTVMVEV5X0pidFdxMVNqQk5fUzVHLUIxZXNFbzZCTHU5TllBQ242X1liTnNFWnhUZi1XaG9NMWtJMVVheW5DeHlJWmtIbWgxTjFWM3hIbEVWT1U4NWllRlN1SE01TXVkN3YtTmFvQjlPTk80SkxfekJIWmlkUTZIcVVCdkNUdXBJa2ZSVzJNVGI2d0ZNeVRaam9pODdmenVmTURHR3lZR3BpbmF5OHNPajg?oc=5"
+      },
+      {
+        "title": "Media: Izrael zbombardował miasto w Strefie Gazy. Podali powód - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVXAtRXV6Z1B0UjBST2FHcFlTbVR1Wlh5ZS1TSjZRSDlOZEJ5UFcyTmI0eUhLTUlwTG9oaGtNSDBtSm14V0Y4cVJBaXlwb1RCRkIteEtaMV9STkp3c0RDd3IwUGUySjFxSFI4MWNMLVg3SVVFaGdTSDAzci03RFVIODRRTmQxZWtSN3NF?oc=5"
+      },
+      {
+        "title": "Wielka kradzież w Luwrze. Zniknęły klejnoty z kolekcji Napoleona - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0d5WWRfMjh3S1VtbDJ2S3BLNEJhS0paczlYUmhOeVA0a25NcGFfRHVWb090YW1VY0MtbWNPeEZyVWdfVkVhNUhfQ1lGVE9qRFh2RHJlbFBrUDZNblNKMGJpQV9qNjJkUUExLTR0bWFlcUtaTktpVmhfeTZWSm9GSkFoaWZJSE1wVFJ6QnVRc1lNdFFVc2w3VlQ1QUNQYTF3c05ja1B4VjhEaVpld2txaWZUTV9nN2hKdnc?oc=5"
+      },
+      {
+        "title": "Nowy warunek Władimira Putina dla Ukrainy. Miał go przekazać Donaldowi Trumpowi - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2V4ZWt2UWRrYnUtSVNNcFBmMWc5ay1RQjJyc1dGNUdwUk1KR09TcERrM0lhZDRsWnhxbGVqb085TzVzWHlzU3hSZndTc1RUT3I2OVBSTUpWb3lhRUNreWlhVjJJdEczamprakpEeDJtN2psNm9wRDJGM0lPU09wT2M5bXBnS2ktN0NhS2JZalJTZ2x6dml3M21MclZ5eGQ5YWRSem5RSFdVcXZHbkFQWm1iX20xUQ?oc=5"
+      },
+      {
+        "title": "Ustawa o związkach nieformalnych. Prezydencki minister ostrzega rządzących - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTlHc2x5SGZxemxHUG1tODRpNXBPUk8zYk9kNm1SNjNEOVIzbnJycnljUFk3a3ZjUEI0U0gtZ2ZPU0w0RFV2bFpjUVVpUFFVeXlkSmJCdUQyZEw0Q2haMll6S2hjeU00TThKTzlael91a1NhTzlyaEVzMmFXaUVUS21vOVJQM2E0NUN6Q1ZLcU1JaGpPdHRTRk5meEZKRmpJRmR1Nk1uN0ZCU0g0LXVhbTRnUHJ5RFlSTXo1S3lB?oc=5"
       }
     ]
   }
