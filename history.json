@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18 17:11:55",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6388,
-      "EUR": 4.2565,
-      "GBP": 4.8847,
-      "CHF": 4.6096,
-      "JPY": 0.024294,
-      "AUD": 2.3506,
-      "CAD": 2.59,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 389969,
-      "DOGECOIN": 0.683362,
-      "ETHEREUM": 14104.87,
-      "LITECOIN": 330.31,
-      "RIPPLE": 8.6
-    },
-    "indices": {
-      "^WIG20": 2872.02,
-      "^WIG30": 3713.72,
-      "^WIG": 3713.72,
-      "^NCINDEX": 280.05
-    },
-    "news": [
-      {
-        "title": "Niemieckie media o wizycie Zełenskiego w Białym Domu. \"Zainteresowanie Trumpa słabnie\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkphWkdsMF9Bb0c2ZXlDSFFzTE5mNS1CUjJRa0R2TlZWdjRNbEZ3cDVIRWxyemY0R2FwYVpGUHh6ajhfMC0yaTkzdjZxVTc0NkowR1lBcVdNQUplZ29DSmZwSFdCTlp5Unk1UzF1dFFOLUIxRXBHa2ZrTXlvLXdDbDQ0WVZ3MzNrS3Z4ZVQ5aDlWTlF6cUNkR1R6LU9aZUlhdmFxMHFFbGdvQUFVOUR5c1c2cGh0NTdaeDRJRTdQSzVjVlk?oc=5"
-      },
-      {
-        "title": "Zaginiona 50-latka odnaleziona. Nic jej nie jest - Trojmiasto.pl",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFpVdUJIQWlRTm5ObTBSLVFMWkpycHdvQV9nbndYaDVTeTdNRUFVNG01MzVRZUNONDV0aW5Sdm5pdzA5TGxoNjJ6RHUwanZjUXVxNlZXb2RUa0h4Wm5NRGFTN3dOVWFucmoyUmlyazhHQjd2bFZITnNfX1hfSENCTG5RcHR6RldiV1RoeA?oc=5"
-      },
-      {
-        "title": "Matka skatowanej Madzi zmieniła postawę. Szykuje się do wyjścia na wolność - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcURUY3E4N0RwbE00dVdTS011ckNxYWtuYVdfT3RiTWtCZGpmWkpueW55OEFBelFSU1F0TjZ0TTZwRmVza2QyelA1czhZNmgwcDFOVTRyc2pwSEp0MG9GLUpXWTQxUWRFWTFRbHFabnBxSUpvQ3Fkcm5mNnJXWFp3VUZGTnhadFEyVDRJZFE3YUxHbU5PaHpJNTBpZUJ6TEJ3UG02U2VB?oc=5"
-      },
-      {
-        "title": "Makabryczne odkrycie pod Pszczyną. W rowie leżało nagie ciało - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHZrZ1M5TWpBZkltYkdkdTZwNVQ5bV9jb1dzQUVyQXhNQ0h0anRCbWFTdVNWeVh1cEh4Y1d4VXBPRlUtdm14cTJhWVBsenNORUljQlZvWERlRTEtaVpPMzByNlcxb2M0TTROcGh0ZGk0UGFHRVV5NklXY0tFS05hTXRwbTN4Rm1aUl9UMThuOXV2aXBLczRqMWRBRWlOQnBFM1ow?oc=5"
-      },
-      {
-        "title": "Jest nowa prognoza opadów śniegu dla Europy. Wiemy, jaka będzie zima w Polsce [MAPY] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0stRVF1Y1ZIVWhtRHBFNkVCMWI0MDNCeG43YmlwNTJpOXhYbGNES19xRzdPeHYxUlNpb2wwWlNJSW9ZQWRya004aUpXczUwRjVSeVBPY25NVUlsaHFLck9XZ3dmeU8ybHlUS19HMU9VVW5hdFRFOGtvSUNuR3d5ZXdjNkg3T1VXYmhqaFlLbEJocDZvazdSUXFxRldyX1BNSExYWmtFQ0NhUUlYU0l0T0xaRGllSlRW?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-18 18:14:40",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Znaleźli ciało z licznymi ranami od ugryzień. Znane są ustalenia służb - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODUySE5lclloTXRlVmRUc01GYlBBV3k1RFpERXhuZi1rX1BuY1h1ZHpBelA3d2gtZ0kzWUUtdzNnREo2WTE2NHJEamh6SW9yR2Jtem9XeS1GQy1YOVRIUzBGaUs5U0hNdXlxdTFZdmxZRnpxX2hWRGpubHctanRGTUFkRzEtNFIyTzBnSXg5VVBRRHFMdm9CTUl2UXE5dDlrVU5abUc2R25Kd29QMU5fVTk5XzYxSGRTclE?oc=5"
+      },
+      {
+        "title": "Bez \"paramałżeństw\" i \"ideologii\". Nawrocki zabrał głos ws. ustawy o osobie najbliższej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGpqa0dFSXBnd3dTTWRNWndQbXhJSUo5cFNJdjlLZnhya21fSi1yNEFWRFRKbG9nMExLQVB6NEZwckpSNnByNEE0U24zUmg1YlBydkxwcTI5UEJpR0IzQUxBMjd4aFdpeWZ1QVJDYlhsZDlUay1KQmlSNmZ0dGE5SU1XR0hyQURRajAtaWE2N1dBOEtBQUpiTU5nQ1lPM1pZSzlzVGc1bjlMdWlDbDhIVVRqcG9mZ1dFMUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-20 23:12:31",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.6349,
+      "EUR": 4.2396,
+      "GBP": 4.881,
+      "CHF": 4.5866,
+      "JPY": 0.024139,
+      "AUD": 2.3617,
+      "CAD": 2.5905,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 404690,
+      "DOGECOIN": 0.729032,
+      "ETHEREUM": 14554.13,
+      "LITECOIN": 346.38,
+      "RIPPLE": 9.17
+    },
+    "indices": {
+      "^WIG20": 2916.61,
+      "^WIG30": 3779.2,
+      "^WIG": 3779.2,
+      "^NCINDEX": 282.15
+    },
+    "news": [
+      {
+        "title": "Donald Tusk ostro o Jarosławie Kaczyńskim. Użył trzech słów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQblEtT0IxQVB4d2tVcGNOUkdlcnVPV0xYSWVOOUFMMnBRSW0zdWxzOFF5bmRmTkVlWEx3WGM4aW83ekg5QzZ3T2RIM19TemJiMkVuRjA4RWtVTHVQVUt1em16UEY2RVVPc18tTm1NZmw5SEdmRlVEZmd6bW1zSHd1QWItYm51TURsaUkyN1lfR1BJNlZoanNXX1VRaGtaRzl3NXExU29IelgzSFZsdi1lZm5zekoyQTNSSEI3RzF3?oc=5"
+      },
+      {
+        "title": "Bus zderzył się z kolumną wojskową na A2. Ranni amerykańscy żołnierze - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUhCZE81d2xPd0hQNk5GNmJhZExEclRqd3lkN2tlZEFPelI3VGJsODNiVU1HQ25mVlNWV3k3RVZGSno4Y1ZiSGpGTTBTVU5nYUhNa2p3amtJeDFOY183UDZqNUYxRXlFbTlFRURmbUhFLUp4S2J3a2ljZzlnV2diS2JmUmdVV2VvNFljUWxDSHRZalFMYzRLQ0xCRTRLN1ZjNF9ncjNVQ0w4V29XZTgzZl9ZZWZ1cE0?oc=5"
+      },
+      {
+        "title": "Krzysztof Śmiszek szczerze o swojej chorobie. \"Atakuje moje kości\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnpGUW5tVHJlSFVyUl9RYmlBVmJvdjRSNHFXRGNMZU8zQ0RTUk1Xa1paekRwSTE4aEpsRmdNVUs3UDZKUzJ4SVBjeFd3UlNNTm55YnRkY0NWN3NqLU5hOWpsWlUyMWloMmladWVtcUNxMHRjdnRJeXIyNGcya0RjRDRrbjRsUk1pOGhmY3NUU1czUDgyM1RTNFlxX0k4NXJiNW9lQURQQmFiZw?oc=5"
+      },
+      {
+        "title": "KO przed PiS, kolejna partia w Sejmie. Są wyniki najnowszego sondażu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmFoaGRzSTdUajRMc1ZGVC1RWE1uMEswTEhLY0t2QTFJcEVVVGpFUEdtUkI0VkpWR3lIbjlWeDJ3cFJRUzFwYlBNRDRZcFh1NjRHZDdpdHRINkFHQlB1NzlYcHo1TWdVczVrZnRPemFhSUJTODJEbzJrTnVwTnZvZGxIcl82NG1ReV9vQm1TcjRfWWliWDJ1UklFTUxucm5jbE9YVF8wa1QzUQ?oc=5"
       },
       {
         "title": "Bez \"paramałżeństw\" i \"ideologii\". Nawrocki zabrał głos ws. ustawy o osobie najbliższej - PolsatNews.pl",
