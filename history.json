@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18 13:10:10",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6388,
-      "EUR": 4.2565,
-      "GBP": 4.8847,
-      "CHF": 4.6096,
-      "JPY": 0.024294,
-      "AUD": 2.3506,
-      "CAD": 2.59,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 388942,
-      "DOGECOIN": 0.682684,
-      "ETHEREUM": 14099.99,
-      "LITECOIN": 332.76,
-      "RIPPLE": 8.59
-    },
-    "indices": {
-      "^WIG20": 2872.02,
-      "^WIG30": 3713.72,
-      "^WIG": 3713.72,
-      "^NCINDEX": 280.05
-    },
-    "news": [
-      {
-        "title": "Donald Tusk o spotkaniu Trump-Zełenski. \"Jedno jest absolutnie jasne\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3I4Y2FSaFJYTG5WMGpNMnY3Q3NnSVVGUTM0V0FRM19mU1RSak1UclBQQTBvV1NCbjg2eGdFV2I4WVVFOGxpbnkzSG5SQjkwaHNFLWUtM19EM3ZTTEZQOFJYdmxCM3l2TC0zdHJCUndhMUIweTM1ei1oQmJvOE9lSXpac3ByNnlKU0RhZldMSWRqS3dTOXlKVmNhcUJtUXVWeTJaZHBfcHljM0c3U3hjMmFTZjRmclNJclFkZmxZQ0Zua0FOSXhkUA?oc=5"
-      },
-      {
-        "title": "Głośna impreza przy Marszałkowskiej. Sąsiedzi mieli dość, policja wezwała posiłki - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORjFHZWVLOExZN2FfX1ZmRkhTdzRjSmlIUG9ySElMYi1SaUMzRXIyWVR0Y2syWi1yTy1QLTM4YWV6WklSOURxRDVaRXV5VGRRMHVQSjRoRDVoOHlVNzNUbzZIcldqYjdQVElaU0hrTUc2VF9NMEFyT1FEU1Y2RTNuNUxONXFYNlJMMERyV1ExOUxfUGU4WlJ1c1VvQTJ6YU5nNDNiNWxsSXdiS0thZlNKNjJVSEkxMGxoV1U0djNRTllvZ1hjTGtER1VvRTZIZk9wMDFZb2VpZw?oc=5"
-      },
-      {
-        "title": "Tusk u Wojewódzkiego i Kędzierskiego. Premier pokazał inną twarz - naTemat.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEtldEZvbGlHbVVpT2RpQkdXRnhBb01wR1c5Y2NoVzFULWRkYjQ2dGhMU1dBSWRyVEVsaHlUV082d0hpaWRrZ0JuMVFyRmdLanVURDBsLWQzUEJfS0NiTV9yU3ZpaTBjOWlRTlJJQ09QaXFzdEVVZGcwU0ZHTmt1SXBvREpLMVJUZEtuX1kyZlZYZ2l3LTcxeNIBngFBVV95cUxQS2VHbzJRaHF5Z21rRk43SG5WdEQ2cXdrdjlxNHh4MmEtLWJqclF2LTZhMkRpMmJURWkwU3pEb2padFd6WlVUOUJRTlk1S3VqY0hHWmxsdFF2VEFvZ2l5bUo1NzR6ZWh0V1JBSG12SUdWT1dVOTNDbGFHWjVuUFVULTFHdnh0eWdPVGNFN3F2UVdOd0ZoWS1vYjQtLTdwUQ?oc=5"
-      },
-      {
-        "title": "Matka skatowanej Madzi zmieniła postawę. Szykuje się do wyjścia na wolność - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcURUY3E4N0RwbE00dVdTS011ckNxYWtuYVdfT3RiTWtCZGpmWkpueW55OEFBelFSU1F0TjZ0TTZwRmVza2QyelA1czhZNmgwcDFOVTRyc2pwSEp0MG9GLUpXWTQxUWRFWTFRbHFabnBxSUpvQ3Fkcm5mNnJXWFp3VUZGTnhadFEyVDRJZFE3YUxHbU5PaHpJNTBpZUJ6TEJ3UG02U2VB?oc=5"
-      },
-      {
-        "title": "Zaginięcie Karoliny Wróbel. Mnóstwo policji nad stawem Błaskowiec. Czy będzie przełom? - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWlETXlLb2M2YTVaRjY2bUVFN0NjdTlrMWNBbXd2bWlfaTZ1eU11ZkJzamQ3bVF3N3E3V3hpclJTNGk1bmd2MUpWOHpnZHo4MjVXQU81VDRCMHBud2RWQkdwYXVfRldDUXM3djhGMzMzUmZDMVBYYzlseHJDOF82WUI3cHdJNGt1emlzbHQ0R19lRTVQYm5XMG9rS2ctQWdiOTN6TGZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-18 14:24:58",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2625,6 +2572,59 @@
       {
         "title": "\"Spektakularne\". Francuzi w szoku. Tak media piszą o kradzieży w Luwrze - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOHBWZFdPTXJmeXFRQVUzajVJa3pJWDNzUXJKLXh3b0VYRXp4YU9RWXBjdHhMMXZxd1U1MF91cUNPSEh2b0ZReWh1RnRreXhOUzc0SF9Xb2VHVkNCNnVjMjZFQ0FVa0JkRXpQSkFKTlJmUVhTeGM4cVdXakNfWWNscF96U0J1dEM1X1FSeUlZU3doMUlDRVNIZ1c5dGV2Y09Cb2dwVnZFNlBaZnV0aTNqMzVZbktjR3EzUlk3RlFPOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-20 19:12:40",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6349,
+      "EUR": 4.2396,
+      "GBP": 4.881,
+      "CHF": 4.5866,
+      "JPY": 0.024139,
+      "AUD": 2.3617,
+      "CAD": 2.5905,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 402169,
+      "DOGECOIN": 0.721166,
+      "ETHEREUM": 14348.84,
+      "LITECOIN": 343.93,
+      "RIPPLE": 8.91
+    },
+    "indices": {
+      "^WIG20": 2916.61,
+      "^WIG30": 3779.2,
+      "^WIG": 3779.2,
+      "^NCINDEX": 282.15
+    },
+    "news": [
+      {
+        "title": "Tragedia w Łódzkiem. 75-latek zagryziony przez kilka psów. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVpUaWFhTHlpQzlBZ1hGbEdoeG5aZlRFVlJ2VGE0bzZEWE1PMjVyMzZGNWR1bWtmYTM5UWtVU20yWWxkT0VpNU1jSE80dFNZXzhsX0prd1NLbnJjUko4OHo5dVdNemN1d3R1bE50RGp0RWJ1UGhGeUc1ZWFsakNFblMwV3NjRXBHdm10YXFZYUlMX0pSdHhSeW5hU0NPUVZWazRGWGx5WDNtWGs1VlpqTG93aHJSR1NnMGVNcXo2UHpEbjk1REt3Zw?oc=5"
+      },
+      {
+        "title": "Tragedia w Kołobrzegu. 1,5-roczne dziecko nie żyje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVNsSS00aVVLMDU5dHhiMDZnd2JhX2dEWnhEQ2IzMWJJRHoyb2F0aFJiS2F1R2MwaER5VHFRVjg2eWVvZlJ0ZE9mczBLcnNmSV9PWU5CeEtxOFNSV0ZLSmx1RklPbndla1Yzb0dGZ2ZSb3VLQ1ZDYXdWaUozZHE1cEFoc2NlR1hKOE5La0x5YVJnQ2lpYXAtUUVWN3o?oc=5"
+      },
+      {
+        "title": "Minister energii komentuje zakaz dla gazu z Rosji. \"Historyczna decyzja\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjl4R2VxbXdDWnRGaWk2NVk4WWtpTmtHLUJJcDNSamU3bnBuMXo0aXpELUxSUU5OcjNSS1MwZFBkRVVLRGo0V3k4ZWdmMzJSc1JNM1FzYkdrTHdVY3prU2xBTjhjU2Q5WlhxZDZRUzNWNVZEQUNjYVVaeVI5dl9ieE9kelpfSEtIS3JFeWJtM2RBcW1qcVdBbzV6LUNaWGZvV0NxMzdRVDZDNmhXMFVGVkhVYXNrREtDM1doTFp6aUR3QQ?oc=5"
+      },
+      {
+        "title": "Miliardy dla Polskiej Grupy Zbrojeniowej na inwestycje w program Narew - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTDlQR1VYVTFValV2bGNvX3dEdWdlcFRrSi04R1ZnQXQ3YkxTTHBmZ0VRQllTVnpaSTBMMFZ0ZWFqYzRBZ0RaV3cxVGYwbGpNWXVRV3dFT2k0aFE3VUE1Rk5uMmM0aEFBODc3b3ZWUU80Wmc5aVZQNUVCNVF2dnI5NHhOellVR1BrbjROZHN5WE5JS0RHNE1pTzBUcVJVVzk0azRJV3JvUG9hU1huZXc5U3RiSFJhN1lFQVJieU5Kc2Y3Zk0?oc=5"
+      },
+      {
+        "title": "Nawrocki sugeruje weto. Stanowczo o projekcie rządu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnZqUnJLa2c3MHJkazhhNXZUbDNHM2Uwd19wLTVuREJOeTJrWDM4WkwyX2c0a3d6d3ZWQmVtVEFnZGNkMnFsN2pCZTFzRTgycHcwUGtBd0loV25TS3JBVFp4TlA1VVlhMlpwZ3ZnRjhvX1R3ZUNya3FPcEpzY2daN0lhS3ByLUF6Tl84SjZVVkZMZUxXbG5ZSA?oc=5"
       }
     ]
   }
