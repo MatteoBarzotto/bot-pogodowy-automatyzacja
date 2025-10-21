@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-19 08:19:46",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6388,
-      "EUR": 4.2565,
-      "GBP": 4.8847,
-      "CHF": 4.6096,
-      "JPY": 0.024294,
-      "AUD": 2.3506,
-      "CAD": 2.59,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 388931,
-      "DOGECOIN": 0.690507,
-      "ETHEREUM": 14159.41,
-      "LITECOIN": 335.43,
-      "RIPPLE": 8.56
-    },
-    "indices": {
-      "^WIG20": 2872.02,
-      "^WIG30": 3713.72,
-      "^WIG": 3713.72,
-      "^NCINDEX": 280.05
-    },
-    "news": [
-      {
-        "title": "Władimir Putin miał przedstawić Donaldowi Trumpowi warunek zakończenia wojny. Nieoficjalne doniesienia - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFJoWE9xZjF6eXRXTUE1aGtWQzJSTDJLU0VPUDRNTE5UUFF2VVZWaWg1c2p3SzhmNUNkRnZVSnM2T1BuZGx3S3VNQkFaUjJ1MUtfQVdIenB5V0xDbDhJOTZTdUwtNzVwdW8xQWJxbTVZUHFvZDVoUXMtYkRhYVBwUUkwWC05dnpwNEcyZHNQMzlZTnFMM1FXYnVHM3c3R19OdWF2NmpUYUFBWnNCWGp0UHJucFlHbVlOLWt4OA?oc=5"
-      },
-      {
-        "title": "Protesty przeciwko Trumpowi w USA. \"Jesteśmy tutaj, bo kochamy Amerykę\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamdmX3QyeHZsdlJycW5kMzE1NE1JbmNKX0dwQ3IyRmU4eWhWbGpfd3NITFdJVXF0d1lvQkNRNklhN2ZYVFhuNldjV0lFYnhSOTdwdXFpMnJXVk43NTRaemxBVjgxd2kwTTVCQW1fMVc3WGhJa193d1JfenVYMWZQRUNzY2FFRHZMbURRQjdiazVpZTJHcExBVnN5dnNJR0hwczNIUkxRRDYyUzgzTXJqT3lCUVhjQ1VaTjVEcHREWQ?oc=5"
-      },
-      {
-        "title": "Donald Trump zdecydował: Nicolás Maduro musi zniknąć - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXMyRkN3UHZERm5CVFBERkxlaEx1a05renpiNXVoS3ctNHd6S1RONG5fUGg2OGU3c1pPMTluTmhJVGhfMF95akZVX2d0a2hUSENCbngtdGFad19BZlcxY1BQOWh4ckllRjBSR2ZZVjRFRHJPUmFNR2hNUlR1YzNKVUNnZ3Bsdw?oc=5"
-      },
-      {
-        "title": "Niemiecka prasa o wypowiedzi Schroedera: bezczelność wobec Polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDRvTDFjc3lVUHBjZXI1TF81b2pEMURZVzh5SDl3akFqdXk5TDI3ZlNyR0tnaWk5WHpzalA3bmJjTGoxUFFVTzJ6RTBsUHZXZ1BDZ2RYR1dDQzJnNURRVXlta2RJVzFQVFhQNlB4Sl9zQWhkamFUcVNCcEZzdTUwWGJCS19ZWm85N1luOHFBUkw5NmxlX1VwdVJhMW5pbkRnaTNwamxWSDk2T2RwczZpeG9ZSzUteWhoZzBJLUdTWi1ocUhHRnc?oc=5"
-      },
-      {
-        "title": "\"Wystartuję i wygram\". Stanowcza deklaracja Benjamina Netanjahu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDVZVFZFNTZRWHExaUJ2NWRnWmQtTDJIUElxVFBMVHVSVEhFcmVzcS1mRVJkbjRqRE9ScnVEMWpTaXNWajdKUXF3NnZNZlc5T3Z1ZVo1UVY5cnNPWkRNVkwtWXJ4SElLOGFPbU0zYXlYbC04dU5OUGEwT0VobENwVFVtdm5mYjdLSlA3OFVMOVhoZ3hUYTRUVFFLVExBck5XUEttdzh4SE95MVZ6?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-19 09:11:47",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tragedia w przychodni. Nie żyje 6-miesięczny chłopczyk - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenZLNktSQkVBb09GUWVwTjhYUkl4cmtUSHk1dTZ6WV9sS3hlZ0xKMmhjWk9KblJxNlViZnlobVpRYnB5QUZKZWRSTXA0Y29CckZJN2pVMkU5Mm52cEZ5ZGlrN09YNXZ3VDIxdGo1b3hVSGR2TmxfSHQ3T1FWVDJvZlpROU4wTjJWUWN0eENWX0VLNVBkRVY1elZkZnpIWjcyVE9qX0l6WnJVeUlwYkhWb1ZuWnoxWnM1VnBiUUNleHo?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-21 14:29:15",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6479,
+      "EUR": 4.2392,
+      "GBP": 4.8811,
+      "CHF": 4.5961,
+      "JPY": 0.02406,
+      "AUD": 2.3656,
+      "CAD": 2.5944,
+      "CNY": 0.5124
+    },
+    "crypto": {
+      "BITCOIN": 398398,
+      "DOGECOIN": 0.714421,
+      "ETHEREUM": 14259.44,
+      "LITECOIN": 341.75,
+      "RIPPLE": 8.91
+    },
+    "indices": {
+      "^WIG20": 2919.66,
+      "^WIG30": 3783.45,
+      "^WIG": 3783.45,
+      "^NCINDEX": 281.5
+    },
+    "news": [
+      {
+        "title": "Akt oskarżenia wobec posła PiS. Nowe informacje z prokuratury - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0JpZmc0SVNRd2F6NFZ6dUd5ZXZvQ2NNM0JBS2xOZW5IZW1JczhCZ0hnWUZvOEJFTmw3MW9CU3h0S0FIZnZjRlNweEFWTUdodkl2NmNLVmVScXdWZnpZdzFlTlpUMDlpdHlMc2l0WFpGa3RselRRYTF3eEpuTDBNNVZ5ZHB4LXFl?oc=5"
+      },
+      {
+        "title": "Zwrot w sprawie zatrudnienia Agaty Kornhauser-Dudy. Mamy komentarz rzecznika NBP - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYllLd3NIaW1NWm9faF9PNEJ6dkN6S2RtTVk0U2ZSd2J6RExVWFFIMkJfWDFfRDBlZjM1ems3NF9KM0I2NkhSSFA4V2NFRU5vTXQzSnhBcl94WHJSQlNvaEw3ZjdRQnJOdUVadFBpeGlwbDd0RUNvR3phdGZJc3dINmJwbk1sZC1VeENpUmRNdUV5WDltUmlqZnBINmlYWUJSWlJ2T1pEZzRxcm52YTV0TEw5NkFUTG1pVy1zaw?oc=5"
+      },
+      {
+        "title": "Polska przechwyci samolot Putina? Ławrow grzmi po słowach Sikorskiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWl9XY1BabXVnb1I1cmNaUWVUVy00RXlDVV9udkhzdkdrUkgyQ1pIWFl4VkZoYVRNVUxOX2JzVGxoUWJIZHFxZjdfOGo4WmFVQVhVTE0wQ0RrZG8yWlgxZ3luT294V0FncFBweldDZDJZZDdhdmQyblo0b3JaTGx3Sk02UlVGS0RsRHM4Mnd6NUQxUnlVZURvT2ZETUZ1cGw1RTFyQXoteGNWWXc2WWswVHMxZ0NtYVk?oc=5"
+      },
+      {
+        "title": "Informacje ze strony premiera Tuska były nieścisłe. Kulisy akcji ABW wobec dywersantów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTVzbm5ycDh0cTJVSW9TLTRrbDR0TklUR2RVbldYU0ZtbmtZdmplZDh1LUlyeUY0RWxzYzRlOTBxcFN4WEpJNjRSUGZxUEJyN2NmckR6UHhZcEpVdWR5UlRnQ2txUktCUFBlZ0VUUHR5bkx5SlJBSFZkX084RUtWTFdKWXZDNzdrYUU2UkdPdG0xVnJBSjNxQnhsNERER3hqcVJaVm9oYnlZLXdZTWZKWXdxSjkxT0l4Y0Zj?oc=5"
+      },
+      {
+        "title": "Sarkozy już w więzieniu. Pierwsza taka sytuacja w historii - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SRkRXSnVpcXVLSHNveGJCT3lVS25wSl9MOE1XS3hzT294ejROQmQzQjRieExMb0ZoakpVS0VZTU5vYWtjWHdRWWlvX3hSS1hUUl92WTdpSFY0eXJXRktLaVV5VlNxamg0VTJ0WWVKUnBudVhp?oc=5"
       }
     ]
   }
