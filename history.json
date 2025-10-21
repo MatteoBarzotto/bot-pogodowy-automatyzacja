@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18 22:13:44",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6388,
-      "EUR": 4.2565,
-      "GBP": 4.8847,
-      "CHF": 4.6096,
-      "JPY": 0.024294,
-      "AUD": 2.3506,
-      "CAD": 2.59,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 389961,
-      "DOGECOIN": 0.689966,
-      "ETHEREUM": 14163.71,
-      "LITECOIN": 334.93,
-      "RIPPLE": 8.62
-    },
-    "indices": {
-      "^WIG20": 2872.02,
-      "^WIG30": 3713.72,
-      "^WIG": 3713.72,
-      "^NCINDEX": 280.05
-    },
-    "news": [
-      {
-        "title": "Biznesmen czy \"gołąb pokoju\"? Ekspert tłumaczy: najbliższe dni wyjaśnią, kim naprawdę jest Donald Trump - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjNBUjloeGlpZ0tLUXdSUUswajF4QWpUU04tRjBLOXVDR0R1cUtiRkhkZTJpZzB0eElIdUlZNjc5eFhVQnF1MzRUMEd5M2Y2VEQ4b3JQbXdXT3NsTDU2OXZScFF6c3RBNU54Rjc1ZlBpRk1yV19BOFpQazFNRkk3NzY3TFRzQlV5TmE2YlhSc2ZfcTdNZ0xuRXRzNHlfVWJKMXZOZ1l3?oc=5"
-      },
-      {
-        "title": "Wypadek polskiego autokaru w Austrii. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWdWckFEMUN2bnZiRmgzUDR6cjEtb3hTYjAzbGJrbVdSdVJxOUtXa1pIa0puTG5pUXAzbFNrMjVQLUZ4My1CVGlOWXRuZGxEYWVHSUo4X2hJXzhQTE5jcmxjWWVNVnJ3SHJ4VVY0NTFOcEZ3cFNzNV94S1NSdGF1bVZiZzNmbm5LZk02OG1LUXlKWENzcGo4Vk83NExtNGFyaVR5ZUw2eEM5QlE3eGp4S2VwbnpvZw?oc=5"
-      },
-      {
-        "title": "Potężny pożar na lotnisku. Wstrzymano wiele lotów - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdks3RXo5WHFHc3dtejF3VmFDX2xEZ3E2ekhTaFJuaEZoR2c5Y1F2ZGp5TnBjNU9mdm1ucGJoMUlnTE43RTlfOF9kUmJPaDRvdThXRE9YRXQ0MkdtN09sR2syXzRKQXl1dUMtZmwyNTRsVHBxT0tOX0dabDBsRDh6Vnhla2c0TEpEUzVQZ1ZOeVg5LW9QTWlVRi1DV25xUXM?oc=5"
-      },
-      {
-        "title": "Kolejne kłopoty sędziego Jakuba Iwańca. Decyzja prezes sądu po pijackim rajdzie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenpkSlZobmM5bVY3NVpIeVZiMmRtYTZpYjdiMUN6UWxwdzlGVjJFemhlQjlLTnVYMG1yekNXWFduUTZBNHh0V3RhZTVfd195U0ZNMFptUWdacHhXM0U0WE9GSkptSmF4N0NMelI1UjkyWjMxdS1fMFJ2SUJZalRsYkFFVEJYQnAta08wZUFkbGhrM1dXUHhhOWZwUDlDWjdRVkkzR3NMVEdLLUlWTUExTDF3?oc=5"
-      },
-      {
-        "title": "Ukraina ma coś, czego nie ma nikt inny. NATO zaczyna zdawać sobie z tego sprawę. \"Wyjątkowe atuty\". - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0pod2FIMGtUUDBsN1pVMTFyUTMzSjNjZk5IbFBobHhHekxiNHpjdmRMdjVqSDI0SThmNHFYS0JHcDVtWU5tTHJ3X2FudElPb2x4bTRNTkU1LThuY21fVGZIbWMxdTNVamk0V05HcjhPci1KMHVWb3doUkpDNm1XOW5WWGhqVUlNM2VDQkoyX0ZUZlAxVE1VcU5wUXRzWVZFY19SRVR3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-18 23:10:58",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Krzysztof Śmiszek szczerze o swojej chorobie. \"Atakuje moje kości\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnpGUW5tVHJlSFVyUl9RYmlBVmJvdjRSNHFXRGNMZU8zQ0RTUk1Xa1paekRwSTE4aEpsRmdNVUs3UDZKUzJ4SVBjeFd3UlNNTm55YnRkY0NWN3NqLU5hOWpsWlUyMWloMmladWVtcUNxMHRjdnRJeXIyNGcya0RjRDRrbjRsUk1pOGhmY3NUU1czUDgyM1RTNFlxX0k4NXJiNW9lQURQQmFiZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-21 06:16:32",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6349,
+      "EUR": 4.2396,
+      "GBP": 4.881,
+      "CHF": 4.5866,
+      "JPY": 0.024139,
+      "AUD": 2.3617,
+      "CAD": 2.5905,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 394245,
+      "DOGECOIN": 0.707321,
+      "ETHEREUM": 14116.89,
+      "LITECOIN": 335.79,
+      "RIPPLE": 8.86
+    },
+    "indices": {
+      "^WIG20": 2916.61,
+      "^WIG30": 3779.2,
+      "^WIG": 3779.2,
+      "^NCINDEX": 282.15
+    },
+    "news": [
+      {
+        "title": "Atak na siedzibę PO, Tusk uderza w Kaczyńskiego. \"Podpalacz z Żoliborza\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0ozbzRYNGFJNjdIcWM3S2FHWVZxS1BxdW5VU3VhcmdwWXVGRUlLQWZackhuWXg1al9nVnl2UVBzUXFLaDRDTEd5VHdLbGpySlE4ZUk1eWpZbzlWdjEwbHpyVThUVzBSTjQ4NUdTNktXdHM4M2pYb1JaYklhMWx5Zm5ILUU2endhTHBfbTE2NGlsU1N1UEttUmNmVi14Z0VXcXk4TUswbERfMXJnNFNYY0F2Y2xmbm8?oc=5"
+      },
+      {
+        "title": "Spotkanie Donalda Trumpa z Władimirem Putinem. Prezydent Francji apeluje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdUNqNjlVM25JLVMyVDcwS2NPem5YLXlvekF5UGZaS1RZTHpYdDlIOXltZFpabFpqcmdRVWlELTBYcFgxS0liQXNfakYyaVZETWtjWnpXWVNDdDFJSkNaZ3lJUVNkSFZPaFV5cVVQU1Y5Q1cxYTdWSFFmWDY2cF9GM1p5ZFlnSmRtdEVLdlJ1ckc4TWtxYjFTRVJYTWhxZldmcHdROXZCd1dXNDRvci0xT2tMWmk4bzNCNDZCY29WQVFUMGdSaDNRLUFOaVRuZ3M?oc=5"
+      },
+      {
+        "title": "Mężczyzna śmiertelnie pogryziony przez psy. Nowe doniesienia o właścicielu zwierząt - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaWZTcE96cE02cWtUVzdZTGhac2JDc2N5dGg2bU5aOHVCOWZ4Y1lDNGhoWjdjRnZpTS1ZZVFoNXRGWW9IeEswMlJSZzlNc3UwbElUdXNfUHVNdE1xRVMzSXhMRFBMT2QyRXNpZnRxQ1N5NjVuMTFVSlB3UTVzcEViVXZSRElzMFhUUzNCd29aM3M1SXhrNkV0eS1RYS1fNXlERDlJeHJ6NC1xQmlrQ25WQ0FHYXFBajlYeC1pX1pKa0J4TU5teGI0Nk9DaUNpZ0doN1picg?oc=5"
+      },
+      {
+        "title": "Polska na progu dużego zwrotu w pogodzie. Zacznie się już dziś. Mamy nową prognozę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkg1cHotX21BUDVHcGtLcEVLYk1kdXlidW11LWY4ODRrTnpmS3p3ZUNUSk9USE9TSGNiYnQ5OWs4THBLSVdzX25lTTFkSkhjZ3VzVXZfLUs0WnVJZ3hHc194WF9KVHNlNFF0NWVfOFU1dnZOSnIxNlV1NXc5M0U1dGZJNU1FN1hvdEFxb3pxTjN2cndJaUEzRmNRcGJ5blIwbmtyNFBOcXJDNnpGcVF2V2xqTFlmdjR2NzkzcHNPcGY3V2JNWXhNLQ?oc=5"
+      },
+      {
+        "title": "Spełni się marzenie Donalda Trumpa. W tym celu została wyburzona została część Białego Domu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlV3OVA5UG84RllmZWFEYlExb2xTNzdPM0czTnQxVW0tLVhiejhPQ2x0Rmk3UmxKc2JsUGpSTlFXNU5rX1Nua1B0bjV6Yk9GeHFEVGRwc25ndnE4SFBXMF9Ka2g4d0NPaUZZOUkyWXVNMmhRM01JRkYydVpIdlZGWWlSZm1ZN1JaTmNtOVc1TUQtVVZGUzQyV1VqMzk3RDhqeDJlYUxra3pSQW5HVFlSUy1TODdwc0ZYUGFWNlp0TQ?oc=5"
       }
     ]
   }
