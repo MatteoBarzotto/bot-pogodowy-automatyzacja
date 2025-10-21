@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-19 09:11:47",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6388,
-      "EUR": 4.2565,
-      "GBP": 4.8847,
-      "CHF": 4.6096,
-      "JPY": 0.024294,
-      "AUD": 2.3506,
-      "CAD": 2.59,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 389070,
-      "DOGECOIN": 0.689014,
-      "ETHEREUM": 14149.47,
-      "LITECOIN": 334.91,
-      "RIPPLE": 8.56
-    },
-    "indices": {
-      "^WIG20": 2872.02,
-      "^WIG30": 3713.72,
-      "^WIG": 3713.72,
-      "^NCINDEX": 280.05
-    },
-    "news": [
-      {
-        "title": "Władimir Putin miał przedstawić Donaldowi Trumpowi warunek zakończenia wojny. Nieoficjalne doniesienia - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFJoWE9xZjF6eXRXTUE1aGtWQzJSTDJLU0VPUDRNTE5UUFF2VVZWaWg1c2p3SzhmNUNkRnZVSnM2T1BuZGx3S3VNQkFaUjJ1MUtfQVdIenB5V0xDbDhJOTZTdUwtNzVwdW8xQWJxbTVZUHFvZDVoUXMtYkRhYVBwUUkwWC05dnpwNEcyZHNQMzlZTnFMM1FXYnVHM3c3R19OdWF2NmpUYUFBWnNCWGp0UHJucFlHbVlOLWt4OA?oc=5"
-      },
-      {
-        "title": "Warszawa. Dachowanie na Wisłostradzie. Media: to rosyjski samochód dyplomatyczny - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3hVcHJKelc5YTRkM1BjckgtdnFnMVJ0VGxOZ2hQZG9ub3NLelBFNmJ2LXA3czdkUFIySkg4bEFFX0EtRWxzUFZnWlNWcXpKNVBEYWZTSFZYNDdHYzFLWU16RlkzWERTVEFQeFJic0R3cERtempaQUxvMndMLXBVVk90ZTFETTJoNDR2WFdILW9jcFV4UHN1WEs0QVJ2bG10bWFNbmdwRGcwejltR196MUl1Tm5JQ3M?oc=5"
-      },
-      {
-        "title": "W USA zawrzało. Tysiące ludzi na ulicach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0htZGFsZHg1dWFxTVl6T0hIWDdOSXZoNkE0M0lZcnBrdENvVWdpSGp5OTRQZWlhZEVkX19WUEQ2YXQzcC1acVplM0N0TFNmLUtmUXZBZ2F2NXRKY19McGM1dGFyTlNWZkk1SHZQeDJXdFdQMGdqaW50SlVkOTFfelppRkJtOHJyd1E?oc=5"
-      },
-      {
-        "title": "Niemiecka prasa o wypowiedzi Schroedera: bezczelność wobec Polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDRvTDFjc3lVUHBjZXI1TF81b2pEMURZVzh5SDl3akFqdXk5TDI3ZlNyR0tnaWk5WHpzalA3bmJjTGoxUFFVTzJ6RTBsUHZXZ1BDZ2RYR1dDQzJnNURRVXlta2RJVzFQVFhQNlB4Sl9zQWhkamFUcVNCcEZzdTUwWGJCS19ZWm85N1luOHFBUkw5NmxlX1VwdVJhMW5pbkRnaTNwamxWSDk2T2RwczZpeG9ZSzUteWhoZzBJLUdTWi1ocUhHRnc?oc=5"
-      },
-      {
-        "title": "Mamma Erasmus nie żyje. Jest komunikat rodziny - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXZVdm9GS25lMzVtcDdsUjJ5eDE4N3plVUlyQmwtcmJ1UDJ5UXZ1eWRNMG13TTV5MDVQSllPdGc1MlozRk9JeDJaYWFDaDVxdXZqNkFrYV9oWTNvY2xZWEdGSWtsX3dOWExRT1lac2lkZFVuUndWcTkxS1VCNDNmbkdDeXZ6OV8yZ3N6U2djWWRWZk1MQm82UVFDNXlvRXpLbzBUbmJBSQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-19 10:15:55",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Sarkozy już w więzieniu. Pierwsza taka sytuacja w historii - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SRkRXSnVpcXVLSHNveGJCT3lVS25wSl9MOE1XS3hzT294ejROQmQzQjRieExMb0ZoakpVS0VZTU5vYWtjWHdRWWlvX3hSS1hUUl92WTdpSFY0eXJXRktLaVV5VlNxamg0VTJ0WWVKUnBudVhp?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-21 15:29:19",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6479,
+      "EUR": 4.2392,
+      "GBP": 4.8811,
+      "CHF": 4.5961,
+      "JPY": 0.02406,
+      "AUD": 2.3656,
+      "CAD": 2.5944,
+      "CNY": 0.5124
+    },
+    "crypto": {
+      "BITCOIN": 396408,
+      "DOGECOIN": 0.712114,
+      "ETHEREUM": 14165.36,
+      "LITECOIN": 339.34,
+      "RIPPLE": 8.84
+    },
+    "indices": {
+      "^WIG20": 2919.71,
+      "^WIG30": 3783.33,
+      "^WIG": 3783.33,
+      "^NCINDEX": 280.93
+    },
+    "news": [
+      {
+        "title": "Zwrot w sprawie zatrudnienia Agaty Kornhauser-Dudy. Mamy komentarz rzecznika NBP - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYllLd3NIaW1NWm9faF9PNEJ6dkN6S2RtTVk0U2ZSd2J6RExVWFFIMkJfWDFfRDBlZjM1ems3NF9KM0I2NkhSSFA4V2NFRU5vTXQzSnhBcl94WHJSQlNvaEw3ZjdRQnJOdUVadFBpeGlwbDd0RUNvR3phdGZJc3dINmJwbk1sZC1VeENpUmRNdUV5WDltUmlqZnBINmlYWUJSWlJ2T1pEZzRxcm52YTV0TEw5NkFUTG1pVy1zaw?oc=5"
+      },
+      {
+        "title": "Siergiej Ławrow ostro odpowiada Radosławowi Sikorskiemu. Chodzi o lot Putina do Budapesztu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnZtcnFYaU5UYklNa0FSbmhVaU9KYnNXN2k2QzFMbzRPTGxMUlZ0NFYyUnpfRC1udElna0VxSDR4MEpmazlmQnFuM1VGUU8tM21OUEVCV3o2b3ViaUt2dDVwLUk3Q3UwdVpxenI3cEtSdWEtQUhsOHhxX2tybW5vOTVERC1PLTZENVU1S2xQVm04ODkwckRZN2JRTDNNQ3FmNm9nVGhNanB0cmtBTmlYcmd3?oc=5"
+      },
+      {
+        "title": "Informacje ze strony premiera Tuska były nieścisłe. Kulisy akcji ABW wobec dywersantów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTVzbm5ycDh0cTJVSW9TLTRrbDR0TklUR2RVbldYU0ZtbmtZdmplZDh1LUlyeUY0RWxzYzRlOTBxcFN4WEpJNjRSUGZxUEJyN2NmckR6UHhZcEpVdWR5UlRnQ2txUktCUFBlZ0VUUHR5bkx5SlJBSFZkX084RUtWTFdKWXZDNzdrYUU2UkdPdG0xVnJBSjNxQnhsNERER3hqcVJaVm9oYnlZLXdZTWZKWXdxSjkxT0l4Y0Zj?oc=5"
+      },
+      {
+        "title": "Akt oskarżenia wobec posła PiS. Nowe informacje z prokuratury - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0JpZmc0SVNRd2F6NFZ6dUd5ZXZvQ2NNM0JBS2xOZW5IZW1JczhCZ0hnWUZvOEJFTmw3MW9CU3h0S0FIZnZjRlNweEFWTUdodkl2NmNLVmVScXdWZnpZdzFlTlpUMDlpdHlMc2l0WFpGa3RselRRYTF3eEpuTDBNNVZ5ZHB4LXFl?oc=5"
+      },
+      {
+        "title": "Więzienna cela Sarkozy'ego. Za dwie rzeczy będzie musiał zapłacić - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbjZsY0llU2g1aVRkOFNuRS1xSHJzaWdTSVdXQnhQODd2LW1mX19vWDc1cVdyZjJsRTlpaTQwTE5mckgxTjhYc3RrUTRfc0tEai1iaGtORHllMGJ4Y21PNWoxRHFsSGVwTVZnbGxJRnJMWjRBZWhIZkpQS0MwLVNiN2Q1bTZOYVhDOVctWEYwRGI4bVBCbEJfZlBRYUtnWmk5dXJ5c1M2T0NMY0FwcGZlV3RLRFJPWHFjVDRuVW9TR0RXQUhpVklSUHUtZlk1OGI4dW9V?oc=5"
       }
     ]
   }
