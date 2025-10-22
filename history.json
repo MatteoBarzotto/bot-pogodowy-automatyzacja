@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20 15:25:03",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6349,
-      "EUR": 4.2396,
-      "GBP": 4.881,
-      "CHF": 4.5866,
-      "JPY": 0.024139,
-      "AUD": 2.3617,
-      "CAD": 2.5905,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 402972,
-      "DOGECOIN": 0.729434,
-      "ETHEREUM": 14657.6,
-      "LITECOIN": 344.99,
-      "RIPPLE": 8.92
-    },
-    "indices": {
-      "^WIG20": 2911.34,
-      "^WIG30": 3768.55,
-      "^WIG": 3768.55,
-      "^NCINDEX": 280.55
-    },
-    "news": [
-      {
-        "title": "Szymon Hołownia ambasadorem w USA? Minister komentuje: ma predyspozycje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjJ4X2lCUS00OWoxUTBvckpYM24ydFF6a21BemszOUJZWjR1anhGQ0JwQU43YXRub3dwXzZTTHVOMVNHM1RlZHEtQnl0YjdFM2VwR0xPckRINDU0RjZMdTJzaFJ5c1hTTmpNMG9GcmIzSUJ0U2k0S25JQVQ1dk9fa05SYmJyVlBLbDc0cDF3?oc=5"
-      },
-      {
-        "title": "Ciężarówka zmiażdżyła samochód nauki jazdy. Co najmniej jedna osoba nie żyje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdnhZc2lTeEVaQzd5Ylh1M0lMak9aYzVxOE9YcmNoUXhqMF9IMVlUemU1VHNMUjFMUnB1Y2xTc181a2VFdU5hR0JiZ1phT0NnVGlnRlFkZmN0X2hzWTJFM2JHR3pOZmJ1amdNU0Q2RHVsUlRMR2x0MzdtNmhOSWViazNPNjItamNSVEY1TGNRQllGNGZkVHVaVldwSHV3OTFXSmtaUGc0d3M?oc=5"
-      },
-      {
-        "title": "\"W żadnej z naszych stolic\". Minister kraju NATO o miejscu Putina w Europie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVFpxV2UtdGtsV29QS2w1dzRwSlRCU0xMZFZxVG5hU0Y4N01wR1RibDl6MG1VRkxJNU02TXM1SjNGcFJ0R21tc2EwYllfYVNjUUoyOUgyTUx1QUE4dTVicklSQ3ZoMU1UQUFEVGs3bk9kTHd2Z1NlRU5GTzlQeG1ITHFnUFBPaTRPU21aU1E1VC1JVy1UNllZUkJhZkZYT0o1Y2xKMnNjTFFfZ3ZFcXBvY014SERKS09kOTIyQ0RGU29TZ21Wdjg0?oc=5"
-      },
-      {
-        "title": "Tragedia w Kołobrzegu. Nie żyje 1,5-roczne dziecko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYWdib3oxQXE4RmpRbXVqMHA0Qmg0ZFc2QS0wdEY5bTY1NkNjOWl5aXUySm1WaVhIZlhsR0Z3YVlsSFZLNGpaOUtLc3J1LVJKNjZoTVkwbno0SllsdFQtRDNEeWY3cXptZkVoU3NzRDJsSE53NUZiMzlaM1R1TmtYZEJfdzktVGtVQmFEZlo5dDEtRlpObnRZ?oc=5"
-      },
-      {
-        "title": "Kreml odrzucił plan Donalda Trumpa w sprawie Ukrainy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1hYc3JSUmY0MVFBR2pYWlhYNnJpQVlKWmpLVU1YelJhREhVTkpsdS1wc1JqVUxaMDdET2l3YllabDNjTjlzZ1YwNFJBWGR2SDhKZ1pjVUJzUGRXeUFxUzN6ZkJXU1E2RDE3M0tlOE9RTWtvZVdVcjJjcHI0Xzk0TVZOYUplMDZRV3lwVHRjNEJaZ3Q0X2YwbndrZUVOWHRWdDhUUTBSaWZOcE9ydTlMWE5JdEhlNWtBWG9JRA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-20 16:13:25",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Tragiczny finał poszukiwań na Górnym Śląsku. Nie żyje 33-letnia Edyta - Onet",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcF9GTFZMamd1SFJETDZDN2JXeTBySURCaFhhZDgzdzc0WDlfWE1Mb3NzUVU3SWtBMnFkclhvQ1liS2Y2M1ZKaFJtUTBHVHBualNqbEljM19URjdiY2tKdVFJTUd4ZlNWOGFtaUJvWlBPd0JkTXNiclNHTktSQXZsRWx6MVpMaFgyYTFselAtUkVNaE9HSjdjZjFORFJJNjlPRDZyMjh3cWoxOHlYd1gxREtYNmc4bUVvaE9GSmFINzhWakVB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-22 21:11:04",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +14°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6591,
+      "EUR": 4.2438,
+      "GBP": 4.8746,
+      "CHF": 4.5963,
+      "JPY": 0.024123,
+      "AUD": 2.3765,
+      "CAD": 2.6123,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 394638,
+      "DOGECOIN": 0.699446,
+      "ETHEREUM": 13943.92,
+      "LITECOIN": 345.4,
+      "RIPPLE": 8.71
+    },
+    "indices": {
+      "^WIG20": 2958.78,
+      "^WIG30": 3829.63,
+      "^WIG": 3829.63,
+      "^NCINDEX": 281.98
+    },
+    "news": [
+      {
+        "title": "Sprawa Pegasusa i córki premiera Tuska. Nowe informacje z prokuratury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUFYVEN3alRmVHZZdU80Yk5wcTgwWXhtc2h0OWRvMk1TZEJCMjZLSmJkS1RyWTFqTjdKdE9vWE1sZWd4T1VPdHAzMUpCSWdGLTYwTF8wQkREcndoTjVtY2pLZ21TQ0lXY1NRUGlkRmNTaTF6NWpleUdPRG0tWlJNb3lGU29EdWw4dXlEb2c5Uzg1c1RKOGlpN043UkNjejFLYUlaejVfMmVvdXJTNFdhZVYxYkF6eFFfSTdlZXdKSFNDek9OcmxwTGw3dw?oc=5"
+      },
+      {
+        "title": "Kawalerka Jerzego Ż. ma już formalnie nowego właściciela. Zmiana w księdze wieczystej - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2lkeTFzSGdkZkt1bW0wVEVJdE1NSmQ4aXplYVdvSlkycjZXbXlQaHpzR2pJbXNiUnRDWjAwa0t5WW5PVkNySjZreG5hMlNqUWNWZW9CN3lZbDFwd0F2WHY4RUpLdTNyRDlzYjZkY1ZrMDRHMUJZVWwxd0NmV3BDbUVfY0lIRGhBX2NSMVV0cEMzOU5mVVRkOExQeDFBMDU1VVVxS1VGaFh5U3M2dDdycUVNM1o1TDNNNUNwag?oc=5"
+      },
+      {
+        "title": "Tragiczny finał poszukiwań na Górnym Śląsku. Nie żyje 33-letnia Edyta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcF9GTFZMamd1SFJETDZDN2JXeTBySURCaFhhZDgzdzc0WDlfWE1Mb3NzUVU3SWtBMnFkclhvQ1liS2Y2M1ZKaFJtUTBHVHBualNqbEljM19URjdiY2tKdVFJTUd4ZlNWOGFtaUJvWlBPd0JkTXNiclNHTktSQXZsRWx6MVpMaFgyYTFselAtUkVNaE9HSjdjZjFORFJJNjlPRDZyMjh3cWoxOHlYd1gxREtYNmc4bUVvaE9GSmFINzhWakVB?oc=5"
+      },
+      {
+        "title": "Daniel Martyniuk wolny. Francuska policja wypuściła syna gwiazdora - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRE93M0RrLXRTbVlWQXhaNDNVeWtFTWtjbjNZdFZpSERnNl9HOC1TcDBWazV5YU5aTEh3a0ZreDlEd0xWdTVIZHdOS0ZZQXBzVGdqTGtXZFpuMGF1NUZvMWtpSHAtcHFMdUV1Z1hCX0p6aHJzbnQ1T2YtZjhEcE84bEJreWZJVkRDdTROdUw2NmVvMHlCTGlhNUc2Y19kQVlEaEdqekFoWUh0Y2ds?oc=5"
+      },
+      {
+        "title": "Szef NATO: Donald Trump ma rację w sprawie Rosji i Ukrainy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHBfdUF6QjhET3hkMHppaE83MGVnUGYwQkRqdlFoeldrZmdOUXRvWjc0c3NIRGJxZ3o0bE5RRkszU1paUVo3ZFhoWEhvazV3VEUtYVp4NE9KUWlPZEU3dXpRc1BmczN3QVpmLUM2dHpvNEdnRDQ3dUk3UjJTbkxsQWd1MWozVnduMlItdDZybHlfSTRZT3VSdUJod0tTZFRiMXVXN1ZDQVEwU1p4dEoxS2tJbUhyalo4bHZDQw?oc=5"
       }
     ]
   }
