@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-21 14:29:15",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6479,
-      "EUR": 4.2392,
-      "GBP": 4.8811,
-      "CHF": 4.5961,
-      "JPY": 0.02406,
-      "AUD": 2.3656,
-      "CAD": 2.5944,
-      "CNY": 0.5124
-    },
-    "crypto": {
-      "BITCOIN": 398398,
-      "DOGECOIN": 0.714421,
-      "ETHEREUM": 14259.44,
-      "LITECOIN": 341.75,
-      "RIPPLE": 8.91
-    },
-    "indices": {
-      "^WIG20": 2919.66,
-      "^WIG30": 3783.45,
-      "^WIG": 3783.45,
-      "^NCINDEX": 281.5
-    },
-    "news": [
-      {
-        "title": "Akt oskarżenia wobec posła PiS. Nowe informacje z prokuratury - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0JpZmc0SVNRd2F6NFZ6dUd5ZXZvQ2NNM0JBS2xOZW5IZW1JczhCZ0hnWUZvOEJFTmw3MW9CU3h0S0FIZnZjRlNweEFWTUdodkl2NmNLVmVScXdWZnpZdzFlTlpUMDlpdHlMc2l0WFpGa3RselRRYTF3eEpuTDBNNVZ5ZHB4LXFl?oc=5"
-      },
-      {
-        "title": "Zwrot w sprawie zatrudnienia Agaty Kornhauser-Dudy. Mamy komentarz rzecznika NBP - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYllLd3NIaW1NWm9faF9PNEJ6dkN6S2RtTVk0U2ZSd2J6RExVWFFIMkJfWDFfRDBlZjM1ems3NF9KM0I2NkhSSFA4V2NFRU5vTXQzSnhBcl94WHJSQlNvaEw3ZjdRQnJOdUVadFBpeGlwbDd0RUNvR3phdGZJc3dINmJwbk1sZC1VeENpUmRNdUV5WDltUmlqZnBINmlYWUJSWlJ2T1pEZzRxcm52YTV0TEw5NkFUTG1pVy1zaw?oc=5"
-      },
-      {
-        "title": "Polska przechwyci samolot Putina? Ławrow grzmi po słowach Sikorskiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWl9XY1BabXVnb1I1cmNaUWVUVy00RXlDVV9udkhzdkdrUkgyQ1pIWFl4VkZoYVRNVUxOX2JzVGxoUWJIZHFxZjdfOGo4WmFVQVhVTE0wQ0RrZG8yWlgxZ3luT294V0FncFBweldDZDJZZDdhdmQyblo0b3JaTGx3Sk02UlVGS0RsRHM4Mnd6NUQxUnlVZURvT2ZETUZ1cGw1RTFyQXoteGNWWXc2WWswVHMxZ0NtYVk?oc=5"
-      },
-      {
-        "title": "Informacje ze strony premiera Tuska były nieścisłe. Kulisy akcji ABW wobec dywersantów - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTVzbm5ycDh0cTJVSW9TLTRrbDR0TklUR2RVbldYU0ZtbmtZdmplZDh1LUlyeUY0RWxzYzRlOTBxcFN4WEpJNjRSUGZxUEJyN2NmckR6UHhZcEpVdWR5UlRnQ2txUktCUFBlZ0VUUHR5bkx5SlJBSFZkX084RUtWTFdKWXZDNzdrYUU2UkdPdG0xVnJBSjNxQnhsNERER3hqcVJaVm9oYnlZLXdZTWZKWXdxSjkxT0l4Y0Zj?oc=5"
-      },
-      {
-        "title": "Sarkozy już w więzieniu. Pierwsza taka sytuacja w historii - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SRkRXSnVpcXVLSHNveGJCT3lVS25wSl9MOE1XS3hzT294ejROQmQzQjRieExMb0ZoakpVS0VZTU5vYWtjWHdRWWlvX3hSS1hUUl92WTdpSFY0eXJXRktLaVV5VlNxamg0VTJ0WWVKUnBudVhp?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-21 15:29:19",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Prezydent Nawrocki nie podpisze ustawy Lewicy. Znamy powód - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGMtZGdBWXU4RmtFcXBEc1d3bV9rNUVweXQ5LTNMWUd2SXVoTFJnMUI4Q1V0X0xaLUlpeG5MY0VwU1lkTkxBSmlXcGNtM2VWZ0FGYkxnMjBPY0daY3R5bGREOGJFQi0xa0FaRGJ2QjE4YUtldEsyUWc2cXAydzlpeXZpNkpYNjJlMTRYRTc2Xy1ueUhlYmVSWGt0cWdSeW5Zb2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-23 19:12:12",
+    "weather": {
+      "Warsaw": "Warsaw: +17°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6519,
+      "EUR": 4.2347,
+      "GBP": 4.8745,
+      "CHF": 4.579,
+      "JPY": 0.023928,
+      "AUD": 2.3771,
+      "CAD": 2.6097,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 400709,
+      "DOGECOIN": 0.713219,
+      "ETHEREUM": 14174.54,
+      "LITECOIN": 342.26,
+      "RIPPLE": 8.75
+    },
+    "indices": {
+      "^WIG20": 2984.67,
+      "^WIG30": 3855.81,
+      "^WIG": 3855.81,
+      "^NCINDEX": 278.81
+    },
+    "news": [
+      {
+        "title": "Premier: prezes TK interesował się podsłuchami mojej rodziny. Jest reakcja - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeW1ha3MzREFzcnJ4YTJ4dDFMbHk5TXNSeFl2aGNRUFBUZzZrUzJiSGFBcVJmT0Q1WmNHdFlFN0VfZWtoN282ME1TbWItWXZrUDQzaDBLTXZ0ZUdxcVYzT0tfNUNzOE9ZRjJUOWVTYmdPb0VSX05CeW5vSjNQOVIxQkR1d2V6c2hoNDJPNXNIZ1JlNjN4VU5rY3hWM3V5RUFoT3dXVXdzZFZ0T2JwdV83TUdWQVFYTkZGdjlR?oc=5"
+      },
+      {
+        "title": "Amerykańskie sankcje uderzają w Rosję. Chińskie firmy reagują natychmiast - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUQ0M3cyZTF2REdLUGNiOTBRNDNEOEZfTW02ZEQzeWh2NXdSSU1RY3NiOE1ZUTNaSTVuODM0Z2haWjBMZ1BYN3JQOHpoTzhhSTJFc2VEVC05ZnVnU2lZVFFzanI0U2l1ODRRUEp5VS1SYkZKVDBmNzlqemxwamRXcUtxWExhdVd6SThfa2MwbThCRmF6bVlBaFFfb1EyaTZJM1hwOUlSdjZweHlzNl9wZXdyWnY?oc=5"
+      },
+      {
+        "title": "Łączy Polskę ze Słowacją. Najpiękniejsza trasa otwarta. Takich widoków nie ma nigdzie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzl5ZklHMEVTcGxNMFVTaFp0NDgxNmtuZmJLbC1mYXl6aFJWNXhHVl96bHNtbzh4QTlKYzVURndTZW1hdlZKM1FWR2NFQ1IwYzQzS1hUWW5VZDIwa3BSdlh1cXlLSlNDYmhzZ3gxdFNQNVEtMFRVSHR0cDBXdzlsOEpZQnZrUkJtZTNaZE5Sa2F0YTBxcUpQU21GTXZkWVpZbndsTmlFazlsbFh2NkJPN0hxV21vakdSN1RLaHhvUQ?oc=5"
+      },
+      {
+        "title": "Orban uderza w polski rząd. Reakcja na słowa Sikorskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUERWZEQ4b2d6U0t5TE1VRUhDeUdCZHhSS2JWbXppanV6cUU3UU9nN1JQeVJINWlxVHdSQ195blVsS3RMLXNTZjdkTnhKT3RHYXJjdGIxaGJ3c3NzYzBHdV9aYUtkZmtrenJUZWd4V2RXVDVKOWxvYmRfQkowT3hNTW1hTi01RWdlVnFEaTBDZHE5VjgwSnpXMFNySzBGQQ?oc=5"
+      },
+      {
+        "title": "Znaleźli ją w kościele, nie wiedziała, kim jest. Zagadka tajemniczej kobiety rozwiązana - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2dTWGc0TmlSUzVYaVpkZlBIYkp6YV9vLUxnZWhYaXZ6bU1JRnZqcWxlNXFYMk43eTVENHZQbnpMczMtLS1lNmR0Q040QVJndWF4VDVNMXBxX1lOY3BUMENVclhyWFJGZlBUV3A5ZEVES0lrbWJYR21PNm0zY0JSM2pVZWxWcUpuaDdERUo0Sy1fN0g3N0JJUy1qOTZxRDlmcUdnREdTMldzTGVrY25uUFItZ1lXdnplbGpMbWtOWm4?oc=5"
       }
     ]
   }
