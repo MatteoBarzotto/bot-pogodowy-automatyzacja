@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-21 12:15:10",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6479,
-      "EUR": 4.2392,
-      "GBP": 4.8811,
-      "CHF": 4.5961,
-      "JPY": 0.02406,
-      "AUD": 2.3656,
-      "CAD": 2.5944,
-      "CNY": 0.5124
-    },
-    "crypto": {
-      "BITCOIN": 393028,
-      "DOGECOIN": 0.706899,
-      "ETHEREUM": 14112.73,
-      "LITECOIN": 336.04,
-      "RIPPLE": 8.8
-    },
-    "indices": {
-      "^WIG20": 2930.13,
-      "^WIG30": 3797.27,
-      "^WIG": 3797.27,
-      "^NCINDEX": 282.03
-    },
-    "news": [
-      {
-        "title": "Zwrot w sprawie zatrudnienia Agaty Kornhauser-Dudy. Mamy komentarz rzecznika NBP - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYllLd3NIaW1NWm9faF9PNEJ6dkN6S2RtTVk0U2ZSd2J6RExVWFFIMkJfWDFfRDBlZjM1ems3NF9KM0I2NkhSSFA4V2NFRU5vTXQzSnhBcl94WHJSQlNvaEw3ZjdRQnJOdUVadFBpeGlwbDd0RUNvR3phdGZJc3dINmJwbk1sZC1VeENpUmRNdUV5WDltUmlqZnBINmlYWUJSWlJ2T1pEZzRxcm52YTV0TEw5NkFUTG1pVy1zaw?oc=5"
-      },
-      {
-        "title": "Nicolas Sarkozy rozpoczął odbywanie kary. Sąd skazał go na pięć lat więzienia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYndRT2EtS1hDTEVJQTA0dmRLOUZqVEl1YkxuTzlrMDVYVWtHTkotUktLT05CNlZjamtQaUtXOV9mUG5sbHpoLXk3cTdPalZBVlZNQjc4UGJwYmh2WHJ1am44d2pjSy1HVUxyRTRLU0d4ZjU2Q0hhaE5QbS1wVmZ1SVVfQWJkVDVSbnZsTjBRdEhxMmI1SVB5VXpFWTVEcUpfRG81ZE16VTVWYWxVS1U3TWh1S1dXZ1J4?oc=5"
-      },
-      {
-        "title": "Donald Tusk poinformował o akcji ABW. \"Zatrzymano osiem osób\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemo2YU9RblNNQ1d1T3RKTTRFUkhVN29iellkcDhSWTN3c0pXNGtSVU9YZmVsSlpjWl92TnJ4WDhjYm9ZREpwcVZRTzFhdzF5T0tZUTNKX3lTR05IZVpMdDZrVFhSRGlZYXNOMFprQzhBTWhyNFNWX1pTSkhiRWMtdFJ0LVRQUk9jQ2RBYUowMjhCVklKaHdvREQ5SFZhUHM?oc=5"
-      },
-      {
-        "title": "Ferrari, koparki i paserstwo. Mafijny biznes pod Tatrami - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN21fUFVyYU1OdVlncWtwRDJuREVYNjFUYzZsajVrTEowSkhCdy1NeF80X0dPaTJVMGRXenRjcnBoU043MTZxQTNWQ0ZZaU40Y0RPZ1hpYTMzNk9OczhrNUtYc2VNMlRZN0lQdEd6UTZDV0pzb1hFM2U3bTFzX0Ezb25Lbk5pai0xcTZmQjZxWnJkZ0ZMeGZEOHVRWHY2dGNZamFvUnlvQm1OcHp4TnF6X2R5UjhLZw?oc=5"
-      },
-      {
-        "title": "Miał być szczyt, a jest zgrzyt. Spotkanie Trump–Putin wisi na włosku - Forsal",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVV4ZTBuc2llcnA5bXNkZ3M5Tm1nTjRqZ0dGVWtxLXVZOGF6RVNSc05rRi1hMS1nMU1iY2VNSTF2T0gzUHBXbnNhNThBQkg5WGh1R1BESV9IMnZmVW4tZk5NRXJMUlk4T2FFblM4YnFNVjBZOWF0d0N2OFJfUVVCWDd6MFo0NGZDam9qTmJLUnRWWVgzaDd6X0JGTmN4NUNZNU1PUl9DajB4SUxveDRYN3NGQjJ1WDRV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-21 13:11:43",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Śmierć seniora przed gospodarstwem. Sekcja zwłok wskazuje na atak psów - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVoyQm0wcnVGRjZJa05nbUZEeHlJNndlV0pUOVRKbUowOVZ5U29idmplb2dEU0lrTVUzRWlOalF4Q3Z0cjBRM2p4RC1TT2VqOThGekdWQl9IeXVHdmlRV2ozVU9TRUdWWVFSRWp0ejU5ekhiaVBRdnZqM2xTaEhtVmlnalpscDNMR2RMRktmdXJvMnFFWkFpdGRmQnBKeHFHcHF2UXNYeVRvdmUtRlhNY1cySzVYQ2dzZ2RSS3M4RHk4Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-23 17:14:53",
+    "weather": {
+      "Warsaw": "Warsaw: +18°C",
+      "Kraków": "Krakow: +19°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6519,
+      "EUR": 4.2347,
+      "GBP": 4.8745,
+      "CHF": 4.579,
+      "JPY": 0.023928,
+      "AUD": 2.3771,
+      "CAD": 2.6097,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 399908,
+      "DOGECOIN": 0.71037,
+      "ETHEREUM": 14077.49,
+      "LITECOIN": 341.42,
+      "RIPPLE": 8.78
+    },
+    "indices": {
+      "^WIG20": 2984.67,
+      "^WIG30": 3855.81,
+      "^WIG": 3855.81,
+      "^NCINDEX": 278.15
+    },
+    "news": [
+      {
+        "title": "Dmitrij Miedwiediew ostro o decyzjach Donalda Trumpa. \"Ścieżka wojny z Rosją\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE4xZ1FNSU5fLTBtX08tUHZ2MUE2VWQyNFd3SDJMbVVZTG5uSU5jSlRLc19MTE9jSlhhaDVBQ3IzODg2MGw0WFExQnhXMWhEZWh4QnZIcmxHSHJnYVN6dVo3RVdlZGJ1bXY5dXptcG9iX3JlNWJwN0FDSnlNbXRTOWtKT0pjekF5YUJHTUoyZV9kYktpV0VUSFJoNDE4VFdWR25MblJkem9hU3VrTWhmWTB3Vjl4QQ?oc=5"
+      },
+      {
+        "title": "Już wiadomo, kim jest kobieta, która nocowała w kościele. \"Rodzina potwierdziła tożsamość\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHYzTUw4WlppRWVORWh2bmUwTDZPWG9XNEx0UHhDWVNHT25ZcXQ5RUVoRE0yWUZHeTBaN080ZGFYRFJ2N1RqYU9iQnR5RFdZMUJabzRxb3NVSTRFcTJzNG1ySzlYOEZ3WXNoNXo1UXNIM2tvdzFvNFlLejlxTFhPbHRuT3owMmNoZHZSaHhFS3NxR2Z3NUVqaWJFMUdyTllfOWg4d3lJLTFVRy1JQTZZVm5rdUNKZVZ4REpjbWZfVWtpdw?oc=5"
+      },
+      {
+        "title": "Chcą wykorzystać rosyjskie aktywa dla Ukrainy. Maria Zacharowa grozi \"bolesną reakcją\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdS11eVFNSVoxRkFSenpnTGtsXzhGeWtZa1dNWVVIdzRrdjNGaEwzU1lXT0ZIVTBKZkNocEhUNV9rc1VFNmlDWU5VRkxwcHUyNkdxaGFyUUgwZ3lvVlhKVEZSR0dQR0ZtdkY0a2d0ZndOeTFSQzg2dDRYRjZRdWI1NmhXZTFlQmZOYnF4VWNIdkNQNC1rUGMwMng0OVlWTHBEZFIwNDkySzk1Y1I3SDJndXg3cUhoRlpf?oc=5"
+      },
+      {
+        "title": "Nowy sondaż: Koalicjanci KO poza Sejmem, ale partia Donalda Tuska blisko 40 proc. - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTms4RVN3QzYwQ1h0dEhkclp6WGo5UXIxQXZfWGxwOXFkLUI4OXdLdXlBd2EtU3UtVVNoUTVmcEYzVjROamZrcTNjZk1ONEFhbXdveU12ckdMME9leEluQU9hUnJTTXotVDhZZC1JSDA2VFhFbFBzYWVTZDNIMFFTUF9yUGJkeENORjNUalhvYkI4UVU3YTZqTUpZS0FEaVVLc2lVVjZsMHM1dXFmUDA2dHpZc1lzM2VOaHg0NmRWWk5Hdw?oc=5"
+      },
+      {
+        "title": "\"Lewica dostanie marszałka, PSL koryto\". Wrze wokół dwukadencyjności - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlR1djFSUDl1M0FyNFFVcDliR3hsQlQtZEVfTk53X0tyb19iWDNmVm5jQ1RIMHZmc3Qwbm9jM0xrSkVndlQ5MHFGY0o5ZkR6Wkl2b0JIblZtb2l3Ni1vUnlrMG1NRFd5UHFrMm90NHhuWm1SeDlxbGd0ZzVtQmFUSS1LQm45WEY1bVEtekN0WDVwa0NSakdhS2xxSHRUZk16Vl94MUFUSUZzV0FTR1BXUzl3?oc=5"
       }
     ]
   }
