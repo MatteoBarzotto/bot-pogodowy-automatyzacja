@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-21 23:12:52",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6479,
-      "EUR": 4.2392,
-      "GBP": 4.8811,
-      "CHF": 4.5961,
-      "JPY": 0.02406,
-      "AUD": 2.3656,
-      "CAD": 2.5944,
-      "CNY": 0.5124
-    },
-    "crypto": {
-      "BITCOIN": 405928,
-      "DOGECOIN": 0.73202,
-      "ETHEREUM": 14495.01,
-      "LITECOIN": 349.96,
-      "RIPPLE": 9.1
-    },
-    "indices": {
-      "^WIG20": 2912.05,
-      "^WIG30": 3773.54,
-      "^WIG": 3773.54,
-      "^NCINDEX": 281.22
-    },
-    "news": [
-      {
-        "title": "Biały Dom: Nie ma planów spotkania Donalda Trumpa z Władimirem Putinem - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTZzRjh6WWloM2hSWS13dXBwRk50UWg4aHpVQUJXb3ZlSlk3NzZCVFpvcjNHWkpfTTNOLS1zRDF0ZmlpS0Y2NE0tVllHNFhqMS1PUjBwcWw1cHRjcERZTkUybUZsT1dTSWVjS25Qd2xrUHZHOUt3bHBmbmNmdTNHZTl4dnp4YkhxQnJGVS1wRnlXRXBsTklmaHduQ1U1N0xXal9zejcxZHc4Sjdv?oc=5"
-      },
-      {
-        "title": "Media: Europa i Ukraina szykują 12-punktowy plan zakończenia wojny - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW1xLXpSU25aRnFieFZlcmZINEM2WmhRdXdGNHB0eHY0UzJrSTA3SlctcEp3MXk0RTdjRGlrWDBJTDh0U1NyZzZBZGx6MHdiNFVuc3JoSVBramRSTzlQTlNma0JrUkhmbVNjMk5rWkVIRHI1aG1hb2RjMVFIZ2FZazRiaTRzYk1NTHJEajktMkxnVXV4czZvaElPcmNLMEVYWlZXLXVwTmtId2kzVWJB?oc=5"
-      },
-      {
-        "title": "Półroczny Gabryś z Gąsawy nie żyje. Sanepid: W przychodni znaleźliśmy przeterminowane szczepionki - Bydgoszcz.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVN4VzZLbEdhLUVBWlU0R2Nsa2FvckxPMktuVTdzWVQ1SDZTaDAxTTJHSlZrWlRvak1YR1RXWG9ySlYzQWRJUm1TRURlWnFCRkI0N0lzcENJUGtQRFNBRUJ4cG0wZk9vU1JzOFpjNHZVTnM2OExCNnMyOERWcjJoeEZSc2J6ajZPVWc5SDhNRlB1N2tJbFpaN1ctSFIwZ0FqZ3RtSHc5VFV3cDdJNW52UC1XRlQxM1RFVDNV?oc=5"
-      },
-      {
-        "title": "Akcja ABW, zatrzymani w całym kraju. Premier przekazał informację - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUhTUWo5Q3QzVllGTTR4d1l1N3hWQVZfSW8tbTB1aDA3Y2I0cUhhRFh0NVNkTGYzekJ0eXlEc1ZUcWFSQnpqWDA0TndqS25oWndiRzBpZWpTZlZsQi1NY1lKR3VRa1hpSTJ3LUlUTm0wS1hiUkZRUnluSGJCWmV4eTJZNXRVTkIxc09wWm5CR093Wl91RGdaREQ3QjJsd0tKaWZjWWJkdEV0XzR2WUdONG8xSQ?oc=5"
-      },
-      {
-        "title": "Karambol na Śląsku. Jest wielu rannych, droga zablokowana - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2ROOUE1Q3lZa3dvVDhWWUJWa1Y5ODlxT1hYbk0xNzNrX0FYdVdmV2cxeXdJbGtnR053bnhsbnlwektZM0NmZ2Z0YWtJWC14WnpwcUFPNXhJZUp4M1N0Z09FV2gyYkFGMzFhTGUzTHA1YkRxbXZNN01QczdXTEw2VXRNc2w4RVFpZjhvT1l2TWhaNThmR0V3UlU1WndqNHUtZTNzRDVR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-22 00:12:26",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "\"Może to dziwne, co powiem\". Premier przekazał \"dobre novinky\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmFGSk9CNEdBSDNUTm1hN1pGTktvWW9oUHVDQTF1aGctYk5yM1hxbzFDeW4wcFp4MUtSalRNdmh0aTJXQkJ6MWFab3k3OXdzU24xRkJvOVd5OEtKMlVaYndMcWRTZnRkaHp6d1VpeWdIekxuaU9Cd3dNMGlSbTh0UERaWUhlek5lMUtSSzZrNW1YcEZXc1hROFBib18xR0kwbzFLdVN6YVZVazNBYldwVA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-24 05:30:59",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6519,
+      "EUR": 4.2347,
+      "GBP": 4.8745,
+      "CHF": 4.579,
+      "JPY": 0.023928,
+      "AUD": 2.3771,
+      "CAD": 2.6097,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 402611,
+      "DOGECOIN": 0.711887,
+      "ETHEREUM": 14163.83,
+      "LITECOIN": 344.94,
+      "RIPPLE": 8.77
+    },
+    "indices": {
+      "^WIG20": 2984.67,
+      "^WIG30": 3855.81,
+      "^WIG": 3855.81,
+      "^NCINDEX": 278.81
+    },
+    "news": [
+      {
+        "title": "Emmanuel Macron komentuje decyzję Donalda Trumpa w sprawie sankcji. \"Prawdziwy punkt zwrotny\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeE5jTnQyaVNoREVqNTl0Q2pMTkF3UGdxb1NzQ20wS0M4V1F4WlhiWUR0MWtzbS1iZXJoeVIzempFZGRpejJMbXE3Y1ZKYktGa0hIcUtWRmd0WW96TTZvamV5YmxaVVFha3gxSVZnVVZCLWdIaFhYUF93STlCbFVGd3pwOFB3R3htaENiQTNTdkdpOVZjb2FxUURUSHYxamNUS0FhNmxGMFg5OFBQOFd5dW92aEpOTk9jTGx3OEdZUExHMVpKb0d0ajVZSDJzODJwQWNr?oc=5"
+      },
+      {
+        "title": "Wojskowy dron spadł w Inowrocławiu. \"Uszkodził dwa samochody oraz budynek\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTRRWnFoc3FNSnUwdlpqVGhVV241R2c2STd3TlhFc0ZBNERkY0tGdHRXVUN0NTFQaVNBSWoxb1VJYzJ2TUl6dU1BNUNleTdjVERDRWRZQmdqWkx0SVhkS2pKUE1Ud1BLaGZPOF9NMldsRWJWdlBaTDEzT05wWDE0a3ZYYXV3OFRCTnNVN1VPVGh1Q3d0QURodTVkVXk5LUJxMGhPd054Yl9TaGJJRHc0cm1YeEk5eUpDQUE?oc=5"
+      },
+      {
+        "title": "Wyniki sondażu OGB zaskakują. Tak wypadłaby wspólna lista koalicji rządowej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVR5dkFraFVmNDVCM09sbVlHT2h5TFFVRnlGUDdGdDhZZHRLZzY2OVZuR1BvSHZiX3lJc0R5TkFjbW5kclpvdWVITE01YjAtZGdaLVhoYkIyanFSVnUyT0J4Rk5kdU5rMm5td0pIZ3h6ejRrcTh0VDlnWEhHb3JoanlONWEzZWtYNnY3T3FHQlQzeVV0WjRZV0szXzBKWEliZVo4RDJ4ckpyWXJCdWNaZGtHSWlJZWttdGFtRjdMWXZEeXlaRm52cTZySWpRdHJC?oc=5"
+      },
+      {
+        "title": "Donald Trump planuje działania przeciw kartelom narkotykowym. Zapowiada operacje lądowe poza granicami USA - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZTgza2YwSnd1MTJoSVE3ZVNMOFhKeFBFMHVkekY2OTl2cGR6aE1KVEM5Wlg1SDVPYUZUTEZ1YjNmYnhZUS11NTVITHdkUENTTVV0SlRKSTVVLS1yUFlxV3d6MzBfc2FzS2doa3Y2Q1k2dGdDb09ITkxHMk1oRUotRHczaWFmSEhMYVdtUUk4Yld1YklfRE9uUkwwN1hJRkNvVzdVbFAxTDlUVG93XzRyOXhaWkhFUzhKa0NuUWV6dUFuR3lZQ0t1RERMNE9YekJudHd1Vkg5ZlhzZw?oc=5"
+      },
+      {
+        "title": "Tusk ogłasza sukces po szczycie w Brukseli. Chodzi o ETS2 - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHlUNElsdHR6N3FocHd2S09ZN0JZOVg2NUVKRkxQTDQ1azVfaVpCUnpQRlNEZzQyTDZVdG1RZjBReGFmTnFwU0pLODBGdElPS3BiTXJoLVhsemdMMnc4eW5lcTRpS0R2SWF0Mm9mQjFQTGhfLTRMbjlDX0QxRWt2ZjFMeFhUbHJ4NjlCc0VZSDVKOWRKODFhOGpYaXhCUQ?oc=5"
       }
     ]
   }
