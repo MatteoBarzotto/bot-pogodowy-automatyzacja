@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22 11:16:30",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6479,
-      "EUR": 4.2392,
-      "GBP": 4.8811,
-      "CHF": 4.5961,
-      "JPY": 0.02406,
-      "AUD": 2.3656,
-      "CAD": 2.5944,
-      "CNY": 0.5124
-    },
-    "crypto": {
-      "BITCOIN": 395000,
-      "DOGECOIN": 0.69776,
-      "ETHEREUM": 14071.19,
-      "LITECOIN": 336.97,
-      "RIPPLE": 8.75
-    },
-    "indices": {
-      "^WIG20": 2923.11,
-      "^WIG30": 3785.56,
-      "^WIG": 3785.56,
-      "^NCINDEX": 282.43
-    },
-    "news": [
-      {
-        "title": "Świadek opisuje awanturę Daniela Martyniuka w samolocie. Krzyczał, że \"go stać\" - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjRGeGNvd0pnRTc0TE9EeUJKS2lzNkxKWWJ3SE1MeUZVdHJyV1VleHBxOU1lc2FBbHhBM1JsTE41WUxHeEpGS19mdjFta2JFbUdtc09rUVJkRjhoUjYwaWZnTlI0NURXdTdoZmRYTVpoYmJBZVBBRnp2dmNUbUhNRk9kbjhBQV9LYmctWWZWT2ZyV2U5eEFYU2tFVXF4TVlWTE1aS2JQT3Q5aTNT?oc=5"
-      },
-      {
-        "title": "Dyplomatyczna klapa. Putin storpedował plan Donalda Trumpa i pokazał mu, kto dyktuje warunki. \"Nie do przyjęcia\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGJlbjhYRlN3djB6eXV4T0h5NmQxLWt1eWRCQ0NWNWF1Y2ZlUXFIQlJTYjdBS1BHM0pEeGlTRnp0VzREMTZLcTVCYmJjdU9uWlV1bGZuSWVXOEd0QUdyNDFHcHlWbFZxQnpNbThwRm80RmlVZFVDOURIRFR4cDdralVxd0xWNFJneW9VUjVZWnVVdWxIRUdReHAxY2ZCblpn?oc=5"
-      },
-      {
-        "title": "Córka Tuska ze statusem pokrzywdzonej. Chodzi o śledztwo ws. Pegasusa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDlBUUIxT3J0Q0pqdUZ5bkJvMUEwUmtqVjFnVmJpSnJJUkpWNW5VY0tDZWFleXdYTXRCMEZvTnBFN3RRLTZYU2xud3NzRUZQMUNVYm9zTkwzTzFVTjhMVVR5Y0NpUlk2RDMzb09HSHpNSjhqYjBOd1E0WGlRZm5lUFdoempab2Y1TER5bXFULXlrMURnZ0dQM21WNko2d3JBT0JqOFFyWVdDSmplakp3?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński pojawił się przed prokuraturą. Padły mocne słowa - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlo0cENjNFZTQVc1aVNaRW14VlhreXpFc0pzY2xrQVpJUFluRlhHRFRhS0lhazQyYmtFeU5GcjdGLUF5SGdMa0w2cTU1ZklObFNHZWs0RjY2cVlQWUszbWs2ZGFjNUtsXzlla1JOaVp1VmtnWHRBYzZFMnNONWl5QkdsNWgtT0dONTc5aEdhUDVKVlJ4UTI0Z3N0ZXVJR05ydm5LTTNSWFh0dw?oc=5"
-      },
-      {
-        "title": "Nocny atak na Kijów. Znisczczone budynki mieszkalne, są ofiary i ranni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWZUNkxRVzhZN1gxZlJZVDV3VGJwS1NUNlhkRlJsbS14azN1bXk0NVVFcUhXeHJiS082NlNtY05hVXp0dk9XMlB2UTBLdlhFWmdOU1c0QWdvRFg1SmRHMUg3TS1FZmFnWDNwTnItTjVvQm9wVGpyYzVmX1AtNm8tVE9aWEtxaHNNejBnRlA4blFrN0JBNm5BYnFOaEVqY1Q5OGk2SDhmcFY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-22 12:15:53",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Amerykańskie bombowce leciały w stronę Wenezueli. Maduro błaga Trumpa o pokój - Onet",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0VPRTJvakdZT2tyZGY2TndObDU1ZXpqUlRGOE8tMkJiN0RfOVJNQ18tLXJuaW9sd1dGLUhYaUpsS2xGMkFpaDdfYlp2RVB3VS1adDFYRm1HSE16eG9VNW5nS2ZhNGZ1YVQxN2l4b3g1T05KZjRxdURsOTh3a2hybnFNdEZiaGVQdldDdDFJXzNCMmx6MzZQbFdNTk81NUdoYWM0NXBQTUlyYkc5WENDY0VHUkdmRFpyX1ItZ1N4TTRaYXFXdWMzYS1TUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-24 15:26:10",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2353,
+      "GBP": 4.8589,
+      "CHF": 4.5839,
+      "JPY": 0.023849,
+      "AUD": 2.3695,
+      "CAD": 2.602,
+      "CNY": 0.5122
+    },
+    "crypto": {
+      "BITCOIN": 406012,
+      "DOGECOIN": 0.722629,
+      "ETHEREUM": 14486.13,
+      "LITECOIN": 351.47,
+      "RIPPLE": 9.09
+    },
+    "indices": {
+      "^WIG20": 2981.7,
+      "^WIG30": 3854.55,
+      "^WIG": 3854.55,
+      "^NCINDEX": 276.27
+    },
+    "news": [
+      {
+        "title": "Jarosław Kaczyński mówi o \"demokracji zbrojnej\". Nawiązuje do pomysłu Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTE4S0w5NXl0N3ZkNHFNdGNmMUpPVXk4NkotcVVOeEd5WGoyLTNZYThpdlBwc0JBMVYtVkVKQVJPQ3FPZXN1LXZZWDBrdHVoODlvVlZOMVhHZWoySWNEelI2ejVBU2VvZUZnak9tWDVWQVB1cjAwb0pONDN6bkFOSGRveUdtZ2pUeEpVOGVFSEdoVkZCSWc1a2plUC15NTg0dEFKeG5ObE5ZamxLcXFXdG1hdFo2VjJNU2gwT1ZQVllIaVVO?oc=5"
+      },
+      {
+        "title": "\"Zdążyłem Żurkowi zostawić 12 gr\". Krzysztof Brejza składa zawiadomienie na Michała Wosia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDVoRWpMNmtPVnloUXpmc2lTRURHbmx6M0cyU291SHRWQVJkQzFtVTFLWkNXY3h0dzdCRmFxMTJZTm05TFA2WEwzOVpPd2E1N0hrZFZOTmVJdWp3eUFDQ29vSEU5dmN2V3EwUkJVRC0tMU9OMkNvUTZkRzFuRF9LdkFxeFM0R2R6YVhNT1lydE1UbzVseFdYV3ZXVFhXSm16MEVJdEhzQVdTdVYy?oc=5"
+      },
+      {
+        "title": "Zabójstwo w warszawskim hotelu. Jest list gończy za sprawcą - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVhYRXZtd0RMWG93TlludS1GbXotWVkxa3BtQ1JfYXdnbG85Nmdmdk9uZExjOXV3eC1wVjNoTU9MS0I0dDRzWFZPYjR3SDNKdm9TLWU4bjY4NWtRRlVLeWJESkliZlRuM3FfTXZfaWFWYWFvR21rYlRKTExfUUdicXBiYTFmbmtKaVBYUExTaEl5WWlCWWNZWGhESG5sTHJuTUZLag?oc=5"
+      },
+      {
+        "title": "Konsternacja po słowach Wysockiej-Schnepf. Fala komentarzy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWZFWC1iZXlmTzZNYkFwS1ZRQzVESWU4YzFtUnA4cEd3NEZ1bzJEaHZjTmctZEtjbi1wdlB2N2tRTW9Dc1hWUlVfRXcxVC1sczdxS0hOMEpRSEJaRkREc0VRQUF3OUduelVLNG5IT1g4NThya3ZVMHlUcFByTm10M0FvaFFWdm43Ul94MHczbHdxR3AwWGpzNzRldUJDaGNqOGc?oc=5"
+      },
+      {
+        "title": "Po decyzji Trumpa Orban ogłasza: szukamy sposobu na obejście sankcji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmtvWnRycmczQ3BZSTZ2VVZEV095RGxaYldYdlpTQk1fWl9VVnlPXzVPaklMZjVRR2R3NGNLTlFnUmxSX2VVeEZGRzdjMGtTdWIwb2h6SEZjV0pCQ09oSmMzMW5SNXRvenhGcnZ6NXRSb1hkbi0yWGd0MG9MRW5ndjJaWnJNbnZ0ZUVpZ083TWppRDBtZWJtUC1pMUxJRmlveWx5VnllRUVYY1BOZ05BQWNINWlGWjE2U1NKLWRwV2tfdFhDYlpFT1dyOA?oc=5"
       }
     ]
   }
