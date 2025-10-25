@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-23 01:11:50",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6591,
-      "EUR": 4.2438,
-      "GBP": 4.8746,
-      "CHF": 4.5963,
-      "JPY": 0.024123,
-      "AUD": 2.3765,
-      "CAD": 2.6123,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 391995,
-      "DOGECOIN": 0.687502,
-      "ETHEREUM": 13758.32,
-      "LITECOIN": 332.84,
-      "RIPPLE": 8.56
-    },
-    "indices": {
-      "^WIG20": 2958.78,
-      "^WIG30": 3829.63,
-      "^WIG": 3829.63,
-      "^NCINDEX": 281.98
-    },
-    "news": [
-      {
-        "title": "Donald Trump: odwołałem spotkanie z Władimirem Putinem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmlkYV83eUhtcDlOMm9LRV9XSGlRUDY1T0VMYVJKZHlBSjc2cHEtLW5Mdy1QQl9wY2NrMHZza2wtQzlwOFF5ZWxWZ2hoLVN5MUdRVE5uZGt0cmdHSWt3akpQR2xwWXFxN0MxeHQ2dGFfNGUzSTVncGZtRDFtemhCMVRrSS1JZ3BVTVFvYm1ud19HcE1pcklueGpB?oc=5"
-      },
-      {
-        "title": "Sekretarz skarbu USA zapowiedział \"znaczące sankcje\" przeciwko Rosji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYktEMF9KV0VXSnQ0Tk5vWE5WZkktWnJlZ3dBWW5ObU1RaGltTXBxSkZudWlxTFJ0bmRkczA5YU5ZTTJZZlhkWVo5ZU84YkIxalc5UHBxM3pvTTRGdzhpd3JOUnlkUEVsdnUweEpLdnBNa1JmZE04MERoN2NYZ0tBTVEzNFJMeVpPQURYOXhPR3FEUmYwZHBlTjFRUi1oQVAxa05vN1BmdmxTRVBaMi1mMUo1Y2xDMW9ib1k3VTh3?oc=5"
-      },
-      {
-        "title": "Rodzina Tuska podsłuchiwana Pegasusem? Prokuratura zabrała głos - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0IydmVKVjZlWldJWGZVUWp2RU5zc2JrQlpQZFZuVE50dGFvb014eTBiT3QxOFk4RFduMFhUSG5yWl9VLWlVR2tBWWZiNVJPdFB1eC1hZ0FDdHhHNndPb3FJeG9qSHdJMnVqRzNSVFJCLVFZV0dPckdON2YzMVlOeDlEMHp3ekViVmJFZVVsYTNMT29NSHFpYzlwbF9oUldQSEJqdXRrQkhTMGs?oc=5"
-      },
-      {
-        "title": "Ukraina zaatakowała cele w Rosji. Pod ostrzałem rafineria i fabryka amunicji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWdkVC1hSU80cUE3cFJrb1dUZElITS03XzVuSnFibjBEVEZRUW9yUVpzWWptc1UtMUUwSTBkS3VUaUlMa1Q4VWNGZmpEZzh6OEp3a1ZvY2E0Y0Y2QTJXRk5OUEREMkZFY2VNN3BnQ2hLQncyU1JYaTFPNHN5ZzRtRXFNTE9nLUZzUlFpaF9KR2Z2UFN0Yzgtek82QmNqdXQ5aHZkQmpOQQ?oc=5"
-      },
-      {
-        "title": "Daniel Martyniuk wolny. Francuska policja wypuściła syna gwiazdora - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRE93M0RrLXRTbVlWQXhaNDNVeWtFTWtjbjNZdFZpSERnNl9HOC1TcDBWazV5YU5aTEh3a0ZreDlEd0xWdTVIZHdOS0ZZQXBzVGdqTGtXZFpuMGF1NUZvMWtpSHAtcHFMdUV1Z1hCX0p6aHJzbnQ1T2YtZjhEcE84bEJreWZJVkRDdTROdUw2NmVvMHlCTGlhNUc2Y19kQVlEaEdqekFoWUh0Y2ds?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-23 03:05:16",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Trump uderzył sankcjami w Rosję. Tak mogą wzrosnąć ceny paliw w Polsce - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnlZSzRuWkxlS1dhTWNQeGFwc2hBTHVmcUxLTERJUlE0VmpqMkFTRDVIblJ3NTdPWGstaFYwSXBRTW5pZUJxcUNLbWkyRS0xczVIdVI2amtEc3lkVTdSc3NtMlhGb1J4M2pUejBWZ3l3TkhORkUtLXdPanVEcEQ2VVJjYlhpb2FXWXkxWEhVYWNHQ2NVdUlPdHdIRkpjUEprVVhIWDVSWkxTS0J2ZWZpcGFSczVxOG12Ty1iYjFUOE5Jdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-25 06:15:50",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2353,
+      "GBP": 4.8589,
+      "CHF": 4.5839,
+      "JPY": 0.023849,
+      "AUD": 2.3695,
+      "CAD": 2.602,
+      "CNY": 0.5122
+    },
+    "crypto": {
+      "BITCOIN": 405933,
+      "DOGECOIN": 0.724586,
+      "ETHEREUM": 14333.82,
+      "LITECOIN": 351.35,
+      "RIPPLE": 9.32
+    },
+    "indices": {
+      "^WIG20": 2981.19,
+      "^WIG30": 3854.16,
+      "^WIG": 3854.16,
+      "^NCINDEX": 276.98
+    },
+    "news": [
+      {
+        "title": "Media: Donald Trump miał do wyboru trzy opcje sankcji na Rosję - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOW9laDRQZ0w0NW9wcGRuWlA2d1ZueEtTNHY4UlBHSFMzR3d4Zjh4RWlrY0pqeW5GWUFqQ2NmREdvWVpoRUNBSzZTZUdyY013QnNpNGtvM25EOEZIc1hJSTQ3cDZsZk1tdzJQVTE0MXBOWXl6X0ltWnlIbE1NR1RZc196RE91R1VjYm9mRVp0Nmd3QXZRSXV2VEhoVTl0T3k2Uk9DNWxOajB6cVF4cDVYU2pTdmx5S1AzYXhDejRQcVg3LVNi?oc=5"
+      },
+      {
+        "title": "\"Cieszę się bardzo\". Wiceminister o zapowiedziach prezesa PiS - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1hSNEhUbWl0SnVYcU9mQVpfQTd5cmxHQlExcF9TMko1cXZjbzhIS3kzaXNYOFNDUl94Nm9CU3VjR3h6ZEVKVVFqbkx3Z2dSUjJfZUgwdXRTZkJibV9JWmJlRHFLaGhzOWlSSlR4UEdJZnN6MVhDbUpZdzhhTkZjcHdJLUdhNVZ2WHRlSzhDY2F2UTFNdWtUUnMtN2xLNFZWcUcw?oc=5"
+      },
+      {
+        "title": "Donald Tusk uderza w Jarosława Kaczyńskiego. \"Wariat albo ruski agent\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1lNdDd2c3ZYaHRUU29YVXpfY0VPLXJPTmxTalJMYVJ6MldmR3hjUFRMOE1IVzBhSHV3TWsxTVlfRnFLVzNPc1VfVjRfLXdXTnVXODc0ZnRsazMybElHSERrR0s5MldicVN3SC0ydmZnRFI0LVo2MEk4c0JSTFd1WG1PVkJzM3ZSOEZDcEhMdmJfN1JUT3VJSGplTHBtaGVvTWYtTlA2cnBTcjdNNm9CNnZTV1dMWDVWbWZMbmFHZEtvVG5lM2pkY0F3?oc=5"
+      },
+      {
+        "title": "Rosjanie szli na Krym, do Kijowa zadzwoniła Merkel. Miała nakazać, by się nie bronić - Interia",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjVQV2dGRk9lQ01CMWktUEd3MG4zY1hnczVCMU15SmJnb2RGN0dFMmVlRUo3aVNvRHFiMnZKR0lwVmtJTm42VE5GdkhkREE2XzM0NmdydnpqR1dYSUdycFV3bjRiUGFiQUlCalN1My1xRWplZFUzOVhMVGpPeGFHTVM3U1l5Umhhdm81dDVwX1JZMHhCTGxlQWo1NDBHWTZQQVE4dFJ2dXcyOVkwcnV3bWpUckEyMGh0a1ZBek5nUQ?oc=5"
+      },
+      {
+        "title": "Balony z Białorusi nad Litwą. Władze zamknęły najważniejsze lotniska - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3VQejlsZ0pORFlBMjgzbFdsSFJtWi1DenZFRHI0emhVY21qTzBhVk9LVFNKa2xlWHJTVEVVU1lpVTdsTUFCUnlKQUtYd3hfR0hzWVBvenlTb2pRMWdrUHhWVHFRMlQ5QlhjbXRydHIyZTE4WmRlcjlmRjFNT09xSnNZSW9wNTFLQ2FXZVhoT0lmVm5fek1HamdlWXVPVEZCZ01LNDcxM0VxTGpBTmI4MkFzYUFnckdJNjRlalRIS2E1bVNsZlBFS1ZR?oc=5"
       }
     ]
   }
