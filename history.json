@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-23 03:05:16",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6591,
-      "EUR": 4.2438,
-      "GBP": 4.8746,
-      "CHF": 4.5963,
-      "JPY": 0.024123,
-      "AUD": 2.3765,
-      "CAD": 2.6123,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 393532,
-      "DOGECOIN": 0.695527,
-      "ETHEREUM": 13925.65,
-      "LITECOIN": 337.44,
-      "RIPPLE": 8.64
-    },
-    "indices": {
-      "^WIG20": 2958.78,
-      "^WIG30": 3829.63,
-      "^WIG": 3829.63,
-      "^NCINDEX": 281.98
-    },
-    "news": [
-      {
-        "title": "Nowy etap wojny? Nieoficjalnie: USA znoszą ograniczenia dla ukraińskich ataków - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnNsZEUycWNOVzlXejJPVVlycHQwWDdTVThWUjExTVd3M00tanY1ajVfbjk3czFHYU5pdENhcW1RY1dQWlBpeFRrYUF5X2RiVV8yMVdiakNRUlNSbUJUaDU3SnNYWEQ5b2hGekFDSDF2Q2FtUUJiOFZub21JcFFrdUpMY1RQcmJ6RkZ1cFVYeDh5ZlJiLXl4VFBrR2FFWFVwS291eE5zeUpZYklEeVRz?oc=5"
-      },
-      {
-        "title": "Trump wyjaśnia, czemu odwołał spotkanie z Putinem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3NWczV2VmhyTDVKS3NvZzZzTXNjODZHNTMwYXZzYlF0YXpkV2dyS2s0V0JCc0xZdlZUd2g1OGVDUDZWeUQ1dVM1aGYxdHUyLWR3QktCWll0MTBjVjdlUThNUGdNdVB0VW01YWxBOVV2NGRyVW8wUlYwcGdSMHRqR0VSbzlRTGh4RHFKRGZfb0NOQkV4dVE?oc=5"
-      },
-      {
-        "title": "Rodzina Tuska podsłuchiwana Pegasusem? Prokuratura zabrała głos - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0IydmVKVjZlWldJWGZVUWp2RU5zc2JrQlpQZFZuVE50dGFvb014eTBiT3QxOFk4RFduMFhUSG5yWl9VLWlVR2tBWWZiNVJPdFB1eC1hZ0FDdHhHNndPb3FJeG9qSHdJMnVqRzNSVFJCLVFZV0dPckdON2YzMVlOeDlEMHp3ekViVmJFZVVsYTNMT29NSHFpYzlwbF9oUldQSEJqdXRrQkhTMGs?oc=5"
-      },
-      {
-        "title": "Premier Słowacji o nowych sankcjach UE wobec Rosji. Jasne stanowisko - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVdPNXNiV1NPTnZGN1NvSkZVTW5Ma1VlbkNjOXp6cS03Zm5JUzFXTVdralNqZVdlSkZncG1ubW9pOUU3Tmt4cHRTWXlpSUk0QVhLOWZZOW1YdUktSmY3NVhydUpTU01yN29rUWJnWWhIZHoyQ1VrdFYyNVpyWG1Scmd2eGxxb2xEODltY2JDZmpBUlRnOGc2QlpiTDdiMnRTbm55TTMtNjY?oc=5"
-      },
-      {
-        "title": "Ukraina zaatakowała daleko za linią frontu? Trzy eksplozje pod Czelabińskiem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSG5VbG9qbTdpbUVrYmhVYlZGX2xYZWpidGNVRFdWUE5tVWVxRXFHYmNkY1hHa09zaGVTTGRPYzlNU1Vob1o4VWJlZmFZR2NIUjFTZUc4MTJHMUkyRTAyczdmUHZIeDJCenlXUFZFZHdlSlpFMlJ5QkFWbEFpdG16TEFvT3NWMmR0SGEtbGhrVFZuZEJHcGVOTGFvcEFrMWNaNTg4TVBQbG9Cd3B1RDdONlpqVlNFLVpNRV96eW04WE1ySnBKeExnN05sZzV1bEVINDZyMw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-23 04:59:37",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Balony z Białorusi nad Litwą. Władze zamknęły najważniejsze lotniska - Onet",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3VQejlsZ0pORFlBMjgzbFdsSFJtWi1DenZFRHI0emhVY21qTzBhVk9LVFNKa2xlWHJTVEVVU1lpVTdsTUFCUnlKQUtYd3hfR0hzWVBvenlTb2pRMWdrUHhWVHFRMlQ5QlhjbXRydHIyZTE4WmRlcjlmRjFNT09xSnNZSW9wNTFLQ2FXZVhoT0lmVm5fek1HamdlWXVPVEZCZ01LNDcxM0VxTGpBTmI4MkFzYUFnckdJNjRlalRIS2E1bVNsZlBFS1ZR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-25 07:13:13",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2353,
+      "GBP": 4.8589,
+      "CHF": 4.5839,
+      "JPY": 0.023849,
+      "AUD": 2.3695,
+      "CAD": 2.602,
+      "CNY": 0.5122
+    },
+    "crypto": {
+      "BITCOIN": 405735,
+      "DOGECOIN": 0.724454,
+      "ETHEREUM": 14320.57,
+      "LITECOIN": 350.77,
+      "RIPPLE": 9.33
+    },
+    "indices": {
+      "^WIG20": 2981.19,
+      "^WIG30": 3854.16,
+      "^WIG": 3854.16,
+      "^NCINDEX": 276.98
+    },
+    "news": [
+      {
+        "title": "Wystarczyła jedna rozmowa z Kremlem. To on przekonał Trumpa do sankcji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWVOMV9ZNlBVdXp5dDdYelBRWkFPN0RhcFFPNDF5Z1BkVDN5YjE0ZWZvcEtTQWJFVWc4cW1TUXZ0V3RBZi0xZFBOZ01RWV8wS0oxUjJYM18xY2xHU1VNMWhGNTRvMXhNLVhmR3VXRDRhcHBheFNZQ2NOYkFMNlBOZzRyQmNsdkJqYndidGdGdG13bU9hUTZKcldUM0F6UkI4NW5oaG0yeGtxUExlWERSbWRLTnVsRkZjX2ZWbVI1dzU?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński mówi o \"demokracji zbrojnej\". Nawiązuje do pomysłu Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTE4S0w5NXl0N3ZkNHFNdGNmMUpPVXk4NkotcVVOeEd5WGoyLTNZYThpdlBwc0JBMVYtVkVKQVJPQ3FPZXN1LXZZWDBrdHVoODlvVlZOMVhHZWoySWNEelI2ejVBU2VvZUZnak9tWDVWQVB1cjAwb0pONDN6bkFOSGRveUdtZ2pUeEpVOGVFSEdoVkZCSWc1a2plUC15NTg0dEFKeG5ObE5ZamxLcXFXdG1hdFo2VjJNU2gwT1ZQVllIaVVO?oc=5"
+      },
+      {
+        "title": "Nalot balonów nad Litwę. Rząd zamyka granicę z Białorusią - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXdWOFJtMlBsZ3ZGU3JjU3J4c0dDbEd5d0M0YUJfNmZZSTJXekR5eE1ydHdaRjNSQTktazVpVXBPRElYaEpaNk5pc3lpWVZDNjhXcUhwdkVrV2ZsbEhLbzh1aVAzTHBCNXRudHJqdURZX0YxT3dKNGJfSmRBY3A2UzhRUFVUZU1TWDNBTnhXX2U3Z2tqaURaN3FkWmRTQQ?oc=5"
+      },
+      {
+        "title": "Tusk komentuje słowa Kaczyńskiego. \"Sąsiadka mówi, że wariat albo ruski agent\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2JFZGxBVFBSTWczc1U4VmRIMmVqT3FWWENpLWxIS3FMdXdmU3dwSXVRdXRjUjg4S2NvSGpZa1hKb2xqQXRNM3dVSUdjZDVCa3hzbURxRVFJNnlCTTl2cklrYWxWVmgwUzgzZGxWT05UQkMzdmt1MmNSY0ZaZHBjaHE4UzZiZHdOVVBLWXV1YTZWRXhjN0F3bWZqaEJkTXluQWc?oc=5"
+      },
+      {
+        "title": "Zmiany w życiu Karola Nawrockiego. Prezydent z rodziną opuszczają Belweder - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWU4X1lJdDRyeC11cm1HVzZXcjZNUkZmZmwwT1FyNERKYTB0S1lVcG1lTXplcUpLUTk4VzVnTElrc284ZFVSOXhXNjVLbmdWTWI5MDJZejNqLTBFQy16Ymp6cWN0Nlg4eFRoS2gyaDdyMDR2VmRZU2Q1dEpJQXlUU1Jza1BkNDMxY3NNMnBGMjlfZmtHY1ZqYUd5eFZUTlkwNTRLWnJjbkswU2s?oc=5"
       }
     ]
   }
