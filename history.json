@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-23 21:11:26",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6519,
-      "EUR": 4.2347,
-      "GBP": 4.8745,
-      "CHF": 4.579,
-      "JPY": 0.023928,
-      "AUD": 2.3771,
-      "CAD": 2.6097,
-      "CNY": 0.5127
-    },
-    "crypto": {
-      "BITCOIN": 401664,
-      "DOGECOIN": 0.710958,
-      "ETHEREUM": 14033.14,
-      "LITECOIN": 341.08,
-      "RIPPLE": 8.73
-    },
-    "indices": {
-      "^WIG20": 2984.67,
-      "^WIG30": 3855.81,
-      "^WIG": 3855.81,
-      "^NCINDEX": 278.81
-    },
-    "news": [
-      {
-        "title": "Jeden z ostatnich meczów Iordanescu? Legia gra z Szachtarem! [NA ŻYWO] Piłka nożna - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UVDgwTzcwTGZnOEJrbkNPa0Zxc0N3SUVmcDAyZHVqX081NWY1UEFIUURCNGI5U3ZmcFg4ZmRUNGt2UjBYUHlCX1VMbDA0bjBIN0J3Q3VLYzMyTG1OQXhZ?oc=5"
-      },
-      {
-        "title": "\"Udało się wpisać kluczowe słowo\". Tusk przekazał nowe wieści ws. ETS 2 - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVdWRzlPU3hoT3ZLZVZqNG4wT09JYnlRQU4tb2dkQlRrUDhIdnptcmMzNEJfUUhzS2lObWJUc0g1YnUwMEVCVGFzcGFKRjhLRTJ4Z3IySTQzdS1qR1dmYmNlajJTWlozRVFFb2dWMnhYVXZSUFlETEpBaVltcWRuUk85OGppLUNjTkRLWWJhQlJUa3ZwZTdDTXBKeWJMX2NRZUpnUzdpZnpsVGNWOWp1ZkJfdThzN1Yzdjc1U19wbw?oc=5"
-      },
-      {
-        "title": "Władimir Putin odgraża się Ukrainie. Tak zareagował na sankcje USA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWF3d1Zjb0FUN3pkS0hkUnl6al9WM0lmbWFFamRscGZJRHVaZHNjXzY3ZmRhdUhmbkhpVEk2dHhLeDBVQUdsSm42NU5ZUzVhLV9rbzFvQzIwM1BISXBZQWx5dUIyN0t2ZEtKako2ZmthbHpYdWNFOE9QQzRvMWs1c2Fib3BQWjYwcm9qMlk4UTRxeFc0d01rUzFhVXo2SVRqSzFOWWNYV3VTQQ?oc=5"
-      },
-      {
-        "title": "Rosyjskie samoloty naruszyły przestrzeń powietrzną Litwy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlNfbXdzbm1kcHM0WjZ6ckY2S0R0dEZQTEh6SURRMm5icDlxWlIxM29vN2RTRG1ySVhzaW5PU01fRlBBZ0U0Vk52MGdxRXVxSGNxVmR3aHVpYUJpMnFZbTl3amdid0UtNm9sNll4ZEN4S2xrR0RqSGdYczRkb0I4MGZFeXNPNXl6MGJ0T0RrdXE2SWI1Nmc1MDJkTHdFUQ?oc=5"
-      },
-      {
-        "title": "Zagadkowa śmierć półrocznego Gabrysia. Niepokojące ustalenia. Konieczna była ekshumacja - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXhlcXU2UzZMcVhTaGFuZU56YU5qcnI4MmhOel9iQWZ6YUhXV2FSMzZ4Rko1TU51N2VlbDBNNzNSS1ZyajBmRW9DUGVrYzVTSjI1c1E0d1lnUy1Bc2NzdHJYWU1zNXMxR0ZBRVIwbXFTOUljYTVxeTU4U3dqVWFabUJiOFo2VUc4SXlYWnZaYWJjS3Q2dzVLdFI0WXFTN2hfU01NeWZ6cXVYcUk2RGc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-23 22:14:55",
     "weather": {
       "Warsaw": "Warsaw: +14°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "\"Coś się staruszkowi pomyliło\". Tusk wprost o \"wrogu\" Kaczyńskiego - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckIzdGJqQkR5VDFfbXJ6bG5QWTRLMTZ4cnliRi1tWnJ6SzZtcmwwQnZnQlFYQzFJUjg5Y3NvWURjY0UyT1FnU2xHTlhJTEJnUHE1WUNnWHBxYzFOQ056ZlBMVmdfR0lJRm9lVElIOTg1X3BJVTYxY3lXdkJDOUZ1U250eWZFTEkybUhCaHVScWhOdGhYU0VKbXl4MzVoZ2VPRjQ3T2JzVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-26 01:12:08",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2353,
+      "GBP": 4.8589,
+      "CHF": 4.5839,
+      "JPY": 0.023849,
+      "AUD": 2.3695,
+      "CAD": 2.602,
+      "CNY": 0.5122
+    },
+    "crypto": {
+      "BITCOIN": 407463,
+      "DOGECOIN": 0.719517,
+      "ETHEREUM": 14455.48,
+      "LITECOIN": 353.59,
+      "RIPPLE": 9.48
+    },
+    "indices": {
+      "^WIG20": 2981.19,
+      "^WIG30": 3854.16,
+      "^WIG": 3854.16,
+      "^NCINDEX": 276.98
+    },
+    "news": [
+      {
+        "title": "Platforma Obywatelska zmienia nazwę. Donald Tusk: żadnych sztuczek - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGN5R2Y1M3JxSDJUTzNKNm5BMVlvU01BbkVBUmFLeGtOVjB0MjNmd3hWS1FYcnN0MEZPbkxGRnlzNG1sYUF0N0w0TFN3WWlBM1VEbmJIZWJ3SG52VThIVHpLaXpmZmhQZy1vWHpWQnJwR3VzaVFXcHRxQzl2aFJ6cEI3dFJ3NlhXVGZzZTBwMFpLX3pIMHNOVGN4NHNzbDhuSjlIMDdZWQ?oc=5"
+      },
+      {
+        "title": "Zmiana czasu na zimowy. Kiedy cofamy zegarki? - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWNUckhoa1dvRmUwUmY3UXpVLXI2cHAzOG1lRUotU3BLN2hJalBvV3JXS2ZyNDBoQ1FvcThLdkVxckszOVJYdFFCSURNNlY2RDZyU1ZTd2g0WS1BeDluYXliSkdRY2ZjLVJFYnBjRHBGVWJOSXVpX1ZVc2FsRUFiMWF3N25QX1pBX3FZODBIYi1aSFNPMVE?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński zamyka konwencję PiS. \"To akcja zmierzająca do zmiany władzy\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzFHbVlkUjVxU2JOYk04c0gxa3U5Q0YzdXgyTTNyUkJtN3lKa0x5c0ctME11YWppdVl6MHk2X09tRmlJbjdBaEpwUGtIMnlPcEk3Z2FlVmpXSVpteHFHN2FLbGkxa1FfcjJKVjhvMW96eDh6RlVsb184X1JHcVhVWHlPbWthbTRGZzIwTFJvQ1puZUl5bFMyc3p6RmF3aHVZTTNz?oc=5"
+      },
+      {
+        "title": "\"Coś się staruszkowi pomyliło\". Tusk wprost o \"wrogu\" Kaczyńskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckIzdGJqQkR5VDFfbXJ6bG5QWTRLMTZ4cnliRi1tWnJ6SzZtcmwwQnZnQlFYQzFJUjg5Y3NvWURjY0UyT1FnU2xHTlhJTEJnUHE1WUNnWHBxYzFOQ056ZlBMVmdfR0lJRm9lVElIOTg1X3BJVTYxY3lXdkJDOUZ1U250eWZFTEkybUhCaHVScWhOdGhYU0VKbXl4MzVoZ2VPRjQ3T2JzVQ?oc=5"
+      },
+      {
+        "title": "Donald Trump stanowczo o spotkaniu z Władimirem Putinem. Postawił ultimatum - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHlLdHVXMDItajZaanlJb3lmNXEtVzdQNzVrLVRmRHdmX1pPX1NpTlpVdW1NQ2FYUDVTUXY5YzNWOG1HS3B5TkZqUHJ6eFFyWlRNSkhYRFM2ZVU0SUE4M2owdUxqRXRLRjNmOFNyRVBQOXlpYjBIX0pCZUM4SDdTaTRlMUNQSWNNRmRMOEljeGNHWmJtZW5STUROemdFYjByZVhrck1CbUtseGpTZmFuTzhNR2Y2YXNJZTAyRjZBQVF4UzZrSnNIZS14d0JibWcxNmJB?oc=5"
       }
     ]
   }
