@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-23 14:29:16",
-    "weather": {
-      "Warsaw": "Warsaw: +18°C",
-      "Kraków": "Krakow: +20°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.6519,
-      "EUR": 4.2347,
-      "GBP": 4.8745,
-      "CHF": 4.579,
-      "JPY": 0.023928,
-      "AUD": 2.3771,
-      "CAD": 2.6097,
-      "CNY": 0.5127
-    },
-    "crypto": {
-      "BITCOIN": 398719,
-      "DOGECOIN": 0.706134,
-      "ETHEREUM": 14095.36,
-      "LITECOIN": 341.1,
-      "RIPPLE": 8.71
-    },
-    "indices": {
-      "^WIG20": 2974.44,
-      "^WIG30": 3844.31,
-      "^WIG": 3844.31,
-      "^NCINDEX": 278.27
-    },
-    "news": [
-      {
-        "title": "Wyniki sondażu OGB zaskakują. Tak wypadłaby wspólna lista koalicji rządowej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVR5dkFraFVmNDVCM09sbVlHT2h5TFFVRnlGUDdGdDhZZHRLZzY2OVZuR1BvSHZiX3lJc0R5TkFjbW5kclpvdWVITE01YjAtZGdaLVhoYkIyanFSVnUyT0J4Rk5kdU5rMm5td0pIZ3h6ejRrcTh0VDlnWEhHb3JoanlONWEzZWtYNnY3T3FHQlQzeVV0WjRZV0szXzBKWEliZVo4RDJ4ckpyWXJCdWNaZGtHSWlJZWttdGFtRjdMWXZEeXlaRm52cTZySWpRdHJC?oc=5"
-      },
-      {
-        "title": "Donald Trump: odwołałem spotkanie z Władimirem Putinem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmlkYV83eUhtcDlOMm9LRV9XSGlRUDY1T0VMYVJKZHlBSjc2cHEtLW5Mdy1QQl9wY2NrMHZza2wtQzlwOFF5ZWxWZ2hoLVN5MUdRVE5uZGt0cmdHSWt3akpQR2xwWXFxN0MxeHQ2dGFfNGUzSTVncGZtRDFtemhCMVRrSS1JZ3BVTVFvYm1ud19HcE1pcklueGpB?oc=5"
-      },
-      {
-        "title": "\"Deal\" Lewicy z PSL-em. Działacze w szoku - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczg4bnd0SzFVd0tYVUxVVS1NS0ZudlV4bUJGNmtPN1pucndVaXVaVTRzaDkzMzgtVG1LdmdBSXNKT0prajI0YkNWVkk1dDItekh0NGE2MmV0a2dvek0tNXRPYW1lbjF4bm5lRlh0SG9uek1NUmlRRk1EVWdGUUE0T21YejVWaGNa?oc=5"
-      },
-      {
-        "title": "Amerykański prezenter mówił o Polsce. Radosław Sikorski reaguje. \"Lokajstwo\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlgyYVg5MjY4LXpWOXRUOWJmbGZXS2lsSy1qT1JsSnFfdGNGR01mZ0lzMGtOaHYtalJrZFRuMFFrbW50eHZ1czJRNVRKZ0JEclF3LW40T2JncEUwcnFwdk5sUUt6Z3piZHFMSkFudzVIdGpMSnRhY0Z6dGF0anJYTEI1R0ZIdHZLUnNXaW1lQXF1ZWtvODZ0bnhYTFhOUHhxdzNFN0pWa1d1bXRrakhPTlA5Yw?oc=5"
-      },
-      {
-        "title": "Łączy Polskę ze Słowacją. Dziś otwarcie. Ta trasa jest do podziwiania - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzl5ZklHMEVTcGxNMFVTaFp0NDgxNmtuZmJLbC1mYXl6aFJWNXhHVl96bHNtbzh4QTlKYzVURndTZW1hdlZKM1FWR2NFQ1IwYzQzS1hUWW5VZDIwa3BSdlh1cXlLSlNDYmhzZ3gxdFNQNVEtMFRVSHR0cDBXdzlsOEpZQnZrUkJtZTNaZE5Sa2F0YTBxcUpQU21GTXZkWVpZbndsTmlFazlsbFh2NkJPN0hxV21vakdSN1RLaHhvUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-23 15:27:38",
     "weather": {
       "Warsaw": "Warsaw: +19°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Uwaga, zmiana czasu. W nocy przestawimy zegarki - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHZTd190T1BMLU1vTlgwbDdfcWl2UDV5VVJFSlFwT1ROTWFKY24xbFAxMkd3QUZiMFhDOGpkUXkzaUt5QmZxY3JySVB6cnVtclh1QzhlVlpfcVNsLU13Qzc5NkZZanRSd2xfRmk5QXc4YnNJa3NILUtFUWZkb3NFV1ZpYkNPRHVkZmNPQktmZW11VkNUaXp0VHlCUkpSNlJLY2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-25 18:15:21",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2353,
+      "GBP": 4.8589,
+      "CHF": 4.5839,
+      "JPY": 0.023849,
+      "AUD": 2.3695,
+      "CAD": 2.602,
+      "CNY": 0.5122
+    },
+    "crypto": {
+      "BITCOIN": 406102,
+      "DOGECOIN": 0.716656,
+      "ETHEREUM": 14356.02,
+      "LITECOIN": 350.91,
+      "RIPPLE": 9.5
+    },
+    "indices": {
+      "^WIG20": 2981.19,
+      "^WIG30": 3854.16,
+      "^WIG": 3854.16,
+      "^NCINDEX": 276.98
+    },
+    "news": [
+      {
+        "title": "Wesele Cichopek i Kurzajewskiego. Hotel wydał pilny komunikat kilka godzin przed ślubem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmJmdnNJc1pnZzRNS3BBanFHbE52RlFOa2NSSFVJcGR1MUtVTGdOVXFmVlJkTUhNSUZVN1dzQ29nQ21DWkhZbEF3R0FUbmNNQlJUbFQwUV91aFRDN0NITk4zU3BiZUVwUE5hVnFRenNfYlZtbGlheS1QelBjX1llWEoyWGhHdHdFd2xOenJWNnowakl1bXB4N2N4dkFEWlI3S2VIT3pHaTk4Vlp2SGZ3b3pwb2xlWlF4M3RjS1dWVXVMaEUyNWxMZkVPLTdzU3EtZFV3WS1B?oc=5"
+      },
+      {
+        "title": "Koniec Platformy Obywatelskiej. Powstała nowa partia - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHFMRi1JRkZOWXN2NlJldEE4cmF3M3F4dDU2SkVNNm1lYXoxeTNMRldGQkxMb0x3Vl9VX1E3d2xhdXJGUmszLS1YLWg2YUg3TjllRVlaR1JaSnJaelBfUzJyWWFZcDJROWVMZWdUSDBNSEthRzBqenhTMlFxYnFWanlaM01aSEtyajBNQkxQRjNVdlpxcERFcEU2WVFMbXQwYUUzLUNMR1VyU1RyazM0VDB0RjlwVU5XM2tWbjM2NA?oc=5"
+      },
+      {
+        "title": "Zmiana czasu z letniego na zimowy. „Rezygnacja nie jest taka prosta” [NASZE WIDEO] - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWY1QllyaVVEOU1ENk1nWDBoc0Q4MFlROVZYa3ZqZGFwcl85dHhHeVBFbTVjX3BwMWdTUEJjeVRZSkFpYUNYM1JJM0NyY19fbEEtYWIwb2tnRkw2eG1DN0djYnBra29MaG9MdnpscmVlNVlOSklMT3BGZmwxN1NUaWdBR3U4QkI0X2JLYy1SSm12MldJVDRldnZ0eG1JQkZSNW5LQTBFT3FmYUpX?oc=5"
+      },
+      {
+        "title": "Dziennikarz pokazał materiały z konwencji PiS i wybuchła burza. Sikorski komentuje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFJwQnljb2pKWkp4UkFreGc5Q1dyTmZSRnpXdzU4aVlXc29SVkFUa01qS2M3dU90WDF1RFN5THhTNnUyRURSOV81dVRYajRiSW1IT2hlRWtHVnBmTHJBcXkwNlBhQTFMZzlhSm5SNkZ2bTV3enFKN19vTHdZQ3RMY0hlLTJrTVR2YnE3UTAzV0U5UQ?oc=5"
+      },
+      {
+        "title": "Stracą sędziowskie togi i stan spoczynku. Plan PiS na sądownictwo po wyborach - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDdpSTk0Znl2SUhPVklmM0xzVFpjODJjcWdfelJvSzRGc0pFLXpRZFZoRDZmZ0p0NW1RYnJZQU1mZjRLUEVnYXBJTnI4MG1DZWw5dU5nYXQ4TU16aUswc0VwZ2pQTTJXUkQtYk5MUHd3SjJCUkctb3FNalc4dlBDU0xrcTFGQXJHbFVyd0I1akVqNlAxRWRETDBEU25KdmdSWlI1U0FuV1RpRThyaTJBOTZkYUd3S3pXWDNBNnFqSUFacHkx?oc=5"
       }
     ]
   }
