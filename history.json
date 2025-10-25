@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-23 12:15:25",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +18°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6519,
-      "EUR": 4.2347,
-      "GBP": 4.8745,
-      "CHF": 4.579,
-      "JPY": 0.023928,
-      "AUD": 2.3771,
-      "CAD": 2.6097,
-      "CNY": 0.5127
-    },
-    "crypto": {
-      "BITCOIN": 400123,
-      "DOGECOIN": 0.712768,
-      "ETHEREUM": 14238.16,
-      "LITECOIN": 340.98,
-      "RIPPLE": 8.8
-    },
-    "indices": {
-      "^WIG20": 2977.88,
-      "^WIG30": 3850.64,
-      "^WIG": 3850.64,
-      "^NCINDEX": 280.1
-    },
-    "news": [
-      {
-        "title": "Wielka awaria jednej z sieci komórkowych - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWMxUjVReTZ1V0F2WlpoTHYxZ2FLT1NWZEhISWFKNXBwMUZoVkNLMUFrVG12c1dyVHJYOEdDZ0ZOMGx1X3JvTjB5cUdEamM2MXctVEVnUGRCRlQ2bGJIaTlkVmk2c3pQRHdVUDVfS21qenFtNWZPMXpqTXZFR2NWaG1VMFRlWWpwd1pFUS1PWVF5YXdpODM0TlEya0ZkTUJoUlE?oc=5"
-      },
-      {
-        "title": "Donald Trump odwołał spotkanie z Władimirem Putinem. Wyjaśnił, dlaczego - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS19yci03THY2aUo0UEV0TTI1N0FmdGlMSEd1b256X2hfcWdtT1ZMZEhfc1MwbkxGNTBJVTVqNGlLQnF0NWpZVVhCcTdkbWk2akU4SGp4NmtPNjJSd0FHQkh2aG41Q0VzMmRWUWt4amtyRnFLNGdTX1p0RHY3MVo2ZWRkTDhXZnRzTzFqUnJHVVF2MEwxNWY2bFlLQ2d1Y0h1WmNxbllZaFNpM20zcmFlUDZiNjExdVFBZ3pj?oc=5"
-      },
-      {
-        "title": "Sankcje USA uderzają rosyjskie firmy naftowe. Ceny ropy skoczyły - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmpRbWdNU1hsZ0lfV0ZlazJYdGIyVkNkZFFGV3ZNanQ0bWRwNkVRRFBHVEJsaDBkYU5melRMRk1CRWhMa0JoV1pvbGEtUXE2TTY4VnhaS0lUOUUyQk9fM3p3OGVsdS1OeWswbHphVjNOZmRnSnNyR2laVHdXQWdrd1NSTW1QZFRQdlpIZ21WVXlCNGtnd1dsSWNIb0NjSS1MRnl1bi00M1BId0hTTk5wV3ZBNjFfV3BPdVE?oc=5"
-      },
-      {
-        "title": "Emocje w studiu. Piotr Kraśko do Leszka Millera: momentami pana nie poznaję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2lHaF9DbGFoMnVrODJTYldPcTRySFRlc0JoU0o0TllhZ3pXWnpBT0lUSV9BNUFrVko1Wk5iZll4VEtrODBpX1RjNUVKcmRHcU9ibldrYkRSMC0zR1ZDUl9SUm5rZU5FSGJpWVlzRElqSVQxSWxUY0VJeE4tMUQxZmplYlZxZUl4dkFZWlZ3dUxIR2NRbUJrTTRVVThBSl9OdTRiOGlOaEMzM1Bza1FIXzkxaw?oc=5"
-      },
-      {
-        "title": "W mieszkaniu odkryli zwłoki mężczyzny. W środku przebywała też dwulatka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1c4VjdZMnlsZzVpQ2hFZHZqcmVEV1VlOWcwQ0Fqc2tWSlEzX2w1M0lNRnpkdmhLbHlYams2MnRlb2tmaXhjZmgyV2VoaEJ5ZzRHdjZBOVYzbGdRWWdoVmp0ZkZoZEIzNXl1bFVTZTJIRVpGZkJOMUxqWmJnMmZCbjFlSW50cTdPYUtZUFlCWDB5N2Iwc1lGbFdrUzVWblRnejRqTjZqeEliem13ekNMUktXSHlhRTF6OWxpSEFEdnFBNHdBMUJxQVhXRU5fVHR0a29lTw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-23 13:12:07",
     "weather": {
       "Warsaw": "Warsaw: +16°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Awaria systemu alarmowego, problemy dyspozytorów medycznych. \"Tryb offline\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmM0bXQ1U1FZMnRseC1YbVhsOTloUFRLRTZ5THI4S3dIY2VoUHhJVzMzRHdZMXVmZFhfS0FGQ2VFZUp1VlVWU1ZsTG54UWFmcW5YdGRWczViNzJTMXN6V1VPaVBmczFZQldMZG82X256Y2p2NjNSNG5KVWsyMTNIeDQxWG5nc1htdDFNb3V3ZUk1NFF6T1pwWDFJMjNIeUlka0JmZlhjLXB3elN0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-25 16:11:27",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6481,
+      "EUR": 4.2353,
+      "GBP": 4.8589,
+      "CHF": 4.5839,
+      "JPY": 0.023849,
+      "AUD": 2.3695,
+      "CAD": 2.602,
+      "CNY": 0.5122
+    },
+    "crypto": {
+      "BITCOIN": 407851,
+      "DOGECOIN": 0.720135,
+      "ETHEREUM": 14393.25,
+      "LITECOIN": 351.25,
+      "RIPPLE": 9.49
+    },
+    "indices": {
+      "^WIG20": 2981.19,
+      "^WIG30": 3854.16,
+      "^WIG": 3854.16,
+      "^NCINDEX": 276.98
+    },
+    "news": [
+      {
+        "title": "Polski \"royal wedding\"? Na ślub Katarzyny Cichopek i Macieja Kurzajewskiego zjeżdżają goście - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2E4STYwZ2VaTUJ0Y1RCQVRYaVEyQXo4anotbTA5ZW1DRnpRQjBDZXNWSmpLcE0wamhVM0RFWk1YbDBHMjNfV0RTZm5wQnY0ak5aUlJMc3hPUjhKd1ZFUUlSSGNiOENGWlBmclpFcVc4YnNxeUpJM0lfZ2c0bVY1ZXZBdVBIZmVxOHhlYzVONWQwSW8tY3EwYW5YQ1ozNzRMZFcxRWxueTFwbnYyMzFBbG01amVXQzFjT0QySXFpRmNTdw?oc=5"
+      },
+      {
+        "title": "Koniec Platformy Obywatelskiej. Powstała nowa partia - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHFMRi1JRkZOWXN2NlJldEE4cmF3M3F4dDU2SkVNNm1lYXoxeTNMRldGQkxMb0x3Vl9VX1E3d2xhdXJGUmszLS1YLWg2YUg3TjllRVlaR1JaSnJaelBfUzJyWWFZcDJROWVMZWdUSDBNSEthRzBqenhTMlFxYnFWanlaM01aSEtyajBNQkxQRjNVdlpxcERFcEU2WVFMbXQwYUUzLUNMR1VyU1RyazM0VDB0RjlwVU5XM2tWbjM2NA?oc=5"
+      },
+      {
+        "title": "Uwaga, zmiana czasu. W nocy przestawimy zegarki - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHZTd190T1BMLU1vTlgwbDdfcWl2UDV5VVJFSlFwT1ROTWFKY24xbFAxMkd3QUZiMFhDOGpkUXkzaUt5QmZxY3JySVB6cnVtclh1QzhlVlpfcVNsLU13Qzc5NkZZanRSd2xfRmk5QXc4YnNJa3NILUtFUWZkb3NFV1ZpYkNPRHVkZmNPQktmZW11VkNUaXp0VHlCUkpSNlJLY2c?oc=5"
+      },
+      {
+        "title": "Rybak przerwał ćwiczenia NATO. \"Narażenie na wielomilionowe straty\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzkxbmdaWkx6aVZVRkgxSmR1QjVtdVNjSl92SWhHTThUTC1aVjJlelZDd2p3SDQ1ZkJ4UlNiRGNEb1dtQmdpMjkyOTgxd19sN0VLUUwxRTJFcUNvbWJtUWR4QkhZZVRmV0dMdE0zZXYtT1BDdXJIcHA1NHF3ekZtX2F3VjNOenRkdEs1d3JHMTNEZzJqZWJnWWRVM0tmSC1zelNvWVluY3hKUnNlN21rQ3lPWU1MWWU0Zzdn?oc=5"
+      },
+      {
+        "title": "Co Polacy myślą o Waldemarze Żurku? Nowy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGNFcWU2R3ZFQzRIY3Y5X2lXcmJkbGNFWjF3dGNKSUI1eW1GR0hQYkt4blJuRlFCTnB4YndVcG1WVFJfRU1pM1NLMlZzaXc4Q0lFQ01QTUpaQWRYUVNUVHhZOHpmcm9vcUh5UWEzWXBSOEdCWms5cmpIREY4eVVBcHQ0M2puLWMweHNNczNILVJQc2s?oc=5"
       }
     ]
   }
