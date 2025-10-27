@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25 16:11:27",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 407851,
-      "DOGECOIN": 0.720135,
-      "ETHEREUM": 14393.25,
-      "LITECOIN": 351.25,
-      "RIPPLE": 9.49
-    },
-    "indices": {
-      "^WIG20": 2981.19,
-      "^WIG30": 3854.16,
-      "^WIG": 3854.16,
-      "^NCINDEX": 276.98
-    },
-    "news": [
-      {
-        "title": "Polski \"royal wedding\"? Na ślub Katarzyny Cichopek i Macieja Kurzajewskiego zjeżdżają goście - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2E4STYwZ2VaTUJ0Y1RCQVRYaVEyQXo4anotbTA5ZW1DRnpRQjBDZXNWSmpLcE0wamhVM0RFWk1YbDBHMjNfV0RTZm5wQnY0ak5aUlJMc3hPUjhKd1ZFUUlSSGNiOENGWlBmclpFcVc4YnNxeUpJM0lfZ2c0bVY1ZXZBdVBIZmVxOHhlYzVONWQwSW8tY3EwYW5YQ1ozNzRMZFcxRWxueTFwbnYyMzFBbG01amVXQzFjT0QySXFpRmNTdw?oc=5"
-      },
-      {
-        "title": "Koniec Platformy Obywatelskiej. Powstała nowa partia - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHFMRi1JRkZOWXN2NlJldEE4cmF3M3F4dDU2SkVNNm1lYXoxeTNMRldGQkxMb0x3Vl9VX1E3d2xhdXJGUmszLS1YLWg2YUg3TjllRVlaR1JaSnJaelBfUzJyWWFZcDJROWVMZWdUSDBNSEthRzBqenhTMlFxYnFWanlaM01aSEtyajBNQkxQRjNVdlpxcERFcEU2WVFMbXQwYUUzLUNMR1VyU1RyazM0VDB0RjlwVU5XM2tWbjM2NA?oc=5"
-      },
-      {
-        "title": "Uwaga, zmiana czasu. W nocy przestawimy zegarki - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHZTd190T1BMLU1vTlgwbDdfcWl2UDV5VVJFSlFwT1ROTWFKY24xbFAxMkd3QUZiMFhDOGpkUXkzaUt5QmZxY3JySVB6cnVtclh1QzhlVlpfcVNsLU13Qzc5NkZZanRSd2xfRmk5QXc4YnNJa3NILUtFUWZkb3NFV1ZpYkNPRHVkZmNPQktmZW11VkNUaXp0VHlCUkpSNlJLY2c?oc=5"
-      },
-      {
-        "title": "Rybak przerwał ćwiczenia NATO. \"Narażenie na wielomilionowe straty\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzkxbmdaWkx6aVZVRkgxSmR1QjVtdVNjSl92SWhHTThUTC1aVjJlelZDd2p3SDQ1ZkJ4UlNiRGNEb1dtQmdpMjkyOTgxd19sN0VLUUwxRTJFcUNvbWJtUWR4QkhZZVRmV0dMdE0zZXYtT1BDdXJIcHA1NHF3ekZtX2F3VjNOenRkdEs1d3JHMTNEZzJqZWJnWWRVM0tmSC1zelNvWVluY3hKUnNlN21rQ3lPWU1MWWU0Zzdn?oc=5"
-      },
-      {
-        "title": "Co Polacy myślą o Waldemarze Żurku? Nowy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGNFcWU2R3ZFQzRIY3Y5X2lXcmJkbGNFWjF3dGNKSUI1eW1GR0hQYkt4blJuRlFCTnB4YndVcG1WVFJfRU1pM1NLMlZzaXc4Q0lFQ01QTUpaQWRYUVNUVHhZOHpmcm9vcUh5UWEzWXBSOEdCWms5cmpIREY4eVVBcHQ0M2puLWMweHNNczNILVJQc2s?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-25 17:11:56",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Chiny wyciągają asa z rękawa. \"Efekt TACO\" powali Stany Zjednoczone na kolana? - Interia",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXprd01SQnRScFkydU5kb2NKYnJzV19TczB1YXNaWjFmZUhXUlpTaFc3dmV5NTZSakpYUUw4WV9mQmtyT3FkOW1IUjhHYS11LTlXank0Tk8xV3hCVU5fV2EtNE56TkJVSjBuSzhVZDZSYW5mZnU2eFd6cmZOSzU4blBrc1FpNHJIUUtwQ25oV0pUVTNTT2tJLUl1ZjRvbjl0clhmN2lqQThlOUJ2WWJ4ZldRcVk1aEk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-27 21:13:05",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6395,
+      "EUR": 4.2353,
+      "GBP": 4.8567,
+      "CHF": 4.572,
+      "JPY": 0.023824,
+      "AUD": 2.3863,
+      "CAD": 2.6044,
+      "CNY": 0.5121
+    },
+    "crypto": {
+      "BITCOIN": 417260,
+      "DOGECOIN": 0.736379,
+      "ETHEREUM": 15088.0,
+      "LITECOIN": 369.1,
+      "RIPPLE": 9.64
+    },
+    "indices": {
+      "^WIG20": 2980.91,
+      "^WIG30": 3861.55,
+      "^WIG": 3861.55,
+      "^NCINDEX": 277.17
+    },
+    "news": [
+      {
+        "title": "Ewa Minge o zachowaniu Agnieszki Kaczorowskiej za kulisami w \"Tańcu z gwiazdami\". \"Zrozumiałam po czasie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT21lNUh3dVZqdWk5UFJBdTBzeldLQTRoQUQ5QzJVdzRndGFScXhuM3c1blE2cDlTZ013SzBxbC10Rl81Q2Voa2FmbC1sV2RGOFctcmN5bnZGVjdRc2E2b25xdnk3MXgxUkdqbTV0SHRSdUtXTElFZmxINldNWEo0Qk5DcXZHSTJiMzBtbl93MDY3eXlpYlJ2ekM4SnA1VXdIa1oxZ2lQVkRTbkllRDZfc21fVUxISFp5SURKdjA1ajBmNFFPOWJicWdmMDZDQndYZldZ?oc=5"
+      },
+      {
+        "title": "Trzęsienie ziemi w PiS. Kaczyński zawiesił dwóch posłów. W tle afera ws. działki pod CPK - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMURKZkE4ZVZ4UE9OOHdFUlQzNDRJaDNDUmJNbGc5RGw4LUhuWFlaRjdUMkNhS0hBWFBnR2NjY08wdnNsRk84eFl5TnZTQ1g5YXFEOHltRXVvd1NmckwwUE12a2dCV0dzMENvcFVoTzZoc0xoRkN4Q2ZKM0R0WUZBQXVUVmkweDMxTHhEMGNlQWF1VWJPNTAzcnc2TjRyS3NrRFJZbUJNbWlVd1A1UVBLSnEzMA?oc=5"
+      },
+      {
+        "title": "Oświadczenie majątkowe Nawrockiego. Tyle oszczędności ma prezydent - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEtzVTB2VFQwUFZ1MFNnY052Yi1VTURsZTE2QjRtc3haM3ZseUZ3dHV3aUdpem1DUVkzdkR4TWZvSjM0YWFKSHVWMHJzc25zNzlfV3Zxek1mMG9qREFtVzJOeDBRUVd2RS1FZDYxUXhFeTVRNi1nM1U3N25QMm5QQms0Rk5pY04xQXg3Q2t5aUMteXNqQnFMQzBZeUlOU3VrRjNISGRaYjhKTWZQbFd2RWVudndTZw?oc=5"
+      },
+      {
+        "title": "\"Cyniczna postawa\". Jest sprzeciw HFPC wobec słów Tuska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1ZPWmhmd0RlR2cxVElkWVRZZTliMHZRR0tPZ25UWjNNckhFalpvMnFpLUNXMW1tRllId09mSHJuSWx4MklJd3h0QllWUHVaajR4bGtYODBGVTBrSlZWRjJBcGhuTmZrV2RwSGJBUmlMMWs5bHFDU2t1YmFIXzY0bHprZkpjMUhXZk4wVjNrLTdqbUl6ZEE5djRNYw?oc=5"
+      },
+      {
+        "title": "Groźny pożar w woj. śląskim. RCB wydało alert dla mieszkańców - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlQxaTRuUS1oNnFWN3NnMjNUZWYtcm1CZW9XVGd0c3pSd0VXc0FZT09vRTVIcVQ3aFZJMWo5YUNMTXlmMGQxeUl1MTZnSlhVS1JtbXJwQkVIN1BNM3RYMWp4b25qdE1paElEYW95bnpTaWx1NG9fSFY0Y05mZ19iSlBaVHZuaUJYT2M3XzV5Y2NKNHRBSWlZdGN3VHExZlB6X1p4czRR?oc=5"
       }
     ]
   }
