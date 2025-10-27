@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25 14:24:42",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 407805,
-      "DOGECOIN": 0.723376,
-      "ETHEREUM": 14427.73,
-      "LITECOIN": 351.45,
-      "RIPPLE": 9.35
-    },
-    "indices": {
-      "^WIG20": 2981.19,
-      "^WIG30": 3854.16,
-      "^WIG": 3854.16,
-      "^NCINDEX": 276.98
-    },
-    "news": [
-      {
-        "title": "Platforma Obywatelska zmienia nazwę. Donald Tusk: żadnych sztuczek - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTQ2amhGSDZQMTE2SEhMT3RlbjVKN3F4RHg2dWlQeVhGUTdkUkVxajdyLTJWOWhWT0VGbjUxZE9xcXE1WmtTOXJUaFN6VzR6b3Nsc3ZmQUZuamNRVC1NVWNfZ0FjUVFPMXYyNlVWeTRnXy1jR0g3aGpZOFlKNlhDdUc3ZHpOTHJvOWZmOU5QTlZBQ21WdFNGdURYbTc2MmdPSjY3ZHBuZGJieXl6TmtUbXY2VnQ1NXRNMGRaS1RlVmdTOTBJcWc?oc=5"
-      },
-      {
-        "title": "Co Polacy myślą o Waldemarze Żurku? Nowy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGNFcWU2R3ZFQzRIY3Y5X2lXcmJkbGNFWjF3dGNKSUI1eW1GR0hQYkt4blJuRlFCTnB4YndVcG1WVFJfRU1pM1NLMlZzaXc4Q0lFQ01QTUpaQWRYUVNUVHhZOHpmcm9vcUh5UWEzWXBSOEdCWms5cmpIREY4eVVBcHQ0M2puLWMweHNNczNILVJQc2s?oc=5"
-      },
-      {
-        "title": "Uwaga, zmiana czasu. W nocy przestawimy zegarki - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHZTd190T1BMLU1vTlgwbDdfcWl2UDV5VVJFSlFwT1ROTWFKY24xbFAxMkd3QUZiMFhDOGpkUXkzaUt5QmZxY3JySVB6cnVtclh1QzhlVlpfcVNsLU13Qzc5NkZZanRSd2xfRmk5QXc4YnNJa3NILUtFUWZkb3NFV1ZpYkNPRHVkZmNPQktmZW11VkNUaXp0VHlCUkpSNlJLY2c?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski odpowiada na słowa Jarosława Kaczyńskiego. \"Brednie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdThTTl9HMktENUpvek1tbGQ0S1QzTDAyTkpPZnhEeDN4c0dSX3lsMWdoNTJQUGUzdzZfWEFQNl9UeFRhRzFUM3NOQTAyT0RkNXQwOFoxWm9TcWgtdHliSWFJUkdGcVhINHBpV24zTjFGNlN3Y2JrRE13VndiOEkyelhkU3hwVlRuRTJrbGdGb0UzNXYtakVJU1cxT1NFTXY0VzZLbDd3ZnRjYV9hZXhDR2swbGlqQXhsRGo3T0wtVmN5UGJTbkFPa2hn?oc=5"
-      },
-      {
-        "title": "Awaria systemu alarmowego, problemy dyspozytorów medycznych. \"Tryb offline\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmM0bXQ1U1FZMnRseC1YbVhsOTloUFRLRTZ5THI4S3dIY2VoUHhJVzMzRHdZMXVmZFhfS0FGQ2VFZUp1VlVWU1ZsTG54UWFmcW5YdGRWczViNzJTMXN6V1VPaVBmczFZQldMZG82X256Y2p2NjNSNG5KVWsyMTNIeDQxWG5nc1htdDFNb3V3ZUk1NFF6T1pwWDFJMjNIeUlka0JmZlhjLXB3elN0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-25 15:19:03",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Tragiczny finał poszukiwań 23-letniego Kamila ze Mściszewic - expresskaszubski.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjk1TFd5cXR5Mkl4VDVZTy1mM1ktZUFmd0g5MGJtbVc3bGtVcmJVRUFNTWhEeVFkNl9ZSjBRTjJibndQMnVoSWdvVTB6R0xCZktLNXN2VUpJd1dncEhTYzUzU1doZHU3OTg1Snpmd3g5Slp6NkNZVDRGLUk4ZVFLQWx5a1FzRF9QczJkM0lsMXpDRGFxbFdmX2owZ2ppNDlzeXoybVU3dk5yTWFKUVgybXRLX2dkNTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-27 19:20:57",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6395,
+      "EUR": 4.2353,
+      "GBP": 4.8567,
+      "CHF": 4.572,
+      "JPY": 0.023824,
+      "AUD": 2.3863,
+      "CAD": 2.6044,
+      "CNY": 0.5121
+    },
+    "crypto": {
+      "BITCOIN": 420584,
+      "DOGECOIN": 0.746534,
+      "ETHEREUM": 15382.05,
+      "LITECOIN": 372.62,
+      "RIPPLE": 9.8
+    },
+    "indices": {
+      "^WIG20": 2980.91,
+      "^WIG30": 3861.55,
+      "^WIG": 3861.55,
+      "^NCINDEX": 277.17
+    },
+    "news": [
+      {
+        "title": "Groźny pożar w woj. śląskim. RCB wydało alert dla mieszkańców - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlQxaTRuUS1oNnFWN3NnMjNUZWYtcm1CZW9XVGd0c3pSd0VXc0FZT09vRTVIcVQ3aFZJMWo5YUNMTXlmMGQxeUl1MTZnSlhVS1JtbXJwQkVIN1BNM3RYMWp4b25qdE1paElEYW95bnpTaWx1NG9fSFY0Y05mZ19iSlBaVHZuaUJYT2M3XzV5Y2NKNHRBSWlZdGN3VHExZlB6X1p4czRR?oc=5"
+      },
+      {
+        "title": "Trzęsienie ziemi w PiS. Kaczyński zawiesił dwóch posłów. W tle afera ws. działki pod CPK - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMURKZkE4ZVZ4UE9OOHdFUlQzNDRJaDNDUmJNbGc5RGw4LUhuWFlaRjdUMkNhS0hBWFBnR2NjY08wdnNsRk84eFl5TnZTQ1g5YXFEOHltRXVvd1NmckwwUE12a2dCV0dzMENvcFVoTzZoc0xoRkN4Q2ZKM0R0WUZBQXVUVmkweDMxTHhEMGNlQWF1VWJPNTAzcnc2TjRyS3NrRFJZbUJNbWlVd1A1UVBLSnEzMA?oc=5"
+      },
+      {
+        "title": "Władimir Putin po 25 latach zrywa umowę z USA o utylizacji plutonu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXA4UnpPdnVId1pFcXdRSjg0djN4Si1QX2hwMUt1aTRxWWNFRjlBMWota0E5b2c0Q0lzcWFmOEVnWi1wS3VjbWhYeWFUdWFyZ0pid2NyWmY5WEo1YlpaLUZnWjkxOWJBZjZ5WVdBSXpSQk1IMVlCcjFmNHRwRzQxTnh0Z3AyU0VYekxzR1pKTzZLNnQ2QWMwOVl1Q2FucnpWNFE1Q1Q5RW5RWXM?oc=5"
+      },
+      {
+        "title": "Chiny wyciągają asa z rękawa. \"Efekt TACO\" powali Stany Zjednoczone na kolana? - Interia",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXprd01SQnRScFkydU5kb2NKYnJzV19TczB1YXNaWjFmZUhXUlpTaFc3dmV5NTZSakpYUUw4WV9mQmtyT3FkOW1IUjhHYS11LTlXank0Tk8xV3hCVU5fV2EtNE56TkJVSjBuSzhVZDZSYW5mZnU2eFd6cmZOSzU4blBrc1FpNHJIUUtwQ25oV0pUVTNTT2tJLUl1ZjRvbjl0clhmN2lqQThlOUJ2WWJ4ZldRcVk1aEk?oc=5"
+      },
+      {
+        "title": "Sankcje USA na Rosję. Skutki już widać. Sieć ostrzega przed brakiem dostaw paliw - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXNsVkp6d2d3bXhZSUREMVVaSXVIellIYU9xYW5uV2VqVU8zUjBMUVJvWW9WZmQ2TVBVbmJCR090VDF2Z3NuT3MwZVJmaEVWR0xQSGJ4QzNISVFZMk5uMVFrc3hTRzRMckhKTVV4QVQxbEJtT3ZqNTBQa19BcWtMR2ZHZDdxU1dSS1oxei1BenBSc2ZrdDFiV3NDaTNMY1F4NlV2SkJVMmdLRzJENjlBbFBZcThGUUg3STBxTWNUTjRkeE5zNHVLZ2V4WXg0UQ?oc=5"
       }
     ]
   }
