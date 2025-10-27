@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25 17:11:56",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 406838,
-      "DOGECOIN": 0.717574,
-      "ETHEREUM": 14350.26,
-      "LITECOIN": 351.04,
-      "RIPPLE": 9.51
-    },
-    "indices": {
-      "^WIG20": 2981.19,
-      "^WIG30": 3854.16,
-      "^WIG": 3854.16,
-      "^NCINDEX": 276.98
-    },
-    "news": [
-      {
-        "title": "Platforma Obywatelska zmienia nazwę. Donald Tusk: żadnych sztuczek - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGN5R2Y1M3JxSDJUTzNKNm5BMVlvU01BbkVBUmFLeGtOVjB0MjNmd3hWS1FYcnN0MEZPbkxGRnlzNG1sYUF0N0w0TFN3WWlBM1VEbmJIZWJ3SG52VThIVHpLaXpmZmhQZy1vWHpWQnJwR3VzaVFXcHRxQzl2aFJ6cEI3dFJ3NlhXVGZzZTBwMFpLX3pIMHNOVGN4NHNzbDhuSjlIMDdZWQ?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek w Świętokrzyskiem. Dwie osoby nie żyją - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQenJOTVNvSVRBNUtSYUxnbUpMZVZ6cE5Xb3c5TlBWdWtJTDJEdGlBbVVIREllZm1yQ0lnSjdzVUF5SWs5LXdyLTZ4dXdaS1htb1dBd0xXbEFVMDc4eTNnN3lHa3FzWmVnLTB0SzZNajBxRWQyM2E4dkhUY25vaEhUTlFSVzBBbU5fUUFIV2FjallQWlJRaUduODhIai00MXRBWDFxR2otWGJJZ08wYVFVeW1FS2U?oc=5"
-      },
-      {
-        "title": "Polacy niezadowoleni z ministra Waldemara Żurka. Nowy sondaż - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2RzLUNRcnNiR2g0YmQweEpELXdZdTlubUxHUThHRHRLeVhLMWVDbVFpY29aQl9VeXowX3QwN2oyS2hEX2s1UlI5REpGOHZvQ2gyblY4UzFIdXhwYW83YlFmbUJTQ3otcXRwYXZmd3pJaTM5dW9id3RTUHNPZUlPWHZNQlpUcDhOUVN2SnVqeEs3YXVwNW1WeE1ZcjJUVC1mWDI2SFJNRUd1QQ?oc=5"
-      },
-      {
-        "title": "Stracą sędziowskie togi i stan spoczynku. Plan PiS na sądownictwo po wyborach - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDdpSTk0Znl2SUhPVklmM0xzVFpjODJjcWdfelJvSzRGc0pFLXpRZFZoRDZmZ0p0NW1RYnJZQU1mZjRLUEVnYXBJTnI4MG1DZWw5dU5nYXQ4TU16aUswc0VwZ2pQTTJXUkQtYk5MUHd3SjJCUkctb3FNalc4dlBDU0xrcTFGQXJHbFVyd0I1akVqNlAxRWRETDBEU25KdmdSWlI1U0FuV1RpRThyaTJBOTZkYUd3S3pXWDNBNnFqSUFacHkx?oc=5"
-      },
-      {
-        "title": "Uwaga, zmiana czasu. W nocy przestawimy zegarki - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHZTd190T1BMLU1vTlgwbDdfcWl2UDV5VVJFSlFwT1ROTWFKY24xbFAxMkd3QUZiMFhDOGpkUXkzaUt5QmZxY3JySVB6cnVtclh1QzhlVlpfcVNsLU13Qzc5NkZZanRSd2xfRmk5QXc4YnNJa3NILUtFUWZkb3NFV1ZpYkNPRHVkZmNPQktmZW11VkNUaXp0VHlCUkpSNlJLY2c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-25 18:15:21",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "\"Cyniczna postawa\". Jest sprzeciw HFPC wobec słów Tuska - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1ZPWmhmd0RlR2cxVElkWVRZZTliMHZRR0tPZ25UWjNNckhFalpvMnFpLUNXMW1tRllId09mSHJuSWx4MklJd3h0QllWUHVaajR4bGtYODBGVTBrSlZWRjJBcGhuTmZrV2RwSGJBUmlMMWs5bHFDU2t1YmFIXzY0bHprZkpjMUhXZk4wVjNrLTdqbUl6ZEE5djRNYw?oc=5"
+      },
+      {
+        "title": "Groźny pożar w woj. śląskim. RCB wydało alert dla mieszkańców - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlQxaTRuUS1oNnFWN3NnMjNUZWYtcm1CZW9XVGd0c3pSd0VXc0FZT09vRTVIcVQ3aFZJMWo5YUNMTXlmMGQxeUl1MTZnSlhVS1JtbXJwQkVIN1BNM3RYMWp4b25qdE1paElEYW95bnpTaWx1NG9fSFY0Y05mZ19iSlBaVHZuaUJYT2M3XzV5Y2NKNHRBSWlZdGN3VHExZlB6X1p4czRR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-27 22:12:09",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6395,
+      "EUR": 4.2353,
+      "GBP": 4.8567,
+      "CHF": 4.572,
+      "JPY": 0.023824,
+      "AUD": 2.3863,
+      "CAD": 2.6044,
+      "CNY": 0.5121
+    },
+    "crypto": {
+      "BITCOIN": 416389,
+      "DOGECOIN": 0.734333,
+      "ETHEREUM": 15043.54,
+      "LITECOIN": 365.21,
+      "RIPPLE": 9.57
+    },
+    "indices": {
+      "^WIG20": 2980.91,
+      "^WIG30": 3861.55,
+      "^WIG": 3861.55,
+      "^NCINDEX": 277.17
+    },
+    "news": [
+      {
+        "title": "Oświadczenie majątkowe Konrada Berkowicza. Oto co posiada poseł Konfederacji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSklBcGJRckdZUjZyVEUtWEd1RFpSZGd6aC12eWtkWlVTYlZQQVlxZE9VSDFvcWM0REE1WU5Wc3VlSXItdkc3bi1PcU80dkh4RWJwRDhaQUVVNFB3T2w3dXFCdnRLbEJXZXB0VG9MQWxhODNwZExiSDlUZnl5bmgtbjMyVXVwRk9RSWtDS2R5bFJ3UEVyQnl1UEl4OG1SRk8zejB4WDNBU2V0RFhDN0prQ0o1TEw3S1FpcUZTS055ZXM2aW14RnN5eVFn?oc=5"
+      },
+      {
+        "title": "Ewa Minge o zachowaniu Agnieszki Kaczorowskiej za kulisami w \"Tańcu z gwiazdami\". \"Zrozumiałam po czasie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT21lNUh3dVZqdWk5UFJBdTBzeldLQTRoQUQ5QzJVdzRndGFScXhuM3c1blE2cDlTZ013SzBxbC10Rl81Q2Voa2FmbC1sV2RGOFctcmN5bnZGVjdRc2E2b25xdnk3MXgxUkdqbTV0SHRSdUtXTElFZmxINldNWEo0Qk5DcXZHSTJiMzBtbl93MDY3eXlpYlJ2ekM4SnA1VXdIa1oxZ2lQVkRTbkllRDZfc21fVUxISFp5SURKdjA1ajBmNFFPOWJicWdmMDZDQndYZldZ?oc=5"
+      },
+      {
+        "title": "Afera z działką dla CPK popsuła nastroje w PiS. \"Wiem, że Kaczyński czekał\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVy1TMFpfcWk2UHFSbGV3TVVxOC1SenIycWhjT2VQSHl5T0s2V2UxSXpqYXVCZXFVanJCanU3VUliem5qdkFuNFVhXzQ0Q19LV1lHS0JSNGxYc0lOOTJ5VTkwWEJOeFNHM2xHMEtUXzd1TkEzVE0yaTlfSUFjY1NLeTZ1RDdHUkFGT25PeTBDdDRTdjdBSUplc1Rqa2hScW16TDhn?oc=5"
+      },
+      {
+        "title": "Oświadczenie majątkowe Nawrockiego. Tyle oszczędności ma prezydent - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEtzVTB2VFQwUFZ1MFNnY052Yi1VTURsZTE2QjRtc3haM3ZseUZ3dHV3aUdpem1DUVkzdkR4TWZvSjM0YWFKSHVWMHJzc25zNzlfV3Zxek1mMG9qREFtVzJOeDBRUVd2RS1FZDYxUXhFeTVRNi1nM1U3N25QMm5QQms0Rk5pY04xQXg3Q2t5aUMteXNqQnFMQzBZeUlOU3VrRjNISGRaYjhKTWZQbFd2RWVudndTZw?oc=5"
       },
       {
         "title": "Groźny pożar w woj. śląskim. RCB wydało alert dla mieszkańców - Onet Wiadomości",
