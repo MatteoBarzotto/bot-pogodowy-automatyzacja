@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-26 06:13:10",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 406882,
-      "DOGECOIN": 0.713103,
-      "ETHEREUM": 14390.07,
-      "LITECOIN": 352.78,
-      "RIPPLE": 9.52
-    },
-    "indices": {
-      "^WIG20": 2981.19,
-      "^WIG30": 3854.16,
-      "^WIG": 3854.16,
-      "^NCINDEX": 276.98
-    },
-    "news": [
-      {
-        "title": "Zmiana czasu na zimowy. Kiedy cofamy zegarki? - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWNUckhoa1dvRmUwUmY3UXpVLXI2cHAzOG1lRUotU3BLN2hJalBvV3JXS2ZyNDBoQ1FvcThLdkVxckszOVJYdFFCSURNNlY2RDZyU1ZTd2g0WS1BeDluYXliSkdRY2ZjLVJFYnBjRHBGVWJOSXVpX1ZVc2FsRUFiMWF3N25QX1pBX3FZODBIYi1aSFNPMVE?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński zamyka konwencję PiS. \"To akcja zmierzająca do zmiany władzy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzFHbVlkUjVxU2JOYk04c0gxa3U5Q0YzdXgyTTNyUkJtN3lKa0x5c0ctME11YWppdVl6MHk2X09tRmlJbjdBaEpwUGtIMnlPcEk3Z2FlVmpXSVpteHFHN2FLbGkxa1FfcjJKVjhvMW96eDh6RlVsb184X1JHcVhVWHlPbWthbTRGZzIwTFJvQ1puZUl5bFMyc3p6RmF3aHVZTTNz?oc=5"
-      },
-      {
-        "title": "Litwa. Lotnisko w Wilnie zamknięte. Balony z Białorusi naruszyły przestrzeń - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVJQMzB2TEFfSHBYLTFMeXJQTzIxVktpNEhrQ2U4MUotWndoTHNWOGxYcHNhMlI3em45MklxSVM2R2padjVrWkhVRUhqTjBrV2JwMXNFcmhnSGhwclJwLTJ0OXFmb1RDeHJ6Umtaci1HOS0tdkhlQXJuS2thNjZJdWFzYmFXSGttUkxRU3dlRXpKREhzWVFiVEZPWmVZMGp3T0QySHh5cDV4V2hqRGNPbG9ETFpXZw?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski w szoku po słowach prezesa PiS. \"Ja się pytam Jarosława Kaczyńskiego\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNllLd1F5amlGdGdrVXFUOXpIYWROampYNV9LMWtmR1praVF4aTlwWU9VRmFuT3pMc25VVUthS3dTWnlHSUJFOS1Kb25FU1o4RWhMekZjek1mdFlNLXRNLW9XZ0RPSmtSOEZSalAtTm4yVHZJOVp1SXExcWd5ZjlCSEpaTGUyeVFiNHM3NWRkN003ZHZTb3JBNWZvYy1yRmJUakZuX3J3ekNaZ2RtOU5sNXZLNTl3eG9mV3dCWllaOXM3U1ZGTFNRUUNsRVhWV0VGY3lhTA?oc=5"
-      },
-      {
-        "title": "Rusza konwencja Platformy Obywatelskiej. Partia Tuska z kluczową zmianą - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWxxOG9WdFVVaXdxMFlaR2V0OVZVOUw2V1FKVmV3OHIzZ3FBcElKWUVRODdXSUtBYW54MFM1bTYtS2JlQ0dFN1VtWTktRUg2ek5wcjVGOF82RHFiTk5rLXA1b1RjV29Ma2FRa2tnTjQySURKejB5azFiMFlIVkhmeVo1TmlxQTNjWjhHb0tlY0ZyTGNyR0pmMVFqRXJyR1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-26 07:19:17",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Aleksandra i Michał Żebrowscy przez huragan utknęli na Jamajce. Musieli się pilnie przenieść - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVZIWl91dWxyVDlEREFDdGtVTGZUa1Vsc3VWQm5NRERXZTJmSlZCbGEtaWp4U0RZZ0RyM0FQdHFUdjZJeVNnZFdRdVV5OU9nakdReVF5VVZLWFgycDlBc0dwMDVJQmRTOFJfTVRscEJUQW1uaS1WWFd0clNyXzYzMEN3VDdUQzJWNkx1VFEyVmN2S0ptQ09nN2NHYWNlMVRtRmZuNWdSUllXRm5oYzdCLXJoNWNGNnRmSE5xQnUyMWFMaDB2TEhKQ1dfX0tCLXpaQkxN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-28 12:11:52",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6327,
+      "EUR": 4.2345,
+      "GBP": 4.8375,
+      "CHF": 4.5783,
+      "JPY": 0.023912,
+      "AUD": 2.3817,
+      "CAD": 2.5954,
+      "CNY": 0.5117
+    },
+    "crypto": {
+      "BITCOIN": 416065,
+      "DOGECOIN": 0.726942,
+      "ETHEREUM": 14955.01,
+      "LITECOIN": 369.26,
+      "RIPPLE": 9.63
+    },
+    "indices": {
+      "^WIG20": 3010.53,
+      "^WIG30": 3902.18,
+      "^WIG": 3902.18,
+      "^NCINDEX": 275.2
+    },
+    "news": [
+      {
+        "title": "Ruch Waldemara Żurka. Nieoficjalnie: wystąpi o uchylenie immunitetu Ziobrze - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWVrWDVVa3RaN1NxRjVVa2xEMGRiRHlvMFJabVlCREstdDYxNWNVNHUzSkJFdmM2SXVJX3AwdG5UamFWNUFMZkJLZmlTMFhEaElrME0yZ0hGS1ZFQ2NDWGlra09YQWt5VF9mdjVPNTdkRG9GRTRwb2Jqd21ZWXNLeEtkcjdnNlNoODN6dFItVjRUNFpNeU9QcW9CS3EtVVFZM0o0TEtrT1QzZWpBNnloV2tLOA?oc=5"
+      },
+      {
+        "title": "Rodzina Dawtony i 160 ha ziemi pod CPK. Kim jest Andrzej Wielgomas? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0I0eFdHeXFpRjFfN3Eydy0wNnJzYmVmXzVEcmlyaXV4VEVMbjNFMElaR25pS2pJVFFuRjVNUGU2dzQ0Q1dQZ0dDUG82Y1Fma2NoeWQ5Z2FOZ3V0dXZYQUpoVTFWeDhUSVBhM1E3VzlzRzgyVVF4RlBQdjNmMEJPcml3eVZoQzJpeVdmVnVTT2NUMjFqMXg0SjJ6bW1XQnN2N2htcGZWYkJTSzdxNFV0WWxiaU5MOTB6NThDbg?oc=5"
+      },
+      {
+        "title": "Kraków. Mandat dla posła Konfederacji. Konrad Berkowicz wyszedł z IKEI z niezeskanowanym towarem - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWRZUDZKOUZRZ3N6UFlMY01CSllRa2hWM2gtbExrV3E5UkVFYl9ZM1JCQU9Qd215OWFBQkt2aUw5QmpwYXpCLXg3SnpnemhWdW93ZmdjYmlOcWJKb3lVZmQxZ2FOWV93Tjk5dExjRWNPYUZocFBnWTVKb3hRWTZMYjVOcUpDcUFUMUFWYzFnLVIxaGhJMTNpamZzWEV5d2FmNXhwUlkwcW54ZGxibnZOVjI1UGpQQQ?oc=5"
+      },
+      {
+        "title": "\"U nas też jest patologia\". Lekarze ze szpitala psychiatrycznego w Łodzi biją na alarm - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0J5RlpyUnF2eUxzWm5oN0M3ZW1VcjVhbzdudGlLRlNWOHZNRTU3bDF3SC1iSmFoaXlpcVNPQ3dtTXZXWGxLV3RkRmVGTnRjdHZ4V04tYVg0YXZxWVBDZkhLUmlWVjN0TjB2VmUzcDFNN2hYeF9fQURnZTVGUlh1b2d4QlgyWGRWYTlHT0pKT0IyWFB6Z1pPcnRRdG9leC1reC1WTnVXTWt5Yng1RmE3NUZkOWxhdmQxZmJ4OG9iZmJjWjQz?oc=5"
+      },
+      {
+        "title": "Rosyjski senator ostrzega Donalda Tuska. \"Polacy ucierpią jako pierwsi\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3Fta0JtSlhXNjRuczBRM0RfeTRKUkx1RmZYVHg5Z0hZMzBEOGVma1daMU5INnAwT3dRM2F3dFZSTnhVZmRBYVFLWnpFOUtEYTRPMkpHWXQzMDAzNWpnMHYyMjBVWnk3eEZfUHNKaUxBeUkxWlpSNHV3Z1J2OXhVanFXNmd0aWpsVEFZdFJSVkRPR3pGTmswQjJBeU1Fb0RNWTlCYTJJRnE4U2Fqc3J5Sjl1V2NjbFE?oc=5"
       }
     ]
   }
