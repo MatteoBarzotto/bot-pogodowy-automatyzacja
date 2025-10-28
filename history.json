@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-26 04:05:26",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 406883,
-      "DOGECOIN": 0.711738,
-      "ETHEREUM": 14342.68,
-      "LITECOIN": 352.58,
-      "RIPPLE": 9.48
-    },
-    "indices": {
-      "^WIG20": 2981.19,
-      "^WIG30": 3854.16,
-      "^WIG": 3854.16,
-      "^NCINDEX": 276.98
-    },
-    "news": [
-      {
-        "title": "Jarosław Kaczyński zamyka konwencję PiS. \"To akcja zmierzająca do zmiany władzy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzFHbVlkUjVxU2JOYk04c0gxa3U5Q0YzdXgyTTNyUkJtN3lKa0x5c0ctME11YWppdVl6MHk2X09tRmlJbjdBaEpwUGtIMnlPcEk3Z2FlVmpXSVpteHFHN2FLbGkxa1FfcjJKVjhvMW96eDh6RlVsb184X1JHcVhVWHlPbWthbTRGZzIwTFJvQ1puZUl5bFMyc3p6RmF3aHVZTTNz?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski w szoku po słowach prezesa PiS. \"Ja się pytam Jarosława Kaczyńskiego\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNllLd1F5amlGdGdrVXFUOXpIYWROampYNV9LMWtmR1praVF4aTlwWU9VRmFuT3pMc25VVUthS3dTWnlHSUJFOS1Kb25FU1o4RWhMekZjek1mdFlNLXRNLW9XZ0RPSmtSOEZSalAtTm4yVHZJOVp1SXExcWd5ZjlCSEpaTGUyeVFiNHM3NWRkN003ZHZTb3JBNWZvYy1yRmJUakZuX3J3ekNaZ2RtOU5sNXZLNTl3eG9mV3dCWllaOXM3U1ZGTFNRUUNsRVhWV0VGY3lhTA?oc=5"
-      },
-      {
-        "title": "Litwa. Lotnisko w Wilnie zamknięte. Balony z Białorusi naruszyły przestrzeń - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVJQMzB2TEFfSHBYLTFMeXJQTzIxVktpNEhrQ2U4MUotWndoTHNWOGxYcHNhMlI3em45MklxSVM2R2padjVrWkhVRUhqTjBrV2JwMXNFcmhnSGhwclJwLTJ0OXFmb1RDeHJ6Umtaci1HOS0tdkhlQXJuS2thNjZJdWFzYmFXSGttUkxRU3dlRXpKREhzWVFiVEZPWmVZMGp3T0QySHh5cDV4V2hqRGNPbG9ETFpXZw?oc=5"
-      },
-      {
-        "title": "Rusza konwencja Platformy Obywatelskiej. Partia Tuska z kluczową zmianą - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWxxOG9WdFVVaXdxMFlaR2V0OVZVOUw2V1FKVmV3OHIzZ3FBcElKWUVRODdXSUtBYW54MFM1bTYtS2JlQ0dFN1VtWTktRUg2ek5wcjVGOF82RHFiTk5rLXA1b1RjV29Ma2FRa2tnTjQySURKejB5azFiMFlIVkhmeVo1TmlxQTNjWjhHb0tlY0ZyTGNyR0pmMVFqRXJyR1E?oc=5"
-      },
-      {
-        "title": "Trump o spotkaniu z Putinem. Postawił warunek - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObENSQm42ZG5waWFiTmdaVXVoLWYzdi10dDVaTzBYT3hNaDhnTEM2WWl4WVRfc0EwN3FiTmFSVmtHZkJZQklwV0FVS1FWazA2TmtPeXlPTFVvQk9HU2F5bU80MlBJQUpRcThsQUxXdlJNal9qLVVFYlFqTkdXb1ZONDZ3TkxCUm5FZmNuaWQxZXg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-26 05:15:47",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Doradca Karola Nawrockiego pod ostrzałem. \"Czuję się, jakbym był złodziejem\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOC1USHA3S3lUc1VoQ3RUbG90RVpQUGFROTZEUWxnUmdYSE1LTU5fSE9BSGdpb2szUFhydFJnRkdFZXlCUlVsRmlBcnhTVm1ieENyV0hwX1pJanlVd2JQUkRYenhka0VuR0NhYjJJUXNHaHZTbGo5ZTB1bnZkb2YybUg5NVFIcUtMbmlsYjNuZS1jU2RMcmhrZTlENWdDOVM2ZmFRRVN3Sm1fRGZqNDJzX29JMWtvZDJZeFgyeThGQXpsZHMyaTJGeDBWSk90MG5h?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-28 10:15:18",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6395,
+      "EUR": 4.2353,
+      "GBP": 4.8567,
+      "CHF": 4.572,
+      "JPY": 0.023824,
+      "AUD": 2.3863,
+      "CAD": 2.6044,
+      "CNY": 0.5121
+    },
+    "crypto": {
+      "BITCOIN": 415467,
+      "DOGECOIN": 0.727758,
+      "ETHEREUM": 14956.68,
+      "LITECOIN": 368.73,
+      "RIPPLE": 9.63
+    },
+    "indices": {
+      "^WIG20": 3011.28,
+      "^WIG30": 3902.76,
+      "^WIG": 3902.76,
+      "^NCINDEX": 276.4
+    },
+    "news": [
+      {
+        "title": "Włodzimierz Czarzasty o aferze z działką CPK. \"Jeżeli to jest prawda, nie wyjdzie z więzienia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWFiVFlieE56c1gzMXNWQzFUOG1xaWlHcU1wNFhnclBsSk9FY0xDOXZieWVnSFpqT3R2SzBfR2NFZW9STm5tTjRPaTVPbGFQMGtwN1pFa0xCMV8zZnE1ZUl5NWxNZjFRV21BRDFKVkdHX2dLQWJQX0NQQzlQWVI2QUtNVDNBTUNPRHNXa3Rwd2RXbU16LVNBQXJEVVpabEx6RnYwVGpqWkhISXVXVnJwTGZFYkpUUHZUaGR5Mk1vVkQxT2xGNl9VOWhjNA?oc=5"
+      },
+      {
+        "title": "Kraków. Mandat dla posła Konfederacji. Konrad Berkowicz wyszedł z IKEI z niezeskanowanym towarem - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWRZUDZKOUZRZ3N6UFlMY01CSllRa2hWM2gtbExrV3E5UkVFYl9ZM1JCQU9Qd215OWFBQkt2aUw5QmpwYXpCLXg3SnpnemhWdW93ZmdjYmlOcWJKb3lVZmQxZ2FOWV93Tjk5dExjRWNPYUZocFBnWTVKb3hRWTZMYjVOcUpDcUFUMUFWYzFnLVIxaGhJMTNpamZzWEV5d2FmNXhwUlkwcW54ZGxibnZOVjI1UGpQQQ?oc=5"
+      },
+      {
+        "title": "Aleksandra i Michał Żebrowscy przez huragan utknęli na Jamajce. Musieli się pilnie przenieść - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVZIWl91dWxyVDlEREFDdGtVTGZUa1Vsc3VWQm5NRERXZTJmSlZCbGEtaWp4U0RZZ0RyM0FQdHFUdjZJeVNnZFdRdVV5OU9nakdReVF5VVZLWFgycDlBc0dwMDVJQmRTOFJfTVRscEJUQW1uaS1WWFd0clNyXzYzMEN3VDdUQzJWNkx1VFEyVmN2S0ptQ09nN2NHYWNlMVRtRmZuNWdSUllXRm5oYzdCLXJoNWNGNnRmSE5xQnUyMWFMaDB2TEhKQ1dfX0tCLXpaQkxN?oc=5"
+      },
+      {
+        "title": "\"U nas też jest patologia\". Lekarze ze szpitala psychiatrycznego w Łodzi biją na alarm - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0J5RlpyUnF2eUxzWm5oN0M3ZW1VcjVhbzdudGlLRlNWOHZNRTU3bDF3SC1iSmFoaXlpcVNPQ3dtTXZXWGxLV3RkRmVGTnRjdHZ4V04tYVg0YXZxWVBDZkhLUmlWVjN0TjB2VmUzcDFNN2hYeF9fQURnZTVGUlh1b2d4QlgyWGRWYTlHT0pKT0IyWFB6Z1pPcnRRdG9leC1reC1WTnVXTWt5Yng1RmE3NUZkOWxhdmQxZmJ4OG9iZmJjWjQz?oc=5"
+      },
+      {
+        "title": "Granatnik, afera taśmowa i tajne dokumenty. Jak polowano na \"Dragona\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0Y3eUstX1l0X3dlTDZ3ZmsxNzdQd1ZGU3J3QS05ZlZNaGpsSWxOV2l4SmFncUxWRU1feVdCbHQwODVnd0Jyc1ZqYTF6Mlpjc21iSTF3TE96Wl9NazhVUDNFX3FpNEZfVmczc3JIWkZHLTI3YzhkSDhvTk05Wm11eEdxMEZfMk14T0JDZllFZmxxUUUxV09yVG1PWFJHOWRWVkk5RXBRbG5CV3VMUnBCUmk0dGZVOTBKYlA4MkttRWp3UUxO?oc=5"
       }
     ]
   }
