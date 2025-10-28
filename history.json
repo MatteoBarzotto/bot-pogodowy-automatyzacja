@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-26 14:19:40",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 414005,
-      "DOGECOIN": 0.737512,
-      "ETHEREUM": 14854.38,
-      "LITECOIN": 362.19,
-      "RIPPLE": 9.66
-    },
-    "indices": {
-      "^WIG20": 2981.19,
-      "^WIG30": 3854.16,
-      "^WIG": 3854.16,
-      "^NCINDEX": 276.98
-    },
-    "news": [
-      {
-        "title": "Donald Tusk ogłasza nową inwestycję. \"Decyzja zapadła dzisiaj\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHRNeUpKU3RrY3VxcWhHQ0pHWFc4UmVPbUpMREkzb0kzemZXWkNWLXZ3ZTgzSC1WQklyTXNXMGptaWxMZ3B2bTd0R1h6a2RrRFVYbXJQMkJHTFpxeUwyVnFUNF8wczBXSFotR1NmeFVaV0J3b3pFV2l0OW40aGZ6eDUycU9zVkNxdHhlVFo0MTZOQWVfNmpJTGYyZS1OcEhpalNsRTRrMDdQX2ZJTlZjZzA0X1RMbE9nRHFWOFRyZw?oc=5"
-      },
-      {
-        "title": "Fotobudka na ślubie Katarzyny Cichopek i Macieja Kurzajewskiego. Tyle trzeba za nią zapłacić - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUdRcFZfSjlTaW9LNmRNZVdMSkhNeFdWbFAyS3oybUVuN1lUNjJueDVna2ZiaWZ6eGZlTWswMno0cnhKSEplSDV6aXVLb2h0NkNRYkp1OFYwY1hhbmRXNUNlYXVRTy1qeDZoTFNmeW9GaFV4LUE4Z1pwNnlUM2EyZWxMMUVQOHBQdGFZS01HTGpHZEM4a0FUTUM2RGIxMlpR?oc=5"
-      },
-      {
-        "title": "Napad na Luwr. Dwie osoby zatrzymane. Jest hipoteza o wspólniku - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWlLeEE1U2dOTFd1UmJQSUdzVGdxS2NSOUF6WlFrWGE2UGdydUJIdV9DTFhsaVhPVlEzNDhaZHFZLU44djVpQmtzcWJ3cFBfWVI0LWFUX1JPOVlvNnpXWkd3Tk4zQ3Jnai1najRoMk9kMEV0WjA2d0ZtRlZaem1UWXRaRXJqdHFJNmVzZkhmZGY1MDQ5X0tOUGg3RTkzOUJZNFZ6cm1JUWo3ck55U2FPUFNnVQ?oc=5"
-      },
-      {
-        "title": "Bocheński chciał wejść na konwencję KO. \"Niestety\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUpHT05CaHNUYzVlZ0JPa2hNMEg1aTZrS2kwWktnazlXNlpCaVV4YUhTZWRTMlQyX042eGFIWnFJbHB6QllCQVg0ZGVnM092VzZOcTh5MGNUOXU3MldfYzRrb1dMMmRDVjFIYUlYZmV0OVJJSmkyQVZ0RnBFSWRPLXdVallnWV9oS0UzblpveXhaZFFB?oc=5"
-      },
-      {
-        "title": "Ta prognoza mówi wszystko. We Wszystkich Świętych nie unikniemy zamieszania w pogodzie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVk9yVTZNLXN3QVBlMmdUUzF5ekl6dWZMMFhaV05HZVRFUWt4R1ZvSEZXZkZldVVuQUxVdHpzTDlzX3MyUGVVNmRrUkl4ZVpBVngteXp4Qlc5SDdvRk5ua0x5RlhiTUV5VUhBTlI1Q0RiZHpPTktMSkxONmljcTJiTC1WSGFDZlJGSnBrbDE5Sl9wa3JIWVRCNEM0WFJ1ekVFaTY5dHJndzNqVVBiZ3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-26 15:11:20",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rzecznik MSZ o sytuacji polskich turystów na Jamajce - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVhhWTlpQ0IwREZyTnAxVXNsSzF2RU8yamh3VlhMQUduYzZHbC1wWFZ5aVhQT21jWW0wSkotb0FjaC15RGFJazRIcUNwWmp4VTVTN3AyWEF5bk5QSmxmYXk3WEVuSjBPazVGY3loVXhXOGQ4d2ozcl9BOEZhcUpjUTFqbjBtd1NoTVBJ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-28 20:11:12",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6327,
+      "EUR": 4.2345,
+      "GBP": 4.8375,
+      "CHF": 4.5783,
+      "JPY": 0.023912,
+      "AUD": 2.3817,
+      "CAD": 2.5954,
+      "CNY": 0.5117
+    },
+    "crypto": {
+      "BITCOIN": 417217,
+      "DOGECOIN": 0.729067,
+      "ETHEREUM": 14934.28,
+      "LITECOIN": 359.91,
+      "RIPPLE": 9.71
+    },
+    "indices": {
+      "^WIG20": 3041.52,
+      "^WIG30": 3940.19,
+      "^WIG": 3940.19,
+      "^NCINDEX": 275.0
+    },
+    "news": [
+      {
+        "title": "Zarzuty dla Zbigniewa Ziobry. Prezes Iustitii nie ma wątpliwości. \"Nawet do 30 lat więzienia\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTl85Zkw3MHlDdEF5Mlk2LUVnTkpfdkpGRkZ6UW02bkU0OXZQQVdUVzk4WUF3dF9OR2FIay1Fa2FjMENzMi1JVkE2N2VsdWZPYTR0NHl2SFNRZW0yOWU0SmZDWnBFeEVPemJsYWdxMzdxbGI3OWJ2cWw4NF9OdVRRSGJ3ZnRVVThGb1ZEVXJjOUUyajVRZFFtVHdJMDF2LUhKakJSeUp4eWhQWGE4Q2hGTUVqZVE2S3NvTmFj?oc=5"
+      },
+      {
+        "title": "Rzecznik MSZ o sytuacji polskich turystów na Jamajce - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVhhWTlpQ0IwREZyTnAxVXNsSzF2RU8yamh3VlhMQUduYzZHbC1wWFZ5aVhQT21jWW0wSkotb0FjaC15RGFJazRIcUNwWmp4VTVTN3AyWEF5bk5QSmxmYXk3WEVuSjBPazVGY3loVXhXOGQ4d2ozcl9BOEZhcUpjUTFqbjBtd1NoTVBJ?oc=5"
+      },
+      {
+        "title": "Wynagrodzenia nauczycieli ws. godzin ponadwymiarowych. Jest reakcja Tuska - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDhhbEJmdHdTbXJvNlBNRHFmdU43SkFQVGlmMDlrcVprdXRLZUdNb0RBekkzV0JqNkg5UEItMHVNdjBpMktZcUdXeTE4OG1xZUtHLWNlVUc4aUFuLXV0ODJFVTJvY21pZEVrOFlsMS00Z0s3dDdYMk5EZzM0QXhXR0s4NVFPaEJxLTBub0dfNlVDdVZFQjFhbmprRy1iSnVvZ3c5aENVZVhpZko0eWpLOGRuUHkzWktJT2RSby1xQnFneHpZ?oc=5"
+      },
+      {
+        "title": "Robert Telus pod lupą po aferze CPK. Dysponuje imponującym majątkiem - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDNEUkdrZXdhT2lTNUFWMmk0SGVraUNzb2o4SFI4VThhdXp1THQ5cFN1WGFwOHF5VDlJb3ZFQ3FrcnE3b2xQbHlBYVFRMWQycUMxSFkyX3htVWxpekx4ZFBlRy1NRzhVQXZtelZFblBmUUxJLVhaa3RoeVpla0FBNC1Qajc4UDYydHc2cS10Ynl5dUZRckpkd09ZUmRJa244cUhoN3pDRFlQY0dwTVRLVGh4SU5rZzJULVJSM0piZw?oc=5"
+      },
+      {
+        "title": "Izrael wznawia bombardowanie Strefy Gazy. \"Potężne ataki\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmdGM2lvT2s1aERlV0RWOV9CT1JTLU4wQzZyaE15d2g3RFVlZE5wZk9lUmN2WUtCSVB5NktTcFVXNXhSQzZzNXM5SWFsMXJYQnk0SndyR1c0M1pSeFZBX2Q0eHhhWWphVkFWOWFVTk9zRTNQemx5RUJWWm1ZUzFNMk1oN0tJRnJQQ0NPdmZiUEc2ckhZNTdzcDdmWTg2ZlFZMFNvRlNidEtkZnluY1hzaDJiRnhESW9UMGU1bUYyREpoTFU?oc=5"
       }
     ]
   }
