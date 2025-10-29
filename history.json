@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-27 17:18:20",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6395,
-      "EUR": 4.2353,
-      "GBP": 4.8567,
-      "CHF": 4.572,
-      "JPY": 0.023824,
-      "AUD": 2.3863,
-      "CAD": 2.6044,
-      "CNY": 0.5121
-    },
-    "crypto": {
-      "BITCOIN": 419711,
-      "DOGECOIN": 0.742415,
-      "ETHEREUM": 15260.19,
-      "LITECOIN": 371.66,
-      "RIPPLE": 9.74
-    },
-    "indices": {
-      "^WIG20": 2980.91,
-      "^WIG30": 3861.55,
-      "^WIG": 3861.55,
-      "^NCINDEX": 276.68
-    },
-    "news": [
-      {
-        "title": "Trzęsienie ziemi w PiS. Kaczyński zawiesił dwóch posłów. W tle afera ws. działki pod CPK - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMURKZkE4ZVZ4UE9OOHdFUlQzNDRJaDNDUmJNbGc5RGw4LUhuWFlaRjdUMkNhS0hBWFBnR2NjY08wdnNsRk84eFl5TnZTQ1g5YXFEOHltRXVvd1NmckwwUE12a2dCV0dzMENvcFVoTzZoc0xoRkN4Q2ZKM0R0WUZBQXVUVmkweDMxTHhEMGNlQWF1VWJPNTAzcnc2TjRyS3NrRFJZbUJNbWlVd1A1UVBLSnEzMA?oc=5"
-      },
-      {
-        "title": "Władimir Putin po 25 latach zrywa umowę z USA o utylizacji plutonu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXA4UnpPdnVId1pFcXdRSjg0djN4Si1QX2hwMUt1aTRxWWNFRjlBMWota0E5b2c0Q0lzcWFmOEVnWi1wS3VjbWhYeWFUdWFyZ0pid2NyWmY5WEo1YlpaLUZnWjkxOWJBZjZ5WVdBSXpSQk1IMVlCcjFmNHRwRzQxTnh0Z3AyU0VYekxzR1pKTzZLNnQ2QWMwOVl1Q2FucnpWNFE1Q1Q5RW5RWXM?oc=5"
-      },
-      {
-        "title": "\"Atak hybrydowy\". Pilny komunikat premierki Litwy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NEaVJyd0xoWDdFTjJINmZsU0dlTVNLbi05VlMzaHZaSjNENDNBMngwYjFsUXlhY1FMemRjajM0cEhVMWRObnJiUlhVUks0UUowMHN6bmlBOHp6ZGRrenVwNnNiQVI1dWF2czlSWk11cjFSUWhScmlnU1k1VndISW41VHdiYnFYV1N3eTJlLXRKOE44M3hQNnZRLUc?oc=5"
-      },
-      {
-        "title": "Sprawa immunitetu Małgorzaty Manowskiej. Nowy ruch Trybunału Stanu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMngtdVRhN3RzVlRZZkhzM2M0bTNfRk1JcFZTdHdSQ1JSTWNuWUZCRlFQWi1TRzF1Z1RKRE1ZZXJlU2ZpRjhwNHp0cVhFLWJxeFdhNTB0ZFVOQWJLNUxHbF92cjk4TjRfWi1BUXlYMXhFN3VFRzJZcGl0M0VOM3d2ekVFd1dZbE9XM05ZZjJOU1BIeXpfYU01a0YwYlRfQQ?oc=5"
-      },
-      {
-        "title": "Czy Argentyńczycy odwrócili się od Javiera Mileia? Są wyniki wyborów - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVpSMEVYZHhySjVqT2N6aEFMMHpZSk9rVzh2UmkySVNqY2lib2htZVpzT1dDTk5aZkx0bXlsZEJSdnFNS3JtR1hhVzhrOWlLMzJpckFoX0tpTVJGWkswQ19ucWdGZWxwa3RxYXhCejl3bHdSbWpRSV9JVkZ2MnRNQ2JpNFlHejBpX1ZhR1o5TENaYXJwQ01icm9xYUZ5Y1lxaFNaV3lfdU1sLWFYN3VpVmNndkI0Wm1xNXo0VEhYZVQ0dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-27 18:12:41",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rodzinna tragedia na Lubelszczyźnie. Nie żyje 17-latek - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWk2Rkwwd2k1REFTbUpVWm1IMVJZZmZwWGlUMk81ektxejVHUkZIZHFrVlc5VDh5RnVSbmp1clRIUndPaW5IeFB0ZEIzV3ViYWFycENuNERFanpjVmd0NmNINFByS1puLUg5MWlxbE9lWF9SQnBFa00xX1hwcEdRWHViSndudTc1SE92THgzWmhvOHpBS3kySE96aGJadjE3ZFgtaEtHd2twQTQzUVV4bE9CbGRfdGEtc25fQ3NQU1A2UFpuNnN6Xy0tb21iQW8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-29 23:13:12",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6399,
+      "EUR": 4.2374,
+      "GBP": 4.8119,
+      "CHF": 4.5716,
+      "JPY": 0.023911,
+      "AUD": 2.4022,
+      "CAD": 2.6106,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 407653,
+      "DOGECOIN": 0.716568,
+      "ETHEREUM": 14441.86,
+      "LITECOIN": 364.31,
+      "RIPPLE": 9.53
+    },
+    "indices": {
+      "^WIG20": 3038.56,
+      "^WIG30": 3930.16,
+      "^WIG": 3930.16,
+      "^NCINDEX": 274.87
+    },
+    "news": [
+      {
+        "title": "Duża zmiana w Holandii. Exit poll: skrajna prawica przegrała w wyborach z liberałami - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdEhlUzl4RWh5bUlYYU5aQU0wcFhFM3ZQbF9JbnozRUs3R2NsNV90dUo5RVM2T19YQXlSZEVTbXd2UWNqczhJd1hJZ05uM0NXSDdLN2RQUUVrR1h6VE01Rmt1SndqdVVzbFVMR211aG4tSUhDeFVDWHljeElhcHVEOEktMlZQeWl3U1NRZEp2aDBpaU1IeG53Mm1HWHM2WFNuOGVlcFE0MnFWOXI5QWo1d2pQSTRYRjUyNDlLMVAyRWZLRnhqQk50MFdPSjZKMXNGQjVOaU5Td3JLeTFtM3c?oc=5"
+      },
+      {
+        "title": "Afera z działką pod CPK. Joanna Mucha: Ktoś wprowadził premiera w błąd - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYW96UGh2N0xZSmJuQTZGa2JQTTFZY21SRm9vM1hva0I2c3c3cmdxMWl4NXBqRHFfelFZUDBtX3o1aF9TOEhNMTRHNjN1RzJaYTNiT2lWTzJpTVAwd3lyaFRqbUhCZW5QeU9lZ3d4d1h3X0lsQjRKX0drMzA1RDlqb010blg5WDRxcHEwR1dDanZ6X21taXBnaWZoWHF1Q1RRaGVJUG9seVBSVjMtNEZra195eDFhbm8?oc=5"
+      },
+      {
+        "title": "Rozliczenia przyspieszają. Jakie cele chce osiągnąć Donald Tusk? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVJaRE9HMUlST1dKT1VGb3l1bmkwUnZRdEhqTG82bnZ6SGpCMEJfMElneVNFUC1iZzhMbmxyZk5mbzI4NFd4S3BIMHpPWXZKenlJVzN1YXljbC1MX25uOEhwaGo3dnZjV3dfR1h2amdYcG1oUVRjanlBYUJvVGg0dVF1QzFXNVlrajN4VHR6NmFiaUMyVjVreXNRUXdfcEpCX3c4QnFMNGhXNDN0UzBXQ3ltbmRuT0ZPSXc?oc=5"
+      },
+      {
+        "title": "Dramat rodzinny na Lubelszczyźnie. Nie żyje 17-latek. Zatrzymany jego 13-letni brat - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUtBQThoQU1qbkp1VWdZY1BqWTg4N1c3ckV0bDJuT3o5WG9TSTdqc0hBamg1aGhma0xqOWxsajBpbFdObFU3LWJTTlNrUE9rdHFrQ1ZXYkFScjlhWmlsbkpSUmhqdGFpa3I4UEZjRUV6MUNkVlgweUk0TkNkSTNBTjFGelBMOFNsQUVqZlp4Y01TMWhRbnJCZUpLVWRRT1E4Y2hac3E4T2dGdzhMd0Fkb2hDamdGZw?oc=5"
+      },
+      {
+        "title": "\"Ukradł za dużo i się boi\". Finansista uderza w Putina - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVM0dEdESTI2VWhETnl2NkNnVUQ1TVRxLXpNNGhyc1o4Y0VQZHRGVE9TRVU1aWtzdkx4LWgwc2lBRGppUThkYVN1VnFNUVhQczM0ZEt6YUo5UDZWRzBYcXlZMEZPMmVKTFd1UF9YY1FRYWJVQXJYdGlUbjJZMjZVQVVoUmlkUDczeGVnd0ktaWEyMGlreWRwUzJjVllPcFVjYXhIa0MwZFQxTzc4YXY4RndybXhXVUZUVk9UdGRVaw?oc=5"
       }
     ]
   }
