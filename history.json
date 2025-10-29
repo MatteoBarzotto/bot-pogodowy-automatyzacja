@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-27 09:20:02",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 421779,
-      "DOGECOIN": 0.752395,
-      "ETHEREUM": 15314.32,
-      "LITECOIN": 364.17,
-      "RIPPLE": 9.6
-    },
-    "indices": {
-      "^WIG20": 3011.24,
-      "^WIG30": 3893.37,
-      "^WIG": 3893.37,
-      "^NCINDEX": 277.58
-    },
-    "news": [
-      {
-        "title": "Ukraińcy zatrzymani przez służby. \"Działania na rzecz obcego wywiadu\" - Wydarzenia Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXlrUlV5R0pXamt3aUFVTWMyb0RtR2t3NGctejVsazM4djl2dnNqQXVSZlBpZnVrWHQwSkJzZXk1NzlJVnltSmpIT1l3QVZKZlppUTYyeDVnTmJRS01xcmloaXZ2X0VKang4d05RQkhlaExta3czclVzSFpsM052emN1MDJaMUE2UURuR01fcW9KMGhBNS01bzI4cE5TYjRTa2ZFdnFpQ19ReHFKaWxvUVM0OA?oc=5"
-      },
-      {
-        "title": "Nalot rosyjskich dronów na Moskwę. Zamknięto dwa lotniska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhoLWdQN0o1OVRYT2FjSjcxNUg5VWtwQUR0WWY0WVM0TVBYX0hJWGhCUi1jVHJjVjFFSEo0ZzJ1akJyMjhNWFpMY3N3VDFNdzF5Q1JwcXZ6bW9WZUtJYktQSDVDaklpSlU1d2JTRFlaSnBlZXBNV0NoTVFEWEhLMWl4NndtTVgyRkx6bjFNMVNYYkpLV2FTMnVMN3Nld1JIWng0dDFR?oc=5"
-      },
-      {
-        "title": "Nowa groźba Putina: pocisk Buriewiestnik z napędem jądrowym - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLUxYOWE1NjZWT05VVXRxOUpHLTFEVEdQOUs2S1YwYTFpV2dTVE9aZ0J1dy1jUU1KM1BjZXZ0SFYtaEJYYnhHMHllN3JpdW9GMWMyd1V0MmNzTk1BdGpCeWlyVGtMMk1rUmUwbjNKaE1weGF2c3BSNmU1V2pmRXkwT0ZSdnJ3QlE3OUlZb0JSckt0UnZ2eG5abVBpV1c3aUdWOXM3YkNWWEN5d2Y4SWVzY3VTQTBSUEhoNmlN?oc=5"
-      },
-      {
-        "title": "Nocna prohibicja w Krakowie. MZ i MSWiA podały, jakie są efekty - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUFwUDNwRzBxa09VTjlLZzF0NzVMMFN0WEpmTThnZ1M5bl9IV3h0RVc1SmpOS2dBTEc0cGppdzcyMzdWaGd1TWZNSGx6dE1wSDMxaDJiVHYxYWRnRHVlSWZ0QUdLeHJ1dzhYZVV4VllXQmNhSU90T2tCZzRjUWZrZU56ZTdSZHA1SGxxNDlHd1JYaXNRTVFGV2syTVc0RjhaRlF3c2ZsRWh6TFB3?oc=5"
-      },
-      {
-        "title": "Skrępowali seniora i ukradli fortunę. Sąsiedzi od dawna drżą o bezpieczeństwo. \"Do mnie włamano się trzy razy\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXU5dDJSeFNTekgyNExYRVF1bzRrWklJN3RPVmZBby01djd1RGRFdEhlVThoUTdqMFNGMm1xeWJ3TmF6c3lGeUJ5TG83VjkzZ1dCWXhWb0xaZ2N3VHZ4SVNqeVFOOG1yTTJMYmdZNGtTRzlYWVpLamNsY05tQnNqSXJkTzIxNmNFZ01CbmFhdlR3ZGxETUZSYVJXWVk4UnpWM2xxMzJmM2tSVHl2RG1FTWY1dHZqb3ZoUzdBdEViR0FiZzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-27 10:17:54",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Paweł M. zatrzymany przez CBA. W tle sprawa RARS - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm1fYTJRRFRPSjlFMjB1VGhTa0JqZXhwRXJHUDE0d3FBYURKYmFqUzFFSERiOC1za3NBcEtZa2NGTnZWMVhNeXp0TlNxSEUtLVF2LVU5dTN5R0RlT2EzY256c1BnWmNWOHVqYUs4V1BDaVhQeEJnT2M3RjM1UEdubFNSLWNDN2xlRVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-29 15:14:29",
+    "weather": {
+      "Warsaw": "Warsaw: +13°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6399,
+      "EUR": 4.2374,
+      "GBP": 4.8119,
+      "CHF": 4.5716,
+      "JPY": 0.023911,
+      "AUD": 2.4022,
+      "CAD": 2.6106,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 410426,
+      "DOGECOIN": 0.706173,
+      "ETHEREUM": 14536.11,
+      "LITECOIN": 361.84,
+      "RIPPLE": 9.59
+    },
+    "indices": {
+      "^WIG20": 3039.89,
+      "^WIG30": 3930.26,
+      "^WIG": 3930.26,
+      "^NCINDEX": 274.09
+    },
+    "news": [
+      {
+        "title": "Posłowie PiS grzmią w sprawie działki pod CPK. Domagają się dymisji - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlYzOXJvTDRqYlFCYlNXTG4wNVZsYVotVXBVMEE4czE5REJUTENSRU9KNlhiMGJqdVFQZVFfNGg5aldsSHFxRHhOalE0Znh2d0pfeTc4ZllwODlkN1pUNFNYejBfTGg4bzlZSkJidVpuR1Q4TmtXb0szT29Na3ZoZFZ5R0VuVmFjdWVpM0FIOTBEM2xSLVdTS0FNWHhsOFpXbUljXzZDR0tvZw?oc=5"
+      },
+      {
+        "title": "Ziobro w tarapatach. Wiemy, kiedy możliwe głosowanie ws. immunitetu i zgody na areszt - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmhweVhYNGg3ajdhR1NVRVlaX0dXMFFGM0l6amp4TFFjNENrbnZ0a2dzMWZnZ2w3YzRWanpITHNNR0dJLURNQ3dLYU9SS3FpWE5CdlNBMVdTUzJKRmo2OGNDeFNxLUFFalhteHNVM1FOVmk4RFhXU3c2Z0l5VGRTX2M0aEtiWl9PTC1IWndiUk5MME5YNGFuYmZyX0stekxqZEtiNHljdmZ0NzVMSlRUSG5QQUlLTlFXUlNld0lCOGpwTFk?oc=5"
+      },
+      {
+        "title": "Spięcie z dziennikarzem TVP na konferencji PiS. \"Przeszkadza nam pan\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3RyeVV5SEd6ZE5qWDdtS1FQN01Lb2F1WGVHZy14M3gtcDh1M2w4X19ZaWVDOExqTEhLUVJlYVZuTzR5OWlxWWFkdjQzRjUtWm4tZ0h1ejhPc1BQX3JJaDlsaUItZXRScFBZNHBsT0JqcDc2WHA4Tkg4eWpxdDJrX29nSU15RFdtc21qRWRRalFqSWRJN2xiZi15MUYtRURCWTB1b3pSRDlHa2YxX1dMOGZCLUNRNldGVTRMTHAtSnJtaVFjQzU1bVlEeFRBQXVp?oc=5"
+      },
+      {
+        "title": "Polska będzie miała wielką fabrykę amunicji. Wyprodukuje 180 tys. pocisków rocznie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVJNT2NhQWRra3VlQmw4R1JRd21aV0hMZDdyN1VIU2d4YWFtTGpUX0MwRjYwU1pJZGwzS2Rwd285LXc4UzJzbzdNeGk5MExfSzFtclB0MndPYTVuX0doQWYtY2hQSzhYMVVvOC1OLThQUlZoRkIyQU5PWmhKSDhBTUd4Zk5hUE1NS25BbkRSZDc1OXlSMm5lRms0UmEzZGtTOVVLdjIzcDZRVnhvbjBR?oc=5"
+      },
+      {
+        "title": "Koalicjanci Tuska poza Sejmem. Jest nowy sondaż poparcia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckZsZ0p2SXp2VTk0bGFEM1lpSUFqV2l4dVJCT2FFNWFyWlY2dFJYNjVGRm92eUtYTFBuSHJvNVRPcU9HSmVUaVJwVjN6MmRTa3V3WlRkcnptZWVpdDZhWnAyYjNxb3JGbndfQlptY1NELXBpYld1ZG5uLXJyejZBUGhvamxmRGFBMDVSOV9BZkxWUUpOSmtCQ0F2TzBfRkVHSzh5bGFBdEhWV2Jpd09B?oc=5"
       }
     ]
   }
