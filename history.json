@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-27 11:17:01",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6481,
-      "EUR": 4.2353,
-      "GBP": 4.8589,
-      "CHF": 4.5839,
-      "JPY": 0.023849,
-      "AUD": 2.3695,
-      "CAD": 2.602,
-      "CNY": 0.5122
-    },
-    "crypto": {
-      "BITCOIN": 419526,
-      "DOGECOIN": 0.737673,
-      "ETHEREUM": 15153.37,
-      "LITECOIN": 360.3,
-      "RIPPLE": 9.51
-    },
-    "indices": {
-      "^WIG20": 3000.41,
-      "^WIG30": 3883.04,
-      "^WIG": 3883.04,
-      "^NCINDEX": 277.54
-    },
-    "news": [
-      {
-        "title": "Litwa zamyka przejścia graniczne z Białorusią - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWVONjh2czZsd0kya3p3T2hndVYyczlLd3ZCd1lXUUUyWmxRWmROMEUzUE1MWkdFUUMtRDZESGJhQTd6TGVEYUd4NmhqNTNoMzdRRGN3QXY0Zk5aZVNDZ2FjOUNyMXJZZGVYVEdqekljSDQweUdUZnlMdHhuUE1lOG9PNVpCclFfYWt4cF91RDBMbE9yZlpvTENhU3hSV2Y5VXZ2ZDAweHNleE1x?oc=5"
-      },
-      {
-        "title": "Ukraińcy zatrzymani przez służby. \"Działania na rzecz obcego wywiadu\" - Wydarzenia Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXlrUlV5R0pXamt3aUFVTWMyb0RtR2t3NGctejVsazM4djl2dnNqQXVSZlBpZnVrWHQwSkJzZXk1NzlJVnltSmpIT1l3QVZKZlppUTYyeDVnTmJRS01xcmloaXZ2X0VKang4d05RQkhlaExta3czclVzSFpsM052emN1MDJaMUE2UURuR01fcW9KMGhBNS01bzI4cE5TYjRTa2ZFdnFpQ19ReHFKaWxvUVM0OA?oc=5"
-      },
-      {
-        "title": "\"Niestosowne\". Trump reaguje na rosyjskie testy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDNGU2dEM3FFcU5aUjY1T09jM3VIUnlnMW5qQzdDOC1xTkRtWUkzMDJCRUdDcmkyNnI4ckw3eENKTVk0Z1hvVkZ4bzdrWWZDZ185NDZ1ZHJOQkpTZndMUm5QUDhqQ0ZQRXNGZ182bnRUZ3ZncjJHQ3BlREcwOUoyRkxWRDRDZjd1V3JTZWd5WmlwMUdBMVBrbXpB?oc=5"
-      },
-      {
-        "title": "Konsternacja w Kijowie. Tak Nawrocki reaguje na zaproszenia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE5za05TOGpQV0ZURDNaZUdYOG0zUUtEYU9rRVpmYkFGTVVHb1Vfc1RoYU9qbXNRR0pDRGl0WkhaelhxUWxsRnNocVAtTHZWeUpqWU4tRUtNRl9LaDdfRHZVS0tfYUlKaGxjOGtjX09PTmczalBJSWgxU19lX2YzRktfSGFqU0ZCdjhYaVc4MjE1eTVlTlRxdENaZWp0dGt2c2hF?oc=5"
-      },
-      {
-        "title": "Nie płaci, zwodzi, rozkłada polską wieś. Kim jest doradca Prezydenta RP ds. rolnictwa? W poniedziałek na Wyborcza.pl - Lublin.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVMT2pLRHhNS3BZd0xsVHVxOS1WU2cyTjkzTE9GenFkbjJXU1RwRTRnU3lZdHhFTURSM3RaOW1SRFAzNzhFajVoMUhpbW93SExDN0dfWGlua2REa1ZwZmdaQjNmTnBheDZMS2xjWjFjbTlyUEdBME5lRkdMQ2d4LWxrUy15MWZsQkpPMDlhV0tDZ1p0RjZMNF83WmhxejJITmZaa3VLX1BQRkZwY0lXYQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-27 12:12:56",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Rosyjski samolot przechwycony nad morzem. Prowadził rozpoznanie - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzNWdndXa055cmUweDVFOEZFX2ZEZHplbVhHMVNtQ1QxNzRRUm1uNnpsSlB2ODZqQzNJTkZhei13SXBaQWsteW9WWjZob3NzMWVlVWZKWjF2SU5OSEVyc2ptM2VER3FoOElvQ2FmRWZrdlVKdU1FT2RfVmF2WVh1eWlnTEMybTdsdi16MTBPRVpmN1laZUhna0tTRThlNUxid2tTZ2xZc3V6cnlCQkZaZEVxbE1vZ204SkhpOWhmVlM0Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-29 17:19:24",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6399,
+      "EUR": 4.2374,
+      "GBP": 4.8119,
+      "CHF": 4.5716,
+      "JPY": 0.023911,
+      "AUD": 2.4022,
+      "CAD": 2.6106,
+      "CNY": 0.5127
+    },
+    "crypto": {
+      "BITCOIN": 403710,
+      "DOGECOIN": 0.694158,
+      "ETHEREUM": 14340.71,
+      "LITECOIN": 356.67,
+      "RIPPLE": 9.53
+    },
+    "indices": {
+      "^WIG20": 3038.56,
+      "^WIG30": 3930.16,
+      "^WIG": 3930.16,
+      "^NCINDEX": 274.29
+    },
+    "news": [
+      {
+        "title": "Posłowie PiS grzmią w sprawie działki pod CPK. Domagają się dymisji - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlYzOXJvTDRqYlFCYlNXTG4wNVZsYVotVXBVMEE4czE5REJUTENSRU9KNlhiMGJqdVFQZVFfNGg5aldsSHFxRHhOalE0Znh2d0pfeTc4ZllwODlkN1pUNFNYejBfTGg4bzlZSkJidVpuR1Q4TmtXb0szT29Na3ZoZFZ5R0VuVmFjdWVpM0FIOTBEM2xSLVdTS0FNWHhsOFpXbUljXzZDR0tvZw?oc=5"
+      },
+      {
+        "title": "Immunitet Zbigniewa Ziobry pod znakiem zapytania. Głosowanie dopiero w grudniu? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXF0RHNfZTlwcFRuWkJJWVBOLTBDQ01CN19Oa1RZWjRrRF9ILTlXT1hzTjNLdmlCVFMxTWw3ZllOQzFEbm0ycWp0Mk5Lcjl1RlJ3VzJhN21ReXVmTExGdHZjUF94dFlBRkpCVTgtcXU0TVpDQlVkZm40UnBPcFJJVVQ2VTg1ZnVqXzB4RjJ4cjFxVXFrX3VwcWtfdkpXWDdGSEpCc25kbm04eF9KMWt1MTBTbmRlTGtXbzZzSVZnb1lBODE5TUg0UWEyVEdBZw?oc=5"
+      },
+      {
+        "title": "Tragedia na Lubelszczyźnie. 13-latek miał śmiertelnie zranić brata nożem - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjU2bXpOQlZfblVmbm1TbU9Mc1h5c2lFR2g3M0dzbk9jSjR3OW5BWFVsRkdUYTBxLUp3TzJQbU05bEJ0UEtONVRsa3BfdHIyX0F0OEFyMmVRbkRwMjBlNGZpQXdHUnlHQ1ozc3hpYm1RdmE2b1Rvd0xRUllWRzk2MHVOekRtMUE4RzdPWTlOT3JTY1ZiclVfSUtR?oc=5"
+      },
+      {
+        "title": "Aleksandra i Michał Żebrowscy pokazali zniszczenia na Jamajce. \"Wypadły okna\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZTJQOEd6MmVFa2NBckVlTnFEMFRJQmdfZVJDdXJUWk1jMEd3aHVzX2wyc0o5NHJmelRhYjdUWEdKcG5STnNzUzd3QnpfMkJHRXlsOXlNRHdmNjJOYUhscEgtYzJOVkwtdkpXcWxJYjA2UU9ZQzRSSmxzc24xZVdObDFDVHJxZVgwMUNQZnI1N05XM2U2SXlmOWphajFic3lxckZ1V0dMUzFpNjA0OXlCcEsxdzh0Vy1RUDZsRG5wWWVyR08tMC05VFNB?oc=5"
+      },
+      {
+        "title": "Janusz Kowalski pięknie opowiadał o PiS. Przechodzień nie wytrzymał i rzucił kilka słów - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkgtemtSUG1TY0pxZW16emFaOUVfQXNHZFdpRnRCbmM0dmVSZnFwQ2ZLMHZIN1VRT3F2MFVhajUwMjJSbVJyVC1yU2doZXRzUkZPcjJHYjJvWnFpQXNEVGs3Mk1BbGM1V2JCVFZ5dERSclFXalFYdGtYZnNuSFRCTzJtWEhCVVI1ZzVJcTlZMEVmSXJEeHYzZno2cw?oc=5"
       }
     ]
   }
