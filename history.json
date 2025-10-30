@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-28 14:26:14",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6327,
-      "EUR": 4.2345,
-      "GBP": 4.8375,
-      "CHF": 4.5783,
-      "JPY": 0.023912,
-      "AUD": 2.3817,
-      "CAD": 2.5954,
-      "CNY": 0.5117
-    },
-    "crypto": {
-      "BITCOIN": 419320,
-      "DOGECOIN": 0.736166,
-      "ETHEREUM": 15120.07,
-      "LITECOIN": 373.6,
-      "RIPPLE": 9.77
-    },
-    "indices": {
-      "^WIG20": 3033.2,
-      "^WIG30": 3932.59,
-      "^WIG": 3932.59,
-      "^NCINDEX": 275.27
-    },
-    "news": [
-      {
-        "title": "Donald Tusk o aferze wokół działki pod CPK. \"Wyjątkowo paskudne potwierdzenie\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVMtYnQ1QnhHV0RJQi1QTi00aTdPOURkejc5dHpYSmNQSWRndVQxZzZIMW01UEQ4Tk82V3hCWlpENE5pTnVIMkRDWFZqczJWRUhLdWVIV1FPZHJ3YmVqbVp4c2NZSVR3amNPLV95STNmRkFxcTM5dWxxcWYycS1TWVMzVTBjb3ZsaEx4LWNrTGhUWGZQLWhCYzgxMnByX2QtNEpRWkh2QnFRX2YtRWJBclVCbGNhUQ?oc=5"
-      },
-      {
-        "title": "Jest wniosek o uchylenie immunitetu Ziobrze. \"Założył i kierował zorganizowaną grupą przestępczą\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZm1xbjRNMmtYUmNXQXgxQ3J1RDAteWQ2bHR5dWJ6aWR0QnM5bjJxaG9FZ1Uwekx3T3huZXVkLTFSQ0FDajQ3LWdNOVk4bkxqdldhaFFxRThGUFhVYWxsWFdxVDVNY21BNGV3TzUzM2RQX1dncFVTa0J6UTBRcnJUVHNQdEhsblRvblNEdEJ0YlhjbFlvdzRVRER1RUZjUGVVcWZfNkRVd0Zjam9NVzJVMkE3Y3pSQUMxQVNqMno0eTVNMHQ4WENYYzR5ZlhQY1dtV243X0Y5ONIB1gFBVV95cUxNSDAxc1JMWThpSXo1YzB1YjFsczNpcWliMVpRaFQ5eTY4TVpOWnlfUFN3UUR2bS11dkx6bXJKT0RxdncyV1h4TU9LbXpoNElYeXg1NXVkNDdtcWc1VVFvVjQ3WTl6U1IzQWVuN1pyQ0VYSk9LMzZBR3h6MDNsak45MFJLWDZReHdHUFFrZGZyVDVtaWZyNVliaDFFa1ZuVjNpeHNaZlFMMjJBUTRsOFUwX3VQdTFBY21GZXZWUzNXRTJlcC1aUHlQQjFOd1dHbVVIQVZQZ2lB?oc=5"
-      },
-      {
-        "title": "Wlecieli w oko huraganu Melissa. Nagrania przejdą do historii - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGQ0S01pQTV5RmFVaUNZeWQ4NDhlTFRIX0xRQW5ScHFaX00xNXBTX1BqVUdEbjlzamVidjEyNVVQY1Z0a1NYRTg3OU9mQ2RZbExVYUJQYkh2ZUp4YlU1eFdaSHhtU2RBQjVPSENsWm5BTlBod01uNWphT0FqMXc4ZmYyQURLcjAzS0E2NnFSQ0c2MndZbnNWbEpmQTNaTVJQR1I3RTNlZjJDT1h5eUlka2pUckY?oc=5"
-      },
-      {
-        "title": "Wynagrodzenia nauczycieli ws. godzin ponadwymiarowych. Jest reakcja Tuska - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDhhbEJmdHdTbXJvNlBNRHFmdU43SkFQVGlmMDlrcVprdXRLZUdNb0RBekkzV0JqNkg5UEItMHVNdjBpMktZcUdXeTE4OG1xZUtHLWNlVUc4aUFuLXV0ODJFVTJvY21pZEVrOFlsMS00Z0s3dDdYMk5EZzM0QXhXR0s4NVFPaEJxLTBub0dfNlVDdVZFQjFhbmprRy1iSnVvZ3c5aENVZVhpZko0eWpLOGRuUHkzWktJT2RSby1xQnFneHpZ?oc=5"
-      },
-      {
-        "title": "Kulisy ataku na klientów Santandera. To nauczka, jak należy korzystać z bankomatu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFJCQkdXemFJbVNySUFpYjVpaUdYMmF4T0I0TDhmLVZfWU9WUnFLOTFURE02cGp4TFlhWnhaRUhVRkk1XzQtckhoaUZubXplT3RIZ05GTWtreGJwYzIwWFJMWGxjY1ZDYWFzOXF4Y0ZmVl9ETktheDFFUjZObGtMN3Rwa1VORk1Ic0p6aGNFa0k0ZG52amJ1N0tJc0xyaFFfbXB2RnpWc0syQTdvaWowZjVvVUh0Sm80bEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-28 15:14:23",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2628,6 +2575,59 @@
       {
         "title": "Wizyta Zbigniewa Ziobry u Victora Orbana na Węgrzech. \"Brzydko się zestarzało\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3FlWTFqTHE2X1lpZlVkc2RoRV9oeEN0bTg3NWNHb01YR1kxRU1fTzc2V1FzZ09rWHVvVUNJbEhBRFZ3OEdOQVFYbTA0d3NLYnFfQXZvMVAtN2xjTks2WjNtMGlMd3k1dU1LVFdiVmZIN2NBX3BvUDctd2hRQ2NWOVN1WFBuS0Zwdmxpci1vdFFlcUppVkZWcEYtaWFuVnZVU2VIVWhoMUJCNS0wNkRwRFpzMDFMSHpCTHRkTlY4dGZiOU10?oc=5"
+      },
+      {
+        "title": "Trump ma swój sukces, ale płaci cenę. \"USA postawione pod ścianą\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXhhZVllUlR2X0JQdDFZWE5PRWtUQ2pkblBRSHlrUmtERlJKTHpkZE1odzI3dlNweXRicUJGRVI4Y3NRYXhmdDBZeTVBdnVyYlFEUHZBRzZoMTY3SWVaYVRLQUkzb3JEb0NfNUNKOEpGTkFjaTRTM0puU2h5REplazgxVnNOQmx4ZDJfbF9EbVRQYnFqeTRacDlOZ3NmVjZaUVdPQkNkeTVybHAzMXFNOVZrcXQ2eFU?oc=5"
+      },
+      {
+        "title": "Zapytali prezesa PiS o działkę pod CPK. \"Oszukańcza propaganda\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTYwWHFhV25mSzhiWUJnNUNLT3FkaHBwVFRXNzZWTXVNdkF5T2tzeE1fWTN1QzZXNGFlbXBDRHVoQkhDdFlYWFR2cE1MU2xhMnZZS1pFaGs1aTlucnJPR3h5RElNd0lFSDhXZzlkY0JoWEliOG1aZEloRmxqTnB5R2s5emhIV1BMSzdYQUV0aGZqVlJvclZ0bm5HTC1xZ2NhRXIzNFBIdzJhTzJP?oc=5"
+      },
+      {
+        "title": "13-latek podejrzany o zabójstwo brata. Jest decyzja sądu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmVVTnNiNHVUa042b0owLUxuelg1MDhwWmFaaldEd0ZFMXJxdDJYMWZOSHl6a2U1MTEwLWdKaHIzeFJaQnRGUnVxeS1EMTNNM2dpYkpGZHJPbjdZYVMtbnh5NklCd21GWW9fS3poelZua1F3YWxITXlnbGEtaFdQaGFjZ0dYR0VZQkIwZktCM0QxdHZESmc2d1lRSzlobWc?oc=5"
+      },
+      {
+        "title": "Bronisław Komorowski ujawnił prawdę o emeryturze swojej żony. Pomógł Andrzej Duda - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Z3YjNTMHprSkJXOEVhcDNPLVN1WktpQy1jZzljTmtXT1FYRGVISXBfSTc1azlSa0lQMkt2dlNDcmFSSlFBYjc3dVJFWjgtb3JtZGx3S21DZ1d6V3RLamlqa2lON29KVzBVUzlPbDNpMkJyZ1VhMzFudll1Q19BVGQ2ei1UZjVuVTg4bDdmcHZUOVI2Yy1mX2dfSnhqVkdfOGY1MHRrMEtPRlF6MWV5cHplcnN5Um9jMlJr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-30 20:11:19",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.652,
+      "EUR": 4.2425,
+      "GBP": 4.8169,
+      "CHF": 4.5719,
+      "JPY": 0.023746,
+      "AUD": 2.3989,
+      "CAD": 2.6182,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 392805,
+      "DOGECOIN": 0.655029,
+      "ETHEREUM": 13693.54,
+      "LITECOIN": 335.56,
+      "RIPPLE": 8.88
+    },
+    "indices": {
+      "^WIG20": 3029.29,
+      "^WIG30": 3911.73,
+      "^WIG": 3911.73,
+      "^NCINDEX": 275.49
+    },
+    "news": [
+      {
+        "title": "Zbigniew Ziobro przyjechał do Budapesztu. \"Brzydko się zestarzało\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3R3ZzRnczg5MHJ0MXhvdnRnaWlvS2tZNmRTR2p0bzZWUnpJbDhON1BHVDdlQVJQVWpOcVJoQWwxT3g5OVloLUVuVG5EMmtnVmMyWVRjdXVjSFBpb2VlREN6U3hrR001RHYtcjNUM1MyY0JPV1ctWVVmaG5CbThReElPM29xR08yQURsTkNPbmJXMFE1aDlBQXFUZ1MxVVFIaTl6MDZ5cUdaaUtXNjlGZFNPWXR6UlNMWjh3?oc=5"
       },
       {
         "title": "Trump ma swój sukces, ale płaci cenę. \"USA postawione pod ścianą\" - Money.pl",
