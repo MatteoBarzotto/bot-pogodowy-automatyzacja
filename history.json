@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-28 15:14:23",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6327,
-      "EUR": 4.2345,
-      "GBP": 4.8375,
-      "CHF": 4.5783,
-      "JPY": 0.023912,
-      "AUD": 2.3817,
-      "CAD": 2.5954,
-      "CNY": 0.5117
-    },
-    "crypto": {
-      "BITCOIN": 420223,
-      "DOGECOIN": 0.732957,
-      "ETHEREUM": 15103.14,
-      "LITECOIN": 367.12,
-      "RIPPLE": 9.66
-    },
-    "indices": {
-      "^WIG20": 3036.68,
-      "^WIG30": 3934.52,
-      "^WIG": 3934.52,
-      "^NCINDEX": 274.97
-    },
-    "news": [
-      {
-        "title": "Afera wokół działki pod CPK. Jarosław Kaczyński zawiesza kolejną osobę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTRPRGdXV1FjaW1NTGd2WGVnMXE1bUlXSnZNM3dwelllekpnOWVQNjdldi1yaEp0MUwtUU42MzhYMVNWdnM1bG9wa1FzaDBtUDc4b2RMaHhRTkFIa3VGaENsOGt0X0tXSUIyelF2VmFFYWlxNVdseU9vd2RiNUJ0eUlmWFc4a2NmdnNuREZLUnJMWnV6UkQxMHlveW14QkNQLVNFQVgzX3VoS0wzMFE?oc=5"
-      },
-      {
-        "title": "Jest wniosek o uchylenie immunitetu Ziobrze. \"Założył i kierował zorganizowaną grupą przestępczą\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZm1xbjRNMmtYUmNXQXgxQ3J1RDAteWQ2bHR5dWJ6aWR0QnM5bjJxaG9FZ1Uwekx3T3huZXVkLTFSQ0FDajQ3LWdNOVk4bkxqdldhaFFxRThGUFhVYWxsWFdxVDVNY21BNGV3TzUzM2RQX1dncFVTa0J6UTBRcnJUVHNQdEhsblRvblNEdEJ0YlhjbFlvdzRVRER1RUZjUGVVcWZfNkRVd0Zjam9NVzJVMkE3Y3pSQUMxQVNqMno0eTVNMHQ4WENYYzR5ZlhQY1dtV243X0Y5ONIB1gFBVV95cUxNSDAxc1JMWThpSXo1YzB1YjFsczNpcWliMVpRaFQ5eTY4TVpOWnlfUFN3UUR2bS11dkx6bXJKT0RxdncyV1h4TU9LbXpoNElYeXg1NXVkNDdtcWc1VVFvVjQ3WTl6U1IzQWVuN1pyQ0VYSk9LMzZBR3h6MDNsak45MFJLWDZReHdHUFFrZGZyVDVtaWZyNVliaDFFa1ZuVjNpeHNaZlFMMjJBUTRsOFUwX3VQdTFBY21GZXZWUzNXRTJlcC1aUHlQQjFOd1dHbVVIQVZQZ2lB?oc=5"
-      },
-      {
-        "title": "Wlecieli w oko huraganu Melissa, doszło do turbulencji. \"Przerażające\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGQ0S01pQTV5RmFVaUNZeWQ4NDhlTFRIX0xRQW5ScHFaX00xNXBTX1BqVUdEbjlzamVidjEyNVVQY1Z0a1NYRTg3OU9mQ2RZbExVYUJQYkh2ZUp4YlU1eFdaSHhtU2RBQjVPSENsWm5BTlBod01uNWphT0FqMXc4ZmYyQURLcjAzS0E2NnFSQ0c2MndZbnNWbEpmQTNaTVJQR1I3RTNlZjJDT1h5eUlka2pUckY?oc=5"
-      },
-      {
-        "title": "Wynagrodzenia nauczycieli ws. godzin ponadwymiarowych. Jest reakcja Tuska - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDhhbEJmdHdTbXJvNlBNRHFmdU43SkFQVGlmMDlrcVprdXRLZUdNb0RBekkzV0JqNkg5UEItMHVNdjBpMktZcUdXeTE4OG1xZUtHLWNlVUc4aUFuLXV0ODJFVTJvY21pZEVrOFlsMS00Z0s3dDdYMk5EZzM0QXhXR0s4NVFPaEJxLTBub0dfNlVDdVZFQjFhbmprRy1iSnVvZ3c5aENVZVhpZko0eWpLOGRuUHkzWktJT2RSby1xQnFneHpZ?oc=5"
-      },
-      {
-        "title": "Poseł Konfederacji Konrad Berkowicz zatrzymany w sklepie. „Głupi błąd” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ01XczBYTUwydVdteXRYSmJqX29rVTdsM0ZrWVNhcF96N3NlNXY3aDhDU2VieTJFWWVlN2ZLYklnZVVxRFZ2bXdfd0VsWHBWWVRzOXFOUTNvcm1xZjBWNlhvaEhIM2FBbk40MUZIVXhNcUlMSmt0ZEFBVUZOTDRZR3JYMTNtRm95cG83aXhrQnpUXzhDSmNjWUhWV1B1NG40MDVvR3JyT1pQQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-28 16:15:41",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Bronisław Komorowski ujawnił prawdę o emeryturze swojej żony. Pomógł Andrzej Duda - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Z3YjNTMHprSkJXOEVhcDNPLVN1WktpQy1jZzljTmtXT1FYRGVISXBfSTc1azlSa0lQMkt2dlNDcmFSSlFBYjc3dVJFWjgtb3JtZGx3S21DZ1d6V3RLamlqa2lON29KVzBVUzlPbDNpMkJyZ1VhMzFudll1Q19BVGQ2ei1UZjVuVTg4bDdmcHZUOVI2Yy1mX2dfSnhqVkdfOGY1MHRrMEtPRlF6MWV5cHplcnN5Um9jMlJr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-30 21:15:23",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.652,
+      "EUR": 4.2425,
+      "GBP": 4.8169,
+      "CHF": 4.5719,
+      "JPY": 0.023746,
+      "AUD": 2.3989,
+      "CAD": 2.6182,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 392250,
+      "DOGECOIN": 0.653291,
+      "ETHEREUM": 13604.31,
+      "LITECOIN": 334.36,
+      "RIPPLE": 8.82
+    },
+    "indices": {
+      "^WIG20": 3029.29,
+      "^WIG30": 3911.73,
+      "^WIG": 3911.73,
+      "^NCINDEX": 275.49
+    },
+    "news": [
+      {
+        "title": "Zbigniew Ziobro przyjechał do Budapesztu. \"Brzydko się zestarzało\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3R3ZzRnczg5MHJ0MXhvdnRnaWlvS2tZNmRTR2p0bzZWUnpJbDhON1BHVDdlQVJQVWpOcVJoQWwxT3g5OVloLUVuVG5EMmtnVmMyWVRjdXVjSFBpb2VlREN6U3hrR001RHYtcjNUM1MyY0JPV1ctWVVmaG5CbThReElPM29xR08yQURsTkNPbmJXMFE1aDlBQXFUZ1MxVVFIaTl6MDZ5cUdaaUtXNjlGZFNPWXR6UlNMWjh3?oc=5"
+      },
+      {
+        "title": "Tragedia w Woli Osowińskiej. 13-latek miał zabić swojego brata - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGY3bFJ6djE5YzlMNmV0RUJ4MmxBek53TmlfTDRkWkZMWkthMlBULWRlMW5YYmREY3dzUHpyVFBZLTcxNGZldDdxVUkwdk9pb2pENnZZbFR2MzdldTNlbUNTTTBWZFFMUmlPcmdNNnBIazJTUFVpLUlXakZUb3phV0UyRy00OUtqcDVqMGt1SlhuRGo2bGNCRnVnZTY2SUZyRzlzR2FXTQ?oc=5"
+      },
+      {
+        "title": "Media: Donald Trump i Xi Jinping łagodzą napięcia handlowe. W tle broń jądrowa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUxZQmppaHlXZF96ajRUendZd3N6cFBReGwzMGJ3MGQ3VzZkVHF5dWpKUk9Vd1BsUjN4RjVLSzlmVnJGcEJBZVVpRklwOXcwUnhwWnp5UjlEUk5aY0szYTV6S1hzdmJ3RHZ5cjdVemxsU2stczhUQno5UkNqMVVHeUNGTGlZWjZMX01Qd2JmSmVUU3NoYmF5NTByWnRMTTFXMEtsQXBoMTFzLUJuMWpKOGczRVVOaWc?oc=5"
+      },
+      {
+        "title": "Wichury i ulewy w całej Polsce. Ponad tysiąc interwencji służb, zamknięty cmentarz - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTQ1MEZBYnZCZTYwS3VPeWx0dEw1LXlOX1VvV0pKNGZ2YlVPTWRYdjUzZTFvYWV5dXMwWVhnVVVXZGlyelpkbk9wWGZIX1JEX05kU0VaRXRXVWpyVWR1Ni1PRzA3M1BmUTdaRDhDdzVPdFpUR3dEWFpIeVBfdmZ4elR3SC1NQ3c4b2RHZEpzSS1zZkpKWFB2dGNhRmQ5ajVRWTlzWnZxejlnX3U2RHBlWHFFdlMydUtQcTEzTFRnbGZTZTRZOVRCY0pMY2dUbGJoY2c?oc=5"
+      },
+      {
+        "title": "\"Zrobimy wszystko\". Burmistrz Grodziska mówi, jak pomóc CPK odzyskać działkę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYndNUzNlTXhvQWpEUFRtN3ZmOERLYkQtWElWX0JmakNhaFBDMTBaRWFBamtxaEdrQmQ5QUFpTzRMS0l6aFI0eDNMRkx3MXg0Y2pmRFFfMmdCQXVBd2kwWE9SV0k0QmxVdTc5ZndvVmJwVWdYU0hqUFhjYmNjQ3dEOG5MNm8tVWFxUUlybXlMb1djYnZFemRvaU5OMWhkWnRpOHpoN3dNVFNtQnk0b0djOWJ6VE1QdVZyeFpwN2QxWE5rbHdSeVE?oc=5"
       }
     ]
   }
