@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-28 16:15:41",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6327,
-      "EUR": 4.2345,
-      "GBP": 4.8375,
-      "CHF": 4.5783,
-      "JPY": 0.023912,
-      "AUD": 2.3817,
-      "CAD": 2.5954,
-      "CNY": 0.5117
-    },
-    "crypto": {
-      "BITCOIN": 418374,
-      "DOGECOIN": 0.726827,
-      "ETHEREUM": 15004.48,
-      "LITECOIN": 359.76,
-      "RIPPLE": 9.57
-    },
-    "indices": {
-      "^WIG20": 3046.06,
-      "^WIG30": 3946.55,
-      "^WIG": 3946.55,
-      "^NCINDEX": 275.06
-    },
-    "news": [
-      {
-        "title": "Polska bliska otwarcia granicy z Białorusią. Premier przekazał szczegóły - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGRMSm9GU0l3RDFRYm4ycFpRRkFjeG5hTjNKUTE0Y0hyWUc3eVNiS2hJZnJoZ2s5RGpKR2FNUU1lOHZKOXVGb3BWcXNPOUJsb2lUblROV0EtbWRsRkdtS0hkN3hSVjBDVGZKYVZiRzVMcnI0cHB3QTJ0dHBYdWJQLW52RVhjczNObTZROEdUS0w5WXdzT2hnWHpjdmJLVm5KQURZcVFjamxITkI1SDI1WEc4RTkxYmdIbWJiV1VrRmRSdEJyRVJpdkF0Ti14SkE?oc=5"
-      },
-      {
-        "title": "Jest wniosek o uchylenie immunitetu Ziobrze. \"Założył i kierował zorganizowaną grupą przestępczą\" - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZm1xbjRNMmtYUmNXQXgxQ3J1RDAteWQ2bHR5dWJ6aWR0QnM5bjJxaG9FZ1Uwekx3T3huZXVkLTFSQ0FDajQ3LWdNOVk4bkxqdldhaFFxRThGUFhVYWxsWFdxVDVNY21BNGV3TzUzM2RQX1dncFVTa0J6UTBRcnJUVHNQdEhsblRvblNEdEJ0YlhjbFlvdzRVRER1RUZjUGVVcWZfNkRVd0Zjam9NVzJVMkE3Y3pSQUMxQVNqMno0eTVNMHQ4WENYYzR5ZlhQY1dtV243X0Y5ONIB1gFBVV95cUxNSDAxc1JMWThpSXo1YzB1YjFsczNpcWliMVpRaFQ5eTY4TVpOWnlfUFN3UUR2bS11dkx6bXJKT0RxdncyV1h4TU9LbXpoNElYeXg1NXVkNDdtcWc1VVFvVjQ3WTl6U1IzQWVuN1pyQ0VYSk9LMzZBR3h6MDNsak45MFJLWDZReHdHUFFrZGZyVDVtaWZyNVliaDFFa1ZuVjNpeHNaZlFMMjJBUTRsOFUwX3VQdTFBY21GZXZWUzNXRTJlcC1aUHlQQjFOd1dHbVVIQVZQZ2lB?oc=5"
-      },
-      {
-        "title": "Rodzina Dawtony i 160 ha ziemi pod CPK. Kim jest Andrzej Wielgomas? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0I0eFdHeXFpRjFfN3Eydy0wNnJzYmVmXzVEcmlyaXV4VEVMbjNFMElaR25pS2pJVFFuRjVNUGU2dzQ0Q1dQZ0dDUG82Y1Fma2NoeWQ5Z2FOZ3V0dXZYQUpoVTFWeDhUSVBhM1E3VzlzRzgyVVF4RlBQdjNmMEJPcml3eVZoQzJpeVdmVnVTT2NUMjFqMXg0SjJ6bW1XQnN2N2htcGZWYkJTSzdxNFV0WWxiaU5MOTB6NThDbg?oc=5"
-      },
-      {
-        "title": "Wlecieli w oko huraganu Melissa, doszło do turbulencji. \"Przerażające\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGQ0S01pQTV5RmFVaUNZeWQ4NDhlTFRIX0xRQW5ScHFaX00xNXBTX1BqVUdEbjlzamVidjEyNVVQY1Z0a1NYRTg3OU9mQ2RZbExVYUJQYkh2ZUp4YlU1eFdaSHhtU2RBQjVPSENsWm5BTlBod01uNWphT0FqMXc4ZmYyQURLcjAzS0E2NnFSQ0c2MndZbnNWbEpmQTNaTVJQR1I3RTNlZjJDT1h5eUlka2pUckY?oc=5"
-      },
-      {
-        "title": "Włodarze Nowego Sącza do dymisji? Europoseł: afera bez precedensu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3ZfcHNSYVlMMHpFdzlpT29tWWtBUW5VLS1BVWpKdHhpRTgyaUplcmx5WkdCV0JzU0tmaWozejFXTGh5cjRlQWt6cE1iSElLZVk2Y0ZxS2VhV204SW81emZNOUNmTmxFZGQxZEJKN09iRWJLR0pJbWVhanFpZXFIaDZsVlNZeDFxSWpUTUVTWXhTRlZmNEJtMVVoRGwyWTNOazI4Yk91MmRINDYxWDh0bkJ0TENwVXhwZWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-28 17:18:22",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "\"Zrobimy wszystko\". Burmistrz Grodziska mówi, jak pomóc CPK odzyskać działkę - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYndNUzNlTXhvQWpEUFRtN3ZmOERLYkQtWElWX0JmakNhaFBDMTBaRWFBamtxaEdrQmQ5QUFpTzRMS0l6aFI0eDNMRkx3MXg0Y2pmRFFfMmdCQXVBd2kwWE9SV0k0QmxVdTc5ZndvVmJwVWdYU0hqUFhjYmNjQ3dEOG5MNm8tVWFxUUlybXlMb1djYnZFemRvaU5OMWhkWnRpOHpoN3dNVFNtQnk0b0djOWJ6VE1QdVZyeFpwN2QxWE5rbHdSeVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-30 22:12:42",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.652,
+      "EUR": 4.2425,
+      "GBP": 4.8169,
+      "CHF": 4.5719,
+      "JPY": 0.023746,
+      "AUD": 2.3989,
+      "CAD": 2.6182,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 394784,
+      "DOGECOIN": 0.658681,
+      "ETHEREUM": 13801.62,
+      "LITECOIN": 337.77,
+      "RIPPLE": 8.89
+    },
+    "indices": {
+      "^WIG20": 3029.29,
+      "^WIG30": 3911.73,
+      "^WIG": 3911.73,
+      "^NCINDEX": 275.49
+    },
+    "news": [
+      {
+        "title": "Zbigniew Ziobro spotkał się z Viktorem Orbanem. Fala komentarzy. \"Brzydko się zestarzało\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1FFcGZfUmFybG44MXNCZGRTOXpJQW5nbUh1RWhjUnVHQjEzclFxaWlvYkR0TGhKSzhuYUNwSUpHUFBWS0dxc21ZX0M5T1ZUUzk1TF9kVm5fUkdvSGZQLXNNRmpMZWRLcTZSZVowLUdnZ0lNZXk3VjU2c0ZWRVZvM2w3MnN5Zl8zckd4WWJPQmE1dTV3MEFNd3lYWmUtbUxINTRjT21zOFREWEQwRWR4bHEtbFc4NkpLaDJGSE4tV1FxVXI3NVpzYTVaYVRDaFF4Y0ppS0VvZDQ2UQ?oc=5"
+      },
+      {
+        "title": "Media: Donald Trump i Xi Jinping łagodzą napięcia handlowe. W tle broń jądrowa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUxZQmppaHlXZF96ajRUendZd3N6cFBReGwzMGJ3MGQ3VzZkVHF5dWpKUk9Vd1BsUjN4RjVLSzlmVnJGcEJBZVVpRklwOXcwUnhwWnp5UjlEUk5aY0szYTV6S1hzdmJ3RHZ5cjdVemxsU2stczhUQno5UkNqMVVHeUNGTGlZWjZMX01Qd2JmSmVUU3NoYmF5NTByWnRMTTFXMEtsQXBoMTFzLUJuMWpKOGczRVVOaWc?oc=5"
+      },
+      {
+        "title": "Porażające szczegóły tragedii w Woli Osowińskiej. \"To byli normalni chłopcy\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1lMMnJHRXpVOGFxeGg5cXFpSXRjQUswRm9HcjZpSE5OUG12OXZsc0JUWGFSWDNRUmljWHZiMzNzamFtX0V0cnY1U3FOaHdnVDJTME9XU3BoZjV5UzE3bFp6bVdZbVhBZkowcTd5Nm5hV0FnZlRTRWFXdkNqeHpMNE9JMlFnXzFrN0pkTThSWjhxRExFUTNHV0YzbC16RkdJTndmMnl2ZlFCT0pXb3BlSUxwVUY2c2V1V3ow?oc=5"
+      },
+      {
+        "title": "Donald Tusk zapowiada rozliczenia. \"Kradli zgodnie z procedurami\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWNVVGxCeThLVGF4Nk5Tc25XUy16TE56QlpkVHpOVjdrZ3NnYVRnSHN3SE9iMS1jVi1nS0l4X1Y3My1iZXZRVXFVeWllcnRsb0gxNmdsWUpBSDFXcFRFMmdBTVM0MnJ5d0VtdzdVNEpSbzRCaGdNdzgyTmtjTWFVeU5zSjBpOGhURi1LSUJZYkFsblU4Q0VTWW03ejlUUTRuNVZsbzViR2x3ajVqeVE?oc=5"
+      },
+      {
+        "title": "14 dyrektorek podejrzanych o wyłudzenie co najmniej 39,5 milionów - lodz.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkZsaDdrc1VOTFJZdlh2Ti1RaXp6LVZlZGQtbzRBOW43Tnpub1NlaDdGdk9VT2VRLUFOVDFvN3k1ZGpRSTBRSmNKRmJiTGtZNU9NdmVuZy1xbEVlUjYwVmc2WUV6MGpqd28yUVlSNFJnMWlKOVkycVk3a0Z5cFdobV9RV0hWLUVMdVFiWUo3QmdWdmh0MG1KMVAzTWN5SVZCWTRGQTI3cGVkNDg?oc=5"
       }
     ]
   }
