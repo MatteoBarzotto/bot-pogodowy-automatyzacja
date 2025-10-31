@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29 09:19:49",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6327,
-      "EUR": 4.2345,
-      "GBP": 4.8375,
-      "CHF": 4.5783,
-      "JPY": 0.023912,
-      "AUD": 2.3817,
-      "CAD": 2.5954,
-      "CNY": 0.5117
-    },
-    "crypto": {
-      "BITCOIN": 412850,
-      "DOGECOIN": 0.705497,
-      "ETHEREUM": 14620.42,
-      "LITECOIN": 358.23,
-      "RIPPLE": 9.58
-    },
-    "indices": {
-      "^WIG20": 3056.49,
-      "^WIG30": 3959.25,
-      "^WIG": 3959.25,
-      "^NCINDEX": 275.63
-    },
-    "news": [
-      {
-        "title": "USA redukują liczebność wojsk w Europie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUd1TGNWdU9jNFhPcGFaLU1HMWpOdEZUVjJjYjNXZ0FZRl9qVko1SGxmTVVnd3pBTWFNaHBDWXJ6WE5IQTZ3UjlCVGlydDB5ZDZSeU03SE9WZUxEMThRUDZ0bVQwSUMwTUlKcHdpbk1jQm92OWNfQ2lKdWJuZUh5LTdsY3pnMkRRY2hrcW9PR2xLa2EtRzA3N2xaVTFEbGxoLVNXZg?oc=5"
-      },
-      {
-        "title": "Akcja służb. Były wiceminister zatrzymany przez CBA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNanRaRHowaFVtUFd0NjVab3VvMVg1bXhjTzhZY2p5cjUzWVg1ODNSVjI1VE5BeGdqNWZPQnhxT1FNcXJmNU9MeWJhSnVaLXVURDllejNHVWF1SEhRQVZiQUNVbUtQbXF4UHpVaE9jZ2R1NVVoOWdaOUVyUkRlU1hXRm91RzZiY1FCTE12Y1VzYWpWaTEyTTBCcU0wbktOVE8yNW1mTk0wbGNuU2ZFRUcyZ24wMA?oc=5"
-      },
-      {
-        "title": "Polska przechwyciła rosyjski samolot. Poranny komunikat wojska - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3UxZ2VhY0ZHeC1QSEZMQ0s2aDhTMzdLa1ZkcWF1QVlXN2NtWmVsTUkyblQzTVZTYnR2ODU5TjdLSkROcUJKakZDNkhaNDJDNFRsN1BaSVA2dzc2WlRnaWVPRkVIZWtlUWFUbzVub0F3Sk1hYnFVeERwWHZ6RDlGT25ZQWFveFBJWFFFa01vMEZoWG5QUjJsbHRqVTlBR1ZDQW44YzdDMkxXcE40YkpVYQ?oc=5"
-      },
-      {
-        "title": "Błędy, półprawdy, zaniedbania. Ujawniamy, jak rząd Tuska \"wyjaśniał\" sprawę działki dla CPK - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkRhSVhOc2RGS0JDVmw1dk9LZ0pGdlc1TG1lc0o1bVlDeWRDZkwzdkRSNU5zY2hMZXlKN2loNkE2VTBxdU0zd2lzNTlsS1FjQ2FMSFFKa01TVkpUWVJzZWNsX1VUSDhWLWdvczNfWEFwbl96TFYyZExYY0xRQkNjRC1rWV9Cbk9ZMktIbWVUczZNZUJqYy1oYU0zT2NpV0pIS3MxM2pldXphQV9iVFEyODRhRXozU0UxenNEdzA1RVVUSnJGYjJR?oc=5"
-      },
-      {
-        "title": "\"Debata Gozdyry\". Żurek odpowiada Ziobrze. Przytoczył historię Ala Capone - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTEVtMURCS0xaRzdDSGJTNnRoVE1FcFlvU2dGZWIzY2tONGNmOHVidUxVQXVSeDc2M3hxcmZDQ0pYQ1FsOS1FWTBYZi15ZUtyWmlTb3l3MnlTUWRTLU5Ua3ozTWM3NnhUejJCZEF3VEZEcGs2Yi00ci1INmNxbzUybnpSZGlIamNROUY4elBISnVZZFpabFVicDdZTVlzNTNTeWVnM2RNTlpGdlNlZUFyQmJqSklPWV9SQWZ6cFVKNms?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-29 10:14:52",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Testy nuklearne USA. \"Chodzi o sprawdzenie arsenału\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG43alJhSmg3aG9XNmpUbktKRkltS1JaMVluS242SDZtYlh3SGhxSlBldW9FWHBDdVByMUNKZUF0S0JqX3FZLXExbzh6dVNFSkl1ay1LWVkybmIzY1RESVlhMFZmUXctRUVmUEt6aWtPYTJDdFFvUzZjMmtGV0o3MGlhNE9INWpDUG9WTlZ4ZlA3MTNhYzNCSV9KOHJzM1BvRWFLbVJlUlNzZG40NENlQ0JPMGNWNWFa?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-31 15:14:03",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 406271,
+      "DOGECOIN": 0.687386,
+      "ETHEREUM": 14221.04,
+      "LITECOIN": 351.15,
+      "RIPPLE": 9.24
+    },
+    "indices": {
+      "^WIG20": 2997.16,
+      "^WIG30": 3866.8,
+      "^WIG": 3866.8,
+      "^NCINDEX": 273.46
+    },
+    "news": [
+      {
+        "title": "Sondaż: Wiemy, jak sprawa sprzedaży działki pod CPK wpłynęła na postrzeganie PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeldTNzVJMlI5MnZfTDZZeDBCLVB0ZnVOLUllYkpGM0J3UERHTERucHpTNjVxSUFzWGFmbGJRUk5XckU4UDZRT21NMGRoXzJWbHVvLVVTTko1bjlJSXFkQVNRenJwelJiM2dlN0R5N05kMnE3NzZOQ1pKdmZaSkV3OGZJTVdSQjZzWmlBSzlnSjZQLXhReW03SWdUMWF0ZUVvejJmSVhkU0NDMzJwdEhyUm95OGNyV2lK?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro straci immunitet? Jest data posiedzenia komisji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaW9UNGpUZmVzNFZyUEZiSU5lQl9SUy00cHhOT29MeW05anRJa2F3WGZaSkx2NzRhMEpDcVFKNm1uLXNzd3FUSmdfMGRTdUllU3VIRTJoMkVmbElLX0gtRGdqNHpIY3FDWUFzZHUzbXVrNG1XR3k3ZWJKQXUyX01ocHp3SUdQTVJnTEFnWGZQWFpIOHNZZVlTRHRFQmpDYVdaYnc0Q2dkWDBsRUFmTm9MMjlrQlhITjdkbTNzUEZhVndsTnJV?oc=5"
+      },
+      {
+        "title": "Kosztowny wyjazd Szymona Hołowni do USA. Kancelaria Sejmu podała kwotę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGxlWDF3ZkliU0NRMm9Jd0puUXpPUURKWHcwOFNYMVNBSzZBUl9nOWdzTkJuNnBNemx2RmJHNmRRTXdZWnlOUVUyWnlvVG5WZ0lNTzMzakZBbl9jblQ4VXlXSExQSUk5RWJZbGs1STFWNHFyQld0eEZ1WmpTOTJUYmV2NDRVWUpMa2FmOEczOEVub0ZGREJwVGJMWXpwcGJIUEd4ZlRFajJnUDNacVE?oc=5"
+      },
+      {
+        "title": "Testy nuklearne USA. \"Chodzi o sprawdzenie arsenału\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG43alJhSmg3aG9XNmpUbktKRkltS1JaMVluS242SDZtYlh3SGhxSlBldW9FWHBDdVByMUNKZUF0S0JqX3FZLXExbzh6dVNFSkl1ay1LWVkybmIzY1RESVlhMFZmUXctRUVmUEt6aWtPYTJDdFFvUzZjMmtGV0o3MGlhNE9INWpDUG9WTlZ4ZlA3MTNhYzNCSV9KOHJzM1BvRWFLbVJlUlNzZG40NENlQ0JPMGNWNWFa?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Daniel Obajtek wezwany do prokuratury. Może usłyszeć zarzuty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3hfaU5jM3I2SHRGUndnNGdsSDRRX0IyWEd5NVN0SzY3QjlnYS1UZ0ZDTzM1WXdURVc2aE9uRjJHN0lMOFJUQmNBdkhzcDJpNHZkSHpPN2tORkwzVkRyeU54SFprYmJqMXdTbDdXRVZ0a1pLYXpPMTgzMURueElkVW9rcVlsTzNfYVdwTGd2Z1ljcDRqOEtKLUdxT2NvX190YmlXbjIwY1dON3ltbFc5V2VDWmZ6aXhL?oc=5"
       }
     ]
   }
