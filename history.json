@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29 00:12:52",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6327,
-      "EUR": 4.2345,
-      "GBP": 4.8375,
-      "CHF": 4.5783,
-      "JPY": 0.023912,
-      "AUD": 2.3817,
-      "CAD": 2.5954,
-      "CNY": 0.5117
-    },
-    "crypto": {
-      "BITCOIN": 410660,
-      "DOGECOIN": 0.703881,
-      "ETHEREUM": 14478.5,
-      "LITECOIN": 352.06,
-      "RIPPLE": 9.47
-    },
-    "indices": {
-      "^WIG20": 3041.52,
-      "^WIG30": 3940.19,
-      "^WIG": 3940.19,
-      "^NCINDEX": 275.0
-    },
-    "news": [
-      {
-        "title": "Donald Tusk przyznał rację nauczycielom. \"Dałem słowo\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGkwOFlvRXZxRzZKSGk2NWpqWlB0UW81Wmx5Vk5rM2hVSUJTeTFJcU82S2xrdUItVV9hLVVXOW5WV0w5M0Z0N0dENjQ4UVFjMUh2N09yZkhkYXJBRE1mSmstbDQ1eHVSblNSNFFPS2ZJdkZUSGpyQnVRQW55UUxRWC1xYkZ5LTZ1RDRyZ3p1RTl3OWpySFVQMU0yWnhpbzdEZEQ4Rw?oc=5"
-      },
-      {
-        "title": "Katastrofalna powódź na Jamajce. Sieć obiegły dramatyczne nagrania - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlFJeUFIWEJFYTJsYlJLSzNDbUtMcnlVcDFqSmg3WUdrUm12bTlIRDdrSTBhZUQ5QldOTVg1bnF1Z1VBSXNLRlBqWFlFRXBXTFlBOEVremh1NFlXTHlkQTA0ODRmWk5BRGFlTXZQUi1XckZmRVBfcnZwS1FxYlA3ZWdKMVVKcWxVM2NJUmFYY2tFS3lzV2VnTHhRb2Z4UFhJNmo0RllKd24?oc=5"
-      },
-      {
-        "title": "Sprzedaż ziemi pod CPK wywołuje burzę. Prokuratura bada decyzje KOWR i PiS - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUldWXzMyX1ZqTDZQcnlWdTlaNjN1UHY1YUxGNkhBM0tQTVdXMkVuQllNUXFoQkN1ajVIdmhHd1I2UUd3b1dJU3J4OG9EcnFXTjRkNFAzdjlRelppZDZObGtyRnE3U3JrWnI0aW1MQ1Q2MTJBZ0Jpb2xpY1FvUTJvQzZSTlltOEgtT2VsU2xkaC1wWEZFUTFlVGZsRHlsUUJ4YW51Q2hRT2gzT0FvandmSDlJVkFtYlRNakxXcjdR?oc=5"
-      },
-      {
-        "title": "Konrad Berkowicz przyłapany na wynoszeniu towaru z IKEA. Jest oświadczenie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa09aOHU4MzE3aG9EOVlhcmh4UXFNd3RTSTdDbHZUTzlOelM4SWtVazdEbl9qY1VaNHNJQ0haeHk3VGMwRWVzYTFsV1RDYU9kNE50cVlvN2xoamJ6Uzhfd18tQnQxOHhLWUszMldaNzZUUWVzcF85MFNwNWZNRjI4MXBXYWt6ZjRXdjBPVXhQMURXZjVoYjlIUTdPcnE5a1JRZzhNazdsck81OUhvN2s2cTMzWUdGajQtT3NURXQ3WXlXZw?oc=5"
-      },
-      {
-        "title": "\"Natychmiastowe ataki na Strefę Gazy\". Netanjahu wydał rozkaz - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGdCZmxJeWZKSGJzT2plQ3p6bTFRTHp0VUl0NkRleEF5RFZaN2ZKUTJOUlVpWl9WMDhvbklkUEQ4V0d4Z1lwajZDRkJhaWw2cUk0QU1MMXVkYURyTlE2SmZpbEZIdEVpT1BnSVAzNGxjVG5KNnZ5OGdXR1NRanNLajFUUTlXN0NqNk1CSmt2T0YzVElfQlJpOVJJNlZoenEzNnJZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-29 02:08:50",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Donald Tusk zapowiedział ciąg dalszy rozliczeń. Mówił o \"spalonej ziemi\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXVUR3NRWTh1QnMteFpZbHhfX2M4UDRoaWs5UExHbEQySXE3MzBxenRreXFsbVlwd2dJYk8yNlBpb1JoUmREaHQxeGlqeEVvSWM3TmpNU2hpRXNiby1ZbjlRaVdDRVNLYkV3VXlGS0VvcVYzeExFMF9QMHBScVd0cnNyOVcybVNBNHRsSS1zdVBwMGo2NlpLQkRBMXU5dllRSjhOUFR4Wm5vY21QR3dJY21hRGI2RGh6?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-31 08:13:22",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.652,
+      "EUR": 4.2425,
+      "GBP": 4.8169,
+      "CHF": 4.5719,
+      "JPY": 0.023746,
+      "AUD": 2.3989,
+      "CAD": 2.6182,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 402636,
+      "DOGECOIN": 0.678982,
+      "ETHEREUM": 14094.71,
+      "LITECOIN": 345.4,
+      "RIPPLE": 9.11
+    },
+    "indices": {
+      "^WIG20": 3029.29,
+      "^WIG30": 3911.73,
+      "^WIG": 3911.73,
+      "^NCINDEX": 275.49
+    },
+    "news": [
+      {
+        "title": "Właściciel kluczowej działki dla CPK udzielił wywiadu. Proponuje wymianę gruntu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzBYVHZvUHBMT2pDcTFUZTBVY0pENEJXZ0JVLXBIZ19OZEthbmpHNUpBT2Zrd1ctazBOTHFpTUh1S0RDY2lOM0V3YldyQXpfQ1oyUndiazczcG1qMzNCVnkzZGxJeGFidGw0cmd2VGVqTmlXeEJkNXJpUWdQbzJBZjgyOFA1TUdxY0t0UU1BMXpOWUs3eU4tV1pBOF9LXzhxUEpxMlNfSzNYUkpKaDhnX3Y2amN3SDl6XzFGX0k0Z0h6aXRTVmdXYzliNXVuUQ?oc=5"
+      },
+      {
+        "title": "W Wielkopolsce samochód wjechał pod pociąg. Kierowca nie żyje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlU2OWx5NVRQclROWDVEb0M2V2dzbnZyU2ViVXFnNUk3NzZSdkMzcDRnUlE4bXNzbkZtRTN1RG5jQmRpWWJybXN1N0NmNjNxcUpvSG5hRnlTZEgwdFRsdmtrODV2aF9WN0tVTlpmMnhKY20tSXZPRlJaa2tqZjhvX0pWaVVuNFRtNVJKRnZpNEFFSHQ2UzBuMEwzMmI0SGp6Q1dhMFotb2JsbUpOMm5uWEtmdGJqLTJ2ZUNJ?oc=5"
+      },
+      {
+        "title": "Nowy sondaż: Sikorski i Tusk sporo tracą. Zaskakujący powrót na szczyt - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVo1eFEteHRkMm1yOEdmaEVBSXhSYUc0XzFrQmdwWHJSVTBLY1U0U2hjeG1yTTczSklmbFpHLV9IdEhURVNsUVpRV1k1WjJtYTdOQlF2QWpvU3YwU1NBdFgya1dtaHFHMDV4cXpUVEtjYlY1OVhaUUh5dEc2TFRGX3Y1Vnd3MFdFVzRhQ3YwWDJnZjlUZ0o0LUd3RjZnVlh5WFA2UzZzeUFnZWN6VGl2MFBRWWt1RmRqSmc?oc=5"
+      },
+      {
+        "title": "Obrotne dyrektorki szkół działały w grupie przestępcznej. Wyłudzały dotacje na... zmarłych uczniów - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcktVMWJNLW9HUFZxMkVSaFdYZEFGN3FRcWRNcXYxTm9ObDVUN2hpY2F6WUlyTTNlQ3lKcnQwWEdhbl9adVdOdW9iMGxXRDRla2VPOWpVUHhGa29aekp1VE84cTFWZzZhems1YmwzTnFoS3ZvQ3pmb0traXhqczBuaXNvdVhRVmZpazVTclBrMzlKbU1RMlhQQnl4aVE4T2k1SHpBQWtNcmxhenRKbFZkRkFjR1B6MzUyajV1Mnp6aGRNNmFfNHB6VDJfczFvQUNXdEMtVGRUONIB1gFBVV95cUxPbFpnYlBpSEVhOEJfRXlXcmhCSWVrZWNiLVRaYVNfMnhZVEtSbVJONTU4YnVRelFvWkQyMjZhX3diYzFsSFlZQjdLbkdwcjI0U3lNVHpJSGF1MDZxZVdlbXd1ODlzckxwZEJyazJnWTdkX1hnSE9SWTZELXdaYWdXaUFzZjZ2cGxDMWNhYUVpVHBiLTBUSTF3bUFmYTBETmRuT3BxOHBCaVBJb0FielFLUW9UUzhLdTI4VVhGUFkybk5hLUt2MDNtaW5Rem45emlwckZlb1lB?oc=5"
+      },
+      {
+        "title": "Ulewy i silny wiatr w całej Polsce. Ponad tysiąc interwencji, zamknięto cmentarz komunalny - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTQ1MEZBYnZCZTYwS3VPeWx0dEw1LXlOX1VvV0pKNGZ2YlVPTWRYdjUzZTFvYWV5dXMwWVhnVVVXZGlyelpkbk9wWGZIX1JEX05kU0VaRXRXVWpyVWR1Ni1PRzA3M1BmUTdaRDhDdzVPdFpUR3dEWFpIeVBfdmZ4elR3SC1NQ3c4b2RHZEpzSS1zZkpKWFB2dGNhRmQ5ajVRWTlzWnZxejlnX3U2RHBlWHFFdlMydUtQcTEzTFRnbGZTZTRZOVRCY0pMY2dUbGJoY2c?oc=5"
       }
     ]
   }
