@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29 10:14:52",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6327,
-      "EUR": 4.2345,
-      "GBP": 4.8375,
-      "CHF": 4.5783,
-      "JPY": 0.023912,
-      "AUD": 2.3817,
-      "CAD": 2.5954,
-      "CNY": 0.5117
-    },
-    "crypto": {
-      "BITCOIN": 411451,
-      "DOGECOIN": 0.703513,
-      "ETHEREUM": 14568.1,
-      "LITECOIN": 355.04,
-      "RIPPLE": 9.57
-    },
-    "indices": {
-      "^WIG20": 3034.89,
-      "^WIG30": 3927.7,
-      "^WIG": 3927.7,
-      "^NCINDEX": 274.44
-    },
-    "news": [
-      {
-        "title": "USA redukują liczebność wojsk we wschodniej Europie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZEh6Y0lhbTBaN2FTOWdwV1U3bmttR0xRXzFXdFMzQ0thLWR5LUFxdl94NHpLWlY5UEFITnBBQTVEZ1hlZ2F4bVRoajlKd01nd0pCc2JyYk80Y2p1R3NERkdoM3RRNy1oOVRiLUd0eWF1bHBwSzg2eHRfZFhxSEtrN18wMVIxeFVOSFVFNTNFMS0wRkJUbC1v?oc=5"
-      },
-      {
-        "title": "Afera wokół CPK. Rząd Donalda Tuska też nie ma się czym chwalić? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTBPd0NHMXRhMDAxTi11amVaNmRkZlRydHg0c3A5d2V6M1ctaXM5T0UxcVNCQXFYeHRBWU5CVGk4UTFON0VVamR5aG54STEzOUVob3BHeHRHcDVNcTlCMUllMThXaXNISnJnVUQxX1ZWUnQ2cUJWZHpGWVR4U3hnREQzc2ZkV2R2WW5mMEN6dnh5dUlCTlNybUZ4dlFjVGplX1pIQzQ0Ym0waXlWX29UYg?oc=5"
-      },
-      {
-        "title": "Akcja CBA. Były wiceminister został zatrzymany - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm1fYTJRRFRPSjlFMjB1VGhTa0JqZXhwRXJHUDE0d3FBYURKYmFqUzFFSERiOC1za3NBcEtZa2NGTnZWMVhNeXp0TlNxSEUtLVF2LVU5dTN5R0RlT2EzY256c1BnWmNWOHVqYUs4V1BDaVhQeEJnT2M3RjM1UEdubFNSLWNDN2xlRVE?oc=5"
-      },
-      {
-        "title": "Ola Żebrowska przekazała nowe informacje na temat huraganu. \"Piszą, że słabnie, ale nic na to nie wskazuje\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWFfMmw1V0dmcEU1YUhCbWhZaHZtOEZLWk03R0hSZm5jdTUzMmNSckl4NXpHQzlIR1lIcXhxVElHa2JtQUtMNWozWkhPV2RiYWdHSkFOZjBheXk0Q0NIYm9Id0NUQkJUT3BOLW9KV1hlTGhxN08tMHVabzZ0eFRhS2Z4My1GZmJ3ZEdLVlpOd0NFSFk3bGx4bVNDZHdNMW5DZ1JlXzNCa3FqaTRqQ3lYMUx5U0xkMU81cGg5RDFmXzJudEc2TjJ6RVpOaTZNel8t?oc=5"
-      },
-      {
-        "title": "\"Debata Gozdyry\". Żurek odpowiada Ziobrze. Przytoczył historię Ala Capone - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTEVtMURCS0xaRzdDSGJTNnRoVE1FcFlvU2dGZWIzY2tONGNmOHVidUxVQXVSeDc2M3hxcmZDQ0pYQ1FsOS1FWTBYZi15ZUtyWmlTb3l3MnlTUWRTLU5Ua3ozTWM3NnhUejJCZEF3VEZEcGs2Yi00ci1INmNxbzUybnpSZGlIamNROUY4elBISnVZZFpabFVicDdZTVlzNTNTeWVnM2RNTlpGdlNlZUFyQmJqSklPWV9SQWZ6cFVKNms?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-29 11:15:38",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Nieoficjalnie: Daniel Obajtek wezwany do prokuratury. Może usłyszeć zarzuty - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3hfaU5jM3I2SHRGUndnNGdsSDRRX0IyWEd5NVN0SzY3QjlnYS1UZ0ZDTzM1WXdURVc2aE9uRjJHN0lMOFJUQmNBdkhzcDJpNHZkSHpPN2tORkwzVkRyeU54SFprYmJqMXdTbDdXRVZ0a1pLYXpPMTgzMURueElkVW9rcVlsTzNfYVdwTGd2Z1ljcDRqOEtKLUdxT2NvX190YmlXbjIwY1dON3ltbFc5V2VDWmZ6aXhL?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-31 16:13:11",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 409028,
+      "DOGECOIN": 0.689316,
+      "ETHEREUM": 14306.38,
+      "LITECOIN": 353.81,
+      "RIPPLE": 9.33
+    },
+    "indices": {
+      "^WIG20": 3001.63,
+      "^WIG30": 3876.55,
+      "^WIG": 3876.55,
+      "^NCINDEX": 272.55
+    },
+    "news": [
+      {
+        "title": "Rosyjski samolot nad Bałtykiem. Wojsko Polskie poderwało myśliwce - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2VFWFNnd216VWhrRFNncDdLUjROT2lPcWlFa295c1o5RWE3WThSREFpa3hVbUFmemZsSU9icUVKa1pvUi1VMEd0cEpKT1JSeXlEd3RFNS1ybjFZdzdvTWtLYWNlN19BaWtHaE1sTTJLUlBnaW9rOVF2YzNsRTZfcVFmcDRaSWstNTBaVlJMZWlzd2NiejIxYzFldXpHVWk2b0tMRm1oajVvREFpVm0w?oc=5"
+      },
+      {
+        "title": "„Daj plusa na Telusa”. Gadżety z Dawtony dla polityków PiS przed wyborami - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmZwXzFmbHhQUWhZUzNKMUJIRkc4UGZILTdpRkJBb0lOeDZzV3A0b3RrV3pJRDVfZ3QzenBwTG1fZHRURjlnODlSVUxRREZuZFJPcElza1lmOC1tWm83UWVJakp5MUc5LWg5Y3lzQVVxU2hKa0NnQXpHY2RPUWxYLV96UkF4WUo3RGZWVDh3TlhqbklLSUZySkVGbXoxVnA5cTZ2WlNGUFlUU2lidjNGa055LUtvREpXdFd5MThRWTNmZDY4?oc=5"
+      },
+      {
+        "title": "\"Wiedział tylko Zełenski\". Ukraińcy: Zniszczyliśmy Oriesznika - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdTI0UEZJTUNXV1F3YVZMWjRLSWtSa1ZoOEhHc1NxaGM3R0w1Zlh5OUFIQ19nczNkZHgxSm4yRHJLLU1NaHlSVWlDdmxZWHlCQjM1NWF1XzBLakFPRm1MR0hNQUF4OVdPMnU5Qk1XWGw1akZJWk8xV0d3eEJTa2FyM1NLUTJjOGl0cnZkRmVHUjFFODFaRVRYOVIwWm1ZUEVjaWN2ZU9qTGJKWW5IdnM2VVN6NXVVRFhMTGV3Rw?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Daniel Obajtek wezwany do prokuratury. Może usłyszeć zarzuty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3hfaU5jM3I2SHRGUndnNGdsSDRRX0IyWEd5NVN0SzY3QjlnYS1UZ0ZDTzM1WXdURVc2aE9uRjJHN0lMOFJUQmNBdkhzcDJpNHZkSHpPN2tORkwzVkRyeU54SFprYmJqMXdTbDdXRVZ0a1pLYXpPMTgzMURueElkVW9rcVlsTzNfYVdwTGd2Z1ljcDRqOEtKLUdxT2NvX190YmlXbjIwY1dON3ltbFc5V2VDWmZ6aXhL?oc=5"
+      },
+      {
+        "title": "27 lat żyła w izolacji. Historia Mirelli ze Świętochłowic poruszyła Polskę. Wiemy, co powiedziała w sądzie - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEZiQmJsSzdHRXhjcW1rd20xb1o0NVFGZHdPNmpoZkVOZHJVQW9zbEE3X1hmS3RKZzNmVWVTV3pGbnZUZ2dhYTI1czd0eHRoNjdjQ19zaU1TZks0djhVRHJrck5vRGVYVWlQR0NzZThEWVBYZWxOMkdpd2NXYzVrcFcwMXpiZWVFMDNqVVI4NFVvbnZuN0ZjeG9tdXZiUXVycFZNc2xobnRPb05QT1lURmttMF8xZEdKc0R4cnV4ZmY?oc=5"
       }
     ]
   }
