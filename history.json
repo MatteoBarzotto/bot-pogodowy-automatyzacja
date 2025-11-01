@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-30 18:12:53",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.652,
-      "EUR": 4.2425,
-      "GBP": 4.8169,
-      "CHF": 4.5719,
-      "JPY": 0.023746,
-      "AUD": 2.3989,
-      "CAD": 2.6182,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 395097,
-      "DOGECOIN": 0.664278,
-      "ETHEREUM": 13816.34,
-      "LITECOIN": 337.77,
-      "RIPPLE": 8.99
-    },
-    "indices": {
-      "^WIG20": 3029.29,
-      "^WIG30": 3911.73,
-      "^WIG": 3911.73,
-      "^NCINDEX": 275.49
-    },
-    "news": [
-      {
-        "title": "Viktor Orban spotkał się ze Zbigniewem Ziobrą. \"Polski rząd chce go aresztować\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlFwS2FuWERudW5DTXhxbzUtTjI3OUNKQ1Q5b0ItY3B1aVdNWkh1dGdxYnVmT1dxQllrSjBLRDJpSEhBRHNGQ0ZVYVp4ZkRfTk4yMHc2MkNPcG0ybnZnb3RQS2R1ekFOZVhKcmpLbndFbUZtdDcxMnJYc3dpcGpaSjRjd2VfZk1MTFczQ1I2bE5aUHljUDNVanRua01RWkx4eWFkLXNRZVFnazF5Y3J2VnV5Y1Q4TkVGTFk0dURheHd2b0EtLVl5a0lMbDR0MFVESUpfZm5B?oc=5"
-      },
-      {
-        "title": "Trump ma swój sukces, ale płaci cenę. \"USA postawione pod ścianą\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXhhZVllUlR2X0JQdDFZWE5PRWtUQ2pkblBRSHlrUmtERlJKTHpkZE1odzI3dlNweXRicUJGRVI4Y3NRYXhmdDBZeTVBdnVyYlFEUHZBRzZoMTY3SWVaYVRLQUkzb3JEb0NfNUNKOEpGTkFjaTRTM0puU2h5REplazgxVnNOQmx4ZDJfbF9EbVRQYnFqeTRacDlOZ3NmVjZaUVdPQkNkeTVybHAzMXFNOVZrcXQ2eFU?oc=5"
-      },
-      {
-        "title": "Zabił brata? 13-latek trafił do izby dziecka. Powtarzał tylko jedno - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPektOYVpObHlPUFp0ZExUZkZZLXBvYTQ0NU5GNEhiNEp0MVEyU2szcERTdjhvbzB4c3BTMklON3I2YURaVzNIMkttUEZ4eVktWTdBVHM0N0V1anNOMlRZbnhfaFd1RXBwNkg3b0lQeFNKbktuNXItUmdsempsNkp2QWhsdzMzSVBsakdUNnhsb1ZEYl9IMnpqWER4bkRkNFhVZ3lNYnJkSWU4MFVYLW9MYXBYcW9SdkkyaTJJczhpbw?oc=5"
-      },
-      {
-        "title": "Obrotne dyrektorki szkół działały w grupie przestępcznej. Wyłudzały dotacje na... zmarłych uczniów - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcktVMWJNLW9HUFZxMkVSaFdYZEFGN3FRcWRNcXYxTm9ObDVUN2hpY2F6WUlyTTNlQ3lKcnQwWEdhbl9adVdOdW9iMGxXRDRla2VPOWpVUHhGa29aekp1VE84cTFWZzZhems1YmwzTnFoS3ZvQ3pmb0traXhqczBuaXNvdVhRVmZpazVTclBrMzlKbU1RMlhQQnl4aVE4T2k1SHpBQWtNcmxhenRKbFZkRkFjR1B6MzUyajV1Mnp6aGRNNmFfNHB6VDJfczFvQUNXdEMtVGRUONIB1gFBVV95cUxPbFpnYlBpSEVhOEJfRXlXcmhCSWVrZWNiLVRaYVNfMnhZVEtSbVJONTU4YnVRelFvWkQyMjZhX3diYzFsSFlZQjdLbkdwcjI0U3lNVHpJSGF1MDZxZVdlbXd1ODlzckxwZEJyazJnWTdkX1hnSE9SWTZELXdaYWdXaUFzZjZ2cGxDMWNhYUVpVHBiLTBUSTF3bUFmYTBETmRuT3BxOHBCaVBJb0FielFLUW9UUzhLdTI4VVhGUFkybk5hLUt2MDNtaW5Rem45emlwckZlb1lB?oc=5"
-      },
-      {
-        "title": "Ostrzelał szkołę koło Opola. Nowe fakty w sprawie 38-latka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalFJYi1MVDJ2dVdxbXBnNm83MllEc3FMOHNCbmplUm5vYjJqNENCZmE0MVhQSWdTaDNHV3BTd0NMY1JBcVAtR0ROb2dyS18wSFZzOW5Rc0NORVQ1NXExOTNOWVNSQUVCT0tzdFhGNUlvcTBTbTJ5c2VFaVlkWEtCNVVub2hPc2hEd1M3c2dPYmMwU1ZMaTNpaVF4bkRCOXdnUzFCOU1zMEN6MjFwMXhxOGVjZUhFZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-30 19:20:25",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Odkryli nielegalny dom opieki. Wystraszeni starsi ludzie mieszkali w strasznych warunkach - Fakt",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3FkRFhTNnlUSWRhaEJ3c0pDOHdkdkpjNTZJVkV1YUdBRXg5QnExTjZaMWJ5R3ZvYmJ3VnZIMGliS2Q1VVRXeFo4QWl5aGNOaHlWNkhjQURCNTlVaTUwRFpZSmVUZjVkOXg0djN5U0VIQ09WVFlycnhIdTMxMGtMaUp4MXo0eFRiRm9sRVAtX1NvYTdNNlVRNmVrYW42UWRLS0VPOG1PcmVQVldpczhV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-02 00:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 405656,
+      "DOGECOIN": 0.688991,
+      "ETHEREUM": 14271.74,
+      "LITECOIN": 369.41,
+      "RIPPLE": 9.22
+    },
+    "indices": {
+      "^WIG20": 2987.33,
+      "^WIG30": 3859.93,
+      "^WIG": 3859.93,
+      "^NCINDEX": 274.42
+    },
+    "news": [
+      {
+        "title": "Kobieta wjechała autem na cmentarz pełen ludzi. Powód zaskakuje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEJ4QUdpd0VaRWVyY25UU0hiNVgzRXRoQVN2WnNRZEpyUWliMnJvUGlWd296dkI5VmRHY1ozNGRGNGlZOVdocGZ1NU5XaVhQcmxHaU1tVFVpcjZtbEt5bnpSNTlLSW9scDdONHM2b01OenJ3Nmxfc0o4UnF0RFhRbGR3TGFVTm1TZzRQaVhtbml3OEFvRVpYVF9YMklBREpFODFvRXBjSjNueGtwUTR0QVV0bTAyNzlNS1lwQ1c0SUI0a014?oc=5"
+      },
+      {
+        "title": "9 osób rannych w wypadku w Pruszkowie. Auta wpadły na chodnik - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVFNQ3JRQmJkem9seUxMVFcyUWhHZUdNVFlURzhyT004TUdMeFBfY2Z3aV9tLVU4YWpnUktjbVVtek1EeUdGSDlaemhRUl9adjR3ZGJNcHZjcVYyQ21CYzNkUDNpdkE5VUhyRVk0Mmo1dWt3LXRacThobzBUTkhsTzVOR2tVcXQ0c3E3UTFtYzI2ckVJSm44NnhtQ3Z0WFRBSGhoV01vRmM0RmgxSTI1MG5tQk8yc0pQZ09WRQ?oc=5"
+      },
+      {
+        "title": "Ignorują zarządzenie Kaczyńskiego. Problem z połową członków PiS - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjRDUmV5azRVbXp4VFZLbmVQN05BaG5IRmgtaXRwdUs5a1cza1cxTDRtN2hITmpReWlLSjV1VmRfcnZGV3JXMnB5NHE2SE9WTHRqc3BZUWFPYzBHcXBSMVo3R2VxVjh6R2hJWVZ4d3RuRnJoV3FGbVd3N0hRZFJvY2ltakU2WGs2NFl1TXhfWTdPbWc4bXlyZ2R3eVRaZGlIUGVhajNncm5xdw?oc=5"
+      },
+      {
+        "title": "\"Wzór do naśladowania\". Szwajcarzy piszą, jak Niemcy widzą Polskę - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXpnelBlanFNdjZlX2VqSFo3S05RUkpsWm5yNUpNUnZMQUFIeEJPSTlPZnEzQWhDeUZpX2t4YklSbVhWX2VuT2pBQXVTM3hYdnFaWFRpVkJVa1BpWTFvREhHS1RpZnV3QUJrLW9GbDFYMUw0U21aeDd3OTJIb3Q2ZWZhbTRLUVNuZ0dvdm1XY05ySHZ0SVFmNTBMQzB6Qk5NekhSUlEwSWhDWkJuYmt4dWQzeVl1dWtVNVVJTlNrUXpQbFFB?oc=5"
+      },
+      {
+        "title": "\"Rozpoczął kolejny atak na Węgry\". Orban uderza w Tuska - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUoydVhaY2FmU0pxc083TVdBWWd0bUlUYW00SVFUTGtGcjZfd2lpUnBuVlFxZ2lKT3NaOEl0RzZzX1pIOWhIOWRTbjJXZS1iVy1TTkVuZVY5ZENybTJwWXVUbEstajNnSGdQVERiSzJrNk5jMTVSYUVHUVhQSUVyeVNMbkNJci16eUpfdTBmaVhRRmR3bEMwLXB2dXV6cXpIMFE?oc=5"
       }
     ]
   }
