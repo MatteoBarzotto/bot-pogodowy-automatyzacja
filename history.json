@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31 07:21:19",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.652,
-      "EUR": 4.2425,
-      "GBP": 4.8169,
-      "CHF": 4.5719,
-      "JPY": 0.023746,
-      "AUD": 2.3989,
-      "CAD": 2.6182,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 402112,
-      "DOGECOIN": 0.676963,
-      "ETHEREUM": 14046.66,
-      "LITECOIN": 344.71,
-      "RIPPLE": 9.1
-    },
-    "indices": {
-      "^WIG20": 3029.29,
-      "^WIG30": 3911.73,
-      "^WIG": 3911.73,
-      "^NCINDEX": 275.49
-    },
-    "news": [
-      {
-        "title": "Właściciel kluczowej działki dla CPK udzielił wywiadu. Proponuje wymianę gruntu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzBYVHZvUHBMT2pDcTFUZTBVY0pENEJXZ0JVLXBIZ19OZEthbmpHNUpBT2Zrd1ctazBOTHFpTUh1S0RDY2lOM0V3YldyQXpfQ1oyUndiazczcG1qMzNCVnkzZGxJeGFidGw0cmd2VGVqTmlXeEJkNXJpUWdQbzJBZjgyOFA1TUdxY0t0UU1BMXpOWUs3eU4tV1pBOF9LXzhxUEpxMlNfSzNYUkpKaDhnX3Y2amN3SDl6XzFGX0k0Z0h6aXRTVmdXYzliNXVuUQ?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro odpowiada Donaldowi Tuskowi. \"Do Berlina albo za kratki\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVi1rTlUxcGZIdUdlZmwyQ2pnYTNicWdZaUdCdkdsejNqS2pkOFdjcVNZYm1jblAwajdZTFdaRkJkRDJTYW5NRDZ4NDZtYXNmUlQ3dWJnSC1ncE9IMkJMNkI2ckNlMlB5NDBjVkM1RHM0UTVTajRDSXNaQmlqUTRXNjl4el94b3VDUHlqdlhBTk9NUWhTekJ2SHAxZFY1QUwxSmNTNWRIbWRHRlNydGdz?oc=5"
-      },
-      {
-        "title": "W Wielkopolsce samochód wjechał pod pociąg. Kierowca nie żyje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlU2OWx5NVRQclROWDVEb0M2V2dzbnZyU2ViVXFnNUk3NzZSdkMzcDRnUlE4bXNzbkZtRTN1RG5jQmRpWWJybXN1N0NmNjNxcUpvSG5hRnlTZEgwdFRsdmtrODV2aF9WN0tVTlpmMnhKY20tSXZPRlJaa2tqZjhvX0pWaVVuNFRtNVJKRnZpNEFFSHQ2UzBuMEwzMmI0SGp6Q1dhMFotb2JsbUpOMm5uWEtmdGJqLTJ2ZUNJ?oc=5"
-      },
-      {
-        "title": "Obrotne dyrektorki szkół działały w grupie przestępcznej. Wyłudzały dotacje na... zmarłych uczniów - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcktVMWJNLW9HUFZxMkVSaFdYZEFGN3FRcWRNcXYxTm9ObDVUN2hpY2F6WUlyTTNlQ3lKcnQwWEdhbl9adVdOdW9iMGxXRDRla2VPOWpVUHhGa29aekp1VE84cTFWZzZhems1YmwzTnFoS3ZvQ3pmb0traXhqczBuaXNvdVhRVmZpazVTclBrMzlKbU1RMlhQQnl4aVE4T2k1SHpBQWtNcmxhenRKbFZkRkFjR1B6MzUyajV1Mnp6aGRNNmFfNHB6VDJfczFvQUNXdEMtVGRUONIB1gFBVV95cUxPbFpnYlBpSEVhOEJfRXlXcmhCSWVrZWNiLVRaYVNfMnhZVEtSbVJONTU4YnVRelFvWkQyMjZhX3diYzFsSFlZQjdLbkdwcjI0U3lNVHpJSGF1MDZxZVdlbXd1ODlzckxwZEJyazJnWTdkX1hnSE9SWTZELXdaYWdXaUFzZjZ2cGxDMWNhYUVpVHBiLTBUSTF3bUFmYTBETmRuT3BxOHBCaVBJb0FielFLUW9UUzhLdTI4VVhGUFkybk5hLUt2MDNtaW5Rem45emlwckZlb1lB?oc=5"
-      },
-      {
-        "title": "Donald Tusk zapowiedział ciąg dalszy rozliczeń. Mówił o \"spalonej ziemi\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXVUR3NRWTh1QnMteFpZbHhfX2M4UDRoaWs5UExHbEQySXE3MzBxenRreXFsbVlwd2dJYk8yNlBpb1JoUmREaHQxeGlqeEVvSWM3TmpNU2hpRXNiby1ZbjlRaVdDRVNLYkV3VXlGS0VvcVYzeExFMF9QMHBScVd0cnNyOVcybVNBNHRsSS1zdVBwMGo2NlpLQkRBMXU5dllRSjhOUFR4Wm5vY21QR3dJY21hRGI2RGh6?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-31 08:13:22",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Nowy ruch Wenezueli. \"Zwiększa zagrożenie dla USA\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUJYcFZVdUJ2d1hDdWYxcUZaS0F6c1VGZExlejJrek83RzhWc3NHTlF0NDZYZWtyV2pILURiTGZfRE5lMFZxdXBfcDVYc2J6MFlEaXp4SmhEZkQ4dGFBZ2FFYUhpWm1jM0t4N2RObUVKU0ZqR0kwc0EzamJTN2h0VGtHeldUMUFtMlZhQVFxSzFXR3ZxbGRMVG1Ka1JzamE1el9zaTE2VFA0eDU3X0dXdlplVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-02 13:24:29",
+    "weather": {
+      "Warsaw": "Warsaw: +16°C",
+      "Kraków": "Krakow: +18°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 409088,
+      "DOGECOIN": 0.687921,
+      "ETHEREUM": 14309.72,
+      "LITECOIN": 370.73,
+      "RIPPLE": 9.38
+    },
+    "indices": {
+      "^WIG20": 2987.33,
+      "^WIG30": 3859.93,
+      "^WIG": 3859.93,
+      "^NCINDEX": 274.42
+    },
+    "news": [
+      {
+        "title": "Atak nożowników w brytyjskim pociągu. Lawiny błotne w Afryce. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkZyNTh4c0hfaFNTYmVkek1pOEVIWVd3NkMzRk9lWXNSZWgyOWJla0JheGNSNDNzbmk4ak5FLXQ5ZzVRQ1kxWlo0ZFFtRmRUR0ladHhJY19sNGRZdkMzNGJoTllHb2xuNkEybkRqTGNiZFR3V3Etcl9UNGhlZkM3LVRtNG5MLXlXcXlXSkFfbnhBQU1XRmFkWUs4cUgwVTNDU1p6NWd4RnN0YlFJR1IyX1pGTmVDenVoWklwWlo3Ums5X0dxQ1ZiNE9OcXpncjVYU2pfS2FoUQ?oc=5"
+      },
+      {
+        "title": "Wyciekły dane użytkowników polskiego serwisu. Gawkowski: sytuacja jest bardzo poważna - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXU4VnpvLVZQTnZxRTFhcVZkN193emd6ZE00eFFOc2lFcnpuWnVtZDhuXzQ1VWNVLUZhblZxVmx4VjY0ZEpmSV9yM1E1bGxOUWJ6V3YzbDBtemhiWWotdHJuOEp0VWxrdXMwTHNrZ0czeVNLVHRFeEpiUEZqTkF0czExdUZmSE41a09RamEwSmxHdkoxRmRiUi1WNVJhSm5pS0hhVkItQlNYemlXZ25xaXhEaFA?oc=5"
+      },
+      {
+        "title": "Dzieci w Łodzi dostawały cukierki z igłami na Halloween. Wiadomo, kto za tym stał - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVgxRXJnaFU1OWZIYWw5WkpraG5oSUF6STdlbnZVc0xIbmF5RGVtSVJ4R2VkSmRqX2llazI0SUZtdnZVVzJPTXJaOVJDQkhVUV9ZZVA3VW1vWUluaUR4SUhZbzMybGNOLWxUakR4YnNjTmhtOUpGck5mdjFhN1FMM2FkTXBHMHBlY2dDUzcyWldQZm5yaWhmWXNCTTZCQXB4YnpWT2F4MHg5QQ?oc=5"
+      },
+      {
+        "title": "Potężny atak na rosyjski port. Płonie tankowiec i kluczowa infrastruktura - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJhc2o5SkZEdmQxLTljZnA0MWhyQU5KTUpPc05sT2JNRHB0R0lyamR6RjJKelFBVlJ2ZDZ6b3ZlSHVLY1hCQ0cxYy0xYVFXdGViZXdHNzc0amNxZXdWODBBcnlsMk9ndWItRk1LbXZTRVRBVVdrZUlWck9rNkIzUEdxN2hDU09hT1pLdzRkN01RSVN2WXpXaU43OFVIa2hhMm5qTWJMcWFGTHg4blpURTQwVnNiM3A0TjVj?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Telus opchnął działkę. Żurek chce wsadzić Ziobrę. Obajtek ma oddać kasę za botoks - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNamFfSDIxTWNjQXFXUC1keFdNMzRKLW5PX0lmMTZRUHExWWhIYU51VUVEVm5zeUd2bDhieU94SEdfTGhiU2FsVzFwNE4ycXJOeGRCSGJZSVBzRTdFVHVZUUVwMVJfaFlwZTBPSTBxMktsWnFBQ3NpdUxCUkh5WTkwVjBXQk5ZSjhzcEFHa2t1QUgteGFER2wtVTRBSFNEQUJtSENQbjVUMEZ4ZlBzb3dKblROZXp1YTlvcWdFVVoxQlZibHltYXVfZDdPUmxnOUk?oc=5"
       }
     ]
   }
