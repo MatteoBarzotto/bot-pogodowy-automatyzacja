@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 02:09:56",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 404690,
-      "DOGECOIN": 0.686964,
-      "ETHEREUM": 14184.85,
-      "LITECOIN": 352.15,
-      "RIPPLE": 9.23
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Elżbieta Penderecka nie żyje. \"Wielka postać polskiej kultury\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON19RUHhJV010aTY4VXFqbTFuazkxU0NEYVRiMktWWVJZZ3k4U01ycjhfR2NUSTNNbWdhQzBQbHJuZlpqVW5jOTlZLVc4S2gyeTA0WndJVEN1R1Y5VXAyc3daUWtYejRjY3dUdWhRTG1kdE9XUWhWMmx0SXNCNjh0NGg2RnRlR09lbGc?oc=5"
-      },
-      {
-        "title": "Tomahawki dla Ukrainy. Jest decyzja Pentagonu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXFpa1djaUhRY2tObmdlUTZQd1VmeV9ycTQ3R3pPQUhyT25LWi1KR1lrYkp2RWhUUzVZQ0RxNlgxVWtMc2kta3EydnB6SC1NZGZ4WXMyWHpCQTdTNXRPemFoMHpKTURjMmRwY1Y0bEsyWlRkX2tpVFJ5Y2FRempQdW0xeTYzaENoWHBZMmpRbHBBSEUteWFYcTRETHpiSVhoVk9VR3NBeWZ5Sk1vNU1yNHZhMGJFNkNHX2xQcFhWeHZxOURYdWc?oc=5"
-      },
-      {
-        "title": "Hołownia wezwany do prokuratury. \"Szereg dodatkowych pytań\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcklvMVlfck80MW1kSlAzRGh0RXlwVzRaeVdEZk5welJOb2Q1Z2V0Q2duWVUtSU9RdDdnREpMSmRMN1BPdkp3dTR4NFJ2bW9ORmlQckRkNFJVN2Z5WW9QSmVZQzRkc3JieXloak8zNDZMRHE0MFU2c2lqTWpmLVlJdVV5V0dPMWVweFhJUVpUM0dTWWpKeUU0S2REQTUxQ2Z2QWlDZ3JnZ282MnNw?oc=5"
-      },
-      {
-        "title": "Niepokojące wnioski po ruchach Trumpa. Chińczycy znaleźli na niego sposób - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1A5bmRfYU5hVndFU05lU3ZSZmxsZXhKczhSTkxmS3NZZkZQT2VQUkpZbk1TVDdUYWlGYTAwSk8yTEFsbC0tblBpWmE3UkE2YXdSNzlkcDFnZnZidlJGdkhnUTlqa0dmdmdWd2NrZjQ0R0hTRHptUmlMQ2NZc0xUazBkRi1Nc21xRnRWdVhBYjM2cUxlYmgxV21nZXdidGJ4V2lJWmxMd3lNekcwSjR1TjdiWkE5NGZC?oc=5"
-      },
-      {
-        "title": "Zmarł Jan Turnau, wieloletni redaktor \"Wyborczej\", twórca legendarnej rubryki \"Arka Noego\". Miał 92 lata - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0poajZJU2FKM0ZCQ2hDRXB1U05HWHlKalZuOWFKLUx1NzV1ZVdwdUQySG4xZGh6czJuNy1ldmZqMkJxNS1MOGtMajVqQW9ZRkJudk04WmszSkoxWXFwcUxuX3BNN3ZsQXEzcWl1OVZpNzhCblBzMWpScHlyN1dkYjlISlo5Q1NBUmdTdGdmY1VoZ05jUTNTVHVfd3B3dDFIVGhMSDAtb2hXWVU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 04:07:00",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Brednie u Rymanowskiego\". Okładka gazety wywołała kontrowersje - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORllETVlicDc3dzRsM0J5WkJyaEFiRWNCN1VhTlJFdDZjYUs2M1VKOFd1QncxYzczYmpWaFVyUjliZTZPM210UGJFOGwwdDRoOU1KcDBsVGZFYnFuQ0xZVXh1T0prblFoaUhHaVotbHhyWVNKOW9BUXpkX3Ixc1FFQ2hGeDNobkQ2U0Nxa2lXa3FKV2Y5aklSSkVrNzNtcnVjNGJuVHBn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03 09:20:31",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 396629,
+      "DOGECOIN": 0.640481,
+      "ETHEREUM": 13691.37,
+      "LITECOIN": 344.09,
+      "RIPPLE": 8.91
+    },
+    "indices": {
+      "^WIG20": 3017.88,
+      "^WIG30": 3898.39,
+      "^WIG": 3898.39,
+      "^NCINDEX": 274.48
+    },
+    "news": [
+      {
+        "title": "Patostreamer \"Nazar\" zatrzymany przez policję. Usłyszał zarzuty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjBwX3RZa2NXZW9XWExHTVNDUFBZbXh5Z0w0TFcySl9EZmQyRlBoM2FkLUpwRFF6RGNVWnFJd0RYVV9xdFdBcGNXYnBEVFctRzZ4Q1lHaS14SlpCODFibU1ENUZXME9ncnF0bFZPTnRYanNqNFQ4RXFTMDF4ajBLSGVicGtCRmJrY1JmZ2lvQW82ZlVuZUVLaTBWRmNiYVFwaG8zUDdlR3g5ZG9RMlhnYlgtT1k3bzhON2JZYUtzUmI?oc=5"
+      },
+      {
+        "title": "Obława policji w Wielkopolsce. Doszło do strzelaniny, pięć osób zatrzymanych - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmxsUzNySFF0VEpNWEFtLVZiWVd3a3pvVnk3dDhFTmcxWUpHYTMzTXVwRlVzaHFyQ3k3UERIXzI4SVIwWlBFVjVjSW1tWG44bnB6WmNlS2FnQmxSUnVfRElNam8wOHNoV2s4dk9Udk9rY2dTYjNwOHM5QXZ0ajFadWRYcXREemx0emtBOF9ZME9uNGNPbldEVUxoMHdKLWpMTnZFR2lnbw?oc=5"
+      },
+      {
+        "title": "UJAWNIAMY: Szef KOWR z PSL spotykał się z założycielem Dawtony tuż przed wybuchem afery CPK - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdkc0SW42TUNLSlphZlRwWVJ2eW5pUUtuOGgxVzFTVEZtTGpLM1pQM1F2NG5ydUdHUW14QjU0Ql9NRHR2UnU1b3hIcFR6MmUxQy1weHNNc0dYellFSml4N1NxQnM3dkZuSlJScHl6ZkpVSmg1dEJoV0ZlMkZNUDdEdXpIR2N6QTNDWDhxd2h2SzZYYTdkRGFoY0t2LXl6dEE4WWlRZWRhekhVSTdhWElHMFZWX1hPakp1TFhaeEwyQ1VhS3pYbjRQWjV6UzAyQQ?oc=5"
+      },
+      {
+        "title": "Sondaż: Czy Polacy chcą przywrócenia obowiązkowej służby wojskowej? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXpScDZQVElkVkVUb2lTRUI1UERVbzVZenRjUzZSWXRKX2RfdEtIVjlORDc4NVlCLXhfWGpGLTZfQWR2eGwteVVfRGtJZGc5ZmswRmlYc0dsd2l3U1JONUh2dTFhZUtXREFnTWdmUW9uYm5MX1JpaER0VTlwVi1GdTRzUldCcV8xWktFZHczSTFRN3hXU2tNdmRnYl9TOU83aTloNnhOSnRVeU0?oc=5"
+      },
+      {
+        "title": "\"Okaże się fujarą, miękiszonem\". Petru o immunitecie Ziobry - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3FPYkg0bmViRmlkSlhCNGpYR0tDV01wdDFwc09wY0Y3Y29RcUl0QjFjak5DUUNlckxmVGhMZWtITjFmVWk2emRIbWxCQldNRnI0aTJMajY0R3hyU09sSnZGRC1YbmpBdk0yTjRHcEswcDdvUE9jSEYtM2hRMXV6NjMza3YxNTFRbkRLWUZZY05XMEdVRGpyc3RRVDFLZGlFM210dmJmZGRmRHVQ?oc=5"
       }
     ]
   }
