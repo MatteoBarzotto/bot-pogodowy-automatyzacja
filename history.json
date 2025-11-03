@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 04:07:00",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 404895,
-      "DOGECOIN": 0.687997,
-      "ETHEREUM": 14211.64,
-      "LITECOIN": 353.51,
-      "RIPPLE": 9.24
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Elżbieta Penderecka nie żyje. \"Wielka postać polskiej kultury\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON19RUHhJV010aTY4VXFqbTFuazkxU0NEYVRiMktWWVJZZ3k4U01ycjhfR2NUSTNNbWdhQzBQbHJuZlpqVW5jOTlZLVc4S2gyeTA0WndJVEN1R1Y5VXAyc3daUWtYejRjY3dUdWhRTG1kdE9XUWhWMmx0SXNCNjh0NGg2RnRlR09lbGc?oc=5"
-      },
-      {
-        "title": "Tomahawki dla Ukrainy. Jest decyzja Pentagonu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXFpa1djaUhRY2tObmdlUTZQd1VmeV9ycTQ3R3pPQUhyT25LWi1KR1lrYkp2RWhUUzVZQ0RxNlgxVWtMc2kta3EydnB6SC1NZGZ4WXMyWHpCQTdTNXRPemFoMHpKTURjMmRwY1Y0bEsyWlRkX2tpVFJ5Y2FRempQdW0xeTYzaENoWHBZMmpRbHBBSEUteWFYcTRETHpiSVhoVk9VR3NBeWZ5Sk1vNU1yNHZhMGJFNkNHX2xQcFhWeHZxOURYdWc?oc=5"
-      },
-      {
-        "title": "Hołownia wezwany do prokuratury. \"Szereg dodatkowych pytań\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcklvMVlfck80MW1kSlAzRGh0RXlwVzRaeVdEZk5welJOb2Q1Z2V0Q2duWVUtSU9RdDdnREpMSmRMN1BPdkp3dTR4NFJ2bW9ORmlQckRkNFJVN2Z5WW9QSmVZQzRkc3JieXloak8zNDZMRHE0MFU2c2lqTWpmLVlJdVV5V0dPMWVweFhJUVpUM0dTWWpKeUU0S2REQTUxQ2Z2QWlDZ3JnZ282MnNw?oc=5"
-      },
-      {
-        "title": "Aleksander Łukaszenko: Roman Protasiewicz jest agentem białoruskiego wywiadu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0MtMnV4a2ZJbWFrZmE1NFNNWlVnNzVvSTBzUWgwYkpyZWhWUjY0bzBybGpNeTZlRmVEY29jUjFTMjRJSkp5ajJrTGFFUEROQkZ0OE9Ld3d3eXBKal9zcmxKSk5GVWZVc0VwOS1pWVJmX1REWWdrZ2c2bjlicWhPRWJveEo1ZDFSU3NKbjVUSVRjbmo3dVlaSm1YV1A2bVBNa1JNS1V2VUVqMnNlcjdScVVHa3pXeFk?oc=5"
-      },
-      {
-        "title": "\"Stracili dwóch\". Wieś opłakuje tragedię rodziny z Woli Osowińskiej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHF3Vm1sYTloZW9Kdm9pdWt6U3hzY2JQT1VQVVZFVGRXOWFJamJFWWtfbXFEQlBITFJaY3ZPdDRWMEJXMmxhVUZuNGNETnVDUkNieVdJcEVjLTlSZ1pNeDlVNDdYTE1uWkJ3VkI1UUc0UGItWGJ1UHdQZU1uaWZ2SWx5dUpKZDloRThXLVdMNHZRZzlybGM1MXVSWndQaTlzWFc1ZnNwTlc3QkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 05:15:19",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Okaże się fujarą, miękiszonem\". Petru o immunitecie Ziobry - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3FPYkg0bmViRmlkSlhCNGpYR0tDV01wdDFwc09wY0Y3Y29RcUl0QjFjak5DUUNlckxmVGhMZWtITjFmVWk2emRIbWxCQldNRnI0aTJMajY0R3hyU09sSnZGRC1YbmpBdk0yTjRHcEswcDdvUE9jSEYtM2hRMXV6NjMza3YxNTFRbkRLWUZZY05XMEdVRGpyc3RRVDFLZGlFM210dmJmZGRmRHVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03 10:17:30",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 397972,
+      "DOGECOIN": 0.646241,
+      "ETHEREUM": 13785.08,
+      "LITECOIN": 345.42,
+      "RIPPLE": 8.94
+    },
+    "indices": {
+      "^WIG20": 3018.62,
+      "^WIG30": 3898.87,
+      "^WIG": 3898.87,
+      "^NCINDEX": 275.47
+    },
+    "news": [
+      {
+        "title": "Waldemar Żurek ma obawy w sprawie Zbigniewa Ziobry. \"Nie może tak być\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDVZWmlvUmY4SldIRDd3X0RKYmpPSk1zQXpfQlRXc1NDVjN5ZXlRTFJPZjFSRUVWdmVwTU5jbUk4SVNrdm5KUm1Iek1hVWtEOU9VQTNwWldxc1ZNM2JVU0htQ0lZdm5uWFlKVGdvTVh5S2hKVDRYcjJncGUzVV9saVM4elFlNC11MmdBd2NuaTAzcjBsQ2hYZ2s5YWJ5T1hBOFFQbFg3RUFJRUpkYmRsQWhuT3gxMHdzaHRXSFduUmJuQUJ5Y2Q4?oc=5"
+      },
+      {
+        "title": "Policja podsumowała niedzielę. 36 wypadków, trzy ofiary śmiertelne - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXQ2elhCYW1nUDdRRFhGc1RQZWJZRnk5eGxDQTB0dVhET2dqcUtQcVRSMjRfSEZOUWpsQ084T3ctX3pvbV9tM3d1Ty1SRW16ZTFRV21JVUdrcTBtYzlISnEyODJvV1AzbFUwcU5Cd2ZCTFoyU0J1ZlQ2SDY3bXdxR2JzMG1rZHN2bzJqVURQYVJoSExFbTRUNkl5ZTRkSzJoYnF1ejZ5TUdxSjZVTnB0RQ?oc=5"
+      },
+      {
+        "title": "Obława policji w Wielkopolsce. Doszło do strzelaniny, pięć osób zatrzymanych - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmxsUzNySFF0VEpNWEFtLVZiWVd3a3pvVnk3dDhFTmcxWUpHYTMzTXVwRlVzaHFyQ3k3UERIXzI4SVIwWlBFVjVjSW1tWG44bnB6WmNlS2FnQmxSUnVfRElNam8wOHNoV2s4dk9Udk9rY2dTYjNwOHM5QXZ0ajFadWRYcXREemx0emtBOF9ZME9uNGNPbldEVUxoMHdKLWpMTnZFR2lnbw?oc=5"
+      },
+      {
+        "title": "Oświadczenie Roberta Telusa na portalu X: Tubki z musem za 750 zł kupiłem legalnie - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakVfQ19xRVBaeWNkQ0Z2cUtkbHBnSDNkNXJyQXg2Q1F0d2pRVFFKNWU0VzRRa2NkdmhVTEgtV1Z1SllKZTB2RldHYlNoTG1SZ25UN1Vkc2hXT2c0U1I2WVBaeUI1QW5UbC00Vjhva3V1TFZtM2ZkbFlCdTNpeVlRNElDMHBPTG96VDJrWGwwYTdOWTZYSF9fcENIaERnNmpROXI2SnR1N3FyRUh1V3NwT3RBVWlWNEVtYmNuTzRn?oc=5"
+      },
+      {
+        "title": "\"Nazar\" w rękach policji. Antyukraiński patostreamer ma usłyszeć zarzuty - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnBSQktFZVhzMW1mdkRlSGx6X3I2U1RsSkFnOHFNSmNsaGRKVDVNRnVQSEo5RXJlMFZVamRYb3dMeU0tX1V3Z2NpSjRsLWI4bUdFXzF3ZE1iTW1LOUQyamNUM3FHbS1SZ0Qycy1uRUpRQ19mN2xqTDZtYU91cHowUWRfdWk3UFY5ZXJ0aFBnaXZ0QkZQdXNWc2lzQzRaMG9xcVF0blQ1T1BZUkpRSU9yQ3hMcTZqdWhlYm0ycQ?oc=5"
       }
     ]
   }
