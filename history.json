@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31 22:12:33",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 403785,
-      "DOGECOIN": 0.685364,
-      "ETHEREUM": 14199.28,
-      "LITECOIN": 352.69,
-      "RIPPLE": 9.26
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Elżbieta Penderecka nie żyje. \"Wielka postać polskiej kultury\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON19RUHhJV010aTY4VXFqbTFuazkxU0NEYVRiMktWWVJZZ3k4U01ycjhfR2NUSTNNbWdhQzBQbHJuZlpqVW5jOTlZLVc4S2gyeTA0WndJVEN1R1Y5VXAyc3daUWtYejRjY3dUdWhRTG1kdE9XUWhWMmx0SXNCNjh0NGg2RnRlR09lbGc?oc=5"
-      },
-      {
-        "title": "„Daj plusa na Telusa”. Firma z działką pod CPK robiła kampanijne gadżety dla polityków PiS - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmZwXzFmbHhQUWhZUzNKMUJIRkc4UGZILTdpRkJBb0lOeDZzV3A0b3RrV3pJRDVfZ3QzenBwTG1fZHRURjlnODlSVUxRREZuZFJPcElza1lmOC1tWm83UWVJakp5MUc5LWg5Y3lzQVVxU2hKa0NnQXpHY2RPUWxYLV96UkF4WUo3RGZWVDh3TlhqbklLSUZySkVGbXoxVnA5cTZ2WlNGUFlUU2lidjNGa055LUtvREpXdFd5MThRWTNmZDY4?oc=5"
-      },
-      {
-        "title": "Tomahawki dla Ukrainy. Jest decyzja Pentagonu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXFpa1djaUhRY2tObmdlUTZQd1VmeV9ycTQ3R3pPQUhyT25LWi1KR1lrYkp2RWhUUzVZQ0RxNlgxVWtMc2kta3EydnB6SC1NZGZ4WXMyWHpCQTdTNXRPemFoMHpKTURjMmRwY1Y0bEsyWlRkX2tpVFJ5Y2FRempQdW0xeTYzaENoWHBZMmpRbHBBSEUteWFYcTRETHpiSVhoVk9VR3NBeWZ5Sk1vNU1yNHZhMGJFNkNHX2xQcFhWeHZxOURYdWc?oc=5"
-      },
-      {
-        "title": "\"Wiedział tylko Zełenski\". Ukraińcy: Zniszczyliśmy Oriesznika - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdTI0UEZJTUNXV1F3YVZMWjRLSWtSa1ZoOEhHc1NxaGM3R0w1Zlh5OUFIQ19nczNkZHgxSm4yRHJLLU1NaHlSVWlDdmxZWHlCQjM1NWF1XzBLakFPRm1MR0hNQUF4OVdPMnU5Qk1XWGw1akZJWk8xV0d3eEJTa2FyM1NLUTJjOGl0cnZkRmVHUjFFODFaRVRYOVIwWm1ZUEVjaWN2ZU9qTGJKWW5IdnM2VVN6NXVVRFhMTGV3Rw?oc=5"
-      },
-      {
-        "title": "Potrzebują Brauna, aby rządzić? Mamy najnowszy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlMtbGNtVEhuSm95dEFIdW11SWNKNUg1TF9fNl9ubVhCXzU3RUJING40ZWJrUzk4WHNjYjN2dGJFMVNVdVVMbkNpNFpLbUhhNmhFX01FVTl6STFzcU1VMXFLU1hfUFh5Q05qc3ZVblkwNFNjUlB0M0VGZmQtWWFYaWRfcUtuMm9xYUxjWEJkbXBaV0hsaVV1T2pn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-10-31 23:13:00",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "\"Brednie u Rymanowskiego\". Okładka gazety wywołała kontrowersje - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORllETVlicDc3dzRsM0J5WkJyaEFiRWNCN1VhTlJFdDZjYUs2M1VKOFd1QncxYzczYmpWaFVyUjliZTZPM210UGJFOGwwdDRoOU1KcDBsVGZFYnFuQ0xZVXh1T0prblFoaUhHaVotbHhyWVNKOW9BUXpkX3Ixc1FFQ2hGeDNobkQ2U0Nxa2lXa3FKV2Y5aklSSkVrNzNtcnVjNGJuVHBn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03 06:15:16",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 398494,
+      "DOGECOIN": 0.650757,
+      "ETHEREUM": 13873.76,
+      "LITECOIN": 349.74,
+      "RIPPLE": 9.05
+    },
+    "indices": {
+      "^WIG20": 2987.33,
+      "^WIG30": 3859.93,
+      "^WIG": 3859.93,
+      "^NCINDEX": 274.42
+    },
+    "news": [
+      {
+        "title": "Strzały na posesji w Wielkopolsce. Trwa policyjna obława - Onet",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0dKdC1GaDUyRlpWUXpYcUd3eWQzTzJmbzN0aEpDVkIyTllGMFVERmVaVzNPNEtuZDMxY1FDLWlRZi1IVUVwRWdqLTRWeFdKWmxuczR2TVpFd0NPM01Nak1OV2VtdWE0SnVZeEs5S0FQc3pnbnU1TnNfbVdtODdVVm50aGZ6cmF0a0dGRkczd2NYelJCSmdNbVBvN20tZw?oc=5"
+      },
+      {
+        "title": "Telus komentuje sprawę CPK i sprzedaży działki. \"Nie miałem wiedzy\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJCZ2owZDhaaTUxZllicXh6U3ktdWYzLTB3RnB6RWNaVjlHWktiRFBiUS1TQnJWZ0Y4LThUZmlEUVBYM3JjRnpiNWxmRXFORENVY01iT2U1c3lXRTVYdTlpWHVuRUpjN2hTWVFsdm9XTEQ3V08ybnEtYW5WZmFIVjRzZmstOFV2bHBjNVd3RllDU2RKSWpqY2ExbW5TQmhWQk4tbzF0djRtbms?oc=5"
+      },
+      {
+        "title": "Koniec marzeń Ukrainy? Donald Trump: nie rozważam Tomahawków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHh1RFBqMWF4VUZrRHI0UlM2bUQtZk9LVnhHbnpOU2ZSVWxyWk5XRUxHbFdzcHZzNkdCZWJpYktBaml4WTdfd0hZdHMtcG5rOGZORzlBQjVfR3B3ZDlZS0hoR3FoQm01bFR5Z3lkaTZ2MnFYaW90OWc0LW1EeTlwZVJRZFZzTUtLU05QN2VhQlFZNUlfOHNtM1NXQ3dndkhmT3Z1TXY2REMyeGppaEVlSl9IYk9nWjQtVTNFcE9n?oc=5"
+      },
+      {
+        "title": "Donald Trump \"nie wyklucza\" interwencji. \"Zabijają chrześcijan\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVBrS3NFX0ZtZVZCVlJhazJhUW5NOFl4RjRMR1o1OE1VQ1hWaUxTX25Bazg5Mm5HdUF6LXl5QmhNU0g0b1NkeUF1M19tOGE2UWtHdWNKVW9GdHU0VmVGZ2VDNDBpV3k3bEZhLXRxNE5nSlBEaFMzZ2lmZUtSeElsLUNkWjFiTXZPWkdqY2JoWjBZVER2b3BFVXZfSlROLVpPRE1kNG1jVUNuQWtqMHN5YXk5c19fazlLMkpuMWFn?oc=5"
+      },
+      {
+        "title": "Potężny antycyklon na długo zawładnie Polską. Znamy datę nadejścia wielkich zmian w pogodzie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGpBTjN5Y0tqVDRMelpLSUI2UWw3b0lYODczVTRHT0VtNjBET0stY0RjYkJ3R2w0aEw3ellQZ2U3LXNMdzFqamVBRWFBNWMweTl6VF9aYnVlRnZaZkhZM2dmX2FrQnJBVVZlbS1iWUpDZDRacGRnODBfczVDUnd1OUNqOW5kcnNBR2JRZkRXZFZ6VjRlTktIbXdFSVkwbC1Zakx3bEg3SkpSeXdWMDFDV0JfZDQtczB0UUhGblJQSWFoLVo0NERkODF3NnRqQQ?oc=5"
       }
     ]
   }
