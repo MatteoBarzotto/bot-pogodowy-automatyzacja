@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31 23:13:00",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 404405,
-      "DOGECOIN": 0.686687,
-      "ETHEREUM": 14243.65,
-      "LITECOIN": 352.65,
-      "RIPPLE": 9.29
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Elżbieta Penderecka nie żyje. \"Wielka postać polskiej kultury\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON19RUHhJV010aTY4VXFqbTFuazkxU0NEYVRiMktWWVJZZ3k4U01ycjhfR2NUSTNNbWdhQzBQbHJuZlpqVW5jOTlZLVc4S2gyeTA0WndJVEN1R1Y5VXAyc3daUWtYejRjY3dUdWhRTG1kdE9XUWhWMmx0SXNCNjh0NGg2RnRlR09lbGc?oc=5"
-      },
-      {
-        "title": "Tomahawki dla Ukrainy. Jest decyzja Pentagonu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXFpa1djaUhRY2tObmdlUTZQd1VmeV9ycTQ3R3pPQUhyT25LWi1KR1lrYkp2RWhUUzVZQ0RxNlgxVWtMc2kta3EydnB6SC1NZGZ4WXMyWHpCQTdTNXRPemFoMHpKTURjMmRwY1Y0bEsyWlRkX2tpVFJ5Y2FRempQdW0xeTYzaENoWHBZMmpRbHBBSEUteWFYcTRETHpiSVhoVk9VR3NBeWZ5Sk1vNU1yNHZhMGJFNkNHX2xQcFhWeHZxOURYdWc?oc=5"
-      },
-      {
-        "title": "Sondaż: Wiemy, jak sprawa sprzedaży działki pod CPK wpłynęła na postrzeganie PiS - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeldTNzVJMlI5MnZfTDZZeDBCLVB0ZnVOLUllYkpGM0J3UERHTERucHpTNjVxSUFzWGFmbGJRUk5XckU4UDZRT21NMGRoXzJWbHVvLVVTTko1bjlJSXFkQVNRenJwelJiM2dlN0R5N05kMnE3NzZOQ1pKdmZaSkV3OGZJTVdSQjZzWmlBSzlnSjZQLXhReW03SWdUMWF0ZUVvejJmSVhkU0NDMzJwdEhyUm95OGNyV2lK?oc=5"
-      },
-      {
-        "title": "\"Zaczęła się faza 0\". Duże poruszenie w NATO. Podejrzane ruchy Rosji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam4tX2R1WkNYVm9KeFREN2tBVGxxT0ttRlpyT21hd2R0NTYzOUkxczktd193SmtaUXdwMl9rYXJ0eDVrbG5WeVo1LThaSFQ3Y3l3emN5aktFX29LYVlXZ1hjSkJ1OC1fRTVaNTBZLVh4NzBOQk03Q3BmMzlvWXZKSW5UZ0FtUDZhLVlycUxvY1hYbXJERVNnWGplVWVXNHl0LWFDODRoSEM?oc=5"
-      },
-      {
-        "title": "Ukraina straci kluczowe miasto? Niepokojące doniesienia w sprawie Pokrowska. \"Sytuacja jest trudna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWNIaFh4QzVUUVZDRy1JalhHT251V1Bod0FtcXZqd09ORm9IRTVkRF80YUNHNWZnNnNPQzVhVEdWanVteE11RTMzTmdUM3VEckJYNVdJNndaMGlqZmtCNW1ZaTVtZEtTOWJBa0loUmVuaElrMGphN2pOdmNfUXRNYmhlQ2NzQUhDTDEtaHlnMTBzV3BBV1U3RHo5eHVNTmFTMEFmSU5TOUlhRzAzNEFB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 00:13:04",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Potężny antycyklon na długo zawładnie Polską. Znamy datę nadejścia wielkich zmian w pogodzie - Onet",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGpBTjN5Y0tqVDRMelpLSUI2UWw3b0lYODczVTRHT0VtNjBET0stY0RjYkJ3R2w0aEw3ellQZ2U3LXNMdzFqamVBRWFBNWMweTl6VF9aYnVlRnZaZkhZM2dmX2FrQnJBVVZlbS1iWUpDZDRacGRnODBfczVDUnd1OUNqOW5kcnNBR2JRZkRXZFZ6VjRlTktIbXdFSVkwbC1Zakx3bEg3SkpSeXdWMDFDV0JfZDQtczB0UUhGblJQSWFoLVo0NERkODF3NnRqQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03 07:22:26",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 396594,
+      "DOGECOIN": 0.640602,
+      "ETHEREUM": 13748.79,
+      "LITECOIN": 345.14,
+      "RIPPLE": 8.92
+    },
+    "indices": {
+      "^WIG20": 2987.33,
+      "^WIG30": 3859.93,
+      "^WIG": 3859.93,
+      "^NCINDEX": 274.42
+    },
+    "news": [
+      {
+        "title": "Policyjna obława w Wielkopolsce zakończona. Na posesji padły strzały - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUd1T21uZTdjSGtNenZtNWl3bWJkbnRGMjVRb3J2dUYzdnFoZFVibXdCck5qUmFqVWtIUDNXVURWQnd1NW4tcVI5SWZGb2JDZFdqZFVfdF9RM3dFNHJKakp4cU05YnVFdDBONE84cFRYTXQzZGFsaGhUcHNaMncydDZQNVpkaHZqMmVfdk9lNU9XejlGbnNKNTlSS2lLQXhLTHduNFRTRlBqQQ?oc=5"
+      },
+      {
+        "title": "Telus komentuje sprawę CPK i sprzedaży działki. \"Nie miałem wiedzy\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJCZ2owZDhaaTUxZllicXh6U3ktdWYzLTB3RnB6RWNaVjlHWktiRFBiUS1TQnJWZ0Y4LThUZmlEUVBYM3JjRnpiNWxmRXFORENVY01iT2U1c3lXRTVYdTlpWHVuRUpjN2hTWVFsdm9XTEQ3V08ybnEtYW5WZmFIVjRzZmstOFV2bHBjNVd3RllDU2RKSWpqY2ExbW5TQmhWQk4tbzF0djRtbms?oc=5"
+      },
+      {
+        "title": "Polacy nie chcą wracać do wojska. Duża zmiana - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzBGWFo0c1RFWTU5ZVZxRlAtTXRGSW1aZHo2cVRlQlRBWjF3Tzh4WlhHaVRZZ2FKOVNtUnlYcW13dlFKN1V4UjlEekZnNC1zYVgyY1d5VVN0alVUclFLZ2NVelZQRU1wNG5Dc0JtR1N4QmM2V0VjS2MwSUpZMmxpdGhpNVVnN3BpU0VmZnJiNGExUVdSZVpENUt0bVdzazRrUFh0ZDNUTzByVUVvLXk0ZnBRcVo?oc=5"
+      },
+      {
+        "title": "Tomahawki nie dla Ukrainy. Trump grozi kolejnym państwom. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGgtUzhoLTR2djVvdllyYk9oeWNRZ19qRE5RMS05TlFhRzRvTWd1cUhCajVtSWdiZWRqSHc0Y2QzVjg3RkFXUHE4WnRjbV9YN2dyUEUzZllIaTFKLUd1Ty0zNFpNMGE4UE4xZUtiS2E0Ul8xQWtiNkpFT3Y2b2NoYXFfMlcwOWhJOVlEZ20xQ2kyMlN6aGQ0d3BFMVJfX2ZFUXdJRWpzeWc5UHExWlgtZ1lkdW44Q19jS2RSdTc2cTJ3clpWRTg2MUl1S2JYc1NFc0E?oc=5"
+      },
+      {
+        "title": "Donald Trump \"nie wyklucza\" interwencji. \"Zabijają chrześcijan\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVBrS3NFX0ZtZVZCVlJhazJhUW5NOFl4RjRMR1o1OE1VQ1hWaUxTX25Bazg5Mm5HdUF6LXl5QmhNU0g0b1NkeUF1M19tOGE2UWtHdWNKVW9GdHU0VmVGZ2VDNDBpV3k3bEZhLXRxNE5nSlBEaFMzZ2lmZUtSeElsLUNkWjFiTXZPWkdqY2JoWjBZVER2b3BFVXZfSlROLVpPRE1kNG1jVUNuQWtqMHN5YXk5c19fazlLMkpuMWFn?oc=5"
       }
     ]
   }
