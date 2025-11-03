@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 17:14:28",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +16°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 406627,
-      "DOGECOIN": 0.691051,
-      "ETHEREUM": 14359.43,
-      "LITECOIN": 365.11,
-      "RIPPLE": 9.23
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Tak może upaść kolejne ukraińskie miasto. Rosja ma przewagę 10:1. \"Wywołali chaos\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRkFVUjFpQi1RQ2xMOVM2blpnbVpJWnJuX0JIa3BxblAweE9tVVNGRk16N2hfYU54YlBMT3VRNjdqMjk2ZWdSaUZRaE9LamhOcDJZWHoxc3J2RWROQlI1N3h6aGZHSG9GU0htNC11UV9mdW1xNFFaX2RfcmpGc2RvNmE0OTFSNlpvRno4Q2ZCXzZ1Rkc3cGxacVpuVHJickxKMGdWcmFGX3hHZm8?oc=5"
-      },
-      {
-        "title": "\"Rozpoczął kolejny atak na Węgry\". Orban uderza w Tuska - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUoydVhaY2FmU0pxc083TVdBWWd0bUlUYW00SVFUTGtGcjZfd2lpUnBuVlFxZ2lKT3NaOEl0RzZzX1pIOWhIOWRTbjJXZS1iVy1TTkVuZVY5ZENybTJwWXVUbEstajNnSGdQVERiSzJrNk5jMTVSYUVHUVhQSUVyeVNMbkNJci16eUpfdTBmaVhRRmR3bEMwLXB2dXV6cXpIMFE?oc=5"
-      },
-      {
-        "title": "Tragedia w Zdunach. 7-latek zginął w wypadku podczas zbierania słodyczy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkJMT1kzeGhSdkVEVVRvcG54aTJ5TF9vREpncFBLQkdnNk1rdHpOY2ZpZFhhQWhnMUE5MDNjZUlJdTJLa0tGc2FCeVByT3RCMEtHcE5HRTlocjVYQ1dOMVNHeTZTblRnY0JRVWN4eFFId3dOb1NHMUItelVpMi16WUZoTG5iclhSMGZBaFlnWmhYMVRIU1drUTAtbjFjSGJJeGZ0NUhkVTBsOVotZnhuOHctRmNUQQ?oc=5"
-      },
-      {
-        "title": "Strzelanina na Krecie z trzema ofiarami: rodzinna wendeta? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRENHMHlDT1EwWm91MkhQU2RSaXdzSnZZNjFHZ0JwWFRuMnRRbmQ0elk5b2VpTEhpdG5RZmNZbXdENmRWZzMxS1ZSNTVSU00taEtaVmtIcDE5UTJxbDk1UUlzUjRjWXpIMEk3NUhBeTlDX0JKVzQzOFZFRWhjRk9IRXNKdjVHTzlWWThCU0M2X0VIX2NrcDAwYVhweGhTdmJE?oc=5"
-      },
-      {
-        "title": "Znana stand-uperka znalazła igły w cukierkach dla jej córki. Zaapelowała do rodziców - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTREWHFlRHJmS1Q4bDNIdVRrUUNQbEVQMDk0UnhERUxucjhVdjVvMGhTUUNjWHlxMGV5alVGaVMyRng0RWNNdlJ6ME42YzlJVUw4WHhra3J1WGJRS0hNYzc0am9JQmxNbGJXU29YdlY3M0FQWTNyWGp0TzJNSExZeTAxeGdMendGWDVZSmJUN194eGZIZjZ2cXhMZXV4QURiTnRpWjhVRi13cnkzOFlpRVBVSjdzNUJtX3I1MFYxbVZwQ2VVSVVN?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 18:10:30",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Nowe wieści w sprawie śmierci gwiazdora TVN. Prokuratura ujawniła wyniki badań - Onet",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFNNNTNtai1IY3MtMlNLdV9ZdUh5YVBpY2JrazJCWFh5YW1PdEVuSGp3TzRiMVBqRWNHVlNTUlkxRVhLT2IxcC1kYzNuM1ZTLUJEWWluM2JHeXhseEYzWUNFSDdFSkVIME5ZSFRERWdyVng0azhYTjhabVlyOHZWX1NXRHNlXzFZeE93cUlqTVJrSldBQmpSZHN5N0lsanNJMEVvbkJINVVsaXJWMzMzVm56S0JIbjRKMy1Bb1NkWE5TZEttZlN4YUJ1dUh5UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03 23:13:55",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6933,
+      "EUR": 4.2527,
+      "GBP": 4.8475,
+      "CHF": 4.5753,
+      "JPY": 0.023957,
+      "AUD": 2.418,
+      "CAD": 2.6307,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 393002,
+      "DOGECOIN": 0.61513,
+      "ETHEREUM": 13251.81,
+      "LITECOIN": 321.58,
+      "RIPPLE": 8.5
+    },
+    "indices": {
+      "^WIG20": 3005.61,
+      "^WIG30": 3880.73,
+      "^WIG": 3880.73,
+      "^NCINDEX": 275.3
+    },
+    "news": [
+      {
+        "title": "Poseł KO przekazał poruszającą wiadomość. \"Choroba przyszła niespodziewanie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWFvZVFtTWZzR1RzTWRsYXZTZkRIdERDY2U1SjJPR0lERTdRdDMtdm84OHZqci02OGpkYjBGNnRkQzR5QnFXYUpLVFJQeGk3bUw1bmkyM1Y4WDFsaGptRlByOTlEM3J6cjQyalQyazNXdzNlN2dzdEU0Q293b2pzdWNyQXhObkdCQXFNcEt6aXl5VWVUd1E2WG1ud2NaSlJnLVZnazctTWVKeFVPaDhfNGVGNA?oc=5"
+      },
+      {
+        "title": "Alaksandr Łukaszenka uderza w transport z Polski i Litwy. Zakaz ruchu dla ciężarówek - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2EwZnprMkZBSnZHanpLd3VhWWpaZTdxc0pJZEFCNjYxVk54b0VJVmxNWnduTzNHN0ExMjRVSXBxaEtrT2RNdHcxeEk5Tmo2WDF5Uk9iLXFfckdGSjZoODhER2dQSjRtbW85SmJveXdUVHhaZkRWdEhwWnBvMk12OHNlLW1uX1FzOGlfQ0VvYmwwTWtja2xIbHV0ckNZZDdaWDJseXZsSF9tUVlTQ2FRUFNvbHdYWlQ5NVVvb3lxbmN4emc?oc=5"
+      },
+      {
+        "title": "Duży operator ma problemy techniczne. \"Nie da się dodzwonić nigdzie\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0VCcGZ0a2MtWDg0SGxkNmhDZ09zQTgwQWh0Q2lvRmJqOVF0SVVXT2ZubWdmTWpwd3hkVE42X09XT2d4Y2NjM0hXY3FDZV9TYVhmMVJYMl93ZG14WlBQdWZLaWEyT05GN29rdHhDT1ItUXVfbFhMY0R2UkE2akVyaHF3cjdLSUpKZjY1TjkyV3ctdzRzakxRdVBQb0N4bHlYYkNsYkI0RnpJOHdjMGllNmpCVjMyVEQ4TkppNA?oc=5"
+      },
+      {
+        "title": "Robert Telus, działka pod CPK i mus z wizerunkiem. Afera, która cały czas ciąży PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFdlVmhSOUZ5QWluQlk2RUdEcnlkVW85c1RqMGVWaWNqc1JlX0ZmTlRWc0hiT21YOS1xT1V6QUw3NmFHd0hTSFFuOGtJTnhEUHlJdDluZnA0cFBBcWtXdUpMS0ZtYUlfVmRFWVRMQVRGam9hdmZ5aFVvb0trd2xGWHFCVzlCdTdlV3pCaWdUOHlkNkNrTHVXaEdFM0FYV0haRHBWRUMwX2lkU2tLMzBBaWhaT0J4cXhPbXRTTkRrcm9JbnZjNVRzWkdWd01MQ1o3NkdN?oc=5"
+      },
+      {
+        "title": "Donald Trump na rekordowo niskim poziomie popularności [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3luMG1fRi1yMnE3UW9sSUgzelZfZmRwQVM1UHotMi1LT3NfOTlROEpMS0FDWWsyU2lnbWttdVFoWGJIOGxHTzRvaTBFUUVscmZqWUlxdnZNa0JtaU1OQW9TLTU2RjZWc0F5X0w3enhqbnU5a0NKUWd1VlVfZTBQZEstSWpSZDJ5dUVYSEFTOHN6TXNuZkQzNEhnaG4zbDNiX3ptOFI4NFRTbzI3S3hNbmRwTDlsRzhTSDM4RFlB?oc=5"
       }
     ]
   }
