@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 00:13:04",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 403911,
-      "DOGECOIN": 0.686889,
-      "ETHEREUM": 14210.63,
-      "LITECOIN": 352.16,
-      "RIPPLE": 9.25
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Elżbieta Penderecka nie żyje. \"Wielka postać polskiej kultury\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON19RUHhJV010aTY4VXFqbTFuazkxU0NEYVRiMktWWVJZZ3k4U01ycjhfR2NUSTNNbWdhQzBQbHJuZlpqVW5jOTlZLVc4S2gyeTA0WndJVEN1R1Y5VXAyc3daUWtYejRjY3dUdWhRTG1kdE9XUWhWMmx0SXNCNjh0NGg2RnRlR09lbGc?oc=5"
-      },
-      {
-        "title": "Niemiecka prasa: poruszenie w NATO po ruchach Rosji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXlQY1BJYTJrY3VfRThtaGYxUnp5dFF0MmhJTmw0azlzMlRtREMzTEdZdFZBOWNyTC1vVTE1bWtpQVBFa25YRzFpZHdFcHNJNWFrdTlJSnJVOGhfMXZna0NfRURhcFdqbmFsd0NOS2JRQ3ZWMTh3WXVoRVVZX0ZvQTg0RC1zMnNOUVFxUk1UdE9iMWF3VEZaVQ?oc=5"
-      },
-      {
-        "title": "Sprzedaż działki pod CPK. Jak ujawnienie transakcji wpłynęło na ocenę PiS? Wyniki sondażu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2IwbWZTZGNmOE1pb0hraFdVZnJoOXdRM0ZjMm42eXFRUWU2Vkl4dm1pUWFpeTdIa1ZUaEU4UV9NdzVRR0otRUxrOGQzQ2RxRk5TSmhqRXdnekxYdnI3S2VGYWZvTGwydUQ4MFVBWEt5YUdycldfR285azlIN2t0clpLdWMzN3ZUMUVMRXlqSGlROVNtS0pvd2szZjZndHNwdW9pakhuV09MM2t3Z0tTSmFCN0Z0VE4yYjRn?oc=5"
-      },
-      {
-        "title": "Niepokojące wnioski po ruchach Trumpa. Chińczycy znaleźli na niego sposób - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1A5bmRfYU5hVndFU05lU3ZSZmxsZXhKczhSTkxmS3NZZkZQT2VQUkpZbk1TVDdUYWlGYTAwSk8yTEFsbC0tblBpWmE3UkE2YXdSNzlkcDFnZnZidlJGdkhnUTlqa0dmdmdWd2NrZjQ0R0hTRHptUmlMQ2NZc0xUazBkRi1Nc21xRnRWdVhBYjM2cUxlYmgxV21nZXdidGJ4V2lJWmxMd3lNekcwSjR1TjdiWkE5NGZC?oc=5"
-      },
-      {
-        "title": "Zmarł Jan Turnau, wieloletni redaktor \"Wyborczej\", twórca legendarnej rubryki \"Arka Noego\". Miał 92 lata - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0poajZJU2FKM0ZCQ2hDRXB1U05HWHlKalZuOWFKLUx1NzV1ZVdwdUQySG4xZGh6czJuNy1ldmZqMkJxNS1MOGtMajVqQW9ZRkJudk04WmszSkoxWXFwcUxuX3BNN3ZsQXEzcWl1OVZpNzhCblBzMWpScHlyN1dkYjlISlo5Q1NBUmdTdGdmY1VoZ05jUTNTVHVfd3B3dDFIVGhMSDAtb2hXWVU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 02:09:56",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Donald Trump \"nie wyklucza\" interwencji. \"Zabijają chrześcijan\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVBrS3NFX0ZtZVZCVlJhazJhUW5NOFl4RjRMR1o1OE1VQ1hWaUxTX25Bazg5Mm5HdUF6LXl5QmhNU0g0b1NkeUF1M19tOGE2UWtHdWNKVW9GdHU0VmVGZ2VDNDBpV3k3bEZhLXRxNE5nSlBEaFMzZ2lmZUtSeElsLUNkWjFiTXZPWkdqY2JoWjBZVER2b3BFVXZfSlROLVpPRE1kNG1jVUNuQWtqMHN5YXk5c19fazlLMkpuMWFn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-03 08:14:33",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6751,
+      "EUR": 4.2543,
+      "GBP": 4.8303,
+      "CHF": 4.5849,
+      "JPY": 0.023841,
+      "AUD": 2.404,
+      "CAD": 2.6241,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 396288,
+      "DOGECOIN": 0.637845,
+      "ETHEREUM": 13704.91,
+      "LITECOIN": 344.01,
+      "RIPPLE": 8.87
+    },
+    "indices": {
+      "^WIG20": 2987.33,
+      "^WIG30": 3859.93,
+      "^WIG": 3859.93,
+      "^NCINDEX": 274.42
+    },
+    "news": [
+      {
+        "title": "Tajemnicze spotkanie w gabinecie dyrektora. Nowe doniesienia w sprawie działki pod CPK - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd1FENDJwMU5ZSjkxanF5b2FuaWZHQjJ6M2dtbGNEM3VPbWRhbnJUc2lwRk0yQlhnUjZ1LUdnQkFydU5MV1huaWs5YXFSWlAyV1dVWXAxT0Joa1dSaEVWUnNMUDRnTEk1UlNTVmtEek1wQjVfd3ZtSTdwb1pfU0pOZGpjbnpfaEtSM0hCTlJvSzIxT1RhMWZXMmtUYUVxSlJyS0dMUUpGYTBUZ2pCLU8tbjFEU3dQN3hZaFV6UVdjZzRka2c4NjJjdzdJWS12NEtYOS0wcG9xWlJnVUZ3X1lOLWVR?oc=5"
+      },
+      {
+        "title": "Obława policji w Wielkopolsce. Doszło do strzelaniny, pięć osób zatrzymanych - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmxsUzNySFF0VEpNWEFtLVZiWVd3a3pvVnk3dDhFTmcxWUpHYTMzTXVwRlVzaHFyQ3k3UERIXzI4SVIwWlBFVjVjSW1tWG44bnB6WmNlS2FnQmxSUnVfRElNam8wOHNoV2s4dk9Udk9rY2dTYjNwOHM5QXZ0ajFadWRYcXREemx0emtBOF9ZME9uNGNPbldEVUxoMHdKLWpMTnZFR2lnbw?oc=5"
+      },
+      {
+        "title": "Patostreamer \"Nazar\" zatrzymany przez policję. Usłyszał zarzuty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjBwX3RZa2NXZW9XWExHTVNDUFBZbXh5Z0w0TFcySl9EZmQyRlBoM2FkLUpwRFF6RGNVWnFJd0RYVV9xdFdBcGNXYnBEVFctRzZ4Q1lHaS14SlpCODFibU1ENUZXME9ncnF0bFZPTnRYanNqNFQ4RXFTMDF4ajBLSGVicGtCRmJrY1JmZ2lvQW82ZlVuZUVLaTBWRmNiYVFwaG8zUDdlR3g5ZG9RMlhnYlgtT1k3bzhON2JZYUtzUmI?oc=5"
+      },
+      {
+        "title": "Areszt dla Zbigniewa Ziobry? Tak uważają Polacy [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemFXUkdHYXF5ZENfMnNOWXlEWkdkMlNwanA2cXN1MDZMQzl5N0JVakNIclBjV2JmYmRVWC1tdDhqZXQ1VlpWOVlVTjFfYzRfankzU0dYZlliVE94VDBlQzZqalUwS2JyazlOVXFlQ1dnQzh2ZURoZ0xudlpFS1dnNmF5M2gtUnBnaGhVSnUtRks4YUlqc05TTEplQmdlckItX2dwS0pR?oc=5"
+      },
+      {
+        "title": "\"Brednie u Rymanowskiego\". Okładka gazety wywołała kontrowersje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORllETVlicDc3dzRsM0J5WkJyaEFiRWNCN1VhTlJFdDZjYUs2M1VKOFd1QncxYzczYmpWaFVyUjliZTZPM210UGJFOGwwdDRoOU1KcDBsVGZFYnFuQ0xZVXh1T0prblFoaUhHaVotbHhyWVNKOW9BUXpkX3Ixc1FFQ2hGeDNobkQ2U0Nxa2lXa3FKV2Y5aklSSkVrNzNtcnVjNGJuVHBn?oc=5"
       }
     ]
   }
