@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 22:10:41",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 406820,
-      "DOGECOIN": 0.692027,
-      "ETHEREUM": 14302.75,
-      "LITECOIN": 369.37,
-      "RIPPLE": 9.24
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Groźny wypadek koło Warszawy. Są ranni, w tym dwoje dzieci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEUycnZ1LVlQSHFyODdfV09OUlFyX1dMek00UklUcDhld3VDRHN1dkR5cmcydEk5cVZjZ0dleWhzSTZZRDdZOUY5NWpFOFZrM25yU04xY21mc0tVaUR4WEVKejk1c0hINWNJRERSbC0yNEFzWkdpRlJhLVpFNE8wV0xjME9NVmNkRnVCNGRvUFVOTldPd1UwOUhmMDZha2R5c1dxTHVlX3FXUEVhUVU0alBsNFBCa25GZUwxQmI3MUVEdnY2LWVCTGl4b2k?oc=5"
-      },
-      {
-        "title": "Francja. Napad na Luwr. Jeden z zatrzymanych wyszedł na wolność - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX05pWWw5MHZ5UUg1UnBQbW5EU0VaaFNQQmUwNlBHaXVSQ1ltWW83REJRVmdjS19raklJQ2F5YjJLN0wycTBEUGk4Unltb2wzc3l4ODZ6WFhEYTBvTEJzdXdXd0ZuWS1WNXFFZ0F4QlE0N056VUdUUEtONUdTeDhwblJmRjhVNUlWNU9uSDVmT1lENTg?oc=5"
-      },
-      {
-        "title": "Ziobro wróci z Węgier? \"Wie, że to może być akcja na krótką metę\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnl1WTQ3T0pRTzBUcVl0MjVsU0M0TGh2QmRISEx5UWpXR0lDMnlaMXJYSlc1MmJGV3RWV0MxTzBweXJjbnB1TnRYYWJuaVVJQi1KcEhDal9RUlZ6SDRQR2hUYnY2UU5Ec0k5WEJxNWNvblVuNlhieUtGd3JKaTlEUWlWU283ZWYxQVFVLUNwcVJEVGN5aUE?oc=5"
-      },
-      {
-        "title": "O krok od tragedii na Śląsku. Pięcioosobowa rodzina trafiła do szpitala - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNExodnQwRnY2M2ozQWNXZEg1ZVZaSmhCOGllLVJ2ZXUyNTV0Tk1Ob1JtYlRwbi1RTDM5TUYxLVU5OThQamtUcGk3TVVHeG5BaFNITXZFdDlPT01ld1dLOVBxWnRVREEySFppWGVYLTdZQVNuZE5BbGZOaGFQSEJnY0ZMbnBxTkpSNmNCWG1qMC12ZTA3WlF1UjVZUHpaeFZGSzVVejhHemFaQU9pMDk4?oc=5"
-      },
-      {
-        "title": "\"Wzór do naśladowania\". Szwajcarzy piszą, jak Niemcy widzą Polskę - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXpnelBlanFNdjZlX2VqSFo3S05RUkpsWm5yNUpNUnZMQUFIeEJPSTlPZnEzQWhDeUZpX2t4YklSbVhWX2VuT2pBQXVTM3hYdnFaWFRpVkJVa1BpWTFvREhHS1RpZnV3QUJrLW9GbDFYMUw0U21aeDd3OTJIb3Q2ZWZhbTRLUVNuZ0dvdm1XY05ySHZ0SVFmNTBMQzB6Qk5NekhSUlEwSWhDWkJuYmt4dWQzeVl1dWtVNVVJTlNrUXpQbFFB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 23:12:01",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Umowa koalicyjna w Czechach. Babiš stworzy rząd dzięki skrajnej prawicy - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnlEaEZVT3JybzJVckdIbGZHUjl5X0hmZnNZdEtWTkdDalRRZ0VpeTdKbFNPUGtpa1kyY3hWWlpJQU5zQ1Q1bGlDaXpNc3FjeWp5VTVEZGxyYlU0YVBtY0RjT1lURWhPS1hobHZmalk3ZjV2QWMzS0w2NFdMb0lIRGV4SU16Q3Z3YWw2ZHdKRVpVb0RlSTRFWVpUTUNCSzNQY2s4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-04 06:14:46",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6933,
+      "EUR": 4.2527,
+      "GBP": 4.8475,
+      "CHF": 4.5753,
+      "JPY": 0.023957,
+      "AUD": 2.418,
+      "CAD": 2.6307,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 394139,
+      "DOGECOIN": 0.626426,
+      "ETHEREUM": 13413.42,
+      "LITECOIN": 328.67,
+      "RIPPLE": 8.64
+    },
+    "indices": {
+      "^WIG20": 3005.61,
+      "^WIG30": 3880.73,
+      "^WIG": 3880.73,
+      "^NCINDEX": 275.3
+    },
+    "news": [
+      {
+        "title": "Poseł KO przekazał poruszającą wiadomość. \"Choroba przyszła niespodziewanie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWFvZVFtTWZzR1RzTWRsYXZTZkRIdERDY2U1SjJPR0lERTdRdDMtdm84OHZqci02OGpkYjBGNnRkQzR5QnFXYUpLVFJQeGk3bUw1bmkyM1Y4WDFsaGptRlByOTlEM3J6cjQyalQyazNXdzNlN2dzdEU0Q293b2pzdWNyQXhObkdCQXFNcEt6aXl5VWVUd1E2WG1ud2NaSlJnLVZnazctTWVKeFVPaDhfNGVGNA?oc=5"
+      },
+      {
+        "title": "Donald Trump na rekordowo niskim poziomie popularności [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3luMG1fRi1yMnE3UW9sSUgzelZfZmRwQVM1UHotMi1LT3NfOTlROEpMS0FDWWsyU2lnbWttdVFoWGJIOGxHTzRvaTBFUUVscmZqWUlxdnZNa0JtaU1OQW9TLTU2RjZWc0F5X0w3enhqbnU5a0NKUWd1VlVfZTBQZEstSWpSZDJ5dUVYSEFTOHN6TXNuZkQzNEhnaG4zbDNiX3ptOFI4NFRTbzI3S3hNbmRwTDlsRzhTSDM4RFlB?oc=5"
+      },
+      {
+        "title": "Robert Telus, działka pod CPK i mus z wizerunkiem. Afera, która cały czas ciąży PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFdlVmhSOUZ5QWluQlk2RUdEcnlkVW85c1RqMGVWaWNqc1JlX0ZmTlRWc0hiT21YOS1xT1V6QUw3NmFHd0hTSFFuOGtJTnhEUHlJdDluZnA0cFBBcWtXdUpMS0ZtYUlfVmRFWVRMQVRGam9hdmZ5aFVvb0trd2xGWHFCVzlCdTdlV3pCaWdUOHlkNkNrTHVXaEdFM0FYV0haRHBWRUMwX2lkU2tLMzBBaWhaT0J4cXhPbXRTTkRrcm9JbnZjNVRzWkdWd01MQ1o3NkdN?oc=5"
+      },
+      {
+        "title": "Sprawa Rymanowskiego: dezinformacja jest bronią używaną przeciw nam - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU5hWkx3bnAtNDBSRHpSbG1MaXRIZVlUSnhpOXRhY3IyWl9sV3NyUU5RNkl2Mkx5Qy1WdVFzX0o4WWhPSjBIQUJRT3o2a2c5SUJ6WkYzMmtwTkUyX1hfRnBheUFkd2xFQkxiNnFVU18xWUZ3LV96UEQ4Qm9HdFNmQ1hIbjQ3R3hlNHlyTkZic3puTkN3aU5FTWZVaFNrWnRhSFB2VncwYw?oc=5"
+      },
+      {
+        "title": "W Rzymie runął cenny zabytek. Zacharowa widzi w tym proroctwo dla Włoch - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXFrVi14clZPT3JIVVRKQms0LWZ5Qi0wTVk2OGJqaEZ3dDNmLXc2QzFUOHBnRTJSck5iSW1HUlFIYXNUOTA1blgxd09CaGt1QlhHX0QtOUs1VS1HQ3V5R1VJdXQ4NVJDbEhOSzMxMjB2UF9qaGl6WHBLNlhOWDQxaHhCMW93T3BrcERONGx0ZGFrTnlpcTVoT1NLd2ExaGlwWmY1aWFrN1dEWkxsY29oQ2hXXzM5Mk5nMGc?oc=5"
       }
     ]
   }
