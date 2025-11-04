@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 20:09:25",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 406347,
-      "DOGECOIN": 0.688833,
-      "ETHEREUM": 14290.6,
-      "LITECOIN": 366.24,
-      "RIPPLE": 9.23
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Groźny wypadek koło Warszawy. Są ranni, w tym dwoje dzieci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEUycnZ1LVlQSHFyODdfV09OUlFyX1dMek00UklUcDhld3VDRHN1dkR5cmcydEk5cVZjZ0dleWhzSTZZRDdZOUY5NWpFOFZrM25yU04xY21mc0tVaUR4WEVKejk1c0hINWNJRERSbC0yNEFzWkdpRlJhLVpFNE8wV0xjME9NVmNkRnVCNGRvUFVOTldPd1UwOUhmMDZha2R5c1dxTHVlX3FXUEVhUVU0alBsNFBCa25GZUwxQmI3MUVEdnY2LWVCTGl4b2k?oc=5"
-      },
-      {
-        "title": "\"Rozpoczął kolejny atak na Węgry\". Orban uderza w Tuska - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUoydVhaY2FmU0pxc083TVdBWWd0bUlUYW00SVFUTGtGcjZfd2lpUnBuVlFxZ2lKT3NaOEl0RzZzX1pIOWhIOWRTbjJXZS1iVy1TTkVuZVY5ZENybTJwWXVUbEstajNnSGdQVERiSzJrNk5jMTVSYUVHUVhQSUVyeVNMbkNJci16eUpfdTBmaVhRRmR3bEMwLXB2dXV6cXpIMFE?oc=5"
-      },
-      {
-        "title": "Drony nad lotniskiem wojskowym w Belgii. Minister obrony alarmuje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGFub1F2N2xMNTRVeC16c3JqNXpxUWpJX2NqR1dSandOS1ZsR1ByaGkwYmlIRFJyaDdMc0swNHFjemRDUEp4ZHV3NUZMb3ZCOUhPeHZYVEhSVTNZRmg0UU1MRHUxdzN5bkY4X0lka01jV3hFWl9vZFoxX0lOTEZxamVmUlFIMG9kSXBaWjFiUTQyS044UUhRdW1VYmZnQnpkRl96d0V6UzE?oc=5"
-      },
-      {
-        "title": "Strzelanina na Krecie z trzema ofiarami: rodzinna wendeta? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRENHMHlDT1EwWm91MkhQU2RSaXdzSnZZNjFHZ0JwWFRuMnRRbmQ0elk5b2VpTEhpdG5RZmNZbXdENmRWZzMxS1ZSNTVSU00taEtaVmtIcDE5UTJxbDk1UUlzUjRjWXpIMEk3NUhBeTlDX0JKVzQzOFZFRWhjRk9IRXNKdjVHTzlWWThCU0M2X0VIX2NrcDAwYVhweGhTdmJE?oc=5"
-      },
-      {
-        "title": "Ukraina wysyła specjalsów do Pokrowska - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOekZUZk1wX3pTLU13dmtSbWtYdjJhYk9XN1hYZTNFcVNRbjJLcGtWcmk1UWVOS1gxaGx3TUJ2d0tHSDQ0MklWWV8yaGl6elBXQmNVTlJXMU8tRDZ6ZXBVeTF1clNoOU9UczZDNy03cUF6c1hzX0l4cERQbkFzTi1BNXF0c0ItdmE5OUpSdVFkcllCZEhiTm9UNnRIQ01GeXRGWXZDcVVZdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 21:13:22",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Sprawa Rymanowskiego: dezinformacja jest bronią używaną przeciw nam - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU5hWkx3bnAtNDBSRHpSbG1MaXRIZVlUSnhpOXRhY3IyWl9sV3NyUU5RNkl2Mkx5Qy1WdVFzX0o4WWhPSjBIQUJRT3o2a2c5SUJ6WkYzMmtwTkUyX1hfRnBheUFkd2xFQkxiNnFVU18xWUZ3LV96UEQ4Qm9HdFNmQ1hIbjQ3R3hlNHlyTkZic3puTkN3aU5FTWZVaFNrWnRhSFB2VncwYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-04 04:05:50",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6933,
+      "EUR": 4.2527,
+      "GBP": 4.8475,
+      "CHF": 4.5753,
+      "JPY": 0.023957,
+      "AUD": 2.418,
+      "CAD": 2.6307,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 393574,
+      "DOGECOIN": 0.626271,
+      "ETHEREUM": 13424.13,
+      "LITECOIN": 329.4,
+      "RIPPLE": 8.65
+    },
+    "indices": {
+      "^WIG20": 3005.61,
+      "^WIG30": 3880.73,
+      "^WIG": 3880.73,
+      "^NCINDEX": 275.3
+    },
+    "news": [
+      {
+        "title": "Wyniki sondaży dotknęły Donalda Trumpa? Zareagował emocjonalnym wpisem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVhCVHFlalBNMHBsQmt5ZnVHV04yV0dNdWlmOW9NVG9GVUpDc1NVR3BzSGNNMnE1amktRk9IX1BvRHZTdHVreFA3SS1ZUldxUWtaaDFPcHNCU01iS0xGREpEenJ5bTlrc18zWk9wenlGc2dPZWJHTExBTUR3M09FZjl4N0N5U1JfMEotU2pnTXRLMW90RDJSZXNpMUVLMzdxcTZKUzF2VFc3cUpFZkU5eWgzSUhVZjFfNGp3ZTdsbGNZZzVEaEM3VnVTOWdTOFYwZmc?oc=5"
+      },
+      {
+        "title": "Poruszające wyznanie posła KO. \"Choroba przyszła niespodziewanie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkNqdWFLaEJickYyN2ZaMXdiajh0RXlRcTlEUTdjVGszdXB1UUFISHVIZmRSTU16QUlpTG1lYVdhVnpkTUY3b2M2S1pzQTFMU2hzeDFYaVJmSUhrbmZ2N0N5Z3hJb2V1TDlTOUNRSUNVNVRXeXpmVVdBRFVhdlBtdUZRV0JHMTl1UnNSZG9Ibk91OU4tWlF3MDRtYk9SeGJDRXJHLUNWdjJ3UFBKa2Rz?oc=5"
+      },
+      {
+        "title": "Robert Telus, działka pod CPK i mus z wizerunkiem. Afera, która cały czas ciąży PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFdlVmhSOUZ5QWluQlk2RUdEcnlkVW85c1RqMGVWaWNqc1JlX0ZmTlRWc0hiT21YOS1xT1V6QUw3NmFHd0hTSFFuOGtJTnhEUHlJdDluZnA0cFBBcWtXdUpMS0ZtYUlfVmRFWVRMQVRGam9hdmZ5aFVvb0trd2xGWHFCVzlCdTdlV3pCaWdUOHlkNkNrTHVXaEdFM0FYV0haRHBWRUMwX2lkU2tLMzBBaWhaT0J4cXhPbXRTTkRrcm9JbnZjNVRzWkdWd01MQ1o3NkdN?oc=5"
+      },
+      {
+        "title": "Sprawa Rymanowskiego: dezinformacja jest bronią używaną przeciw nam - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU5hWkx3bnAtNDBSRHpSbG1MaXRIZVlUSnhpOXRhY3IyWl9sV3NyUU5RNkl2Mkx5Qy1WdVFzX0o4WWhPSjBIQUJRT3o2a2c5SUJ6WkYzMmtwTkUyX1hfRnBheUFkd2xFQkxiNnFVU18xWUZ3LV96UEQ4Qm9HdFNmQ1hIbjQ3R3hlNHlyTkZic3puTkN3aU5FTWZVaFNrWnRhSFB2VncwYw?oc=5"
+      },
+      {
+        "title": "Alaksandr Łukaszenka uderza w transport z Polski i Litwy. Zakaz ruchu dla ciężarówek - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2EwZnprMkZBSnZHanpLd3VhWWpaZTdxc0pJZEFCNjYxVk54b0VJVmxNWnduTzNHN0ExMjRVSXBxaEtrT2RNdHcxeEk5Tmo2WDF5Uk9iLXFfckdGSjZoODhER2dQSjRtbW85SmJveXdUVHhaZkRWdEhwWnBvMk12OHNlLW1uX1FzOGlfQ0VvYmwwTWtja2xIbHV0ckNZZDdaWDJseXZsSF9tUVlTQ2FRUFNvbHdYWlQ5NVVvb3lxbmN4emc?oc=5"
       }
     ]
   }
