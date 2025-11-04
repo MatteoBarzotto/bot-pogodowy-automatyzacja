@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 23:12:01",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 405509,
-      "DOGECOIN": 0.687671,
-      "ETHEREUM": 14272.2,
-      "LITECOIN": 368.36,
-      "RIPPLE": 9.2
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "O krok od tragedii na Śląsku. Pięcioosobowa rodzina trafiła do szpitala - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUhZOGlEOWN6QUFkeFNiRTRZM3g4cnI5eXg5X2JaZU5VbG04NE0xNzdnc3N5dTBpNk8xZFpNNzlYRVByZjlTNVZRTlozVmNGUWVJTG1hczlaMkhFYW1UVUdDdTR3OGZJaHZXVjYzcmFHb2tsUU5mcWNhYlZRNkxQX0xsczRyLTVjRV9mSzZlUmlFYm9hcllaVnRGTlNqTmZKaVg4WjJRa2Z1clZHMVNzdA?oc=5"
-      },
-      {
-        "title": "Ignorują zarządzenie Kaczyńskiego. Problem z połową członków PiS - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjRDUmV5azRVbXp4VFZLbmVQN05BaG5IRmgtaXRwdUs5a1cza1cxTDRtN2hITmpReWlLSjV1VmRfcnZGV3JXMnB5NHE2SE9WTHRqc3BZUWFPYzBHcXBSMVo3R2VxVjh6R2hJWVZ4d3RuRnJoV3FGbVd3N0hRZFJvY2ltakU2WGs2NFl1TXhfWTdPbWc4bXlyZ2R3eVRaZGlIUGVhajNncm5xdw?oc=5"
-      },
-      {
-        "title": "Ukraińcy chcą \"zgasić światło\" Rosjanom. \"Blackouty to nic strasznego\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazRxTHNYbkc3YkhDdC1fM3V6NG83el9Pa0hWcF9ETWtYNWpfTWE5U3J5SFp4S1JrZkRabnp6TUxzcVpBbXlxNzVTU05TXzhHaEkzeG9XbkZOTmwtWmFySkE1WVJlVmlnaEhLMTN1OVZ6UHdJb3MzN0ZXNHVGeVMzRXU2b0FYU3kxMWQ5YTJIbGZsbklwRXRwdnQxa0VQd0VJem1SaTRKSjBPQQ?oc=5"
-      },
-      {
-        "title": "Składują tam tajną broń. Obok przeleciał \"nieautoryzowany\" dron - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZG9UMVMxWkZ6ZDdGQTFBZmx1WkkxTUZDQWVwbXhQejVsZXFiWGpuUm9UUWhTc2FENHVQZkRrMnZHcTNsUjhDV3ExR2xqVDlJVGxrTkpLaUVkN1E3eDl1WFJ5VWhLM1BaWV8xc3NPZldzTEMtcjh5dmhLcTQyWE03djk4ZmZrUHZSRjdBdVlNUkpveXFMSHVjbG9SS3JsdFpmWjd4Z3FFaGlmaFFm?oc=5"
-      },
-      {
-        "title": "Odkryli nielegalny dom opieki. Wystraszeni starsi ludzie mieszkali w strasznych warunkach - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3FkRFhTNnlUSWRhaEJ3c0pDOHdkdkpjNTZJVkV1YUdBRXg5QnExTjZaMWJ5R3ZvYmJ3VnZIMGliS2Q1VVRXeFo4QWl5aGNOaHlWNkhjQURCNTlVaTUwRFpZSmVUZjVkOXg0djN5U0VIQ09WVFlycnhIdTMxMGtMaUp4MXo0eFRiRm9sRVAtX1NvYTdNNlVRNmVrYW42UWRLS0VPOG1PcmVQVldpczhV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-02 00:12:22",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "W Rzymie runął cenny zabytek. Zacharowa widzi w tym proroctwo dla Włoch - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXFrVi14clZPT3JIVVRKQms0LWZ5Qi0wTVk2OGJqaEZ3dDNmLXc2QzFUOHBnRTJSck5iSW1HUlFIYXNUOTA1blgxd09CaGt1QlhHX0QtOUs1VS1HQ3V5R1VJdXQ4NVJDbEhOSzMxMjB2UF9qaGl6WHBLNlhOWDQxaHhCMW93T3BrcERONGx0ZGFrTnlpcTVoT1NLd2ExaGlwWmY1aWFrN1dEWkxsY29oQ2hXXzM5Mk5nMGc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-04 07:21:43",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6933,
+      "EUR": 4.2527,
+      "GBP": 4.8475,
+      "CHF": 4.5753,
+      "JPY": 0.023957,
+      "AUD": 2.418,
+      "CAD": 2.6307,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 387742,
+      "DOGECOIN": 0.61145,
+      "ETHEREUM": 13082.04,
+      "LITECOIN": 322.1,
+      "RIPPLE": 8.48
+    },
+    "indices": {
+      "^WIG20": 3005.61,
+      "^WIG30": 3880.73,
+      "^WIG": 3880.73,
+      "^NCINDEX": 275.3
+    },
+    "news": [
+      {
+        "title": "Poseł KO przekazał poruszającą wiadomość. \"Choroba przyszła niespodziewanie\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWFvZVFtTWZzR1RzTWRsYXZTZkRIdERDY2U1SjJPR0lERTdRdDMtdm84OHZqci02OGpkYjBGNnRkQzR5QnFXYUpLVFJQeGk3bUw1bmkyM1Y4WDFsaGptRlByOTlEM3J6cjQyalQyazNXdzNlN2dzdEU0Q293b2pzdWNyQXhObkdCQXFNcEt6aXl5VWVUd1E2WG1ud2NaSlJnLVZnazctTWVKeFVPaDhfNGVGNA?oc=5"
+      },
+      {
+        "title": "Robert Telus, działka pod CPK i mus z wizerunkiem. Afera, która cały czas ciąży PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFdlVmhSOUZ5QWluQlk2RUdEcnlkVW85c1RqMGVWaWNqc1JlX0ZmTlRWc0hiT21YOS1xT1V6QUw3NmFHd0hTSFFuOGtJTnhEUHlJdDluZnA0cFBBcWtXdUpMS0ZtYUlfVmRFWVRMQVRGam9hdmZ5aFVvb0trd2xGWHFCVzlCdTdlV3pCaWdUOHlkNkNrTHVXaEdFM0FYV0haRHBWRUMwX2lkU2tLMzBBaWhaT0J4cXhPbXRTTkRrcm9JbnZjNVRzWkdWd01MQ1o3NkdN?oc=5"
+      },
+      {
+        "title": "W Rzymie runął cenny zabytek. Zacharowa widzi w tym proroctwo dla Włoch - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXFrVi14clZPT3JIVVRKQms0LWZ5Qi0wTVk2OGJqaEZ3dDNmLXc2QzFUOHBnRTJSck5iSW1HUlFIYXNUOTA1blgxd09CaGt1QlhHX0QtOUs1VS1HQ3V5R1VJdXQ4NVJDbEhOSzMxMjB2UF9qaGl6WHBLNlhOWDQxaHhCMW93T3BrcERONGx0ZGFrTnlpcTVoT1NLd2ExaGlwWmY1aWFrN1dEWkxsY29oQ2hXXzM5Mk5nMGc?oc=5"
+      },
+      {
+        "title": "Sprawa Rymanowskiego: dezinformacja jest bronią używaną przeciw nam - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU5hWkx3bnAtNDBSRHpSbG1MaXRIZVlUSnhpOXRhY3IyWl9sV3NyUU5RNkl2Mkx5Qy1WdVFzX0o4WWhPSjBIQUJRT3o2a2c5SUJ6WkYzMmtwTkUyX1hfRnBheUFkd2xFQkxiNnFVU18xWUZ3LV96UEQ4Qm9HdFNmQ1hIbjQ3R3hlNHlyTkZic3puTkN3aU5FTWZVaFNrWnRhSFB2VncwYw?oc=5"
+      },
+      {
+        "title": "\"Irytuje mnie to\". Minister Katarzyna Pełczyńska-Nałęcz o rozmowach w koalicji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmJIRDhsY3JpVEFxM3cyWXl2cV9WdVVHZHExNlo5OVgtOHlhM1lGNUZBSV9zYW1WM2Yya3BDNnpfYXc0T0RHbWw4VEdoeDhxMGhIYkNMSGVSUkRqRkY3MXRWVGJLMmZGaE91eEFFd1JPQ3JseS1kS2pQRFBWQV9pUWdyUjk0Unpsdm1wQk1NdHFxUU9PX0piLUNZbVRyaDdmZmM4Tm91NVB4Z0hkbXJOOWZUZEh0OHQxalNjTEJUSEx3MGpSZUE?oc=5"
       }
     ]
   }
