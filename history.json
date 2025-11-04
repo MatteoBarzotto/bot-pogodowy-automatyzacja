@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 21:13:22",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 406810,
-      "DOGECOIN": 0.690882,
-      "ETHEREUM": 14321.48,
-      "LITECOIN": 367.62,
-      "RIPPLE": 9.25
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Groźny wypadek koło Warszawy. Są ranni, w tym dwoje dzieci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEUycnZ1LVlQSHFyODdfV09OUlFyX1dMek00UklUcDhld3VDRHN1dkR5cmcydEk5cVZjZ0dleWhzSTZZRDdZOUY5NWpFOFZrM25yU04xY21mc0tVaUR4WEVKejk1c0hINWNJRERSbC0yNEFzWkdpRlJhLVpFNE8wV0xjME9NVmNkRnVCNGRvUFVOTldPd1UwOUhmMDZha2R5c1dxTHVlX3FXUEVhUVU0alBsNFBCa25GZUwxQmI3MUVEdnY2LWVCTGl4b2k?oc=5"
-      },
-      {
-        "title": "\"Rozpoczął kolejny atak na Węgry\". Orban uderza w Tuska - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUoydVhaY2FmU0pxc083TVdBWWd0bUlUYW00SVFUTGtGcjZfd2lpUnBuVlFxZ2lKT3NaOEl0RzZzX1pIOWhIOWRTbjJXZS1iVy1TTkVuZVY5ZENybTJwWXVUbEstajNnSGdQVERiSzJrNk5jMTVSYUVHUVhQSUVyeVNMbkNJci16eUpfdTBmaVhRRmR3bEMwLXB2dXV6cXpIMFE?oc=5"
-      },
-      {
-        "title": "Kto ma być premierem? Jasna deklaracja Polaków w sondażu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGJ1UVpWTUIxSDZvZVZUakZxcEd2Q3k1S2tHX2loTWw4d0xsZDhmVlVmRjZsX2xBZWJLOFJfZ1oxZ2JwMVVlMDQ4Y3IyVmE0WklRU3dZWDJueEw2MXBNeFNabmpwRnZCR0NRbDNjemVQbFFieW5HOUFWeE9WRU1HQUhuWTlKQjAwUXNYWU1tX0xfYktFVTRRNVNMekxaVGFYdWlValpQUVdDYl9INjMtN2g4RDVZUQ?oc=5"
-      },
-      {
-        "title": "Nowe informacje w sprawie napadu na Luwr. Kolejny zatrzymany wyszedł na wolność - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnRrV1E1dUVmbjZYb3daYmM4TFZiSVNmdXpVQzhDVVZSZ2gycWhqcFBTMVFHaGZyZ25nak83VTJoako2eU83U0QxNm5vbVhHaUdmWGVlRnhUbVBMNS1VVnBIMzRRNFktZUsyZzJQU0ljdklPbnVqLWZUSkJyQlo1Y0NJRG5MajJyYUJBR3pDSDNtN2R4VTJjZF9vU3pyUFpndng0NVhvQlY1Zw?oc=5"
-      },
-      {
-        "title": "O krok od tragedii na Śląsku. Pięcioosobowa rodzina trafiła do szpitala - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUhZOGlEOWN6QUFkeFNiRTRZM3g4cnI5eXg5X2JaZU5VbG04NE0xNzdnc3N5dTBpNk8xZFpNNzlYRVByZjlTNVZRTlozVmNGUWVJTG1hczlaMkhFYW1UVUdDdTR3OGZJaHZXVjYzcmFHb2tsUU5mcWNhYlZRNkxQX0xsczRyLTVjRV9mSzZlUmlFYm9hcllaVnRGTlNqTmZKaVg4WjJRa2Z1clZHMVNzdA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-01 22:10:41",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Alaksandr Łukaszenka uderza w transport z Polski i Litwy. Zakaz ruchu dla ciężarówek - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2EwZnprMkZBSnZHanpLd3VhWWpaZTdxc0pJZEFCNjYxVk54b0VJVmxNWnduTzNHN0ExMjRVSXBxaEtrT2RNdHcxeEk5Tmo2WDF5Uk9iLXFfckdGSjZoODhER2dQSjRtbW85SmJveXdUVHhaZkRWdEhwWnBvMk12OHNlLW1uX1FzOGlfQ0VvYmwwTWtja2xIbHV0ckNZZDdaWDJseXZsSF9tUVlTQ2FRUFNvbHdYWlQ5NVVvb3lxbmN4emc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-04 05:16:48",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6933,
+      "EUR": 4.2527,
+      "GBP": 4.8475,
+      "CHF": 4.5753,
+      "JPY": 0.023957,
+      "AUD": 2.418,
+      "CAD": 2.6307,
+      "CNY": 0.5186
+    },
+    "crypto": {
+      "BITCOIN": 395809,
+      "DOGECOIN": 0.631184,
+      "ETHEREUM": 13462.13,
+      "LITECOIN": 334.09,
+      "RIPPLE": 8.71
+    },
+    "indices": {
+      "^WIG20": 3005.61,
+      "^WIG30": 3880.73,
+      "^WIG": 3880.73,
+      "^NCINDEX": 275.3
+    },
+    "news": [
+      {
+        "title": "Poseł KO przekazał poruszającą wiadomość. \"Choroba przyszła niespodziewanie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPanFTLXpKbEZxeDRSQWw1VnZaZ1hnZGhIUVppTHU3NFM1cldzZ3J3bGRLTF9tNEV2NkhNYVZ2dU5yZFJBd1RiNXIxVHR0b0FzWGFHTmlhV19QamRyeFNGalhFRTlCQlZzOHNIMWZtaklCc3libXFvMnRFc0dodGVHQmFoTERLcUZhblc4aHR6MnNUMjlWOEY1ODMyWUFSMTJVYlNrQmJ6czhLbzZOcmoydV9UTlRCQ2stdXZFOWpmME1KZVVSMC1XLXlB?oc=5"
+      },
+      {
+        "title": "Donald Trump na rekordowo niskim poziomie popularności [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3luMG1fRi1yMnE3UW9sSUgzelZfZmRwQVM1UHotMi1LT3NfOTlROEpMS0FDWWsyU2lnbWttdVFoWGJIOGxHTzRvaTBFUUVscmZqWUlxdnZNa0JtaU1OQW9TLTU2RjZWc0F5X0w3enhqbnU5a0NKUWd1VlVfZTBQZEstSWpSZDJ5dUVYSEFTOHN6TXNuZkQzNEhnaG4zbDNiX3ptOFI4NFRTbzI3S3hNbmRwTDlsRzhTSDM4RFlB?oc=5"
+      },
+      {
+        "title": "Robert Telus, działka pod CPK i mus z wizerunkiem. Afera, która cały czas ciąży PiS - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFdlVmhSOUZ5QWluQlk2RUdEcnlkVW85c1RqMGVWaWNqc1JlX0ZmTlRWc0hiT21YOS1xT1V6QUw3NmFHd0hTSFFuOGtJTnhEUHlJdDluZnA0cFBBcWtXdUpMS0ZtYUlfVmRFWVRMQVRGam9hdmZ5aFVvb0trd2xGWHFCVzlCdTdlV3pCaWdUOHlkNkNrTHVXaEdFM0FYV0haRHBWRUMwX2lkU2tLMzBBaWhaT0J4cXhPbXRTTkRrcm9JbnZjNVRzWkdWd01MQ1o3NkdN?oc=5"
+      },
+      {
+        "title": "Sprawa Rymanowskiego: dezinformacja jest bronią używaną przeciw nam - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU5hWkx3bnAtNDBSRHpSbG1MaXRIZVlUSnhpOXRhY3IyWl9sV3NyUU5RNkl2Mkx5Qy1WdVFzX0o4WWhPSjBIQUJRT3o2a2c5SUJ6WkYzMmtwTkUyX1hfRnBheUFkd2xFQkxiNnFVU18xWUZ3LV96UEQ4Qm9HdFNmQ1hIbjQ3R3hlNHlyTkZic3puTkN3aU5FTWZVaFNrWnRhSFB2VncwYw?oc=5"
+      },
+      {
+        "title": "Umowa koalicyjna w Czechach. Babiš stworzy rząd dzięki skrajnej prawicy - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnlEaEZVT3JybzJVckdIbGZHUjl5X0hmZnNZdEtWTkdDalRRZ0VpeTdKbFNPUGtpa1kyY3hWWlpJQU5zQ1Q1bGlDaXpNc3FjeWp5VTVEZGxyYlU0YVBtY0RjT1lURWhPS1hobHZmalk3ZjV2QWMzS0w2NFdMb0lIRGV4SU16Q3Z3YWw2ZHdKRVpVb0RlSTRFWVpUTUNCSzNQY2s4?oc=5"
       }
     ]
   }
