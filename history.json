@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-03 05:23:08",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 396963,
-      "DOGECOIN": 0.642487,
-      "ETHEREUM": 13765.52,
-      "LITECOIN": 344.5,
-      "RIPPLE": 8.96
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Strzały na posesji w Wielkopolsce. Trwa policyjna obława - Onet",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0dKdC1GaDUyRlpWUXpYcUd3eWQzTzJmbzN0aEpDVkIyTllGMFVERmVaVzNPNEtuZDMxY1FDLWlRZi1IVUVwRWdqLTRWeFdKWmxuczR2TVpFd0NPM01Nak1OV2VtdWE0SnVZeEs5S0FQc3pnbnU1TnNfbVdtODdVVm50aGZ6cmF0a0dGRkczd2NYelJCSmdNbVBvN20tZw?oc=5"
-      },
-      {
-        "title": "Koniec marzeń Ukrainy? Donald Trump: nie rozważam Tomahawków - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHh1RFBqMWF4VUZrRHI0UlM2bUQtZk9LVnhHbnpOU2ZSVWxyWk5XRUxHbFdzcHZzNkdCZWJpYktBaml4WTdfd0hZdHMtcG5rOGZORzlBQjVfR3B3ZDlZS0hoR3FoQm01bFR5Z3lkaTZ2MnFYaW90OWc0LW1EeTlwZVJRZFZzTUtLU05QN2VhQlFZNUlfOHNtM1NXQ3dndkhmT3Z1TXY2REMyeGppaEVlSl9IYk9nWjQtVTNFcE9n?oc=5"
-      },
-      {
-        "title": "Donald Trump \"nie wyklucza\" interwencji. \"Zabijają chrześcijan\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVBrS3NFX0ZtZVZCVlJhazJhUW5NOFl4RjRMR1o1OE1VQ1hWaUxTX25Bazg5Mm5HdUF6LXl5QmhNU0g0b1NkeUF1M19tOGE2UWtHdWNKVW9GdHU0VmVGZ2VDNDBpV3k3bEZhLXRxNE5nSlBEaFMzZ2lmZUtSeElsLUNkWjFiTXZPWkdqY2JoWjBZVER2b3BFVXZfSlROLVpPRE1kNG1jVUNuQWtqMHN5YXk5c19fazlLMkpuMWFn?oc=5"
-      },
-      {
-        "title": "Chiny zwiększają presję na Tajwan. Zdecydowana deklaracja Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHNHUFJXcWdWck1pZzVxMEhrWm5RNEUtRUJzWTlHNWh1V1ktdXN2akVhY2pPUkJhM3hSamR5X29fTEdLRGYzOHlzWkhoYm5TM3FJM0VGUHRoQUsycDFndTNKd1RVejczWVRPOVBqNVV5QmlLelAwZkdUUjJXZUFySVdkcGtyOURjSnFqa0RnSWpOSTFiWloxRmtocTdnenBsQ2M4WDZ6VVE5dHNtUnVRTU53?oc=5"
-      },
-      {
-        "title": "\"Brednie u Rymanowskiego\". Okładka gazety wywołała kontrowersje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORllETVlicDc3dzRsM0J5WkJyaEFiRWNCN1VhTlJFdDZjYUs2M1VKOFd1QncxYzczYmpWaFVyUjliZTZPM210UGJFOGwwdDRoOU1KcDBsVGZFYnFuQ0xZVXh1T0prblFoaUhHaVotbHhyWVNKOW9BUXpkX3Ixc1FFQ2hGeDNobkQ2U0Nxa2lXa3FKV2Y5aklSSkVrNzNtcnVjNGJuVHBn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-03 06:15:16",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2642,6 +2589,58 @@
       {
         "title": "Nowy cel klimatyczny UE. Jest zielone światło - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJnbjN1b2dVNWtSWk40b25nai05WFNaNHJWQm1HcEluc1gzcS00RnN1TmNQRU1xeEdSVHg5amhjZk9SdGFDSUQtSTJyNGRlQU52bWFZTkdxell3Q1lneEU5Z29jMFM3MnljZ040cnJ6ZHVkR1p5akcyQ2ZRQXpKSktDdHUtOEhqSE1HRVFUaDA5QTRLNlVKZVdMXzhPTjFU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-05 11:16:28",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.7019,
+      "EUR": 4.2575,
+      "GBP": 4.8359,
+      "CHF": 4.5775,
+      "JPY": 0.024118,
+      "AUD": 2.4042,
+      "CAD": 2.6309,
+      "CNY": 0.5196
+    },
+    "crypto": {
+      "BITCOIN": 377496,
+      "DOGECOIN": 0.60509,
+      "ETHEREUM": 12212.99,
+      "LITECOIN": 320.09,
+      "RIPPLE": 8.27
+    },
+    "indices": {
+      "^WIG30": 3832.28,
+      "^WIG": 3832.28,
+      "^NCINDEX": 272.39
+    },
+    "news": [
+      {
+        "title": "Przełom w sprawie działki pod CPK. \"Zostanie zwrócona\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHZyakozaVJrN0lWNWlNQUxRMDVXeVp3Nk9jS3hoLXE0ZjRxdGxPTDRicHNQd3N0TXZ0Q3VlRTJNeUxpM2JxUXhDR2VmNjRoWFpFbWwwTGVlUFdQT05nemxNOHdVQmNVeEJ2ZGpkUUtSb0tMREowNURDUGR6TmF6RXBiQVFSOUN5Z1ZnY2F1aHNpakVLS1E?oc=5"
+      },
+      {
+        "title": "\"Człowiek walczący o życie\". Czarnek ujawnia stan zdrowia Ziobry - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZU50eEZERkNsRzl2OWpLYXpiUXdZMHFqaU82YnBjek9lQnY3MVNldU9yMTF1Nzc2S1ZJZVFUU0xwM1AxSmpOVllUS1Vrb1BTeVVTcWtkUnIzcTZTOWktSHJIY1Fxd2xxSk9CRVpkRTNMQVVMbXljT1NIV3VLMVpobWItaXRLbHRuLVVZNUdiQ1NKNnBEUkdQUUV5blVtNlRJaWYwRHlUdWZJMGYz?oc=5"
+      },
+      {
+        "title": "Nowy cel klimatyczny UE. Jest zielone światło - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJnbjN1b2dVNWtSWk40b25nai05WFNaNHJWQm1HcEluc1gzcS00RnN1TmNQRU1xeEdSVHg5amhjZk9SdGFDSUQtSTJyNGRlQU52bWFZTkdxell3Q1lneEU5Z29jMFM3MnljZ040cnJ6ZHVkR1p5akcyQ2ZRQXpKSktDdHUtOEhqSE1HRVFUaDA5QTRLNlVKZVdMXzhPTjFU?oc=5"
+      },
+      {
+        "title": "Katastrofa samolotu UPS. Wszystko widać na nagraniu [WIDEO] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEV2YTRzQ09zaEhzM0JCcXV0RzFSdWJENXhoV0kzTHN2azBYck1OVEYxOENwTThLZ2F5TlBtYS1lYmVJNFFJWDR3MnlhbFlBbm1uRTltQWQyQ2N3STN1NFNlMGVLbklxam5pTmZZN2pUYmZlY3IzMUFrODBXR3dXLXJ0LWo2WVBfd3lia0VMeXVmTlF0eHgxaW1Sb2JDdnc?oc=5"
+      },
+      {
+        "title": "Zohran Mamdani nowym burmistrzem Nowego Jorku. Demokraci wygrali kluczowe wybory w USA tym programem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUnQ0TmVNS0tFYzJPUEF0TW4wejk1bjRBbjhzdUZJeFpkS0FpX2psTnBKaXdES056d24zSTZGMkwxbFlXNkZTNlV1ZUI5ZmFrcUFsV2xPSjNEWFp0VXpib2FTd0paLTJ5SW5TV2Y4X2pqLWViSmMzTWNRNzR6ZndjZExmU0Q4b0p5U2xWOGFFZWVKaV9ybDg0NllNeVhLeU1qdEowNXhNSlVGa3o2Z1RfUEVJb0Q4cTBzOVZLOW1qQkxiY3JXN2Z1ajhyN0pwZ2JCQ3k3cS1idFVsX2xCVWRadl90RE9uV0ZiYlE?oc=5"
       }
     ]
   }
