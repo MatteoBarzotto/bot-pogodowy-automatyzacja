@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-02 23:12:04",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6751,
-      "EUR": 4.2543,
-      "GBP": 4.8303,
-      "CHF": 4.5849,
-      "JPY": 0.023841,
-      "AUD": 2.404,
-      "CAD": 2.6241,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 405949,
-      "DOGECOIN": 0.678308,
-      "ETHEREUM": 14242.15,
-      "LITECOIN": 363.27,
-      "RIPPLE": 9.25
-    },
-    "indices": {
-      "^WIG20": 2987.33,
-      "^WIG30": 3859.93,
-      "^WIG": 3859.93,
-      "^NCINDEX": 274.42
-    },
-    "news": [
-      {
-        "title": "Strzały na posesji w Wielkopolsce. Trwa policyjna obława - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0dKdC1GaDUyRlpWUXpYcUd3eWQzTzJmbzN0aEpDVkIyTllGMFVERmVaVzNPNEtuZDMxY1FDLWlRZi1IVUVwRWdqLTRWeFdKWmxuczR2TVpFd0NPM01Nak1OV2VtdWE0SnVZeEs5S0FQc3pnbnU1TnNfbVdtODdVVm50aGZ6cmF0a0dGRkczd2NYelJCSmdNbVBvN20tZw?oc=5"
-      },
-      {
-        "title": "Tragiczny finał poszukiwań braci. Odnaleziono ciała Marcina i Jana - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3gxX1JOWWN4WHlIVnhwY2hfUnQ3VHFZMUdXSW9RZUViNkVmR3BGdWVKZDRjVjFZcVh4YjZGeGJiUWdmX2FyX3JFbnlPUEhPNVd3bGNFV0xFdHBJN1BKOVl3bVBzYzNGelJuSWJkWTJrQVNUMld6OERDeEJWZ0FTemtid0NqUnI2N1dIbXQ3RktmZ0o4TFBDeFFrd1VsOUdvOVVYZWY5SHRFbHFVSUJGbWlNXzJYeTl6U2c?oc=5"
-      },
-      {
-        "title": "\"Brednie u Rymanowskiego\". Okładka gazety wywołała kontrowersje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORllETVlicDc3dzRsM0J5WkJyaEFiRWNCN1VhTlJFdDZjYUs2M1VKOFd1QncxYzczYmpWaFVyUjliZTZPM210UGJFOGwwdDRoOU1KcDBsVGZFYnFuQ0xZVXh1T0prblFoaUhHaVotbHhyWVNKOW9BUXpkX3Ixc1FFQ2hGeDNobkQ2U0Nxa2lXa3FKV2Y5aklSSkVrNzNtcnVjNGJuVHBn?oc=5"
-      },
-      {
-        "title": "Areszt dla Zbigniewa Ziobry? Tak uważają Polacy [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemFXUkdHYXF5ZENfMnNOWXlEWkdkMlNwanA2cXN1MDZMQzl5N0JVakNIclBjV2JmYmRVWC1tdDhqZXQ1VlpWOVlVTjFfYzRfankzU0dYZlliVE94VDBlQzZqalUwS2JyazlOVXFlQ1dnQzh2ZURoZ0xudlpFS1dnNmF5M2gtUnBnaGhVSnUtRks4YUlqc05TTEplQmdlckItX2dwS0pR?oc=5"
-      },
-      {
-        "title": "Wypadek podczas pościgu. Radiowóz rozbił się o drzewo, policjant w szpitalu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNei1GUEdFTFdmZ0h5eWV6aXlCSmpHN1dYeE9YNGI1ZC0tdTZhbVZBdGx2VzhfS1FsaDNsT1RzSmd6MU5XTWRsRlVCaUFIYV9PbUFVMnZ5QzhsT09uM3dSUk1nMkNtRThOMlhJbENLX1E4YXhxQWtGX2xDOVczYzgweDExVDBYMXV2Q0VZbS0zNE1HNGwwdW8tWVo2b3ZFQzZCVTZXMEt3ZmszMWNhbWlDQUo4aFFEbzQy?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-03 00:12:07",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "KOWR odkupi działkę pod CPK? Minister wskazuje problemy - TOK FM",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTFxYmpTQ1lhSjR2UTk3bTRDTnplRVBUX1dPam9udW5jOVJWZ1FCY2FuVHNjLVUydzVHVU5YalNyT0hKcWRxVkF1bnhWV3ZZMVJWNHZjaVQwTjR6UWpadE1ISXJIandGb1MxcnZwLTZSWkczUi03Y1ZsWm1ZYkZuTFhhSVNxS19ob2VRRA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-05 07:21:52",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.7019,
+      "EUR": 4.2575,
+      "GBP": 4.8359,
+      "CHF": 4.5775,
+      "JPY": 0.024118,
+      "AUD": 2.4042,
+      "CAD": 2.6309,
+      "CNY": 0.5196
+    },
+    "crypto": {
+      "BITCOIN": 377228,
+      "DOGECOIN": 0.610927,
+      "ETHEREUM": 12346.0,
+      "LITECOIN": 321.34,
+      "RIPPLE": 8.3
+    },
+    "indices": {
+      "^WIG20": 2978.38,
+      "^WIG30": 3850.16,
+      "^WIG": 3850.16,
+      "^NCINDEX": 273.07
+    },
+    "news": [
+      {
+        "title": "\"Pamiętasz, jak trzymali mi pistolet przy głowie?\" Włodzimierz Czarzasty zwrócił się do Zbigniewa Ziobry - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWVTT3dCYml4djJadTNtdGlGb0hIS1NDLVFTeV9Eb1JCX29hb3JUUlI2OS1fYTVnTGVua01OcjdwdXNRbEJqNElKVERJNncyQ1kwV0g5YXd1RzBHM1B4anpzZWVqaU9wU0EzWE1wMmNuTlpERUNGR2VRdExhS2dDTDFfT3llM2drbXJOOUI5WGJZUUZHYXFDZEtCeFVMWldFMVU2N29wcUwyWllaWXUzX18tbkY?oc=5"
+      },
+      {
+        "title": "Republikanie w potrzasku. Zdawkowa reakcja Donalda Trumpa. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUxOdEZpaVN6djNpaE5saFdJUmFhajIxSnJ0OWdjWUFjTXBiNkQ3QW9oOG9SNWlnaTRqM0NKY0MzLTA0UWhjMVRKZHFTZmpTY2J0UG9qcjhSOGVOZVpseFd3dGRJaGxtVUpUcUFBaUhlMGdjekFneUNYb0NiN2FoZElPbTJfeXg0SVNpS3JCQ0Qxb1ZmTUlreDlLTUZXeElHSExKdFluVTkyQm05VlpzUXZnZGRFVDBNM3NYVmlYX0s4UTJqR0QxWXBZblZZZzhUUG9z?oc=5"
+      },
+      {
+        "title": "Alarm na Kielecczyźnie. \"Kule ognia spadały z nieba\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaERTRkpGVWh4UE9lODdNY1dGZ3BabWo1UmJaanduclFYenl5SmZ0cWRhY1hxcVFhdk1IeVc0VTVQbFV2MDBIdXh4dWdhZGNNUmhHbzE5ZkdUMkItX2UyNW5JdVVCWWRTYmZIRzkyQzh5TGlpT1hka1JkMTRHTzlFN2lGRlNrUEIwemhNYnZNbnNsNXJQb3k0?oc=5"
+      },
+      {
+        "title": "Samolot rozbił się w Kentucky w USA. Chmura dymu nad lotniskiem - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGR3RXVZWEczeVB4eGduMjJhcUZzeGRqQlhjTC1ldWZSUzZtS2dMWG0zaXUwM1Rwb0k2UU1EclJNTHB6UmZSdWY3QTV0a01BQkhYQTdYdTFLdTVyazNlaWdyalNCZ29yOVZURENZS0pOUzk0N1pMVi1lNUQ4NHJGOXJocTl2TkNYeGJvNFNkZFdsOUZ4a0I3QTZXX2NXUmdiUy1WdFhR?oc=5"
+      },
+      {
+        "title": "​Silny wstrząs w kopalni w Katowicach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdk50b0pNYlpKSFFZSnRIdzhPVFNZTkdjcnNseFppNVFROWhMTDhlaHZpSXBzU2I4N0ZVYmRaSUktWVJhdDRlUy1OSmVzWGJQY0JqZVRudzEybHFtUWlsMzR2RkExWHZnLThKeWx6LWFvNFN5Z0VhNHNHVUoycFN0YmlHNEduNms4Mm5OVDQwUWRKUnJEZ1prZXBn?oc=5"
       }
     ]
   }
