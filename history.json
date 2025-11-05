@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-11-03 12:12:22",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6933,
-      "EUR": 4.2527,
-      "GBP": 4.8475,
-      "CHF": 4.5753,
-      "JPY": 0.023957,
-      "AUD": 2.418,
-      "CAD": 2.6307,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 397003,
-      "DOGECOIN": 0.640526,
-      "ETHEREUM": 13671.85,
-      "LITECOIN": 340.35,
-      "RIPPLE": 8.87
-    },
-    "indices": {
-      "^WIG20": 3010.76,
-      "^WIG30": 3889.49,
-      "^NCINDEX": 276.0
-    },
-    "news": [
-      {
-        "title": "Prezydent proponuje zmiany w emeryturach. Chce nowych zasad waloryzacji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXpHWlg2cGstV1R2Q0ZOSk9UQjdXcVB3a1dlNmRYdkVhUGJZaXJNRm1YcEZCdUZid2haUFlOQV9nSk5hbHpvVFpULXk5RkxCdGdZSVBoSnNzVE5ucExtdEYydFNlUFdGMU9WTW90dlN1aUlVWGZWWkFRc1Zhb2s5RHNpR1NpM3A3RVBROTZTVTFBNElHOVk4eFBrRmgzcmgxX0s5NVFaVVk?oc=5"
-      },
-      {
-        "title": "Słowa Hołowni o \"zamachu stanu\". Kontynuacja przesłuchania marszałka - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2hKT0ZDeFVtTm5pQlpTRnhCVHNTczM4MlBEVUY3c0EzVDB4NC1LWVo1Y3NkM1liVFRnMlNVV0JQYWprakVvOEI2WHNXZFN3U01ualRsOFh6MFAtNnVMV05zcmZ6Z1RUZUo0MkdDZDlaMFI4clpxa1RlZnBPcWxSNFhUQ3p2UUpQNEd5UUJuQ2NsMFVDQzVlTXNqbkNPTl8tN005WW9BLXF5NUNy?oc=5"
-      },
-      {
-        "title": "Porwanie mężczyzny w Olkuszu. Przestępstwo miała zlecić jego partnerka - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXJ0OGhJWHdYZ3drVGRzUXFXc0hrVXBoTmxyd3ZWWTFhd0VTOHgtUTVTdnFUYVRVWkxfcFlrODZzdGV4Um1UeEZVTWp5S2pHTFQ0amtEa0VwWHpEcFpWTWFmc3BBZThLQ3JEellyVmE4b1ZsdEIyX01TTEhvM2FFNUgyMTlHcHotd0tqakdXekZMbmVyd2x2OF9jTnBxSXVWRUh2V01RLVVNQzVxekY5VHpNdw?oc=5"
-      },
-      {
-        "title": "Minister rolnictwa reaguje na oświadczenie Roberta Telusa. \"Jestem załamany\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMk9EZ2VtanRqS3l5UldidldsWEhCQUFZMC1hT3FfOE45RmdocHpjeEtrVnhqdDZrVFJjRGNlNnBKNElISVhZRmtxOFJUc3VmdXZQSFczYzU5aTlQMmVSdnBBWGc4dUREZjFvUVRHWVYtbW1ySUFyLVQyNXg0aHFnVkotcmJPMFVSWml3emlheEo1Qk1LdU9lYmxabjd2V2dnZEFUakFJRW85RHRnRUR2Sk9WSWNRUmp0d3QtZnFBbDQ?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro zabrał głos ws. immunitetu. Jasna deklaracja - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEw5bUVfMlBFOWphVDRCaTNwUG9KQ0hTMlJsVWtSX1k0UUpRZ1N6X2lnQWZpUGtyVmFjX2w2Sm94bnNPVy11d3ZiSVhOX0phMUx1ZUFmRnZybnJ6RmJOdldlRFVjUWFlcGVzLURERzJTZGZfTjlkLVdRTmU3aFBOeFVZRWpJeU5yT3J1ZXBld3R0RUxqZjJpOG9oc09zTFBLbEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-03 13:30:02",
     "weather": {
       "Warsaw": "brak danych",
@@ -2637,6 +2585,59 @@
       {
         "title": "\"Straciliśmy 80 proc. miasta\". Dramatyczna sytuacja w Pokrowsku - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEJtMnVEczVHdlZLMFpZTHNrMGtKdXRLelBsdXpJZG5QTnFmbHI2ajNjYzJBZGN6YlB2RVh4OE1ERmVVNUNUaGJmWURnelE3dy1UaGlyLXlWdzFxeGRydkRZeGs5V0R5dXMxQlB0Y1JnVTF2ZlpLeE1DMmpZdk1vZzlYRUZIQTExcGJrTTJBblJUVzc2anczWDJLTzY3MVJINmJYWGRmWkRTUTdMS2VaazBYczJMUktSYlJBSw?oc=5"
+      },
+      {
+        "title": "Nieoficjalnie: Policja zatrzymała sędzię z Zamościa. Prowadziła samochód pod wpływem alkoholu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGR4eEpaZFRPYl9KRXljWEpyRndrcWRBSmdWRUo4QTBtWlVKSHp2ZF9SOHN0SUkwNHpKSVNib2FZQ2NsNDhuTkt6VUxHcWJlM25JVEZkTGMzbThkSDhtV25aazVFZ2xtODZhSlpRcmJFbTg5TkJ3a3dRUXBqNUxtWHFmZnNRd2h1NHlSYzVfQ19aTG10UVY3a1dqc3NfM0tqRkZoNXVacmdycDVWQmNTRDZ5RUdGd0ZfM3Bn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-05 18:13:28",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.7091,
+      "EUR": 4.2597,
+      "GBP": 4.8367,
+      "CHF": 4.5759,
+      "JPY": 0.024134,
+      "AUD": 2.4041,
+      "CAD": 2.6257,
+      "CNY": 0.5204
+    },
+    "crypto": {
+      "BITCOIN": 383362,
+      "DOGECOIN": 0.618348,
+      "ETHEREUM": 12675.78,
+      "LITECOIN": 326.57,
+      "RIPPLE": 8.41
+    },
+    "indices": {
+      "^WIG20": 2977.25,
+      "^WIG30": 3855.65,
+      "^WIG": 3855.65,
+      "^NCINDEX": 273.12
+    },
+    "news": [
+      {
+        "title": "Roman Giertych uderza w Zbigniewa Ziobrę. Mówi o więziennej służbie zdrowia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHhjOU5yNkx4ZkZjTXo2bGkxczFvT1dfamc0eFNpY0VpVmpnWXBIb2J4ejcyRVN1RVdaSldOTE9ZWm5WOXpCck8taVdqb1libkFQVWFUdk5xci1yQ3lqTnZVNTZQM1hBVGJjXzZ4RHF6R3hSaElBTVZyMFdleDhQTTdzRWdyNFZvVzF2Q2d2UFdvN0g4ODlidlNKVGlwNGlHWnBrcUEtTTBNNHM1cGZfSjVCa2U?oc=5"
+      },
+      {
+        "title": "\"Cios dla Trumpa\". Brytyjskie media komentują wybory na burmistrza Nowego Jorku - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVEZwRG5qanM5aXRBcVdWSVFlcUJLN0hUXzZySW1pUHpYbXFzMHlZQmxRbmZsU0E0bjJrTjdTaGRDS0JLQ2FNX3YtWHpHSVVkeXBPQ3dybjVyQkJpb2NYODQ0cDdZem9zMFNuZ1ctY1B3RGlkV0RDalZJNnl1RHEwRmlEQlQ5MFVhMHItNDZBck9SWUVJcjdR?oc=5"
+      },
+      {
+        "title": "\"Straciliśmy 80 proc. miasta\". Dramatyczna sytuacja w Pokrowsku - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEJtMnVEczVHdlZLMFpZTHNrMGtKdXRLelBsdXpJZG5QTnFmbHI2ajNjYzJBZGN6YlB2RVh4OE1ERmVVNUNUaGJmWURnelE3dy1UaGlyLXlWdzFxeGRydkRZeGs5V0R5dXMxQlB0Y1JnVTF2ZlpLeE1DMmpZdk1vZzlYRUZIQTExcGJrTTJBblJUVzc2anczWDJLTzY3MVJINmJYWGRmWkRTUTdMS2VaazBYczJMUktSYlJBSw?oc=5"
+      },
+      {
+        "title": "Nuklearny pokaz siły USA. Wojsko przetestowało rakietę Minuteman III - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWFobWJsNHA3S2FEUG9VTUk5eWlqSVRCNFlNYllqVm44bUkwUmRUX2c4VVhLN1ZPNjB2a1N6MVFoZDdRY3dIa3hMc3VhdU9TLUtVNDl4bk9SQXdaSWZMNGRLcEZrWEpSZGZpYmdkZ1puRHg3LVliUjhMOFJTLXU4ZDBNUjVLeUk0aUQ1VTg1R1lxLWg2Q0xvdHEta1NpTEw5TjlCbzR6U25lSThHaW5aQVVlSjlTenk4enJRR1BJc2k1S3VDVEtmQlBB?oc=5"
       },
       {
         "title": "Nieoficjalnie: Policja zatrzymała sędzię z Zamościa. Prowadziła samochód pod wpływem alkoholu - Onet Wiadomości",
