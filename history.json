@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 14:29:45",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 383885,
-      "DOGECOIN": 0.60175,
-      "ETHEREUM": 12954.33,
-      "LITECOIN": 319.13,
-      "RIPPLE": 8.38
-    },
-    "indices": {
-      "^WIG20": 2969.36,
-      "^WIG30": 3840.39,
-      "^WIG": 3840.39,
-      "^NCINDEX": 271.79
-    },
-    "news": [
-      {
-        "title": "Zbigniew Ziobro powinien wrócić do Polski? Szokujące słowa Jarosława Kaczyńskiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEo0M0xzVlJ1dDJRQWJDY2l5M3lVd2FtelAtVUczd2VhajVpMGNQVGxhZjVYUjZzbkMxWTU1M3FYcUVhM3Q0T1hjc0tlQTNkcVk0djFUcWNrTGQyZWNYSUlYN08zTWlFZ2UzMDF1SHBoRC1kOVUxTVNaUnJCWjdaMm4wRzc4UEppc3BDVlpySU01SWw5cEcyMW5ITWdtZW82eWNlUjBBTzc?oc=5"
-      },
-      {
-        "title": "Tusk do Ziobry: nie chce pan przejść do historii, jako \"miękiszon\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlA5N3p3NW9yek80WHF0S01RV0JXXzBGdHVRUmR4SUpRQ1dLektVak5peDRITjhjNUhjbldnVHFKSHZpV2RZcER1aGRqWlowd0FpbEhrbHQwLWJyY1JLUkR4WDg4YU1zb2NwbWY3SHhxN29fZ0o2NGUxUFQyTXJCZnN5N0VraTBtTzFxdmRrbkdxUGNNVEU4dmxCbDJFNmdxVkptNlR1SG8?oc=5"
-      },
-      {
-        "title": "\"Lecą głowy w KOWR\". To pokłosie afery z działką pod CPK - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTE3aW81ckNITEt1bEF0STlqU2lZMUhaYjUybC1pQ04xRVRNWVl4UUxXeTBfeFRHWG9iTk04VGJGZjlGbjBNV0pBZWZBMk05TFJvbXoxSVpsVDBHaklCUWlWc1V0YVltLXhlWmtVYk9KY2pFNFVrWWk0c0liczhkX1ZwVkdIQUtoeVpfNXZRZnZzTUtTOGQ0TWpuV3k2bVI4M0RiejNR?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński pojawił się w sądzie. \"Nie widzę powodu do pojednania\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2YwYWswRUtQNmM2d1FIV1VBREsyZnJvMTNvSnlzdXQ2Ti1GTG1pYnAtVXBmMHFmeW1ETzV4Y3V3NGdjUzhIM1FNVng5RFozMVhtT0RWVEdYWDZMajA2ZW95Wno5VXh3MjlOcmpoQ2U1YjRieUlGcmo4Z21IQU8zNGh5d19udDVybm41RFBpOV9vVXNUd0QzNm5pXzNFWWRQYnNDd29zWXhzMWEtU2JV?oc=5"
-      },
-      {
-        "title": "UE szykuje nowy plan. Polska ostrzega. \"Mamy mniejszość blokującą\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVhVbUtseFF1cV9HdUhRN19Edkw4Q3lWX1F2N2ExcE9wckswVExGMFNKaGowYVRKZmhMQTlod2p0bWtrMm1qVGl0bV9MLTEzZVVqRGlVZTlQcFdNdndRUE0xNWdQOWl2NEtUNkp4MmR2VE5MMHA1cUhFdURwSmVaQTMwcnFWa0Fiem9KanVuZ0pWNzNmSFdvSEJ4dnFObVdvUG5INmJocTZiSzJEZENoZUJNUHNHV2lW?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-04 15:14:34",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Andrzej Duda skrytykował oglądanie \"Zielonej granicy\". Jest wyrok - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWtxbGU3U2xyUkNmSVBSLTJ3Qk41MmQ3aG5JNVhmUW9CWDBtdTVuMGhLYTdiUmNTY1Q5WDdVMll0RUh1bTZuVUFmemlDZnJWMW5sUl9WSHMzSUJCRnU3YjNzSU9BSTNhX3NZMXVGU1ZUeV81anZ6aVYzWlhWNjVwdVYwMS10bFpLXzZvNGw3VUZNTDdSczlkZElsc2p6X3o2OGtxTmE0QTdBdmY2UFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-06 20:11:53",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6971,
+      "EUR": 4.2566,
+      "GBP": 4.8359,
+      "CHF": 4.5706,
+      "JPY": 0.024051,
+      "AUD": 2.4081,
+      "CAD": 2.6225,
+      "CNY": 0.5191
+    },
+    "crypto": {
+      "BITCOIN": 374421,
+      "DOGECOIN": 0.592,
+      "ETHEREUM": 12266.13,
+      "LITECOIN": 322.33,
+      "RIPPLE": 8.19
+    },
+    "indices": {
+      "^WIG20": 3006.58,
+      "^WIG30": 3881.32,
+      "^WIG": 3881.32,
+      "^NCINDEX": 272.6
+    },
+    "news": [
+      {
+        "title": "Paweł Kukiz o areszcie dla Zbigniewa Ziobry. \"Będą się bali\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1VPWXNLb0Q0SWNTV0FNOFFFMEhObDZCeUxQcVRicGFGdG1yRjRHczNhYldUSm9Da2N3Sm9TWTNvbXRTRWl3Tkh5MXNwcU84Y3YycWwxOE9BZ3JHejBFdWM0YjdzbHpMajd5QzZwZVdZUjUwcTRnN0djWWlSTVVHck90REhkMjdDMHp4dk9ubDhjampES05wV1dMcVhjS0pQRGdVRUJGV1M5OE50VXd2b1FBMWtpZ0cwbF9NQWJuTlZzUQ?oc=5"
+      },
+      {
+        "title": "Ziobro przemówił z Budapesztu. Nie powiedział, czy wróci do Polski - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTB3LVAxMWtOVUZ2QmpteGFGSmJFV3ZHdTZDNXJHZHdjZENOY2hNS0pjZ2FCNXBQNGZwVW5aM05NdDlNbU9MTThlekRFSDR5YXROYWpzR0RvMFczNk1odUdfN2FpdEFpVndkWXVOQzZ4ZlY1bnM0aWtibUdpTjJRX25VREZieTNMZ3hxOHQ2SEhvdUtaLWxfbF8ycW5IRThyakxGaVlB?oc=5"
+      },
+      {
+        "title": "KO zwiększa przewagę nad PiS. Jest najnowszy sondaż partyjny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUVGajY4MHNfRnBHNU1LX2NYWGpDdlB0N0NabEdLeElpVW1OZnNEdjB4aE1VRGpsc1VtalRqX0hIejdjd25Va1dneUROblZvMTJsZE9HOGN2b1NsRmVjZGxwNlcxM3FYZVRLc2ZjSU1XUDhEWTh4c3YzVVdoWEhDTWVnRnZsZGtTcXZmTHpoY3JMN1dNYkhBMkNUclZodmlZREE?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka otworzyła się na temat adopcji syna. \"Nie miał innego ojca\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHBicWNmLVhHOGV1M0sxOWp4eHVYRmVfQzhiOElzZXp6ZFFUNGo3akVMNjFrVlJCRmY0eFBYcmNpSDEtZjU5UkJwclFkeTFxTVpCVTl4TXpDTHhUaUpLODBhQmtLZjNnbjZyZkljQmU2TGg0R29aMm1Xeklhb0p4Qm4zRmFIYkdtbEp1UnJWR3d1OWZnV0gzTVk0NnNrTVdqZzJObnhGWWhFQUs0WG41eDdKOFpDaXY2N2l1YTdSN1F1NG1YVWc?oc=5"
+      },
+      {
+        "title": "Władysław Frasyniuk uniewinniony przez sąd. Nazwał żołnierzy „śmieciami” i „watahą psów” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2ZyTlJKMHVBVXFIMktBU0dMb0owLWVoNFNhY0ZzVFE1b3g5UWYxWVRrQUtSM01YMUNtdk1PMXdWaG1UcW1fbEpiZkFCbjNURGVrMng1ZWlVbk1YMzhEYlhmSmh5UGN1ZXJZMG0xeG1pcFdYNkFKNTI1V2duQ2hJN3hoSWZlV3BRSnFoamlFMktic0hBd25EVExPdURPT0VMYXhvdktNTnBTOHNJbzl2QTZR?oc=5"
       }
     ]
   }
