@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 16:15:35",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 386623,
-      "DOGECOIN": 0.617984,
-      "ETHEREUM": 13161.52,
-      "LITECOIN": 327.29,
-      "RIPPLE": 8.54
-    },
-    "indices": {
-      "^WIG20": 2970.33,
-      "^WIG30": 3839.7,
-      "^WIG": 3839.7,
-      "^NCINDEX": 272.13
-    },
-    "news": [
-      {
-        "title": "Jarosław Kaczyński dostał pytanie o powrót Zbigniewa Ziobry. Szokujące słowa prezesa PiS - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWExMVFicEJoZnUzZ0MxWG1uTlhUa21McXlUN1YwUVo5azFwcWxsLW5USGphdlktN1pxcTRuUkd5NEVEdER3QTZPS3U4MmRCaVlOSC1CU1lzS3NSdFFLd0otY01OVTZzc1EtY01hZlRCdWV3akVsUnNNNDh2WFVfUE1SMjE1Ykt0OFc4TFhzTmJQaDEzZ0YyWTdta0JxNENKYjk4WDVPWlkyVVVZWjFPRkVBblFKNTI0b04wb3VkR2tPNHhqMFVB?oc=5"
-      },
-      {
-        "title": "Zabójstwo Białorusinki w Warszawie. Sąd podjął decyzję w sprawie Doriana S. - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEZiMUpoeHQxVkZoVGxZRDJTNGxELW1hZDdKSE1ETW9GaF8zT2F0S3lXbXEwNFR5LUxEQWl3eTdnSE52VkR4akR6RDVrVi1COVFUY1hfQlZSOXhfNlhJLU5iWjZGdU5iVWMyZ2pYblAwY2l0NHNMWmUxTUp4RzQzbm15VmJOWGlyUGpVY3MwbWJDSmk2MEFFaTVKYlAteFh5a2EwaGxFODhobmJtSWpjQkQydnRYemlhcVJZdW5wZlNsT0RwWUJmUlhYc2lSclhQX2s5aVBR?oc=5"
-      },
-      {
-        "title": "\"Lecą głowy w KOWR\". To pokłosie afery z działką pod CPK - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTE3aW81ckNITEt1bEF0STlqU2lZMUhaYjUybC1pQ04xRVRNWVl4UUxXeTBfeFRHWG9iTk04VGJGZjlGbjBNV0pBZWZBMk05TFJvbXoxSVpsVDBHaklCUWlWc1V0YVltLXhlWmtVYk9KY2pFNFVrWWk0c0liczhkX1ZwVkdIQUtoeVpfNXZRZnZzTUtTOGQ0TWpuV3k2bVI4M0RiejNR?oc=5"
-      },
-      {
-        "title": "Tusk do Ziobry: nie chce pan przejść do historii, jako \"miękiszon\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlA5N3p3NW9yek80WHF0S01RV0JXXzBGdHVRUmR4SUpRQ1dLektVak5peDRITjhjNUhjbldnVHFKSHZpV2RZcER1aGRqWlowd0FpbEhrbHQwLWJyY1JLUkR4WDg4YU1zb2NwbWY3SHhxN29fZ0o2NGUxUFQyTXJCZnN5N0VraTBtTzFxdmRrbkdxUGNNVEU4dmxCbDJFNmdxVkptNlR1SG8?oc=5"
-      },
-      {
-        "title": "Zwrot w sprawie sędziego Iwańca. \"Wraca do pracy\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNek5jQWtqSjZmTzNMcUlUVDliWlRTZy1OVTQxT1JMQkZfYjY2bVdnYXBma3lPdWpWbEdEWER5aUlRX1VQSEtJUkVfZU1ST05SaVJqVGFkY3ZMYUtaNnhoUkJ3dG1WQlJpXzltNEVvQ1V6b3BUR2JfcHdYZUxmMS15VEdCdkNYQTFpbEY5YXdlYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-04 17:17:54",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Brakuje pieniędzy w NFZ. \"Jutro spotkanie z minister zdrowia\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGZhTS1MSlBMRzRzdlBwdjNCbW5VQlRtRDVDTzRIbElQclliNy1WUHlncmJkd3dSLWVlZ1JGcmhMQUI2eXM5QUxEaG5PWW90LW5pSmc1bXFkc2NyMVdiTFkzSVFHVUttVWlXcGE2QTZ6bjJDTGtZQnBZSnFILXVmZERhR1p4NWFQWkFPQVlJQWV5ZFhPZEVwQlJHc1MxUkJKRGUydjBxQ2xPbnp2ZGpUY1lvZGg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-06 22:12:37",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6971,
+      "EUR": 4.2566,
+      "GBP": 4.8359,
+      "CHF": 4.5706,
+      "JPY": 0.024051,
+      "AUD": 2.4081,
+      "CAD": 2.6225,
+      "CNY": 0.5191
+    },
+    "crypto": {
+      "BITCOIN": 370923,
+      "DOGECOIN": 0.591544,
+      "ETHEREUM": 12160.7,
+      "LITECOIN": 319.34,
+      "RIPPLE": 8.07
+    },
+    "indices": {
+      "^WIG20": 3006.58,
+      "^WIG30": 3881.32,
+      "^WIG": 3881.32,
+      "^NCINDEX": 272.6
+    },
+    "news": [
+      {
+        "title": "Kolejne weto Karola Nawrockiego. Kancelaria prezydenta zdradza szczegóły - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1NJdGUwSnFwblVXckYtNHZ6ZjljLW1TOExubDhta3F3VDhmejUwRU9FQWxTSFhmVVlRNURBcl93cVhKWllUWlhXUTJwcjRsZzE2X2FtU1A0N1cyNC16Rk1KSG94bmVuU0x5NXdBVjlpbHg0clpIMWI2aFhvVWxfdnhyRHUwdlJoa0dYU1dhYnpzYkJnZUEzUzZjTENMTXZOYTZneDQxa0M?oc=5"
+      },
+      {
+        "title": "Areszt i uchylenie immunitetu. Jest decyzja w sprawie Zbigniewa Ziobry - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXpLdzdWeXhRTFFJaVRXVE5jRHBPWGhiLUE0a3p2NnlOM3dWZnBINVNXcjFxR19DVWJ4OFM0Ql9WT2VVNUNZZkRGajR6eE5UTVZLRVdodHEtWmcyOEhVU1Q2ZmFmLW1YN3JaVk5URWRZNXByWnRaSjJGRFVMSWZocFZlYWNHUklpYjRNaVRpdk5NMFBvWkFuYk5HRXFhaVFoQTJSbjBzeW1YdkhGTkJ1VHVCWGxxRk9xSUZ5LUswRWN4S0VlLU44?oc=5"
+      },
+      {
+        "title": "Telus obarczył winą zastępcę w resorcie. Kulisy spotkania przy Nowogrodzkiej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRC00Smw2cF9uZE1UTHFOUHFPMTJzRDd3elk5YW1Yb0cwTjBRUm5zLVZsNUc0aVNxS0JuRWx5WUw0OHZUYk5NV3J2eTVfR3JBeG5MRHpLNXBsUk9ld3NMRkV0WjVrMW5BUzBMd0drbHdLV1FPQ1o5eXRfZ0ZtamItcktwN2owcUFsR3lGX1NNZWIweWpDRkIwWE5jclQ3MWtfTTRUZXgxZVBELWF4X2J6SkZrNTJKY294d1E?oc=5"
+      },
+      {
+        "title": "„Tylko świnie siedzą w kinie”. Jaki wyrok zapadł w procesie wytoczonym Andrzejowi Dudzie? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlNDRlN4dno4MVl6UGl6bk8xQmFPb0xMSXdPV2pvOHoteGNXVEhOeEZuNjRQQUxNSC1oQTV3dkJUd0hSeF85VGRsV3RaSHVtdFRqSnVnMlM4NUl6UXdvMVRzWFdRMlc5aHRGTGphWTZtVlJGV2RuMk9ITFM2Y0diZEMyRkI0UHFSMUdHajBsNURGeDhXRmxkUWNMbThla3RMTVRacm9oeUtTMXJXZkdGV3FGOFZvT0NXc2Q5VXZEWWxPeWJtTlB0dEpB?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek na A1. Sebastian M. obciąża ofiary - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmt4Z1J4N2JyMUQ1Ny1SdFhIQkxzdHNNSG5rb09YMVZSckJvV0tEN2Q0QjUyWjJBNXFNRlpWdW84eEJjTlRCbmZaRXF1S09ZRWZVMU9wRkNKM3RZcnNzUUFFMHZPX0tsMUQwajR3UDFiVmNEQ096UkRIeGNuVzVzM21hUVYxWEN6alp4eXdfM1hTNy1HdTB1dnd6b3prVWNwelVEVjRKOEQ3VV9wZktZTEhXSWVxekV6V2h2YkxlR1BmYnJnMWhsU3hmcTXSAcsBQVVfeXFMTS1HeFhrMXZ1Tl9jLVZuWFFBbXBUZGVEbFBpSlhRcHFSa1JldFByOUlzc285YURuQ3Ztam0taDhoSjM1TnBtTlotUkZvaHBfX3gydGdXQmpFc0UzdnozbnNIcUNaUlBwNnF6Q3hxUjZrTW1BSUtGblZCNHh0N25rb1ktZ2pvSmhWRldJOGM2QkdTSHNtYXByZzNyYjMyVHozUy16TFV6aExIUERfMUJpbDRDS05TN20zSHd5QWRHOUE1WWNuN1o0V2VsQVE?oc=5"
       }
     ]
   }
