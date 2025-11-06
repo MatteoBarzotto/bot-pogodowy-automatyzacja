@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 13:31:15",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 385832,
-      "DOGECOIN": 0.612215,
-      "ETHEREUM": 13006.88,
-      "LITECOIN": 321.33,
-      "RIPPLE": 8.43
-    },
-    "indices": {
-      "^WIG20": 2970.84,
-      "^WIG30": 3842.24,
-      "^WIG": 3842.24,
-      "^NCINDEX": 272.76
-    },
-    "news": [
-      {
-        "title": "Zbigniew Ziobro powinien wrócić do Polski? Zaskakujące słowa Jarosława Kaczyńskiego - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVJEeEJTdWJGYUd5NW9ZelpCcE5XTEVWbU9PMThyelZLcklhZVBwa0F4bDV0MFlDU3VxemJDWnhpN2JFQS1oUFI3YndaYWRyRnB6UkdnOGZfU013ZlgwSXNCTlUyZnk1Y3I0eVZQUEhUT1h1VlctUHBxRUhEUFYzZFN4WGc2ZklaaFFWb2RNamlxNjdOZmwyaXJ0WTJIYkJiTDNmMW5iSkRRRkE0WWlDZWxJN2ZXdFdSUGVhakNBMzR5QQ?oc=5"
-      },
-      {
-        "title": "\"Lecą głowy w KOWR\". To pokłosie afery z działką pod CPK - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTE3aW81ckNITEt1bEF0STlqU2lZMUhaYjUybC1pQ04xRVRNWVl4UUxXeTBfeFRHWG9iTk04VGJGZjlGbjBNV0pBZWZBMk05TFJvbXoxSVpsVDBHaklCUWlWc1V0YVltLXhlWmtVYk9KY2pFNFVrWWk0c0liczhkX1ZwVkdIQUtoeVpfNXZRZnZzTUtTOGQ0TWpuV3k2bVI4M0RiejNR?oc=5"
-      },
-      {
-        "title": "Zwrot w sprawie sędziego Iwańca. \"Wraca do pracy\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFZNS2dmM1VHN1pqY2F2RTE2WnFNWXU1QnVBTzZycXZTTm90amVfVjJUOGhTX2h2RkdFSE1HbG1CbzV5NV80ajdZTDRaTGVpX1NRMlVmdmJEYmJJTHIyZ3R4S3BwN0Ftbmp3Vk40ZDcwdE1aU0N2VEhaZHlrTmFpbjdNUkIyWVVHMXlWTFdqZ2dDOE5tX1J3MTVVZjBQMHE2UUNwYlZCU1JKcXkzalE?oc=5"
-      },
-      {
-        "title": "Dick Cheney nie żyje. Były wiceprezydent USA miał 84 lata - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVJMazVieWZSeE14cDJlZ1htWWdXanBBeW0xaXdvcTBNc2VlMk9uQ1Y0VWh2VnlXNkQ4alJpRUV6Uk81SG5vN0JRY0RzcnJQOVpQaDNlTjhVRUFfVi1yNGlTWnBTXzhQdkFEajZWVTZUZUJEMjBYa0RNUno4OFFSSTBVUW13MWxtWnhzQlE2Y0h1U0U?oc=5"
-      },
-      {
-        "title": "Ziobro dostanie azyl? Węgierski dziennikarz: Orban zrobi wszystko - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbG9Qa25sUmxramxLTXJiXzJWZWsyMGRvWkJ0Q0NGUzZUUVRkV3ZlUC1TOE1CMWJtZTlzWmhjY2Q2M0RYZFBfUlFWM2ZYSk0yQjctSUhJSi00WERXM0VxTUgzTWFrTWFyNkdhTWlvYTRjNkREWWRyQ0tGa1hNTVFWRm5sam9XVnhBYjVKUEZKaUktbnFmTzdsVUphUGpLODVvbGF0MWdORVk1YUJGMGlrRm5IX1M4a0hiZG1jYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-04 14:29:45",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Marta Nawrocka otwarcie o życiu w Pałacu Prezydenckim. Nie do wiary, na co się zdecydowała - Fakt",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazhvdHROeTNSLTQwc3k5d0Y2S0pkaG9xdlJHLWRBWHlBeElRSUpGOHVzeUloTzZMYWRmNFMxczlMeXdBUnRsOFdWRDNvVWI0Tnllb1JaeGY3SXhWay1BeF9zTFJtLWhFMnRmblo1dEFTb0J3YTdEZDJJNlppY0FDUTJLU3Q4VzB3aXctZ2xDWGpjb3FNY2laeTBNdGNnZHM3bVVHTEl1QXNZRHJXckE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-06 19:21:22",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6971,
+      "EUR": 4.2566,
+      "GBP": 4.8359,
+      "CHF": 4.5706,
+      "JPY": 0.024051,
+      "AUD": 2.4081,
+      "CAD": 2.6225,
+      "CNY": 0.5191
+    },
+    "crypto": {
+      "BITCOIN": 371806,
+      "DOGECOIN": 0.58622,
+      "ETHEREUM": 12159.03,
+      "LITECOIN": 318.86,
+      "RIPPLE": 8.17
+    },
+    "indices": {
+      "^WIG20": 3006.58,
+      "^WIG30": 3881.32,
+      "^WIG": 3881.32,
+      "^NCINDEX": 272.6
+    },
+    "news": [
+      {
+        "title": "Paweł Kukiz o areszcie dla Zbigniewa Ziobry. \"Będą się bali\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1VPWXNLb0Q0SWNTV0FNOFFFMEhObDZCeUxQcVRicGFGdG1yRjRHczNhYldUSm9Da2N3Sm9TWTNvbXRTRWl3Tkh5MXNwcU84Y3YycWwxOE9BZ3JHejBFdWM0YjdzbHpMajd5QzZwZVdZUjUwcTRnN0djWWlSTVVHck90REhkMjdDMHp4dk9ubDhjampES05wV1dMcVhjS0pQRGdVRUJGV1M5OE50VXd2b1FBMWtpZ0cwbF9NQWJuTlZzUQ?oc=5"
+      },
+      {
+        "title": "Kto wygrałby wybory parlamentarne w najbliższą niedzielę? Najnowszy sondaż - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjBYdGZrbkVISlR2b2ZwZGpjcmRxdG9FaG41SzVCdnVXVTlmOEp5XzNadFhSdk1GMHBXYzdpRXVYcHdwMGxRcEd3eVl3eDZmcUVNOXVwRmdGcjhwRHpyd3BhM0FpR1JObFBfQ0lTN0d1OXM0Y3YwYmt3RVRpeDJlclJqZlNXeW5IVFI2X2lpWHpLelNCb1hfYmRPclpOdFJ4YXhhajV1b2JDR1k?oc=5"
+      },
+      {
+        "title": "Ziobro przemówił z Budapesztu. Nie powiedział, czy wróci do Polski - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTB3LVAxMWtOVUZ2QmpteGFGSmJFV3ZHdTZDNXJHZHdjZENOY2hNS0pjZ2FCNXBQNGZwVW5aM05NdDlNbU9MTThlekRFSDR5YXROYWpzR0RvMFczNk1odUdfN2FpdEFpVndkWXVOQzZ4ZlY1bnM0aWtibUdpTjJRX25VREZieTNMZ3hxOHQ2SEhvdUtaLWxfbF8ycW5IRThyakxGaVlB?oc=5"
+      },
+      {
+        "title": "Powszechne szkolenia dla wszystkich obywateli. Rusza program „wGotowości” - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rQTVyZzNQdmFRS0IyZ015ZndGdUxlMnV1VmVvcXFiTmU4amRtdjZMMG9XOXY4YUJPZEhDODJqSzB1UFRtdm13SGg3RDhYZE15NGNYSWllMHlWX0NnRmdvNVV5R3Faeklsd2czeE9xOA?oc=5"
+      },
+      {
+        "title": "Andrzej Duda skrytykował oglądanie \"Zielonej granicy\". Jest wyrok - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWtxbGU3U2xyUkNmSVBSLTJ3Qk41MmQ3aG5JNVhmUW9CWDBtdTVuMGhLYTdiUmNTY1Q5WDdVMll0RUh1bTZuVUFmemlDZnJWMW5sUl9WSHMzSUJCRnU3YjNzSU9BSTNhX3NZMXVGU1ZUeV81anZ6aVYzWlhWNjVwdVYwMS10bFpLXzZvNGw3VUZNTDdSczlkZElsc2p6X3o2OGtxTmE0QTdBdmY2UFE?oc=5"
       }
     ]
   }
