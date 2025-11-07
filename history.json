@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 07:21:52",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 377228,
-      "DOGECOIN": 0.610927,
-      "ETHEREUM": 12346.0,
-      "LITECOIN": 321.34,
-      "RIPPLE": 8.3
-    },
-    "indices": {
-      "^WIG20": 2978.38,
-      "^WIG30": 3850.16,
-      "^WIG": 3850.16,
-      "^NCINDEX": 273.07
-    },
-    "news": [
-      {
-        "title": "\"Pamiętasz, jak trzymali mi pistolet przy głowie?\" Włodzimierz Czarzasty zwrócił się do Zbigniewa Ziobry - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWVTT3dCYml4djJadTNtdGlGb0hIS1NDLVFTeV9Eb1JCX29hb3JUUlI2OS1fYTVnTGVua01OcjdwdXNRbEJqNElKVERJNncyQ1kwV0g5YXd1RzBHM1B4anpzZWVqaU9wU0EzWE1wMmNuTlpERUNGR2VRdExhS2dDTDFfT3llM2drbXJOOUI5WGJZUUZHYXFDZEtCeFVMWldFMVU2N29wcUwyWllaWXUzX18tbkY?oc=5"
-      },
-      {
-        "title": "Republikanie w potrzasku. Zdawkowa reakcja Donalda Trumpa. Podsumowanie nocy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUxOdEZpaVN6djNpaE5saFdJUmFhajIxSnJ0OWdjWUFjTXBiNkQ3QW9oOG9SNWlnaTRqM0NKY0MzLTA0UWhjMVRKZHFTZmpTY2J0UG9qcjhSOGVOZVpseFd3dGRJaGxtVUpUcUFBaUhlMGdjekFneUNYb0NiN2FoZElPbTJfeXg0SVNpS3JCQ0Qxb1ZmTUlreDlLTUZXeElHSExKdFluVTkyQm05VlpzUXZnZGRFVDBNM3NYVmlYX0s4UTJqR0QxWXBZblZZZzhUUG9z?oc=5"
-      },
-      {
-        "title": "Alarm na Kielecczyźnie. \"Kule ognia spadały z nieba\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaERTRkpGVWh4UE9lODdNY1dGZ3BabWo1UmJaanduclFYenl5SmZ0cWRhY1hxcVFhdk1IeVc0VTVQbFV2MDBIdXh4dWdhZGNNUmhHbzE5ZkdUMkItX2UyNW5JdVVCWWRTYmZIRzkyQzh5TGlpT1hka1JkMTRHTzlFN2lGRlNrUEIwemhNYnZNbnNsNXJQb3k0?oc=5"
-      },
-      {
-        "title": "Samolot rozbił się w Kentucky w USA. Chmura dymu nad lotniskiem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGR3RXVZWEczeVB4eGduMjJhcUZzeGRqQlhjTC1ldWZSUzZtS2dMWG0zaXUwM1Rwb0k2UU1EclJNTHB6UmZSdWY3QTV0a01BQkhYQTdYdTFLdTVyazNlaWdyalNCZ29yOVZURENZS0pOUzk0N1pMVi1lNUQ4NHJGOXJocTl2TkNYeGJvNFNkZFdsOUZ4a0I3QTZXX2NXUmdiUy1WdFhR?oc=5"
-      },
-      {
-        "title": "​Silny wstrząs w kopalni w Katowicach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdk50b0pNYlpKSFFZSnRIdzhPVFNZTkdjcnNseFppNVFROWhMTDhlaHZpSXBzU2I4N0ZVYmRaSUktWVJhdDRlUy1OSmVzWGJQY0JqZVRudzEybHFtUWlsMzR2RkExWHZnLThKeWx6LWFvNFN5Z0VhNHNHVUoycFN0YmlHNEduNms4Mm5OVDQwUWRKUnJEZ1prZXBn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-05 08:14:23",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Prognoza na długi weekend. Wyróżnia się jeden region - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZlVvOXJYM3luOFVLT20xTjVLQmpkRE5KR05jbkNaSUc1ejhNNzRTSXNtcEJPb3Z5Q0VlbEVnRmUxaHRsaGdzYmhYYjNIYmdvQ0diZUJZdFo3ZmtILTRfZmR3NXB0SWhPWm1wUHpkQWxQYnA3V0ItRkJTcFZrWmh2YjRLLUp5NlJiTVltc3oxbUtOLW5EU1FCb3p0Y1haQ05JOXVyb2hqdEk3ZHRTM2RkTFd3OTItTk5uTkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 13:28:09",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6818,
+      "EUR": 4.2483,
+      "GBP": 4.8227,
+      "CHF": 4.5556,
+      "JPY": 0.023987,
+      "AUD": 2.3868,
+      "CAD": 2.6085,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 367214,
+      "DOGECOIN": 0.59685,
+      "ETHEREUM": 11832.49,
+      "LITECOIN": 320.27,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 2971.09,
+      "^WIG30": 3833.45,
+      "^WIG": 3833.45,
+      "^NCINDEX": 271.03
+    },
+    "news": [
+      {
+        "title": "Kontrola w KOWR. Minister rolnictwa zawiadamia prokuraturę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkpVODRRNVdQVzZwcnluWERLZDV3a2RSQWZqbVJKYThkZWN1YVR2VzdnOG1iWnBHVXZKZi1fSjVrdmw1RldubFVEZV9Vam1YaEFKTjByc1pPV2h2SFU1Q24zbHdVY3V0Wnpva1VVaWpYaVpibmlaZnlUTVZtZXVkNXRJZWJkSklMUXRnWV9VUDF1WHBxN1VzUGI2NFVxa3hWR3N2Qjh2OGY5bk9uakNNWTg1d05yODNaRjVCOQ?oc=5"
+      },
+      {
+        "title": "Tak prezydent chce, by obniżono rachunki Polaków. Znamy szczegóły - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblNhZ3NQVDloY2lXUEFzVTJibHFFaXJQVTVGYldCQVNCblRUdng4d3k0a2J5N050Ymd3eGp3SWZKV1dkMkxMUHA3Uzl3c0ZlMXg0N1o4VHdqeW8xcWdHN0JPck1uWjNtOS0wOXBsWF9jNy1QUzdBM3k4cXFqa01DWXpkUjViSy1qVHBYU0M4X3B0Qk9scV9yaHBzcUZUdEE4aWNBUVNfcFp6YXdLN2FLYk1sVl9rQ0U?oc=5"
+      },
+      {
+        "title": "Co dalej ze Zbigniewem Ziobrą? Oto trzy scenariusze - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUtKNV9rVlZQTHUxX0lzaWpCTi1ZNGFBTTV3WHVZaEJrY1BlU0dlNDRHOC1BS1JSM1pzRV9ZWXRlOVdTelNVZzc5SjlmcGlJWUxXVG5GM044YWZ4cUtzRjBMRlBnanFtbmdsQnRRMXhIVW9lWHJzZWNNT09MT3UtYTNRRzZQZHV2ZWRuTjQ4aGVxYTZfUlBQRl9iRzE5alBYWTZpT010c1pBWi1naFVPM1gyV3JzQQ?oc=5"
+      },
+      {
+        "title": "Ruszyły zapisy na szkolenia wojskowe. Polacy pytają o jedno - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWkJXM2NXRjMyaW1Ed1FENExGYnJ0WHpfcDJ5WDREZkQtaVlVRHhwTFFkUi1Va0l2d1ZQQ0hsWnVWVWw3REpBdEJjUVVKcXRrU2dQWkgtLTNZM1F2M3JObG8zM2NSQTdHNzd5TGpNR3BzbDN4di1IQS14cnVWSW82OTZYUGlVb01URmYzYkYzbDBaa0xIYmFZRFJLa29La0pRMXpKRVo1Q3JlaDlORmRNS3lGVTJHMjl2Sm1KY3h3?oc=5"
+      },
+      {
+        "title": "Pijana sędzia spowodowała kolizję. Straciła immunitet i usłyszała zarzuty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0VaNEZWVGtFMWtlUlozUHFJeUhVZWdweWpkZ2MtaDQ0NG11cmNZdGpGTXJjTW44OHYxeTNDZ29GbEdvdE5WSUFvY0JsNXUyUVVFcExYdHhsbjUzbi1hOW9HOEFLcGZFZXUtODhyRV9pb01VYjdQOUpZRGJueFFpX05kYVRYUnlFbmZrYnpoX215X2NQMjdmdUh5ekRzZk1pMjU3WnRaMnZ1WVdmY3RPa0k3azlWYnhHakRWZFB4dnA2VWFpaXJxNnJybHZEVnQ4d1E?oc=5"
       }
     ]
   }
