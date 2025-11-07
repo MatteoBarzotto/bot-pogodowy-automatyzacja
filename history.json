@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 00:13:02",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 374883,
-      "DOGECOIN": 0.606669,
-      "ETHEREUM": 12127.11,
-      "LITECOIN": 317.44,
-      "RIPPLE": 8.22
-    },
-    "indices": {
-      "^WIG20": 2978.38,
-      "^WIG30": 3850.16,
-      "^WIG": 3850.16,
-      "^NCINDEX": 273.07
-    },
-    "news": [
-      {
-        "title": "\"Pamiętasz, jak trzymali mi pistolet przy głowie?\" Włodzimierz Czarzasty zwrócił się do Zbigniewa Ziobry - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWVTT3dCYml4djJadTNtdGlGb0hIS1NDLVFTeV9Eb1JCX29hb3JUUlI2OS1fYTVnTGVua01OcjdwdXNRbEJqNElKVERJNncyQ1kwV0g5YXd1RzBHM1B4anpzZWVqaU9wU0EzWE1wMmNuTlpERUNGR2VRdExhS2dDTDFfT3llM2drbXJOOUI5WGJZUUZHYXFDZEtCeFVMWldFMVU2N29wcUwyWllaWXUzX18tbkY?oc=5"
-      },
-      {
-        "title": "Jasne punkty nad Polską. Wiadomo, czym mogą być - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYndWVDZZby1ZLTdQMjM1TlZ3OE5DenBldDE0eW82OHZUdDdYZTRZYWZhOWVtVENNVnRzc2JVTFk5T0VfcDRnQzVsdFJQdE52SzBlSW51RGQtQkpnaGJfazRzeXVLMXB2R0pSd3NxYWluN2tXTVpLbGRMOFRHNllIQXFHQ25WWHp3THpSTlowSlJmY0wxaVkzYQ?oc=5"
-      },
-      {
-        "title": "\"Lecą głowy w KOWR\". To pokłosie afery z działką pod CPK - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTE3aW81ckNITEt1bEF0STlqU2lZMUhaYjUybC1pQ04xRVRNWVl4UUxXeTBfeFRHWG9iTk04VGJGZjlGbjBNV0pBZWZBMk05TFJvbXoxSVpsVDBHaklCUWlWc1V0YVltLXhlWmtVYk9KY2pFNFVrWWk0c0liczhkX1ZwVkdIQUtoeVpfNXZRZnZzTUtTOGQ0TWpuV3k2bVI4M0RiejNR?oc=5"
-      },
-      {
-        "title": "Wstrzymany ruch lotniczy na dwóch lotniskach. Powodem drony - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2JLU0Q2TmFaZGpfbFRGQ0tJdTdYRGt2aVVrNzFQdEhiRk5nSUZyS1Q0bVYwMENwVVNiMEh4YllwTWN4QktNUUc2Z1pSVmZPajcyQW5iWVhyM1dpc1JRR1hEaDF2akh1N2syQmUtZGdidmRtem91WXB5aWpIcUtCQkVIUzIxZ1pMU3h4SUo5ZHFEbTlCSFhJWnJtNlh5M25EQ0ZxcS1aQURxNFZLdXdMQw?oc=5"
-      },
-      {
-        "title": "\"Może prześcignąć Wielką Brytanię\". Brytyjski polityk chwali Polskę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTF9aRldBWGRjMEttdE5zM0F2WHhNNjJmaS1SS0E3YXVOLTlYSHZrWXFZZjROUHllcWE3eHNPZ3E5REMwMWQ3OGVoSVA2RUswb19XTzNySW9SRWlUM21FX25JdlkwTWRWVjBkLW5xMHNXUFBNdFp3RDlRVWRPTlhGc2hJdUJjajVGVWdjSmYxc21TWG9OZTh5Ym11ZjktUU9QYThzTC1vMnJKcFFscGR1M3VTYjM3REx6akZpcQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-05 02:08:27",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Matecki mówił o \"odstrzeleniu\" polskich funkcjonariuszy. Ruch posłów KO - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDNxX2l2aWRpSi03QW8way00aDQxR0lUZWFISDNlQmRub0YtQzAxM2lLanJyT1M1OWEteU40eHJpd0lEb1pqTE9pR1dGWGtUOE1LRGlhdjdESnhkanZUVDhzNGJmOFJLb0lFY2lEd1g1TUxlSmh4bDIyWnI5SGh4dnFFTmxYbEpaMWdfaEJhUG1IYTAySVdaMnBiVTV3c0dINWdkSFpmQVJ4Z2o2dU56a1QyZllCRFQ1?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 08:14:10",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6971,
+      "EUR": 4.2566,
+      "GBP": 4.8359,
+      "CHF": 4.5706,
+      "JPY": 0.024051,
+      "AUD": 2.4081,
+      "CAD": 2.6225,
+      "CNY": 0.5191
+    },
+    "crypto": {
+      "BITCOIN": 375328,
+      "DOGECOIN": 0.610384,
+      "ETHEREUM": 12358.97,
+      "LITECOIN": 330.49,
+      "RIPPLE": 8.2
+    },
+    "indices": {
+      "^WIG20": 3006.58,
+      "^WIG30": 3881.32,
+      "^WIG": 3881.32,
+      "^NCINDEX": 272.6
+    },
+    "news": [
+      {
+        "title": "Sprawa immunitetu Zbigniewa Ziobry. Wszystko, co musisz wiedzieć. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbENHVjE4LXRsbnlFNnYwNElTZmZVX0d5WWhPM2VMSUU2blVOdEZhc0FaU3NneEFyVXRNVEgxUEdnbHhzd29XXzU5d1hxUldPdEVsQmJrYVctbWFkcE9CMmJRSlJPdXJCVWEtejBHa3hMdFBFYUVTMkZWWmoyT29WVko2OVdxN2JWRzlJaFNIa0lzRjQtTTRJQWY2dS0yaS1CaFR6WWxLVHpraUlnT05zc2JfaHBSMDRHYjVyUkkxc0xTRWhTVWJXUWotSlcxak5h?oc=5"
+      },
+      {
+        "title": "Rusza program „wGotowości”. Jak się do niego zgłosić? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjlQeXI5Q3NKN2Rqak1Ud3lNMVFpdlYxQnQ5c1RNSVh1Y09UZmk0S1dGZk5rWWlPNjBsMU8wbUVxcm5IS2VpSG9Od0JMUjQtanYtRXl1UkNkalE0c3I2U2dqTHlCZ2J5ajFhQUNvc1RzQ0hRUjd3ZWhSVW5ocWFtWnI1YnhKWHdBMDdDb05WM2I2VHQwanlHVjVVY1NLbmJVTmhqc2xWRXMzN1VWRXZRTnFzdk9saXZ0MnpfVlFn?oc=5"
+      },
+      {
+        "title": "Ułaskawienie na horyzoncie? Polacy w sondażu ocenili \"królewski przywilej\" Karola Nawrockiego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT21MdVJUS1g1LUJETnNFcVdNaENPdzVzYy1Mb0IxOHZjQi16VmtyZTRKSU9QVVl5RlFZb3I1b25LdmdFRVZiZVBjS2YyOEhhQzBjcFBxMTMtSlB2c0piSVJtVDR4T0phdHdIN2l5X0k1M3k5TkdVaE5vOFdiTWZGeWZJT2h4S2F0c0RCRzMwaHVOb3lDal9KLUtXV1U4dDg2RTlwYV96TC1PNnFyVEtyYlZtNA?oc=5"
+      },
+      {
+        "title": "Moskwa odpowiada na zapowiedzi Trumpa. \"Konsekwencje są nieuniknione\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXF4eExaUkt5TmNrWFJRMjZzQzJRVHFsY212SDlrR05ySXEwVFI3a0FJUEw0c1VyUTFaRF9xLW5KSWZlQ19mbkppa0FtdVJic1BhVWwzNmdkcDRnb1hQaVQtVVZ4dW9GemZYc3RhU3VRcmt3TlJsRFYwdTdxUVhOUkFYQWNLdnRfVWV3RU55Ymw4YkJxaGExVmo2b0dYbFlrOHJaUG96YlczZi05ckxsWll5TzM?oc=5"
+      },
+      {
+        "title": "Rosyjska dyplomacja bez twarzy. Czy Putin odsuwa lojalnego sojusznika? Tajemnicza nieobecność Siergieja Ławrowa - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWU9oc0xWZEhUN0ZRTTBGTllQTTdZcmY1RmlQckVWSjlYTEkyMllRUUlxUFJweWRHcjZINUs1UlBMdWRqRjZzdWFzRk04SzVjRGRSQ0FBcVRsaFFmVGdtdnhxUVE5a080YnNyVTBlMFVaQktfUE1UZnNmeGlpdE9OTEtKUWNmenZEOHpVTXQyRjVnNkJvZm9MY1Y4YjJ6bExjVTlpWmkzS3daQTJRX2xZOVdDakNhRDY5SFUzRw?oc=5"
       }
     ]
   }
