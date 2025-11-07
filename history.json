@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 09:19:33",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 376016,
-      "DOGECOIN": 0.607059,
-      "ETHEREUM": 12252.75,
-      "LITECOIN": 321.44,
-      "RIPPLE": 8.26
-    },
-    "indices": {
-      "^WIG20": 2975.02,
-      "^WIG30": 3843.9,
-      "^WIG": 3843.9,
-      "^NCINDEX": 273.19
-    },
-    "news": [
-      {
-        "title": "Oto nowy burmistrz Nowego Jorku. Reakcja Donalda Trumpa wiele mówi - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTElHcXR0Z29GT0lWX2tieG5Rb24tX2g1QS1jc3dteHFjYnQ5LU5qRF9uY29JeFpYZ1Y2TTcwQlVJZnVENmQ0eVRGXzBjSGplekpWQUxNMnY0YnYzX3M3NDNpUW5zUGRTRmJlLTdxX2ZfOE8zemEtRnFHLVpVOGpINmctNm1HdnFtZUNvNmI2VDk2WjVHQXhEUnp1QXduOGlXalFlbk9XQmRFNEo2UnNud19MR0k0VW5fX0JnamRwTno3TThkNmxlYw?oc=5"
-      },
-      {
-        "title": "Samolot rozbił się w Kentucky w USA. Chmura dymu nad lotniskiem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGR3RXVZWEczeVB4eGduMjJhcUZzeGRqQlhjTC1ldWZSUzZtS2dMWG0zaXUwM1Rwb0k2UU1EclJNTHB6UmZSdWY3QTV0a01BQkhYQTdYdTFLdTVyazNlaWdyalNCZ29yOVZURENZS0pOUzk0N1pMVi1lNUQ4NHJGOXJocTl2TkNYeGJvNFNkZFdsOUZ4a0I3QTZXX2NXUmdiUy1WdFhR?oc=5"
-      },
-      {
-        "title": "Szpitale przesuwają planowane operacje. Oto powody - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmVpQ1VGSUc5b0x5cGVtcEFWYnFXLWtGN3JjMmxObnRHeXpGdzJDUXRRbWpQcE15OEFCQmEzcTNERk5OUldmTi04RHhJTWNRTTh2QTN5Y1NOSG9xTmtDdTRuczBBMkZvZ21OQUJPRklJbFdlQTVtckNlSzh3WFFucFJhLVFfeHFIMktpV1J4ZF9EMWFIbHlCanpqbzQxLVFNamk3M0pmcw?oc=5"
-      },
-      {
-        "title": "Szokujące słowa Kaczyńskiego o sprawie Ziobry. Jest odpowiedź z rządu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTZpc0sxWkxpU0I2RGRBRDNRRkhsX1ZSeVptMzYyZmVxSlN6clZnQ3dUdDZWZWVQQlpxdXdiUWpPVlhuSjh3UDYtVF9QemFhMEFvMDhXSUptS0haT3RaZi1BUlp2NXFXR0FUbjhnUXhJUjVUVkp0TGdkU3NwQTN4WjFCNmRaZHgzdlE2aGN0OG10SzBLeTlLR25wRmVUVkxEMzgycmU4WlpUQU11?oc=5"
-      },
-      {
-        "title": "Wstrząs w kopalni na Śląsku. Odczuli go mieszkańcy kilku miast - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzJJNkk0aE9uUUlRTU5md1Fqc2ZETEZIVDVIZHBDV3dLbFBHRDBReVN2OE9tUjFGT21XQU1JQm5PNTVrV1ZkUklFbkZISTlsQjNBT3JyVnN6RENad1NBdkdwNnBtNVMyT192ZTBRWkhvMk4tUlB1bV9BNGRaLWpCcmVfTVplUmlDVTl4TGQxeUhmRTZCV3c3dlZIMWo2U2tsNF9iSTNoMlVKNEZhTlE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-05 10:16:14",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "\"To powinno zostać uproszczone\". Prezydencki minister pokazał swój rachunek za prąd - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1dia2JiYVNTemNwSVBTTHV0eG1MQjZIUllIN2lmNk9XMmhxZURKWmdDa3JVQS00NFYxY2dUV3pmaDlsVlNXbGowTG4wU0VNWEdRVUw1MWdOY3RrdmdNNFd3c3g0QUkxdXFXVGJDSE9tZEQzWHU2VTN5MEY4eVVfaUJJNi1tdjBfQU45dDN0bDU4VkxFamZhVlRET1VhdmxiUmJnVk1kZTk1VEJWMGJEQ2paWE4zRXRZSk9VZHk4VDF6VFpFcjRZVGsyNzZOWlNr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 15:14:15",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +12°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6818,
+      "EUR": 4.2483,
+      "GBP": 4.8227,
+      "CHF": 4.5556,
+      "JPY": 0.023987,
+      "AUD": 2.3868,
+      "CAD": 2.6085,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 368220,
+      "DOGECOIN": 0.595645,
+      "ETHEREUM": 11901.29,
+      "LITECOIN": 323.41,
+      "RIPPLE": 8.03
+    },
+    "indices": {
+      "^WIG20": 2974.42,
+      "^WIG30": 3838.57,
+      "^WIG": 3838.57,
+      "^NCINDEX": 270.39
+    },
+    "news": [
+      {
+        "title": "Donald Tusk ostro o ruchu prezydenta Nawrockiego. \"Dalszy ciąg wojny\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUNjY0pYb2ZDeldVRGJ2UUgtU2xJajhxQWZFV29aQUx2SU5iU1Z3YW5IcmRiX2xTTThwblMzcUROOWZKUGYyU05NWUtYSFUyczJ0Tzk2Y2tXWHV5dkoxLW1sS3dCNjR6dkZ4RkY3dlZtZ3lPRHNJTHVodWk0dHlkV1hpLUtaUTV1cWkyMGhHZ1pXOTF2YXpGbFVVUTRRREhkenFvVVljNF92Zw?oc=5"
+      },
+      {
+        "title": "Od \"szeryfa\" do \"miękiszona\". \"Ta sprawa jest dużo poważniejsza niż wojna polsko-polska\" - Wydarzenia Interia",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnVIaGwtVU1NQVhaY0p6MWUwU0lfS3EyNmh6X3VMb1dhc2Rzc0s4eVVaOTdoVWh6UVByWkdQRHF4bk1vV1J1M3pIR1RkZ0cyVm1ySG5Iam9kQ1Zxenc1MkJpMDdabmppZmZIb2ZNUzRmaHl6QlpCa2w4LUhEbldMYjM5UXVsaWdOWHg5OGdvWVd4VDBSRmQ4U2swbTlVQnJrUTlxU2xZSQ?oc=5"
+      },
+      {
+        "title": "Minister rolnictwa o możliwych dymisjach w KOWR. \"Nie ma świętych krów\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNam1rdUdOSmFXN2wyWjFyV1Q1akRyMVQ2YlpsdGJBWURGd0h4cUlxWVZMMElldDJSNy1OTGo4cnpkNVl6M204RnpRcnN6Nm1aQ20waDBCVTYzUEVIcnZKMnFXSVZKUE10d01HanY5RmRpYlJBclk4ZUpJSVNTbXJsSnhoaE9ka2pUUklWcXZXY3JrelFnSnJYRndoS25TYjUwazdHdC1VT196YWlwMXQyRWZpT25aMWdpNnR5RktsSktJc281VUZLRWl1dkpRNm1T?oc=5"
+      },
+      {
+        "title": "Szkolenia wojskowe dla cywilów. Wiceszef MON ujawnił liczby - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2NHQjBZSG03QmpUYWNtT3l0VjlDWWFuTnZpMWNOUFhmZFFQVHB3TzZaTGJJN09yZnl5MGlSR18yOFdzU1RUem05WDZMZThLclNrcmJQWEowX3QyVzJDMHp2NGkyM094Njh1dnQ0N29kZkhQV1czNkRRWXV6eHVxcmFHXzdIdFJ3SGFJbEJaWFJsblI2SWo4ZThFYmR4QnlIZ0l0YUc5ZkVDUQ?oc=5"
+      },
+      {
+        "title": "Dzieci zasłabły podczas apelu. Ewakuacja podstawówki na Podlasiu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSE1KR0VzNEZKSVhPU0J4RnFoUGxEbU14akV5Nmk1LTgtWXpqbFp2X011cHRZZjltSmozQjRGazM3QXVRWE5Gb251VXNVbHNWVXZNRzFJYTY4Sk8yajlZRFBJQUxPN3hCeXNmbldNdmp0X3lldm5nNmo5MUtSV3dlTlBOTlM0ZXVZdVFaX2JueElyak0tcHRzOTB2M1gxcFhJTWZPWTVvcmZ6VkZEdzFTRVhVNG5aSkNWYmU3VjBFT2tKRVU?oc=5"
       }
     ]
   }
