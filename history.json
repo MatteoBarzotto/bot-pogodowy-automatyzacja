@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 13:29:16",
-    "weather": {
-      "Warsaw": "Warsaw: +13°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +12°C"
-    },
-    "rates": {
-      "USD": 3.7091,
-      "EUR": 4.2597,
-      "GBP": 4.8367,
-      "CHF": 4.5759,
-      "JPY": 0.024134,
-      "AUD": 2.4041,
-      "CAD": 2.6257,
-      "CNY": 0.5204
-    },
-    "crypto": {
-      "BITCOIN": 379382,
-      "DOGECOIN": 0.60835,
-      "ETHEREUM": 12389.49,
-      "LITECOIN": 320.6,
-      "RIPPLE": 8.31
-    },
-    "indices": {
-      "^WIG20": 2967.92,
-      "^WIG30": 3842.32,
-      "^WIG": 3842.32,
-      "^NCINDEX": 272.37
-    },
-    "news": [
-      {
-        "title": "Nowy cel klimatyczny UE. Jest zielone światło - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJnbjN1b2dVNWtSWk40b25nai05WFNaNHJWQm1HcEluc1gzcS00RnN1TmNQRU1xeEdSVHg5amhjZk9SdGFDSUQtSTJyNGRlQU52bWFZTkdxell3Q1lneEU5Z29jMFM3MnljZ040cnJ6ZHVkR1p5akcyQ2ZRQXpKSktDdHUtOEhqSE1HRVFUaDA5QTRLNlVKZVdMXzhPTjFU?oc=5"
-      },
-      {
-        "title": "Minister Krajewski o aferze działkowej. Zwrócił się do posła PiS - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm51M0owNXFhbzlneWJnaFVuT29rQjdCWXhTcldPY2Jqdm5IcFdKYm5CSlFtNE9ibWZydjRVUkFBSjdlX1RhQlRfTUxBUk90MnpEYjhFempUbTZNVVNUSWJQZmUzRktDSzdld3lTamtaN1N5SjhqSHNsRkhLajdNdVc3TlQycXh2THlyeTBIbVJEdnRYeEx4aUV1Ul9hYlVVcnR6UDREUXN1VkRXQTJxRm16QUY?oc=5"
-      },
-      {
-        "title": "Tak może wyglądać posiedzenie sejmowej komisji ws. immunitetu Ziobry. Poseł odsłonił kulisy - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZzZ5WERFcWRGVkF0eE9yLUVwblFVejNKOVFNbGxHQ1A2bG1FbTMwYm13LXpERGNLZzNNdkNlNzRKZk9KQ2xmQ3BVZk4wR2E5dm83TkJLdWNFcGpVRE5GMUZjOHJ5RzBic0FteWhFUzNyMjVxaGRmdVJ6eFJ6am9OcXoycUpWdXFCQkNrVGg4UUMyRHE4SzdPUy05N0FEM0FTQV9nbTNJYms1a0g5cGxjRXhfNk5renRfUTlr?oc=5"
-      },
-      {
-        "title": "Dymisja w rządzie. Polityk ogłasza odejście z resortu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFU5RDNsYnNHZlNlOFJrNHFDcHBSVXczSkNranNFTjdoX0VRSV91VlpGc3I1VXlkN0VOTlAtVHZvY2hvNXFtTV9iTDRKZlp2dE5kaDJHTG54dVNWOUVTSmc2SXhLNXdUbVV2RVdka01xQUNqUGRza3h4TXNRTkpOVzJtUUg0aEZic2xoNWxUeURGYk1GRU5LRXRiS0oyRlRuYlE?oc=5"
-      },
-      {
-        "title": "Jest decyzja UE w sprawie systemu ETS2 i celu zmniejszenia emisji gazów cieplarnianych - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd212MndhZm9TRi1zQ1c2RzRxSk52bWdJYUI0aFh4YmZtV0Ziei1wWWMwTWpHS3M0MGVHQUM3V052bWVyR19mR2I1ZzIycE9YSERQZ2VXM2JYQ0VrcFN6UmlRRWFGbUxUNkFsdG4wbFFoTUZWZ0ZDRFpsQ0ZwaUk2bTR6WjYwNHlWYXhIQWtGTHh0SklCQ2k5bXg2a1M0U09pSDhGMHo4TzdRUmNEV2xJelFGUDVUQjdEUE5rbndPQnZaZXNKZWhxQTVVSVl6bzg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-05 14:27:56",
     "weather": {
       "Warsaw": "Warsaw: +13°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Kaczyński uderza w rząd w sprawie szpitali. Ostre słowa prezesa PiS - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01fb3FEUmZwUHplcENRTkU2d3B2MXAtbWNrMGpZOWllX3pzUmxxN2pzSzZ6YUIwZENKMm1ySWh4eElYUEs4cEZzc1N5VWc1ZW1FTzFKbjJqcl80NUFWdHoyUmpWRThJeVpCSmdkNmtTcmtON2xWbE9FeHFNTGRNN3Z3Ukg4ZFdFeVpPeENIMGRhY0hDUzhqNXdTeHRqZjllb2VDbmhBbnh3U3lfRG8zag?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 19:20:03",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +9°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6818,
+      "EUR": 4.2483,
+      "GBP": 4.8227,
+      "CHF": 4.5556,
+      "JPY": 0.023987,
+      "AUD": 2.3868,
+      "CAD": 2.6085,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 375914,
+      "DOGECOIN": 0.662573,
+      "ETHEREUM": 12452.7,
+      "LITECOIN": 381.76,
+      "RIPPLE": 8.5
+    },
+    "indices": {
+      "^WIG20": 2970.61,
+      "^WIG30": 3833.96,
+      "^WIG": 3833.96,
+      "^NCINDEX": 272.07
+    },
+    "news": [
+      {
+        "title": "Roman Giertych mówi o przełomie w sprawie Zbigniewa Ziobry. \"Jego mit padł\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkQtUFEwRHdfS2szRUdKaXJQWHp4Mkt3blBLSno1a01KcURmU0pxVmFTMEhNZVV2Vm9QQkdidWttMWdKVG1PVWZHY2JLT0h2cHhVSGZiY2I0R2I0LVJyd0tBM0NuMUlOcDJVanRzczFmZmltcUFUcWxIdlJDYVZDNGxyQTlPbnNXbmFSZEl6cWRpbHM5OU1EWFJGWlRaWl9BY3AyWXpTRTI4N0xwcEt2dkR3?oc=5"
+      },
+      {
+        "title": "\"Żeby być prezydentem, nie wystarczy wygrać wyborów\". Tusk uderza w Nawrockiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHZXYXF6dFNDbWV2NGFSZTlrMWlfVW01cG1jQkUwb0pULXpMenJobU5kSF9OVmVCNmFPR1lRN0lSVVVITTRYSUZWM0J0QTZzckFMTEJXUFVIbWRwcU1EbUNVUFI1UHlHMi16Rl83aHYwdFRSTG5sZGZicS1QWmRaUG5WUzZXUGdmc3VUYlIwT2Y5ODNmQy1uTFhkVXJNekItNENjTGpFd2dwaVhxbUxnclhwU2tnV0hhWDREcndjaUw?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro zabrał głos przed głosowaniem. Uderzył w Donalda Tuska - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmZtR2VSYWxXbncxdjlyVXU3MDVFd1RCV0czRVUtaHFjNlZFX2NIVjhjcl9Ybms3RmJMZ2haVVR2QW9OcGhEeTZyWUR4a1RURjVLTjlXcGYxbTA3TF94Nm9jVzFCdVZTQnRSWXBCSVpGU050Q295ZHJEOUp3Qk1OODFzazhNTGgyRlpqWjJ5NWNXUTdjMWNheHVmMUVXQlppNHhmc21qNTRlc1lCR2c?oc=5"
+      },
+      {
+        "title": "Kaczyński uderza w rząd w sprawie szpitali. Ostre słowa prezesa PiS - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01fb3FEUmZwUHplcENRTkU2d3B2MXAtbWNrMGpZOWllX3pzUmxxN2pzSzZ6YUIwZENKMm1ySWh4eElYUEs4cEZzc1N5VWc1ZW1FTzFKbjJqcl80NUFWdHoyUmpWRThJeVpCSmdkNmtTcmtON2xWbE9FeHFNTGRNN3Z3Ukg4ZFdFeVpPeENIMGRhY0hDUzhqNXdTeHRqZjllb2VDbmhBbnh3U3lfRG8zag?oc=5"
+      },
+      {
+        "title": "Prezydent Nawrocki zawetował Park Narodowy Doliny Dolnej Odry. Sprawdzamy, czy to koniec tego projektu - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNajF0czQzSmY2djN2VXc0SVB5SktSQXAwT0dUU2N1X0RITjU2Q3JYVnZCUWFmSFVEOHZ3SFRoQkctblNGVW5HYVNwVmxjYTJTOXNlVExaYzhOeUY4RW9FWGs0dlJtdXQtZk1FdjEwR3BfYVNfTVZpQkV2Q3NLNWhWOU9TU3ZSZnN6Q2FYX040MFU2YWc4SEZaelk1V21XY2MtbHktaEk0VVlhLW1PWVNHMlhybndnTGhQaUU0bTVwWElJd2FOMGc?oc=5"
       }
     ]
   }
