@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 08:14:23",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 377501,
-      "DOGECOIN": 0.611034,
-      "ETHEREUM": 12318.13,
-      "LITECOIN": 322.04,
-      "RIPPLE": 8.31
-    },
-    "indices": {
-      "^WIG20": 2978.38,
-      "^WIG30": 3850.16,
-      "^WIG": 3850.16,
-      "^NCINDEX": 273.07
-    },
-    "news": [
-      {
-        "title": "Wyniki wyborów na burmistrza Nowego Jorku. Potwierdziły się obawy Donalda Trumpa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjZjcTYyal9Rb0RoN1lsbU1hQUdQd3BjOXIwdm41VEFLMGxITlJudnM4NkdHQk9wb21fX3N3bVpjNTE4U0pZTE1Vcmh5cEtTeE80WUxmOTUweUN6Z01qUzVreGlQcUtPUElWazBLa0tuZVdaTVYwTVF5enNRRTB2Nlg0cmZETDB4MW5Kd3h5Z1ZVVHpWbFJvR0xxcWRBU1l4NTVpU2Q3WU9GdXFvaEF3NGZhSTlfN3JGMWFsZHl5QS14RThDM1g1WEVB?oc=5"
-      },
-      {
-        "title": "Wstrząs w kopalni na Śląsku. Odczuli go mieszkańcy kilku miast - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzJJNkk0aE9uUUlRTU5md1Fqc2ZETEZIVDVIZHBDV3dLbFBHRDBReVN2OE9tUjFGT21XQU1JQm5PNTVrV1ZkUklFbkZISTlsQjNBT3JyVnN6RENad1NBdkdwNnBtNVMyT192ZTBRWkhvMk4tUlB1bV9BNGRaLWpCcmVfTVplUmlDVTl4TGQxeUhmRTZCV3c3dlZIMWo2U2tsNF9iSTNoMlVKNEZhTlE?oc=5"
-      },
-      {
-        "title": "Samolot rozbił się w Kentucky w USA. Chmura dymu nad lotniskiem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGR3RXVZWEczeVB4eGduMjJhcUZzeGRqQlhjTC1ldWZSUzZtS2dMWG0zaXUwM1Rwb0k2UU1EclJNTHB6UmZSdWY3QTV0a01BQkhYQTdYdTFLdTVyazNlaWdyalNCZ29yOVZURENZS0pOUzk0N1pMVi1lNUQ4NHJGOXJocTl2TkNYeGJvNFNkZFdsOUZ4a0I3QTZXX2NXUmdiUy1WdFhR?oc=5"
-      },
-      {
-        "title": "Alarm na Kielecczyźnie. \"Kule ognia spadały z nieba\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaERTRkpGVWh4UE9lODdNY1dGZ3BabWo1UmJaanduclFYenl5SmZ0cWRhY1hxcVFhdk1IeVc0VTVQbFV2MDBIdXh4dWdhZGNNUmhHbzE5ZkdUMkItX2UyNW5JdVVCWWRTYmZIRzkyQzh5TGlpT1hka1JkMTRHTzlFN2lGRlNrUEIwemhNYnZNbnNsNXJQb3k0?oc=5"
-      },
-      {
-        "title": "Prezes Naczelnej Rady Lekarskiej alarmuje. \"NFZ zbankrutował\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlp1X1RqbUJwSDRnOTBpeDN5LThPektycEFIN01NOXpJYk9xaVlMd1V6VzVncm1hNHREc0ZOSWphdVMtZUpOd29NbFp5VUE5LVJHMG9oUGZFWWdwMGhPUjlNYlJNR2thTmFicl9TV181VS0wR2dCQ0JxQ3lEUS0wRDRWaERZYjNfbFJ3SFc1ZmNsdndfTjhJNDltYnhETTlJM1ZKZC1DRTBRZ2xURk95ZWg0MU8wX190RnRsY0E0VkNzUzhCZG5oV2xB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-05 09:19:33",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Pijana sędzia spowodowała kolizję. Straciła immunitet i usłyszała zarzuty - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0VaNEZWVGtFMWtlUlozUHFJeUhVZWdweWpkZ2MtaDQ0NG11cmNZdGpGTXJjTW44OHYxeTNDZ29GbEdvdE5WSUFvY0JsNXUyUVVFcExYdHhsbjUzbi1hOW9HOEFLcGZFZXUtODhyRV9pb01VYjdQOUpZRGJueFFpX05kYVRYUnlFbmZrYnpoX215X2NQMjdmdUh5ekRzZk1pMjU3WnRaMnZ1WVdmY3RPa0k3azlWYnhHakRWZFB4dnA2VWFpaXJxNnJybHZEVnQ4d1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 14:23:51",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6818,
+      "EUR": 4.2483,
+      "GBP": 4.8227,
+      "CHF": 4.5556,
+      "JPY": 0.023987,
+      "AUD": 2.3868,
+      "CAD": 2.6085,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 368219,
+      "DOGECOIN": 0.595187,
+      "ETHEREUM": 11889.24,
+      "LITECOIN": 320.69,
+      "RIPPLE": 8.03
+    },
+    "indices": {
+      "^WIG20": 2969.68,
+      "^WIG30": 3834.08,
+      "^WIG": 3834.08,
+      "^NCINDEX": 270.32
+    },
+    "news": [
+      {
+        "title": "Donald Tusk ostro o ruchu prezydenta Nawrockiego. \"Dalszy ciąg wojny\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUNjY0pYb2ZDeldVRGJ2UUgtU2xJajhxQWZFV29aQUx2SU5iU1Z3YW5IcmRiX2xTTThwblMzcUROOWZKUGYyU05NWUtYSFUyczJ0Tzk2Y2tXWHV5dkoxLW1sS3dCNjR6dkZ4RkY3dlZtZ3lPRHNJTHVodWk0dHlkV1hpLUtaUTV1cWkyMGhHZ1pXOTF2YXpGbFVVUTRRREhkenFvVVljNF92Zw?oc=5"
+      },
+      {
+        "title": "Od \"szeryfa\" do \"miękiszona\". \"Ta sprawa jest dużo poważniejsza niż wojna polsko-polska\" - Wydarzenia Interia",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnVIaGwtVU1NQVhaY0p6MWUwU0lfS3EyNmh6X3VMb1dhc2Rzc0s4eVVaOTdoVWh6UVByWkdQRHF4bk1vV1J1M3pIR1RkZ0cyVm1ySG5Iam9kQ1Zxenc1MkJpMDdabmppZmZIb2ZNUzRmaHl6QlpCa2w4LUhEbldMYjM5UXVsaWdOWHg5OGdvWVd4VDBSRmQ4U2swbTlVQnJrUTlxU2xZSQ?oc=5"
+      },
+      {
+        "title": "Ruszyły zapisy na szkolenia wojskowe. Polacy pytają o jedno - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWkJXM2NXRjMyaW1Ed1FENExGYnJ0WHpfcDJ5WDREZkQtaVlVRHhwTFFkUi1Va0l2d1ZQQ0hsWnVWVWw3REpBdEJjUVVKcXRrU2dQWkgtLTNZM1F2M3JObG8zM2NSQTdHNzd5TGpNR3BzbDN4di1IQS14cnVWSW82OTZYUGlVb01URmYzYkYzbDBaa0xIYmFZRFJLa29La0pRMXpKRVo1Q3JlaDlORmRNS3lGVTJHMjl2Sm1KY3h3?oc=5"
+      },
+      {
+        "title": "Minister rolnictwa o możliwych dymisjach w KOWR. \"Nie ma świętych krów\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNam1rdUdOSmFXN2wyWjFyV1Q1akRyMVQ2YlpsdGJBWURGd0h4cUlxWVZMMElldDJSNy1OTGo4cnpkNVl6M204RnpRcnN6Nm1aQ20waDBCVTYzUEVIcnZKMnFXSVZKUE10d01HanY5RmRpYlJBclk4ZUpJSVNTbXJsSnhoaE9ka2pUUklWcXZXY3JrelFnSnJYRndoS25TYjUwazdHdC1VT196YWlwMXQyRWZpT25aMWdpNnR5RktsSktJc281VUZLRWl1dkpRNm1T?oc=5"
+      },
+      {
+        "title": "\"To powinno zostać uproszczone\". Prezydencki minister pokazał swój rachunek za prąd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1dia2JiYVNTemNwSVBTTHV0eG1MQjZIUllIN2lmNk9XMmhxZURKWmdDa3JVQS00NFYxY2dUV3pmaDlsVlNXbGowTG4wU0VNWEdRVUw1MWdOY3RrdmdNNFd3c3g0QUkxdXFXVGJDSE9tZEQzWHU2VTN5MEY4eVVfaUJJNi1tdjBfQU45dDN0bDU4VkxFamZhVlRET1VhdmxiUmJnVk1kZTk1VEJWMGJEQ2paWE4zRXRZSk9VZHk4VDF6VFpFcjRZVGsyNzZOWlNr?oc=5"
       }
     ]
   }
