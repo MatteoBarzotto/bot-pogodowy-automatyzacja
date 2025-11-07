@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 11:16:28",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 377496,
-      "DOGECOIN": 0.60509,
-      "ETHEREUM": 12212.99,
-      "LITECOIN": 320.09,
-      "RIPPLE": 8.27
-    },
-    "indices": {
-      "^WIG30": 3832.28,
-      "^WIG": 3832.28,
-      "^NCINDEX": 272.39
-    },
-    "news": [
-      {
-        "title": "Przełom w sprawie działki pod CPK. \"Zostanie zwrócona\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHZyakozaVJrN0lWNWlNQUxRMDVXeVp3Nk9jS3hoLXE0ZjRxdGxPTDRicHNQd3N0TXZ0Q3VlRTJNeUxpM2JxUXhDR2VmNjRoWFpFbWwwTGVlUFdQT05nemxNOHdVQmNVeEJ2ZGpkUUtSb0tMREowNURDUGR6TmF6RXBiQVFSOUN5Z1ZnY2F1aHNpakVLS1E?oc=5"
-      },
-      {
-        "title": "\"Człowiek walczący o życie\". Czarnek ujawnia stan zdrowia Ziobry - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZU50eEZERkNsRzl2OWpLYXpiUXdZMHFqaU82YnBjek9lQnY3MVNldU9yMTF1Nzc2S1ZJZVFUU0xwM1AxSmpOVllUS1Vrb1BTeVVTcWtkUnIzcTZTOWktSHJIY1Fxd2xxSk9CRVpkRTNMQVVMbXljT1NIV3VLMVpobWItaXRLbHRuLVVZNUdiQ1NKNnBEUkdQUUV5blVtNlRJaWYwRHlUdWZJMGYz?oc=5"
-      },
-      {
-        "title": "Nowy cel klimatyczny UE. Jest zielone światło - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJnbjN1b2dVNWtSWk40b25nai05WFNaNHJWQm1HcEluc1gzcS00RnN1TmNQRU1xeEdSVHg5amhjZk9SdGFDSUQtSTJyNGRlQU52bWFZTkdxell3Q1lneEU5Z29jMFM3MnljZ040cnJ6ZHVkR1p5akcyQ2ZRQXpKSktDdHUtOEhqSE1HRVFUaDA5QTRLNlVKZVdMXzhPTjFU?oc=5"
-      },
-      {
-        "title": "Katastrofa samolotu UPS. Wszystko widać na nagraniu [WIDEO] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEV2YTRzQ09zaEhzM0JCcXV0RzFSdWJENXhoV0kzTHN2azBYck1OVEYxOENwTThLZ2F5TlBtYS1lYmVJNFFJWDR3MnlhbFlBbm1uRTltQWQyQ2N3STN1NFNlMGVLbklxam5pTmZZN2pUYmZlY3IzMUFrODBXR3dXLXJ0LWo2WVBfd3lia0VMeXVmTlF0eHgxaW1Sb2JDdnc?oc=5"
-      },
-      {
-        "title": "Zohran Mamdani nowym burmistrzem Nowego Jorku. Demokraci wygrali kluczowe wybory w USA tym programem - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUnQ0TmVNS0tFYzJPUEF0TW4wejk1bjRBbjhzdUZJeFpkS0FpX2psTnBKaXdES056d24zSTZGMkwxbFlXNkZTNlV1ZUI5ZmFrcUFsV2xPSjNEWFp0VXpib2FTd0paLTJ5SW5TV2Y4X2pqLWViSmMzTWNRNzR6ZndjZExmU0Q4b0p5U2xWOGFFZWVKaV9ybDg0NllNeVhLeU1qdEowNXhNSlVGa3o2Z1RfUEVJb0Q4cTBzOVZLOW1qQkxiY3JXN2Z1ajhyN0pwZ2JCQ3k3cS1idFVsX2xCVWRadl90RE9uV0ZiYlE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-05 12:13:03",
     "weather": {
       "Warsaw": "Warsaw: +12°C",
@@ -2645,6 +2593,59 @@
       {
         "title": "\"Mijanka\" na prawicy coraz bliżej. Nowy sondaż wyborczy - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTJRTVJIT1ZkWDY1Wmh4bjZ5S2FYZTRIM3V2alV6bVdMaWhpV2NrVk9fTHZEQkEtZlBZOFpiRUpCRGgwcHVEZ2l3dmtjWUVUUkdrRnFodDFPQlBXU280QzZXSjNTZFBfUWZvY3FLRjRURnJKalZ3VldRSi16Mk9Wc1p3LUVNcDEtdVZUalAyMC1hakxad1FqWURxdjZ3RE1xRnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 17:15:05",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6818,
+      "EUR": 4.2483,
+      "GBP": 4.8227,
+      "CHF": 4.5556,
+      "JPY": 0.023987,
+      "AUD": 2.3868,
+      "CAD": 2.6085,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 368451,
+      "DOGECOIN": 0.61909,
+      "ETHEREUM": 12019.32,
+      "LITECOIN": 342.26,
+      "RIPPLE": 8.09
+    },
+    "indices": {
+      "^WIG20": 2970.61,
+      "^WIG30": 3833.96,
+      "^WIG": 3833.96,
+      "^NCINDEX": 271.63
+    },
+    "news": [
+      {
+        "title": "Ostre słowa Karola Nawrockiego do Donalda Tuska. \"Nie jest królem\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm01WXhvSUdhOFZhLWxIbThjem1UZVpoOXZZR0U2MW9KQTlGeFRubFVvMU5oQlF2R2F5bnFaS0FlQ0taS09oaU5nYzBoRjFyVWdNRE1ad09SZVEwSUNVSVZfOHp1OFo1d1JMYVBmYVpQZTJVZkdudDZZc1c4cnY0dFVkVnZsVFpFN1R3YzFSSkp3TGRWQWh1dnQwX2V2LTJNb0RnUTBtSUx6d0FmS1ZXckR0anVZT3NtR1ZqcDgtX2dlVnZR?oc=5"
+      },
+      {
+        "title": "Dodatkowe wsparcie dla NFZ. Ministerstwo ogłasza - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWpWVDVDTnhLTHJ5S1dKSVZfVXVSRS05dm1fT1doU1ZvWEVJZjZmWUZEeENoM3pyb0J1SDRxWmZvQXFqZTZPMGVjVDVTMkZhRHlFbWE1dXZfMk52ZXVKU3EzZGNaQllKcG14bm5LNTRpT1RVeUZyYkYxd1ZxdlN4ME52c1psNUY3dnZNVjIzbmk2R0Q4QTdsLUpZZ1YzUTBpLUZueUIxdkstd0tjVDRtdWUwVEVGWEMtMjA1R1haOHpxeXZG?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro straci immunitet? Sądny dzień dla byłego ministra - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRlFhRF8zNl9YY3Vsb3JLOXRLdEtFM1NfYnhROVZQSlA5d2RqM1BSUXM2T09hQ2lwNmM3a2FpMm5IZ1licm4yZjNORTFyNmdidXNUdURfemI5WWRLRVdRNUZvTWFfWkFMZ2ZGLWZPYUloNmhwNWUtVUpUeEZiYnA0aEF3ZWlub3M5SzhYUlJGTU1CWUlzUndpV0RBNFE4NlpmSThtRUMyVjR0Vjl6S0REUUIzaFNTbEFIdmQxN19hdnpFdmtOYlAxVWFMQ01wZw?oc=5"
+      },
+      {
+        "title": "Najnowszy sondaż partyjny CBOS pełen zaskoczeń, choć lider bez zmian - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0NqUUhfcGFxN1NsVzJ1a0JIeTV4emtaOW0wYmQzZkxiblVqZU5rYUJvZXNma1JMV3lEMEpmU0xQZWRMd0kxektDY1p1ekNBZ2gybXM5TDZBM1doMWUyVFdMVERMUlpPUG12cWs2eC11cDA2TG9qdkphQlVPLWgzQTF2emhLNVVscUVrWWxmNVc2VmlTTHRPZnRsLWVfN2xOWFdJVnNSa3lDZw?oc=5"
+      },
+      {
+        "title": "Kaczyński uderza w rząd w sprawie szpitali. Ostre słowa prezesa PiS - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM01fb3FEUmZwUHplcENRTkU2d3B2MXAtbWNrMGpZOWllX3pzUmxxN2pzSzZ6YUIwZENKMm1ySWh4eElYUEs4cEZzc1N5VWc1ZW1FTzFKbjJqcl80NUFWdHoyUmpWRThJeVpCSmdkNmtTcmtON2xWbE9FeHFNTGRNN3Z3Ukg4ZFdFeVpPeENIMGRhY0hDUzhqNXdTeHRqZjllb2VDbmhBbnh3U3lfRG8zag?oc=5"
       }
     ]
   }
