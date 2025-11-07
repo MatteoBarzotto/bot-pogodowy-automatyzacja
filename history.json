@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 21:16:33",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.7019,
-      "EUR": 4.2575,
-      "GBP": 4.8359,
-      "CHF": 4.5775,
-      "JPY": 0.024118,
-      "AUD": 2.4042,
-      "CAD": 2.6309,
-      "CNY": 0.5196
-    },
-    "crypto": {
-      "BITCOIN": 372423,
-      "DOGECOIN": 0.579537,
-      "ETHEREUM": 11955.97,
-      "LITECOIN": 307.4,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 2978.38,
-      "^WIG30": 3850.16,
-      "^WIG": 3850.16,
-      "^NCINDEX": 273.07
-    },
-    "news": [
-      {
-        "title": "\"Pamiętasz, jak trzymali mi pistolet przy głowie?\" Włodzimierz Czarzasty zwrócił się do Zbigniewa Ziobry - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWVTT3dCYml4djJadTNtdGlGb0hIS1NDLVFTeV9Eb1JCX29hb3JUUlI2OS1fYTVnTGVua01OcjdwdXNRbEJqNElKVERJNncyQ1kwV0g5YXd1RzBHM1B4anpzZWVqaU9wU0EzWE1wMmNuTlpERUNGR2VRdExhS2dDTDFfT3llM2drbXJOOUI5WGJZUUZHYXFDZEtCeFVMWldFMVU2N29wcUwyWllaWXUzX18tbkY?oc=5"
-      },
-      {
-        "title": "\"Lecą głowy w KOWR\". To pokłosie afery z działką pod CPK - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTE3aW81ckNITEt1bEF0STlqU2lZMUhaYjUybC1pQ04xRVRNWVl4UUxXeTBfeFRHWG9iTk04VGJGZjlGbjBNV0pBZWZBMk05TFJvbXoxSVpsVDBHaklCUWlWc1V0YVltLXhlWmtVYk9KY2pFNFVrWWk0c0liczhkX1ZwVkdIQUtoeVpfNXZRZnZzTUtTOGQ0TWpuV3k2bVI4M0RiejNR?oc=5"
-      },
-      {
-        "title": "Wszystkie loty wstrzymane. Drony nad lotniskiem w Brukseli - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVZGVVlkSkVPSEZBeGlJTmhtT2tfUmNFYXV0R3M2eVZNaEZnZ3ZzckdVM3VpQjZNaFI5Mk5OWnEwdE5fSEJuTnBneTFsNEYzVmdHd2RqMXQzMTNKMTU1N1JFXzJkSTFwN2Nua0pkaU5fZF9Qai1nR3ZEVlR3V0xQYWs0OW5nZEdFelYzYmN2WUZqNG1IM1RDNjNCeGx1MU1hTE9OWndVclF6Wnc?oc=5"
-      },
-      {
-        "title": "Kolejny zwrot w sprawie sędziego Iwańca. Waldemar Żurek podjął decyzję - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTQtSy05S0VYbFBPMlZuSTdDc0lnUzBUQzczMm1KLU9rS0RYc0I4Q2t0Rk1LVkFQVk5kYUZiTXdmb3VZeTBiYXlYd3JIMXRxVEtnSjh5T3Baa1l1VHhlbEptRF9PcC1XckxDUVBPOVUwNjRVSFRaeU96SzJkaUVzREllVTAydFBMdXJJQjRSVy1wZENtU2FPRGhIMWJvMVlTZ2RoOGlGNmx1UXZHa25vS1RsOFZrdHk2NU1yQ2lFRkMxOXdtMjN2TS1YZUE?oc=5"
-      },
-      {
-        "title": "Prezes Jarosław Kaczyński zasiadł na ławie oskarżonych. A chciał zeznawać jako świadek - Bydgoszcz.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1o3ZlcyU0NVRXU4LU9fQVItOGF2eEhfRnBweHpCa01FMmdyVGlBQ2NadkRYMjEwOTdscWpCUHpjbUJJTnpsUnNKM0ZjNHJyUl9MOXpvZ2RKdWdKdFVrTi1PR0ExbTNxbFMzTk0tYlhDYTFtQzhkaEpNQlI2anBsNnc2ejVkZzNKc0trbDhQS05wYUhsTk9YekJYZERiblhSMDYtZ1BFUFJFNlE3Y3Bwa3JNdDM3emFyUm1jV1ZOb1dLUXM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-04 22:13:11",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2617,6 +2564,59 @@
       "ETHEREUM": 12354.54,
       "LITECOIN": 326.86,
       "RIPPLE": 8.19
+    },
+    "indices": {
+      "^WIG20": 3006.58,
+      "^WIG30": 3881.32,
+      "^WIG": 3881.32,
+      "^NCINDEX": 272.6
+    },
+    "news": [
+      {
+        "title": "\"Tego jeszcze w historii nie było\". Poseł KO przedstawił sprawozdanie komisji w sprawie Ziobry - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVp4anVDOVJ6eDhKd3AtUW8xUTF4Tnlkb0I1enJla1BNVVcwbG5wVFFzZks4LXIwT2R2NTVUUFhxbVNYbWJmdFBBdWdVLTdwbGF5bW10X0s4R3Z0SVNSekVyRDh3YVNxMjlCYlB5ZUZDVDdzei1lUTZNaEdhV2p6T0M4aU1FdS1xUWJGQzE2REhIYkk5OWxxSUxnNzlXazA0dWhFaXI5c0J1ZkZYdzc3b21yUVFaalN4NWxjdmRSb1BkWHlXakpaUG1TSQ?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek na A1. Sebastian M. obciąża ofiary - Bankier.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmt4Z1J4N2JyMUQ1Ny1SdFhIQkxzdHNNSG5rb09YMVZSckJvV0tEN2Q0QjUyWjJBNXFNRlpWdW84eEJjTlRCbmZaRXF1S09ZRWZVMU9wRkNKM3RZcnNzUUFFMHZPX0tsMUQwajR3UDFiVmNEQ096UkRIeGNuVzVzM21hUVYxWEN6alp4eXdfM1hTNy1HdTB1dnd6b3prVWNwelVEVjRKOEQ3VV9wZktZTEhXSWVxekV6V2h2YkxlR1BmYnJnMWhsU3hmcTXSAcsBQVVfeXFMTS1HeFhrMXZ1Tl9jLVZuWFFBbXBUZGVEbFBpSlhRcHFSa1JldFByOUlzc285YURuQ3Ztam0taDhoSjM1TnBtTlotUkZvaHBfX3gydGdXQmpFc0UzdnozbnNIcUNaUlBwNnF6Q3hxUjZrTW1BSUtGblZCNHh0N25rb1ktZ2pvSmhWRldJOGM2QkdTSHNtYXByZzNyYjMyVHozUy16TFV6aExIUERfMUJpbDRDS05TN20zSHd5QWRHOUE1WWNuN1o0V2VsQVE?oc=5"
+      },
+      {
+        "title": "Opieka zdrowotna, armatorzy i ubezpieczenia. Dwa podpisy, jedno weto Nawrockiego - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzdwVEZHYXpobVRyNXhyVk5LSEhuZzVkT01HUElNZVlEUFg4T2QtbElFdm9uR0dOdkRFRTBfcExKQUtPdUJVeUdVaFE4V1ViVS1FMmZJVndtMzl3bzdPclpfTFJzY3VJVjJSbmhCdUFWcWplX2hDWkl5WG9MSjlNc2FHbUZLV24yQ05zY1lUQnRDUFdFaHdJNGxRa1lVUHFUdFBMM0JqVjJTLWM?oc=5"
+      },
+      {
+        "title": "Zembaczyński: Ziobro jest nowoczesną formą zdrajcy. W PiS mówią o \"wyroku śmierci\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2VnYjBtbTV6WGRIMUlCX1hCdWxVTVJtNlpESUN2bW1WQzdNVGVvRmd2NmZ6N3REUGZtZjRjdjNfSFZTN2pGWUZqRGVvSlVPQ1BlNmR1UlJ1bXNOZHNzNnlZbVEybnozdktEOTRxMF9UNmdzbEc0U3hwdzNtSkVjLWx5a1gxZFE4RjBZemFqdjU2V2dxUzQzTjM2aE9JRlFQUE15b3FvQ2pnTG5uZHdma1NlQ3RnaWM1ay1yOGJ3?oc=5"
+      },
+      {
+        "title": "Donald Trump ogłasza porozumienie ws. obniżenia cen leków na otyłość - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalFqLWVSVnBBUjAxaEsxYVpWc1Nja1pKYWFXYld0dGw4Qkl1ajUxTzAzSi1WUjM4Yjg0YUZBYzY2RW4yN1pFa0MtckRfYTkzYXZNbklNUEtPRmZaU0NzVlRXd2N4SVNQOGdCZUM5dWpDY2JtQTFNOGtjZG9mVlBxUDFfMXg3YlNuWDRzY3lUeEdyTTF5VUhsZnNrbmxKNVJadTRBRHQ1V3drQ0QyOEwtTHZUZ3g1MlpLYzVkeENrbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-07 05:17:05",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6971,
+      "EUR": 4.2566,
+      "GBP": 4.8359,
+      "CHF": 4.5706,
+      "JPY": 0.024051,
+      "AUD": 2.4081,
+      "CAD": 2.6225,
+      "CNY": 0.5191
+    },
+    "crypto": {
+      "BITCOIN": 374230,
+      "DOGECOIN": 0.603786,
+      "ETHEREUM": 12268.07,
+      "LITECOIN": 326.27,
+      "RIPPLE": 8.17
     },
     "indices": {
       "^WIG20": 3006.58,
