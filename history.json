@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-07 07:21:48",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6971,
-      "EUR": 4.2566,
-      "GBP": 4.8359,
-      "CHF": 4.5706,
-      "JPY": 0.024051,
-      "AUD": 2.4081,
-      "CAD": 2.6225,
-      "CNY": 0.5191
-    },
-    "crypto": {
-      "BITCOIN": 376954,
-      "DOGECOIN": 0.611352,
-      "ETHEREUM": 12394.23,
-      "LITECOIN": 331.72,
-      "RIPPLE": 8.23
-    },
-    "indices": {
-      "^WIG20": 3006.58,
-      "^WIG30": 3881.32,
-      "^WIG": 3881.32,
-      "^NCINDEX": 272.6
-    },
-    "news": [
-      {
-        "title": "Sprawa immunitetu Zbigniewa Ziobry. Wszystko, co musisz wiedzieć. Podsumowanie nocy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbENHVjE4LXRsbnlFNnYwNElTZmZVX0d5WWhPM2VMSUU2blVOdEZhc0FaU3NneEFyVXRNVEgxUEdnbHhzd29XXzU5d1hxUldPdEVsQmJrYVctbWFkcE9CMmJRSlJPdXJCVWEtejBHa3hMdFBFYUVTMkZWWmoyT29WVko2OVdxN2JWRzlJaFNIa0lzRjQtTTRJQWY2dS0yaS1CaFR6WWxLVHpraUlnT05zc2JfaHBSMDRHYjVyUkkxc0xTRWhTVWJXUWotSlcxak5h?oc=5"
-      },
-      {
-        "title": "Rusza program „wGotowości”. Jak się do niego zgłosić? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjlQeXI5Q3NKN2Rqak1Ud3lNMVFpdlYxQnQ5c1RNSVh1Y09UZmk0S1dGZk5rWWlPNjBsMU8wbUVxcm5IS2VpSG9Od0JMUjQtanYtRXl1UkNkalE0c3I2U2dqTHlCZ2J5ajFhQUNvc1RzQ0hRUjd3ZWhSVW5ocWFtWnI1YnhKWHdBMDdDb05WM2I2VHQwanlHVjVVY1NLbmJVTmhqc2xWRXMzN1VWRXZRTnFzdk9saXZ0MnpfVlFn?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki zawetował ustawę dot. firm ubezpieczeniowych - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkw2aXBlbDE4ZlV2NjhNTENmdEpQMlJyaUVBV25SeUMwbEdrOS1QVHhyLVJFUDlJNUVKREdKcTQtOVV2U0pUZE5ibS1JZ3hTc0t2MmNPeXZPMDZaQ09kS2ItYXpxMGZMY1hJZ1dlQ3NnUmZEdlgwREd1eHpXSkZHX2phcWJuLWdwSkFkeTlJQUEtOGFFV3RBWFZzYTZlZ9IBmgFBVV95cUxQOWZuUXVPaVdqRnRyd3VHT2YzS1c1cXhrTjczVmhSSHlSVmxWWU5WZWZ6bWpVZmRJZXVXZkFBbDV5a3RsU0lrWnc4ek9lRlBTRlB6Vml3VE9jUUtUbkxNNm5lSVhYMFRhR1Yzd0IxZi10UWxQdmUtRGZ2UVk3RmhTRUtmVE5CZnlkd3M4UkQzaldXSHhlTzUyUW13?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek na A1. Sebastian M. obciąża ofiary - Bankier.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmt4Z1J4N2JyMUQ1Ny1SdFhIQkxzdHNNSG5rb09YMVZSckJvV0tEN2Q0QjUyWjJBNXFNRlpWdW84eEJjTlRCbmZaRXF1S09ZRWZVMU9wRkNKM3RZcnNzUUFFMHZPX0tsMUQwajR3UDFiVmNEQ096UkRIeGNuVzVzM21hUVYxWEN6alp4eXdfM1hTNy1HdTB1dnd6b3prVWNwelVEVjRKOEQ3VV9wZktZTEhXSWVxekV6V2h2YkxlR1BmYnJnMWhsU3hmcTXSAcsBQVVfeXFMTS1HeFhrMXZ1Tl9jLVZuWFFBbXBUZGVEbFBpSlhRcHFSa1JldFByOUlzc285YURuQ3Ztam0taDhoSjM1TnBtTlotUkZvaHBfX3gydGdXQmpFc0UzdnozbnNIcUNaUlBwNnF6Q3hxUjZrTW1BSUtGblZCNHh0N25rb1ktZ2pvSmhWRldJOGM2QkdTSHNtYXByZzNyYjMyVHozUy16TFV6aExIUERfMUJpbDRDS05TN20zSHd5QWRHOUE1WWNuN1o0V2VsQVE?oc=5"
-      },
-      {
-        "title": "Matecki mówił o \"odstrzeleniu\" polskich funkcjonariuszy. Ruch posłów KO - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDNxX2l2aWRpSi03QW8way00aDQxR0lUZWFISDNlQmRub0YtQzAxM2lLanJyT1M1OWEteU40eHJpd0lEb1pqTE9pR1dGWGtUOE1LRGlhdjdESnhkanZUVDhzNGJmOFJLb0lFY2lEd1g1TUxlSmh4bDIyWnI5SGh4dnFFTmxYbEpaMWdfaEJhUG1IYTAySVdaMnBiVTV3c0dINWdkSFpmQVJ4Z2o2dU56a1QyZllCRFQ1?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-07 08:14:10",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Prezydent Syrii dotarł do USA. Spotka się z Trumpem - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0FsZkNHUTBsSGZhVUl1MWhGZ28wSzcwcGtoUmhfYTg1X0dOckxzWXFMbkUwdFQ5bWRQcWg3Qnh5VDgzN3BRWWpfbHdTazE1aEJTWkYtdzFIQkVhd1Rya3d0X0o0UGRlOURDbmE5bWtMeVNrRW5jcHEyV09zSjhFOThveEJKSUI1YWVBN19kelVLTFpITWtqQ25ZSG5md0RVcnlsX3pSVEtaX0U?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-09 12:10:26",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6818,
+      "EUR": 4.2483,
+      "GBP": 4.8227,
+      "CHF": 4.5556,
+      "JPY": 0.023987,
+      "AUD": 2.3868,
+      "CAD": 2.6085,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 373991,
+      "DOGECOIN": 0.64154,
+      "ETHEREUM": 12527.85,
+      "LITECOIN": 387.64,
+      "RIPPLE": 8.33
+    },
+    "indices": {
+      "^WIG20": 2970.61,
+      "^WIG30": 3833.96,
+      "^WIG": 3833.96,
+      "^NCINDEX": 272.07
+    },
+    "news": [
+      {
+        "title": "Żaden nie kryje niechęci. Co myślą Polacy? Wskazali \"lepszego\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGdER3BVTm9PWXdiVlZNVkZnTk56Y0tsYWpnNGpvOGhDUXZmZ2d1cDBpeGhqbm1PRmMySlA2ZE1Yd1J6c1pRalEtR0FhQjlCQnZoSm5FNWJiSmxENS1qWnhxRmQ0TUd4aUEyVVE0Tmw3NDhweTQ1RlEtNVYyeDBTUUphVHBEMWt6bWh0eWNScWk5eGo0TFRHdFQ0SS11WWdyOXVJ?oc=5"
+      },
+      {
+        "title": "Nowe informacje o podejrzanym o wysadzenie Nord Stream. \"Jest w stanie krytycznym\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMFZOR0hOc2dIVlN5UnFRQjlHdUhvUmwxWkc4ZW9sY01RUmRRQkREbHpMRnBNTHcxM29vU3pXVU5ydk9KNXY1LWJHWXFwSktNYk4zTEg3MHRNcV9GaWh4cTkzMUt4TXVTbXp4OVBXbzZhaDBJY0JRdHJob3Jlal84dlpENmhsUm9HTDVfRFhaLU9vaGJxekpGWW16bWJDVmVNLUlGUHZtUDJlNnNTbUx3VXBxaV93VEwzMnJMemJzbkxmcFlGQk5oVU1EZktXTm9EWWRjWkxZS3VLUQ?oc=5"
+      },
+      {
+        "title": "Kaczyński wzywa do protestu w obronie Obajtka. Gigant reaguje - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZktlR012OE1wY0pGeV9fN2hRSm03RHpJdU1peW9nQ0xhUVA3MElId2YzOWJpZDFTNWo1aXl2S3Z1Smc1a2pGMXdOUjNKLTh4ejBOZEQxa2k3UW9HSE1rMEZTSlF3UDN2ZjV0cmJtTUpVejNRQU84VnBERkZyTWdaQVptUzNFN0dOaFhreU44WE5tMmVqMl9aeXprMzRvakItYjdJbDU1d2t6Vno1dHJUS25sejlWUQ?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Ziobro ucieka przed odsiadką. Spór na linii Nawrocki-Tusk - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEVzcEo5THZkZmVCdUhScHdlS0ZlQ3g2b3hhbUdxOEk3bzh2QThrYjNiSE14UmktM2Jtd0p1V2tfOTNlc2ZzeUtLSHUycDd2X3dWUWlLUmllek9mSzJLN2Z4Zk5fcDU2dzJVeXBYV0QyNi1CRXNqTVZlRWxaMmp2MExtS2s3QVJ5S1hYX2FyTUc0RDJqMDlFRlVwU3h0OXQ2UTZNRlRqVzhVV2luUFBTUlZRN1Z4RnZBS1c1bld3?oc=5"
+      },
+      {
+        "title": "Mężczyzna mógł zostać przejechany. Apel policji po nocnej tragedii - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWExbkRBR1diLTdOY1U5M3FhZjhhN1JTT1k2UWxoM1M1dzdlZkpJaUhTb2c2MWExVVdDb2k5b1VWMWNIdkg1azZkN3dCODVoUWl0YWFXY3VHeFdmdUhtYl9hOXdVbDlCeXB2VXVRc2tEOTVGQXB4YmtLM1pTOXhIbE84SVNnOWZYUnNxT25xXzlScTl6RGJYU3VXU3hmeXU5ZF96QjFXdHY5TXRfUFBxYXIyQlU?oc=5"
       }
     ]
   }
