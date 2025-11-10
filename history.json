@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-08 10:13:06",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.6818,
-      "EUR": 4.2483,
-      "GBP": 4.8227,
-      "CHF": 4.5556,
-      "JPY": 0.023987,
-      "AUD": 2.3868,
-      "CAD": 2.6085,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 374709,
-      "DOGECOIN": 0.661372,
-      "ETHEREUM": 12645.65,
-      "LITECOIN": 364.77,
-      "RIPPLE": 8.49
-    },
-    "indices": {
-      "^WIG20": 2970.61,
-      "^WIG30": 3833.96,
-      "^WIG": 3833.96,
-      "^NCINDEX": 272.07
-    },
-    "news": [
-      {
-        "title": "\"Zbigniew Ziobro się nie ukrywa\". Jego obrońca zapewnia - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNm1INGZGNGVFSVFHOVZyeG9oSWtkUHRnUTV4dUhfNGNZUkEta0hla1F4d2o4VEx4X0hoUTlRdnpyVkhSWjdPdjNXalc1NTZTdlFDUmJIU1Z3T1A2T3ZKcjRKTkIwNU9XZTZEM0tacXkyekQ4VXVOZks4SHVrQ2hYSWpFdGhIMmR1SkFoUGRuZU1yaVZndEMyOA?oc=5"
-      },
-      {
-        "title": "Wypadek na drodze ekspresowej. Przejaz zablokowany - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTdhU0tndTBicGx5UFpEcDZsNnRmdGZ5SFlIbWJQV19xRVBrQ2t6TjFnVzNvczF0UTh0dXBqaFFBdElUbFVCbnY0RFI4SWVMeV9LeXpndENvNFFYV2FFOHVnMk9WOUtCck1qOFdFUHU2QmtfU25rUjZBYjRzTkJTU2dYR2xMcDdLQ3JTNzZRUVJwZ0hjWWpmN1Q2YmZkTWtReEFrbmZTUWdVV1RFdS1N?oc=5"
-      },
-      {
-        "title": "\"Trzeba jeszcze umieć rządzić\". Nawrocki odpowiedział Tuskowi - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYUxEUVpEUTM2bnVKM29pQmppSVNvNWM1QmFHT05FZ2FWMWxPWGJMSmVCam51bUt0emNqb1U1VmpWSnFSWVdNaURYOVhXTjZ2TkxnNk90V3ZSamN0Ukc1MGdaRlFWV01mTzJKTWV2aElzNzQ4bm45N1NyNzV5NGNkdzIwSUctR254M2JyZmlqdjh1bUloR3V6bmltcEN3Y2Q5bElvMVFNei1CbWxpajRWM08xTENUeVRTanBDN29XQUNEeTB3SFFoVg?oc=5"
-      },
-      {
-        "title": "Pół Polski tonie w gęstej mgle. Wiemy, kiedy pogoda się poprawi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXNnaUp5Q2lncGVLd0xaZ0VQT1dNaVBlUHNGaVFjcFpaVGlzX0k4U2hCMFkzZWU3dTk4RmVySHBMbkJtbV9oVG5rM2NISUJES2R5Rl9oSU5PTmhCSXBxN0xOOU4xLS1TLS1tLXBoeXNMS0toc2Zib19sTk5GODUzSE5GZjlOTTJ2ZlYzT2Zwb045ZG9qRHp0NU5DVzlMcFExMmtvYTJhQUNrMnlNZ3NCejd0RHFLNjdpNnJqYQ?oc=5"
-      },
-      {
-        "title": "Setki lotów odwołanych w USA. Paraliż budżetowy uderza w podróżnych - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGpESTVUVXQtcHQzcGk4WmtSRkgxeDduQVMyOWZFeEpDT1M5QUdZcUJhTWhkdGthYTFpMExPNS1XQThoeEEtY29rY1MxdGdzdnN3NjhESnc2RW9SbzJJWDhKSl9IWC1FMDJ3YVpkUnFCVGhPczlRMnpNWnoxYWloWWlaQUxYc1l1eHFYVm0wOUt0ZEhXc01oOXUtWFJmc3RFX2hiS3hZN0dSRFdpdk5vWEdhVlhmVW5rUTZuZ3JB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-08 11:13:23",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Znaleźli polską flagę w koszu na śmieci. Sprawcy może grozić więzienie - Onet",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkU2c2tJTWhyWjBjVTFPd3I5YlFfOWdTcW1fUHFmQ09FWVUzeXgzWDFQTGNxRFdCQTdWT0lHUTM1eURqV0hYUzF3V003cm0wZFotcHhSX2ZhSkExNmw2UVZ3VldadFhkUFVvbTByRGFKX1Z4ek90OGRvaS1YOFZvQ3RxUnFyRGlUenFTLXJlcXJNcXlnM3gxQkZzV2xDMHNKSTN5S1hFZjlTMi1WTklNU3ZOVDdaTDg0cFFqZzJaNnVDc3RhbjROUDZadw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-10 16:16:02",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.661,
+      "EUR": 4.2351,
+      "GBP": 4.823,
+      "CHF": 4.5426,
+      "JPY": 0.023747,
+      "AUD": 2.3932,
+      "CAD": 2.6128,
+      "CNY": 0.5141
+    },
+    "crypto": {
+      "BITCOIN": 384971,
+      "DOGECOIN": 0.658359,
+      "ETHEREUM": 12939.46,
+      "LITECOIN": 394.49,
+      "RIPPLE": 9.23
+    },
+    "indices": {
+      "^WIG20": 3022.27,
+      "^WIG30": 3899.74,
+      "^WIG": 3899.74,
+      "^NCINDEX": 272.32
+    },
+    "news": [
+      {
+        "title": "Potężny wybuch w Braniewie. Ewakuowanych zostało ponad 50 osób - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckFwUjgxTF9LamRsTHdHYTdTVndnX2MzT0EyMkRlLTYwSUs2ZWxTNEVHU1JrdC10WG5icWE3WVAtb2JTM1dQOHJSZ1E4aW9WdlE5QlNTZ0k4WTFjQjhHMEgydmk3RVJVYy1jSGJRUGxBWWZfem5Mb0dSTGhIYXNkWUtEbnhtd1o3SFRFajUtUUlQTlVqb3NPYWplU0JmNXkxbGxCTTRJVVc2ZlU4cTdxLUtJMV9Jd1FOZm1hOF9R?oc=5"
+      },
+      {
+        "title": "Dlatego Kaczyński idzie na Marsz Niepodległości. \"Gardzi racami, ale nie może odpuścić\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2s3M3RBS2M5UEZCWml6NjFwWDl5bXV1cXJLLWZFaVBYNUhQV09HYklkTkozWHp3THdMTWNtYmVabW9pU2xRSG1TdmEzWVI5ODVCQ1ppS29JUERmQU83LWJVVERFcUU3SW01d1hvU1gzbGNZUl9pTmxuZ0V0ZmkxcXM3dFBwa19NcUs5QkJKdTRnMGNqZmNPOWdCcVI3b3YzYmVZLVdrNS05bEF5ZHlXdUNyNA?oc=5"
+      },
+      {
+        "title": "Francja. Sarkozy wnioskował o zwolnienie go z więzienia. Jest decyzja sądu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYS1ZblE0TlI5dFdJbzJkdVltbWZoQzI2TXJ0UU5QdzlFWUYzWGZCaWwyVThCQ3NFTUVQMUxDSkhRS2x6Ujg5ckVRcE9pN2ZzVXE2NXl5N2NjX01jTnp4VUlNYW5ULUx6ODV4NnBBdldCdE1xVDNsbmIxb1dxb3hGMnNoaklLaHFUSGVTYnJVRGJDSVc1ZEpsQko1OXdpMnRzcExLQ3lDeGVCLUtuWkJQaTJn?oc=5"
+      },
+      {
+        "title": "Ziobro oskarża Tuska o \"sądową ustawkę\". Uderza też w ministra Żurka - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUtYRG5MNTRfc0JNUlpaV213c19XOGhuaEFZY3NRUDVZZG0wUF8zYm9FXzk2aWtOOVIyMTktd1BrVDIwZzFYMTQ5NHJlRnp3ekM2cGJ6Z3N0ejhqNzc0WUNEcFdzM2M1SmlrZFJNY21iUmNpQ1FTSTBpdWYyYU1DVVZjWUhWamM4a054dXhiZTE5VVZsVFVvTTk3eGd3Q00?oc=5"
+      },
+      {
+        "title": "Afera o spotkania u Ziobry. Proponowano pieniądze z Funduszu Sprawiedliwości? Kukiz: nie zanotowałem, ale nie wykluczam - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUVjX0U1RFduVGdKRTZyUmd4STBFMlFON0RNanR1NHBfNC1HVjVHbnRQZkxPTmt0NlBwRHpKUm5NUG02TzdGN0EweG03UWtDU0JZMnE1Yk9YbGJUM0lVTDEzYnc2OC1mbS10eTB5MmJiWmR6YXN6dDJINnF4TUo1eW9JekhLMEtPTUZPVW9OT3dYUlhtZUJTU3NhUk5iVnEwQmJNU2tB?oc=5"
       }
     ]
   }
