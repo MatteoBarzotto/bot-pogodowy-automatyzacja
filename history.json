@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-09 11:13:14",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6818,
-      "EUR": 4.2483,
-      "GBP": 4.8227,
-      "CHF": 4.5556,
-      "JPY": 0.023987,
-      "AUD": 2.3868,
-      "CAD": 2.6085,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 372237,
-      "DOGECOIN": 0.633298,
-      "ETHEREUM": 12424.67,
-      "LITECOIN": 364.61,
-      "RIPPLE": 8.28
-    },
-    "indices": {
-      "^WIG20": 2970.61,
-      "^WIG30": 3833.96,
-      "^WIG": 3833.96,
-      "^NCINDEX": 272.07
-    },
-    "news": [
-      {
-        "title": "Tragiczne doniesienia z Teneryfy. Nie żyje 79-letnia turystka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRzZlVXNsS09PWXdVbDFscnNQc0hsQ09waHdWYWZ2VFAySE9SUGFadzZndGdrblFNWXZKbjlLdFRpb1dMb2Nockl2X25JQXFiN0dRQkxxWmVocjV5QW5RMGJsaFlCTU5ZSUI4ZmtaLVBqS0ZORUNpcTdRSmQ2UEZoM0VmYW8zeWNjUEFCRXV2NVFVWllxX3FDNmd1eFJrdnJQdWJQajdRVHBySFNoRmRJSlJ5NjdtQ3JRTWY3NnlzYXVwVkJhVERB?oc=5"
-      },
-      {
-        "title": "Żaden nie kryje niechęci. Co myślą Polacy? Wskazali \"lepszego\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGdER3BVTm9PWXdiVlZNVkZnTk56Y0tsYWpnNGpvOGhDUXZmZ2d1cDBpeGhqbm1PRmMySlA2ZE1Yd1J6c1pRalEtR0FhQjlCQnZoSm5FNWJiSmxENS1qWnhxRmQ0TUd4aUEyVVE0Tmw3NDhweTQ1RlEtNVYyeDBTUUphVHBEMWt6bWh0eWNScWk5eGo0TFRHdFQ0SS11WWdyOXVJ?oc=5"
-      },
-      {
-        "title": "Zablokowane awanse w ABW. Nawrocki z Cenckiewiczem nie cofną się przed niczym - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTBkLWQzZ0Q2aENVVjBVUEEyU1Z6QndpcUdkZG05X2dfTkpIYUxHRXNDLTZBd0RtNlNweEdfSzU1MlYzOUFuSnhWa2VzVko3S2lsV0ZwVFRzRGhtd09iaG5NTWtKV2xKaG4xeUhna0JrcVhRNThHaDJ5ck5Ebldtc1FtU3UwWTF6bkhYVTQ3TUw1QXB3bHAxM09keVpKU1JubXc?oc=5"
-      },
-      {
-        "title": "Kaczyński broni Obajtka i wzywa do protestu. Orlen odpowiada - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXhJaVhkeWhlM0dGdmRaa2ttbEtjVzJrei1udmthMllUazBoTi1VRjRzX1lyaHhkY202cnpRV0RfOTlqbjQwY1JSSHd6MFhzanpDOU5jWXlpQ3B2TGFTTkpfMm1oUmxqbUUyVFJ5MGg3dEVhd2FWRGhsRUJxSFNSNTYtYnNZYllvYVJSTXg3Wk1jaVV1cnJmT2FGVTdEdElhOTBNZmcyS3hZaWh0R0wtLTJJdzI?oc=5"
-      },
-      {
-        "title": "Prezydent Syrii dotarł do USA. Spotka się z Trumpem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0FsZkNHUTBsSGZhVUl1MWhGZ28wSzcwcGtoUmhfYTg1X0dOckxzWXFMbkUwdFQ5bWRQcWg3Qnh5VDgzN3BRWWpfbHdTazE1aEJTWkYtdzFIQkVhd1Rya3d0X0o0UGRlOURDbmE5bWtMeVNrRW5jcHEyV09zSjhFOThveEJKSUI1YWVBN19kelVLTFpITWtqQ25ZSG5md0RVcnlsX3pSVEtaX0U?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-09 12:10:26",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Co dalej ze Zbigniewem Ziobrą? Adam Bodnar wskazuje następny ruch prokuratury. \"Nie ma innego wyjścia\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZjFEZ3BROS00NUJWWnFfZ2ZHN05PeklseV9iNlRkd2trbm1QaHF4R3ZycHVVVGYtSnlkWVZhRF9Jc3VieGZTcXdrZ1hUY3QxeUxqaTI5TkxSVy1la08ydnE1YUpwSTVYRmVoRVhCZGNsdXJXR1Z0MzRfYXZkbnRtUlN3SXFKTUNIRDVEaHlfMmg4SnJSRENzdXE5TUdtY0JtWi11OTZpckFhMnVMa0JVY3o4bGRqOGtyWFlkRE83Y3ExeWox?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-11 17:18:03",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.661,
+      "EUR": 4.2351,
+      "GBP": 4.823,
+      "CHF": 4.5426,
+      "JPY": 0.023747,
+      "AUD": 2.3932,
+      "CAD": 2.6128,
+      "CNY": 0.5141
+    },
+    "crypto": {
+      "BITCOIN": 377834,
+      "DOGECOIN": 0.643647,
+      "ETHEREUM": 12705.22,
+      "LITECOIN": 370.06,
+      "RIPPLE": 8.89
+    },
+    "indices": {
+      "^WIG20": 3019.29,
+      "^WIG30": 3894.51,
+      "^WIG": 3894.51,
+      "^NCINDEX": 272.98
+    },
+    "news": [
+      {
+        "title": "Frekwencja na Marszu Niepodległości. Warszawski ratusz podaje dane - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGZDQlVsdlNvdERLd1FPSHlfRTFjeW5QaFcxckpIVFZpS3BIRW1iVDV6amVYajYtTjBDd3Q0SldWUW52UnZ4RnRDcUp3aV8yYkROZkdZZlZ4NElaVU1DNUZhc1FLcnlpVnA1RTZLcnVyaFdvb09EczlucmhtQm9pRDM5NGNkWm1aZ0wzV25laHQ4S1U0NnRYZmlfb1ktWFM0QzJoNW15R1BDT3ZxSXUwUWRB?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki wręczył awanse generalskie. \"Na to prezydent RP nigdy nie pozwoli\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1VxQVdobGZVNTVscERxNzJlWXhvTEFwaThwODI2Z1FDUjg3VEF5b0pYZldQU1c4NVoxeG1wNkEzbG9ENWx6S3NoNnd2czkyaEdaWVEtelppRmg3dEltU1NRSEM0YncybC1XOThPRm1HQ0tXYXN5ODA1V3RYOTYxRmk3bUwtLThNTncxT2J3S21NZURnODhxMkZBSHhVaDYwWG14Uk5jb0lBdHRPNV9Cd2J1enFqNi1ZeVE?oc=5"
+      },
+      {
+        "title": "\"Nikt nie ma monopolu na patriotyzm\". Tusk w Święto Niepodległości - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTQ5eFY2RGY1c0tsMkJZdUU0d01kcmpJekF0LUMtVFh2dGxkMjh3d2ZEcldUQmFGdVVhemN4RG1GeVk2ZlJjM1l4NEFtUTVYbEptOVZQeWRicy1BYXlQRlBBRGIwSkx0THotSFVYQnhZakVud1BwbW93OGt2MzdGRmhhVUUtVVJkbEg5QWpCR0dsYzdTZVJnWnhVZDBPaUF0ZFZDQ0h4VnJHUDd0VTRCaw?oc=5"
+      },
+      {
+        "title": "\"Pasuje jak pięść do nosa\". Mastalerek o Kaczyńskim na marszu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1hGN3dHYVkyb29TUk9Ga1BQSU92R3FubjREb0g2Z0JLWWZnNTdxbGcxSk9TR1VOa01wckVkU0Y5a2daMzFfeE56MG5BWVhIeFdUMmhtLU0wNU9pbFQySTJGcE9rcTNjUTNzX3M1dWlSeURlMlJlVV9nNjQ2eVZqYW9mZXVSZWZLcWNpeHlZQ3QtRTE3ZDZyUkJGb1BzQ0ZhUm1Z?oc=5"
+      },
+      {
+        "title": "17-latek za kierownicą. Dwie nastolatki nie żyją - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmRLaEJoZDlSdFFra3ZNUm0wUVNDMEF1emFSZnNiVXg3TlZueDMyYTFXX1QxM0JOMEpfZnFNZjF3eFFkeGpYSjF3QkZzbm1oM1FsWFVGcGRwQWdhSnNzNFdOeWJnY200SGFtOWxnT0VnZ0RSSzVfN0FGbFJLQXhuMXFLcmFFNG85dUpXc2RyekNBeDVSTWxyWEk1VW1jYkFqOWhvRzV2ZVBFMm54Z2lNbXVIWEgtYWc?oc=5"
       }
     ]
   }
