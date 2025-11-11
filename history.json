@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-09 18:10:53",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.6818,
-      "EUR": 4.2483,
-      "GBP": 4.8227,
-      "CHF": 4.5556,
-      "JPY": 0.023987,
-      "AUD": 2.3868,
-      "CAD": 2.6085,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 380087,
-      "DOGECOIN": 0.654352,
-      "ETHEREUM": 12927.58,
-      "LITECOIN": 387.57,
-      "RIPPLE": 8.51
-    },
-    "indices": {
-      "^WIG20": 2970.61,
-      "^WIG30": 3833.96,
-      "^WIG": 3833.96,
-      "^NCINDEX": 272.07
-    },
-    "news": [
-      {
-        "title": "Tragiczny finał bójki w centrum Szczecinka. Nie żyje 23-latek - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU05WTDg3NFNkcEJaS2dBSDMtREFIR0Z6T21La2tiRUlYR1dqcUE3bVQyaDNURC1OXzhxbjEzRWk4Um9mMWhEeGxtQXFZLWdRZnRzUkJnTmprOWNVSnJsRHRtWTQ3cm9YUkUzSXFPQW5XOGZQemxicTR1al9LUGVjdEhWcnRmdDF1cGdXck5WMGVTY050NHBxZDFaeVJtT3FsLTZIeXhYbjJSTEJuTm9fUlZGM3hPcHNtZTlBbHFn?oc=5"
-      },
-      {
-        "title": "Generał ostro o konflikcie Tuska z Nawrockim. Ma dla nich zaskakującą radę - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTE9XaVRYNGZvaXpJWVJ1WnBDR2FmYkp4R3dPWS1Wb0NHdTV1WVYyTW1fREpBVW4tWmpxMzNuV0dsREY4OTlzSFpoeEhJX0pSTkh0NnBJOEtqOGk2ejlFNEZuT29SSEZycFJPSUltV3JEYUx0a0VpQjhEYnFNLWNISUIyV1pQMEhybDBJNjZyYXI4NnJzemg3VkNEckxiejJidl9NdXhwcFI1dXJsRDBN?oc=5"
-      },
-      {
-        "title": "Romanowski z radą dla Ziobry. \"Na pewno bym zachęcał\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX25XcDF1c2JPc3pTLXhtQmNld0lmbnZxUW42dXBHSk1haUxSaEVlS1pINTVHUlhaTkxpbUo5ZHpMblFOM0lXZUQ1NG9zeUxmczQyVVhPUXg0UzJNdFMwUDJoR3MwQTFUdFQ1cldfaXNOdmcwSExwQU1lZTluTDFmWUxBRWs4bU9SakpnbTZIM09XckY3VmZBdmtncktORFlNSTBDY20zRQ?oc=5"
-      },
-      {
-        "title": "Ucieczka Ziobry wprost w ramiona Orbána. W PiS liczyli, że jednak będzie walczył - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1l4NllPM2VPTTVvdmd0N01TVWNfRDh3bjJrYUNwY0JqSC1lM2tzcWc1VF9Ib2Z4V1B4azlWLV9KR1N4SjBkdjc5V3oydklQS2JXWGxsdV9NVDZ6c3dpUGZuTkpRT2Q5Vk5KTjFwaTBKTGpwcURNMU1TdU9UMWR5azh2Wm5vbWhrbGUzMEIxa2JQT25iVmVxS2R0czVvRXk0Y1RrY0hwMWE?oc=5"
-      },
-      {
-        "title": "PiS wróci do władzy? Polacy mają zdecydowane zdanie [SONDAŻ] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTNEMTNTNjNtXzFtdTBaNmVfMmo5TDdDdlVKUG1nYVh4Rk0xUGVJbnN3UVpkOU8xLVVfaC1qVW5mcjFQZ09NLS1BckRnLXI1RUNraC1MZnlCNVMxa3lEZk40ZGV0eWp4Sm5YNUd4ckZTU0pFbDRwZ1VNczBra19rcjczS1RrcjBTT1ZoTG1ycW1RaFk0eWpQa25iRndtWHd4U05V?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-09 19:17:51",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Kierwiński wygwizdany na placu Piłsudskiego. Odpowiada swoim przeciwnikom - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFhzNkhTenF0bk1XUkQ2U2x2QXNsU2FKM0RfcWtKWm5uNTl5Vll1a0lWM3F2TFZYM0lpemZuRHA0OTZCSDdhZ3VXZkFXYXgtd09kZXBJdW5tcWRUaHpBRWJVZ1paVXdnQklvSG1hQ29XTkJ6Q2ZodWRNM21FdFVyRVV0MWtzeEFjMjdTazdMV2VHNDU2S2JZOTJFd3VOczNuV1BWNFhZb2ZoV3lnWGZ3QdIBrAFBVV95cUxNYk5Md3FHOGxpZnkyMDNKMWVDVTlXaW9xSFRsZVRySlo5NmlVNUQta19NTnlGblg0MUlQSjJSMEdFT2p4ZmJoTnNZUEp4d1h4Wkh5U0lYemQtanVTV05uM3NOYWVvRXoxekhncmctb3UzeGw4bGNucG02blhIaEZzTVNNNDd3UEZ2Y09qWmZMcGlsR2wyQ25JZW5Ma2NJY3lVUlI0UEhaNVBrUWh4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-12 00:12:30",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.661,
+      "EUR": 4.2351,
+      "GBP": 4.823,
+      "CHF": 4.5426,
+      "JPY": 0.023747,
+      "AUD": 2.3932,
+      "CAD": 2.6128,
+      "CNY": 0.5141
+    },
+    "crypto": {
+      "BITCOIN": 375860,
+      "DOGECOIN": 0.631578,
+      "ETHEREUM": 12500.76,
+      "LITECOIN": 365.99,
+      "RIPPLE": 8.74
+    },
+    "indices": {
+      "^WIG20": 3019.29,
+      "^WIG30": 3894.51,
+      "^WIG": 3894.51,
+      "^NCINDEX": 272.98
+    },
+    "news": [
+      {
+        "title": "Marsz Niepodległości przeszedł ulicami Warszawy. Relacja reporterów - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTd1bG9FLTFoeEg4a29rbGpKZGhZemtGT2lTRWhDcDJrZTZRbXZaWWV2aVNKTjQ4ZURlTXo4eTk2UUVDVDQycEs1bl9CNjRIcTZrS2dydmVCa0dDalp2dmNvemVMSjRHRHhhLTBqT0FkaFVNb2lBUHpWTGhBYmpqT09mX0I5YTZmMG96X1ZOWGswZk4xejdMb2pnRmdLOEpf?oc=5"
+      },
+      {
+        "title": "Maczety i noże. Szef MSW ujawnia, co znaleziono wśród uczestników marszu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVsdXNGYXl3Vkt5eWNFUWFUUmZCRDZQRUluZXJqN2VESzdZNDZOQTFUYTc2Q1FQak00cDk1bEx2RUw4WnFZZjZNVXdWNkxLSmZMVzUxVHRuaUpBRWg1Vm1xdThDNm1keHpzMVFxdUJfc1gtVjB1UGNjb2F2QVhZdUpqUzQxbVdMS043Yk02bFFCWTJKbXp1VTNuMFdud2hhelViSlpsMnhrbWFBalNXTGUtNHU?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki ostro o Donaldzie Tusku. \"Najgorszy premier. Ja się nie obrażam\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUlDYWl3T2tpRFVVSnMtMTdSc3AtVmRSdnRKNmV0ZE9LczZRNXRMWEZIT092Vi00bU5jNXZhLWZSQ255QS1EVmtrTDVqU2lYd2UyUnRHNVhRM01ON0MyVEI5UWk0VG4yRGtlVnRZRl96UmFwd0FfSzFVdm96VHd0NVRJVDByaDkyc0x5RVZXbk81TC1lNnlNZDcwaWJsZGk5X1gzN0xBWHg1d01tMUVoMEF6R1VGdw?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro składa propozycję prokuraturze. Usłyszy zarzuty poza granicami Polski? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFNDN3V6dnEzYzZ2RXdvUk5EZmlXbzI3ejJxWHpuUGxwZUp4R0RuR29HcEl4SmJoYkt5Z21tQk1iZ284cGdNMThtQ2JUZDZvUWJrVjBhQVloOURyaEZJVER5R25NM2FBWHpRQmRKRHhrVkFaVWI2SDFUOFJERVNlWk8yazFycTB4ZkExTWlobkdxMldMLW1wRU1CekFMZW5pa0Rvay0zd0N3WEZtQWsxZEhYSXhBZl9HRnNJVU9meFc2N0RuWVE?oc=5"
+      },
+      {
+        "title": "Zwrot ws. Paktu Migracyjnego. Bruksela potwierdza - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjZTR24zd19NZnRKZjNBMEd0SHpGQmJfMVEwNEVVY3ZxcVVpNzFlOXNQWEYtbkc2R2dkdDI0bnRiWnpfOE5zdktmNW5tN09IWlI3OTh0RWVHV3BVT3BxdFpIekRMSjdOS1ZIZW5xZ1ItVWRHSWhyajRncnQ0THk0RTRDR2xOZ1F5SmsxVXJ6ZzR0NTNsdE5OQXZETQ?oc=5"
       }
     ]
   }
