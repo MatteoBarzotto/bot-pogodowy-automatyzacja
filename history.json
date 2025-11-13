@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-10 19:20:36",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 387651,
-      "DOGECOIN": 0.656698,
-      "ETHEREUM": 12968.02,
-      "LITECOIN": 394.73,
-      "RIPPLE": 9.29
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Marsz Niepodległości w Warszawie. Znamy kulisy wydarzenia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXQ2dWtLMWxMMjdWRWlBSlJPeXNaTHgzNUdlbEZCdjBQZll5M2ZJSnVtWkpmSW9MRFFBa2RYa2J6Tjg1dWIzZ0JobVRmWHAyR0RtcXdkSzNBa3ladHhYZVQ3akNGMzcyYmhmZ2t6aFpuRERodlF0MnhHUnZONUtYWjVSNElQVG43V09ZMzRaZXV2YUNYdTV1SmstWXFNcDE1TFE?oc=5"
-      },
-      {
-        "title": "Donald Tusk: Prezydent Nawrocki nie chce relacji z rządem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2lKWDVIY2YtMmVKZEI5V0dPZ05teDJRbnJkeFlUUXFXZFd5cl85N2JXQm5nR25hY2thMjNXakgtenZjdmVYQmh3dlkxR3pYVHIyVTVjc2UwOUF1TjBQQjc0M1huT1hXSllyZ2VuOTl4UVk5NDFVSHIwbkZRV1huY3lfU0dyV0hMekduSkVKLW5GMFRFb2VLYm9lRkRuakRncHZobWtsZjhCRXdmbk5LeHY3Q1NnSDg?oc=5"
-      },
-      {
-        "title": "Silna eksplozja w bloku w Braniewie. Strażacy walczą z ogniem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXFMaGtObmlkQ3JnVkpHM04weFdpQ3BXOTRJN3kxNVR4ekozZWJLT21WY3Y1bkFCOGpBaHowc3RrUXVpVFQ0LVRrTEJuTVJtX29ScVNUeU9tamlOQ242NDI3OWhxSmY3b0RKYm04RWFzNGpCOU9DdWZkWmpwR3R2N0dQcEk3Tk1CaExBUGg5MVlfM20tUnA4cW84RzJmVjV0RnU5Mm1DRUFjTUh4?oc=5"
-      },
-      {
-        "title": "Nicolas Sarkozy wyjdzie z więzienia. Sąd przychylił się do wniosku - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXdBR3RqU3VDVDJ1dnZLZHlxU2l4QzdISDN2UWRYMWh5cGFTeC1nR2dNb09LN1R2cktVM1pFSDN1MURvVTZ4UmZDTE1tV2NZMzdGUVRaSGxSdlMzdWNKRXdodENsdGFEYmdFWmVCUF91N1NwdW95QUpxcDBzNHVfNDczZmI3aWhHX0FmNkotNjdCcXNhRFAzY1NsUUtsT3hvLU9vME5mNlZjZzda?oc=5"
-      },
-      {
-        "title": "Kluczowy podpis premiera. Wielka gra w NBP - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUk5RMUF0ZlkxN3FWVERKbERBMnctZ3VhQnFGWl9nR1ZwM0FTeDIzZWlZRHFwUkpDVGFQWjljbkpkNzNQLTZwN3hndWhKb05HVWZkMy1zZHZaVjRmTHNCTFc4VmdFOTRqQ0tYMmJubjZjWTVvamNaVlMwRGkwUTdDUC1PODgycWRkdlAzdmk0TUg1cVR4cXluenh1bUw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-10 20:11:39",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "\"Spektakularny samobój\". Wielka afera korupcyjna uderza w otoczenie Zełenskiego - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVZGako3MzZIYXVkVEFIeWJCTjY2YnpqUV90OXZINWxkWU9UYTRwODlhQzlqbDVXQ0RYeW9SUk5jSC1udUV6LTBWQU5WMFFYMGFUNkZsMDBoSlI4SjR5aUUyTzYtOUJRc3VYYk1lZmgxSHRZUW5UNU5zY3QtMFhvOFhwZDlPUVF6OE9nY1c1dnQtQTdVRWxNRVRBRlNVNnJQa2JyRWVnY3JPd1hEVkl4MTNIZUt3aURIYi1pY2dZeU4yblQ3em1HSHUyMA?oc=5"
+      },
+      {
+        "title": "Komunistyczna Partia Polski na celowniku prezydenta. Jest wniosek do TK - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVBKeDlaaDczWDVrY1dkaXpBdnN3Y2xLSVhVMlpQRGxKYUxRODJEYU5xQlZFdkx0b3hQb2xsZkUxTkdEejg1WXFkdGhDdVRPQ1VFMDJvbFI1OWltbFFDUEpqcExrOUZrYmF1R0pCYlRKa3VhTjBvbVNkaTJFeXBvYmRxWWU4SjJlQ2VjWDJFeHhoSHo4ZEJfb3dzTF83NHRLZnAwZ0tFS01Rc2J0cDk0dFJZeThTQndvSlVhM2lSdlFRNUk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-13 02:08:19",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.657,
+      "EUR": 4.2312,
+      "GBP": 4.7967,
+      "CHF": 4.5755,
+      "JPY": 0.023618,
+      "AUD": 2.3891,
+      "CAD": 2.6088,
+      "CNY": 0.5138
+    },
+    "crypto": {
+      "BITCOIN": 372469,
+      "DOGECOIN": 0.623693,
+      "ETHEREUM": 12501.79,
+      "LITECOIN": 358.8,
+      "RIPPLE": 8.75
+    },
+    "indices": {
+      "^WIG20": 3023.24,
+      "^WIG30": 3894.42,
+      "^WIG": 3894.42,
+      "^NCINDEX": 273.2
+    },
+    "news": [
+      {
+        "title": "Relikwie św. Andrzeja Boboli na Marszu Niepodległości - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkJLXzluLWVLNUdYbEpVU2dtSU1aek5WdzZOUTZ0TE42N2pmWnh5bXdIU2p2NXN6d0JSU3ZqSHN3MmpnMjFRQWZfV0lpei1OcGZQa2o1X1BPZ1FiU1pPZ204M2U1TU9UZ2NaSGx2eHp6TlpOWGYwS0lIeFBrelhSd2wtNF9wZm9LUm1VOWtNT0dLbG1nWVVaM09BYWdmcHpnTnRVcXdxdw?oc=5"
+      },
+      {
+        "title": "Sławomir Mentzen ma problem. To przez jego zachowanie na Marszu Niepodległości - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjFiaGRVU0NpTEhzQ2tWYU4yY0FCb1FuSzlZRGoxVXB0T3NkSFlvWjlrbDN1WmhFUU1scFFDSlB6T0xlcG9vMV9YQ3R0RXJDRllKZDdqMUFQQ3ppOFpHX0x2R2tLQWN1T0pfMkZRV0RtRlVyNWg5anpwREpQbE1FcUlCc3c5b2RFVFFKV3QyYXd3aGtpUW9YaHhmNk9lR1l4U2dwdjlPOGZpTnZ0LWVRWkFUMzNvaVE?oc=5"
+      },
+      {
+        "title": "Szadkowska: Uderzając w Żurka, Nawrocki uderzył w neosędziów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0RuWm1OZ1BIbTU3NjFTRzdVTGE1Q21KSXRMN2dsUTloY3p6M2ZuQlVaS00zN21SelFJWW5aMEVWZ0ZSWWJmVTdxaV92UmRsbjhHc0I1dUQtYXFpdDdCRFhVTTFTeGlZZy1CVEdXdXZUQmtmdXlKb3FCcEhNMXVGOGExZlUzSWx0UWV4NFc3UXdoRkJUbndfR0RJN3FyUWg1c0pTNGVkR2NoMEFGVFR5Ug?oc=5"
+      },
+      {
+        "title": "Korupcja na Ukrainie. Oligarcha Zełenskiego powiązany z Moskwą? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWRDVjQyWkk1dGQwVHpOZnZ4akJjQW9NMHlfUUZvS09uamxtWl91a2VHRVhpRTBad1Q2cVJfWklnVVYxbXN1VFFRYWdfT0pqMS01V1ZSbGhnQzZONC1jM3ZMUlNPdXNjRHZSalBTT3NSUXVqTlRzQkt3b2FwXzI5U2U1TTVaUURiMGlWTVUwS0E0c1dUVzFKVGlEZ3d0emVZcml1SEd4TGJYWXdCbGRQUlo5cTBRdnMwOGJaYTN4Qjd5TjVxakE?oc=5"
       },
       {
         "title": "Komunistyczna Partia Polski na celowniku prezydenta. Jest wniosek do TK - PolsatNews.pl",
