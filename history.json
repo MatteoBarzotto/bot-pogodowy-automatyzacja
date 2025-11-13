@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-11 17:18:03",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 377834,
-      "DOGECOIN": 0.643647,
-      "ETHEREUM": 12705.22,
-      "LITECOIN": 370.06,
-      "RIPPLE": 8.89
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Frekwencja na Marszu Niepodległości. Warszawski ratusz podaje dane - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGZDQlVsdlNvdERLd1FPSHlfRTFjeW5QaFcxckpIVFZpS3BIRW1iVDV6amVYajYtTjBDd3Q0SldWUW52UnZ4RnRDcUp3aV8yYkROZkdZZlZ4NElaVU1DNUZhc1FLcnlpVnA1RTZLcnVyaFdvb09EczlucmhtQm9pRDM5NGNkWm1aZ0wzV25laHQ4S1U0NnRYZmlfb1ktWFM0QzJoNW15R1BDT3ZxSXUwUWRB?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki wręczył awanse generalskie. \"Na to prezydent RP nigdy nie pozwoli\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1VxQVdobGZVNTVscERxNzJlWXhvTEFwaThwODI2Z1FDUjg3VEF5b0pYZldQU1c4NVoxeG1wNkEzbG9ENWx6S3NoNnd2czkyaEdaWVEtelppRmg3dEltU1NRSEM0YncybC1XOThPRm1HQ0tXYXN5ODA1V3RYOTYxRmk3bUwtLThNTncxT2J3S21NZURnODhxMkZBSHhVaDYwWG14Uk5jb0lBdHRPNV9Cd2J1enFqNi1ZeVE?oc=5"
-      },
-      {
-        "title": "\"Nikt nie ma monopolu na patriotyzm\". Tusk w Święto Niepodległości - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTQ5eFY2RGY1c0tsMkJZdUU0d01kcmpJekF0LUMtVFh2dGxkMjh3d2ZEcldUQmFGdVVhemN4RG1GeVk2ZlJjM1l4NEFtUTVYbEptOVZQeWRicy1BYXlQRlBBRGIwSkx0THotSFVYQnhZakVud1BwbW93OGt2MzdGRmhhVUUtVVJkbEg5QWpCR0dsYzdTZVJnWnhVZDBPaUF0ZFZDQ0h4VnJHUDd0VTRCaw?oc=5"
-      },
-      {
-        "title": "\"Pasuje jak pięść do nosa\". Mastalerek o Kaczyńskim na marszu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1hGN3dHYVkyb29TUk9Ga1BQSU92R3FubjREb0g2Z0JLWWZnNTdxbGcxSk9TR1VOa01wckVkU0Y5a2daMzFfeE56MG5BWVhIeFdUMmhtLU0wNU9pbFQySTJGcE9rcTNjUTNzX3M1dWlSeURlMlJlVV9nNjQ2eVZqYW9mZXVSZWZLcWNpeHlZQ3QtRTE3ZDZyUkJGb1BzQ0ZhUm1Z?oc=5"
-      },
-      {
-        "title": "17-latek za kierownicą. Dwie nastolatki nie żyją - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmRLaEJoZDlSdFFra3ZNUm0wUVNDMEF1emFSZnNiVXg3TlZueDMyYTFXX1QxM0JOMEpfZnFNZjF3eFFkeGpYSjF3QkZzbm1oM1FsWFVGcGRwQWdhSnNzNFdOeWJnY200SGFtOWxnT0VnZ0RSSzVfN0FGbFJLQXhuMXFLcmFFNG85dUpXc2RyekNBeDVSTWxyWEk1VW1jYkFqOWhvRzV2ZVBFMm54Z2lNbXVIWEgtYWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-11 18:13:00",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2622,6 +2569,59 @@
       {
         "title": "Nie żyją młoda kobieta i noworodek. Na terenie posesji pod Częstochową znaleziono też szczątki innego dziecka - czestochowa.wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXAzeTlDLV9TLXIyUE9IYy1SMUtQcU5NbDFBb2M4Z0JnRFdCY05UZFJBNjdGZ0xWNnJCQXlfaUE1bThkYTZTWF9ORVp4SzJRTnY0YS1kU2kxM3N2LXo3WnR1VElGS1d4a1c1ZkRiMGNiOGVTc2JQeE9QYm9PRlpOQXF1cTdXLTRmWFVWb3NfTVhRNS1US3d2WmFOZmRtb0J6QkRHM2Q3em44UnZMUHdmRW1BeHRVQ2lHOVR6SXEzaGp2eElUaDc3ajFn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-13 23:14:22",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +11°C"
+    },
+    "rates": {
+      "USD": 3.6417,
+      "EUR": 4.2304,
+      "GBP": 4.7909,
+      "CHF": 4.5779,
+      "JPY": 0.023567,
+      "AUD": 2.3937,
+      "CAD": 2.6032,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 360780,
+      "DOGECOIN": 0.588575,
+      "ETHEREUM": 11659.52,
+      "LITECOIN": 347.17,
+      "RIPPLE": 8.36
+    },
+    "indices": {
+      "^WIG20": 3016.16,
+      "^WIG30": 3890.28,
+      "^WIG": 3890.28,
+      "^NCINDEX": 272.18
+    },
+    "news": [
+      {
+        "title": "Jak Karol Nawrocki stanął na czele totalnej opozycji. Co jednak zrobi po wyborach? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTVqY3BycDJibXFZRVo2b2w0eEtwVWVPWmd3UURfMWFxUy1fal9sVmRyZVdtR0plMk04UzJkQjg5M2s4eE9ObDl3ZXRCN3Qtem1Fdk5aMktMTUNNaVo4SmZyVUZnX0Q3ZWZGbDVJMS1vQk1tWjFZV2JVc3VRZHFpUWNtTU12d1lLWW9TdjVtUlZobVQwWkJ0ckNRTXhUazZqa2k4Vi1lTXdMekdadElkYloxUkY4aUdtRlpfNzlMc3Y?oc=5"
+      },
+      {
+        "title": "Zaskakujący wpis Sławomira Mentzena. Podziękował Szymonowi Hołowni - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkxYaVltOV8wbmliWWc1WmFIcGxGTV9KTTg5dXBKdUdlZ2lCRlRyZ3otNHpWV0I0STJ3SnJkNkxBSVphSkFoYVhZdmQ5RUhuSFlhUGZFRTF0NEg1UU1fRjF3WkJQSzludGM1RVNsMWhPUFFHUnFja3A4Z0tyNV9BX1NqV0NrMVpPc1BzRC1Edjh6MEhZbjcwMlBiSEhrSEVFdjVOazE4NWZOb2dZelN0bWlxTUZqZzVHTVVSZ2pJdnJmblAyNFc0?oc=5"
+      },
+      {
+        "title": "\"Wielki Bu\" doprowadzony do prokuratury. Usłyszał zarzuty - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3cyVExLdG9yZGZaSDI4cFAtdGN6MXB1VlF4anU5aDdFUXNLdkNybnpBUWptQmtfbktFdkZ3QVZ5Z3hYZXpOZWE3Z1dpelV1b0REdllUYVZMbVM2NlJ5NDAwajNqNEdfRmpMSXNXVHZCU3dtUHluQ3UxZkdWczh0cTA2bWFRYVJSTjdhc2xHd1ZxRnprX3V0MmxzUmloaktUdEtrYUlsNXJqN3Q5Ym9GbQ?oc=5"
+      },
+      {
+        "title": "Jest ruch prokuratury w sprawie aresztowania Zbigniewa Ziobry - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDBMUlpMNEx3MDlrVGpBZE5uQlZXZmVWTjh0VXEyRkxNazU2RjhFN1hMMk5YUHpjLWdjVmxPZ2JfeFk1ZTBSc0Z4QmNoVjgtcnhJVEtvUm95MWs1aU1xb2ZISl9XRWJRNU9tZzlTM2ZxbjhyOFJJd1NQLVBsNWlNSE80Vi00blBib0s4QmVjX2VPTVJQSTJsN1JKckx2aFlzSXMtM25xZFRzYWRrNWVpbllYbw?oc=5"
+      },
+      {
+        "title": "Szokujące słowa Krzysztofa Gawkowskiego w TVN24. Monika Olejnik nie wytrzymała: niech pan przeprosi - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGFudFRWNC1BLTBIT2xHbi1NVDEtOS1sVTBCallMSjhZT0wxbl80ZFBkR2FxRFY1YzQ0aVVHSUNnN2dxOHFMbkpRWHh6N01NWkJwY3drZ1dJbWFYWUgxNDU1WnpqYkRfeVRkUTc5QTJTNmVxRl9Jam1xRzV5MHhoVU54Z0Z4RUxVSXllSjVUVkpoUWhhLUlucXdhRExiWkxQVVg0ZmsxeDRCWURuLWc?oc=5"
       }
     ]
   }
