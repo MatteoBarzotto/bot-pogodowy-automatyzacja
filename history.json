@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-10 20:11:39",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 386785,
-      "DOGECOIN": 0.655586,
-      "ETHEREUM": 12987.39,
-      "LITECOIN": 394.71,
-      "RIPPLE": 9.34
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "\"Race też będą\". Sławomir Mentzen zapowiada przed Marszem Niepodległości - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2ZpVFdfb29Ba1ZfR01BWUVCWTdxbFBub0NjUV8tVVlDU2hxUHBzUVhtbHJacXdPQWRTWmkwTkZmV24zMktWM2V4ZmNyM0RIYmVuWEl6a09DX3hIOTJDOUdncFNhNlh4OVdselNteEcxN0hfMzl5XzFlMTZiNWhDRVQyOGI4VUNDWlRwQV9ZcnU5Mm1mZjRxNk9fSVUyNlVncnRnZ1hVMGlIMkVCbk5xMG9qb29zVG1TbFE?oc=5"
-      },
-      {
-        "title": "Donald Tusk: Prezydent Nawrocki nie chce relacji z rządem - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2lKWDVIY2YtMmVKZEI5V0dPZ05teDJRbnJkeFlUUXFXZFd5cl85N2JXQm5nR25hY2thMjNXakgtenZjdmVYQmh3dlkxR3pYVHIyVTVjc2UwOUF1TjBQQjc0M1huT1hXSllyZ2VuOTl4UVk5NDFVSHIwbkZRV1huY3lfU0dyV0hMekduSkVKLW5GMFRFb2VLYm9lRkRuakRncHZobWtsZjhCRXdmbk5LeHY3Q1NnSDg?oc=5"
-      },
-      {
-        "title": "Silna eksplozja w bloku w Braniewie. Strażacy walczą z ogniem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXFMaGtObmlkQ3JnVkpHM04weFdpQ3BXOTRJN3kxNVR4ekozZWJLT21WY3Y1bkFCOGpBaHowc3RrUXVpVFQ0LVRrTEJuTVJtX29ScVNUeU9tamlOQ242NDI3OWhxSmY3b0RKYm04RWFzNGpCOU9DdWZkWmpwR3R2N0dQcEk3Tk1CaExBUGg5MVlfM20tUnA4cW84RzJmVjV0RnU5Mm1DRUFjTUh4?oc=5"
-      },
-      {
-        "title": "Nicolas Sarkozy wyjdzie z więzienia. Sąd przychylił się do wniosku - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXdBR3RqU3VDVDJ1dnZLZHlxU2l4QzdISDN2UWRYMWh5cGFTeC1nR2dNb09LN1R2cktVM1pFSDN1MURvVTZ4UmZDTE1tV2NZMzdGUVRaSGxSdlMzdWNKRXdodENsdGFEYmdFWmVCUF91N1NwdW95QUpxcDBzNHVfNDczZmI3aWhHX0FmNkotNjdCcXNhRFAzY1NsUUtsT3hvLU9vME5mNlZjZzda?oc=5"
-      },
-      {
-        "title": "Tak Ziobro może uniknąć aresztu. Senator KO dał mu \"sprytną\" radę - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3RQazRDXy0zS2NBZTZyZHhpTjlNQXdnRmVTNGhtRTJPNXFzT0thaVFZVERKMEp4bGt2X3k2cHotbzdUUHJrYXBTSzVLQTVVdk5lTkVfdVBKcW90bnRPLVpsQmFNSGZ5QS1IZlhmMGdwVmFiSVZnLXJObmtsTVprVEJMSFRyVUI3Q0p3dkd1amgtQUpfRjFJ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-10 21:17:03",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Komunistyczna Partia Polski na celowniku prezydenta. Jest wniosek do TK - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVBKeDlaaDczWDVrY1dkaXpBdnN3Y2xLSVhVMlpQRGxKYUxRODJEYU5xQlZFdkx0b3hQb2xsZkUxTkdEejg1WXFkdGhDdVRPQ1VFMDJvbFI1OWltbFFDUEpqcExrOUZrYmF1R0pCYlRKa3VhTjBvbVNkaTJFeXBvYmRxWWU4SjJlQ2VjWDJFeHhoSHo4ZEJfb3dzTF83NHRLZnAwZ0tFS01Rc2J0cDk0dFJZeThTQndvSlVhM2lSdlFRNUk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-13 04:10:24",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.657,
+      "EUR": 4.2312,
+      "GBP": 4.7967,
+      "CHF": 4.5755,
+      "JPY": 0.023618,
+      "AUD": 2.3891,
+      "CAD": 2.6088,
+      "CNY": 0.5138
+    },
+    "crypto": {
+      "BITCOIN": 372319,
+      "DOGECOIN": 0.624545,
+      "ETHEREUM": 12528.43,
+      "LITECOIN": 361.12,
+      "RIPPLE": 8.84
+    },
+    "indices": {
+      "^WIG20": 3023.24,
+      "^WIG30": 3894.42,
+      "^WIG": 3894.42,
+      "^NCINDEX": 273.2
+    },
+    "news": [
+      {
+        "title": "Sławomir Mentzen ma problem. To przez jego zachowanie na Marszu Niepodległości - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjFiaGRVU0NpTEhzQ2tWYU4yY0FCb1FuSzlZRGoxVXB0T3NkSFlvWjlrbDN1WmhFUU1scFFDSlB6T0xlcG9vMV9YQ3R0RXJDRllKZDdqMUFQQ3ppOFpHX0x2R2tLQWN1T0pfMkZRV0RtRlVyNWg5anpwREpQbE1FcUlCc3c5b2RFVFFKV3QyYXd3aGtpUW9YaHhmNk9lR1l4U2dwdjlPOGZpTnZ0LWVRWkFUMzNvaVE?oc=5"
+      },
+      {
+        "title": "Szadkowska: Uderzając w Żurka, Nawrocki uderzył w neosędziów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0RuWm1OZ1BIbTU3NjFTRzdVTGE1Q21KSXRMN2dsUTloY3p6M2ZuQlVaS00zN21SelFJWW5aMEVWZ0ZSWWJmVTdxaV92UmRsbjhHc0I1dUQtYXFpdDdCRFhVTTFTeGlZZy1CVEdXdXZUQmtmdXlKb3FCcEhNMXVGOGExZlUzSWx0UWV4NFc3UXdoRkJUbndfR0RJN3FyUWg1c0pTNGVkR2NoMEFGVFR5Ug?oc=5"
+      },
+      {
+        "title": "\"Nacjonalizm, propaganda i ekscesy\". Jednoznaczny raport z komentarzy po Marszu Niepodległości - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdk5lTEdWQl9zZDZKYklQdXpJbkdHWFA2YVZPbENwN3lRaVYtYUtoTTlLR0Q3WktCUmlEa3Boa1VFYk5hTHk1bzJtZ3AxY1c3Zm80Z0lIMkVRWGVoLWUtdjI5NTFRYXdQV0xtZVVJcVgwZEhDVkxON29rdW4wZVhpRGVBX3NJVWIwMWRjNE15SmxGMXJKYklrd3FXb29uRDZzbGFmeldMTHpnTVFvd2JUYS1WZw?oc=5"
+      },
+      {
+        "title": "Korupcja na Ukrainie. Oligarcha Zełenskiego powiązany z Moskwą? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWRDVjQyWkk1dGQwVHpOZnZ4akJjQW9NMHlfUUZvS09uamxtWl91a2VHRVhpRTBad1Q2cVJfWklnVVYxbXN1VFFRYWdfT0pqMS01V1ZSbGhnQzZONC1jM3ZMUlNPdXNjRHZSalBTT3NSUXVqTlRzQkt3b2FwXzI5U2U1TTVaUURiMGlWTVUwS0E0c1dUVzFKVGlEZ3d0emVZcml1SEd4TGJYWXdCbGRQUlo5cTBRdnMwOGJaYTN4Qjd5TjVxakE?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro o powrocie do Polski. Wskazał, co się musi stać, żeby wrócił - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVV4Rkx3dzJOSjltTEhOWjNscW4xX3hzQzNNWkg5akJodFNuX0tNckQyU2M2TkdtdmtvYVIyeGZscDY3dkotQk1JU3lveGhhejNha3lsSUdDdlo5blB6MUpwTTdPYzFHZThzaWRlQVV2T3U0RE9SVWRmclhDOE1mbWRaa0RkSDZGdVp4a2RKS3JaZmhGa3k4MzBQUC1KLWtxMFgzQlNYS0VrNkdIRWxCdFJLSmc?oc=5"
       }
     ]
   }
