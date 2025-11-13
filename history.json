@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-10 21:17:03",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +7°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 388500,
-      "DOGECOIN": 0.66121,
-      "ETHEREUM": 13073.96,
-      "LITECOIN": 395.05,
-      "RIPPLE": 9.34
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki krytykuje premiera i szefów służb. \"Mam nadzieję, że to ostatni raz\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWm0yUV9UUzlvTG1Bd3FJQzRtcXBnTUtCWjdUTlBsdnZNR3pWdFJvMC1qdG43bUlnWWViQVFOQjZna1pPc0g5T2o0bWhiZlYwLVhpejF4TW1oV3pKcU5BblgtZ1JrZU1aT1VUZzE2U094dzI1SnptSlhPNmZla2x0dTVqV0xOcVY5NGZsX1ROYzJZV01WUV9QYVRBelNCOWkwUGR4QmlMcDRhbE9nZ0pqU3AzeUMtSWIyMGVZ?oc=5"
-      },
-      {
-        "title": "Dlatego Kaczyński idzie na Marsz Niepodległości. \"Gardzi racami, ale nie może odpuścić\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2s3M3RBS2M5UEZCWml6NjFwWDl5bXV1cXJLLWZFaVBYNUhQV09HYklkTkozWHp3THdMTWNtYmVabW9pU2xRSG1TdmEzWVI5ODVCQ1ppS29JUERmQU83LWJVVERFcUU3SW01d1hvU1gzbGNZUl9pTmxuZ0V0ZmkxcXM3dFBwa19NcUs5QkJKdTRnMGNqZmNPOWdCcVI3b3YzYmVZLVdrNS05bEF5ZHlXdUNyNA?oc=5"
-      },
-      {
-        "title": "Nicolas Sarkozy zwolniony z więzienia. Sąd wydał zgodę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXpCakFGeXVNcmVESmJsR21QSTNPX0daeTNaZTBpME85MnFrekhZY1hycUp0cVZRZ3c2ekIwNDRieWpYdWg1WTV1X1VVS0V5aVBUeDEweFVnTEdCWWRlU1d5Q2phSF9ZbHczdWU0U1NEdGNOUmNnNjNCSU1paEloVjdoRGxkaVZEQi1BaUlQd0I3cWM3VUhjWElEQ3VDVTA?oc=5"
-      },
-      {
-        "title": "Silna eksplozja w bloku w Braniewie. Strażacy walczą z ogniem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXFMaGtObmlkQ3JnVkpHM04weFdpQ3BXOTRJN3kxNVR4ekozZWJLT21WY3Y1bkFCOGpBaHowc3RrUXVpVFQ0LVRrTEJuTVJtX29ScVNUeU9tamlOQ242NDI3OWhxSmY3b0RKYm04RWFzNGpCOU9DdWZkWmpwR3R2N0dQcEk3Tk1CaExBUGg5MVlfM20tUnA4cW84RzJmVjV0RnU5Mm1DRUFjTUh4?oc=5"
-      },
-      {
-        "title": "Tragedia pod Suszem. Odebrał dziewczynę z dworca, kilkanaście minut później nie żył - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemZNWkd5Tm5SRzE3MTVLS2tzMnpSZ0hrLXB5MUJxcXpzdWQxYWk5RHR1Qy1ZanhtdDNjRTFlZnU4Q0lvT3pURjFhQXVwSVBwOWhuUlZUV3I1dkktc01FZXlHYURaaEdlNVk2MW1tWVZZbXgwQjFEX3V2eGtzVnNhM0VFbjdDZTZuWG1nVDNPWmZER2dBcURYbmJ0ZWhaemlFMXpOY09acExBOU11?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-10 22:12:57",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Zbigniew Ziobro o powrocie do Polski. Wskazał, co się musi stać, żeby wrócił - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVV4Rkx3dzJOSjltTEhOWjNscW4xX3hzQzNNWkg5akJodFNuX0tNckQyU2M2TkdtdmtvYVIyeGZscDY3dkotQk1JU3lveGhhejNha3lsSUdDdlo5blB6MUpwTTdPYzFHZThzaWRlQVV2T3U0RE9SVWRmclhDOE1mbWRaa0RkSDZGdVp4a2RKS3JaZmhGa3k4MzBQUC1KLWtxMFgzQlNYS0VrNkdIRWxCdFJLSmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-13 05:19:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.657,
+      "EUR": 4.2312,
+      "GBP": 4.7967,
+      "CHF": 4.5755,
+      "JPY": 0.023618,
+      "AUD": 2.3891,
+      "CAD": 2.6088,
+      "CNY": 0.5138
+    },
+    "crypto": {
+      "BITCOIN": 372882,
+      "DOGECOIN": 0.635874,
+      "ETHEREUM": 12701.53,
+      "LITECOIN": 361.47,
+      "RIPPLE": 9.03
+    },
+    "indices": {
+      "^WIG20": 3023.24,
+      "^WIG30": 3894.42,
+      "^WIG": 3894.42,
+      "^NCINDEX": 273.2
+    },
+    "news": [
+      {
+        "title": "Relikwie św. Andrzeja Boboli na Marszu Niepodległości - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkJLXzluLWVLNUdYbEpVU2dtSU1aek5WdzZOUTZ0TE42N2pmWnh5bXdIU2p2NXN6d0JSU3ZqSHN3MmpnMjFRQWZfV0lpei1OcGZQa2o1X1BPZ1FiU1pPZ204M2U1TU9UZ2NaSGx2eHp6TlpOWGYwS0lIeFBrelhSd2wtNF9wZm9LUm1VOWtNT0dLbG1nWVVaM09BYWdmcHpnTnRVcXdxdw?oc=5"
+      },
+      {
+        "title": "\"Jesteśmy zaskoczeni\". MEN reaguje ws. skandalisty Damiana \"Stiflera\" Zduńczyka - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUtzdmtuc2VjOE5CazY3RGRmUzFJbzNfTTFZYU94b1hYUWRDR3FSQmlmRGw4OEVYbndfOVlvWk5tdEhCMl9ieldhTi00aDVRNWppZHF2SkFDZWM0S1czZEtOdFBuSDBZMnBOY0RTWU5vSG1sRjQ0ZEdLbW5vTmVMazhsV0F6alM5bHhqSXQ3cEswTGM?oc=5"
+      },
+      {
+        "title": "Sławomir Mentzen ma problem. To przez jego zachowanie na Marszu Niepodległości - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjFiaGRVU0NpTEhzQ2tWYU4yY0FCb1FuSzlZRGoxVXB0T3NkSFlvWjlrbDN1WmhFUU1scFFDSlB6T0xlcG9vMV9YQ3R0RXJDRllKZDdqMUFQQ3ppOFpHX0x2R2tLQWN1T0pfMkZRV0RtRlVyNWg5anpwREpQbE1FcUlCc3c5b2RFVFFKV3QyYXd3aGtpUW9YaHhmNk9lR1l4U2dwdjlPOGZpTnZ0LWVRWkFUMzNvaVE?oc=5"
+      },
+      {
+        "title": "Nawrocki odmówił nominacji 46 sędziów. Jest oświadczenie prezydenta [NASZE WIDEO] - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTgyYVhUVXRxVWJYN0NSN2hrM0ZwRktBMDVaTTItNHU5ak0zU2dmNlQzdlBINVhCY21JOWxaMERGSmpiNE1lNjlOYzJHZVlwSzJVQVZzUVE4REowaFNJamVfbmw0S0poYzNkSDdyZVRVdDV4YmJ3ZXdzWU40N1ZWMERJaGd6S005aW5IZER3ckUtVnMxYVUyREl6bmVzZw?oc=5"
+      },
+      {
+        "title": "Marian B. z zarzutami. Decyzja prokuratury wobec byłego szefa NIK - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkpaVmpCaTNjVk5WTHlXV0hxaHFmOURMUW11VVJaSFdNNUZtRTBHSENncVBDUTZnbFBfQVlyaFdZZTRMa09hZlM1Y1Fla3o3X21LeTlrRlZIRVFTeEh1Ry1HaTNxczNRT2l1bUZWNkVuOHFHZlJEOGppWFRiZm1YWTkxRkNXY3hUV2xMeTRlUmFSRDBYdmJpQ1p4bENlbUhWOWlNM19iSGNCeENmOFRvakswUzlPQQ?oc=5"
       }
     ]
   }
