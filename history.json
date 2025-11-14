@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-11 23:14:05",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 375421,
-      "DOGECOIN": 0.629323,
-      "ETHEREUM": 12491.94,
-      "LITECOIN": 363.32,
-      "RIPPLE": 8.72
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Bosak publikuje zdjęcie z marszu. Posłanki Lewicy odpowiadają z ironią - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGxHbkM2bml4X3kxZThpaEFmb1JtWE9LT29QbE1ERGRnb0d6N2ZhcHpxeDlteTNKNDhGekJGcFp0SXZ4VXBBVWdOVmdJLUVRMlctckU0cjJmRExxbDNlaFduN3hSWUozV3NaMUhoLUNJVlU1cXFTMDRuODNCRkpHX0hPcmNlYnJ2SDJEOWk4UGtxVG8xeGlZbXM5YU1HV0xCZl9ISEFoTE1JNnYxNzhBLUhjcw?oc=5"
-      },
-      {
-        "title": "Ziobro ma propozycję dla prokuratury. Podał dwa adresy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVdyYVlrWEtiVmV3c3FSaG9hdUxSNU9VcnJYUkZxTzlvcWhudmY2REpkOVhiejctY0FCcWxDN3RqTVpMUkFpRDNTWm9qZ2VjdHJpTTY1NjBKNURYTXpsRmJTZ0JnV3J6VHdFZkc4RWRVcmVXQkJvTHpiZzAxaERRSEF2OVd3QUtMc1hKb2RSbm41VmJRWTZzUGNzOVNuMEhFR0dv?oc=5"
-      },
-      {
-        "title": "Tak Sławomir Mentzen złamał zakaz na Marszu Niepodległości 2025. Wszystko się nagrało - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd194blp1ZGxLcUl3OWhMTTM1cmw2RnJQWmdFQ3J0Z2FLSTFmak5rSGxJaVlBbjREVXBLU3FHR3pRYVdEMVRrYk01Rkpyb19vanhVUDl4V2U2cWV5dTQtNlhxZ3k4MFBHVjF5U1FKRGZwMnZ4ZjVXV2I2dEUtbThEbFptYzRWY3BOQXBlME9hWHpCX1BPZ20xRkZHZWRWSGtvU1pJ?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki ostro o Donaldzie Tusku. \"Najgorszy premier. Ja się nie obrażam\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdGZtRDdRamdDMFIxX2ZES1pCS1lTYU5VUnJHM21YU05GYlVjdnlPWm1MNG9yRTJIZ2dLV1ZrT0llMDgxV0tpdnNZZ1FMSGpiZDhoU01rTVU3b0hWS2pwVk1vN2prZnA0T0VtZmtaMkRoMmx5ejczLUc0V2pBMVRYSW9GOUprV0ZvTkw3Rzc3ald1UEtTOHhJX0ttdFFRX0lDRkRYZzdaS0FYTk90TkhRZDlWcUZGUldTdlM4bHp2aTNmbUZwTnZrbkJjMXhiOUc3Rjk4Yw?oc=5"
-      },
-      {
-        "title": "Kierwiński wygwizdany na placu Piłsudskiego. Odpowiada swoim przeciwnikom - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFhzNkhTenF0bk1XUkQ2U2x2QXNsU2FKM0RfcWtKWm5uNTl5Vll1a0lWM3F2TFZYM0lpemZuRHA0OTZCSDdhZ3VXZkFXYXgtd09kZXBJdW5tcWRUaHpBRWJVZ1paVXdnQklvSG1hQ29XTkJ6Q2ZodWRNM21FdFVyRVV0MWtzeEFjMjdTazdMV2VHNDU2S2JZOTJFd3VOczNuV1BWNFhZb2ZoV3lnWGZ3QdIBrAFBVV95cUxNYk5Md3FHOGxpZnkyMDNKMWVDVTlXaW9xSFRsZVRySlo5NmlVNUQta19NTnlGblg0MUlQSjJSMEdFT2p4ZmJoTnNZUEp4d1h4Wkh5U0lYemQtanVTV05uM3NOYWVvRXoxekhncmctb3UzeGw4bGNucG02blhIaEZzTVNNNDd3UEZ2Y09qWmZMcGlsR2wyQ25JZW5Ma2NJY3lVUlI0UEhaNVBrUWh4?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-12 00:12:30",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2617,6 +2564,59 @@
       {
         "title": "Ambasador USA w Warszawie krytykuje unijną regulację. \"To moment dla Polski\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmxGazBYNDJlOTliTTY2VU5GdklpSDN0YnI4aVF5OGpiOUZJSXBPLWp4UkJsUjJtQ095QjlkTDREMnI4MHBfVVZZRVRZdU1mQ1Y3Wm5lalM0OTVFWE5BVk9RaVMxQTdrYU1OVlVReFlvcm5UVk0xQUptNEc5dVNrSUpWOEVBSDBVQmtKcGtmQVZYd0E5cktMZ01TRTMzM2xyYzNUaGUtWXdKTDdHQ1ZNOXMyc1RLYXh6R0Ewakp0enJ0M25lTnZPcWtRY1R4VUt6MVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-14 07:22:01",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6417,
+      "EUR": 4.2304,
+      "GBP": 4.7909,
+      "CHF": 4.5779,
+      "JPY": 0.023567,
+      "AUD": 2.3937,
+      "CAD": 2.6032,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 352558,
+      "DOGECOIN": 0.594025,
+      "ETHEREUM": 11535.06,
+      "LITECOIN": 349.66,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 3016.16,
+      "^WIG30": 3890.28,
+      "^WIG": 3890.28,
+      "^NCINDEX": 272.18
+    },
+    "news": [
+      {
+        "title": "Polacy ocenili prezydenturę Nawrockiego. Jest nowy sondaż - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlQ3LTQzTWtfRW5zQmxHMEJ1eERQOVVzbmYtUlRyZ0dxRFRtdnNPaTUxaWQ0YWd5LURuLWdCOFFTQ0RlS3Qzb24wWUlDMUhSYmMxaEMzSzZBaVlUbTJhTWVNbkZkY2VIVVR6T3ZNZjhqeEd3MWhoaWQ2ZnRvQUhfd3VZZnFGLXB1NUdhWm0wazdObUpIVVBUS3Y2NzN4N24zWnNkQVBxUFB5cFJ3ZmhZVQ?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski usłyszał pytanie o Zbigniewa Ziobrę. \"To zdumiewające\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXRBQUdOUW5QU0kyTE5TeWtiU3l6X0ZFOTJNN2FrczJHZjdQMUlxWndkdlNJZS01dUhqZkJkSkpIZGtiSHpIVW51WVk1WFVvaW84TUFrSWhqTlBGWlZFMEVka0FxYkt2X2htel9KYXk2NW1ZbEZJS2R1STRzaS1sMEJlMXNYZjBsQ0NpdTNOM2RsaVZJTk1pMXBNNlN4ZkxBeUlTSFdDVDAxVlRSdk1QUldHVnhHak9OMHJNaHlHb3ZWYzRXcHJDYzdoNl8?oc=5"
+      },
+      {
+        "title": "„Południowa włócznia”. USA rozpoczynają operację wojskową na swojej półkuli - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhHbzFXLUxtRy1yekozZ2JTajFKV1VRN1NKQVNMNzJ5UDg0dWw5MHpjUXRmUmNDX1pvOUdpWThxajBWaHQzNUdvRkcxMlQ5TVI2dTR2UnY3R0pPLUlSdnczNWEzVy1OSWNzUmxVOV9ILWxVd1l2MHJ4cTV2eXVGU25jTGNZLVJVM2pEdEZzNV9FVWgydU1ZYXpSWnZMMzRPRUdGaTVYczFfdWU3MjFlTW9od3B2Qkd0TTRjbA?oc=5"
+      },
+      {
+        "title": "Alarm w całej Ukrainie. Rosja atakuje dronami i rakietami - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTloTnAtLWxHMGJzNEE1RW5JSjBtZ1F1RUpCOFMzTHV0UlBOaTJRM0JqVGpUeEVWLXlISEFVc2xPSlhFdWNLa2NpOHk5V2djLWNTdTIxUXdMVGZRUmRQRDZDYkJYYUJyUDJpUFVwMFpPelVlaHZsRnNsczlpcWp4UW9FLXdUVDFWZ19VeG5kNm54Qy1kRGNWajBIbzVKZ0N5V1VHb1ZCNGhPaW1IbE5WYVJmN2J2UnlNMGZr?oc=5"
+      },
+      {
+        "title": "Hołownia odchodzi z funkcji marszałka Sejmu. \"To nie jest łatwy proces\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEtENFgwWW9veEV1TUxBRURONTJJeFczajJZSmxIekJBOC0xWFl0U2ZLVUs5T214YTBPZEFVMGtUWG1tQktjbkZIbmt1VTlsSlRITnBrcGphX210RWRzNVhZS1dJZlhBbHJOemtkb1pwdXktRFpmYWxFSGoxRzdvVlRONkI0YUJmUXVSZHk1NlV5RmFNTGs1ZVdDZUp2ZFJWX2RORG9qOGlBU2xGY0FsX3N2X3luMEc5NHNmY1FLYw?oc=5"
       }
     ]
   }
