@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-12 00:12:30",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 375860,
-      "DOGECOIN": 0.631578,
-      "ETHEREUM": 12500.76,
-      "LITECOIN": 365.99,
-      "RIPPLE": 8.74
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Marsz Niepodległości przeszedł ulicami Warszawy. Relacja reporterów - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTd1bG9FLTFoeEg4a29rbGpKZGhZemtGT2lTRWhDcDJrZTZRbXZaWWV2aVNKTjQ4ZURlTXo4eTk2UUVDVDQycEs1bl9CNjRIcTZrS2dydmVCa0dDalp2dmNvemVMSjRHRHhhLTBqT0FkaFVNb2lBUHpWTGhBYmpqT09mX0I5YTZmMG96X1ZOWGswZk4xejdMb2pnRmdLOEpf?oc=5"
-      },
-      {
-        "title": "Maczety i noże. Szef MSW ujawnia, co znaleziono wśród uczestników marszu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVsdXNGYXl3Vkt5eWNFUWFUUmZCRDZQRUluZXJqN2VESzdZNDZOQTFUYTc2Q1FQak00cDk1bEx2RUw4WnFZZjZNVXdWNkxLSmZMVzUxVHRuaUpBRWg1Vm1xdThDNm1keHpzMVFxdUJfc1gtVjB1UGNjb2F2QVhZdUpqUzQxbVdMS043Yk02bFFCWTJKbXp1VTNuMFdud2hhelViSlpsMnhrbWFBalNXTGUtNHU?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki ostro o Donaldzie Tusku. \"Najgorszy premier. Ja się nie obrażam\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUlDYWl3T2tpRFVVSnMtMTdSc3AtVmRSdnRKNmV0ZE9LczZRNXRMWEZIT092Vi00bU5jNXZhLWZSQ255QS1EVmtrTDVqU2lYd2UyUnRHNVhRM01ON0MyVEI5UWk0VG4yRGtlVnRZRl96UmFwd0FfSzFVdm96VHd0NVRJVDByaDkyc0x5RVZXbk81TC1lNnlNZDcwaWJsZGk5X1gzN0xBWHg1d01tMUVoMEF6R1VGdw?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro składa propozycję prokuraturze. Usłyszy zarzuty poza granicami Polski? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFNDN3V6dnEzYzZ2RXdvUk5EZmlXbzI3ejJxWHpuUGxwZUp4R0RuR29HcEl4SmJoYkt5Z21tQk1iZ284cGdNMThtQ2JUZDZvUWJrVjBhQVloOURyaEZJVER5R25NM2FBWHpRQmRKRHhrVkFaVWI2SDFUOFJERVNlWk8yazFycTB4ZkExTWlobkdxMldMLW1wRU1CekFMZW5pa0Rvay0zd0N3WEZtQWsxZEhYSXhBZl9HRnNJVU9meFc2N0RuWVE?oc=5"
-      },
-      {
-        "title": "Zwrot ws. Paktu Migracyjnego. Bruksela potwierdza - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjZTR24zd19NZnRKZjNBMEd0SHpGQmJfMVEwNEVVY3ZxcVVpNzFlOXNQWEYtbkc2R2dkdDI0bnRiWnpfOE5zdktmNW5tN09IWlI3OTh0RWVHV3BVT3BxdFpIekRMSjdOS1ZIZW5xZ1ItVWRHSWhyajRncnQ0THk0RTRDR2xOZ1F5SmsxVXJ6ZzR0NTNsdE5OQXZETQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-12 02:07:43",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2617,6 +2564,59 @@
       {
         "title": "Hołownia odchodzi z funkcji marszałka Sejmu. \"To nie jest łatwy proces\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEtENFgwWW9veEV1TUxBRURONTJJeFczajJZSmxIekJBOC0xWFl0U2ZLVUs5T214YTBPZEFVMGtUWG1tQktjbkZIbmt1VTlsSlRITnBrcGphX210RWRzNVhZS1dJZlhBbHJOemtkb1pwdXktRFpmYWxFSGoxRzdvVlRONkI0YUJmUXVSZHk1NlV5RmFNTGs1ZVdDZUp2ZFJWX2RORG9qOGlBU2xGY0FsX3N2X3luMEc5NHNmY1FLYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-14 08:14:18",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6417,
+      "EUR": 4.2304,
+      "GBP": 4.7909,
+      "CHF": 4.5779,
+      "JPY": 0.023567,
+      "AUD": 2.3937,
+      "CAD": 2.6032,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 353348,
+      "DOGECOIN": 0.598951,
+      "ETHEREUM": 11645.57,
+      "LITECOIN": 352.84,
+      "RIPPLE": 8.39
+    },
+    "indices": {
+      "^WIG20": 3016.16,
+      "^WIG30": 3890.28,
+      "^WIG": 3890.28,
+      "^NCINDEX": 272.18
+    },
+    "news": [
+      {
+        "title": "Pentagon ogłasza operację w Ameryce Łacińskiej. Rosja atakuje Kijów dronami i rakietami [PODSUMOWANIE NOCY] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUtYWkhzLTl0R2p1QUpMaU1nX3VIcjZZWUZ0cHZWcVk2eEtpWl9CUHdQcktzYTkxZHhUSzBseElqY2hEYU9hSmZaQTlNQ3ZCOW56YkhSdjlZdE41VlFyLXYwa3N1eG5EZVdpZjhsSlByYjZGUE1ITmVpcGNFbnFDWDdXRWQxd0tRaFhtaGdYdFhlXy1LaUhDN09tR19zOHJWZW5veThxYWRGRzZR?oc=5"
+      },
+      {
+        "title": "Polacy ocenili prezydenturę Nawrockiego. Jest nowy sondaż - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlQ3LTQzTWtfRW5zQmxHMEJ1eERQOVVzbmYtUlRyZ0dxRFRtdnNPaTUxaWQ0YWd5LURuLWdCOFFTQ0RlS3Qzb24wWUlDMUhSYmMxaEMzSzZBaVlUbTJhTWVNbkZkY2VIVVR6T3ZNZjhqeEd3MWhoaWQ2ZnRvQUhfd3VZZnFGLXB1NUdhWm0wazdObUpIVVBUS3Y2NzN4N24zWnNkQVBxUFB5cFJ3ZmhZVQ?oc=5"
+      },
+      {
+        "title": "„Południowa włócznia”. USA rozpoczynają operację wojskową na swojej półkuli - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhHbzFXLUxtRy1yekozZ2JTajFKV1VRN1NKQVNMNzJ5UDg0dWw5MHpjUXRmUmNDX1pvOUdpWThxajBWaHQzNUdvRkcxMlQ5TVI2dTR2UnY3R0pPLUlSdnczNWEzVy1OSWNzUmxVOV9ILWxVd1l2MHJ4cTV2eXVGU25jTGNZLVJVM2pEdEZzNV9FVWgydU1ZYXpSWnZMMzRPRUdGaTVYczFfdWU3MjFlTW9od3B2Qkd0TTRjbA?oc=5"
+      },
+      {
+        "title": "Co z Romanowskim i Ziobrą, jeśli Orban odda władzę? W PiS liczą na ten kraj - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMklySzdSem81SFpIV0pIZHZCLUx0Y0lLbjBRaVVXV0pBWUVNTks2UlFVQ1ViaHE0LXZUS0N6MFhXNk92SDdwMGgzbWhCUl9DckpDQVRFcnJaR1JxM0lpeFlIREVMV1BHN2dVaEpVZ1VFMmlJMTFTcXRDNi1QajhaUE53MGZmdlpIb25ZY0d4WHcyYkhTeHdsRlZNM0tyRUNNUUF0d1FUVGtzVzZZa0g4?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski ostrzega Ukrainę po aferze korupcyjnej. \"To będzie kluczowe\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT0NRYUFfdzlqdkxKbkdEMkc5T3FSRDlkaTJEY1QxVjFEQVROd0FuQV94RHQ5WGJTV1I4QVdoNTZrWWFSNGdIaFJzSkVFN1YxLUkzeXpBblgxZkgwZGxaa2o5RFB4Q0QtRzI3eTM0MjQyZFN2ekNvUEZ2OWdacmthQURGTHEyRG5nb2dwWEIxTXkxb3QyamxzVHZEdU81VHZQcDFhdUoyblRfVWp4Tnl2OU9fUWozSUhTNGp0NVhjTzU1YnI3eEdPeU1JTFpscF9LQUtLUQ?oc=5"
       }
     ]
   }
