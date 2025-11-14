@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-11 21:15:43",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 375797,
-      "DOGECOIN": 0.63544,
-      "ETHEREUM": 12579.62,
-      "LITECOIN": 364.38,
-      "RIPPLE": 8.8
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Bosak publikuje zdjęcie z marszu. Posłanki Lewicy odpowiadają z ironią - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGxHbkM2bml4X3kxZThpaEFmb1JtWE9LT29QbE1ERGRnb0d6N2ZhcHpxeDlteTNKNDhGekJGcFp0SXZ4VXBBVWdOVmdJLUVRMlctckU0cjJmRExxbDNlaFduN3hSWUozV3NaMUhoLUNJVlU1cXFTMDRuODNCRkpHX0hPcmNlYnJ2SDJEOWk4UGtxVG8xeGlZbXM5YU1HV0xCZl9ISEFoTE1JNnYxNzhBLUhjcw?oc=5"
-      },
-      {
-        "title": "Mentzen odpalił racę, ale to nie wszystko. Oberwało się też Tuskowi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0FNQzlsVzh6YlFYQVRoZFJDamFxYnI2STA3OWJRNXdPTjJ0YkpoRXNzMk16VDZrNVpDTi1UaEMzZkZzb1VaMnozTnd5MUd3TTJVVG9pV0lQQWVpWXBOQl84Q1pwX3I0cUtVbDRVTm5vbkV6WW5YRUhGdGhVVTJRT2VEOWxjdzFBUWQxelBfLXAxYmZ2cXplLWtmNTBZb1dDNTJNX0dnWlJKQQ?oc=5"
-      },
-      {
-        "title": "Ziobro złożył prokuraturze propozycję. Podał dwa adresy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVdyYVlrWEtiVmV3c3FSaG9hdUxSNU9VcnJYUkZxTzlvcWhudmY2REpkOVhiejctY0FCcWxDN3RqTVpMUkFpRDNTWm9qZ2VjdHJpTTY1NjBKNURYTXpsRmJTZ0JnV3J6VHdFZkc4RWRVcmVXQkJvTHpiZzAxaERRSEF2OVd3QUtMc1hKb2RSbm41VmJRWTZzUGNzOVNuMEhFR0dv?oc=5"
-      },
-      {
-        "title": "Co z Polską i paktem migracyjnym? Jest stanowisko Komisji Europejskiej - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0xGdVdEelRCVkN6aHpsclVPYWszYkhnOExGYVJILUhvZjJxc21zOFU0dUhkTVFKMTBtbzdGeEVPNmVnY2NaVjJNUF9ON00tTUZYOWRLMzFVTWdXNUQ5VHB5T01QM2hXeU50UnA1UDhmcmJCODNBbkZ2NFUxZEUxWEFUR2h0RENaWDZISm5YSllyaEZSUElVU0NQTXNwSURTbW51bk1RWDRmbU9wMWc?oc=5"
-      },
-      {
-        "title": "Donald Tusk zamieścił zdjęcie z Gdańska. \"Nie wszędzie dotarło\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3dPMnhVWGZhRnNVRko2QUUzUkRpS0lua19wNWZWaFNFT0xDWnp3d0RYUnlUb0RuMHNDM0F6MUJXQXh3QThoNVExaVN2ZUpuTHhiTFhtRDN3UFFZX3pGTTkzYy1TN0U2eU5wLTRCTHptTTk0YUtCM19zV1k5aS1TcFF4Z2wyZnNVLUEtUElSeVZzeUs3UnhUeWRNd3FoLWFSU1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-11 22:12:46",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2617,6 +2564,59 @@
       {
         "title": "Nowy ambasador USA z propozycją dla Polski. Padła też przestroga - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDBBSUVObTIxNDVnOEFzMm1lTmh5LTF3dGd5VnQ0YldhRnF3TXNoQl92SlN3RzFUR2tBSEx0LW1NUnl5ZHQzRWh2WkZhRVhoeGY5NnJkUmFSbmRINHJ0S2xkRXJ5Z2ZPZzVocWtEME5HbjZnTXJsVHphVGpWZ1dXTEp0X1p1OG5XSzNWVGVYbFk2dDctVmJtQjBmVE82eGV1eWxJNG4yUDNvdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-14 05:17:56",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6417,
+      "EUR": 4.2304,
+      "GBP": 4.7909,
+      "CHF": 4.5779,
+      "JPY": 0.023567,
+      "AUD": 2.3937,
+      "CAD": 2.6032,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 359362,
+      "DOGECOIN": 0.594402,
+      "ETHEREUM": 11684.14,
+      "LITECOIN": 349.06,
+      "RIPPLE": 8.37
+    },
+    "indices": {
+      "^WIG20": 3016.16,
+      "^WIG30": 3890.28,
+      "^WIG": 3890.28,
+      "^NCINDEX": 272.18
+    },
+    "news": [
+      {
+        "title": "Szef Pentagonu ogłosił operację \"Południowa Włócznia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1diNjVkMnRFbl9NaWc0bFNsSnNURzlxVEh1RzJjYnB5TFFibzBxYTVQaDJOVmZQajVhRG5JR1FVSDNqYTMyREV1bGtrNXA1QjViOWRuWjNMNGl2bDdWb2duYzd4MG5ESHZZUTBJZ0RZXzFDNkxfekl3NnRmVzN2d0VTYW8ybk9yU1hNdFYwMTR5VzhyT2x6ZWhGbXByeXJEb0ZyRy1ZYlZPTHZWNDNua25UQ20?oc=5"
+      },
+      {
+        "title": "Jak Karol Nawrocki stanął na czele totalnej opozycji. Co jednak zrobi po wyborach? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTVqY3BycDJibXFZRVo2b2w0eEtwVWVPWmd3UURfMWFxUy1fal9sVmRyZVdtR0plMk04UzJkQjg5M2s4eE9ObDl3ZXRCN3Qtem1Fdk5aMktMTUNNaVo4SmZyVUZnX0Q3ZWZGbDVJMS1vQk1tWjFZV2JVc3VRZHFpUWNtTU12d1lLWW9TdjVtUlZobVQwWkJ0ckNRTXhUazZqa2k4Vi1lTXdMekdadElkYloxUkY4aUdtRlpfNzlMc3Y?oc=5"
+      },
+      {
+        "title": "Nowy ambasador USA z propozycją dla Polski. Padła też przestroga - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDBBSUVObTIxNDVnOEFzMm1lTmh5LTF3dGd5VnQ0YldhRnF3TXNoQl92SlN3RzFUR2tBSEx0LW1NUnl5ZHQzRWh2WkZhRVhoeGY5NnJkUmFSbmRINHJ0S2xkRXJ5Z2ZPZzVocWtEME5HbjZnTXJsVHphVGpWZ1dXTEp0X1p1OG5XSzNWVGVYbFk2dDctVmJtQjBmVE82eGV1eWxJNG4yUDNvdw?oc=5"
+      },
+      {
+        "title": "Szokujące słowa Krzysztofa Gawkowskiego w TVN24. Monika Olejnik nie wytrzymała: niech pan przeprosi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnQzS0VGTXRGZ0lhOFpUc3RIeXZkTW1vbm1HUmdiRnFBV3lJU0FpN1dMYWFrUm5pZTZKMjZ3VnBLd19na21DX3hVX3RXZ0EzQk1LVUdObkVqY0VPVUpNbDNPUjJGVGNTNUgzc2ZMb2JUamFuTDZJOE5TSUVvZEpQYy1BdFpic0lVTTdnUzBiY0h1OG91akFiX0VIMzBRTWVESFZCMDVITDQ2TmZIV1RmdHgySzdGdmE4dGJpcE9mOFNkU2prNmswWnZrelg?oc=5"
+      },
+      {
+        "title": "Dziesiątki milionów dolarów. Rosjanie stracili Su-30 - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejBxLUZDLUFfYzN0b2FNR3Z2VE51T3BfSFkyQnQ4VUVZYmhSQzJLQ0VCSlhQc251eW1yYm1oWEdUSVhjMGYzaG5MWTRKbFVxZlEwTlRaZVVRcEZhSWlMNlc4dmFvcTJMV2xYMGdzVVRQWmJCaDhZRUNENGNJSUVacnFmblNnVVFXZXVIN0FKUmxVS00tQno1VU9R?oc=5"
       }
     ]
   }
