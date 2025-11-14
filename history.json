@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-11 20:11:19",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +7°C"
-    },
-    "rates": {
-      "USD": 3.661,
-      "EUR": 4.2351,
-      "GBP": 4.823,
-      "CHF": 4.5426,
-      "JPY": 0.023747,
-      "AUD": 2.3932,
-      "CAD": 2.6128,
-      "CNY": 0.5141
-    },
-    "crypto": {
-      "BITCOIN": 376020,
-      "DOGECOIN": 0.635267,
-      "ETHEREUM": 12615.24,
-      "LITECOIN": 364.14,
-      "RIPPLE": 8.81
-    },
-    "indices": {
-      "^WIG20": 3019.29,
-      "^WIG30": 3894.51,
-      "^WIG": 3894.51,
-      "^NCINDEX": 272.98
-    },
-    "news": [
-      {
-        "title": "Ziobro złożył prokuraturze propozycję. Podał dwa adresy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVdyYVlrWEtiVmV3c3FSaG9hdUxSNU9VcnJYUkZxTzlvcWhudmY2REpkOVhiejctY0FCcWxDN3RqTVpMUkFpRDNTWm9qZ2VjdHJpTTY1NjBKNURYTXpsRmJTZ0JnV3J6VHdFZkc4RWRVcmVXQkJvTHpiZzAxaERRSEF2OVd3QUtMc1hKb2RSbm41VmJRWTZzUGNzOVNuMEhFR0dv?oc=5"
-      },
-      {
-        "title": "Prezydent Nawrocki na Marszu Niepodległości. \"Mruga do Kaczyńskiego\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1FqT3BqX1BlVW56TzV4WmhvakZfeGdDa0VLWWdqUnVpbVlaQW5kQXhPQmhFRXRpYkY0RDBNS3FmcmZYeEhEbVhXR0FBbzdhYUZVMkE4MEkxQVJmNk4yV0ZHbGxiLXFoQkZ6NVliM0JQa2tPTlpmY3kzMExmbjBrdmxCQzZVU3FYOURXNzVvbGFNOEdZcEszeVpFNWZuZ2I5R05qOEFrZGg2a2w0bG9naWxSdWhxU2pNTHNvVlhoOHBXdzNkSnNN?oc=5"
-      },
-      {
-        "title": "Zamieszanie podczas wręczania nominacji generalskich. Tłum wybuczał ministrów - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0o3R2xVeF9kdXduWjBRMkNhbEpCQ0ttT2tOYTlwVW9lUmhSVUZydkljdmpSM0hDTGh0bEdRYUhYdEpOTnFFanBDd0NhalBGZmZQc3Nkck9CaTVGbkhRdE14dlUwcEpxWWtHTXhtS0dLV2FndmxOcnpCd2hpa0hPSTZwaVktMUR2RDhZTXdhcTF4bE9kdTRmNW9ST0FScU56NmNsODNYS3Qtdw?oc=5"
-      },
-      {
-        "title": "Co z Polską i paktem migracyjnym? Jest stanowisko Komisji Europejskiej - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0xGdVdEelRCVkN6aHpsclVPYWszYkhnOExGYVJILUhvZjJxc21zOFU0dUhkTVFKMTBtbzdGeEVPNmVnY2NaVjJNUF9ON00tTUZYOWRLMzFVTWdXNUQ5VHB5T01QM2hXeU50UnA1UDhmcmJCODNBbkZ2NFUxZEUxWEFUR2h0RENaWDZISm5YSllyaEZSUElVU0NQTXNwSURTbW51bk1RWDRmbU9wMWc?oc=5"
-      },
-      {
-        "title": "Tak Sławomir Mentzen złamał zakaz na Marszu Niepodległości 2025. Wszystko się nagrało - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd194blp1ZGxLcUl3OWhMTTM1cmw2RnJQWmdFQ3J0Z2FLSTFmak5rSGxJaVlBbjREVXBLU3FHR3pRYVdEMVRrYk01Rkpyb19vanhVUDl4V2U2cWV5dTQtNlhxZ3k4MFBHVjF5U1FKRGZwMnZ4ZjVXV2I2dEUtbThEbFptYzRWY3BOQXBlME9hWHpCX1BPZ20xRkZHZWRWSGtvU1pJ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-11 21:15:43",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2617,6 +2564,59 @@
       {
         "title": "\"Wielki Bu\" doprowadzony do prokuratury. Usłyszał zarzuty - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3cyVExLdG9yZGZaSDI4cFAtdGN6MXB1VlF4anU5aDdFUXNLdkNybnpBUWptQmtfbktFdkZ3QVZ5Z3hYZXpOZWE3Z1dpelV1b0REdllUYVZMbVM2NlJ5NDAwajNqNEdfRmpMSXNXVHZCU3dtUHluQ3UxZkdWczh0cTA2bWFRYVJSTjdhc2xHd1ZxRnprX3V0MmxzUmloaktUdEtrYUlsNXJqN3Q5Ym9GbQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-14 04:08:24",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +12°C"
+    },
+    "rates": {
+      "USD": 3.6417,
+      "EUR": 4.2304,
+      "GBP": 4.7909,
+      "CHF": 4.5779,
+      "JPY": 0.023567,
+      "AUD": 2.3937,
+      "CAD": 2.6032,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 361308,
+      "DOGECOIN": 0.598732,
+      "ETHEREUM": 11726.01,
+      "LITECOIN": 349.77,
+      "RIPPLE": 8.43
+    },
+    "indices": {
+      "^WIG20": 3016.16,
+      "^WIG30": 3890.28,
+      "^WIG": 3890.28,
+      "^NCINDEX": 272.18
+    },
+    "news": [
+      {
+        "title": "Jak Karol Nawrocki stanął na czele totalnej opozycji. Co jednak zrobi po wyborach? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTVqY3BycDJibXFZRVo2b2w0eEtwVWVPWmd3UURfMWFxUy1fal9sVmRyZVdtR0plMk04UzJkQjg5M2s4eE9ObDl3ZXRCN3Qtem1Fdk5aMktMTUNNaVo4SmZyVUZnX0Q3ZWZGbDVJMS1vQk1tWjFZV2JVc3VRZHFpUWNtTU12d1lLWW9TdjVtUlZobVQwWkJ0ckNRTXhUazZqa2k4Vi1lTXdMekdadElkYloxUkY4aUdtRlpfNzlMc3Y?oc=5"
+      },
+      {
+        "title": "Szef Pentagonu ogłosił operację \"Południowa Włócznia\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1diNjVkMnRFbl9NaWc0bFNsSnNURzlxVEh1RzJjYnB5TFFibzBxYTVQaDJOVmZQajVhRG5JR1FVSDNqYTMyREV1bGtrNXA1QjViOWRuWjNMNGl2bDdWb2duYzd4MG5ESHZZUTBJZ0RZXzFDNkxfekl3NnRmVzN2d0VTYW8ybk9yU1hNdFYwMTR5VzhyT2x6ZWhGbXByeXJEb0ZyRy1ZYlZPTHZWNDNua25UQ20?oc=5"
+      },
+      {
+        "title": "Dziesiątki milionów dolarów. Rosjanie stracili Su-30 - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejBxLUZDLUFfYzN0b2FNR3Z2VE51T3BfSFkyQnQ4VUVZYmhSQzJLQ0VCSlhQc251eW1yYm1oWEdUSVhjMGYzaG5MWTRKbFVxZlEwTlRaZVVRcEZhSWlMNlc4dmFvcTJMV2xYMGdzVVRQWmJCaDhZRUNENGNJSUVacnFmblNnVVFXZXVIN0FKUmxVS00tQno1VU9R?oc=5"
+      },
+      {
+        "title": "Szokujące słowa Krzysztofa Gawkowskiego w TVN24. Monika Olejnik nie wytrzymała: niech pan przeprosi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnQzS0VGTXRGZ0lhOFpUc3RIeXZkTW1vbm1HUmdiRnFBV3lJU0FpN1dMYWFrUm5pZTZKMjZ3VnBLd19na21DX3hVX3RXZ0EzQk1LVUdObkVqY0VPVUpNbDNPUjJGVGNTNUgzc2ZMb2JUamFuTDZJOE5TSUVvZEpQYy1BdFpic0lVTTdnUzBiY0h1OG91akFiX0VIMzBRTWVESFZCMDVITDQ2TmZIV1RmdHgySzdGdmE4dGJpcE9mOFNkU2prNmswWnZrelg?oc=5"
+      },
+      {
+        "title": "Nowy ambasador USA z propozycją dla Polski. Padła też przestroga - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDBBSUVObTIxNDVnOEFzMm1lTmh5LTF3dGd5VnQ0YldhRnF3TXNoQl92SlN3RzFUR2tBSEx0LW1NUnl5ZHQzRWh2WkZhRVhoeGY5NnJkUmFSbmRINHJ0S2xkRXJ5Z2ZPZzVocWtEME5HbjZnTXJsVHphVGpWZ1dXTEp0X1p1OG5XSzNWVGVYbFk2dDctVmJtQjBmVE82eGV1eWxJNG4yUDNvdw?oc=5"
       }
     ]
   }
