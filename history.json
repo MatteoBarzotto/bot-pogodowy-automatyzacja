@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-13 15:14:10",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +12°C",
-      "Gdańsk": "Gdansk: +11°C"
-    },
-    "rates": {
-      "USD": 3.6417,
-      "EUR": 4.2304,
-      "GBP": 4.7909,
-      "CHF": 4.5779,
-      "JPY": 0.023567,
-      "AUD": 2.3937,
-      "CAD": 2.6032,
-      "CNY": 0.513
-    },
-    "crypto": {
-      "BITCOIN": 372292,
-      "DOGECOIN": 0.635331,
-      "ETHEREUM": 12490.27,
-      "LITECOIN": 367.99,
-      "RIPPLE": 8.95
-    },
-    "indices": {
-      "^WIG20": 3025.71,
-      "^WIG30": 3902.07,
-      "^WIG": 3902.07,
-      "^NCINDEX": 271.83
-    },
-    "news": [
-      {
-        "title": "Szymon Hołownia podpisał rezygnację z funkcji marszałka Sejmu. \"Chciałbym wszystkim bardzo podziękować\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS09mV3lZWEZvSU9vSFhzT1E2WksteTZ5NkIxejFWRHROR21pOUdiWW5zR1NPd21rNVZuSDZKSVBxd0FyeWJYWDdkMnhYcW1MSE1EeHpIOUxzazZxU0F6Q3BER015TXJycjlKME5ZV2VidnVvWnBoOWNBZ0dqMktlSlROZ1I5eTJ4MEhGT1VFTTg1NFQtSEZncUNFdElSa0FnMkw3NEVSQS1ITzdNVTkwZVBVTHNqRUdWTlB4NW5MTktncWRNMU1QcE9XUXNSbzNySWlGQ2F4RUFMNWIy?oc=5"
-      },
-      {
-        "title": "Nie będzie nowych neosędziów. Waldemar Żurek rozdarty po decyzji Karola Nawrockiego - poznan.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUZRcWhjdkc5NFctT3BuTUtGT2hLZmxnY0w2NW5HQXBBX1VEVW1ySDdxT0tBOUFubHRaRmMtMVVMRkM0ZWk0d3N4Yk41Y1VrYXdLa2lCRi1lckd4VjJqeFkxeGxsRHpLbXB0YWZjeHk2TTVhTWRYc1lMNlFMckxFaG1oZl93OFNDNXJYUTRqWEVZTWIxUVdma2ZxU2tLSUVBWmE4MmhqVkdmVFNMajVJSEEzNzBTTFU?oc=5"
-      },
-      {
-        "title": "Prokuratura chciała uchylenia Grzegorzowi Braunowi immunitet. PE podjął decyzję - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVJDMm05X3pDRVFRMG9QMk1fclRXYmtOeUtQSHhPaDhRRXlJbjdCTHdrVkpLNmVGU1o2N3VxRmcyWmUtVGQ5MEl2QU1MNXNCenF2RkU3VG4yOEZNTUZYZHZJRnRNQjE1M0FqamxnTkRqNXY3WWxJYUZKeGhjVGIxRHJyMHJJZVVOOFUxWHA4UnhDUmpzaTNCMDRwM0VFXzV4dkM1eVJPYjV4anlyUGt0enZB?oc=5"
-      },
-      {
-        "title": "Adrian Zandberg: Rząd zapakował się w pułapkę Ziobry - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTktVjRRcWc4RVk2U0p0VEg4UmdUMmYyVC1pbjdnNFZUSTdCQVloN1NETHNTVGVhUjg1RWI4RW0wMmc1TE5DMjN1c0w5QllxSDFDVHZTXzdHaFVwMUIzUzNGaGs1MGpicS14Y2F1ak9aNXVsSjcxWnRBWGZadTlLUXAzaFAyN2R1b1MyTGk2TmZucUdG0gGQAUFVX3lxTE1UUTV6S2pROWRORXFoajV5M3hPRWtYUERncTBfbnlTM3ZKQmR0QktnUjBnWmxzd3FKLVlPU3NFMVkzMUUwbnBDcENMQlJ2amJjYVk5Tk1CVk91TzVybTd2djlnanNKVUNmLTQ1NGhRcE1vWFV1blpSQ28tNFFPQVQ4VEF2bTQ2UU5xUTF3T3RFZQ?oc=5"
-      },
-      {
-        "title": "Wielka afera na Ukrainie. Zełenski nakłada sankcję na \"przyjaciela\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2tMenJZekhFMFFDQjdNZjAydG9aZ3lBakVRb3FRQmtwVmVlNFFBMXhsT1FqNHlqN3pnZ3laY1lYWlk1aWNVeTdqT0dmdll1VmJGNmYzLTVfSldCcmpGRkQ5SkpuOS1WOGV5SVRKaVJYb3lGNzFneFY2bkxUZ3FGNHhhVDhUS3Q4M29nRFNtMlp6Z09qX3lvSHhQM25wcVN1bmxubDlQaHp1ZzYx?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-13 16:16:47",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2615,6 +2562,59 @@
       {
         "title": "Naczelna Izba Lekarska odpowiada Donaldowi Tuskowi. \"Załączamy oficjalne dane\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXpwUlVFMHIwSGM2T1QyOFdVS0lqdS1yMEtJSFJTQjVLbHgyNGNTT2VRRlBxdEVLZEZZZHZXenp2aER4T25KNHl2NHR2V1YxZEtZcUZCbHkxMDhJUzd0OTFLNjQtWEZybG04NkR0UEhsQ2tNOHlnVnhNa2ZKZklFUDl4Tm9XVUJabEpWdHAyelFSSXZVaEFwTGtLSlVWVnctZHNvUjd6T1JvZUU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-15 21:13:59",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.6376,
+      "EUR": 4.2274,
+      "GBP": 4.7854,
+      "CHF": 4.5918,
+      "JPY": 0.023513,
+      "AUD": 2.372,
+      "CAD": 2.5917,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 348482,
+      "DOGECOIN": 0.595309,
+      "ETHEREUM": 11624.58,
+      "LITECOIN": 375.25,
+      "RIPPLE": 8.21
+    },
+    "indices": {
+      "^WIG20": 2990.37,
+      "^WIG30": 3859.34,
+      "^WIG": 3859.34,
+      "^NCINDEX": 269.73
+    },
+    "news": [
+      {
+        "title": "Naczelna Izba Lekarska odpowiada Donaldowi Tuskowi. \"Załączamy oficjalne dane\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXpwUlVFMHIwSGM2T1QyOFdVS0lqdS1yMEtJSFJTQjVLbHgyNGNTT2VRRlBxdEVLZEZZZHZXenp2aER4T25KNHl2NHR2V1YxZEtZcUZCbHkxMDhJUzd0OTFLNjQtWEZybG04NkR0UEhsQ2tNOHlnVnhNa2ZKZklFUDl4Tm9XVUJabEpWdHAyelFSSXZVaEFwTGtLSlVWVnctZHNvUjd6T1JvZUU?oc=5"
+      },
+      {
+        "title": "Zwłoki na ulicy w Poznaniu. Dwie osoby zatrzymane - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUNyM0x3S0lEWVRIUkhaSjNhWTZHQUdkSFF1c3l0a2wwZFNCYjNpZWJJQXBlWml2Y213dUY1VG1jb3haeGtCdktTUWh6Y3lNQkNEaXM0WDBtUTNwZm10V3hHbVhhR1hkQTZHYzdYVU5uU3dZRXpZLUMzbXRYdU53UkJkNmRZV1BCbDFlOFZ0X0VJRmc3bmJOXzFVakJQY2w3V1d3Zi1WaFZrZw?oc=5"
+      },
+      {
+        "title": "Władysław Kosiniak-Kamysz zapowiada samodzielny start PSL w wyborach - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVcwdmNzTVhKUXZNSXFya25hUk5BVXBNVkZ2WWVhd25XeGw1Qm9KeVNST2RTamdBeHVBLS1SX3J5RTVaMS0yYm5Kd2FXQWRMXzdadjZsMjRxb1hPcnlkQWNOTzhUVFRJQXNGYlJiMkowWWpacWhIUU5NZEFJdG9FVFJRR0tmd2xFanlsbnhtd2IxUzRHZVFxQU9wc1VoMjg1SjdEdUVaU1RyWVE?oc=5"
+      },
+      {
+        "title": "Znaleziono zwłoki mężczyzny. Dwie osoby zatrzymane - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3VoRWJXUTlEcmxBcHRVc0VyRVc5ZVpBUmhWWkRaRFdiTGxnSFNZZzRjbHA5NWlTcWpQaFUtX2VJRG5MZ0UzdmFHSTRnbmJrVW8taE1RN3ZIUUtkV3pMbllPTnQ4NXdiNE5rMkExS2hqSkFqa0dTQl9rUTVxWjF6MjN4cGkxUGtjVjRRWXRiYVUxM1dGNGJlazlQdUl6RmhvSFZJZTJBVXJ1YkJ3VDNkeENkUVlGLUJINUE?oc=5"
+      },
+      {
+        "title": "Kaczyński wraca do przeszłości. \"Według mnie Lepper został zamordowany\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnA0ZUZkMWhrOGkzOUxkZzZmN1pSSTRabmowb2ZsU2g0ZnRJRTFqaU1xbnRSQU1tX1IzQ0F6dUF3TjJiZW9uSFY0eGVHcHBpendwcXAxOFBfOVFHa0pvdTNVZENsajBNTUhKMEpULTByaFlBR0FvdGt5V0pXVzR2ZEtTN2M2aUxzTU9OVi1YWTdpNHdOLWJvVmY3ZEw5aHE0R3pxbXphX2x4Q084UlJ0N2x1Sm1TOEU?oc=5"
       }
     ]
   }
