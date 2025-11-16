@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14 11:16:38",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6417,
-      "EUR": 4.2304,
-      "GBP": 4.7909,
-      "CHF": 4.5779,
-      "JPY": 0.023567,
-      "AUD": 2.3937,
-      "CAD": 2.6032,
-      "CNY": 0.513
-    },
-    "crypto": {
-      "BITCOIN": 352799,
-      "DOGECOIN": 0.592001,
-      "ETHEREUM": 11533.27,
-      "LITECOIN": 349.59,
-      "RIPPLE": 8.3
-    },
-    "indices": {
-      "^WIG20": 2980.0,
-      "^WIG30": 3844.95,
-      "^WIG": 3844.95,
-      "^NCINDEX": 269.54
-    },
-    "news": [
-      {
-        "title": "100 dni rządów Karola Nawrockiego. Oto, co sądzą Polacy o prezydencie [NAJNOWSZY SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0xzLWk0MjF4RGY3WUlwamFSMDQ4NjhYbGpsVXJKTTJtcVFvVE5INUgwZnlhd1VlelNHb1VoLUhoQXZqdFhNRG5uMEV4RzVvM2U2S0N1dEhXSEprbzJ6LVlBWUJlc1RsWTJyU2pSaFpZQVppTTdQcFp3RHBNRnNyUWNKaTlwY1ZrYy1BRzBraGVKQllnUF9UZ05xdGRteG1GZjVTZDhfdTRWbTlnVGc?oc=5"
-      },
-      {
-        "title": "Auto uderzyło w dwie 15-latki na pasach. Lądował śmigłowiec LPR - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd01hM3NhMTlaa3ZtSmhpM3dOcmVYTVZaOTd5N0hBd19GRWdENG9qdDBzaGwxcnlPUjFKZks1YWJfc3k2bVZUNXVVZXNkNUJfQTIwWXFiS1FKbkJBYmo4dk1mMUViOElpdXJzSHdKVDUwbmhnVGRmUjUwNC1oNjJWdV82ajFwQzNuUjdvVllpSnliYmhTM2RhQW9BMGNoR1BZX2pGR181YnJKcWxw?oc=5"
-      },
-      {
-        "title": "\"Priorytet\". Marta Nawrocka zdradza swoje plany - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWm9EMjRObWdJQUloTThqZDh2djduOUtmNnRRTWVGN2ZTVVdINEJubGJkLVEydGlLUTBOQXpXQktLSXF4TklUeVdBdDVUQmh0azhvTWFObnBDQ180RHpDTDlfZklpWU1GTE1pb1lOaDNyVDlpUmo5MkktMDZxMWtjMEstRkpnaVFuQllHbi1wWDdDenR6VHVHdlE4eWN1QWtiNUJoYjlVRjlUMm14V0ZfMjNQMkF2R0E?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki zostanie przesłuchany w sprawie \"Wielkiego Bu\"? Korneluk wyjaśnia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3ZVR0ZpbklSRVY4SFFnNDN4LTB4bjcxRWJKMHJoM2RzbmFIVkItcEdkSGJFRTlGMjhkS01ZN0tRckVrNVpkb2l1OUMxUFlSMWpuNnFRRDRxX25iRHJiQXBiX1BZbmNfSFBmM20tLS1vdWZvRzNnZTZoM2JuX1BQWERiOXVRMVJBN0hOZUVzc241WGc1a3BDcF8xNjM1bkdkRUxYZHdSaWdQbnRGNUFVMFhZaEpkTFEx?oc=5"
-      },
-      {
-        "title": "Zmasowany atak Rosjan na Kijów. Są ofiary i ranni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX09yeXljYmdSSjJCS09jRk1FZDBoZnd4UklhdkJ1MV9aaExKTlB1R1M1WGFyenQyVkt2azRwYlpTQ2Vxbmtwb3dkVHJocU51cGZyVlpydmRfdEIyOWlHUWpkREczaVphUUVlaUNfUjhwWGtvQlJ1WHQxd2UtSlhEUi1zWlVrNkU5SkU1WjdwdHozaXp0ZnVkZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-14 12:12:38",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Trzy auta zderzyły się na trasie S8. Jeden pojazd dachował - o2.pl",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREVZNzlLMDhCZ3VQWjJURFdRcTcxQ3FDTG5JbDh0blRVck5JT1Y5UjM4dUlEUHdsMTR4bk16VjQ3WDdMaXhQSkNEM1lJTWhpUHltRzJpNWpxa3NOT3ZUeXFzQnAyT213RzIwZTJFT2FCNmNsU1lFTXBwMG9xSzJtdjlsRlpIRzJJU2xkNUxZaUdMeHh0SUs3WEtKQkJvNDFrTEZNVWlHMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-16 17:15:04",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6376,
+      "EUR": 4.2274,
+      "GBP": 4.7854,
+      "CHF": 4.5918,
+      "JPY": 0.023513,
+      "AUD": 2.372,
+      "CAD": 2.5917,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 343442,
+      "DOGECOIN": 0.575904,
+      "ETHEREUM": 11254.66,
+      "LITECOIN": 356.27,
+      "RIPPLE": 7.93
+    },
+    "indices": {
+      "^WIG20": 2990.37,
+      "^WIG30": 3859.34,
+      "^WIG": 3859.34,
+      "^NCINDEX": 269.73
+    },
+    "news": [
+      {
+        "title": "Akcja służb na Mazowszu. Uszkodzony fragment torowiska pod Garwolinem - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2hFVW9OdlQxZmhLR1JSR1MyRThEb2ZpWURwa29ZUnZZUzQ0OXBuSlI2ZWpqSkxEcjh6X1FRREZHVnlzQ09IUG1oUXFsM1NyRXBqWm5JX2pSNUZINGR2VWdIemlvWjlKRFRXcE5TRnBtcmZ4Wjk1NEN0aTFsUVM3YURMOEF4R3ppYjlhR2ZsZzhGWkdDSmJ0eVZaTDc2MHNaX1YyMEtRbGdlT2RiMVlTY2NOMGE2emFZQVNpMlJQSVFxUQ?oc=5"
+      },
+      {
+        "title": "Prezydent Nawrocki reaguje na aukcję z dokumentami z Holokaustu. Jest apel do rządu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUnNNYTV5VEpudll2TnhUMmVkWkVEdDJvUDJ6SmkyVHZrUHVoTGJMcE9oRmxReW5kQUFQajJuZ0s1VkRGdHdEa0NVM0RoUjBsTW9ncXFFVEFBaDJDbG9paE9KWXBFOVlkUE9WN0JfZzJZcUh2OHRJTjdqQ0prNEFFV0VQRjJWcWhnMnZFdmpEREtaR3dCR2tzTFRNQlJLSzlBNVZEZGFZQ2xKT0JTaEFMSURqckZ0MkZYUnFXdzJuUW1qcnIwQkNXVHBlcUhDcXpEWmpJdGxScnpxUTZWQ1E?oc=5"
+      },
+      {
+        "title": "Groźby wobec prezydenta Nawrockiego. Policja zatrzymała jedną osobę - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmpOUEc3S1R4LXlFZEtJcmUzdzVHa3pvcGQtZHBFOENocS00YzN1QUNaMmE3Q2NFR3h6YmdoUndKTmtuc25ZU0dNTmU5YXN2bnI1Z2xfR2JWZTFOcUh5WDBEZVc2c01palkzQzhvNUQzX05LV1NzLWNtZUVkM2c3TDJ2dG9tWUdIVlh2UUF3OFUyZlV4bHdJYm00aVQwWEo4cDExeWVpTFVPSGUzeXZR?oc=5"
+      },
+      {
+        "title": "Marek Migalski walczy z rakiem. Wkrótce decydująca operacja - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXNZUmlzZ3BNZ2RrLXo0X05tUWhkZVA5WTNzQjlTb1Via3lJLWJ2Qjk0eXg0QkxMWkwzSXdQLW5iXzl2TWRVZllZbWtQV05zalo2clViRURKMTBNcnE1UlJiRTVZQUdGWTNBdU1EbWx3X0dFTVY3OGVhWnI3ZDhpWEhrZXViY3YxakxXaUZpQTFPSzEwWU9UWTFUVmMxWlVfQ1FVdkZmbU1RTHloRHZxdDIyaHRzUUdXWUJBVFE1ZmtXQQ?oc=5"
+      },
+      {
+        "title": "Pisarz, który nagłośnił \"ludzkie safari\", dla \"Wyborczej\": Sprawa dotyczy osób majętnych i potężnych - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2Nud2hValVXODRodlJhd3p6T3BNMHIzWm1PenZ6WGR1YTdQbmdEWlc4ZnNvbHFpQkhuU0VodV9DMWkzQ3hOZndZRDc2ZFdWUHhJV2VDcjdBZzE5QnZLcFpURUpyVXlJeEdBRDhzZWpCTTdGUGxFYmlieGRWMXAxS3FET1JHU001YkoxNUtVMm1GTkRYdWt3N0pLRE1hdHdNSGJHZ05R?oc=5"
       }
     ]
   }
