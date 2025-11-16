@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14 18:12:59",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6376,
-      "EUR": 4.2274,
-      "GBP": 4.7854,
-      "CHF": 4.5918,
-      "JPY": 0.023513,
-      "AUD": 2.372,
-      "CAD": 2.5917,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 352674,
-      "DOGECOIN": 0.596808,
-      "ETHEREUM": 11773.9,
-      "LITECOIN": 355.43,
-      "RIPPLE": 8.49
-    },
-    "indices": {
-      "^WIG20": 2990.37,
-      "^WIG30": 3859.34,
-      "^WIG": 3859.34,
-      "^NCINDEX": 269.73
-    },
-    "news": [
-      {
-        "title": "Katastrofa autobusu w Sztokholmie. Są ofiary i ranni - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0dkeXVzQVl4MURHdlNjUEQ5NjB0c1BFT2FwUVZEb2pXd05xWkh3ejRhZzFtNmI1cGViSW1qM05NZzNMdTVmS0U5ZVFuSE5FU2laTmNQaktia2tNek02YzFhVm54VDFNRmdWOGRIcDljSGVkbi04QnZpM0FUS2lqaWVfUGt6cjg5V05Vd2E3RTNRMnpscHpuVUhfWDZPTEhL?oc=5"
-      },
-      {
-        "title": "Ryzykowna gra prezydenta. Tak Karol Nawrocki pomoże Donaldowi Tuskowi utrzymać władzę - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWd2QWU2S0VOa094alFoX3dnTnBrZ245bGxMcE5IMG1kT3R5OVRJZkRHdlJrUkVTNHdvZVh0dGMtaU45TzdraGZLZmpTQW9vMmROUG5EODc3ZnFnYm5TQ19PVmFLVjJjc0VwY1pJenVxNWJ4UXlQbjgxelU3bUFzbFFsSkRPUmlSOHJnRWd3?oc=5"
-      },
-      {
-        "title": "Akcja służb w Otwocku. \"Celem było zabezpieczenie podpisów Szymona Hołowni\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmltdlEyWUtSRTZzbHg3M2NkblU4SW9QM3dBd292eUhQQXBhc3lGd25ISmRjQjNRMzFYRUhnUy03Y1dHblNhSE1YRXRMNy15WWF3MzZCTHBlR0Fjc0VwV3djczhsWmNVMUJ3bE5Ud2EzaDBlVWxjVUxBUjI0eTVUdTQtYV9ka1VLVFZKY1JXUnVXNG1Wa1N1dHh2aDNCVE13?oc=5"
-      },
-      {
-        "title": "Tragedia w Bytowie. Nie żyje 11-miesięczna dziewczynka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlJIRDMtSU42NGhtMXdGMVhFZ0RBbU14d0ZHcWM3NnV3UDRVTVlsQkF3M01RSkpOU3FaVFF5TGZFM3BlMHY1ZGtNcl9HdGl1T0YzLXpPQ1hoc1BndzJQNHBVN3RfRmJyZ2xCdExReVFLazBTZWZLYkhQMlVHTUdsZ1A1RFFxTHlUam9rU1BOS3hOMG82SjdUbGFlcWF5Y1ZVbHlkMUkydVpRSzRRdlFmMkc1a1BCRzA?oc=5"
-      },
-      {
-        "title": "Donald Tusk ostro o Karolu Nawrockim. \"Czuje się gwałcicielem konstytucji\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWc2S0N1aU5yeFJYYWgwYy1BcEdHcV9DV09aOWF2c3BpTEJ6SXNNc19RV3RmQVNCYjI0dV80d0gycTU4SkNWX1FsVGNaRllwRTRGUjM4Ql8waHZFSUJTS1RPZm1DeXZLQzBRRFdSRjV2QXVfbm4yaTdTMU1jWlBoaW9kLUVTSmx2SmpMcXdnVlRTSXRjQWNrUGtyTTZ2bk9aZFI0Mk5UUTdjSjlBeEc1ZA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-14 19:20:18",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Pokrowsk pada, Putin w euforii - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0JoRXoxNGVkdTBueHB0N3BvUkY1bjUycTZObWNWMkZlN3JBNFltVFdNN2M1aWM5X09LUWdRVUdoVkdyV0Y2UFhCdGR0MURTVmZ3UXFkUGc3aHN4UmZwOE91Wms1UllWN3dtVWtkdDhzX2RpOTJ5ZFgyamktRFUyLWlKQVB4ODVOMFdsb0Z4QXFnNlRaN1ZfOUtVbmNzYmRFbWlQNkdPUWM0TXNpa0dv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-17 00:12:36",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6376,
+      "EUR": 4.2274,
+      "GBP": 4.7854,
+      "CHF": 4.5918,
+      "JPY": 0.023513,
+      "AUD": 2.372,
+      "CAD": 2.5917,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 340016,
+      "DOGECOIN": 0.569892,
+      "ETHEREUM": 11101.05,
+      "LITECOIN": 347.04,
+      "RIPPLE": 7.97
+    },
+    "indices": {
+      "^WIG20": 2990.37,
+      "^WIG30": 3859.34,
+      "^WIG": 3859.34,
+      "^NCINDEX": 269.73
+    },
+    "news": [
+      {
+        "title": "Mina Iwony Pavlović mówi sama za siebie. Wyniki finału \"Tańca z gwiazdami\" zszokowały jurorów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1JoM3pwV1I1M01SbXdZbGdsWlozUGZEMHlQZmNmc3hwTFUzT0ZjYktFb0dwUGVQOS1JY0c1eFNwOHNFem5hb0M4T1J3WThKR3hjeTRxUnlIUEJBcFhKanBOQ1Ffa1ZycG9MR3Ryc2NrYTNONUVXb0JHRTUzVm9fSXBmWHpMUVptbENuRWI3MmxGeWJidFA1dHlZTjF0bWNyaTZIR2JIRUpmUXllUWVBbXQ2S3pQeE5FaDMwTndlb0tKUlE?oc=5"
+      },
+      {
+        "title": "Groźny incydent na kolei. Maszynista zatrzymał pociąg, na miejscu służby - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEp2bUtwWHF0Y21VTFdmeUgxVkJ5MWhROW5tSkJJcGtadjdFLWZCc0NsZnA5Z2twQmlsZ3JIZ1FVWmYyOWRUXzV1T0g2VzlyWmFaZV9HaDlNUFFRMDJkQTFBaURJWEFiSUFzeXFZd09WaXZJbWxza21JQWRSSXhmSHNZM2YyTjBIUkxndmVhSDF1V2dIUzc5Rm5NWXBZRXlmZUp5RFpnRHRmNVQ1OTZBdkZSclNKcThxLVE?oc=5"
+      },
+      {
+        "title": "Aukcja pamiątek po ofiarach niemieckich zbrodni zablokowana - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWNNLXlhN3FwSmt6Z0ZVdk5tckNLRXZ4VDV1dHVDN0RaNFJna2xFQ1Y4ejFsSFVEcWhfZzc2VzBYUGFkc24tbTI4cnE1SnJXQmo1TXctUmc3RGFTdWl0ay1aOVFuN0RIb0tqYThKUWFUQ3pybUZtRDRqQnpJREpJWlQ1eXBIZ0NGVG5YaEc2cVFmdnI0N1NzaUUweTExckd2Ync?oc=5"
+      },
+      {
+        "title": "Pokrowsk pada, Putin w euforii - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0JoRXoxNGVkdTBueHB0N3BvUkY1bjUycTZObWNWMkZlN3JBNFltVFdNN2M1aWM5X09LUWdRVUdoVkdyV0Y2UFhCdGR0MURTVmZ3UXFkUGc3aHN4UmZwOE91Wms1UllWN3dtVWtkdDhzX2RpOTJ5ZFgyamktRFUyLWlKQVB4ODVOMFdsb0Z4QXFnNlRaN1ZfOUtVbmNzYmRFbWlQNkdPUWM0TXNpa0dv?oc=5"
+      },
+      {
+        "title": "\"Nie zwlekajcie\". Marek Migalski ujawnia porażającą diagnozę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXB5Q2t5eFJuR2hrNVBzNUxsUGktQ1BwbXI4RHpYNmt0MFpoUVM5b3JwRF9zc2tRLVBXS2JERTR3dFA3NzVXZXBfOVY4ejhkc1ZHVnBrbEdIUVM4WFgwQ3p0RTQteV9RSTJJTVdlZWxEVF9ZcWwxU1VvRXRTT3NUMWxjdmtpdTJGeU5hSG5pMlN6NVJUbDlLQmlxanRlTllxTmc?oc=5"
       }
     ]
   }
