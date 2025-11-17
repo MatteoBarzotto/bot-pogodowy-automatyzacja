@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-15 08:12:02",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6376,
-      "EUR": 4.2274,
-      "GBP": 4.7854,
-      "CHF": 4.5918,
-      "JPY": 0.023513,
-      "AUD": 2.372,
-      "CAD": 2.5917,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 349453,
-      "DOGECOIN": 0.593398,
-      "ETHEREUM": 11562.01,
-      "LITECOIN": 376.4,
-      "RIPPLE": 8.29
-    },
-    "indices": {
-      "^WIG20": 2990.37,
-      "^WIG30": 3859.34,
-      "^WIG": 3859.34,
-      "^NCINDEX": 269.73
-    },
-    "news": [
-      {
-        "title": "Polski Związek Piłki Nożnej wydał komunikat w sprawie rac rzuconych na murawę PGE Narodowego - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUhIRUxhQno2SXhZWHZCZG92dlNWUzEweVFrQ3N5QUR5ZzNZblhORThUUmN6OEhFdXBFTk5QTTlTazE1bkM4S21lRWdHajlNMllSSWNLaDhQX0JmY0JkeHY2NEcwa0ZBdVpGYTRmV1hIQW9Sb013OXE5UEZrUEZFNFNabjVrb29VZ3h3aDMwZENtWkNLZE1sZzIxakhoTThVQVZXMC1Kbm9LUndDUjhNUnRUZW5ocDdTOGF2WlNJRdIBxAFBVV95cUxPSVZMTVNQWmpGVDJfN1Zrakc2SUdIcE5BaUhnMGpTc21kOFlFcXJrUUI2UHlxRlFKem9EQmpsS1hlUXJSb0FzOWIycmlvMzFPZUNRR1AzbEFha3dTZkxtWEZuR3ExZkhBNE1HeXdyMVFBd3lPZ0pUV2w4OVF3dGFKS1ViSHRYSl8xdkxEdk1VdWhoZG9lWjJ3dVhVQVFGejY5MDRNZ3dPVHVNX1c5QWUzb3JidnhPdllrRlBRc3JPQ1JGX2hS?oc=5"
-      },
-      {
-        "title": "Powstała nowa partia. Chce namieszać w polityce - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFRvV3pva0F0STJCYzJHRFdqc00zRXhtQUc5M1l5UE8xQnJMMXdCbVNyUm5ON0pxZWhSVjVUc2stQjBpRWVIMnhBbjFOUk5LMWpZal9CRC0wbzFBVXhDZ05zbXR6NFN4eG5PM2xzSThlckpzRzlKQnpEVnFKdzVyRzZxTlhYOXAzeGdMMG1BaHZ0bGNtQjY5UUM2UnZDNWg5aXNwM0xWSVlRRHRXV2g3SG05bVZULTA?oc=5"
-      },
-      {
-        "title": "Pojedynek wicemarszałka i byłego premiera. Stawką kluczowe stanowisko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMno4alhUUUVpUDA5eEpCTFRhLWRHV0N0SDZDR29USXBXMWdwQi0zWXVvNkdXUTd2QjVDY1huUzNZTlB2cVdVOXNGZkI1eE5UTXoxTUtRV0tvU3BqWjRzSVduX01ES0xCWDhwX3RvMlRDT0VRc1JZY09uamJsaUoyR295S3pPUDRNU3lDNjZ1Z05QcXlnTkluLTV2b1RFa2NCMmdZMkdpOFk1anBRNmVlTnpabDlQQmVqTFZxbzZsaEYzbzNQYXZvc3VQVjg?oc=5"
-      },
-      {
-        "title": "„Bo przegracie wojnę”. Donald Tusk ostrzega władze Ukrainy w sprawie korupcji - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXF0bERHNG9BY2JtSGczVEw0OFRLcU82RnkyRklMRXk2VTZ4aXBJWERRSFMzQS12ZUdGMlYxVDZXSzEtNGZhM3RLRFY2QUdVcmZlU0ZjU2RPVGZqTFB5QjNacUV0dTVzOEJveVliV0hod0JNNUpmeXRybXJHVjVrakcwcEFyRDlEVFZEX0tIUGwtVUFOMzk2cEV6S0hMcEpZNy1BVDQtSWpSeWRydWRSSVpBWQ?oc=5"
-      },
-      {
-        "title": "Dramatyczna akcja w Białymstoku. Posypały się strzały - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlVWaFdzLWZET1hkUW5qNms1RlRyQzQtRGptNVJMOVBlZnVjUHlSNHItdDRuMFRpUFR5VEhiVWhPbDhzSXA5LVRfN1YzX3BhRGVXeFhyM0NpelhzYmFVZmt3a3J1OEdTWVNTMTYwV1BXa2VSYTB1cmZ3Z1RTUHZ4UmJkLW9YbXRsUC04TnZUMzJ3RTlBM2wzTHltWnFCR3I5YURLZEJFYW93N01EcEtGZ3V5b3hrX0JBR0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-15 09:16:48",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2643,6 +2590,59 @@
       {
         "title": "Burza wokół prof. Heitzmana. Kolejne instytucje reagują na tekst WP - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFRxNDNmdU5YRVlJT3BYa2ZVaUFfNXo2M2lqYWl0bWRyYkJLUGRfVl85NjlMc2RQUnRHN1FNNFV0cXU3OFFTeE9sTnJOUVR0ektzZVhJSUFBZVpSVU9jNm5NQmhpc1JiOGcxd0ZQZ3dremZCS0VxaHp5bENVckxMQ25SS0xIVlZsRUR3LTk5R3FFblZwcGtBbDZINV8xRzNYR0xHZWJIZ0lwTEJI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-17 14:27:51",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.64,
+      "EUR": 4.2231,
+      "GBP": 4.7924,
+      "CHF": 4.5826,
+      "JPY": 0.023522,
+      "AUD": 2.3734,
+      "CAD": 2.595,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 344826,
+      "DOGECOIN": 0.585682,
+      "ETHEREUM": 11470.26,
+      "LITECOIN": 346.32,
+      "RIPPLE": 8.19
+    },
+    "indices": {
+      "^WIG20": 2964.78,
+      "^WIG30": 3822.62,
+      "^WIG": 3822.62,
+      "^NCINDEX": 265.54
+    },
+    "news": [
+      {
+        "title": "Donald Tusk: eksplozja miała najprawdopodobniej na celu wysadzenie pociągu na trasie Warszawa–Dęblin - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDlmWXdrMktjaTdEMnFVQ3RodjhCT3p3aTJaV0c1NVowWW1IQi10OEY1eERWSGduU050Sjh3TW40NVNJMDc3VUhtN2c3MTZXeTM1YkFUaC1XdEJKNnBpZXlDZXFuTVZaM0lFdElWRUwtT1B5ZDBpbmtVLVBhb1E0ZUJTQUJtTFF1WEJ5NFBmb096VmhmR21EblNlSVJlZFhCWlFsQ0w0TW1aMlphUUhXWnNGLTZ2N3JHOG9yMXBBOWpLQ0U?oc=5"
+      },
+      {
+        "title": "Minister prosi ABW o dokładne prześwietlenie. „W związku z doniesieniami medialnymi” - Radio ZET",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUgxc1kyRDZIQS04dWNnQ083RGRySmdOSDZ1aEhoYkx2MkJKbS1ZOU4wemZ2Q3FObUpDUF9VaHAtZUZMLWYzLXlSQ084MnBmYVBPdGJPcnRiNzZPN3AwSlRhbUVkTnVZV1ViaXhTTEZybkFNdFdNem1NSGhtTnVNMVZSVjJkQ3hsb3FYRGF3UFdjXy1nZk15a2laaWZ5WWdCUEJWVDRTaVhIU3Y1SmQzMkNfT1JFSi1VZmRjY01R?oc=5"
+      },
+      {
+        "title": "\"Obudziłem się rano, a on leżał obok mnie\". Nowe wątki w sprawie prof. Janusza Heitzmana, znanego psychiatry - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmpoTDVHdXdPSEl0MV9kZjk1em1kSklVbi12VXpzTzJweWNYNUF1U040aExrWTIyYWNIN3RtVUpPLUlQbkZRWVNWd0ppc2lRdm9OOUNMb3dENEVEdWxFRTM3aEdVNC0xUzZfSHVWQklLcTBlbm1pRHhxQVhxNWRFSV94QVRWRXJoNTY3Z2FpMFZLU1lDY1BTamNPN2QzdkdTdGdkQVd5cjZIelpTaERxczcyZmtscjA?oc=5"
+      },
+      {
+        "title": "Sikorski o aukcji w Niemczech: wszystkie artefakty zniknęły już z internetowej strony - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmdBVURQbUxaOUh2a2RzaGVhb0RuTGYybkR5OS1kT1NZRHBDZEsxcloyT3FDd2g5bEFHWmR0YWFvbzVQdl9aT3VVWEI2dFJ5TjFhWFc1bFpEWFRjcGxHMjBhMDdXVHFRWnlfU3F6dnJFTHdUODM4SHJXMlllVE40b1RTY0pKN3d4Tk82VGNNM0NvSnJKS1ZDWk5uM3RqeGs4U184TGdVTEsxT2RYbnhIU19zZU15UQ?oc=5"
+      },
+      {
+        "title": "Zdjął krzyż ze ściany urzędu. Sąd wydał wyrok w sprawie wojewody - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTNadG9maFhuZkhqWlI3cDBUR1NQWUxiX25Neno0cXdEOHc5aWkwM0ZNajZ0WklCakd6Smd6bGdFS0Q1MDdIWVVaX3JGX0wyT21jZ1JySGtEZkNNdUtUNzlSaHBkWGZfMGRRRW55OFc1SWtYZ0FCV0EzUXBpMDF0SnZBM2xNblpadWhSWGpPb1NHaUl6cm1zLXBMS05TNGNCOU84ZkZULVY2YmFtQUYxcE1iX2ZBREpsemllUjdn?oc=5"
       }
     ]
   }
