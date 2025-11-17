@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-15 06:13:30",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6376,
-      "EUR": 4.2274,
-      "GBP": 4.7854,
-      "CHF": 4.5918,
-      "JPY": 0.023513,
-      "AUD": 2.372,
-      "CAD": 2.5917,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 349303,
-      "DOGECOIN": 0.590494,
-      "ETHEREUM": 11509.25,
-      "LITECOIN": 377.21,
-      "RIPPLE": 8.29
-    },
-    "indices": {
-      "^WIG20": 2990.37,
-      "^WIG30": 3859.34,
-      "^WIG": 3859.34,
-      "^NCINDEX": 269.73
-    },
-    "news": [
-      {
-        "title": "Jest decyzja sądu w sprawie aresztu dla \"Wielkiego Bu\" - onet.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1BocTZZMnZYWGhrUUY1Xy1EN1dsamkxRmxsbXNyUlF4MXdpSjRLdVBtdkRKbnBUSk1HZXpPM0N0SkNnZ0lpTW5LNGpjY3pNb19FMjUtaEdReUw3OTQ4QURnN1JpYVhmMmp0ZkQ0LTR4NThiMUJ3MmM1ZjVnNVpodnhDeWMyb0VBNmN5RlNlNUZWbmtHQWY1MW94OWdURkxrb056WVlLaUhfYmdmb2ROUXlLdDBpdw?oc=5"
-      },
-      {
-        "title": "Dramatyczna akcja w Białymstoku. Posypały się strzały - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlVWaFdzLWZET1hkUW5qNms1RlRyQzQtRGptNVJMOVBlZnVjUHlSNHItdDRuMFRpUFR5VEhiVWhPbDhzSXA5LVRfN1YzX3BhRGVXeFhyM0NpelhzYmFVZmt3a3J1OEdTWVNTMTYwV1BXa2VSYTB1cmZ3Z1RTUHZ4UmJkLW9YbXRsUC04TnZUMzJ3RTlBM2wzTHltWnFCR3I5YURLZEJFYW93N01EcEtGZ3V5b3hrX0JBR0E?oc=5"
-      },
-      {
-        "title": "Nowa partia zarejestrowana. Namiesza po stronie liberalnej? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUVkbjI3ekVNU3Q1WEFHRTRSTEZfby0xNVdYTTNBQzZiRTAxaktzdTJxR3R4Y3pSa0I3X2pCQU9XT0hlelNEcUJGZlNnX0pkMEwtT3VLWURPMTZUdjd3ZE1aSEpneTk2UHBXT09QY19rVDFfMUV6aDExTm05S0lmMXRlR21IM1N4OUNPOEF6NXp5X0VvTmZvTFA4dHVOZHJmWGI4NXJJbkIwaTJRMVdjX2xMWHlWQ3JJdHNnbW40MGRsbHI5SFJJZw?oc=5"
-      },
-      {
-        "title": "Matysiak w Radiu ZET: Nawrockiego po 100 dniach oceniam całkiem nieźle - Radio Zet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkN0TmcxamMzVm5tWlFwYzhGTktZcWtiV2dmaEZlemFjTXpzOXVvLU1HMGJsRGFPT2JvZnR0aWN4elNyNnZIeGtDbDIyWHg5WWE3UFFMdU5STDZzdGNFdDY0cnNEZS1BX2QyakFiMEdoZGZEMnVsSUtfc1RBelJ1WDhmeDhYODljZld0S0ZYNENVOER3RnRvQjN3dTQzaXg0bkpfNUV5b3hmSmc0c0E?oc=5"
-      },
-      {
-        "title": "Polski Związek Piłki Nożnej wydał komunikat w sprawie rac rzuconych na murawę PGE Narodowego - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUhIRUxhQno2SXhZWHZCZG92dlNWUzEweVFrQ3N5QUR5ZzNZblhORThUUmN6OEhFdXBFTk5QTTlTazE1bkM4S21lRWdHajlNMllSSWNLaDhQX0JmY0JkeHY2NEcwa0ZBdVpGYTRmV1hIQW9Sb013OXE5UEZrUEZFNFNabjVrb29VZ3h3aDMwZENtWkNLZE1sZzIxakhoTThVQVZXMC1Kbm9LUndDUjhNUnRUZW5ocDdTOGF2WlNJRdIBxAFBVV95cUxPSVZMTVNQWmpGVDJfN1Zrakc2SUdIcE5BaUhnMGpTc21kOFlFcXJrUUI2UHlxRlFKem9EQmpsS1hlUXJSb0FzOWIycmlvMzFPZUNRR1AzbEFha3dTZkxtWEZuR3ExZkhBNE1HeXdyMVFBd3lPZ0pUV2w4OVF3dGFKS1ViSHRYSl8xdkxEdk1VdWhoZG9lWjJ3dVhVQVFGejY5MDRNZ3dPVHVNX1c5QWUzb3JidnhPdllrRlBRc3JPQ1JGX2hS?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-15 07:19:54",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2644,6 +2591,58 @@
       {
         "title": "Sikorski o aukcji w Niemczech: wszystkie artefakty zniknęły już z internetowej strony - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmdBVURQbUxaOUh2a2RzaGVhb0RuTGYybkR5OS1kT1NZRHBDZEsxcloyT3FDd2g5bEFHWmR0YWFvbzVQdl9aT3VVWEI2dFJ5TjFhWFc1bFpEWFRjcGxHMjBhMDdXVHFRWnlfU3F6dnJFTHdUODM4SHJXMlllVE40b1RTY0pKN3d4Tk82VGNNM0NvSnJKS1ZDWk5uM3RqeGs4U184TGdVTEsxT2RYbnhIU19zZU15UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-17 12:12:51",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.64,
+      "EUR": 4.2231,
+      "GBP": 4.7924,
+      "CHF": 4.5826,
+      "JPY": 0.023522,
+      "AUD": 2.3734,
+      "CAD": 2.595,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 348448,
+      "DOGECOIN": 0.591246,
+      "ETHEREUM": 11654.13,
+      "LITECOIN": 351.87,
+      "RIPPLE": 8.28
+    },
+    "indices": {
+      "^WIG30": 3825.6,
+      "^WIG": 3825.6,
+      "^NCINDEX": 265.3
+    },
+    "news": [
+      {
+        "title": "Donald Tusk: eksplozja miała najprawdopodobniej na celu wysadzenie pociągu na trasie Warszawa–Dęblin - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDlmWXdrMktjaTdEMnFVQ3RodjhCT3p3aTJaV0c1NVowWW1IQi10OEY1eERWSGduU050Sjh3TW40NVNJMDc3VUhtN2c3MTZXeTM1YkFUaC1XdEJKNnBpZXlDZXFuTVZaM0lFdElWRUwtT1B5ZDBpbmtVLVBhb1E0ZUJTQUJtTFF1WEJ5NFBmb096VmhmR21EblNlSVJlZFhCWlFsQ0w0TW1aMlphUUhXWnNGLTZ2N3JHOG9yMXBBOWpLQ0U?oc=5"
+      },
+      {
+        "title": "Czołowy polski cyberterrorysta aresztowany. Wiemy, kim jest \"marcinnowak2080\" - poznan.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMl84am0wSEZhSDlsVmc1MlVnUkg2YmdTT1lLZExmVTh3dzE3NXdmU09DbVpfbHV6VDU1ejdBMTlFR01ra2JpZ1NkNjFHSzFjcEdpN2FHcXozOVlKVjVpeU41WEdRRDJhUUgtcDctN0hzMjdFVXVxNWRVSUE1WkhoYmFSUHN1VFFXZjJ3QnpySTh2NWd1NXN0WmdJVWVqY3Y5UktRY2ZwSFdFc0RnTzN6cDJNcGlkRmhhLVE?oc=5"
+      },
+      {
+        "title": "Burza wokół prof. Heitzmana. Kolejne instytucje reagują na tekst WP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFRxNDNmdU5YRVlJT3BYa2ZVaUFfNXo2M2lqYWl0bWRyYkJLUGRfVl85NjlMc2RQUnRHN1FNNFV0cXU3OFFTeE9sTnJOUVR0ektzZVhJSUFBZVpSVU9jNm5NQmhpc1JiOGcxd0ZQZ3dremZCS0VxaHp5bENVckxMQ25SS0xIVlZsRUR3LTk5R3FFblZwcGtBbDZINV8xRzNYR0xHZWJIZ0lwTEJI?oc=5"
+      },
+      {
+        "title": "W tych regionach zima uderzy dziś najmocniej. Możliwe śnieżyce, a nawet burze śnieżne [POGODA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS2NXMUx3QnotdzhIazN6Yi1adWVRN3czYWtXZXJxM3Yyc0NnU3BGMVU5UlBSbmZ5RlFzaHJCMjN0c2hKQlNaWjh3UXM2clZNX3hfQ29la3ZoQ0sxNVRPTjl0TFBncnEzczlqMDRUQWNwOHI0ZC03Um9YQmN6V0VvTHVfcW9QUm8xVlZWMDJFU0ItSDV5ZUtvM25tNHZkSDIyVURmTWI4azYwVmo3dzd4Zldua2g1QzZkcHMtOWhWZGQ2dnRVdVQ0UWh2TTc?oc=5"
+      },
+      {
+        "title": "Trump poparł kolejne sankcje. Oto w jakie kraje mają uderzyć - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2k5REEyd0dvY3lrYWJmd3U4d1NmMXN2OUF4RDdHUTR2NGZadlFUWjAyaXhHWDFRMld2SDVEV29KZzFrWGhfaVlWclNrRmtWVUVzemVDMFk5OHEyV2xUaGNOSDlIMU9tVUxfS3V6Ync4azZIOTB0b0EwSmZ3UnlCTm91TjVlUjhiU05sM3FmbHY5Z2ljbXNsRmRoZDdkUDd5YUhkekhfNnlTWGlua0ZJOG5MdFE?oc=5"
       }
     ]
   }
