@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14 20:11:25",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6376,
-      "EUR": 4.2274,
-      "GBP": 4.7854,
-      "CHF": 4.5918,
-      "JPY": 0.023513,
-      "AUD": 2.372,
-      "CAD": 2.5917,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 345559,
-      "DOGECOIN": 0.587765,
-      "ETHEREUM": 11550.36,
-      "LITECOIN": 353.23,
-      "RIPPLE": 8.3
-    },
-    "indices": {
-      "^WIG20": 2990.37,
-      "^WIG30": 3859.34,
-      "^WIG": 3859.34,
-      "^NCINDEX": 269.73
-    },
-    "news": [
-      {
-        "title": "Jest skład na mecz Polska - Holandia! Wielkie zmiany Jana Urbana - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaDkxMTlKMkRTZWNlR2czeGlZSXpxNzJjb2VROFRacTY0elM1LWVBU19SVlhxbERTMk82QVNzWkZCRjhsTGtnUkRSSWxjeWVNR21zX3VWRlNGMWpHclZORzYyOUhQTEpob0l3Y2FmZ2dIb09uWjl4anl1X2tQWDc0MllPNy0yTDkwLU1QUU8zMkVydkZyWS1ySGw5aGxVUFQwMHYyQkp2bWtBRXVRQWVyUlNJOU53cHotdW5SUnVIU1JOZU5Mbi0zVlBPbG84ci1O?oc=5"
-      },
-      {
-        "title": "100 dni prezydenta: Kaczyński wjeżdża do Pałacu Prezydenckiego boczną bramą, Nawrocki na Nowogrodzą nie jeździ - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVVrNl9LaDN1azJOZFI4NXhObmlCR3k3S3dZV2tOTHh3Qjc0UXBreGxGdmZ2WEt5a2Fxa3daVmlRUmlwaXhzWUR6Vk9aZWc1TWdZNGtrNjhrXzBQUzF1WU00bkNFeWFEcWFzRkZvSExMRXN0eGhISGFkVGlPRGRjSXU0dFFaVFh4aHdsbjdsRjI3QXV2MzlHMmFRZ3RJZXRNRWRUc0ktMF9Gd3hCc1BqUXB4RkpxYlBo?oc=5"
-      },
-      {
-        "title": "Tragedia w Szwecji. Rozpędzony autobus wjechał w przystanek, są ofiary - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdW1FZ3VfSUxvWjJIR3U1bV84U0JNOE92bW85MGdYRzZBWTdWVFRYaC0wRkxzQzU5QXltTHd5OU40NlA5SjBZUl9iaEo3LV8tdHdXdVBacmVKNHJnSWR5SDVXdnplSXRSUFZQaFBqMklkUTZENEVGQVlNLVNheDJ0TFBWMnZZaDZPUHlOSlJ5WmhuR3VlZjZWd2JRZDlUREhmdEg1V2VzVVdISXh6OE5xVF95ejdBY0E?oc=5"
-      },
-      {
-        "title": "\"Dom zły\" w Borowej. Śmierć 23-latki i dwa martwe noworodki. Odsłaniamy kulisy tragedii - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkZ6bk4zZmV5bndkQ1ZraHFuWThfX3RWcWpPVmNuQWpScDZaaXlMZXhUcHZRUnpKSUVyTFU1WFlJTlZkNGNZT0k1LWlFNHdGOU5LYndJVGR4b1BTNkoxWjM5QWpvTkV1azJOLTZXZEhpUWJsWVFiZ19KMV9NSEI2RWM2S1VxMHRrQ1FVQWZkdWRpN21ocnRBeDh2SkJ6UTZPa0hOT00xU1dMSnZTNnRuQzdLb3Y?oc=5"
-      },
-      {
-        "title": "Tusk odniósł się do sprawy Hołowni. W tle afera Collegium Humanum - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTJIbERTTGItbjBJVlpXejQ3RWxlV2NXS3FxVWY4OGJJQjlRcUN3TzhQcllMa2tnQm56ZWVHZThwR3JxcmFhYzMtV09sOWtTWjA3RGRpTzFyRVVlbzdfMlpiNnpydmtOMEZnRTlidVNvT2JUNW55cm5CN3JTazFWelMyelZONlpJMmFRSWhwODM5b2wxSXZ1Q1JjSWZhcUVIam10XzZn0gGiAUFVX3lxTE9xYi1ISVg5eWFWUVM0QkltVTRoY29TbEFLeHVWMU8yM3JnOFQ0YmN0RXF0dkVHa1M2anhDXzYzVzBXNm15X3UwajRuWmdwRC1ybHFHOHFBRkZDM1VHb3BhcXdPR1dNcFVEdzhickV0eFV3b2VOVmlCNFdvWFBCZEV3RkJ1QVRYUXA5ZUdZU2VhRGozV3pMTmRBUGk1ZjV3MDI5Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-14 21:16:10",
     "weather": {
       "Warsaw": "brak danych",
@@ -2639,6 +2586,59 @@
       {
         "title": "Ambasador Niemiec, atakując polskiego europosła, popełnił karygodny błąd - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXVGdnRxQXotZk01QVdvenNwdU9TbXRqT0trTzFlcGpfQnpMcjB4VHJYZmt0Wl9jVEdnbWY1NE5aVXo3bDlLdWsweHZnWlFoQkxEbTgwNlQ1aGQxaEVQQXVVYlhQM0VIQXkyeVdZbHBmVmtiajZfc0JkNTlXQ3V1TFBMSGNQOGdZRW9ERFpFVmllM1pTTG5Xb3JERHRvM0JleWtpRjkzbWhpaGhDdEZFeQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-17 04:11:26",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6376,
+      "EUR": 4.2274,
+      "GBP": 4.7854,
+      "CHF": 4.5918,
+      "JPY": 0.023513,
+      "AUD": 2.372,
+      "CAD": 2.5917,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 346647,
+      "DOGECOIN": 0.583657,
+      "ETHEREUM": 11495.74,
+      "LITECOIN": 353.98,
+      "RIPPLE": 8.17
+    },
+    "indices": {
+      "^WIG20": 2990.37,
+      "^WIG30": 3859.34,
+      "^WIG": 3859.34,
+      "^NCINDEX": 269.73
+    },
+    "news": [
+      {
+        "title": "Aukcja pamiątek po ofiarach niemieckich zbrodni zablokowana - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWNNLXlhN3FwSmt6Z0ZVdk5tckNLRXZ4VDV1dHVDN0RaNFJna2xFQ1Y4ejFsSFVEcWhfZzc2VzBYUGFkc24tbTI4cnE1SnJXQmo1TXctUmc3RGFTdWl0ay1aOVFuN0RIb0tqYThKUWFUQ3pybUZtRDRqQnpJREpJWlQ1eXBIZ0NGVG5YaEc2cVFmdnI0N1NzaUUweTExckd2Ync?oc=5"
+      },
+      {
+        "title": "Uszkodzenie torowiska na trasie Dęblin-Warszawa. Tusk: niewykluczone, że mamy do czynienia z aktem dywersji - InfoSecurity24",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUU81aVZGTGxkNnY2RmpfYWFlTldTblUyRnBwZWs1VUd1Q201d1NrZ3BUWmpBWXozYWxxMnZ4U01yMnhwa0NvT2hWVmtIUUZFODJoMGVDOUh6UE40dFR2M0cwaVRwbEE2UEhBY0lhUGFfbXJaRlVRTTFUN1JpcUJDMlZmcU52MllzQXNSbGFjTVUtbUNINGg2dVlreEhnakNQb1Jnbm9mWERWOWxKSWwxY2RHYkk2aDE4X0o0eDYxdVhwTUtjaGpoVUpRcS1SUlA3djZkNDJaQmxfZFBram41LTRHbFZraHU5STU2Vg?oc=5"
+      },
+      {
+        "title": "Ambasador Niemiec, atakując polskiego europosła, popełnił karygodny błąd - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXVGdnRxQXotZk01QVdvenNwdU9TbXRqT0trTzFlcGpfQnpMcjB4VHJYZmt0Wl9jVEdnbWY1NE5aVXo3bDlLdWsweHZnWlFoQkxEbTgwNlQ1aGQxaEVQQXVVYlhQM0VIQXkyeVdZbHBmVmtiajZfc0JkNTlXQ3V1TFBMSGNQOGdZRW9ERFpFVmllM1pTTG5Xb3JERHRvM0JleWtpRjkzbWhpaGhDdEZFeQ?oc=5"
+      },
+      {
+        "title": "\"Znak wsparcia dla LGBT\". Papież spotkał się z transseksualistami - o2.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEtGaV9wdUpSaXZXVWJQY0lBX2lzLV9sT1pCY1lackhUSlUwVVpTOWxPR19oX3dBSHZGWlhOTGZSekozUjc1aWI4YnhpRnQwUkpqcU1OS1FDaTBqZ0JieDNOVnNHa1hwWDBfeTVpTlNyZmlDeUdiT0F3d2Y4ZkZnU2NVSTg2dkZ3eXJWNUNjUmZLbmtEQnNiY2NpTHg4TEJER0dQMnBHZ1QwZTk2S0E?oc=5"
+      },
+      {
+        "title": "„Taniec z Gwiazdami”: „Bagi” ogłosił, co zrobi z wygraną - Polsat.pl",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3dvX1Z6VzQ5NGN5UmgySkM2M3Y2VXhTUnBBRmxud29KeUtyVkVOaWpENGZsQ1VwT1hVV05HREV0dUVxSzNTWHhnS2VWWS1lakZZVDIyYXVBQ0VDaS1nLUFiSk4tQzQzY3N1RDlVOFdkNmRTM1FmSkVKUDc1eV9vUlFuQzNkdHctNUNHYnh1RzF3UlU?oc=5"
       }
     ]
   }
