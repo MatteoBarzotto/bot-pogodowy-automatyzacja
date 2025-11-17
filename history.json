@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-15 04:02:16",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.6376,
-      "EUR": 4.2274,
-      "GBP": 4.7854,
-      "CHF": 4.5918,
-      "JPY": 0.023513,
-      "AUD": 2.372,
-      "CAD": 2.5917,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 350283,
-      "DOGECOIN": 0.589862,
-      "ETHEREUM": 11602.42,
-      "LITECOIN": 380.24,
-      "RIPPLE": 8.36
-    },
-    "indices": {
-      "^WIG20": 2990.37,
-      "^WIG30": 3859.34,
-      "^WIG": 3859.34,
-      "^NCINDEX": 269.73
-    },
-    "news": [
-      {
-        "title": "Jest decyzja sądu w sprawie aresztu dla \"Wielkiego Bu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1BocTZZMnZYWGhrUUY1Xy1EN1dsamkxRmxsbXNyUlF4MXdpSjRLdVBtdkRKbnBUSk1HZXpPM0N0SkNnZ0lpTW5LNGpjY3pNb19FMjUtaEdReUw3OTQ4QURnN1JpYVhmMmp0ZkQ0LTR4NThiMUJ3MmM1ZjVnNVpodnhDeWMyb0VBNmN5RlNlNUZWbmtHQWY1MW94OWdURkxrb056WVlLaUhfYmdmb2ROUXlLdDBpdw?oc=5"
-      },
-      {
-        "title": "Matysiak w Radiu ZET: Nawrockiego po 100 dniach oceniam całkiem nieźle - Radio Zet",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkN0TmcxamMzVm5tWlFwYzhGTktZcWtiV2dmaEZlemFjTXpzOXVvLU1HMGJsRGFPT2JvZnR0aWN4elNyNnZIeGtDbDIyWHg5WWE3UFFMdU5STDZzdGNFdDY0cnNEZS1BX2QyakFiMEdoZGZEMnVsSUtfc1RBelJ1WDhmeDhYODljZld0S0ZYNENVOER3RnRvQjN3dTQzaXg0bkpfNUV5b3hmSmc0c0E?oc=5"
-      },
-      {
-        "title": "Ciemne chmury nad Hołownią? Zabezpieczono dokumenty - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1ZBRjhLUmtua3puTFRJMnEyS3NyVWx4OF96M2pQOGptTWJ5MU1iUzhhRklyMG82NXpsSkJVNXVsVkd0XzRsa0F4N2lZRDluTlA5bzg4b2hUY2tTci1wVFpmdUpZVm0ta1doUUt6UGpvTmxJX3F6SHB2UjNEZXlud0NTUDdCd0VVNUJkZjRPWHhyakhfU2gtYg?oc=5"
-      },
-      {
-        "title": "Polski Związek Piłki Nożnej wydał komunikat w sprawie rac rzuconych na murawę PGE Narodowego - sport.tvp.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUhIRUxhQno2SXhZWHZCZG92dlNWUzEweVFrQ3N5QUR5ZzNZblhORThUUmN6OEhFdXBFTk5QTTlTazE1bkM4S21lRWdHajlNMllSSWNLaDhQX0JmY0JkeHY2NEcwa0ZBdVpGYTRmV1hIQW9Sb013OXE5UEZrUEZFNFNabjVrb29VZ3h3aDMwZENtWkNLZE1sZzIxakhoTThVQVZXMC1Kbm9LUndDUjhNUnRUZW5ocDdTOGF2WlNJRdIBxAFBVV95cUxPSVZMTVNQWmpGVDJfN1Zrakc2SUdIcE5BaUhnMGpTc21kOFlFcXJrUUI2UHlxRlFKem9EQmpsS1hlUXJSb0FzOWIycmlvMzFPZUNRR1AzbEFha3dTZkxtWEZuR3ExZkhBNE1HeXdyMVFBd3lPZ0pUV2w4OVF3dGFKS1ViSHRYSl8xdkxEdk1VdWhoZG9lWjJ3dVhVQVFGejY5MDRNZ3dPVHVNX1c5QWUzb3JidnhPdllrRlBRc3JPQ1JGX2hS?oc=5"
-      },
-      {
-        "title": "Trump zagroził medialnemu gigantowi. Kierownictwo podało się do dymisji, opublikowano przeprosiny - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYTV2N0dEd0RqdllZdThQRTdCclgyUDJZYzBRVEU1aXJLRGpZQ2tYazB6c1c5R2RKbTZ2RkNHYU55TjFnbEZRZnZfdm1mZUxTSnVYbGVWMFZQckNQeXFXb1pSeVVjM3FJdlpiVFlRenBaWjRrVUhQTFA3dW5jdHdFbktKY0F3M2VjeDhONkN0cGxQVWJhZUkzLVBmOFVXOGZsOXVzY0pFMm0xSzZ4S0ZuWjVRSE9DS1ZJblN6ZGlZc0d3akxQSmFob1Y2MA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-15 05:16:16",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "\"Obudziłem się rano, a on leżał obok mnie\". Nowe wątki w sprawie prof. Janusza Heitzmana, znanego psychiatry - krakow.wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmpoTDVHdXdPSEl0MV9kZjk1em1kSklVbi12VXpzTzJweWNYNUF1U040aExrWTIyYWNIN3RtVUpPLUlQbkZRWVNWd0ppc2lRdm9OOUNMb3dENEVEdWxFRTM3aEdVNC0xUzZfSHVWQklLcTBlbm1pRHhxQVhxNWRFSV94QVRWRXJoNTY3Z2FpMFZLU1lDY1BTamNPN2QzdkdTdGdkQVd5cjZIelpTaERxczcyZmtscjA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-17 10:18:53",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6376,
+      "EUR": 4.2274,
+      "GBP": 4.7854,
+      "CHF": 4.5918,
+      "JPY": 0.023513,
+      "AUD": 2.372,
+      "CAD": 2.5917,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 348140,
+      "DOGECOIN": 0.589309,
+      "ETHEREUM": 11673.82,
+      "LITECOIN": 352.23,
+      "RIPPLE": 8.27
+    },
+    "indices": {
+      "^WIG20": 2979.18,
+      "^WIG30": 3842.08,
+      "^WIG": 3842.08,
+      "^NCINDEX": 267.24
+    },
+    "news": [
+      {
+        "title": "Donald Tusk: Na trasie Warszawa-Lublin doszło do aktu dywersji. Eksplozja zniszczyła tor kolejowy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3o3R3ZOWjB2YlJRSFRmV3UxN29VRFN0U3hqLWpaYkdRRW9RcXEzQnZpclYyQ2E1aUdzQXlmOTd1VUFpalp3cWtqNmNWdENFa0J2eFVUdG9aV3NvUG4wVk5GcXY4MC1JbG4xZjM2d3BsWHFUWkFwLWJfTkZXUUFibW1oc0QxRWNWV29ER19adzd3emRpMVdnQVVvSzY1WXhERUtj?oc=5"
+      },
+      {
+        "title": "Setki dronów leciały do Polski. Generał Klisz ujawnia szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGJlMHpBMUY5TktNYTByLXBLZVF4Q2I4T2NTTm9OUzRsUUI4aEdsdXhYR0p5V2dGYUFaSUtBNEFjWVd0cGEwNEJjNGlScDIzNHZVQmdUNjZZSUZoZ1VkVzBHckhXV1ZoU1dGOW03NV9GREM5Y1p0ODBXQW52M2swaHViMUxIRUdiR1BkOFNZWXMxMHNJeE5uV2tfdE9ZNFA0OHFCZk8xdEk?oc=5"
+      },
+      {
+        "title": "Czołowy polski cyberterrorysta aresztowany. Wiemy, kim jest \"marcinnowak2080\" - poznan.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMl84am0wSEZhSDlsVmc1MlVnUkg2YmdTT1lLZExmVTh3dzE3NXdmU09DbVpfbHV6VDU1ejdBMTlFR01ra2JpZ1NkNjFHSzFjcEdpN2FHcXozOVlKVjVpeU41WEdRRDJhUUgtcDctN0hzMjdFVXVxNWRVSUE1WkhoYmFSUHN1VFFXZjJ3QnpySTh2NWd1NXN0WmdJVWVqY3Y5UktRY2ZwSFdFc0RnTzN6cDJNcGlkRmhhLVE?oc=5"
+      },
+      {
+        "title": "\"Obudziłem się rano, a on leżał obok mnie\". Nowe wątki w sprawie prof. Janusza Heitzmana, znanego psychiatry - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmpoTDVHdXdPSEl0MV9kZjk1em1kSklVbi12VXpzTzJweWNYNUF1U040aExrWTIyYWNIN3RtVUpPLUlQbkZRWVNWd0ppc2lRdm9OOUNMb3dENEVEdWxFRTM3aEdVNC0xUzZfSHVWQklLcTBlbm1pRHhxQVhxNWRFSV94QVRWRXJoNTY3Z2FpMFZLU1lDY1BTamNPN2QzdkdTdGdkQVd5cjZIelpTaERxczcyZmtscjA?oc=5"
+      },
+      {
+        "title": "\"Po prostu szaleństwo\". Orban krytycznie o polityce Unii Europejskiej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHNnel9LOVduMDF4TFNNTEEwbFhMNThHXzZDcW1hbkxadGczU25hTExCM2VzNXl6Z0p2LWtPbER3ZE1kQmdVOWVCaWpKSFdRdHM4Rkh4QWY2LVpFN1Z2TElrTkdEUWQ3LXhCdDIxbWVoNHZBRy0ySmRxRFJLZ3V4NFQ1aUxSczdMbHZOSTU5djhGS0dqOE9adXJEVUduRm9FX1dhRmpTaE5TbmFwbDc0cg?oc=5"
       }
     ]
   }
