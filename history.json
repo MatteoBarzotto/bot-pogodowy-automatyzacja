@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-16 19:18:20",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.6376,
-      "EUR": 4.2274,
-      "GBP": 4.7854,
-      "CHF": 4.5918,
-      "JPY": 0.023513,
-      "AUD": 2.372,
-      "CAD": 2.5917,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 346015,
-      "DOGECOIN": 0.572107,
-      "ETHEREUM": 11336.24,
-      "LITECOIN": 351.63,
-      "RIPPLE": 8.05
-    },
-    "indices": {
-      "^WIG20": 2990.37,
-      "^WIG30": 3859.34,
-      "^WIG": 3859.34,
-      "^NCINDEX": 269.73
-    },
-    "news": [
-      {
-        "title": "Groźna sytuacja na kolei. Uszkodzone tory tuż przed nadjeżdżającym pociągiem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXFkLTBwV0RGdUl2OEk4UHNZNHNEQXo2S0NEU0tGVk94ckdQazQxd0pEdUFWWWZfRW55QUFCd0xETWJVa0ZjYkdyZFVzYUdYZWt5WWJZZnVseU9VcEdFdF9qejBvdnVWbnZPbEpIbVZMTmM4YS1SZllMeUxPMlhScXlqRmlxbm91X2Y4cXVrdXBXY1JMRzZvUGVjUlROQWFnYlhiVDZDb1NzXzRXZkM5RUNsaExqTlhxMG9J?oc=5"
-      },
-      {
-        "title": "Znany politolog choruje na nowotwór. Zaapelował do Polaków - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3FFa2FxUTcwcVIxUWNUOTN3bXNEeFBmYzlFMmItLWZWdDJlQ1hNZGU0eEpiaEZjdUJXMlRuaDBmRjNpLVhUMTJZZmtLYlRCdFQ1M3BVNHVWbDFwRTJXOXV2NEJqcnFvQl9CV2ZlVUFjYzJOeDFDcXFMX3FpOHVfVTVfNnVrQ2hNUHF0Y0pNRWNnVDZHWnNhc0xlR0Z5SHRsTVA3SlFzZVIzRlczUnNpUHBISEFLYkdqYnJzTm93?oc=5"
-      },
-      {
-        "title": "Aukcja pamiątek po ofiarach niemieckich zbrodni zablokowana - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWNNLXlhN3FwSmt6Z0ZVdk5tckNLRXZ4VDV1dHVDN0RaNFJna2xFQ1Y4ejFsSFVEcWhfZzc2VzBYUGFkc24tbTI4cnE1SnJXQmo1TXctUmc3RGFTdWl0ay1aOVFuN0RIb0tqYThKUWFUQ3pybUZtRDRqQnpJREpJWlQ1eXBIZ0NGVG5YaEc2cVFmdnI0N1NzaUUweTExckd2Ync?oc=5"
-      },
-      {
-        "title": "\"Znak wsparcia dla LGBT\". Papież spotkał się z transseksualistami - o2.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEtGaV9wdUpSaXZXVWJQY0lBX2lzLV9sT1pCY1lackhUSlUwVVpTOWxPR19oX3dBSHZGWlhOTGZSekozUjc1aWI4YnhpRnQwUkpqcU1OS1FDaTBqZ0JieDNOVnNHa1hwWDBfeTVpTlNyZmlDeUdiT0F3d2Y4ZkZnU2NVSTg2dkZ3eXJWNUNjUmZLbmtEQnNiY2NpTHg4TEJER0dQMnBHZ1QwZTk2S0E?oc=5"
-      },
-      {
-        "title": "Fala komentarzy po słowach Miguela Bergera. Warzecha: Chamstwo i bezczelność - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFNma2dNbVZEZlpTR19vbmE2Q3pDckZxNVFPc0RsWWF1SV9YZUh5dFpNSFBpVTdiLTlKelpQQnRadG8yM3JwRHFoenZuelRiUTZjSlZjWVlRSV90cmxpYnlndFlpWHF1dVcwMlpqQnQ3dmpJQ1RCdWdLX0JGRlB5RnpFaFFTT2ZZZ3Y4SkdlRXE3SnpDdVJjMUI0cGNsQ1ZRbDRCUG9HQ0lYVTExMU93WENxVdIBrwFBVV95cUxOdlFjTWQ3a0MtTndzVHZRWEJDMDlVRExQaHFTLWp2VVBXRUM1OHVkTC1pWUIzeFI5OE9ydmFqaHhYNWh5TDA2VXdZdklQRHN3ekhMNjlNenVhankxUXQxNUpMNk01TVkzY3R4ckUyYnRNZy1UTW1OcU9pYmx0OHcwcnFWY2tPVWpES01KdmE2dE01WlBRcXVWY2tvb0pSdzdjRThpeXNpU2EwTFRzT2xB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-16 20:10:30",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2618,6 +2565,59 @@
       {
         "title": "Daniel Obajtek zeznawał w sprawie Orlenu. Faktur za spotkania biznesowe nie opisywał, bo \"biznes lubi ciszę\" - lodz.wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamJCN3JTaUlHa2tNZ1ktbnptMlppYkMtNlVRVXAxaTgtUDRUWXg4aFMwVWxpRDRNZVlHWDVpdFVBV1BiSDEtZy1zalNMZm5aa0JSOWxFWVhNX3gwRUlpcDVLNHFiSG51aXZLZDFKMjEzSUFFSE9Rc0doQ1Q3cWZFTjEzdjhMNXdfdjJUSXFuNnd2b3lLOV9KUWdqR2lhQmgtZFlYM2RXNFpmaHlqVnVwMQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-19 04:07:06",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6525,
+      "EUR": 4.2331,
+      "GBP": 4.8038,
+      "CHF": 4.5865,
+      "JPY": 0.02353,
+      "AUD": 2.3726,
+      "CAD": 2.6023,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 338831,
+      "DOGECOIN": 0.590393,
+      "ETHEREUM": 11401.43,
+      "LITECOIN": 348.99,
+      "RIPPLE": 8.09
+    },
+    "indices": {
+      "^WIG20": 2903.1,
+      "^WIG30": 3738.06,
+      "^WIG": 3738.06,
+      "^NCINDEX": 262.18
+    },
+    "news": [
+      {
+        "title": "Premier Tusk ogłasza trzeci stopień alarmowy w związku z zagrożeniem na torach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2J4M1ozWUxLb2dzSlFXMm1RRGNqY3lzVzlhRV85YUk2SWxYcGtyRjA3YnB1Y19FU2c5UmJsT3ZzejhRbTRvVGJ2SkgySGdWbkN3YWNYbTV1cFVsbzg4b09yaWhSQzcwcFlPMklsRHZtdjlQdEZmbG1wZkpwdzZkaG5ROTAyN0FYNXNNVFlfTEZQSnk5Und0UEFpdHp0aW94ZGdfYXgxUll0b09rZ2FBVHBoU29oMHZUeFBvUQ?oc=5"
+      },
+      {
+        "title": "Nawrocki o nowym marszałku Sejmu: Mamy odległe wizje państwa - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXNONHY0dWtrT3h1LVZtOU9aYkoySXFjV0pNTHl3d21lSDg0Zk11Wk1BaHNXVlNfMzZ6dU5sTjNYbGVIc3JRc3YzRVQwZWE0LWtfWUZxdHJUX2VzQlVXUHl0UUxSLXNnVFZwNXRjd3BsS3RZZlpUcllTd1o3UWhsRVZ6XzFPanFBODBPMng0MGVqNzFCMnR5QmRRckJlTzNZZXRQQXczcHdyZmpuMG1CQnREbHBPSHVmd1BBUw?oc=5"
+      },
+      {
+        "title": "Zwłoki mężczyzny w Warszawie. Świadek usłyszał, jak mówiła: \"chyba go zabiłeś\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnd0LVNpZktPb1RVb1ZFOGRNUU1EbHR4MFJlX2ZGRlVTSHRXcU10LXFtRGRsdk1xVFdZUm1iVjFRWUpVUkYtTFN1U181Y2M5bWdWc1N5Mm10WlRJdlJPYk9qVFozUWg0NnA0Y1Q0enhLVkRwYU1kdVpXRlotM2RpUjZZY0pXRkxoY3V3WlhhTnJnNk1tVlFTVENYVEpJV29PVHJVOW9IVXc4SXRsWEdDWE1uSmRrZ3ZwelNnM3h6SzBVbkZvNFY3a215X1o3UFU?oc=5"
+      },
+      {
+        "title": "Przełomowy moment. Ukraina użyła ATACMS do ataku w Rosji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2RvNVVmNmNfQ0FhMWtkdHU2RkpPMlNJUG5scTV4MF9WSHdHakpxNGxXbnpEVHRQSFFWbWYta1FRTUVsWTVnTEtIUVJRQ2NNNDdwQk5BNFJFcVdDOHFIR0RnSmpxQ29PdURlN1ptV0E4NFhCQllGU0w4VFVScS1ucV9XejRUOEZJX1VfSWxEZGQ0VFRqeVBRUFlzMGlGUlYwendQSkw1TnF4cGJCUTNKUTdwMA?oc=5"
+      },
+      {
+        "title": "Szokujący list Episkopatów Polski i Niemiec: \"Należy oprzeć się pokusie podążania własną, narodową drogą\" - Tysol.pl",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOGlhdFdNZmljMERTd2VzUXdpb1JVejZKWjU4Uk9aNG5fZ1YxaDRHX2FtR3hsRVl0clBwWEZQdmJVUDFKXzhsbFNwcTM4dnN0NEhRYThXVWJrclNkTWtzSnI2MjJ1MVFFQXB2aUNqVVluR0VQeVVqWFRMY2RoTFc4cjdDSEM5R05DcHVRTk5DNThXekQ0TW9LVVhWLV9Sa1FlSmVCbU5UQ3JudmYzUGt5N3ZNazhuSVVyRlZBTlp3S1JwVVVNNVRTQjlR?oc=5"
       }
     ]
   }
