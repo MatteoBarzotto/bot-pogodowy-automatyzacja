@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-17 13:29:33",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.64,
-      "EUR": 4.2231,
-      "GBP": 4.7924,
-      "CHF": 4.5826,
-      "JPY": 0.023522,
-      "AUD": 2.3734,
-      "CAD": 2.595,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 347104,
-      "DOGECOIN": 0.590457,
-      "ETHEREUM": 11610.0,
-      "LITECOIN": 349.94,
-      "RIPPLE": 8.24
-    },
-    "indices": {
-      "^WIG20": 2965.82,
-      "^WIG30": 3825.14,
-      "^WIG": 3825.14,
-      "^NCINDEX": 265.76
-    },
-    "news": [
-      {
-        "title": "Donald Tusk: eksplozja miała najprawdopodobniej na celu wysadzenie pociągu na trasie Warszawa–Dęblin - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDlmWXdrMktjaTdEMnFVQ3RodjhCT3p3aTJaV0c1NVowWW1IQi10OEY1eERWSGduU050Sjh3TW40NVNJMDc3VUhtN2c3MTZXeTM1YkFUaC1XdEJKNnBpZXlDZXFuTVZaM0lFdElWRUwtT1B5ZDBpbmtVLVBhb1E0ZUJTQUJtTFF1WEJ5NFBmb096VmhmR21EblNlSVJlZFhCWlFsQ0w0TW1aMlphUUhXWnNGLTZ2N3JHOG9yMXBBOWpLQ0U?oc=5"
-      },
-      {
-        "title": "Czołowy polski cyberterrorysta aresztowany. Wiemy, kim jest \"marcinnowak2080\" - poznan.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMl84am0wSEZhSDlsVmc1MlVnUkg2YmdTT1lLZExmVTh3dzE3NXdmU09DbVpfbHV6VDU1ejdBMTlFR01ra2JpZ1NkNjFHSzFjcEdpN2FHcXozOVlKVjVpeU41WEdRRDJhUUgtcDctN0hzMjdFVXVxNWRVSUE1WkhoYmFSUHN1VFFXZjJ3QnpySTh2NWd1NXN0WmdJVWVqY3Y5UktRY2ZwSFdFc0RnTzN6cDJNcGlkRmhhLVE?oc=5"
-      },
-      {
-        "title": "Żurek wściekły na Nawrockiego. \"Prawnicy już rozmawiają o Trybunale Stanu\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJzdDI3aUhsckE1aVZVeE5MMnk2MmwzRml4RFpCaUVfb1kxVXlDLXY0Wjl4YjhOdFlhOHAweUZfY21WV3NxLUJsSXNLd1Y2QlJ3bmV4c29nOFFWOURtT2tobHZjbHNrYjVfRWVRQzVvSXE5Z3QzMWcyaFQ5NEtnV2hfM01RX09RM3NuNWFERTdYZDNac183WklHRUs5RjFTOGpPUnJiSURfbFVadDBJ0gGrAUFVX3lxTE5IdmZnZ1gwYkxqMzR2amNLR0F5dnhQVVc5Mm9XUWNYek9TeFRkMmt1TG1hUWlWLXpwVXZrRHRjTGQzRDRSdDQzaFFEX1BTOHNqeEhScGI1Z2JkM3dySDczdVphSFVkenJiU0h5bmFWTGVic3pyb3JUVFRwTE13VU53Skg0R09EYjhpYzBnWm1xNXRHNm40RThHYlRNYndIZkZma013bERqQTYzVQ?oc=5"
-      },
-      {
-        "title": "Minister prosi ABW o dokładne prześwietlenie. „W związku z doniesieniami medialnymi” - Radio ZET",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUgxc1kyRDZIQS04dWNnQ083RGRySmdOSDZ1aEhoYkx2MkJKbS1ZOU4wemZ2Q3FObUpDUF9VaHAtZUZMLWYzLXlSQ084MnBmYVBPdGJPcnRiNzZPN3AwSlRhbUVkTnVZV1ViaXhTTEZybkFNdFdNem1NSGhtTnVNMVZSVjJkQ3hsb3FYRGF3UFdjXy1nZk15a2laaWZ5WWdCUEJWVDRTaVhIU3Y1SmQzMkNfT1JFSi1VZmRjY01R?oc=5"
-      },
-      {
-        "title": "Burza wokół prof. Heitzmana. Kolejne instytucje reagują na tekst WP - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFRxNDNmdU5YRVlJT3BYa2ZVaUFfNXo2M2lqYWl0bWRyYkJLUGRfVl85NjlMc2RQUnRHN1FNNFV0cXU3OFFTeE9sTnJOUVR0ektzZVhJSUFBZVpSVU9jNm5NQmhpc1JiOGcxd0ZQZ3dremZCS0VxaHp5bENVckxMQ25SS0xIVlZsRUR3LTk5R3FFblZwcGtBbDZINV8xRzNYR0xHZWJIZ0lwTEJI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-17 14:27:51",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2614,6 +2561,59 @@
       {
         "title": "Włodzimierz Czarzasty dostał pytanie o swoją fobię. Wspomniał o Szymonie Hołowni - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjVwZl9RZlFoOE9SQTJkZUhXVktxR1FacHotd3RvU1VJM0wyUndPLUdYNFdQdzl6X0J1WmhKX3Vwd0lpMDJpNWFqMF9CT3FHZXBpemUzUFlnYXNTTDRzMUpCMktJMllNWTdaM0RMN1dDU1RVWm04TG0wNW0zZFV6TnRFUnB5TzJIREhteU9HZE9VQWJ0OUdtV3h0eVpWSWtTT2xJd3BQRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-19 20:11:45",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6656,
+      "EUR": 4.2424,
+      "GBP": 4.8116,
+      "CHF": 4.5743,
+      "JPY": 0.023504,
+      "AUD": 2.3779,
+      "CAD": 2.6185,
+      "CNY": 0.5155
+    },
+    "crypto": {
+      "BITCOIN": 327365,
+      "DOGECOIN": 0.54276,
+      "ETHEREUM": 10618.34,
+      "LITECOIN": 328.0,
+      "RIPPLE": 7.5
+    },
+    "indices": {
+      "^WIG20": 2956.75,
+      "^WIG30": 3804.26,
+      "^WIG": 3804.26,
+      "^NCINDEX": 262.26
+    },
+    "news": [
+      {
+        "title": "Donald Tusk rozmawiał z prezydentem Ukrainy. Chodzi o dywersję na kolei - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEpQbDJ5NFVtcmloWTBuMzlXNWJQQkN0eVNKMzFQRzMyQlU3aGxZajJESDhxOW5iZXppRWNoYzN2cW1zUWxDRXBXRmdWTTlzalVjQVh3dm5ZQVAxNVVjbGdTYkQ1MnZPVFpFODhDTmV6TUM3VzF3dGZISEQ5OFdEVEdlUGpiWDVHY18xeEZpWDIzUkxVZnJWbExHYzNDZF9jS2Qya2Fsd1VXSjNwZldtMw?oc=5"
+      },
+      {
+        "title": "Polska zamyka rosyjski konsulat w Gdańsku. Kreml reaguje natychmiast - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeEpGNUs5Sll2bE5Tb180Z2g0enFwTDBoRnZIanVJTURkRlExSEs3ZDkwZ3pqUUZZZ3QyOTk3U3NYY09SLUc4NVJ0ZEY3azhCR2ctTGNkUjVMMVBZbHFWUXZzVXltUVdJU0xKLVZoTk1WSWNWd1lxajJES2ZXYU14b3FwSXNuSjNydUtuUnpSdjROb042OGstM2xvSDZWVy1MNEU5R3pwWmF2WXFBNjFHbm11N2xmb3FN?oc=5"
+      },
+      {
+        "title": "Włodzimierz Czarzasty dostał pytanie o swoją fobię. Wspomniał o Szymonie Hołowni - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjVwZl9RZlFoOE9SQTJkZUhXVktxR1FacHotd3RvU1VJM0wyUndPLUdYNFdQdzl6X0J1WmhKX3Vwd0lpMDJpNWFqMF9CT3FHZXBpemUzUFlnYXNTTDRzMUpCMktJMllNWTdaM0RMN1dDU1RVWm04TG0wNW0zZFV6TnRFUnB5TzJIREhteU9HZE9VQWJ0OUdtV3h0eVpWSWtTT2xJd3BQRQ?oc=5"
+      },
+      {
+        "title": "Historyczny sondaż dla PiS-u. W Sejmie pięć partii - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlhZejV6Z3FEQWR0SE4wNURzZFpNd1lTNWpMS1VfN1hhMEtQempkcUkxYVhyN3ZEVElRbHd0V2s2R2dlNGNnSXJuNTQ1Mm5XcjI2OWkxMVNUNVZ4MWdib1EzMXdyTi03UFd0UHZkN3J3VWI4dGg4T0RzNW9JeEc3bjZwUFhIY3U2alNSNzA4d0dnb1JHYmVLQ3VEbjBjR19lSHdSSGluMGpidjNqZmlZ?oc=5"
+      },
+      {
+        "title": "USA przedstawią przełomowy plan dla Rosji i Ukrainy? \"Jeszcze w tym tygodniu\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTVpRmMzbjN0anlSNmRXYkdmaUFpV29KMXJSM2Z4RjIydkZvQWdEV092S1c2SUxMTDNqektRS3VWMUtCcVNVbGNCZWM5WkRzZE00Qm5XMVJ5Z3J6M2FrV3VmYUhWaG5pMVh0Um9WU0QyZUNBQldscDk0VElpX3p4em85M1YzUjJCcjlvQXRHUDRSN0JXTWFLOXNEc1VUYXVrd0FpajVWVDdoSWkxOG9qdVhkVVRFQ01SZVE?oc=5"
       }
     ]
   }
