@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-11-18 13:30:07",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6525,
-      "EUR": 4.2331,
-      "GBP": 4.8038,
-      "CHF": 4.5865,
-      "JPY": 0.02353,
-      "AUD": 2.3726,
-      "CAD": 2.6023,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 333951,
-      "DOGECOIN": 0.573607,
-      "ETHEREUM": 11169.76,
-      "LITECOIN": 347.46,
-      "RIPPLE": 7.98
-    },
-    "indices": {
-      "^WIG20": 2900.18,
-      "^WIG": 3735.45,
-      "^NCINDEX": 261.59
-    },
-    "news": [
-      {
-        "title": "Komorowski grzmi w sprawie Czarzastego. \"Współczuję kolegom\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXh0aDVGZ0lEbmc5R2tKdzd3RVhRcWpMRHFXNkxSUlZ2ZkNhMTlfeXFTRFliVXAxbVNTSUJEZTVOZl9wWklBcUN3UG95VkI4MHc4M2JpSkJDamp1TDZVZWRHeFcyc3J5a3BiQVNtcFQ3Zkk0bG4xSWtzZUliakVTQldHR05zS3oxbnNqYXB2VEhDc3NLdkxsREZSQ29SWTRsNTBGU3lIdXk0dnVKdVNZ?oc=5"
-      },
-      {
-        "title": "Detonacja na torach. Media: ustalono, kto kupił karty SIM - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWFQRWc4R1liRTJJWkh6SF9vU2pWdVZNZTMyNVZrTTh1S1JBYjlLNjNlcU0zZkx5Wkg1TFdlc3hNb29DbXBQOGpiNmw0VFRsNUtlLXlzVVNSRHptZy1WZXJyVmZ0YUFkOXRQcEVCdF93OGdkc1RkUV9TT0txUzhnYjRCaHhXeFNWU2xMbUZNN3huWDA0WDRucVpDNHlWRzRDT3kya3ZKeGNaT3UyZ2c?oc=5"
-      },
-      {
-        "title": "Zderzenie dwóch tramwajów i autobusu w Warszawie. Wiele osób poszkodowanych - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmctbmY0dkt2T2NEeU1vSWFKTlVzSWlMYllJdFhTdnlLeEZGdmRDNW83VnpXR0xNXzg3dzl2dEMxeURuWG5tTTJLYXBTdldOX2xhb1NzYmlmMENELURwYzBJZHdpYzRwclZYeXRtMllGeXVKaGVUV2FxNDlSdVZoRUc4TWlhT3FfMWJKRnFWaG5OLWcxM29NZ2lPcThEX3lOcUFOLTY2blRlOENnbDVXZ29UUnQ2aWY0QldZSQ?oc=5"
-      },
-      {
-        "title": "Adam Bodnar zdradza kulisy swojego odwołania. \"Atmosfera poganiania\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcW5WZzNPYlg0WlRCb1Vpczc5c2hxTlJycEhaNURBa0pQbFdRUWE4SjF1SExpYzRabmRkOExHUnRFZy1iMHFMeU9iU3B5dnRYTGRLS1JJblYwTWkxOHEyZno5YjNNd1hfQXdRRXZUX1FjZnVReWZXMFBpRDAzQWdjNlhRckdZVWVqcEUwaWpBcEY0YXNKdU5xQzRBbFE0X1k3WFVlZHBZZmNPdmQ0WlNV?oc=5"
-      },
-      {
-        "title": "Nowy pomysł prezydenta. Możliwe referendum - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnlpd2dMLTRoQWFhdVBmRF9JWTR4QUNiQk90UkFQdFJJc1hHblhaRjdUMS1lSTRYTENnZEZfQmM3Y2xySEkyTXVKdzV6ZHZpSFg2ZjFOZXZqZkg2RDRVTF9JSXV1UWFNV0c4ZWVMbHV1dWE3elhzdUNVWjg4X1M4RC00dTZtbThISmdzSmlkRE1IdzFhT0R1TUlKdV92SF91NnRhaWxQR0JQano1OXhhRXI4clVndw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-18 14:27:48",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2615,6 +2563,59 @@
       {
         "title": "Trudna sytuacja wokół Pokrowska. Ukraiński ekspert: mamy do czynienia z maniakiem - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOW9ELUdhc2htNGUtNFNKQzVqOW9Sd1l0R2l4VktveDRaeW9QcVB2Q2lnRnUzLTVHTVZ5UVdyWlRzYUZoX2x1MFNJUW5SOUpsNWdBcDVsSXpUUUZ6WENYQUlQbU9UYTBtdUNCMFp2Wm5XWmNBR3IyX0RkVThKV3p5SWdrNldfSnlhQnp3TC1tTm9RdGZmZXY4WUZEZ1liLUdZWmZHRnNNaExfSU9zbjFqQjB3eDZXU201TlNiU3ZfLWNsLW5kS1VFblR6WFR6QzN1V3FMcGZIajVzdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-20 20:11:26",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6684,
+      "EUR": 4.2289,
+      "GBP": 4.7977,
+      "CHF": 4.5538,
+      "JPY": 0.023339,
+      "AUD": 2.3784,
+      "CAD": 2.6112,
+      "CNY": 0.5156
+    },
+    "crypto": {
+      "BITCOIN": 316698,
+      "DOGECOIN": 0.538382,
+      "ETHEREUM": 10309.33,
+      "LITECOIN": 316.97,
+      "RIPPLE": 7.27
+    },
+    "indices": {
+      "^WIG20": 2958.02,
+      "^WIG30": 3808.05,
+      "^WIG": 3808.05,
+      "^NCINDEX": 262.32
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki zdecydował w sprawie operacji \"Horyzont\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV09wQjc4YjhrcWJmWS1pUTZQN2IwdzJ5aUxqZGs1OEYxOS1nNE1qMjNwSl9DeFJnVXctRUhoNUxhZmI4YTdqUTJGaGN0UkhBeUxPR2N1amJldVVCZ3VFell0bmxNUGVuWkNvdm5SYjA5b1BoTTIyZngwQUtLQ2g0aVlmM0lsdktMNlNyLUZLSWlNYWp2bWxMUzFLTEtucUdkUzN0OVBZT1BzU3RZTFN4WjQzYXIwams?oc=5"
+      },
+      {
+        "title": "Prokuratura zabezpieczyła majątek Zbigniewa Ziobry - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3AzTUIyemk3M3BhY1lYR0Ria0xDTE16c2Q5WU1mS0xiSklBYlVxQTJCMWp1b3h0MkRKUmlPT3pBVFNVUGJfUUJXRHJZcFhqeFFqbTNwcjFOYkJZb1hFY3l4RGRqMzQ4bnBoV2drZURJblhMaVYwUy1GYnVWbVpUTC1PTFRXeW52bnVGM3ZldzB5aXhqR053?oc=5"
+      },
+      {
+        "title": "IMGW bije na alarm w sprawie śnieżyc. Tu może spaść nawet 50 cm śniegu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUNna0Q5TkhYcWNuUjExRGJMeUJlYXdWVXlxcXFXenVxYWREWVUyZnpKV05CTWFaaF9LZXR0aXhsc3l2aENDaDQ1ek5IRDlZdDF1a1M3ZTFKdXpoYkx2T2VsZTlZWTlGT3VpaEVVVzVNdHgtcGhxRXZDSjNqX3Y2YUs5VnRyRkxrd0J0c0Fodm9hc25CSU52TUlfeFpoM01pTDlTM1g2bGZENlFEY01QeDhB?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski: otrzymałem projekt planu pokojowego od USA - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTVhTEt2WjlZTU1SSVJCbU5DTnM3TWNaamQ1SWNtOVZ5RGhvS2dmVFowakROMm1QZjhVdmRPc0RhSFdUWmlrSk1CRkNCSEFQY1drRWE5aWxBOWp1dUYySDBZb2YzZFptRHhkTjFGNHZwN01ocm1vQXM2VmlYS2JfM0FRS1l4ZHplNlY4SVlPZ3pyUzVKY0hSZ2pMVzctZ1NzcmhudW9hdHBSRnY0NXpfNUNUQzNGQmp4T1R4Wktqaw?oc=5"
+      },
+      {
+        "title": "Atak na policjantów w Sanoku. Sprawca zginął, w mieszkaniu znaleziono ciało - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhRZ1YtR1daZGk3UkFFbVdEdS01bjIyMzF3ZXZSUzZFYjUxbm4yVDhENjBlX0RzNTlMUXJiZzdnbFB2UzNTZ0V4XzRJWUpHdnlhcUVTaGFIdUhNYjlldjlWLTJxWFZTaDg0dElLT0lCZ1NmNjlNTms4bGw3VEpaSGR2RExVZm1IbGMwRTJ2dng4Vk1pbWkya3ZBRi1SM1V4Mlo2SHprTDBpZ0xseUpodnFKUQ?oc=5"
       }
     ]
   }
