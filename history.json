@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-18 18:14:13",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6525,
-      "EUR": 4.2331,
-      "GBP": 4.8038,
-      "CHF": 4.5865,
-      "JPY": 0.02353,
-      "AUD": 2.3726,
-      "CAD": 2.6023,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 342327,
-      "DOGECOIN": 0.588555,
-      "ETHEREUM": 11521.51,
-      "LITECOIN": 352.83,
-      "RIPPLE": 8.15
-    },
-    "indices": {
-      "^WIG20": 2903.1,
-      "^WIG30": 3738.06,
-      "^WIG": 3738.06,
-      "^NCINDEX": 262.18
-    },
-    "news": [
-      {
-        "title": "Ekspert CIA do spraw terroryzmu o aktach dywersji na kolei w Polsce: ładunki podłożyli ludzie Putina - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY1lpQXRFdlBIeW1oTl9xdERGNEhrOHdqNm9Jd1BFa0VuQWw4N2djOGNjZUNIUjdaX1dpaTFvTDFFMms2RHFGVlhfR2dFQVVwanh6Y3JhVTBLZXBFb2oyRElvSmc1MjZ6dUtEbVBlaUwyUEZCb1E1SlZINUFfUE0yX3I2UDdlQjMzeVQ4TWJ6b2pZYzRFTnpyaDI1UmlLdjZnVnFwRGRsTmpzYzdDMDVuYU1MamNuWlhjTjdWM0JKZmh1NVNOakRkY1ZBbmtaUU55djVZOHQ2ZklYcEZObFNSRzZB?oc=5"
-      },
-      {
-        "title": "Włodzimierz Czarzasty za Szymona Hołownię. Jest decyzja w sprawie marszałka Sejmu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUl9BQkUwamUtdGN0UEVsYnhSeDh6b1hha200M1R4VHRGVWVlSUwwYlJuLUozMDlTQUFvWmd2dk1yMy1VMTcycmYwemVIY0piZHQ5S204eTByZEF6czBlLUpPX3NqWkdTTlEwNmlLekZTdkN5RFprVEV6SkFZU2xGa2NFWm16TzVFdXZNM2VpYS1IdFVNajVZMnl2LXk0QjZiMVJtMTJQdFJmb1hmcmxBa05iNA?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro bez paszportu dyplomatycznego. Jest ruch Radosława Sikorskiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHhQX0tFaG1rS2JpbmFQdF9KQ0JsV1N1bHI4NjFPRjVRcEpzZGR6bXNZdlFLMVNTMGJDMDcxZ3QtWWZ5SmRtbEk0Y0ZPS215cnRJNGJTblY5TWlnSFlzTXpaWmtpN2dtZ2pBTnY0ME9qeThzdGpiSWRtRVpxSFQ4U0xJWWdmVWVROERCYl9DdDRQZXZlOGw0TU9MMldnVmZzVl9sU1hRMHR5aTljSVE?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki o działaniach rządu w obliczu dywersji. \"Oceny mogą być krytyczne\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFpwWGdIc2NoWWxQV0t5TmVJamhtNEpUcVZpaWFUV0xyMVdFeWp1UWozRW9xYkQyblVpWXNaaXdieWJjamZZY21HZHBfMGluVnk3R2tmRzVfdDBSdmQ4akZwcGpZSEd0TklydWJaWkJvelpaLUpPZGd3ZHhKczdSWEZfVm1sYzB2N05ZOTg4dVduNEdnMEQ0VEZNSzRObERjZE5SV3JmYVBLakRNcWNn?oc=5"
-      },
-      {
-        "title": "Nietypowe sceny podczas pogrzebu. Policja wyniosła z kościoła trumnę z ciałem 66-latka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzkxTmNXdGZtT3l0emRGd1BJa2Y5cTVGeWw5S0M1UDA3VWk0QUlmSkVySldEdVB4S3dQVjNiaTY1UElXNzEyZG9tMnJzTGhCcUJoMVN5M3Vjb1JXRmxHQmYzMlZoenYwLTVWVHNoMjhVcWd1ekhPaXcza1lzcnlxb0ZCTUtVa19pUDh6dkJwbFkyOGZkcXdTZ2F6SHhDUmNpQUQ4RHJINnJZdTF5ZTdQM0ZwbHc3SDdJcG9mX0h5cmQzZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-18 19:21:40",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2613,6 +2560,59 @@
       "ETHEREUM": 10513.98,
       "LITECOIN": 323.94,
       "RIPPLE": 7.45
+    },
+    "indices": {
+      "^WIG20": 2958.02,
+      "^WIG30": 3808.05,
+      "^WIG": 3808.05,
+      "^NCINDEX": 262.32
+    },
+    "news": [
+      {
+        "title": "Prezydent Karol Nawrocki o wojskowej akcji \"Horyzont\". Jest decyzja - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnBMMWp5elc0M3RmRURkalNmZVd3WFNXenduMUp2WDRjdUwzSHd2WUthRkIyMXluLVlBZGdDT3pHTTlVUTlROVVBb3QyNW5HNnBzdXNJdHJqNkpRdFBZYVotSm9jLUZKSmNMbUdMMXI5WjNVTE9SZFBYdlFUaGo3dDJTQk5kZ2g0REpBdEpkazFoQ1VtdndVNlJHczdNYzJxdUsxdFR2QW5hUW9PQm4tUGJB?oc=5"
+      },
+      {
+        "title": "Wielogodzinna śnieżyca w piątek nad Polską. W tych regionach uderzy najmocniej - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2pZQ25McXdhamRuYlF3c1hHNHpzRndVd1dyTnp2bDMwdkxiRnV3V1hoRTV4TExlUnlqX3lEOU03cnNKbEdQTUI0MDA4OGNNTXlmNWdNbEhua21ZZmstbkszWml3cjJ0elNrV0JvMWlxUnJGdk5iTDRFQlBxcy02WkQ3QlgwN2VOemlyZ1pmVUdfdTQ0TS1sbEdqZTdZYS05ejExNktDbnNaVnQ5QWhEcVA1aw?oc=5"
+      },
+      {
+        "title": "Propozycja planu pokojowego. Zełenski \"wyraża\" gotowość - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUtuSTlUVm1jMHhKcFNfSHFVYUlsYXlXRUotOXJqenJLeGx6LTQ1TnlCMXVwNTJBOUx4azhuUlFwT2hJa3FjX0pmLURhR1c2OVE2Y1VNWDhvbjktSjVPT2dfOFV0d01Vb2RnMHRmRGxMd0xocXdDVXhTS1NXRlNMNzI5VTBRYlFzUHJhUVdLTUd5aHlDQnBPVU1BQVNTa3ZuR1E?oc=5"
+      },
+      {
+        "title": "Zakaz sprzedaży alkoholu w Sejmie. Kaczyński o decyzji Czarzastego - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZxblVfLW9KUFkxd1BSQmd5cHpXMFR2SzVvejBLZ1BmcUFTZ2FuTENsQzk3dUROdmYzdWVQVkcxbFpLNkhsZnpjM3JNZGRDQ18tU2dsN3BRR29WRjcwVGNiZ2dmOUxlTFA2Rk1sOTRmTnN4V29tdTZNR1NyLXl2eHpLb0dkU0lIU0tjLXpkNF9DSmJNLWNQRW91Vl8?oc=5"
+      },
+      {
+        "title": "14-latek raniony nożem w przebieralni w bydgoskiej galerii Focus. 'Umówili się na schadzkę' - Bydgoszcz.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUwzYXJmeE0zdFUwSFo1WVFONWdnTDRoZThfczh6YzRBS1VscVdMSkg5RVFyMml2VldRMFJlVmhUTGhVT3lESlNSazRkUkdKaEg5bUNfY1paR1RBZW9IalZHQTRNQk5aT0h2SjNQLV9TRElQVk1rRVRxM0Z2RllqZGtsR2pxUVMyQm10ZlZYZV8wZEFLNVQ5SjZHZEFCWUVTOXVPRVg4a2dBSnpzaEVSRXhJMGlkVVBYTkdWaEx5RGZDYjlV?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-21 02:06:31",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6684,
+      "EUR": 4.2289,
+      "GBP": 4.7977,
+      "CHF": 4.5538,
+      "JPY": 0.023339,
+      "AUD": 2.3784,
+      "CAD": 2.6112,
+      "CNY": 0.5156
+    },
+    "crypto": {
+      "BITCOIN": 320231,
+      "DOGECOIN": 0.550567,
+      "ETHEREUM": 10509.22,
+      "LITECOIN": 323.53,
+      "RIPPLE": 7.4
     },
     "indices": {
       "^WIG20": 2958.02,
