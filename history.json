@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-19 09:19:39",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6525,
-      "EUR": 4.2331,
-      "GBP": 4.8038,
-      "CHF": 4.5865,
-      "JPY": 0.02353,
-      "AUD": 2.3726,
-      "CAD": 2.6023,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 335484,
-      "DOGECOIN": 0.580396,
-      "ETHEREUM": 11253.65,
-      "LITECOIN": 344.88,
-      "RIPPLE": 7.91
-    },
-    "indices": {
-      "^WIG20": 2896.21,
-      "^WIG30": 3727.56,
-      "^WIG": 3727.56,
-      "^NCINDEX": 262.68
-    },
-    "news": [
-      {
-        "title": "Dwa lotniska w Polsce zamknięte po ataku Rosji na Ukrainę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcS1uV1F5bFVwTnVJSXpFbUp3WmEzeGNSVUxlYWloOWV0MWN4R2RVVTlxeWNVWlhCWExHMC1hN1BrOVZiNmhoOTZXbjZOQkJydG9EVTFZVlBtRUw0VllHSUhzdU9TRVVHT04wM1FDTEVraEwtcW1vSFpwMHFJam9jRllhSkJoMnRGc1h5ZDRTQ0NTMDg3QzNZVlhtWFdPUQ?oc=5"
-      },
-      {
-        "title": "\"Doszło do kompromitacji\". Polityk PiS o ataku na kolei - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzJIakk0d3hBa1RqUnp2WVJmNnhjMjJjWHpjTEZreHB0dVRYZlpJNVpuNzVheS1CeUZlUFFUXy1fakJYUEpDVDlqZ0lERnRNZDVIS0R3VzVNeFBLdzRKTU1zamYyeEt6VTFaYlNDUDhSVkFnTkJoNVZoRzFEUkJUdFFBZ2tIY1U4OUk5akdfYUstQXNKNnZXbUlUMDlpUUpUUWVWRA?oc=5"
-      },
-      {
-        "title": "Nawrocki o nowym marszałku Sejmu: Mamy odległe wizje państwa - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXNONHY0dWtrT3h1LVZtOU9aYkoySXFjV0pNTHl3d21lSDg0Zk11Wk1BaHNXVlNfMzZ6dU5sTjNYbGVIc3JRc3YzRVQwZWE0LWtfWUZxdHJUX2VzQlVXUHl0UUxSLXNnVFZwNXRjd3BsS3RZZlpUcllTd1o3UWhsRVZ6XzFPanFBODBPMng0MGVqNzFCMnR5QmRRckJlTzNZZXRQQXczcHdyZmpuMG1CQnREbHBPSHVmd1BBUw?oc=5"
-      },
-      {
-        "title": "Milion Polaków bez ziemi. Rząd szykuje rewolucyjne zmiany - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa09MOGRjOVlkRGpuVWF3bFBPRTVzZDFPaDV6SC1EeGpMMU1TWDdTWVljYnU1UFpUX19IX0dQTldENFpVSlU2bmxZOFRnYkRheVptMjBFYmV5UV9wckkxX2NTTFNXMXR5X0Z3dnZGRG1BcHp1blRla0tHQlUzVlNvS3ZOdEJha0VnZjJ1dFUzcHdMRDFNSHdXSmxsamtha1ZIS1lJTzZxd2VXdUJFajR1cWt1NVdUTW8?oc=5"
-      },
-      {
-        "title": "\"Ja swoje zrobiłem\". Rewolucja w WOŚP - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsT3hST3pwRzUtU3ZRZC1RbHFReVhCUDBFOFR0eWltYXBwSVRjU25hT0V0b2d0N3dYSHJ4a3dQU1JHdGtMTUlzdzJxMEtCMnFud19Jamg4MExSYk1vdHcybElnZXBRektyenBzSU0xV01GR3dRNVdpN3N4d2xPbXNUNA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-19 10:16:24",
     "weather": {
       "Warsaw": "brak danych",
@@ -2636,6 +2583,59 @@
       {
         "title": "Naboje znalezione na torach w Wielkopolsce. \"To prowokacja\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUNCLUFDWUFSU2tfYmd2dHF2Q2dzNGRtOUlsaXlVUkdnTHlDempJTENXTDB0R0ZPWEdjT2RBMDdBbUZJYmcxTXFucF80WmxPbFBpb1lUS1RVbWFXa04yZjU1Z2h2bjAxU1pnakQ3eWZqMVpkTEM4RlZTMnppUXZRbU80R0VvRjRKRFZaRjZVbG9ITzltcWJMcUs3X3FnRFRtRVpoZ1pLaFVjQXhoQ0lmVnJSZmJidw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-21 15:14:05",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6868,
+      "EUR": 4.2489,
+      "GBP": 4.8154,
+      "CHF": 4.5768,
+      "JPY": 0.023516,
+      "AUD": 2.3728,
+      "CAD": 2.6162,
+      "CNY": 0.5185
+    },
+    "crypto": {
+      "BITCOIN": 309060,
+      "DOGECOIN": 0.514759,
+      "ETHEREUM": 10073.81,
+      "LITECOIN": 306.45,
+      "RIPPLE": 7.11
+    },
+    "indices": {
+      "^WIG20": 2922.63,
+      "^WIG30": 3761.5,
+      "^WIG": 3761.5,
+      "^NCINDEX": 257.28
+    },
+    "news": [
+      {
+        "title": "Viktor Orban reaguje na plan pokojowy dla Ukrainy. Pisze o Donaldzie Trumpie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNENQT0FwUVQ5bWhJSU90bWlHSjhrN1NmelRKb1FWbERpLWdIaUQ4N29ZbTY3VXlkQVVZMUNncl9RV1JuZ0ptcFBYWlFhQUhEUjEyODVKLXVLakgzWDZmaENzallOYlJzRndtSERib01OZFVpUjNmMTVFeXNKSzhsTkpBZWRkRXgzTHFkVE1PMG50a3AwQmppSWJkbUNzX25sY3o4NlJzRDd2Rk1mMU14bk1ORG1UQVFNcHhhLWxSYlZjMS1aekppZ2k1R0Z3ckNZWUF2WQ?oc=5"
+      },
+      {
+        "title": "Majątek Zbigniewa Ziobry zabezpieczony. Prokuratura podała szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmx5cmF0aEs5ZVE2NU80OHM2dTlVbkxtM0JtYWZXejlMbTdUUGNkUW53djJNUERkUVp3SmtMdFdtRGgxM2s2YjY4cmY2ekI5NkNqUjRlUWVTZ21QSVg5UzJlWjF4TEVuTkJmNEFPWXNGTFVCbno0UHFoWHBKQVIyWGktVjZCZmhKWHpmdExuQjdRbmlKSm5aR2NFYlFmdkhKdG5GdGhDSzM5TTc0R2lYWm5NUnptb1ZULXM4bVoxcmNmX210allHSWFR?oc=5"
+      },
+      {
+        "title": "Broń bez amunicji? WOT wyjaśnia zasady patrolowania na kolei - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmNoazZEblFSTmIzSWJvNGFjX3RQTnRvWUJFX2E2QzNpYW1DeXJMcy1HMWd5OGpzem9wNGFRY1BCdGJjSkI5bER2TmVpY205TFBLdEJVR3J6MGlybEVIRUxhYWk0ckhCQXd3WEs5WXQ4eWVGTl9Pc2cxUzJWVVU1c1M2NTYtS3c5aWlFc1NZbW9wRWRvbFhIem1COWRVVjVrWmozdjhuMDNXcUFz?oc=5"
+      },
+      {
+        "title": "\"Do teraz słyszę ten krzyk\". Wstrząsające relacje świadków dramatu w galerii w Bydgoszczy - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdk1kNmpGYjgzLVh2V3p0Q29Hd2o1SEdMM0phSVBSZTFzMTVZZVNKckJ6cE9aR1BGb1BldWd3dVUyenNFNGY3Y21BeXBsRVlJNFR1b0U1ZmhmTkV1WlNYQTkxRlcycmVYYUFlZDE4Y05QN05zblhDaThNZXIydnRUZE1MTU1pQW55TlhkZEl2R0pWZ2daUUR0S3RQa3VSLUR0VDlMQmtMQmMxQlYtSGtiNTRxbzRZRDNpZE5hVndR?oc=5"
+      },
+      {
+        "title": "Naboje znalezione na torach. \"Prowokacja i sprawdzanie służb\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWklOWnQ1dUhXZUNyTzZhdEhDdzB5alZaaVVoRzB0c0RWeWtWa1hlZ2FYdXM1M3R3Vjk2RUcyc3FadEJzSGJTNTZsd1U0NXVVV1BCaFdqdUhUZGxpR2xVRURGU2hNQ3dxekZKVERsTlpfN2F2T0VQZjNkVThLWVlUZkJ6U21CSVNEMzROY2dQWVhmXzZmSmRGaUtRZGFBWkV4R1hWRUNB?oc=5"
       }
     ]
   }
