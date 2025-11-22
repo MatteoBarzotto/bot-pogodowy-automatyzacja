@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-19 19:21:11",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6656,
-      "EUR": 4.2424,
-      "GBP": 4.8116,
-      "CHF": 4.5743,
-      "JPY": 0.023504,
-      "AUD": 2.3779,
-      "CAD": 2.6185,
-      "CNY": 0.5155
-    },
-    "crypto": {
-      "BITCOIN": 327136,
-      "DOGECOIN": 0.544976,
-      "ETHEREUM": 10615.19,
-      "LITECOIN": 329.32,
-      "RIPPLE": 7.54
-    },
-    "indices": {
-      "^WIG20": 2956.75,
-      "^WIG30": 3804.26,
-      "^WIG": 3804.26,
-      "^NCINDEX": 262.26
-    },
-    "news": [
-      {
-        "title": "Donald Tusk rozmawiał z prezydentem Ukrainy. Chodzi o dywersję na kolei - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEpQbDJ5NFVtcmloWTBuMzlXNWJQQkN0eVNKMzFQRzMyQlU3aGxZajJESDhxOW5iZXppRWNoYzN2cW1zUWxDRXBXRmdWTTlzalVjQVh3dm5ZQVAxNVVjbGdTYkQ1MnZPVFpFODhDTmV6TUM3VzF3dGZISEQ5OFdEVEdlUGpiWDVHY18xeEZpWDIzUkxVZnJWbExHYzNDZF9jS2Qya2Fsd1VXSjNwZldtMw?oc=5"
-      },
-      {
-        "title": "Prezydent Karol Nawrocki spotka się z prezesem NRL. Termin, temat rozmowy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFNxbEQ1cjBiX0ZNM3VlY0RZcUJ4bTlydUpXNDBrTUpCTVl5NU05YUQzRnpRbEx3NjdqZjhiTlNjYkFvTFlMa19mT0xtTXpLT21tUW5COHRTcmozM3J2T19NR2F2MmR2aHdCVHFzanZ5Q1Nja293YXZJZnVYSjgwRE5nX09wendnbkVfc3c4enhlOVNmYWlGSFR4c1hkVHhsbFVibWNsQlUzSDE3R0Z2cQ?oc=5"
-      },
-      {
-        "title": "Rusza operacja \"Horyzont\". Zaangażowanych do 10 tys. żołnierzy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWZ2TkZ2NFRpSmU5RzVfQ2FjeVNmNDBiQk5OVEcwZGR3VFhMMXRpUGFFekRHdlBReTY2aWxLUXI0SEtvT0xxTXc2amdHcTd2UWFLZFV0VmE4X21kbTRzZW5MLVFmRFRPbEdNb1ducVpranhlNklzMDNWZmpwTUxyX0RNYWNGUENCX3lmRkhUaGJPcHp6X1J3WHJn?oc=5"
-      },
-      {
-        "title": "Polska zamyka rosyjski konsulat w Gdańsku. Kreml reaguje natychmiast - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeEpGNUs5Sll2bE5Tb180Z2g0enFwTDBoRnZIanVJTURkRlExSEs3ZDkwZ3pqUUZZZ3QyOTk3U3NYY09SLUc4NVJ0ZEY3azhCR2ctTGNkUjVMMVBZbHFWUXZzVXltUVdJU0xKLVZoTk1WSWNWd1lxajJES2ZXYU14b3FwSXNuSjNydUtuUnpSdjROb042OGstM2xvSDZWVy1MNEU5R3pwWmF2WXFBNjFHbm11N2xmb3FN?oc=5"
-      },
-      {
-        "title": "Włodzimierz Czarzasty dostał pytanie o swoją fobię. Wspomniał o Szymonie Hołowni - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjVwZl9RZlFoOE9SQTJkZUhXVktxR1FacHotd3RvU1VJM0wyUndPLUdYNFdQdzl6X0J1WmhKX3Vwd0lpMDJpNWFqMF9CT3FHZXBpemUzUFlnYXNTTDRzMUpCMktJMllNWTdaM0RMN1dDU1RVWm04TG0wNW0zZFV6TnRFUnB5TzJIREhteU9HZE9VQWJ0OUdtV3h0eVpWSWtTT2xJd3BQRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-19 20:11:45",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Demokraci chcą ujawnienia \"szokującej\" rozmowy Trumpa z księciem. Chodzi o zabójstwo sprzed lat - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZDdnMkdBQmw0TnkxQzF0ak51d0tOQUJUQjZOcmVKVzlWa1d6M1Y2amJ5RHRJaVBIUWhXSExoSGNtSHNmSmhwSU1FY1czWi1iLVRvcWE1Z1JwaFlvdmV6cG9FUElqYm1qc0VDVVM3WFRaNXNST0NIWjI4eVZSUWVCNTJiNDFEZXlpLVV4cTBfejdUOUxYdVBXSjlpREg0SHdQYWpkNHRmdnNuamRfbGRZNXRCMVpacVRFQWdla1B5U0hDZ0ZXd0lsWnpwTzdKYUZhMUxHSHJQMFZYYU0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-22 02:04:25",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6868,
+      "EUR": 4.2489,
+      "GBP": 4.8154,
+      "CHF": 4.5768,
+      "JPY": 0.023516,
+      "AUD": 2.3728,
+      "CAD": 2.6162,
+      "CNY": 0.5185
+    },
+    "crypto": {
+      "BITCOIN": 311932,
+      "DOGECOIN": 0.515993,
+      "ETHEREUM": 10188.24,
+      "LITECOIN": 305.28,
+      "RIPPLE": 7.16
+    },
+    "indices": {
+      "^WIG20": 2921.08,
+      "^WIG30": 3760.97,
+      "^WIG": 3760.97,
+      "^NCINDEX": 258.74
+    },
+    "news": [
+      {
+        "title": "Plan pokojowy Donalda Trumpa. Karol Nawrocki zabrał głos - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNHRENFI0WUViUll5UnNkMU9za04wMXJFTkhwaG1ZTFRKWm1CazRTNHFHSVRWUDhXTUVCc2tWN1NjeFFUSWUyc0lVVjY4Sjc0X0ZCczdlVW85VjdkUlA5NkZ4dFQzeFB2ejBvbG1xNm13M2dlSDVvS3I4RGhDS0F4RjB3ODFndlRVSGQtcGJ5UTQxcXlHM3Y5S3BZZw?oc=5"
+      },
+      {
+        "title": "Amelka zginęła w rosyjskim ostrzale. Nawrocki składa kondolencje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlhQekF4X2x5QkM5VW5vWVpveFNRcm44NW5GaFZpd0Fnel9HNVlTVjIzSTdvVGp3YTdjckhyb1cyWm5aN2tnb29LR0YyUWNOdlBtOEdLaWhZVWZiTzlOUDFSNzR0T0NnUkpBN1pkaXNnMGdhRDZJV0NCR3ZQOS10V195TzhzOVF1TXJhRFZoeXRhaDBKd1VoMFpfaVZBVVlXemVDSkhPYmhyUQ?oc=5"
+      },
+      {
+        "title": "Orędzie nowego marszałka Sejmu. \"Zasady są proste. Prezydent reprezentuje, rząd rządzi\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVFtOGxRUk1VRk51d3dyR3VFWE95cnlZOE5CYXlqVnlOSVNoT2ZvSDdaSGRHSjBxUHNzY00xTHAtUmNoTnBQdVhJdUEtWGhyejlsdnFnS3BBaWt0WjlFNU9fZGdxTXlKSzE3bzBIQlR2WmV1VS14V0tpZHBYaEpWRHhLQTNIaC1ZQWdpeWdya1JIOW93bTZZX0VpLTdSNmF6QVp3TGY5YVQ2VHp0RnNrUGlGdkFtSjc4RXFQYjhCWXU0VXdDOGZrR0xkZw?oc=5"
+      },
+      {
+        "title": "Demokraci żądają ujawnienia rozmowy Trumpa z arabskim księciem sprzed lat - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZDdnMkdBQmw0TnkxQzF0ak51d0tOQUJUQjZOcmVKVzlWa1d6M1Y2amJ5RHRJaVBIUWhXSExoSGNtSHNmSmhwSU1FY1czWi1iLVRvcWE1Z1JwaFlvdmV6cG9FUElqYm1qc0VDVVM3WFRaNXNST0NIWjI4eVZSUWVCNTJiNDFEZXlpLVV4cTBfejdUOUxYdVBXSjlpREg0SHdQYWpkNHRmdnNuamRfbGRZNXRCMVpacVRFQWdla1B5U0hDZ0ZXd0lsWnpwTzdKYUZhMUxHSHJQMFZYYU0?oc=5"
+      },
+      {
+        "title": "Rozpoczęła się zimowa seria. Każdy kolejny dzień będzie bardzo wymagający - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUd6ZF9lOHJMZGc2X0RObzh2bDRINFJyVGllbnpsTVd5c2Excy1Wc2hpSWlhVWxBQlJRZEVuZHBnNVJVV3NiLW5yQTlvbDZ0M1JFNGF3OHF4MjItNmNfUEJwb19Tc0VzUjFxeDVfWFNkdXM1NVZTYWt4UUNQaTVDR1FFMGNMNjBmaURYb3VLZFdpUzlBeDBTM3cwZHJraEQtLXgwU0VWN1N6a1VmR0g3ZDhFOWxVUjU0WFlMMQ?oc=5"
       }
     ]
   }
