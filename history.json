@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-20 11:15:55",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6656,
-      "EUR": 4.2424,
-      "GBP": 4.8116,
-      "CHF": 4.5743,
-      "JPY": 0.023504,
-      "AUD": 2.3779,
-      "CAD": 2.6185,
-      "CNY": 0.5155
-    },
-    "crypto": {
-      "BITCOIN": 336240,
-      "DOGECOIN": 0.574732,
-      "ETHEREUM": 11003.68,
-      "LITECOIN": 338.41,
-      "RIPPLE": 7.76
-    },
-    "indices": {
-      "^WIG20": 2961.47,
-      "^WIG30": 3810.63,
-      "^WIG": 3810.63,
-      "^NCINDEX": 263.93
-    },
-    "news": [
-      {
-        "title": "Napaść na polskiego ambasadora w Rosji. \"To najpoważniejszy tego typu incydent od wielu lat\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNE9SVlhNb18xRXk4b1hULVY5NjM3S3pKU3RpVF9qdmFRV0xLOEl1cXBsQnZrQXYyWjFaRkYyOVh2TDFObkZ5ZDhNVkpLWjJfS1ExeFV1bUo2WXNjSW56LUZGTkhVekhzVThOelhWZG93eUtQcnNKOUpRSmU4a19EVHpmYXE2cHVCZHJvU3R0d0ZZcERZby0zTzk0aU9tN25RNTgwdQ?oc=5"
-      },
-      {
-        "title": "Ile osób zatrzymano ws. dywersji na kolei? Siemoniak w TOK FM: Nie możemy spłoszyć - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczhIRzZxTXNkTjhQQV9JejJlcVJSamN2cHpNLUlUTmNMLXYzbjZtZE5fUTd6QmREbXJqYi16azNjblhNOG9BOTJCTjEwdmNVYmFaejVlcTBCRm5FSW14RUFQR3J0bGtNLUFaOGNIZk1NU04wcERJQ2NPcEVqMzNwZUJnUWMwZS1KMGJpS29RYWlTODZMd0JQREtQR29DQ21oUk9rUF9yNmN5UXFkd0E?oc=5"
-      },
-      {
-        "title": "Włodzimierz Czarzasty przeprosił Szymona Hołownię. \"Pogubiłem się\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjhEWVNLS1J6QlBMSEViNnpBcWpMeVF5Zzdxb2wwb1Bxdlp3Z3R3b2xoLWtBanM1dnI1WTVZLVg4cDM1Mkk2V3I1dFVMcDViVnpWSTJxNTJBT1pQb3JWWFhPQ05ZVDNob2FadTVPeWw1ZWtsRFQzTWhpSFg2NWFoT3hIZDA1UGpyaTlGaVhTal8wbkZ0ZGllQ1F3TnFjVGFtSjd2NFc1bV9QNGVoa0R2aUx0cUZ2d3Z5YzdsenlRdFJpNmJ6?oc=5"
-      },
-      {
-        "title": "Katastrofa kolejowa w Czechach. Wielu rannych - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS0xyeVJBYy1kQnY4cmR4ZFFEOFRDS2pBS3ZHQXB6OHFMU0VuWkREVWtYb2t2TmVHVGxKbTR3a0hsdWVZZ0ZNNkN6c3NUTHc4RTNBSHVTZ0pPSExZaFU1dFBEdkM1WVlnaXVYMHAza01uOXJ0RVNtRDRQZGhjR3JRYkhjNA?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski o decyzjach resortu po aktach dywersji. Wymienił trzy kroki - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRHMjVYc2ZaRHpWZVgwbzlscUMtQVFtWXdDRDhUbUVBQXNCSU9TRlViM1h4ZzlmNXNvaEpVYjd6eXNSc3FFLXhhb1FVSFlQMEE0dWVnbGlLb1hkYjdSaEJXQUp1dFVUQU50NEg1ZnRtbmdIbXJ6VUt2ZDFjRDFfX0lidW5HVjNmdTFtN1FLenBzeUloNU5mVUVTV3dTMG5yaHBiRk9sM3lhcndiNXNSWEZISE9nYXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-20 12:13:02",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Trzy akcje poszukiwawcze. Służby zatrzymały tysiące osób - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1hQbFgtUTJJSVc5QXBsWTFJeEpHNmFPMXhzUkpmUy15LXBBSW10SzVMSEpDM1FnejVFU1lBSnNEOXdnMmx0VVhYRkZjZ0VYTW9YdTF2R1ZHQ0I2eWpsc1dIcVJPY1Z2akcyX1oxa1RXdEU0d2VyaHY3bVRNMXkycURHSS1vX1N2cTMxbFpHZTRNOTJFMl80dlkwNVU3TEU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-22 16:12:40",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6868,
+      "EUR": 4.2489,
+      "GBP": 4.8154,
+      "CHF": 4.5768,
+      "JPY": 0.023516,
+      "AUD": 2.3728,
+      "CAD": 2.6162,
+      "CNY": 0.5185
+    },
+    "crypto": {
+      "BITCOIN": 310314,
+      "DOGECOIN": 0.510154,
+      "ETHEREUM": 10082.06,
+      "LITECOIN": 300.72,
+      "RIPPLE": 7.08
+    },
+    "indices": {
+      "^WIG20": 2921.08,
+      "^WIG30": 3760.97,
+      "^WIG": 3760.97,
+      "^NCINDEX": 258.74
+    },
+    "news": [
+      {
+        "title": "Robert Fico mówi o skutkach podpisania planu USA dla Ukrainy. \"Rosja zwycięzcą\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9rdWJzdHpOci1ndmkybUQ0QkVJbUhXSzhmLUdlRXBSRFZoWEZuaHNuYXVUMG9ucm1UZ00tcWpHNVVjREMyNXA3REh0ak8tX1k2VlQwRjRqX0FOcElYRDBYcXJ4MVZOQjZySzd3dFJLa0xoRTNTd1VDZkNWNEJQOTQ5c0IweGNfSkZtZ3dRMjR4MUZHWXVrWUlBX3hZcldaZzdVMUozLXNybXo1RDNCU2lpeXU?oc=5"
+      },
+      {
+        "title": "\"Bystra dziewczynka, mały aniołek\". Rosjanie zabili w Tarnopolu 7-letnią Amelię - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa045cGg2dFI4NWJfd0haLTZoSWNuYlJtLTdTZ2tnZHlOVE84bEozWFduS2NhRWVsTElzQzJnLXc0bmlqdEJuWFYyaXFfQXBXNHJMM19yZDFEVWRsSTRhTWt2VkhWbFJPcG9fZThNTktYbUVRZU5KTW8tczU3SFhYNk43dkNmemtXc1lJSGJ0blFzUHFjSnBnZ0VHcjBXdWVKRlM4?oc=5"
+      },
+      {
+        "title": "Sabotażyści z Ukrainy. Powodem pieniądze, szantaż, pobudki ideologiczne i Telegram - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcFMzMUFUb3lCcGlPS0x2VkY4VzBHdzVjLWppa0lfTTA1ekh5RU5LTHVvR3FzOHVaSVFlQzNPOVhHdXd1Y29mX0ZLYzhhdm1XR3dEMF92RlR2SDhJaTAyR2Z4ZktyT2c2eUdyaE5RX3U3RnU2bUkyQkZrX3FpWV91VWh3TktyblRZWHFzeGpLcDlpZmVaRjl1MkMyTkxIajM2cjUyVFNUdk94Q19CUVgxcDRxTm9URGJJVlE5dk1zLUdzSkNmWmFSdjVKMzg4S1djWUdVNHZDcmFxRm5USnlUeUpKd1lncENZ?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun w Oświęcimiu mówi o żydowskich nadludziach i policji gettowej. \"Tu jest Polska, nie Bantustan\" - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkFTM1NCWVNndFpqWDFYMHF5enVGTnpLUmhSYkpHbHJsVUY2MExDcWxoakRUck9nVkdyQmg1YWVmczZkWnZSNXBsWGFPbEtPWHoxYWVadDJ4OG1qWE5HMDcydUo0MlVWWTZ4Y3VOdFNteVhwcTlsdVR4VGJrVU1URjhaQkZKWjZlemozSjZYSnJFSkFkX2RtQTIzd19OZXNOSzdzOFJxcGxQYUROVmdFLTZFRVNXQQ?oc=5"
+      },
+      {
+        "title": "Potężna śnieżyca zaatakuje ponownie. Po weekendzie prawie cała Polska znajdzie się pod śniegiem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlVZWjRmOV9DZExVOTVIOEY1a0FPLTlnNDdhWXFqMjAxbEd4cWd2Si0zMW1WSXdPUTdqYVhQMUpmYkloM0s1dko0YUpFQkNXY3RHNW9mbzFWLXFEMzFYN3VTNGZWSS00Zmh3NDFhSk9SbG5oMFUteUZPU0hiTW8teGZaX1h5QnFGM1NOb19SVWozYUdOVXJheUtDWEE1MlhIaXBGalBwLXQ2anNxaUd3OGVjWjhZQW5XY0djeFEtR0NRYkY2ZEtfWGF3?oc=5"
       }
     ]
   }
