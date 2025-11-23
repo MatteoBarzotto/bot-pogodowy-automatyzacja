@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-20 20:11:26",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6684,
-      "EUR": 4.2289,
-      "GBP": 4.7977,
-      "CHF": 4.5538,
-      "JPY": 0.023339,
-      "AUD": 2.3784,
-      "CAD": 2.6112,
-      "CNY": 0.5156
-    },
-    "crypto": {
-      "BITCOIN": 316698,
-      "DOGECOIN": 0.538382,
-      "ETHEREUM": 10309.33,
-      "LITECOIN": 316.97,
-      "RIPPLE": 7.27
-    },
-    "indices": {
-      "^WIG20": 2958.02,
-      "^WIG30": 3808.05,
-      "^WIG": 3808.05,
-      "^NCINDEX": 262.32
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki zdecydował w sprawie operacji \"Horyzont\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV09wQjc4YjhrcWJmWS1pUTZQN2IwdzJ5aUxqZGs1OEYxOS1nNE1qMjNwSl9DeFJnVXctRUhoNUxhZmI4YTdqUTJGaGN0UkhBeUxPR2N1amJldVVCZ3VFell0bmxNUGVuWkNvdm5SYjA5b1BoTTIyZngwQUtLQ2g0aVlmM0lsdktMNlNyLUZLSWlNYWp2bWxMUzFLTEtucUdkUzN0OVBZT1BzU3RZTFN4WjQzYXIwams?oc=5"
-      },
-      {
-        "title": "Prokuratura zabezpieczyła majątek Zbigniewa Ziobry - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3AzTUIyemk3M3BhY1lYR0Ria0xDTE16c2Q5WU1mS0xiSklBYlVxQTJCMWp1b3h0MkRKUmlPT3pBVFNVUGJfUUJXRHJZcFhqeFFqbTNwcjFOYkJZb1hFY3l4RGRqMzQ4bnBoV2drZURJblhMaVYwUy1GYnVWbVpUTC1PTFRXeW52bnVGM3ZldzB5aXhqR053?oc=5"
-      },
-      {
-        "title": "IMGW bije na alarm w sprawie śnieżyc. Tu może spaść nawet 50 cm śniegu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUNna0Q5TkhYcWNuUjExRGJMeUJlYXdWVXlxcXFXenVxYWREWVUyZnpKV05CTWFaaF9LZXR0aXhsc3l2aENDaDQ1ek5IRDlZdDF1a1M3ZTFKdXpoYkx2T2VsZTlZWTlGT3VpaEVVVzVNdHgtcGhxRXZDSjNqX3Y2YUs5VnRyRkxrd0J0c0Fodm9hc25CSU52TUlfeFpoM01pTDlTM1g2bGZENlFEY01QeDhB?oc=5"
-      },
-      {
-        "title": "Wołodymyr Zełenski: otrzymałem projekt planu pokojowego od USA - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTVhTEt2WjlZTU1SSVJCbU5DTnM3TWNaamQ1SWNtOVZ5RGhvS2dmVFowakROMm1QZjhVdmRPc0RhSFdUWmlrSk1CRkNCSEFQY1drRWE5aWxBOWp1dUYySDBZb2YzZFptRHhkTjFGNHZwN01ocm1vQXM2VmlYS2JfM0FRS1l4ZHplNlY4SVlPZ3pyUzVKY0hSZ2pMVzctZ1NzcmhudW9hdHBSRnY0NXpfNUNUQzNGQmp4T1R4Wktqaw?oc=5"
-      },
-      {
-        "title": "Atak na policjantów w Sanoku. Sprawca zginął, w mieszkaniu znaleziono ciało - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhRZ1YtR1daZGk3UkFFbVdEdS01bjIyMzF3ZXZSUzZFYjUxbm4yVDhENjBlX0RzNTlMUXJiZzdnbFB2UzNTZ0V4XzRJWUpHdnlhcUVTaGFIdUhNYjlldjlWLTJxWFZTaDg0dElLT0lCZ1NmNjlNTms4bGw3VEpaSGR2RExVZm1IbGMwRTJ2dng4Vk1pbWkya3ZBRi1SM1V4Mlo2SHprTDBpZ0xseUpodnFKUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-20 21:16:25",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Nie żyje kierowca ciężarówki, policjant jest ranny. Dramatyczna akcja na S3 - Onet",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTXVVQjN1RVdBTU1oZ0RORUdydW0zMEN5TW1JZjlOcjYtTkxrTTVmbGJ1YlFQRlFWTGptQlNSNDhhQkRKQVUzUmpWdzdLNlFTLWx6XzY0NThkQU9kNWRPbVdNWUozSkZHS29FMTZIeUd0NkFlUDFmMGZVREVQckhoczNiczd4bkl6TEtsZnVtRWVoX1VydFRWZnhIcVZJRXZYOU5oaFl4dHo1RjlSNk13azJWSlg2VDh1VnBHX3I1UnhWVmhaTGJfWm4xTVdWTWc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-23 02:16:43",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6868,
+      "EUR": 4.2489,
+      "GBP": 4.8154,
+      "CHF": 4.5768,
+      "JPY": 0.023516,
+      "AUD": 2.3728,
+      "CAD": 2.6162,
+      "CNY": 0.5185
+    },
+    "crypto": {
+      "BITCOIN": 313905,
+      "DOGECOIN": 0.518112,
+      "ETHEREUM": 10234.6,
+      "LITECOIN": 303.93,
+      "RIPPLE": 7.24
+    },
+    "indices": {
+      "^WIG20": 2921.08,
+      "^WIG30": 3760.97,
+      "^WIG": 3760.97,
+      "^NCINDEX": 258.74
+    },
+    "news": [
+      {
+        "title": "Premier Węgier ostrzega Europę. Chodzi o pomoc Ukrainie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXAteHRUdDhqUWQtMkxrMnFoWEtrZ09iVUl5bnM0dFJUQ3Fndnl0ZVR0LVpGUG03X2ZaS3Y0UUZHTzQ0cnJoeWRRYXdBM3RSUC12VFROOEY3VnJXVUJIQ2hYa1BfQ25GeVM5TzZJMzJYQ2E1THEyMkcycUw1QjVvdjZNZUhyS0UxdzB2M3J3RzdEY0FiMDNTSXpiSTc1cTRGN0FBUUNFWEdHVlJsZFdMcnVsdkM?oc=5"
+      },
+      {
+        "title": "Donald Trump naciska na Ukrainę. \"Może dalej walczyć ile chce\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWJOOUV5d1FPd2V6VkxtRDE3TFo4ancyRFdKX1pNSGV4a2J4eDVBRWNmNEZ6S25uNk5aTEVQNXhVQkJ4ekY0THF3Z3EyWUh0akk4OENoMlQ2S1ZGSzhXQnJNaXZzWnpxN3VTQkpPSUxGRjdfemVtWTd5OW5uTlVvR1hRTmY5R3ZLLTJXcXR1cmxjVUFwd0taUnQ0OGNIZlpicjU5eUNPRkxGTTkwSk13SVBuQTJ0eUJUblZLeXc4UUxEbldE?oc=5"
+      },
+      {
+        "title": "Ogień objął piętro. Są ofiary. Wśród nich małe dziecko - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcldmOEFRRGQ1SmxqbXVuVUwtQUIxZjVlYUVuM0s2RERMb2xaWjVWOTVPSUc5YjRQeTFFQzhoUVFzcXZWWllLa0NtTmRoWEZhRmVZak5hZUtrRTRFdnhxdm5LSGJxUk5VdTZNOWh3QzEzUnBMVmpBU3V2TGs2bi1HYWNIbThfZDI0aE9jOVRnMjRXSV81UU5YeXdXR2c3WDlzT2dSLWRDc0F4dDJTTE85VQ?oc=5"
+      },
+      {
+        "title": "Nie żyje kierowca ciężarówki, policjant jest ranny. Dramatyczna akcja na S3 - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkplN1RzZGdYY01ueElQRGJvbEZ4MFQwc09JREpGaVQxWmpxdTkwMnlUTkhKSDhYZ0VybGZQcjR4RE9iOGliZFp5ZnZkaGhEaXdSSGE3b002Wnpqb2tkZnpMTGFVMGNEVHpzVkFaajRMRUZtSmg1QzFXbFVGSTFlT1daZUdYeENJcGtuR1JZb3BuS3cxUW5SckhkZDJhR1lHUHRtSUJ3NmROZkg0QnVFd0tpMkV0bkU3?oc=5"
+      },
+      {
+        "title": "Kluczowy jest moment, w którym Braun zjeżdża na Żwirowisko. Rosyjska inspiracja jest tutaj oczywista - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWV2bWhCS3ZMSDc5MXhJdWJSZUpfVG9HYmp0QzJTT3A4Z01KSThMcEhiZEhpZjZXSWhyTHJZUG1ubTNYQ1dTblVaR0VUeTFQSkh4N250WWdXamE3R0JXLWtDV1BZc1dkRGlXbjVoYmllSlBRQ1pvX2szMzVuMndudTZJTG1lMWJHNEdqdTF6YUtFbkJLQjJDWDAwWWZSVXB1?oc=5"
       }
     ]
   }
