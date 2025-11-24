@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-22 15:11:48",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 309635,
-      "DOGECOIN": 0.504678,
-      "ETHEREUM": 10046.24,
-      "LITECOIN": 300.71,
-      "RIPPLE": 7.02
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Plan pokojowy dla Ukrainy. Emmanuel Macron reaguje na propozycję USA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHV4NmNoM0JQMmp6dEYycnZkN1VtbE5DLWxDTFVPQzl1eVF3OEptVTZncjdaNlFuSHdJR2k4cVR0LXNSaWlLRy1iNDNlcE5WaUpWMkdZa3ZvM3g5ZmF5SDlPTEt6YWVYRVFMSk53czZBNC13NWxVWHlVY0NuVWxCLU1wMFVkcjFKZ0ZnZjNpWjMwQ2dLeHAtQ083UnZXT24xc3c?oc=5"
-      },
-      {
-        "title": "\"Bystra dziewczynka, mały aniołek\". Rosjanie zabili w Tarnopolu 7-letnią Amelię - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa045cGg2dFI4NWJfd0haLTZoSWNuYlJtLTdTZ2tnZHlOVE84bEozWFduS2NhRWVsTElzQzJnLXc0bmlqdEJuWFYyaXFfQXBXNHJMM19yZDFEVWRsSTRhTWt2VkhWbFJPcG9fZThNTktYbUVRZU5KTW8tczU3SFhYNk43dkNmemtXc1lJSGJ0blFzUHFjSnBnZ0VHcjBXdWVKRlM4?oc=5"
-      },
-      {
-        "title": "Potężna śnieżyca zaatakuje ponownie. Po weekendzie prawie cała Polska znajdzie się pod śniegiem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlVZWjRmOV9DZExVOTVIOEY1a0FPLTlnNDdhWXFqMjAxbEd4cWd2Si0zMW1WSXdPUTdqYVhQMUpmYkloM0s1dko0YUpFQkNXY3RHNW9mbzFWLXFEMzFYN3VTNGZWSS00Zmh3NDFhSk9SbG5oMFUteUZPU0hiTW8teGZaX1h5QnFGM1NOb19SVWozYUdOVXJheUtDWEE1MlhIaXBGalBwLXQ2anNxaUd3OGVjWjhZQW5XY0djeFEtR0NRYkY2ZEtfWGF3?oc=5"
-      },
-      {
-        "title": "Atak zimy na południu Polski. Dziesiątki tysięcy osób bez prądu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNam1Ya0tiYk5LNVY4clM2bDE4N0tkUW11cWh4SnRDb0dCTkt0Sm1LRFU5MzluRGpmT2tNcHdjQnNIQ2J1LUlGQ1VqMXluV3VIbjFMQUszV212OEdSeVFLY05DdFFsTy01SktId2NZcUxteUpKZHkyOVpZb2ZFMXJMQ3M4U2J6Wl9zZUtfdmNOeWgxX29OdDEyR1JYbEpoSm1OdHdzb2k1UjBQdFI4dUhJ?oc=5"
-      },
-      {
-        "title": "Trzy akcje poszukiwawcze. Służby zatrzymały tysiące osób - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1hQbFgtUTJJSVc5QXBsWTFJeEpHNmFPMXhzUkpmUy15LXBBSW10SzVMSEpDM1FnejVFU1lBSnNEOXdnMmx0VVhYRkZjZ0VYTW9YdTF2R1ZHQ0I2eWpsc1dIcVJPY1Z2akcyX1oxa1RXdEU0d2VyaHY3bVRNMXkycURHSS1vX1N2cTMxbFpHZTRNOTJFMl80dlkwNVU3TEU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-22 16:12:40",
     "weather": {
       "Warsaw": "brak danych",
@@ -2640,6 +2587,59 @@
       {
         "title": "Włożył 8-latka do wrzątku. Ruszył proces - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDByeHhJTzlKVGVwUlF5X2FVaWMydm4wMVRfYWFHTkZrMFh2cXI2NV9oUHhLaDVlY19haDBPS1BWZ0h1MTQ3VjV5UnphWDFsWkVxNnEwaGx0Vlc2cmZlYWw4ZkdCS1NuV18tT0xqaVBaV0pFb0dnaVJoNlhPTi01OGpZaUlldW45b2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-24 21:17:01",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6726,
+      "EUR": 4.2345,
+      "GBP": 4.8073,
+      "CHF": 4.5496,
+      "JPY": 0.023429,
+      "AUD": 2.3676,
+      "CAD": 2.6022,
+      "CNY": 0.5167
+    },
+    "crypto": {
+      "BITCOIN": 325510,
+      "DOGECOIN": 0.562888,
+      "ETHEREUM": 10926.22,
+      "LITECOIN": 316.82,
+      "RIPPLE": 8.29
+    },
+    "indices": {
+      "^WIG20": 2924.11,
+      "^WIG30": 3765.45,
+      "^WIG": 3765.45,
+      "^NCINDEX": 259.64
+    },
+    "news": [
+      {
+        "title": "Plan pokojowy dla Ukrainy. Ekspert mówi o kosztach dla Polski. \"Decyzja Trumpa\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGxud1BiQ181ZERlTVg3bUpMUG5VMTQxbk9XUkJob0Q3dnA3R2gxMWxkaWJld2dldWhTWkNVbUFGYXd6XzlsU3dlYnZFakhDTGFHM29rRWZNQ3JfYk9wQ2toRWxZMnVxQTdzblI5MVlaRUlVN3pQN2xENDltLVZqbDNfTW0xdmtPVnloS3RUT3Z0bG5lNmdxOGhvOG8zcUs3RHlVVkY0LW1rczluZ0FoVG5Tc2tJYzFnZkdfR29R?oc=5"
+      },
+      {
+        "title": "Jedenaście województw pokryje się lodem. IMGW wydał alerty pierwszego stopnia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakM3U0xmZXNXNlFiUVlwYjZNYkZENWluclRFR0lzMHJRX2ZmcFFSb1BvS1BrZEdVbWRNdWVJRVVnc0JYbDNma0V6dFhQMmM4Z08xZ3dxQzFlME1NRXV4OEhuOHdqd0FtSE85OEJUcmd0dW03NFNEOVVGZ001WTNKbHFoR3h6WWdTa2NrMk96anpFbElHa0VCMENtNVVMbkx3Zy1OQzM3eDB6Y2NzM3dKT0txMTNNVko2ZlJCSTNxanVIZ0N0cHowYzFaSGtkcWY3eVE?oc=5"
+      },
+      {
+        "title": "Burzliwe kulisy rady programowej w PiS. \"Morawiecki był oburzony\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWhHYVNEdThZNmdoNFBrOGRkSnRjX0Vza0tra2hBdGthdmx6MkFudzY0NVZxdk9DRHJ5OHo2SmVRNXlOUnpVV3YyMXJJUmJKczU3REFwVFZkM0dXNFBwZkNoeXpHZXpza2ZVRmZKRExzMlZ1UllIVFJSYlItbHpvblNRbVNXbjRtcTduYTFkSFJIV1A5T0FEVklic2xmS2FuVjlZUlppcE5XeFZXOUxWM25B?oc=5"
+      },
+      {
+        "title": "Potężne utrudnienia na kolei na Pomorzu. Sznur pociągów i odwołane kursy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkdTVjIxbHJodzU0NTZaWWQzT2R2UFdJVkM5Y2xaNkE3YklZRW56OXlCWTh1VDhiQTNkMFRnaWNnOEVNcEsyY0E3MjBZNjFUck51SkhXNmxDeU9fd21SX21KVk9xc1dFVktJUXo2emxha3ZzczJUOUVIazBZVi1DYkRCUUJLN3A0SVJ0TWg3VV9RM3FtUlV2X1BqV1F3NFNYU3ZpdEVDRU0tS01jVkp5LW5lWXdsWnJQ?oc=5"
+      },
+      {
+        "title": "Internet wypomniał Tuskowi strój. \"Trzeba się było dostosować\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3VTek1DOGtGYjRQS1EtWXFmQzVDRDRvUzNOZldpdjFHekIwM1F0b1lYWENNaEVtVG5ITFl4TDJFNmQ3WGQ5cjNVQm9IdVI1VklwcDVKbXNiR3dQVG1sbWdKNkMzWk9NQllPdmh4eVFHT1VOMk5saWFWWEd2dVFBSWtCcW9UUm9WUkw2Mm1DN2JsdVpYaE1xaS1OWk9sQXpxUGUwMg?oc=5"
       }
     ]
   }
