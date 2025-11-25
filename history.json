@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 02:16:43",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 313905,
-      "DOGECOIN": 0.518112,
-      "ETHEREUM": 10234.6,
-      "LITECOIN": 303.93,
-      "RIPPLE": 7.24
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Premier Węgier ostrzega Europę. Chodzi o pomoc Ukrainie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXAteHRUdDhqUWQtMkxrMnFoWEtrZ09iVUl5bnM0dFJUQ3Fndnl0ZVR0LVpGUG03X2ZaS3Y0UUZHTzQ0cnJoeWRRYXdBM3RSUC12VFROOEY3VnJXVUJIQ2hYa1BfQ25GeVM5TzZJMzJYQ2E1THEyMkcycUw1QjVvdjZNZUhyS0UxdzB2M3J3RzdEY0FiMDNTSXpiSTc1cTRGN0FBUUNFWEdHVlJsZFdMcnVsdkM?oc=5"
-      },
-      {
-        "title": "Donald Trump naciska na Ukrainę. \"Może dalej walczyć ile chce\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWJOOUV5d1FPd2V6VkxtRDE3TFo4ancyRFdKX1pNSGV4a2J4eDVBRWNmNEZ6S25uNk5aTEVQNXhVQkJ4ekY0THF3Z3EyWUh0akk4OENoMlQ2S1ZGSzhXQnJNaXZzWnpxN3VTQkpPSUxGRjdfemVtWTd5OW5uTlVvR1hRTmY5R3ZLLTJXcXR1cmxjVUFwd0taUnQ0OGNIZlpicjU5eUNPRkxGTTkwSk13SVBuQTJ0eUJUblZLeXc4UUxEbldE?oc=5"
-      },
-      {
-        "title": "Ogień objął piętro. Są ofiary. Wśród nich małe dziecko - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcldmOEFRRGQ1SmxqbXVuVUwtQUIxZjVlYUVuM0s2RERMb2xaWjVWOTVPSUc5YjRQeTFFQzhoUVFzcXZWWllLa0NtTmRoWEZhRmVZak5hZUtrRTRFdnhxdm5LSGJxUk5VdTZNOWh3QzEzUnBMVmpBU3V2TGs2bi1HYWNIbThfZDI0aE9jOVRnMjRXSV81UU5YeXdXR2c3WDlzT2dSLWRDc0F4dDJTTE85VQ?oc=5"
-      },
-      {
-        "title": "Nie żyje kierowca ciężarówki, policjant jest ranny. Dramatyczna akcja na S3 - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkplN1RzZGdYY01ueElQRGJvbEZ4MFQwc09JREpGaVQxWmpxdTkwMnlUTkhKSDhYZ0VybGZQcjR4RE9iOGliZFp5ZnZkaGhEaXdSSGE3b002Wnpqb2tkZnpMTGFVMGNEVHpzVkFaajRMRUZtSmg1QzFXbFVGSTFlT1daZUdYeENJcGtuR1JZb3BuS3cxUW5SckhkZDJhR1lHUHRtSUJ3NmROZkg0QnVFd0tpMkV0bkU3?oc=5"
-      },
-      {
-        "title": "Kluczowy jest moment, w którym Braun zjeżdża na Żwirowisko. Rosyjska inspiracja jest tutaj oczywista - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWV2bWhCS3ZMSDc5MXhJdWJSZUpfVG9HYmp0QzJTT3A4Z01KSThMcEhiZEhpZjZXSWhyTHJZUG1ubTNYQ1dTblVaR0VUeTFQSkh4N250WWdXamE3R0JXLWtDV1BZc1dkRGlXbjVoYmllSlBRQ1pvX2szMzVuMndudTZJTG1lMWJHNEdqdTF6YUtFbkJLQjJDWDAwWWZSVXB1?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-23 04:22:18",
     "weather": {
       "Warsaw": "brak danych",
@@ -2634,6 +2581,59 @@
       {
         "title": "Każdy region odczuje dziś zamieszanie w pogodzie. Wszystko z powodu niżu genueńskiego - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFlRU3ZqekdOY3paMW9nZ0tDZUJvNktJcDBsa3ZBaVJNWUVVdjFkYlFzMTk3VUJ0VGZjRGZFblc5bkpUS0lsbEdTTEcxeGpBa0FBV2xUUF9wcTBFeGlVZjRRaV9jU1d1WmZfb3RqeWpGLUJ1SkdiQ1lFXzVmUk1UaWVWRlZ6NUtVajR5bHpyeUszWmxZcnZXcVZPWlNNR0IxLVpvbFFmQnhLbW5FODYzODQyOVE4TWlsbjNUZjFrUXF0aVZrNDBN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-25 09:20:38",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.6726,
+      "EUR": 4.2345,
+      "GBP": 4.8073,
+      "CHF": 4.5496,
+      "JPY": 0.023429,
+      "AUD": 2.3676,
+      "CAD": 2.6022,
+      "CNY": 0.5167
+    },
+    "crypto": {
+      "BITCOIN": 321053,
+      "DOGECOIN": 0.54824,
+      "ETHEREUM": 10654.93,
+      "LITECOIN": 308.75,
+      "RIPPLE": 8.11
+    },
+    "indices": {
+      "^WIG20": 2944.68,
+      "^WIG30": 3790.27,
+      "^WIG": 3790.27,
+      "^NCINDEX": 261.29
+    },
+    "news": [
+      {
+        "title": "Trump negocjuje, Zełenski alarmuje, Putin atakuje. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXJTSVZPSXgySko4NFVQSlF3eHdkSUctNXlrQV9ya3E4LW1nV1NiVGdJMGItbE13LTYwRkNSRFB0al9zSWkxZGsweUlqdl9fb09XTFI5NHJFTEVuZ1c3MTh5QWMydHNmNklPSHE0Nmc1OXNlYWNTbE5tREJQaTdFa0V3MkVsQnNBeTdzYzZNZkdrSmpwYkZNUWM2cDQ4MVRTS1liNWZtaE15OU95S1hFVlR4ZDZVMG9tQXhLUmtkQjlkMjBhWXM0?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki z rekordowym wynikiem, nowa twarz w czołówce. Świeży ranking zaufania - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajViNzN4YnlUNkRhbHRjWlA2bmNYcVNFYVRXNEhZZnV3cDJocE9GY0piaWxUdVY5cHhPSHN4VGJNS1p3QllkbHhMTlV2dUFodlRtQVlyM3d5cGEzQzZQcFBiYms2QjI2eVN2MUJSN0Nsc3o0VklJLXNkeUF5YzFZVjlOaTZITTdZYzhzbGhFaGdSbDIyZjAwNWhhMy1pX01IWkNtdk0tclJlNEs0aWRNSXdTRnZGSU40VEpQVmF0X0tPUQ?oc=5"
+      },
+      {
+        "title": "Rumunia poderwała myśliwce. Nad krajem pojawiły się drony - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWZ1d2Rob0Q1WnNrZ01OX2Y5ZTQyakhpMDkyNndjbDZEdld4TDdYb1FVQUxRM0RRdVRROW5mUlBnTHlhNnFiT29HQlNWVm9ORkJvQkE1QmR6QXEzZWkxX1JDbm1hVGJUcGp0RGZ6d3dPSUdMemppdjlxV01jNk9uTHBaYlRlUGd3OGVDMVo3dlBSNkZLcmpLUGJSYnJodVZQSno3Ti1oYUVCeS1PWktUUy1UT0lINWxZd0lV?oc=5"
+      },
+      {
+        "title": "Zmasowany nocny atak rakietowy na Ukrainę. Są ofiary - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHRqdEdPUkNMX293bFExaTFSOXg5Nmt2UW5TU2JpV0pfLXBrUzBZT0JnS3ZCdVItNjRQWE44cGxIMm1OY2JncFd6QlhYV2NKa0RvNk1tZHNncG9oVFlqcU90SHhrVUxpdmdFQURha0JPU1ZHUU5kdXFNVm9fMHlxZ3FpbGRpdlVIQVJYZk9jRjJNT0lfLVI1ZDUxOC1SeTQ5?oc=5"
+      },
+      {
+        "title": "Afera z żoną ważnego urzędnika. Ojciec wykorzystywanego chłopca przerywa milczenie - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUo0R0NCVnNBVGRsbVhyZW15eS1tSHZmOE5qZXpuVXhtU1QyclFxd0lRMVVKeHpHTXY2Vk1ieFM4UnowRjBNdUZzdlJGWEVGWEppUEtPNzBhUlpTMW1BS2lhZ19IRFhEbnZMc2lXSDZXTHpUN0xOazk4Rlp2cTk4NmFGYUF0VUNKWm1oRjFJOTVqVGtRQzc1NTdlSmg1aHZfeXBDMUx0S2NjU2pHVkY2M3A2WGoyZlpyT2ZoNEdCdTVuZw?oc=5"
       }
     ]
   }
