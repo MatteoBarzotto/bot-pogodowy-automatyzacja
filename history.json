@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 21:15:25",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 321656,
-      "DOGECOIN": 0.539819,
-      "ETHEREUM": 10405.78,
-      "LITECOIN": 308.4,
-      "RIPPLE": 7.63
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Rozmowy Ukrainy z USA zakończone. Rubio zapowiada pracę nad zmianami w planie pokojowym - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1AxWks5bFFyY3k1VmJBRzFkQVFHbUJFR1JuTmFRanB1aDVfbnR5OVkwNjBZczROTUJ1SHVqU0lCbmNQT3c0ZHFONk5NbVBIWXJrUWVxSHFMOC1KM0FCNGJtMk1oRWRlQ2JqZVhONHVNU0Z3LUQ1dm5Jb3JGMGQwazF3ZXBMM0FHZ3l2ODJPNEpXM2k1d0VhOQ?oc=5"
-      },
-      {
-        "title": "Kłamliwy wpis Instytutu Jad Waszem. Były ambasador Polski reaguje. \"To skandal\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXFNVFBOWmxuc1VsM202LWhSTkVES3FTb09WOE5oRHRCZkpDbEpNT1oyR0tzRmZoV3dvLUQtbkJMMXBFaDhzT1NRUEdkTTQySzFYTzIxaVZ0aWNObWo1QjN6MVJPRElhNFpBTE50UGJ4MEFNWm51N01iWlJnVEJxQlFKM0l0X2ZPUnl5cHdjclhWc3hFb2daTUhYeU9kN3lkUFE3UC1YNE83Zw?oc=5"
-      },
-      {
-        "title": "Alarm w Wilnie. Władze zamknęły lotnisko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGhSZmhpdzNpU3hKRlhDTXgtWmgtMTNSUEdBYjJveF9MVmx2ZkllR00ydzZFU0F5RngtVTJxUFBKYTZVMWY3UE45SXhDbGFManZNbXkwS3IxM2hycXpzVmppYnhMTjBEVzVtaGdUTzEyelF3M2F5Z3ptM3c4UTVxRkQwNDNZUTg?oc=5"
-      },
-      {
-        "title": "Polityczne skutki zachowania Grzegorza Brauna. Chrabota: „To profanacja Auschwitz” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3l5cTd3TXNja01tQ2ZhNUJwQ1g1QjFpTHhmeVNFYlREOHlGZ2lCS1hnX2tKekk3MVlCVFRPajd2blhPeW8tcXk0SWdiX3JYYmtmcEhudlBJU3lWcXZYdWx1dnA0dGpaZ2pVY0c1QVhPQ3JNT0Y3d0JPM0NIRnY1UlBDU3I5RlJDM0pZNjRDZFB0SC1GMEpyVjZHazRQRlRiN2xIeg?oc=5"
-      },
-      {
-        "title": "Na południu Polski zima znów uderzy. IMGW ostrzega przed mrozem i zawiejami śnieżnymi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONFFrenBrRTVUVElFcnlnWHlkWTdFWTlCZXJndG1ZZVRtS0xTRVY0cER5X0JmeXE4bUZDZWpxSlNaWW4ycXdaOG8wTzJqVjB2TUloMnFzWVYzTXk0dDNkdllta2g3cHVubnN4LUNhRDB4WUxtUl9yRlFjZkhOcWdjLThGakVCS21NUVBQX042ZnN0VHk5c29ZNFFzMzVOcVZNbHRoa1g0Ui13TGdqVFlGZWpmZGk5OTBHT1dFLV83cG10MGpwa0pJamhucw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-23 22:12:21",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2636,6 +2583,59 @@
       {
         "title": "Pięć powodów, dlaczego Polska nie bierze udziału w rozmowach o zakończeniu wojny - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWmhQQXlnRnhNODVjeC1EOWd0TGZqNGMtb29ES05GR3VWZmJ0d3AzMzFNVkVQSlp5clpzMlRGSEtZRktwODV0QTRsMG81UWlfT2VuNHV5NzR4Mlpjc3A5bXRpeGVmRnhFYWdRbTF5Rm9oTEQ4ZVVRdjJNS3VGc0h0SjdpSEoxWkxIczhRSENndDFUbWlPUGkzU1hBYlBPOUVOZ0hLNDEwOVBSZVpXREI0azNxMTBaU1hZbmxHM2ZKU0dGY3U2RkwyWExSNC1nOXpLcERnbEE2SGRhUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-26 05:20:19",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6675,
+      "EUR": 4.2301,
+      "GBP": 4.8171,
+      "CHF": 4.5307,
+      "JPY": 0.023465,
+      "AUD": 2.3687,
+      "CAD": 2.5984,
+      "CNY": 0.5175
+    },
+    "crypto": {
+      "BITCOIN": 316737,
+      "DOGECOIN": 0.547243,
+      "ETHEREUM": 10660.07,
+      "LITECOIN": 307.9,
+      "RIPPLE": 7.92
+    },
+    "indices": {
+      "^WIG20": 2966.9,
+      "^WIG30": 3812.58,
+      "^WIG": 3812.58,
+      "^NCINDEX": 260.35
+    },
+    "news": [
+      {
+        "title": "Plan Trumpa obnaża słaboćć Nawrockiego. Czy prezydent sam zastawia na siebie pułapkę? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2dlYnlXVlp4TFg0OFhkUFpNOWRnOE5KVUZpV2FUWmo1WE9MUnF4WkpPMjBrNDZQeVgzQ3NSbnAwcFRtb0U0bVpFSWp0U3lzSG9ZUzdPeXFNTlptX1pLLTlmaWxsQXhFdzBibUdvVUQ3MmRCZEJqeU9tSTE5cHA2cXFSdW5DLUZHdUVudjl5b0ZSQXhkTjJtVFlzSTFYMzZPS3RJQ054NFlYQ0YzOTVFRDhB?oc=5"
+      },
+      {
+        "title": "Cyklon Wolfgang pędzi do Polski. Śnieg w środę zasypie kilka województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3cwbENiUHRXdHRJemZ2Q2RXa3BGSmNVMVI4SE41N0JjRS1qT1kwS1UzdENFRGpZWHFqQjZZdm8xako2cS1BbmVqMndBdk1vX004d3JkQkg1cnM2M203MlRwZ25uVk43dFIwQ1d4bEJTVVYtdVY2aTRHRzdlODUwc1VrMUpFTGk2d0pCdmQ3eHVOS092TlFkemZhc29VRm1lZ3pOVVprbU5IY09iNnI5NFh2N2JrckI5THNGTTQwZF9FSUhXRDBpQjFR?oc=5"
+      },
+      {
+        "title": "Trump stawia warunek Putinowi i Zełenskiemu. \"Mam nadzieję\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTE5QU2pMaVg5aWpnWkI5QldpVUpKQm9VS0Y5RHZaRGM2OE9Ga0tXa2NwTWNvQWZqWW5NVFZISXl3VVd2cnZpM2RfMmJoc05WUjlMcUQzU250aGNJVEt5UFJmeGZFazdnVFo5cUpFU2ViYVZCX0thNHQ3RHpTdlZCa0lORVNWQmNMcHpnQk1HQkI2RHpqbGFsSWU0N3BYLVZvYVd4Y1VYUExRby1Na0VreGJ2VjE?oc=5"
+      },
+      {
+        "title": "Pięć powodów, dlaczego Polska nie bierze udziału w rozmowach o zakończeniu wojny - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXFicVdmbEl3NVZSd0R5TzRRRk82M2p1VlkzU3V1SGJHOFBzVk5jZTMxY2FIaUN4bUZncmlZOXBkUUNrb3lCZ2RqVnNBUl9xakJGU1hSam1oVUFyOUVvbElBMnE2UkFJdGN2VEJlSmwwaldoTmZBZGVDZ3YybXBtaHgzT0M4VS1vRGt2anhhYkpLSm5wTEJzTERyUGg1bFc3djFuV3g2d3ZJYXNJVTdkY1dFbndUWTVPcWZWcg?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki powołał swojego przedstawiciela w KRS - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajkxMzZ2U2dtcTM3NTAwVkw0WF94VTY0cjUzQ2J6S0t5bF9qU1F4QjBHWTFMNU1jbnVZU1Y2NW9lRklkS1VYNkVTZXZGSVNvNDFENnBnSXRCTlZXdkpJYUhKTVRjX3NwX1ktVGFrQnhLR2VHS2R4N3hjWloxQkEyYVMydXJJZFY0MFVqY3JBQ28ycndqM1Zz?oc=5"
       }
     ]
   }
