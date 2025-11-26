@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 22:12:21",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 321310,
-      "DOGECOIN": 0.537326,
-      "ETHEREUM": 10380.22,
-      "LITECOIN": 307.53,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Główne rozmowy Ukrainy z USA zakończone. Rubio zapowiada pracę nad zmianami w planie pokojowym - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnJYcG9TWXdiYU9YbEo1N28tYUpEWEItZnVZMDgybnBSTTFLb01qWnd1azczZU5OYVJBRVhYeEVNSklyNXBrU3NDTjlaTnQyTG9pejh4MGtNeDJlYjFDcmJiZUtpekZiSEE3RnRrOEU2MTR3UVVkcVVxLVdFOGMzU2MwVkJIZzhYSnh1X0w2b1cyUUU3SHlTc1ZaSHFDZnBqekE?oc=5"
-      },
-      {
-        "title": "Śnieżyca uderzy jeszcze raz. Wiadomo gdzie dotrze pogodowy armagedon - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWhmQi0tVG9JdkdKOUw2ekNxS0VHZEhocDRLWVA2STRlWkp2eWxrV0FJbWFCSXlEekdNdS1VcmFuQ2RBeFJ0U0RQZk1jNy1uVENuVENhM2dVRHBCTFdXRGhCXy1VdTR3WTJJU25NdENBX2hibkRmX290TXFjVFRzMzJuQ1FrbU9GUXdPZThERW83TUdqXzE3VTZ2VTlxNTduVWdCZlV6U2lxQ3hvZ19r?oc=5"
-      },
-      {
-        "title": "Kłamliwy wpis Instytutu Jad Waszem. Były ambasador Polski reaguje. \"To skandal\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXFNVFBOWmxuc1VsM202LWhSTkVES3FTb09WOE5oRHRCZkpDbEpNT1oyR0tzRmZoV3dvLUQtbkJMMXBFaDhzT1NRUEdkTTQySzFYTzIxaVZ0aWNObWo1QjN6MVJPRElhNFpBTE50UGJ4MEFNWm51N01iWlJnVEJxQlFKM0l0X2ZPUnl5cHdjclhWc3hFb2daTUhYeU9kN3lkUFE3UC1YNE83Zw?oc=5"
-      },
-      {
-        "title": "Alarm w Wilnie. Władze zamknęły lotnisko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGhSZmhpdzNpU3hKRlhDTXgtWmgtMTNSUEdBYjJveF9MVmx2ZkllR00ydzZFU0F5RngtVTJxUFBKYTZVMWY3UE45SXhDbGFManZNbXkwS3IxM2hycXpzVmppYnhMTjBEVzVtaGdUTzEyelF3M2F5Z3ptM3c4UTVxRkQwNDNZUTg?oc=5"
-      },
-      {
-        "title": "Polityczne skutki zachowania Grzegorza Brauna. Chrabota: „To profanacja Auschwitz” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3l5cTd3TXNja01tQ2ZhNUJwQ1g1QjFpTHhmeVNFYlREOHlGZ2lCS1hnX2tKekk3MVlCVFRPajd2blhPeW8tcXk0SWdiX3JYYmtmcEhudlBJU3lWcXZYdWx1dnA0dGpaZ2pVY0c1QVhPQ3JNT0Y3d0JPM0NIRnY1UlBDU3I5RlJDM0pZNjRDZFB0SC1GMEpyVjZHazRQRlRiN2xIeg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-23 23:13:17",
     "weather": {
       "Warsaw": "Warsaw: -2°C",
@@ -2636,6 +2583,59 @@
       {
         "title": "Karol Nawrocki powołał swojego przedstawiciela w KRS - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajkxMzZ2U2dtcTM3NTAwVkw0WF94VTY0cjUzQ2J6S0t5bF9qU1F4QjBHWTFMNU1jbnVZU1Y2NW9lRklkS1VYNkVTZXZGSVNvNDFENnBnSXRCTlZXdkpJYUhKTVRjX3NwX1ktVGFrQnhLR2VHS2R4N3hjWloxQkEyYVMydXJJZFY0MFVqY3JBQ28ycndqM1Zz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-26 06:14:31",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.6675,
+      "EUR": 4.2301,
+      "GBP": 4.8171,
+      "CHF": 4.5307,
+      "JPY": 0.023465,
+      "AUD": 2.3687,
+      "CAD": 2.5984,
+      "CNY": 0.5175
+    },
+    "crypto": {
+      "BITCOIN": 318369,
+      "DOGECOIN": 0.548992,
+      "ETHEREUM": 10697.58,
+      "LITECOIN": 309.35,
+      "RIPPLE": 7.97
+    },
+    "indices": {
+      "^WIG20": 2966.9,
+      "^WIG30": 3812.58,
+      "^WIG": 3812.58,
+      "^NCINDEX": 260.35
+    },
+    "news": [
+      {
+        "title": "Plan pokojowy dla Ukrainy. Donald Trump zabrał głos. \"Wiecie, jaki jest mój deadline?\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmFHRENnYkRCSl9hQXk2QU56LS1aM3lGdkNhTFVTNFFXT1VpLTN2dUIzMl9Xc1Vfb21zR3dqSnZCQkw0dEJZX28tMWxmajBRTnZoendQOFRxV0dIYXhwRlNpVnc0aHRlZVJNY2RfSS1Cc2lRZHZ4MW1yOElrNjBOZU8wdmVBaXgwT3NITEVfTzVTQW1nU1JRLVJQRUlIN2FtMkNveElQV0tJUTByY3ZIbzR5UQ?oc=5"
+      },
+      {
+        "title": "Steve Witkoff radził Rosjanom, jak podejść Donalda Trumpa - Bloomberg - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTE2SEpQUUNIYkJ5bWh3SFQxTWt6Q005TUpRYUotOGlqR0RsS1RFU2lpeEtuSmV3anlUMzBLdGs1X3JMeHBTOWh0VzM1NW8tZE1hZ0Y0SjN1TUlQU2FHYjFDOWJjaVJHSE9Zem5CQjE4aTROVXFOeVJMNXEtd1hSYVhTQzVMSUJaaUpZWDVVODNOLTRaYkc3UmZ4T2hSQXM2bjBFMWJyZXBka1BRUk93dFRvR2I4ZjZFTWVCYWdOSTJrNDNlU3FlVQ?oc=5"
+      },
+      {
+        "title": "\"Towarzyszu Żurek\". Ostry wpis Zbigniewa Ziobry, nazwał ministra \"fujarą\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlVGR0dsYnlvNEtsWEtsZzZONzZRUklkY05HcDhUZmx2emRVSkN1X05YT3hhemJDd0NSaU5IZEJBUlBCYnJzOXlvR1I0SjFUc3lRVGlYTlktOUd1LWYxVUxSd1BMRGtUZUFWTWNnWENwalV0Q01Rck9EeDZCWjh4OVFpUVB3UVRZNEVLQTF5VDQxRWpkckZhYUZ0aGFWVVhteWRNWnBWU2RiWUc4bWRicWZQVW4wUnVlSUtrYUxsQQ?oc=5"
+      },
+      {
+        "title": "Cyklon Wolfgang pędzi do Polski. Śnieg w środę zasypie kilka województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3cwbENiUHRXdHRJemZ2Q2RXa3BGSmNVMVI4SE41N0JjRS1qT1kwS1UzdENFRGpZWHFqQjZZdm8xako2cS1BbmVqMndBdk1vX004d3JkQkg1cnM2M203MlRwZ25uVk43dFIwQ1d4bEJTVVYtdVY2aTRHRzdlODUwc1VrMUpFTGk2d0pCdmQ3eHVOS092TlFkemZhc29VRm1lZ3pOVVprbU5IY09iNnI5NFh2N2JrckI5THNGTTQwZF9FSUhXRDBpQjFR?oc=5"
+      },
+      {
+        "title": "Spotkanie Donalda Trumpa i Wołodymyra Zełenskiego. Prezydent USA stawia warunek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmFpQmtHTkpxTUdrQmpGVVVFQW9ZR1hwdlhydHhNM0VyVERaMUhZUDYyVUpoMld2Q3BCSXdXbDB0V1NVWjJfQ1JIYVE5RVVIbEZhbFFpZkhhZjJZZkJCekZiUXM5Ty12OEI3YmRQWjRoVDd1dnlhNGlORTJxeVhqYlBtS0xtcjRVRTJOWVd0X1JRSW9oSUU2VkthZVRILVVpWVhEYUt1LVVBOXFQMC12OUgwZTA0ZHg2a3hqZ25ESlVaUQ?oc=5"
       }
     ]
   }
