@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 23:13:17",
-    "weather": {
-      "Warsaw": "Warsaw: -2°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 322810,
-      "DOGECOIN": 0.539338,
-      "ETHEREUM": 10406.88,
-      "LITECOIN": 309.66,
-      "RIPPLE": 7.61
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Doradca Zełenskiego: trzy rzeczy zmuszą Putina do zakończenia wojny - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmJhWTI3Vmo3MEloR19Ud011eE5WcHp4X0tkVDY1eU1KTlhEWHNfUHFhTVpwOEcwX0xJenNmdmFCM2RrX01yTGY5TU84d0FheWE4S0V0WllVVjIwd0NsTkd6OTJGc0dNazFkbkNzdm9xWXdYRGV3YU9DOHdFMS1ELWNtdXBSaXNNT2RtdEJOenh3SG9JTkNPOWtDRkktTTZVWHdTNVdXdTNRNVJQWFZTelBXMno4QXFLQkFv?oc=5"
-      },
-      {
-        "title": "Kłamliwy wpis Instytutu Jad Waszem. Były ambasador Polski reaguje. \"To skandal\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXFNVFBOWmxuc1VsM202LWhSTkVES3FTb09WOE5oRHRCZkpDbEpNT1oyR0tzRmZoV3dvLUQtbkJMMXBFaDhzT1NRUEdkTTQySzFYTzIxaVZ0aWNObWo1QjN6MVJPRElhNFpBTE50UGJ4MEFNWm51N01iWlJnVEJxQlFKM0l0X2ZPUnl5cHdjclhWc3hFb2daTUhYeU9kN3lkUFE3UC1YNE83Zw?oc=5"
-      },
-      {
-        "title": "Wyszła z domu i ślad po niej zaginął. Policja apeluje ws. 47-letniej Joanny, przekazano rysopis - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdlU5RHFfaUhpVnNhbURZdS05ZU8yUlN4enNUWGlJNFVtRXZocmxzanN5RVVnTXdFV1F1VTliSVRaZDhxZ25Id1RRNHJSSURKblBFWGx0SGRUMEFNcmhveXgyeVVZd3VqRGJaTHFSOGNxa1Q5cncxWVZENDc3THNZR1BGenZ1TVB0Q0EzNjlfeURRcDZOaVlKVUViR3FhU1hlaXpuWXlKTW9xczI4emVtRHh6NmhFRXA5RmxWUw?oc=5"
-      },
-      {
-        "title": "Polityczne skutki zachowania Grzegorza Brauna. Chrabota: „To profanacja Auschwitz” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3l5cTd3TXNja01tQ2ZhNUJwQ1g1QjFpTHhmeVNFYlREOHlGZ2lCS1hnX2tKekk3MVlCVFRPajd2blhPeW8tcXk0SWdiX3JYYmtmcEhudlBJU3lWcXZYdWx1dnA0dGpaZ2pVY0c1QVhPQ3JNT0Y3d0JPM0NIRnY1UlBDU3I5RlJDM0pZNjRDZFB0SC1GMEpyVjZHazRQRlRiN2xIeg?oc=5"
-      },
-      {
-        "title": "Alarm w Wilnie. Władze zamknęły lotnisko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGhSZmhpdzNpU3hKRlhDTXgtWmgtMTNSUEdBYjJveF9MVmx2ZkllR00ydzZFU0F5RngtVTJxUFBKYTZVMWY3UE45SXhDbGFManZNbXkwS3IxM2hycXpzVmppYnhMTjBEVzVtaGdUTzEyelF3M2F5Z3ptM3c4UTVxRkQwNDNZUTg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-24 00:12:53",
     "weather": {
       "Warsaw": "Warsaw: -2°C",
@@ -2636,6 +2583,59 @@
       {
         "title": "Spotkanie Donalda Trumpa i Wołodymyra Zełenskiego. Prezydent USA stawia warunek - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmFpQmtHTkpxTUdrQmpGVVVFQW9ZR1hwdlhydHhNM0VyVERaMUhZUDYyVUpoMld2Q3BCSXdXbDB0V1NVWjJfQ1JIYVE5RVVIbEZhbFFpZkhhZjJZZkJCekZiUXM5Ty12OEI3YmRQWjRoVDd1dnlhNGlORTJxeVhqYlBtS0xtcjRVRTJOWVd0X1JRSW9oSUU2VkthZVRILVVpWVhEYUt1LVVBOXFQMC12OUgwZTA0ZHg2a3hqZ25ESlVaUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-26 07:22:30",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6675,
+      "EUR": 4.2301,
+      "GBP": 4.8171,
+      "CHF": 4.5307,
+      "JPY": 0.023465,
+      "AUD": 2.3687,
+      "CAD": 2.5984,
+      "CNY": 0.5175
+    },
+    "crypto": {
+      "BITCOIN": 318708,
+      "DOGECOIN": 0.550544,
+      "ETHEREUM": 10693.52,
+      "LITECOIN": 309.35,
+      "RIPPLE": 7.97
+    },
+    "indices": {
+      "^WIG20": 2966.9,
+      "^WIG30": 3812.58,
+      "^WIG": 3812.58,
+      "^NCINDEX": 260.35
+    },
+    "news": [
+      {
+        "title": "Donald Trump rezygnuje z deadline'u dla Ukrainy. Sensacyjne ustalenia Bloomberga. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3czNWpzUS1yVEtZWUV2QzJnOGxMV0ZUYlhQYWhZQV9NWHlycTZWc3Z6SG9EdEktUVE2S3h6VVhlUDU3TGQwSi1VVERlSkdwcU9KX0tZakp1bmJRdUdrZ0pTSzlQeDNXcmJpa0hheC1uT0RWdXZfX1pjUmFsZFZUTFgyN0VZZXFBcEJVeUV3VGczbFdjNEVMRTVHMVZsOGJheDFtemFLSUM?oc=5"
+      },
+      {
+        "title": "Śnieg sparaliżuje dziś część Polski. Nadciąga potężne załamanie pogody [MAPY] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTBvVVFlcFlNZ3NyYTc1elpQN3FzN19qZUFWVWdmYm9pa0pjZmNfUkFwVjUzTUhzSGZadG0xakpZV3p2TG9xMEpfak05YU1OVUktWUpyWDV2UDBySWdIU2UtWE9PWklQdXhwdS15T013b0JIX29pQzZ2UVk0bG1xLXJRYUYwelN1STJKZTdrMGsxdlJLMVI1LUxOWlBZRy1WUTYzS1ZXSWpobWwyZHlDV0l1V1BYNjR0ck0zRV9QU1lLTE1yNE1OZTJNOWdKcDNEdGZ4RlZB?oc=5"
+      },
+      {
+        "title": "Wyrok TSUE o małżeństwach jednopłciowych. Co to oznacza dla Polaków? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVdsNlRNUm9VbHdKdnZ3UnVLNDhFSk91b0wzdFdMX0pUMVNNTmt2X0l0dGowME1JUl9WQjcxck1GQmlSSVlFZHlfWE5nNXZWYUxwcG5FYnBwTlB1UklXNWFQRGthb29TQmNTQzh3VHJUTmJEWllkOE9tMnoyczAwMXVIWmRuSkFlaUZXa1V3UWpWelRBVlFtWjNnVTFFekNzV0VUcFZGUnJ4RURhYW5mY2RodmdLZVh0?oc=5"
+      },
+      {
+        "title": "Polska podzielona niemal na pół. Jest najnowszy sondaż - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1g5bDI5RmRwQ0FzRm9kZmdXbldmNFFjZWtFVXpaMng4RUZ3MlNoYkZPbllWcTBaNnRRSXVNRVVLTDBuVzFsc2NZc0wtdmlJNk42czJMNndxTVJ3ZjE0NE9JZ1g2OWhvRXBUaGJ4cEZKVXpJdlBaeHRYWlRQVjV1cE1Ib05SUVBud1hQTFUxbm00OXd6WEcyd2JwUUpnMXo4ZXE1SlJsYVBhUWdZLXdtdHRGOEpBdw?oc=5"
+      },
+      {
+        "title": "Nagły zwrot ws. Mercosuru. Wniosek wycofany. Polscy politycy: nasz sukces - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbi1zWm1TT2xfZnRtbURpckYwWG5WMWlnNGNRaThQX24zRmJlUW9TZVRHbmdhZzhQTGh0M2xUeGFrTkVRcVlYRTBUeUVvakRrNVZuSGlRLXRrSGdtM0pERVVQSm5uREZ5V20tenBZMTJLaGZpUElXekV5T3VIQldNQzc5UC1nUDY5cE9IZmVfd2RJUHdvN1F1Q3BKbVhVSlRYSFMwbUxVcG9DU244MlhUSXFXN3FPZ19pbUVSNVBMTm1KQQ?oc=5"
       }
     ]
   }
