@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 19:18:56",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 320121,
-      "DOGECOIN": 0.536188,
-      "ETHEREUM": 10322.77,
-      "LITECOIN": 306.86,
-      "RIPPLE": 7.55
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Rozmowy Ukrainy z USA zakończone. Rubio zapowiada pracę nad zmianami w planie pokojowym - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1AxWks5bFFyY3k1VmJBRzFkQVFHbUJFR1JuTmFRanB1aDVfbnR5OVkwNjBZczROTUJ1SHVqU0lCbmNQT3c0ZHFONk5NbVBIWXJrUWVxSHFMOC1KM0FCNGJtMk1oRWRlQ2JqZVhONHVNU0Z3LUQ1dm5Jb3JGMGQwazF3ZXBMM0FHZ3l2ODJPNEpXM2k1d0VhOQ?oc=5"
-      },
-      {
-        "title": "Donald Trump atakuje Ukrainę. \"Nie wyrazili wdzięczności\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUhOWEFPa0lwbU0zenEzT0Q3UDZHN3h5ZkFUeWlXYnVUdENTd2pxVldtTzhUMmVaSHBFbjZaTGt4TFZyb0NrUmV2Q3lkR3VFSjVUU1BOd1JOaHF4V2dDS056cDdveDV4N0o4dnBKcUEtT3g5ejJmYlcxUVdWOGpBQTZCcVU2SlR5Nnp0anJFOS1vZ2FyWHd5d2c0QTZyQVNia096dFRVVlZVZW00?oc=5"
-      },
-      {
-        "title": "Akcja służb w Koszalinie. Na torach leżał podejrzany przedmiot - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVFFRGhKU0gxa0htbzFpeVE2WlhzWDhWOGtUbVRKSEFBQWNpd0QwYmtFTVVQeFpzNk9MNWhaZ2N6b0N3LWFEYlA5RENJbFVWY2IyLVg5V0ZjUGFlZ1hROVJrSk53OXNlb0dndG55d0RzYmxSaTh1ZE1LWU1qTVVlYTBUZl9zeW8zWHFhUjNsbndESzN2SVZNVWUzYzZ5YzJ6cFpuUHhqY3lhVFVpeUF0b3hkQU5sMHAzdlE?oc=5"
-      },
-      {
-        "title": "Polityczne skutki zachowania Grzegorza Brauna. Chrabota: „To profanacja Auschwitz” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3l5cTd3TXNja01tQ2ZhNUJwQ1g1QjFpTHhmeVNFYlREOHlGZ2lCS1hnX2tKekk3MVlCVFRPajd2blhPeW8tcXk0SWdiX3JYYmtmcEhudlBJU3lWcXZYdWx1dnA0dGpaZ2pVY0c1QVhPQ3JNT0Y3d0JPM0NIRnY1UlBDU3I5RlJDM0pZNjRDZFB0SC1GMEpyVjZHazRQRlRiN2xIeg?oc=5"
-      },
-      {
-        "title": "Na południu Polski zima znów uderzy. IMGW ostrzega przed mrozem i zawiejami śnieżnymi - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3Q2NjlTVE5mRzdIS05BNW5JOU41QkNhSG5kd2ZrWlVrTUttZ1NmS3Fsam43ZWVPZjRCalJMeHV0d1huU3g1eHpuSjN5R2U3ZE02dmg3eDdiMEJ2TFZacEpDeXppMXh5U1JkZnZfLW1ZYzRQMmdDOW5MS0tMOWFIUktmSE8xUVdRWFpQaVh2NHcyMlVjd3Z4Y2ZyeTlJNEQwT0h6YlZXZEVvTlJzS240?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-23 20:10:54",
     "weather": {
       "Warsaw": "brak danych",
@@ -2635,6 +2582,59 @@
       {
         "title": "Pięć powodów, dlaczego Polska nie bierze udziału w rozmowach o zakończeniu wojny - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXFicVdmbEl3NVZSd0R5TzRRRk82M2p1VlkzU3V1SGJHOFBzVk5jZTMxY2FIaUN4bUZncmlZOXBkUUNrb3lCZ2RqVnNBUl9xakJGU1hSam1oVUFyOUVvbElBMnE2UkFJdGN2VEJlSmwwaldoTmZBZGVDZ3YybXBtaHgzT0M4VS1vRGt2anhhYkpLSm5wTEJzTERyUGg1bFc3djFuV3g2d3ZJYXNJVTdkY1dFbndUWTVPcWZWcg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-26 02:08:13",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6675,
+      "EUR": 4.2301,
+      "GBP": 4.8171,
+      "CHF": 4.5307,
+      "JPY": 0.023465,
+      "AUD": 2.3687,
+      "CAD": 2.5984,
+      "CNY": 0.5175
+    },
+    "crypto": {
+      "BITCOIN": 318953,
+      "DOGECOIN": 0.556598,
+      "ETHEREUM": 10769.91,
+      "LITECOIN": 311.41,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2966.9,
+      "^WIG30": 3812.58,
+      "^WIG": 3812.58,
+      "^NCINDEX": 260.35
+    },
+    "news": [
+      {
+        "title": "Plan Trumpa obnaża słaboćć Nawrockiego. Czy prezydent sam zastawia na siebie pułapkę? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2dlYnlXVlp4TFg0OFhkUFpNOWRnOE5KVUZpV2FUWmo1WE9MUnF4WkpPMjBrNDZQeVgzQ3NSbnAwcFRtb0U0bVpFSWp0U3lzSG9ZUzdPeXFNTlptX1pLLTlmaWxsQXhFdzBibUdvVUQ3MmRCZEJqeU9tSTE5cHA2cXFSdW5DLUZHdUVudjl5b0ZSQXhkTjJtVFlzSTFYMzZPS3RJQ054NFlYQ0YzOTVFRDhB?oc=5"
+      },
+      {
+        "title": "Spotkanie Donalda Trumpa i Wołodymyra Zełenskiego. Prezydent USA stawia warunek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmFpQmtHTkpxTUdrQmpGVVVFQW9ZR1hwdlhydHhNM0VyVERaMUhZUDYyVUpoMld2Q3BCSXdXbDB0V1NVWjJfQ1JIYVE5RVVIbEZhbFFpZkhhZjJZZkJCekZiUXM5Ty12OEI3YmRQWjRoVDd1dnlhNGlORTJxeVhqYlBtS0xtcjRVRTJOWVd0X1JRSW9oSUU2VkthZVRILVVpWVhEYUt1LVVBOXFQMC12OUgwZTA0ZHg2a3hqZ25ESlVaUQ?oc=5"
+      },
+      {
+        "title": "Wyrok TSUE o małżeństwach jednopłciowych. Co to oznacza dla Polaków? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVdsNlRNUm9VbHdKdnZ3UnVLNDhFSk91b0wzdFdMX0pUMVNNTmt2X0l0dGowME1JUl9WQjcxck1GQmlSSVlFZHlfWE5nNXZWYUxwcG5FYnBwTlB1UklXNWFQRGthb29TQmNTQzh3VHJUTmJEWllkOE9tMnoyczAwMXVIWmRuSkFlaUZXa1V3UWpWelRBVlFtWjNnVTFFekNzV0VUcFZGUnJ4RURhYW5mY2RodmdLZVh0?oc=5"
+      },
+      {
+        "title": "Wiceszef MON zapewnia w sprawie planu pokojowego. \"Polska nie będzie ofiarą\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3kyZzQ0RXYxdHpDdVczaHQ0QU91aHZSY012aVg5RlQtX0lZdThGeXBNMHNnaVZiM2hxTldMcjdBeDFwblFhLURaakVMX050QkRLRzhkaVpLSU9TTzJDeWlKLTdld2I3NzdQZFhUWUFtVzJ1UXpGa2tQNVQxYm44V2NfQUpjVVBYMG9VNEtRZ295ZkNlQ2lwZTJKQU0zRjZSRXB1cURxN1FVNTZKOUZuT1JNSnU2QUMybDRmUFVvQUFtM3hJeEtwZWVWMA?oc=5"
+      },
+      {
+        "title": "Cyklon Wolfgang pędzi do Polski. Śnieg w środę zasypie kilka województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3cwbENiUHRXdHRJemZ2Q2RXa3BGSmNVMVI4SE41N0JjRS1qT1kwS1UzdENFRGpZWHFqQjZZdm8xako2cS1BbmVqMndBdk1vX004d3JkQkg1cnM2M203MlRwZ25uVk43dFIwQ1d4bEJTVVYtdVY2aTRHRzdlODUwc1VrMUpFTGk2d0pCdmQ3eHVOS092TlFkemZhc29VRm1lZ3pOVVprbU5IY09iNnI5NFh2N2JrckI5THNGTTQwZF9FSUhXRDBpQjFR?oc=5"
       }
     ]
   }
