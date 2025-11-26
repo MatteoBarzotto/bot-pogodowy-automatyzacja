@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-24 10:18:38",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6868,
-      "EUR": 4.2489,
-      "GBP": 4.8154,
-      "CHF": 4.5768,
-      "JPY": 0.023516,
-      "AUD": 2.3728,
-      "CAD": 2.6162,
-      "CNY": 0.5185
-    },
-    "crypto": {
-      "BITCOIN": 316864,
-      "DOGECOIN": 0.534539,
-      "ETHEREUM": 10304.0,
-      "LITECOIN": 307.41,
-      "RIPPLE": 7.57
-    },
-    "indices": {
-      "^WIG20": 2921.08,
-      "^WIG30": 3760.97,
-      "^WIG": 3760.97,
-      "^NCINDEX": 258.74
-    },
-    "news": [
-      {
-        "title": "Tragiczny wypadek na S8. Nie żyją cztery osoby - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTFpVzBtbGVacnVxZ3lrSjZNc1ZaNVVNNnllSjhJNlozNDNDeW9Bbk9uajZXdDFvZm4zeVB5c3c2RlFkd3BJOURWQVlPNzUzQlAxU1FPV3AzTW54RF94bXpGTUszOVVXTWJpSlBqRXp3TkRZQnVMRjhoRlg4bGZmdTk2X0hMNXRkNFZhbThR?oc=5"
-      },
-      {
-        "title": "USA i Ukraina zmodyfikowały plan Donalda Trumpa. I nadal o nim rozmawiają - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnJxUGpiVVIwQUNjZUtuLU1CeGNuTjFhOFM5OU8tb191UldhT09ySHZqdjhnX2s4NjVuZGh4SF9LbzFZcllzNGdoV0FqVmRZZmlNVHBuOHNaZHZWS3hTWVppUWE3TUdWWU04MUxCSnQ0SmNxWHU4dE9YQ3FTeG13dUcyblZHNFlaeWxnb0Y0NE5ibVpCUVM0WFlvT3RaYUhhSXgxeVByejdJUFc4SGsxN1JXVFVvdw?oc=5"
-      },
-      {
-        "title": "Tak Polacy oceniają rozliczenia rządów PiS przez Żurka - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG9GbnJiNkJndml2akFYOVZBV1VfaEdkRmwza1lPTV9fZ2VnczdyelBiT3otd0c3MFRkSkFyS2hFN2dtY244MzBRZnJEVzZuTENXTU5RWU5Ra1FOaFl0SEgxbm9jNUpNdlhVWnV3Y1cwX09qNDU3SzFGVnpVUG00b2hINF8zcXdOYVozS0w3RzlKc3U0Q2psM2pCNkVsUQ?oc=5"
-      },
-      {
-        "title": "PiS i \"pierwszy potencjalny koalicjant\". Marcin Mastalerek zdradza szczegóły - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTJNTERlNEEtU3lid245alp5YlFmc05FdWpWMnBFYzdBb3dEb3AxUDNXdVcwSFZpN0d5dnU2MDFSZGVERWlUeUtocTlmQ3ZrYlUtdDdPNEdmQXFhUFJBQVRUVU5jZlh2a2Q4SzVnbE5jcjljSVhWVlBNQ0MzQ1psMENCLXZkenYxcEJ6blI5Q0JOMW94cGFrUWVqcC10NEVReDV1Ui0yOGYwcElHbjhIaWdjdw?oc=5"
-      },
-      {
-        "title": "Miller o Nawrockim. Zaskakująca deklaracja na kolejne wybory - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbDRQeE9vTW1aTFUyR05LV09KV3RHNU51X1ZLNzNPdGN4ZDZvQ0dmSmp3YUFPZms3d29aQjRxVWFZSXB6TXFESE0xWFI3LTFDa0Z6NGpoUUZqZ3VFUnJmUlhEbXlFdkR6RVV5UWFVLVpDZ2lENEp4S25CMlpuTXdkajFNN0UtcDVsZE9rRW04ZG5LU3AxV2poa0xNMVlndkluVnYydg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-24 11:16:56",
     "weather": {
       "Warsaw": "Warsaw: -2°C",
@@ -2637,6 +2584,59 @@
       {
         "title": "Ujawnione e-maile ws. Funduszu Sprawiedliwości. Posłanka PiS naciskała na urzędników - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmRVMVduVzZUbDZYeVFlaWc4RzJtWmhpOG14OEtERkNyQlN5emNLTmtmcmdYdG1wMzJfekMyUWhmdnNkMjVraWdfRkVSaWhJa0F4eUNIQTNITXBUMm9SbEVkVVBfY0x5ZXlGM3hLdVF2eksxc0l3QTdGZFRFWTROem1wZHRzLUo5NXg0T2N4SF8zLXk1WWpDT1M5Q3FOaFloRDU1VWNlYmVDUkxPcVduc0kzY2hwZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-26 16:13:52",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6578,
+      "EUR": 4.233,
+      "GBP": 4.819,
+      "CHF": 4.535,
+      "JPY": 0.023381,
+      "AUD": 2.3774,
+      "CAD": 2.5976,
+      "CNY": 0.5167
+    },
+    "crypto": {
+      "BITCOIN": 318300,
+      "DOGECOIN": 0.55058,
+      "ETHEREUM": 10709.38,
+      "LITECOIN": 307.28,
+      "RIPPLE": 7.9
+    },
+    "indices": {
+      "^WIG20": 2989.14,
+      "^WIG30": 3839.7,
+      "^WIG": 3839.7,
+      "^NCINDEX": 259.2
+    },
+    "news": [
+      {
+        "title": "Polska kupuje okręty podwodne. Szef MON wskazał zwycięską ofertę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazJtZGRkV0lucXROR2JLSFNYV1J1SE8xUlVsR3IzTXJNelo4TGE0R1BPa1Y3WW5iR1kxQjA0TV80ZTlNcXdtVFc4aTdwdVVBWURVVTB5Zk9DRDlEMzIwNnNxb3JqUDZsRXJVZWlsdFBjeC1FclhDT0NzTFJmTGkyNnctQi1HZnBoNlNRNTR0aUxMM0V4RzBicGtGd2xpV1BkMDNrNnNxNDZrbU9OUHh6UTZSX1FvMkFIU29qQkNsOEVNbFJf?oc=5"
+      },
+      {
+        "title": "Człowiek Putina o planie pokojowym USA dla Rosji i Ukrainy: wymaga poważnej oceny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNekhfWG10dWFBY3JOM0t3NmxOOTVITWhqNHoxZ2cwblpWaWsxemt6Vnd6d1JDajNRZkdmRVZ3aGhuUkwtUUttZ3paNUt2QXpDcmhKNVFOeXllRzlxZ1lKRkhlOU5vU09wZkZvU1pURVNIVHdtdHpwS1dNR0ZrWHN3Qi1EMHNIYUF2QmhUdm9sNFhFbFI1b21CNU1aV25JbjA5dUVsOEx4SG5TQ2FpOTJGWHJxeUFDRFdtWFVHQ3dJMHZZYzBoMEg4dGVB?oc=5"
+      },
+      {
+        "title": "\"To cios dla Łodzi\". Nie tylko Jędraszewskiego zasmuciła nominacja dla kard. Rysia - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSE5XcUhKd0sxcjNaQURLMFF1VWw5LUdPWkJlUlRWWjRRSUNCT29jaWducWY4bmhNcG8tMkpkZVYzbGYybFRLcjV3NDgxelVBRUNZUmlIOUlNYS1CMHZDQjNDYzB0cHF2YnFTbE5JMEVib0lWeFhlTEdzc0lBOF8xOTBaVEhsU01yUmlDc2pkVHdLZ2NYR1pTRWJiU0RLM1dpeHZqR2NGV0RrUQ?oc=5"
+      },
+      {
+        "title": "Litwa. Samolot LOT ześlizgnął się z pasa na lotnisku w Wilnie - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnpiM0NqUUoxenlycmdMNzVSY0xfdkxFSVNLUjJhQ3UwWXFPYnlMUlJsUzVtcy1aRmN0c0hPR3ZIT3gxS3dzbW0zQXRuUEhuOE9wWlNTcHJlX3BEbHhkQTR2VVAwY09aU3JjVmZMbWxtSWlYazhuY044bXJ4a09PWlpfRUVOdjVBYTlPSmdfZTNDWmVoYWNOMQ?oc=5"
+      },
+      {
+        "title": "Dramatyczny finał pościgu ulicami miasta. Kierowca wbił się w tramwaj - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1Fqc3JDeGM3YksxUVVacUJkQU5KWm9LcnU3bVJzSHZoblFjel9uNWtpb2RLVmlmTzVfQkpVWTNFa2NIa2Vack5kMkIzam5GQzFEYlFmenpXZWVQbHZnRkhtQnltMXFnQ1B3cTBBNnh0U0hETTNXbWtQeFZDQ2FYWTlhR2d1NUlzd1NnellrcjZNeE5NZUtkRTF6RV95R1VJQnBqSFdyZHZCQVNK?oc=5"
       }
     ]
   }
