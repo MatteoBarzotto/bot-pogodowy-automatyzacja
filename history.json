@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-25 16:16:57",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6675,
-      "EUR": 4.2301,
-      "GBP": 4.8171,
-      "CHF": 4.5307,
-      "JPY": 0.023465,
-      "AUD": 2.3687,
-      "CAD": 2.5984,
-      "CNY": 0.5175
-    },
-    "crypto": {
-      "BITCOIN": 316407,
-      "DOGECOIN": 0.537472,
-      "ETHEREUM": 10508.06,
-      "LITECOIN": 306.73,
-      "RIPPLE": 7.94
-    },
-    "indices": {
-      "^WIG20": 2951.18,
-      "^WIG30": 3793.62,
-      "^WIG": 3793.62,
-      "^NCINDEX": 258.33
-    },
-    "news": [
-      {
-        "title": "Wyrok ws. senatora KO. Chodzi o sprawę sprzed lat - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTRsTGIyLTZFN29Dc1RyNUlqNXpLR0t1Xzc3TzJDbElHcmNvSmVLS3BQSlZhN1p3clZqQW5CNXY5eEpRSFBOVHJqeXk1VjQyTnotUmw1aHVhUk12Y2FHNDFQQkpsMXM0UmdTRUN5RUdyRkphNXRGczcyRHJjY2VnMXl1cU5oNXZab185UkNGV1lmVkNTNFJLZ3NGZzBOYzVwS3liZA?oc=5"
-      },
-      {
-        "title": "Andrew Michta: taki plan pokojowy ośmieli Rosję do agresji [WYWIAD] - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjR2SzZZTkE4VVh4SDFiNjFmUVgtRHl1Tm4td0JXQjBQRjBweDlQejdIblVhRmVkTy1qRnhZMFZXSUZPdjNCdS16ZEtCVVFEYTZ1eFlKVXFrVXRvTXNXa0tTRHg0RVUtallRY1FIT0UxMXBhMmN6VC1PVmVWMERzVDZoWEljSTdFMlBMcHBkSHktTHcwOXJVeDFvaTJMZw?oc=5"
-      },
-      {
-        "title": "Zamieć śnieżna uwięziła kierowców na Podkarpaciu. Jest nagranie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDFCbUt4WUZ0TjU3ajc4Q3ZhVXc2Ul9rN3JwUzRTNXpfOTN5WU9pLUlLTnhsc1VjTUpnRWhmTG96cE5MQjdyTWIxQUhyM1JhSlZFZHNvM3F4ejVTMndETExJQkJ2cG8xUUlhWDZJZTNsRERabVE5YmRsZm1mWjNfOFFIOVg0cXJXV2lhcGFxYVNXWndWdDE2cUQ3MXNKclZwUEtuSGdDaGx6b2Z6bVI1N1RDMk5WbGNFTnkwVDN3bw?oc=5"
-      },
-      {
-        "title": "Zaufanie do polityków. Morawiecki wyprzedza Bosaka i Mentzena - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVROTHdtOWxTRlAtQk1oUFJ5RW55R1dYUnVOSEdfOTZZelFLWnMxMmtGWXhSMXI4ZlBYdWM3OGpXSGtpRVZMVEVuVHQwT2NteXFUSU5LU2ZESnpnV1AwbUtFdkE2clE1SEptR3VtMjlVU1l6OHFrZ2luQlJ0dUdreGNQYi1GaUVoempRajV5dUk0TVlxbEE2YTJjMzIxbEduSWZJ?oc=5"
-      },
-      {
-        "title": "\"Latające laboratorium\". Rosja ma tylko dwie takie maszyny. Celny atak Ukraińców - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmk1bkJPRFo1STRmZ2RaOUVPQ01mMjZtRlBMSE1yYzFtMVctbFgwSGp2M0dCampFNzR6SlhxZzZKYmdnaWs2UjQ3UjRPSW5hcHk0ZHM2YnZSWUYwVlRsYTBtMEp6Q3E2UGczSzNsejZ0MGFwMks3bGtOemwwSUhxbURRSFU2dlFnN0lzdm5DYXZfS0tvMFhOYjF3bVMweXNhZUlsVkdEc2FBeVNJRzVCeGJOdW1ZTE9TOF83VThuQnRIMkJ3MDhyZg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-25 17:19:33",
     "weather": {
       "Warsaw": "brak danych",
@@ -2643,6 +2590,59 @@
       {
         "title": "Władimir Putin wskazuje warunek zakończenia walk na Ukrainie. Chodzi o Donbas - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2I4Zld6NkduRVJtZUhJS0YyQ3JLeC04TF9CQmNmUGo1OHYzSVhGbFhVb0pXSDRHXzFwelVJTnNpUVNFMVY5QTBNZ1h2Y0g5YjJ1MWU2eWgyRTdLRU5lOXVrTklZQTRXcF9KUVg2NVBjV1FSNm1fSkNlMDdWdjhxR0NsbndTV0tTMkY0bjQxNzJucVJlbU51Y2Z0akdsSWk5dHJJemJXdVhJWjg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27 22:13:09",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.651,
+      "EUR": 4.227,
+      "GBP": 4.8242,
+      "CHF": 4.5318,
+      "JPY": 0.02335,
+      "AUD": 2.3818,
+      "CAD": 2.5994,
+      "CNY": 0.5155
+    },
+    "crypto": {
+      "BITCOIN": 333123,
+      "DOGECOIN": 0.562224,
+      "ETHEREUM": 11072.5,
+      "LITECOIN": 318.71,
+      "RIPPLE": 8.1
+    },
+    "indices": {
+      "^WIG20": 2992.78,
+      "^WIG30": 3848.78,
+      "^WIG": 3848.78,
+      "^NCINDEX": 261.65
+    },
+    "news": [
+      {
+        "title": "W wieku 56 lat zmarła Agnieszka Maciąg. Chorowała na nowotwór - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMktCLUxvUS1MUWNzUVF6djdBNXpBY1lvd3E4WDNKbFlsMXQ4NUtPWjNrQ2VSaWVKb21RWGlyWEdJblRvTzRmeXA0aTBfSUxQSlFRNGVNeVF5bzJacmFBeWZmS1dKS3NRTW5iUGlXdWxlWHRaRnN5OXJDRkg5Qk5zOG1meFBzMmprVXRRcGFrcTdoVEZCSnFxMy1aZG5XRTdxLWkzS1A0LTc1dDFqQXJJVVctMnFzYm5rbi1UT1NyYl8xbnM?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki zawetował dwie ustawy. Zwrócił się do Donalda Tuska - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1gwX2c2YVFhclZTUjZMcHFIbWN3LTNDZ1AyYkVUYVFqblE5YVF4MDhfVlZ3WlJGX2ZCOWJ6dnM3VkVIdTU3Z3pZY21JaGdUdEVGZndiNDVlZ2x3RlV0aHZPUFQ4RlYxTEItb2VnX0J6cHJtVnlOMGw3bkRMVTctVDZkc0xBdUkyb2U1MGlSSnFqYVozYmdqb1g5UXRycHpWS2lxNjhaNDk?oc=5"
+      },
+      {
+        "title": "34-latek zmarł po porwaniu. Nowe ustalenia o sprawcach i ofierze - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnI4SWZ3THRsNEp6empKVzRma1JnX3M3WG83cVZzajJaWk83Uy1oQXBDejhLc3BBWG1xZnJwY1lvODJJOG9WQnhtaElVMllnUmtiaktlNUYwNjB5allHM3owdll4WjFKaU90WEdYWWtETmc2elU1YkZJbW9nbGVCc3V4YktMUzZVekFUWDVSWjlkRGNsNWZiaW5JaFNkbTlsbDRKWGU4LWplUQ?oc=5"
+      },
+      {
+        "title": "\"Sabotaż wymierzony w bezpieczeństwo państwa\". Donald Tusk uderza w Karola Nawrockiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk5GbUtPd2pMZU40ek04YWo1QlNVYnRnY0N5dUtfOWZmb1ZZU0R6SVo0NFJUbDI1X1lfTzFJbmtJNlF3YmVSVTBoUkxaek13MktyY1ZKZktmLWQ0VkZ2R1IzV3NQRHk5TTU0Y2lIMU5PcHFkWUJ3aFVCNmtXVF9ybnN6aGZlc1hZQ2Vuc3ZmX09NbTAwUmFfcS1uMl9Ic1Y5dks4WkFMQ2RTb0pwbEJTcHJWUmpzbmZta00tSTFRMnJUSHd5ejFEeUgzUQ?oc=5"
+      },
+      {
+        "title": "Ideologiczna ślepota PiS-u. Tak przestrzelił w kwestii bezpieczeństwa Polski [OPINIA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFVOdFdYREtVc2xNeXdvVl8wemY5LU8wU2x1ZmhkNzhwMzNpSWdLV3dfQk81QWxLSGVGelRhYklqQU1SaWJJQWpXc002NHZ3VDU2ZkhYUjdyMmp4NW4zOUxBWERfcGZyVUg5czF1blo3ZW9yU2dYNGhSUUd3S0dPbFVseFl1bHNTMFRFckFKblBDYnNmT0gwQ0dZQkpuQkVuSVlqVGxHMVpReUs5ZXNxQzB4XzN5VUU?oc=5"
       }
     ]
   }
