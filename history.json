@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-26 13:30:55",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6578,
-      "EUR": 4.233,
-      "GBP": 4.819,
-      "CHF": 4.535,
-      "JPY": 0.023381,
-      "AUD": 2.3774,
-      "CAD": 2.5976,
-      "CNY": 0.5167
-    },
-    "crypto": {
-      "BITCOIN": 316089,
-      "DOGECOIN": 0.54508,
-      "ETHEREUM": 10598.78,
-      "LITECOIN": 306.22,
-      "RIPPLE": 7.87
-    },
-    "indices": {
-      "^WIG20": 2977.19,
-      "^WIG30": 3824.71,
-      "^WIG": 3824.71,
-      "^NCINDEX": 259.25
-    },
-    "news": [
-      {
-        "title": "Jest następca abp. Jędraszewskiego w Krakowie. Watykan ogłosił decyzję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWV9MYUFJZEpwWWlDNTVVSEtRcXZhV3NQTWstYkdtSWxnZURab2pIdTFXcG1RUDRoZjYwekhmZmRIalNsMWMzeGZkMndTbjIwNFpuZHhXQ1hNWjlCTi1TaDRSNG5naGJhbjVQc0RRU1JnSWpUdkVjOUZVU0loTHpvVDByZ2JCZkh1NzBoOXFfaldEaThONXlvT196OGp5MlJjbG1lTE1JZEhkeEN0V3lV?oc=5"
-      },
-      {
-        "title": "Plan Trumpa obnaża słaboćć Nawrockiego. Czy prezydent sam zastawia na siebie pułapkę? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2dlYnlXVlp4TFg0OFhkUFpNOWRnOE5KVUZpV2FUWmo1WE9MUnF4WkpPMjBrNDZQeVgzQ3NSbnAwcFRtb0U0bVpFSWp0U3lzSG9ZUzdPeXFNTlptX1pLLTlmaWxsQXhFdzBibUdvVUQ3MmRCZEJqeU9tSTE5cHA2cXFSdW5DLUZHdUVudjl5b0ZSQXhkTjJtVFlzSTFYMzZPS3RJQ054NFlYQ0YzOTVFRDhB?oc=5"
-      },
-      {
-        "title": "Dramatyczny finał pościgu ulicami miasta. Kierowca wbił się w tramwaj - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1Fqc3JDeGM3YksxUVVacUJkQU5KWm9LcnU3bVJzSHZoblFjel9uNWtpb2RLVmlmTzVfQkpVWTNFa2NIa2Vack5kMkIzam5GQzFEYlFmenpXZWVQbHZnRkhtQnltMXFnQ1B3cTBBNnh0U0hETTNXbWtQeFZDQ2FYWTlhR2d1NUlzd1NnellrcjZNeE5NZUtkRTF6RV95R1VJQnBqSFdyZHZCQVNK?oc=5"
-      },
-      {
-        "title": "Małżeństwa jednopłciowe w Polsce. Prawica w histerii, rząd chce wykonać wyrok TSUE - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEdTNzVvRGR3SkpmRWVXVmdSWkNFY1d3eFdWY0Zndm5ZamdCbnFLSnFnVGRkaUQzRXVCbEVERDBaQXJMMVN4SFdQQ3JiTlRuQmdESUxSVkxqT05obkpnWXBCa053b2JDeE5aamFLc0pZeVZ2NlpCX0U3cVZDSno3TlJtbV9aUk9US1FwSHFHaThKYi1OSk01cXZFYncxZWM?oc=5"
-      },
-      {
-        "title": "U212 NFS – zaawansowana propozycja Fincantieri dla programu Orka - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbld1TzJKSVFjT0llNmo2Z1U5M0xwNzdjYmh6bzZXNFZqUXhMdkVNX29WdXNpQmFJRGotbFBZOUhuWXg5REdJMExVRnJUMWxsMUs5T19JWWE0UzNTZ01oUVlORF8tSjJSLWZUbWRQb0taRDdnaXRyNDk1Y0tBcmxVSm52c2tpeFFjRy1DWldscHRiZjhLMEtR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-26 14:30:25",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Policja pokazała wizerunki dywersantów. Listy gończe opublikowane - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalpjQlo3bzk2VXZoNzNXM3pEQ002WEhQRnl3WWtGQ1lndFBCNWN0Ml8wZW5qV1d3dG5Od0p1WGpWREwwQU1UUmo5cElNVHRpc0FBSTlnZE9GeDdlRVZKLXpUdVBWTEZBQ0pON0h1am5DOU9GT0pQcF9IYVZ4STNYbV9hV1p0VXM1UUc2QnBMWklnM2FvOXZ6Q2ZQZ0lsb21ZeHdnMmx6aU5zMUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-28 19:20:22",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 331199,
+      "DOGECOIN": 0.545561,
+      "ETHEREUM": 11105.52,
+      "LITECOIN": 305.45,
+      "RIPPLE": 7.93
+    },
+    "indices": {
+      "^WIG20": 3001.96,
+      "^WIG30": 3862.43,
+      "^WIG": 3862.43,
+      "^NCINDEX": 259.98
+    },
+    "news": [
+      {
+        "title": "28 punktów Trumpa do kosza. Wojna skończy się tylko w jednej sytuacji [OPINIA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWJ0ZllUSXotQ0lMMHRVSHNqaDZpTE5oWmpxYk1yZk85T3Mtd2ZWR21SQnhNenllVFd1ZGYyeEprandqclY5Nk5WZFlXY3MyNko4eVBqSlVZbThXa1VYYVB6c0ZYb1lldVpLOG9GTmlMMk9IZkg5MGRRVjJDM1B4NVFYbTdnajA2bjUxczh0UmlVdHdlVlNrSzJGOGt5UzZnM3ctNEE2M0l0QVAtMFZ6d2ZR?oc=5"
+      },
+      {
+        "title": "Dymisja Jermaka wstrząśnie Ukrainą? \"Ta sprawa osłabia Zełenskiego\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0tXNW1sMzNYVTVmbENGdkxxZlBOVVZEM3Q2Y3UyMExqdnJNSU9ha0J1ZHo1b2FnOWRIdjhtT2E2ZFV2bVV4VzFyMkZZc0FyWHVmSnNLd2tHcXA5TVNsLWZWMXYyeG45UWhzWGtXQV84YW5oNk55ZW1ScGxiUmRqeG5KbVN3eXhLNTd0cDFsdWdGaTdpdkE?oc=5"
+      },
+      {
+        "title": "Pogrzeb milionerki i jej wnuka. Łzy same płynęły. Poruszające słowa córki: \"podbijajcie niebiosa\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkdfR0szYjg0TUtNdjltTXgtNU04Z2stWmxOSVZFZVdOeXhjSk5ENG5nbDlLa1JyaVdfdlhRY2EzTEZIM1NpU1FrNG5tQlNHbHRoTEI2aTVJN1hrVEtraUk4LUFsVlZEX0pVeVd3UEFvM0FCMU5TbGFKYUFxWDhTUDFVanhGUXp2OW5PUUl3Smo1QVdMMUFianRUNzlTaVpQQ0NiblNfZGx0UlZaeW4ybTNnWFdJVm9T?oc=5"
+      },
+      {
+        "title": "Tarcia na linii prezydent — rząd. Prof. Dudek: Karol Nawrocki jeszcze nie pokazał, do czego jest zdolny - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVU8ybmlZdFBQVi1sM2NDMVBqd2M4SHJIYldCWkVJM0hzMVBOZkhNeFRDRW1fb2NzWDhYSmN4UktROFZqQ0JVc2tVX3hIdHBNSFYtZVNYOWwzS3pMdk1CVjA4VGFIRC1vRk9KWHB0cUwwMGJ3UEc2TzBEZ3gtSk5BcDFLOXE5WEctZFZ4cFI1Qi1YLVpOVWJ4X0ZvdjNvQl9ta2hBZS1ab2VFckRsVUwzY3hGWXhhRmFmelNTOHBEc1FJSHBrUVV4Zk93?oc=5"
+      },
+      {
+        "title": "Orban u Putina. \"Dostawy energii z Rosji pozostaną podstawą\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGtLLUNaTVcwbU9CMGFOQlBfRHBXd0U1N0h1NTJCeGZYbVNSejNDTmxSR0lnREFKNWxlc3ZwZGZQZEtRckxBWnc1bHNwUjU1ZmNoSWFvOS05NkQ5TVZKb1E3eU5VdTFneHhDSjlIN0F2cS1TcUxNeTJJa0NBU0YyU0dsODlMNmpScF83cUdGRkhuMWdWRWJJSVR2R25vbHZjWFpHR3dnRFhCWUFPZ3d6aV9B?oc=5"
       }
     ]
   }
