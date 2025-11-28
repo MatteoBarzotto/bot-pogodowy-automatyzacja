@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2025-11-26 12:13:08",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6578,
-      "EUR": 4.233,
-      "GBP": 4.819,
-      "CHF": 4.535,
-      "JPY": 0.023381,
-      "AUD": 2.3774,
-      "CAD": 2.5976,
-      "CNY": 0.5167
-    },
-    "crypto": {
-      "BITCOIN": 317848,
-      "DOGECOIN": 0.549225,
-      "ETHEREUM": 10656.39,
-      "LITECOIN": 309.0,
-      "RIPPLE": 7.94
-    },
-    "indices": {
-      "^WIG": 3834.39,
-      "^NCINDEX": 259.74
-    },
-    "news": [
-      {
-        "title": "Hongkong: Wielki pożar wieżowców. Ludzie uwięzieni w mieszkaniach - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHVtSFdNY2xpSlVieGVzQ1c2S3Bva3JZdmRDVjJDZDhqWThNWEpPXy1IZ0NlUnhKYmlvX1h6U09EZ3VtY1pQUUp1QmhnVEJiX0xIQnNFbEV6TUU4bmpFTXFyYUpVREtwQmdDTDRkUW4xSzJONHUyZnMxcjV1NjZyUVh4d1NXQjg5S1VBdk1fZUFZOEstdVhZU1ptbTlwSk4wY3B1dlJEVmpRWHNhaDJSUA?oc=5"
-      },
-      {
-        "title": "Dramatyczny pościg we Wrocławiu. Uciekał przed policją, wbił się w tramwaj - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmJjQ3UtcjdBVXI4TkZmS0lpWEFwNlBZUDJtSm5BQktuYnRaWGVYNHVjTTZTNnUyeUJMM29jNXVHVEROT3gxcUFycjlkc1kzY0t1U19wQ3lfOVdVRmsyVFI0VTBxVUhVUlVCVkFSLTNjaFNTaFRDVnVPemhEWXRMU1ZnaHZWdXI4ZTV1SGFZZHZIV2UwXzNuUy00dXMxNTBKaHpwTjNxaUNwVm9fbkZWLVJURXB5d3RzMkY3cllwWnE3R0tRWWJCSjFzYWE?oc=5"
-      },
-      {
-        "title": "Donald Trump znów zaskakuje. Chodzi o zakończenie wojny w Ukrainie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmpDXy1nVl9Wa2diSVhjdDY1UmhUOUtFSlFHSE1pdHRtMENraVFJUXlXaW1pdWZoY3RNbUVxeTlXa1A1V0xkOV9vQ0thZUNCdnV3bkMyNENIMjlTSHRkbHhrUzZRRURZT1h0S0xqcDRHSG1UZWpYYi1wWDBaR1phVjRub1p6Z0tzWm4zd21lY2taMndtaEpWaWdudHZFeC02MHF0U1RB?oc=5"
-      },
-      {
-        "title": "Ujawniają maile. Posłanka wpływała na dotacje z FŚ - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTB6VGVvd0otN3hlNFRzVjhPNUgtZ0E1RHprQ0xUSFdIcWdFaHBUcUlMZXJWR1hEV0xuNlh4WTR4TF9SX1pGZ3lPMXFackZfM1NsWXFHWEJCb1F6WEVFMHotZFRnSnhRY2N0VVVzNFpNdDZ3Q2NIcjdYTERyZUpvbjBpTVVjMHJZSlF3Q09zV21Ld3F1a1k4?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: Dziś zmiana w krakowskiej kurii. Wkrótce poznamy następcę abp. Jędraszewskiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQl80Nm9DUlBMaXFFZmxlY2lpdGtlUUhDT3ZMdEpFdUh6Wk9pV0t5anAwWVRTREQwTmdBXzZzc2hNbm9KNE5uQ1NNR2FXT2h5OFNPbzFkd2JwQjhEcmIyOERtYllESjlQU05PMkZZVkk1eGQwWExHQU50MjFiSWU3cXhMSm4xeUpJcVhxX21KaUFZcDFGWVhzdW1hVmx6U2VxRXJvckRweWp1SzgydUZjNmtfcG5vX1k?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-26 13:30:55",
     "weather": {
       "Warsaw": "brak danych",
@@ -2642,6 +2591,59 @@
       {
         "title": "Działanie na rzecz obcego wywiadu. Zatrzymani obywatele Ukrainy i Białorusi - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEhZN1o1YXJEdlNzLUFRc051LUZYTGYxbHZMSHBPSmRXdUJGZDJQNXR1RlBBallPMkZ6bXAyaFB0emd1MUFVUEE3WmY2bUkxcjhUUHZka0d2cmpZSmVwM2tWNEpNSHhlVTk4cFc0TFVxUkZYSUd0SUVrVkd3SXhPanRRTjJyMmpoMngySF9IaVFRMmdwTWY4RHRYaklYQUlnUVpuZnJCeVhNR0FnTkp4SjRkOWlsWVJiN1Mw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-28 18:12:22",
+    "weather": {
+      "Warsaw": "Warsaw: -2°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 332813,
+      "DOGECOIN": 0.550649,
+      "ETHEREUM": 11059.08,
+      "LITECOIN": 309.13,
+      "RIPPLE": 8.01
+    },
+    "indices": {
+      "^WIG20": 3001.96,
+      "^WIG30": 3862.43,
+      "^WIG": 3862.43,
+      "^NCINDEX": 259.98
+    },
+    "news": [
+      {
+        "title": "Mocna reakcja na przeszukanie u człowieka Zełenskiego. \"Czarny piątek\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlJsNGd0NHM0M3JRNk9yWlJyQUQ0Rm5acWJMbVdiYXladHZhME5rOTdvM2dtbF9hNXhMZEk2WGFDQ3BlVEJFMFNfR3FwZlJvOHIxVUUtdkstQVIxVTNrV1ZReGh6NllTNnZlaTZzT29Rb0RCUWY4LWRuQkJfcnVtSHNGUGU2VmVxZmw0bWpnYm5QZE5uVFl1ampUdjhiaGpMQ3phS1c4clB3NzlqU2lYcTZmYzNlLWNOTUVnbDVYZUxmSTB0bXc?oc=5"
+      },
+      {
+        "title": "Nowe weto prezydenta w sprawie głosowania korespondencyjnego. Były szef PKW ostro o decyzji - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm9WTTV4LUZic01Rc2E5VXBwQmc5ZWl1VFo4LVhyY2s2REtRcFJSVnliS2J2SjZDbjU2a3d3YWoxRlppR05lT1FKa3FGeHJra21wWGJIWW1IRnN2ejZhdGhXd21JTzFtN1Z2OFVtUUVBbmljYUhDYXZzWDY4UGROMWlMUEd1UTRUcHNsVVFDdWQ2XzNMSXczZEEzbGRHYzVTdmdPRQ?oc=5"
+      },
+      {
+        "title": "Kolejny plan pokojowy dla Ukrainy wyląduje w koszu? Kijów stawia jasne warunki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0tNVThoNWg5T2x4UW9EWG5FeFJSVEZyc2NraUZBTThSdnRtU2I4S1dzMTg2cVB5ajdrYnYxWlUxeEZ2TE16QnpzMW9ERExKeHBTWTF5cWd4al9NRkhhTjJXZG9TckdWc0l2a1dfWmlDN0FjeFlsUFFTdktUSzNjZ0dBczMySmZwSVU2M0t5YV9iUHdJdWZOTnVvd25Rc2NLd0cxWlFmb2t3QnRqdTFmS1JoSDFmb3F2?oc=5"
+      },
+      {
+        "title": "Pogrzeb milionerki i jej wnuka. Łzy same płynęły. Poruszające słowa córki: \"podbijajcie niebiosa\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkdfR0szYjg0TUtNdjltTXgtNU04Z2stWmxOSVZFZVdOeXhjSk5ENG5nbDlLa1JyaVdfdlhRY2EzTEZIM1NpU1FrNG5tQlNHbHRoTEI2aTVJN1hrVEtraUk4LUFsVlZEX0pVeVd3UEFvM0FCMU5TbGFKYUFxWDhTUDFVanhGUXp2OW5PUUl3Smo1QVdMMUFianRUNzlTaVpQQ0NiblNfZGx0UlZaeW4ybTNnWFdJVm9T?oc=5"
+      },
+      {
+        "title": "Policja pokazała wizerunki dywersantów. Listy gończe opublikowane - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalpjQlo3bzk2VXZoNzNXM3pEQ002WEhQRnl3WWtGQ1lndFBCNWN0Ml8wZW5qV1d3dG5Od0p1WGpWREwwQU1UUmo5cElNVHRpc0FBSTlnZE9GeDdlRVZKLXpUdVBWTEZBQ0pON0h1am5DOU9GT0pQcF9IYVZ4STNYbV9hV1p0VXM1UUc2QnBMWklnM2FvOXZ6Q2ZQZ0lsb21ZeHdnMmx6aU5zMUE?oc=5"
       }
     ]
   }
