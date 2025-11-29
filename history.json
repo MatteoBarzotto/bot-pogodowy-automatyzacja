@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-26 19:18:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6578,
-      "EUR": 4.233,
-      "GBP": 4.819,
-      "CHF": 4.535,
-      "JPY": 0.023381,
-      "AUD": 2.3774,
-      "CAD": 2.5976,
-      "CNY": 0.5167
-    },
-    "crypto": {
-      "BITCOIN": 329512,
-      "DOGECOIN": 0.570882,
-      "ETHEREUM": 11102.62,
-      "LITECOIN": 316.65,
-      "RIPPLE": 8.2
-    },
-    "indices": {
-      "^WIG20": 3003.61,
-      "^WIG30": 3858.01,
-      "^WIG": 3858.01,
-      "^NCINDEX": 260.08
-    },
-    "news": [
-      {
-        "title": "Okręty podwodne dla Polski. \"To siła, z którą Rosja musi się liczyć\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTm1ocVpXWGJueXlidGthaE5kcDgwS1JTcVlzZVJXbV9rdTkxWnJhQ2U5MmkxX0lBMWpmWEc3Q2lGMzlkdnBUMjFHZUxfX0ZOM0gxTVN3a3VuZlNXdkdfc2puMTZLamZ4dU9uTGtzZUtSdHZFdWxySE9YdGVkdzA2WWprN3p3NnNJSGdCRnI3Y3A3T1ZsdGw0TlhNRWxpajdmSTRHNE5jQ2Z6S1N1YmpJUDdrVk95Z052d2tR?oc=5"
-      },
-      {
-        "title": "\"To nie dyplomacja, tylko czysty nonsens\". Ukraińscy żołnierze czują się zdradzeni. \"Europa i Ameryka zawiodły\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWcwM2VkMVFGSGNob1Zjel81eWkzVWd3Z1VudHhtVUZfd1pCSmJYdWMzQUdyUUplQTVibnVJQjhnRnVNZ29WN3pUanlZbXZxSWdpRmMwQjBFWE9GZUFXT0ZNVHRMT0JVUlhmLVFQUjB1aTBuYUpRRGU3MFpRWUNPajFqZU9vazZPRXhLSXFnX3J1SDNRcWFQWmVHVUlrMXI4YU82MThfMGhVUUd6c2p3MWtoRkNBM1hFbXhJdzlyMTlwWWZt?oc=5"
-      },
-      {
-        "title": "Chaos wokół Waldemara Budy. Rzecznik PiS zabrał głos - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcE8ycXRXQ0ZibGkxeXRkV2NDU0VhNzU2bjBSRGh4VmMwMVgxcnd2amlDYXR4NUgtdmFPS3ZNTU9nRFQ1VjhBZzR5NGZXaVBmbkpyZkRUYm9PemkwQkhMS2ZqUW5uUDI1VmwtVjBWNlhVcWNDLUxIWjBlaHREVlFNcWpsbjBBLS1rWmxoR2ZDSzR5cGxLMHc?oc=5"
-      },
-      {
-        "title": "\"To cios dla Łodzi\". Nie tylko Jędraszewskiego zasmuciła nominacja dla kard. Rysia - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSE5XcUhKd0sxcjNaQURLMFF1VWw5LUdPWkJlUlRWWjRRSUNCT29jaWducWY4bmhNcG8tMkpkZVYzbGYybFRLcjV3NDgxelVBRUNZUmlIOUlNYS1CMHZDQjNDYzB0cHF2YnFTbE5JMEVib0lWeFhlTEdzc0lBOF8xOTBaVEhsU01yUmlDc2pkVHdLZ2NYR1pTRWJiU0RLM1dpeHZqR2NGV0RrUQ?oc=5"
-      },
-      {
-        "title": "Litwa. Samolot LOT ześlizgnął się z pasa na lotnisku w Wilnie - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnpiM0NqUUoxenlycmdMNzVSY0xfdkxFSVNLUjJhQ3UwWXFPYnlMUlJsUzVtcy1aRmN0c0hPR3ZIT3gxS3dzbW0zQXRuUEhuOE9wWlNTcHJlX3BEbHhkQTR2VVAwY09aU3JjVmZMbWxtSWlYazhuY044bXJ4a09PWlpfRUVOdjVBYTlPSmdfZTNDWmVoYWNOMQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-26 20:11:50",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Prezydent Nawrocki apeluje o debatę. \"Marszałkowskie weto\" dla prezydenckich projektów - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVdhVldkRmdsWTNWanhuUGZsOHRtOEJ2dFo5djAtcnRVZW5yVkVuNkJwZUFKcWY3ZDVPZXl5bGZtdkc2X09Nb1djTDNCdjU2MVo3a1FkSXh6eDFOZU9oOWVWSFNsWnZsNVREZWxXbHRxb0V3SWxHNTZSWUlrb1VzZzJUcy1rbG5RNFlNUFVZc2t2cnJpLXRWd1R6Z3NrNTNTY09MWUNsNkYwbWl6clhMa1dpemRJUWt5?oc=5"
+      },
+      {
+        "title": "Po co Orban poleciał do Putina? \"To nie tak, że Węgry nie mają wyboru\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMS0zSXgtLWZTQ1QzTXVFbllCaVlxUVZGMXVUOTRNWWVDaXRWbllhemhNQ216WWd0dkxlcWsxTHJxQWhvSVhlRU5Ud2lTbkJUb01MYnRGTGZRQzg2UXlCaDZMcnVwYlg0TFRJaTBJOERkX2dSUU9tRTJyMV9DZ0NqSDAxOU16elJob2puR2JWdjRvU0hNWmsxbA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-29 02:06:15",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 4.0893,
+      "EUR": 4.4367,
+      "GBP": 5.194,
+      "CHF": 4.5414,
+      "JPY": 0.028586,
+      "AUD": 2.7352,
+      "CAD": 3.0968,
+      "CNY": 0.5698
+    },
+    "crypto": {
+      "BITCOIN": 332216,
+      "DOGECOIN": 0.549532,
+      "ETHEREUM": 11100.93,
+      "LITECOIN": 309.16,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 3001.96,
+      "^WIG30": 3862.43,
+      "^WIG": 3862.43,
+      "^NCINDEX": 259.98
+    },
+    "news": [
+      {
+        "title": "Donald Trump anuluje dekrety Joego Bidena. Zamieścił ostry wpis - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblJ6ek1vSmZScmozdE1MYWFDZV9abzFBUnR3Ry1ndnZFaEFJM05NZWd4dXVUNUM5V055dF81M1NJUGxQNnFOU0hSVEVrZTI1Yl9kYXBuLV8ycFVZX2ZhRVhXcFZYXzgwYzBrTTVEQlR6YlQ2WDlpTDVHZlpQeklKa2hwTjRJSU4xclFpMGdQcVBhMlF3eDBVdVFqeWFwbElzVzhnWGl3?oc=5"
+      },
+      {
+        "title": "Tajny plan wojenny Niemiec na wypadek wojny z Rosja ujawniony - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmxQMV9RZnA2SGFUamxlOENaWlhFNjlKWW80TE9HSk5zVnRTWnA2ZkNCZ1Q5aEhrdDhBU0lHYjU5MmZkU0tpbndWd2lGUnhXQmJ5aWs1Q01hQ0NMdUpEdHpQQzNfbUFjQkVBeHBaMzJOcDN0TGZFU3JWWUZmSnR0VThwanhvczBhYnJDbkU1S1UwNDlKSGN6cS1VcDQwTzBsT1I1WGllUUk2b2dqVTNtdzdFT2pjbnlDb3hmMThXVQ?oc=5"
+      },
+      {
+        "title": "Bitwa pod partyjnym dywanem PiS. \"Morawiecki dostał kolejny strzał\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGhaZGtPN0s3cExabzl2SjVWdi1CZFEyRVoxVHBQM0pSZ2Y1WUZLcWlQX21hUmtkWnltRjBoRElWTXMtRlEwUENRUVE4aWE2amQ1S3ZrYlJiUlRBanZ1VnVPTmhwcTgyenFpdWlYR1V4czdxcU1jWlZLaDdsbFIyby12UlhralBWS3ItaWNUeDRBWWotY2xYLTBMZFRpaXpORjNEa0RsVk9pSVJRWlFpWEpoSHJQYTVsbHA1aFVMRnEycW8?oc=5"
+      },
+      {
+        "title": "Krytykuje weto Nawrockiego. Przypomina, co powiedział influencer - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFA4VnBGNHFDZHB2OWt6YTNoWEp4bnJDcVJLNDdFTi1pNEJ4cGZUWkxLRFFwSk5BWFhjWklCeGhXRlYzczBUUEdDbW9BeTZqT3oxRC0yeUJxSElTY3Z0WXFCVEZRV3BDOUNtREZGbWxjTTdZR2padTB5a3Rhb18wRnFocXZzWFdPdDZ1WUhDVG5BYk81SGlqTzY0blJQWlo0djFpa0hLUEVQSHFOY2hqdWNPT3c?oc=5"
       },
       {
         "title": "Po co Orban poleciał do Putina? \"To nie tak, że Węgry nie mają wyboru\" - TOK FM",
