@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-27 15:14:29",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.651,
-      "EUR": 4.227,
-      "GBP": 4.8242,
-      "CHF": 4.5318,
-      "JPY": 0.02335,
-      "AUD": 2.3818,
-      "CAD": 2.5994,
-      "CNY": 0.5155
-    },
-    "crypto": {
-      "BITCOIN": 331173,
-      "DOGECOIN": 0.556442,
-      "ETHEREUM": 10927.0,
-      "LITECOIN": 315.81,
-      "RIPPLE": 7.95
-    },
-    "indices": {
-      "^WIG20": 2991.64,
-      "^WIG30": 3845.73,
-      "^WIG": 3845.73,
-      "^NCINDEX": 259.83
-    },
-    "news": [
-      {
-        "title": "Pierwsza emerytura prezydencka Dudy. Pochwalił się przelewem - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUFuTkNoZENKUExFMUM4bVlLUWJSM0ZleEctV1A3OUJuTkxWNy13TWxiN1h4MmFpdWNtaVgxUmVURUduQ3JSU0pBRVZYclRvSTVROFV1OXpyelkxX2hHZ1F2eGozT2JMODNoenBDa3pGTy1MakFLNVd0NFpCOVdGRk05WFlKcXJSMFZ2ZkNhWTVOZnplamxDT0kyazE2LUlUUFBtVFBsMnRtQTRYS0RRQk1ENmE?oc=5"
-      },
-      {
-        "title": "Władysław Kosiniak-Kamysz apeluje do prezydenta. \"Nie wolno karać młodych, którzy chcą służyć Polsce\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVNtLThXb01xYXVYMG1fc0tNVW9Ha0o5VWc3bHdWNE5ma0JMY3lYNnBseUZMX3JXTFhjdDRRRmMzXzIyU0Uwd3pnN0pUWnJLck5XQUJhbGhvUzB0TU5UY1V5aGxKMG9pQmJWSnFtSWtxU290bGY3NE40OE1tTERWb2pGSVByRTZXa3ZSMWk5XzNBQXlMZkVDa0dHXzFlOVVvcnFRQ2kxSkdGOURMV1Y1Vg?oc=5"
-      },
-      {
-        "title": "Pięć partii w Sejmie. Konfederacja rośnie najmocniej [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFdTTjYwUUFKZ1ZjYnJRTElTOVB6eG0tU2U5S0dwai0xLXZXbEtEbmdTWWRVUkRlRWgxVlNDeUNqZ0V1NkctYmN2S1FlLVhnSWtVdXBERmpRM1RqdElqamJnbmFwWHFtcEZndXhwUUllUWkzMXFPTGhzSWl4eURxejV3bndqak9YYlkycGRJMzdTVDJNZXNLQXhMVlZsUQ?oc=5"
-      },
-      {
-        "title": "Szybki ingres kard. Grzegorza Rysia. Księża: \"Watykan wreszcie spojrzał na Kraków\" - krakow.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjRHM1JFNnl4Vm1XU0JwdTBycFNmWGpDaUhfejcxMGpOaG5ic3VzRlMtS0JIb2hUd0YyYTAzclNFeUwzUVRISHBaZVN4cEg1dmpEM0dUT2ZscFZ1WUUwR3FITU8wQVRWZVcwSnBVUnZvYnlCV01hQWljeE1USlRNNGxneE5ZRTR2ajRfUjQ1Nl82bk01UF9Ib25ROXUwYS1jd3VILVJMdW9GRER4R1kySkg5Yw?oc=5"
-      },
-      {
-        "title": "Dużo łatwiej dostać mandat. Policja ruszyła na drogi - Motofakty",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlpIeGpCNWlNbnJhVkRDMG5PNUFlWFdLSDZzM3hVQzMzQ2VsSFdIZXZ1SjB4eFh5M3JBMWRMRWI2a1d3eC1zRzdnUFNyUzFtVzlvc2I3SFRmaHlFcjlaX1M3MEVwQnhFbTQwcHVSU2ZDNXhiWDBFQkZyOUxlbFV4WUgzMmtNdzZFazE5SGVaSTd4ak1xdjhBVUl4TGhfeGlJd0lPREt2b3dtM1FwcnAyTw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-27 16:15:06",
     "weather": {
       "Warsaw": "brak danych",
@@ -2636,6 +2583,59 @@
       {
         "title": "Jędraszewski prosi o przebaczenie w liście pasterskim. \"Jeżeli kogoś zawiodłem...\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUHFXN0NDdW50ZFB3dUFOYlhxMWk0RXNSdVNQYkI0SzFQeV9JeTl1akNoZGNmQkJTeldZNThmVVMtME5pU25fRG9ubGhWSGs1T250Z2FJdEJxVjAyM1hVaXg0QjN2MlBHczZxQ3JYUEZVcnVCUzcxdnZqVUxLT1IxSUNhRjZMdEd6b0RndXNtOTFlVUJtS0VKN0VrM0ZCMDhTTjBiNzlaQXpPNGp3eE5JN29seEc5SGktVWdGb2NhTnVQcnV1T2JBYg?oc=5"
+      },
+      {
+        "title": "Czy Karol Nawrocki wygra kolejne wybory? Polacy ocenili [SONDAŻ] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHNxbkxYSklZTmdtY0RiTXVsRjdBYzdGbi1sOFZIdW5Ec084OHc5dlFhaFptLWhiVENzTmxxWTBILTR0MXFYSHJjNWYwNnNxeWp2U0tOTENVTWVuMDdGTXpMemhnOS1OU2R2M3lnVTBBenBnOEFNTVlmSU9lS0hzZDk2Vy1aMjN2aWtBUGlsaFhlUkVNOG8yT2oyaHlQNzhBdkNn?oc=5"
+      },
+      {
+        "title": "Czy PiS wróci do władzy w 2027 roku? Polacy nie mają wątpliwości - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVF0Skhvd2dfUkVmX1UwSGJSd2M2dFQyS0E0cTJrSXNNS0FYYm15WjZPZ0p6Z0N6LXVMdWxzeFlyYzNvTUhFQlkxcXN5M2NPN2VzZnFCTWNsV1M5UENvcVA5c0wtOW5FUmpRbXRkbEt3eXRNRFNxOWhzMno1RzREUkZsUmRRTE1GeGtSQXhqb0ViQjBaM2tVdHA0WjFOSmRzb2ZuNHVoTjQ1bmFINURYZHhIcjA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-29 21:15:08",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 330621,
+      "DOGECOIN": 0.541616,
+      "ETHEREUM": 10912.59,
+      "LITECOIN": 305.64,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 3001.96,
+      "^WIG30": 3862.43,
+      "^WIG": 3862.43,
+      "^NCINDEX": 259.98
+    },
+    "news": [
+      {
+        "title": "Katastrofa śmigłowca niedaleko Rzeszowa. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmYwV1lMbUxzRTlDX3lIZFlNVGdvbXluTUhSbEVqT2F4VTVjMFI4cl96WkluQjFOR2daaThidHE0NXFMUE0xa0IxR3FETkp6SnY3cVUzX2dGcEV6R2ZNUDVwUU5GY3ZVN085T1Z6T1U2cHdNZ0FnSC00Ykx6dzB6T0VvSVdUQTkweHBkQXBQN3FSYjk3YmhQLTd2ZEp4WDJTc29wNThqWkw1Uzdqc0ZMcjhoWHlLZw?oc=5"
+      },
+      {
+        "title": "Donald Trump grozi i ostrzega pilotów. Nad tym krajem lepiej nie latać - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjB4T0JVZ0FEZlZsMTdZbFpfbGRENnZXZGpZejIxZmZ4RGxxa2dTVVFIMUFDb1kzdUJmS0pjbWpKUjFNUDB1NnM0eFdPLXc2UndzNDF6a1J1ZVZnb0VpNVdHWlVJTk9oWjFUS1B4NUZWQ1g4TnNPbUI5LVc0UzBxdXZwRDZVTmlzTi11R3pCMGNVVHQ0VTVFUTZwLWlnaVEwaU1mSGFuVHlrV056TkY3TkpSSXBPNzh5RnJJ?oc=5"
+      },
+      {
+        "title": "\"Obrzydliwe insynuacje\". Siemoniak odpowiada ludziom Nawrockiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGhSbFRHMXAtRVNPUDRPUXZ1OTZZVzNtQkFJSmRiNVdOc3dlaVhnSmVjSFVhTnd0a1FNVENQQmZsbDc4X19LOUZ3Sk5ITk5ZZkdlVnFIa1dCaG53ME9WbDdEVDdpN3J1SkNtd3hjSzZyY0tqY0pzejdQS2FkUnNMcGgzZG44eEl1Zm9lM0xUMFFoRGNiWHo2NEwtWmR2NlpiMFdFWjRUQQ?oc=5"
       },
       {
         "title": "Czy Karol Nawrocki wygra kolejne wybory? Polacy ocenili [SONDAŻ] - Onet Wiadomości",
