@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-26 21:15:59",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6578,
-      "EUR": 4.233,
-      "GBP": 4.819,
-      "CHF": 4.535,
-      "JPY": 0.023381,
-      "AUD": 2.3774,
-      "CAD": 2.5976,
-      "CNY": 0.5167
-    },
-    "crypto": {
-      "BITCOIN": 328436,
-      "DOGECOIN": 0.569117,
-      "ETHEREUM": 11035.87,
-      "LITECOIN": 315.32,
-      "RIPPLE": 8.12
-    },
-    "indices": {
-      "^WIG20": 3003.61,
-      "^WIG30": 3858.01,
-      "^WIG": 3858.01,
-      "^NCINDEX": 260.08
-    },
-    "news": [
-      {
-        "title": "\"To nie dyplomacja, tylko czysty nonsens\". Ukraińscy żołnierze czują się zdradzeni. \"Europa i Ameryka zawiodły\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWcwM2VkMVFGSGNob1Zjel81eWkzVWd3Z1VudHhtVUZfd1pCSmJYdWMzQUdyUUplQTVibnVJQjhnRnVNZ29WN3pUanlZbXZxSWdpRmMwQjBFWE9GZUFXT0ZNVHRMT0JVUlhmLVFQUjB1aTBuYUpRRGU3MFpRWUNPajFqZU9vazZPRXhLSXFnX3J1SDNRcWFQWmVHVUlrMXI4YU82MThfMGhVUUd6c2p3MWtoRkNBM1hFbXhJdzlyMTlwWWZt?oc=5"
-      },
-      {
-        "title": "Koniec epoki abp. Jędraszewskiego. \"Kraków odetchnął z ulgą\". Kard. Ryś odnowi metropolię? - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUpMMGMzNVJ3YVp3SkJwSFNjamtzdGdaVUlRaUlIc1FvV1pYRVQ5Y2lqTjNzUXYwN0NNNkJXa2VfNVBQTXhUbUpSYWNiXzFPNzdUcHc2eV9WLXJBcXhseUY1eDFLaGgzV3dHcHRNSE9hd3Zpc00xaEdqdkVwREs4am1Fa0czY2tzNHVHZURSd3RrVHRLM29qRlpMd1RRbTlPQV9zMjA2TGFzMlI3OG9MWA?oc=5"
-      },
-      {
-        "title": "Pożar wieżowców w Hongkongu. Cztery osoby nie żyją - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnFDeFZlamkyRnFQZWt1ZUF6QWFaTE1ZOHZWNUhEYjQwY21UQ3Brd3NJVWtZZGRQTUYyUnNxUzVwRWdZMDB1Y3k5QnlHZXpDMW44QVRGbzV1eUE1QTdJV3dQMGJ3OHhKZ01jMHJncHp3NXFxT01ZVEpoQ3VfVkU1Y2JyWEpudVUwMWlkN0Y3d1owQWx0Z1lSUUE2QnpxTFpOTzhtY1Vzcw?oc=5"
-      },
-      {
-        "title": "Konflikt w PiS. Media: jest wniosek o zawieszenie Waldemara Budy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkl1cmZYcEJKaE5CS2hyZC0yN0E5ME90SjNRTVBZUGJIaWtSLXlXdXF4Z3JCNlQtUjJDYUowaWNBZWhsWnEyb1JFZUpYU1E4SExDWFhvdEc0bEN3X0c1Z1BnTGVzMi1VM3lhR2pHV1lKZWVmSGViV1ZJekwtclduMWwwQ3BTUWMxSmVpTXEyVnZoekxTbnpyWHpRRDhkekpEaDhyNWtRaXY?oc=5"
-      },
-      {
-        "title": "Rozliczenie PiS. Donald Tusk o \"decydującej fazie\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0t1OHRreTZEVUlFNDJKcHpaTUdZNFFtTEFvX0dxSXpfT19MWDBfdHZ3dzV3ejZCRWM0T205bkRnandrWlIwT3RrU19Cd2ItZElqQzItSjllRlZXdmFkS1FNNnU4Ymlvd0k2M2hlSExkRndYMlFfZjl6T0NzTlkybDEtM2ZFclZOcXlUdmllc00?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-26 22:13:01",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Polityczne przebudzenie Tuska. Co naprawdę stoi za tym, że KO deklasuje PiS w sondażach? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlV0THhmX3dLT183YlpNbU5oRE5fcHFZMXZiaXc3SXZTalZLOXdGVEhsUjhXYXp5NzdGOTk1SExDMUZ4MTJBMDVPbE1QRm9JSU9FTnhROE9CU3hPRjQ2S01xaVltY2FFR1pOWmpsRjVVUEd6a29OTnA1bkJFQS1oelNYOUwtY3BZVnp3MUZtMXRRcjh6UVJINTczSWl2eHc2WF9DMUpkU3dyWGRZQVpzNFpR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-29 05:17:19",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 331204,
+      "DOGECOIN": 0.547381,
+      "ETHEREUM": 11043.19,
+      "LITECOIN": 308.48,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 3001.96,
+      "^WIG30": 3862.43,
+      "^WIG": 3862.43,
+      "^NCINDEX": 259.98
+    },
+    "news": [
+      {
+        "title": "Donald Trump anuluje dekrety Joego Bidena. Zamieścił ostry wpis - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblJ6ek1vSmZScmozdE1MYWFDZV9abzFBUnR3Ry1ndnZFaEFJM05NZWd4dXVUNUM5V055dF81M1NJUGxQNnFOU0hSVEVrZTI1Yl9kYXBuLV8ycFVZX2ZhRVhXcFZYXzgwYzBrTTVEQlR6YlQ2WDlpTDVHZlpQeklKa2hwTjRJSU4xclFpMGdQcVBhMlF3eDBVdVFqeWFwbElzVzhnWGl3?oc=5"
+      },
+      {
+        "title": "Dymisja Jermaka wstrząśnie Ukrainą? \"Ta sprawa osłabia Zełenskiego\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0tXNW1sMzNYVTVmbENGdkxxZlBOVVZEM3Q2Y3UyMExqdnJNSU9ha0J1ZHo1b2FnOWRIdjhtT2E2ZFV2bVV4VzFyMkZZc0FyWHVmSnNLd2tHcXA5TVNsLWZWMXYyeG45UWhzWGtXQV84YW5oNk55ZW1ScGxiUmRqeG5KbVN3eXhLNTd0cDFsdWdGaTdpdkE?oc=5"
+      },
+      {
+        "title": "Orban u Putina. \"Dostawy energii z Rosji pozostaną podstawą\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGtLLUNaTVcwbU9CMGFOQlBfRHBXd0U1N0h1NTJCeGZYbVNSejNDTmxSR0lnREFKNWxlc3ZwZGZQZEtRckxBWnc1bHNwUjU1ZmNoSWFvOS05NkQ5TVZKb1E3eU5VdTFneHhDSjlIN0F2cS1TcUxNeTJJa0NBU0YyU0dsODlMNmpScF83cUdGRkhuMWdWRWJJSVR2R25vbHZjWFpHR3dnRFhCWUFPZ3d6aV9B?oc=5"
+      },
+      {
+        "title": "Prezydent Nawrocki apeluje o debatę. \"Marszałkowskie weto\" dla prezydenckich projektów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVdhVldkRmdsWTNWanhuUGZsOHRtOEJ2dFo5djAtcnRVZW5yVkVuNkJwZUFKcWY3ZDVPZXl5bGZtdkc2X09Nb1djTDNCdjU2MVo3a1FkSXh6eDFOZU9oOWVWSFNsWnZsNVREZWxXbHRxb0V3SWxHNTZSWUlrb1VzZzJUcy1rbG5RNFlNUFVZc2t2cnJpLXRWd1R6Z3NrNTNTY09MWUNsNkYwbWl6clhMa1dpemRJUWt5?oc=5"
+      },
+      {
+        "title": "Prezydent: ustawa ws. blokowania nielegalnych treści zagraża możliwości dzielenia się opiniami w internecie - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTNfWjFfRzJOZnVobGM0bHM3NV90RkxsbVIzME5hTW00S2c0U0VOTHhFckk4azF1a0NndHZDcTUwWHQycC00WnJFTXV5OGNjTzFrWUkxWjMtQ1QyZVAzdkswLUtXY1VjTFpmMWdCNkg1bFZla3l5VVlOQllOWFZpTTJjckRhOEtqR1F6b3F1czU5NkNzQzZQTy1wdHc5MXVnZHE2aGZPVkJxQmxyS2l4WkhZZ1M?oc=5"
       }
     ]
   }
