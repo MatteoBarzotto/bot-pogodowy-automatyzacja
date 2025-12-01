@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-28 22:12:19",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 333012,
-      "DOGECOIN": 0.550754,
-      "ETHEREUM": 11151.33,
-      "LITECOIN": 309.35,
-      "RIPPLE": 7.98
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Marcin Wyrwał o dymisji Jermaka. \"Ukraina wykonała gigantyczną pracę\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXl3RWFVbnJybnROX21MUm8xUGE0MzNGN2NiLS10b19hZnp6MWtMQWFsaE9yMmJ3UEFZR0hKbnJ3LUNveVlJeDNOUmZqWGdxMk9tTTB6cEUwdjNHZXRmQTVkSHhEbkdqZWJjeVpiRXFYdHZCRWVOcmZScHZUZjZURHJpTEw5bGZjbS1RenRxU1g2T3kycGx6SmpCVFN3U3VRU01HNzBtTzM5T0lib3AzR0toaTY2SU0?oc=5"
-      },
-      {
-        "title": "Donald Trump anuluje dekrety Joego Bidena. Zamieścił ostry wpis - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblJ6ek1vSmZScmozdE1MYWFDZV9abzFBUnR3Ry1ndnZFaEFJM05NZWd4dXVUNUM5V055dF81M1NJUGxQNnFOU0hSVEVrZTI1Yl9kYXBuLV8ycFVZX2ZhRVhXcFZYXzgwYzBrTTVEQlR6YlQ2WDlpTDVHZlpQeklKa2hwTjRJSU4xclFpMGdQcVBhMlF3eDBVdVFqeWFwbElzVzhnWGl3?oc=5"
-      },
-      {
-        "title": "Rosyjskie tankowce stanęły w płomieniach. Jednemu groziło zatonięcie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONm0tMUhlczQ4T1ZQMFpGOU9EcEZvWjNVZlg3RTFaX0hreHlEUGw1VHNsR3NESXBFMC1mYXZLdHpCZnp2VUNtSjVvQ051TWV6QXJCX3ZWaTFyU1RKak9VQ1dYSzlfVG9lQXNyc0JadGlMU2xZeHotRXFKUUdQQURWVTVZYUlwNVBZa2YwWXhfcW1OZklKRHRiTnBTckRZVXZJdkNLMHFfYmZUVTV6RWhnWGNtWQ?oc=5"
-      },
-      {
-        "title": "Tajny plan wojenny Niemiec na wypadek wojny z Rosja ujawniony - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmxQMV9RZnA2SGFUamxlOENaWlhFNjlKWW80TE9HSk5zVnRTWnA2ZkNCZ1Q5aEhrdDhBU0lHYjU5MmZkU0tpbndWd2lGUnhXQmJ5aWs1Q01hQ0NMdUpEdHpQQzNfbUFjQkVBeHBaMzJOcDN0TGZFU3JWWUZmSnR0VThwanhvczBhYnJDbkU1S1UwNDlKSGN6cS1VcDQwTzBsT1I1WGllUUk2b2dqVTNtdzdFT2pjbnlDb3hmMThXVQ?oc=5"
-      },
-      {
-        "title": "Po co Orban poleciał do Putina? \"To nie tak, że Węgry nie mają wyboru\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMS0zSXgtLWZTQ1QzTXVFbllCaVlxUVZGMXVUOTRNWWVDaXRWbllhemhNQ216WWd0dkxlcWsxTHJxQWhvSVhlRU5Ud2lTbkJUb01MYnRGTGZRQzg2UXlCaDZMcnVwYlg0TFRJaTBJOERkX2dSUU9tRTJyMV9DZ0NqSDAxOU16elJob2puR2JWdjRvU0hNWmsxbA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-28 23:13:00",
     "weather": {
       "Warsaw": "brak danych",
@@ -2645,6 +2592,59 @@
       {
         "title": "\"Uwaga\". IMGW wydał ostrzeżenia pogodowe. Alerty w całej Polsce - Radio ZET",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUVEa1pEX2hsd2Fwd2VNX2hoSWVteVE0TXJMMzFDSFNEczFXSXpQbXIwbWRGMkZCeWhsV0dnTFp5NE40NUVfeWZ0N005NG83WDJUclJ0bGtDdjVhZDVRdUg5SVlVTW1LQzZNMG9HeUZkUFp0V3NzWEFyVDFBMVBrclMyR3dSX0xYelRsUUQyQTJoT09hSXJhOHkxZ2s2Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-01 06:22:51",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 313208,
+      "DOGECOIN": 0.500046,
+      "ETHEREUM": 10279.16,
+      "LITECOIN": 282.62,
+      "RIPPLE": 7.39
+    },
+    "indices": {
+      "^WIG20": 3001.96,
+      "^WIG30": 3862.43,
+      "^WIG": 3862.43,
+      "^NCINDEX": 259.98
+    },
+    "news": [
+      {
+        "title": "Amerykańsko-ukraińskie spotkanie na Florydzie. Czy koniec wojny jest bliski? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ090MGNGMTBiZEhsZUJQWkl6cGU4TXlxSmNmSDJPaXJ5XzN5dDAwY1RBNTJibjFOWkRTN19wX0trcTBpdkhWdWNVMkwzMFJBZkxiYTU1TTU5N2RhQm1ZT1pnOW9rQUQ2Y2JvNGtCVEpORHk1Z0hhUGRhLU53dTNpT3JVdm5SMW1ZR3Rzd3lBOUNMTGRTaG53TFlaX1BteGRXa19DU0x5YUt3czRubWpyMjdxdWtoajNvVjNpMW13Uno?oc=5"
+      },
+      {
+        "title": "Karambol pod Warszawą. Wśród rannych są dzieci - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlZhOXI0S0FCNTZRaXJWU0J0MzVXbVFxN282QzZ1ZGN2YjJ1OFJUQXpTaEgzcEEybVNzNkFUSHlWazBDYWc1VnphNWhTaWNnRUEyZmlFRzlldTQ1T25aMjJ4aG1yQWlHS0Exd2tfVEkxV3Q3RTcxYmlsOTVHcDM1Q0hHU05fU0NGVm1lNVVPeDFjd3B2bllSLTJzWUxYNWhPdUxoamZNRE1aZw?oc=5"
+      },
+      {
+        "title": "Media: Donald Trump rozważa użycie siły wobec najbogatszego w ropę państwa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVh2MTh3V2lRQ0VnY3hCakdrbE1oWUpKVnhadjcxSHFTUmFVU3hMOFZrVFJLN0FNLTFfZmpLOTZRT0RSaGl4el9PS3J0blpGXzBpUVFDenRIQ0ZQSXNBRk5UMnNMMndUZUhxVmlETjBWQWhEbm5fb1U3Z29jdGNvUnB5ZGFtU3dYUmplU2g4SzVnS1FEMHBWTkJMdUVUSDBwTjNrYTBoQUFSZUE5S2pSSHNzT1M5UFNlWUFVR2ZXdW43TktLZkxR?oc=5"
+      },
+      {
+        "title": "W katastrofie śmigłowca pod Rzeszowem zginęli dwaj bracia, właściciele firmy SupFol - rzeszow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0poTFF6NXY1NEQyOGZIdnZZdmpGdTBXOURTSGRtR3NqNFhSWDdUcXpuV2RJUTVGNWQ4V0JGQzNfWmRWWlUzMzAwQ3U1X2tTNTMteVlXTHZ2VU5tRE5lbWo4ZHRTUTM1NU83aHJFN2d1NEh6dGJfd0cycThjcDZpak5YU2hIZEV2b0p4NzRDdVp5SlFiNnEtRDN4a0JxZTRLeUdQamNYN2lKemRfNTl3RGNwWFlLZS1waElmZ0xjVGlaRTQ?oc=5"
+      },
+      {
+        "title": "\"Oceniamy to jako błąd\". Doradca Nawrockiego wskazuje na Orbana - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWFIcFptT19nMzdPeFJHbmsxcHFUM0tIYUF0dzktVGY1c2FROTk0LWlyTlJqcGNBekgzUTBNcjNLOXVBVXY2aW9WSFNHY2R6c3RreUFYdHVCT1pobG03MWs1SWE1Qmo4anM2dm5rQ28taENfM2pkckFzZEZKWkZMY1k1amlJVlJxTTZpR2ctbGIzTFVaRFpvckxsaFNYcllmUG4xcmJhRnZjS2d4czZaWXlwVERFY2ZxY3RN?oc=5"
       }
     ]
   }
