@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 17:16:28",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 332624,
-      "DOGECOIN": 0.545471,
-      "ETHEREUM": 10986.23,
-      "LITECOIN": 308.07,
-      "RIPPLE": 8.1
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43
-    },
-    "news": [
-      {
-        "title": "Katastrofa śmigłowca na Podkarpaciu. Są ofiary - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1dGVk8zZ1NQSHV1bmxEMXAyX0Vad0hjREJPazdjY3lHOE1XVDhXYk9DRE5VaUEzYWVBREtrWWRDaE5kZVdBN1JLVF8wSk52ZjFEdGtKaThsSGhjTENvSmdZaXVvd0pPVmtYQzJ6Ykk0c3dvNlhNdkRiMTBUNWc4ZDRTNXZMWXg3MzBoUHh5TUE1WndtMUxBTGQ2ODUxT0hBalNBdk5xVkJIeE0?oc=5"
-      },
-      {
-        "title": "Pilny apel Donalda Trumpa. \"Do wszystkich linii lotniczych, pilotów\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFY1WktnS294ekxUb25TV0ViMW10Q2I0TENmTzhHSXNKLXB0Q0VNWUpYazFyS0pMdXFMdUJoLXVRQmI3VWxTZHhUUk05d2N3ZXVrQ1h4elhsbS1JVTJWVHpDeEs3Wl9rMkl5S0xHZGdwamFyVENfVUhMbXZNX2FKV19idjByS3BnYS1YMDl0LUhVYjNoVE5DUWhOQTFSVHNOUGVHMlpOajdqQ3JpWWNtbFJR?oc=5"
-      },
-      {
-        "title": "PiS wróci do władzy? Tak uważają Polacy. Sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1l0RU9TZk55bHRXaE1tcmZpQXFTM0V4cUZuYkJId1ZRTUtaZ2hQTzQ4eFVtUjZ4XzJZRnhiT1FwUUtIaXZ1YVkzQ2I4aDZmQzNlcWpEemJpS28zNEU0MTFySDM2N1h1VFFBMGcwa3dyNEhKUnVHbEx5MTlGZG1nZ3l5aXRNblFJTnZIeGo4bnA1dw?oc=5"
-      },
-      {
-        "title": "Donald Tusk: fatalna kombinacja. Premier komentuje bieżące wydarzenia - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNrcFotTDUwR0M5R1NNVVVNM3l0U2I5VjZjbDIxMUl1Q1NGN1BlVGp2V1NPS1VpUkJ1bElRSHloc3BWMzhTb3VTaVkxNExRVUtlSVhRdEpwWGMxWFNQZExtOEFXbVltUGNwWW9wMHpnRFBGTHFoSzlKLWdnY2hpcGhPdXpNVTdiV0Y3U2N2dE45M1ZUMEFoOFJSeGtsNzBxYUd1a0QzVFR4ODhfZmk2RkNzb0ZUUlRmRzNadUFn?oc=5"
-      },
-      {
-        "title": "Delegacja Ukrainy leci do USA na rozmowy pokojowe. Trump i Putin szykują własny plan - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdaNURWYkwzMjlOdTRXdHYwTktjZEZ3Q0QzTkxaeW8xRmZHNDZkRVAyOGU1TWlzR3hhd1hkMi0wZWxETmlNc0JQU0FjRkt0cVNQS0tPUUQwWE5sZ1M4S3Z5LXNZMVNVSVd2NHhpd1JHLUY1YnpzcFBtaFZyMlF0NGVLQ080VG5fUXA5Ry1ZZFdrX3ZsWXRhSTdXZ2o5T2RMd1ZNYjR6QVdzMlFHRVhiQkJ0NmZmUVJNR3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-29 18:12:09",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2644,6 +2592,59 @@
       {
         "title": "Wołodymyr Zełenski o rozmowach pokojowych. Wskazał najtrudniejszy punkt - Onet",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmVudzJTQzVxTUdCY2l0TEJoSTZzaUN5OWRFc183WWR3Si01NlhMRDMyUHFGVXdsNFdQUUpBN2E5SlVWT1hEU0U5N0dPNUIwLVJja2syWWZaZnJvT1dsdlowdFUxbU5nT2xZX1NLYXBocU55QURXV05mdFBLR2pDLWttZVZadUhERzhaT2doLXlwV3liZDR1RFNsQU44VWhud1RBZDJ5bDhodHREdVV5T09FRUtoSFY3LUdzdmNkTndVanRlU3ZodzR5N0R2dw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-01 23:12:46",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.6383,
+      "EUR": 4.2286,
+      "GBP": 4.8145,
+      "CHF": 4.5318,
+      "JPY": 0.023429,
+      "AUD": 2.383,
+      "CAD": 2.6017,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 315660,
+      "DOGECOIN": 0.494195,
+      "ETHEREUM": 10212.85,
+      "LITECOIN": 282.74,
+      "RIPPLE": 7.39
+    },
+    "indices": {
+      "^WIG20": 3007.41,
+      "^WIG30": 3862.24,
+      "^WIG": 3862.24,
+      "^NCINDEX": 258.7
+    },
+    "news": [
+      {
+        "title": "Szef kancelarii premiera tłumaczy słowa Donalda Tuska. \"Mało dyplomatyczny przytyk\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcWJsR0U3MG50VWJiS3B1MFRxdlhaalpBVmNzMmpWOExIc2QtOFoxWXBsLTRHbFFHeFFZWE1PellOLWpGMmdCbWhIYllqcHM3RVJ2LTBfMUtMNC1EVnVJanJ4VGY3YlJienVUU2h5V0JUWE5HX3FJUC1nUkRzUEx6cmEyS2ZFcEhHd2RfNmdOdlk4djJLRzRDUWpfa1ExLVd4TExVdEV1b3RaOFFOaE84VXhfSXBDUDAzRk04MGNpMk1Kd1hPTGFFemFhRERseVZSUnhzYmhrUFIzWTQ?oc=5"
+      },
+      {
+        "title": "Prezydent wetuje kolejną ustawę. \"Przepisy zagrażają wolnościom Polaków\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMlFnbGw1cVNYeW44UFFVOWNLMl9zNGRfQUlRME5DTDBzcnlrWVJmRTRyNXVzNkdWaTdPVzl6a0I1b0UxenRJVzNFckhXSHAzR1ZTWnJTeWVsSVM2alZtNVZVV08zR09ncnhlVTZHYkM1d0cyazhUemZnSi14OUVvcTB4d2ZVd1VBRFZUYVdvcDI3b3RWVGw4NVFRcFpGWXZTTl96a0dycTBNT3AyUHNjRk54dFp5TVluMHNmOFV1bHV5UQ?oc=5"
+      },
+      {
+        "title": "Samorząd lekarski zszokowany planami ministerstwa zdrowia. \"Czekamy na wyjaśnienia\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFlBcjZJRFpuRDl4WV9QRVJwR0lpcTVRU0d2MnlDTWVxcTItekR0LWktUklteFNwS1NNSDF6c0UzLUxLVm5TUU9pRzB3LXFTVFBORW43OUZrSE5hNUZzTDU3WXlmNEs2dlU5aFNCUkd0dWpNeWdfUkp0RmRBZzdNODlLRjR1N3phdWhVMEw3b2pGUDB1dGlURkJYbGtlaWhnQUdGNm9BM1FCWFl2RVl0UHpqaw?oc=5"
+      },
+      {
+        "title": "Nie wszystkim spodobała się decyzja Nawrockiego. \"Mamy pierwszy zgrzyt\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3I1aUpMenZXd3MydUhpOEh1LURtZmJsSUNPSkc3M0xaVWdnc0JrcTRCeDVjYXlBczZyZXNJRzV5aTBGMElPY2hSVzdYTW1mbVZGZWYtVWVSMFRzcmpZbHhRUHVlMzZyMmdEQWpUMVF0VmlwYzZ2OFJyMDhwNDYzRFhBellpZVRoSUNHQ09fbC1ON3IxV003azVpcEZTR0U?oc=5"
+      },
+      {
+        "title": "Plan pokojowy Donalda Trumpa. Na czym skupili się przedstawiciele USA i Ukrainy podczas rozmów na Florydzie? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFlzV1Q5NGYyVlBwQmVQVE43akhSV0g5dVZKWmlOekJ1M25sV3RZaDI3bFZkQXNYcWdteUFkN2tDdlNGZ0lnbVNQT2Z6LXFJZlZ0WVBNWGlpejFsck5LU1FtX283VzlmbmZNcElUbEJYeHZMTE5nUHN5V0cwWWRjcnY3Q1M0S2xaUkhrUmtVREVhNXh3WWtqX1lua2plbVFSWHZUV3Rjc3doMGlrZExFLWpqNTQ1LUJQU2Qw?oc=5"
       }
     ]
   }
