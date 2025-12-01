@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 04:06:44",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 332080,
-      "DOGECOIN": 0.548713,
-      "ETHEREUM": 11091.23,
-      "LITECOIN": 308.64,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Donald Trump anuluje dekrety Joego Bidena. Zamieścił ostry wpis - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblJ6ek1vSmZScmozdE1MYWFDZV9abzFBUnR3Ry1ndnZFaEFJM05NZWd4dXVUNUM5V055dF81M1NJUGxQNnFOU0hSVEVrZTI1Yl9kYXBuLV8ycFVZX2ZhRVhXcFZYXzgwYzBrTTVEQlR6YlQ2WDlpTDVHZlpQeklKa2hwTjRJSU4xclFpMGdQcVBhMlF3eDBVdVFqeWFwbElzVzhnWGl3?oc=5"
-      },
-      {
-        "title": "Prezydent Nawrocki apeluje o debatę. \"Marszałkowskie weto\" dla prezydenckich projektów - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVdhVldkRmdsWTNWanhuUGZsOHRtOEJ2dFo5djAtcnRVZW5yVkVuNkJwZUFKcWY3ZDVPZXl5bGZtdkc2X09Nb1djTDNCdjU2MVo3a1FkSXh6eDFOZU9oOWVWSFNsWnZsNVREZWxXbHRxb0V3SWxHNTZSWUlrb1VzZzJUcy1rbG5RNFlNUFVZc2t2cnJpLXRWd1R6Z3NrNTNTY09MWUNsNkYwbWl6clhMa1dpemRJUWt5?oc=5"
-      },
-      {
-        "title": "Dymisja Jermaka wstrząśnie Ukrainą? \"Ta sprawa osłabia Zełenskiego\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0tXNW1sMzNYVTVmbENGdkxxZlBOVVZEM3Q2Y3UyMExqdnJNSU9ha0J1ZHo1b2FnOWRIdjhtT2E2ZFV2bVV4VzFyMkZZc0FyWHVmSnNLd2tHcXA5TVNsLWZWMXYyeG45UWhzWGtXQV84YW5oNk55ZW1ScGxiUmRqeG5KbVN3eXhLNTd0cDFsdWdGaTdpdkE?oc=5"
-      },
-      {
-        "title": "Orban u Putina. \"Dostawy energii z Rosji pozostaną podstawą\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGtLLUNaTVcwbU9CMGFOQlBfRHBXd0U1N0h1NTJCeGZYbVNSejNDTmxSR0lnREFKNWxlc3ZwZGZQZEtRckxBWnc1bHNwUjU1ZmNoSWFvOS05NkQ5TVZKb1E3eU5VdTFneHhDSjlIN0F2cS1TcUxNeTJJa0NBU0YyU0dsODlMNmpScF83cUdGRkhuMWdWRWJJSVR2R25vbHZjWFpHR3dnRFhCWUFPZ3d6aV9B?oc=5"
-      },
-      {
-        "title": "Polityczne przebudzenie Tuska. Co naprawdę stoi za tym, że KO deklasuje PiS w sondażach? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlV0THhmX3dLT183YlpNbU5oRE5fcHFZMXZiaXc3SXZTalZLOXdGVEhsUjhXYXp5NzdGOTk1SExDMUZ4MTJBMDVPbE1QRm9JSU9FTnhROE9CU3hPRjQ2S01xaVltY2FFR1pOWmpsRjVVUEd6a29OTnA1bkJFQS1oelNYOUwtY3BZVnp3MUZtMXRRcjh6UVJINTczSWl2eHc2WF9DMUpkU3dyWGRZQVpzNFpR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-29 05:17:19",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2645,6 +2592,58 @@
       {
         "title": "Węgierskie media w szoku po decyzji Nawrockiego. \"Skandal\" - Gazeta",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1lKdlJZaDE1RW5SV3FLdGxvNmlsWWhGSVdIR1lYZ1NpX1JGT20zUGhfbllCaWFGOER5dWplbENKMHc1cmdmcVpTb2dVQzliWFhuVEJtYmE2a2ZSdHdLWWs0X1BlOGo0S1pUQW5Ic3BUbGx6R1U1SGNyS2JaOGJCLVpWMGszcFAwM282MGpNTlU5YzVfLXBsV0hnNExtYWMxTWtGVUhHS3ZGV1JCZ1l0emJTSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-01 10:21:53",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 315620,
+      "DOGECOIN": 0.499848,
+      "ETHEREUM": 10304.46,
+      "LITECOIN": 283.08,
+      "RIPPLE": 7.45
+    },
+    "indices": {
+      "^WIG30": 3875.1,
+      "^WIG": 3875.1,
+      "^NCINDEX": 259.74
+    },
+    "news": [
+      {
+        "title": "Terroryści ścigani za akty dywersji na kolei. Nowy ruch prokuratury - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQm1XeWZYVDYwR3RtaVpKUm00SFJYY3E3aHgtMTdqQ2tTSVhVODJvTVdkbEVVMFVnd19hRWxrWDRteHZXdWh2TGw4YzNCYU5FVVZiUnEteXlCT2cyTU5vaF93UHdMY1haSjFJeFVjYTk2SEFudlpBOXZMVEFyUnB3b3N3dnpEa3UzZktCMkttOTJfMmg5UFNBOVBXMWFrdmZiZlhEcHJCSTFYZw?oc=5"
+      },
+      {
+        "title": "Nawrocki czy Tusk? Wiemy, komu Polacy ufają bardziej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGxBV3Bjc1hRX3BIUDNVX0sxQkZ2aXRCR1o4OUQxMGZYd3U3WExCOXZKSUdwUUVDdDRzTHNLSEtyT2VlYzV5TXFTUjBYU1M1Um9sWFhPZDRHVmZFTmNzQ19rTmUxTUlHai0wOUV4MTFNUm1OVUtzZ2gwUTd4VU9kTWxKb3lNSUFfQm5TOGw1NFg4dHUwTWtsb2xtZEl5S1BTYzRhcFJsTzNObVd5QndSa3ZZbE5kam8?oc=5"
+      },
+      {
+        "title": "NATO odpowie agresywniej na hybrydowe ataki Rosji? Czołowy dowódca ujawnia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWRveUdnckl2SVY1V2lnV2UzVzl3SDgyV3RjT3ZJVjN3ZThTU3V3R1JYcWpnX3hQNENSUkp5QnEwdklULWpFcU9ZQUFxOTlhSWl2Umdhc1Z2NTBlWmc0azZ1RU9HdUh6dWVvUnFVMzFTT251bnVndEIySkN0cHFsT21xangtckt5ZU1fQWRUVzN2U2ltZWdUMkQ1SnJEcm9IQm44N0RPNTV3VDRCcWk0M3d0U0I3Z1pEUEpqU3NxT3ZESDdWVnVz?oc=5"
+      },
+      {
+        "title": "Lider międzynarodowego gangu zatrzymany przez CBŚP. Był poszukiwany za zabójstwo Polaka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG5UMTBWVWlMOC1XQmY4Q0JsSllza2tvbXcyOWRBSHJwUi1mU1ZNUU02Szg4Z3dNbWxabzdJVzNzeDMzeXluR0hLLXhxWFVsUElUZGR6Q1ZxdzdFWDZMdTdYdk90WU1SSDFmcFIyQVBoR2YzWDFjcXBaMlktM1JsZzB2VGY2SEktX3ZJUU01UUJWeFJnVGszc0VKTkhIaVVKMk1ZankzTFJyTkVtNHV2eTlEeExkcUxZZzl0bUxxOVJNYmpnRldlU2JYYTJBREZiYkxnVEl5cw?oc=5"
+      },
+      {
+        "title": "Ministerstwo Zdrowia tnie wydatki NFZ. Zaćma, tomografia, rezonans. Te świadczenia ograniczy w 2026 r. - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWs4WldCRjZRb050Z1NqVmh2dk9od0lhcG9fSmpuVTBkREFUOGdNNjB4WVU2ZldMLUZfUlh6WmdkejUwWjBkZUpQQ2JKdWpmcm9nVVBwLWJrNVM0MEE1R05IeklkVnhHTHdXY2FrM0EzalpjRXZVLWRBSzY1S0ttSlB1ZXl4QnFGcU8ybWd2dmpoSWJwekZOZWxqcGFySUpURWJaOEhhNnE1MHpRTG5XT3Z3Mm1WbndWRUJBbHc2M3o?oc=5"
       }
     ]
   }
