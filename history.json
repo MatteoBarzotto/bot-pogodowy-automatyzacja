@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 02:06:15",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 4.0893,
-      "EUR": 4.4367,
-      "GBP": 5.194,
-      "CHF": 4.5414,
-      "JPY": 0.028586,
-      "AUD": 2.7352,
-      "CAD": 3.0968,
-      "CNY": 0.5698
-    },
-    "crypto": {
-      "BITCOIN": 332216,
-      "DOGECOIN": 0.549532,
-      "ETHEREUM": 11100.93,
-      "LITECOIN": 309.16,
-      "RIPPLE": 7.98
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Donald Trump anuluje dekrety Joego Bidena. Zamieścił ostry wpis - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblJ6ek1vSmZScmozdE1MYWFDZV9abzFBUnR3Ry1ndnZFaEFJM05NZWd4dXVUNUM5V055dF81M1NJUGxQNnFOU0hSVEVrZTI1Yl9kYXBuLV8ycFVZX2ZhRVhXcFZYXzgwYzBrTTVEQlR6YlQ2WDlpTDVHZlpQeklKa2hwTjRJSU4xclFpMGdQcVBhMlF3eDBVdVFqeWFwbElzVzhnWGl3?oc=5"
-      },
-      {
-        "title": "Tajny plan wojenny Niemiec na wypadek wojny z Rosja ujawniony - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmxQMV9RZnA2SGFUamxlOENaWlhFNjlKWW80TE9HSk5zVnRTWnA2ZkNCZ1Q5aEhrdDhBU0lHYjU5MmZkU0tpbndWd2lGUnhXQmJ5aWs1Q01hQ0NMdUpEdHpQQzNfbUFjQkVBeHBaMzJOcDN0TGZFU3JWWUZmSnR0VThwanhvczBhYnJDbkU1S1UwNDlKSGN6cS1VcDQwTzBsT1I1WGllUUk2b2dqVTNtdzdFT2pjbnlDb3hmMThXVQ?oc=5"
-      },
-      {
-        "title": "Bitwa pod partyjnym dywanem PiS. \"Morawiecki dostał kolejny strzał\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGhaZGtPN0s3cExabzl2SjVWdi1CZFEyRVoxVHBQM0pSZ2Y1WUZLcWlQX21hUmtkWnltRjBoRElWTXMtRlEwUENRUVE4aWE2amQ1S3ZrYlJiUlRBanZ1VnVPTmhwcTgyenFpdWlYR1V4czdxcU1jWlZLaDdsbFIyby12UlhralBWS3ItaWNUeDRBWWotY2xYLTBMZFRpaXpORjNEa0RsVk9pSVJRWlFpWEpoSHJQYTVsbHA1aFVMRnEycW8?oc=5"
-      },
-      {
-        "title": "Krytykuje weto Nawrockiego. Przypomina, co powiedział influencer - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFA4VnBGNHFDZHB2OWt6YTNoWEp4bnJDcVJLNDdFTi1pNEJ4cGZUWkxLRFFwSk5BWFhjWklCeGhXRlYzczBUUEdDbW9BeTZqT3oxRC0yeUJxSElTY3Z0WXFCVEZRV3BDOUNtREZGbWxjTTdZR2padTB5a3Rhb18wRnFocXZzWFdPdDZ1WUhDVG5BYk81SGlqTzY0blJQWlo0djFpa0hLUEVQSHFOY2hqdWNPT3c?oc=5"
-      },
-      {
-        "title": "Po co Orban poleciał do Putina? \"To nie tak, że Węgry nie mają wyboru\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMS0zSXgtLWZTQ1QzTXVFbllCaVlxUVZGMXVUOTRNWWVDaXRWbllhemhNQ216WWd0dkxlcWsxTHJxQWhvSVhlRU5Ud2lTbkJUb01MYnRGTGZRQzg2UXlCaDZMcnVwYlg0TFRJaTBJOERkX2dSUU9tRTJyMV9DZ0NqSDAxOU16elJob2puR2JWdjRvU0hNWmsxbA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-29 04:06:44",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Radosław Sikorski o mechanizmie weta. \"Prowadzi do paraliżu państwa\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjF1UzczS1Y3dDlaN1Q2R19OR3JpMnA4czdkMWdKaVJZSmdPN2hnTFQ3MkIxbkthb2g0M01td0hHdGlrU0NrUll5QW5jSmlsbzdIeWJKTW5PdnQ2QTl2Sk9Jb0JNSnpQN1V4M3RPQUZESkRIZEJKWWtEZDhXNnBiZW91TXphYWFSVzluTjRJMV9HNzNNRll2Snd1WnZ0RGhxb05pV3ZXY1ZjQlFZV2t3am5idmFTTXp2NDFpaG9SWDgyVWh2Njdv?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-01 09:23:10",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6624,
+      "EUR": 4.2369,
+      "GBP": 4.8375,
+      "CHF": 4.5416,
+      "JPY": 0.023427,
+      "AUD": 2.3897,
+      "CAD": 2.6088,
+      "CNY": 0.5177
+    },
+    "crypto": {
+      "BITCOIN": 315074,
+      "DOGECOIN": 0.501264,
+      "ETHEREUM": 10321.77,
+      "LITECOIN": 282.54,
+      "RIPPLE": 7.48
+    },
+    "indices": {
+      "^WIG20": 3020.91,
+      "^WIG30": 3883.83,
+      "^WIG": 3883.83,
+      "^NCINDEX": 260.46
+    },
+    "news": [
+      {
+        "title": "Plan Trumpa zmienia reguły gry. Polska gospodarka przed szansą, ale musi uniknąć pułapki [ANALIZA] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXpzbE5VR0o4ajhpLTFoVHp3aXpBTzREMXNSRTlIYVpyVGw5Umtxd3luYlFOZ2JDMVJJaUlTcG50M2lOS3lvU056NlJRbFIyRkxmN01qVWpwNW1hbXVXVndIUjZjODc0ZHlIaHh6UU9EeGxJUHZ5SVl6Nm5hRmJ0MC1QX0Q5aXQtZXJxbi1DUzRXQUhncFhBZVpYNjcxdDJtbmNxSkppQXN1WVRGbEJ5S0stS29rbGphR1BTREdPZm0tM1ZX?oc=5"
+      },
+      {
+        "title": "Terroryści ścigani za akty dywersji na kolei. Nowy ruch prokuratury - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQm1XeWZYVDYwR3RtaVpKUm00SFJYY3E3aHgtMTdqQ2tTSVhVODJvTVdkbEVVMFVnd19hRWxrWDRteHZXdWh2TGw4YzNCYU5FVVZiUnEteXlCT2cyTU5vaF93UHdMY1haSjFJeFVjYTk2SEFudlpBOXZMVEFyUnB3b3N3dnpEa3UzZktCMkttOTJfMmg5UFNBOVBXMWFrdmZiZlhEcHJCSTFYZw?oc=5"
+      },
+      {
+        "title": "Nawrocki czy Tusk? Polacy odpowiedzieli, komu bardziej ufają. Mamy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlJBUzZ6THByWGJfY2RXWnJ3amRKZUs1dENNYnJxemw4RHM1S2pkckZnUmN6OEdCN21CMHBjRy1hTnE1S1FaVW5qME9GSVdBSUk3WXZIMlRaVDduSWRfaHRxZjVBTHRoQUhHeGR5a1QzSE1faE8wS2o1WmRXbVA3UHZ5ZElNbzRuLVNfSldxZ2VxemNjOGVKeWliRS1UWENjOWx1V0N5Q0pXbjFwRnIyZS00VQ?oc=5"
+      },
+      {
+        "title": "\"Mają pewne problemy\". Trump mówił o wpływie afery w Ukrainie na rozmowy pokojowe - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVhLaXdKOWFmNWRralJpeVJxVDhVZGxmSWptQ2MxM19XdlVJQ2lOaVBpQWxPWTNZT0pXSGZ6VXBvQW16ZnlkUXotUlNpd2tJeFJHRjBEMUhuRHBRclFLMkJYSXFLZ3JNdEh5S3QzZk4xR3ZhZEQtY3lDUmVqZWg5cmZvLXJ6RWVFclpHS0dyYVVBY3BUU0RJRjlmZG9BSG02SWM5c1J2STNRQWo2eEpYU2pkTjdIQWtCWDRuRThkNndRZVNV?oc=5"
+      },
+      {
+        "title": "Węgierskie media w szoku po decyzji Nawrockiego. \"Skandal\" - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1lKdlJZaDE1RW5SV3FLdGxvNmlsWWhGSVdIR1lYZ1NpX1JGT20zUGhfbllCaWFGOER5dWplbENKMHc1cmdmcVpTb2dVQzliWFhuVEJtYmE2a2ZSdHdLWWs0X1BlOGo0S1pUQW5Ic3BUbGx6R1U1SGNyS2JaOGJCLVpWMGszcFAwM282MGpNTlU5YzVfLXBsV0hnNExtYWMxTWtGVUhHS3ZGV1JCZ1l0emJTSQ?oc=5"
       }
     ]
   }
