@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 10:14:05",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 331108,
-      "DOGECOIN": 0.545935,
-      "ETHEREUM": 10991.38,
-      "LITECOIN": 307.9,
-      "RIPPLE": 7.97
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Zmasowany atak na stolicę Ukrainy. Pilny komunikat wojska. \"Poderwano myśliwce\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWtNWDNtbUhOa19lZ2w2dW1keEphcWp1UmpUSHU1VE1GVmhEbVlxbzBfZk9INjE2dVlnY0hfSXRtbzJUUnBTWnVLWHpHd1Z4WTRoYldIZUxUeGJpYXF2S2xsYmo2amczOGNtb2p0VzA5MnNzVW9PM0NMQ3pxQkdHV2ZhczBZbGtraWtKTXF4cG5pT1BWWmdrdGQtNjhnUG5QN1Fv?oc=5"
-      },
-      {
-        "title": "Polacy marzą o nowej partii? Sondaż pokazuje, jak bardzo - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUXctbXd5S0dtcTUtelBLaVJjb1FSQk9lWkNVcnFjQllaalpfMHpSU3FHRjZtTnlxWnBGWVdMS0x4cUZ3NldZQ19GZWhJREhLaU1waDdzNFBJWS1qR2FmU184SmlOOWNmcW5PS0RNV19raS1Lb3ZYZnI1LWhDcVhHXzIwX0RtWEtxM04weW9vREo3bWIzZjl6V2lJSEg3Yl9aMldCVF9TV1ZVa0JDRm84XzhGbHNwVjJB?oc=5"
-      },
-      {
-        "title": "Dymisja Jermaka wstrząśnie Ukrainą? \"Ta sprawa osłabia Zełenskiego\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0tXNW1sMzNYVTVmbENGdkxxZlBOVVZEM3Q2Y3UyMExqdnJNSU9ha0J1ZHo1b2FnOWRIdjhtT2E2ZFV2bVV4VzFyMkZZc0FyWHVmSnNLd2tHcXA5TVNsLWZWMXYyeG45UWhzWGtXQV84YW5oNk55ZW1ScGxiUmRqeG5KbVN3eXhLNTd0cDFsdWdGaTdpdkE?oc=5"
-      },
-      {
-        "title": "Pokój w Ukrainie? Polacy bardzo sceptyczni [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2RUVS11N0lQbTlvaUhpdHpta3NlREpDV181S1R2bm50SjRPSDl6RGZDemphZmJ0LWtFZk1uQ3pnVlF0c3EzcFlRdW8tTXBBVThQelA3MTVHREFIem1qZGdQR1FtRVc4MmdnbVM2V2dDM3JQeW13blZka2I1aFRnSFRIMlBraDVoeTk0ZFNQSjl1U3Y0TFQzNWRENW1fdzQ?oc=5"
-      },
-      {
-        "title": "Krytykuje weto Nawrockiego. Przypomina, co powiedział influencer - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFA4VnBGNHFDZHB2OWt6YTNoWEp4bnJDcVJLNDdFTi1pNEJ4cGZUWkxLRFFwSk5BWFhjWklCeGhXRlYzczBUUEdDbW9BeTZqT3oxRC0yeUJxSElTY3Z0WXFCVEZRV3BDOUNtREZGbWxjTTdZR2padTB5a3Rhb18wRnFocXZzWFdPdDZ1WUhDVG5BYk81SGlqTzY0blJQWlo0djFpa0hLUEVQSHFOY2hqdWNPT3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-29 11:14:14",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2644,6 +2591,59 @@
       {
         "title": "Dniepr pod rosyjskim ostrzałem. Cztery osoby zginęły wskutek nocnego ataku - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTBIalk3MHlibzVpOWM5ekxsRDhiWVZLTXZ4dUx1eFRvMTVQZG1qeTRHbTJ2ZUlqdVBzX3JnN2pBdmZQc2pGR0hPNmZLUVUzVGhqenktSmVxak5Tdkk2cGxORS1uQlRmSmVnTk5sdUZnNS0zNjA3TTJDS0YxTmtHaEphdkw1cDFBV1NuQVduNFVZMUxnMXRpeVBKV2U?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-01 16:16:15",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6383,
+      "EUR": 4.2286,
+      "GBP": 4.8145,
+      "CHF": 4.5318,
+      "JPY": 0.023429,
+      "AUD": 2.383,
+      "CAD": 2.6017,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 311525,
+      "DOGECOIN": 0.490056,
+      "ETHEREUM": 10190.1,
+      "LITECOIN": 278.14,
+      "RIPPLE": 7.35
+    },
+    "indices": {
+      "^WIG20": 3006.98,
+      "^WIG30": 3862.31,
+      "^WIG": 3862.31,
+      "^NCINDEX": 257.68
+    },
+    "news": [
+      {
+        "title": "Nie żyje Nikodem Marecki. 11-letniego aktora żegnają zrozpaczeni rodzice. \"Jesteś moją dumą\" - Kultura Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmZTQ3VsMl92TnctNmFTR0VQbmVpWEpWOW55NGRtVTh0TDRqTk1tY01pcm5PNmx3SkpsSUItcXB1bFBsRkJEXzdFMHk2NEJmbU5DTDZYV2hmaEVjYjIzN2xhSHpXNGZMMHdSV0Z6LUt0ckg0WXUtN01XRG1xVTAwUUJRb2R6VkhORmJTNWNSdzQzemN0SmlGbjllenc5WUQ5bmo1c05rQVFERy1OMHdFYUpmMmY?oc=5"
+      },
+      {
+        "title": "Kanclerz Niemiec oddaje zabytki zrabowane z Polski. Wiemy, co wróci do naszego kraju - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPME5MaElJYmJ2UENDSFdobnpVNTk2RW9KSV8yU3BDdWdjOXZhLXd1ZUZ2Y2VReGhwQUw1YnRWOHRySVBFS0lSUWF5WmFSWHJnR1AyT2ZCUnRUbkM1LWRjXzBGamtZdzRCbFphSzVpcWZJSTZZWEZ3WXhuUUtmdERRNjBCemNJQzNMX3VpX3JlbHE3bVo5V1VRcDczT3FFWDREUFlIYzFubmF2aElMNnd4QzZCWHQzVkRjY3B1TVdR?oc=5"
+      },
+      {
+        "title": "Ministerstwo Zdrowia tnie wydatki NFZ. Zaćma, tomografia, rezonans. Te świadczenia ograniczy w 2026 r. - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWs4WldCRjZRb050Z1NqVmh2dk9od0lhcG9fSmpuVTBkREFUOGdNNjB4WVU2ZldMLUZfUlh6WmdkejUwWjBkZUpQQ2JKdWpmcm9nVVBwLWJrNVM0MEE1R05IeklkVnhHTHdXY2FrM0EzalpjRXZVLWRBSzY1S0ttSlB1ZXl4QnFGcU8ybWd2dmpoSWJwekZOZWxqcGFySUpURWJaOEhhNnE1MHpRTG5XT3Z3Mm1WbndWRUJBbHc2M3o?oc=5"
+      },
+      {
+        "title": "Remont za ścianą u prezesa PiS. Kaczyński będzie miał nowych sąsiadów - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVJBUE9OcDVfeS1FWXVxck14ZWxlVVdzMXM3ZmxiajNDNmd3Q29wMWRFTnZIT2FwSDJnb0UzTGJtQ3BwZjJpWHNKUS1TaDI3N1ozV0EtUG9RYmc0Q1VSRExtTk5meFA5ZjJBUDYtMDA2cmRROXEtcENYbVRtRUtFVGhMTDJfbUNhaDVvODM3T2FTRm05WWxveGFyTFZ0Yzk3R2pfVTVjbkhYRnpCNHdaNDZB?oc=5"
+      },
+      {
+        "title": "NATO odpowie agresywniej na hybrydowe ataki Rosji? Czołowy dowódca ujawnia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWRveUdnckl2SVY1V2lnV2UzVzl3SDgyV3RjT3ZJVjN3ZThTU3V3R1JYcWpnX3hQNENSUkp5QnEwdklULWpFcU9ZQUFxOTlhSWl2Umdhc1Z2NTBlWmc0azZ1RU9HdUh6dWVvUnFVMzFTT251bnVndEIySkN0cHFsT21xangtckt5ZU1fQWRUVzN2U2ltZWdUMkQ1SnJEcm9IQm44N0RPNTV3VDRCcWk0M3d0U0I3Z1pEUEpqU3NxT3ZESDdWVnVz?oc=5"
       }
     ]
   }
