@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-11-30 02:16:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 332630,
-      "DOGECOIN": 0.544875,
-      "ETHEREUM": 10993.84,
-      "LITECOIN": 307.88,
-      "RIPPLE": 8.06
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Katastrofa śmigłowca niedaleko Rzeszowa. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmYwV1lMbUxzRTlDX3lIZFlNVGdvbXluTUhSbEVqT2F4VTVjMFI4cl96WkluQjFOR2daaThidHE0NXFMUE0xa0IxR3FETkp6SnY3cVUzX2dGcEV6R2ZNUDVwUU5GY3ZVN085T1Z6T1U2cHdNZ0FnSC00Ykx6dzB6T0VvSVdUQTkweHBkQXBQN3FSYjk3YmhQLTd2ZEp4WDJTc29wNThqWkw1Uzdqc0ZMcjhoWHlLZw?oc=5"
-      },
-      {
-        "title": "\"Przyjdzie właściwy czas\". Czarzasty reaguje na apel Nawrockiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHlPWUVGa0dXMjF3ZGtGR2hmdHlDZ19sRHJoWDVJTXJUUWNWR09BemxpMlNtdXRrTlZtSnE2Q1Z1ODhtX21uWm9kLUVGc25hR3Qzb0g1WWNDTVI3MzJseXFId3RYazlFdTY1eEhtMVdGSjREX1pZTDNxa3piaXB0bWJnN2U2VTR2RFBVNUh2d09ELWNzZk13MlEtZkN5NmF3YjdrV3NuTFdEWTdiZXdDMzZBYjZUQTItbVdr?oc=5"
-      },
-      {
-        "title": "\"WSJ\": Kreml kusi USA kontraktami. Rozmowy o pokoju w Ukrainie mają biznesowy wymiar - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejhtbl93NUlQNFRxUV90cE1ENTdMX2N2MVVyTmluY3I0aFdFeXpiUWxtSGxfYU92N3V6MGFtbkJhcGk4dFhfemVOQ2M0ZktLcGZqZ2lfUVo4el9CN3NBMzRaR2ptN0VtNlRTN1N2UWQ4UWJGLW9vbTByakhrNGItYW80R0dFTm5jQjJCb0UyS0dEMFpKY1pUZWx2VXVFOGppUjVVSE1XcXZSbkdQbEc1bFVFR2prZGxhOElvSW9zZ1BfbEF3M1VJUV9nNjYzM1FR?oc=5"
-      },
-      {
-        "title": "Pijany wójt spowodował kolizję i uciekł. To ojciec aktorki - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb19vZUNjNV9aWUktcmVqVzc1dVA2bWNrdGowOWk5QjJ5Y2FXUktKbEZjNlI4WVNmazFCOHotYXJLeVoxamRmb1RlcEtVc0IzdjFqdDlPdkdpSWlVUTFFWlRhY3JrVjVvcTA2Q0dJWHV4TmVETUZVYjlER0VLWUYyaXZ1cW5sRUdiaHBsMEdLbWx3c3BhVkhWMVFR0gGYAUFVX3lxTE9FaUhsMmxrSlhZRWplN25ZcTNYcTNpaFNtZzM2U3ZrV0tHR0wyLXFNa2NvSFVacWs4eWk5elJvSlRwUkhuMFBWOGtwYnBWa0lzdzl4NllLdWUxQWt4V295UGl4LWxLeGdrdHFWVEhvTWNaemEzdUFBN18xX0FVak9ucXFSb2lEalg4ejRDSWtTbjBpUXM0djZ0?oc=5"
-      },
-      {
-        "title": "Papież Leon XIV odwiedził Błękitny Meczet w Stambule [ZDJĘCIA] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEYyeG8wS2toaEhIZFNFLWxpVlo2b2RsUXhBUUlHbkxkRDQ4UnJMOHcyQ0dROGxuSDlFR3dySklTZXQ2aWcxNFZSWDRGUWhIVmFBcnRDNE9HLTgzaVp1TXlWN0xPLW9MdGFiWUxoem9DcFJHajlMekFzay1kQ05sdUhlSDBCUmFzMk5GZFJTYmJScU5Fa0thUl82VVJCa2ZSQVRIM1h2QnBKWjBGZFUxUkRRcG1QNXIzeTNoWlZlVng?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-11-30 04:21:57",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Resort odpowiada na pytania Interii. Chodzi o kryzys w ochronie zdrowia. \"Różne scenariusze\" - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1dSRW5ESnVla2VfRG0xNHJFTU52RnFrY2lGeWg3eFBKelh5M3oxNERxdmttdE83alBFSDlhYUkzeXhGVGowaFFVY0NUUkE5TVIyeXJfenhJTzNsbzQyWGVudjc2U0NXNFJhdW1talhiWGVXUFhRc2luYVBGSTNyNE5ZaGNNY1Y2OEdNX3hueWFNMElxVWpGTVNwUnY2TGpkdGJkYkgxNnRUOGt3ZU9IUUx6bw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-02 09:21:46",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.6383,
+      "EUR": 4.2286,
+      "GBP": 4.8145,
+      "CHF": 4.5318,
+      "JPY": 0.023429,
+      "AUD": 2.383,
+      "CAD": 2.6017,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 315886,
+      "DOGECOIN": 0.492411,
+      "ETHEREUM": 10175.87,
+      "LITECOIN": 283.2,
+      "RIPPLE": 7.29
+    },
+    "indices": {
+      "^WIG20": 2984.36,
+      "^WIG30": 3835.07,
+      "^WIG": 3835.07,
+      "^NCINDEX": 260.06
+    },
+    "news": [
+      {
+        "title": "Zabójstwo Jarosława Ziętary. Sąd podjął decyzję w sprawie dwóch osób - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmt5Rnl4SW1STnUzb2FnMlVReEZnQUF4ZjdXMGVXaXEtTmVsdFNJOVh3M1VIY1h3U3FvV213OTZGVW5Tc19HbFhIWGl2WndCRlppMWVnRTg5OGZsS0pkeVJITXFCaEU5ZjZrelJxb1FseGtRbExzSjYzV1NFVkFyQ2ppUGRVdV9Val9ZQjVwWTJQUTNwTTJPY3FibUJRRWNJaW50WV9OX1o3MmJTSEE?oc=5"
+      },
+      {
+        "title": "Spotkanie Tuska i Merza. Trzy priorytety współpracy. Wspomnieli też o reparacjach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUxhUXluaGtWMUwyeVpZYTNZVlByQ2lMV21ISGNCVVpyNXdkVUladXp1cXZoVDVfNTdORGNhelVvN3luUlJLNGZkdExXVlgyWU5BVWIyREZUbFRrWUZ4T2Y0THhRbTVRV05vaXhQWTZLVDktTUdubU04T0I1Sm4weHZ3TDFSRmRZS201S2phSl9Hc1Y0eUpwc2pLSThXQ2hna1V6cFRya1c2OHhZTTFxdGN1TzV3YTZMQ2tyYVRDT00tMTg4?oc=5"
+      },
+      {
+        "title": "Kolejne weto prezydenta pod ustawą o kryptowalutach. Jest już reakcja ministra finansów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFVISFlPOWRuRHR0OHVaQ2Jmb19qSnZXVzJNTVZzbUJNYllPTGhUNWNVbDhjUUVWTzYtQXp1eUV6enZMN0NLUkRQNXhtT3BrcnNuR196WlBXeEZoeXRBb2JobkNYajR3Q21yTjM4bDRwbnhDOW1UNHNUZHJKN1RwNXpmSkdFRnhGZ3FpbEwzeXJaSC12bmRFRm9GVWhsX2c4U3Z5cE5NR3RNQm1xWUY3TWVtdS1LOHI3bTAzeVRCNFZiTnJnS0E?oc=5"
+      },
+      {
+        "title": "Plan pokojowy Donalda Trumpa. Na czym skupili się przedstawiciele USA i Ukrainy podczas rozmów na Florydzie? - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFlzV1Q5NGYyVlBwQmVQVE43akhSV0g5dVZKWmlOekJ1M25sV3RZaDI3bFZkQXNYcWdteUFkN2tDdlNGZ0lnbVNQT2Z6LXFJZlZ0WVBNWGlpejFsck5LU1FtX283VzlmbmZNcElUbEJYeHZMTE5nUHN5V0cwWWRjcnY3Q1M0S2xaUkhrUmtVREVhNXh3WWtqX1lua2plbVFSWHZUV3Rjc3doMGlrZExFLWpqNTQ1LUJQU2Qw?oc=5"
+      },
+      {
+        "title": "Przewoził ropę z Rosji. Seria eksplozji na kolejnym tankowcu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnNPR09GYl8tMmNEYTBLVWYxenVtNEltMTZMZTVGOVpaeG9GUjlsWWltUnhRQUI3MnoxdEhXckgzRklITDEwWXB0RUFTZm1YdUtaTlUxSUswVklUb0E2UEN1MDVmcWk4QWY4UFdFdTllcHNhRlUxTTBwbnNwNVR6aXU2bnVQbDBGazJuaFNZY013OTU3U2dGYm1XNEZjQnR4V3JBUnhmNHBKSjRkR0hJVEp6anBRNDZ0OWhZcE8yNWVKNFM0U2dHTEhzWlN2MTl6a1E?oc=5"
       }
     ]
   }
