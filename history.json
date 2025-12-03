@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 02:20:37",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 319406,
-      "DOGECOIN": 0.510206,
-      "ETHEREUM": 10396.64,
-      "LITECOIN": 287.87,
-      "RIPPLE": 7.6
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Amerykańsko-ukraińskie spotkanie na Florydzie. Czy koniec wojny jest bliski? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ090MGNGMTBiZEhsZUJQWkl6cGU4TXlxSmNmSDJPaXJ5XzN5dDAwY1RBNTJibjFOWkRTN19wX0trcTBpdkhWdWNVMkwzMFJBZkxiYTU1TTU5N2RhQm1ZT1pnOW9rQUQ2Y2JvNGtCVEpORHk1Z0hhUGRhLU53dTNpT3JVdm5SMW1ZR3Rzd3lBOUNMTGRTaG53TFlaX1BteGRXa19DU0x5YUt3czRubWpyMjdxdWtoajNvVjNpMW13Uno?oc=5"
-      },
-      {
-        "title": "Katastrofa śmigłowca pod Rzeszowem. Wiadomo, kim były ofiary - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHhMb01YS0tkRTlhelZZQk9fQnQxVk1qS2d3c1dkTlVwUm5hcmRrbEpBajBKUXhVaUhvbW85am1TUGw0eGFaclJRUDdOS0tVVlpyWnUtcHhsa0hEQlJVM0YyVlNaXzlZR3F1WHA1bzhJckwyWFVMRnhLVzFsOERfcFM2Zy00M01Kc01BZHA5MUp1bVZYcGNfYnNtS1dseDRmYzFr?oc=5"
-      },
-      {
-        "title": "\"Oceniamy to jako błąd\". Doradca Nawrockiego wskazuje na Orbana - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWFIcFptT19nMzdPeFJHbmsxcHFUM0tIYUF0dzktVGY1c2FROTk0LWlyTlJqcGNBekgzUTBNcjNLOXVBVXY2aW9WSFNHY2R6c3RreUFYdHVCT1pobG03MWs1SWE1Qmo4anM2dm5rQ28taENfM2pkckFzZEZKWkZMY1k1amlJVlJxTTZpR2ctbGIzTFVaRFpvckxsaFNYcllmUG4xcmJhRnZjS2d4czZaWXlwVERFY2ZxY3RN?oc=5"
-      },
-      {
-        "title": "Karambol na S2 pod Warszawą. Wśród rannych są dzieci - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUVGWDdmMmFkUTBjU2xVM3o3UE14TlpUUVhadXBMbk42ZmFhMWJ4MVhkUnktd0NwSVc2NnZGWmR0aklPbTNKYmFMYXhUUlRGenh6MEZjbzJ4UWExMVVsVko5M2VCNlhsVmhuQU1BeGxJc2hkX201YmpVUHcwb20zODV2a3hpejd4eGdmOWFvNzFZamlzRU41VzNyS3JMSjZJa2k3YXpWZFplTjV1UW55Y0tpeE9MWTg?oc=5"
-      },
-      {
-        "title": "Tajemnicza śmierć w Częstochowie. Media: Ciało 20-latki wisiało na płocie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUU9SaWdZNXU0UjdkVFRneEJ3aWlhWUdfQ3JDYjMydXI5Zm5aQllaeTQ1RnpaNnl4ZXE3WWNXVWRkemk0Z0NoRy1vZzdWbXdHUWRJRzAtNXl0S3pCZ05TRWhfbEd4WDk2czFkclo4NzhyME9kNW1sR1NkSVBCSTRNRW9HWDJteHZRYU1MWktUU3U1bHhiVUQ3NXF6V0x0ZUlHYWRXY29qU1k0ajRFd2Qw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-01 04:45:26",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Rada Europejska i PE osiągnęły porozumienie. Zbliża się koniec importu rosyjskiego gazu - Onet",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGNqN0tmLVdTMUpJaXF2dTBvdmlGZU54aHFZd256SjB6NlUxZ2otWVlNLWltRktWbUd0Q0hMcUZsalNTOE9QcUM2VHhMOHY0Njd1MDhlMVNNVkxOd3R4U0pjUV80R0pfM1RCOUtqcDdGZXN5a0x3SndXS0g3T3VMMmJTMUJHN3J6cGhlMHp5WG1WbnZxTjhMbmJoY0FRaW9ZUU80bUJjUVNYaENrR1V2aFJKaWxjcEM1QWoxak9VYUN5ODJzMUxpMi1xTGdLWGN0RnpVbE9WV003YWcw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-03 09:20:44",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6512,
+      "EUR": 4.239,
+      "GBP": 4.8228,
+      "CHF": 4.5398,
+      "JPY": 0.02341,
+      "AUD": 2.3909,
+      "CAD": 2.6065,
+      "CNY": 0.5163
+    },
+    "crypto": {
+      "BITCOIN": 337495,
+      "DOGECOIN": 0.546321,
+      "ETHEREUM": 11101.04,
+      "LITECOIN": 309.69,
+      "RIPPLE": 7.96
+    },
+    "indices": {
+      "^WIG20": 2964.37,
+      "^WIG30": 3815.66,
+      "^WIG": 3815.66,
+      "^NCINDEX": 258.35
+    },
+    "news": [
+      {
+        "title": "Ustawa łańcuchowa. Weto Karola Nawrockiego upadnie w Sejmie? \"Nie wykluczałbym\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkxtcnJXVDNhc2dnazJkSVlEbVJja2VERmpUTW83eGJLN1JHWmFjSTg3TW9tYmdBNnV5dXlBZ2tkVXJyaXRral82eERSbWI3QXhvckxZb21McFByLTROMlRvZS1ZSEhmaW5MTWMxcjdna2FiZkZZbkw0aVJKVWxxczIyNE9PTVVwRE9YZ3A0cW5Sa192X1pEVElmaVVrdDRwc3FfLTNiMA?oc=5"
+      },
+      {
+        "title": "Rozmowy USA — Rosja w Moskwie zakończone. Doradca Putina sugeruje, czego chce Kreml - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWVld2dDeHV3c3BDSVl2SlNESkNFUHV4bGpodVB0cFZKWEh3NXRpMmhzUDJIVk91bzA0eGpBMEt3TFlZd2F6UjhoWUZzWGYzcDdMNkFIYkhIN2lndEhITHhFTnJUblZzdVR3OW45MGhqd2hMZzZSVEF0em9TelpkY0w5Rl9pX29DTEY4N204N1U4TzdYNEQ4dDMyanUxbldjcThSWmpSTTdPVEd5b0RJUERHNnpqTGttQVZoWFc2clg?oc=5"
+      },
+      {
+        "title": "Czy Polacy wierzą w niezależność Karola Nawrockiego? Wyniki mogą zmartwić prezydenta [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjZMZHhYTHdsYVhnZHZVM3ZEZm94VE83ZV9YekxSUXQ2cnFRc013Z2oxT0plMlA5Rk90UXJaRG45a0hneFBHc2U1VkFfblpmc0hnV0Y5U3NhT3NlRUJ4Y0xnQURxSDY2eUZOMzkzWWJzQ1NyWld6X2FaVlZtbkFTOTF6WW1PWkE0b25zS2dwUXo5RGxGb2VrUjFOMk1iVExiUGFHekFfcEloczRjeHQ4LTFZS3pNTTBhbWhUMGtBd3pRRzB3STY0ZU5mcjY1LTVJVlZDY2EzRUU5dnRWMFdB?oc=5"
+      },
+      {
+        "title": "ABW rozbiła siatkę \"kamerkowców\". Wydano list gończy za szefem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWRGYkNFWWZsMjE3Z19yc1Ntc29sejVfeFRtRWpjeUFZaFFPT0Y1eDZtbGgtRHMtbjRJN3ZxVHduVTAwUUVSTjBBT2V0S2x6bUFIREotbDRlSkM1bzZXdnZfVU5FQ0tPTGg1b1o4QnB2NmVvQnFiRHFSWHJaRXczLWQ4czlXNndGbHJNTC1MRXdOUDA4NXVIWmVoRmVJQjRhNmdqcg?oc=5"
+      },
+      {
+        "title": "Zjawisko rozszerzy się na kolejne rejony. Ostrzeżenie synoptyków - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXlPNGEtZ0pHS2pvdGRvN0gtUGI4anF1UzhlVWcwM0YxYkgyNEtnZXAzeGd1SEt6TFQzY2syVVNDYVRLTDg1SkVRUUlqRVAyRzBUNnFPUTgtdDFIVzVpc0dDQkdUeWpBOTNmM2xOazR1V0ZJZktDUEYyT01XZHM4emI5QUlLbXNlMFVxa0IyQnEzZS1ZSWVKZC11TGtBSkdoSDdUQUg5YjFlYktFWVNybQ?oc=5"
       }
     ]
   }
