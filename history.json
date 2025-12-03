@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 17:20:46",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.6383,
-      "EUR": 4.2286,
-      "GBP": 4.8145,
-      "CHF": 4.5318,
-      "JPY": 0.023429,
-      "AUD": 2.383,
-      "CAD": 2.6017,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 306131,
-      "DOGECOIN": 0.484615,
-      "ETHEREUM": 9921.73,
-      "LITECOIN": 274.04,
-      "RIPPLE": 7.25
-    },
-    "indices": {
-      "^WIG20": 3007.41,
-      "^WIG30": 3862.24,
-      "^WIG": 3862.24,
-      "^NCINDEX": 257.15
-    },
-    "news": [
-      {
-        "title": "Kanclerz Niemiec oddaje zabytki zrabowane z Polski. Wiemy, co wróci do naszego kraju - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPME5MaElJYmJ2UENDSFdobnpVNTk2RW9KSV8yU3BDdWdjOXZhLXd1ZUZ2Y2VReGhwQUw1YnRWOHRySVBFS0lSUWF5WmFSWHJnR1AyT2ZCUnRUbkM1LWRjXzBGamtZdzRCbFphSzVpcWZJSTZZWEZ3WXhuUUtmdERRNjBCemNJQzNMX3VpX3JlbHE3bVo5V1VRcDczT3FFWDREUFlIYzFubmF2aElMNnd4QzZCWHQzVkRjY3B1TVdR?oc=5"
-      },
-      {
-        "title": "Wicepremier reaguje na decyzję Nawrockiego. Ma radę w sprawie Orbana - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0pWQjhPVjR6TTJ5RncyWmpDVjRERGhqQVM1OXpNemhpd3BoQ05RSDZzQ2xmS2gtVVF2eWNtQUJ2UU55R1JacEhpdGhvb2V2NVpNU2t4ZE55WXRJLXVXMHFORF8tV25feEtIZEVsSGU5Z3NxX3V4bGhMdmZZZkdsbjFYSU91b3NvdDFNLVhuMHhFR0U3TnZkVElQUWQyUElpaEpVSmVFQzlfYXoxWWx2U3dxWDZIbWhhc28wUFdlWUxWX1ZWcUFfaQ?oc=5"
-      },
-      {
-        "title": "Remont za ścianą u prezesa PiS. Kaczyński będzie miał nowych sąsiadów - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVJBUE9OcDVfeS1FWXVxck14ZWxlVVdzMXM3ZmxiajNDNmd3Q29wMWRFTnZIT2FwSDJnb0UzTGJtQ3BwZjJpWHNKUS1TaDI3N1ozV0EtUG9RYmc0Q1VSRExtTk5meFA5ZjJBUDYtMDA2cmRROXEtcENYbVRtRUtFVGhMTDJfbUNhaDVvODM3T2FTRm05WWxveGFyTFZ0Yzk3R2pfVTVjbkhYRnpCNHdaNDZB?oc=5"
-      },
-      {
-        "title": "Policja znalazła ciało mężczyzny. To porwany przez kiboli GieKSy Marek Kubaczka z Katowic - Katowice.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXA4OGR0SkZfRXl0RXBtMENKc0tBNFA1V0FXWlFNeDFYYkxVS3lNTTZqcFBYM1doSElLUTNUeUdtdWNsSDB5a2dRSjRyMVEyNzA5Wmluc1VlTWQ4S2FfbjhfaHZnQzJPcDNqUmFPOVVCSk1IbVVldzJGeTZCMEZ5ajVKS2p4SnIzWktEemlnLXBKY3JVWjNUNmJJaXFaV2QwUkNjSTBabU5DR0dhMzhBV2FmaVhhNDNnTHNNNWppbXU?oc=5"
-      },
-      {
-        "title": "Alert RCB. Rząd odradza podróże do tego kraju - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenVQSzdlazNzNDhtQWdCSC00OTdXdGxlVll1VTlvRlRYSmsxUDlmVUoxS3NnS2tHa1laa0tnZUpEMzZQN1gtaUdVV0dtMGRwMWVpM0l4Tm5lbU5HTUtWVEE5aTFPVS1hcWZJbHdsWDNTRExKby0zYmJGODk4ZEdHRjQ1d1lFc1M4Z29lZg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-01 18:16:28",
     "weather": {
       "Warsaw": "brak danych",
@@ -2640,6 +2587,59 @@
       {
         "title": "Zderzenie tramwajów w Krakowie. Ponad 30 osób poszkodowanych - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzJsWlFJRGtQWW1Oc0loNkNJZklXNGNqSktXTkFZV29KdjZNcV9ONnVjU0lKOUxCRmFqLUxFWE9yQmhXZTdMaHFibG9SUUxqbVE1NkpaeWtzQVFrb0dKQmRMT2xBR1V1Q3FYWXFzaE9udy1pUi1sX3AybktkbFJnSmdxVFRKbl9DMGQ0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-03 23:14:44",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6333,
+      "EUR": 4.2312,
+      "GBP": 4.8244,
+      "CHF": 4.5312,
+      "JPY": 0.023346,
+      "AUD": 2.3913,
+      "CAD": 2.6037,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 339108,
+      "DOGECOIN": 0.5499,
+      "ETHEREUM": 11444.68,
+      "LITECOIN": 311.46,
+      "RIPPLE": 7.98
+    },
+    "indices": {
+      "^WIG20": 2945.82,
+      "^WIG30": 3788.66,
+      "^WIG": 3788.66,
+      "^NCINDEX": 256.48
+    },
+    "news": [
+      {
+        "title": "Weto prezydenta w sprawie psów na łańcuchu. Sejm je odrzuci? - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamdKa05iX29mWDVzcVh4Y1RWNHQ1bi02SnB5d1c2dW5GYTVjUTQtN3RXUTdqTVpYLUFTVlVzT0ZlZ2ZiR0xzUnhUVmJvdGRPTmhNU3NPSWUyMlBRbnVYel94VXVvNllScXF0UnZPNUkzNUE3Y2phNHhTWVJUVUU0NnpnX00xSi00YUowdFVyd0cwU2JPMnhrUjl6ajlzU2hJMFpNd2NCbHFKMmRaOU90TQ?oc=5"
+      },
+      {
+        "title": "Zderzenie tramwajów w Krakowie. Jest ponad trzydziestu rannych, teren wypadku bada policja - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVpsZnJ6VnFoYm9LZzBCc1ZjdjJ6X3M3X0RtNHpFOC0xMi1zbmQzTk43NG8xeDIxMGRYbF82X1phTXl2THZxWVNoSEQyVVZacjNVRFBUbHNZdEo2WUtFRlpWZGduNjJRRTVvbGN4NHVEMm4wZGhoTXVvWFlLcWNuS0ZqMnVpNWYxNzE0VS13dDQ2TEU0N0xXTmhfSWIxQXhJWlFOektQa0VvUWc?oc=5"
+      },
+      {
+        "title": "Wyroki neosędziów niepodważalne? Sąd Najwyższy obalił zasadę prawną i uderzył w europejskie trybunały - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUHB2RWx2SXpVWm1OeHR6anVFNHIxVFhfd3MyanBSM1NmWTNmSjhiYmFPZV96WDZ5a1lWajFZWU5RbjNDekc2UWpVb3pzam1JMXVxRTc4U3BqUHd2TXJJLXd1SXBFS0FGVlZsSFp3eUN2SUZLLV9oRmNWU0tQd21nQXRvXzJZUVZydEs0UFBESjVLdkNXbGhPZ2pCeHBzVFVTS0tKcnBKVVlEY3hZaTVKTzZqVXNIb2hMWnZZMHFrMnNDR002d29tZWRoSkZUTkVOVTNMTQ?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński ukarany przez komisję etyki. Powodem słowa na miesięcznicy smoleńskiej - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjItZmtRbEYyT3hublduZjVncG9wMDkzTDVnZC0zRi01VE1yZURVTWpkcXlPMW02V2hpcWRsVm1wMmt0ZEVpOGc5WDZqSi1hNFdZZEJHazY4UUNFblFxdV9QRXZqUEYwTE1EUjdKdEZiOGQyMllmQ3J4REU1amRzdktFWjhaT1dDNkh6cjBMRXRFRldRZklWNGxURXhELXd2Q0l1T283SnhsOUxOUGpoYXFFaFM0ZDVsTXJ0R3BqZHUwN05seDEzVnc1VTlFdVdZZmNlWXhR?oc=5"
+      },
+      {
+        "title": "Prezydent \"wstępnie ustalił\" z Trumpem. Chce, by Polska dostarczała gaz - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEUyeWRoRjk2SFA4MFIxRjV2ZEpsSlBDZkd0ZUcxVkpOU1l2cWs2MmVfZ3VaNTNEYkRvMldiTk1DeVNYOW9rV1MzSXYtQy1mWks5X1NESXFSd3ozdkFlbjdqN2VVaDYtcl9GTUR1ZF90Z1Q2WEpzd3BhM280TC1zODV3aC0wVWhLTjdlZlZ4MjZGaXNnOGNzQWx3U25nX05lWnA5TEFMcVcxUVZjNl9KTE54R3ZPSFhCLTIzaXB2VDZVRnJTdXpGaE5OS29wclJwaW44RzdNMHVhaDdvZTJr?oc=5"
       }
     ]
   }
