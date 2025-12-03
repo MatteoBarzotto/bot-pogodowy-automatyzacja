@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 04:45:26",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.6624,
-      "EUR": 4.2369,
-      "GBP": 4.8375,
-      "CHF": 4.5416,
-      "JPY": 0.023427,
-      "AUD": 2.3897,
-      "CAD": 2.6088,
-      "CNY": 0.5177
-    },
-    "crypto": {
-      "BITCOIN": 315764,
-      "DOGECOIN": 0.502734,
-      "ETHEREUM": 10343.39,
-      "LITECOIN": 285.09,
-      "RIPPLE": 7.49
-    },
-    "indices": {
-      "^WIG20": 3001.96,
-      "^WIG30": 3862.43,
-      "^WIG": 3862.43,
-      "^NCINDEX": 259.98
-    },
-    "news": [
-      {
-        "title": "Amerykańsko-ukraińskie spotkanie na Florydzie. Czy koniec wojny jest bliski? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ090MGNGMTBiZEhsZUJQWkl6cGU4TXlxSmNmSDJPaXJ5XzN5dDAwY1RBNTJibjFOWkRTN19wX0trcTBpdkhWdWNVMkwzMFJBZkxiYTU1TTU5N2RhQm1ZT1pnOW9rQUQ2Y2JvNGtCVEpORHk1Z0hhUGRhLU53dTNpT3JVdm5SMW1ZR3Rzd3lBOUNMTGRTaG53TFlaX1BteGRXa19DU0x5YUt3czRubWpyMjdxdWtoajNvVjNpMW13Uno?oc=5"
-      },
-      {
-        "title": "Karambol na S2 pod Warszawą. Wśród rannych są dzieci - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUVGWDdmMmFkUTBjU2xVM3o3UE14TlpUUVhadXBMbk42ZmFhMWJ4MVhkUnktd0NwSVc2NnZGWmR0aklPbTNKYmFMYXhUUlRGenh6MEZjbzJ4UWExMVVsVko5M2VCNlhsVmhuQU1BeGxJc2hkX201YmpVUHcwb20zODV2a3hpejd4eGdmOWFvNzFZamlzRU41VzNyS3JMSjZJa2k3YXpWZFplTjV1UW55Y0tpeE9MWTg?oc=5"
-      },
-      {
-        "title": "Katastrofa śmigłowca pod Rzeszowem. Wiadomo, kim były ofiary - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHhMb01YS0tkRTlhelZZQk9fQnQxVk1qS2d3c1dkTlVwUm5hcmRrbEpBajBKUXhVaUhvbW85am1TUGw0eGFaclJRUDdOS0tVVlpyWnUtcHhsa0hEQlJVM0YyVlNaXzlZR3F1WHA1bzhJckwyWFVMRnhLVzFsOERfcFM2Zy00M01Kc01BZHA5MUp1bVZYcGNfYnNtS1dseDRmYzFr?oc=5"
-      },
-      {
-        "title": "Tajemnicza śmierć w Częstochowie. Media: Ciało 20-latki wisiało na płocie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUU9SaWdZNXU0UjdkVFRneEJ3aWlhWUdfQ3JDYjMydXI5Zm5aQllaeTQ1RnpaNnl4ZXE3WWNXVWRkemk0Z0NoRy1vZzdWbXdHUWRJRzAtNXl0S3pCZ05TRWhfbEd4WDk2czFkclo4NzhyME9kNW1sR1NkSVBCSTRNRW9HWDJteHZRYU1MWktUU3U1bHhiVUQ3NXF6V0x0ZUlHYWRXY29qU1k0ajRFd2Qw?oc=5"
-      },
-      {
-        "title": "Bogusław Chrabota: Mateusz Morawiecki już poza PiS? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2VPWllnR19CdlhmcmxnX3ptdDU5eXFHcEphU0VqbVBDNTVXbXQ3cEthTHBGWWF0RTVRTU04d0hZdWpLYzFVallxdE9xd2t4T19MQXM5R055Tks4MExXSlhCT1dxRVFWQ1lXTnJDaXo5Zmt4WmdkejZ3ZkJUNmlnMFdBZDIxLWpOMVdoQXd5SW5ZT0ZZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-01 05:44:00",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2639,6 +2586,59 @@
       {
         "title": "Zjawisko rozszerzy się na kolejne rejony. Ostrzeżenie synoptyków - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXlPNGEtZ0pHS2pvdGRvN0gtUGI4anF1UzhlVWcwM0YxYkgyNEtnZXAzeGd1SEt6TFQzY2syVVNDYVRLTDg1SkVRUUlqRVAyRzBUNnFPUTgtdDFIVzVpc0dDQkdUeWpBOTNmM2xOazR1V0ZJZktDUEYyT01XZHM4emI5QUlLbXNlMFVxa0IyQnEzZS1ZSWVKZC11TGtBSkdoSDdUQUg5YjFlYktFWVNybQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-03 10:18:52",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6512,
+      "EUR": 4.239,
+      "GBP": 4.8228,
+      "CHF": 4.5398,
+      "JPY": 0.02341,
+      "AUD": 2.3909,
+      "CAD": 2.6065,
+      "CNY": 0.5163
+    },
+    "crypto": {
+      "BITCOIN": 337416,
+      "DOGECOIN": 0.546203,
+      "ETHEREUM": 11091.69,
+      "LITECOIN": 309.73,
+      "RIPPLE": 7.94
+    },
+    "indices": {
+      "^WIG20": 2966.58,
+      "^WIG30": 3816.81,
+      "^WIG": 3816.81,
+      "^NCINDEX": 257.37
+    },
+    "news": [
+      {
+        "title": "Weto w sprawie ustawy łańcuchowej. Marszałek Sejmu zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGJTMk9hRnNhTExmMjBqdE9PdXlxeEFLUUVMYjYyTU9HTjMwdW1HQ3MyY0NNdVpjbTFHWndENlhMVWl1d2hwWmQ3T0g0THoxM01kR29iVkVFQlNkQ1RfMTd2OFkyZVFnWGN4OThhUDl0OGc5dDZLdDZ3Y3pXdWJZRHZRQk96U1Jua05GTVJaaFBuQkJRNEtMVnlWM2dWT0ZDbXpFNlNRNmZVV0UtU1FCZGZIeklFTzFUb1I2T0pMMHI2Zw?oc=5"
+      },
+      {
+        "title": "Polska i Niemcy ogłaszają wspólny pakiet dla Ukrainy. Radosław Sikorski podał kwotę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1JPZWFGYTRQejZQczRvWnNCb2NxWEExa21Id1JBdGQ2WVRDZ2hjSHU0VjdvZXN2aVplVWlMSXk3RkQ1NG1ab2RWVmRaZHAzMnFnTEtqRkQyVjJZeHM3MG9lZmRTNkhUdzZMQnB3cm1SYWVGZ2dYT2RXQWtmbUNJRUF0STlXTWU3SkFZUEhGZzN3akF1cjY1SjlOczRXTFoxazNUMEsxUS0zNUZFQlhvMHZMN3JMYURWdHN1bXdRZXRvM0lycHJBZ1NXb0I2X2Y0S0pnWkg0NVBZT3ZKUEE?oc=5"
+      },
+      {
+        "title": "Rozmowy USA — Rosja w Moskwie zakończone. Doradca Putina sugeruje, czego chce Kreml - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWVld2dDeHV3c3BDSVl2SlNESkNFUHV4bGpodVB0cFZKWEh3NXRpMmhzUDJIVk91bzA0eGpBMEt3TFlZd2F6UjhoWUZzWGYzcDdMNkFIYkhIN2lndEhITHhFTnJUblZzdVR3OW45MGhqd2hMZzZSVEF0em9TelpkY0w5Rl9pX29DTEY4N204N1U4TzdYNEQ4dDMyanUxbldjcThSWmpSTTdPVEd5b0RJUERHNnpqTGttQVZoWFc2clg?oc=5"
+      },
+      {
+        "title": "Sławomir Mentzen uderza w Donalda Tuska w sprawie kryptowalut. \"Wiedzą tyle, co ja o balecie\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1dUQnFkWkVHdTJoS05xSnpOb1N2M0VuSm1KbkVVSGJXOHZVamFSVUo4ZGhlb29XZ20zY2dUZVNtekdqelhQRHB4Ymo0Z0RtRDE2VDhGSENNbGJ2XzhqTHpRMXNCNnp3YWxrMEZmbUJxdHN2MWJhQXJxYldCMXdtTlBSek9zNVFuVWdCVTJmY2FmemJtVGZrY29XYUJPZ0lJQlhkVA?oc=5"
+      },
+      {
+        "title": "Trybunał Stanu dla Zbigniewa Ziobry. Jest ruch Włodzimierza Czarzastego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0F2T2V2cXluWFNSRmYxMzQtZW0wVzBXZ05FVkdoZDMtN0xMeTRaWmVuZzZ4SjhqY1R3dWIwaXRSX2c2cnhtMXp2bjVqTng2NWZFLTduSDl1Z0V3X1JnWllLbGoyTGc1YTdmdzBQYklMWkNVNGtpWG5MaFlIOVNxU250SWJDYnlTSzZqeE1wVm1IZ2xOR0JCZk5HajdmQXIzMHhOUHN0cldvejd2dGUtSQ?oc=5"
       }
     ]
   }
