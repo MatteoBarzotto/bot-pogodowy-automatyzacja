@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 18:16:28",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6383,
-      "EUR": 4.2286,
-      "GBP": 4.8145,
-      "CHF": 4.5318,
-      "JPY": 0.023429,
-      "AUD": 2.383,
-      "CAD": 2.6017,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 307499,
-      "DOGECOIN": 0.483198,
-      "ETHEREUM": 9934.69,
-      "LITECOIN": 274.83,
-      "RIPPLE": 7.26
-    },
-    "indices": {
-      "^WIG20": 3007.41,
-      "^WIG30": 3862.24,
-      "^WIG": 3862.24,
-      "^NCINDEX": 258.7
-    },
-    "news": [
-      {
-        "title": "Kanclerz Niemiec oddaje zabytki zrabowane z Polski. Wiemy, co wróci do naszego kraju - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPME5MaElJYmJ2UENDSFdobnpVNTk2RW9KSV8yU3BDdWdjOXZhLXd1ZUZ2Y2VReGhwQUw1YnRWOHRySVBFS0lSUWF5WmFSWHJnR1AyT2ZCUnRUbkM1LWRjXzBGamtZdzRCbFphSzVpcWZJSTZZWEZ3WXhuUUtmdERRNjBCemNJQzNMX3VpX3JlbHE3bVo5V1VRcDczT3FFWDREUFlIYzFubmF2aElMNnd4QzZCWHQzVkRjY3B1TVdR?oc=5"
-      },
-      {
-        "title": "\"MSZ odradza wszelkie podróże\". Nowy alert RCB - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenVQSzdlazNzNDhtQWdCSC00OTdXdGxlVll1VTlvRlRYSmsxUDlmVUoxS3NnS2tHa1laa0tnZUpEMzZQN1gtaUdVV0dtMGRwMWVpM0l4Tm5lbU5HTUtWVEE5aTFPVS1hcWZJbHdsWDNTRExKby0zYmJGODk4ZEdHRjQ1d1lFc1M4Z29lZg?oc=5"
-      },
-      {
-        "title": "Policja znalazła ciało mężczyzny. To porwany przez kiboli GieKSy Marek Kubaczka z Katowic - Katowice.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXA4OGR0SkZfRXl0RXBtMENKc0tBNFA1V0FXWlFNeDFYYkxVS3lNTTZqcFBYM1doSElLUTNUeUdtdWNsSDB5a2dRSjRyMVEyNzA5Wmluc1VlTWQ4S2FfbjhfaHZnQzJPcDNqUmFPOVVCSk1IbVVldzJGeTZCMEZ5ajVKS2p4SnIzWktEemlnLXBKY3JVWjNUNmJJaXFaV2QwUkNjSTBabU5DR0dhMzhBV2FmaVhhNDNnTHNNNWppbXU?oc=5"
-      },
-      {
-        "title": "Prawdziwy plan USA na rzecz \"pokoju\". Trump szykuje się na wielkie interesy z Rosją - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3QwT2NtSWV4OUpHYmE1Mm0taGJ5Q0hmWkhIUjh1dHJCWE9VeENLbG12dm9ObTBJd25faHFPZ25OT09SM2N2SGpvTFI5c3V5QzIyR28zbmY2WjdMa1h4d1lxemJyZjI3Y3NET1hoRU11SlRBZUNleDhKREFUNlI3WkdIRjBQZWdqd0hXY0pPaEEzUkk5WmlhOGNtWlY0c3RpMnZqWWk1VjNGRUwwUFE?oc=5"
-      },
-      {
-        "title": "Remont za ścianą u prezesa PiS. Kaczyński będzie miał nowych sąsiadów - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVJBUE9OcDVfeS1FWXVxck14ZWxlVVdzMXM3ZmxiajNDNmd3Q29wMWRFTnZIT2FwSDJnb0UzTGJtQ3BwZjJpWHNKUS1TaDI3N1ozV0EtUG9RYmc0Q1VSRExtTk5meFA5ZjJBUDYtMDA2cmRROXEtcENYbVRtRUtFVGhMTDJfbUNhaDVvODM3T2FTRm05WWxveGFyTFZ0Yzk3R2pfVTVjbkhYRnpCNHdaNDZB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-01 19:24:02",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Prezydent \"wstępnie ustalił\" z Trumpem. Chce, by Polska dostarczała gaz - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEUyeWRoRjk2SFA4MFIxRjV2ZEpsSlBDZkd0ZUcxVkpOU1l2cWs2MmVfZ3VaNTNEYkRvMldiTk1DeVNYOW9rV1MzSXYtQy1mWks5X1NESXFSd3ozdkFlbjdqN2VVaDYtcl9GTUR1ZF90Z1Q2WEpzd3BhM280TC1zODV3aC0wVWhLTjdlZlZ4MjZGaXNnOGNzQWx3U25nX05lWnA5TEFMcVcxUVZjNl9KTE54R3ZPSFhCLTIzaXB2VDZVRnJTdXpGaE5OS29wclJwaW44RzdNMHVhaDdvZTJr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-04 00:11:59",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6333,
+      "EUR": 4.2312,
+      "GBP": 4.8244,
+      "CHF": 4.5312,
+      "JPY": 0.023346,
+      "AUD": 2.3913,
+      "CAD": 2.6037,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 340175,
+      "DOGECOIN": 0.553456,
+      "ETHEREUM": 11566.12,
+      "LITECOIN": 312.47,
+      "RIPPLE": 8.0
+    },
+    "indices": {
+      "^WIG20": 2945.82,
+      "^WIG30": 3788.66,
+      "^WIG": 3788.66,
+      "^NCINDEX": 256.48
+    },
+    "news": [
+      {
+        "title": "Weto prezydenta w sprawie psów na łańcuchu. Sejm je odrzuci? - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamdKa05iX29mWDVzcVh4Y1RWNHQ1bi02SnB5d1c2dW5GYTVjUTQtN3RXUTdqTVpYLUFTVlVzT0ZlZ2ZiR0xzUnhUVmJvdGRPTmhNU3NPSWUyMlBRbnVYel94VXVvNllScXF0UnZPNUkzNUE3Y2phNHhTWVJUVUU0NnpnX00xSi00YUowdFVyd0cwU2JPMnhrUjl6ajlzU2hJMFpNd2NCbHFKMmRaOU90TQ?oc=5"
+      },
+      {
+        "title": "Rzecznik Kremla po rozmowach pokojowych. Mówi o \"błędzie\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi0xc0k4U2ZFY05uX083ZzgydWRGSDlDMVdqQ3gzdlBqeVYyYXZuUGhvWXUzcFJwaUNLYXhMRnh1TGc0MWx5dGtEWWRYUl9SaGFPQ1J4UVNWejhfYkIxWlRBenVpYkR6cms0ZGczUXhmb01ZcmJ0WUR6UHh5OUl1eE50emd1RVlWZzU2bXppZkZfUnZxemhhMmYwc3hVa3lWSUVZQUJ6MFZMclVDZzktdjJjX2Zzdw?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński ukarany przez komisję etyki. Powodem słowa na miesięcznicy smoleńskiej - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjItZmtRbEYyT3hublduZjVncG9wMDkzTDVnZC0zRi01VE1yZURVTWpkcXlPMW02V2hpcWRsVm1wMmt0ZEVpOGc5WDZqSi1hNFdZZEJHazY4UUNFblFxdV9QRXZqUEYwTE1EUjdKdEZiOGQyMllmQ3J4REU1amRzdktFWjhaT1dDNkh6cjBMRXRFRldRZklWNGxURXhELXd2Q0l1T283SnhsOUxOUGpoYXFFaFM0ZDVsTXJ0R3BqZHUwN05seDEzVnc1VTlFdVdZZmNlWXhR?oc=5"
+      },
+      {
+        "title": "Zderzenie tramwajów w Krakowie. Ponad 30 osób rannych. 'Ci, którzy stali, polecieli do przodu' - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVpsZnJ6VnFoYm9LZzBCc1ZjdjJ6X3M3X0RtNHpFOC0xMi1zbmQzTk43NG8xeDIxMGRYbF82X1phTXl2THZxWVNoSEQyVVZacjNVRFBUbHNZdEo2WUtFRlpWZGduNjJRRTVvbGN4NHVEMm4wZGhoTXVvWFlLcWNuS0ZqMnVpNWYxNzE0VS13dDQ2TEU0N0xXTmhfSWIxQXhJWlFOektQa0VvUWc?oc=5"
+      },
+      {
+        "title": "Wyroki neosędziów niepodważalne? Sąd Najwyższy obalił zasadę prawną i uderzył w europejskie trybunały - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUHB2RWx2SXpVWm1OeHR6anVFNHIxVFhfd3MyanBSM1NmWTNmSjhiYmFPZV96WDZ5a1lWajFZWU5RbjNDekc2UWpVb3pzam1JMXVxRTc4U3BqUHd2TXJJLXd1SXBFS0FGVlZsSFp3eUN2SUZLLV9oRmNWU0tQd21nQXRvXzJZUVZydEs0UFBESjVLdkNXbGhPZ2pCeHBzVFVTS0tKcnBKVVlEY3hZaTVKTzZqVXNIb2hMWnZZMHFrMnNDR002d29tZWRoSkZUTkVOVTNMTQ?oc=5"
       }
     ]
   }
