@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2025-12-02 15:16:27",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.6512,
-      "EUR": 4.239,
-      "GBP": 4.8228,
-      "CHF": 4.5398,
-      "JPY": 0.02341,
-      "AUD": 2.3909,
-      "CAD": 2.6065,
-      "CNY": 0.5163
-    },
-    "crypto": {
-      "BITCOIN": 322342,
-      "DOGECOIN": 0.504907,
-      "ETHEREUM": 10425.93,
-      "LITECOIN": 289.54,
-      "RIPPLE": 7.48
-    },
-    "indices": {},
-    "news": [
-      {
-        "title": "Prezydent odpowiada premierowi. Nawrocki ostro krytykuje propozycję szefa rządu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTZOSmM4OV8ydnhxMGp3MERYNlEzMTJLRWduSmNyU0tIX3BYUjNRSzFuUlEySkJBN21ydEJtRmtQTGdYWHZEN1ZqemNHS1NJdk9DTm9NSnZuT2wwTUtUVkt5RUFiajB0ekZXN3VVRnlLa2ZRUVktYVpEY1pic0FpSkZjZVJJNTdCNkozeVVSOUVyVVczSnFoX0ZhQkMwcWhNODNoVTFGVDlmZ0tueXBmaE1rZUd2aE1GTXc?oc=5"
-      },
-      {
-        "title": "Rosyjski bankier ostrzega: procesy będą trwały pół wieku - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmJOMzVVWU9rLWJQT0Y4MHhGYUlZazBtMC1PNkFNc09qYXM2dFVINTAzTG9Fcmg1NlR6a3lucFRkZG9hdW8taXdWTVdiclR6WmVNQmVtY2xXcFM1S2hZRmFRQVhKMjhIa043RkdaRGxUZXBFQ2hPWXJsM2ZFSG9tNk1tUTQtVFhZMjJZWUI0d090VUtjZEpNaTZldWFlR09hNjQ2bl9LSnZTQV9pTFA4?oc=5"
-      },
-      {
-        "title": "Jest komunikat prokuratury po publikacji Onetu. Nowe fakty w sprawie rosyjskiej siatki szpiegowskiej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdDJPWlRjZjl5MmhQRzZuMDIwLTUxRE1QNktORGtheVBEeV9WTVZ3YXZXYlF3d0RaUjdCb3NpRzNpTk5wTVlPU0xyeWFsdDdkZmcxcTNiaktvWXpMY2lZVUE1VFdmVzIwVUw0WHU4bUJYckt3LVFUSElKRmI4bzh5UkpNUHk5QVRQckZVdUhaTW5IMUVJdTc0cGlyWlplOEVuZ0ZIMjhsR0ZtQThQcV9IS0FwZjhtXzhFaGd3ZGE5a0VQam1udFo0bFVwQ3RWMXd2clpjS2FEUl8wbTdmSUFOb1Vn?oc=5"
-      },
-      {
-        "title": "\"Wspieranie kampanii radykalnej prawicy\". Tusk komentuje weto prezydenta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlp3SkctMWhFTlRjTXFQbnhyOGpZNTVXbGRzM0JGNmdRYVpOQXVqOVJDelJsVzZaZFdaVzlXeGMxbkZpcmlWRm5rTXltaXhvdjdVYjlhbmZ6dUZOc1loV0xWd19fZ2NEem5OSFItY0RKYkJnSFh5VTFWcW1kc0F2ZkJxempmTVptSTlRUkt0UTZEYTZGUENXck1mUl91Uy10RllHU19kV1o4UW83?oc=5"
-      },
-      {
-        "title": "Zderzenie sześciu aut. Utrudnienia na A4 w kierunku Wrocławia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXRteXFNZGZKY1J5eGRidVpsOHMtUXZCejBaTnRmT19PeHVmdnhhS1F4cFhvdTBSREVIMDZPczlMMFRmU0JuTi1wV0tGdUQwVUZzalJtTklHaFpJZVVtN1BIbjNxVkw0ME1KUVMyTC0ycC1DWGUwUnE3cG05c3hEUzhVYzdjQ0RRNWY0aUVORlFadkQ5STNvOHo4cGpmYkZJeEFDS1Zn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-02 16:16:52",
     "weather": {
       "Warsaw": "brak danych",
@@ -2640,6 +2592,59 @@
       {
         "title": "Ryszard Terlecki zdradził, jak PiS zagłosuje nad wetem prezydenta - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1lEd2gyNjFBWDRVY1Z4Yk9tLVVINW9TUDRWMU5aY0preHhST3JCZWtPNzBoR2xpbVpRNU9JRkZMMG9GLWNiSWNsNzNaVm1xdmR6SmJKeHNXWEFnOWNER2JucWFPNEFSUmdPNmhuY2RtQmhGN0NRMEltc09waHREUkN6amFPaG9VbTRuLXBOb1FBRjZPdUZoLWpfeU0tSjJoUmszcFI4dGNZa1lMbWhDc0h2bXMyZmZ0anpGVXc5MVBGejhSU1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-04 21:17:14",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6221,
+      "EUR": 4.2299,
+      "GBP": 4.8342,
+      "CHF": 4.529,
+      "JPY": 0.023397,
+      "AUD": 2.3963,
+      "CAD": 2.5951,
+      "CNY": 0.5121
+    },
+    "crypto": {
+      "BITCOIN": 334369,
+      "DOGECOIN": 0.537455,
+      "ETHEREUM": 11320.16,
+      "LITECOIN": 303.1,
+      "RIPPLE": 7.61
+    },
+    "indices": {
+      "^WIG20": 2959.44,
+      "^WIG30": 3797.73,
+      "^WIG": 3797.73,
+      "^NCINDEX": 255.62
+    },
+    "news": [
+      {
+        "title": "Donald Tusk zabrał głos na szczycie medycznym. \"Jesteśmy tutaj po to\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOVNQWlFhb2VQeFJzUUlPLUI3Nld2clRWODJKMnFXSnNBS1M2TndLXzdJbjBvbksxc3dHd0xEbUNHS3BEdTJMSGRtaWI0NnVHem5teENwWUQ1N0tnQU1leDVhVTRFSGhGaWhpOGlhakR6aHdVb1hsU0h6ZjZrQ3dUd3lRb3YwTUxyQjhJbmdIemJxMnY4VXVfcEZ4RS1JT1BpSzBxT3VWRzRwNGE3Vm0tRVdPa0pJaXRrUDRQUm1XNHhWSl9Fdnp1aQ?oc=5"
+      },
+      {
+        "title": "Ziobro już nie na Węgrzech. \"Jestem wolnym człowiekiem\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFh0b2IwMFo3WUlkM01CcDNNby1DaExtdV9NUmQxQng5UWV6TENybjVlX1J2cGx1UGFZVnBkd0FKUXFaTTgyemZaVk9yQmEzcDA3TlNneFI3OWl1V3lxMEZnUG5IcEI1c0ZzRVd0N1VyY0lwM3hMNHNuRFE0RjRrVHBXczd3QzFkMjJjY3ZYWHBKQ3FoZWpiMTB3TQ?oc=5"
+      },
+      {
+        "title": "Premier chce utajnienia części posiedzenia Sejmu. Zwrócił się z wnioskiem do marszałka - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWViSHMyX1VTRVY3cHd1VWMxUGZFdC1ybWNNWWppNjlNMWxNeXdRdEQ1S2YybmUxcW8yN3JzRnIydFVoMlpqM0ttX2J4amtadUFKV2J0ejR1WnJQc3ZjOXlWSGhLdFhVMVc0RkI4OXo1azdPaUJrWG9rYzRoeHdTMGZTUzIxV0JZSEluZDg3aTFBQndKZTlLZ1NqVVAtQy1leUFfd0UzYUpQUUsxNG96MW1ZdUJqeTQ?oc=5"
+      },
+      {
+        "title": "Miliardy z Funduszu Medycznego na NFZ. Nieoficjalnie: będzie podpis prezydenta - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnhkWjFjMmV1THNBZVVPeFRjYk5ncVlCdVpfdWFjSndsWmRYS0lCNDUtV2RKa1VuQ2RNM1VsSGt3SHcxQmxjRnRzMjRYS2VPNVRjVUljUzVSX2QxTHpqM0Q5RC1PakJRYm5pd2hJS1VCRkNIMmE0Sl9qZWhRdHBQV0NMZDhhN01EbEI4X1dfMHgybVFWSTVaRXJIRzFoRHA1b1ZHYURFZnBLYzZmU1IyTEt2UnVrb0pVdHVJ?oc=5"
+      },
+      {
+        "title": "Niespodziewane zachowanie Władimira Putina. Tuż po przylocie do Indii - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWZfZVhOWVR4NmJvRkpoeFpDRkQwM2RJQkJyUDJsdHFnVnJ2ZzAxZWV5dm4wQk5ObzRWazVocy1DN29NLVlnQnBFMVllVFNreWsyLVBKOHM5U3FqX0RqZndMNy1rTjlfeVdzVEZwSFpDYm13X0JDMWFOTFhPdk9vVXlwcnhoVWNFcXZneWZvVV9sRXRzRFZOTWNPVmlMdEZfR3FfNGhGYzVpdzZZYnhWbjdVQmt5VkljUEtoUDNId1BrYzZlc3JFaGlaWmxLVHc?oc=5"
       }
     ]
   }
