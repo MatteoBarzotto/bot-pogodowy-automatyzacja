@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 21:14:57",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6383,
-      "EUR": 4.2286,
-      "GBP": 4.8145,
-      "CHF": 4.5318,
-      "JPY": 0.023429,
-      "AUD": 2.383,
-      "CAD": 2.6017,
-      "CNY": 0.5144
-    },
-    "crypto": {
-      "BITCOIN": 311969,
-      "DOGECOIN": 0.489835,
-      "ETHEREUM": 10062.71,
-      "LITECOIN": 279.34,
-      "RIPPLE": 7.34
-    },
-    "indices": {
-      "^WIG20": 3007.41,
-      "^WIG30": 3862.24,
-      "^WIG": 3862.24,
-      "^NCINDEX": 258.7
-    },
-    "news": [
-      {
-        "title": "Donald Tusk wbija szpilę prezydentowi. \"Dobrze, że chociaż tego nie może zawetować\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUxkMDh6RXN2R2RtbU5zd2JXb1dPeDVlbmUzOWNjZDkxZDRCZUtWZ0xzaEExaVpmZ3VPMk03XzFwTTM2ejJHQ0tjcEt2eVZ6MzhleTA4aEk3cy1IY2hGal9qSXgwRDVZM0dxekN2clp1MWZzY3E4R1FVVTJ5ODBuQ2czeG5IRDE1a3FlQnBQRzBkSm1XNVU5cDJlakhGNFh2TGxJeld4a3JRNzU2VEZyMThvUWxaUjRBQ1JV?oc=5"
-      },
-      {
-        "title": "Kanclerz Niemiec oddaje zabytki zrabowane z Polski. Wiemy, co wróci do naszego kraju - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPME5MaElJYmJ2UENDSFdobnpVNTk2RW9KSV8yU3BDdWdjOXZhLXd1ZUZ2Y2VReGhwQUw1YnRWOHRySVBFS0lSUWF5WmFSWHJnR1AyT2ZCUnRUbkM1LWRjXzBGamtZdzRCbFphSzVpcWZJSTZZWEZ3WXhuUUtmdERRNjBCemNJQzNMX3VpX3JlbHE3bVo5V1VRcDczT3FFWDREUFlIYzFubmF2aElMNnd4QzZCWHQzVkRjY3B1TVdR?oc=5"
-      },
-      {
-        "title": "Nie wszystkim spodobała się decyzja Nawrockiego. \"Mamy pierwszy zgrzyt\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3I1aUpMenZXd3MydUhpOEh1LURtZmJsSUNPSkc3M0xaVWdnc0JrcTRCeDVjYXlBczZyZXNJRzV5aTBGMElPY2hSVzdYTW1mbVZGZWYtVWVSMFRzcmpZbHhRUHVlMzZyMmdEQWpUMVF0VmlwYzZ2OFJyMDhwNDYzRFhBellpZVRoSUNHQ09fbC1ON3IxV003azVpcEZTR0U?oc=5"
-      },
-      {
-        "title": "\"MSZ odradza wszelkie podróże\". Nowy alert RCB - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenVQSzdlazNzNDhtQWdCSC00OTdXdGxlVll1VTlvRlRYSmsxUDlmVUoxS3NnS2tHa1laa0tnZUpEMzZQN1gtaUdVV0dtMGRwMWVpM0l4Tm5lbU5HTUtWVEE5aTFPVS1hcWZJbHdsWDNTRExKby0zYmJGODk4ZEdHRjQ1d1lFc1M4Z29lZg?oc=5"
-      },
-      {
-        "title": "Prezydent odmówił awansów, minister przyznaje dodatki finansowe - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3V2VFhrZU1saTFON2FtdjZlbV93WUU1UklHR2pBUGFKRXNYNDdsRW4zYWVNZmFfaTRkQ1hfaUpFRjJYYTdyM3ktWTRhcnVEcEdsb3U5a2lNcFZBczF3bmNXMFRMWWtpUnVhcnc2UmR4NVNleUx1bWxvNEszSXkxWlppOFIzVjlHTGRLVUIzaXZMdzl2NkNJZkJrcC1KV1ZIYkRPREFreGNDTTlxVGkzQkVhMTY5NGFf?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-01 22:12:15",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "\"Demokracja na prezydenckim łańcuchu\". Waldemar Żurek uderza w Karola Nawrockiego - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW82MHU5Z0hJZk1rQ25rQldpTmVUU1FGNHB4ekFjREM3U0RnanNIUlREeFVYLVJXNjd4dC0xMjFIVW5xQUc0MDJlVG5pc1BaOTNCUHJtSW9OTzBrdDEwTHZKWU5IZndhRG1SSlI3T3puMTFKY01EZXYzVEJFV29wdUJKNFdna1JZYy1JQVRubjFqa0FlWWIwZldZcXFiQlMtQnV2dENvaWU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-04 05:24:53",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6333,
+      "EUR": 4.2312,
+      "GBP": 4.8244,
+      "CHF": 4.5312,
+      "JPY": 0.023346,
+      "AUD": 2.3913,
+      "CAD": 2.6037,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 338568,
+      "DOGECOIN": 0.547357,
+      "ETHEREUM": 11622.27,
+      "LITECOIN": 311.52,
+      "RIPPLE": 7.96
+    },
+    "indices": {
+      "^WIG20": 2945.82,
+      "^WIG30": 3788.66,
+      "^WIG": 3788.66,
+      "^NCINDEX": 256.48
+    },
+    "news": [
+      {
+        "title": "\"Prezydent jest na końcu łańcucha\". Siemoniak o wecie Nawrockiego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXdXNlBzdUZnMVY2eUU1Qm1hanZFT3g3TUw0TW1aVlVZNHdUbHN2U21POWpxU0ZPQWtJbUhsbDNfZEstWWRXXzN4SVVIUy1xeWhBMUFpOWM3c1FhSlN5YlZkbnRVVjNXbWZFU29XZlN1ZXdrYUMyY1Z6d3Q5X1kxMXNERDFVUk1DOW4weUUwYzJHTTItNWxpTV9POGxVUDhCV25mWmx6dnB5X0pSOTZR?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński ukarany przez komisję etyki. Powodem słowa na miesięcznicy smoleńskiej - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjItZmtRbEYyT3hublduZjVncG9wMDkzTDVnZC0zRi01VE1yZURVTWpkcXlPMW02V2hpcWRsVm1wMmt0ZEVpOGc5WDZqSi1hNFdZZEJHazY4UUNFblFxdV9QRXZqUEYwTE1EUjdKdEZiOGQyMllmQ3J4REU1amRzdktFWjhaT1dDNkh6cjBMRXRFRldRZklWNGxURXhELXd2Q0l1T283SnhsOUxOUGpoYXFFaFM0ZDVsTXJ0R3BqZHUwN05seDEzVnc1VTlFdVdZZmNlWXhR?oc=5"
+      },
+      {
+        "title": "Trump ocenia spotkanie w Moskwie. Padło, czego chce Putin - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEMtbS1QR0l0SXhKd3B1U0tidGpIcGpCVXIwb1o5T1lXR0NSNkZKbWN5bGxRdVJ4R0FRY1RCVU9SUW9jOTRJWG9iRVJmQzQtNVhFLUFlT2ZKR3JIRXdEQk1DVzYzdkJfVGRzRnUtd2g5SUktakhnUTM4ME9DVmVrT3hvdTRhMldKMzlSZEliVW1tRG5jRXVzZnV1Sk51OW8?oc=5"
+      },
+      {
+        "title": "Zderzenie tramwajów w Krakowie. Ponad 30 osób rannych. 'Ci, którzy stali, polecieli do przodu' - krakow.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVpsZnJ6VnFoYm9LZzBCc1ZjdjJ6X3M3X0RtNHpFOC0xMi1zbmQzTk43NG8xeDIxMGRYbF82X1phTXl2THZxWVNoSEQyVVZacjNVRFBUbHNZdEo2WUtFRlpWZGduNjJRRTVvbGN4NHVEMm4wZGhoTXVvWFlLcWNuS0ZqMnVpNWYxNzE0VS13dDQ2TEU0N0xXTmhfSWIxQXhJWlFOektQa0VvUWc?oc=5"
+      },
+      {
+        "title": "Możemy tylko pomarzyć o powrocie zimy. Prognozy są nieubłagane [POGODA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3JhdnhnQU5Sa3UxWGFZWEE2Qi05a24xazFTOG1ISUc1T1MwR1U5bkphMmg3VUU2RXFHS3otWVYtZkJ0Uzd0RElvbU5IS3gwM1pDLTFJYVlocTJTZGJfNi1YVUF2NjZWRVd2QXdidnVHc1FpU3A3SWtZY2Z1MmRjOHotMk96S29DNG9zbktoMjFDdFpsN2F2dXNGMmRrOEUwWGpnSkVYdnNyR05TLUNULW9MbExEcjVENnV2R0RNSnRzaE1DalE?oc=5"
       }
     ]
   }
