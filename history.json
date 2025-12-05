@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-02 23:13:08",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.6512,
-      "EUR": 4.239,
-      "GBP": 4.8228,
-      "CHF": 4.5398,
-      "JPY": 0.02341,
-      "AUD": 2.3909,
-      "CAD": 2.6065,
-      "CNY": 0.5163
-    },
-    "crypto": {
-      "BITCOIN": 334112,
-      "DOGECOIN": 0.533188,
-      "ETHEREUM": 10957.16,
-      "LITECOIN": 302.73,
-      "RIPPLE": 7.9
-    },
-    "indices": {
-      "^WIG20": 2967.35,
-      "^WIG30": 3815.6,
-      "^WIG": 3815.6,
-      "^NCINDEX": 258.49
-    },
-    "news": [
-      {
-        "title": "Putin po spotkaniu z doradcami Trumpa: \" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1VPU3dHQnptbm44S29VYXJMcGJvOTVtRXJTRVBqd3VsWEtfVDBmVmJwaGFxT2x0OG9JUWJsOTgzSHRLcEhSSFg5amZ3UHVuWFdyd3FzVW40R0FlUDRwbWpsVnZGQWxoVjlIMjVycEZSSTlQY29XZGVERWZnQXVBTkItUnQtX1hndDVXZkx0UzFGcmZjYnlObFZIZHFZUQ?oc=5"
-      },
-      {
-        "title": "Cień pod nosem i wymowna grzywka. Sławomir Mentzen szydzi z Donalda Tuska - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRldLT0xKTkVXc01QYnVWeElLNkZUNzVpeUpPVm56UTdXdDBfbmtId3dyc25HSjVRekxYXzVscUs4V2RhZUMzQ0xHOEZ4M3JOSV94ZWtlRG9PMXpSamljZ1QxYlUwWUo5Yy0wX0lmaF90aFc3S3I1eTVKR2FmM1hHakhrdnI1LW5NUTZtemdaY3N3OWxVWW5iX3ZNTjY2aGJ2SUhtQ0swQTBhdTAtR0VB?oc=5"
-      },
-      {
-        "title": "Prezydent podpisał zakaz hodowli zwierząt na futra. Branża podziękowała - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUlI4aERtQk9kcy1ZMEJ3TW1Bck45WV9kem1rQ2RiRkxxOTVZR0xrRUtwN3VmekFfSDU1WVdPRlhCUDQxRHY5Ymg3NHVHQzlTRzY2Qmd5RG13SV9IZUlHOWtiRGY2S0pVdWNFRmhkQmdoYzV2YjhvVE84cF84TlhMTmVWeDNsTmlua1M4dnIyc3MzZEM1QVUyUXpvN3lUVHFkeXpCdW1jREt6TUlZM0JycmxIejdOVFZzdUJOMVNzbGZiR1k?oc=5"
-      },
-      {
-        "title": "Biały Dom potwierdza presję na dyktatora Wenezueli. Donald Trump dał mu mało czasu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY0N0NUo3Um1kY1VmbVBsUjN4U2tLRTc4NFNUZzhXaTN0N2RzeXNKOFBSOFVad3kzcGtnRE9vTnJKV1EtNkl2NFJaRkJsdU9UMnU0S3p4N3ZMdHU2Vm9OUkRTbmZYS0lXbWdqTTlXb041bW4wcnJTSUFtRVdLWVp1TE1hNkJfTlU0ZnFubU1WVTV4alcwejVYSGx6dmFKZFBya2xnZzltNW1vREt6UjhPV0tPS3BrX3NPWGJCeFpOODZULTREbUpUaw?oc=5"
-      },
-      {
-        "title": "Komisja PE odrzuciła wniosek ws. Romanowskiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWluMWJyME5ZTWdfMlJPbFRPbVFsODR1bXIxWlJNU3NxTzhCSGwtWmpWNTRfX3ZGT21MNUF2bm9zc0FieEprckotVmt6bURxTDdMMDVDODJOWjd3YkZONThQUm9zWVRqSUZWNlhIcjR1TG11SWlSZzFMbUxZaUdORGpocTFnVUxKUF83R0l0Q1BwZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-03 00:13:33",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Awaria w elektrowni Opole. Na miejscu zastępy strażaków - Onet",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2VNWHd5ako3Q1Q4SWp4WS1tbFNiQ3NsSkdnenFYN2c1dExUclMwa3REelFoMnp1eVlpTGEteTVaTDhmNEl6Vm1OVmhOWjNFdHQzMUF1NHJhWmM2M3hvTGlyVDFSLUZvQUE3RVJ3WDY0YXhINWpzSFBCcVpuQVZRbUVrNTJwcGhCeVFEM0xoOW1NSTR2eGdKMm1udHlWQzVnd08xVkdUWFZqUW9JSWJtZjN3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 07:23:34",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6221,
+      "EUR": 4.2299,
+      "GBP": 4.8342,
+      "CHF": 4.529,
+      "JPY": 0.023397,
+      "AUD": 2.3963,
+      "CAD": 2.5951,
+      "CNY": 0.5121
+    },
+    "crypto": {
+      "BITCOIN": 334325,
+      "DOGECOIN": 0.533338,
+      "ETHEREUM": 11495.63,
+      "LITECOIN": 303.59,
+      "RIPPLE": 7.58
+    },
+    "indices": {
+      "^WIG20": 2959.44,
+      "^WIG30": 3797.73,
+      "^WIG": 3797.73,
+      "^NCINDEX": 255.62
+    },
+    "news": [
+      {
+        "title": "Pobyt Zbigniewa Ziobry w Budapeszcie. Polacy jasno wyrazili swoje zdanie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjlidERnY2txa1NoUXdWV0pDTDNQWHU5SVJpcDhJSDhSdHo1b29odlZsZkVqUFFsZXh3SkNpR2tQaDc1Mm1qWjlsZTlSWm9BYkc5cWR0ZjdpNmdHZ1RlODNjUXJlMWdQLXhHcF8wSE12ZVFsMnJIVEhJX3Z6WDllUUh3dkZZcHVydldEWGs5Y09fdlZ2anAxS0VnRUNfYng2NnRmalNZYXlRak5HNUUxaGswTC03bThPaU5HcUZ5djZXZWhRdXJiLXRkN1lPbk5tNHc?oc=5"
+      },
+      {
+        "title": "Premier chce utajnienia części posiedzenia Sejmu. Zwrócił się z wnioskiem do marszałka - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWViSHMyX1VTRVY3cHd1VWMxUGZFdC1ybWNNWWppNjlNMWxNeXdRdEQ1S2YybmUxcW8yN3JzRnIydFVoMlpqM0ttX2J4amtadUFKV2J0ejR1WnJQc3ZjOXlWSGhLdFhVMVc0RkI4OXo1azdPaUJrWG9rYzRoeHdTMGZTUzIxV0JZSEluZDg3aTFBQndKZTlLZ1NqVVAtQy1leUFfd0UzYUpQUUsxNG96MW1ZdUJqeTQ?oc=5"
+      },
+      {
+        "title": "Awaria w Elektrowni Opole. Straż pożarna w akcji, sytuacja opanowana - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNME5vdkZVN0E0ZVRTYko2TWJfak1sajJBdUR2VXk3SFE2eVMyaUZPc0dlM0s2QlJqSHRxWGF1d0c0TExZMXV3ekw3UjhLV3FUem00amF4cUZMRkJJQW5tTUhIYkVIMjRDbnFHQWY3VUZqZnBGNDJCMW5uVjBIRmxVZ09wdXhkRGZ5TWxLLVB3bzF6UjRudkZJQ25MYUVfYjYzOUpoRG5n0gGkAUFVX3lxTE9VTTNsN0pYOWxDQVE2QUNtWTh0ZW42alNMSFdIZ05XUml3bERtendxYnF3cXBLWnAwa1hsRzgwZlFkQW9KWTYtbDUxQmJKcEtUTEN2NUtxaWp1djR0SWY5NEgtLVc1QmEtU0dGTXJWQkFzVlFETTFSdEF3N25WY3Q5aDVhTTJFTENJRFZFaU5pWTUyZVpycjVYZHF0Ql9kZGFqbWNH?oc=5"
+      },
+      {
+        "title": "\"Jedyny władca tego królestwa\". CBA prześwietla rodzinne interesy posła Telusa - lodz.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONERzU2dReHM5TUxRUXFmY1ZhMHRQTGNyeElhQ1NPdVBjVzJXZ1AyNjFGTjRSVl9rUU9VZldNOC1qWncyS2VwanNGNXRXa2tDZUo5eXV1Vmtlem51d0FuZlFOVm13WGNEcVJVWlhVR09kMUt4RjloTENjeV9DT1RaSVZKNl9CSkhzUmVEdGx3dkJYM0Q4alZkOVBYVWh2S082RkctU0VzYXNWcVRxNnNN?oc=5"
+      },
+      {
+        "title": "Incydent w trakcie lotu Zełenskiego. Media: irlandzkie służby podejrzewają atak hybrydowy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYk1BQUpNTGdDWU5NaE1nTVpGaVhicXN3bmdkSnZCUVJQRGNPOEo2b21yMTMyR1h1Nk9lZlNIdzhXTlY0Ym1MMHk0ZjZhTXNuTXg2N3V3SEhxMV9MdTdwRTBUX1k1anhzVnVDa1NsV2VzN01ibGJyVzBaVnpDWmM3SDZodDZ6T2FMeFNpc0EtclV0RFRlX0lYak1kV1Z0ZFdLc1VSYlYyRzJGVmtBTTd0Z19rckljaGdmUGQzTEVDeXo3LW9ORzU1aEs2TWVFcWVL?oc=5"
       }
     ]
   }
