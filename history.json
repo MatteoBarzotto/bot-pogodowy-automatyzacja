@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-03 12:14:03",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6333,
-      "EUR": 4.2312,
-      "GBP": 4.8244,
-      "CHF": 4.5312,
-      "JPY": 0.023346,
-      "AUD": 2.3913,
-      "CAD": 2.6037,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 336840,
-      "DOGECOIN": 0.542265,
-      "ETHEREUM": 11103.16,
-      "LITECOIN": 308.75,
-      "RIPPLE": 7.88
-    },
-    "indices": {
-      "^WIG20": 2969.92,
-      "^WIG30": 3817.76,
-      "^WIG": 3817.76,
-      "^NCINDEX": 257.1
-    },
-    "news": [
-      {
-        "title": "Jarosław Kaczyński o wecie prezydenta w sprawie ustawy łańcuchowej. Padła deklaracja - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFp3ZHhMZ2dXV2lxNkYzRmxWZXBrNWhnZXJWTUgwS0MyZ0dCWjJaOURHWC1VeFVDVjhxOHVUOU5mN2JuVExtbDlqUnZXbERLd1pSU3RYRW01NHd5REI4a18ySVdfLWFaay1iWmcwX1k3ZE15S2ktUGRpVTZmYkpTbmdGcGZkWFkxY05MV2M0WjUzMXpMVzgxQ1VLbS02elZWMHAzZ1otWHZtVkVFWHE5aWtiY1pENTNETGtadTZWS19ORzBsZ1JCOVNtTW9nb20xY0wwTy0zREtkZ1BxZzFz?oc=5"
-      },
-      {
-        "title": "Co pokazały rozmowy Putin-Witkoff? \"Bardzo niebezpieczny sygnał dla Polski\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1JjUGxxaWljcTg2M2RQRTRUQzNUc1c4R1MtNE1hcFZLd0otYWRKVGNNZnhFYW1wejVVR0RjSE02TDIxQW5hSUlEMnh4VUk4aEw5R0lRekw0bHdkWjY4M1FaT0k5MThPVEpNSlpxR1NSN2JRenJUYWdSQVV5YVVfV0V2OTlxWjZXLXhVbkZXaXp3S0xIV0JIbjFYNVVqZkhN?oc=5"
-      },
-      {
-        "title": "Deklaracja wsparcia dla Ukrainy. Wspólny pakiet Polski i Niemiec - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dpVmlaT3pqZTRRTUhzNnZiT1JhS25JS0xTMlBrWUtyWTAxNVBpRW9USWJ6MmZOSjQ0NUVSN3NXUTNacUtGa2hWTFk1bFZ2Z3NrdHNTUEFfMFRXeG1wVWdhOEdmTDBHT2tZVzFENF9CZXA3aWJ4WUlpdE96bDN2TzU3S2NuQXpNVmJiLXBPX3hQOEJ4bFV4TjhtdE9xVmp1RzJKaGVIb0NJZw?oc=5"
-      },
-      {
-        "title": "Zamrożone aktywa Rosji. Belgia stawia sprawę jasno - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzk2VWlRQzloeFBmZm5lUlpDZGlEYUoyTFpqZmVRVUJPci1JMW1NYlllX1ZPZlJvd0JiNXBvVnNVd0hVRlRFbmhQalh2Q1plNmhnZVQwVFpnNC0xNG10ZHNXbEphSGdpQkNGa1NxYTBaOUlXaHpRUjh3cjJYTTNUQlBsSzdvbzFCdzk2Q0pRR1ZNdmZhMUNvTWtCRkdMMkplTXh0Mkp2bw?oc=5"
-      },
-      {
-        "title": "Zełenski nie spotka się z Witkoffem i Kushnerem, bo tak chciał Putin? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY29YbXg0aWZkaVdVYXlzT1FYS2NjR3JDNkxXcXZlZi1YaGZfbURjc3ktdWRpVlJ1TzYzMmVrQ2R2cy1uRDhtOUhfU09NenhTalhJbHF4SU5CSFNROThpOEZJUVZPdFNtTW1fOGt5OC1xTENYcjVMejlhc0Z2ZUQyVUNmR0FzSXB2aVVwMjBrUE1uYmVQbkRSR3M4REN4bDZ2TUlXRA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-03 13:30:54",
     "weather": {
       "Warsaw": "Warsaw: +6°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Drony nad bazą atomowych okrętów podwodnych we Francji. Wojsko otworzyło do nich ogień - Onet",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTVY0UENNdGpCclN3VERfVE5yM2RSd05aMGhsNXNnbjdSV05HUm4yZ0s2TERRby0zaV9idEFMX29wRzZFT3BuZEFOdWJxbnJITHdoZ1pqZXR1UUF4RTl3bkRnR244WFUzaVBsaHNVT3FMUkRhZUlEcGRCN2twcm9vZEdscVhyN2M5UnVEZDh5cWM2M1J4TTFJR3REbVZtMlJhOXdqVjR3R3VtVkJtSEFVMFV6VGdrR2pfWDZMLUtrUVY5UGJ1STdrdHc3cTlyZU9rdExhdEp1bGtiVmtUeW84NDhB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 18:14:07",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 322590,
+      "DOGECOIN": 0.504944,
+      "ETHEREUM": 10973.49,
+      "LITECOIN": 292.38,
+      "RIPPLE": 7.4
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "Weto Nawrockiego ws. kryptowalut. Sejm zagłosował - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmFvOEotNXkzTk1URkJjLUdBanQ2Q1lTbmUxeU8zMXFZeURKVnhEd1JfSnJUS3VTWTlNRlJJaFFvTGdDX3ExalpIWXp1S0JKMmpMSXFXdGpTQW1PdzNOWGs0TDh6eVNtWUNzdXBWR2s2V21MLVNrNUZSMDVvc0lVZTJhZF84dlpHb0lJbkZPbGZGaEVBTzkwOW9MLXZ5R2puWkwtVw?oc=5"
+      },
+      {
+        "title": "Budżet na 2026 rok. Sejm zdecydował - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFg3d0ZXU1R5dWJyMlhTenFLdTV0Q3hfMWxNV0dIRWp6dDZVX042RVBvdmtKS0dQSkRHUmIybTdoSGNsZWRmVFBVTUhqc0ZIcFNYVmh1S1UxOTJLOEwzdmowQ3dBaklCdXI5Z0hUYmVTa2VxMGJoUlUzS3NkbElpSl9ZaUJqaXE3RmltT1owTGhGeDRsTzFlQWluaGlETnVjYWRKYXJ4YUE?oc=5"
+      },
+      {
+        "title": "Duża różnica poparcia między KO i PiS. CBOS pokazał najnowszy sondaż partyjny - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDUycVdTY2x5N09ZOEJPRnl2MW1oMEpyd29sRkxrai1ab3oxOW5saEl5OWxuLU01OC1hcHhzOE8yTW1BS3hHUEVLb1pWMUROSW1YZmlnSjRiTC1IMzhkbHlrY050bmJFQnp1WkFZcC1VQXppc1ozdGtXaHVUdWhCcWVDWDlpQWhYYkN3eHYyYmZMeVZnWmg1WFVjOXBKdHk5djNyTGFxVkZaXzNHclItcDh1UTc4dw?oc=5"
+      },
+      {
+        "title": "Wystąpienie premiera po tajnych obradach Sejmu. \"Ogarnijcie się! - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTRDQ2E1enNQTWZvVDZzcDYxM0Vkdm9TVGxCdXM0bFNkZjN4ZnFxZHJiaDhILUM3OTRDNlpNZ3pJX3JHX2h6TDhNdy1pLVBUdnhTTVZ2RlJ2anVnd0pWY3JiQzNrOVI4OGVKZHJoMGlsRzNFaDBnMnc1UkFUaXZHQmRMWXo1S1RmSkJYaEgxT3FiM2xuWU1HcEIyQno4SDZmQzQwMDA2WGRtNmVfbkE?oc=5"
+      },
+      {
+        "title": "\"Wrócę, jeśli...\". Zbigniew Ziobro wygłosił na ekranie oświadczenie w siedzibie PiS - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTEVQMnNMaXVsQUdqc096NURHR2NOZWJaV193YUZFVVRqVHhWa2xKaUt4LXZZWHdJWlN2bDAxMmRTNkVrVm5OQkw0ajl0aWtOZlZqWkRqY0hQRDM0Q2FXODJ5N2U2SE5VamJxal9aNjMtR0hqWVdKbnkyQjRBRjk1NTJoc3B0cEVKOWdLVGlUYmNiR2MyLThWaWtiVFVrbUNCVGZId0dGQTZaTGhuUjRCMg?oc=5"
       }
     ]
   }
