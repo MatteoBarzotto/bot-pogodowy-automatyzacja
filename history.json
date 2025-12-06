@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-03 23:14:44",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.6333,
-      "EUR": 4.2312,
-      "GBP": 4.8244,
-      "CHF": 4.5312,
-      "JPY": 0.023346,
-      "AUD": 2.3913,
-      "CAD": 2.6037,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 339108,
-      "DOGECOIN": 0.5499,
-      "ETHEREUM": 11444.68,
-      "LITECOIN": 311.46,
-      "RIPPLE": 7.98
-    },
-    "indices": {
-      "^WIG20": 2945.82,
-      "^WIG30": 3788.66,
-      "^WIG": 3788.66,
-      "^NCINDEX": 256.48
-    },
-    "news": [
-      {
-        "title": "Weto prezydenta w sprawie psów na łańcuchu. Sejm je odrzuci? - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamdKa05iX29mWDVzcVh4Y1RWNHQ1bi02SnB5d1c2dW5GYTVjUTQtN3RXUTdqTVpYLUFTVlVzT0ZlZ2ZiR0xzUnhUVmJvdGRPTmhNU3NPSWUyMlBRbnVYel94VXVvNllScXF0UnZPNUkzNUE3Y2phNHhTWVJUVUU0NnpnX00xSi00YUowdFVyd0cwU2JPMnhrUjl6ajlzU2hJMFpNd2NCbHFKMmRaOU90TQ?oc=5"
-      },
-      {
-        "title": "Zderzenie tramwajów w Krakowie. Jest ponad trzydziestu rannych, teren wypadku bada policja - krakow.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVpsZnJ6VnFoYm9LZzBCc1ZjdjJ6X3M3X0RtNHpFOC0xMi1zbmQzTk43NG8xeDIxMGRYbF82X1phTXl2THZxWVNoSEQyVVZacjNVRFBUbHNZdEo2WUtFRlpWZGduNjJRRTVvbGN4NHVEMm4wZGhoTXVvWFlLcWNuS0ZqMnVpNWYxNzE0VS13dDQ2TEU0N0xXTmhfSWIxQXhJWlFOektQa0VvUWc?oc=5"
-      },
-      {
-        "title": "Wyroki neosędziów niepodważalne? Sąd Najwyższy obalił zasadę prawną i uderzył w europejskie trybunały - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUHB2RWx2SXpVWm1OeHR6anVFNHIxVFhfd3MyanBSM1NmWTNmSjhiYmFPZV96WDZ5a1lWajFZWU5RbjNDekc2UWpVb3pzam1JMXVxRTc4U3BqUHd2TXJJLXd1SXBFS0FGVlZsSFp3eUN2SUZLLV9oRmNWU0tQd21nQXRvXzJZUVZydEs0UFBESjVLdkNXbGhPZ2pCeHBzVFVTS0tKcnBKVVlEY3hZaTVKTzZqVXNIb2hMWnZZMHFrMnNDR002d29tZWRoSkZUTkVOVTNMTQ?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński ukarany przez komisję etyki. Powodem słowa na miesięcznicy smoleńskiej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjItZmtRbEYyT3hublduZjVncG9wMDkzTDVnZC0zRi01VE1yZURVTWpkcXlPMW02V2hpcWRsVm1wMmt0ZEVpOGc5WDZqSi1hNFdZZEJHazY4UUNFblFxdV9QRXZqUEYwTE1EUjdKdEZiOGQyMllmQ3J4REU1amRzdktFWjhaT1dDNkh6cjBMRXRFRldRZklWNGxURXhELXd2Q0l1T283SnhsOUxOUGpoYXFFaFM0ZDVsTXJ0R3BqZHUwN05seDEzVnc1VTlFdVdZZmNlWXhR?oc=5"
-      },
-      {
-        "title": "Prezydent \"wstępnie ustalił\" z Trumpem. Chce, by Polska dostarczała gaz - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEUyeWRoRjk2SFA4MFIxRjV2ZEpsSlBDZkd0ZUcxVkpOU1l2cWs2MmVfZ3VaNTNEYkRvMldiTk1DeVNYOW9rV1MzSXYtQy1mWks5X1NESXFSd3ozdkFlbjdqN2VVaDYtcl9GTUR1ZF90Z1Q2WEpzd3BhM280TC1zODV3aC0wVWhLTjdlZlZ4MjZGaXNnOGNzQWx3U25nX05lWnA5TEFMcVcxUVZjNl9KTE54R3ZPSFhCLTIzaXB2VDZVRnJTdXpGaE5OS29wclJwaW44RzdNMHVhaDdvZTJr?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-04 00:11:59",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2641,6 +2588,59 @@
       {
         "title": "Karol Nawrocki zdecydował ws. miliardów dla NFZ - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYW5WVF83NWo0M1RtMXdLVXp4UFhSMVpKSlFSWkFpQ25UY1FHSTRvMDZmRVQyTmFPWmlkblFPbkRrRWtmRzRndkVkWVNvY09ncllqN01INzdtYlVkdFM4TzRhMC1zd3dWLUtSZVFlYVZ3TTQ3akxCOC1CNnhUd3RXMXRlWndENXV6cElIMEVtQTFmZ2E4NU1xZzlPS0lrSnpjVnZr?oc=5"
+      },
+      {
+        "title": "Tajne posiedzenie Sejmu. Posłowie ujawniają szczegóły - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1lVLXpNblBUNjAxUE5FYkFXZXgzMDcyUnhpMVlKMURqWkMxWU1VY25yb0ZncnhtZWFCUGl6MWpoTXJ3T1lOWkdrTlZYQ1l3bW5uc2hCdlFuLXcwRE5YcVZUZERudi1Ka28xVEFTWWhPSXh4RnU5bHVmNWZIeExFTzhZdEl1cGRkRHpSZC1GcEF3S3Jvd1hWOHB0Tm1BWFhLS3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-06 07:20:14",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 325644,
+      "DOGECOIN": 0.506057,
+      "ETHEREUM": 11030.22,
+      "LITECOIN": 292.26,
+      "RIPPLE": 7.43
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "To nie koniec sporu o kryptowaluty. Oto co zrobi rząd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0stSkdwRTJ1Z3c5SldCbjVqcXVwcVRCaDdIbFhtclZuVUJxUTVYRjB1SkV2SjlLZ1JDa1VZV1VmUWhiLWV6RExPX0pHWmxzUDJpME9MZVRoaURoMHdjUVV0TjNiZ2h1cjJfd0dGclhhaU5ybnVmSGJZRzBYNjVJNXZrVFhNQ2xuajFzcEdTaEx1N25GelVGWjlDV19ITVpIajNvdi1YYXJLcDQ?oc=5"
+      },
+      {
+        "title": "Zmasowany atak powietrzny Rosji na obwód kijowski - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHp1Y3JOTFQ4RTlMSWRoYWVFdjU2VXRBQ3BUODdJWUhxYmZCMGxKN2plaWI1Y3RfNlQtcGdTbVNYNHVVX184UXYwWjZSZmMzVXpvZE1kSFdodzBsckhPZnpDZjVYOXF3M1BHY2tQektOSGpqTzJrbndlNTZpNmt6dk01ZnhYbExzZ1dnWHBmWGxEbFlnV3M0RzlOU2xjV2h6S3doRFJ4TjJJT09vZW1Xb1R3?oc=5"
+      },
+      {
+        "title": "Europo, broń się sama. Znamy nową strategię bezpieczeństwa USA. Zupełnie inną niż do tej pory - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkhnQUtxRjFTMTVzQ0JZaWlDWjl1VUlwVzRqOXVsekZhQ0VXbUJ2MU13bjYxMi01dHpJLWFYY2V5NlRQVGRobXhXV1p3d1dybmZrdEo1M0dpYWZDYW13X0RmaWp2amQzLUZicWxkZXBjamJidFVEMk5GUXNGWmFnWkp1LTQ2NUFLcU5ocmtHUHlwRXFvTWcxUE9zTTNVOWtjUnd4NkFNN01jSHRtR2NMRkF5ZVg?oc=5"
+      },
+      {
+        "title": "Miliardy dla NFZ. Prezydent Nawrocki zdecydował - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWhpTm1JNTI1TjZBRTRIRGs4OXJQV1NBZ1h2MzJHNWdoeERtbXRKcWc0bVJfcHB3TmJjR0V6a29UZDlrSG1FR2ZNT096OVVJTmlmTVo1cEpENVJLQVc0QXBwWElLV3gtZmpFNExKU2NObzhzdVhKbDN0dzZkVlJMYy1sT2UyQTNYU3kwc25yMjBMS0daNlhCWlhTX3AtZGtyYVlDV0g0VGdvN054U3ZlcDZrdWs1bTBZTmJKZ0pGRkFsQQ?oc=5"
       },
       {
         "title": "Tajne posiedzenie Sejmu. Posłowie ujawniają szczegóły - PolsatNews.pl",
