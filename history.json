@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-04 06:14:56",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6333,
-      "EUR": 4.2312,
-      "GBP": 4.8244,
-      "CHF": 4.5312,
-      "JPY": 0.023346,
-      "AUD": 2.3913,
-      "CAD": 2.6037,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 337838,
-      "DOGECOIN": 0.545747,
-      "ETHEREUM": 11555.89,
-      "LITECOIN": 311.0,
-      "RIPPLE": 7.92
-    },
-    "indices": {
-      "^WIG20": 2945.82,
-      "^WIG30": 3788.66,
-      "^WIG": 3788.66,
-      "^NCINDEX": 256.48
-    },
-    "news": [
-      {
-        "title": "\"Prezydent jest na końcu łańcucha\". Siemoniak o wecie Nawrockiego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXdXNlBzdUZnMVY2eUU1Qm1hanZFT3g3TUw0TW1aVlVZNHdUbHN2U21POWpxU0ZPQWtJbUhsbDNfZEstWWRXXzN4SVVIUy1xeWhBMUFpOWM3c1FhSlN5YlZkbnRVVjNXbWZFU29XZlN1ZXdrYUMyY1Z6d3Q5X1kxMXNERDFVUk1DOW4weUUwYzJHTTItNWxpTV9POGxVUDhCV25mWmx6dnB5X0pSOTZR?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński ukarany przez komisję etyki. Powodem słowa na miesięcznicy smoleńskiej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjItZmtRbEYyT3hublduZjVncG9wMDkzTDVnZC0zRi01VE1yZURVTWpkcXlPMW02V2hpcWRsVm1wMmt0ZEVpOGc5WDZqSi1hNFdZZEJHazY4UUNFblFxdV9QRXZqUEYwTE1EUjdKdEZiOGQyMllmQ3J4REU1amRzdktFWjhaT1dDNkh6cjBMRXRFRldRZklWNGxURXhELXd2Q0l1T283SnhsOUxOUGpoYXFFaFM0ZDVsTXJ0R3BqZHUwN05seDEzVnc1VTlFdVdZZmNlWXhR?oc=5"
-      },
-      {
-        "title": "Trump ocenia spotkanie w Moskwie. Padło, czego chce Putin - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEMtbS1QR0l0SXhKd3B1U0tidGpIcGpCVXIwb1o5T1lXR0NSNkZKbWN5bGxRdVJ4R0FRY1RCVU9SUW9jOTRJWG9iRVJmQzQtNVhFLUFlT2ZKR3JIRXdEQk1DVzYzdkJfVGRzRnUtd2g5SUktakhnUTM4ME9DVmVrT3hvdTRhMldKMzlSZEliVW1tRG5jRXVzZnV1Sk51OW8?oc=5"
-      },
-      {
-        "title": "\"Demokracja na prezydenckim łańcuchu\". Waldemar Żurek uderza w Karola Nawrockiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW82MHU5Z0hJZk1rQ25rQldpTmVUU1FGNHB4ekFjREM3U0RnanNIUlREeFVYLVJXNjd4dC0xMjFIVW5xQUc0MDJlVG5pc1BaOTNCUHJtSW9OTzBrdDEwTHZKWU5IZndhRG1SSlI3T3puMTFKY01EZXYzVEJFV29wdUJKNFdna1JZYy1JQVRubjFqa0FlWWIwZldZcXFiQlMtQnV2dENvaWU?oc=5"
-      },
-      {
-        "title": "Marco Rubio chwali Polskę. \"Tkwiła w pułapce\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjd2RGp1blp5bUR1cVZsVXdyYUJBV1FhUkl2THE5dTlwdy0xRXFJMUxfbFBOLUJsTk5leTZaOEFBOWdZLXNLOUZjWEhtWXQ0a29zTk9xNG15MncxUzUzVUJ0a1poVkFhUmVhY1E5X3FVVGNuNlhrT283LU9NWXBuR1hvYXBWME44SXBJ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-04 07:23:25",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Złe wieści z Czarnobyla. \"Potrzebne pilne i kompleksowe działania\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2lOdzBnZFo4LWg2Z0REWU9lT3NQZWFtVTd0RWpWbXdCSGxRT0V6alpVMDlsbHlwbUt6M0RRZXJ6TGNDTUJ5aERZejJIMWRpVXd4LXphNEktZDJUZUluWFUtU1FFVzhCSXE1NGU1ai10YlJ2SjVvQ24tY2RhSVVUQUFCV1NxR0tKU0xrdHBvMEltRk1qdzhHclBudmdIdC1NVkxHWGJpS3BBU2NIUDd1bkJHeEp2bEpCUWZkUU5JY2lPUmNUUzlhX0pwQzI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-06 12:11:03",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 325291,
+      "DOGECOIN": 0.505969,
+      "ETHEREUM": 11020.02,
+      "LITECOIN": 293.31,
+      "RIPPLE": 7.36
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "\"Musimy mieć tę ustawę\". Donald Tusk reaguje po przegranym głosowaniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXFjZTFRaENIcDREZFRHdzh5R05HMEhPSjdzMmxiVE5oaFZ5eUczVEt3dHZvOGpjd0V4R0lzOXV0V2VmMGkycGk3T0VEWUxwbC1ZdkhwM0EwSEVkUE1TZXQ3MmtCSTlJYS1ZeUw5VEpaOEhWWVhNYWVqS3ZCZHJIT0w0akh3T0w3Z0ZIdkUwendGeHBYZEs3OS12UjRyYlBMUTliMVRIZTdnS0Nydmx6NEhZMmp3OUpfaGRTRTlhS1FwS0l4WnFUdnpPZGtuemM?oc=5"
+      },
+      {
+        "title": "Atak Rosji na Ukrainę. Polska poderwała myśliwce - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXFYUW1Wb01wTU5peTJmWVBOY3NHSWJoTU5KRTZqUDF5cmwyckdySzE5RmlFXzllc01fbEVhR09PZmx4QURWTV95SnNvMGo2TDlqRFI1ZHRHYk1fRWF5VWl2TGZDYWpRT1N4YnlteW1BZDY3UGlNZ1Y2OTRKYXlGMGp1alRFbFZpN3FGQWtNOFJNVGFh?oc=5"
+      },
+      {
+        "title": "Kto powinien być twarzą PiS przed wyborami? Zaskakujący wynik sondażu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYnh0NWJ2elFPN1BZQllibVEtSTFXaUhaN05nNXQ2OFpXNXl0LXczUzRGeUVDSHJwZHFiQTlZU3VFRmdMcS1ZZTZOUlpKdlVsRnM3cXdVd3JneVZTYWRNUExGOGh6a215QklYMExlamt4VVctNWFyOS1LMzBqVEl4Q3ltcVRtRW93d2twQ2V5SXlpYV9feVpLaElNX0JzM3ZGRW5lU0ZzUFBjeU9BeHpPaXZUU3VKRWNCQ1E?oc=5"
+      },
+      {
+        "title": "Nie żyje właściciel stacji benzynowej. Nieoficjalne informacje ws. żony - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHFlcDVYQzVNUjJHd1RpcnNYY0d4ZmNlcHU3c205X2NkTGtLQ0w1RDBZcFBpWVBfZDVsZzBYTkQxV295bEROSFEyQk5Jb2hCS0pNZ2g3eFhDZjJiSVR5b1hhdFJKUnJhTHplTzd4dTRNcENLZF84SG85OUZxcFptSWU3b0p6ank2VmJNS3ozOUg1Vm50b0FIRDdocEQ3S0RQREJZcG84bFhvbmNQSmhFcjZB?oc=5"
+      },
+      {
+        "title": "\"Ubolewam nad swoim zachowaniem\". Poseł Terlecki przepraszał nocą posła Nitrasa z sejmowej mównicy - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOei1ya01uLUwyQVJNdk1EVGp1aVlYZGxqNXlsRURMWDRTV0psaEprcVo5LWlualNSMjN1RkZDOU9uSnp5YjllQmw0RU5vZ2MxVWtEcEtzT0xxZ3VsMlptUHhLRHBmMVQ0N2FtZHlTazR2bWdMdjdXQTZUOTRJQjJ2YjZFZEdzREV4WnQtaDRId0JULXFfTDR3Vm54QkRFajJWNlVMQ2FtdjJkaFhDaTVVeVI1dmVaZVNkTHh4Ukh3?oc=5"
       }
     ]
   }
