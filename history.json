@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-04 09:21:24",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6333,
-      "EUR": 4.2312,
-      "GBP": 4.8244,
-      "CHF": 4.5312,
-      "JPY": 0.023346,
-      "AUD": 2.3913,
-      "CAD": 2.6037,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 337738,
-      "DOGECOIN": 0.542432,
-      "ETHEREUM": 11542.53,
-      "LITECOIN": 309.48,
-      "RIPPLE": 7.86
-    },
-    "indices": {
-      "^WIG20": 2962.88,
-      "^WIG30": 3807.07,
-      "^WIG": 3807.07,
-      "^NCINDEX": 256.61
-    },
-    "news": [
-      {
-        "title": "Kolizja na A2. Tworzą się gigantyczne korki - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzZQbTYzM3NfT2lhc25FbEp3UTF5SVZCUkFMYmVvTnhmODQtbF9Da0QtSm01SHJ6eDJ6VlBpM0dIYjE2Z0gtUjEwMHhNeGJuWV9qd3pRWnFTNkF4dF9NSXR2OVJBdUFzX0pNR1BCTWg0WVBiNTFqTGw3UXduSU8ydC1SLTljSWhmaXpINUppWjI5UFh1NVM4MFJpdW54ZmVoMGNYc09n?oc=5"
-      },
-      {
-        "title": "Rubio potwierdza. \"Polska dołączy do nas na G20\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDAwUnhEYTgwYndkYkJwODJOUHlIRzlwNk8zTUotQUVCVTdzLWtIT3poeDA5aFIxX3FJeDFyMkdLblM3RzFzUndtOU5XVEtqSkFRcDRoRDFnQkRJUlU1RURleERONWh3VFVkcERHek1LM0h2Y29HNzUxeHNRRUZzX0c1T0dPcHhPUmYwVGI3elVIUTZXcThQbzNEZm9YR2dyX3c?oc=5"
-      },
-      {
-        "title": "\"Demokracja na prezydenckim łańcuchu\". Waldemar Żurek uderza w Karola Nawrockiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW82MHU5Z0hJZk1rQ25rQldpTmVUU1FGNHB4ekFjREM3U0RnanNIUlREeFVYLVJXNjd4dC0xMjFIVW5xQUc0MDJlVG5pc1BaOTNCUHJtSW9OTzBrdDEwTHZKWU5IZndhRG1SSlI3T3puMTFKY01EZXYzVEJFV29wdUJKNFdna1JZYy1JQVRubjFqa0FlWWIwZldZcXFiQlMtQnV2dENvaWU?oc=5"
-      },
-      {
-        "title": "Dr Jakub Benedyczak: To nie jest straszenie, Rosja już przystąpiła do ataku na Europę - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnNZeDQwV2FzRnNqTXNVLWhrbUZzTjV5Umh4eUs3TlhLY0tUZHpMSGp4V1JtZE14UGpILWhKdTUwY3h0YnlpVmFwQk1fNVdLM1pRYk50SWk0Zl8tTmpkM3NFekZFTFFNREtDZE14RDRxS2lRWnc4UC1rU20zWldKaWpHR3psZW9qQkdXVHpJTjR1VXB6ay1WMWEtckFDdjlfTVRWbzBpdHpEdGlzMW92bV9zOEJPbHVrUlBlWWQxcWZHZw?oc=5"
-      },
-      {
-        "title": "\"Game Over\" z ogromnym sukcesem. Policja zatrzymała 100 osób - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2tMb1k0OV9WRjM4TVpyMjVZTjY0X21WUTNiRnE0U2pWNjdERzk4bkpNcmNVTlFYSkhNQzZwTGtzZFYxMnV0QkJKM1RuY2NUSGZyMm0zWU1SS1dYNmdMNm5JRkFhTU16SWR0ZjlQYVdpSHlwUXZMSUVJdDl1LTA3WDFqX0VCeVBFRWxYdk15b1F1SWFBVWNZRnNTbUZ2Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-04 10:18:52",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2641,6 +2588,59 @@
       {
         "title": "Miejscowi nazywali księdza \"Sisiorem\". Gdy trafił do aresztu, odetchnęli. Ujawniamy kulisy skandalu - Fakt",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGNlUVBBWHpnbHlJSkRPTktrdmVfNlp5bmE3RVpGZDY4UU9JZnctajV6T1Z4cWo2S0pOZnVxV2ZiRVl3RTVEZi15Z2hfQV9GQXlqMUZlMHFYOHZMdDdJQ0VTWkVVTEJnNXoxRGxJUzBHQ2JVX0VxN2ZmdWdhNmszUk5QbHYwLUxKdWNIOWo4eHMzc2dvbERrNkJfYUJyUmI4Z0N1UjliZWF2VUhqLVNDbUlGQ0plTUU?oc=5"
+      },
+      {
+        "title": "Złe wieści z Czarnobyla. \"Potrzebne pilne i kompleksowe działania\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2lOdzBnZFo4LWg2Z0REWU9lT3NQZWFtVTd0RWpWbXdCSGxRT0V6alpVMDlsbHlwbUt6M0RRZXJ6TGNDTUJ5aERZejJIMWRpVXd4LXphNEktZDJUZUluWFUtU1FFVzhCSXE1NGU1ai10YlJ2SjVvQ24tY2RhSVVUQUFCV1NxR0tKU0xrdHBvMEltRk1qdzhHclBudmdIdC1NVkxHWGJpS3BBU2NIUDd1bkJHeEp2bEpCUWZkUU5JY2lPUmNUUzlhX0pwQzI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-06 15:12:14",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 325854,
+      "DOGECOIN": 0.507467,
+      "ETHEREUM": 11029.82,
+      "LITECOIN": 296.64,
+      "RIPPLE": 7.38
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "\"Musimy mieć tę ustawę\". Donald Tusk reaguje po przegranym głosowaniu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXFjZTFRaENIcDREZFRHdzh5R05HMEhPSjdzMmxiVE5oaFZ5eUczVEt3dHZvOGpjd0V4R0lzOXV0V2VmMGkycGk3T0VEWUxwbC1ZdkhwM0EwSEVkUE1TZXQ3MmtCSTlJYS1ZeUw5VEpaOEhWWVhNYWVqS3ZCZHJIT0w0akh3T0w3Z0ZIdkUwendGeHBYZEs3OS12UjRyYlBMUTliMVRIZTdnS0Nydmx6NEhZMmp3OUpfaGRTRTlhS1FwS0l4WnFUdnpPZGtuemM?oc=5"
+      },
+      {
+        "title": "Zmasowany atak Rosji na Ukrainę. Ponad 60 dronów trafiło w cel - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDZDRS1PYTNXTUprUFhJOVZoQ2d2NDd2TUdyaHRYcFRiTUF1b0VsNVZYVXdxUDFHZUhUeUFUN095eC1PbkVHTDd0SlRHS3ZzbURxSkR3XzlESUxxQ0d3em1kdGxnMlpfSzVGbVpFbFNGWkpLWlBBdU9ELWRIZW1kbDUwUElmdmxHSjZyNngxUEUtQ0ZpLW41aVZlZ094S1BrTkQzSTkzS3ZJV2VHclg2TkVIS1VFSlFHUndLZWdaMlNLZw?oc=5"
+      },
+      {
+        "title": "Miejscowi nazywali księdza \"Sisiorem\". Gdy trafił do aresztu, odetchnęli. Ujawniamy kulisy skandalu - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGNlUVBBWHpnbHlJSkRPTktrdmVfNlp5bmE3RVpGZDY4UU9JZnctajV6T1Z4cWo2S0pOZnVxV2ZiRVl3RTVEZi15Z2hfQV9GQXlqMUZlMHFYOHZMdDdJQ0VTWkVVTEJnNXoxRGxJUzBHQ2JVX0VxN2ZmdWdhNmszUk5QbHYwLUxKdWNIOWo4eHMzc2dvbERrNkJfYUJyUmI4Z0N1UjliZWF2VUhqLVNDbUlGQ0plTUU?oc=5"
+      },
+      {
+        "title": "Rewolucja w polityce zagranicznej USA. Opublikowano nową Strategię Bezpieczeństwa - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjAxSFk1T2pzN3RRMC12VzlPcHVoeUIxVlFDR25pUWJBSDRpZWlTNGlILU9XaWpzNVdKRG52ODNsVUdKX0lvYUlXZGdBZmNVdjUySlk2XzlEOU80cGJkQnNrOWJ3TWxnWEJiQVVrQ25JNUZZQTFEX012Vl9RVWVocXMxbTBSV3p1VndyMkU4aER0WWt2QjJOOXhkYS1fb29CVFpvZWNkVE5ZZHh2LWhYMks3QmFRc2xuS0VvUWNXVQ?oc=5"
       },
       {
         "title": "Złe wieści z Czarnobyla. \"Potrzebne pilne i kompleksowe działania\" - PolsatNews.pl",
