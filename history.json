@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-03 21:17:10",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6333,
-      "EUR": 4.2312,
-      "GBP": 4.8244,
-      "CHF": 4.5312,
-      "JPY": 0.023346,
-      "AUD": 2.3913,
-      "CAD": 2.6037,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 336722,
-      "DOGECOIN": 0.545259,
-      "ETHEREUM": 11318.35,
-      "LITECOIN": 310.92,
-      "RIPPLE": 7.92
-    },
-    "indices": {
-      "^WIG20": 2945.82,
-      "^WIG30": 3788.66,
-      "^WIG": 3788.66,
-      "^NCINDEX": 256.48
-    },
-    "news": [
-      {
-        "title": "Weto prezydenta w sprawie psów na łańcuchu. Sejm je odrzuci? - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamdKa05iX29mWDVzcVh4Y1RWNHQ1bi02SnB5d1c2dW5GYTVjUTQtN3RXUTdqTVpYLUFTVlVzT0ZlZ2ZiR0xzUnhUVmJvdGRPTmhNU3NPSWUyMlBRbnVYel94VXVvNllScXF0UnZPNUkzNUE3Y2phNHhTWVJUVUU0NnpnX00xSi00YUowdFVyd0cwU2JPMnhrUjl6ajlzU2hJMFpNd2NCbHFKMmRaOU90TQ?oc=5"
-      },
-      {
-        "title": "Zderzenie tramwajów w Krakowie. Poważne utrudnienia, są ranni - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlZ1YkFDaHV5Tlp4RVZPaWcwaGZsZVdGbHQwdlFpem5NTm1LbnFqZmpvejhFMXR0TE5RX2s2MlA4SnFBWFhsSFFKcUFUVVI2RUJsem91cnpEaXBNLUJVMkYyTlpKU1R1dWdkaGMycnRLbVB5MFEzRXVYN0hCd2EwSnlzQWxNSkxjel9yRXg1QlNxT0E2bmtuMFdrWlRKT3dRTlM5d1hlbVBHc0VZRnR2dU5EeVhNOVE5cUVv?oc=5"
-      },
-      {
-        "title": "\"USA nie płacą prawie nic\". Sikorski na forum NATO o wojnie w Ukrainie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2dKUzRWcmVQTll5N0pveThuWXBTTUhaOWZtSVlSNVhSQlhyRk1LYkZlOEY5aVlXVkhMSmI4YTdqcDZHNi1HQ0Eza2hkYkFGQ01XSTd4NHN3VXRFcjFFUEZIOUZHMk9fbVRuaVFQa2p3NFp2YXFaUlFhT1lkRC1hLVRkSFNpNEVUSXRFVEFvZHl0ZnZJakVWZ1dORmdmQUk2TThucldhdGIyeFphZkI0ckJqM09xa2tGS2ZwQVEweTdFVFhEMHdrODcxaw?oc=5"
-      },
-      {
-        "title": "Rzecznik Kremla po rozmowach pokojowych. Mówi o \"błędzie\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi0xc0k4U2ZFY05uX083ZzgydWRGSDlDMVdqQ3gzdlBqeVYyYXZuUGhvWXUzcFJwaUNLYXhMRnh1TGc0MWx5dGtEWWRYUl9SaGFPQ1J4UVNWejhfYkIxWlRBenVpYkR6cms0ZGczUXhmb01ZcmJ0WUR6UHh5OUl1eE50emd1RVlWZzU2bXppZkZfUnZxemhhMmYwc3hVa3lWSUVZQUJ6MFZMclVDZzktdjJjX2Zzdw?oc=5"
-      },
-      {
-        "title": "Ekipa TVP niewpuszczona do budynku z Nawrockim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZV9mRDNONUhRQmtuMGtDcjhvS1FMazluQ05iVWNMZ0lUWmM5OXItcDN0NnRfOTJ4LVRoUEF4ekx3amhTb3NndjBKNEVfSng1LUlYQWtUMDZwbWJ2Vl8yUGhYeFZGWVgxaUJjTWRFX01aSklSN1I4UGluSWhNNk8xYjZoVW8tZmJIZHJYd3djSnJCYjg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-03 22:14:09",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2645,6 +2592,59 @@
       {
         "title": "Tajne posiedzenie Sejmu. Posłowie ujawniają szczegóły - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1lVLXpNblBUNjAxUE5FYkFXZXgzMDcyUnhpMVlKMURqWkMxWU1VY25yb0ZncnhtZWFCUGl6MWpoTXJ3T1lOWkdrTlZYQ1l3bW5uc2hCdlFuLXcwRE5YcVZUZERudi1Ka28xVEFTWWhPSXh4RnU5bHVmNWZIeExFTzhZdEl1cGRkRHpSZC1GcEF3S3Jvd1hWOHB0Tm1BWFhLS3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-06 05:16:34",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 325479,
+      "DOGECOIN": 0.507591,
+      "ETHEREUM": 11032.54,
+      "LITECOIN": 292.53,
+      "RIPPLE": 7.4
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "Tusk ostro: Ludzie pisowskiej władzy bawili się za rosyjskie pieniądze - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDMtdGFVZE5TeFVYUFFVN0h4NUF4dDBHbm10bjREZ1JjUldYRExyV3pQVHpsQWpjQ2dPalpTZjEtSkhKM0kyd2N3RzcxMGdsejFRZVk3Vnl3R09NQm9maF80YWpHdmpZYkZ6WjRLZkhGTk5uYktNOWlPZUZqTnJtWFUyZWhlOEVvY1dnTFVUZ0JVMjlKc0xlTG9BY1NVOUt4LS1PNkZ3WF9YNEFnRjJaTTFXdkFqSjlNSGt3Wm9pVXdveDQ1cERBQg?oc=5"
+      },
+      {
+        "title": "Europo, broń się sama. Znamy nową strategię bezpieczeństwa USA. Zupełnie inną niż do tej pory - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkhnQUtxRjFTMTVzQ0JZaWlDWjl1VUlwVzRqOXVsekZhQ0VXbUJ2MU13bjYxMi01dHpJLWFYY2V5NlRQVGRobXhXV1p3d1dybmZrdEo1M0dpYWZDYW13X0RmaWp2amQzLUZicWxkZXBjamJidFVEMk5GUXNGWmFnWkp1LTQ2NUFLcU5ocmtHUHlwRXFvTWcxUE9zTTNVOWtjUnd4NkFNN01jSHRtR2NMRkF5ZVg?oc=5"
+      },
+      {
+        "title": "Zmasowany atak powietrzny Rosji na obwód kijowski - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHp1Y3JOTFQ4RTlMSWRoYWVFdjU2VXRBQ3BUODdJWUhxYmZCMGxKN2plaWI1Y3RfNlQtcGdTbVNYNHVVX184UXYwWjZSZmMzVXpvZE1kSFdodzBsckhPZnpDZjVYOXF3M1BHY2tQektOSGpqTzJrbndlNTZpNmt6dk01ZnhYbExzZ1dnWHBmWGxEbFlnV3M0RzlOU2xjV2h6S3doRFJ4TjJJT09vZW1Xb1R3?oc=5"
+      },
+      {
+        "title": "Budżet państwa 2026. Zobacz, co zdecydował Sejm i co dalej z kluczową ustawą - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNEN0bVlOREtodktMWmU4OGVCcm5QUHRxNUFVLTh1Wm84WVZVNF92SVg5emh5THAwSWxOaHZnTU5IcERhS3lsNkY1RklrcEVCWkdhdkRvWjdCckhUYnRQUDZNMkRSYmYxbjJGOE9MaDBHWkZBZmVvUjE2eTZjWWdkRVJtcTI5dnREYXV4NmltQ2FsRUZxblNKUG12bw?oc=5"
+      },
+      {
+        "title": "USA chciały zablokować ruch Unii Europejskiej. Media ujawniają kulisy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXduenFoSm95QzZwR2R0NzBBUDcyaTFQYUNrcUU4V3hrRVltMnFkdk1RUy1iZGpUQW85MUJoUEJKOVVLQWJ4eXRtZWkyZW1BU1hVYVVnRzY3ZjZEVVk3eF9uYWkzU2VGUnlWVXpMRmNtamdCejhiYVRQUF9VekhlRU5MRW9icDdsV09RV2paWjhhSVFkVzhfb3ZaLXM2ZkxVWkRIS1Z1QWFRbkdiU0E?oc=5"
       }
     ]
   }
