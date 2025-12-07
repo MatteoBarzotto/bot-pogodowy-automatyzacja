@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05 07:23:34",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6221,
-      "EUR": 4.2299,
-      "GBP": 4.8342,
-      "CHF": 4.529,
-      "JPY": 0.023397,
-      "AUD": 2.3963,
-      "CAD": 2.5951,
-      "CNY": 0.5121
-    },
-    "crypto": {
-      "BITCOIN": 334325,
-      "DOGECOIN": 0.533338,
-      "ETHEREUM": 11495.63,
-      "LITECOIN": 303.59,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 2959.44,
-      "^WIG30": 3797.73,
-      "^WIG": 3797.73,
-      "^NCINDEX": 255.62
-    },
-    "news": [
-      {
-        "title": "Pobyt Zbigniewa Ziobry w Budapeszcie. Polacy jasno wyrazili swoje zdanie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjlidERnY2txa1NoUXdWV0pDTDNQWHU5SVJpcDhJSDhSdHo1b29odlZsZkVqUFFsZXh3SkNpR2tQaDc1Mm1qWjlsZTlSWm9BYkc5cWR0ZjdpNmdHZ1RlODNjUXJlMWdQLXhHcF8wSE12ZVFsMnJIVEhJX3Z6WDllUUh3dkZZcHVydldEWGs5Y09fdlZ2anAxS0VnRUNfYng2NnRmalNZYXlRak5HNUUxaGswTC03bThPaU5HcUZ5djZXZWhRdXJiLXRkN1lPbk5tNHc?oc=5"
-      },
-      {
-        "title": "Premier chce utajnienia części posiedzenia Sejmu. Zwrócił się z wnioskiem do marszałka - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWViSHMyX1VTRVY3cHd1VWMxUGZFdC1ybWNNWWppNjlNMWxNeXdRdEQ1S2YybmUxcW8yN3JzRnIydFVoMlpqM0ttX2J4amtadUFKV2J0ejR1WnJQc3ZjOXlWSGhLdFhVMVc0RkI4OXo1azdPaUJrWG9rYzRoeHdTMGZTUzIxV0JZSEluZDg3aTFBQndKZTlLZ1NqVVAtQy1leUFfd0UzYUpQUUsxNG96MW1ZdUJqeTQ?oc=5"
-      },
-      {
-        "title": "Awaria w Elektrowni Opole. Straż pożarna w akcji, sytuacja opanowana - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNME5vdkZVN0E0ZVRTYko2TWJfak1sajJBdUR2VXk3SFE2eVMyaUZPc0dlM0s2QlJqSHRxWGF1d0c0TExZMXV3ekw3UjhLV3FUem00amF4cUZMRkJJQW5tTUhIYkVIMjRDbnFHQWY3VUZqZnBGNDJCMW5uVjBIRmxVZ09wdXhkRGZ5TWxLLVB3bzF6UjRudkZJQ25MYUVfYjYzOUpoRG5n0gGkAUFVX3lxTE9VTTNsN0pYOWxDQVE2QUNtWTh0ZW42alNMSFdIZ05XUml3bERtendxYnF3cXBLWnAwa1hsRzgwZlFkQW9KWTYtbDUxQmJKcEtUTEN2NUtxaWp1djR0SWY5NEgtLVc1QmEtU0dGTXJWQkFzVlFETTFSdEF3N25WY3Q5aDVhTTJFTENJRFZFaU5pWTUyZVpycjVYZHF0Ql9kZGFqbWNH?oc=5"
-      },
-      {
-        "title": "\"Jedyny władca tego królestwa\". CBA prześwietla rodzinne interesy posła Telusa - lodz.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONERzU2dReHM5TUxRUXFmY1ZhMHRQTGNyeElhQ1NPdVBjVzJXZ1AyNjFGTjRSVl9rUU9VZldNOC1qWncyS2VwanNGNXRXa2tDZUo5eXV1Vmtlem51d0FuZlFOVm13WGNEcVJVWlhVR09kMUt4RjloTENjeV9DT1RaSVZKNl9CSkhzUmVEdGx3dkJYM0Q4alZkOVBYVWh2S082RkctU0VzYXNWcVRxNnNN?oc=5"
-      },
-      {
-        "title": "Incydent w trakcie lotu Zełenskiego. Media: irlandzkie służby podejrzewają atak hybrydowy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYk1BQUpNTGdDWU5NaE1nTVpGaVhicXN3bmdkSnZCUVJQRGNPOEo2b21yMTMyR1h1Nk9lZlNIdzhXTlY0Ym1MMHk0ZjZhTXNuTXg2N3V3SEhxMV9MdTdwRTBUX1k1anhzVnVDa1NsV2VzN01ibGJyVzBaVnpDWmM3SDZodDZ6T2FMeFNpc0EtclV0RFRlX0lYak1kV1Z0ZFdLc1VSYlYyRzJGVmtBTTd0Z19rckljaGdmUGQzTEVDeXo3LW9ORzU1aEs2TWVFcWVL?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-05 08:16:36",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2646,6 +2593,59 @@
       {
         "title": "Pożar kamienicy w Będzinie. Przeprowadzono ewakuację - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVJQRkVCNG5CTmo0cEtSQWg0ZDBVUC1ZZjFsa1E2XzFyekM3cWVESllGTERjWEY5bnE1T3AtcGZ3aFFIT2w1cFRZQUExMWZxREJQZmVtOVRRYmpybWZmTzNjYnJQeFBraVBSV2QxZ1QyYzZETUZJZXAtTURRODFJRWpoUjltSjhhaktzX19pUlNnel8zMVdLdko3S2M?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-07 13:26:36",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 324162,
+      "DOGECOIN": 0.506062,
+      "ETHEREUM": 11045.65,
+      "LITECOIN": 297.45,
+      "RIPPLE": 7.42
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "Kreml reaguje na nową strategię bezpieczeństwa USA. \"Pozytywny krok\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUdONExfbmFWQ0NPLVNmZFVZS2U0OHo2ckJOdmhMQ0dpZ0dTNmg2MVIwdmdBdFcwblVWR1BuM1FWNjRlbnRwYXdnNk0tZzVqQWEwV0RVN0JxYWozVl9GSThoNVp1cVBOazRGVjBqNnZ1NjUxQU5SOEVwRF9iR19mUzRZYTV4UHlHMnNqdGxxWW56UlZzUjRjd0R2NndBbFVQQkl6OFVibml4Q0NsUmw1VFkyZWxzME9mNk0yb3BqLUhFNFVtR1M0?oc=5"
+      },
+      {
+        "title": "Donald Tusk dostał wiadomość i chwycił za telefon. \"O dziewiątej rano będę\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXZIV0FGRlpTbVM5cHZpOUhadEdPTTVaLWtxTEg2VlZfVzVwdWxCT3hCZUpKUjA1Vmx5SXM3dmxwSm5rMG5DVVB6OWsybFg0WVRmNzVaU3pPUVV4UVV3Y3RicER1M0V1czBteGhDTmpmSENkV3lKdWR0VGpOS3R0a25BS0tTZUlyUjB3MXVsNjJBeTRJT05KeW45QllaRzRKc3I3MUFsTGRGdjBEX280c1BGYzFzaU5pMEhaeDZ3?oc=5"
+      },
+      {
+        "title": "Incydent na lotnisku Heathrow w Londynie. Służby ratunkowe reagują - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUxxWFRMazNBSktBRG9PMFZraEF0a3VvdUZQMHhidkR5cWJURnFLQUN1a2lveEhBTlhNSFFwd2NPb3lyMU9vc3NTU0pwSG5wVjB6LUtqSlp2RjJiN1p2aUY1bDNNWW9DdThsS1RnUkwzTU1WWEJVZHJtUmNVVmMxc2w2MktJMDZqbVhuX0NFMGRubVpDVzRPNE5NZE9rOHdja3Z2aUo2NUMwdw?oc=5"
+      },
+      {
+        "title": "Tragedia w terminalu kontenerowym w Gdyni. Makabryczne odkrycie w kabinie ciężarówki - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2JXQ1B2R0hzTDRkQmpwVkppXzFJWHMtY1RqTmFERkdkbVhtbnJrbGRMLWxCb3ZIMG9fNGVFV0RydmNzT0tiSnFmY3RNRl90X1JZWWo1QnJiSno1YVVZZzlkd1IwSDhidmxTVnRDMlA2SjZLUmVwSHVBZS01UVFtZmpOdk9meUpBZjlfbzJiMVNJWUR3MGFHRnktLWNyVHlGS192SVFlaWlKb2V5cklVSG5QNUZyWURRV09v?oc=5"
+      },
+      {
+        "title": "Powrót obowiązkowej służby wojskowej. Blisko 60 proc. Polaków jest \"za\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSk9pX3hDbEZlTFRoQUlQUjk4UHAya0dEMV93MFhGR0dLQzNnY3N3X01MZmh0WmFPbmkydmd3MEJXYkw3S3hGNmhUaU5uRFl6ZWN1RzVKTW5xdjl6YVBwZ2dCSjVmcS1NSXBweGdkMEhVa0ZLQk0xLTgtcjRHdTRLUkY1cHd1eWd6T2VJVW5LOUU1SWhFV0ZNa09ZbndqdE9GZ2Fxa1FuenhEOUVpQkZxZktuNFFCZGlOdEM3cmY3bGZiMzd0Q2puTF93Yzk?oc=5"
       }
     ]
   }
