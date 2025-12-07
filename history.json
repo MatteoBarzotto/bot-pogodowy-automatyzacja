@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05 12:13:53",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 332390,
-      "DOGECOIN": 0.525828,
-      "ETHEREUM": 11411.79,
-      "LITECOIN": 298.83,
-      "RIPPLE": 7.49
-    },
-    "indices": {
-      "^WIG20": 2963.79,
-      "^WIG30": 3812.0,
-      "^WIG": 3812.0,
-      "^NCINDEX": 255.52
-    },
-    "news": [
-      {
-        "title": "Miliardy złotych dla NFZ. Jest decyzja Karola Nawrockiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa282LURQekJlUmdOQU9NQVpzOWV3dXcwMVBMMFpOUHFpY2xhVmZnWWEyTEQtcnZ0V3RwLVp0NDZpYU5CZnFscmRXaERxNldCaVM4blFMNnkzaFl3LV9YbXNTUGkwM24tSkNEd0xHejJqZjRhTmQ4VmxlSVluSFFFc2c3ZjcxZ1NnVmVrQmdIODdseHVNUmx6ZVFvV2U?oc=5"
-      },
-      {
-        "title": "Zakończyła się tajna część obrad Sejmu. Posłowie zabierają głos [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNjNJUnlBaC1wNUJ0WW1SdlNFSFBiVFBjY1ZqaDBKRGc1bFZ3WF9NdS1FQUV0QVhXTlFLQ0oteTJ2N2hQbjlvOE9jTktSa2JPMHhFR0xFQWlja0xtY3BKN3pxNTRqNU11N0hyeTdTdHh3TFVqeFJuX0NNVE5OWktoam1hT05OYzZRay1TcUpqNWF3WnRNWjZGV0ZxcWs1NmpBbjN4dTFENmo5UQ?oc=5"
-      },
-      {
-        "title": "Drony uderzyły w wieżowiec w Rosji. Nagrania w sieci - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORk0xTk5iazhfMVdDT1NtYWx5b2x1TEc0ZndkTXA0R3pqdG4yc25uVWtyRGlhQlJSMW41YkdXSWlxQVRELU1obGk2c3plRE83MFJUVnN2Y3ltZTFSVmdQQktzS1A2ZFZiT1BXR3h0cFJpcHA2TWJXVEQycFlOMDhEMTM3TVdYaVp5M09wX2JoNDlROFBlc3BGZi1DZ3ZZYTRTS3BveDVxbDJPbW05dEF5SF9zcV81aW1NTVZnREV6OXZFcVJmdnVn?oc=5"
-      },
-      {
-        "title": "Sprawa śmierci Barbary Skrzypek. Prokuratura wydała komunikat - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVJsQTdsMXRQWDcxbjN4SHVNUmJGbzNNRl9rRUd0MzBHUThKNGhSUHVySFduUXFfUWxZWnhueFZQMVdjVVZKS2tsU3BqaDNKaE1KSWlWZUltTGwyX2V5QUNVREk4X3pfVTItdFhsa2ZTNFpsV3V3cmRWYWN4c19EcFNabm1ZLUJFRWNWaHd0eklFLXJYYjRVRW91WllvWnlkbFE?oc=5"
-      },
-      {
-        "title": "\"Większym szacunkiem darzę zwykłych złodziei\". Mocne słowa o Ziobrze - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdTcyUkhSU2MwbC03OVdWNkNMY2k2VjBsMXgzMjJQM3prbHRxdk9MRWZncmVxOFZVb3FVVktFbEZTYzhqMDhLTHNiQ2JSUlJsWklJLWJvQmJnYUNERjl2cGQ4bDE4eTB1a25FMkZXd0UzZ0ZXNVU2TVVPc3J2dkM4MWNMUzR2bkszTDlmaGpxdmVBdWhZZDBCb2Y1dEVNS3ZZelhPZUM1SXQ1a1VfTzIwaW1B?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-05 13:30:10",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Wpis Tuska bije rekordy popularności na całym świecie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmVNVlBxeDlwcjBoWGdZMUFobUwyQm1fejFPalNMWlRZcEs3cl9nSmhLVDBWcV9fU01IT19IQ2NpeHNmOUZaSUQtRU54NGNLQm9hVm5GM0V1MzhFX2JwVzFaajZOOEFZeHpUelFlTTc3Nl9QVXpwMDA3Sl9sVUtiWnBJeFBZaVNOSGNzcnBFVmlhY3ZPdzZBeDRJdTg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-07 18:11:32",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 325729,
+      "DOGECOIN": 0.504529,
+      "ETHEREUM": 11016.19,
+      "LITECOIN": 295.45,
+      "RIPPLE": 7.46
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "PŚ w Wiśle - 7.12. Relacja live i wyniki na żywo - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmR6dVNnLVFoTnZ6dXNkd0RzQ0ZoWmt1Nklvc0hXV29VZ1AwR3pMX2VxUVdsd0c5bmZad016SWlJbVRlMEhRRlRCSE92TUJpQVFzMEs2cV9jQjRpdEJEc19vODU1aFZLZVJWbkVFSWN5R2ctbENJV3ZtNVBqNk54andjcUEwaWlXa2s2dGp2RV9RX2E1a2VkRVB3?oc=5"
+      },
+      {
+        "title": "Rząd znalazł sposób na prezydenta Nawrockiego? \"To byłoby dla niego rujnujące\" - Wydarzenia Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGJucHNsc3M0TTNaaVVjYzl4Rzdma2JEanJ5VVdmOTZENE8xVGFIcU1CSnVrUGZYd1FnX2hTYXNLbUdZQTUzSl9jVEhscWhzeW5CSEcxZjJ6MU9JTktneEx2eWNYNW85Y3Y2ZVBhUkpNdjBZZHVBQmFybnl1U0hyM1VLa3l0MzNEdzU2QTlnM2VpV2FXM2J6VkNKb1gxQk9VNkItYkdrZFlxY2pnVHNLYl9fcw?oc=5"
+      },
+      {
+        "title": "Donald Tusk napisał kilka zdań. Jego wpis bije rekordy popularności na świecie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUlOd1NqWlUzaXR6MzlXWVBrbnhRVFBhUnRoN1V0S2thQlJUX3hRTmRnNUlDTnNpNHVYb2VUd24xVGlkb1BCUDZNZEpiZlVTbS1VWmZab3ZSUjhmMFo2NGF3UUhraTYwZER3ZzE1RHVES1UwNzByb2NlX0ZQUkxVdXFJUkppSEpvUmZ1WjlodWVsLXJVTHFLVWZLSlR4Qm1kNGcyMENkQ1BpSUxpLUd5UlZoZlNHczFI?oc=5"
+      },
+      {
+        "title": "Szef Pentagonu: koniec utopijnego idealizmu, czas na „twardy realizm” - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWDY3RGZiRFRzUTk5ZjZNZU5hQ2NqVTBXQ3NobnVBV2tvSXV1MGVQUFVaa3Y3clVPYkhIbl9UNWFpUzg1NkJKbGZMRk42b3VFa3lyazRhWTdMV0w3Q0t1SjFEMHFnSzNOakVIaU9JRmE4RExpUTZ5dklxQ1ppNXhLYllqQkcwbVFySURkdG9pSFlESFZCVFg2VDlxdDVwUQ?oc=5"
+      },
+      {
+        "title": "Dywersja na kolei. Prokuratura wysłała wniosek o czerwoną notę Interpolu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZV9UZXhfQUlpSm5FVkFrZ3JlZTM2ODBiVXNzX3drWjAzd3EybXNIV19DclctNjM0SzliUkE2bWlvUmJ1bThsZFgtVDZGUUwwRTVWOG9HVUFjLXlBekNPSE8xVC1zYjFwUW9yTGRrTnFkQy1Sc3IyZ1IxcDNYTWw2dzE1T2FiZ09ESnp2V3VrcEF4RVBhSlNPQmVETWd2Q05IamZndlNESWxuVEt0eGJ2dW03Y1FVMkFJckloVlN4UjZQeTZzSmFsZFU5Q05WUXM?oc=5"
       }
     ]
   }
