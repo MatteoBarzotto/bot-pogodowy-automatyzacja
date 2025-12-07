@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05 18:14:07",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 322590,
-      "DOGECOIN": 0.504944,
-      "ETHEREUM": 10973.49,
-      "LITECOIN": 292.38,
-      "RIPPLE": 7.4
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "Weto Nawrockiego ws. kryptowalut. Sejm zagłosował - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmFvOEotNXkzTk1URkJjLUdBanQ2Q1lTbmUxeU8zMXFZeURKVnhEd1JfSnJUS3VTWTlNRlJJaFFvTGdDX3ExalpIWXp1S0JKMmpMSXFXdGpTQW1PdzNOWGs0TDh6eVNtWUNzdXBWR2s2V21MLVNrNUZSMDVvc0lVZTJhZF84dlpHb0lJbkZPbGZGaEVBTzkwOW9MLXZ5R2puWkwtVw?oc=5"
-      },
-      {
-        "title": "Budżet na 2026 rok. Sejm zdecydował - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFg3d0ZXU1R5dWJyMlhTenFLdTV0Q3hfMWxNV0dIRWp6dDZVX042RVBvdmtKS0dQSkRHUmIybTdoSGNsZWRmVFBVTUhqc0ZIcFNYVmh1S1UxOTJLOEwzdmowQ3dBaklCdXI5Z0hUYmVTa2VxMGJoUlUzS3NkbElpSl9ZaUJqaXE3RmltT1owTGhGeDRsTzFlQWluaGlETnVjYWRKYXJ4YUE?oc=5"
-      },
-      {
-        "title": "Duża różnica poparcia między KO i PiS. CBOS pokazał najnowszy sondaż partyjny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDUycVdTY2x5N09ZOEJPRnl2MW1oMEpyd29sRkxrai1ab3oxOW5saEl5OWxuLU01OC1hcHhzOE8yTW1BS3hHUEVLb1pWMUROSW1YZmlnSjRiTC1IMzhkbHlrY050bmJFQnp1WkFZcC1VQXppc1ozdGtXaHVUdWhCcWVDWDlpQWhYYkN3eHYyYmZMeVZnWmg1WFVjOXBKdHk5djNyTGFxVkZaXzNHclItcDh1UTc4dw?oc=5"
-      },
-      {
-        "title": "Wystąpienie premiera po tajnych obradach Sejmu. \"Ogarnijcie się! - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTRDQ2E1enNQTWZvVDZzcDYxM0Vkdm9TVGxCdXM0bFNkZjN4ZnFxZHJiaDhILUM3OTRDNlpNZ3pJX3JHX2h6TDhNdy1pLVBUdnhTTVZ2RlJ2anVnd0pWY3JiQzNrOVI4OGVKZHJoMGlsRzNFaDBnMnc1UkFUaXZHQmRMWXo1S1RmSkJYaEgxT3FiM2xuWU1HcEIyQno4SDZmQzQwMDA2WGRtNmVfbkE?oc=5"
-      },
-      {
-        "title": "\"Wrócę, jeśli...\". Zbigniew Ziobro wygłosił na ekranie oświadczenie w siedzibie PiS - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTEVQMnNMaXVsQUdqc096NURHR2NOZWJaV193YUZFVVRqVHhWa2xKaUt4LXZZWHdJWlN2bDAxMmRTNkVrVm5OQkw0ajl0aWtOZlZqWkRqY0hQRDM0Q2FXODJ5N2U2SE5VamJxal9aNjMtR0hqWVdKbnkyQjRBRjk1NTJoc3B0cEVKOWdLVGlUYmNiR2MyLThWaWtiVFVrbUNCVGZId0dGQTZaTGhuUjRCMg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-05 19:19:25",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Incydent na lotnisku Heathrow. 21 osób rannych - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQk1tNVFwOWw5bFJQakloLUctSFlING5YX2pzUzk0bWNadDIxcFZXSHBCSVNpRVNad3h0em1MSGNhLWpBTFVobExpOU4yX09UTDhjWFJCUVdtbWNBbEtTaWl4VGN3UUl4Zm9ldU50QWwtZXY1RWtfMlNDQ3hMa0hCNl9ZWkVPdzJGdjRWdW1iZEg1VW5UNGtILTVTOGNhazNqRE00NTRUVHRkNmJ6VWNTMFdWQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-08 00:13:05",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 325770,
+      "DOGECOIN": 0.500217,
+      "ETHEREUM": 11016.79,
+      "LITECOIN": 293.5,
+      "RIPPLE": 7.37
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "Kreml z zadowoleniem przyjął nową strategię bezpieczeństwa USA - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzlrbjFndnAtdU4xVkFrYmxJUmxfbEhwSkpRN2J1Y3ZlVmpKMk5tLXpaazBLMDYwOWtXWGNRZkVSZHIzNHk1eGRNR01ubkpnS1BZZEtWMWJYNlRWYl9yTUpxX0FKTmtaWXhxRUc1a1VieDUyWHVlZkI5OWNoRVNJMUV5MVc1SWVLX19xaWY2WDlXRk9tUGlyX21FQQ?oc=5"
+      },
+      {
+        "title": "Tragicznie zmarły ksiądz zostawił notes z nazwiskami duchownych. Śledczy poszli tym tropem. Przerażające, co odkryli - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMlZLdTZWeTNxYnY0NmR6cFZ4MEpjYnJtdkhaZXdvQjBDYmVOVmhwdnFTWl9nUkxRU1J3TGtOOXR6NlgzcTBJNXBKcWlXRGRtSUFJU2FQWXM2bXFoVXJVX2c5U2k5SVYxbHhFaDFwSWFEWFJORDBZWDhBTU1kc3ppblBsV1FXbDl2ZU84dUFoOTNoRDZzei0zVlcta29tN0Z5ajBlZjhWNm1wb2VkWVVPZTZpd2JlQVY5aXA1Mnl0Sm0wYXFw?oc=5"
+      },
+      {
+        "title": "Poważny incydent na lotnisku w Wielkiej Brytanii. Rannych zostało kilka osób - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWRWZFFZSGtSQnhFcDc1UVJmYVFZTnViQUhwTS03U2JTSmlUMVpCVHZxV05mclVRdUdUN2RHakFueHdNV2NiWWdqbXhQRmxnUDVfb3ZwZDA1Zm9SeFAyNkE5TXpzNmRrRDVNVjZFdm9lUktIcl9LWVNRWkFLZzhkM2dyYlRvTkw2MF9WamdBdHdTX21TWE5OSVd2VjJVT3Q5ZXNUbGd3U3daOVhCcTJPUXpFXzlZV3lwM2ZQT0NoUUgyd0ZyUXFYU29HZE5lM3c?oc=5"
+      },
+      {
+        "title": "Kolejne problemy w Luwrze. Doszło do \"nieodwracalnych i ostatecznych\" strat - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2FkMHlMQ2RiM2dtUXIzRE1xOTdVT2tXLUxOUkd6eUFfeEczQ2NTWk9lUTdpdDhCQXRyNFRtWHp0YW1nZlNtcXlNV2NvclZOY0Z0RTdtcVlFd0Q3cVpBbHo5MGZYNURta3psZGVRX19wel9nT3diYVZEcnhDZjc4V1ljZmVzU1dDa1FlWUFOaWN3MktiSDltOVFoRHBSN0l4bE5qclBxbktPUk1OZ1BZT05xYmhIYUJseXdRVA?oc=5"
+      },
+      {
+        "title": "Ojciec Tadeusz Rydzyk mówił o swoim przesłuchaniu. Nagle wspomniał o Zbigniewie Ziobrze - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFhYa2JaLVFya2YxQnUtUWFpLUhDeVJSMUJlWld0NDJET0NNb280TVdiZVYzdGRicEF2eFZCN3VXTGpLTHJtdERJT3NSLWl3TkhwbDUzU0VKSlN0eTdVSGFsYXREVUVtNElYZV93RDdlRm5EaDJraEF1UXN3akU4c2l3Tm1XaG5iYld3UVFwU0FRSG9FT2U1Q2RHN3NDazVCTmtKYkY2STVRcFB3VEV3ZVduS2dZZw?oc=5"
       }
     ]
   }
