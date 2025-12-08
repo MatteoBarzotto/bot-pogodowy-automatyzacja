@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05 20:11:54",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 323936,
-      "DOGECOIN": 0.501317,
-      "ETHEREUM": 10920.81,
-      "LITECOIN": 290.44,
-      "RIPPLE": 7.35
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "Sejm nie odrzucił weta prezydenta. Donald Tusk reaguje. \"To bardzo dziwnie wygląda\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmFPdmxFVmxxc2NPRDEwNVJLZ0xjazZnYTdNeXpQb2puRjFnOXktRUxhWm9pZFJFeGs3d2FqLUNpM01wc1Q3NGp2RjQ5LXYxdlpuRTc1VmQ4VkNWR05hTEJqQVZMSXFYUnkwN0FBM09sMVJFYUJhdkFkdGFCQVlFdjBCZ2FZdkRndTJzNlJLTkJ0SWdaS01BTTFIb1NubDJEYVQzd3NPUlFiZmVaVXlZaTBhZ2pnWHcwb1BN?oc=5"
-      },
-      {
-        "title": "Budżet państwa 2026. Zobacz, co zdecydował Sejm i co dalej z kluczową ustawą - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNEN0bVlOREtodktMWmU4OGVCcm5QUHRxNUFVLTh1Wm84WVZVNF92SVg5emh5THAwSWxOaHZnTU5IcERhS3lsNkY1RklrcEVCWkdhdkRvWjdCckhUYnRQUDZNMkRSYmYxbjJGOE9MaDBHWkZBZmVvUjE2eTZjWWdkRVJtcTI5dnREYXV4NmltQ2FsRUZxblNKUG12bw?oc=5"
-      },
-      {
-        "title": "Duża różnica poparcia między KO i PiS. CBOS pokazał najnowszy sondaż partyjny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDUycVdTY2x5N09ZOEJPRnl2MW1oMEpyd29sRkxrai1ab3oxOW5saEl5OWxuLU01OC1hcHhzOE8yTW1BS3hHUEVLb1pWMUROSW1YZmlnSjRiTC1IMzhkbHlrY050bmJFQnp1WkFZcC1VQXppc1ozdGtXaHVUdWhCcWVDWDlpQWhYYkN3eHYyYmZMeVZnWmg1WFVjOXBKdHk5djNyTGFxVkZaXzNHclItcDh1UTc4dw?oc=5"
-      },
-      {
-        "title": "Ekstradycja podejrzanego o zabójstwo Mai z Mławy. Grecki Sąd Najwyższy dał zgodę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDRfUU5tLU5Ba2hOQzdsZXVaU2FnZE5qTHRFdEMtSS11NlZSdFhVMnBSUTdnUjBPWk03RHE4T2J1VTExbUVBbWNiSlJnQkxMSkl2MDBaSU9iaDFMdGpZdi1FRlV0Ulo0NVZQc3V3Y3Z3R1BXVW1COW5udHVUVWl5WEJKRDUyM09wVnJ6WVBUMDVaTVlLR2txc3prWGZhYndTZzV2cjk3R3QyVkhvcXVUX3hzUFduZ2VudXJ1LXVoWQ?oc=5"
-      },
-      {
-        "title": "Alarm w Wielkopolsce. Ruch pociągów przywrócony - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHJGeGdhTmlmbEx1c1BqWks2aktjLXFhdDBmWFc1dnd4T0RxZjJLYmJldFBUZ2pORmo3RVRxM0VvUk83Sl9ETHhUZ3dlYlRLSGJlNklyNXhyZzdudTA1VXUxOGtSUkNSeF9FY1BRLWEwUWVROUtaNGNjSjJMXzR5MnpkVlRDZWJRTFFsUlJ0NldPOURTM05leg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-05 21:16:42",
     "weather": {
       "Warsaw": "brak danych",
@@ -2646,6 +2593,59 @@
       {
         "title": "Ojciec Tadeusz Rydzyk mówił o swoim przesłuchaniu. Nagle wspomniał o Zbigniewie Ziobrze - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFhYa2JaLVFya2YxQnUtUWFpLUhDeVJSMUJlWld0NDJET0NNb280TVdiZVYzdGRicEF2eFZCN3VXTGpLTHJtdERJT3NSLWl3TkhwbDUzU0VKSlN0eTdVSGFsYXREVUVtNElYZV93RDdlRm5EaDJraEF1UXN3akU4c2l3Tm1XaG5iYld3UVFwU0FRSG9FT2U1Q2RHN3NDazVCTmtKYkY2STVRcFB3VEV3ZVduS2dZZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-08 04:16:54",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 330893,
+      "DOGECOIN": 0.508727,
+      "ETHEREUM": 11267.98,
+      "LITECOIN": 299.4,
+      "RIPPLE": 7.5
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "Kreml z zadowoleniem przyjął nową strategię bezpieczeństwa USA - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzlrbjFndnAtdU4xVkFrYmxJUmxfbEhwSkpRN2J1Y3ZlVmpKMk5tLXpaazBLMDYwOWtXWGNRZkVSZHIzNHk1eGRNR01ubkpnS1BZZEtWMWJYNlRWYl9yTUpxX0FKTmtaWXhxRUc1a1VieDUyWHVlZkI5OWNoRVNJMUV5MVc1SWVLX19xaWY2WDlXRk9tUGlyX21FQQ?oc=5"
+      },
+      {
+        "title": "Ludzie Trumpa \"prowadzą podstępną grę\". Od początku chodziło tylko o jedno. Putin już zaciera ręce [ANALIZA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMURLODAxUmpwSmIyeTZndzU0T0NNYmZEMUl5aW5ISGwtUGpxNDkyMUdQTEFpQk9IRV9pTkVZWDVvLWQxR3BhTkY5Ynk5ZDJYQ19aOXFxRGhWT2RHYW5pODdQb0JUdm5hSU1xOW90dXdPN3ZYT25OWlAyWG1TMFNTSkRQcnhnOWlIOGxXRkpCekVJWE5DSDdwUkN0ZjRIWW94UE85NGxvOFFOeWlob0hZQ1ZORlNDZFNqb1oyRnp5RQ?oc=5"
+      },
+      {
+        "title": "Kolejne problemy w Luwrze. Doszło do \"nieodwracalnych i ostatecznych\" strat - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2FkMHlMQ2RiM2dtUXIzRE1xOTdVT2tXLUxOUkd6eUFfeEczQ2NTWk9lUTdpdDhCQXRyNFRtWHp0YW1nZlNtcXlNV2NvclZOY0Z0RTdtcVlFd0Q3cVpBbHo5MGZYNURta3psZGVRX19wel9nT3diYVZEcnhDZjc4V1ljZmVzU1dDa1FlWUFOaWN3MktiSDltOVFoRHBSN0l4bE5qclBxbktPUk1OZ1BZT05xYmhIYUJseXdRVA?oc=5"
+      },
+      {
+        "title": "Budżet na 2026 r. uchwalony. Te cztery grupy mogą liczyć na większe pieniądze [TABELE] - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUg3dzY0VlNjOGViWXBOaERId1lVRld0a2dVM1haNXJfejNYc0ZVbFhBcTAyM2ZUSEhjbVBwcE5qREIydlBLTHFWc3lQMEZEc1JSSHFZdThoODRhTXVsRk1UY1pXYjg3UHdCalBrc3hFeV9UN0E1NVJ2S2J4Q0JrVTF2NTVsTVhlU3VHUVFQV0g0Y2VTTjQ1VUxXUWFtcHZ3Z2lONVdZZU1NRlhIYTVOcjY1WDlHclVnOVUtY1ZGcw?oc=5"
+      },
+      {
+        "title": "Donald Tusk rozbraja nowym filmikiem. \"Jestem bezczelny i dzwonię\" - naTemat.pl",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmVndXZheHVNQUIzV3dra09wR2YtQU5iUEttaktmRVozaFV1S25VQ2x0Sk1tYmx6R0p1RzNWM1dzcXRLSzJOYWpqLTRVWXRrVW9jRmotZjJLWW5iYm5KUk9Tenp1ek1KeGR5M01uaFRfeHNmNFNVaG1uUzEzamdkaHFlZUdWWjVZSEl6NjI1cjFISzA?oc=5"
       }
     ]
   }
