@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-06 07:20:14",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 325644,
-      "DOGECOIN": 0.506057,
-      "ETHEREUM": 11030.22,
-      "LITECOIN": 292.26,
-      "RIPPLE": 7.43
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "To nie koniec sporu o kryptowaluty. Oto co zrobi rząd - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0stSkdwRTJ1Z3c5SldCbjVqcXVwcVRCaDdIbFhtclZuVUJxUTVYRjB1SkV2SjlLZ1JDa1VZV1VmUWhiLWV6RExPX0pHWmxzUDJpME9MZVRoaURoMHdjUVV0TjNiZ2h1cjJfd0dGclhhaU5ybnVmSGJZRzBYNjVJNXZrVFhNQ2xuajFzcEdTaEx1N25GelVGWjlDV19ITVpIajNvdi1YYXJLcDQ?oc=5"
-      },
-      {
-        "title": "Zmasowany atak powietrzny Rosji na obwód kijowski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHp1Y3JOTFQ4RTlMSWRoYWVFdjU2VXRBQ3BUODdJWUhxYmZCMGxKN2plaWI1Y3RfNlQtcGdTbVNYNHVVX184UXYwWjZSZmMzVXpvZE1kSFdodzBsckhPZnpDZjVYOXF3M1BHY2tQektOSGpqTzJrbndlNTZpNmt6dk01ZnhYbExzZ1dnWHBmWGxEbFlnV3M0RzlOU2xjV2h6S3doRFJ4TjJJT09vZW1Xb1R3?oc=5"
-      },
-      {
-        "title": "Europo, broń się sama. Znamy nową strategię bezpieczeństwa USA. Zupełnie inną niż do tej pory - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkhnQUtxRjFTMTVzQ0JZaWlDWjl1VUlwVzRqOXVsekZhQ0VXbUJ2MU13bjYxMi01dHpJLWFYY2V5NlRQVGRobXhXV1p3d1dybmZrdEo1M0dpYWZDYW13X0RmaWp2amQzLUZicWxkZXBjamJidFVEMk5GUXNGWmFnWkp1LTQ2NUFLcU5ocmtHUHlwRXFvTWcxUE9zTTNVOWtjUnd4NkFNN01jSHRtR2NMRkF5ZVg?oc=5"
-      },
-      {
-        "title": "Miliardy dla NFZ. Prezydent Nawrocki zdecydował - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWhpTm1JNTI1TjZBRTRIRGs4OXJQV1NBZ1h2MzJHNWdoeERtbXRKcWc0bVJfcHB3TmJjR0V6a29UZDlrSG1FR2ZNT096OVVJTmlmTVo1cEpENVJLQVc0QXBwWElLV3gtZmpFNExKU2NObzhzdVhKbDN0dzZkVlJMYy1sT2UyQTNYU3kwc25yMjBMS0daNlhCWlhTX3AtZGtyYVlDV0g0VGdvN054U3ZlcDZrdWs1bTBZTmJKZ0pGRkFsQQ?oc=5"
-      },
-      {
-        "title": "Tajne posiedzenie Sejmu. Posłowie ujawniają szczegóły - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1lVLXpNblBUNjAxUE5FYkFXZXgzMDcyUnhpMVlKMURqWkMxWU1VY25yb0ZncnhtZWFCUGl6MWpoTXJ3T1lOWkdrTlZYQ1l3bW5uc2hCdlFuLXcwRE5YcVZUZERudi1Ka28xVEFTWWhPSXh4RnU5bHVmNWZIeExFTzhZdEl1cGRkRHpSZC1GcEF3S3Jvd1hWOHB0Tm1BWFhLS3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-06 08:13:11",
     "weather": {
       "Warsaw": "Warsaw: +7°C",
@@ -2642,6 +2589,56 @@
       {
         "title": "Co dalej z planem dla Ukrainy? Trump mówi o \"rozczarowaniu\" Zełeńskim - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcURNMkxxNDNwcndlUnRRSkhpYmc3Y2xqOHZFX1d6MXRzYlEyZW1uQ0drMVAzd2ZlNjI4alhxTktJQ2NmV3pUTlJ0YTItV2R1VDdDOHdWaEtFelJZVzluRTZWWld4VG5SS18tb2N0cnFMcHktR2pIdmI5SzY3REs3d0U5bzlJM0xFR0NucC1FS2pfTG4yNE5DOEVROVBXazQxQWNyNjROTUcyR3BoMGdPb1p1bWhRVDFScHBqUHNkS0w?oc=5"
+      },
+      {
+        "title": "Czołowy polityk PiS uderza w Mateusza Morawieckiego. \"To jest nierealne\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1NRTVdQN2lLR01tOENqOFlfTUhrR1R5dEhPbzZRc2RfTE5sV0M2V3BhWmZfNE9LR25jbGQtbEE0YXJPOHBkTXlJNmsxTG5aek1zM0tpNXMweGNfSzBQZkUxRFJVQkZQQjBzWUFaQk9lZzlPYy1DV29HUjcza1pfYm5tWncwSVFhQ3dKLUlGM3dhTW5NcmJVQnhLNVhiMG56UXhEX2Fyb2dVa24tU1o1ZFQ2MENCUkxkdXpDdzFLOTQwSGhlbWhIVkFrd1I?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-08 13:31:01",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.63,
+      "EUR": 4.2289,
+      "GBP": 4.8347,
+      "CHF": 4.5132,
+      "JPY": 0.023349,
+      "AUD": 2.4087,
+      "CAD": 2.6262,
+      "CNY": 0.5134
+    },
+    "crypto": {
+      "BITCOIN": 333639,
+      "DOGECOIN": 0.518952,
+      "ETHEREUM": 11406.28,
+      "LITECOIN": 302.93,
+      "RIPPLE": 7.59
+    },
+    "indices": {
+      "^NCINDEX": 252.02
+    },
+    "news": [
+      {
+        "title": "Polska zwolniona z mechanizmu relokacji migrantów. Jest decyzja UE - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFlPRkplc3BzSi1fb1E4Z0JUT1A0VXRWRU5LaGRraElOQUtyOTJJU1pBWWNnbzZpSFU4dDRSZGVTTU9BSHlUR1hXdDNoMGRmamlydXQtVXRuYVBGVEVqc2hxYlRBM3JJcm1tekxmZzRWTVRxSUVqWG9MVWhXV1FoNlpUX3ZtMlN3YWpmRk5sZE5pMElrSmlyV214NDJlWUJUSDlCY1d0TE44b2IxR1pB?oc=5"
+      },
+      {
+        "title": "Nowa strategia USA: Marcin Wyrwał: nadchodzą ciężkie czasy dla Polski - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0F5VW55SWJWclFIa19XQ2ZlcGJhQjZCeXFXWmZJQ3B3MVYySGtobVg2ZWZCMkE3eUxlWHhzdVlNbUhnbTZGc2NKakJlUzR1SXVfSkoxMUxlZ3dwV0tXbkkwdGo4MXNvRVhjZmRaMDl0MEdoVUQxeWFTb2M4UUVKbDhMbmJqbXkzOEwzTGxiaWc3VWUyS1hPc2dOeFNNRktZYktSdW1UY1p2MDFXV0Z0Sk9kbDQ4MmcwMHBKUEdsVlJrRnA3eVRSd1R3?oc=5"
+      },
+      {
+        "title": "Zabił żonę i upozorował wypadek na przejeździe kolejowym. Jest wyrok w głośnej sprawie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHVwd21ETEFtOGFPVG5CWmNDQnhhcnotc1VGT1JGSFJQNmp0UWtPZnlGbS1fSHhNd3BlSUQxUmQzeUpNYzVWRUVMMnM4N3h6TWo0Wkk5OXU2N0hKVEp2NTVDQXRGckY2S3lfT0cwX3RhYXhVVHJ1bnYtN21Od2F3aW9SeUYyYjFVeC0wYWRpNXpybFZFVmI4Rk9oM0d6bHdkVXdVakdzZHZpUlRYbm9LU0pVUnZWS0JnT18taEhDeWV0amk0WTQ4aFl5ZkZZRFp6d2FmTld0cnlwNzhVQjFVOXRR?oc=5"
+      },
+      {
+        "title": "Przerwa w rozprawie Brauna. Chce wyłączenia \"neosędziego\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjlKMkNReHBrUzFPUkgyOGhFSXZvUUplSk11MzYwdTA4eUJvczlfLXNTei1PMEV5U1JBZzBRTk56ZngycHhCMk5IYklJaVl0aFFnbTBJb0ZneTBfVjBUQ09qOWNobWl5MDZRMWlNV0tfM1d0QWxtWV9ISG8yak1YbTQ0eDJjSHMtNHBBR25uQXh6b0RPUG1jbzBqdDQ?oc=5"
       },
       {
         "title": "Czołowy polityk PiS uderza w Mateusza Morawieckiego. \"To jest nierealne\" - Onet",
