@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05 19:19:25",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 325412,
-      "DOGECOIN": 0.504724,
-      "ETHEREUM": 11069.26,
-      "LITECOIN": 294.34,
-      "RIPPLE": 7.42
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "Sejm nie odrzucił weta prezydenta. Donald Tusk reaguje. \"To bardzo dziwnie wygląda\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmFPdmxFVmxxc2NPRDEwNVJLZ0xjazZnYTdNeXpQb2puRjFnOXktRUxhWm9pZFJFeGs3d2FqLUNpM01wc1Q3NGp2RjQ5LXYxdlpuRTc1VmQ4VkNWR05hTEJqQVZMSXFYUnkwN0FBM09sMVJFYUJhdkFkdGFCQVlFdjBCZ2FZdkRndTJzNlJLTkJ0SWdaS01BTTFIb1NubDJEYVQzd3NPUlFiZmVaVXlZaTBhZ2pnWHcwb1BN?oc=5"
-      },
-      {
-        "title": "Budżet na 2026 r. Sejm zdecydował - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTjhvbWduU2lXT0hiN09WUnd5VjVGaWx5dHdZQlhXb1J5YTI3WWtUNHFvaGdMX0dyXzFySGdxOU9hbTNsSUlidHdfUV9fZkdfYmhVNlVvblE3VHRVUEd2TUlRT2hDUjdFRmVacXhWTkY2M1lGNTJGMmxZVUZ0Vkp0UW5IN2c4M0JMazhONHZRc1A?oc=5"
-      },
-      {
-        "title": "\"Wrócę, jeśli...\". Zbigniew Ziobro wygłosił na ekranie oświadczenie w siedzibie PiS - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTEVQMnNMaXVsQUdqc096NURHR2NOZWJaV193YUZFVVRqVHhWa2xKaUt4LXZZWHdJWlN2bDAxMmRTNkVrVm5OQkw0ajl0aWtOZlZqWkRqY0hQRDM0Q2FXODJ5N2U2SE5VamJxal9aNjMtR0hqWVdKbnkyQjRBRjk1NTJoc3B0cEVKOWdLVGlUYmNiR2MyLThWaWtiVFVrbUNCVGZId0dGQTZaTGhuUjRCMg?oc=5"
-      },
-      {
-        "title": "Duża różnica poparcia między KO i PiS. CBOS pokazał najnowszy sondaż partyjny - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDUycVdTY2x5N09ZOEJPRnl2MW1oMEpyd29sRkxrai1ab3oxOW5saEl5OWxuLU01OC1hcHhzOE8yTW1BS3hHUEVLb1pWMUROSW1YZmlnSjRiTC1IMzhkbHlrY050bmJFQnp1WkFZcC1VQXppc1ozdGtXaHVUdWhCcWVDWDlpQWhYYkN3eHYyYmZMeVZnWmg1WFVjOXBKdHk5djNyTGFxVkZaXzNHclItcDh1UTc4dw?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: Amerykanie stawiają duże zadanie przed Europą. Wyznaczyli datę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3ZlbFhtbTJUcDlxUEtYaU90TGxGLVhRbHEyb3Jkc0ozVjktLVJvRmlYRXl5VFEyYVRJeDVmcktSaTlJZVBLWEJHd3BpTXdUM0tvQi1uWFpHOGFSRGowSkNhN01HbGg4dllpYmF5dkhCSTlkZHFyRU56bmcyVmVpMk9pcXVtTmVhaHAtWGlia0Rna1BmY1ZhTFZJVHQtakdsenN0eFNCSFdya1gwSVZfdlNnVXc1UEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-05 20:11:54",
     "weather": {
       "Warsaw": "brak danych",
@@ -2642,6 +2589,59 @@
       {
         "title": "Kolejne problemy w Luwrze. Doszło do \"nieodwracalnych i ostatecznych\" strat - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2FkMHlMQ2RiM2dtUXIzRE1xOTdVT2tXLUxOUkd6eUFfeEczQ2NTWk9lUTdpdDhCQXRyNFRtWHp0YW1nZlNtcXlNV2NvclZOY0Z0RTdtcVlFd0Q3cVpBbHo5MGZYNURta3psZGVRX19wel9nT3diYVZEcnhDZjc4V1ljZmVzU1dDa1FlWUFOaWN3MktiSDltOVFoRHBSN0l4bE5qclBxbktPUk1OZ1BZT05xYmhIYUJseXdRVA?oc=5"
+      },
+      {
+        "title": "Ojciec Tadeusz Rydzyk mówił o swoim przesłuchaniu. Nagle wspomniał o Zbigniewie Ziobrze - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFhYa2JaLVFya2YxQnUtUWFpLUhDeVJSMUJlWld0NDJET0NNb280TVdiZVYzdGRicEF2eFZCN3VXTGpLTHJtdERJT3NSLWl3TkhwbDUzU0VKSlN0eTdVSGFsYXREVUVtNElYZV93RDdlRm5EaDJraEF1UXN3akU4c2l3Tm1XaG5iYld3UVFwU0FRSG9FT2U1Q2RHN3NDazVCTmtKYkY2STVRcFB3VEV3ZVduS2dZZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-08 02:10:12",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6313,
+      "EUR": 4.2321,
+      "GBP": 4.8467,
+      "CHF": 4.5236,
+      "JPY": 0.02344,
+      "AUD": 2.4079,
+      "CAD": 2.6043,
+      "CNY": 0.5136
+    },
+    "crypto": {
+      "BITCOIN": 328913,
+      "DOGECOIN": 0.502922,
+      "ETHEREUM": 11149.85,
+      "LITECOIN": 295.54,
+      "RIPPLE": 7.44
+    },
+    "indices": {
+      "^WIG20": 2950.3,
+      "^WIG30": 3793.48,
+      "^WIG": 3793.48,
+      "^NCINDEX": 254.53
+    },
+    "news": [
+      {
+        "title": "Kreml z zadowoleniem przyjął nową strategię bezpieczeństwa USA - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzlrbjFndnAtdU4xVkFrYmxJUmxfbEhwSkpRN2J1Y3ZlVmpKMk5tLXpaazBLMDYwOWtXWGNRZkVSZHIzNHk1eGRNR01ubkpnS1BZZEtWMWJYNlRWYl9yTUpxX0FKTmtaWXhxRUc1a1VieDUyWHVlZkI5OWNoRVNJMUV5MVc1SWVLX19xaWY2WDlXRk9tUGlyX21FQQ?oc=5"
+      },
+      {
+        "title": "Doda apeluje do Karola Nawrockiego. \"Przecież nie jesteśmy państwem sadystów\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWHRTN1c5Y09EbmlkbV9GSmhDWnFWanR3OThuT0hkOHVhMFRBcFBEbWJTSXR1Q19vMkFrS0hGQ0NFX081bDlvNGtXb1NpcUhoRDhVajNPbzhrWm1tdmdkZ0NLTm0yYWpXS0hCakxUTXBEelFzWk5wTVdWLUk3QXBXOEVMY21sRkJTVGxhNkRqM3QzdnNRcjRDWlZrdmxWMnVWVS10WXV6WllNdEx5NHlJc0QtSHpOOWZrN2UtS1JfQnFxNXRGdzZXR0VsLTJaM0Fl?oc=5"
+      },
+      {
+        "title": "Incydent na lotnisku Heathrow. 21 osób rannych - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQk1tNVFwOWw5bFJQakloLUctSFlING5YX2pzUzk0bWNadDIxcFZXSHBCSVNpRVNad3h0em1MSGNhLWpBTFVobExpOU4yX09UTDhjWFJCUVdtbWNBbEtTaWl4VGN3UUl4Zm9ldU50QWwtZXY1RWtfMlNDQ3hMa0hCNl9ZWkVPdzJGdjRWdW1iZEg1VW5UNGtILTVTOGNhazNqRE00NTRUVHRkNmJ6VWNTMFdWQQ?oc=5"
+      },
+      {
+        "title": "Ludzie Trumpa \"prowadzą podstępną grę\". Od początku chodziło tylko o jedno. Putin już zaciera ręce [ANALIZA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMURLODAxUmpwSmIyeTZndzU0T0NNYmZEMUl5aW5ISGwtUGpxNDkyMUdQTEFpQk9IRV9pTkVZWDVvLWQxR3BhTkY5Ynk5ZDJYQ19aOXFxRGhWT2RHYW5pODdQb0JUdm5hSU1xOW90dXdPN3ZYT25OWlAyWG1TMFNTSkRQcnhnOWlIOGxXRkpCekVJWE5DSDdwUkN0ZjRIWW94UE85NGxvOFFOeWlob0hZQ1ZORlNDZFNqb1oyRnp5RQ?oc=5"
       },
       {
         "title": "Ojciec Tadeusz Rydzyk mówił o swoim przesłuchaniu. Nagle wspomniał o Zbigniewie Ziobrze - Onet Wiadomości",
