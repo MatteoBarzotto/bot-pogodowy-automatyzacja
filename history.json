@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-06 21:15:04",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 324884,
-      "DOGECOIN": 0.506461,
-      "ETHEREUM": 11030.08,
-      "LITECOIN": 296.91,
-      "RIPPLE": 7.36
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "\"Leć na Marsa\". Radosław Sikorski odpowiada Elonowi Muskowi - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTB2eG5ySHVWU2RoeUFOVzlyUVotVGZZdG1uLWxiSGFseG9BXzB0U09FcXdTOHZwd1I5RGIySTBtMFc3QkFhQ2lsVHZBaldaNUJKOTR5Sm0yZ25kMEpvMlgwMFVrNVJ1Wm9ZcHd3Zm1tNEM0Z1hFU3hyMEZNbkRlVE1rLU1nS2NodF90ZGZ2ZG5vWGc0eURUY0VwUXJXUDNJbXVSNDA2ejFZWWFlOHY2Uw?oc=5"
-      },
-      {
-        "title": "\"Musimy mieć tę ustawę\". Donald Tusk reaguje po przegranym głosowaniu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXFjZTFRaENIcDREZFRHdzh5R05HMEhPSjdzMmxiVE5oaFZ5eUczVEt3dHZvOGpjd0V4R0lzOXV0V2VmMGkycGk3T0VEWUxwbC1ZdkhwM0EwSEVkUE1TZXQ3MmtCSTlJYS1ZeUw5VEpaOEhWWVhNYWVqS3ZCZHJIT0w0akh3T0w3Z0ZIdkUwendGeHBYZEs3OS12UjRyYlBMUTliMVRIZTdnS0Nydmx6NEhZMmp3OUpfaGRTRTlhS1FwS0l4WnFUdnpPZGtuemM?oc=5"
-      },
-      {
-        "title": "Donald Tusk reaguje na strategię bezpieczeństwa USA. Padł ważny apel - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZkhzY090U1VDNklPa0VqTU5vTVd0UnRYc0tvcnBUQnNlaHlZOXJTdWUwX1Y4aktmSGZ4QzZrQmtWbm9qRWF5X2l6YWIwV2p2WXRzeEZKR0xzQzVYV0dkSUlLaG04Mk9jSm1scVV4a0pPQzJMT1VKLTkzMkE0SHRUNC1mSUlhSVdyLWVqaFllcFpCZ3p3VWdCSk1IY3A4R2ZvM20wZThEY0ZtZUVRRE9VczVlWEY2MWlMVnhmUVVaX3E2eUhGT1E?oc=5"
-      },
-      {
-        "title": "Ewakuacja centrum sterowania ruchem kolejowym w Opolu. Duże utrudnienia na kolei - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOG5CVE85SGcwX3IwMUFpYVFfU0NKbWVteGczc1lsZHVRdDFVRmhBQWo3WDRPTXFGeEVsUnkzT3RwT2RxUk1IT09FQXVhbkxQQmZrQVZiZjRjeUhzLU1Ia0Y5ZGIzam5FZUMwM2VhNGZvQjNjX21KZGFLRngtYkVoR3h5eGdEbk4wWVR4em5iZVl5Q0QwckdsSGtzZ3VCaUpZajZuZXJxYzhfcEFLaXdJZA?oc=5"
-      },
-      {
-        "title": "Orban straszy wojną. \"Ostatnie wybory\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFM3QWhldU9vc1NwYU03M0JET2M2ZFlnUnY4R1FFUVhERTA1Uk1yLUpZZlpja2tHRUlrYWxJMHBndUNKWDI3ajFkdUx0ZllqVGExQUpzSm5Ubm9xaTZIalNYTTgwXzUtZVp4Wjc1bzB4SlB1d1VMS1JwVmZXZDNRN3Vzb2Y?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-06 22:12:06",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Miliardy z KPO na szali. Reforma PIP wchodzi w decydującą fazę, a PiS trzyma klucz - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkVlbWlEOGd3WWdmdVRValZDR1k1RjViUVZRUVVPWHBGcm9uZ0J4bGdXMFNxYVBpQzBWUDlvYkNoWmUzeXlCVElJS2xzeXBlenVpQmJRTkZHaHRHcGJScmtiM0xTWThOMmk3ZW9mV0h0eFZJVE5FTlRvZ3c1V2ZhblRlZHBMN25IYzBvenV4clZWWWZDblRIREJMVFFIZUU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-09 05:23:29",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.63,
+      "EUR": 4.2289,
+      "GBP": 4.8347,
+      "CHF": 4.5132,
+      "JPY": 0.023349,
+      "AUD": 2.4087,
+      "CAD": 2.6262,
+      "CNY": 0.5134
+    },
+    "crypto": {
+      "BITCOIN": 328966,
+      "DOGECOIN": 0.514556,
+      "ETHEREUM": 11372.41,
+      "LITECOIN": 303.63,
+      "RIPPLE": 7.51
+    },
+    "indices": {
+      "^WIG20": 2954.0,
+      "^WIG30": 3799.32,
+      "^WIG": 3799.32,
+      "^NCINDEX": 254.21
+    },
+    "news": [
+      {
+        "title": "Zełenski zaprosił prezydenta Nawrockiego do złożenia wizyty w Ukrainie - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPenNfTGhDV3ZQY1NVdnRUdkF5ZHQ2VG1LQzh1WDJfU2piTzM2eXY2OGtuTFVMTlM4UE9CaW9YeEdvOHRUZkZfVGFGdUhmc3pCLXNnLU1VMFdFejZOVUZBT0w2cWFSUUpPRFBWNG4tSGVTYUhJMUZHYlB2MXMwRGp2V1Y1QlBabDlOdzExRTFUcGo5cVdKdnB0RHZSazJuWXpMS2d3?oc=5"
+      },
+      {
+        "title": "Szczyt w Londynie. Radosław Sikorski rozmawiał z Wołodymyrem Zełenskim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdllJWVFfUkpuSmpqZ1pIenpPcGFqSUQxQVd4ZXZKOHVuaWRjLXZNNlhPNDAzNkthamJLRWtFb0pLdjNVRnllenE0ZVYyTW9qQllnUFpvVnFuZ094eHpFTVRvb1FoUHB4c052NEhXQkZUSkJFM2tFeXBBTkFHU1paTndnNGpteW1tczR2T0U2NURUUXd6bVI1NkU2Mm5hM1J5eXNxb2tHZUhFLU5laWwtdEJsZnB4a0VidnhMcmltMk00VzNMcU1wRWlyVnk?oc=5"
+      },
+      {
+        "title": "Żołnierze USA w Europie. Ten dokument gwarantuje, że nie dojdzie do najgorszego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3BhZWxhZkNrSlBxRWdGcW5PdEdIUm5vTXI2ZW1maHcwb29EdnFkbkgwT2dzdHdQQTBsSUZMWTJJczVYMVV2ZXNzTzVHT0RIS2xtSWRiTUctaGZtNmRPRUdBaUVkQ1Z1ZGsyTFR4UF9ubHdDemc5MUo5RnNBQm9rczIyUXliejgyaHBOOFhZZm9JOWFreUlfLVVoMmlwOEE1dHluSTVSVGEtY3BqalE?oc=5"
+      },
+      {
+        "title": "\"To był główny powód\". Stankiewicz ujawnia kulisy kryptoweta Nawrockiego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWRkNmMwN2MxQlRKXzhoeWhwSHVNLVpkN3AybjBhNDl6WDE5c1RRU1ZCY2cwN0x0TkJrbjllQ2xUQWh6NXFZWmh1dy1SdHF3eDNYVzY5a2VyQ1pmekFLUVB5UFExUF9OX3JCRG41dTJLX1F1c2JGdTF5UlVGYkh4czl4cnBaVllpQy0zdkhvRThfdWhOdDJhZzVoYktFSnR0UFZ6aUNBNFI2WnZoTnZHcA?oc=5"
+      },
+      {
+        "title": "Złapali \"lokatora grozy\". Michał S. zatrzymany poza Polską - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZDdiVGZmYnp6M0hfeXZlQTJyaXVBblEtbk9FbTJHSlloM1lnODFSanE1VF9WZ2d5c01KRVNhRzBsQUE5cjloYXJHaGNBc29PaFlNXzBiMjFyTVdnU3FKUmJjQzVHdnB1Wi1rSlZfWDlxdGxTa2JGNl9Nd0dLSHlGUkVsaHREeG11VG56a3MyMkctdjRRNmx2T25vTVNib1lxSjA1Q2NkNW83dXE2eUQ2ejgtT1lSNFVscnJJZC1rb3JfYW9hdUE?oc=5"
       }
     ]
   }
