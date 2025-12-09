@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 17:15:50",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 324152,
-      "DOGECOIN": 0.503963,
-      "ETHEREUM": 10922.32,
-      "LITECOIN": 294.98,
-      "RIPPLE": 7.42
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "PŚ w Wiśle - 7.12. Relacja live i wyniki na żywo - www.polsatsport.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmR6dVNnLVFoTnZ6dXNkd0RzQ0ZoWmt1Nklvc0hXV29VZ1AwR3pMX2VxUVdsd0c5bmZad016SWlJbVRlMEhRRlRCSE92TUJpQVFzMEs2cV9jQjRpdEJEc19vODU1aFZLZVJWbkVFSWN5R2ctbENJV3ZtNVBqNk54andjcUEwaWlXa2s2dGp2RV9RX2E1a2VkRVB3?oc=5"
-      },
-      {
-        "title": "Rząd znalazł sposób na prezydenta Nawrockiego? \"To byłoby dla niego rujnujące\" - Wydarzenia Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGJucHNsc3M0TTNaaVVjYzl4Rzdma2JEanJ5VVdmOTZENE8xVGFIcU1CSnVrUGZYd1FnX2hTYXNLbUdZQTUzSl9jVEhscWhzeW5CSEcxZjJ6MU9JTktneEx2eWNYNW85Y3Y2ZVBhUkpNdjBZZHVBQmFybnl1U0hyM1VLa3l0MzNEdzU2QTlnM2VpV2FXM2J6VkNKb1gxQk9VNkItYkdrZFlxY2pnVHNLYl9fcw?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski znów zaczepił Elona Muska. Zamieścił wymowny wpis - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1FhVEtwamxQZnZHVXVPdC1pUWZ0QWRFUWpSRHRfVFdJdC1OTENnRnh4cHhSS2xfbE5adk9jSVdTaGxmNk5iV21raDUyRjdoUUdXUWZ4SmdqUlhOTDdraC1mNWZaWEREN041QUdUVkJiaFlNMHRhanN1WmltYlYxenBJbnhNUTBaNEl5aV9hZndvSFE5bDlmQ01YVVdzcDNvcEZwZnFnWkMwVjFxaXB5aFFKeXJkX1AtanljUm8xZmI2NjlVZEpwd253S2U?oc=5"
-      },
-      {
-        "title": "Dywersja na kolei. Prokuratura wysłała wniosek o czerwoną notę Interpolu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZV9UZXhfQUlpSm5FVkFrZ3JlZTM2ODBiVXNzX3drWjAzd3EybXNIV19DclctNjM0SzliUkE2bWlvUmJ1bThsZFgtVDZGUUwwRTVWOG9HVUFjLXlBekNPSE8xVC1zYjFwUW9yTGRrTnFkQy1Sc3IyZ1IxcDNYTWw2dzE1T2FiZ09ESnp2V3VrcEF4RVBhSlNPQmVETWd2Q05IamZndlNESWxuVEt0eGJ2dW03Y1FVMkFJckloVlN4UjZQeTZzSmFsZFU5Q05WUXM?oc=5"
-      },
-      {
-        "title": "Wpis Tuska bije rekordy popularności na całym świecie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmVNVlBxeDlwcjBoWGdZMUFobUwyQm1fejFPalNMWlRZcEs3cl9nSmhLVDBWcV9fU01IT19IQ2NpeHNmOUZaSUQtRU54NGNLQm9hVm5GM0V1MzhFX2JwVzFaajZOOEFZeHpUelFlTTc3Nl9QVXpwMDA3Sl9sVUtiWnBJeFBZaVNOSGNzcnBFVmlhY3ZPdzZBeDRJdTg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-07 18:11:32",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Czy Boże Narodzenie będzie białe? Meteorolodzy mają najnowsze dane - Ofeminin",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlozVW5PNkk3WkY4LXdUMG1LV0ZDSGswQURtdlBUbC14X0t2c19JYTNYUVp2ZVVfUURzR0FzMjFzamZHUkFLUUc0b1BhaG94YUgxbFZIX0s4SjZET0NFU0lJcEtYMHBVN29KZGIxSHltSkE5VG9yOS16MENYQ3JlQVJRblhuU0NUYm5uSy11ZHRmd1JzeXVUbkNKS0V0Vm5WN2x3aElhTWhhcUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-09 23:15:03",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6336,
+      "EUR": 4.234,
+      "GBP": 4.8499,
+      "CHF": 4.5103,
+      "JPY": 0.023278,
+      "AUD": 2.4145,
+      "CAD": 2.625,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 337058,
+      "DOGECOIN": 0.539297,
+      "ETHEREUM": 12081.46,
+      "LITECOIN": 311.65,
+      "RIPPLE": 7.66
+    },
+    "indices": {
+      "^WIG20": 3010.46,
+      "^WIG30": 3875.59,
+      "^WIG": 3875.59,
+      "^NCINDEX": 252.77
+    },
+    "news": [
+      {
+        "title": "Rząd kontratakuje. \"Pan prezydent może podjąć decyzję\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnR2Z0MySUxQWXNZc3djZ1JKTWZ2aV9VLUxhSHY3b054TmNlRW9yb0VpdlJWMHJoREg3UjFablllUGQ2QVVDNlEtQkFBX3hLVDR1c1VOODczaVdnaFVOaFJmM09MSVBjYVpwUGdfTVdZTFJDS0MyMmRJQlloZDJvdVNndERHSWpLWUUtYWtlRnhkT0RKYkwyYU8wUWE4TkRDRWc4eFZNRFp0YWNqX0w0QzVZZw?oc=5"
+      },
+      {
+        "title": "Wybory w Ukrainie już za dwa-trzy miesiące? Wołodymyr Zełenski stawia warunek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQam5WZU9tbVlYYi1yX096T21JQWE5ck5yWDRfbk14Y1BDSEp3OC1mWllUUTZtdmRhdG5oZUNtRTB5TXFUYmRSLXd5RWJKLXMtSGlTY2JReXNkOG5nazhORUt3Vm52RUJ4YUxaclUzVFAzUUphd3BYbDdkWDlvVFZLQVJzTDhXNzZjZnBRbVp1OU9CTWFnYVRzOHFLSzRVQkduRlhnNHluRmw0WldQd2g4cnMyeDBIZ3JpUFJnWWxvd3RtYTBiVGJVMHFhLVZmVC1weXhlWkJR?oc=5"
+      },
+      {
+        "title": "Tragedia na Mazowszu. Nie żyje kobieta. Została zamordowana na oczach syna - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3Nuc0pRdEk4OHlwakxDUGI3MnRSVGgwYTFaMldLWWVtUFBlRHBTNEd1SVhxM3hDdnRlMnRBRWxxa19MeHp2bmNzZ0FkNkJnQWZWMFo0dkc3VFdvY0lzYTVPU0xjY0t4R0VlQ3VkUE4yUEYzZTJ6ekxXYlBkRE55WnRmWFdDSUlMQmdvRkd4Um54RkVsM1RidWx4cVFEYXBsdWtIbmNNZ2JvU3NIMU9DdUl3SXBoTzRjTXVsd3Q0WWQ4QzFp?oc=5"
+      },
+      {
+        "title": "Polskie myśliwce MIG-29 dla Ukrainy? Wiadomo, co chcemy w zamian - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzlHaHFpTEIyRElJS3VzbnkwUUxIRVFCREJWZjR6NkZyNzQyN0Y4cU5EbWtub050cHlvdWhrVEtqRm84TEI4cDlYcy1DaHBXOW04YndxR2lNNG15cFUyZm9jaVVpSzlVamFucDhOR09BazZsbDB1dHd0eHlVX3ozMkZmUGFPSnVNU2xQQ29RTnJXRTU2T24xTVhha0JUMkFfX2VRNmxpbnJUcXhiR2ZR?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski zgodzi się na propozycję USA? Nieoficjalnie: dostał kilka dni na odpowiedź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0c3Y2FSOFlhcG44aVhyTnpEQ3Z1cFdPV19Dbkx1dDFjSW4zUGlpQ2lvUFdOSHpYYlNXRGREcGNnem1hYi0teDExNVEycEdYTzUxVHM1THU2TjZTZXgtWjI2UlAyNXJzY2FoU1JnVTNZZDVKbkhDZW9wWndIZzdwMWFTMU5MY2NaSEhRQzNoT2ZFNklzNFR0ZEZYRlV6NEpnZU1lVTZ4RjNyZEZSV0NjQ2x5aWNleEZtTm5VYlBkZmc5QUNNZWxkQ0dkMVI?oc=5"
       }
     ]
   }
