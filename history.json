@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 04:22:11",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 325518,
-      "DOGECOIN": 0.509112,
-      "ETHEREUM": 11091.26,
-      "LITECOIN": 298.35,
-      "RIPPLE": 7.45
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki na wizji został upomniany przez żonę. To powiedziała do słuchawki - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFRaMGlFdHczdHp4dk1oOGJjU2Y4dmFIUXhWZGE0RHdqaUxyWGY0R2dDSlNPQ05hR3RybXdjTlJvZWZIb19PbEdrWjJPeTUxMUtFbnVtczNEWVFiYTI1Q3pBT1VDRkl4Q3h3QjBacXdDelljVEhqUzBSRmx5ZjY2ZUNQTUFwZTVRTHNuVXpaTllmeU52X1ZyX2dwd0U5b2Q5SENLcUpCcFppbm8teVJqb2xfUjR1bk9fY0gyVTUtRU1YZThpSWt6RVhtOW1vdng5?oc=5"
-      },
-      {
-        "title": "Syreny zawyły, alarm szybko odwołano. Wicepremier reaguje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVU4yUGszSHdFcVR6emlKTFpyWnB4Y3dXU0k4M3BhOWo0YkNTbE9FaTctcnAtOUNvVmpQV3EwUEk5ZEc2R2ZkNVlodEdfWGhlSHJfdEhxLXZmSXFtR3ExLXlNOXItcXpJdlVGMk1Qb3RPT00xdE94UE1LQXZMS2U2SmRDYWx1bzZodnlqdWlVZGFrWVBhMnpmbjZpb0lzTW5hbHRwelpDMFlybmhlRFphaG5UNXo?oc=5"
-      },
-      {
-        "title": "Elon Musk żąda końca UE. Dmitrij Miedwiediew popiera, Radosław Sikorski ostrzega - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalpQOWd1WG9BRTY4dVQ1TjY2Z01Xa2NORWRuUC1NS1p3UWZNd3V3T1lmWmpMdzJEUTZINk5SZzNtN0lTRFdobzhkcHFmZm5PZ3hLUnpsWjlHbklxVjkxXzZwZFhwZjB1SFEyQXVjLUJ4cEJ5OHA4alVCUGh6TWJPUWRaYXdoang1UmRpdTJRVl82bFpMQWRGRjFOTVdNeGxxVDdldGpTaHg2Y1FHYUZDd3dfZXY3Yl93OFo4ZEFUNzJIQQ?oc=5"
-      },
-      {
-        "title": "Nawrocki ułaskawi Ziobrę? Prezydent zabrał głos - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWVXQkdLZFB6azBEMHNpUXFlQkNkOW5Md19YYlhtemt2cjdpQkQ2RmRKV05ZelhRdDhHQjktX2xtMmJIODRidWptQjhuS0FnUW9JbjhyNTR6NzZENUI2eHdvREVMaXp3eUE0aDhoLTJ0djJtZ2xDRFJlN0VPN21iTXlVS1g5MDRrNDBwRlNGLXBlNFU?oc=5"
-      },
-      {
-        "title": "Silne trzęsienie ziemi na Alasce - Wiadomości - Onet",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWowcTVlU3VpSUNpRHVQSHBkNFdEYXh6UUx2UmlWLXYxNmppT3l2VW9GdUVfRFhxNjJJR1RyYzF0Q1VXLWJ3WEM0WHN5bloxZ0M3elpya1NZajdfVXduSEdOaTZLcXVjZzZ3Q0J5OGZ4RlZsSTZTc0NoRWxzdWgyZmxwdW9kcUEwX2U2VGlpX29GQTFGOHUwT2RaYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-07 05:28:35",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2642,6 +2589,59 @@
       {
         "title": "Kluczowy szczyt bez udziału Polski. Kwaśniewski dosadnie komentuje. \"Jakiś błąd\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1Rnc1RyYnIxay1qUW15Skdva2Z2ckpXamZ2RHA2Uk1hSXhQZV9Vbk8wRWdmUkxocGZpSzZMbEdDOS1aVGFBVWJad2s3TzFnTHFja0xzSm9ZU3BMTEFpallaSVk1azFvWWNRRnRBSG9BWkJWUGY2Q2FPLXNLWEIxR0tKQlA1Qk9sZmpXTmVUcGNDNlFkMDRhc1BfaXZ1aHM5RlRneEgxYTcwd3lzcHNQcWhmSGZMSmgxQURYY1lLUFp5emMwUnNVTndqazZfbXRyWmdYSDU2UUZJdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-09 10:18:17",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.63,
+      "EUR": 4.2289,
+      "GBP": 4.8347,
+      "CHF": 4.5132,
+      "JPY": 0.023349,
+      "AUD": 2.4087,
+      "CAD": 2.6262,
+      "CNY": 0.5134
+    },
+    "crypto": {
+      "BITCOIN": 328978,
+      "DOGECOIN": 0.511231,
+      "ETHEREUM": 11354.86,
+      "LITECOIN": 303.18,
+      "RIPPLE": 7.5
+    },
+    "indices": {
+      "^WIG20": 2954.6,
+      "^WIG30": 3798.46,
+      "^WIG": 3798.46,
+      "^NCINDEX": 253.35
+    },
+    "news": [
+      {
+        "title": "Litwa wprowadza stan wyjątkowy w całym kraju - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlVjZm9ZcHdzOC0yUUc5Q1FDelIybGdBaDRfSG1WTEZpN1NlZDVwYzR4T3BNLVlWOWpJUEh5MUhQWmZlempYNEgtZFdCckVLU2txZmJwT3FyNzc4eWt6aFdnQWVkQWwyRzJBQ3V3T3N6VE9DNjd3bWhEOVp1Tk1RQ3RhSzF3MkcxSG1qQlVTZkJKZmlZR294Ym1kRzdSdGh5VGxWZm5IZHRVNkU?oc=5"
+      },
+      {
+        "title": "Nowy sondaż partyjny. Koalicja nie do powtórzenia - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEVidkZDbkVtV2RYRi1zTklPSThXYkI3M1J5LThYblBQNV9nSnZibmFaNzNhY01lM3czOXdjeWZHRkdPNnhPM3ZjSi10QWVoV1B6NlFVR2RpVy0tanpUb240amZsMUp1VkY5THEydXpTdjZva3g0aUMyTzBSWWhaLTJJdU9ac054SzgweTYzX2RaankxbGZCY1VvNkZxNFJXNV9CUUhYNlNKdEc5TUU4RnpBcUxpZ0FNQ19Rdw?oc=5"
+      },
+      {
+        "title": "Darek został zabity. Jego syn zginął dzień później. \"Nie wierzę w to, że ona to zrobiła\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2lMRnFBdWNTV1IwSWNSLXNicGRKeFh0T2oyQkhSN0ZHeWpDRHRmajFWeXQyeUhPOUtoS3hqRFpVU29ocFFJaklBWmRhcy1vSmpFaVk2bXl4MEoxN0ZLVVBmaGJ4elRHUUUyRHhOU2g4S3B6UGlkYnhoVE5mdW9xOG9KSzlVVDMwLWZnblY4a0hSaHI5c1RHR0QzblVuNmc?oc=5"
+      },
+      {
+        "title": "Donald Trump zbeształ dziennikarkę. \"Jesteś wstrętna, straszna\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWVVU2lkdkFFSWYtNlptdHpwTFNqZ3JVQlRQc1NsNG8zc3l2cHNVSFlQeTMwWlJxX1o3WlE5Rjh5STE1LVJ2YmkyN3NBSlBzNWJJMkFlaWhuU0JmdzdCbldoZXIwM05DbXdETEwzcF8zU1IxUEsydFhmNG9IV2pzMnFzWlhyMGxzd3lKSWpTajdOa01tZlZoZWVmMkdKd3R1ZjBQTnI4dnF2WkE?oc=5"
+      },
+      {
+        "title": "Apel KO o dymisję Jacka Sutryka. \"Nie jest w stanie wykonywać funkcji\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVItQnkycERWbjktdXJfQmZBS0puYTZlZGF6ZFdpQTVfXzhQY2dzamhoTlQ0Q0xISDlzM0lBYzZiX1BmaVYzb1puUGxxaGszSUdlbkVFNXNDeUhLZmkzdDBBTlVicjNKZW5tZUNQWjh4SHFaZk5aVTF0Y1NGQ0t3bjlkUWFUbi1xdjhkU2dHaXFLbnU2ajFMRzlsY3p2enhHZVNiZlJhVFpvVzgyd2hWblUtbFhfQnhLdHhSeGVKbGdXZUFHWEhQN2V6bm5vWC1DUmEtMF9B?oc=5"
       }
     ]
   }
