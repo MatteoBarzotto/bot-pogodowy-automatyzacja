@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 23:13:06",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6313,
-      "EUR": 4.2321,
-      "GBP": 4.8467,
-      "CHF": 4.5236,
-      "JPY": 0.02344,
-      "AUD": 2.4079,
-      "CAD": 2.6043,
-      "CNY": 0.5136
-    },
-    "crypto": {
-      "BITCOIN": 325464,
-      "DOGECOIN": 0.500516,
-      "ETHEREUM": 11095.16,
-      "LITECOIN": 294.25,
-      "RIPPLE": 7.39
-    },
-    "indices": {
-      "^WIG20": 2950.3,
-      "^WIG30": 3793.48,
-      "^WIG": 3793.48,
-      "^NCINDEX": 254.53
-    },
-    "news": [
-      {
-        "title": "Kreml z zadowoleniem przyjął nową strategię bezpieczeństwa USA - Defence24",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzlrbjFndnAtdU4xVkFrYmxJUmxfbEhwSkpRN2J1Y3ZlVmpKMk5tLXpaazBLMDYwOWtXWGNRZkVSZHIzNHk1eGRNR01ubkpnS1BZZEtWMWJYNlRWYl9yTUpxX0FKTmtaWXhxRUc1a1VieDUyWHVlZkI5OWNoRVNJMUV5MVc1SWVLX19xaWY2WDlXRk9tUGlyX21FQQ?oc=5"
-      },
-      {
-        "title": "Kolejne problemy w Luwrze. Doszło do \"nieodwracalnych i ostatecznych\" strat - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2FkMHlMQ2RiM2dtUXIzRE1xOTdVT2tXLUxOUkd6eUFfeEczQ2NTWk9lUTdpdDhCQXRyNFRtWHp0YW1nZlNtcXlNV2NvclZOY0Z0RTdtcVlFd0Q3cVpBbHo5MGZYNURta3psZGVRX19wel9nT3diYVZEcnhDZjc4V1ljZmVzU1dDa1FlWUFOaWN3MktiSDltOVFoRHBSN0l4bE5qclBxbktPUk1OZ1BZT05xYmhIYUJseXdRVA?oc=5"
-      },
-      {
-        "title": "Doda apeluje do Karola Nawrockiego. \"Przecież nie jesteśmy państwem sadystów\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWHRTN1c5Y09EbmlkbV9GSmhDWnFWanR3OThuT0hkOHVhMFRBcFBEbWJTSXR1Q19vMkFrS0hGQ0NFX081bDlvNGtXb1NpcUhoRDhVajNPbzhrWm1tdmdkZ0NLTm0yYWpXS0hCakxUTXBEelFzWk5wTVdWLUk3QXBXOEVMY21sRkJTVGxhNkRqM3QzdnNRcjRDWlZrdmxWMnVWVS10WXV6WllNdEx5NHlJc0QtSHpOOWZrN2UtS1JfQnFxNXRGdzZXR0VsLTJaM0Fl?oc=5"
-      },
-      {
-        "title": "Wpis Donalda Tuska bije rekordy popularności w sieci - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUxkVEpNZEM3OVFIQ0Z1SFhiei1qNXA5ZnhFWDlXT3V3bUdTaU1vamR0WGk1YVZQdGtMZndHNVlNNlNXY081bTY5ckV1UFJmdURoMnI1aHc4ci1OYWxQWklOTC1abFRGYVNnQ0VlbmVqd01Nc01sb0M0ZWt2Ykw0NEpWVXNQSGRKckJ1T1NLb0U?oc=5"
-      },
-      {
-        "title": "Incydent na lotnisku Heathrow. 21 osób rannych - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQk1tNVFwOWw5bFJQakloLUctSFlING5YX2pzUzk0bWNadDIxcFZXSHBCSVNpRVNad3h0em1MSGNhLWpBTFVobExpOU4yX09UTDhjWFJCUVdtbWNBbEtTaWl4VGN3UUl4Zm9ldU50QWwtZXY1RWtfMlNDQ3hMa0hCNl9ZWkVPdzJGdjRWdW1iZEg1VW5UNGtILTVTOGNhazNqRE00NTRUVHRkNmJ6VWNTMFdWQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-08 00:13:05",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2640,6 +2587,59 @@
       {
         "title": "Plan pokojowy dla Ukrainy. Zełenski: Jesteśmy gotowi przedstawić propozycje USA - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHRUMTZqRzRleGQ0NEw0ME5jVVB4c2thSXZZdlp6ZWQybkYxOEVjNnc4dG45ZXhsSHlPdFNINFJKRUlYWVY1Szhzc1p3QUJPaE9WRkxLWkxxc2xUbVJ1Qnp2RVZVa0JsUlFPQ2tnTnFjNEpoZ1plZW9ZUnZpX0lBT2lxMHVaVndIWHF0dGtMa01RN05qdDF1SER6cWZCN2tDQmhhZFdkOWRLenJx?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-10 07:24:24",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6336,
+      "EUR": 4.234,
+      "GBP": 4.8499,
+      "CHF": 4.5103,
+      "JPY": 0.023278,
+      "AUD": 2.4145,
+      "CAD": 2.625,
+      "CNY": 0.5144
+    },
+    "crypto": {
+      "BITCOIN": 336335,
+      "DOGECOIN": 0.533494,
+      "ETHEREUM": 12073.54,
+      "LITECOIN": 307.05,
+      "RIPPLE": 7.59
+    },
+    "indices": {
+      "^WIG20": 3010.46,
+      "^WIG30": 3875.59,
+      "^WIG": 3875.59,
+      "^NCINDEX": 252.77
+    },
+    "news": [
+      {
+        "title": "Papież Leon XIV krytykuje wywiad Donalda Trumpa. \"Próba rozbicia sojuszu z Europą\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWV81ZjZEY0N6dlhkYTZQRXlQd0c3Vi02M3p3d29Vc01zODkyVkNmQlpQTHh1S0Jrc3lTTnFld3Jxb3pkc3ZnU0RNVmt3RFNvaklRNUg5cDBTUGR5ZDNWSWFVZW1KMHMzREo1OEZ4TWstWXZyeHNEMGFndGpDX0VHN3M5eDEyQUJlZ1JjNDJkNHNfM2g0NGI4ZnROQ09CT0xEM2tSZDN0WHdCOFhTZXJNcnhmZ0ZYb1RoaF83b2hDeXpvNzdMMktKcmFHMDBNTzcxcm5qZ2lXTlNwdw?oc=5"
+      },
+      {
+        "title": "Nowa amerykańska strategia na Ukrainę i Europę. Ocena ekspertów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkRYclZRWFNLYmtlZnJNa3l5MVpjYXFBby1tVVp4Q0d6N2hWNUV4azc2OHp6QmJQR3hVaVBhZWd3cUN5ZlJDWFhaRGd5ZG92MDNPdFVrRDVnbHFkeUs5QnpiekJ4YUppQU1nSEpFNExIWl8wYWh4dUtScXFDNk9YTTJwbkNhUU9GQk1EM3hlMlRTcXFOZWpZTm15ellpOGRZV3N4cHRUWE5ydUZZa3VIY1VoeWcxV2w3Tjc4SThZTGZlZkRsWkxYWg?oc=5"
+      },
+      {
+        "title": "12-letnią Adę policja nagle zabrała ze szkolnej imprezy, wywiozła i ukryła. \"Takie historie widziałam tylko na filmach\" - wroclaw.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzB6elJGT05PMFR2NE1fODlWNzJQZUc4Wi1JOGx2MVo5TS1hQmxyUVVoS0ZzV19FMFUxczNsSmduR3N0U2RtSDRXWmpxa09jYTJWWEZCQ2tjcGhhN3p5eEJFVjZDSUVSaUFGbFRxQVBFUWJ5WEJuZ2s2MWxFZGR1cnpFSGdiMjZyV3prY1dwakhHV0RLMmhyRUhUT3YwLWw5TEEwVw?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski zgodzi się na propozycję USA? Nieoficjalnie: dostał kilka dni na odpowiedź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0c3Y2FSOFlhcG44aVhyTnpEQ3Z1cFdPV19Dbkx1dDFjSW4zUGlpQ2lvUFdOSHpYYlNXRGREcGNnem1hYi0teDExNVEycEdYTzUxVHM1THU2TjZTZXgtWjI2UlAyNXJzY2FoU1JnVTNZZDVKbkhDZW9wWndIZzdwMWFTMU5MY2NaSEhRQzNoT2ZFNklzNFR0ZEZYRlV6NEpnZU1lVTZ4RjNyZEZSV0NjQ2x5aWNleEZtTm5VYlBkZmc5QUNNZWxkQ0dkMVI?oc=5"
+      },
+      {
+        "title": "Uciekli z kleszczy pod Pokrowskiem. Tajny manewr Ukrainy - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1d2eWlJZW1HdlVNbW9ocGIwQnMyYzI5SFd4YWFMeWgtc2Nxa01mRmJBUXFTSURhYTFlSzhoZWVIWnJXQjgwZjYwNk9oalZiMXJUX1hYV21IdUppcVJ4RUQ2Ri1fMGQteVhVTXEzeU5sM05qdzF3bTU2cDJzSkRvOGVZTHp5b2k3WFV0TjdwLXhLT1RGclBKZXZEZUJRZw?oc=5"
       }
     ]
   }
