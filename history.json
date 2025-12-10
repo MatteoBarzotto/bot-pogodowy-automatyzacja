@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08 15:16:06",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.63,
-      "EUR": 4.2289,
-      "GBP": 4.8347,
-      "CHF": 4.5132,
-      "JPY": 0.023349,
-      "AUD": 2.4087,
-      "CAD": 2.6262,
-      "CNY": 0.5134
-    },
-    "crypto": {
-      "BITCOIN": 332242,
-      "DOGECOIN": 0.521992,
-      "ETHEREUM": 11439.24,
-      "LITECOIN": 303.57,
-      "RIPPLE": 7.61
-    },
-    "indices": {
-      "^WIG20": 2962.48,
-      "^WIG30": 3808.74,
-      "^WIG": 3808.74,
-      "^NCINDEX": 252.75
-    },
-    "news": [
-      {
-        "title": "Nowa strategia USA: Marcin Wyrwał: nadchodzą ciężkie czasy dla Polski - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0F5VW55SWJWclFIa19XQ2ZlcGJhQjZCeXFXWmZJQ3B3MVYySGtobVg2ZWZCMkE3eUxlWHhzdVlNbUhnbTZGc2NKakJlUzR1SXVfSkoxMUxlZ3dwV0tXbkkwdGo4MXNvRVhjZmRaMDl0MEdoVUQxeWFTb2M4UUVKbDhMbmJqbXkzOEwzTGxiaWc3VWUyS1hPc2dOeFNNRktZYktSdW1UY1p2MDFXV0Z0Sk9kbDQ4MmcwMHBKUEdsVlJrRnA3eVRSd1R3?oc=5"
-      },
-      {
-        "title": "\"Jestem oskarżony przez zawodowych Żydów.\" Proces Brauna przed sądem w Warszawie. Chce wyłączenia sędziego - Warszawa.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3Q0ZUtGSlNzMEo4eGUzWVozMU92MzlnaEZUdFMwVWx5ODZDdGQwd2N2UXV6cDExdU1iOGswazV6LUtBd2FENjNpdTdMdUh0UEpnZjNMb3cxWk9PMkQ5TjFLMGJNSU5KZzZTbkZhd0dBN2VPelJENmtoQ2lTN2V0QXdJeDJzZDJtNnFoTWpaWGVidThaMmJkc1FnajV0QmF2cUxxX0kxR0dFZ0dUMWh6cFVMbWV4N3FfMU5CMG5UdGg?oc=5"
-      },
-      {
-        "title": "Spięcie Tuska z Nawrockim. \"Nie wypada panu\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlQzZ2VLekFyY3NGMlNLUW1MYmgxdzRXQmNZRDNENlNIV3FHd211dVIwNWFaaE1XTEprYy0zNVNnUGhRVENaNG9ZT01PVmpyWEpZSmVONl8yNDFRbS11M092UUdRTlhfUmpkekk4VTNzVkxoM0tnNml6VG92SEU5MU9MSEFfR1Y4RVZsVkJKN29PaGJTWFdCcVVrSU52Zmk0RTVfZGxnMElGZXlKaW9VeW93ZVF5R2NqYk5weDF3?oc=5"
-      },
-      {
-        "title": "Młodzieżowe Słowo Roku 2025. Co znaczy \"szponcić\"? - hub.pl",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd3RBd1pWMmZXQXI0UVZnQlVhaXc4MHkxRmRacWRzVVFybFV6M3Z6dlg4NWF0OUM2Ukc1eDgxby1QNWdrQ21lMHNZUzBHd2xLV0hkQklZQzV5MTBlQ2hLYmRhU2hlVFdEM3EzNEp1bmZ5ampUdTdqajFJc1hmOXk0Q2hLRnp0eVgwWHUyTg?oc=5"
-      },
-      {
-        "title": "Relokacja migrantów. Jest decyzja ws. Polski - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUJSeHVZbzJMbHFwQUk1eFpISDF2QzFuSklpM0pBbUhvdUp5c182SjV6UFdzX2hqYkZaUTA2RUlXWFowUWk2YTRvNmVodjBGVEtRa1ZmSDFFakhqXzRVMnlHVl9Qd0trTlN5eVdXVFIxcWdDd3d6VHU1LU5uOEJ0Qms1OXlYVDhIYkllc1VB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-08 16:16:42",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2635,6 +2582,58 @@
       {
         "title": "Syn usłyszał krzyk matki, wykrwawiła się. Przed śmiercią prosiła o pomoc policję - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3pYRXRqQUlTaGxaYkw0Wm1obWVNOEZSdWdMMzJxc1JfZmVrRzVYNEY5ZF9TZnMzWDV3Z2VhY0VfX2ZrU2Yxdmx5a2ZjS0dLcGR4TVhfMmZDYzZpdzFoS0kzd1F2OHVQUWY3X3BBLTIwZGNBSmhUZk1hekxGbktmU0ZUWEx4UWxtWUNmT1c2QVZxVFhVZjdILTVFUXJNUjZnNERSeTB0cDJqeUFIVE8zUWtNWmlSUE1ld2E0eDF3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-10 21:17:30",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +10°C"
+    },
+    "rates": {
+      "USD": 3.6329,
+      "EUR": 4.2274,
+      "GBP": 4.8363,
+      "CHF": 4.5119,
+      "JPY": 0.023166,
+      "AUD": 2.4157,
+      "CAD": 2.622,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 340798,
+      "DOGECOIN": 0.539767,
+      "ETHEREUM": 12428.9,
+      "LITECOIN": 312.83,
+      "RIPPLE": 7.58
+    },
+    "indices": {
+      "^WIG20": 3021.37,
+      "^WIG30": 3895.06,
+      "^WIG": 3021.37
+    },
+    "news": [
+      {
+        "title": "Biały Dom reaguje na nowe doniesienia o strategii bezpieczeństwa. \"To fake news\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlVNOHJISldaRWotQk9fNVRVTE54UjN0MThMUjFUMmhUaTQzQVpCMFFzRU8yamkzQmRNYTM1d1IyNUQwWlhsRDZYY05YSnJEWXZLeTF5N3hKeXBQaXh5aVZqbTVDTzVLWlB0NXlVQjVjYlU3SDBuUHZGNkw0QVpuOUhfZFRySWRMNE1LczFhZElwU3lLX3p4b2FwZm1adzJCZjRCSC1CdThzQUNBdWpqY3o0dE1xUVpIZGc?oc=5"
+      },
+      {
+        "title": "Marcin Przydacz o szansach na zawieszenie broni na Ukrainie: „Nie jestem optymistą” - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29nQjMySHprRXJoMUNtemxMby10U3VGVVlOdGJTZUVLZnIteU5PN1FlcnZXY0VjRjJvUzlROGhBelpOVVBTeGhORlBGNGkxeGk4VS1kNUhiZVo4WHRjRHFxb3RldjFySzFtR1FrQU9tQklFY2V1NFNlYXV1bkZUbUFqQVg0VW1XQ1QtWi13VTBoNUpOZ0JMdnRLNFBWZWNxSmlrekMweVdILTRxWWdjRVhKU1ppaXR0Z2o3UC0tN0haT2NDY21HTkFn?oc=5"
+      },
+      {
+        "title": "Co Polska dostanie od Ukrainy za MiGi? - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnFfOHkxdjIxZDBOeU5fTHNmSUJnLVBEcVJDcHY1dHFLTkRnYzctcDRPbUEtSFU1Q3dnaVI2OGEyWXR5c1cycC1Ed1lkWXkySkl5c2x3cUxhekh2a2QtYlItZW5qUW5kN054S2ZvV3A1b1FreFJTTXd6SVhPSHpHRQ?oc=5"
+      },
+      {
+        "title": "Syn usłyszał krzyk matki, wykrwawiła się. Przed śmiercią prosiła o pomoc policję - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3pYRXRqQUlTaGxaYkw0Wm1obWVNOEZSdWdMMzJxc1JfZmVrRzVYNEY5ZF9TZnMzWDV3Z2VhY0VfX2ZrU2Yxdmx5a2ZjS0dLcGR4TVhfMmZDYzZpdzFoS0kzd1F2OHVQUWY3X3BBLTIwZGNBSmhUZk1hekxGbktmU0ZUWEx4UWxtWUNmT1c2QVZxVFhVZjdILTVFUXJNUjZnNERSeTB0cDJqeUFIVE8zUWtNWmlSUE1ld2E0eDF3?oc=5"
+      },
+      {
+        "title": "Ostre słowa Lecha Wałęsy. \"Na tym polega dramat ludzkości\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTFCaTF2alR6ZFgtMkxxdHBRamVyak42YTNCdHNEdi1ySzJvNWVhcV9XdDJBUzBTWnFUSzM1eVhsZktrYWVvLTMzUXQyZ01TRHhIZDN2VDRYaUl4ZlZ4bjBITEotYTZmOVc1eUFjUVVHbHlSOGU2eWVGV2dtM19xdG9scFpMeHZPbmk4b0pRS0NMQTQ4QWx5S1I1dXB0c2hQODlaVlRmRnB5V2ZObWhUTjZqRDRKb1dQdEE?oc=5"
       }
     ]
   }
