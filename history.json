@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08 21:17:00",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.63,
-      "EUR": 4.2289,
-      "GBP": 4.8347,
-      "CHF": 4.5132,
-      "JPY": 0.023349,
-      "AUD": 2.4087,
-      "CAD": 2.6262,
-      "CNY": 0.5134
-    },
-    "crypto": {
-      "BITCOIN": 328922,
-      "DOGECOIN": 0.520088,
-      "ETHEREUM": 11384.6,
-      "LITECOIN": 304.33,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 2954.0,
-      "^WIG30": 3799.32,
-      "^WIG": 3799.32,
-      "^NCINDEX": 254.21
-    },
-    "news": [
-      {
-        "title": "Wołodymyr Zełenski zaprosił Karola Nawrockiego do Ukrainy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmdCZEpFTThqOWRndUFKMldvMV80OHhuNnlVUmJSeWVvWm5xaWtGekp0LW1ENU15cEg2MUpjNjJTNlRjMkZwOEN2cE05ajNuLTRJeWlKMGJKclAzV25uSGE2RS1rTG1LdmRtRmxtVkJDZTJNcUlxTEluVHlVVEhJdjNZbUZBLXRrTWtFSks2bGpPbXAwaFNRekVYd1htQnBnR2NLLTlJTFFNeE03SUNoNFJ5QVZ5RWpxb0VGUg?oc=5"
-      },
-      {
-        "title": "Co dalej z kryptowalutami w Polsce? Rząd nie odpuszcza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDZvTTRsa2gyY2FFbUhNOTItenQ1eXVtUDV6QkdhSTViMWhPQ1djZjEyeC1wR09tTEtkbFBqVnptdXJqb0ZyV1hITWVZclhFUDMwMXljcTU0Rk1UNkRYV0x5QW1oNXJJZnNHUzhvWWdoRjhGMUZWd015eG4tTGlMQXpXUlpudnVNcldtRTY5SjBWNFQ2V2Fkd2xoZXozLU81OHZWUmdnTWpBbU9NVFVTMElla3V5TmFHOVZZ?oc=5"
-      },
-      {
-        "title": "Zełenski o negocjacjach pokojowych. \"Jest jedno pytanie\" - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjlUME9qdFhlQnFBUGR5dGRoTENia1ZSSzg2dllRbHE0Tm5RQ3FocEJIUGxncl9EZlh3RTU0TU5xOFBOWTBKWFVBX3BQRHc5TVR4MGRuLXVhNlpNNDhQbTZRNTRKNVRfWVRxLWJScWFib0tpUGVrVTR6bDJ1QkhPYmhzWGJ0djJpWTh0TA?oc=5"
-      },
-      {
-        "title": "Zabójstwo właściciela stacji w Mrozach. Tragiczna śmierć kolejnego członka rodziny - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmNXWG5sY241bXQtdFdkVnh0WHNpUk5tQTVBNUtWLS1VQmV3NURKMlh1TDh1MmVxZ3hqbE1qTm1GTnRYVExGVmVzcS1NM1hJd2pOMjNzVEhjSnNnaHhSUlhVTXkwMWRWQVAzSGdRSUQ4UllZd0tzZ19xeWpYN3FKdGhDUnFtYTdsT3g4SXdTNmZkSkxLYVpLeDhOOE9NTWdXNk1qcWxZZkRCOG9pRUpMdng5Z1M0ZGtjTlUzLXJJN3RhZw?oc=5"
-      },
-      {
-        "title": "Kolejne weto Nawrockiego? W grze wolność w internecie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTNuLXFpcjJ5SU1jd2pxelpQbnhlWlNZZWEtNDhHZDR4aWhOUFpiLWVQVE0tRDlLUXZ4ZXI4eFpxck1Ubm1sb2dHd2FTR2todUthcnB4NDNFcFZWN1JKWGJJYWtZRnBpNGtkS1JDWUstNVBvU0diRy1lY0pXT2dVQ0swdXBWQjVxemRtU2dDOUxHcDQ5Ry1WaDQ4Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-08 22:12:56",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2630,6 +2577,58 @@
       {
         "title": "Poważny wyciek ropy. Awaria rurociągu niedaleko granicy z Polską - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjBKYzBycTdqdXpoMTFsRVZCS19rUXNyR19xb3U3Z2lkbE1zNUdiV1h6MS1pYkV4dlUzWXRwQm10T1FrTHRRZEJPSF92a29hc1RJQzlQV0QyckpvQkQ1RVZocW1QaWxQMmtUV1Q4NDdzR0dMcHpIU0RBS0Z5RWJHSW16Uk1OQ0xTNjdOSTJkQmw3OGI0Wk1GUGhESnNBajdmclgxXzhBNTdGU0FPWGhpQUVEMUNKSlNVOVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-11 05:30:43",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6329,
+      "EUR": 4.2274,
+      "GBP": 4.8363,
+      "CHF": 4.5119,
+      "JPY": 0.023166,
+      "AUD": 2.4157,
+      "CAD": 2.622,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 325952,
+      "DOGECOIN": 0.500093,
+      "ETHEREUM": 11556.81,
+      "LITECOIN": 293.54,
+      "RIPPLE": 7.25
+    },
+    "indices": {
+      "^WIG20": 3021.37,
+      "^WIG30": 3895.06,
+      "^WIG": 3021.37
+    },
+    "news": [
+      {
+        "title": "Wizyta Zełenskiego w Polsce. Pałac Prezydencki potwierdza - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS09PQXhjWTA0YW16UkNpX2MwQjJGcXBuVjRia0gxSjdELVZEQWJKMlAwV3VHdy1xcUVsS0pYOFlqMzVkRzd1WlRjaE5rZ3JOOW82YVhNY04zTWR1RzhWV3ZEWlU3MnIzTE90QkozSXhaYmVEVmxaLUtEaEJIRjlRTDgxd0Q0Qjc4V2tNcER5YU55ZXdRbXJRZVdnRVBlNE1LUFVoV2lST1RPcU9SQUNRemVLWEpNT1Jz?oc=5"
+      },
+      {
+        "title": "Plan pokojowy dla Ukrainy. Media: Kijów dostarczył USA swoją propozycję - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbThWMHVFT0J5dFRwYTZHYXd3M1RzeUxmeHR3akk3STdTa3dnazF4NG1zbUZLYS1kM21RVUt0dlRGeWZRMHJlMlFfUjMtSjZrdE11YWdNOTBTdmJobXo4bGtHTFFhLW8wM3NYYkg0SHBGTFM2VGlFWWVhdkVkM0tVUC1SSXNuVEhmSUpTbERfMEtkOFdIcnJ0LUpMVm94Z01PVE1BMUJQYnhQaTl3ZXJYd1J0cDAtdW4wbGl1SGJ1eGlBOWM?oc=5"
+      },
+      {
+        "title": "TV Republika transmitowała proces z Tuskiem. Rozpoczęła się rozprawa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHJSeHVYVlYyRkZYdEYweFFxYUhVUG1qaTNHUWljd0ppakhFVm5IdUI0X1VIU1pybXdidUNzSWk0OXoxLXhnengwWGZ2OWs3ZWd6elRBcjJROHdtTVlQWlFhVmZrSmNGVW9GSUI0eVFaLVQxREhfa3lsZERiZ1Y0OGFHTXQxY2xCeGNTdDZ0c05PeDFYUkJfeFlOejdJQ09UdHhJMWZ4QlQ1M3NrcFlr?oc=5"
+      },
+      {
+        "title": "Szymon Hołownia wysokim komisarzem w ONZ? Jest ważny komentarz - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaENQeXBZSmxJbjhCV3BYdEo2VzRqVDhNdElIT3ZpRHBhRC1tdjU3c2NmZ2p4a2xOYktGcjdaRnVHZXhuWWRVSzgtQTU2RzdjRk5CajVXcjROQ21CSGsySGh1RUVGTFA5NlppeFdxMWcxSWIzMERZcUVtNUF1STJER2paYXdNb1RUNFkwTlJXU20yTUZkbnAwd0N3LUtyaTdKNVFobm8wcGRpYmFFamJINGZpcjlPeWNYNnBORlJEeXpqdw?oc=5"
+      },
+      {
+        "title": "Morawiecki o wojnie frakcji w PiS. \"Nie pozwolę sobie skakać po głowie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT1J4S3JjcWdqcnlJNkdyWWdMV1NDN19RSkxYQ25KUnY2d3RZRHREenhfZWxQbmd5NGN1VkhnV2lIMWdRSjVHR0xJeXZoTXYzYzRFblFSYnVJUUZfdmVYVWp6cWg2OWVqWG0wR09IakdmdzJwRzBPbVdRR3E4VWt1SzRrTk1aajRjT0hMRGpwcUl6VnBMdjFEa0FxaUFXeFlJUTlPM3RrVWtYdzk5akhRN1paSHJVdTlNUWxSZUl3N2d1Q1F6NENz?oc=5"
       }
     ]
   }
