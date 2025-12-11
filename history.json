@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08 23:14:15",
-    "weather": {
-      "Warsaw": "Warsaw: +8°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.63,
-      "EUR": 4.2289,
-      "GBP": 4.8347,
-      "CHF": 4.5132,
-      "JPY": 0.023349,
-      "AUD": 2.4087,
-      "CAD": 2.6262,
-      "CNY": 0.5134
-    },
-    "crypto": {
-      "BITCOIN": 331337,
-      "DOGECOIN": 0.522282,
-      "ETHEREUM": 11417.79,
-      "LITECOIN": 305.77,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 2954.0,
-      "^WIG30": 3799.32,
-      "^WIG": 3799.32,
-      "^NCINDEX": 254.21
-    },
-    "news": [
-      {
-        "title": "Kancelaria Prezydenta odpowiada na zaproszenie Wołodymyra Zełenskiego - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1NoVU0wZEJwcnZYZHJndlR2bXBfZHFldnNzZV9JSGg1bHVwUDVjSHlvY3prZDFobVRHT0V0R0lYMnZYQ1pmVlE4VnRMWExxaE9Uc1VlcVZCWWtJbVRKVHlkNWFRdHZUUXVzWFNJVE95SGNKaVpZbXppUzhsUjRKb1lNajdHOVMxQTRYLWJSNHJMTE4xYUVXRnljLWRYZ1g1RUlVVXlDUV9nMk9iVmc?oc=5"
-      },
-      {
-        "title": "Zemsta Muska? Konto Komisji Europejskiej na X zablokowane - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWdidlM5d1NsRmxxNG91dTJTa0RVT0JtdElTZ3EyZ25xd2tHTTB5Z0M0UWhtR2hld3VUQ2xGcExMRkdxYkFucVRpUlhFcnIzcmZ4NEJPbXpjejI2Q2RKZWZLTmdjbEhWTGt6M3VJdEQwb0xtUzlwdTYwSklIblhJWXZKazFhelJFcGoycThKeVQ1Zlp1VC1rX0daVEc?oc=5"
-      },
-      {
-        "title": "Zełenski o negocjacjach pokojowych. \"Jest jedno pytanie\" - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjlUME9qdFhlQnFBUGR5dGRoTENia1ZSSzg2dllRbHE0Tm5RQ3FocEJIUGxncl9EZlh3RTU0TU5xOFBOWTBKWFVBX3BQRHc5TVR4MGRuLXVhNlpNNDhQbTZRNTRKNVRfWVRxLWJScWFib0tpUGVrVTR6bDJ1QkhPYmhzWGJ0djJpWTh0TA?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia bez szans na pracę w ONZ? Dziennikarze mają przecieki - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdC1FTWVRci01LWtYRnNHS05feGgzWU5xcF9mS1Z4N1JpdEtDaWdhRUJ1Szh6WGFKWkdyZEZDQ0Myc1FiZUQ0LUR5M3VHdDlFbkRCYmhBM1hSVzF0MGR1NF9ROXhhb3J3ekZ3VFJ3cDVCcl95RkozVlhZT2pPbWZPMXVSUG9NcUtteHNuZk1fRldXNEliMWpKX2VnX3QwU0l0WGRxaGRWemlTR00tX3RVVjdlZ215QWJEbTktZjdaS1NKN1YtTVhLRA?oc=5"
-      },
-      {
-        "title": "Co dalej z kryptowalutami w Polsce? Rząd nie odpuszcza - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDZvTTRsa2gyY2FFbUhNOTItenQ1eXVtUDV6QkdhSTViMWhPQ1djZjEyeC1wR09tTEtkbFBqVnptdXJqb0ZyV1hITWVZclhFUDMwMXljcTU0Rk1UNkRYV0x5QW1oNXJJZnNHUzhvWWdoRjhGMUZWd015eG4tTGlMQXpXUlpudnVNcldtRTY5SjBWNFQ2V2Fkd2xoZXozLU81OHZWUmdnTWpBbU9NVFVTMElla3V5TmFHOVZZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-09 00:14:10",
     "weather": {
       "Warsaw": "Warsaw: +8°C",
@@ -2628,6 +2575,58 @@
       {
         "title": "TV Republika transmitowała proces z Tuskiem. Rozpoczęła się rozprawa - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHJSeHVYVlYyRkZYdEYweFFxYUhVUG1qaTNHUWljd0ppakhFVm5IdUI0X1VIU1pybXdidUNzSWk0OXoxLXhnengwWGZ2OWs3ZWd6elRBcjJROHdtTVlQWlFhVmZrSmNGVW9GSUI0eVFaLVQxREhfa3lsZERiZ1Y0OGFHTXQxY2xCeGNTdDZ0c05PeDFYUkJfeFlOejdJQ09UdHhJMWZ4QlQ1M3NrcFlr?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-11 07:25:07",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6329,
+      "EUR": 4.2274,
+      "GBP": 4.8363,
+      "CHF": 4.5119,
+      "JPY": 0.023166,
+      "AUD": 2.4157,
+      "CAD": 2.622,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 326064,
+      "DOGECOIN": 0.500785,
+      "ETHEREUM": 11582.92,
+      "LITECOIN": 293.99,
+      "RIPPLE": 7.29
+    },
+    "indices": {
+      "^WIG20": 3021.37,
+      "^WIG30": 3895.06,
+      "^WIG": 3021.37
+    },
+    "news": [
+      {
+        "title": "USA proponują powrót rosyjskiej energii do Europy. Zaskakujące doniesienia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2d0VTh1ZFA3UWQwVmUzVlF3a2xIZXBWSlRpT1ZKQ0pkUWF5aXJyMS1Ua043ekYwQm4xNkU3V0wzU2VwSVhGY1Y2TFhXVlZ2QlptM2dpTVI3ZkczMTc2UVVNbmdFWVNtaDBRbEVzU1J0aU55eXk3b0RVeDZRWWR0dFhjZVFoeEw3ZjhJbVRpRDFNQXlJSko1aUZqU3l0ZmRjSk03dXh1cVZaazJaY2plbm00WE9PQVY1RXFqUDhqdDViNy1XVG81ODRkVkx6UDRa?oc=5"
+      },
+      {
+        "title": "Prewencyjne uderzenie NATO na Rosję? Ekspert wyjaśnia - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2ZVVW5qeFdrQ1lfSDRSNUl3Skh0TGwxWFl4ZUwzRm5KMlI0c0hMamdMV0pJMFR4NUpIeDlxVkNWRmhQZkF2X1d5cHJzX2ZKQXNGdkhvcVFNd3d1RXFyZ3JJQUlGckE4ZjZ2aVQ0dzVQdm9IY1JLUmtzV0VEZkJNNXBEUEZPRGZmXzNOUEVKOWY3QTJGZU15VlZWeHVCZmN5ZzFlN0d5TlhHRmpVLUVuVUNSbmdZWDZSQWc?oc=5"
+      },
+      {
+        "title": "Trump chce \"odciągnąć\" Polskę od UE. Ujawniono tajny dokument - Polskie Radio 24",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWQ3MnRHTjVsV3NIczQtcjhab1JicTkzQjVWQ1o1U2trN1h0S215Yy1xQnBBSzd4RnFtbS1jcGdEbU9tQmJMdnhLdkc5MjFHZzBXSG9EZ0ZEcGxkVXpmUVhlaUY0Y1NpUHNYNHhNSzk3R1BwOHpkc2tfQXluOXRWY0NqVWJJSVowLW5YTEROMkctS3JyMHJBejNnVnZuSUxpblE?oc=5"
+      },
+      {
+        "title": "Wizyta Zełenskiego w Polsce. Pałac Prezydencki potwierdza - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS09PQXhjWTA0YW16UkNpX2MwQjJGcXBuVjRia0gxSjdELVZEQWJKMlAwV3VHdy1xcUVsS0pYOFlqMzVkRzd1WlRjaE5rZ3JOOW82YVhNY04zTWR1RzhWV3ZEWlU3MnIzTE90QkozSXhaYmVEVmxaLUtEaEJIRjlRTDgxd0Q0Qjc4V2tNcER5YU55ZXdRbXJRZVdnRVBlNE1LUFVoV2lST1RPcU9SQUNRemVLWEpNT1Jz?oc=5"
+      },
+      {
+        "title": "Prokuratura wyjaśnia śmierć uczennicy z Gródka. Śledztwo trwa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVJKd0lzV3hXRlVhWVhldUpxd2JzS21hR1J5Sm01YWw0OVNWM3RPR19XT1VOUXhfQU1ta3BKT1BuSlloX2ZTT1JNMEdlSWdHZjFxb3BvVUpIZWVQY0lFZTM1Mk1qcENtaDJVTXNnRlJpem9OUGFkOHdZODZjb256N2VZVGIteUltTjJVQ0ZDX2RhVWItalpDSjlNdFh2N0djN3lfeGNOdDdrNzhOMFZpeHd0QmoyUDA?oc=5"
       }
     ]
   }
