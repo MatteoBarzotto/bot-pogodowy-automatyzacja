@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-10 17:21:16",
-    "weather": {
-      "Warsaw": "Warsaw: +9°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6329,
-      "EUR": 4.2274,
-      "GBP": 4.8363,
-      "CHF": 4.5119,
-      "JPY": 0.023166,
-      "AUD": 2.4157,
-      "CAD": 2.622,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 335198,
-      "DOGECOIN": 0.528165,
-      "ETHEREUM": 12142.11,
-      "LITECOIN": 306.91,
-      "RIPPLE": 7.5
-    },
-    "indices": {
-      "^WIG20": 3021.37,
-      "^WIG30": 3895.06,
-      "^WIG": 3021.37
-    },
-    "news": [
-      {
-        "title": "Tragedia w Małopolsce. 80-latka zastrzelona. Policjanci zatrzymali 90-latka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjIwdUxpXzRCcmh0SXo0UjR0MHlES0UxQllRQXJZOXlIWWpXQXdrdEVYOF9lOF9Dc0RZMjJhUUgzOVp3YndnbEt0UXZjbncyTXVIM01UV1hkRFNDSFRTSXdqbDl1X0JsT1QxT2tpSWFldFJqSWdpVmlHcE1vQTFISnFocV9PTG5MMldqc1ZER1lGYjJ6ZU5tQzZFTld0ZUhKbE5Ed3p5dUp3UzVWX0szQmFhUmFfQQ?oc=5"
-      },
-      {
-        "title": "Nieznane zamiary USA. Trump chce stworzyć grupę C5 z Chinami i Rosją - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakt1enRKdUlPOG5yMXRiLUZMa1lOanEwQndBRW14cHpEUlZ5Wm9OYXVDLTB5QW12dVp5cU1mOWpNdDYzX0E3a0hPTHN3THVaR1I0UjlmVjRuLWJ0M1RwaHYtcXdGVDlxSGI3WUxZX29nRF9WLUhnX1dQeEM3UU5SRlhRdWNFSlRlenM5bDl0LTloNlNyRDVuSFVmMlQ0ZThTYTNqWElJQnNNVW5jdFlocS1XX0VYTnBnYzVidE83NA?oc=5"
-      },
-      {
-        "title": "Ojciec Tadeusz Rydzyk pojawił się w prokuraturze - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQendPY3Q1MTI3cXNuNWZnLXFRaE9WSmhyQ1BicnFYdm9zdHQ0Si14a2ZKOXVfSVZ5dkthMUVxZE5oMUJ0eUd4LTNpekdZbk9NYllnZ1FEeDQtYlFTZmpXQW04M1NPLUJmYzBFS3RLMjJScG5LVlA3U1RQT3ZLTlpQc1VheWRGSWRiZG5CQy1aaWwxRWNUTEE?oc=5"
-      },
-      {
-        "title": "Atak nożownika w Myślenicach. Napastnik nie żyje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTk1dk8xM1lBYzJhSTY1N25wb3pjQ2RhdkdLTTI3NVRFWDlFbm1lbzFTX3NBalFWbnZuRjh2RjRrdnRDVzNUT0dacko4VFFKMEd0enY0LXF1WU1OeGZFWDAzRkZRcjBzeG9rTWxkZlVmbV9VVGhIa2ZieS1NejNEZ1gtYnZPTGJvRWVzazNVMXJXaFE3Zm9wYlhTVVgzclRzNlMwR3Y4R2IxZw?oc=5"
-      },
-      {
-        "title": "Plany Szymona Hołowni legły w gruzach. Nie obejmie ważnej funkcji - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWJkWGRwRHJCQVpEeEZkcTlOanN3dmhLcHAzUEVQalNnXzZuWVdPcnY2cmdjVnV5VXhpOVVlSnBZbVFSdWZXN2ZEZW1RejNoY2syZ2hCXzFaOExlMWlzWlpKeVlMeWluTVdMMVl4T0RmZnZHMTlHY080dTR1bDJSenBwNnczRVhOM0N1MDdNODRoeWZGbWV0azNWZUtGbFVQVndCWUVVcV9KYmNhcDFJSHlNd3ZmekRIZlI5aw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-10 18:17:26",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Syn europosłanki KO potrącony na ulicy. \"Sytuacja jest bardzo ciężka\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEQzQnRkSkVDYVQ1TEVOX2FCdm5TaGdwMFk2LVYtbUxqenkza295algtQmV3QjBrN3BodGo2NFQzRVBES1htdThDOGZCb3FTRzNIX3ZZcmhfRU83Qm40Y3NEc1JqdUoxdTNWZEhVcmdMWDdyYUxQY1pyMjJDSlhtMXM4U01iaWJ2blYtRWxmTzhjUG55WHhPREd3N24wYjlwbnFoMDFKbV92WC1abkxVSjFuclJHSlB0azNhN2VnZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-12 23:14:16",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6027,
+      "EUR": 4.2271,
+      "GBP": 4.8216,
+      "CHF": 4.5326,
+      "JPY": 0.023111,
+      "AUD": 2.4027,
+      "CAD": 2.6181,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 324942,
+      "DOGECOIN": 0.491165,
+      "ETHEREUM": 11112.49,
+      "LITECOIN": 294.9,
+      "RIPPLE": 7.23
+    },
+    "indices": {
+      "^WIG20": 3079.15,
+      "^WIG30": 3954.98,
+      "^WIG": 3079.15
+    },
+    "news": [
+      {
+        "title": "Burzliwa narada w PiS bez Mateusza Morawieckiego. \"Pokazał prezesowi miejsce w szeregu\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEtyeW1TQjJyU1lERFB2bnNrWW81RTBnY0p2UVZYZndMeEw4US1HMnAtZENZc0QybS0ySHZPNWxRSE9NbmFMTEYzVkdnXzBEa3JlaW8zVnpTVTFaX1Q0aXhwUTB0cExrSW9NdzI5SEplU1pvUzlsMENkU0RRb3Vnd05pWUx1aUNIRXF5eFhGczhqRkRUMGlXVVF3ajhuR010WEcwelNZYmlIendFcWVFZk5CeV9LbWlVZXZjcE9TTkJJMGZGZGlXN3FsOVVHT191eGNKbmcyR3NtLURMSlpSaA?oc=5"
+      },
+      {
+        "title": "Zełenski: USA chcą, by Ukraina oddała Donbas. Miałaby tam powstać \"wolna strefa ekonomiczna\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkZMRTQ3OHRQWmVzXy1nSFI2RWlsTzFYdGRoUDVERFJnYS1QZVRfNnh5QS1YTmdhRl9nQW5xTHJaUWpScnRJSEVtQUVaTkRRUGlvZWFjSEtuWnNCcDh4cF8xLVdEUW1leERmaHBvanlXTE5ibjFqX0dKWV94YzdrQlZncEI0Sks4eWxCbTJWSkNFenVxUUlpaWpqa0pZMWJjZ1lreA?oc=5"
+      },
+      {
+        "title": "Rosja może nałożyć \"sankcje\" na Zachód. Ludzie Putina mają plan odwetu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORThvSUtDTGFOZmxXZ3JLbnM4SWw4RlhqcVlsYjhNczRiZTBKM0VWNUJVY2JIQ0gwM19xYm9RVi1BUV94bnp2R1FrSXJTSHhHVVpRQ3BHaXp6dDVrMmJVYUFwb0g2bktGTGxXT0ZHaW15U1J4V2s5SHpxd2hxZ0w2VGNmdFJCSUFOck9lRWxUV2hhSmdvdFhfSHFBMVNyRGZLY2x4ZVkzRjFTQkQ1dVZCUlpxeER6NXU4UENlaHRn?oc=5"
+      },
+      {
+        "title": "Dwa lata rządów. Pięć zagrożeń dla Donalda Tuska, które mogą kosztować go utratę władzy - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk93SUxLUjNTU3dqVkk3djJTVWpWMGtJMndaRzVucDVJSHFLRjZBdW91eXJxX2hVMTZyaGROSEpjNFJGQmxEUEF5dkhLTEJ5OE5xTTBacU9heTQ4c3dER1VqQ3JtUWhEd2JPR1BDWWNnTGVaOHkwblc5X2EtbFNnbnlXcVFlRXF4dHh3UXJoMk5BQzcta1hEanFQOVItN0JBcGY3TFM3VkdFa0lYc2t0V3Rn?oc=5"
+      },
+      {
+        "title": "Wyjaśniła się przyszłość Szymona Hołowni. Chodzi o stanowisko w ONZ - Polska Agencja Prasowa SA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXNXY2VaOHNuam53VHU2aVo4NlVheTc0b09rNm1NQ2FwRWhma0tGSGJFbzNpbmpiNUU4OGpzYkJwWENrR29sLVdqQnFaRG5UYUUyY1NXSklMeXFHTXRtbWFmZGxDcnpudTNtSkIxLTlJcjVwLWJNVUtISGc0OTg0NG1UZU81dGZVTG1GMk9XVDNxVVdrczY3UGZMclFRZw?oc=5"
       }
     ]
   }
