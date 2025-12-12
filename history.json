@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-10 16:18:28",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6329,
-      "EUR": 4.2274,
-      "GBP": 4.8363,
-      "CHF": 4.5119,
-      "JPY": 0.023166,
-      "AUD": 2.4157,
-      "CAD": 2.622,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 333718,
-      "DOGECOIN": 0.528332,
-      "ETHEREUM": 12076.41,
-      "LITECOIN": 305.89,
-      "RIPPLE": 7.51
-    },
-    "indices": {
-      "^WIG20": 3018.95,
-      "^WIG30": 3891.75,
-      "^WIG": 3018.95
-    },
-    "news": [
-      {
-        "title": "Jest inna wersja strategii bezpieczeństwa USA. Mowa w niej o Polsce - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTB4d0ktVDlaTmQ4MDZmZHV6eWdyMjV5OXRHN2V3WTd3QWV5WDQ0Rk4xUmhvLTltQmVwLUpsZkJ5cXZfRzhIczJNQUZBVDJIaVdTckVfWXlzbnJmMnBKNjFHZzhZWWNWNzZVYzBfR3VyZGJ4VUh0clhjaFRfbTZqTUdSZ1R3bjYwU2RlclZ3X0pWRjRyM3p5eWdCWUFJdi1kemZQUFJIcmx3QzN6OFVKYkQzdTE?oc=5"
-      },
-      {
-        "title": "Tragedia w Małopolsce. 80-latka zastrzelona. Na miejscu kilkudziesięciu policjantów - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0NfYkxkZGo0TktCM3ZQNEExbmc3eU9UZDB0WUNrbnBEdWhtMS0wZHRjWjNUakd6WFZ0R052aWlvWmJ4bGM5aDY4R1dWSmRwSUZZVi14TW5qd3dwcV9iUmdFRHQzRVdjTlYtWFNyRk5pQXFMWHljdmlsdGl5RGczcU5lZ1I0N180WlpsWHY0NkZJRGZ4NlBfWnpITUJfUFdveG9raXFNMXF3ZGV2VjE4YVNLbk9tNTg1VjZLU1JpdWw?oc=5"
-      },
-      {
-        "title": "Pilne spotkanie władz PiS. W tle napięcia w partii i sondaże - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1J2UzF4bEpHQ0k0UEhyd0FhS1gyMktJRG1NZktIX0pDZnpkTUFmNmxKTkNmNUU2WUhUN3FpZ0t4Z0p3YnNEbVItNjN6cmFydUNHQWtVZHVNYzZKVHhHM3RYQjJ4VmwxNzhtLUp2bDJyb2pLNU5TZW1hVVFUU1duUElQcjFFVElhNHRUZGV4a2RhM3BtNTRmU1VfNnhSY3FL?oc=5"
-      },
-      {
-        "title": "Ojciec Rydzyk sw prokuraturze. Kilkadziesiąt osób przed budynkiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1lweXFuYV82b2lRU0tWRlYxRUxzRzFYekx1aGxNTUhCVUdPcnROSDZ2WmZ2TGpzZHlvUTRzSmFac0U2TnQ1N25kM0E0U243STVITW1tdkg4aDFpaHJqS3REbldBRFJKaXc1N3VnLVZjWXBhbEh6RHpCc1VjQ3Iycjhtc0hSRUJQOUh5SEd0WVFHbmxGTnF5ZjdrWkhGcUVDY1A3U094Q2NCUEZEenZyUHZhMzk?oc=5"
-      },
-      {
-        "title": "Atak nożownika w Myślenicach. Napastnik nie żyje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUxWc2F4dVE5TXZvaklhdmM0VkpiT2VKeGY2RUNydEFsaXZ4Zy1jZVd5eUJFRFF1UE0xeEZIcGREQVVmSkU5U0xVNHphUmEtUTZBMG1iVXNHbmVwOUYtclJ4N1FmdTNibldncjBDcy1NWkFsVWFKOEl5eDVqTHIxY3g3N25aVDAwaU9nYkp0NkJhVjg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-10 17:21:16",
     "weather": {
       "Warsaw": "Warsaw: +9°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Syn europosłanki KO potrącony na ulicy. \"Sytuacja jest bardzo ciężka\" - Plejada",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3B1WVJ2Yk9ZUTRXcnYzbkdUa0p1NHFJTnFBYlhFMERGQXFycldLNk9OSi0wU19DSUNKa01FYldWeW5aVHRmb0RWVTBpaTJhRkRHOV9mazNWOTJ0WEllVFRFV21ZV1AweXI4ZUJvNnVWa1JKdnRrNE1xRVFOS0xxYjhaeHU4ZW9lWVdzOUZpSHp1elU0UFREWExGT08tZVJZ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-12 22:13:36",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6027,
+      "EUR": 4.2271,
+      "GBP": 4.8216,
+      "CHF": 4.5326,
+      "JPY": 0.023111,
+      "AUD": 2.4027,
+      "CAD": 2.6181,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 324782,
+      "DOGECOIN": 0.490412,
+      "ETHEREUM": 11100.62,
+      "LITECOIN": 293.97,
+      "RIPPLE": 7.2
+    },
+    "indices": {
+      "^WIG20": 3079.15,
+      "^WIG30": 3954.98,
+      "^WIG": 3079.15
+    },
+    "news": [
+      {
+        "title": "Zdemilitaryzowany Donbas i \"wolna strefa ekonomiczna\" to nowa karta na stole. Tak Ukraina chce przekonać Donalda Trumpa do poparcia najnowszego planu pokojowego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkFROGltX3lCNlh3SDNpb0VxMlljVlRGRlg4MzRnSWZSR091V2dwU2lLNGE5M2JvTUVfZk1oaW9aZnI4MlFlUk5Qa3dEVmZIT3dpTFJSTGw1V3ZVbWNGcm9vdzhhT2h3Uk1EY2J5cllVcEJLQ1BDcWlSOXJSS3llOWVHSFRsbXRIMjJ1TF9Bc1RvOEtvTG42eDI0Qnk1dFZxRHpMYV85aEdXT2I1MUlsMVRNQjBFQlRmNzlmZDRTYw?oc=5"
+      },
+      {
+        "title": "Macierewicz zaskoczył przed siedzibą PiS. Uwagę przykuł drobny szczegół - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHFXcUJUaEpyaXpmRGFuTjhBaWNVVEE2WU85dnhER2Y3dGpDcDVSQUZ4NHE1RGpKMG16U2xHM0tWdHk3ajBBc0dEb0VZRFV4T3NHdFZRdXp3WWxubDNsVUQ5NjdnMTd5TUJ3WENkYkZEYjFwX2pFdkZFWlVKZmhOeEhXemVpZjZuUkN5OGZmQ2hCdVRZaVBBYW03YjY0OEV5WGttWjFOWFJiaDQ?oc=5"
+      },
+      {
+        "title": "Rosja może nałożyć \"sankcje\" na Zachód. Ludzie Putina mają plan odwetu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORThvSUtDTGFOZmxXZ3JLbnM4SWw4RlhqcVlsYjhNczRiZTBKM0VWNUJVY2JIQ0gwM19xYm9RVi1BUV94bnp2R1FrSXJTSHhHVVpRQ3BHaXp6dDVrMmJVYUFwb0g2bktGTGxXT0ZHaW15U1J4V2s5SHpxd2hxZ0w2VGNmdFJCSUFOck9lRWxUV2hhSmdvdFhfSHFBMVNyRGZLY2x4ZVkzRjFTQkQ1dVZCUlpxeER6NXU4UENlaHRn?oc=5"
+      },
+      {
+        "title": "Wybrano Wysokiego Komisarza ONZ ds. Uchodźców. O stanowisko ubiegał się Szymon Hołownia - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVhyT1JkakFlN1hhQUw2dUJBdFdiZWY1bDNxcDdob29pZzVIN2VqNmNtcTNDR3hRYkt3MTZHVV8tcDB4XzdLcWxHN1VJNTRIY3F1Z1JWVktMUExpSUV5QlFONzlJVTFfaU1pV0FJLWFOblZPTlNtak84bnYxV0hFcjhRZDdOVmZ4eWR2b3VBaW9jQ3E0aHR2UE5uRDJtckhCSnJIbEVGcG43WVJHNm45TFAxamZtY0JGY0FZWmt1ZjhIUQ?oc=5"
+      },
+      {
+        "title": "Syn europosłanki KO potrącony na ulicy. \"Sytuacja jest bardzo ciężka\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEQzQnRkSkVDYVQ1TEVOX2FCdm5TaGdwMFk2LVYtbUxqenkza295algtQmV3QjBrN3BodGo2NFQzRVBES1htdThDOGZCb3FTRzNIX3ZZcmhfRU83Qm40Y3NEc1JqdUoxdTNWZEhVcmdMWDdyYUxQY1pyMjJDSlhtMXM4U01iaWJ2blYtRWxmTzhjUG55WHhPREd3N24wYjlwbnFoMDFKbV92WC1abkxVSjFuclJHSlB0azNhN2VnZw?oc=5"
       }
     ]
   }
