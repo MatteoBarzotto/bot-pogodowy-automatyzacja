@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-11 14:34:13",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6132,
-      "EUR": 4.2284,
-      "GBP": 4.8316,
-      "CHF": 4.5277,
-      "JPY": 0.023183,
-      "AUD": 2.4035,
-      "CAD": 2.6172,
-      "CNY": 0.5119
-    },
-    "crypto": {
-      "BITCOIN": 324342,
-      "DOGECOIN": 0.497359,
-      "ETHEREUM": 11516.41,
-      "LITECOIN": 290.72,
-      "RIPPLE": 7.25
-    },
-    "indices": {
-      "^WIG20": 3056.56,
-      "^WIG30": 3929.07,
-      "^WIG": 3055.85
-    },
-    "news": [
-      {
-        "title": "Wybory na szefa Nowej Lewicy. Włodzimierz Czarzasty podjął decyzję - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkNpYkxxNmhLMTM2MnVNZjF3a1dUSjRKZ3ZlS2pyN2d4ZFpWTC1xMjlISEp5OGRRbkhvYkRFNFlSRDJySjR5T0tPdGkxcXM1c2JtREx3SUhzZGd4X0VVZzZkeC11cGI0SmxTZW11anF6WmRnOTNPMkhOZU80VWlUNGwxS1FRN1hnYXBpVVIySjFqUHBvbERuTUQtNVl0RTVCUUZWTGlzV2FKb19GM081bklVdzlqYTZGcTN0Q0xVbkFJS1BrWm53?oc=5"
-      },
-      {
-        "title": "\"Kompletna bzdura\". Paweł Graś odpowiada prezydentowi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1hDWldpTTZQX3Z6eFRXaHhscklHVzJoVTFtUFZtTHRYOWJiQWZIbVFUa3Q4QUZ0VElFanczZUhUZjgxbWR6UUpOMWk4Z04zUU5mOGlWczlTLUtmX0tYWFVyUlhzRC1uOEVpdzVyV3dEZ1M0MGRSeXVaRXlTZndOM0dxSnhZYk9GRnRIOHNjczZ1QlNyN2s2M1p1MWJBY0dPMEZuWTFUZ1JrZmZqUF9GOUluTQ?oc=5"
-      },
-      {
-        "title": "Trump po rozmowach o Ukrainie: padały dosyć mocne słowa - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXFGMFduaGFwTk9YYUl2a2dzekFWUzdKR3NqaTkxMjZRQkhTQXE4dkhFWkRhYmdkLTJ2dGttRnNkTGs1SVR3Sk93S1pNQzFrSmpGcW02SldzcmxxdlhKeXItdGlkN2c1Y0RtQV9rU21kNzlkc1FPakdOTVpMSloxY0REWW1xV3RPZE1tTm93?oc=5"
-      },
-      {
-        "title": "Znany rosyjski naukowiec zatrzymany w Polsce. Siemoniak w TOK FM zabrał głos - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenF3a2tOTTNLTHVDckxRMHpkczRLYlhTWFBybUw0eTl3Z3VFVHFuc1RnLVNCQlZXdmF3V3NGWlAyYTVQSFJ3RlhZS3Fwa3VLTXRXVEFJaVFLZjlnVzk1WWdmX3NEVFhKMUpGS0N5MmZmS3NxQnU4M3YtZWtWSTlpbVVXMl9JbTg1MWdaWnpFWW1acDRUX2V4WXNkUWFLaVdqQjRDd2g3UVo?oc=5"
-      },
-      {
-        "title": "Rosyjski biznes może wrócić do Europy za sprawą USA. Szokujące doniesienia - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUE2MVUxYjNZbjc1N01OWWNfTGJRYm5QM1RuNkxRT0U1bm05YnpRdV9XaUV4d2VpWVBLVG5WWE1Xc2hvbURyUEpUSDhIVHdtTlBJUW13ZHRpUHNIQWlvcU40aF9UMTl3OFZySTJOWUZUZ0wxbE13ZGlkQnFrakdqYjZhdXhNX0hRb2tmYmpYRVZfcXlSSzcyMHR3ZFpwaFNldF9Fbm8zc01rdDBlU3NzM1VHZDE5VlJWSEgxaWlNUldtN0VrM2J5SF96NDRPUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-11 15:17:59",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Jakie są szanse na powrót zimy? To pokazują prognozy na grudzień - TVN24",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM0R5Qi01bTBoRS1jRFBsT3pYZDYyLVNua0EtQ1RHbzdFRGZfRWgtNlpXV04wXzItZ0xsai1sWG81YnZqTHdXNVVvaUE3d0Z2SkR4UFVlRldQSHJFbHNOdW1KNk9rSVhvYlJPU19SODNpZlQzM0VGR0NKN283S01IejY5QU1BaEZpaHE0WUdRN0xoVnZZS3VuZUFHelVlSWhuektfNU1xNmxMaUFhOFFxQUQ2cVY1cjFwcnF2a0FpbjhxMExlay1VMVNaemctMi10VzBWbXJZYlYtNkpSaHhMTDBNVTVvRXpP?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-13 20:10:47",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6027,
+      "EUR": 4.2271,
+      "GBP": 4.8216,
+      "CHF": 4.5326,
+      "JPY": 0.023111,
+      "AUD": 2.4027,
+      "CAD": 2.6181,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 324921,
+      "DOGECOIN": 0.500494,
+      "ETHEREUM": 11188.53,
+      "LITECOIN": 293.33,
+      "RIPPLE": 7.27
+    },
+    "indices": {
+      "^WIG20": 3079.15,
+      "^WIG30": 3954.98,
+      "^WIG": 3079.15
+    },
+    "news": [
+      {
+        "title": "Eurowizja Junior 2025: Francja triumfuje w Tbilisi. Które miejsce zajęła Polka? [RELACJA NA ŻYWO] - Kultura Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT0s1a2wxLVUzSjZhQ0xMLWFZcnpSMjhtanFLWGVwblBTWGZPX0o3SVZjTGhiMWpvQjB0dmVkeVc3d0xmNUhXZDdSVEt6U0FYWDVTSnpMVlZFS3VIcFNab1hNdGc5djNUY0M2NU5PWVBZTGxQMUJodEZZR203SVVWSFNHNkhsQVg5cTluX0ZMOXFqS3pvblEtcy10TmhmakdhTF9NQUdPYWJMeTlIamJxc0IyRzBsU0xRSXY3anc0ZHlJWG55ZTN6UVV4dlB5eXZo?oc=5"
+      },
+      {
+        "title": "Laureat pokojowego Nobla wyszedł z więzienia. Aleś Bialacki zabrał głos - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1phbXJOMVJUc01zSW55d1NIcGNUUGE3em05QW4wMDBBQm1Bb2RvRFRGRzJNU1IyYWR6VzFWSEFiZkVrcXhMaGFocUcwS1BIQm0tXzFCVTJzcTgybEFwdFYyeUg1S0ZSNU1fb1F2Ul9ycm56M0E1MXRFNjdXRHJhWjlaWmR5OE1odnJGemVKRUJCTG0tU0N5ckxoaEF1aGpVdWFSbk9kOG5RZjQ?oc=5"
+      },
+      {
+        "title": "Polska gospodarka jak z bajki o Złotowłosej. Co się zmieniło przez dwa lata rządów Tuska? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWFzTmxhY190RnFoSERpQjhqM2dUWG1iczlQcjdJeFk0WDcybnh4QUhsQzZTYXJKbHVnTFlxQW5KeEpqY0lzTGZyTWJBSlBiOENwZnRQbE00NDJZUkNtUEl6dmhrU015MU02WUpPeUVmUWRUYzZ0QktmaFYyNjVfUEpxTTVPeEJMSlFkSmx1dUZwTkdqYjhhaGxXU0N5cjM2a0NUSnVxWFNFLU41NDl5SVhmTEg3cXo5VXd4VG1IXzR6bl80VXQwUmFoWFppTEJCV013X2FGcXF3UQ?oc=5"
+      },
+      {
+        "title": "Wojna frakcji w PiS. Co dalej z Morawieckim? Prof. Chwedoruk wskazuje: o to toczy się gra - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOS15bTdFSm54T1lFdEdWdTZiQVZwYjVEUWd3NWZFZ0NLUVFRZVFkWFp5THJiN1NwOGptRkdMRTdCVXhSZ09laUdjYy1yMjE0aG0tTFNHY19PYmQtM2drSnJqTnRxWllnSDhzSTBvTXAzQ09zS1FabERDaEtfNnY3SUo4eGZtb1RaRThOOUhVbThITWVIcXRPWXpTalpUcnNrM1pna3FtUFJRU2w2UW1jUWNzT1duYlpuOGpGUHhn?oc=5"
+      },
+      {
+        "title": "Afera z brudną limuzyną prezydenta. Polityk apeluje do ludzi Karola Nawrockiego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW5ET2NMUTNoMDlpc2hZUzNEQ0Q2OW1RTWFQNmI2RGR6U1lGV3l5c0ZiOVVDcU5HbTJFNGVONnFfbWFJSWp2WHNSd3p4RVRwbjJZMlhpUW5OQmVKbDZabHZNNGUta3h3YkljSkJWRUdtM1NPZ01WSjQ1a19iWkdFeGJaY1F6alI2YTk3VVBlRkFZeTFXd2szNkxlZVBaUTRGOF9SSFQ5eDVfUHlVUjQ1MQ?oc=5"
       }
     ]
   }
