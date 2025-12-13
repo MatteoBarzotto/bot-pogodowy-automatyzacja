@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-11 02:12:14",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.6329,
-      "EUR": 4.2274,
-      "GBP": 4.8363,
-      "CHF": 4.5119,
-      "JPY": 0.023166,
-      "AUD": 2.4157,
-      "CAD": 2.622,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 328935,
-      "DOGECOIN": 0.507385,
-      "ETHEREUM": 11785.7,
-      "LITECOIN": 297.79,
-      "RIPPLE": 7.3
-    },
-    "indices": {
-      "^WIG20": 3021.37,
-      "^WIG30": 3895.06,
-      "^WIG": 3021.37
-    },
-    "news": [
-      {
-        "title": "Marcin Przydacz o szansach na zawieszenie broni na Ukrainie: „Nie jestem optymistą” - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29nQjMySHprRXJoMUNtemxMby10U3VGVVlOdGJTZUVLZnIteU5PN1FlcnZXY0VjRjJvUzlROGhBelpOVVBTeGhORlBGNGkxeGk4VS1kNUhiZVo4WHRjRHFxb3RldjFySzFtR1FrQU9tQklFY2V1NFNlYXV1bkZUbUFqQVg0VW1XQ1QtWi13VTBoNUpOZ0JMdnRLNFBWZWNxSmlrekMweVdILTRxWWdjRVhKU1ppaXR0Z2o3UC0tN0haT2NDY21HTkFn?oc=5"
-      },
-      {
-        "title": "Trump: USA przejęły \"największy\" tankowiec u wybrzeży Wenezueli - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzlPSjc4MEF6Zmg2dkZHMDJON1JvZHRfRzJfekEwYmFTbnRFUU90VGRJUG9NN2dwcHAtMVN4RndpV3lVSzZ3THJpRndXajFDNU9Ra3FmYm9JRkY1RnltZldVdF9qR1hlaWlMelZmNGk4ZnVnZEJOcHE0Ylg1MHctVDBPXzVDZHhDQ0FVUE5sMFpVcU1WUE53ZG1OT0s1bHZET2ZMamtUVQ?oc=5"
-      },
-      {
-        "title": "Szymon Hołownia wysokim komisarzem w ONZ? Jest ważny komentarz - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaENQeXBZSmxJbjhCV3BYdEo2VzRqVDhNdElIT3ZpRHBhRC1tdjU3c2NmZ2p4a2xOYktGcjdaRnVHZXhuWWRVSzgtQTU2RzdjRk5CajVXcjROQ21CSGsySGh1RUVGTFA5NlppeFdxMWcxSWIzMERZcUVtNUF1STJER2paYXdNb1RUNFkwTlJXU20yTUZkbnAwd0N3LUtyaTdKNVFobm8wcGRpYmFFamJINGZpcjlPeWNYNnBORlJEeXpqdw?oc=5"
-      },
-      {
-        "title": "Prokuratura wyjaśnia śmierć uczennicy z Gródka. Śledztwo trwa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVJKd0lzV3hXRlVhWVhldUpxd2JzS21hR1J5Sm01YWw0OVNWM3RPR19XT1VOUXhfQU1ta3BKT1BuSlloX2ZTT1JNMEdlSWdHZjFxb3BvVUpIZWVQY0lFZTM1Mk1qcENtaDJVTXNnRlJpem9OUGFkOHdZODZjb256N2VZVGIteUltTjJVQ0ZDX2RhVWItalpDSjlNdFh2N0djN3lfeGNOdDdrNzhOMFZpeHd0QmoyUDA?oc=5"
-      },
-      {
-        "title": "Duży wyciek ropy przy granicy z Polską - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2hrVUQxOHRpZkJ3T294X0ZUMmdtYWEybTFNWGZQQ2dTeWo5a3ViMXQyNTR6VlNrNEJTbWZGN3FlRE9ybWxxcmltMm0zRGRLYlF3TEZsQVhBWk03dnI5QUpOWUhKOE1RcjREdTlnZFJhNmlhTGlOSUxiTXJZQS1IczNxVHotVGtWdjNvV01CWVJ2RVBxRktROFo4eU9ucVpOVW9OVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-11 04:19:55",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Święta u polityków. Pałac bez Chanuki, Sejm bez szopki - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjRLd191V0JTZUhVb201NWtPSk42R2JPM3dHZ0FmNE9ibTgwckQ2VU5JSVVrVWpfQ0F3X1RNa2ZOZ3RuZnBzOVhnY19FcjMxX1dUYVhZUW9jODVRSFRnZElHNzJJXzVKMzYxUFdkWXI5aWFhZ3dOR0pvMXlzNW1IdDRKTkpCTl82LU9TVmU5cDYtNXI5VFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-13 09:18:19",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6027,
+      "EUR": 4.2271,
+      "GBP": 4.8216,
+      "CHF": 4.5326,
+      "JPY": 0.023111,
+      "AUD": 2.4027,
+      "CAD": 2.6181,
+      "CNY": 0.5106
+    },
+    "crypto": {
+      "BITCOIN": 325817,
+      "DOGECOIN": 0.498005,
+      "ETHEREUM": 11215.59,
+      "LITECOIN": 296.0,
+      "RIPPLE": 7.35
+    },
+    "indices": {
+      "^WIG20": 3079.15,
+      "^WIG30": 3954.98,
+      "^WIG": 3079.15
+    },
+    "news": [
+      {
+        "title": "Polska gospodarka jak z bajki o Złotowłosej. Co się zmieniło przez dwa lata rządów Tuska? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWFzTmxhY190RnFoSERpQjhqM2dUWG1iczlQcjdJeFk0WDcybnh4QUhsQzZTYXJKbHVnTFlxQW5KeEpqY0lzTGZyTWJBSlBiOENwZnRQbE00NDJZUkNtUEl6dmhrU015MU02WUpPeUVmUWRUYzZ0QktmaFYyNjVfUEpxTTVPeEJMSlFkSmx1dUZwTkdqYjhhaGxXU0N5cjM2a0NUSnVxWFNFLU41NDl5SVhmTEg3cXo5VXd4VG1IXzR6bl80VXQwUmFoWFppTEJCV013X2FGcXF3UQ?oc=5"
+      },
+      {
+        "title": "Niesubordynacja Morawieckiego. Internet komentuje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkJkRFF4ZkV3MG5wTmVrSUo4UElxdVJmYV9kNWVuMGNXZF82eHlXbk1PM2ZrMkFvWWNheFNEUW5YRzY4UGxWb2VZRDRiQXkwOG9xRnIyZVBVT1NGUEZKYWE3YklYR1U4WHJRTUZRdVpEaXZTaFY4QmN2cnRjaTB5X05jcGRiOEl1OUVILVZyck84eExXZmc?oc=5"
+      },
+      {
+        "title": "Trump: nie wiem, czy weźmiemy udział w spotkaniu na temat Ukrainy [NA ŻYWO] - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tWGV6RHlLbWY2VWkwYWllamhCXzdxVVltQkx3b0pLUS1RZXdNTWhBMy1BcEtjNVJHMmlGcTNtQzJmY1oyZWEzOE14SjZON29EQjM3ZnVreFR1Z0RnUEVacw?oc=5"
+      },
+      {
+        "title": "Rosyjski bank centralny pozywa brukselską instytucję. Znamy powody - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzVsdDdTQURJWmVRRW0yUWNRLUxCNkVLOENCTnhqdGZrc2FPLWhGZjFmbEhJSkdiWkNQSm5kTWlta3pYTHNNZnZzVUJnOUJCMnZnU0pOZjI2QVY4WDBQdlI4RktJc0tBaWFMUTZYV0dsS0Q3Z1VTMHZlTzV1VkNfS1kyV3ZUTE9iUURNbTJTbGUxNDBpZXhteFdYbzhobDlCMnpISVU2OHpBVE9vei1iRWN0cHpNcWM?oc=5"
+      },
+      {
+        "title": "Organizacja ruchu pociągów w ramach I cyklu rozkładu jazdy 2025/2026 - Warszawski Transport Publiczny",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjhsM0VNQnBnT0FIcnh4U240dmV5aXRrZmxfSmtZalo0dEF2amlsWTlESzJ4M3hxTkZBLWJQWGtBamFOYWdqSklDWGkxb3FMNm1DUUtfZE5CNmFrU0gxei04NHQ4QmRlbU91ZEFJalNzRnhRUXMtZ1oyTzhQWXFhc2RsdjhWc1ZFeDFLZGVSbklpY1pld0RPQUpSVWVBamd1bmVITFBNeFBXaFZESVI0?oc=5"
       }
     ]
   }
