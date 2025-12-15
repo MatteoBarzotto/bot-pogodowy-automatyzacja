@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13 09:18:19",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.6027,
-      "EUR": 4.2271,
-      "GBP": 4.8216,
-      "CHF": 4.5326,
-      "JPY": 0.023111,
-      "AUD": 2.4027,
-      "CAD": 2.6181,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 325817,
-      "DOGECOIN": 0.498005,
-      "ETHEREUM": 11215.59,
-      "LITECOIN": 296.0,
-      "RIPPLE": 7.35
-    },
-    "indices": {
-      "^WIG20": 3079.15,
-      "^WIG30": 3954.98,
-      "^WIG": 3079.15
-    },
-    "news": [
-      {
-        "title": "Polska gospodarka jak z bajki o Złotowłosej. Co się zmieniło przez dwa lata rządów Tuska? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWFzTmxhY190RnFoSERpQjhqM2dUWG1iczlQcjdJeFk0WDcybnh4QUhsQzZTYXJKbHVnTFlxQW5KeEpqY0lzTGZyTWJBSlBiOENwZnRQbE00NDJZUkNtUEl6dmhrU015MU02WUpPeUVmUWRUYzZ0QktmaFYyNjVfUEpxTTVPeEJMSlFkSmx1dUZwTkdqYjhhaGxXU0N5cjM2a0NUSnVxWFNFLU41NDl5SVhmTEg3cXo5VXd4VG1IXzR6bl80VXQwUmFoWFppTEJCV013X2FGcXF3UQ?oc=5"
-      },
-      {
-        "title": "Niesubordynacja Morawieckiego. Internet komentuje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkJkRFF4ZkV3MG5wTmVrSUo4UElxdVJmYV9kNWVuMGNXZF82eHlXbk1PM2ZrMkFvWWNheFNEUW5YRzY4UGxWb2VZRDRiQXkwOG9xRnIyZVBVT1NGUEZKYWE3YklYR1U4WHJRTUZRdVpEaXZTaFY4QmN2cnRjaTB5X05jcGRiOEl1OUVILVZyck84eExXZmc?oc=5"
-      },
-      {
-        "title": "Trump: nie wiem, czy weźmiemy udział w spotkaniu na temat Ukrainy [NA ŻYWO] - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tWGV6RHlLbWY2VWkwYWllamhCXzdxVVltQkx3b0pLUS1RZXdNTWhBMy1BcEtjNVJHMmlGcTNtQzJmY1oyZWEzOE14SjZON29EQjM3ZnVreFR1Z0RnUEVacw?oc=5"
-      },
-      {
-        "title": "Rosyjski bank centralny pozywa brukselską instytucję. Znamy powody - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzVsdDdTQURJWmVRRW0yUWNRLUxCNkVLOENCTnhqdGZrc2FPLWhGZjFmbEhJSkdiWkNQSm5kTWlta3pYTHNNZnZzVUJnOUJCMnZnU0pOZjI2QVY4WDBQdlI4RktJc0tBaWFMUTZYV0dsS0Q3Z1VTMHZlTzV1VkNfS1kyV3ZUTE9iUURNbTJTbGUxNDBpZXhteFdYbzhobDlCMnpISVU2OHpBVE9vei1iRWN0cHpNcWM?oc=5"
-      },
-      {
-        "title": "Organizacja ruchu pociągów w ramach I cyklu rozkładu jazdy 2025/2026 - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjhsM0VNQnBnT0FIcnh4U240dmV5aXRrZmxfSmtZalo0dEF2amlsWTlESzJ4M3hxTkZBLWJQWGtBamFOYWdqSklDWGkxb3FMNm1DUUtfZE5CNmFrU0gxei04NHQ4QmRlbU91ZEFJalNzRnhRUXMtZ1oyTzhQWXFhc2RsdjhWc1ZFeDFLZGVSbklpY1pld0RPQUpSVWVBamd1bmVITFBNeFBXaFZESVI0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-13 10:14:29",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Polacy oceniają weta Karola Nawrockiego. Jedna grupa zdecydowanie na \"nie\" [SONDAŻ] - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXVfM05RZkRfX1dmazF3c25fOEl2ZUlLZEp0dHl6c1JkM1dzZUc5bUNKTGQxWVJwa1A4MFhpZHZHM1RLczlDYk01QkdTbFFUNGl5M0dZRDVRWUIwV2lla0lkWTgwWnBQWUp1OU95dmR3VGhsZEdzVzVaZGRyRGxqdjV2aHBmSkp5a19zejV1RURTOFQzanVraHZZSlVlZDZNWXluWWlxcDgxdUpB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-15 15:19:09",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5928,
+      "EUR": 4.2192,
+      "GBP": 4.8098,
+      "CHF": 4.5128,
+      "JPY": 0.023184,
+      "AUD": 2.3885,
+      "CAD": 2.6101,
+      "CNY": 0.5098
+    },
+    "crypto": {
+      "BITCOIN": 322420,
+      "DOGECOIN": 0.492843,
+      "ETHEREUM": 11302.28,
+      "LITECOIN": 291.1,
+      "RIPPLE": 7.11
+    },
+    "indices": {
+      "^WIG20": 3136.93,
+      "^WIG30": 4021.57,
+      "^WIG": 3136.93
+    },
+    "news": [
+      {
+        "title": "Burza w sieci po publikacji o lekach Sławomira Cenckiewicza. \"To sekciarstwo w stanie czystym\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY1hVRTl2Vjk1NHdELUtDVDBIRDFBTkVMWWFMN1V4TEJtTVB3Q21tczdJY3ExSXR3Q3duZlZIV2pMN2VVSS1UVHF3cExJX0RJU3hfSEUwVW5idHM4OVJsWERpUzMzRWNrQmVEUlMybVJYVWxoSWVyckVvRERNX05qLXBsWkctSXBXdkJUWXB2REM5a1FCYUtmZWFxRWZCQ1RsQTZuME1DRFZJVWk0eGVCVjNXVS1IMkZtcU4ybUNTMmRRdmRYcTFxYUZlLUdXNk90SDBr?oc=5"
+      },
+      {
+        "title": "Donald Tusk reaguje na słowa Karola Nawrockiego. \"Niech nie przeszkadza\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjd5TWhTNnFEUGJrMy1ZLWdiWEk5aVlSTEVlQy1Db3h5cTdEazZ2MjV0UXJrbTliRUxWRzg0ODNudnY2Zk45LVIyTTdVUGNRZkNNaGhMckJaUUFYa0psY1UyckFDZlNEU2VIMEstWjdqazNXTUlSMkRnUG1iUTMzdEhBRDVOS0FqQ2czMlU1N3hueE5xWG05RGU1R3JWMHAtbkNGOTZtWUktZ2hNUGRoZmUxOHJoYmx4OUhmeW1IVWZNcUJyV2UwZ3gta1o?oc=5"
+      },
+      {
+        "title": "\"Tusk przestał być szanowanym graczem\". Prezydent Karol Nawrocki dla WP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXRiNzYzNHlWYmplQ3ZGdGltNzZ6WXpLMjctcFBvWXBvbXByNk1YUVhLbWhHTHJxRGJNa0VCZmRKMHRhdnFyNThHYlpNVFdfSnJXY21XWVpFWEhmSUdoV1B0RUlYNlctTTkyakhMSTAwRDE3MjZVaFhHOFBLTFoxcGxKa19KM3lRQ0VWeHhrdzVkX19qMTd2cnZvOHZUdUY2TEozSm1XUWdidFVfYU8w?oc=5"
+      },
+      {
+        "title": "Witkoff: Osiągnęliśmy znaczący postęp w negocjacjach [NA ŻYWO] - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSXJ2OVQ5OWtweko4OVVvcllOQ3FrdUJ4WllDejZwWDR6cVZyaDZrS2FaZVhwb2pBM1REaV9NSFgtZXNRWkt1Ty1GVnhXLUhxQ1daMC05Y05zYndha01Seg?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki zrywa z Chanuką w Pałacu Prezydenckim. Ostry komentarz Radosława Sikorskiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZkJGQ1E1MG10YW1mTkVITXY0Y29Vd3E1R1J5c3R5MDZvdWhfblZ5UmlmYWZwbFFRRGFnRVNVVG5sR1l4NmE5Zm9VUXhXTHJKaGw4VU41QnRURkEyUTBUS1dXWjE4Znp5dFRTUEFVQ0RTcDFNY09YbHlKZ0ZPXzAtTHVsVFoydEhPd2hrT3E0ejdxUF9BUVQ1aFYyZ2FqRzFCTjNuSkhONElpd25wZXZacXMzTXlmdVpGa1ExeGNQVnpHN05aZ215UGs2cE9DRFlHcjRNTVRB?oc=5"
       }
     ]
   }
