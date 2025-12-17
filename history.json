@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-14 20:11:05",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6027,
-      "EUR": 4.2271,
-      "GBP": 4.8216,
-      "CHF": 4.5326,
-      "JPY": 0.023111,
-      "AUD": 2.4027,
-      "CAD": 2.6181,
-      "CNY": 0.5106
-    },
-    "crypto": {
-      "BITCOIN": 319203,
-      "DOGECOIN": 0.484182,
-      "ETHEREUM": 11128.96,
-      "LITECOIN": 285.11,
-      "RIPPLE": 7.15
-    },
-    "indices": {
-      "^WIG20": 3079.15,
-      "^WIG30": 3954.98,
-      "^WIG": 3079.15
-    },
-    "news": [
-      {
-        "title": "Odkryli \"szczątki obiektu przypominającego drona\". Jest komunikat policji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTFlSDltOGY1YmliYkJrS3ZvRGJHUlBPUFBlN0RnV094VVd0Vk05SjJDdWdhMFI3THJFS3RXSUdrY1FEVDQzV200b2MtcnlRSXBxRkt6SjVGcXpIeTItZHZFVFUxdXQ5QmEzVWpJbV9GOHNxWGxNTDVYWHJ3YktELU1nZ2xhZTJLWGdGT0xaNEFjMmdKdktUdlRGVGdiWmx6cE80aHZwSFpFVFl2cF8w?oc=5"
-      },
-      {
-        "title": "Wszyscy uciekali. On rzucił się na zamachowca. Wiadomo, kim jest bohater z plaży w Sydney - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkd4U25oUmFfeU5iNjhiUllRWXFFWXNsWnpuVk5Wencyb2MtVjRWU2I3SUNkU25HUXZqV2N4dkYyYWVKQmtOZm9rN3h2ZUJRMWZKZExwOXVKbnpVTENTb3Q5ejFEWmkzLTlqZU41M2JKaVE3dGJTU2tIa2sxWnl1RWo1UVpCTzdsMzlDOHJydTJKVDN2YmF1ZWlMRk5maldIOXNkX0J0cGtpeTVuV1E?oc=5"
-      },
-      {
-        "title": "Zełenski potwierdza przyjazd do Polski. Podał datę. - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS00tZy0ya3dIV3BrUWs1YTZFOERmOVJPRllzVnB5bW0zazAzU1lZdGd1VjdJZGFNLWJkRFF6T0VtUW1fQ2RIT2JadzRXN2liUkJJWGg3THR2YkdSN1RxQ1VzTUFzd0RlQmNyRUFFZVlXQXZoU2ZUX2RoX2kzVFBXNEZIalB2UlNGRHYxYVlyOVJya1VERzBj?oc=5"
-      },
-      {
-        "title": "Szef MSZ Węgier reaguje na wpis Sikorskiego o Orbanie. Mocne słowa - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2V4X0NYNWIzUUFQd0N5SkpQbTEtalpWSDBKdVVjTzM3ZFBRdDk2S2t3d0ZIWnRublREMW1yUHJuLXhYZi05anJSbm1aMmVFNEtHT0VLTUVNbTVBMUJIUTFNQkdQbnhkVDRtYlBaSWI2dGN2a0J4NnJObTRlbHF5MnRfRlZaRTBoc05Na2RJbk5wV1luTjZIN1hWQzM2bmR2eWpjTEJhOUtuLW5DaGhGS0NHaXl0NENtLVQzbHFn?oc=5"
-      },
-      {
-        "title": "Szef MSZ zareagował na burzę wokół MiG-29. Zwrócił się do Andrzeja Dudy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFZBSlVKRjBFYU1FOWF4aVFoTXEyaHlHY1U1R1pmbTV1dGx1Y0lJUERFaXVPQl9FTG9QYXZiSHJ3eWwwV0pXNDlLM3ppd2RTeXhQcXBjZ0tBOUVRZWtRbzJ0c01jYnM4amVtd2h2dW4tNjlWVk1wYnJKdkpqQV9ha3dmdDhmaWZDTTBQZFR1OGhKa0NNbS1jUjc0dHlYRl95cF9v?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-14 21:15:43",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2575,6 +2523,58 @@
       {
         "title": "Syn Jacka Kurskiego oskarżony o gwałt. Sprawa trafiła do sądu - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOci1rRFJqN1NfQXFPT3NST1FIQ0U1MTBFd0gwMDUwV25lcEM5TkxjanhEVXdSd3pld0c3UnZrT0tUcFl1US1EZlNTSUJaNkxUODd4ODNraUlsWUVmSzdnbHdZeVhvd25JVTY5c3NqclZlbDgtbGdrWmhsUFJlQjFQbkdJRGlLaWItWnIwRGpIVDJINlBKRXZrMlpCZ3kzUERrZUpHTXlMaFZfNEJHQkxQbzlVbklrd0tqWmRGVkNCYjE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-17 04:15:18",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.593,
+      "EUR": 4.2239,
+      "GBP": 4.8171,
+      "CHF": 4.5149,
+      "JPY": 0.023204,
+      "AUD": 2.3836,
+      "CAD": 2.6082,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 314149,
+      "DOGECOIN": 0.472948,
+      "ETHEREUM": 10616.68,
+      "LITECOIN": 285.03,
+      "RIPPLE": 6.94
+    },
+    "indices": {
+      "^WIG20": 3103.28,
+      "^WIG30": 3979.99,
+      "^WIG": 3103.28
+    },
+    "news": [
+      {
+        "title": "Kto pojawił się na wigilii Mateusza Morawieckiego? Znamy nazwiska - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3lpSk9zcHQ1aVEzTkw1eUFhYWN3a2ptUVJKQ09JY1JNcnd1eVhNOEU0ZmxYbkY2dXMzN1N4S1VGUlgxUDBJSzBVUE1qZWlEd2FZbjFwbEp5dnA3N3RfYXFHX3lhZjZES0NmbjVUYk9pMUpwaVJPbXFjaDlpa2NIODlBM0d1cTBWSm94NlJPeGptMW9HTTNSSEJFVWd2bk9qcGw0eWgySQ?oc=5"
+      },
+      {
+        "title": "Całą rodziną przyszli oddać hołd zamordowanej Danusi. \"Nasz syn chodził z nią na harcerstwo\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWtiWlB5dmNNMmhKc1BiQS1uU21aZ2RoOHNfUzVVZzdhUzZFek9qSWxZZmowM2hTUXV1UE0zMEtLQzhBeVlfV0ZhYWJOeGZ0MjRZcTg4cFU2SHNmdVdhNnlyUFdlVWtzSGtfRWVYWnc4N0dUeWZYQ2RSNmhrMGE5MC0tX3RiQy1OdHlUdmxLaTRWaXJIWGpUMXRub1loaWgxcXo4cGFsdFY?oc=5"
+      },
+      {
+        "title": "\"Ma osobowość alkoholika\". Najważniejsza kobieta u Trumpa zaskoczyła - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFVBMWZnMG05QzNDUnZHcjhsVTNWaHlRLXVvdVpfWHZhVEVwMzN1VlpEWnJwX2VEdFpYdkRaRUE0c2Y1Sm90aE1FY0FZd1o5dGMyS0dyQWZUak1sbmNaZWhyWUttMjA4d29SLVRLSUo0bE9FSURSandrRF9hTWNBUl92Z0J2U2NEOXlDMUoyX3VDVEJQdkN2d0RySExKNkgxUmpINEpDUVFtaU0z?oc=5"
+      },
+      {
+        "title": "Zachód tworzy wspólny front wobec Rosji. Tusk mówi o przełomie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEFFcEEyQUZUN3VaM0F1eGFqTVc5Ni1TU2t1anlSeG1KQWgwemFMM0hpZXNjT3ZYaFNBSWhxbGRVZy1OVncxbnBBak5uc25ld3FRY1pkMXVqTWR6X0V4dlBzOTV3Y20xa0QxUTdyQVlNekR0MW5HSWJoSXcxZHVsVUg4dHg5Mi04emt0MVBLclpZcVpxeHZROGF3cDk3SnVtbDFfWF9zT0VVVW5V?oc=5"
+      },
+      {
+        "title": "Prezydent podpisał ustawę górniczą. Oddech \"tylko na chwilę, a potem szaleństwo\" - wnp.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUZQcFI4QU81bDN4Mi1Zemk5T29PSkZ0TXhxaUNoMnNlQkIwNGZSRWVqQlFMZldqUDhHb0c0ZVFmSWZIRkR2NnZLSERtX3BfSEhlTm5IUURfWl9xV0ZQSGxOVkg4VUotVlNsWG05R1dHUGgtV3dhMzJWTXpTYkZ3R0pJdEF3ck1NVjlXdnZFcy1zRGNTcXZoQ1lMdm11NFdZSHIweGdOWnJxcVZsU290N0hnRVBOSEU?oc=5"
       }
     ]
   }
