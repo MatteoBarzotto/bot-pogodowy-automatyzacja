@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16 16:17:56",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.593,
-      "EUR": 4.2239,
-      "GBP": 4.8171,
-      "CHF": 4.5149,
-      "JPY": 0.023204,
-      "AUD": 2.3836,
-      "CAD": 2.6082,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 311576,
-      "DOGECOIN": 0.469737,
-      "ETHEREUM": 10482.67,
-      "LITECOIN": 280.39,
-      "RIPPLE": 6.89
-    },
-    "indices": {
-      "^WIG20": 3107.94,
-      "^WIG30": 3984.73,
-      "^WIG": 3107.94
-    },
-    "news": [
-      {
-        "title": "Morderstwo 11-latki w Jeleniej Górze. Barbara Nowacka: musimy podjąć działania - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzFIWnFHZDB0Y3d3WklNVWxya0xnOERMMXNDM1ozakk4NThEYTZCYlJod2xueTZlSW5FUktELTJpeDZVcElrMWpINDJFaURMSG5XLXByVTExT0M1TlhQbUVOTGlRbVp1cXpOUmR1SW5aVldyNy1MMkYwT1E1XzZZVUI0bjVmWDV1YnM2Z2ctMDUxYWNYdXdzZWh0WWdRLVRudWZXQjlMb0x3NzRhUWVYV0NYeG9qYUFuUmQyVXdoNUtWdE1rZmZRcE85cm9lbVNDaWc1TXlB?oc=5"
-      },
-      {
-        "title": "Tusk po szczycie w Berlinie: widać jedność USA, Europy i Ukrainy - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjOHhTeER5aWdiS0ZDUVhReWtTLS1EU1ZxLUNFWjVib1lLdk9aMkkxeUluckkzNm5LUmpOdG9MTkVaa0ItXzhTak5CRTRHd1l2bjVuYVBvd1B1eWp0U1F2dQ?oc=5"
-      },
-      {
-        "title": "Student KUL planował zamach na jarmark świąteczny. Uczelnia reaguje - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVF9NT2hIZW1vWkR0d2R2bHdWQ25QdU9waGw4M3VNTk90dUJMNmY0cXF4VlpmNXFyaEEtWnNzaTRsa2lqSTZpcmpUNXRrX1g5ME5pamVMNVIteUR1Q2kyb3ZOZlh5RU5KUGY3ay1CV3ROYThGZHVYWUwtRjBNSHYyRzY4c3FYbkx0U1loUURNRERUNjhIaHZSTGlzSFAzajZvYXJ2ODMzcWJxamJHQ1RmY0ZHM1A?oc=5"
-      },
-      {
-        "title": "Paszport Zbigniewa Ziobry unieważniony. Jest decyzja - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHd0N250ZF9zZkFFbVdrRFVCN0REMkZBUjNXSFdDbVAxdm5pZFQ3OWNCVWhQYlVSbVdYa0lYdWZLVWhmYl9NdVlaOEhXRks2S01XMDRFRkloNkMyLXFTNUpZZGRoSXdwTm1YYV9MZmZMWEY0SHo1V1JJRTlrcE90UGFMWFRjLUEwZmoxeWo4bDJfUFpxVGwyWU5naHpnVzhsVHl6UXJuWVVxZ2FoaGNyUml2dko?oc=5"
-      },
-      {
-        "title": "Zamach na plaży Bondi był inspirowany przez ISIS. Rząd Australii chce ograniczyć prawo do broni - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDRPaWFmSU5SX1NvbUhnV3RsYk9TYmhhSkYtTG5BdHc1dUhBNVdBcThMYjBKcXFqZE5hZnV1WkUybEpSR2VEUEg3cU5nNlhJSndPb2JTM3gtTlBsWkN0VHo0dmhXemlwdUMtZFJjcUhQazFYWjZCSnR4YUZ3Um0xLUJJNU40NENBZUN1b3FuRi1QLWdJWnNxZkFWaVk0aUtWbjdQOTByMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-16 17:20:47",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "W Pałacu Prezydenckim trwa demontaż Okrągłego Stołu. Nawrocki: Dziś skończył się w Polsce postkomunizm - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMS1vS2Z0M21WanRPUjdJSk5PMm5TeDhKV2xZMXdXVExpVTQ5cWhfbE5ES3V2a1lrdmNfM3dUWW5SWER1T18yRTdZMGw1RFdXdllnanNKSWtwMVFnaUJDcjFzdmFSQkItaWxRbF9TMVBuQU96azBHMF9LU0l1U2dhX0xkam5rLXI0bDlLZ3hiNV9oalFRQ2ZXRmxmUWtBcEJrWVVSRA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-18 22:13:21",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.5893,
+      "EUR": 4.2076,
+      "GBP": 4.7912,
+      "CHF": 4.5064,
+      "JPY": 0.023019,
+      "AUD": 2.3707,
+      "CAD": 2.6049,
+      "CNY": 0.5098
+    },
+    "crypto": {
+      "BITCOIN": 305108,
+      "DOGECOIN": 0.436526,
+      "ETHEREUM": 10053.96,
+      "LITECOIN": 264.41,
+      "RIPPLE": 6.5
+    },
+    "indices": {
+      "^WIG20": 3115.36,
+      "^WIG30": 3993.17,
+      "^WIG": 3115.36
+    },
+    "news": [
+      {
+        "title": "Wizyta oficjalna Prezydenta Ukrainy Wołodymyra Zełenskiego w Polsce - program prasowy - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXh0ODR0dlZ6amRHRm5mcFkyRDI2OHZuMjhRVjNaQVg1VHE3R1VKNmdhODdxOW0yalZNSmpzc1JmV29OaEhFWUZRQ05razhoZFZHcFBsc3BSdXRtTkM4RDFnQS1oSXVSUlRPNkNudmpwT3ZfTVVPU212WlFmbWV1ZnQySHhQLVMxMmRLOGgzeXFzbkFadU5HanZmc1JXaUFsTk54NFRNSkx0UEFRN01jY3dJSGw2TkpZanNPRElTeWdmOHpxamxpUTdIRVVIVWhpTVF3SWpPRkdpamxsVFRfaVpR?oc=5"
+      },
+      {
+        "title": "Koniec Jacka Kurskiego w PiS? Będzie wniosek o usunięcie go z partii - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEhfdWV2VDRtN05ibk1nT0JwN2Q4SVhEb2ZSSWpWRmphNHpfRkc4U2hodUkxM2JKWHJVa29RLVNISUtsY0hCd1BrTFNVTzdQcG55bmEtYl9NdERmb1FfYXNOak5odGRDWVhCWmhETnFyQ1M4WktCNW91a3kxaEhXXzZRR3hEODNRbjZ1Zzh5VEJwWWx1NTlwT0Y2eE1wZ3U5WlhoY25ud2ZuZ0U?oc=5"
+      },
+      {
+        "title": "W Pałacu Prezydenckim trwa demontaż Okrągłego Stołu. Nawrocki: Dziś skończył się w Polsce postkomunizm - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMS1vS2Z0M21WanRPUjdJSk5PMm5TeDhKV2xZMXdXVExpVTQ5cWhfbE5ES3V2a1lrdmNfM3dUWW5SWER1T18yRTdZMGw1RFdXdllnanNKSWtwMVFnaUJDcjFzdmFSQkItaWxRbF9TMVBuQU96azBHMF9LU0l1U2dhX0xkam5rLXI0bDlLZ3hiNV9oalFRQ2ZXRmxmUWtBcEJrWVVSRA?oc=5"
+      },
+      {
+        "title": "26 lat negocjacji. Umowa Mercosur może się rozsypać - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEE5TzdteDl0N3FGUXkxc3JidXNkNmo1VFRadGQ2OTFCTXlKNW5SRFpjaHJQNE9VcW5fZDBCV0wtMzBSaUVMNkdDTnZmOGJmTGNPQnZXNDU5bWsxMVlrRkR3QUd1djZSQWQ2TGRxeGhrM2FnUTFqWEZ5RlpqUG83c2wxeXphQ2VsTWxfb0NrUG1PWjMzVTUzVmtDQmFzQXFQX0ZWNWdLR3k?oc=5"
+      },
+      {
+        "title": "Bliski współpracownik sprzeciwił się Putinowi. Nieznane kulisy pierwszych dni wojny - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS1haSjFMQnhReDczbHVkbUNNVnVXMm1sU2l0bHJTeTB3bGlCUHE5RUtncGtFUkhUVkJ5VlVPU1hSWUNTQVRUVDNvUmRPc1A1ZXRxTVZaaEMwWDl4RThRZXBMWG1mQjA0blJGTktUaFBxV0ZsX2stRWpzeUlLRnM5d2ZDVW9hN2dxNGdSRWVKYWktZ05GLU4yR1RkS3VQeHZEaVpUajZhR0s0cEhhandHMk90WDlLTkZEUzA5WllsYTJpVjhlSk1fUHJXNGxoa2g4ZzJVTm9FMGhpTzhidHc?oc=5"
       }
     ]
   }
