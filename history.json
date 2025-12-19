@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 02:07:06",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.593,
-      "EUR": 4.2239,
-      "GBP": 4.8171,
-      "CHF": 4.5149,
-      "JPY": 0.023204,
-      "AUD": 2.3836,
-      "CAD": 2.6082,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 314476,
-      "DOGECOIN": 0.472715,
-      "ETHEREUM": 10603.66,
-      "LITECOIN": 284.53,
-      "RIPPLE": 6.92
-    },
-    "indices": {
-      "^WIG20": 3103.28,
-      "^WIG30": 3979.99,
-      "^WIG": 3103.28
-    },
-    "news": [
-      {
-        "title": "Zabójstwo w Jeleniej Górze. Policjanci rozmawiali z 12-latką. Nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3VUdGx6RjJ4N00wb0JpWFlIbUZpS1diRk5ibzdWRUlDVXlrZ3pCOXlibVNINW43bzNlWThIbFVaeXVNajZkYm5YRXQ4ZEhmcExaQVFmdDVHODczb1o2cjFCbGxUUjhjRTRzem9hanVGTUgwUWR1dzBfZHdISHdwQ2dEMy1ZMXQxLUhfbl8xa1AtTmZGYUVFNUlIMHlGcEN6bnZHaU5OQjJzSGU1dVhpNVdWMFQ?oc=5"
-      },
-      {
-        "title": "\"Druga wigilia\" w PiS. Kto przyjechał na zaproszenie Mateusza Morawieckiego? - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblNwWmtxVTc0Qml1MEVmQUhFSF9qZ3gwV3dCNThWa2lULUk5RklhamY3NTF4Z2hjUms2OXNiOWJHdTBqdjVOdC1ObHVVYWU5SVQ2S1Y3b09kd1NrQUJHUUcwSUtfMFRrMzNHbF9nUGFkTjlBVE9HV3dQYlBPZDNkS2NSMWl2UzUxOUpxcEYtNjVnUVB6bXZwaURWdDE5dw?oc=5"
-      },
-      {
-        "title": "Zachód tworzy wspólny front wobec Rosji. Tusk mówi o przełomie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEFFcEEyQUZUN3VaM0F1eGFqTVc5Ni1TU2t1anlSeG1KQWgwemFMM0hpZXNjT3ZYaFNBSWhxbGRVZy1OVncxbnBBak5uc25ld3FRY1pkMXVqTWR6X0V4dlBzOTV3Y20xa0QxUTdyQVlNekR0MW5HSWJoSXcxZHVsVUg4dHg5Mi04emt0MVBLclpZcVpxeHZROGF3cDk3SnVtbDFfWF9zT0VVVW5V?oc=5"
-      },
-      {
-        "title": "Wspólna deklaracja Szczytu Wschodniej Flanki - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2FGMDhTYloyQjZxaURjeVc2eFhaY1VKek9wWHhENU5oTkd1enZFYnBkSEFmdEV1V2ZuWkR4VWNqei1vblFMNF9aVlpNU0lYZGxmUDktV01tSjZwQnd4b0dEUWM2NEd1aWo4cS1OQmVTWWZJdUlOY196WkprOENFYQ?oc=5"
-      },
-      {
-        "title": "Syn Jacka Kurskiego oskarżony o gwałt. Sprawa trafiła do sądu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOci1rRFJqN1NfQXFPT3NST1FIQ0U1MTBFd0gwMDUwV25lcEM5TkxjanhEVXdSd3pld0c3UnZrT0tUcFl1US1EZlNTSUJaNkxUODd4ODNraUlsWUVmSzdnbHdZeVhvd25JVTY5c3NqclZlbDgtbGdrWmhsUFJlQjFQbkdJRGlLaWItWnIwRGpIVDJINlBKRXZrMlpCZ3kzUERrZUpHTXlMaFZfNEJHQkxQbzlVbklrd0tqWmRGVkNCYjE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-17 04:15:18",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Umowa z Mercosur ciągle niewiadomą. Wychodzą na jaw nowe plany - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2dvM2Z5TVVaQWwtUFEwQVl2c3pkWk11YmRpMEFNaktVUTcyRlZnRHV0dmRCc2tFakZBc2tLYld6N0dKQ1F2RGZCakRPTS00Q3lfVWgwci1yOG1fbWluWnUwZ3F1THR3Y0pTMFF4NXpPejg2S25PdEFvYks4NG5IMWNIOHd4clVNMjFodU9oTzllaDRYNUJvcTI1dE9RVHhSaGlsRm9sNzdDRHZPNERrMjNwUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-19 09:21:40",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5893,
+      "EUR": 4.2076,
+      "GBP": 4.7912,
+      "CHF": 4.5064,
+      "JPY": 0.023019,
+      "AUD": 2.3707,
+      "CAD": 2.6049,
+      "CNY": 0.5098
+    },
+    "crypto": {
+      "BITCOIN": 315617,
+      "DOGECOIN": 0.45985,
+      "ETHEREUM": 10600.19,
+      "LITECOIN": 272.3,
+      "RIPPLE": 6.7
+    },
+    "indices": {
+      "^WIG20": 3125.25,
+      "^WIG30": 4007.75,
+      "^WIG": 3125.25
+    },
+    "news": [
+      {
+        "title": "Szczyt UE: Jest finansowanie dla Ukrainy. Nie z rosyjskich aktywów, lecz ze wspólnego długu - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zaVdMRjlVeExRcnBFTXJkd3B1WDVtWWNXVTRqc1NNVXJLTkxHZ1ZkcHVocXlDRHA0bHRaLWRqd2Yxd1NyYWprV2FBOGhEdnBYYzg3ZEZfWEdnVEIxRUNOS2Z5cDltaV9v?oc=5"
+      },
+      {
+        "title": "Historia, polityka, gospodarka. Wiemy, co Nawrocki powie Zełenskiemu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTRva3hEeXpabUtPcFh2ZW94ckVXbENlZFJ4M0ZlVk1NSXRJczY0eGlhX2YwNE9IYUdXOVlDRGM3UU15dk5sbFVlbWJNdUlIWkljZXBGZTQwS3hZbmhDdEdGNW5Ldlp0T1V0Q1VUbFdNTlp3VUxfT01RUTNWOU5YR1l5OVZkbDJ0aExEVHZNanNZS0Y2U2lERDVvTFhfdnYxblltMkdVY0ZmbW8?oc=5"
+      },
+      {
+        "title": "Kolejne ustawy z prezydenckim wetem. Politycy komentują decyzję Nawrockiego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldxVWQzTUIxZXZ2Y2ZYa3BSdHJzZ2tDMW9RTmJtdGlQR1l2RUk5d3RRVnlIdUhuUzVJeV9jWE5ScGM1VFRnVHZEWjhxNzRtX29ReHRXcEljUHlmM3lnQk1xdzJMR0RtSjh4VzFlRXdRMVlrWTJ2bXFvX1B4SGk4UXIxa1JGN0FJVmI0ZXBFU1hLSEJjS1oyNmtSRXhTc1k0N0h4YnhJVkZBempMQkxNU2VnQjc?oc=5"
+      },
+      {
+        "title": "Tragiczny pożar w hotelu w centrum Wrocławia. Nie żyje jedna osoba - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlpPc0lyc09laG1wYmVGRDRKWXpCeU5ES0dIeC1ZTGthMDhuMk9vaU56dEs4NUNTYTNPVUY0TVFNNmpmZEJubHFNMWdHMTZQdUVNOFZhQ3k4MF9Ca25YcEl4Z285b0k2TmxOUkl0QUxWSmtCODFWSTRVOWFTVTRLS1Z3VV9DdDc3OFhmakRKazBhTmlyOXkwdVo0RDJwRk9YNklvV3pGclhUdUM1YXc?oc=5"
+      },
+      {
+        "title": "Co się działo w sądzie w Żaganiu? \"Sędzia chciała, żebym poczuł się jak nic, takie zero\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzd2X05ORlFMYkZhaGJQLWJxV0U5TEVvQVVZaE9hUnl3Sm1mSFg5TmdpOUJxaG5zSmt6bXUwTFBpQm5FT1lQQ3gtUTA4LUhNSzItR2VqVERaVW0wUnhORWo0T3N4VFRhT3pyb3pXcWZFdWpIbC0yTE9ZQ0N4cnJBWUVrLUljeDZpaWlHMlpobGVUQzRuak5ObFJiT3BaN0Jz?oc=5"
       }
     ]
   }
