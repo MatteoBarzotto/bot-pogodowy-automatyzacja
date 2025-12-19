@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 06:17:33",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.593,
-      "EUR": 4.2239,
-      "GBP": 4.8171,
-      "CHF": 4.5149,
-      "JPY": 0.023204,
-      "AUD": 2.3836,
-      "CAD": 2.6082,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 311253,
-      "DOGECOIN": 0.470255,
-      "ETHEREUM": 10541.63,
-      "LITECOIN": 283.63,
-      "RIPPLE": 6.89
-    },
-    "indices": {
-      "^WIG20": 3103.28,
-      "^WIG30": 3979.99,
-      "^WIG": 3103.28
-    },
-    "news": [
-      {
-        "title": "Kto pojawił się na wigilii Mateusza Morawieckiego? Znamy nazwiska - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3lpSk9zcHQ1aVEzTkw1eUFhYWN3a2ptUVJKQ09JY1JNcnd1eVhNOEU0ZmxYbkY2dXMzN1N4S1VGUlgxUDBJSzBVUE1qZWlEd2FZbjFwbEp5dnA3N3RfYXFHX3lhZjZES0NmbjVUYk9pMUpwaVJPbXFjaDlpa2NIODlBM0d1cTBWSm94NlJPeGptMW9HTTNSSEJFVWd2bk9qcGw0eWgySQ?oc=5"
-      },
-      {
-        "title": "Zachód tworzy wspólny front wobec Rosji. Tusk mówi o przełomie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEFFcEEyQUZUN3VaM0F1eGFqTVc5Ni1TU2t1anlSeG1KQWgwemFMM0hpZXNjT3ZYaFNBSWhxbGRVZy1OVncxbnBBak5uc25ld3FRY1pkMXVqTWR6X0V4dlBzOTV3Y20xa0QxUTdyQVlNekR0MW5HSWJoSXcxZHVsVUg4dHg5Mi04emt0MVBLclpZcVpxeHZROGF3cDk3SnVtbDFfWF9zT0VVVW5V?oc=5"
-      },
-      {
-        "title": "Całą rodziną przyszli oddać hołd zamordowanej Danusi. \"Nasz syn chodził z nią na harcerstwo\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWtiWlB5dmNNMmhKc1BiQS1uU21aZ2RoOHNfUzVVZzdhUzZFek9qSWxZZmowM2hTUXV1UE0zMEtLQzhBeVlfV0ZhYWJOeGZ0MjRZcTg4cFU2SHNmdVdhNnlyUFdlVWtzSGtfRWVYWnc4N0dUeWZYQ2RSNmhrMGE5MC0tX3RiQy1OdHlUdmxLaTRWaXJIWGpUMXRub1loaWgxcXo4cGFsdFY?oc=5"
-      },
-      {
-        "title": "Syn Jacka Kurskiego oskarżony o gwałt. Sprawa trafiła do sądu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmJDdmRUVmhMaVFYbVAyY0hjWW83aUE4YTU3TTdCVDZITlAtQzhnRk1xTzlUM2Y0d01nbjRtWHQ0OWlaX1BnTjlpRkVMYmlWbUxPY0J4b2VkVjktcmpnY05ZUjljVTB4enh6eDRRNXQ2Y2RjeHhscmdUalRyMnN3eVk1M01fTzFaaGlYcHQ1bk9yQ1NzZGVFdkVMNkJFRFlhZVE?oc=5"
-      },
-      {
-        "title": "Prezydent podpisał ustawę górniczą. Oddech \"tylko na chwilę, a potem szaleństwo\" - wnp.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUZQcFI4QU81bDN4Mi1Zemk5T29PSkZ0TXhxaUNoMnNlQkIwNGZSRWVqQlFMZldqUDhHb0c0ZVFmSWZIRkR2NnZLSERtX3BfSEhlTm5IUURfWl9xV0ZQSGxOVkg4VUotVlNsWG05R1dHUGgtV3dhMzJWTXpTYkZ3R0pJdEF3ck1NVjlXdnZFcy1zRGNTcXZoQ1lMdm11NFdZSHIweGdOWnJxcVZsU290N0hnRVBOSEU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-17 07:24:03",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Weta Karola Nawrockiego. Zobacz, co tym razem zablokował prezydent - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXRHc2FNcW9aSjV2eWFGRE90cTIyQXhPVW01N1J3UExWRU1HVS1UNWJYUVAxS0NHdFdDRTgwRGlfZk1VVEFsazlpS1BvSzlhdHJNQmtXbEQyVV9ENU9zUUxmSldJeWlEeWJXVVpWckJ0MWRzV2E1QkdRWTVETHpTQ0hsYlZ6ak12Z2tZaVJhc3J4ZW1SN2dxQlhUTW5xaGJ2RE1wR21BaDQzX20zMnM3SE9RMmdQcmhYdUlFU0Vn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-19 12:13:41",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 317162,
+      "DOGECOIN": 0.460665,
+      "ETHEREUM": 10624.9,
+      "LITECOIN": 273.17,
+      "RIPPLE": 6.71
+    },
+    "indices": {
+      "^WIG20": 3136.28,
+      "^WIG30": 4019.95,
+      "^WIG": 3136.28
+    },
+    "news": [
+      {
+        "title": "Wołodymyr Zełenski w Warszawie. Wydanie specjalne [OGLĄDAJ] - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmh5Um9jQm9kMGxEZVh6cG5JbDlsTlNwaFQ5T1h5bExHR2tiUHB5YlpmZGw3Sk1TWHQta1FURjR1ZlNid1Q3cV9kM0h3YWViZ1I3d1JycEE0d3hTVWRpdHJsWERlVGVidUZWVGh2QjJ2M3NPWHNfclp6dHV5ZGNmYWFfc0lyUWVMN3FFN2FVYjk5MGk4YmRqdkZYN2FaWHNZM0JacTZGWQ?oc=5"
+      },
+      {
+        "title": "Szczyt UE: Jest finansowanie dla Ukrainy. Nie z rosyjskich aktywów, lecz ze wspólnego długu - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zaVdMRjlVeExRcnBFTXJkd3B1WDVtWWNXVTRqc1NNVXJLTkxHZ1ZkcHVocXlDRHA0bHRaLWRqd2Yxd1NyYWprV2FBOGhEdnBYYzg3ZEZfWEdnVEIxRUNOS2Z5cDltaV9v?oc=5"
+      },
+      {
+        "title": "Weta Karola Nawrockiego. Zobacz, co tym razem zablokował prezydent - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXRHc2FNcW9aSjV2eWFGRE90cTIyQXhPVW01N1J3UExWRU1HVS1UNWJYUVAxS0NHdFdDRTgwRGlfZk1VVEFsazlpS1BvSzlhdHJNQmtXbEQyVV9ENU9zUUxmSldJeWlEeWJXVVpWckJ0MWRzV2E1QkdRWTVETHpTQ0hsYlZ6ak12Z2tZaVJhc3J4ZW1SN2dxQlhUTW5xaGJ2RE1wR21BaDQzX20zMnM3SE9RMmdQcmhYdUlFU0Vn?oc=5"
+      },
+      {
+        "title": "\"Hania bez powodu zaczepiła Danusię\". Rodzice uczniów szkoły, do której chodziły dziewczynki, mówią o kulisach tragedii - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFhNQTZ5aEFoandfeHZqTWhuREFHckdvT1hlamNndlVRcWhWWFpEdXlrT0p3NU14VE1OelVvZE1YaTJVLWJBNlBFX1BOSHNOQm5maFM3d0NrMGtfZ2tDb3N5TUMzSEpGOGdDMzljV2VveE5PRnJPa1RVVndnYThnRlNTNzFDTUY4NEJvc3RRdmN0eWp3LUw0cUQwOWhXWEozSWlVdHo2RDdoenRlcjBJdTBHZXlsdw?oc=5"
+      },
+      {
+        "title": "Bez Warszawy przy stole negocjacyjnym. \"To jest polski problem\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHVRVUlxTEJXdVFsZFUzMFRQUWQ2UGQ2NWFDTVBMY3hSMlQzSnVuZXBpSnJjMWtZcWRmRmdaUEtmVEUtekZ5a1BhLWoyMTh5cEF2VE90STBDdHdUWHJOZkI5ZFprajVDNGVfLWI4cjRVTDEwMFdPUmJoZFFUVmpfVlJpQ256enpRbV9KMU13eHZnMlQzZmFOdmFnMmlfX2I3SExzRGNndUV3RG93MWtrTGowcW1WVHc?oc=5"
       }
     ]
   }
