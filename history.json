@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16 22:15:23",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.593,
-      "EUR": 4.2239,
-      "GBP": 4.8171,
-      "CHF": 4.5149,
-      "JPY": 0.023204,
-      "AUD": 2.3836,
-      "CAD": 2.6082,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 314134,
-      "DOGECOIN": 0.473119,
-      "ETHEREUM": 10546.62,
-      "LITECOIN": 282.71,
-      "RIPPLE": 6.89
-    },
-    "indices": {
-      "^WIG20": 3103.28,
-      "^WIG30": 3979.99,
-      "^WIG": 3103.28
-    },
-    "news": [
-      {
-        "title": "Zabójstwo w Jeleniej Górze. Policjanci rozmawiali z 12-latką. Nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3VUdGx6RjJ4N00wb0JpWFlIbUZpS1diRk5ibzdWRUlDVXlrZ3pCOXlibVNINW43bzNlWThIbFVaeXVNajZkYm5YRXQ4ZEhmcExaQVFmdDVHODczb1o2cjFCbGxUUjhjRTRzem9hanVGTUgwUWR1dzBfZHdISHdwQ2dEMy1ZMXQxLUhfbl8xa1AtTmZGYUVFNUlIMHlGcEN6bnZHaU5OQjJzSGU1dVhpNVdWMFQ?oc=5"
-      },
-      {
-        "title": "Zachód tworzy wspólny front wobec Rosji. Tusk mówi o przełomie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEFFcEEyQUZUN3VaM0F1eGFqTVc5Ni1TU2t1anlSeG1KQWgwemFMM0hpZXNjT3ZYaFNBSWhxbGRVZy1OVncxbnBBak5uc25ld3FRY1pkMXVqTWR6X0V4dlBzOTV3Y20xa0QxUTdyQVlNekR0MW5HSWJoSXcxZHVsVUg4dHg5Mi04emt0MVBLclpZcVpxeHZROGF3cDk3SnVtbDFfWF9zT0VVVW5V?oc=5"
-      },
-      {
-        "title": "Morawiecki zaproponuje Kaczyńskiemu nowy sztab w PiS. \"Koordynacja przekazu i działań\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVRqS3RGSXhFVFJqRmgzTWwxeUJUU0pVaHQ4R3lqZndncGhuZDdzbEw3ek93a00wWFhWZXpWbGVua0htWEF4dHA0R3VFaFltMVZXZXdXT2d4V01TRXVCMkxnQ3FrLVdsdmJtMDVWb1YzQjdkcmUzLWVjTVNacFlRTk1YWmpTVG9XU2ZYT2xOUHo5Z2djX1JvdXdiLXJIUVlMR1NoRVRGN1lZWmduYmw5UDcydF9YWlN6RjRaNXVabFhOdFNJ?oc=5"
-      },
-      {
-        "title": "Wspólna deklaracja Szczytu Wschodniej Flanki - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2FGMDhTYloyQjZxaURjeVc2eFhaY1VKek9wWHhENU5oTkd1enZFYnBkSEFmdEV1V2ZuWkR4VWNqei1vblFMNF9aVlpNU0lYZGxmUDktV01tSjZwQnd4b0dEUWM2NEd1aWo4cS1OQmVTWWZJdUlOY196WkprOENFYQ?oc=5"
-      },
-      {
-        "title": "Kolejna śmiertelna ofiara wypadku, w którym zginęła Katarzyna Stoparczyk. Prokuratura zabrała głos - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcklxaXF5RVVDODh5RWpwcEs5bGEzQ29takM2ZzFSNS1NZW4tT1lOd2c3cHJjeGNVZ1lsTkFWeF9oTXViS1BZeGpDWVc0dHR1amN3QzFSNmgyNnFrV0RjZk9ocVJoZS1LS29PZU9rSVJPbTEyWlZZaDEwR0VHZ2RhS0FuQmtaUUtCZ0hkVmhsRm5KaXR2V1lhSFhmcnFqNXhKY3EzcHZMQjBMRFpPczd1YVR4LWRPZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-16 23:14:43",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Karol Nawrocki reaguje na słowa Gronkiewicz-Waltz. Napisał dwa słowa - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFBaOVgzVTBWLVJfclhPZU5nNDZBZmpfNHY3czJ1YzNpb0FqVlZMRUxNdnZNNWJKSERhNE5zTFlkS18xcmVQRkNuSUlPMlFMdzZETVc5ZUcxSzY4MU95QjcxSmtuSVBndlBYMXoxUDlSNk9fdW1Id1ozZ0tFWkdsUWQ3U2hMdXVpU2RBX1dlNEU2VGttTWRPalRBQmZLdzFrc05iSFRFWFRzQ2l1TjJLbm04WURjNE9GV2pIY2w4R3J2UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-19 06:16:48",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5893,
+      "EUR": 4.2076,
+      "GBP": 4.7912,
+      "CHF": 4.5064,
+      "JPY": 0.023019,
+      "AUD": 2.3707,
+      "CAD": 2.6049,
+      "CNY": 0.5098
+    },
+    "crypto": {
+      "BITCOIN": 311648,
+      "DOGECOIN": 0.450581,
+      "ETHEREUM": 10477.32,
+      "LITECOIN": 270.9,
+      "RIPPLE": 6.57
+    },
+    "indices": {
+      "^WIG20": 3115.36,
+      "^WIG30": 3993.17,
+      "^WIG": 3115.36
+    },
+    "news": [
+      {
+        "title": "Weta Karola Nawrockiego. Zobacz, co tym razem zablokował prezydent - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXRHc2FNcW9aSjV2eWFGRE90cTIyQXhPVW01N1J3UExWRU1HVS1UNWJYUVAxS0NHdFdDRTgwRGlfZk1VVEFsazlpS1BvSzlhdHJNQmtXbEQyVV9ENU9zUUxmSldJeWlEeWJXVVpWckJ0MWRzV2E1QkdRWTVETHpTQ0hsYlZ6ak12Z2tZaVJhc3J4ZW1SN2dxQlhUTW5xaGJ2RE1wR21BaDQzX20zMnM3SE9RMmdQcmhYdUlFU0Vn?oc=5"
+      },
+      {
+        "title": "Sikorski zobaczył wpis Orbana i od razu reaguje. \"Powinieneś był się nauczyć\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQXRnM2xMNUZLYXdIcEVvbGh2TXJPMFg3WlR5QVU3ejZRSjQ1OE0taTA5aUN3anlXU2twYXVNMm42SHNyWEFLSGRYX252Si1HM1A5eWVrNFg0bURybFdJNDlIOGpLUUJTejUyR0Q2cVowUC14Z0ZLVjI0MXBqcmJxVEdWY2FPcWRnM0hGTmdXb0tNbHhTUE1oWHlvYVh4UncyTkNvMjl6UFFKNlZjdzJ3QkR2S3pzOEJUR3JHaTI5ZmktaXdFcjhJUVQ4aFI3VVY3T0E?oc=5"
+      },
+      {
+        "title": "Polska zdradza Ukrainę. A Nawrocki postawi na Zełenskim nacjonalistyczny stempel - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3BJRzFDV0E3WU9DSksyRmQwTFZnRVV3eE4yaXBKTkxwM0w5dXVDMHBXQjdTdFJnUWE3ZC1jQVNIc1VNSURPdE5lV1VQSUk3ZjR4WlMwTWNnd2V1M3VYaFVYbjdKQXZTOGZaWG93QnZHZ1FwMURWOGpjbUVNZGQzZGtqQ2t2UUt5ZFdlWUY2ejBmS1k?oc=5"
+      },
+      {
+        "title": "Sejm zagłosował ws. kryptowalut. Prezydent już raz zawetował ten projekt - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT09nYlN3bHZ6anhjRGRRemFyeWxJdjlDRnI2MVBEclgzdzJiWnFwMTd4STdkcGZmM09aTnN6RVJKWDN3WEgwV3BRVlFtRFNOc0NvX1ZPdHdIYThtTl84Z2NzdTVfcUV3em5VQ0lZZEpIS3dOR1ZTSFZ2RDNOMms3S1h4dExUV1BEdnIzMnUyRkFTMFBRaHFjLWR6XzA5ZkhrQUNsSlNseXBiY3gtWFQ1cjZzd2NKUnEtclpGOC1pcWswYVk?oc=5"
+      },
+      {
+        "title": "\"Zła wola\", \"dziwię się\". Rzecznik PiS komentuje medialną wojnę frakcji - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW80MDdQSF9RY3ZwcVpqckdpUTgwN1dRX0JKRHZsNU85eWtHdGNocVZFTjdhNVF3b0RUWXh3STNCaHR4d2xKTkhoNzJCN3RjQkF1RGg3YkxlQ1M0SGZJZ1Z2QTBhWVFreWZsSFdUd2dHbXpiNUxzQUxxTzlETWlDbUJvUnRiMDE3WmdKZ3BhR2V1Y0JPWDk2SEowNXU3NmZUS0lYVW5ieHFQTWdMbDc2Yk9oUQ?oc=5"
       }
     ]
   }
