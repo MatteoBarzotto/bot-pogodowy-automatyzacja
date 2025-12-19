@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 07:24:03",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.593,
-      "EUR": 4.2239,
-      "GBP": 4.8171,
-      "CHF": 4.5149,
-      "JPY": 0.023204,
-      "AUD": 2.3836,
-      "CAD": 2.6082,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 312266,
-      "DOGECOIN": 0.471314,
-      "ETHEREUM": 10566.39,
-      "LITECOIN": 284.83,
-      "RIPPLE": 6.92
-    },
-    "indices": {
-      "^WIG20": 3103.28,
-      "^WIG30": 3979.99,
-      "^WIG": 3103.28
-    },
-    "news": [
-      {
-        "title": "Kto pojawił się na wigilii Mateusza Morawieckiego? Znamy nazwiska - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3lpSk9zcHQ1aVEzTkw1eUFhYWN3a2ptUVJKQ09JY1JNcnd1eVhNOEU0ZmxYbkY2dXMzN1N4S1VGUlgxUDBJSzBVUE1qZWlEd2FZbjFwbEp5dnA3N3RfYXFHX3lhZjZES0NmbjVUYk9pMUpwaVJPbXFjaDlpa2NIODlBM0d1cTBWSm94NlJPeGptMW9HTTNSSEJFVWd2bk9qcGw0eWgySQ?oc=5"
-      },
-      {
-        "title": "Tragedia w Jeleniej Górze. Psycholog zwraca uwagę na ogromny problem wśród młodzieży - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY093WkMwclZwbDNxRWZ6VWlFa2RVNkhYYjNwcjFJQ2pRVVlnaXNSRHpaZ0RQLUhvQ0s1OXNocktrM09scUhadkZxSmhxVFhYQzMzZFN1UU12UkZKT0Y1TFBXNFAzOG1MSmJfb091SXFpR0c3cms1eHUtY2tTRE1KVWpXWldhRGFiY0Z5SXZnM3hCRU1UWXRKSlVmOUpzeE5MejBlblJraVZJVmk5dXZubzBFdEJSZnpFd0hhMjZ6NElacmJY?oc=5"
-      },
-      {
-        "title": "Zachód tworzy wspólny front wobec Rosji. Tusk mówi o przełomie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEFFcEEyQUZUN3VaM0F1eGFqTVc5Ni1TU2t1anlSeG1KQWgwemFMM0hpZXNjT3ZYaFNBSWhxbGRVZy1OVncxbnBBak5uc25ld3FRY1pkMXVqTWR6X0V4dlBzOTV3Y20xa0QxUTdyQVlNekR0MW5HSWJoSXcxZHVsVUg4dHg5Mi04emt0MVBLclpZcVpxeHZROGF3cDk3SnVtbDFfWF9zT0VVVW5V?oc=5"
-      },
-      {
-        "title": "Zrezygnowana Wenezuela czeka na amerykańskie bomby - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTWNNRXlmUVJGXzhzWUp4eTZxV1J1b0xWLVpLcFhmNk1KVFVaZkMxRTlrNlVPS1hkei1obnVCWXBUakphQmRVQ3dNVlFhV3JIdWl1bWpJUlVzYVprU1pBTnVFaFJaaGFHZjZVV1NEd0ItTUtJekY3VE93?oc=5"
-      },
-      {
-        "title": "ABW zatrzymała studenta. Usłyszał zarzut planowania zamachu - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGlETmZsRElFQ3k1OVhadDlCUHFWcjFCQmlIUUVrRGdpeU1rdlY5d3hnbDhZTWg2dHpqUWNQOWkzSnJvckxQbXZiSTlJMjI2QXgySVpNZUdCYUJvc1VVUVljM1B0YUlVNW8tSWZQSnZFV1FkX2RSaFpLV25CcXBpa3E4YTNUUjg0eWhVaGxzQkgtb3lERjdWVXJIUWFveWV1VV9RRmh3TDlCQmJramFFYg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-17 08:18:11",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Bez Warszawy przy stole negocjacyjnym. \"To jest polski problem\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHVRVUlxTEJXdVFsZFUzMFRQUWQ2UGQ2NWFDTVBMY3hSMlQzSnVuZXBpSnJjMWtZcWRmRmdaUEtmVEUtekZ5a1BhLWoyMTh5cEF2VE90STBDdHdUWHJOZkI5ZFprajVDNGVfLWI4cjRVTDEwMFdPUmJoZFFUVmpfVlJpQ256enpRbV9KMU13eHZnMlQzZmFOdmFnMmlfX2I3SExzRGNndUV3RG93MWtrTGowcW1WVHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-19 13:30:17",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 316521,
+      "DOGECOIN": 0.462546,
+      "ETHEREUM": 10633.4,
+      "LITECOIN": 274.48,
+      "RIPPLE": 6.74
+    },
+    "indices": {
+      "^WIG20": 3136.97,
+      "^WIG30": 4020.99,
+      "^WIG": 3136.97
+    },
+    "news": [
+      {
+        "title": "Premier Tusk spotka się z prezydentem Zełenskim w Warszawie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnJSakYxRjhJWGN3eVFTaUpGOVQ2cEpUdjhSVmtJT0Q2Vzd4SFZLUkt3VDBQeVlJZkdpUGV5Nng1SXo0bTBEVUh1cV95Z1Iwb21CaV80dzB6VFRDdHgyLTVnajZBQmJ3Q0hHZHEyTHVGampmekV3YmRkVkFZYnM3aEpjRm5FVE5TMGtBV0dJTDlWTEdyRHJ1b0s1ZTAyUlQ1?oc=5"
+      },
+      {
+        "title": "Donald Tusk o wsparciu dla Ukrainy. \"Polska nie będzie dopłacała\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY09TbEFxa0FnSVBTb0tYYUNLLXNnXzg5d0RJWTZqZmtkbU1NNEdqOFpLb2loSV9sOHF2ZVBNWmVIXzE1dHZvNmJ1VjNURE9nZzhIZzB4OWhqRHF4cFhGSDlLZmEtaWItb0U5U1RQdGhTMV9ES0tLWXZaSE9kMWg1LXM2VExFVkhuajk1dlhGYjJwSEhPaU1LNWRGSXVUY3Z4TTJMMUZWTE1QcWI4YVpN?oc=5"
+      },
+      {
+        "title": "\"Zła wola\", \"dziwię się\". Rzecznik PiS komentuje medialną wojnę frakcji - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW80MDdQSF9RY3ZwcVpqckdpUTgwN1dRX0JKRHZsNU85eWtHdGNocVZFTjdhNVF3b0RUWXh3STNCaHR4d2xKTkhoNzJCN3RjQkF1RGg3YkxlQ1M0SGZJZ1Z2QTBhWVFreWZsSFdUd2dHbXpiNUxzQUxxTzlETWlDbUJvUnRiMDE3WmdKZ3BhR2V1Y0JPWDk2SEowNXU3NmZUS0lYVW5ieHFQTWdMbDc2Yk9oUQ?oc=5"
+      },
+      {
+        "title": "Uwaga! Zawyły syreny alarmowe na całym Dolnym Śląsku. Sprawdzono system ostrzegania - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0dlMG9UbHFPRTV2eGVXdzFYVk43QV9zN1ljc2V4aUY5SGRVWklNbHU1Szd5VnZ0RjY3eEFQaEtqUlRxWjEzTUExNXJrLUR0Vk5HelRXaTNYZXhZdXFPdjZwZEhaTnE1c0gxRDRNSkpKZkZCaVR5T242WXBSZ2tpWGhpaWQtcWtrQXMwSTJuZWpXQTg?oc=5"
+      },
+      {
+        "title": "Dwunastolatka nie może trafić do poprawczaka - sąd skupi się na dobru dziecka - Prawo.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnVfOElta0Jfczd3dE4xRzMwTURoeE9WdFRkR085akROWTFJdkIwbWJrYV9xdldMd2dRTFFRb3RITmR2Q0pZYzFRXzAyMS10NDQ2OEJtcDlFdGRFZ21sSFJNampYNFVDSXJMMmdrMElwMTRLNkwwbjM5UlpNbWYyWGstN0M2N0xqTWVtQ0RGazJHQWJid2h0VnNPSHg?oc=5"
       }
     ]
   }
