@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 20:15:42",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5976,
-      "EUR": 4.2149,
-      "GBP": 4.7937,
-      "CHF": 4.5086,
-      "JPY": 0.023131,
-      "AUD": 2.3795,
-      "CAD": 2.6113,
-      "CNY": 0.5107
-    },
-    "crypto": {
-      "BITCOIN": 306749,
-      "DOGECOIN": 0.449177,
-      "ETHEREUM": 10041.07,
-      "LITECOIN": 270.33,
-      "RIPPLE": 6.64
-    },
-    "indices": {
-      "^WIG20": 3105.78,
-      "^WIG30": 3987.39,
-      "^WIG": 3105.78
-    },
-    "news": [
-      {
-        "title": "Zbrodnia w Jeleniej Górze. Ekspertka dementuje słowa ministra Żurka o 12-latce - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2hrangtNjhBUkRsT0RhWk9IY2tQRVZMR2JKYVV0NmhNOHNNMG9OaTlPaTFuNExfaWRlRDQ0LUxlelAzbTZiN2dzTXVCWkhLUHlNb1dXZF9RWnNPQ0tkbHQ2NFdJVnFOalhyVGZTOWhobHRUWmV0b3p3QWJtTGR3TGlvYkVqekUwTjk2SkpvQUNVb1RoNHRhSFc3QW5fTWNGYlZRSktob2tYQXBFSzlBcUZFR1FZVGh4UGJ4b3JyUTkwa2M?oc=5"
-      },
-      {
-        "title": "Kuriozalna sytuacja po \"afterze\" u Morawieckiego. \"Dzwonili, żeby się wytłumaczyć\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMU1NbXdyQlE5ZmhoTXpVcXVhWldFcjB3aVloalRWSWVGUUdWbkVTaVJuS21ZWFdzWUgxeFNrN2pMT01aZVZLN1FVdjd0RFZ0YzIyLXJJajR6MGVKaE80WTFGb1NYRlBJSWtwaGFtLXp1NGhIamR6TUROOUk4TVB2ZklVdUNvbV9CWW5hRXI5MEJSVjdzMWUtb1VybVBERWh1cDFvVUVVZmpjb05kOGJWZWFyVVlZNlBHSTE1b0NzTHg1Xzc5OV9ZTV84S1lpX1JYVVZWOWVB?oc=5"
-      },
-      {
-        "title": "Wielkie siły Putina na Białorusi. Jest odpowiedź NATO - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhoUHlJcldmR3o0R2taNnZCb2tzUHQydVBwQUVwdmtkMzZlVkxTc195ZHd4OWpCTi1qeFNJOGVNQjdIek5kN2ZrQVdpUmRFT0J2bFJ1aDNBdHNtS0pGWjBGaEVfdFNhNGFRdzNsbkwteFVpLWpsWXRjY1JQWGdRY0JNMjE4WVo4aEp3XzB1SjdZMkJBdkdPdnlRcw?oc=5"
-      },
-      {
-        "title": "Oświadczenie w sprawie sprawiedliwego i trwałego pokoju w Ukrainie - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekhjeTZBS2t3MlZjekZRbk9WUjZNUEVoX0RGQVQxVU5EaVI1Rk1XREo1ZGVlUU9weGRNZnZZRHRuc2xWYldyWUIzNlBXWk1BM0FGeHA5ME5wWEJXa0ljMVNFTlM2NXNsRGd0cVZMd0pxZ3dWZ2tQcVBPMjdEc1pYdC14RTFrbTZaa1A0Sml3SWMtMmNNUjRxQzlyd3dMUQ?oc=5"
-      },
-      {
-        "title": "Komunikacja w święta, Nowy Rok i na Trzech Króli - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNHBfWXJTaHRVdU44S2VlZUZCOHBwUFd6c3BWS01KbFNuN05laEsyWjU2Q0JYbW9RTUJ4TTVnMmJpR21qU2dWVnJWYnZQRW5ySUo4akFDY1BnYkhwTUhPNGowLXFic3YzVGNNV2owVVJXTkJkeXVTalY5RUdRdzZ6dHFWRTVuem5DeU5yMnEzN3phUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-17 21:17:29",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Stanowisko Prokuratury Krajowej ws. uchylenia ENA dla Marcina Romanowskiego - Gov.pl",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHZJN0RHZVViQ05LYjRWeEpoUnhfNnZSeWU4cUxmeURWNldmQk85X3FtbzVocUFiRmM5TFFLOHpHTlNUVkFLQldvLWxKclVCMnhpR3V5N1FEXzBaMG1xbHhQQnlzbUlCclg2REZZYk9JSmRZbmw3UEpJQjBVVjRpeUV3b3h4M19teDczejQ2ejFYaGF3V0ljLXdxb3k5UlFNQWRLWFlvemlrVGN1TjBKb1FxUlphSVRM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-20 04:10:50",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 316710,
+      "DOGECOIN": 0.470756,
+      "ETHEREUM": 10713.57,
+      "LITECOIN": 277.21,
+      "RIPPLE": 6.81
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Gen. Pacek ocenia wizytę Zełenskiego w Polsce. \"Musimy zdać sobie sprawę\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdYM2dtTkh6RktXNHlzOEZHb21oZTJXalR6UXprZUFvanNuNXN5WVBLVERnQ2w4eXF6NEhhU0lGUnhqeF80dUh1dUxRaW8tSE9jTmZHa1Q1ZmlGQlhuOWctUE5UMnRmbkYxRnR5WGpNYzBLdklPRXdVMXdoX256MVJrN1ZhNGUtZ0g3aVBjMWtsUWp5VFh3ckF3MGVSREdVTU14RzJTam5ZNi1aTkFxX3ZsTkpNZXhqV3hhVk96MzlqS1lpR1FHOGViTkw?oc=5"
+      },
+      {
+        "title": "90 mld euro pożyczki z UE dla Ukrainy. Tyle może nas kosztować unijna solidarność - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlJRRjVCd05KVlotVXFZUVpPb2FSVGtfbmRPNm9MUHA3bmN1UWZFZ1dPWDJCeFp2cFlSM1ZyTnNkcGpjYUdwZk9xWTVPWlJYX2hUNUZCb3dFZm96UnJQTzJaT1g5Ykh3QUdqZ0UweDB5OVhfU2RlV0ZaaFQtZEhwSC1SUVhVc1p4WGJfQXQxZm5hM1kzQTkyV0oxOHgxTlpEU1BWT0FOVklZbnh5bDFMa0pqODRsZ1k?oc=5"
+      },
+      {
+        "title": "Zabito \"wielu wrogów\". Siły USA rozpoczęły operację w Syrii wymierzoną w bojowników Państwa Islamskiego - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWxncjZCU2JTNFJBa1Jjc1E0dDVab1dEN1V4SFFoa1RmTUFKUmF1ekRoaFVIUEx3SWZPQ2xFam44Qlp3Qm1UZkdOM0pzb1JKaUowVWpkTlBNcmRTQ0dSVmkwUDFNZy1taWt5VmhfdndSREVJUVNzeG15aXQ0aUlhY3FRS1A1ckcySE9GakhiOHZZdmIzR2pOcE1ZVnVrQnVrZnc?oc=5"
+      },
+      {
+        "title": "Karambol w mgle na S19. Jest wielu rannych - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzdLcnFPSTMxM1RyRWd4T3hramwtR3Y4T3FCWUxsam5jdGt3aFJ4VFdMY0tjYmRZRTV2LVN4cS04TnNjcVg5dUNjbmM1YWxFR3ZZTnI3TWdhOTlhOHFrUmQ0QkMwTUJGOHdGVm9OaVRoc2Z2NWhiOEtsR01hUTkwdlhqbllpbVc5QWgzeGszQTJhbzA?oc=5"
+      },
+      {
+        "title": "Zabójstwo 11-letniej Danusi. Główna podejrzana zamieszcza szokujące rysunki w sieci - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjAtcTBmbU54TGYtWW8xdjBWd0xfc2wzMEFIelJuMmNXbGZEWFF5ZG82SjY4a3U3OW83T0IwMGNoeWJnYlpidC03Vlk3bElPczVKZmk5emZzdzJ1NmhfVTdhcUZjbHJNSUczeklERmNaT1R5QmhaUTJqazFka29sM1hvNmlBVzZJWVp4dk9FZ0tPbTlzOFlhRDRBc182RTg0WFpLT2ZCWjAtODBJY1dMbUF6VUlydExYUTItdjRBbHo5azJoWXpsQjlhMkg?oc=5"
       }
     ]
   }
