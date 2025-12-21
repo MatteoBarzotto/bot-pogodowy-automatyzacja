@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 13:30:17",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 316521,
-      "DOGECOIN": 0.462546,
-      "ETHEREUM": 10633.4,
-      "LITECOIN": 274.48,
-      "RIPPLE": 6.74
-    },
-    "indices": {
-      "^WIG20": 3136.97,
-      "^WIG30": 4020.99,
-      "^WIG": 3136.97
-    },
-    "news": [
-      {
-        "title": "Premier Tusk spotka się z prezydentem Zełenskim w Warszawie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnJSakYxRjhJWGN3eVFTaUpGOVQ2cEpUdjhSVmtJT0Q2Vzd4SFZLUkt3VDBQeVlJZkdpUGV5Nng1SXo0bTBEVUh1cV95Z1Iwb21CaV80dzB6VFRDdHgyLTVnajZBQmJ3Q0hHZHEyTHVGampmekV3YmRkVkFZYnM3aEpjRm5FVE5TMGtBV0dJTDlWTEdyRHJ1b0s1ZTAyUlQ1?oc=5"
-      },
-      {
-        "title": "Donald Tusk o wsparciu dla Ukrainy. \"Polska nie będzie dopłacała\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY09TbEFxa0FnSVBTb0tYYUNLLXNnXzg5d0RJWTZqZmtkbU1NNEdqOFpLb2loSV9sOHF2ZVBNWmVIXzE1dHZvNmJ1VjNURE9nZzhIZzB4OWhqRHF4cFhGSDlLZmEtaWItb0U5U1RQdGhTMV9ES0tLWXZaSE9kMWg1LXM2VExFVkhuajk1dlhGYjJwSEhPaU1LNWRGSXVUY3Z4TTJMMUZWTE1QcWI4YVpN?oc=5"
-      },
-      {
-        "title": "\"Zła wola\", \"dziwię się\". Rzecznik PiS komentuje medialną wojnę frakcji - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW80MDdQSF9RY3ZwcVpqckdpUTgwN1dRX0JKRHZsNU85eWtHdGNocVZFTjdhNVF3b0RUWXh3STNCaHR4d2xKTkhoNzJCN3RjQkF1RGg3YkxlQ1M0SGZJZ1Z2QTBhWVFreWZsSFdUd2dHbXpiNUxzQUxxTzlETWlDbUJvUnRiMDE3WmdKZ3BhR2V1Y0JPWDk2SEowNXU3NmZUS0lYVW5ieHFQTWdMbDc2Yk9oUQ?oc=5"
-      },
-      {
-        "title": "Uwaga! Zawyły syreny alarmowe na całym Dolnym Śląsku. Sprawdzono system ostrzegania - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0dlMG9UbHFPRTV2eGVXdzFYVk43QV9zN1ljc2V4aUY5SGRVWklNbHU1Szd5VnZ0RjY3eEFQaEtqUlRxWjEzTUExNXJrLUR0Vk5HelRXaTNYZXhZdXFPdjZwZEhaTnE1c0gxRDRNSkpKZkZCaVR5T242WXBSZ2tpWGhpaWQtcWtrQXMwSTJuZWpXQTg?oc=5"
-      },
-      {
-        "title": "Dwunastolatka nie może trafić do poprawczaka - sąd skupi się na dobru dziecka - Prawo.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnVfOElta0Jfczd3dE4xRzMwTURoeE9WdFRkR085akROWTFJdkIwbWJrYV9xdldMd2dRTFFRb3RITmR2Q0pZYzFRXzAyMS10NDQ2OEJtcDlFdGRFZ21sSFJNampYNFVDSXJMMmdrMElwMTRLNkwwbjM5UlpNbWYyWGstN0M2N0xqTWVtQ0RGazJHQWJid2h0VnNPSHg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-19 14:29:06",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Koniec wojny bliżej niż myślimy? Zełenski komentuje zaskakującą propozycję Amerykanów - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaDBncWRsYlE5ckFrTVZWNlFkbXNCZGY0SGF5OFB1YjloYXBMSUd1MEdBem04Mzh2a3Z2MU05TjFwT3hEOS1jbGtOUkZYWGZURmdNVDJudDg3Rno1a2poVzlUUFpBU3Y4X2MxV0RnX1llTEw0X3dfTVQyd1BVZFNpQmNSOXBMd2JQS254RGc3MzRkNWlZaThSVmlfNUtjV2dUcGpJajJwX2N3OEx1TUFHMkNvQ3JoSmpBb2g1OWpwWHMtR19BVF8weE5teC04Y0ta?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-21 19:20:25",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 316145,
+      "DOGECOIN": 0.464321,
+      "ETHEREUM": 10681.59,
+      "LITECOIN": 272.91,
+      "RIPPLE": 6.84
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Ależ bomba 18-letniego Kacpra Tomasiaka! Najlepszy wynik w karierze w Engelbergu - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWU0cHhlWDIyWFdoVWU0RExTWWhhQWtLNVJsZ2Z3QXhzV295X284N21fNFlpWGJMM3JGbG5uNGNFYWFDLWFyQ1VBNE5IaUV4N19YSll2NmVOZGJfRWdkTzhkcW5oNWFSQktjT3R5TXpTQ3c4NERtTTJWdEpuQ3JnNXBVNTY4UkRSV3hRVVhzdC1vMml3RkxYc0prWFBnc1BXRkVDcDNhR1FOOVFYakg0cmpEWVd4NnBqTUNHbnBab0I5U3dtSTBPQzh1WjhoMk8xWUdOWWIySGozakU4eHhIZHhkUmxRRmc?oc=5"
+      },
+      {
+        "title": "\"Śniadanie Rymanowskiego\". Kłótnia o wizytę Zełenskiego. \"Obraził mnie pan\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU8xUVdDMjBWVlEwQU1wRDJkTFlaWmtfNWlTMmc5UXNwVVpKSlhoN1c1Y3VDOFlKWWpFb0t2Y2pfaElzNE9SOThQOW0tLUJaSVN4VHhoX3hDdGpVRjA2LXFxR2tOc1FDeVhCWWE5Y3pkUVZyOEhMb2V4b29MRVl1QUVPWnl6STQ0SHJfVTQzZ3JvVEJIdXU0R2hnY3E?oc=5"
+      },
+      {
+        "title": "Ziębice. Nie żyją dwie osoby. Samochód zmasakrowany przez pociąg - Radio ZET",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXoyU0ViUDlpclRYNUVWRjAxamx6UWZHZkprZ3p5dm1abjNUa1pLa2JpamFqLVliUWRHTDFJTE50VVdrTnIwZHFLemkzcnluaWxSMVFvZlNLS2FkZ2YwVVFjUmh4VE9Gb2pHZU5ObUllVmNucVVQZFItZnRDc29fRmk0dENIZHV5Z1o5c1pWaDFSQjM3VTBiUk4xZmF6YUJzUGc?oc=5"
+      },
+      {
+        "title": "Atak nożownika w Gdańsku. Jedna osoba trafiła do szpitala - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa25qMHdpS2ZRWlpEM1VVMHMyTUFqTDdDRkQ3QnptZGVOcTdxRDZOM0FRdzlrVWk5dmx4ZDVZYzdLTjF0eEdYQjNReFJ2YTBPSG5jd1U4SUxibTRGb2tCcEFmZkFWZFN1T040M2tMTlBsWXprMWlqaVkxaXJRWThkWHdLMEFzYllKcGNwMFNZdFJZbkVvRHRqMXN6T2pkR2RFbGhnaDlHNUVDSkI4Zm1OWFROcmxsRWxYMnNB?oc=5"
+      },
+      {
+        "title": "Gorąco przed szpitalem w Gdańsku. Z jednej strony ludzie Brauna, z drugiej Razem, Lewica i KOD [NAGRANIE] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLW53ek8tNHNWTjgxU1otaTgwaEJ0elVJajI5emV5eWhaaHNVaWFfbDhPMl9EYWJRcXA4ZmxwRkx1ckFuWFJYVUZwQ2JLeEJIR000ZnZJbzZEVUdNZC1XTEJScWdXRnFIX2VNMl91T1RIdmxVU0JGWG5KNnV6dTFxa1Y1bXVRd0VIemJzRmVRdEFRYlBUWncxNkp2RWcyUkh2dlRNNVV1eGh1U3VNalZGQVNUcGFZMVdQTWpWalpjOVJ3M0JWNXByTElETTRYQ2JOQVl2alU3ZHFmUVFUTVZFVTl3?oc=5"
       }
     ]
   }
