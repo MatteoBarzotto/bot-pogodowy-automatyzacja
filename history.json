@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 14:29:06",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 316394,
-      "DOGECOIN": 0.463201,
-      "ETHEREUM": 10663.32,
-      "LITECOIN": 274.79,
-      "RIPPLE": 6.76
-    },
-    "indices": {
-      "^WIG20": 3143.31,
-      "^WIG30": 4028.1,
-      "^WIG": 3143.31
-    },
-    "news": [
-      {
-        "title": "Premier Tusk spotka się z prezydentem Zełenskim w Warszawie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnJSakYxRjhJWGN3eVFTaUpGOVQ2cEpUdjhSVmtJT0Q2Vzd4SFZLUkt3VDBQeVlJZkdpUGV5Nng1SXo0bTBEVUh1cV95Z1Iwb21CaV80dzB6VFRDdHgyLTVnajZBQmJ3Q0hHZHEyTHVGampmekV3YmRkVkFZYnM3aEpjRm5FVE5TMGtBV0dJTDlWTEdyRHJ1b0s1ZTAyUlQ1?oc=5"
-      },
-      {
-        "title": "Donald Tusk o wsparciu dla Ukrainy. \"Polska nie będzie dopłacała\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY09TbEFxa0FnSVBTb0tYYUNLLXNnXzg5d0RJWTZqZmtkbU1NNEdqOFpLb2loSV9sOHF2ZVBNWmVIXzE1dHZvNmJ1VjNURE9nZzhIZzB4OWhqRHF4cFhGSDlLZmEtaWItb0U5U1RQdGhTMV9ES0tLWXZaSE9kMWg1LXM2VExFVkhuajk1dlhGYjJwSEhPaU1LNWRGSXVUY3Z4TTJMMUZWTE1QcWI4YVpN?oc=5"
-      },
-      {
-        "title": "Dwunastolatka nie może trafić do poprawczaka - sąd skupi się na dobru dziecka - Prawo.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnVfOElta0Jfczd3dE4xRzMwTURoeE9WdFRkR085akROWTFJdkIwbWJrYV9xdldMd2dRTFFRb3RITmR2Q0pZYzFRXzAyMS10NDQ2OEJtcDlFdGRFZ21sSFJNampYNFVDSXJMMmdrMElwMTRLNkwwbjM5UlpNbWYyWGstN0M2N0xqTWVtQ0RGazJHQWJid2h0VnNPSHg?oc=5"
-      },
-      {
-        "title": "Uwaga! Zawyły syreny alarmowe na całym Dolnym Śląsku. Sprawdzono system ostrzegania - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0dlMG9UbHFPRTV2eGVXdzFYVk43QV9zN1ljc2V4aUY5SGRVWklNbHU1Szd5VnZ0RjY3eEFQaEtqUlRxWjEzTUExNXJrLUR0Vk5HelRXaTNYZXhZdXFPdjZwZEhaTnE1c0gxRDRNSkpKZkZCaVR5T242WXBSZ2tpWGhpaWQtcWtrQXMwSTJuZWpXQTg?oc=5"
-      },
-      {
-        "title": "Umowa z Mercosur ciągle niewiadomą. Wychodzą na jaw nowe plany - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2dvM2Z5TVVaQWwtUFEwQVl2c3pkWk11YmRpMEFNaktVUTcyRlZnRHV0dmRCc2tFakZBc2tLYld6N0dKQ1F2RGZCakRPTS00Q3lfVWgwci1yOG1fbWluWnUwZ3F1THR3Y0pTMFF4NXpPejg2S25PdEFvYks4NG5IMWNIOHd4clVNMjFodU9oTzllaDRYNUJvcTI1dE9RVHhSaGlsRm9sNzdDRHZPNERrMjNwUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-19 15:15:54",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Gorąco przed szpitalem w Gdańsku. Z jednej strony ludzie Brauna, z drugiej Razem, Lewica i KOD [NAGRANIE] - Onet",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLW53ek8tNHNWTjgxU1otaTgwaEJ0elVJajI5emV5eWhaaHNVaWFfbDhPMl9EYWJRcXA4ZmxwRkx1ckFuWFJYVUZwQ2JLeEJIR000ZnZJbzZEVUdNZC1XTEJScWdXRnFIX2VNMl91T1RIdmxVU0JGWG5KNnV6dTFxa1Y1bXVRd0VIemJzRmVRdEFRYlBUWncxNkp2RWcyUkh2dlRNNVV1eGh1U3VNalZGQVNUcGFZMVdQTWpWalpjOVJ3M0JWNXByTElETTRYQ2JOQVl2alU3ZHFmUVFUTVZFVTl3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-21 20:10:58",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 317248,
+      "DOGECOIN": 0.466503,
+      "ETHEREUM": 10739.9,
+      "LITECOIN": 274.49,
+      "RIPPLE": 6.87
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Ziębice. Tragiczny wypadek na przejeździe kolejowym. Zginęły dwie osoby - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkI4cnZBM3FJMkdtSnEyOURibmdkUWxKV1ZyeGxYa291emthZnYwV0IwTHlndkVqV1hqT2gwTV9ndmNqY0swYXA3MkZwbV9DV2ZsSlYyZUp4RDBUWTFhd1d0Wk1RSTZ2NUh3dmdGV2NPODg5NFh0dTdBNVlheTBZYjlGSWVVZlRqN3ZlVjZZZGx4VnZ1eTdDbXNGaGg5cUxZNEwxaXNrbHpoVmlFUHc?oc=5"
+      },
+      {
+        "title": "71-latek opuszczał podziemny parking. Stało się coś strasznego. 16-latka ciężko ranna - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHoxeUJPbWc4bFFjVHNNUjJrdkRLU1RwWktNN0xlWmp1LW9MejA1TlljcFpTMUZFaGV1V01QT2RtSmozMjIwenp2NUxFdjRqNWZiYU1qLW1VWHBHUWV6R25nOHRudEIzcVRMRkFoZ2NjenozdVgxM2pZWUNkNVRjWWQ3dlFxT28xZ2ptRDM0UVhJbUtQaG1DSUlhUmhnTHFEMmFaQkkzWWwzNFF1UWUxWF9HSE5vejlKNWp0OFpRMmItaEdkczdzaDF3?oc=5"
+      },
+      {
+        "title": "Ostra kłótnia o wizytę Zełenskiego w Polsce. \"Pan nie szanuje Polaków\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUlpVm1MaWpIUlFVNHB4NVR1NldMVE83VDJLY2VvYWh5dGV5MGZJejVVQnJjSUZDWjJ3U0JPQ2hhS2w4aHRPSEQtd0lUaW5RVjAxWFdTUmFEZ3NWWXRPNzdYV0dFRWFWV2s2S3kwVVFCQlFiV0g5U3JDcmo5VVFHT1R4NmVQbnlOU2plN2pjV1gzTzdHTHJXNnM1RUVvOWlfdnJPcWx6YXMweXVuYVNrN1NqVHdtVUMtcmR5TlVONGQ0by0zTGplVWFxUFJROFlnM3VYX2lB?oc=5"
+      },
+      {
+        "title": "Atak nożownika w centrum Gdańska. Dramatyczne informacje. \"Użyto defibrylatora AED\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanhUVUxqeE5BeHpxQTUwRkt4bEtWWmh1TU13NG1KVkhzNk1kWW5MUnJrdWRVOURaRHVjblN6WUVweGNYMlVOSVpmSUtxUlBMaDlpLUpzc0VGMjhTUk5xWnQ2dU52VUdtWm0zcGp0R3pnckttbGpuR1duUnVBaE00c3U2aEVzN2dRdnRxOElhU2tLN21fY2dNb3FVcnJCQUNmcGl4eXdSVDJnNWtRUXJHYjNIUERYZw?oc=5"
+      },
+      {
+        "title": "Pierwszy gość nowego metropolity krakowskiego. Wiemy, z kim spotkał się kardynał Ryś - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGR6YWhoNjFfVmphUkw1Vk1fQ0x4eXZwQ2J1OEd1MENYeXlxZUxncTFzY3NMcXRJMVFNNDBHN0Y4UHVHZ21kRnRlekI0bW92eWpIUVpFd3BnZFNLTHlEXzZMS0REOFp1TzJfWGFsUGdvbFpUZFBfM1lMNi1YLWJPYU8xMVJUb1NOcFJMUFkxbjdRYU90TlUzQjRFY0hKeDRLLVF6cTBBUFJDM3RxVU0teDZNQQ?oc=5"
       }
     ]
   }
