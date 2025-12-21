@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 18:14:19",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 316446,
-      "DOGECOIN": 0.472324,
-      "ETHEREUM": 10719.79,
-      "LITECOIN": 275.89,
-      "RIPPLE": 6.83
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Zełenski w Polsce. Prezydent Nawrocki: Nasz wysiłek i pomoc nie zostały docenione - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnc5ZHFtbGN3NUpCZEs4cVdhQmtnVTVITXFkcDdWNS1DMVh0NG12blplb0EtMW5JUm41NFZtc1FjSXZFMS15a2hWdDgxVjdKYTJlY1RWWW9GM080ZFlaRkhsRzQ3c3REYVAzZGZTRTNSOWx1cmxKSENPdmlJVVJJdG0yVmlocnd2OEQtMjI4cm9tWUd1NkE1bHdRNWIyQV9HZFQwOXctX1VyemZMRDZva3c0YWhmUzNzRWFFd0pNZWZNQQ?oc=5"
-      },
-      {
-        "title": "\"Bezpośrednie ryzyko wojny\". Orban komentuje wsparcie dla Ukrainy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2tkaW9fUVpLXzRUV2Q2QUI0N2RSY3RveGJyQVVIcFNXZ05wb2Z1cTNlOHlxeUJIRlZwOXQ2RFMyOG56UkVHem9GWm9aeWdMR3NZNE1mb0thRzRFMTQzRWduTHBNSjNfbDdpcFU3R2dfdks4SlZWRVBKcVBFM25GV1Y1RlBBYklxYU9DdUt1Ymlsd3lQQ2QteXd0SGRNTnY3eGFLUWhLM3ZfTVNtajBJ?oc=5"
-      },
-      {
-        "title": "Zaskakujący zwrot w sprawie Marcina Romanowskiego. Nowa decyzja sądu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG9RRV8xUFR6SDhvT2NDc1NjRnNnRVRYeHZGRVVjWG80cHI4QWUxNHprMWJ0YjNGZ21YUjNMV3pmZ0JZaHVBN2NhYXpwdXRmRzZaLVJfUm1CRHZUdG9taUJJYmg3Z2ZfbXdDUjEySHhaQktTeUZ2eVdtRHRlUjJhSlJYbnRyREpIYVhIZnhtUDZjYkYycVhJdFNPZk1mSVpiNEZkSXZRRTFuU0k?oc=5"
-      },
-      {
-        "title": "To nie szkoła jest winna tragedii w Jeleniej Górze. Rodzice ujawniają, co się stało - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFhNQTZ5aEFoandfeHZqTWhuREFHckdvT1hlamNndlVRcWhWWFpEdXlrT0p3NU14VE1OelVvZE1YaTJVLWJBNlBFX1BOSHNOQm5maFM3d0NrMGtfZ2tDb3N5TUMzSEpGOGdDMzljV2VveE5PRnJPa1RVVndnYThnRlNTNzFDTUY4NEJvc3RRdmN0eWp3LUw0cUQwOWhXWEozSWlVdHo2RDdoenRlcjBJdTBHZXlsdw?oc=5"
-      },
-      {
-        "title": "Tymczasowe zmiany w funkcjonowaniu komunikacji miejskiej i aglomeracyjnej w okresie świąteczno-noworocznym. - Miejskie Przedsiębiorstwo Komunikacyjne S.A. w Krakowie",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLUnFHenlZaXp3a0pMb2xCSXlBaGRIM1MzeXlLdWFLTFRRS0ZDRk9vQXZZcGhLTHg4bGRLcnRKRUVkNkd6b1gwWVdMeUNTTjA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-19 19:21:38",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Ziębice. Tragiczny wypadek na przejeździe kolejowym. Zginęły dwie osoby - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkI4cnZBM3FJMkdtSnEyOURibmdkUWxKV1ZyeGxYa291emthZnYwV0IwTHlndkVqV1hqT2gwTV9ndmNqY0swYXA3MkZwbV9DV2ZsSlYyZUp4RDBUWTFhd1d0Wk1RSTZ2NUh3dmdGV2NPODg5NFh0dTdBNVlheTBZYjlGSWVVZlRqN3ZlVjZZZGx4VnZ1eTdDbXNGaGg5cUxZNEwxaXNrbHpoVmlFUHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-22 00:13:38",
+    "weather": {
+      "Warsaw": "Warsaw: +2°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 317950,
+      "DOGECOIN": 0.470069,
+      "ETHEREUM": 10769.35,
+      "LITECOIN": 275.71,
+      "RIPPLE": 6.9
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Wyprowadził z mieszkania 9-latka i oddalił się w nieznanym kierunku. Akcja policji - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWEwamhQYUpDZG9pYTdzcXJzRWw5djFMdnNveUJMd2UyanlnVVlyaHl6YzRWN2hfUFd0b2FmV1ZMc21uMjRWbWVwbFFxSUV5RHZwNWhiVUxBalFvTkUwSHF3VXpLc0dKMEFOSHE5TXRBakdiTUE1RWtkdlRRRHUzSExHamRVbkdNTVVKcU9qNmJIeHhob1VOX25IM1dJS1NiZGVyZnVrUFpSY0tVbFhDR3Q1TkZPQQ?oc=5"
+      },
+      {
+        "title": "Pierwszy gość nowego metropolity krakowskiego. Wiemy, z kim spotkał się kardynał Ryś - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGR6YWhoNjFfVmphUkw1Vk1fQ0x4eXZwQ2J1OEd1MENYeXlxZUxncTFzY3NMcXRJMVFNNDBHN0Y4UHVHZ21kRnRlekI0bW92eWpIUVpFd3BnZFNLTHlEXzZMS0REOFp1TzJfWGFsUGdvbFpUZFBfM1lMNi1YLWJPYU8xMVJUb1NOcFJMUFkxbjdRYU90TlUzQjRFY0hKeDRLLVF6cTBBUFJDM3RxVU0teDZNQQ?oc=5"
+      },
+      {
+        "title": "Kłótnia o wizytę Zełenskiego. Padły mocne słowa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0ZyNGp4U19WS296R2plWWoxTHV2VUJPbnlhWTlLSW0yNW9kTXNyX1dWWWVHazNreGhYejdIUV9Sbk84cFJULXdEeDV6dkVka2E1dFVLamdnRmktc2xseGJQa3FtWDF5bjRZQXF1d01IVThkbjYwbXpOdWF3dktDN1FhcWJKSUlfb1R2ZHhGMWpjNzQ?oc=5"
+      },
+      {
+        "title": "Koniec wojny bliżej niż myślimy? Zełenski komentuje zaskakującą propozycję Amerykanów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaDBncWRsYlE5ckFrTVZWNlFkbXNCZGY0SGF5OFB1YjloYXBMSUd1MEdBem04Mzh2a3Z2MU05TjFwT3hEOS1jbGtOUkZYWGZURmdNVDJudDg3Rno1a2poVzlUUFpBU3Y4X2MxV0RnX1llTEw0X3dfTVQyd1BVZFNpQmNSOXBMd2JQS254RGc3MzRkNWlZaThSVmlfNUtjV2dUcGpJajJwX2N3OEx1TUFHMkNvQ3JoSmpBb2g1OWpwWHMtR19BVF8weE5teC04Y0ta?oc=5"
+      },
+      {
+        "title": "\"Macron zdradził Merza\". Media o kryzysie w relacjach między Francją a Niemcami - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmhydWlua2VDVURscVEySnFJZTVCZEhwcmZNVWpITmpaUWVDNWFYakVVNHg2MWhuYTVvYUNlQlhfY0VteXFRcFJOc29KZURMYm1zckZaNDRBVkgwXzlEcmx5bHlsUTZGbUxWM1NCalFZMVhDTkl6dkh3cFNuMzg3UFpZQmFxbFJVWTV5SzJRVFFzTl9nUkJocVV5RDFOZVRUWXdXZ2YxN3IwbXg1a1hHWVZvVkxmODFvdzN6NzFERHU0QQ?oc=5"
       }
     ]
   }
