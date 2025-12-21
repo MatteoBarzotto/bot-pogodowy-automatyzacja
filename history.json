@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 05:29:23",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: +5°C"
-    },
-    "rates": {
-      "USD": 3.5893,
-      "EUR": 4.2076,
-      "GBP": 4.7912,
-      "CHF": 4.5064,
-      "JPY": 0.023019,
-      "AUD": 2.3707,
-      "CAD": 2.6049,
-      "CNY": 0.5098
-    },
-    "crypto": {
-      "BITCOIN": 312277,
-      "DOGECOIN": 0.45125,
-      "ETHEREUM": 10487.43,
-      "LITECOIN": 271.74,
-      "RIPPLE": 6.62
-    },
-    "indices": {
-      "^WIG20": 3115.36,
-      "^WIG30": 3993.17,
-      "^WIG": 3115.36
-    },
-    "news": [
-      {
-        "title": "Weta Karola Nawrockiego. Zobacz, co tym razem zablokował prezydent - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXRHc2FNcW9aSjV2eWFGRE90cTIyQXhPVW01N1J3UExWRU1HVS1UNWJYUVAxS0NHdFdDRTgwRGlfZk1VVEFsazlpS1BvSzlhdHJNQmtXbEQyVV9ENU9zUUxmSldJeWlEeWJXVVpWckJ0MWRzV2E1QkdRWTVETHpTQ0hsYlZ6ak12Z2tZaVJhc3J4ZW1SN2dxQlhUTW5xaGJ2RE1wR21BaDQzX20zMnM3SE9RMmdQcmhYdUlFU0Vn?oc=5"
-      },
-      {
-        "title": "Polska zdradza Ukrainę. A Nawrocki postawi na Zełenskim nacjonalistyczny stempel - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3BJRzFDV0E3WU9DSksyRmQwTFZnRVV3eE4yaXBKTkxwM0w5dXVDMHBXQjdTdFJnUWE3ZC1jQVNIc1VNSURPdE5lV1VQSUk3ZjR4WlMwTWNnd2V1M3VYaFVYbjdKQXZTOGZaWG93QnZHZ1FwMURWOGpjbUVNZGQzZGtqQ2t2UUt5ZFdlWUY2ejBmS1k?oc=5"
-      },
-      {
-        "title": "Rosyjskie miliardy dla Ukrainy. Tusk mówi o konsekwencjach złej decyzji Europy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUoyQXN4WkxvTVJFUDhQMVBQZXhiZm9uZW1oS2ZrWWVxU1lORlRQX2ppMGFhS3pmZHhTYlQ1dmRWdVFRaldhYXZ6eUlEY0ZSTHZrUjZwZTdwZGF4TmljVkJINnBmTGRQd054RkpGQndlMjdWSmRXeHNENElndnBlalpQcC04eWZSbnBiZDQ5NDFnNFdBVVhlMGpteXVqczB1LWZmU1R0allKQ2hHRkdhYURiRWxwbkFydjB3NVpteU5yTDRZWG1UMHZMZHU?oc=5"
-      },
-      {
-        "title": "\"Waldek\". Kurski się nie zatrzymuje i kpi z PiS - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEFqY3FJaXJ3SGhNRWZzOFpMZ3h0ZlE5Y3F2TUNGMExsV3dJelZPbWpfaFNqcTN3NE43ZHpxOVpWWDRDdUpXTjc1ZGlTemIyc0hlazd0T1JwTF9fekhFRjhnU1RwQVZEdUJlTjJKQllFMzRTeC1BajVJM2dGYmhEYm4tem11YlVoM29rMjJGVjA?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki reaguje na słowa Gronkiewicz-Waltz. Napisał dwa słowa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFBaOVgzVTBWLVJfclhPZU5nNDZBZmpfNHY3czJ1YzNpb0FqVlZMRUxNdnZNNWJKSERhNE5zTFlkS18xcmVQRkNuSUlPMlFMdzZETVc5ZUcxSzY4MU95QjcxSmtuSVBndlBYMXoxUDlSNk9fdW1Id1ozZ0tFWkdsUWQ3U2hMdXVpU2RBX1dlNEU2VGttTWRPalRBQmZLdzFrc05iSFRFWFRzQ2l1TjJLbm04WURjNE9GV2pIY2w4R3J2UQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-19 06:16:48",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Europa na celowniku Władimira Putina? Nowy komunikat wywiadu USA - Onet",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3NCTldUTE05QWFlV1JGdTV2TnZfdl8tSEtzU0dHUFNnQU5TN1BGUm9iRkVuRlpNSDFYU3NfOXBKX1NnWXY5WjJ0SWpzZV9MR0lXRm8ya3NfcGFwTVlrb3NnTWNTbU0yQWNfV01tQTNMZHpPeDl6djF2cEI1dk9femdudEJrNG5EN0tEUE03RVNNOGpXcHJhcjRDZ1A2TjZ6N3NQd25NMXFHUm5kLVJjWExHcXQ5eDlVd2FoLWVxTmdjNG5Z?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-21 11:14:45",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 319191,
+      "DOGECOIN": 0.476747,
+      "ETHEREUM": 10792.41,
+      "LITECOIN": 279.46,
+      "RIPPLE": 6.99
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski uderza w liderów Konfederacji. Odniósł się do dwóch spraw. \"Bzdura\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSl9ObzJzUzVWalhLNHMxUGtRLVlldVBiaG9WX2Z0TDJ1TjhfUW0yaTRSazRhcmd0Sm1yMnVlX1lIZ2lPU2VhNExtQ2I5d3pHVnhGdjhEYnR1SW52ZVBjdkxnUmhKd1l1MldINTRwRy1hVXlXbVc2QmpqZDhGd0xMbGpWYWlHVXVrY1pHRUZLZUpfbFozR0E5ckMxaUtqMEFhaGN4djdZUXcxSWVya2hWSVVQdS1ZUmF6ejEwUGtpdFRsTzFSUXBQU1hEN21oOGFhcDRBOFVUYnhhRTgx?oc=5"
+      },
+      {
+        "title": "Śmiertelny wypadek na A4. Autostrada zablokowana - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXd4cm9TVHJIV0I0N3NUWnYyMjkxNjk1SGcwZFZjTHdUcHlFQVAyZHdTMzhvTGRBOXAyUzllSGZPeUxCOVFCQnNxOE1Yb2pWa0VyUExNRnFhNlNBYzgzdmNpMk5DeE1UVmNiWVpVejlRSEhHOS1tVU9NelkweE82bVkyZWpHUFEweWFhZDJPdlZqdG1K?oc=5"
+      },
+      {
+        "title": "Głos z Kremla po słowach Macrona. Rzecznik przekazał stanowisko Putina - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajdYZjNyQVRycndfQTl2Y1B3b2FNaUZ5LUtZd1p6MUZLaUV0R0JsR2ZxUUV2dXh2Sl9SMU51cjdOVER0OUxaRWVlRnRfSXdOMEdPV2FBYXVTX2prNndZWldLdlEyUUxBdlR0bWEyal9Vd3hzVTVfeHRjZUM4WmpfTW1tazBpVEo3N1E4SWJFT0tZY1NYXzRNRTg3Ym9aSmRXUk1CdC0zcjJ6NE5DUzBQMVp0MzdEMDUwNFRLVXdlUk92dkNqUkp6QnNsMV96ZXE2?oc=5"
+      },
+      {
+        "title": "Szefowa wywiadu USA grzmi w obronie działań Trumpa. \"Rosja nawet nie ma zdolności\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFloU0d0NFZBWFlGaVdlWE5aZXdNcWE4NDVBNGRENG1CRFd1OXRzLXFaM0F5R1FkdzFGWkFFWXlwOWFrSEVUb1pudGpKbE96Sm12eWgydTNYVUxPYURkb1ZzeFBMZzYtQkdybThqQ19FWExZUFBWUmFNRmJLdEJwa3p6NFhiRU5WUzJxbW1iWEo0WkIwaVg4U19QMVhzQ08tcDByUGI1Z0d2d2JxYnp0M1VsWGMyMmtZRmhZUEJGTG9qWG0td0E?oc=5"
+      },
+      {
+        "title": "Temperatura odczuwalna o 10 st. C niższa niż na termometrach. Fala mroźnej pogody uderzy w święta - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUkyc2VNdTIySkVVZWhwSGNqSDlMeFdmTmtmMTdSWUM0LWg3ckJPYkRCZnJzNTBaUEZBUVlKOV9CR0VJZXdxQV9HSFJyMlBEam9UMzZ3UUNUWVZhLUdVZ2tVTG1Sem9kNm9RaHo5X0FRdTc2MzZ2VEY1T1l1UW03WGRpUHZSeVZDZHFqOGl2T2ZQSGlqcEE2akV4a0Y1YUJMeHFvTzRLU3Z3dENhQkFGNW9R?oc=5"
       }
     ]
   }
