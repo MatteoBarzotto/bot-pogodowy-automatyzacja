@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 10:18:26",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5893,
-      "EUR": 4.2076,
-      "GBP": 4.7912,
-      "CHF": 4.5064,
-      "JPY": 0.023019,
-      "AUD": 2.3707,
-      "CAD": 2.6049,
-      "CNY": 0.5098
-    },
-    "crypto": {
-      "BITCOIN": 316143,
-      "DOGECOIN": 0.460261,
-      "ETHEREUM": 10602.97,
-      "LITECOIN": 273.1,
-      "RIPPLE": 6.71
-    },
-    "indices": {
-      "^WIG20": 3140.88,
-      "^WIG30": 4027.88,
-      "^WIG": 3140.88
-    },
-    "news": [
-      {
-        "title": "Witold Jurasz: Wołodymyr Zełenski w Polsce. Dwie rzeczy są pewne - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2pJVHBPTzI3OVVpRG1QLXU1ckZYQ1pvb19ib1JtWjRiYWZjbEhjbldGV2pRSEE2Z0prZ3NuS21DaGtURkhsQjM0TXcwZU9wWE1BWEJKNnNPMzRyejVPcTdVMURlNDRsX3MzNl9RbjlRU2ROZzVRVzNsVzUyTU5uakRjYWVrUVJLWTBmRGhuMVEwTFl3aUlmellKSVd4OC1PVjRURWlVSG5KQnpKckFlRHhoN0JsdkpyQk0wNnM0dGtXV2M?oc=5"
-      },
-      {
-        "title": "Szczyt UE: Jest finansowanie dla Ukrainy. Nie z rosyjskich aktywów, lecz ze wspólnego długu - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zaVdMRjlVeExRcnBFTXJkd3B1WDVtWWNXVTRqc1NNVXJLTkxHZ1ZkcHVocXlDRHA0bHRaLWRqd2Yxd1NyYWprV2FBOGhEdnBYYzg3ZEZfWEdnVEIxRUNOS2Z5cDltaV9v?oc=5"
-      },
-      {
-        "title": "Weta Karola Nawrockiego. Zobacz, co tym razem zablokował prezydent - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXRHc2FNcW9aSjV2eWFGRE90cTIyQXhPVW01N1J3UExWRU1HVS1UNWJYUVAxS0NHdFdDRTgwRGlfZk1VVEFsazlpS1BvSzlhdHJNQmtXbEQyVV9ENU9zUUxmSldJeWlEeWJXVVpWckJ0MWRzV2E1QkdRWTVETHpTQ0hsYlZ6ak12Z2tZaVJhc3J4ZW1SN2dxQlhUTW5xaGJ2RE1wR21BaDQzX20zMnM3SE9RMmdQcmhYdUlFU0Vn?oc=5"
-      },
-      {
-        "title": "Tragiczny pożar w hotelu w centrum Wrocławia. Nie żyje jedna osoba - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlpPc0lyc09laG1wYmVGRDRKWXpCeU5ES0dIeC1ZTGthMDhuMk9vaU56dEs4NUNTYTNPVUY0TVFNNmpmZEJubHFNMWdHMTZQdUVNOFZhQ3k4MF9Ca25YcEl4Z285b0k2TmxOUkl0QUxWSmtCODFWSTRVOWFTVTRLS1Z3VV9DdDc3OFhmakRKazBhTmlyOXkwdVo0RDJwRk9YNklvV3pGclhUdUM1YXc?oc=5"
-      },
-      {
-        "title": "Dwunastolatka nie może trafić do poprawczaka - sąd skupi się na dobru dziecka - Prawo.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnVfOElta0Jfczd3dE4xRzMwTURoeE9WdFRkR085akROWTFJdkIwbWJrYV9xdldMd2dRTFFRb3RITmR2Q0pZYzFRXzAyMS10NDQ2OEJtcDlFdGRFZ21sSFJNampYNFVDSXJMMmdrMElwMTRLNkwwbjM5UlpNbWYyWGstN0M2N0xqTWVtQ0RGazJHQWJid2h0VnNPSHg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-19 11:16:46",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Prezydent Brazylii zabrał głos ws. umowy UE z Mercosurem. Wezwał do odwagi - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm5najYxM2ZHRml6WUZxYTB5b2tjbzlzN0liZEhEajFhcXlBNVB3cklfc2JnUHFpWnRWb2dTNWNsOFRCVnhoQkNvSjZqUTltWHBWZGR4NW03Q0Z4cnhiclNmQ1FtNTlTcDl3NzExQV96MzYzclVVdGZoR1dTQzRMNDNZMmI4ZEJtT0x4eW1UTlJ1MlBGSkl2ZC1fMWpYX3Q5U3J1WjdJMnE2c0VXWUNyUnpzbzUwTXFLVUcxZFRWWDdpYUkydlE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-21 16:13:26",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 316391,
+      "DOGECOIN": 0.465045,
+      "ETHEREUM": 10672.89,
+      "LITECOIN": 272.75,
+      "RIPPLE": 6.84
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Ostra kłótnia o wizytę Zełenskiego w Polsce. \"Pan nie szanuje Polaków\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUlpVm1MaWpIUlFVNHB4NVR1NldMVE83VDJLY2VvYWh5dGV5MGZJejVVQnJjSUZDWjJ3U0JPQ2hhS2w4aHRPSEQtd0lUaW5RVjAxWFdTUmFEZ3NWWXRPNzdYV0dFRWFWV2s2S3kwVVFCQlFiV0g5U3JDcmo5VVFHT1R4NmVQbnlOU2plN2pjV1gzTzdHTHJXNnM1RUVvOWlfdnJPcWx6YXMweXVuYVNrN1NqVHdtVUMtcmR5TlVONGQ0by0zTGplVWFxUFJROFlnM3VYX2lB?oc=5"
+      },
+      {
+        "title": "Horror na torach. Nie żyją dwie osoby - Kryminalne o2",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnVIaVhVeWFqN2FqTnk1aHNBb05ZU1RCZ3FmR0xEUENoV2sydzZFVUVMOUJJMlR0VldFbGluMWo1MnVwSEFyb2U4RDlXMXcwZi1nQ09Ud3lRWThUbDR0WC1oSnl5LUFOZlR1Wm1fOGhtclF3Y1F4MGNiNFphSUV6ZHZ5Z3J5NUpfLXVHaWxrSWEyWk9V?oc=5"
+      },
+      {
+        "title": "Temperatura odczuwalna o 10 st. C niższa niż na termometrach. Fala mroźnej pogody uderzy w święta - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUkyc2VNdTIySkVVZWhwSGNqSDlMeFdmTmtmMTdSWUM0LWg3ckJPYkRCZnJzNTBaUEZBUVlKOV9CR0VJZXdxQV9HSFJyMlBEam9UMzZ3UUNUWVZhLUdVZ2tVTG1Sem9kNm9RaHo5X0FRdTc2MzZ2VEY1T1l1UW03WGRpUHZSeVZDZHFqOGl2T2ZQSGlqcEE2akV4a0Y1YUJMeHFvTzRLU3Z3dENhQkFGNW9R?oc=5"
+      },
+      {
+        "title": "Prezydent Brazylii zabrał głos ws. umowy UE z Mercosurem. Wezwał do odwagi - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm5najYxM2ZHRml6WUZxYTB5b2tjbzlzN0liZEhEajFhcXlBNVB3cklfc2JnUHFpWnRWb2dTNWNsOFRCVnhoQkNvSjZqUTltWHBWZGR4NW03Q0Z4cnhiclNmQ1FtNTlTcDl3NzExQV96MzYzclVVdGZoR1dTQzRMNDNZMmI4ZEJtT0x4eW1UTlJ1MlBGSkl2ZC1fMWpYX3Q5U3J1WjdJMnE2c0VXWUNyUnpzbzUwTXFLVUcxZFRWWDdpYUkydlE?oc=5"
+      },
+      {
+        "title": "Tylu Polaków przeszkoliło wojsko. Wiemy, jak zmieni się akcja - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGhKb1lTczE3UXJpbGIzRFVpV1RQdE9FMGhzc1RURVo3N05fYWNaeVVybmZHMmtqOGZKcTFyN25pb3gyTUhuUUpKRFloUnA0S3l4MjM2eFBvLWxzNUN6TUctSmNHOUdpVTl5ZWZFMHNqU2V2a1RNYTNYdW1sV2dyZWp4aWt5ZzZDNGp6YjV2RDFYTURBTzVZYnNRR1RKdGM5NTFLdg?oc=5"
       }
     ]
   }
