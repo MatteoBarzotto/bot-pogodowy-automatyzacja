@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 08:17:29",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5893,
-      "EUR": 4.2076,
-      "GBP": 4.7912,
-      "CHF": 4.5064,
-      "JPY": 0.023019,
-      "AUD": 2.3707,
-      "CAD": 2.6049,
-      "CNY": 0.5098
-    },
-    "crypto": {
-      "BITCOIN": 316192,
-      "DOGECOIN": 0.459865,
-      "ETHEREUM": 10634.89,
-      "LITECOIN": 273.49,
-      "RIPPLE": 6.72
-    },
-    "indices": {
-      "^WIG20": 3115.36,
-      "^WIG30": 3993.17,
-      "^WIG": 3115.36
-    },
-    "news": [
-      {
-        "title": "Nie ma zgody na użycie rosyjskich aktywów dla Ukrainy. Jest inne rozwiązanie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd09ReE1QSk40M0pHOHcwZGlCNHBnUXBBdUczV3EwNjJiTHE0bkdHZVBtc1hoc1pyN215ZUZIQ2R5bFh0ZEEwNlBSTGtvU0xLU0dTZWlZVkl3WlBaQWtCWWFuV00xM3o3U19mVDl3ajJaYzRhV1dqOVNaZEhRM1FoSF9tT0JOLVFVVm4tYVJKOXgyR3lteUY2ZXQwQ1hud1B4QXg3Rld6TDlBSW1MYlJHMkxucHZMVUpvLS1vV0Z3VEM0SWZubXVROXY1YzY?oc=5"
-      },
-      {
-        "title": "Są kolejne weta Karola Nawrockiego. Prezydent zwrócił się do rządzących - Radio Zet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhNbjRJOXp2TFIwWUlfR0xxU29mLXBVVnBDdDRGNm5IR3pJdi1fQ2l1UllraGtBWnprQXNxcTlnTXpqbm5TdjlEaTdyTENXTjBkTVJiaXhuNXZKbzcyRk9oSDI4V2pwalJvTjlQZmtkY0R5NWhkdlAtSDhGakkwemZlS2QzWEUtbUZQUlBSODJRanB4WWpXWXRsenNyNG9ybEVtWllvTXZTR1FiTXRZ?oc=5"
-      },
-      {
-        "title": "Polska zdradza Ukrainę. A Nawrocki postawi na Zełenskim nacjonalistyczny stempel - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3BJRzFDV0E3WU9DSksyRmQwTFZnRVV3eE4yaXBKTkxwM0w5dXVDMHBXQjdTdFJnUWE3ZC1jQVNIc1VNSURPdE5lV1VQSUk3ZjR4WlMwTWNnd2V1M3VYaFVYbjdKQXZTOGZaWG93QnZHZ1FwMURWOGpjbUVNZGQzZGtqQ2t2UUt5ZFdlWUY2ejBmS1k?oc=5"
-      },
-      {
-        "title": "Co się działo w sądzie w Żaganiu? \"Sędzia chciała, żebym poczuł się jak nic, takie zero\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzd2X05ORlFMYkZhaGJQLWJxV0U5TEVvQVVZaE9hUnl3Sm1mSFg5TmdpOUJxaG5zSmt6bXUwTFBpQm5FT1lQQ3gtUTA4LUhNSzItR2VqVERaVW0wUnhORWo0T3N4VFRhT3pyb3pXcWZFdWpIbC0yTE9ZQ0N4cnJBWUVrLUljeDZpaWlHMlpobGVUQzRuak5ObFJiT3BaN0Jz?oc=5"
-      },
-      {
-        "title": "Umowa z Mercosur ciągle niewiadomą. Wychodzą na jaw nowe plany - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2dvM2Z5TVVaQWwtUFEwQVl2c3pkWk11YmRpMEFNaktVUTcyRlZnRHV0dmRCc2tFakZBc2tLYld6N0dKQ1F2RGZCakRPTS00Q3lfVWgwci1yOG1fbWluWnUwZ3F1THR3Y0pTMFF4NXpPejg2S25PdEFvYks4NG5IMWNIOHd4clVNMjFodU9oTzllaDRYNUJvcTI1dE9RVHhSaGlsRm9sNzdDRHZPNERrMjNwUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-19 09:21:40",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nowy komunikat wywiadu USA. \"Rosja nie ma zdolności napaści na Europę\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNejF4S1dqSnJVLVhtOHExektTaC1JeEJlcXhpUWsxWDQ5b0xjZWFFdXFIUDllNE5XVlJWRmItVU4xeVpvbnFSdk0zVlJGdXlicVZncE5HMDMtcXZISGJHdXJkQ3VHNkpZdGFiWVo4cWgyN3c1QXk3dEVCMmxEQU5uU1h5ZHJOSURvSkpsazA2QjBNRHNRR0dCRnlhQlpjU05YRHNuN2VVMEJEYVB0cFNKQXljbmR6aGpBRVNlRkJSQlN5Y1JDNFdJUWVR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-21 14:23:31",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.5941,
+      "EUR": 4.2094,
+      "GBP": 4.8091,
+      "CHF": 4.5197,
+      "JPY": 0.022862,
+      "AUD": 2.375,
+      "CAD": 2.6056,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 317454,
+      "DOGECOIN": 0.469594,
+      "ETHEREUM": 10685.15,
+      "LITECOIN": 275.36,
+      "RIPPLE": 6.89
+    },
+    "indices": {
+      "^WIG20": 3146.48,
+      "^WIG30": 4034.72,
+      "^WIG": 3146.48
+    },
+    "news": [
+      {
+        "title": "Czy Polacy czują się partnerami Ukrainy? Oto wyniki sondażu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGVxemg3VjE2NTl6a0daZHNkd1BLUlRsQllkamZsM0loMlpHcVFNLTBPQ1Mxc2h4Vkd0WDdlUFc0V3NuVWkyQ293eWsxNFgzVnF2NTJ2c0E4ZmMzSHo4Q3dFeDF3eHdQV0J1cjFZYU9tTlVka3dLeC1ybWpEcW8zems1WWJxOFM5MFp6TzB5SFdRTkNvZjBQZ0hDSHFtcDRiUFd3ZjZTb05XRU44Sm9MQ2R5eDZld3JITk42dUZhVFE2SUE?oc=5"
+      },
+      {
+        "title": "Temperatura odczuwalna o 10 st. C niższa niż na termometrach. Fala mroźnej pogody uderzy w święta - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUkyc2VNdTIySkVVZWhwSGNqSDlMeFdmTmtmMTdSWUM0LWg3ckJPYkRCZnJzNTBaUEZBUVlKOV9CR0VJZXdxQV9HSFJyMlBEam9UMzZ3UUNUWVZhLUdVZ2tVTG1Sem9kNm9RaHo5X0FRdTc2MzZ2VEY1T1l1UW03WGRpUHZSeVZDZHFqOGl2T2ZQSGlqcEE2akV4a0Y1YUJMeHFvTzRLU3Z3dENhQkFGNW9R?oc=5"
+      },
+      {
+        "title": "Tylu Polaków przeszkoliło wojsko. Wiemy, jak zmieni się akcja - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGhKb1lTczE3UXJpbGIzRFVpV1RQdE9FMGhzc1RURVo3N05fYWNaeVVybmZHMmtqOGZKcTFyN25pb3gyTUhuUUpKRFloUnA0S3l4MjM2eFBvLWxzNUN6TUctSmNHOUdpVTl5ZWZFMHNqU2V2a1RNYTNYdW1sV2dyZWp4aWt5ZzZDNGp6YjV2RDFYTURBTzVZYnNRR1RKdGM5NTFLdg?oc=5"
+      },
+      {
+        "title": "Prezydent Brazylii zabrał głos ws. umowy UE z Mercosurem. Wezwał do odwagi - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm5najYxM2ZHRml6WUZxYTB5b2tjbzlzN0liZEhEajFhcXlBNVB3cklfc2JnUHFpWnRWb2dTNWNsOFRCVnhoQkNvSjZqUTltWHBWZGR4NW03Q0Z4cnhiclNmQ1FtNTlTcDl3NzExQV96MzYzclVVdGZoR1dTQzRMNDNZMmI4ZEJtT0x4eW1UTlJ1MlBGSkl2ZC1fMWpYX3Q5U3J1WjdJMnE2c0VXWUNyUnpzbzUwTXFLVUcxZFRWWDdpYUkydlE?oc=5"
+      },
+      {
+        "title": "Karambol, \"osobista tragedia\" i śmiertelna kolizja. Seria dramatycznych zdarzeń na A4 - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVk1mN2wyVm9rQ3JYNVYwbU4wUnpaNFE3alBxUFJ4ZTJCWFBoQUpyMldvb25SRHRWRGZ3ZTM0LWlPV3VHbWt5MDB4bWFwLUlibkRBejBEaDJ6cUdERzBYT2ZCcHdUbTZnMGhMeFpKaVVJakFQdHNVVnAwVGNQQUt5OVRJd2hKLUluTTZMWHRtMGF3RGh0Y1FyTXR5MlJ0a1NBbFI3cmJGY2lENG5BNTNTWUFwem9ZU0dXd0lreU5yVQ?oc=5"
       }
     ]
   }
