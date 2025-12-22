@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-20 10:14:30",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 316974,
-      "DOGECOIN": 0.474067,
-      "ETHEREUM": 10711.98,
-      "LITECOIN": 278.16,
-      "RIPPLE": 6.94
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Nawrocki wyszedł z siebie i stanął obok Zełenskiego - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTFM3bEFLZXF2NjRhRlMyeU5xcW9zZWdDdXJIbHc5RFA2blNGS1YxN1ZvTVRTZ05OMVhQVE9ZcS1RX185MFFqQXNnX2o2UVBMWjRtVnRSVElvUnQ0SWM3WWk3cU84RmlQLXNYdkxOdzl6cXBhV2Z3Mw?oc=5"
-      },
-      {
-        "title": "Amerykański odwet w Syrii. Bombardowania na szeroką skalę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekNJeUk0X0JEVHR3cUZTbURuWjNHOG9ia082TE5RMmVzXzdUOVZnN2FaanZoN05qdWE5cTlyc1FJOEpKX1UwRTdBVlRZeHRFaXFuWDF2TEZISG1FZnZrczBQYUZTR1JzRk5PWVlZSzRtLUNKdlJ1ckhFcGFDSG5YLTBOa0RCdDdCYWtRUXREV3Y3Nzc1VlNFZDVwZnBTeGd0dGxj?oc=5"
-      },
-      {
-        "title": "Rosja zrobiła wszystko, by zablokować miliardy dla Ukrainy. Belgijscy urzędnicy mieli być zastraszani. Plan UE rozsypał się w kluczowym momencie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzFBU3lBZjZ4ZE5Ock9kenQ0QmpleEltckdMcGJZSmoyQ2xjZDBwOE5HcExQMUh4LVBpaEZ5d3VZM2lMNnVSSE1LZVAyY1lnLVlfUE5mamh4aDVORzJOdzA0VnVNTG5aa1l1N0hNVlVkdUhvSDljcTdZMFlnSEV1cU1LQkh0eFh1WUFkTE12M0NEUUdBUzBvWUhUQnM0MS1MSDFoOEhCanJpeS1HemQ2QTNqcW4yb2hFei1haWxnUk1nQWxWdy1kY2FNdGRsbkxSSlVMVDJkYmtKc0JIWGs0?oc=5"
-      },
-      {
-        "title": "Karambol w mgle na S19. Jest wielu rannych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzdLcnFPSTMxM1RyRWd4T3hramwtR3Y4T3FCWUxsam5jdGt3aFJ4VFdMY0tjYmRZRTV2LVN4cS04TnNjcVg5dUNjbmM1YWxFR3ZZTnI3TWdhOTlhOHFrUmQ0QkMwTUJGOHdGVm9OaVRoc2Z2NWhiOEtsR01hUTkwdlhqbllpbVc5QWgzeGszQTJhbzA?oc=5"
-      },
-      {
-        "title": "Ustawy sądowe jeszcze w tym roku? \"Obiecaliśmy święta z Żurkiem\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUk5eGd5d2lFamhaVkxWckxkMHFLbEMxYV9aSmVzMGZQVndIejBFSDdQbDNpU3FNT1Z3Sjh5Z2ZLMVZfaVNxYUlBMW9XdnlXWnRFSHdFMU1pV2VseVViamZXOFU4eDBUQmRBdGd2aHlkY1FJQjFxMGFlUFpGeGxJOWZpa1BxcnNDbHFDWGh2bjRsTzlnOEJFd1RDbkhoWGdvWXJRM1VXUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-20 11:14:24",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Rosja szykuje odpowiedź na Starlinka. Wywiady państw NATO ostrzegają - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHRRczlicFczNmRqa0RXdnU5dkJTWTQtWTJUY1UyMXN2QnBrMkI3cmRxSmVkR3lnbktZX1RhZFUyQlRBYjFhTS1uREd6bHlvWWhRYXpwUjdqMVdveTdKeS15S2FEQXk4RHNnZXhaTzZ3ZWl4bjBYTmJGZ0xCUGdJUzJxTGxLRVlaQl9UR1cyS3NNcW5PWG9nZ1hWRmpwNktRNk1JT2xYaG1GcjNUV0h5Y18tS0tJUU85TzNwMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-22 16:16:28",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5904,
+      "EUR": 4.2115,
+      "GBP": 4.82,
+      "CHF": 4.5253,
+      "JPY": 0.022801,
+      "AUD": 2.3838,
+      "CAD": 2.6072,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 321597,
+      "DOGECOIN": 0.481272,
+      "ETHEREUM": 10907.46,
+      "LITECOIN": 282.67,
+      "RIPPLE": 6.95
+    },
+    "indices": {
+      "^WIG20": 3168.73,
+      "^WIG30": 4065.23,
+      "^WIG": 3168.73
+    },
+    "news": [
+      {
+        "title": "Areszt dla Zbigniewa Ziobry. Sąd odroczył posiedzenie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBPYVdZUzBJb0QyMFk2VzhjZWVOWldhNjUyUWJJam5yc3VYRkFiTVdrUmh4R3Y5VVA5TWdWQmJjN2VKaFBFTjJXdlVCMmNPMGZKbnJHaHZsalhaQnlMY3BuQmttcXFHakJCMGU0YkNSZjRucWtVVDFpN0F5Mk9xc2R0SzVJQXoyZlNYd19TTnM4VlFpYWx6NGZJdmQybXZYVF9mNV83Qk5QOEtiWnVsR3VqYnJIejg?oc=5"
+      },
+      {
+        "title": "Gdańsk nie może przejąć budynku konsulatu Rosji. Sprytny ruch Moskwy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemticjdTa3Z4cTNiTWFfS2RTVmFpYXRBbHl3TFVPcDg0Z29wUUdtanBUOWpfeW5HdDlxejFncGNXWWozYllBbVFXQ0Q2aWtmM3BEeVNUVjZqSndQSHZrZDl3dFI5TnBndklSN2I2dDFBWFVQbDlsLWxZdXlGakJQcTFTZ3lhYXZRX3RKZHJta2FxTDljdkdQWmdYSmJfekpZWi1z?oc=5"
+      },
+      {
+        "title": "Szlaban był otwarty! W tragedii na dolnośląskich torach zginęli rodzice. Osierocili dwulatka - Gazeta Wrocławska",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWHpoZzY3MklLa3kzYTkxenFhOTJfWVFVdzZLbXZNdUtVOVl3dmt5aHU0MlJXX0NpNXdNVE1RVWdEMHRYb0l0RHNJNERMbGJSeDlTcEcxQTBlYTRIdnFoNHpPcGhHbXBNVnpwc2I4b0djSlE1V3JhUk1tWXVjU2IyT28xTlhGb2U0alBLOFB2UVBEdjBNOXA0OGtzOG9Jc3JyOWo0UHk0RDUzRUl5SGZIVWlycGkyaW1mUzNzWVBnSUZHdUFMbHFzNGV3WW1XOXd5?oc=5"
+      },
+      {
+        "title": "Awantura w hostelu. 19-letni Kolumbijczyk otrzymał cios nożem. Nie żyje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEFSVnJqSkpJLV9uY2lHMG1GaEZMUlJfVlFsLUxtS3ZsVlMxbU00anBlU3NSWE1RWDhNdUdUcmJtUWh6N2UzZkdIbTBDMlhZM3gzWVJnczRKTFZmMnMtSWZrTnRodzNpSEVocFlsbGxUdlhkR3pwUzdlQjRPZUlrZmlaTDVwU0Z6SklqQmN1dDZaSE4weGszbFp3azBXeXZXQnVDMHA2TzJnMlFnb0UyVw?oc=5"
+      },
+      {
+        "title": "Klient Biedronki w Pelplinie wzruszył Polaków. Zapłacił dziewczynce za zakupy. Rozmawialiśmy z nim - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajhsRFliWDQ0TWQwd1JFa2lKRVVreE13STBMMzQ3Y0VNUU1sQUZSelJ3REItUEVEZFZSZVdRNmxYZE5LVmFmUk1MVXB3akt4T2dXMlEtbUxRWlM4eE5VX2xGeVY2OVpITk1VUXNNT1RmV0RJeUQxYVQxc1NYVXN2SHVlTXVkSXZXUEpZQWVpa1h6R01MOWxVMXBnWkx3clVSS0JIMFpGY0xtVW9ZaTNyN0FaX09teTNaNW51MUk5aDkyV25LbTUtQzMxQzB0bF9LbkE?oc=5"
       }
     ]
   }
