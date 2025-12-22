@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-20 11:14:24",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 316806,
-      "DOGECOIN": 0.474722,
-      "ETHEREUM": 10707.98,
-      "LITECOIN": 278.26,
-      "RIPPLE": 7.01
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Nawrocki wyszedł z siebie i stanął obok Zełenskiego - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTFM3bEFLZXF2NjRhRlMyeU5xcW9zZWdDdXJIbHc5RFA2blNGS1YxN1ZvTVRTZ05OMVhQVE9ZcS1RX185MFFqQXNnX2o2UVBMWjRtVnRSVElvUnQ0SWM3WWk3cU84RmlQLXNYdkxOdzl6cXBhV2Z3Mw?oc=5"
-      },
-      {
-        "title": "\"Rosja nie odzyska tych pieniędzy\". Merz o przełomie w sprawie pożyczki dla Ukrainy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQk9ldFRZZEJTOElmOUg5cnZYajNvU1JONnJoWm01QnVlcExvaDY1XzdfWU1pR2E0cjAteld2RHUtTVhjRTRnRFNwN3ZLb212RHVlUElJcTB6S0JzdE5mOGh4NXpxWmdhd3hRMlN6bFhNWDBQSDJfMGN2SWNmaElxLUFJbXVVSnhtWFR0SUFiYjZYcXRKVnVYSW1FZDBOSm5tamFJajk1QXZoMUxMQkdYNUZiWXJkSTFsSVZPVlNQdlJtQXRJZUV3?oc=5"
-      },
-      {
-        "title": "Atak na polski konsulat w Brukseli. Budynek oblany czerwoną farbą - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzJmMDBFR0xHbnd3Zi1wUlhSYndXTVRCdnFqaS1maENuQXZoVDA4VXpVUlUtaVlDbmltRG51akt2ZjdmNm1DdnVYQ1dLUmk4OUxJbVZibFVTNllHRHZMRjZTQVM4cVQ5OVE2RzAzSWJZRmtzYW9kRDZKSFZ4eDNfVkNRdG1nM01XNmRycDZCMUFNbVY4WW4zWmtfVDVHZFc2cllmVGM0cUJYdFlLSzNFbzlOb01DbmVGRXlOUDltWUNUeEo1TVE?oc=5"
-      },
-      {
-        "title": "Amerykański odwet w Syrii. Bombardowania na szeroką skalę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekNJeUk0X0JEVHR3cUZTbURuWjNHOG9ia082TE5RMmVzXzdUOVZnN2FaanZoN05qdWE5cTlyc1FJOEpKX1UwRTdBVlRZeHRFaXFuWDF2TEZISG1FZnZrczBQYUZTR1JzRk5PWVlZSzRtLUNKdlJ1ckhFcGFDSG5YLTBOa0RCdDdCYWtRUXREV3Y3Nzc1VlNFZDVwZnBTeGd0dGxj?oc=5"
-      },
-      {
-        "title": "Ujawniono nazwisko i zdjęcia 12-latki z Jeleniej Góry oraz jej rodziny. Lincz w sieci - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlNCT19QNEZ3anRoWm9UZWxlbVNsR3ZrTlV4LWM5TXh3VkNvcjVSMWx6VzZOMm8xMnAwTElsUjdEeGRJd1JwcmFXRmdqTUVST3ItU3pySlRvcHAxNFVYeHBDeklhZ2ZPTlkteHZNdG4xeHNQdlh3cDhUUkVLeFhBX1ltLU5jVkpUZXNqUXY5MzluSHVDYUVIUmZXdzFFemtEby1vUUFYTzB3S191YWEwb3NtWEVIa2ZrRDhxLUxn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-20 12:11:43",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Klient Biedronki w Pelplinie wzruszył Polaków. Zapłacił dziewczynce za zakupy. Rozmawialiśmy z nim - Fakt",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajhsRFliWDQ0TWQwd1JFa2lKRVVreE13STBMMzQ3Y0VNUU1sQUZSelJ3REItUEVEZFZSZVdRNmxYZE5LVmFmUk1MVXB3akt4T2dXMlEtbUxRWlM4eE5VX2xGeVY2OVpITk1VUXNNT1RmV0RJeUQxYVQxc1NYVXN2SHVlTXVkSXZXUEpZQWVpa1h6R01MOWxVMXBnWkx3clVSS0JIMFpGY0xtVW9ZaTNyN0FaX09teTNaNW51MUk5aDkyV25LbTUtQzMxQzB0bF9LbkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-22 17:18:35",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5904,
+      "EUR": 4.2115,
+      "GBP": 4.82,
+      "CHF": 4.5253,
+      "JPY": 0.022801,
+      "AUD": 2.3838,
+      "CAD": 2.6072,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 322507,
+      "DOGECOIN": 0.483667,
+      "ETHEREUM": 10947.04,
+      "LITECOIN": 284.06,
+      "RIPPLE": 6.95
+    },
+    "indices": {
+      "^WIG20": 3173.51,
+      "^WIG30": 4070.75,
+      "^WIG": 3173.51
+    },
+    "news": [
+      {
+        "title": "Ponowny wniosek o ENA za Marcinem Romanowskim. Waldemar Żurek ogłasza - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVFBMVFwSUExY1NBaEhzbnFyVkd3TV8wWU1CbTg1TEgxOFBnQkhDak55WU1FSlJiWEtiQzB6WklZQW1VT0JHSXNncGlBSkIyWHZ4MUhfOUlDazZ4OW1zc1RXOFN5QlBjTUVHRWFQaTZOQmEzZ3JNb2tSSDNxMFFrOHRQNjFLeUJVSkNiYndMbkZ1Rk1udHFYc3AwSDQ3SFVsRnpudGVCVlZNUVBCQ3ZFR1ZGNA?oc=5"
+      },
+      {
+        "title": "Starachowice. Awantura w hostelu pracowniczym. Nie żyje 19-letni Kolumbijczyk - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0tTaDFwd0k0Z1dmR0pubWw4TmMwcE55Sldwa09PSTF2c2RScDVEUUdEWHByV0l3bGVZeFRJUF94azhIM3pzYXgxNUNyeDFMRmtxX3RGbmJmVURzS3dVa29qMFBxbS1Rc09MZEZKeFRvU0xfWk8xY3J0UkxMS2pPa040OGpuUWQ2VWg0bGlUcjFGZTE5QUwtdkFtMnZpSWlsaXNELWtDRFd3bmhWa3l3?oc=5"
+      },
+      {
+        "title": "Czeka nas polexit? Nowy sondaż - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeW5xOThOSXRMTmRYY3pPaTJMSURTNUQta0NzS1FSb2lmOVNPTzZuTGJOZVlkanUybXBlVzluRzFLSzJvNUU5ZkZXODlmR2pKNVhJTE9oQmZGZjB3RzJFc09mSEVnVG8zdVlEZmxZN1BOZzgybk5kU2NLYno5Z0w2NTJaajJlRUR1cFJz?oc=5"
+      },
+      {
+        "title": "Klient Biedronki w Pelplinie wzruszył Polaków. Zapłacił za zakupy dziewczynki. Rozmawialiśmy z nim - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajhsRFliWDQ0TWQwd1JFa2lKRVVreE13STBMMzQ3Y0VNUU1sQUZSelJ3REItUEVEZFZSZVdRNmxYZE5LVmFmUk1MVXB3akt4T2dXMlEtbUxRWlM4eE5VX2xGeVY2OVpITk1VUXNNT1RmV0RJeUQxYVQxc1NYVXN2SHVlTXVkSXZXUEpZQWVpa1h6R01MOWxVMXBnWkx3clVSS0JIMFpGY0xtVW9ZaTNyN0FaX09teTNaNW51MUk5aDkyV25LbTUtQzMxQzB0bF9LbkE?oc=5"
+      },
+      {
+        "title": "To nie Ukrainka zabiła Polkę w Jeleniej Górze. Ale fakty nie mają znaczenia - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtaDQyMldSOVktS0txYmZYdlVkbWhHMFlDX2tYTW8zeDdIQmpQTmlhTW1zSEpmMXJfWkFMN2N0WlFsV1ZtYURyN1FJQnprUFB0dVdFTF9tWTNaeUVMb3d0SjZFMlhTeGZ4ZjU1bXdDbw?oc=5"
       }
     ]
   }
