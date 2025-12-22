@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-20 07:22:38",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 317359,
-      "DOGECOIN": 0.470937,
-      "ETHEREUM": 10714.88,
-      "LITECOIN": 275.79,
-      "RIPPLE": 6.88
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Nawrocki wyszedł z siebie i stanął obok Zełenskiego - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTFM3bEFLZXF2NjRhRlMyeU5xcW9zZWdDdXJIbHc5RFA2blNGS1YxN1ZvTVRTZ05OMVhQVE9ZcS1RX185MFFqQXNnX2o2UVBMWjRtVnRSVElvUnQ0SWM3WWk3cU84RmlQLXNYdkxOdzl6cXBhV2Z3Mw?oc=5"
-      },
-      {
-        "title": "90 mld euro pożyczki z UE dla Ukrainy. Tyle może nas kosztować unijna solidarność - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlJRRjVCd05KVlotVXFZUVpPb2FSVGtfbmRPNm9MUHA3bmN1UWZFZ1dPWDJCeFp2cFlSM1ZyTnNkcGpjYUdwZk9xWTVPWlJYX2hUNUZCb3dFZm96UnJQTzJaT1g5Ykh3QUdqZ0UweDB5OVhfU2RlV0ZaaFQtZEhwSC1SUVhVc1p4WGJfQXQxZm5hM1kzQTkyV0oxOHgxTlpEU1BWT0FOVklZbnh5bDFMa0pqODRsZ1k?oc=5"
-      },
-      {
-        "title": "Karambol w mgle na S19. Jest wielu rannych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzdLcnFPSTMxM1RyRWd4T3hramwtR3Y4T3FCWUxsam5jdGt3aFJ4VFdMY0tjYmRZRTV2LVN4cS04TnNjcVg5dUNjbmM1YWxFR3ZZTnI3TWdhOTlhOHFrUmQ0QkMwTUJGOHdGVm9OaVRoc2Z2NWhiOEtsR01hUTkwdlhqbllpbVc5QWgzeGszQTJhbzA?oc=5"
-      },
-      {
-        "title": "\"To nie początek wojny. To deklaracja zemsty\". USA bombardują ISIS - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2tMR3ZQUnhPTTlxV0R3SEE4aEZFbVZTNTlMR2EzaTdSUnRON3R0TWhSeXFXODEycE1XdW5paWd1dlpBemcxQjZLQWhwUXVFM2hCelp2aFFhNFBaM1I1UUkxWE1XT1hnOGEwMjVrUTlickZva0lRMUdiVWxvQzlwb2xBNkhFV3ZuQUdpVUg1R3JHUG1GS2JVX0hUZWlKTnluQ3pwRm9nQkNqdkFPelFMRlhUc2lWREFC?oc=5"
-      },
-      {
-        "title": "Ujawniono nazwisko i zdjęcia 12-latki z Jeleniej Góry oraz jej rodziny. Lincz w sieci - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlNCT19QNEZ3anRoWm9UZWxlbVNsR3ZrTlV4LWM5TXh3VkNvcjVSMWx6VzZOMm8xMnAwTElsUjdEeGRJd1JwcmFXRmdqTUVST3ItU3pySlRvcHAxNFVYeHBDeklhZ2ZPTlkteHZNdG4xeHNQdlh3cDhUUkVLeFhBX1ltLU5jVkpUZXNqUXY5MzluSHVDYUVIUmZXdzFFemtEby1vUUFYTzB3S191YWEwb3NtWEVIa2ZrRDhxLUxn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-20 08:13:13",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Czy Polacy czują się partnerami Ukrainy? Oto wyniki sondażu - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGVxemg3VjE2NTl6a0daZHNkd1BLUlRsQllkamZsM0loMlpHcVFNLTBPQ1Mxc2h4Vkd0WDdlUFc0V3NuVWkyQ293eWsxNFgzVnF2NTJ2c0E4ZmMzSHo4Q3dFeDF3eHdQV0J1cjFZYU9tTlVka3dLeC1ybWpEcW8zems1WWJxOFM5MFp6TzB5SFdRTkNvZjBQZ0hDSHFtcDRiUFd3ZjZTb05XRU44Sm9MQ2R5eDZld3JITk42dUZhVFE2SUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-22 13:31:15",
+    "weather": {
+      "Warsaw": "Warsaw: +3°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5904,
+      "EUR": 4.2115,
+      "GBP": 4.82,
+      "CHF": 4.5253,
+      "JPY": 0.022801,
+      "AUD": 2.3838,
+      "CAD": 2.6072,
+      "CNY": 0.5102
+    },
+    "crypto": {
+      "BITCOIN": 324027,
+      "DOGECOIN": 0.478281,
+      "ETHEREUM": 10964.85,
+      "LITECOIN": 280.0,
+      "RIPPLE": 6.96
+    },
+    "indices": {
+      "^WIG20": 3176.62,
+      "^WIG30": 4072.96,
+      "^WIG": 3176.62
+    },
+    "news": [
+      {
+        "title": "Zbigniew Ziobro zabrał głos przed posiedzeniem aresztowym. Zwrócił się do prokuratury - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXhrQ2tjdGgzU0pEdGFkZHpCbHIyalFObGlYYTVOdjhSVnFmS0R2M2ZyOUh5OHB3ZlJEVTdDNzN3TzZzWEdUUThkcFYtMDJJbnJVS3dqZ0pTam5zZmZ6N01pUlZXN1FzS1ROdVo5LVJmd3o0VGRQbktFN2R1NkpNTl9rUFNHcUwzRE9nODNHMFNtQUxBUHhuN3BQcTUwRmdSR1dGdXBrVE80RkRpZUl2SUZIbVo2MHFxNFdWR3RJeXVLUQ?oc=5"
+      },
+      {
+        "title": "Eksplozja samochodu w Moskwie. Nie żyje rosyjski generał - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUMwZHptZDB1SzhFMk1ydXpGM0V5MkxSdWowcmFfalZlYS1WbVpuRU5FUjJSbGxwX0tWckxpSFJXSHRVYmR1ZFhMVXdfa19aRUFwSUdDeTE5T2hxb1gycm9DdF9sNUlHZ1dNekhkRW1CQm5BSHExTm9nWENOTWZTOWFYYzQ1Y09EQml3Y1JSTThZd2NhSWJEcXFScVJHWXlVcGFldkZB?oc=5"
+      },
+      {
+        "title": "Rośnie napięcie pomiędzy USA a krajem NATO - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzdfOXR2dDRxaEhkZ0M0cDloRTloQjhVUTFhUE9pR0VyYXBUdHg4cXBqcGppc0UtTHJjVXFBaU5PMTM3TjZHalJlS09KQ3NFVEVrTG0tT25ZTDdxZDQyY3hTTG9Sd2RJSHp2cXNDWGRzZm1JMFAtV0UwSnAzamdNMFM2M1ozcUwyMlNaSmtQSC10Z29zUmhV?oc=5"
+      },
+      {
+        "title": "Rosja chce przejąć kontrolę nad kosmosem. Opracowuje nową broń - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHE1RGRGTHplbEpnOWNoRlNnME1kU2hSc0lWR3hhRGFzS0VMVkZ6dlRvVlBDTmxzejNUUEFZVDI2bXJlVFMybWJ3Y0JXWkhNcWp2REdJcF9jOW5xNi1wODFWVnEyd1JVZTVaU3FTTWxCejlQQWpVYmdHNlFfem9scnVpXzRUZXYyMk9mTlJBR0F4czdONUEzNmlNR2NodUdma3hsOXdTQjdLUnBVT19ldTJJUWJvZ0FTdEJobjQ2cHI?oc=5"
+      },
+      {
+        "title": "Delegalizacja partii Grzegorza Brauna. Polacy są za [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZTI2VVRRQUlkM0RLTnNrRmhTZV9oc1ZPR3FKZmZwSEFMNmFLb1VnUk1QaHJfaGRJenk5aFlCa1dTZTN2U0YzWi11WTJZQkVPWnlNT2xERGRXYldrb1JwZ0g4TENIQVcyWWRIbWVXWjFxZF9NYnN5SkhKbTB2Y3FSTGlmR3JES1FZcjVSaE95ekd2N0laTGNKdDJQNE0xSEdYNnY1Y2dPMWtxamQ1Z2dlaWg0eW5tSGFoU0NXa1E5YWdZWnVFZmlwYks4dFhxRmNWMUltSENOaktBeFBp?oc=5"
       }
     ]
   }
