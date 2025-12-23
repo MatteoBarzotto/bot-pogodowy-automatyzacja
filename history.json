@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-21 12:12:23",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 318702,
-      "DOGECOIN": 0.473584,
-      "ETHEREUM": 10766.65,
-      "LITECOIN": 278.6,
-      "RIPPLE": 6.95
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Temperatura odczuwalna o 10 st. C niższa niż na termometrach. Fala mroźnej pogody uderzy w święta - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUkyc2VNdTIySkVVZWhwSGNqSDlMeFdmTmtmMTdSWUM0LWg3ckJPYkRCZnJzNTBaUEZBUVlKOV9CR0VJZXdxQV9HSFJyMlBEam9UMzZ3UUNUWVZhLUdVZ2tVTG1Sem9kNm9RaHo5X0FRdTc2MzZ2VEY1T1l1UW03WGRpUHZSeVZDZHFqOGl2T2ZQSGlqcEE2akV4a0Y1YUJMeHFvTzRLU3Z3dENhQkFGNW9R?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski uderza w liderów Konfederacji. Odniósł się do dwóch spraw. \"Bzdura\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSl9ObzJzUzVWalhLNHMxUGtRLVlldVBiaG9WX2Z0TDJ1TjhfUW0yaTRSazRhcmd0Sm1yMnVlX1lIZ2lPU2VhNExtQ2I5d3pHVnhGdjhEYnR1SW52ZVBjdkxnUmhKd1l1MldINTRwRy1hVXlXbVc2QmpqZDhGd0xMbGpWYWlHVXVrY1pHRUZLZUpfbFozR0E5ckMxaUtqMEFhaGN4djdZUXcxSWVya2hWSVVQdS1ZUmF6ejEwUGtpdFRsTzFSUXBQU1hEN21oOGFhcDRBOFVUYnhhRTgx?oc=5"
-      },
-      {
-        "title": "Szefowa wywiadu USA grzmi w obronie działań Trumpa. \"Rosja nawet nie ma zdolności\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFloU0d0NFZBWFlGaVdlWE5aZXdNcWE4NDVBNGRENG1CRFd1OXRzLXFaM0F5R1FkdzFGWkFFWXlwOWFrSEVUb1pudGpKbE96Sm12eWgydTNYVUxPYURkb1ZzeFBMZzYtQkdybThqQ19FWExZUFBWUmFNRmJLdEJwa3p6NFhiRU5WUzJxbW1iWEo0WkIwaVg4U19QMVhzQ08tcDByUGI1Z0d2d2JxYnp0M1VsWGMyMmtZRmhZUEJGTG9qWG0td0E?oc=5"
-      },
-      {
-        "title": "Tragiczna noc na A4 w Małopolsce. Wypadek w korytarzu życia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXd4cm9TVHJIV0I0N3NUWnYyMjkxNjk1SGcwZFZjTHdUcHlFQVAyZHdTMzhvTGRBOXAyUzllSGZPeUxCOVFCQnNxOE1Yb2pWa0VyUExNRnFhNlNBYzgzdmNpMk5DeE1UVmNiWVpVejlRSEhHOS1tVU9NelkweE82bVkyZWpHUFEweWFhZDJPdlZqdG1K?oc=5"
-      },
-      {
-        "title": "Kolejny dzień negocjacji. Putin wyraził gotowość do rozmowy z Macronem [NA ŻYWO] - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZy1EZWpycVBqWS1RY3VEVWExRVdQYVg3UG10cEo1MFVCbHdIdk1HYWZfb1FBLXBGbmQ4SEFUcGtPcDYyWmVRM3pUR0dXcG9lTjg3OXB3cmFCd1lacFJWSw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-21 13:27:54",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Ho Ho Ho! Na święta S7 Obwodnicą Metropolii Trójmiejskiej - Gov.pl",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUVpMGlObGtwOFktSkFUUGVtUXlZcjhpbHg0eThUUGFacEtyX25wVXYxblp3QS1qdTZSb0tKU3lHZUlZN0lTOXNDLVdLSFB5ZHNWU2ZmX3YxTkFCd19VYkxFcFF1c2pSZjZVMlZhYU9QSUdLLWswVGozSFBDUEtiSG40V2VPZ29tMXFfa255Yw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-23 18:15:20",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 314800,
+      "DOGECOIN": 0.466507,
+      "ETHEREUM": 10564.66,
+      "LITECOIN": 277.59,
+      "RIPPLE": 6.76
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "\"Mało się nie popłakałem\". Tusk nie wyłączył mikrofonu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakJYbnVPTEM2bGhsZ2RtbWRmQ2pJSDVqZmR2WTJwNlNHTEFtcm9EUlhubUFTbmNhc205cC05eXJhNUtpMlBENjFQU1hGZ09EdUcyZVo4aTVmTUdXeWd2a2FQbkR5bE1Mb2JqaGxpemQ3dnRXZ3oyZHV6VEdkbDV6aTNHZHVjYUtKcW9jeS1kQTZpTUFvN01qVnBR?oc=5"
+      },
+      {
+        "title": "Uprowadził 9-latka w Warszawie. Prokuratura wszczyna śledztwo - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUJpcUx2Wjk1dmhod0lvcHZmdFpwaGFCOEw4SmU5b0w3VDllM0JpY0VqTnYyMUdpYWV3QTlSZk9JdVN6enlza1dPX0lPVGliZktGQklvQlAwS2o4RlJjWDFCUUNWc1FRMXo2cmZiN2Nmam9QQ2FmOGlEd2FKV2VCcF96Ry1mU2RZSlc1SDVUQnZZVzdfbzBlVm1EMjNuS1hrMXlTQ1dnSWp5dU9lNVZPU1BqcmQ1ZGFaLUZobGJ3?oc=5"
+      },
+      {
+        "title": "Tragedia w Wielkopolsce. Nie żyją dwie osoby - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFDb3ZaNE9ibkRHc0puRGVRRTd6MU5wZEVVNzZ3X2Nuam53UmJMdHlicFVSV3RQTGNld3dXZkVhVlY5TW1oTjE0eGlEQTc4NEp4SGFfWFN6eHRoZzJyWTJEVVFkYzFnVTVnNTJfTWFlN1F6enZlaEJTN0Z1NFU2R2VENDdHMHg3SkpsdmtB?oc=5"
+      },
+      {
+        "title": "Burza po usunięciu Ewy Zajączkowskiej-Hernik z funkcji w Konfederacji. \"Jasny sygnał dla europosłanki\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVms1dFUwOE9pRUlXbkl2QTdWZWdCUVVCS1czZ0tVUTRlLU5kREtxRzUzS0NpMG9tZ01BLWtVQ1hIVnNzRE9RbHl6dVJyVDBRMGlxbzJHNFVjU0RuaGxsX0ZwV3Y1aUh6aWNrMk1IVE1wbnRnZ2VZMUhrZGk4dmNzVVQxZ2piSHM0T0xoYk9yc3FyZzlRaDlCZEFSbGktRTBmUENReXM4NHZqYVZmQ25vNnZTOEZpa0xLclV3?oc=5"
+      },
+      {
+        "title": "Merz kontra Macron. Spór o Ukrainę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjVRbnF0TTBMX3d3Z05sRmRQWWFOTjR6dWV4Wk5YOHBCOXZTaUpjUmh2Y0kwa1BuTkxzVTAzNXBkQVdKVUd1M1RMRl9LLXRjTC11eGRuM0FiQWI0R3RicG81RUs0MWFlZ1p3NzdNb0psQ2tuMlNMeXZhOXJ2azlvcktDRTZPYmxWaVRqcVhpdW9aOTdqYkZIVzJpbjBuNmRmUUhXbFl6M0pvdWtkcE5FaWJETWlpdw?oc=5"
       }
     ]
   }
