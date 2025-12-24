@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22 17:18:35",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5904,
-      "EUR": 4.2115,
-      "GBP": 4.82,
-      "CHF": 4.5253,
-      "JPY": 0.022801,
-      "AUD": 2.3838,
-      "CAD": 2.6072,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 322507,
-      "DOGECOIN": 0.483667,
-      "ETHEREUM": 10947.04,
-      "LITECOIN": 284.06,
-      "RIPPLE": 6.95
-    },
-    "indices": {
-      "^WIG20": 3173.51,
-      "^WIG30": 4070.75,
-      "^WIG": 3173.51
-    },
-    "news": [
-      {
-        "title": "Ponowny wniosek o ENA za Marcinem Romanowskim. Waldemar Żurek ogłasza - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVFBMVFwSUExY1NBaEhzbnFyVkd3TV8wWU1CbTg1TEgxOFBnQkhDak55WU1FSlJiWEtiQzB6WklZQW1VT0JHSXNncGlBSkIyWHZ4MUhfOUlDazZ4OW1zc1RXOFN5QlBjTUVHRWFQaTZOQmEzZ3JNb2tSSDNxMFFrOHRQNjFLeUJVSkNiYndMbkZ1Rk1udHFYc3AwSDQ3SFVsRnpudGVCVlZNUVBCQ3ZFR1ZGNA?oc=5"
-      },
-      {
-        "title": "Starachowice. Awantura w hostelu pracowniczym. Nie żyje 19-letni Kolumbijczyk - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0tTaDFwd0k0Z1dmR0pubWw4TmMwcE55Sldwa09PSTF2c2RScDVEUUdEWHByV0l3bGVZeFRJUF94azhIM3pzYXgxNUNyeDFMRmtxX3RGbmJmVURzS3dVa29qMFBxbS1Rc09MZEZKeFRvU0xfWk8xY3J0UkxMS2pPa040OGpuUWQ2VWg0bGlUcjFGZTE5QUwtdkFtMnZpSWlsaXNELWtDRFd3bmhWa3l3?oc=5"
-      },
-      {
-        "title": "Czeka nas polexit? Nowy sondaż - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeW5xOThOSXRMTmRYY3pPaTJMSURTNUQta0NzS1FSb2lmOVNPTzZuTGJOZVlkanUybXBlVzluRzFLSzJvNUU5ZkZXODlmR2pKNVhJTE9oQmZGZjB3RzJFc09mSEVnVG8zdVlEZmxZN1BOZzgybk5kU2NLYno5Z0w2NTJaajJlRUR1cFJz?oc=5"
-      },
-      {
-        "title": "Klient Biedronki w Pelplinie wzruszył Polaków. Zapłacił za zakupy dziewczynki. Rozmawialiśmy z nim - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajhsRFliWDQ0TWQwd1JFa2lKRVVreE13STBMMzQ3Y0VNUU1sQUZSelJ3REItUEVEZFZSZVdRNmxYZE5LVmFmUk1MVXB3akt4T2dXMlEtbUxRWlM4eE5VX2xGeVY2OVpITk1VUXNNT1RmV0RJeUQxYVQxc1NYVXN2SHVlTXVkSXZXUEpZQWVpa1h6R01MOWxVMXBnWkx3clVSS0JIMFpGY0xtVW9ZaTNyN0FaX09teTNaNW51MUk5aDkyV25LbTUtQzMxQzB0bF9LbkE?oc=5"
-      },
-      {
-        "title": "To nie Ukrainka zabiła Polkę w Jeleniej Górze. Ale fakty nie mają znaczenia - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtaDQyMldSOVktS0txYmZYdlVkbWhHMFlDX2tYTW8zeDdIQmpQTmlhTW1zSEpmMXJfWkFMN2N0WlFsV1ZtYURyN1FJQnprUFB0dVdFTF9tWTNaeUVMb3d0SjZFMlhTeGZ4ZjU1bXdDbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-22 18:14:02",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2594,6 +2542,58 @@
       {
         "title": "Samochód stanął w płomieniach. Zginęło sześć osób - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEd3R0syOVE3LW9sZUhudjhlMFJ6eWt4Q212eU1KUE5PTldXb0hwRV9xZjFQY2lPNkpUT2h3YnFwR2JKLVppdWxqUmcwS2Z4UUw1dk9wVi1iM0ZPNS0tNktvcGR2X0R3ekhkSmdRX1RmZVJnTldUVUFmTWN0Qmd3c3BiNWpBcmxlT2ROX0ZhVGMtdEMyM0E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-24 23:14:29",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: -7°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 314227,
+      "DOGECOIN": 0.460979,
+      "ETHEREUM": 10569.66,
+      "LITECOIN": 270.85,
+      "RIPPLE": 6.67
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Wigilijne spotkanie Prezydenta z żołnierzami i funkcjonariuszami \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnhUQmZzVVplcVhCUTVNb0x4RVo1eTUyMVZFTWZlV2JNdEFaSDdRVFgyY1M5RUlCMVdibzh2eDhqZGRXWWJJS0QwbUdaSUpMMHdhcmhCbFRQR2VpeVhQQUtRdW1JUHB5eVBPc21Id0I5MjZaOTZ4UnI4cUR6LXd5N1Z3Q3N2MFZ5M09ZM0ZYOVpWTE1OY1poNjI2TFRjd0dWNFBxZ1J3OWxEa1ZZYUdCZnZ3TUZCNDlpVXVv?oc=5"
+      },
+      {
+        "title": "Demokraci apelują do Trumpa. Chcą zmiany decyzji ws. ambasadorów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3dfZU1INzlaOGZXNVU0eTJNZFBmc0poWU4xX1hpNWExeWN0T3RQVW5oN3QzQ2VHOVJ6TU1xTEJGa04wV1ZwLVRrSkVQalh5ZDhvTGJXbThoZkZ5b2lzOEhXLWw1VEZoVThwcDdYM2xmQU91RExlODNBdXNETjZIaFJkNkcyTmtrSTJkOGVrcFhLYVFjRTVmclBnZ0tqdERGQ0lzZmEyY3E?oc=5"
+      },
+      {
+        "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHctczJ4TkJfZlBxSmFsNUg2S3VuaWw2ZGppLTk4QkVRTy1MakxqczFheDZDYkZXNzAzS2NNeFhmd1dTOFhhV1BNV2hZQXNqbzZsckpEVmRNYTNsalNEYU9ralNPczVqQndPSGhEdlVjTDhUb3JvVEh1RVRlMmNUSXVSUmU0dWthNG9OZEQyc0I2Y0oxN2kzaTUyOEIzOEdNOFQ1dERVRDRFbTBINnJr?oc=5"
+      },
+      {
+        "title": "Tragedia na drodze, nie żyje sześć osób. \"Potrzebne będą badania DNA\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanROLVBpSVRBcmNrYUJveVFfMWpLQm9xOEl2ZjFBMkZVVzRydlRtSWVPUU9JSXVUbXdLQjAxakxURW1YR3FkVXNUX3NMQkJmZ2dmekY4WExzc25EdTYxWlRQMDZBclAwc1dsaENCQ3hmQkJRdWxtNWgtenMtaF9Dbmw1Vy1IV2pZcVRhZ1B5bmFlM25BUDBZbXNlQUg4emE0MkFsaXA4US10SUhDMDJyNE96ZVhNcUZmNzRmSENtblA?oc=5"
+      },
+      {
+        "title": "PRZEMYŚL: Kolacja Wigilijna Caritas dla osób ubogich i samotnych - Archidiecezja Przemyska",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT01ZLVVvelRRR0xWeXhIVlI1N2pxUWd1Z2VkT1lWc2FPeUd0S19KSnlyZ3ZXczI2OEtlT29zRVJRX2tnWEl6NTJQdk14RU82RkJxejRuVDF3WHJBMTNyMEh3SHZ2OW0tNE1VYUE3WVNzamZENHV3RkhyU0ZNU3J1cGpIY20zcW1vTTE1X3RB?oc=5"
       }
     ]
   }
