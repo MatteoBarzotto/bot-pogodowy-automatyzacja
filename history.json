@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22 04:27:08",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 318549,
-      "DOGECOIN": 0.474855,
-      "ETHEREUM": 10855.09,
-      "LITECOIN": 279.08,
-      "RIPPLE": 6.9
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Napięcie na Karaibach. USA przerzucają myśliwce w pobliże Wenezueli - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZjRTNXVlLWRGWWJxTVNzdW1UNTc4YnBfbzlXNDREeWYxdjd3d0o1aW1wX0E0bWgxUFZzY0I1cy1Jc2syanViaGpfMkhvOFd0bENyWG1sOHRNTExjTkF3YjU3U0ZIWnFHTDI4M1FsNFpSaWtCUlZnRGU2c093LWpPcHc5WUNVVHdhZDkyaDBOM1Y4eGZoMVhlbWFPa1dQNkVYM3VQeGZuSC01bWpldkR6Z2lrUkJuU0ZuZ1lmNjlsTjJyaTl0d0dTVg?oc=5"
-      },
-      {
-        "title": "\"Absolutnie nie do przyjęcia\". Ukraiński minister apeluje do Polaków - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUlPcFJtT1RYZ2kydlFrRXNKRkVvSDRJWEV4c3VzNm1PWHd0UlJ1UmZpZ1V0Y2VxUFZhSjE5dDl1Wmo5d2s1VDk2LUVRZl9ZR0xEdFJMN0o4UERwMTJsaHJvTm9rY2RPeUtCbEtadkltWjdaMVhXUE1qVEp5ZmRvSERRbmFaZ2RTVVpwdW1FMm8xZk9JeDM0cEprRlJuMkVuSlpNTkJsVFFoU1NBcngwazhVNUtMT21DT1Vn?oc=5"
-      },
-      {
-        "title": "Pierwszy gość nowego metropolity krakowskiego. Wiemy, z kim spotkał się kardynał Ryś - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGR6YWhoNjFfVmphUkw1Vk1fQ0x4eXZwQ2J1OEd1MENYeXlxZUxncTFzY3NMcXRJMVFNNDBHN0Y4UHVHZ21kRnRlekI0bW92eWpIUVpFd3BnZFNLTHlEXzZMS0REOFp1TzJfWGFsUGdvbFpUZFBfM1lMNi1YLWJPYU8xMVJUb1NOcFJMUFkxbjdRYU90TlUzQjRFY0hKeDRLLVF6cTBBUFJDM3RxVU0teDZNQQ?oc=5"
-      },
-      {
-        "title": "Polityczna rozgrywka mocarstw. Na stole port w Gdyni - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHF2bTlVREVZUHB2alFfcXR5SnNHZUhIM3p2ZndTOWFaOTRtZjM3NlNBU3g3dFYydVNMTjZxZnlhN2Z1MkFWM3pidFBOVm1aV2I0VFhYamNQelVfd1JIXzk3QzhZeU90OUt0SlY2MGJjVHhadnZFZ1lCcDRvM1JiSWg3VEhPY0RNMnBkRXcyNWNzNS1DdWhSV1F2Wmh1NmNHUktmTmdCX2VyV0Z5dVJZYVZmZw?oc=5"
-      },
-      {
-        "title": "To nie Ukrainka zabiła Polkę w Jeleniej Górze. Ale fakty nie mają znaczenia - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtaDQyMldSOVktS0txYmZYdlVkbWhHMFlDX2tYTW8zeDdIQmpQTmlhTW1zSEpmMXJfWkFMN2N0WlFsV1ZtYURyN1FJQnprUFB0dVdFTF9tWTNaeUVMb3d0SjZFMlhTeGZ4ZjU1bXdDbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-22 05:34:40",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2594,6 +2542,58 @@
       {
         "title": "Nadciąga potężny antycyklon Hella. W Wigilię w pogodzie wszystko się zmieni - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONl90Y2FTTWtaOWx2X2czdXgydXI0V0JpUVpEb0ZfTFBEQUs1d3ZCRGd0TVBDdm1mc20xRjFsZGc0QUtaMlRUZzZXNWV2XzVWNGtzV1JPamJTVWtMUXFLSHJ1S0VVT2ZCWVZqci1tS3N6QXZ2TGNJRzZmWlBOWkxGa1c5WlRYMi1iRDFfS0xCbnhoeGxYd3hUM2tfZ3R2M08xZDJLZWQ3VEpmNVdBeDZadWlQdlFNUHFGX3psRk9yOHBQTHBqZnFRLUoyODlMUXJYUU8zNlF3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-24 10:19:05",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 310262,
+      "DOGECOIN": 0.455509,
+      "ETHEREUM": 10460.96,
+      "LITECOIN": 270.33,
+      "RIPPLE": 6.63
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Horror w Hiszpanii. Polacy podejrzani o śmiertelne pobicie dwóch Niemców - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGlEYlB1NGpBc3lyUW54LUZVZW82SEJYX0lnVVhUTnB0WVhkTk5BZVA1aGRqSk92UG5FWW9WTHVjLTRlc25EUC1kbmIzQjZ1SE9PRFVrM3g0QVoteEw2YUZFUk43Mlo5aldUbkRvWTdFdmhBQ0dTaGhTUHpSclU0OE00ZnQtUkFuYkZtVWhla1NaWFVFNXhFWFFvTHdUX1NqWTR3M2ZwWUlZUl9CNkxScE0yWmtmM3hsbEticTVUdGtlLXVaLTZ4cFVlMFZVM0k?oc=5"
+      },
+      {
+        "title": "Koalicja traci większość, Braun wprowadza nową siłę. Mamy najnowszy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2c1Q3VOV25hSExyZFo4MGVoTHpUN3h0RHE5QVJVbFJzS1BWWlhDNjZFX0RxOXFDRFdHNVF5VEF3ekQ2SWVxQmYtNWtCMzhiNWp3LXFBazJxSmlWMHpvdUhzOTRFc1ljckFMMU0tWVJiUjBEZ0J4TmwwUW5kQ1U4QU9Mc3c2cENKckVZel9mX0pPczBmUVczM3ZVYUo4LUUtNGtZSHBqN0ljbGl4bi00a051bzdqUQ?oc=5"
+      },
+      {
+        "title": "Zorganizowana grupa przestępcza na Podhalu? \"Zarabiają lepiej niż na narkotykach\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0c2bFE3d1lIY2g4ZkkyWERoZUQ2RUhIcjVIOTU3MjR0NjFpMWpKTUVQTW9OYldjSHZ1b0VWb1F3UHRuWVdOdHI5S042ZmV1ajN3NVVid3R3aE9Icmx3MkptREhJOEgxcmhMN3lsSVRFQl8xTW9PbVhZWnFER3UzUXl3VWd3XzdLSlRHajZ4NGdPc21RbG5OVW1mM2M2NHVSTlRTckJDREhwYmJuTjhVWTZOY0FxWGtNS0hxWS1URGtoamQ1LWVNM2k2VUpxMDNwRTlz?oc=5"
+      },
+      {
+        "title": "Nawrocki dystansuje. Nowy sondaż zaufania do polityków - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmZEMl9vc29SdEVjTjJIZ3ZlQlp2ZmRSVFJEdTZleXJ2T3F2VXR6N3lQdk5EUUJ6UHJNdUlDeTA2OXh1alBkb0FuRnZUWUJiZV9DYW1iR1JhNEpYYXlKZ19KRWU3dk95WjhlM09fYlhRejB2aWVmOWVQTzUySDVzVTJVTUpGUU5mc3o1YXRsckdDVlA5SnVqbkhOcGE?oc=5"
+      },
+      {
+        "title": "Zajączkowska-Hernik traci stanowisko. Taki ma być powód - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkp4MUtqTDJqYmY0OUMwSDBpRUN3TWJIWWZpcEV6b0dZcjZmckQ5UXEydzY5NnJ3YV9GOWRiaVB0dHNuQ3B6WTJKTnlieVliRUh4VzJ2QktvY2E5OG5lT2pOVzV1YTFiVDBpR0Y4bW1tWDBObmhtMkFWaldIR0VqeHRpWUdSNUN4d0V1aHFpMTBTN2g5STBVdWxsVkxRZw?oc=5"
       }
     ]
   }
