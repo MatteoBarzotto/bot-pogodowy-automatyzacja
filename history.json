@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22 14:30:03",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5904,
-      "EUR": 4.2115,
-      "GBP": 4.82,
-      "CHF": 4.5253,
-      "JPY": 0.022801,
-      "AUD": 2.3838,
-      "CAD": 2.6072,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 323248,
-      "DOGECOIN": 0.477312,
-      "ETHEREUM": 10984.45,
-      "LITECOIN": 279.74,
-      "RIPPLE": 6.93
-    },
-    "indices": {
-      "^WIG20": 3180.32,
-      "^WIG30": 4076.9,
-      "^WIG": 3180.32
-    },
-    "news": [
-      {
-        "title": "Areszt dla Zbigniewa Ziobry. Sąd odroczył posiedzenie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBPYVdZUzBJb0QyMFk2VzhjZWVOWldhNjUyUWJJam5yc3VYRkFiTVdrUmh4R3Y5VVA5TWdWQmJjN2VKaFBFTjJXdlVCMmNPMGZKbnJHaHZsalhaQnlMY3BuQmttcXFHakJCMGU0YkNSZjRucWtVVDFpN0F5Mk9xc2R0SzVJQXoyZlNYd19TTnM4VlFpYWx6NGZJdmQybXZYVF9mNV83Qk5QOEtiWnVsR3VqYnJIejg?oc=5"
-      },
-      {
-        "title": "Gdańsk nie może przejąć budynku konsulatu Rosji. Sprytny ruch Moskwy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemticjdTa3Z4cTNiTWFfS2RTVmFpYXRBbHl3TFVPcDg0Z29wUUdtanBUOWpfeW5HdDlxejFncGNXWWozYllBbVFXQ0Q2aWtmM3BEeVNUVjZqSndQSHZrZDl3dFI5TnBndklSN2I2dDFBWFVQbDlsLWxZdXlGakJQcTFTZ3lhYXZRX3RKZHJta2FxTDljdkdQWmdYSmJfekpZWi1z?oc=5"
-      },
-      {
-        "title": "Rośnie napięcie pomiędzy USA a krajem NATO - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzdfOXR2dDRxaEhkZ0M0cDloRTloQjhVUTFhUE9pR0VyYXBUdHg4cXBqcGppc0UtTHJjVXFBaU5PMTM3TjZHalJlS09KQ3NFVEVrTG0tT25ZTDdxZDQyY3hTTG9Sd2RJSHp2cXNDWGRzZm1JMFAtV0UwSnAzamdNMFM2M1ozcUwyMlNaSmtQSC10Z29zUmhV?oc=5"
-      },
-      {
-        "title": "To on zginął w zamachu w Moskwie. Był kluczową postacią armii Władimira Putina - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGpiMndYYTZhdEEtaTVWUnhrVFlIelppMV9JejFTanVjVXFkUGVxMkFLYXdTd2JvRTh2U21uUTdCMFZLS004cEpua3YtMFE0NElqSzJ3blFMaE80bEQ4ZkRFbGZuSFBna2xaM2ZMZmlRYXBmaDdqdkMydnJKSEJkU0ZQM2oyX0JnOGxZMDRqSjVsVThfY21wcmZKMlpiNmM1dmpFY3NSZl9JLXFubDhfZ2xDZ2xyZVhWZG95TXJMRnNUbTRILTd6eFZVZWZNcDNJOXc?oc=5"
-      },
-      {
-        "title": "Afera SKOK Wołomin. Zapadł wyrok po \"wypraniu\" blisko 350 mln zł - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0NQVlNZdDNMNkpOdmZYYjdjcUFFU0x5TVdFWVB0cVBndkZ6dzJ4UGdBRFBteWliZzJDVUtZOVpaSTd0LU53RDBpeGt0OTR4c3dNRGhpblBZNXNpYVp4Tl8yMHRicHBRbjhEOTZ2dlpLckxJaEdZaUNicU5sRmxqaFlpM05hZ3R6QVNQRm42eHdwaV93V0NjMk1rb3RWZmo0OG00YjVDRVFyVnhRMmd0ZldOanpJWW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-22 15:15:47",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2586,6 +2534,58 @@
       {
         "title": "Tragedia na drodze, nie żyje sześć osób. \"Potrzebne będą badania DNA\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlJEZzhpY2ZpcUx3ZzUxMHJQQzRxdm9sa09vVUkwRFhXWDdvQTJPUjRIaDhXamlsY0I2TkpNblFwaS13UE1vc3VUUFdTNXE5a2FCN3RqZ0lvXzVaNEp4OTlyNTNEQTVnMEJMRVhJZUYtTzd6NDdGNjdXdzJTVmxieUh6MkhWZTNGNFc0T3N5OHUtckpDdHNIVjhMbGRlMmFKU2hKRE5SSGRjQQ?oc=5"
+      },
+      {
+        "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHctczJ4TkJfZlBxSmFsNUg2S3VuaWw2ZGppLTk4QkVRTy1MakxqczFheDZDYkZXNzAzS2NNeFhmd1dTOFhhV1BNV2hZQXNqbzZsckpEVmRNYTNsalNEYU9ralNPczVqQndPSGhEdlVjTDhUb3JvVEh1RVRlMmNUSXVSUmU0dWthNG9OZEQyc0I2Y0oxN2kzaTUyOEIzOEdNOFQ1dERVRDRFbTBINnJr?oc=5"
+      },
+      {
+        "title": "Premier dziękuje Straży Granicznej. \"Ktoś czuwa, żeby inni mogli świętować\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3hQdFM0S0l0T2xfdGpuOUVoM1NnMy14blZtV0RuanFsVW0tRnZabk9raWRjTDNpVklLdE1VZEdLQmdGRmR1cmRQa2dRTmhnMFBGVnYwT1N4UVZMdFBvaVFYclE2S0doYjA3enhyVG03d0dIY3c1MGRTa2JMMkNhYzFET2NJbzZ4c0FIOXAydUxibHlqbTJ5a0U4SFBtNUVBNnNmUnBFRG5HbTNXQmpOZWRqNGpneUNqRTVtd1JR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-24 20:12:09",
+    "weather": {
+      "Warsaw": "Warsaw: -8°C",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 312792,
+      "DOGECOIN": 0.457733,
+      "ETHEREUM": 10519.15,
+      "LITECOIN": 270.3,
+      "RIPPLE": 6.65
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Ambasador Polski we Francji zatrzymany przez CBA. Mamy nowe informacje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUENkWVUzVDg2UGFONkpJaE5ZTUxiY0Q0UXBHN1lkR0RjQWRRQmhicm9RX0x3aXJUVjF1ZC10S05jSWQtYndWQ0FPVldHNW1LZnhxM1c2TDRiZ1FwS3laQ0haeS0xUXlnczJlQ3F4d2VieVhRUS1pY0ZORUk3TjF0LWJ4Tl8xQjYxUWMzRk9nV0FJYkExWEZCR1VUbmJaRTQ1dUNZX0NDMDNpN0hQTmc?oc=5"
+      },
+      {
+        "title": "Nowy plan pokojowy dla Ukrainy ujawniony. Donald Trump przewodzi Radzie Pokoju - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmtqbkpBbUNYa3pta3lGU0plcW1renRpb253d291SHY3ZThDbTVLTkg3S2c5Qno5UUxrRk1VbzNPVWlIM2lEYy1LT1BBOFh1UzdBLWFmdDJ5NjRTSi0tSlEtdmpiS2E0azFoNzFOV1YweTBVc0Zpa1VWbVExc2otSHRrVFhtREJ6NmdfcDNFZmlQazNVaFpLZW1LTnBmazdLM2JibGdLaDEtU2h4dG1RaXJmc0FEejVxSi1TdGNyRUhkMXhsV3c?oc=5"
+      },
+      {
+        "title": "Samochód stanął w płomieniach. Zginęło sześć osób - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEd3R0syOVE3LW9sZUhudjhlMFJ6eWt4Q212eU1KUE5PTldXb0hwRV9xZjFQY2lPNkpUT2h3YnFwR2JKLVppdWxqUmcwS2Z4UUw1dk9wVi1iM0ZPNS0tNktvcGR2X0R3ekhkSmdRX1RmZVJnTldUVUFmTWN0Qmd3c3BiNWpBcmxlT2ROX0ZhVGMtdEMyM0E?oc=5"
       },
       {
         "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
