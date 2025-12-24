@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22 02:15:05",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.5941,
-      "EUR": 4.2094,
-      "GBP": 4.8091,
-      "CHF": 4.5197,
-      "JPY": 0.022862,
-      "AUD": 2.375,
-      "CAD": 2.6056,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 319133,
-      "DOGECOIN": 0.473717,
-      "ETHEREUM": 10868.44,
-      "LITECOIN": 277.54,
-      "RIPPLE": 6.92
-    },
-    "indices": {
-      "^WIG20": 3146.48,
-      "^WIG30": 4034.72,
-      "^WIG": 3146.48
-    },
-    "news": [
-      {
-        "title": "Zabrał chłopca z mieszkania i zniknął. Akcja służb w Warszawie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1JVTHYwaXg0ODlCV2R3dGVuMXRNeVZranpqWlpLdXNFS21jX0U3ZHhLNWtzZm9SeExxRHlybER1UTZnemw5VUtoanVkZ1MzOUd3MkpSZ2YxOXpZWVBwQWF4d2ZOR0JqMjYxQUt2U0xPS2o0RkR0YVVnMEhWMHktTWF5aG53aHE4SEhvQXp5cmlMdmxRanhOYkJxMzhTTDFxSF94cEFqdW51X0tJQk5UbDlXRXNrbFZR?oc=5"
-      },
-      {
-        "title": "Negocjacje Ukrainy i USA na Florydzie. Jest wspólne oświadczenie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3YxdkVzY2ZUTTg4M2lobGdHYjV2VGQ0M1RUVG9aVGJvVWlSXzVHbUZJTW1wSGNIOVFvb3E4bFg1TjNWUTR1ZnBqY3RxTUE2SmpqOXNvU3g5R1psZlVtQTYycmtqc3loVWplWDI2SEVKdkFKZ3QyWGtkQUdqSVNKbFVsT0RiS3dIUDR1cUF0VF9aV2lCUkgtNHNxTHBHRExseDZZZXpVTDBWWUJlaWxSTG9QRjE5MGFHcEc2NXU0QXRaWHNk?oc=5"
-      },
-      {
-        "title": "Kłótnia o wizytę Zełenskiego. Padły mocne słowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0ZyNGp4U19WS296R2plWWoxTHV2VUJPbnlhWTlLSW0yNW9kTXNyX1dWWWVHazNreGhYejdIUV9Sbk84cFJULXdEeDV6dkVka2E1dFVLamdnRmktc2xseGJQa3FtWDF5bjRZQXF1d01IVThkbjYwbXpOdWF3dktDN1FhcWJKSUlfb1R2ZHhGMWpjNzQ?oc=5"
-      },
-      {
-        "title": "Niemiecki turysta zginął w ośrodku narciarskim. Spadł z 70 m - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXFxQ1dJUjdzZVpid2gtbU44dmY2Rno1bjZpd2tFSjlWOE5VNTBycVFqdzdoZHRYcVJleW81cmVaYnR1azE3a01WT1c3dUVfaVlON09tYV9tZzltRmhmWmdXVXROUmRuOVQyWUpXZHhSTXBtbUFJNjFETXhxYkNLUjNUZUU3WVJfNHgwVEhxRnNyUVoxS2NpdlpVYjhzSEFjRmF2NGoway1SbWoyYWJkZkRqeDRDVVVGNUE?oc=5"
-      },
-      {
-        "title": "\"Idioci!\". Tak gwiazdy kadry reagują na skandal w warszawskiej szkole - Przegląd Sportowy Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0NzQXVqc2J1ZGxCOXFUZE9GM2Z1ZzlURXhZYmhheVFRaDIxVWxKaUlMZzJZajJXenk4ZnlCV0I2T05EVElwbGl5bjd4ZEZwNkQzZElKcUY0N25zUng2QkhfdmI3b2kzZXRNdHZhdFZ5QzR6eGxHM3ZFYW9xMGxucFJaYVQ3VVpyZGh2Vi1sbzdrdFBuSk0wRzNneG5DYS0tQWktRWxmdHdQSElaMGRLbjBEUW9HdmJQNEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-22 04:27:08",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2594,6 +2542,58 @@
       {
         "title": "Kilka tomów w sprawie Pegasusa. Dlaczego sąd odroczył decyzję w sprawie aresztu dla Ziobry - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajV2WHFRY0ZSem5aOXpFUHVsOXFOdEp5MlMtQlNQcXg4ZGpSSHdrc0U0S0xhLWctUVlBaUF0V3lJQUhUSGg4U2NRQ0FESFFUZlNxSk1tRWNESFFTY2w2NFZfMWI5SVdzVHU2OUFVNzZVcVZ3T0haMkF0eEY3QW5wTU4zX0t3UVJ2bVFuSndkRGg0ZzVDaElkVGxnTk1kVWFMOTNwRzdib0tPX18tZVdz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-24 09:21:37",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 311633,
+      "DOGECOIN": 0.454972,
+      "ETHEREUM": 10519.63,
+      "LITECOIN": 271.01,
+      "RIPPLE": 6.66
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Śmierć Niemców po brutalnym pobiciu w Hiszpanii. Zatrzymani Polacy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1Z5UGx3MmRfX3I4TUk1OTY5MWMwUnZaXzIwbzBIeGljNGxKZzNhUkJLSDUzWmVRWlBHcVg3SkdNOWg5WUg4Q2ZLYlNJaEFMVk1KUzk3d3Z5UGk2cTVhVlp6T2Y2eHpPQzJvazUxeWU3azgwaHZ4eDUzb2tCUFZfcDhxNlpXMU5fSGc0R1NlbTFmekhCUXdMWHpXX3pCOThWa25ONjdoMTdaUTBH?oc=5"
+      },
+      {
+        "title": "Amerykanie szykują siły w regionie Karaibów. Dziennik przedstawia wyliczenia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2VYRkJtYnBBcTRsYlBhYjVEemVfaUZ6WDJXZ3R1V1lIUTdvaXl2cHhUcW1qek9MMGs4YlhMMEx2dnBWZ0Y2ektxS1R1Tk1QdS01c1phMENFSVA2MzJkQVk0RHNwN2JEd0M0dVlUakoyYlQ3YzllZm80RHFZQ0pEeXZKeXlXZlo4QTRwakNmQTlGV3VZdGtLb3RMMWRaV3lSb2NlZ0VkckFjNXdjeVZtaG1WTDBxTU1Bc0xpLTNQek1zY3d1R2I0UWdB?oc=5"
+      },
+      {
+        "title": "Ewa Zajączkowska-Hernik straciła partyjną funkcję. Znamy powody zmian - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVlZZHQ1TWRweTZKYXlJRjZueDVjdnF5WkRUV0JvVnJmVW90VlVGVkpwbl9Lb2FPbnZkQWpaV2tfM0tlNzR3bmxDZThaVUozLTZrV1JwS3paOUoyckFqSGdBVjliNDJLMUcyV3c3WlJGX1dHOW9TOTJqZ003M2FCM2E0WENuMS1YZ043OW9vaVFTaTNGRHhwX2Q5WFVMZ1ZtWmdXWjVSdTRhaE9aYkEwV1B0Z1FvREk?oc=5"
+      },
+      {
+        "title": "Sprawdziliśmy, jak to jest z cenami paliw, o których mówił Tusk. \"Nie sądzę, żeby specjalnie dla premiera obniżyli\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT19rQU45OWVXa1JBNWF1RWgxT21mZk1oaGNvWVBlcERMYTBtX1NWTjUyYlFmUTVucklOWVhuOEoyVkxwZGtjX1RpR2JQM2pVcW1FakZOUWNoX0xkXzVYby1iQ0w2c1g0eXF0NFU4ejZCRHdVV1NXeFZrenNIWS1pd0l0cDVWSjJRQ2VYNlN3bC1XaWdsVlBoYUJqdHNmY21iV2FlTnVXSFozRVUyRms0?oc=5"
+      },
+      {
+        "title": "Nadciąga potężny antycyklon Hella. W Wigilię w pogodzie wszystko się zmieni - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONl90Y2FTTWtaOWx2X2czdXgydXI0V0JpUVpEb0ZfTFBEQUs1d3ZCRGd0TVBDdm1mc20xRjFsZGc0QUtaMlRUZzZXNWV2XzVWNGtzV1JPamJTVWtMUXFLSHJ1S0VVT2ZCWVZqci1tS3N6QXZ2TGNJRzZmWlBOWkxGa1c5WlRYMi1iRDFfS0xCbnhoeGxYd3hUM2tfZ3R2M08xZDJLZWQ3VEpmNVdBeDZadWlQdlFNUHFGX3psRk9yOHBQTHBqZnFRLUoyODlMUXJYUU8zNlF3?oc=5"
       }
     ]
   }
