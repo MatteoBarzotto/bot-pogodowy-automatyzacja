@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-23 00:14:25",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.5904,
-      "EUR": 4.2115,
-      "GBP": 4.82,
-      "CHF": 4.5253,
-      "JPY": 0.022801,
-      "AUD": 2.3838,
-      "CAD": 2.6072,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 317508,
-      "DOGECOIN": 0.473623,
-      "ETHEREUM": 10774.52,
-      "LITECOIN": 275.86,
-      "RIPPLE": 6.82
-    },
-    "indices": {
-      "^WIG20": 3173.51,
-      "^WIG30": 4070.75,
-      "^WIG": 3173.51
-    },
-    "news": [
-      {
-        "title": "Akcja ratunkowa w kopalni. Stracili kontakt z górnikami - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUszRGZIaTFMdVFIZm5VNDl5NGZnajJRcFEybkZ5YTRqUGxUMjZ6UTZ5MTBhcllwUlBNb3lRVC1qZ3lTdF94TjBIWi1mZlljTjRpSTYxalJHTE1HSkpTVUpKQU1WeDZCLW8xZy1KTUZSVUhoSjA1RnY5SkFVTzVpWW1UM3ZCVmpTU0RScnJlWEhCX045NHBQbGpDbUtkR3h0X1V1UUF3?oc=5"
-      },
-      {
-        "title": "Zderzenie pociągów w Warszawie. Są ranni, ruch wstrzymany - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnd4U0tRYW5WNXpGMGhaNlpSMnRGdVBDbE8zS2I3bml4VlF5SFFPUHZ6YTdzbXF4UDAwYjA4VmZ5OWpsQUR0Q0h4akJwYmlBczhicXNFX196aGVQTUdvRTd0bmltTzd5Znc4RThrc2h3RWZSWjBGeG1EakRGV081VnZsUXVXUkpPTmVwQnVVclJacENwSDdsdjVGMGxJWUhXM1lTVmltdjlScTg?oc=5"
-      },
-      {
-        "title": "Zamach na generała w Moskwie. Ekspert tłumaczy, że ta bomba to wiadomość dla Putina - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1cwdkRkbk9IcHFJRTFlemZBVTY1Wlo1QW9aQTdqOG1VMVlFNEtXM29GMXZON3ItZ01NNXByZTdHV3RJYV93ME9fZDE0Yk5PY0Uzd3ZUX2ZsWFFScGozR2ltSDRlX09mT0REWFN0WWUxWW1yN2oxUzRCTE56VnBBc0dzQWhQc2QwQUpCV09Lc0VERFloZTdWdXhVT0k2VXZNZmZfS24tbzM?oc=5"
-      },
-      {
-        "title": "UE staje po stronie Danii. Odpowiedź na ruch Donalda Trumpa - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1ZhRk15U1ZSRi15Q3dPLUh1OFkwNlhZLTJDblVKZHVyVmJMNXdwdVFGVk56WlREaHlmR0k5TFY2b2J3aUczdXhsMzNVckFrU2tjd21IQUFOaFc5ZVFsZUVicDVrUV9KeGhBaHZwMVFObzM4V2VtbmRFLVg2THY5RV9jT3VQS284Ml9BanlBa1pyd1l5QmdMY0dUV3VGT0UzZnNvQUhmVFduZGlsVFJWRTViQWdjWlU?oc=5"
-      },
-      {
-        "title": "Jelenia Góra. Policja zajęła się internetowym linczem na 12-latce podejrzewanej o zabójstwo młodszej koleżanki - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkZMUmNfUUlhRmhXYk9LZGJwdFJCREM2N2ZWTlN0cUJUNFFsU2FfaXlXUXBtSndoYjMxX0lzNDBtajVPajlnYkxRaEt3RXFfYTFzbG9DSERNa2NUd1pXWHBMdkFqcUdqN1RwOEpqbF9LWnc0ZTZ3WFlvTE1jR1RrY1l1X3N6VV80by10Zk1GZXdRM0o2NXZwWW9rT3QtNi1uZlVTU1NyNi0zMlN3cmFtVzN2bS14U2s?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-23 02:12:00",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2594,6 +2542,58 @@
       {
         "title": "Para prezydencka złożyła życzenia Polakom. Karol i Marta Nawroccy zwrócili się z apelem - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWJFZWlnMVNMU21XZnM3U1oyVzNrOTBacnJtMFlpejVzVDZzcTh5WXZ3THByLWVHUUdVdXNtYkpQUEtVN1FkcEpZeTNIalR2cmIyVUx5eUdpeGdnT09FWC03WlhtYUhnZmRVbUlBQkE2LUduR3VGazNDZ0R3R3JKODgxX2JYN0V2dl9kUXN0WVBfdlVJdkxyZ3NsVTV6WmZFMlZITWMwal92QVl3N1RYVFNNTlJqMXgxeW13R293M2hLWnMzOEQ0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-25 08:17:28",
+    "weather": {
+      "Warsaw": "Warsaw: -11°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 314099,
+      "DOGECOIN": 0.45819,
+      "ETHEREUM": 10522.39,
+      "LITECOIN": 273.22,
+      "RIPPLE": 6.7
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Para prezydencka złożyła życzenia Polakom. Karol i Marta Nawroccy zwrócili się z apelem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWJFZWlnMVNMU21XZnM3U1oyVzNrOTBacnJtMFlpejVzVDZzcTh5WXZ3THByLWVHUUdVdXNtYkpQUEtVN1FkcEpZeTNIalR2cmIyVUx5eUdpeGdnT09FWC03WlhtYUhnZmRVbUlBQkE2LUduR3VGazNDZ0R3R3JKODgxX2JYN0V2dl9kUXN0WVBfdlVJdkxyZ3NsVTV6WmZFMlZITWMwal92QVl3N1RYVFNNTlJqMXgxeW13R293M2hLWnMzOEQ0?oc=5"
+      },
+      {
+        "title": "\"W imieniu Donalda Trumpa\". Ambasador USA zwrócił się do Polaków - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUZCUDRhVFUteUlBdVRHUjIzdVczSWQyVDlmYkFoUUpiWFZfVllSUU04Z1h6aWl0dllZZUFjaXcya2hBdWNaLTF4Y3ZXalNEMTFJQmFHR0kweEJJRFNtM3JNOUE4MTZ6WVJHZ2JMM1BpMl92RWpVTGUwUmdXRWdqemJ0U296cmN6djVqY3NoWEMwMm5DbXVNQU9LWnRwTk9lWXY0enc2Rk9NZUN4MkJ4eWdRWQ?oc=5"
+      },
+      {
+        "title": "PRZEMYŚL: Kolacja Wigilijna Caritas dla osób ubogich i samotnych - Archidiecezja Przemyska",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT01ZLVVvelRRR0xWeXhIVlI1N2pxUWd1Z2VkT1lWc2FPeUd0S19KSnlyZ3ZXczI2OEtlT29zRVJRX2tnWEl6NTJQdk14RU82RkJxejRuVDF3WHJBMTNyMEh3SHZ2OW0tNE1VYUE3WVNzamZENHV3RkhyU0ZNU3J1cGpIY20zcW1vTTE1X3RB?oc=5"
+      },
+      {
+        "title": "Braun na czele niechlubnego rankingu, Nawrocki na drugim biegunie. Nowy sondaż zaufania - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUQzOExXOUZCZWVpNXNLWnE0T1p1X0VVS0pENTNldE93SzJka1czZmpkUWttTXJ2aU1QcW9hcHFhOXJmQXp6bTEyT2tHcjhETkdqZVhxVnZabzN2aG1fNDFKUk0xd0liTGtUeDRTQUdSN21IT2R0M1lraHo2T29jNnkwZEJiakZLT2dZS0oxbzY1Z1NlVkJUQUViNkx0TlUxeE1DckZUNEF4dXFNNXNFbjQ2dw?oc=5"
+      },
+      {
+        "title": "Polska w szpicy Europy. Kto czuje się wygranym? Lista może zaskoczyć - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG1TZHZSYk1Ybk1jekFGdldjOHhzRVVuVlY2WTU3OTNyY0FJcE1Gby1md2ZWSjhhb3UyOUU2TENNYXBFZi1VNHVMOEtXdnZXbjZiTWtsbjlSR0JYbTdTa1VzRXlWQmZaVmhxNmJQamltUVc1d0htaGk5V1ZJUTFJdUsydFRFRE5DcFlJZWV4a0o4OFRIa1NHWDI3aXZCQ0FkcTExVmFzZkpVNjZlM3lGQnlhLVRUS1pBamlpM2JR?oc=5"
       }
     ]
   }
