@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22 22:13:26",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.5904,
-      "EUR": 4.2115,
-      "GBP": 4.82,
-      "CHF": 4.5253,
-      "JPY": 0.022801,
-      "AUD": 2.3838,
-      "CAD": 2.6072,
-      "CNY": 0.5102
-    },
-    "crypto": {
-      "BITCOIN": 316718,
-      "DOGECOIN": 0.471191,
-      "ETHEREUM": 10706.02,
-      "LITECOIN": 274.05,
-      "RIPPLE": 6.8
-    },
-    "indices": {
-      "^WIG20": 3173.51,
-      "^WIG30": 4070.75,
-      "^WIG": 3173.51
-    },
-    "news": [
-      {
-        "title": "Utrudnienia w kursowaniu pociągów WKD. - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUJETndxVFA2N3NlQm9uVDNwc1dTQllxNDlNMUt2c0dLWGxISDlYUHgxcThVT1pDTjk5MEJfTUlEaWQ0bmppMHUzNXI2dk9UeTJCXzI4clJIazVxUktjbkNLd044b1NLTHM2VzNDOVhqeHVSdW1JMHBLd3J5ZXFUcHpDNHgtQWhmNFo4dUoxeGY?oc=5"
-      },
-      {
-        "title": "Akcja ratunkowa w kopalni. Stracili kontakt z górnikami - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlTMzV3dXF5clVpRzdES2I3dDFHMnozY3k0XzJwRENhbVFtX0pqcnpxbnd3cl80ekNNRnlkQjUtSXUzRF9IN05CS1FUQW9ocndWbU5veC05dnpMZkJwampfclotM2ZLck1EcTVNNnJnQVl5U0k4VEpHc1p3RDYxVnYzVjFQZ1hncEtob2N4REp3cTJKOEFUMGZHd0h6NkhxaXhQY1NkbWlVYkljOUFuN3dB?oc=5"
-      },
-      {
-        "title": "Prezydent Nawrocki podpisał ważne ustawy. Bardzo surowe kary dla kierowców. Można nawet stracić auto - Next Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmFrQmVPTGV3YWpXLVQwSldRZVpid0RodUIwUUNRMVQzRUo5RmZaQ3BoMWxEbFFmTlRCYkJFa2F3OVN3cDMzYWN3U2dWM1FSNkZwSDljbFdjQUoyRGNjN0pKXy1BTDI4ei0teWR3YVRPM2w3a2JtaEwxcTZNY0tNd2tLOVNaQkpoelZ3QVEwMGttYll4dFFSUmhZQjNtSl9qMzVkZ19iVHJ4RDdCLUE?oc=5"
-      },
-      {
-        "title": "Decyzja sądu w sprawie Ziobry. Prawnik: pierwszy raz widzę coś takiego - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXNZcFVuT2RrZWp2V21tYlRWUVQ3MTY5cEJjekZ4NC12bk5NZGZtSVFUVEwxQTR3QkdZUWVZczNzd2JqaHgtdkhGVlk0T2lNQWh3bTY5MF9GWmdfcmQ1WEt3ZW1CRzZURFM5YzdrZkRFbE9UMHplZ2lUUGZTSHJDTDVKSUlxNXhUenk4SldhWUc3UjBwQ3NjY0E2bjRLOGhwUnVoekdaS0k?oc=5"
-      },
-      {
-        "title": "Sam Putin został powiadomiony. Kim był generał zabity bombą w Moskwie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTkwcEFOQ05NMThmd3lHT3hyY1UtY0cyZVFBaWtZSlV3SllyYlZtS3ZVdmtPQjB2RmZyT3FKWmNoODhZbVBYQV9SUG5sSFQzM3gyMFBLMldIemJNbHVZSHZxOEZyNlBWTlhHNnRISWRJbU1qaG00cUs1THV2a0lCeGhDeDJDeF9ycVcyUUFKZUpYQmtwbkNTY1BhU0I4MDlESjBPelBSQXRzbjBCVVJuLQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-22 23:14:59",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2594,6 +2542,58 @@
       {
         "title": "Służby Trumpa chcą przejąć kolejny tankowiec. Jest tylko jeden problem - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2lYU2VQRGxRNVRXWWxaLXpMaV9JeUJnTFFDZ0ZNNjU2UFh0ZVpxdlBvOWN4MlgyaHEzVUxiNVZtelJ6UHdxb0prN2sxRkVBZG5Lel9ISXFBV3l1ckxscUdiNzlEOFhCcjVPMzhGbmNUWnNOejFNdFN4QlNIUTIwdUI4X1I1aTUzQmZZNllURjQwb0hHNGdUYTlMWFFwTjBVU2hmeW96ZHQ4V1prRGFpMEFGTHRmWFJiS3pENDd3cGV3UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-25 06:18:51",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 313703,
+      "DOGECOIN": 0.459363,
+      "ETHEREUM": 10522.44,
+      "LITECOIN": 272.33,
+      "RIPPLE": 6.69
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Nieoficjalnie: Polski ambasador we Francji, znany polityk PiS i bankowiec zatrzymani przez CBA - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1NTajI3OW10emNXanQwVXoyT21FV1ZoYThhcFp5aE04WDJQU2F1OVdoLXAyNmdxUmYyTHpORzNxVUJOSGJuOG5kTkhmYjlqbGo4X0NlaEFCN1N6SDB4R3dLM1dnQ2dhODBvb3lVOXJSbXBXS2lSekdlOTBqaldla3BqSExYQkQ1Umx2NFc3N0ZDMzBjMTA5ZDA3ZlJsemg1RHlGYXU5UmdCalBscUVwd2llZTZVeHJ0ZWJUbHdBbFE3SFM5X3BweDVWaUtfWnc?oc=5"
+      },
+      {
+        "title": "Masakra w Nigerii. Zginęli w meczecie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXpsNFpON3Rnb0s0VlhpREJhOEhBVE55dndlU2dUSXZaTkN2MTZ1SmlENDRDWVgzRXZOYkJGWjBPQTJzckJXd05iYlV4Y1pNU0xYNHVuX0dvVFhEaEZqZmRvSTd0RVBYSFMtT1p4YmRvSTBSS1ZKR3BpUWlhUlJJa3lISjVKQQ?oc=5"
+      },
+      {
+        "title": "Służby Trumpa chcą przejąć kolejny tankowiec. Jest tylko jeden problem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2lYU2VQRGxRNVRXWWxaLXpMaV9JeUJnTFFDZ0ZNNjU2UFh0ZVpxdlBvOWN4MlgyaHEzVUxiNVZtelJ6UHdxb0prN2sxRkVBZG5Lel9ISXFBV3l1ckxscUdiNzlEOFhCcjVPMzhGbmNUWnNOejFNdFN4QlNIUTIwdUI4X1I1aTUzQmZZNllURjQwb0hHNGdUYTlMWFFwTjBVU2hmeW96ZHQ4V1prRGFpMEFGTHRmWFJiS3pENDd3cGV3UQ?oc=5"
+      },
+      {
+        "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHctczJ4TkJfZlBxSmFsNUg2S3VuaWw2ZGppLTk4QkVRTy1MakxqczFheDZDYkZXNzAzS2NNeFhmd1dTOFhhV1BNV2hZQXNqbzZsckpEVmRNYTNsalNEYU9ralNPczVqQndPSGhEdlVjTDhUb3JvVEh1RVRlMmNUSXVSUmU0dWthNG9OZEQyc0I2Y0oxN2kzaTUyOEIzOEdNOFQ1dERVRDRFbTBINnJr?oc=5"
+      },
+      {
+        "title": "Tragedia na drodze, nie żyje sześć osób. \"Potrzebne będą badania DNA\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlJEZzhpY2ZpcUx3ZzUxMHJQQzRxdm9sa09vVUkwRFhXWDdvQTJPUjRIaDhXamlsY0I2TkpNblFwaS13UE1vc3VUUFdTNXE5a2FCN3RqZ0lvXzVaNEp4OTlyNTNEQTVnMEJMRVhJZUYtTzd6NDdGNjdXdzJTVmxieUh6MkhWZTNGNFc0T3N5OHUtckpDdHNIVjhMbGRlMmFKU2hKRE5SSGRjQQ?oc=5"
       }
     ]
   }
