@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24 05:31:12",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 312546,
-      "DOGECOIN": 0.458914,
-      "ETHEREUM": 10542.29,
-      "LITECOIN": 274.01,
-      "RIPPLE": 6.66
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Katastrofa samolotu w Turcji z szefem sztabu armii Libii na pokładzie. Służby odnalazły wrak - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWxBVnhiZFJseWJpWS0wSHpvM3dMVm9zX2t6YzdHUlFpMDJaN0Z2NXJkTUJlQU9ROXA1MlJ3SGxONVE0X0M4ZGdZV2RjSTlRWDBfOTZaRE9NZ284bGFIVUZKa29tUm5qb2NGQldsNFNBWkdGZ2lCaFlXY3VDT2NJb0ZVS2ViUE4zcHlaaWN5dUFycklOZzNZNXNfeGxhSDd2WXdUUVpHNmgzQ3NSTzJZbUwwYklic2o4RHdmSi0tdmY1Y3JyM29WRkRkVVZCTDVXVWRYMEt3?oc=5"
-      },
-      {
-        "title": "Polacy byli oblężeni w willi w Elche przez 20 godzin. W końcu podali się hiszpańskiej policji - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXFKZ3pSTHVaV2VabXhlZ2gteElLd3djNFRiYVB1ZlpoeEFqd09TbEhyc2Z3bHpHaUZNUGRxQkNCWHhGYXFDdUJhNlpidEJoQXRtZVBkaEVid3ZVOWd4UDBtR0hKYlE2aGFheGpZdEV4Q0FPSE82ZklRYV9PcDcya05XdC1CTmZIa1RyMUV0TVloWm9McjRtT29FZUZQRGNRUWJBYzFidUg0cXZQenA2TXJuZ2VyR2ZZX0E?oc=5"
-      },
-      {
-        "title": "Sprawdziliśmy, jak to jest z cenami paliw, o których mówił Tusk. \"Nie sądzę, żeby specjalnie dla premiera obniżyli\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT19rQU45OWVXa1JBNWF1RWgxT21mZk1oaGNvWVBlcERMYTBtX1NWTjUyYlFmUTVucklOWVhuOEoyVkxwZGtjX1RpR2JQM2pVcW1FakZOUWNoX0xkXzVYby1iQ0w2c1g0eXF0NFU4ejZCRHdVV1NXeFZrenNIWS1pd0l0cDVWSjJRQ2VYNlN3bC1XaWdsVlBoYUJqdHNmY21iV2FlTnVXSFozRVUyRms0?oc=5"
-      },
-      {
-        "title": "Zajączkowska-Hernik bez partyjnego stanowiska. Znamy powód - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcy1tMjJxbnBydjZBejZ4cHN0MGlLTnZSeW1qNU1FWU0zUHBOZlJpcW5YcFplQWRvRnpxMXN2d3VOYkp1MUhNUFVsZDhjYzBDTUJCbmd1Sm5EWHZjNTB5ZTR3U09XYWZHbkd4bk80MURUX1FHQ1ZHYlFFbW1xSDc1Y2RqTXhDT1hoYlpTQm5hMFFpMGNZOEExR05SdW7SAZgBQVVfeXFMTXlJREJwdUg3TVlEYmFrclhlNEJkejNNSGlnR0IyQ19PVmJuRGNkQm9UOHhyc0plQ3pDY0U4dWRUSXJwcFNlajdzdDRucFYzTkd1dDVQLTZrNl9PSEIyTHg5Y2FJN05LY1FOY3RfdHpDWjdnc2Rxa0lOWkR2cDFBS1JKRm1wWHdIUjdqVzAwTDBUVi1xT2F1b0Y?oc=5"
-      },
-      {
-        "title": "Donald Tusk zapomniał wyłączyć mikrofon. \"Mało się nie popłakałem\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcHFwa1dxdEpETDQ2aVhrS2h1V1lqbDRmX21jMEVYMncweUhuNnpDRkVpRjNpMGpsSElMNldOOGpjMk1yQlljZnA4SW84ZGxpTDk1a2EydUFFWnJLdTBDUjZ6Y21zTzh6NTMwSmFLbl9LcWJGRlB5NHpPT0RvTTQ3d1RKd2FLcVlXTWI2UExQT1FTUTRYNEgxOHRLVUhsaDA1dDNXM3JScldZR3d4RlFoRklXdjEzb2w0WXBEbGJJQi0tZ1FaeHBJQl9yV1JrRHNCZGc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-24 06:19:01",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Są elitą polskiego wojska. Zajmą się produkcją dronów. \"Będziemy przecierać szlak\" - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNEtYdWFneFlpaHBmc05raTNlX185WVRNLU5ucm5IaHhhcXNIeWVIOFNMVUs0ZkxTM3BidFRVSllmMUtRMXBxM3c2VmVPZ01hb1RyMHlwMHdmQlkzazE0MDh1RG56ZGZNNWhaZFB0emduOWdVOHhpVENUMFdaOGhUdWJQYlVEZ19XN2tWWXBTcE5EWkdweW1FWk9JU3Naa043M2p6MmMtMGNhYmZSR1NMSmludXp0c3NCT0d1QXpNZnZqY19pSjVmdVZ0Ni1IbmtKVHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-26 11:16:29",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 318160,
+      "DOGECOIN": 0.450351,
+      "ETHEREUM": 10637.31,
+      "LITECOIN": 276.54,
+      "RIPPLE": 6.72
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Dziewięć województw zagrożonych gołoledzią. IMGW wydał ważne ostrzeżenia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3ZnOFdWN2o3c2hUa0FaRDNLX2c5TmQxS04tUUdMNlpEX3RkWlhHLWRFelVDQW5HNlgweEZwcHlTOE01dTloNTRaWjUzVlZiaFl6Q0dOaTVSdjdtenRydk1uQm83UE5hSm5yTkRyWWRXbkhJaExRVlRGVGZ4eTZ3bkw4SjJMY3p2bjIyMFVnS1pOanBlZzdFMHBxSHp3VXRhX25UZEpfcFdyMGxoeUtjZlZHbTVDWmhkV2c2UEVJanNtY3NUSHZ4TUdB?oc=5"
+      },
+      {
+        "title": "Ukraińcy wrócą do siebie? \"Najsilniej odczują to Niemcy i Polska\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWdLbE1pc09Ib2dHcERJamVQWFpjaU9RZzBfMThha0JUVkNOMkhyU3JxeXl4cDFYTE9ZZ0FZQVNUWEJMVl9xQlpyY0R6SmRSUlZXemFxZmFmSDc0Zi1TRDF6MTk5M0JnRVNTMVppT2VQSEd4VVA0RVdET0I4UmdJU3V3VnRmTC1INlVXTDl2cUV1R0tZT1NnbC1EUVFQYUVzLTA3REJmWlRaNTBUY3B6MkVUdXpMN3FOVTh6eHZPMmYtTnY1UExkdllmS0FLRHNpWHF1aU1sTkNZMXk2?oc=5"
+      },
+      {
+        "title": "Czego Polacy obawiają się w 2026 roku? Mamy wyniki sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamlkWmJQeFkyVF9qdWVyRERJVlhzWG9oQVlXa1BzWU8zSVZfVWVScmMzRGhnellHcVRIdlF0d0hWVGIzY2pFdmFuZEJpcjJjVmlzX1N6VjBmQmxBenBXbTNOU3hMZnl6WV9KVldIWDRwRlU1WjNhUW05bl9TdUo0a3RzTlhZdFlMM0xIUUMtT3VUV0s2Z3lZdzR2Mk1YM1owc1E?oc=5"
+      },
+      {
+        "title": "Pożar kościoła w Lublinie opanowany. Niezwykła postawa proboszcza - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnZIbFphVTBKOElXN21PR0RxeVhKQnBmVkZTSG5MU3F6cVlpcGl1WkpQM0tTcmlZbjIzZ2lPc3k5dUNhLUhMakJmWmhhVDZ3Tmh1RTRKVzdyWnJQdzJjZGI4cFNOa0RVdUJ1VzJ2MXFhZVJVT3VBeEtoTjJDdDZKX01ERkRLa3FPNTdEQy1zOGVNbzF6UFpQMmZScHhpUmYwYUpTY0ZYVlRua3hFWVI4eU5tcw?oc=5"
+      },
+      {
+        "title": "Rosja szykuje plan na wschodnią flankę NATO? \"Punkty kontrolne\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTlFpMWNtU1duRDhMcVNQeDA1UFFmalhIM1dWdGk2Nm5jUlN1dWFhUGUyU25QQVMtM1M2OEZMZXBEUjBiRWFXLUQ2cXY5aERvRHp2YWNFVXhPbGtpOUtFSFQ2VVJOcDFrOS1sM1VlVmN5UUQ5cXJIRHE4LU14MkFnRDBuTjN3ZXktZUY5ZnZodG5hWWN0S0R5TFhDVWN2cmt6ZWZFTHZEUmdBbWRBY3VEeTFQWmRLSGRKQVhreWZKalM?oc=5"
       }
     ]
   }
