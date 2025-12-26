@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24 16:15:31",
-    "weather": {
-      "Warsaw": "Warsaw: -6°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 310705,
-      "DOGECOIN": 0.45513,
-      "ETHEREUM": 10417.46,
-      "LITECOIN": 269.7,
-      "RIPPLE": 6.65
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Nowy plan pokojowy dla Ukrainy ujawniony. Donald Trump przewodzi Radzie Pokoju - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmtqbkpBbUNYa3pta3lGU0plcW1renRpb253d291SHY3ZThDbTVLTkg3S2c5Qno5UUxrRk1VbzNPVWlIM2lEYy1LT1BBOFh1UzdBLWFmdDJ5NjRTSi0tSlEtdmpiS2E0azFoNzFOV1YweTBVc0Zpa1VWbVExc2otSHRrVFhtREJ6NmdfcDNFZmlQazNVaFpLZW1LTnBmazdLM2JibGdLaDEtU2h4dG1RaXJmc0FEejVxSi1TdGNyRUhkMXhsV3c?oc=5"
-      },
-      {
-        "title": "Nieoficjalnie: ambasador Polski we Francji zatrzymany przez CBA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmdMbEg0TVh5UkVhelJ4OG9qSnJoVlhfR09ZMlppVG1JUFBhVk1oeEZSMGw4Mm9UQkVYN3U5RFdzUjJKY0owUEcyNFNZLTFiOGJTRHZGekR5THlSdHJGLVRJdVdTblMtWGNRZjl3d0NUclpMSlhDYVJSWmNMOEFzRzFTNWFqRXUtR2M0ZnlNTXhUMWx3eElZSDVwRTRfa1lpc2pwMA?oc=5"
-      },
-      {
-        "title": "Sześć osób zginęło w wypadku koło Brzegu. Po zderzeniu samochodów wybuchł pożar - Opole.Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaTVIQk1FZnhuNUtKU3ZGT1lNb0hGMl9mTDhSQ1cwWU8zVWJMRGFTMnlLaWdLcDJHUXhuaXJYYllnTVRuMDZNNkJFZGdReTdqTEw4N3pjeDhOSWVZUGk5ZVVFRmdyeGpSVmo3VTFhSnZnbGlHekRZSTEzZG9WejhJQU9ESlJ3aGJ1aExHa3NZNlpnMERyVXJPVmlR?oc=5"
-      },
-      {
-        "title": "\"W imieniu Donalda Trumpa\". Ambasador USA zwrócił się do Polaków - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUZCUDRhVFUteUlBdVRHUjIzdVczSWQyVDlmYkFoUUpiWFZfVllSUU04Z1h6aWl0dllZZUFjaXcya2hBdWNaLTF4Y3ZXalNEMTFJQmFHR0kweEJJRFNtM3JNOUE4MTZ6WVJHZ2JMM1BpMl92RWpVTGUwUmdXRWdqemJ0U296cmN6djVqY3NoWEMwMm5DbXVNQU9LWnRwTk9lWXY0enc2Rk9NZUN4MkJ4eWdRWQ?oc=5"
-      },
-      {
-        "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHctczJ4TkJfZlBxSmFsNUg2S3VuaWw2ZGppLTk4QkVRTy1MakxqczFheDZDYkZXNzAzS2NNeFhmd1dTOFhhV1BNV2hZQXNqbzZsckpEVmRNYTNsalNEYU9ralNPczVqQndPSGhEdlVjTDhUb3JvVEh1RVRlMmNUSXVSUmU0dWthNG9OZEQyc0I2Y0oxN2kzaTUyOEIzOEdNOFQ1dERVRDRFbTBINnJr?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-24 17:18:42",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "O krok od dramatu. Odkryto to na torach kolejowych. \"Powiadomiono ABW\" - Fakt",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRyMmgwVXlOVElZYWI2Ty1HbGdEWFU4b3FfUnBtNDh5SEE4S3IzLXhwS2FLWkpLdUdLNXYxdjJ1MWE5bVR6aVMyMjBLMnhDYl9xbk9tMU5HWHNEeXpkeFlOWktjUnVYMUEwX2tpQ0RQUGRBYzZvMlExWktaVWlRaVA3LWpSbGxLRFUzckU4eGtwbWNzNTFPdW5tcFhNQlBzb09TNkhSYjlFbGtl?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-26 22:13:16",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 313423,
+      "DOGECOIN": 0.436294,
+      "ETHEREUM": 10493.15,
+      "LITECOIN": 275.33,
+      "RIPPLE": 6.63
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Gołoledź w Krakowie i Małopolsce. Ostrzeżenie IMGW. Na drogach i chodnikach jest bardzo ślisko - Gazeta Krakowska",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTdhWFJSRVhVUTcwZUUzOWNMWFVOV3dYYXFaMTF3VUE1c1MxMmI2LVM3U0h0QjcxOGNyVE1sNWFsay1oZlk3RDZlMjdWZm5YZVZqNW1vMUxROEE5NVpvNGp2bzFOYWNpVk9iNHAtRlo4dUt0dWZfV3dXeDRwUUtiNTRYckdXazFmaDQwY0FGbS1yU2IzV1NkWGlpMTc2NElXUjBoU1JLeXN4RXljTnFEWXZaUjVmSlo4SnNpTUgwMG0tT3ctcXZ3S1pacU5COFF1bUE?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem. Kancelaria ujawnia szczegóły - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnJ3Ym1OcGhEck1YMEFNOGE2Y0xZc3NqM0tnTlhLQkJhQWxqcGwybnNHUm9RSUtZaVBXV3pDUjd5amlnTWF2c3lMNnFnNXJ0MDloS0xYaXYzQ0R5M094WXpUZDdyTHZHOFV4OHRwX1R2TFFPdTFaSFRHVTVNTF9STURCZnlfN0YtdURrdGJvNE5sN3cwSjFvemd0WUVfRFYySG5TeHJHQ1lTTzl1VGdaOVQxRWgwTkxMS2pzYw?oc=5"
+      },
+      {
+        "title": "Tragedia na Podlasiu. 18-latek znaleziony przed dyskoteką - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUEtY0FfbTZIcGhod3dqa04zUi1SWTN3RVk4MTJ2aHhIRFVILW4tdUJUZVdNeHpuTjkwZ0R0UVZoQ09UV1ZKOXAyRmowclY3dUpMbGxQZU8xMVdqZ2NlOEZ5cjN6NVQ0ajNDWmZYbVpFVVA0Y09Qd19jUDRId1Q4NG5Qa2JEbDZ0WGlHOEFhTWpQSHpSdk1WcEtlWFc5ZlY1NE5BdUVCVU02VE4yVVZjSFp1QXNOdHM2ZTJn?oc=5"
+      },
+      {
+        "title": "O krok od dramatu. Odkryto to na torach kolejowych. \"Powiadomiono ABW\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWRyMmgwVXlOVElZYWI2Ty1HbGdEWFU4b3FfUnBtNDh5SEE4S3IzLXhwS2FLWkpLdUdLNXYxdjJ1MWE5bVR6aVMyMjBLMnhDYl9xbk9tMU5HWHNEeXpkeFlOWktjUnVYMUEwX2tpQ0RQUGRBYzZvMlExWktaVWlRaVA3LWpSbGxLRFUzckU4eGtwbWNzNTFPdW5tcFhNQlBzb09TNkhSYjlFbGtl?oc=5"
+      },
+      {
+        "title": "Otworzyć czy udawać, że nikogo nie ma? Polacy o wizycie księdza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0Q4UlI1TE8ybV9ac25rTmZDOXg5WFpSR3NaV1p2b3lfLUkyd2c5R0hxUVg5dThsaG1NWi1iblBNa1ZZVmF2NzVpdlRZcEV3UXVJTWtvbTBZMUlDTndIMkFlMEMtMWlENjl3NGJLbVpxaW5oelpVeWdneVRpRDRJRXJ1aXhMNEN6dzZCRDQxYW5feHFwWkxNR2pONThnR3huc0hJZHdnOA?oc=5"
       }
     ]
   }
