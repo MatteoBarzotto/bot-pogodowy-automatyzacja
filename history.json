@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-23 23:14:32",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 312931,
-      "DOGECOIN": 0.463612,
-      "ETHEREUM": 10589.08,
-      "LITECOIN": 275.72,
-      "RIPPLE": 6.73
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Projekt ustawy \"praworządnościowej\". Żurek: Przywraca wiarę w bezstronność sędziów - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3lJUUkwdnkzWldHQUM4SkZ2OFdWZ1NXeEpUaXd3T3lZTTFidlhncHh2Z3BGczR3eUJzLXloOHZnd2pBZWE3bGFMd3FqcVVSNGhlNGZRZ3lHcjI1c1pLVjFZX2tmZE5GWWk1RkV5cERhcEtlRzJJRTA4ZFZoOUhVbXU4V083STVPeWRPVFdNbmVZMHJoQ3VHNFNVYkdHcllHU1NKYjRGUzJFWmNPWVQ2RlhKZDJHWXMtc0tfZnFDQQ?oc=5"
-      },
-      {
-        "title": "Katastrofa samolotu w Turcji z szefem sztabu armii Libii na pokładzie. Służby odnalazły wrak - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWxBVnhiZFJseWJpWS0wSHpvM3dMVm9zX2t6YzdHUlFpMDJaN0Z2NXJkTUJlQU9ROXA1MlJ3SGxONVE0X0M4ZGdZV2RjSTlRWDBfOTZaRE9NZ284bGFIVUZKa29tUm5qb2NGQldsNFNBWkdGZ2lCaFlXY3VDT2NJb0ZVS2ViUE4zcHlaaWN5dUFycklOZzNZNXNfeGxhSDd2WXdUUVpHNmgzQ3NSTzJZbUwwYklic2o4RHdmSi0tdmY1Y3JyM29WRkRkVVZCTDVXVWRYMEt3?oc=5"
-      },
-      {
-        "title": "Zajączkowska-Hernik bez partyjnego stanowiska. Znamy powód - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcy1tMjJxbnBydjZBejZ4cHN0MGlLTnZSeW1qNU1FWU0zUHBOZlJpcW5YcFplQWRvRnpxMXN2d3VOYkp1MUhNUFVsZDhjYzBDTUJCbmd1Sm5EWHZjNTB5ZTR3U09XYWZHbkd4bk80MURUX1FHQ1ZHYlFFbW1xSDc1Y2RqTXhDT1hoYlpTQm5hMFFpMGNZOEExR05SdW7SAZgBQVVfeXFMTXlJREJwdUg3TVlEYmFrclhlNEJkejNNSGlnR0IyQ19PVmJuRGNkQm9UOHhyc0plQ3pDY0U4dWRUSXJwcFNlajdzdDRucFYzTkd1dDVQLTZrNl9PSEIyTHg5Y2FJN05LY1FOY3RfdHpDWjdnc2Rxa0lOWkR2cDFBS1JKRm1wWHdIUjdqVzAwTDBUVi1xT2F1b0Y?oc=5"
-      },
-      {
-        "title": "Prezydent Nawrocki sam wyciął i przyniósł choinkę do Pałacu! - wPolityce.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVFfbWpmSWZKSkhFdFMtUEJRSklZWEZsckwwZTR0cnZLUzJkWXFFV3ozY0ZGN3V0TWhMcXplQzRNcVhDc0thb0gyUUg1SkhNQWtQdTM0MTYtZjNvY3BWbFZ4WHctQjJoaExITG8xZTBxTlhna0VNdVIyN2JRNDFjX21XVmo3U0phOFlhX3FqR1hDRVpCQ0E2NkJwYTc?oc=5"
-      },
-      {
-        "title": "Zamieszanie wokół cen paliwa. Wyjaśniamy, skąd takie różnice na stacjach - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2xiaDJ0Z25UMGJwUHJUWjNuS25uRlFlbkttUkI3Q0V1NFlPMHYwZXBhN3RJb2JnQjJCRDBQOWpIRUNtbGwwWXNmRktOMUVRMWZRUDg0U0ljckp1OFZ5cGctRUVxUU9DODlkLWhwZ1FKNVpxd3YwYVNWcnV0YVM1UkczazFkS240d3JrR2k1LTJOd0k4ZFZuQmZNWk9EM0xVRHRORHQtc2MzaU8xTTZHNmR1VEtGTHVLY2tTRU1odkZwX3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-24 00:13:51",
     "weather": {
       "Warsaw": "brak danych",
@@ -2594,6 +2542,58 @@
       {
         "title": "\"Wnętrze nie zostało spalone\". 80 strażaków w akcji gaszenia dachu kościoła w Lublinie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUU1qZGl4UnVwVTgwcG9lYjIyS29jU1NXNFgxOUFTY1owUUpsT0Z2eXg2MFZhVERNazVKSXpUMC1VWFJfQ25EaWdXREQ0dE9rakI5Ui1mcWRBYU5RUGgwbnRvcVBMN1kxRFdsUWxCRkNpZEFva3JsNEdGT1l3RHFQMXJmQmh2UXRtUE5mQlhOUEd4N1p5Y2FqNV9CVmJPb2pXMlk5eWJNUllvUTJ0Mk5zUkxyMUVQV3puZkdaRk5hYVFpUTI4WWgtZGVfMk91dw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-26 07:24:08",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 318555,
+      "DOGECOIN": 0.4505,
+      "ETHEREUM": 10648.65,
+      "LITECOIN": 278.66,
+      "RIPPLE": 6.7
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Ukraińskie media: cztery rosyjskie drony przy granicy z Polską - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2FPUEc3TEdPa0FKc0NNNWR2QUNQZzllSEphUGxLbUxKbWZSbTQyd1JzT0szVzgzODlnWERkbk82dUFHQ3R6XzNXT0w3dDQwSXlIODVFR0FibEhxbGV2cFM2NjVVYVEyX0VxeDRZS3B1dWQxeVBVM3BwUVAxUGd0eEdRNHJwVkNPY3pxUm5mTWRkN2hCeUF2bUpkYXlZblBUTlZ3eg?oc=5"
+      },
+      {
+        "title": "Matka Bartosza G. mówiła o \"szopce\". Jej syn zamieni grecką celę na polski areszt. Nie było zaskoczenia - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdlNmeTJlRGdQZmQtMDg0NW9GbWFrY212Z1hyVTEyZVUxMlhmRW85QUNxVnZYelFwUF9wWU13MlhPeDN6SDQ1N3lDaW9zM0FUTURXLUNpTHE4a25XWVJqWlpWQklBb0dxSDN4dXN5QU1RUk14dVZNWFk4OUw4UW9KNHAwYUJLZWducFRhV1F3R0d0RnVPRFowemxmLXF1TUpUazlxZEUwNXAxa2poZVNLdV9RbVdyem1zekQ0?oc=5"
+      },
+      {
+        "title": "Donald Trump wydał rozkaz. Potężna seria ataków na cele w Nigerii. \"To nie koniec\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzkxQXNCTnQ4b1JlMDhOOGl5M0ljaVliWUwzemRseG10RnVHOXVpSWpfV1RFdHczSTVaY24ta3UxSU9JUFA4bHJNbnVkOGNlQlFPd1I4V1AxNUJZVVZEbUoxOEJrUE9VbHlGaXg3RlBmNVBWRlp5R19rY2hleGpXNjNoc1VfNzVfT2ZWSzVHeGFYTUJfTWZ4Q1FPRV9NMktXLU9fT1M3YV96TWxjMjRUTzRDWGVfWTNMRHc?oc=5"
+      },
+      {
+        "title": "\"Są dobre pomysły\". Wołodymyr Zełenski zabrał głos po rozmowach z delegacją USA - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDdpNnJKbVh0NlhtWXV2ME93VmRJSk5XNzdLb2F2Q01NQTdfNjBYR0tTVUJ4TE1wak9nbjVEWXhGNzd0X1o4Y1BVY1l6WTFvcVp2VFVZN2xHT29ISWdIRmRrRU5scGZWUlc0UnJyZmpoSWdLNk5sY2E4bHkxMVdRSWVfV2Z2MTE4aWRUZ2RoTk5GUEJ3QmlUR3E4LWdJMnMyZktlbEVzTy1uR3Yta05KX1ZmMXBXUzhIQV9lZGdEUXhuQXZLQUdrZQ?oc=5"
+      },
+      {
+        "title": "Pożar kościoła w Lublinie opanowany. Służby przekazały nowe informacje - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWZjRTNQOGx1R0UybGZyY3VEeWlJV1U4WUxRLVpxSHdiSzlnVjd3Ymk1VXJ6SGpOeV80c1ZJTVcweWNBbXR2cTBudndzNWZkMHd5ei1BV0RIUm54RUx2dXJhd1ZUTUY4cWo1RDRKVHZpY2V5WV9yTE5FeVJMaU5GSE51d1EwNndEZkhod1loTXlTT1kzMjYzLS1ka0NrMTRoMWRfWVV1NUNOZDd3b3d2TA?oc=5"
       }
     ]
   }
