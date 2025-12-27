@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24 20:12:09",
-    "weather": {
-      "Warsaw": "Warsaw: -8°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 312792,
-      "DOGECOIN": 0.457733,
-      "ETHEREUM": 10519.15,
-      "LITECOIN": 270.3,
-      "RIPPLE": 6.65
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Ambasador Polski we Francji zatrzymany przez CBA. Mamy nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUENkWVUzVDg2UGFONkpJaE5ZTUxiY0Q0UXBHN1lkR0RjQWRRQmhicm9RX0x3aXJUVjF1ZC10S05jSWQtYndWQ0FPVldHNW1LZnhxM1c2TDRiZ1FwS3laQ0haeS0xUXlnczJlQ3F4d2VieVhRUS1pY0ZORUk3TjF0LWJ4Tl8xQjYxUWMzRk9nV0FJYkExWEZCR1VUbmJaRTQ1dUNZX0NDMDNpN0hQTmc?oc=5"
-      },
-      {
-        "title": "Nowy plan pokojowy dla Ukrainy ujawniony. Donald Trump przewodzi Radzie Pokoju - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmtqbkpBbUNYa3pta3lGU0plcW1renRpb253d291SHY3ZThDbTVLTkg3S2c5Qno5UUxrRk1VbzNPVWlIM2lEYy1LT1BBOFh1UzdBLWFmdDJ5NjRTSi0tSlEtdmpiS2E0azFoNzFOV1YweTBVc0Zpa1VWbVExc2otSHRrVFhtREJ6NmdfcDNFZmlQazNVaFpLZW1LTnBmazdLM2JibGdLaDEtU2h4dG1RaXJmc0FEejVxSi1TdGNyRUhkMXhsV3c?oc=5"
-      },
-      {
-        "title": "Samochód stanął w płomieniach. Zginęło sześć osób - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEd3R0syOVE3LW9sZUhudjhlMFJ6eWt4Q212eU1KUE5PTldXb0hwRV9xZjFQY2lPNkpUT2h3YnFwR2JKLVppdWxqUmcwS2Z4UUw1dk9wVi1iM0ZPNS0tNktvcGR2X0R3ekhkSmdRX1RmZVJnTldUVUFmTWN0Qmd3c3BiNWpBcmxlT2ROX0ZhVGMtdEMyM0E?oc=5"
-      },
-      {
-        "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHctczJ4TkJfZlBxSmFsNUg2S3VuaWw2ZGppLTk4QkVRTy1MakxqczFheDZDYkZXNzAzS2NNeFhmd1dTOFhhV1BNV2hZQXNqbzZsckpEVmRNYTNsalNEYU9ralNPczVqQndPSGhEdlVjTDhUb3JvVEh1RVRlMmNUSXVSUmU0dWthNG9OZEQyc0I2Y0oxN2kzaTUyOEIzOEdNOFQ1dERVRDRFbTBINnJr?oc=5"
-      },
-      {
-        "title": "Premier dziękuje Straży Granicznej. \"Ktoś czuwa, żeby inni mogli świętować\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3hQdFM0S0l0T2xfdGpuOUVoM1NnMy14blZtV0RuanFsVW0tRnZabk9raWRjTDNpVklLdE1VZEdLQmdGRmR1cmRQa2dRTmhnMFBGVnYwT1N4UVZMdFBvaVFYclE2S0doYjA3enhyVG03d0dIY3c1MGRTa2JMMkNhYzFET2NJbzZ4c0FIOXAydUxibHlqbTJ5a0U4SFBtNUVBNnNmUnBFRG5HbTNXQmpOZWRqNGpneUNqRTVtd1JR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-24 21:16:06",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Jest ostrzeżenie IMGW pierwszego stopnia dla Wielkopolski. Niebezpiecznie na drogach i chodnikach - Głos Wielkopolski",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDhXM2FXb0xhWW9pZnNCd2pkeVdhTUtqSExEWmNnSllSQTZkd1NpSGUxSTctWGF5Q0Fod29UUExib1lCOFFSZTBHZVRmZVp6NWVtRmd1Sm9iSmw4bjk1T29wVmFVNllXU1lrTWlrblZheTZDOVV0Y0I4Sm1yME9ad0NueVJXMzlNZGpYM2IzalJOUUdwbzJfOGNpekgxTDVHZ3RWY244RmlCSHRaOFFfZkRfSlhpWGdHQ29PemF1RE1NOWo4YXVTQkhvOS1MRWxDNEtNVXU1TTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-27 04:18:01",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 312673,
+      "DOGECOIN": 0.438829,
+      "ETHEREUM": 10474.36,
+      "LITECOIN": 276.34,
+      "RIPPLE": 6.61
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Donald Trump w rozmowie z Politico: Zełenski nie ma nic, dopóki tego nie zatwierdzę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2FnU2JTdlB6TG50NE1sbU9xaThSSF9qdFh6cHp1cm9mc2pqMGROb0JNOFJHOG93Q01FOTF2akRNb0xZbFB0ak5iZjZEbmtndFhzS1BNVjVtV011dUtjUTVOMExQSEllNENob1NneVNrMm0yWS1lSV81b2FKbXczMWhTYVlsQ1p0Yk1hNWZ3eENNeDJ6Ym5lRmMtUHFQellwRUV3c3l1eWltaHpSTTg1cXJobGQ3NWJYUXR4VHRGTUwxLTA1SjZpdFRpeDJiV2FXZ053?oc=5"
+      },
+      {
+        "title": "Pierwsza ofiara gołoledzi. Mężczyzna wypadł z balkonu. Nie żyje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2JPYXZXZDctY0NhdkpNVENUdVl6dWZzc0Z4U25rRHBNTXNRbGJOWERvRFlVNW85QUhOckxMT1IxZ25BaWVOaDVna3phOHY0NHhWWm5GRDNEdlFtcUZpQi01R2lsTzE0dkNFU1cxLVoxdGJBejJDVmphUExoMVNuTXRMYWFoZk5vZHBNcnJpdHgtUzZLd1h1V0R4Tk8wdi14VzJOb1BoMA?oc=5"
+      },
+      {
+        "title": "Potężna broń trafiła z Rosja na Białoruś. Naukowcy wskazali lokalizację, są zdjęcia satelitarne - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NIVVNqOFpabmNCd0VlMVV2dnBDOV9XU2lodVBSbXpmLUEwUnNQd0E4aWhfU1RFV0QtNWRkSUdtRjVfQlM2Ykstdlk0UjVLRmNEb3VVUUg2NnBZRTJ0QkJJSVRZSkdPeTh5bzhzcFdPdDNKc1NLc2lsMmpQVk5VZFM5cnR0RHRRQUVnejVMVkZIVnpUbUtVZC1LZDQ2MjFMRlJhM1JVcUJWWG94ZXNScVRsNVlZVF8td3c?oc=5"
+      },
+      {
+        "title": "Wnory-Wiechy. Dramat na Podlasiu. Nie żyje 18-latek, leżał pod dyskoteką - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFltaGk5eHY4MjBDTDRwMGNES3BWNVRBQjE0LXVNYnA3UFhmaGJvdmdkR2ZCbmFaQkZTTnctMHFmZVBsZnRqR2daVWNkNkZSeUxhcWhYUERPdjc5SHU2R1o1MHpWRzRtYTZ6VngyZjU5bS1lVzA3alNlSFdlMGxPQ1p3VnBGREI5R2R2OVVFX2hJZ1diQmJFYW9jRUg1YUNLVUZzTVdiaw?oc=5"
+      },
+      {
+        "title": "Nie żyje Cezary Miżejewski. Zmarł w dniu swoich urodzin - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0kxY3RIc1FoQXN3MG1KN1dIOUpPck9lLWVJUFJKRWFTMFNaeTZGV2F4VDhsUmpJRU9weTRUSUZQTEliRFR6VkwzTlMxS3dzTnV2aVdvUm4xRFBuRTBYYjhsWkI3SGg4N09UbHBQYkJDazdSb2dRZzJsUk91YXNDb2FWeFJEREZqQXF3YVF6UmxXZWJDSFE?oc=5"
       }
     ]
   }
