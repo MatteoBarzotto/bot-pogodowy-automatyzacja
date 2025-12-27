@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-25 06:18:51",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -5°C",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 313703,
-      "DOGECOIN": 0.459363,
-      "ETHEREUM": 10522.44,
-      "LITECOIN": 272.33,
-      "RIPPLE": 6.69
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Nieoficjalnie: Polski ambasador we Francji, znany polityk PiS i bankowiec zatrzymani przez CBA - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1NTajI3OW10emNXanQwVXoyT21FV1ZoYThhcFp5aE04WDJQU2F1OVdoLXAyNmdxUmYyTHpORzNxVUJOSGJuOG5kTkhmYjlqbGo4X0NlaEFCN1N6SDB4R3dLM1dnQ2dhODBvb3lVOXJSbXBXS2lSekdlOTBqaldla3BqSExYQkQ1Umx2NFc3N0ZDMzBjMTA5ZDA3ZlJsemg1RHlGYXU5UmdCalBscUVwd2llZTZVeHJ0ZWJUbHdBbFE3SFM5X3BweDVWaUtfWnc?oc=5"
-      },
-      {
-        "title": "Masakra w Nigerii. Zginęli w meczecie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXpsNFpON3Rnb0s0VlhpREJhOEhBVE55dndlU2dUSXZaTkN2MTZ1SmlENDRDWVgzRXZOYkJGWjBPQTJzckJXd05iYlV4Y1pNU0xYNHVuX0dvVFhEaEZqZmRvSTd0RVBYSFMtT1p4YmRvSTBSS1ZKR3BpUWlhUlJJa3lISjVKQQ?oc=5"
-      },
-      {
-        "title": "Służby Trumpa chcą przejąć kolejny tankowiec. Jest tylko jeden problem - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2lYU2VQRGxRNVRXWWxaLXpMaV9JeUJnTFFDZ0ZNNjU2UFh0ZVpxdlBvOWN4MlgyaHEzVUxiNVZtelJ6UHdxb0prN2sxRkVBZG5Lel9ISXFBV3l1ckxscUdiNzlEOFhCcjVPMzhGbmNUWnNOejFNdFN4QlNIUTIwdUI4X1I1aTUzQmZZNllURjQwb0hHNGdUYTlMWFFwTjBVU2hmeW96ZHQ4V1prRGFpMEFGTHRmWFJiS3pENDd3cGV3UQ?oc=5"
-      },
-      {
-        "title": "Świąteczne życzenia Nawrockich rozgrzały internet. Pod nagraniem lawina komentarzy - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHctczJ4TkJfZlBxSmFsNUg2S3VuaWw2ZGppLTk4QkVRTy1MakxqczFheDZDYkZXNzAzS2NNeFhmd1dTOFhhV1BNV2hZQXNqbzZsckpEVmRNYTNsalNEYU9ralNPczVqQndPSGhEdlVjTDhUb3JvVEh1RVRlMmNUSXVSUmU0dWthNG9OZEQyc0I2Y0oxN2kzaTUyOEIzOEdNOFQ1dERVRDRFbTBINnJr?oc=5"
-      },
-      {
-        "title": "Tragedia na drodze, nie żyje sześć osób. \"Potrzebne będą badania DNA\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlJEZzhpY2ZpcUx3ZzUxMHJQQzRxdm9sa09vVUkwRFhXWDdvQTJPUjRIaDhXamlsY0I2TkpNblFwaS13UE1vc3VUUFdTNXE5a2FCN3RqZ0lvXzVaNEp4OTlyNTNEQTVnMEJMRVhJZUYtTzd6NDdGNjdXdzJTVmxieUh6MkhWZTNGNFc0T3N5OHUtckpDdHNIVjhMbGRlMmFKU2hKRE5SSGRjQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-25 07:24:09",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Rewolucja w urzędach. Od 2026 roku e-Doręczenia zastąpią ePUAP - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEhvU3RLaHVzMUJGN2ZadFFkeXB5RTJ3UW9QcXRIMDJXbWI1Q3JuNXNucDk3dmlua2ZoT2dkd2tUcHRiWFpURWZzWGVITmQyOWFZbFRmWXAzRHRWOTRsX1N3cDZ2bWtLY3NlWVVZckZsYXF0UW91d0FvN1dGbUJCZmFqbFpfVlhmODhJREU1TU1BY0hYeEpmcWVBNE01WjRmOEI0S00xQ1JpMUFacDlhQjMzNXA0V3M?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-27 12:12:02",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 313080,
+      "DOGECOIN": 0.437702,
+      "ETHEREUM": 10464.89,
+      "LITECOIN": 277.34,
+      "RIPPLE": 6.61
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Rewolucja w urzędach. Od 2026 roku e-Doręczenia zastąpią ePUAP - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEhvU3RLaHVzMUJGN2ZadFFkeXB5RTJ3UW9QcXRIMDJXbWI1Q3JuNXNucDk3dmlua2ZoT2dkd2tUcHRiWFpURWZzWGVITmQyOWFZbFRmWXAzRHRWOTRsX1N3cDZ2bWtLY3NlWVVZckZsYXF0UW91d0FvN1dGbUJCZmFqbFpfVlhmODhJREU1TU1BY0hYeEpmcWVBNE01WjRmOEI0S00xQ1JpMUFacDlhQjMzNXA0V3M?oc=5"
+      },
+      {
+        "title": "Kim napisał do Putina. Kuriozalny list dyktatora - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRG1NejFRdkVsU1IxTFpnbGVwTmlrUHFkODdYd3NidC1wS1REYVRYenNOblB3VU9vTmNjNkNUWG5NRjFtMDcwazlub0lORUp3ejl0VzFPZWxpZ3F4X1VTYzh1Q3lGYW5Wb2xSZDFyM21pR3ZVOWxjQUtCcG1FQng0enM1Ti0zSWI4RmJhVkdqNUJRQTRYbHc?oc=5"
+      },
+      {
+        "title": "Wnory-Wiechy. Dramat na Podlasiu. Nie żyje 18-latek, leżał pod dyskoteką - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFltaGk5eHY4MjBDTDRwMGNES3BWNVRBQjE0LXVNYnA3UFhmaGJvdmdkR2ZCbmFaQkZTTnctMHFmZVBsZnRqR2daVWNkNkZSeUxhcWhYUERPdjc5SHU2R1o1MHpWRzRtYTZ6VngyZjU5bS1lVzA3alNlSFdlMGxPQ1p3VnBGREI5R2R2OVVFX2hJZ1diQmJFYW9jRUg1YUNLVUZzTVdiaw?oc=5"
+      },
+      {
+        "title": "Przełomowa decyzja Izraela. Jako pierwszy uznał nowy kraj. Oburzenie Egiptu i Turcji - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0pTRVgzbWExUXAyMVROVUhLTWZBb3pqZlNMd2xSVTFvMjhqa0JnWkFFTHR1ZW93MVB3X3NRMlZ1VmF0WS11cVdxNXRzZGJKeFc1dGVFdVJSMTlWSTd5UXhnd2thZjY0bnFqM2hnQ1hqckJYUDdsYVdLMzBxdFgxTjVtTF9sVlJHQjN6WVE2Wnlwc29BdXJZTTY3Z1k3eG1DbjA5eUI1RjE0aHhTbDFJbXBxeFFmUm92?oc=5"
+      },
+      {
+        "title": "Rezerwy wyczerpane. Na front mogą trafiać nawet chorzy psychicznie Rosjanie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNE1CZnpCVHNZaHlDcWk0TVYyN2w0N2FpT0VJT2kxd21sQmFLVmxUVkJfOUs1WjZIWlNmeEh0bHMyNnJNd0lVc1ZtZFMxX1d4c0RJX3lrc3Q5ajlLdzVEbklzNjdlYWMxNUF3U1BxVHc3RHhmVDJGSmFUdDN0dE5IVEFpYmR2ZlZUckszUnFoY003Z1pKcjF4cW9SeDRkNW5sSnp0Z2NkWkx0U2dXRmo3Q3NKVDNNa3Bl?oc=5"
       }
     ]
   }
