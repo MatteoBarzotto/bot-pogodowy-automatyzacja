@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-25 13:30:00",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 313249,
-      "DOGECOIN": 0.452634,
-      "ETHEREUM": 10471.89,
-      "LITECOIN": 273.26,
-      "RIPPLE": 6.65
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Polskie myśliwce przechwyciły rosyjski samolot - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzRxSE1ZeVRxNm80bGJhVjA4bjJaenAzVVpqQ3JDdnk3Q2JtRzZfTU1JblZiTzZheG9EN1BUMTJ3a25rbFc5YjE4WXZ0XzY1bmZHOG03Qzc0bmk2eTJBalhtN1p0VzA5Zk5lVWtlVkdkb2tMcjY2VGhPWi1LVDZHWF9Pa2Ffd2ZhZGJqR2xQcW9QUzFJcHVLYTVJeVI?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek w Warszawie. Samochód uderzył w wiadukt, nie żyje kobieta - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2ZUTnlia2NQQm1OYWtvYmF5S1BLbk9kRTN4VDZOWFdSb3FReFItUjNHR0d5V0dtRGYtbnNvSWNkZVBwTEVCcXN2NGJDNHNTZXJ5SEoxZlRxY3dNcFVEa0h1VEJVa0JZWDJ4V1EydklkM240dTdUQXMzOS1ZT3d2TFVHMW9ORThlZlVrX2ZRUnJKZkJUSTJqa3d4VVQ4dU9WZnNvV1BydjFjeUxMYjFDVFEyTlBTdjJHb1k5MFpLanM5LW9rT2NnQ1BxMkF1QTg?oc=5"
-      },
-      {
-        "title": "Pożar kościoła w Lublinie. \"Sytuacja jest trudna\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQkFRa0lKTkxESGlUTTNWb0l2cmpVTHhwWDJ4cDJuLXNzODRfLVFobVBlX2dmUHRVUmFESG9IZnlwUGZnd2F3U2Z2VnFOcHhxLU5qZU9lNHJVcTdTb2JidkFXMTNyaWVfLU1UTFM1YUpxazB0eUkyTXk5enZEWFloanNiQVUxaDNuT2M0dVJ1ZTcwYkZRUmRKWWt1ZmtYVUNqc05TakRGbXRXRmh5enFLNA?oc=5"
-      },
-      {
-        "title": "Zabójstwo Mai z Mławy. Podejrzany Bartosz G. wrócił do Polski. Nieoficjalnie: jest data przesłuchania - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2RLVkMzYnNXMUI1cVUwRkJZd3FmNk1kbnBfNFRQRmFTYXRXajNtRVY0TlJoQ2NucllRN1BSdkNJUkZuVjExN2NtVEhXTVNyVjF3YnJ2MVBHNUsxSHJ4MUltVVJrYXRVSnpnT21uaGZpTFhTNGJCUnBRd2lIZ3pIb25FdEJ0M2Y2dk0zQnlVQ21RM01YT1BqZUFBaVhkU20yU0c2SnF1dWowMVdSSnBYbl9n?oc=5"
-      },
-      {
-        "title": "Trump złożył życzenia z okazji Bożego Narodzenia. \"W tym lewicowym szumowinom\" - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnhQM1lsb3lWWTRMbzVRNkRkMHZITXNuUjdZRTlfY1RtRGFvRGlqNzV3djFNbGplaHdMZU9QaXI2NmxnbHZMQ2dyaktNMEpmVEtCVEVEU1djYkI2RW9hSlFJYTJLWlhBajRPNGU3UThjcElMNndHb3hScU5HYi1uMTNUOWJUclk2c0RKejhQbXRMZjhZMktVY0QxeENNWU1FV2N5MC16TzktdXN6Mm9MMGcxUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-25 14:27:56",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Sztorm nadciąga nad Pomorze. Alerty nie tylko dla mieszkańców - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE9UMk9LQ2hPS01GeTVBYlJwSjdyLXM1aEc0T1JyRU1na2tsS3RHa0RBZENpeXBWZElZd2xDWkFnQnpvREN0dnFVU25pX0ZpNnczcmtGalpqZW1jbkhfR0hWVVB3cV9WenZ2am5KaFppTTR0N2xIVHB2N2hYaW9fUTNpbXZ6WmRRVkpiV3hBQnF6TW8yRnhfRGNXUDFVTjUxU1IxeHhYYUVEZDJGeEFlaXZhS1ZKUzA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-27 19:20:41",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 313082,
+      "DOGECOIN": 0.439664,
+      "ETHEREUM": 10471.39,
+      "LITECOIN": 282.2,
+      "RIPPLE": 6.62
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "W niedzielę spotkanie Trump-Zełenski, a dziś rozmowa telefoniczna z udziałem Europejczyków, w tym Tuska - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQem5RTmRzVVRXS0lpYzFIZzB6RTBpRTFoMy1EazhYMV9iQmxlS1VPRlN0MkJ6V29rSW5Vd0FJRExzdVhXY1NJem12bUhSX3BMdTU3X0NuS3ZqdXpRMUdMTGt1T2FaRFQ5ZmJMM2pvcGxheWNwWUFVN1J1dHF6Rk1ZRS1vOVMxVVdzX052LXdUdVpYX0pLMld1a3ZMTXFJTVVpTWNmeS1qb3dfZw?oc=5"
+      },
+      {
+        "title": "Wstrząsające obrazy z Kijowa po ataku Rosji. Są ofiary śmiertelne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamFKbTFUUEFVVzFGWnY4TzcxOVl4YWFzLVN0enBTOTZ6Y3RHQVZvMXUzVGgwRUpnUGNJaTFZQTVOSTJoVVZTZE0wenptWmhjSmF1SmQyMHU4Vk9NQzAxSmUyMU1QX09XQlVZWVBpR2l4dEktNGN0eHFNaGh5TWY1aEZfRDA4QnYzT1VFanMtUmZnX1JieEVPLXFkR0ZFNUxMYzJHcE5OX1ZaWFF4eUw4SC04Y3BwLXNucnA5ZkYtRzNaX180Z0E?oc=5"
+      },
+      {
+        "title": "Tusk o ataku na Kijów. \"Wbrew oczekiwaniom prezydenta Trumpa\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlhFa0NTNjdDVnBDRmtOR014aWNjWjB3cDY2NWZzeHRiM1dDcE1kamVvVjYxbVFPNFRBamZhai1lS0toaDN1OHMxN3cyWVJmN00xelZrSmpPV0hlTkNmTDNuOVJZR3paRjRobGtBUGo4bzhSSXZNcnJZcWdfc0s4LTZjYzRIRlNmc1B6ZklJQzFpdzBOT2VENFkxaGhjdlp1M3VCQWo1MWM4QQ?oc=5"
+      },
+      {
+        "title": "Martwy 18-latek znaleziony przed dyskoteką. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFhQdUg0OTFkNXpoemh6U3FmcFJNVUNET2VHRkY5b0xfOXJpbEltaWZkZmRDcnhrYzNmRFVFM1RVYzRPd1VPejRxd3FVVVJ4bk5TNWVTUkFrOEVmNTJ5YVllVGZVVkZUVmFwU0FNcXZISm5SS09PekJBSmI2bGxBVXg0X2pWUUNqa0tjNXlfdlVncEZaS1NIWGhVeldJUEluekgtWVJfcng0dGtmMHVyZ0RCQjJBZFZVWGJJZQ?oc=5"
+      },
+      {
+        "title": "Burza w sieci o alert RCB. Poznaniacy mówią wprost, o co mają pretensje - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTY2NG5NRUdKWGxRQmZhenhmR1BmUkJqMVdPN0dBOWRVN3BLN1hIdm51UVNXc2NqbVdMLUw2RkI4a0pTdjJKYnZ0c0c3Qm1wTVdVU3Z5eWMwc1loaTItOUo4RVdZSnNtSlpUTldOVW85Zk9SWUxLd1Z3aDV2Y3pZejFpbzJZYlZwUU5QYWJaOS13QmY1WUREdDlVWXpndzNiUlJWdw?oc=5"
       }
     ]
   }
