@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-25 05:32:57",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -5°C",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 313942,
-      "DOGECOIN": 0.460495,
-      "ETHEREUM": 10529.71,
-      "LITECOIN": 273.06,
-      "RIPPLE": 6.7
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Nieoficjalnie: Polski ambasador we Francji, znany polityk PiS i bankowiec zatrzymani przez CBA - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1NTajI3OW10emNXanQwVXoyT21FV1ZoYThhcFp5aE04WDJQU2F1OVdoLXAyNmdxUmYyTHpORzNxVUJOSGJuOG5kTkhmYjlqbGo4X0NlaEFCN1N6SDB4R3dLM1dnQ2dhODBvb3lVOXJSbXBXS2lSekdlOTBqaldla3BqSExYQkQ1Umx2NFc3N0ZDMzBjMTA5ZDA3ZlJsemg1RHlGYXU5UmdCalBscUVwd2llZTZVeHJ0ZWJUbHdBbFE3SFM5X3BweDVWaUtfWnc?oc=5"
-      },
-      {
-        "title": "Masakra w Nigerii. Zginęli w meczecie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXpsNFpON3Rnb0s0VlhpREJhOEhBVE55dndlU2dUSXZaTkN2MTZ1SmlENDRDWVgzRXZOYkJGWjBPQTJzckJXd05iYlV4Y1pNU0xYNHVuX0dvVFhEaEZqZmRvSTd0RVBYSFMtT1p4YmRvSTBSS1ZKR3BpUWlhUlJJa3lISjVKQQ?oc=5"
-      },
-      {
-        "title": "USA i Białoruś coraz bliżej. \"Łukaszenko doradzał ludziom Trumpa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYkRBTnhwclJJcThjcFFaeEhvVkZLSl91SVFDT1cwY3gzNFlnTHVhdlZGOUxXWnRwclNBOTNPRHNTODFIblZwRXM0OXEzbmIyQVk2aThGSVdyNzZQSjNhUjFCSHZPcXlKQ1ljUmd3VUxqc1dNLWVoaWhvZzlKMEVBME9DR2RXZ2xmeVk3RVdwMUcxNUlmTjA5c21BcGNPZkQ5LUl3WXVjNDNnSFFTNUJNNFlKR3EzRFdrSjR3dnIwUEJBMXI1UDFVRDRhQTJFZG04?oc=5"
-      },
-      {
-        "title": "Zełenski oskarża Chiny. Cichy pakt z Rosją - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHpQSGRHalpwQUgxemhtTDZvekJCTWlQRjBTU284cGIwX0hxbEs3NlV6NFBhajhqblBGaHhHNHpYM0JaR2lLaGhIakc1cHVwRE5kVUNrS3BlNFJVN2Q3MjdzMVBCWFdLWl9jY0RLTnFCLWw3TzlLT0tCYUhza2kzMmZmTmVCZGhlQnhsNA?oc=5"
-      },
-      {
-        "title": "Służby Trumpa chcą przejąć kolejny tankowiec. Jest tylko jeden problem - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2lYU2VQRGxRNVRXWWxaLXpMaV9JeUJnTFFDZ0ZNNjU2UFh0ZVpxdlBvOWN4MlgyaHEzVUxiNVZtelJ6UHdxb0prN2sxRkVBZG5Lel9ISXFBV3l1ckxscUdiNzlEOFhCcjVPMzhGbmNUWnNOejFNdFN4QlNIUTIwdUI4X1I1aTUzQmZZNllURjQwb0hHNGdUYTlMWFFwTjBVU2hmeW96ZHQ4V1prRGFpMEFGTHRmWFJiS3pENDd3cGV3UQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-25 06:18:51",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Tragedia pod dyskoteką na Podlasiu. \"Nie udało się uratować\". Są zatrzymani - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVNURTlXa1BUbzd0N2stOGhPbkFEbXM2QzlHZlFqTkxNb3IxRW9tVnJfcm1DNTRwZ1FNWEYzZWlvVDZoODRwQ2xtMkl0Z0dhMl9uM01xZkVOQVRxckZnbUFEeWNIa0xGVW9SclZ4OGM0aGg5dkxFdk9VOUpWX2tIVkwwME5taVB0Y2ljRjRwWXo2dkg2VF92S1oxdnM3VXplQktLYTQtSlFjdVJwd09WRGhEdjNwZVVsS2VN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-27 11:14:55",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 313330,
+      "DOGECOIN": 0.439081,
+      "ETHEREUM": 10492.04,
+      "LITECOIN": 276.66,
+      "RIPPLE": 6.62
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Piątek pod znakiem kolizji z powodu gołoledzi. Alerty IMGW wciąż obowiązują - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjFJMXozR1p3VjkyeHRyaVlUZnl1UW12QTRQZGFsdENqajVlWENrYmdIS2laQmFTYWE3WTFRUUtMeGcwWkI1YXdWZm81dFFQVldIdkhkRzR5U2JVZU1LbEpNRlNkUm8wRTAzbmlaUFc3Sm1kNzdXa1N5anB6ZmRjTmNDNEJYdFhia2pCM21GMXpXaFBsRDJ5cXl0UUw4OFBlRXJxY0JGemdLYXFqZm1uSnZJQ2g2NDJBRXIwZDZjck9ldnloZTA2YWJKWQ?oc=5"
+      },
+      {
+        "title": "Rosyjski atak na Ukrainę. Polska poderwała myśliwce. Dwa lotniska były zamknięte - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3dlNGdlVHllWHNZcmZDZmQ3QV9kdmUyUG5tS3QtdFpydmt4N2VsOFJ3WE9GYVlzX09Rdkpaal81VjNhRG9uODZqNGV5U2R5SzBQdWpfVU5XVVpkaTN2Y1pFOGk4ODRoRHhmTXltV1NQNDFZM1VTeDhxTlZVd3YtY1Y3c3FIU1h0azF3TmE2aUhvY2M2?oc=5"
+      },
+      {
+        "title": "Rezerwy wyczerpane. Na front mogą trafiać nawet chorzy psychicznie Rosjanie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNE1CZnpCVHNZaHlDcWk0TVYyN2w0N2FpT0VJT2kxd21sQmFLVmxUVkJfOUs1WjZIWlNmeEh0bHMyNnJNd0lVc1ZtZFMxX1d4c0RJX3lrc3Q5ajlLdzVEbklzNjdlYWMxNUF3U1BxVHc3RHhmVDJGSmFUdDN0dE5IVEFpYmR2ZlZUckszUnFoY003Z1pKcjF4cW9SeDRkNW5sSnp0Z2NkWkx0U2dXRmo3Q3NKVDNNa3Bl?oc=5"
+      },
+      {
+        "title": "Tragedia pod dyskoteką na Podlasiu. \"Nie udało się uratować\". Są zatrzymani - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVNURTlXa1BUbzd0N2stOGhPbkFEbXM2QzlHZlFqTkxNb3IxRW9tVnJfcm1DNTRwZ1FNWEYzZWlvVDZoODRwQ2xtMkl0Z0dhMl9uM01xZkVOQVRxckZnbUFEeWNIa0xGVW9SclZ4OGM0aGg5dkxFdk9VOUpWX2tIVkwwME5taVB0Y2ljRjRwWXo2dkg2VF92S1oxdnM3VXplQktLYTQtSlFjdVJwd09WRGhEdjNwZVVsS2VN?oc=5"
+      },
+      {
+        "title": "Rewolucja w urzędach. Od 2026 roku e-Doręczenia zastąpią ePUAP - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEhvU3RLaHVzMUJGN2ZadFFkeXB5RTJ3UW9QcXRIMDJXbWI1Q3JuNXNucDk3dmlua2ZoT2dkd2tUcHRiWFpURWZzWGVITmQyOWFZbFRmWXAzRHRWOTRsX1N3cDZ2bWtLY3NlWVVZckZsYXF0UW91d0FvN1dGbUJCZmFqbFpfVlhmODhJREU1TU1BY0hYeEpmcWVBNE01WjRmOEI0S00xQ1JpMUFacDlhQjMzNXA0V3M?oc=5"
       }
     ]
   }
