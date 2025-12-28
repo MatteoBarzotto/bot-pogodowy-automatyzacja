@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-26 18:12:57",
-    "weather": {
-      "Warsaw": "Warsaw: -2°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 311249,
-      "DOGECOIN": 0.433139,
-      "ETHEREUM": 10433.02,
-      "LITECOIN": 273.04,
-      "RIPPLE": 6.59
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Nawrocki rozmawiał z Trumpem. Komunikat Kancelarii Prezydenta - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHAxRVlaWmY3RnBvbFJUcERiOUZvOFg2UkVtZm0xTzU2VEdSTWRkbXdkXzJETnRnLWYyem05OU9MM0N1aEwxeWFhRDY0QTRFNHpTZDZhYVZPY01zS3RWdndYMG8tczVpSTlfQTNGWVNoSUk0T25LMkVVNlg4QUhOYkdDZjY2dks5UThvc2xxa21aS2RUUWlNQWtyazNGUllXRFFNeWQxeVhjUlNaTkRoaUhKMA?oc=5"
-      },
-      {
-        "title": "Karambol na S8. Trasa do Warszawy zablokowana - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUltd1c5ZUZtQlhKQ2Z6TjVkUVZrYmpTb3JmaGZGYzRoUEtCTGVsYXBVR25uOUszMDhabS1OTmhkTUxkNExqZmllWjRJaGg4RlVQcHJvQnRCOWU2VVhYNzVlekpEU1VBMXlRdHJxY1NQWFUtUkQxeHRTcmZZaVNRdVVNWlFlM2hzU3pmUUxGMXA1RW1wNTlJ?oc=5"
-      },
-      {
-        "title": "\"Brak fragmentu szyny kolejowej\". Akcja na torach, poinformowano ABW - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVRjZEdXQ2xtdlQ4MEE5UkIxMWdYVUdpTGdoNFBZZFVYSlRiMWRacjFoNXVVamRXalJxSTQwd19NMVZnQVBxamhxZU15Z2s5dC1PM1MyZkxMZVA0RUIyMHRsNjZtWHZCWWxZRmtqX3NjcUxSTUZ1UzlhQzk2QUFlX2xKVzZub1JuUXZ1dTBYa2JWcUVCUUVjSUs1VHlsS1MtOGc?oc=5"
-      },
-      {
-        "title": "Dziewięć województw zagrożonych gołoledzią. IMGW wydał ważne ostrzeżenia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGRuU1habFh2ZzM4VGRqaTJpb3hiQjhRclVhZVpLSmZZUUt3RmZ0Vld3bzR1bjc1aThObE5XRE1UTEtVeWtJWUxkZTZzcHdENWhMb1FvdDNkS0NpNDVJeWhEOGluSm5xZWRxU0JRYldFN0hzV2loOW5QSEdaTFNQR1NKQVcxeERPclZ6dHRFdFoyMmM3dUo0TEVMWVJKQjg2UEFpZm1xa0ZxTVF6MXc?oc=5"
-      },
-      {
-        "title": "Wkrótce spotkanie Trumpa z Zełenskim. Prezydent Ukrainy potwierdza datę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxJclRuTVRGTU96U3lRRWY2RjloQTR2TTc2b19kck1fSVpjaVB3UHRtSkh1dUY5b1FPWU9CQXA4Wjl1UWxjbk1jZURFLXVzS3N3NXZWemRsMUNORUJlemVNWEhOa2RwY0JpVm1yWktJZUZMdzJZb3J3N2NhaWctWEJybnlXWFEtWTVwOURiUXBSWDF5UHRKeEdFX0o4M3NzRGl2T1hnWDd3YlY5ZjlBMGhYdERQdC1sSlh2eU9uVkZ5N1NCTEdRVWFFeTJIdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-26 19:21:30",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2591,6 +2539,58 @@
       {
         "title": "Nowy obowiązek dla właścicieli psów i kotów. Oto ile będzie kosztować - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTJNWVVPMU5IV3hLdjhhTmctc2ZWa0w1ck1iN0RjejVMZi14M3MxaHJqQ21hRUg2dkVCVWc4ZTF1LWFKdGdsUnJFRDVScFVsa25LUkhpd2Y2M3RSazFNTTZQVGZFYXZoWTM1VVUxa1pvQjByQnl0NkxLcUhoWVJ6cEx2NTNjLWJYSXNad3FtUDBwNVI2eWZvYlBTQmxSU1NVeFJnWDEtTUlSY04wdWVOdEFtWktiZHhTQnd5NmtpRTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-29 00:13:59",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.5848,
+      "EUR": 4.2274,
+      "GBP": 4.8416,
+      "CHF": 4.5473,
+      "JPY": 0.02299,
+      "AUD": 2.3992,
+      "CAD": 2.6162,
+      "CNY": 0.51
+    },
+    "crypto": {
+      "BITCOIN": 313774,
+      "DOGECOIN": 0.441964,
+      "ETHEREUM": 10530.11,
+      "LITECOIN": 279.85,
+      "RIPPLE": 6.67
+    },
+    "indices": {
+      "^WIG20": 3155.57,
+      "^WIG30": 4052.86,
+      "^WIG": 3155.57
+    },
+    "news": [
+      {
+        "title": "Zaskakująca sytuacja podczas spotkania Trumpa z Zełenskim. Chodzi o dziennikarzy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0RBR1FIcjJEdldZMlBlczFFLU84UEd5Y2JiNE5EVFVrcTQwR1I0YmYtMmIyeXU5dTRodWgwTVVKVUh0OHhheXMtUjdXNFFCWktONzBLbkphaXJyeWZPTms5YmJrTUZoQVltaXctMzYzREtDQ0MyV0hXZ3FsSlVqeXBndDNYdGhvZGdwaUhFWXFmWHliY0RLendWaU95aGNkZ1p3N2owYnlJUmkwUW5qcUdwWXJWT2R4anRZdkgxZW1Fdw?oc=5"
+      },
+      {
+        "title": "Ludzie Nawrockiego ruszyli z pomocą. Zmasowany atak na Tuska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOek0xQkgwbDdhb2xEUVhObXN1MnFaWmVpckJxa2h5d25xS0doOG44ekJYQll1aUMwM242R1lWNzMycjdLSUE3QTRDaXgxYXF0Z1RDQUg0WVJURXBvbGpxYjdUVnNrRUJhMG9SMlp4SkpxTFFnb0p4TUM4dTg3ZWFMSTluV0NaU1lkYmJzU09GZmZfZDBFVVlwU2l4ZDF1NDJHdHc?oc=5"
+      },
+      {
+        "title": "Uwaga! Od poniedziałku oblodzenie we Wrocławiu i w regionie. Ostrzeżenie IMGW - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXE2Rm9HcEIwZGRjMklxS0hhclVPRmFKazdVWVN3U3gwdDJPVV9scUgyUXJiTU10Tm1iYlVnOV9iMDh3TTlKMk1id1RpWlZmUTQ5ajlJbjB2N0pHS1NmTHltUG9hYlhPRDZ0akRnanhxWWphOWZ5OXEyRVJra2NHUEtIQmJhdEJnd19IWXAxZXh3WWtmcmNsMWhOYUZVUWU4QnR4cFhWajJRaURtWHVpY1lSRGZIc3lfbXc?oc=5"
+      },
+      {
+        "title": "Alert RCB dla Trójmiasta. Fatalna sytuacja pogodowa - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXy0yd1RWMUFNek52RzllUTJxRUlwU0p1dVNJbWRDMkltY3hQRHMxb3BQRzZ5MDNGS3lPVV8zSGRNbENBNjlPYXY2ZUlCVmdMME9vdkhMWERUSVNBbHBqMWpxWHI4U25GU1d5Q0pSVkdHRHV6ZzdGclRmdTRsdGZDN2lMUTRiSzk0Wk9LX1JoVENBd0FyNGhNMVE2S0w1Q0QyQnZuQlU0WGR4UVE?oc=5"
+      },
+      {
+        "title": "Sankcje nie złamały oligarchów. Władza wciąż w rękach Putina - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFNxbmFQVGtHakl6MFF3UlpjMEJlS09scDhWLXR5T3FXZWpiVEVsWUY4TUNfSm1HNjBqOFFONENEV2NOa1VuYzhGT0RsOU1IWFdzdEdEVHJhUVI2bDJiZGUxUVlPTlh2RS1kMXhmSWNNTXgzZFp4VWF5UHQ0S1RUbnpsYkJEbUdGMHJ2aXpkOGw4ZEZISG0tbVczOWpwZUhnbmp1bWxCckFNSzkwenEzQ3VLaTU?oc=5"
       }
     ]
   }
