@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-27 07:22:34",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 312894,
-      "DOGECOIN": 0.439045,
-      "ETHEREUM": 10476.85,
-      "LITECOIN": 276.71,
-      "RIPPLE": 6.61
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Polska poderwała myśliwce przez \"aktywność Rosji\". Dwa polskie lotniska nie działają - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX05KWEZkNzlRX2hqY3dQNnZUalpCUzUyeDhHWld6NnBBY3BDQnllcWs1bl9qU1lCa20tQTZrSlQyX3BCVHhLb3pYdmtrN2YwcDdOZlZyTWtIc1l3eWJLYkJyWWptS19VakRSRzRpOHRHaTZJR2N4cGd0bEVyTjZ2M3FhYnB5bkRtdUdfV0NXbEdIaFhFbWpnakx5MDYzX0E?oc=5"
-      },
-      {
-        "title": "Tragiczne skutki gołoledzi w Warszawie. Mężczyzna zginął po upadku z balkonu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOckJvYndncTI5Y193WEVEVTQ2dGwweUg2Mk9FanNycVF1TkZYTkhaVlBiMUdsbDkyU2QwTHV3TVhQYkFiWG80UWh1N0FjemhNOV9Ndnd3cXM3ZFhCRWhWZm8tR0dRUXkyYnZSMTdJaG1EOGttcDlWYWpISWVERk5sNHlfX2NTVnNxTExRXzhMSGJ4T1N3OWhkejZIWmRGVVVZM3NvUjQyRVNoSFA5Y0E?oc=5"
-      },
-      {
-        "title": "Potężna broń trafiła z Rosja na Białoruś. Naukowcy wskazali lokalizację, są zdjęcia satelitarne - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1NIVVNqOFpabmNCd0VlMVV2dnBDOV9XU2lodVBSbXpmLUEwUnNQd0E4aWhfU1RFV0QtNWRkSUdtRjVfQlM2Ykstdlk0UjVLRmNEb3VVUUg2NnBZRTJ0QkJJSVRZSkdPeTh5bzhzcFdPdDNKc1NLc2lsMmpQVk5VZFM5cnR0RHRRQUVnejVMVkZIVnpUbUtVZC1LZDQ2MjFMRlJhM1JVcUJWWG94ZXNScVRsNVlZVF8td3c?oc=5"
-      },
-      {
-        "title": "Piątek pod znakiem kolizji z powodu gołoledzi. Alerty IMGW wciąż obowiązują - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjFJMXozR1p3VjkyeHRyaVlUZnl1UW12QTRQZGFsdENqajVlWENrYmdIS2laQmFTYWE3WTFRUUtMeGcwWkI1YXdWZm81dFFQVldIdkhkRzR5U2JVZU1LbEpNRlNkUm8wRTAzbmlaUFc3Sm1kNzdXa1N5anB6ZmRjTmNDNEJYdFhia2pCM21GMXpXaFBsRDJ5cXl0UUw4OFBlRXJxY0JGemdLYXFqZm1uSnZJQ2g2NDJBRXIwZDZjck9ldnloZTA2YWJKWQ?oc=5"
-      },
-      {
-        "title": "Zmarł Cezary Miżejewski. Były polityk miał 61 lat - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjN5R0FXT2h1cUlGMmh4WmNQNFBZeTAwNGwtS3hjTXZGZzgwVHF1V29zbncxbHB4cFFRS0NzT2N3WHhMTXNyRF8yaDBzU2o4eGV2M1BuZ2hPcVdsUkpRZ0pUZm9QaHV3Uk13VjlzMGVKck1HbFBNQTRtdG4zNWdENzdNV1BNYzNSR3ZEd3hYbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-27 08:14:08",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2591,6 +2539,58 @@
       {
         "title": "Człowiek za burtą! Akcja ratunkowa na Bałtyku [AKTUALIZACJA] - Portal Morski",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZkJ3YUMwTW5nbDJUMlAzTXNSWlNPOXJ0TTNKMEFteEczOWQyejJOaDJfXzlCeGlSSG45anl4WjQ4UjRMVjMyR0FzOFZBN3g4V1QzMmZzSFlVR2cxd1RselZ4c2hfeWdRNTMzemNGalRTdVQxanFHRFdFVTNHSVlvbmREazdsRXZVVnVMcnAyeDVDeGt3WVlkRg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-29 13:32:07",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2274,
+      "GBP": 4.8424,
+      "CHF": 4.5527,
+      "JPY": 0.022956,
+      "AUD": 2.4049,
+      "CAD": 2.6228,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 313404,
+      "DOGECOIN": 0.443462,
+      "ETHEREUM": 10521.54,
+      "LITECOIN": 278.47,
+      "RIPPLE": 6.69
+    },
+    "indices": {
+      "^WIG20": 3153.59,
+      "^WIG30": 4048.62,
+      "^WIG": 3153.59
+    },
+    "news": [
+      {
+        "title": "Trump i Zełenski bez przełomu na Florydzie. Europejskie media są zgodne - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUphcjQtUnhpQXFUc3Iyd1lzY2d3RVdfSGhEODNDMmRvSkdKQzFlb1c3MU9McjloY1oySlptS2J4aXNMMTBDVmsyUTlmc3huQkF0SWJ3Y2d2NjJCTk1Zb3QwQUZBcTd3SWhSQ3VHNExZYWlpRjFWZS1fR2tyaEtRcTR2T3lFMDJTOWdscU9GZXplZTJCeUJKN2JUV0pGZmNwM29ndXRNYS1fZWNYVms1N3U1SUFPU3M?oc=5"
+      },
+      {
+        "title": "Chińskie manewry wokół Tajwanu. \"Poważne ostrzeżenie\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1gxa3NySnYxSTY0cWNFcEtTX1lPODlkWXVhdHZVdVA4VllOWnNQQmdiRHh4M0ExalRKVHZFQ3ZBMl9Oa2ZyNjc4MHFWbkUzWkdWdkxBc1hxZ0o5eFBpU1lqbXRXZmJvNVNuQ1hCMFdDRGRuSVRjUURMWmFlbURlc3JVeE4xVUZpOXlPTmdjaVhpZThWTXhTVDZ4VmFKUWl5a2NxVXp0VDVtNHpWUXFYUDRMaE1aMGVVU3pRdW0zNA?oc=5"
+      },
+      {
+        "title": "Nawrocki reaguje na wpis Tuska. \"Trudno uwierzyć\", \"tulił Rosję\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTk1oM2E3cGo5V1R5Qko0YW1ZSEllTUNVU3ZQTi1KV0M0bUJkTElvVUIwQXhUNERyQzZSRXRQUEJhREtRWDhOOXFsTnA3WWhwaWhNVTBXV1pJSTFVTi1qV0wzQkZfbHlnQkdGbWwtcldJRHFHMnpUck4zOUdKeDBJeHFLSGc5YUVYQlk0U2lZTHhUc2c1Q3hmUWNfbXFsYVdYemtpTGlZTEIxczF3SFVPUA?oc=5"
+      },
+      {
+        "title": "Uwaga, będzie bardzo ślisko! Alert dotyczy 13 województw - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLU16UGl4d2tQTVB2a2tVTThDUF9XYzk2YjFHelB2Nm5mY2RnYVVFWEdSMElFVXVDVmUxMS1SSmJCNUtWOHdDd2ZUenJadjZ3ZHdfNnBNTVdaZFc1U0JTRTlLcER1UURZTURtSUZNZ3R1RFRzR3J6S1NvWXMtMkx6TzFMeXZyTlJhRXhUMWI5Q0hlYkR0UGZoTTBaT1JFMFQ1NUlsNm1rSWtUZWY4?oc=5"
+      },
+      {
+        "title": "Powrót PiS do władzy w 2027 roku? Jasne stanowisko Polaków - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUIwZk5lVXhpX05BYXNLV2l2ejJ3VmM0S2pnMkt2OGNzYUd1cThHa2p1ZnZDbTZVQlc4aHRhdFVWZnZMYWRhUmtpYWRpQnRCWHh1THNITFFFWi1YMVpsSVdXT3JRSXc1QjhuTy11bTNLNW9hYWRNSTNnbHdaY0ZrQlktNEJOdXNuTkZ2amlSWjVpNF9hdWZtY0ZfZ0I0eFE0c3c?oc=5"
       }
     ]
   }
