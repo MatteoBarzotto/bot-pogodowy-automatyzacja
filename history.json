@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2025-12-28 14:25:38",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 314331,
-      "DOGECOIN": 0.443683,
-      "ETHEREUM": 10525.56,
-      "LITECOIN": 282.99,
-      "RIPPLE": 6.68
-    },
-    "indices": {
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Donald Tusk uderza w Karola Nawrockiego. \"To jest istota sporu\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaXBOMlBYRHlRVXJIcTBJYU56cm9uZnFvRjRVZTVyaE5sU0pQcnl5LUNnWC1QMFlnc0t2SDEtWXZmQ1RXdUVTWThkRnRkYi1kdFo0VlpqdV9tanFXRENlY3BBZ29VNms2eE4xT05Ta0RYUWRmOUI4d2lpd0RycTMzN1hyY3lKUDNqQXpXbW5TZlJzRXRZT3cybW04dGt5cTZLWGE1aW1YeDVGcl82bmMxNGdFSlBSS1NzM21JMldWSTA?oc=5"
-      },
-      {
-        "title": "Ukraińska delegacja z prezydentem Zełenskim przybyła do w USA [NA ŻYWO] - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RmtQWDJDWU1tZDJDRFpGUTFYc2RIN2FiTWZyWkhmTEFfeXpiaGlWX1BLTXJ3bXFud1Q4VURHRDBjMzBPOHkyX2RxMmhIVTRKNm9remJCWnpjQzljYlhPcg?oc=5"
-      },
-      {
-        "title": "Sankcje nie złamały oligarchów. Władza wciąż w rękach Putina - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFNxbmFQVGtHakl6MFF3UlpjMEJlS09scDhWLXR5T3FXZWpiVEVsWUY4TUNfSm1HNjBqOFFONENEV2NOa1VuYzhGT0RsOU1IWFdzdEdEVHJhUVI2bDJiZGUxUVlPTlh2RS1kMXhmSWNNTXgzZFp4VWF5UHQ0S1RUbnpsYkJEbUdGMHJ2aXpkOGw4ZEZISG0tbVczOWpwZUhnbmp1bWxCckFNSzkwenEzQ3VLaTU?oc=5"
-      },
-      {
-        "title": "Ciało 18-latka przed dyskoteką. Ruch sądu w sprawie jednego z podejrzanych - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlI5bnhvLTFCR1JONnRDZDQtQlBtcFNJblhJWl9rYllzSTVHRGNiWVg3eUx5SmNWSzBvLXRwVTFFZ3ZRWHFLN1NjQXdPSHNTQU9aTUFaWVJJNk9LdWpvNEg5SnhTVUlCMjNYNXhYOEVMcnpFdVJodnRLWVF0QUNWQzZkZzJEWjJINDdocUVnMlNwSGxFTGFPTDh0cXhaajd0RUNsa1NfVnBSLVg1bVQwbndmRDdMa0tPWDVrZTVneVd2QmVlLWVzOXBIcXJpN3h3?oc=5"
-      },
-      {
-        "title": "Dla nich \"Polska nie jest prawdziwym krajem\". Takich jak oni przybywa - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXpKTGllLUdSajl4WEdKazRiNU8tOHV2TWx6dmVPeGk2ZC1FNW0wNXNzR1IzMHlQTWtnbXVhc0tRMVJwSEdBblI0N1VscnhPOE9XWGVoV3JMQktMNUNQd0ROMjdSMGFDLUQtYjZ3TDdNWWRoanFiYmpoQ2hSMURPcTdoNzhLcTYwQWI0bEN2SmVlSGR1a1p4UzRhaUd1cjMw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-28 15:13:46",
     "weather": {
       "Warsaw": "brak danych",
@@ -2591,6 +2540,58 @@
       {
         "title": "Nowe informacje o śledztwie ws. Kononowicza. Prokuratura podjęła decyzję - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1NxcE1TUjhzWGNHSGtvc2lKbmFGZ0JlMVNlN3M0NUxnMlM2MnJjNXZ4aTBzek13aGxTNVhrakFTaTJTOG9JcDc4cUdOR0pCbkRQclIxdWZPZ25FVzlPODR1Xy16NUszcDlQZTVMbU9OY2wwdkZHeVRFd1BaYXc5YVhLdS00QzQ3RW1kSFc2MjgzRU9zRkNGOVhWLTNYSVlSTTRPbVJMU19uQ0FaQUxlcFl1LTRxMU5KeVFtTVdQZ3k?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-30 20:13:15",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5936,
+      "EUR": 4.2293,
+      "GBP": 4.8568,
+      "CHF": 4.5555,
+      "JPY": 0.023042,
+      "AUD": 2.4093,
+      "CAD": 2.6262,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 316187,
+      "DOGECOIN": 0.441674,
+      "ETHEREUM": 10608.59,
+      "LITECOIN": 279.74,
+      "RIPPLE": 6.73
+    },
+    "indices": {
+      "^WIG20": 3184.02,
+      "^WIG30": 4086.6,
+      "^WIG": 3184.02
+    },
+    "news": [
+      {
+        "title": "Woda z Zalewu Wiślanego zalewa Frombork. Trwa akcja strażaków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3ZNdFprUlkxTVVUd2g5STNFR2FLS3hWMkRWZzFCWkp6ZF91QXJqWkZ4OVRDWnNONVlJRUNCNjlUM19pLWtudURGOERqRk5KUjZ2OHNfaF9Dd2hCTzFsZkNlX0pYTzhsUC1kWTlNWUVFdXl2NllYR29MRXdJaGdfZ0V6UmZ3WmR4STZGY0JDUmJYR2dNcUVTUlhRWlFkWncydi15Y0M4WlM4RWlXa04yYTdEcGhMN3puM0Z4Mw?oc=5"
+      },
+      {
+        "title": "Nowe informacje o śledztwie ws. Kononowicza. Prokuratura podjęła decyzję - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1NxcE1TUjhzWGNHSGtvc2lKbmFGZ0JlMVNlN3M0NUxnMlM2MnJjNXZ4aTBzek13aGxTNVhrakFTaTJTOG9JcDc4cUdOR0pCbkRQclIxdWZPZ25FVzlPODR1Xy16NUszcDlQZTVMbU9OY2wwdkZHeVRFd1BaYXc5YVhLdS00QzQ3RW1kSFc2MjgzRU9zRkNGOVhWLTNYSVlSTTRPbVJMU19uQ0FaQUxlcFl1LTRxMU5KeVFtTVdQZ3k?oc=5"
+      },
+      {
+        "title": "Drugi akt oskarżenia w aferze wizowej. Zarzuty wobec byłego wiceministra - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnROcElWRzI5cWVRck5hVldUWXdhWEpmYU1wNDl2REEyVjF6UDNnUDdNdjRsb0JNbDBlRHlLZ281YTk1OXNQaTBUTGZlVnNoWmV1SWhoSFRQeDlsVDgtSnIyLXYzeVQ0ZGgtNWh4T2FsUU90ZHdkYmJIa0JFeHo4VlFpZlNNMXNfOWJCby1UUVVlTUloUWFydlVyNS1jWDBLZUp6WFZNanYwcnB5cUIySnh2dTc?oc=5"
+      },
+      {
+        "title": "Przegrani 2025 [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNXFlMmhfZnUwOFV0RDRMQkM4bW9lNzZBdkM2ZkZXdGZ5RU84MFhMZk5YWHYzdjhON2JGeU9Zb0lBWjZ5Q3VFa1lZU3JOc21sX1RycU91NGlobFRkQnRDakxvcVJaWFU3NERyTkZvTmhadw?oc=5"
+      },
+      {
+        "title": "Wiceszef MSZ odpowiada prezydenckiemu ministrowi. \"Oszczędnie gospodaruje prawdą\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRm1oWlNpekwyMnY0VkI2ajEydzdfSDZua1J2LTViZGJUVmhSM2pQQmlSUmhXYWpXNzEwOWdwMkFObDlhRHN6NlFRbVJrSEE1clI3N1VmSDJZbzFKSUxtb2IzLTlIOGdRQkI4OURIZEhlT0ZnZ09CMGVkcVhGalc2MXNiNlgzdTFGbWJ6V28xZFJKalFrdFRfa3RVaW4yZjh0ci1SMGZYZ3J1cDlfSWpjam1iTjVOMXphRWVNTW9qRnV6djRCajVfanNBbWZfSTQ?oc=5"
       }
     ]
   }
