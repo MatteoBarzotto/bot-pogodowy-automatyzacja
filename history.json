@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-27 23:13:43",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 313827,
-      "DOGECOIN": 0.442398,
-      "ETHEREUM": 10502.8,
-      "LITECOIN": 284.48,
-      "RIPPLE": 6.66
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki na rocznicy wybuchu powstania wielkopolskiego w Poznaniu. Gwizdy i buczenie sympatyków prawicy - poznan.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMG83alRLWWlxb290QU8tWVNVcnE3Ri1abkxhQ0Y3dnIxWmZreXhPMFoxTC0wSk1EYVNvR2NydWtFT3lzRmJrSmxxZTNfTHBUYndubV9qSXZzUVNUWXRKU29YelJOdkpQaV9vTTBHbVhlUHBIN243R3I3YzRsX0d5eUNOUnNkaUphZ2ZFeDYzMmlsaGdYOTJ4NXNqdktJaXFHM3VpeVJ6eVJuMUxRUzExVXNkSGVCNEU?oc=5"
-      },
-      {
-        "title": "Zełenski w drodze do USA. Powiedział, na co liczy Ukraina - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlFQc1UzaDJSUC1zRWEyWTlZVklDbEtMSEVMZkR1RHEwMktHWnQxcDRmb2JBVmRfMm02TFVSc0QzYi05Uk5OOV9rNFRnMlloc3ViaXVqN01CWmtXSTVTZ3BQb2NzUjBmQjBwb0ZZVE5CYUpGYmFfcTFWamd3WXczM2pncjhaOWx4bDdNcndDYTBsZTctNzN3bEFBb1pWMTlnY2Z0cm5tX08?oc=5"
-      },
-      {
-        "title": "Donald Tusk o pokoju w Ukrainie. \"Wszyscy zgodzili się\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWpuZmtIMjlPQm1LeTM1QnltWWtsSFE4M0FZeHZ4X1Y4N2czcGxwcE4wN2htYUsyNGZxY0J6UllBWWFZYkRPeW5oQkN5RURHelZOSnR6MUNEZjY1TzRIRTlaTG9UTUt4d01nV3FsQlE0MEpadHduSTdqVENRWUN6YzVBNHh3WkF5MzY5ZjJKUV9SSl9xVkVHYTNkNlEtTU43c2hhSE5uYlMxT2xMa3RqUWFKN2VNUQ?oc=5"
-      },
-      {
-        "title": "Adam przyjechał na zabawę. 18-latek spotkał śmierć. \"Nie wierzę w to\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOElCZ0JjVEFXSUhNa3Nrc0JrRnVjck5UOXdPRTE5aDBfc0pDcGZ1dm94bWV6T0xUeVFTS2dTMU4wUXhtU3AzVkZLbDJiU2lVN0xNdkUxS3FjdmZ4bmFYZFFIcGd1eWtYVU1vMW8tcDhkRElwN3lOVHcwaEZQeHV2aWRfdTFtRFV3TTRBNlJBVTNUenUtcGdaQ3MtQjZIbGdHVmpyZGcyZGh5UGRUUV94UUpXcUxITnFFbVV2Y2xhcmlQeFR2THJmWQ?oc=5"
-      },
-      {
-        "title": "Atak tuż przed rozmowami. Bestialska decyzja Kremla - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDlBUmtyT3k4MGl0MC1tMFBnMWVfQnROWXlQZlI4cW9HV25rSEFia2JraDUzVjg3bUVRNWxKNDduTkV1LTd1WnFmNnBRbW9BSTdOcXdGbEx0MDhHbE5ZWjVQclB5ckQ0akttUjZpT1FlbDFXek5mV0ZUb0xkN291Q0hEY3pic1BiMnJIRzJuRF85THl0WnRhMQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-28 00:14:01",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2591,6 +2539,58 @@
       {
         "title": "Marcin Najman nie wytrzymał. Dosadny wpis o Krzysztofie Stanowskim - Przegląd Sportowy Onet",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWJMWWswbTkwSE9UcmRZZlp6WnRoaHhJLXVQOEJNVDlWZlRsUHZDaEV3RFo0b29kV0pLVUdIUmNRZnpKTl85UTFjNmt2ejVwZ182V0FpUGhKWEQ4NHBBWklZSjBlY2xNVm9rcUVjNUdsSVVZVjJDZjdRQ2pQRXYwV3FlSjBEREJSYVpvYnF4NUpVVWMwRzBHd0hZcFU1UWNqOXJwTDJkY3JaSkw0OWNraldPVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-30 07:24:19",
+    "weather": {
+      "Warsaw": "Warsaw: -2°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2274,
+      "GBP": 4.8424,
+      "CHF": 4.5527,
+      "JPY": 0.022956,
+      "AUD": 2.4049,
+      "CAD": 2.6228,
+      "CNY": 0.5123
+    },
+    "crypto": {
+      "BITCOIN": 313179,
+      "DOGECOIN": 0.441578,
+      "ETHEREUM": 10560.83,
+      "LITECOIN": 280.53,
+      "RIPPLE": 6.68
+    },
+    "indices": {
+      "^WIG20": 3164.93,
+      "^WIG30": 4064.85,
+      "^WIG": 3164.93
+    },
+    "news": [
+      {
+        "title": "Rozmowa Trump-Nawrocki. Minister ujawnił szczegóły - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVBOLXJBMkZ2UXFVWU1JZGtKZGNZNlFiVUI4NmxBLWxRTXJ6dG5Ra0tnekpKMGhleGJEY0M3cVp1REZUcmhpUnEzdjRPN1VZeFF5TDZWLTRGY0R5ckpOTGt2TVh4c1NvTUMtUkRHQ3lXUkpnUld0OTBTOGJFSFAzVTJUWlZPcWVyUmJKX01kVWNpS2ptUElqcjFEZ0lHdw?oc=5"
+      },
+      {
+        "title": "Oskarżają Ukrainę o atak na rezydencję Władimira Putina. Rosja zapowiada odpowiedź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzRZODlxZUNlcEdtSDVhR1dQdGtHRGY4N0ZXZWNPZ2Z2OWh4b0JlQW9nQzZWV25XdFdpM2RZbmx3SG5PTnkzZjRFMnpjUDNUTHJVcGg1dVJYdnFrR0FHVzFMelkyRkhyQzMwRU9KMGlfQWVxdVhKamM3N3l4TU01UW1KaFRYcFpndlV0c04xMmJVal9RaU1PSDZFRDQzWjlpbko4ekFDS2lDR0t3RGlHT3R2XzlkakM1Mk4yWmMwWkR0Zw?oc=5"
+      },
+      {
+        "title": "Alert RCB - zawieje, zamiecie śnieżne i silny wiatr (29/30.12) - Gov.pl",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQVVrLVNNODFiWmpzbVhMMjJQWU4zeGlpQ1pfaG9venp6UF9DMmtPZXNVZkJGSGRiUjUtX2dNZmVDNTJJWkZuLWZLWlp2VG16Nld5bTFSXzVJMDJLRkw2dWs0aXd2ajZEa2dKMUZzRnRLV3BlZlZiNFN3WkYyMTJRbnpUZjFhUzluS0E?oc=5"
+      },
+      {
+        "title": "USA zaatakowały port w Wenezueli. Donald Trump potwierdza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVNZdGJqZ29jaXZXUWthZGc4V2ZNU3huSTBxSVZHYUNpQkw2VXB0LUxYWlpZbWhrWVBQZlBYOWNESExPTnBIdjZ6Y3gtVmxLdnVIUTVjRThxa1E5bHRvd25vN1VSV05rRUR0cExJNTh1SG9rNmtITzJSakxsd0l5MWxjU2JXVElxbzZCSm0tcXZPS1lRLTYxSDZwU1BDUk9m?oc=5"
+      },
+      {
+        "title": "Rolnicze protesty w całej Polsce. \"To walka o przyszłość polskiej wsi\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkREVHpZX3J2ZVdaQWhVNG1zZmJHdHU5MVBHWHhPeS05ekVwdEtfZWJJSVhLOHFRUDBsaUtBR2pSS0JZZ01SX1haU2x2alU4OGFfRGJJaDBGUjNMVEl1V1pzcC1XTUlKNkV4SkRSUjBzWFhhVjJtRzM3LUlULTRUZHZ2NGo0bGo2bXNOSnl3SnZ4MVFvVmpvMG1VQWVJMEh1TTFvT3o0akFLcUxOSzVIQi1fV0xkampU?oc=5"
       }
     ]
   }
