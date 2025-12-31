@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29 08:21:00",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 320527,
-      "DOGECOIN": 0.453598,
-      "ETHEREUM": 10793.32,
-      "LITECOIN": 281.99,
-      "RIPPLE": 6.78
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Trump zadziwił świat tezami o Putinie. Macron wzywa przywódców do Paryża. Podsumowanie nocy - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmZlSWMyMlZaQmpONTFpZW9qcVZYd203cURiZTFDdXU1VnJ4N3AteDFNcDY3eG9QeXU2Y3lZREJ2TzZBdk5tVElEY2VwRWdJYUIyVzN4bkR6R1pFUHBpVFdYOGdmeURMZTk3eFBvUk1lc2I5c244WnV6SWVBcXRKQUphcEJrRG5OYlpycFFBVUd6NzRUVnFfZmpfcU44X3RCWlVj?oc=5"
-      },
-      {
-        "title": "Nawrocki kończy dyskusję? Zwrócił się do Tuska jedyn słowem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzVxTlRDay1lV0RHcUVtZkhaRDBLRjBTcUtidjBrWS15Yl9ZWFQ0bFE4YWQyRmZaNElZRG8wMHRlQndYcXF2NGJQd25ZWFJscmVkQ0p4TXRjR2daRlNRMW5RV3E5WFlCN0VxbFRLallkZUthNUVUWmJqOV9Ga2ZrYUpoemtLMEJVT2xZMkpPUnJLWGVqb3ZFMVhncENtRW9ScGNj?oc=5"
-      },
-      {
-        "title": "Uwaga! Od poniedziałku oblodzenie we Wrocławiu i w regionie. Ostrzeżenie IMGW - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXE2Rm9HcEIwZGRjMklxS0hhclVPRmFKazdVWVN3U3gwdDJPVV9scUgyUXJiTU10Tm1iYlVnOV9iMDh3TTlKMk1id1RpWlZmUTQ5ajlJbjB2N0pHS1NmTHltUG9hYlhPRDZ0akRnanhxWWphOWZ5OXEyRVJra2NHUEtIQmJhdEJnd19IWXAxZXh3WWtmcmNsMWhOYUZVUWU4QnR4cFhWajJRaURtWHVpY1lSRGZIc3lfbXc?oc=5"
-      },
-      {
-        "title": "Protest w PG Silesia. Zobacz, jaki kolejny ruch szykują górnicy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnFPQUVCRlFtZGhBeHNYRS1WZVFrVlhKYmRzRW9FN2JfQ1N0S0lhZnZ6U0FSRGEwRGIyNjFtU2Rqc2Z3NEpwNDBNMy1kVktTSFNLc25DenlDUnVGMG45LUp4ZVJVNnZxaVdGcFdoYU11NGwtYWF0SnhKTTRsdlNXbVlZMUVvbXdrbGtxck5VdHhlNkZlTFpyUnJJbzdPcy1RYUh3cFdjRnpLbmJPRFIzaDJTWUY?oc=5"
-      },
-      {
-        "title": "Śmiertelna bójka przed dyskoteką. Dwóch podejrzanych, mogą być kolejni - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3J5Wm9OT2h1b3ZDeGdkMXJCX1hZdWQwcVV0V0lJZXZ5d1hFRVhfRW84T0Nud2Y5bWNBMXNDcENFNlowTllJNGgxaTdLQzlOTE5WLXV2YWx0WXZhZC1Db19iZF94d25rSS1fNXFMQ1NzZU1vWGZKeDk1V2xzQ0hFY0xTYlh3aWhBeWVDT1Rzelk4anBKalk5SU5UYnZCakVrcUtTMU12R2FSMjZ3dFJ0WkI1dXF0Vm8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-29 09:23:19",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2593,6 +2541,58 @@
       {
         "title": "Putin wydał rozkaz w sprawie \"strefy buforowej\". Gierasimow ujawnia szczegóły - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQak00bW1fTUhrWDdIWTFWd1ZqaGtCUTMwWkhlSFphWFZNaTdXc2YtT1NZTmVXcFFFbTJvcmdIc0lFRjlyTzlvb0pCb3lhNmxSNmN5a0l3NXhpTDllRDhNdXI0VHQtQWp5SHAteDNJNFJFc0R2VGRXZF9DVGZPcEhnWUk5MTV1c2N6VFN1WEpRUW9QcWtfNGpvYXJweGM0b1JETE5iNktOMHgyZnNZLXRPRmRSWEdPVDhqcEJucUNGQnhnY3I0QVVtRi1PZ0I4eWpLaEk4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-31 14:28:42",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6016,
+      "EUR": 4.2267,
+      "GBP": 4.8399,
+      "CHF": 4.539,
+      "JPY": 0.022994,
+      "AUD": 2.4071,
+      "CAD": 2.6288,
+      "CNY": 0.5153
+    },
+    "crypto": {
+      "BITCOIN": 318631,
+      "DOGECOIN": 0.441847,
+      "ETHEREUM": 10742.36,
+      "LITECOIN": 280.05,
+      "RIPPLE": 6.73
+    },
+    "indices": {
+      "^WIG20": 3184.02,
+      "^WIG30": 4086.6,
+      "^WIG": 3184.02
+    },
+    "news": [
+      {
+        "title": "Nowy alert RCB. Dotyczy dwóch województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1Yxa0dCU2JOZkI0WGdqWDR2WG9SYllpa0RNNGZDbFc1b1JOUHktaTdleGZFekI5X1NydlctREtQRDhWaHRMSFNlRHg2SVFjbEtnbXZLcmZjRzlyMFpQd0hudDBianRrZFFncGd3Sm5PZUFFY3NXZlpTUnJzMUpEUDh1UWRWbnpiYmZsNWgzbFp2SXZDbW14QVA0Z203SzFrdUR4Vw?oc=5"
+      },
+      {
+        "title": "Atak zimy na Warmii i Mazurach. Blokada dróg, tysiące osób bez prądu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanNRSDZNaW9NYTJ6RXZLRmZSMW9BM1BSdmhRSEtCa211UDI3SUlIaEl5V1MweVdDSmpobTMxdEhYSFNTZUtadl9pTm5JejZFS052Y1hOdWNEdFNaWHE4eXQ0T3lob0VleVJ5TVp1T1pkUTIxMWJGT0pYSXZLYmRWd2IyY0tfZUhEdWNMdmtjai1KdkhFMFNwTnlESDdKb2MtYWd6aXN0d0dLWmN4T3FkNkxlclA?oc=5"
+      },
+      {
+        "title": "Matka i syn wpadli do stawu. Dramat w Wielkopolsce - o2",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZjlWTEYyX2xZYlY0RWJFVW1abUc2aWVZeGNrTGhTRnZlc1hlZGhoOENDd1hQX2hkSFRUc2RIN3h2T05GendKdUd5ZG9sS0h2WWNTdGV0ZWpEU01kLXM1V25FUEkwY1pxTlFwX2s3MDJNN2NlLV90SFk4RlhwQW1ZYVN2Z24zQlpnQXJvcnNpUXFtdXkwS1NqYnV4Y3Q?oc=5"
+      },
+      {
+        "title": "Problemy finansowe Trybunału Konstytucyjnego. Pawłowicz z pierwszą wypłatą - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUF5S0d5Qk5lS2FNNTVUeEJyZlc4UGU4YU96R2pTckZJM2ZHcWhickZrX3VHZEhZaEh0LWlJeXdlVEFvMFJvcnVuMzFwTlNNeW5ZVFRFT2NvR1czRHYyVkUtY0haUTZaQlZvUG41Z0ZrX3VLdHdQdl90aUdsUS1iN3JtempLRnNHZm5YMF9NdllhRTY1MWtQS2wyb3AyVlROVVA5bVRZaW9yNmVpNVFNY2VJR0FuVkU?oc=5"
+      },
+      {
+        "title": "Spór o ustawę o statusie osoby najbliższe. Prezydent mówi o przywilejach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbTVEZUJaMnF3NV90bGhRODZwT2IwU0VmdWZ2OTByY0d6a3pYWjV1c2lmWjRuVGt5SHJwT0IyTk9DRDBEbGdhdXhMWVJCVFQ3dllDTkw2VTgxVTgxZW1fN0MtMGFlVTFWaGVZblJ2TkpQZU42blJZempmQTBXNGJGUnkzWnBZRVVCdFZBdUtOWlBPTzcwbmh3eVQwXzB5ZFVQRUZ6UjBzRWozemd5?oc=5"
       }
     ]
   }
