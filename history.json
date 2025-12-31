@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-28 23:14:12",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.5848,
-      "EUR": 4.2274,
-      "GBP": 4.8416,
-      "CHF": 4.5473,
-      "JPY": 0.02299,
-      "AUD": 2.3992,
-      "CAD": 2.6162,
-      "CNY": 0.51
-    },
-    "crypto": {
-      "BITCOIN": 313181,
-      "DOGECOIN": 0.441008,
-      "ETHEREUM": 10505.52,
-      "LITECOIN": 279.4,
-      "RIPPLE": 6.66
-    },
-    "indices": {
-      "^WIG20": 3155.57,
-      "^WIG30": 4052.86,
-      "^WIG": 3155.57
-    },
-    "news": [
-      {
-        "title": "Ludzie Nawrockiego ruszyli z pomocą. Zmasowany atak na Tuska - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOek0xQkgwbDdhb2xEUVhObXN1MnFaWmVpckJxa2h5d25xS0doOG44ekJYQll1aUMwM242R1lWNzMycjdLSUE3QTRDaXgxYXF0Z1RDQUg0WVJURXBvbGpxYjdUVnNrRUJhMG9SMlp4SkpxTFFnb0p4TUM4dTg3ZWFMSTluV0NaU1lkYmJzU09GZmZfZDBFVVlwU2l4ZDF1NDJHdHc?oc=5"
-      },
-      {
-        "title": "Sankcje nie złamały oligarchów. Władza wciąż w rękach Putina - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFNxbmFQVGtHakl6MFF3UlpjMEJlS09scDhWLXR5T3FXZWpiVEVsWUY4TUNfSm1HNjBqOFFONENEV2NOa1VuYzhGT0RsOU1IWFdzdEdEVHJhUVI2bDJiZGUxUVlPTlh2RS1kMXhmSWNNTXgzZFp4VWF5UHQ0S1RUbnpsYkJEbUdGMHJ2aXpkOGw4ZEZISG0tbVczOWpwZUhnbmp1bWxCckFNSzkwenEzQ3VLaTU?oc=5"
-      },
-      {
-        "title": "Żegnamy prof. Jacka Woźnego, Rektora UKW w latach 2016 - 2024 - Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkZhRXRrMkc1V0F3R1h0Y3VPTFJLLTdLd21CMy1FUEVGdHVKOFVYM2xEeHB4Yzc2ZFY0Rmxoa1VXUG9mMWpfVmlmUUNyME5oWXp3ZFQtY05XdDVPcFBCT1A2aEV1aHlkTzhxYVVGSXozbHloVXN3T0hnaHZZZll0Z0V0amxzSVhZVFNVTkRtSQ?oc=5"
-      },
-      {
-        "title": "Przedostatnie Drzwi Święte zostały zamknięte, u grobu św. Pawła - Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeF8yYm10Y20zMU1HOEo5Mjh0Q3NzQTNTQXRwb3ZSVWpmbXZla0lPUE9UdE8yV3FHaEZvemxfaVRoMmc0S1ZlUF84SXIzSEhwdGhZZjNOTVZwTy1PLUFVOXB6anpSMkFlS3JZS09NM25Jcm92dzdhRXF3Y0lqRmh5ZWRDT25qeUp4ZlB0RzFyYU0wOXZUNVJmN0M1RDF6Snp2elEwdG9FTG80TG1makwxNmcwam5Hb3VC?oc=5"
-      },
-      {
-        "title": "Nowy obowiązek dla właścicieli psów i kotów. Oto ile będzie kosztować - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTJNWVVPMU5IV3hLdjhhTmctc2ZWa0w1ck1iN0RjejVMZi14M3MxaHJqQ21hRUg2dkVCVWc4ZTF1LWFKdGdsUnJFRDVScFVsa25LUkhpd2Y2M3RSazFNTTZQVGZFYXZoWTM1VVUxa1pvQjByQnl0NkxLcUhoWVJ6cEx2NTNjLWJYSXNad3FtUDBwNVI2eWZvYlBTQmxSU1NVeFJnWDEtTUlSY04wdWVOdEFtWktiZHhTQnd5NmtpRTA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-29 00:13:59",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2589,6 +2537,58 @@
       {
         "title": "Minister z apelem do rolników. \"Nie dajcie się zwieść faryzeuszom z PiS\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWhfbk5uV2l6Sl9iRUx6Q0Q3ckR2Uld5a3FtT2pNVnBZRks0RFBnVlU2QlA3eWNJOWNWaEpybUk3ZHRhVXlxSzhuSXNGaEtKNXQ3VUZONlVrcVRscUZCYmtOWC02YllSR054akEtdVc0QXd2UEpfZnR1M1djUDJwWVVIeTROWkcySmZ5SUZwb1ZkS3ZLYl9MeEp2UklSelF5VDhKZU93?oc=5"
+      },
+      {
+        "title": "\"Kwestia najbliższych tygodni\"? Premier o perspektywach na pokój w Ukrainie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVDRJZzF0X2lwTHg4MXFaR1VtcjlFZEtqN2RRSFNBVDFROC1MT1ZOYjBuV2dZbS1XOHZjSk9STWFFN19wRHo0bjg3WjdVbE1hMnFmM1JUSlJTM1lwckNmY0NmMU5OY3F3cGxGNUdFSFFkLU96X1Y5VC10OXlYS3RPbzE1aFItblpVQTRMWlhjNzFLdlh6QjJSUzZPd2lRREJMMEtFcDgzY092RHhtQ0RGajhWWDR5ckNLZmVR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-31 07:24:40",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.5936,
+      "EUR": 4.2293,
+      "GBP": 4.8568,
+      "CHF": 4.5555,
+      "JPY": 0.023042,
+      "AUD": 2.4093,
+      "CAD": 2.6262,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 318515,
+      "DOGECOIN": 0.442802,
+      "ETHEREUM": 10712.41,
+      "LITECOIN": 281.26,
+      "RIPPLE": 6.74
+    },
+    "indices": {
+      "^WIG20": 3184.02,
+      "^WIG30": 4086.6,
+      "^WIG": 3184.02
+    },
+    "news": [
+      {
+        "title": "Nowa porcja śniegu i tęgi mróz. Dziś zimowa pogoda rozkręci się na dobre - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekVtNF9BdlJkWVF3YlJKNVZIck9JSTVlQlV4WEFXamR3N0JnWExJcEtOVkFnMlN0M3NKYlJkWW55ZTN3UkxOenlKWnRLamZMVGxKVFJlSkVvTW9BOWdQcW84WjgyMkpOUGNtb3l2cmtSWVlZRnVPUGlJT2hINlFBODlxT1lCeWhQWWozeENQRHhTWnVmZUxmZG96TEhtVnNjSFZNZFpzMG5MUjkybjFETDRiZVBpc2t0ejFjOUZjNk1zTzZjYXlmdWViLWg?oc=5"
+      },
+      {
+        "title": "Zamiecie i śnieżyce w Polsce. Ekstremalna sytuacja na drogach [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemtmcGJlWjE4cHF0RVZ6MkZsVzhxOWhwLVZZaTZWZlJQaFRiWjZ0X3pfN2liMHJpTzhPRXZQSlRNQ3VXeWdTODY4TnNzWHgxM0Rfd0o1bkNVZmZ0SXBwSWtpWE5pQjJPaUZpXzhacUNQakV3ZXEwcVRRU3czQy1RMlk1RzdfQ2pST3doOXZyNWNCeTlGazBRMDdBdWd3NjduZXM1dDZDZnUydmpNTFdwMENlUkJvUkw5OGV3?oc=5"
+      },
+      {
+        "title": "Matka wyłowiona ze stawu w Radzewie. Trwają poszukiwania dziecka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEpPWnRsSHFLMjZka2RrVjFIeTk4Vk1lLTdhUHBZWGs3YzF4enBCMndncExOM2U1X3BoYkJBdkFuVFc2M1NWaWtyTVRoLW1iTUp4WlUtT0lwa19JVFJGUW9sbVFERVpaY0l4Y2g1UWFyTjl5c2s3dThyUUszRTZSaEdaY0doUFRuQXNZLWt1d2JUOHBCXzdvOUxyLVNlcUFfTzNkdjVRdVl5X2xrYmRKU1gxcUtBQQ?oc=5"
+      },
+      {
+        "title": "Kreml obiecuje poddanym Putina krwawą jatkę w Ukrainie. Krwawszą niż dotychczasowe [GOWORIT MOSKWA] - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Wlo1ZG9ickx0dDhqam80ZHFVZ2VCQWE3bnY4QVFGY2NqR2RhbzF2NUJWOGp3MGhCSV9KYVdXUmdKdEZfbzBKTTQ0TWRyY1lPMU43X1p1dUJnc3BWa0VmVmJROGpvZjhUUGlUSm0tcU9aTjdhTzl4M0dJMA?oc=5"
       },
       {
         "title": "\"Kwestia najbliższych tygodni\"? Premier o perspektywach na pokój w Ukrainie - Business Insider Polska",
