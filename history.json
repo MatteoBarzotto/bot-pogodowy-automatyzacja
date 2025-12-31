@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29 12:13:51",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2274,
-      "GBP": 4.8424,
-      "CHF": 4.5527,
-      "JPY": 0.022956,
-      "AUD": 2.4049,
-      "CAD": 2.6228,
-      "CNY": 0.5123
-    },
-    "crypto": {
-      "BITCOIN": 315077,
-      "DOGECOIN": 0.450164,
-      "ETHEREUM": 10641.82,
-      "LITECOIN": 279.99,
-      "RIPPLE": 6.74
-    },
-    "indices": {
-      "^WIG20": 3154.6,
-      "^WIG30": 4050.51,
-      "^WIG": 3154.6
-    },
-    "news": [
-      {
-        "title": "Donald Trump odwiedzi Ukrainę? Prezydent USA wskazał warunek - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3JibW1fbkx1dGxTODFpdVFXdnJuVFBIZFM2cm9nV0ZxMGY2Y3YyT0U4TlFYX0tFcDVMYWNBVDJlSTdDaWVGY1FoR0hVVkpfSHk2NnVzNUdHRmhSWllSeFl2NTRpT1pzRjVUeWRyUDV0Z2dMeWRTbm9VQ3YtRVVnT1RqeTlvMlg5c3NucU1IVGxQa2UwWDAwQXpoWXdCaXk5ZEE?oc=5"
-      },
-      {
-        "title": "Powrót PiS do władzy w 2027 roku? Jasne stanowisko Polaków - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUIwZk5lVXhpX05BYXNLV2l2ejJ3VmM0S2pnMkt2OGNzYUd1cThHa2p1ZnZDbTZVQlc4aHRhdFVWZnZMYWRhUmtpYWRpQnRCWHh1THNITFFFWi1YMVpsSVdXT3JRSXc1QjhuTy11bTNLNW9hYWRNSTNnbHdaY0ZrQlktNEJOdXNuTkZ2amlSWjVpNF9hdWZtY0ZfZ0I0eFE0c3c?oc=5"
-      },
-      {
-        "title": "Chińskie manewry wokół Tajwanu. \"Poważne ostrzeżenie\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1gxa3NySnYxSTY0cWNFcEtTX1lPODlkWXVhdHZVdVA4VllOWnNQQmdiRHh4M0ExalRKVHZFQ3ZBMl9Oa2ZyNjc4MHFWbkUzWkdWdkxBc1hxZ0o5eFBpU1lqbXRXZmJvNVNuQ1hCMFdDRGRuSVRjUURMWmFlbURlc3JVeE4xVUZpOXlPTmdjaVhpZThWTXhTVDZ4VmFKUWl5a2NxVXp0VDVtNHpWUXFYUDRMaE1aMGVVU3pRdW0zNA?oc=5"
-      },
-      {
-        "title": "Tusk po rozmowie z przywódcami. \"Takie gwarancje to bezpieczniejsza Polska\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkFYTmJDU1FCTkk5Tm5JOGQ3N3FBRzVFcF9rRkFtTkNCcnlkUGdsOFdXeUh6YW53d3FIdWZQUzJxWXRfZXE0N21jT3VsYkduUkViQ19zNG5GeEczQzlKYUhxQnFaWHZYeGtuNkpmMEd1bGI2Tlg2MHhhRUE3X0JUeFE4TEt6Z0ZOc0I2ZWZkNDdTcmEtMmpWai0tMzRDMmtUcllVWWg4WlduU0FWRVhFV1hHVQ?oc=5"
-      },
-      {
-        "title": "Człowiek za burtą! Akcja ratunkowa na Bałtyku [AKTUALIZACJA] - Portal Morski",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZkJ3YUMwTW5nbDJUMlAzTXNSWlNPOXJ0TTNKMEFteEczOWQyejJOaDJfXzlCeGlSSG45anl4WjQ4UjRMVjMyR0FzOFZBN3g4V1QzMmZzSFlVR2cxd1RselZ4c2hfeWdRNTMzemNGalRTdVQxanFHRFdFVTNHSVlvbmREazdsRXZVVnVMcnAyeDVDeGt3WVlkRg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-29 13:32:07",
     "weather": {
       "Warsaw": "brak danych",
@@ -2593,6 +2541,58 @@
       {
         "title": "Uszkodzenia kabla między Finlandią a Estonią. Zatrzymano podejrzany statek - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZV9oWFF5RzB6U2t2N3hma3NRTFNQVTFIMTdiWVpEUEotbWFvNDBtSmZFWjVWeGk5aERtcGdzdW8tVFBtOFI3eXFhdWg4UHRJdWN1ZnMxWlJxMHgwVmFRWFFKVXRJZFpNbXJoc3p5a29EbjdEY0dKYkxOZFA5VnhzaFlxdEZ5VndWQ3VDNG9HeTNPekszclRrR29sTW82eU95RXRGY2luQ0pmSEhqV0pYOEtRaXZWaG9iMWdicm5iVUF0dTJ1S2Q0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-31 18:13:13",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.6016,
+      "EUR": 4.2267,
+      "GBP": 4.8399,
+      "CHF": 4.539,
+      "JPY": 0.022994,
+      "AUD": 2.4071,
+      "CAD": 2.6288,
+      "CNY": 0.5153
+    },
+    "crypto": {
+      "BITCOIN": 314321,
+      "DOGECOIN": 0.426367,
+      "ETHEREUM": 10667.36,
+      "LITECOIN": 275.61,
+      "RIPPLE": 6.61
+    },
+    "indices": {
+      "^WIG20": 3184.02,
+      "^WIG30": 4086.6,
+      "^WIG": 3184.02
+    },
+    "news": [
+      {
+        "title": "Potężne utrudnienia na kolei. Wstrzymany ruch pociągów w Nidzicy [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkR3cW5nMTg3dVAzd2Q1Z1BNcmNrZGtLOEtmMEhpT2Fwa0JlWVJjSER2NDFBY002SURjaHdONGF6WVV3c1BJRUZuZWFSWjdaejhOenV5dmNRZUZIa3o0UDFlc3lOVWlTajh0YnBLR2h5V3NPQXFxZWV4dDhfcUZ3SmR0cjVaT19aT2gxWnFmd3hNS3UtU2tKaTJ0cl9VRi1DbW4wU3RyLUVNZ3JtOWtGVDNqVmtTQmw0OHhmWVpyNTg?oc=5"
+      },
+      {
+        "title": "Nagły zwrot ws. nowych uprawnień inspekcji pracy. Rząd przystopował projekt - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnM3ZGo2YTNSV3lnMFZBYWpCSTRYOGhjS3dKcjVWWGdlTUdYZ1VrX1lfYXVGRW54UkhsSjlENHA5a0NNeDhLRV9Pd0stMHVaQ1gzQ1EtTzRLNkppNFNFMWh1UVpTTExZeTdqeXd3eXNYLTAyZTFuRnJsRTdlU1ZEamJBRUJna0RiY3htTl94SlZoUGxadFNCLTh2VW9vbEZOT0FKUlZVc3Z6UTR5UWdZWVJOb2pHNHhXeVh2ZDFKempsT1d0enlZ?oc=5"
+      },
+      {
+        "title": "Zima dała o sobie znać. Oto ile kosztowało odśnieżanie Warszawy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWhLbzRKQUplSld6WnhTOTU1QXZxY2ZBb0JDS1g2VVZzakRlQ0R5OEc1bnVYcnpGX2o1dlR2VE9TaTYwNTVWLTkwSF9MR0lBNndHdTZWRGhnTXpvbkN2cXNQSVNtR3paZVFvQTFlQ3UxaGplYkc2OVctY2ozZ1lweTRiNzZDb3FqRlgzTkozSTcwRk9LR015b0ZoRzdwTUFRdmVRa3hROVBEOTVWWHpfd3Y1MU0xb05IdUE?oc=5"
+      },
+      {
+        "title": "Wybory prezydenckie zatrzęsły polityką. Kto kończy ten rok wygrany, kto poniósł klęskę? - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkZJSmdhYURyWUtUNTBwWmFqZmpUR2RPd1JVNVl0MmMtWng0UXlHZUhTbFVtX2tnaTV4eW5iQUI3aVBLYm9wcGltcTJmUHhPamFMdlNMYldqZXczZUpCdTZ0bUI0MVUxRExRYnRPOGFLN29XSnVDQm1SQVVYcXdacVFOcTFvWEFwLVczTFBIcU96bnR1ZDF0RUtxWmdRczBwWUE?oc=5"
+      },
+      {
+        "title": "Zginęła też matka. Tragedia na zamarźniętym stawie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUdNM0NDcGE2RkJCbnhyOGlWdWp5VXdkdDY0UWFVN002V2hGZzdjMXpiVHBoaVdFeW5oSWxnUS1NanJmWHc5YWFVbkxEbnRtNmdUM0JLVTJtMVh0amotalFsQWhVTmtVNFBmV2NIcUY4dVhDZ3FhTTgyZG4waFd6cXpmTlhBTHJzMkhha0VKRWd3Q19JVHdZ?oc=5"
       }
     ]
   }
