@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-30 13:31:29",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5936,
-      "EUR": 4.2293,
-      "GBP": 4.8568,
-      "CHF": 4.5555,
-      "JPY": 0.023042,
-      "AUD": 2.4093,
-      "CAD": 2.6262,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 315889,
-      "DOGECOIN": 0.447196,
-      "ETHEREUM": 10708.6,
-      "LITECOIN": 279.9,
-      "RIPPLE": 6.7
-    },
-    "indices": {
-      "^WIG20": 3175.62,
-      "^WIG30": 4073.34,
-      "^WIG": 3175.62
-    },
-    "news": [
-      {
-        "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. Premier Indii reaguje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEQ1SkgwcWhoazdEM1NyN185LXFGcnJ1dWZtUHZFeGRpRFl0VjRHTFZNQnV0MS1pb1F5RldOVXJGSFZ2VXRadzhsR21fVGVKd3NmM05tRURVdUJnWDdGZ01aSG5hQ2Y1ZU5ZTER0aU1sOTJUeUNsR2xQQmJhTG8tU09LQk1UVmEtQWhLUU5UV1VHTXY3NG8zeHNOZXBkWGtaX0Faam5XSzVIQlpvelRNWEZJNzlTdnNBN2tNUklQNjQ2d1hENGhRb3ZWakMtRHV6N1FnWkZ3?oc=5"
-      },
-      {
-        "title": "Trump wyprzedził Kaczyńskiego. Polacy wybrali \"Człowieka Roku 2025\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQam16cGI5WlhERE9JTmc4Wmd3SEl3U2FIUFNnZXZVM0dyMEoxaFNaU2lIYkxNdTNkRXRqc19IcUEzQTlfTzVUb2p2MzNDVUw0LTNfZnBhVmRWSjEwLTIwXzBjbHM4Q3FxMVdyWk92d2UwR3pYMWJFUFVLcFZWSTVKMFZzLWJJV3RfeDBFR3ljcWFmOTlHQzZHOS1jc2staWo0bWpmMzV3U0g1Tmc?oc=5"
-      },
-      {
-        "title": "Ławrow o Ukrainie: Zachód musi to zrozumieć - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVFvZzdRUVZRMEFaN2Y0aGNxN2xVUjdZSEtXdTRKVk9Sb3MwR3hlT193RV9CSGdfUFRGNHFsTjg4Q0JPSUlNbTRSRmhCdXhwcFQ4X2NXeFA3c0xjNVVRVm5LbG42aUNReFZvUHNBQllWMi1XUHppLUdyaWgwQVFuNklFV0lobXhsWDBQOVhR?oc=5"
-      },
-      {
-        "title": "Bułgaria przyjmuje euro. Czy na tym skorzysta? - Next Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTVMYUk4Y3FPUm04c3JaTFdCYmhNZVJVSUoyTE9FMGdyWE5zTDVTbzFsWDNVRWlENmZpRFc2QjJyUUdmMVp6ZDlhOEpNOXRReXZ3RnRQWDM4QXRjSk9Hc2lDaXNSeFRCdkFwbHNuWWl1cTY4ZEVDbGM5SmZxSUdsOHNVb1FSNUUxZEhVQWpsS0YxeE9RUUZ4djExWDFRVlFPTjMydE9Ea3dQcmQxelZsLQ?oc=5"
-      },
-      {
-        "title": "Uwaga! Od poniedziałku oblodzenie i marznące opady we Wrocławiu i w regionie - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXE2Rm9HcEIwZGRjMklxS0hhclVPRmFKazdVWVN3U3gwdDJPVV9scUgyUXJiTU10Tm1iYlVnOV9iMDh3TTlKMk1id1RpWlZmUTQ5ajlJbjB2N0pHS1NmTHltUG9hYlhPRDZ0akRnanhxWWphOWZ5OXEyRVJra2NHUEtIQmJhdEJnd19IWXAxZXh3WWtmcmNsMWhOYUZVUWU4QnR4cFhWajJRaURtWHVpY1lSRGZIc3lfbXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-30 14:31:52",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Polska w objęciach zimy. Zawieje, śnieżyce, gołoledź. A to jeszcze nie koniec - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkpZWV8xZ3k0cXdrNy1rQXhmREtOSkxUa2ZBWEhrMzdDUFBEUEVHMVRONlpDeVVUcjYybG9zd0NwTzR5V3BweEgzMHNkOU9pbmwxZ3d6VHlqWlBFRG5SUThHWEl6U0tiUjFwdGxiazkyMjc0NHJ1cC1IVEtXT0dpY0YzX056S250MEFjeWlLcnkwcEZDVTdRYUVDV2paXzI4V2UtUDJjRGQybnBLYmhhRVhWZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-01 19:21:53",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6016,
+      "EUR": 4.2267,
+      "GBP": 4.8399,
+      "CHF": 4.539,
+      "JPY": 0.022994,
+      "AUD": 2.4071,
+      "CAD": 2.6288,
+      "CNY": 0.5153
+    },
+    "crypto": {
+      "BITCOIN": 316745,
+      "DOGECOIN": 0.448257,
+      "ETHEREUM": 10736.04,
+      "LITECOIN": 283.61,
+      "RIPPLE": 6.71
+    },
+    "indices": {
+      "^WIG20": 3184.02,
+      "^WIG30": 4086.6,
+      "^WIG": 3184.02
+    },
+    "news": [
+      {
+        "title": "Tragiczny pożar w Szwajcarii. Jest głos z polskiego MSZ - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHpDWmcyTWhkdWFFOUxSUndRWGlBR0p6X3gyRmcyRFVHU1Z1NXRfMWhGaHdIRDZ5YkduaVc1b1hBOVZSMkJZcHd0Rm5jdVFGTXFoLTVYNTFMMkdnakUzNENteFdNSHJjalQ3NkFMYlZjYm1YOXlZR2VicUN3WW5zeTZSWmtjbG5Ma1hLWlBLUjM5bmx3aDJJc0lwZ3pqZw?oc=5"
+      },
+      {
+        "title": "Zwrot w sprawie śmierci dowódcy Rosyjskiego Korpusu Ochotniczego. \"Porażka służb specjalnych\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUGFneW85cXJMTHRGV3VoMXNXT0ppT2xTS1VPWVF1aW9Zb3pudGxJNE4tc1p1WVNFbU9jOTNYZWdYSFBTTjBFQVRZaTZVTWVXVk1kOVFIanZCTXB5SWNhU1dJUTlYM1gyVExoYnZuU1JUZHh5UTBxamkwRWZ3Z0xjVFViQVBDaV95V1dJcnJ4ZUJ0VEU5Y2Z1X0wtVHQ2R2hDbTctSm5sNkJKRFdXMlA5ejVsR3c3clhCdFVWSm9IemRzT3F3QkJYeTJpb0FQX2tEZkc5eU1YVUs?oc=5"
+      },
+      {
+        "title": "Nowy demiurg i nieoczywisty generał. Czym będziemy żyli w 2026 roku - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2RCNkhmNUl3Tkt1Sm5fYjVNVW9pMkpPNGVWaUJrLWxhX2pBamFucGEtUVRtRC1NZHZ1d2xWclBETkV2aFo2SVk0S2ZHcnhmdEI5czVqTmo4MmR6Qm9wQnlpOU5hWVBkNm13SzhsWEh6Z3ZWTTUxYi1GSjZqbVBZSm45Z1NrQ2F4N05BTEFHbllyWGVtYXQwdG11RkJJYkYweXBMUmdSdlM?oc=5"
+      },
+      {
+        "title": "Ostrów Wielkopolski: Pijany kierowca potrącił kobietę na chodniku. 37-latka nie żyje - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm9jWWZrQ3BhX212ZDBkMGYwdElZTGczdnFkRldLWjQ1SmdpS2dWTmJqNlIxazBIaElwUXJQOElHaEVyQUtrMUppV2xab0V1Zm9NM2JuQmVUdGJ4UlFUSzlnWkVZM2gzMFNiNVMwMy1KQmdUU1Z1cE9VOFFTSGRETERVeGEtWVNmYTQtUjNqUmx5M1lyYXUxU3hFTGwtLUdOajRFcHJwVERjLUJCNlhXWDUtdw?oc=5"
+      },
+      {
+        "title": "MSWiA zaostrza kontrole tirów. Decyzja po sztabie kryzysowym - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjZuRnZ3TWhQd1lHNWxXUldGeVc1MXB1YzNpNGEtcDVpS2N4aE9RbWVPTW9IdDV0aVBFcTBkVjl0SERhQVlwTkkzREQ2dEJIRlRHNzRlY0NKTTVHNlFpbVpraV85c2s2X1l5Z1RFcW51RlZqellSOEFNeTRCN2c4QUFkV2dUQ1RjNF9tM2lfOU1RQV9jUnUwek42eUtaZlB5dkxIb05ESVlWTDl4WmxURy1fSHI?oc=5"
       }
     ]
   }
