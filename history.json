@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-30 20:13:15",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.5936,
-      "EUR": 4.2293,
-      "GBP": 4.8568,
-      "CHF": 4.5555,
-      "JPY": 0.023042,
-      "AUD": 2.4093,
-      "CAD": 2.6262,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 316187,
-      "DOGECOIN": 0.441674,
-      "ETHEREUM": 10608.59,
-      "LITECOIN": 279.74,
-      "RIPPLE": 6.73
-    },
-    "indices": {
-      "^WIG20": 3184.02,
-      "^WIG30": 4086.6,
-      "^WIG": 3184.02
-    },
-    "news": [
-      {
-        "title": "Woda z Zalewu Wiślanego zalewa Frombork. Trwa akcja strażaków - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3ZNdFprUlkxTVVUd2g5STNFR2FLS3hWMkRWZzFCWkp6ZF91QXJqWkZ4OVRDWnNONVlJRUNCNjlUM19pLWtudURGOERqRk5KUjZ2OHNfaF9Dd2hCTzFsZkNlX0pYTzhsUC1kWTlNWUVFdXl2NllYR29MRXdJaGdfZ0V6UmZ3WmR4STZGY0JDUmJYR2dNcUVTUlhRWlFkWncydi15Y0M4WlM4RWlXa04yYTdEcGhMN3puM0Z4Mw?oc=5"
-      },
-      {
-        "title": "Nowe informacje o śledztwie ws. Kononowicza. Prokuratura podjęła decyzję - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1NxcE1TUjhzWGNHSGtvc2lKbmFGZ0JlMVNlN3M0NUxnMlM2MnJjNXZ4aTBzek13aGxTNVhrakFTaTJTOG9JcDc4cUdOR0pCbkRQclIxdWZPZ25FVzlPODR1Xy16NUszcDlQZTVMbU9OY2wwdkZHeVRFd1BaYXc5YVhLdS00QzQ3RW1kSFc2MjgzRU9zRkNGOVhWLTNYSVlSTTRPbVJMU19uQ0FaQUxlcFl1LTRxMU5KeVFtTVdQZ3k?oc=5"
-      },
-      {
-        "title": "Drugi akt oskarżenia w aferze wizowej. Zarzuty wobec byłego wiceministra - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnROcElWRzI5cWVRck5hVldUWXdhWEpmYU1wNDl2REEyVjF6UDNnUDdNdjRsb0JNbDBlRHlLZ281YTk1OXNQaTBUTGZlVnNoWmV1SWhoSFRQeDlsVDgtSnIyLXYzeVQ0ZGgtNWh4T2FsUU90ZHdkYmJIa0JFeHo4VlFpZlNNMXNfOWJCby1UUVVlTUloUWFydlVyNS1jWDBLZUp6WFZNanYwcnB5cUIySnh2dTc?oc=5"
-      },
-      {
-        "title": "Przegrani 2025 [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNXFlMmhfZnUwOFV0RDRMQkM4bW9lNzZBdkM2ZkZXdGZ5RU84MFhMZk5YWHYzdjhON2JGeU9Zb0lBWjZ5Q3VFa1lZU3JOc21sX1RycU91NGlobFRkQnRDakxvcVJaWFU3NERyTkZvTmhadw?oc=5"
-      },
-      {
-        "title": "Wiceszef MSZ odpowiada prezydenckiemu ministrowi. \"Oszczędnie gospodaruje prawdą\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRm1oWlNpekwyMnY0VkI2ajEydzdfSDZua1J2LTViZGJUVmhSM2pQQmlSUmhXYWpXNzEwOWdwMkFObDlhRHN6NlFRbVJrSEE1clI3N1VmSDJZbzFKSUxtb2IzLTlIOGdRQkI4OURIZEhlT0ZnZ09CMGVkcVhGalc2MXNiNlgzdTFGbWJ6V28xZFJKalFrdFRfa3RVaW4yZjh0ci1SMGZYZ3J1cDlfSWpjam1iTjVOMXphRWVNTW9qRnV6djRCajVfanNBbWZfSTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2025-12-30 21:17:04",
     "weather": {
       "Warsaw": "Warsaw: -2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Pociąg utknął w zaspie. 180 osób uwięzionych - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQUwtWlZpOUJoR2xlMjVnRExSMV9Cb3RxRGpBSmtVMzZRbkljam9sSDBiUXdQc3ViNUJjV3VnWlFDWlBENFdLRzU3bXJBUzUtdEtBYU1tekx5UU05cFUzbW8tRlJHMFBUQUlvYU4yc1JxYVlKdlVVTGw1M3hNSm9GbUpBa19RaUIyUmVlUm8waw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-02 04:25:27",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.6016,
+      "EUR": 4.2267,
+      "GBP": 4.8399,
+      "CHF": 4.539,
+      "JPY": 0.022994,
+      "AUD": 2.4071,
+      "CAD": 2.6288,
+      "CNY": 0.5153
+    },
+    "crypto": {
+      "BITCOIN": 318083,
+      "DOGECOIN": 0.455303,
+      "ETHEREUM": 10781.95,
+      "LITECOIN": 286.04,
+      "RIPPLE": 6.74
+    },
+    "indices": {
+      "^WIG20": 3184.02,
+      "^WIG30": 4086.6,
+      "^WIG": 3184.02
+    },
+    "news": [
+      {
+        "title": "Awaria pociągu PKP Intercity na trasie do Gdyni. 180 pasażerów czeka na pomoc - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEdQVkt4VXEzeTJvNlNQbTk1Qm5kem1UQ09oUWpRRG9hYjNOTnZNbUVzdXV5NmdZdnlkMW0tTlo5WXFhTzgzbzZ5aEJZUTYySEtOdzdVVms5OEZqeWdpZmY5c1hRbzhqWkpNTUNYODhuRU9WMVV0dUtnMlRRX185LWd4MEtra0VqQTVFWVdhUXBzV080aUlUc2xONXVab2lTSmxWbWhtVm9XNm9ka0x2eDV0ZEpqdWNRMU00RGszb25UbDlOZEllMg?oc=5"
+      },
+      {
+        "title": "Zima na dobre zagościła w Polsce. Oblodzenia i silny wiatr - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnI3a2RmNEprSFZYNnU4YXpsa25rN2RyWFpfcXFhajVveFdiTnFaYXlYUDhiYTA5RFdkU29pdUgyaUpxdmgtU3JIcklseHYzUDFwaXNCeC1URFp2NFo1YU5jbV94RTllbWZ2SUl5T3BTci1jc2RmSUotU2R3LVdmOGxfdWs3cWl4MFExOTZqNno2czVyYmJTSVdMd1lMQlUyT3M0?oc=5"
+      },
+      {
+        "title": "Pościg USA za tankowcem. Kreml zwrócił się z wnioskiem do Waszyngtonu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNk9vUXdZbld3ZUhHZUhCMk14QVJ3dkpVNlRHWFhKTWFwMG5ha1NnUnJzckJkNlJ1dW1OeTg4dkx2dzRZT3JlUmpqTDNJQ3pRaFZ5TVBHZUxZc0MzdVZuRjhMeE5XNXBfVGIxRXlaTE1DTUFIOUdabThZTHJOYW40V1hmOENVajZ2bUFhZklrTEh0OWsxREhuejVFVVlwSHA1U1UwQUItOGV1M0RrUmhKOUhrNll6Nk15Zm9qVUpoemVlWEY3M2l3TlpMVQ?oc=5"
+      },
+      {
+        "title": "Tragedia w Szwajcarii. \"Nadal są rodzice, którzy nie wiedzą, co się stało z ich dziećmi\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTZhcnk3RDlzMk9YVVVVckY5aEdRc0RrcURQUVJVMzZyaWpsUjhkWnF2bVRJOHRIWC13VEZPSXZPM0haT0s3OGJ4QU9DbUMyNkgyUkljdVl6eDZJeHZ6bUFPMUtFSGRXWmh4cHBCVkFBRDhWYmktek50MEVBYXZ6c0pLeXByRDlkU0FHalIxWFdKTXFYd2d0TUhkc0pQQTZ2NXRMcXBZbDlrMVFhUk45NUFUNHpGbVY3SHRzZnNn?oc=5"
+      },
+      {
+        "title": "Noworoczne orędzie premiera. Przyspieszenie i dociśnięcie śruby - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVFyVnpjZTF2WUZsVHRndXN0WXVueEhVSlZZZS15ZDVSUGNUNWNMY0xfSW5uVWZYNlRIREk5andzSDVrYkVwYndQYVNybGIyTTkyaXFxRmFlWGIxb2pOaDYxcDAxalJhQzVIQmpKYTN0VTFneDRTY1ZLRldiclJsSlYzdXNxdGs3UmZZOUZvenl4enBzTm5vNnBWQ18tc1VNTEcxOTVFSnNFY0NhUDBTQWFDR0syRU0?oc=5"
       }
     ]
   }
