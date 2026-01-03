@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2025-12-31 23:15:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6016,
-      "EUR": 4.2267,
-      "GBP": 4.8399,
-      "CHF": 4.539,
-      "JPY": 0.022994,
-      "AUD": 2.4071,
-      "CAD": 2.6288,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 315346,
-      "DOGECOIN": 0.421042,
-      "ETHEREUM": 10702.94,
-      "LITECOIN": 276.08,
-      "RIPPLE": 6.62
-    },
-    "indices": {
-      "^WIG20": 3184.02,
-      "^WIG30": 4086.6,
-      "^WIG": 3184.02
-    },
-    "news": [
-      {
-        "title": "Znów możliwe są utrudnienia. W czwartek przez Polskę przejdą zawieje śnieżne - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc3dNc2lVWF9GYjRtMmtWZXFwQmtpa2lyZFVYUGoweE90Ym0tZUh0MkY4cXh4Sll5d3pIQTZMWmN4N1F0TGNDa0d1OGoxbVg0a0k3T09VVDJyd0pfN29QV0cyNkFJUGF5dlFjRTBfVnpWS25XbjhDelZtN1B1bE12RWg4TTRLRmlvZkl6eG1hMjBpWkJNOEhBNVN2MVc3M3hSaEpkVmo1Unl0RnJsSS10OThKbFNuZUdOYlBUVHBfaXhsX1FKRWhJaXJjUnNEQQ?oc=5"
-      },
-      {
-        "title": "Ruch prokuratury. Jest akt oskarżenia przeciwko Robertowi B. - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0t2bW4xd3hvbE9QSUo4UTJlX2xMa21MOXBpLUIyMFdMYllYUEhJa2lHOFJOeW9fUE1fc0lXSk9BXzFEUmljdnNJQ0VtLXlJSlVfYlp4YU5Oa1I1czJJY1VXNUxFTFRRaEo3Y0hSTTB1U1liTDBoeDNBemQ5bUtFaF9IbGIxYVVTMVh6U001VG9qVElYbGNfMFA3R2VjTWFNUW9J?oc=5"
-      },
-      {
-        "title": "Zima dała o sobie znać. Oto ile kosztowało odśnieżanie Warszawy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWhLbzRKQUplSld6WnhTOTU1QXZxY2ZBb0JDS1g2VVZzakRlQ0R5OEc1bnVYcnpGX2o1dlR2VE9TaTYwNTVWLTkwSF9MR0lBNndHdTZWRGhnTXpvbkN2cXNQSVNtR3paZVFvQTFlQ3UxaGplYkc2OVctY2ozZ1lweTRiNzZDb3FqRlgzTkozSTcwRk9LR015b0ZoRzdwTUFRdmVRa3hROVBEOTVWWHpfd3Y1MU0xb05IdUE?oc=5"
-      },
-      {
-        "title": "Spięcie Leszka Millera z Anną Marią Żukowską. \"Zwróciła się do mnie per »obleśny dziadu«\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDdydVo4U1BPVjlrZmgzOTV5TmZiTlhxX1BhWGUyczdSS2kwX0YzX19fanhBVFpsYmNQeUVOVm9pUDFfTTJCTXF0S3hGbTdBT0VNT0U2ZnRaRmFKYk5iQ3AteG1weHBHSUtFNWRISkJ4YWI3bjdkSE8zaWJDaGU5ZkR3MzZ6Y2Fib2c2eUFaeDRzd21Da25laVF4MWdXSkVsb1FoQ00tT1RGUGxJakd3?oc=5"
-      },
-      {
-        "title": "Życzenia na Nowy Rok 2026. Oto propozycje rymowanek i wierszyków - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME0xZTN5NUI2aHNMLTBWZXJabVBfV2dfUXpLS1c2N2pYVEdkbUdBOXN0eWNnaXBFRWc1ZWJQbHpCelJ0WVRkVWhlQ1Y4TElwZ2tldW9Zb2p4YnNkXzJJdWswV1M1V3JTc3NPeFoxUjVPVGVsMGFEWkFucFRrbWZZN2JwTE0tYUp6VlI1UHU0YVg4V1l2QWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-01 00:14:08",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Wstrzymanie ruchu pociągów na linii kolejowej nr 216 (Działdowo - Nidzica - Olsztyn). - PKP Intercity",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbi1kVnZYWmxwNFZ5eFZGQUNwZ2JIbUtQSTlKd2dnUHU2cVR2REdIR3lkRkFZNnJfQXY0TkMwZ0FXU3ItRDRzZnZSUmlvZHpfUk0wMTR5bkJmTVZ1Zm42bWtsRFVLZXM2UENNZDJnd0R6a0J6ZlZQOEg2Y0VUcm1qbjd3c2kwb21mRTBhR0QzTWdGZGFWY3ZkSHFwbVVBMzhQZXlLREhnaHhuMmpwNVlwbUllY1FSZHhubGNZZEcxZVl5T0xyTWxzNm15cUZzZUprZFY4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-03 07:22:49",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.5963,
+      "EUR": 4.2156,
+      "GBP": 4.8391,
+      "CHF": 4.5314,
+      "JPY": 0.02292,
+      "AUD": 2.4092,
+      "CAD": 2.6212,
+      "CNY": 0.514
+    },
+    "crypto": {
+      "BITCOIN": 323307,
+      "DOGECOIN": 0.515206,
+      "ETHEREUM": 11174.01,
+      "LITECOIN": 296.93,
+      "RIPPLE": 7.29
+    },
+    "indices": {
+      "^WIG20": 3262.48,
+      "^WIG30": 4184.48,
+      "^WIG": 3262.48
+    },
+    "news": [
+      {
+        "title": "Pożar w Crans-Montanie. Właściciel baru zabrał głos po tragedii - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXNxTTBMR2R1Z0xzNVJyNkgxRFpmb200UHlBQWFxV1ZTdGxvMERxc1VNNEduN29UMVJKMUJnV1NaZWFERDRaWk50TXpVOEc1dlNraUdWVDRZOFcyM203eHgzU3ZOTlh3SjhmT0hqbjRzT3JDRGhrV3lIR3R2MURObWx0ckk3cFpUSU4xM29uaU1MbzFGdzRraDlJT2FBbzJRaFdTVmp3?oc=5"
+      },
+      {
+        "title": "Nagie zdjęcia polityków z AI na platformie X. Władze podjęły działania - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmJWaEN1NTZva1JJZ0M5MG9EYVZwYWRLR0pucklhQ2k5X2FITnQ5eDZoaEJpdlhiU1dsdVZ4TldFWjZJWWp3RTNEWkVSeFJTakRNaGxwV015R3UtS0QtaXl3bHdDNWRBcURtYVMxRVpxYzNNVkQ0dXNrNU11ZzFsNldfRUowYWUzLVJHdDRWa2l1UUlxVHBuZTkyeWRXMWw1cmlEU3NGVER6N2lHR0YyUTNCanFVSENSekpjMEJ2VENjckVBU2VuaGZn?oc=5"
+      },
+      {
+        "title": "Polska w 2026 roku pod znakiem \"frontu gaśnicowego\"? 10 lat temu \"Braun wydawał się memem\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSF9mYWJtY05oRjl5SmxSdFhhLXc3dmdwaUY0U1BXR0hEaXB1aU5fM3FCc0dBUE10c3otZWlZa0ZLMDhQYi15Zk95a1JkRHR6NkNNNGhGNmtERkszTEtfSnNjTUlQcUFBSmZNcmZ6MEtyanBsbFpwbFdfNFJYY1RiVXpyTWNHS0VUa1VfSUlOVE1KQnVSOXZHSGhuamlYSnhxTnVGRUVmX2tXVnNSUWVZQVEwRjNUUQ?oc=5"
+      },
+      {
+        "title": "Pilna ewakuacja w Ukrainie. Władze wskazały ponad 40 miejscowości - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ3hwNVF5d1JkR2kybXVFNk9PWlBLeFJjOEhDcG5GVUJDd3RSTlFPUm0weGliSWJ6TW93VnpsR3JmWlZKVlM2c2RidmtDS29PQ3JDLWVyc1lQQVczcXltc2VfZTlzUzhZWWF5eXhQYWdya2I4X1JEc3FLdkRWclRxaXk3Xzhncy1PSE9ZNEdFcTJ5c01INUFHczh3ZTdPdG1mVVdfMHhyY1ZvN2V5Y0E3TDhR?oc=5"
+      },
+      {
+        "title": "Nowe zasady w ochronie zdrowia od 2026 r. Minister zdrowia punktuje priorytety - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcTB3R2FpenNpeGV4WlZWeTdYY1pqTFlyUmtJRm1zMzFfQzdMNTlIWnVMRmt0cWJBaUU3VEx5cmgxbW9fdDNKbGFwTjRDXzdYNlR3aHphUTBSeTBCSFByQ2hxNGthMWRTUFBhZF9jRF9oM0hvNGZVcm1WZnhSX3dTTVpVRkN6QXA3aE9vcHc1QTM4VXpXcThVOGxUdmVBcEVLOGYwdUFvVk9kUFhuVGhYZzdtS2RocnFFZWFJX0lDOTB6VGN4M2FwZHk1d3FsZ0thN3V0NlVhVi1rV21WcTFLdkxtQ1VsM3VVVzlWUkJNcGVSSXhQQWhaQ3dQMWVfS0pFVXhoWW5n?oc=5"
       }
     ]
   }
