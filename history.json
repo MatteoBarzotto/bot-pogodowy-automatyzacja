@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-01 22:14:12",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.6016,
-      "EUR": 4.2267,
-      "GBP": 4.8399,
-      "CHF": 4.539,
-      "JPY": 0.022994,
-      "AUD": 2.4071,
-      "CAD": 2.6288,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 317480,
-      "DOGECOIN": 0.452776,
-      "ETHEREUM": 10748.31,
-      "LITECOIN": 285.25,
-      "RIPPLE": 6.72
-    },
-    "indices": {
-      "^WIG20": 3184.02,
-      "^WIG30": 4086.6,
-      "^WIG": 3184.02
-    },
-    "news": [
-      {
-        "title": "Tragiczny pożar w Szwajcarii. Jest głos z polskiego MSZ - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHpDWmcyTWhkdWFFOUxSUndRWGlBR0p6X3gyRmcyRFVHU1Z1NXRfMWhGaHdIRDZ5YkduaVc1b1hBOVZSMkJZcHd0Rm5jdVFGTXFoLTVYNTFMMkdnakUzNENteFdNSHJjalQ3NkFMYlZjYm1YOXlZR2VicUN3WW5zeTZSWmtjbG5Ma1hLWlBLUjM5bmx3aDJJc0lwZ3pqZw?oc=5"
-      },
-      {
-        "title": "Zima jeszcze nieraz przypuści mocny atak. Są najnowsze prognozy na styczeń - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGlmT3I0cGwyeFdZZXN1aWJkQnB3Y3Z5aTBaYTZ4UTRBSy1CcU9zOFVNeFhzX1pzbkIyLVBscGpwNEgtc2VpaVEyZGtnc0NkQjRhTkxsOTJoOWM5LWVabUFtcVRtcmJkWmtMVE5FQU0tM1J6eERJVEgzLUVfUDFCNlI3bDlwOW9fU2w5aTNhVUtMS3g3UUpzTTFXcUI5dUY4aGt5UTdITXBqZTVHbDA5QWlqeXRJbzA3d1JBZlFaM0tNUmU4Rl85Qg?oc=5"
-      },
-      {
-        "title": "Noworoczne orędzie Donalda Tuska. Premier mówił o \"złotowłosej gospodarce\" i kibolach - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1VRRTM4WDgxYTJxbWdFWWNtSmVyMTZJLTZlUTd6WTJUTUh1U0dCRktOV28zVzc4RDFpSENMM1lyLUoyRDJkSHZLRnFWOUZuSWdUYUpOZ1d4SHhxVHViQ1RmME01VFoxcjR0ZzlBbFZYRTlvTXMweS1UN2F3cl9LaldmbVZ2RlgwcDNsRDI1d0czN2hJZXRjd0o0RlVlRFFq?oc=5"
-      },
-      {
-        "title": "Tragedia w Giżycku w sylwestrową noc. Policja publikuje nagranie z zatrzymania - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEhmdVdTSXhSS3BhczlNcGk2WDloczZOOUxpSTlNSW16ZXlreGpDZ2NwREtJNnNObUtXUHY1R1laY0c5Rk1LTk40R2NHR290OG93cmk1XzdWY0JzN3pGdG8tWU5IQ1RvYnNGbVpWNF9iNzNyTmJGdDM0bkhPRkFCdkJ2OXZjQnRQZmpNVm5wTWl5S2lxd0FyMUJnLUV4VEtFeWdn?oc=5"
-      },
-      {
-        "title": "Nowy demiurg i nieoczywisty generał. Czym będziemy żyli w 2026 roku - TVN24",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2RCNkhmNUl3Tkt1Sm5fYjVNVW9pMkpPNGVWaUJrLWxhX2pBamFucGEtUVRtRC1NZHZ1d2xWclBETkV2aFo2SVk0S2ZHcnhmdEI5czVqTmo4MmR6Qm9wQnlpOU5hWVBkNm13SzhsWEh6Z3ZWTTUxYi1GSjZqbVBZSm45Z1NrQ2F4N05BTEFHbllyWGVtYXQwdG11RkJJYkYweXBMUmdSdlM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-01 23:14:47",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2580,6 +2528,58 @@
       {
         "title": "Nicolas Maduro wylądował w USA. Prokuratura pokazała nowe zarzuty [RELACJA NA ŻYWO] - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1pkZVJRU0hncUo5b3p3YjFFUFJEaHdDWjhJNjdVLTVLNzFjWk8tWWhILU9ZQVVudGxUYW11LUdNRzZkSVVsdVdSZ1g2MjVhNkt2T3JpUEswUTMxLXJycjN6UmNxV2poS183QTQ3V2dMUWdiNG5zdEpLajktR1VqanRSalZoM2FhdC1XandOcDNYcUJFX0QzckZXS3JXN2VpNFItejNuTXB5ME9lRHdmUDBJaw?oc=5"
+      },
+      {
+        "title": "Po tragedii w Szwajcarii. Jak tego uniknąć w Polsce? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlRlWHYwMlE5ZUNTS1A5WktXdUJFcUdpNWJwUWxwcjNQNjB6VHlTai1MaGN5RDNpSy1QdS00R3lwUkh0VEo1QzlUaVpyMWQyVEZPUU9JLXR2ZXM3cXZub2h5WDA1MFkyY1Jnb3NWTlUwV3FXWnRkNUdYWC1HSVZfaGY5LTdKQVVnXzBTTXBWVk9xQzhEWVhoRUUwTC1ZY195Wm5PSTVYZENSU3hwR003YjlDd24?oc=5"
+      },
+      {
+        "title": "Przemarsz Orszaku Trzech Króli w Wieliczce w dniu 6 stycznia 2026 (wtorek). - Miejskie Przedsiębiorstwo Komunikacyjne S.A. w Krakowie",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nY1RtVU5BNGVmNWltMmZNSHNPbXh6ODViUkEyYWp5aG1OSHV6dzdkRFlHSzlfS1YxNWNJWTkyRGpfX0xnRGV2RnhuLWFYY1E?oc=5"
+      },
+      {
+        "title": "Atak zimy trwa. Wzmożone kontrole ciężarówek? ITD mówi, co się dzieje - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVlSSnZoVy1PSW04VklDNlRsOXhtLVpDckhleElCdWZwa2JuQU5YeEZWN1FRZDFNUWxRYkNmdjZBOHc5T3MySlhQLWF3bzUyTTJxR0YwYUVVSE1FQU54V0h6c292WDJOWE9ES3Z1OUJqTk5yc0JiWGZLNlE5SldqWTVsQTFlRGRLaXBTR0ZGWWRQeTJ5a3k1X2VnQ1JMNnkzekFfLTFaUjdCZXdwT1BSbk5Ba0RkSlVTbzJ4TzJR?oc=5"
+      },
+      {
+        "title": "Stadnina w Janowie Podlaskim zdewastowana? Wiemy, w jakiej kondycji jest obecnie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXd2VXlVeW5kUF9QRl9WQXRtcXl1bjgyQ015SGZYS1RiQm93dGdtLWZzWlNpbkhqWU9UMkZLUXB5TU1aeWhpekh4bF9TLVlybFpQSG5jMTA3cnRqVzhpRkFVbV93Zzdva050VlQzLWpQNWpMS3RDWWU2el9IS1czenJNNmU0cGNMa3MyVDZxcjlTVmV3NGxKM3RBRDMtYTRlZnczSi1PZTNLMmNvcC1xNGRFQWNWSkd1S25OSmRvczkwZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-04 06:20:53",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5963,
+      "EUR": 4.2156,
+      "GBP": 4.8391,
+      "CHF": 4.5314,
+      "JPY": 0.02292,
+      "AUD": 2.4092,
+      "CAD": 2.6212,
+      "CNY": 0.514
+    },
+    "crypto": {
+      "BITCOIN": 328239,
+      "DOGECOIN": 0.54622,
+      "ETHEREUM": 11308.27,
+      "LITECOIN": 295.88,
+      "RIPPLE": 7.42
+    },
+    "indices": {
+      "^WIG20": 3262.48,
+      "^WIG30": 4184.48,
+      "^WIG": 3262.48
+    },
+    "news": [
+      {
+        "title": "Kamala Harris uderza w Donalda Trumpa. \"Układy z kolesiami Maduro\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHBvUnp4dXIxLWcxdTc5Y0NvU0xYNG50YXhLOWVOcFVCN2V3UGV0MnNwWVdOclM3ZTl6MjJUUW1qc3RLYzNidmMyQzBVVWlqTzBkbzJVZlNfNnM1YXFDMWdrd1Zkc2pWNEQ1QWozU21wU1U1bk8ydEVnXzJqel82eEpJRGpxcHdZSXFzMWVORzBQeTQydkppczdZOHZfQzEwdmJJdWNNMGR3VzJjUzlobl9RclpaUFFKN1NrcUdEeGZfSDlG?oc=5"
       },
       {
         "title": "Po tragedii w Szwajcarii. Jak tego uniknąć w Polsce? - Business Insider Polska",
