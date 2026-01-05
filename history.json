@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03 17:17:11",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5963,
-      "EUR": 4.2156,
-      "GBP": 4.8391,
-      "CHF": 4.5314,
-      "JPY": 0.02292,
-      "AUD": 2.4092,
-      "CAD": 2.6212,
-      "CNY": 0.514
-    },
-    "crypto": {
-      "BITCOIN": 323124,
-      "DOGECOIN": 0.507087,
-      "ETHEREUM": 11139.73,
-      "LITECOIN": 292.58,
-      "RIPPLE": 7.2
-    },
-    "indices": {
-      "^WIG20": 3262.48,
-      "^WIG30": 4184.48,
-      "^WIG": 3262.48
-    },
-    "news": [
-      {
-        "title": "Prezydent Chile potępia atak USA na Wenezuelę. Apel o dialog - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUFEaUw2NkhUYlR2UWpvMlpDTkp5Tm8wWWxNLUt3M3h1ZHN6dEw5R0t1bTVMZ0tsQlNqVVRuVnJVWkxZcHgzZ2o5OEVhN0h4bXdZTHAxUWktWF94TFdxVGVLVGx5cnhaREtDN1YtV1JBbHVpXy1zMjFtMnY1ajVfZ0twTDVtb0N3UWZxamNjSXJqUEloRlhKTmFGanZLUy1HRGNOTnNneTRrUWNmUzZwUGRYYy0?oc=5"
-      },
-      {
-        "title": "Mamy prognozę do końca lutego. Przed nami wiele zaskoczeń w pogodzie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNEp1RnFLZlBhRnBudHhfUEhCUDVRbnBOc2ZwUjdwOTA0UmtYT1VkVTJxN0EwdXhBRDF1UEM2eW9XOG1rZFk1X1pQRUVqOWl2OXVpd0d6Z0pjdlE0ZDFzY0ZmUTRpbHV2c3FueGtrc05yLVBIdnpQNmdGSHBXOHI2Ykd2ZUNpcVU4NVBhV2VLb2dGSktnNHlFT1NGOEFMMDBfX05yMXgybzdBYXh5ekV1MS1oUlJ4VTEwSVo3V2JOZi1BUTVUTDlNOFV0NmdnUVM5S19HRWtLY1Vidw?oc=5"
-      },
-      {
-        "title": "Po tragedii w Szwajcarii. Jak tego uniknąć w Polsce? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlRlWHYwMlE5ZUNTS1A5WktXdUJFcUdpNWJwUWxwcjNQNjB6VHlTai1MaGN5RDNpSy1QdS00R3lwUkh0VEo1QzlUaVpyMWQyVEZPUU9JLXR2ZXM3cXZub2h5WDA1MFkyY1Jnb3NWTlUwV3FXWnRkNUdYWC1HSVZfaGY5LTdKQVVnXzBTTXBWVk9xQzhEWVhoRUUwTC1ZY195Wm5PSTVYZENSU3hwR003YjlDd24?oc=5"
-      },
-      {
-        "title": "Przemarsz Orszaku Trzech Króli w Wieliczce w dniu 6 stycznia 2026 (wtorek). - Miejskie Przedsiębiorstwo Komunikacyjne S.A. w Krakowie",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nY1RtVU5BNGVmNWltMmZNSHNPbXh6ODViUkEyYWp5aG1OSHV6dzdkRFlHSzlfS1YxNWNJWTkyRGpfX0xnRGV2RnhuLWFYY1E?oc=5"
-      },
-      {
-        "title": "Atak zimy trwa. Wzmożone kontrole ciężarówek? ITD mówi, co się dzieje - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVlSSnZoVy1PSW04VklDNlRsOXhtLVpDckhleElCdWZwa2JuQU5YeEZWN1FRZDFNUWxRYkNmdjZBOHc5T3MySlhQLWF3bzUyTTJxR0YwYUVVSE1FQU54V0h6c292WDJOWE9ES3Z1OUJqTk5yc0JiWGZLNlE5SldqWTVsQTFlRGRLaXBTR0ZGWWRQeTJ5a3k1X2VnQ1JMNnkzekFfLTFaUjdCZXdwT1BSbk5Ba0RkSlVTbzJ4TzJR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-03 18:12:27",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2592,6 +2540,58 @@
       {
         "title": "Zakończone utrudnienia w kursowaniu pociągów KM, SKM - Warszawski Transport Publiczny",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXE0WmtJcTdMUmM1RzItTWZHOWxQOHNsUjR4QnZNV0NEYjZDSzRGYU1OeVlseVRxN3IwaHpKQWFZNEp3T1NkUEZXTHZVX0FiSmFCSGYwaHdhZFpWS0IzQjBkRnpCY2tmeWZNanRtRmVYekJscEFMaGNXSFh4VEM5Rng2UVJPS3hDVDVPTVpCdGZoYTg?oc=5"
+      },
+      {
+        "title": "Trzy cele Trumpa. Ekspert mówi, co USA chcą ugrać dzięki akcji w Wenezueli - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2dlRlZVX2ZxZDlrbmlYbnhQcHhtMW5iQTFSekhGc0NKa1c1RHlBbTJydzRRZVBjTTRCdUFWaVIyLTNWR0M0bWZTV3FqbnJzR1o0RmQyQURZVmxnQ3NTczNIdTFuaE05b1JiZGdiSXdzMHBuU0x2aWdKMDJNdW1IajRtRWxPa2JLNHM2VFQxYm9pRGFLYXN0ZXZQTVpWbmV4TW5GSjhkT1Fob01tYlM5UF9faDVsb2ZNdDRvc2lUdkJZSFBma3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-05 23:15:10",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6045,
+      "EUR": 4.211,
+      "GBP": 4.8458,
+      "CHF": 4.5263,
+      "JPY": 0.022969,
+      "AUD": 2.4062,
+      "CAD": 2.6163,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 338377,
+      "DOGECOIN": 0.546366,
+      "ETHEREUM": 11628.03,
+      "LITECOIN": 301.16,
+      "RIPPLE": 8.36
+    },
+    "indices": {
+      "^WIG20": 3258.52,
+      "^WIG30": 4186.16,
+      "^WIG": 3258.52
+    },
+    "news": [
+      {
+        "title": "Jak \"czarne złoto\" pogrążyło Wenezuelę. Polska mogła tylko zazdrościć [GRAFIKI] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUVma1RuOEQ5VWV1TVFRVWJkVTZCV2NnZ3hjc1VTYWF3YWJOOERTWU5Ccy1LdkVERkU2RWtCLXdacjg0X1dPZ01qQ1Bldm9QOWt1OHVoNDBDenZ2Sk9ZdHF0NUc1VXkwNG1wdEdJNzdlWF9BcWVyazkwaFM1aWN1UXJfVnFyT01sSUFtZTJURllHaGtQTGV3WG85VHd2ZVI4OUwtOUx4eUtWTlVQQjBCc3RQSWRkUQ?oc=5"
+      },
+      {
+        "title": "Trump chce Grenlandii. Europa odpowiada w mocnych słowach - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1oyY0U0dmdydlRDaGNBRWJuT05JWXNYa0xQVngyWGtBZmVIQ1l4ZWtfUldNdnRUX0l1QWsxc0trRVVmQk5CN3R3N3RJSnFpY3FGZW5iTDM2SFlBRjRnOWhBQ0VwajJiWmRqWVRXVHdmclluVVRkMWhDZHI1N0VZTGZ6SjJ3ZTJPeTdhWUhLei14MWQySUdySmpwMEVOX053UjgxdHl5bGRyRldTNk9MYWh3dXZvS0RYM0Y5R2R4X1RsQQ?oc=5"
+      },
+      {
+        "title": "Święto Trzech Króli 2026. Jak będą czynne wrocławskie atrakcje? - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWpXajAyc05zaTl3OVhyWVhfaFlOd0JFMnFwdUZwdmdCbHlneFhTRGxIRVd0VnptQVlTYUpkMERiemM0RFI4UldIWkZfUVpweTZFRjFnaEVRSDdxQWFTbUxUOHotOUVNeHdvbEI1enZ3SVVYTk1oeW1lUE95Xy0tbDhXOVFIeEE2UE5EWC0zejFmczlSZ2F2UnY0SVR2emNF?oc=5"
+      },
+      {
+        "title": "Bałkańskie bomby śnieżne i syberyjski mróz. Wir polarny atakuje Europę - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFRmRzV0alZuWWM5WWZnNkplRE54b1lyeVZNOU5OaHpyeXVhbXhaZWMtVmNhSTdudGJJX3dSeHQxbmVtSWVYSUstLXVQczQyU0UyaXpQcFg4QXIxQ1NMOXBxeC1GVE9tbi1oTUJGWVk2dmc5UDducGtIMy1sbWFIQUo2TzRSaWFabm5SZkJNd2QwNDZFdnNKdnkyUWpnRlpOUlZLMXJaMXc?oc=5"
       },
       {
         "title": "Trzy cele Trumpa. Ekspert mówi, co USA chcą ugrać dzięki akcji w Wenezueli - Money.pl",
