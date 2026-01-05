@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03 11:15:08",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5963,
-      "EUR": 4.2156,
-      "GBP": 4.8391,
-      "CHF": 4.5314,
-      "JPY": 0.02292,
-      "AUD": 2.4092,
-      "CAD": 2.6212,
-      "CNY": 0.514
-    },
-    "crypto": {
-      "BITCOIN": 322210,
-      "DOGECOIN": 0.512227,
-      "ETHEREUM": 11124.82,
-      "LITECOIN": 291.83,
-      "RIPPLE": 7.22
-    },
-    "indices": {
-      "^WIG20": 3262.48,
-      "^WIG30": 4184.48,
-      "^WIG": 3262.48
-    },
-    "news": [
-      {
-        "title": "USA uderzyły na Wenezuelę. Silne eksplozje w stolicy. Słupy dymu nad Caracas - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMm5XNnZMQzZqN2xWY0dZZjZmQUVPejhlVUxDZ1pENGs5bFhyNmVkSm9XdzljTFRlZWRkdmxTTUNkNGl5RXJia3Z1bndXbDdlbjRxbnBvdmtQcXB6b01qcGVWZk9NYVVtUmV1M0tCajh3c3Z5RHpqSkl4dVZFX0twNFM2NVZOZ2FZMDNLNVB3UXN0UmdlWVZwRG9NOWNlb1Ix?oc=5"
-      },
-      {
-        "title": "To on uratował 20 osób podczas pożaru w Szwajcarii. \"Mam przed oczami obraz\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmdrVTAxc2RERFBCTDVnRHZ1RnJsNnZ5cWQ2Yk0tWHFWNy1mbUwtdzluSDJyZmJWaS1fazFCWUZLNFAwT0h0cy1iLWg4VjZuVnhxTWplOWNsRU40OFlpSW95eWxQUkpZQ1ZFeFBhZEI0c3pzZUVtRHlkeXVvMG9YN0UyelF2cm9mRjRxRGltVmVrUXF4WTJqZUlqR3oyNWRHM056blVnLXpfOW5BYV9jOWE3Ulc5RUk?oc=5"
-      },
-      {
-        "title": "2026 – rok, gdy skończy się trumpizm 2.0? [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa09YNEZnRzk5dUx0VHNiM0Q3Y1RUM2hQdXhnVEdXeGZqRTdvMnRfNkt2RE5Qc0lDdnhlRVZzNzlyMW1OOW1pQUdaRW9YUmV4RlB5OXB1SFM5QVZ3bUVOeFRmanZESXowWjZZbTVDX29nVmc5YVUtc0FBbVdtSzgxMlZTNHFXcjVPbzB2VjVYanQ?oc=5"
-      },
-      {
-        "title": "Karambol na A4. Trasa w kierunku Wrocławia jest zablokowana - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3NyclkwbFhKeVp2eTc0UVg0NjFaTkk5aVB2YV95czhXZzhoMklZMi1lR3hUTXloY1lGWFJTMzhTZjNUNjc2V3Ayb2FNeW9VWkZSNmxTTmNoeDI5RU9zaHlkWmdOejNzUF9BNkRnMVYyVDZUMzhQUEFNRWh5SGJUX2l5c1ZTQUN3blJiT3FfUjJlSGh5REdhTVNvd29pemR4WXNfeUhKV1J6ZXVDVUVOakFNaThIbmc?oc=5"
-      },
-      {
-        "title": "Donald Trump codziennie bierze aspirynę. \"Chcę ładnej, rzadkiej krwi\" - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzlRWV9jYkpwUnplaXNyU2cwdnFDZ2kzMHpKY3BWVzJoM0xVUXRMTW9NODN4OWtCMWxXUVZMeFN6X1BvVjlGYTJ6NGJBUkEyY3ltQ0J4SFZ5WGFXVW5VdHE5SFpRNURCemVacFNTTU5leFJwbWxubFB4RDhMQUdPbWplVUpXaFh5Z1RLYkNTZ3gySGxOZE43c3J3aGs2SGdqY1hXZFlsVlllWk40N1FDQU9fdlZTMjlGZUhHSjE3Y1d1d3FBUHdv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-03 12:12:06",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Trzech Króli. Święto nakazane o wielowiekowej tradycji. Nie zawsze jednak tak wyglądało - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnRhZW1GMFRIS25hQXdFczZ5cE9xY2hzOFNiU2syak1paFRjQ2lFTVlQaVVNSzl4WWw1VEo0MjlDdWs0ZDd0UXZXeWVyS29YMmxjSXROaFZndW1OZGVRVDVrb2cwNmhVeVEwZE1qcmFaMzdIZ0d0OVp0MWZoQVhGemJmTDBST1hhd2x6UG9xaGpLQ3A0aXJJR21VczNoYUQtTW81b3JTV011NWdIanp3a1dIeHVUNTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-05 17:20:40",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6045,
+      "EUR": 4.211,
+      "GBP": 4.8458,
+      "CHF": 4.5263,
+      "JPY": 0.022969,
+      "AUD": 2.4062,
+      "CAD": 2.6163,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 338011,
+      "DOGECOIN": 0.538674,
+      "ETHEREUM": 11479.47,
+      "LITECOIN": 299.66,
+      "RIPPLE": 7.84
+    },
+    "indices": {
+      "^WIG20": 3258.52,
+      "^WIG30": 4186.16,
+      "^WIG": 3258.52
+    },
+    "news": [
+      {
+        "title": "Trump zapamiętał, jak potraktował go Maduro. Dlatego wstąpił na wojenną ścieżkę - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFJycHJhUEJBRmoycDhicmZUcW11WVFKQlRwdmxZS1IxblBjX2JRaGpEdFZKUUhFR3hYR190RVQ0SUx1ODRFNzBYWDh3TlExUEI3Q2NfZWE1N1JJeDllNkg0aV9RZ2hESG1SQnBnR3FXRGZRNUdBclpMVHFxb3k2QmNZWnlqRktIVzdLUnA3SFNPbFI2d1VaWVpMdUtxcC1VTkF6TV90UzR3djA?oc=5"
+      },
+      {
+        "title": "IMGW wydaje żółte alerty przed siarczystym mrozem. Nawet -18 st. C - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXF6Q3JiTzVxWnVmckJsNVlBcXJrRFozNkZ4dWZ4Y0lTOHowazhZNENMeFdlLXA0LXBhbEN4QUlmdFFaU05OR3lNeWh3RHZqZHdEUXdkRUFJbHEwWFJsak8wazBmM2FLdjczS2cwRkl0NUpjMkY0ZndFeUV6cmltMEdCOEl2cTlvNy1zZnFScjhCVG1Zd0k1a3QxQVFnVXRuUjkzZXdUcmdvNV81ZWl4T283elQzNUI4LWlVME9rWUtqT3Zu?oc=5"
+      },
+      {
+        "title": "Zginął, ratując przyjaciółkę. Nie żyje Benjamin Johnson - SportoweFakty",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnZkNWdNVWlaaFM2dzRYMzVoMjlQSEpvcnh6WXlYbHlDREFxV1BVeV9iRU5Zak0yVFdnOGwyYU5xenRsaWRkVlFfSWc2cFBSc2JtUVd3NmZUUjlZMzdURDBzVTBWNWluMU5ySFZyaXZkWU1tX0JabTBHSS1aM3JhZ1VrRDFsN2lGay00azZsR0NNZFdHbDZLeV92dGsyWXpRVzJ0Vg?oc=5"
+      },
+      {
+        "title": "Tusk odpowiedział na wpisy w sieci. \"Niżej upaść nie można\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlRzYm96dnhyRjd1S09iQ0k5MGR3bEowOEJFZmVwWm9LbDdjYS1LNENmQnhyRE0xTTgxbk42MkUtemtDaS1WQ1lhLTk2S2RPbV9XRk1URGt1cHdJZ3ZBYWtLbERuWVlqM0FBYzBuOFFmQkNXNlN5enAzSGFaNTJxUFdpeUdid0dGVDJRM1Q1RQ?oc=5"
+      },
+      {
+        "title": "Polscy nauczyciele zarabiają 4-5 razy mniej niż światowa czołówka. Daleko poza krajami G20 - Portal Samorządowy",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbFRRanU4bVVOV2NicUdZSEh2OTdMcldqd0Z5c0ZaT0pBVjdtZjVBS3FqSENMRElpN3I1MVZxRk5MTUM3RXA3RXMteDdYUUcxMERRR2FLeGdBdC1EdlJTcTZ4NW50dXNKdHVrclJuU1AyY2ktb2xBQVkwVkNVdDBCQU1DSUlLTE9XUS1GV0YwenJBcWFMRGFrTFRmVHZaclBEcW03Z0JrUjFKbFM3VWJWaDVfVzNNbllCeVYwNDMyZnZZUkFfOG5XaG1hdm02Z3VkeEhvS2JObVNlazQ?oc=5"
       }
     ]
   }
