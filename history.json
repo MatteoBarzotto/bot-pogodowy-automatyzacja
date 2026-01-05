@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-02 20:10:04",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: +0°C"
-    },
-    "rates": {
-      "USD": 3.5963,
-      "EUR": 4.2156,
-      "GBP": 4.8391,
-      "CHF": 4.5314,
-      "JPY": 0.02292,
-      "AUD": 2.4092,
-      "CAD": 2.6212,
-      "CNY": 0.514
-    },
-    "crypto": {
-      "BITCOIN": 322535,
-      "DOGECOIN": 0.497719,
-      "ETHEREUM": 11177.08,
-      "LITECOIN": 291.19,
-      "RIPPLE": 7.1
-    },
-    "indices": {
-      "^WIG20": 3262.48,
-      "^WIG30": 4184.48,
-      "^WIG": 3262.48
-    },
-    "news": [
-      {
-        "title": "Polak ranny w tragicznym pożarze w Szwajcarii. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjJjc01OamNvT0d1TkNrQmFlSmNSUnFEd0htcC12WU1qSTV1a1NRSnI0cHlMRlNPcGVFaS05Sk1MWFhCT01YYTRaVnA4LTdCMWl3UnVadFpzWEk2X3k0THJId2FhWUZfTjVJRHVCODl4RWY1enRvNkxONHhaT25RVGlPLURZM240RXBmMjZUMGdwbWpucldpNEN6azhtbDJXbnV0YWZMZnNadmtOUW5VUnpxdlhsSXJIdjFxQm5MaFlmeXprdl9RLQ?oc=5"
-      },
-      {
-        "title": "Zamieszanie ze zmianami w PIP. Czy korekta oprze się o Brukselę? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczlXclBGdm5VTTBIRHBsNm12LUtyWXlRY2hUYTdQYi1IM1hkclhXMi0xWWJPN0k3RWF6RVBNbWdzYnlKNUwtWnhKUEtHY01OZVZKa1lQT0pWZnEzOUhvdVU3N0ZQU3VBY1gtVVV5ZVNlWUVCVlh5M1ozY2xmczZSc1VvNlBuV0dJUWhYUHlhZC1MdkhENzR1TVJqVHJKZDB1V09XU2xLeWNkUjVNNFlJVEJLSXVOMERv?oc=5"
-      },
-      {
-        "title": "Mroźny początek roku, a potem zmiana. Jest długoterminowa prognoza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3VHTzFxNGJ0RUI3WUNsQko5Z1MteEswa1dxRE1Ib0VnUkNhcEotc0RsbjJMWjUzeUg4QjlsVzhSeWhPLXJXYnRiNFl0NHVzWVRISklSTGh2MUx1TnRjRHR0ZHJFdDlEcjUyNUQxQjZXR2JyRFR5WTEwSndHaGlrR3N6N3hIZEx2dzJGeTUxNFJzTnNKRm40LTZ6WjFfR0NMcEw1X045MUxWMk0?oc=5"
-      },
-      {
-        "title": "Polska w 2026 roku pod znakiem \"frontu gaśnicowego\"? 10 lat temu \"Braun wydawał się memem\" - TOK FM",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSF9mYWJtY05oRjl5SmxSdFhhLXc3dmdwaUY0U1BXR0hEaXB1aU5fM3FCc0dBUE10c3otZWlZa0ZLMDhQYi15Zk95a1JkRHR6NkNNNGhGNmtERkszTEtfSnNjTUlQcUFBSmZNcmZ6MEtyanBsbFpwbFdfNFJYY1RiVXpyTWNHS0VUa1VfSUlOVE1KQnVSOXZHSGhuamlYSnhxTnVGRUVmX2tXVnNSUWVZQVEwRjNUUQ?oc=5"
-      },
-      {
-        "title": "Do nowych miast drogami krajowymi - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRTlod3ExZ243WEJLZkFobmY1WFBjX2tzWHhkcURpZGNZc29hMzRSc0ptbU5vS0FObm9uUWVuTm02aEdGS2hoTzB4UnB5VGtyYm5WcXJlX1NhUVphcHJ3ZTFybE9IVkgwMl9mYXV4ZVk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-02 21:16:34",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Trump mówił o Grenlandii. Premier Danii reaguje - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVNyUDM3OWplSFlUdTRJMUV3UjQ2cWNOdy1Cd2pHc2h3anhhVDZWRk5fSkg5QjYtYk9GNzNWWUVBWnl4X2Z2a09UMDVSRVV2UnJIRDBoVGZaN3FpOVpqVFhzQjJ2eVZjb3FPVXIzeDFzd0NLRFBYbW5ESW41NldmZ1J5YkY4dDB0azI5OHlOdkJ2MnM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-05 04:49:58",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.5963,
+      "EUR": 4.2156,
+      "GBP": 4.8391,
+      "CHF": 4.5314,
+      "JPY": 0.02292,
+      "AUD": 2.4092,
+      "CAD": 2.6212,
+      "CNY": 0.514
+    },
+    "crypto": {
+      "BITCOIN": 334898,
+      "DOGECOIN": 0.546564,
+      "ETHEREUM": 11483.75,
+      "LITECOIN": 297.21,
+      "RIPPLE": 7.72
+    },
+    "indices": {
+      "^WIG20": 3262.48,
+      "^WIG30": 4184.48,
+      "^WIG": 3262.48
+    },
+    "news": [
+      {
+        "title": "Donald Trump grozi wiceprezydentce Wenezueli. \"Zapłaci wyższą cenę niż Maduro\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFpQMlJISlMtMjJNQS1iWUZfVUw5OVh0Mk82eUxkQWp6VklzWW5McnVYdVZDRGp4NmsyS09feUR5OFl6ZmQybmpjdUxZbi1ZWjJnOEJJdHBlQWo1WTVJay1qcWFIZ25wX0F6aXptNU9TQjdUZ1ZFYm1lSElzd1paZEpfYTFmZVhXVGNpOW41SzJvN2dySDEwN1RYVWZfcWNrUFp6U3N6Q3JITVhUbHc?oc=5"
+      },
+      {
+        "title": "USA wskazały następny cel. Kolejny reżim jest „w dużych tarapatach” - TVP Info",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFc2OE1WOUVjVHUtTFB5SEJTRklOLVMycTVtMGFmLWhQdV9INjJkRjRsNFZCSkhVUXQzZXNNamhiXy1ZeHB5anhWUVd6YWpsUmdPOVRjZmI1bkpuUXM4dmF4V2ZLMk9BTGZ1X0oycVNoVF9IbnVESVFvMGFlU1U1THpoTE50djlYM3FBT3Z1M2dBaXpnclRPSEpn?oc=5"
+      },
+      {
+        "title": "Tragedia w Szwajcarii. Niebywałe, jak zachował się ochroniarz. Zapłacił za to najwyższą cenę - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcE9MUUtvZUZ4d0hfa2pZTVoxWlFSTFNObUc3aWM2d1Vkc1RIWjljQkduWmpqNzJEUUlRWi1PeUxzcXBsYkRtZnYxSEF2dElaUnY3RUYxLXYzc0dEcFhHcHZHeVJwZmNkd1loMTVHUC0xWmo3T1NXOXoxOEI2NlNBVWdaMkFhWm0ycDhpQjVPZ0Rua2Z5al9qWFpfaFpvemFFakpvZ1Q5b25pY2RKZ3k0M1dTQQ?oc=5"
+      },
+      {
+        "title": "Trzech Króli. Święto nakazane o wielowiekowej tradycji. Nie zawsze jednak tak wyglądało - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnRhZW1GMFRIS25hQXdFczZ5cE9xY2hzOFNiU2syak1paFRjQ2lFTVlQaVVNSzl4WWw1VEo0MjlDdWs0ZDd0UXZXeWVyS29YMmxjSXROaFZndW1OZGVRVDVrb2cwNmhVeVEwZE1qcmFaMzdIZ0d0OVp0MWZoQVhGemJmTDBST1hhd2x6UG9xaGpLQ3A0aXJJR21VczNoYUQtTW81b3JTV011NWdIanp3a1dIeHVUNTA?oc=5"
+      },
+      {
+        "title": "\"Potrzebujemy jej dla obrony\". Trump o Grenlandii - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmJNeXRhZmFSNC10Q001TWVIRkJ3a01CajRrNFhsN1U4N2NWVWlpd0phd3BxRFlzZGZpLVlSaFRUbkZhRUVZM3pJWUFqZmhEMTd6ZUdRSGh4Ymhxc1BrS3BqSVQ0V0p3aTBBU0JkSXpFRDNuc3dmRE1DSVdibDdXVTQ5VDhYeG9TZTIzNy0tX2J0M21wMFJmTEFOY28yQ2JSZ2pqMWpvM3hRQzdjV3ZR?oc=5"
       }
     ]
   }
