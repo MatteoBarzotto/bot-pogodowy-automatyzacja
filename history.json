@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-05 02:19:48",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -4°C"
-    },
-    "rates": {
-      "USD": 3.5963,
-      "EUR": 4.2156,
-      "GBP": 4.8391,
-      "CHF": 4.5314,
-      "JPY": 0.02292,
-      "AUD": 2.4092,
-      "CAD": 2.6212,
-      "CNY": 0.514
-    },
-    "crypto": {
-      "BITCOIN": 333675,
-      "DOGECOIN": 0.543711,
-      "ETHEREUM": 11445.72,
-      "LITECOIN": 298.71,
-      "RIPPLE": 7.65
-    },
-    "indices": {
-      "^WIG20": 3262.48,
-      "^WIG30": 4184.48,
-      "^WIG": 3262.48
-    },
-    "news": [
-      {
-        "title": "Donald Trump grozi zastępczyni Maduro. \"Zapłaci jeszcze wyższą cenę\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkRIb0c1SHBQbXNiSlNyV05FczhEN3I4UUVRWUlDNkZiNm9xaUx2NHVzc2hnQzVZT2FsNlRfc1A5M2diTm92dlVLdmxNaEVINlJfa0NFZ2hFWkplblRQOTVGajBSWlBWckhEczEyY1ZQSUZHREdhaHAtY0JpZkdmZXRBXzJaSjZCRDcxOG1HNUlablVqRE1jazBRdk5CQlpZZmhjMjZiR2dNX1diSmJ6YU9KcFd2clBFTHNTbkN1Y2FEVEtVNHVrX2dzSQ?oc=5"
-      },
-      {
-        "title": "Marco Rubio wskazał kolejny cel USA. \"Są w dużych tarapatach\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2hEbmpoZ3dtYTJSVVdIR2xlb2pzN1NDajQ4WlN6RHpaM09MZjE3cDd2Zi1IdHJ3R2JrbE83YUMwdVl1ckVFYThKNjRESklHR1NkTl8yUTE4RnBaczBlTEwwa3JqUmVTNF9aQ0ZTRlV1R3VaVnd0QVpQbHgwbkZ0NUJxMEN2Q284a2oxZ2c3Q3VKWFJHVVJFcFdpdWg2aVl0U1poT3Y4d3Jadw?oc=5"
-      },
-      {
-        "title": "Wenezuela po ataku USA. Polak zdradza, co naprawdę dzieje się na ulicach - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1BvTXRKWFI3UHl4dExlQWdGbmE3MHNGTk96d0RRbFBSSUdwbzhkZHZtdjc4aVNPWDFFcklnbllVdEVYVnRaQVE5WU5nWnc1Nkh2dWFhOGlMelhiNzF5OEM3QkpvdE5jZXB5RjZfdy1ycnA3Yi1jNXpmMzVDWmJ5cFhHeTVnV3Q5MUZNNm5uS01UcWhoRUIzdVhlRXFQWWZnY01lUDc0MUJCLXV0cHNLM1JxVGFOaTdEWWJjanVB?oc=5"
-      },
-      {
-        "title": "Trzech Króli. Święto nakazane o wielowiekowej tradycji. Nie zawsze jednak tak wyglądało - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnRhZW1GMFRIS25hQXdFczZ5cE9xY2hzOFNiU2syak1paFRjQ2lFTVlQaVVNSzl4WWw1VEo0MjlDdWs0ZDd0UXZXeWVyS29YMmxjSXROaFZndW1OZGVRVDVrb2cwNmhVeVEwZE1qcmFaMzdIZ0d0OVp0MWZoQVhGemJmTDBST1hhd2x6UG9xaGpLQ3A0aXJJR21VczNoYUQtTW81b3JTV011NWdIanp3a1dIeHVUNTA?oc=5"
-      },
-      {
-        "title": "Trump mówił o Grenlandii. Premier Danii reaguje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVNyUDM3OWplSFlUdTRJMUV3UjQ2cWNOdy1Cd2pHc2h3anhhVDZWRk5fSkg5QjYtYk9GNzNWWUVBWnl4X2Z2a09UMDVSRVV2UnJIRDBoVGZaN3FpOVpqVFhzQjJ2eVZjb3FPVXIzeDFzd0NLRFBYbW5ESW41NldmZ1J5YkY4dDB0azI5OHlOdkJ2MnM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-05 04:49:58",
     "weather": {
       "Warsaw": "Warsaw: -3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Utrudnienia w kursowaniu l. 106 - Warszawski Transport Publiczny",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzQwNHdJMTJpTS01eTBuWjh0TGFLMEY2QURRYkRzc3djZzM2enhvV29jdmxSVDE1SFRwLUVjUzJyU1YxdHhmczN4aW5ObWlFVnNvTkxrOE00U0VoNzJtNTdseFMzZHBLTERtVk5MZ1hWS081alZvVVgtOEw1WjkyYzlSMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-07 09:22:09",
+    "weather": {
+      "Warsaw": "Warsaw: -11°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.6045,
+      "EUR": 4.211,
+      "GBP": 4.8458,
+      "CHF": 4.5263,
+      "JPY": 0.022969,
+      "AUD": 2.4062,
+      "CAD": 2.6163,
+      "CNY": 0.5161
+    },
+    "crypto": {
+      "BITCOIN": 334655,
+      "DOGECOIN": 0.54386,
+      "ETHEREUM": 11741.18,
+      "LITECOIN": 300.98,
+      "RIPPLE": 8.22
+    },
+    "indices": {
+      "^WIG20": 3258.52,
+      "^WIG30": 4186.16,
+      "^WIG": 3258.52
+    },
+    "news": [
+      {
+        "title": "Applebaum: Wiadomo, dlaczego reakcje Rosji i Chin na weekendową wojnę Trumpa były zaskakująco łagodne - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajJwSDRxUDlTMi1LMF8xakJRUGpBS2lQeVNidEFOYkRvbGozMHhjckh3ZUVuUXRWRUhCb09TZkNwMW4tclk5a08xTXR3V1MwcVk3M0luMGxPcE5JRmFTeUZZYkQ0ZnliMVNCTXVHMnJiNy0xbS04SDhuTVN3NnVLZXhyckNZWFYyeWt1UExHd0pKQ2lXZWNkRkVKTkpUNnRha3U3S3FJR1ItVllLbkpmUnp3?oc=5"
+      },
+      {
+        "title": "Zimna wojna na szczytach władzy. Polacy o relacjach Tuska z Nawrockim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUtybDZvQi1fMXZiYWpGeWJuUDdVbDVqelk5WGcyTGoydDJHT25TcXM2YTFsLXRoUVA5NUtHRGxWbmdxVlJEOU5fd0g3bmhPbER1eUhLUjN0eTM5V3VZV0pMamxJTGZHa3hmSGhwZ1hyWnhsbWRJSlpGTEJTQk1DbEJXMjdSdzNqbDBMMkNlVmdXV3ZnOFN5M2JxcmFjc2hMVC01YU9MSm84cjhnQ0NXbw?oc=5"
+      },
+      {
+        "title": "Pierwsze posiedzenie Sejmu w nowym roku. Będzie spór o samorządy, budżet i butelki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFVCTGtSYmRnQ0xTWU5hZERvUEtNUmJaODJnS2dVck5UODlPQTRkazFUYmVzaTItWW9IemR4a2pLM1Q5T1JpbzZ3a1ZCNkdhMnF1clZfNnF2bXV2ZGotSTZsVndKNGRDSmtWdGdfTklFa1ROZWU0UnJRLW9VNUlfcmxMNHJfc3pTTkd4Ti05aGRMbF80WjZpeHo0RGtNa0dRZXVyMXp5Y0NvdkNNaHBESTU1b1JDczJlM05FcEU4ZXpKOW8?oc=5"
+      },
+      {
+        "title": "Święto Trzech Króli. W całym kraju ulicami przeszły orszaki [GALERIA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzc0b29RNU9VaTN5a3M1U2wySDZOTXo3NnRoS2oxa3VoNVJYbkktZXNXakdPQUt3UUF4SjhkLWk5b184RU1UQjdhSENWeXA0TlhLc2M1Q2VSUmJBM21fVHpsUmJnYzFGU3V3MWxEeEtTRFMzR0xNU1FqLWNpWEl5aFpzWW5OenNuODJfUHA3SWEwNDFROFRCRzFFeUNiR3dCVE5FNDJITVZ1UQ?oc=5"
+      },
+      {
+        "title": "Lekarze ostrzegają przed wychłodzeniem organizmu. Jeden błąd może kosztować życie pacjenta - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUYxTmRHZkp4OUpVX01yMm1uTnpGWWdmdTdYdnJ0bkhhbXU0QUVFbzlZVGdjdGpBcFNmSEt3NWRrUm42V3gwaldBV0JlUkFqY1hxcUtkaXZoR0lQWmtqcmViVUZXb1BRT3U3cjREM2M0T0xwOXJQTkE0T1ZYbDFoUldhQUlMRWFTQ05pX1VZYTFGUUdXZS1UcWtLbVozT1Vrb01jeGVPWFhHTHVFaFFSWWU2RGFGMUN0aF9BZXlSR2RISVNZVjNIdFNvVnlxdzF2M1BPRF9CUGNWSmg2dVM0WW1B?oc=5"
       }
     ]
   }
