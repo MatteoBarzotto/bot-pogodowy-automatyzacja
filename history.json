@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-06 08:21:16",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.6045,
-      "EUR": 4.211,
-      "GBP": 4.8458,
-      "CHF": 4.5263,
-      "JPY": 0.022969,
-      "AUD": 2.4062,
-      "CAD": 2.6163,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 335722,
-      "DOGECOIN": 0.54072,
-      "ETHEREUM": 11597.24,
-      "LITECOIN": 300.02,
-      "RIPPLE": 8.51
-    },
-    "indices": {
-      "^WIG20": 3258.52,
-      "^WIG30": 4186.16,
-      "^WIG": 3258.52
-    },
-    "news": [
-      {
-        "title": "Prezydent Turcji ostrzega Trumpa. To może prowadzić do \"poważnych globalnych komplikacji\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFVib0JhNElSWnZ6VW1BblU5U3JZQWJWdWkwVWRGWkpmYnhKVnA4dHJacU9HSW4xaDJQR1BmZ2FZcFFKWTk0ai16WlAxeTlVRXBLS016S1FYdFFzUzgxaUVhQzdzaDVRWldqNUd4cG4xbUNNQUJIMHdYd1UxY0dhbFlqWXJkcU41U09mTEd1ZmpwSExaRFoyUmNuTGFPZ1RTQ2dr?oc=5"
-      },
-      {
-        "title": "Znana jest przyczyna tragicznego pożaru w szwajcarskim barze. Polacy wśród poszkodowanych - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd0lkWUpwRkhlY1YwTzRqcS1VSXNoSmZDbDE5Q29hZVQ0M1lFMmxNbXR6c0pqaHdGZG8zNU9jWEt0enc4TVBOSHl0b3BjOXNsMzlvRmhETmdoRE91cGxoT3M5S0RDQXhFSW5pWDhzY3JBOGpwYUlKZ2JxSzhfMUFSYUVfOHFKOXV2bExLUTJadk80NkpJck9JcDdPdTFDdk1ic1R6aHRMbU54eS1CMHdEQlU2UnkzelAzX1pDMA?oc=5"
-      },
-      {
-        "title": "Prezydent Kuby odniósł się do ataku USA na Wenezuelę. Ogłosił żałobę narodową - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2M1RWgxejhySlFzS1JUbXdBcFp2LVpfdXQ3SHpacmF0MVhuUUw2TWNsRlF6aVd2cjhnQ21jYWsxbFlDYUFBV3pXNE9TRDhPQUJjZnZMTk9IRkRNSHpUakh4eWVNeW92Y3h5MmxhalFrV2duX3NKMXR3RFVPNm9vV2FOTTRUWUN3Z243by04SmsxOFUtd0w4YXU0ekp0WkhYalR5Y3JPdm4waUxWaHc3Sm1EZFA3eHBKY3c?oc=5"
-      },
-      {
-        "title": "Trump wyjdzie poza Amerykę? Wenezuela to początek. Na celowniku Grenlandia i Iran - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXh4WDlmaktUVzM5UHROQW9uOTRsT3NnYnpsR3YyWFU3SmtWUUJORXAtODRlaTZqbkQ3Q0tmZkd6NXViRTVsYlRHQlNjaDNINnRPUWwzODZKamhuOTRfYThJUWFQWVU0eUxLMDF2NTBBSkIxWFMxQ19YV3UzVlBiRk1fWGltUzRoQU9pTWVmRllIM3c1eUFQdUZqVkcwSlM5bnlaQlJCSXozQjJxaXU0bTdyUQ?oc=5"
-      },
-      {
-        "title": "Święto Trzech Króli 2026. Jak będą czynne wrocławskie atrakcje? - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWpXajAyc05zaTl3OVhyWVhfaFlOd0JFMnFwdUZwdmdCbHlneFhTRGxIRVd0VnptQVlTYUpkMERiemM0RFI4UldIWkZfUVpweTZFRjFnaEVRSDdxQWFTbUxUOHotOUVNeHdvbEI1enZ3SVVYTk1oeW1lUE95Xy0tbDhXOVFIeEE2UE5EWC0zejFmczlSZ2F2UnY0SVR2emNF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-06 09:22:30",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Kontrowersyjna umowa z Mercosur. Minister zabrał głos po spotkaniu w Brukseli - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaldaeDNzVW5nNDJaR1RrTDFxX19XNENKMlBVOEdRT0h5S1pPRFppSG84enpCVk5oeTA1eWhiaUpTOEdEU0k1b0QxS0JyLVJiMUM1MDgxV1c3LTNHWTVnQkNTRXB6NEJjU1I1aVJlUEtPMHl0SjhCMzd5bFJpckFWam1pa2FHZUpPMTYxMGJ2UVRZNFEzLU4xWWZWOHZoVE5BZFI4aHNiT01URzlo?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-08 14:36:30",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.607,
+      "EUR": 4.2119,
+      "GBP": 4.8471,
+      "CHF": 4.5228,
+      "JPY": 0.023011,
+      "AUD": 2.4142,
+      "CAD": 2.5993,
+      "CNY": 0.5166
+    },
+    "crypto": {
+      "BITCOIN": 324130,
+      "DOGECOIN": 0.504092,
+      "ETHEREUM": 11151.9,
+      "LITECOIN": 290.5,
+      "RIPPLE": 7.53
+    },
+    "indices": {
+      "^WIG20": 3225.62,
+      "^WIG30": 4155.91,
+      "^WIG": 3225.62
+    },
+    "news": [
+      {
+        "title": "MSZ Rosji: zachodni żołnierze w Ukrainie będą uzasadnionymi celami [NA ŻYWO] - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rYWdJU2Fic0xKXzU1bnlHcVRaSS15bEtKT0ZNX1RtWmN3bkVMak9TX2dKUG5aM2RXMEVsMnRHZ3lKa1ZTRnRXV1Z1cGcyN1hyTTNjeEZqMFpPSWdYLU9hVw?oc=5"
+      },
+      {
+        "title": "Dramat w Augustowie. Ojciec wbił nóż w plecy 6-letniej dziewczynki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3ZFdXJNNjQwU3ptVzdnTGo1bklfUzdJYXZKbFR2TGlMaHBDYjh5YnNRaW5fcmJDS1Bac3hSVnMzdGVfcnUwUUNkbUJYUG9zc0dmVVFhZDd0YW04UGxtTUlCSTRnbUV3SFF6N001YkhkaGoycTJ4UXROWW1VSmotRVUyU0lRa0dMS1UwUW56ODZjOHk1Q2J1SDFLNnZZVE1mV2dnYlAwT1VaSjFxdUo3YXFWWG9qUWtXd3NWRVNhR3R2dS13YUE?oc=5"
+      },
+      {
+        "title": "Kontrowersyjna umowa z Mercosur. Minister zabrał głos po spotkaniu w Brukseli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaldaeDNzVW5nNDJaR1RrTDFxX19XNENKMlBVOEdRT0h5S1pPRFppSG84enpCVk5oeTA1eWhiaUpTOEdEU0k1b0QxS0JyLVJiMUM1MDgxV1c3LTNHWTVnQkNTRXB6NEJjU1I1aVJlUEtPMHl0SjhCMzd5bFJpckFWam1pa2FHZUpPMTYxMGJ2UVRZNFEzLU4xWWZWOHZoVE5BZFI4aHNiT01URzlo?oc=5"
+      },
+      {
+        "title": "Tak Polacy widzą relacje prezydenta i premiera w 2026 r. [SONDAŻ] - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWNUWm5fOXdibVo1OFpBUXV4OGRKeVhqNEVsb1JHelM4S3BWMFdjSjhXencyd1lyUzVHdzJhZzRkMlFnNFRVNTRESXdXRVpFVFhLNmJtRGdSTnZJWEU1YXVwUTNhSDRFaHFzQnZfZGQ5ck9FN2ZDTUlaUm90YlJNbmNDMWhkXzUzQTl6TEhDV3pIa3NmT0xDemNNMkVmLUVNYzB1ZGE5d2ZrUDlCckN3?oc=5"
+      },
+      {
+        "title": "UWAGA! Zła jakość powietrza w Warszawie. - Warszawski Transport Publiczny",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3lESVdkSzdKMmdBRVVzS2Z6LS1ORjlqVXpiMmJCQ3FNS1Aya1lSUDZud1czRHFZeXd2eU04cktLLWJybU1QY1VfMWlJWWktSUUxaTlxUElueU5VaklCakl0ejBYVFVIb1JaVkJRTW1yelVMYVJ2TklKUDFJVXFOUm1hYUJfUQ?oc=5"
       }
     ]
   }
