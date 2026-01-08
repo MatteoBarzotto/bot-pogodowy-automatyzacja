@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-05 21:18:43",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.6045,
-      "EUR": 4.211,
-      "GBP": 4.8458,
-      "CHF": 4.5263,
-      "JPY": 0.022969,
-      "AUD": 2.4062,
-      "CAD": 2.6163,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 338811,
-      "DOGECOIN": 0.547945,
-      "ETHEREUM": 11623.87,
-      "LITECOIN": 301.98,
-      "RIPPLE": 8.35
-    },
-    "indices": {
-      "^WIG20": 3258.52,
-      "^WIG30": 4186.16,
-      "^WIG": 3258.52
-    },
-    "news": [
-      {
-        "title": "Trump chce Grenlandii. Europa odpowiada w mocnych słowach - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1oyY0U0dmdydlRDaGNBRWJuT05JWXNYa0xQVngyWGtBZmVIQ1l4ZWtfUldNdnRUX0l1QWsxc0trRVVmQk5CN3R3N3RJSnFpY3FGZW5iTDM2SFlBRjRnOWhBQ0VwajJiWmRqWVRXVHdmclluVVRkMWhDZHI1N0VZTGZ6SjJ3ZTJPeTdhWUhLei14MWQySUdySmpwMEVOX053UjgxdHl5bGRyRldTNk9MYWh3dXZvS0RYM0Y5R2R4X1RsQQ?oc=5"
-      },
-      {
-        "title": "Zakończone utrudnienia w kursowaniu pociągów KM, SKM - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXE0WmtJcTdMUmM1RzItTWZHOWxQOHNsUjR4QnZNV0NEYjZDSzRGYU1OeVlseVRxN3IwaHpKQWFZNEp3T1NkUEZXTHZVX0FiSmFCSGYwaHdhZFpWS0IzQjBkRnpCY2tmeWZNanRtRmVYekJscEFMaGNXSFh4VEM5Rng2UVJPS3hDVDVPTVpCdGZoYTg?oc=5"
-      },
-      {
-        "title": "Trzech Króli. Święto nakazane o wielowiekowej tradycji. Nie zawsze jednak tak wyglądało - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnRhZW1GMFRIS25hQXdFczZ5cE9xY2hzOFNiU2syak1paFRjQ2lFTVlQaVVNSzl4WWw1VEo0MjlDdWs0ZDd0UXZXeWVyS29YMmxjSXROaFZndW1OZGVRVDVrb2cwNmhVeVEwZE1qcmFaMzdIZ0d0OVp0MWZoQVhGemJmTDBST1hhd2x6UG9xaGpLQ3A0aXJJR21VczNoYUQtTW81b3JTV011NWdIanp3a1dIeHVUNTA?oc=5"
-      },
-      {
-        "title": "Zyskali ochronę równą ratownikom i policjantom. Surowsze kary już obowiązują - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaEtNdFdIV2wtanBXY0JqSk5oWjNhWml6ZGxMY195MWVkTEdWQVI2UGpiTXNib3N5dTdaSzE1ajZRRUZZaFpzVW55UlUwUmZBWGUzWmgzTmFwYTFuelNYd3V3U0xtRHpSVFplbTZpMFh0R1RYdUFZWTVaU0xoTU1yNE94VS1hMzlDbjZPUERmaG9BNWNmSml5Q3hualNzYko1dWRNaDQyd0VmckcxS1o3OU5aanpSVG5rTjY5WGJCOXpLdGJDSXNqQmd3?oc=5"
-      },
-      {
-        "title": "Wszędzie biało! We Wrocławiu od dawna nie było tyle śniegu - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVGpReTdHV3pXZGx5SGVsbEJ6QWhDUUt3ZDEyeF9nb0RJLWZxekI2NHZLTVdUUm9GSXVaLTZTMkRkbmp1Z1UycElWVDdSTjB0QjR3SWF3QzUwbEFHUGF5R0hKM2dyM3EyS2ozU1V5VWVJcTRTNnN3NDZ4dTZQMWNJVXY2bURjcHVnWm05VGVhOVZ4enZCbExqc21Cbw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-05 22:14:53",
     "weather": {
       "Warsaw": "Warsaw: -7°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zwolnienia lekarskie pod ścisłą kontrolą. Prezydent Nawrocki podpisał ważną ustawę - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2hsSGNHNl9MZW95TVBuUk9rRjRBMjA3MnZqQXNoR1Z6U3JaanllYnZMS2NMNEdnWU5uenBYUXdjR21xdk5uTmFEOUQwM1lkdjhEcXlHOGVaNFc1eW1MZmk2bk9sZWtqcUlxN2I4TzM3RXA2U2pOdWRfMVpSRWRNMDEzcHI1Um9URDRkQjhsSXFWeFd1WHI1SFN3ck9lQWNBRFUwNk5RX1pZbVFtTzBLNnBmZGJoYm9HQVZ3ekk2QXp2a0k?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-08 05:34:18",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.6035,
+      "EUR": 4.2105,
+      "GBP": 4.8629,
+      "CHF": 4.5279,
+      "JPY": 0.023031,
+      "AUD": 2.4281,
+      "CAD": 2.6087,
+      "CNY": 0.5153
+    },
+    "crypto": {
+      "BITCOIN": 327925,
+      "DOGECOIN": 0.527372,
+      "ETHEREUM": 11361.47,
+      "LITECOIN": 294.43,
+      "RIPPLE": 7.8
+    },
+    "indices": {
+      "^WIG20": 3312.1,
+      "^WIG30": 4265.47,
+      "^WIG": 3312.1
+    },
+    "news": [
+      {
+        "title": "\"Trump nie ma czasu\". Oto dlaczego spieszy się w kwestii Grenlandii - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnE0LTFuUjlVNkY4c0p5YlphWGx1YjN5Z3k1MF93QTVlZWpycC0tNWtneFJMOG80U3gxc0tCbEI3RDE0THVBYjJkeTVkWmNuQTVfa1k3TlVhb2NBLVlXZGRVUW1ROXRQanFpeGk4NXdjMzlLVktwQ2NENEJfODhJZy1OZWMwcGtsb3Z4VTZaVU1paE8yeW51LUdfZVB2alpOZ0h5VVBxcG8zYkdMaGRneGx1SQ?oc=5"
+      },
+      {
+        "title": "Zwolnienia lekarskie pod ścisłą kontrolą. Prezydent Nawrocki podpisał ważną ustawę - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2hsSGNHNl9MZW95TVBuUk9rRjRBMjA3MnZqQXNoR1Z6U3JaanllYnZMS2NMNEdnWU5uenBYUXdjR21xdk5uTmFEOUQwM1lkdjhEcXlHOGVaNFc1eW1MZmk2bk9sZWtqcUlxN2I4TzM3RXA2U2pOdWRfMVpSRWRNMDEzcHI1Um9URDRkQjhsSXFWeFd1WHI1SFN3ck9lQWNBRFUwNk5RX1pZbVFtTzBLNnBmZGJoYm9HQVZ3ekk2QXp2a0k?oc=5"
+      },
+      {
+        "title": "Zakończyło się spotkanie Macrona z Zełenskim w Paryżu [RELACJA NA ŻYWO] - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LWmRtdVMySjM0aEFVc3pVM0lEQmxEQ0ZXQk5yWWVlYTkwQXp2QVJ2SWQ1SXJxRU9HYnFpRGFXRnVkU1BiNTFVNHRGVUs0VDcyT0JMWU5XeEszbXVBT3JJTA?oc=5"
+      },
+      {
+        "title": "Lekarze ostrzegają przed wychłodzeniem organizmu. Jeden błąd może kosztować życie pacjenta - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUYxTmRHZkp4OUpVX01yMm1uTnpGWWdmdTdYdnJ0bkhhbXU0QUVFbzlZVGdjdGpBcFNmSEt3NWRrUm42V3gwaldBV0JlUkFqY1hxcUtkaXZoR0lQWmtqcmViVUZXb1BRT3U3cjREM2M0T0xwOXJQTkE0T1ZYbDFoUldhQUlMRWFTQ05pX1VZYTFGUUdXZS1UcWtLbVozT1Vrb01jeGVPWFhHTHVFaFFSWWU2RGFGMUN0aF9BZXlSR2RISVNZVjNIdFNvVnlxdzF2M1BPRF9CUGNWSmg2dVM0WW1B?oc=5"
+      },
+      {
+        "title": "Pierwsze posiedzenie Sejmu w nowym roku. Będzie spór o samorządy, budżet i butelki - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFVCTGtSYmRnQ0xTWU5hZERvUEtNUmJaODJnS2dVck5UODlPQTRkazFUYmVzaTItWW9IemR4a2pLM1Q5T1JpbzZ3a1ZCNkdhMnF1clZfNnF2bXV2ZGotSTZsVndKNGRDSmtWdGdfTklFa1ROZWU0UnJRLW9VNUlfcmxMNHJfc3pTTkd4Ti05aGRMbF80WjZpeHo0RGtNa0dRZXVyMXp5Y0NvdkNNaHBESTU1b1JDczJlM05FcEU4ZXpKOW8?oc=5"
       }
     ]
   }
