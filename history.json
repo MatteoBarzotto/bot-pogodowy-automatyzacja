@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-07 10:22:34",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -5°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.6045,
-      "EUR": 4.211,
-      "GBP": 4.8458,
-      "CHF": 4.5263,
-      "JPY": 0.022969,
-      "AUD": 2.4062,
-      "CAD": 2.6163,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 332107,
-      "DOGECOIN": 0.543192,
-      "ETHEREUM": 11657.58,
-      "LITECOIN": 300.87,
-      "RIPPLE": 8.17
-    },
-    "indices": {
-      "^WIG20": 3279.49,
-      "^WIG30": 4222.25,
-      "^WIG": 3279.49
-    },
-    "news": [
-      {
-        "title": "Zimna wojna na szczytach władzy. Polacy o relacjach Tuska z Nawrockim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUtybDZvQi1fMXZiYWpGeWJuUDdVbDVqelk5WGcyTGoydDJHT25TcXM2YTFsLXRoUVA5NUtHRGxWbmdxVlJEOU5fd0g3bmhPbER1eUhLUjN0eTM5V3VZV0pMamxJTGZHa3hmSGhwZ1hyWnhsbWRJSlpGTEJTQk1DbEJXMjdSdzNqbDBMMkNlVmdXV3ZnOFN5M2JxcmFjc2hMVC01YU9MSm84cjhnQ0NXbw?oc=5"
-      },
-      {
-        "title": "Applebaum: Wiadomo, dlaczego reakcje Rosji i Chin na weekendową wojnę Trumpa były zaskakująco łagodne - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajJwSDRxUDlTMi1LMF8xakJRUGpBS2lQeVNidEFOYkRvbGozMHhjckh3ZUVuUXRWRUhCb09TZkNwMW4tclk5a08xTXR3V1MwcVk3M0luMGxPcE5JRmFTeUZZYkQ0ZnliMVNCTXVHMnJiNy0xbS04SDhuTVN3NnVLZXhyckNZWFYyeWt1UExHd0pKQ2lXZWNkRkVKTkpUNnRha3U3S3FJR1ItVllLbkpmUnp3?oc=5"
-      },
-      {
-        "title": "Awaria pociągu na Mazowszu. Od dwóch godzin stoi na stacji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3pwZDBxY3ozWjhNYzdfd3JNT01xLVFkUkNvTmVEV3lZWlhWeV9QelBTa0VGTlVFQWdscnd0R1JwNTF1bzFfa3hoTUdiakVTczdHbnZTS1ByczNVNHJNWF9ZemtJSnhFRTBOVHJDVE9mQ3ZiNmZBZnZGQjh0ZzRiakQ2RGo0STZSb1h5eVZ2Tmo?oc=5"
-      },
-      {
-        "title": "Mróz i zawieszone pyły ściskają Polskę. Obowiązują alerty - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkVlclk2NmlqMXU3WFROMXB6Q25NY2s4SDdJbUhGQjNnY09rMzFGSGRfd3d6QXo5QVM2TGZheFNjbnBqRmFNU3lRSnBzbkNROHI3WDBEYzd5cXQxV3RRSi1jUFVxWjctblRfTWVmUHZiMW9TWTEwWl83WHg4V1h5eHhjcUlOcHBGTXFGLTE4YXgwdlE5X1l5XzYtWTRNczZjNS1KZGZ1MkpxZFJyTU40?oc=5"
-      },
-      {
-        "title": "Pierwsze posiedzenie Sejmu w nowym roku. Będzie spór o samorządy, budżet i butelki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFVCTGtSYmRnQ0xTWU5hZERvUEtNUmJaODJnS2dVck5UODlPQTRkazFUYmVzaTItWW9IemR4a2pLM1Q5T1JpbzZ3a1ZCNkdhMnF1clZfNnF2bXV2ZGotSTZsVndKNGRDSmtWdGdfTklFa1ROZWU0UnJRLW9VNUlfcmxMNHJfc3pTTkd4Ti05aGRMbF80WjZpeHo0RGtNa0dRZXVyMXp5Y0NvdkNNaHBESTU1b1JDczJlM05FcEU4ZXpKOW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-07 11:18:04",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-09 16:17:20",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 326733,
+      "DOGECOIN": 0.503702,
+      "ETHEREUM": 11144.37,
+      "LITECOIN": 292.05,
+      "RIPPLE": 7.58
+    },
+    "indices": {
+      "^WIG20": 3258.7,
+      "^WIG30": 4203.87,
+      "^WIG": 3260.18
+    },
+    "news": [
+      {
+        "title": "Kolejne ustawy z wetem Karola Nawrockiego. Znamy szczegóły - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemZhUngxTUY3ckluRHZaYWc3S0tuU0J5cDlTTUVJLVZfaDFid1k2c01kR3Vnek1tLU1CM005UjFxemViY2pWbEhPbGVEWWdJLU5CVGtVYm04a25tcGwtR2R4eTVJX3ZzdHpVTE0zSVUzRVZJX0NGNWNhYmJfdHl5SEVWTnNtdFEyZUlYeFRyMDRrVmNIWHlDanRrNi1tVDVleHQyd3JPRm9tLVZkakN3bi1UOWQ1OHpFOGFELQ?oc=5"
+      },
+      {
+        "title": "Trump chce Nobla od niedawnej laureatki. Będzie spotkanie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkZkRTlQQ3prU2xOMEpMVkVHZXM0ZlVCejZpbUZSM0tveGtpX2ZiRzk2WHFIekVVUVFLMkpabEpxUTVRZnpBM0lWY3loX3FwenpVSEVtZXZWdGVYeUt0NGtGdDNiNWpESzRJSmhHTXBoVy1xRHNfdE5JczVaSGdHTU5wZEo1Y0hGMEtMUnJJNEpQNVMxM2M0OVByY2tOVXE4?oc=5"
+      },
+      {
+        "title": "Wrze w Iranie. Ajatollah Chamenei odpowiada Donaldowi Trumpowi - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVJMenVVNk1nQWJrc3hKZUZYOHNNM1U4NHE3SlJjWEhjTUxGZ1kxeTY5VFRkRUp3UFVkdms2UWV5Z0M4RVhiQTZQTHZPUkJHQWZ2cjM3NEdjZUJ2NEtJNUtFSkdibWNYdGdJWmk5ckxXcW01V3dUaE1vZ0VSMVdZTVJFQk9yVUdFMnh1ZnV1d1hYbUYxLW1mV2RsM1hKSFhkUFdVaQ?oc=5"
+      },
+      {
+        "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
+      },
+      {
+        "title": "Ciężarna pacjentka umiera po podaniu gazu w szpitalu. Trwa prokuratorskie śledztwo - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFFJVHpBM2drdmVOX1Q3RDBjYkxjaTU2NGhOZWt5QldFeGUxeGhzRi1uV1h5NmdaTEFYYUUzYmxzenpJdXBNempvbkhqQXZNTzJ2cDRBT2U3QVVYR2xmTmUxekdzSU4wSUVlMkMxYlZWMU5TYXUzZTRVT2M0UV9yNUJORl9yMS03ZXBSdVVDZDI0TU1UTjdUUmtBU1FGNzM0cEplWV9PWU9OdHNROXVWbmowbEIxeVR1MnRtUUlIRERYMjZzQ2piSEkzZXBwSEE?oc=5"
       }
     ]
   }
