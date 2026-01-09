@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-07 12:15:11",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6035,
-      "EUR": 4.2105,
-      "GBP": 4.8629,
-      "CHF": 4.5279,
-      "JPY": 0.023031,
-      "AUD": 2.4281,
-      "CAD": 2.6087,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 331723,
-      "DOGECOIN": 0.536126,
-      "ETHEREUM": 11608.29,
-      "LITECOIN": 298.3,
-      "RIPPLE": 8.11
-    },
-    "indices": {
-      "^WIG20": 3293.57,
-      "^WIG30": 4241.14,
-      "^WIG": 3293.57
-    },
-    "news": [
-      {
-        "title": "Echa awantury na posiedzeniu rządu. \"Tusk postawi do pionu\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZeXN1cmdQQXRZdzU0bHJ1Y0RZbXFfT21DSzBoS09BZ2VhU1dBRlFybnczUWs1enJ5V04waDdvZ1Y5blY5bUhzeHEtU0t4bkJNZWVUQ0pkNHF2VzR6WTNaUTgyWDA2TVk?oc=5"
-      },
-      {
-        "title": "Upijali klientów i czyścili im konta. Przed sądem staną 82 osoby - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2pzMVpqcWpzM1dQQXFycnVJQjE0a3Z6QTk4Q1ZMUkhxVi1RSFVkOFhLUWZZQjFzd0kzUlh2RG9RZXlXUEZaSnJhMHFDWnJzSFJQMDhDVVE3U1JXUWhhN2t2NmthVlRiS0hSajlJTldLbkg2YWtyUHMzYXZiVlhka0g5a2FsaDlVV1dXbk5QUmhhUjY2NE9jWWVxVVpNdWJ6VkNjTGRiNldoVmx2N1dKcnk4Q0V4NFhwMHc?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński zwołuje polityków PiS. \"Obecność obowiązkowa\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGVnM3J2SGhkcDhfSXVXelZ2YXM2MlNjWms2dmdtY3lhNzB4WUgydDVPWmpFRU5JSkVnUnVaWmNITi1JNkRTa0tNU3haYWsyZ014WFRWdzJfUWk5UTU0WlBHbkltaXkzaENyVllUZkRHQ2pKYlVSSFhwRXB3WHdzUkZpYkF0NDJ5VV9vWlBKQnV4UnFPSFBNQTBIYjJDM1lScUJVdXpwYTNrbWc2Mnc2ZlBnRkY3a0ZPMFgwV3M3NFhZZw?oc=5"
-      },
-      {
-        "title": "Applebaum: Wiadomo, dlaczego reakcje Rosji i Chin na weekendową wojnę Trumpa były zaskakująco łagodne - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajJwSDRxUDlTMi1LMF8xakJRUGpBS2lQeVNidEFOYkRvbGozMHhjckh3ZUVuUXRWRUhCb09TZkNwMW4tclk5a08xTXR3V1MwcVk3M0luMGxPcE5JRmFTeUZZYkQ0ZnliMVNCTXVHMnJiNy0xbS04SDhuTVN3NnVLZXhyckNZWFYyeWt1UExHd0pKQ2lXZWNkRkVKTkpUNnRha3U3S3FJR1ItVllLbkpmUnp3?oc=5"
-      },
-      {
-        "title": "Pierwsze posiedzenie Sejmu w nowym roku. Będzie spór o samorządy, budżet i butelki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFVCTGtSYmRnQ0xTWU5hZERvUEtNUmJaODJnS2dVck5UODlPQTRkazFUYmVzaTItWW9IemR4a2pLM1Q5T1JpbzZ3a1ZCNkdhMnF1clZfNnF2bXV2ZGotSTZsVndKNGRDSmtWdGdfTklFa1ROZWU0UnJRLW9VNUlfcmxMNHJfc3pTTkd4Ti05aGRMbF80WjZpeHo0RGtNa0dRZXVyMXp5Y0NvdkNNaHBESTU1b1JDczJlM05FcEU4ZXpKOW8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-07 13:33:09",
     "weather": {
       "Warsaw": "Warsaw: -9°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Natychmiastowa reakcja MSZ po decyzji Węgier. Chodzi o dwóch Polaków - Onet",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlNIVmpmd2ZLNE1pOFBTM3VYNTVSckdoX3ptdmRDTFlfWGJjNm14YjdDMWxNUkxrTzgwWEpvSDVVQUFVY1VISnMxOGlPNEVrb1RYa2FlaktjMk5qeTRIdURfaHlGOHNvamFOejIxZ1NNQ1drSTdFd0xLQjUxaHdpZ3BKZjFaUlZ3YjRrMkRVSXVRUXZ0Q3F0SF9pTXhuNVczRF9oY2dUOG9yRFVMekZONDJjdkxiQTZVUGR5VTdjS2tNeUxvMWl2S1NR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-09 18:18:45",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "Krakow: -8°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 329664,
+      "DOGECOIN": 0.514944,
+      "ETHEREUM": 11263.16,
+      "LITECOIN": 295.17,
+      "RIPPLE": 7.65
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Budżet 2026 pod lupą. Sejm zdecydował o poprawkach Senatu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2NUU1hXMWMwNVh1aHhodlRuSU80SmVtMnlVeE5USlBocUFETnNYbDljdzFqeVFtbmwyYVRSVUpfSUNzX2tqOTFYeDRBZnBLdXRhVEhXTTdISEV1TnRSTHlFMk1yTHc3UFlfMW11bi1kZlBKOWI4QndlM0otRXk3QkY5ZWRuVXkzVVlKZ1dVTk1PSWFaSnBVeUMyZmlkTXRucUZOZmNNanA?oc=5"
+      },
+      {
+        "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
+      },
+      {
+        "title": "Nie tylko Romanowski. Węgry przyznały azyl kolejnym dwóm Polakom - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVBfdF9EdEpjSi1JYXB6c25yTWRsVEh0LS1TeXVtSWFRbzVPM0xhV1o3ZjFONXdQSmdBNzcwbEZRZTVyQkdfT1ZUZTR3VmNXcDFSUkZXTEFqSlFJZ1dacVFUdVdVVWhLM29ZUVpmUlhZTHl3NFlwMmVGTTdKWVFqaEEtT3J4ZXdRaGVYTE5RU1l2QVhMeGNQQ0xYeGcwNEs4MXp4cC05TTByd1E5eGtxSUVTd0V4R3MwWEE?oc=5"
+      },
+      {
+        "title": "Ustawa o jawności płac może zmienić rynek pracy bardziej, niż się spodziewasz - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFNpaXEyaUpWWnhteG9IRGRBdGpDWHdoMG93N1NvaGR0WU4tZlFGbDRjT2ZtMUxOSnV6SVlnSVlYRUNHTkZ6dnJpRzNUMFlpZWVpNVlROGNYTEU1VC1rQk5aNDBpVEFZa3UtS040TUVXLVhMS2I1ZE14UDJNcWJkUWpaWHh1ZHVDQ21KYUlPbjFhaHhJTm5lTHo5MHV5OEVnZzFXUXhlcGpfUC01ZDVMV0JKZXVvU3lPd2c?oc=5"
+      },
+      {
+        "title": "Sypią się kary za sprzedaż recept w sieci. Fentanyl, morfina i oksykodon na celowniku - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMlNLYnhncHZQM0psaDVZVkdCM2g3aDA0NzExYVZydVZvY21EMEFOTlozRGRobnNQX0NUdmpNQnpLSkJtUHdNdGhrWWFzVTdKdVcydWNqekJhSExscXV4VEd5NF9vdmE3VXNPSDJpTGFBMzJFTktYZTVyM1Q1QXAxVzc1WW1pWURNeGtZTmJETXpMRXk0NzNYQk5JeUZrN19hWmtWXzBIREh3VTBtcjhPekYyX01Fb1hHNm5ocHIxa3FJTGxxdWF5TkxvQ0QyVzNKbzVXa19DT0gyS2psUm1YTEktdnQ5Yk5Fb1QtN1kxcE52ZE5KN2FXbkFPd1AyRjV0MGpUOHV3?oc=5"
       }
     ]
   }
