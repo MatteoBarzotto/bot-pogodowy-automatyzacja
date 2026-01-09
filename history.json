@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-07 08:20:44",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.6045,
-      "EUR": 4.211,
-      "GBP": 4.8458,
-      "CHF": 4.5263,
-      "JPY": 0.022969,
-      "AUD": 2.4062,
-      "CAD": 2.6163,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 333738,
-      "DOGECOIN": 0.533761,
-      "ETHEREUM": 11724.24,
-      "LITECOIN": 299.13,
-      "RIPPLE": 8.18
-    },
-    "indices": {
-      "^WIG20": 3258.52,
-      "^WIG30": 4186.16,
-      "^WIG": 3258.52
-    },
-    "news": [
-      {
-        "title": "Święto Trzech Króli. W całym kraju ulicami przeszły orszaki [GALERIA] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzc0b29RNU9VaTN5a3M1U2wySDZOTXo3NnRoS2oxa3VoNVJYbkktZXNXakdPQUt3UUF4SjhkLWk5b184RU1UQjdhSENWeXA0TlhLc2M1Q2VSUmJBM21fVHpsUmJnYzFGU3V3MWxEeEtTRFMzR0xNU1FqLWNpWEl5aFpzWW5OenNuODJfUHA3SWEwNDFROFRCRzFFeUNiR3dCVE5FNDJITVZ1UQ?oc=5"
-      },
-      {
-        "title": "Pierwsze posiedzenie Sejmu w nowym roku. Tej ustawy zabraknie. Będzie spór o samorządy, budżet i butelki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFVCTGtSYmRnQ0xTWU5hZERvUEtNUmJaODJnS2dVck5UODlPQTRkazFUYmVzaTItWW9IemR4a2pLM1Q5T1JpbzZ3a1ZCNkdhMnF1clZfNnF2bXV2ZGotSTZsVndKNGRDSmtWdGdfTklFa1ROZWU0UnJRLW9VNUlfcmxMNHJfc3pTTkd4Ti05aGRMbF80WjZpeHo0RGtNa0dRZXVyMXp5Y0NvdkNNaHBESTU1b1JDczJlM05FcEU4ZXpKOW8?oc=5"
-      },
-      {
-        "title": "Spotkanie prezydenta z szefami służb. Szef BBN o kulisach. \"Mogę to ujawnić\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRTQtY1VGTmhJeURYV0JXa3Y3MGJzNU42Q0NsaWZuRDRhdjFhaTZ2eTdTLXBNRVVjVmduOUd6bkM5R0xiUnp1NzlSb3Nwb3FCUmhlLWx1aWF5OGMxNGlsdnJ3LW5wOWNUVEtjRHJqU0YzUzdmLTNDUksxbG5aVjU2UlVac2Z5aE92QUcyRE5nMThLZU9rbmktWnlDSE9YNS1nLWRfaUxTNWFNTHJUSEl2ay1n?oc=5"
-      },
-      {
-        "title": "\"Czekamy 30 lat, poczekamy jeszcze kilka miesięcy\". Główny Inspektor Pracy o wstrzymanej reformie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWt1dnlNT0x1SjFDM3RrcW1hU2pzTzNtSkdLcGVDQXBvRWRBM2VHWlFIVXBVclVXSFk3akR6aVdIY1pjV2sza29rU09ZT0ZPQkRGTy12NVdSUi1CMkNDVjdsQjNPaHJWM2tFTUg0cmZjNkpVX1FvaUNjS1RaNktKTjI4N1l3MTNyUmNVcHBBM3IxRk8wMEJjRkpMWVhxWmY5Z19UU1k4ZUY0ZlRIY0ZPTGY3RWhLZw?oc=5"
-      },
-      {
-        "title": "Utrudnienia w kursowaniu l. 106 - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzQwNHdJMTJpTS01eTBuWjh0TGFLMEY2QURRYkRzc3djZzM2enhvV29jdmxSVDE1SFRwLUVjUzJyU1YxdHhmczN4aW5ObWlFVnNvTkxrOE00U0VoNzJtNTdseFMzZHBLTERtVk5MZ1hWS081alZvVVgtOEw1WjkyYzlSMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-07 09:22:09",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Debata Prezydenta RP Karola Nawrockiego z Andrzejem Dudą \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1hLX1ZJQldnQVo5WkdiRm5ETXQ0b1A0bEQ4dWh6SjcyS2p5N3FGSUozU3Y5V1h3SEZIbmRCNWJKR1BOcjY3bjlnLUJuNHNJVWFTY3Zhd3dBTk9Kd3pXWEowZ1IyWDFuZ2RLY2oyZHI1NklOYWNlN0lCOVdUZ2RiOFgzVGQ3TlM2eHJuVGhPdlpoTDJPVTZ5VVQ1V19EamZBWTZvaWlZYmFqa0t1dUxYTUFPanM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-09 14:33:51",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 327290,
+      "DOGECOIN": 0.508576,
+      "ETHEREUM": 11191.51,
+      "LITECOIN": 293.54,
+      "RIPPLE": 7.61
+    },
+    "indices": {
+      "^WIG20": 3266.48,
+      "^WIG30": 4205.45,
+      "^WIG": 3266.48
+    },
+    "news": [
+      {
+        "title": "Prezydent zawetował nowelizację umożliwiającą blokowanie nielegalnych treści w internecie - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjF2QWJ3cHdjdzY5c1FKeHIyemxpMlpCakNhRDY1YjVsclhabWRvODVUSVIxQ01xa0RTRkNGcXVrRnlWNzYyWV92UXNvUThRRlN4Um05NWVZQ2NDcWlHYzZuVXRlNGlaQkF0QTZqd1pGNEkxQkkzb0x3VFNMZUZWYlBNLWxoMHVrQ1hyZjhyc1dVQVBOZjVjN0M5eUVrNmhtSHhyUzRVemtfRHBPenBDeA?oc=5"
+      },
+      {
+        "title": "Umowa z Mercosur. Jest ostateczna decyzja Unii Europejskiej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0p5a3BBb0xBRnp5TWpkZlVpenRZMXpLMzkwenc5VmhoMGF4VllYRGZobFZBcG85MWFpeDh0dnZ5bk5SODJGYV9uUGtQVVA4djIyMTZzd251cFNjMjQ1TE1VTk5IaHhmdDEzaHNxYzlsYlpKdlNYc0hrLUZfMTR5QVZFaHVzYTdJcnJoemN5SS1qejVVMzJzcktQenhpWkFINVpMc3pvQWJIZEtNbzRXaERkLUNxN2s4ZVdoaUV6bEtYYXh4c1o4?oc=5"
+      },
+      {
+        "title": "Gwałt w oddziale prewencji. Nowe informacje o podejrzanym - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjUtZENBT1hYUmFpMlhZbll1eUk3RmNqTllYOGNqY0ZIZVN3ZUJfMVhXaDVvMUdQc3hyUU84UGZQcEVHVVdXakxnSnFENkhVbzZZbktlSmFYblAzNkVDT1lnOE9hcDFZc3lfM01VdDRxLUpOMUY4SmdybVE2WE1nMWI5Zi1NU2tqRlJqS3VRbTFTMHVhWUdZaC05bUJJdjdrcUE?oc=5"
+      },
+      {
+        "title": "Wrze w Iranie. Ajatollah Chamenei odpowiada Donaldowi Trumpowi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORk5DSWpxZVRDZUVQcTl0Q0IxX1RQanU2cFBNWXd4WkY2Q1h0OXhZTmtCdVltbDFZV3BmdnNtX3FFSDRMSW1YbXZyZ191S0Jhdm52SG9EeTdnVGN3Q01LZVRqNHhhdHNPYV9BeEYtWlo2dHhvRi00azNfeHA3QmpEZ2p4enExY0tjeEJWTi1obkIzaEluamlpSlBUWk1UNmtoWEEtTEMyRXM5UmxqQVlUbVdvclByTmJudXlGUmd3VnJPdw?oc=5"
+      },
+      {
+        "title": "Prezydencki minister skomentował ruch Donalda Tuska. \"Dobra decyzja premiera\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkJKSERjNXU3OTFCa3o2dE5BenJWVDNTdE5GOUxpX09DV0RjTTlYUzlhWG1EUnR6a1VoZVJManFCeWIzYjhSREZNLUIyVE9EMm9OS2NxcHQxMlhNWWk4czN6NTJjUzVuUTVUaGpDc3JpdGJ2NUhQNW1ucF9Qd2RoUmZ0MENtc2JBNFJxS1NIeGNHSi1yZ3pNT2ZsbGFxc3VqOHhtSVQ2UDdkekJuQ0Q1M0ZnSkFtOU1BTlFJ?oc=5"
       }
     ]
   }
