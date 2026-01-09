@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-07 11:18:04",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.6045,
-      "EUR": 4.211,
-      "GBP": 4.8458,
-      "CHF": 4.5263,
-      "JPY": 0.022969,
-      "AUD": 2.4062,
-      "CAD": 2.6163,
-      "CNY": 0.5161
-    },
-    "crypto": {
-      "BITCOIN": 330426,
-      "DOGECOIN": 0.535495,
-      "ETHEREUM": 11549.29,
-      "LITECOIN": 298.59,
-      "RIPPLE": 8.07
-    },
-    "indices": {
-      "^WIG20": 3286.33,
-      "^WIG30": 4230.11,
-      "^WIG": 3286.33
-    },
-    "news": [
-      {
-        "title": "Zimna wojna na szczytach władzy. Polacy o relacjach Tuska z Nawrockim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUtybDZvQi1fMXZiYWpGeWJuUDdVbDVqelk5WGcyTGoydDJHT25TcXM2YTFsLXRoUVA5NUtHRGxWbmdxVlJEOU5fd0g3bmhPbER1eUhLUjN0eTM5V3VZV0pMamxJTGZHa3hmSGhwZ1hyWnhsbWRJSlpGTEJTQk1DbEJXMjdSdzNqbDBMMkNlVmdXV3ZnOFN5M2JxcmFjc2hMVC01YU9MSm84cjhnQ0NXbw?oc=5"
-      },
-      {
-        "title": "Konfederacja traci, najwięcej zyskuje partia Brauna. Najnowszy sondaż - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmpyc1Z5VlpJUWNJUFhqb2VzOE1MNXA4SFZEZS1pWURmVGhsRkkxUFRKR0doYzAwTFlqc3B3NjRMRjhJMkRRb08yTEQ1VE1mS3hVLUtzeEg5c0JNSEpYeFUtdW9rWm1lc3ZKeWNsaUhXZnBDcnBKaFlNZF80S0hJWDR3NENjcVd5RTh6b2VXTE9pWG4zLTJNT1lnbWJRQ1VYeEszZ2h5eEJYeVRRM09Qbg?oc=5"
-      },
-      {
-        "title": "Głośna reforma idzie do kosza? \"Nie ma zgody na dalsze procedowanie\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzJmNkgzYnRuaExVbE5sSUxLMjgxd2RZRmVaYm9jdU1oT3VFc2FRMUdjWFFyZ0hKYkpDRHRaNlF2c1Q1S08zazBpbmdhU1F4VDFieGhMeEtDaF9ON3NCMFB5SzdBa2xnV0NONTNvVndaZjRwRlBOMEJSWi1qd1hTYmp1aTRWM2xacW9IdmZXS2FHNkZTd1lmQ0laMExsTTFiU0NwRFBVVHdUMGlpa3VMaktQV19DMW1EVWhPZg?oc=5"
-      },
-      {
-        "title": "Pierwsze posiedzenie Sejmu w nowym roku. Będzie spór o samorządy, budżet i butelki - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFVCTGtSYmRnQ0xTWU5hZERvUEtNUmJaODJnS2dVck5UODlPQTRkazFUYmVzaTItWW9IemR4a2pLM1Q5T1JpbzZ3a1ZCNkdhMnF1clZfNnF2bXV2ZGotSTZsVndKNGRDSmtWdGdfTklFa1ROZWU0UnJRLW9VNUlfcmxMNHJfc3pTTkd4Ti05aGRMbF80WjZpeHo0RGtNa0dRZXVyMXp5Y0NvdkNNaHBESTU1b1JDczJlM05FcEU4ZXpKOW8?oc=5"
-      },
-      {
-        "title": "Tysiące mieszkańców Białegostoku na Orszaku Trzech Króli - Archidiecezja Białostocka",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXluekdpeDhJODRVajZJMXY0UjRaX0dyOTRTYkJZTEFXem93Z3d4UFdkblBCNk5TT1lZUnIwemNka3F5TnJ5Z0NEakQ5b1cxQW0tVmZBOGZ4eDFQOXRiQWxlak1vS01PTXNtUFlQRHlxaUQ4c243RkM2bzdVV3dMMVdTX1NYdXBMQUpqdjNidkFFYU1vUThRcTF3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-07 12:15:11",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Ciężarna pacjentka umiera po podaniu gazu w szpitalu. Trwa prokuratorskie śledztwo - Medonet",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFFJVHpBM2drdmVOX1Q3RDBjYkxjaTU2NGhOZWt5QldFeGUxeGhzRi1uV1h5NmdaTEFYYUUzYmxzenpJdXBNempvbkhqQXZNTzJ2cDRBT2U3QVVYR2xmTmUxekdzSU4wSUVlMkMxYlZWMU5TYXUzZTRVT2M0UV9yNUJORl9yMS03ZXBSdVVDZDI0TU1UTjdUUmtBU1FGNzM0cEplWV9PWU9OdHNROXVWbmowbEIxeVR1MnRtUUlIRERYMjZzQ2piSEkzZXBwSEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-09 17:19:43",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "Krakow: -7°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 331139,
+      "DOGECOIN": 0.519653,
+      "ETHEREUM": 11337.0,
+      "LITECOIN": 295.83,
+      "RIPPLE": 7.73
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Nagła zmiana planów Donalda Trumpa. Miał planować atak, pojawił się komunikat - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhfLTlyUUxBUkEzcGpuc1pUdFF5QVhqcDh2NUJaMHhrTkRsTTVNaVBFTjZvZlVFS3E2VXk5cmFueUF6d1FaSTl3eW1hUl9aN3ZINF96OGQ0Um5RaFR4alMzeDVFN2JPR2hhZGpveS10bng0QzhqVmxMeEtSbUQ3bC13cC1keGVsTjl3akQ0S0YtSE1DOWlmdUIwa3BQNW1ZMVQyQ1FtOHFCMUVkeGRUT2RQLU9TbG9L?oc=5"
+      },
+      {
+        "title": "Politycy PiS myślą, że Polacy doznali zbiorowej amnezji - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPek90SmlnNjVpLXphNjNmYzVOUm82RzRGTDZHanVzWUVEdmtQTUNTZG1RTlV6bUc2cm9xakM4VGJGVnRScnM5Q19UZGRXRHE0MGRJamR4SmsxVFNEbGJOblRtZEctNFBOZ1NkUHZlcWs4b1ZxRkhHRFRNX0g4cERWS2hyb2RsaDJYSno3SVBqU0hERWFwZXlWcjZrajYyUXpQeC1UZWl0OA?oc=5"
+      },
+      {
+        "title": "Ciężarna pacjentka umiera po podaniu gazu w szpitalu. Trwa prokuratorskie śledztwo - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFFJVHpBM2drdmVOX1Q3RDBjYkxjaTU2NGhOZWt5QldFeGUxeGhzRi1uV1h5NmdaTEFYYUUzYmxzenpJdXBNempvbkhqQXZNTzJ2cDRBT2U3QVVYR2xmTmUxekdzSU4wSUVlMkMxYlZWMU5TYXUzZTRVT2M0UV9yNUJORl9yMS03ZXBSdVVDZDI0TU1UTjdUUmtBU1FGNzM0cEplWV9PWU9OdHNROXVWbmowbEIxeVR1MnRtUUlIRERYMjZzQ2piSEkzZXBwSEE?oc=5"
+      },
+      {
+        "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
+      },
+      {
+        "title": "Natychmiastowa reakcja MSZ po decyzji Węgier. Chodzi o dwóch Polaków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlNIVmpmd2ZLNE1pOFBTM3VYNTVSckdoX3ptdmRDTFlfWGJjNm14YjdDMWxNUkxrTzgwWEpvSDVVQUFVY1VISnMxOGlPNEVrb1RYa2FlaktjMk5qeTRIdURfaHlGOHNvamFOejIxZ1NNQ1drSTdFd0xLQjUxaHdpZ3BKZjFaUlZ3YjRrMkRVSXVRUXZ0Q3F0SF9pTXhuNVczRF9oY2dUOG9yRFVMekZONDJjdkxiQTZVUGR5VTdjS2tNeUxvMWl2S1NR?oc=5"
       }
     ]
   }
