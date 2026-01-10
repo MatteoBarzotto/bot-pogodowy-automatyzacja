@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-08 08:19:56",
-    "weather": {
-      "Warsaw": "Warsaw: -9°C",
-      "Kraków": "Krakow: -7°C",
-      "Gdańsk": "Gdansk: -11°C"
-    },
-    "rates": {
-      "USD": 3.6035,
-      "EUR": 4.2105,
-      "GBP": 4.8629,
-      "CHF": 4.5279,
-      "JPY": 0.023031,
-      "AUD": 2.4281,
-      "CAD": 2.6087,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 324418,
-      "DOGECOIN": 0.515622,
-      "ETHEREUM": 11212.85,
-      "LITECOIN": 290.74,
-      "RIPPLE": 7.61
-    },
-    "indices": {
-      "^WIG20": 3312.1,
-      "^WIG30": 4265.47,
-      "^WIG": 3312.1
-    },
-    "news": [
-      {
-        "title": "Sroga zima atakuje Polskę. Dziś będą nowe śnieżyce, a w nocy aż -20 st. C - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMVV2TEluR2ZuS05Id1hKN1l5aXRoX2J1eVRzRmRBeG5fdXdQeW4wWHV2OTI5VzlXNFd3dmowMTR5V0Y2aUFWVWY3QW51c0VqUzNtRmNlajZ4N0JKejk1OG9pRHFYMEdpMmprdUZfMlc4WV9UNU10SEc5YWo0UXA3MXVPZlBDVzZzd3lpeFRNY04yYndSbDdYUUlYMHVrRDhmcndBSWxKRldTQzhTUlU2UzkyLUh6Uk5UcjN6OHIzeXc1cGFGN1AxMEgwdDlEb0d0eE15azBMaUc?oc=5"
-      },
-      {
-        "title": "Zwolnienia lekarskie pod ścisłą kontrolą. Prezydent Nawrocki podpisał ważną ustawę - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2hsSGNHNl9MZW95TVBuUk9rRjRBMjA3MnZqQXNoR1Z6U3JaanllYnZMS2NMNEdnWU5uenBYUXdjR21xdk5uTmFEOUQwM1lkdjhEcXlHOGVaNFc1eW1MZmk2bk9sZWtqcUlxN2I4TzM3RXA2U2pOdWRfMVpSRWRNMDEzcHI1Um9URDRkQjhsSXFWeFd1WHI1SFN3ck9lQWNBRFUwNk5RX1pZbVFtTzBLNnBmZGJoYm9HQVZ3ekk2QXp2a0k?oc=5"
-      },
-      {
-        "title": "PRZEMYŚL: Ulicami miasta przeszedł Orszak Trzech Króli - Archidiecezja Przemyska",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLXFqQzZDUXRSakhISEk1SXZwaEFTeVlYNy1MdWhleVA2RnFSRGFzb0dRNVFrNkc2SThReHl5eE96WjZTMTAzcWMxZUROUmFWWW5uZ0p5LTVhUEJabmY0b2xTMTVoZEo3aTN4d0ZlU0VDUjNOUUJuSDNuRjdmcmNvSFpxTQ?oc=5"
-      },
-      {
-        "title": "Prezydent podpisuje ustawy, USA przechwytują statki floty cieni [SKRÓT WYDARZEŃ DNIA] - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWtfWUJwekhEN1lzNmxvVlFJZnBtYmlmN19kZUI1ekRmNlRaTmtfX05DZGtEZHBBckxSd0RGRFl5T2hPcWtGNE5IMHhnYng3eENMRXVqc0hOc01fTmFIaU8yajdrTXFWWlJoQjFpM0VGeThPZnJDOVFwbDRrb19lV0hmQlJ4Y19zQkJfTHFZQ3VTOXR1NmltNzE1MnIzQQ?oc=5"
-      },
-      {
-        "title": "\"Rosja strzeliłaby sobie w potylicę\". Generał o akcji USA na Atlantyku - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVBScUh2NXBIUm9NVXZkRHRNclZzdjUzbmF2azY3cVZUZUFROEQ4czZvTUNmNlFISXhmbi0zOUhabkhLOTdGdWp4enF3OG1tUlJRaFAzUDNUODJkTmwyVy1fT2tJR3I5eXFhV21KVzU1Q3FMdUdZV0lPUkpheEhMX2N4R1UtLU5TeUJxd0xCN2FQc2h0VVc3cE1wdnYySnZFbFlOVWlwbG1CaUk0QkF6R0RWTkxGcXNwQkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-08 09:22:23",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Atak na dom ministra rolnictwa. Podejrzewany w rękach policji - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2ZJalBsRi1uSmR3MVc4RmtsWW0ycGdENk5vNjdwb2xDS0dnNGlxRl9YaWgyZGd2N3R3ZlI2NlVMdHNFT3pSZjAyRFBpcl95dUtQWjF6NFhwOHZJdWp0dlBsam5wMEc4QS1ZMDhNM25DTkk1bE96Tkt4RVY0bHJOWV9BUDJIVzhVeXJ5V2phbk1OdmlnSHRFVGhPbDAtWDQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-10 14:25:09",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "Krakow: -9°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 328050,
+      "DOGECOIN": 0.506705,
+      "ETHEREUM": 11197.65,
+      "LITECOIN": 296.84,
+      "RIPPLE": 7.58
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Wywiad brytyjski: Kreml zemścił się za Putina - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlBFVzVWWURkaTQzWDB2REIzODJKcUNkMG42c0JLemZCUl9mcFVSVEpsVzNSeFlXUEM5VnE2WDNObXhSOS1qUWtLVG1CYzdOcWRtNzFGS0x5TjZrai1fa2g5VDJxcmRFMkhGUVlhOGxhU00ycWpVbEFLY0N3MjZuM1BUYTd2eXhQLTZrM1c3Ui0?oc=5"
+      },
+      {
+        "title": "B2B jest seksowne, etat jest oldskulowy. III RP zrobiła wszystko, żebyśmy tak myśleli - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RWR3NIODg0dHJ3M2hVSGJsQVFfazFObjJobHlWRXN5MW10RnlDUU9kclZ2T3RLM0lQSjRWWmRvRnhZUDFBdUZyVzFaenc2Q3lWSW5zVXFTcWNLX0JRQlVmYkM2OU5MSEY2bGI3Z2RVSHpuMThDZThzOUV0bEtNZ0lqdGpWOXF4YWhBVlI0dFY1cWZBblV0VHNQbWJHenhISXc?oc=5"
+      },
+      {
+        "title": "Budżetowy cios w PiS, ale nie tylko. Mniej pieniędzy trafi też do NIK. Teraz czas na ruch Karola Nawrockiego - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkxxSkJkaVFfWm83QlRFdG5aUHRRaWI2QzJDbEh6b2JuMXlhLUMzMXRjS3JmbUp0LTAzYWloWUpNMnZRVDQ5eFRZdjVpaThRdnpNdk51SHdzbWFsXzcyYVZGM1VGbm5EY0tLT21zV0F5Q013YlFHRzVEUTNHYUlnd0ZxNDJ4cGxBTVpuYWNfbVhKMFROOC16SVI3QTJBQnRPSWhPYU5DS3o5MDBSMmtsQw?oc=5"
+      },
+      {
+        "title": "Krzyż wzmożenia narodowego z Kielna. Prawicowa obrona dodatku do stroju na Halloween? - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGkzRk9WdlpIVE56UWJSdGZwUmpYaHVabEhiaTZqdzBUWmg5c3BTemwwZW9tSHc1OFdrRkpGbldqWHI4d3o5anF5RXlZakJsV0NBM1NKdDJCWXlrMGw5VFRYV1JGSTF1M0VIdkc5bTdVSHpRYldzMENVQ3J5QzRsM0pfVUZWUTRGektDQ0hiTFl2UGJoQjdhUXJyZll3WDZQcHc?oc=5"
+      },
+      {
+        "title": "Koniec z samowolką dyrektorów. Zasady dotyczące wyglądu uczniów uporządkuje ustawa - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcUxxR0JtSUphUDRCTGl3aGlMcUlnazNlamo2N1I5WHJvbThPblR4eVU4cnN0R2lLRmtyYzZrVkk4MEgtNDdVVC1rWTlxMUNfYTZIYzNGMHhrR3hQLWszTVRrc1F5eXhRSEE5NTBiNW1jNFJzdmp6Y1ZRLXN0SC1kS1pRc3RMQ1l1S0xpY3Z2NTc1cTRCWTBSLW95SDN2c0Qzb1k4RHFn?oc=5"
       }
     ]
   }
