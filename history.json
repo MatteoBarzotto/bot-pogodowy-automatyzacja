@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-08 11:18:09",
-    "weather": {
-      "Warsaw": "Warsaw: -8°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -10°C"
-    },
-    "rates": {
-      "USD": 3.6035,
-      "EUR": 4.2105,
-      "GBP": 4.8629,
-      "CHF": 4.5279,
-      "JPY": 0.023031,
-      "AUD": 2.4281,
-      "CAD": 2.6087,
-      "CNY": 0.5153
-    },
-    "crypto": {
-      "BITCOIN": 323972,
-      "DOGECOIN": 0.511527,
-      "ETHEREUM": 11198.29,
-      "LITECOIN": 290.42,
-      "RIPPLE": 7.54
-    },
-    "indices": {
-      "^WIG20": 3252.73,
-      "^WIG30": 4188.95,
-      "^WIG": 3252.73
-    },
-    "news": [
-      {
-        "title": "Rozkaz Danii w sprawie Grenlandii jest jasny. To mają zrobić żołnierze - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnhXTlpaeWl0d0k4MGlhalNLbTRyVUNhM1Y3ZTZhVDQ4UHRYZWV2T1V1eWRBT0p4cGQ2WFotX05tMTY0WWExMWMwWXpDUFdfeDJ1YTVvN1lsNVFsTGZqeUxkU1QzV0doYWlqQ2FLVnNyZk10QVZaZDNoMTRneFZZS0FXVjk3YVZ4UklIRWlQUE1YTURXUFFFSGFHSmV1Z19ZSE9MZjY3SEhYUUFrLU5mODY1NE43NmxhNURlcQ?oc=5"
-      },
-      {
-        "title": "Przed rozmową Tuska i Nawrockiego: I prezydent i premier chyba nie wiedzą dokąd chcą iść [OPINIA] - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzRxcHkySzV5cXhGX3piQXRPeHZmXzd5ZHJZRkxXc1YtejFQMDhHM0FFSVhlZGhIU29raGp2aXk5UlJ6cW5CcFBrYTNTZGtDTzN0OE9PUlc5aGpUZHp0THdmWVpGRHdzVFE5SHVYQVY3LWFubm01WTEtYk5mbW5LZWxKOHFXTzItVlppc3MtRFZ5NHMxY3p5OXN0TGxqTTZZamNOTXdLc1FGXzU5SGtsaTk5VEdUMm1iWWc?oc=5"
-      },
-      {
-        "title": "Strzelanina przed Kościołem. Dwie osoby zginęły, kilka zostało rannych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEJ6Z0tfTGE0RkdPaXlIenhEd2VlcTlHTFhfUDNDUjRLdHhSVWUtMDlfVjE2b3J3eGhnZDh5a3h2YTc3Y2tEcGFNY2EwSkwzdlNsSkhkcnBtb2lrQ3pBbnhMSkY4elpySE5WaUFSMENzMnNlVTh6cDg3MFh1QjRnX2xuQlpWR3dNSTlBNHBZZ0d3Ql9NZTNHenMzeHBKQUhRdXdDcWNjTVh5TmowU0h3N0d2bFZBZ0tOZUVZ?oc=5"
-      },
-      {
-        "title": "Dramat na skrzyżowaniu w Rzeszowie. Pasażerka busa zaczęła rodzić po zderzeniu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1laS0M4ZFNabnVlcXVRVHlSOER5azFjMWlIOHFrNDA2dmxGLXZ2OTJUck5ER1d3R2RKdC1jYllhWXNBaDA2QVRPalByUzVaWlBFY2hBZlplWm5uRXlweFRSeXNFSmxSZmtyRnpBR24wX2hWVjE0dUsxclZSTzhMRlctU0ZEQTduT09hUGZ1VHh0OVE1R3BmY0FGb0VYeGZ4V2owcDRXcEVIRUVWZmI4YjREeVhzLTFIY1FVRUFB?oc=5"
-      },
-      {
-        "title": "Senator Graham: Trump dał zielone światło dla ustawy o sankcjach przeciwko Rosji [NA ŻYWO] - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rYWdJU2Fic0xKXzU1bnlHcVRaSS15bEtKT0ZNX1RtWmN3bkVMak9TX2dKUG5aM2RXMEVsMnRHZ3lKa1ZTRnRXV1Z1cGcyN1hyTTNjeEZqMFpPSWdYLU9hVw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-08 12:16:00",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "Irańscy dygnitarze zabezpieczają sobie drogę ucieczki. Świadczą o tym konkretne dane - Onet",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONl84TTZaUkk1Uko5M0JzbGQySlN4SEVsdE10azd0ZnFSQlZ0NUFab3Zlc0diSUVpS1ZvY08wQ0lidWF3SXJkNUJ5aEV0WXlkWlR1NWU0OE8yRWVYUVdlWnlRcVc5emwyN0syWkNUNjlIY1E1NV9XUWVuczBQclZ2bmVOSm82THRaY0lGLVhadkN5MHVFUFhuVEgyTGhubUF0aU5lUXFJd0d6akVhcDhISjhZWi1nSFVKY1BJckswVlRYNGx2Slh6WmZZVC1xU05Wby1XcWlSQnAxNzVaLVE?oc=5"
+      },
+      {
+        "title": "B2B jest seksowne, etat jest oldskulowy. III RP zrobiła wszystko, żebyśmy tak myśleli - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RWR3NIODg0dHJ3M2hVSGJsQVFfazFObjJobHlWRXN5MW10RnlDUU9kclZ2T3RLM0lQSjRWWmRvRnhZUDFBdUZyVzFaenc2Q3lWSW5zVXFTcWNLX0JRQlVmYkM2OU5MSEY2bGI3Z2RVSHpuMThDZThzOUV0bEtNZ0lqdGpWOXF4YWhBVlI0dFY1cWZBblV0VHNQbWJHenhISXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-10 17:17:24",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 327702,
+      "DOGECOIN": 0.505799,
+      "ETHEREUM": 11182.94,
+      "LITECOIN": 294.78,
+      "RIPPLE": 7.57
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Iran grozi protestującym karą śmierci. Reżim zaostrza represje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3g2SWgzR0JyWFFzM2p4a3Z2cTZROHo5by02a2VrUHV1cmFsTjdpMnVMUl8tUEw3dnNWbFlvd1dqM2VCWGpnNTVaTmVZRF9VbW9ONGpjaUlUZGJRWVo3SkJUVjFHazNVd1pfRl8ybVoyaW1KT3N5WE8wVzNZRDFQYWduRnRKT08yOFBzLW5jM2pPd1pMblo4NXRaYkM0UzRSZEJ0RFI1S3JMVkVNYkFWMkNfa2xMQQ?oc=5"
+      },
+      {
+        "title": "Spotkanie Karol Nawrocki—Donald Tusk. Jest potwierdzenie z Pałacu Prezydenckiego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmh3WHZfSDAxUWhoVUhWa05xVlZhU19UX0h0Y1F4T0hId21SNkxsaXotV0g5N0M5Nl9NUFlRaElhOFZZc0YzYV8yT05tdjJ6N3VZY0k4WTZYeDd3LTVmemRrNmxsaGhxTFRqb0JwUS1XcV9wOEpndVJRbkxZVVBNdzNsQjRuTWx5eV91eUl1clRWSUJaTnQzRUhIbmRKemU1Z19JcE16NkVaeUc5OEI0RHpmamx6d0phY1E?oc=5"
+      },
+      {
+        "title": "Strefa Czystego Transportu w Krakowie. Mieszkańcy podzieleni, emocje podgrzewa skrajna prawica - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZDdSMnRQZGlObTFoRUxpVU1oaFVZRTJjcFlQMHZrSmRPQW1lZ19WTnl5YkJ4THh3MHhnemJfNVcybE8wVktnWHR5OU9sdw?oc=5"
+      },
+      {
+        "title": "Krzyż wzmożenia narodowego z Kielna. Prawicowa obrona dodatku do stroju na Halloween? - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGkzRk9WdlpIVE56UWJSdGZwUmpYaHVabEhiaTZqdzBUWmg5c3BTemwwZW9tSHc1OFdrRkpGbldqWHI4d3o5anF5RXlZakJsV0NBM1NKdDJCWXlrMGw5VFRYV1JGSTF1M0VIdkc5bTdVSHpRYldzMENVQ3J5QzRsM0pfVUZWUTRGektDQ0hiTFl2UGJoQjdhUXJyZll3WDZQcHc?oc=5"
       },
       {
         "title": "B2B jest seksowne, etat jest oldskulowy. III RP zrobiła wszystko, żebyśmy tak myśleli - OKO.press",
