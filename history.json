@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-08 18:22:34",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.607,
-      "EUR": 4.2119,
-      "GBP": 4.8471,
-      "CHF": 4.5228,
-      "JPY": 0.023011,
-      "AUD": 2.4142,
-      "CAD": 2.5993,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 329226,
-      "DOGECOIN": 0.514422,
-      "ETHEREUM": 11277.87,
-      "LITECOIN": 294.33,
-      "RIPPLE": 7.77
-    },
-    "indices": {
-      "^WIG20": 3233.92,
-      "^WIG30": 4172.22,
-      "^WIG": 3233.92
-    },
-    "news": [
-      {
-        "title": "Ćwierć wieku za kratami. Bogucki wraca do rodziny, adwokat ujawnia kulisy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWVMWDNvcWlWWkNodDBDclNCUFdoUnNEamRNMDM0NjZaaFUtX2JzZzZLZmVKU2dHVHVMbHEyRU1HUVJ1cERmNzFBVWZBWnZVRWFVNmMtWnJCZVlFckF0YnViWjF0THdvT0xSVnlUYkJ3RC1uVVl1MEZTVjJ1UFBWWTRYbVg0WEtWc21mN2JuX2NEeUNmQjdFREhYbWxsX3FraTBGWG5MQ0lpaGZadVY5SDVZWkRja0FlcXVVSEZtVHU4d3FzbjNvQQ?oc=5"
-      },
-      {
-        "title": "Kontrowersyjna umowa z Mercosur. Minister zabrał głos po spotkaniu w Brukseli - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaldaeDNzVW5nNDJaR1RrTDFxX19XNENKMlBVOEdRT0h5S1pPRFppSG84enpCVk5oeTA1eWhiaUpTOEdEU0k1b0QxS0JyLVJiMUM1MDgxV1c3LTNHWTVnQkNTRXB6NEJjU1I1aVJlUEtPMHl0SjhCMzd5bFJpckFWam1pa2FHZUpPMTYxMGJ2UVRZNFEzLU4xWWZWOHZoVE5BZFI4aHNiT01URzlo?oc=5"
-      },
-      {
-        "title": "Atak USA na Wenezuelę. Podano liczbę zabitych - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTFU1eFBnMnYxQmxtZUU5OHFCSThZbThQYXVpWXc4eHY5OTQ2bm5faFVTaGg3WGlKYzdLRUJoN2ljSjlHVFJselhUZkg3NVE0SWFaemhLSVNYMHBDZ2dka3JBZGFkT1NNSGxZc1loLWZIaFk2Q0NkSVp6bzdKQVRjQk1yR0hwWHI0MDVjN2oyRFI?oc=5"
-      },
-      {
-        "title": "Reakcja Rosji na koalicję chętnych. Padły groźby pod adresem Zachodu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlhYd05DRk5HUVBUOFk2YVllM00xbVlpT1hLcG1ka2xTeks1eDc0Y3B1T3NQNkpXM1lUeG15M0Q4NnZya19ZX0ltWWJBN3RVT0pOcE02VHRvaTVPOU00TjFwMktzYl9LZGo3bHhFOEgwa2xjYk5pZDhDX3NFWDlyNWR6LVJOSmwtTXFvOUhiTzVwZlB6dmQ0T2VRWVptMkpXUnc?oc=5"
-      },
-      {
-        "title": "Przed rozmową Tuska i Nawrockiego: I prezydent i premier chyba nie wiedzą dokąd chcą iść [OPINIA] - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzRxcHkySzV5cXhGX3piQXRPeHZmXzd5ZHJZRkxXc1YtejFQMDhHM0FFSVhlZGhIU29raGp2aXk5UlJ6cW5CcFBrYTNTZGtDTzN0OE9PUlc5aGpUZHp0THdmWVpGRHdzVFE5SHVYQVY3LWFubm01WTEtYk5mbW5LZWxKOHFXTzItVlppc3MtRFZ5NHMxY3p5OXN0TGxqTTZZamNOTXdLc1FGXzU5SGtsaTk5VEdUMm1iWWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-08 19:20:40",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11 00:14:08",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -8°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 327279,
+      "DOGECOIN": 0.504396,
+      "ETHEREUM": 11154.23,
+      "LITECOIN": 293.37,
+      "RIPPLE": 7.55
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Sygnał dla Zachodu. Putin chwali się potęgą armii w strategicznym momencie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUtFYWRVNmFCdjJLNXNSTXFicGxPVmpPdV9Wd280Q3Y1TkttZW5Ud0ZpX0J6cnZyOFIyLXBtaEFPSEhLcDJRVk9WU0xqVnl0QktxQkxLeFRrQktkN2dzR3RqRGdSRWlRb3FSMTEzMkVaelM0X2xrLUx3TFZzZXI1ZnVxd0tsV3dhcHhWc0ltU2lTVkFyWnF5NmlsSFp0aS1MMzkwYnlMYzFPOVhBem5ZVF9mODI4RkE?oc=5"
+      },
+      {
+        "title": "\"Nieinwestowalna\". Szef naftowego giganta do Trumpa ws. Wenezueli - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQURHUzV6ZXEyWFlqS2xaclVIMUVWeUYyYmNUZlNVV01VUzhDMXo4bkJEMGxqaTVfOE8xTFhOX2dVZTMtZWxZeGh4Y05OZzJTb1ZKNW84dXhzVTJrb01BNmFWOXlqSnR6ai1Eb1BHNHhCRGFjZUw0bzRlaGhUVXhwV0VHUVQxMmZyYVV0ODJvbmpuSVNlczdvejlvTGoxSXFZODdLZkdwNDhXeGFEVE9zcUE5TzRhdnJ1aXdYQTVxazRndw?oc=5"
+      },
+      {
+        "title": "Spotkanie Prezydenta RP z Premierem \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUh4YmJEc1lWT2dKSG95MFVockUwbHR3MGgwdkpCQWlmWV9fMmU3WGtDWGExRmVhM0xFN0xBOUsyWDlnZHVCLS1rdkIwV2xkcW0yQTZYNGpUS05jMHMyeFUtN09Ec2o0VUR1bTRWWWV4U2s4Q0dhcDRxMW1takUtdjFtSko3eFVUZndiOUVQakV0alVz?oc=5"
+      },
+      {
+        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
+      },
+      {
+        "title": "Ukraina walczy z Rosją i mrozem. Kijów bez prądu i ogrzewania - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTNWU0dlSWxXTFR5UDlKTlJiQmdaTVpCeEhZOFhFdXNQcVlvek5wZXVuTGFZSkk4VGVFNEpHbzZja1BSak9lRVY3aEF4MTZVbHhhNXFHN0dRb1FHLUg4QzIyRDVZY0VyWlhNcU1tUFFuWU1YU2pqV2gwQS1rNTVQbFowZFVNQWI1SzR3Sm5xZDN3SmFGTHVWM2t5Q2xSRW1CSWVfZ1RMSHBUeGFSQ0RXTkRXWnZlQ1NhRkNzTnpn?oc=5"
       }
     ]
   }
