@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-09 05:34:52",
-    "weather": {
-      "Warsaw": "Warsaw: -9°C",
-      "Kraków": "Krakow: -7°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.607,
-      "EUR": 4.2119,
-      "GBP": 4.8471,
-      "CHF": 4.5228,
-      "JPY": 0.023011,
-      "AUD": 2.4142,
-      "CAD": 2.5993,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 328579,
-      "DOGECOIN": 0.514945,
-      "ETHEREUM": 11255.38,
-      "LITECOIN": 295.6,
-      "RIPPLE": 7.7
-    },
-    "indices": {
-      "^WIG20": 3233.92,
-      "^WIG30": 4172.22,
-      "^WIG": 3233.92
-    },
-    "news": [
-      {
-        "title": "Nocne ataki Rosjan. W okolicy Lwowa mogła uderzyć rakieta Oresznik - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmczakpEbk9uUlJEbEZtam1vU1I3S3ROVmRFWGNoc1NuU3VUUWxPdXlSMVgxbm96SG5aUHdJcTFlaFlCRWdMaUZ3dU5GNjYtYmdEOFZVYTNwQk1NQVhSdV9JV0NVdEpUOHRON2pLWF96TWVpbTIxRFR2YU1oQWN4UFY1UEQwNndBcVM5XzluS0xjTG80Uk5sVWMyMXYzTEdlV0ZXZHpOU2RoODNnc1VBSWRwRDUyOU1JRHhYZ200SW04RThKLXd3?oc=5"
-      },
-      {
-        "title": "Dowódca zamknął się z 22-letnią policjantką w pokoju. Wzywała pomocy. Nowe fakty - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTBpYXFRT3V1N3h5dHBUMFluNlJSNW1hSzdXMHRKOW81VE5KSHVMblUzX2ZhUEozUW5TdDBCTmsyZlJ3TW5zM0pBOTF6MGg1NW1GY2pvZXdrQUlDS2F2MWlmRzFiQVBldVczbnI4UTJLX3p2OTE0dEtueFlMMmNkSWMtM21xUXhpN01CaUNhVXNfcGFQWlE5WEJZNGxCcVlzTFlqYlYyMnAxeW5fX191azRjZHpJdXc3R2RxQ0JVN00xQQ?oc=5"
-      },
-      {
-        "title": "Nowe informacje ws. Bosaka i Collegium Humanum. Tak miały wyglądać jego studia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkZwQmlPUDhmQ2hrLUptQzdxRjNCMGlnUjNIYjh4dEVrVTB5cVpWaWFYWWpoRXFCZ0ZxcktBY3cxSm5pNmVPM1Bqd1B3SG1iUWI1MEdieVUwdFBUdmtJOElHTHNiYlpYeGc5ek1uRlVPdzFsaDlCZVJvT2dxcmdTc1FDTkFaZDRLd3ZGSW9pYVZZdUJHTGh5UzNlQnZFUDZRMHdMbE1JUElrdw?oc=5"
-      },
-      {
-        "title": "J.D. Vance grzmi po śmierci kobiety w Minneapolis. \"Była częścią szerszej lewicowej siatki\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYk92SnJ4cXZlZ29HQjFCM2FXYWpvUDc4TWxBeTlwUFJlRDVDSHFsSGVlYVNUVFRKQlVQeG13WDA2Ul91Z0xzRXZrN2FsdWhuZjlQa3hTSEQxbl9qR1hVLU85OW5ZV3JEVTh2bURaemhxUlF5eDZ2dW5YTktFbjRRTnR1NjNoU2hZQmVYbTJ1NzMyVHlkOHFRY29YMVdJOFF6QVNUSU5wSEhSNEZ0LWl2QTBOLW1XWFVFcS0yMl9RY3dDUDJtanlEYl9SUGpFeXpqWUVrVEV3a1doUQ?oc=5"
-      },
-      {
-        "title": "Fala mrozów nad Polską. Co niskie temperatury robią z naszym organizmem? \"To powolne wyłączanie jego funkcji\" - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQM0toZHlMZHQzTmxhS04wWU1SR1RlUzAwVWZiU3NXUG5JR1BBZFdKX2NnMDlwaXIxQVZCaTRvdzJmUm42T0JPZllVYXljdUg0N01MUy05X0JrbF9HRW5WNS0tUDRsaVFCLXJsUWhSdVM1M0JiREVKMmlBcFZzb3BTV2wwSVBZTFZVSFpqN0ZFYU5VRWtmWHlwU0I1bjlUX0JyeWZiNk11eW8tQy14TEF4N2poRW0xWUZ0ajQ3V2F4ZUx0b0xSZUloaklXZnFLU05jekZuZVNILVJfVmJKOGVwbFE5V254MWNFQktBb1I2MFpwQm9KMVNlUHdWRDJGSzFSa0owSDRqenZGT2dXenAxUVJ0bkVLV0FVb1cxemxhb0FBQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-09 06:20:09",
     "weather": {
       "Warsaw": "Warsaw: -9°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11 11:15:11",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 328376,
+      "DOGECOIN": 0.507087,
+      "ETHEREUM": 11246.18,
+      "LITECOIN": 294.67,
+      "RIPPLE": 7.58
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "0:6! Dramat Igi Świątek w finale dla Polski, niewytłumaczalna niemoc! - Przegląd Sportowy Onet",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakM3b1NKa09jRDB3S1FKTFpfZi1KcGNWX1FBRE5hRWd6UDB2ZDZqazhiX05HcHdpVlMtbm1xYlNMWU5OQnl5Yk1HeE5paU9vem5jcGhWTEhwWkNIM2g1Ym5RMGVVV2s3cVBmM2ltYVNnNHJ6R1lzSTFKQklQMEpMb1huWk9EVGFULWl4MmZNVUd5eXJLUG1HbEpDMGxDVEREWXR0M2RnV215WlFEUnlFVDJB?oc=5"
+      },
+      {
+        "title": "Media: Trump wydał rozkaz przygotowania inwazji na Grenlandię - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnpHZDJNZFdNdGpySGVPN1o5Vm9QQTRuQ29UUkV1M3BpbTVNcTFadFJZMF9VVFZrUnhncUhZaTRIeXFObmUwR05rdzZfTnpJa3JHREhsLW9yWWE3OXhyUG5ydXA4N1BSaFpzUW9HRS1ReXQ2NmhVLXJ5bml4R3VzX1Mwdk5JTTZQS0tlQk9XczVwZXlHRjBwRnpKWVE5bEdpRkNlVVJ3?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Samoloty USA zaatakowały cele w Syrii - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1VtWUhiTjlzX19Wei1HX2tuMlBRM3NubExRdERYQ1p4M0dydXd3T1J4UDVqZXc3U1VrQlFMOFNnMDhNRnV1VjlTSEk1ejdPOXJJRFBvX0VWemFkeEVBUm1aQUN6RHY2Uk9vSlFTR3RBLVFZbUw5a0NQaWF0S1ZwclFudDRxbGEyVnZneTJ4b2ltUzVacTFNTDBkYVpXUnM?oc=5"
+      },
+      {
+        "title": "Wielki pożar hali magazynowej pod Poznaniem - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1V5YVR5b1U3ZVgzSmQyNmNLcnROaFR1YkxIZGE3NmVOU3hmNjMxWDJNaDFlMlhMc0VxOHMyOGF3RkRBVjV5cmlCWEE3Ump1SnctTkluSENvY1BhR2o2NDFDc1pPS0FyelVtQUgydzBwNG5BYXNNU1dJSXBrenFlc1g2MFRKQzE2LVB1YVpIck9RNE40RmNmdTRrcDA?oc=5"
+      },
+      {
+        "title": "Donald Trump chce wielkich zmian w oprocentowaniu kart - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUItVnVwNi11bFhiQ0ZFVmdXU2kyMVFuSkhVSTBLXzIxVS1oeVRFdS14LVk2NUN6RkxUSHcwbFY1OU5ZMERxNmJYS0YyeDlEQVVoVWhJS04yaWRNaWpQVjd5Z3RvTW53VGpfd2dkcXJpSU5MQ1o3bUQwRmhsVDhDUENpbjlCVDc2S1dUZE41SUlCMFUwS1Zma1diLTNNRWw0bjlrQkhVX3hjVm8tWWFoRk1tMA?oc=5"
       }
     ]
   }
