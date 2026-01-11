@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-09 13:32:14",
-    "weather": {
-      "Warsaw": "Warsaw: -9°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 326496,
-      "DOGECOIN": 0.50576,
-      "ETHEREUM": 11152.07,
-      "LITECOIN": 292.89,
-      "RIPPLE": 7.57
-    },
-    "indices": {
-      "^WIG20": 3261.69,
-      "^WIG30": 4206.81,
-      "^WIG": 3261.69
-    },
-    "news": [
-      {
-        "title": "Trump chce Nobla od niedawnej laureatki. Będzie spotkanie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkZkRTlQQ3prU2xOMEpMVkVHZXM0ZlVCejZpbUZSM0tveGtpX2ZiRzk2WHFIekVVUVFLMkpabEpxUTVRZnpBM0lWY3loX3FwenpVSEVtZXZWdGVYeUt0NGtGdDNiNWpESzRJSmhHTXBoVy1xRHNfdE5JczVaSGdHTU5wZEo1Y0hGMEtMUnJJNEpQNVMxM2M0OVByY2tOVXE4?oc=5"
-      },
-      {
-        "title": "Prezydencki minister skomentował ruch Donalda Tuska. \"Dobra decyzja premiera\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkJKSERjNXU3OTFCa3o2dE5BenJWVDNTdE5GOUxpX09DV0RjTTlYUzlhWG1EUnR6a1VoZVJManFCeWIzYjhSREZNLUIyVE9EMm9OS2NxcHQxMlhNWWk4czN6NTJjUzVuUTVUaGpDc3JpdGJ2NUhQNW1ucF9Qd2RoUmZ0MENtc2JBNFJxS1NIeGNHSi1yZ3pNT2ZsbGFxc3VqOHhtSVQ2UDdkekJuQ0Q1M0ZnSkFtOU1BTlFJ?oc=5"
-      },
-      {
-        "title": "Finał skandalu w Sejmie. Senator podjął decyzję - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak5ERG5mbUMwSk1zYmZsN1pxYW1ZaWJjOUh2YTViMDg4ZWZRVkxwMXJXck5zUGxkMG9na2tQUk9yalVGNTBEWkxEWTY0QXdDbFplazFXMmdZck1UZ2xBbHJXUVhwUXJ6TEJMLW9uUDZ4dWdQYUtrWk5ObDRrWVc4bndHMTV3NDRNT3BtajhqX2VkbUE?oc=5"
-      },
-      {
-        "title": "Wrze w Iranie. Ajatollah Chamenei odpowiada Donaldowi Trumpowi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORk5DSWpxZVRDZUVQcTl0Q0IxX1RQanU2cFBNWXd4WkY2Q1h0OXhZTmtCdVltbDFZV3BmdnNtX3FFSDRMSW1YbXZyZ191S0Jhdm52SG9EeTdnVGN3Q01LZVRqNHhhdHNPYV9BeEYtWlo2dHhvRi00azNfeHA3QmpEZ2p4enExY0tjeEJWTi1obkIzaEluamlpSlBUWk1UNmtoWEEtTEMyRXM5UmxqQVlUbVdvclByTmJudXlGUmd3VnJPdw?oc=5"
-      },
-      {
-        "title": "Debata Prezydenta RP Karola Nawrockiego z Andrzejem Dudą \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1hLX1ZJQldnQVo5WkdiRm5ETXQ0b1A0bEQ4dWh6SjcyS2p5N3FGSUozU3Y5V1h3SEZIbmRCNWJKR1BOcjY3bjlnLUJuNHNJVWFTY3Zhd3dBTk9Kd3pXWEowZ1IyWDFuZ2RLY2oyZHI1NklOYWNlN0lCOVdUZ2RiOFgzVGQ3TlM2eHJuVGhPdlpoTDJPVTZ5VVQ1V19EamZBWTZvaWlZYmFqa0t1dUxYTUFPanM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-09 14:33:51",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "By umniejszyć swoją winę, robili z niej „wariatkę i alkoholiczkę\". Potężna kara dla policji - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYXE1T0JNVFJwbDZjNHRxODRUV0VsUDVDanNDZjBNcm41b2JyNFpMcGRaTnhVM29CaW5QLXd6dmxlYnJEdFJvSjlXVFFobi1ieUFCOVdZa2EtSkx4Q0RNcGZkM1pldVdud0ItV25sckpEQlhwaUd1cWxTbXFDRmowaVNFdGY0a2FjNzdwUi1udGs0cUlIWk9PanRxcGY0SEh6eVRXS05aWVpOM0k?oc=5"
+      },
+      {
+        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11 19:21:00",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 328605,
+      "DOGECOIN": 0.499684,
+      "ETHEREUM": 11292.55,
+      "LITECOIN": 291.27,
+      "RIPPLE": 7.56
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Szukali jej prawie tydzień. Tragiczne odkrycie nad rzeką - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzY0bzFWdDNrWFJNWFVBNV9YRWtQN1hSOGhyeEpaQTI2UEFnMjRCVkFlNV9oSU5IYl93WEJFUDJuNDZ2YnRYdzlFbkNORFFlZE9kcjl6T1h2N3c0ck5YdDNlZ1BrUmw4czBEX2tFd3NUZjFFUTl3cGtsY1gtbnpWRUNydlV5R2tSYlNBTVFmRjNMWUY1Zmt6ckRpUkladjA?oc=5"
+      },
+      {
+        "title": "Do śniegu i mrozu dołączy wkrótce nowe groźne zjawisko. Mamy prognozę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc3ZNZnNqSHRzc0xmbkZkRFlkclIyOXFzSTA4UFFLQ3h1aDdJMl9mWVdiZGlJaUtJaHlKZFVaWmNvSFhWWU15Uk5UTXM5bGloMDNhYUpvOXJfT3VlRzBvMGRaZDV5aGlQR2pmdkJuek9hbkE0Nk5jc0tHZ09qbm9fMFg3MVpSaTB2aHJNdnNuekp6bWRxTnlqZDllWlhMTVY2bllnNUowR2tFY3RzaWIyc09YRnoyX21uUXlRa2xnS0VXNGsxbWlSUnNMaGZ5MU52cUJuX2N3?oc=5"
+      },
+      {
+        "title": "Ta śmierć przelała czarę goryczy. Na Trumpa spada polityczna lawina. Trzy powody, dla których znalazł się pod ścianą - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMjRWTUtkQlZyVEJwVUk2b29QaHpoQ1lkS1VMd0NMM01qVjZ1U3V1OWo5MW5pTW1HazRoa0RXUlUta0RXZlNoLURKZHZncElzcjNvWjBhVXpUeWpSTlZCNm95VHhobWRZMmJtZjVDU3E1dlVrVGJiY3Ntdk5ocTlQMGs2TW9YVjhIV1ZJQ1hZSGl2eW5Fd0lidEZ4SmRWbTlrTDZUZ0JHYURnQndLZUU1T1JlOS1wMWtNQnU5S3pXSDc?oc=5"
+      },
+      {
+        "title": "\"Zanim będzie za późno\". Trump grozi kolejnemu państwu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWU0WkFlRXZYWDBXcmVmc3l4c2U3T3FrVERmQ3BLVDRwTW84WmRlNml1dnZxOEd1Ylk5WTZjTnFObHRaRXdhdzRtYjNUU1FwemtXMDd1Ti1RZHI2eFhpLVpWLWlEbWhPQnJ0S1ZXQ2w2cGdBMEhaUEFmeTQ1Q01QM19OX0NTUFJTbTY3VzNqY2w4VEF3Q2R6b2IwSU1oRjVrMV82TUZpTXBWVXV2Y2JTbDN2MA?oc=5"
       },
       {
         "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
