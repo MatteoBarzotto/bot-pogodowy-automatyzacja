@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-09 10:22:10",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -8°C",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.607,
-      "EUR": 4.2119,
-      "GBP": 4.8471,
-      "CHF": 4.5228,
-      "JPY": 0.023011,
-      "AUD": 2.4142,
-      "CAD": 2.5993,
-      "CNY": 0.5166
-    },
-    "crypto": {
-      "BITCOIN": 326065,
-      "DOGECOIN": 0.508372,
-      "ETHEREUM": 11182.75,
-      "LITECOIN": 293.27,
-      "RIPPLE": 7.56
-    },
-    "indices": {
-      "^WIG20": 3242.02,
-      "^WIG30": 4180.85,
-      "^WIG": 3242.02
-    },
-    "news": [
-      {
-        "title": "Protesty w Iranie nie ustają, w ogniu stanął budynek rządowy [NAJWAŻNIEJSZE INFORMACJE] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDFmNVpTdkVDUVZlRnFGZm5laUF0YzQ2UUhOUGl0cDQwMnZieHhpcDBmcVhQUC1sYm5JZGpZQmZnajNRVzBsYkpjbnNjLURlQ0s0c0dpQmFfamNISzlzdi1uYzdBQVpRR3pRb1hpOC02Zk5Pb0xISkc3VzhqanlLdHBna09iTk5mVERVUEhJYkU1alVlOFoxa25YblhLOVRlWFlYYWZhZU5DcGtiN1JwNVJMa2IwYk5GdXdqZjBEMWE2TDFxMmRtN3pQXzNJMHVLWTV4OUVpMm9Ud28tQ0kyaw?oc=5"
-      },
-      {
-        "title": "Fala mrozów nad Polską. Co niskie temperatury robią z naszym organizmem? \"To powolne wyłączanie jego funkcji\" - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQM0toZHlMZHQzTmxhS04wWU1SR1RlUzAwVWZiU3NXUG5JR1BBZFdKX2NnMDlwaXIxQVZCaTRvdzJmUm42T0JPZllVYXljdUg0N01MUy05X0JrbF9HRW5WNS0tUDRsaVFCLXJsUWhSdVM1M0JiREVKMmlBcFZzb3BTV2wwSVBZTFZVSFpqN0ZFYU5VRWtmWHlwU0I1bjlUX0JyeWZiNk11eW8tQy14TEF4N2poRW0xWUZ0ajQ3V2F4ZUx0b0xSZUloaklXZnFLU05jekZuZVNILVJfVmJKOGVwbFE5V254MWNFQktBb1I2MFpwQm9KMVNlUHdWRDJGSzFSa0owSDRqenZGT2dXenAxUVJ0bkVLV0FVb1cxemxhb0FBQQ?oc=5"
-      },
-      {
-        "title": "Krystyna Ptok o propozycjach MZ ws. podwyżek dla medyków: komentarze wskazują jednoznacznie negatywny odbiór - Puls Medycyny",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTXRZcjFtQXN6WlJvdjZxT3FFcVJVeVh0eXB5b3ZHRFgtbkZWc01IelZod1ZlNGI2eXNOSEVoaS0xY3ROSmV0UDJvZTVlZ3dtUnJXS05JdFlBa2kxU0MtdnNCV2ZZdEQtN1pJU1A0UlBzSU9NVWdUWU9TOWRxNkZEUXB3SWh4WHBDSk5YRjRzZ2hqTEZFanRNRnlYbVNid1hfMXpWSW82V0JRMEFvWFFTX3FIYVBrTmVvVDJ1WHhNRlFZRVd0QUlDNlRaRQ?oc=5"
-      },
-      {
-        "title": "2 poziom zagrożenia dla Wrocławia. Ryzyko przekroczenia poziomu informowania pyłu zawieszonego PM10 - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZGJ0bmhkR0tab3I0aUdNX3VJNGNYcU9vUE10YzA0QURZeExaUmtDQm8zeVpIc0FtdjdHdWxGRU44OWlIb2R1Q21xdjlGeTlUaHA1QmlZY2drLWxnUERWTGs5TEF2S2VxZ2Z0b3hITDYxdGROUXRVMXB4SXdSTElmZnhfak5hUGlMVFdaNklhRTBuVlVqZFdfeWVIX1ExRG8yNXp3ZFNENzhackhPY1dzazZhZHY3ZF9DLTZHUnNwY19JV2JzdFJlT2JmRmpFa3dJVGZmMnlVUnh5aWt6N0FXYXdUc0tNYkRhMDBVNUl0N2laWGRsVU9KTENR?oc=5"
-      },
-      {
-        "title": "Rewolucja w fakturach coraz bliżej. Co z zagranicznymi firmami? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWE0yTG02UlFQZkxMQWlwVC1FeGdrM1FiS0tsal8yODZzTzRWT2F1S2xjS1ZDb2J0WnZZdHpwcmMzcFVOUmFXWTNuNDR3Q1NxVEZnQTNoY1lWRTlKWml6MGk2T2ttTzVEVGgzbE5pRlFfcjROVmh5S3JseTdHNnRkU1Rsbi1pV29MY2ZUbDA2S243Uzk4eVI1V2laTGRjTXk2UW5va181ZUV4QVVDSjNUU0pjNklNX0k?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-09 11:17:02",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Ekspert: uderzenie Oriesznikiem pod Lwowem to „nuklearne Halloween” Moskwy - Polska Agencja Prasowa SA",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RzTGpSQmFaZ0F1Xy1VR2hONW43M3BmWGw0QmxCNF9ETGRLbHBFMU9QOVhfMFk3Qm5iSFU4V21CMUhqM1J4SjYyTExlcV85UFlfYmh6TnllUE5zVlNCOHNDUEpXeVlXR3dJMkE0bWdYUW5qdkxCN2tSdF9kTTJHZ2hKYzNsMTg0VGxrWUVzclRNZVRhczNjNjNyRlJJMlMt?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11 16:14:31",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 329121,
+      "DOGECOIN": 0.508028,
+      "ETHEREUM": 11291.74,
+      "LITECOIN": 292.98,
+      "RIPPLE": 7.61
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Prezydent Nawrocki i serdeczne powitanie z szefem gangu kiboli - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTRrYjZnaGw2RVdOd245cEtOX2YyclJtbU9ZM1dMTVR3T2xWd2tzRWY0bFR0MjE0R1F5UTdlOWRpWG1Ic0l3ZXc3YjJyeFVzMjAtS0N6UW9KNGRaRkJmNW55alFoR2Utbi0zalIzRWgwOThGM2JKTWxsd3NMc3o3ZUN2cGdfRjZFUGdUSmJ5c1lFMC1XX3ZYbm82Rk5jRENFa2N2Y3ZQYmg?oc=5"
+      },
+      {
+        "title": "Trump chce zdobyć Grenlandię. Miał wydać \"szalony\" rozkaz generałom - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0tWY2hTOFB6UlR3cDh0WGlSUVJVZDhQekY2V1FPODA5SEFkeFRYRWNTdVA5VmdvbzZBRlFMT0dXYmM3TGZLMUNqbXFaTFQxcXQwbFVhRGU2VjIxMlozY2F1cGYtSzdmM2gxak12cHlQTHRqZGFFSnN3ak16ajcwZWR3UmNNR2NQNHNhdmpzc0RXWGVRalFmYkREajEybk1iVERMWDQzVTJkN08xSEZYc0lWX0swME1weEwtTUxVTTVwZXVHTTdoMGZ0RGhtR3lTamFSVTQtYnN5Zw?oc=5"
+      },
+      {
+        "title": "Atak zimy w Polsce, mnożą się alerty. Trzy rodzaje ostrzeżeń - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazFqVUpHbGx5TUI1XzNYYklEYjRfUlo1a2tvMkhHRlR6a1lBR1AwY2kyWmE3QldjLXdyS3ZJeXZZVndLZG1YVUdZUkdHZ2l0S2lTWVN0Mk5wc05ub3dVX2ptSTZsXy1RUk91ZjR2XzZpTW8wOVpjUzMxcHN5VTkwaTdLMUVQdTRiaGZLOHpYMncyT3ZsZ3hoRUlQYnA4VmE3N3hKMTlxLXU0THRDSERodElqNHV0dw?oc=5"
+      },
+      {
+        "title": "\"Mocna lekcja pokory\" dla rolników? Prawnik z Brukseli o umowie handlowej z Mercosurem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzUzMVJ3YzRRaElnM2puQUt1Q1ZnV2Y0NjE4X0QyMEJhZloxQkZYWnN3S3AxNWI3U2hyMXBTWTFZaTdDYkNJQ29GbFBhSlhGa0JrVHNoMUxWSTVxZDg4czdObV9oVzl4MGxhNVZ5dld0bUVfeTdiWTQ5QmNsbk9ndTNYMDVPdm95bDVlaFc2c2NrYkRlbC1MQ1FYRE03LWM4MEtLS2YzN2hQMjQyVnJoQnJlXzhkWWlhNlVDaW1FazlFVUtOXzhHM1AzV1A4a1dvUnpPeg?oc=5"
+      },
+      {
+        "title": "W Polsce 2050 dogrywka: Pełczyńska-Nałęcz kontra Hennig-Kloska - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckgybGdnXzFzX2t0OEVvZnpMWWpCMlY1anBqMUFfa2ZBYTlILUI5a1dKYTA2QW1BWU1NSEV4OEFzNzF3dWRXbV9SQTc0VzBCQWIwQVlFVVdrR2M3ZmZWa3JlMVFfbzNXeUVUOW5tYmtJSVZjU2RHOTJkZHRrcTZaWnJqQXhEU2hXOU4zLVJwa3hfX2ZJcnFRWVBmeG01bkw1OXlhZ21B?oc=5"
       }
     ]
   }
