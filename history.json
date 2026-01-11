@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-09 16:17:20",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 326733,
-      "DOGECOIN": 0.503702,
-      "ETHEREUM": 11144.37,
-      "LITECOIN": 292.05,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 3258.7,
-      "^WIG30": 4203.87,
-      "^WIG": 3260.18
-    },
-    "news": [
-      {
-        "title": "Kolejne ustawy z wetem Karola Nawrockiego. Znamy szczegóły - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemZhUngxTUY3ckluRHZaYWc3S0tuU0J5cDlTTUVJLVZfaDFid1k2c01kR3Vnek1tLU1CM005UjFxemViY2pWbEhPbGVEWWdJLU5CVGtVYm04a25tcGwtR2R4eTVJX3ZzdHpVTE0zSVUzRVZJX0NGNWNhYmJfdHl5SEVWTnNtdFEyZUlYeFRyMDRrVmNIWHlDanRrNi1tVDVleHQyd3JPRm9tLVZkakN3bi1UOWQ1OHpFOGFELQ?oc=5"
-      },
-      {
-        "title": "Trump chce Nobla od niedawnej laureatki. Będzie spotkanie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkZkRTlQQ3prU2xOMEpMVkVHZXM0ZlVCejZpbUZSM0tveGtpX2ZiRzk2WHFIekVVUVFLMkpabEpxUTVRZnpBM0lWY3loX3FwenpVSEVtZXZWdGVYeUt0NGtGdDNiNWpESzRJSmhHTXBoVy1xRHNfdE5JczVaSGdHTU5wZEo1Y0hGMEtMUnJJNEpQNVMxM2M0OVByY2tOVXE4?oc=5"
-      },
-      {
-        "title": "Wrze w Iranie. Ajatollah Chamenei odpowiada Donaldowi Trumpowi - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVJMenVVNk1nQWJrc3hKZUZYOHNNM1U4NHE3SlJjWEhjTUxGZ1kxeTY5VFRkRUp3UFVkdms2UWV5Z0M4RVhiQTZQTHZPUkJHQWZ2cjM3NEdjZUJ2NEtJNUtFSkdibWNYdGdJWmk5ckxXcW01V3dUaE1vZ0VSMVdZTVJFQk9yVUdFMnh1ZnV1d1hYbUYxLW1mV2RsM1hKSFhkUFdVaQ?oc=5"
-      },
-      {
-        "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
-      },
-      {
-        "title": "Ciężarna pacjentka umiera po podaniu gazu w szpitalu. Trwa prokuratorskie śledztwo - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFFJVHpBM2drdmVOX1Q3RDBjYkxjaTU2NGhOZWt5QldFeGUxeGhzRi1uV1h5NmdaTEFYYUUzYmxzenpJdXBNempvbkhqQXZNTzJ2cDRBT2U3QVVYR2xmTmUxekdzSU4wSUVlMkMxYlZWMU5TYXUzZTRVT2M0UV9yNUJORl9yMS03ZXBSdVVDZDI0TU1UTjdUUmtBU1FGNzM0cEplWV9PWU9OdHNROXVWbmowbEIxeVR1MnRtUUlIRERYMjZzQ2piSEkzZXBwSEE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-09 17:19:43",
     "weather": {
       "Warsaw": "Warsaw: -9°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Zanim będzie za późno\". Trump grozi kolejnemu państwu - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWU0WkFlRXZYWDBXcmVmc3l4c2U3T3FrVERmQ3BLVDRwTW84WmRlNml1dnZxOEd1Ylk5WTZjTnFObHRaRXdhdzRtYjNUU1FwemtXMDd1Ti1RZHI2eFhpLVpWLWlEbWhPQnJ0S1ZXQ2w2cGdBMEhaUEFmeTQ1Q01QM19OX0NTUFJTbTY3VzNqY2w4VEF3Q2R6b2IwSU1oRjVrMV82TUZpTXBWVXV2Y2JTbDN2MA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11 22:13:20",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 327607,
+      "DOGECOIN": 0.49316,
+      "ETHEREUM": 11245.0,
+      "LITECOIN": 287.48,
+      "RIPPLE": 7.44
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Prezydent Nawrocki i serdeczne powitanie z szefem gangu kiboli - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTRrYjZnaGw2RVdOd245cEtOX2YyclJtbU9ZM1dMTVR3T2xWd2tzRWY0bFR0MjE0R1F5UTdlOWRpWG1Ic0l3ZXc3YjJyeFVzMjAtS0N6UW9KNGRaRkJmNW55alFoR2Utbi0zalIzRWgwOThGM2JKTWxsd3NMc3o3ZUN2cGdfRjZFUGdUSmJ5c1lFMC1XX3ZYbm82Rk5jRENFa2N2Y3ZQYmg?oc=5"
+      },
+      {
+        "title": "Alerty IMGW w większości Polski. Zima może dziś sparaliżować kraj - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXViamR2aDZ2RmpsLU1XNEp1UFJ5VVg1cEEzNkdfMnRZd083TkJQWG43S24taHVQOVdfejlvRGp2VVNUTGVWVVBnVEhyYWRHS3k5RDgxaVFNZlppTUpVSVcxbjFfT1dDYVZyNk53aUhjZGZDNlpiNndIUnJXcFFIc195RWlrWFRjTTk0NUpiU0ZuZ01UYjRkbVhqbnNGUGpyQ1ROMVVzeGVJNmR5alktd2FiazI?oc=5"
+      },
+      {
+        "title": "Stoch płakał w ramionach żony, gorzkie słowa mistrza po ostatnim skoku. \"Nie nadawałem się\" - Sport w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTd5MXZDcWYzcW53eWRCd2VaR0dmZjZRUmJ5NjJ5cTlmSUNlV1ZkNVJOWHAtaEtyMlJTZEZKT19wZ01qdGU0U1hWVXhLTUJabng5Y3FMTGsxSmgxd0dodFNGRl9fNHYyZEZpNHhabmc5TVpWbnVQZXZYLUx3UmJWeU4xZ3A2ejdqZ0dKcmgtTmZmdFFhaWpBOWFWVTB3SGJpMUFwc0JZNnZ3WGYtam1OWkJOVm9JUWpRd0RKQXFR?oc=5"
+      },
+      {
+        "title": "Problemy na Lotnisku Chopina z powodu śniegu. Są przekierowane i odwołane loty - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFlUbkJXV0dITF9FX2VKcW5qNGE4MXAtc3FQbTY2eEtRTWd2Qzk0X1RFU3FUUFcxVnVldDFVNm5LNUhacGtqd244LW4wS195Njg4UHpIMUp5WlF6cjB2bzVqYW9IY04tdlBEMFFuOVpzMjU1T2pfdmRzTHpnNTFWYWEtY01Ja0dZRE82S3R0ZEU0UVBVam1lSzd2RVFvWWxRcDRfOVdnLWQxUXNUQzAwQTlWaFA4Ql9vWVFxLVJBSVI1eWMwMXRYUg?oc=5"
+      },
+      {
+        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
       }
     ]
   }
