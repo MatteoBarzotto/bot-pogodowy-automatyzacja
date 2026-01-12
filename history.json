@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 02:12:01",
-    "weather": {
-      "Warsaw": "Warsaw: -12°C",
-      "Kraków": "Krakow: -11°C",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327611,
-      "DOGECOIN": 0.507312,
-      "ETHEREUM": 11154.57,
-      "LITECOIN": 294.33,
-      "RIPPLE": 7.57
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "NATO albo Grenlandia. Ekspert o hybrydowej presji Trumpa: \"Podbija bębenek\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcm4zRm55MnpVckdVVmtrYjRSeEg1THlPUDhfdmRSeWkwaHEzSjctdldVckY3d0xyODlKMU81QV9YRUVDbGpfS0tWaFpxc3JxWkliZ3lmUkhIcDhaU1lOR3VQaFdvUUdEVUpvUEl4eGFxXzlwYlNDMHFlQkRXM2tkaE9qUVdTb2F2bFVNNXpRWF95a19RNUM2c0pITTllOGx1blpLNUtwVW11azk2cVRFa184U0k?oc=5"
-      },
-      {
-        "title": "Ciężarna pacjentka umiera po podaniu gazu w szpitalu. Trwa prokuratorskie śledztwo - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFFJVHpBM2drdmVOX1Q3RDBjYkxjaTU2NGhOZWt5QldFeGUxeGhzRi1uV1h5NmdaTEFYYUUzYmxzenpJdXBNempvbkhqQXZNTzJ2cDRBT2U3QVVYR2xmTmUxekdzSU4wSUVlMkMxYlZWMU5TYXUzZTRVT2M0UV9yNUJORl9yMS03ZXBSdVVDZDI0TU1UTjdUUmtBU1FGNzM0cEplWV9PWU9OdHNROXVWbmowbEIxeVR1MnRtUUlIRERYMjZzQ2piSEkzZXBwSEE?oc=5"
-      },
-      {
-        "title": "Krzyż wzmożenia narodowego z Kielna. Prawicowa obrona dodatku do stroju na Halloween? - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGkzRk9WdlpIVE56UWJSdGZwUmpYaHVabEhiaTZqdzBUWmg5c3BTemwwZW9tSHc1OFdrRkpGbldqWHI4d3o5anF5RXlZakJsV0NBM1NKdDJCWXlrMGw5VFRYV1JGSTF1M0VIdkc5bTdVSHpRYldzMENVQ3J5QzRsM0pfVUZWUTRGektDQ0hiTFl2UGJoQjdhUXJyZll3WDZQcHc?oc=5"
-      },
-      {
-        "title": "Gwałt na policjantce. Wypływają kolejne informacje po skandalu w Piasecznie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzlsVGtvU2VrZVloWTVSUGVKUG9TNkQ3WTRuRHVnNEVRdktKSzBwdjJ2SnhwR0t2dGpFeTVENTBlczVGVHV2RlZBaUk3UWEzaWRYY25FbkE3a0txSlhZWDAtS3JuQ3RTMmh2d3dvbFF1YmtrUkNmTktfRFJ1U2VmZ2ljVDNtVENmVGhsYnFoZG5VYW1majZzajhVRjZtdWVsYUktUjEtb2hORkxNYVZ0MEdUNWNWalMybmc?oc=5"
-      },
-      {
-        "title": "Faktura wystawiona poza KSeF nie odbierze prawa do odliczenia VAT. Najnowsza interpretacja skarbówki na miesiąc przed obowiązkowym e-fakturowaniem - Infor.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNW10R1BrY1NlREpieFZ6UWVOWkNRNmdkQ0dNOFNQaEViLS03NUExZTNtNFQtcEwteXpqNHhtWUdLaTFabklaZW1FaXZZLTZ6d1JnUUR3cndLVGNZZDNxQXE5SGxNaDFRbzYxeGlhV2lVNXFEcTdQeU5VZWlnRFZMVDUzeHg1cG5oOFZpd1Q5VVptSGpmNmtRMTZIRGRGRzZMRnRDcHNfa2VWQ1lETldxWFRnUnN2MU9RSDNsd0E0MTdyNmp5RGd5SFZzYnZ5SGt0NEpvT2IwaUZwZ3BwY2ZfSGpRd2ExZUpwakpiZWt0bDNTT2drbmExT0FodjhzUWx0OFBhaVBBNDRpdjF5XzNRRFFERXVUTWFhZmtwZE9BSURxWURrX1Y3ZDZWWlpDWVlPQWtYZFllUDE4RE5CbTJmd0lkTHlXeUHSAcwCQVVfeXFMTXh0U1d2Yl9oMEpFcTRxSkJPZUxkN3oxaVlEdmhhUWJJYVY2Qy1nM3pGcEJ3THZaRmkzVzBKNE9MRDZWeEVSTF9LR0pHRE1UUmZqaTRKSzZ1Yy0yVE9EMnZwN01zMHd6Z1hGRkc1NnZ4Y0lNbERQR0puazJ4Y1JKMTIzM2Z6LUJJTW9mT3ZUSXAzUXVNNzlETkJ2bHZtaHpab0g3ZEREM0tKXzlRMkZOaVB4MHRYbjZhX1ZvTkpCUDQ3MDkwdGN4eG9NMTQ5YV9yZHBydW9DcHRwU2hZS0xRLTZFa3A1TmluV2pSZzZ1MlVNWDN5eE1haFE4RXhCX1RqeVlZUzZFc0RqMkV5OGs3aF9KUjM1ZEZ6ZjFJZjJ0RUhwaS14UVAxQmI4RGk4Q1RyZlYwUVhjNEtkSmxxRS1rcU5YQndYeDRlS2RiZk0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-10 04:19:38",
     "weather": {
       "Warsaw": "Warsaw: -15°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Budżet w rękach prezydenta. Nieoczekiwany scenariusz na stole? - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1Yc3JSd2VzTHB3aE1JZWlDN0xkTWdGN2RWU2xmS1FUa0FOa05GWGFHWUt5Y3dCT1pnemxyNFJZcUpHTXpXMTc4cW04QTctdFBnSWRfY0VaQTNkSDV5MldMLXpCaEFENVBCOGZzTjNrc21pbkVteXJyZDQ5cDJCOWlfUFE3dTByd2pDXy16Wm9EYUpOb3liLW55N3NCb2x1dWk1SVRONUw4c2FQRFNEV2U3cE4zQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12 09:23:47",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 329456,
+      "DOGECOIN": 0.498446,
+      "ETHEREUM": 11316.86,
+      "LITECOIN": 283.78,
+      "RIPPLE": 7.4
+    },
+    "indices": {
+      "^WIG20": 3274.8,
+      "^WIG30": 4222.73,
+      "^WIG": 3274.8
+    },
+    "news": [
+      {
+        "title": "Zbigniew Ziobro z azylem na Węgrzech. Polityk pisze o ochronie żony - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdkhhWEdJZkxodEFoTzZhdnpWT25ITHJtVDZaTmdtVUstQ092R0VkeFRLRlUxOGcwVVhlNlZocmdTU2tlU05wQmZEWDhSVVFCS2Y3UVRsOFhEa2l6Mjhzb3U1eFJTbGZDdW5nSUloYzNBOVBReG85LW5kVktsb2JYQkw4V1h6VXpYV1NFVm5uMk0wemZueW5WZE9RcDgycUlfMU9ZRUFZekhoUQ?oc=5"
+      },
+      {
+        "title": "Kulminacja ostrzeżeń. Wielki mróz, śnieg. Takie będą najbliższe dni - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaG5nZHR2R3VVejNCZjQ3ek5BcmNMREVtelV5Z2dZektmWG9EbUlWT2pFYkFCWHQtdWRQYjJydklxb0RaQ2hZSmlKaktocTNzOFdfaDFEN2c1czRJZHpIRUhveHZWVzRSSlJ5U2RMNFFSY3NzXzd4TnFRdFlYdnBwYV9yTmFzOHNJV3lHY251QVNReXN1MU9seXpBRHY3SGpIajJQcWd0aUg1WlU?oc=5"
+      },
+      {
+        "title": "Stanisław Poczobut: Trochę się z synem okłamujemy. Ale robimy to z miłości - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDlPNDVmQ1Q5ZDNyU3I5ejZPYnBXY0lXZnRxX1YyS3hjMmZHbjZubzBidTZURVRsQWJWaWxzZmRyRHJWZkdlYlM1eUVXemFKZ01IRG1aUkNkSFFFcGdiZ1ZlWFhScldweVhJQXIyZ01YeURqWnRaNzZ0Wm1WNVZ2Q2JISVZONGNubldsQ1hqVHhGZHZwLWticl9Rc2xTTWQzTnFDMjlfTVpoV1p4TlFIVmtPbzI3UQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki krytykowany po pielgrzymce. Chodzi o uścisk dłoni z \"Dragonem\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONjdUcURMUVl2ZEpucmZKVXFDV0xFS3FaWXpZSzYtWnBiekZ2U05zWVdfR1VHSlBtY0tET0xYTzZBWjhiTXM0MlZJMWtjcElnTUJoMFFOTUJ4N0tYWGs1THY1SzhEaGVKZGNwZ1ZOdE5kbmZsVWpqQXd1NU8xdnBnUTgzYl9SV0xEd3o5b2lnbXFyblVOa1NaMl9UNGxrdHRiaXZhcDVDSlVHVUc5ejJMdkVHa3lKX3c5c1JNNE1LRmRva0QwN04xcGNWWm00VVF6?oc=5"
+      },
+      {
+        "title": "Drugi kraj blokuje chatbot Elona Muska. Oto powód - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWDdkdm55UjcwRGZaT0pwSHVrcENVX2xsNHJWN2w4blljS1VoOVAxLTgzRXRESmxGTTJXOFhSckQ3SXk2eURCdUVIX0N4QTk2RF9xVUJycTQzd0VTWW9ySHlUV1pVUlVNTWRNSm1IbHF4a0F6VGQ5bDFtQ1VIejVRZjlrNUsyT0Z4MWZHYzN3bDhpRGlDOG5MN0plbGhTWmRURzh5d0NB?oc=5"
       }
     ]
   }
