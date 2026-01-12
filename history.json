@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 07:22:09",
-    "weather": {
-      "Warsaw": "Warsaw: -17°C",
-      "Kraków": "Krakow: -12°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327130,
-      "DOGECOIN": 0.505494,
-      "ETHEREUM": 11150.14,
-      "LITECOIN": 292.83,
-      "RIPPLE": 7.55
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Irański reżim wywozi złoto. Rosyjskie samoloty nad Teheranem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb0Z5U0syWU9NRmZhMUJMSENtLUM4LW1pMXVYcWVXbEc0WlRfNDB1cS1FYnZqZ3JkaUpic3RuajdmQWZGMkV6SlJ4MnIxN2RxSHprTWpqa3NCUzI2cnZDMVloS1BPQ0NYb2I3M2tMekRjQVZyM2JTWGtYWjBwY2h4UzBEaDhjVFMtWGI2a0hpLTJwMjMtVm4ySUZsbW5mckRUOE5DbVF4TmNyRjBBOWFFczd5WlpUV3ZONnVCNllDclo3Sjh6RXBvSEFPR0M4R2l6?oc=5"
-      },
-      {
-        "title": "Krzyż wzmożenia narodowego z Kielna. Prawicowa obrona dodatku do stroju na Halloween? - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGkzRk9WdlpIVE56UWJSdGZwUmpYaHVabEhiaTZqdzBUWmg5c3BTemwwZW9tSHc1OFdrRkpGbldqWHI4d3o5anF5RXlZakJsV0NBM1NKdDJCWXlrMGw5VFRYV1JGSTF1M0VIdkc5bTdVSHpRYldzMENVQ3J5QzRsM0pfVUZWUTRGektDQ0hiTFl2UGJoQjdhUXJyZll3WDZQcHc?oc=5"
-      },
-      {
-        "title": "B2B jest seksowne, etat jest oldskulowy. III RP zrobiła wszystko, żebyśmy tak myśleli - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RWR3NIODg0dHJ3M2hVSGJsQVFfazFObjJobHlWRXN5MW10RnlDUU9kclZ2T3RLM0lQSjRWWmRvRnhZUDFBdUZyVzFaenc2Q3lWSW5zVXFTcWNLX0JRQlVmYkM2OU5MSEY2bGI3Z2RVSHpuMThDZThzOUV0bEtNZ0lqdGpWOXF4YWhBVlI0dFY1cWZBblV0VHNQbWJHenhISXc?oc=5"
-      },
-      {
-        "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
-      },
-      {
-        "title": "Spotkanie Prezydenta RP z Premierem \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUh4YmJEc1lWT2dKSG95MFVockUwbHR3MGgwdkpCQWlmWV9fMmU3WGtDWGExRmVhM0xFN0xBOUsyWDlnZHVCLS1rdkIwV2xkcW0yQTZYNGpUS05jMHMyeFUtN09Ec2o0VUR1bTRWWWV4U2s4Q0dhcDRxMW1takUtdjFtSko3eFVUZndiOUVQakV0alVz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-10 08:14:24",
     "weather": {
       "Warsaw": "Warsaw: -17°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "ZUS zasypany wnioskami. Polacy ruszyli po pieniądze. Korzystne zmiany w stażu pracy - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmVRcEl5ZTZvR1JqMnlEME1VcS1pMDlGcWZha2hCR0hsU0w2UllEdWtRemU2Tlktd0dOQkVQZVQyT3VqSUZibXNNQTE4Y3hqUjg3Y1VvN29NdWt2U2FpSFZCOTlzTWsxejRKdG5hbzBCWGI5Y1E0cmNXR25faG40aHl2RlhyYlFRcXVfdFltVG5Ldy1tRENvbFRMeUNZWEFpVmRJMXA4Uk1wbWl1ck5md1hQMHNJMTdDbWhZ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12 13:34:44",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.6037,
+      "EUR": 4.2097,
+      "GBP": 4.8482,
+      "CHF": 4.5212,
+      "JPY": 0.022822,
+      "AUD": 2.4167,
+      "CAD": 2.5963,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 326576,
+      "DOGECOIN": 0.491381,
+      "ETHEREUM": 11220.09,
+      "LITECOIN": 277.98,
+      "RIPPLE": 7.38
+    },
+    "indices": {
+      "^WIG20": 3273.98,
+      "^WIG30": 4215.92,
+      "^WIG": 3273.98
+    },
+    "news": [
+      {
+        "title": "Silne mrozy uderzą dziś w Polskę. W nocy temperatura spadnie nawet do -23 st. C - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVFCcm9zSGJ2U0NId2w3VjZ0WHktRVlBZ2Y5Ni0wa0JBVmFzY1EyT3gwa2tfTGxiYXhBNUJ6WlU3eHpMME1KSVRVSkxITDQzMWlHeEJhNUYtdkJ6TU9JQloxSzh2Y3EzQXMxdGxCMi1xczYtallJemFDbWR5SzBBeXVhb1NOT2RpU25BQmluZ1hjanY0eUdhcDE5VmoxYTJ2UFNtUmNQZHppYTRxSko0Z0t5M3hKZUp2Qk9iWGNEcHpxLUpZSFd2czFRZXlILVJJSFZpTQ?oc=5"
+      },
+      {
+        "title": "W Polsce 2050 dogrywka: Pełczyńska-Nałęcz kontra Hennig-Kloska - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckgybGdnXzFzX2t0OEVvZnpMWWpCMlY1anBqMUFfa2ZBYTlILUI5a1dKYTA2QW1BWU1NSEV4OEFzNzF3dWRXbV9SQTc0VzBCQWIwQVlFVVdrR2M3ZmZWa3JlMVFfbzNXeUVUOW5tYmtJSVZjU2RHOTJkZHRrcTZaWnJqQXhEU2hXOU4zLVJwa3hfX2ZJcnFRWVBmeG01bkw1OXlhZ21B?oc=5"
+      },
+      {
+        "title": "Chcesz w 2026 r. fakturować po staremu? Licz się z konsekwencjami - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjZ4aUMzRGZ2VGtJQzJmUUJ5V0RLN1pCZU9QS012THJOVjQ0cU05OFlENWczdFQ2YXhUZktFXzJVZkFIcm9NUzhsNjBDeS1RTnZXQmMxU0NNV1V2QTZFZTJzUFZaQjJmT3I2aFhYa1RydWQzYllQcmcxYUdBd0p1WVRjdWFfcEFJaVNYMWFJUzgxZUlZRzVfalVVTEhJUlpqWGx1ZmV4ZWZKSFFSeEt2NTE1c1h2Xy0xeWhxdFk5aFN4Q3JicnJN?oc=5"
+      },
+      {
+        "title": "Nowe 500 plus (a w 2026 r. – 1000 plus) na ogrzewanie nie zostanie wypłacone, pomimo złożenia wniosku. Niespodziewana zmiana przepisów o nowym świadczeniu już z podpisem Prezydenta - INFOR.PL",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVDVCR2ZOZFFmUFVzYTBBQktNcG1HWFRpT24yZUR3bkRjbll2LWpURGUxTVU2VFpkQ192LXRsd1dqYmNFYlNPUURpUmg0a0hmREtYaTRRVVYwWFhSVWdiSU9OS1VhOVRhQTEzQnMyMDJKUXkzODVGVkNMQkZrRnZoQU40OFM1N01mRHl5V1R6M2lpWXZnS1lZREdhelZ0d0J5MEFURkRhbG9qUFVCbTFGQmVQV29hdWZpbDV1Z0pGNUxNdFJQV1pnS05pc2ZSTUVFamtnaURZZGVHZnhCTm5CM3lseXhxazJyWmUtaFhqaU5MZkxHV0RLbm1BR1dzU2dwMjNnMm9HN2NuUUlfSXpSdzVUblZzcFVlVjRMUjA5V3JBQWJ5REJnWS1GLVh1VWNzcWQ0b3p1UHFyeTNOUUV3MWxBNW1OamRIejlwM0I5YkhGTjAxUHfSAdsCQVVfeXFMTlVIMEVWQWdJcThmVXEyXzJBUFh3VnJuRUdIU2E5NEY0VkRQTDFPYWliRDM3LUI5R01jdms1ZHJEVUZCMnE2MUlpTjhDZTZGeG9jVHNSZzVjeXpaQ2FUMHNIMHBaRzcwdXZHTFA3YWhIeEVYalEyRHF2OHRTWUhVWXhiOHdIM0FxNk45U3NLZ21TYlEyNVNuSnVKTUZjbDlhNmRVSUdaS1dZellMQXpDS3M5VGh2NTVZUHp0YlNBRTdDUEd0d2xJUjRTajVDMk1FZThtYXptci1qWE1HblZsczkyZHF0aGJjWUo4MDNUc1NUVlZqN2pRaDdWOTdDbWdUXzduR0hrdkJUazdsV2tkeWo4cXhJVnBpeTI4bTlscWtTdjFVejZFR1RVZVRLQXRhRDRtQXdXa083bXJMYTBpRWxBLWZab0xXZXVMZGRnU3V0OVE0dkloNkFHNlU?oc=5"
+      },
+      {
+        "title": "Prezydent podpisał osiem ustaw, trzy zawetował \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlloenQ4MXpMemxpejFmc2l4ZDFIY0dLaEEtNzJYSGFqczNOWU96LTRUWDVjYk9wOVBwb18xNUpVcTJCMHBnczBnbDVPMGxFb1ZXYXU4V2hDWC1qRG9MaXlIN09pVy1ydVp0Ry1kR1R4Yi1pNWhwNGN3Q2dYWXRpWURUVVc1M0duMmNQdFVfeFZra0xDVXF6ek1YZjJqY29DT1E?oc=5"
       }
     ]
   }
