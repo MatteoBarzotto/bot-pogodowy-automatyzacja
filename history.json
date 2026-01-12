@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 15:13:51",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -8°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327451,
-      "DOGECOIN": 0.50624,
-      "ETHEREUM": 11178.98,
-      "LITECOIN": 296.67,
-      "RIPPLE": 7.56
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Donald Tusk uderza w Jarosława Kaczyńskiego. \"Bez Brauna nie ma szans\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVBMYTV6U1NmUEhTU09NQUFRaWQ2ZmJydnhqelYxdFdrOUZxclBkcFN0cWdYR1p0ZjVybzc2QUcwQ1hFeWlJWGtHWlVJQ0R5aGNHU2FYZ3JjSDJYNTJZTFRCZVlfRUVobHZodHVTVW5Ma1ljRTNxQ1UzMHJBR3ppMGJjbVFHMUJzWmVkblpRTGpuMWxjb180U1MzQUVVajFTb2hkYndYOEdJUDJLVnRRODFlWUdLRHk3dGhqeUVuN1kxMzFUdk90U3JR?oc=5"
-      },
-      {
-        "title": "Pojawił się Kaczyński. Incydent pod pomnikiem smoleńskim - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREJLTHd2NUVpQ1BFcGh4MmhqSWdtVktxMGlGZ1NZTHFqQ1BLVm00cjRuQWMzWFowR2ZIaDZxZnV0RXFrVFZNWjl2SUViS185OGx0UzdPd2xfdW1Hakx6cFVMeEs4OUJYS0xtMC1xTTc0ak9RXy1GOTdBTDh1OTNFWFJFQVhkaE15MnNnbkRHY290N09EVTdqTjVyaFBKVFE?oc=5"
-      },
-      {
-        "title": "\"Nieinwestowalna\". Szef naftowego giganta do Trumpa ws. Wenezueli - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQURHUzV6ZXEyWFlqS2xaclVIMUVWeUYyYmNUZlNVV01VUzhDMXo4bkJEMGxqaTVfOE8xTFhOX2dVZTMtZWxZeGh4Y05OZzJTb1ZKNW84dXhzVTJrb01BNmFWOXlqSnR6ai1Eb1BHNHhCRGFjZUw0bzRlaGhUVXhwV0VHUVQxMmZyYVV0ODJvbmpuSVNlczdvejlvTGoxSXFZODdLZkdwNDhXeGFEVE9zcUE5TzRhdnJ1aXdYQTVxazRndw?oc=5"
-      },
-      {
-        "title": "Atak na dom ministra rolnictwa. Podejrzewany w rękach policji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2ZJalBsRi1uSmR3MVc4RmtsWW0ycGdENk5vNjdwb2xDS0dnNGlxRl9YaWgyZGd2N3R3ZlI2NlVMdHNFT3pSZjAyRFBpcl95dUtQWjF6NFhwOHZJdWp0dlBsam5wMEc4QS1ZMDhNM25DTkk1bE96Tkt4RVY0bHJOWV9BUDJIVzhVeXJ5V2phbk1OdmlnSHRFVGhPbDAtWDQ?oc=5"
-      },
-      {
-        "title": "B2B jest seksowne, etat jest oldskulowy. III RP zrobiła wszystko, żebyśmy tak myśleli - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RWR3NIODg0dHJ3M2hVSGJsQVFfazFObjJobHlWRXN5MW10RnlDUU9kclZ2T3RLM0lQSjRWWmRvRnhZUDFBdUZyVzFaenc2Q3lWSW5zVXFTcWNLX0JRQlVmYkM2OU5MSEY2bGI3Z2RVSHpuMThDZThzOUV0bEtNZ0lqdGpWOXF4YWhBVlI0dFY1cWZBblV0VHNQbWJHenhISXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-10 16:14:04",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Spotkanie USA - Meksyk. Mają wspólnie walczyć z kartelami narkotykowymi - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG53dS1OQ3BzcWZtYmg2NW5ZeUhMV0trWVFvTDFsRUNaa250TkJ5RHZzQVRRdGZ5QWlZX3VhN1ZVS1NRRmM1LVFFRlhERk1sd3FiSlNtZmRDanFrWGE2Mm9PRGZPMkZqWDg2QVpFaTFnMTVBMk0wUE5jMEFsT1pReW9YMFVGOUxhXzZ3bVRmVlNZcVkyQXpCTXRZb0w4RnpBbVJGbFZzTE9aTDhfR0Nkc2tiRFd3N25pTmY4dWpEc1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12 21:18:09",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.6037,
+      "EUR": 4.2097,
+      "GBP": 4.8482,
+      "CHF": 4.5212,
+      "JPY": 0.022822,
+      "AUD": 2.4167,
+      "CAD": 2.5963,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 330840,
+      "DOGECOIN": 0.499014,
+      "ETHEREUM": 11232.8,
+      "LITECOIN": 275.99,
+      "RIPPLE": 7.46
+    },
+    "indices": {
+      "^WIG20": 3292.06,
+      "^WIG30": 4236.26,
+      "^WIG": 3292.06
+    },
+    "news": [
+      {
+        "title": "Nawrocki nie wiedział, z kim się ściska? Kontrowersje ws. skazanego kibica - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXRUeWQtcXp0c28td3lBVmJRYlh5cExOX3lOajRjWC1BOHhDTHJVb1VuVC1nOElMYWh2dm1DeWQ3MWZXdlhxZTBMVE40czZMempyTEk4NzBlV2VGSUh5WHItZDduMDY5VHVSb2ZIcW51MjNZNXNjYVJnQTdkUS1Ha1dSanROUUNYMXBYSy12dXUwM1docEdaTlcwTUZISl9ZZ1BnMjFXdk95azNaME93U1RqVE0?oc=5"
+      },
+      {
+        "title": "Pełczyńska-Nałęcz czy Hennig-Kloska? Brutalna walka o ocalenie partii Hołowni - OKO.press",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHJnVC1KLWdFUDFDT3RZZEUwUXFyd2E5eEg0NC1sUjlBWUY3U1RDZlRnbVdOcVdlMXZnR3FWWkdiUC00MkszeDVmdFJrV1I5OS1oaHpSNXNFUVVvNThIZ1NrODctY3d1a2xyNGV0aXNyVnpkdmZ5OWM4ZXA1N1VQcmxTUURjd3djYXItNjZNTUgzWWs2NS1mSHFB?oc=5"
+      },
+      {
+        "title": "Wielka mobilizacja w sprawie Grenlandii? Niemcy mają plan. Na stole zwiększenie obecności wojskowej - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTNOTXdDM2F1YXp2OTVydVZ6NmNyQ0NsUENpSF9TMnk5RURhYlhsNFJwMldCeWlWeUFLbnlKdUp3ZldlVUkzZm8yaUxLV0NqT3BrWVZFUDdOLVRLSjJUQV8zeWVVYzZqZkFnQWhmeFVqQVdadTNVQmh0VGlYdDdTbm5WYkdsanNHSWpnNUg1d3pFa1dpVjRjQVRPVmxiQmJYZVdvTVBIdFVaYXl6U01SU2hyZl9pdWU1VE1wYUFB?oc=5"
+      },
+      {
+        "title": "Ranna w pożarze w Crans-Montanie lekarka walczy o życie w szpitalu. Ma apel - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHhVNTUyVTZWS3daMTdkZEtXM2dhdXdDQ2M4U3lHV1pUZ1hQQ0NVUEgyOXFlWnpzalZEVGVIaFRTLUJXZGNWUW9tSVJfR09lUU4wLUZkV2dsdHM2a1JudnJZWmtCaVRuSlJHaktQMmhXYmVzTG5ocGdHb0VNS0xFMDFTdUVValQ3NnE0WllfamlmZFRXbHNwYzhGTG1EV2tNWUJfM3R0Xzh4dEhPQ1k1TTVqY0kyeWdCSURmNDM3RjM?oc=5"
+      },
+      {
+        "title": "Trump nie wyklucza interwencji w Iranie. \"Bardzo mocne opcje na stole\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTg5OExiZVJ0ZTMwblJocXJlenkwMEZyd0JCeWNmenBjaW1EUVdjd2t5RXZ0ZnRFRVdlb1ZVWXROT3g5YTlUVU53c1pKdlVfQ3RwWVVXRF9PVXdwVVVKd3AwejZKOU8ycnJlQnVjNUJQU0dHX0F0SHJhbDl5LXVBWjk4ZUNnamFFTEk4ekx4V1ZIUlQ1U0lZOVFnYlZzMDA5REd1RUM0RmdSeUJhUUZVb2FyWnRrc3E2d2c?oc=5"
       }
     ]
   }
