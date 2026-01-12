@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 00:14:59",
-    "weather": {
-      "Warsaw": "Warsaw: -12°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327903,
-      "DOGECOIN": 0.509728,
-      "ETHEREUM": 11166.42,
-      "LITECOIN": 295.15,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Ciężarna pacjentka umiera po podaniu gazu w szpitalu. Trwa prokuratorskie śledztwo - Medonet",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFFJVHpBM2drdmVOX1Q3RDBjYkxjaTU2NGhOZWt5QldFeGUxeGhzRi1uV1h5NmdaTEFYYUUzYmxzenpJdXBNempvbkhqQXZNTzJ2cDRBT2U3QVVYR2xmTmUxekdzSU4wSUVlMkMxYlZWMU5TYXUzZTRVT2M0UV9yNUJORl9yMS03ZXBSdVVDZDI0TU1UTjdUUmtBU1FGNzM0cEplWV9PWU9OdHNROXVWbmowbEIxeVR1MnRtUUlIRERYMjZzQ2piSEkzZXBwSEE?oc=5"
-      },
-      {
-        "title": "Agent ICE zastrzelił kobietę. Ten urząd ma ogromne uprawnienia i 8 mld dol. budżetu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTFkT3k3QnhkOG1zdWZjeFJCYXhoY1YzZUdCWFI3bmpzUTdNQTB5ZTlRa2Y1aVpld2ItQkxVMk4yQTdLcFRVakdDVDI3b2J4UWRRZkZLZ3lLVkp5a1FNNlFIejFxZElLS3Nzblh3Q0pVZGN1OEs5S1FpWkhiODZ5QlM0MHFaTmlOQWMxZ2RRNjJlVTA2Vk5FLTNzdUhfZ3ZZWWhPdHFpaUdvWDAxaThHaXhzam1DZWcydnVBVg?oc=5"
-      },
-      {
-        "title": "Gwałt na policjantce. Wypływają kolejne informacje po skandalu w Piasecznie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzlsVGtvU2VrZVloWTVSUGVKUG9TNkQ3WTRuRHVnNEVRdktKSzBwdjJ2SnhwR0t2dGpFeTVENTBlczVGVHV2RlZBaUk3UWEzaWRYY25FbkE3a0txSlhZWDAtS3JuQ3RTMmh2d3dvbFF1YmtrUkNmTktfRFJ1U2VmZ2ljVDNtVENmVGhsYnFoZG5VYW1majZzajhVRjZtdWVsYUktUjEtb2hORkxNYVZ0MEdUNWNWalMybmc?oc=5"
-      },
-      {
-        "title": "Faktura wystawiona poza KSeF nie odbierze prawa do odliczenia VAT. Najnowsza interpretacja skarbówki na miesiąc przed obowiązkowym e-fakturowaniem - Infor.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNW10R1BrY1NlREpieFZ6UWVOWkNRNmdkQ0dNOFNQaEViLS03NUExZTNtNFQtcEwteXpqNHhtWUdLaTFabklaZW1FaXZZLTZ6d1JnUUR3cndLVGNZZDNxQXE5SGxNaDFRbzYxeGlhV2lVNXFEcTdQeU5VZWlnRFZMVDUzeHg1cG5oOFZpd1Q5VVptSGpmNmtRMTZIRGRGRzZMRnRDcHNfa2VWQ1lETldxWFRnUnN2MU9RSDNsd0E0MTdyNmp5RGd5SFZzYnZ5SGt0NEpvT2IwaUZwZ3BwY2ZfSGpRd2ExZUpwakpiZWt0bDNTT2drbmExT0FodjhzUWx0OFBhaVBBNDRpdjF5XzNRRFFERXVUTWFhZmtwZE9BSURxWURrX1Y3ZDZWWlpDWVlPQWtYZFllUDE4RE5CbTJmd0lkTHlXeUHSAcwCQVVfeXFMTXh0U1d2Yl9oMEpFcTRxSkJPZUxkN3oxaVlEdmhhUWJJYVY2Qy1nM3pGcEJ3THZaRmkzVzBKNE9MRDZWeEVSTF9LR0pHRE1UUmZqaTRKSzZ1Yy0yVE9EMnZwN01zMHd6Z1hGRkc1NnZ4Y0lNbERQR0puazJ4Y1JKMTIzM2Z6LUJJTW9mT3ZUSXAzUXVNNzlETkJ2bHZtaHpab0g3ZEREM0tKXzlRMkZOaVB4MHRYbjZhX1ZvTkpCUDQ3MDkwdGN4eG9NMTQ5YV9yZHBydW9DcHRwU2hZS0xRLTZFa3A1TmluV2pSZzZ1MlVNWDN5eE1haFE4RXhCX1RqeVlZUzZFc0RqMkV5OGs3aF9KUjM1ZEZ6ZjFJZjJ0RUhwaS14UVAxQmI4RGk4Q1RyZlYwUVhjNEtkSmxxRS1rcU5YQndYeDRlS2RiZk0?oc=5"
-      },
-      {
-        "title": "Strefa Czystego Transportu w Krakowie. Mieszkańcy podzieleni, emocje podgrzewa skrajna prawica - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZDdSMnRQZGlObTFoRUxpVU1oaFVZRTJjcFlQMHZrSmRPQW1lZ19WTnl5YkJ4THh3MHhnemJfNVcybE8wVktnWHR5OU9sdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-10 02:12:01",
     "weather": {
       "Warsaw": "Warsaw: -12°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Doradcy podatkowi wybrali nowe władze. Chcą większych uprawnień - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYlRjRmxDdEQ5YlA0bkk2cTI1R2ptekFXQXZNSVozNVNNcThPRVRCbzRwVEw5S2pWS0swNV8zZDFmUDdOdnRNZkJucW5Mb1FuaDZGNkRPR2wzRGJaUl9jcVMySFQ1bWJkMjJJZ1RZMHFlRDF5SmExQ0hPQzJwQUQxOVBPR0szYU9UR1ZQRmlPUURPaVN2S3dxa2Vvek1yMF82Tk1HZml2dG5OYWd5NU0wNTQ5MHpLMWZmQnlrTU1VcG9CS25j?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12 08:22:10",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6184,
+      "EUR": 4.2127,
+      "GBP": 4.8525,
+      "CHF": 4.5222,
+      "JPY": 0.022942,
+      "AUD": 2.4175,
+      "CAD": 2.6081,
+      "CNY": 0.5182
+    },
+    "crypto": {
+      "BITCOIN": 330521,
+      "DOGECOIN": 0.502848,
+      "ETHEREUM": 11359.27,
+      "LITECOIN": 286.03,
+      "RIPPLE": 7.45
+    },
+    "indices": {
+      "^WIG20": 3275.88,
+      "^WIG30": 4224.17,
+      "^WIG": 3275.88
+    },
+    "news": [
+      {
+        "title": "Potężny atak zimy. Wojska Obrony Terytorialnej postawione w stan gotowości - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnkySnVneS0zdDREUXM5dGI5UERvMlB4UHdxMjAwSTJiQ1NSUzlXaXNvb1lJeFRmamE3MHdLaXpzT0R6REZ3QzJLZTRXYzM0Umtwb200WlJHOVJXN1FHRjAzczM3dFJvbC1VTk8ySHhPdnZFNXo5NzNLbGNLV3NvcmRBY3lfT0JOSklpbzZiSUdyc1V3SjYxeXJMbXZKZGozUjRpbXh6V1BKejN6NTVqY0ZpVQ?oc=5"
+      },
+      {
+        "title": "Walczy o spuściznę po Hołowni. Oto jej majątek - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUFzVlZqcHlqeWJBX2dncnlFRWd3NFZXMHd4aElLbG1FTF9WYUIzMEJnV0xqT0tOMzBsSklWNWQ2MlJSeWJYLXROWmZ3a0oxTDJBMjJlQVBsRVRCVlZzY2lKTXI3NlRUUE5wbnRramZEYmpiVU83WV9nd19sTTJ1dnBqTWZNMXp2V0pmVE1Eak05WVJJUVpDQUZSMGpvR2VZdHRlZ01mcTg1MjdDRlE?oc=5"
+      },
+      {
+        "title": "Prezydent podpisał osiem ustaw, trzy zawetował \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlloenQ4MXpMemxpejFmc2l4ZDFIY0dLaEEtNzJYSGFqczNOWU96LTRUWDVjYk9wOVBwb18xNUpVcTJCMHBnczBnbDVPMGxFb1ZXYXU4V2hDWC1qRG9MaXlIN09pVy1ydVp0Ry1kR1R4Yi1pNWhwNGN3Q2dYWXRpWURUVVc1M0duMmNQdFVfeFZra0xDVXF6ek1YZjJqY29DT1E?oc=5"
+      },
+      {
+        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
+      },
+      {
+        "title": "Budżet w rękach prezydenta. Nieoczekiwany scenariusz na stole? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1Yc3JSd2VzTHB3aE1JZWlDN0xkTWdGN2RWU2xmS1FUa0FOa05GWGFHWUt5Y3dCT1pnemxyNFJZcUpHTXpXMTc4cW04QTctdFBnSWRfY0VaQTNkSDV5MldMLXpCaEFENVBCOGZzTjNrc21pbkVteXJyZDQ5cDJCOWlfUFE3dTByd2pDXy16Wm9EYUpOb3liLW55N3NCb2x1dWk1SVRONUw4c2FQRFNEV2U3cE4zQQ?oc=5"
       }
     ]
   }
