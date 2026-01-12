@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 08:14:24",
-    "weather": {
-      "Warsaw": "Warsaw: -17°C",
-      "Kraków": "Krakow: -12°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327544,
-      "DOGECOIN": 0.507346,
-      "ETHEREUM": 11179.71,
-      "LITECOIN": 294.05,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Partnerka zastrzelonej w Minneapolis kobiety zabrała głos. \"Zostałam, by wychować naszego syna\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFU4U0VyZmRUV2tlcmt4NW1GdEhVd19NdmNzMXZla1l3bloxb2lQN1I4REVmV2NubFdWbVBDOWQxclZnRFg2TXlmLWlnS04tdmN0RzRDOU1PWmpBSHhjRnZ4dTloeHNQaG9nOEJWalhEbnRpa1hxMFlDc1drdW9MTjNtYURpLWNBRkoweWxnU3YwWHp5ZlVseE05TnlWUjhiT2dTSDl6Wmp2bUd4WEE3Nm5LUFhUcXZNRzd0ZWEwOUF6R0xLQnc?oc=5"
-      },
-      {
-        "title": "B2B jest seksowne, etat jest oldskulowy. III RP zrobiła wszystko, żebyśmy tak myśleli - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RWR3NIODg0dHJ3M2hVSGJsQVFfazFObjJobHlWRXN5MW10RnlDUU9kclZ2T3RLM0lQSjRWWmRvRnhZUDFBdUZyVzFaenc2Q3lWSW5zVXFTcWNLX0JRQlVmYkM2OU5MSEY2bGI3Z2RVSHpuMThDZThzOUV0bEtNZ0lqdGpWOXF4YWhBVlI0dFY1cWZBblV0VHNQbWJHenhISXc?oc=5"
-      },
-      {
-        "title": "Zima nie ustępuje. Przed nami kolejny śnieżny i mroźny tydzień. Na Wybrzeżu efekt morza, na południu - gór - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYld1TFlKQVhydW5qVE4yaGxVQ1J6X3hwdXRpUFRfOE1OcUlLN2Y0N1ZLT3lrV25uSGtZUnJnTGlsQjUyU0JjdUVIWE5FQWZUOXpCbnhrazJKNE8tNkhoZ1VUc1IzYVgzM3phRnVVd0xuX2dKQmVnU3BXM01pc3FZSk1BYnRadGpQNm5zWUF4MUJVZW5BcERtU3Y0SU12SURBc3VEX0x3?oc=5"
-      },
-      {
-        "title": "Spotkanie Prezydenta RP z Premierem \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUh4YmJEc1lWT2dKSG95MFVockUwbHR3MGgwdkpCQWlmWV9fMmU3WGtDWGExRmVhM0xFN0xBOUsyWDlnZHVCLS1rdkIwV2xkcW0yQTZYNGpUS05jMHMyeFUtN09Ec2o0VUR1bTRWWWV4U2s4Q0dhcDRxMW1takUtdjFtSko3eFVUZndiOUVQakV0alVz?oc=5"
-      },
-      {
-        "title": "Krzyż wzmożenia narodowego z Kielna. Prawicowa obrona dodatku do stroju na Halloween? - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGkzRk9WdlpIVE56UWJSdGZwUmpYaHVabEhiaTZqdzBUWmg5c3BTemwwZW9tSHc1OFdrRkpGbldqWHI4d3o5anF5RXlZakJsV0NBM1NKdDJCWXlrMGw5VFRYV1JGSTF1M0VIdkc5bTdVSHpRYldzMENVQ3J5QzRsM0pfVUZWUTRGektDQ0hiTFl2UGJoQjdhUXJyZll3WDZQcHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-10 09:19:08",
     "weather": {
       "Warsaw": "Warsaw: -15°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Prezydent podpisał osiem ustaw, trzy zawetował \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlloenQ4MXpMemxpejFmc2l4ZDFIY0dLaEEtNzJYSGFqczNOWU96LTRUWDVjYk9wOVBwb18xNUpVcTJCMHBnczBnbDVPMGxFb1ZXYXU4V2hDWC1qRG9MaXlIN09pVy1ydVp0Ry1kR1R4Yi1pNWhwNGN3Q2dYWXRpWURUVVc1M0duMmNQdFVfeFZra0xDVXF6ek1YZjJqY29DT1E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12 14:37:46",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.6037,
+      "EUR": 4.2097,
+      "GBP": 4.8482,
+      "CHF": 4.5212,
+      "JPY": 0.022822,
+      "AUD": 2.4167,
+      "CAD": 2.5963,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 326386,
+      "DOGECOIN": 0.490007,
+      "ETHEREUM": 11199.03,
+      "LITECOIN": 274.11,
+      "RIPPLE": 7.39
+    },
+    "indices": {
+      "^WIG20": 3276.33,
+      "^WIG30": 4219.26,
+      "^WIG": 3276.33
+    },
+    "news": [
+      {
+        "title": "Ciało 37-letniej Emilii nad rzeką. Mamy szczegóły z prokuratury - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2V2VWhVQzRhSzJiWUozQUJBLU52WHNaMHhnYlJKa09xazd5QkRteXJDTUVOcU84VnNIbVdiM2NGOC1lTlhfSzF6WFRCdUxJSzFDMWZHMXpHM09LWElrZ3FYSEkwS2FCOWRJUXppREd3MU1Ia1BoSFFmT2FGcTJrRzFwYkFlaUxZeTBPd3JESHhVLWNZT2NpNFZpN1U1TEdLck1IdHVHU2o?oc=5"
+      },
+      {
+        "title": "Alerty IMGW w większości Polski. Zima może dziś sparaliżować kraj - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXViamR2aDZ2RmpsLU1XNEp1UFJ5VVg1cEEzNkdfMnRZd083TkJQWG43S24taHVQOVdfejlvRGp2VVNUTGVWVVBnVEhyYWRHS3k5RDgxaVFNZlppTUpVSVcxbjFfT1dDYVZyNk53aUhjZGZDNlpiNndIUnJXcFFIc195RWlrWFRjTTk0NUpiU0ZuZ01UYjRkbVhqbnNGUGpyQ1ROMVVzeGVJNmR5alktd2FiazI?oc=5"
+      },
+      {
+        "title": "Chcesz w 2026 r. fakturować po staremu? Licz się z konsekwencjami - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjZ4aUMzRGZ2VGtJQzJmUUJ5V0RLN1pCZU9QS012THJOVjQ0cU05OFlENWczdFQ2YXhUZktFXzJVZkFIcm9NUzhsNjBDeS1RTnZXQmMxU0NNV1V2QTZFZTJzUFZaQjJmT3I2aFhYa1RydWQzYllQcmcxYUdBd0p1WVRjdWFfcEFJaVNYMWFJUzgxZUlZRzVfalVVTEhJUlpqWGx1ZmV4ZWZKSFFSeEt2NTE1c1h2Xy0xeWhxdFk5aFN4Q3JicnJN?oc=5"
+      },
+      {
+        "title": "Donald Trump zwrócił się do Włodymyra Zełenskiego w mocnych słowach. \"To byłaby katastrofa\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjU1aHRwT2NrdG42YzVDZHJXQVZCcmQtVVphZGMtR3NKVTg4ZGZkRlY3MVNNbGdXNnNJc1UyalJpczBHZzFHYVpJNWlaUnlBZVBja3ZxLS1RYzZyeGhFZnR5QmpXdXZ3WFRWMERSbS1yVFI1aXdpQWVZYUJBSkpCeXJDX2JLVHhnU0VSVGpNaXZDOS1Xc2JMWUFBOE1NZ1NVc2RjZWl1djR4Uzk4b2xyNFluZEw?oc=5"
+      },
+      {
+        "title": "Zmieniły się zasady liczenia stażu pracy. Przyspieszą dostanie dłuższego urlopu - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUk1MmxUSGhDTjgxM2tGbG52ZzViYTQ3ZXJBVG5wbWFqdlk2VjdPTUF1QkdvOTZOa3FXWHhhb3I4MGI2UGxfMENPWXZ2WjkyZ2kwVTVzUnZyTmEzbnkzT05BNTJxSWJ1bld5UTFTOHV5ZXJCekNNNG5WdXdIcnJmNWhKaGpyOW1wOHA0TXotdGlmWUlDeUtTWF9kbGx3NENINzRoMW1hVGRlYkFjUXhNNjZLdFMzb25mR3kzaGVKMERZNDg4eF9v?oc=5"
       }
     ]
   }
