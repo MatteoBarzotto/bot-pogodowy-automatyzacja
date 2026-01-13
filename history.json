@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 21:15:42",
-    "weather": {
-      "Warsaw": "Warsaw: -6°C",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327767,
-      "DOGECOIN": 0.507591,
-      "ETHEREUM": 11180.81,
-      "LITECOIN": 294.28,
-      "RIPPLE": 7.57
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Pilny alert RCB dla sześciu województw. Zaczęło się dziś - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaWxEaEVSZDlxdENwbG9jbEUtaHAtZUYtYUVBQWlFV3RBYTV5SS1KWWhKQ1lPa0czUkI1M0JETFRJVHY4bGVhUnpvWENxbUZCWkNrV3c2RFhUT3NCRXhxMXdmYllvNVlFOGZtZ0V2clRrZWVsakJVTWFHU0RZdGU0a01rX3RlaTlBN2dBZ2owaW5wbjVad0FXcy1XQQ?oc=5"
-      },
-      {
-        "title": "Ekspert: uderzenie Oriesznikiem pod Lwowem to „nuklearne Halloween” Moskwy - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RzTGpSQmFaZ0F1Xy1VR2hONW43M3BmWGw0QmxCNF9ETGRLbHBFMU9QOVhfMFk3Qm5iSFU4V21CMUhqM1J4SjYyTExlcV85UFlfYmh6TnllUE5zVlNCOHNDUEpXeVlXR3dJMkE0bWdYUW5qdkxCN2tSdF9kTTJHZ2hKYzNsMTg0VGxrWUVzclRNZVRhczNjNjNyRlJJMlMt?oc=5"
-      },
-      {
-        "title": "\"Mocna lekcja pokory\" dla rolników? Prawnik z Brukseli o umowie handlowej z Mercosurem - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzUzMVJ3YzRRaElnM2puQUt1Q1ZnV2Y0NjE4X0QyMEJhZloxQkZYWnN3S3AxNWI3U2hyMXBTWTFZaTdDYkNJQ29GbFBhSlhGa0JrVHNoMUxWSTVxZDg4czdObV9oVzl4MGxhNVZ5dld0bUVfeTdiWTQ5QmNsbk9ndTNYMDVPdm95bDVlaFc2c2NrYkRlbC1MQ1FYRE03LWM4MEtLS2YzN2hQMjQyVnJoQnJlXzhkWWlhNlVDaW1FazlFVUtOXzhHM1AzV1A4a1dvUnpPeg?oc=5"
-      },
-      {
-        "title": "Wojsko wkracza do akcji w Słupsku. Miasto sparaliżowane przez śnieżny armagedon - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlozeWVCNnJZSy1WS0dmQml0ekx5YkdoeE5aems3ZUhXVUdQUFJCYUtyRjZRWV9IY3l1SXEwZXd2UDNwVmRqbWhhOVpseTg0cDBXTERITkZBUUNPSkF0dUkyS2o4VGxmd2lzNVpjeUlmd3l6TWZMNFNveWV3NDdRVmg3QWc4ZVN3bGNXdWxrSzVjX21rbVVOTkVKUy1TQjE0TWdyaw?oc=5"
-      },
-      {
-        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-10 22:13:21",
     "weather": {
       "Warsaw": "Warsaw: -6°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Uwaga! We Wrocławiu zimno, a od wtorku marznące opady. Będą też zamiecie śnieżne - wroclaw.pl",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnFEWTZzd2w1ZE5jVnYwNWs4NmpQcFlpc09kTzhCMXdrelExWHFDUUxPMVROdWFSSXZBNGpoaFNUbklGYk1HcHl1S3JtUkg1bzkwc19fYmFaQjFMcXdSU0xmMzR6NDBxZl8weGVqYzZNN25LWm9lRFlWcDVZeEtoc2RxemRwc3BtM0JoZQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-13 05:35:01",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.6037,
+      "EUR": 4.2097,
+      "GBP": 4.8482,
+      "CHF": 4.5212,
+      "JPY": 0.022822,
+      "AUD": 2.4167,
+      "CAD": 2.5963,
+      "CNY": 0.5168
+    },
+    "crypto": {
+      "BITCOIN": 329607,
+      "DOGECOIN": 0.495835,
+      "ETHEREUM": 11227.64,
+      "LITECOIN": 275.32,
+      "RIPPLE": 7.4
+    },
+    "indices": {
+      "^WIG20": 3292.06,
+      "^WIG30": 4236.26,
+      "^WIG": 3292.06
+    },
+    "news": [
+      {
+        "title": "Hołownia wysłał im SMS przed II turą wyborów. Petru zdradza treść - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXFpUDU3SkRTQ0hWemhfQ2prSFJMSVRFb3hySWR5QlVMUFZwOWRWX1BFU1RoRHV4eXRmaldCaEJUbEhwNmpBWVFDVlQzVVVLdDB3b2Y1TXZ5RzNETTAwbVVCVzh1SWdOUWxiNjJMM2loREVaOUt1bEFKQVVtTGY3XzA5WHlZdFBLOEFwRXRmeHpGLTRraHFDQ1A4YXlUZGtMOGxXRE5MdDBnV0k?oc=5"
+      },
+      {
+        "title": "Budżet w rękach prezydenta. Nieoczekiwany scenariusz na stole? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1Yc3JSd2VzTHB3aE1JZWlDN0xkTWdGN2RWU2xmS1FUa0FOa05GWGFHWUt5Y3dCT1pnemxyNFJZcUpHTXpXMTc4cW04QTctdFBnSWRfY0VaQTNkSDV5MldMLXpCaEFENVBCOGZzTjNrc21pbkVteXJyZDQ5cDJCOWlfUFE3dTByd2pDXy16Wm9EYUpOb3liLW55N3NCb2x1dWk1SVRONUw4c2FQRFNEV2U3cE4zQQ?oc=5"
+      },
+      {
+        "title": "Nowe 500 plus (a w 2026 r. – 1000 plus) na ogrzewanie nie zostanie wypłacone, pomimo złożenia wniosku. Niespodziewana zmiana przepisów o nowym świadczeniu już z podpisem Prezydenta - INFOR.PL",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVDVCR2ZOZFFmUFVzYTBBQktNcG1HWFRpT24yZUR3bkRjbll2LWpURGUxTVU2VFpkQ192LXRsd1dqYmNFYlNPUURpUmg0a0hmREtYaTRRVVYwWFhSVWdiSU9OS1VhOVRhQTEzQnMyMDJKUXkzODVGVkNMQkZrRnZoQU40OFM1N01mRHl5V1R6M2lpWXZnS1lZREdhelZ0d0J5MEFURkRhbG9qUFVCbTFGQmVQV29hdWZpbDV1Z0pGNUxNdFJQV1pnS05pc2ZSTUVFamtnaURZZGVHZnhCTm5CM3lseXhxazJyWmUtaFhqaU5MZkxHV0RLbm1BR1dzU2dwMjNnMm9HN2NuUUlfSXpSdzVUblZzcFVlVjRMUjA5V3JBQWJ5REJnWS1GLVh1VWNzcWQ0b3p1UHFyeTNOUUV3MWxBNW1OamRIejlwM0I5YkhGTjAxUHfSAdsCQVVfeXFMTlVIMEVWQWdJcThmVXEyXzJBUFh3VnJuRUdIU2E5NEY0VkRQTDFPYWliRDM3LUI5R01jdms1ZHJEVUZCMnE2MUlpTjhDZTZGeG9jVHNSZzVjeXpaQ2FUMHNIMHBaRzcwdXZHTFA3YWhIeEVYalEyRHF2OHRTWUhVWXhiOHdIM0FxNk45U3NLZ21TYlEyNVNuSnVKTUZjbDlhNmRVSUdaS1dZellMQXpDS3M5VGh2NTVZUHp0YlNBRTdDUEd0d2xJUjRTajVDMk1FZThtYXptci1qWE1HblZsczkyZHF0aGJjWUo4MDNUc1NUVlZqN2pRaDdWOTdDbWdUXzduR0hrdkJUazdsV2tkeWo4cXhJVnBpeTI4bTlscWtTdjFVejZFR1RVZVRLQXRhRDRtQXdXa083bXJMYTBpRWxBLWZab0xXZXVMZGRnU3V0OVE0dkloNkFHNlU?oc=5"
+      },
+      {
+        "title": "\"To nie sukces, to cud\". Na te świadczenia zdrowotne czeka się najdłużej - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3d4OGhFWGg5WHJTbXI2ZldEMG5namNscFJqTTQ3LWExTkpmZXgyb2ZnNV9CSFVvMHYwOHZLVGNrRFMwcVhGdlB6Ri1pS3I4WHRkd1g2VHM1c2c5VVJkZlRpR3NqSnJmYWhlYS1pOWFLTnd6SzgtNlotVnl0Z2lGMHFYZUtrdzhyV0V5S1VqaVhGNUROTHpiMGlvZFhLaVI2cDVkTDFXTjJVbEpKYUhMcm1TTTdHdHdTam1hNFU1UU8?oc=5"
+      },
+      {
+        "title": "Atak USA na Wenezuelę. Kuba już odczuwa skutki. Zaczyna brakować benzyny - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEp1LTd5U3hER0lQRGYzRkVnZEFGeHdVVC1CTW1mT00tVG00QVlwYlllbkd1YzN4SnJRam5EOEEwU2Y0dFRtVGRveVVKQkFtVXRNemM2aUQyZEp1QTJLQ0dINU9oUlhPaVE0cW51MFc4RVFUM0xjc2ZYbmpLNlhOSXFtak5Lb2tTVktFb25qbS1GV1RoTGRqTGloYm50OE5ma2dzd0FKRnh1dlNxb3J5N3hoM21wNmIzaTV6Vk1FZXVFOE0?oc=5"
       }
     ]
   }
