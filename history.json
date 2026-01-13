@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11 10:15:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 328512,
-      "DOGECOIN": 0.507093,
-      "ETHEREUM": 11232.27,
-      "LITECOIN": 294.03,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Dziś pogoda będzie niebezpieczna. Przez te regiony przetoczą się śnieżyce - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVl2bkltblVaTnkxR29xeWFsd0x4MjdSMjB5MS0xSHppQTZMZFg5Qk5oYmFBYmdUdGJOX0JqeUxFTWxBRDFWVnA0azRua3R6cjlhUmwtQktuOGtid1ZUdUJtRXJjUFJVQUdSdWZtcE1GZV83ckg0elFEQUtHektJcWJubnRPb1ZNejAtekFPU1VtTUpWMVVFNUZUMVR4Ql9ibHlMVV9VUE5PVjJpYnhZUDJhNmRkZUpMLXlRd1d6bEdiNFc4MXJDclZwZE5qLTZCbXc?oc=5"
-      },
-      {
-        "title": "Noblistka odda swoją nagrodę Trumpowi? Norweski komitet stawia sprawę jasno - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFlSWk1UWnBUaXNLZmR4MXRlZDl6VTlDa2FKOUdHNWx3d3hzZDNwdXIwWnp0S285MVNxVlU1ZG5aMkJyVC1JX1RLcWV4a3dZaVEybGFLNV9xVnVhd1ozRnBkczlwY2d1V21LeFFzWExtLVI1ellub1NaQTd1NnJ3NVg1TEtaaHlpTWVZSi1TblFJQ3p6V2JtcjZkbzJ2d3ltUjJidDJEWXBYb1pWWGlEdWwybmdEV3B1SHlrbDBjb0s?oc=5"
-      },
-      {
-        "title": "Trzy ofiary mrozów w Polsce. Jest pilny apel policji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXZjZWQ4YnNPTjFleDNCQUZ5MlM5UWdxSk9TU2VTd0h0cjJEaEhBa0l3NHNBV0hrcDZ6YnFhN2ViSlV2M2twaktMV2J0a1Y0NFhva0JhNURWMzRxZC1tQXNjRlFjU0hGa3NyUk9ZQW5rSnh2dmNOTjczRllHUUhLTkp3Z3c2Ym9uOEJGUHZZd0tyYkszT0E?oc=5"
-      },
-      {
-        "title": "Ekspert: uderzenie Oriesznikiem pod Lwowem to „nuklearne Halloween” Moskwy - Polska Agencja Prasowa SA",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RzTGpSQmFaZ0F1Xy1VR2hONW43M3BmWGw0QmxCNF9ETGRLbHBFMU9QOVhfMFk3Qm5iSFU4V21CMUhqM1J4SjYyTExlcV85UFlfYmh6TnllUE5zVlNCOHNDUEpXeVlXR3dJMkE0bWdYUW5qdkxCN2tSdF9kTTJHZ2hKYzNsMTg0VGxrWUVzclRNZVRhczNjNjNyRlJJMlMt?oc=5"
-      },
-      {
-        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-11 11:15:11",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Do lekarza nawet za 5 lat. Najnowszy raport punktuje absurdy - WP abcZdrowie",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHF1SE42OGhtVV9zX3Y5Q3BKVXUyRDY3M0RjTTlJbGhRRWRZY25PdDdlTmx6R0pwdVJpaEU0VXFYcXNGOEZPbm9NSjVvT0V3SnlrdzlyTGtNYXlwRzRGUzc0Z2xSYjdjNHNYMWQ3ZDhDMFhIZ1FjUDRKUW5IdWlJdHFrZFFfazMtNGVzNXNBRmJITlAxSm9sTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-13 16:18:54",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6083,
+      "EUR": 4.2116,
+      "GBP": 4.8644,
+      "CHF": 4.5235,
+      "JPY": 0.02271,
+      "AUD": 2.4197,
+      "CAD": 2.6006,
+      "CNY": 0.5173
+    },
+    "crypto": {
+      "BITCOIN": 333564,
+      "DOGECOIN": 0.506171,
+      "ETHEREUM": 11339.8,
+      "LITECOIN": 276.37,
+      "RIPPLE": 7.49
+    },
+    "indices": {
+      "^WIG20": 3263.4,
+      "^WIG30": 4203.42,
+      "^WIG": 3263.4
+    },
+    "news": [
+      {
+        "title": "Rosjanie trafili w polski konsulat w Ukrainie. Komunikat MSZ - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnJoUnBiYkxocjR5dURRRS1tcU01cXYtYXpHU0ROc19sLXZ1c1BFS1hkNlpyX0VBdXlQUl9YUWJRcVFfUXhBdkhQaEVwd2pMTG80T1plNS1zdHQ5LU0xS01mT2ZjcE10WWl2NmtMN2FDaTBTMjNDc2w3bG5xS2hiMXp3Skt1MFp3elowZkdieGlOTE50ODR2MjFoNGR2ZGRzakJUX0Z0UmVnSFBnVDhveUdReTgwQVVCbHZhTkFiMA?oc=5"
+      },
+      {
+        "title": "Zaskakujący głos z Europy ws. Grenlandii. \"Nie musi za wszelką cenę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWlEUHE5RDc3bUlZeHZEYWhYZWpCMFdSY1VLSVFvbUU5cGxEUkVKYkVraHRhb1VsZ3pkbVJ5NzBxdzFUMDdCcENJaTRMRTZrMHY0MTJZX0J4VVNJNl9YS1hpenpBRllPdHNleWpzRW5ydk9FUGxIbk8xWm1nbVM4aDF0WW51N3B2cWV1aFJCUnpXM3ZWWVZMWVpkTTdFdUl2aUJkVlVsUWFOWm8?oc=5"
+      },
+      {
+        "title": "\"Chamenei: w toku\". Iran między gniewem ulicy a polityczną pustką - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUU01ZGcydExwUTcybXE3dURrcVhJYmNPbjlkTlRkRTJnb1V1aXJvdWJ1REdnZ2huOUx3bllJajV2WTdpU3FUaTU4QjdRLXVOYU9pXzVpR2ZfaTM5R0JlSEotSFYxdkdVZm14bXVfWG5EenFDdnVhdG5pV0l4RUFzZ3VuU1c5akpja2d2RURPdjJjOE1oZnYxT2NnbUx1RjBxeDBOaElrQQ?oc=5"
+      },
+      {
+        "title": "Matka miała ukraść pieniądze na studniówkę. Wiemy, co dzieje się z jej córką - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlBMZllINkpGVmVoUWxFRjVyODRoUDdxSWYwdVVkSUlGb1lyZUthTFpsellhMUJLeDZ3WmI1X016MnVIRXMyZzU3MVg4VS1SM0p0eVpYZmtXa24wd2dsSk9RSXd5RnN3VldKY2pLa2pLemFaNFZ2TERmTWRiSHZqX1EwMkhaOGZOV1c3UXFXVWV2V0tXTUpSMnhndnFJVWczeGRkX0cyeUNQS0pHTm9yUzdKeEJnVFNyb0E?oc=5"
+      },
+      {
+        "title": "Tankowce na celowniku. Cztery jednostki zaatakowane na Morzu Czarnym - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFlsZGpkYUwwWks4ZzN2NmRkYlhVcE5nMy1zLTlXNmpLV1BVMV8yWHVKNnFzc0xidk81V1AzbVN4QVJ1Vkp6M3JMeV93aVpRVkVMMmVJdGhMeHVma1RDQjlvdEVIVEJQX3JEVzZCOTNyN1FXSk9mVTJTSWM4QklnYUtGYkRmaWRPaE1zUUxueDRJYmxVRHdZa2NXTFd6QlVTZEVDOW1KNlVNRVlmVDhaR2NUZkJsZnZfSXloRHlTTQ?oc=5"
       }
     ]
   }
