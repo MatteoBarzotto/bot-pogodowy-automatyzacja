@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-12 11:19:43",
-    "weather": {
-      "Warsaw": "Warsaw: -8°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 326322,
-      "DOGECOIN": 0.492392,
-      "ETHEREUM": 11208.76,
-      "LITECOIN": 280.91,
-      "RIPPLE": 7.36
-    },
-    "indices": {
-      "^WIG20": 3271.86,
-      "^WIG30": 4213.25,
-      "^WIG": 3271.86
-    },
-    "news": [
-      {
-        "title": "Stanisław Poczobut: Trochę się z synem okłamujemy. Ale robimy to z miłości - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDlPNDVmQ1Q5ZDNyU3I5ejZPYnBXY0lXZnRxX1YyS3hjMmZHbjZubzBidTZURVRsQWJWaWxzZmRyRHJWZkdlYlM1eUVXemFKZ01IRG1aUkNkSFFFcGdiZ1ZlWFhScldweVhJQXIyZ01YeURqWnRaNzZ0Wm1WNVZ2Q2JISVZONGNubldsQ1hqVHhGZHZwLWticl9Rc2xTTWQzTnFDMjlfTVpoV1p4TlFIVmtPbzI3UQ?oc=5"
-      },
-      {
-        "title": "W 2026 r. miasta zwiększą inwestycje. Lider jest na ścianie wschodniej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWcwR1BXSkg4dGtwdGJzdlc0anc5aEVjTFdrZWFiU1BrWE1oMUlLYWFHckw4aVJPU2dUZjVzODBxMkhCTDVpa3lPSXJQMWJzLUdnT2RNbk1yZ2w4M21aVTlmb043SFJMTFM4bEdEZGVQZXp3Ty15YTdvTGE3N0xMc3NwZEtRRzFHUHVEQUc5b1dMdE96WGUyMXVqRHNmSEwxOG13UTZtQkFfQ3NaUnNZLU9CTWJzWE45eDRR?oc=5"
-      },
-      {
-        "title": "Atak USA na Wenezuelę. Kuba już odczuwa skutki. Zaczyna brakować benzyny - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEp1LTd5U3hER0lQRGYzRkVnZEFGeHdVVC1CTW1mT00tVG00QVlwYlllbkd1YzN4SnJRam5EOEEwU2Y0dFRtVGRveVVKQkFtVXRNemM2aUQyZEp1QTJLQ0dINU9oUlhPaVE0cW51MFc4RVFUM0xjc2ZYbmpLNlhOSXFtak5Lb2tTVktFb25qbS1GV1RoTGRqTGloYm50OE5ma2dzd0FKRnh1dlNxb3J5N3hoM21wNmIzaTV6Vk1FZXVFOE0?oc=5"
-      },
-      {
-        "title": "W Polsce 2050 dogrywka: Pełczyńska-Nałęcz kontra Hennig-Kloska - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckgybGdnXzFzX2t0OEVvZnpMWWpCMlY1anBqMUFfa2ZBYTlILUI5a1dKYTA2QW1BWU1NSEV4OEFzNzF3dWRXbV9SQTc0VzBCQWIwQVlFVVdrR2M3ZmZWa3JlMVFfbzNXeUVUOW5tYmtJSVZjU2RHOTJkZHRrcTZaWnJqQXhEU2hXOU4zLVJwa3hfX2ZJcnFRWVBmeG01bkw1OXlhZ21B?oc=5"
-      },
-      {
-        "title": "Nowe 500 plus (a w 2026 r. – 1000 plus) na ogrzewanie nie zostanie wypłacone, pomimo złożenia wniosku. Niespodziewana zmiana przepisów o nowym świadczeniu już z podpisem Prezydenta - INFOR.PL",
-        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVDVCR2ZOZFFmUFVzYTBBQktNcG1HWFRpT24yZUR3bkRjbll2LWpURGUxTVU2VFpkQ192LXRsd1dqYmNFYlNPUURpUmg0a0hmREtYaTRRVVYwWFhSVWdiSU9OS1VhOVRhQTEzQnMyMDJKUXkzODVGVkNMQkZrRnZoQU40OFM1N01mRHl5V1R6M2lpWXZnS1lZREdhelZ0d0J5MEFURkRhbG9qUFVCbTFGQmVQV29hdWZpbDV1Z0pGNUxNdFJQV1pnS05pc2ZSTUVFamtnaURZZGVHZnhCTm5CM3lseXhxazJyWmUtaFhqaU5MZkxHV0RLbm1BR1dzU2dwMjNnMm9HN2NuUUlfSXpSdzVUblZzcFVlVjRMUjA5V3JBQWJ5REJnWS1GLVh1VWNzcWQ0b3p1UHFyeTNOUUV3MWxBNW1OamRIejlwM0I5YkhGTjAxUHfSAdsCQVVfeXFMTlVIMEVWQWdJcThmVXEyXzJBUFh3VnJuRUdIU2E5NEY0VkRQTDFPYWliRDM3LUI5R01jdms1ZHJEVUZCMnE2MUlpTjhDZTZGeG9jVHNSZzVjeXpaQ2FUMHNIMHBaRzcwdXZHTFA3YWhIeEVYalEyRHF2OHRTWUhVWXhiOHdIM0FxNk45U3NLZ21TYlEyNVNuSnVKTUZjbDlhNmRVSUdaS1dZellMQXpDS3M5VGh2NTVZUHp0YlNBRTdDUEd0d2xJUjRTajVDMk1FZThtYXptci1qWE1HblZsczkyZHF0aGJjWUo4MDNUc1NUVlZqN2pRaDdWOTdDbWdUXzduR0hrdkJUazdsV2tkeWo4cXhJVnBpeTI4bTlscWtTdjFVejZFR1RVZVRLQXRhRDRtQXdXa083bXJMYTBpRWxBLWZab0xXZXVMZGRnU3V0OVE0dkloNkFHNlU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-12 12:15:07",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Siniała i traciła siły. Komendant na rękach wyniósł ją przed kościół. Dramat w czasie mszy - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFk5azQ2c19JeWNzSkdFSldkZXJTbkxUQzBnaFZFYlVrRlRET293UDFkeG9LSENqQVlVc282aHJicDg2VkJDWDF5MXFTUDhfMFVpSkU1bEJiR3NNRUc0WXVYQktmTFowNTk5TENoMmNWS1JNd2FMMExnSFpnNzM5V3oxTG9mdVJxdXFzQVkxWng3V0tvYkFRa1ZaNW5mdFJrOFB1ejEzbTg1N0hobktqalVTUGtrdDBnME9yNmo5V0xWcmY1ekp0YTdn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-14 17:22:24",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.614,
+      "EUR": 4.211,
+      "GBP": 4.8631,
+      "CHF": 4.5059,
+      "JPY": 0.022764,
+      "AUD": 2.4198,
+      "CAD": 2.6016,
+      "CNY": 0.5183
+    },
+    "crypto": {
+      "BITCOIN": 351486,
+      "DOGECOIN": 0.543112,
+      "ETHEREUM": 12177.77,
+      "LITECOIN": 289.09,
+      "RIPPLE": 7.84
+    },
+    "indices": {
+      "^WIG20": 3268.94,
+      "^WIG30": 4212.6,
+      "^WIG": 3268.94
+    },
+    "news": [
+      {
+        "title": "Kołodziejczak ocenia protesty. \"Skompromitowały polskich rolników\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNsUGw5T1VrRVJ0WDJUYWJlZi1kTTVRVkhyZmJsVkhYSVdtZ0lOUEpNUEZDT2FKcnNaOXd4U1JseGs0ZHJ5Q2szNFhBdEhKR25vR2REcDF2WmowTkZweVBlVmVJd3dTUmdRYURCVzRBcFhWZkE3TWFNOTR5Z3NIMkRFUGM1aVBKZkRwSEJFSXoxTzRITnU0dnlzT2RncnhXLTVOQTl6Sk5ZbE8yYkotaTdYeVZJSm1nRmc?oc=5"
+      },
+      {
+        "title": "Przyszłość krakowskie strefy w rękach sądu. Jest decyzja sądu - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NqenNxMjFVZXkzN0FKY1l4QnRZNTRsUXp2eFhmaVl3VTJXLWdndEJoT2JDU3dCQ1gwSmliRno5elVEbE1id3lDY2tzR1JjNTlSWVduQU9iWmN3c3ZaTWpNaktpNUlqT0NGQjZwdlNoV2tUTGNSZVpRdUtPLWM4NXMzeldMcEFHMjkyQTVvYUhSWHZKbGxFVmdPZUdxU2ZLZVBHNlhMZ0Y2MmVkU2Fn?oc=5"
+      },
+      {
+        "title": "Podziękowania od Głównego Inspektora - Gov.pl",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVZm55TE4yb0dSZTFjd2pZTFVEYy1SZmV3WmJ3dHRRdmhEcFdjSE50S3B3LVJnU20tNkJOMjExX01pS190NnYwWDc4VDY1d0JySGFTWlJJVHhKYm82MXZuWEJtOWhXdjFDWEFhSkZOUmtHdw?oc=5"
+      },
+      {
+        "title": "Polska podzielona pogodowo. Na styku opady i gołoledź - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLVNaWGNvOGxyV1BrNVozUmVDQjZsUjhHcXowenlyRE5BZmQxLW1jUU11MGVoekZEOVd6cFl4cGc0RDJnai1yVDRSU0YtTXpuZzc2NlRfZjZFb2UyMjdUZk5ORGdnRVJnZVl6eUVnY3Q1aVFrSEsyTVQ0TTc5RzVJM29UbjdLQ1psMmVMYXVtUnY5clpBSVVrZko5Yw?oc=5"
+      },
+      {
+        "title": "Sroga zima nie chce dać za wygraną. Na horyzoncie widać już odwilż [POGODA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWNJYmRNYjhJYk1yTVpGTlpHMUMxTHdFS2lpNFBMVWo5M2lva1dNVEdDLV9MYy1BZU9POWZlN1FWU0Z5WG5NOVl6ZFpaWmU2SjVzOGR5QUlTYzFXdTEyRjNkS05QOTI3VklyWVhNOFB0LVVleHhrZG5YaGVRelZzSkRMYV96ZVVKckNDSlJFQVFnVXI3Z1ZaSndjYTh0cEdhXzE5NjVMSWxxaUZvYTJqdkd1NjE0NmZrYm9Fa3R6ejIzVUxXbGtR?oc=5"
       }
     ]
   }
