@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-12 13:34:44",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.6037,
-      "EUR": 4.2097,
-      "GBP": 4.8482,
-      "CHF": 4.5212,
-      "JPY": 0.022822,
-      "AUD": 2.4167,
-      "CAD": 2.5963,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 326576,
-      "DOGECOIN": 0.491381,
-      "ETHEREUM": 11220.09,
-      "LITECOIN": 277.98,
-      "RIPPLE": 7.38
-    },
-    "indices": {
-      "^WIG20": 3273.98,
-      "^WIG30": 4215.92,
-      "^WIG": 3273.98
-    },
-    "news": [
-      {
-        "title": "Silne mrozy uderzą dziś w Polskę. W nocy temperatura spadnie nawet do -23 st. C - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVFCcm9zSGJ2U0NId2w3VjZ0WHktRVlBZ2Y5Ni0wa0JBVmFzY1EyT3gwa2tfTGxiYXhBNUJ6WlU3eHpMME1KSVRVSkxITDQzMWlHeEJhNUYtdkJ6TU9JQloxSzh2Y3EzQXMxdGxCMi1xczYtallJemFDbWR5SzBBeXVhb1NOT2RpU25BQmluZ1hjanY0eUdhcDE5VmoxYTJ2UFNtUmNQZHppYTRxSko0Z0t5M3hKZUp2Qk9iWGNEcHpxLUpZSFd2czFRZXlILVJJSFZpTQ?oc=5"
-      },
-      {
-        "title": "W Polsce 2050 dogrywka: Pełczyńska-Nałęcz kontra Hennig-Kloska - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckgybGdnXzFzX2t0OEVvZnpMWWpCMlY1anBqMUFfa2ZBYTlILUI5a1dKYTA2QW1BWU1NSEV4OEFzNzF3dWRXbV9SQTc0VzBCQWIwQVlFVVdrR2M3ZmZWa3JlMVFfbzNXeUVUOW5tYmtJSVZjU2RHOTJkZHRrcTZaWnJqQXhEU2hXOU4zLVJwa3hfX2ZJcnFRWVBmeG01bkw1OXlhZ21B?oc=5"
-      },
-      {
-        "title": "Chcesz w 2026 r. fakturować po staremu? Licz się z konsekwencjami - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjZ4aUMzRGZ2VGtJQzJmUUJ5V0RLN1pCZU9QS012THJOVjQ0cU05OFlENWczdFQ2YXhUZktFXzJVZkFIcm9NUzhsNjBDeS1RTnZXQmMxU0NNV1V2QTZFZTJzUFZaQjJmT3I2aFhYa1RydWQzYllQcmcxYUdBd0p1WVRjdWFfcEFJaVNYMWFJUzgxZUlZRzVfalVVTEhJUlpqWGx1ZmV4ZWZKSFFSeEt2NTE1c1h2Xy0xeWhxdFk5aFN4Q3JicnJN?oc=5"
-      },
-      {
-        "title": "Nowe 500 plus (a w 2026 r. – 1000 plus) na ogrzewanie nie zostanie wypłacone, pomimo złożenia wniosku. Niespodziewana zmiana przepisów o nowym świadczeniu już z podpisem Prezydenta - INFOR.PL",
-        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVDVCR2ZOZFFmUFVzYTBBQktNcG1HWFRpT24yZUR3bkRjbll2LWpURGUxTVU2VFpkQ192LXRsd1dqYmNFYlNPUURpUmg0a0hmREtYaTRRVVYwWFhSVWdiSU9OS1VhOVRhQTEzQnMyMDJKUXkzODVGVkNMQkZrRnZoQU40OFM1N01mRHl5V1R6M2lpWXZnS1lZREdhelZ0d0J5MEFURkRhbG9qUFVCbTFGQmVQV29hdWZpbDV1Z0pGNUxNdFJQV1pnS05pc2ZSTUVFamtnaURZZGVHZnhCTm5CM3lseXhxazJyWmUtaFhqaU5MZkxHV0RLbm1BR1dzU2dwMjNnMm9HN2NuUUlfSXpSdzVUblZzcFVlVjRMUjA5V3JBQWJ5REJnWS1GLVh1VWNzcWQ0b3p1UHFyeTNOUUV3MWxBNW1OamRIejlwM0I5YkhGTjAxUHfSAdsCQVVfeXFMTlVIMEVWQWdJcThmVXEyXzJBUFh3VnJuRUdIU2E5NEY0VkRQTDFPYWliRDM3LUI5R01jdms1ZHJEVUZCMnE2MUlpTjhDZTZGeG9jVHNSZzVjeXpaQ2FUMHNIMHBaRzcwdXZHTFA3YWhIeEVYalEyRHF2OHRTWUhVWXhiOHdIM0FxNk45U3NLZ21TYlEyNVNuSnVKTUZjbDlhNmRVSUdaS1dZellMQXpDS3M5VGh2NTVZUHp0YlNBRTdDUEd0d2xJUjRTajVDMk1FZThtYXptci1qWE1HblZsczkyZHF0aGJjWUo4MDNUc1NUVlZqN2pRaDdWOTdDbWdUXzduR0hrdkJUazdsV2tkeWo4cXhJVnBpeTI4bTlscWtTdjFVejZFR1RVZVRLQXRhRDRtQXdXa083bXJMYTBpRWxBLWZab0xXZXVMZGRnU3V0OVE0dkloNkFHNlU?oc=5"
-      },
-      {
-        "title": "Prezydent podpisał osiem ustaw, trzy zawetował \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlloenQ4MXpMemxpejFmc2l4ZDFIY0dLaEEtNzJYSGFqczNOWU96LTRUWDVjYk9wOVBwb18xNUpVcTJCMHBnczBnbDVPMGxFb1ZXYXU4V2hDWC1qRG9MaXlIN09pVy1ydVp0Ry1kR1R4Yi1pNWhwNGN3Q2dYWXRpWURUVVc1M0duMmNQdFVfeFZra0xDVXF6ek1YZjJqY29DT1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-12 14:37:46",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "To krakowskie technikum jest najlepsze w kraju. Oto najnowszy ranking \"Perspektyw\" - RMF24",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc1Rnb3VXWldqVFFybC14OTJQUHRvUDd1REpZUmZiZTZ1OEc1QUNlVGVHbVJBN1RweTBTYXVSRzdCUnlWX1FwUFgwV3ZNY3Z6SGZOcl9nMWFoWGlGbU85VHdkeVFNZG9aNUtvYUdYeE9fNWVfaE43V29SMDd5QlZhZ3Q0SUd2R0xaNXg4NmZOQzAtNUNLcjhPRy1LMktzSEJmcWc4aEo5bDNOaHJsWkh3THF5cw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-14 19:25:07",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.614,
+      "EUR": 4.211,
+      "GBP": 4.8631,
+      "CHF": 4.5059,
+      "JPY": 0.022764,
+      "AUD": 2.4198,
+      "CAD": 2.6016,
+      "CNY": 0.5183
+    },
+    "crypto": {
+      "BITCOIN": 350605,
+      "DOGECOIN": 0.535729,
+      "ETHEREUM": 12090.23,
+      "LITECOIN": 283.19,
+      "RIPPLE": 7.75
+    },
+    "indices": {
+      "^WIG20": 3268.94,
+      "^WIG30": 4212.6,
+      "^WIG": 3268.94
+    },
+    "news": [
+      {
+        "title": "Decyzja premiera Tuska. \"Król fotoradarów\" odwołany - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3Q3dWxxNDdNbmRSbl9jbkFLcXZEcnNMWk5idjlfUGJpM1ZXSXRoZlk4Q1A0Z3V3c2RwVENyN0ZyVF9STi0ydThyUGt6WXpQMlMtMUk5Q195N25Hc3NJS1hYWWhzUU1PaDJzQUdsalpZVXdzd0pyNVU2YXBZN0V5X1RmVUdxdmZNUUJfdG9WZzJDdDhYWlVvQmhOTTluOXBveWlMLVpfa3J0U1VxZ0xVTw?oc=5"
+      },
+      {
+        "title": "Przyszłość krakowskie strefy w rękach sądu. Jest decyzja sądu - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NqenNxMjFVZXkzN0FKY1l4QnRZNTRsUXp2eFhmaVl3VTJXLWdndEJoT2JDU3dCQ1gwSmliRno5elVEbE1id3lDY2tzR1JjNTlSWVduQU9iWmN3c3ZaTWpNaktpNUlqT0NGQjZwdlNoV2tUTGNSZVpRdUtPLWM4NXMzeldMcEFHMjkyQTVvYUhSWHZKbGxFVmdPZUdxU2ZLZVBHNlhMZ0Y2MmVkU2Fn?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki przywitał gangstera na Jasnej Górze. Znamy kryminalną przeszłość \"Dragona\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlFrQ2dxTXk1YXVNWnZtRlBMMUxsV21qand6R3RGSWhjTlpMNWFpbVB0aEVUS2dxSjFIT2V3STF4M0t2aVVOdHRXbEY2VHk4Y2FUSzN0SmR0aHR5WThtUmpwZ1Q3c1BqS0xkQTl5OXFJQ1dObmtrMDByYm1iMkt3TTFZd0toYk9vcHFVVWp2U25CVFZuRUdQYVFiaHZlMmhTY2xESURzYXdERDlVTWw0?oc=5"
+      },
+      {
+        "title": "Ten nowy system jest w centrum uwagi przedsiębiorców. Andrzej Domański ucina spekulacje - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXBOX0J4bEdvV245QU5nXzlKbXNaYUpHdk1sVTBqbDYybk1GMFp4RHNiendCbTNUeFZxSk84ckMzOVY3bVBPenVILU05eGw3Z0FpNy1xY0tNc2gzTV9xaTRHOUlTME10bHhfb0FDOWNOQ2FxMWNqcmZTNnVwRDhTM2dPU1EzQWRxOHlVdkUxUnE4eGVSSWRlQkxvd1cyc2FqREowY0FfUQ?oc=5"
+      },
+      {
+        "title": "Atak na seniorkę we Wrocławiu. Policjanci zatrzymali 15-latkę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXBXWWJsdl9tSTB5WGhlVFhUejZyZkdzTkxpaFhzbWwwOURjVFRQR1BSVEc1X2tSMzZrNVFhLWNrWVZpdGp0SV9wN243blc5S1hOU25WdFVaZ3MyMW1pY19iRmEzdDRCTDI4SzdjZGp1SmFlZkRoLVVEUEtjNUxFRFlFc2VhTDFWTHYtMTFid3JEQUgyVU11c3RKaVB6a0g5T3RiWTgyeWh4MTFHUVBDMmxid016c2kxTzU2dHp2QkVyZjJKNnFFa0lvZk1HT0M5OHc?oc=5"
       }
     ]
   }
