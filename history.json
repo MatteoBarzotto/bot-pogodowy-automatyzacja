@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11 21:16:49",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 327115,
-      "DOGECOIN": 0.493422,
-      "ETHEREUM": 11235.39,
-      "LITECOIN": 289.17,
-      "RIPPLE": 7.45
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Tragiczny finał poszukiwań zaginionej Emilii. Policja znalazła ciało - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlhFRDNOOEI3bVd5OWtZRnF0NXJzOUFJekhQY1ZpNy04eV9vTkhWdkF3TDlYQXRNNzZNb05VdUlRWHFSaWQzSEtQc0M5cHRhcExwWnhWNmpYbmNqRUZkMWxsb3B6TEp4dTNaazlPTmtnYmpydEZDamkwR2F2aHJYMUFPaC0yVlhBM20zMlprTGVyc1JiNF9HTldESkZVd2Ztci1NZ0QyVHg4amNuS2ZPN0ZnMllSZWFWNUhaeG1mMDBJbnY0?oc=5"
-      },
-      {
-        "title": "Prezydent Nawrocki i serdeczne powitanie z szefem gangu kiboli - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTRrYjZnaGw2RVdOd245cEtOX2YyclJtbU9ZM1dMTVR3T2xWd2tzRWY0bFR0MjE0R1F5UTdlOWRpWG1Ic0l3ZXc3YjJyeFVzMjAtS0N6UW9KNGRaRkJmNW55alFoR2Utbi0zalIzRWgwOThGM2JKTWxsd3NMc3o3ZUN2cGdfRjZFUGdUSmJ5c1lFMC1XX3ZYbm82Rk5jRENFa2N2Y3ZQYmg?oc=5"
-      },
-      {
-        "title": "Nowa fala mrozów wtargnie w poniedziałek do Polski. Jeden region będzie szczególnie zimny - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHpMb1hKQXlkTGFqTGdDcEx2WGh0UEVjOHhYQUNvTUxKcUdnV0V3QUxhX00zdjRBMDdvdDNlTk0tbDc0Sm1pMmN4eE4zamRPYmtnVF91eWkwcE9MUmxJUnNrU1J1Z0RYTG5VakktVVBpRmViSU52bGxCUGU4TlBQSTRHYkd5N215Y1hDWmVaRFdqUUgyNHFscnFEUlpiVXZKX0V3ZkhueDBZQ3A5ZnotMw?oc=5"
-      },
-      {
-        "title": "Alert RCB - intensywne opady śniegu (10/11.01) - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jTXJiUzRrSUVROXhtYncwY0RZZm1mbHpXNWVnV3VDZk1IekhlcjZlb1dzWG1iWGt1ckh4QV9jdWpqcFNZSFYtN3RMZ0RwMHlqVlhOMlRQZ0xWNjBfVmNTYVRQakY3ZVpqRU5RVF9SYU85Q1ZSWFVz?oc=5"
-      },
-      {
-        "title": "\"Zanim będzie za późno\". Trump grozi kolejnemu państwu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWU0WkFlRXZYWDBXcmVmc3l4c2U3T3FrVERmQ3BLVDRwTW84WmRlNml1dnZxOEd1Ylk5WTZjTnFObHRaRXdhdzRtYjNUU1FwemtXMDd1Ti1RZHI2eFhpLVpWLWlEbWhPQnJ0S1ZXQ2w2cGdBMEhaUEFmeTQ1Q01QM19OX0NTUFJTbTY3VzNqY2w4VEF3Q2R6b2IwSU1oRjVrMV82TUZpTXBWVXV2Y2JTbDN2MA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-11 22:13:20",
     "weather": {
       "Warsaw": "Warsaw: -3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Przeciwnicy umowy z Mercosurem chcą wsadzić kij w szprychy unijnej machiny. \"Zostaje de facto zamrożona\". Kluczowa rola Polski - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeU0wdHZMMWtoTmZYa19SODQtVWlGVVBITTFYa0Q5X19lMk00TFpQWG5uclpsZy1fRC1zeGw2TlJhUlFrWDJpQmxSZUJQdEZhczRtNUhqc1kyTUtzVGd4TXRWa1NrNnh3bERhT20xSEJ2Vmt5T21IclB5QnRlVkpwaDBNdHBiTWE2YndoYzdNRmRnZ3hacHJhSjc1ZDBVcW1pNUNLZV9jSmR3NnBqX2Y1QWZITlc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-14 05:41:43",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.6083,
+      "EUR": 4.2116,
+      "GBP": 4.8644,
+      "CHF": 4.5235,
+      "JPY": 0.02271,
+      "AUD": 2.4197,
+      "CAD": 2.6006,
+      "CNY": 0.5173
+    },
+    "crypto": {
+      "BITCOIN": 344479,
+      "DOGECOIN": 0.537859,
+      "ETHEREUM": 12082.29,
+      "LITECOIN": 284.44,
+      "RIPPLE": 7.84
+    },
+    "indices": {
+      "^WIG20": 3280.95,
+      "^WIG30": 4228.94,
+      "^WIG": 3280.95
+    },
+    "news": [
+      {
+        "title": "To będzie bardzo niebezpieczny dzień w pogodzie. Gołoledź może sparaliżować Polskę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaC1UbDdCUXRxTXVSU0JfV1hUYlRjQWYteHJva0ZieFlCc1BjeXl1V0JHTGtrUWh6TFAzaEZvQXdZdmVOQ2cyT1hPUlNuNU1rQ19iVlA3NFhqdmpKWWlmN29kdHpocG5tNWtEZHQ3S09RQnFUYy1wZ3JmaE1leUlVakNpWHhnVS1hMU93b0FiWGNScTR1RkEtRUdoWjZPa1B6bVJuUktpblFhM3ZJR1A5UEhQYWowZy00cm4wQlAzck5Cdml5VkFxTXBiV2JoX2stMHJNTFNtNXk1T1U?oc=5"
+      },
+      {
+        "title": "Rosja przejmuje oddziały polskiej firmy. Putin wydał dekret - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkw2TVZCSE9zdUNFVGM0S0dxMlFBYmNyY1hTYmJmVjA2c2hUWXJuRENLdTk2aGRXYkxrQ2I2WXpfWFgydk5oYUd4bTdqMjZONnJiUHVSUm52eHRZX29UUHU0SGpVWlQ2REFMLTlOSkJtLTgtUXpYUVdHOGVQRGJvTE01WWJxbnR4TTdsa2sxd3Z3Sl9OTVoyRGh1OVo5eHZ2aE1DNS1aaGQ1NjJwS0VKeTJQQQ?oc=5"
+      },
+      {
+        "title": "Donald Trump pokazał środkowy palec pracownikowi. Biały Dom reaguje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTk9JOE5qTHM4NG9icF9SWklvOXJ6WHc0VDB4V3BMeGZaZFNGWWZjTTYyOVJXcm1kMnoySjUyb0dOQm00S0Ryd0dacnBBNlUwSVY3N0RsZWtvOF9mcUhzYkoyb2ZLS3h5UmZJUGJHU2ZNWUVHVkdISkFuSG81bmxpMzFzRU4tRE1YXzRHMXJub1pYeVhMR2ZEOVhoSWFOQjlyOGJ0WjNFQkNhVkdlTEtNUWlUQ3dBN1NncmdpSkdQQjZHaVNHWXZfVQ?oc=5"
+      },
+      {
+        "title": "Zacznie się tuż po północy. IMGW ostrzega: nawet minus 18 stopni w części Polski - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzVfNU1BdFRGcEhuRGtGdE1VSnYxay1pVnAtWEJIZHJmSTFOU2Q3MW9nQWVDejBrN01jZjZGQV9aQndETE05TzV2SlhYTXJCa3FyZWVSN2F0NHFSbktfRVh6bWwxTC1nRkloSUF1ODJLSVZfM0ozS1Z6MURvNnZxQ21vZTJncmFPTy1GLW1JNFBIZjNzcVlzWE5kTHIzSkN6NS15NnRQWjk5SVQzSGxWNDZkSDZDQQ?oc=5"
+      },
+      {
+        "title": "Gdańsk pamięta. Taki gest w rocznicę śmierci Pawła Adamowicza - o2",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmRzSDAtdk1PQ1J2VVREVVhVSHAzblFfRkNwamlKUDFGcExfQXhEQ19uOTNLWkRkaGUweHJJMWFSalFjejR1V2djYjNIQW5kS1ZKOUdZMkJmQUR2cERGUUlsSmpFNzl6ODQtdUtTcjE4ZGFXWUFHclV2U1ZxUWJiVmJVbWxiM0xVV0pSWjNtbHZIZ2pnMTgwYlJPZjBtdzJuZ2pycXNpSG5MM2c?oc=5"
       }
     ]
   }
