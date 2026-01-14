@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-12 08:22:10",
-    "weather": {
-      "Warsaw": "Warsaw: -6°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -4°C"
-    },
-    "rates": {
-      "USD": 3.6184,
-      "EUR": 4.2127,
-      "GBP": 4.8525,
-      "CHF": 4.5222,
-      "JPY": 0.022942,
-      "AUD": 2.4175,
-      "CAD": 2.6081,
-      "CNY": 0.5182
-    },
-    "crypto": {
-      "BITCOIN": 330521,
-      "DOGECOIN": 0.502848,
-      "ETHEREUM": 11359.27,
-      "LITECOIN": 286.03,
-      "RIPPLE": 7.45
-    },
-    "indices": {
-      "^WIG20": 3275.88,
-      "^WIG30": 4224.17,
-      "^WIG": 3275.88
-    },
-    "news": [
-      {
-        "title": "Potężny atak zimy. Wojska Obrony Terytorialnej postawione w stan gotowości - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnkySnVneS0zdDREUXM5dGI5UERvMlB4UHdxMjAwSTJiQ1NSUzlXaXNvb1lJeFRmamE3MHdLaXpzT0R6REZ3QzJLZTRXYzM0Umtwb200WlJHOVJXN1FHRjAzczM3dFJvbC1VTk8ySHhPdnZFNXo5NzNLbGNLV3NvcmRBY3lfT0JOSklpbzZiSUdyc1V3SjYxeXJMbXZKZGozUjRpbXh6V1BKejN6NTVqY0ZpVQ?oc=5"
-      },
-      {
-        "title": "Walczy o spuściznę po Hołowni. Oto jej majątek - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUFzVlZqcHlqeWJBX2dncnlFRWd3NFZXMHd4aElLbG1FTF9WYUIzMEJnV0xqT0tOMzBsSklWNWQ2MlJSeWJYLXROWmZ3a0oxTDJBMjJlQVBsRVRCVlZzY2lKTXI3NlRUUE5wbnRramZEYmpiVU83WV9nd19sTTJ1dnBqTWZNMXp2V0pmVE1Eak05WVJJUVpDQUZSMGpvR2VZdHRlZ01mcTg1MjdDRlE?oc=5"
-      },
-      {
-        "title": "Prezydent podpisał osiem ustaw, trzy zawetował \\ Aktualności \\ Wydarzenia - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlloenQ4MXpMemxpejFmc2l4ZDFIY0dLaEEtNzJYSGFqczNOWU96LTRUWDVjYk9wOVBwb18xNUpVcTJCMHBnczBnbDVPMGxFb1ZXYXU4V2hDWC1qRG9MaXlIN09pVy1ydVp0Ry1kR1R4Yi1pNWhwNGN3Q2dYWXRpWURUVVc1M0duMmNQdFVfeFZra0xDVXF6ek1YZjJqY29DT1E?oc=5"
-      },
-      {
-        "title": "dwie osoby nie żyją - niskie temperatury zbierają żniwo. Reagujmy! - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHlIWF9OSGtncG14ckpsb0Naa3hCNEE2Y1Y4RzVXSEdRTUVNN0NDOUhjbXZneVVqb1hEX1RvRjk4MG9QTmtKN3AycHVzNHFhazRNOE1QWmVLQm02MWhyZkRkVFBqQy0xSjJVZWNCRnZ5VHBveTdEM1A0Mnk0cEZtZ1JPWDJnYS12RGtmaUNFZ2tPUGtudF9OdEFibVNiZG5COGxoaWo5VGlpUQ?oc=5"
-      },
-      {
-        "title": "Budżet w rękach prezydenta. Nieoczekiwany scenariusz na stole? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1Yc3JSd2VzTHB3aE1JZWlDN0xkTWdGN2RWU2xmS1FUa0FOa05GWGFHWUt5Y3dCT1pnemxyNFJZcUpHTXpXMTc4cW04QTctdFBnSWRfY0VaQTNkSDV5MldMLXpCaEFENVBCOGZzTjNrc21pbkVteXJyZDQ5cDJCOWlfUFE3dTByd2pDXy16Wm9EYUpOb3liLW55N3NCb2x1dWk1SVRONUw4c2FQRFNEV2U3cE4zQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-12 09:23:47",
     "weather": {
       "Warsaw": "Warsaw: -6°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Emilia z Włodawy nie żyje. \"Chyba przytłoczyły ją kłopoty\" - o2",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnI3UHlGUnpWYTRsVWxrTjhPYzdBQjR4c2lCWEtaRnNDeHQ0SWJzZVNlb3JiUmVuOVpURWRUQzFsNVU0X0ZZOVNPcXBkSm81RHEyVFBzNlVmTk5SX2xLLTdRaEJPSHM0MGJ2Z0l4eEZJUDBlZV9yOW1sZVRuOUpZUFotSVZxSGthYWZ0TXdVZGxWbXUtYndmQzhyQ1BjWlMyZmRhbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-14 14:36:30",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.614,
+      "EUR": 4.211,
+      "GBP": 4.8631,
+      "CHF": 4.5059,
+      "JPY": 0.022764,
+      "AUD": 2.4198,
+      "CAD": 2.6016,
+      "CNY": 0.5183
+    },
+    "crypto": {
+      "BITCOIN": 343967,
+      "DOGECOIN": 0.530043,
+      "ETHEREUM": 11939.82,
+      "LITECOIN": 285.41,
+      "RIPPLE": 7.69
+    },
+    "indices": {
+      "^WIG20": 3246.4,
+      "^WIG30": 4181.97,
+      "^WIG": 3246.06
+    },
+    "news": [
+      {
+        "title": "\"Ogranicz podróże\". Niemal cała Polska świeci na czerwono - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY21KUTVmZEYyaEZwVV9FcThLVFNMQTdtWUJ4cWVYbDdaZlIwa2ZaeUhtM25BQVFYM05UQUw5a0J2Z2ZEVm5WYWNkampMb3FyWWJtcV9BM2FvSXVxaHg3THNyLXdrN3B2TUl2VFlZV19GZ1lmcE5DODVKc0w0N3ZoQy1YMjhiMmtvLU1SUDJFM2o1NVUtYWpHWV9YeU5zdw?oc=5"
+      },
+      {
+        "title": "Wybiegł Karolowi Nawrockiemu przed nogi. Prezydent tego się nie spodziewał - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEg5cmlzbHZ2Uk1kaGg4SExWbDhyV0NndkNOV1NROTRPSGtGWERZcm8tLS1wVkRoREtVYVdSR0R0WDZkajBiNW9xQ3VYNTZFeVNYX2hzRW5PQXFKMnh6ZVhWYWV6QW9GOVZ0ZEFUdTh6eWZ0eVdqTi1QcHVBdVdjS25TM09TNjQ4dW1EX1R5Slk2X3A5cDV5WmxPU3hsSnJ5eF9NWS1RV1AxemxRTE1vWkVLR0lUdm1LOXVpLWhBaWZfOEtBXy1peQ?oc=5"
+      },
+      {
+        "title": "Kołodziejczak ocenia protesty. \"Skompromitowały polskich rolników\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNsUGw5T1VrRVJ0WDJUYWJlZi1kTTVRVkhyZmJsVkhYSVdtZ0lOUEpNUEZDT2FKcnNaOXd4U1JseGs0ZHJ5Q2szNFhBdEhKR25vR2REcDF2WmowTkZweVBlVmVJd3dTUmdRYURCVzRBcFhWZkE3TWFNOTR5Z3NIMkRFUGM1aVBKZkRwSEJFSXoxTzRITnU0dnlzT2RncnhXLTVOQTl6Sk5ZbE8yYkotaTdYeVZJSm1nRmc?oc=5"
+      },
+      {
+        "title": "39-letniemu działaczowi grozi dożywocie. Mamy komentarz związku - SportoweFakty",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXlhT1V2Nk02QmF4WGd6bERWbURVd3c4UnBxcTJuR3RRUjR4OVJDc2dKZ2FTTlVDRDgyaW5yUnNhUTR6RG8tMU1tOWFrUkVjVWdiWVdMTlg4d1BKVjlNZWtsU0cyTnNoVEluc3duZEQ2dV9XQWo0dWpTNi0tOXdVSVdSN2UwS3lTV2N5MWl3ZGNUVldRRG1JdWFDNTV6c2tCeFlKdGZzeGs0ZTN6WURz?oc=5"
+      },
+      {
+        "title": "Pijany 15-latek leżał w zaspie. Policja najpierw widziała jedynie światło - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUgtRlktNHZEeTJrZVY5NmE2RjJwX1AwYS01eTBXbkRKUzJRSDdXZlNmQmJpYUotZjhQTGd1V1ZhQWF1SFZzLWFkMUprMGZ6cjFvOWhrc05OclJUMnljUkNra2x1ZGRyb1ctRXhPTlJzQmVmUWZlMmpqQ2pMV2JHNVNHOVBzVVlYY2V1TmZUS3VWOEljMTRORFF3N1MwbDRFRTNtU3NqWG1DWG1yMjl0dHFvQTlWclREamtlLQ?oc=5"
       }
     ]
   }
