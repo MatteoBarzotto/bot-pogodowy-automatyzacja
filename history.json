@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13 15:19:35",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -4°C"
-    },
-    "rates": {
-      "USD": 3.6083,
-      "EUR": 4.2116,
-      "GBP": 4.8644,
-      "CHF": 4.5235,
-      "JPY": 0.02271,
-      "AUD": 2.4197,
-      "CAD": 2.6006,
-      "CNY": 0.5173
-    },
-    "crypto": {
-      "BITCOIN": 332055,
-      "DOGECOIN": 0.504428,
-      "ETHEREUM": 11334.86,
-      "LITECOIN": 276.94,
-      "RIPPLE": 7.47
-    },
-    "indices": {
-      "^WIG20": 3289.55,
-      "^WIG30": 4237.84,
-      "^WIG": 3289.55
-    },
-    "news": [
-      {
-        "title": "Wielka mobilizacja w sprawie Grenlandii? Niemcy mają plan. Na stole zwiększenie obecności wojskowej - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTNOTXdDM2F1YXp2OTVydVZ6NmNyQ0NsUENpSF9TMnk5RURhYlhsNFJwMldCeWlWeUFLbnlKdUp3ZldlVUkzZm8yaUxLV0NqT3BrWVZFUDdOLVRLSjJUQV8zeWVVYzZqZkFnQWhmeFVqQVdadTNVQmh0VGlYdDdTbm5WYkdsanNHSWpnNUg1d3pFa1dpVjRjQVRPVmxiQmJYZVdvTVBIdFVaYXl6U01SU2hyZl9pdWU1VE1wYUFB?oc=5"
-      },
-      {
-        "title": "Budżet w rękach prezydenta. Nieoczekiwany scenariusz na stole? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1Yc3JSd2VzTHB3aE1JZWlDN0xkTWdGN2RWU2xmS1FUa0FOa05GWGFHWUt5Y3dCT1pnemxyNFJZcUpHTXpXMTc4cW04QTctdFBnSWRfY0VaQTNkSDV5MldMLXpCaEFENVBCOGZzTjNrc21pbkVteXJyZDQ5cDJCOWlfUFE3dTByd2pDXy16Wm9EYUpOb3liLW55N3NCb2x1dWk1SVRONUw4c2FQRFNEV2U3cE4zQQ?oc=5"
-      },
-      {
-        "title": "Zbadali słynną broń Rosji. To, co znaleźli w środku zadziwia - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXljYld5OUh0M2x1RkZqcVEtRzBsR1ZSRmtkQUtISUJvaXhRbnRkYlgySWk4VVg0cTcteV9wOVRXQTdWWUtoNGZLd3hRV3d6djlPaFZQdGlsRFh6YzJsX3Jvd2Q1aGhSOHc1aVcwYkRHNFRsNlFLUXNvTzk1VWxKSnV6RGRXTExXNnktOWRnV0g2ZXVLTG0yV3pZWQ?oc=5"
-      },
-      {
-        "title": "Strefomaty, opłaty, wyjątki. Wjazd do Krakowa już nie taki prosty. Pogubisz się, zapłacisz 500 zł kary - Moto.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZllFaTlSd2tzNVd1SUFRQ0dsQy0wXzFqZ3NTYTh6U0tRYUxTaEZyUjh3VDlUZnM4TnRJZkZDeTRrcDE5NjB3WWl5TVBGU3NVOFdoMU5POW8zNGtpQUgzQ0VvYVRQVzdaQTZkTTBwY2x4NU5DMXFxYVdIS1VOYkozYkdQdHZQTmlvNGRxc2VrdVUxUF9XZndiZktsaTlCc0hyYW9rdE5oR29CTHM?oc=5"
-      },
-      {
-        "title": "Do lekarza nawet za 5 lat. Najnowszy raport punktuje absurdy - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHF1SE42OGhtVV9zX3Y5Q3BKVXUyRDY3M0RjTTlJbGhRRWRZY25PdDdlTmx6R0pwdVJpaEU0VXFYcXNGOEZPbm9NSjVvT0V3SnlrdzlyTGtNYXlwRzRGUzc0Z2xSYjdjNHNYMWQ3ZDhDMFhIZ1FjUDRKUW5IdWlJdHFrZFFfazMtNGVzNXNBRmJITlAxSm9sTA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-13 16:18:54",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Afera w Funduszu Sprawiedliwości. Nowa decyzja sądu w sprawie jednej z urzędniczek - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0JQWXJ3UVR3THBKb3JyelJQUE5LelF5WjVLLVlwRkhTQ3luQ3lCTENnSnI4Rl9VS1FBVXBRUUdzbGhkR2drTXg0eF9WN1kyQWQtVW1pRmhORWxsQ0Y5VjRXbXBlX2E4RVdZSDBDRXhobGNnVmZhZnpVY0d3c2JHT1VHR0dtSlU0cDRNZklYMHMtSVVfeDVJOWI0d0VaUnNiZnVuUHQzRGJaMXdmOUNPbXRSNUtHLXMtUTNyXzBR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-15 21:18:29",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.6153,
+      "EUR": 4.2068,
+      "GBP": 4.858,
+      "CHF": 4.5164,
+      "JPY": 0.022824,
+      "AUD": 2.4207,
+      "CAD": 2.6005,
+      "CNY": 0.5188
+    },
+    "crypto": {
+      "BITCOIN": 346536,
+      "DOGECOIN": 0.50793,
+      "ETHEREUM": 11961.01,
+      "LITECOIN": 261.79,
+      "RIPPLE": 7.5
+    },
+    "indices": {
+      "^WIG20": 3306.4,
+      "^WIG30": 4251.76,
+      "^WIG": 3306.4
+    },
+    "news": [
+      {
+        "title": "Posiedzenie aresztowe Zbigniewa Ziobry. Sąd nie był w stanie podjąć decyzji - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMklENXp6a1lkSmI1M1BGNGlWa0tuRGhTRGlTUXRHWVE4aEcwaHMzUC1PUVNLRUVBUENxT0ZzU1RRYkhPOFBXalBBenFUM0tCRlN4RV94eVNnNkJ3WlJMaVlaWnRjV29maVM5aUthVjBzWGtBSk9QQ0NaU0s0R08xNHFKUmhJWjRNbnlWb1ZsRGdqT3FaU1NvZ0hRWE0wUEs4V0g4ZGFJemR2MGhZSjFja0VR?oc=5"
+      },
+      {
+        "title": "Wicemarszałek Sejmu dla WP: Partia Brauna to \"Konfederacja Putina\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRENjVrc1N4TEdPQ3NUSkVKaUQtOUk2RGY4djFsN2hfQ1hyN0lOT1dPYmxsSDFXajFnOXZrdDBJRUptM1NwNUtwTDhRLTFCNFZhdGdmQllsOXZqYWJNeC0xRm4tSG1JQ0hoYnB6MkdxNEpWUUV0dUh2M1lfbU9YalpGUm5FZWxmbnJxMndOOFBndG9HVXRrbDhqcnRSOWVqRUFBaEM4X3RPZw?oc=5"
+      },
+      {
+        "title": "Rosyjski wyż na wiele dni zablokuje opady w Polsce. Prognozy nie zostawiają złudzeń - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzFRZmJCdmVZSlFiaG9SSUZJcmFfM0xCakpyNVppTmVJYXVzdThLNF8zU2tXVnpUVHFCaDNWRlNWc3ZaUVNnRzNJbGg5YWhwdjVUMG0yRXZPcWY2SXY4bld5YUczVllWcEJ5WHJETTNHWGlQWEtYaVVqM3c5eXNZXzVKZGJrN1o1blB2X3d4ZmNlUWRLYWdGbXJVQ3FzSlB2Q2wzY3ZVREFBQ0F1bFMwUHFEeDFCRWxZNnFVcmdySWhLanRrNnpqR21uVjNZeEV5M3c?oc=5"
+      },
+      {
+        "title": "Odpowiedź na groźby Trumpa. Europejskie wojska ruszają do Grenlandii - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZGlyQk1Ea0NXOUpBTEFBT0h0Tk1hZm1MWWswTHdJS0JKcGRzcXJ4M0xYZnJsVHZlcWhlQk11VFUtM1VXRGxFQlBvZ0J5OWZjZXlkeDZoZVBRSzkzYjFJWVVMMjFHWktIekdndllvRHk2b0VnaWdsb1N1bVEwVmRseW5yVjB2Y2FZRnp3NnFVekloR3hkUUtWc0EzTlFUeVBxS0p6Y041MnVZYnNXMWp6YTZSU0g?oc=5"
+      },
+      {
+        "title": "Kijów marznie, ale zaciska zęby. \"Jeszcze przyjdzie czas wystawienia władzy rachunku\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORS1yTVRTOG5VaHhZZl9IV2VwYms1eXF4dFhIamtrTVpSNFc1STRNd0Y3UjRzRVBOUG43YWR4NHJsWDdmVHJrZmJTZWF2dkN5SnR4cjRjSTAxVW5MR0Y0SGM3WVZDXzhjcVh3MFZzWXZoWFZJRjRPNUttTjdacGJFRHFONDhRYTI1cEtJSVlCblU2M0lvaFNUZzdNNXJmbWFOUHc0N3NmdVNMX1E5Vlp2ZnROM0lSUDFDVU1vZHdHZmR4QQ?oc=5"
       }
     ]
   }
