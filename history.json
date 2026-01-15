@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13 02:10:59",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6037,
-      "EUR": 4.2097,
-      "GBP": 4.8482,
-      "CHF": 4.5212,
-      "JPY": 0.022822,
-      "AUD": 2.4167,
-      "CAD": 2.5963,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 330039,
-      "DOGECOIN": 0.494951,
-      "ETHEREUM": 11225.22,
-      "LITECOIN": 274.02,
-      "RIPPLE": 7.44
-    },
-    "indices": {
-      "^WIG20": 3292.06,
-      "^WIG30": 4236.26,
-      "^WIG": 3292.06
-    },
-    "news": [
-      {
-        "title": "Pełczyńska-Nałęcz czy Hennig-Kloska? Brutalna walka o ocalenie partii Hołowni - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHJnVC1KLWdFUDFDT3RZZEUwUXFyd2E5eEg0NC1sUjlBWUY3U1RDZlRnbVdOcVdlMXZnR3FWWkdiUC00MkszeDVmdFJrV1I5OS1oaHpSNXNFUVVvNThIZ1NrODctY3d1a2xyNGV0aXNyVnpkdmZ5OWM4ZXA1N1VQcmxTUURjd3djYXItNjZNTUgzWWs2NS1mSHFB?oc=5"
-      },
-      {
-        "title": "Trump nie wyklucza interwencji w Iranie. \"Bardzo mocne opcje na stole\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTg5OExiZVJ0ZTMwblJocXJlenkwMEZyd0JCeWNmenBjaW1EUVdjd2t5RXZ0ZnRFRVdlb1ZVWXROT3g5YTlUVU53c1pKdlVfQ3RwWVVXRF9PVXdwVVVKd3AwejZKOU8ycnJlQnVjNUJQU0dHX0F0SHJhbDl5LXVBWjk4ZUNnamFFTEk4ekx4V1ZIUlQ1U0lZOVFnYlZzMDA5REd1RUM0RmdSeUJhUUZVb2FyWnRrc3E2d2c?oc=5"
-      },
-      {
-        "title": "Nawrocki nie wiedział, z kim się ściska? Kontrowersje ws. skazanego kibica - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXRUeWQtcXp0c28td3lBVmJRYlh5cExOX3lOajRjWC1BOHhDTHJVb1VuVC1nOElMYWh2dm1DeWQ3MWZXdlhxZTBMVE40czZMempyTEk4NzBlV2VGSUh5WHItZDduMDY5VHVSb2ZIcW51MjNZNXNjYVJnQTdkUS1Ha1dSanROUUNYMXBYSy12dXUwM1docEdaTlcwTUZISl9ZZ1BnMjFXdk95azNaME93U1RqVE0?oc=5"
-      },
-      {
-        "title": "Wielka mobilizacja w sprawie Grenlandii? Niemcy mają plan. Na stole zwiększenie obecności wojskowej - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTNOTXdDM2F1YXp2OTVydVZ6NmNyQ0NsUENpSF9TMnk5RURhYlhsNFJwMldCeWlWeUFLbnlKdUp3ZldlVUkzZm8yaUxLV0NqT3BrWVZFUDdOLVRLSjJUQV8zeWVVYzZqZkFnQWhmeFVqQVdadTNVQmh0VGlYdDdTbm5WYkdsanNHSWpnNUg1d3pFa1dpVjRjQVRPVmxiQmJYZVdvTVBIdFVaYXl6U01SU2hyZl9pdWU1VE1wYUFB?oc=5"
-      },
-      {
-        "title": "Nowe 500 plus (a w 2026 r. – 1000 plus) na ogrzewanie nie zostanie wypłacone, pomimo złożenia wniosku. Niespodziewana zmiana przepisów o nowym świadczeniu już z podpisem Prezydenta - INFOR.PL",
-        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVDVCR2ZOZFFmUFVzYTBBQktNcG1HWFRpT24yZUR3bkRjbll2LWpURGUxTVU2VFpkQ192LXRsd1dqYmNFYlNPUURpUmg0a0hmREtYaTRRVVYwWFhSVWdiSU9OS1VhOVRhQTEzQnMyMDJKUXkzODVGVkNMQkZrRnZoQU40OFM1N01mRHl5V1R6M2lpWXZnS1lZREdhelZ0d0J5MEFURkRhbG9qUFVCbTFGQmVQV29hdWZpbDV1Z0pGNUxNdFJQV1pnS05pc2ZSTUVFamtnaURZZGVHZnhCTm5CM3lseXhxazJyWmUtaFhqaU5MZkxHV0RLbm1BR1dzU2dwMjNnMm9HN2NuUUlfSXpSdzVUblZzcFVlVjRMUjA5V3JBQWJ5REJnWS1GLVh1VWNzcWQ0b3p1UHFyeTNOUUV3MWxBNW1OamRIejlwM0I5YkhGTjAxUHfSAdsCQVVfeXFMTlVIMEVWQWdJcThmVXEyXzJBUFh3VnJuRUdIU2E5NEY0VkRQTDFPYWliRDM3LUI5R01jdms1ZHJEVUZCMnE2MUlpTjhDZTZGeG9jVHNSZzVjeXpaQ2FUMHNIMHBaRzcwdXZHTFA3YWhIeEVYalEyRHF2OHRTWUhVWXhiOHdIM0FxNk45U3NLZ21TYlEyNVNuSnVKTUZjbDlhNmRVSUdaS1dZellMQXpDS3M5VGh2NTVZUHp0YlNBRTdDUEd0d2xJUjRTajVDMk1FZThtYXptci1qWE1HblZsczkyZHF0aGJjWUo4MDNUc1NUVlZqN2pRaDdWOTdDbWdUXzduR0hrdkJUazdsV2tkeWo4cXhJVnBpeTI4bTlscWtTdjFVejZFR1RVZVRLQXRhRDRtQXdXa083bXJMYTBpRWxBLWZab0xXZXVMZGRnU3V0OVE0dkloNkFHNlU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-13 04:23:08",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Strefa czystego transportu w Krakowie. Sąd częściowo unieważnia uchwałę. Co dalej? - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzFlLTJfbV9jem8yMUhfZEdEUXlYd1ZqRHVuMUVyZ2ZRbHN4LTE3UlZYR0Fid0dBbWx6QWQ1MHpZdFgwV3JwaW5OYzI3dDhOQ3FOa2cxQzBxSnNGOTF2UlYzVTVSakhVZEhKNzY5Qk5JU3l0NUNNME9vXzhWU3VCWkgxX2J0dURERlpKaEFMYWJOMzNySzhmVUg3Q3l3UzI4N2ZncV9rQ0Z3aVQtQjN5SGFUc3RiSjFY?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-15 09:23:34",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.614,
+      "EUR": 4.211,
+      "GBP": 4.8631,
+      "CHF": 4.5059,
+      "JPY": 0.022764,
+      "AUD": 2.4198,
+      "CAD": 2.6016,
+      "CNY": 0.5183
+    },
+    "crypto": {
+      "BITCOIN": 349300,
+      "DOGECOIN": 0.52032,
+      "ETHEREUM": 12042.6,
+      "LITECOIN": 271.45,
+      "RIPPLE": 7.6
+    },
+    "indices": {
+      "^WIG20": 3272.82,
+      "^WIG30": 4212.62,
+      "^WIG": 3272.82
+    },
+    "news": [
+      {
+        "title": "Dzień sądu dla Ziobry. Ludzie Tuska kreślą scenariusze, Kaczyński po słowie z Orbanem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUTdzSWRFN1NhQXRuNjFTUVMxN3lLeDdmeDBOYjZaV2g4WXU3T1ZSdXRBeHBrSW85RHJiTnRmYk5nNkFSN1k0cW1NZmRSY203RUlvbnB4SDExUmR6SXdmTVA0NmdjeGR4d0hoWWJiTkF6UnRvVVViSGtKT3hPVU1Hdjd4YVBydmhFazJrOEVhZHY1X1N1SWttSjRGZktVWW5ZMVhYSmVoYzJBT1RkTEo0SDlYWWRXRGUwVlN3QWlIdjVWUERH?oc=5"
+      },
+      {
+        "title": "Gawkowski odpowiedział na wpis Elona Muska. Wspomniał o \"cyfrowych ściekach\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3prRDJiYTVPMG4xd2xFYUxjckRYdEpzQ2xfSlV5d3A2LW1QaFU1aFpXemJZMHhmUWtsd2syUzhEWHh4d2JmRlJkZHJaWnlPdnFhQlJMcXo0SHAtNVEzWEYxb0QwRUN5eGgxLWZNOThubGRFTjZiTnVvMFhHb3RaN01pbWFiUjNKTzFCVTN4bU9QTmc0cGpwVzg3blQtOW40b2dIUFVrc3ZvcVI5cVhtdUJEbmd4YURY?oc=5"
+      },
+      {
+        "title": "Co firmy zaskakuje w KSeF? Eksperci tłumaczą, na co się przygotować - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0hYOEQxOGowQmx4MmM4MTZSczhmWW8xTGk1clVGdE9hN1hqZTFfZnpUc2lZQjRQOGdtRmwxZW55NzFQR2tqQmZnNk9PMk9xLWtMTDRCdUZYYUxyTEVscHg5UTlpVXBqUnppVm9SZVRxMUhBM3VZYlFDQXUtZU5BYW1kR0VvTUNxYXJiRGE3ZktaYWdXbW9NZzVYU1FQcmdydUU2T3FmT1FFRjQ?oc=5"
+      },
+      {
+        "title": "Strefa czystego transportu w Krakowie. Sąd częściowo unieważnia uchwałę. Co dalej? - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzFlLTJfbV9jem8yMUhfZEdEUXlYd1ZqRHVuMUVyZ2ZRbHN4LTE3UlZYR0Fid0dBbWx6QWQ1MHpZdFgwV3JwaW5OYzI3dDhOQ3FOa2cxQzBxSnNGOTF2UlYzVTVSakhVZEhKNzY5Qk5JU3l0NUNNME9vXzhWU3VCWkgxX2J0dURERlpKaEFMYWJOMzNySzhmVUg3Q3l3UzI4N2ZncV9rQ0Z3aVQtQjN5SGFUc3RiSjFY?oc=5"
+      },
+      {
+        "title": "Wrze w partii Szymona Hołowni. W piątek kluczowe decyzje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlY3V3N4UTFINFNXTHVlYi1pdUxjMHpzaXBnVEtpVERiLVFjbEJoRERlV01qWE1rVjBobHBEUWp2UVh3ZEE3RzZMZ2phenJvN2NCMWJna2tVNTkzRFotWVN1aDdkSV9FY2NvRGlfRlFHeVZjUEh0WHRCODQxaUVsVm1DMXdGYnd1MXJURWtCRExoMkRhVmpIclA4UFIzYkFfMXBrUjBGalRWY1U1ZWRDS256QUxGQzJjdWc?oc=5"
       }
     ]
   }
