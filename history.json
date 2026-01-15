@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13 05:35:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6037,
-      "EUR": 4.2097,
-      "GBP": 4.8482,
-      "CHF": 4.5212,
-      "JPY": 0.022822,
-      "AUD": 2.4167,
-      "CAD": 2.5963,
-      "CNY": 0.5168
-    },
-    "crypto": {
-      "BITCOIN": 329607,
-      "DOGECOIN": 0.495835,
-      "ETHEREUM": 11227.64,
-      "LITECOIN": 275.32,
-      "RIPPLE": 7.4
-    },
-    "indices": {
-      "^WIG20": 3292.06,
-      "^WIG30": 4236.26,
-      "^WIG": 3292.06
-    },
-    "news": [
-      {
-        "title": "Hołownia wysłał im SMS przed II turą wyborów. Petru zdradza treść - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXFpUDU3SkRTQ0hWemhfQ2prSFJMSVRFb3hySWR5QlVMUFZwOWRWX1BFU1RoRHV4eXRmaldCaEJUbEhwNmpBWVFDVlQzVVVLdDB3b2Y1TXZ5RzNETTAwbVVCVzh1SWdOUWxiNjJMM2loREVaOUt1bEFKQVVtTGY3XzA5WHlZdFBLOEFwRXRmeHpGLTRraHFDQ1A4YXlUZGtMOGxXRE5MdDBnV0k?oc=5"
-      },
-      {
-        "title": "Budżet w rękach prezydenta. Nieoczekiwany scenariusz na stole? - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1Yc3JSd2VzTHB3aE1JZWlDN0xkTWdGN2RWU2xmS1FUa0FOa05GWGFHWUt5Y3dCT1pnemxyNFJZcUpHTXpXMTc4cW04QTctdFBnSWRfY0VaQTNkSDV5MldMLXpCaEFENVBCOGZzTjNrc21pbkVteXJyZDQ5cDJCOWlfUFE3dTByd2pDXy16Wm9EYUpOb3liLW55N3NCb2x1dWk1SVRONUw4c2FQRFNEV2U3cE4zQQ?oc=5"
-      },
-      {
-        "title": "Nowe 500 plus (a w 2026 r. – 1000 plus) na ogrzewanie nie zostanie wypłacone, pomimo złożenia wniosku. Niespodziewana zmiana przepisów o nowym świadczeniu już z podpisem Prezydenta - INFOR.PL",
-        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVDVCR2ZOZFFmUFVzYTBBQktNcG1HWFRpT24yZUR3bkRjbll2LWpURGUxTVU2VFpkQ192LXRsd1dqYmNFYlNPUURpUmg0a0hmREtYaTRRVVYwWFhSVWdiSU9OS1VhOVRhQTEzQnMyMDJKUXkzODVGVkNMQkZrRnZoQU40OFM1N01mRHl5V1R6M2lpWXZnS1lZREdhelZ0d0J5MEFURkRhbG9qUFVCbTFGQmVQV29hdWZpbDV1Z0pGNUxNdFJQV1pnS05pc2ZSTUVFamtnaURZZGVHZnhCTm5CM3lseXhxazJyWmUtaFhqaU5MZkxHV0RLbm1BR1dzU2dwMjNnMm9HN2NuUUlfSXpSdzVUblZzcFVlVjRMUjA5V3JBQWJ5REJnWS1GLVh1VWNzcWQ0b3p1UHFyeTNOUUV3MWxBNW1OamRIejlwM0I5YkhGTjAxUHfSAdsCQVVfeXFMTlVIMEVWQWdJcThmVXEyXzJBUFh3VnJuRUdIU2E5NEY0VkRQTDFPYWliRDM3LUI5R01jdms1ZHJEVUZCMnE2MUlpTjhDZTZGeG9jVHNSZzVjeXpaQ2FUMHNIMHBaRzcwdXZHTFA3YWhIeEVYalEyRHF2OHRTWUhVWXhiOHdIM0FxNk45U3NLZ21TYlEyNVNuSnVKTUZjbDlhNmRVSUdaS1dZellMQXpDS3M5VGh2NTVZUHp0YlNBRTdDUEd0d2xJUjRTajVDMk1FZThtYXptci1qWE1HblZsczkyZHF0aGJjWUo4MDNUc1NUVlZqN2pRaDdWOTdDbWdUXzduR0hrdkJUazdsV2tkeWo4cXhJVnBpeTI4bTlscWtTdjFVejZFR1RVZVRLQXRhRDRtQXdXa083bXJMYTBpRWxBLWZab0xXZXVMZGRnU3V0OVE0dkloNkFHNlU?oc=5"
-      },
-      {
-        "title": "\"To nie sukces, to cud\". Na te świadczenia zdrowotne czeka się najdłużej - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3d4OGhFWGg5WHJTbXI2ZldEMG5namNscFJqTTQ3LWExTkpmZXgyb2ZnNV9CSFVvMHYwOHZLVGNrRFMwcVhGdlB6Ri1pS3I4WHRkd1g2VHM1c2c5VVJkZlRpR3NqSnJmYWhlYS1pOWFLTnd6SzgtNlotVnl0Z2lGMHFYZUtrdzhyV0V5S1VqaVhGNUROTHpiMGlvZFhLaVI2cDVkTDFXTjJVbEpKYUhMcm1TTTdHdHdTam1hNFU1UU8?oc=5"
-      },
-      {
-        "title": "Atak USA na Wenezuelę. Kuba już odczuwa skutki. Zaczyna brakować benzyny - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEp1LTd5U3hER0lQRGYzRkVnZEFGeHdVVC1CTW1mT00tVG00QVlwYlllbkd1YzN4SnJRam5EOEEwU2Y0dFRtVGRveVVKQkFtVXRNemM2aUQyZEp1QTJLQ0dINU9oUlhPaVE0cW51MFc4RVFUM0xjc2ZYbmpLNlhOSXFtak5Lb2tTVktFb25qbS1GV1RoTGRqTGloYm50OE5ma2dzd0FKRnh1dlNxb3J5N3hoM21wNmIzaTV6Vk1FZXVFOE0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-13 06:20:34",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Kropla zmienia się w lód\". Deszcz \"zamroził\" Lotnisko Chopina - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDRuTVBJME05bGF2OEN3WmVJMW12QWt5cEVqTHgyWVdXODRZT2NfSFFTcVNnSnBNQVd0OGhQbWpiV2FadVVNZXhYaTFOWkVXRFVtOGFaZlNpZXpuY2NaN1p4d3RTVkZIdTJFQ211Smt6RVJZN0lHNlM2TXFDS1FIemtuc1pEd0pfWVRqZ1NLSW5aYlp0bDdvdnVPVHVXa2hrODFONDYtNGxiV2xOeU5zbm9pZEsza0FLaXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-15 11:20:31",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.614,
+      "EUR": 4.211,
+      "GBP": 4.8631,
+      "CHF": 4.5059,
+      "JPY": 0.022764,
+      "AUD": 2.4198,
+      "CAD": 2.6016,
+      "CNY": 0.5183
+    },
+    "crypto": {
+      "BITCOIN": 350029,
+      "DOGECOIN": 0.521515,
+      "ETHEREUM": 12172.48,
+      "LITECOIN": 274.78,
+      "RIPPLE": 7.64
+    },
+    "indices": {
+      "^WIG20": 3289.04,
+      "^WIG30": 4233.26,
+      "^WIG": 3289.04
+    },
+    "news": [
+      {
+        "title": "Donald Trump oskarża Wołodymyra Zełenskiego: jest przeszkodą do pokoju - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGFwYnRFSmpDSThCYWRxU0dMa3NITlN2ZkJubXNFaE9iN2hpQXQwT0syaHhiLXROSlF2X1VDcVZfNVViX0Z0TWxxMFUyVllqaHdKRnZjNDBPcEl3TV9PZVU4b3psdDNseENDUktydVFwc1QxVUt4MFRZZDU5aUtmZF85UFpsU2pQY3VzM2VmQ2tVbGF5STFsMjgzR3lWM0g0VDA5OEhqRnBwNzE5MFhwMHQ2V3ljZlZ2RzdfWWlQQjB4X2luVldWR29RZ3U?oc=5"
+      },
+      {
+        "title": "Nocny wpis ambasadora USA w Polsce. Tak wyraził się o Karolu Nawrockim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUjZ6bWMtRFczSU80SlYxbnN2QnZuWjJDdldRN1ZPLTVBWUkyWmgyU1VzUHZqYW1NdEhtNjdlVHpTYTRVTkZWbnF3eTIzWER0VDY5ZlBwVC1SSzl4SmRtYmkwcFdhQUkwSzVyRGVzdUFvejgtWHF6MUlVeW01MUV0dTJDZXBEb0hJV2JfVG5aNFlOY0JrcjU3NFp4a20taE5NLXhaT2NFNG9qYzZ5S0RURG1vb1J1eEJINC1JTFdZNVhYM1MyYzBabllRV3dVWGpV?oc=5"
+      },
+      {
+        "title": "Naukowiec mówi, co kryje się na Grenlandii. \"Fajerwerki\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTFTblNXZzFEemt0Z19Ta2JadHYyaDRPeGFPY25RcTFXOEhSZndQLWpqZ0tPTHM1NFQ3TkJjd0oxWm80dEtlN1NnSXlSaVF1VklqckRZZmJMTEV4S2xPREFINGJZSVlSdzJyVTZPV0tDQ0JBSkFBaDNDWjcxLUkxVnhnWS1lUnVLOWhZMlV0SWgzSzBKSklhWXZ5UQ?oc=5"
+      },
+      {
+        "title": "Kijów w najgorszej sytuacji od 4 lat. Kliczko przyznaje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkthZEtLMUhNbHA5Qjl0LU5RcjlIeE9RdDdiU2h2MzVhVXhVTXRZcTR2bzJsRUhwUGJyY1NybzRUdkF2NndVNDVYZDMxdlc0SjlWQzRfUTNNX25HRVlEcFN4TWRVRW5abDZPR0xlME9FZXBUSU5QTjRvOFpManJ4YWlhOWxHY1o3WG1nSHByMmZxT1pjRGZvX3JSUXdpdw?oc=5"
+      },
+      {
+        "title": "Utrudnienia w kursowaniu autobusów linii 140, 240, 340, 738, L45 - WTP",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNjVSVlJLMHhmRGlfdTU5NW01WG11QXlCWkNUN3NTdHg5b19hYWhaMnJadm4xbmlEXzVNdDdXRlB3cnRKdFZrQXRTSmxNWHRycVMtTV9TREdCdTNmQjRVSXdwckNsMFJkUUlKWXBnS3NBcUZUT0diQW95Mjg0dXNNb1lUc3Q5STEyTzdEcg?oc=5"
       }
     ]
   }
