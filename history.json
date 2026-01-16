@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13 21:18:06",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6083,
-      "EUR": 4.2116,
-      "GBP": 4.8644,
-      "CHF": 4.5235,
-      "JPY": 0.02271,
-      "AUD": 2.4197,
-      "CAD": 2.6006,
-      "CNY": 0.5173
-    },
-    "crypto": {
-      "BITCOIN": 341082,
-      "DOGECOIN": 0.523072,
-      "ETHEREUM": 11615.56,
-      "LITECOIN": 279.56,
-      "RIPPLE": 7.74
-    },
-    "indices": {
-      "^WIG20": 3280.95,
-      "^WIG30": 4228.94,
-      "^WIG": 3280.95
-    },
-    "news": [
-      {
-        "title": "Prof. Modzelewski: obowiązkowy KSeF podzieli gospodarkę na 2 odrębne sektory. 3 lub 4 dokumenty wystawiane do jednej transakcji? - Infor.pl",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ2NERl9BUWlwanF4WE5nSlZ5SC1JSkxVUDBTRDBHNFd6Y1duNThUOWtPU1hGZlFpbENvT0tadXdXWUdsTlNWckFJeUFwc28taGotNGpQTVQxLUFuV3cyMDlLSkc1aTUzZTdDT3lzZTd2UTNsRjZydEpyVjh0U2FLZmdnRE1CUFhFWkwyRFNYRlBvdDRpUEZBbndwT0tmQmJCRG1wSGdLZVNRUnJaMFlQa3lJX3JHSU1ka3p4cERXQ1p3emhSOXZmajVWa05mSHR6YmRaVEJfSEctQmdRM3JleU9UNVI5WjlmVHRKdmRRTzc2ZFNDaUhqTnhJdzNySTDSAYQCQVVfeXFMTVR1ZG4tX1ZmWS1RamlaSzMtV3hNLU1fM1lkWjRnMTBGeXhhd1NuaFY3Y1ZzcVpmeU8tQjhaT3NxMFBJRXlXRkFWTlhSSll6NENKTnJDNW9ZdmYyYTMzQ21jZlhoQ2lQbVl6MHA2dnQzbkxnTEFZbGd6Wk5rWDV2Z01vR2hJX0R3VGF4NDd4dHdXYmNGVlpUaVhXQS0xRGQ3MWhkOFJiTmJLWTdWeEhidFVhOE9pU2Q5bGJuQ3ZWRXZfTmdZZlpWZGhHQm9lWmw5SmhyQmpPU2RkNWhONzg2XzNadGJBQTY1Nmw3ckhXc1NCNkJEUGtwOUVJNklzbWdjR1l4ZXI?oc=5"
-      },
-      {
-        "title": "Rosja przejmuje oddziały polskiej firmy. Putin wydał dekret - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkw2TVZCSE9zdUNFVGM0S0dxMlFBYmNyY1hTYmJmVjA2c2hUWXJuRENLdTk2aGRXYkxrQ2I2WXpfWFgydk5oYUd4bTdqMjZONnJiUHVSUm52eHRZX29UUHU0SGpVWlQ2REFMLTlOSkJtLTgtUXpYUVdHOGVQRGJvTE01WWJxbnR4TTdsa2sxd3Z3Sl9OTVoyRGh1OVo5eHZ2aE1DNS1aaGQ1NjJwS0VKeTJQQQ?oc=5"
-      },
-      {
-        "title": "Nowa autostrada A4 z dala od Wrocławia. \"Siedem lat starań. Warto było\" - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbTV3WGNmaUdoYm0yNF9veE1xTHR2UkFwNkhUVWpLQjBXQVhoWW01dTl1Qk5Sd3RJNnBUQVpDZF9TZ3hlQUxLWC16UHU0QWY0VnhnR3B4T2tfbHUySWR1MjNxempZM0lPMk5IWmVBZ3E0Zk80TDRleERrdWlzMGwxNW9RVTg2Z19pQk5VbmRJUXd0eGlhTktaVlplS1F6UndLdUJVUg?oc=5"
-      },
-      {
-        "title": "Bombowiec USA przemalowany na cywilny samolot zbombardował łódź. Eksperci: to zbrodnia wojenna - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaENYM2RYYVYwV1NvRDB6Yk5ORzVXRlZFOEpHczRxSDRMWUE5S3JUNTRtRUdwTlh3dmo0dTBzLTBWV0NMeUVBeHNBaHJoLTBRWHhXMXN1Rk9qeUNpcGFNQlNKZFBjbzRWM1VVR2ZJZmhTaTlHWm5sQWZoMGdsUktpWUV5TlFESlgtVkVKYXNrZ1FIRlpLRnhCVkRmRVkzVnZhVEg3TnFhQUNrU0U?oc=5"
-      },
-      {
-        "title": "Próbny egzamin ósmoklasisty z języka polskiego. Polonista: \"Łatwiejszy niż w maju\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM21FVTdXZWpCcExKNWp3ZEd3M3VhVzV2dHVYTG8wcVRoTjJRRG5wUjRZN1d0c01RX1U4Mi0tTVRKZ0pPVGI5N1JIbTNCdkl3WjRLNjdZNUFzWTlqeVZ4OW5POHEyUnFPajNPMEFSbnV5bU1YalVhOU1BdjFMZ2VlRlV3c19HWnhGQi04ajdpdlNLeEZ2UVJhMG9HZ3Mza1hYVFVFZUJmSXAwTzF3dGc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-13 22:15:24",
     "weather": {
       "Warsaw": "",
@@ -2596,6 +2544,58 @@
       {
         "title": "Koncert z Bielska-Białej na dwóch antenach TVP. Znamy terminy emisji wielkiego widowiska - foto - Bielsko-Biała",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXFZMFM3WHZMR0kybDh1WThhWmpVbVVydUV0THlWb1BjZEZCVVNReTRjbGxNQWJCcGcyWW1USXlYejZUWUZVLXl1RHc4d3dPMTFsd1NLNTMzbmVVcGpNWXBoM25TVlhVT3NDaUllU3BsN1dmYVBuYU8yTXFzOTFQcG56Nm50TjYyUHVlcDZPQjhqZ1AxT2pJYWdKZGcwZEdmajFCQkt0QV9JXzhmU0ZUNjRGSVItYWZPN052aUJLVHlGS1I5YVk0UWJCN01KSjRi?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16 05:34:50",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6153,
+      "EUR": 4.2068,
+      "GBP": 4.858,
+      "CHF": 4.5164,
+      "JPY": 0.022824,
+      "AUD": 2.4207,
+      "CAD": 2.6005,
+      "CNY": 0.5188
+    },
+    "crypto": {
+      "BITCOIN": 345916,
+      "DOGECOIN": 0.505797,
+      "ETHEREUM": 11940.41,
+      "LITECOIN": 262.48,
+      "RIPPLE": 7.5
+    },
+    "indices": {
+      "^WIG20": 3306.4,
+      "^WIG30": 4251.76,
+      "^WIG": 3306.4
+    },
+    "news": [
+      {
+        "title": "Polska liderem reformy UE? Nawrocki rzucił pomysł - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmVjUFRRSFdtd09HUzc0R1ZnZWVuZXZDb0N1Sy1Wa2NYRXk1cXdfOUN1SHlEU3VOM1JJQjU1bFAxUDNBVDFzUnZkVHNyYnBjN1JCMmJFTjNmVnZnNktCM3BTWUlNdkxpb3pIckExUVB1ZGlKU1dXOFB1TUQ0UjdfWnBXWFY3dXhhbGh3QWx1a2VFZERoY0E?oc=5"
+      },
+      {
+        "title": "\"Jantar Unity\" już w Szczecinie. Nowy polski prom zacumował przy Wałach Chrobrego - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclV6d1B6WjBNRTVuZnZWOEpjZjgyRS1tWXltQno1UW5xQkdyVjVyNHpxU0pybFNHZW9waERDWHRMV0xpa2lwdG1WWEpCcEVYZDJiRTMyN3QySTZ6UTVNYUJyUmpVVVMyM3FmLU02RVpUNHlFMjdSXzk2bE1XMWJERWQxMk1IeEE2cVRLY2VNRHB5NWM3NHpKMFhZMHhod3QwSWZKQ3RHWUtWblhxYjNGMVlkVnhjTndHTWc?oc=5"
+      },
+      {
+        "title": "Kto \"młodym\" kandydatem PiS na premiera? Polacy zapytani o cztery nazwiska [SONDAŻ] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWVFcFA0YVpvbi03XzRWQ2pNNHNTXzNBS1p3SWNIbWJEVjZmeUJkbjdoMFJNRjFVM3NuNllrbXRPM29veWJCVnF0R1NHRVRuMHo1OVJnYUN4M2Rkai1INDlxTkdfc3BkLVdMbVByeEFqbWI5bmRRQW91aVM2NG83MnJoVjQ4YktZaXZpQ2t6bDNEZ0c0YjdtektodGd5QWFSV0xXWmg1eVRsMlZ4UW5RQWVMU2ZzODJpNXc?oc=5"
+      },
+      {
+        "title": "Koncert z Bielska-Białej na dwóch antenach TVP. Znamy terminy emisji wielkiego widowiska - foto - Bielsko-Biała",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXFZMFM3WHZMR0kybDh1WThhWmpVbVVydUV0THlWb1BjZEZCVVNReTRjbGxNQWJCcGcyWW1USXlYejZUWUZVLXl1RHc4d3dPMTFsd1NLNTMzbmVVcGpNWXBoM25TVlhVT3NDaUllU3BsN1dmYVBuYU8yTXFzOTFQcG56Nm50TjYyUHVlcDZPQjhqZ1AxT2pJYWdKZGcwZEdmajFCQkt0QV9JXzhmU0ZUNjRGSVItYWZPN052aUJLVHlGS1I5YVk0UWJCN01KSjRi?oc=5"
+      },
+      {
+        "title": "\"Projekt Kadyrow\" dobiega końca? Putin ma powody do niepokoju. Śmierć czeczeńskiego watażki wywoła reakcję łańcuchową [OPINIA] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjN1cjJyV1l2a3dWQ1RMajFKV3JheUJPQzgzTnhQZE5GenR4SnRtSFJDMm5lRWNxLUlOdWs4V1VpdVJGdmYyTksyNkY1MW02T0VhMGxSd3k2c29RdlRyMGNaUTVab1dTSkNwN19zNTh2SEhDVWVmUUIyYnBrSWdHWjFiOVhiZUktamZDQ1NWeDJPSV9nUll5aGpkeDN1aGNVaDVzdW05VXlQaUNxanhNV3ZhWHdHaGVISFJuRU94TQ?oc=5"
       }
     ]
   }
