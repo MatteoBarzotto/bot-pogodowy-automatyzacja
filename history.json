@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14 18:22:53",
-    "weather": {
-      "Warsaw": "Warsaw: -2°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.614,
-      "EUR": 4.211,
-      "GBP": 4.8631,
-      "CHF": 4.5059,
-      "JPY": 0.022764,
-      "AUD": 2.4198,
-      "CAD": 2.6016,
-      "CNY": 0.5183
-    },
-    "crypto": {
-      "BITCOIN": 353089,
-      "DOGECOIN": 0.542432,
-      "ETHEREUM": 12204.71,
-      "LITECOIN": 286.12,
-      "RIPPLE": 7.82
-    },
-    "indices": {
-      "^WIG20": 3268.94,
-      "^WIG30": 4212.6,
-      "^WIG": 3268.94
-    },
-    "news": [
-      {
-        "title": "Podziękowania od Głównego Inspektora - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVZm55TE4yb0dSZTFjd2pZTFVEYy1SZmV3WmJ3dHRRdmhEcFdjSE50S3B3LVJnU20tNkJOMjExX01pS190NnYwWDc4VDY1d0JySGFTWlJJVHhKYm82MXZuWEJtOWhXdjFDWEFhSkZOUmtHdw?oc=5"
-      },
-      {
-        "title": "Te regiony są zagrożone śnieżycą. Może spaść jeszcze 15 cm śniegu [POGODA] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUJJeVpiclhrNTNXcWg3SGhJbmhMZEE3djVCa3pZNGNLMXllc041R0dWYnBPUV9UTzBDWkQ2a0g5d1lDYV9xcUpjV2NLbkRyMElObHMxWEJmdXFlQTk3NTlVZVBLd2FCOTRSaS1HcDdDWXN2NldRZ3U2bFY2QnZDVUlMZWJFbmY0ZVJMUExnMEpTaWRsNHFzb1JRZWFuaG5tckdaWG1VVlJrNjFJRmhB?oc=5"
-      },
-      {
-        "title": "Seniorka dźgnięta nożem na ulicy we Wrocławiu. Policja zatrzymała 15-latkę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXBXWWJsdl9tSTB5WGhlVFhUejZyZkdzTkxpaFhzbWwwOURjVFRQR1BSVEc1X2tSMzZrNVFhLWNrWVZpdGp0SV9wN243blc5S1hOU25WdFVaZ3MyMW1pY19iRmEzdDRCTDI4SzdjZGp1SmFlZkRoLVVEUEtjNUxFRFlFc2VhTDFWTHYtMTFid3JEQUgyVU11c3RKaVB6a0g5T3RiWTgyeWh4MTFHUVBDMmxid016c2kxTzU2dHp2QkVyZjJKNnFFa0lvZk1HT0M5OHc?oc=5"
-      },
-      {
-        "title": "USA zamrażają wizy dla 75 krajów. W tym dla Rosji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2drWWtQY2ZhYkp2SWRwS19neHpiQm81SF9ORVBrM3BrTUlEb3dJekZRSkExbS1TWEdGZFJ6bnJJeTA4RE9IQTJBRS1IMXR0SEZnVW9ES0xnajUyWF9rOTFHWXBNUlRfUV9EMllPdkRqZEtyTEZiN1dVaktTR0xxU1JaRVBCQUNuaDlWS3RjV2NNM3kycDc0Y1RDa01rd0k3RmJvRU5B?oc=5"
-      },
-      {
-        "title": "To krakowskie technikum jest najlepsze w kraju. Oto najnowszy ranking \"Perspektyw\" - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc1Rnb3VXWldqVFFybC14OTJQUHRvUDd1REpZUmZiZTZ1OEc1QUNlVGVHbVJBN1RweTBTYXVSRzdCUnlWX1FwUFgwV3ZNY3Z6SGZOcl9nMWFoWGlGbU85VHdkeVFNZG9aNUtvYUdYeE9fNWVfaE43V29SMDd5QlZhZ3Q0SUd2R0xaNXg4NmZOQzAtNUNLcjhPRy1LMktzSEJmcWc4aEo5bDNOaHJsWkh3THF5cw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-14 19:25:07",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nie żyje matka i troje dzieci z Chełmna. Kluczowy był jeden element mieszkania - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWd2RHo4cjRNemVZT3A2cVRTTkc5RXFIcVV0NDZ4MmlQaml3WDlvdUZDeUx4RktBLXF3ZGtER3FlU3BoYi0tMlhpOWxwQ3Z6Mlp4REt2bkIzdVRONW9HT1l3aE5Xejh0T29OWHdkMExMQ2F2ZEo0TW5adDVOQnpBMTdwc3NfVGU2ZjQ3Ykd1RGNVZjFTUGpaemhHQ0U4VXhKQWxBOFAwNjI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-17 00:14:54",
+    "weather": {
+      "Warsaw": "Warsaw: -8°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 347115,
+      "DOGECOIN": 0.502352,
+      "ETHEREUM": 11978.8,
+      "LITECOIN": 274.27,
+      "RIPPLE": 7.53
+    },
+    "indices": {
+      "^WIG20": 3283.42,
+      "^WIG30": 4221.4,
+      "^WIG": 3283.42
+    },
+    "news": [
+      {
+        "title": "Nie żyje matka i troje dzieci z Chełmna. Kluczowy był jeden element mieszkania - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWd2RHo4cjRNemVZT3A2cVRTTkc5RXFIcVV0NDZ4MmlQaml3WDlvdUZDeUx4RktBLXF3ZGtER3FlU3BoYi0tMlhpOWxwQ3Z6Mlp4REt2bkIzdVRONW9HT1l3aE5Xejh0T29OWHdkMExMQ2F2ZEo0TW5adDVOQnpBMTdwc3NfVGU2ZjQ3Ykd1RGNVZjFTUGpaemhHQ0U4VXhKQWxBOFAwNjI?oc=5"
+      },
+      {
+        "title": "Maria Corina Machado oddała Trumpowi swój medal noblowski. Komitet reaguje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSG1BQWZoamQwLTFhT25neEhTYUwzQjN2YlkzcWo3WnYzQVdlUjZsVTZCNk9SODJxUFlDOUVpOTBoS1JFNDhmNzdkeWQ4WGg0R1psVHZ3VDliZnFqb1FWNDlPOGNNTl9WTmM0RTRrU0I0ZmxzUkxvdm5sT1hiUkpiSEVpQ0JtMHQ3bU1pa0NRMUN3SGlkdUcwQlMxZWVQVUpFN2NiajBheU1LLXRCVXFjYzRXdnZRS1ltTUZwV1Q0aHZ5STc5bFpvZ2x6emdNeTQ0TEpOUEJFM1RnZw?oc=5"
+      },
+      {
+        "title": "Nowy obowiązek dla właścicieli mieszkań. Grożą kary finansowe - WP Finanse",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWdCc0RKQldSY0NFS0ZCOVpCNHl5bDYyTzQyeDlvcVYweDdEZXlMY1Z6bnBLNzFNdExNa1pBZllRLWtHSlhqNXd5a1RVc3Z4X0FnS0lyMGF4R285Si1Uempxd0VETVJTaU5aTDE5T0d0TUdsNkF4MlVZVGlIMW96QVhUOVc3WmtGS1d0Ml9FMVQ2RnR5VHhlUzZfV2hoNXpVcWc?oc=5"
+      },
+      {
+        "title": "Afera wokół PiS. Rzecznik rządu ujawnia nowe zawiadomienia do prokuratury - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQREtoMURhVWlLOVdzX3YxRU1Jd0lvUFhRQV93TjM5OTU0VDFweWZDTnpOLXBxTVJMWXZqMmpDTEowYjNQTjN2bkdpb3BfNmQ0dmJxQkZNeXhkTUR2ZlFXTmJ5QmpFeFFIZ1lRclkyNVJVMm1oQy01Y1RkUUZ6d2ktdjdSdVd6RGhtckJNNE9KTUNVM3JoMnlSTUlNek51cWtLRWpDS3ZPdnBGVkl6VXpiVkNyWDc5eGtkVURRcFRvaWFjVUdlYlBZdFpDWlF3TlhH?oc=5"
+      },
+      {
+        "title": "Zaczęło się. Policjanci ruszyli z akcją. Kontrole dzień w dzień aż do marca. Wiem, co sprawdzają - Auto Świat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FoZ083UC1rOGpMSlN1VHhtRlF5ZWlHRVZJdHFfQlBrQzZGX282SHNIVnVZNkpReWtSd0ZTWGhsVFA3WUZMWkJjbnhlZWRiMGVYN1hYQlpGMUtRTzQwU281YmZ1ODJBbFRwXzZQN0FGekZNNjkweFhfaGM1Z2ZfWk0yLVpBdmV2c1BsQXJhTEtxekhVNklYNGZiU2E3dzJBYzBDa21PSzA1bmhaVEM5MGNOdl9DMU1NemV3bS1qcElTUUhzWmNldQ?oc=5"
       }
     ]
   }
