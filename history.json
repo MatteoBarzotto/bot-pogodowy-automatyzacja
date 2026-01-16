@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13 22:15:24",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.6083,
-      "EUR": 4.2116,
-      "GBP": 4.8644,
-      "CHF": 4.5235,
-      "JPY": 0.02271,
-      "AUD": 2.4197,
-      "CAD": 2.6006,
-      "CNY": 0.5173
-    },
-    "crypto": {
-      "BITCOIN": 341442,
-      "DOGECOIN": 0.521845,
-      "ETHEREUM": 11601.67,
-      "LITECOIN": 277.27,
-      "RIPPLE": 7.71
-    },
-    "indices": {
-      "^WIG20": 3280.95,
-      "^WIG30": 4228.94,
-      "^WIG": 3280.95
-    },
-    "news": [
-      {
-        "title": "Przemknął przed Nawrockim. Tak zakończyło się spotkanie w Londynie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFBLWUdSTlViampGMF81YkNacmIzNlA2NHZiYlB0SkVpV2NZWmthSWdra2FqTFhKOEFfYVJjTDZURHVJMmk1eXZfSkdBenBkXzFEZDJBcWxfR25tZEY5TzNKaEViQmsxVElWTlNSczFReVdEcXlaUW1zeno2SVZpZXY1QmdGcVA5YVhsdFpJalUxSENUTGZ0a0poTHpuZ2VWVUpMVV8xLXVyMS1Y?oc=5"
-      },
-      {
-        "title": "Szokujące słowa Sołowjowa na antenie rosyjskiej telewizji. Armenia z pilną notą protestacyjną - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeU4xanpxSzZkRUIxY0VDaHhyd1JEZlE2aF9pYzEwY18tYlVpYUh3WHlMbV9hMGVCMF9pYWRuS085WGZ6Zl9JZUozUmN0WXlxVnRPQl9kazBEZ3NrMGZoUl9oc3YxUkdzTFkxUzg3bXdVc3hqd19hY3dlTlA0R2t1ak1jdmFZbFpfXzllUjRhXzNhU0E1QWFpWnFLVFlBTm9UaG9fcVdSMExsaUU1aDBscXNDTE9RVVdSS3c?oc=5"
-      },
-      {
-        "title": "Prof. Modzelewski: obowiązkowy KSeF podzieli gospodarkę na 2 odrębne sektory. 3 lub 4 dokumenty wystawiane do jednej transakcji? - Infor.pl",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ2NERl9BUWlwanF4WE5nSlZ5SC1JSkxVUDBTRDBHNFd6Y1duNThUOWtPU1hGZlFpbENvT0tadXdXWUdsTlNWckFJeUFwc28taGotNGpQTVQxLUFuV3cyMDlLSkc1aTUzZTdDT3lzZTd2UTNsRjZydEpyVjh0U2FLZmdnRE1CUFhFWkwyRFNYRlBvdDRpUEZBbndwT0tmQmJCRG1wSGdLZVNRUnJaMFlQa3lJX3JHSU1ka3p4cERXQ1p3emhSOXZmajVWa05mSHR6YmRaVEJfSEctQmdRM3JleU9UNVI5WjlmVHRKdmRRTzc2ZFNDaUhqTnhJdzNySTDSAYQCQVVfeXFMTVR1ZG4tX1ZmWS1RamlaSzMtV3hNLU1fM1lkWjRnMTBGeXhhd1NuaFY3Y1ZzcVpmeU8tQjhaT3NxMFBJRXlXRkFWTlhSSll6NENKTnJDNW9ZdmYyYTMzQ21jZlhoQ2lQbVl6MHA2dnQzbkxnTEFZbGd6Wk5rWDV2Z01vR2hJX0R3VGF4NDd4dHdXYmNGVlpUaVhXQS0xRGQ3MWhkOFJiTmJLWTdWeEhidFVhOE9pU2Q5bGJuQ3ZWRXZfTmdZZlpWZGhHQm9lWmw5SmhyQmpPU2RkNWhONzg2XzNadGJBQTY1Nmw3ckhXc1NCNkJEUGtwOUVJNklzbWdjR1l4ZXI?oc=5"
-      },
-      {
-        "title": "Nowa autostrada A4 z dala od Wrocławia. \"Siedem lat starań. Warto było\" - wroclaw.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbTV3WGNmaUdoYm0yNF9veE1xTHR2UkFwNkhUVWpLQjBXQVhoWW01dTl1Qk5Sd3RJNnBUQVpDZF9TZ3hlQUxLWC16UHU0QWY0VnhnR3B4T2tfbHUySWR1MjNxempZM0lPMk5IWmVBZ3E0Zk80TDRleERrdWlzMGwxNW9RVTg2Z19pQk5VbmRJUXd0eGlhTktaVlplS1F6UndLdUJVUg?oc=5"
-      },
-      {
-        "title": "Próbny egzamin ósmoklasisty z języka polskiego. Polonista: \"Łatwiejszy niż w maju\" - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM21FVTdXZWpCcExKNWp3ZEd3M3VhVzV2dHVYTG8wcVRoTjJRRG5wUjRZN1d0c01RX1U4Mi0tTVRKZ0pPVGI5N1JIbTNCdkl3WjRLNjdZNUFzWTlqeVZ4OW5POHEyUnFPajNPMEFSbnV5bU1YalVhOU1BdjFMZ2VlRlV3c19HWnhGQi04ajdpdlNLeEZ2UVJhMG9HZ3Mza1hYVFVFZUJmSXAwTzF3dGc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-13 23:16:13",
     "weather": {
       "Warsaw": "",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Projekt Kadyrow\" dobiega końca? Putin ma powody do niepokoju. Śmierć czeczeńskiego watażki wywoła reakcję łańcuchową [OPINIA] - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjN1cjJyV1l2a3dWQ1RMajFKV3JheUJPQzgzTnhQZE5GenR4SnRtSFJDMm5lRWNxLUlOdWs4V1VpdVJGdmYyTksyNkY1MW02T0VhMGxSd3k2c29RdlRyMGNaUTVab1dTSkNwN19zNTh2SEhDVWVmUUIyYnBrSWdHWjFiOVhiZUktamZDQ1NWeDJPSV9nUll5aGpkeDN1aGNVaDVzdW05VXlQaUNxanhNV3ZhWHdHaGVISFJuRU94TQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16 06:20:19",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6153,
+      "EUR": 4.2068,
+      "GBP": 4.858,
+      "CHF": 4.5164,
+      "JPY": 0.022824,
+      "AUD": 2.4207,
+      "CAD": 2.6005,
+      "CNY": 0.5188
+    },
+    "crypto": {
+      "BITCOIN": 346058,
+      "DOGECOIN": 0.505846,
+      "ETHEREUM": 11942.54,
+      "LITECOIN": 260.73,
+      "RIPPLE": 7.49
+    },
+    "indices": {
+      "^WIG20": 3306.4,
+      "^WIG30": 4251.76,
+      "^WIG": 3306.4
+    },
+    "news": [
+      {
+        "title": "Skrajne masy powietrza zderzą się w piątek nad Polską. Mamy nową pogodę [MAPY] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHpaQjRWRjRkVlM4Q19iUmhBb0FFRlVySXhFR3l0WVBmYWJ5UUdreHBEZnFZTDRlUWVZMnItMzktTFlqdGRZNmp6enJHdThrdUhPem9qRWpfbzAxSXZVMkRJbHd5MWFMR3o5SDFvSVN6T0xnTlJ6RG5KSktyRmtRQ3dXUGp2UU01enBmbm5zb1FXMTdzQUktM0xKQm9vSG82d2VDT2NUdGQ5V0oyTEZ6Mml1eXVBMHZ0UFA3V1JwSHc4dTNoQUkwN2VIZEJkZTg0ZHo5Ym9fM25ndw?oc=5"
+      },
+      {
+        "title": "Rolnicy nie odpuszczają ws. umowy UE z Mercosurem. Chcą reakcji Sejmu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEtDS2kzVHI2b1ZFSWFjS3BUOUxEUUl2dDRvQ0xaV0kydmdzYTlRX1h4UzFGZjdNRDIwTnA4WTg0d21RcDhtUkNRTk5UeFprajZkMURGM1hQbVFTeFZ2NWZBR043cmkyZ1FEQVZGQVZJd1ZhdU9nbm51TGhJeUFFSHRiVFZMMnZxMFlsYnJ5VmNmYmViODlCcWxGUmpPTWc4aDJqSFNUVXR5X3JRRUwtQlZNOEhPaHpEYlVLSWUxMA?oc=5"
+      },
+      {
+        "title": "\"Jantar Unity\" już w Szczecinie. Nowy polski prom zacumował przy Wałach Chrobrego - Szczecin Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclV6d1B6WjBNRTVuZnZWOEpjZjgyRS1tWXltQno1UW5xQkdyVjVyNHpxU0pybFNHZW9waERDWHRMV0xpa2lwdG1WWEpCcEVYZDJiRTMyN3QySTZ6UTVNYUJyUmpVVVMyM3FmLU02RVpUNHlFMjdSXzk2bE1XMWJERWQxMk1IeEE2cVRLY2VNRHB5NWM3NHpKMFhZMHhod3QwSWZKQ3RHWUtWblhxYjNGMVlkVnhjTndHTWc?oc=5"
+      },
+      {
+        "title": "Koncert z Bielska-Białej na dwóch antenach TVP. Znamy terminy emisji wielkiego widowiska - foto - Bielsko-Biała",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXFZMFM3WHZMR0kybDh1WThhWmpVbVVydUV0THlWb1BjZEZCVVNReTRjbGxNQWJCcGcyWW1USXlYejZUWUZVLXl1RHc4d3dPMTFsd1NLNTMzbmVVcGpNWXBoM25TVlhVT3NDaUllU3BsN1dmYVBuYU8yTXFzOTFQcG56Nm50TjYyUHVlcDZPQjhqZ1AxT2pJYWdKZGcwZEdmajFCQkt0QV9JXzhmU0ZUNjRGSVItYWZPN052aUJLVHlGS1I5YVk0UWJCN01KSjRi?oc=5"
+      },
+      {
+        "title": "Nocą pogoda będzie niebezpieczna. Nowe alerty IMGW dla ośmiu województw - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTdiQjVWZ0xPVENJYmxtb2pJSEQ5dTM2aWZ1UVc1dVBpd0lpcDZiZzB5X1JPQWNfeHR3OU9LdHBod0tiRkVzU1Z0dnB1dU5KRF9kSE01cHJkMldmWl8yYWhxUWp1SUNPaEMxVWJXNmVOSXNQNWprSU9fbDBXYUFYTlhoeWN0Q0JMcHBXWGlGU0Y0QnBIUHgzdVNvRVVveGx0NVp6aUZHYjJkbTZsd3E2dkd0RjZ0ZWRVZkVncFV6bG5hRXItVXZaQTA2YmhVNHZ3dUE?oc=5"
       }
     ]
   }
