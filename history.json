@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14 06:19:39",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.6083,
-      "EUR": 4.2116,
-      "GBP": 4.8644,
-      "CHF": 4.5235,
-      "JPY": 0.02271,
-      "AUD": 2.4197,
-      "CAD": 2.6006,
-      "CNY": 0.5173
-    },
-    "crypto": {
-      "BITCOIN": 344186,
-      "DOGECOIN": 0.535582,
-      "ETHEREUM": 12055.37,
-      "LITECOIN": 284.39,
-      "RIPPLE": 7.81
-    },
-    "indices": {
-      "^WIG20": 3280.95,
-      "^WIG30": 4228.94,
-      "^WIG": 3280.95
-    },
-    "news": [
-      {
-        "title": "Rosja przejmuje oddziały polskiej firmy. Putin wydał dekret - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkw2TVZCSE9zdUNFVGM0S0dxMlFBYmNyY1hTYmJmVjA2c2hUWXJuRENLdTk2aGRXYkxrQ2I2WXpfWFgydk5oYUd4bTdqMjZONnJiUHVSUm52eHRZX29UUHU0SGpVWlQ2REFMLTlOSkJtLTgtUXpYUVdHOGVQRGJvTE01WWJxbnR4TTdsa2sxd3Z3Sl9OTVoyRGh1OVo5eHZ2aE1DNS1aaGQ1NjJwS0VKeTJQQQ?oc=5"
-      },
-      {
-        "title": "Londyn. Rozmowy z Premierem Keirem Starmerem [PL/EN] \\ Aktualności \\ Wizyty zagraniczne - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG1JZHBHdV9CdEUyY1UyVy1KcW9acjZlT1lSV1VqdENBU1d5c3dGWGJyVGJWMXd3OUVMRzJiTjVSVmxjclgzbDZYNEVxWkZjU0c0V3dzNTVydmZpMVlieHNKbnMxRlpYTGtwZ3NLYlJPTjJaU0xwMnkzQWdPcFNNbmd3enpFLTFtM0NwajNhS0kzXy1KeVJzbmdhOS1leUNrX2NyTFhOM2FYQQ?oc=5"
-      },
-      {
-        "title": "PiS chce zbudować nowy port nad Bałtykiem. Kaczyński podał nazwę - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0JmWWRWTUhkM1JrMmtlc0FBcHNyanBlRFJ3VjZpNDhVYVVJUkltWks5RjhCUWxFdHVLUTlNNEhiN01aX3g5dDlKcWQ3SmxzMWVIekEtUHJIbUtIdDN4RXdQLWc1WWFVZklIX3dfTWt4ajhfWWxvMWlIYzhoRnJyN1ZBeFpXUEtVOHNMLUt6d1MxZDJKSmU1MTJUTVRTeDVQZklOZGZ5OWFhZER6T0VhX29ocF9hM3czY1E?oc=5"
-      },
-      {
-        "title": "Prezydent Nawrocki zawetował ustawę o usługach cyfrowych. Elon Musk przyklasnął. \"Brawo!\" - Next Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVNraWwzdG5ueXFxN1hNcmZ4Y3dVb3I2bmtrNFQwdmNnZnJ2RXlGeFE5T1l5cGtLYjJNYzEwRVFDVzFTRnBjb3JQTzZqc1JyZHJLanhwcHQwOENZVjdnbkVYdjFTSVdFUXBrdHJPbU9XX2lpazhISXRFNlRrR3NwSXpLRkFBYndHS3VYQVJveWtXQ1Y1ZlZTeTI3Z2dESDZaOFh5c2pWQkF6c1VjZTRPMFlR?oc=5"
-      },
-      {
-        "title": "Prof. Modzelewski: obowiązkowy KSeF podzieli gospodarkę na 2 odrębne sektory. 3 lub 4 dokumenty wystawiane do jednej transakcji? - Infor.pl",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ2NERl9BUWlwanF4WE5nSlZ5SC1JSkxVUDBTRDBHNFd6Y1duNThUOWtPU1hGZlFpbENvT0tadXdXWUdsTlNWckFJeUFwc28taGotNGpQTVQxLUFuV3cyMDlLSkc1aTUzZTdDT3lzZTd2UTNsRjZydEpyVjh0U2FLZmdnRE1CUFhFWkwyRFNYRlBvdDRpUEZBbndwT0tmQmJCRG1wSGdLZVNRUnJaMFlQa3lJX3JHSU1ka3p4cERXQ1p3emhSOXZmajVWa05mSHR6YmRaVEJfSEctQmdRM3JleU9UNVI5WjlmVHRKdmRRTzc2ZFNDaUhqTnhJdzNySTDSAYQCQVVfeXFMTVR1ZG4tX1ZmWS1RamlaSzMtV3hNLU1fM1lkWjRnMTBGeXhhd1NuaFY3Y1ZzcVpmeU8tQjhaT3NxMFBJRXlXRkFWTlhSSll6NENKTnJDNW9ZdmYyYTMzQ21jZlhoQ2lQbVl6MHA2dnQzbkxnTEFZbGd6Wk5rWDV2Z01vR2hJX0R3VGF4NDd4dHdXYmNGVlpUaVhXQS0xRGQ3MWhkOFJiTmJLWTdWeEhidFVhOE9pU2Q5bGJuQ3ZWRXZfTmdZZlpWZGhHQm9lWmw5SmhyQmpPU2RkNWhONzg2XzNadGJBQTY1Nmw3ckhXc1NCNkJEUGtwOUVJNklzbWdjR1l4ZXI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-14 07:26:58",
     "weather": {
       "Warsaw": "",
@@ -2596,6 +2544,58 @@
       {
         "title": "Fuzja z Rumunią? Władze Mołdawii mają inne zdanie niż obywatele - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjZaU0JtTDN0b3kxcmROY1RsRG9KWXh1UHllT01TbzRZMkN1NTB4aGRhWXJoR3VnWVN2MUl0eDVIa3VfUWdCNHVPbEZfZ3RqVEZnOE1ZSmQtUFZOMlhNNlBWUGg5akJXLXhNdDh0UWlTU0hSM2x6d1d4a09LQXg0Q2NhRHgxSjBpajhINzBYSW5WNUw3THl5MWtlVV9ldEFGd3FpQ3o2bWQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16 12:14:54",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 346478,
+      "DOGECOIN": 0.504226,
+      "ETHEREUM": 11992.72,
+      "LITECOIN": 262.6,
+      "RIPPLE": 7.49
+    },
+    "indices": {
+      "^WIG20": 3290.71,
+      "^WIG30": 4233.08,
+      "^WIG": 3290.71
+    },
+    "news": [
+      {
+        "title": "\"Dragon\" nie odpowie za propagowanie nazizmu. Czyn zdążył się przedawnić - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkdYQW5nYjRBc2YzSnRSRjNhWWxNNmdLVFh5RmJvQzdwTXU2Q3FZa3R5cU8wdndrNmIxVVlOM1dKMVd4eDE2cVllUUJPRG5nLUFYN2x2ZTVEM1RwUVpONUZ6YmxEb1M3aWVsY0Z6TWVMWkpJT1RVb2RPNnMtREFnRkx1bWtPQi14N0dPN01reGN6SlFfWW5IZlJZakFMdHFHTnE3YXNXYVZQcVZOQnRSRm5n?oc=5"
+      },
+      {
+        "title": "Polska reaguje na pomysł rozmów z Władimirem Putinem. Radosław Sikorski wskazał nazwisko - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTnJ6WXlRaTU3SXZmbHl2MEpXNHRQb0NCWHZOaEdod3JiWHFTUlpPcmFacnEtM184N0JYREtxZEtxRGNoVU03Nm1ab1E0Z0dLenBwNmowcGluTVZkV0ZiQzY2NU5JcldNSlFhQlIwRk5NTWNrU2lTOVhCeTNzaElnQkpSX21VQjNZc0JhcGowSl9zVHMwSVl4YzBuY0tYUnhYMGhUWUMyUFBwSTZndnQzeGRKa3NOeEJKdzJlbUM4QmRGRXF3M3JFbFY4Nk42blBNd3VwRDlR?oc=5"
+      },
+      {
+        "title": "Zaczęło się. Policjanci ruszyli z akcją. Kontrole dzień w dzień aż do marca. Wiem, co sprawdzają - Auto Świat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FoZ083UC1rOGpMSlN1VHhtRlF5ZWlHRVZJdHFfQlBrQzZGX282SHNIVnVZNkpReWtSd0ZTWGhsVFA3WUZMWkJjbnhlZWRiMGVYN1hYQlpGMUtRTzQwU281YmZ1ODJBbFRwXzZQN0FGekZNNjkweFhfaGM1Z2ZfWk0yLVpBdmV2c1BsQXJhTEtxekhVNklYNGZiU2E3dzJBYzBDa21PSzA1bmhaVEM5MGNOdl9DMU1NemV3bS1qcElTUUhzWmNldQ?oc=5"
+      },
+      {
+        "title": "Nawrocki czy Tusk? Polacy wskazali, kogo cenią bardziej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTAzcFhOaDJ0Sl9PSHBsTmJPUlVuVVh6M2NfZTZkZjhvb3pna3U3UU5WUEFELWtqQVlFTl9sRktoeUhGVlNMUzhOMXVJTnNfVzRNZGZaZkx1d2J0THNqMVd6dGdQVXR5SHR0VXk4NHg5Yk01amhzeHlrSHg1OW1Lb2QzMGo2Y0JoRVYxbnRodTZibzh0bHNiYklkcHA?oc=5"
+      },
+      {
+        "title": "Wołodymyr Zełenski odpowiada Donaldowi Trumpowi. Padły stanowcze słowa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVhmOUZKVVN3WjdKOEFYMlpod3BCRHRfZTQzT2J3TWFXVENxWUd4b3lYMWlNRjhyRTctNy04VEJnWVl0RHFXU3JxWWJxd3dtRXZWeW15V0VUVFZvVDlPQ1dnVVloRFYyN1N3SXREdnJYUEp3eE1hZE9QZDhubHhuS0ticXN1bVk1cFJJY3ZNc0RPX3lpNTBkNkNDUWRNMlp1UmVITGZkUGxLTFJFVmxlMEFmMTM0cXFlQldNZGlHNVgtUFlYYnBkenVjSWQ?oc=5"
       }
     ]
   }
