@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-15 08:20:47",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.614,
-      "EUR": 4.211,
-      "GBP": 4.8631,
-      "CHF": 4.5059,
-      "JPY": 0.022764,
-      "AUD": 2.4198,
-      "CAD": 2.6016,
-      "CNY": 0.5183
-    },
-    "crypto": {
-      "BITCOIN": 348557,
-      "DOGECOIN": 0.519071,
-      "ETHEREUM": 12018.21,
-      "LITECOIN": 269.19,
-      "RIPPLE": 7.58
-    },
-    "indices": {
-      "^WIG20": 3268.94,
-      "^WIG30": 4212.6,
-      "^WIG": 3268.94
-    },
-    "news": [
-      {
-        "title": "Musk znów krótko o Polsce. \"Szaleństwo\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlY0RTZzSEtCSGctQVNFOUhERlQ4dURSZHpmMFZsZE0wVWxnNVN3a0RkOFB4elFQTl9LMHhqQ2NIeTEtRHFZX1VpV1Zzajlxc3NMWmpXRlJ5TjJWLU5JMmdpbTFaYWtpaTRZZXQ4MkpnN1BiVEROMmhCTXA4R2txZHNEQVM4Zw?oc=5"
-      },
-      {
-        "title": "Nie uwierzysz, ilu żołnierzy Norwegia wyśle na Grenlandię - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTRmd1lFaTNoUFBwYkdtVWVVWFpXR09YZzhWd2JicGFNOXhXc0lrYTJ4ZUh3RTBwR25KazhOOWxEb1ViZDhaZlAzTFJXczVSUU1JdktON0lHVkY5ejU1WFhPUGVMbUNQTkpwdmRDOFd6WW1FdF9ZbnU0cE9CVFo5RXAxM1oxX0VWOGx0ZXludW5DZTNQcjNJcGxaTV9YazJoeTA2YmJaZ2VOZw?oc=5"
-      },
-      {
-        "title": "Rosjanie niszczą zaplecze energetyczne Kijowa i Dniepru. 1420. dzień wojny - OSW Ośrodek Studiów Wschodnich",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0dJeEkzd0pMQkhCUXR1X25PWHZaWGxPdFZ1T1lWNnhIcElqNkdZX1liS2d3a3c4LXZJNVpDUlZ6R1BqaTVSUHVDaHpGclphMnJhdE82VzB3bFBINmFzd0JNSWxpUXFHeDF5VHBfNGRsbXhxelROZzBmY2RsLXd4cGZKeWc4bld1Qmh3QmNEVGVmdDY4YlBWSTZ5VVgyWl9BVkNuazNZS19VSXRIeTlweXVndWc3VGVrbkNPTkxhRQ?oc=5"
-      },
-      {
-        "title": "Wrze w partii Szymona Hołowni. W piątek kluczowe decyzje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlY3V3N4UTFINFNXTHVlYi1pdUxjMHpzaXBnVEtpVERiLVFjbEJoRERlV01qWE1rVjBobHBEUWp2UVh3ZEE3RzZMZ2phenJvN2NCMWJna2tVNTkzRFotWVN1aDdkSV9FY2NvRGlfRlFHeVZjUEh0WHRCODQxaUVsVm1DMXdGYnd1MXJURWtCRExoMkRhVmpIclA4UFIzYkFfMXBrUjBGalRWY1U1ZWRDS256QUxGQzJjdWc?oc=5"
-      },
-      {
-        "title": "Strefa czystego transportu w Krakowie. Sąd częściowo unieważnia uchwałę. Co dalej? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzFlLTJfbV9jem8yMUhfZEdEUXlYd1ZqRHVuMUVyZ2ZRbHN4LTE3UlZYR0Fid0dBbWx6QWQ1MHpZdFgwV3JwaW5OYzI3dDhOQ3FOa2cxQzBxSnNGOTF2UlYzVTVSakhVZEhKNzY5Qk5JU3l0NUNNME9vXzhWU3VCWkgxX2J0dURERlpKaEFMYWJOMzNySzhmVUg3Q3l3UzI4N2ZncV9rQ0Z3aVQtQjN5SGFUc3RiSjFY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-15 09:23:34",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Uczucia religijne zasługują na ochronę. Tu nie trzeba nic zmieniać [OPINIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFBtQk9BS0dvMzdzeGNQWmhrNEJIS2pCeFJZcU9LYVk5akxsSW5SNDFWUkdpLUlPSElFY3Q0b2N5d0NobVdqUlowMlBmZnVmYjlNQW0zTnlOdWRITE96NjMyT2ZWNWktTGh1WFJxcXhQcVJ5Tzl3aTQ1NmpJbTg5YWZnN1JVU1NRV1B6QV8zZ3NlRHhzTFlHSlZHb01ObkpSQzd0RDdFVTlhNm1uT01yYUM4Z0ZfUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-17 14:24:40",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 346707,
+      "DOGECOIN": 0.500383,
+      "ETHEREUM": 12009.21,
+      "LITECOIN": 270.68,
+      "RIPPLE": 7.5
+    },
+    "indices": {
+      "^WIG20": 3283.42,
+      "^WIG30": 4221.4,
+      "^WIG": 3283.42
+    },
+    "news": [
+      {
+        "title": "Nawrocki nowym liderem prawicy? Zaskakujące wyniki badania dla WP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVVJTld5Ykk4Yk5HQmktbURpWm5mTW9CRUItY2dON2NNUHM3UDVKYW9CTXZ3eDNUOHJDeHprLTNiZFp4ZUhXTFczaEdWbW4zbl9ESXZOWlJjM2kzZDN6NUJDZ1NwcUVyQ0EtdHVLTmRONGlzRGRWQXBaMlFDZHF3U3FiTlNvUmxZN2RPQ2xlRHBnTC1SMEY4UU1ETXJxTTBpenpoNEh2UGJnRm8?oc=5"
+      },
+      {
+        "title": "Chaos w komunikatach pogodowych TOPR i RCB. \"Nie konsultowali z nami\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNU9CWndHa3VULUplNUxpT2NHdkppR3hyVFVzdUUwVTNIV0xwVlRxd3dKVmRfLVB3S1NKNFBJcHVfLVQ4WXp5bldBUDJHX1IwRHdOWjJJWGNHMXpyWVIzQXMtWWZPR3VxWmRRbG4tZjJuMnlwV0d5TUZjdW5OdFBIa25NNlFEajI3dk9xMWZrVHo0OWNIVVJ6WjhyUW5vWlNRNFNtNkZIVnhfcFdSYVI3NnpORjZCSFhjeUpLWjY2dnZFaVdZMl9lbkZPQnowQ0Iw?oc=5"
+      },
+      {
+        "title": "\"Metody rodem z Dzikiego Zachodu\". AfD była wpatrzona w Trumpa jak w obrazek, ale transatlantycka miłość właśnie się kończy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUw1Z3lZYUxpTEpIM1BJM29qNHE1WGdvT3hfRXlnb0hPQXJ0d2ZNNmREcWI4Nmc4ZlRCM3lyNjl2R1diaXZxcS1BWG9nWmM5WWVEazJvUlI4WTVVMk4xSWJIZVFXby11Sy1lOWxhQTVBc1NndnhpUFZudEhiSUlXXzB3S1FNQmNKVUVvVk05bkFEalk1ZTFHcTRsTmh3cDd0RkdtTE5pSV9TU0tMOE1UcE1oWnJKOTNCY0NieQ?oc=5"
+      },
+      {
+        "title": "Taktyka Rosjan w jednym obwodzie nie dała Ukraińcom wyjścia. Musieli opuścić pozycje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUFUWng5Mk5pbmNsaGMzSXoxa0RRdUVtc1d1c3l2OWhXaVZhdzRHWkxKLUNKbG5YYzFxVWthS1FtT0dHb3VzbVJiMmwySVVPQ3NOQkdGSXVzQ3ktVlVRYlJQckQzYnI2UjNLYnpqTVpxYUFlcXB1RWhrX1Bkc0VFcXdnalJhMHp3d0ZmT24tTzJuMEFlR21QdWZRZTUyWmtuTTdmWlVjV2dIenVzV2ktTGU0dE5FLWNOUlphOTNIMlVxMlFxOEJGQllsc3k?oc=5"
+      },
+      {
+        "title": "Potrzeba 400 tys. zł. Kijów prosi Polskę o pomoc - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHdHMjN0ZHV0ZzFfUnJaNXB5bUVVekI3eVlvMmJIZzBmT0l1MWlVV05CbWxDcDUxTUotdWFNN2VzUHZkRHhjZnJTSTdybURQQld6bHBTOW1Uc01KeHVxMGJ6bmhzMi0tdU0zRDhYQS1rakUxOVJyN1R2VUpSYWMtSW1TaDhvQkdGcXQ2cXZVaDVNSjhRUXpiLXRyT3c4NEtQbmNneXo3YlEyQ21UdElUQldEeHRib2tkN1pKQ1YtenhnSkRwbEE?oc=5"
       }
     ]
   }
