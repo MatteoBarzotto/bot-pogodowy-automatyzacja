@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-15 22:16:02",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.6153,
-      "EUR": 4.2068,
-      "GBP": 4.858,
-      "CHF": 4.5164,
-      "JPY": 0.022824,
-      "AUD": 2.4207,
-      "CAD": 2.6005,
-      "CNY": 0.5188
-    },
-    "crypto": {
-      "BITCOIN": 345952,
-      "DOGECOIN": 0.506972,
-      "ETHEREUM": 11949.57,
-      "LITECOIN": 261.13,
-      "RIPPLE": 7.5
-    },
-    "indices": {
-      "^WIG20": 3306.4,
-      "^WIG30": 4251.76,
-      "^WIG": 3306.4
-    },
-    "news": [
-      {
-        "title": "Wicemarszałek Sejmu dla WP: Partia Brauna to \"Konfederacja Putina\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRENjVrc1N4TEdPQ3NUSkVKaUQtOUk2RGY4djFsN2hfQ1hyN0lOT1dPYmxsSDFXajFnOXZrdDBJRUptM1NwNUtwTDhRLTFCNFZhdGdmQllsOXZqYWJNeC0xRm4tSG1JQ0hoYnB6MkdxNEpWUUV0dUh2M1lfbU9YalpGUm5FZWxmbnJxMndOOFBndG9HVXRrbDhqcnRSOWVqRUFBaEM4X3RPZw?oc=5"
-      },
-      {
-        "title": "Wybuch w centrum Utrechtu. Trwa akcja ratunkowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOel9VOTFVamdpc3hmRm9Ca3U0ZDNxZHY0YXdGMTYySGxDSzR4a1ZRczhHUTNab1VQS1BrZHJ6NG1IUWFpTW5FMzlaN2N5Y1BsMENsbDc5V3R4UEhxc0o4Z1hsRWxBZlhxVU1TOUVoTjhqd2x3QVhjZElOdEwzcUFob1pHOFFrdlBtZXdVaXRhV2xqbzg?oc=5"
-      },
-      {
-        "title": "Suknia Marty Nawrockiej nie trafi do szafy. Plany pierwszej damy zaskakują - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWhRQ2VGb2daXzVYaWdVeUtwRGdJX2FLelI2SHFVcmg1WVBmaVVEb0U0cmNFbFJMTVdoN243UUN6WUVGM05lS2F2MXotV0tVVWVsV05oYVdLZ3R0cHVjRFhac0dDZWFyQWFic2xUUV9MREY1S2hFeEJiUEFJYzRMNkNFN1pNTXpteHVqUml4RDFUNkFtS3RJRnMzMGNGd3UwdjhQWUFfSUNWNExVRHktVVlvNGoyb2lxWFpBMkJraThUUQ?oc=5"
-      },
-      {
-        "title": "Tusk ujawnia plan Polski ws. umowy z Mercosur. \"Nie ulegniemy naciskom\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0t2Yk8tSjFMVm1qZzRnNDR0ek5JYVhFeFJqLTVxRm55MmFiQmszdGp5YWw4cFNFRkdLdVQ1RFY0Q09DZXM2QlZ2T1BxVk8xaEQ3M3d0bm9mOWEwT1pDVmV2aTIyazZPZ1FWR3pBTFRRTnBEZk9rZW9xUU95SnNoRHI2dnQ0aVVGTWJ4LVF2QlF1bFVqdU1Fc2pGU1JYUUltdXBrTUF2OFBtVU84M01kRmFQaUYwM19zcWxIQXZSUQ?oc=5"
-      },
-      {
-        "title": "\"Decyzja zapadła\". Polskie myśliwce trafią na Ukrainę - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXVmQm44UnB6UEFPYzM4TGhsbDV6enY0a0l5LXRLeFpGbGJDcmstQlVEYUMyMFhXZ2doMVJYalYwRFM5SkV6ZlQxSnFLNE9XTDFhcElDcUw3UXdZRHhjR0kzbEllc251X1ZwbFpPRTRDbEw0cENGWkE4aXJkM1plSUZKbS1oaEFrMkQ3c2VZVVJiWk9GZDF3TTFVNV9SOUhZUXFBdVZNNA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-15 23:16:05",
     "weather": {
       "Warsaw": "Warsaw: -2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zaczęło się. Policjanci ruszyli z akcją. Kontrole dzień w dzień aż do marca. Wiem, co sprawdzają - Auto Świat",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FoZ083UC1rOGpMSlN1VHhtRlF5ZWlHRVZJdHFfQlBrQzZGX282SHNIVnVZNkpReWtSd0ZTWGhsVFA3WUZMWkJjbnhlZWRiMGVYN1hYQlpGMUtRTzQwU281YmZ1ODJBbFRwXzZQN0FGekZNNjkweFhfaGM1Z2ZfWk0yLVpBdmV2c1BsQXJhTEtxekhVNklYNGZiU2E3dzJBYzBDa21PSzA1bmhaVEM5MGNOdl9DMU1NemV3bS1qcElTUUhzWmNldQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-18 06:18:44",
+    "weather": {
+      "Warsaw": "Warsaw: -12°C",
+      "Kraków": "Krakow: -10°C",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 345745,
+      "DOGECOIN": 0.499531,
+      "ETHEREUM": 12048.31,
+      "LITECOIN": 271.66,
+      "RIPPLE": 7.47
+    },
+    "indices": {
+      "^WIG20": 3283.42,
+      "^WIG30": 4221.4,
+      "^WIG": 3283.42
+    },
+    "news": [
+      {
+        "title": "Tragiczna śmierć w zamkniętym domu. Znaleziono ciała matki i córki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUdpaEQ5ZTZVbjhXOWNpaVo3S2l3LW4xZFRmQ29YanREdXB1YVFWWU5JeFlOanN1UFNPOGJVR2Jtc29YVlZUMG1WREJVRXFHeFN0Y0pybjdOcDFkclZMNjFLUXQ5SGZFWkE3T0t5SGFmTjdFU2xraTZNRnFpMVE1dEl3X09pVUVtOVZIeENKTDhXNENORG5KN1hMQzRaTnd6amxpcVVmRGJxelFxQ2FDLVJRcDRSYjFYQXhaeUEzQQ?oc=5"
+      },
+      {
+        "title": "Rekordowa kwalifikacja wojskowa 2026. Te osoby dostaną wezwania - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWdsMnZZMk5PSlBYSTNsZTE5Y0hKUEZEMndFNnJ6bUxLSWhSZ0ZzT2RGcEZfNk9RWm1xZ1NVQjlIQkpYRlB3VWVZRFF1WW5RODFWU2VEeXhoa01MRUU1V09wMGZtd2VkemdBd3locWlMLWpxaE4xMmNJSVd0aGxlcTdhdEljZFB5UENsUlhBUXVXQU5oSW9Ia0VLSy1KeU9RV2hxcHdDS0I3YVpieVE?oc=5"
+      },
+      {
+        "title": "Samolot Indonesia Air zniknął z radarów. Szczególna lista pasażerów - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1pGWVlRa0E2bHk2cnNaYTA0S1J5UU9yZGZwUERqaGpBV0NOOHNRSldXWjhQNF90U0ZlWXRJYzJTRG9Dell6LTA2OW5qYnQtNEpwb20ycDBrc2VJOFFDZXdiNEJnV1doU0g3WVNkTFlqUmE2Uk9oRS1SN2tsUjZDRURJaEEzRFNiaDVoNnRHS3phVE1yaExmeFR0dW9pTUFqVmliWERlY0NVR01NU2Zj?oc=5"
+      },
+      {
+        "title": "Zaczęło się. Policjanci ruszyli z akcją. Kontrole dzień w dzień aż do marca. Wiem, co sprawdzają - Auto Świat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FoZ083UC1rOGpMSlN1VHhtRlF5ZWlHRVZJdHFfQlBrQzZGX282SHNIVnVZNkpReWtSd0ZTWGhsVFA3WUZMWkJjbnhlZWRiMGVYN1hYQlpGMUtRTzQwU281YmZ1ODJBbFRwXzZQN0FGekZNNjkweFhfaGM1Z2ZfWk0yLVpBdmV2c1BsQXJhTEtxekhVNklYNGZiU2E3dzJBYzBDa21PSzA1bmhaVEM5MGNOdl9DMU1NemV3bS1qcElTUUhzWmNldQ?oc=5"
+      },
+      {
+        "title": "Nowy obowiązek dla wszystkich firm. Już od lutego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLV9sMzhJeWNacWs0aHNPU3N0R0hVeXNLN1NueC1MTUQ4R3pKM1NIakswSTNIX1dPd0JSY05RS0phdXZjU05NSTlOX0FWWGx3RHY5N3ZKdk5xZnY2eFpzWkVUd2F6b19PNlVBZXVqVmJSWXRzNVdTTnNYb1RfU0xZWlNMa2loNzNwWFB2bG9tYjBIWFBrWnM2ZXdTTmlHOXg4X2dKUDJR?oc=5"
       }
     ]
   }
