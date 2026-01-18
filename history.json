@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-15 23:16:05",
-    "weather": {
-      "Warsaw": "Warsaw: -2°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.6153,
-      "EUR": 4.2068,
-      "GBP": 4.858,
-      "CHF": 4.5164,
-      "JPY": 0.022824,
-      "AUD": 2.4207,
-      "CAD": 2.6005,
-      "CNY": 0.5188
-    },
-    "crypto": {
-      "BITCOIN": 346590,
-      "DOGECOIN": 0.506945,
-      "ETHEREUM": 11969.0,
-      "LITECOIN": 261.68,
-      "RIPPLE": 7.52
-    },
-    "indices": {
-      "^WIG20": 3306.4,
-      "^WIG30": 4251.76,
-      "^WIG": 3306.4
-    },
-    "news": [
-      {
-        "title": "Wicemarszałek Sejmu dla WP: Partia Brauna to \"Konfederacja Putina\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDRENjVrc1N4TEdPQ3NUSkVKaUQtOUk2RGY4djFsN2hfQ1hyN0lOT1dPYmxsSDFXajFnOXZrdDBJRUptM1NwNUtwTDhRLTFCNFZhdGdmQllsOXZqYWJNeC0xRm4tSG1JQ0hoYnB6MkdxNEpWUUV0dUh2M1lfbU9YalpGUm5FZWxmbnJxMndOOFBndG9HVXRrbDhqcnRSOWVqRUFBaEM4X3RPZw?oc=5"
-      },
-      {
-        "title": "Rolnicy nie odpuszczają ws. umowy UE z Mercosurem. Chcą reakcji Sejmu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEtDS2kzVHI2b1ZFSWFjS3BUOUxEUUl2dDRvQ0xaV0kydmdzYTlRX1h4UzFGZjdNRDIwTnA4WTg0d21RcDhtUkNRTk5UeFprajZkMURGM1hQbVFTeFZ2NWZBR043cmkyZ1FEQVZGQVZJd1ZhdU9nbm51TGhJeUFFSHRiVFZMMnZxMFlsYnJ5VmNmYmViODlCcWxGUmpPTWc4aDJqSFNUVXR5X3JRRUwtQlZNOEhPaHpEYlVLSWUxMA?oc=5"
-      },
-      {
-        "title": "Niezwykły debiut Marty Nawrockiej. Jest stylistka zdradza kulisy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblpLdmxzRVBTVzZvOE16RDVWc25kWmx1d1JPUXgtRGNXVUo0LWxucTRGVFJFOHJodjVoNlpHY2syT2d4MWFQU2tCOElkT1ZBRVRXWUlaV2JwQ1BCWl9BUnQta1QwT0RIeFlwUFA5a3BRMGhtQ0J4ZmVVRjZOZG10dDh2UVhUekxHdlZpYUZaSmlkM2FRRW5HWDNZNklYbjQ5dmNjSE84dW40QQ?oc=5"
-      },
-      {
-        "title": "Akcja CBA w Lublinie. Wiceprezydent miasta zatrzymana - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNall5SUlvMnRIMVRreVpHT1ZxYW1wQ0UwUmdIeFltUmpTWFBKMGEtMktSTFZoekUxeHo1U0hPbURxWGQ2SE0yMERjbU1fOFJucFBNNkhXUXRvOVNPVHVJYlpVbVhGYU9sUC0xTkhaU05WdHZIR0JFYkdpYkVScGtoX0ctQ0JoWGJZbENJcEV4dm5SU2lUdmNGd29kUG0yenh3QVE?oc=5"
-      },
-      {
-        "title": "Potężny pożar po eksplozjach. Ewakuowano mieszkańców i lokale - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFVtZ05YWktzTG1UTXdKWE0yMEhQdzdFalE4d0JNaDltS3dYekxVTDhfd29NUzdMdU5YaXFrbXN1cDU1angxcGJQLXRMdWhPY0MzMWZsWmNqMFdTa3lBdlJnZlU0RkJ0amhHclBoZzhjYnJWVXREUGdySUkyT3F0dHZ2c2NEV1hMdmpfUkE2X1BZY180WnFXQUc1WQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-16 00:15:25",
     "weather": {
       "Warsaw": "Warsaw: -3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nowy obowiązek dla wszystkich firm. Już od lutego - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLV9sMzhJeWNacWs0aHNPU3N0R0hVeXNLN1NueC1MTUQ4R3pKM1NIakswSTNIX1dPd0JSY05RS0phdXZjU05NSTlOX0FWWGx3RHY5N3ZKdk5xZnY2eFpzWkVUd2F6b19PNlVBZXVqVmJSWXRzNVdTTnNYb1RfU0xZWlNMa2loNzNwWFB2bG9tYjBIWFBrWnM2ZXdTTmlHOXg4X2dKUDJR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-18 07:23:08",
+    "weather": {
+      "Warsaw": "Warsaw: -12°C",
+      "Kraków": "Krakow: -10°C",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 346028,
+      "DOGECOIN": 0.499006,
+      "ETHEREUM": 12052.58,
+      "LITECOIN": 273.05,
+      "RIPPLE": 7.48
+    },
+    "indices": {
+      "^WIG20": 3283.42,
+      "^WIG30": 4221.4,
+      "^WIG": 3283.42
+    },
+    "news": [
+      {
+        "title": "Silna śnieżyca za tydzień nadciągnie nad Polskę. Oto prognozy IMGW - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWdhTmthOE9aeHpTaEtwUXZYbllCVkRtclkxZTNjVmdRT0IzNkxSOHIxYU5LTWhJWnEtTUppT1ZHVEg4SkhCZ043WURqSW94dnpWOTZvbVhRR1lVVjdBS3hvdG05NWMzdlZiZ2ZWN2xnUXJsTW5nZ3FUQUxCaWRFOWhORzIwWDZwVzZOOEpJUGR0Z0l4WnNmNW1FTQ?oc=5"
+      },
+      {
+        "title": "Rekordowa kwalifikacja wojskowa 2026. Te osoby dostaną wezwania - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWdsMnZZMk5PSlBYSTNsZTE5Y0hKUEZEMndFNnJ6bUxLSWhSZ0ZzT2RGcEZfNk9RWm1xZ1NVQjlIQkpYRlB3VWVZRFF1WW5RODFWU2VEeXhoa01MRUU1V09wMGZtd2VkemdBd3locWlMLWpxaE4xMmNJSVd0aGxlcTdhdEljZFB5UENsUlhBUXVXQU5oSW9Ia0VLSy1KeU9RV2hxcHdDS0I3YVpieVE?oc=5"
+      },
+      {
+        "title": "Trump tworzy Radę Pokoju. Żąda od krajów zapłaty miliarda za stałe miejsce - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWNMZ0MyYXVMOVdtSnhrM1p1QndhMEpFbVd5WVAwRmhFWFV1ZFJ1WnUxZ19DT0VJOUg0dkRpcEwyQVUzTmxXcnJNUS1QZ3VQenZxYjRvRTZxS2ZLVGVPODlOQWh4eEplZDVVMElWN25kQzd1aUVuNHlwUHdiT0traGFfZ04tQWg2Ui1CM0tOenJ4NlM4UWFfcW5tZzY4aDFnQnZJQjNlc2JLRndmeFpOeVZxOVBxdDFpaDNyeFptZ215MmlrVl9SSDZRWks?oc=5"
+      },
+      {
+        "title": "Zaczęło się. Policjanci ruszyli z akcją. Kontrole dzień w dzień aż do marca. Wiem, co sprawdzają - Auto Świat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FoZ083UC1rOGpMSlN1VHhtRlF5ZWlHRVZJdHFfQlBrQzZGX282SHNIVnVZNkpReWtSd0ZTWGhsVFA3WUZMWkJjbnhlZWRiMGVYN1hYQlpGMUtRTzQwU281YmZ1ODJBbFRwXzZQN0FGekZNNjkweFhfaGM1Z2ZfWk0yLVpBdmV2c1BsQXJhTEtxekhVNklYNGZiU2E3dzJBYzBDa21PSzA1bmhaVEM5MGNOdl9DMU1NemV3bS1qcElTUUhzWmNldQ?oc=5"
+      },
+      {
+        "title": "Przemyśl gra z Wielką Orkiestrą Świątecznej Pomocy! Sprawdź program 34. Finału - Przemyśl Nasze Miasto",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1owU0xYM1pxRXE4R2RHY0o3SHJ4RHpUYmpXQTU0U1lWOFF1bTExcHBwSk5XZzZrX250bDJCcXpNLWZwRi1GQ0dlUERXNkM0cGJlRWIyS0UwUExZSEFUVng1UDlBX0tONTVWZWJLM3pPTlpCSkVma2dnalJsV2RCLXhaLU96cFR3Q21mUHM4VVRZY3FvSXdwVERLYjdWRldXRkdjM0JHMlg5bTFuVjJFTlNVdGFZM0dlSDdqRHRtX0wzcDFQ?oc=5"
       }
     ]
   }
