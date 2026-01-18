@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16 10:20:47",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.6153,
-      "EUR": 4.2068,
-      "GBP": 4.858,
-      "CHF": 4.5164,
-      "JPY": 0.022824,
-      "AUD": 2.4207,
-      "CAD": 2.6005,
-      "CNY": 0.5188
-    },
-    "crypto": {
-      "BITCOIN": 347210,
-      "DOGECOIN": 0.507894,
-      "ETHEREUM": 12016.56,
-      "LITECOIN": 262.73,
-      "RIPPLE": 7.52
-    },
-    "indices": {
-      "^WIG20": 3304.58,
-      "^WIG30": 4254.02,
-      "^WIG": 3303.39
-    },
-    "news": [
-      {
-        "title": "Tragedia w Chełmnie. Sąsiedzi zapłakani. \"Mam wrażenie, że to jakiś film\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYU0yWWwzSVUwQW1yZzlGTFVBMTVfVnhEZzZ6anFLUVVjVnRLc1h3SlQySEFoeTFoZ0pjODRTVXJENWN0NzN5Q3hMZWJ1cEZkMXlWZWdjakZCUkRsNTA1M0x6LVB6eHpfNWRlVEdBMllNQXdfb2htdUxpd2t6SzNHQ1FJdHpYanpqN1VPRjdDaGwtM3BKSTRzRVV6UTh0REoxS1F2YkFTQ2dHeW0tczhMMzItNjc0N2Q1YlZUdGkzbw?oc=5"
-      },
-      {
-        "title": "\"Dragon\" nie odpowie za propagowanie nazizmu. Czyn zdążył się przedawnić - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkdYQW5nYjRBc2YzSnRSRjNhWWxNNmdLVFh5RmJvQzdwTXU2Q3FZa3R5cU8wdndrNmIxVVlOM1dKMVd4eDE2cVllUUJPRG5nLUFYN2x2ZTVEM1RwUVpONUZ6YmxEb1M3aWVsY0Z6TWVMWkpJT1RVb2RPNnMtREFnRkx1bWtPQi14N0dPN01reGN6SlFfWW5IZlJZakFMdHFHTnE3YXNXYVZQcVZOQnRSRm5n?oc=5"
-      },
-      {
-        "title": "\"Gość Wydarzeń\". Zbigniew Bogucki premierem? \"Każdy będzie lepszy niż Tusk\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2o4bzBSNnRaNU1Vazl5d0ZHYllsREl4MllQOC1GemxIYm9EMVk5dWhvemtCMFgxeXJoX0lzaHhzaUdTaE1MdHJyVHoxUFNYZDl4Z20yQXFVOEZrNkhWXzBqRFpXZnJZQjNsUU0zV0ZOVG9vbTV5YU5ndENTaFE3Qzkzb0JuZ0FsV2VieFlVSXpZaTB6Mk1Hb2w4Y1VEaG04ZUFqVVE5VnZzMXNOaVE?oc=5"
-      },
-      {
-        "title": "Działo się w nocy. Powstała Rada Pokoju dla Stefy Gazy. Trump prezesem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeno0dlh3UmFmUG9vX1ZUZU9QY3BYZmxGTEo3ZllTeWR5cmRiNkFiX2M3RjhKTHI5cU1Ua01rQ0x4OFdSYXMyN3VlQlRLWlptdXVCb2hHTmo5ajR4dWRCaUVrWnJKMDU4eHhkbmFiXzhaYWNLeHFrTEhKNy1mVFdxSEdHdEx6aWZpTEdJVHhlcHVqc0tfNFFSNnhBd21OeWJrMktjWkZUNnQxYjRidmx5eQ?oc=5"
-      },
-      {
-        "title": "Ukraińcy piszą o Polsce. Zwrócili uwagę na nowy okręt - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTktVZW9NRGFKU3I0bUFwcmRIdjJnNTlnQkRLM0sxOUZtMDBMZS1FYldTWERCekJhYXNXcVowWWNWVG4tYl9CN01KRk5Sb1pnNlpXZ2tHellXeUxKMFlneDVuOEFVdV9VTjR2NWJndW9pdUNuQ2hJREh1TXZoTV92Vi1pZ2VPZ09qcm1GbWRjdzVHQWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-16 11:17:19",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2571,6 +2519,58 @@
       {
         "title": "Dwa Kościoły w Krakowie. Kardynał Ryś i arcybiskup Jędraszewski na kursie kolizyjnym - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1BVbVFyUkJTTjBjeE1xSUgxRWUxaS1WMFh6czFjQjV3MzVfajY5eWxQSnhVQXhYOHhseGFJeTNjNXhhc25EYWEzSXRMaVlEQTBodjZpeDdSRTRLcy1rclRRTDd5YjdJUXFiZUM5YXY3X0FZYmJsQS16ZV9jRXlQbkh2cUU2bVdJM1hONDJWemN1Zk1sUFhHdUhuNjhIVnlzM3Y4?oc=5"
+      },
+      {
+        "title": "Panował chaos. Jak Ukraińcy stracili ważne miasto na froncie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYU5vZzRiUnNRM2xDS20wRTVmMEF6ZjBuZ3ctRUVJS1V1WGFETGxGaXBaQ3lzZXM4d2k1M0piNnpOSi1VdmZuWjNkRTJfWXc0MlZqVkctNzhrbzczZFlqWnNJSTRGMDBRQU80a2tVcTRTV2p1Tk50bWoyaVdadGI2bjBfdk1vREo3cVlFVTB3RzRXLWVKSnJLRGVQNXJOOG1vQUpMbA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-18 16:14:09",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -7°C",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 345717,
+      "DOGECOIN": 0.49722,
+      "ETHEREUM": 12104.99,
+      "LITECOIN": 271.48,
+      "RIPPLE": 7.45
+    },
+    "indices": {
+      "^WIG20": 3283.42,
+      "^WIG30": 4221.4,
+      "^WIG": 3283.42
+    },
+    "news": [
+      {
+        "title": "Dla tego obszaru IMGW wydał pomarańczowy alert. Temperatura spadnie do -26 st. C - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmtTT0ZBU29tYWpXeUFacXNiUFBlY3p2aDRGTXgxRGkwSFp2Y2h5Rld6R3Y3Uk8tVWZvaEd5b3JTdHBvaFZFMVZIbVl3UmRKREZZZUJwUjVXLXprWHJ6a1A3dEt2dnd2OXo4SnlXRHpua0t6SllGek13QkJmOGJ2U2k5VEVkcnZadFM5TUUwd0NPSHhQWmVWSXJ5dlFfdC1PTnFBMW9mRnY0aGEyT0MtS21EWU1Qenl5NjRlSHpMLWIyVWtnVXpRbFI2OHdZUXcxTlVGUQ?oc=5"
+      },
+      {
+        "title": "Minnesota wygląda jak pole bitwy. Trump może mieć problem wygrać ją politycznie [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1hYVkw4a3JhTnpBVjhxYm9yRVJveVZVNkh1VHFic2lGbEpuY0pobVNKMGxlWFRRbGhOR3p6MVJKNExmNlV1VDV6aTdzajJBLUt5LWotMTNlOUlUNzF5Q3FUY3RWM3d2NUtwNG9HRFh3NU1iU1ltQVRsd2pxTGdwMlpzcE10NlRfZFpranpfb044OHVuVVhKaFZzTURZWkN2SGtYS1J5OWd5X09YakFDbVJ0R0NINmpTakk0LTJVRUxSb2pIQnNR?oc=5"
+      },
+      {
+        "title": "Dwa Kościoły w Krakowie. Kardynał Ryś i arcybiskup Jędraszewski na kursie kolizyjnym - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1BVbVFyUkJTTjBjeE1xSUgxRWUxaS1WMFh6czFjQjV3MzVfajY5eWxQSnhVQXhYOHhseGFJeTNjNXhhc25EYWEzSXRMaVlEQTBodjZpeDdSRTRLcy1rclRRTDd5YjdJUXFiZUM5YXY3X0FZYmJsQS16ZV9jRXlQbkh2cUU2bVdJM1hONDJWemN1Zk1sUFhHdUhuNjhIVnlzM3Y4?oc=5"
+      },
+      {
+        "title": "Tak Norwegia zarobiła na wojnie w Ukrainie. Ekspert podał kwoty - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUU9ZSEZ3RHJuWUtqTTRRMGJNZUc5Tm1FX2tlcS15YnMwdzBKNVNqWlQ5bjhjZ1gzX1Q4SHBqMTF6RzAzMU9HR0xTbEJuWmtZR3lKTy0xaXJJYkhQVEpNdlFHRUFVM1BvbjJuRHZxek1yUDRGM2VHdHJTTWZtNXRDems4WXVHODl6aUVqOXhCRWhUQnpYTWZoWm5aSV91M1E4WXNEMktFcHk?oc=5"
       },
       {
         "title": "Panował chaos. Jak Ukraińcy stracili ważne miasto na froncie - WP Wiadomości",
