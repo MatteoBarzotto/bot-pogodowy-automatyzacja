@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-17 10:14:42",
-    "weather": {
-      "Warsaw": "Warsaw: -9°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.6346,
-      "EUR": 4.2192,
-      "GBP": 4.8692,
-      "CHF": 4.5302,
-      "JPY": 0.022975,
-      "AUD": 2.4358,
-      "CAD": 2.6157,
-      "CNY": 0.5214
-    },
-    "crypto": {
-      "BITCOIN": 346258,
-      "DOGECOIN": 0.499965,
-      "ETHEREUM": 11982.7,
-      "LITECOIN": 272.82,
-      "RIPPLE": 7.5
-    },
-    "indices": {
-      "^WIG20": 3283.42,
-      "^WIG30": 4221.4,
-      "^WIG": 3283.42
-    },
-    "news": [
-      {
-        "title": "Nagły koniec obrad Polski 2050. \"Szymon Hołownia się wylogował\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19kTV9DM0ExbHpKYUNhZHl2aFMzY25wTkk5T2xVRHZyVzhpMlNyNGMtMV84Y1VpZUdVXzdKdUM3WXQ5eC1LZVJGZnM4Tjd3c2FUd2xJaWlUV1E1LTl4Q3U2S1hfNUl4V0NQRlBCdTlBVGQzbzJGams0VDVUaXlRM29STzNzdlJBWFhiYW5teGxhVU8xdC0yd2JhWktocWg4N1E?oc=5"
-      },
-      {
-        "title": "Donald Trump wytacza ciężkie działa w sprawie Grenlandii. To byłby cios - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0lFVGxwdWJSMjg3OXdfLWVmdll0d1ZSd3JKRDdlSzZnbld1bWp0Z2tVdWItbUtUaVVqcEFwRDB5TFJ3clNMSEVUM0JoN3ZSRUMzTTFPdmFlbEJmekIxdjV2dk5BV2lGWXRoY2lhU3hDeGFXWGJub0RNVlpodENFdGNtWUR0SWcwSXlkU21ITUo1TUFBOVQ5RV9wRTFRb0U1bUM1ZmhqTTVtZXVXU09CVE5sLUpIZw?oc=5"
-      },
-      {
-        "title": "Uczucia religijne zasługują na ochronę. Tu nie trzeba nic zmieniać [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFBtQk9BS0dvMzdzeGNQWmhrNEJIS2pCeFJZcU9LYVk5akxsSW5SNDFWUkdpLUlPSElFY3Q0b2N5d0NobVdqUlowMlBmZnVmYjlNQW0zTnlOdWRITE96NjMyT2ZWNWktTGh1WFJxcXhQcVJ5Tzl3aTQ1NmpJbTg5YWZnN1JVU1NRV1B6QV8zZ3NlRHhzTFlHSlZHb01ObkpSQzd0RDdFVTlhNm1uT01yYUM4Z0ZfUQ?oc=5"
-      },
-      {
-        "title": "Rzecznik prezydenta o nieobecności szefa BBN. \"To był jeden z tematów\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2JlanAyTjUzV2Y4SmpGV3ZtS2pmUVpHazdKRTFscFlDSjc1bVZWeTZDMmx6Q1l3c0tnaE9rLWtpM3QxemJSVEQxai1hSGN6cVItaEZ3cFRwRnVLRVFXVnBMX0xMVTFhblVSVUdTTXlmT1pvYUJabzJhUzdyOXJZQ0NPanZNNUtLUXpuTkhMdWdMMHc4Z05iTFMzMExmR3VscVA5dnc2alotMDRBOUZn?oc=5"
-      },
-      {
-        "title": "Media: Syn Kadyrowa przewieziony do Moskwy. Jest w ciężkim stanie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjd4Q1ZtUWVLbG94SmZ5N1RLdklWUDJEUmRJWnQxQlp5UWRfdTJzU2xBcW5ZVF9qT21IcjF3cVFfUVlnbzR1a1JPdWg2RVhvMkM5UUFLUU8wd3kybjMxMlMtbFZPUjNDUFIwbmREX0c3bkU3ejV2cnlqa0U0dkplaW1RazgwcWI0ckk3dDQwYjdHTUVGVWY3Nl9nT3VaWk9yQlpaMG9JZDRtUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-17 11:14:44",
     "weather": {
       "Warsaw": "Warsaw: -7°C",
@@ -2575,6 +2523,58 @@
       {
         "title": "Mocny głos z Pałacu ws. węgla. Prezydent uderzył w Zachód - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDdLcnM5MGF0LTZWQjhGNFpsOEV3SzBVUkhULVM0RnN3aGpiRWR0RlhJTFFVMzZJT1VRVlVTc2Z0djZoU3pKZFI5Q3JVTEtVZkxkTjRDdmdDVU5fQUNvQ0pJRHlvcFlkbkJQWUhac1JUMGR3NTNielZxMkE4b1BUSVBjRk5PNnFlTjhfR3JxMk1DY0l3amhWS2tLQTM5eWM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-19 16:20:08",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6331,
+      "EUR": 4.2231,
+      "GBP": 4.8704,
+      "CHF": 4.5476,
+      "JPY": 0.023004,
+      "AUD": 2.433,
+      "CAD": 2.6163,
+      "CNY": 0.5217
+    },
+    "crypto": {
+      "BITCOIN": 337353,
+      "DOGECOIN": 0.46583,
+      "ETHEREUM": 11673.7,
+      "LITECOIN": 257.35,
+      "RIPPLE": 7.19
+    },
+    "indices": {
+      "^WIG20": 3267.97,
+      "^WIG30": 4200.19,
+      "^WIG": 3267.97
+    },
+    "news": [
+      {
+        "title": "Hołownia zadecydował ws. startu na szefa Polski 2050. \"Przekazałem wiadomość\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWNsdjJERGV6elNKd1l0Nkc3a1FON1lyR2JKamJJWW45ZEVMb2NoOVZIRmthUUVFVGdzVkJCb1JTOF9WaFh2QkF5RU9pV0pzT1JubzVZS2lac2pQdFpsd0YtUGtnVm1sVl80bHA4cXpWLThHQXNZUUxWZlpybmJWTmxYR2dveGlWZmZpRDNpa1NVRFVvVUp5QXJXZDcwRW9mWlFjclh1Z3NNMU4zS0tEX0dycFREOFU?oc=5"
+      },
+      {
+        "title": "Koszmar w czeskim urzędzie. Mężczyzna nagle zaczął strzelać - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmpqYXdkbm5scXpHal9Vc2NZSmJWQjBLN2puUXpFeFNLS3NtXzVpd0huM3R1S3l1RlBfNWJtMmhmWkZ5bDYtV21KMkZySkx2eTZLenRIVlpOaWdQakwtVXFxX1hCeWxtUmJkaDcwNEVhMFJWRVR3VER5dHFnMWlXTkQ0YUNpckNSWFdsdER6VEZJang0d1pSaVBnT283RERPM3JNb0pzaFlwYWxRTFhpSkRUTlA?oc=5"
+      },
+      {
+        "title": "PiS wyprzedza KO, prawica rośnie w siłę. Mamy najnowszy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzNyRDR1b2RManllc3MxblZCTEY3YThpVUV1WTFRVklyNXQyN2tSUDFNZDRRTld5V0lGLTBSNmxBcXRpc3UyLS1raTc4RDlCTVJ0bHFDeHZQLVo2T001ZHY4d1djYTVVek5jZzBrQUh1Nll1cy1NM0NmcVpfMFBsTkpDNXhaVmg2Q0xKV3JvcllWTHE5ekF2RGpfbjdWYzlKR29mTWx3?oc=5"
+      },
+      {
+        "title": "Kłęby dymu i wybuchy niedaleko polskiej granicy. Płonął magazyn w Brześciu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX08tR2dnN2JoM3hEVkZ0RWxkRXBOSzBCbHlEVWFaUGpCUmJvTG4tM2piR1RwUm1ERER6YkVSVHFSSk9VamRpSlNEYUswWVhlRUNXYkwtQ3BnS0x5Y25adHdwOXZYQ3p2RThHdXZUdktNeGE3eUFkSDJPZUxSVF9kNnpMNVFjaktxb3hrNEc0ZHZ5YXpUOUhjZWRocmMwaFZsX1NCN2gwNF85WHpWV0ljeDgwQmkxSGs?oc=5"
+      },
+      {
+        "title": "Wyrzucamy 200 mld zł w błoto? Balcerowicz: te wydatki nie mają sensu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaDV4NU15Y0NTR280akdCLXJncnNnZ0syeEU1M3pIUXF4TTVSWEVkbC1kbDJ2X2hfNkdldHh4b191R0ZrRWdxdGk1ZkF1QXZ6RUs3UkQwOE52R0YwMjZld1M4Ym5haHd2TmdGR3NmcGctZ0xLNFNFM2laVEZseEF3U2syTWVCS29aQWwwUTBUeDBYZTRzM2RSc2M5NnZERjJqUDdJU0RsRWdXUW9KT1BaX2YtN1dNR2NvbWZSSmY5aXNvVEd1?oc=5"
       }
     ]
   }
