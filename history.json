@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16 21:16:20",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.6346,
-      "EUR": 4.2192,
-      "GBP": 4.8692,
-      "CHF": 4.5302,
-      "JPY": 0.022975,
-      "AUD": 2.4358,
-      "CAD": 2.6157,
-      "CNY": 0.5214
-    },
-    "crypto": {
-      "BITCOIN": 344980,
-      "DOGECOIN": 0.496723,
-      "ETHEREUM": 11898.86,
-      "LITECOIN": 269.32,
-      "RIPPLE": 7.46
-    },
-    "indices": {
-      "^WIG20": 3283.42,
-      "^WIG30": 4221.4,
-      "^WIG": 3283.42
-    },
-    "news": [
-      {
-        "title": "Nietypowa licytacja Donalda Tuska na WOŚP. \"Nówki sztuki, nieśmigane\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUJPWHY3ZTdXcnJNLThZSDRtQUVMblRIR3FEbVk1ZVBMZ0hVdlQ3R24tUHZsUjVfZjZSMFk4VHdfU05fU1dZQnc3dE9McTZ3WXFRYkIybkZSRFpRN3pkRDhkaE5GbU9Pb3NpSnk4UThlcV9yS05SeU1FMDNNcHkwb3p1QnBlZ1U0Rzg3eGZ2empOQk1aR3dJZll0VmlCd251TW9LV29mWHNHUXJ5ZEVtTk5BdzE?oc=5"
-      },
-      {
-        "title": "Nie żyje matka i troje dzieci z Chełmna. Kluczowy był jeden element mieszkania - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWd2RHo4cjRNemVZT3A2cVRTTkc5RXFIcVV0NDZ4MmlQaml3WDlvdUZDeUx4RktBLXF3ZGtER3FlU3BoYi0tMlhpOWxwQ3Z6Mlp4REt2bkIzdVRONW9HT1l3aE5Xejh0T29OWHdkMExMQ2F2ZEo0TW5adDVOQnpBMTdwc3NfVGU2ZjQ3Ykd1RGNVZjFTUGpaemhHQ0U4VXhKQWxBOFAwNjI?oc=5"
-      },
-      {
-        "title": "Afera wokół PiS. Rzecznik rządu ujawnia nowe zawiadomienia do prokuratury - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQREtoMURhVWlLOVdzX3YxRU1Jd0lvUFhRQV93TjM5OTU0VDFweWZDTnpOLXBxTVJMWXZqMmpDTEowYjNQTjN2bkdpb3BfNmQ0dmJxQkZNeXhkTUR2ZlFXTmJ5QmpFeFFIZ1lRclkyNVJVMm1oQy01Y1RkUUZ6d2ktdjdSdVd6RGhtckJNNE9KTUNVM3JoMnlSTUlNek51cWtLRWpDS3ZPdnBGVkl6VXpiVkNyWDc5eGtkVURRcFRvaWFjVUdlYlBZdFpDWlF3TlhH?oc=5"
-      },
-      {
-        "title": "Rosja pozwanymi w USA. Stawką carskie obligacje - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2hIdm81dmJ5TXFmcWkxLTdjSFRSWDR6djY3Y2xBODlwT1lMOGs5ak9jUVB5QXA2WGJSVmJVRVNaaVpzQ2lXV2RDa3dPY3Vscno4Q1Y2MUZBYWo1b1RKVDV6Y200ZHJUaTd2OGZPNkxqcWpKRkVFb0VjcGcwc1N4bm5hcUVZVGJOZG5HWmF1RWZ2YVM1dmJiRk1TZGFhQ3RIeXRF?oc=5"
-      },
-      {
-        "title": "Ostre starcie na antenie. Padły mocne słowa: pani mi grozi - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMllkTDUwZXg2S1UxOV9hcEVuYWtHMzFWTEpWV2NWTEE4OE9PTE1HVGo4ZVUzRjQwQ1dXREZxd1pObE1BYVp4SWplOGNtcVJvb1JXMHJhOVFMQk01dzNJeU9vQVVReUUtMm00aXh6X2VwLXo1WGlXeTFFakZGb3B6UjZadDNxUDdNZjUtV1huVFl4bjFPRllKSXRDYWd1YVRvOS1F?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-16 22:15:10",
     "weather": {
       "Warsaw": "brak danych",
@@ -2571,6 +2519,58 @@
       {
         "title": "Tajemniczy biały samochód. Policja apeluje ws. Iwony Wieczorek - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMG93R0NkcTcwUXdtR3BxWWNLbVh6ZUkzX084bW05dUZ6d2lWQ0lXbEpsZXZHclNPeGxEUnFZQTVpSXA2dG1odTd6djFJRnRrdU1qcUpHUG85UkJubnBUcXZXQ0hUcU91enZ0VnMzREM3TVVubXhyU0Z1RHdYMXd4X3pZNW55RWI2SHljc3N3cjh6RFJyb2MwSHdHUUU2UlVT?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka w biało-czarnej stylizacji. Wszyscy patrzyli na jeden detal - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjVfRjhoazN0dHZ5UHVtUGViMUFXQUFHVXhHSm9SLWtQc2pMYXlkS3dGZnhGc2NJSXhIb0dNTjlMTmtTR0ZlX1lhTjZkZkRTS0hyRVE1QlJKTW9qV0JPUnFIRVcxaUcwTENHd0tjTFJrd1lQVXZSeHZzSVB4MEFUSEdMZFowVmdjUzNtU3dCQmR5anBJcUJkUkpMdEdKSno3cTZwNUgwVl9RS3NJOXk3ZFk4Q0t1MEZLWm8xd2czRG5zSVRMWm1EYw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-19 05:46:11",
+    "weather": {
+      "Warsaw": "Warsaw: -13°C",
+      "Kraków": "Krakow: -14°C",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.6346,
+      "EUR": 4.2192,
+      "GBP": 4.8692,
+      "CHF": 4.5302,
+      "JPY": 0.022975,
+      "AUD": 2.4358,
+      "CAD": 2.6157,
+      "CNY": 0.5214
+    },
+    "crypto": {
+      "BITCOIN": 336420,
+      "DOGECOIN": 0.46259,
+      "ETHEREUM": 11666.35,
+      "LITECOIN": 254.35,
+      "RIPPLE": 7.13
+    },
+    "indices": {
+      "^WIG20": 3283.42,
+      "^WIG30": 4221.4,
+      "^WIG": 3283.42
+    },
+    "news": [
+      {
+        "title": "Europa zdana na łaskę Putina? Te liczby mówią całą prawdę [WYKRESY] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0wzMGVMXzBKSEhFVjZ2NjZWcTF6YU85Tm9tdHlQRUZvT1NiNVRsaHVuWmxKR2hGYm9XM3BhaHhvT3laYkJaQlJpWEFoNEdpcHNjdXZSNTE5OC15U1Vnb0pjdmpkWnFIUVVabVh4UUE1cTUta2dDeUVvVHZraWhvcUFkdDQ1VnB1RHdfN0l5dFRTTmgzeUVlTzBOd21wZ3dRaGVLVF9nWE8?oc=5"
+      },
+      {
+        "title": "Zabawy Kaczyńskiego z Ziobrą w tle [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3B6Znp2djlxRXV4SFZpMnZrbWVIeUx5amI1YzBXNEZnbk0zR2wxRkFPaHZFdEZib0k3UXVxdlN6enNNTDZ0RVlWSXpmOE9YdWxuMW1udDlaTWpNa3RuQkQ4RHJfZlZnamNkR1FCQ2V3WVktSFZvWk03UDJGZ2hjQXVwcUZyc0pzdWxjMw?oc=5"
+      },
+      {
+        "title": "Wybory w Polsce 2050. Mocne słowa polityka partii Razem Macieja Koniecznego - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzFqbmNQeGdHeWxGV19Manl4MEI0aVlIMDZjeG9wcDlXY0lKcV9Yd3JTWXZyRVo5Yjg1UEkyWG9EYmxGMWFadWp1NkljUkpkam9LMTBtQ01GZk05MERSdmdFd2FEQXFfVElfVjZoY1k4LVZQcWJDWTdxdlJ6Tmd1OTJ3Vnl0ME1SZWR1V2ZCeko2ME9iNEE3YWZqTEttSmRYYlB0NEI0RXU3XzRpem1NZTBGWW9SVWN0alVWOUhPVUhGQ3Z0?oc=5"
+      },
+      {
+        "title": "Wspaniała studniówka 2026 Liceum Ogólnokształcącego imienia świętej Jadwigi Królowej w Kielcach. Młodzież bawiła się wyśmienicie - Kielce Nasze Miasto",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOV92UmpOVFdaSG1jOVpRdnB1T1BGZXByMzJoRUh4cVZmdkY3bERuRXJJQXdrVmFxZjZrRFFEQVZDcDZTSjFNS2VaOHpCWkFLVDhNdmItMVNEUXVJNDI1WGh6WmZlWTZyRGNwYUtqVVpVczNVQlkzQk1aTTZ4NzhrWFo4N2tjZldERm5mUngyWjRObTJhNUpvei12Q2oxVkxvQ2szUWpXY3RGN3hERHFGMXUydy12akVGNVFuMF9NZ29xMGM1bWgzZjBBdUhSSnlhYVJLT0R5eXl1MmNQdmJXeDVsYUhXZ3JFZmhhUXVDdG5GRGtoQjNHOXN1aDlFSXpSUmhBSQ?oc=5"
       },
       {
         "title": "Marta Nawrocka w biało-czarnej stylizacji. Wszyscy patrzyli na jeden detal - Onet",
