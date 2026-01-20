@@ -1,36 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18 14:24:37",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -7°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.6346,
-      "EUR": 4.2192,
-      "GBP": 4.8692,
-      "CHF": 4.5302,
-      "JPY": 0.022975,
-      "AUD": 2.4358,
-      "CAD": 2.6157,
-      "CNY": 0.5214
-    },
-    "crypto": {
-      "BITCOIN": 345299,
-      "DOGECOIN": 0.497987,
-      "ETHEREUM": 12058.54,
-      "LITECOIN": 272.19,
-      "RIPPLE": 7.46
-    },
-    "indices": {
-      "^WIG20": 3283.42,
-      "^WIG30": 4221.4,
-      "^WIG": 3283.42
-    },
-    "news": []
-  },
-  {
     "timestamp": "2026-01-18 15:13:43",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2544,58 @@
       {
         "title": "Amerykańscy żołnierze zszokowani cenami w Polsce. \"Myśleli, że jadą do biednego kraju obok Rosji\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam1HUEdIcmpOWFlVLU5DdHg4T1MxdnNuSWxoOWRjQkRkVnZZc1pPUTBXVlhrYkJLS1VaaDV0blVRUTVCX2VYRlpvRWNNcUVIcWcycUhRa0JsdmhpbGRhdld4anBOa1Q2WlotbHBDSkpDT09YWlZScWV3MF9UTjlQSk4zNTB3UWcxSTFwRGtmR1VIN2JydzhVdExUZC1CZjQ0cnZIOHJRX3Y5UjROSWlKcUVaeWs0Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-20 21:07:32",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -8°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6054,
+      "EUR": 4.2279,
+      "GBP": 4.8583,
+      "CHF": 4.5608,
+      "JPY": 0.022858,
+      "AUD": 2.4258,
+      "CAD": 2.6075,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 322503,
+      "DOGECOIN": 0.445792,
+      "ETHEREUM": 10771.65,
+      "LITECOIN": 243.06,
+      "RIPPLE": 6.85
+    },
+    "indices": {
+      "^WIG20": 3268.45,
+      "^WIG30": 4197.23,
+      "^WIG": 3268.45
+    },
+    "news": [
+      {
+        "title": "Umowa handlowa UE–USA wstrzymana - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPam0wS2VDeDZCalg2MEViNmpfSHZYSUlxZ3ZfdDlTRWRlYkl4OVpIdEU3N1dVVElYbkd0cFZyNWt1dEhXYW11SGZMU01DSmJPTkRrRU00S0QzdzVrdHRaOVNHMU5uZy1FVGNjQTNqR3VqNlY4eTd6T01mbXJFUl9rYU9lNThQMVhLZFVtaFRienRfbzJxalRaWjVDNkdxRXNheWc?oc=5"
+      },
+      {
+        "title": "\"Terror energetyczny\" Putina w Ukrainie. Pomoc może nadejść z Polski - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMElZdkp0TC00ZDBKOU1mdE9NcERMVmtsSkFsR2xGZ0NSc1c0QlZ2OS0wbG13YVI2WHA5eHE0b2JfYWRCUzlPSGsxd0hnalFWbXpadUFPY0tjNUNrQk41QTRZTHloVEJiaERTNVpFUXFsc1ZNd0pkNFNGM2JpdHlIOVpnakcwOFVwTFAyOWV1aENiSXR4aEVCMnBJLVNWbF9OZFFadndDQWxZVUxEeXk3Rk5LWS1xNVdSd1FJeA?oc=5"
+      },
+      {
+        "title": "\"Tak trudnej sytuacji jeszcze nie było\". Wielka burza we Włoszech. Jest czerwony alert - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTTJCOVdPSEJiNFJjSkpZb0d1Y2NORnN2TGRzNFNNWFpycVJYYU81WldNUUZmak85RkVRd0pzQ3RHeUZXWVJYWlhMOGU3SXhIdjh3aFRoWHgxN0RSVHNLYVZ4M0p4SXc2V1l2blJCNllLYjhsUmZ4T0NDbDdJRERacERaOVJtZXdmMDBQUmxRUUJvdVB5MU1wWHdIV2tHazZMZHo2SDdPMU1yMGN0ZEJ5VEVEOWVTSzNnSFBzOUZLREZUaERLbm95eEZYSQ?oc=5"
+      },
+      {
+        "title": "\"Mam czyste sumienie\". Prezydent Bytomia reaguje na słowa w \"Debacie Gozdyry\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSU5jNDRqaVBhMjlqU2dmakxPVmlpY0k0YUdoNkFNQ2lSdm5wTWJiOWRjTlFRNGg5TWtrMGZmNk83UWdzbzBwUU4ybHFQZ0ZZRTJrUUVGdENPOE5DOG1iLWZxUmFCMUpYZ0gzWlVXSVRLcXpIbnBGT2M4cm1DOFl6WFBTR3FBaE1wWG0wUjVNZ1Nnb0s3OEt3N0dMRVBXb245VUE?oc=5"
+      },
+      {
+        "title": "Nowy raport MFW o Polsce zaskakuje ekspertów. Zalecenia budzą emocje - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVg4ZjZzMzRvb1BOZzRaSGVDR0pKbkxvNmRwNGpNUWQ0TkhaNDNDMEt0Wjl4YjlIR0QyZm40QUJMM3hFSi1tTFpOelhtMGJaRjRvT01FX1IwcTRQU2Y2cFBUdnZrdzNObTRVZldQN01nUFR4cWVYN2p2Zy1NRzVGRnN1MTl5LTFyRWI1b19XbmtUUG5JT05NYjFrOGoyTGRYclJPX2FIeUJCWjVXM2JRWmJ6enpYa25aV0E?oc=5"
       }
     ]
   }
