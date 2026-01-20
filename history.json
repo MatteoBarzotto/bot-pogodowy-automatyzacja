@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18 11:15:06",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "Gdansk: -10°C"
-    },
-    "rates": {
-      "USD": 3.6346,
-      "EUR": 4.2192,
-      "GBP": 4.8692,
-      "CHF": 4.5302,
-      "JPY": 0.022975,
-      "AUD": 2.4358,
-      "CAD": 2.6157,
-      "CNY": 0.5214
-    },
-    "crypto": {
-      "BITCOIN": 345966,
-      "DOGECOIN": 0.499295,
-      "ETHEREUM": 12078.25,
-      "LITECOIN": 274.39,
-      "RIPPLE": 7.48
-    },
-    "indices": {
-      "^WIG20": 3283.42,
-      "^WIG30": 4221.4,
-      "^WIG": 3283.42
-    },
-    "news": [
-      {
-        "title": "Trump zamierza kupczyć miejscami w Radzie Pokoju. Po 1 mld dol za członkostwo - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFNEWktLSGRrV2lZNkFCanVEbUZBREZESVJMMl9lNTIwRnNvWF9nWFBhYzlfWEdxTTgzbFkyZmo2V1BodXZwU2pIeER6TkE3bUhIQ0hNMXpNZjUwZXJNQmlCalJlb0xXMWZTX2o5ZFQxVUdUUkRHa3RvTkQ2MjdvR29EcFVCRlFPMFY1Y1NIYVFoTU10TjZ0YWhDSlV1ZmJFS0x6NG9PVWpMRXprNmdkOW4yMXk3SjRwN09fYkRzUUc1OUtGcEM3S0tmZw?oc=5"
-      },
-      {
-        "title": "Przełom w sprawie Iwony Wieczorek. Policja ma nowe wskazówki - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2Q0Z1R0NGp2V2xMSS0yTDh6ZWhvbXl6dC1qOVg4R3NOclcwXzJUcGZXZUNSaGZjaHB3VXZsRG9MUUh2SmpXNGFYOUJiQ1pRMkxDc0syLS1vNHQ5bk1WYUI0WkhBTHY0QnhqcGp4REhlYVltOFVwcEFwMHhKRUdLdmxFLWJVcTNHbHVrMFZ3bDRPdFdWY3FKa0MwRnE?oc=5"
-      },
-      {
-        "title": "Wyjazd na wiec Nawrockiego i zaskakująca decyzja prokuratora. \"Kpina z podatników\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYjZqMUdjRFZ5NnhJMDNMRURHd1hXYUZqUUJNRm5xT0c2LXN6azFVU1I1OVhUa3k5Rk1YT1lkZGxORWUyOWhRQVduV1otX2kwWUhCcGpqdGlpcU9OWXVGZ19adFlBRjczNEdXb2ZRQVVJcXpVUjZfS1BIa0R2a1laTVppTy1tTXRXRDJ4QzJkTEVkdG5PcUpneUtaVy1Wb2x0Zkxic3hsUEpIZTNPN0pkMVlMOEEwa21mdlhLS3dyRQ?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek w Krakowie. Nie żyje motocyklista - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm1mOU5tWERDQjFWR3VIYjRWWE1XMldvQmk5TktWQ0F3NnlLb2RvUWotYXp1OTVXLURvbnllUnZfVVI3Uml3WWp4YS1MWkNJYW5NRWhZcjNfcUlIODBFSDd3bFZnTHkydXNXRks2VlpBbWUzZHJUeEkwRWZ2ZVpZY1VKZG1BZVZNdG4tYzJBLVdBOXNLS2xTdnZ4cUNiTTU4OGg1dmNWM1ZoTm0zV1Vr?oc=5"
-      },
-      {
-        "title": "Zaczyna się: Policja zatrzymuje auta i kontroluje 3 rzeczy - Dziennik.pl Auto",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVNFRnlHeDQ4OWtqUFFzTjE4cW1iUGFYaWMwQVJ3MGE0dGRVTFVqazhsTDNiVE5ic1RobExEaHNSS25iYmJfbnZmTGVaV29iRzZpODR0ZllNbXdub0JlRERUa0I0alZKSmp2Y1Nfd3MwMzJNc3dxTHVidFZLLUVESkFMYUJtZ1FienpoTE91Wm92TmVYT21SeURScTdpUUF4djZDQWhTOHA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-18 12:12:03",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2575,6 +2523,58 @@
       {
         "title": "Gigantyczna manifestacja przed PE. Rolnicy protestują w Strasburgu - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclBzQ3poQVZudFh4OTIwMkNvYTN3aFRTYUVvTzJXbnJUOXlDb0FVbEg5SncyZWxkeU9uQ2dkdGNmUWlQcU9jbW51RXhIYUp5WDlQQUZKTDZ3amxIQ284Z0w0WTVrbHdrT0NWblMtWTNIcnVRd3RjemppT3h3RXVEczV3eXZBVTlpM3ZINEJMMkVMQlphYmxGajN2VmlTQkNCOGVFZk9ydjVqTUVYb3pQR2M5aG5nandVZDBjRFJxWQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-20 17:27:08",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.6054,
+      "EUR": 4.2279,
+      "GBP": 4.8583,
+      "CHF": 4.5608,
+      "JPY": 0.022858,
+      "AUD": 2.4258,
+      "CAD": 2.6075,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 326010,
+      "DOGECOIN": 0.449591,
+      "ETHEREUM": 10888.88,
+      "LITECOIN": 248.08,
+      "RIPPLE": 6.91
+    },
+    "indices": {
+      "^WIG20": 3268.45,
+      "^WIG30": 4197.23,
+      "^WIG": 3268.45
+    },
+    "news": [
+      {
+        "title": "Zimowa pogoda szybko nie odpuści. Mamy najnowszą prognozę na luty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3NyVWNMalY4S3g1WVdCaUJTejVPYXNDZXF3a1J6MmJIakdmZTM3S2dDOTNieGZDRDZKNjNnNW95NThzb3paV1RxYnJna0NBc21DYWpFdjJCNVZlV2llM0sxbUJQX0pFaDY5bmExcWpmVjluUWVhaVpjSXMxTW80MmFOdndFT21ISjgzTmRrQVJxM2V5TWcyWVRWczVSel9HV0lYOExobG5haTF5S0V6c3hyUlgxS2pWOHBUYmxQbEpBdkdud1kxQnFn?oc=5"
+      },
+      {
+        "title": "\"Bardzo dziwne\". Hiszpania szuka przyczyn katastrofy kolejowej - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlUyVW1ITmhGYmxfbWl1YkxyblJoMnRTbWFSbkdrUjhoMk03cEtUSUlpcWxxXzYzQXdMSTRnVFhYVzQ0bkFhazh2M2hWbkFKdzlxT2d1QnFMX1ZCam54RkdqT05WUDZ2VHFwX0xjYmVkRmtnNXdZLUpNQkZmUUctQzVMX1NUYnlqQXNWdzN5dDZucXhnSV9B?oc=5"
+      },
+      {
+        "title": "Macron o konkurencji ze strony USA: celem jest chęć osłabienia Europy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFlzNFdwRkg4V1ZVcFdsV3R0bWlwaHRfUDg5WjF4M0lXUVZyZTVDUkNveE1mcFZwSDhwYWM5Zm5vODA1NEJ5UjJmSkF4X2xMZjVmdnJYcTBjZ25nYlNOUHQ4eEYzbEZ3ekx5Y1huWGRFV25Fa2Q5SThPY0VfQVJ0Z0xHWk96ZGZBZTFjSGU2cVBrME9EQ29mb3l4Q2ZiV1VDQ1BhMGU3eFB5dElNOXU3MGtIbkFLWFJsOWo5NVFzRDI?oc=5"
+      },
+      {
+        "title": "Komisarz z PiS o kulisach umowy z Mercosurem. \"Trzymałem tę umowę w zamrażarce przez pięć lat\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnllSHB1WXBUT3J2Q3V2bk83QVZjSXQ3eno1eXZ6b1dGNjV2VXp6UnFPQW11bFhaRjZhM0ZCRnNpOUZVaS1EdGJ4YU9jbTVPbS1paldZNUlCZmVFZTVJNTU5VWQ1aWhMTXNtZTRmNUd1bkJwU3c4TUxYWHJJQ1lENV9ldzI4NnRkNjVFRDRyQ0lUcG9ZSGRXbV9IaldzNGNKRkhSdl91QWNqMk16MFhTRUsydFpVb2ZrQURnZWZ1SQ?oc=5"
+      },
+      {
+        "title": "Elektrownia w Czarnobylu odcięta od zasilania. Jest komunikat MAEA - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTF6cHM2SzA3eXRPQTZjbTVGSlhuOHlLOUlOM3FpY0dvN05SZDB5M0ZuNXlZMzBvZ3AxWGd6bHdxVmw3UTdjbkxKS2hlUmM5b25fNGpSQUpramUxTWdCWWhEREhzdFd5YTVJWDF5RHVScjlKNmR6STVVQ3dWdy1PY3Zpb2RheG5xZnBkRVlValhUSDdfYUpjTXRIZ1VxYnRzZGFma1FhYVVyY09UNlNUeTBpTXVkNWo3WW15RDlxalc1UFp5?oc=5"
       }
     ]
   }
