@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18 23:14:22",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -12°C",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.6346,
-      "EUR": 4.2192,
-      "GBP": 4.8692,
-      "CHF": 4.5302,
-      "JPY": 0.022975,
-      "AUD": 2.4358,
-      "CAD": 2.6157,
-      "CNY": 0.5214
-    },
-    "crypto": {
-      "BITCOIN": 348011,
-      "DOGECOIN": 0.501438,
-      "ETHEREUM": 12219.25,
-      "LITECOIN": 273.75,
-      "RIPPLE": 7.51
-    },
-    "indices": {
-      "^WIG20": 3283.42,
-      "^WIG30": 4221.4,
-      "^WIG": 3283.42
-    },
-    "news": [
-      {
-        "title": "Groźny wypadek kolejowy w Hiszpanii. Wykoleiły się dwa pociągi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHprMHRuRnNXSXEydnl6NjBQSkgzYko0UkZsckVYanVoNVVmWFA5aXVkbkdvaTBEWTZkcThPM2gzTENKdTN1RlN5MTZyV1h6M19ZN2VBYnpiNGtRZTJvRkZvNHAwVXdqdFN5b3R0ell1dHo5V1RkeFZ1bTMweEZJTVB2T3JjQWw0SGtseW9xem43ekVfM0pfOWhrdC1DOG95TS1XVzJNVQ?oc=5"
-      },
-      {
-        "title": "Wybory w Polsce 2050. Mocne słowa polityka partii Razem Macieja Koniecznego - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzFqbmNQeGdHeWxGV19Manl4MEI0aVlIMDZjeG9wcDlXY0lKcV9Yd3JTWXZyRVo5Yjg1UEkyWG9EYmxGMWFadWp1NkljUkpkam9LMTBtQ01GZk05MERSdmdFd2FEQXFfVElfVjZoY1k4LVZQcWJDWTdxdlJ6Tmd1OTJ3Vnl0ME1SZWR1V2ZCeko2ME9iNEE3YWZqTEttSmRYYlB0NEI0RXU3XzRpem1NZTBGWW9SVWN0alVWOUhPVUhGQ3Z0?oc=5"
-      },
-      {
-        "title": "Tragiczne informacje z Austrii. Osiem osób zginęło w lawinach - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLU04TGYzVDVFMUJMOElVck5xTkpVRXlKa19SWUdzb05xcHpLdThFaVpDNDVwSGhWSC14Vk9DU0NYVlJTZUNZYUQtNkpDNHlPNldHbHZoal9ieVlwT1dsOGhETTl5MjBnbjlySGhGcERCakdvTmJYXzhncmNVY0pfRDd0REpYc1E5YTN2YWtVVVZ0OWlBdlJDQ21fd0U1cnRSZ0Z2R1pYX3VHZVhuYllUMmRlbWdJZnJDUldCZg?oc=5"
-      },
-      {
-        "title": "Widmo wojny na Pacyfiku? Polacy niepewni przyszłości Tajwanu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzhoTTJaMmp1TDVybW5USERpc3h3MFdMYlB1OXhiT05DTnd4YmpqTVhyTlJkNkYzcWg0ZkJoNzI3bDVXdnhXTHM2TEtpTkJZQUV3VVNGNXRZYmhBSkgzYWRXbFBDazY0VGV3cTI1TmRRMFZsSDN2Vmp0MFNIX1htVldMbHl6Y0pyaDByWURzSnN2NEVhWjMwamxBVkhXeER4ckJJQg?oc=5"
-      },
-      {
-        "title": "Tragedia na Warmii. Wybuch gazu w budynku, jedna osoba nie żyje - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWm03SERDY2M3dDVvc29MZWJzM2tkSTU5cXZ4VUJrM0Nhd1o2WlBhYVhrOTZGV1FXbDJvblN3VGhVWVFNeVRLV1BpM2drN2tuVDBzQmxYX2NqSFVqS3gwUUJYckYyQ2pLNk1lQW9GSlJKQmdlNzFJTnRWbDZNQk1udGl0azkyeDZfVFNXbWVlNWpVNXJ4OWczZENDZ2NTRXJnZjRCaE9GNThYaDFIYXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-19 00:14:07",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Polska w kleszczach silnego mrozu. W środę będzie nawet -20 st. C [POGODA] - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ2FndGk0ZmQtYndMcXUtbmROR2tXQXJSQ3BHUDRZOE1wVll5Uk1mcDVQclJIeDczei1WdzFYdjMxenpwYm1OMXJrNDNWeUVJNmQtZHM1b3JackFjc1ZhcWlRZHpITUNuakxqaDRfX1VqT29TY1lKb0RmTjFNa0hhcVlGWjdSV192OHo1Q0tzQjZ0UjdCYXRRYVd5S0ZBbktmUklvNlZhNDExcVd5RHcxdWxONlBDUUxobWFOQ3hQSVlBSFd0SUR4R2R6Tkl3ZEk4TEdFUFRqYUU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-21 08:22:32",
+    "weather": {
+      "Warsaw": "Warsaw: -12°C",
+      "Kraków": "Krakow: -13°C",
+      "Gdańsk": "Gdansk: -14°C"
+    },
+    "rates": {
+      "USD": 3.6054,
+      "EUR": 4.2279,
+      "GBP": 4.8583,
+      "CHF": 4.5608,
+      "JPY": 0.022858,
+      "AUD": 2.4258,
+      "CAD": 2.6075,
+      "CNY": 0.518
+    },
+    "crypto": {
+      "BITCOIN": 322541,
+      "DOGECOIN": 0.45134,
+      "ETHEREUM": 10711.83,
+      "LITECOIN": 248.41,
+      "RIPPLE": 6.9
+    },
+    "indices": {
+      "^WIG20": 3268.45,
+      "^WIG30": 4197.23,
+      "^WIG": 3268.45
+    },
+    "news": [
+      {
+        "title": "Problemy Air Force One. Samolot z Trumpem musiał zawrócić - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVdJTFVYVHV5UWxmU2J2TE9Zd0F4eVlsUjBweWhnVm5MUTh3SnBPM3dTQ2pfV0tBTmJqdFhKYjN6QktyUC1yaDhEWUlsb0xhOFk4MFdjYU5PQzltWWFxVU9CMV9yLUt0dFF3MzhMaUdLU0hKSGhDcjJvVllQWkZCOENaeVdwZGJ2Wnk0aEZJc2U3VTAwaTZlY01uVmsxMnAz?oc=5"
+      },
+      {
+        "title": "Skandal goni skandal. Co się dzieje z Donaldem Trumpem? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2JlZ0pCWE1Lb0lZU253VGNLdkJvTzRFYmhhSVZzZHpwZDZkSk9GaFVncGRQY2tuMUZtNk1DS2w0LU00Y0daY2RTazBOUUJUakFxQzRLRng2bWZKNWxFQ1VrRVlqc0JVRENfQTFQLVlsZlQxVWVMaDJRTWxNNDdqVW44TkhqYTFZaVMyUURBM1FpZTNSYUxIbnRWQXc?oc=5"
+      },
+      {
+        "title": "Trudna sytuacja w Kijowie. Gorzkie słowa Wołodymyra Zełenskiego. \"Jutro oczekuję listy\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVdwcVBscDlwSVNtcmdSSHZMZzJBRi00V2pyQVpRZGpPdFJhVHQwZkFyZlA4cVhpdXJUZERPelBkN3d2VGZDd2FtNWNvbUczLWRmMkFvcXFXdEZ1SjkyUHgxc0l5cWctaWVnTW0yMk1UMUNyUVNmZ3cyeFNTRUJjVm94RGZjN3BHWllDTHhabkhha3dTNzNXRzBjb3Z5WmdxZUJZ?oc=5"
+      },
+      {
+        "title": "\"Kup flaszkę, zapłać gotówką, weź fakturę na premiera\". Czy ten bunt ma sens? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFQxMDNIaEhQa1N2R3dBS1pjZHNlenVrSTNqNDBycUNTemxudlAxTXprNnB0YzJ6MmVDM29kaEppVlJxYk1fdlgxODg4a2twVTkyeV9acXJXdm03SWJVT01qNzdVMFg0ZkNCUUJrTURES0FEMllHVnZ6cUxLMUVvMTB4T2ZSSE5RVTQ0Wkt0V0xsRGNNNnpqdS0xd2JzQW5MdjBoSV9MX2VTOFQ2SW9JQVJuV2JVWXhVeHFoQ0dBaVBjQU5sLXJWNWFpLUtHUS05M1lUWFpweFZNTG8ybjBNMg?oc=5"
+      },
+      {
+        "title": "Wysłannik Putina spotkał się z delegacją USA. Zabrał głos po rozmowach - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGxZbFZTR1VCVDlOTHZTY1V2VVNQX1RxV2RDazJUVzNscElQaXkyMnhxOXAyMDA0SUYwTWxsdWhfV2dna0RjOElpVDNFdWdjbGVUMGo5M3BfS0tScGx1NGxqR2FNSWdFQXhndUNLUmZFNS1tOGVOb2JkYzFQTGxTbnlXVXc4U0JreVU4ampmcVF5dHZZbTJMWlVnYzMtajJpakEwVnE0RjhXdkwwazhj?oc=5"
       }
     ]
   }
