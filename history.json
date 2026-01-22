@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20 08:22:54",
-    "weather": {
-      "Warsaw": "Warsaw: -13°C",
-      "Kraków": "Krakow: -14°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.6331,
-      "EUR": 4.2231,
-      "GBP": 4.8704,
-      "CHF": 4.5476,
-      "JPY": 0.023004,
-      "AUD": 2.433,
-      "CAD": 2.6163,
-      "CNY": 0.5217
-    },
-    "crypto": {
-      "BITCOIN": 328978,
-      "DOGECOIN": 0.459916,
-      "ETHEREUM": 11280.05,
-      "LITECOIN": 254.31,
-      "RIPPLE": 7.06
-    },
-    "indices": {
-      "^WIG20": 3267.1,
-      "^WIG30": 4198.23,
-      "^WIG": 3267.1
-    },
-    "news": [
-      {
-        "title": "\"Zrobię to na 100 proc.\". Zapytali Trumpa o groźby nałożenia ceł - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGx0ZFpac1Z1R2ZzVHNnaEp2Z1RZem1rUVBGcDVGSkk0cmtiUWlWWEZRUnNPa2VhbV9tVTJXdWtoaVA2dERrNG9zQUxIdm1GTGNqRVpzNEZWeUYwc0luNkw4d3NGc0RQVFlZakJISTNxS0VHNkItelptcGhoNEVaS1ZfOVl0SXVieTh1Z2p1dWtGbFhNZEU4ZW9iNzZTQVR4QkxsM0NTRklWRm50bTJwQ2xkU2k1Zw?oc=5"
-      },
-      {
-        "title": "Działo się w nocy. Zmasowany atak na Ukrainę. Zełenski ostrzegał - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlhPV3pwSjRSMm9HRDY0dURrZnpNekNqTDB6aWNKZUQzNGFESVVzVDljdnBuaFYxYjhzREdlTmEtTUdjSFFuU2xDeTE0TDBrMVhwalA5Rmx6Qy1fRFI3bkhoY0oxRTNsSkRlY0lrTW5iUXlHZWJzNWxONXVGeE5wZWtvT0ZYSzBPSkNYekFVVUpadUtXekFueHFpek5NWnA2R3pTUkpMMG8?oc=5"
-      },
-      {
-        "title": "W tych regonach mróz uderzy dziś z największą siłą. Mamy nową prognozę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUHZBOWdNNGxhVnRnR2drWlc1eGVzVkdrb1FwSTQ3S21Fb2loT0lVVHJhbGVFQ2ZFN2dvVEN3UElQVXRlY09xNmpnMk1FSzdXRHJEMTVnS01Xa2Vfd0FfRTY0QXJnRDVOOG9LTDh4V0t6STgyUzdiSDZoa0lrRlhuZEUzMFppU3U3U0hKQUZ0bzRjMjdoZHNGVThueldiRUtWSngtMzAyRnQ2OXE3UHhmUFdFY2lHbjN2bTJOb2lSYUR5bUJ0X3BrZVBEOGRCSkVCSmRjbQ?oc=5"
-      },
-      {
-        "title": "Po Łukowie grasuje nożownik. Trwa obława - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0Y1UHRvZVdoM292dHZoOV9jaC13alFyVTgyaWExTUhpdFRnSXgwMHZ5eXdOLThDUVVBWDM4c0tJNElMSVBhcXF3TGZPS0dJOFBIQ1ZLOUZ3NElLLTluSE9zZ09McTFZOTNNeFY4VFg2MkU0bk5PazBFZGljUm5ENDU2MGtUU2RNbGt0LU1VU1l6Tk4xbkhtMFdBVFozTU55cEk1cDFqbXpQOVliYzdDd0NaZ3NGNFZldFBpbDFDMER3RV85TUZYcVhB?oc=5"
-      },
-      {
-        "title": "Gigantyczny karambol w USA. Ponad 100 pojazdów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnY0MW9pdEFXQUkybElTOXFkUk9SYl8wcUEzUVNMbXl5MlVCYUE4YVRGRW1yU0RhTjNYVC05NFVQbm1lUy1aNGMtNndUV2s4dmRRWnMyUC0tSGRucktTVmR4Tkd3anM0TGdkZy1QRjhVb3l0NUlZTjM1U2tzb1MtZ0JYb0huTzc4NjlkZklOWllxZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-20 09:23:57",
     "weather": {
       "Warsaw": "Warsaw: -13°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Tragedia w Chełmnie. Media: zatrzymano kominiarza - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEwyRWdqVDVFVGhfOFpkUVkwWGp2UG5IdVlweXlGajFuWmZCRFVFZ2dqUm0zMGczWUZJTjJaMUxkTjRpdnpJZXBsa0pDM2l0QkRiOUtqcEtEX1A2SER0WDdOQWUtOFVwclByLWNvaHFySGRzY3Z3Z0pCWU9wNVRyV1otd0NRMC1VY3c2WmNqN0hlX05R?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-22 15:24:20",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -7°C"
+    },
+    "rates": {
+      "USD": 3.6028,
+      "EUR": 4.2128,
+      "GBP": 4.8434,
+      "CHF": 4.5419,
+      "JPY": 0.022704,
+      "AUD": 2.4505,
+      "CAD": 2.6063,
+      "CNY": 0.5172
+    },
+    "crypto": {
+      "BITCOIN": 321000,
+      "DOGECOIN": 0.449212,
+      "ETHEREUM": 10652.01,
+      "LITECOIN": 245.88,
+      "RIPPLE": 6.92
+    },
+    "indices": {
+      "^WIG20": 3326.66,
+      "^WIG30": 4267.36,
+      "^WIG": 3326.66
+    },
+    "news": [
+      {
+        "title": "Oscary 2026. Poznajemy nominowanych. Możliwy polski akcent - Onet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ04xOWQxNDJWell0TGp1TUstR1QtcUxDN2xxcE95MmpzaVVpaW5taXVvSWJnTnBZTWpCRjV5M0dNRVpUVlAwUjJTT1otSG80Z0dlakhEMWpoT08tTXVCR1ZObjR1OTJlWmhneUY2UHpTYTJyeVAyN2d0VVptNDdoUlZXM3kzUkQwZmNRZFA2cXd6SHNOdXZPUWwyZ3hQYm5MSHFpOA?oc=5"
+      },
+      {
+        "title": "\"Unikaj aktywności na zewnątrz\". Alert RCB w dziewięciu województwach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVFkd2tUdkRsVlVEUldic1JiRVdYNmpRdGxsSUlMcE9HbW9ybDhaZ2RfbEJIWGZTcDFGSS1fTWtfV0JVSE1sUnU4V2FHcm9yRGR1U19xN2lIYWVYZHhpVlVkYVdOY25ibk9uY0oxc3YzbGVfWEZjRGpJSk92UzhKTFJaTFJyVEZELVBqUV8tQmhnUnVGd0Z0a2xoNUd1VEpGWDk3SEhNckFhQjF2c0E?oc=5"
+      },
+      {
+        "title": "Andrzej Duda ma nowy biznes. Otworzył go z żoną. Tym będą się teraz zajmować - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXZqZ3NSTjNNWWxSb2lrTklBSE9MR1lVSGNaTGRSMzFMTnc0bVh6NXhZZUZ4aERkcUMxVnlUelRYMVlaQ1FReEJRalRzM2FUaUtMdkw3ZW9yWHJUbHFJVDRWMXhpbUxESENiOEh3MDhGMnNBc05ZZ0lWVVVCMmFIMmlvVUNlNEV6T0UxaHBiVVExdEsxb2hKU3I3bzk?oc=5"
+      },
+      {
+        "title": "Tragedia w Chełmnie. Media: zatrzymano kominiarza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEwyRWdqVDVFVGhfOFpkUVkwWGp2UG5IdVlweXlGajFuWmZCRFVFZ2dqUm0zMGczWUZJTjJaMUxkTjRpdnpJZXBsa0pDM2l0QkRiOUtqcEtEX1A2SER0WDdOQWUtOFVwclByLWNvaHFySGRzY3Z3Z0pCWU9wNVRyV1otd0NRMC1VY3c2WmNqN0hlX05R?oc=5"
+      },
+      {
+        "title": "Zmiany w dokumentach po wyroku ws. małżeństw. Gawkowski o terminie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU43a0dZemtWdWplQzdURDZlN05kVWNpNFhoQmI3Z25tb0w1VVNxN1REdDdRdVFMUXEtdmZZM0ZfNTBvXzh0Z1BzRV91Y2FYLU1ONFFKVnR4NHhPckpNQ1FBZ0dZYW5ldjd4eDhiYVZZSFJERC1aeXdPV194M3ROM2dNMjVLd3JLd3ExU2dZOGdQUWs3bTRDU25KM2g1WC1PVGdLSzVReUszbVV1bjJ4M256SXRCQmpKejlZ?oc=5"
       }
     ]
   }
