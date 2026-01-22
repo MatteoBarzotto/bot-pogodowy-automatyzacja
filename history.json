@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20 12:18:45",
-    "weather": {
-      "Warsaw": "Warsaw: -6°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6054,
-      "EUR": 4.2279,
-      "GBP": 4.8583,
-      "CHF": 4.5608,
-      "JPY": 0.022858,
-      "AUD": 2.4258,
-      "CAD": 2.6075,
-      "CNY": 0.518
-    },
-    "crypto": {
-      "BITCOIN": 329312,
-      "DOGECOIN": 0.453238,
-      "ETHEREUM": 11206.72,
-      "LITECOIN": 251.06,
-      "RIPPLE": 6.98
-    },
-    "indices": {
-      "^WIG20": 3230.47,
-      "^WIG30": 4147.11,
-      "^WIG": 3230.47
-    },
-    "news": [
-      {
-        "title": "Działo się w nocy. Zmasowany atak na Ukrainę. Zełenski ostrzegał - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlhPV3pwSjRSMm9HRDY0dURrZnpNekNqTDB6aWNKZUQzNGFESVVzVDljdnBuaFYxYjhzREdlTmEtTUdjSFFuU2xDeTE0TDBrMVhwalA5Rmx6Qy1fRFI3bkhoY0oxRTNsSkRlY0lrTW5iUXlHZWJzNWxONXVGeE5wZWtvT0ZYSzBPSkNYekFVVUpadUtXekFueHFpek5NWnA2R3pTUkpMMG8?oc=5"
-      },
-      {
-        "title": "Pierwsze sygnały, że ruch Trumpa się sypie. Przełomowy moment nastąpi za kilka miesięcy? - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndIeGxhWFg2X3NzRDYzczlVeUloUEpianI3T1ZnNEhiNVQ0NkUzZlF0T2hVbWhzZUM0RVV5bmtVU1hoSllHdmZZeVlmVnRqampkeGJXSnoxRlFoeWdTbHViQ0FEaW9EZHA3TjJZRTRaZU9Lb2xTZlR1MlZSTUFQXzZOaHBnTGgxTG50UzFNcTFaNVRQN0VYX2RYQ1pHM3hCaWFaYkJtZzVxdGx0Um5oWTVxNXYwUQ?oc=5"
-      },
-      {
-        "title": "To miasto jest dziś czarnymi płucami Polski. Smogowy alert, darmowa komunikacja - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYU16RnlKbkxUdUs3OUZnYWJRS1NmRmpVS1I0S3JlQzZtdjZEc2JUUTRXR3E5dEo3TUF6YUU3Xzl2Tlo5LWFHaThhclBXWkpqZlMzVTJmV0lmNUwybXd6Z3g5a2RSNWdVdGpEaUR4eGhLLXNTZVpvQmhOTjhTMmlKb0dRTlUxZjd3MkI4cGpSQ2I0X3JrZER3QzRvWFJHRFBYR3ZMLXE2RVlPVTlFZ2hzaXlUaw?oc=5"
-      },
-      {
-        "title": "Alarmy w Ukrainie. Polska zamknęła czasowo dwa lotniska - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVRXaXJnOS1hT1l4Y0psYm5DQzRuWFNRbjYwbDNwMi01N0VIbFdLWlpoeTBsNWtwaUZ0ZnhUNHpDUHFDeXNxM3BubHB6ZnBfaUJ5cng3SDhmYzBPampFY3VUcUZkUTdBY1NOd2xPVzdnYS1qZE14YnV0QVJuaUFmYzN0RjVJaC13aVdvVlBTY3pMZ0k?oc=5"
-      },
-      {
-        "title": "Zimowa pogoda szybko nie odpuści. Mamy najnowszą prognozę na luty - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3NyVWNMalY4S3g1WVdCaUJTejVPYXNDZXF3a1J6MmJIakdmZTM3S2dDOTNieGZDRDZKNjNnNW95NThzb3paV1RxYnJna0NBc21DYWpFdjJCNVZlV2llM0sxbUJQX0pFaDY5bmExcWpmVjluUWVhaVpjSXMxTW80MmFOdndFT21ISjgzTmRrQVJxM2V5TWcyWVRWczVSel9HV0lYOExobG5haTF5S0V6c3hyUlgxS2pWOHBUYmxQbEpBdkdud1kxQnFn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-20 13:36:54",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Andrzej Duda ma nowy biznes. Otworzył go z żoną. Tym będą się teraz zajmować - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXZqZ3NSTjNNWWxSb2lrTklBSE9MR1lVSGNaTGRSMzFMTnc0bVh6NXhZZUZ4aERkcUMxVnlUelRYMVlaQ1FReEJRalRzM2FUaUtMdkw3ZW9yWHJUbHFJVDRWMXhpbUxESENiOEh3MDhGMnNBc05ZZ0lWVVVCMmFIMmlvVUNlNEV6T0UxaHBiVVExdEsxb2hKU3I3bzk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-22 19:23:52",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6028,
+      "EUR": 4.2128,
+      "GBP": 4.8434,
+      "CHF": 4.5419,
+      "JPY": 0.022704,
+      "AUD": 2.4505,
+      "CAD": 2.6063,
+      "CNY": 0.5172
+    },
+    "crypto": {
+      "BITCOIN": 320284,
+      "DOGECOIN": 0.446528,
+      "ETHEREUM": 10593.98,
+      "LITECOIN": 244.18,
+      "RIPPLE": 6.89
+    },
+    "indices": {
+      "^WIG20": 3341.95,
+      "^WIG30": 4287.47,
+      "^WIG": 3341.95
+    },
+    "news": [
+      {
+        "title": "Pełczyńska-Nałęcz pisze do działaczy: \"za chwilę z Polski 2050 nie zostanie cegła na cegle\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTZ3OW1ScXBVeUhlZEt5REdqUHV4eGpNclFXVXRsb3dkdERlNDNueEV1UHVVMkpON3MtWXZrMDlLWW5xWl93RS1CYmpHWXpNRkpIbzNGbDRDcENYOGExWGt3cklFcXNIZjk3aWgtdmNFTDZ5SzRGbGFHNnotbFpNd2hoODBsTVg5SHAwd1FMYUliVGRhODNXSHdOdzUza1hDNzdodHRTVGsxRDlsdWM2QThZUXQwTkZjU1AyOTdXMVhCNkpVZ1VSQWR3SQ?oc=5"
+      },
+      {
+        "title": "Między wolnoamerykanką a polskim sukcesem. Elity zaczynają rozumieć znaczenie Polski [WYWIAD] - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWc1NDBDZmRtV3NFakVvOENIZW44VzdjRzAybGJrSUVCYWI3QTdKTUc3VjVfYWtUUmV0ZUEzWGZYbGZDMS1uSjZVTXZhRUFUOFBZVjZUVU1kUVRfclpQdmJmek9PaVUtSXkybmNGZ1BHNDc0OVlldzVLNW9IYnZmVm9ycnlKZ0xHVnhucWlWU0ItYzVDYldxNjEycmNXcG5QbEJVY2hNR2hlYUFkbU95cmFUQTZhUjR1Qlg3QWxKR0xXY3Q2VjBlUURQeWtuR2tFczJmNGUzNmhJOE1Jdmc?oc=5"
+      },
+      {
+        "title": "Śmierć 3-letniej Emilki z Siedlec. Obrona wnioskuje o złagodzenie kary dla matki - o2",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFlQcGliZ2l6bGxoTFlNLXNQWGJYV2trd085Wkd3c3RhR3RTZlRJakY3RVBiR0FORXNZU2JUTnhlQVR3UWN6U0o4TXc0bUctRW1NcmF6V3JfOWlKMkNKMUkzc1BYdnp0dnJvZEpIN2NQcnktU01CVGdRdEwzbDVadzRIMEpHeTBxUDk5RGpjZlZOQTBjNGJlLWJXNlQyLWlQVklHU0owVW1yMTBOWjNCOWRiSFZjMlZjdGRWdzJhN25OT3Qy?oc=5"
+      },
+      {
+        "title": "Nowy obowiązek dla wszystkich firm. Skarbówka rusza ze specjalną akcją - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmQ5QjV1TU1ka2IxaDVudHBwczZtbEZ3SlctRWdzcUJjcFZ3cmhfTldvWkJZNVpkYWxFME1CQUVFdlZWM0RHYTZ1TGRtUW5FOHAyQUJmODBVZk5saGpOWUJpVXFaREVBVnJQaldUQnQ5TmdWRzNXUDliV1d6enNsWURFVngweGc0aHU3SEZGY0RhNUlLVmpiN3hjRXo3YmZLZU0yYUJMU2dwRHFwYkdkV3REYThReWN6eHJ6Zkc5Yms4Zw?oc=5"
+      },
+      {
+        "title": "\"Unikaj aktywności na zewnątrz\". Alerty RCB dla dziewięciu województw - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEdhZi1kbmxXTFZJZXVJazhibENacDFrUUM2RERUa2E0QnRRSjFVcmdDSTR3c3QxNGFxdkVRdTFTc05zMlItczJWdXJvSXlsTnN0V2hYSEZTYm5TOVgwR3N4RnA2U25wc2ZXOFUzMGhpQ05JYUluQ2hxVmktZnA1ejdjU0FfdXUxUFlhNFpXOEZ0NWs5RHlXTllvTTVCTmdBTkdxTUhFc1FRRjRDVzIzcVlUOWlOQTlKaTNoYWtR?oc=5"
       }
     ]
   }
