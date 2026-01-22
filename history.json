@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20 16:24:35",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.6054,
-      "EUR": 4.2279,
-      "GBP": 4.8583,
-      "CHF": 4.5608,
-      "JPY": 0.022858,
-      "AUD": 2.4258,
-      "CAD": 2.6075,
-      "CNY": 0.518
-    },
-    "crypto": {
-      "BITCOIN": 325855,
-      "DOGECOIN": 0.451708,
-      "ETHEREUM": 10894.92,
-      "LITECOIN": 249.26,
-      "RIPPLE": 6.94
-    },
-    "indices": {
-      "^WIG20": 3247.38,
-      "^WIG30": 4169.48,
-      "^WIG": 3247.38
-    },
-    "news": [
-      {
-        "title": "Ziobro postawiony przed sądem? Polacy ocenili działania rządu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTdDMEpwRU9kSi1ZOU9fTkotWEZCUE1oXzBJQzMtb1JXaHBtSXllMERXRkNRNndjbk1iSTlveUlPcWYtR2FyU1lEejI2aFVnTjNaQ2hnSjBUNkNlNGExbG1YZDQ0VzRoSGhQZEVNbk9lRlBCY0VYYnFiWWxPcm5tRVFfYl94VGdBcjBVZUJscTU5VkFvU3REZWtvNlVQdXBFRWxrWEdSOWNEbFQz?oc=5"
-      },
-      {
-        "title": "Zmiany w radzie nadzorczej miedziowego giganta - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlFCTDFINUc1bnBDVURGdEw4dGRFYVhZenkwOWFTMGFCNlRCTnh4amdHdWZudDRHYlR3ZGl2SlhIQ0s4NkNNdjhFa1RiUWZJblA5Uk50d3B2ZVdzYU5JMTQxU1R0Zm0tOVVTekMzelZvZ0lMeXNXZWdVZjZRQlQya2xKLXE2RFU2cjF4WUFxMm82LW1aVDY0TkFfVWhyWUlfd3Jz?oc=5"
-      },
-      {
-        "title": "Zimowa pogoda szybko nie odpuści. Mamy najnowszą prognozę na luty - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3NyVWNMalY4S3g1WVdCaUJTejVPYXNDZXF3a1J6MmJIakdmZTM3S2dDOTNieGZDRDZKNjNnNW95NThzb3paV1RxYnJna0NBc21DYWpFdjJCNVZlV2llM0sxbUJQX0pFaDY5bmExcWpmVjluUWVhaVpjSXMxTW80MmFOdndFT21ISjgzTmRrQVJxM2V5TWcyWVRWczVSel9HV0lYOExobG5haTF5S0V6c3hyUlgxS2pWOHBUYmxQbEpBdkdud1kxQnFn?oc=5"
-      },
-      {
-        "title": "Niemiecka gazeta o Polsce: nowa potęga na wschodzie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnhYY05KdzJrbFFiekhQbmdHYzF4WGpsdS1Xb1U3SWpSdHp5WmJ3LXBETURlMkFfUFNhbFBhbWV5cWlnVDI0Z2RGSGdQRWg3UHBxT1gzQTktUGdhX01ONDlHVl9VYktsTUJiNThFbnlmX2xRZ2dqLVNJRGxoSUhTRl95MjhwVmNLRTdyYlU1T3FvcGZCeHVWR2VKejVhTG9qdTFrTGpfU1FQdnFucEFhTzMxNA?oc=5"
-      },
-      {
-        "title": "Gigantyczna manifestacja przed PE. Rolnicy protestują w Strasburgu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclBzQ3poQVZudFh4OTIwMkNvYTN3aFRTYUVvTzJXbnJUOXlDb0FVbEg5SncyZWxkeU9uQ2dkdGNmUWlQcU9jbW51RXhIYUp5WDlQQUZKTDZ3amxIQ284Z0w0WTVrbHdrT0NWblMtWTNIcnVRd3RjemppT3h3RXVEczV3eXZBVTlpM3ZINEJMMkVMQlphYmxGajN2VmlTQkNCOGVFZk9ydjVqTUVYb3pQR2M5aG5nandVZDBjRFJxWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-20 17:27:08",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nocny horror w Krakowie. Próbował zabić 13-latkę - Onet",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFNHVlozMm5WTmp2ZkRXUEU1eTdyaVpCQlFNTWtGRUNJX05wNllyMV9hZjJ3YlllcXZ0cFNpOGNSZGlucXdCRW8wVVQ1OU9xUWpETFpRZmtTUTNPa1pPYkVkbEY0Y0JfeUs4c01qOEZjd21SMDl4UWNRMUpXbXJHenRlbHNzZ0dQdHhsWm1WQTJQanBjU1FmeUZiNzdwU1lRSEZTM2dKcG85ZUQw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-22 23:16:56",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -13°C"
+    },
+    "rates": {
+      "USD": 3.6028,
+      "EUR": 4.2128,
+      "GBP": 4.8434,
+      "CHF": 4.5419,
+      "JPY": 0.022704,
+      "AUD": 2.4505,
+      "CAD": 2.6063,
+      "CNY": 0.5172
+    },
+    "crypto": {
+      "BITCOIN": 319346,
+      "DOGECOIN": 0.442984,
+      "ETHEREUM": 10537.25,
+      "LITECOIN": 242.62,
+      "RIPPLE": 6.88
+    },
+    "indices": {
+      "^WIG20": 3341.95,
+      "^WIG30": 4287.47,
+      "^WIG": 3341.95
+    },
+    "news": [
+      {
+        "title": "Silny wstrząs w Małopolsce. \"Całe domy się trzęsły\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTJsRWxBM2JsbThCN2NLZzRsYm44ZVN5Z3ZqTzQycGx1cFpjbVJuXzMtQWQ1dmlBWFJSWFU4T3ZvTFB1Q3hPRTNKaTUtVnY1MUZRQjZSNi1GYTkyVHJNNEV1VlJZdkpNbUUyRVNCMFV4a1JTYnVYMWc5bWdyOGxmaXpJLTFrR1hBLS1OMjhhZmFVQ1g5?oc=5"
+      },
+      {
+        "title": "\"Każdy dostanie to, na co zasługuje\". Viktor Orban uderza w Wołodymyra Zełenskiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1lpdlF3NWlsR3ZMVTI5MUZ1M2QzSDVQX2FCdUNMbXFmYXI4Y3FkV3VrTXlheXZMSkw4YkVFOEt2ampyekpFWXZtSDFaUWg2WVNIdlY5elgxcTA1YkFyOVRwSV9EZlVLY2x4OU0xZFVtWGtjYTlMSzA0eWMxeTl1UXVfQXJEWnctNEplQ21FQk12LTV4YjVENjRkdGFfelg4aHhpSXlXUEJ3d2lCMHduYWhLUjh6bXZ2dWRFVW9FWkhFa0J2TWxiYnkwbG1tQQ?oc=5"
+      },
+      {
+        "title": "\"Bardzo ciekawa formuła\". Znamy szczegóły spotkania Nawrocki-Zełenski - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlFXWWRYMFhNdDdKRVU5blJ6R21WN1FLc0o1QWNaaEJoUjlyeVdCOVhrLVgzZUdMRnRONUFvWm8wQlM4SFQ1NHBWRC1ocFZ1elkzOUdUUjZIR0duUTdPb2ZnQnlVekhBZEIxUnJ6THkzUWlJbk9sRVE5ckFQeW43TGtmZU42Sk5rZTFXN1hWTlY0d0RoTnZuQXNuNUVGM2RPMWpXelFpZFVUVklxdHpFWkhSRQ?oc=5"
+      },
+      {
+        "title": "Działacz PO prezesem w spółce-córce Orlenu. Był bohaterem afery w stolicy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWERtTkdRVHRFcnhUYXhjMHVpbmxQODI3WGpyTnhtblpkV3pINzZMWjVnc3pKeEw3WmFPOWNQRGNOQ0lWUlpUXzdQYnZiVlZIUFNDa3JhMzEzRU56dTdzWEg1N1kyU0NfdlM2aVAybXFQcjZTT1pKYnk5RjNkd2d4OExkMEJDLWhld1RDT3Zwa3pQUkRqVW9peXpIUWN3NjBiamFiS01SeFN4cXRBbWhtdE8tTEFSZw?oc=5"
+      },
+      {
+        "title": "Dramatyczny wypadek na Szembeka. Ranni w szpitalach, lekarze walczą o zdrowie poszkodowanych - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREhwUEh2aURheDNkUHVqd3c5UklpaF9PbGxweE9uLVg5cFBVY1lhOG1zQjAwbFJJaTFVSm16c3JYQ0lDMGdNQnVBRmZuLWJ6UjFwRFZnTmhKU3N1WVUySW5WeEk4a2tlLVVjZGJrMHB3MVpxUWVrUUdtVUNXMUw5aktPaG91bVBaQnNpUW4xVEFPY1dycFd4UnFJRl85Ynk5c1NqS2trVHU0ZC1QUGU2RFpzUEQ0UQ?oc=5"
       }
     ]
   }
