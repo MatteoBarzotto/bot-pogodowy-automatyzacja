@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-21 17:34:04",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.6118,
-      "EUR": 4.2271,
-      "GBP": 4.8434,
-      "CHF": 4.5553,
-      "JPY": 0.022858,
-      "AUD": 2.4369,
-      "CAD": 2.6096,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 321901,
-      "DOGECOIN": 0.448478,
-      "ETHEREUM": 10645.74,
-      "LITECOIN": 246.83,
-      "RIPPLE": 6.97
-    },
-    "indices": {
-      "^WIG20": 3262.89,
-      "^WIG30": 4189.97,
-      "^WIG": 3262.89
-    },
-    "news": [
-      {
-        "title": "Ludzie uciekają z Kijowa. Exodus objął już 600 tys. osób - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWW1vR3M4VURIV0hXXzNub1dhV3ZTYnRQRWpRRF9HMGZ6TWZtcVpvVVdSc3VjM1ktQ0N5czlNVl93TXRUUWE4cGRKd0U3cG81SVJZcW1qbkdDS2RFazdiRjlwU2dybFZiV3hoRk5vN1FKdlpKWE1PZERKcjVZTnc1LTZGWVdRN01ITUdXNUZxc0FBc0Z3LUZlcGhkUkxjQQ?oc=5"
-      },
-      {
-        "title": "Te memy na Dzień Babci podbijają sieć. Uśmiech gwarantowany - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVljT2lmQnY2T2kzeTJDN1JrMnVveGhvUkQwVEZGU2RiaUFoUEs0MlNXTDl5bGxObnd2NmFmcmMxUndCUUhDNXFBaEVBOGhETWFDOV9OQnlsb2gzWUpUZGlpSjljNnNSNEFrUElsTy0xZ05keTQtWHg4MVJHa2RWenZKUExlaU4ySXduaUxQNl92UUF6b2lEeEhXajhCMWtqb1dwUko2YXFGUTJ1RDBodVFCdkE?oc=5"
-      },
-      {
-        "title": "Żurek apeluje do Nawrockiego. \"Chciałbym, aby się pochylił\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBXYnZDUDJtT0F0blI0aEF1d2xzYlZrb0EtbE13Q0VfcUQ4a1laVHhvSFdCREE4Z1EtRUxPZU9udUYwa0I4Wl8wT3JUTFVPNDc1cmRPaHFzbS1tTmVVQ3ItQTZhVXU2VHRpYUVjQVp6RVJRSDAyampCSlljNlVvNDdGQlAwa1BhbGNxOXZSWmFvNDNUc2VkM2RwRDdGM2M?oc=5"
-      },
-      {
-        "title": "\"Leczenie skierowaniem\". Ekspertka ujawnia patologię. Mówi, co robią lekarze - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3A2amNNM3BxMWJCU3BCTVlWN3BwbmF3UHp6WllxUHJXczd4OHFjME9VYXVkMmtJVkNmMFBCSVQzbC1zTUZueG1MMEFNMmo3QTUwdHl3WTh1d1I5TVJyZzdrel9DaTlGNHNHRTFJVUtCakFKU0RiTnBLNDRVTFdSWGdCM3Fxc2tVYzlVSWZJUmNybFMtRHZqazhYWmhoYWhYRVVGWlVsUXI4Q2VXOUp0S2VDbmZTeEtiWEx4VDFWelYwR3Zt?oc=5"
-      },
-      {
-        "title": "Prom Jantar Unity rozpoczął pierwszy rejs do Szwecji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVURJYzRUa21Va0JhY19ELWdqZnY3Mm8wSFdhcnZvVmc4WGhPU1NWamJ3dnI3Mmh3eTFCSjFjVXlFWGo1dFBqb2hfNENjVHR4b3RabGpqY2FOXzRDa2swbHBBeEVfdVk4dHdWVUZiVl90OWZzYXZUcnJyaHhDdF9rYWlkbjE1UDU2dW9YdjlvallmS3VMRVZVaTFqOF95clNJMHlpWkd6Y2Z2Y0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-21 18:49:31",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Śmiertelny wypadek na DK9. Doszło do czołowego zderzenia - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUk5Ib2x6M2FreXhfdGVFLTRYYUs3TjVPbzFjMXVmcTBudjItYWpTSEF3by1fTDVtVDZybU9QYjlSWkZUSWdlcUtvV1J1TDMwSE5iZEM2eUZTYnJNT2pmSFBHbTJSckpDZ1hKc3hqenVqX1lUY0J1bm1lTTZaaUphNTVsRzV5a29CUW13OFhkRGFsUjdyWEpaN0h0YXBBcUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-23 23:13:26",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 318712,
+      "DOGECOIN": 0.442905,
+      "ETHEREUM": 10502.41,
+      "LITECOIN": 240.64,
+      "RIPPLE": 6.84
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Sejm zdecydował w sprawie kryptoaktywów. Jest decyzja - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEFRZlZ3MHRTZ2dJc3d3OXFHVFFGMkJ3dzU1dVZiLUZXaEZxekstalBHTTFiSlltSkJSZWFRTEcwM1RqTDFMTy1kT0o0RGlHWGtLYWY1UHcxMmVWQV9kaUY4S0xvYVlrdnliZFp4SzFoNXlQT2ViOEhyLVpwZW9Ja0RBUnc5MXNhb3VidUxHejV2d3NpRDVUMg?oc=5"
+      },
+      {
+        "title": "W USA idzie pogodowy armageddon. Trump grzmi - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0JwWlVKUlFJampYMVIyTGhGS254VUZXNFZZVmdwS0JoRkFaU21YSUNJN1M2SGctWm9Dc3FMZ2EtQldtSFZfdTRXQURQQVhaVVBIWTdyLXNpZk1WTmZlQVNuVldPMDZPWXQ3WlZhWkdaejhnQWkyejZPRlE2bkhzQW0yQnBiWEE0QVFYVFg2MA?oc=5"
+      },
+      {
+        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
+      },
+      {
+        "title": "\"W pana domu umiera osoba\". W kolejnym SMS-ie był filmik z młodą dziewczyną. Szczegóły przerażają - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1NvTGh6bV9Jc29TRnB5bkRVcW0zM1Z5NTVPS3NvcEVmVVk2bllvbWpNc3duWTlINjBoZUt3MmNjU0o1WmhxSWVfS3dWSU1hdGxNRkIzb2NwSExzRmlVdVJZcWhYV1BNMVFja09ELXNjNjZieVZLNnVzSkZVMjlUSjZVUnVuMmt0aXIxRUF5ODRDSjRCUkNfT1UzS3VRc19ISGl2TV9DaU5lSXEzVGFhWnFoT2czQW5NYncyUmtKTQ?oc=5"
+      },
+      {
+        "title": "Amerykańscy żołnierze upokorzeni przez Finów. \"The Times\" zdradza kulisy manewrów - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEE2WmQxWDZJVlBWZHRLaE1rR1lUaUdwS0lHV3BjX1FCRTFnd3J0QWVhaGZyRWJ2aTBmMXh3anZiR1Z4UjA3a3NmMU5KWGF3OEp1aFBfMWpmMXd1TnBmNkVHRVFjcjRFX0Y5aTBaeTI3dFdNbjM2WnpLMW1EQkZTSzFNa0NuRmhicFpMSzB1d3hPSDhjV1dnSjY3NUMzbmFJWm8teXQtQWhDdHFUazNncENxMW5yd09yUlE?oc=5"
       }
     ]
   }
