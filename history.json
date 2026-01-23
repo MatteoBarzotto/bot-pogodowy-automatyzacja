@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-21 02:16:30",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -13°C"
-    },
-    "rates": {
-      "USD": 3.6054,
-      "EUR": 4.2279,
-      "GBP": 4.8583,
-      "CHF": 4.5608,
-      "JPY": 0.022858,
-      "AUD": 2.4258,
-      "CAD": 2.6075,
-      "CNY": 0.518
-    },
-    "crypto": {
-      "BITCOIN": 320421,
-      "DOGECOIN": 0.451549,
-      "ETHEREUM": 10681.84,
-      "LITECOIN": 245.96,
-      "RIPPLE": 6.88
-    },
-    "indices": {
-      "^WIG20": 3268.45,
-      "^WIG30": 4197.23,
-      "^WIG": 3268.45
-    },
-    "news": [
-      {
-        "title": "Wykoleił się pociąg Polregio. \"Nikomu nic się nie stało\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlh1eHNtczRrVnVnajRFa0JYMS1jTll3YzhtYlZRREtnZ1lra3JoLXJzdWhsbmJlQ1VORkdGYVZXRlEycFRqV3JhMzlvemN0ZWIyOHFPc0JQa2VwZjZrTFBrS1VJUlV3SFJreTJ3TXhReXIxam9nblVyWWt4X0NyN3pCY2N0c282OXlQNGhhOVRNUkdhOTFKZ1pDRzQ?oc=5"
-      },
-      {
-        "title": "Wysłannik Putina spotkał się z delegacją USA. Zabrał głos po rozmowach - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGxZbFZTR1VCVDlOTHZTY1V2VVNQX1RxV2RDazJUVzNscElQaXkyMnhxOXAyMDA0SUYwTWxsdWhfV2dna0RjOElpVDNFdWdjbGVUMGo5M3BfS0tScGx1NGxqR2FNSWdFQXhndUNLUmZFNS1tOGVOb2JkYzFQTGxTbnlXVXc4U0JreVU4ampmcVF5dHZZbTJMWlVnYzMtajJpakEwVnE0RjhXdkwwazhj?oc=5"
-      },
-      {
-        "title": "Kazimierz Marcinkiewicz usłyszał wyrok w sprawie alimentów. Zaczął przepraszać - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWFFTlh0WEd6UGxiMklqWlNaN3FnbW8zTGUxeXdfN3JEMHNPTkowWW5jbnRON0U0elZKMWNNS0ZWdlhHcTNJeXRyQk05eEh5VHJpSllscl9HZl9ueW1UQkl6cEZLZmpkVkh1M1ZPQ3JoXzRPWjhkYldQTmRGbTZ4ck5jRURiRExfS25fYlVPMXNRTXJqRVRZOGFnSE8wejc1a2FaZG9jbW1WVVJtdkhr?oc=5"
-      },
-      {
-        "title": "UE ma sposób na Trumpa? \"Nic nie drażni go bardziej\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORER2a2VzNE5JM1pjRUpsZlA3ZGpFOEZOLWstdWxQUU1FQXF2Q2s2dS11LVN6U1ZtdGNYb0E0LXV6MllFM1prRlg3YkVLLXYzWGs3ZlZsUk10bl9BMmxvOTRMQmVTcEF5ZzhTelFLU1pVTU1xbEZPZDk0Y21GTDJFRy1LTnpXNHcyZlFDQ1lEOWU1aEk4ZFVWVFNKRFY5dmh2Zlk1ZzUyVnE0Ykl1STBOREE2VkNrdWZvZkNLZ0NJbUo?oc=5"
-      },
-      {
-        "title": "Gigantyczna manifestacja przed PE. Rolnicy protestują w Strasburgu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclBzQ3poQVZudFh4OTIwMkNvYTN3aFRTYUVvTzJXbnJUOXlDb0FVbEg5SncyZWxkeU9uQ2dkdGNmUWlQcU9jbW51RXhIYUp5WDlQQUZKTDZ3amxIQ284Z0w0WTVrbHdrT0NWblMtWTNIcnVRd3RjemppT3h3RXVEczV3eXZBVTlpM3ZINEJMMkVMQlphYmxGajN2VmlTQkNCOGVFZk9ydjVqTUVYb3pQR2M5aG5nandVZDBjRFJxWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-21 04:28:12",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nowy obowiązek dla wszystkich firm. Skarbówka rusza ze specjalną akcją - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmQ5QjV1TU1ka2IxaDVudHBwczZtbEZ3SlctRWdzcUJjcFZ3cmhfTldvWkJZNVpkYWxFME1CQUVFdlZWM0RHYTZ1TGRtUW5FOHAyQUJmODBVZk5saGpOWUJpVXFaREVBVnJQaldUQnQ5TmdWRzNXUDliV1d6enNsWURFVngweGc0aHU3SEZGY0RhNUlLVmpiN3hjRXo3YmZLZU0yYUJMU2dwRHFwYkdkV3REYThReWN6eHJ6Zkc5Yms4Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-23 09:22:22",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.6028,
+      "EUR": 4.2128,
+      "GBP": 4.8434,
+      "CHF": 4.5419,
+      "JPY": 0.022704,
+      "AUD": 2.4505,
+      "CAD": 2.6063,
+      "CNY": 0.5172
+    },
+    "crypto": {
+      "BITCOIN": 320359,
+      "DOGECOIN": 0.448182,
+      "ETHEREUM": 10531.97,
+      "LITECOIN": 246.06,
+      "RIPPLE": 6.84
+    },
+    "indices": {
+      "^WIG20": 3321.33,
+      "^WIG30": 4263.45,
+      "^WIG": 3321.33
+    },
+    "news": [
+      {
+        "title": "Działo się w nocy. Delegacja Trumpa u Putina na rozmowach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk5FbzFOZTFJSVpsSlNoQmE5c0ZvVXcxMU85RFdKQTlvTkdhbjNwMndfSVBLMHRVNDgtblJEX1NIWk1sdXpiWmJDUFh1TU1RR0o0S0hNQzJZOFhDZXIzNkZuUDlrOVJmTGtDMFlCLThtcDlRQThXSnY5SE9PZmlNc0R3LWNSemRlalJTeUdsTVB0RTdTWmNCelh2M0ltODVh?oc=5"
+      },
+      {
+        "title": "\"Jest trudny emocjonalnie\". Jak pracuje się z Tuskiem - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1lXdEhiV3Jmc1ZBblBmVWlseFhneENacW1lRG1TQXlWVUlfMXFVME1feDIwTUYxZWRhb3hzWTdES2Frek00Qk81SEw4NGhJSVNGT1pUVHFwLVpFbms2UWpYQ3ZWTmpWYklxTVV1YUdIdXFpZzg3WWN6T1ZBYWo0SU0zX3c4MnlmUjdwODhPaG9oMHo5U01qRURSTUt0dEZscTJz?oc=5"
+      },
+      {
+        "title": "\"Obserwujemy ich\". Flota USA kieruje się w stronę Iranu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTZmbUNadHB5TVpGODVjQ083Y052dEZwbWczMy1nbjhRYWpKYUgxSGZVdmItTHZYbVNrYnVhQlN5aXpKWEN0VVFremMzVmtZNzgtYmtPTm41eldXQS1SWWp0aEhfTmlmMzJDVENQeWNOOWFqbmhIS2RoMkItRzJKT2tpRFdwU3NTdWJmUW5MQzUyX1haWmFZcFpQbw?oc=5"
+      },
+      {
+        "title": "Ćwiczyli przy minus 34 stopniach. Kilkudziesięciu poborowych z odmrożeniami - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnZPX2tsZUx5RTZvbjZ0TzlCSHpqUmxidjgwdTZrZnJXaFBUYmRMVHIyMjJGR3J3VHdRbXlIU19rZFZCQ0Z0S0I0MGI5eDFKRDdSSDZleFpHRTFCenowMVVyd2hYMHZrbl9LYW1ZelhsZEpUVEFIZGpoVWJOSUphTzAwcGVaQmtoYi1nbURVTGszSWJpS181TVFwZWUxZ3dTc2RRTV9DbmlNUFl4OWNj?oc=5"
+      },
+      {
+        "title": "\"Bardzo ciekawa formuła\". Znamy szczegóły spotkania Nawrocki-Zełenski - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlFXWWRYMFhNdDdKRVU5blJ6R21WN1FLc0o1QWNaaEJoUjlyeVdCOVhrLVgzZUdMRnRONUFvWm8wQlM4SFQ1NHBWRC1ocFZ1elkzOUdUUjZIR0duUTdPb2ZnQnlVekhBZEIxUnJ6THkzUWlJbk9sRVE5ckFQeW43TGtmZU42Sk5rZTFXN1hWTlY0d0RoTnZuQXNuNUVGM2RPMWpXelFpZFVUVklxdHpFWkhSRQ?oc=5"
       }
     ]
   }
