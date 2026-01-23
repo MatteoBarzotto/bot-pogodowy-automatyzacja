@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20 18:23:52",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: -5°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.6054,
-      "EUR": 4.2279,
-      "GBP": 4.8583,
-      "CHF": 4.5608,
-      "JPY": 0.022858,
-      "AUD": 2.4258,
-      "CAD": 2.6075,
-      "CNY": 0.518
-    },
-    "crypto": {
-      "BITCOIN": 324691,
-      "DOGECOIN": 0.447351,
-      "ETHEREUM": 10833.67,
-      "LITECOIN": 247.44,
-      "RIPPLE": 6.88
-    },
-    "indices": {
-      "^WIG20": 3268.45,
-      "^WIG30": 4197.23,
-      "^WIG": 3268.45
-    },
-    "news": [
-      {
-        "title": "Umowa UE–USA zamrożona. Większość w PE mówi \"nie\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDBpY01EcWtKTFVGejBYcGVOTUFGNkZhTm1RUVZ1SENyR1MxaVBHbWZvOUlON0V3bGtBT01oN0gtd3pPTVlxRktLNVFFVF9DWkZtUXJrbkpvaWlQWnp1MVBoamlLeHB4dGpiT0J4WUhYT2hacUpQWUdJc05pUHZlMDE3azlIeWJaTWx5Sm8zdWd1S2pnQ1ZkVTk0ZG9iX0ZNOFkw?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki zaproszony do Rady Pokoju. Zadzwonił do Donalda Tuska - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOURBYjNBZm15dXE4dE9NQXVmbTQyUHlKYUNJeFJaSGt2ekxra0thWGVPcmhEQTJta2tETmVuczJLY2RYUEc3elRpR2I4RGdQa2xOUDVlTW15YWJJUXJUbTVRcmN6UVZvRnFoRXlodk43SmJQZ1BMbTFRbTM1bW1UVUthZUhrVWlLWm1LejFZdUlGUG1rRTgtNkg2SHczM0h4VFIzN1FRTGtvZW1L?oc=5"
-      },
-      {
-        "title": "Urszula Brzezińska-Hołownia odchodzi z wojska. Służyła kilkanaście lat - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkVXMHJZZWpVQWZ5b2JLTkJ1UnRteThacUtuNnhoeVYzT09maTJRRUstZjZVTjN0eHFLMzhLQnZaX1ZwNGJDYWgzV3ZfWjVlMmQ3ZjM2czc5eC1OOVZIM2JSZHJ5RzZfQlNkUUNJUUY0Z3QzeXhQcGY1NW4xcVBzdk0tWE9lazdlb0c5bXNVRnhNXzlTb0tjbUVqczhPYVlSc3JFWGJGdVZPdUlZZExRWkhB?oc=5"
-      },
-      {
-        "title": "\"Mam czyste sumienie\". Prezydent Bytomia reaguje na słowa w \"Debacie Gozdyry\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSU5jNDRqaVBhMjlqU2dmakxPVmlpY0k0YUdoNkFNQ2lSdm5wTWJiOWRjTlFRNGg5TWtrMGZmNk83UWdzbzBwUU4ybHFQZ0ZZRTJrUUVGdENPOE5DOG1iLWZxUmFCMUpYZ0gzWlVXSVRLcXpIbnBGT2M4cm1DOFl6WFBTR3FBaE1wWG0wUjVNZ1Nnb0s3OEt3N0dMRVBXb245VUE?oc=5"
-      },
-      {
-        "title": "Gubernator Kalifornii ma apel do Europy. \"Nie dajcie się Trumpowi\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1JaZ3hnc1JqUXJod0ZGLXpyNHpiNHFTZl9ZTl82TDlCRTVzSm1PUlhDZmZxTHRhUkY3NFk1VE5VUzIxQjBmd2dkRjdCQWh0VTJndHZ3U2VpQUd1V2NMeldPN2FqYXpVLXdaVl9rWG42SDFZVjU5dll1ZVNTM0ZadUM5RmpzNVp4WF9Bb05uN1RRdi1mRDl0aHZvazl4SnBFQ1U5YWE5OU5QamFRNXNla0VYV1VKamotU2c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-20 19:27:21",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nowy obowiązek dla wszystkich firm. Skarbówka rusza ze specjalną akcją - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmQ5QjV1TU1ka2IxaDVudHBwczZtbEZ3SlctRWdzcUJjcFZ3cmhfTldvWkJZNVpkYWxFME1CQUVFdlZWM0RHYTZ1TGRtUW5FOHAyQUJmODBVZk5saGpOWUJpVXFaREVBVnJQaldUQnQ5TmdWRzNXUDliV1d6enNsWURFVngweGc0aHU3SEZGY0RhNUlLVmpiN3hjRXo3YmZLZU0yYUJMU2dwRHFwYkdkV3REYThReWN6eHJ6Zkc5Yms4Zw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-23 02:14:36",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -8°C",
+      "Gdańsk": "Gdansk: -11°C"
+    },
+    "rates": {
+      "USD": 3.6028,
+      "EUR": 4.2128,
+      "GBP": 4.8434,
+      "CHF": 4.5419,
+      "JPY": 0.022704,
+      "AUD": 2.4505,
+      "CAD": 2.6063,
+      "CNY": 0.5172
+    },
+    "crypto": {
+      "BITCOIN": 319986,
+      "DOGECOIN": 0.444688,
+      "ETHEREUM": 10549.22,
+      "LITECOIN": 245.58,
+      "RIPPLE": 6.85
+    },
+    "indices": {
+      "^WIG20": 3341.95,
+      "^WIG30": 4287.47,
+      "^WIG": 3341.95
+    },
+    "news": [
+      {
+        "title": "\"Bardzo ciekawa formuła\". Znamy szczegóły spotkania Nawrocki-Zełenski - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlFXWWRYMFhNdDdKRVU5blJ6R21WN1FLc0o1QWNaaEJoUjlyeVdCOVhrLVgzZUdMRnRONUFvWm8wQlM4SFQ1NHBWRC1ocFZ1elkzOUdUUjZIR0duUTdPb2ZnQnlVekhBZEIxUnJ6THkzUWlJbk9sRVE5ckFQeW43TGtmZU42Sk5rZTFXN1hWTlY0d0RoTnZuQXNuNUVGM2RPMWpXelFpZFVUVklxdHpFWkhSRQ?oc=5"
+      },
+      {
+        "title": "Działacz PO prezesem w spółce-córce Orlenu. Był bohaterem afery w stolicy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWERtTkdRVHRFcnhUYXhjMHVpbmxQODI3WGpyTnhtblpkV3pINzZMWjVnc3pKeEw3WmFPOWNQRGNOQ0lWUlpUXzdQYnZiVlZIUFNDa3JhMzEzRU56dTdzWEg1N1kyU0NfdlM2aVAybXFQcjZTT1pKYnk5RjNkd2d4OExkMEJDLWhld1RDT3Zwa3pQUkRqVW9peXpIUWN3NjBiamFiS01SeFN4cXRBbWhtdE8tTEFSZw?oc=5"
+      },
+      {
+        "title": "Trump z nowymi siniakami. Biały Dom zabrał głos - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT082WGxEVDNoWjV4RWdxM3Bqd3dMcVN1U3BLTkUzNEo1S21WX2RQaG8tZ0dfMFZHZ0FVWUQtN1lWOWNoNXRnWk9JRFJXVVF6ekFwUWN0cUJFODVRMm9sdVV3T0JKUU9ta1JhZUNybmQ4d1hpZS1fM0w3bGxzV2ZkU0hfT2poWTA4clRyWVRzU2NxcnM?oc=5"
+      },
+      {
+        "title": "Nowy obowiązek dla wszystkich firm. Skarbówka rusza ze specjalną akcją - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmQ5QjV1TU1ka2IxaDVudHBwczZtbEZ3SlctRWdzcUJjcFZ3cmhfTldvWkJZNVpkYWxFME1CQUVFdlZWM0RHYTZ1TGRtUW5FOHAyQUJmODBVZk5saGpOWUJpVXFaREVBVnJQaldUQnQ5TmdWRzNXUDliV1d6enNsWURFVngweGc0aHU3SEZGY0RhNUlLVmpiN3hjRXo3YmZLZU0yYUJMU2dwRHFwYkdkV3REYThReWN6eHJ6Zkc5Yms4Zw?oc=5"
+      },
+      {
+        "title": "Operacja na Morzu Śródziemnym. Francja z sojusznikami przechwycili tankowiec tzw. floty cieni - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXZ6bHF5bGdlRjFXdXdnRWlMNnRiR3d6dHRVcWpnam5qTzhiVG1vZXVVZWJrQUROUUFHVnhueWNPS2Q3OEgtYUZnN2hFWEVOZzdmOUY3eU9iTktsVmw1bkxfZGJ4WGowQkQ0NnZmN3IzSzJSSUs3VWo0eHA2bENOTnZLX2RQeEM5Z20tRVlsT2UyWFctRjByNVo4ejVOWkJTbWJjeGxSUFZReTBZMXFCclJiNUZZVzBVR2VDeUVGSjhicUpYTTNpQll1eWw?oc=5"
       }
     ]
   }
