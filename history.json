@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-21 11:21:28",
-    "weather": {
-      "Warsaw": "Warsaw: -8°C",
-      "Kraków": "Krakow: -7°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6054,
-      "EUR": 4.2279,
-      "GBP": 4.8583,
-      "CHF": 4.5608,
-      "JPY": 0.022858,
-      "AUD": 2.4258,
-      "CAD": 2.6075,
-      "CNY": 0.518
-    },
-    "crypto": {
-      "BITCOIN": 322431,
-      "DOGECOIN": 0.450159,
-      "ETHEREUM": 10701.55,
-      "LITECOIN": 248.3,
-      "RIPPLE": 6.9
-    },
-    "indices": {
-      "^WIG20": 3246.32,
-      "^WIG30": 4173.76,
-      "^WIG": 3246.23
-    },
-    "news": [
-      {
-        "title": "Dzieje się w Davos. Debata z udziałem Nawrockiego i wystąpienie Trumpa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0ZucC1tMnVnR05oVGFZRzlNbG4ybTVGMGNzVU51a3JjX1o5Y2Fvd0NrOG1fUGhtY24zc09XaE1vMW1NRzhhTG1YYUQ0NGwtZ1ZkV1RDSm5HbEM0dk1tbzJpeU9QcHVuS2ZpaElnVHRsclNvQ09rLXZXNWZtSUt2cGpreFhLQWdBWUdiQklyTzRnbUdxbTVVS0JSTk9hd01TeWY0bW9FRHZLWl8wTkVJaDVB?oc=5"
-      },
-      {
-        "title": "Donald Trump odrzucił zaproszenie Emmanuela Macrona. Pytany o Grenlandię, odparł: przekonacie się - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2lzYkdncXhFdHZxaDEyemtWQVFYZzM4RF84YnNsSGhyb205ZTB5MW5WTVBjaFdVYkFycUhDWVNlVVFRMnd1OWVQUm1Oa2J0UWVibGhELUgyN1ZOX3BydmYyTGdKUlAwWHYzT2p4algtcENfZkFqUEZ2WFRQdzhYUzYtRm5kMjJlU0ZTSGJla1FhanA3YTYzMGdTNUFGdndQTzNjTFJJN2ppVnMyTUtnYnRTbVFweVhuNnc?oc=5"
-      },
-      {
-        "title": "Fatalna jakość powietrza w Polsce. Tu sytuacja jest najpoważniejsza - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUE3YUxnS0c5Sm5PTUY0Q2ZScnFTVDFoUlkwajU2cFRBTWJMWTdWRUYyYnRZYlRIRUFFOWVKTXNyd1FXZWwtNkZTLU10di1qV0hJRGxNUW1FUjZxZ1JZVnMzd3JGVnczX2xjU1lDMjZuTU9uUmtsUFg5RHlha3NDR1VEbGFIalFGY1pVNTlPVlU1V1NmLWVweEtJZG1RR29oVXNtYVNNZ0tTS2M2XzFVS0RKdVd5VHhFU184ZXQ2Q1dTZ3YtV09xYTdqSHBUWXlyandj?oc=5"
-      },
-      {
-        "title": "Rusza proces ks. Olszewskiego. Chodzi o aferę w Funduszu Sprawiedliwości - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGxDZWZudl9JTnIydTVCdzFkcmtpbERvQTY2bzd1YUUxNk9ydG84R09HNWVuelluZWtDNGNGZkhsNEUxeDhyaWt4RVVybkJjRm5oS2pweW54cTVGMHEtSWNyY1h3ZFZGRGM1bzRpbmc3R2RYXzR6NERZZFZDRTFxbFNpZFlTWVFfUVl1RUgzdXVOd0I0S2VweURsUG5QX2FmbnpWV3NuNmN1MEQyZWhj?oc=5"
-      },
-      {
-        "title": "Skandal goni skandal. Co się dzieje z Donaldem Trumpem? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2JlZ0pCWE1Lb0lZU253VGNLdkJvTzRFYmhhSVZzZHpwZDZkSk9GaFVncGRQY2tuMUZtNk1DS2w0LU00Y0daY2RTazBOUUJUakFxQzRLRng2bWZKNWxFQ1VrRVlqc0JVRENfQTFQLVlsZlQxVWVMaDJRTWxNNDdqVW44TkhqYTFZaVMyUURBM1FpZTNSYUxIbnRWQXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-21 12:18:45",
     "weather": {
       "Warsaw": "Warsaw: -6°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-23 17:22:21",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 320579,
+      "DOGECOIN": 0.446566,
+      "ETHEREUM": 10549.31,
+      "LITECOIN": 243.83,
+      "RIPPLE": 6.9
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Kreml chce Donbasu. Jest reakcja Zełenskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEhpX0lFT1gxU2NMcGJoVTVSeWN4UXJZSHBZMHRDT3VlLUdneFRsZnZaa2RzbFRkWFcwTjJpZjg3T3NpTTQtZWNvblQ1Z3F6aUpPZFlGNTB3QUZrUnllTW8tVXpOWDR2dkkzdjByVnBQcVRyN2E2UEFSYkpJa0lyREp0ZzBxRV9TQ1JWTHFucw?oc=5"
+      },
+      {
+        "title": "\"Zostań w domu, jeśli możesz\". RCB ostrzega przed groźną gołoledzią - Wiadomości - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWRzUkhVQUdPaG5ESERpOWI1Z0llc21SRVRtX1UzdnFoNnlSYzh6eGdEeXIxTHdfSkhFTkpkYmY5TzdzdnZ3ek5VdXBfTjN0YlR3MW5UcWNpMVA3WmlOOXJ3aWVBZ0gtLUMybUNvRzJDVWw4UW1ZUWgtMmk2eFBjRWpBcE01UGZ3RHhpMWlwSUUxeHRNSHY3VUlmWFdnSTlZVVpaUER5NEhzYjhoTnZud0xFRzJ5aHcta0ZjUGJOZmcwZWlM?oc=5"
+      },
+      {
+        "title": "\"Przyszła kryska na Matyska\". Czarzasty o wniosku o TS dla Ziobry - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXVNM3VKNHFfVHA5NW1YUnZaOFJ5TGd4dGZWLTl0ZmJMcFBGTHdNWlo2YmRrQU1DVzltTmR0Vl9iOGxLQU1UaFZpdnlLdHFnbWFHSkY4VTdGVHpHSmZWb0VReDY1MEJEX3hnVVh0TFV4TElMbUQ4TUI3TE5iZDlneXFPa2NpdGlVcExLRmZiVVlfYTZJUUFHc2lWcHUyQ2Z6VjEzQUxmU2w?oc=5"
+      },
+      {
+        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
+      },
+      {
+        "title": "Donald Tusk zabrał głos po unijnym szczycie. \"Nie zmarnujmy tego\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3ZodjU0VEZCeHdHY29ZYU84RkNRWWhnaGRyNFZxdlFxWlFWTkYwRzR4bjFrODRVSVlrQW03UWI0bUxvUVFSN1VwNElJallFNTNYalJVWWZZeWZ0NHRtMzdZdl9BNHR3S19BZnZmNzBfemV3Y09xYkdNdlZhZi16QXZRYlRJa2lUU1JvR0FtelVFUldjcmgwU0ZzSFRLN0hkVEE1ZFdwYnVOdTU5WG1XVURVRXU4eFVFemU1dGF4WWVsUjg?oc=5"
       }
     ]
   }
