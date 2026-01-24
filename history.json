@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 05:42:27",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -12°C",
-      "Gdańsk": "Gdansk: -14°C"
-    },
-    "rates": {
-      "USD": 3.6118,
-      "EUR": 4.2271,
-      "GBP": 4.8434,
-      "CHF": 4.5553,
-      "JPY": 0.022858,
-      "AUD": 2.4369,
-      "CAD": 2.6096,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 324040,
-      "DOGECOIN": 0.458559,
-      "ETHEREUM": 10879.92,
-      "LITECOIN": 248.17,
-      "RIPPLE": 7.03
-    },
-    "indices": {
-      "^WIG20": 3262.89,
-      "^WIG30": 4189.97,
-      "^WIG": 3262.89
-    },
-    "news": [
-      {
-        "title": "Pierwsze ułaskawienie Nawrockiego? To jego bierze pod uwagę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHhQYmlucm5obWhMUDVyeU1wMVJ6VEZoT0FMdXJQMWFibWxqcUdmUmlWVkN0UVFyUWluNGdfZFo4eUxiaDllLTNDdGtHYnZpeEVIVFB3QkYzSW90NC1vYVBlMkpzOW0zcEg3QjZ2SHFmcFdUV2JwYXNQUy1KZkFfVTVuZ0NhcS1MbFc1MUVMeEVmc1FrXzI2SDhFZjBOSXVVeTRZ?oc=5"
-      },
-      {
-        "title": "Rozrasta się nowa potęga na morzach. Rosja wyprzedzona - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWY3UnJ3SWNpNno0S1NQMjBSMDYyalhnbFE0RldSNzhuWHhlNUdIY1FVSVFuY2ZLLUhESTVjTjM2ZHZVcUJkWnp2LWVQeEREWEIyZ2d6eGRoREtxNGZMbThtY2F6ekpUMTB1Y1pSOVNWazg1VXFhcUhZdE5GWmloLVdkdHF4S2xWRUdfeC0zOGRTQTdZdlJySi03dEM?oc=5"
-      },
-      {
-        "title": "Historia Dnia Babci i Dziadka. Dlaczego świętujemy 21 i 22 stycznia? - hub.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNE81d09Odk8zWEM1NTJUNHN3LXJ1WDVnZThnMm9NeWxzRnRDUldqN0hmUjFURWtranVPOWM4VThRc1VvUlB3YS03eGtIYnp3clJQSjNBTk9jUEd5UV9ZU1BfYm5JQkRWZjFrTkxBR0xpRGFLdVJLSF8tdUQxdjNib2JfZU02Y1FhNjZtbXRWdzNFY1dNenhoal9JbnpFOVk?oc=5"
-      },
-      {
-        "title": "Mały biznes boi się KSeF. \"Wyścig z czasem\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTNLZm5XemZtbVJaYmh5bVVtTVZHa2NQbDc3dTljV01yY2EtbS1ob3BwVXNqRDRmRF9KMXh5dXNKLUdla2Rad0ZEaE9sQ0sySlNlQ3JuUHdaRHFRdC00WXVwM0Z0UmNwVmlqaTRpeDh0Q2FldmE0eTdfWEp3VWJ6V2hWcHowekZyWHlXUnF6UTRGalN6WENJdWFhTQ?oc=5"
-      },
-      {
-        "title": "Andrzej Domański pytany w Davos o przyjęcie euro i prywatyzację spółek. Oto odpowiedź - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmJIeHFYbEUzWUdyTFB1UlBWYXNNM245cXhSSHI0eklic0Rnai1ob2Ewb0JzWlkzTTJSRmRIalJ5YXdEdDNsSURSR1JDVGJEQWdDZmZzYTAySmM3dkZWS0duUjBMdlN5b09Xa1d2Q3FJNmY2RUFRY2hPeHphSnBqeHNlVlFIT0xnN2xjOHVPckJ6UzJlUER5ZHZDX01yUG9zMGV4aDQ0NDlLQWVkYTJGdVRHZFRJVGxOdDBrNmJYNU1SQTRLZjhn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 06:23:28",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Umowę z Mercosur uda się zmienić? Polska liczy na wyrok TSUE - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUQwUjJWa0puNkJPVDY4WUZQcHFQd1UyYnZ1NnVoZlFRU3NLYms0eTllc0lTS3E2Mjc3WUZwNmpya2RHLTE2VkNoZEZEejZYS094MHp1aE45ZkxjRURSV3Rtb2dhdTdNalloTDQ1UWlheUhxc1BJcWdGTnE3N3Q3QkV5elk1alk4bjNTbnVJMEVIdXhoOS10RUpWMVM0UGN2Z3B3dFhMZEQ4QWlNbU9YX1ZONkZoaGJCelZvSA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-24 11:15:35",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 318163,
+      "DOGECOIN": 0.441776,
+      "ETHEREUM": 10506.66,
+      "LITECOIN": 243.1,
+      "RIPPLE": 6.8
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Dania była gotowa. Trump miał ponieść polityczną cenę ataku - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUpJcEwtZ2QtVTRKOFpXR3BBdVBpQzZtLUNXTTZVT0o3T2FyZFBDcFRYbGhZa3R0cUo0ZVN2UVlwTWtxN2szcDRhZ290dEJLV3FFOE1YbUVNVVlxQ3FPdXlDUEdhRHVYamk0UGdCanNOZ1ZtejA1NjZ1eUdobElFVldvZ3F2cE4zMmNLYUc1ckY3ZzRWLWpLbVVEWHJ0OEF5N25Z?oc=5"
+      },
+      {
+        "title": "NABU, Jermak i \"trzecia odsiadka\" lady \"Ju\". Kulisy afery w ukraińskim parlamencie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjVOZDY1Y3V0TUpLQXJRdXZnMHVVY29qYkhoZEFFbG1Fc3VleENDbzhpZjJhbU0xQWFlcUhVS0hZaWxxR3RTaHo3RmhEazNzTXhPWjFXN3VUZG5QcjN4Ql9KV2x1ZmdPZzNQcUNRRUFHWFFYbkVkaVAyRWdjRHczYnBXdGpJVDIydmVGLUpKN0RsSWdqRkxYOURIa0RRejZDLUtuVFdQSEYxU0lfc1RmNEQ1d2h2c1VCeXFr?oc=5"
+      },
+      {
+        "title": "Grafika Donalda Trumpa z pingwinem na Grenlandii. Biały Dom zaliczył wpadkę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUWdlTFNJSlRCbzRfcmxueFA0THdwNEU1LUJyZllab0lqY1pXcHFDRWNDQUZOV0k0U0Vqd3c1TFZjWTkwaDBzbWQtVjN5TzR1bFF3eTBQUFRYYUx2b3dUUW5EeWJHdDVNR1V2dFJOOTJqX3FoLTVuTUlSVldJd1hYMVpDS3N0SjRtZmtmQU9QYVNDN2FZeWFXU2NEZ05iS2VIZTNDLUkxYWFoS2xjLTEzb0NJamttMXdhbmo4QkVhWlBhMU55NTVRUTRtRC1lb0FQcGgw?oc=5"
+      },
+      {
+        "title": "Dawid Mirkowski ogląda własny atak na Nowym Świecie. \"Ciosy były dziwne\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckxrbURNUlR2SXFNTlcyVUdRVng1bTdYb1VidnptV1dGSW85elVNSk1kM0xiMVhfY2hJQldhR0lWUlUxT0hoRW5QT09xdy1qVUFIRnVuZ0lHcEpmZUFRQVhLSHBISEV5VUxpalhGOU9WWjltekFUc2Uxa0o0aVZTUDNQQU1PcThxZmhDWkVhNVJxejJJRkN2aTJjOFlJemYzZDIyVGp0Ti1YdGdXb1BjQXpvVVR5NmhTQy1IZDdMd0VmWTU0YnhFag?oc=5"
+      },
+      {
+        "title": "Lodowy deszcz i fatalne warunki pogodowe w Polsce. Weekendowy armagedon - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHBsV2RwOVlYQnBJV3BvT0pTaXlyUlZzWFU1VzJjMDBTYk94ZHZJX01WWFV1SGVfaEhnV3N6MW5iVG01WUZmR1ZIdzVfWGE4U2k0U2JWUW42T3FKOVVYbnhiRTZSeXJJRVpJSzgtVko3OGgybE1BRG5rRk1JRFM3ZkN0Zk8wUHgwdkhMajhwMHBBVGY0cFFGY04wb1FjVlplaGN3VUJ6SFVBb2x3WGJMSjZ2aw?oc=5"
       }
     ]
   }
