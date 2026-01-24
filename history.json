@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 06:23:28",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -12°C",
-      "Gdańsk": "Gdansk: -14°C"
-    },
-    "rates": {
-      "USD": 3.6118,
-      "EUR": 4.2271,
-      "GBP": 4.8434,
-      "CHF": 4.5553,
-      "JPY": 0.022858,
-      "AUD": 2.4369,
-      "CAD": 2.6096,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 324199,
-      "DOGECOIN": 0.458049,
-      "ETHEREUM": 10880.08,
-      "LITECOIN": 247.31,
-      "RIPPLE": 7.02
-    },
-    "indices": {
-      "^WIG20": 3262.89,
-      "^WIG30": 4189.97,
-      "^WIG": 3262.89
-    },
-    "news": [
-      {
-        "title": "Pierwsze ułaskawienie Nawrockiego? To jego bierze pod uwagę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHhQYmlucm5obWhMUDVyeU1wMVJ6VEZoT0FMdXJQMWFibWxqcUdmUmlWVkN0UVFyUWluNGdfZFo4eUxiaDllLTNDdGtHYnZpeEVIVFB3QkYzSW90NC1vYVBlMkpzOW0zcEg3QjZ2SHFmcFdUV2JwYXNQUy1KZkFfVTVuZ0NhcS1MbFc1MUVMeEVmc1FrXzI2SDhFZjBOSXVVeTRZ?oc=5"
-      },
-      {
-        "title": "Te memy na Dzień Babci podbijają sieć. Uśmiech gwarantowany - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVljT2lmQnY2T2kzeTJDN1JrMnVveGhvUkQwVEZGU2RiaUFoUEs0MlNXTDl5bGxObnd2NmFmcmMxUndCUUhDNXFBaEVBOGhETWFDOV9OQnlsb2gzWUpUZGlpSjljNnNSNEFrUElsTy0xZ05keTQtWHg4MVJHa2RWenZKUExlaU4ySXduaUxQNl92UUF6b2lEeEhXajhCMWtqb1dwUko2YXFGUTJ1RDBodVFCdkE?oc=5"
-      },
-      {
-        "title": "Alert RCB w pięciu województwach. Smog dusi Polskę, normy znacznie przekroczone - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzh4THpMZ1h6OTdydWJvdXhxdTdacDVwMlk2Z25jN1dVYW5haDVHekNvYzNFaEdrcWVOcW1GRmlKQzRIV3dVMTh2UmZjeUMwNW1KRHhScklYRGJKSndLNHBsOE11UWJvdjhnVHdHdWdaRVhuVEVnS1piY0ZzSXJfQnJRUXdLQzJGN0QxUlBvZkZlVUw1eF9oYU1KUUp4dzdvNGt4WGZrN2ZXX1hfUkVpckRXMEdCZXZQWDRBMF9jQkMtXzg?oc=5"
-      },
-      {
-        "title": "Tragedia w słowackim ośrodku narciarskim. Nie żyje polski turysta - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNczdBMjVXNl9raVMyY2FaQWp6TDIwRjJDalpUblVIb253ZHpKZnhvZ1U5dmhjZjI1NUV1clVUNEp3NnJONWhnUGs0Y0tQaUoteXBWOGx1YldHc0VieV9GVHJsT0NuNVQ1ZmloMlFtSXNFdFJrUzhqVFZCbFhvZlJRVGxTZFNERE4taWJzOUVKOVJ2V2NZeTUzbmFBVkFvRDJ5Z3ZwTEJwTS1rU3FfYktzYnlySm45RDVZVTBrbldYb3g?oc=5"
-      },
-      {
-        "title": "Mały biznes boi się KSeF. \"Wyścig z czasem\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTNLZm5XemZtbVJaYmh5bVVtTVZHa2NQbDc3dTljV01yY2EtbS1ob3BwVXNqRDRmRF9KMXh5dXNKLUdla2Rad0ZEaE9sQ0sySlNlQ3JuUHdaRHFRdC00WXVwM0Z0UmNwVmlqaTRpeDh0Q2FldmE0eTdfWEp3VWJ6V2hWcHowekZyWHlXUnF6UTRGalN6WENJdWFhTQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 07:26:18",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Lodowy deszcz i fatalne warunki pogodowe w Polsce. Weekendowy armagedon - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHBsV2RwOVlYQnBJV3BvT0pTaXlyUlZzWFU1VzJjMDBTYk94ZHZJX01WWFV1SGVfaEhnV3N6MW5iVG01WUZmR1ZIdzVfWGE4U2k0U2JWUW42T3FKOVVYbnhiRTZSeXJJRVpJSzgtVko3OGgybE1BRG5rRk1JRFM3ZkN0Zk8wUHgwdkhMajhwMHBBVGY0cFFGY04wb1FjVlplaGN3VUJ6SFVBb2x3WGJMSjZ2aw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-24 12:12:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 318119,
+      "DOGECOIN": 0.442788,
+      "ETHEREUM": 10514.86,
+      "LITECOIN": 243.12,
+      "RIPPLE": 6.81
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki złożył ofertę Donaldowi Trumpowi. Chodzi o Radę Pokoju - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnZ5N1BBX3pIQmhmaEZrVC01S1VMb3V1RDlWOEF1SnQ4bFkxSC1OZkg3RHM4c0RDTW1PWEZ1b2RJOTZXQmV5bWJVV1hpOTF4a2JKajFFQ1RHUzR3ZUxqMVl3OFYtRlAwMzA0OEVfWGpkeDdJU1ZFdVJLaDR3ZF9lUTJvRDlHUFh6WDV2VlgtXzd6bUo2Q3d4dFRSLWtIWFdyancyRzJaRHl3X1NycTlGR3R6a0dYVEx1ZHNPd2VCOWZkTkE2R2RkaVU0NA?oc=5"
+      },
+      {
+        "title": "Dania była gotowa. Trump miał ponieść polityczną cenę ataku - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUpJcEwtZ2QtVTRKOFpXR3BBdVBpQzZtLUNXTTZVT0o3T2FyZFBDcFRYbGhZa3R0cUo0ZVN2UVlwTWtxN2szcDRhZ290dEJLV3FFOE1YbUVNVVlxQ3FPdXlDUEdhRHVYamk0UGdCanNOZ1ZtejA1NjZ1eUdobElFVldvZ3F2cE4zMmNLYUc1ckY3ZzRWLWpLbVVEWHJ0OEF5N25Z?oc=5"
+      },
+      {
+        "title": "NABU, Jermak i \"trzecia odsiadka\" lady \"Ju\". Kulisy afery w ukraińskim parlamencie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjVOZDY1Y3V0TUpLQXJRdXZnMHVVY29qYkhoZEFFbG1Fc3VleENDbzhpZjJhbU0xQWFlcUhVS0hZaWxxR3RTaHo3RmhEazNzTXhPWjFXN3VUZG5QcjN4Ql9KV2x1ZmdPZzNQcUNRRUFHWFFYbkVkaVAyRWdjRHczYnBXdGpJVDIydmVGLUpKN0RsSWdqRkxYOURIa0RRejZDLUtuVFdQSEYxU0lfc1RmNEQ1d2h2c1VCeXFr?oc=5"
+      },
+      {
+        "title": "Władysław Frasyniuk, Zbigniew Bujak i inni opozycjoniści z czasów PRL bronią Adama Borowskiego - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW0zQjdaN0ZOR1VfSUcxUVJPVG1lbHgtMlpTQjVmbElObDRtMXE3ek1uTFhicTVfbFdyUTRocHZOT25rUTJuSjJTMWxza05wXzFfMXJ5NmNfVVVfUFJLRFlwdENXUDhLMjljdFE0clJUS0FmSm81elgtek1ENGNIRUNUSnJHY1VHcGg4R1NIS1Q1NFZMZ3duajJ2S1BFTTBaeGplazFPalZxcHc?oc=5"
+      },
+      {
+        "title": "Pierwszy dzień rozmów trójstronnych w sprawie Ukrainy. Wołodymyr Zełenski o efektach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXVxTnZrQ3R0SXc1NUliTktlY2dDdFlzYU1sdWF2ODI3dmRLNkhJMGpkTHowSG5JUV9qU0xfTTBtZ2RxdFc0cy1YSHpYaHZWUGkwRWV1R2R6QkpGSXRTdnVMdExQVFlrRWN2NDFjU1FzSC1QZzczcDJKSVJKY2VNaVNGajdCMU1GbndvOE9rSk1ETVpSME5kdUFybldZNzVqTnhVcm1ZR09HYnZzV2M2dnJLQlpxcmRaZTd4dlRvRmdKcjBZVXVNd0hGYUtYNmN2MXc?oc=5"
       }
     ]
   }
