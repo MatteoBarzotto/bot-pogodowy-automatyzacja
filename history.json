@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 15:24:20",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.6028,
-      "EUR": 4.2128,
-      "GBP": 4.8434,
-      "CHF": 4.5419,
-      "JPY": 0.022704,
-      "AUD": 2.4505,
-      "CAD": 2.6063,
-      "CNY": 0.5172
-    },
-    "crypto": {
-      "BITCOIN": 321000,
-      "DOGECOIN": 0.449212,
-      "ETHEREUM": 10652.01,
-      "LITECOIN": 245.88,
-      "RIPPLE": 6.92
-    },
-    "indices": {
-      "^WIG20": 3326.66,
-      "^WIG30": 4267.36,
-      "^WIG": 3326.66
-    },
-    "news": [
-      {
-        "title": "Oscary 2026. Poznajemy nominowanych. Możliwy polski akcent - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ04xOWQxNDJWell0TGp1TUstR1QtcUxDN2xxcE95MmpzaVVpaW5taXVvSWJnTnBZTWpCRjV5M0dNRVpUVlAwUjJTT1otSG80Z0dlakhEMWpoT08tTXVCR1ZObjR1OTJlWmhneUY2UHpTYTJyeVAyN2d0VVptNDdoUlZXM3kzUkQwZmNRZFA2cXd6SHNOdXZPUWwyZ3hQYm5MSHFpOA?oc=5"
-      },
-      {
-        "title": "\"Unikaj aktywności na zewnątrz\". Alert RCB w dziewięciu województwach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVFkd2tUdkRsVlVEUldic1JiRVdYNmpRdGxsSUlMcE9HbW9ybDhaZ2RfbEJIWGZTcDFGSS1fTWtfV0JVSE1sUnU4V2FHcm9yRGR1U19xN2lIYWVYZHhpVlVkYVdOY25ibk9uY0oxc3YzbGVfWEZjRGpJSk92UzhKTFJaTFJyVEZELVBqUV8tQmhnUnVGd0Z0a2xoNUd1VEpGWDk3SEhNckFhQjF2c0E?oc=5"
-      },
-      {
-        "title": "Andrzej Duda ma nowy biznes. Otworzył go z żoną. Tym będą się teraz zajmować - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXZqZ3NSTjNNWWxSb2lrTklBSE9MR1lVSGNaTGRSMzFMTnc0bVh6NXhZZUZ4aERkcUMxVnlUelRYMVlaQ1FReEJRalRzM2FUaUtMdkw3ZW9yWHJUbHFJVDRWMXhpbUxESENiOEh3MDhGMnNBc05ZZ0lWVVVCMmFIMmlvVUNlNEV6T0UxaHBiVVExdEsxb2hKU3I3bzk?oc=5"
-      },
-      {
-        "title": "Tragedia w Chełmnie. Media: zatrzymano kominiarza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEwyRWdqVDVFVGhfOFpkUVkwWGp2UG5IdVlweXlGajFuWmZCRFVFZ2dqUm0zMGczWUZJTjJaMUxkTjRpdnpJZXBsa0pDM2l0QkRiOUtqcEtEX1A2SER0WDdOQWUtOFVwclByLWNvaHFySGRzY3Z3Z0pCWU9wNVRyV1otd0NRMC1VY3c2WmNqN0hlX05R?oc=5"
-      },
-      {
-        "title": "Zmiany w dokumentach po wyroku ws. małżeństw. Gawkowski o terminie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU43a0dZemtWdWplQzdURDZlN05kVWNpNFhoQmI3Z25tb0w1VVNxN1REdDdRdVFMUXEtdmZZM0ZfNTBvXzh0Z1BzRV91Y2FYLU1ONFFKVnR4NHhPckpNQ1FBZ0dZYW5ldjd4eDhiYVZZSFJERC1aeXdPV194M3ROM2dNMjVLd3JLd3ExU2dZOGdQUWs3bTRDU25KM2g1WC1PVGdLSzVReUszbVV1bjJ4M256SXRCQmpKejlZ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 16:23:58",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Rodzina uratowana na Śnieżce. Wspólna akcja polskich i czeskich ratowników - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnZKUFc2Z1M0WGR6S0FjQmUxSkh2eWF6bllBczZScVVQUzlDVDJybkNaWVVyQmVET1FTNFNqYmFTanVwUW03TjFJRTJKMDhaUE9JNjZVck1TNnBEWlVVTEQ2UkdCWkozak84dUxqVGVlbXI5OUNEY0dfZ0tCZmluZGZ5RkpBZ05SdlNuMmt4M3ZNNTBrbkdhZEtoQmJWWU05QV80d0c0azJ4WFRhdFlIcGhOTjFtRlE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-24 21:15:58",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 317266,
+      "DOGECOIN": 0.441353,
+      "ETHEREUM": 10497.81,
+      "LITECOIN": 241.34,
+      "RIPPLE": 6.81
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Grenlandia na celowniku USA. Trump: \"Będziemy mieć wszystko, co chcemy\" - o2",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEpLZGY5VzNRT3pIcUFVYkV1a0lOZjVOR3pQcldGcHNZTGIxcWdiVXlSTG11MU5CU3k2S3c4U05Zd2pDNllEYVNydVkybkplWjB4RHNUbjFocDFkdFdEV1hRakZEYV93VFhqYmtxY3Q2QVhSSk5rUXNwVUxTSng3MFUybHM2bmdKN2oxNjlvbFE4eGktZEQ1dkF5NTdoS3FibkdZRVdJdmNEOFVrenV3d1d1dw?oc=5"
+      },
+      {
+        "title": "Agenci ICE zatrzymali mężczyznę z 2-letnią córką. \"Niewyobrażalny horror\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdloyUlVYc09kaDJfb0dMUXNjY0tsczBPYXVVTzRVZktiZk1zLVN3U3Z5bUJYekdPdmVpN3dIS2NINlZEaWsyY3g2NG5SU1R0cTR1TjhlVEVhYk5yeGNmaTkyNUlkdUdQNGdxYlYtWTllNUs3OENZLWduMGxrSEVYTVJmRmZBOHZQUGFONndSZXV1TUdjak93U0lFQ045LWJiU2YwTWo5T1EwNGJ0VmszTlBkVGxLdmVWQUhXNjNDdDVvd3ZMUS1HYlIxeVRCdw?oc=5"
+      },
+      {
+        "title": "Dynamiczne fronty wtargną do Polski. To nie będzie stabilny okres w pogodzie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ19KalZLUTBXbWk5OVNPT05hZUhucE5KeUFtS1JnSS1STDlsSVhKZWxJY3kwTExZUDhSYW90OWx4aEY3al9vaXUtbk1TOVlncXJuODNjZGNobWV6MmNiNFQ5WDN6QUpsU2s2a0M3RlNVY0xDSi1ob1cyYkJfb01peU0yWFlXMGMzS1VadGRwaUVBM2tQeVJkWE1sb2pkVjVXQ0o1cGh5VnB5MHB6Zk5EcUpEVDNYZjJzWWhhOUFtZlZxcTVhQVE1SmVyUUhVUQ?oc=5"
+      },
+      {
+        "title": "Trump wyśmiewa ocieplenie klimatu, bo w Stanach \"idą mrozy\". Internauci i eksperci: to jest żałosne - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS21JWlhDaXdNczI3Vi1nOEdMdTBIYnlSazdIckg3SDlnTjdjRDJQdmx0a3NzNkpJeksxTUtXa0ljTm8zY1N5bVNJLWg3S3FzVGhNQnR6Vl9FYmo2Z00xbWdyWF85SndCeUVHYkpZTHNRX3g4SGxfc2M2SGVfXy1EY2JMcW1Bb3Rpc1l1bUUxVHdpNWpoeUJfMk1fRndUdXpDR1ZsT293OVlrcVF1?oc=5"
+      },
+      {
+        "title": "Marsz Ciszy przejdzie przez Jelenią Górę. \"Prosimy o spokój i szacunek\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUmYzd3RjM25TVXhTOWFOSzVTaWdMSzdjYXdZMzdCc1NuczN3VVRqQzcxbUxMWkdYYms4NEVzYmdpb3R4R3BfclZKSTI3TEV1d3I2S0hQZGotcHM1ME5jbXdrck00V1M5ZldZQ3pnZkdMTno0TjAweERZXzRjLVVfQmQxR2M2cmlXUV9EVU40TVFIUEFMcU0yVVlmVjhCazBvSmszbkVFVlRiZWkxWjBuX3MybzNUMGFfRE1pcmh3UGtXMl9vN2dsRXZmNA?oc=5"
       }
     ]
   }
