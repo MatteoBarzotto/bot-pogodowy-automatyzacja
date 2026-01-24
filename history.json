@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 11:21:07",
-    "weather": {
-      "Warsaw": "Warsaw: -9°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -11°C"
-    },
-    "rates": {
-      "USD": 3.6118,
-      "EUR": 4.2271,
-      "GBP": 4.8434,
-      "CHF": 4.5553,
-      "JPY": 0.022858,
-      "AUD": 2.4369,
-      "CAD": 2.6096,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 324133,
-      "DOGECOIN": 0.456353,
-      "ETHEREUM": 10826.35,
-      "LITECOIN": 248.16,
-      "RIPPLE": 7.05
-    },
-    "indices": {
-      "^WIG20": 3309.95,
-      "^WIG30": 4250.63,
-      "^WIG": 3309.95
-    },
-    "news": [
-      {
-        "title": "Zaproszenie dla prezydenta Karola Nawrockiego do Rady Pokoju. Andrzej Duda reaguje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkwtZ3pxVmQzOHloOWE4c09Wbl90SU9wWU0wQ3NXTDhwMmlfd0ZPTFQzNEI2QjQ5OHpZUGtKODl4cGVsLVVDUGZJNDlRZDVHQXR5MC1rc0FsZ1U4UC1FWm1SQXcwanVYVDgtajhxMlpJTUFaZGZXNXhoOUhudVZLbTFydjlURkJMWTJ6MVoxd2d1bnVOV2l6aGdqUFdBLXJfbkctTVpEUjI3SU1NclhDVlZQUEdDdG1IbndaN3JzMTFodw?oc=5"
-      },
-      {
-        "title": "Trump Show trwa i robi się coraz bardziej nudny [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVjdsQUtlLWJibXZ1TWJWOFpEdEU5S3k1djZmZVFLQ3RGQ3hVNlBWZXVBb0FQSGxoSkxhck5vUnpNWkR5Y0lXa2YxYTc5aEwzcFNXa2IzRVFVZmE0dUdYN0NDSWwxeGtXWndfRFBEZXN3X2ZHdVNQcGZqMUtadkhpYkd4M2lDa1kyRDRpRTdVSjBsNFVTZXRrNG1FcmI1UQ?oc=5"
-      },
-      {
-        "title": "Myśliwce nad Trójmiastem. Potężny huk w wielu dzielnicach - Trojmiasto.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXBUemxnUmExSjRPWU1VQ1hwaVh5TDB2QWFXTVAwVWttS2JGMUlUaHVSZE9ndDY1UFJCVHlFZDBHNjFGUDhsVUFidU1IejVTRDFjMGdPYm8yUElMZUdYYnZEMHBUempQaGpGeXhlakl0TlB2N3FsY0plRzZuRmtCNGQxaUJYOVVMLWZlUFlfWHVmTmRlLU1aSU1aMFkzaDQySE42UTlqX3NpZw?oc=5"
-      },
-      {
-        "title": "Kłótnia posłów w Sejmie. Petru spiął się z Wnukiem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekNtV2FQejFGZkF5Wlp5alBpNWxoUWJORkQ3bzFBSkl1em5rV2t2SWNqNTVmYWd1Rnphc2NRT0oyUnJwazVXN0dEdE1sRjJzMHIxMjJyZVpBUDRrVDlhMmhpMFl4VWVvcElaaU1OY1REMklvNUlZRmZNMW9leXhJMzlneDBJdDA0UEFxamoxN21zb2RwbnNn?oc=5"
-      },
-      {
-        "title": "Nowa potęga na oceanach. Rosja została wyprzedzona - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDcwVDVvcUR5RlMwR3JoVjR4TU5ZVGJXOG5oZXFKNnJ0YmNrS0puUlVIOXNydm45ZlBpMGVGcE5DUzI2UGhHNzcyNG90d0paZmdadW1fd1RjVTJKazFYT1BRSnNmekp5QUlqakNJSklHYUx4M05HVWgyNjVtY3NDVDNEaFhaUGNTaXdVV0tXSVl3bFFTdWhUSndLMi1EMWEwMVNQS1FJdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 12:18:47",
     "weather": {
       "Warsaw": "Warsaw: -6°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Marsz po tragicznej śmierci Olka. \"Nie odpuścimy\". Mieszkańcy Grudziądza wyjdą na ulice - Medonet",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObnhyMG0xY0RHcjJ1OE95Wjh1Z1dsQXpIb2VlYmJZVW42dFpNRjBKZGZVT0Ixb20tdENuTmQzUnJ5c3dWU25pY1duM2IzekpDT2FWOFBlM0RQazlxY3dvYmMyanFkM2U3dmkzUTVGRmx2R1R2Y2VDSDU0ZEpoYTd3WnJmMVMybFhZUXlRZ0M4Q2F3aTZ1TjB2ZklqQThITGFYSFNxYzd0RVExb1pMd0JOTW85NTcxeERwdzA4bjFrbE1qc01ic1hJYTZJNjJ4czdSSDc5dzYxZURKTDJyTnRxWjZfWQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-24 17:17:47",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 316668,
+      "DOGECOIN": 0.437827,
+      "ETHEREUM": 10486.77,
+      "LITECOIN": 241.77,
+      "RIPPLE": 6.79
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Protest przed schroniskiem w Sobolewie. Donald Tusk zabrał głos - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNkFuU2lSN1M3SkZGZ2toX2h3bGNsdk1vRkdkclB2QlhMalRZbGY0Y0RrMzJqaXRZQWEwNGRGWVF2SURXMk5rYUV3Z1lrRktrU3VXalFCdEVsRmVwcUltR0VnR21VZ3U4YS1WUnNTSjdST1cwQUM5SDRxTWtnV3A0V3NrYmNpRXlSSGNqbDBfbmlCYVVIWHFKdmtyQmFrNUI4N241bFN2SDJ3OHhQYnpUekVDRWdOSmh1VzdrRWpJblVtV28?oc=5"
+      },
+      {
+        "title": "Nie lekceważ tych alertów. Pogoda zrobi się niebezpieczna. Znamy prognozę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTlo5Yk92cHFweGFDLWJ4MVJTbExPOTJncEFyMXBTNmtDTmJvN1EtamdleGdCckdwZ1c0T0V3MzJqRW9OLVlsYzg1azRKQ0MwenVTOTZtWm5HcDhSb0ZwaEc3X0ZpWGN4NmtNOGtrZmY1aG1wSnMwcXNkNGFhNzFtSy1GbUw1amNIR2tjaEdHV2hlWm1fNHdBOTF0NTBFU2pMM0IyMGpwamU1R0Z0cWRLdXNPOG1hcEswU2VIU0FTazZJNVVhRHA1dGIzcw?oc=5"
+      },
+      {
+        "title": "Rodzina uratowana na Śnieżce. Wspólna akcja polskich i czeskich ratowników - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnZKUFc2Z1M0WGR6S0FjQmUxSkh2eWF6bllBczZScVVQUzlDVDJybkNaWVVyQmVET1FTNFNqYmFTanVwUW03TjFJRTJKMDhaUE9JNjZVck1TNnBEWlVVTEQ2UkdCWkozak84dUxqVGVlbXI5OUNEY0dfZ0tCZmluZGZ5RkpBZ05SdlNuMmt4M3ZNNTBrbkdhZEtoQmJWWU05QV80d0c0azJ4WFRhdFlIcGhOTjFtRlE?oc=5"
+      },
+      {
+        "title": "Oficer z największą wiedzą o NATO odchodzi do cywila. Czy MON pozwoli gen. Adamczakowi zniknąć w cieniu? - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTNxVnBfWFJDZ0Uwak5HLWVsb2U4N3NSUlFQbHhTMFh2Y3RIWWlGUnZpUlFZTTdPUE80Q1VFSTJVbWlQQlF2Y0JkaHZPemttU1g3ZkNPcm1CNGk1X250TVFMc01GRGV4enZNVFo0OHdMV0E1aHVoYVZXdVVIWjRJTHlfMGZQWjBRcVdBNkpTUG85a05nTEZkU1VsaE5pQ3ZOMHFzemozeG5FMWc1N1BsWC1HTWxzbXNid0wzejg2eTFDNTN0SDhaaGxoLWIxU212eFE?oc=5"
+      },
+      {
+        "title": "Sędzia z Olsztyna ma przeczytać 320 tys. stron akt. Jeśli da radę, ustanowi światowy rekord - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUl2d2FvWTJ6N1NLMFJ1Q0xXcWk1UF9fV0ZkWUg5SHlLVlJscWNPSHRwOGpGRXNYdjRzUzM1WXpFSnFXSXY5Mnc4Nk9YZ0VTUndJb1Nyck1MR2xaSExPYko3NVZ5R3JYZHJmcS1YMmpocWlJZkdpRVpqN2RSN1EtYWg0RVNjRlNuWVk5Y002N3FNbnZpYm5HbkpMb0JLaVpmUEVsOUxTUUJZNXd4bk14cm9iTkQzSmc4VDZLQnJwVmp1SmxRNGN1TGpMUQ?oc=5"
       }
     ]
   }
