@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 04:42:23",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -12°C",
-      "Gdańsk": "Gdansk: -14°C"
-    },
-    "rates": {
-      "USD": 3.6118,
-      "EUR": 4.2271,
-      "GBP": 4.8434,
-      "CHF": 4.5553,
-      "JPY": 0.022858,
-      "AUD": 2.4369,
-      "CAD": 2.6096,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 323659,
-      "DOGECOIN": 0.456859,
-      "ETHEREUM": 10847.55,
-      "LITECOIN": 247.98,
-      "RIPPLE": 7.01
-    },
-    "indices": {
-      "^WIG20": 3262.89,
-      "^WIG30": 4189.97,
-      "^WIG": 3262.89
-    },
-    "news": [
-      {
-        "title": "Fatalna jakość powietrza w Polsce. Tu sytuacja jest najpoważniejsza - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUE3YUxnS0c5Sm5PTUY0Q2ZScnFTVDFoUlkwajU2cFRBTWJMWTdWRUYyYnRZYlRIRUFFOWVKTXNyd1FXZWwtNkZTLU10di1qV0hJRGxNUW1FUjZxZ1JZVnMzd3JGVnczX2xjU1lDMjZuTU9uUmtsUFg5RHlha3NDR1VEbGFIalFGY1pVNTlPVlU1V1NmLWVweEtJZG1RR29oVXNtYVNNZ0tTS2M2XzFVS0RKdVd5VHhFU184ZXQ2Q1dTZ3YtV09xYTdqSHBUWXlyandj?oc=5"
-      },
-      {
-        "title": "Projekt ustawy o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw - Gov.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQTEI0dl9hLXhaZ0lfQXloXzNvWXczOS13TFNJU2R0bEhxd0NyNVhTTUkwQ3kwaEV3Ql83cUZrQ0prVzlnZUhQaHJQV1lMM1hfZnlDRUZmMTNHc1NWMFN4a1NJM3JZZ2YzRTA3QXZCMzc4TXVGREZsRHdRdWdJMUc3Rk5xYmdzZkE0R3BOdU9aRjZzZk53WEhjZXZGMjJyV2dXYlh4aEVFa0FwZlA3UVRoU1NPRjVaTTRfV25PUnV4OFNlSTk1ZjNrSEtqOF9UQXBHZXpheXlYbmVRYkhDdUkyT01NdEJHWFJoWFVVXzRNMGp3cWpIODA4bE9iMnBsalRfTm5zRFpKUDI2dG1tdjFGVXpCMkliSnBxbzlpLTVTWG1SdVpkUmZ3ZFE2cGFmaU8yanlMWmxCYThlQ3czZnc?oc=5"
-      },
-      {
-        "title": "Mały biznes boi się KSeF. \"Wyścig z czasem\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTNLZm5XemZtbVJaYmh5bVVtTVZHa2NQbDc3dTljV01yY2EtbS1ob3BwVXNqRDRmRF9KMXh5dXNKLUdla2Rad0ZEaE9sQ0sySlNlQ3JuUHdaRHFRdC00WXVwM0Z0UmNwVmlqaTRpeDh0Q2FldmE0eTdfWEp3VWJ6V2hWcHowekZyWHlXUnF6UTRGalN6WENJdWFhTQ?oc=5"
-      },
-      {
-        "title": "Polski minister pytany w Davos o przyjęcie euro i prywatyzację spółek. Andrzej Domański wprost - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmJIeHFYbEUzWUdyTFB1UlBWYXNNM245cXhSSHI0eklic0Rnai1ob2Ewb0JzWlkzTTJSRmRIalJ5YXdEdDNsSURSR1JDVGJEQWdDZmZzYTAySmM3dkZWS0duUjBMdlN5b09Xa1d2Q3FJNmY2RUFRY2hPeHphSnBqeHNlVlFIT0xnN2xjOHVPckJ6UzJlUER5ZHZDX01yUG9zMGV4aDQ0NDlLQWVkYTJGdVRHZFRJVGxOdDBrNmJYNU1SQTRLZjhn?oc=5"
-      },
-      {
-        "title": "Donald Trump traci kontakt z rzeczywistością. Do porządku mogą go przywołać rynki finansowe - Opinie - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWlCMG9iQ0FSQWZWdmNzQTJ2QVI4V1JpZ0l0U05zVGhnWDQzQWg2MFFvMjFpWGRyVGJZWG9OaF8ycXp3Z1ZZUHpsQUJoYUx5dHJINWhDSDVDeXVESzhVV3VPMFdIOC1keU5hQ2FiN3oyTERGcEpwTEFZZExJdGhTaHE1WWhEcEtZYmVXUXRoX2VyLVNEVlhPLUxLZG1YTFdjWjROVXVQNk5xcnJTWDJjbjg4SlcxS0FW?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 05:42:27",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-24 10:15:07",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -7°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 318242,
+      "DOGECOIN": 0.442157,
+      "ETHEREUM": 10523.18,
+      "LITECOIN": 243.5,
+      "RIPPLE": 6.81
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Działo się w nocy. Nawrocki w końcu odniósł się do słów Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmxzUnVzdHlERUFHZG9rMk9SaFV1NV9LV29EM21VYVE1ZXFJNFVZazdaQWlQbC1OTGs2RnJUS3Y4YXM2ckpidk1uUTNsRHEyYVFORXg0VVFuU19VNy1Sb0xQMG5aQ0drRG93RENzNWN3V3JQckxRdHkxTHB6Y2VSUEtGelA3V1pEMTh5bWR2UG5MV2o0SVNnb3RjcWkybEh6V0FRUnlxZw?oc=5"
+      },
+      {
+        "title": "NABU, Jermak i \"trzecia odsiadka\" lady \"Ju\". Kulisy afery w ukraińskim parlamencie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjVOZDY1Y3V0TUpLQXJRdXZnMHVVY29qYkhoZEFFbG1Fc3VleENDbzhpZjJhbU0xQWFlcUhVS0hZaWxxR3RTaHo3RmhEazNzTXhPWjFXN3VUZG5QcjN4Ql9KV2x1ZmdPZzNQcUNRRUFHWFFYbkVkaVAyRWdjRHczYnBXdGpJVDIydmVGLUpKN0RsSWdqRkxYOURIa0RRejZDLUtuVFdQSEYxU0lfc1RmNEQ1d2h2c1VCeXFr?oc=5"
+      },
+      {
+        "title": "Trump wspomina o mrozie w USA. Wspomina o \"buntownikach ekologicznych\". Oto jaka jest prawda - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDZFaUZrOXZscmxRMEMwN29RX0FuczRSaTVETzM2QzNTVGt4ZjBCRnZoYlM0UTh2a18wRTludVo5ejVfNDJLUHhJQ0lWbVhqbjFyeU5FeF9RTXoySkVTNHBjeHZzbUdLRDAyX21lSUV1VGJ0SEFwamNEbnJoOGw0T0o2SVZxWDJ5V3lfWFRadmMweGRhTEMzZk1xWUdxUFBESk9wODR3emJzOWVnYXJVOVJfRl9UcHNFdlJ3cEpiVll3QjBKLXpJeHlTYw?oc=5"
+      },
+      {
+        "title": "Dawid Mirkowski ogląda własny atak na Nowym Świecie. \"Ciosy były dziwne\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckxrbURNUlR2SXFNTlcyVUdRVng1bTdYb1VidnptV1dGSW85elVNSk1kM0xiMVhfY2hJQldhR0lWUlUxT0hoRW5QT09xdy1qVUFIRnVuZ0lHcEpmZUFRQVhLSHBISEV5VUxpalhGOU9WWjltekFUc2Uxa0o0aVZTUDNQQU1PcThxZmhDWkVhNVJxejJJRkN2aTJjOFlJemYzZDIyVGp0Ti1YdGdXb1BjQXpvVVR5NmhTQy1IZDdMd0VmWTU0YnhFag?oc=5"
+      },
+      {
+        "title": "Umowę z Mercosur uda się zmienić? Polska liczy na wyrok TSUE - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUQwUjJWa0puNkJPVDY4WUZQcHFQd1UyYnZ1NnVoZlFRU3NLYms0eTllc0lTS3E2Mjc3WUZwNmpya2RHLTE2VkNoZEZEejZYS094MHp1aE45ZkxjRURSV3Rtb2dhdTdNalloTDQ1UWlheUhxc1BJcWdGTnE3N3Q3QkV5elk1alk4bjNTbnVJMEVIdXhoOS10RUpWMVM0UGN2Z3B3dFhMZEQ4QWlNbU9YX1ZONkZoaGJCelZvSA?oc=5"
       }
     ]
   }
