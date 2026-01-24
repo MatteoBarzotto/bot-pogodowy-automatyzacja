@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 08:22:18",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "Gdansk: -12°C"
-    },
-    "rates": {
-      "USD": 3.6118,
-      "EUR": 4.2271,
-      "GBP": 4.8434,
-      "CHF": 4.5553,
-      "JPY": 0.022858,
-      "AUD": 2.4369,
-      "CAD": 2.6096,
-      "CNY": 0.5186
-    },
-    "crypto": {
-      "BITCOIN": 324147,
-      "DOGECOIN": 0.455366,
-      "ETHEREUM": 10838.11,
-      "LITECOIN": 246.49,
-      "RIPPLE": 7.02
-    },
-    "indices": {
-      "^WIG20": 3262.89,
-      "^WIG30": 4189.97,
-      "^WIG": 3262.89
-    },
-    "news": [
-      {
-        "title": "Zaproszenie dla prezydenta Nawrockiego do Rady Pokoju. Andrzej Duda komentuje: odrzucenie nie byłoby racjonalne - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVp1TkJONzI0UFlWUkJ6cGMwZGpGZXE3MzZ0R29NVmczMUFydHRCTHFmeWNOemM2N01LOWxfZ0R2X0p6NEtDWWpYb2VENVFYaW5mX3psVi1QRFZLQ2JPVm5MTGpvMFNXeUxubGpMVjE0SE9iU2RJajh6SDlvUHh2cTROLWE0VDJWTmR4ZEl1TldoTHgzOW5JQWZ0bkhLenFoRkhGV1BpQ2NCZTFMUjl6alQzaGxfT1k?oc=5"
-      },
-      {
-        "title": "Minister Domański w Davos dla BI. O Trumpie, progu podatkowym i wydatkach socjalnych Polski - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNFhwejdFQmI5bU96UE5PNEphdE9HN3FEdmJlQy1WaXJTM2UwLUg4dUpsOTdPdmk0SFh2QjZwZVQtWFpIWHJvTF9QNUt6dng0YXpIMnhISVFHSmgyWjExVWFWNVJUTjVZZnpFLXJaS2ZuakFEMTdYZzlpR0dZMFpZcVdtQjVKYXROYUZITXJLUmpJc1RhNF9hY2pPT3pVTkhwR3IzbjVuWDJtbkYwRmRuWGZNSDhCNzNpNm1PSDF5TjE?oc=5"
-      },
-      {
-        "title": "Mały biznes boi się KSeF. \"Wyścig z czasem\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTNLZm5XemZtbVJaYmh5bVVtTVZHa2NQbDc3dTljV01yY2EtbS1ob3BwVXNqRDRmRF9KMXh5dXNKLUdla2Rad0ZEaE9sQ0sySlNlQ3JuUHdaRHFRdC00WXVwM0Z0UmNwVmlqaTRpeDh0Q2FldmE0eTdfWEp3VWJ6V2hWcHowekZyWHlXUnF6UTRGalN6WENJdWFhTQ?oc=5"
-      },
-      {
-        "title": "Te memy na Dzień Babci podbijają sieć. Uśmiech gwarantowany - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVljT2lmQnY2T2kzeTJDN1JrMnVveGhvUkQwVEZGU2RiaUFoUEs0MlNXTDl5bGxObnd2NmFmcmMxUndCUUhDNXFBaEVBOGhETWFDOV9OQnlsb2gzWUpUZGlpSjljNnNSNEFrUElsTy0xZ05keTQtWHg4MVJHa2RWenZKUExlaU4ySXduaUxQNl92UUF6b2lEeEhXajhCMWtqb1dwUko2YXFGUTJ1RDBodVFCdkE?oc=5"
-      },
-      {
-        "title": "Miały być krótsze kolejki, jest nowy problem. Będą kaucje przy zapisach do lekarza? - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXJXRDBVN25heFNXTjkyRjk0X0tDdWdtMGY0aDNqajlITmFiNkswcS1jS2F2TjF5QmEteVlUaUZ1bXFYaEhFal9nYzlxXzZCNzFNVk4zRUdxaTJaSmtRMHRXR3hGa1NzTUlVZDVnM0c4YTdhUXdJRzhlaklTbGlqUFEzZ183Zjl5?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 09:24:01",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Atmosfera strachu w Czeczenii. Kreml szuka następcy Kadyrowa - RMF24",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOG1DMDhyZExCbWlXd0FacFo0SE5KQzBOVUJ0N2xHZlE4WFlaMXJ0QkV4Y2ZQQlVBSDdKS1Yxc2VHNzhwZUZwX3R2VjVVQ01Id3N3MFFFRXlTRjh0WV9SbHFBby1EcWRVN3k3M1VSOWhyWTVHZnFaSzB5ZktWNHpnazd5Vi1uNHh0THIwWWZhWWlfOWhwdmtpUE1lMzVlYzRaWkFnV3hlX2h4al9ycVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-24 14:26:47",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 317802,
+      "DOGECOIN": 0.441538,
+      "ETHEREUM": 10508.45,
+      "LITECOIN": 243.99,
+      "RIPPLE": 6.82
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Iran ostrzega USA. \"Każdy atak potraktujemy jako wojnę totalną\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW1TQ3MyNWg0MzFkck9tb0pReFJlaW9VenUwYmtTTE5jSjFQbGJnVEMybzVoc2p0dTZ0VjZpcnh4OTlud0tjSkJxamh1TmlNOFg0YUJKZzhJbjU4bmdlTFJYSktPZTRBNGJubjFyaHFzRXVUejhDaFRORmdsSVcyc0FwOWNsU0IzZTg2Z21Gb3piMC1fc211b0NhSGFiTEhILWJZSDZn?oc=5"
+      },
+      {
+        "title": "Fatalny sondaż dla Ziobry. To myślą o nim Polacy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUViNG5Ma054bHFndzl5SzhONzcyWHF2MDFyX3ViX0NXN1hVbnQxTUF4QzViRUpUX3ZERnRIN0xYVGVlNnJTeDdrYXBVcy1NeEVYeTVrX2hiU1JrOEpzRzBxcEZGeEJGSzN1NE5uZ0FDQUhDR3Nka2tpQ09kQ1ZtZmxXcGRsQkRNZWlqYTBnSWlBa1Iw?oc=5"
+      },
+      {
+        "title": "Rywal Orbána odkrywa karty, ujawnił nazwisko. Zwiastun rewolucji i szansa dla Polski? - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjRDWlZQVGQ0Tkd4bHZVSWktbE5iUk1QeDJBckFrQXZxVVg1VkVPUnNGbzZWbmFnRUpZLU5vWHJuOFZsdk5vdW5zM0xibE5TbEJENnYxRXVkbERKVmpabnpTUFAtRi1sYVAydW5xaHlNZ1hzcWYtWnBVZ0M3TmpTVWNiWlJHNnhDRzNOb2hXM0NRcTVOZlQ1cXRQV0k2YVoyTUhoamFtX0VhanFsVlg5TXVVaHZWcVVCd0E?oc=5"
+      },
+      {
+        "title": "Atmosfera strachu w Czeczenii. Kreml szuka następcy Kadyrowa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHU3MHF4eVZoS0lYVjV1NUszUjN5ZEdwa2tBY0hwcVBETXlEY0dFT1ZIM2lFZHJVc290NWpEZEZUa1gyWmZaa0lmbFAtVmRnYVZBUnE1MGR3eGYxdkZkNm9Xd1QxazdrYkxYNHc5UFZhdWJya0ctUUZTaUtiUk9sTEJYTEdqdFRqQWoyQ2lzRUJFX05ERnk3aTdXcndOTl9KWlprRw?oc=5"
+      },
+      {
+        "title": "Katarzyna Dowbor apeluje o udział w proteście. \"Trzeba być potworem!\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR09UWURXZzI5MHB6X0U2M2lUQlZBdDRjdWMzbTU4MGU2U05EdzhXWTlhOHNKdGEyTG5VSUhtdGYwckJVVFBmcmxoY2N3NUJRMlRLcmJfYkpudk1KSlFsd2RQM1VUUV95LUpBdmdseWUyQWNvNXZNQ29qU0RSM25ROFNxQ3EyVU83cGUyUUZHTnpfcEhVUXJUeG43UjNna1ctQ0JUZEM0QW55b3EwVEVNN3haTnAwTVl0NzlkRlJB?oc=5"
       }
     ]
   }
