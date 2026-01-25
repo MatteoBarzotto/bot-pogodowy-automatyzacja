@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23 00:15:59",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -14°C"
-    },
-    "rates": {
-      "USD": 3.6028,
-      "EUR": 4.2128,
-      "GBP": 4.8434,
-      "CHF": 4.5419,
-      "JPY": 0.022704,
-      "AUD": 2.4505,
-      "CAD": 2.6063,
-      "CNY": 0.5172
-    },
-    "crypto": {
-      "BITCOIN": 318613,
-      "DOGECOIN": 0.442928,
-      "ETHEREUM": 10517.15,
-      "LITECOIN": 242.41,
-      "RIPPLE": 6.85
-    },
-    "indices": {
-      "^WIG20": 3341.95,
-      "^WIG30": 4287.47,
-      "^WIG": 3341.95
-    },
-    "news": [
-      {
-        "title": "Silny wstrząs w Małopolsce. \"Całe domy się trzęsły\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTJsRWxBM2JsbThCN2NLZzRsYm44ZVN5Z3ZqTzQycGx1cFpjbVJuXzMtQWQ1dmlBWFJSWFU4T3ZvTFB1Q3hPRTNKaTUtVnY1MUZRQjZSNi1GYTkyVHJNNEV1VlJZdkpNbUUyRVNCMFV4a1JTYnVYMWc5bWdyOGxmaXpJLTFrR1hBLS1OMjhhZmFVQ1g5?oc=5"
-      },
-      {
-        "title": "\"Bardzo ciekawa formuła\". Znamy szczegóły spotkania Nawrocki-Zełenski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlFXWWRYMFhNdDdKRVU5blJ6R21WN1FLc0o1QWNaaEJoUjlyeVdCOVhrLVgzZUdMRnRONUFvWm8wQlM4SFQ1NHBWRC1ocFZ1elkzOUdUUjZIR0duUTdPb2ZnQnlVekhBZEIxUnJ6THkzUWlJbk9sRVE5ckFQeW43TGtmZU42Sk5rZTFXN1hWTlY0d0RoTnZuQXNuNUVGM2RPMWpXelFpZFVUVklxdHpFWkhSRQ?oc=5"
-      },
-      {
-        "title": "Działacz PO prezesem w spółce-córce Orlenu. Był bohaterem afery w stolicy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWERtTkdRVHRFcnhUYXhjMHVpbmxQODI3WGpyTnhtblpkV3pINzZMWjVnc3pKeEw3WmFPOWNQRGNOQ0lWUlpUXzdQYnZiVlZIUFNDa3JhMzEzRU56dTdzWEg1N1kyU0NfdlM2aVAybXFQcjZTT1pKYnk5RjNkd2d4OExkMEJDLWhld1RDT3Zwa3pQUkRqVW9peXpIUWN3NjBiamFiS01SeFN4cXRBbWhtdE8tTEFSZw?oc=5"
-      },
-      {
-        "title": "Trump z nowymi siniakami. Biały Dom zabrał głos - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT082WGxEVDNoWjV4RWdxM3Bqd3dMcVN1U3BLTkUzNEo1S21WX2RQaG8tZ0dfMFZHZ0FVWUQtN1lWOWNoNXRnWk9JRFJXVVF6ekFwUWN0cUJFODVRMm9sdVV3T0JKUU9ta1JhZUNybmQ4d1hpZS1fM0w3bGxzV2ZkU0hfT2poWTA4clRyWVRzU2NxcnM?oc=5"
-      },
-      {
-        "title": "Nowy obowiązek dla wszystkich firm. Skarbówka rusza ze specjalną akcją - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmQ5QjV1TU1ka2IxaDVudHBwczZtbEZ3SlctRWdzcUJjcFZ3cmhfTldvWkJZNVpkYWxFME1CQUVFdlZWM0RHYTZ1TGRtUW5FOHAyQUJmODBVZk5saGpOWUJpVXFaREVBVnJQaldUQnQ5TmdWRzNXUDliV1d6enNsWURFVngweGc0aHU3SEZGY0RhNUlLVmpiN3hjRXo3YmZLZU0yYUJMU2dwRHFwYkdkV3REYThReWN6eHJ6Zkc5Yms4Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-23 02:14:36",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Zmiana wskaźnika, zmiana reguł gry. Co naprawdę oznacza koniec WIBOR-u - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0JnVDNfbzExc0w3TzhnQUVwbThyNHZEX1drRTNBLUNWZWNKMWZfUVg3V2I1WE11VFJ6Q2dha2FicFpmY3Q3RW5LN1NqcHotek50OGZJemFSUmhkRWVRUWJXbWRyRWNtTWVSWUJMZkZuN29NeWpSTVpmNXJRTnFaS19acmpRNzlKdVE0R1lkaUNLd21MeVhRMzhmelF3MXVQMW1rT2VYOGdTUlVYRHdhTXRzaDd3NlhCeHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-25 08:17:09",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 315015,
+      "DOGECOIN": 0.436525,
+      "ETHEREUM": 10435.07,
+      "LITECOIN": 243.06,
+      "RIPPLE": 6.73
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Sytuacja jest rozpaczliwa. Dla Kijowa najbliższe tygodnie będą kluczowe - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWNocjZaSmJRTTUxSGo3bWhlLVRZeE9QU01qQVkwN0VyWl92Sk53T29UbXZIY3R6RWx5RDlVQUpMNnF1Mk1ZMWFHcUNTdGRMYUt4UXZKaWY5eDUydnhMRGxCUERTZmFYNGNzbGRIR2hJcXBsbVFYbzNuZTctNkZnNTI2ZXYxeTJCeXNNSGoyeUdQNlpaSEJyODRtOTY3blgyTmR2TUhhUkpLMjdXNG51WHQxUQ?oc=5"
+      },
+      {
+        "title": "Jerzy Owsiak oddaje część obowiązków WOŚP. Mówi, czym chce się zająć - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEdocWhkaWxKdW05U09zQjU2VDNxWW9ETDdwbFlzMi1GcWRxT2J3bV9adFRySVM5Vm4tbDZEd2FkSVlORmdrNk91cEpUUzd0eEdCTTRZQ0d5QnZJZmoyX3p6RW11aV8zVWVuS0gwb2lNMkpxMmlMZVdUeUVBZ2xaMHRSaUhiYm8yeUcxREhVbFRFODl3NlphYXQ2SzQ2aGct?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Trump ciągnie Nawrockiego do współpracy z Putinem - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hUbEVEckhXRTFOX2k5V3JWaWVDRGFnX05tOHVCY3E3cUFwb3F2d0UyVVVFMjF1Nk9QdFVNeFdrMURTTEx4eTFrRm9oU19VR3VWOW11VkNlUnN1OTgwWmhqRkhmaWNnczdjQzR1bFA0SDAxYW5ySmtmQmF3VFVwQ3ZBWlZGajMyekVxOFQxTlh2cks0LTZLOVBvM1p6aGotQ1o3Mnp2SThMRll6TXNhOGNteU4?oc=5"
+      },
+      {
+        "title": "Trump – reżyser polskiej polityki [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHlWU3RXeWlIUWJPemJPUFoyd0llTlNYUjNZVGhkTG90Y3d6Qm9VQXJsX1ZEbDBpTW9aZUYzSExUY0Y5eTNtNENxVk1hLVhfZzlLTUU4UlViTnp2UGxlU0lGektKY2N6Tko2c2dxSExIczR3U21UN08yT0hMS05lUGZhYTI4RFIw?oc=5"
+      },
+      {
+        "title": "Marsz Ciszy w Jeleniej Górze. Mieszkańcy upamiętnią zamordowaną 11-latkę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbFFaSXRSUEs5dHZPeVZMaFdMV2Rtek5VUjNJckpyUm5CNTg0X3g2djBFOEllczJiVjYtRHhLN1l0WXpoeDFnYk5OQ3h1bUJKOTVOYlMxWEVrb2FGWF92NEdkRldyNDQyRjhHTHl0aXRnZ0oxUTFObFBXVkVFazBWS3RzckJhMzRZaVMtc1lxZEZhOUlxME5DOXJ3M0VmTUVHY1lxVVAyNjNCVHdfc3lFejhDQU5Sd0t5R2hFYzhOVTJZY2ZZNWRId1FrV1g4dw?oc=5"
       }
     ]
   }
