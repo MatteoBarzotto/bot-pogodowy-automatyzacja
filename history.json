@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22 22:17:32",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -13°C"
-    },
-    "rates": {
-      "USD": 3.6028,
-      "EUR": 4.2128,
-      "GBP": 4.8434,
-      "CHF": 4.5419,
-      "JPY": 0.022704,
-      "AUD": 2.4505,
-      "CAD": 2.6063,
-      "CNY": 0.5172
-    },
-    "crypto": {
-      "BITCOIN": 319714,
-      "DOGECOIN": 0.44359,
-      "ETHEREUM": 10502.08,
-      "LITECOIN": 243.44,
-      "RIPPLE": 6.87
-    },
-    "indices": {
-      "^WIG20": 3341.95,
-      "^WIG30": 4287.47,
-      "^WIG": 3341.95
-    },
-    "news": [
-      {
-        "title": "Silny wstrząs w Małopolsce. \"Całe domy się trzęsły\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTJsRWxBM2JsbThCN2NLZzRsYm44ZVN5Z3ZqTzQycGx1cFpjbVJuXzMtQWQ1dmlBWFJSWFU4T3ZvTFB1Q3hPRTNKaTUtVnY1MUZRQjZSNi1GYTkyVHJNNEV1VlJZdkpNbUUyRVNCMFV4a1JTYnVYMWc5bWdyOGxmaXpJLTFrR1hBLS1OMjhhZmFVQ1g5?oc=5"
-      },
-      {
-        "title": "\"Stwierdził, że Polacy są great warriors\". Ujawniamy, co Trump powiedział Nawrockiemu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjc1d2NlY0ZnMk1NOHhCdGRWdkRuZWpocTRGUWFjUy1SbHh3bkxuVDlyekRlTThOTnp4QVBCdHJrbzk2SEpSbXlfcmhTb2UtMm5UOUstN0U2b1RwdTJYTHJjRjZoNnN1dHZiM1hNUk5GSHhVYWtyVWkyVjAtNHU1aktOd0ZFMDlPRGZaN2VBQjA5TFJqa09RSEVvUEFkZ0V2SGZ0bVdIUm1lblJmMURTZWhyQmZRaTBHMVlWZ2l5d3I?oc=5"
-      },
-      {
-        "title": "Pożar hali w Trzebini. Strażacy apelują do mieszkańców - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazlGaXdIZE1Lc0ROUE5nWVRReXJ5WmQ5emVOMDdWemN0cm1NRzE4eGFGZ1hpVE5HaTZaSnc0WUhLcG1EQVdvWG8teVZxQ1FNRmEwdFVKUGJReDRESXpsaVNKR09DYXFQNUZ3czltcDRyRGFDeko1UWF3SEZ4a0U4bHFtY2Via2c5SmtlTm5TaHUweTBPVGd5NkUyUQ?oc=5"
-      },
-      {
-        "title": "Działacz PO prezesem w spółce-córce Orlenu. Był bohaterem afery w stolicy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWERtTkdRVHRFcnhUYXhjMHVpbmxQODI3WGpyTnhtblpkV3pINzZMWjVnc3pKeEw3WmFPOWNQRGNOQ0lWUlpUXzdQYnZiVlZIUFNDa3JhMzEzRU56dTdzWEg1N1kyU0NfdlM2aVAybXFQcjZTT1pKYnk5RjNkd2d4OExkMEJDLWhld1RDT3Zwa3pQUkRqVW9peXpIUWN3NjBiamFiS01SeFN4cXRBbWhtdE8tTEFSZw?oc=5"
-      },
-      {
-        "title": "Nocny horror w Krakowie. Próbował zabić 13-latkę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFNHVlozMm5WTmp2ZkRXUEU1eTdyaVpCQlFNTWtGRUNJX05wNllyMV9hZjJ3YlllcXZ0cFNpOGNSZGlucXdCRW8wVVQ1OU9xUWpETFpRZmtTUTNPa1pPYkVkbEY0Y0JfeUs4c01qOEZjd21SMDl4UWNRMUpXbXJHenRlbHNzZ0dQdHhsWm1WQTJQanBjU1FmeUZiNzdwU1lRSEZTM2dKcG85ZUQw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-22 23:16:56",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Tak Karol Nawrocki reagował na pytania o WOŚP. \"Informacja poza zakresem ustawy\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUsxQVRoYmhVeEcyYmpkbDZ6Z3VlLV83SXMzcmxCRURMTzZocU1lVmZQQURjR002OFdMTDktMjFkLXZTQi1PaDhVV0t6el9ZNXpKX2JDcnlCX193OWtpZEZwWEVzcE9wRWFqYnBVZTlvcjFWekxvQjJpZEtWZy1XS016M2NiSmZIUGo0cmRWSG1JSGhWZ0hLeEozYVdZUnZLcG1rT1I4WTBadWl0eWx3cERzbW41X0JjVC1DblhYa0J4MEQzeFJwdk5ZWldZZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-25 06:23:46",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 315948,
+      "DOGECOIN": 0.4379,
+      "ETHEREUM": 10461.53,
+      "LITECOIN": 243.15,
+      "RIPPLE": 6.75
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Jerzy Owsiak oddaje część obowiązków WOŚP. Mówi, czym chce się zająć - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEdocWhkaWxKdW05U09zQjU2VDNxWW9ETDdwbFlzMi1GcWRxT2J3bV9adFRySVM5Vm4tbDZEd2FkSVlORmdrNk91cEpUUzd0eEdCTTRZQ0d5QnZJZmoyX3p6RW11aV8zVWVuS0gwb2lNMkpxMmlMZVdUeUVBZ2xaMHRSaUhiYm8yeUcxREhVbFRFODl3NlphYXQ2SzQ2aGct?oc=5"
+      },
+      {
+        "title": "Grenlandczycy nie chcą być częścią USA, choć są wyjątki. Kim są ludzie wspierający Trumpa? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFNwRUJsbGdZN1lyX3U2TDRiR3J0dm1fUUtHbWNIZ3VPNkRER3BqTHdlWFFYU1I2ZFJFRHRhbmdtOUdDOG5mM0Y5bFhzSFRndjFqMXpMaTRaWnJYTVVIV19yaGxqZlllRTVabFZQVFFZaUNYX2h6UmQ3Q1IzVGcycDRGZFlGRGg5R1h2UEF3aVBlRGFJZ1d5REpDbDM3Z3NRYWlTNHJ1VGhRcEdMbERMTzdWXzRMS21qWVJZQjJpb0V3cmNYM3otdkV3?oc=5"
+      },
+      {
+        "title": "Putin niszczy Kijów, Nawrocki odpowiada Trumpowi. Podsumowanie nocy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVQ2MmQtSTlCRlczSXFHb1hBNGN6Xy1HRG1aRENnNU8xSHUybHc1dS1DNUkzWHBSOXA2TEsxV1JZZmt0RVJIa0JjQ05LdFBVR3pqeTdndEl4TXZqT0N0ckp5cnkyWkg0S3UtOVdsQ3NWaXhWOUw5TGpVcFI5V3ZPNUVCNXYxRHRPVjVuR3J4OUJSak1hS1QyVW9ZMVRkOU9kd2RLczJCTF9Cdw?oc=5"
+      },
+      {
+        "title": "Zmiana wskaźnika, zmiana reguł gry. Co naprawdę oznacza koniec WIBOR-u - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0JnVDNfbzExc0w3TzhnQUVwbThyNHZEX1drRTNBLUNWZWNKMWZfUVg3V2I1WE11VFJ6Q2dha2FicFpmY3Q3RW5LN1NqcHotek50OGZJemFSUmhkRWVRUWJXbWRyRWNtTWVSWUJMZkZuN29NeWpSTVpmNXJRTnFaS19acmpRNzlKdVE0R1lkaUNLd21MeVhRMzhmelF3MXVQMW1rT2VYOGdTUlVYRHdhTXRzaDd3NlhCeHc?oc=5"
+      },
+      {
+        "title": "\"Są ogromne\". Tajemnicza broń na froncie, Kreml może mieć problem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1JTY0RyOUs5NERJU1RpcW05M3dZTW5tdTlGZzdQQ1lYTm1wQUd1S0RXNlhBYmtxS25tMVVvalp3RVJuRlNMcFNwVWxkdlBaNlI2OTRmVGVETnEzdnZRVkg2SXU5WWZtWF9peloyOVhEYVlZenVueHdmRzYxbHcwakJoXzRsSGJueU95bk9MWmcwN0JwSjRyQV9OcUhuTmNrNzBwTE9YRQ?oc=5"
       }
     ]
   }
