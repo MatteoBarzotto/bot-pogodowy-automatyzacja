@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23 16:19:37",
-    "weather": {
-      "Warsaw": "Warsaw: -6°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 317346,
-      "DOGECOIN": 0.439671,
-      "ETHEREUM": 10397.52,
-      "LITECOIN": 240.73,
-      "RIPPLE": 6.77
-    },
-    "indices": {
-      "^WIG20": 3296.54,
-      "^WIG30": 4233.07,
-      "^WIG": 3296.54
-    },
-    "news": [
-      {
-        "title": "Tajna wizyta szefa CIA w Polsce. Wiadomo, z kim rozmawiał - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlBGdHE0QW5TVXI5M0lNejNrRkQtVWFWTnd6d0FLQTZJa2RUSVF1ZHg4ZlhuSGlMT1ZPZjZ3RkpldmdzSFVIbW0tenZsbU9FYkFDTldqcWpnR3JWNVRBdjhHb1RaQ29PSFBjQUp1eDc3Tm56Ql9LSGViS2JVYWVPc05EMWlIQTM5MENFMXgtZzRKdFp3bkJjT3pNYk1PMVV0S0h5UDlCNWtxd2RRMVhRTmwyMmJPZC0zTWc?oc=5"
-      },
-      {
-        "title": "Mieszkańcy Trójmiasta słyszeli potężny huk. Wszystko za sprawą działań Rosjan. Jest nagranie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUw5ZUYwTV9Mam1WbUFfVll4ZlR6Qk9LT3NMeDVkdDdlNVNXN0FnOXYwU2tzWEtjaVFycnBPNEpxSnlraFR6WE1YUFE5QVU5U0diTkUzcFJrcmk3aDFUSzlCTmdVZ0NtcGNDVG9BaklPbVdCOEoyejVSMFAxanV5QjR6VzVPalR5ZkY5NjhjZEk1UjgtYnF6d2RCWjYzWnY5VlBHRlJkNm13eFhZZEN1aV9RWWlyQW44V1JuN3U5UQ?oc=5"
-      },
-      {
-        "title": "Tusk reaguje po słowach Trumpa. Pisze o amerykańskie przywództwie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFZldjFCWDEwZ2NCdWRINGJPWC01dHpHT19qdGxTRmZ5Qmd4SHpwdVI5NHhNVi1ndVJVNVVmMUtCM0JpbjFNc1c0UWxPUDlOU3JvSk1OeXFJSUd6SzdLSmRaQ1ZCOEFFWWZiUENZNTRvZC1kUEI2bEc1LUNpVDFPX3pGMFpzMFdBLW1Rc2xjZFNxbEh2U0dLa1FDWE1JdWkxYjhoZGFXZmIxTzQ?oc=5"
-      },
-      {
-        "title": "Ursula von der Leyen o umowie z Mercosurem: my będziemy gotowi - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjMyRkFSYmgtdktnbnBFLWZSZl9hV2VJOWU0N2VsZUxMMl9oQTg2dzZKelNxQlhkUVNfZGxaMWlGRmxjM1N2SVNIeEhOaWpkeVhzSE5ONXprTjk1ODVQN2hfV1g5bkdxM1JTQl9ETmM1R04tSEp0Zm5hRDE2REhONmVLUEpzSjQ3UXRXek1pcHdmbnVtT0w0UG9wQmhnczVsZHppNnJBQXNnTl9od1ZON3ZjSzA1eFE?oc=5"
-      },
-      {
-        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-23 17:22:21",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Sztuczna inteligencja rządzi. Tak Ukraina zmieni swoją armię - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlBGNzNUUktBQWkyQS1ReUlVdVNPUVAwYzVIbjFzU0JaRlZiT3dwcVhFcEM4WEpScV9naW04Zld2RF82VEVHOHBScVdGN3gzU25FbkdYZG1FNC1SeGdEdmtsR3JsRERka0tUa3NXRE9ZWlhxVWNQMVFwMF9UQWx6NWRnOUJUZGNZdzJSZHI0OFZINmVMRXlzWFRockFVVVhxOG90eg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-25 22:13:47",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 307525,
+      "DOGECOIN": 0.421064,
+      "ETHEREUM": 9965.76,
+      "LITECOIN": 234.82,
+      "RIPPLE": 6.49
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "\"Niekontrolowany strzał z broni myśliwskiej\". Ranna dwulatka - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkktSFdEXy1rS1Y1bV9tSl8xMkd6UW01TFpKWmppOEMxQkxVbC14NmRhdGowRXVHMWpZVEdWWVd1eXVzR3FWZ242OVJHREhGbUZjQ3VON2dOZkdrZFp0NEF5SElYMEZzMDRjLXo2dFRRSWJubnpqb3cxeks5eUFPY2Z5c0Z4TENTeVlfOERTRWdIQ1h4WThxMXpLeFpuNV9UWHd4MlJDTVY?oc=5"
+      },
+      {
+        "title": "34. Finał Wielkiej Orkiestry Świątecznej Pomocy. Licznik przekroczył 100 mln zł [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdV9yM3AtUTY0SGgxdXdVZ0pIM1RobldnMFdVQkhaS19CQzJ5SmFjcFMzbGNmTlkwZE1tQ3BBSmxwYU4tQjNmVlltcmJ3MmFyT3FlU3BhY1ZxME1NWmx1Ui1DSWZjeDRzc0Nn?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Trump ciągnie Nawrockiego do współpracy z Putinem - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hUbEVEckhXRTFOX2k5V3JWaWVDRGFnX05tOHVCY3E3cUFwb3F2d0UyVVVFMjF1Nk9QdFVNeFdrMURTTEx4eTFrRm9oU19VR3VWOW11VkNlUnN1OTgwWmhqRkhmaWNnczdjQzR1bFA0SDAxYW5ySmtmQmF3VFVwQ3ZBWlZGajMyekVxOFQxTlh2cks0LTZLOVBvM1p6aGotQ1o3Mnp2SThMRll6TXNhOGNteU4?oc=5"
+      },
+      {
+        "title": "WOŚP kontra budżet państwa. Oto jaką część sprzętu w służbie zdrowia finansuje fundacja - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0F4b1ZlR1N2YVRBZ2o3MjM2TmZtWFhlMFBUZlQxX1ZzZkNNTWFhbnJwZElyYWhEMThVMG5XMjd4Nk40Sko2c3dZRi1wUXpSYU4taExOT0ZyMmMzNlJ6MEFUcjF3M1VyM0xlOGJqckxlMHdxTXZLRl93bFdqTEZLQzhZeGd3TnBRZWZ2ZndZcTUtYk9oNUU3ZXVDeFRSRlMtT3pmUFBhck9XV1R2N1czSGtiTjVDMklaMFIzV1VZX3N5N3kyTXc?oc=5"
+      },
+      {
+        "title": "Setki tysięcy ludzi bez prądu, odwołane loty. Fern uderzył w USA - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRy0zUHoxOXF4MDhIV2lHdlNkNldjOHJYY3owTFRpT2ZCdjN2bV92d0Qyb202OFBldW9mcWZoR3A1WUZCbng3X2hVUS1FSUtTTzh6bHItdk1INTdwQ2hJU2RzMWdVSi1aTXBGMzd5NUlvVmk5MHBGYXJCVDFZUGlubTd1OGxkbXZpa2djNmFaeFdFUFdfanh3Wm5nWG1kWUFvS0hLRkQwSG5LWlBBbFQ2YlZMb2xhUHJESUIwRlZERzE?oc=5"
       }
     ]
   }
