@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23 09:22:22",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -10°C"
-    },
-    "rates": {
-      "USD": 3.6028,
-      "EUR": 4.2128,
-      "GBP": 4.8434,
-      "CHF": 4.5419,
-      "JPY": 0.022704,
-      "AUD": 2.4505,
-      "CAD": 2.6063,
-      "CNY": 0.5172
-    },
-    "crypto": {
-      "BITCOIN": 320359,
-      "DOGECOIN": 0.448182,
-      "ETHEREUM": 10531.97,
-      "LITECOIN": 246.06,
-      "RIPPLE": 6.84
-    },
-    "indices": {
-      "^WIG20": 3321.33,
-      "^WIG30": 4263.45,
-      "^WIG": 3321.33
-    },
-    "news": [
-      {
-        "title": "Działo się w nocy. Delegacja Trumpa u Putina na rozmowach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk5FbzFOZTFJSVpsSlNoQmE5c0ZvVXcxMU85RFdKQTlvTkdhbjNwMndfSVBLMHRVNDgtblJEX1NIWk1sdXpiWmJDUFh1TU1RR0o0S0hNQzJZOFhDZXIzNkZuUDlrOVJmTGtDMFlCLThtcDlRQThXSnY5SE9PZmlNc0R3LWNSemRlalJTeUdsTVB0RTdTWmNCelh2M0ltODVh?oc=5"
-      },
-      {
-        "title": "\"Jest trudny emocjonalnie\". Jak pracuje się z Tuskiem - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1lXdEhiV3Jmc1ZBblBmVWlseFhneENacW1lRG1TQXlWVUlfMXFVME1feDIwTUYxZWRhb3hzWTdES2Frek00Qk81SEw4NGhJSVNGT1pUVHFwLVpFbms2UWpYQ3ZWTmpWYklxTVV1YUdIdXFpZzg3WWN6T1ZBYWo0SU0zX3c4MnlmUjdwODhPaG9oMHo5U01qRURSTUt0dEZscTJz?oc=5"
-      },
-      {
-        "title": "\"Obserwujemy ich\". Flota USA kieruje się w stronę Iranu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTZmbUNadHB5TVpGODVjQ083Y052dEZwbWczMy1nbjhRYWpKYUgxSGZVdmItTHZYbVNrYnVhQlN5aXpKWEN0VVFremMzVmtZNzgtYmtPTm41eldXQS1SWWp0aEhfTmlmMzJDVENQeWNOOWFqbmhIS2RoMkItRzJKT2tpRFdwU3NTdWJmUW5MQzUyX1haWmFZcFpQbw?oc=5"
-      },
-      {
-        "title": "Ćwiczyli przy minus 34 stopniach. Kilkudziesięciu poborowych z odmrożeniami - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnZPX2tsZUx5RTZvbjZ0TzlCSHpqUmxidjgwdTZrZnJXaFBUYmRMVHIyMjJGR3J3VHdRbXlIU19rZFZCQ0Z0S0I0MGI5eDFKRDdSSDZleFpHRTFCenowMVVyd2hYMHZrbl9LYW1ZelhsZEpUVEFIZGpoVWJOSUphTzAwcGVaQmtoYi1nbURVTGszSWJpS181TVFwZWUxZ3dTc2RRTV9DbmlNUFl4OWNj?oc=5"
-      },
-      {
-        "title": "\"Bardzo ciekawa formuła\". Znamy szczegóły spotkania Nawrocki-Zełenski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlFXWWRYMFhNdDdKRVU5blJ6R21WN1FLc0o1QWNaaEJoUjlyeVdCOVhrLVgzZUdMRnRONUFvWm8wQlM4SFQ1NHBWRC1ocFZ1elkzOUdUUjZIR0duUTdPb2ZnQnlVekhBZEIxUnJ6THkzUWlJbk9sRVE5ckFQeW43TGtmZU42Sk5rZTFXN1hWTlY0d0RoTnZuQXNuNUVGM2RPMWpXelFpZFVUVklxdHpFWkhSRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-23 10:24:29",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Wspinaczka bez asekuracji. Alex Honnold zdobył 101. piętro - o2",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWFfb3E0VUkzVzlyd25wSl9yaUtGdDVJN2dNbEFxczVlSHVhTVhEWnAwV0xTLUhLczR0SWpNX1RWU0I4VDJ0UkJ4MUd4eV9NdG1NbzNINGtoZ0NlZmtmMFdmYm95bm5xSmh4Mk5peFZjdV9EbVlkUHFCT3ZyRGRQZ1RRdWMtYWR0bk1jVWNHMGY3RXVyNFlKQ3JUQk43d1lnMkUzVjVn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-25 15:13:52",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 315511,
+      "DOGECOIN": 0.436367,
+      "ETHEREUM": 10428.06,
+      "LITECOIN": 248.44,
+      "RIPPLE": 6.74
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "34. Finał Wielkiej Orkiestry Świątecznej Pomocy. Tysiące wolontariuszy ruszyło na ulice [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdV9yM3AtUTY0SGgxdXdVZ0pIM1RobldnMFdVQkhaS19CQzJ5SmFjcFMzbGNmTlkwZE1tQ3BBSmxwYU4tQjNmVlltcmJ3MmFyT3FlU3BhY1ZxME1NWmx1Ui1DSWZjeDRzc0Nn?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Trump ciągnie Nawrockiego do współpracy z Putinem - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hUbEVEckhXRTFOX2k5V3JWaWVDRGFnX05tOHVCY3E3cUFwb3F2d0UyVVVFMjF1Nk9QdFVNeFdrMURTTEx4eTFrRm9oU19VR3VWOW11VkNlUnN1OTgwWmhqRkhmaWNnczdjQzR1bFA0SDAxYW5ySmtmQmF3VFVwQ3ZBWlZGajMyekVxOFQxTlh2cks0LTZLOVBvM1p6aGotQ1o3Mnp2SThMRll6TXNhOGNteU4?oc=5"
+      },
+      {
+        "title": "Sytuacja jest rozpaczliwa. Dla Kijowa najbliższe tygodnie będą kluczowe - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWNocjZaSmJRTTUxSGo3bWhlLVRZeE9QU01qQVkwN0VyWl92Sk53T29UbXZIY3R6RWx5RDlVQUpMNnF1Mk1ZMWFHcUNTdGRMYUt4UXZKaWY5eDUydnhMRGxCUERTZmFYNGNzbGRIR2hJcXBsbVFYbzNuZTctNkZnNTI2ZXYxeTJCeXNNSGoyeUdQNlpaSEJyODRtOTY3blgyTmR2TUhhUkpLMjdXNG51WHQxUQ?oc=5"
+      },
+      {
+        "title": "Liderzy chrześcijańscy apelują do Trumpa o opamiętanie [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTFpM3VFSUJpQ0NzbV9vRXdUdlRuU2pZUUhqRF9BSkx2S2ZneElsWGJzSUQ2a09XZlJsOWtRd2ctcWtxTTFZT2xDVUJYajF0VWZkWnMwd2M2NWhFeEhVSzBTNTEtZ0JCVC1kWnhUbXR2MDlJUGR3dGU0VTFERlloNndmSHhsNzFlZ3VSZlF5RDdBUlJwV0VVN3BQVWdDZVI0THlGWmc5VQ?oc=5"
+      },
+      {
+        "title": "Nielegalne przekroczenia granicy polsko-białoruskiej. Mamy najnowsze dane [WYKRESY] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFlDaVRxV1Y3TFJmM2xvTlFTODV2NGI2Q2dPSUdPT215S2Z1VHFPQjlyZHQ5QmxmamlqTEtqMHRnSFlveWZIbnpMaGo1ZFRjN2pWZE1XcW43eVlSNG9XSWIyZ2Z5N2h2NXFNZG9veTV1M09zZUFyVmZSaHBNQUtHRy1VR2tWQnJLcDJ3b25mOGJrZEdMd0RCS2ZXTENtdFlXbXloZVlmcGprMTVfOG15Zzh1TEphbnVvZ0U5cjRseDFNUQ?oc=5"
       }
     ]
   }
