@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23 21:18:48",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 320279,
-      "DOGECOIN": 0.444129,
-      "ETHEREUM": 10520.94,
-      "LITECOIN": 241.76,
-      "RIPPLE": 6.84
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Posłanka PiS zachowała immunitet. Miała pomówić sędziego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDhXOWxQUWNhZDg1a0liTl92ZUpSaTRYU2RUQTFXWVl4MXV6VlJibkNhN254bUc3X204amxnWHVsNFJTdWRaWGV6eldLR0pDR1FUR3dpLXZfNWlzYXdIcVVZck1UNGNBOUNoVEJ6aXZjN0dSSnVTd09yZnkxVTJFUnAwZ3p6dWxnNHk1WWZOa09nb3ZVY2lPcTV6SnNudkU?oc=5"
-      },
-      {
-        "title": "Agentka Putina blisko Merza i Zełenskiego. Miała idealny kamuflaż - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzhGUDRGaUpRSjBvSFNrb0tRMmRQMjhlWmJNaXgtQVRkMUtnaTNxaVNYbkhZRVBtcTBSN0RlemxvajhobklvWEwyM1ozSE01aDdtR2w2QVVtUGdtX3dKd0pPdklqN2hGNWJsSl9FMllBd3VVRVNrZGc2VGxPSDhBdDRlaE45ZkJwTExybnZNR19sX2FNWG15Ti1Gc1FBUWlIdDNFMlhNRFpNM3FYNEtLSkp3cGVCSGUwRHdQUmZrUHF3eThiVXc?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak reaguje na wpis Donalda Tuska. \"Nie widzieliśmy uzasadnienia dla takich słów\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjJQajJUUnZJbXhjczJRN3V3dFdvSU9CWDNlaG9TMnJJTkNCdldVTkd3WUhUdGh5b2gtLTFIQ1hjQTJ1SWhOS2JEV2V3N2VYSmxWVkdIdVFlYURDTWxueXc2M2tPWEROaTI0M1FjME15WFJPeHVrVWduUHRMMWF1ckZvTzA2YmN1MVAwTGFkT3RxOVRDYXQ2VVJyRzVVY3QwM1d1Rl9ZaS1WN21Ka3h4YkZ4OXgxeUpWYm9reDVtdnVuMmNDc3FUZVc2WVYtMzVEMXBBcg?oc=5"
-      },
-      {
-        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
-      },
-      {
-        "title": "Duża zmiana ws. pomocy dla Ukraińców. Jest decyzja Sejmu - Next Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGF4VlpzendiclgyNEt6bV9peC1Nd1g5MHFSbzQxR1ZhNmZFeUxEV0xlcWhkb0d6Z1Vyb3NWUVdWTHFQOEVaMVQ5eWhJeGtrbVJPNDJrSHhUNlYzMnIta1ZrUWEtRURZeDhkWWgzTUZpSWtoMzNWS0pwT3h5OHo4aDF5S296bVg3cUpLS292VFZhaHBVVVdjcHl6ejZVZVpNaW0zUzV6Wm5fdlY1MkV3TVdiYzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-23 22:15:23",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Trump oburzony pozwem. \"Za późno, by to zatrzymać\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTM3Rk1xOUYtWUpSWVlhSUhxNzZjdkJQalN6X1FDSTJYbTI0TV9aSHROaDB6YjRqR24yM2RKMVY5aWJyVkU4Mm5OTUo1MUdtV2wzZjRXSkVpdGZZQkFlN0FuNmZRdVViUWlwN0ROWkxyeEVpRVZ4a1lQb1l5Nm1ydW9UTnJsOWlTcEtvWlJqMk5hd3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-26 05:50:59",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 311242,
+      "DOGECOIN": 0.433312,
+      "ETHEREUM": 10165.92,
+      "LITECOIN": 240.55,
+      "RIPPLE": 6.68
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Prywatny odrzutowiec rozbił się w USA. Trwa akcja ratunkowa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEgzdEJpZ1pycTZlTXFwSU5fazVxSmdNbmhONDI4N3FadHhkWnBSb3lyWGVDOVptUTlkZlAzVDBveWY4YmlBSzJfU3lzX1NhUkR6Uml6UHY5U01zR1lHV0g4VjhReTVhVEVTN2N2cV9zRldhWGlvTHBpaVI5UUZyQmtJcXUtMkhucEhtdk5lczluaTFmVU1ObG1yQTYyb2ptaFZyV0gwalFFQzdjT1JkWFhrWWowWk1JME5vMndn?oc=5"
+      },
+      {
+        "title": "Generał z Chin oskarżony o szpiegowanie dla USA. W tle zbrojenia nuklearne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzZfelVSeEZtNzlfTFp2V1loRTBQLUZRZ2M0eDBaRmxPLURVUFJQeU1KMmtzSFhJWjl3WnRKeUIyUHdfQzUxM2VvZUhKa3dfMWRBY2hZU2FRZjB3NC10b3VIZWs4N1pjT09lT1NqdjdaalR4Mzl1X25nczJfZUlDU3RuVFRDVnUzRmlUaV81REE1NUtac19QckI5MGhvRmVuLVhCaF9BUnQydlJFMjBSMzczZXpTbEdwSW1weFNRQXJNY0FMSkFKYWNhUlFLLVF2Umc?oc=5"
+      },
+      {
+        "title": "Poważny wypadek, siedem osób w szpitalu. Wśród rannych dzieci - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHpRS1lqYTFMYUMweEpMbjFVTmh0OTZSeWpOc3JUWnQ5aUVsZ281Y2VUc2ZGNjNtYUo2T1FucEh2NjJ4NUYtZVV2dTdBYVhkNDV1MGVyUWlXVzZSOWY4TGNwVFg0Vm8xQXZkcTNLcjJ5TEg0cTB3RnVGR2treUc4QTN1WU9nTnNXRVhYRUJwaEtpNk5xTTQ1S0RkM28xb3pmWXdDQw?oc=5"
+      },
+      {
+        "title": "Finał WOŚP i wizyta Nawrockiego na Litwie [SKRÓT DNIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFNhZl9XZkpodGtESlZySmZwaGI5VmNFQlRxdW9CTl8tcDAzczFQMWpJZzJ1a1VDUUNnWTg4bWgwWDNpa3RpRldxV1RIV1VFRENLOFVpY3BUWWxGR21CcU90SlBDVDNUelM4Q1oxQllmS1NyWU9JTkRWaTJzTGxDaWh5R1VmbGlkTkhRYkQzajJmRVYxY1hxRXR5dw?oc=5"
+      },
+      {
+        "title": "Nowy sondaż zaufania: Tusk z dawno niewidzianym wynikiem. Nawrocki zagrożony - Wiadomości - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUUzUndnSktjUk5fc0YybDJ1cUtjZlpLT0xxem1WdEFhOUo2SFA2cXVRemk2enhfYi14d1JRUlE1LVJ5U1VLbE1IUkhsX1ZVVkdBVW9ETENVSWNOdzhmQy1fX1VBeVVyQTFaZkRaZUtERHNLM0cwUERaNXJ5VDhmMC11ZXlBc2pXWjg2U3JvVXM5WGRmNEYwNkhiR1puR25NTjVFUk0tZWdtVHk4cllQS0xfZTBLOHFLWElWNjBEd1N3UGM5aTBvYzM0QzJvbWlZd3N3?oc=5"
       }
     ]
   }
