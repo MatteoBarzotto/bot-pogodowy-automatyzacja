@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23 23:13:26",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 318712,
-      "DOGECOIN": 0.442905,
-      "ETHEREUM": 10502.41,
-      "LITECOIN": 240.64,
-      "RIPPLE": 6.84
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Sejm zdecydował w sprawie kryptoaktywów. Jest decyzja - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEFRZlZ3MHRTZ2dJc3d3OXFHVFFGMkJ3dzU1dVZiLUZXaEZxekstalBHTTFiSlltSkJSZWFRTEcwM1RqTDFMTy1kT0o0RGlHWGtLYWY1UHcxMmVWQV9kaUY4S0xvYVlrdnliZFp4SzFoNXlQT2ViOEhyLVpwZW9Ja0RBUnc5MXNhb3VidUxHejV2d3NpRDVUMg?oc=5"
-      },
-      {
-        "title": "W USA idzie pogodowy armageddon. Trump grzmi - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0JwWlVKUlFJampYMVIyTGhGS254VUZXNFZZVmdwS0JoRkFaU21YSUNJN1M2SGctWm9Dc3FMZ2EtQldtSFZfdTRXQURQQVhaVVBIWTdyLXNpZk1WTmZlQVNuVldPMDZPWXQ3WlZhWkdaejhnQWkyejZPRlE2bkhzQW0yQnBiWEE0QVFYVFg2MA?oc=5"
-      },
-      {
-        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
-      },
-      {
-        "title": "\"W pana domu umiera osoba\". W kolejnym SMS-ie był filmik z młodą dziewczyną. Szczegóły przerażają - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1NvTGh6bV9Jc29TRnB5bkRVcW0zM1Z5NTVPS3NvcEVmVVk2bllvbWpNc3duWTlINjBoZUt3MmNjU0o1WmhxSWVfS3dWSU1hdGxNRkIzb2NwSExzRmlVdVJZcWhYV1BNMVFja09ELXNjNjZieVZLNnVzSkZVMjlUSjZVUnVuMmt0aXIxRUF5ODRDSjRCUkNfT1UzS3VRc19ISGl2TV9DaU5lSXEzVGFhWnFoT2czQW5NYncyUmtKTQ?oc=5"
-      },
-      {
-        "title": "Amerykańscy żołnierze upokorzeni przez Finów. \"The Times\" zdradza kulisy manewrów - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEE2WmQxWDZJVlBWZHRLaE1rR1lUaUdwS0lHV3BjX1FCRTFnd3J0QWVhaGZyRWJ2aTBmMXh3anZiR1Z4UjA3a3NmMU5KWGF3OEp1aFBfMWpmMXd1TnBmNkVHRVFjcjRFX0Y5aTBaeTI3dFdNbjM2WnpLMW1EQkZTSzFNa0NuRmhicFpMSzB1d3hPSDhjV1dnSjY3NUMzbmFJWm8teXQtQWhDdHFUazNncENxMW5yd09yUlE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-24 00:15:34",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Finał WOŚP i wizyta Nawrockiego na Litwie [SKRÓT DNIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFNhZl9XZkpodGtESlZySmZwaGI5VmNFQlRxdW9CTl8tcDAzczFQMWpJZzJ1a1VDUUNnWTg4bWgwWDNpa3RpRldxV1RIV1VFRENLOFVpY3BUWWxGR21CcU90SlBDVDNUelM4Q1oxQllmS1NyWU9JTkRWaTJzTGxDaWh5R1VmbGlkTkhRYkQzajJmRVYxY1hxRXR5dw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-26 07:28:40",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 312013,
+      "DOGECOIN": 0.431015,
+      "ETHEREUM": 10221.07,
+      "LITECOIN": 240.34,
+      "RIPPLE": 6.67
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Finał WOŚP 2026 we Wrocławiu za nami. Na koncie już ponad milion! | RELACJA LIVE - wroclaw.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTJSQzYwMWlGa1B6QVZkOGFHUVJFZ3lIU3RmOE9nanZXblFLajhGeXpBVjQ2TGk0SlFjQjBOekJLanI3R29xWTJseHVqRWVJckFRSTBHeS1KZkY1WVc5RHZQUEFmM1FVazBlLUFkbE9Zc0ZNYzlMbFRqWklXVEJVS0JjY1Y2cWk3LU9KWXNpMno2cFRiMGloV3ZLaUw3bEZy?oc=5"
+      },
+      {
+        "title": "Prywatny odrzutowiec rozbił się w USA. Trwa akcja ratunkowa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEgzdEJpZ1pycTZlTXFwSU5fazVxSmdNbmhONDI4N3FadHhkWnBSb3lyWGVDOVptUTlkZlAzVDBveWY4YmlBSzJfU3lzX1NhUkR6Uml6UHY5U01zR1lHV0g4VjhReTVhVEVTN2N2cV9zRldhWGlvTHBpaVI5UUZyQmtJcXUtMkhucEhtdk5lczluaTFmVU1ObG1yQTYyb2ptaFZyV0gwalFFQzdjT1JkWFhrWWowWk1JME5vMndn?oc=5"
+      },
+      {
+        "title": "Prof. Harold James: Trump jak Mefistofeles. Prowadzi złą politykę, która może światu wyjść na dobre - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOem5FUDI2djNHeWctZlB0amtDekNsanV1Wi1Lay02SDRCWnd4dU9RV2RDdENSWnVndDZScnJVdG9HbUtUOE00cWo2X2hLQWQwR3BDX3JvYmJuSmE2YnlfRThTVkkydlJCdWtKaXVndUVXVUJzT0JSaTJ6YW9RMnBTb2lRZ2xWV0NWWUg3UGZqTTV4SkNwN2lQT25QX1ltX09VZ2ktYzhsdXZqUGNXakJzUFFlb2FiS0QxT2w0QmhVOXF5U2lISDdCcGVXeEh6VnYwa1dybHAzVnFpZllGdjVHYV9WMGI?oc=5"
+      },
+      {
+        "title": "Rewolucja dla trzech milionów firm nadchodzi. Są już wątpliwości - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3lFenozUmpUTndzWnI1UHF2d09XSzN3STVaR2NzcnBtal82SkRsRzJwZEM4RFpUREY2WTVVeG1Xa1dDbUptMF9YZ2JES2NGY2N0MUk0T2FFSnppV2ZBZVpLRXlpUXQ5ZUhDdU1Tc2Z6enM0VDYtYzh3OHR3aGdpeW9sRlEyLXl0bm5LY0VPWW1yTElEbm9wMjRqSklJMXFId0xabW9mWGZ6SHJsRDFHdVQ1d0ttZXJjQmc?oc=5"
+      },
+      {
+        "title": "BMW pędziło 320 km na godz. Mężczyzna żali się, że prokurator zabrał mu auto - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVMtbmxvaGNoMEh5RURnYmN2SGptUExtZUpYWnBCdFp6c1MwTGlmMFQ2aVUzZEdpYWNHU0pOZ3BzcExrUFZmQjNYU1kyZndSRE1iUFFkUEhlWVg2SUxJbC1XZHF1NDZHM2M2bVFnQ2tBR2h4T2RWT2dXUTl6OEFVQzh4aExNeEVxWEVmN1RFUndESnJXbVR4SjNOcGhYNnpFRkpjSlZncTJIV0trNHhYQkVrWnEzR0phQW4zQWdqNC1TMkhqbG9MaTAxbzBNVmQxRDZZ?oc=5"
       }
     ]
   }
