@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24 09:19:38",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 318131,
-      "DOGECOIN": 0.44096,
-      "ETHEREUM": 10501.96,
-      "LITECOIN": 243.29,
-      "RIPPLE": 6.81
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Dania była gotowa. Trump miał ponieść polityczną cenę ataku - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUpJcEwtZ2QtVTRKOFpXR3BBdVBpQzZtLUNXTTZVT0o3T2FyZFBDcFRYbGhZa3R0cUo0ZVN2UVlwTWtxN2szcDRhZ290dEJLV3FFOE1YbUVNVVlxQ3FPdXlDUEdhRHVYamk0UGdCanNOZ1ZtejA1NjZ1eUdobElFVldvZ3F2cE4zMmNLYUc1ckY3ZzRWLWpLbVVEWHJ0OEF5N25Z?oc=5"
-      },
-      {
-        "title": "NABU, Jermak i \"trzecia odsiadka\" lady \"Ju\". Kulisy afery w ukraińskim parlamencie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjVOZDY1Y3V0TUpLQXJRdXZnMHVVY29qYkhoZEFFbG1Fc3VleENDbzhpZjJhbU0xQWFlcUhVS0hZaWxxR3RTaHo3RmhEazNzTXhPWjFXN3VUZG5QcjN4Ql9KV2x1ZmdPZzNQcUNRRUFHWFFYbkVkaVAyRWdjRHczYnBXdGpJVDIydmVGLUpKN0RsSWdqRkxYOURIa0RRejZDLUtuVFdQSEYxU0lfc1RmNEQ1d2h2c1VCeXFr?oc=5"
-      },
-      {
-        "title": "\"Pogwałcenie demokracji\". Francja alarmuje. W tle o działania KE - Next Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNk9ZRXBjVHdjZ0tNTHNDZXRHRHRiWUNfaTlyZlIzYlRpT2lWWS1McFVSbU5UU0wtaGNrNlI1UFhDUVREUkstTkhoZ19kTldjYmRYM1hZcTB3amVWYWl2MU5QZW9mZUlEVGJHOXNoY204WWk1a0lIV2lVb1pEU0k0bUw0Rk11d25FYVdMbmZmUGlCeXlIYldqYnJOUldDcG4xUUdTcXdsQWxIajN5N01F?oc=5"
-      },
-      {
-        "title": "Emocjonalne wyznanie w Sejmie. \"Jestem uzależniony\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0l5OWN2REJnc2Nxc0RsTHV3RFVpek9NQXZZTzc1WFJSZGxvcXQ2VDlIMktSajVhUTd0R2F1M25LdlByVWo1WU1Nb29aYVBEaUFBNGVaVjNNc3ZIOE81RlpCN3FuUVptUXo1RDdSbkVCbXVnb0pTZmJPYlAtVWEzcEV4S1B6dGxmVk1zRy1mVkhGYXFkcUE?oc=5"
-      },
-      {
-        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-24 10:15:07",
     "weather": {
       "Warsaw": "Warsaw: -7°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Import rosyjskiego gazu. Jest decyzja Unii Europejskiej - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTdHTW4tSG91UkhWQ0xDcE94a0dFUmgwX0F5UDY1VEZVaXZHbThvNHViRkMxR2R1QUtFVks2RmVWdXVKcHlmaFFXLW13MmZRTnhnbm45Z2ctUGQ1Wm4tTDd5cjhRUndrLTJ2VUVLUnR2cWpJbThsbVZDSmVlSGhXSzNiSzR0WXVsUDB3U1BPZDk2eWRoRUhwN0JoOUJzQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-26 15:22:23",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.5499,
+      "EUR": 4.2118,
+      "GBP": 4.8537,
+      "CHF": 4.5758,
+      "JPY": 0.023102,
+      "AUD": 2.4574,
+      "CAD": 2.5959,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 310564,
+      "DOGECOIN": 0.430001,
+      "ETHEREUM": 10223.93,
+      "LITECOIN": 242.21,
+      "RIPPLE": 6.76
+    },
+    "indices": {
+      "^WIG20": 3327.35,
+      "^WIG30": 4274.05,
+      "^WIG": 3327.35
+    },
+    "news": [
+      {
+        "title": "Zaskakująca czystka w Chinach. \"Organ głównodowodzący zdekapitowany\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlkwc2k0T2xPT202Z1dRMFcyZGo4LU4xbThVVHA3VnZjbUEtYUcxY3k3T21ZWEhsUThEbU1fQjZVSDBscS1tTDlvZmpxMHhDMi1SNlFzRG1mVmhhNHdmZlpFeG9IQ09lZlktRk5oejktbUdGMkRiNlVhSS1sMlVLUmtOUzlITE44ZHpocFg3NzRmZV9WQU1FZnpTc2txMENxbW1FRHJMcUFqdFV2?oc=5"
+      },
+      {
+        "title": "Paraliż w polskim mieście. Na SOR-ach brakuje miejsc. \"Apelujemy\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONFFHbzViVzlqNVF2aEdyZUNNMlFfWHdOTzVlY2tIZjJrbllTc3FIMFZOTTJvQkc5SkNEWEhHV0IxRzAwYzNvMHNlSWVWMkNUeFppVlRNUWxZR2VfVzNCUXR2dlVhZWpOSWxubTdpZTRULWNLU3gtNHlBUkhYNmpLUWNNU1pQSlZFdlZqVTlVQzUzOGhDRVhMNTljZmFXYzZHdHliQ1BBLUNEM2Z1V1ZmRWNaTWgtcnBYRFNuNQ?oc=5"
+      },
+      {
+        "title": "\"Zero tolerancji\". Ministerstwo sprawiedliwości zapowiada zmiany - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU10SVRyRTNld09GNDF2ajVMc3RPT3hhdnBmenM4bnMtdldLcnNsSnoyLWZHVHdIZVZrVFgxZFdfTzc0QmEwTWhEaU5mQXRSUTF1Z015ZWY4SS1FMXhZLUZlZmxlUFE1dC1nWHpOdDkybGtPWExaeG5IODh2SE1iMk1zNVk1akYteHRyT3g4enpXVThCWkFoQWlkYS04ckZYcUxPRQ?oc=5"
+      },
+      {
+        "title": "Samochód wjechał w dom, są poszkodowani. Groźny wypadek w Płocku - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORE80eXhRTEZjSGVwbzBuUERRSGlPNzZzZWFobUpDTzRnNXVDWENBcUVfMmYwVlpFRWJhWHJXNFFpeklfMFIySlVZelR6dkJjMUN4cTgtTUUtX3NrTFQ4dzhkRUR1eTNyWlVFelRnYUpubVEzQVNhNU5EbmVJWklydGQ0NXE4d054OXAwY0YyMlFXVXgzWGdfUWcyREVwZVJkOHZob3BIUmpkeEhjWG5v?oc=5"
+      },
+      {
+        "title": "60 lat polskiej transplantologii. \"Jedna z najbardziej kontrolowanych procedur\" - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUlZdzdaTWVxSGVKOXNPNlpnMVoySW5kSEhDLXUxV214eG5XeTRlYkk5RzZJRzNfWE94NUQzZ09MN1pyVThqMjVVXzVJakJIQmFMd3NhUmd2bmYxTHNBd2tLMzE1Z1BlUGhJUVR1dUlPeVJ0TUpxRUE4RWtxTGl5cGdfUUlSTGhwMXM4c3R6eXJNRVU4elkzYjVtUURzd1dXSTNrckpDTXFrLW8wR3U3WFJVX0pwTXhmVGdVLTY5dlY?oc=5"
       }
     ]
   }
