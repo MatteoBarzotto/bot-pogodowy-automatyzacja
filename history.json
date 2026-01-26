@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24 15:14:07",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 317567,
-      "DOGECOIN": 0.440758,
-      "ETHEREUM": 10490.35,
-      "LITECOIN": 243.87,
-      "RIPPLE": 6.82
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Donald Tusk zwrócił się do Nawrockiego i Kaczyńskiego. \"Czas wstać z kolan\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZm1lbmlOTGVDRDc5ZHp4aTl3aVViaGplSWt3enJlNXljRUp4a1RBejRTTWhnb0o0ZnJfUDZlb09laE9OejdUY0MzTEQxZkRmTnptdVdCZTFKM19xQWlNeDRReDZHYTlhOFcybUdVQkQ2VnFFbW85Qjdtbi1QeU04Z0lRa3A0NUNGRUN6VTY5NjNwWVR1VW8wX1k5UWdJQ1N5aVFJTGZHVkp6RHFUaUo3VE84a2plekZxWHMzZy1lTmNHYUUwUzRVSGlZSGR2ZGR6?oc=5"
-      },
-      {
-        "title": "Atak w urzędzie w Legionowie. Na jaw wychodzą przerażające fakty - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGdtYTRSdFRnOExpbE1veENjTllwQkdhQmxzYkVSdmRKTWstVlRMeE13cFBKNzNqRFUwRTAtdUo5Q3ZYVTR2dDJGalNja0cwUF9XWFVySjBxU091dDRPbU1TRWxFb29NaHJnV2hoaVU4Uk82bGlKRFZVTFdEMUN1bkFEdGs0YWp0eGpwUldxbmdabmlyX0FTYldBNUhjTEk3ZG54TDlNMVQydVlRY3FkS2JRNlFfOU5JT3owMA?oc=5"
-      },
-      {
-        "title": "Fatalny sondaż dla Ziobry. To myślą o nim Polacy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUViNG5Ma054bHFndzl5SzhONzcyWHF2MDFyX3ViX0NXN1hVbnQxTUF4QzViRUpUX3ZERnRIN0xYVGVlNnJTeDdrYXBVcy1NeEVYeTVrX2hiU1JrOEpzRzBxcEZGeEJGSzN1NE5uZ0FDQUhDR3Nka2tpQ09kQ1ZtZmxXcGRsQkRNZWlqYTBnSWlBa1Iw?oc=5"
-      },
-      {
-        "title": "Seria pożarów w Śląskiem. Jedna ofiara śmiertelna, setki ewakuowanych - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2M0RndVZ3ZvZXlHckNrM0RpM21qUUhUVVU0Y3RtTEtMRHlZNkpIVWc4QzVSZnp0cnFJeGlxVWNGZTVQMVIzN0VJMVo2Tl9ydkZydlNlVjkydzVNSklZZlc5UHpLU0JBQkJ1UDAyZUVYR3dBZE44MVBjVGZGRzdrT1JtZnBYbkNOeHRSUGxrUUxZTWNoYzNobG9SZC1VbjZHT1VmWUg5Xy1GMnU4eUVB?oc=5"
-      },
-      {
-        "title": "Atmosfera strachu w Czeczenii. Kreml szuka następcy Kadyrowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHU3MHF4eVZoS0lYVjV1NUszUjN5ZEdwa2tBY0hwcVBETXlEY0dFT1ZIM2lFZHJVc290NWpEZEZUa1gyWmZaa0lmbFAtVmRnYVZBUnE1MGR3eGYxdkZkNm9Xd1QxazdrYkxYNHc5UFZhdWJya0ctUUZTaUtiUk9sTEJYTEdqdFRqQWoyQ2lzRUJFX05ERnk3aTdXcndOTl9KWlprRw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-24 16:14:40",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Są pierwsze dane na temat strat Polski po ZSRR. \"Były wielokrotnie fałszowane\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakRHU3RFNElCdWN1VmJSa29BemY2SFdQV2NkenViZmZreUNEa2VPMnpFUXU3S29FNXVrQ1VFMnJrX3ZCVWVEWWVhV1NkOFB0RVhENGZuRk5NOFhtdTR1bENsTzN6UlJMNm5iekx0NU90eUV1VGdJVjdiVjV5YTd1eVZIS0RObWVKSEU4NWFCRDZOTVNuWERCTmJJVEtwcTVra3VvTGJySl8tbWdOb1Z1SmFGSXA3OWVFQ3NCZTdR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-26 21:19:28",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5499,
+      "EUR": 4.2118,
+      "GBP": 4.8537,
+      "CHF": 4.5758,
+      "JPY": 0.023102,
+      "AUD": 2.4574,
+      "CAD": 2.5959,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 310756,
+      "DOGECOIN": 0.431867,
+      "ETHEREUM": 10323.43,
+      "LITECOIN": 244.13,
+      "RIPPLE": 6.73
+    },
+    "indices": {
+      "^WIG20": 3356.01,
+      "^WIG30": 4309.45,
+      "^WIG": 3356.01
+    },
+    "news": [
+      {
+        "title": "Funkcjonariusz wydalony. Siemoniak grzmi o \"politycznych działaczach\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzl5ZEFzbWxJU2JCM0ZpNzZtaUp5UFNfcFg3WTNUdHE1SzVOQzVrTnY1Z3ZaTWszenRPby1ySGtqTTMzWE9kWEc0V3lab3c0QzJ0TndKNHNNSXZ6V1ppWkRoNksxeVJLOU5JdHNHMjRidzByY3RQZ05FNDEwTHU1NmMtMENFV0JsaDZIWHpiNmhBNEhLMVpPMDh5QjU5MzFOY2JBbS1VNEtGSmZGS0E?oc=5"
+      },
+      {
+        "title": "Szef NATO grzmi o obronie Europy. \"Niech dalej marzy\". Wskazał na USA - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVDQUE5aFZPMTBlbDRDZHZvUDFMSnh1MTFNTXd0QUNHQTJBU2wtNXdqcG9SQ3VMcHdZMjl3SWVWNzNjdVNtWHk0Y3I2LVhWNGljS0UxWTNtYXlCRE11WlFhTXcxWS1SWUJSS1pvTktXemZTMnlyQXFXQnl4Y0h1RWhJUDRfYUREWlg1RG1ud0JOWnAtSElIdmFFa3ltYlVXdWg5YUlpRl9EYUw0cU1ac1JKSXNfcENVbXRJQno1WEk?oc=5"
+      },
+      {
+        "title": "Jerzy Owsiak ledwo powstrzymywał łzy. Zwrócił się do Polaków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzZkQ3kzNFhhNW9zRXdsX0VNMkhiUk1sWmc4b3dveml6SzZMR2x0V1FyeFd1QnNoZzdKYk8taUdBcm1Uc29sUGZ6Nm4yc0FYYWZsTEVnY1luZzFNQmZpb2dYVzhyTm1yYlo1YmViNFVsMzZBRzhhaTZIeWQ2QkJuV0U4Yno4UVJZcXAxUnU4RFZ1MVdadmRKUDZheTJIR3gwb1BUU0pIYW9DUFFKWVU2Rm1DdnJHQQ?oc=5"
+      },
+      {
+        "title": "Są pierwsze dane na temat strat Polski po ZSRR. \"Były wielokrotnie fałszowane\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakRHU3RFNElCdWN1VmJSa29BemY2SFdQV2NkenViZmZreUNEa2VPMnpFUXU3S29FNXVrQ1VFMnJrX3ZCVWVEWWVhV1NkOFB0RVhENGZuRk5NOFhtdTR1bENsTzN6UlJMNm5iekx0NU90eUV1VGdJVjdiVjV5YTd1eVZIS0RObWVKSEU4NWFCRDZOTVNuWERCTmJJVEtwcTVra3VvTGJySl8tbWdOb1Z1SmFGSXA3OWVFQ3NCZTdR?oc=5"
+      },
+      {
+        "title": "Polityczna kiełbasa Trumpa. Na oczach świata śmieszy, tumani, przestrasza [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlZhR21Ja3A4WmdmMTdhVE9va0tLNkVEazV6NVE1d2h5M0R6emMzRTdrNHg4UkdTVElFcjZfdlNoOGhWdTBIR2duNndCYkRsRHhLSFRrWEJJU3NFdzlSS25jang2cTYxUnpLTmR3MDZuZ0xXMmZHS253WXJTdzU5Ym5CSEozSDZqT3Y3RTZsYnVDU3VEaEtrWWFXMGNNcDh0b01XMkNmRU1hbVB2UmpSalZ5Y3p0N1ExclVBVw?oc=5"
       }
     ]
   }
