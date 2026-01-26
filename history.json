@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23 22:15:23",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 318351,
-      "DOGECOIN": 0.441724,
-      "ETHEREUM": 10475.91,
-      "LITECOIN": 240.48,
-      "RIPPLE": 6.83
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Dramatyczny apel w Kijowie. Wzywają do ucieczki z miasta - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3pucnFwaG91ZzJtUmxUQzBzNGZPYlNQcXpDT1pJQV9wNVVOa1NBemlmY3FFVTBUajhsVFRFbjdMa2ZtTXRId0ktNkFTRmtSRkxOS2tndm9TUEZ3eW5VdGhaTnJhTHhneHVkTmRsazFxV0VnWFpjTndmd0UwWFV5TVZsNnB2d0p1eTRFZ2tmT0JmT2pHTkpiVzdJNlFlV3M?oc=5"
-      },
-      {
-        "title": "Posłanka PiS zachowała immunitet. Miała pomówić sędziego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDhXOWxQUWNhZDg1a0liTl92ZUpSaTRYU2RUQTFXWVl4MXV6VlJibkNhN254bUc3X204amxnWHVsNFJTdWRaWGV6eldLR0pDR1FUR3dpLXZfNWlzYXdIcVVZck1UNGNBOUNoVEJ6aXZjN0dSSnVTd09yZnkxVTJFUnAwZ3p6dWxnNHk1WWZOa09nb3ZVY2lPcTV6SnNudkU?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak reaguje na wpis Donalda Tuska. \"Nie widzieliśmy uzasadnienia dla takich słów\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjJQajJUUnZJbXhjczJRN3V3dFdvSU9CWDNlaG9TMnJJTkNCdldVTkd3WUhUdGh5b2gtLTFIQ1hjQTJ1SWhOS2JEV2V3N2VYSmxWVkdIdVFlYURDTWxueXc2M2tPWEROaTI0M1FjME15WFJPeHVrVWduUHRMMWF1ckZvTzA2YmN1MVAwTGFkT3RxOVRDYXQ2VVJyRzVVY3QwM1d1Rl9ZaS1WN21Ka3h4YkZ4OXgxeUpWYm9reDVtdnVuMmNDc3FUZVc2WVYtMzVEMXBBcg?oc=5"
-      },
-      {
-        "title": "Osobiste wyznanie posła z mównicy. \"Jestem uzależniony\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTBwNEtjUks5UXBvVmVjWktMMm91LXpsdDAyTlZRbVlxeUFWN21Na0FROXRsSWhRNTZaR01WQW9jcmxGTk5DdGl4SXFWNDhaaG9ZVjBfOEZ0SENQVnNYQng5cjhrd3pma09rOXNrMWRvQldHczZORGlIeVhYcjE5VndheFZueXlrb0M3R205ZzBrRmp4cUN3V3Y1VzVHTVNBc0cxY2F3ZTJvZHU5dmhKTjhVOFN1UjBiOFNZZGozN2pQby1aLUZpR2NCZ2VpemZX?oc=5"
-      },
-      {
-        "title": "Śmiertelny wypadek na DK9. Doszło do czołowego zderzenia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUk5Ib2x6M2FreXhfdGVFLTRYYUs3TjVPbzFjMXVmcTBudjItYWpTSEF3by1fTDVtVDZybU9QYjlSWkZUSWdlcUtvV1J1TDMwSE5iZEM2eUZTYnJNT2pmSFBHbTJSckpDZ1hKc3hqenVqX1lUY0J1bm1lTTZaaUphNTVsRzV5a29CUW13OFhkRGFsUjdyWEpaN0h0YXBBcUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-23 23:13:26",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Nowy sondaż zaufania: Tusk z dawno niewidzianym wynikiem. Nawrocki zagrożony - Wiadomości - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUUzUndnSktjUk5fc0YybDJ1cUtjZlpLT0xxem1WdEFhOUo2SFA2cXVRemk2enhfYi14d1JRUlE1LVJ5U1VLbE1IUkhsX1ZVVkdBVW9ETENVSWNOdzhmQy1fX1VBeVVyQTFaZkRaZUtERHNLM0cwUERaNXJ5VDhmMC11ZXlBc2pXWjg2U3JvVXM5WGRmNEYwNkhiR1puR25NTjVFUk0tZWdtVHk4cllQS0xfZTBLOHFLWElWNjBEd1N3UGM5aTBvYzM0QzJvbWlZd3N3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-26 06:29:00",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.5831,
+      "EUR": 4.205,
+      "GBP": 4.8478,
+      "CHF": 4.5298,
+      "JPY": 0.022678,
+      "AUD": 2.4507,
+      "CAD": 2.598,
+      "CNY": 0.5145
+    },
+    "crypto": {
+      "BITCOIN": 311557,
+      "DOGECOIN": 0.431821,
+      "ETHEREUM": 10171.83,
+      "LITECOIN": 240.03,
+      "RIPPLE": 6.66
+    },
+    "indices": {
+      "^WIG20": 3299.55,
+      "^WIG30": 4236.48,
+      "^WIG": 3299.55
+    },
+    "news": [
+      {
+        "title": "Prywatny odrzutowiec rozbił się w USA. Trwa akcja ratunkowa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEgzdEJpZ1pycTZlTXFwSU5fazVxSmdNbmhONDI4N3FadHhkWnBSb3lyWGVDOVptUTlkZlAzVDBveWY4YmlBSzJfU3lzX1NhUkR6Uml6UHY5U01zR1lHV0g4VjhReTVhVEVTN2N2cV9zRldhWGlvTHBpaVI5UUZyQmtJcXUtMkhucEhtdk5lczluaTFmVU1ObG1yQTYyb2ptaFZyV0gwalFFQzdjT1JkWFhrWWowWk1JME5vMndn?oc=5"
+      },
+      {
+        "title": "Donald Trump zagroził cłami Kanadzie. Premier Mark Carney reaguje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjBXQXRqQ1BHVUpwYVZ5LTNfVlNVa0oyRFc5enh2MWQ3U3pWTnczMG1ibTh0WVgxX3RWaXZZZTQ3NHNxbTRHeHZIejRJbHdpVGROSjlVaGp2Qm11TXNVUVpkbm4xbTBCTGNQQnpvSkxIYW4zZUlfMk1GcGVkY2VRX1BNZXVpWEJyOGtzLW5YM1VUX1RjU1prXzgyRTdJMFdPd2ZFVFNCcTdPWTBtS1M1eFZNMDE4czVGbEtGVVZLLTZsaEpmdVE?oc=5"
+      },
+      {
+        "title": "Generał z Chin oskarżony o szpiegowanie dla USA. W tle zbrojenia nuklearne - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzZfelVSeEZtNzlfTFp2V1loRTBQLUZRZ2M0eDBaRmxPLURVUFJQeU1KMmtzSFhJWjl3WnRKeUIyUHdfQzUxM2VvZUhKa3dfMWRBY2hZU2FRZjB3NC10b3VIZWs4N1pjT09lT1NqdjdaalR4Mzl1X25nczJfZUlDU3RuVFRDVnUzRmlUaV81REE1NUtac19QckI5MGhvRmVuLVhCaF9BUnQydlJFMjBSMzczZXpTbEdwSW1weFNRQXJNY0FMSkFKYWNhUlFLLVF2Umc?oc=5"
+      },
+      {
+        "title": "\"Zatrzymać dostawy\". Zełenski w Wilnie wskazał na USA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTNEVmM1Q2d5cmVOdjBKSEtBcmN2RExyOTNLdTc5WlU5N0xtd2Y4NHVEcGVWdWRYVk56eXFSVjJvdHQtWDllaHc1Y25fc05OM2VxMEFobmNyd1VzY3FUbEtUVlBKZXByYkhMb0JnWVVQeG0yc3M1QlM0RzRwemMzRTJkVGNvY3ZRNUdoR1JyaUFIdlFfaVRhUQ?oc=5"
+      },
+      {
+        "title": "Finał WOŚP i wizyta Nawrockiego na Litwie [SKRÓT DNIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFNhZl9XZkpodGtESlZySmZwaGI5VmNFQlRxdW9CTl8tcDAzczFQMWpJZzJ1a1VDUUNnWTg4bWgwWDNpa3RpRldxV1RIV1VFRENLOFVpY3BUWWxGR21CcU90SlBDVDNUelM4Q1oxQllmS1NyWU9JTkRWaTJzTGxDaWh5R1VmbGlkTkhRYkQzajJmRVYxY1hxRXR5dw?oc=5"
       }
     ]
   }
