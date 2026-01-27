@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25 18:12:38",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 312378,
-      "DOGECOIN": 0.429228,
-      "ETHEREUM": 10259.96,
-      "LITECOIN": 241.22,
-      "RIPPLE": 6.56
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "34. Finał Wielkiej Orkiestry Świątecznej Pomocy. Tysiące wolontariuszy na ulicach całej Polski [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdV9yM3AtUTY0SGgxdXdVZ0pIM1RobldnMFdVQkhaS19CQzJ5SmFjcFMzbGNmTlkwZE1tQ3BBSmxwYU4tQjNmVlltcmJ3MmFyT3FlU3BhY1ZxME1NWmx1Ui1DSWZjeDRzc0Nn?oc=5"
-      },
-      {
-        "title": "Kaczyński: \"to jest bezczelne, to jest hańba dla Polaków\". Wspomniał też o Braunie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHdxSms5Tkw2YW83M2VSV0pkZnBlZHd3cTRIZWt2NHhvTFhIYUI4eXU2YkV6d1ZzNFI4ejd0b3pnUEx4a3pyazJlVk14dVdNWWZ5dk03LXUzOFNKNnl1c3J4V2lRZkZUb0gyZU1zbDlKQk04VjNCcGFOTUZDbUhMNUdicFZGbU1lYjEzRWRyTlNfeThwcnduRTlrRjRIMXQxakVPaGJ6eV9ncEJoMzUyeEw4NFIzS1pSOGowdQ?oc=5"
-      },
-      {
-        "title": "Trump spogląda na Grenlandię. Co powinna zrobić Europa? Mamy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbF9ESG4zTzRxUkZmb3RES1RoSDJlUk1FN0MzTmlDeENHLVFqdDZHYnB3SVBoNzVlZ0pjNXBic3FldmNZbDc1VnlFeEJrbVE4LXpYV1J3bEtPWkQwN09xNUZETldlaTBuZ1R4bm9wQXBwM0JwZmNGNUFobkVLWmhFLXg5RlNHQkpOWEhwUEFhZ25zbXk1Y09ILWNyRHNKdHg2N0FtSzd4NTdZcnVK?oc=5"
-      },
-      {
-        "title": "Cichy trik Brukseli ws. Mercosur. O tym niewiele się mówi [OPINIA] - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQm9BZjVSTGlnSHV1UUtDbzZNY3pVMjcydlFuMmZpcVdHNTNIRnViZ3RlaDV1YVhreFJOR1FRMTVrdE5rblBrY0g3RFdDSDUtWkRNMWFSeld0VGhaaDJHcEVCS2RRVXh4WUt4RXVlS2xNWkFibm8yM1RMdEJqWkRhSXNIYVZhbzRoa1drR2ZhTW5LeC1DZEtBcENrOEZ2dVdaN0xhYXlPSldFRzBwd2J0cm4wQWg1MHFj?oc=5"
-      },
-      {
-        "title": "Kraków wspomoże Ukrainę. Kard. Ryś apeluje do wiernych - o2",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkZZOVAwLXMtWDFCTXJ6VWNobnpJZUx4ZnM0NWpUeG1IdjNzRHc4S0h4N1hHc2hPNGpjWWw3eV9BMFZSNHJ5YTlaNzBIQjVlVV9CUGxLQUNSZlBHTE01MER5OVFYbG85clZvTXFKaWwyZ0Z3S2lZcm4yRTFuOTBWOF9XdGRoWVNFM3VNcWNfV19xXzVuVU9mWWFyUlcwVXlJ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-25 19:21:51",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "Jest nowa prognoza. Siarczyste mrozy dopiero suną do Polski - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWN0a2Q4VzlKXzJwSzhTQnhyUVdhemNkdDBqcHZUS3NxLVdsUm5PQklaU3JkcGVnV2RxbFJON0tWT2ZpbXlac3IzYmMxT29lMmZiYVFiN2V6Znd2ZWNJck9fczNUUk9OR2NzS0JPY000R0poZDI3Y0tJbnNocUxnclJKSWFoUjF5WlJlcVpLeUxTb1Y5Wmx0cGIwRWdNZnJXdEln?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 00:16:04",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5354,
+      "EUR": 4.2032,
+      "GBP": 4.8432,
+      "CHF": 4.5575,
+      "JPY": 0.022997,
+      "AUD": 2.4491,
+      "CAD": 2.5791,
+      "CNY": 0.5083
+    },
+    "crypto": {
+      "BITCOIN": 311318,
+      "DOGECOIN": 0.439718,
+      "ETHEREUM": 10526.3,
+      "LITECOIN": 244.72,
+      "RIPPLE": 6.68
+    },
+    "indices": {
+      "^WIG20": 3365.46,
+      "^WIG30": 4317.01,
+      "^WIG": 3365.46
+    },
+    "news": [
+      {
+        "title": "Przesunięto wskazówki Zegara Zagłady. Do \"końca świata\" pozostało kilkadziesiąt sekund - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlJzc0FIVTI0QU9DbnJSMVhzRzZub3NLYUtCeFVMcUFFakVlS1hxSERGX1I3WmpWRm03Mll0X25sS1VhMDdHc0E4YWNZUDhkWmMtRmpJaTdjVGRNRklTSDRjYlh2Mjc5WXZNV1IyQkRFOExidE81ZUNUUUlIb0xJb0hONlRJRGZySC14VHZVVzFkZjhSa252TDhOTEItYnhTU3BrSS1lWEF1M1EtODRJSTVSZl80UDlHbFRsZUUyaWxmdzNSZlMwZ2RIVQ?oc=5"
+      },
+      {
+        "title": "Uszkodzona dylatacja na Wschodniej Obwodnicy Wrocławia. To pułapka na kierowców. Na miejscu pracują strażacy i pomoc drogowa - gazetawroclawska.pl",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMkZ3ZmthOWVLcE1Ra1Jac2ltQjZLZHM3ekZQVk5kbHF3YVJzcmVyT0RNM0hKMlptanhoVGkwVUl2RzNhYk9qUVJKUThmdGZWZURIWGs0Q3p3U0xUVmF3Z3YyVW5xVktqWjJscmRlam5QTGF0U1R1ZVNKWjFHbkd0UksxbWtpUHB6S3l5a2xsZE1RekRoMGE2STVld2VmMWZ0cnlkZ3lMTFUwaXRtdkRzQllIc1Jtby1QelAzR1BKTlRmYUQyRS1jVWdMcWZUZl9leF9Najc0ZlhJbE5lUlBwXzNHRTg3UDAzRUpndF9yajRyWWtaUlFKcjhnMA?oc=5"
+      },
+      {
+        "title": "Ratownik z Mieszkowic rusza pieszo do chorego dziecka. Droga była nieprzejezdna - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2h3a3k3ZEx3MkJMc04wYkVXVFJzS0YxNnVLMmNPemRNckpxOUxsakhpdy1BN3psXzRMdDNmR09CUUZaelloeU5TTGIyVXpmZUVyY2k5bTMwX2FYU2FET05KVkFoVDZGanR5aWQ0Ul81YmRCZUdRTm9WdXczeGd3cUpMTW1LNXVaZS14R0Q3d1NfUUl5bVNySW9Bb192WFRlQXVDZWhMeVNHdGVDUDVXZXpvRFZlZHhpR2xuTTYzQmdzQjI3ZTlYaU9Gc04?oc=5"
+      },
+      {
+        "title": "Co Polska kupi z SAFE? Tusk odkrywa karty - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3gyc2lCQW10VTBmNUptN1Z6bGpCYXlMb0ZIYnMwRXhaT3YyN3ZiY2Zrd1lNQ1dfQWY5OXV5V00xeDVwdV9yTnpFcHc3OHBULVdBcnlKajhtWFdnMXFmOHBlX0toUVE4RG9jclJnS2FRakZmeHk4Qy1HY2VObENNWFVhTk8?oc=5"
+      },
+      {
+        "title": "Boisz się, że faktury z KSeF wyciekną? Ministerstwo odpowiada - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3V1VFZhSFQwWTZOemdXU2UyejJhSEhxclNELXhQYkEzWFdjNVhWTlhFaFZJU3RIaU1sVmNGZWdPaVJaZGZKcHRSRkVjQ2lMQ2k5a1AtUFl2XzFSNmlFbHlILUtESU5waUdyZ0RnTHRfYVBGbFgxOFJjc3Z3OUdITEhWQ0RxQUdNc1ZrRTNqN2pzdkNYVVhLdHN1R05Obkx1YWgtWldCcjhJUU9NWVhEcnUtVlVZNXAxMnRtYWwtOXE0MWE0SXZSWGt3?oc=5"
       }
     ]
   }
