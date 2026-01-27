@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25 17:18:19",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 311789,
-      "DOGECOIN": 0.42896,
-      "ETHEREUM": 10278.16,
-      "LITECOIN": 244.53,
-      "RIPPLE": 6.59
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "\"Stan Wyjątkowy\". Trump ciągnie Nawrockiego do współpracy z Putinem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hUbEVEckhXRTFOX2k5V3JWaWVDRGFnX05tOHVCY3E3cUFwb3F2d0UyVVVFMjF1Nk9QdFVNeFdrMURTTEx4eTFrRm9oU19VR3VWOW11VkNlUnN1OTgwWmhqRkhmaWNnczdjQzR1bFA0SDAxYW5ySmtmQmF3VFVwQ3ZBWlZGajMyekVxOFQxTlh2cks0LTZLOVBvM1p6aGotQ1o3Mnp2SThMRll6TXNhOGNteU4?oc=5"
-      },
-      {
-        "title": "\"Dobra robota!\". Lawina komentarzy po skandalicznym wpisie Tarczyńskiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTNSM2pXbDBqWlc2bmZkalJHckRZMmdyRWdUYkNhMkJqdk42dmljODBkcGl0N3FBMXZHbVFMd0FsakM1bVBOcFdsR1kzN2Y5eEVtb2thS3VmOXM2N0JWdzgzNkpjOVBTd1ZBRWpGcHFoelNVWjN3WGJ5WFExRFBtZXFvU2ZvdXVTVGozemhIQTNFNGhqeFc2LWJ0ZlNnNUhhOEtRUWlCc0xhMkRPekJJVA?oc=5"
-      },
-      {
-        "title": "Wojciech Mann nie wytrzymał po słowach Karola Nawrockiego. \"Na co mi tchórzliwy prezydent\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVRtS3loTE1XcXZva0x6c2hyZHd4bEtldGN4QWxmRTItN2lXVzRERDFqYjRINmZNRmJ4MEhTLXFuNEtVS1VHcVV3NVl3S29mSW9BZ05RbVR3eGJzaXFraXpsZXpQRDhiWU1XQ1BiQndQR3hHLUUtcFczbjJZaEt5ZmpRdUpETWltbE5kdzNEUDZhRm1zbTY4NnFhSmVCaHUyWXJVdjJENWVWQXp3dmRiOVdfam9IWGh0YXpQSHIwQmg5ZmotUWFj?oc=5"
-      },
-      {
-        "title": "Fatalne prognozy. Marznące opady niemal w całym kraju - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXJ5V0d5MU5hWTEzWERXUGFGdGFzb2NpeG1xQnRpQUV0WWsxVTRzUkFSRDlnLWljM293akRJSmtOYWk1Um1WcDJnSlJXSHhmT2xCOXh4LVowTDVMSVg2OUNxVlhUdXRWbmt3SFFzeUpuQkNhVWxHMS15VGNQRC1wYVZqMEJTeWxRNHdSb1pxVEUtUUJnT1JyczU3bw?oc=5"
-      },
-      {
-        "title": "Cichy trik Brukseli ws. Mercosur. O tym niewiele się mówi [OPINIA] - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQm9BZjVSTGlnSHV1UUtDbzZNY3pVMjcydlFuMmZpcVdHNTNIRnViZ3RlaDV1YVhreFJOR1FRMTVrdE5rblBrY0g3RFdDSDUtWkRNMWFSeld0VGhaaDJHcEVCS2RRVXh4WUt4RXVlS2xNWkFibm8yM1RMdEJqWkRhSXNIYVZhbzRoa1drR2ZhTW5LeC1DZEtBcENrOEZ2dVdaN0xhYXlPSldFRzBwd2J0cm4wQWg1MHFj?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-25 18:12:38",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "To dlatego Karol Nawrocki nie wsparł WOŚP. Padło jasne wyjaśnienie - Onet",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU09JZnhtTGJLalpmUFZGdl9qbGVvU1JaQ2VJM21ROUxEWTVOVzg4dWtHaERHUkRVd2ZPUDA2ekUwSWxzYVlqUUZoZUtlNjZ6NVRLWGFKMjVjMXFlcURDWm9GOGNseUlCQ0ZYX21VZVRhakdNRmZsZTRISVM0d3dXZENFdnU3SHRVN3VtZEg1c25NZGNvVTUzNFRSeXhhV3lzdFFucUp3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-27 23:17:33",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5354,
+      "EUR": 4.2032,
+      "GBP": 4.8432,
+      "CHF": 4.5575,
+      "JPY": 0.022997,
+      "AUD": 2.4491,
+      "CAD": 2.5791,
+      "CNY": 0.5083
+    },
+    "crypto": {
+      "BITCOIN": 310668,
+      "DOGECOIN": 0.438797,
+      "ETHEREUM": 10498.42,
+      "LITECOIN": 244.36,
+      "RIPPLE": 6.68
+    },
+    "indices": {
+      "^WIG20": 3365.46,
+      "^WIG30": 4317.01,
+      "^WIG": 3365.46
+    },
+    "news": [
+      {
+        "title": "Pieskow wymienił Polskę. Mówił o \"ogromnym błędzie\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHB6aGxDaExVV1ZKRGlUXzFlVGdUR0lMdnBRbFVJd2FIV3lvZXAzZk1ad2lGUE4zVFFSaUsyWmxqTDVacllTNTZDNzNJVlRxLTJzN3BadVM0bDZGOUZXeVR5QUtpUmNOWE00emxEemdweTJ4M1RwRU1qS0dITjFlYnhjWmlwXzZVdG5hTnl0V20tZHpEQVE?oc=5"
+      },
+      {
+        "title": "Przesunięto wskazówki Zegara Zagłady. Do \"końca świata\" pozostało kilkadziesiąt sekund - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlJzc0FIVTI0QU9DbnJSMVhzRzZub3NLYUtCeFVMcUFFakVlS1hxSERGX1I3WmpWRm03Mll0X25sS1VhMDdHc0E4YWNZUDhkWmMtRmpJaTdjVGRNRklTSDRjYlh2Mjc5WXZNV1IyQkRFOExidE81ZUNUUUlIb0xJb0hONlRJRGZySC14VHZVVzFkZjhSa252TDhOTEItYnhTU3BrSS1lWEF1M1EtODRJSTVSZl80UDlHbFRsZUUyaWxmdzNSZlMwZ2RIVQ?oc=5"
+      },
+      {
+        "title": "Ratownik z Mieszkowic rusza pieszo do chorego dziecka. Droga była nieprzejezdna - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2h3a3k3ZEx3MkJMc04wYkVXVFJzS0YxNnVLMmNPemRNckpxOUxsakhpdy1BN3psXzRMdDNmR09CUUZaelloeU5TTGIyVXpmZUVyY2k5bTMwX2FYU2FET05KVkFoVDZGanR5aWQ0Ul81YmRCZUdRTm9WdXczeGd3cUpMTW1LNXVaZS14R0Q3d1NfUUl5bVNySW9Bb192WFRlQXVDZWhMeVNHdGVDUDVXZXpvRFZlZHhpR2xuTTYzQmdzQjI3ZTlYaU9Gc04?oc=5"
+      },
+      {
+        "title": "Boisz się, że faktury z KSeF wyciekną? Ministerstwo odpowiada - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3V1VFZhSFQwWTZOemdXU2UyejJhSEhxclNELXhQYkEzWFdjNVhWTlhFaFZJU3RIaU1sVmNGZWdPaVJaZGZKcHRSRkVjQ2lMQ2k5a1AtUFl2XzFSNmlFbHlILUtESU5waUdyZ0RnTHRfYVBGbFgxOFJjc3Z3OUdITEhWQ0RxQUdNc1ZrRTNqN2pzdkNYVVhLdHN1R05Obkx1YWgtWldCcjhJUU9NWVhEcnUtVlVZNXAxMnRtYWwtOXE0MWE0SXZSWGt3?oc=5"
+      },
+      {
+        "title": "Jest nowa prognoza. Siarczyste mrozy dopiero suną do Polski - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWN0a2Q4VzlKXzJwSzhTQnhyUVdhemNkdDBqcHZUS3NxLVdsUm5PQklaU3JkcGVnV2RxbFJON0tWT2ZpbXlac3IzYmMxT29lMmZiYVFiN2V6Znd2ZWNJck9fczNUUk9OR2NzS0JPY000R0poZDI3Y0tJbnNocUxnclJKSWFoUjF5WlJlcVpLeUxTb1Y5Wmx0cGIwRWdNZnJXdEln?oc=5"
       }
     ]
   }
