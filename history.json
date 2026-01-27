@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25 08:17:09",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 315015,
-      "DOGECOIN": 0.436525,
-      "ETHEREUM": 10435.07,
-      "LITECOIN": 243.06,
-      "RIPPLE": 6.73
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Sytuacja jest rozpaczliwa. Dla Kijowa najbliższe tygodnie będą kluczowe - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWNocjZaSmJRTTUxSGo3bWhlLVRZeE9QU01qQVkwN0VyWl92Sk53T29UbXZIY3R6RWx5RDlVQUpMNnF1Mk1ZMWFHcUNTdGRMYUt4UXZKaWY5eDUydnhMRGxCUERTZmFYNGNzbGRIR2hJcXBsbVFYbzNuZTctNkZnNTI2ZXYxeTJCeXNNSGoyeUdQNlpaSEJyODRtOTY3blgyTmR2TUhhUkpLMjdXNG51WHQxUQ?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak oddaje część obowiązków WOŚP. Mówi, czym chce się zająć - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEdocWhkaWxKdW05U09zQjU2VDNxWW9ETDdwbFlzMi1GcWRxT2J3bV9adFRySVM5Vm4tbDZEd2FkSVlORmdrNk91cEpUUzd0eEdCTTRZQ0d5QnZJZmoyX3p6RW11aV8zVWVuS0gwb2lNMkpxMmlMZVdUeUVBZ2xaMHRSaUhiYm8yeUcxREhVbFRFODl3NlphYXQ2SzQ2aGct?oc=5"
-      },
-      {
-        "title": "\"Stan Wyjątkowy\". Trump ciągnie Nawrockiego do współpracy z Putinem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hUbEVEckhXRTFOX2k5V3JWaWVDRGFnX05tOHVCY3E3cUFwb3F2d0UyVVVFMjF1Nk9QdFVNeFdrMURTTEx4eTFrRm9oU19VR3VWOW11VkNlUnN1OTgwWmhqRkhmaWNnczdjQzR1bFA0SDAxYW5ySmtmQmF3VFVwQ3ZBWlZGajMyekVxOFQxTlh2cks0LTZLOVBvM1p6aGotQ1o3Mnp2SThMRll6TXNhOGNteU4?oc=5"
-      },
-      {
-        "title": "Trump – reżyser polskiej polityki [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHlWU3RXeWlIUWJPemJPUFoyd0llTlNYUjNZVGhkTG90Y3d6Qm9VQXJsX1ZEbDBpTW9aZUYzSExUY0Y5eTNtNENxVk1hLVhfZzlLTUU4UlViTnp2UGxlU0lGektKY2N6Tko2c2dxSExIczR3U21UN08yT0hMS05lUGZhYTI4RFIw?oc=5"
-      },
-      {
-        "title": "Marsz Ciszy w Jeleniej Górze. Mieszkańcy upamiętnią zamordowaną 11-latkę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbFFaSXRSUEs5dHZPeVZMaFdMV2Rtek5VUjNJckpyUm5CNTg0X3g2djBFOEllczJiVjYtRHhLN1l0WXpoeDFnYk5OQ3h1bUJKOTVOYlMxWEVrb2FGWF92NEdkRldyNDQyRjhHTHl0aXRnZ0oxUTFObFBXVkVFazBWS3RzckJhMzRZaVMtc1lxZEZhOUlxME5DOXJ3M0VmTUVHY1lxVVAyNjNCVHdfc3lFejhDQU5Sd0t5R2hFYzhOVTJZY2ZZNWRId1FrV1g4dw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-25 09:20:06",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Donald Tusk o polskich żołnierzach. \"Będziemy działać stanowczo\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORi1sWUl0MVZadGdPcVE0SmFaWTJheE5lRFNhNnpPNjYta1ZMX2VWSzNyWDJGRHZCdUZ2R1c2UFJBT1h2cG14Z1M5RHFkdXNtYVVfSUg4Z2o1WXdHTDlJQ050Z09NaXNaSlIwRzh4QmsxcHZWRm9zaHhuNV9TM09xclFnOTg2UEJqWW95ak5MLUhjYlIzQ2VjdjRlSDlTN1BEaEtZZURQYlVRRmJ0blZ6RTFFVzhBRW9JWThOR0R6bTlPZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-27 14:41:29",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5354,
+      "EUR": 4.2032,
+      "GBP": 4.8432,
+      "CHF": 4.5575,
+      "JPY": 0.022997,
+      "AUD": 2.4491,
+      "CAD": 2.5791,
+      "CNY": 0.5083
+    },
+    "crypto": {
+      "BITCOIN": 309587,
+      "DOGECOIN": 0.429216,
+      "ETHEREUM": 10250.8,
+      "LITECOIN": 242.29,
+      "RIPPLE": 6.62
+    },
+    "indices": {
+      "^WIG20": 3372.82,
+      "^WIG30": 4325.15,
+      "^WIG": 3372.82
+    },
+    "news": [
+      {
+        "title": "Miliard dol. za udział w Radzie Trumpa. Minister stawia tamę. Jest odpowiedź - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWJUcXRoV0g1bkxPVXNNT1NkdEdSemx0cXBZTmpuZGxSQUh1OFI0Yzk3eU1fZ2FucHlIcFY0RTMtTmdkRi1SRFpGR3R4Y3dsbTYxM01RWW5XcjJJSUZTVWgyZVIyV2FNMDFsdjJLZmRmZ0lwWnlhZXVRZlNCa1pKakxEV2xrWlF3NEJDU2JUd0V2QlJOeHA1dm5Nd1lHdzlZQU1zOVVWUEgwQ3JtazdickFCNjUwNExtRm1jQVFQcDF4VDhHUEpB?oc=5"
+      },
+      {
+        "title": "Marek Jakubiak wyrzucony z koła poselskiego. Poseł kompletnie zaskoczony - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzhfdXlOTVZBbWxPdUVZQXVlRE9kZDVhLWIyajRYb3ZtX0FINEhrbHZqM1Y1QUxXeHR6b2tiSVBjZFRyRVpuY0phYUpQeDNlVFVLT3FmOEhWeXpjWFg0a3pXUnVCZzNFMVBWb3pVeXM4dzgxS29NWnlUQy1pMDZkOEkzYWlCY2FXalp1UkVNNGVyblNucWNRczZfU2RWcHdnaC11MWFWRDh2NEpPcXNJeDNMLU4wVEJqdl9nUnBuRjJCRV9leThfcUUyVTV3WW8?oc=5"
+      },
+      {
+        "title": "Żurek złamał przepisy drogowe? Policja bada sprawę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajNHT2dQLTdCVk8xRkRsdmRYQ3VaRElKLXJhQzNKMHdZb0ctSHBTbFVBWllhWkRvMDRvdWQ2QUxHQ3AtQ0RzYTVMR1pOa1NGWEFXVUdwempSUHBCTkh6NDdlTmNQNzNDTXRyeWFxU05OS1FRRUxhSnFtVkNxLS0xV01GcGhuQVJDc0RGM1N3SU9HNVlQVmtV?oc=5"
+      },
+      {
+        "title": "Tajemnica zdrowia Donalda Trumpa. Otoczenie mówi o \"boskim wigorze\" prezydenta - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYndxbnlkMHNTN2ZFc0JFN1VRcFVOM1ZYX0M2bGpHVVUxSjNtZ1BEelBWRVBoR1FnUjFkMDNSSWhFRzhFd3lvcVRWTDd2d2tZbFJPeExXV2JMTTQ2a0VaTE9RNjBoM09uSE5NWHhnbExSZndRNzV5UzZhdl9yUXhKUXBkWExKMmU2NVltenNUQjJWRW9oVGxLMmxKanduV2RxWllzWjRXbFZ1UWJ4X29QSWd1RnFNbms?oc=5"
+      },
+      {
+        "title": "Tragedia na Madalińskiego. Po podaniu pacjentce podtlenku azotu zamiast tlenu lekarz wezwał do szpitala policję - warszawa.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWldqa2JGWllqM1JOb25MWk9qaXYzY2FwVkVnN2JTVlRQS1JwUHZVYlZ2cU55RGRvVWVwcTlYN2VyOEltWTVGSW1OWlI3S0dIdS1McHNjcnM3aW95RkdvU29zT2gxcHVhc1ppUjNNbFluNFB1Z0ZnUWpkN19fSjZsNnAtbndteng4aDlNMkFfMVlvUnhsRUpWc1IyTlBxU3NEbVowY3hlaEhiWnhmSmFjWVZTRzhERzBnYTFxbE9wc19IUQ?oc=5"
       }
     ]
   }
