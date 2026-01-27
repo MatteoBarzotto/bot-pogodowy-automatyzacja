@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25 00:14:14",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 317125,
-      "DOGECOIN": 0.442142,
-      "ETHEREUM": 10496.87,
-      "LITECOIN": 242.02,
-      "RIPPLE": 6.81
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "\"Zszokujemy cały świat\". Jest decyzja ws. \"złotego pociągu\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHlzYk1BcklzRnA0aE8wa0Ewd0lEWHlPY0xWMFRtbFVNbUsyQTY4TkwtczlObng3V0UzUHNXQi1LRWlVZ2FqTWtpOXc2dzFQNnY4dG5LaV9SVXF1UFl5Mi1FOUtBY0daS3YxZEZDdzVSNW14QzNsdnNYRks3UzhJLTNQLWRHZ1ExMkc3MTRNT19LblZyak1iT1cteWI?oc=5"
-      },
-      {
-        "title": "\"Fronty Wojny\": Dziurawe niebo i bezradne służby. Czy Polska jest gotowa na nową erę sabotażu? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVNTMHJOVTY5SWFEWi1HVDVjQzlmeGNNRGN4dUtfQWh0eW5JTDNfdUtYV00wblpBTEZiSDd1eHNqRmdtVmN4QlladGlNU1F1RHFWU29JRmxHWlRTM0FTc2dVd3l0d1ozSndxS1VIdVFMT1J1S05wVFR1bjlhaWxYMmQzYU56c01raE1HbTUzbWlRX2lMdzlWUDI1TWdjMW9QdERTLV9IZHNoNmZxb3FoS21jcE1GZEEydEtV?oc=5"
-      },
-      {
-        "title": "Zmiana wskaźnika, zmiana reguł gry. Co naprawdę oznacza koniec WIBOR-u - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0JnVDNfbzExc0w3TzhnQUVwbThyNHZEX1drRTNBLUNWZWNKMWZfUVg3V2I1WE11VFJ6Q2dha2FicFpmY3Q3RW5LN1NqcHotek50OGZJemFSUmhkRWVRUWJXbWRyRWNtTWVSWUJMZkZuN29NeWpSTVpmNXJRTnFaS19acmpRNzlKdVE0R1lkaUNLd21MeVhRMzhmelF3MXVQMW1rT2VYOGdTUlVYRHdhTXRzaDd3NlhCeHc?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak oddaje część obowiązków WOŚP. Mówi, czym chce się zająć - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEdocWhkaWxKdW05U09zQjU2VDNxWW9ETDdwbFlzMi1GcWRxT2J3bV9adFRySVM5Vm4tbDZEd2FkSVlORmdrNk91cEpUUzd0eEdCTTRZQ0d5QnZJZmoyX3p6RW11aV8zVWVuS0gwb2lNMkpxMmlMZVdUeUVBZ2xaMHRSaUhiYm8yeUcxREhVbFRFODl3NlphYXQ2SzQ2aGct?oc=5"
-      },
-      {
-        "title": "\"Skandal\". Bosak: Będziemy protestować przeciwko KSeF - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFsSzNQOVl3OGY4YmdZNnhNSDFOWjByQ19nTFl5UlpEb2d6Vjl1b2Z6VW5jLTlaTTViU3JsZ2JKSVpfVXM5STF4ZmdKbXJBZl80dllGcTJGRmh6RXpjUlh3dFF4MTk3MVRQcWZPZ1BqdjRFellIRHBZdnZIQTdYMUJjcXVkMnRLdWdoR1VvWnkxdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-25 02:21:49",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Blackout w Berlinie. Milion euro nagrody za informacje - Onet",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjQta1A1NkQyZDlkUjJQVHNieDV4cDNNMTFic3pUS25iWFhjdll6eXQ0dUNvel9aR2c1WU9hOUZtSjhIZ1BZbDJqOG5vWkpUaHI4a2UxZG0wUmR4VHZFcW1NbTNqczYxdFJtVWRveVQ5Y1RrVG5aak95MFFBeHIxUHlidGsxYmhNWkRmeF9vTHZLdklrdkV1OTRMdDBLbVQtQklLMTlpZ0FmTlF2SG1tdGlROXVFYkU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-27 08:22:43",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5499,
+      "EUR": 4.2118,
+      "GBP": 4.8537,
+      "CHF": 4.5758,
+      "JPY": 0.023102,
+      "AUD": 2.4574,
+      "CAD": 2.5959,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 313047,
+      "DOGECOIN": 0.433113,
+      "ETHEREUM": 10374.81,
+      "LITECOIN": 244.92,
+      "RIPPLE": 6.72
+    },
+    "indices": {
+      "^WIG20": 3356.01,
+      "^WIG30": 4309.45,
+      "^WIG": 3356.01
+    },
+    "news": [
+      {
+        "title": "Alarmujące słowa Orbana na temat Rosji, UE i NATO. Kryje się za tym groźba dla Polski? - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRllBemE3aUYzdWFudE15U1hfNlU5dFZVRHdNWE5TQ3Y5cnM0bWFjOG9nVEF2RXpOY3VuVnYtaktYeFRtb3c4WnB6WXZFdWtkak5ZaHZjSC1DakRFRG90Yi12Tjd3WmFNZnYtcXYtWjEzRGpEQlF1SUlKZEw2dndkaFJGY0NpOXUwckxKdUlUblYwZ0dySzBPVlZuaDJ0Snlsa3BaOEJ3Yw?oc=5"
+      },
+      {
+        "title": "Powstaje największa umowa handlowa świata. \"Matka wszystkich umów\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWxQWjZEenpOQVI3VVpIVFZOZ1h4UjIyWmtyUjJXQTZlZXZ3akZlcnBXTG5RaG12NGNzOVc1TVM1RndzNUhzRTFJdDQtUkJ0RjZQM1BVWjB3S2tIUi1IeC02dFJ2QWgxUXVQeUw0b21HUWx1ZDJJTTNuU3JtSkJVb2E0WVl0ZFlMSzlkdDEtcklDdDJJS3NscV9qelh6S1k1eEhGRlRQc0pBQUF1ZjhBWC1XWmR2MHphenc?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Trump uderza cłami w Koreę Południową - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmJvZU9MNE9FUUdtV2ZPT1JTX1hQNklwcGZJelNjcFVxYzN1ZzVMZmJjck5nNTVPTTZPd29fN2tCRVBpckNOdWI0aFp2cUFLSVEzRUJnVUxfNmlnWEJYeGpwUzZJX3VCbHMyQ1BXdU5ZOWZfcFRxN3I2dEgwcm1iTzJ0N1pSNzNaOF85S0dCbnE0RWU5MUww?oc=5"
+      },
+      {
+        "title": "Potężny kartel narkotykowy, albańska mafia i tajemnicza krakowska spółka. Ujawniamy kulisy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWtWc3FiOFNDRlVKRzBHZ0JuaGMwUEZ3TnQyMzlLaktpdlF4cDZKMDlaLUxScGlDQV9sbHhsR2pLcDlNS1dWQVFDc3BOUVlQMko2VmtpNFhxTXNnVkt2bTAzcmFILVBObkxDZDZJeFlRdy1JS1ZQc3NFQko3WWlJVXJCYUhoT0lVMk1EQTNMaEppTFJUZUhCRVUxX3ZJczV6X2hzSjZwOUJHM3Y2U0ZCNV9lQktxQjd2UUxWR3B3?oc=5"
+      },
+      {
+        "title": "Piątek, 13 lutego wolny od pracy? Rząd wprowadził nowe święto - Wiadomości z kraju i ze świata - Dziennik.pl",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcThPMXNwVWdsN05WM0ZtblhJS2twclJ1WHBvMjhMSVNoR0V4elNsLVhCSGtaYjVkLWNETnpaZkZCZ0FpSDAzLUVxRUpwN21yMFplM0NNTmZIZ3VZUWZpNm90ZmdYdFhzaEZSWGRtRmlfS3l1cW9faFhJbUR5X3JwQ1hianN4dWpDcnRuN2ZWUTdZeGxKWVAwNmExeVhCWWRIdlZDRWNUOHlhTXZtWGtUSnktVThDYy1jRl9HNEdVaG1sS09HM3lCNFAwUE5LODlNSnRiaUNaT0xUQWNJRTdfdDlsalNTYUw5TWZkMHRVc05iQQ?oc=5"
       }
     ]
   }
