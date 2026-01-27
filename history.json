@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24 20:12:19",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 317116,
-      "DOGECOIN": 0.440273,
-      "ETHEREUM": 10505.8,
-      "LITECOIN": 241.52,
-      "RIPPLE": 6.81
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "Pierwsze takie rozmowy. Zełenski przedstawił oczekiwania - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1NXV2wzdUN1N0NQLVFCXzJjaVNza0MtamJ5MlRSbi1UalNmd3ZFMVhCZktTZWpTRG5aRktyOVd2Rkg4aGxadElGWjhGRG9qSkxNazQxRTIwQXRfLVVjdnR6R2NvV3dDcDZSaGhkRm5Ob0g5N0dKSGRRbHhJTHpab0oxWktPNnRXT1hJcTdDWXFhckJJVFUzX1BCTVltWnlJVXdTc1czbzg0WjVHSWJzQVptNVE?oc=5"
-      },
-      {
-        "title": "ICE w akcji. Dwulatka i ojciec zatrzymani w Minneapolis - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2ktRkVnYUg4WVNrdldfQTBoS3QyR1ZLb3E2dXpQdUUzWlFWRVAwa3JsQWoxZnNlWGRrVlE3LTJUbUtvLWFaSUVOMjhwZ0haenNwRXE1TjFyWDZuakZ3VTMwX3I3QkRjcWF0X3gwaG5ndzBheDY0SEVkNVJFSnpscjFUdGR4djN6eTdTTGw2cTJqbW1QUFNiN2VudE1yQQ?oc=5"
-      },
-      {
-        "title": "USA użyły nowoczesnej broni. Trump ujawnił jej nazwę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0F4eHhxSG1kOXl1a1F2UE9JSlN4T3NSX3N2MHh0bVRBQ2lSMEQ1ZGZ1MmR0bzlVZ2tjQVlvbTk3cENWLUVqbkZ1aHpUVF9EY3pmSDlGZDRiZmhYR3pod2VlRU1ZaTFLM283WDM5bFhMWlJDMUY0MG55aFhXeVdUejNoa3BPdGI5SXFJaV8wbVBUaks1RkEzU2JR?oc=5"
-      },
-      {
-        "title": "Oficer z największą wiedzą o NATO odchodzi do cywila. Czy MON pozwoli gen. Adamczakowi zniknąć w cieniu? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTNxVnBfWFJDZ0Uwak5HLWVsb2U4N3NSUlFQbHhTMFh2Y3RIWWlGUnZpUlFZTTdPUE80Q1VFSTJVbWlQQlF2Y0JkaHZPemttU1g3ZkNPcm1CNGk1X250TVFMc01GRGV4enZNVFo0OHdMV0E1aHVoYVZXdVVIWjRJTHlfMGZQWjBRcVdBNkpTUG85a05nTEZkU1VsaE5pQ3ZOMHFzemozeG5FMWc1N1BsWC1HTWxzbXNid0wzejg2eTFDNTN0SDhaaGxoLWIxU212eFE?oc=5"
-      },
-      {
-        "title": "Rodzina uratowana na Śnieżce. Wspólna akcja polskich i czeskich ratowników - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnZKUFc2Z1M0WGR6S0FjQmUxSkh2eWF6bllBczZScVVQUzlDVDJybkNaWVVyQmVET1FTNFNqYmFTanVwUW03TjFJRTJKMDhaUE9JNjZVck1TNnBEWlVVTEQ2UkdCWkozak84dUxqVGVlbXI5OUNEY0dfZ0tCZmluZGZ5RkpBZ05SdlNuMmt4M3ZNNTBrbkdhZEtoQmJWWU05QV80d0c0azJ4WFRhdFlIcGhOTjFtRlE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-24 21:15:58",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Sondaż bezlitosny dla Donalda Trumpa. Chodzi o politykę imigracyjną - Onet",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlVEZ2tvdG5ieGZYSVJhLTNkaHc0UlRpcjhHRlU2SlhWcEdjcW9jN2NmUldHcEV2TnR3eWpFc0JRdTJkQVpZcnA4a2Y0N0NZSTVBaU9IbldLM2ZSYnpHcUhqSUJDTWpUaENmbUROWFk0QXdSUlduSG41ZFktNWRHZnk2ZU14Vm9OaEhjcjJmcTFPY2w5N2lZVU9jbTUxY0QtdHJTMm9KMnM1MGJOREcwcm0xUzkxNndacmpLblFFZXRCWk9ZbllYNw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-27 04:42:26",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5499,
+      "EUR": 4.2118,
+      "GBP": 4.8537,
+      "CHF": 4.5758,
+      "JPY": 0.023102,
+      "AUD": 2.4574,
+      "CAD": 2.5959,
+      "CNY": 0.5104
+    },
+    "crypto": {
+      "BITCOIN": 313843,
+      "DOGECOIN": 0.434658,
+      "ETHEREUM": 10407.44,
+      "LITECOIN": 246.19,
+      "RIPPLE": 6.76
+    },
+    "indices": {
+      "^WIG20": 3356.01,
+      "^WIG30": 4309.45,
+      "^WIG": 3356.01
+    },
+    "news": [
+      {
+        "title": "Apel Zełenskiego: Byłoby dobrze przyspieszyć to spotkanie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVG5wSERaOWdZRzJBSGhIMFRDeXBGVHpkSk5Cc3VKbklSQmZlLWZDWGVvY3lCcl9iSi1iZUhzXzRtZW9TdUliTXZZSXRyUUtkSnNodzhRS2ZZUXhzeFZGdFo5a2toenRKRnpLdHMzQzM3S2NOUzRwVEhJbDV4ZzhaWWNDaVI2ZHlkQjgwN2tCdkV0ZUNMclc3a3puS0FXREVk?oc=5"
+      },
+      {
+        "title": "Szef NATO grzmi o obronie Europy. \"Niech dalej marzy\". Wskazał na USA - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVDQUE5aFZPMTBlbDRDZHZvUDFMSnh1MTFNTXd0QUNHQTJBU2wtNXdqcG9SQ3VMcHdZMjl3SWVWNzNjdVNtWHk0Y3I2LVhWNGljS0UxWTNtYXlCRE11WlFhTXcxWS1SWUJSS1pvTktXemZTMnlyQXFXQnl4Y0h1RWhJUDRfYUREWlg1RG1ud0JOWnAtSElIdmFFa3ltYlVXdWg5YUlpRl9EYUw0cU1ac1JKSXNfcENVbXRJQno1WEk?oc=5"
+      },
+      {
+        "title": "\"Matka wszystkich umów\". Wielkie porozumienie handlowe UE z Indiami - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTlmaWl3cHRqaVE5SFRpRjNaT1A5UUl4ak8yRm9qR2JWaUlJdE1LcWNNRkJBTjFrRzlWbGRxS085aldjYlg5dE5MbDIwUGhzUGNJcDNWT1lFVEJxTlhzN2RpX0xIUmcwbHI2R3drb05sbDlYbVdueW1zZUpRMkJmRmVuSGM1OXlJeVIwaHVtZWJManh0R0diRVhfMmZibDRyRkJ1ZnJuNFZiVG9JUE5tT1YtQjFBc3NCeTVz?oc=5"
+      },
+      {
+        "title": "Trójstronne rozmowy w Abu Zabi. Zełenski zabiera głos - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk9WeXhhYThlTFBBNHNkNU9nS245ZFRfTzRtY2hGSFJ4UnhzUU9YSk9oSUJMOUppX2d6ZVN1SW5kdE9LVUVYWDhuZUd5WDhoNVYzb3I4cURpcExRVmJCa3pHWElEVGR2REoxRC14dVduX29NTC1lWDF5eVR5aUhuNEZYeUlUY3htM2ZlS204aG9ERzllajlNYWNURQ?oc=5"
+      },
+      {
+        "title": "60 lat polskiej transplantologii. \"Jedna z najbardziej kontrolowanych procedur\" - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUlZdzdaTWVxSGVKOXNPNlpnMVoySW5kSEhDLXUxV214eG5XeTRlYkk5RzZJRzNfWE94NUQzZ09MN1pyVThqMjVVXzVJakJIQmFMd3NhUmd2bmYxTHNBd2tLMzE1Z1BlUGhJUVR1dUlPeVJ0TUpxRUE4RWtxTGl5cGdfUUlSTGhwMXM4c3R6eXJNRVU4elkzYjVtUURzd1dXSTNrckpDTXFrLW8wR3U3WFJVX0pwTXhmVGdVLTY5dlY?oc=5"
       }
     ]
   }
