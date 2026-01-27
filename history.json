@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25 11:15:55",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 314114,
-      "DOGECOIN": 0.437108,
-      "ETHEREUM": 10433.49,
-      "LITECOIN": 246.8,
-      "RIPPLE": 6.73
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "34. Finał Wielkiej Orkiestry Świątecznej Pomocy. Tysiące wolontariuszy ruszyło na ulice [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdV9yM3AtUTY0SGgxdXdVZ0pIM1RobldnMFdVQkhaS19CQzJ5SmFjcFMzbGNmTlkwZE1tQ3BBSmxwYU4tQjNmVlltcmJ3MmFyT3FlU3BhY1ZxME1NWmx1Ui1DSWZjeDRzc0Nn?oc=5"
-      },
-      {
-        "title": "Sytuacja jest rozpaczliwa. Dla Kijowa najbliższe tygodnie będą kluczowe - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWNocjZaSmJRTTUxSGo3bWhlLVRZeE9QU01qQVkwN0VyWl92Sk53T29UbXZIY3R6RWx5RDlVQUpMNnF1Mk1ZMWFHcUNTdGRMYUt4UXZKaWY5eDUydnhMRGxCUERTZmFYNGNzbGRIR2hJcXBsbVFYbzNuZTctNkZnNTI2ZXYxeTJCeXNNSGoyeUdQNlpaSEJyODRtOTY3blgyTmR2TUhhUkpLMjdXNG51WHQxUQ?oc=5"
-      },
-      {
-        "title": "Jak Polacy oceniają WOŚP? Najnowsze wyniki sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHdmZFlvek5xdkQ4bEhwVEtuQWI3bEpNT2IyemR2TUdwOVNrRTdTZlFNclBNZDVxSHczUGhlb0F5V2pBUnV0TWhMQTB3Z25FTU9Td2h6WlU4MXhNZnE5WTlLRDg3bDVRTlVGWTFxREQ3SUxvZ3RLQUQtMDBySkt6OEhLeTRWUUNlU0FXNUhRazROc2ZxdTVZ?oc=5"
-      },
-      {
-        "title": "\"Stan Wyjątkowy\". Trump ciągnie Nawrockiego do współpracy z Putinem - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hUbEVEckhXRTFOX2k5V3JWaWVDRGFnX05tOHVCY3E3cUFwb3F2d0UyVVVFMjF1Nk9QdFVNeFdrMURTTEx4eTFrRm9oU19VR3VWOW11VkNlUnN1OTgwWmhqRkhmaWNnczdjQzR1bFA0SDAxYW5ySmtmQmF3VFVwQ3ZBWlZGajMyekVxOFQxTlh2cks0LTZLOVBvM1p6aGotQ1o3Mnp2SThMRll6TXNhOGNteU4?oc=5"
-      },
-      {
-        "title": "\"Żenująco mało\" zarobi za wspinaczkę na 101. piętro. Netflix pokaże to na żywo - Rozrywka o2",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0ZueGppSk0tTzk3SWVISlVvb2c0VDhfZkdYZ0F6WTVRZU1feFRKTi1QbjRmanNWams3a1NHZVhqaGlkZ25HcE5vcTBhZEszR2FhczNlT3luYXpiaVBlQXU4TWlvMzVOejRUUUREbmZhcGdwaWZueDh1Wi1RdUFlbFBmVG5QRDM2QnNQVFpnOFNSeFJ6S0M3bVI5dkdZQ3dNRDJ3dTJmRTQzeGR1RmxaMjFaQnJmOHpvUEtTTXkzcw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-25 12:12:52",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "WOŚP pobiła kolejny rekord. A pieniędzy nadal przybywa - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHVHVTIyLVQyWjJDM0RXUGpNVFYxQ0xqcXVTVUlxWUJTNXlSZTR6OTVlXzVkRkZLNTRVVDA2SmZ6ZUdtMWpFNkZlSW9RMTQyZ0o2dy1qQXVISE0xYnpqanREZVJjNHJHZmo4QzA4M19qRmV1YjRDTEx6SWxHVlk3WFFXQ3VicXg0ZHlBblFwN01Bb3o3dGplYXhYeDRocWZpR1ZrWDg3dWJtUzVxTUV2Q2tyQ1pzN2dwTnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-27 17:22:44",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5354,
+      "EUR": 4.2032,
+      "GBP": 4.8432,
+      "CHF": 4.5575,
+      "JPY": 0.022997,
+      "AUD": 2.4491,
+      "CAD": 2.5791,
+      "CNY": 0.5083
+    },
+    "crypto": {
+      "BITCOIN": 309905,
+      "DOGECOIN": 0.437978,
+      "ETHEREUM": 10413.55,
+      "LITECOIN": 245.34,
+      "RIPPLE": 6.68
+    },
+    "indices": {
+      "^WIG20": 3365.46,
+      "^WIG30": 4317.01,
+      "^WIG": 3365.46
+    },
+    "news": [
+      {
+        "title": "Antoni Macierewicz znów straci immunitet? Jest ruch Waldemara Żurka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmtYc2R3aHVyM1I4OTM1Q1hXU2N4bXYzRnlWN1pkWnJibi1DbDZwNmNMN3M4Z2QzUzFwT2g0b010anpKZW1sOUl2NUIxSW1NRWRJMEpLenVLWkhhT01xOTJja0ViSUlNbWFkSjBFUUxFTmoyMXZFa182Q2ZTN1NZbWVERWJKWW0wZkl0anp2amhWNU5yXzRiRzU2Ykx4X3FMcDVMUGo5MUVmY2ZDUDh6M0RSYnNaTnp2OFRuNS1NeWF2YlhaUmxrMg?oc=5"
+      },
+      {
+        "title": "81. rocznica wyzwolenia Auschwitz. Karol Nawrocki zabrał głos. \"Symbol bestialstwa i obojętności\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1FBWVJvb0hlZlpLLWVFWFE2dTRFSmJ6cGktZ056RUNwUXRTSGFqZTIybFROVGtQb3dUdURjeFNzbW9hd2ZxSXdIVUJFN0ZJdDJ4cXcyOWViMDcxNUJFWVBpRC1qVUdxX3hkeDV4WHh4VlUteUV2dzVKQjVDSVYtUHZ4SnAxUVZCQXE5MHJod2VZSG5wNDFxVlE1bVJMWFdhMHpsYi1iMllMT3pxREdUZ05FUWtjUU5DQUZvZm1ZNA?oc=5"
+      },
+      {
+        "title": "Kaczyński kontra Brejza. Zapadł wyrok w głośnej sprawie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY29oa3Y3SVlFTEZjcVFXc3NqU0tuOG1JaGdncEtFOVhBS2dCT3VkOXJLc2N2T0ZxRGFoVVNZNEdzYk9Hc0RvYU16T1d1QkwtQllqVHM2ZVVGSmgzb0ItMkMtSXMwLXU3cWxfZXNMc19wZm5UV0xMbkoydHBMdE42b2NmUXVmTGFBd1I5YktfdFdZSFg0RU5mRjRyMjFGUQ?oc=5"
+      },
+      {
+        "title": "Miliard dol. za udział w Radzie Trumpa. Minister stawia tamę. Jest odpowiedź - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWJUcXRoV0g1bkxPVXNNT1NkdEdSemx0cXBZTmpuZGxSQUh1OFI0Yzk3eU1fZ2FucHlIcFY0RTMtTmdkRi1SRFpGR3R4Y3dsbTYxM01RWW5XcjJJSUZTVWgyZVIyV2FNMDFsdjJLZmRmZ0lwWnlhZXVRZlNCa1pKakxEV2xrWlF3NEJDU2JUd0V2QlJOeHA1dm5Nd1lHdzlZQU1zOVVWUEgwQ3JtazdickFCNjUwNExtRm1jQVFQcDF4VDhHUEpB?oc=5"
+      },
+      {
+        "title": "Sikorski: 11 lutego wygłoszę expose - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUhIQVgySG4xTm5LMXZhY0xLRlJOaXJHX09TcWt2VWVVNTdGZ0ItWUEwUmgtbzNrb2U3NTlVXzRZQ3VxZVVxZEFtQ0c1WEFxaXpraXBlcEdMUFdGN2NTVGppYXF3NER4VlNmalhXM09xR0RLWEJOM0ZNZDRlTVZGbkk5UQ?oc=5"
       }
     ]
   }
