@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25 19:21:51",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 311557,
-      "DOGECOIN": 0.42822,
-      "ETHEREUM": 10206.29,
-      "LITECOIN": 239.86,
-      "RIPPLE": 6.56
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "34. Finał Wielkiej Orkiestry Świątecznej Pomocy. Tysiące wolontariuszy na ulicach całej Polski [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdV9yM3AtUTY0SGgxdXdVZ0pIM1RobldnMFdVQkhaS19CQzJ5SmFjcFMzbGNmTlkwZE1tQ3BBSmxwYU4tQjNmVlltcmJ3MmFyT3FlU3BhY1ZxME1NWmx1Ui1DSWZjeDRzc0Nn?oc=5"
-      },
-      {
-        "title": "Ksiądz Kazimierz Klaban wspiera Orkiestrę. „Dbamy o dzieci, nie tylko własne” - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2djSTdrOHZCY1dwOFBiTS1jQy1yeFI2ZHNoZVVlMTRfeldqOEdOelZNM2xOQ3NPekFzRkNYUHB4MVoybFpHTkhJdXpMcWJvMDlKc3dJWnJDdU5Vc182dVdSZE1CdGtsRWRkM2k4Qmp5WHhuNkNhYnoyZ25BQzdrRGloYXZadGhua2xWZkZMY2EtN2ZCU2ZyQmFrZ2E2b1RENUJSVUlaRzJTZw?oc=5"
-      },
-      {
-        "title": "Wypadek w Kłódce. Siedem osób rannych, w tym troje dzieci - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkhXbDM2YWE4SUxuLS1UQkMzUDVBUmZsbC1vNzV5OEc3Q1ZfQlNCd2pBTzlMOWttWnVrUnVqOUZmVFJHclo5cU9XS2lOR2NrZFE5aDhPd00zZmdzRWJ1YmhnWmJET3RKQVQzakhnelBURFhFSHYzUEFXVHJvSWNQaU5IYTBEWWJDcGtlSzYzWWQtVjItZVJXVGlFdHZhc1dCMkdwdDdR?oc=5"
-      },
-      {
-        "title": "Opiekunka żłobka skazana za przemoc wobec dzieci. \"Byłam w szoku\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3g4QmRuNDF4X0NxYzh3bzc2eFBILVJtVTFza1czYWhFaXpwOFRyd1ZzWUdaZW1LcXR6NENXbUpqUDFpT1RwYXp2T0gxZ0tXQ3NZSjFvSE44VkdvdHRlNm4taWN6UVZITGgyN2Q3VDRyOTdocmR5UzVVM245QWkwTGxmdGtzak5RdnRRWDNhYmhHcVhkT3B1ZG5JSTRzRVJwaDhoNlRsLW1xVXZSWFNubFlB?oc=5"
-      },
-      {
-        "title": "Gorzki wpis Anny Popek na temat WOŚP. \"Atakują nas czerwone serduszka\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0paSkJsTUpSblVldE5uN05qLVVWM1pJMjlGZlhQN1dzXzRCM04zTFg3QW5hQ1ZtQW9sTk11SFZ3aTZGNFJaOEZwY1g0VE9iWXdjdllMNmx0bGdsUGdyQThmSnBUQ0Job1hmaW01WGU0Y0FLczNFZC03ZFJsa0tUU2FwYnFTajZRakxXYWJyQUJVYy1nQ2p6WG04c3R5QVZVTDF0YjRUc3NyenpRRFd0bmhIQVBFdkYyREpkTEhOOFg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-25 20:12:57",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "Boisz się, że faktury z KSeF wyciekną? Ministerstwo odpowiada - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3V1VFZhSFQwWTZOemdXU2UyejJhSEhxclNELXhQYkEzWFdjNVhWTlhFaFZJU3RIaU1sVmNGZWdPaVJaZGZKcHRSRkVjQ2lMQ2k5a1AtUFl2XzFSNmlFbHlILUtESU5waUdyZ0RnTHRfYVBGbFgxOFJjc3Z3OUdITEhWQ0RxQUdNc1ZrRTNqN2pzdkNYVVhLdHN1R05Obkx1YWgtWldCcjhJUU9NWVhEcnUtVlVZNXAxMnRtYWwtOXE0MWE0SXZSWGt3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 02:15:39",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5354,
+      "EUR": 4.2032,
+      "GBP": 4.8432,
+      "CHF": 4.5575,
+      "JPY": 0.022997,
+      "AUD": 2.4491,
+      "CAD": 2.5791,
+      "CNY": 0.5083
+    },
+    "crypto": {
+      "BITCOIN": 312121,
+      "DOGECOIN": 0.438371,
+      "ETHEREUM": 10541.07,
+      "LITECOIN": 244.25,
+      "RIPPLE": 6.66
+    },
+    "indices": {
+      "^WIG20": 3365.46,
+      "^WIG30": 4317.01,
+      "^WIG": 3365.46
+    },
+    "news": [
+      {
+        "title": "Ameryka zrobiła w Caracas piekło - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnlhSUh1YjdkU0Z3MmdEY2Ntbkh2Sk5oTkhUV3BRbHpfSzdrOFlLQmlHcU02NGFBS2g0RERGdEstRUVtSTFlbk1DX0NhUkFRUFQ1X3JDZko3TEhPVU84MWlySjVSNW94WnFITUVrbVFCU3NhZl9CTElRSmNfbjh4QjNsRk43cmxuU1JOM0RoWTE0S29YeE1raGpjckw4d281QXlfdkNpQ3FPaXBWb1RJ?oc=5"
+      },
+      {
+        "title": "Paraliż ruchu na obwodnicy Wrocławia. Uszkodzony wiadukt, paliwo na drodze - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0k5YTRld2ZEMi1paXE0Uk1vWmJnOENpbjJtMmtnOGgxRDR2X2tZTmlRb3BIR2I2UkpZZE5QZFg4czJXd3h1X0gwTVFqSnFWQU9FYzJYOUZqc0hjOGprcGhuYmJZLVktSGN0b29uNzJrTkhsR0xkTnJxZ2dXQzFHbm9nZE04dGhVUHhlTnpaS21CdHRacmJ1N0J5ZHgxUlNMOFhsVnVJRWpEcU1PNVpOcTY5WW9zSzJjTkthRlU3aHB3RXdzb3RDZUROR3Q?oc=5"
+      },
+      {
+        "title": "Zbigniew Ziobro uderza w konkurenta Orbana. Zamieścił wpis po węgiersku - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk80SEI3UUZ5QUI5eXFoZkkxMGYySG5BSXlJRzdCMG10aEJZR0RvYmhwY2tSMW1oU0VWWFBudkUxYVNmU0p1UDdRaGdWYk9tRGMydWxma2dkaXBoNVNSeXZKRkRsZmg0SGtsdUNtUC15c0QtWXRndTJfUVN2c2phT2ttT1l0SjVNb1FSMTM2Wlc4cUlLNTlZUFRKQ1Bnb0dXZEhUcC04RG9oU2lweDQ4?oc=5"
+      },
+      {
+        "title": "Przesunięto wskazówki Zegara Zagłady. Do \"końca świata\" pozostało kilkadziesiąt sekund - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlJzc0FIVTI0QU9DbnJSMVhzRzZub3NLYUtCeFVMcUFFakVlS1hxSERGX1I3WmpWRm03Mll0X25sS1VhMDdHc0E4YWNZUDhkWmMtRmpJaTdjVGRNRklTSDRjYlh2Mjc5WXZNV1IyQkRFOExidE81ZUNUUUlIb0xJb0hONlRJRGZySC14VHZVVzFkZjhSa252TDhOTEItYnhTU3BrSS1lWEF1M1EtODRJSTVSZl80UDlHbFRsZUUyaWxmdzNSZlMwZ2RIVQ?oc=5"
+      },
+      {
+        "title": "Wyjątkowe narodziny w Białymstoku. Najmniejsze z dzieci waży 1160 gramów - o2",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjBTY0F5SGF1c1YwTFNzRnNaUnlVVHBnazB3V1JwQmhWV1MxLVZaMFVJdDU4NGdrMkhRTDk5LXJYRlpXeEF6TGZkNXNwV3lycTM1dUJjMXBqd2RBNVNiY0k2c29jbV9BSWRFNE5kaHBDbEVpdXZLcExMNFBVMmRSN1VxMFlJQVdoU21wRWpob3hmZHBTeUpsYTdFSU9uQXFhRlVMY0FKQ0tGS29tWDdxODNfd2puQ1ozcnc?oc=5"
       }
     ]
   }
