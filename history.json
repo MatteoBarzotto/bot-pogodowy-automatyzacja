@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26 04:51:32",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5831,
-      "EUR": 4.205,
-      "GBP": 4.8478,
-      "CHF": 4.5298,
-      "JPY": 0.022678,
-      "AUD": 2.4507,
-      "CAD": 2.598,
-      "CNY": 0.5145
-    },
-    "crypto": {
-      "BITCOIN": 309685,
-      "DOGECOIN": 0.430996,
-      "ETHEREUM": 10103.82,
-      "LITECOIN": 239.11,
-      "RIPPLE": 6.64
-    },
-    "indices": {
-      "^WIG20": 3299.55,
-      "^WIG30": 4236.48,
-      "^WIG": 3299.55
-    },
-    "news": [
-      {
-        "title": "34. Finał Wielkiej Orkiestry Świątecznej Pomocy. Licznik przekroczył 140 mln zł [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdV9yM3AtUTY0SGgxdXdVZ0pIM1RobldnMFdVQkhaS19CQzJ5SmFjcFMzbGNmTlkwZE1tQ3BBSmxwYU4tQjNmVlltcmJ3MmFyT3FlU3BhY1ZxME1NWmx1Ui1DSWZjeDRzc0Nn?oc=5"
-      },
-      {
-        "title": "Generał z Chin oskarżony o szpiegowanie dla USA. W tle zbrojenia nuklearne - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzZfelVSeEZtNzlfTFp2V1loRTBQLUZRZ2M0eDBaRmxPLURVUFJQeU1KMmtzSFhJWjl3WnRKeUIyUHdfQzUxM2VvZUhKa3dfMWRBY2hZU2FRZjB3NC10b3VIZWs4N1pjT09lT1NqdjdaalR4Mzl1X25nczJfZUlDU3RuVFRDVnUzRmlUaV81REE1NUtac19QckI5MGhvRmVuLVhCaF9BUnQydlJFMjBSMzczZXpTbEdwSW1weFNRQXJNY0FMSkFKYWNhUlFLLVF2Umc?oc=5"
-      },
-      {
-        "title": "BMW pędziło 320 km na godz. Mężczyzna żali się, że prokurator zabrał mu auto - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVMtbmxvaGNoMEh5RURnYmN2SGptUExtZUpYWnBCdFp6c1MwTGlmMFQ2aVUzZEdpYWNHU0pOZ3BzcExrUFZmQjNYU1kyZndSRE1iUFFkUEhlWVg2SUxJbC1XZHF1NDZHM2M2bVFnQ2tBR2h4T2RWT2dXUTl6OEFVQzh4aExNeEVxWEVmN1RFUndESnJXbVR4SjNOcGhYNnpFRkpjSlZncTJIV0trNHhYQkVrWnEzR0phQW4zQWdqNC1TMkhqbG9MaTAxbzBNVmQxRDZZ?oc=5"
-      },
-      {
-        "title": "Prognoza na luty. Sprawdź, gdzie będzie najzimniej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1VMdFdKNl96WDEzNVN4ZHNCNkphYTVERnNkOXBHdlA0a1lqUjlsNTVHOFlFbDMwVU82N1hyTVRFUlF6Y2Y2N0YweHM3S2I1M3ZsclEtZnA5X2tqTTdRbm1TZzRaQ1VJTHpER2RQa1VWZ0FJRGRZWExCby01TFp2V0xlS3NhdGFiTlJyaWZpYjlCd2IwX3c?oc=5"
-      },
-      {
-        "title": "Trump oburzony pozwem. \"Za późno, by to zatrzymać\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTM3Rk1xOUYtWUpSWVlhSUhxNzZjdkJQalN6X1FDSTJYbTI0TV9aSHROaDB6YjRqR24yM2RKMVY5aWJyVkU4Mm5OTUo1MUdtV2wzZjRXSkVpdGZZQkFlN0FuNmZRdVViUWlwN0ROWkxyeEVpRVZ4a1lQb1l5Nm1ydW9UTnJsOWlTcEtvWlJqMk5hd3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-26 05:50:59",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Jan był ratownikiem w zawalonej hali. \"Babcia zamarzła na śmierć, ratując wnuczkę\" - Medonet",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNblkxTGNSb3dwVEdpN3VqVU5VR0J2T2x1SHRFQmpoOEhNWkJRZlQ2SkZUemxTSHFQeTl3TVdFSmV2anlubHZoV3Z3UVZGT0FBaXNubFhxRl8teXd3RGRab1hlbGpBZkFHQm9WR09PODRnM2hTeUJvajMyLU82bFF2aUtlTzRWeTVDOHFrZGVWcmxDa1BxQnljbnMwNDY5WnN6bVVIZGhoSGkwZFlLeWlUODFldTJTeG54a2hqNXBYanMwNkFjc1dtV0NBY0dVa21zd0FMbm1UaWNkbDN6NWFxam0xVjRVRTcxRHp1Ri1Lcw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 10:28:33",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.5354,
+      "EUR": 4.2032,
+      "GBP": 4.8432,
+      "CHF": 4.5575,
+      "JPY": 0.022997,
+      "AUD": 2.4491,
+      "CAD": 2.5791,
+      "CNY": 0.5083
+    },
+    "crypto": {
+      "BITCOIN": 311718,
+      "DOGECOIN": 0.440223,
+      "ETHEREUM": 10491.83,
+      "LITECOIN": 243.17,
+      "RIPPLE": 6.69
+    },
+    "indices": {
+      "^WIG20": 3365.09,
+      "^WIG30": 4312.49,
+      "^WIG": 3368.43
+    },
+    "news": [
+      {
+        "title": "Czejarek o katastrofie hali w Chorzowie: Na Śląsku zabrakło karawanów - o2",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYldXbXpoRXdjclNsSnR2MTFxWE91UUpYSDM2a1FFTmtNRjdOdFJTS3JPWDVxRzlzN3lURjFZNlQydG1CNE14WDcxRWNZblc2cmwwVmtMOTh2TF83MFpZYnpKdzFqR3VqWmlJbFFxTlpfbWJ2eTVNMmZGTFdBWFpScXZUcFhiZm1TOExiQm14OXdHUFE2a1lBN0xKVmpPalAyclFaLVlRWWk1UlZBU082czFGWWFhdw?oc=5"
+      },
+      {
+        "title": "Zdjęcie w Białym Domu. W ramkę oprawiono scenę z wizyty Putina - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjFmTldac3lxX2hGOHAtTEFhMHpBYjZNZ2xfRGhERlVSNVJkdVNLVGdsNXN3UWtlQ0pJaC00aDV0RjUtb0NkQzA3VTVHR2lQdENYbjI4WDRLTFFDUlFlSEowV3ZPRFdHbUE2NGtWQks0ZmJ6eXlFYkw4Ym5MQ05iXzU5SF80aC0yNnFpdFVSVk9MZXNnUy1OdnhtaFZxT3RBd25CT1REQQ?oc=5"
+      },
+      {
+        "title": "\"Paskudna kobieta\" i kupowanie wysp. Bolton ujawnia kulisy decyzji Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkFzUFdaTFF0aG5IcnE4S18xWk83akxMaTg1Z1h6OTNSYnRCa01JRmJ2bnFRaV81el96aC11aHZFZ2N0bWZxLUI2TjZOdmJiRHNJNGhnQlBwckR6dXkydzdnd0pXdU9CU2xzVkVTdUxBNjBBeEtoTjRKWDg5VEhWTDAtR2lBTV9rdjQ0dV9mWk1VSV9taUY5d3BvSE9mM1Q1OVZkUEdrUm5WT3R0djhGeXpDcw?oc=5"
+      },
+      {
+        "title": "Od czwartku zaostrzenie przepisów drogowych dla kierowców. Sprawdź, co ci grozi - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkhObEVJQWpYY05rYWdnQ25ZSEpyRm1HSDFZLWJUVTZoYUdLaDUwZHo5TzJ0bEJKeUR3dlBYeGlyNDFnaVF0VlZienZic1lZN1NQODR3UTBlOHpkUDZ0aFpJTHE3bkZQbVppdWdCYzJraHlLUnQ1MnVYcng2LXgyTXNXOVV1S2Ywdjd4MVJYZVRQMlJza3c2Y2Q1WFM1dTk1enNBWjdVdl9wSjdNMDljbA?oc=5"
+      },
+      {
+        "title": "Paraliż ruchu na obwodnicy Wrocławia. Uszkodzony wiadukt, paliwo na drodze - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0k5YTRld2ZEMi1paXE0Uk1vWmJnOENpbjJtMmtnOGgxRDR2X2tZTmlRb3BIR2I2UkpZZE5QZFg4czJXd3h1X0gwTVFqSnFWQU9FYzJYOUZqc0hjOGprcGhuYmJZLVktSGN0b29uNzJrTkhsR0xkTnJxZ2dXQzFHbm9nZE04dGhVUHhlTnpaS21CdHRacmJ1N0J5ZHgxUlNMOFhsVnVJRWpEcU1PNVpOcTY5WW9zSzJjTkthRlU3aHB3RXdzb3RDZUROR3Q?oc=5"
       }
     ]
   }
