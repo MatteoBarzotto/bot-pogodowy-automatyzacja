@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26 15:22:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.5499,
-      "EUR": 4.2118,
-      "GBP": 4.8537,
-      "CHF": 4.5758,
-      "JPY": 0.023102,
-      "AUD": 2.4574,
-      "CAD": 2.5959,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 310564,
-      "DOGECOIN": 0.430001,
-      "ETHEREUM": 10223.93,
-      "LITECOIN": 242.21,
-      "RIPPLE": 6.76
-    },
-    "indices": {
-      "^WIG20": 3327.35,
-      "^WIG30": 4274.05,
-      "^WIG": 3327.35
-    },
-    "news": [
-      {
-        "title": "Zaskakująca czystka w Chinach. \"Organ głównodowodzący zdekapitowany\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlkwc2k0T2xPT202Z1dRMFcyZGo4LU4xbThVVHA3VnZjbUEtYUcxY3k3T21ZWEhsUThEbU1fQjZVSDBscS1tTDlvZmpxMHhDMi1SNlFzRG1mVmhhNHdmZlpFeG9IQ09lZlktRk5oejktbUdGMkRiNlVhSS1sMlVLUmtOUzlITE44ZHpocFg3NzRmZV9WQU1FZnpTc2txMENxbW1FRHJMcUFqdFV2?oc=5"
-      },
-      {
-        "title": "Paraliż w polskim mieście. Na SOR-ach brakuje miejsc. \"Apelujemy\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONFFHbzViVzlqNVF2aEdyZUNNMlFfWHdOTzVlY2tIZjJrbllTc3FIMFZOTTJvQkc5SkNEWEhHV0IxRzAwYzNvMHNlSWVWMkNUeFppVlRNUWxZR2VfVzNCUXR2dlVhZWpOSWxubTdpZTRULWNLU3gtNHlBUkhYNmpLUWNNU1pQSlZFdlZqVTlVQzUzOGhDRVhMNTljZmFXYzZHdHliQ1BBLUNEM2Z1V1ZmRWNaTWgtcnBYRFNuNQ?oc=5"
-      },
-      {
-        "title": "\"Zero tolerancji\". Ministerstwo sprawiedliwości zapowiada zmiany - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU10SVRyRTNld09GNDF2ajVMc3RPT3hhdnBmenM4bnMtdldLcnNsSnoyLWZHVHdIZVZrVFgxZFdfTzc0QmEwTWhEaU5mQXRSUTF1Z015ZWY4SS1FMXhZLUZlZmxlUFE1dC1nWHpOdDkybGtPWExaeG5IODh2SE1iMk1zNVk1akYteHRyT3g4enpXVThCWkFoQWlkYS04ckZYcUxPRQ?oc=5"
-      },
-      {
-        "title": "Samochód wjechał w dom, są poszkodowani. Groźny wypadek w Płocku - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORE80eXhRTEZjSGVwbzBuUERRSGlPNzZzZWFobUpDTzRnNXVDWENBcUVfMmYwVlpFRWJhWHJXNFFpeklfMFIySlVZelR6dkJjMUN4cTgtTUUtX3NrTFQ4dzhkRUR1eTNyWlVFelRnYUpubVEzQVNhNU5EbmVJWklydGQ0NXE4d054OXAwY0YyMlFXVXgzWGdfUWcyREVwZVJkOHZob3BIUmpkeEhjWG5v?oc=5"
-      },
-      {
-        "title": "60 lat polskiej transplantologii. \"Jedna z najbardziej kontrolowanych procedur\" - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUlZdzdaTWVxSGVKOXNPNlpnMVoySW5kSEhDLXUxV214eG5XeTRlYkk5RzZJRzNfWE94NUQzZ09MN1pyVThqMjVVXzVJakJIQmFMd3NhUmd2bmYxTHNBd2tLMzE1Z1BlUGhJUVR1dUlPeVJ0TUpxRUE4RWtxTGl5cGdfUUlSTGhwMXM4c3R6eXJNRVU4elkzYjVtUURzd1dXSTNrckpDTXFrLW8wR3U3WFJVX0pwTXhmVGdVLTY5dlY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-26 16:23:06",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "Nieprzezwyciężona choroba amerykanizmu [OPINIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEp6WHhKNzdkTjQtbHFGdXVVdW01ZnUyd2RMaUZBbDhzTXRtTlZSSG9uVDdSQVMtdVZmMGJEc3hNZXBCUFc4ak5rS0h1ZEEzT1QtbUtMZmZOczBacjVwbUYzeE83WmhnNmZOSFhpMGhhRUlISC1WT21tQjhxWjk4SFlROGY4Smg4RWFhX3V3Y0ZKZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 21:22:29",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5045,
+      "EUR": 4.2009,
+      "GBP": 4.832,
+      "CHF": 4.5684,
+      "JPY": 0.022949,
+      "AUD": 2.4541,
+      "CAD": 2.5837,
+      "CNY": 0.5045
+    },
+    "crypto": {
+      "BITCOIN": 315217,
+      "DOGECOIN": 0.441755,
+      "ETHEREUM": 10638.63,
+      "LITECOIN": 245.12,
+      "RIPPLE": 6.76
+    },
+    "indices": {
+      "^WIG20": 3393.31,
+      "^WIG30": 4350.64,
+      "^WIG": 3393.31
+    },
+    "news": [
+      {
+        "title": "Maria Zacharowa poucza Karola Nawrockiego. Dała mu jedną \"radę\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHFCM0o3RjVjNGdDYVZMY1JXNVZlaEVlWThYSHJPWWJUNERaZGJ4T3pJWVAxNDJyWEhsVFhHOW1RMHNCNGY1bEtkelI4UGV5NVZSSG5wYkQ4R002Smd1YjU3ZGRybWNPOXR1WVpNZWlBQmF6YTAzVVYzbFRiWTlVYUtoM0tnVTBCdDNHbC1oY3dIeFhHVW9takhoeUU1NmZTTnlLbEF2bG1rcHVRVmZJMWFQWHpmcUZRM1dvSEFYM1B5UUItODlhLVd0ZGtDZms?oc=5"
+      },
+      {
+        "title": "Poważne zmiany w Krajowej Radzie Sądownictwa? Jest decyzja - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkM2cWxrNVhqb0VUb2pnZUtmaXRXeGJuZncyWEpXb1NEcVZ4WHY3R1VNcTF1RXZCcjVBYjNSM00xYzJ2MzQza1hzZ1N4Y1BoR1FQd2NiZ1Z5TmZyXzRiZHZieXUzUlNLX3BBZU1wYVIyazR1a2ZZeUFZM3hIam8yYkNQY3pCdVEzZ3lKUndQZ1hCYjMzbERGX0VtaVFaWjlRNmRIWnlNVXZZYTI2dFoxZ1NzTHFlajdKYk1RaA?oc=5"
+      },
+      {
+        "title": "Doradca Putina \"zaprasza\" Zełenskiego do Moskwy. \"Jeśli jest gotów\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlY3b3VIN2MzQnB1VjQ0TXpOM0EyVmpWYnZfZzlCdWJuQUZralZxSzZ3WDAwZGNUeURaM2c3NUlJOTdZSDlnTkdKeHkzUzlmSko3YndWa1l2SlBRUFUtbm14YlJaR1BhUGR1ZzduMmc1clhGT2M4VE4yZktPaFpqNWE3OHZ0YldDYkExQlVoenp2OHEyQ09WSW9lLTJrOXNqdHNhNmtZRF8zRktlS2cwQnZDY1V6YXRlWUpHZTBjamZfZjA?oc=5"
+      },
+      {
+        "title": "Niemowlę z Elbląga pod opieką lekarzy. Rodzice tłumaczą upadek z przewijaka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2syM2ZDbXhCT1ctVXRQNThKSldJX2pYZFROTnVpX3psNXlQNUFKN0hLTDBaWXBmam05Uk9lNzUtR1NINXE5dkExanBReHdDZTY1cGsyQUxVQS03SG9aUUlxbVVJNkd5NmE0cTdvSjRtNHpBWF8tdE42T2NGaW9YWC1qSkdzSE9IVzQyTWdfcENBSm1RdFZTbHJpTGtna2ZBdG5FZ3BHNDlQQQ?oc=5"
+      },
+      {
+        "title": "POLSA zawiadamia służby. Chiński obiekt nad Polską - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXFLbGhDX3NGMUhUcjQxSGhwYXNkYW8yNDZlYzNMLUZQbUxuSGY2WDk2NXZfbmxWN1duTmRzSTlVMjU1Y1JyS3FKMTdNN09UazNkbG1ScWx1WGVHVUlBWVM0NmtuNXBtbklXOTZBT1RYd1kzdDk0VW9aS2pDOU95ZDBGM0U5UG90TjdtUEMwQlEwaDA3U2JmbXNzUjdGZw?oc=5"
       }
     ]
   }
