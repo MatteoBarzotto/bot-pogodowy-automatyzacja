@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27 11:21:15",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5499,
-      "EUR": 4.2118,
-      "GBP": 4.8537,
-      "CHF": 4.5758,
-      "JPY": 0.023102,
-      "AUD": 2.4574,
-      "CAD": 2.5959,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 311043,
-      "DOGECOIN": 0.431149,
-      "ETHEREUM": 10295.64,
-      "LITECOIN": 244.37,
-      "RIPPLE": 6.67
-    },
-    "indices": {
-      "^WIG20": 3367.09,
-      "^WIG30": 4321.71,
-      "^WIG": 3367.09
-    },
-    "news": [
-      {
-        "title": "Miliard dol. za udział w Radzie Trumpa. Minister stawia tamę. Jest odpowiedź - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWJUcXRoV0g1bkxPVXNNT1NkdEdSemx0cXBZTmpuZGxSQUh1OFI0Yzk3eU1fZ2FucHlIcFY0RTMtTmdkRi1SRFpGR3R4Y3dsbTYxM01RWW5XcjJJSUZTVWgyZVIyV2FNMDFsdjJLZmRmZ0lwWnlhZXVRZlNCa1pKakxEV2xrWlF3NEJDU2JUd0V2QlJOeHA1dm5Nd1lHdzlZQU1zOVVWUEgwQ3JtazdickFCNjUwNExtRm1jQVFQcDF4VDhHUEpB?oc=5"
-      },
-      {
-        "title": "Tragedia na Madalińskiego. Po podaniu pacjentce podtlenku azotu zamiast tlenu lekarz wezwał do szpitala policję - warszawa.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWldqa2JGWllqM1JOb25MWk9qaXYzY2FwVkVnN2JTVlRQS1JwUHZVYlZ2cU55RGRvVWVwcTlYN2VyOEltWTVGSW1OWlI3S0dIdS1McHNjcnM3aW95RkdvU29zT2gxcHVhc1ppUjNNbFluNFB1Z0ZnUWpkN19fSjZsNnAtbndteng4aDlNMkFfMVlvUnhsRUpWc1IyTlBxU3NEbVowY3hlaEhiWnhmSmFjWVZTRzhERzBnYTFxbE9wc19IUQ?oc=5"
-      },
-      {
-        "title": "Miliony z KPO na cyfryzację ochrony zdrowia zagrożone - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjVtUFo0YWhwTHRKMmM4X1RNMzBVdjRqVll2X1ZKT29mQy1wbVUwdTVIR3k4WWF4YzRrWEdwUDJncEdDQURQX0gycG9VZ3d5U1RnVnlyd1JrY0o3UEEzazg0NUtLNVlLcVpYelRKckFqT0pmTjlSdkNuVXZaYlVwODVSdHZEMGpMU1NCQ2hCbVAyMkEtUjhMOVJR0gGTAUFVX3lxTE9NOXpHYzNrSTJSWGhaVGhTR0lrOHJTN2dOUFk4eVFiQkNLZU1EcUNlT2pYdlNkUWhwU2xtTVZXc0pGbmZuc0JyNGZQYnU0SjlFTlNYSGo3LTZ6eHFSRDdpQVpaVndLckFfWFlNMlVJQVI4SmZRcFV5VTZ2VmNKYlF1bWtXbzZUVXdXdkpmYkprY0w4OA?oc=5"
-      },
-      {
-        "title": "Wrze na linii USA – Kanada. Człowiek Donalda Trumpa grozi użyciem myśliwców - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkllTkFLY29HUjlVVXJza3gxaGVZeEVDdnlSRnhLYjBWWnFEdndjV0toRlBSTVRQeVVqR3doQ3ZXUTZSeTQtYWdPYlg2Ykd5ek9JTDhfdVk5Y241alRheVBlUDhTSXNucXFVX2ZvM0o4bTJKazhuVHA0TjFZN2ZvZ0duZEwtVUtpS3dHanBWdmtIRXNpR1p4dG9XOTRvY2xxNW9oeHdIRFVCalJRdW1zNzBjYw?oc=5"
-      },
-      {
-        "title": "Alarmujący raport kontrwywiadu. Kraj NATO w rosyjskiej narracji, \"jak Ukraina\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR3UtdkpXajkzWWx6SU1PZzJ0NlN1UzJXTGY1WG1BdUJNZDI0OWR3N2J6LWF3ZkkwZG9ZTWVJbGVDbUkwdnVpbFlzVzktRFNJRzJqUTRzREZ3el9nYWJ0VExHY0Jac3JhM0E3LTBhcmVSdl9pcVY1bHdzMUpoRkg2WGxYbFRQdDNkQjhtaFhLYkV5bUpQMDN1R0tkTldXVmVDeVgxSnZLYmdTTGJ6WEcydEZBX3dsNE1h?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-27 12:18:35",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Złoty Pociąg odnaleziony? Tajemniczy tunel i trzy ukryte wagony - Polskie Radio 24",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlE0YmZIaEVlZkx3bXMzQnlYR0p5RXh6TElPMEN4d1psRmJWUlQ4MEtuZEkxb2xBUVBSeFlCSjlkc0J4d29nUHFDRkp0Z2xiajFfQTlhTWp2cTdMeHRDUzgtLXVPamowR0Y3U2UxUjFweDZscXFoV0R3OGhhTHlLNDk5S0FCOGozM0NjZURMaTdYZ19vOVlITnAxSXR3OVRZMzRUUVh0NA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-29 18:32:30",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5189,
+      "EUR": 4.2072,
+      "GBP": 4.8574,
+      "CHF": 4.583,
+      "JPY": 0.022951,
+      "AUD": 2.483,
+      "CAD": 2.6002,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 298899,
+      "DOGECOIN": 0.41452,
+      "ETHEREUM": 9983.12,
+      "LITECOIN": 232.99,
+      "RIPPLE": 6.44
+    },
+    "indices": {
+      "^WIG20": 3381.38,
+      "^WIG30": 4330.59,
+      "^WIG": 3381.38
+    },
+    "news": [
+      {
+        "title": "Polska 2050 po spotkaniu z prezydentem. Znamy kulisy rozmowy [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFsZEpVVEFweThzVXUyVllhVk53U1UxRXdWMnhFY3F0ZDg3Q0p1cEdXcC10cnh3eHJ6bVlWb0I0NElrUGhZSmNWX0Ywd2U5cmNQX3NLR2JtZWR3LXprXzZfWlc5OF9HeXBMWjUycGUwQnRCTTFLbzhLSllUNDBTV0xZWVJqYzBSWHFjUzludEswRWxVaEYxTTR5SjhDWGh4TU5pU1RrNjI2SUNGVVk5WVJNNGVkd1V3ZElzMG4xYk81d3c?oc=5"
+      },
+      {
+        "title": "Jest skarga na europosłów PiS. Irlandka oskarża - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGxPVi1iY1I3cENDaS1QTkstdWVDaFdZY0pMNEd2MWhwTl90cm1wVHBGRjhpZTE5U283OUlIUEhRcXU4STA1RXVNTmlraGRfNjRWVzFLR0hkWUlBTTJJYXpLSTY2V3pmMjlMYWdqYV9hcXR2a0k0VGlfTF9TdVZWNG1CZkF4b3NrMUZkOTJORmVnSlE?oc=5"
+      },
+      {
+        "title": "KO chce karać za patotreści w sieci. Jest projekt nowelizacji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNyY2UyTDdaZ2hIR0k4NDFGclJlb2J2U29pMFBweTJ0WUpEMU9UQl9DU0R4UEhGSkVKYVg4WUtPRTdna1NCd0c5VHZHMkJlcEdfWExJcENrVmdNejVQOXZXb2JweThHX0xLckIzbE5UaW1jUi1WSDN6QWhURTg3dm5yV3RTeThtc0VlbUJrbUpWdVZFVDhmajJFaHMxdjVRTVg5eDFKLXE3SmNn?oc=5"
+      },
+      {
+        "title": "Nie żyje założyciel Roman Gawłowski. Biznesmen upadł na lodzie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXUwSVZkS0l6TVd0eGtCdTJuMEJKUV9XYkJ5SklPbE9rZnRkZTJ0elZIUnZGSXFoZGp0ZzhwRm5fUHJkYmNPUVd0ZGhIeTVNZHc1dnRqNVVUU08tSHRVeF9xSzVCenNadjE4a2k5TDB0TVlhTl9mSXl4Y09sLXFXVG5WcF9pMGMzMHVONWxfbG9HMGU4U1EzaXBjZ1RaNGwyZ0xCaGtidjZzQl9GcHVpSTUyU0xzYVNJRHJJ?oc=5"
+      },
+      {
+        "title": "Sikorski zadrwił z Tarczyńskiego. \"Może Państwa zaskoczę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmNGQ3NseUQ1aHFaUjRnMXVMcUVZcjBRLTRQVDhXY3hHblQtSmJVS0sxSWtYQkUtaW8tdk1aaEN5Z1Uzd2d2OVQ5Y2E5TGYzSHBMRUJTMHBrV2t2T1VNYzBRQVVBWVBKOTk5b2U2bWVGWnRGSl9WWFh3RGdBckNrRjFBVEY4T1VrY29RdEpfb2RObmt6cm10ZEhITkZKUQ?oc=5"
       }
     ]
   }
