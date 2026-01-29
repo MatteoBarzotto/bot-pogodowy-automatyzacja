@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26 22:17:43",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5499,
-      "EUR": 4.2118,
-      "GBP": 4.8537,
-      "CHF": 4.5758,
-      "JPY": 0.023102,
-      "AUD": 2.4574,
-      "CAD": 2.5959,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 310810,
-      "DOGECOIN": 0.431352,
-      "ETHEREUM": 10288.74,
-      "LITECOIN": 244.36,
-      "RIPPLE": 6.7
-    },
-    "indices": {
-      "^WIG20": 3356.01,
-      "^WIG30": 4309.45,
-      "^WIG": 3356.01
-    },
-    "news": [
-      {
-        "title": "Funkcjonariusz wydalony. Siemoniak grzmi o \"politycznych działaczach\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzl5ZEFzbWxJU2JCM0ZpNzZtaUp5UFNfcFg3WTNUdHE1SzVOQzVrTnY1Z3ZaTWszenRPby1ySGtqTTMzWE9kWEc0V3lab3c0QzJ0TndKNHNNSXZ6V1ppWkRoNksxeVJLOU5JdHNHMjRidzByY3RQZ05FNDEwTHU1NmMtMENFV0JsaDZIWHpiNmhBNEhLMVpPMDh5QjU5MzFOY2JBbS1VNEtGSmZGS0E?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak ledwo powstrzymywał łzy. Zwrócił się do Polaków - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzZkQ3kzNFhhNW9zRXdsX0VNMkhiUk1sWmc4b3dveml6SzZMR2x0V1FyeFd1QnNoZzdKYk8taUdBcm1Uc29sUGZ6Nm4yc0FYYWZsTEVnY1luZzFNQmZpb2dYVzhyTm1yYlo1YmViNFVsMzZBRzhhaTZIeWQ2QkJuV0U4Yno4UVJZcXAxUnU4RFZ1MVdadmRKUDZheTJIR3gwb1BUU0pIYW9DUFFKWVU2Rm1DdnJHQQ?oc=5"
-      },
-      {
-        "title": "Powrót zimy. Polskę czeka gwałtowne ochłodzenie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOektIZDBXc0c0TFh3dUFvVkxERFlWS3RXWHlDd3I1QTJ4YkxiTDE3ZkQ1cmI0eXY4azR3YXcwOGYwSnRSMmUwZFFXdkg5eVYwTnN2WVI3dDJLSVQ5NVloTk0yVmZZZ3RDcExDSGtWeUtMN3BsQzVsVzVvcFJaVnA1NjVZdExuenRLUzd1SHFhWUdJa1E?oc=5"
-      },
-      {
-        "title": "Szef NATO grzmi o obronie Europy. \"Niech dalej marzy\". Wskazał na USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVDQUE5aFZPMTBlbDRDZHZvUDFMSnh1MTFNTXd0QUNHQTJBU2wtNXdqcG9SQ3VMcHdZMjl3SWVWNzNjdVNtWHk0Y3I2LVhWNGljS0UxWTNtYXlCRE11WlFhTXcxWS1SWUJSS1pvTktXemZTMnlyQXFXQnl4Y0h1RWhJUDRfYUREWlg1RG1ud0JOWnAtSElIdmFFa3ltYlVXdWg5YUlpRl9EYUw0cU1ac1JKSXNfcENVbXRJQno1WEk?oc=5"
-      },
-      {
-        "title": "Są pierwsze dane na temat strat Polski po ZSRR. \"Były wielokrotnie fałszowane\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakRHU3RFNElCdWN1VmJSa29BemY2SFdQV2NkenViZmZreUNEa2VPMnpFUXU3S29FNXVrQ1VFMnJrX3ZCVWVEWWVhV1NkOFB0RVhENGZuRk5NOFhtdTR1bENsTzN6UlJMNm5iekx0NU90eUV1VGdJVjdiVjV5YTd1eVZIS0RObWVKSEU4NWFCRDZOTVNuWERCTmJJVEtwcTVra3VvTGJySl8tbWdOb1Z1SmFGSXA3OWVFQ3NCZTdR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-26 23:16:07",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Nowe przepisy migracyjne w Hiszpanii. Surowa ocena krajowych mediów - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQUM2dU9PTG9OdVZENGRXOGxqNDdPS0hHUENGUndSbUVGeGw2Rm9HckZ6dkwtdHp4bkNOWXhTZVMtQ29hM2JKQ0dtaGk0UjdSUFdscUtjSzFwcWtaTlg3V3Q4NzRyT0dsY0FCSlpYYUZwN3l6U0ZnOHpOSVVuV3l0Y29DeTZLUXNJNDg1MGk4WlI4eE1zdm9QNk9YamFDTkJZeUNFaEYtVHNNR0xuSzZXVlFRQWtaRmFwcXpReTZ4eTRRQ2Mz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-29 07:38:30",
+    "weather": {
+      "Warsaw": "Warsaw: -2°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -7°C"
+    },
+    "rates": {
+      "USD": 3.5045,
+      "EUR": 4.2009,
+      "GBP": 4.832,
+      "CHF": 4.5684,
+      "JPY": 0.022949,
+      "AUD": 2.4541,
+      "CAD": 2.5837,
+      "CNY": 0.5045
+    },
+    "crypto": {
+      "BITCOIN": 309196,
+      "DOGECOIN": 0.427298,
+      "ETHEREUM": 10348.87,
+      "LITECOIN": 239.16,
+      "RIPPLE": 6.61
+    },
+    "indices": {
+      "^WIG20": 3393.31,
+      "^WIG30": 4350.64,
+      "^WIG": 3393.31
+    },
+    "news": [
+      {
+        "title": "Działo się w nocy. Ujawniono nowe nagranie z Minneapolis. To Alex Pretti - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHc0dzllNFlVc1FNaTJCMHVNNVgtUVlldWVyanhRTE9yUFdWblNvOVIzanl4SHpHMWV1cXh1elUzeVRleEFHaEhpdVlDVUtrSWNYekRaM29VQ2hhbE5uVXJ0OUVzMnFnbDRzZHJsRy16T3FvQUVxTEJpeWZZVnNRZ1hXdGwyX2o3c0VCQmNDVnE1cEFaTmt1WDlPd1RjalpTNE5OUVNraFpnT2tTb1YzY1picw?oc=5"
+      },
+      {
+        "title": "Polska szykuje wielką inwestycję. Oto przed czym ma chronić system San - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT08zQkYyQ1JnbUw2TlZ1YnJFZnI0UFRfeVBEdGxNOWtfSkZCN3pLSEtRdFotaXdfUVpvNVgxYWlGaERvYlpzdF9zbVR6UlRvQzdaU3MwTno1T2t5enlQTHdoNE41ei1FT2RWYlQ3d0x6YUFLWW1SYmJlNkdCdEhyMzVtQ2hBbE55emNPRVpKTloyZmtWTC1jc3YzRV9XRmV3RG9iU1RBbHVmbUtSQVFqNEg4SkQzS2MwaS12dnNCeS1GQQ?oc=5"
+      },
+      {
+        "title": "\"Miałem inną taktykę niż minister Żurek\". Adam Bodnar dla WP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFdWb2FRS01qTjNrTlBOUWJHOFZOYjhjdHo0akwyOEs3NWRhQVNWUU1pelZJeUtaNEV2WnFZYzNnYnNpSFNXZjhrODEwb0pISkRFTllWMlZna25sUUVlSFhRYnFhY1A0ZmV6Y1F4TE0wc0theEpHZ1lRSTkwTE5neUhvbXNZRWU4VXVGZU55YWRjdk5wXzltR0xGV3lVSU10dHc?oc=5"
+      },
+      {
+        "title": "\"Nie będzie miał swojego ambasadora nigdzie\". Schetyna wprost o Nawrockim - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZTbGR6R2dlUzFFbVAyRVN4b3Z5WTYzdFF0UFBpaF9tYnBQMzZhWlYxWEJZeWdEZEtoeVFmQy1aSXlXU3V0MVlxM1kzSEdNaGRHTW9rM1RxVzRZQ3VxbDhiZ2F3Zng2ZmtXUHJLOVdKc0dUa0NzcTdNQ0hCWlgwTTYteEpQcmM5RVFMbVZlTzJGM2lzZzFnTklDdm8yUHJjYnF5TUszT0dueXpLcndvQmhBa09jZENmcUE?oc=5"
+      },
+      {
+        "title": "Polacy ocenili sytuację w kraju. Nie jest dobrze - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUxYZ0ZQMllfV20zNTcxczYwSERBdXRIMTVBcHVuV2FqdFlza3NzellfRWNFZkZFczBHNk4wU2JhUks5SzVZZ2xWWE5NaWFTZHJqM2VIZlJHUmRjcjRYTWFPR1N1U1ZoSkRlNXgwM01PRkF2WWNZNmpVanB4bFNzTHJ2OHFkMTNLVU9obkJOUnI0NDVJ?oc=5"
       }
     ]
   }
