@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27 02:20:02",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5499,
-      "EUR": 4.2118,
-      "GBP": 4.8537,
-      "CHF": 4.5758,
-      "JPY": 0.023102,
-      "AUD": 2.4574,
-      "CAD": 2.5959,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 312319,
-      "DOGECOIN": 0.432001,
-      "ETHEREUM": 10326.42,
-      "LITECOIN": 247.2,
-      "RIPPLE": 6.72
-    },
-    "indices": {
-      "^WIG20": 3356.01,
-      "^WIG30": 4309.45,
-      "^WIG": 3356.01
-    },
-    "news": [
-      {
-        "title": "Apel Zełenskiego: Byłoby dobrze przyspieszyć to spotkanie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVG5wSERaOWdZRzJBSGhIMFRDeXBGVHpkSk5Cc3VKbklSQmZlLWZDWGVvY3lCcl9iSi1iZUhzXzRtZW9TdUliTXZZSXRyUUtkSnNodzhRS2ZZUXhzeFZGdFo5a2toenRKRnpLdHMzQzM3S2NOUzRwVEhJbDV4ZzhaWWNDaVI2ZHlkQjgwN2tCdkV0ZUNMclc3a3puS0FXREVk?oc=5"
-      },
-      {
-        "title": "Szef NATO grzmi o obronie Europy. \"Niech dalej marzy\". Wskazał na USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVDQUE5aFZPMTBlbDRDZHZvUDFMSnh1MTFNTXd0QUNHQTJBU2wtNXdqcG9SQ3VMcHdZMjl3SWVWNzNjdVNtWHk0Y3I2LVhWNGljS0UxWTNtYXlCRE11WlFhTXcxWS1SWUJSS1pvTktXemZTMnlyQXFXQnl4Y0h1RWhJUDRfYUREWlg1RG1ud0JOWnAtSElIdmFFa3ltYlVXdWg5YUlpRl9EYUw0cU1ac1JKSXNfcENVbXRJQno1WEk?oc=5"
-      },
-      {
-        "title": "Powrót zimy. Polskę czeka gwałtowne ochłodzenie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOektIZDBXc0c0TFh3dUFvVkxERFlWS3RXWHlDd3I1QTJ4YkxiTDE3ZkQ1cmI0eXY4azR3YXcwOGYwSnRSMmUwZFFXdkg5eVYwTnN2WVI3dDJLSVQ5NVloTk0yVmZZZ3RDcExDSGtWeUtMN3BsQzVsVzVvcFJaVnA1NjVZdExuenRLUzd1SHFhWUdJa1E?oc=5"
-      },
-      {
-        "title": "Znów skandal w legnickiej kurii. Sekretarz biskupa usłyszał zarzut po zatrzymaniu przez policję - wroclaw.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmhfWkhuN1dhUGszZkMzOFRkSTctVHJ6ZHgwYTJQbXBPRzBBYmZiTFNkMUJmM2RldzZueEpGNkFPbjZ4Zk45MTd4LTBMZFVUOWd2VHc5UVpzV1hNVi03SG9HdDFMYmpIblRiSFMweW1INk5uSjlKd2p6bnFyVE5NbHlsb0wycFdZcUhqYllSazFiN1J3QkxaenZSWVBLS3BGSWNBMzZDYnpFTm5pdEdsWGloQkw1bmpmVVowVQ?oc=5"
-      },
-      {
-        "title": "Sondaż bezlitosny dla Donalda Trumpa. Chodzi o politykę imigracyjną - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlVEZ2tvdG5ieGZYSVJhLTNkaHc0UlRpcjhHRlU2SlhWcEdjcW9jN2NmUldHcEV2TnR3eWpFc0JRdTJkQVpZcnA4a2Y0N0NZSTVBaU9IbldLM2ZSYnpHcUhqSUJDTWpUaENmbUROWFk0QXdSUlduSG41ZFktNWRHZnk2ZU14Vm9OaEhjcjJmcTFPY2w5N2lZVU9jbTUxY0QtdHJTMm9KMnM1MGJOREcwcm0xUzkxNndacmpLblFFZXRCWk9ZbllYNw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-27 04:42:26",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Wchodzą w życie nowe przepisy drogowe. Oto co muszą wiedzieć kierowcy - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWThFMGZha185RzdfRDNlYk9qVi00RDhVQUNQU3Z0SzdnRHc5ZllfdFRkbEEyQV9ETHpQMTBFVzBWem1fbTMyNnF2UWxLcDdNbG4tb0dzNXJIR2ZzbjJldTRaVEFSZzFRbmZRM3F2VWJmb1Q0OVJFTVliQ0drWUF0U0NkbWdjRVJDdDhtSjEyd2d4SWhkbWdyb0dvUVlwblN3N0d1UHBEcnJpem1ReXJLY25LX1d1UFpRazV4SGk3Yk8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-29 10:35:39",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -7°C"
+    },
+    "rates": {
+      "USD": 3.5045,
+      "EUR": 4.2009,
+      "GBP": 4.832,
+      "CHF": 4.5684,
+      "JPY": 0.022949,
+      "AUD": 2.4541,
+      "CAD": 2.5837,
+      "CNY": 0.5045
+    },
+    "crypto": {
+      "BITCOIN": 308812,
+      "DOGECOIN": 0.427294,
+      "ETHEREUM": 10344.3,
+      "LITECOIN": 238.91,
+      "RIPPLE": 6.58
+    },
+    "indices": {
+      "^WIG20": 3434.26,
+      "^WIG30": 4397.31,
+      "^WIG": 3434.26
+    },
+    "news": [
+      {
+        "title": "Incydent na granicy z Białorusią. Jest komunikat wojska - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON040YUF1U251czJTSVpVX2RKNEQzUjVhc09KMzVnaG9yV09lcHdtaTdyNHdWWkJ5a3NFRXl3M3REYWpETVo1QTdlclozUG1hR2pjd2JmamV6SGFsUGQzcm5ndWdfRjNmeUQyeW5NNExQZEJndkhVTTRXOXZQUXJqY0xaUlY4cmUwc1FaM3I5Rzk0Z2FIWXp6bjRWcXZtUVRLd2s4OTZPemZWcmpBbTRLUGR4U1lLTGl0?oc=5"
+      },
+      {
+        "title": "\"Miałem inną taktykę niż minister Żurek\". Adam Bodnar dla WP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFdWb2FRS01qTjNrTlBOUWJHOFZOYjhjdHo0akwyOEs3NWRhQVNWUU1pelZJeUtaNEV2WnFZYzNnYnNpSFNXZjhrODEwb0pISkRFTllWMlZna25sUUVlSFhRYnFhY1A0ZmV6Y1F4TE0wc0theEpHZ1lRSTkwTE5neUhvbXNZRWU4VXVGZU55YWRjdk5wXzltR0xGV3lVSU10dHc?oc=5"
+      },
+      {
+        "title": "Nocny atak Rosji na Ukrainę. Cywile zabici przez drony - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3NpcENLY1VZemZramRqSldOQkFPRXR4bm04aWljQllKODhuaU9mMlUyVVhxSFpJbVFyck1PVldwUkJXMFhULVhEZ01nYURNdDJ6bDBsc01VTU5kM25IN2tHY0VHUzVXUUxVUENpamRGVjBjTE41UXhsZkw2WWpBVFdTajdtT1Fwa0FBaUFmUVdmZzI4OGR0Y0x5XzkzV1B3NFBVLWFVREVmOUY2UWFLekJIb2V6d3c?oc=5"
+      },
+      {
+        "title": "\"Ohydny skandal\". Czarnek grzmi po \"zignorowaniu\" Nawrockiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb08wbkZaZXRqdU0zVThuUkpCSDBETHJRcG1aTElGRVM4NmUtOGRTa2VtMExCZnlvUVh6aG9zRHNKNUI1VDJ1ZVg4TW5YMVpiTnlsR0hRQmRyYW1DZXpoSDNMTHZYQ1E5YnVkb0ZZM01SZktUU1J3enBZR0pZWjRhME1KWW1pNGl2TTd2Njk2eVZnTGhsWkZQZEt2b3VfY3RH?oc=5"
+      },
+      {
+        "title": "Tak Polska handluje z Indiami. Co dla nas oznacza nowa unijna umowa? - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzZjSm9MSVNhZ1RxRTV3OFJZNVJVMFlQTnNObVUtUmMyS0ViYUhRQlNYYlhlN2pDbUUwR2NtbnRMV200eVBBNXF2NnAxUjI5WXU0LWtmWkgwbFpMSkF0QTh5RmoxZndaMWUtWnBMUEhjRGpReHlHRktaZGVRblFickdlZ284eTBxQlBxQWI2dmZPaU90SnJaY3R2OTZLQ29Sd0EzNm9MNzZuLWJOU1V6bmZFbU5jMXlzS042QVlB?oc=5"
       }
     ]
   }
