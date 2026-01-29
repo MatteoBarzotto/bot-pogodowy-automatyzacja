@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27 17:22:44",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5354,
-      "EUR": 4.2032,
-      "GBP": 4.8432,
-      "CHF": 4.5575,
-      "JPY": 0.022997,
-      "AUD": 2.4491,
-      "CAD": 2.5791,
-      "CNY": 0.5083
-    },
-    "crypto": {
-      "BITCOIN": 309905,
-      "DOGECOIN": 0.437978,
-      "ETHEREUM": 10413.55,
-      "LITECOIN": 245.34,
-      "RIPPLE": 6.68
-    },
-    "indices": {
-      "^WIG20": 3365.46,
-      "^WIG30": 4317.01,
-      "^WIG": 3365.46
-    },
-    "news": [
-      {
-        "title": "Antoni Macierewicz znów straci immunitet? Jest ruch Waldemara Żurka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmtYc2R3aHVyM1I4OTM1Q1hXU2N4bXYzRnlWN1pkWnJibi1DbDZwNmNMN3M4Z2QzUzFwT2g0b010anpKZW1sOUl2NUIxSW1NRWRJMEpLenVLWkhhT01xOTJja0ViSUlNbWFkSjBFUUxFTmoyMXZFa182Q2ZTN1NZbWVERWJKWW0wZkl0anp2amhWNU5yXzRiRzU2Ykx4X3FMcDVMUGo5MUVmY2ZDUDh6M0RSYnNaTnp2OFRuNS1NeWF2YlhaUmxrMg?oc=5"
-      },
-      {
-        "title": "81. rocznica wyzwolenia Auschwitz. Karol Nawrocki zabrał głos. \"Symbol bestialstwa i obojętności\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1FBWVJvb0hlZlpLLWVFWFE2dTRFSmJ6cGktZ056RUNwUXRTSGFqZTIybFROVGtQb3dUdURjeFNzbW9hd2ZxSXdIVUJFN0ZJdDJ4cXcyOWViMDcxNUJFWVBpRC1qVUdxX3hkeDV4WHh4VlUteUV2dzVKQjVDSVYtUHZ4SnAxUVZCQXE5MHJod2VZSG5wNDFxVlE1bVJMWFdhMHpsYi1iMllMT3pxREdUZ05FUWtjUU5DQUZvZm1ZNA?oc=5"
-      },
-      {
-        "title": "Kaczyński kontra Brejza. Zapadł wyrok w głośnej sprawie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY29oa3Y3SVlFTEZjcVFXc3NqU0tuOG1JaGdncEtFOVhBS2dCT3VkOXJLc2N2T0ZxRGFoVVNZNEdzYk9Hc0RvYU16T1d1QkwtQllqVHM2ZVVGSmgzb0ItMkMtSXMwLXU3cWxfZXNMc19wZm5UV0xMbkoydHBMdE42b2NmUXVmTGFBd1I5YktfdFdZSFg0RU5mRjRyMjFGUQ?oc=5"
-      },
-      {
-        "title": "Miliard dol. za udział w Radzie Trumpa. Minister stawia tamę. Jest odpowiedź - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWJUcXRoV0g1bkxPVXNNT1NkdEdSemx0cXBZTmpuZGxSQUh1OFI0Yzk3eU1fZ2FucHlIcFY0RTMtTmdkRi1SRFpGR3R4Y3dsbTYxM01RWW5XcjJJSUZTVWgyZVIyV2FNMDFsdjJLZmRmZ0lwWnlhZXVRZlNCa1pKakxEV2xrWlF3NEJDU2JUd0V2QlJOeHA1dm5Nd1lHdzlZQU1zOVVWUEgwQ3JtazdickFCNjUwNExtRm1jQVFQcDF4VDhHUEpB?oc=5"
-      },
-      {
-        "title": "Sikorski: 11 lutego wygłoszę expose - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUhIQVgySG4xTm5LMXZhY0xLRlJOaXJHX09TcWt2VWVVNTdGZ0ItWUEwUmgtbzNrb2U3NTlVXzRZQ3VxZVVxZEFtQ0c1WEFxaXpraXBlcEdMUFdGN2NTVGppYXF3NER4VlNmalhXM09xR0RLWEJOM0ZNZDRlTVZGbkk5UQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-27 18:23:08",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "\"Nie dla walk patocelebrytów\". KO chce kar za patostreaming. Jest projekt noweli - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNyY2UyTDdaZ2hIR0k4NDFGclJlb2J2U29pMFBweTJ0WUpEMU9UQl9DU0R4UEhGSkVKYVg4WUtPRTdna1NCd0c5VHZHMkJlcEdfWExJcENrVmdNejVQOXZXb2JweThHX0xLckIzbE5UaW1jUi1WSDN6QWhURTg3dm5yV3RTeThtc0VlbUJrbUpWdVZFVDhmajJFaHMxdjVRTVg5eDFKLXE3SmNn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-30 00:20:19",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5189,
+      "EUR": 4.2072,
+      "GBP": 4.8574,
+      "CHF": 4.583,
+      "JPY": 0.022951,
+      "AUD": 2.483,
+      "CAD": 2.6002,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 296499,
+      "DOGECOIN": 0.409609,
+      "ETHEREUM": 9880.79,
+      "LITECOIN": 230.93,
+      "RIPPLE": 6.31
+    },
+    "indices": {
+      "^WIG20": 3381.38,
+      "^WIG30": 4330.59,
+      "^WIG": 3381.38
+    },
+    "news": [
+      {
+        "title": "Sikorski zapytany o dołączenie Polski do Rady Pokoju. Wskazał na Nawrockiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUxoVWxFeVk5MFRzeG5tdk14RHpjSk1IMjFQdHdfV2RXUlZma1NWQWw1cV9IZWF1Z1pUMFZpLWdnNHhoWmhOdUdQWmVrR0gyWVJQYTFXTHpGSk5oMVBWT2Vwak1SVHAxYUdvV3N3NFVDamIxOG91cHZiZ25VT0dwbXRBQWg3Q2FZSlJad2pjSlFaSmRSU1BJWVU2UXdJajJEWW1aeDR2U1NGdkhpQkFkMkRjS1VBUU0zQXc?oc=5"
+      },
+      {
+        "title": "Rzecznik Karola Nawrockiego krytykuje KO i Lewicę. \"Stchórzyli\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenQ0dHJHSnB3c1J5b0g4MHhuUWpBWGVkbVVMNzN1T3cyc1E3WmZtNmpkOEZJc3IwZjV5TUZZTU1YZ2dteWY4dmdqLWhWTFdXWUlwMXR1QS1lMUVaMFN0c1RZM0dfMXQzcHFZbVplcENGRE9QcTV1cGtwWG53cUR6TGw1NzFiaGRRYnVhMWpPOUZwSGZudVRMWERrSVc3VDBWbGkxODU4VXVUNlR5eFBscGNrMkpEcGM?oc=5"
+      },
+      {
+        "title": "KO chce karać za patotreści w sieci. Jest projekt nowelizacji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNyY2UyTDdaZ2hIR0k4NDFGclJlb2J2U29pMFBweTJ0WUpEMU9UQl9DU0R4UEhGSkVKYVg4WUtPRTdna1NCd0c5VHZHMkJlcEdfWExJcENrVmdNejVQOXZXb2JweThHX0xLckIzbE5UaW1jUi1WSDN6QWhURTg3dm5yV3RTeThtc0VlbUJrbUpWdVZFVDhmajJFaHMxdjVRTVg5eDFKLXE3SmNn?oc=5"
+      },
+      {
+        "title": "Rosjanie używają Starlinka. Ukraina o reakcji Muska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDljc3RqeXlfaHNfcVlXUV9BV2dUZFM3Z1lmR09lcUZRdWk2R3lfZ2h1T0w3dWtZUEh2N210bTVSZkpQZ0txTmZkWHdDaEtFbkdFNUFFNExaN2NCX0FWUE1hTTRobjktaGhybFNzSzhCeDdMU05tUHBNYUpzZmhUMDZlazZQNU5vWHNmQUMwd093VGExTFZkNw?oc=5"
+      },
+      {
+        "title": "Nie żyje założyciel Roman Gawłowski. Biznesmen upadł na lodzie - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXUwSVZkS0l6TVd0eGtCdTJuMEJKUV9XYkJ5SklPbE9rZnRkZTJ0elZIUnZGSXFoZGp0ZzhwRm5fUHJkYmNPUVd0ZGhIeTVNZHc1dnRqNVVUU08tSHRVeF9xSzVCenNadjE4a2k5TDB0TVlhTl9mSXl4Y09sLXFXVG5WcF9pMGMzMHVONWxfbG9HMGU4U1EzaXBjZ1RaNGwyZ0xCaGtidjZzQl9GcHVpSTUyU0xzYVNJRHJJ?oc=5"
       }
     ]
   }
