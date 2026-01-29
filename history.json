@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27 04:42:26",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5499,
-      "EUR": 4.2118,
-      "GBP": 4.8537,
-      "CHF": 4.5758,
-      "JPY": 0.023102,
-      "AUD": 2.4574,
-      "CAD": 2.5959,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 313843,
-      "DOGECOIN": 0.434658,
-      "ETHEREUM": 10407.44,
-      "LITECOIN": 246.19,
-      "RIPPLE": 6.76
-    },
-    "indices": {
-      "^WIG20": 3356.01,
-      "^WIG30": 4309.45,
-      "^WIG": 3356.01
-    },
-    "news": [
-      {
-        "title": "Apel Zełenskiego: Byłoby dobrze przyspieszyć to spotkanie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVG5wSERaOWdZRzJBSGhIMFRDeXBGVHpkSk5Cc3VKbklSQmZlLWZDWGVvY3lCcl9iSi1iZUhzXzRtZW9TdUliTXZZSXRyUUtkSnNodzhRS2ZZUXhzeFZGdFo5a2toenRKRnpLdHMzQzM3S2NOUzRwVEhJbDV4ZzhaWWNDaVI2ZHlkQjgwN2tCdkV0ZUNMclc3a3puS0FXREVk?oc=5"
-      },
-      {
-        "title": "Szef NATO grzmi o obronie Europy. \"Niech dalej marzy\". Wskazał na USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVDQUE5aFZPMTBlbDRDZHZvUDFMSnh1MTFNTXd0QUNHQTJBU2wtNXdqcG9SQ3VMcHdZMjl3SWVWNzNjdVNtWHk0Y3I2LVhWNGljS0UxWTNtYXlCRE11WlFhTXcxWS1SWUJSS1pvTktXemZTMnlyQXFXQnl4Y0h1RWhJUDRfYUREWlg1RG1ud0JOWnAtSElIdmFFa3ltYlVXdWg5YUlpRl9EYUw0cU1ac1JKSXNfcENVbXRJQno1WEk?oc=5"
-      },
-      {
-        "title": "\"Matka wszystkich umów\". Wielkie porozumienie handlowe UE z Indiami - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTlmaWl3cHRqaVE5SFRpRjNaT1A5UUl4ak8yRm9qR2JWaUlJdE1LcWNNRkJBTjFrRzlWbGRxS085aldjYlg5dE5MbDIwUGhzUGNJcDNWT1lFVEJxTlhzN2RpX0xIUmcwbHI2R3drb05sbDlYbVdueW1zZUpRMkJmRmVuSGM1OXlJeVIwaHVtZWJManh0R0diRVhfMmZibDRyRkJ1ZnJuNFZiVG9JUE5tT1YtQjFBc3NCeTVz?oc=5"
-      },
-      {
-        "title": "Trójstronne rozmowy w Abu Zabi. Zełenski zabiera głos - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk9WeXhhYThlTFBBNHNkNU9nS245ZFRfTzRtY2hGSFJ4UnhzUU9YSk9oSUJMOUppX2d6ZVN1SW5kdE9LVUVYWDhuZUd5WDhoNVYzb3I4cURpcExRVmJCa3pHWElEVGR2REoxRC14dVduX29NTC1lWDF5eVR5aUhuNEZYeUlUY3htM2ZlS204aG9ERzllajlNYWNURQ?oc=5"
-      },
-      {
-        "title": "60 lat polskiej transplantologii. \"Jedna z najbardziej kontrolowanych procedur\" - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUlZdzdaTWVxSGVKOXNPNlpnMVoySW5kSEhDLXUxV214eG5XeTRlYkk5RzZJRzNfWE94NUQzZ09MN1pyVThqMjVVXzVJakJIQmFMd3NhUmd2bmYxTHNBd2tLMzE1Z1BlUGhJUVR1dUlPeVJ0TUpxRUE4RWtxTGl5cGdfUUlSTGhwMXM4c3R6eXJNRVU4elkzYjVtUURzd1dXSTNrckpDTXFrLW8wR3U3WFJVX0pwTXhmVGdVLTY5dlY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-27 05:41:27",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Tak Polska handluje z Indiami. Co dla nas oznacza nowa unijna umowa? - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzZjSm9MSVNhZ1RxRTV3OFJZNVJVMFlQTnNObVUtUmMyS0ViYUhRQlNYYlhlN2pDbUUwR2NtbnRMV200eVBBNXF2NnAxUjI5WXU0LWtmWkgwbFpMSkF0QTh5RmoxZndaMWUtWnBMUEhjRGpReHlHRktaZGVRblFickdlZ284eTBxQlBxQWI2dmZPaU90SnJaY3R2OTZLQ29Sd0EzNm9MNzZuLWJOU1V6bmZFbU5jMXlzS042QVlB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-29 11:30:08",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5045,
+      "EUR": 4.2009,
+      "GBP": 4.832,
+      "CHF": 4.5684,
+      "JPY": 0.022949,
+      "AUD": 2.4541,
+      "CAD": 2.5837,
+      "CNY": 0.5045
+    },
+    "crypto": {
+      "BITCOIN": 308882,
+      "DOGECOIN": 0.425665,
+      "ETHEREUM": 10353.2,
+      "LITECOIN": 237.8,
+      "RIPPLE": 6.59
+    },
+    "indices": {
+      "^WIG20": 3429.4,
+      "^WIG30": 4388.2,
+      "^WIG": 3429.4
+    },
+    "news": [
+      {
+        "title": "Incydent na granicy z Białorusią. Jest komunikat wojska - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON040YUF1U251czJTSVpVX2RKNEQzUjVhc09KMzVnaG9yV09lcHdtaTdyNHdWWkJ5a3NFRXl3M3REYWpETVo1QTdlclozUG1hR2pjd2JmamV6SGFsUGQzcm5ndWdfRjNmeUQyeW5NNExQZEJndkhVTTRXOXZQUXJqY0xaUlY4cmUwc1FaM3I5Rzk0Z2FIWXp6bjRWcXZtUVRLd2s4OTZPemZWcmpBbTRLUGR4U1lLTGl0?oc=5"
+      },
+      {
+        "title": "Polska szykuje wielką inwestycję. Oto przed czym ma chronić system San - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT08zQkYyQ1JnbUw2TlZ1YnJFZnI0UFRfeVBEdGxNOWtfSkZCN3pLSEtRdFotaXdfUVpvNVgxYWlGaERvYlpzdF9zbVR6UlRvQzdaU3MwTno1T2t5enlQTHdoNE41ei1FT2RWYlQ3d0x6YUFLWW1SYmJlNkdCdEhyMzVtQ2hBbE55emNPRVpKTloyZmtWTC1jc3YzRV9XRmV3RG9iU1RBbHVmbUtSQVFqNEg4SkQzS2MwaS12dnNCeS1GQQ?oc=5"
+      },
+      {
+        "title": "Sanki zjechały na inny pas. Kulig zakończył się tragedią - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObTlUT2toREU1Vl9SaUc1d3JNUWZ4NG9pUFVDTjJxRkNCaDZhRmp6VlE1ZnlsZlFKQ2dBc1RVSVA0MHhnODdwZTR5MmJ2aFI5RjlOekRwN0gwa2JGaHNMdW1DWU5OSzA0b0VobWZFeWEwb0xzUEpPWFpNQnZQV01Lbzh0U0xhTTdPQkZzNlZ5RHBMaDRQOVJMUTR4OHE2Y1otUjAyeUxranJVd3Vr?oc=5"
+      },
+      {
+        "title": "Dieta i mandat poselski Zbigniewa Ziobry. Jest ruch marszałka Sejmu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFoxY0d6TDBlaUIyQWs4WE0xNUo3ZjBvQlZhTDZRRmNkYXE2Vl83R2NrUDZTLU5GU1Zra1JpYXhZSTh5Mk4tXy12UHV1U2ttbUlXOTJMY082dlRkUzI4YndVTmx4TjBWVVVjQUlqcmZlaUV5VEtCbGtaRUJjT0VFN1NrRXl4Sk84S0tPMVYtOXhPMFdkLWRPQ0E5WjJyLWZVeHBqQjdESEhnaWlLS29uaEFIeURWZnZhbEczc1JPM0s0R0FyZGZYNGpiY0ZYZWVKMGg5dg?oc=5"
+      },
+      {
+        "title": "\"Miałem inną taktykę niż minister Żurek\". Adam Bodnar dla WP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFdWb2FRS01qTjNrTlBOUWJHOFZOYjhjdHo0akwyOEs3NWRhQVNWUU1pelZJeUtaNEV2WnFZYzNnYnNpSFNXZjhrODEwb0pISkRFTllWMlZna25sUUVlSFhRYnFhY1A0ZmV6Y1F4TE0wc0theEpHZ1lRSTkwTE5neUhvbXNZRWU4VXVGZU55YWRjdk5wXzltR0xGV3lVSU10dHc?oc=5"
       }
     ]
   }
