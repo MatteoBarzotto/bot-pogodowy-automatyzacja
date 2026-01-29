@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26 23:16:07",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5499,
-      "EUR": 4.2118,
-      "GBP": 4.8537,
-      "CHF": 4.5758,
-      "JPY": 0.023102,
-      "AUD": 2.4574,
-      "CAD": 2.5959,
-      "CNY": 0.5104
-    },
-    "crypto": {
-      "BITCOIN": 311773,
-      "DOGECOIN": 0.434141,
-      "ETHEREUM": 10345.77,
-      "LITECOIN": 245.95,
-      "RIPPLE": 6.72
-    },
-    "indices": {
-      "^WIG20": 3356.01,
-      "^WIG30": 4309.45,
-      "^WIG": 3356.01
-    },
-    "news": [
-      {
-        "title": "Jerzy Owsiak ledwo powstrzymywał łzy. Zwrócił się do Polaków - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzZkQ3kzNFhhNW9zRXdsX0VNMkhiUk1sWmc4b3dveml6SzZMR2x0V1FyeFd1QnNoZzdKYk8taUdBcm1Uc29sUGZ6Nm4yc0FYYWZsTEVnY1luZzFNQmZpb2dYVzhyTm1yYlo1YmViNFVsMzZBRzhhaTZIeWQ2QkJuV0U4Yno4UVJZcXAxUnU4RFZ1MVdadmRKUDZheTJIR3gwb1BUU0pIYW9DUFFKWVU2Rm1DdnJHQQ?oc=5"
-      },
-      {
-        "title": "Szef NATO grzmi o obronie Europy. \"Niech dalej marzy\". Wskazał na USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVDQUE5aFZPMTBlbDRDZHZvUDFMSnh1MTFNTXd0QUNHQTJBU2wtNXdqcG9SQ3VMcHdZMjl3SWVWNzNjdVNtWHk0Y3I2LVhWNGljS0UxWTNtYXlCRE11WlFhTXcxWS1SWUJSS1pvTktXemZTMnlyQXFXQnl4Y0h1RWhJUDRfYUREWlg1RG1ud0JOWnAtSElIdmFFa3ltYlVXdWg5YUlpRl9EYUw0cU1ac1JKSXNfcENVbXRJQno1WEk?oc=5"
-      },
-      {
-        "title": "Powrót zimy. Polskę czeka gwałtowne ochłodzenie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOektIZDBXc0c0TFh3dUFvVkxERFlWS3RXWHlDd3I1QTJ4YkxiTDE3ZkQ1cmI0eXY4azR3YXcwOGYwSnRSMmUwZFFXdkg5eVYwTnN2WVI3dDJLSVQ5NVloTk0yVmZZZ3RDcExDSGtWeUtMN3BsQzVsVzVvcFJaVnA1NjVZdExuenRLUzd1SHFhWUdJa1E?oc=5"
-      },
-      {
-        "title": "Aleksandra Kwaśniewska dzieli się szczęściem ze światem. \"W końcu jest nadzieja\" - Pomponik.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWRhdUNTMGdOb0UtbC1pdWZkZFlKNGZzdDNqTmszSHJyTXd0Q3IzNVhmYnZyUEg4RFZnZTVaU3N2VnRKTGFFN3FOYXdkbjd6MlItN0JRVFhZSkY0c2p5NV95RC1sbWs2eV9wWTBLVmNCdVFzQWVuYmhyRUMzX0xfVXhUcEYwUl9tYVhCQ0VjX1ZYWW16cW10eTRQcnVkOFVtazVfZm5IcjZiakFD?oc=5"
-      },
-      {
-        "title": "Chaos komunikacyjny w Szczecinie. Unieruchomione wszystkie tramwaje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzg5TVJVUFg2YWRMUWhmQTNHWUt2el9jZU5QbkUyclB4TmlTZFY2b3drcFNQWTZVNjVyeGEySUY1QmpRc0JSbnVoYzBUNHQtdldFRFFSdUx0X3I2eVh0aWNUN0FIRTk4bERRdm1CTktFMnNYcFJjWjNRcG1uWjhjNklTeHJYODdxWUJHdHRkNVNhc3M3SDc1NHFqZkJBVjVYdlEtQWFpdEJsWnpQQU5ZVjlMTzg3VGh5aUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-27 00:16:37",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Polacy ocenili sytuację w kraju. Nie jest dobrze - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUUxYZ0ZQMllfV20zNTcxczYwSERBdXRIMTVBcHVuV2FqdFlza3NzellfRWNFZkZFczBHNk4wU2JhUks5SzVZZ2xWWE5NaWFTZHJqM2VIZlJHUmRjcjRYTWFPR1N1U1ZoSkRlNXgwM01PRkF2WWNZNmpVanB4bFNzTHJ2OHFkMTNLVU9obkJOUnI0NDVJ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-29 08:35:43",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -7°C"
+    },
+    "rates": {
+      "USD": 3.5045,
+      "EUR": 4.2009,
+      "GBP": 4.832,
+      "CHF": 4.5684,
+      "JPY": 0.022949,
+      "AUD": 2.4541,
+      "CAD": 2.5837,
+      "CNY": 0.5045
+    },
+    "crypto": {
+      "BITCOIN": 309557,
+      "DOGECOIN": 0.427889,
+      "ETHEREUM": 10371.29,
+      "LITECOIN": 239.32,
+      "RIPPLE": 6.62
+    },
+    "indices": {
+      "^WIG20": 3393.31,
+      "^WIG30": 4350.64,
+      "^WIG": 3393.31
+    },
+    "news": [
+      {
+        "title": "Polska szykuje wielką inwestycję. Oto przed czym ma chronić system San - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT08zQkYyQ1JnbUw2TlZ1YnJFZnI0UFRfeVBEdGxNOWtfSkZCN3pLSEtRdFotaXdfUVpvNVgxYWlGaERvYlpzdF9zbVR6UlRvQzdaU3MwTno1T2t5enlQTHdoNE41ei1FT2RWYlQ3d0x6YUFLWW1SYmJlNkdCdEhyMzVtQ2hBbE55emNPRVpKTloyZmtWTC1jc3YzRV9XRmV3RG9iU1RBbHVmbUtSQVFqNEg4SkQzS2MwaS12dnNCeS1GQQ?oc=5"
+      },
+      {
+        "title": "\"Nie będzie miał swojego ambasadora nigdzie\". Schetyna wprost o Nawrockim - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZTbGR6R2dlUzFFbVAyRVN4b3Z5WTYzdFF0UFBpaF9tYnBQMzZhWlYxWEJZeWdEZEtoeVFmQy1aSXlXU3V0MVlxM1kzSEdNaGRHTW9rM1RxVzRZQ3VxbDhiZ2F3Zng2ZmtXUHJLOVdKc0dUa0NzcTdNQ0hCWlgwTTYteEpQcmM5RVFMbVZlTzJGM2lzZzFnTklDdm8yUHJjYnF5TUszT0dueXpLcndvQmhBa09jZENmcUE?oc=5"
+      },
+      {
+        "title": "Wchodzą w życie nowe przepisy drogowe. Oto co muszą wiedzieć kierowcy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWThFMGZha185RzdfRDNlYk9qVi00RDhVQUNQU3Z0SzdnRHc5ZllfdFRkbEEyQV9ETHpQMTBFVzBWem1fbTMyNnF2UWxLcDdNbG4tb0dzNXJIR2ZzbjJldTRaVEFSZzFRbmZRM3F2VWJmb1Q0OVJFTVliQ0drWUF0U0NkbWdjRVJDdDhtSjEyd2d4SWhkbWdyb0dvUVlwblN3N0d1UHBEcnJpem1ReXJLY25LX1d1UFpRazV4SGk3Yk8?oc=5"
+      },
+      {
+        "title": "Zidentyfikowano sprawcę ataku w USA. To Anthony Kazmierczak - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWsyZ08tNFVWOUt6Tjk5NnpjdHk1QTU3dnA5bnlPMS1obGZzZS0waXQtYUNxd0tjNUdsTVYwVlAzQUlKbF90cmt1bkNXUWtDbDVZczVJLWEyV0d2cHVhV2EzRElXTV9nRkdyRHhnU1pTOTBtOGxJYU9sSElzYU1zQ3ZhQWJYaWpRN2JveGh1Q3J1UnlidXN0NGprNlZVakF4VWg0?oc=5"
+      },
+      {
+        "title": "Zima opanuje znaczny obszar Polski. Coraz silniejszy mróz i więcej śniegu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZnl6alI3LUdsb1U0VG5qUDZCcGFFakZnNUhDRzU3ZUdma0szNVBiQnpENEpULWI2djJ2WGJmNUJsTkJ4Tk5tdXY2WEI0dktFU29BbG1Ib2JIN3JoX2Zhem5HdWU2cUdYRTVMOUsxNjJzN2RqUjdwZnNwczdIempmbFpWczhfbm5sOGNUTzRJRTVscFRIQkRvSjNPcF9oMzBjbTlCNEhzaERNcHVnTjVFbkhuNzVmQ0RpZWRBaTM2RWI5NFNKNi1Ba1Bzc2RGNGo2?oc=5"
       }
     ]
   }
