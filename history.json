@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27 19:29:46",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5354,
-      "EUR": 4.2032,
-      "GBP": 4.8432,
-      "CHF": 4.5575,
-      "JPY": 0.022997,
-      "AUD": 2.4491,
-      "CAD": 2.5791,
-      "CNY": 0.5083
-    },
-    "crypto": {
-      "BITCOIN": 307609,
-      "DOGECOIN": 0.428957,
-      "ETHEREUM": 10312.01,
-      "LITECOIN": 242.5,
-      "RIPPLE": 6.6
-    },
-    "indices": {
-      "^WIG20": 3365.46,
-      "^WIG30": 4317.01,
-      "^WIG": 3365.46
-    },
-    "news": [
-      {
-        "title": "Miliard dol. za udział w Radzie Trumpa. Minister stawia tamę. Jest odpowiedź - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWJUcXRoV0g1bkxPVXNNT1NkdEdSemx0cXBZTmpuZGxSQUh1OFI0Yzk3eU1fZ2FucHlIcFY0RTMtTmdkRi1SRFpGR3R4Y3dsbTYxM01RWW5XcjJJSUZTVWgyZVIyV2FNMDFsdjJLZmRmZ0lwWnlhZXVRZlNCa1pKakxEV2xrWlF3NEJDU2JUd0V2QlJOeHA1dm5Nd1lHdzlZQU1zOVVWUEgwQ3JtazdickFCNjUwNExtRm1jQVFQcDF4VDhHUEpB?oc=5"
-      },
-      {
-        "title": "Immunitet Antoniego Macierewicza. Jest ruch Waldemara Żurka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUxVTGVGblFUQVQxSlFwSWdJVlZRNmgxV2h0M0pYS2NSbzVVTmtlb0FNZDFOUF9aNFhJU2VnMnV6QjF4MmlZUDV0ZmRhUUk0Z01Cd3QtUERiMGZlY2pEcEJOMm9XTkt0SG5aaHNNWGg0RWlVTm44SzZqS2QtMUp6SkdyRURvdEZxc1RrQzBndUZydTZPRmtJUUd4c0E5UUkwMEtvS0pNT0NjWmNLaTJxZVc3ZWRfNlo2SFNtNVNB?oc=5"
-      },
-      {
-        "title": "To dlatego Karol Nawrocki nie wsparł WOŚP. Padło jasne wyjaśnienie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU09JZnhtTGJLalpmUFZGdl9qbGVvU1JaQ2VJM21ROUxEWTVOVzg4dWtHaERHUkRVd2ZPUDA2ekUwSWxzYVlqUUZoZUtlNjZ6NVRLWGFKMjVjMXFlcURDWm9GOGNseUlCQ0ZYX21VZVRhakdNRmZsZTRISVM0d3dXZENFdnU3SHRVN3VtZEg1c25NZGNvVTUzNFRSeXhhV3lzdFFucUp3?oc=5"
-      },
-      {
-        "title": "Poseł Polski 2050 o \"spisku\" ludzi Hołowni. \"Byłem zszokowany\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmQxUDY0LWJYUzF2REgwTFF5UUNlcnFRSm5SZmplbnRjdGh6T3BsQ3pPOUpqbVlkTkhwYno1N2dXQ24tc3g4NjJSNE1FRjQ1OXRHTzN4NFVJemdldnVwSUV0SjBocVM5cl9EbWdTSFIxa1RfQ0NjRkZla201NHZSM0N6OG9DcElRR2FsbUE1VkVPZ25BLUtodU1wdlowR3hKSnc?oc=5"
-      },
-      {
-        "title": "Koniec z rosyjskim gazem. Sąsiad Polski idzie w ślady Węgier - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNFc2ZVWUdvZmpoMENOM3hIcEtoWEtYODJoUWs1NE1zZWN1ZGl3YzFIOEFqcTFOcGlUY1U2MlFzTVdOUEFGaUxGT3RMU0hua1JPd1lsOVFsMVZLRS1KOEtLaWotbjVWQWZpVnAycVFTcmNSZFA2MUtTcktDdzFWTm4zN1doTnlJaXMzX0t1c0VyQXJ2ZVRsR0Q2Q1hndnlpaWptUDZtRnh6anZHUl9aelJSTGY?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-27 20:22:06",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "Pełczyńska-Nałęcz dla WP: Jeżeli się ogłasza wybory, to te wybory się rozstrzyga i traktuje wyborców poważnie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2tjY3ZteDNlZHpFOV8yRTJNcGJfbHFfSWhuY3FfU2xYWC1WeEhTcWFxUUZhVTlxNDJaalh4OFNlQWpqZFFhcVBVMHQ5VVZENWpmQ0NIbVRhUmxDbGItaDVycWtIT3l2VzhXam9sSGFpMHRfNU5KcDBfTFpmaDc1Zm15dWtNdHZnQVZaV0hrdXg2bktHbktFbTFYUFVTWHJZc01fSV9hNmJ3SjVpV25hVE9FMHA1ZWtEampXbTZiT0RyYllTbndjVUZwOEJhTEE4bDY4RGFQLWh2ZnBfblBQMzVQT1A?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-30 05:03:29",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5189,
+      "EUR": 4.2072,
+      "GBP": 4.8574,
+      "CHF": 4.583,
+      "JPY": 0.022951,
+      "AUD": 2.483,
+      "CAD": 2.6002,
+      "CNY": 0.5066
+    },
+    "crypto": {
+      "BITCOIN": 291561,
+      "DOGECOIN": 0.40291,
+      "ETHEREUM": 9656.54,
+      "LITECOIN": 225.62,
+      "RIPPLE": 6.17
+    },
+    "indices": {
+      "^WIG20": 3381.38,
+      "^WIG30": 4330.59,
+      "^WIG": 3381.38
+    },
+    "news": [
+      {
+        "title": "Rzecznik Karola Nawrockiego krytykuje KO i Lewicę. \"Stchórzyli\" [RELACJA NA ŻYWO] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenQ0dHJHSnB3c1J5b0g4MHhuUWpBWGVkbVVMNzN1T3cyc1E3WmZtNmpkOEZJc3IwZjV5TUZZTU1YZ2dteWY4dmdqLWhWTFdXWUlwMXR1QS1lMUVaMFN0c1RZM0dfMXQzcHFZbVplcENGRE9QcTV1cGtwWG53cUR6TGw1NzFiaGRRYnVhMWpPOUZwSGZudVRMWERrSVc3VDBWbGkxODU4VXVUNlR5eFBscGNrMkpEcGM?oc=5"
+      },
+      {
+        "title": "Chińska rakieta nad Polską. RCB wydało komunikat - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHB1MVdMRnREaXZBZnBHRlFnRVlWLWpMMXdaMUlaQWN2dFNIR1JrY0tlRTRpVmxUZmNqcGdLZTdfV1dmQUNBUmhSYkZ3OTdVS2x1UEY0VFNjZTJrWDBkMnA3eE8tWXlTT2hlSnVIdk1uTzNyVVRzQ21qTVNMYUFNSVUyRUZjeXFCeEVIc0pyV2R5bV9u?oc=5"
+      },
+      {
+        "title": "Samolot z szefem polskiego MON zawrócony do Warszawy. Podano powód - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV096aWRQQUg1SkJ6aXdhUFMwM3d3YVRlTTJTdXotOWVSWTc5bXZVMEI5YXBQLUllOHdnanR2MmdmSnB1ZzdYLTY3cTdYWmJzdGp6N0xKR05DWUZnSzlhMnEyQmYxU2IwWkJpblFOTGRjLXVPR213SUZCOVZZUlR5SnJLOUtZSTZqaVM4cERjN1FKS3lXUEs2RHhZaE01Nm5wcXhYOE85SXFTTTJBYjJDMW9n?oc=5"
+      },
+      {
+        "title": "Rośnie napięcie wokół Iranu. Rosja dostarcza reżimowi śmigłowce - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcTFWV2R2VzNwcTh3b2xyLXlRT1cxRERWRlVQSVc2NTE2V3NlaUlUREY1OHJWOTh1QWJ6allsSWRqeVNJY0Eya3AzNC1JVTFVSkxCVXd2VFd2OGZ2MlZxVG9tNEZ4NW9Uc1NOQk8xV0dxTmRVaksyNy1xbWFlWUhxZ0lzNWpfa1pwa0x1VkZmdUZZWFoxa1hUTXhNWkF1YmJ1TWpnbkVaMTBHaTJ1YktySmZSTHVjeDFNVXpBS0lLUi0?oc=5"
+      },
+      {
+        "title": "Jerzy Owsiak apeluje po finale WOŚP. \"Nie powtarzajcie tego stwierdzenia\" - Plejada",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0ZPNW95RS1JdEtXcjQ0XzlvZUdHbTRER2dmSjNKVDk1eVdYbkhSVkk0bG5ZVXdOU1ZaSldOeDJCMkl0MktIc3hMNng5RDdORnlhTEl6SWNud0ZTRVgxelVhbFZwUlp6VzNxenF6STBLVVpyQUh4NS1RMS1sRHFYeDhaa1B4Q0o2ZDlEbTMyTVRMLUF6amVFUGdhWXlPTl9Fb2tYdkZn?oc=5"
       }
     ]
   }
