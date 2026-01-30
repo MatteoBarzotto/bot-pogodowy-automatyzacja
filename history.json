@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28 13:36:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5045,
-      "EUR": 4.2009,
-      "GBP": 4.832,
-      "CHF": 4.5684,
-      "JPY": 0.022949,
-      "AUD": 2.4541,
-      "CAD": 2.5837,
-      "CNY": 0.5045
-    },
-    "crypto": {
-      "BITCOIN": 314656,
-      "DOGECOIN": 0.442662,
-      "ETHEREUM": 10601.24,
-      "LITECOIN": 244.5,
-      "RIPPLE": 6.77
-    },
-    "indices": {
-      "^WIG20": 3374.94,
-      "^WIG30": 4324.74,
-      "^WIG": 3374.94
-    },
-    "news": [
-      {
-        "title": "Tragedia na warszawskim Targówku. Dwie ofiary śmiertelne, mężczyzna zabarykadował się w domu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnN4VkNWSlhJYTVDUWcyMkIyUHU1VUYzcXZrS0MzcUYzdG15bXByMzBwSzZXRnFQV3daV1lEbTl2YVNSTXdwS29BMk9OYUNic1hBQWlmX0NWQnRnVk5sTGQ4LS1oTEQzX0JoLUhCMkc2ejlLUWpMSmx6a19FVUxfbGpxQVRQYWNLdkRGeG85d2pzVnVkSGM2NUQzajNMa2pmZnQ3czlDcWZIQmVDaktENmpvYWtwMi1Sd1B5cC1iTQ?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński w szpitalu. Pobędzie tam kilka dni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGVNQVZNQ3UxMFZpNTA5LTc2aUJZaW5aY2V4bVc1NEdkVkl1TVliZmQyT1VqNWttR1hQYzVlWm5KNmdDQ3kxZVpPWGFRSGlwdmNIbzAzaXRHbEJ6Z2dwLXVWR1R0N3AwOGxQcjBwZjgwMjF2Tmw5cV80akZRUUdFbWRoRmFPclhYeW80SlJibk5kZkxYZ04yajNPcw?oc=5"
-      },
-      {
-        "title": "Ostry wpis Bidena. Nawiązał do Trumpa. \"Czas pokazać światu\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGg3X0RweUFaUGpjQWtoemVjWTNXaHAyU2ZmME1oN3FLcnhKdlJuQ3N5bjhBMWtoX1dXQzA2aDR3b2JneXRueTVLdFhJRzVOTjFZZjgxYnpRbWFBTnNYakVrbzVmbUxCblNIZVR3QnlIRHdaVDctZFNWZk9Bay14NHo5ZUN1VHFTZXU4ZDlMSWItLTFSRGhERUlvcy0zU0Zz?oc=5"
-      },
-      {
-        "title": "\"Paskudna kobieta\" i kupowanie wysp. Bolton ujawnia kulisy decyzji Trumpa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkFzUFdaTFF0aG5IcnE4S18xWk83akxMaTg1Z1h6OTNSYnRCa01JRmJ2bnFRaV81el96aC11aHZFZ2N0bWZxLUI2TjZOdmJiRHNJNGhnQlBwckR6dXkydzdnd0pXdU9CU2xzVkVTdUxBNjBBeEtoTjRKWDg5VEhWTDAtR2lBTV9rdjQ0dV9mWk1VSV9taUY5d3BvSE9mM1Q1OVZkUEdrUm5WT3R0djhGeXpDcw?oc=5"
-      },
-      {
-        "title": "Czejarek o katastrofie hali w Chorzowie: Na Śląsku zabrakło karawanów - o2",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYldXbXpoRXdjclNsSnR2MTFxWE91UUpYSDM2a1FFTmtNRjdOdFJTS3JPWDVxRzlzN3lURjFZNlQydG1CNE14WDcxRWNZblc2cmwwVmtMOTh2TF83MFpZYnpKdzFqR3VqWmlJbFFxTlpfbWJ2eTVNMmZGTFdBWFpScXZUcFhiZm1TOExiQm14OXdHUFE2a1lBN0xKVmpPalAyclFaLVlRWWk1UlZBU082czFGWWFhdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-28 14:42:47",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Propagandyści popełnili poważne błędy. Chodzi o generatory dla Ukrainy na OLX - Onet",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjFrb1ZHUFR4M2FYa2FnQlFQam81MjVfdTREQnNsQ2NYWl9mcEhNWFo3TUV4cVAyS0J3djBhc2NqVElicXIxNzBDZ2FhR2JROHd0VlBSdGtXWHFHakd6aWtqQWd5Ui1CY19xN295VHI0ZUtDM25jYm1pZjhZODJUd1l4eWpiQWNSbS1iNnRxSWRiOU9nUHhTU1RpT1VraUZFb3V2UDZxMDktVVdObUUybUd3MHNuR3lkeVpXOW9XMVd5U3VIT2xWYkZ4Yw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-30 21:21:54",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -12°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 297025,
+      "DOGECOIN": 0.415619,
+      "ETHEREUM": 9609.77,
+      "LITECOIN": 232.08,
+      "RIPPLE": 6.24
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "\"Olek stał się memem\". Ujawniamy kulisy walki o przetrwanie prezydenta Krakowa Aleksandra Miszalskiego - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1dIbHZIZ0ozQVl0a0Z0azJ6RXZwWURWNEFtZGJxVlB5UHI4Unp4MDlwSFZORzBCbno1eDBQQU9CZDlGLUItMml1Z0REWUhyUzNLTFpNRHltX29pT3VlWFdwTzVRMHA0QkRuQzUwWUI1bFRaS1RvR2hDTmdldHM1S0t1VHNnZTl4MHRZOThRQm0zQjdzVTVLM1lSc1JfUmdxZUIwMzFEUlUzMVo5Ri0xUVBGTEtMZjd1akxhYg?oc=5"
+      },
+      {
+        "title": "Funkcjonariusz SOP oskarżony o atak na rodzinę. \"Nie było czystego strzału\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSTZrN0RSeDc5ODd1bDRBTk5Zc0NURFR0UUN6MXBaaU1WR2pxaFNMb2UtNDZDTWZrcW9xRS1fR0JaMURzZktQMi1UanFYdlFNdkdkRkJrSWlOUi1VcWs5dEx4em5nM3B1UVhKNi1RcWYxSmpTaEtZNnZaak92YkhiMjhjU01oMEpuWFFuMmc5SWFDV1dJUUpJSVdLVzIxRFFhaTV3b0JtNHRtSVZMNndDM0JXVjRpTFdHUWY1c0tlMWV0UV94MmpiMGthSDhFd2FHVkloSXo2RQ?oc=5"
+      },
+      {
+        "title": "Horror, który wstrząsa Rosjanami. Co się dzieje, gdy weterani Putina wracają z wojny do domu? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0toUm1ra3EyMDYxaHdiclp2YTZMUDRxMG91NHpsZmdDUzVRcmlQMkRXTllXWjZHNTVsNVpKN1J0WXU4V3VlcU9qRVFaZU1zY0syMmVscTJGZjJBUC1TTWEtMG05TldZX0VOSXJCVE5ZRzJhN2tjQzRZWk5DYmVsXzRvMTFBYkFlSEZlaFQ0Ri1OOENTb2VWOWtBbERCQTdSOTVKM1JDZGZnNURJV0ZzUjc1Sk9RZVlHSHJXYV9xblk2Wk8wY0lta3ZjSzQ?oc=5"
+      },
+      {
+        "title": "Kaczyński w szpitalu. Do prezesa zadzwonił prezydent. \"Wspomniał o tym posłom PiS\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHpSSVFDeXRpb2RtdHdLWE0zVDlXMXNCSFBkQUtiRnRzYTRlRlZuZTl1VlgzZ2dqN29CbEhUVE91ejhoZWlrMVZGT0laZUxReS03NGlpS3RjTzI5ZTZ4aVJTMENnODZzejRTLXBwbC0tWk5YRVlJN0l6MmtnY3dYTVg4VkFidjI3VWRDRV9Ncm1JVW1nZXpMdmtfbEtMeS1ObkZPSEpBeVBTREFFSFdYYVpZTE42dHNRNUhIbG93?oc=5"
+      },
+      {
+        "title": "Biegli wskazali prawdopodobną przyczynę zeszłorocznego pożaru budynku w Ząbkach - Miejski Reporter",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0MyZmJiRDg3Y2Y0X1BVS05JYjJXUXB5MFdSWVpnempEV0JYRGdNS0Q3bFg1OFRreEktYUJUZEVQV2hTWk5vMXVJMGlLYW85WFR6c1lVOU9jbldlU0JuRFNucTN5ckh6NjI5TUZHZm12VFh4VWpIT2k5dXNUX3BobzFLMXhDSnNCRV9HSHJhZExiUlJ3Q191YTFMbDMxeFRNMzRvV3g1VDVybXM?oc=5"
       }
     ]
   }
