@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28 23:20:27",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5045,
-      "EUR": 4.2009,
-      "GBP": 4.832,
-      "CHF": 4.5684,
-      "JPY": 0.022949,
-      "AUD": 2.4541,
-      "CAD": 2.5837,
-      "CNY": 0.5045
-    },
-    "crypto": {
-      "BITCOIN": 313257,
-      "DOGECOIN": 0.439108,
-      "ETHEREUM": 10575.37,
-      "LITECOIN": 243.65,
-      "RIPPLE": 6.71
-    },
-    "indices": {
-      "^WIG20": 3393.31,
-      "^WIG30": 4350.64,
-      "^WIG": 3393.31
-    },
-    "news": [
-      {
-        "title": "67-latka groziła Jerzemu Owsiakowi w internecie. Sąd wydał wyrok - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlg0M2sxTURiMzY2bmdjUm1iNTZsWHNBUjBxT2lrME5wZkdVbVZqV0dGeEd0TW5JUmJDSDN1SWUyOTZGeGZzbG4ycUJ0cjJZVnd2d3BIdW5SWmFyd2FGZjJUY3ZoRU1ORUM2dUI0OTFFMHNaSktSX3VUTUFnSUtaMzJoZlRzS1BBblo3M29weGt6QWh4cm93Q0VjSnE0Q01zM3ladUQtYmRJRHA5Ti1sbQ?oc=5"
-      },
-      {
-        "title": "Jest decyzja sądu ws. majątku Ziobry - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGNQNmhoZHg0eDlmb01LUUs1YmJPaU9MXzRubnpra2lRRnQxTHpocDlxemFFcWtqQV9uaXk4WXZFX3BIU3RlZEU0a3o1bE1UTXIxVGlBUy1JWDR0TkI2R2kxajNYekVENHljWFVzTTdTQndKeWtoVUNWMU1ZVEpsam1iU1M?oc=5"
-      },
-      {
-        "title": "\"Nie będzie miał swojego ambasadora nigdzie\". Schetyna wprost o Nawrockim - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZTbGR6R2dlUzFFbVAyRVN4b3Z5WTYzdFF0UFBpaF9tYnBQMzZhWlYxWEJZeWdEZEtoeVFmQy1aSXlXU3V0MVlxM1kzSEdNaGRHTW9rM1RxVzRZQ3VxbDhiZ2F3Zng2ZmtXUHJLOVdKc0dUa0NzcTdNQ0hCWlgwTTYteEpQcmM5RVFMbVZlTzJGM2lzZzFnTklDdm8yUHJjYnF5TUszT0dueXpLcndvQmhBa09jZENmcUE?oc=5"
-      },
-      {
-        "title": "Rząd zaostrza kurs wobec piratów drogowych. Są nowe przepisy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEVPNjh2X3B2T3ZCR2NReUZEVmJXWmtNTW55Y2pXdDVFdWVtOVAwREtxSzlSdGpKQmY0Ukhib2t6Y2owbVllN2tnZjU3TkoxWkxzMlJ0SUd2TEY3ZmNUZnczQ0pmaElONGdZRUY0Yk4yUmM5c2hzc2w1RDNyVDBISVY0azl2ZnBIRVp5WFJSMEtDOXcwSmk5YldRQUNEMVZaeDhXbms2Ykl4QThZcjFDb0NWVTg?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak apeluje po finale WOŚP. \"Nie powtarzajcie tego stwierdzenia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXpNS3JZem5qa1hhM3prSjdJTDc0NHpjQXdPN0xSazR2TW5EbGU5QmcxaFQ0emhBR1JSMVNpZjR2dzBnZGNYVVczZFcwcmUtN0tvMmFfNlU3cFNJb292Y0JRR2tZYWZjbE1SMHlEbzN5a2dubGY4b2g0Q2VacC1RV04zM3hhRzRJZ2pXYTNlY1lQX2lUaEVBaVVOcF82UkFObTFzdGd0WUJTdU1ReWtrY2ZiSkVnSEtPTm15UmlfWVdWVzFL?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-29 00:20:48",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Przełomowa decyzja następczyni Maduro. \"Presja wywierana przez USA\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVW1RUU9kUWNIS2NBOFd3aDJGYzdkYlBseGZhellmbkNTdTU5WVVDbkpzTjJsLUYtdUloMUM4OUxjSjZMb0FqTml4N1pIRE1YY1lQT1pvLTh1ZndNbV81VnlGM3d1RGN6ZUFCQjhXMm5uVW1yV2tWZmtiWHNjNm9xalRMVWhmWG14Q2dWcVduY1V2bGxDWTVuMjhCeVBFYkFNT0FlbmZoRGxGc1Q0MGVaUzAzcw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-31 10:21:48",
+    "weather": {
+      "Warsaw": "Warsaw: -13°C",
+      "Kraków": "Krakow: -8°C",
+      "Gdańsk": "Gdansk: -14°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 294933,
+      "DOGECOIN": 0.397382,
+      "ETHEREUM": 9381.74,
+      "LITECOIN": 224.41,
+      "RIPPLE": 6.03
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Naruszenie polskiej przestrzeni powietrznej. Jest komunikat wojska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0dDOTBienhfN0JkMUxjb0N2eHZ3YThlRTBBcG55SU1xUW4weHpCYlJINWVzTEVRSFVBTU10czRhOGhES3g1a1F4bXhIeENCUGQwRmxMYjVKRzh5dDVialpSVFNqRXZ5b2tLWWRNbkJDZDVrRWVNdlNzRzVBWE9qcXVYeTdXYnEzNUN3dXlYQWpXbnJsRm05VnJabVlKalM4RmJTT21yUjFsWTlx?oc=5"
+      },
+      {
+        "title": "Amerykańska armada spłoszyła Teheran. Iran gotowy do wznowienia negocjacji. Trump komentuje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjljWmcyMDBaNmZ1aFdjOWV6SlBIRHZpNHp0ajhIVkxXZlB0QTVZcTRCSEswZmlnaUVpWGw5aEhmWjQ2UHlrWnNwbjlySW9lTi1JMkttam5SUGlFcEFkUUN1Mml4bF9Ka0QyRVFscUhha2FSQTNz?oc=5"
+      },
+      {
+        "title": "Substancje radioaktywne w kilku miastach kraju UE. Jest potwierdzenie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWE9xSklNb05RMGtzQkNUSGFVR19aVzFNVWFGU1FuTGtFMkZWRmIyQ0poQ2dnVGxhYk9iY1U4cThOTUR4Yl93Y0JyTzdBdWRqUXN0cERhM3RneV9tWTlZZmF3YkJ0cXJabTA3dTNMZWdEY0dIOW92QmVxd3lYRUxYQzlUejJ6U3Qza2loWF82UnVaTXQyY3ZrTjdXRjZRQWJVbGo3V2dUWUM?oc=5"
+      },
+      {
+        "title": "Putin zaprasza Zełenskiego do siebie. \"Misja samobójcza\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWx4MFh2bnhRLTZNeW1sNXVDRWhqRS1YNHJFNWMxcW13cmd3TXlOUUxPc2MwVVdOTC1zV0Z2aGdRaklhcHMyZ3FVaXpMbkdoSHZuSXNjN291Rm5wRmprcl95TEpkdkV2VkVWclRpUGxLLThHdmpWUV9SbFAxM1B1YmZ5NmJPWVZsd2toeEZTRGVYN3ZYanZsb3lkeHA?oc=5"
+      },
+      {
+        "title": "Teheran wściekły na UE. Zapowiada odwet - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2t3YmV2ZkRnWWNWc3hMbFVLRXNkVmw4TTFUazk5dEprT3VKU2Jhdkp5a0t0WkhVS3VEbnpURUM1Z01pMDRNWDVBWVZIUmFuTVhfd29Eb1FuaXZVZ250alRhWG1wYVlRVE9hQnRmeU16NnYxYTZaSE9aQjNIem9vNko3TjRSSU03?oc=5"
       }
     ]
   }
