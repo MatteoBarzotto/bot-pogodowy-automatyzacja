@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-29 00:20:48",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -6°C"
-    },
-    "rates": {
-      "USD": 3.5045,
-      "EUR": 4.2009,
-      "GBP": 4.832,
-      "CHF": 4.5684,
-      "JPY": 0.022949,
-      "AUD": 2.4541,
-      "CAD": 2.5837,
-      "CNY": 0.5045
-    },
-    "crypto": {
-      "BITCOIN": 313824,
-      "DOGECOIN": 0.440092,
-      "ETHEREUM": 10599.2,
-      "LITECOIN": 244.42,
-      "RIPPLE": 6.72
-    },
-    "indices": {
-      "^WIG20": 3393.31,
-      "^WIG30": 4350.64,
-      "^WIG": 3393.31
-    },
-    "news": [
-      {
-        "title": "Porwanie i egzekucja dziennikarza. Sąd: Te dowody pogrążają ochroniarzy biznesmena Świtalskiego - poznan.wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnN0SVpRSjlfWFJIcHFJeVBTVUMwb01SUHpHZTQ1aUl2RE52emstaTk3Q3JQQTdUSEVwSENoUGk2cl80YmJLd2FkbWJ5S2Y5cVJYZFQ0d0JnbnN5T0NPWmVNUFVtc3N4ZmlvYW5ualNLYTBDenI4MklIYWFmN2xDaTRoeFdxODNUdFgxX2psZlRoWHo0NEJHYnNwTlMtNzlCb1YyRFVwQldaUUlhbjdocFNSUWdQdjV1aXNv?oc=5"
-      },
-      {
-        "title": "Kolumbijski samolot zniknął z radarów. Na pokładzie było 15 osób - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUhKSFlWYzRZdGRKVHpESncyT0dGc29XWlBYMlprUER4M2V0cFczRW85RVo0RTRkUXVEc3huclYycmJzLVZHVTJSWThEeW9HYUdWLVhXc2dJb1RIbGU2dkNkS0gxVURHVlI4OGtTT1R1Q3pTaDdjbjhxcHRmSlZkeGNGaWpIUnFUZG14Q1lOeldsYlNfMEhBYTBnUHhObHIxclJ5VmFidmNLQkxHX2MtNWE3YTdBRVlNMXNLWDloaWxuMXhx?oc=5"
-      },
-      {
-        "title": "\"Nie będzie miał swojego ambasadora nigdzie\". Schetyna wprost o Nawrockim - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZTbGR6R2dlUzFFbVAyRVN4b3Z5WTYzdFF0UFBpaF9tYnBQMzZhWlYxWEJZeWdEZEtoeVFmQy1aSXlXU3V0MVlxM1kzSEdNaGRHTW9rM1RxVzRZQ3VxbDhiZ2F3Zng2ZmtXUHJLOVdKc0dUa0NzcTdNQ0hCWlgwTTYteEpQcmM5RVFMbVZlTzJGM2lzZzFnTklDdm8yUHJjYnF5TUszT0dueXpLcndvQmhBa09jZENmcUE?oc=5"
-      },
-      {
-        "title": "Rzeczniczka MSZ Rosji odpowiada Nawrockiemu. Taką \"radę\" mu dała - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3hWaG5PaHNzU2ZsY19Va0poQndpcTgxczVGODhKSUFzbkJldEp4R09KaXJvRTd4RU13YmxyNEFzak5VcXllSEFPcDg4X2dVYnpibDM1Z2ZfM0NfOFFtM0JRTjFxNzREbXg4WHNGLXlzOF9SWG13Rm1Gc2otbzFyVEg2ZkpNN2cwZlA3ZkQ5NkdSdldnZWVPM195ZEFES1RnSHpCUUFtcw?oc=5"
-      },
-      {
-        "title": "IMGW ostrzega. Bardzo niebezpieczna pogoda w Polsce - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeURjSmtMMjJKTi1ybnBSNkhtYUVpMnFBWUtfay1mcDI2LW1CS0RhdkdtWkdnS2hkbkFiTFdsWExlSmxQYXhKVFBjY3E5aEQ4MzZPTF9RQWVRdDBnWVZ6bkNCcDUta3pnTGp3ZEtST1djd3hkU0Q3bVpyYTltQ1VyQnlIYUR2TWlqSThYSFhONFF1SDN6T25pRg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-29 02:25:12",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Teheran wściekły na UE. Zapowiada odwet - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2t3YmV2ZkRnWWNWc3hMbFVLRXNkVmw4TTFUazk5dEprT3VKU2Jhdkp5a0t0WkhVS3VEbnpURUM1Z01pMDRNWDVBWVZIUmFuTVhfd29Eb1FuaXZVZ250alRhWG1wYVlRVE9hQnRmeU16NnYxYTZaSE9aQjNIem9vNko3TjRSSU03?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-31 11:17:59",
+    "weather": {
+      "Warsaw": "Warsaw: -13°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -13°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 294649,
+      "DOGECOIN": 0.396856,
+      "ETHEREUM": 9383.26,
+      "LITECOIN": 224.07,
+      "RIPPLE": 6.02
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "To ona jest największym zaskoczeniem na kongresie Brauna. \"Gorąco ją namawiał\" - TOK FM",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRl9ueGVzUzlscjJERENuQmU4UXhBcGtkcjRLYmYwZGRhclNyNGFRbGxDTk9QTE5ZS1hLX2NGMkZpUy1WS0JERHZpN3RoaHRFNExLdmI3d0tBWmpGZGt6Z3BHNkFJQmNOdVlOak1tdFAtd3l5OWxjRGpORkI3Y2lPcm9LSVRxVTJWWkQtX2NTMUxHeHFiQnowd0xfRnJlS19ud3J1RG0wTXA?oc=5"
+      },
+      {
+        "title": "Amerykańska armada spłoszyła Teheran. Iran gotowy do wznowienia negocjacji. Trump komentuje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjljWmcyMDBaNmZ1aFdjOWV6SlBIRHZpNHp0ajhIVkxXZlB0QTVZcTRCSEswZmlnaUVpWGw5aEhmWjQ2UHlrWnNwbjlySW9lTi1JMkttam5SUGlFcEFkUUN1Mml4bF9Ka0QyRVFscUhha2FSQTNz?oc=5"
+      },
+      {
+        "title": "Merytoryka czy polityczna gra? Polacy ocenili weta Nawrockiego, jest sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXhheUx3SEppRi1KUFNHdGtRc2J4eGhFYW1McVB5Q1lsUkhyQ1RqZVNyWG9adDllc0d2T19pWTJOTHJCOFRzTVlZVmtKNnpscmxaOFh0a2V1blhNU1FEY25FTG5mSnE0Z1RKTnVzUFB3a2F4elE0MlNKS3JsbkpjUkJrZkp2ZlN1R2RNYUEtdG9VaEFSS2o4WVlXMXZzZGNEUVVhbWZodHNkUm1zZXBYQ25TVldKZ1U?oc=5"
+      },
+      {
+        "title": "Zabójstwo 14-latki w Kępnie. Nowa decyzja w sprawie podejrzanego mężczyzny - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckVhWTBFLWlHT1ZsaUNCZVdaZGFWSEFGT1phVUV0RE00RWhnbnM1N3EtTnkwcWlCM0dvaWJKWUtKSDNORzZ5eXl0WVdvUTR0S1VpUGhFY3RZMnZ3eHo0RDZGbDZJbnVSMjBXbGRYWlBmbmpRQWdpU1RJcnNGejlCa2VpU0ZtcXoyNHR4M1R1Um5ETENvZzFLcmZaMlkwcFcyZXRpV2xtQ3gtQ1JUZ0tjWWlqWDZGVWZEcUVyTUpXWm14WUZvMzl1RDlsQ0s?oc=5"
+      },
+      {
+        "title": "Putin zaprasza Zełenskiego do siebie. \"Misja samobójcza\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWx4MFh2bnhRLTZNeW1sNXVDRWhqRS1YNHJFNWMxcW13cmd3TXlOUUxPc2MwVVdOTC1zV0Z2aGdRaklhcHMyZ3FVaXpMbkdoSHZuSXNjN291Rm5wRmprcl95TEpkdkV2VkVWclRpUGxLLThHdmpWUV9SbFAxM1B1YmZ5NmJPWVZsd2toeEZTRGVYN3ZYanZsb3lkeHA?oc=5"
       }
     ]
   }
