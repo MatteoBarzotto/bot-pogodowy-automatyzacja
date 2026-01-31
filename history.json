@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28 22:23:59",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5045,
-      "EUR": 4.2009,
-      "GBP": 4.832,
-      "CHF": 4.5684,
-      "JPY": 0.022949,
-      "AUD": 2.4541,
-      "CAD": 2.5837,
-      "CNY": 0.5045
-    },
-    "crypto": {
-      "BITCOIN": 313676,
-      "DOGECOIN": 0.440633,
-      "ETHEREUM": 10609.5,
-      "LITECOIN": 243.98,
-      "RIPPLE": 6.75
-    },
-    "indices": {
-      "^WIG20": 3393.31,
-      "^WIG30": 4350.64,
-      "^WIG": 3393.31
-    },
-    "news": [
-      {
-        "title": "Oburzające okrzyki w sądzie podczas rozprawy ks. Olszewskiego. \"Raz sierpem, raz młotem\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFNVbkhrU29MOFliN0cxM0hpTVlIeERrOVJpb255VTRNTkhyUlBuaGV1X25uX0I2Nlc5ck5KeHFiQ2NXMXJYeXlIeW5lMmhJVmpZX2dHdzIwbWQ4dHpVRm1hUndjSEZ3SlhPdExpUzlpdlZONlJ4RkNfa3FETjhoU3NzdUplUG8zV0lvbGVldDZmQmdPdm04U1lRSldzQmZzQWZHcU56SE16LWNyNGRlejBWQTE?oc=5"
-      },
-      {
-        "title": "Rząd zaostrza kurs wobec piratów drogowych. Są nowe przepisy - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEVPNjh2X3B2T3ZCR2NReUZEVmJXWmtNTW55Y2pXdDVFdWVtOVAwREtxSzlSdGpKQmY0Ukhib2t6Y2owbVllN2tnZjU3TkoxWkxzMlJ0SUd2TEY3ZmNUZnczQ0pmaElONGdZRUY0Yk4yUmM5c2hzc2w1RDNyVDBISVY0azl2ZnBIRVp5WFJSMEtDOXcwSmk5YldRQUNEMVZaeDhXbms2Ykl4QThZcjFDb0NWVTg?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak apeluje po finale WOŚP. \"Nie powtarzajcie tego stwierdzenia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXpNS3JZem5qa1hhM3prSjdJTDc0NHpjQXdPN0xSazR2TW5EbGU5QmcxaFQ0emhBR1JSMVNpZjR2dzBnZGNYVVczZFcwcmUtN0tvMmFfNlU3cFNJb292Y0JRR2tZYWZjbE1SMHlEbzN5a2dubGY4b2g0Q2VacC1RV04zM3hhRzRJZ2pXYTNlY1lQX2lUaEVBaVVOcF82UkFObTFzdGd0WUJTdU1ReWtrY2ZiSkVnSEtPTm15UmlfWVdWVzFL?oc=5"
-      },
-      {
-        "title": "Tak fatalnie nie było od 20 lat. Zła wróżba dla rosyjskiej gospodarki. \"Krzyczy, że nie należało rozpoczynać wojny\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQy1mamFPREJCTWZJNnBVd3JsSF82UVhyVndkQlVDNDJQb3Z6YXd2QV9JMVRycHRONXZKaVhYZXZlR0ZmSkFZRFZWTmJEUHlTUFBxNF9oQXJISnRiQjVVZm9MWGU3VnltMTl1bGtNNUJpWmk3NHBXaHRsMHVSQUlCSUpQeWExSlp1dHUzS3FscFA0dG1WMW02Skd0U1NZdDZIaXNV?oc=5"
-      },
-      {
-        "title": "POLSA zawiadamia służby. Chiński obiekt nad Polską - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXFLbGhDX3NGMUhUcjQxSGhwYXNkYW8yNDZlYzNMLUZQbUxuSGY2WDk2NXZfbmxWN1duTmRzSTlVMjU1Y1JyS3FKMTdNN09UazNkbG1ScWx1WGVHVUlBWVM0NmtuNXBtbklXOTZBT1RYd1kzdDk0VW9aS2pDOU95ZDBGM0U5UG90TjdtUEMwQlEwaDA3U2JmbXNzUjdGZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-28 23:20:27",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Wraca widmo shutdownu w USA. Senat blokuje kluczowy dokument - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMk9LQWZUUEN6WXVIaDhCOWg4VGFpdFc1YnhwdzhoWTNUaUw5ZlExRXQ5b0QtcTg1OTVHenZsUFBzOGQwSVRnN1phQ2RFZkhNMElLTjhNaGZ4N1ZIaWZGd2Z5UlFyWm1HT3U0aHNTZHR0VzNqallYODJfOFNZRG1zMlNwR3FjSUFGaUFQSWFKYy1oemJYUmtYZTV0Q212ZWdiYV9Ka1MzQlNTb2NWbkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-31 09:21:52",
+    "weather": {
+      "Warsaw": "Warsaw: -13°C",
+      "Kraków": "Krakow: -8°C",
+      "Gdańsk": "Gdansk: -15°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 295593,
+      "DOGECOIN": 0.399224,
+      "ETHEREUM": 9478.41,
+      "LITECOIN": 225.54,
+      "RIPPLE": 6.08
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Naruszenie polskiej przestrzeni powietrznej. Jest komunikat wojska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0dDOTBienhfN0JkMUxjb0N2eHZ3YThlRTBBcG55SU1xUW4weHpCYlJINWVzTEVRSFVBTU10czRhOGhES3g1a1F4bXhIeENCUGQwRmxMYjVKRzh5dDVialpSVFNqRXZ5b2tLWWRNbkJDZDVrRWVNdlNzRzVBWE9qcXVYeTdXYnEzNUN3dXlYQWpXbnJsRm05VnJabVlKalM4RmJTT21yUjFsWTlx?oc=5"
+      },
+      {
+        "title": "Amerykańska armada spłoszyła Teheran. Iran gotowy do wznowienia negocjacji. Trump komentuje - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjljWmcyMDBaNmZ1aFdjOWV6SlBIRHZpNHp0ajhIVkxXZlB0QTVZcTRCSEswZmlnaUVpWGw5aEhmWjQ2UHlrWnNwbjlySW9lTi1JMkttam5SUGlFcEFkUUN1Mml4bF9Ka0QyRVFscUhha2FSQTNz?oc=5"
+      },
+      {
+        "title": "Putin zaprasza Zełenskiego do siebie. \"Misja samobójcza\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWx4MFh2bnhRLTZNeW1sNXVDRWhqRS1YNHJFNWMxcW13cmd3TXlOUUxPc2MwVVdOTC1zV0Z2aGdRaklhcHMyZ3FVaXpMbkdoSHZuSXNjN291Rm5wRmprcl95TEpkdkV2VkVWclRpUGxLLThHdmpWUV9SbFAxM1B1YmZ5NmJPWVZsd2toeEZTRGVYN3ZYanZsb3lkeHA?oc=5"
+      },
+      {
+        "title": "USA: Senat przyjął budżet, ale shutdown i tak staje się faktem - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1drQ2phWS1aNXRCMjBZQWxaZ3RUS0UyTUFwR3Viemh2UWF6N1J0NnhIazZiWUNPZlZuNE5QUUdnT2xLSWhMdTV4YkVCb0U4MVY5bmdyS1lYWDB2X2hERGtzWUVxa09mRjJPaDUtSTNBdEJJODd1c3J6QUZiUTI1ZFYxWVpVS0Vsd2FPVnJ0aVF1MXFGX1p3M01OeVJJeG9YMG9iTEFFZWdycS1OOHk4WWpyNmtlZw?oc=5"
+      },
+      {
+        "title": "Przełomowa decyzja następczyni Maduro. \"Presja wywierana przez USA\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVW1RUU9kUWNIS2NBOFd3aDJGYzdkYlBseGZhellmbkNTdTU5WVVDbkpzTjJsLUYtdUloMUM4OUxjSjZMb0FqTml4N1pIRE1YY1lQT1pvLTh1ZndNbV81VnlGM3d1RGN6ZUFCQjhXMm5uVW1yV2tWZmtiWHNjNm9xalRMVWhmWG14Q2dWcVduY1V2bGxDWTVuMjhCeVBFYkFNT0FlbmZoRGxGc1Q0MGVaUzAzcw?oc=5"
       }
     ]
   }
