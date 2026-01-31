@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28 19:29:24",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5045,
-      "EUR": 4.2009,
-      "GBP": 4.832,
-      "CHF": 4.5684,
-      "JPY": 0.022949,
-      "AUD": 2.4541,
-      "CAD": 2.5837,
-      "CNY": 0.5045
-    },
-    "crypto": {
-      "BITCOIN": 315717,
-      "DOGECOIN": 0.439153,
-      "ETHEREUM": 10600.74,
-      "LITECOIN": 244.58,
-      "RIPPLE": 6.74
-    },
-    "indices": {
-      "^WIG20": 3393.31,
-      "^WIG30": 4350.64,
-      "^WIG": 3393.31
-    },
-    "news": [
-      {
-        "title": "Zmiany w KRS. Senatorowie zdecydowali - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmpMaGRlU0RUVWRnU1Y5SW1EWEgyTzUyMHVsRVkwMlRocDY1NFdFeXEwaHpZZEE4bGpGb29nN3JvNFJFUzBpN0ZJSlM1SktBNnNMM0FrQ2x4MVNIZDY5QlNUVXBaY1hLQlFyRjVNWjBIX29fMVNETkw1NVZudFJjei15SmJHZw?oc=5"
-      },
-      {
-        "title": "Zawrzało w studiu. Monika Olejnik wbiła szpilę na wizji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlZkREVoRE9RbnVNT0J6ckpCQ0xJTHhEZ0JaZW45b2wyMk1GaGF4czJ4X3BDLVI5RlpDUHF0R1JHa2I2eUtqbWU0M0QwdlVqMzBnLVZiSmlBUHhRcGNmTGNCTlpENU9SeDJkaFk2aUZpbE5aUV9LQjlQNy1YUFZSN1RvWHhfLWJZOHVZdFFrMlJQSmNkVGJzWFpKZVBhcVA5VllnTEdKUDUwWkpwQV9V?oc=5"
-      },
-      {
-        "title": "Zełenski zaproszony do Moskwy. \"Zapewnimy bezpieczeństwo\" - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2FRYW1UZGdBSVN2TjFwTzI2Zl9IQ1FMRDZpV0daa2pIQzM2MjBrdTZnekdhVVRyWWhKTFBtVVhGUjZSWm9fRzdiekswYmFTQ1JPV1ZwdEttWFA5MFNVUjVvdXpQTzhYbkFLT3VSVDZiZHZKdG1xRHExYW83a0FxTWZfdkx4a0ZLVmhpS2tWQXBJUkpyT2hkdmhPaDVBRV8wSmQ4amZBZjNrdFgzMzdDdUFMRnZUcHc0TTE4WDZn?oc=5"
-      },
-      {
-        "title": "Zabezpieczenie majątku Zbigniewa Ziobry. Jest decyzja sądu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmtQSFRzdks4Ry1NMlBRTnlpcC1aQ2hKYnVLNFBuYXJhRXBNUTk4YlpHZnN5RWMyRjVOUlhrRzU0Mk1pMlhORURTOGNqdjdmekpPYmtMenhJTHJiUTUwaFNpNERLYU12MGpndzFKODlaX3RYLXBwWkliMWk3RGJ5aWp6QVk3NHNWSHdZVHJROXJranB2SURzaGlON25uOEZ0b3lCRkdKUDlac0RyU3Q5THZSbk9GbXdaVDh5RQ?oc=5"
-      },
-      {
-        "title": "Niemcy zwietrzyli interes przy pomocy Ukrainie. Berlin zaciera ręce. Nowy plan jednak uderzyć w Kijów - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDBBLVY1R1NYQ0dydmVLWGVjbjNQMU9rM2VjUXZvQzZYelBBaGJMWDZVZjNZcjNXa0VIYXhsUHRrbWFSN2x4Q3phTTdZWVB5N0ZKeUp5N28yQkFRZ21HdjJ0VkI1eERZQkZHUTRDZUJxREJlcVJEeWJ6REs5X0JoZ0xfZkl0OUg5Q0VwVlhYVFlvM2hHbFFsZm9UR1huUTlkLXY2b0l0UEZoVkRTSWg1UHF4S05NS1dZbmlIbUFSUTF6S0FaNXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-28 20:22:10",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Do 10 lutego każdy musi złożyć deklarację. Zmiana systemu i podwyżka opłaty - Portal Samorządowy",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcUpGVkE1dHA4YWxNSnlmOXo2by14a2drbXVleW14U19FR2RvbEVxYUY3RUd1VGo4blRGSDBtTWtmR1ZWYTNnOU0zbjFNVTdRUGQwM1MtTGVVQ0JaVmNsWUlQTExCUG9PejlVX0JzZVVIVTc2RnFFYzh6cUZ6eXZVbzVmdDhGdEVOQnFoczEyTU1yUDdrak5iV3Zqc3puVFdaa3Z5ZUxpR01CQlpDZlg3bUd1cVlsWHRPTE1ab1ptOXZVNVI4Z0NwRzNaeGNfV09KbURkSnRTVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-31 06:04:32",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -15°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 298088,
+      "DOGECOIN": 0.407095,
+      "ETHEREUM": 9563.56,
+      "LITECOIN": 229.4,
+      "RIPPLE": 6.16
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Chińska rakieta weszła w atmosferę. Ekspert wskazuje, gdzie mogły spaść jej szczątki - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1ZXSHduYW5BZVZnbTA5NENyS2s1RmZtN1dGdWZIREZLUldGZGpWYVJrZHJ0bHZwcHB5ZjNKbU1iZWVSUEF5V1ZlXzNOSG9XVGQ0aVpTRWRjbEpiLU95bkxpYkVxUHB5NnFkeENudmMzSU9NNzlkMzY2ZENRQWcxbXZrTi1lT1pscHAwUlVSOGlMZWwzLTFLTFN2azN6NFZZQVExOEVzSnFDbEFrc00zRHlHSFpUdjVuTDQ4R1VBSElCQWs?oc=5"
+      },
+      {
+        "title": "\"Olek stał się memem\". Ujawniamy kulisy walki o przetrwanie prezydenta Krakowa Aleksandra Miszalskiego - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1dIbHZIZ0ozQVl0a0Z0azJ6RXZwWURWNEFtZGJxVlB5UHI4Unp4MDlwSFZORzBCbno1eDBQQU9CZDlGLUItMml1Z0REWUhyUzNLTFpNRHltX29pT3VlWFdwTzVRMHA0QkRuQzUwWUI1bFRaS1RvR2hDTmdldHM1S0t1VHNnZTl4MHRZOThRQm0zQjdzVTVLM1lSc1JfUmdxZUIwMzFEUlUzMVo5Ri0xUVBGTEtMZjd1akxhYg?oc=5"
+      },
+      {
+        "title": "Duda odpowiada Tuskowi ws. Trumpa. \"Naraził na szkodę\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWx3VzFjeENURFI0azdHWEtQTzg4aTJ3aHk1TWR0WXktV3ZwcmFHMzQzLUh5TFp0RWJtRC1nT1pyb1EwVDlobWwxYkJ1OC1wQTJsSExTNlFraGhJQlUwUHVJbG5ZaVdfTlFMT2I4aVdTVEVZakE4bXItWWdPcjZkWnB2SndkMFdDQWlxNnFaSzdlajJOWFpkNw?oc=5"
+      },
+      {
+        "title": "Kontrowersje wokół uroczystości w Auschwitz. Kwaśniewski: burza w szklance wody - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGxUQkhCQzc4NzlhX1otcGZVVDYxcWRPSnIyd3VxUnFMM2xxdWh3ZXVLVktMMkJveW5qeUY3dWFHdU55cmZMMUFXb0lOcHFVc2FxUGMwWENXM0NsRnRLSVk5V3l2QkRPM0FZY2hQSGZMdGE4TGpld09QeGpCbXdPTTA2VVZkbHBPV2IyMnZKRXdsR1hJeFpXODhWMTBqZmQ2U196UlpSOVVwb2dWYTVfMDFn?oc=5"
+      },
+      {
+        "title": "Kongres Konfederacji Grzegorza Brauna w Łochowie. Przychód z imprezy wspomoże Ukrainę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2NzYk1YaDU0ck1YTDlyRnFUdzJtNUdpcWhQUU9ZLWVXYlJwYmlIazA3c0w1SUlteGVBcm1FS0JxLTItclJYaHBqRllSdmMtS3VJQXB2WnVNb2Y1eENfcndKenNpWlRKdTdnSFNCbnVHbUhqQ1Fva2NiQ3pFM01KUjJzU2JIMjRMT296TXVZeUtoTlMyMTBWcHQwYkg5bEQ4ZndlVkNiQTdMbzdwTllad1E3bHRETXpIYm0zUFpNWDg?oc=5"
       }
     ]
   }
