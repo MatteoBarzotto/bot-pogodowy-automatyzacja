@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28 18:27:31",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5045,
-      "EUR": 4.2009,
-      "GBP": 4.832,
-      "CHF": 4.5684,
-      "JPY": 0.022949,
-      "AUD": 2.4541,
-      "CAD": 2.5837,
-      "CNY": 0.5045
-    },
-    "crypto": {
-      "BITCOIN": 315483,
-      "DOGECOIN": 0.43811,
-      "ETHEREUM": 10571.04,
-      "LITECOIN": 243.37,
-      "RIPPLE": 6.72
-    },
-    "indices": {
-      "^WIG20": 3393.31,
-      "^WIG30": 4350.64,
-      "^WIG": 3393.31
-    },
-    "news": [
-      {
-        "title": "Zmiany w KRS. Senatorowie zdecydowali - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmpMaGRlU0RUVWRnU1Y5SW1EWEgyTzUyMHVsRVkwMlRocDY1NFdFeXEwaHpZZEE4bGpGb29nN3JvNFJFUzBpN0ZJSlM1SktBNnNMM0FrQ2x4MVNIZDY5QlNUVXBaY1hLQlFyRjVNWjBIX29fMVNETkw1NVZudFJjei15SmJHZw?oc=5"
-      },
-      {
-        "title": "Nauczycielka miała wyrzucić krzyż do kosza. Jest finał sprawy z Kielna - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVy16UlprMV8tc1ViRHdxdC0tTmo2VHNadGFCM2VlMjhKckpWVktoVGFaNUg3Uk0tUmJVbUVrOGd4NHJ3NHZlNUoxSmVPRmNzRVBOWEtmWTU4T1I2ZTU3Tl9CVVpQNWlDazRMUmpzU2hLdURGUTB0ZkVUNDh5QVh4NlRVckFXbWI2SUhCSk9VTktUUnZoZGYzNnBvblZ2MzRDN1N3aU53dndWR0VmQVhKYTJDdVlDdw?oc=5"
-      },
-      {
-        "title": "Chiński obiekt kosmiczny wejdzie w atmosferę Ziemi. Jego trasa przebiega nad Polską - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTXNpYnZFNGZSVzRxREQ3VDRndlRoaXhaUmpuck51ZHI5SXUzY291akdtMWF0WWtpN01mY0Y2ejY3VFhsMnFHQ3pfNE5HZ1U4NHMxMmNKUU1TNHp6RFNLd0V5ZURiTENiaVl5Z3JsVWxSRXplSlZiS1ZPb1JxSHRTTkl3NXFyZmNNZS1RMF9HRnc0YXp1SHhIMjZjV0RMOGp1eVRNUk1VM2Rrd09hYktiQnE3dFczMFFCUmJCZVotSlBFdk9vdmtEZXF2WldTQ3cwRTVpclVRXzg?oc=5"
-      },
-      {
-        "title": "Nieprzezwyciężona choroba amerykanizmu [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEp6WHhKNzdkTjQtbHFGdXVVdW01ZnUyd2RMaUZBbDhzTXRtTlZSSG9uVDdSQVMtdVZmMGJEc3hNZXBCUFc4ak5rS0h1ZEEzT1QtbUtMZmZOczBacjVwbUYzeE83WmhnNmZOSFhpMGhhRUlISC1WT21tQjhxWjk4SFlROGY4Smg4RWFhX3V3Y0ZKZw?oc=5"
-      },
-      {
-        "title": "Niemcy zwietrzyli interes przy pomocy Ukrainie. Berlin zaciera ręce. Nowy plan jednak uderzyć w Kijów - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDBBLVY1R1NYQ0dydmVLWGVjbjNQMU9rM2VjUXZvQzZYelBBaGJMWDZVZjNZcjNXa0VIYXhsUHRrbWFSN2x4Q3phTTdZWVB5N0ZKeUp5N28yQkFRZ21HdjJ0VkI1eERZQkZHUTRDZUJxREJlcVJEeWJ6REs5X0JoZ0xfZkl0OUg5Q0VwVlhYVFlvM2hHbFFsZm9UR1huUTlkLXY2b0l0UEZoVkRTSWg1UHF4S05NS1dZbmlIbUFSUTF6S0FaNXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-28 19:29:24",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Komisja Europejska podejmuje działania wobec Polski w sprawie reklamy aptek - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFZLcmFPdnZKMFlRMXl1MXUyUnZBR2VSa01oTmJlVkEyQzRhZmtsakhRNHh2bDJwRWtCc2NpTVNhY2Q2M3NhVURwRmhpekpGSDNERzlKdFp3OTdKT2VMY1JQS0ZjWU9CejFlSkt6V1FwVm9NSm4wWWZyRk5Eb0FQTjA5WW15dTFqRHpKMGlWcWptQU1JRm5rbEFyNlVVdGhMVWVoblB4T05qcnJ1Ni0xcnFnVy0zZUszMXBLYWt2blNKa2t5c1pVRHpB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-31 04:59:57",
+    "weather": {
+      "Warsaw": "Warsaw: -13°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -15°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 298368,
+      "DOGECOIN": 0.408878,
+      "ETHEREUM": 9571.55,
+      "LITECOIN": 230.62,
+      "RIPPLE": 6.19
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "\"Olek stał się memem\". Ujawniamy kulisy walki o przetrwanie prezydenta Krakowa Aleksandra Miszalskiego - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1dIbHZIZ0ozQVl0a0Z0azJ6RXZwWURWNEFtZGJxVlB5UHI4Unp4MDlwSFZORzBCbno1eDBQQU9CZDlGLUItMml1Z0REWUhyUzNLTFpNRHltX29pT3VlWFdwTzVRMHA0QkRuQzUwWUI1bFRaS1RvR2hDTmdldHM1S0t1VHNnZTl4MHRZOThRQm0zQjdzVTVLM1lSc1JfUmdxZUIwMzFEUlUzMVo5Ri0xUVBGTEtMZjd1akxhYg?oc=5"
+      },
+      {
+        "title": "Kongres Konfederacji Grzegorza Brauna w Łochowie. Przychód z imprezy wspomoże Ukrainę - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2NzYk1YaDU0ck1YTDlyRnFUdzJtNUdpcWhQUU9ZLWVXYlJwYmlIazA3c0w1SUlteGVBcm1FS0JxLTItclJYaHBqRllSdmMtS3VJQXB2WnVNb2Y1eENfcndKenNpWlRKdTdnSFNCbnVHbUhqQ1Fva2NiQ3pFM01KUjJzU2JIMjRMT296TXVZeUtoTlMyMTBWcHQwYkg5bEQ4ZndlVkNiQTdMbzdwTllad1E3bHRETXpIYm0zUFpNWDg?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski poprze przyznanie Nobla Trumpowi. Ma jeden warunek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkdiQko1SFBLYmJJWV83VHhNVWJ0NHJ6R2Z5c1JheUhFZEhSeXhVMVgzdm1RSjRYT3lYMF9UY0hrSzhncTFrTUZFd2Y4V1lodlZIMUk2QWp3czJFb1cwWlJraTFGVUp0b0tucVNVTW5pUGVuWG05QVFWbnhWcWxuelZORDYzUlhfdWpoaUFVd0NtWkdLNzVKQmpJMzFFaW9fVkNXY0ROSmxsTHYwWEUwZy1laTVlRk02aDdyUFpnTDFYLUpxT0FxNXRB?oc=5"
+      },
+      {
+        "title": "Pomoc z Warszawy dotarła do Kijowa. Kliczko: Trzaskowski sam do mnie zadzwonił - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRF9PZnV0dHd4eE41dkFVMDBVdU1IX2xuNGozTEdCMFN3WXBuaDlDMklIZm9aMHQzNVNsQVNic3FFbHVmOEFEQm16TVoxaE1PcUpLWG1vREQxYjVmNjByZ0s2SFdkRU1ZLWFaZWdrTmRVUkNtWXByaEM0QVdOUXpJUHJQcnM5aFNJck1tTGZVX0ZoR29ENjB4U2w1SmQ4SmlYWmhGYkF6cVRFN3I1cFpFaEd4QkVLTkZ5UzF3TUJMeThpb2lCeGhzVlgxaEo0ZUtJWWtlTTN3?oc=5"
+      },
+      {
+        "title": "Do 10 lutego każdy musi złożyć deklarację. Zmiana systemu i podwyżka opłaty - Portal Samorządowy",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcUpGVkE1dHA4YWxNSnlmOXo2by14a2drbXVleW14U19FR2RvbEVxYUY3RUd1VGo4blRGSDBtTWtmR1ZWYTNnOU0zbjFNVTdRUGQwM1MtTGVVQ0JaVmNsWUlQTExCUG9PejlVX0JzZVVIVTc2RnFFYzh6cUZ6eXZVbzVmdDhGdEVOQnFoczEyTU1yUDdrak5iV3Zqc3puVFdaa3Z5ZUxpR01CQlpDZlg3bUd1cVlsWHRPTE1ab1ptOXZVNVI4Z0NwRzNaeGNfV09KbURkSnRTVQ?oc=5"
       }
     ]
   }
