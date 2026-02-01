@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-29 20:26:00",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.5189,
-      "EUR": 4.2072,
-      "GBP": 4.8574,
-      "CHF": 4.583,
-      "JPY": 0.022951,
-      "AUD": 2.483,
-      "CAD": 2.6002,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 293538,
-      "DOGECOIN": 0.40346,
-      "ETHEREUM": 9739.49,
-      "LITECOIN": 227.15,
-      "RIPPLE": 6.26
-    },
-    "indices": {
-      "^WIG20": 3381.38,
-      "^WIG30": 4330.59,
-      "^WIG": 3381.38
-    },
-    "news": [
-      {
-        "title": "Sikorski zapytany o dołączenie Polski do Rady Pokoju. Wskazał na Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUxoVWxFeVk5MFRzeG5tdk14RHpjSk1IMjFQdHdfV2RXUlZma1NWQWw1cV9IZWF1Z1pUMFZpLWdnNHhoWmhOdUdQWmVrR0gyWVJQYTFXTHpGSk5oMVBWT2Vwak1SVHAxYUdvV3N3NFVDamIxOG91cHZiZ25VT0dwbXRBQWg3Q2FZSlJad2pjSlFaSmRSU1BJWVU2UXdJajJEWW1aeDR2U1NGdkhpQkFkMkRjS1VBUU0zQXc?oc=5"
-      },
-      {
-        "title": "KO chce karać za patotreści w sieci. Jest projekt nowelizacji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNyY2UyTDdaZ2hIR0k4NDFGclJlb2J2U29pMFBweTJ0WUpEMU9UQl9DU0R4UEhGSkVKYVg4WUtPRTdna1NCd0c5VHZHMkJlcEdfWExJcENrVmdNejVQOXZXb2JweThHX0xLckIzbE5UaW1jUi1WSDN6QWhURTg3dm5yV3RTeThtc0VlbUJrbUpWdVZFVDhmajJFaHMxdjVRTVg5eDFKLXE3SmNn?oc=5"
-      },
-      {
-        "title": "Jest skarga na europosłów PiS. Irlandka oskarża - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGxPVi1iY1I3cENDaS1QTkstdWVDaFdZY0pMNEd2MWhwTl90cm1wVHBGRjhpZTE5U283OUlIUEhRcXU4STA1RXVNTmlraGRfNjRWVzFLR0hkWUlBTTJJYXpLSTY2V3pmMjlMYWdqYV9hcXR2a0k0VGlfTF9TdVZWNG1CZkF4b3NrMUZkOTJORmVnSlE?oc=5"
-      },
-      {
-        "title": "Dieta i mandat poselski Zbigniewa Ziobry. Jest ruch marszałka Sejmu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFoxY0d6TDBlaUIyQWs4WE0xNUo3ZjBvQlZhTDZRRmNkYXE2Vl83R2NrUDZTLU5GU1Zra1JpYXhZSTh5Mk4tXy12UHV1U2ttbUlXOTJMY082dlRkUzI4YndVTmx4TjBWVVVjQUlqcmZlaUV5VEtCbGtaRUJjT0VFN1NrRXl4Sk84S0tPMVYtOXhPMFdkLWRPQ0E5WjJyLWZVeHBqQjdESEhnaWlLS29uaEFIeURWZnZhbEczc1JPM0s0R0FyZGZYNGpiY0ZYZWVKMGg5dg?oc=5"
-      },
-      {
-        "title": "Usterka rządowego samolotu. Maszyna musiała zawrócić na lotnisko - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHEyQU5CYXNhSGRjVU95T1VHQ1Rld3ltNmpkd0pFSWE3bUR6WU5XQ0VKTnFwY2drUl82WHhQanZmVWp4cUgxOXliSGkxMDA0Ul9mNXZXT3lxV19hcnBYbEdJc3phMTlZQXQ3MHduNVVUczFXRl80YjJyYmJZVXhRYUhJaFUtaTBzUkdqMmIxSjFpUVhHWWVVSjkyMTJ3cG01WGFlMXBn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-29 21:23:01",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Tyle zarobił już dokument o Melanii Trump. Analitycy tego nie przewidzieli - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3hsazNFX216eUhpUHFWV1V5THFuYmFieFFSVHo1UmdGZmFhcHdGQnpVRUplRmV1eUdZTWN0OUlqdkxrX1BUNVppdHpOUlY0aW51QUR5Qm5zVWJmV0xLbXhKajZpRVU2TjdXQWxfbFVhdWdZcDV2Tk9tOTNaUFhsWi04c0xrM0l3R0NjZVVockZpSGdHbmdrQjRfNTI0cU5WcUdUX3pqejlsN21CUlZ5eWE3VHVfRzdiUXhSQ2NnUl94Z3FxZkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-01 07:43:03",
+    "weather": {
+      "Warsaw": "Warsaw: -16°C",
+      "Kraków": "Krakow: -12°C",
+      "Gdańsk": "Gdansk: -16°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 278999,
+      "DOGECOIN": 0.373264,
+      "ETHEREUM": 8594.34,
+      "LITECOIN": 210.42,
+      "RIPPLE": 5.9
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Balony z Białorusi nad Polską. Wyjaśniamy, jak działają - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzVuOU1HVFl5TFlxaDc3eG1sQmNqSVJaOXNhOEJzRWE1cHE2MWhWd2pqNnAwakEtWlRKWDRnQnpwM000RHZjU2ZkUHJJMVdIODUtS3BmMU1oekhGNWxCMjluNE5DVnVOYzg3cXVJYWtRaFhqaVVkMFFJNGp0ckhrNFZFS1g1M2ZBNVJ2aVNDZjQtbVdM?oc=5"
+      },
+      {
+        "title": "Pytania o stan zdrowia Trumpa będą powracać [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0lHMlBBOWNrSkRvUHNxLUt0S1ZlYmc4VXJGc1VZOUtzVHVoY2FUYXBXRnFnbXdkVjdVdjFXMDVXdEcyekNKcURPZU04YUxOMmtRQ3RBbG0xOTA1Z0FjU3VPNkdaTTlvOTIwRHFERHNpclJEemQ5NEpmU0ZaWlNMaUtvMkF5blBGc3hCUDBOeGJaa2xQUXV1Ng?oc=5"
+      },
+      {
+        "title": "Zima stawia Toruń na równe nogi. Służby w pełnej gotowości na najgorsze noce - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnh4eXJhVFRvWUFqRFhkYnBEdFdRRGxFZmE5Zm40bWI2Wm9vcmtKRDBIbmZweFRSWUFUMkhod3kwSUk0OElvenBSdHcxTFlMdmU1ZUpLWDFHY3Fqc3hBbUF1T1c4VGMzc2lDU196MkxNbFRmdXlFeTZNLUdIWlZWa2lxR21kVmFWTTgxamNyRGNWamxhSVd5ZWNnRl9YWnZ5TndkYjJEWUQ4YW03OVRYbGVOMA?oc=5"
+      },
+      {
+        "title": "Konfederacja i Braun zatopią PiS? Sondaż powinien zmartwić Kaczyńskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGhYaXMtcVI0ZzZOVzFxeVBXeDY3aXI1OFUyWUkySDhoeWJRdFJUcWZuUHQxbDVNeE1yeHViRFR2X1VOZG1lOTktQ0d3TG5OWjFyRmxwU1RpYVVydE9jSC1rX2k1OE1ldGtNSlBEWFViMTBUclowTmdieXVtSmRaamFadlpMMnMzQklud0hmWkMyVGVlYXJXQWprWG9kTVRHWGJvWTlab2xNTTMwYTd3X3NEaw?oc=5"
+      },
+      {
+        "title": "Bitwa na ulicach Turynu. Premier Meloni grzmi o \"wrogach państwa\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1ZVUmVpUVhucTBfaXdlX3I5OVZxRXRJN3NNeG5IdWpBZ1haeHM1UVpPUFg5YnM0S2cxY3FILUliZ1ZzMFNjaVpmMEFiNXp0SkphWDJpOUxuNkxjUUFXb0NyNzN2d1pxRU1ZaEwwNG5FZmpPMWZ2MzNzMkxBckZmaGxNbzYzc3lGYTRUeTF0M1NhWFdVcjcxblk3QjBGR1ZQRHpnZFZDckFienZudUxVTA?oc=5"
       }
     ]
   }
