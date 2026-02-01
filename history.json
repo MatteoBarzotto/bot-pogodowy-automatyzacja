@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30 15:30:26",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 292874,
-      "DOGECOIN": 0.4067,
-      "ETHEREUM": 9650.78,
-      "LITECOIN": 227.79,
-      "RIPPLE": 6.21
-    },
-    "indices": {
-      "^WIG20": 3381.11,
-      "^WIG30": 4337.13,
-      "^WIG": 3381.11
-    },
-    "news": [
-      {
-        "title": "Mróz znad Rosji uderzy z wielką siłą. Temperatura odczuwalna spadnie do -35 st. C - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR2hIYVBHRUxvclkwdXZVV25NMVNVb3lNcUZ5R0pEUFY0Zm9OemNhQWFtMlBBMGhxLTdjdGltNjQtZW9KeTZ6THAzZEFQUWhEbGJvZXczcE5BTmdjeE5IR1E1UTVpNmcyWWFtWlFsbWRlQ3dPcURIVUl2UzNUNTRVMEVveUIxNHZDWFhIN2xlOWpRLUUtM1JxVWpsWDRzcjJodmFpS1Q3WVZTczhGdGFoVzlZdzB3ZDk2LURaM1BVZGRFaE40b1RiSjg3SnNtNU1SNzZz?oc=5"
-      },
-      {
-        "title": "Pożar w Ząbkach. Biegli podali jego możliwą przyczynę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3NLQTBUQ2tJeFRPSHNrV3dLVE0zSVl2eW5zQ3JRWm9NS21OQU9TRDI3UFZnaFBLc1ZCMWpNWVFTckxjWHZJeWRsMkthenVfYWQxYlRPcjZrYXFhX3hRMGVPWTM5NHY1bjF0NGZ1a3BLTE02ZlpzU1piaVNBRWNnQkFrM041TjJiMFY2N2JrVXo0Zw?oc=5"
-      },
-      {
-        "title": "Zniszczenia w bazie NATO. Nie byli w stanie ochronić myśliwców F-16 - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmhPUUlwd2I2SkRJWkpWdE8teG5CR3pYWk13MVMwUnlnV3Q1QzNUUDVhcHRXMlZwSnVMUURzX3FtUkM0M1JIazZPWU1aRC1xN21ydjdpTkxXMDNkejRTZkRHcU53M1RuOHMxaTRtVHBnOFcxeVNSN2V1VUxMd3ZVUE16Y0phUjVWQUk5azc1ZEtIMFc0YVZZWUlnUUxERlVEMzR3MllR?oc=5"
-      },
-      {
-        "title": "\"Ktoś chce go wyrzucić z sań\". U Hołowni zaczęło się liczenie szabel. Co czeka koalicję? - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZHR1YtQnQ2UTJZQW5RZFhyYmxpSUNiWlBvd1hCV2xKTFRSLXJzWEZBZWhRU2ItcGtWaXo4dVV3M09zRzRaM01MMVhXaFZ5eXlQMFBpcDlXT095TGpoUkFWSTlVVlhfc0ZOdlcwUzAwV2tTa0tCUmFDd2trVXhUeU1JWGctOFBzS2ktLXBWMjAzNlpxSnN4b2E5TVhGMzFUME82czFxRlhFRWRBbkxZZmdkVQ?oc=5"
-      },
-      {
-        "title": "Umowa na system antydronowy SAN. Donald Tusk: absolutny przełom - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkJZYnV2R1ZTYm9HNmxyYjNsb0N3R05UT2ZnelRiQ3JWVWl3NUgzZEoybG9udFRjckNvcTJ1MVFJZE8xWFlFNVFQaUdaVGZRQW9TUzRkRzNGQ21ZbFh2aGRnQnFMT25VbHhRVGlaQ0psTzJaZUF4ZHdxM2ZkMWpKUFZLdjQ1bUZFR09nVFBkeFVELXJQb2YtN3dUbTUwUGxFVzlfUFZiMTA0aWJsNm5mbzc2YmpFRmc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-30 16:27:19",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Trzęsienie ziemi w dolnośląskiej policji. Kolejny naczelnik do dymisji - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0hPUDFHbDNUdVNTaXRsOW5CdGFrTkhoOW1fNDVCOWYxTnVYVkNWa2NxOGFYcWI0NmdlWG5rVllmb2NHdDU5REdZS1l6bDlEaWJqaDVWYXhJbnA5NURRZldMS2JfTG94WU9QVlpldFMyVkNtWHJoZU1TdDZCYUloUFlkVG51RXBUOGh3ZXZvN0hyNzFIaGxacU1HY3lCRDdxMTVZSEYwalRNeTdLSGJPZ2pR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-01 23:17:21",
+    "weather": {
+      "Warsaw": "Warsaw: -15°C",
+      "Kraków": "Krakow: -9°C",
+      "Gdańsk": "Gdansk: -17°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 274826,
+      "DOGECOIN": 0.372995,
+      "ETHEREUM": 8246.74,
+      "LITECOIN": 209.78,
+      "RIPPLE": 5.7
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Szkoły w Warszawie odwołują lekcje z powodu mrozu. \"To decyzje dyrektorów\" - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN21YSllGQnNZanFmUjFJTElWc0VZWkJpLURGWW9PaVFPbTJZUGlkbFpYT2RnV3hlVjhzcV9ackZKdFp2MWJrVkhVQ2U5U09xNWFHRkJQbmtMZnpEOFBBcFJsbzVaV2U4ZkFHYmxlc1M5bVo2NE1BTEE1T1QyM1FJUTFFR2c5YkJVNy02aVpzTHBLZkpyaTJMaHBrUGl0RVM2eUxRb0tMbk5pZzBwYVNYUGpvYXVKMWFBTVA2eA?oc=5"
+      },
+      {
+        "title": "Wojna na szczycie władzy. Tysiące oburzonych Czechów wyszło na ulice - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalB0TEJOb2RoZ2pkZmp5dFpndEZWMnJaa3prY0c2d05fNE0xWWlaZVRMTHBCTjdGLV9URUlXTmlUaVRYYUdrRFdVVnFPdHM5T3RXNlhldjNScV9ZMXNQNnZoaWJXRm0xbmo2YXJ1Q29OSG4zV21CM3NYZUh2cm94bUVWckgzdnhWWXZKaWtlV2F1MTRFWGtmVVczcE1mUm5aNmdEMDJEWDl2M0FneHBr?oc=5"
+      },
+      {
+        "title": "Rzeka zamarzła, ludzie wyszli tłumnie na lód. W komentarzach wrze, mamy stanowisko policji - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlJDd2lMUjhFZlBYZU9PcU44Vkw5OFlHRjNCOElfNFhiMV95YzlyQWNlQkVMM2RCcGJpM2pDcFFEQW5PdGhtLUdNYmVIa3RmZDJHOXlrNG5mTFpSczhta2xveG53QlJzcmtXRXpNYmJFRkY4Wlc2UWxjaXd0ZnNCNmNGX3NVS0hMUGd3dzNvUFlYN2cwVmJ4bVo0V3N6OXc0Ym05WG5xYTZWTEE4X1NYQlhNY2tzYmw3SXNnRnYzM1dEVUpvS1VhZGJzc3JUS00?oc=5"
+      },
+      {
+        "title": "Śmierć 46-letniej Polki pod Londynem. Policja apeluje do świadków - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2V0TXhaZEdteWRKeEwtNFQ3R1Frc3FnUmNaVnhRbmFwMjd3ZVVtOTVkUjUwVk1OZnFhNmNkZ1NSTjZTYW43Y3QyZnJETEItZjNXd1hZSmNvYS1MWWlydHh6c2c0d0p4SXV0blRYSkNwVFdBX3FMcmFMZ2VDc3JLbWxnc2EyYkppdEtucGtRcXVHbVhQeEtiaDEySlQtUl9LT1UtanMwbzA?oc=5"
+      },
+      {
+        "title": "Tragedia podczas kuligu. Mężczyzna zginął na miejscu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjVRZDZGOE1DT2NEWloweTF4bFJydnlpN1Z4QkJvY3RIdXA0bEIxd2lrTUhCTlNlTjJTOEoteWI4RjRSeV8tWmhObi1QT2RWem9iLXdmNk1JWU54dzFkNWUtRDJNd29qWW5OanMteDZ5Nm1MSzhJcjNSWnZISVVJVEFGTnFiVjhScU1oSW9uRVhuZ0tmU1plUHRn?oc=5"
       }
     ]
   }
