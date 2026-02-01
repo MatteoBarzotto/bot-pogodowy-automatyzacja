@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30 09:30:12",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5189,
-      "EUR": 4.2072,
-      "GBP": 4.8574,
-      "CHF": 4.583,
-      "JPY": 0.022951,
-      "AUD": 2.483,
-      "CAD": 2.6002,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 291315,
-      "DOGECOIN": 0.403084,
-      "ETHEREUM": 9650.65,
-      "LITECOIN": 226.3,
-      "RIPPLE": 6.19
-    },
-    "indices": {
-      "^WIG20": 3366.94,
-      "^WIG30": 4317.26,
-      "^WIG": 3366.94
-    },
-    "news": [
-      {
-        "title": "Zaledwie 11 mln Polaków? Eksperci: Rząd nie przejmuje się demografią - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnBwUVlRZkJGbVhNaW9BN29KRHlhRjQ4bXYxMGRhYXB6ZVF2MVVzS3pUeDZXUDlreWhBYnZaWjNCUml6ZWNRRTdIaWY5YWZqTHU3a09vSk9DRUZ6NUc1X09ZTVpsN2NUYU01Sko1cTU2R3NGQU1MZktYMkx4bmFKdmJhVGJvbndyYjB3TERUd2g4OGtlZ192clVLbTVMNnp2TmhNRDJJd0FNTFN3R0I4X1NoR1o5LVptT2VBSERn?oc=5"
-      },
-      {
-        "title": "Tajne spotkania separatystów z administracją Trumpa. Premier Kanady reaguje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1gzc2ZYRXQtcVktTkNab0xrUTllQWozNXpBbnBqWERSelJWN3R0RlBRQmZ0bkVmQnlXTjEzOXRTa3JRVU1SbXZHd2JKYXk2eXlYSXZqTWZYdHhZbmU3Q2s5UFZLTzJVOTFjUVBQVmRFVWpLT2RlNGRyRHJlcWRqZThPRzN0bWN6cmthZlh5ZTktanZ1V2NNRHlvZ3o3NmFnMEFVTHhMQzg5UUNiczZGeHVRODIzUQ?oc=5"
-      },
-      {
-        "title": "Rosjanie zadali nocny cios Ukrainie. Wzięli na cel domy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXpmMzVuTmFDa2JRYUw1bS1uZUxkejNsdlQxYWRZdHc2eVNWR2dLbU5fQmFidlhVNjVPWVoxa2Q1WExhdjJ4alctMGpaMjZIQjFUNXNUXzRIaHlpOHBUVDNTTDd4R0lTVWVxNWczU0FRQmh6Si1vZlBkaWZzckthT3NFdGJqRzduamxGd2ZpWFlhR2lmUEpJRlgtN1J1Z1JkUnVubEtwb2FFVFcwRzdxcTVyUkU2ejRC?oc=5"
-      },
-      {
-        "title": "KO chce karać za patotreści w sieci. Jest projekt nowelizacji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNyY2UyTDdaZ2hIR0k4NDFGclJlb2J2U29pMFBweTJ0WUpEMU9UQl9DU0R4UEhGSkVKYVg4WUtPRTdna1NCd0c5VHZHMkJlcEdfWExJcENrVmdNejVQOXZXb2JweThHX0xLckIzbE5UaW1jUi1WSDN6QWhURTg3dm5yV3RTeThtc0VlbUJrbUpWdVZFVDhmajJFaHMxdjVRTVg5eDFKLXE3SmNn?oc=5"
-      },
-      {
-        "title": "\"Moi przyjaciele\". Amerykańska senator zwróciła się do Polaków - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG9wQTNSYW90SkJGNWxFOWJMWWtnSXh3NzJOY25kb01JekppRmFETTljVktGXzJia1M2UjFuenlsNm9ZRThKdmNVMlFzVWZrNER3emplYTkzUG9vSU1RS0NLRF9lRlZjQkNrbHNYZnU5TElRZWlTT2lqWWNsN1lMVmctUjRaeGE3b09laElxQWx6TlhyS0tZSXAyZlNvQWhjbTlOeA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-30 10:32:11",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Oto \"premier Trumpa\". To on odpowiada za najbardziej ekstremalne polityki administracji USA [OPINIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORW9Sa21aekMxN1B3ZV9jZThrdkQ2TlNXQWs4QkFqRkNmMS1wcXg2MWVKTFFoa0tFRHMteVBxZGZESEZEV0VNa3U5RkxCeHFsYVNqdV9hTm9aNENXR05kWlB3XzRzN3N3cm1OWUdfa2EzVUFTeERQLXd3MWV5OXBjUHpEeUYwOGNNSjR0bUgzZkFTOVFma09DWnVUdllUSEZXVElIdTE4a0VUOHFmekNZQWtMcTRzSHNXN1lSVWZrc2dBcVhtckRWQ1VEenRtRjNyYl9ETQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-01 17:21:09",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -13°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 273909,
+      "DOGECOIN": 0.367554,
+      "ETHEREUM": 8129.29,
+      "LITECOIN": 206.58,
+      "RIPPLE": 5.64
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Niż genueński namiesza w pogodzie. Śnieżyce i gołoledź mogą sparaliżować Polskę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG1tV0ozWXJPNTlBcms2LU8ybVFmVkhJMnc3Y0xNSmRSSnBCRGg1S0JGSUxXMGhVZjREVkdLeGVtR0JMdXdXRWdqQzBKQ0o0TW52NFF3QXJmS2g0Yk9FdUJBTEE4c0N1TUpReG1pemR2c09qU3hOSTVRczlnNDNMYjVYX0xISENaYWdqa0g0aThkbWRaSGh1a0ROOGd6Mm9kLUdoTHJoQ1JjUWE0ckdodHczZnhiYjNNY085ck93dzluY2xqM0NLYW9ZWWFjZlRnVzFNd2tuZUc?oc=5"
+      },
+      {
+        "title": "Przez siarczyste mrozy odwołują lekcje w szkołach. \"Robimy to w trosce o dzieci\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXh5YjZmTklCT0dZQUhpTmpRSlVieWMzUkd5UnN5ZmsxRUNtMU1Gb3YzZ0JpRjMtVHl0ZW9jY0lJTDREZnpLMzJYNnRva0RUUFRtMm00TXFxNS1vcTZoTmJydlM4Vm1DbGxiY2RHZHBkanM4TFFmZ2pkXzhuMzlyeE9NNGhIZ0V1azU0WEJhd2hqcVRxZXp4UUhmVXA2c0dKeFI2cVFHTjZTbDF2TTdWODVqVXEtNFoyWHlucQ?oc=5"
+      },
+      {
+        "title": "Konfederacja i Braun zatopią PiS? Sondaż powinien zmartwić Kaczyńskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGhYaXMtcVI0ZzZOVzFxeVBXeDY3aXI1OFUyWUkySDhoeWJRdFJUcWZuUHQxbDVNeE1yeHViRFR2X1VOZG1lOTktQ0d3TG5OWjFyRmxwU1RpYVVydE9jSC1rX2k1OE1ldGtNSlBEWFViMTBUclowTmdieXVtSmRaamFadlpMMnMzQklud0hmWkMyVGVlYXJXQWprWG9kTVRHWGJvWTlab2xNTTMwYTd3X3NEaw?oc=5"
+      },
+      {
+        "title": "Protest na zakopiance w Gaju. Duże utrudnienia dla kierowców - Kraków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFNuSXQ3d082aTZqeHFPVlBFQWY1SDZualJPamFmdnhUNW16c3JqR3FiQTRpUlVhZWViRTRBTGxRa3FPak5DUDNYZnJqRzM0VzJ0cU4tZVRiS3N5VXQ0TTJfYktOdE1GVUNsb01zb25rVmxTeGh2UmJrOTVQdmZiMTQwY1VaQW42aEhfdE8xaFZkUkxibXhpTU9IVlJ5N3V3bGJDRkhCNEMyMVJ1UmRZSg?oc=5"
+      },
+      {
+        "title": "Rzeka zamarzła, ludzie wyszli tłumnie na lód. W komentarzach wrze, mamy stanowisko policji - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlJDd2lMUjhFZlBYZU9PcU44Vkw5OFlHRjNCOElfNFhiMV95YzlyQWNlQkVMM2RCcGJpM2pDcFFEQW5PdGhtLUdNYmVIa3RmZDJHOXlrNG5mTFpSczhta2xveG53QlJzcmtXRXpNYmJFRkY4Wlc2UWxjaXd0ZnNCNmNGX3NVS0hMUGd3dzNvUFlYN2cwVmJ4bVo0V3N6OXc0Ym05WG5xYTZWTEE4X1NYQlhNY2tzYmw3SXNnRnYzM1dEVUpvS1VhZGJzc3JUS00?oc=5"
       }
     ]
   }
