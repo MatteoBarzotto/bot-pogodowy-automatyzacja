@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30 00:20:19",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5189,
-      "EUR": 4.2072,
-      "GBP": 4.8574,
-      "CHF": 4.583,
-      "JPY": 0.022951,
-      "AUD": 2.483,
-      "CAD": 2.6002,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 296499,
-      "DOGECOIN": 0.409609,
-      "ETHEREUM": 9880.79,
-      "LITECOIN": 230.93,
-      "RIPPLE": 6.31
-    },
-    "indices": {
-      "^WIG20": 3381.38,
-      "^WIG30": 4330.59,
-      "^WIG": 3381.38
-    },
-    "news": [
-      {
-        "title": "Sikorski zapytany o dołączenie Polski do Rady Pokoju. Wskazał na Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUxoVWxFeVk5MFRzeG5tdk14RHpjSk1IMjFQdHdfV2RXUlZma1NWQWw1cV9IZWF1Z1pUMFZpLWdnNHhoWmhOdUdQWmVrR0gyWVJQYTFXTHpGSk5oMVBWT2Vwak1SVHAxYUdvV3N3NFVDamIxOG91cHZiZ25VT0dwbXRBQWg3Q2FZSlJad2pjSlFaSmRSU1BJWVU2UXdJajJEWW1aeDR2U1NGdkhpQkFkMkRjS1VBUU0zQXc?oc=5"
-      },
-      {
-        "title": "Rzecznik Karola Nawrockiego krytykuje KO i Lewicę. \"Stchórzyli\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenQ0dHJHSnB3c1J5b0g4MHhuUWpBWGVkbVVMNzN1T3cyc1E3WmZtNmpkOEZJc3IwZjV5TUZZTU1YZ2dteWY4dmdqLWhWTFdXWUlwMXR1QS1lMUVaMFN0c1RZM0dfMXQzcHFZbVplcENGRE9QcTV1cGtwWG53cUR6TGw1NzFiaGRRYnVhMWpPOUZwSGZudVRMWERrSVc3VDBWbGkxODU4VXVUNlR5eFBscGNrMkpEcGM?oc=5"
-      },
-      {
-        "title": "KO chce karać za patotreści w sieci. Jest projekt nowelizacji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNyY2UyTDdaZ2hIR0k4NDFGclJlb2J2U29pMFBweTJ0WUpEMU9UQl9DU0R4UEhGSkVKYVg4WUtPRTdna1NCd0c5VHZHMkJlcEdfWExJcENrVmdNejVQOXZXb2JweThHX0xLckIzbE5UaW1jUi1WSDN6QWhURTg3dm5yV3RTeThtc0VlbUJrbUpWdVZFVDhmajJFaHMxdjVRTVg5eDFKLXE3SmNn?oc=5"
-      },
-      {
-        "title": "Rosjanie używają Starlinka. Ukraina o reakcji Muska - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDljc3RqeXlfaHNfcVlXUV9BV2dUZFM3Z1lmR09lcUZRdWk2R3lfZ2h1T0w3dWtZUEh2N210bTVSZkpQZ0txTmZkWHdDaEtFbkdFNUFFNExaN2NCX0FWUE1hTTRobjktaGhybFNzSzhCeDdMU05tUHBNYUpzZmhUMDZlazZQNU5vWHNmQUMwd093VGExTFZkNw?oc=5"
-      },
-      {
-        "title": "Nie żyje założyciel Roman Gawłowski. Biznesmen upadł na lodzie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXUwSVZkS0l6TVd0eGtCdTJuMEJKUV9XYkJ5SklPbE9rZnRkZTJ0elZIUnZGSXFoZGp0ZzhwRm5fUHJkYmNPUVd0ZGhIeTVNZHc1dnRqNVVUU08tSHRVeF9xSzVCenNadjE4a2k5TDB0TVlhTl9mSXl4Y09sLXFXVG5WcF9pMGMzMHVONWxfbG9HMGU4U1EzaXBjZ1RaNGwyZ0xCaGtidjZzQl9GcHVpSTUyU0xzYVNJRHJJ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-30 02:25:14",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Iran odpowiada na ruch UE. \"Ślepe posłuszeństwo wobec USA\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2RZTm5OY19WeEEtY2QydmN2bVVZX2VUeWZseW1XUG0tVFBjVE9LMkEzNjNkSFhCaEVveHZtT2hSY0draHQyVkM3ZjRWVGNRaDVRYXY1Q3g2VmU0X0w5ZGNKaTUwYTJ0U0ppX01yejcyUFJPUWJxMkxvS00wMGdSeHRTeEFZbGVxbnRnVFAxT2t5YTFZYVdOc2hEbmI1Rm1HU3NVYWJMQm4zNGhuR3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-01 11:19:15",
+    "weather": {
+      "Warsaw": "Warsaw: -13°C",
+      "Kraków": "Krakow: -12°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 280342,
+      "DOGECOIN": 0.376574,
+      "ETHEREUM": 8620.85,
+      "LITECOIN": 211.31,
+      "RIPPLE": 5.9
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Niż genueński namiesza w pogodzie. Nadciągają śnieżyce i gołoledź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG1tV0ozWXJPNTlBcms2LU8ybVFmVkhJMnc3Y0xNSmRSSnBCRGg1S0JGSUxXMGhVZjREVkdLeGVtR0JMdXdXRWdqQzBKQ0o0TW52NFF3QXJmS2g0Yk9FdUJBTEE4c0N1TUpReG1pemR2c09qU3hOSTVRczlnNDNMYjVYX0xISENaYWdqa0g0aThkbWRaSGh1a0ROOGd6Mm9kLUdoTHJoQ1JjUWE0ckdodHczZnhiYjNNY085ck93dzluY2xqM0NLYW9ZWWFjZlRnVzFNd2tuZUc?oc=5"
+      },
+      {
+        "title": "Agenci ICE zatrzymali 5-latka. Jest decyzja sądu w sprawie chłopca - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnF4cHNwWWVFUHdtSk1LeXZYVUNJNHNiUTlVNUVTbFE4YUtNQVlXVndzVGhja2JTT1BBaFVxSmE0MWtUa3pjTzJCWkJDcmNUNlRFZ21yZGtmRXQxMlRreEZXdmFMeEpXQlJOZUVudUZmTEVvb252Vk1xUXcyb3R4WkhtRi1LTldpeE9pTFE4ZEFramN6WFoyY3JTb1ViUDJ3dFlsdFNZMFQtZw?oc=5"
+      },
+      {
+        "title": "Konfederacja i Braun zatopią PiS? Sondaż powinien zmartwić Kaczyńskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGhYaXMtcVI0ZzZOVzFxeVBXeDY3aXI1OFUyWUkySDhoeWJRdFJUcWZuUHQxbDVNeE1yeHViRFR2X1VOZG1lOTktQ0d3TG5OWjFyRmxwU1RpYVVydE9jSC1rX2k1OE1ldGtNSlBEWFViMTBUclowTmdieXVtSmRaamFadlpMMnMzQklud0hmWkMyVGVlYXJXQWprWG9kTVRHWGJvWTlab2xNTTMwYTd3X3NEaw?oc=5"
+      },
+      {
+        "title": "\"To już nie te czasy\". Oto dlaczego Polscy emigranci wracają do kraju - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlBwak1TbDAya0ZXYnlkQU9SSlFLdlg1RzVkVjBBSk9GWklLN0RqWDNfbFdFRkZTRzBiSFctbW5WU3JrWE9FcWJwNU5yTWgxeTZkbGpVWS05eFhVOV83UWQxWURCQ01VSDJmbWFOZDB1bHZMZHBqX2dwTGlISVRmS1RQcXlCc19IRzRoMTlCRTRvUjdVMnZEYks5Y3pQZkpDNmd1bXBIS3dDSVktNm90Ri1lNW8?oc=5"
+      },
+      {
+        "title": "Komunikat służb. Białoruś naruszyła polską przestrzeń powietrzną - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGx6TEhtZXZab2F5SkdId2Rqd0ZPUWppYUtrSnlPQ3k1bzJocnhlaHVCT0dVRHdQV0ZydGYtSF9IZEROc3BXSW0xbTlBZ1V2aWVIVGpHaUFjWTFIWEpwM3RTeHZMd2txelVsMGM4YzdlSDhaaEtLOG10WVJ0VXBENzhKcW8xQlE5ejBlTGZ6QWR5S0Q1Y1pjaGtZRngyVFJBY2NDUE1pcWFVQQ?oc=5"
       }
     ]
   }
