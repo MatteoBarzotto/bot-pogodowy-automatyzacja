@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30 05:03:29",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5189,
-      "EUR": 4.2072,
-      "GBP": 4.8574,
-      "CHF": 4.583,
-      "JPY": 0.022951,
-      "AUD": 2.483,
-      "CAD": 2.6002,
-      "CNY": 0.5066
-    },
-    "crypto": {
-      "BITCOIN": 291561,
-      "DOGECOIN": 0.40291,
-      "ETHEREUM": 9656.54,
-      "LITECOIN": 225.62,
-      "RIPPLE": 6.17
-    },
-    "indices": {
-      "^WIG20": 3381.38,
-      "^WIG30": 4330.59,
-      "^WIG": 3381.38
-    },
-    "news": [
-      {
-        "title": "Rzecznik Karola Nawrockiego krytykuje KO i Lewicę. \"Stchórzyli\" [RELACJA NA ŻYWO] - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenQ0dHJHSnB3c1J5b0g4MHhuUWpBWGVkbVVMNzN1T3cyc1E3WmZtNmpkOEZJc3IwZjV5TUZZTU1YZ2dteWY4dmdqLWhWTFdXWUlwMXR1QS1lMUVaMFN0c1RZM0dfMXQzcHFZbVplcENGRE9QcTV1cGtwWG53cUR6TGw1NzFiaGRRYnVhMWpPOUZwSGZudVRMWERrSVc3VDBWbGkxODU4VXVUNlR5eFBscGNrMkpEcGM?oc=5"
-      },
-      {
-        "title": "Chińska rakieta nad Polską. RCB wydało komunikat - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHB1MVdMRnREaXZBZnBHRlFnRVlWLWpMMXdaMUlaQWN2dFNIR1JrY0tlRTRpVmxUZmNqcGdLZTdfV1dmQUNBUmhSYkZ3OTdVS2x1UEY0VFNjZTJrWDBkMnA3eE8tWXlTT2hlSnVIdk1uTzNyVVRzQ21qTVNMYUFNSVUyRUZjeXFCeEVIc0pyV2R5bV9u?oc=5"
-      },
-      {
-        "title": "Samolot z szefem polskiego MON zawrócony do Warszawy. Podano powód - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV096aWRQQUg1SkJ6aXdhUFMwM3d3YVRlTTJTdXotOWVSWTc5bXZVMEI5YXBQLUllOHdnanR2MmdmSnB1ZzdYLTY3cTdYWmJzdGp6N0xKR05DWUZnSzlhMnEyQmYxU2IwWkJpblFOTGRjLXVPR213SUZCOVZZUlR5SnJLOUtZSTZqaVM4cERjN1FKS3lXUEs2RHhZaE01Nm5wcXhYOE85SXFTTTJBYjJDMW9n?oc=5"
-      },
-      {
-        "title": "Rośnie napięcie wokół Iranu. Rosja dostarcza reżimowi śmigłowce - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcTFWV2R2VzNwcTh3b2xyLXlRT1cxRERWRlVQSVc2NTE2V3NlaUlUREY1OHJWOTh1QWJ6allsSWRqeVNJY0Eya3AzNC1JVTFVSkxCVXd2VFd2OGZ2MlZxVG9tNEZ4NW9Uc1NOQk8xV0dxTmRVaksyNy1xbWFlWUhxZ0lzNWpfa1pwa0x1VkZmdUZZWFoxa1hUTXhNWkF1YmJ1TWpnbkVaMTBHaTJ1YktySmZSTHVjeDFNVXpBS0lLUi0?oc=5"
-      },
-      {
-        "title": "Jerzy Owsiak apeluje po finale WOŚP. \"Nie powtarzajcie tego stwierdzenia\" - Plejada",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0ZPNW95RS1JdEtXcjQ0XzlvZUdHbTRER2dmSjNKVDk1eVdYbkhSVkk0bG5ZVXdOU1ZaSldOeDJCMkl0MktIc3hMNng5RDdORnlhTEl6SWNud0ZTRVgxelVhbFZwUlp6VzNxenF6STBLVVpyQUh4NS1RMS1sRHFYeDhaa1B4Q0o2ZDlEbTMyTVRMLUF6amVFUGdhWXlPTl9Fb2tYdkZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-30 06:41:14",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "\"Grupy terrorystyczne\", czyli, według Iranu, armie państw UE - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTd6Q1RIM1B1WkNnOTBqd3V2RExuU1BZRjhBZXZlU1I3c1VWejVxUnVWNExFS0oyaVZRV1JtOG5hZ2NXZ1FMZ3lEYWpuTEY2NEhjVkd4YnlNZ3VreUw2NTdjMFJZOVlfYXMzYS11UzN4R0FtQjZOTFBoeUZnLThmeU5SdmI5VUo5UHZRWnJyNHI5b1RYYWZxN0RGRlh3WEU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-01 13:35:18",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 278442,
+      "DOGECOIN": 0.374837,
+      "ETHEREUM": 8499.89,
+      "LITECOIN": 209.58,
+      "RIPPLE": 5.81
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Niż genueński namiesza w pogodzie. Nadciągają śnieżyce i gołoledź - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG1tV0ozWXJPNTlBcms2LU8ybVFmVkhJMnc3Y0xNSmRSSnBCRGg1S0JGSUxXMGhVZjREVkdLeGVtR0JMdXdXRWdqQzBKQ0o0TW52NFF3QXJmS2g0Yk9FdUJBTEE4c0N1TUpReG1pemR2c09qU3hOSTVRczlnNDNMYjVYX0xISENaYWdqa0g0aThkbWRaSGh1a0ROOGd6Mm9kLUdoTHJoQ1JjUWE0ckdodHczZnhiYjNNY085ck93dzluY2xqM0NLYW9ZWWFjZlRnVzFNd2tuZUc?oc=5"
+      },
+      {
+        "title": "Konfederacja i Braun zatopią PiS? Sondaż powinien zmartwić Kaczyńskiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGhYaXMtcVI0ZzZOVzFxeVBXeDY3aXI1OFUyWUkySDhoeWJRdFJUcWZuUHQxbDVNeE1yeHViRFR2X1VOZG1lOTktQ0d3TG5OWjFyRmxwU1RpYVVydE9jSC1rX2k1OE1ldGtNSlBEWFViMTBUclowTmdieXVtSmRaamFadlpMMnMzQklud0hmWkMyVGVlYXJXQWprWG9kTVRHWGJvWTlab2xNTTMwYTd3X3NEaw?oc=5"
+      },
+      {
+        "title": "Oto \"premier Trumpa\". To on odpowiada za najbardziej ekstremalne polityki administracji USA [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORW9Sa21aekMxN1B3ZV9jZThrdkQ2TlNXQWs4QkFqRkNmMS1wcXg2MWVKTFFoa0tFRHMteVBxZGZESEZEV0VNa3U5RkxCeHFsYVNqdV9hTm9aNENXR05kWlB3XzRzN3N3cm1OWUdfa2EzVUFTeERQLXd3MWV5OXBjUHpEeUYwOGNNSjR0bUgzZkFTOVFma09DWnVUdllUSEZXVElIdTE4a0VUOHFmekNZQWtMcTRzSHNXN1lSVWZrc2dBcVhtckRWQ1VEenRtRjNyYl9ETQ?oc=5"
+      },
+      {
+        "title": "Antyukraiński patostreamer \"Nazar\" znów zatrzymany. \"Na wolności był dwa dni\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkJSeExnMEFlT180eGhrUDVuTHA0MHhVeER3SmRFZWNmNFJnVnJfS0o3RXlMNGwyU1lpdGQ1aEdxNV9RRkNfSFFqLVB4cEVqV19xeFRRTEVUZEtkT080ZkpOOVBkb3A0dGJzTXVKWHZpbExPdmszdHhYaEJsdURLUGNEaldmZTNDaVpPUjVpUmxKaUptM2oyel9VVVE4WlZGLWVUNWFGUzNOUEJzMVNpdFB4ekctUVNpVDVEbjZiU1RUdVFsNVZoYVktVmlKLVl3?oc=5"
+      },
+      {
+        "title": "Kreml wolałby się nie chwalić. Wojna z Ukrainą pobiła niemal wszystkie niechlubne rekordy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTBLZGhwbjlUalhOamtFSWVoSTVwV1E5R2NNTHVfRU1rUDZob1lfYUJ4TElJOWJIZk9SU19KWTVNTjVNa0VQb3dLN0lOLXAzczg2c2ZUbGFtQVpxU2xFVzBHQy1ocDRxdC1TSzVibVRLNlZXNzQyWFJySVN6UUxscldzc1ZMSkJDeDEzUEUwYmJnVW55UmtxRWQ1UkNvOXFwVk1DWGVpaEN3MWxjQ2RBZGNYQUVNVlBEUFhsYWdnWGN4NTcxc2ZIR3ZHZw?oc=5"
       }
     ]
   }
