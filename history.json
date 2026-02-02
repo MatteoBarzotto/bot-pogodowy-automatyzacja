@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31 08:24:10",
-    "weather": {
-      "Warsaw": "Warsaw: -13°C",
-      "Kraków": "Krakow: -7°C",
-      "Gdańsk": "Gdansk: -15°C"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 297205,
-      "DOGECOIN": 0.403466,
-      "ETHEREUM": 9549.42,
-      "LITECOIN": 228.13,
-      "RIPPLE": 6.13
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Naruszenie polskiej przestrzeni powietrznej. Jest komunikat wojska - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0dDOTBienhfN0JkMUxjb0N2eHZ3YThlRTBBcG55SU1xUW4weHpCYlJINWVzTEVRSFVBTU10czRhOGhES3g1a1F4bXhIeENCUGQwRmxMYjVKRzh5dDVialpSVFNqRXZ5b2tLWWRNbkJDZDVrRWVNdlNzRzVBWE9qcXVYeTdXYnEzNUN3dXlYQWpXbnJsRm05VnJabVlKalM4RmJTT21yUjFsWTlx?oc=5"
-      },
-      {
-        "title": "\"Olek stał się memem\". Ujawniamy kulisy walki o przetrwanie prezydenta Krakowa Aleksandra Miszalskiego - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1dIbHZIZ0ozQVl0a0Z0azJ6RXZwWURWNEFtZGJxVlB5UHI4Unp4MDlwSFZORzBCbno1eDBQQU9CZDlGLUItMml1Z0REWUhyUzNLTFpNRHltX29pT3VlWFdwTzVRMHA0QkRuQzUwWUI1bFRaS1RvR2hDTmdldHM1S0t1VHNnZTl4MHRZOThRQm0zQjdzVTVLM1lSc1JfUmdxZUIwMzFEUlUzMVo5Ri0xUVBGTEtMZjd1akxhYg?oc=5"
-      },
-      {
-        "title": "\"Interwencja\". Rodzinna tragedia w Ustce. Sąsiedzi o ataku majora SOP - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3lISTd1SzExUTBZWVk1SFFVRllUYUJBelVnZHlKZGdONml6S3p1SlpkcEw5eTkwZVdEQzNHVnJGQWNVbzdYNUlKNElMdzdYZzdCNS1pN3RGRmlheUtsT1pUWlNJWklKV1JxUHhpbWhENTZfaV83TG1YZjRyWHkwb0dKY1o2R1RzRlF2S3N3SEN6MG1zWExINlRyY2w?oc=5"
-      },
-      {
-        "title": "Europejczycy w kryzysie pesymizmu. Polacy z zaskakującym wynikiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVQxUUtGd243U0pjZnc4WXNkTlZPQkxhQnhudTFaN0tLSkNiRWRnTHRPaGNDU2lNVkxMYnh5aDdyb1RhVjFuYXBMcHdYUWFyYUlJekpHME84c2dUQnVuWW95emt6VDVqSHhyejhhSUdlQTd3UkJfcFdqY08wQVAzREFXc3N6bm5FdFZVdmdTNzBYVUhiQWpjZnZrV2dvSnY5dWQ3X2prWHlhZDNCMkhV?oc=5"
-      },
-      {
-        "title": "Wraca widmo shutdownu w USA. Senat blokuje kluczowy dokument - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMk9LQWZUUEN6WXVIaDhCOWg4VGFpdFc1YnhwdzhoWTNUaUw5ZlExRXQ5b0QtcTg1OTVHenZsUFBzOGQwSVRnN1phQ2RFZkhNMElLTjhNaGZ4N1ZIaWZGd2Z5UlFyWm1HT3U0aHNTZHR0VzNqallYODJfOFNZRG1zMlNwR3FjSUFGaUFQSWFKYy1oemJYUmtYZTV0Q212ZWdiYV9Ka1MzQlNTb2NWbkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-31 09:21:52",
     "weather": {
       "Warsaw": "Warsaw: -13°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Tak mówi się o Polsce w Waszyngtonie. Były ambasador ujawnia - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0s2QXJzVDlGd2RLcVFCelJBRjRINVZ2VGhLU05vZUFLMTdVb1k0dnBlOFhnN21RZEt1a0JqUjVONWZzQ0lqYjRyazBwalVmS3JfMEs0MFZMRTVHTHVDckt6eXZ3djFqQVc3enUtTG5WSjZoOEd0RDVWcHVTMzBsN051Z3AwYmozaVFLQ0xXZGx1ZC1KTko0QW1rYWRTdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-02 17:30:50",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5495,
+      "EUR": 4.2106,
+      "GBP": 4.8658,
+      "CHF": 4.581,
+      "JPY": 0.022934,
+      "AUD": 2.4718,
+      "CAD": 2.604,
+      "CNY": 0.5109
+    },
+    "crypto": {
+      "BITCOIN": 282832,
+      "DOGECOIN": 0.391708,
+      "ETHEREUM": 8517.65,
+      "LITECOIN": 218.18,
+      "RIPPLE": 5.91
+    },
+    "indices": {
+      "^WIG20": 3364.04,
+      "^WIG30": 4327.11,
+      "^WIG": 3364.04
+    },
+    "news": [
+      {
+        "title": "Potężna awaria w Trójmieście. Tysiące osób bez ogrzewania - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHFzLVdZLUtONDU0bVJGMV94LWpsRFE1YjRDbmNrVnNqS2g5VmdFSU0xeE5GTmIydDREM0VyTUd0QzRxc2RKVjQzZS1GalpEV1lWdVRzOVk3Njc0enZneS1kVS1lQzZNN0NLbDZKbjdKWERxd3dLclBQaW1fUFREQlRLM2pfUzBjZzVSN2Z6VC16LUdQUnc4Szg2dC1DMkRKazNNTjlQN0lNYl9UTENZ?oc=5"
+      },
+      {
+        "title": "Polska w okowach mrozu. Zamknięto blisko 300 szkół, trzy osoby nie żyją - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE43b1ZlTDFacE83c1JBUEY1b3lKNjBXTmNDQTZubGV3U3JIR1FWTGpnMHVqcW43TFZYdHRBZ1pHN1dydmFuRU9HbDZ6blNXaEVUQW95TGJhSk5qR2FsTHhXeG9ya1ZRb2ptazRYUlJuWEI0dVdXV3hTSTdJNGdDMlpUbHlTSFQ3RDlnY01KcWpOaW0tLVBsLTljMGpXNlEzcWtmWVdiQWJzN3kwYVZfUGlhbTd6Yjl3?oc=5"
+      },
+      {
+        "title": "Kwalifikacja wojskowa rusza dziś. Ponad 235 tys. wezwań - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmZKbmd4TE1OVjZlcXN1Ym1qcXVVM1EySG1pejV3TFVCT2gzTFRkM2hDcUhIMG5rQVotZTU4VGJkb2JBSVljMHVwNHlES01iWmtmb1pMLUhldUxQYWlIRUxYa21EM0pndnlFekQwcElqdHR0RHBmLXNZZ2tmcmNqUjVSSUpNeE5uRHRmbjBuTDlHZUZKb0owVk1Bckk?oc=5"
+      },
+      {
+        "title": "Obiekty z Białorusi. Polska przestrzeń powietrzna naruszona - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhaWGFOcnhmRFVmMlUxQ184WmlKdGN3ZzZVSnN1WXFVc2tOTVVDWWFVS0syVFBqOWMwTklvbENoOUZnTzFFWFh3Uk1YbHl6SlFhN0ZNM05ldnFmLXVGczdyVW9Ja3FDTGtFaHFfazd6enN0eFQtajhEWWZHVUpjcXBfVDNfb0hmcUNMN1lVdEZ1alptdFVzRTN5VHR2UQ?oc=5"
+      },
+      {
+        "title": "Tragiczne skutki zimy w Polsce. Liczba ofiar rośnie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakhic1JQUnFLdjNCeUk4aHBob0RlVjA3by02Q19jZGp2dVRBT2Q5NkVGNW5nREd0c3NQQ1c2SFRWVDg2dldXZXdQN3RDUVRRVTN1Vk1oNkJyRUdPVDMwTTF3a2sxZ1FtUEFmcU1FQ3pYSXRnVHRmNmgxaTFneDNOcU4tdFFoajR2ZGFiM1gzNmJJbV9GV2JKag?oc=5"
       }
     ]
   }
