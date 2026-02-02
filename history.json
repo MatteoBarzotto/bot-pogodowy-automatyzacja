@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31 07:30:09",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 297050,
-      "DOGECOIN": 0.40525,
-      "ETHEREUM": 9539.28,
-      "LITECOIN": 228.35,
-      "RIPPLE": 6.15
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Amerykańska armada spłoszyła Teheran. Iran gotowy do wznowienia negocjacji. Trump komentuje - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjljWmcyMDBaNmZ1aFdjOWV6SlBIRHZpNHp0ajhIVkxXZlB0QTVZcTRCSEswZmlnaUVpWGw5aEhmWjQ2UHlrWnNwbjlySW9lTi1JMkttam5SUGlFcEFkUUN1Mml4bF9Ka0QyRVFscUhha2FSQTNz?oc=5"
-      },
-      {
-        "title": "Europejczycy w kryzysie pesymizmu. Polacy z zaskakującym wynikiem - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVQxUUtGd243U0pjZnc4WXNkTlZPQkxhQnhudTFaN0tLSkNiRWRnTHRPaGNDU2lNVkxMYnh5aDdyb1RhVjFuYXBMcHdYUWFyYUlJekpHME84c2dUQnVuWW95emt6VDVqSHhyejhhSUdlQTd3UkJfcFdqY08wQVAzREFXc3N6bm5FdFZVdmdTNzBYVUhiQWpjZnZrV2dvSnY5dWQ3X2prWHlhZDNCMkhV?oc=5"
-      },
-      {
-        "title": "Kontrowersje wokół uroczystości w Auschwitz. Kwaśniewski: burza w szklance wody - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGxUQkhCQzc4NzlhX1otcGZVVDYxcWRPSnIyd3VxUnFMM2xxdWh3ZXVLVktMMkJveW5qeUY3dWFHdU55cmZMMUFXb0lOcHFVc2FxUGMwWENXM0NsRnRLSVk5V3l2QkRPM0FZY2hQSGZMdGE4TGpld09QeGpCbXdPTTA2VVZkbHBPV2IyMnZKRXdsR1hJeFpXODhWMTBqZmQ2U196UlpSOVVwb2dWYTVfMDFn?oc=5"
-      },
-      {
-        "title": "Duda odpowiada Tuskowi ws. Trumpa. \"Naraził na szkodę\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWx3VzFjeENURFI0azdHWEtQTzg4aTJ3aHk1TWR0WXktV3ZwcmFHMzQzLUh5TFp0RWJtRC1nT1pyb1EwVDlobWwxYkJ1OC1wQTJsSExTNlFraGhJQlUwUHVJbG5ZaVdfTlFMT2I4aVdTVEVZakE4bXItWWdPcjZkWnB2SndkMFdDQWlxNnFaSzdlajJOWFpkNw?oc=5"
-      },
-      {
-        "title": "Kongres Konfederacji Grzegorza Brauna w Łochowie. Przychód z imprezy wspomoże Ukrainę - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2NzYk1YaDU0ck1YTDlyRnFUdzJtNUdpcWhQUU9ZLWVXYlJwYmlIazA3c0w1SUlteGVBcm1FS0JxLTItclJYaHBqRllSdmMtS3VJQXB2WnVNb2Y1eENfcndKenNpWlRKdTdnSFNCbnVHbUhqQ1Fva2NiQ3pFM01KUjJzU2JIMjRMT296TXVZeUtoTlMyMTBWcHQwYkg5bEQ4ZndlVkNiQTdMbzdwTllad1E3bHRETXpIYm0zUFpNWDg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-31 08:24:10",
     "weather": {
       "Warsaw": "Warsaw: -13°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Obiekty z Białorusi. Polska przestrzeń powietrzna naruszona - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhaWGFOcnhmRFVmMlUxQ184WmlKdGN3ZzZVSnN1WXFVc2tOTVVDWWFVS0syVFBqOWMwTklvbENoOUZnTzFFWFh3Uk1YbHl6SlFhN0ZNM05ldnFmLXVGczdyVW9Ja3FDTGtFaHFfazd6enN0eFQtajhEWWZHVUpjcXBfVDNfb0hmcUNMN1lVdEZ1alptdFVzRTN5VHR2UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-02 16:32:22",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5495,
+      "EUR": 4.2106,
+      "GBP": 4.8658,
+      "CHF": 4.581,
+      "JPY": 0.022934,
+      "AUD": 2.4718,
+      "CAD": 2.604,
+      "CNY": 0.5109
+    },
+    "crypto": {
+      "BITCOIN": 280973,
+      "DOGECOIN": 0.38948,
+      "ETHEREUM": 8474.51,
+      "LITECOIN": 216.62,
+      "RIPPLE": 5.87
+    },
+    "indices": {
+      "^WIG20": 3361.35,
+      "^WIG30": 4321.77,
+      "^WIG": 3361.35
+    },
+    "news": [
+      {
+        "title": "Szkoły w Warszawie odwołują lekcje z powodu mrozu. \"To decyzje dyrektorów\" - Warszawa.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN21YSllGQnNZanFmUjFJTElWc0VZWkJpLURGWW9PaVFPbTJZUGlkbFpYT2RnV3hlVjhzcV9ackZKdFp2MWJrVkhVQ2U5U09xNWFHRkJQbmtMZnpEOFBBcFJsbzVaV2U4ZkFHYmxlc1M5bVo2NE1BTEE1T1QyM1FJUTFFR2c5YkJVNy02aVpzTHBLZkpyaTJMaHBrUGl0RVM2eUxRb0tMbk5pZzBwYVNYUGpvYXVKMWFBTVA2eA?oc=5"
+      },
+      {
+        "title": "Kwalifikacja wojskowa rusza dziś. Ponad 235 tys. wezwań - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmZKbmd4TE1OVjZlcXN1Ym1qcXVVM1EySG1pejV3TFVCT2gzTFRkM2hDcUhIMG5rQVotZTU4VGJkb2JBSVljMHVwNHlES01iWmtmb1pMLUhldUxQYWlIRUxYa21EM0pndnlFekQwcElqdHR0RHBmLXNZZ2tmcmNqUjVSSUpNeE5uRHRmbjBuTDlHZUZKb0owVk1Bckk?oc=5"
+      },
+      {
+        "title": "Obiekty z Białorusi. Polska przestrzeń powietrzna naruszona - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhaWGFOcnhmRFVmMlUxQ184WmlKdGN3ZzZVSnN1WXFVc2tOTVVDWWFVS0syVFBqOWMwTklvbENoOUZnTzFFWFh3Uk1YbHl6SlFhN0ZNM05ldnFmLXVGczdyVW9Ja3FDTGtFaHFfazd6enN0eFQtajhEWWZHVUpjcXBfVDNfb0hmcUNMN1lVdEZ1alptdFVzRTN5VHR2UQ?oc=5"
+      },
+      {
+        "title": "Paraliż w Niemczech. Strajki w całym kraju, stoją pociągi i autobusy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcE1XMmZpdHRBR0h3SExIRmNvdWJPU1ZxOWYxeUN2cDVJQUVZcFFaQWtXZXNxcDgwSy13dnRWejdMdWh5UC1JcV80RU90Qk1VYUo2ZFZmR3BrRkRiXzQ5b1RVWXJRX0hvWk44WlhMUUt0dkFCRFl2azB5TEpNUzVBTmZrcm1BZFliZGxOYVFHOWpuLUxOYXQ4TnhZcw?oc=5"
+      },
+      {
+        "title": "Tak mówi się o Polsce w Waszyngtonie. Były ambasador ujawnia - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0s2QXJzVDlGd2RLcVFCelJBRjRINVZ2VGhLU05vZUFLMTdVb1k0dnBlOFhnN21RZEt1a0JqUjVONWZzQ0lqYjRyazBwalVmS3JfMEs0MFZMRTVHTHVDckt6eXZ3djFqQVc3enUtTG5WSjZoOEd0RDVWcHVTMzBsN051Z3AwYmozaVFLQ0xXZGx1ZC1KTko0QW1rYWRTdw?oc=5"
       }
     ]
   }
