@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30 18:28:08",
-    "weather": {
-      "Warsaw": "Warsaw: -6°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -11°C"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 295027,
-      "DOGECOIN": 0.413447,
-      "ETHEREUM": 9685.01,
-      "LITECOIN": 231.45,
-      "RIPPLE": 6.26
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Nawrocki jak \"miś z Krupówek\". Kulisy spotkania posłów PiS z prezydentem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEJzaFZSbS1GUVlhNG9pcmY3ZFJMYmVrRGpjUWVjdDVDQlE2bXBCU29aRzF3dWdWZ3g4ZFJLYWRETi1hNk9NWDVDYkY5S0pGZlVJYmI4MElmemRBLTBEX2t2OG1ycFNqX2hSVGxEdTdtM3lxZUFjZnJQZWl0a3BGY1RpTFlPNDhXRUJpcElGc2hlWEhjejN4MjV1ekZUWjd4Z09BUUg3LUMwSXNzcWNjeUFB?oc=5"
-      },
-      {
-        "title": "\"Olek stał się memem\". Ujawniamy kulisy walki o przetrwanie prezydenta Krakowa Aleksandra Miszalskiego - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1dIbHZIZ0ozQVl0a0Z0azJ6RXZwWURWNEFtZGJxVlB5UHI4Unp4MDlwSFZORzBCbno1eDBQQU9CZDlGLUItMml1Z0REWUhyUzNLTFpNRHltX29pT3VlWFdwTzVRMHA0QkRuQzUwWUI1bFRaS1RvR2hDTmdldHM1S0t1VHNnZTl4MHRZOThRQm0zQjdzVTVLM1lSc1JfUmdxZUIwMzFEUlUzMVo5Ri0xUVBGTEtMZjd1akxhYg?oc=5"
-      },
-      {
-        "title": "Kolejny spadek PiS. Ugrupowanie Kaczyńskiego wyraźnie za KO - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEVOTVVlN0MwVU56WHlUZUw5ODdxdHJKdkZ0UGlJajdLSFN4RWtTZmVDaVdrb1R5S1lWRng4bzZIMG1IT2F0X1F5ZGZFNjlaRFFVZDhKcjFOWmcxalVrMEN2cVlJSEhkVlVkVWdTTHdxeGhfMS1ISXNfcjFOYndBVWkzblRISHluVlFOc0lDNWhtSXlyLXBVRTI0Mll4QzJveEhr?oc=5"
-      },
-      {
-        "title": "Donald Trump stara się o Nobla. Włodzimierz Czarzasty otrzymał pismo. \"Sprawa zostanie rozważona\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZV9UTVVtMUxFWFFjeUEwRTlNYWhyRGZrNFBkYVhpVHNrLWpyLXNxU3pxMmRRQTdadTkzTzBqSzhlU0FtMW85NGtIeTFDUDdDMWR0RGd3ejZrLVBOcE5fZEc5U0VRQmVTVnhxeDNGYnZndUtERm1jMDFSU1NucEYyendYVXZQY2p4aE5Ebm5UOTMtVzQwdlNBeUlrLUV0UXQ4OUlFOUwxdGNKX2pS?oc=5"
-      },
-      {
-        "title": "Pożar w Ząbkach. Biegli podali jego możliwą przyczynę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3NLQTBUQ2tJeFRPSHNrV3dLVE0zSVl2eW5zQ3JRWm9NS21OQU9TRDI3UFZnaFBLc1ZCMWpNWVFTckxjWHZJeWRsMkthenVfYWQxYlRPcjZrYXFhX3hRMGVPWTM5NHY1bjF0NGZ1a3BLTE02ZlpzU1piaVNBRWNnQkFrM041TjJiMFY2N2JrVXo0Zw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-30 19:33:04",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Słowa Nawrockiego z Auschwitz dotarły na Kreml. \"Własna wizja historii\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnVSNTgyaUViYnpTYXdYMGF4RHhtd29aTjhvWkVOWHNWNHRwTW12VDdEM0JkWG9JcmNpeTliX201SjVNTzZqa0tTM3U0VjBlWU5uQ0ZjRF9CcXpEYWVwd3VDWElVbGp3Q01FMk1BbjhaQm1IbWNVTUdyOGdXTEpQNUVoeHVFNTJ0RnhRdEQxcjEySU1qaGdnWTJRN1pYTDBwRzFTQndfNjFxZ3pUUE9yTw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-02 05:17:50",
+    "weather": {
+      "Warsaw": "Warsaw: -17°C",
+      "Kraków": "Krakow: -11°C",
+      "Gdańsk": "Gdansk: -20°C"
+    },
+    "rates": {
+      "USD": 3.5379,
+      "EUR": 4.2131,
+      "GBP": 4.8586,
+      "CHF": 4.5964,
+      "JPY": 0.02293,
+      "AUD": 2.468,
+      "CAD": 2.612,
+      "CNY": 0.5088
+    },
+    "crypto": {
+      "BITCOIN": 268806,
+      "DOGECOIN": 0.363381,
+      "ETHEREUM": 7890.34,
+      "LITECOIN": 204.87,
+      "RIPPLE": 5.56
+    },
+    "indices": {
+      "^WIG20": 3360.09,
+      "^WIG30": 4316.52,
+      "^WIG": 3360.09
+    },
+    "news": [
+      {
+        "title": "Mróz paraliżuje Polskę. Szkoły na północy odwołują zajęcia, w miastach stają ogrzewane namioty - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3FoLUllTWwtcmthQXJOaGowcHhzQVp0Rm9rV2o1UFRyOWpYeFVvTDlmUE9CZDBHZWJyekNfSllTd0MyTEtHaC1yeDYwT2NjSG8zSk5SNUg5MmV2UDlpUHVKR2t5UW1DbnFkOFhzNVMwUEd4QnRaOHppcXpFNjNxTDN6bVVCMWpzOWROTDlXUFJtMHhkQjZnTVJidEpuRVBjcjl1dDZvNWxjeEZWeTRRTWVITVBiU0liWmVlRkZ2UEFrUEhQTDlEanpiaExDZmdiclgtaTJ5VQ?oc=5"
+      },
+      {
+        "title": "\"Słaba kobieta bez przebiegu\" i sojusz z Rosją. Byliśmy na kongresie ludzi Brauna - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFE2M0NNejVaSS1tdWdjTGRnRWppRVlhRXBrTzJJT0dYb1JieVBucVVJYmhLN0x0eDRSWC1GSHFjQ3VnQVFkOUxRZnpINlVhQVdPUTZNU1JDYjljbC1mc3JnbThKU2xLUG9pYk5RQ0Z5VWRxZkpPZkFPdHkyVUwxVXVFMlpvTC1JSThVYkFjTkxmOWZfMm1ZYVM0NXUyTkFPM2Nici10dzRIQ29EVmZLb19DdXZ0SV9XZUl1NlNn?oc=5"
+      },
+      {
+        "title": "Słowa Nawrockiego z Auschwitz dotarły na Kreml. \"Własna wizja historii\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnVSNTgyaUViYnpTYXdYMGF4RHhtd29aTjhvWkVOWHNWNHRwTW12VDdEM0JkWG9JcmNpeTliX201SjVNTzZqa0tTM3U0VjBlWU5uQ0ZjRF9CcXpEYWVwd3VDWElVbGp3Q01FMk1BbjhaQm1IbWNVTUdyOGdXTEpQNUVoeHVFNTJ0RnhRdEQxcjEySU1qaGdnWTJRN1pYTDBwRzFTQndfNjFxZ3pUUE9yTw?oc=5"
+      },
+      {
+        "title": "Sytuacja Kijowa staje się coraz trudniejsza. Dysproporcja sił niebezpiecznie rośnie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3ozd0FyNThXSlh1d01hSWdXV2dnMFZsNFgxVEtGR3ZhNUlyaEd1M3VpRmdpRGxsdG1ITjBiYWtzSTZ2c3hsQmVldTVuYWNDVHZVektKWHZfN28wSlJGNTBrbDhDZkQ3bFJtSlR3aGVvLXFzUmhlVTJOSU0tU1NGbVZVVE12MlNJSnNCS01aRHZhMXV1SVgySXRHbUU2dEdrbTM4eWlFYzVoU1hPbklzTy1mNWdDRmpVQUdTR2dJS1FaZFk?oc=5"
+      },
+      {
+        "title": "Patryk Jaki chwalił Donalda Trumpa. Tak zareagowała posłanka Lewicy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFFqenhqQURiRktDdTBndFFDNWRaRnFXajhXMmNuWVUxbjl1SkNnRDg1WVZfV0w0eV9lbW5fbkJMSXZSU3ZYMndZeWRwdk9qSWJDUXpMWmI4QWZpR1A2MW5uWExOSTRad25TSXdVYm1KUTBubmdPZUs4U0FsUXQxNlo5TWNHMUZjQUo0Yk9VS0w3dE5RaFFyVW9WM3M4c0VuekVET2VCbVhQdw?oc=5"
       }
     ]
   }
