@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31 18:19:09",
-    "weather": {
-      "Warsaw": "Warsaw: -9°C",
-      "Kraków": "Krakow: -9°C",
-      "Gdańsk": "Gdansk: -11°C"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 281391,
-      "DOGECOIN": 0.364025,
-      "ETHEREUM": 8623.23,
-      "LITECOIN": 208.43,
-      "RIPPLE": 5.59
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Akt wandalizmu na terenie ambasady Turcji w Warszawie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkUtdEZadEJueWlnWTdhNFhxbkZzZjJpdmJkUGJfazExa0VpQmdYOXhudENZb1NzMXdMMlh3dmR3TTNnVVh1X1ZJTk0za1pqZmhEVGNwUUtCcWpNbFNtMnVKek1oODFaU1hwYktwYXQyZnUxUkNoZkxxa2dneTU1MnR0RTlDRzJSSW9YLUV0TUlqMGxNRXVQdw?oc=5"
-      },
-      {
-        "title": "\"Wyskoczył z jadącego pojazdu\". Chwile grozy na A4 - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHYtZ2RTa25MTGE2Zl9TVlh2Y21iNWZ1RDlhVGtzdHh0VVNXREhiR1poRU9Kekd4WG9yY0tzdWRSREpYWmd5c05GUWdPb3ktQkJ2NHZrd3pmMGxRQ2Y3UjRiUkN1ZXV4NERIUTVWLWRQUC00enRXaThLbEhoRTc4RE5vWnVvVVh3Vm5mV3lQRl9xZkxu?oc=5"
-      },
-      {
-        "title": "Kontrowersyjny kongres Brauna. Właściciel obiektu oddaje pieniądze Ukrainie - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW54XzVmd090WmF3RWFOOWZsV1Z1NGF5TklYalVwVEVIRzZWdW5fbklRcEZrYlhwTlN5RERxMzRza2hTeWFTQ0NvZjFYNm45TzlpeHpBdE5JQkZXVm5laGFCMlYwdjVzVklVUTJvcWZZMHFmT1o5V29rejdJbTlQbVNjS2Z1Vnl6R1ZxaGRaQ3pCT1JhU1FKT2pPcFVnWjU2Q0tyNC1OaGY5XzctZ1gxMGdB?oc=5"
-      },
-      {
-        "title": "Funkcjonariusz SOP zatrzymany po zbrodni w Ustce. Jerzy Pobocha komentuje - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1JLSVNuOTY3ck40WEMxQU1IOGFqT0o4UTBvdUttck1FaEw5OElBX2x3ai04X05uUllJM2FFUV9BQlBuczRRMjBnWUNlTWxnZm0tUTRUUDQ2Z24waEZHYS1RSkJQb21nQ3RvZGhfQ0ZiaVZmYmtEMkQyc25UcERGLWtpX1FjTHJsZW9HMkNWMjZ0NUo3SEhrRkJkWVRiVC1xR0xSMFJ3QmV4bHpKY0J0TW84NzhBbHlKZFE?oc=5"
-      },
-      {
-        "title": "\"Tagesspiegel\": Polski rząd przygotowuje obywateli do wojny. Obawy uzasadnione historią - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZDlMSXdXT2RzWHdNZ3pNRjhNX3BKTHpmRmFYUE1jN2ZsQXlrdHJIZ19CSldfMFljRl93RXJodGJVQXZQeENRN3VFNkpPY2k5UTU4a1VDelVsMnRTSGxZb0lQOWpCbXBVWlpTMi1PaHdqc3J1UWkyNU5WbHdNT3Q1TDdfWjE0YnJFWGszb0hvNk9ldGpNekoxbng2aWNpSllYa2xmZHgzX1puai1KTHQtMmFhVENzam9mcUdBNVlkUmVaMXN0Nm1JMnNGYlFoa0VRMGlRUlp5YXdMa0MzVElR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-01-31 19:23:04",
     "weather": {
       "Warsaw": "Warsaw: -10°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Koniec polskiej fali w Holandii? Najnowsze dane szokują - RMF24",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMngtUzRIRTF4RmRfM3poLS0wUlFRMDZBRjNDRzRQS0ZFaVA2a2hCRGFzb0ZoNzZHa2E0VllvMlZNck5EUHRFU2ZKQnpDak16bHZUci1VQm5lQ2RxRkw1M2VmTjNoQUQ1ay1JczJkVV9kdGFkbEstc3hUbm9Fd3ZoQmh5VjNZMU9GY0pOZENjY2ZBdU9NQVlUNU8tZ2VwemJCZ0w5NVpMQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-03 10:34:24",
+    "weather": {
+      "Warsaw": "Warsaw: -17°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -15°C"
+    },
+    "rates": {
+      "USD": 3.5495,
+      "EUR": 4.2106,
+      "GBP": 4.8658,
+      "CHF": 4.581,
+      "JPY": 0.022934,
+      "AUD": 2.4718,
+      "CAD": 2.604,
+      "CNY": 0.5109
+    },
+    "crypto": {
+      "BITCOIN": 279191,
+      "DOGECOIN": 0.381499,
+      "ETHEREUM": 8158.54,
+      "LITECOIN": 212.6,
+      "RIPPLE": 5.72
+    },
+    "indices": {
+      "^WIG20": 3416.41,
+      "^WIG30": 4393.02,
+      "^WIG": 3416.41
+    },
+    "news": [
+      {
+        "title": "Polak był gotów do współpracy z Kremlem. Zapadł wyrok - Onet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFSSjVyY3FaTjk1cGw4U2lIY1BBY1JUZ1lQZzY4dTJ5UVpGSWRiZnlRT2tGdzdWVEh3SUtyYzAzQXZIZ0tQbUJURzdvSGh4N3QtSlpiRl9hWS0tajNUZW8zREh1Mk9IRVVnYTJUSV81QmZfOUt3eDlwNmY5Q1BjXzhUVVJlRmVRUi1sbUtlbDBSOEg2T1NZMG9VUWlFaXRqSkVDbkR0T1FYZldZRGN5dQ?oc=5"
+      },
+      {
+        "title": "Śmierć w internecie. \"Dla wyświetleń zniszczono mi życie\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcE1Ob3lkZlV3ck9nc0dwZUNlU2ZhVFI3V0cxdnNISU9GVlZNY0xmTnVrLWladmhmUlJQRFgzV2RwN0FYYU5BRzY2b3FJRThONVRNRWc1OWpfSVUyS052UG0wWnY0ODdaQWxuTS0temZUU0puTE1ZMHBQdWlYQjI3WTlxRjU1M3VQOHl0TzFGd0R3bnZtZVgwRUxYOFhxZw?oc=5"
+      },
+      {
+        "title": "Przez ponad pięć miesięcy koczowała z kotem na klatce schodowej. Teraz pani Halina dostała drugą szansę - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSk9pSUJJcXlHLW9MRVFVaEJ3bHk5bTRpbGNjZ3F2Y0dBN3h3Z2NzN25qLXh3c0VhQjl2dWtTa0NyYXJNdEFVZHBaNl92a000Um5DS0ZySXhMbU5TZW1TaGQ4d2tNQUg3cWFRMXhBYnF3VHVTQjcxUXloWXV5a1NDcktwTHZEVGhlNGVPczBtem5rLWhsbXpIVHo0cXh1bmw3WHVhWGhyMTFOaUhWdVBJMmNuazhuRG12ZXAtbWVSOUNwT1NsNmc?oc=5"
+      },
+      {
+        "title": "Rosyjski szpieg w Ministerstwie Obrony Narodowej? Poranna akcja SKW - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa182dGdJaXFSNVczSEdPQWs3M29zcERqQlJLdjhIWE0tQlRUZ1hFZWdqQjNDRjE4b19vRUhFMW5xMWpjTUY0NWlndm41OEdrcTRhdDJOaW9XamVtVk1wbUlhaWRDM0dOZ1dqblhnU2VGbW5uU2lKbGFmVHUtNDJBVlM3MUp3RGdiQjNNX0F1VjlvRjI0Qk10TUNBalB5cGNEanByQVM1X3k2dlZPZXZFUUt1eTdSb1BQZTBENzQ4cWQtbEhOVVp5UnROa3BscFdnejRQeQ?oc=5"
+      },
+      {
+        "title": "USA znów grożą Iranowi. \"Jesteśmy bardziej niż gotowi\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjNkLUhzYXhLVWtGWlZ6WmJfdmtma2ZGaS1FU2NYa0J6aEUzRXA4WUpEYjljaHZUc3U0cWM4bnRqUG1heTlyTVhDSXc2b2dJbGYtdm1mNmRYdDNZVzhUXzlFUEpnTGdrZV9kTkUzOHFwRFpfVDZROHE5aEpNbW1jamIzTWtZdXVQQlNZWmFEVzBnVjVlMjRoMnl3eWloTlpt?oc=5"
       }
     ]
   }
