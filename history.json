@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01 02:49:19",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 278403,
-      "DOGECOIN": 0.3711,
-      "ETHEREUM": 8663.52,
-      "LITECOIN": 210.59,
-      "RIPPLE": 5.86
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "IMGW ostrzega przed wielkimi mrozami. Prawie cała Polska w alertach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVZqR3N5TWlXQmtvOTNjRnRaSG5sLVNZM2hjTDEwY0MtYWNsV2Q4MEdoYXpsN1IwR0NfU18yV1BTa2hRZmY5Vk8tZ2l3d0pseEtfS1lwQ3JMVVdlN0g3OTlrX0dRQ3Y1QV84UzhLSWhwOXFRNkxuYjZnWjRXQ1lCcTJUMGVPc1BJUGJLM1NLWEpGN0JjaU95RmVRTkVwUVdudjR5WXo4c1BLVXBEdVE?oc=5"
-      },
-      {
-        "title": "Szef MSZ nie gryzł się w język. \"Synteza donosicielstwa, służalczości i frajerstwa\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGN6Tm1CNmlHV1o3d0g5bGFEdHItdFVtY3I2anBtUl9udXpGUUN0OEp6Yi1MUWY3LU5pd1VLbkFjc3ZhOTAxVkVnTXV5M0hnQnFqaWFGOHRTUXdqWXk0RTFpODI1N0ZqZENrUUsxVVdnbHgtQnNUejNvRHFQTHNsS3AxU0phZm5MNF9XdjB6T21GU0Y5VF9vblcwRWxWR3JYOENNVkZWd1I0c1NMUEVCWmF4dmUxdWN2?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony nad torami kolejowymi. Ukraińcy reagują - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzJJSkJXdzI3UnFvbjcxS2VUdVRtbllsVmpmdzdCd1RaUVphdHM0MGhxRl9vQk9PYjNBX01xRnpveU0zRVk5WWpsdVcyWnh6QU9HRzJFaDR3aVNKMEJuZEVmVk52ak5DX0syUE9QMjV5RjhwdnZzVTBOLU0zQU54U2puLXBDejBrZDVselh5RWtVbkE4TUFwMFo0MkROZw?oc=5"
-      },
-      {
-        "title": "Spór w Niemczech. Poszło o Unię Europejską - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkcwdjhubEE1RzhtOU5PXzVvemFSY29lQ1BNd1hlVGRzMmdPczdYYWVOamlhdU5TRXhFV1cxZzFCZ0hTbG9DTnUtT0tvYVp6QnNPTlNrX3plM3RPUXlOWV81WkpWVFRKNkJ3a1ZjUnp6T2FsS1UxZHFsQzJBdjZjQ1lMb1BlNERyOGlGRA?oc=5"
-      },
-      {
-        "title": "Zima stawia Toruń na równe nogi. Służby w pełnej gotowości na najgorsze noce - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnh4eXJhVFRvWUFqRFhkYnBEdFdRRGxFZmE5Zm40bWI2Wm9vcmtKRDBIbmZweFRSWUFUMkhod3kwSUk0OElvenBSdHcxTFlMdmU1ZUpLWDFHY3Fqc3hBbUF1T1c4VGMzc2lDU196MkxNbFRmdXlFeTZNLUdIWlZWa2lxR21kVmFWTTgxamNyRGNWamxhSVd5ZWNnRl9YWnZ5TndkYjJEWUQ4YW03OVRYbGVOMA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-01 05:24:42",
     "weather": {
       "Warsaw": "Warsaw: -15°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Zamknięte szkoły i tysiące osób bez ogrzewania w Trójmieście. Podsumowanie nocy - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcF9sY0lZY2V1T29XN3VBYk5IMVZUNXQ0d01rV2xoeTloejFMSHRoeUpYNmRHMTdPb1I4QVlxZDJVRFo1ZkxLdUV4LVpiWkJFT2dvT3BZODlJMDUyd0hQdE9kNFhOSmhZUTh3OTRaV1RaUU9MSXJTc3I5SFZPUzdIUUhja1VIYkcybXQ4OTc1Y2I4VFYwWW9DN3haQi1wdmVHSlVyWHZlc3dKZWhQZHhJa1o1RXRmUFN3bWpnQVZzYU5qU0t1NVoxczVIMnhROG9ZamlF?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-03 17:43:57",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -6°C",
+      "Gdańsk": "Gdansk: -11°C"
+    },
+    "rates": {
+      "USD": 3.5785,
+      "EUR": 4.2198,
+      "GBP": 4.8905,
+      "CHF": 4.5942,
+      "JPY": 0.022957,
+      "AUD": 2.5071,
+      "CAD": 2.6151,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 273978,
+      "DOGECOIN": 0.380235,
+      "ETHEREUM": 8035.07,
+      "LITECOIN": 212.83,
+      "RIPPLE": 5.67
+    },
+    "indices": {
+      "^WIG20": 3416.41,
+      "^WIG30": 4393.02,
+      "^WIG": 3416.41
+    },
+    "news": [
+      {
+        "title": "Nowe alerty IMGW. Nie tylko mróz będzie groźny - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWs3dUs1cG9wQnBkdnluSlE2WGZLQVNRc0hES1lfT2h4ZzVqdmp0TlhKcXRJU01BckVaVWVmSm43LTJzdmJ2UnNRemJoMU4xRmlKQ2RFQzVZamJMNFZrOXhyWTVBVUlKQ242VHJFaFJTYXY1U29iMkxRRmNYcW5JR25sUGo5ME14SzBVaXB5S0VZQQ?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki zwołał posiedzenie Rady Bezpieczeństwa Narodowego. Jest data - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZFc2Q2UtelFZUUFXTlNxUE1VQ1U0SlVwSkFtZzg3TS1fS21sdDBqRTltejJtLWYxNDN1bTlmNzdfU3hYQ2dOMlFQZTFTdUd4OGdHbk4wMHl0RXc5YThLYWFYUGNBQ0ZiOGEwWVNiaHh0WUdlem9mNWFWY09WLXNQQTdPVGYxSllqZW9kdnU4LTJXTjBrd0gwS0d1SHdxZ3gzeFY5SGFjRFRPVzg2VU9vamZuRFZLamtzM2xGZWlUdVFJWUJldXBLMWZHUGN5NWVkVWp3?oc=5"
+      },
+      {
+        "title": "\"Będzie wymagało trudnych wyborów\". Szef NATO ogłasza w Kijowie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFNkYThtZjAwNjBnRUZYbHB4aEdLMnNKOTZwT29kU2trVEpzVlVZZDJheHlFWG96ZUdDY3lBWU1rZ0REd1Jzc3k2YU03UjdSallrSWNDLUJRQkVoWTBCSHhtVEl0MXhMWTc5MmYxbGVMd19vUzZIMXNZbFhHTVdJU29ZMVIza09xbDlOWjhkZW5UT1lyTFFTNWtOZHNUZWRpcXRsZWV3?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński pod obserwacją lekarzy. Piątek będzie kluczowy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHpuY0Y1YXZ1VlFFcUV3Ym5IYnVpbmZBenlpQzRzUUNNN2VOSmpIX3ZrYXNRWVNDWXBibTdwbnF5bXdseWdiNUxjX1FqSWN2Z1FFaE04Q05xUHdzN3VPUV9wenc4bldRS1IyaTlzcUd0Q0p1YzloZko2STlZY1BhdUtrODB5emU1NGxNTDJ5QnMzWHY1a2M2dHNUeER5eURucDZKN3BLcFkwTzJWYWhWdHRwM1UyNFZMZEhFcHNFS1Y1aTAtZXZZOW1ZeWRrYjkxZUZv?oc=5"
+      },
+      {
+        "title": "O co pytają na komisji wojskowej? Studentka opowiada, co ją spotkało - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
       }
     ]
   }
