@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01 05:24:42",
-    "weather": {
-      "Warsaw": "Warsaw: -15°C",
-      "Kraków": "Krakow: -11°C",
-      "Gdańsk": "Gdansk: -16°C"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {},
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "IMGW ostrzega przed wielkimi mrozami. Prawie cała Polska w alertach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVZqR3N5TWlXQmtvOTNjRnRaSG5sLVNZM2hjTDEwY0MtYWNsV2Q4MEdoYXpsN1IwR0NfU18yV1BTa2hRZmY5Vk8tZ2l3d0pseEtfS1lwQ3JMVVdlN0g3OTlrX0dRQ3Y1QV84UzhLSWhwOXFRNkxuYjZnWjRXQ1lCcTJUMGVPc1BJUGJLM1NLWEpGN0JjaU95RmVRTkVwUVdudjR5WXo4c1BLVXBEdVE?oc=5"
-      },
-      {
-        "title": "Szef MSZ nie gryzł się w język. \"Synteza donosicielstwa, służalczości i frajerstwa\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGN6Tm1CNmlHV1o3d0g5bGFEdHItdFVtY3I2anBtUl9udXpGUUN0OEp6Yi1MUWY3LU5pd1VLbkFjc3ZhOTAxVkVnTXV5M0hnQnFqaWFGOHRTUXdqWXk0RTFpODI1N0ZqZENrUUsxVVdnbHgtQnNUejNvRHFQTHNsS3AxU0phZm5MNF9XdjB6T21GU0Y5VF9vblcwRWxWR3JYOENNVkZWd1I0c1NMUEVCWmF4dmUxdWN2?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony nad torami kolejowymi. Ukraińcy reagują - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzJJSkJXdzI3UnFvbjcxS2VUdVRtbllsVmpmdzdCd1RaUVphdHM0MGhxRl9vQk9PYjNBX01xRnpveU0zRVk5WWpsdVcyWnh6QU9HRzJFaDR3aVNKMEJuZEVmVk52ak5DX0syUE9QMjV5RjhwdnZzVTBOLU0zQU54U2puLXBDejBrZDVselh5RWtVbkE4TUFwMFo0MkROZw?oc=5"
-      },
-      {
-        "title": "Zima stawia Toruń na równe nogi. Służby w pełnej gotowości na najgorsze noce - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnh4eXJhVFRvWUFqRFhkYnBEdFdRRGxFZmE5Zm40bWI2Wm9vcmtKRDBIbmZweFRSWUFUMkhod3kwSUk0OElvenBSdHcxTFlMdmU1ZUpLWDFHY3Fqc3hBbUF1T1c4VGMzc2lDU196MkxNbFRmdXlFeTZNLUdIWlZWa2lxR21kVmFWTTgxamNyRGNWamxhSVd5ZWNnRl9YWnZ5TndkYjJEWUQ4YW03OVRYbGVOMA?oc=5"
-      },
-      {
-        "title": "Przełomowa decyzja następczyni Maduro. \"Presja wywierana przez USA\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVW1RUU9kUWNIS2NBOFd3aDJGYzdkYlBseGZhellmbkNTdTU5WVVDbkpzTjJsLUYtdUloMUM4OUxjSjZMb0FqTml4N1pIRE1YY1lQT1pvLTh1ZndNbV81VnlGM3d1RGN6ZUFCQjhXMm5uVW1yV2tWZmtiWHNjNm9xalRMVWhmWG14Q2dWcVduY1V2bGxDWTVuMjhCeVBFYkFNT0FlbmZoRGxGc1Q0MGVaUzAzcw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-01 06:56:03",
     "weather": {
       "Warsaw": "Warsaw: -16°C",
@@ -2590,6 +2544,58 @@
       {
         "title": "O co pytają na komisji wojskowej? Studentka opowiada, co ją spotkało - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-03 18:47:12",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -11°C"
+    },
+    "rates": {
+      "USD": 3.5785,
+      "EUR": 4.2198,
+      "GBP": 4.8905,
+      "CHF": 4.5942,
+      "JPY": 0.022957,
+      "AUD": 2.5071,
+      "CAD": 2.6151,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 268429,
+      "DOGECOIN": 0.375241,
+      "ETHEREUM": 7881.72,
+      "LITECOIN": 209.43,
+      "RIPPLE": 5.59
+    },
+    "indices": {
+      "^WIG20": 3416.41,
+      "^WIG30": 4393.02,
+      "^WIG": 3416.41
+    },
+    "news": [
+      {
+        "title": "Mróz to nie wszystko. IMGW ostrzega przed innym, groźnym zjawiskiem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmFFNFU2Tjl5NDEtRkpqNVJmWW9uRnpNNTUzeC1Feml1SWNoUy1pMWNVb0REbG9EU2ZsRDF1VjhEVVBwTmlDQVc0OTMwc2VjWU9NZG9nNXcyejByeGdiSzBFNDFRX3EwR2t6Q3dHYVdNVWVnMGE1Z1VxeW5zRFl6U3pmRk1LeS1fRkctNW1sb2pmVFozUHN4VjhGVnAzOTZGbjM0M2NiYnFjamJLM0lkNHFQVzVRNzU0RjdpTEJPNHJibkxjVWRYNFRqZw?oc=5"
+      },
+      {
+        "title": "Nawrocki zwołuje Radę Bezpieczeństwa Narodowego. Podano szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllsZTVmeElWR1VSdUZ5b1FlYW03dGV0dVI1bGtUdGhtY09QWnNXbnRDRTZrWE80QmdDel9PMDJiUm9oWmpMcDhGZ0JsSE0tLUw0aHNEOUFtNDJZYXB1MENuMThFRTU0SVJzay0tclhFQlVXSWZDek1FSFJCT3lhSzYyXzViS1F3MnBwZU5UeDVHQ3BROUFMQmdJV1lqM3ROTHFGLXpxTEQzOHc?oc=5"
+      },
+      {
+        "title": "Niemcy wprost obwiniają Polaków. \"Jak czerwona wstęga\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWJoWHJTems1RVlqdVhVck84b29PVmJxY3J5Ylctek9vNjlmTkVYTWRwczhGLWFPaTU4cWgtUW9mc2Fjd0tGLXQxWTBNalhSTC1fU3VGdEpBcXVzYkQ2YnJBcjJhQzIySDE1MWcyeHNLem1heEFwY3RoaFFIWDNFWTZLYndyMkl3QV9TblRqdjB2d01sTGd3M1dPeDBVOGpjdmE1eGZjanJjajI3N1laVjFB?oc=5"
+      },
+      {
+        "title": "Klamka zapadła. NATO uruchamia misję w Arktyce - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGdoU25fcGpBVlFjdTEycDlKbURfYmQ3TXBZeUFPdldIYnJ2d2dwOE5MWnpidkVXLThmSGpwMWRqQU1oT2k4VDRzME9XRlJZTng1eDJkb2ZHTE5RQjJ2TjlzWVhYdkhGYURwQ2ZfVjRKMUxZNEhSX29IcllNNl9oNmh5aU9uVlEtU05jZjlyMXdLZw?oc=5"
+      },
+      {
+        "title": "Radosław Sikorski reaguje po rosyjskim ataku. Odniósł się do słów Trumpa. \"To by było na tyle\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2lrNmQ5cG5BLXJJWHFqcUlCWXJpZFAwQ2dsTFJPOFdQWUxDa2w1SzhIdTdud2ZHZjF6d09QZ0d5TmZjOXhxTUNueS1VUlk3Z3VrUWVCbzl1bzcwUVNvekRkU3Vmd1RMMkgxNXVBMlR3NThpcUFhbXc2RnFHS0tkY0QxWnJEVEJKOU5LNG9FcGxnVm9DVjd0RDBUVzRsSTcyNUVuWE9OSTNWaFB2RHlVbg?oc=5"
       }
     ]
   }
