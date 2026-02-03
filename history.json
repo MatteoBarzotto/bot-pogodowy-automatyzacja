@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01 00:15:49",
-    "weather": {
-      "Warsaw": "Warsaw: -12°C",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "Gdansk: -16°C"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 277865,
-      "DOGECOIN": 0.364877,
-      "ETHEREUM": 8601.34,
-      "LITECOIN": 208.97,
-      "RIPPLE": 5.75
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Trump usłyszał sprzeciw. Nie pomogą mu w ataku na Iran - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnNKTGE1RFBld2l6a0ZCQy1LUW1WM2J2ZldBV0d1NUU3MWxfVFhRZnZ1QnVWNnl2U1c0NExoQnpUU3NxRE9sTzhESjlLeEVua2pZanduUjM3TjI4Y2dJcjdfV28tQmtRMUUzeXJLVDJ3bENQV1JqbUMwOVIwM3E2SmMzZlF4Ym9DY2ItNGh4NjFFaUZnMDJ6VjRsZTY?oc=5"
-      },
-      {
-        "title": "Szef MSZ nie gryzł się w język. \"Synteza donosicielstwa, służalczości i frajerstwa\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGN6Tm1CNmlHV1o3d0g5bGFEdHItdFVtY3I2anBtUl9udXpGUUN0OEp6Yi1MUWY3LU5pd1VLbkFjc3ZhOTAxVkVnTXV5M0hnQnFqaWFGOHRTUXdqWXk0RTFpODI1N0ZqZENrUUsxVVdnbHgtQnNUejNvRHFQTHNsS3AxU0phZm5MNF9XdjB6T21GU0Y5VF9vblcwRWxWR3JYOENNVkZWd1I0c1NMUEVCWmF4dmUxdWN2?oc=5"
-      },
-      {
-        "title": "Rosyjskie drony nad torami kolejowymi. Ukraińcy reagują - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzJJSkJXdzI3UnFvbjcxS2VUdVRtbllsVmpmdzdCd1RaUVphdHM0MGhxRl9vQk9PYjNBX01xRnpveU0zRVk5WWpsdVcyWnh6QU9HRzJFaDR3aVNKMEJuZEVmVk52ak5DX0syUE9QMjV5RjhwdnZzVTBOLU0zQU54U2puLXBDejBrZDVselh5RWtVbkE4TUFwMFo0MkROZw?oc=5"
-      },
-      {
-        "title": "Sikorski ostro o słowach Cenckiewicza. \"Pobiera pensję z polskiego budżetu\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZy01ZFc0cjR6c1FCY001NHBKZTMyeTFxQnJZMGRibjBndzFublUyTHQ0MFN1bndtNGxfbGhHWHl4Mk5hSzZqd0RRb0d4RG9RNDZiNmRtY21BM2JWTW04WGpGTmJXZ0paQllqYmdHRWJLMlY4dFduOUlRZERvamg0d0REUnhTYThSM3pXeWUybzZkeFUwbDV6OF9XLW1Oemp6MkJuM0hYRW9qMERrZG5XTnZBQUlOQQ?oc=5"
-      },
-      {
-        "title": "Odkryli promieniotwórcze odpady w Elblągu. Służby postawione na nogi - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblZPdGRtX3M5SzNTZHdZOHl1NjM5U1pWYVhRU2FMRDRiVjFGZDVnS2RweFBOdUxYSFZEdi1XTW9QdFV0QWhQcWltamF2MTg3SEVoMU8zMHRwYVQ3d3FKbWgzUlVKYU5NS0hXYURGVHJ2Y2xjMUdlZVFTR3p2Q2IwRnlyYWdBMjh1aXRNTXZiNVY4SEdBTzJHYXpmU1YxNjVmc1pfTDlveEE3LTRWVHgybVkyN25IUnd1QWlvb29naEJRQ3pCZ0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-01 02:49:19",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Trzy zgony w jedną dobę. Policja bije na alarm - o2",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NEbnZ3bElJcENHNENQR3BMY2VyWVlTd3hPcWcyNVVac2VRLVF2X3F0RVo4WjlWS0VKdExjd2pKZUN2WjRfUC05YVBxVXJMZDdYMmRHTGxjQ0lXN05EbUxxdU9xR3ZaRzd1RW1aVEhkeGV5YldkNlVHbVBYd1Y1Sm1jX3NHZVZmTDdaMnEyM0dkZk1Ec3Iw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-03 16:42:17",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.5785,
+      "EUR": 4.2198,
+      "GBP": 4.8905,
+      "CHF": 4.5942,
+      "JPY": 0.022957,
+      "AUD": 2.5071,
+      "CAD": 2.6151,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 277545,
+      "DOGECOIN": 0.386199,
+      "ETHEREUM": 8181.72,
+      "LITECOIN": 214.12,
+      "RIPPLE": 5.73
+    },
+    "indices": {
+      "^WIG20": 3416.41,
+      "^WIG30": 4393.02,
+      "^WIG": 3416.41
+    },
+    "news": [
+      {
+        "title": "O co pytają na komisji wojskowej? Studentka opowiada, co ją spotkało - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
+      },
+      {
+        "title": "Braun przyjechał do hotelu, zapłacił i... wsparł Ukrainę. Znamy kwotę - Wyborcza.biz",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTBCZFFhdS1zejV4Rl9oeUFZS2hIRWxlVkJuMGdhMlpDUllRYkNsbkRDUjhrMnVqSWsxNXR0Z3YzUHJnWGdzV1NDRWllQlZfS2lwSHkxbXJ1WnNHcW0xc21iMmtFZzcyaW1yVTRySERDX3ZlUkZMZlByWThyQ3lDOXVZNVZqd2VkY2syVFE4OWtsNEtQZmZramFwWUszdU9TLW5xdi1aN1hLOW1wUzFyRUJKWlFsbFE?oc=5"
+      },
+      {
+        "title": "Kłopoty Muska. Prokuratura weszła do francuskiego biura X - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXRacjl3QjI2cmZiNUtJLU9tTFpLSXJjNEJDVE45bDdGQlZMVk5Wa21OcVpRWjQ5YzhVVXhmNkFrRXNWTnFhMGZfdjNPRkFhcm5vYzdqMnFpLURIQTk4ZkpUQ2tOY0xoa0VIMkhNcmt1TkY4aGdrS0NseVZ5cU93YUVDblE5bXA5UTMyQll1YkVTWG00OGdfNkFxY1V0WDNY?oc=5"
+      },
+      {
+        "title": "Trzy zgony w jedną dobę. Policja bije na alarm - o2",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NEbnZ3bElJcENHNENQR3BMY2VyWVlTd3hPcWcyNVVac2VRLVF2X3F0RVo4WjlWS0VKdExjd2pKZUN2WjRfUC05YVBxVXJMZDdYMmRHTGxjQ0lXN05EbUxxdU9xR3ZaRzd1RW1aVEhkeGV5YldkNlVHbVBYd1Y1Sm1jX3NHZVZmTDdaMnEyM0dkZk1Ec3Iw?oc=5"
+      },
+      {
+        "title": "Zamknięte szkoły i tysiące osób bez ogrzewania w Trójmieście. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcF9sY0lZY2V1T29XN3VBYk5IMVZUNXQ0d01rV2xoeTloejFMSHRoeUpYNmRHMTdPb1I4QVlxZDJVRFo1ZkxLdUV4LVpiWkJFT2dvT3BZODlJMDUyd0hQdE9kNFhOSmhZUTh3OTRaV1RaUU9MSXJTc3I5SFZPUzdIUUhja1VIYkcybXQ4OTc1Y2I4VFYwWW9DN3haQi1wdmVHSlVyWHZlc3dKZWhQZHhJa1o1RXRmUFN3bWpnQVZzYU5qU0t1NVoxczVIMnhROG9ZamlF?oc=5"
       }
     ]
   }
