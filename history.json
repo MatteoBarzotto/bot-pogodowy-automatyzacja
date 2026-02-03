@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31 23:16:16",
-    "weather": {
-      "Warsaw": "Warsaw: -12°C",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "Gdansk: -13°C"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 277772,
-      "DOGECOIN": 0.36274,
-      "ETHEREUM": 8576.61,
-      "LITECOIN": 208.39,
-      "RIPPLE": 5.74
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Bitwa na ulicach Turynu. Premier Meloni grzmi o \"wrogach państwa\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1ZVUmVpUVhucTBfaXdlX3I5OVZxRXRJN3NNeG5IdWpBZ1haeHM1UVpPUFg5YnM0S2cxY3FILUliZ1ZzMFNjaVpmMEFiNXp0SkphWDJpOUxuNkxjUUFXb0NyNzN2d1pxRU1ZaEwwNG5FZmpPMWZ2MzNzMkxBckZmaGxNbzYzc3lGYTRUeTF0M1NhWFdVcjcxblk3QjBGR1ZQRHpnZFZDckFienZudUxVTA?oc=5"
-      },
-      {
-        "title": "Sikorski ostro o słowach Cenckiewicza. \"Pobiera pensję z polskiego budżetu\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZy01ZFc0cjR6c1FCY001NHBKZTMyeTFxQnJZMGRibjBndzFublUyTHQ0MFN1bndtNGxfbGhHWHl4Mk5hSzZqd0RRb0d4RG9RNDZiNmRtY21BM2JWTW04WGpGTmJXZ0paQllqYmdHRWJLMlY4dFduOUlRZERvamg0d0REUnhTYThSM3pXeWUybzZkeFUwbDV6OF9XLW1Oemp6MkJuM0hYRW9qMERrZG5XTnZBQUlOQQ?oc=5"
-      },
-      {
-        "title": "Syn Leszka Bubla umiera na oddziale psychiatrycznym. Szokujące kulisy wychodzą na jaw - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWV3aDNYaWw4ODdfcmFJU3E4Unc1UzZmQ3BMTDI0VjkyT2lDWmtWajY0d0o1NmJwbU5PVzFwckNCTVNnbGxST3pWOFFrc0ItYmpiZzhUaGo1Y0VLTTByZHNaalVZMUpBUS1KdFBuM0VMa3RqLUFzeWxUaF9jaTlQcEx5WmdlOVgzZExqVTBpdFg2OHRWMWpmZlVhbkJ1Q3lEbzNfWC1mQk44aTk1OGdGZ3hPS3FhQm5IdXc?oc=5"
-      },
-      {
-        "title": "MEN wycofuje się z kontrowersyjnych propozycji dot. frekwencji - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVpYcWYxdl9rcWFmT0hpOUl4MDYtQ0JyZXU3c3JMbGhUMmFWbzY3LXVpTzRySUN3blFXY2lWVlplUEF1VUwtTXluZjY3ZDNXVzY4RDF2cmloeGkwT3VmNm5QbDBOTFhIRXZxMndVUmUxQ25HaHAxS2FZUUlkZUVaOWNTc1ZkNy1VcE9XNi1WbS1zX1RnVEdFQnptUThrRElJdmfSAZ4BQVVfeXFMTzZtV2U1ZWQ2ZUpsaTFqUEZaZUxzVFctV2Mxd0V2NlFTT3NiSXJsQlJwMUJfWnhld1psSUtlVS1kTHNoZEtJQk1HRFFHMlAyRGt0Q09aYjJSQlA0R0VwdnJUWVk2ZGZSRVBCTUZ4X0hjU0dRMTdqaVlfNWdQOFQ1aThsbk1sQnlzV3Myd0dFM09PSHVsMDZUdEU4aVNLOWc?oc=5"
-      },
-      {
-        "title": "\"Tagesspiegel\": Polski rząd przygotowuje obywateli do wojny. Obawy uzasadnione historią - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZDlMSXdXT2RzWHdNZ3pNRjhNX3BKTHpmRmFYUE1jN2ZsQXlrdHJIZ19CSldfMFljRl93RXJodGJVQXZQeENRN3VFNkpPY2k5UTU4a1VDelVsMnRTSGxZb0lQOWpCbXBVWlpTMi1PaHdqc3J1UWkyNU5WbHdNT3Q1TDdfWjE0YnJFWGszb0hvNk9ldGpNekoxbng2aWNpSllYa2xmZHgzX1puai1KTHQtMmFhVENzam9mcUdBNVlkUmVaMXN0Nm1JMnNGYlFoa0VRMGlRUlp5YXdMa0MzVElR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-01 00:15:49",
     "weather": {
       "Warsaw": "Warsaw: -12°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Noc pogodowych aberracji. Analiza wyjaśnia trendy - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2l2UXo5Snd6d2tkNDl3R180a2JVaTNMVmRkWDVLMlZqUDBlZ1hlUkRqUmxwbzhFWVNJNDZEN3BDckY1SkV1VERTbUtGTGFvY2QtQi1NRlA0MzFDSUQxWndJMjVJY2RFeEdkajM1WThTSlk2UmZTajhpbm40cWg0ZU5HZThsUXhtTjd0NmZ6N3ljeHpzQkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-03 15:50:26",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.5785,
+      "EUR": 4.2198,
+      "GBP": 4.8905,
+      "CHF": 4.5942,
+      "JPY": 0.022957,
+      "AUD": 2.5071,
+      "CAD": 2.6151,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 278674,
+      "DOGECOIN": 0.38324,
+      "ETHEREUM": 8172.5,
+      "LITECOIN": 213.81,
+      "RIPPLE": 5.72
+    },
+    "indices": {
+      "^WIG20": 3416.41,
+      "^WIG30": 4393.02,
+      "^WIG": 3416.41
+    },
+    "news": [
+      {
+        "title": "Nawrocki zwołuje Radę Bezpieczeństwa Narodowego. Podano szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllsZTVmeElWR1VSdUZ5b1FlYW03dGV0dVI1bGtUdGhtY09QWnNXbnRDRTZrWE80QmdDel9PMDJiUm9oWmpMcDhGZ0JsSE0tLUw0aHNEOUFtNDJZYXB1MENuMThFRTU0SVJzay0tclhFQlVXSWZDek1FSFJCT3lhSzYyXzViS1F3MnBwZU5UeDVHQ3BROUFMQmdJV1lqM3ROTHFGLXpxTEQzOHc?oc=5"
+      },
+      {
+        "title": "O co pytają na komisji wojskowej? Studentka opowiada, co ją spotkało - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
+      },
+      {
+        "title": "Braun przyjechał do hotelu, zapłacił i... wsparł Ukrainę. Znamy kwotę - Wyborcza.biz",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTBCZFFhdS1zejV4Rl9oeUFZS2hIRWxlVkJuMGdhMlpDUllRYkNsbkRDUjhrMnVqSWsxNXR0Z3YzUHJnWGdzV1NDRWllQlZfS2lwSHkxbXJ1WnNHcW0xc21iMmtFZzcyaW1yVTRySERDX3ZlUkZMZlByWThyQ3lDOXVZNVZqd2VkY2syVFE4OWtsNEtQZmZramFwWUszdU9TLW5xdi1aN1hLOW1wUzFyRUJKWlFsbFE?oc=5"
+      },
+      {
+        "title": "Tragedia w szpitalu w Bielsku-Białej. Prokuratura bada okoliczności śmieci 40-letniej pacjentki - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOW9STm5fNnAyOWM1TC01ZE9xNmVib1luLTAzcTcxbXIzS2ZRMzMtaXBvYkFlVGJpNGtmSjM4cHJSYVJFb0YteUNkUDd1WFhCVWhFMUYxS2liQko5bHhsdVZmWmtubW1YUTBnRUJiYWFGZFpGWHA3YnNUWG1PMG1Kd0ZwVTBvR2Vka1J6bXYyZFpDM3k0UWhmVzZvdHJnLVlDU0VxN2RucmcyUDNzOFRDdEMyQzJWVE94UWRxUmlRZG5OMU0?oc=5"
+      },
+      {
+        "title": "Trzy zgony w jedną dobę. Policja bije na alarm - o2",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NEbnZ3bElJcENHNENQR3BMY2VyWVlTd3hPcWcyNVVac2VRLVF2X3F0RVo4WjlWS0VKdExjd2pKZUN2WjRfUC05YVBxVXJMZDdYMmRHTGxjQ0lXN05EbUxxdU9xR3ZaRzd1RW1aVEhkeGV5YldkNlVHbVBYd1Y1Sm1jX3NHZVZmTDdaMnEyM0dkZk1Ec3Iw?oc=5"
       }
     ]
   }
