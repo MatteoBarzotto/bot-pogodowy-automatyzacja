@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01 22:17:31",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -9°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5379,
-      "EUR": 4.2131,
-      "GBP": 4.8586,
-      "CHF": 4.5964,
-      "JPY": 0.02293,
-      "AUD": 2.468,
-      "CAD": 2.612,
-      "CNY": 0.5088
-    },
-    "crypto": {
-      "BITCOIN": 272544,
-      "DOGECOIN": 0.368806,
-      "ETHEREUM": 8168.39,
-      "LITECOIN": 207.79,
-      "RIPPLE": 5.64
-    },
-    "indices": {
-      "^WIG20": 3360.09,
-      "^WIG30": 4316.52,
-      "^WIG": 3360.09
-    },
-    "news": [
-      {
-        "title": "Wojna na szczycie władzy. Tysiące oburzonych Czechów wyszło na ulice - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalB0TEJOb2RoZ2pkZmp5dFpndEZWMnJaa3prY0c2d05fNE0xWWlaZVRMTHBCTjdGLV9URUlXTmlUaVRYYUdrRFdVVnFPdHM5T3RXNlhldjNScV9ZMXNQNnZoaWJXRm0xbmo2YXJ1Q29OSG4zV21CM3NYZUh2cm94bUVWckgzdnhWWXZKaWtlV2F1MTRFWGtmVVczcE1mUm5aNmdEMDJEWDl2M0FneHBr?oc=5"
-      },
-      {
-        "title": "Śmierć 46-letniej Polki pod Londynem. Policja apeluje do świadków - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2V0TXhaZEdteWRKeEwtNFQ3R1Frc3FnUmNaVnhRbmFwMjd3ZVVtOTVkUjUwVk1OZnFhNmNkZ1NSTjZTYW43Y3QyZnJETEItZjNXd1hZSmNvYS1MWWlydHh6c2c0d0p4SXV0blRYSkNwVFdBX3FMcmFMZ2VDc3JLbWxnc2EyYkppdEtucGtRcXVHbVhQeEtiaDEySlQtUl9LT1UtanMwbzA?oc=5"
-      },
-      {
-        "title": "Gniew w Małopolsce. Blokowali zakopiankę, boją się o domy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX09iV0NJb25hNzUzNURmdTI1WVFsY0t4bVFmRk13SV9GNEcxQ2tYSWtoZ29uZk9pTkNQN1ZHdDJlZktDaGQwcldpMWdBeFZTdy1KUnI1aXEzVjlSYjZrenVQSy1UblVENl9fX3lUMjkwbGxhbzFKeTN1bF9uTV90NnE4dllYN0RMdGh6N2ZNdFRIZDdYejVFdzZ5emVjdEliRVNLWHA0cDNTZmJ0Y2Z5SDN0MTY2dw?oc=5"
-      },
-      {
-        "title": "Miedwiediew bez zahamowań. \"Jego głowa zostanie ścięta\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXdCRUlLTEdsTFBUVWFieXFNaXRmaUJISUZmWlRhbUVEOUl2Y0VRLThNY3l3NmdHc3NrNTdGeXNwcm1oaEJjcURfbERFUXByMjhudVVFLXplUnpWNlVTUEFkLTJvQzVpdEdYallkVkFxbmt2WWtiT0JUSldIbnE4ckJTMDhWZWZYRWJ2RmVpb0xBSUtuUFM3WXRieWNkT2trcWppMVRkNnFYTFBVYUtRR3dRNndCaF9lRGZoNg?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w dolnośląskiej policji. Kolejny naczelnik do dymisji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0hPUDFHbDNUdVNTaXRsOW5CdGFrTkhoOW1fNDVCOWYxTnVYVkNWa2NxOGFYcWI0NmdlWG5rVllmb2NHdDU5REdZS1l6bDlEaWJqaDVWYXhJbnA5NURRZldMS2JfTG94WU9QVlpldFMyVkNtWHJoZU1TdDZCYUloUFlkVG51RXBUOGh3ZXZvN0hyNzFIaGxacU1HY3lCRDdxMTVZSEYwalRNeTdLSGJPZ2pR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-01 23:17:21",
     "weather": {
       "Warsaw": "Warsaw: -15°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nie żyje najstarszy biskup w Polsce. Kilka dni wcześniej obchodził urodziny - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUVFQ3NOdDA1QlRpa05GRWg3ZWNORlVHc3FualBCaDBSQXJYalJlSUh4OVNCNEtBWWJCby1RckIySHkxTklBSFE4akkxX1U4NlBiX1BCZDU3R3VSZ2FvajdOZHRkb0ZaSWJCa1I5dGV6OExoZXZoWldvWFZCTVpwbkRfelRYVUVZb0ZhQzZLNXNhSGU3azlETWJvUHA5cHJhRXhtQ0FHRy1NckRxNDIyWThqMG1aT1lvMFVYZDdjUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-04 14:58:51",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.5755,
+      "EUR": 4.2241,
+      "GBP": 4.9015,
+      "CHF": 4.6059,
+      "JPY": 0.022825,
+      "AUD": 2.5102,
+      "CAD": 2.62,
+      "CNY": 0.5149
+    },
+    "crypto": {
+      "BITCOIN": 267254,
+      "DOGECOIN": 0.377805,
+      "ETHEREUM": 7861.95,
+      "LITECOIN": 211.7,
+      "RIPPLE": 5.59
+    },
+    "indices": {
+      "^WIG20": 3461.31,
+      "^WIG30": 4432.75,
+      "^WIG": 3461.31
+    },
+    "news": [
+      {
+        "title": "Zełenski: Uważamy, że dokument o gwarancjach bezpieczeństwa ze strony USA jest już gotowy - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjRGdk1GYm9FYWZTT0dCZHVsU2NHV2kwOFR4Q0dpNFp5YUdHeGNfZFgzY2JfNncwMHd0cDhnbXJQY2Zpc1hQankyYWhnZU5Gb1g4M3pBOHZ6d0otVk52OHEtLWNmZjZzekcyeVlVWXIzVHhKM0w2ZE1pUHdTVW92cFVicUNuWWE2MDRaZUFFZTRXbXYyV1lRSDlNN3ItTmpq?oc=5"
+      },
+      {
+        "title": "\"Dziwię się Michale\". Błaszczak uderzył w Dworczyka - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFEzRmZnaFd5MEx2TlllX25aN0RhZ0xkMlR3OVEyM2lDdTc1cEo1THktWTBFN3pkMmhodWplREVESm8tWnBobWZCbTVwbGF4QlFVNk9JOExxOFRiTk42Z0xLVko4VS1STEtSTk0zam1JMndXY3d2N3llV1ZYMzZENkFzUGktaWJUSlVfbDhuSEdlS0RyUFE?oc=5"
+      },
+      {
+        "title": "Miał krzyczeć: \"bij ją mocniej, uderz!\". Syn posłanki PiS skazany - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzl2US1WU0xZNkpjR3dzVVBBLWdjUjg2eU1sclBDb3ZFa0Z4QnF1WGxWMlliOE03aHBGbXhaX0tJTWZXTDkwckdXS1RnQ1pXcXl2RmdYSGFLeEY2WkRIY0M1MHRXQTk1dzU1dkVEd0tqUlI2UllKcDNtWnhobjFZMTJsbzNaQVMzM2N2eWNjREtNaElBUGVBLU05RWhLbElHa0lvVUpoSGlmTmNpeDZSbV9RWVVTOGp1dUE?oc=5"
+      },
+      {
+        "title": "Interwencja poselska w Dino. Pokazali termometry. \"Robienie z ludzi mrożonki się opłaca\" - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVpERjR3Y1dYbHVqNXRrUDlacWhtSFFWal9NZkcwLUxQS01mNTlGR0tsWmNBcGhINmRYbTVSOUxWa1dhOVl4bGdRUE5uV0hJMGJTSnFoTDBNcnUybmpITDBMX0FtcXZNb1E2TGxic1VMRVVxbGxYcG1iaDNqWlVpVTRlWjEyVTBoM1lFVEhSX3Fva0VjVERRbmhvV2V0bEhBM1lwaHliM25MMUptWkRZMDE2a1pDbWxu?oc=5"
+      },
+      {
+        "title": "Potężna awaria ciepłowni w Warszawie. Ponad pół tysiąca budynków nie ma ogrzewania - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS19IOE1DODlYYjhMM1pSSDFITGlGZ0hFd1dUeGhTMUo0TklsaGNacjF4aXpGNEpBNl9lcWpON0N0Y0cxY25Lc0U4bUpYYVJYZHVPTWdEYTljaWFOQUJ1WThsZm5BTFA1OEtGYmpPVGxhTnc0N0puS0NKUXZ0Z25tYUNiNDZUaUJGMWNZNGVtNlltMjNCbHp5ZmJJSVoweXV2SzlXTVQ3cnllb0VNbE1kS1Rsa2t4d3MtM3d2M3VWcFhuSXgyLVlnWQ?oc=5"
       }
     ]
   }
