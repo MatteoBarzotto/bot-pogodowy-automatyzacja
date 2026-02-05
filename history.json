@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-02 17:30:50",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 282832,
-      "DOGECOIN": 0.391708,
-      "ETHEREUM": 8517.65,
-      "LITECOIN": 218.18,
-      "RIPPLE": 5.91
-    },
-    "indices": {
-      "^WIG20": 3364.04,
-      "^WIG30": 4327.11,
-      "^WIG": 3364.04
-    },
-    "news": [
-      {
-        "title": "Potężna awaria w Trójmieście. Tysiące osób bez ogrzewania - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHFzLVdZLUtONDU0bVJGMV94LWpsRFE1YjRDbmNrVnNqS2g5VmdFSU0xeE5GTmIydDREM0VyTUd0QzRxc2RKVjQzZS1GalpEV1lWdVRzOVk3Njc0enZneS1kVS1lQzZNN0NLbDZKbjdKWERxd3dLclBQaW1fUFREQlRLM2pfUzBjZzVSN2Z6VC16LUdQUnc4Szg2dC1DMkRKazNNTjlQN0lNYl9UTENZ?oc=5"
-      },
-      {
-        "title": "Polska w okowach mrozu. Zamknięto blisko 300 szkół, trzy osoby nie żyją - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE43b1ZlTDFacE83c1JBUEY1b3lKNjBXTmNDQTZubGV3U3JIR1FWTGpnMHVqcW43TFZYdHRBZ1pHN1dydmFuRU9HbDZ6blNXaEVUQW95TGJhSk5qR2FsTHhXeG9ya1ZRb2ptazRYUlJuWEI0dVdXV3hTSTdJNGdDMlpUbHlTSFQ3RDlnY01KcWpOaW0tLVBsLTljMGpXNlEzcWtmWVdiQWJzN3kwYVZfUGlhbTd6Yjl3?oc=5"
-      },
-      {
-        "title": "Kwalifikacja wojskowa rusza dziś. Ponad 235 tys. wezwań - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmZKbmd4TE1OVjZlcXN1Ym1qcXVVM1EySG1pejV3TFVCT2gzTFRkM2hDcUhIMG5rQVotZTU4VGJkb2JBSVljMHVwNHlES01iWmtmb1pMLUhldUxQYWlIRUxYa21EM0pndnlFekQwcElqdHR0RHBmLXNZZ2tmcmNqUjVSSUpNeE5uRHRmbjBuTDlHZUZKb0owVk1Bckk?oc=5"
-      },
-      {
-        "title": "Obiekty z Białorusi. Polska przestrzeń powietrzna naruszona - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhaWGFOcnhmRFVmMlUxQ184WmlKdGN3ZzZVSnN1WXFVc2tOTVVDWWFVS0syVFBqOWMwTklvbENoOUZnTzFFWFh3Uk1YbHl6SlFhN0ZNM05ldnFmLXVGczdyVW9Ja3FDTGtFaHFfazd6enN0eFQtajhEWWZHVUpjcXBfVDNfb0hmcUNMN1lVdEZ1alptdFVzRTN5VHR2UQ?oc=5"
-      },
-      {
-        "title": "Tragiczne skutki zimy w Polsce. Liczba ofiar rośnie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakhic1JQUnFLdjNCeUk4aHBob0RlVjA3by02Q19jZGp2dVRBT2Q5NkVGNW5nREd0c3NQQ1c2SFRWVDg2dldXZXdQN3RDUVRRVTN1Vk1oNkJyRUdPVDMwTTF3a2sxZ1FtUEFmcU1FQ3pYSXRnVHRmNmgxaTFneDNOcU4tdFFoajR2ZGFiM1gzNmJJbV9GV2JKag?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-02 18:33:01",
     "weather": {
       "Warsaw": "Warsaw: -12°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Plan: nowe rządy. Tomasz Sakiewicz o tym, że opozycja musi się przygotować na przejęcie władzy - Niezależna",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZkNDTGNGRm9xbnZxazNVQS1IRUVpendWSl9OX3ZvaElMVTF2VTFLendDWlJKQjVyQndRN2l5RmZRQWxPU0h6T1Q4dnFwNVo1c053b3UyaTBNM3NrenZ2T2d5WDlSM3dMeWk1SlhGaWxDUi1uYXpZT3hXY2h3ZmJGVlM5emJVcW5GUVdja0pNNFRING1ZUTl6bHg0eTU4d2hZXzhpU2w2SDh0MGRQbGtMTExlWlZsOHFLeHBrUXdYWnZrUjNTNUozTg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 08:44:38",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5755,
+      "EUR": 4.2241,
+      "GBP": 4.9015,
+      "CHF": 4.6059,
+      "JPY": 0.022825,
+      "AUD": 2.5102,
+      "CAD": 2.62,
+      "CNY": 0.5149
+    },
+    "crypto": {
+      "BITCOIN": 253628,
+      "DOGECOIN": 0.364025,
+      "ETHEREUM": 7498.71,
+      "LITECOIN": 207.04,
+      "RIPPLE": 5.15
+    },
+    "indices": {
+      "^WIG20": 3457.14,
+      "^WIG30": 4424.55,
+      "^WIG": 3457.14
+    },
+    "news": [
+      {
+        "title": "Tusk jest w Kijowie. Kancelaria Premiera pokazała zdjęcie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjhucElHMHE2R3ZNMHhRZlRrNWVTNENhOFZQQ1IxSnNpWTRfQ1I3MGVGdFkyZWR2WHFuUUM3SW1RWlhiejhuZzZOQkRzVkZXTGM1LUFPNGRRQjVwRmZld3pwQkhjaUktQ00tWjNBM19pSlNDcVNpRnh1NE5NQ05BWnZYMXk2aFZKcFB4TjdhcXRsWGFXTTRhS05Va2FqVlN0?oc=5"
+      },
+      {
+        "title": "Europa jest lekceważona przez Władimira Putina. Wołodymyr Zełenski mówi wprost - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOTdkZnBOTXJYZy0tenZFcGc4bkZDUkhjWWxFaGUwRWQ2WUgxZXMyMDA3NWVqV2RMYm15RkMzdi1MQWlFTzlneFhYMTR5Y3NOeS1Nc3hSbFVSR0lFR3BoWmZoRGJjU2dZNklSZUcteFFHUWVvc2tnbmNIMVhlN3AxT1FwUHhwRFhMTGpKUFZoVUFfX1dXSlpZSW9hT19pM3IxQlFHcFhCNUFOTEJ0bXdZOExodnREUmliV3RJbzF1aEQzM1BjeVhaY3h3LUdvS2VFZVVUR0xzTQ?oc=5"
+      },
+      {
+        "title": "Kogo ułaskawił Nawrocki? Media podały szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFozcDZkNUZ4eEpGZW1SdTQ5SnU3eDlqR24xZHA4Qk9VaUgtS2NLdmZBd25oajZfTmZZX3NaaWNxRVNzbVkxT2FyaW95a1dVLWpaOTdaU0FSRWVPUzRBY1RVN1puMEcyejR1WWxZNVpQcjROdlZKMDVVbEFMNXY3d04xaVA5S08yU0lRbzgxVVR0WXc?oc=5"
+      },
+      {
+        "title": "Iskrzy w PiS. Błaszczak w szoku po wpisie Dworczyka. \"Dziwię się, Michale\" - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0lSNTNnYlpTZDEweXRkSnBzWEg3UUd3LVNGdlh2MVVNSGplMU80QldoSU1FQkZicGVTTVZsOTRfUmdaeGlGUTFvUHh1cEhQWUdNb1dBUEc3TzFLeWZ4UVJaTUktUHNXN2NtYnVtQnFxMXRjY2EtTDhWQWhiWmNOTWJNTndGcUJNUVZHVzdJUThHYVlWTzdYcUF4bDNjcExxRWFmVUFKQVF2MzhpSGp2YVBPSTlyY21lbEE?oc=5"
+      },
+      {
+        "title": "\"Młot na Rosję\" wystraszył Putina? Rozmowy w Abu Zabi przyniosą odpowiedź - Wydarzenia Interia",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzAtS05NTGhsaE1BZkNNU1h4ZWgtR3NqVkNpX1lCaUZJVDRVNy1GN3ZIZWdGS1ZJVk1BOHlTblpqS3lEbVBZNEw4S0hpcV96SEVINmhZNDd0ZHVYRXVYVERHX0hMM3Etck1XSzRtWkRQWEs3X3VFM3BxWUNlV0lXNVJmME5QSHNpaGpRaklwd3J1WmExSDc3djdzVm9pTHJIWGY5R3RJbk80QVQteWRINjVMNFpNMFFhWENiNGljZw?oc=5"
       }
     ]
   }
