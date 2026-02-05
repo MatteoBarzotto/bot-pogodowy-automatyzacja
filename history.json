@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 08:37:38",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -11°C",
-      "Gdańsk": "Gdansk: -20°C"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 281092,
-      "DOGECOIN": 0.385429,
-      "ETHEREUM": 8301.41,
-      "LITECOIN": 215.07,
-      "RIPPLE": 5.77
-    },
-    "indices": {
-      "^WIG20": 3364.04,
-      "^WIG30": 4327.11,
-      "^WIG": 3364.04
-    },
-    "news": [
-      {
-        "title": "Nazwisko Sandry Kubickiej w aktach Jeffreya Epsteina. Modelka komentuje: przerażające - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG55RTdSZnY3dmRhbWk1UDNZbWgxRjYwOVdsT2stR2loZmdGV2ZSeVRJamZVYzVBd1lteUs5TF9rX3drb2FMRnpvMmJtck9PLVFyU1VsZHJLUEY4d0JlWF8yWkNIUXMyT2Y0a01mSW1weFBFMWFoeGRfZEgzT1VKLWJWN2hzZDlCZ0Y5RjJfR2RRRUNwVVhJT3N1Y3NqRXVHcUFHbEN2WEU2bzZaMkM0ZHYyODlrZmxCTi1NN1B2dEh6NFRZdDNB?oc=5"
-      },
-      {
-        "title": "Śmierć w internecie. \"Dla wyświetleń zniszczono mi życie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcE1Ob3lkZlV3ck9nc0dwZUNlU2ZhVFI3V0cxdnNISU9GVlZNY0xmTnVrLWladmhmUlJQRFgzV2RwN0FYYU5BRzY2b3FJRThONVRNRWc1OWpfSVUyS052UG0wWnY0ODdaQWxuTS0temZUU0puTE1ZMHBQdWlYQjI3WTlxRjU1M3VQOHl0TzFGd0R3bnZtZVgwRUxYOFhxZw?oc=5"
-      },
-      {
-        "title": "Sondaże nie sprzyjają Orbanowi. Oto czym chce przekonać do siebie Węgrów - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGhPNFJmTUwzTXVTWVBKQ2JpcXl4NENLaGFBdXVmZHdIcVQzUUxMeGtWYnZZakVhVXVkN2JRVW9TOVN0YUFzRWNQS1R0bENzdHRGOHdDc19jOGItdGFWeURCQWhVekRiejhvYWg4NXQwcHlaekRZSzYtNXdhV3RCU2VyYzBpVHU3RkJBY2RuTnlRU1lXNnVqWTFZNDdLU2ZISHdqRVdkVDZnRXhLR29Sd0xiN21lZ2N1LXRKdThHUzVDUWZM?oc=5"
-      },
-      {
-        "title": "Kongres KINGS. Lisicki o inicjatywie Brauna: Całkiem udane spotkanie - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlBWTlDMlpoN2JwaTN2Z01hVXFsaUJhaGxtS1JlNEJ1Vm9YekxUR3ZRTm5MWDdpUURVN1lOeFAwYmdNY1J6ZE1wSURYc0FNVllCQ2JpUXl2YUdSOE1rWnBtVkc1TEh5OUtrTGtLM3BlLVRsWllrVTVnTTNINjYyTFNJbTB6U3NMVF80SERuZjhZNTlidml4endkSVZtZ0pTYVlnREYxTzM?oc=5"
-      },
-      {
-        "title": "Zacznie się 3 lutego w pogodzie. Będzie duża zmiana - o2",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTU0zdklGbmNrQ0JMT2NjcHpVUm1SekhzZzAzZHB0dXpJSU5ka3FPaWpVV3RxSm1QQmtDdGU3cHRXMnY1c0Zqa0c2UnJoaXNmMGpKMHFobEphY201ZkppeVVmNFlWVFVkYTFWZGlZb1lOYnVack9rRU9rZzhSUEV3QVduOVNodUVOT1pwNzJOd3ZPczVZMUpzcQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 09:29:16",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Groźna gołoledź i powrót \"Bestii ze Wschodu\". Nawet -20 st. C. [PROGNOZA 5-DNIOWA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSl8tNzJfaDNsQVdCWTV2Q3dnaWJzb0RobmFBYTBhckxBQmlvWkdwVWVjNmcweUFYa2RtQjhDRmM5ZUJfNExIbTlyRDZJQk9LQjFYNzR6aWpkNVVUTC1XOFdLdXMxQWY3Z05UbG1XVGZMVWUta1ZhdEpEbkdVdUNlanVic041LU1CbklRQTRkNjRQTVNWSF9lZUFVMmFqSXFOMG15Tld6c1J0eGJQNExuVDhzVzFZcTlt?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 17:39:01",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 243177,
+      "DOGECOIN": 0.338392,
+      "ETHEREUM": 7092.06,
+      "LITECOIN": 194.82,
+      "RIPPLE": 4.63
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "Działo się w nocy. Wygasł kluczowy traktat o broni nuklearnej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEFTSzNRa3c2NVNQRHY0ZDNEZW8xWDh5dm5sY1JWQ0RpaEN3Z0paZGdDeXRwbU9MaUR0ZFJnWmo3OElYemZscEZiX1RXeDB0bk5KNFk0T2RlM2QyN01wT3hjdGtSQTYtZVpUdmxzb042LWNlMExIeVRxMXJ1OEJZbnU4ZjJyWHA4d2EwMlJOemZlVWF1M1pWSEgxR195MV95XzQ3dlZn?oc=5"
+      },
+      {
+        "title": "Grupa przemytników rozbita. Stali za balonami z Białorusi - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFUzcnB2WjlXWDYtYm9fbmM0dlpaWVM1aWM5S3FMQzZrbU9VYm9hTWtBS0xjVVJ1VXozOTBLaGZUT0pVVEo0ZWY2WWIwNUdUMjNTNzNJTHpnTDY2QkFoNlg2cHplWlM3eFFDdVNXOE5iMVE3N3BTRHQ5NWExQ09yNGliNXNNMVFielZqUFoyanVWWWZJUkZNVWpEUGgwdUtlMVpMSE93d3RiSFNVbFdCZEZmNlVDZFFVd2c?oc=5"
+      },
+      {
+        "title": "Kto zastąpi Jarosława Kaczyńskiego? Polacy wskazali faworyta w sondażu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEFmOXJfbGlUVTZnTmF0Ym9oVi1fWTA4LVVjTnZQZFRfUEQ3aE5BZVVxNm5MMmF4ODFJRVFydkoxNEpPbDNUSE1uWTV4NFBHTk92TlJfeFk1THFPSXVYTWoyaExZWWRFZmhfbVdlSG1SX0cxaFkwWTUwYl9YTDRfbzBjR3hLTk5ZbXNiZzVOdzh6WDMtN0x0NEtnMXZ1YlFVMlNZQWRsclEyX0FHSC1NQjlRZlVURTNmaUFGSndzbi1NV3FqVXJtaTZtV2E?oc=5"
+      },
+      {
+        "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFUTV9wbU5yMXAtVVpxbmpmZkhZTEpLNnBiVlc1M2hUa2ZBUzQ1V2lRNlQ4RE1MU0lSUUZ3VnlQN2drb05hNC01UlhlQnd5TU41cl92LVREdldvWklUUE1TNGNFRVJUMk1JSVQtcE13MXdDdERiNHlxaFNSaDdEVGttNDBldmo3dnFiV2ZPTEJDMGNQYWNaakZBY2Eya2szVmQzR1V2MXR3QjZPYXA1Rzd3?oc=5"
+      },
+      {
+        "title": "Aktualizacja mObywatela. Nowa usługa dla każdego - dobreprogramy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamRfeldTcHR1VFZ5WE5wV1NTZko1akxRY0FMMjVvZmZTMGRKQzgybmlfWDFUT2tuRnV5amtfLUNacWVVbEQ2VEViTFBoeFdUWDVYN29FVzlCQ2dTdzVPdmZHVVRYajhmRG9HLTRsTVc3TkdOaE1tX2ZpU3JHTnVrM2RiMFNkdzlqR0I4YVhMWDNuVE5uRmI3S2dR?oc=5"
       }
     ]
   }
