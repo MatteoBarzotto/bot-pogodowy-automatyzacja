@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-02 19:34:34",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 281905,
-      "DOGECOIN": 0.387856,
-      "ETHEREUM": 8415.26,
-      "LITECOIN": 215.87,
-      "RIPPLE": 5.88
-    },
-    "indices": {
-      "^WIG20": 3364.04,
-      "^WIG30": 4327.11,
-      "^WIG": 3364.04
-    },
-    "news": [
-      {
-        "title": "Karol Nawrocki pierwszy raz skorzystał z prawa łaski. Znamy szczegóły - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTlR6d1lXX3J6VFpiVzBqMXBsVHQxSzZGU1o0eG1QVm5hRFQ1YVlfYUlxcjBHTkg3V2ZHNVoxQ3gzYk0wcUpUVTJqOEh1MnB5X2F1azJLaGdZMVQ1MWpfcGFOSVdhZlY0VGJhUWMtZC0yNUlfLU1tYTVFSjd0N0JLVHY4SngxOXFiWW4zMVlTdlF2cjNRd1JFY0xyem01SlBra0VUSUFhM1ppUkk2NEk0eVcyUDB1MlJhOHBCbkxRSW1zcFU0dEdSSmFVWQ?oc=5"
-      },
-      {
-        "title": "Tusk jedzie do Kijowa. \"Ukraina nie może pozostać sama\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnpJZndlOG16TWFKT21iWnh1M0dNWEpwZUJGVzBVeXB4a2p3Vm5XTlRuMmYxRUFzUjJmLTlXblRCRVRjeU15UFNHOFBqOTVnWVNsZkN1TDRJRWdCSW5sc25WdzBjUE5EaUNMQktxWWlDR2k0YmZFMm5adjE0VHdXRkItaEV5V2ZFLWoyZkZXb0V4MVFCVjAwZG02dw?oc=5"
-      },
-      {
-        "title": "Kwalifikacja wojskowa rusza dziś. Ponad 235 tys. wezwań - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmZKbmd4TE1OVjZlcXN1Ym1qcXVVM1EySG1pejV3TFVCT2gzTFRkM2hDcUhIMG5rQVotZTU4VGJkb2JBSVljMHVwNHlES01iWmtmb1pMLUhldUxQYWlIRUxYa21EM0pndnlFekQwcElqdHR0RHBmLXNZZ2tmcmNqUjVSSUpNeE5uRHRmbjBuTDlHZUZKb0owVk1Bckk?oc=5"
-      },
-      {
-        "title": "Putin wyniszcza Ukrainę. Specjalna narada kręgu Zełenskiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVFUdXZoMGlZQ3l6MGlMd0xIQWZhRTBnZ1Byd1BSWUpQNGpKaWFNUlFtdmtvU0E2cG45U1FRR3B1bXAxMGlVOUhrSDNrVlI0LUJTV2hsdkUwZjlqcFBNTXRoUmJfcHozMjFPNWtnc0NqdUJ2eEJZcG9peGJVSHY1d2Jsem5mUW41WFlBYmdEVlI4WkVjZldmeWJrNm1YWWd6TGFz?oc=5"
-      },
-      {
-        "title": "\"Izrael oburzony słowami Karola Nawrockiego\". Tak właśnie działa rosyjska propaganda - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRzNoR05BOUhUaVdhb0Z3SG5fT1p2ZUhFdEFlTER6cFV1dVVzQXJ2OEE3QUVqVmw3VmZxZzVBWWZJV0ZmWF9aemV3bFhDVERWMEROVzJEWFhfMGxyVWVGNVY0UEtCYnN6VW1yczAzXzJYc3NFcUw5WWVaeFpZQks2ZzhWRzkxSFpVQjQ2MWFfcExnbzcyWjZrMjBWaWdZRXktUWxYbjVxMHZSU1hYN1VqN2RCbnU3X2dzV25TT19hSzVzdGdSTlJXSXQ5MXdlM1p2bHc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 00:21:59",
     "weather": {
       "Warsaw": "Warsaw: -16°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"To będzie formalność\" Szef PIP o najnowszej wersji reformy - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3ptZVhPekFzZHljVjcwdGZ5UWJTUm04Q3Y2dHhleGhSYXB5NlFtcDI2NU9rSzFIOXZyWHJrcEZ2OVF1ZlJSa0UzbWdhTUt6MUtpYjlFY3lyOENrMHN0em9OWlFKOGJMZkRaV2lwWmZPOUVldE1vWjdGS1phaTFfLUwzUVBGa2piRzBha0RtMzAzVEFOdUtjem40c2FTbW5fNFM4U09hNV9fVXdlcnVNdklB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 10:37:34",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5755,
+      "EUR": 4.2241,
+      "GBP": 4.9015,
+      "CHF": 4.6059,
+      "JPY": 0.022825,
+      "AUD": 2.5102,
+      "CAD": 2.62,
+      "CNY": 0.5149
+    },
+    "crypto": {
+      "BITCOIN": 255703,
+      "DOGECOIN": 0.36494,
+      "ETHEREUM": 7621.15,
+      "LITECOIN": 207.96,
+      "RIPPLE": 5.09
+    },
+    "indices": {
+      "^WIG20": 3426.41,
+      "^WIG30": 4386.23,
+      "^WIG": 3426.41
+    },
+    "news": [
+      {
+        "title": "\"Bestia ze Wschodu\" powróci. Jednak czeka nas coś przed tym - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1gyN3RfenF4OGFXNmJzclBCcWNmOXpxVWo5MDBSUndIWWpJQVc1QzJaMkN1Yy1Kc3ZoTGVHeURKYVE4S1N2OTN3NElGWVdBZnNhWndEd2FtdU9Nc3hmVFRyV1VIQ1hHX0t4dW9CY1h2bXpTdWQzMWV4ZFdqU240ZXJTZGVvREprajBoVmlaQXNkTm9yZ0VFanItZmhRLWZR?oc=5"
+      },
+      {
+        "title": "Burza po odwołaniu prof. Helwich. MZ nagle zmienia stanowisko - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGU2VDdMYWlQQjRsdklrQTR2dXNQU3BCNTlUbS1qdVU5M2ZicnlEek01OWxtUzdUcnU5U2VYSkRZS1hJS1pGTjA2WXZ6MnlNWTQ0and0N2k3d2E2OENjMXRqaEZtRWJHS2Rldjk4NllNZGdWeF9mektkekZvMnNZbUNPU2h0SXFFVTZ2VjhuYl9aZllMNUszTHMwVmNYbktSYk5wV0NqUlZOUQ?oc=5"
+      },
+      {
+        "title": "Kogo ułaskawił Nawrocki? Media podały szczegóły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFozcDZkNUZ4eEpGZW1SdTQ5SnU3eDlqR24xZHA4Qk9VaUgtS2NLdmZBd25oajZfTmZZX3NaaWNxRVNzbVkxT2FyaW95a1dVLWpaOTdaU0FSRWVPUzRBY1RVN1puMEcyejR1WWxZNVpQcjROdlZKMDVVbEFMNXY3d04xaVA5S08yU0lRbzgxVVR0WXc?oc=5"
+      },
+      {
+        "title": "Wpis Kaczyńskiego ze szpitala. \"Skończy się to bezprawie\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUzY0YVY3QUMxbHNyVjVFQmJFOHZINHdpNThrbDZwY2RvX3lxSXNWTUZTN0hrUFg1XzdNQVJIbFN1bGFWR3B2MExacDdRT0lYNlJtTHpsT3Qyd0Z5R2ljRkNscEd2bGQ5ektLYTl5OVVXeXRUU2dwUjdUQmU3ZGhOcFhyX1htLWs2MUtpem9vUkZleldTS0RaNTBvZFhUdw?oc=5"
+      },
+      {
+        "title": "Miały być złotym interesem. \"Część z nich zamieni się w pustostany\" - WP Finanse",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1JhM3c5WHFLQlQ3dERNSnhpOHdvRndCLXdCcDA3RXhDQm9KNFU5cFB1WUxQM1NBbWtqRVFWd0JBRzVraVBCdHQwN3dlMU12SEplQkVfal9QRmJ4d2k5S2hDc2Y2aEl5SDdpTjNEMlpMQXRqcWwwSERVSUNTc284NXg3Y0NBNU1OcGVYZmNlaGZJODd4YVVLaGlwalNQekpVTld5SlFVVQ?oc=5"
       }
     ]
   }
