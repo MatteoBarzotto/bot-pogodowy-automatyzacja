@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 05:09:21",
-    "weather": {
-      "Warsaw": "Warsaw: -17°C",
-      "Kraków": "Krakow: -11°C",
-      "Gdańsk": "Gdansk: -19°C"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 280544,
-      "DOGECOIN": 0.382572,
-      "ETHEREUM": 8349.96,
-      "LITECOIN": 213.65,
-      "RIPPLE": 5.76
-    },
-    "indices": {
-      "^WIG20": 3364.04,
-      "^WIG30": 4327.11,
-      "^WIG": 3364.04
-    },
-    "news": [
-      {
-        "title": "Schronisko dla bezdomnych działa całą dobę. Nawet osoby pod wpływem są wpuszczane - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGhZQ2hWbGF6NUpTaERBbkZ3cnRNZzlCX2FFR2ZCZmYxYVB4VVg3cllQN2ZUakt4THE5dGVUbjU0TjN0T3FIRnlfZGtKdmdHTllqLV9hbHFLUkdSS0g1YWs5aXVvdjI2bmlyTkU5aGlsUXBqUjRrQWxxbEsyYzRuaTlGMWtuYzVXam55UktNclpBcS1ScXlVeVpDOE1rbmE3TDh4X1JfZks4c1VicmxJ?oc=5"
-      },
-      {
-        "title": "Zabójstwo księdza w Kłobucku. \"Tylko miał jedną w głowie myśl\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaU42RkxUVGNEY3VJVVlkOHVaQWpJZ0t1ZmNPcVBiaTMzMzhja2dib2szdFNQdUZhZGdUSXZCejk1NjZfYjZmYWt6WUlDVExIOUpIQTN4WUtRTF9VU0s5ZnB2RUZGZzYxeGJPMUtXd1MxOU1ST1UtMzZuc1FPamZvekk3OUtWVkRlX1VQOXZSZUNfakpOVzVDYXVDNlVCY2dScnRtUjVtbVZKaW94d2l2QmtIV0VxMWo4LXFaWDF6NlFlWWoyaF96RE5kcEk3Zw?oc=5"
-      },
-      {
-        "title": "Kongres KINGS. Lisicki o inicjatywie Brauna: Całkiem udane spotkanie - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlBWTlDMlpoN2JwaTN2Z01hVXFsaUJhaGxtS1JlNEJ1Vm9YekxUR3ZRTm5MWDdpUURVN1lOeFAwYmdNY1J6ZE1wSURYc0FNVllCQ2JpUXl2YUdSOE1rWnBtVkc1TEh5OUtrTGtLM3BlLVRsWllrVTVnTTNINjYyTFNJbTB6U3NMVF80SERuZjhZNTlidml4endkSVZtZ0pTYVlnREYxTzM?oc=5"
-      },
-      {
-        "title": "Szkoły zamknięte z powodu mrozów. ZNP ocenia decyzję dyrektorów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXAxa21VU3pMTlBYMENWZW9LOUJ3YWZxUDZmVTAtZWlyRGRNamhqMDRPM05hTkVKRC1iNDdPdjRRZk0xVDJnNDBILTlCSURTTmJISWpUTWpYdE50bHhNb19Eanlyd0pDWlRQZWtGQWUyUGVIemhHdHRkQ1ctcE5VQlNTUGprQ0lfTVZwUkktSjZzbWxpYmxXTzB5YXU0bm9tLWdyQUpQUWo?oc=5"
-      },
-      {
-        "title": "Pytanie o 2 lutego. Ksiądz mówi, czy trzeba iść do kościoła - o2",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFdkQlQ2eGl6bXJIeXRzcVdQOWJSTXoyeVdoRy1WRXpPbG9lQ0Vkdm0yc19lOWRKYWR4YUxaTzNxY0swWEhwWGMwbjJhaUk4dzdOX05Oc0huNnJ4aW0tOHIteENiWGJRX1h0UFNrTkVUUEtGOEg0c25EYWZ6UG0ybnh4VHpWTU9RTXlfcERBakFZY0pEVFhJYVBndko0UnRnSmNoS2l2SQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 06:44:22",
     "weather": {
       "Warsaw": "Warsaw: -18°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Sądny dzień dla Zbigniewa Ziobry. Zapadnie decyzja o ewentualnym aresztowaniu polityka - Onet",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0RuQXZtNjJFQ1ZPTEZNbzRfb0pDYkRlYU9UM2xxcGZnZkZRU2pFVHNhQWxNZElfclZ0bTRHRG5DYzFfU0FkRzJ5cExSOTJzWk1adzZlUjV0YUdzRHdEbm44MzZVTkdaMTlncGVfaWpYSUc0RGItZld3NUttYWxfVmhPQThmcFhuMk5ES3pYeEhPRnU4YnpyWEpTMXVXazNKVnBqVVZ2ZmJ6RmpKUHowUFlFdS01U3RTeUh5bWFrdWo1UHVTRnJJOVF3d2FyV1BfNWoxdnBhTmlYY3BYXzVSdk93?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 13:46:33",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -6°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 247525,
+      "DOGECOIN": 0.351658,
+      "ETHEREUM": 7347.24,
+      "LITECOIN": 199.75,
+      "RIPPLE": 4.87
+    },
+    "indices": {
+      "^WIG20": 3401.83,
+      "^WIG30": 4357.8,
+      "^WIG": 3401.83
+    },
+    "news": [
+      {
+        "title": "Szefowa Polski 2050 szykuje nowe otwarcie programowe. Trzy pomysły na stole - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczdzZzZPZmdRbGc2ZEhNaVAtODB3UGE5YXZ0Wmp5REZaWkxzTXB2cWRST1NqcW9udmh1djVpVmNBOEk4S3A4WWFIcG1PV2k4VlVXcDlNNWlYd0Z3Sm9MMFpUaHBtbXpyYVVRQjBSTXppbjhVZTNoTWV6ZTRNY0FiajJBQUlDVjI4dWZkTUNwNXIzYk5PeHpoajlQREkySXN6VFJ6Z1Y0RlpjLWxhWGo0T3VOQU1RMnhR?oc=5"
+      },
+      {
+        "title": "\"Atak na wszystkich\". Prasa o śmierci pobitego konduktora w Niemczech - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTFfNzJoaWVBSncxeG0zMFpYZnVjMlZQbDFPWWtmZFVDdjNoZ3JfMjNDUHZtZXBIVk9pLVFHdUc3UzFWWXFLQ1BfUDlmampXUXJVQ3k0SU5HQ1F1RnlnbGN0Xy1TMEtvS0Iwd3JzbGFBcjRVNHZXLTNjck1TbEJpMDg2TFBmTk5KLVVUOXZsenB0Rmo4TVlHMVZ3anFDdHNkMUVyQVVVblVKUDdWQlBzbTVHdFNtR1hMc21PUFFQZG9uSFUyV1Nubw?oc=5"
+      },
+      {
+        "title": "Skandal w SOP po groźbach wobec dziennikarza. Zapadła radykalna decyzja - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczlreXhRWWpwUC1FV2xGS1p1N2NBaERvaENyTUh4MURLVzZvYW1VbFMtLVdzNXlPZjdILW5GSy03a2JZY1VwYnZQTktQN0VjdTE0RGw4QzdfWTZmU0stSkZrRDYyaDE5R0lNX3k0c2trRnJIZjdXWThPeVlKTVptNklKdmo1VUF2VXZlbWUyaTlXTkE5VUd5b3lqeGdMTklXWmc?oc=5"
+      },
+      {
+        "title": "\"Polskie\" myśliwce już raz pokarały Iran. Czekają na nowy rozkaz Trumpa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQU1tWFV1NThNLWx2azVMb2JtNEo0MThjcDlhdTNOWGhvQl94ZVRKdk9heGZlOFBGWEtKaEZtYzhGVEhhUFZUWFJhd1B4TUJmVjlRclFJOFZILTJqWnlxZzNiMWlMUEtoUjlsSl94VHFlSkwyOGhxRmdJNk0yTFdpczBDRXJHR0ZCRlV2Xy1EYnd0TzN0MzRGdnBodWRpdXZTdklTQ0FZTmJ1VE9uUmNPaWUtalZRT09ZaU90WDVTLXVvbl9GZ0JYeGNWR2lvbllTb0E?oc=5"
+      },
+      {
+        "title": "KO na prowadzeniu. PiS ma podstawy do optymizmu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTM2S2hiQll5WXp2ZU1RUEZIc2dLazhlU0hUYTRvbHBJbXhETUpOd1FUd3JEMUZGeFQ3My1BNnFlY0duV1RhOC1HbVNoTkx0d0hyQmpxb24tbjltdlptem9kQlJXaVFhQmhZdWg2ems3Wks2RmYwNUt1RkdBWktKNDdzQlJqLW1aMjNKb1lGRHJjRlk?oc=5"
       }
     ]
   }
