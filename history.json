@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 06:44:22",
-    "weather": {
-      "Warsaw": "Warsaw: -18°C",
-      "Kraków": "Krakow: -11°C",
-      "Gdańsk": "Gdansk: -19°C"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 279701,
-      "DOGECOIN": 0.382516,
-      "ETHEREUM": 8286.4,
-      "LITECOIN": 213.85,
-      "RIPPLE": 5.76
-    },
-    "indices": {
-      "^WIG20": 3364.04,
-      "^WIG30": 4327.11,
-      "^WIG": 3364.04
-    },
-    "news": [
-      {
-        "title": "Polska poderwała samoloty po ataku Rosji na Ukrainę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVm9ERnFqRDc2YkFrNDZRQnRnRThld25YVEFDREpURFU5Vk9UUHZkWnVySjRRbzhLcTdWWldjRXRMcWlyRW1rbVEwUmhiTW5aRkhmUjhiR1R3ZkU4SmdZc19fRzlxS3pKd2dGZ09FQkt1TzhqcG5rd29XcU16d3lhT1B4R1FuMXJLYkYyS2VsODhQVlFuVWhZbVhvWHVXSWdSZUt1c0lLdzl6VFRNZzJpZUJIY3o?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki skorzystał z prawa łaski. Komunikat Pałacu. \"Względy humanitarne\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWwwWk9SNEZZUUNUWmtwX0h2VDVwdHl2VlhyRXFFVWt1bjRyQktUVlp5Nk5ER1Q5R2dZNC1iaVp1bS1ST3dqa3RQd3lnMXdPVWE1ZUYyeGl5ZUNmZ29PbFdMUmZYbkh4TFZJLTRzMG4wSHdrVkdTTkVpdHpHbE1hLVBiTGZsbHpsRkZMQ2RqdTNGT2VEdlJTNmNmSnNnQjAwRFlJX1BB?oc=5"
-      },
-      {
-        "title": "Wykoleił się pociąg na Mazowszu. Wagony zjechały z nasypu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXRKc0xXZy13TjU0Vkp6TlB1bVZqcVVHckdaSEJUcTNwcFlMTE9RWlR1VUJDMjFxZFVxMm4wN0ZJRDdGbHgydnhpNUhwWWJZcnpiNk1GUHpfbW5Qd0xCMnhhbW1RTnFZYUt6Q0ZqdWt6Q2NIMm9IRXB6RHB5eWxjeGZiMnlVcnRxU1dYdWpONVoxLTJ3R2pJcnpKM0txNUo0S0RtVUltVVhQZU1Ya2Q2OHVZZzlGWWsz?oc=5"
-      },
-      {
-        "title": "Szkoły zamknięte z powodu mrozów. ZNP ocenia decyzję dyrektorów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXAxa21VU3pMTlBYMENWZW9LOUJ3YWZxUDZmVTAtZWlyRGRNamhqMDRPM05hTkVKRC1iNDdPdjRRZk0xVDJnNDBILTlCSURTTmJISWpUTWpYdE50bHhNb19Eanlyd0pDWlRQZWtGQWUyUGVIemhHdHRkQ1ctcE5VQlNTUGprQ0lfTVZwUkktSjZzbWxpYmxXTzB5YXU0bm9tLWdyQUpQUWo?oc=5"
-      },
-      {
-        "title": "Kongres KINGS. Lisicki o inicjatywie Brauna: Całkiem udane spotkanie - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlBWTlDMlpoN2JwaTN2Z01hVXFsaUJhaGxtS1JlNEJ1Vm9YekxUR3ZRTm5MWDdpUURVN1lOeFAwYmdNY1J6ZE1wSURYc0FNVllCQ2JpUXl2YUdSOE1rWnBtVkc1TEh5OUtrTGtLM3BlLVRsWllrVTVnTTNINjYyTFNJbTB6U3NMVF80SERuZjhZNTlidml4endkSVZtZ0pTYVlnREYxTzM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 07:41:36",
     "weather": {
       "Warsaw": "Warsaw: -18°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "KO na prowadzeniu. PiS ma podstawy do optymizmu - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTM2S2hiQll5WXp2ZU1RUEZIc2dLazhlU0hUYTRvbHBJbXhETUpOd1FUd3JEMUZGeFQ3My1BNnFlY0duV1RhOC1HbVNoTkx0d0hyQmpxb24tbjltdlptem9kQlJXaVFhQmhZdWg2ems3Wks2RmYwNUt1RkdBWktKNDdzQlJqLW1aMjNKb1lGRHJjRlk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:01:29",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 249118,
+      "DOGECOIN": 0.351409,
+      "ETHEREUM": 7364.14,
+      "LITECOIN": 199.19,
+      "RIPPLE": 4.84
+    },
+    "indices": {
+      "^WIG20": 3379.96,
+      "^WIG30": 4324.38,
+      "^WIG": 3379.96
+    },
+    "news": [
+      {
+        "title": "Grupa przemytników rozbita. Stali za balonami z kontrabandą z Białorusi - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFUzcnB2WjlXWDYtYm9fbmM0dlpaWVM1aWM5S3FMQzZrbU9VYm9hTWtBS0xjVVJ1VXozOTBLaGZUT0pVVEo0ZWY2WWIwNUdUMjNTNzNJTHpnTDY2QkFoNlg2cHplWlM3eFFDdVNXOE5iMVE3N3BTRHQ5NWExQ09yNGliNXNNMVFielZqUFoyanVWWWZJUkZNVWpEUGgwdUtlMVpMSE93d3RiSFNVbFdCZEZmNlVDZFFVd2c?oc=5"
+      },
+      {
+        "title": "Kto zastąpi Jarosława Kaczyńskiego? Polacy wskazali faworyta w sondażu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEFmOXJfbGlUVTZnTmF0Ym9oVi1fWTA4LVVjTnZQZFRfUEQ3aE5BZVVxNm5MMmF4ODFJRVFydkoxNEpPbDNUSE1uWTV4NFBHTk92TlJfeFk1THFPSXVYTWoyaExZWWRFZmhfbVdlSG1SX0cxaFkwWTUwYl9YTDRfbzBjR3hLTk5ZbXNiZzVOdzh6WDMtN0x0NEtnMXZ1YlFVMlNZQWRsclEyX0FHSC1NQjlRZlVURTNmaUFGSndzbi1NV3FqVXJtaTZtV2E?oc=5"
+      },
+      {
+        "title": "Szefowa Polski 2050 szykuje nowe otwarcie programowe. Trzy pomysły na stole - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczdzZzZPZmdRbGc2ZEhNaVAtODB3UGE5YXZ0Wmp5REZaWkxzTXB2cWRST1NqcW9udmh1djVpVmNBOEk4S3A4WWFIcG1PV2k4VlVXcDlNNWlYd0Z3Sm9MMFpUaHBtbXpyYVVRQjBSTXppbjhVZTNoTWV6ZTRNY0FiajJBQUlDVjI4dWZkTUNwNXIzYk5PeHpoajlQREkySXN6VFJ6Z1Y0RlpjLWxhWGo0T3VOQU1RMnhR?oc=5"
+      },
+      {
+        "title": "Podano datę. Nadciąga ogromny mróz do Polski - o2",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVktLVVCMVVOVW9jbUNMRDJyTTljQkZMX295YWFiVFF6djRUZ2ZnQ3RRYXFrQ2pCRzQza1F2RU5VZ0tpVHhvNXZqNjFjMFRUQVZpQjdpdFQwbGZTUjBMQXFmY0VEYUJKdnZmQS1SSDgtb2VRUmpzWDJLSjhkblQ0c2RWaWE3OThxRlV2ZjNJRQ?oc=5"
+      },
+      {
+        "title": "Darmowy \"Poradnik bezpieczeństwa\" sprzedawany w sieci za zawrotne kwoty - Wydarzenia Interia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUDhtekpJQndia2ZEQXA0T19YdU9iWjFsUzdQN1dKLVIzQVh5eklWVHotT3VPRnZIZ2ZobG1DZkhyd19EeFZZSG9GNUg1RDRUMmo1SEFXV2tEbVotYnFsYTh2c3NYd095WVctc3ZFVk5ZU3Y3M0JCa2JQbGtyMFRUdmR1WXBDMUp4NkpoZ0pWQTUwNXd3dG1kX0E0SWpqb0x1T1A0VW1iV2RYM0lGbWY1b0locw?oc=5"
       }
     ]
   }
