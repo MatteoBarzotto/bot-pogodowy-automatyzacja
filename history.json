@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 13:43:56",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 279981,
-      "DOGECOIN": 0.385831,
-      "ETHEREUM": 8211.39,
-      "LITECOIN": 214.86,
-      "RIPPLE": 5.75
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Braun przyjechał do hotelu, zapłacił i... wsparł Ukrainę. Znamy kwotę - Wyborcza.biz",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTBCZFFhdS1zejV4Rl9oeUFZS2hIRWxlVkJuMGdhMlpDUllRYkNsbkRDUjhrMnVqSWsxNXR0Z3YzUHJnWGdzV1NDRWllQlZfS2lwSHkxbXJ1WnNHcW0xc21iMmtFZzcyaW1yVTRySERDX3ZlUkZMZlByWThyQ3lDOXVZNVZqd2VkY2syVFE4OWtsNEtQZmZramFwWUszdU9TLW5xdi1aN1hLOW1wUzFyRUJKWlFsbFE?oc=5"
-      },
-      {
-        "title": "Eksplozja w śmieciarce na terenie Lotniska Chopina - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDNNUUZIaC1IbERYUmwtZzVLcHhSVUpJREpDMWNFZ09WTkFTRGR2SmNvMHYzWndtbjJXOHdwNHRGUUFpN2hnX2lHa3E5a2tlYlFYMGt4QUZXLV96SW1vY2EwNDFiLVlzaUZLUXdWR0RraWhLZXh0anVIRkFGQmZPUTJQRk9BcG8wRkJwTzlDMWhhOUttbHhaejRB?oc=5"
-      },
-      {
-        "title": "Dostała wezwanie na komisję wojskową. Przebieg ją zdziwił - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
-      },
-      {
-        "title": "„Jego stan się nie pogarsza”. Jarosław Kaczyński nadal w szpitalu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWhka2VlbW9xcXV6ZHlKaDE5ajVPWm1QNC1yWUxsMmxwSjhjYjcwUVkxM19VZWwtUTFfS1VUSUlHMFlUYlhjM3hubkFiTHpDdVExaTVEVXJZa3NTZmtaRjhaWGlvaENFTGtSVFF3c3N3eXdyZ01OVHpHZjhmYmhrTm9ndDhLWEdNNDJ1THYzWW1fUS1RcnJKdkNnNU4zV25ZYkhTX2JNNA?oc=5"
-      },
-      {
-        "title": "To nie myszy. Zajrzeli pod parapet. Nie do wiary, co znaleźli - o2",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYy1BMnNObHZrR2NhVG9mYzVtdkE0R2xTT2tYdENqNVJGdnh0azU3SlYzdVFDanFhT1BIaHlsa29QU1pIVlowZ3E3dTl4S0V1YWNrdGVjRlV3U01LWGFvZXNsWWNtRkd4MmxYS0hmWFFHNWl1NkJ2R3ZhckRMYzNHMUtQcEdlU1RyTlRodmp4YlB3UnZuYVliWEJnNGNIa0lhLW9QbVBtQWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 14:59:28",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFUTV9wbU5yMXAtVVpxbmpmZkhZTEpLNnBiVlc1M2hUa2ZBUzQ1V2lRNlQ4RE1MU0lSUUZ3VnlQN2drb05hNC01UlhlQnd5TU41cl92LVREdldvWklUUE1TNGNFRVJUMk1JSVQtcE13MXdDdERiNHlxaFNSaDdEVGttNDBldmo3dnFiV2ZPTEJDMGNQYWNaakZBY2Eya2szVmQzR1V2MXR3QjZPYXA1Rzd3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 22:22:34",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 226787,
+      "DOGECOIN": 0.317379,
+      "ETHEREUM": 6705.4,
+      "LITECOIN": 181.99,
+      "RIPPLE": 4.18
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "\"Ten stary komuch\". Mateusz Morawiecki uderza we Włodzimierza Czarzastego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGlkV09LQ1pUNkszSWJjejhWQnVzOTZoczkyclpoV19vRThxNzBrQ3RvUWtVNk1FWDZ1WDlZTFVyR2N0V3l4Ym80UDRWZGE2c21uUXlBZWZCTEZNX2JUcXpVeFFFQVlrMmZsb1ZFTG1rczJNRHBZbmZsWDBleTZ5aFJvZEY2OWhwNG91Rm1zR1BwbTN0dFBrLVBrUzdUWU1sd21SNnNjOU9XZGF0NVl0X3NqeGhjVzlCdzVjY0NhQlJlLXUzRVBfdFhqMFJGdw?oc=5"
+      },
+      {
+        "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFUTV9wbU5yMXAtVVpxbmpmZkhZTEpLNnBiVlc1M2hUa2ZBUzQ1V2lRNlQ4RE1MU0lSUUZ3VnlQN2drb05hNC01UlhlQnd5TU41cl92LVREdldvWklUUE1TNGNFRVJUMk1JSVQtcE13MXdDdERiNHlxaFNSaDdEVGttNDBldmo3dnFiV2ZPTEJDMGNQYWNaakZBY2Eya2szVmQzR1V2MXR3QjZPYXA1Rzd3?oc=5"
+      },
+      {
+        "title": "65-latek chciał posypać śliski chodnik pod domem. Nie żyje - Kobieta Onet",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWhxSnZCWXZfVFpITU1GTXdEajF2TjQ1VUQyRktod1lTRXRWRVo0c3lOdUdjV0t0ZjNhRGtySmk5QW1HOThvTnAwYzhWNjRMZU5PcUcxQndtWGgxakFubXJad3AwNUYtWi03dndtYWxvNktESGZKdVYwWnVJLUVFczItdlZMVDYxbVAxaTk5OGw1cnFuZk9saThKRXhTb1Q0Q2h0azM5ZU5hMFoza21kQ0ZEWGJuc0E?oc=5"
+      },
+      {
+        "title": "Aktualizacja mObywatela. Nowa usługa dla każdego - dobreprogramy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamRfeldTcHR1VFZ5WE5wV1NTZko1akxRY0FMMjVvZmZTMGRKQzgybmlfWDFUT2tuRnV5amtfLUNacWVVbEQ2VEViTFBoeFdUWDVYN29FVzlCQ2dTdzVPdmZHVVRYajhmRG9HLTRsTVc3TkdOaE1tX2ZpU3JHTnVrM2RiMFNkdzlqR0I4YVhMWDNuVE5uRmI3S2dR?oc=5"
+      },
+      {
+        "title": "KO na prowadzeniu. PiS ma podstawy do optymizmu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTM2S2hiQll5WXp2ZU1RUEZIc2dLazhlU0hUYTRvbHBJbXhETUpOd1FUd3JEMUZGeFQ3My1BNnFlY0duV1RhOC1HbVNoTkx0d0hyQmpxb24tbjltdlptem9kQlJXaVFhQmhZdWg2ems3Wks2RmYwNUt1RkdBWktKNDdzQlJqLW1aMjNKb1lGRHJjRlk?oc=5"
       }
     ]
   }
