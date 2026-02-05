@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 09:29:16",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -10°C",
-      "Gdańsk": "Gdansk: -19°C"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 281649,
-      "DOGECOIN": 0.387581,
-      "ETHEREUM": 8311.22,
-      "LITECOIN": 215.19,
-      "RIPPLE": 5.79
-    },
-    "indices": {
-      "^WIG20": 3397.43,
-      "^WIG30": 4369.14,
-      "^WIG": 3397.43
-    },
-    "news": [
-      {
-        "title": "Nazwisko Sandry Kubickiej w aktach Jeffreya Epsteina. Modelka komentuje: przerażające - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG55RTdSZnY3dmRhbWk1UDNZbWgxRjYwOVdsT2stR2loZmdGV2ZSeVRJamZVYzVBd1lteUs5TF9rX3drb2FMRnpvMmJtck9PLVFyU1VsZHJLUEY4d0JlWF8yWkNIUXMyT2Y0a01mSW1weFBFMWFoeGRfZEgzT1VKLWJWN2hzZDlCZ0Y5RjJfR2RRRUNwVVhJT3N1Y3NqRXVHcUFHbEN2WEU2bzZaMkM0ZHYyODlrZmxCTi1NN1B2dEh6NFRZdDNB?oc=5"
-      },
-      {
-        "title": "Działo się w nocy. Trump uspokaja sojuszników - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTdUOGRSYzRhYm84OTRwRzJMa2lPNzYwU2NsUENmMGxOaUQtTTY4RDdsSlp6Yzhfc3djcmtTcWhiQ09kZ2FmcG04S2tScE1nYTlOYUZIdTNUOWRTeGtQMFBKY1NucGdoTTY3ckVTajlOaE9LWWlCY0t6d2RBdXRPQTBJelIzZjZIam4ydktUZlY?oc=5"
-      },
-      {
-        "title": "Potężny atak Rosji na Ukrainę. Ogień w Kijowie, uderzenia w elektrociepłownie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2dYZ0h3a2Z0ZmJvRk9CZTdDekQyUWcxQm5wTENMS3pRQ1NCcEhTZXhyVzRpRXd3TVpsZThoLW9tbXo5eHU0M2tlazBtcEU5LUtGcDRmZnk1N1BjT3hmc2hmZEpsQlAzcEk3N0lYUWsyMmJvdUltUUVoWG5ubHRxZl93UGNwM1dZLTFCOUtvRW82Z1NiNks5VGllckpxUmNxVXp4WjhTZlJnUXVTdnpmY0RIUWoyN0VQa1E1RXFpZHdUUVZ4VURzTmFpM0xocF96N0ZEUg?oc=5"
-      },
-      {
-        "title": "Śmierć w internecie. \"Dla wyświetleń zniszczono mi życie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcE1Ob3lkZlV3ck9nc0dwZUNlU2ZhVFI3V0cxdnNISU9GVlZNY0xmTnVrLWladmhmUlJQRFgzV2RwN0FYYU5BRzY2b3FJRThONVRNRWc1OWpfSVUyS052UG0wWnY0ODdaQWxuTS0temZUU0puTE1ZMHBQdWlYQjI3WTlxRjU1M3VQOHl0TzFGd0R3bnZtZVgwRUxYOFhxZw?oc=5"
-      },
-      {
-        "title": "Koniec polskiej fali w Holandii? Najnowsze dane szokują - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMngtUzRIRTF4RmRfM3poLS0wUlFRMDZBRjNDRzRQS0ZFaVA2a2hCRGFzb0ZoNzZHa2E0VllvMlZNck5EUHRFU2ZKQnpDak16bHZUci1VQm5lQ2RxRkw1M2VmTjNoQUQ1ay1JczJkVV9kdGFkbEstc3hUbm9Fd3ZoQmh5VjNZMU9GY0pOZENjY2ZBdU9NQVlUNU8tZ2VwemJCZ0w5NVpMQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 10:34:24",
     "weather": {
       "Warsaw": "Warsaw: -17°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Aktualizacja mObywatela. Nowa usługa dla każdego - dobreprogramy",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamRfeldTcHR1VFZ5WE5wV1NTZko1akxRY0FMMjVvZmZTMGRKQzgybmlfWDFUT2tuRnV5amtfLUNacWVVbEQ2VEViTFBoeFdUWDVYN29FVzlCQ2dTdzVPdmZHVVRYajhmRG9HLTRsTVc3TkdOaE1tX2ZpU3JHTnVrM2RiMFNkdzlqR0I4YVhMWDNuVE5uRmI3S2dR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 18:41:48",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 239662,
+      "DOGECOIN": 0.332495,
+      "ETHEREUM": 7050.69,
+      "LITECOIN": 191.74,
+      "RIPPLE": 4.54
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "\"Operacje szturmowe wstrzymane\". Rosjanie \"ślepi i głusi\" po odłączeniu Starlinków - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN29JOXg2blRNZ0o1LVNlYjVEekVCN3k1TDhrd19yMy01ZjJ6aDQ0TVVVeXE1UTBpXzBKN1JIMFdFbldUQm90aV82ekpUdGdhYVBuREZ6SnM3ckhMZlpuX2dQRWJHcmJvVDJxVFZGRDV4WVRyeXdaWXJHeWpKVWZwM3hWRHZlWEpSS1JxV3RQQnBlMVNsNHFhMHA2X1JUa2NlTmNDWnUySEE5NUVRTFpZR09pQTBja3ZnUUFsZ1FIRUFXcXRSWUw4MmFKWjZHdUU?oc=5"
+      },
+      {
+        "title": "Grupa przemytników rozbita. Stali za balonami z Białorusi - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFUzcnB2WjlXWDYtYm9fbmM0dlpaWVM1aWM5S3FMQzZrbU9VYm9hTWtBS0xjVVJ1VXozOTBLaGZUT0pVVEo0ZWY2WWIwNUdUMjNTNzNJTHpnTDY2QkFoNlg2cHplWlM3eFFDdVNXOE5iMVE3N3BTRHQ5NWExQ09yNGliNXNNMVFielZqUFoyanVWWWZJUkZNVWpEUGgwdUtlMVpMSE93d3RiSFNVbFdCZEZmNlVDZFFVd2c?oc=5"
+      },
+      {
+        "title": "Szefowa Polski 2050 szykuje nowe otwarcie programowe. Trzy pomysły na stole - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczdzZzZPZmdRbGc2ZEhNaVAtODB3UGE5YXZ0Wmp5REZaWkxzTXB2cWRST1NqcW9udmh1djVpVmNBOEk4S3A4WWFIcG1PV2k4VlVXcDlNNWlYd0Z3Sm9MMFpUaHBtbXpyYVVRQjBSTXppbjhVZTNoTWV6ZTRNY0FiajJBQUlDVjI4dWZkTUNwNXIzYk5PeHpoajlQREkySXN6VFJ6Z1Y0RlpjLWxhWGo0T3VOQU1RMnhR?oc=5"
+      },
+      {
+        "title": "Przerwy w posiedzeniu aresztowym Ziobry. Zamieszanie wokół przeniesienia sprawy - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnpDTl8xeXpzMnptMi00VHpUU3NoR1V6bnpBQWNHUlhCdzhPWThuT2ZDd1JYbW9aVElabkVTdDlkaHZtV3d5X3ZOZEZMMEVPZGpzWnprekhBMDBlRE0tQkJWQTVzLW5ub3hGS2JIQzhJWU1ESkJtbGtVOTY2TUlEaE5aMk5rWng0c0Y0YkRYOW0wTlhaYndOM2tVcEVIZG9sX1hBZWJXRGQtQjk2R2tLUkxsN05BU0NMbkE?oc=5"
+      },
+      {
+        "title": "18-letnia Emilia wyszła po paczkę. Tragiczne wieści. Policja potwierdza - o2",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjZvTUhFSFRydm5YS015WlpjZENRLTlMd1U3czEzNTJOZzF2MGtzd3dCbjd2eWRaNFJDb0RSMG1nUXk4NkVDOUtGNktVXzIyS2UyUTVfNlotVjZNSmozYUJNcmQxdXk3MzgzNlZ1eUFOaEJtU0VHTmpLQ2NUc3gxc3ZJRWUtN1ZpWGNYcFo1eEJ2SUxTVXliZkxINUFOUTh2TWFCQnBXcVBZUVBaVHBIQm9UU2JNTVU?oc=5"
       }
     ]
   }
