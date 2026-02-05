@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-02 13:43:09",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -9°C",
-      "Gdańsk": "Gdansk: -15°C"
-    },
-    "rates": {
-      "USD": 3.5495,
-      "EUR": 4.2106,
-      "GBP": 4.8658,
-      "CHF": 4.581,
-      "JPY": 0.022934,
-      "AUD": 2.4718,
-      "CAD": 2.604,
-      "CNY": 0.5109
-    },
-    "crypto": {
-      "BITCOIN": 277096,
-      "DOGECOIN": 0.376474,
-      "ETHEREUM": 8189.46,
-      "LITECOIN": 211.95,
-      "RIPPLE": 5.84
-    },
-    "indices": {
-      "^WIG20": 3357.57,
-      "^WIG30": 4317.67,
-      "^WIG": 3357.57
-    },
-    "news": [
-      {
-        "title": "Finał wpadki Waldemara Żurka. Minister ukarany mandatem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG5FNm5vUXdwMU0zZjNjU1dnY0l3aDZSWnY3NTF4UW9wcll0TmdaYnd0UnlOZFVFZ1ZMb2hmVDAwZng3TllnNERYMVlmZWZMMjdVYnhsYkpvRnh2bldLY2pMelJJVzN0d2ZLb1QwNHdOdjZYR2pkN05iSE85OE1XdjREZHNKbkhYdU9fd0h3dGw0OFJUT1ZLZzFXOXg5UEdxQlF4MnlEQUozNUsyS1hlaUFNdkxVbUZk?oc=5"
-      },
-      {
-        "title": "„Jego stan się nie pogarsza”. Jarosław Kaczyński nadal w szpitalu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWhka2VlbW9xcXV6ZHlKaDE5ajVPWm1QNC1yWUxsMmxwSjhjYjcwUVkxM19VZWwtUTFfS1VUSUlHMFlUYlhjM3hubkFiTHpDdVExaTVEVXJZa3NTZmtaRjhaWGlvaENFTGtSVFF3c3N3eXdyZ01OVHpHZjhmYmhrTm9ndDhLWEdNNDJ1THYzWW1fUS1RcnJKdkNnNU4zV25ZYkhTX2JNNA?oc=5"
-      },
-      {
-        "title": "Obiekty z Białorusi. Polska przestrzeń powietrzna naruszona - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhaWGFOcnhmRFVmMlUxQ184WmlKdGN3ZzZVSnN1WXFVc2tOTVVDWWFVS0syVFBqOWMwTklvbENoOUZnTzFFWFh3Uk1YbHl6SlFhN0ZNM05ldnFmLXVGczdyVW9Ja3FDTGtFaHFfazd6enN0eFQtajhEWWZHVUpjcXBfVDNfb0hmcUNMN1lVdEZ1alptdFVzRTN5VHR2UQ?oc=5"
-      },
-      {
-        "title": "Rozboje, narkotyki i miliony z gadżetów. Koledzy Karola Nawrockiego prowadzą biznes Lechii Gdańsk - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmRxYm16Q0tlblhXRWl5WTNnNG0xR3Y5TjFucnZYM2t0U055YTM0S0w0bWQ4d3c2RTUxNWdzOWdYRElUY1B0cE03QXNKVl81S19xVGI2djNJWUNWdzdSRHduc010ZFJqSkh0SUZweHVLUTNPQ2ZhMW02dk5CcXNielFIcDF4bW9hZ0xiekdCenllMHRRcFhLTE5YREVmQXdsckstSUs3Qm9FRzgxOW1nTTdOTkhlUlF5Vl9WV3o1WjlNenNZYUxTbE1CQk9OSnU3eHJtNw?oc=5"
-      },
-      {
-        "title": "Zostały trzy dni. Były prezydent Rosji: Zegar zagłady tyka - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcU9XZ1pJdnFDek1ZVnhidXFtVTFUX2doRmhZeHBkWmNEbHVYeGpsa0pqUGN5WExCTFh6Tkw3SkNvR05XYlZESWVLWlZlcEpqRzBjN0dEZUY1cEFXMF80TWllUmZPNUUzcGEzTlA0cXRYSVBPUWxlMXRnY29IMGt2WWhwVGFmRXluV2RNVUFVSTJjQ2MyQVRCU3NiSVVvTk9LejAwYlJ3T0w0R2htNmp4cFhR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-02 14:57:36",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Chciał zabić Trumpa. Niedoszły zamachowiec skazany - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVFqTzBUaldaTDdkV2tKTzVTeGd3bjRBMENoVVU0eWJSWlpMZkU2T1hLRTQ4Vnc5bDdIVmJaUkc4d0pZZFFEZm9zZjFQUlZ0OUZ4bTRYNGdYZW96d3dRMXdEVlI1SkFzV3pGZUJMSEZpaGVISjhySkpKRVFEXzVvOC1fal9VVXdwdnZNVG5PS0NKajVkaGpj?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 02:26:01",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.5755,
+      "EUR": 4.2241,
+      "GBP": 4.9015,
+      "CHF": 4.6059,
+      "JPY": 0.022825,
+      "AUD": 2.5102,
+      "CAD": 2.62,
+      "CNY": 0.5149
+    },
+    "crypto": {
+      "BITCOIN": 257717,
+      "DOGECOIN": 0.368015,
+      "ETHEREUM": 7611.19,
+      "LITECOIN": 209.44,
+      "RIPPLE": 5.25
+    },
+    "indices": {
+      "^WIG20": 3457.14,
+      "^WIG30": 4424.55,
+      "^WIG": 3457.14
+    },
+    "news": [
+      {
+        "title": "Wraca sprawa ludzkiej ręki w śmietniku. Są wyniki badań DNA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmxtb3lldl9YZmtYWUVBMkxaa2JFbWVwNGNIejY2VGNXbjlsQVl4cC1QMVJvNi03N1czaFpvZHJJTVJxa3lLbkxLTmRybGhzSWpCY1EyTTZ3YTJEeVd6NmVCZVBHN3dpSFlFdENickFWYVYzcVJHNGpDMEpiREd5SVpjYnIxZ2Q1Nk9ac3NSYjdPZE5BdDJYWEpaU2NKdVBUTWlr?oc=5"
+      },
+      {
+        "title": "Szok w Malborku. \"Termometr wskazał minus 17 st. C\". W takich warunkach żyła 85-latka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0FhRFVCOGtYN3JBVGRfa3pqWEFyTHBLQUd0ckZmcG4xeTViX2FoN1VBUVg4LUxiWno5MmF0WTB5SEZab0hOOGtxMjhFU1BQQk8tbmlGaVk0eVROUmYzeXlTM0dONWVueDVBUVdJSldOVVNJWWZfNzBySWotanU3dFFmNnlpN25nR1k4Znp5dzJ6aXVPd3IwVFk3VkRpZWxvZ19xenNfak92NkVZd0JCRDYwNXkzUzNMZHRqcVU1WHBqdVVfTXZR?oc=5"
+      },
+      {
+        "title": "Zełenski podał oficjalną liczbę zabitych na wojnie żołnierzy Ukrainy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWV9IaWg5T256WnJualdDLV91bmJlcWdGWm5XS29yajNPQVRheWFPYzB1WlJRMVlfeFFScDZfbW8ybGs2WXdYTUVIYmVPa0EzSm1fT0ZRSVpVcUxzZlB1elNmOXdFa01jSkFjOU5RajAwcEtXLWx6UDFYNS12WXNpSEx2UkktRGxEOEJKRHZTeG9GYloxaGM1TEVQdkRLa0ljYnQ0?oc=5"
+      },
+      {
+        "title": "Zacharowa grzmi ws. byłego księcia. \"Zatuszują\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEhtaHRaVmR3RXVNSm5FYk1LcGlhUHRJdzFFQ2R1U0ZKRzkxcUl2clQxaDRBLWEzYkM0WHNzdEpGeXkwbktMTExncWs3Zk1vajNmelUtYlBfRElhVmJxUUxQQnJPSEU3QVlYRUI4SUljUUk2NThJX3BOaVFvZkVBbWlkbFBxdHR0d2tXNXVuTQ?oc=5"
+      },
+      {
+        "title": "Ataki w Strefie Gazy. Dziewięć ofiar, w tym dzieci - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkNfelZNRW1HcEZYNDdOckZNZDlVQ3FoVWduUUhfMzhMLXBhZHh5Nk5UUzhQclNRLTdrLTBvbFBpQVdvaUl2MFlqSWxaNmRmSmtjYXhrYmNHTUVEN3BYd09RRzJKODE4MEQwSVNqM0NHM0RaZ3ZXOHJQdm5IcUU4XzBQMmFNcFROYllidkRJVXFHSFRjbEE?oc=5"
       }
     ]
   }
