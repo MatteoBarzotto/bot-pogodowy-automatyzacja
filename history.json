@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 15:50:26",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 278674,
-      "DOGECOIN": 0.38324,
-      "ETHEREUM": 8172.5,
-      "LITECOIN": 213.81,
-      "RIPPLE": 5.72
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Nawrocki zwołuje Radę Bezpieczeństwa Narodowego. Podano szczegóły - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllsZTVmeElWR1VSdUZ5b1FlYW03dGV0dVI1bGtUdGhtY09QWnNXbnRDRTZrWE80QmdDel9PMDJiUm9oWmpMcDhGZ0JsSE0tLUw0aHNEOUFtNDJZYXB1MENuMThFRTU0SVJzay0tclhFQlVXSWZDek1FSFJCT3lhSzYyXzViS1F3MnBwZU5UeDVHQ3BROUFMQmdJV1lqM3ROTHFGLXpxTEQzOHc?oc=5"
-      },
-      {
-        "title": "O co pytają na komisji wojskowej? Studentka opowiada, co ją spotkało - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
-      },
-      {
-        "title": "Braun przyjechał do hotelu, zapłacił i... wsparł Ukrainę. Znamy kwotę - Wyborcza.biz",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTBCZFFhdS1zejV4Rl9oeUFZS2hIRWxlVkJuMGdhMlpDUllRYkNsbkRDUjhrMnVqSWsxNXR0Z3YzUHJnWGdzV1NDRWllQlZfS2lwSHkxbXJ1WnNHcW0xc21iMmtFZzcyaW1yVTRySERDX3ZlUkZMZlByWThyQ3lDOXVZNVZqd2VkY2syVFE4OWtsNEtQZmZramFwWUszdU9TLW5xdi1aN1hLOW1wUzFyRUJKWlFsbFE?oc=5"
-      },
-      {
-        "title": "Tragedia w szpitalu w Bielsku-Białej. Prokuratura bada okoliczności śmieci 40-letniej pacjentki - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOW9STm5fNnAyOWM1TC01ZE9xNmVib1luLTAzcTcxbXIzS2ZRMzMtaXBvYkFlVGJpNGtmSjM4cHJSYVJFb0YteUNkUDd1WFhCVWhFMUYxS2liQko5bHhsdVZmWmtubW1YUTBnRUJiYWFGZFpGWHA3YnNUWG1PMG1Kd0ZwVTBvR2Vka1J6bXYyZFpDM3k0UWhmVzZvdHJnLVlDU0VxN2RucmcyUDNzOFRDdEMyQzJWVE94UWRxUmlRZG5OMU0?oc=5"
-      },
-      {
-        "title": "Trzy zgony w jedną dobę. Policja bije na alarm - o2",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NEbnZ3bElJcENHNENQR3BMY2VyWVlTd3hPcWcyNVVac2VRLVF2X3F0RVo4WjlWS0VKdExjd2pKZUN2WjRfUC05YVBxVXJMZDdYMmRHTGxjQ0lXN05EbUxxdU9xR3ZaRzd1RW1aVEhkeGV5YldkNlVHbVBYd1Y1Sm1jX3NHZVZmTDdaMnEyM0dkZk1Ec3Iw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 16:42:17",
     "weather": {
       "Warsaw": "Warsaw: -7°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFUTV9wbU5yMXAtVVpxbmpmZkhZTEpLNnBiVlc1M2hUa2ZBUzQ1V2lRNlQ4RE1MU0lSUUZ3VnlQN2drb05hNC01UlhlQnd5TU41cl92LVREdldvWklUUE1TNGNFRVJUMk1JSVQtcE13MXdDdERiNHlxaFNSaDdEVGttNDBldmo3dnFiV2ZPTEJDMGNQYWNaakZBY2Eya2szVmQzR1V2MXR3QjZPYXA1Rzd3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-06 00:18:32",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 231354,
+      "DOGECOIN": 0.325426,
+      "ETHEREUM": 6791.76,
+      "LITECOIN": 187.37,
+      "RIPPLE": 4.5
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "Gołoledź, alerty w całej Polsce, a potem potężna zmiana. Nadciągnie powietrze z Arktyki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUxCYTJyN1gzVGxiSlBzUHl4a3RLNU56LVVBZHVLYkNKS3g2eWh1WURmVHFOcEgydzBkMUNjX3drelUya1cwUWxVak5nZ0NPWTk0MDlUUkZpZF9FYTZkcWtOT1NOREZpblhYNXVaT3Z5SkhkRjNqREtzMEw2cjdHY3Y1a25MOTVlRU5qOHN4VHp1SUlCaHY4YUdEYWdmUy1YVlVsNVpuTks1R2c?oc=5"
+      },
+      {
+        "title": "KO umacnia się na prowadzeniu w sondażu. Polska 2050 i PSL pod progiem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVdORWJiN0VUOFFGUWFQWEpwWTNTNVhsaEtzclBwbHgtQTFNcy1sNFB5V3FReXhzV3JUR01XYURJS3Z2Mkd1eW1fTkNvbVhJRGRKYS1OSl8xclJxa1dkWWZWUkdQd3d6N3Nyc1pmMTB3M01JemJKVE93Rkg3blhGM1BfMU53N3pLVElJSHJrb1ZvQkhjemVYWVdRRnlUSnVQeHFGME4xWWlBQUtzS1N1Ug?oc=5"
+      },
+      {
+        "title": "Symulacja wojny. Szybkie zwycięstwo Rosji i chaos w NATO - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkpkQzBzN0tQckdGUWpFcFppZVJnaWxqemtkNkFpWHhUQzdySUIyeXdYX0QyQ05rUUpPYlM4c1lWM3QyWGNralhhemtLTF9LTjlPRl85RzAxUFptTl9UZFJlTHZfN2JieUpIaXdHYkxHYnVqbmRlNHpPcUF3N2RweWlNYVNfekFGWjltcC1SRndfeTZieEVuTF8yczA3dHc?oc=5"
+      },
+      {
+        "title": "\"Ten stary komuch\". Mateusz Morawiecki uderza we Włodzimierza Czarzastego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGlkV09LQ1pUNkszSWJjejhWQnVzOTZoczkyclpoV19vRThxNzBrQ3RvUWtVNk1FWDZ1WDlZTFVyR2N0V3l4Ym80UDRWZGE2c21uUXlBZWZCTEZNX2JUcXpVeFFFQVlrMmZsb1ZFTG1rczJNRHBZbmZsWDBleTZ5aFJvZEY2OWhwNG91Rm1zR1BwbTN0dFBrLVBrUzdUWU1sd21SNnNjOU9XZGF0NVl0X3NqeGhjVzlCdzVjY0NhQlJlLXUzRVBfdFhqMFJGdw?oc=5"
+      },
+      {
+        "title": "mObywatel z nową opcją. Lepiej się z nią zaznajomić, bo może pomóc - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjZtXy1KMnJRRVc3ZmpvMU90ckY0MXlkdWJMWXc4VjFXNzF2TkVCWVhwRGJyWFpMVjRsdkJaby1STGFtcVJCSzJOcnJGZDg4NmNfdU5scEpUbVVEQUdKNktnTjFzZUZ0Qi1iYjBjakRaeVgzREYzaFZOSWw1RHREbjNRRnVSNUdZT1RpNTlBTkRaR0RGdHQtbTFXenJzeGhqSm5scjBWdjZTdVdsWGZTLU4wNA?oc=5"
       }
     ]
   }
