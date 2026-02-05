@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 12:29:10",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 279288,
-      "DOGECOIN": 0.382143,
-      "ETHEREUM": 8142.93,
-      "LITECOIN": 213.84,
-      "RIPPLE": 5.73
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Rosyjski szpieg w Ministerstwie Obrony Narodowej? Poranna akcja SKW - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa182dGdJaXFSNVczSEdPQWs3M29zcERqQlJLdjhIWE0tQlRUZ1hFZWdqQjNDRjE4b19vRUhFMW5xMWpjTUY0NWlndm41OEdrcTRhdDJOaW9XamVtVk1wbUlhaWRDM0dOZ1dqblhnU2VGbW5uU2lKbGFmVHUtNDJBVlM3MUp3RGdiQjNNX0F1VjlvRjI0Qk10TUNBalB5cGNEanByQVM1X3k2dlZPZXZFUUt1eTdSb1BQZTBENzQ4cWQtbEhOVVp5UnROa3BscFdnejRQeQ?oc=5"
-      },
-      {
-        "title": "Polskie myśliwce wróciły do bazy. \"Aktywność lotnictwa Federacji Rosyjskiej\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlMzX3ZtVDlCckJKRmtsbFVjNG9sUkw3aUdBY29sNVZFa3JTMmJLdTk5UGtTWDhyX3NTeTVETERlaUx6TTVGWFI4bUZFX2ZyMjIyVVc5ZUhjeFZLbXU2c3dPbVNWNnZMYXZITWFkNy16M0JLSzhXSWk2NXFleW1YdUVrSVJCZXctS0k2RGdYMjR3NXZmeU01dlRZWGloWE9ibGNTQjU5QjRYLXBMOTBzQmxHNnlLczA?oc=5"
-      },
-      {
-        "title": "Eksplozja w śmieciarce na terenie Lotniska Chopina - Onet",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlJ0eTl6M1R5QTBueXFTR18tVDdRY093ZVJJRGlpVWJjMkRFSzlDOFdXeFRJN1JnR055WlZsVVZHVXRSQzhEWVlfRlNGek1nNzdDVFVRU3dPdmNrVWJ0Rjhaekg4bnptaWxQNjJGOWloaHQtb3p2WmhsNmFrUTljY3prY2lVS1dRZmRRbzdxQ0V4Sy1nN2RHM2cwZHZreG9kZW40dGFNbE1HNHU1VjdrRA?oc=5"
-      },
-      {
-        "title": "Śmierć w internecie. \"Dla wyświetleń zniszczono mi życie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcE1Ob3lkZlV3ck9nc0dwZUNlU2ZhVFI3V0cxdnNISU9GVlZNY0xmTnVrLWladmhmUlJQRFgzV2RwN0FYYU5BRzY2b3FJRThONVRNRWc1OWpfSVUyS052UG0wWnY0ODdaQWxuTS0temZUU0puTE1ZMHBQdWlYQjI3WTlxRjU1M3VQOHl0TzFGd0R3bnZtZVgwRUxYOFhxZw?oc=5"
-      },
-      {
-        "title": "Noc pogodowych aberracji. Analiza wyjaśnia trendy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2l2UXo5Snd6d2tkNDl3R180a2JVaTNMVmRkWDVLMlZqUDBlZ1hlUkRqUmxwbzhFWVNJNDZEN3BDckY1SkV1VERTbUtGTGFvY2QtQi1NRlA0MzFDSUQxWndJMjVJY2RFeEdkajM1WThTSlk2UmZTajhpbm40cWg0ZU5HZThsUXhtTjd0NmZ6N3ljeHpzQkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 13:43:56",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "Viktor Orban wywiera presję na Donalda Trumpa. \"Jest winny Węgrom\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3pBN252eXJZTnd4ck1ELXF4ZnR2SWh0NTZvd01oNlFTalRoSmJnSFNuT2tNWDJGWXB1em9jQm9zQ3dWWGJoa1Zhd1lUQkZrNFMwZDVIa2hZU1JsLVBWMHN2eHRuamJFT3dIbWM1dXk1MDFsT3V4NS1KakhaLTRMX0o0cDlzdHdielc5YlBTUkVkYkJMQnhYcVcwc0hPT3NLN0V5NU0tODMtd1A5QXl6Mk5XdnBBZ0NLdGNiRHlObjAtWGd3?oc=5"
+      },
+      {
+        "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFUTV9wbU5yMXAtVVpxbmpmZkhZTEpLNnBiVlc1M2hUa2ZBUzQ1V2lRNlQ4RE1MU0lSUUZ3VnlQN2drb05hNC01UlhlQnd5TU41cl92LVREdldvWklUUE1TNGNFRVJUMk1JSVQtcE13MXdDdERiNHlxaFNSaDdEVGttNDBldmo3dnFiV2ZPTEJDMGNQYWNaakZBY2Eya2szVmQzR1V2MXR3QjZPYXA1Rzd3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 21:26:22",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 228109,
+      "DOGECOIN": 0.318864,
+      "ETHEREUM": 6679.6,
+      "LITECOIN": 183.19,
+      "RIPPLE": 4.17
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "Horror trwa. Oto nowe miejsce dla uratowanych psów z Sobolewa: krew, zwłoki, ciasne klatki - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXRmWEFzR2xpR19fb19GUS0xT2pyb2s4OWpCMUhfSmE5TXpCcV8wTzRVS3FfbnluZ0pSQUJiSDFCeHdlOWh0MDllblVQeDU2Nk1oeXQ5NUJpMzlyWG9NV3hjWDVvZ3hXNWY2Tk1oUnBuS2FMSmEwZnFxNmE2Z1czZmptbG9laUptZUdhTU9BcFpkdHNoZW05dFNEM1dXQ3lzSmFNNlFpMnVHN1lkU3dyY0xVU2NFYUF2OWtyNnI5R0k2TWtOcmdIcQ?oc=5"
+      },
+      {
+        "title": "\"Ten stary komuch\". Mateusz Morawiecki uderza we Włodzimierza Czarzastego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGlkV09LQ1pUNkszSWJjejhWQnVzOTZoczkyclpoV19vRThxNzBrQ3RvUWtVNk1FWDZ1WDlZTFVyR2N0V3l4Ym80UDRWZGE2c21uUXlBZWZCTEZNX2JUcXpVeFFFQVlrMmZsb1ZFTG1rczJNRHBZbmZsWDBleTZ5aFJvZEY2OWhwNG91Rm1zR1BwbTN0dFBrLVBrUzdUWU1sd21SNnNjOU9XZGF0NVl0X3NqeGhjVzlCdzVjY0NhQlJlLXUzRVBfdFhqMFJGdw?oc=5"
+      },
+      {
+        "title": "Nowe informacje w sprawie zatrzymanego w MON szpiega - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQkgxemc5Qm1yLXdxd2xZNGh0NUdjZG4tbHIxVTlpcW1yQ0JDeFN0QjJ0V1VPNy1lR0gxM3RVbjV6OENBdFdvUXRhR3hOanJ4dVplb1EtVXJ6UUJRVkxVeHBQYVdMdTVJRm1KbWpad3NmNGVveDZZemt4NDM4Qm9Vb0Yzc01zNy1GNE1KOXp3bnBreHE1TzJ6bkk4MA?oc=5"
+      },
+      {
+        "title": "Gołoledź, alerty w całej Polsce, a potem potężna zmiana. Nadciągnie powietrze z Arktyki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUxCYTJyN1gzVGxiSlBzUHl4a3RLNU56LVVBZHVLYkNKS3g2eWh1WURmVHFOcEgydzBkMUNjX3drelUya1cwUWxVak5nZ0NPWTk0MDlUUkZpZF9FYTZkcWtOT1NOREZpblhYNXVaT3Z5SkhkRjNqREtzMEw2cjdHY3Y1a25MOTVlRU5qOHN4VHp1SUlCaHY4YUdEYWdmUy1YVlVsNVpuTks1R2c?oc=5"
       },
       {
         "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
