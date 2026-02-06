@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04 02:25:15",
-    "weather": {
-      "Warsaw": "Warsaw: -11°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -13°C"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 273019,
-      "DOGECOIN": 0.383608,
-      "ETHEREUM": 8104.33,
-      "LITECOIN": 215.26,
-      "RIPPLE": 5.67
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Trzęsienie ziemi w SOP. Odwołano czterech dyrektorów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWJmRHhlUHdsYVc3Y29aQWNCOWljRFhEeTFSblRkTHVLdm43SWFXQW1pSzhhZWEyUzUyMDRPUGJKNVJVZERIX0FjUVdCX0NZSWRWQ2VTanJ5YkxqY01xYWxic1dFeTd2UmdpZ24tWTVBbWtzOUxiVVJRQWtpeWpwU3JEcG9zYjAtTDEzMXpDaFp6LTZZcHIxc2VB?oc=5"
-      },
-      {
-        "title": "Kongres zdecydował. Budżet przyjęty. Koniec shutdownu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM3N6MGZMTU4xeTA1bUs5Z19yNFM5WlNPRG9ha0FWOGVBcHZrV1lBYTlaZ2VRdWI3T184VWxCc1EyWm9JejVzLVA2bFd5QXdiSzNZNkQzWWU0SmtWRTVVM0FEMXU0NWxSRV80dTZZNVpnZk54V0tiOXdaeUEycUFOckxBbnhfVkRpQ0hwZGFfUjkxQ1RTNHJOVk5RNVp0cmdkSnhNUlIyNi1jUQ?oc=5"
-      },
-      {
-        "title": "Takie będą skutki mrozów. \"Pierwszy rok od lat bez wejścia w wiosnę z suszą\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0hJSmZlZkVmMnREd0I1VnIxZjQ1THhmWXI2QkkzQ0tyeGJtek1FTkJabi1pc01IMkhETDVVZkxjU1JlSS1uTW54dUVhTUY2NFlKVV8tSlFSRGs2bklQdkk3QzNXOVZTaWY3TFhzTFgxd2w0NzE4ZnExLUVuNE9wSmZuZzBJUzVzNnZjZVBjdTBaa2xyalJlS2t4d3o0Y1ZLRDQtVi1GaU9LTXl3bzNuRml0d05CMTlSWGUwN2tEOTZGd0xTQjlB?oc=5"
-      },
-      {
-        "title": "Trzy zgony w jedną dobę. Policja bije na alarm - o2",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NEbnZ3bElJcENHNENQR3BMY2VyWVlTd3hPcWcyNVVac2VRLVF2X3F0RVo4WjlWS0VKdExjd2pKZUN2WjRfUC05YVBxVXJMZDdYMmRHTGxjQ0lXN05EbUxxdU9xR3ZaRzd1RW1aVEhkeGV5YldkNlVHbVBYd1Y1Sm1jX3NHZVZmTDdaMnEyM0dkZk1Ec3Iw?oc=5"
-      },
-      {
-        "title": "2 lutego owiń tym świecę, a zapewnisz sobie zdrowie. Nasze babcie robiły to co roku - TOP.PL",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQURZMFRiRzk0dHA4NmJ1aHg1R2hzLUVSZ1JYNzlvbDJOeXRwNjNfMHJ3MUxtSmZqNVNEeHRGeWJlZHdwSmZiUENkTVhiWldrb3JTWnM4NHd5QUIwZS0yRVQ1YXgwOWphdUtwMWV1T1lRdDgtVXRoWXJoLWRsdTFzRXJoMnJrZTJpdTlGMWJnRF9CaUVsVWhIdGM4T2ExYzVxS3RyRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-04 05:06:17",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2574,6 +2522,58 @@
       },
       {
         "title": "Wolne miejsca w żłobkach i przedszkolach. Samorządy szukają rozwiązań - onet.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0VuMGlibE5icVVucDRFX1NTN29JVDlGWlNxTWlETWxLYmJLZUZac0RiWXAtTzZIWmcyb1N5SlpWMlVBU1JiWGNtSDRUUWFTZTRybFd0UEFiYlptZzdOazBVMmYxTkJ5X0ZUSmFWQmFxQUx0VkdVdHdLcmEtOFJ3blRvOVdhdFB0SUtEOE9XZ3FmM2VIYWRzbEJEeXNuVXdGTVg3LXVkSlVCWlFuSnB1VHNpa1AtWFk1cUlN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-06 13:43:28",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 237043,
+      "DOGECOIN": 0.333439,
+      "ETHEREUM": 6870.21,
+      "LITECOIN": 187.11,
+      "RIPPLE": 4.92
+    },
+    "indices": {
+      "^WIG20": 3381.53,
+      "^WIG30": 4325.85,
+      "^WIG": 3381.53
+    },
+    "news": [
+      {
+        "title": "Trzęsienie ziemi w SOP. Są kolejne zwolnienia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVU4UW5ta3dWTUM1R2syWFZyaHkwRXk0cnhjNUZFZmZpSE1CM3JHMzhpMjY1OGhFN0VENHU5LVF1ZXNfRms3d01nSzF4V1BSSmJ3cDhDNThjRTlnck1DYmhfMVIwa0tLeFJ2VnJPUU1UTHN1RVhpektxdnM2T29EcUUybUhEZ1FHN1VqVQ?oc=5"
+      },
+      {
+        "title": "Młody przedsiębiorca nie żyje. Zginął w pracy. Tragiczne wieści - o2",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGV6Tkp6VXhrbHlsTmFCMlRWcHRMZzZueUZpcWhwa2FVTTg3RlZOWWxKY3Vvbmotb0t6ODRNUlZOaWc1SWl0TV8zZnhaaER6Vm1XZkhlM1EtOHRGY2dxcXFDT2FpOURHT0llN3c5Q0NQRVFRUVloWjF3WlJtemNkUm9TaDVJVTR5UWtXS19NZW5zNVRxRXNYajhzMFZ4V0Z0Smw5R0JLMGsydmVD?oc=5"
+      },
+      {
+        "title": "Kłopoty dla Orbana. Ten sondaż mówi wszystko - o2",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHFVYnNrQ1RoR2NIOHZwbm12OE1KY19scFZxdTNIV2lOU3Bnbnc1am5wdUo1UkZKeFczXzk1N0l4VDRUZlh1T19IVW80LU5reXJOTzl5M0RqZUloMV82TEwxcnJRdjhMNTRaX2RzbW81OTFNem9ESWQwNEFYcXRybkRheTNGVWhzaUJUUjNPWXRqbW1KQldLVHhPY2JqYWFpblJfZmtlRV95a1phUnc?oc=5"
+      },
+      {
+        "title": "Pół roku prezydentury. Oto co się dzieje z obietnicami Nawrockiego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2Q4V1A3Wll0MWN4OHYxeU9FNnR2OHppN2hGVkdWc2VQN3diWWtPRmR1RlQ1REhCbks2Q0lDU3FJSFFPQ1o3T0cyVVdQdm84Q2c4ZW9EWGZoQTdXU1F1Q05GU283dzdiZFR0ZURWNG1fNHI2TDNTVEpfX1hjUVR3S1Y4XzNHUmlHb3I1M0JydHJINHN4UWlqVWlJcFhiOHFLa3c?oc=5"
+      },
+      {
+        "title": "Wolne miejsca w żłobkach i przedszkolach. Samorządy szukają rozwiązań - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0VuMGlibE5icVVucDRFX1NTN29JVDlGWlNxTWlETWxLYmJLZUZac0RiWXAtTzZIWmcyb1N5SlpWMlVBU1JiWGNtSDRUUWFTZTRybFd0UEFiYlptZzdOazBVMmYxTkJ5X0ZUSmFWQmFxQUx0VkdVdHdLcmEtOFJ3blRvOVdhdFB0SUtEOE9XZ3FmM2VIYWRzbEJEeXNuVXdGTVg3LXVkSlVCWlFuSnB1VHNpa1AtWFk1cUlN?oc=5"
       }
     ]
