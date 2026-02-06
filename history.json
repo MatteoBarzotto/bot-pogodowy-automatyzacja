@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04 05:06:17",
-    "weather": {
-      "Warsaw": "Warsaw: -8°C",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -13°C"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 273474,
-      "DOGECOIN": 0.388457,
-      "ETHEREUM": 8139.04,
-      "LITECOIN": 216.71,
-      "RIPPLE": 5.7
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Takie będą skutki mrozów. \"Pierwszy rok od lat bez wejścia w wiosnę z suszą\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0hJSmZlZkVmMnREd0I1VnIxZjQ1THhmWXI2QkkzQ0tyeGJtek1FTkJabi1pc01IMkhETDVVZkxjU1JlSS1uTW54dUVhTUY2NFlKVV8tSlFSRGs2bklQdkk3QzNXOVZTaWY3TFhzTFgxd2w0NzE4ZnExLUVuNE9wSmZuZzBJUzVzNnZjZVBjdTBaa2xyalJlS2t4d3o0Y1ZLRDQtVi1GaU9LTXl3bzNuRml0d05CMTlSWGUwN2tEOTZGd0xTQjlB?oc=5"
-      },
-      {
-        "title": "Trzy zgony w jedną dobę. Policja bije na alarm - o2",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NEbnZ3bElJcENHNENQR3BMY2VyWVlTd3hPcWcyNVVac2VRLVF2X3F0RVo4WjlWS0VKdExjd2pKZUN2WjRfUC05YVBxVXJMZDdYMmRHTGxjQ0lXN05EbUxxdU9xR3ZaRzd1RW1aVEhkeGV5YldkNlVHbVBYd1Y1Sm1jX3NHZVZmTDdaMnEyM0dkZk1Ec3Iw?oc=5"
-      },
-      {
-        "title": "Nowy ruch prezydenta. Zwołuje posiedzenie Rady Bezpieczeństwa Narodowego - Wydarzenia Interia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnZJU2lWNzBpb3RRYTZzX3BiWmk4T3dla1JwZ183d0kxT01MaXJTbDZRTlowOWRzTVB4MUhzWE54c3I3SWU3dDNGOFpBTHJycTdBN3FlaHBZYUUxRW40OUZwQW1QQUxwVy10MlQ2YTRNdTJ6aWFyd1NZQWt4UmZ6dWFrejlia2NCVF9NNmp5NERpUDhFQlZDNkFxTk1wb1VHNkhZcW5jZDFuSHh3Q3NrSTBXTQ?oc=5"
-      },
-      {
-        "title": "Generator z Polski zasilił 22-piętrowy blok w Kijowie. \"Dla nas to życie\" - Polskie Radio 24",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkV6bGZzb3doeWtQY0thUzJaWmJmc213WjhxRXhfLTZyOEJZenc5cjIyNzNMdXVua0hqUVZCQlBETjlFSnhoMTVLUlBnZlNpb0g5bVB6RGoyZVZTaXhRTXZFSzlBR2hlSGJCY2ZqYVVWRHpzZl8zcUhXUDN4ekYyWVA2QnprRmxkSlFPb0I5QzFNbjE0VjZkVmJVdDlLYU1icjZMYXBDb3VBXzRRMXlSdDl3?oc=5"
-      },
-      {
-        "title": "2 lutego owiń tym świecę, a zapewnisz sobie zdrowie. Nasze babcie robiły to co roku - TOP.PL",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQURZMFRiRzk0dHA4NmJ1aHg1R2hzLUVSZ1JYNzlvbDJOeXRwNjNfMHJ3MUxtSmZqNVNEeHRGeWJlZHdwSmZiUENkTVhiWldrb3JTWnM4NHd5QUIwZS0yRVQ1YXgwOWphdUtwMWV1T1lRdDgtVXRoWXJoLWRsdTFzRXJoMnJrZTJpdTlGMWJnRF9CaUVsVWhIdGM4T2ExYzVxS3RyRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-04 06:42:38",
     "weather": {
       "Warsaw": "Warsaw: -9°C",
@@ -2575,6 +2523,58 @@
       {
         "title": "Wolne miejsca w żłobkach i przedszkolach. Samorządy szukają rozwiązań - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0VuMGlibE5icVVucDRFX1NTN29JVDlGWlNxTWlETWxLYmJLZUZac0RiWXAtTzZIWmcyb1N5SlpWMlVBU1JiWGNtSDRUUWFTZTRybFd0UEFiYlptZzdOazBVMmYxTkJ5X0ZUSmFWQmFxQUx0VkdVdHdLcmEtOFJ3blRvOVdhdFB0SUtEOE9XZ3FmM2VIYWRzbEJEeXNuVXdGTVg3LXVkSlVCWlFuSnB1VHNpa1AtWFk1cUlN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-06 14:58:06",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 240531,
+      "DOGECOIN": 0.339458,
+      "ETHEREUM": 6970.41,
+      "LITECOIN": 190.78,
+      "RIPPLE": 5.12
+    },
+    "indices": {
+      "^WIG20": 3381.06,
+      "^WIG30": 4327.02,
+      "^WIG": 3381.06
+    },
+    "news": [
+      {
+        "title": "Demograficzna zapaść. Kryzys już widać. Przedszkola i żłobki do zamknięcia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGRfQkhVdHdGV0JRVndqQ0tPOUJtRkdoa2dvYi1oaDl2LVRVTGt2N2t6TFlJRWp4dzJoWE5IMGR5d2E3WXNOOW42dEh6X0U3NkFEcnA4c21aVEg3cFYxeG9vcVhpMlNiUWRQdzIxRGFmNjkyNWRyZS1RVHVfdzZyUnBNU2xpOFprRGwySE9LQjI0VTRHQzJvdGdrVlRMZjZZMEFHYjdOb08xaHg1bjBScDdYb29VTDZKNnk0MXlZX3FkSnh4VFE?oc=5"
+      },
+      {
+        "title": "To będzie krótki, ale silny atak mroźnej i śnieżnej zimy. Oto gdzie będzie najgorzej - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY2cxMnkxUUxCaDdnZnFNYmU4cmFEdDhMRnpLZFcxWS1haUFKZWhvOV9LWEoxWU9NaGZTQnEzd2lPWk1hYzYwaUNPV0sxbWhBdTdIbkRYUVVPUjlaOUZUVUtzb2k1blV0VTdxTldnY1h3WS1QUUpfOElZbWxVWDgtLWtOMjd3emFOaGRDRXpDNGV3M3dLaGxSR0h6QTVrR0s5VVZ3Z2NiMWJWUTZVZGhlQXYzanVGc3YyX0MtSG1LWVN2aWo2Mm5VOElfY3dSZ2JO?oc=5"
+      },
+      {
+        "title": "Rozmowy pokojowe. Wołodymyr Zełenski ujawnia dalsze plany - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObEFkaDJZYUFIZ0NtNExaTGpfNjctd3l1bWxTSWF4enZOZkZPNEQ0RmlDZi0zTHdMS1EtZWhSSkhTbmIzOHF4dXZEWllsUWxsU2sxWkowOXpCNmROSDVIbE5QZ290Ylg0OUlPRTZLNFNIWWc0VmtyUV91TGZ6clpoYmtKLVltSjZpSTlGaEoydzNnV0VpNTYzNkt2Y3A3TGxiQlJZdkR6M1dLRkdPRmV2LS0ybE9TeGc5VFhZ?oc=5"
+      },
+      {
+        "title": "Gołoledź na Dolnym Śląsku. Chodniki zamieniły się w ślizgawki. Lekarze mają ręce pełne roboty - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVdpeTJuOHdPYWp0cVJqTmxuOUVYM1BpQ244aUhuYzRyRGxhRHJIOHVhZ1c3TVdIRmZWWWZDdzM0alh0dFc2aVJMUnd6SXNDc0o5MGpUR2J4Wk5sSHcwOTBYMGF1R29qeGJWZmRBMGdoSkVqMWE1WUZTbmFvQUNKMDU4SnBCM01ZZHRXOFpHYlROMUxzb2NhTU5sRG9lZWFWUEVBMHhibFRyekRMeVhCSU5zUUdDRXFY?oc=5"
+      },
+      {
+        "title": "Pół roku prezydentury. Oto co się dzieje z obietnicami Nawrockiego - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2Q4V1A3Wll0MWN4OHYxeU9FNnR2OHppN2hGVkdWc2VQN3diWWtPRmR1RlQ1REhCbks2Q0lDU3FJSFFPQ1o3T0cyVVdQdm84Q2c4ZW9EWGZoQTdXU1F1Q05GU283dzdiZFR0ZURWNG1fNHI2TDNTVEpfX1hjUVR3S1Y4XzNHUmlHb3I1M0JydHJINHN4UWlqVWlJcFhiOHFLa3c?oc=5"
       }
     ]
   }
