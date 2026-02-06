@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04 15:42:53",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5755,
-      "EUR": 4.2241,
-      "GBP": 4.9015,
-      "CHF": 4.6059,
-      "JPY": 0.022825,
-      "AUD": 2.5102,
-      "CAD": 2.62,
-      "CNY": 0.5149
-    },
-    "crypto": {
-      "BITCOIN": 268051,
-      "DOGECOIN": 0.376203,
-      "ETHEREUM": 7857.68,
-      "LITECOIN": 211.23,
-      "RIPPLE": 5.57
-    },
-    "indices": {
-      "^WIG20": 3449.99,
-      "^WIG30": 4416.78,
-      "^WIG": 3449.99
-    },
-    "news": [
-      {
-        "title": "RPP utrzymała stopy procentowe. Eksperci byli podzieleni do ostatniej chwili - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkdtQ0txaHVuNWJTZ3pOb0dNeS12QTQtanJ4MmZCbnNHaVYzdWhqdW9id2ZZb29vWnJOQkdSZFd2YS1PaFAyWjhOMm1waExZV1NlX0diMHFLR3loVUdzVVhuckFsYkE1Q0hkOWxHcUYwVC1lWGYyZUkxb01DcGhveTNEMEFHMUtpMTg2dVFMR3FGMnE4VXhUR21zTVFhN2wxekJITFhoYVRZUDUyUUFQTHdibGgxcU9mX0x0cGEwYkpLcVd1Mm5pbHZB?oc=5"
-      },
-      {
-        "title": "Rozpoczęły się rozmowy pokojowe w Abu Zabi. Rosja stawia warunek - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0NpRXhocHlCU0czRU1tZHZ2MDd4S1RnZTV4XzU0c0JwR2NLSHg2QzQ0NEk5TmNUTWJyb3B6bWpGekp4eVJKVXBlZS1pTWd6d3RFT0twWERid1NKcVFialBnSGFzOHM0M3FzMEU2ME5GTGRUNHVpR3dQY3dUakZ4RE10RGQ0Z3VWMnp6Y01FcDBEcEZjR1FqMWEtZk5HT0ZEYzVVc1ViSUZBaHM1TmFOXzBJcmNZazlEY2FNNV9oa1F4VEV0?oc=5"
-      },
-      {
-        "title": "Ponad 500 budynków bez ogrzewania. Wielka awaria w Warszawie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclIyakVuQmdzREYxQ1R2eUgwUWRMZzlfSWZJWXB5b1k5X0I4QVFoOU5zRXlscFJiLXpaRDhJVUJHdEd2bTRwZlRaVm1adVVTWmZRR054ZktNQlMwS0NOUUV4SG9xS3g5LVFPbTkwdGRjMFdPNHJTd3d5MzhvNWpaSlB5LUxuUjh4ekdjSHBfZm9jQjI5cXN2VkU4OENxNzZmSGFramFlTlRsOXYzdHp6Qw?oc=5"
-      },
-      {
-        "title": "Kolejne deportacje z Polski. Kierwiński: Zero tolerancji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZHRQcWhPTlNSaFM3T3VSWWwySEZmSE5TMVdPc0s4bl9fNEI4X1RWZjBXZGxMRFU3Q01yV3o4OVd4ZnpqTElXWDlFN0J1T05qN3FxMmM0Q09MRUJfU1E2OVdybF9kTW1NQ1JHa2M0Q1FOcktfaFVMTXZaLWhGblU4SFlnTG5Tb1V2T1UxTXlGdkRtLUVGRmdCbTJWNUJYUQ?oc=5"
-      },
-      {
-        "title": "\"Dziwię się Michale\". Błaszczak uderzył w Dworczyka - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFEzRmZnaFd5MEx2TlllX25aN0RhZ0xkMlR3OVEyM2lDdTc1cEo1THktWTBFN3pkMmhodWplREVESm8tWnBobWZCbTVwbGF4QlFVNk9JOExxOFRiTk42Z0xLVko4VS1STEtSTk0zam1JMndXY3d2N3llV1ZYMzZENkFzUGktaWJUSlVfbDhuSEdlS0RyUFE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-04 16:36:36",
     "weather": {
       "Warsaw": "",
@@ -2575,6 +2523,58 @@
       {
         "title": "Dziewięć województw z żółtymi ostrzeżeniami IMGW. To nie koniec niebezpiecznej gołoledzi - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkpuUUVtc1RNMEJUQkhIUHRhTkQ3dmJvNTlqM0Z0OEVmck1oZHVjTnpEcjIwR1BuS3hzYmpfWGNCRHdXNHdtQnhrSnlKUWQ2MG5MYmxZTDE0RkcybU00LWFrNXZQUG5yRDZYSEtPMWpqUFZQN1BUZWJDLWU1S2VmTGU2UEF1NjdtTDFaYzBVYWdzWXhJb1FScmFZZmtNMllNOEVjaXVmcXoxbUtMMFpDZmoxM1BZM25xODVHQ0lCemN0Zm8wTkowaFluS3Uza3FRVlE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-07 00:19:35",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 252549,
+      "DOGECOIN": 0.353093,
+      "ETHEREUM": 7338.66,
+      "LITECOIN": 197.33,
+      "RIPPLE": 5.28
+    },
+    "indices": {
+      "^WIG20": 3392.41,
+      "^WIG30": 4341.41,
+      "^WIG": 3392.41
+    },
+    "news": [
+      {
+        "title": "Zakończyły się rozmowy Iran-USA. Szef MSZ Iranu o \"ścianie nieufności\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSE4xMHJJTmp1VGJTb1RzTURvc25XMUcxN1lOUDBDRkVuam1ianZWLUx3Q2RFLXhpZjdGQ3dVcTV0aXlBUXNSakRBX09QcW5BRTZnMEdsS3FOTjMxMzh3OVFOVnhQb2pRbUViSTlaQ3NiakNTaGxDT1hNTDBxTnlqQ3B5enh0T3VRZWllTnRRdGFBNzJVcU1lOWFLNA?oc=5"
+      },
+      {
+        "title": "MSZ odradza podróże do Rosji. Reakcja po materiale Kanału Zero - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExabTh5YXo1NzN1LWFPaHNTUHJqRFlvNXQ2MmVmZHcxemN5RFpjZnRrQXFBdzNfV2hFSEtiUFBCaHhtSDJHZXVZVGpCcDRpR3BaQVVlRmNtVUU0NS1WYjdpTmFERzE3UkRZbVJCQUZabE8xZFBmYVRJd0FmcUZNak5fWnlOenI2Tm9qRnI2dlNFUnRoZ3lBYzVIalEtX0NlanJYNkpPaw?oc=5"
+      },
+      {
+        "title": "\"Wieczorem było bardzo dobrze\". Wiemy, co nieoficjalnie mówi się o operacji: Czarzasty - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhXLUpsZGFfTHNVZkZaQVg4SzhXZ3VDY0NfR1p6OFBhTzExMTFnbzZQQmdZMEZmcVdja3luRW1PVVVYaWxjQ3BadldDNFJqYmpGbmhhRG9nOEtaRnZDVmpNN3dJbGhJSDNTdE9MTEdzXzJvZEc3OHBMOFBBR0RNUk45dmdwUHZvbi1YaTdPQS10QlFVNnRjZUZWN2hPS2JvNkVYOHhySUo3eXFqOFpFU1B4RQ?oc=5"
+      },
+      {
+        "title": "Nowe fakty w sprawie nielegalnego schroniska w Kuflewie. Są pierwsze decyzje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOXN3d1hveGF4X1N5Z0I1dmYxYTViNE5PU2tYMWRQYWdzSE5zVURiVU9oMGVCazZQRWlsOUZVbVBSanBwclpwbURqSTFoODFXcVpNeXRzcGJKWEsxZGJRVFZGcE9hcmwzT2Y3X1I5aTNWSEROZ0hKN3FiZHZ4TzZyY1lBR2YwRnJuSmJlQWRGOEhTeUI2OGRfYTVfVWRoNl9QNks0bklkN1c3Y2FnRlNlT0NvekNob3VONGM1RzYzVFhhWTlGelhTU0NaclhWczNjTWc?oc=5"
+      },
+      {
+        "title": "\"Wiedziałem, że będzie źle, ale nie wiedziałem, że aż tak\". Kierowcy zaskoczeni gołoledzią na drogach - Auto Świat",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFlMSGxpak1FTG45OGFJaUczSzlCLXNUcExRUGROc0ZPalhxa1pQdjFOSWtwN3FyNTlqb1pfTVNsSWVHNWptYUNVc2dfNEFOcEhfaE42OVpFVVMxTU5QU01mZkdFZWJEZmxJaVJmM0Z4cXpNVWtUMXNiQUhJYnN0UnR0VVNocVB1X2pwX2tGX05jS0hWa0lPekF6b3gzbXE1dmV2WW85dTk2RTdBbEtTekJFWGJ2QQ?oc=5"
       }
     ]
   }
