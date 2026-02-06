@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 20:40:50",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 267607,
-      "DOGECOIN": 0.379718,
-      "ETHEREUM": 7860.7,
-      "LITECOIN": 211.46,
-      "RIPPLE": 5.65
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Pieniądze od partii Brauna wesprą Ukrainę. Wiemy, ile przekaże Arche - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaWlCM05tUzA0WFRRWGxsc2RTUkttUVNySWd3NEpod0FjcnhvY1lXWEZNbTZDRlR1VFM0ek5PMnB4SjhFT3FHMzUtT1NzajByMXBzc2NUVHdpZC1oMmx0aWRBTjgwT1hiNXJmVnozZTZBQzJ0RFRyQXFnYy1LM2t1WjFiZlJuY1NmWjBpTy1RQ3dGdy1MVXBnNUNkby1WRHU3TE1oWWprSXRxVWQyaXc?oc=5"
-      },
-      {
-        "title": "Trzęsienie ziemi w SOP. Odwołano czterech dyrektorów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWJmRHhlUHdsYVc3Y29aQWNCOWljRFhEeTFSblRkTHVLdm43SWFXQW1pSzhhZWEyUzUyMDRPUGJKNVJVZERIX0FjUVdCX0NZSWRWQ2VTanJ5YkxqY01xYWxic1dFeTd2UmdpZ24tWTVBbWtzOUxiVVJRQWtpeWpwU3JEcG9zYjAtTDEzMXpDaFp6LTZZcHIxc2VB?oc=5"
-      },
-      {
-        "title": "Zełenski: Nie powiedziałbym, że ktoś nam dał prezent - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1V0NHBGbXN3Y0ctb3ZSNzF2ZnJjbTExQlBUc3lvZkZGczZPNVhrb01ZcVJTdE1YVFhSeWU2XzNjUTRkcFlIVkotRndCc29sZEs4NVJ3U3dZSG9meEJITXVWSjRRWmtIQW82RnFid3JjOFpvYXh4bTZQckFBbVBqV194VHo5b0gyVXF0cEU4UG9jM00tZnc?oc=5"
-      },
-      {
-        "title": "Ukraina \"o krok od tysięcy rakiet\"? Rosjanie musieliby się cofnąć - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3pTWkk1cVI2ZTNfN0IyamJwVUpTVl9rbEpMNW10bVNEaGhMdmdEMTNVYzd6X2RfSDV6a3ZZTHdTVFBWaUtORnZjOUhCSGZSd1RvN2ZTbWtNT1Y1b2VWSUJXZmcyc2c0Z1c0RU9PcnJxMld4SEJNVmxaWVRGMDVLeVlyeHVycEZIZDVFVWVzTk9aTUw3aXJET2RNR3VySFhGeld6eWRTY0x4LVhxbERJSC1jZw?oc=5"
-      },
-      {
-        "title": "O co pytają na komisji wojskowej? Studentka opowiada, co ją spotkało - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVNCSWZrODFoWXpWdEVGaS1IeWdXV1NpZVAwaGZjNUQ2TmlaOGNNam9XZHJ1T2pGVm92aWJSRVVxeVhkQnA0cFhrRFJmWXRIRFJJUTE0cy1zU0ZXbEZLUEdWOUJBcVVkeF9XV0ZMX0JTR2M5aHhQQmJqQkRQdURDdWFCMFlGbUthbGp3MVUxQzdEclhvNlF1U2RlS1NiTGlRS3lxd3BBQXByQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 21:28:43",
     "weather": {
       "Warsaw": "brak danych",
@@ -2571,6 +2519,58 @@
       {
         "title": "Tylko pięć partii w Sejmie. Dwaj koalicjanci pod progiem wyborczym [SONDAŻ] - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTNNNTBQWlNRUjZaOEc2TF9wOXVhUTZIV2ZXUkhTamJSaHN1WkpKNWp3ekFVT2M4cWZnUENnM2tRZWZlMjZ4bnFYZGpSSTNmWXh5ZDlEZzJUalc4UGlLMnlKMkRtcmhkT3ZoOWNPMGsycjFveTJWeU9YdE52MXVMV2ZLMzc5ZVVKdmgxdUhKNDdDMDVCN19wbUg3R1pSZ2Ywb2JFU1pZQzIwckUxUldjb1Vn?oc=5"
+      },
+      {
+        "title": "Niezwykłe zjawisko na Morzu Bałtyckim. Wystąpiło po raz pierwszy w historii - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUhtR256OVlzYU9vUmFLZEdlWk0xclM3NEdUN2F2YzVoTEx3TFdkM2YyOWRvemNrR2NfV3QwU25XY0s1WmYyY0s1dU5iZHQ5UlhuemVDVXFac09XOFRVM19BZVlkdGszTTlpVklnXzJ2SXFyX2szeTlvMDRRQlpvSTluLVY0MjZ0NDFDWF9TSDhZclJ5Z2VMakR0YXV5cVFQRGZBTGY1SjlvbEdsNFIyRFhpdk5pNklSN05kSkVLRk5QNmZLcU4tdVJB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-06 08:41:26",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 233544,
+      "DOGECOIN": 0.326176,
+      "ETHEREUM": 6825.05,
+      "LITECOIN": 182.83,
+      "RIPPLE": 4.66
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "Trump czyha na wyspę Diego Garcia? \"Zastrzegam sobie prawo\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGJUbE56dEx6TmdQRWlBMzNoY2RQQlRTZUtkMFpFanV6QjNKcjRfMFhqVmRCLVZKUjFydHRZQzZTNXJSSkRGZTZVcXZTZjdLWVE0bmZESzVIVk1RdnVoQnFPa2EyaEVtZy1rcmgyanJCZGVGeFVJNmZveGhTdFRpUTI2X0NiYWdhdWZlVFBQc1FaaTUzeHdFWC1qSnZHaGFr?oc=5"
+      },
+      {
+        "title": "\"Ten stary komuch\". Mateusz Morawiecki uderza we Włodzimierza Czarzastego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGlkV09LQ1pUNkszSWJjejhWQnVzOTZoczkyclpoV19vRThxNzBrQ3RvUWtVNk1FWDZ1WDlZTFVyR2N0V3l4Ym80UDRWZGE2c21uUXlBZWZCTEZNX2JUcXpVeFFFQVlrMmZsb1ZFTG1rczJNRHBZbmZsWDBleTZ5aFJvZEY2OWhwNG91Rm1zR1BwbTN0dFBrLVBrUzdUWU1sd21SNnNjOU9XZGF0NVl0X3NqeGhjVzlCdzVjY0NhQlJlLXUzRVBfdFhqMFJGdw?oc=5"
+      },
+      {
+        "title": "Zmarł Jan Smoleński. Stworzył potężną firmę z branży agro - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXlPVGgtOVFJOXE4OXhKdGpQZmVNSS1lU3I3Rm1PQl9ENGxnWG1uNTZ1MWVYU1JjUk9pc0wwMzNFb3o3LV9fSmxNVEs3LXgxdE9NSDdVRDNRejVOaTAwSHo5Zi04bWpieFprbVMweFh6YTlVTV91Q2NsUG9kYTNTc19LWGJSeEVuUUlQWk16bmVsR3BySjl1RlAyeUFaRWs3UEFIcXFGUnk?oc=5"
+      },
+      {
+        "title": "mObywatel z nową opcją. Lepiej się z nią zaznajomić, bo może pomóc - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjZtXy1KMnJRRVc3ZmpvMU90ckY0MXlkdWJMWXc4VjFXNzF2TkVCWVhwRGJyWFpMVjRsdkJaby1STGFtcVJCSzJOcnJGZDg4NmNfdU5scEpUbVVEQUdKNktnTjFzZUZ0Qi1iYjBjakRaeVgzREYzaFZOSWw1RHREbjNRRnVSNUdZT1RpNTlBTkRaR0RGdHQtbTFXenJzeGhqSm5scjBWdjZTdVdsWGZTLU4wNA?oc=5"
       },
       {
         "title": "Niezwykłe zjawisko na Morzu Bałtyckim. Wystąpiło po raz pierwszy w historii - Onet",
