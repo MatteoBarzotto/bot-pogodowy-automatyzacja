@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03 18:47:12",
-    "weather": {
-      "Warsaw": "Warsaw: -10°C",
-      "Kraków": "Krakow: -5°C",
-      "Gdańsk": "Gdansk: -11°C"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2198,
-      "GBP": 4.8905,
-      "CHF": 4.5942,
-      "JPY": 0.022957,
-      "AUD": 2.5071,
-      "CAD": 2.6151,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 268429,
-      "DOGECOIN": 0.375241,
-      "ETHEREUM": 7881.72,
-      "LITECOIN": 209.43,
-      "RIPPLE": 5.59
-    },
-    "indices": {
-      "^WIG20": 3416.41,
-      "^WIG30": 4393.02,
-      "^WIG": 3416.41
-    },
-    "news": [
-      {
-        "title": "Mróz to nie wszystko. IMGW ostrzega przed innym, groźnym zjawiskiem - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmFFNFU2Tjl5NDEtRkpqNVJmWW9uRnpNNTUzeC1Feml1SWNoUy1pMWNVb0REbG9EU2ZsRDF1VjhEVVBwTmlDQVc0OTMwc2VjWU9NZG9nNXcyejByeGdiSzBFNDFRX3EwR2t6Q3dHYVdNVWVnMGE1Z1VxeW5zRFl6U3pmRk1LeS1fRkctNW1sb2pmVFozUHN4VjhGVnAzOTZGbjM0M2NiYnFjamJLM0lkNHFQVzVRNzU0RjdpTEJPNHJibkxjVWRYNFRqZw?oc=5"
-      },
-      {
-        "title": "Nawrocki zwołuje Radę Bezpieczeństwa Narodowego. Podano szczegóły - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllsZTVmeElWR1VSdUZ5b1FlYW03dGV0dVI1bGtUdGhtY09QWnNXbnRDRTZrWE80QmdDel9PMDJiUm9oWmpMcDhGZ0JsSE0tLUw0aHNEOUFtNDJZYXB1MENuMThFRTU0SVJzay0tclhFQlVXSWZDek1FSFJCT3lhSzYyXzViS1F3MnBwZU5UeDVHQ3BROUFMQmdJV1lqM3ROTHFGLXpxTEQzOHc?oc=5"
-      },
-      {
-        "title": "Niemcy wprost obwiniają Polaków. \"Jak czerwona wstęga\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWJoWHJTems1RVlqdVhVck84b29PVmJxY3J5Ylctek9vNjlmTkVYTWRwczhGLWFPaTU4cWgtUW9mc2Fjd0tGLXQxWTBNalhSTC1fU3VGdEpBcXVzYkQ2YnJBcjJhQzIySDE1MWcyeHNLem1heEFwY3RoaFFIWDNFWTZLYndyMkl3QV9TblRqdjB2d01sTGd3M1dPeDBVOGpjdmE1eGZjanJjajI3N1laVjFB?oc=5"
-      },
-      {
-        "title": "Klamka zapadła. NATO uruchamia misję w Arktyce - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGdoU25fcGpBVlFjdTEycDlKbURfYmQ3TXBZeUFPdldIYnJ2d2dwOE5MWnpidkVXLThmSGpwMWRqQU1oT2k4VDRzME9XRlJZTng1eDJkb2ZHTE5RQjJ2TjlzWVhYdkhGYURwQ2ZfVjRKMUxZNEhSX29IcllNNl9oNmh5aU9uVlEtU05jZjlyMXdLZw?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski reaguje po rosyjskim ataku. Odniósł się do słów Trumpa. \"To by było na tyle\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2lrNmQ5cG5BLXJJWHFqcUlCWXJpZFAwQ2dsTFJPOFdQWUxDa2w1SzhIdTdud2ZHZjF6d09QZ0d5TmZjOXhxTUNueS1VUlk3Z3VrUWVCbzl1bzcwUVNvekRkU3Vmd1RMMkgxNXVBMlR3NThpcUFhbXc2RnFHS0tkY0QxWnJEVEJKOU5LNG9FcGxnVm9DVjd0RDBUVzRsSTcyNUVuWE9OSTNWaFB2RHlVbg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-03 19:47:23",
     "weather": {
       "Warsaw": "Warsaw: -11°C",
@@ -2571,6 +2519,58 @@
       {
         "title": "Ostrzeżenia przed marznącym deszczem i gołoledzią. RCB ostrzega - Onet",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDB4Wl9ERHBsdlNDQ1NlU1ZfUVhHWEdyREFKOGdCczlGdno3d2hiRVZiNGg1ci1zbG9LUHFObkgtV1NvOTJtX0MyQWNGNDF3YUFjWWVKNElPTENLM3FQay1nbHk1M1dLTlRtVkY0ZzVSX1VjNGtnaGY4NVh0UjVPZHgwLTVHVTN6TVNPM2MxUTZFbk4yNTNCYmZKZVVfVEd6MDhWTXp5OElmRXdN?oc=5"
+      },
+      {
+        "title": "Zmarł Jan Smoleński. Stworzył potężną firmę z branży agro - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXlPVGgtOVFJOXE4OXhKdGpQZmVNSS1lU3I3Rm1PQl9ENGxnWG1uNTZ1MWVYU1JjUk9pc0wwMzNFb3o3LV9fSmxNVEs3LXgxdE9NSDdVRDNRejVOaTAwSHo5Zi04bWpieFprbVMweFh6YTlVTV91Q2NsUG9kYTNTc19LWGJSeEVuUUlQWk16bmVsR3BySjl1RlAyeUFaRWs3UEFIcXFGUnk?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-06 06:48:30",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.5799,
+      "EUR": 4.2175,
+      "GBP": 4.8569,
+      "CHF": 4.5985,
+      "JPY": 0.022754,
+      "AUD": 2.494,
+      "CAD": 2.6135,
+      "CNY": 0.5157
+    },
+    "crypto": {
+      "BITCOIN": 235573,
+      "DOGECOIN": 0.329977,
+      "ETHEREUM": 6927.01,
+      "LITECOIN": 185.73,
+      "RIPPLE": 4.68
+    },
+    "indices": {
+      "^WIG20": 3370.89,
+      "^WIG30": 4319.53,
+      "^WIG": 3370.89
+    },
+    "news": [
+      {
+        "title": "Trump czyha na wyspę Diego Garcia? \"Zastrzegam sobie prawo\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGJUbE56dEx6TmdQRWlBMzNoY2RQQlRTZUtkMFpFanV6QjNKcjRfMFhqVmRCLVZKUjFydHRZQzZTNXJSSkRGZTZVcXZTZjdLWVE0bmZESzVIVk1RdnVoQnFPa2EyaEVtZy1rcmgyanJCZGVGeFVJNmZveGhTdFRpUTI2X0NiYWdhdWZlVFBQc1FaaTUzeHdFWC1qSnZHaGFr?oc=5"
+      },
+      {
+        "title": "\"Ten stary komuch\". Mateusz Morawiecki uderza we Włodzimierza Czarzastego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGlkV09LQ1pUNkszSWJjejhWQnVzOTZoczkyclpoV19vRThxNzBrQ3RvUWtVNk1FWDZ1WDlZTFVyR2N0V3l4Ym80UDRWZGE2c21uUXlBZWZCTEZNX2JUcXpVeFFFQVlrMmZsb1ZFTG1rczJNRHBZbmZsWDBleTZ5aFJvZEY2OWhwNG91Rm1zR1BwbTN0dFBrLVBrUzdUWU1sd21SNnNjOU9XZGF0NVl0X3NqeGhjVzlCdzVjY0NhQlJlLXUzRVBfdFhqMFJGdw?oc=5"
+      },
+      {
+        "title": "Nowoczesny pocisk w podziemnym obiekcie. Teheran pręży muskuły - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXh2WkQ3ODE5LTgwd1pYUFFPYzNyNDVrQTFiWkhVeGIwOE94Qm9MRG5LMTlScEM2Y3BrUFFyNS12NlB6eG03SUZiY1JWaS11eGpmZkFCSzk3NHZaTlhQZndjUklJb0V2TTlhOEtPN1ZsTGRpUXZnSU1mMzZzRm5XYlVYNV9mcWFFWUVzYXNEN1lDaWVpcmREV3B1WFRjMDE5eW5qX2hlVllsWV9kX1E?oc=5"
+      },
+      {
+        "title": "mObywatel z nową opcją. Lepiej się z nią zaznajomić, bo może pomóc - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjZtXy1KMnJRRVc3ZmpvMU90ckY0MXlkdWJMWXc4VjFXNzF2TkVCWVhwRGJyWFpMVjRsdkJaby1STGFtcVJCSzJOcnJGZDg4NmNfdU5scEpUbVVEQUdKNktnTjFzZUZ0Qi1iYjBjakRaeVgzREYzaFZOSWw1RHREbjNRRnVSNUdZT1RpNTlBTkRaR0RGdHQtbTFXenJzeGhqSm5scjBWdjZTdVdsWGZTLU4wNA?oc=5"
       },
       {
         "title": "Zmarł Jan Smoleński. Stworzył potężną firmę z branży agro - Business Insider Polska",
