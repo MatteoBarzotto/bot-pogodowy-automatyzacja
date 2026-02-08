@@ -1,36 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06 02:26:28",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -4°C"
-    },
-    "rates": {
-      "USD": 3.5799,
-      "EUR": 4.2175,
-      "GBP": 4.8569,
-      "CHF": 4.5985,
-      "JPY": 0.022754,
-      "AUD": 2.494,
-      "CAD": 2.6135,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 230547,
-      "DOGECOIN": 0.318939,
-      "ETHEREUM": 6798.97,
-      "LITECOIN": 180.73,
-      "RIPPLE": 4.44
-    },
-    "indices": {
-      "^WIG20": 3370.89,
-      "^WIG30": 4319.53,
-      "^WIG": 3370.89
-    },
-    "news": []
-  },
-  {
     "timestamp": "2026-02-06 05:09:08",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2575,6 +2544,58 @@
       {
         "title": "Ingerencje Muska w europejską politykę w końcu mogą przynieść efekt odwrotny od intencji miliardera [OPINIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeE03NWRwTlhmb3BKeElYWEZITXVoaHdlUTBDSnNueGlzUWM3NmxVS3I5c1hqbEczeFBLbjRqQjluRHJwbDZma3M2YUlXLUN6eFM1ank3TUR5VW9zZ0RpdUZkRHVvcVhydWJyYkwzakpBX3hrZGExMnIwQUZ5dXpyeGVyM3UyWUtZN2Fjb2JZekFjMDBSd0tLNHU1X1hSNDYyamFKQ3phUDI5X3FKclAtZjRDb3pSTTktaE9PR1p2clhiaGNIYWpzZ0EtTlZFYlNJTmIyYzFTbzk2aUJIMFNmaE5xMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-08 12:18:27",
+    "weather": {
+      "Warsaw": "Warsaw: -2°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 252242,
+      "DOGECOIN": 0.346724,
+      "ETHEREUM": 7534.87,
+      "LITECOIN": 196.89,
+      "RIPPLE": 5.14
+    },
+    "indices": {
+      "^WIG20": 3392.41,
+      "^WIG30": 4341.41,
+      "^WIG": 3392.41
+    },
+    "news": [
+      {
+        "title": "\"Stan Wyjątkowy\". Czarzasty na wojnie z Nawrockim. Trump chce rozbić koalicję - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1dHS1o0b0Z6VEllZkZsdFcydnlVa3Z2WDFXai15bkxPSmJqbXdyRGdWaC1neGpjaVZ3Sm84Sk02X2ZNbVh4T1FubWhWb3FQZ3lMcy1NbjFxLTNlS3M5Qy1VNDVzejhzRURYSG1DeGM5d2hkNkkweG8xeXBObkhPdlZjU0l0M2VEQU1aN2RyR3A0MUE2bElmQzlYcGNXVVJISWpBRUJnMHBTX1hfSXlEYVJpdldDay1odUJEeHFpWlJUM19FYmllSm4tNF9FUGhacUE?oc=5"
+      },
+      {
+        "title": "Południe Polski na żółto. W tych regionach będzie niebezpiecznie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjY4LU1HMXVFZnl3ZGZCa0E2VGhXdm5nWVpGN3hCRjlKVGdHWElUMl9zc0c1X1M3cFlhTWtRY3o3REJ2b2k4cjRacmRKNjlqTjZaV0hPS3NvRjJRc3FWcWVvclR1WlRIdzVzQzhpZ0QzdmpEYTBmV2tNRU16YTdoVXBFU0hQYUZIZTJEN3hyM2VzNU95VlFncGVlaXhRbEVYaktPQl82ME56UQ?oc=5"
+      },
+      {
+        "title": "Ingerencje Muska w europejską politykę w końcu mogą przynieść efekt odwrotny od intencji miliardera [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeE03NWRwTlhmb3BKeElYWEZITXVoaHdlUTBDSnNueGlzUWM3NmxVS3I5c1hqbEczeFBLbjRqQjluRHJwbDZma3M2YUlXLUN6eFM1ank3TUR5VW9zZ0RpdUZkRHVvcVhydWJyYkwzakpBX3hrZGExMnIwQUZ5dXpyeGVyM3UyWUtZN2Fjb2JZekFjMDBSd0tLNHU1X1hSNDYyamFKQ3phUDI5X3FKclAtZjRDb3pSTTktaE9PR1p2clhiaGNIYWpzZ0EtTlZFYlNJTmIyYzFTbzk2aUJIMFNmaE5xMA?oc=5"
+      },
+      {
+        "title": "Estonia zamyka drzwi. Tysiąc żołnierzy z Rosji z zakazem wjazdu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXhsMlo5b0hxbWctNE5rb21mN2NFLXFFb3RNOGtZLVU3bUEtOE9RMVdVSWpaX0c1SzJoMTNVeGxLbmVoVlhDbVpYa1BhYnBhYkF5YlRlYTZCcUR4Z0ZRZXRXREN1Wm5RTzhoWUZreUZzaFNfZFpvam00NG1ZanZQZnNrRTBEY3g2OC1oek5laVhjLUhxQWdVemlFNUtYZ3N4T01jQW11VGE?oc=5"
+      },
+      {
+        "title": "Tajny \"pakiet Dmitriewa\". Tak Putin kusi Donalda Trumpa. Zełenski ujawnia szczegóły podstępnego planu Kremla - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdzZtWmdpUF9GSGF3ZVFWYTc1RERFamQtSWVfZEVDMWZ3bGNoQW5VRFJkOXNyOW1RQjByWTAyQkVZTXhaRzAwaTZUZ2JmVlB1cmNjVllHT2NSSXQydjZCdW93ckxkXzIzbld4Z3RUQmU5RmFmQVV2Q192STgwdEpmaXkxTzF0MVhnRkR6TGpwYXpRUGhTTGUzcG5JLUZIZ2tadjE0VkRzN0Z5Ykx3TmRGNGx0QmRQUDlLLWNYeDQ2Yi02LXZfUDdTYWlzeloxVFpXWG5WaG9YanR1QQ?oc=5"
       }
     ]
   }
