@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06 05:09:08",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.5799,
-      "EUR": 4.2175,
-      "GBP": 4.8569,
-      "CHF": 4.5985,
-      "JPY": 0.022754,
-      "AUD": 2.494,
-      "CAD": 2.6135,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 230635,
-      "DOGECOIN": 0.321892,
-      "ETHEREUM": 6784.94,
-      "LITECOIN": 179.35,
-      "RIPPLE": 4.55
-    },
-    "indices": {
-      "^WIG20": 3370.89,
-      "^WIG30": 4319.53,
-      "^WIG": 3370.89
-    },
-    "news": [
-      {
-        "title": "Rozmowy pokojowe. Wołodymyr Zełenski ujawnia dalsze plany - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObEFkaDJZYUFIZ0NtNExaTGpfNjctd3l1bWxTSWF4enZOZkZPNEQ0RmlDZi0zTHdMS1EtZWhSSkhTbmIzOHF4dXZEWllsUWxsU2sxWkowOXpCNmROSDVIbE5QZ290Ylg0OUlPRTZLNFNIWWc0VmtyUV91TGZ6clpoYmtKLVltSjZpSTlGaEoydzNnV0VpNTYzNkt2Y3A3TGxiQlJZdkR6M1dLRkdPRmV2LS0ybE9TeGc5VFhZ?oc=5"
-      },
-      {
-        "title": "KO umacnia się na prowadzeniu w sondażu. Polska 2050 i PSL pod progiem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVdORWJiN0VUOFFGUWFQWEpwWTNTNVhsaEtzclBwbHgtQTFNcy1sNFB5V3FReXhzV3JUR01XYURJS3Z2Mkd1eW1fTkNvbVhJRGRKYS1OSl8xclJxa1dkWWZWUkdQd3d6N3Nyc1pmMTB3M01JemJKVE93Rkg3blhGM1BfMU53N3pLVElJSHJrb1ZvQkhjemVYWVdRRnlUSnVQeHFGME4xWWlBQUtzS1N1Ug?oc=5"
-      },
-      {
-        "title": "mObywatel z nową opcją. Lepiej się z nią zaznajomić, bo może pomóc - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjZtXy1KMnJRRVc3ZmpvMU90ckY0MXlkdWJMWXc4VjFXNzF2TkVCWVhwRGJyWFpMVjRsdkJaby1STGFtcVJCSzJOcnJGZDg4NmNfdU5scEpUbVVEQUdKNktnTjFzZUZ0Qi1iYjBjakRaeVgzREYzaFZOSWw1RHREbjNRRnVSNUdZT1RpNTlBTkRaR0RGdHQtbTFXenJzeGhqSm5scjBWdjZTdVdsWGZTLU4wNA?oc=5"
-      },
-      {
-        "title": "Ostrzeżenia przed marznącym deszczem i gołoledzią. RCB ostrzega - Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDB4Wl9ERHBsdlNDQ1NlU1ZfUVhHWEdyREFKOGdCczlGdno3d2hiRVZiNGg1ci1zbG9LUHFObkgtV1NvOTJtX0MyQWNGNDF3YUFjWWVKNElPTENLM3FQay1nbHk1M1dLTlRtVkY0ZzVSX1VjNGtnaGY4NVh0UjVPZHgwLTVHVTN6TVNPM2MxUTZFbk4yNTNCYmZKZVVfVEd6MDhWTXp5OElmRXdN?oc=5"
-      },
-      {
-        "title": "Zmarł Jan Smoleński. Stworzył potężną firmę z branży agro - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXlPVGgtOVFJOXE4OXhKdGpQZmVNSS1lU3I3Rm1PQl9ENGxnWG1uNTZ1MWVYU1JjUk9pc0wwMzNFb3o3LV9fSmxNVEs3LXgxdE9NSDdVRDNRejVOaTAwSHo5Zi04bWpieFprbVMweFh6YTlVTV91Q2NsUG9kYTNTc19LWGJSeEVuUUlQWk16bmVsR3BySjl1RlAyeUFaRWs3UEFIcXFGUnk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-06 06:48:30",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Tajny \"pakiet Dmitriewa\". Tak Putin kusi Donalda Trumpa. Zełenski ujawnia szczegóły podstępnego planu Kremla - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdzZtWmdpUF9GSGF3ZVFWYTc1RERFamQtSWVfZEVDMWZ3bGNoQW5VRFJkOXNyOW1RQjByWTAyQkVZTXhaRzAwaTZUZ2JmVlB1cmNjVllHT2NSSXQydjZCdW93ckxkXzIzbld4Z3RUQmU5RmFmQVV2Q192STgwdEpmaXkxTzF0MVhnRkR6TGpwYXpRUGhTTGUzcG5JLUZIZ2tadjE0VkRzN0Z5Ykx3TmRGNGx0QmRQUDlLLWNYeDQ2Yi02LXZfUDdTYWlzeloxVFpXWG5WaG9YanR1QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-08 13:35:08",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 252553,
+      "DOGECOIN": 0.349277,
+      "ETHEREUM": 7614.42,
+      "LITECOIN": 196.7,
+      "RIPPLE": 5.17
+    },
+    "indices": {
+      "^WIG20": 3392.41,
+      "^WIG30": 4341.41,
+      "^WIG": 3392.41
+    },
+    "news": [
+      {
+        "title": "Południe Polski na żółto. W tych regionach będzie niebezpiecznie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjY4LU1HMXVFZnl3ZGZCa0E2VGhXdm5nWVpGN3hCRjlKVGdHWElUMl9zc0c1X1M3cFlhTWtRY3o3REJ2b2k4cjRacmRKNjlqTjZaV0hPS3NvRjJRc3FWcWVvclR1WlRIdzVzQzhpZ0QzdmpEYTBmV2tNRU16YTdoVXBFU0hQYUZIZTJEN3hyM2VzNU95VlFncGVlaXhRbEVYaktPQl82ME56UQ?oc=5"
+      },
+      {
+        "title": "Zamach na generała wstrząsnął Moskwą. Podano, kto został zatrzymany - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHl3OTdQOXhqVzVYQXFYUVN3VHpaR0dGcThVdVE3SWRKMkFWS2F3LTVnd242TUFHNnJ0RzIwQ2o2TzZDQTNheWxQS0RJRm1sVXREdllRd3BQdHcwaFQ1M1lPSGtPRy1lYjJKOVB2RUFVUTF1Y0wwSkltSG50akdpeFBqZ1FMX09lWExxWlB1SVRqVTFZRFFaalNBSXRsZFJ5MmItTWZWaG5XcU9I?oc=5"
+      },
+      {
+        "title": "Druhowie z OSP Pinczyn ruszyli na pomoc poszkodowanym w wypadku. Spotkało ich coś okropnego - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLW5ORjBjYm9CdlQ3UUI2cE95bG5wZ2gxRHJSekg0YzJUNkdmR1pHQXJRM21LWU9BWW53Z05ISWt0S2NpcnA0LXRfVG0tMkhmOE1PcGFVS3VrSGlkMFBHOXpvUkRobHFUSGhLaHA3TGtNdlJNWWlMX2ZKRmtvLWdiTnNqQWFHZlBpbWVXVWxjakNVS0YyQ3oya0h2VzJ0dC1GWHRLMkVsOGIwQXg1Wk96dmE5OHR0aExNRkpBcGxNLUlfeHE3dlZ6Vg?oc=5"
+      },
+      {
+        "title": "Zełenski ujawnia \"pakiet Dmitriewa\". Rosja miała zaoferować USA współpracę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTU5YlhFYlZwczgtY2NoU1JLclUxX05DYVZ5Z25pVlVPXzFDdW9xQ3Q5ck5EaGo4czgtVmtSa1Byd2ZJOW8zSHFubXVRLXlhWjl1Qjh5UEhDNG96c1JROWdOdkY5cmJOLVh1U3RDWTFfeHgtOUtwQXRxSm4tdXNnMGZ1ZmdoTDBsUFplSklOX3RIbjBpbVlleXdBeGpMVXJvX09pdjdzcWR4ZkdwVklRUzIwNnM?oc=5"
+      },
+      {
+        "title": "Makabryczne odkrycie pod Ostrołęką. Ciało mężczyzny znalezione w przepuście wodnym - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlhMV0JVX21oZThnOEFNNGxZQ1U1SmZGYlZySnFpUU5rY3hwelVhWFNZcmE5d0cyTzlLbHBpWV83N1g0SGI4bVVhVFhYYW9ZTldFekVzUU44NWstblFWaG5KemRPX0RpTUppRDZDZ2dDbmJNMVZjZmROcS1ESU1nb1FxcmJhQUJuSVBYOHA4cE9Gbkc4aUxjT3JkR0pQM2hVYjN0MlVFWEp1Sk1rN0Nmc2tRSEVwSnRPSE11QTFXTUJ2X0JtYU1ZNlpYZ0kyTjFHQjRVRkxmejV0Zw?oc=5"
       }
     ]
   }
