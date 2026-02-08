@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-05 17:39:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5799,
-      "EUR": 4.2175,
-      "GBP": 4.8569,
-      "CHF": 4.5985,
-      "JPY": 0.022754,
-      "AUD": 2.494,
-      "CAD": 2.6135,
-      "CNY": 0.5157
-    },
-    "crypto": {
-      "BITCOIN": 243177,
-      "DOGECOIN": 0.338392,
-      "ETHEREUM": 7092.06,
-      "LITECOIN": 194.82,
-      "RIPPLE": 4.63
-    },
-    "indices": {
-      "^WIG20": 3370.89,
-      "^WIG30": 4319.53,
-      "^WIG": 3370.89
-    },
-    "news": [
-      {
-        "title": "Działo się w nocy. Wygasł kluczowy traktat o broni nuklearnej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEFTSzNRa3c2NVNQRHY0ZDNEZW8xWDh5dm5sY1JWQ0RpaEN3Z0paZGdDeXRwbU9MaUR0ZFJnWmo3OElYemZscEZiX1RXeDB0bk5KNFk0T2RlM2QyN01wT3hjdGtSQTYtZVpUdmxzb042LWNlMExIeVRxMXJ1OEJZbnU4ZjJyWHA4d2EwMlJOemZlVWF1M1pWSEgxR195MV95XzQ3dlZn?oc=5"
-      },
-      {
-        "title": "Grupa przemytników rozbita. Stali za balonami z Białorusi - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFUzcnB2WjlXWDYtYm9fbmM0dlpaWVM1aWM5S3FMQzZrbU9VYm9hTWtBS0xjVVJ1VXozOTBLaGZUT0pVVEo0ZWY2WWIwNUdUMjNTNzNJTHpnTDY2QkFoNlg2cHplWlM3eFFDdVNXOE5iMVE3N3BTRHQ5NWExQ09yNGliNXNNMVFielZqUFoyanVWWWZJUkZNVWpEUGgwdUtlMVpMSE93d3RiSFNVbFdCZEZmNlVDZFFVd2c?oc=5"
-      },
-      {
-        "title": "Kto zastąpi Jarosława Kaczyńskiego? Polacy wskazali faworyta w sondażu - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEFmOXJfbGlUVTZnTmF0Ym9oVi1fWTA4LVVjTnZQZFRfUEQ3aE5BZVVxNm5MMmF4ODFJRVFydkoxNEpPbDNUSE1uWTV4NFBHTk92TlJfeFk1THFPSXVYTWoyaExZWWRFZmhfbVdlSG1SX0cxaFkwWTUwYl9YTDRfbzBjR3hLTk5ZbXNiZzVOdzh6WDMtN0x0NEtnMXZ1YlFVMlNZQWRsclEyX0FHSC1NQjlRZlVURTNmaUFGSndzbi1NV3FqVXJtaTZtV2E?oc=5"
-      },
-      {
-        "title": "Skandal w SOP. Jednoznaczna reakcja szefa MSWiA. \"Zastanawiające\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFUTV9wbU5yMXAtVVpxbmpmZkhZTEpLNnBiVlc1M2hUa2ZBUzQ1V2lRNlQ4RE1MU0lSUUZ3VnlQN2drb05hNC01UlhlQnd5TU41cl92LVREdldvWklUUE1TNGNFRVJUMk1JSVQtcE13MXdDdERiNHlxaFNSaDdEVGttNDBldmo3dnFiV2ZPTEJDMGNQYWNaakZBY2Eya2szVmQzR1V2MXR3QjZPYXA1Rzd3?oc=5"
-      },
-      {
-        "title": "Aktualizacja mObywatela. Nowa usługa dla każdego - dobreprogramy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamRfeldTcHR1VFZ5WE5wV1NTZko1akxRY0FMMjVvZmZTMGRKQzgybmlfWDFUT2tuRnV5amtfLUNacWVVbEQ2VEViTFBoeFdUWDVYN29FVzlCQ2dTdzVPdmZHVVRYajhmRG9HLTRsTVc3TkdOaE1tX2ZpU3JHTnVrM2RiMFNkdzlqR0I4YVhMWDNuVE5uRmI3S2dR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-05 18:41:48",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2575,6 +2523,58 @@
       {
         "title": "Wypadek w Małopolsce. Są poszkodowani, droga była zablokowana - Gazeta",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmpJZW1nb0R0WU5iSFZEYlMySTd2cGVOUjhsREVydUNTSEpDbkphVWgwbEhQdDFzZVU4QlFjVkJJMFFaSlB5NEN6dGQ3U2I1M2hVNXdtMmdtaEU4cFNRUGVyNElHNktya3ltVjVqTEdKVVg3TUZrQkJUYkJjMjZGWmp4NTlpVDdHRlR2UkItODVPb01OWXlTeUdEdGxreDFZN2pwdXBEZGFINmVjaVN1cFU5V1U3ZjV1NXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-08 03:01:26",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 247339,
+      "DOGECOIN": 0.34992,
+      "ETHEREUM": 7472.59,
+      "LITECOIN": 197.39,
+      "RIPPLE": 5.11
+    },
+    "indices": {
+      "^WIG20": 3392.41,
+      "^WIG30": 4341.41,
+      "^WIG": 3392.41
+    },
+    "news": [
+      {
+        "title": "Clinton prosił Orbana o atak zbrojny? Premier Węgier miał odmówić - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2RCb21XT09HWWR2NVZHVGhkNFZXa2JRV0RfR2hoOUM0M2s2eVp6NkZCbXI0M255QzZiWGZxTURNbHlNWWdmV2xNdzlrSXcwT1o0dDJhaGhYWWxrS01iM1k2dHNva3lIeUZtZzlPYnZid2RuUmkwblllZXZGVlAwWW9sU2VFSC1uVGY2bEFId3gzYTVsT2J4Q1plMEhtSHNLZkltdFBoQW9nTTg?oc=5"
+      },
+      {
+        "title": "Zamach na wiceszefa GRU w Moskwie. Nowe informacje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnhZR0c5REREQTh0NEI5UEY5Q1phSktaSWlTSDBqam1wN2xOMmx3Y09JaFdaT3hwRWM5blU0SGtqSWUtMXFpcXltU1A0UU1tQ09jSE1GbDNzanFSX1BPR0xRdlJuTnBVenlSN195VERMVjBIWHRKVWx5OTE0dmdEajZ0RnpZaEZ3RFdQbDA3S2syTWZ6SDFXX3pkTFJrY2UxSUdtYnZiUm4zYlczTE5KVlhpZ2xkaWwyVm5qeW9hMWJuUHYt?oc=5"
+      },
+      {
+        "title": "Tuż po negocjacjach w Omanie. Donald Trump: Iran bardzo chce zawrzeć umowę - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjdxQWxyTGhRV01uNVRTMFRHSHlMU2pLaVFDaE9oX3EzZXpVMTV1cmJxM2I4X1FmWUdMZllQejVGUGF4cGVMbHJhNEUxS21odFFYQkwyUEFYSl9BcFNpR2F6ZjhUc2xab0ZVNmItOFpkNDJrWTNabkZtRGhjMFpUYVc5TnFFTFh3YTFhaGNDZFpGUEppbG5SVTBKcUUyVzdOWGFXVHhUMmVFdw?oc=5"
+      },
+      {
+        "title": "Miliony przekazane na tacę dla Ukrainy. Sukces inicjatywy kard. Grzegorza Rysia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVNkUVhGdkE1YjNQclRxQ052bjYzU0xxMEZjd1NrZUxGNnVrOVBCX0FiVHdHSVV5ZlFxbTBIVjl3a3pFQ084cVZSZmt2RU1hbEdna2c2eFFNQXpUcWtoUUtGelRzS1RXLXphb0dqbEZvTW9kMDduRThkRE5maWtCQkdta0hWVzFtSm0tRUcxZkFZVlBqdW1Tb1VTOW9DZDZVVzNCMFI5TmR4XzM1ZkdwQ3VNOGpOcVVwRmhobklRRDN6a1VTNkdKc1p3MWc2T0dhaHc?oc=5"
+      },
+      {
+        "title": "Ziobro zakpił z policji. Doczekał się mocnej odpowiedzi byłego oficera - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0tZbV9iN2o2NzJOR0RUMW9RSm1OVkxZQ0JCSHdnSTA3UWF5dEJnbmxJQVFRTl83bUFxaU4xV2xYLXduT0dyWDFoSElaajRFRm5KTG5xNWJSUmg0NGU4TkRHbmFTN0dJVUpMdkJ3R2NxZ1ItQktYOTBjQ1pTM1JseVJ1LTFOSXdjVGh4dFEzVnExaVZ0eWN4RzBuMEFXR0VTc1BPNDNrVnJlQQ?oc=5"
       }
     ]
   }
