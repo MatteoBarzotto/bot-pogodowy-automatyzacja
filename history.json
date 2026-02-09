@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06 21:26:18",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 251639,
-      "DOGECOIN": 0.350833,
-      "ETHEREUM": 7317.21,
-      "LITECOIN": 195.44,
-      "RIPPLE": 5.16
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "\"Wschodnie kontakty\" marszałka Czarzastego? \"Czasem się z nią mijał\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzFNVUh3QUVxS2RSYk1Zdkp5enA4bWxyc09WY1prdDJydllVSVpLV3o2dmxKZEFpeEY2UlFlYUhYdHhaZ3BzRDA0OHlUYTZGTmJ2dUJfMUlpanl0NzRJTmlPdDNTeFdkZzFWTFVfbUtmRk0xRGhrZHZLckcxY3VwVFkwZEZzSUF1Vkg3UENnNGdUem02WmFtMWVtLWQ5Q3hKVVFuMzFtMnV2Rl92WUhtNzJTQ2RxZGczRkNCZVF0TmxjVUgwQlVoMXI2U19xV1FGckU3VXZnVDNUbWs?oc=5"
-      },
-      {
-        "title": "Amerykański samolot krąży nad Niemcami. Nadał sygnał awaryjny - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0JqYWdwcDhIWGRWb3FWdFZwN0kxbGZBV25GRnpxY2xDUTJmNDk1LV9oUHZlQ2VESllrVWpnVm5SM2YwRVZtTDl1ajQwWVFxUVk1OGRUdmIwRlRSNW95YXg3OWlicVRtS3A0RXY1dXBCeWxNWWl4MnJaWkY2ekVuVkFaSjNjNW5INDdvZTVjSnJVWGY1Q0FRc3R4VEpsSUNudDVnYXp3?oc=5"
-      },
-      {
-        "title": "Chciał wyłudzić pieniądze, dostał pocięte gazety. Seniorka wykiwała oszusta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTZ4SHlISmRqVm1IdUpMc01IUWt3cHNmaVNpLXV1eDdRSjRWVE1YZWdXeEZDVnFVMWtUQXR6WFliS0NRZDNZQTBfTjJSdVF4TUdFY2c5M1NhMFloVy1wdmRZTXBhSTdYamxFUGxocWljWmlDSnVkWEM0Mmk2Yms0blA5MDEycUFOT1l3alVUd3JwNFJuRlBETG51Uk5kaHlwb0QzSjBKVUJJQmhCUGZaSXRuU01sOFRmaFpBOEZB?oc=5"
-      },
-      {
-        "title": "🚨Pojechał na ryby i zniknął. Służby odnalazły ciało zaginionego mężczyzny - istotne.pl",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IQnVzZnRUMjBVbWVSMlJnXzJUTEd2Qkl6bXNEQWNzaVlRTDBIdGtsV1B5aG5oNkIzSDJoSDB0dnpaRlNrT05ydERpTkhLc3Y2UExjeWRGVQ?oc=5"
-      },
-      {
-        "title": "Dziewięć województw z żółtymi ostrzeżeniami IMGW. To nie koniec niebezpiecznej gołoledzi - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRnlKaWdPUzlFRXJDOHBPZ244dlpPMHJWM0pIdmVzOUtKT0VIVF9tUmcxanlIVlNUTmhLQncwWlBZRWlWdVJ6clZWcmF2WXUyS2ZSOGFldUt2RmgxcVhzcl9adFlYLUdXS1hMOVB6aExiRXZQOEdtQVNQSlZxdXd6V3Y5dkdfeGFUWGJPZjdaaVRpaHBuWktkYk0tMlVaU0VObHhiejJYV2J1aDlNRk1yRTNiWXhrUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-06 22:24:26",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zełenski ujawnia \"pakiet Dmitriewa\". Rosja miała zaoferować USA współpracę - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTU5YlhFYlZwczgtY2NoU1JLclUxX05DYVZ5Z25pVlVPXzFDdW9xQ3Q5ck5EaGo4czgtVmtSa1Byd2ZJOW8zSHFubXVRLXlhWjl1Qjh5UEhDNG96c1JROWdOdkY5cmJOLVh1U3RDWTFfeHgtOUtwQXRxSm4tdXNnMGZ1ZmdoTDBsUFplSklOX3RIbjBpbVlleXdBeGpMVXJvX09pdjdzcWR4ZkdwVklRUzIwNnM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-09 09:42:51",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 247987,
+      "DOGECOIN": 0.334991,
+      "ETHEREUM": 7284.03,
+      "LITECOIN": 190.15,
+      "RIPPLE": 5.0
+    },
+    "indices": {
+      "^WIG20": 3424.97,
+      "^WIG30": 4388.62,
+      "^WIG": 3424.97
+    },
+    "news": [
+      {
+        "title": "Recepta na tragedię. Jak doktor M. zarabiał na uzależnionych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkRsU0J0bXhpWTU0WERDNUNQc0dtOTNJTFBkbmk3YkRtLUl2X05IWUFrNzh1aWZJdGJIVlV6TVdEVkpoSl9tZmRvTjQxdzBaeTNZd2wyOFJLNjlwcmxWMkJIazBSZVNTOWZpMWFPRGluVll1bUFESHZ1NExQY2c5bWM1Tms0S1J0bm5PVEhncHRpUXdCblA4M0E5WTJvdjNVSnRr?oc=5"
+      },
+      {
+        "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFJyMFlwT2E3bGVZZ3AxX21odS1BZFp4R25GcVBseUhVdkpnUkFFNXlCWGk2eVprSlRxa05NczZuNE5CaHg5Y2tfRElYVzZ2UVpMZmFZejBEbkRLNThXRThDYTVtY2hFNUVDcGdaM2xrbS1Jc2dvM2Y1WmU3aWV2M29ZMTZWcTY1LUdaZkdJNk9aYWtwaTh1YVRoczNYa0tINlhsdTQ5YnEwa0hQ?oc=5"
+      },
+      {
+        "title": "Ruch Nawrockiego wywołał kontrowersje. Jest sceptyczny głos z Konfederacji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkJTRXh2b2VJbF9ja0x3R1p6OENrcUpLZVNjaHhtSzB4bU5WcEw3d3BHWG5ZRWhobXIzYnMwOFJMZnhYSV9sYTg1ZWMtSksyTUlzRzJHaEliNVNsRjJVZW1WWjlTcjZ2SU9pRngyWE9kNl9BemNCYWVuTThiUkhuenF3ek91b053WXJXWjNabVNRRUV1X05NMXdnZUdDTDk0UFZsWktZSzlOcmRtbmJmMUNNa3c0Tm5BY3B6TDZ4ZE1OS2c?oc=5"
+      },
+      {
+        "title": "Kto najlepszym prezydentem Polski? Wysoki wynik Karola Nawrockiego [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzZJQVZGMjU5RElvQXdTYk1xZlFKdXctcWx0amFMSlpETlloREV6dlpuZGZHNzRlSG5VUmt3NkhpQ0NJSWk4UVRNMGF3SHhETUtuemNsOHZtY3BxVDFiVmZBSEg2ellRVXFwVThGdHd2bjhfYnloVXBfcFhiSjd2Yi1INFJOSE8wU2lLMjI5RFV2Y1A1NUxPWjIzdjJMZjhaTVQza0RSYjY0RTE4N3d2TDBfRHBuaUlxYTBLTjdpSzFydWZXS1JvLVF3bVExdm40?oc=5"
+      },
+      {
+        "title": "Jak dużo Polska płaci za sojusz ze Stanami Zjednoczonymi? - Strefa Obrony",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2lFSm9sbEh4WGlWOTBhWFhQbGQyM1dQUzBmZmt1UEQxYS1wY0JXdVItdF9ZVkZwc0djN0RZaW9jWlNtXy13ZXdlSHlYZDQyN2JBc0g2UmFYbnpJWFp5UE0tVkFZOC14emlCVWwxVFpLSjVEQ2RkM1A2UVhMVVFwUlhkSHRfUFlZbUtaUHVCMEI1ZmRTa1hZWGVQcV8ydw?oc=5"
       }
     ]
   }
