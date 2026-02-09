@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06 20:33:35",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 250755,
-      "DOGECOIN": 0.35281,
-      "ETHEREUM": 7323.22,
-      "LITECOIN": 195.5,
-      "RIPPLE": 5.18
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Chciał wyłudzić pieniądze, dostał pocięte gazety. Seniorka wykiwała oszusta - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTZ4SHlISmRqVm1IdUpMc01IUWt3cHNmaVNpLXV1eDdRSjRWVE1YZWdXeEZDVnFVMWtUQXR6WFliS0NRZDNZQTBfTjJSdVF4TUdFY2c5M1NhMFloVy1wdmRZTXBhSTdYamxFUGxocWljWmlDSnVkWEM0Mmk2Yms0blA5MDEycUFOT1l3alVUd3JwNFJuRlBETG51Uk5kaHlwb0QzSjBKVUJJQmhCUGZaSXRuU01sOFRmaFpBOEZB?oc=5"
-      },
-      {
-        "title": "Dron spadł na teren jednostki wojskowej. Jest komunikat - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTNZc2QybDh4SGp1TFJUbWgzcmV1aW1PNVEwTWYzSjdua3pWaWp3dHRvUm9jQ1I4T0pJbjM5NHhRajhNNS01VEo4eHNoMDZUV3M3VUgyczI2UEJzMElzM25NS0d4dklEQ2hEdElpS0VIZkw1MGQtdkItdFlMaEpBWWk5OXRWMUhCa1BiWGRsWlRjVlA4a1FRUVJEdFRkUQ?oc=5"
-      },
-      {
-        "title": "Dziewięć województw z żółtymi ostrzeżeniami IMGW. To nie koniec niebezpiecznej gołoledzi - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRnlKaWdPUzlFRXJDOHBPZ244dlpPMHJWM0pIdmVzOUtKT0VIVF9tUmcxanlIVlNUTmhLQncwWlBZRWlWdVJ6clZWcmF2WXUyS2ZSOGFldUt2RmgxcVhzcl9adFlYLUdXS1hMOVB6aExiRXZQOEdtQVNQSlZxdXd6V3Y5dkdfeGFUWGJPZjdaaVRpaHBuWktkYk0tMlVaU0VObHhiejJYV2J1aDlNRk1yRTNiWXhrUQ?oc=5"
-      },
-      {
-        "title": "TV Republika nie ma pieniędzy na opłatę koncesyjną. KRRiT obwinia o to sąd - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEJ6SFNDdVRVdTNQXzRMdWFHZHZXblVubGRiVmlDODB4VTcybS1FSEx0eVY2Q0JsSmdqeDN1c1RHeDJDZUhTd3NZVFhmMkRqZW9VMjJ1NmR2eG1wVDVsQnZWYW55SlhkZGhrUzEzdVFJRm9nQkc3M1BLTGV0RkUwdHFzb0dHOWk3ZHlUclM4QzFQMVFraWcyNUtPUzJOMzZ6d0puNmJ3?oc=5"
-      },
-      {
-        "title": "Nowa fala oszustw w całej Polsce. Przestępcy straszą \"kontrolami mieszkań\" i wyłudzają dane - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkNUR1RLTVNRRTd1aG9Wa1V4bnAwS2Q0OGJQYmJDcWxlM19hQm9OTWtMSVFXYkwydmF0WWpPR1RzM2FvNVJQZGw5a1NjX25SX2NaT0V1bUlPYVgwdHZRTXh2eDdsT2JoYW9vbkp6M2tHQUdodTlYa0stWTZDa3ozbnNrVFV5NXg4M3IzenllVzNvRzdvSncwcDJsYWRhWTZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-06 21:26:18",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Bad Bunny kontra nienawiść. Polityczny manifest na Super Bowl - WP Kultura",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNemFwNFI5R0x0NXEwQ3UyN1pyMDdzNklVU0hINDNpZXo0VUtpRGU1eXFhTGhkNXBCd09rZm1FUFBhNUZUaXdPcm5lTk96TV9CaF8yQ2JjcGUwVXFINkx3T2VyMjAxckdlX0VhXzJBZEpZcm8wMnVFSlpIaWtXMF9FMGhacFMwbmk3VV9iOWpRUlU4ZTVsY3Ayc21nQjJNcGdjR3c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-09 08:52:56",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.5749,
+      "EUR": 4.2155,
+      "GBP": 4.8535,
+      "CHF": 4.592,
+      "JPY": 0.022761,
+      "AUD": 2.4937,
+      "CAD": 2.6127,
+      "CNY": 0.5151
+    },
+    "crypto": {
+      "BITCOIN": 250483,
+      "DOGECOIN": 0.338756,
+      "ETHEREUM": 7360.13,
+      "LITECOIN": 192.44,
+      "RIPPLE": 5.07
+    },
+    "indices": {
+      "^WIG20": 3392.41,
+      "^WIG30": 4341.41,
+      "^WIG": 3392.41
+    },
+    "news": [
+      {
+        "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFJyMFlwT2E3bGVZZ3AxX21odS1BZFp4R25GcVBseUhVdkpnUkFFNXlCWGk2eVprSlRxa05NczZuNE5CaHg5Y2tfRElYVzZ2UVpMZmFZejBEbkRLNThXRThDYTVtY2hFNUVDcGdaM2xrbS1Jc2dvM2Y1WmU3aWV2M29ZMTZWcTY1LUdaZkdJNk9aYWtwaTh1YVRoczNYa0tINlhsdTQ5YnEwa0hQ?oc=5"
+      },
+      {
+        "title": "Recepta na tragedię. Jak doktor M. zarabiał na uzależnionych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkRsU0J0bXhpWTU0WERDNUNQc0dtOTNJTFBkbmk3YkRtLUl2X05IWUFrNzh1aWZJdGJIVlV6TVdEVkpoSl9tZmRvTjQxdzBaeTNZd2wyOFJLNjlwcmxWMkJIazBSZVNTOWZpMWFPRGluVll1bUFESHZ1NExQY2c5bWM1Tms0S1J0bm5PVEhncHRpUXdCblA4M0E5WTJvdjNVSnRr?oc=5"
+      },
+      {
+        "title": "Ruch Nawrockiego wywołał kontrowersje. Jest sceptyczny głos z Konfederacji - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkJTRXh2b2VJbF9ja0x3R1p6OENrcUpLZVNjaHhtSzB4bU5WcEw3d3BHWG5ZRWhobXIzYnMwOFJMZnhYSV9sYTg1ZWMtSksyTUlzRzJHaEliNVNsRjJVZW1WWjlTcjZ2SU9pRngyWE9kNl9BemNCYWVuTThiUkhuenF3ek91b053WXJXWjNabVNRRUV1X05NMXdnZUdDTDk0UFZsWktZSzlOcmRtbmJmMUNNa3c0Tm5BY3B6TDZ4ZE1OS2c?oc=5"
+      },
+      {
+        "title": "Kto najlepszym prezydentem Polski? Wysoki wynik Karola Nawrockiego [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzZJQVZGMjU5RElvQXdTYk1xZlFKdXctcWx0amFMSlpETlloREV6dlpuZGZHNzRlSG5VUmt3NkhpQ0NJSWk4UVRNMGF3SHhETUtuemNsOHZtY3BxVDFiVmZBSEg2ellRVXFwVThGdHd2bjhfYnloVXBfcFhiSjd2Yi1INFJOSE8wU2lLMjI5RFV2Y1A1NUxPWjIzdjJMZjhaTVQza0RSYjY0RTE4N3d2TDBfRHBuaUlxYTBLTjdpSzFydWZXS1JvLVF3bVExdm40?oc=5"
+      },
+      {
+        "title": "Zełenski ujawnia \"pakiet Dmitriewa\". Rosja miała zaoferować USA współpracę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTU5YlhFYlZwczgtY2NoU1JLclUxX05DYVZ5Z25pVlVPXzFDdW9xQ3Q5ck5EaGo4czgtVmtSa1Byd2ZJOW8zSHFubXVRLXlhWjl1Qjh5UEhDNG96c1JROWdOdkY5cmJOLVh1U3RDWTFfeHgtOUtwQXRxSm4tdXNnMGZ1ZmdoTDBsUFplSklOX3RIbjBpbVlleXdBeGpMVXJvX09pdjdzcWR4ZkdwVklRUzIwNnM?oc=5"
       }
     ]
   }
