@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07 05:02:56",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 253372,
-      "DOGECOIN": 0.352235,
-      "ETHEREUM": 7440.32,
-      "LITECOIN": 195.99,
-      "RIPPLE": 5.26
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Skandaliczne nagranie na profilu Trumpa. Biały Dom je usuwa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRya0N1UmpjQlhlMmZmeEtOTkdLT213VzUwc1hVNWJDaGpITjZRWThYU05iX3pjekZsOFVSTUtJWktiLXdPaG03bll1ZE5vYlRGWXViVldVTXB3bUlVVE55Nk5pcUlDc3FMSlEyMG5zbTk3UUNjZkMtQ1RtQmlrczdlRWoxOERleFdlTmhDVVFOZTllSHlzSkgzV0NJV2E2TXpR?oc=5"
-      },
-      {
-        "title": "Amerykanie uderzają w irańską ropę. Trwa \"kampania maksymalnego nacisku\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVl0ajFkd1dQR0tVUE1QN3IzM2xDdFZzdDVfVTJUOHpJeVNubk1ydkM0NEQwRW1jMU1zQWRwSVBxal8zMzNxNFN4MEMtdUxFS3BJT2M4ZXA3Y0RpVGJRUjZSQjMxSzg2MzMzNjJSSFlwNGQzS1N4NzRxdGgxQWxhQXdPUFE5NVcxaXhkM25IdkI3S2I3OVoteklZOUd1QXVUUUxvQXV4U1MxUVFYalNNdw?oc=5"
-      },
-      {
-        "title": "\"Wieczorem było bardzo dobrze\". Wiemy, co nieoficjalnie mówi się o operacji: Czarzasty - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhXLUpsZGFfTHNVZkZaQVg4SzhXZ3VDY0NfR1p6OFBhTzExMTFnbzZQQmdZMEZmcVdja3luRW1PVVVYaWxjQ3BadldDNFJqYmpGbmhhRG9nOEtaRnZDVmpNN3dJbGhJSDNTdE9MTEdzXzJvZEc3OHBMOFBBR0RNUk45dmdwUHZvbi1YaTdPQS10QlFVNnRjZUZWN2hPS2JvNkVYOHhySUo3eXFqOFpFU1B4RQ?oc=5"
-      },
-      {
-        "title": "Zełenski krytycznie o Siłach Powietrznych. Chodzi o ataki dronów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFNxb0YxTUFDbjBSS2pZSGpEVFpIUUlPVlRnUU02ZndwVklFMFJjVEJiTHFwYU1HQWtxeGNuTGdsS0hQQ3owV0hQVlZVaXRqY3cxLXRweEd5eXNRU2JzMnlnUXQyaUJJWDVCNzQ3RnFTWG5OQndfWUFyaS0wZlJqZ3JwSm9UcnZCanJNbXdDSWtsS3BxR3pyRjZ6OXllRlhvVHg2SlNieWdtdw?oc=5"
-      },
-      {
-        "title": "Czterech policjantów zamieszanych w pobicie. Ruszyło śledztwo - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlcyejZRenhkbGJNYmVHT2pHSWdFZVVvbUQzM2tDLVhZd3JOenBzQUZNWFNYblE2WU54ajQtd2ljQUNUTDJ5WVVSTFdrY04weTRmTTFES0hFYkNnVjhKRkJGWlNkOXI0LW51OEl1SlA1dG84OGJIYzY0OGdEM1Q1TDEyZm9wLVAtMVlVamFQTl9QQ0lFeUwxUEtXZU5rRVlkSy10M1Zvdjc4a0Jya0l0S0VqODg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-07 06:36:59",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFJyMFlwT2E3bGVZZ3AxX21odS1BZFp4R25GcVBseUhVdkpnUkFFNXlCWGk2eVprSlRxa05NczZuNE5CaHg5Y2tfRElYVzZ2UVpMZmFZejBEbkRLNThXRThDYTVtY2hFNUVDcGdaM2xrbS1Jc2dvM2Y1WmU3aWV2M29ZMTZWcTY1LUdaZkdJNk9aYWtwaTh1YVRoczNYa0tINlhsdTQ5YnEwa0hQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-09 15:11:41",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5527,
+      "EUR": 4.2142,
+      "GBP": 4.832,
+      "CHF": 4.5991,
+      "JPY": 0.022678,
+      "AUD": 2.4988,
+      "CAD": 2.6038,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 242088,
+      "DOGECOIN": 0.33135,
+      "ETHEREUM": 7126.46,
+      "LITECOIN": 188.48,
+      "RIPPLE": 4.95
+    },
+    "indices": {
+      "^WIG20": 3414.84,
+      "^WIG30": 4373.73,
+      "^WIG": 3414.84
+    },
+    "news": [
+      {
+        "title": "Były wiceminister sprawiedliwości straci immunitet? Waldemar Żurek złożył wniosek do Sejmu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSXNHRGNzcDNkNnppNkc1WDZZaVZWdmdtcG9YblpJaHZ3Q0Nubm50Qmg3U01DR3p5OGpuWWxEWHM4c1JrYml2TEJmMFdHVXdGMVRaVUNPUzBWRWdSSVFyMTZ2OE1NdkZpUGlIWjVpcDlpd25lSFl5Y29obmNGSUV4SXlrVjB2S1h4U3E0Q2VMOHpxajQ5dGdUclhBY2dCajdXSW9ZeWpuNlhaSEJZUGp0eHhSdmtrczdldTVRWFNDZGdiWDBLSVBnS25OVDl6RkEtWllSdEo5cDd3eW9VV19n?oc=5"
+      },
+      {
+        "title": "Robert Bąkiewicz usłyszał zarzuty. Chodzi o \"wyrywanie chwastów\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGVUUklSUVZNM2ZTUmoyVTJFc3pSWmxhYmlEVHlaN29vcmI1ZXp6NUF4UjN2NWdKTXlFcHJVeTExYnpSeVk3dTM5by10ZUhqY0FBQVhMTnMybUpKelg3Rlo1M21lRmdMWGdNckFSRmkwMGFmWHZtUnh1NURjSl90NHFrUENiR2Y1N0laQUNacWxaQVNmVncwMEl5ZnllMmN5V09ZVDNEX2RvRE92dy1oSmJzRHpaZTZoNi1TZXdmWF9rZw?oc=5"
+      },
+      {
+        "title": "Brutalny atak na obywatelki Ukrainy. Zatrzymano cztery osoby - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEFKdUVnVUlGR3hnZ1BmcFN4NnMyV1ZZMnRxYW5LNkwyOVY3Vk5PRDhGa1MzRHppQkZYSkpOdkc2SjhBYXBtZ0xNcUJ2ZUFPZVphNDFDUl9vNU5FbEtRQjFYc0NSWEFsd0l2WENOeTgxTEJ4TDlETENZU0RjdTFVX0hwZXVCVXBJOF9Obmh5YWtqeDgtQk1LSk1WX2RwSktkejg2RQ?oc=5"
+      },
+      {
+        "title": "W mieszkaniu odnaleziono zmumifikowane zwłoki. Sąsiedzi myśleli, że podróżuje po świecie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYklGcjFJNjFGamZzcEFha29KQXNoRV9mRG41akR3TTdsVXYtWlRQRl92R3N0MXc2Y3ZYbEg4QjVOdFU0dkdSdlRwWUpjdnZYR1M4SkU0XzVrWk1IaEliV3JaVUFjWmRkVXp3Qk1Mdm1IXzM3UmZJOXVzRnpFMmd6NkdHLTdnZDlfbDJNX1RHRFFNNHFELVFOa0dSQWc5ZE1aQ2pDbldwVkdwWVFoWXNSaWJPTFBIU3dIMVNTa1RTNEtaM2lwOWZ4NUtpcGJUSTIwbnBYV2JyRGZSb3hK?oc=5"
+      },
+      {
+        "title": "Morderstwo na UW. Prokuratura ujawnia opinię biegłych w sprawie Mieszka R. - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTdpakgwckhXWmJUWXh2WVdnQzUtY3BsZWJDRHNhWnlIeFNyMDdTNGNPVFdFenFLTURTYU9KRGRZd2RLeG9KQmh5V3ExVHFWRVJ6MmV6NVZRR0xzWGV1cG1XaTZqM21mYXd3RUtyVVJXTFVLSV9rd2JnMW5JRzVsMnNGOFRhLUp4RUZzVGlXeHI3WHVEOFVvWmtfdThGUGdjaGM5dXpHcC0yYThsb2s5WWN5RQ?oc=5"
       }
     ]
   }
