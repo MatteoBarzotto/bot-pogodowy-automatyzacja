@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07 02:24:55",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 249575,
-      "DOGECOIN": 0.348439,
-      "ETHEREUM": 7283.34,
-      "LITECOIN": 194.02,
-      "RIPPLE": 5.15
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "\"Wieczorem było bardzo dobrze\". Wiemy, co nieoficjalnie mówi się o operacji: Czarzasty - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhXLUpsZGFfTHNVZkZaQVg4SzhXZ3VDY0NfR1p6OFBhTzExMTFnbzZQQmdZMEZmcVdja3luRW1PVVVYaWxjQ3BadldDNFJqYmpGbmhhRG9nOEtaRnZDVmpNN3dJbGhJSDNTdE9MTEdzXzJvZEc3OHBMOFBBR0RNUk45dmdwUHZvbi1YaTdPQS10QlFVNnRjZUZWN2hPS2JvNkVYOHhySUo3eXFqOFpFU1B4RQ?oc=5"
-      },
-      {
-        "title": "Skandaliczne nagranie na profilu Trumpa. Biały Dom je usuwa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRya0N1UmpjQlhlMmZmeEtOTkdLT213VzUwc1hVNWJDaGpITjZRWThYU05iX3pjekZsOFVSTUtJWktiLXdPaG03bll1ZE5vYlRGWXViVldVTXB3bUlVVE55Nk5pcUlDc3FMSlEyMG5zbTk3UUNjZkMtQ1RtQmlrczdlRWoxOERleFdlTmhDVVFOZTllSHlzSkgzV0NJV2E2TXpR?oc=5"
-      },
-      {
-        "title": "MSZ odradza podróże do Rosji. Reakcja po materiale Kanału Zero - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExabTh5YXo1NzN1LWFPaHNTUHJqRFlvNXQ2MmVmZHcxemN5RFpjZnRrQXFBdzNfV2hFSEtiUFBCaHhtSDJHZXVZVGpCcDRpR3BaQVVlRmNtVUU0NS1WYjdpTmFERzE3UkRZbVJCQUZabE8xZFBmYVRJd0FmcUZNak5fWnlOenI2Tm9qRnI2dlNFUnRoZ3lBYzVIalEtX0NlanJYNkpPaw?oc=5"
-      },
-      {
-        "title": "Amerykanie uderzają w irańską ropę. Trwa \"kampania maksymalnego nacisku\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVl0ajFkd1dQR0tVUE1QN3IzM2xDdFZzdDVfVTJUOHpJeVNubk1ydkM0NEQwRW1jMU1zQWRwSVBxal8zMzNxNFN4MEMtdUxFS3BJT2M4ZXA3Y0RpVGJRUjZSQjMxSzg2MzMzNjJSSFlwNGQzS1N4NzRxdGgxQWxhQXdPUFE5NVcxaXhkM25IdkI3S2I3OVoteklZOUd1QXVUUUxvQXV4U1MxUVFYalNNdw?oc=5"
-      },
-      {
-        "title": "Zełenski krytycznie o Siłach Powietrznych. Chodzi o ataki dronów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFNxb0YxTUFDbjBSS2pZSGpEVFpIUUlPVlRnUU02ZndwVklFMFJjVEJiTHFwYU1HQWtxeGNuTGdsS0hQQ3owV0hQVlZVaXRqY3cxLXRweEd5eXNRU2JzMnlnUXQyaUJJWDVCNzQ3RnFTWG5OQndfWUFyaS0wZlJqZ3JwSm9UcnZCanJNbXdDSWtsS3BxR3pyRjZ6OXllRlhvVHg2SlNieWdtdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-07 05:02:56",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "IMGW ostrzega w niedzielę. Alert obejmuje 9 województw - Radio ZET",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVZwSE5ZcVhXQzQ0akgxR201d3JxZTJuTU1HYmhrSHpyQlp0LUtaeGZzQ3g0dTItamZ0WWZoRUpTSzBrOFpKSzhFbG5Hdmw1dUZvRHNkSEExRzZMVDFBV2p0VHQ0bGFMSEx1Y3UxOURMcGdpUWduMTFSRlE4X0lVOE9Vc0FhU3JET2lmNFRicnNmUllXYVE?oc=5"
+      },
+      {
+        "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFJyMFlwT2E3bGVZZ3AxX21odS1BZFp4R25GcVBseUhVdkpnUkFFNXlCWGk2eVprSlRxa05NczZuNE5CaHg5Y2tfRElYVzZ2UVpMZmFZejBEbkRLNThXRThDYTVtY2hFNUVDcGdaM2xrbS1Jc2dvM2Y1WmU3aWV2M29ZMTZWcTY1LUdaZkdJNk9aYWtwaTh1YVRoczNYa0tINlhsdTQ5YnEwa0hQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-09 13:54:58",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5527,
+      "EUR": 4.2142,
+      "GBP": 4.832,
+      "CHF": 4.5991,
+      "JPY": 0.022678,
+      "AUD": 2.4988,
+      "CAD": 2.6038,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 244688,
+      "DOGECOIN": 0.333986,
+      "ETHEREUM": 7209.42,
+      "LITECOIN": 189.0,
+      "RIPPLE": 4.99
+    },
+    "indices": {
+      "^WIG20": 3404.37,
+      "^WIG30": 4361.13,
+      "^WIG": 3402.31
+    },
+    "news": [
+      {
+        "title": "Recepta na tragedię. Jak doktor M. zarabiał na uzależnionych - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkRsU0J0bXhpWTU0WERDNUNQc0dtOTNJTFBkbmk3YkRtLUl2X05IWUFrNzh1aWZJdGJIVlV6TVdEVkpoSl9tZmRvTjQxdzBaeTNZd2wyOFJLNjlwcmxWMkJIazBSZVNTOWZpMWFPRGluVll1bUFESHZ1NExQY2c5bWM1Tms0S1J0bm5PVEhncHRpUXdCblA4M0E5WTJvdjNVSnRr?oc=5"
+      },
+      {
+        "title": "Kto najlepszym prezydentem Polski? Wysoki wynik Karola Nawrockiego [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzZJQVZGMjU5RElvQXdTYk1xZlFKdXctcWx0amFMSlpETlloREV6dlpuZGZHNzRlSG5VUmt3NkhpQ0NJSWk4UVRNMGF3SHhETUtuemNsOHZtY3BxVDFiVmZBSEg2ellRVXFwVThGdHd2bjhfYnloVXBfcFhiSjd2Yi1INFJOSE8wU2lLMjI5RFV2Y1A1NUxPWjIzdjJMZjhaTVQza0RSYjY0RTE4N3d2TDBfRHBuaUlxYTBLTjdpSzFydWZXS1JvLVF3bVExdm40?oc=5"
+      },
+      {
+        "title": "Zablokował numer 112. Dzwonił w sprawie Ziobry - Remiza.pl – Polski Serwis Pożarniczy",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mQUZkS3VtN25yLTBoWlh1QU9mRnBpU09TcWFqWkRTdkJ3R3NSdXEtX0h0MEVFOHBYQUZtQ2xzemtTbU5qTUVEZV9EZ2dyeFM5ZjV3dVY5dGxGX0dkQVpnU1ItczdiV29ZdFpxd0NUYVNMd9IBckFVX3lxTE5mQUZkS3VtN25yLTBoWlh1QU9mRnBpU09TcWFqWkRTdkJ3R3NSdXEtX0h0MEVFOHBYQUZtQ2xzemtTbU5qTUVEZV9EZ2dyeFM5ZjV3dVY5dGxGX0dkQVpnU1ItczdiV29ZdFpxd0NUYVNMdw?oc=5"
+      },
+      {
+        "title": "Zima rozwinie dziś skrzydła. Na tęgim mrozie się nie skończy [POGODA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWFNBRnpOZzllTC0zTDdIMV90NEo4M3puUVhNMUtacF9JMlExb2JwME9RODJsQjNQX2tEY3QwTFNTX0VpWUdlYzcwbExFeC1rdE1uUUxqaEIwMmxpX2NIbnZIX0pMbGRNVFJkUnlZUF9PZ2VsNVZtbHBlNWtwU1NXZjQ5YjU0UjY1MFEzVEF0dTVHN0ZZQXlMd1loekE1di1SUVdwTzgzZ0c0UjFiWDhpOVVINXVfdUNXYjhZelM2ZlUtQ3FEMnY2LQ?oc=5"
       },
       {
         "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
