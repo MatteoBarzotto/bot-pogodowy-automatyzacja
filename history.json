@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08 06:59:18",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 246700,
-      "DOGECOIN": 0.345529,
-      "ETHEREUM": 7429.48,
-      "LITECOIN": 196.84,
-      "RIPPLE": 5.05
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Mieszka tu aż 240 tys. osób. Niewielu Polaków wie, że ma tylko 100 lat. Właśnie obchodzi urodziny - G.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHBzQmVLMWN3NW8wamVIMEhTdkVWeE9GaU5IQ2F4VkJGemdKc1Izbk53bm9vZ3ZERU1GanFvS1J6OVU5ZFF5RXVIQ0V1MG41NEozdlp1LS12SWdDbGc4MHlSVHVqTUVDTlZFVk5sZHBnbzNJUWVkRGtvNVJnV21aUUxVQjdEeUhVbWNCRnpmcTF6Z3VUZXVPUThTcVdyOWc5c1E?oc=5"
-      },
-      {
-        "title": "Temperatury jak w karuzeli. Pogoda zaskoczy już za kilka dni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFFsWlozRWNxb25hZHM5MERfZVFibEtWUFRnc0pFbEdaNDJFTXduSXFHcjZXaktSRDIzeEZpRHdqV1VEVFZKUEQtMktrRFgzMzh6ZE51Slg2MTRfcmlIVFlmWDU2c2VoUVJmYTJfaVZVSkc3MFRFUzVTa05UaVZ0QkdnbGJqc0JFaU51S2lZMWlMZ1hHQlJoQ21lRUxVZGFiQXc1bQ?oc=5"
-      },
-      {
-        "title": "Sezon grypowy coraz cięższy. W tym regionie jest już siedem razy więcej zachorowań. - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGNUd2kzT1Z5X3FNZzF0bUdCSW55ZTZpdUZwbS1leFlTRFdIUWhDOW1tNW91QkhVa0RwZWZoNVphbkV2alBjSkNrelJOMEd5RXVyZ3llM2xUcU5RU29xcHJEMlhoRDl5Zm42Tmhvc2FCckg3eEFLVElEYnRzbmR5cVNwMHJhMnZQelppbjY4QmV5OW9mTmlXbjJRMXpRT01rejZUVjUyM0Z1WTV3V1hwVV9PYldldGhXMGJKb0Z6MG50bmV0b284?oc=5"
-      },
-      {
-        "title": "Zamach na wiceszefa GRU w Moskwie. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnhZR0c5REREQTh0NEI5UEY5Q1phSktaSWlTSDBqam1wN2xOMmx3Y09JaFdaT3hwRWM5blU0SGtqSWUtMXFpcXltU1A0UU1tQ09jSE1GbDNzanFSX1BPR0xRdlJuTnBVenlSN195VERMVjBIWHRKVWx5OTE0dmdEajZ0RnpZaEZ3RFdQbDA3S2syTWZ6SDFXX3pkTFJrY2UxSUdtYnZiUm4zYlczTE5KVlhpZ2xkaWwyVm5qeW9hMWJuUHYt?oc=5"
-      },
-      {
-        "title": "Wypadek w Małopolsce. Są poszkodowani, droga była zablokowana - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmpJZW1nb0R0WU5iSFZEYlMySTd2cGVOUjhsREVydUNTSEpDbkphVWgwbEhQdDFzZVU4QlFjVkJJMFFaSlB5NEN6dGQ3U2I1M2hVNXdtMmdtaEU4cFNRUGVyNElHNktya3ltVjVqTEdKVVg3TUZrQkJUYkJjMjZGWmp4NTlpVDdHRlR2UkItODVPb01OWXlTeUdEdGxreDFZN2pwdXBEZGFINmVjaVN1cFU5V1U3ZjV1NXc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-08 07:57:18",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zwolennicy referendum ws. Miszalskiego reagują po ataku na aktywistę. \"Emocje buzują\" - RMF24",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWE5lTEFfQ09QWmowcExBcC1CaEZjWmtieVhxbHJCSTRUM3Jtb0ZtZnN0QTBYSy14Q1hiaDZEYXkwYnBGdkhrOXNFNGxhY1FIYUs1Z2RMUElIMVRRbDk4MEFCWmk1LS1zV1I3LTRiNzcyUzRaaUVYaHR1MTBWQnBlVGRoZmtQNjMxZnMwUlhTTXJFTEg1ZnpVZmtCVExoRnA0cldpMFpiSjlocDFZUDdvMno1aw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-10 21:00:54",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5377,
+      "EUR": 4.2148,
+      "GBP": 4.8354,
+      "CHF": 4.62,
+      "JPY": 0.02278,
+      "AUD": 2.5025,
+      "CAD": 2.6082,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 244537,
+      "DOGECOIN": 0.329718,
+      "ETHEREUM": 7146.54,
+      "LITECOIN": 188.71,
+      "RIPPLE": 4.96
+    },
+    "indices": {
+      "^WIG20": 3393.69,
+      "^WIG30": 4358.12,
+      "^WIG": 3393.69
+    },
+    "news": [
+      {
+        "title": "Na Litwie zrobili to samo, co Czarzasty. Odmowa dla Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVE3SmQ1SHdWYzVoUWlJRDY4SFRNcGhOdDBHcmdtUWg5MEVrZl96SUM4YjZacmEzTERfdkRwSENGY0dCMjRhUExoMVBySUw0bDJ1cTBCZEtHcGM2cGhHWUJ4TDdXb1hmbUliZ0NxY1JEVUNTOXhEQTZRZlBDVE1tTllHMWdLV1F6dUFqXzNxS2FvLXdWWVRSVkNha3J4aldy?oc=5"
+      },
+      {
+        "title": "Antoni Macierewicz ostro spiął się z dziennikarzami. \"Ja kłamię?\" [WIDEO] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNW92VUhLcWxTbnp4d0ZyRGdWcXBVdHV4ZFlyei1PTFEzM1ZiS3ZCNXV6R2t0alNTN2VjajdvTWRwYWcxWFNvUlNtQzZuYUgxbFlqSDF3WXZDZW9ZZ09vM3VFdlhlMkdlZXVtWmFvbTE5MFNHOGtvUzgyVVQ4ck1Qb2VUMnRjZ2tMVFhaYm5LNWZWRW1GU2JZRjJneDFUQWdZV2VUUEhSNTVWdFNSZ05vVXIxdmVYNTNfTk9rOVA1SGNuUHpILXNyTml3?oc=5"
+      },
+      {
+        "title": "Leśkiewicz przed RBN. \"Chcemy poznać stanowisko ws. Rady Pokoju\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0NyWWpjMXhaUmRLbkZaQmxKMHNoZ1l3NTZNMXpwR0FuUi0wZjNVSWxZaFV1V2xJNE96WWktTWFIcm5ldlZUdVZ6ZEVYRjE5dGdQdlhENWJ5aHB5LWdvODhrNDZGSV9KcnA4ZnZyRklIWlVQLWxYVy1fU1pFelNVQjMwTnBKS1VQdmE5WURNbEVEbEtOclFhVXF1cnRXMDJ2NXJWOUR3?oc=5"
+      },
+      {
+        "title": "Strażak zeznawał na procesie Sebastiana Majtczaka. \"Dlatego pożar był tak gwałtowny\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDByYnZia0lzWVlMa25nRmpRclU2R1N3NU11YzNBU3VONkIzd0pFUHBZZDQxR2IwSHk5XzJtS0hqclQxb3BhdmlBc0lwei1BbEQ3U2VVMTJLRTlWRnNxSXZxUFZXTzZaSFk1RUd5NW1QbW9WeUt3dlpuQVQyNjZqN2xNQVozbjFFeE5qUkZ3WlB2b0JBbWIzRm1KdnpDWHpGSU90WXhac2Q0T2lqQlB1amJjUTVRX25JdEQtSF91VFpGWm5yZTlCaEIta2YxQjN3MlFKcw?oc=5"
+      },
+      {
+        "title": "Katarzyna Kotula wygrywa w sądzie z byłym prezesem PZT. Zaczęło się od publikacji Onetu o molestowaniu - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHFHRFZROVVJRV9EZnVrRkRUbGpUeVZ5eXEtZU1yN2J3R2YtSjNwZ3NBUGFWSEZDM2lkakpncFZyeUExcG5HQm9VcWNLa3djUmU3bXJkQUl4cXNlUUY0NjlMR21XeUhiWW1DUlJvRFE3OHVKWGJfRy11anBycGxGOExJaC05VW9EUzIteU1nVEczYW90NndNZzNScVVlcnRieVk2WlhXRmd0S2lGa25jVGNYMDA1amxyMzJ3Mw?oc=5"
       }
     ]
   }
