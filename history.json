@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07 19:26:37",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 247159,
-      "DOGECOIN": 0.352484,
-      "ETHEREUM": 7428.83,
-      "LITECOIN": 198.04,
-      "RIPPLE": 5.12
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Polacy ocenili Sikorskiego w sondażu. Naród mocno podzielony - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU9TVXh6Q0UtVkhTUEZXQ3BqVmlqWVk0anFjSE9POG04WllJanNrMmlBX0NSSmEyalFPSTNwSUJEYW1ZQ2swMTh5eE9qRkYwU2QyblMwWDB6b3BGWGhMd1MtMHYtUmNvREl6bWI1RXgzM3B0Y0VYd3VVRWtlRUo1RDV4WmhpT2xGMG56YmRUdi1Rb3RaQmlRNWIxVkFOUFFfWFBpeQ?oc=5"
-      },
-      {
-        "title": "Skandal z reportażem z Rosji. Głos zabiera rzecznik rządu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2JpT0drbDhDMUlsMGVORkxWQ1d5RTlsd2VCQTM3ZWI1QmFSalhYeENiVk1BUEZCd3lmM0xycWVmNGJjZS1YODdwdy0yN05Hc1F4QWdRc0VHSEVfSVNfV1RpeFRiSl9HQ193RWFUaHdwZ0lIRFpoc082ekNpdFRKQW5Td3pMaWg0S2lUN0g2NUxlS0FQN1VDVkZRTGZSZEZY?oc=5"
-      },
-      {
-        "title": "Tragedia na terenie garnizonu Dęblin. Nie żyje mężczyzna - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzJlM1ZWd0pDcklYeGxraElwNlJxVjU3N2xuaU9lc3VkZGNLZUt3UnREdm5Qd1lYa2VmdW05eUxSdVFSdTJ6QW9SRWEyRWJwLWN3UlUwUEJkY1EtS3h1cnVVaWJSa1lidEtIS0pmd2NjZ3ZzM2dYSmVpNWNyREdqWFdNdFBFZEs5dzNqaWpqMk9sZUNkZ0pRQThiRTdJTnYyZDZ6amF3?oc=5"
-      },
-      {
-        "title": "\"Niezrozumiała szarża PiS\". Analityk krytykuje akcję przeciwko Czarzastemu, PiS zdradza cel - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejh1WnpqTVNDRnBfcmhrcmFkWHhESXdPMDlFckZxNFpZMFJaUi1jTTZwMzgtWGEtTlkxXzNGTk1sakxhaWppVjg3VlJWNHRHQW9FSElmRXJvcDhSVi13ZGlacDVaTzVKSW9SNGxHM1k4amVWN1FyOGR5T0x3dlkxZ1Uycm9MSEpEM2VqRlowcHpQZncwVFNwM0I5SGJyV1picWxkdXJzUmxrbHpSRjdZT0tGUDNUa1JYdmZMVEhuWVBfSm1pTTQ1TC13?oc=5"
-      },
-      {
-        "title": "Płk Łukasz Paczesny: Co wiemy o szpiegu z MON. Poważne wątpliwości - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHRiTVpseTF3TGE3WEk1TkMwWjlZdVlpdDN2T0ZUOXdIdzBmRjR3MVYzUEUwM3FESUc4SWNYNEthRlh4c29mVGZIVndhTV81VGxsaENST2x6UW1kMTRsS2xwSHNsLU1hSkFqb3ZFQkxxVHVWVzh5VVFIQk9TQ2RtLU1zSkl3V2lxcWZtR0xIeEpORzNOVGpvcVBfeFFXemN0Zjhj?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-07 20:18:45",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Miliardy euro z SAFE na zbrojenia. Cicha wojna resortów i \"realne wątpliwości\" prezydenta - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2RLdEU4LWN3b0RsV19mMEtkYTNXTlRMNEJOaEtzSkpiMEJKVURsNmlVak9EV2lja2toOGhLbngtYzdxR0ZrTGU1Sy1oRThHQ0t3WXZyWHl2blE1WF91QTRrT3M5TVpzOVByRXhEQzlzZFZDX3A0YVA1VVN2b2pOdWFRNUxNVjRLNlRTdWZKV00zd2ZCQ2JKUVBvWFpBaGtJYmt5U0t4T29fRTJnY0RHZXliY3lrMWVfelVvU05aeWhvSTlBNlR3dw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-10 10:54:49",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5527,
+      "EUR": 4.2142,
+      "GBP": 4.832,
+      "CHF": 4.5991,
+      "JPY": 0.022678,
+      "AUD": 2.4988,
+      "CAD": 2.6038,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 244134,
+      "DOGECOIN": 0.330751,
+      "ETHEREUM": 7117.52,
+      "LITECOIN": 188.95,
+      "RIPPLE": 5.03
+    },
+    "indices": {
+      "^WIG20": 3422.1,
+      "^WIG30": 4390.53,
+      "^WIG": 3422.1
+    },
+    "news": [
+      {
+        "title": "Czarzasty ma nieoczekiwanego sojusznika. Mentzen podważa oskarżenia - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWszVHpCT0ZOMm1WY25iQ3hYdE9lbmRhSmo1Q0czbWp3cjZHOUJvZ2RPTWY4VGpzWG5GQ2Y3YTZjMXd1cU1KYnpMTXZWNm9Mb0d4S25GeGtVbWZhb2NHWXktMDQzZGpYTkRFUnRKNVVjN0pPVFI3NFQ3V0dHTmtZdTZlZFhxRnI1UUZZaGJoU09oNzR3OTV3aU8zd2ppbm0xNmpQb204WjhYeTUtd3c?oc=5"
+      },
+      {
+        "title": "Plan B dla KRS: Sejm zatwierdzi wybór sędziów przez sędziów - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0Nnc1FBN0otdm84eDNDTTNvbkJnYThZTzF3Wm1sdF8xcG5FX19zWjBINjloZTdudS05SEw3V0NrUGZPdzU2R1BMQ3BON25KclQ4anRxNUhvaVBmNHFDN0J3ZlEzSHpXb1JZQjYwTzlpLUhZWmdCVThZUHZPOU5jaXR5TWdmUE1XU18teW9rUFFzQkFqSUVSUlpBR2NUQU5mc3c?oc=5"
+      },
+      {
+        "title": "Tragedia w Kościanie. Ciało kobiety odkryte w mieszkaniu - Kryminalne o2",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVVrckU2MFI0MXRiMWNjbTJkd19HUTJUTW1aOVFwdFhTMVItdHA1U2ZYVWkzUTBWQW9HZEhlb0U3MG5WNmxZMUNSbE5qM1BOdW9SV1dka3RCcDdFODZSNk5sUTNZaHpKa1RDbUExWXhWa09FNDhCNlVyMlJWQ2xJOVk5eU8yYTVZQnNrUVhCNVllZTk1V2JKMldvYnlRZTI0amxIR29nRUs3RFpjVmc?oc=5"
+      },
+      {
+        "title": "Wizy dla pracowników. Niemcy złamały prawo? Jest ruch KE - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXJNUlloaTMwUVZhRHU0NEZnaURFMGR6SGVUdnpHWWRqOFh6V0VSZGZkcFhmTDVoSHRNNTFHQjhjY29veTFfbWh5RVYxRzJfTGRXUVhWbWZHUXprT3RtZ1VYVHJsZ1BVZF9fWXlhZ2IyeEJDbmczMXY3RUlsV0x4YVgxdzF0ekcycUozNWhTM3ZDSHYxZjZhUFZZRVJQX0wxUUZUWEJTcG80TnVDc3c?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki promuje odzieżową markę. Zarabia na niej tajemnicza spółka - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV85Mk1zVjdwZkVCMXliQXdOUExCNEZETHhicjFUYWxDWTI4UTREY1R5MTFLVWVpWmxHWjlrWEZFRWNOUEFUSk85cTlUcUg5YS0zd3hqRGtmUHVvTXlSTE1wNkhkb252S2N6NXI5WnlOVDN3bWozU2dYZURyS1ZmeGNPVWxmWG85c2tNMk40aTVWTWw4T3AwTld6a3lOLTJwa0RLaF81czhGTjlhUENwUXNWSUhXeGR6UGZnZmhkUEtmQ0dD?oc=5"
       }
     ]
   }
