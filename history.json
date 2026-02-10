@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08 05:57:56",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -3°C"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 247194,
-      "DOGECOIN": 0.345912,
-      "ETHEREUM": 7422.57,
-      "LITECOIN": 197.14,
-      "RIPPLE": 5.06
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Rzecznik rządu sugeruje, że materiał Kanału Zero powstał przy pomocy władz Rosji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkJaNkR3bXE0UjZKMjQ4amxCZXI3ZFg2em51d1Q5a25kbzRBalNBRmJ2S29WaFpIdEZHNzh3NGdEeTVBcm1UbkE2QkhfRlUxN25QbHFkNlpYRDRjdFM5aFlDb3RNeUItZXpRQS1sY1diLXl4VXgtTWVKU1ZSSHNscUN6TUZ0Tk4tcTYtRTNkdUJya3hfLUd1UDRrRldnc1ozclJzd1FXb0hSZDQ?oc=5"
-      },
-      {
-        "title": "Miliony przekazane na tacę dla Ukrainy. Sukces inicjatywy kard. Rysia - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVNkUVhGdkE1YjNQclRxQ052bjYzU0xxMEZjd1NrZUxGNnVrOVBCX0FiVHdHSVV5ZlFxbTBIVjl3a3pFQ084cVZSZmt2RU1hbEdna2c2eFFNQXpUcWtoUUtGelRzS1RXLXphb0dqbEZvTW9kMDduRThkRE5maWtCQkdta0hWVzFtSm0tRUcxZkFZVlBqdW1Tb1VTOW9DZDZVVzNCMFI5TmR4XzM1ZkdwQ3VNOGpOcVVwRmhobklRRDN6a1VTNkdKc1p3MWc2T0dhaHc?oc=5"
-      },
-      {
-        "title": "Temperatury jak w karuzeli. Pogoda zaskoczy już za kilka dni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFFsWlozRWNxb25hZHM5MERfZVFibEtWUFRnc0pFbEdaNDJFTXduSXFHcjZXaktSRDIzeEZpRHdqV1VEVFZKUEQtMktrRFgzMzh6ZE51Slg2MTRfcmlIVFlmWDU2c2VoUVJmYTJfaVZVSkc3MFRFUzVTa05UaVZ0QkdnbGJqc0JFaU51S2lZMWlMZ1hHQlJoQ21lRUxVZGFiQXc1bQ?oc=5"
-      },
-      {
-        "title": "Zamach na wiceszefa GRU w Moskwie. Nowe informacje - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnhZR0c5REREQTh0NEI5UEY5Q1phSktaSWlTSDBqam1wN2xOMmx3Y09JaFdaT3hwRWM5blU0SGtqSWUtMXFpcXltU1A0UU1tQ09jSE1GbDNzanFSX1BPR0xRdlJuTnBVenlSN195VERMVjBIWHRKVWx5OTE0dmdEajZ0RnpZaEZ3RFdQbDA3S2syTWZ6SDFXX3pkTFJrY2UxSUdtYnZiUm4zYlczTE5KVlhpZ2xkaWwyVm5qeW9hMWJuUHYt?oc=5"
-      },
-      {
-        "title": "Mieszka tu aż 240 tys. osób. Niewielu Polaków wie, że ma tylko 100 lat. Właśnie obchodzi urodziny - G.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHBzQmVLMWN3NW8wamVIMEhTdkVWeE9GaU5IQ2F4VkJGemdKc1Izbk53bm9vZ3ZERU1GanFvS1J6OVU5ZFF5RXVIQ0V1MG41NEozdlp1LS12SWdDbGc4MHlSVHVqTUVDTlZFVk5sZHBnbzNJUWVkRGtvNVJnV21aUUxVQjdEeUhVbWNCRnpmcTF6Z3VUZXVPUThTcVdyOWc5c1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-08 06:59:18",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Leśkiewicz przed RBN. \"Chcemy poznać stanowisko ws. Rady Pokoju\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0NyWWpjMXhaUmRLbkZaQmxKMHNoZ1l3NTZNMXpwR0FuUi0wZjNVSWxZaFV1V2xJNE96WWktTWFIcm5ldlZUdVZ6ZEVYRjE5dGdQdlhENWJ5aHB5LWdvODhrNDZGSV9KcnA4ZnZyRklIWlVQLWxYVy1fU1pFelNVQjMwTnBKS1VQdmE5WURNbEVEbEtOclFhVXF1cnRXMDJ2NXJWOUR3?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-10 19:58:55",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5377,
+      "EUR": 4.2148,
+      "GBP": 4.8354,
+      "CHF": 4.62,
+      "JPY": 0.02278,
+      "AUD": 2.5025,
+      "CAD": 2.6082,
+      "CNY": 0.5118
+    },
+    "crypto": {
+      "BITCOIN": 244457,
+      "DOGECOIN": 0.328089,
+      "ETHEREUM": 7136.68,
+      "LITECOIN": 188.07,
+      "RIPPLE": 4.97
+    },
+    "indices": {
+      "^WIG20": 3393.69,
+      "^WIG30": 4358.12,
+      "^WIG": 3393.69
+    },
+    "news": [
+      {
+        "title": "To koniec Polski 2050? W partii bunt i widmo rozłamu - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjBNbHNYUllVdDdzX2pZR25WVEE4bG15ZlNKU2c3VXJSRXRkMXZsMEpHeldKaHNyb0RCWEktdUVmdWJFcUtzYlp6aVJxMGFRNnkybjBJQTVkalkydk8wSXh5MDBxR001YXZEbVYyVHF6XzIzRW45UDZYanh5bUJlV3hEcW5EaTQwUTZMV1FBVWlvNGx4?oc=5"
+      },
+      {
+        "title": "Leśkiewicz przed RBN. \"Chcemy poznać stanowisko ws. Rady Pokoju\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0NyWWpjMXhaUmRLbkZaQmxKMHNoZ1l3NTZNMXpwR0FuUi0wZjNVSWxZaFV1V2xJNE96WWktTWFIcm5ldlZUdVZ6ZEVYRjE5dGdQdlhENWJ5aHB5LWdvODhrNDZGSV9KcnA4ZnZyRklIWlVQLWxYVy1fU1pFelNVQjMwTnBKS1VQdmE5WURNbEVEbEtOclFhVXF1cnRXMDJ2NXJWOUR3?oc=5"
+      },
+      {
+        "title": "Strażak zeznawał na procesie Sebastiana Majtczaka. \"Dlatego pożar był tak gwałtowny\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDByYnZia0lzWVlMa25nRmpRclU2R1N3NU11YzNBU3VONkIzd0pFUHBZZDQxR2IwSHk5XzJtS0hqclQxb3BhdmlBc0lwei1BbEQ3U2VVMTJLRTlWRnNxSXZxUFZXTzZaSFk1RUd5NW1QbW9WeUt3dlpuQVQyNjZqN2xNQVozbjFFeE5qUkZ3WlB2b0JBbWIzRm1KdnpDWHpGSU90WXhac2Q0T2lqQlB1amJjUTVRX25JdEQtSF91VFpGWm5yZTlCaEIta2YxQjN3MlFKcw?oc=5"
+      },
+      {
+        "title": "Sondaż RMF FM w sprawie zasadniczej służby wojskowej. Ponad połowa Polaków mówi „tak” - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekdoTzZHRjZnNlhzTkdUQy1EbFJlcGs3Tms3LXJVWTFzRGsyTUU4cmswemV0a3MyMG5wcWMtc1J1aGt1XzJ0UDdIb0RiZHBMVjZ0WndfR25pRmRZdzdRLWhEcURKSmRXWWNqUWpYWDVmS3NULWgtTDJZblV1ak0yQU1wYmtfUG1SY2FiQjNPWFdqNkxiYnZSeTNkWk0ydW96Z1dxN1R4cEo2XzBHdWVkSw?oc=5"
+      },
+      {
+        "title": "Zwolennicy referendum ws. Miszalskiego reagują po ataku na aktywistę. \"Emocje buzują\" - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWE5lTEFfQ09QWmowcExBcC1CaEZjWmtieVhxbHJCSTRUM3Jtb0ZtZnN0QTBYSy14Q1hiaDZEYXkwYnBGdkhrOXNFNGxhY1FIYUs1Z2RMUElIMVRRbDk4MEFCWmk1LS1zV1I3LTRiNzcyUzRaaUVYaHR1MTBWQnBlVGRoZmtQNjMxZnMwUlhTTXJFTEg1ZnpVZmtCVExoRnA0cldpMFpiSjlocDFZUDdvMno1aw?oc=5"
       }
     ]
   }
