@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07 15:20:22",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 246129,
-      "DOGECOIN": 0.343212,
-      "ETHEREUM": 7285.33,
-      "LITECOIN": 193.07,
-      "RIPPLE": 5.01
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "\"Nadałem synowi jego imię\". Polski żołnierz uratowany przez Amerykanina - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFBMUkpuaHJsWlhQZ0h4Q0dqajQ1SzRWSThwaC1iVXpmbVpFMWtVRnNlQmNUNVBzeVhPeEowWlpycUVsT1lnQVc0QzlKdXowVUxqX1FKMS1MbHQ2WFZqN1p2RmZTQkhXcjZiNGlXTC1DSnVQTFp3eTJfX3g4ZEhDMTQ5LVM4OGQ3b0R5YWhTTm1pYm1EYWpHNjB4cGJCakQ4c3ZINzRtT3ZLZ3c?oc=5"
-      },
-      {
-        "title": "Polak zatrzymany we Włoszech. W jego domu znaleziono arsenał broni - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZGd6c3luOGdpSTNYVzVpd2xWeW5IU1FqTHhjMkEwa2tteXVlZDBKUlVudU5HYzdlUUJENnJRX3NiVVVTaW40TFdMem90RHVCNGdlUDM1Smp2cV9ZbFZxZ0s2WjIwNDlrNExycUpGVWRjTkpiNXVNbkI2MUpjUU9WUmdMcXl4MFNNQkV1VmJkbGFjdDRIWE5aSGQ0bG9lT3c1NW5ERkhKZmQzVUxqcHpKMWkxVnpnQ1Y4Z3NqVW5BdjlnMGVFajh3?oc=5"
-      },
-      {
-        "title": "Jarosław Kaczyński opuścił szpital. Wyjechał w towarzystwie ochroniarzy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1lweE02X0lWY1pVWHRBb3BZWmc4ejVGYUdyRlFiN1h1WWtwdWJsbUFZLWJpU2dsV0JxUkZuWDJVVnVpS3lMUTRSVnlRb1Nwb25kWENJU2VmMnZaeUE2dXVEaVZSdlFHS2xVdV9Ua1hZMXYzX19FeDcyYzhYODRaLWpPY0d5aG9zRzd6Qk1jbXQ4ajNJaWhUa2VEeUl5TXpiblRoWmdvUQ?oc=5"
-      },
-      {
-        "title": "Awaria samolotu LOT-u. Musiał zawrócić - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTFIajV2MmVTaHlmc1otZkdsZVI4eXEyQk81LUszYkxPdUd6eUNLX1I3MTlQZ19NQ1FYRWlNa3N2XzBwblA0eXBKeTh4N1NqQ3ZENlZMMW9oY0p0bzhQSm10ZzZXRzVtSXp4djE1YnpNeF9DbFBOS0hIbWFONnZHc3NkcXJmdC11WW92bGVYei11dkpfaEg1ZU9EX1lTVzlpaUE?oc=5"
-      },
-      {
-        "title": "Potężny atak Rosji. Ukraina prosi Polskę o pomoc - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDdNTWo5WUc3alBMVEdtTlR0eHBzVUFGclhhbFRtWkdSczhaRTBHdUZ4UWU2bThnOWlSNEdZbUxxdlIwYVN5S1VDaVhUQ1pFdldBN1BaUS1KYWF1UW54eHJEV1pBalE1SWU5aDRuODk5ZzYyQkZtZ01wUDR4ZzYtVjItd2s0RFlRZkpzSGY4V25EOG1k?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-07 16:18:59",
     "weather": {
       "Warsaw": "Warsaw: +1°C",
@@ -2592,6 +2540,58 @@
       {
         "title": "Żurek złożył wniosek do marszałka Sejmu. Chodzi o immunitet Michała Wosia - Onet",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSXNHRGNzcDNkNnppNkc1WDZZaVZWdmdtcG9YblpJaHZ3Q0Nubm50Qmg3U01DR3p5OGpuWWxEWHM4c1JrYml2TEJmMFdHVXdGMVRaVUNPUzBWRWdSSVFyMTZ2OE1NdkZpUGlIWjVpcDlpd25lSFl5Y29obmNGSUV4SXlrVjB2S1h4U3E0Q2VMOHpxajQ5dGdUclhBY2dCajdXSW9ZeWpuNlhaSEJZUGp0eHhSdmtrczdldTVRWFNDZGdiWDBLSVBnS25OVDl6RkEtWllSdEo5cDd3eW9VV19n?oc=5"
+      },
+      {
+        "title": "Montują te urządzenia za darmo. Za kilka lat będą obowiązkiem - WP Finanse",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS19kTW1yTlFzYzB1N3BLbGM3WXRsUGdWZVFrUS0zRHk0TkpVaUx2dlBjNEYzUlByazRXX1hsV09OTm5JTFpLblRmdVZqY0hNelFHNVF0QkFjVGk4alN5ajNGVnlveEI0V21ZVlAybkhZN2xRRHdZZTdoUjNFZjdzQ0tiSHlpWUlsRWVJdDVPU3d5YlR6MXBrOEt2MVZxakh0dXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-10 05:27:38",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "Gdansk: -9°C"
+    },
+    "rates": {
+      "USD": 3.5527,
+      "EUR": 4.2142,
+      "GBP": 4.832,
+      "CHF": 4.5991,
+      "JPY": 0.022678,
+      "AUD": 2.4988,
+      "CAD": 2.6038,
+      "CNY": 0.513
+    },
+    "crypto": {
+      "BITCOIN": 245976,
+      "DOGECOIN": 0.337015,
+      "ETHEREUM": 7304.89,
+      "LITECOIN": 191.05,
+      "RIPPLE": 5.11
+    },
+    "indices": {
+      "^WIG20": 3432.15,
+      "^WIG30": 4396.39,
+      "^WIG": 3432.15
+    },
+    "news": [
+      {
+        "title": "Pomoc dla Ukrainy także od papieża. Polska zwraca uwagę Watykanu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMlgtcUlHVk1aUDFON2JvTEdCN21selJaSGpZbGxrNWdWazJLVnF3RmhOX1p3TXExTmhibkhNUE00TXVZell6YWVlcGlwdWhzMHNidnlPSkFfWUQyUl9MSThWbTZLLUhW?oc=5"
+      },
+      {
+        "title": "List gończy za Ziobrą. Nowe zdjęcie polityka na stronie policji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmVBZV9heHgtTHNCNHo3VUxFMjhZY2JyRm5WVHZNT2hZcHVETzlTOVV2cG01SFVobUtxeHM2ZUVHM2syZ2VJMWhVelNTNVBIYjRveTlLZkNkYjRLeHJNNjh6VmRtdk9DMUxWVzVKWnNyVTVjM1VVZTV2SFRYYV9xVldIX0ZTeXdrVnVsOHd1cng5eTY4RTlxaXZ3LVFMVWJ6dWNETHhjRmk?oc=5"
+      },
+      {
+        "title": "Rosja grzmi po zamachu i wskazuje na Polskę. Padło nazwisko - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWRBdTR6MGdBaVZWUi1WcFJoa3hYUjQ2NHRNcU02U1JEc0N0dVU2LVZhZDQyTnhLZHhTZ0cweEtLM1hHSEllbE1iNXZSY3VWOUZrNGFhem8zbUtwZHg0VUMwSFZjX3BuQkdfNUY3c2VLY1puenJUUFYzNXRWS09IOTB3djZ4VDNmV29LbXExdUtGcUVUSExDQm5FY3VUQzBDQ19iOU1Tc2lCb2M0TTZ2S3lfSmFDajFuSmJEUW93?oc=5"
+      },
+      {
+        "title": "Kontrola w piekarni i hurtowni warzyw. Zatrzymano 30 osób - o2",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWS1zd0IxUXRPV2Y2bzRmTDZQT3oxYW9CRjVMd09aU2VyTkV4ZFRrV19fcTFiTDN3RS1lcFRfM3huUXJ5MXJVa0pTdGtkY2tFX3FndEowclo5d1hhRHRrMmFQS2lNaFVoczBtMzBaYmJzNV9LUloycnJFM0hwdENOU29iVUZCdTlUdm1idDB2WHotU1lzM2R5Tm9TZmhJNlAtQzdHbXgyaw?oc=5"
       },
       {
         "title": "Montują te urządzenia za darmo. Za kilka lat będą obowiązkiem - WP Finanse",
