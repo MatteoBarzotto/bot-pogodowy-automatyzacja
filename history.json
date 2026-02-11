@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08 21:19:20",
-    "weather": {
-      "Warsaw": "Warsaw: -2°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 253870,
-      "DOGECOIN": 0.34702,
-      "ETHEREUM": 7566.07,
-      "LITECOIN": 195.47,
-      "RIPPLE": 5.15
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFJyMFlwT2E3bGVZZ3AxX21odS1BZFp4R25GcVBseUhVdkpnUkFFNXlCWGk2eVprSlRxa05NczZuNE5CaHg5Y2tfRElYVzZ2UVpMZmFZejBEbkRLNThXRThDYTVtY2hFNUVDcGdaM2xrbS1Jc2dvM2Y1WmU3aWV2M29ZMTZWcTY1LUdaZkdJNk9aYWtwaTh1YVRoczNYa0tINlhsdTQ5YnEwa0hQ?oc=5"
-      },
-      {
-        "title": "Zawalił się budynek mieszkalny w Trypolisie. Trwa akcja ratunkowa - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk1MTEVTakZlbGN3T0dsOXdWeHN4ZWs0el9sdnRTRzgxbnJSOE81U05TTnlHdy1tWDNpcF9RVUpXRVpua3E4cTFIZnhnQnF6QVpDeElaLVc3TFNjZW83cWxpWWVESHpTZnNWV183eEZGdnVRQ0FJVHNtR1RyeFRub3NsNVpRRFR3cFptTUJCSmRWMHdNRkJPR1dZU1hXOFduYV9jLVhiS2FVeVNYQ1lnREdmeUVJNmlndUZGV2lpQTh1Sms?oc=5"
-      },
-      {
-        "title": "Ukraina bezbronna. Pociski Patriot wyczerpane - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUVYM3NKMWViT3A3VE4yM1NOSWN0SGUybzFNTlpsc1RaaURqNHVfZEMyc0k1dUoxZVljQ1RkbEUxVGdCcTlGd0dZQzV2V0RXQlJyZERXOXJTQ1FldWkxaFloUi04bTNMNFZKNm1JemlwMjZZV1BSM2hOcnViVHE0NlhNR1ZsWUVkVlhMc2dZdGY?oc=5"
-      },
-      {
-        "title": "Mieszka tu aż 240 tys. osób. Niewielu Polaków wie, że ma tylko 100 lat. Właśnie obchodzi urodziny - G.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHBzQmVLMWN3NW8wamVIMEhTdkVWeE9GaU5IQ2F4VkJGemdKc1Izbk53bm9vZ3ZERU1GanFvS1J6OVU5ZFF5RXVIQ0V1MG41NEozdlp1LS12SWdDbGc4MHlSVHVqTUVDTlZFVk5sZHBnbzNJUWVkRGtvNVJnV21aUUxVQjdEeUhVbWNCRnpmcTF6Z3VUZXVPUThTcVdyOWc5c1E?oc=5"
-      },
-      {
-        "title": "Gigantyczna kwota. Tyle Kościół zebrał dla Kijowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlVObjJBZnhhMTlNVDEwOXVDWFQ0Ny1Jc21GSG1IRnpWS2dmRjJDMlFrLUwweUhkZUFiZXpydGxqNjY2aFJzOWI4Y0R3OF9tTkFXa0R6SEh3TXRIcDMxZ3dNSm9lcXd4UXNFcEVjVVQwSk1IbWhKVGhTUXN6X2hxeFY4X1Rwd29EMUdwVFdVNkJHdWVtdVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-08 22:20:13",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Kulisy spotkania Karola Nawrockiego z szefami służb. \"Ostentacyjnie żuł snusy\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVlVcVl1RkUtWTc4TlQwcWdSRlA5WVdvUGRTdGpxUEFmMWNOLV9WNzNWczg3S1JhT0wxQ1BaS3FiTElMUkdlZDVnU3lxYjBrX0lTMkFMOWkzUE1GRFl5dVBUNWNBZEtta2FOVDdob1A1WmZaZ2ZpOWhsbjJIaWZxTDY2VE9xc1JodzVObWVNLURmck1tRm5tc3BLeFAwVlBfM25DRkZtVnk5UktzTDJvOW01N3h2Yjcwd2c?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-11 17:58:46",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5387,
+      "EUR": 4.2174,
+      "GBP": 4.8462,
+      "CHF": 4.6213,
+      "JPY": 0.023097,
+      "AUD": 2.5174,
+      "CAD": 2.619,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 234563,
+      "DOGECOIN": 0.315899,
+      "ETHEREUM": 6803.85,
+      "LITECOIN": 182.13,
+      "RIPPLE": 4.78
+    },
+    "indices": {
+      "^WIG20": 3412.74,
+      "^WIG30": 4374.1,
+      "^WIG": 3412.74
+    },
+    "news": [
+      {
+        "title": "Uchylił ENA dla Romanowskiego. Teraz zajmie się wnioskiem ws. Ziobry - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVi1Ea0F4dDI1QTFvODFqTHpNbTliY1o4X0k0cVN6UUh3dWhfOHZKZGJyTDRWYlVwUWpFY2JZeUJ5emMyeGpWd09IbmRsYmV0d3pvTTdJS3RRdTdJRlZFY3Rpal93VjVERmZmLUdOd3VtRXkyZU92Nm8zbXNUdEsycUhzZE1sZFEtNVVudGcwR2V6Umw1cHEzNnBESnJPU3NzSTR2NlFkdktiX0VScFE?oc=5"
+      },
+      {
+        "title": "\"Ich sprzęt jest najlepszy\". Uwagi otoczenia prezydenta ws. programu SAFE - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0tTeDRtb0pveWcyX3hlTFZCSzhvVFBwQm90d0NMNDJRalZRZ0JfRjItSUJ5RDIyWlVOaVJlQUF5TG9qRi1BUkI5VHo2UEpEWHR3TG1Bd1JwQlQ1LVhDUVBjWklhNzR6TUJTcm00UHVNcFR1TmZ2VnZUcXd5YVU4b2lMMjV0VU1hWHBLM1BMS044em52U1owbWZ6NzRVNkU5NF9hTXV1ZU1FanhSZmZ6SE1DVEE4eFlNRngzQ1VZNkF4UQ?oc=5"
+      },
+      {
+        "title": "Auto ambasadora USA pod Pałacem Prezydenckim. To nie było spotkanie z Nawrockim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFZOemdNWm5EOE1jTHYxRmhjemFLTWhVSFJLaWhLLTFvYnJZTjFkWWxXbzdsZnRZaWxDOFlWWjZtbzU0bkVOdmdzdHJoOEl6UnI4X0pFbFEzMlYtNlEzdDBLUVhiVDBuMzFhQmZjOFMwZUhCd1J4OFluamZkdnJ6ZXRsMVFwZjBXWF8wc2pUbnJZUi1GTldPZVJsOGlqRHo2MjJWcXFhU2NMcGFHMUExelR1UDhsNDg?oc=5"
+      },
+      {
+        "title": "Tom Rose do Kosiniaka-Kamysza: Polska daje przykład - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnNxOFpmcHlJSE84eHQ3RjkxMlNFdnNxVERiQXFndzlvc054U0hIRFN2VkdlMkVwY20zTXFNNDY0WkE2UkFRR1B6Y2xHZE1GdGxzNDA2VF9vNlRaX3JjNUktMHBXR1o3RFdVaXZfVDQ4Uk1yZDFsaHVRN1RrYnpzTXl0SWNiT0M4MGhUaXBHd2pJTVU?oc=5"
+      },
+      {
+        "title": "Zastępca szefa Kancelarii Prezydenta Adam Andruszkiewicz z zarzutami. Chodzi o fałszowanie podpisów - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa2RjX2t3amNGaUJvazVoWThoSkFEOE1BcVd2YW56TG11aGd2X1lzbkIyLXBGRUNWT3k3TkU3RmtaX2dxVk5ydy1TY3Y1dzBBdnZrNkxud2xpeHFDSDZxUE9UQ1NKOTctN3JuSGM4dWVVT0RfRGlfNHZ2eTJwazZfOTRjV1NIRnFhdEh5SGpYVDJUUmlhV1MwM2tYMUZ1X3psWEtLV0xEalp3Vm16ODVQMFM5Ni1wamt0em1wcVk2dGNYTUtsRjREOFd0aWUyZG1OUW03eg?oc=5"
       }
     ]
   }
