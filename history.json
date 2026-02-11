@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08 18:21:14",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5749,
-      "EUR": 4.2155,
-      "GBP": 4.8535,
-      "CHF": 4.592,
-      "JPY": 0.022761,
-      "AUD": 2.4937,
-      "CAD": 2.6127,
-      "CNY": 0.5151
-    },
-    "crypto": {
-      "BITCOIN": 252281,
-      "DOGECOIN": 0.343918,
-      "ETHEREUM": 7463.02,
-      "LITECOIN": 193.7,
-      "RIPPLE": 5.09
-    },
-    "indices": {
-      "^WIG20": 3392.41,
-      "^WIG30": 4341.41,
-      "^WIG": 3392.41
-    },
-    "news": [
-      {
-        "title": "Burza po reportażu w Kanale Zero. \"Stanowskiemu nie przeszkadzają peany na cześć Putina\" - Tokfm.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0V0QXlBdDBnbGZ4Mld2M2RiQ2FSRU56b0hkb2tmLUFxekNaeE5ybHVzYzYzS3dEYVhqLUJFaUoycGJwUGFyM0lFbk82cWo5MnNpSV80UE5PX2JZYlVNc2ZVNlBiNlNPWU5NWVZuZG1XS29qTWlzRnBXZFVHSERhM3hrdUs5d2NSN0xHTHVod3BIQVM3aVhGWWFVbVJtYW14Y1E?oc=5"
-      },
-      {
-        "title": "Exit polle w Japonii zapowiadają spore zmiany. Jak zareagują rynki? - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1hJa2J0cVNicnI5cHUweG9TUTF5TnFHODZpRWFXVW9TSkxtaklmQ29sZ3djQ0RvWnpnODd2YmVpam9ZakU3ZThWLUpYWm9nTkt3WWFmeklPejRQTGZJd0RSYy0wZV95RHdkaWJ4QTFQQk5xTklfNk5neWM3c1Nhem95TjJpTlZBWXVNTWJ3M25ZdE9USmFtMnJBNVhfRklwbWZKbzZqOFZZSFdZY2RBbEVONTF5aDNSd2ZhVWRTZVlxUQ?oc=5"
-      },
-      {
-        "title": "Zełenski podjął decyzję. Ukraina wprowadza nowe sankcje - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWlReXJlcHhDVjVudVliVVhpLU9xb3BNZFU4SDYwN2FRSTllaWhQWHZyX1U2bXl5dWJiWUZLWGFWN1BvOEMwRUNIc1lzanFUSXd4V1hjYnpEelZRQ2R1SWlGbzhnbWU2Vk9rUXo1cjFCNlV5WjRLLU9BNjhOTHZXQWFrWTMtLVlweWhOT2FIbTFUMTBpNzFfU0otdTA2SnVENHZSYzROS3F4X0p0RFE?oc=5"
-      },
-      {
-        "title": "Tak może rozwinąć się sprawa Ziobry. Rząd dysponuje ważnym narzędziem - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbVZEcTZmV21VbXNCYzRCZkliTmlDZk1yc3p2cVlUb2M4T2l2Sjh4clpvRnJLakdubkQ3TTh2RlJoTlJFUFpuZUNZVGotd1hyLTI2bjNLM0xoTE9yZkZRRmJ5eTRjQmZpTHRjdDV3dkxvQ3FJSFg4VXBVZnlnYXY5R2VXa3BpcTJHNU9wa3RETVFBNEg4UWVRdEl2YWxzUk1JdFdQZVczR1I?oc=5"
-      },
-      {
-        "title": "Amerykański politolog: Nie ma już NATO. Próby udobruchania Trumpa to czysta polityka appeasementu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkFQYmxmbWx4X0RSTm9XVUpfQnRTMldYdmFWbWVTTGFrVVI4eFkxUlJtbFgwQXBzSENCRlVBT3NUNnczRlByYkxGQmk3OW1KUTNvNnhpbmJzT3JmYXRlcXlyb1dsWmNjekxHMExxTC03TkRtTWk1MWtWdWh6MlVvYnB0QzBiN21nd3J2N0dtdHIzZVp3TlllOGVNcVRoZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-08 19:28:00",
     "weather": {
       "Warsaw": "Warsaw: -2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Wstrząsające odkrycie. Trafił na ludzkie kości - o2",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFBiOEowZTVQdEtORmVaWE12YVVsS2p0V0hFNFNRVk1VUnZTVWd2LVFINjJfYW51MnNIQ1duMVloTVRIUk5IUk8xS29iVW5hb3dpS0x4TklLVWFSMnhVRk9nREd5b1JBZmxaUUNwbVBSa0s2UHM3dUtXUEM0LXA4S1pZRlE5YzQ5Z2VrOTVxaGE1V0E5V3ZN?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-11 13:55:17",
+    "weather": {
+      "Warsaw": "",
+      "Kraków": "brak danych",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.5387,
+      "EUR": 4.2174,
+      "GBP": 4.8462,
+      "CHF": 4.6213,
+      "JPY": 0.023097,
+      "AUD": 2.5174,
+      "CAD": 2.619,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 237395,
+      "DOGECOIN": 0.31829,
+      "ETHEREUM": 6906.5,
+      "LITECOIN": 184.62,
+      "RIPPLE": 4.86
+    },
+    "indices": {
+      "^WIG20": 3409.63,
+      "^WIG30": 4378.32,
+      "^WIG": 3409.63
+    },
+    "news": [
+      {
+        "title": "Wstrząsające odkrycie. Trafił na ludzkie kości - o2",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFBiOEowZTVQdEtORmVaWE12YVVsS2p0V0hFNFNRVk1VUnZTVWd2LVFINjJfYW51MnNIQ1duMVloTVRIUk5IUk8xS29iVW5hb3dpS0x4TklLVWFSMnhVRk9nREd5b1JBZmxaUUNwbVBSa0s2UHM3dUtXUEM0LXA4S1pZRlE5YzQ5Z2VrOTVxaGE1V0E5V3ZN?oc=5"
+      },
+      {
+        "title": "\"Ich sprzęt jest najlepszy\". Uwagi otoczenia prezydenta ws. programu SAFE - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0tTeDRtb0pveWcyX3hlTFZCSzhvVFBwQm90d0NMNDJRalZRZ0JfRjItSUJ5RDIyWlVOaVJlQUF5TG9qRi1BUkI5VHo2UEpEWHR3TG1Bd1JwQlQ1LVhDUVBjWklhNzR6TUJTcm00UHVNcFR1TmZ2VnZUcXd5YVU4b2lMMjV0VU1hWHBLM1BMS044em52U1owbWZ6NzRVNkU5NF9hTXV1ZU1FanhSZmZ6SE1DVEE4eFlNRngzQ1VZNkF4UQ?oc=5"
+      },
+      {
+        "title": "W Polsce 2050 rozgorzał nowy spór. Hołownia nie owijał w bawełnę, \"nie tędy droga\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTN3OXpSbUdHOTZMMEFseFdBclNWdF85cDBxWndGV3c4R20wdVFCdzJOUzdhdzRNZlhueDRfMVUtSVRrT3RpTlZlU2k1eDhmVXRvQ1BTblJuMHVmSWYxaG05bVFpV2kxckhiUUtFaW9vdlVQMTNUWDcyYU1mUDlCRE40VnhZamdzUU5TVjlfTUFEVTdyVTJaSllsQmMwQmx6OE5oblJtTUphWDR1LXExRzlEOA?oc=5"
+      },
+      {
+        "title": "Kulisy spotkania Karola Nawrockiego z szefami służb. \"Ostentacyjnie żuł snusy\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVlVcVl1RkUtWTc4TlQwcWdSRlA5WVdvUGRTdGpxUEFmMWNOLV9WNzNWczg3S1JhT0wxQ1BaS3FiTElMUkdlZDVnU3lxYjBrX0lTMkFMOWkzUE1GRFl5dVBUNWNBZEtta2FOVDdob1A1WmZaZ2ZpOWhsbjJIaWZxTDY2VE9xc1JodzVObWVNLURmck1tRm5tc3BLeFAwVlBfM25DRkZtVnk5UktzTDJvOW01N3h2Yjcwd2c?oc=5"
+      },
+      {
+        "title": "Problemy z KSeF. Minister przyznaje. \"Chciałbym przeprosić\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRml6R2lFUWlGQWpWUjhjcUgwb0QzdzlqWGUtRUxab2lUQXQ4eHIybm81U1hPRUpHRTZucWlrOXFFQ050MTR0OGZNeVRlWG9RclZxeGtkaHI2WnNhbGdYTDRLMEh4VzBIeXUyak52ZVNhUjBlZnFOVUZQdTdJNm9YeEJiQW9rYTVfTmw5QjNUd0w3THUxQ1ZITlFhWnRQaXIwaWVCVUtuSmowV0hQSDFad2JzeFI?oc=5"
       }
     ]
   }
