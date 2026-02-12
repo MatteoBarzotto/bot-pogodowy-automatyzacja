@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-09 12:40:52",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5527,
-      "EUR": 4.2142,
-      "GBP": 4.832,
-      "CHF": 4.5991,
-      "JPY": 0.022678,
-      "AUD": 2.4988,
-      "CAD": 2.6038,
-      "CNY": 0.513
-    },
-    "crypto": {
-      "BITCOIN": 244511,
-      "DOGECOIN": 0.330974,
-      "ETHEREUM": 7193.45,
-      "LITECOIN": 187.99,
-      "RIPPLE": 4.95
-    },
-    "indices": {
-      "^WIG20": 3402.35,
-      "^WIG30": 4359.11,
-      "^WIG": 3402.35
-    },
-    "news": [
-      {
-        "title": "Kto najlepszym prezydentem Polski? Wysoki wynik Karola Nawrockiego [SONDAŻ] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzZJQVZGMjU5RElvQXdTYk1xZlFKdXctcWx0amFMSlpETlloREV6dlpuZGZHNzRlSG5VUmt3NkhpQ0NJSWk4UVRNMGF3SHhETUtuemNsOHZtY3BxVDFiVmZBSEg2ellRVXFwVThGdHd2bjhfYnloVXBfcFhiSjd2Yi1INFJOSE8wU2lLMjI5RFV2Y1A1NUxPWjIzdjJMZjhaTVQza0RSYjY0RTE4N3d2TDBfRHBuaUlxYTBLTjdpSzFydWZXS1JvLVF3bVExdm40?oc=5"
-      },
-      {
-        "title": "Recepta na tragedię. Jak doktor M. zarabiał na uzależnionych - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkRsU0J0bXhpWTU0WERDNUNQc0dtOTNJTFBkbmk3YkRtLUl2X05IWUFrNzh1aWZJdGJIVlV6TVdEVkpoSl9tZmRvTjQxdzBaeTNZd2wyOFJLNjlwcmxWMkJIazBSZVNTOWZpMWFPRGluVll1bUFESHZ1NExQY2c5bWM1Tms0S1J0bm5PVEhncHRpUXdCblA4M0E5WTJvdjNVSnRr?oc=5"
-      },
-      {
-        "title": "Łódź. Dzwonił na policję w sprawie Ziobry. Zablokował numer 112 - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVOeFBPakFFV29qM2VOTHlrSkxUZEVNRVR0bUxZVGNiaDFzQmFhZF82dWFWamlpX2dfdzhjV1IzVHVWdEFDcFQ1NHdjbzFWbXBGcWVwSFZkWXl6dm9TM0UxTHM2ZW1DdC1CV1M0UjhxTGtBUUt3QTJaS3ZlWVRWUHZVclpUV2ktaXZndUVEMFgwRm03Rnc2N2wzMW42Wmd4cFVsTlJCWQ?oc=5"
-      },
-      {
-        "title": "IMGW ostrzega w niedzielę. Alert obejmuje 9 województw - Radio ZET",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVZwSE5ZcVhXQzQ0akgxR201d3JxZTJuTU1HYmhrSHpyQlp0LUtaeGZzQ3g0dTItamZ0WWZoRUpTSzBrOFpKSzhFbG5Hdmw1dUZvRHNkSEExRzZMVDFBV2p0VHQ0bGFMSEx1Y3UxOURMcGdpUWduMTFSRlE4X0lVOE9Vc0FhU3JET2lmNFRicnNmUllXYVE?oc=5"
-      },
-      {
-        "title": "Krym w Rosji w Kanale Zero. Ambasada Ukrainy ostro reaguje. \"Wzywamy\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFJyMFlwT2E3bGVZZ3AxX21odS1BZFp4R25GcVBseUhVdkpnUkFFNXlCWGk2eVprSlRxa05NczZuNE5CaHg5Y2tfRElYVzZ2UVpMZmFZejBEbkRLNThXRThDYTVtY2hFNUVDcGdaM2xrbS1Jc2dvM2Y1WmU3aWV2M29ZMTZWcTY1LUdaZkdJNk9aYWtwaTh1YVRoczNYa0tINlhsdTQ5YnEwa0hQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-09 13:54:58",
     "weather": {
       "Warsaw": "Warsaw: -6°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zmasowany atak w Ukrainie. Kijów pod ostrzałem Rosji - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFVwcy1scndwVjNpazBlRDRqTC0xTWpxTnY0VzNaY2pQaWYtSDE0NEt2ZVJpVDVOZUFCV3c3S3Q2LTlXbi1KSXJ1aE85Y3FBYlN1VGtpQThfUnBVWUlkNjQ4M25fT1MwbmxvLWtoRUtyTTZaM3F3MS02Q0VNQ1Q1QkYtSlc0X3U0aWRaeXRha3g4QUdvbi11cHJVMzV3cTNh?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-12 09:38:32",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5387,
+      "EUR": 4.2174,
+      "GBP": 4.8462,
+      "CHF": 4.6213,
+      "JPY": 0.023097,
+      "AUD": 2.5174,
+      "CAD": 2.619,
+      "CNY": 0.512
+    },
+    "crypto": {
+      "BITCOIN": 237590,
+      "DOGECOIN": 0.328872,
+      "ETHEREUM": 6954.61,
+      "LITECOIN": 188.84,
+      "RIPPLE": 4.9
+    },
+    "indices": {
+      "^WIG20": 3425.06,
+      "^WIG30": 4385.53,
+      "^WIG": 3425.06
+    },
+    "news": [
+      {
+        "title": "Ambasador Rose zabrał głos ws. sojuszu USA z Polską i na temat polskich żołnierzy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWZTYkY4ZXdTbGJReXROVWQ5Ty1wUDNpSmdINDBqdUhCZ09mZlFIV1JoLTNHTE1MQXNFaFYxYWNRMlF5VnhkWkVxckdlZS1QR1pRSHVwZkQ1bnNHTmxfT1c2c3pKM25RdUVONXhwOWRqZXQxSjRZSVZLMExfT2ljYmRVVHpGbEVlOW1RNnRKaUJ4WnJiM1NGTEgwQ0pmRnc0Wm4zUkJHb2J3Vlh5cnhyMWxRa2JuRVlRdHlsZ3E2My0?oc=5"
+      },
+      {
+        "title": "Tak żyje Ziobro. Poszukiwany polityk widziany z matką i na zakupach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3gxOGstUDZTeldOU2tYV3IxenFIN1VpNmxvTzQ2LXNrWjZISWhBbkl3OUkybnZTM2hrWjRHY3lwd3RTQ21qOHhKQ0J5YllVTUJrejFGM3NwZjlzLVFfUnV3bHZLX2FnZXBPUjdYLWNaSTdrRVlhVzZjMmNFVlFTTnJzOEhDY0E0RU5vbUQ4ZzZNV1dCM3ZsTUJNUGVNWFhSNTNEUjdjQzE4azQ0elE?oc=5"
+      },
+      {
+        "title": "Cenckiewicz pojawił się na RBN. Siemoniak zapowiada kroki - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2dSVWR3dmtCTVA3M2FMTE1JNDBQLWdVMldaY1BKMW9NdmRhM3U4eEFwT0FsLUFDMTVhSmhFalYwYVBIRHY5V3otVzZyY24zQk1fRDdMNFo3cE9Kd0Q0bFd1cHc5bDNONWhQNzhkRjhfek1EbFZPZ2FYc2hJMG1OQlBlR0psOHFLZmQ3ei1TTGtZMU1NdjBIZmJUbko2Qmtp?oc=5"
+      },
+      {
+        "title": "Matka podejrzanego o zabójstwo nastolatki z Mławy. Grozi jej gigantyczna kara - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWY0M08yb0ZILTd3UVpsMmlsVkZPVDdudmc5WVlSa3p2ejhJdmg3UlpfZlEyLWxhTXpudVRrbFJlNV9PTk5TMXU0di01eEFEMGJkd1g2X2xpa29FcHQ3cjZVZExRSDVnRjl1bHR0aWdUbUZjLWRzSF9sM0JjamU1QUFONnZrdVNrWUt2LXJDd2FIX2ZHZ1FBX1BLVkhJbk9WTGM5SkViWnk2cndWMF9hdS1R?oc=5"
+      },
+      {
+        "title": "Zła wiadomość dla Czarzastego. Polacy zabrali głos w sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSU9kSlQ4X3R0SmxqN05rMWlVMmZuMHlZS0N1cFhMWU9MaFdCd0dqRkoyU3BhQ21lRlNUN3hHTGZETURGWFRLaGVjOXpVcFpWb3FKVVFwamxZU3NZRW9jT2hQSnFEbUMweHlZUnNqbW1UTXZUWk43MTJzVC0yNThmaGNmWlIzdmpYalI5T21hY3R1MU82UklVLVVDUnlxMElMdC1MNg?oc=5"
       }
     ]
   }
