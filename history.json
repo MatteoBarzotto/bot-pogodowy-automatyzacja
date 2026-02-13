@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11 10:45:22",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5377,
-      "EUR": 4.2148,
-      "GBP": 4.8354,
-      "CHF": 4.62,
-      "JPY": 0.02278,
-      "AUD": 2.5025,
-      "CAD": 2.6082,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 236395,
-      "DOGECOIN": 0.318835,
-      "ETHEREUM": 6886.0,
-      "LITECOIN": 184.73,
-      "RIPPLE": 4.82
-    },
-    "indices": {
-      "^WIG20": 3394.84,
-      "^WIG30": 4350.91,
-      "^WIG": 3394.84
-    },
-    "news": [
-      {
-        "title": "Kontakty Czarzastego. ABW sprawdzi Rosjankę? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMS1TYzMxejBXMXJsUEtHcmlpcFFTaGdhNGI3eHM4bW45Q1d6Wjc4aXBhZ2puTndYNjA1dHVLVGg1cVdrNlp3Y1l0WWg2Q3VaelNUZ2xrU0lrS09JNHFYM0d4UlQ5bTk3MWJlX3A0a1lUZE5PWDVtNlR4dHp3bldrNDdSSGx1ejZ1X3N3bnR3?oc=5"
-      },
-      {
-        "title": "Prokuratura wraca do sprawy wypadku Szydło. Wzywa SOP-owców - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlRpaXRrWnY3RlhHVGhEb3NLS09saFZiLVYyYS1oaTF4ejJEbUxMTEplM3FIRU5jcFZmWjJCZklIRHk5S2VoQjVvenM2N0dFU21VYzk5X2VzNTlVYTFaRm56N2t4Z2pWY19BQzdxbGRieC11Zm1OeHMwTm1MT3pfRk9raXVhRW9KWE1WajVManFNNktETms4ZVhET3dZSHV5TmNz?oc=5"
-      },
-      {
-        "title": "Najgenialniejszy naród świata i jego nowa szkoła dyplomacji [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVE9sZG9jMjhHNkZ2QWJ3YkJsRmJhazFKTjdmaDlzb0hCc2FWb2RSTFdZZGtQMFVueHA4a2lBZEhjVkhtU3d2RnZSQm16UlRBVlo3SmFUVVoyQkNVSnZSelo2RmFBYk9LR3ZJUU9CRjJGWl8ta0UtdUxZUHVibG92Q3V2ZkRUWFJMMl9ZTGRhX3ZRT0hIc3Y4U0FMczE5VHA4Wndoa0Juckx3aXNkRFE?oc=5"
-      },
-      {
-        "title": "Ważne oświadczenie prezydenta Iranu. Chodzi o broń atomową - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2wtTUl4cVRfbDFxWjBzdzNCUVdGM0Q4aXlsQ1l4OS1yamJTTExNZE5FRWk5NkZrVXJGeHFjbmNueFZHRHpqWE5NejFqNkFWbnMzZXYyUTNzQzRNaDYyQ2xTZ1lZNGV6bmJSUFpDSHRSV2hwQ2xiakE1VFZtd3VEODF5WWlvcEdSRERCTjh0ZFEtLXgzNjVtSF90OXNzYTBFdXh4eFVCcjZDWHllTndLT3ZBTVpwTEV6TV8wRw?oc=5"
-      },
-      {
-        "title": "Viktor Orban oskarża Ukrainę przed wyborami. \"Fakty są znane\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkFCaEJpb1lSWkJSd0RKRWpHUTdpZWVxeFBoY2hMY2I0TlgweGRpcjlIckZwQ0tPRWtfamgwT0xiRWZLUk1rNXROamtmRVM4bFJ0bGgzRGdldEdtN1A4Q1FrenBFRkQzRUhCajVSQlhjV1piZ3JxSDA1ZVdUUzNYaWpfQ1NuTFhhQXNVeVAzUEhBUEpYaXgyVmZWV2ZyN1BXQi1IQ3ZNN19xZHBMd3JqUWpNcTBPNWM4TkVTQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-11 11:42:32",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Sejm debatował nad głośną ustawą. Odrzucono wniosek PiS i Konfederacji - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXBURWdGbHE5WU1KYzN1MXdyR0ZMdTlXWGsxVURaY1lRM3hIbDV6M1J0QURkekFpRkY2YmhkYldkOHNnNVpJWWVDV1E2a0czTW5UT0FzbFlQUVRJbEJMT0FCSTJ6S2dKR1VsMFNTZXkyRjM5U1lpVXI0VjV3cUUyOWlNZ29nbGZrcWxfdEJsemxfWlpDaTBLSXVDSGZ4V1pORWhUdHJleGpvRHhDMl9hM2RTVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-13 22:28:31",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +6°C",
+      "Gdańsk": "Gdansk: -3°C"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 244474,
+      "DOGECOIN": 0.345376,
+      "ETHEREUM": 7281.93,
+      "LITECOIN": 197.08,
+      "RIPPLE": 5.01
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "\"Pies\" rozjuszył frakcje, Kaczyński stracił panowanie nad PiS. W kuluarach wrze - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdy01OURKVEJLVEM4Qnd3d3R0ZVZ6bXV3bWd6clB6NzVSd0lTTGxSTWt3eFZYeHgtclByNF9nODE4Sk82UWMwTVlja2FtOWFpSXM1QjNERFYybDhaa1RBbC1xVlNIa2J0Rld0SUd1Wm1VYTlMbDNBZm50c1poVUQ2VlZxaEd2STlXdl9YOUlwLXNOZzc1YzlwTVNDSUpjaUJ5ZU1sbEd4YmJnS0haRkRVOXVQUVFCX1RzclE?oc=5"
+      },
+      {
+        "title": "Prezydent apeluje do Włodzimierza Czarzastego. \"Proszę o odblokowanie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzhrRVNVWFRwSTFHRlNjWjVrY2VRQ0lSUFZURlVrYjh6RFNWTW9BWnh4MWVxTS1Vc1h0QkFUTE9XY3pfSk1TZVQ3QUczN2s3MXBTaHBfbVR4UkJJZlZnWTZHdWVaSko4ZHN3ZGd2LWhTMVM3LTNJSkdTbGRFdGNIZ0JNY3hnTlI5R0dXcWxFcjR3RExQWVlteEkyeC14X05TUGl3djlhVzk5djdHUElRVkt0ZnY4eFhudnhmdjZpUUctZWhzbmRHdmVB?oc=5"
+      },
+      {
+        "title": "70-latka zginęła na torach w Pabianicach. Nikt nie udzielił jej pomocy - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdlFqTFNpWm9rSHhiTk91OFMwQUgtYTZ2RWcxdk44eko1Mi1ZTXJZV0VNT1I4c1lxOXdPT0pEYmEyeUZCazF4WEJxZm4tOFFUNHU0ZVpnTXVaX2ZERXFNMXYybTdvWXdZVUVNSzlfVjhqXzRRekY4b1k1MkZPOFVOQWVyRDBpNXNCTjg1aVYtbjcxR3hCdHhkQ2hwTkF2TW5PdFE?oc=5"
+      },
+      {
+        "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhDY01WSlgxRlNtNGNyU0lCSUswakhvdE9FLXJCckZJSzE4M1Q0SHFjVGtsVVNTcEVOeFZQT1paZ1BEeEJQRElhcU9aREFpajRDcTIxajlKdTA5VmdoQVk5UngwdXl2LU1lUXNzdDQxM1dfODNzQ1BfRWhpWjhuUDloVDIxc2d5c0JQblFHRQ?oc=5"
+      },
+      {
+        "title": "Zima zaatakuje ponownie. Wiemy, w których miejscach krótce zrobi się niebezpiecznie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ04zNWtFM0UzQXNqemZpRkpfc1MzZ0FQV252a3dMbHIxblpLRTVrTVhIOXNPVTlnNFZlR3RjNEp0R0luVjBuYktoZmJUZGt4d0I3N3EyNkRxUTVOV0s2WFZEaXVwWWIzdEpxTHJVRmN1OUFCd1R3SmxNYmY1b2JTT1pIRGxuQjFab1phcEh1N01pbTBrQ0ZxcGk2MFdtOUZJNjJ0Sy1QQ1BhcWdVMXE0T3h3?oc=5"
       }
     ]
   }
