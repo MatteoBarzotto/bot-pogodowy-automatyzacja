@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11 08:51:05",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5377,
-      "EUR": 4.2148,
-      "GBP": 4.8354,
-      "CHF": 4.62,
-      "JPY": 0.02278,
-      "AUD": 2.5025,
-      "CAD": 2.6082,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 237334,
-      "DOGECOIN": 0.32106,
-      "ETHEREUM": 6914.11,
-      "LITECOIN": 184.55,
-      "RIPPLE": 4.84
-    },
-    "indices": {
-      "^WIG20": 3393.69,
-      "^WIG30": 4358.12,
-      "^WIG": 3393.69
-    },
-    "news": [
-      {
-        "title": "Wypadek autobusów na Mazowszu. Kilkanaście osób jest rannych - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0x5OWFSdnZwOUJOT1V0NkpyME5NMUYxOU1NRVZqOC1JNm5kczBWTlVkdGRRVkFuSm5KUEltd3NJMGRmQk5QUkozQUlOcFpqN1lxeGw0TE14bFBBRkkwWmVWeGRFOHRvZ1RPX25ncHF2al94WWRZOWdYVzRMWjFtbVBCeF9yM2dYRHpJUy1HT0NrRFBFUUE5ZWw4aWZ5TE9IMG9YRHhGdjQwRHZCOU9lRGt3SUR6UQ?oc=5"
-      },
-      {
-        "title": "Najgenialniejszy naród świata i jego nowa szkoła dyplomacji [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVE9sZG9jMjhHNkZ2QWJ3YkJsRmJhazFKTjdmaDlzb0hCc2FWb2RSTFdZZGtQMFVueHA4a2lBZEhjVkhtU3d2RnZSQm16UlRBVlo3SmFUVVoyQkNVSnZSelo2RmFBYk9LR3ZJUU9CRjJGWl8ta0UtdUxZUHVibG92Q3V2ZkRUWFJMMl9ZTGRhX3ZRT0hIc3Y4U0FMczE5VHA4Wndoa0Juckx3aXNkRFE?oc=5"
-      },
-      {
-        "title": "Kontakty Czarzastego. ABW sprawdzi Rosjankę? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMS1TYzMxejBXMXJsUEtHcmlpcFFTaGdhNGI3eHM4bW45Q1d6Wjc4aXBhZ2puTndYNjA1dHVLVGg1cVdrNlp3Y1l0WWg2Q3VaelNUZ2xrU0lrS09JNHFYM0d4UlQ5bTk3MWJlX3A0a1lUZE5PWDVtNlR4dHp3bldrNDdSSGx1ejZ1X3N3bnR3?oc=5"
-      },
-      {
-        "title": "Tragedia o świcie w Krakowie. Lądował śmigłowiec, nie żyje 14-latka - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX04tdWFhRVh4WGNHOHUteUJ2bUU4QlB3bEZUVTJLQ0JCVXFCQk0zRlZTcldIcXhFbnVhOXlBa3NxVmxqV1RBaXdaZVdFcF92UnV3Sy0xVFRXOWJoUkdycHJPN3o5S1JvaXk4ZWtycHZXYmd1SUYyb084bFB6b2N3ZmVxVlNSOEpTdTdndE45ZVctM3R0TU15V2Z6VWJnbDZOZTd5dUFTZzBEOGRqS0gtRXZtM2NKTXNneXk4OQ?oc=5"
-      },
-      {
-        "title": "Kulisy spotkania Karola Nawrockiego z szefami służb. \"Ostentacyjnie żuł snusy\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVlVcVl1RkUtWTc4TlQwcWdSRlA5WVdvUGRTdGpxUEFmMWNOLV9WNzNWczg3S1JhT0wxQ1BaS3FiTElMUkdlZDVnU3lxYjBrX0lTMkFMOWkzUE1GRFl5dVBUNWNBZEtta2FOVDdob1A1WmZaZ2ZpOWhsbjJIaWZxTDY2VE9xc1JodzVObWVNLURmck1tRm5tc3BLeFAwVlBfM25DRkZtVnk5UktzTDJvOW01N3h2Yjcwd2c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-11 09:40:08",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhDY01WSlgxRlNtNGNyU0lCSUswakhvdE9FLXJCckZJSzE4M1Q0SHFjVGtsVVNTcEVOeFZQT1paZ1BEeEJQRElhcU9aREFpajRDcTIxajlKdTA5VmdoQVk5UngwdXl2LU1lUXNzdDQxM1dfODNzQ1BfRWhpWjhuUDloVDIxc2d5c0JQblFHRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-13 20:37:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 244812,
+      "DOGECOIN": 0.34216,
+      "ETHEREUM": 7285.29,
+      "LITECOIN": 195.06,
+      "RIPPLE": 5.0
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "\"Pies\" rozjuszył frakcje, Kaczyński stracił panowanie nad PiS. W kuluarach wrze - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdy01OURKVEJLVEM4Qnd3d3R0ZVZ6bXV3bWd6clB6NzVSd0lTTGxSTWt3eFZYeHgtclByNF9nODE4Sk82UWMwTVlja2FtOWFpSXM1QjNERFYybDhaa1RBbC1xVlNIa2J0Rld0SUd1Wm1VYTlMbDNBZm50c1poVUQ2VlZxaEd2STlXdl9YOUlwLXNOZzc1YzlwTVNDSUpjaUJ5ZU1sbEd4YmJnS0haRkRVOXVQUVFCX1RzclE?oc=5"
+      },
+      {
+        "title": "Paraliż Trójmiasta. Fatalna sytuacja na drogach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGp6TmdoVkstbXlOelNlajd4WjZOeTlrOEJweUpsdU1LZzNtVVRPWHZScl9rZDBjRlZpZTJmWmdNLUV5YWw2OHEtMDVsYUQ2aXJ5bFVQV3lXbDJ0OFlVWlNnWXV0N01yVlg5UXZ5Y2lVTE10ZzJkZGZPMGo3YWVuXzNpOWxheTcyV01jOE9pRFBEVEk?oc=5"
+      },
+      {
+        "title": "Zima zaatakuje ponownie. Wiemy, w których miejscach krótce zrobi się niebezpiecznie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ04zNWtFM0UzQXNqemZpRkpfc1MzZ0FQV252a3dMbHIxblpLRTVrTVhIOXNPVTlnNFZlR3RjNEp0R0luVjBuYktoZmJUZGt4d0I3N3EyNkRxUTVOV0s2WFZEaXVwWWIzdEpxTHJVRmN1OUFCd1R3SmxNYmY1b2JTT1pIRGxuQjFab1phcEh1N01pbTBrQ0ZxcGk2MFdtOUZJNjJ0Sy1QQ1BhcWdVMXE0T3h3?oc=5"
+      },
+      {
+        "title": "Rosja wasalem Chin? Sikorki ocenia przyszłość relacji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzZ2TmtDaWpvVHVsTGh4UVB5RjlSR2JuVGNXYUlySTZsYzZiRTRaZU1tbmFJOFhHZV9Scm43TlFnSlBBTkJwT0w1bmhJREFXZHhyd09kTzBDV2c2R084YjFNLU50U1hZSVpjSzdfcUNzd253SGJFUUM0dkt0U2RKaFBNZkpMTmUyVnJwOHA2bGlFZ0JROGIzaTR1SQ?oc=5"
+      },
+      {
+        "title": "Strategia Kijowa przynosi efekty. Rosja nie nadąża z uzupełnianiem strat - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV21TLVRuczBJWHJXRkZkTUNJSkhQbUhLNm9MRHlSdkpNbEJKcEo5UWtWR05HSlktVHRXcTJER2Y4dnJ4U3BXdWhtQ0pIbkV4VDh3UnhuZmZQemVlSGN4N3M5akMwUWdCRlhZU1dzc0VyUmNCVm01Y1hVbUU0Q0h1bmJIeDV4VVA2Rm90YVBPVFdFX25mcUxjUjZ4VHdTSHppZzJFcndqZVNNcFNzYU01S1dCZndpdXZZbjdha2tVOUxXbU9Cbmc?oc=5"
       }
     ]
   }
