@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10 10:54:49",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5527,
-      "EUR": 4.2142,
-      "GBP": 4.832,
-      "CHF": 4.5991,
-      "JPY": 0.022678,
-      "AUD": 2.4988,
-      "CAD": 2.6038,
-      "CNY": 0.513
-    },
-    "crypto": {
-      "BITCOIN": 244134,
-      "DOGECOIN": 0.330751,
-      "ETHEREUM": 7117.52,
-      "LITECOIN": 188.95,
-      "RIPPLE": 5.03
-    },
-    "indices": {
-      "^WIG20": 3422.1,
-      "^WIG30": 4390.53,
-      "^WIG": 3422.1
-    },
-    "news": [
-      {
-        "title": "Czarzasty ma nieoczekiwanego sojusznika. Mentzen podważa oskarżenia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWszVHpCT0ZOMm1WY25iQ3hYdE9lbmRhSmo1Q0czbWp3cjZHOUJvZ2RPTWY4VGpzWG5GQ2Y3YTZjMXd1cU1KYnpMTXZWNm9Mb0d4S25GeGtVbWZhb2NHWXktMDQzZGpYTkRFUnRKNVVjN0pPVFI3NFQ3V0dHTmtZdTZlZFhxRnI1UUZZaGJoU09oNzR3OTV3aU8zd2ppbm0xNmpQb204WjhYeTUtd3c?oc=5"
-      },
-      {
-        "title": "Plan B dla KRS: Sejm zatwierdzi wybór sędziów przez sędziów - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0Nnc1FBN0otdm84eDNDTTNvbkJnYThZTzF3Wm1sdF8xcG5FX19zWjBINjloZTdudS05SEw3V0NrUGZPdzU2R1BMQ3BON25KclQ4anRxNUhvaVBmNHFDN0J3ZlEzSHpXb1JZQjYwTzlpLUhZWmdCVThZUHZPOU5jaXR5TWdmUE1XU18teW9rUFFzQkFqSUVSUlpBR2NUQU5mc3c?oc=5"
-      },
-      {
-        "title": "Tragedia w Kościanie. Ciało kobiety odkryte w mieszkaniu - Kryminalne o2",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVVrckU2MFI0MXRiMWNjbTJkd19HUTJUTW1aOVFwdFhTMVItdHA1U2ZYVWkzUTBWQW9HZEhlb0U3MG5WNmxZMUNSbE5qM1BOdW9SV1dka3RCcDdFODZSNk5sUTNZaHpKa1RDbUExWXhWa09FNDhCNlVyMlJWQ2xJOVk5eU8yYTVZQnNrUVhCNVllZTk1V2JKMldvYnlRZTI0amxIR29nRUs3RFpjVmc?oc=5"
-      },
-      {
-        "title": "Wizy dla pracowników. Niemcy złamały prawo? Jest ruch KE - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXJNUlloaTMwUVZhRHU0NEZnaURFMGR6SGVUdnpHWWRqOFh6V0VSZGZkcFhmTDVoSHRNNTFHQjhjY29veTFfbWh5RVYxRzJfTGRXUVhWbWZHUXprT3RtZ1VYVHJsZ1BVZF9fWXlhZ2IyeEJDbmczMXY3RUlsV0x4YVgxdzF0ekcycUozNWhTM3ZDSHYxZjZhUFZZRVJQX0wxUUZUWEJTcG80TnVDc3c?oc=5"
-      },
-      {
-        "title": "Karol Nawrocki promuje odzieżową markę. Zarabia na niej tajemnicza spółka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV85Mk1zVjdwZkVCMXliQXdOUExCNEZETHhicjFUYWxDWTI4UTREY1R5MTFLVWVpWmxHWjlrWEZFRWNOUEFUSk85cTlUcUg5YS0zd3hqRGtmUHVvTXlSTE1wNkhkb252S2N6NXI5WnlOVDN3bWozU2dYZURyS1ZmeGNPVWxmWG85c2tNMk40aTVWTWw4T3AwTld6a3lOLTJwa0RLaF81czhGTjlhUENwUXNWSUhXeGR6UGZnZmhkUEtmQ0dD?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-10 11:49:21",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Fatalna sytuacja pogodowa. Są ostrzeżenia IMGW. Na drogach \"czarny lód\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMWltV2VEWUpqbHNXbnJiYnRmaEVEMXVRRVFnUXUwcTBNSjJyS2FJM1BGVDNpYXkyMTJyZ0hiRUMtOE03ejc1c1pQUy1NbzJvMk00MlFyb2VCdnppX0laVVdTZFV2dVVVSU9kTUZNRXNEOHhtdldmanhkTU16SGo5ZVhNVXV4UUZKNGl5RHpqYzYxU1c2THhzbUhndkZLVVhraVBlSGd4V2N2UUdoRWRJbFQ3QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-13 05:14:41",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +0°C"
+    },
+    "rates": {
+      "USD": 3.5441,
+      "EUR": 4.2131,
+      "GBP": 4.8374,
+      "CHF": 4.6146,
+      "JPY": 0.023178,
+      "AUD": 2.5249,
+      "CAD": 2.6133,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 235981,
+      "DOGECOIN": 0.328626,
+      "ETHEREUM": 6923.35,
+      "LITECOIN": 187.88,
+      "RIPPLE": 4.84
+    },
+    "indices": {
+      "^WIG20": 3417.49,
+      "^WIG30": 4378.42,
+      "^WIG": 3417.49
+    },
+    "news": [
+      {
+        "title": "To koniec serialu o Czarzastym? Koalicjanci nie są zachwyceni poczynaniami lidera Lewicy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmwwaS04dDhleVVnelZXc2hYbHRHLU5UQ2QycGEwc2hCbVRYaDhHcW5JS0pDOERQVmVTcm9ueVJMU1hnSDNSUU1qOGtMcHdvaHNSYXdzY2FQZVFmWlR3MlRjalJOcnl1dmY5OTJwZVd4OUJVUEJMZDhmQjFDLVE3enNnUjFQalhLS1p6blpJaHRrblV1WWlrU1VKVV9Yd3VPYVRtVGZqTnV5MUVRVzd1ek04UDVQMWdTZThfM3c5R1FpenFicnpjOGtR?oc=5"
+      },
+      {
+        "title": "Odmawiają udziału w Radzie Pokoju. \"Sypie się pomysł Donalda Trumpa\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamgwNFFxQk51VFJJNmllRU1FX0dXMVVObkdIZlRmX3V3bHhyTEdLTWwyeThveThkZ1p4TV9aX2lLbVZpcjNqbmQwR1JaZTRvNFlVNWwyUV9yV3VYcEVNZGxPekxWbkdCeU1RS0k2d2s1bms5MjZOZFlhNHJhY1N6eXVBMjVYWEJnWk5heUVSemdkaFR6TlhCYkZyRC1ZdnBWN3ZId000cDlmWWRO?oc=5"
+      },
+      {
+        "title": "Sejm będzie wybierał sędziów do KRS według starych przepisów. \"Prawo jest prawem\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejJ3TXphVmNBZXk5QlhuUkJRWmcwaW5CUHI4ZDZ5RXlQazBmYXJkaE1uTWlPM1RRdDEwellSRVU2MnVjajBNS0k5ZG1SRjRZVzJpRmZJS1NCaFc0clNmc1AzaWhueWhGOXpEY3dzRnl3cV8tbzc1Sk5DSEM1RWp1SFdzbHNpRm9jcDZKQVk4eVRkTWhCTHFvY2NQUEpqNWMwVVd5Vg?oc=5"
+      },
+      {
+        "title": "Cała Europa żyła jego ostrzeżeniem. Teraz znów zabiera głos - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEJRT2t5cGR2Rjdoa2EyM1ZLSHpLMXhNUWtFYklDSW1XN25KS0pST0VrdDlQbG9qajBobnJQdmNJYXV2cXVzVkpfMmYxWmVpRGt3SWFzOVpGLUN2c2c2MElJMEtJQkl1Tlh6c2dyT2lrY05xRDhILUwzdklLTmM1c0IwVWFJbGdrdTdSSEFwODcwbDFsS0doX1lsUGJWU2dIaWdlOUx0dkU0dlFLTVZpODdfVU1yMVJMWmE5S1Rn?oc=5"
+      },
+      {
+        "title": "Komunikat Wojska Polskiego. Ostrzeżenie dla użytkowników MS Office - dobreprogramy",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkxWZkI2YUJDdDdDR1hLZU96aHVNU2RMb1BKYnY3RE1PeWNkZjY2c1IxelpkSFlSdmxnTy1NcVpEQ1Y3bXQxUkhvZTR2T0hvMWZyUDdsVUw4MXh1NmpQYldhelIxdVVuSWV5NG9tQXpGeDhCV3RoODVWMXhHY25ndEpGMUQxSW0yRGdFZFVQeThEUUVQVHd0dTNTeUZiLUQzWlh1LTc3VnllZEhwMWRtQXh3?oc=5"
       }
     ]
   }
