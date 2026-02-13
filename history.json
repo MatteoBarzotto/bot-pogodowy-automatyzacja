@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10 22:36:48",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.5377,
-      "EUR": 4.2148,
-      "GBP": 4.8354,
-      "CHF": 4.62,
-      "JPY": 0.02278,
-      "AUD": 2.5025,
-      "CAD": 2.6082,
-      "CNY": 0.5118
-    },
-    "crypto": {
-      "BITCOIN": 242921,
-      "DOGECOIN": 0.328307,
-      "ETHEREUM": 7105.87,
-      "LITECOIN": 188.41,
-      "RIPPLE": 4.95
-    },
-    "indices": {
-      "^WIG20": 3393.69,
-      "^WIG30": 4358.12,
-      "^WIG": 3393.69
-    },
-    "news": [
-      {
-        "title": "Na Litwie zrobili to samo, co Czarzasty. Odmowa dla Trumpa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVE3SmQ1SHdWYzVoUWlJRDY4SFRNcGhOdDBHcmdtUWg5MEVrZl96SUM4YjZacmEzTERfdkRwSENGY0dCMjRhUExoMVBySUw0bDJ1cTBCZEtHcGM2cGhHWUJ4TDdXb1hmbUliZ0NxY1JEVUNTOXhEQTZRZlBDVE1tTllHMWdLV1F6dUFqXzNxS2FvLXdWWVRSVkNha3J4aldy?oc=5"
-      },
-      {
-        "title": "Zbigniew Ziobro ukarany. Jest decyzja komisji regulaminowej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVN4REdfak9TeU9PeVlBVTZmQzZDcWdVOWxCdTRWMnMyd25mb0xiTWNEYXRRSGltbVRyakxlaERSaGNiWkpVc1A0dU9RVUl2cEc0NnhBdTZmR1F0SXhvSVlRUG1QTGZ2TWJQaFBvMkt1TTg2bUZQZU5YMjlmM2JqTjhZQ3pnN0JUSEpsX3dBWGNrSXUxdjctZ3BBb1VQQWYyLXpVVkVYQUhpZUpHZEtHT0x3VVJQM2tWRWxsTnh3?oc=5"
-      },
-      {
-        "title": "\"Mam nadzieję, że kolegom ręka uschnie zanim coś takiego zrobią\". Hołownia o przyszłości Polski 2050 - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0Q1UngyU0dXc2FZMGJzdU1VcHlFVnc5Q1ZxdHhfTm91cjYzb2NxVFJhNEp0ZWR3bnliRTNuVDJudGgzSFh2eTZRMUdTaHJiU1hqMUtMSVYtN3k4U2ZieG96Rm1PMHV6b2FLNmxfN1MzUGt0dklocEVXWVo2VTFHUG9VNUJwVC1KdTNPcXA4cERrdHRkYnpkUFJoQ2xFZ0xUMksyQXdrNlUtRHRic3FkSnBUMXNZWHUyWWc?oc=5"
-      },
-      {
-        "title": "Akcja kontrterrorystów w Wieluniu. Zatrzymali czterech mężczyzn - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHF1WUozd3RoN0lUMTJnNXhhRGRDd2ZZNFpOaFRZVllHZzVBbjlEX1AwSll6V3ZhcFJ5cDRqWEVXRUVmYnpPTV8zdXBiN2hVYzNib3ljWXBwLXRpci1rdHl4MnUtMnNTR3o3dnRuNXBXOU1HOFJuUkhFOW9lNXpEUEFaS0dkNlhPUUpFcUNxRGN5dElPTE9hX3FobWxPN3FsMnJuajFkaXlJVlkwcWtzYWFVaWVXbGU5ZW0w?oc=5"
-      },
-      {
-        "title": "Rosja wymyśliła \"kontrofensywę Ukraińców\". Zaskakujący powód - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkZpQTl0ZU02SHdleVJMdHlNTktJSVlkV0trbzhGdXZnY09CeG9zZ3RhaWljZnplejhSNFBqblZuclJiVS0xejVaRHgzNXhuU2N3eV8wNFBaTm9kdGRoM3lXb2RqSk1xS21tN0RjRUtHSWxDbF9WVjh1TDhlWjdOR2ltZTBncmxfRW1sa2pKcjdTcmRjVEN3OU5TUnZOQ3dmUnNSX3p4UWs?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-10 23:33:27",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Spór prezydenta z marszałkiem o ankietę bezpieczeństwa. Co zawiera dokument? - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEdSX2NwcDFvc0g5YmlEX3ZMQ3hDRzFIOUNYOGFqSTUxRGVOYmVZUUdkc192TmtKa0JXV1djYnBxdHoxZXpjaXpOTzRyMjhvcFlhRXlFUUtVNGJFZEtROVYzeDdFYzhNZXd3UEpvRlJzb3pDNVdUY2w1SEwyeVh4R3ZoZGZWQURqbEMzcEE0VktHZ1V1TWNhWXdTbnVVWWItTl96Xy1ZUFlKbzE1TnRiTl8zT3B6MUYwZkNyLTMxSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-13 14:57:41",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 238824,
+      "DOGECOIN": 0.33241,
+      "ETHEREUM": 6993.43,
+      "LITECOIN": 190.32,
+      "RIPPLE": 4.89
+    },
+    "indices": {
+      "^WIG20": 3360.51,
+      "^WIG30": 4311.07,
+      "^WIG": 3360.51
+    },
+    "news": [
+      {
+        "title": "Niemcy zainteresowani polską bronią. Wiceszef MON: zgłosili wstępną chęć - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaV8yeTV1N202T1lSbEhoZkM0SEJSMkdmd1Fmb2VmdjlrbVplMDdoeGMxV3YyaGJveFFXM09oa0FVbTlOYWgtcGlHVDZlczlGSXBZd1BXOWdkOW1KYWNxS21VeFd6QTE4WFVKcGFPdVNfTVhZZWI2RkNBQkpMUFFWN0k4TE9ZVWFIMXQ3b096ZzF5bGpHbmRrTVVYVk5jYTRhZXloVm9UZnlucFE?oc=5"
+      },
+      {
+        "title": "Paraliż Trójmiasta. Fatalna sytuacja na drogach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGp6TmdoVkstbXlOelNlajd4WjZOeTlrOEJweUpsdU1LZzNtVVRPWHZScl9rZDBjRlZpZTJmWmdNLUV5YWw2OHEtMDVsYUQ2aXJ5bFVQV3lXbDJ0OFlVWlNnWXV0N01yVlg5UXZ5Y2lVTE10ZzJkZGZPMGo3YWVuXzNpOWxheTcyV01jOE9pRFBEVEk?oc=5"
+      },
+      {
+        "title": "PiS z Braunem w koalicji? Czarnek nie wyklucza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXVMb3RaRUpON29zSmhkenVfdXRXTlVKWWV4Smw5c3J6OTlIREZaYWNpTkpSS080X216ZW1qMEFxUVVTdTREUGVvQzBSN3pCRWNhYmZ4bkRHUXNLYWlUdGtqS2pHZWxEUVFnN0UxLWlJUnBfcXBYRkNmc2JNaWtXd3otRlZYR2lrVHpzM1VMdUVSUQ?oc=5"
+      },
+      {
+        "title": "Burzliwa dyskusja w Sejmie. \"Cynizm, obłuda, hańba\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUhtdVRkTThaLTU4R2Q2X3RQQS13Wmdvbk1vOXF4SnpONnJIV2dEWk1femFOQ282ZWl4bUtfcEZpbXlBaDk1TDFVVWtuQXV0cElrU3VNZ0QyNnlWdE14Yzl4ZmRPQmszbFNkV1hOekVOVTdRLUFWV3VEemlGdlBaQmdwamVBV1JQRF9lZkNxTjIyNExqQVRFMEVuOTBhR1ZzakZyRUpDUVI4WHZRR0NFVDFUclhVUkVvRWVHaXVnaGFsd2FrSzdHOXJwcTJfazdQRnRWbTNsdUZoUW8?oc=5"
+      },
+      {
+        "title": "\"Krystek sypie w sprawie Iwony Wieczorek\". Szef Archiwum X aż zabrał głos - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOW9WQmpNYUxST3hqT2pQb1pyQkl2MEVhNjFibkpqN3ZadGgxaEtzbTdla2FUQW45Q0VjWl9ZVUVod1k3UUt0QWppbEppYktUSUJ0a091bVJ5S242akxRR1Z2cE9LRzBLc3JZSnFwN25XZ0dJOGdPY19PdjZndFhiU2FQX1ZqUHdMZE1lNEp6ZFdKdFhOeUpMaUQ4UG83Q296ZnhJbTJ0QXo2T3VLeDJBNmhqdlh0VWoxNmJOcHRUZFM1ZVE4M3c?oc=5"
       }
     ]
   }
