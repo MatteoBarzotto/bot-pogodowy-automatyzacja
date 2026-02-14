@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11 13:55:17",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "brak danych",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.5387,
-      "EUR": 4.2174,
-      "GBP": 4.8462,
-      "CHF": 4.6213,
-      "JPY": 0.023097,
-      "AUD": 2.5174,
-      "CAD": 2.619,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 237395,
-      "DOGECOIN": 0.31829,
-      "ETHEREUM": 6906.5,
-      "LITECOIN": 184.62,
-      "RIPPLE": 4.86
-    },
-    "indices": {
-      "^WIG20": 3409.63,
-      "^WIG30": 4378.32,
-      "^WIG": 3409.63
-    },
-    "news": [
-      {
-        "title": "Wstrząsające odkrycie. Trafił na ludzkie kości - o2",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFBiOEowZTVQdEtORmVaWE12YVVsS2p0V0hFNFNRVk1VUnZTVWd2LVFINjJfYW51MnNIQ1duMVloTVRIUk5IUk8xS29iVW5hb3dpS0x4TklLVWFSMnhVRk9nREd5b1JBZmxaUUNwbVBSa0s2UHM3dUtXUEM0LXA4S1pZRlE5YzQ5Z2VrOTVxaGE1V0E5V3ZN?oc=5"
-      },
-      {
-        "title": "\"Ich sprzęt jest najlepszy\". Uwagi otoczenia prezydenta ws. programu SAFE - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0tTeDRtb0pveWcyX3hlTFZCSzhvVFBwQm90d0NMNDJRalZRZ0JfRjItSUJ5RDIyWlVOaVJlQUF5TG9qRi1BUkI5VHo2UEpEWHR3TG1Bd1JwQlQ1LVhDUVBjWklhNzR6TUJTcm00UHVNcFR1TmZ2VnZUcXd5YVU4b2lMMjV0VU1hWHBLM1BMS044em52U1owbWZ6NzRVNkU5NF9hTXV1ZU1FanhSZmZ6SE1DVEE4eFlNRngzQ1VZNkF4UQ?oc=5"
-      },
-      {
-        "title": "W Polsce 2050 rozgorzał nowy spór. Hołownia nie owijał w bawełnę, \"nie tędy droga\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTN3OXpSbUdHOTZMMEFseFdBclNWdF85cDBxWndGV3c4R20wdVFCdzJOUzdhdzRNZlhueDRfMVUtSVRrT3RpTlZlU2k1eDhmVXRvQ1BTblJuMHVmSWYxaG05bVFpV2kxckhiUUtFaW9vdlVQMTNUWDcyYU1mUDlCRE40VnhZamdzUU5TVjlfTUFEVTdyVTJaSllsQmMwQmx6OE5oblJtTUphWDR1LXExRzlEOA?oc=5"
-      },
-      {
-        "title": "Kulisy spotkania Karola Nawrockiego z szefami służb. \"Ostentacyjnie żuł snusy\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVlVcVl1RkUtWTc4TlQwcWdSRlA5WVdvUGRTdGpxUEFmMWNOLV9WNzNWczg3S1JhT0wxQ1BaS3FiTElMUkdlZDVnU3lxYjBrX0lTMkFMOWkzUE1GRFl5dVBUNWNBZEtta2FOVDdob1A1WmZaZ2ZpOWhsbjJIaWZxTDY2VE9xc1JodzVObWVNLURmck1tRm5tc3BLeFAwVlBfM25DRkZtVnk5UktzTDJvOW01N3h2Yjcwd2c?oc=5"
-      },
-      {
-        "title": "Problemy z KSeF. Minister przyznaje. \"Chciałbym przeprosić\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRml6R2lFUWlGQWpWUjhjcUgwb0QzdzlqWGUtRUxab2lUQXQ4eHIybm81U1hPRUpHRTZucWlrOXFFQ050MTR0OGZNeVRlWG9RclZxeGtkaHI2WnNhbGdYTDRLMEh4VzBIeXUyak52ZVNhUjBlZnFOVUZQdTdJNm9YeEJiQW9rYTVfTmw5QjNUd0w3THUxQ1ZITlFhWnRQaXIwaWVCVUtuSmowV0hQSDFad2JzeFI?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-11 15:13:14",
     "weather": {
       "Warsaw": "",
@@ -2590,6 +2538,58 @@
       {
         "title": "Sejm debatował nad głośną ustawą. Odrzucono wniosek PiS i Konfederacji - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXBURWdGbHE5WU1KYzN1MXdyR0ZMdTlXWGsxVURaY1lRM3hIbDV6M1J0QURkekFpRkY2YmhkYldkOHNnNVpJWWVDV1E2a0czTW5UT0FzbFlQUVRJbEJMT0FCSTJ6S2dKR1VsMFNTZXkyRjM5U1lpVXI0VjV3cUUyOWlNZ29nbGZrcWxfdEJsemxfWlpDaTBLSXVDSGZ4V1pORWhUdHJleGpvRHhDMl9hM2RTVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-14 02:26:05",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: -2°C"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 244805,
+      "DOGECOIN": 0.343394,
+      "ETHEREUM": 7286.36,
+      "LITECOIN": 196.28,
+      "RIPPLE": 5.02
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "\"Proszę z nas nie robić idiotów\". Komentarze po wpisie ambasadora USA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzJiSEpyQlpMYUpheGtHcU43eUFBZERqZFhHMkRwWnlMUkJIdlVPT1B3cEpjb2NrY0l6Zi1WcnFOR2ZuVS0zRWpyZHllN2c1WU9EajFMWUVYUHRvMTJKZTVYa1JsZkRNRUM3dkJrZWdYaXhoQllKQlNFdWk3YldIX0ZRTGV4RU92MW1iWWM0UGR0WFBXcjhkRVF5c3F1OUtvUHU4N2UwdmlOa2xtemc?oc=5"
+      },
+      {
+        "title": "Prezydent apeluje do Włodzimierza Czarzastego. \"Proszę o odblokowanie\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzhrRVNVWFRwSTFHRlNjWjVrY2VRQ0lSUFZURlVrYjh6RFNWTW9BWnh4MWVxTS1Vc1h0QkFUTE9XY3pfSk1TZVQ3QUczN2s3MXBTaHBfbVR4UkJJZlZnWTZHdWVaSko4ZHN3ZGd2LWhTMVM3LTNJSkdTbGRFdGNIZ0JNY3hnTlI5R0dXcWxFcjR3RExQWVlteEkyeC14X05TUGl3djlhVzk5djdHUElRVkt0ZnY4eFhudnhmdjZpUUctZWhzbmRHdmVB?oc=5"
+      },
+      {
+        "title": "\"Atakują w dziewięciu kierunkach\". Kijów rzucił do walk czołgi Abrams - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclJPSjFfZU1fVHBNLU5oX0JieFFHVDlERHlOc0c1WExZYXB4Z3Znb2ZvVFdRSVcxRGh2bHBHWnV3UGoxcUw0NURGdzExZEZXa040TjFIUjBJRm5GSjcyOFdVNlc5S0NzakhGNHZrd1BXNjdTVWFyRWNPR3JCUnZmbG1xdE85aFFTZlJJTERPd0FfdDRjeXIyUXlBam4zWXBZVWE3NGt2TWNKN0dZTHBVblVNV2tQbVZPcnlwUndhTFgxcGJaM2U2bA?oc=5"
+      },
+      {
+        "title": "Test hipersonicznej rakiety. Europa goni mocarstwa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRll4MFU3dW1SN09UTUJfTE82SHd6RHl2Q0R5NVlWaDN1czNHQ29XUlZ2NFhtTmJ4VkstWUJIbjVLcllLN0Z1VnhBTTlWVmlJZF9oN1o1VVR6Zk9XTjBmNUdKT194OG94SV84VUVVaTh4dmFLNWxMWGk4ODRKa0dHazlVdXdsSTR3T0JYb2dPQ2RuMHdNc2V3?oc=5"
+      },
+      {
+        "title": "Największy lotniskowiec USA jest w drodze na Bliski Wschód - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONklMQmNvQ2V0Vi1pOXV0NzRJTG5XSVdRemlKMEN5OUdsQm9CRnh2R3ZMaTltcW5Gd19IS3JwZTl3bzYzcTFNNGdGdGhEaEx1amhEMXY4QVhJX3ZvUW1TYUVYNWVUMHNGWEhYTXhZSFdISkZiejVrRGZwU1dDZVJxY2ZhMUlJVVlJSXJndnB4RmI3UHlDNlFkNkdjNHFWM3VBNnFz?oc=5"
       }
     ]
   }
