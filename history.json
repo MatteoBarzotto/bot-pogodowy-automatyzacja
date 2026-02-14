@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-12 09:38:32",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5387,
-      "EUR": 4.2174,
-      "GBP": 4.8462,
-      "CHF": 4.6213,
-      "JPY": 0.023097,
-      "AUD": 2.5174,
-      "CAD": 2.619,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 237590,
-      "DOGECOIN": 0.328872,
-      "ETHEREUM": 6954.61,
-      "LITECOIN": 188.84,
-      "RIPPLE": 4.9
-    },
-    "indices": {
-      "^WIG20": 3425.06,
-      "^WIG30": 4385.53,
-      "^WIG": 3425.06
-    },
-    "news": [
-      {
-        "title": "Ambasador Rose zabrał głos ws. sojuszu USA z Polską i na temat polskich żołnierzy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWZTYkY4ZXdTbGJReXROVWQ5Ty1wUDNpSmdINDBqdUhCZ09mZlFIV1JoLTNHTE1MQXNFaFYxYWNRMlF5VnhkWkVxckdlZS1QR1pRSHVwZkQ1bnNHTmxfT1c2c3pKM25RdUVONXhwOWRqZXQxSjRZSVZLMExfT2ljYmRVVHpGbEVlOW1RNnRKaUJ4WnJiM1NGTEgwQ0pmRnc0Wm4zUkJHb2J3Vlh5cnhyMWxRa2JuRVlRdHlsZ3E2My0?oc=5"
-      },
-      {
-        "title": "Tak żyje Ziobro. Poszukiwany polityk widziany z matką i na zakupach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3gxOGstUDZTeldOU2tYV3IxenFIN1VpNmxvTzQ2LXNrWjZISWhBbkl3OUkybnZTM2hrWjRHY3lwd3RTQ21qOHhKQ0J5YllVTUJrejFGM3NwZjlzLVFfUnV3bHZLX2FnZXBPUjdYLWNaSTdrRVlhVzZjMmNFVlFTTnJzOEhDY0E0RU5vbUQ4ZzZNV1dCM3ZsTUJNUGVNWFhSNTNEUjdjQzE4azQ0elE?oc=5"
-      },
-      {
-        "title": "Cenckiewicz pojawił się na RBN. Siemoniak zapowiada kroki - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2dSVWR3dmtCTVA3M2FMTE1JNDBQLWdVMldaY1BKMW9NdmRhM3U4eEFwT0FsLUFDMTVhSmhFalYwYVBIRHY5V3otVzZyY24zQk1fRDdMNFo3cE9Kd0Q0bFd1cHc5bDNONWhQNzhkRjhfek1EbFZPZ2FYc2hJMG1OQlBlR0psOHFLZmQ3ei1TTGtZMU1NdjBIZmJUbko2Qmtp?oc=5"
-      },
-      {
-        "title": "Matka podejrzanego o zabójstwo nastolatki z Mławy. Grozi jej gigantyczna kara - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWY0M08yb0ZILTd3UVpsMmlsVkZPVDdudmc5WVlSa3p2ejhJdmg3UlpfZlEyLWxhTXpudVRrbFJlNV9PTk5TMXU0di01eEFEMGJkd1g2X2xpa29FcHQ3cjZVZExRSDVnRjl1bHR0aWdUbUZjLWRzSF9sM0JjamU1QUFONnZrdVNrWUt2LXJDd2FIX2ZHZ1FBX1BLVkhJbk9WTGM5SkViWnk2cndWMF9hdS1R?oc=5"
-      },
-      {
-        "title": "Zła wiadomość dla Czarzastego. Polacy zabrali głos w sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSU9kSlQ4X3R0SmxqN05rMWlVMmZuMHlZS0N1cFhMWU9MaFdCd0dqRkoyU3BhQ21lRlNUN3hHTGZETURGWFRLaGVjOXpVcFpWb3FKVVFwamxZU3NZRW9jT2hQSnFEbUMweHlZUnNqbW1UTXZUWk43MTJzVC0yNThmaGNmWlIzdmpYalI5T21hY3R1MU82UklVLVVDUnlxMElMdC1MNg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-12 10:41:33",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhDY01WSlgxRlNtNGNyU0lCSUswakhvdE9FLXJCckZJSzE4M1Q0SHFjVGtsVVNTcEVOeFZQT1paZ1BEeEJQRElhcU9aREFpajRDcTIxajlKdTA5VmdoQVk5UngwdXl2LU1lUXNzdDQxM1dfODNzQ1BfRWhpWjhuUDloVDIxc2d5c0JQblFHRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-14 18:20:47",
+    "weather": {
+      "Warsaw": "Warsaw: -4°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 247826,
+      "DOGECOIN": 0.3738,
+      "ETHEREUM": 7399.94,
+      "LITECOIN": 200.52,
+      "RIPPLE": 5.22
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Opuszcza Polskę 2050. W tle \"niedemokratyczna uchwała\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWFYY1ZwbDBJOXVzS252eWhTdEJKaVp5a0tob0dlQXhiZ2EtdXhmOHpIYkhWUG9vU1JSYUJrOWdTRmMzR0swNDR6aXN3TGcwU1FWa3NKVTdaUzk1czhNb1dmLVhDcGtrd2M1c1RJeGZGNHhxV2NYV0Q1YUR4RWJjd3kzdG5ZLWRjbTBldHdQeGtQV3FTamFqUXRn?oc=5"
+      },
+      {
+        "title": "Viktor Orban odgraża się Brukseli. \"Zajmiemy się nią\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjVXOTZ2bFZmdk1tSE1pa3pqcTFGQk96d2lOdUg5QTJMRHA0R0NwSkFualFrbVhBWERIMUZfUG0tc0xINEpOVFp6dm1ZbDJlU0J3NG5RNEVPVmRfZFRyRmFJeXEweFI4YnJhOVkyQkNveHd4TnozaFN5X1FIQnhhRU9OXzA5b254bnRBNjZfcmNjY1oxODRnX1lzWkJnbGZMWGFZOHVrZlFiUjRhT3BTQVJTOA?oc=5"
+      },
+      {
+        "title": "ZAKOŃCZONO: Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
+      },
+      {
+        "title": "\"Kalejdoskop Wydarzeń\". Gawryluk o wpisie Kaczyńskiego. \"Na tym się nie skończy\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmFVRnhQcWsxQnRzMzBmUXhDNGwxWUxuV0MwVnNBNlRhdGYyVG1qOGl0eGM1S3JQYTRaMnI2U25JY1hFRy1LZEp5VE80bjhmaUtpdVhDNEh1UUI2VUFvamhhZ0dOX1JVQUNkU2pwb2E4MmU2TkJxRTYxN1RpU0ROVEhWaDhJQ2hwVzZCT2N3SVE2eHhFSTRkNjZxYlBKaGhmd3VIdnh1SzdpMTQ?oc=5"
+      },
+      {
+        "title": "IMGW ostrzega przed nadciągającą śnieżycą. Pięć województw szczególnie zagrożonych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2o2eWpDM19EcjVSZnRYVjJWaTJ3VUhjU3NSaHJZdmhJSkxVV3JQa2R4dmhvb0NyelI1YjMxUU1DU1lQRXVyLTd2UnNJRVZNeFRZUHA0N3l2dUtXVUZaeTVYcHlja2VRRXRmVnhDYTUxTzJjVjN0c1M5SmctWXRqQlVRejFlUU5oWWtjbTNmRnlSQTdZLVc0NTVPZTd2ZGE1ODFGeXFYR2UzVXBZZ2s0VUYxZWpjaUtNZ3ZXQmExUnk0NEtscU0xckM1YzhMNGxKWmc?oc=5"
       }
     ]
   }
