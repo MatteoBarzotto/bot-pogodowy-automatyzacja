@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-12 10:41:33",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5387,
-      "EUR": 4.2174,
-      "GBP": 4.8462,
-      "CHF": 4.6213,
-      "JPY": 0.023097,
-      "AUD": 2.5174,
-      "CAD": 2.619,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 238790,
-      "DOGECOIN": 0.330452,
-      "ETHEREUM": 7001.04,
-      "LITECOIN": 189.69,
-      "RIPPLE": 4.93
-    },
-    "indices": {
-      "^WIG20": 3429.49,
-      "^WIG30": 4395.63,
-      "^WIG": 3429.49
-    },
-    "news": [
-      {
-        "title": "\"Nie miał pan odwagi\". Czarzasty zwrócił się do Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR21MNEJ1ZmJFWXhBRldxbFIyUE5Yd0VPOTBRYUFnQmRiSFpGa1J6VEJiNldMb2hsekdLeXBWNnh1YVY1S1NKTEpFM01aRk1XVENQdjVMbEduWXVxVXBtNVR6clJmY3dmRFYxQ3lRMl9YbGRmLXlucEJGclVCRlZQNWdsSVhtZDN6VDBvTFhMUzVmXy1IUkhxaTFmejBxLV9L?oc=5"
-      },
-      {
-        "title": "Tak żyje Ziobro. Poszukiwany polityk widziany z matką i na zakupach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3gxOGstUDZTeldOU2tYV3IxenFIN1VpNmxvTzQ2LXNrWjZISWhBbkl3OUkybnZTM2hrWjRHY3lwd3RTQ21qOHhKQ0J5YllVTUJrejFGM3NwZjlzLVFfUnV3bHZLX2FnZXBPUjdYLWNaSTdrRVlhVzZjMmNFVlFTTnJzOEhDY0E0RU5vbUQ4ZzZNV1dCM3ZsTUJNUGVNWFhSNTNEUjdjQzE4azQ0elE?oc=5"
-      },
-      {
-        "title": "Związki partnerskie. Lewica i PSL z powrotem na kursie kolizyjnym - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3VjMzdidmFwdC1aYjhudHo5Yy1qZXpQS1NJaFRJRDk1N3ZMZTFEVDhfMXJoZGZBQXVIdzM5RTV2X2FqcGxsV1gzODZmOGxBbmRodDBKVFhhbXcySnptVm84b0k2WVpYUlFMZVhXVURSSkNfam0wbXlJQVEwSDBZTTZBLWl0b3ZMYnZaWVF5NkthTGxIM1JYUWduS20wRHR5ZXJtV29KRVVNdlU?oc=5"
-      },
-      {
-        "title": "Dostęp Włodzimierza Czarzastego do tajemnic. Jest nowy komunikat Kancelarii Sejmu - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFhsaURybDU0MGFPMm1sVWc5WXNGcXQ0TVRYbW92VFNpQlFFM0dESkxrUlp0aEo5TVBOWnAxZUpTc0VnMjI5cnNmWXNwbm13czhkSDBraWxUbGdKUlY1ajZYekZYWVQ4UVRLdW1nV3pNTm1RcHVuclJsTmQzelVtbTRXVi1qX0JFSU9uMXlUa3U4MGo2S0RYMkFKNXNlT1NGS05JYlJSdTdEdEhiamtQNnlhT2k4dmYzOGhLMA?oc=5"
-      },
-      {
-        "title": "Groźny wypadek autobusu na Mazowszu. Wiele osób poszkodowanych - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHIxa1BOUXdJUHR1aUtKa0hQRjlYUmxrVEpNaHdaMklDeHBxRVgzUjRDbXdDS1NySzlfLUJodld6QlZIM09UaTFaZTNIdE53LUQxclhhMkRvSjlwVWVsbHlTcmFFbE54cTc3RmRzYk1yNnZ4dkV4YWkyN1ByWm82Z2hUR0c5VVFQcWxXUVNhMFppeTlGUGtHc3ZYNDYyQXFvaUhzQlRsNFFfTVNIeWlQSVNfUDVSNV9OUkhtbg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-12 11:37:59",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "IMGW ostrzega przed nadciągającą śnieżycą. Pięć województw szczególnie zagrożonych - Onet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2o2eWpDM19EcjVSZnRYVjJWaTJ3VUhjU3NSaHJZdmhJSkxVV3JQa2R4dmhvb0NyelI1YjMxUU1DU1lQRXVyLTd2UnNJRVZNeFRZUHA0N3l2dUtXVUZaeTVYcHlja2VRRXRmVnhDYTUxTzJjVjN0c1M5SmctWXRqQlVRejFlUU5oWWtjbTNmRnlSQTdZLVc0NTVPZTd2ZGE1ODFGeXFYR2UzVXBZZ2s0VUYxZWpjaUtNZ3ZXQmExUnk0NEtscU0xckM1YzhMNGxKWmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-14 19:26:01",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 247645,
+      "DOGECOIN": 0.37838,
+      "ETHEREUM": 7392.04,
+      "LITECOIN": 199.26,
+      "RIPPLE": 5.25
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Radosław Sikorski dostał oklaski w Monachium. \"Płacimy za obronę Ukrainy. Chcemy być przy stole\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM0l5dk5FRWZNWk9MellpdlBXYU9DNGJ2MENlTXlnLWV5YzA4dVN0TjFJQTlsWEZYZmFISklaM2tJX056dGRHZklrbWpBT1EzTklnQm4zcXlqeTAwWm40R29lLUVnVjBZQTRaRGd4Nlgwbjd0RWp3RVdpYzBQMThuWWhXckQtMk1tT0xWLUEzOTNkWm43eE82NWJEMU16THZqVnJOYmIwUzVhQzVKMHlHcjVIcTFpU1N0NTNhN0FoVFdtNDVINkVHYjdOUmlMS0k4Y1JkeklubGJFSEhMODRB?oc=5"
+      },
+      {
+        "title": "MSZ Wielkiej Brytanii ujawnia. Chodzi o śmierć Nawalnego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWRyY054N09obFRidVgwNm5aRXRLODZ6LUYxakxCdGlHeUNqaW1TSEZJalZKd1ZKd004bWRTbTZ5UENlVXVLd1R4YndlYkZPbkItQ1dpaW1OSUhMcnowRHgyNll5YzBaODNMb2xLWFFTZGFhdWQtVWFqNmJENEQtM1JVRl9vZTNpVFVRZ0RfdDNzNDVkODNwSDZIaG9sOGM?oc=5"
+      },
+      {
+        "title": "Viktor Orban odgraża się Brukseli. \"Zajmiemy się nią\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjVXOTZ2bFZmdk1tSE1pa3pqcTFGQk96d2lOdUg5QTJMRHA0R0NwSkFualFrbVhBWERIMUZfUG0tc0xINEpOVFp6dm1ZbDJlU0J3NG5RNEVPVmRfZFRyRmFJeXEweFI4YnJhOVkyQkNveHd4TnozaFN5X1FIQnhhRU9OXzA5b254bnRBNjZfcmNjY1oxODRnX1lzWkJnbGZMWGFZOHVrZlFiUjRhT3BTQVJTOA?oc=5"
+      },
+      {
+        "title": "Pomysł projektu obronnego w Europie. Polska jednym z kluczowych państw - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWRfTVdsRk5TaHdWSWlTenVlMlZpRTZ2WnlzenZKTEdnTXgzUENZVkh3cXRLY2lVSllac3hhTGZsWGJqMjdFX2hSMmw3VnVZWEVhbVp3SUllTkMxbkprMHhRSDY1VTBXVHVudnVpRjh2VWpWbS15X2JIV3pKdTlxbUUxdmdXSGtNSzhpd0h3V3RDSzNvTkhPQXJYNXRFVHpmWTJvbDBPaTg4cnJlYUh0Y3RWVXE1VUxW?oc=5"
+      },
+      {
+        "title": "ZAKOŃCZONO: Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
       }
     ]
   }
