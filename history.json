@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-12 08:10:55",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5387,
-      "EUR": 4.2174,
-      "GBP": 4.8462,
-      "CHF": 4.6213,
-      "JPY": 0.023097,
-      "AUD": 2.5174,
-      "CAD": 2.619,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 237967,
-      "DOGECOIN": 0.328715,
-      "ETHEREUM": 6989.29,
-      "LITECOIN": 188.77,
-      "RIPPLE": 4.9
-    },
-    "indices": {
-      "^WIG20": 3412.74,
-      "^WIG30": 4374.1,
-      "^WIG": 3412.74
-    },
-    "news": [
-      {
-        "title": "\"Grymasy niechęci\". Tusk zabrał głos po RBN - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm1qWUNZUjk0V0d5bHlLcEFySWxwMjU2QjY0Q2h1Qzc5WWRkQmlhTk5aTzlXTnhXRHNicFF4b3hvWl9hb2FIdmtRX0ZCRExJWHc2anNEbXFjaHozRkhXRk41dkx2MDBuVmNkb0VMZ1JXdmdmQ3M5dzQ1WV9qdEtuOFBZMkNZRkJoSkdN?oc=5"
-      },
-      {
-        "title": "Tak żyje Ziobro. Poszukiwany polityk widziany z matką i na zakupach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3gxOGstUDZTeldOU2tYV3IxenFIN1VpNmxvTzQ2LXNrWjZISWhBbkl3OUkybnZTM2hrWjRHY3lwd3RTQ21qOHhKQ0J5YllVTUJrejFGM3NwZjlzLVFfUnV3bHZLX2FnZXBPUjdYLWNaSTdrRVlhVzZjMmNFVlFTTnJzOEhDY0E0RU5vbUQ4ZzZNV1dCM3ZsTUJNUGVNWFhSNTNEUjdjQzE4azQ0elE?oc=5"
-      },
-      {
-        "title": "Zła wiadomość dla Czarzastego. Polacy zabrali głos w sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSU9kSlQ4X3R0SmxqN05rMWlVMmZuMHlZS0N1cFhMWU9MaFdCd0dqRkoyU3BhQ21lRlNUN3hHTGZETURGWFRLaGVjOXpVcFpWb3FKVVFwamxZU3NZRW9jT2hQSnFEbUMweHlZUnNqbW1UTXZUWk43MTJzVC0yNThmaGNmWlIzdmpYalI5T21hY3R1MU82UklVLVVDUnlxMElMdC1MNg?oc=5"
-      },
-      {
-        "title": "Najnowszy myśliwiec Rosji tysiące kilometrów od frontu. Rosjanie dmuchają na zimne? - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG5ab0RkdDRlN3RiUUtIYmp4V0VEdGNNQ0xzLUt0WTFEUFBLVHA2MkhYVFJPX2VGdlU1VUg2dldpS2U0Ry0zeVdINThXM0lnN3pIMUpvY2pra1VuM0dhUU9iZXZPTG9QZ0VybEJIeUEtSnowRk9JVkFVR09WTFo1QTNkdnF6dS1hN0JwREdHajFfU1F3TGJOUUN6bHhNSlkxeG5lcmFxVlBXZm5rTFRMUmtjVndUWGdDV0FoY0tMU1l2T1RycDJRTDZuSzhYMGNIVHU4?oc=5"
-      },
-      {
-        "title": "Zmasowany atak w Ukrainie. Kijów pod ostrzałem Rosji - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFVwcy1scndwVjNpazBlRDRqTC0xTWpxTnY0VzNaY2pQaWYtSDE0NEt2ZVJpVDVOZUFCV3c3S3Q2LTlXbi1KSXJ1aE85Y3FBYlN1VGtpQThfUnBVWUlkNjQ4M25fT1MwbmxvLWtoRUtyTTZaM3F3MS02Q0VNQ1Q1QkYtSlc0X3U0aWRaeXRha3g4QUdvbi11cHJVMzV3cTNh?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-12 09:38:32",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Wypadek na przejeździe kolejowym pod Warszawą. Ujawniamy kulisy. \"Po co są te kamery?\" - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXFVaTZJWndReTVEZVBVeUc5ZTdrYWt2WEF5TVkwZG01Y2pJMWtiS1ZpWC03QUhXdl92dWRTY25wVkZJME0xUnBGQTZSQU1sWHJUUlpPNFkxZG1vTnNRWlhDMXU4Y3RvaEtza19CY1NfdFpKTEE3WlE1ZzVQem9oekhpN3VHVmUyakdYN1lCeXNLOTlWcXAwWG1B?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-14 17:20:59",
+    "weather": {
+      "Warsaw": "Warsaw: -3°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 246526,
+      "DOGECOIN": 0.367261,
+      "ETHEREUM": 7357.29,
+      "LITECOIN": 199.12,
+      "RIPPLE": 5.19
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Opuszcza Polskę 2050. W tle \"niedemokratyczna uchwała\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWFYY1ZwbDBJOXVzS252eWhTdEJKaVp5a0tob0dlQXhiZ2EtdXhmOHpIYkhWUG9vU1JSYUJrOWdTRmMzR0swNDR6aXN3TGcwU1FWa3NKVTdaUzk1czhNb1dmLVhDcGtrd2M1c1RJeGZGNHhxV2NYV0Q1YUR4RWJjd3kzdG5ZLWRjbTBldHdQeGtQV3FTamFqUXRn?oc=5"
+      },
+      {
+        "title": "MSZ Wielkiej Brytanii ujawnia. Chodzi o śmierć Nawalnego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWRyY054N09obFRidVgwNm5aRXRLODZ6LUYxakxCdGlHeUNqaW1TSEZJalZKd1ZKd004bWRTbTZ5UENlVXVLd1R4YndlYkZPbkItQ1dpaW1OSUhMcnowRHgyNll5YzBaODNMb2xLWFFTZGFhdWQtVWFqNmJENEQtM1JVRl9vZTNpVFVRZ0RfdDNzNDVkODNwSDZIaG9sOGM?oc=5"
+      },
+      {
+        "title": "AKTUALIZACJA: Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
+      },
+      {
+        "title": "Szczere wyznanie Zełenskiego: Uznali, że to najprostszy sposób, żeby się mnie pozbyć - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2w3NXZFVEJiekZhWjk1dk01TnBOZ1daZGtPYjJHb1VOeExUOHlyejZsWmt0WEI5Wkwxajk0Y0s0U3ZobTJWNmVpb3U0MHdGTG5MOHAzVVU0cG5JMFFrcFJzM2NFdnlaQ1BRZkVVV2NPOTJBU1NpR25qU0g0Y01KTkRRa2RoamtGai1HZHhaTGpyTWFvTEVQdnFXcV85SGJfUEJtOTh2TmlMc01sd2cxOUNkYklOZE85dWZnN3ZvOVRtbGMyRTBmbA?oc=5"
+      },
+      {
+        "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhDY01WSlgxRlNtNGNyU0lCSUswakhvdE9FLXJCckZJSzE4M1Q0SHFjVGtsVVNTcEVOeFZQT1paZ1BEeEJQRElhcU9aREFpajRDcTIxajlKdTA5VmdoQVk5UngwdXl2LU1lUXNzdDQxM1dfODNzQ1BfRWhpWjhuUDloVDIxc2d5c0JQblFHRQ?oc=5"
       }
     ]
   }
