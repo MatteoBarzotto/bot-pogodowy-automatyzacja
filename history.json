@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11 22:28:15",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5387,
-      "EUR": 4.2174,
-      "GBP": 4.8462,
-      "CHF": 4.6213,
-      "JPY": 0.023097,
-      "AUD": 2.5174,
-      "CAD": 2.619,
-      "CNY": 0.512
-    },
-    "crypto": {
-      "BITCOIN": 241459,
-      "DOGECOIN": 0.325235,
-      "ETHEREUM": 6999.16,
-      "LITECOIN": 186.68,
-      "RIPPLE": 4.92
-    },
-    "indices": {
-      "^WIG20": 3412.74,
-      "^WIG30": 4374.1,
-      "^WIG": 3412.74
-    },
-    "news": [
-      {
-        "title": "Uchylił ENA dla Romanowskiego. Teraz zajmie się wnioskiem ws. Ziobry - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVi1Ea0F4dDI1QTFvODFqTHpNbTliY1o4X0k0cVN6UUh3dWhfOHZKZGJyTDRWYlVwUWpFY2JZeUJ5emMyeGpWd09IbmRsYmV0d3pvTTdJS3RRdTdJRlZFY3Rpal93VjVERmZmLUdOd3VtRXkyZU92Nm8zbXNUdEsycUhzZE1sZFEtNVVudGcwR2V6Umw1cHEzNnBESnJPU3NzSTR2NlFkdktiX0VScFE?oc=5"
-      },
-      {
-        "title": "Współpracownik Nawrockiego usłyszał zarzut. \"Wyssana z palca bajeczka\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTVPdnVMRDNaUmZVZU1zZGFUcnlLSHFLR3JEeVo0dzc3LXFUN2FQYUFHMkdnM2h6Nm1ObFRpNnVsZ3BudEVlN2ZhR29fbnJaX21rNm1ieGdNWVFaU2VQNVpCaXBsZndidTd2QnlWaklWbDdUTC13S3ZvaV83Q0NLN1VvY1RTT09nb1otb09xVExXVGt3blM5ZV93VHFzZzN6MGdlSkQxQ1lKOC00aks0LVBZcHV3dw?oc=5"
-      },
-      {
-        "title": "Zamieszanie z rzekomymi \"meksykańskimi dronami\" nad USA. Nowe informacje - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXg0RzhCdGRvVWV3MkJlM3hNR0tfekxCdC1RTUYzMFlvNm0zdmRKcVVNMXF4eml5QWtrR2FmWjB4dC1meENNMkJZTGYzMHNhMUJsV2h0MUhmN3U1Wm9vamZ6SjQ4MFRLZEx1cVBBRzV0LWVuVkJSdGpXQjNRSFNDUnFSUlIzeXliQXdoSFVxbVhNUEdJVU5XaDVYWmtmNkRnbXJWRXZIQzlZNVlTQkhJ?oc=5"
-      },
-      {
-        "title": "Dziś ważny dzień w Kościele. Szczególny jeden sakrament - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVp0eEVYbDh2SXlrV1BibU15NV8zNHI2S2FoRmR1LVkyUFYyR0g1SHloN0ZKakpfdm85bkwyeVdQcV9KWTk5Ym5EcHZSZWNqeWFudk1EX1J0VHA4dktUcTRVUGZNM0tidC1WMmtTNmk0dXp3Z2E1WDIxWGhWUlBMaU83MUFudDZPNnZEVl9tb2xSaERRMExMTzFIMVdaZV9Fa25tOE5xN1Q?oc=5"
-      },
-      {
-        "title": "Tragedia w Kanadzie, w szkole padły strzały. Są zabici i ranni - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTNZYlN0U3VjYXAwMVlXQnE0THhrZjdvRklndFhLeW1XTE1xYVd5UGZoa0MxeFZKcGxseVFaaGRTa21YQTZYMHhFS2l6aUNIQnRkTlZDVFVla1Y0dTctWEdxTVk1NVh3cXg1RE5VSUJTblBQMlRJcnZVRlFSMEk2OHYtRHZ1RHZNUUJqMTBTeTdGY0hKVWJMeFZXS2I1WDBDRUltU3hudHItcTNpU2otSExTNlc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-11 23:23:23",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "\"Najlepsze, co mogłoby się wydarzyć\". Trump chce zmiany reżimu na Bliskim Wschodzie - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONi1PYXBmeVJDSm05bkh0UnpYckFDWEZjbmlKNkVHLVNFM29pNHh0d1VONzZfVmJtWDk1dTdDelowWkxNMmx1VFU3ZW9RT2w5UENlQ0lZdmx2VGdSSHM3a25wTVBNMERtZG4xZlM3WU02UV8tdmc5T3lidng5Qi1wcXN6V2NrSlJTS0QzcU9EQUI2OWtWMTJXMGNBaUJMaFFZaEFpdGtlRnBnRVdpVUVtc054MmFJOWpab0tLOFZFRmo2Mm4yLUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-14 11:19:57",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 247119,
+      "DOGECOIN": 0.347549,
+      "ETHEREUM": 7363.56,
+      "LITECOIN": 196.76,
+      "RIPPLE": 5.14
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Marco Rubio na Monachijskiej Konferencji Bezpieczeństwa. \"Nie chcemy upadku Zachodu\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ09xYXZIdmZsOE5aRjJ0ODJ3N0xleEZEdUN0M1ZHNFlDQXl5N0lBMmdwdjVFZm1idmZnV285Z0o4bGl2MWMwWllnZkU5Mk5SVWhqVDF2ZC0zRGI3SE80a2liZUhaeGlXNXVQZDJySk5Jd3NIc0ZvZVR4OFg2ckF1UGVIOTNTam5ZT01oMXczUGZIVEUtLWN5SzdKbmJXZWsyLWp3?oc=5"
+      },
+      {
+        "title": "Sąd Najwyższy czeka wielka zmiana. Małgorzata Manowska podjęła decyzję - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEpoRlgySUdpOVFxMXNhcFFLN0xFZGMxY0RxTUg4NExBT0pfZW1fM1FDd0tXMTVaUmdnbnFRdFo0RXpfMWlodDRxNFA4R09Gd3J6NlFUR2J2QW15eHREakFfZ3o2NmVPeEF4aFVQTlNCMl80b3gzUUJyVEpENnZ4X0pRZzR4Q082QzFweENZWFNGUV9SUjBaNTE3RkFmZ3JWdUlHalZ0ekk4YS1kYXc?oc=5"
+      },
+      {
+        "title": "\"Czy powiedziałeś prawdę?\". Ziobro uderza w lidera węgierskiej opozycji, poszło o spotkanie z Tuskiem - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFBhbnlkTUpRNXpUQTl6WTY5SU9xaF9ZWmVtQ1QtOFI3UjUwTDdYcTkxWU5iekZjbVN1T0x3ajNGMHpSU2NaSXhmMTdxUnVjUF83Y1RYMXNkaUhfMTBTWkxYZ1Y0QkFtVEpmYVJIZUFHNDRhMWlqRlozNHpYVjVjZTJzSmI5S3liX1p1cEVla1U4bU8zcWFETmtCR0lEenluQThvWldtcFBvaGlya2pWQllabw?oc=5"
+      },
+      {
+        "title": "Zima ponownie zaatakowała. IMGW alarmuje, tysiące mieszkań odcięte od prądu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHFNOGNOT3VRMHFsVERCcmFCbGhlT1JTUkFjZ0hWMWhPT1AwTmxiUUlKTzlkdmtfSi1Oc095OW5BU01iOWpmeGhlelZuOVc0X0xBZnV2NEdSS2N1UF85SFQ3SnNYLUlkMTZvdzM3MzJNLUN5M1hfYXN4RENSdlJfakJ0cE4tX1dHNG1zNWx3RlFSSFc1OG5hbTlOYjdrdWxPLTZCQ01Yd0x3MFM5czk0M3h6aFNiVW8?oc=5"
+      },
+      {
+        "title": "Trudny początek weekendu dla mieszkańców Pomorza. Tysiące osób odciętych od prądu - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmJmaFc0enlDTjl1ZXFHTklmcVFqT21zUE5OU0d2RHd3SEFaaTlDNzc2S09DMEdJRG02UUlsN1B2akVFWmM2UUVpcWV5eFNhYTVwczdjQ0ZDbS1LZkhGdVFtWkxlbnZTUTNhNlZld1hmSUxtV0JOZmtRVmtOLTRMQ25EWTNaUTNpYmtQR3h1V3h3Q2xyU0M4RUxDSmpjWklBMHdoVVU5RQ?oc=5"
       }
     ]
   }
