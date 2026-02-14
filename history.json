@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-12 12:34:49",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5441,
-      "EUR": 4.2131,
-      "GBP": 4.8374,
-      "CHF": 4.6146,
-      "JPY": 0.023178,
-      "AUD": 2.5249,
-      "CAD": 2.6133,
-      "CNY": 0.5135
-    },
-    "crypto": {
-      "BITCOIN": 241813,
-      "DOGECOIN": 0.333803,
-      "ETHEREUM": 7081.38,
-      "LITECOIN": 190.16,
-      "RIPPLE": 4.98
-    },
-    "indices": {
-      "^WIG20": 3427.49,
-      "^WIG30": 4389.99,
-      "^WIG": 3427.49
-    },
-    "news": [
-      {
-        "title": "\"Nie miał pan odwagi\". Czarzasty zwrócił się do Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR21MNEJ1ZmJFWXhBRldxbFIyUE5Yd0VPOTBRYUFnQmRiSFpGa1J6VEJiNldMb2hsekdLeXBWNnh1YVY1S1NKTEpFM01aRk1XVENQdjVMbEduWXVxVXBtNVR6clJmY3dmRFYxQ3lRMl9YbGRmLXlucEJGclVCRlZQNWdsSVhtZDN6VDBvTFhMUzVmXy1IUkhxaTFmejBxLV9L?oc=5"
-      },
-      {
-        "title": "Zła wiadomość dla Czarzastego. Polacy zabrali głos w sondażu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSU9kSlQ4X3R0SmxqN05rMWlVMmZuMHlZS0N1cFhMWU9MaFdCd0dqRkoyU3BhQ21lRlNUN3hHTGZETURGWFRLaGVjOXpVcFpWb3FKVVFwamxZU3NZRW9jT2hQSnFEbUMweHlZUnNqbW1UTXZUWk43MTJzVC0yNThmaGNmWlIzdmpYalI5T21hY3R1MU82UklVLVVDUnlxMElMdC1MNg?oc=5"
-      },
-      {
-        "title": "\"Uzasadniona cena\". Cukiernik mówi, ile musi kosztować pączek - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFhKR2QtTk50MkNlRmpqTHhzamZLRVI5VWtLU2U2dnZXWWpwdGZDcEpkR0ZUZ3p5bEx4TWdXaUdPZnB4OUEyT28yRzRONmhFemZVeVZmQ3MtSTJTRXBseFZWTDl0dkpVdnlsWTVPdGpSX1cwM0RENVB1dUNTdjRQRVJWaVBGeTIxbTlRRWdHLWJYRm43dW9nbmJmcUxKZUZ2U2lKYjBjSGV6elhJelRQTjFtMnBXNE0?oc=5"
-      },
-      {
-        "title": "Uwaga, alerty wciąż w mocy. Niebezpieczna aura w regionach Polski - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2VaVExhaUJnZEdoMlI5TlZBaF8tQnZveURUX3V0NFdVRUJDWWVMcFpiMUlwbVZzaGtQM01OV3hXVE9SeF9fYmFfRk82RnFWR05tM2V0N3R4YzM2ZmIxS0VubGhqN1M4SWxxX0RnS0xmbXJmYVlycGFyQ2JiLWd5MXE2ZXFEV1dFWDdMWmNyOWlKa0YyaWFNVTVrZ1BmMzI3VTVKQWtoOS1WaDVuNGc?oc=5"
-      },
-      {
-        "title": "Będzie rozłam w Polsce 2050? Część klubu rozesłała list - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGd6elpLc29hSmgtcTJDam9NcGdXZ1hYZzdVaEhTRFU4UEp6Q0JDNUNWLUx4RF9sNkhrMHhjcVdLMHloWmFjd3dVS1gwR1pFS0tUbnE3NTlwWHpXd3cwQTRzd1FBRDc0WDI3TktCb3dMUGlVaXNLSFFkbldTOWVLSTdIc2t3ZmRMU1lJWU1fTzhRQi1wQlY2TDhFcWIyY2ZMRHln?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-12 13:53:09",
     "weather": {
       "Warsaw": "brak danych",
@@ -2586,6 +2534,58 @@
       {
         "title": "Biały Dom triumfuje. Koniec systemu start-stop w USA - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0FocXVrWHJNcW9yRng1TWJpTzBhUkhzQ3BBbWpPa08wQ3ZzXzVWVFBzVGpPX2RISWlMa2RjZnRXNGNjN2VHOWlPQWZIVUN3czhuOUVuampGWHk5bkF6Z1F0SjAyZm5BdWtLY016YWoyTFdGNm5CaTllYUtXalhEblBoQmljdHAwVU12STNKZkxXZzBDZkY5TEl3?oc=5"
+      },
+      {
+        "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhDY01WSlgxRlNtNGNyU0lCSUswakhvdE9FLXJCckZJSzE4M1Q0SHFjVGtsVVNTcEVOeFZQT1paZ1BEeEJQRElhcU9aREFpajRDcTIxajlKdTA5VmdoQVk5UngwdXl2LU1lUXNzdDQxM1dfODNzQ1BfRWhpWjhuUDloVDIxc2d5c0JQblFHRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-14 21:19:05",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 247915,
+      "DOGECOIN": 0.38591,
+      "ETHEREUM": 7403.45,
+      "LITECOIN": 199.66,
+      "RIPPLE": 5.31
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "ZAKOŃCZONO: Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
+      },
+      {
+        "title": "IMGW ostrzega przed nadciągającą śnieżycą. Pięć województw szczególnie zagrożonych - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2o2eWpDM19EcjVSZnRYVjJWaTJ3VUhjU3NSaHJZdmhJSkxVV3JQa2R4dmhvb0NyelI1YjMxUU1DU1lQRXVyLTd2UnNJRVZNeFRZUHA0N3l2dUtXVUZaeTVYcHlja2VRRXRmVnhDYTUxTzJjVjN0c1M5SmctWXRqQlVRejFlUU5oWWtjbTNmRnlSQTdZLVc0NTVPZTd2ZGE1ODFGeXFYR2UzVXBZZ2s0VUYxZWpjaUtNZ3ZXQmExUnk0NEtscU0xckM1YzhMNGxKWmc?oc=5"
+      },
+      {
+        "title": "Polacy ocenili reakcję Czarzastego. Spór o Nobla dla Donalda Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVFfbTE4MG5UUFVxbWFicEp2Z0NZN2dhZWZtSTdXU2E1c3haMFJvN1hwZ3l1cjY0LVZXVXhKVkFELVhReFVCUkdNSHY0SnBMV05UaXlCRlNGQzJ2MlEyOW5XVWQ5TGhHbUdpX1JzMGNvNDVlUDN5Q3BqNUx4cmp2TzAxTWhFWnhRdUY4N2JKeVVMVS1kLWxHR29EWXpMeDVjenRPZGJxVDdCSldyMGc?oc=5"
+      },
+      {
+        "title": "Ursula von der Leyen chce rewolucji w sprawie obrony UE. \"Nadszedł czas\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRGpCWU9nM0JuTDMzOTVibjhfV0d3UWVCQUNodDFhaHAyOWx4ZjZicGJWQ1N4bXNud1B2MFN6MGluM01iT2xxRkZkdm5KMlVKVVJUekZ1Q0ZlYUdLcTFZMkZveUZfaFBZY3lIVkRlRGU4NzZGU1Z0ZHFzczNidjRMdWxpaTQ0bTk2ZXdJdjJLbWxKVFI3aWxmY1dvelQ1YUJYaXI3RllVeEhKNHU4VWlkTUpHNnhJUVVCZm5ENlB1UnFyZmJhZFRiQWxoWHc?oc=5"
       },
       {
         "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
