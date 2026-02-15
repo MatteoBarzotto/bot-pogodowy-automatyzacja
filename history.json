@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-13 11:33:34",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.5441,
-      "EUR": 4.2131,
-      "GBP": 4.8374,
-      "CHF": 4.6146,
-      "JPY": 0.023178,
-      "AUD": 2.5249,
-      "CAD": 2.6133,
-      "CNY": 0.5135
-    },
-    "crypto": {
-      "BITCOIN": 237468,
-      "DOGECOIN": 0.332889,
-      "ETHEREUM": 6951.79,
-      "LITECOIN": 189.36,
-      "RIPPLE": 4.86
-    },
-    "indices": {
-      "^WIG20": 3360.18,
-      "^WIG30": 4309.72,
-      "^WIG": 3360.18
-    },
-    "news": [
-      {
-        "title": "Strzelanina na uniwersytecie w USA. Są ofiary - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjVNWmkzcklYVGRPX3lhaU9VYXVIb3NKR0ZYaXJMS0F0M3ctYkdDNlVxRFhRYTlUN1ByM2hSYmxHdmRxdEx3dUVPUXVmeWpBdGd0MkktMXU2bFQ3Vk1NS0x2SEZZOHcxTXg3bEc2WlI5MDhSd1djOGllVFc5cU5lSXJJczJEczhqZE1oRmZhVEdCT1NEdGlrRDNoZXd5UFI3U2t2ajFpanpwSW8?oc=5"
-      },
-      {
-        "title": "Pilny apel MSZ. Odradza Polakom wyjazdy na rajską wyspę - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmEzSlpGR2pSWkZoUlRKaExOOFprRVpuazhTblk0S2JrRVV6cEY1bm1XRC0zNTk1RVFra1JqQVpYYzZRak1BbVBUUXVrYmNvSnN1aVNJZVNES3Y4MU1uN1FOenI2NUVXbVZyclphbnQxQi1tNkFSRXJPdHFUOW9KUVc5Nkdnb0RSTndZb3hPbTZvd1M4eGdrTG13cFI5NXFjWTdNd2FDb2NCMUQ2WHMyTzRMdGFDVDQxNmlIZUFwYw?oc=5"
-      },
-      {
-        "title": "\"Krystek sypie w sprawie Iwony Wieczorek\". Szef Archiwum X aż zabrał głos - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOW9WQmpNYUxST3hqT2pQb1pyQkl2MEVhNjFibkpqN3ZadGgxaEtzbTdla2FUQW45Q0VjWl9ZVUVod1k3UUt0QWppbEppYktUSUJ0a091bVJ5S242akxRR1Z2cE9LRzBLc3JZSnFwN25XZ0dJOGdPY19PdjZndFhiU2FQX1ZqUHdMZE1lNEp6ZFdKdFhOeUpMaUQ4UG83Q296ZnhJbTJ0QXo2T3VLeDJBNmhqdlh0VWoxNmJOcHRUZFM1ZVE4M3c?oc=5"
-      },
-      {
-        "title": "Fort Trump w Bolesławcu? Mieszkańcy nie kryją zaskoczenia, ale w jednym są zgodni - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2ZWUl9XOWdWdXNiVzZEOWttX19Uekotd1ZJcDZ2aEdGZVZCTm9YVHFBVEdRbHcybk93aW5VcDMtbHZzMUw0cnVUOThyX0dvSHdXd1pHbXFRLWx6RHA1QW9CdzJQU1FObFJXQzJsME94bmFoTWVJWjZkLS14YWppdTMtdWpidmtZRFhGQ3NMU1JlLXRYdVVGdmVEWnpDUTNBQkdEak5mVDd1bmdDT3JXRGprcWlVRHNLT0d0VmNRbURfaFB1MUE?oc=5"
-      },
-      {
-        "title": "Pentagon wzywa do \"NATO 3.0\". USA zmieniają priorytety - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJ1M2habDZpVklPNUExUmhTeXBoelJncnE1dU01QldrUWdSMXVVMDgxYkFYZDc0SS12bDVvYmIwc0ExSE9BbkwtMEJ3OWctd1Y3RUttYUszY2F6RVBrS3BSV2txV1VFcHAycU5lLWNfODZMYUR3OFpGc1Z4dV9VTFBNSnpvRVZZTnhoODluQlQ0OXAtdTlQdi1B?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-13 12:26:41",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "USA i Izrael planują zwiększenie nacisku na Iran - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHdfbTZxRk5wUnBQUkVMSnkxdHYyQXRDTUVFemVrSGc5aU93TEt5ak1mVzZPckZlYnh6Q255cmFlM0FXblNYNDdSVzlRbjNENmpNQUZtYzIydDJtZHhfckNobVlOTkdoV05EU3FBR2wyZHdZVE1iNDV5aWp5NWFyRHdlNUhjVUVXZnI5WE13ZVI2eXJGTXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-15 19:27:15",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 243894,
+      "DOGECOIN": 0.372824,
+      "ETHEREUM": 7027.04,
+      "LITECOIN": 194.4,
+      "RIPPLE": 5.29
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Atak zimy w całym kraju. W nocy duży spadek temperatury - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVpEYjZhSUpwSHctQjNfVnNpdXFjTWtud0hQaHdMWmxNZkdwWDRkQjc3LWZscklfU0VwY3RzX1R5THJWUzJxZTMySEcxb1pZbmVaNmU1OVp2QzczaHdxVnhyUUxpQ2ljTWpJblZHdWJGM3ZQRTF6LVpCU3hxcWhMa3ZveHk4QnBPcDc2d2lEbUJkRXhvRmdYSDR0Mm9WUQ?oc=5"
+      },
+      {
+        "title": "Rada Pokoju Trumpa. Rumunia weźmie udział jako obserwator - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFJZZDhJcTJaU1BZSXBHRldmZXVEMHhPY2VwUXFkY09uSG9OcWJoZmdBZmpsZTdzQTJXUHE5Y2ZEcXJzbC1oV3didUZSTVltSG4wTWlQbjFUa3pnRHp3S2VaVmhzUERNR3lCTjVnM3ZNVW5HYnVYdTRDLXZJV0wteTBtWmkzblA0T29ua1JDT0xucGVEOW1fZGdjOVZjbEZI?oc=5"
+      },
+      {
+        "title": "Domański mówi o \"głupcach lub zdrajcach\". Nawrocki odpowiada ws. SAFE - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1dlN2tlWVMxRDYyTXZzcFZLSkN3d1ZMdnNIZWxWUVpoX19yckJMa1Z5Y3V0RW5xZnMxTUF2VmtHVHJaa05IalFzRjlyZDc0T2pRSzhSbnFEakRaWDZvVGVvYmwwd3dCZjB0QkozdWJnN3hqdFkwTk4tNTJMZGxINVhhUkFaSVhMMkY1NFZoNXFHb3FHRGlnMGdVNk04QnYtYmxBaHY2cEdJejJXYWc?oc=5"
+      },
+      {
+        "title": "Bogdan Rymanowski przeprasza ministra. Chodzi o słowa z wywiadu z prezydentem Nawrockim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpDX1Fqb1Z5VEtMOHNUQ0RGc2lXUGszOUpST0dSTnFuWlNyRE5iTThnZkZUOUR4V2l5S3lIQmZTU2EyeFdhRHdPVGh1T2djbVV3QndmX3VncHVCZ0RUVVRpYl9nMWl0YXZ6QTZUNmNDS1l5X3lZeUJyaFI2TVBGVFR1bmwwdUc2dGlEWFBwalZkMndxM3FrQV9oUzBhbU5PZ1dZdE5ZWFdaSmdhT0NtZ19paEppNzFHYmxBZEg0UFg4Vnp5clpsaGRYLS10RDdySEM2amhB?oc=5"
+      },
+      {
+        "title": "\"Może to powiedzieć swojemu synowi\". Nawrocki oburzony słowami Tuska - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3FVS3BCNVd5WWFZcmJNb3l6djNMNXBtSk51UkFEM0pBc1dOTFVBMnpQc3ZvZE1nVnp2NldoQnBTYXRVVWFNbHpnTFVsV0Q3bmd0elN6akpZSlI0RldIcFFvU25hZWhyWjVRX0x4SFprZ1lXdUFzcWltWTgyS25RMnpBT0YxWHFFZXQxb1k3UG9LUS1Lb3VtNlNDR3U1VUo0MjMzV9IBowFBVV95cUxNbnVrdVNPZUU2Y01IS0dPLUZXQWJ0U0stblAweGkyQWJwQUZMRjNIQWtnWmpEeGc0QlJMc05EVk8wSHJubDZVT2h4QjRUTHR6bnlXVVV4RmpITkdJS1pETndCTFBYaE9pN1hzUWxsWFhWenVoVXp6X2ZHVV96aVBpRkNLSkN3NWF4akNndklaQUJYUmZvcUtwZVhMaURpQnpnbWVj?oc=5"
       }
     ]
   }
