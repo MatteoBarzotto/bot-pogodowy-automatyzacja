@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-13 14:57:41",
-    "weather": {
-      "Warsaw": "Warsaw: +5°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 238824,
-      "DOGECOIN": 0.33241,
-      "ETHEREUM": 6993.43,
-      "LITECOIN": 190.32,
-      "RIPPLE": 4.89
-    },
-    "indices": {
-      "^WIG20": 3360.51,
-      "^WIG30": 4311.07,
-      "^WIG": 3360.51
-    },
-    "news": [
-      {
-        "title": "Niemcy zainteresowani polską bronią. Wiceszef MON: zgłosili wstępną chęć - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaV8yeTV1N202T1lSbEhoZkM0SEJSMkdmd1Fmb2VmdjlrbVplMDdoeGMxV3YyaGJveFFXM09oa0FVbTlOYWgtcGlHVDZlczlGSXBZd1BXOWdkOW1KYWNxS21VeFd6QTE4WFVKcGFPdVNfTVhZZWI2RkNBQkpMUFFWN0k4TE9ZVWFIMXQ3b096ZzF5bGpHbmRrTVVYVk5jYTRhZXloVm9UZnlucFE?oc=5"
-      },
-      {
-        "title": "Paraliż Trójmiasta. Fatalna sytuacja na drogach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGp6TmdoVkstbXlOelNlajd4WjZOeTlrOEJweUpsdU1LZzNtVVRPWHZScl9rZDBjRlZpZTJmWmdNLUV5YWw2OHEtMDVsYUQ2aXJ5bFVQV3lXbDJ0OFlVWlNnWXV0N01yVlg5UXZ5Y2lVTE10ZzJkZGZPMGo3YWVuXzNpOWxheTcyV01jOE9pRFBEVEk?oc=5"
-      },
-      {
-        "title": "PiS z Braunem w koalicji? Czarnek nie wyklucza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXVMb3RaRUpON29zSmhkenVfdXRXTlVKWWV4Smw5c3J6OTlIREZaYWNpTkpSS080X216ZW1qMEFxUVVTdTREUGVvQzBSN3pCRWNhYmZ4bkRHUXNLYWlUdGtqS2pHZWxEUVFnN0UxLWlJUnBfcXBYRkNmc2JNaWtXd3otRlZYR2lrVHpzM1VMdUVSUQ?oc=5"
-      },
-      {
-        "title": "Burzliwa dyskusja w Sejmie. \"Cynizm, obłuda, hańba\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUhtdVRkTThaLTU4R2Q2X3RQQS13Wmdvbk1vOXF4SnpONnJIV2dEWk1femFOQ282ZWl4bUtfcEZpbXlBaDk1TDFVVWtuQXV0cElrU3VNZ0QyNnlWdE14Yzl4ZmRPQmszbFNkV1hOekVOVTdRLUFWV3VEemlGdlBaQmdwamVBV1JQRF9lZkNxTjIyNExqQVRFMEVuOTBhR1ZzakZyRUpDUVI4WHZRR0NFVDFUclhVUkVvRWVHaXVnaGFsd2FrSzdHOXJwcTJfazdQRnRWbTNsdUZoUW8?oc=5"
-      },
-      {
-        "title": "\"Krystek sypie w sprawie Iwony Wieczorek\". Szef Archiwum X aż zabrał głos - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOW9WQmpNYUxST3hqT2pQb1pyQkl2MEVhNjFibkpqN3ZadGgxaEtzbTdla2FUQW45Q0VjWl9ZVUVod1k3UUt0QWppbEppYktUSUJ0a091bVJ5S242akxRR1Z2cE9LRzBLc3JZSnFwN25XZ0dJOGdPY19PdjZndFhiU2FQX1ZqUHdMZE1lNEp6ZFdKdFhOeUpMaUQ4UG83Q296ZnhJbTJ0QXo2T3VLeDJBNmhqdlh0VWoxNmJOcHRUZFM1ZVE4M3c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-13 15:40:07",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Aleksiej Nawalny został otruty. Jest reakcja Marco Rubio - Onet",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDB4bjNrQlVNLTI1VzV0MTNFWnhwNDBwTzNFejlaU2M3bV9LLVBFVHludkRha3hNcktYeWMyREhJcVdvREtFNVlSU0ZTZk9rZi1fV2RaWXJ4SjBPMTVuOGNSVnFIS0NWSXR4NmlZUV90bkhCY1lYdFpvZlRxdHpST0VMTGkwV1ZmX1hNNFlrNnNNcmFaa01aX1BmWlZudHFCUFh6UUx5Wi1mcTYwLWowZ0J4UWdzbkFxUVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-15 22:18:29",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 243597,
+      "DOGECOIN": 0.36553,
+      "ETHEREUM": 6941.73,
+      "LITECOIN": 194.28,
+      "RIPPLE": 5.2
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Tajemniczy wpis Petru. Tylko trzy słowa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmlQVXl6X2d5Mm8xb3BvZDN1ZUxZZEFqa2w1S2paS0wyeGZqWkJobjFDemFUSG5MdWxvWTVRNlc3ejZRdklqS0NIWEd6NndFNTIzRG9ZUUw4a3hvQlItNEVocm9nejY4Ym8tXzZPMG92NUhsMHhrZk1ZdWZXYjYteWtUSUt6U2NF?oc=5"
+      },
+      {
+        "title": "Karol Nawrocki ułaskawi Zbigniewa Ziobrę? Prezydent zabiera głos. \"Powtarzam\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWtROXdiLW9NcmRKdlRyWDJNZ1BVYWJlREhiRmJuaDlKWmRTa3pvamJ1WmFHUHUzV1MybWpvbTRDdGtQNWkzaks3X1ZlSU13cGk3UEZWc1daMlBVSnBzazhRMUdfVzkwYi1HLTQ2LU5aSXRnakdJT29ld20yTUZla1ZJeFFDM3JzQXI0SW9lMm1CbDFlS3dvZGhBd0ZNSWppbm53M2NVM2d1Mzk2LWZIWHRUVjNsN1lWcW96UVdkZXMtZFd6ek5yRGZNd0lPN3c?oc=5"
+      },
+      {
+        "title": "Domański mówi o \"głupcach lub zdrajcach\". Nawrocki odpowiada ws. SAFE - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1dlN2tlWVMxRDYyTXZzcFZLSkN3d1ZMdnNIZWxWUVpoX19yckJMa1Z5Y3V0RW5xZnMxTUF2VmtHVHJaa05IalFzRjlyZDc0T2pRSzhSbnFEakRaWDZvVGVvYmwwd3dCZjB0QkozdWJnN3hqdFkwTk4tNTJMZGxINVhhUkFaSVhMMkY1NFZoNXFHb3FHRGlnMGdVNk04QnYtYmxBaHY2cEdJejJXYWc?oc=5"
+      },
+      {
+        "title": "Nowa rzeczywistość Kaczyńskiego? \"Groźby i apele nie odniosą już skutków\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLV9BVWwwUEF6VnRoTWdmeHM5SldETnlIZEhHR0M4dWpQektNcjh1OV9zTDN6N0dacGU4Tk9qV3NuUlFCY1pMUk0tbEUzMjlrU01VeDdxYlNwOGZIWXBkSzZRZEtydUZCa0pQTUZVeEpjUllGTVMwWmJqeWtKN1J6cWVLSkRxa3IybkROZlZVSWM1SHRZNVlrQlRKM0twSnBFN1kybnlnc25JUU0?oc=5"
+      },
+      {
+        "title": "Białe plamy na mapie porodówek. Zamknięto niemal trzykrotnie więcej oddziałów [WYKRESY] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUndTeVlqMjc3ZGZITmhTXzA2Zjc3ZkpLZ3hWOVdablNmQVNWSmtid2NXczVHemNvWFQyNENieXdJZS1uSmlkS0dfd3A3SmNuSzQ2anF5cU9hbDYtTEJ4NHNrNzlXdDZJNGtTZWRSZUgyaEJyeUNUak1fVkIwVkt6NHMzdWpxanFfZzVnelpZUkRULU1GR1BHdTlpcF9MS2Z1QS03dlJsdnRkaUFtZlFXZFdpZDhNSGs?oc=5"
       }
     ]
   }
