@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-13 06:54:55",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5441,
-      "EUR": 4.2131,
-      "GBP": 4.8374,
-      "CHF": 4.6146,
-      "JPY": 0.023178,
-      "AUD": 2.5249,
-      "CAD": 2.6133,
-      "CNY": 0.5135
-    },
-    "crypto": {
-      "BITCOIN": 235720,
-      "DOGECOIN": 0.328424,
-      "ETHEREUM": 6887.04,
-      "LITECOIN": 187.44,
-      "RIPPLE": 4.82
-    },
-    "indices": {
-      "^WIG20": 3417.49,
-      "^WIG30": 4378.42,
-      "^WIG": 3417.49
-    },
-    "news": [
-      {
-        "title": "Rosja awaryjnie ściąga swoich obywateli z wakacji. Wysyła po nich puste samoloty - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE52R2YxYXoyUGdMZzZMUW13dHZaOW92cW5hTjhPUmJmZmJud1VETENhMEMtdWV1M0JfTFg0WHZZMjhxQUlZWm9tNElXRnAxelpZQVVDVngtLS1hTEcyeG9lanotQ05ma3F5MzFiV2NhN1hkbHRuUk5sMUV4Y2trMFhieC1uT2FiclM4SjhqdFJDVjJzNjlaN1AtR2o3cTFDdllLRDlLbGI3R05QUUE?oc=5"
-      },
-      {
-        "title": "Skoro nie Ameryka, to kto? Europa szuka ochrony przed ewentualnymi atakami nuklearnymi. W grę wchodzi Polska - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdSSTNhS3Z1Nk84TDhUeXlNUTJ1MDlVWHRlbDRrbzdRYVhhVG1vNGVqWlg3SVdLUkdfc3BFYjlXOEttaEI3amlMRmZudTJObXFMZkdxdGlPR01jZHlzZkE2M0JDSGo2V25HRVpSQzNZempFc1JnR0hvX1FqVzFkU2M1OEkwOVVqYlZhRDVFUGxNUXVfMnRiZTVMclVJUUg2NjQ4REpKZ1FNMjRzaW9sSy1qQ24?oc=5"
-      },
-      {
-        "title": "Dziennikarze Onetu nominowani do prestiżowej nagrody - Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVVZS0pLN3JOV2FZMHlQYktlQmM2c2NxV2E0aDVUWUhTeEd1cGVMYjdDaThPb2NaM2pFaHpRempMZDROS25LeXgtb3JZSUZ4dXFPaUdQY0VvaURtdGx4UzZtU1pGOTFuVUxXWVdRNVJUNHh3UWtYaWRITEFrd0VLQnl5Q0J5RV9fWUVEYmRZS0F4clFjRVFiNmFJcTNpbWR0M3JOTFVFZHRYa3Blb2NRQjhDTmdrZw?oc=5"
-      },
-      {
-        "title": "Odmawiają udziału w Radzie Pokoju. \"Sypie się pomysł Donalda Trumpa\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamgwNFFxQk51VFJJNmllRU1FX0dXMVVObkdIZlRmX3V3bHhyTEdLTWwyeThveThkZ1p4TV9aX2lLbVZpcjNqbmQwR1JaZTRvNFlVNWwyUV9yV3VYcEVNZGxPekxWbkdCeU1RS0k2d2s1bms5MjZOZFlhNHJhY1N6eXVBMjVYWEJnWk5heUVSemdkaFR6TlhCYkZyRC1ZdnBWN3ZId000cDlmWWRO?oc=5"
-      },
-      {
-        "title": "Sejm będzie wybierał sędziów do KRS według starych przepisów. \"Prawo jest prawem\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejJ3TXphVmNBZXk5QlhuUkJRWmcwaW5CUHI4ZDZ5RXlQazBmYXJkaE1uTWlPM1RRdDEwellSRVU2MnVjajBNS0k5ZG1SRjRZVzJpRmZJS1NCaFc0clNmc1AzaWhueWhGOXpEY3dzRnl3cV8tbzc1Sk5DSEM1RWp1SFdzbHNpRm9jcDZKQVk4eVRkTWhCTHFvY2NQUEpqNWMwVVd5Vg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-13 07:52:38",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2590,6 +2538,58 @@
       {
         "title": "Zaginął turysta w Tatrach. Szedł na Orlą Perć od Zawratu - Onet",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd29LLUdtOUYxYnY2Z1NDMm5XVGJmZlN2bkZpd3ZUblF1bFBsZnFScmo3NFNZZGpfMXlLS2FCYndKWTkwSjJLM0FsMTU2NEN4ZGdINllLd2lEcU1UeGxOS1Nzd0t5azBmN1VtaG9VWGlyd1M3dk42NW1YR0tSV1MxMlduaFdkaVoyVTZzREJiOGg1UmdtLXRjTl9xSXRXOGJWY1FDWUZILTlocW1DRks5cEpyUVM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-15 14:40:21",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5528,
+      "EUR": 4.214,
+      "GBP": 4.8398,
+      "CHF": 4.6163,
+      "JPY": 0.023144,
+      "AUD": 2.5125,
+      "CAD": 2.6116,
+      "CNY": 0.5142
+    },
+    "crypto": {
+      "BITCOIN": 244817,
+      "DOGECOIN": 0.385159,
+      "ETHEREUM": 7134.74,
+      "LITECOIN": 194.47,
+      "RIPPLE": 5.41
+    },
+    "indices": {
+      "^WIG20": 3359.49,
+      "^WIG30": 4310.46,
+      "^WIG": 3359.49
+    },
+    "news": [
+      {
+        "title": "Domański mówi o \"głupcach lub zdrajcach\". Nawrocki odpowiada ws. SAFE - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1dlN2tlWVMxRDYyTXZzcFZLSkN3d1ZMdnNIZWxWUVpoX19yckJMa1Z5Y3V0RW5xZnMxTUF2VmtHVHJaa05IalFzRjlyZDc0T2pRSzhSbnFEakRaWDZvVGVvYmwwd3dCZjB0QkozdWJnN3hqdFkwTk4tNTJMZGxINVhhUkFaSVhMMkY1NFZoNXFHb3FHRGlnMGdVNk04QnYtYmxBaHY2cEdJejJXYWc?oc=5"
+      },
+      {
+        "title": "Skandal korupcyjny w Ukrainie. Były minister zatrzymany na granicy. Chciał uciec - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWFneVJJVFNYYTZvVGcxdW9hd2hGa0J3SENSRjFPM0ZSLTRvWnNwMmt6S21JUm5BMDZQcm1RaUNFZGNEYWtfdjl1MWNlZXJETkNvSGFMTjRIWmQtWWpTTWNWQ20xNDE0ck1NZkVISEVUUzlxeGJKT3prUXRxa3BGekVmM01WRXg5Q1g4QVhGNDZYUzlRTEp4aVdoOEF5dmc5d2paQ1BrNDVWb2V5Rk1GVDQyd3V4SlR2TWVZTU5wX1VxVWN1eDgzTXhMUlgtTEFE?oc=5"
+      },
+      {
+        "title": "Polacy ocenili reakcję Czarzastego. Spór o Nobla dla Donalda Trumpa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVFfbTE4MG5UUFVxbWFicEp2Z0NZN2dhZWZtSTdXU2E1c3haMFJvN1hwZ3l1cjY0LVZXVXhKVkFELVhReFVCUkdNSHY0SnBMV05UaXlCRlNGQzJ2MlEyOW5XVWQ5TGhHbUdpX1JzMGNvNDVlUDN5Q3BqNUx4cmp2TzAxTWhFWnhRdUY4N2JKeVVMVS1kLWxHR29EWXpMeDVjenRPZGJxVDdCSldyMGc?oc=5"
+      },
+      {
+        "title": "Czy Zbigniew Ziobro zostanie ułaskawiony? Karol Nawrocki zabrał głos - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkNySEVEdElLSzczVUQxOElXMVJScHpld25DTXdxa1FpXzNpcXJVRldUY0dMYURPYXdvTmtORWtUUlBJUGVDY3kzSlloemdZU0FmeVpqNzMzeWVLLVpNNE5uY2tPOF9Ib25SVGM2eXlVT1I5bWtNMWhjeFYyMFFYMi1weXl1eXg1OTNYRTl5QVJYTWNDdjIxbzIyU0J6a0pJemt3M0pueC1CVDhPenZrUV90X1VZUQ?oc=5"
+      },
+      {
+        "title": "Śnieg zasypał Kraków i Bielsko-Białą. Trudne warunki na drogach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUo1VGtmTUlsQU5vWE5LQlI4TGJ4c1AxeFlHRDZYN0twNWNBV0FkQnZYSzIxVW1kUmNNVThPSWU0b29KQnF1Ti1pamo4bUxLdV9TUTV6MDBjQ0ZFQTU4Vi1mNnF0TmhibThWcWlFd05IVW1MdWVlZEY1MnNDd1BrcHpJM1QxcURNNXVfS0hVZ1hwZWVHS0tjLW5nMVBmZHpTQmxqLURQcGFkSkJsRk44T0VJVUt2OGJUY2Y0MFhR?oc=5"
       }
     ]
   }
