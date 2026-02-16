@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 12:17:33",
-    "weather": {
-      "Warsaw": "Warsaw: -2°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: -4°C"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 248536,
-      "DOGECOIN": 0.350868,
-      "ETHEREUM": 7420.53,
-      "LITECOIN": 197.27,
-      "RIPPLE": 5.16
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Marco Rubio na Monachijskiej Konferencji Bezpieczeństwa. \"Nie chcemy upadku Zachodu\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ09xYXZIdmZsOE5aRjJ0ODJ3N0xleEZEdUN0M1ZHNFlDQXl5N0lBMmdwdjVFZm1idmZnV285Z0o4bGl2MWMwWllnZkU5Mk5SVWhqVDF2ZC0zRGI3SE80a2liZUhaeGlXNXVQZDJySk5Jd3NIc0ZvZVR4OFg2ckF1UGVIOTNTam5ZT01oMXczUGZIVEUtLWN5SzdKbmJXZWsyLWp3?oc=5"
-      },
-      {
-        "title": "Sąd Najwyższy czeka wielka zmiana. Małgorzata Manowska podjęła decyzję - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEpoRlgySUdpOVFxMXNhcFFLN0xFZGMxY0RxTUg4NExBT0pfZW1fM1FDd0tXMTVaUmdnbnFRdFo0RXpfMWlodDRxNFA4R09Gd3J6NlFUR2J2QW15eHREakFfZ3o2NmVPeEF4aFVQTlNCMl80b3gzUUJyVEpENnZ4X0pRZzR4Q082QzFweENZWFNGUV9SUjBaNTE3RkFmZ3JWdUlHalZ0ekk4YS1kYXc?oc=5"
-      },
-      {
-        "title": "Zima ponownie zaatakowała. IMGW alarmuje, tysiące mieszkań odcięte od prądu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHFNOGNOT3VRMHFsVERCcmFCbGhlT1JTUkFjZ0hWMWhPT1AwTmxiUUlKTzlkdmtfSi1Oc095OW5BU01iOWpmeGhlelZuOVc0X0xBZnV2NEdSS2N1UF85SFQ3SnNYLUlkMTZvdzM3MzJNLUN5M1hfYXN4RENSdlJfakJ0cE4tX1dHNG1zNWx3RlFSSFc1OG5hbTlOYjdrdWxPLTZCQ01Yd0x3MFM5czk0M3h6aFNiVW8?oc=5"
-      },
-      {
-        "title": "Gubernator Kalifornii ostro o Trumpie. \"Próbuje odbudować XIX wiek\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUpmTEpkbWNZSFZ5MWRkWmF1ZjdFRDVtR2xzYjJnQlBVc0VTRzhKNjVrNGNYYkp1RXlIc3RJV2RKNEw4SnV1R2I1aThJMXk5VS01bldzTEw5bW0tV0djNG9jVGgxWTlhR25UbDJ1clVqVko5NktVWElpVU45b3lrZHRzRWZXbFY5TG9iY3oxZGdLUUFDVjhiaWZvV2x5TW9nUjNwRXdFSTVaZ2s?oc=5"
-      },
-      {
-        "title": "Horror na ulicach Krakowa. 38-latek usłyszał zarzuty - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2JpRTAzajl2OVdHeGRHTjNyY2ZPNHk2Y3hCbF8wSENrM1NOZVVacmlodnNFOHlFY2Vxc2VzcFBxY3FyLTdZWS1CSUdHSlBUY1BON053VmhXWWVtTGNpN3pEQzFQRlpQWUxzMTNFUDVER1BnR0gzdDJIUXUzb3VmWDQ4eUJwSGpyUjVwQzEzV3B4OUdweW9kS3NZM19ZSU5NMXJV?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 13:33:47",
     "weather": {
       "Warsaw": "Warsaw: -3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Rachoń ruszył w pogoń za odjeżdżającym Ziobrą. Nagranie obiegło sieć. Teraz może mieć kłopoty - Kultura Onet",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdG5oZnRucVVYTWw4ZEZDc3RrcmwzQUhDbWJUYlVOQTlWeS1zMXVacXRrX2tOT3NETk44NE5RNVNPWEV5c0p3TjR4Q3AyZV9PMDdNTVF1UWo5VkFYTWhHOXVNRmFsRkY4encxV1hEM09IU0lySjBpNTRneWowWUczMUtqd1ZNOFI5TmhnOXZtd2pwQ3ZnTHVVdTFTUFI1U0c2eEdVUTFoMUxfU0F0aTUxdm1hUXJRQzQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-16 22:23:10",
+    "weather": {
+      "Warsaw": "Warsaw: -7°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 243527,
+      "DOGECOIN": 0.357873,
+      "ETHEREUM": 7073.52,
+      "LITECOIN": 195.58,
+      "RIPPLE": 5.27
+    },
+    "indices": {
+      "^WIG20": 3364.33,
+      "^WIG30": 4322.56,
+      "^WIG": 3364.33
+    },
+    "news": [
+      {
+        "title": "Brutalny atak w Zakopanem. Kobieta ugodzona nożem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjlHM3prWWsxTGg3eS1FWVJWZG5PdHNWaFkxcGFVanBhR0FvMGdSRERvWWRHampscVltdkUxalg0S0ZId1l4RkVZQWs0cXJFRDVJZS1kcnFvVjRkd0xCa2hpR3RWcEcyU3JXR0l4d19NdU9hajR3TDRXUGllU1hfZWtZQzBXeGlVWE1PV3JfWC1VRTA3RmtPWVNkWmxMNTFXX1c2M29VekdWWEtDZ3c?oc=5"
+      },
+      {
+        "title": "Norwegia ostrzega. Rosja może zająć część terytorium, by chronić arsenał nuklearny - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamxEb2F1ZHc1OVczeFVlZ0N2SUJVSjFsa05LczRzdWZyN1dKczRIWFhRWHJQZXcySFhlV0ZRbFBDTEhTMkdjaGZzYVNEZURCT3l5VzRlSW1sQUQ3VGp4MVozYU9qbm1ZRFdURkRySzlvZWlrX1hhZjZnWjAydzNEX3FQOHdrVndMeUV5QTFDUTBKOTBMRFgzXzA1b0dXTFJ3Y3dOZl80QVZGZVJ3WnFqMVhlS2U?oc=5"
+      },
+      {
+        "title": "Śmiertelne potrącenie przez pociąg w Krakowie. Nie żyje młody mężczyzna - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVVnblRkaWNNNFFzcEhydUJzYU1UZ2wzbkFPaFdWY01OZ3hueW11TkRITS0wNUFYZjFrZjhiNnBwaXdYSTZYcUNyU3pTTGs2MzhvYm0xQjFoTXhLT2lqNDVBYWFySlMtOVh0NGJEcndQTjBuaFlfeUs1c2xPYzdyTHMxbFNYSE9mSDBia2NuSjhjSTNFUnVfZzBzMnV2Zl9MTXVsd3V5c0J3QjlucTZZNGJ3?oc=5"
+      },
+      {
+        "title": "KO zwiększa przewagę nad PiS. Grzegorz Braun rośnie w siłę [SONDAŻ] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGxYVVAwU1p0SlZELXIzeEdsc1RXVHZONzl0WkZpd2NuMHNSNmxBdWVQYUt2S0xiQVJ5RjJXaFhOaHJEUjM1akVhSnEtamM0bEFGVjFhLVRQdHRRR2pfei1UUlFKZjJkZXcyZkxxb3dRVmZLNGNPdG9xUjVIeWpOQ3dTbjFZM1czbWJzRURGVkN3SDRHXzhPZXNzcnJ2bUNuTXhia0tTVXdabVpmVDc0ZEFZR0ZQQ0MydVRvOG1VUFRzMWNLa2c?oc=5"
+      },
+      {
+        "title": "Coraz głębiej i coraz boleśniej. Mit nietykalności Putina kruszeje. Ukraina toruje sobie drogę w głąb Rosji - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV1RablVwU2xtUnpRdk5ER1NERDh1RUpNcmJuc3RoQzlrM1l1MlZHelg0ZXkwVkxKbHNmMDZwVExoSmRoSmt5ZnVZaXF3bkFXY1QzNWFvNU1mQVFIWnZBeFhzMEs1aTFmRlVKZU1FVEdwLVNpNXlpWFQ4U09sVnZWMTdTc181YW1DWTB1ejFvX2gzaG1zd3UxX09qcXVtTTUyQkhIMG40SjJ5LUZHbEh4MlBrbk5HZF9oNWRUYVV3LVdTU2tYWUoxR2tlTUg4N1Y5djQxazZyMFlnaDA?oc=5"
       }
     ]
   }
