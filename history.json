@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 02:26:05",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: -2°C"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 244805,
-      "DOGECOIN": 0.343394,
-      "ETHEREUM": 7286.36,
-      "LITECOIN": 196.28,
-      "RIPPLE": 5.02
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "\"Proszę z nas nie robić idiotów\". Komentarze po wpisie ambasadora USA - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzJiSEpyQlpMYUpheGtHcU43eUFBZERqZFhHMkRwWnlMUkJIdlVPT1B3cEpjb2NrY0l6Zi1WcnFOR2ZuVS0zRWpyZHllN2c1WU9EajFMWUVYUHRvMTJKZTVYa1JsZkRNRUM3dkJrZWdYaXhoQllKQlNFdWk3YldIX0ZRTGV4RU92MW1iWWM0UGR0WFBXcjhkRVF5c3F1OUtvUHU4N2UwdmlOa2xtemc?oc=5"
-      },
-      {
-        "title": "Prezydent apeluje do Włodzimierza Czarzastego. \"Proszę o odblokowanie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzhrRVNVWFRwSTFHRlNjWjVrY2VRQ0lSUFZURlVrYjh6RFNWTW9BWnh4MWVxTS1Vc1h0QkFUTE9XY3pfSk1TZVQ3QUczN2s3MXBTaHBfbVR4UkJJZlZnWTZHdWVaSko4ZHN3ZGd2LWhTMVM3LTNJSkdTbGRFdGNIZ0JNY3hnTlI5R0dXcWxFcjR3RExQWVlteEkyeC14X05TUGl3djlhVzk5djdHUElRVkt0ZnY4eFhudnhmdjZpUUctZWhzbmRHdmVB?oc=5"
-      },
-      {
-        "title": "\"Atakują w dziewięciu kierunkach\". Kijów rzucił do walk czołgi Abrams - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclJPSjFfZU1fVHBNLU5oX0JieFFHVDlERHlOc0c1WExZYXB4Z3Znb2ZvVFdRSVcxRGh2bHBHWnV3UGoxcUw0NURGdzExZEZXa040TjFIUjBJRm5GSjcyOFdVNlc5S0NzakhGNHZrd1BXNjdTVWFyRWNPR3JCUnZmbG1xdE85aFFTZlJJTERPd0FfdDRjeXIyUXlBam4zWXBZVWE3NGt2TWNKN0dZTHBVblVNV2tQbVZPcnlwUndhTFgxcGJaM2U2bA?oc=5"
-      },
-      {
-        "title": "Test hipersonicznej rakiety. Europa goni mocarstwa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRll4MFU3dW1SN09UTUJfTE82SHd6RHl2Q0R5NVlWaDN1czNHQ29XUlZ2NFhtTmJ4VkstWUJIbjVLcllLN0Z1VnhBTTlWVmlJZF9oN1o1VVR6Zk9XTjBmNUdKT194OG94SV84VUVVaTh4dmFLNWxMWGk4ODRKa0dHazlVdXdsSTR3T0JYb2dPQ2RuMHdNc2V3?oc=5"
-      },
-      {
-        "title": "Największy lotniskowiec USA jest w drodze na Bliski Wschód - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONklMQmNvQ2V0Vi1pOXV0NzRJTG5XSVdRemlKMEN5OUdsQm9CRnh2R3ZMaTltcW5Gd19IS3JwZTl3bzYzcTFNNGdGdGhEaEx1amhEMXY4QVhJX3ZvUW1TYUVYNWVUMHNGWEhYTXhZSFdISkZiejVrRGZwU1dDZVJxY2ZhMUlJVVlJSXJndnB4RmI3UHlDNlFkNkdjNHFWM3VBNnFz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 05:04:29",
     "weather": {
       "Warsaw": "Warsaw: -1°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "S7 Kraków–Myślenice od nowa. Rząd przejmuje nadzór nad przygotowaniami - LoveKraków.pl",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdlZuQU9HZlVvNTRNeEQzX09IZkVTblUyZUNqdGU2UjlPYmlzZlhCcXJBcjh5ZzgtZzYwc1kzb1J5cTlNSFNLY0tCZl83Z245VFZiTXpuOFR3RTFDbnRqa0RxdXJIT3FYd1lqOW5ZRGduUUlnVlNpenJieWM5U2NWaHlEdEd5THNPUnZycFhSZDFNMEIyX0E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-16 13:49:16",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 246372,
+      "DOGECOIN": 0.362623,
+      "ETHEREUM": 7086.28,
+      "LITECOIN": 193.29,
+      "RIPPLE": 5.32
+    },
+    "indices": {
+      "^WIG20": 3363.26,
+      "^WIG30": 4322.15,
+      "^WIG": 3363.26
+    },
+    "news": [
+      {
+        "title": "Zima totalnie skapituluje. W prognozie na 14 dni widać uderzenie wielkiego ciepła - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcWdVSlJRbFlOUzZxTTdESXhRRE41bFIxYmZmUVlnOVBjMjFJalhGZ1hrZmFoemt0TVhBd3JaQzVDenBfeDBXQ1QxaUZpV2JocElxb2Uxbnk5M3JrQ2NETGNucGx5M3c4QW5RZ0FvTFBsTW1GdjNFdy13LVJnalhyTndhTk9FM3MzY1dSd20xSU1Ub182NlNmcGprNjl1Rzc3ZGlqTlpNWHpPMlZ6MV96VTBwNUpOYzN0WWhEV1daUExwODY0UVBYRkJ4dw?oc=5"
+      },
+      {
+        "title": "Szwajcaria. Lawina zeszła na pociąg - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVFYVl9ObGFvbEhRSFdsZlJaZ3JZLUU4VnU2aE1tV0hUbWdZbngtNHdxSm4yNFVDZUo4dERxNkU5MGNGaG52cjhRU25iZVdWSm1Zamh2TG95U0FrRWNOVHZpZHBEeHhXVk9Cdk50aUJleFNZS3lVS2MzRUNHZzFlQ0UtTQ?oc=5"
+      },
+      {
+        "title": "Poseł Polski 2050 prawomocnie skazany. Wyjątkowy wyrok - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283OFdvNkxpUGY4czFkMXhzel93MjE1eUxYU3RCSDhHYUwtbWhiTnBFTXYzbEZvQ2ZHY1I2V0JPbUhzeVlnZlNPd3JTdEtVdUZ0RXhQY19MVHZ4V3dGdUpaREJYbzVPSWNwNF95UlYxb3VZMEtrZjhZYjljUEhvZ09JVUs5QTJSR29JTXpQOHZGTmo1czZRNUpaVQ?oc=5"
+      },
+      {
+        "title": "Z Lęborka nie jeżdżą pociągi. Powodem zerwana sieć trakcyjna - Dziennik Bałtycki",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnhXYkhFeXMwUGg2UDNxWFc4YkxsamdMUkdTanZPUjRXb2ZGSXA1UkM2LVF6dWstS3dzVVNqRjAyUE9ULVhfbUp0VGNmSGFxa3JqYTV3M3lDQlBZU3ZRb3pvVWE2VnNrdXVVTkxJZ19leDNoSFVmMVE3eUtYSlZTN3Etc1V1QWdYeU1sbDBFRlZMWUY3Y05DZXRodWs?oc=5"
+      },
+      {
+        "title": "Grupy przestępcze przygotowują się na koniec wojny. Szef policji wskazuje zagrożenia - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUU9kaUZNQmQ1aVlhdk1SYzNOV2dIR3FJZGJaYzE4RzhtT3RyVWlGaTBJWnF5S2dVc2VSMGN6WWY3OWJjM3p5WlJSeEt0dDJFcXREZlFnVmFTVkFubVlXMDhRVFpZYUdNY0syTzczd1FmU1NWNWxEZlhvaGdRMXBoQ2xqbE9NbTQ3eDZIaS1NSGJKYkZ0Z1RqUHQ0d09KaEtTcFpDR3phLWVJSUF5c211dXJLUlZMLUhlaFZuX0V2YUk?oc=5"
       }
     ]
   }
