@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 13:33:47",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "Krakow: +4°C",
-      "Gdańsk": "Gdansk: -4°C"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 249490,
-      "DOGECOIN": 0.355365,
-      "ETHEREUM": 7422.18,
-      "LITECOIN": 197.52,
-      "RIPPLE": 5.22
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Marco Rubio na Monachijskiej Konferencji Bezpieczeństwa. \"Nie chcemy upadku Zachodu\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ09xYXZIdmZsOE5aRjJ0ODJ3N0xleEZEdUN0M1ZHNFlDQXl5N0lBMmdwdjVFZm1idmZnV285Z0o4bGl2MWMwWllnZkU5Mk5SVWhqVDF2ZC0zRGI3SE80a2liZUhaeGlXNXVQZDJySk5Jd3NIc0ZvZVR4OFg2ckF1UGVIOTNTam5ZT01oMXczUGZIVEUtLWN5SzdKbmJXZWsyLWp3?oc=5"
-      },
-      {
-        "title": "\"Uznała pytanie za faux-pas\". Ekspert o zachowaniu Marty Nawrockiej w TVN24 - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc19KRWtVSUNDVGFZNVBmbU0tUFpmQzdCSWZZVWJnb2hEdTVaajNhRVhsZ280MFR0YXNjVkdPN1oyQl9nd0JHUFYxYmNoNWptWERDVE9iVl9VZ2x2enZrQkkwQ1dTX25EVThNc2FCSnBqVUhGTkdWeF9Oa243aUxkbjJNbC1ldUFZTDB1YnBLTGgtMFF6U0ZlcWRVUkppVWpMLVRTMkpBWjJXNVRVZE4wUzk1azZuTnByQWk1MHdxZW05cWl5bU1J?oc=5"
-      },
-      {
-        "title": "Zima ponownie zaatakowała. IMGW alarmuje, tysiące mieszkań odcięte od prądu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHFNOGNOT3VRMHFsVERCcmFCbGhlT1JTUkFjZ0hWMWhPT1AwTmxiUUlKTzlkdmtfSi1Oc095OW5BU01iOWpmeGhlelZuOVc0X0xBZnV2NEdSS2N1UF85SFQ3SnNYLUlkMTZvdzM3MzJNLUN5M1hfYXN4RENSdlJfakJ0cE4tX1dHNG1zNWx3RlFSSFc1OG5hbTlOYjdrdWxPLTZCQ01Yd0x3MFM5czk0M3h6aFNiVW8?oc=5"
-      },
-      {
-        "title": "Dramatyczny wypadek w Małopolsce. Młodzi ludzie trafili do szpitala, interweniował śmigłowiec LPR - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGp1WXVyb0J1THVPWFFXdTBHVWxzZkhrdUdDUWo2ZG1oemdxc085bGJrWW5RVDdKMTZzZUhvUzlkRjNqX0pSaFJNWjhIQlB4MGp2UUJIRHR1UTVyOTY4dnYyMy1oazAtQjRYWVZjN29veUg0TU5XVWpMdU5EMmxISkVrdHJ2QkRKdnJqQVlDWE4tbWZ0U1RlMHhNd0FwZlcxb1RZNWxEaW1QLUxzeXpHVFd0TXc2VmUx?oc=5"
-      },
-      {
-        "title": "Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 14:39:38",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Coraz głębiej i coraz boleśniej. Mit nietykalności Putina kruszeje. Ukraina toruje sobie drogę w głąb Rosji - Onet",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV1RablVwU2xtUnpRdk5ER1NERDh1RUpNcmJuc3RoQzlrM1l1MlZHelg0ZXkwVkxKbHNmMDZwVExoSmRoSmt5ZnVZaXF3bkFXY1QzNWFvNU1mQVFIWnZBeFhzMEs1aTFmRlVKZU1FVEdwLVNpNXlpWFQ4U09sVnZWMTdTc181YW1DWTB1ejFvX2gzaG1zd3UxX09qcXVtTTUyQkhIMG40SjJ5LUZHbEh4MlBrbk5HZF9oNWRUYVV3LVdTU2tYWUoxR2tlTUg4N1Y5djQxazZyMFlnaDA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-16 23:20:40",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "Gdansk: -11°C"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 244445,
+      "DOGECOIN": 0.356808,
+      "ETHEREUM": 7085.45,
+      "LITECOIN": 196.16,
+      "RIPPLE": 5.28
+    },
+    "indices": {
+      "^WIG20": 3364.33,
+      "^WIG30": 4322.56,
+      "^WIG": 3364.33
+    },
+    "news": [
+      {
+        "title": "\"Lepiej być w Radzie Pokoju\". Czy Nawrocki posłucha takich rad? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNktJYnFXOUJKZzhiSWZrRGc3cWt4enF1cllTdTR2Y2hoVnFTSTg1ZEFNRVJNT1FEdm42djdub0hLZGhLdHMwc1V5eTZUQkstR0tCWEw4cVBrUWRZMThpYVo1U1BuaVVoMG9RcjlWN05Sb1BZaVNFVnBmVnRhQi04Q2MxUUlDNUhaRlJoNHc0eGhXUVRiYlpuUGRnUFBjWVZaMXZUXw?oc=5"
+      },
+      {
+        "title": "Norwegia ostrzega. Rosja może zająć część terytorium, by chronić arsenał nuklearny - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamxEb2F1ZHc1OVczeFVlZ0N2SUJVSjFsa05LczRzdWZyN1dKczRIWFhRWHJQZXcySFhlV0ZRbFBDTEhTMkdjaGZzYVNEZURCT3l5VzRlSW1sQUQ3VGp4MVozYU9qbm1ZRFdURkRySzlvZWlrX1hhZjZnWjAydzNEX3FQOHdrVndMeUV5QTFDUTBKOTBMRFgzXzA1b0dXTFJ3Y3dOZl80QVZGZVJ3WnFqMVhlS2U?oc=5"
+      },
+      {
+        "title": "\"Szczyt bezczelności\". Tusk dosadnie o konwencji PiS - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXdzSlBhM1BEY3lGaFJ4ZWNHUGFKR254aTN1OVlnZS0xMEVBaERlQ3NlR1BiaVRLS0JteW1IeDVHXzZ0TURwcndORHZsQ3VaZlJlOHVmUGZyRHYxemEwNENTcUZ2cklMSUtVZEdFNEhxZU9TTHlJMVdrR0ZLRmlCVEJ3WTlQbnF6MjFoZG5BZjNCelp0dkRv?oc=5"
+      },
+      {
+        "title": "Pożar w bloku koło Warszawy, ewakuowano cały budynek. Ponad 10 poszkodowanych - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkpCWVlaMS1BU2NSbk40LUZvMWJ4cWo1Qk9TeUUta0tWWlBnUVc1RTJMOGg1YnBqUFg5VW4yUUMwZG1HQ1lzTWl2Yk1sLWc1Wkc5d0lSVFBlSGRXNUFJbjRVQW9ZM0h1ZjBJR2pFQVNZQmM5VjhZd1ozTkpra0Y4anl2SmdiRU9XTXh6SGFMWmtITHhCTXRORGxTYTVNQ1dxS01aZXRXMFJoNEEzRVQ2cFB5OF9SaUFCSXZ1aGxWWGI?oc=5"
+      },
+      {
+        "title": "Pioruny rozchwytywane. Chce je kolejny kraj. \"Poważne zainteresowanie\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcV9lenh3VzB3Z0pzSURJU1JsaUVTNzk1ZndzMFQ0WE5lelJUZDVVajY2NzhnRWRHcFlPbjhlR3JMelRUaDFETjY1UElPZ2pqWUxPNWlVTnRsYUtqUk1xNm9JVVFZTFNsSEw0SFFRNzQ4NTJLVzU4SFZ0RjJ2NHg1Z2c1eVkzVDZVTVdVbDlyRkdBSEg1c3A2Q2RfaHBqYnpEbHVKem9XRmx1dGQ4TFotTnZfNXhtUDIzdm5zLUl3?oc=5"
       }
     ]
   }
