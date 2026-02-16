@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 10:24:26",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 247170,
-      "DOGECOIN": 0.346241,
-      "ETHEREUM": 7376.24,
-      "LITECOIN": 197.57,
-      "RIPPLE": 5.16
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Trudny początek weekendu dla mieszkańców Pomorza. Tysiące osób odciętych od prądu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmJmaFc0enlDTjl1ZXFHTklmcVFqT21zUE5OU0d2RHd3SEFaaTlDNzc2S09DMEdJRG02UUlsN1B2akVFWmM2UUVpcWV5eFNhYTVwczdjQ0ZDbS1LZkhGdVFtWkxlbnZTUTNhNlZld1hmSUxtV0JOZmtRVmtOLTRMQ25EWTNaUTNpYmtQR3h1V3h3Q2xyU0M4RUxDSmpjWklBMHdoVVU5RQ?oc=5"
-      },
-      {
-        "title": "Korporacja biskupów nie chce prawdy. Bo to ona będzie oskarżona [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW02RHg4S0QwMVhLWnpmR0RId0lEWFZ3TTdUZ2RVTkZ6NXdRbEdZWHhVY3h2Q3kxTEk4S3Rfajd5ODZyOWxtMnktZzVuSVU5bF83SkNNRFltbThCU1ZqYXRwaU1FZno2T01zRG96WVRrUWN5bXZhMHNydUF4dzhXTzhWRDdXZ1hGYTM0aF9vczluRGZfMEg0cHFRRVBUTV85cTBkeVYzUk1mNWdlSlhQdUNn?oc=5"
-      },
-      {
-        "title": "Koszmarna pomyłka Włocha. Wyrzucił złoto do kosza na śmieci - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazBTdTJqT3pRVUtBcE91VUdfUDNaUGk4QU9PTm4ySlRWU0FURmxVenBHWWxSNHdkakg1NUtsRVBsblFOUE02bGItTlN6VC1DR0kzU2x5Vm0tbW05YnJSVEhPWERvUzVHbW9uSXM5TWdub2t0b3dSLW5fMzJzTm9Pbmt3YVI5clY3ZW1aVnVyYVZhV3hFZlpPbzlVX1RfdVdXVWZV?oc=5"
-      },
-      {
-        "title": "Psychiatra \"od zabójców\". To on bada, czy mogą stanąć przed sądem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTVPSks3RGxhM1F3N1paSllGUXVWSHN5eTlVUVAtd0p3aW94Rk9IaXJvaklSVXB3RUtJMHMyWE9yLXBPTjFDbXZuWlpIMDRKaU9XM3B5eWJpc1V3QXZwWXc3a3ExZTdZdlQ2LThaRUdONGYwYTNUZE5Yc2Jlc2w4LTNXeVVlUFkyOTAydTk2UE1naktsTnBEcVQwSjUwTWhzOU1jaEpIQQ?oc=5"
-      },
-      {
-        "title": "\"Najlepsze, co mogłoby się wydarzyć\". Trump chce zmiany reżimu na Bliskim Wschodzie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONi1PYXBmeVJDSm05bkh0UnpYckFDWEZjbmlKNkVHLVNFM29pNHh0d1VONzZfVmJtWDk1dTdDelowWkxNMmx1VFU3ZW9RT2w5UENlQ0lZdmx2VGdSSHM3a25wTVBNMERtZG4xZlM3WU02UV8tdmc5T3lidng5Qi1wcXN6V2NrSlJTS0QzcU9EQUI2OWtWMTJXMGNBaUJMaFFZaEFpdGtlRnBnRVdpVUVtc054MmFJOWpab0tLOFZFRmo2Mm4yLUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 11:19:57",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Burza po wywiadzie Marty Nawrockiej. Opinie są skrajnie różne - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzl1Q0RqZXo2WHgxNVd0WGFWZlI1NFhNbzBXUDY1YzBFc3FUVUNTZjNHOWhGZGI3UEhTbWxMV0NPMEtHWUhReE9GdTA5a19fXzRQRndfVG9mcHJaaHJzYjZBVkdJNmluRW8wMG42anlxdlUxZVM0WUFDWGlOT2VISmZxcEYzRS12MHBILW0yVURzbDhER2tJSGZWMldpSEZDZXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-16 20:28:33",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: -5°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 241644,
+      "DOGECOIN": 0.357589,
+      "ETHEREUM": 7009.53,
+      "LITECOIN": 192.05,
+      "RIPPLE": 5.25
+    },
+    "indices": {
+      "^WIG20": 3364.33,
+      "^WIG30": 4322.56,
+      "^WIG": 3364.33
+    },
+    "news": [
+      {
+        "title": "Michał Kobosko rezygnuje z członkostwa w Polsce 2050 - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHRlN1I4WldKWFpRNkRYampEMWE5MlNTdmQ4UDNONE1zYV9GaHZVSHlBZ2xtaEl6SkctSTRlMnVTejRINUNjUGltSjZnVll4ZHBFdmhBbW84OVgwQnUxd2xxQzRUaHhnbVJxZ1QzZ3dhMWluNDJFeGY0Y0RSTVlBOUlDSTlKX1JrRzRubHc1cDRpSXctUlNn?oc=5"
+      },
+      {
+        "title": "Rosyjska ropa nie płynie przez Ukrainę. Węgry i Słowacja proszą o pomoc - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUE5jZzRrb0pEY0hJeFNlRS1ZV2tQaVVYX1AtekdkemVydWVoUzRGV0lWSVpEV25IOFllQWhoZkVzWjh4ZDVVcEU5YkFFX0xiemF4ZGhuMmR5LVJBTHNMa21VTTlnVVROVUNnY2xqbElIZjBuVHNpWW1XQ052RnBnZ0c4SG5JNFRlSURZd3g3VWxvUUtiblhWMkUwQ1J3VWoxUDNySGpxZndfdktpQnA0SWRvekEwWWdhakdwN2FqMnlBTkE?oc=5"
+      },
+      {
+        "title": "Najnowszy sondaż dla WP. KO umacnia się na prowadzeniu, partia Grzegorza Brauna ze wzrostem - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa0JKSFVqWDJxSG5KUUVQQTk1WFZVR3hwNUZiaFJZN2NZekg0QTVJTzZ5VHdOZlJhUTg3SzhkTklpakRQQTc5NEdfOElRamRZbmhpX1d0QWM4OGgwcUpXZmxOT0VOV2xMa1ZIYVlTMGVIQjhGZlQyaUg2anU3X2d6dS1tbHNlSkx1OXNEbEFNRFc5UWt1a1A2b21XWmJxUjdZUlV6YllJTEFMb2JUV184RXY2cmZNcHRWUm9pYUd2YUlPZXU4cnN0UzFlQU0?oc=5"
+      },
+      {
+        "title": "Ciężarna Kasia zginęła w wypadku. Mąż 26-latki zabrał głos - o2",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1dmNXVMd3FtU3NfSDZIbUhOUFNETEs5Wm9wb0lTQUtEYzl0bEhjSnloR3JvRlhxVWJPQ3hZWVRYeUFidjk3Y0d3OTRSd291QURaWUZBN0RleGFBTDJfbHFRLUhQSDgtaEhoM2xmZDZPZlRscm1Rck50Q3NZWjFNb2ZnVkUtNWdCODlHZ1hCcDlYYW1wR1E3SUVHMjdjSXktdXlRS0M1OA?oc=5"
+      },
+      {
+        "title": "Trump ugrał swoje. Porozumienie z Iranem coraz bliżej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGtZckY5NlVTdXV6dDJMRk1mdWVad1gwbmNlaF81M2pidHhjWDBYYWJHUV8xQ3NDTEF5UlBDamVKQUhseWxBU1BxNlJTOEYydVEzNWlVUmlZckt5VUlTcHc4UUh5bFZFbU50dHdGaXNmUm9jRXVxOHVlMGZsb3VIU213dDNxT1Vyd0tZX2lXTXYyR1QwdjJoQ1lLVQ?oc=5"
       }
     ]
   }
