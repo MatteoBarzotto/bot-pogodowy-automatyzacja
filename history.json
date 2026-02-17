@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 21:19:05",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 247915,
-      "DOGECOIN": 0.38591,
-      "ETHEREUM": 7403.45,
-      "LITECOIN": 199.66,
-      "RIPPLE": 5.31
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "ZAKOŃCZONO: Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
-      },
-      {
-        "title": "IMGW ostrzega przed nadciągającą śnieżycą. Pięć województw szczególnie zagrożonych - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2o2eWpDM19EcjVSZnRYVjJWaTJ3VUhjU3NSaHJZdmhJSkxVV3JQa2R4dmhvb0NyelI1YjMxUU1DU1lQRXVyLTd2UnNJRVZNeFRZUHA0N3l2dUtXVUZaeTVYcHlja2VRRXRmVnhDYTUxTzJjVjN0c1M5SmctWXRqQlVRejFlUU5oWWtjbTNmRnlSQTdZLVc0NTVPZTd2ZGE1ODFGeXFYR2UzVXBZZ2s0VUYxZWpjaUtNZ3ZXQmExUnk0NEtscU0xckM1YzhMNGxKWmc?oc=5"
-      },
-      {
-        "title": "Polacy ocenili reakcję Czarzastego. Spór o Nobla dla Donalda Trumpa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVFfbTE4MG5UUFVxbWFicEp2Z0NZN2dhZWZtSTdXU2E1c3haMFJvN1hwZ3l1cjY0LVZXVXhKVkFELVhReFVCUkdNSHY0SnBMV05UaXlCRlNGQzJ2MlEyOW5XVWQ5TGhHbUdpX1JzMGNvNDVlUDN5Q3BqNUx4cmp2TzAxTWhFWnhRdUY4N2JKeVVMVS1kLWxHR29EWXpMeDVjenRPZGJxVDdCSldyMGc?oc=5"
-      },
-      {
-        "title": "Ursula von der Leyen chce rewolucji w sprawie obrony UE. \"Nadszedł czas\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRGpCWU9nM0JuTDMzOTVibjhfV0d3UWVCQUNodDFhaHAyOWx4ZjZicGJWQ1N4bXNud1B2MFN6MGluM01iT2xxRkZkdm5KMlVKVVJUekZ1Q0ZlYUdLcTFZMkZveUZfaFBZY3lIVkRlRGU4NzZGU1Z0ZHFzczNidjRMdWxpaTQ0bTk2ZXdJdjJLbWxKVFI3aWxmY1dvelQ1YUJYaXI3RllVeEhKNHU4VWlkTUpHNnhJUVVCZm5ENlB1UnFyZmJhZFRiQWxoWHc?oc=5"
-      },
-      {
-        "title": "Podczas RBN Nawrockiemu zadano pytanie o przejętą kawalerkę. Prezydent milczał - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUhDY01WSlgxRlNtNGNyU0lCSUswakhvdE9FLXJCckZJSzE4M1Q0SHFjVGtsVVNTcEVOeFZQT1paZ1BEeEJQRElhcU9aREFpajRDcTIxajlKdTA5VmdoQVk5UngwdXl2LU1lUXNzdDQxM1dfODNzQ1BfRWhpWjhuUDloVDIxc2d5c0JQblFHRQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 22:17:49",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Będziemy spać krócej. Kiedy zmiana czasu z zimowego na letni? - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlJuX0dkOHQ3eFlQdkxNQ3MycTd2ajZfU21iT2ZRWFQ2NjFzQVRXMHNjdzdOTnhCV0htTDRhT2FTMlR6bXBmamYyMmJ5ZWNuaV9WMVdjSm82T2pCUTJlWHRsRVE0MVRJZXlVdXV1R3BaZGNuUDRYSzk5clBxWWRrUEE2T09ISkt5R29ISHZ2T1ZLMG9oZHppRzNBb05xMHRpTl9GTw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-17 10:41:17",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "Krakow: -1°C",
+      "Gdańsk": "Gdansk: -10°C"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 241982,
+      "DOGECOIN": 0.352162,
+      "ETHEREUM": 7016.98,
+      "LITECOIN": 195.49,
+      "RIPPLE": 5.19
+    },
+    "indices": {
+      "^WIG20": 3338.73,
+      "^WIG30": 4289.51,
+      "^WIG": 3338.73
+    },
+    "news": [
+      {
+        "title": "Polski autokar spłonął na Słowacji. Jedna osoba nie żyje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXBUbDdoS193RC1pQ1lOY0dqRi0zQXRmNzlrQkVhbGE5SVJzR004a3N3YzczVHM1SG5SZUNuV09qcW15MEpjZjQ2d1BHTUFnX29keTlwbEMxaG05NER5STNiR1NrUjBVVTEtLUdFSEJpVi12ZXRDSkFHMHYyTjNNV2YxUHBJc0dpdVBESzdIRGk0MTNmSXg3ZWw5UUg0MHNjSDhydFRSMjk3R3JOY1pGODRYN29scjRBSFE?oc=5"
+      },
+      {
+        "title": "\"Fabryka trupów\" na Zaporożu. Ukraińcy wykorzystali paraliż Starlinków - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2w4ZkYwVDhzSnBpbG9SdTg1MHhUU29jZFpBSVVjWWE2aHMtSFVNT3RjbWMxNUdVSXI3N0NFZlRiUUotYWlFLXlxYnlCaDhySXpPemNUN2VUYlJiWWRNeEt3Wk1xX1A3Q1FZNU9TUkZnaDZZVVlHZ3RydWl4em1iZnM0SmZXa2pjS0ZUZjkzejdmMkdpa2lnbkEyb3M5Z0x0UDBQazhuRGNneVNWREhB?oc=5"
+      },
+      {
+        "title": "Afera wokół Cenckiewicza. Sąd rozpatrzy sprawę, jest data posiedzenia - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLThaNW05V29PRlZ4UmpUbFFlODhVaDRJaFFIT2xsNjJHVnNGNVJLaWVSVTBQUXdrazhWR0V3MjJoajIyNDc3WUpQSW5WUkxiTm1xMkVwOTdDZDBjTmRRQW5zUmNLMkViMEFMOFFTVFNiSmpVeFdNdTg5OXFuckxoZDFCaFVfTGg3dTBvRndzbHNCV21ZRzgtUUR5dWhrWWpHc196LVJUSjV0by15NWpR?oc=5"
+      },
+      {
+        "title": "Grzegorz Braun ma być dziś przesłuchiwany w sprawie jego napaści na szpital w Oleśnicy i uwięzienia lekarki - wroclaw.wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWtfaUxnQnd5MVZ6M3pXazBmS2V3QllUaktiVGRCenpPdFRHUVEtZ1ZrOVF2dnR0eFpjd18yUEdHYnNsRGRTSmY2VGRZU1dtemFmYWdTSldLT3pWcVM5TmxyVlFqY0Q3dWlNZ0NzaXZOX205UmQ3RDhIQlh6VGFGNS1aQmlBcjdjSUpBaDFBenU2SnlJZi1XdHhQOG9NcTdTVExnOGN2ckh2bzQxOERjQzNGRTZtUHhpRkxXZFRoTjk?oc=5"
+      },
+      {
+        "title": "Polska bomba atomowa? Witold Jurasz: oto, z czym wiąże się jej posiadanie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXUxMjZldk94anVva3hVUjhpX1BmTm12aUl6T3BsVTZ0YW9UeC02LTFWVllUWG80UnRFTC1TQ2FUT0Q5aVBYYkl1c05UY1lfOFhubzlfSXQxNURBckFQLWtNcHhFU2cwZTEtSjJyY0R4b25MRnIwejhHXzBQMUFTMDNwdmVXRmxPbk5Zb2lmTkkyV25ucngtaWJTVDJBTjlhcUJ3blpoTjZpd1NQY3g5YUlRUm9TVmxKWmhxMkxBU29rQ3JhZXNja1laVWhTUQ?oc=5"
       }
     ]
   }
