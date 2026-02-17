@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 22:17:49",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 249110,
-      "DOGECOIN": 0.396055,
-      "ETHEREUM": 7437.26,
-      "LITECOIN": 200.63,
-      "RIPPLE": 5.33
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Radosław Sikorski dostał oklaski w Monachium. \"Płacimy za obronę Ukrainy. Chcemy być przy stole\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWVLSFJaSEl3SThUTkxTazRoSjBlOTgwcnBkVDR5dExGTlVtTnB6ekhST25HZmxNSk03bFU2SDJKS2Z0bkp2ZVJ6MmFXZ3hsOXNWSHk3c2RPU09Ea3NuRFZMQ3RMS203SVIybXREbjVCZzRERUU3czlYODNSSi1UVlgxcnhUaTJPYnJ1Wng4SDFqRnY2Y1JzRFV3VDBGMzZwMXp1UnZXSW5mdWJMNTFvbVU1cldielRTWTNUZW9MMWc?oc=5"
-      },
-      {
-        "title": "Donald Tusk przypomniał walkę żołnierzy AK. \"Te słowa brzmią także dziś aktualnie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQzZWbEdSd0xvM1pYZU8zU1J3TW9TQWk5aDEwY0l2OGlrZTVWOV8yS0pTcndJMnVSdmtjNThrb3hCdmpZY1JQUTlpX0ZKRm1fQ1RWNDlwUGlYNU9ZbWNHUXp4U0xfUG9acWt1aHJWVzBLajliUFVlUWdzNTh6eXBGNjRpbTkxOHJBTDNFMUNDLXJheTI1OHNSdm9hdlZnREN2TW11MXEtNjBvaVRpN0tGRkE2NVZXX0dzTFNRZVMya3Z3UzdVSTNzd0gzb1BZTzU0M2RkdEtsSQ?oc=5"
-      },
-      {
-        "title": "\"Rosja może zaatakować w przyszłym roku\". Komisarz UE ostrzega - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDZmREJJRGRlZ3FBNWdlTjQ0STEySk1qOWtTTUlhVjZIZW80blo1WVJIRW9UMjBZd2x5ZGREdGNCa3NHRDRsQVJjbFoyOGNlNFl4YTJ1QXV2VEpGQU1oZGduSUxiX1dseU95aXhsamdBWTRkc0JuWUdaRjFrcHpVR05uUDJKTEV1U1ZaRjVGbzUwNWN0R2dCTTJHSXRnQdIBmwFBVV95cUxNc0R4eDUyTmhXSFZkSzJhVGdKQ1dDRTF4dEdXT092SmJCaHQtaHBvMThNbkFyeXBqWVNRMnItbWIza0lzdmxGdHFFTzJyei1xY1YwWXhuSC0yZUl1SHg1SmlveWZsT0p6UElLa2lYWVFuX19ZYWppbTE3YWpIa2hCUUVidjJIX0VNWkw1LVNwRURsNmcwYXhscXpBbw?oc=5"
-      },
-      {
-        "title": "Polacy ocenili reakcję Czarzastego. Spór o Nobla dla Donalda Trumpa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVFfbTE4MG5UUFVxbWFicEp2Z0NZN2dhZWZtSTdXU2E1c3haMFJvN1hwZ3l1cjY0LVZXVXhKVkFELVhReFVCUkdNSHY0SnBMV05UaXlCRlNGQzJ2MlEyOW5XVWQ5TGhHbUdpX1JzMGNvNDVlUDN5Q3BqNUx4cmp2TzAxTWhFWnhRdUY4N2JKeVVMVS1kLWxHR29EWXpMeDVjenRPZGJxVDdCSldyMGc?oc=5"
-      },
-      {
-        "title": "Uśpione NATO staje się rzeczywistością. Co oznacza to dla Europy? - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzMxNTcwZUd0MDV0dFBfVnNaVVU5eTJEb2lJdDJtYmRmWF9nZjg0SGMyeEwzV0I3c3V5YmpiNEx2VlJNa3JCTEtHbFlQQ1YwdFVnRGhGYjI1eG5jVEVFWl9hTlJYR3Jkd0QxTVRaTGhKaVpOTDVGaUpiSGtXM3VfNVE3SDZNX0xRZWtMMDE0OFNTWW5rSWhOTktTYXFXNjFiLWI2OHpEeHpQQmdOLVdlZjJld0ZHenlLTWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 23:16:46",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Polska bomba atomowa? Witold Jurasz: oto, z czym wiąże się jej posiadanie - Onet",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXUxMjZldk94anVva3hVUjhpX1BmTm12aUl6T3BsVTZ0YW9UeC02LTFWVllUWG80UnRFTC1TQ2FUT0Q5aVBYYkl1c05UY1lfOFhubzlfSXQxNURBckFQLWtNcHhFU2cwZTEtSjJyY0R4b25MRnIwejhHXzBQMUFTMDNwdmVXRmxPbk5Zb2lmTkkyV25ucngtaWJTVDJBTjlhcUJ3blpoTjZpd1NQY3g5YUlRUm9TVmxKWmhxMkxBU29rQ3JhZXNja1laVWhTUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-17 11:38:31",
+    "weather": {
+      "Warsaw": "Warsaw: -6°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 241474,
+      "DOGECOIN": 0.351327,
+      "ETHEREUM": 6997.85,
+      "LITECOIN": 194.75,
+      "RIPPLE": 5.18
+    },
+    "indices": {
+      "^WIG20": 3337.41,
+      "^WIG30": 4288.41,
+      "^WIG": 3337.41
+    },
+    "news": [
+      {
+        "title": "\"Fabryka trupów\" na Zaporożu. Ukraińcy wykorzystali paraliż Starlinków - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2w4ZkYwVDhzSnBpbG9SdTg1MHhUU29jZFpBSVVjWWE2aHMtSFVNT3RjbWMxNUdVSXI3N0NFZlRiUUotYWlFLXlxYnlCaDhySXpPemNUN2VUYlJiWWRNeEt3Wk1xX1A3Q1FZNU9TUkZnaDZZVVlHZ3RydWl4em1iZnM0SmZXa2pjS0ZUZjkzejdmMkdpa2lnbkEyb3M5Z0x0UDBQazhuRGNneVNWREhB?oc=5"
+      },
+      {
+        "title": "\"Oburzeni nawet wyborcy PiS\". Nowy sondaż po głośnej deklaracji Toma Rose'a - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTlGajd5QXdzcUZlWVhjWERoWUR0eFFLMGdSRklaNGlyX0FVOTRZYXByUzhBcTJZdlRhb3VwV0Utck03WUpyQU1iYXRvc3I0WElrUWE2d2FBMjB2MTNIVWRNQnVoMlZpNFc4MlQ0R2QxdDNIUTdfZmdUMEhFWldVLUxXNDFSQTlncUxKZWdYQnpUcUJHNDhOdFU3SVJFamw3WFlNOW93YXBRQVN5NG53U0NaVQ?oc=5"
+      },
+      {
+        "title": "Blady, wymizerowany. Ks. Jacek K. przed sądem. Za zarzucane mu czyny grozi mu 30 lat - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWMxekk0NzA4NFhQSkp5bjdxMGhkOGNTX1ZBVzZxWlhqMk1TbWFmalNFUzlEY2s1QWNfTWpMMUUwREh0V1o0SHVoRGRQZzdOU3BtOTFhSnF5Q0VCOVA1SmtiemFDZ2RuMFRQT2pIb1BSN0J3WXRNblpFTVpOdUU1cGlMNzg5dWt2cWozQlNuYXROVFBIQzAzVExqYk85NnVCMU1EOVEzYzBRQ2k0eUE?oc=5"
+      },
+      {
+        "title": "Polacy boją się ICE. \"Zgarniają nawet tych z legalnym pobytem\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZER4SzJnNkVUMlFMRzRiNUkyYndVS0hZS01iaUh1VjYtYjRpMThTNTBJeklEaENqVGpCRzgyS2M1cEN6NnM2VF9ZQ2p1MXdjRTdmMzU2a0J3cWoyRHlDSVp3T0YxWWpwYUxodW9FTFIxQzdWLWdkR255SEtQSUR0QVVCeUhBVVFqR1hJakpUemNSazJzSTRvb1FEQ015dFV4Mi1F?oc=5"
+      },
+      {
+        "title": "Incydent w Puławach. 25-latek z Mołdawii uruchomił hamulec ręczny - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzlhb2dJcVlrU2Z1Nm1haXRBSmdaSnBpcThUMmFQaEl6Wno0ZUpjeTlOOU8xLXdSdFp5azFvcUFkaGE4MUV3RGpwRU5zNlBkbm1wZnhQR0lHUER1OG1IQWVISExIOWg0U3JjQXF6S3p6b2x6cXYtSFBsV3JPVFhJLXIzbjdZeWVsZTFxd0U5eUxVekFUanZLUk1OamR5WXZaY1FfMTRpSUoxdG8?oc=5"
       }
     ]
   }
