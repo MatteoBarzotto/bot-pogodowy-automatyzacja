@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-15 10:25:07",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 250408,
-      "DOGECOIN": 0.408262,
-      "ETHEREUM": 7356.41,
-      "LITECOIN": 199.53,
-      "RIPPLE": 5.73
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "\"Stan Wyjątkowy\". Nawrocki i Czarzasty skoczyli sobie do gardeł. Siostra prezydenta wchodzi w branżę modową. Hołownia pokonał swego kierowcę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDhESHktYUxGQ1dtRmdfVlJKWVFjbHVBbnN2MVpBR3pSNGNkdVdqMEctd1VhWUVTTVRGSGtHaVlVNXhMZEpRZjd3TlFXaXFnOEdJZFQ0d0dZY1VzVlplZXJlQ09scjNzelBycTg4dDZ2UmtYandXTTBXblMzVXpNa3dvUHgzTDJySkdheWMzbExxSnBOaGNud1p0a0ZobG5GOURwQk56b2luZmJKLXRNVlg4U1ZxWUVhUV9YcnVuSkR5blNCSm42Mw?oc=5"
-      },
-      {
-        "title": "Trump znosi regulacje klimatyczne. Berlin krytykuje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkZTbnYxSHJDZE5TMGZ1WWJvZzR0bnptQ3JBb1g4Q2llb2F6a29SZlhPRGtSYzUtektrSHVnTmNlNkxUQWRvMzFPdFNRLU1ZTGJUajJqVWtEeFVpbDlFWXdMWEpIdGhPclJNRjN1N1BPX0dIekFxSVV2cXN0aEQwaF84a3k0cGRreEFDZHV0NWRMcUJIMmxnOA?oc=5"
-      },
-      {
-        "title": "\"Z autokaru wypadły szyby\". Wypadek na A4 - o2",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNGxaM1RJaHVhU0VxVFUtWHRySWN6SVdHYmZqcUE0SnRWZ1J2ZFZWOEJEQm9WYS05YUJjYmxRd1FmRWRpZFF6Q3ZVR2FZTXZUcFg1SDBnR3VCTEJDY05XRnpTNUFqLUVvbXJlQUdkYlFUMG1WYVF5WEpQcjRMcXY5cE16RFpqcFR3cHk5aUVn?oc=5"
-      },
-      {
-        "title": "Kancelaria prezydenta broni decyzji ws. Cenckiewicza. W tle afera o RBN - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT3Fqa0k0Mmd3azBMaWZnUE5pQkdidUNyYlZQN01VOVdTWi12Zjk0cGNvdHFUaWMwYkRLekM3djdDV0lxcThrV0FjdkY4emt6UEh4aW1weWtEV1Jua1dEdTlBVVVSM3NkMTRpVV9GYXNqSURBWGswTENCUUlnMUZXWEhiSlBITGpHR0tQMElHYW11OWdYQnR0QTVFVHVuMUxIWGNEYzhvb3pvaUpuZFFNRExn?oc=5"
-      },
-      {
-        "title": "Polacy ocenili program SAFE. Co zrobi Karol Nawrocki? [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUtNaHJWWmtzZXpDWkh4N2Nub1pYTmhWTTZRMGloQUZIYllsLURob2RuWE5mWG1QNk12Q1NKMWZKT2ZPVk1BdmdTdmNPSFE5VkRGNy0wLU91c08yUk1ZQWdiVURjZUsxejZQZDg4LUN3MTZHQzh6dVM3ak1JOWNCNloyV2JjRGhSc3ZMdk5zdDVEZ2hn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-15 11:19:57",
     "weather": {
       "Warsaw": "",
@@ -2596,6 +2544,58 @@
       {
         "title": "Opady i ujemne temperatury w jednej części Polski. Nowa prognoza - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRV9KRkx5WTRjc3lndDh1VFRsbDZyZWVMVkQzV1U0WW9INXpQX3g4NDZWMXdfX1lPX2hSdjZodkZQa3lhZ2U3bW52dUEzTks1UWM3RnU1MW9SWlE4REZ2dzUzQnJBc3VORTd4amhJbFpoTElqQWQxa1BVNkc1MzVOSG1wcXFNdW92WXZUaFQ2TWRLXzlBeXIxdUNBU0NFeXQwc2NCbC1YRDVMdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-17 21:29:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5607,
+      "EUR": 4.2182,
+      "GBP": 4.8393,
+      "CHF": 4.629,
+      "JPY": 0.023287,
+      "AUD": 2.5184,
+      "CAD": 2.6098,
+      "CNY": 0.5147
+    },
+    "crypto": {
+      "BITCOIN": 241051,
+      "DOGECOIN": 0.358789,
+      "ETHEREUM": 7099.96,
+      "LITECOIN": 192.43,
+      "RIPPLE": 5.28
+    },
+    "indices": {
+      "^WIG20": 3321.64,
+      "^WIG30": 4268.14,
+      "^WIG": 3321.64
+    },
+    "news": [
+      {
+        "title": "Blady strach w PiS po ruchu Jarosława Kaczyńskiego. Chciał zawiesić znanego polityka - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcTFtYlBrbXM4OUhUMEpPck1lVEVDakhSdVQxLW5Od3lveDlERGJESnBCRFlhMGtSQzIwel92bGc2V0gzdW9PSXRES0dZS2x5bVVPVG5BLXBoLTN0Tll1di12WHhicTNid0pWdTZlTUkzYWJsaTVKUWtSZG1nRHRaNlF3ZXlwVm1WR0Q5eXlQWng2TzlPYldhcEs2Wkpmd3dnemtkb0N1UEEyOHBTNklQSmFLR25EaWx3SXJYUFVMd0lXUFFsakF3dDJsc0RTU242LXhzOUtsUlJ4YTJ4RWpF?oc=5"
+      },
+      {
+        "title": "Zakaz wjazdu dla chińskich aut. Decyzja zapadła nie tylko w wojsku - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnZYVTdSZ0FIdENQRmhaM0J0Zmg2eTBzczNhbnEzSGJFNGFIcFFOLVczNk9HS29IVFh3LS1WYkJ5eTRoMkVXNXZSam55c19ZWklrX1NZREdXNllwREpmZnZkaGZkNFdEWkxOUmN0YjI2ekZoLWxsM1R6WVRJZmxFa2V4TEY3NVV3UjVuYzlQRFJfV01lV2VWRGZWWS1KSGNWNW4yUF8tNDZKakRtTlpIWUd2M2xsYjdKTEdfeA?oc=5"
+      },
+      {
+        "title": "Szokujący fake news o Tusku. Chodzi o rzekomego SMS-a - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRm1vRjFPMElXVFYtRTVJTmcyaHBWMnBqTzhtR0VIbDdqOXRuVUpZcDRjVS1aUUxkMHBzb3FFZF9SbXJTMUtnb2l4NmV3cVdWVDJoZzYyWE4wVnB2VG9fODNha1lSS2xsU3Z5NHRBYVFJdC1rZm05ZWhsYlVBbGIxdG5hS0pPTGJTUVhPQkVnNDFzRUJudVczRWRZOA?oc=5"
+      },
+      {
+        "title": "Dominik walczy o życie po wypadku na kolei. Niesamowity gest ludzi - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUdmWFp1a09wZ3lRWk5YVkEyNWtNVWxiS2RHV3NKazdiQkVFNkc0Y2I5OS1uZ01MTGpEUDhaeVB4bDZORTRMWGpkenpOQzY2d3dwd3lEUVgxdlBLc0psRmVia2VRSzVZWlVMaGdjdmgtaWtrSk5rQVY2UEpZMHZpalJ4eHVYSEtFRldxSFd6RkhTTjZNaV9sUTNLSFRhMjJjcW1fWWRtMmg4THZyTnVXdGJXNFlqMU9DWXd0Xw?oc=5"
+      },
+      {
+        "title": "Alarm w pociągu. 25-latek zatrzymał skład, w bagażu miał przy sobie rosyjskie dokumenty - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3pyc2dfOGUxejRnemtEV0J1b051NmVzSVU0M1kxbk9YQ05WMjAyNW9YZzczQ1pKTVNYalVMUVNTTTBHa28xeGJpTnRSVGFlUmt3NjBCX2tOSk5pM05aNFBOODJWZnhlcENVX0RUZkg1Wmxnb2thOXZnaEZpeE05ZzN3SndRNzdZOFhZVV80R1JuWkxKZ0FybjRNam9WT1JMQmh6dHU2Q053WTRnX1pXd0NrWHg3UEM0TFE?oc=5"
       }
     ]
   }
