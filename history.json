@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 19:26:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 247645,
-      "DOGECOIN": 0.37838,
-      "ETHEREUM": 7392.04,
-      "LITECOIN": 199.26,
-      "RIPPLE": 5.25
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Radosław Sikorski dostał oklaski w Monachium. \"Płacimy za obronę Ukrainy. Chcemy być przy stole\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM0l5dk5FRWZNWk9MellpdlBXYU9DNGJ2MENlTXlnLWV5YzA4dVN0TjFJQTlsWEZYZmFISklaM2tJX056dGRHZklrbWpBT1EzTklnQm4zcXlqeTAwWm40R29lLUVnVjBZQTRaRGd4Nlgwbjd0RWp3RVdpYzBQMThuWWhXckQtMk1tT0xWLUEzOTNkWm43eE82NWJEMU16THZqVnJOYmIwUzVhQzVKMHlHcjVIcTFpU1N0NTNhN0FoVFdtNDVINkVHYjdOUmlMS0k4Y1JkeklubGJFSEhMODRB?oc=5"
-      },
-      {
-        "title": "MSZ Wielkiej Brytanii ujawnia. Chodzi o śmierć Nawalnego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWRyY054N09obFRidVgwNm5aRXRLODZ6LUYxakxCdGlHeUNqaW1TSEZJalZKd1ZKd004bWRTbTZ5UENlVXVLd1R4YndlYkZPbkItQ1dpaW1OSUhMcnowRHgyNll5YzBaODNMb2xLWFFTZGFhdWQtVWFqNmJENEQtM1JVRl9vZTNpVFVRZ0RfdDNzNDVkODNwSDZIaG9sOGM?oc=5"
-      },
-      {
-        "title": "Viktor Orban odgraża się Brukseli. \"Zajmiemy się nią\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjVXOTZ2bFZmdk1tSE1pa3pqcTFGQk96d2lOdUg5QTJMRHA0R0NwSkFualFrbVhBWERIMUZfUG0tc0xINEpOVFp6dm1ZbDJlU0J3NG5RNEVPVmRfZFRyRmFJeXEweFI4YnJhOVkyQkNveHd4TnozaFN5X1FIQnhhRU9OXzA5b254bnRBNjZfcmNjY1oxODRnX1lzWkJnbGZMWGFZOHVrZlFiUjRhT3BTQVJTOA?oc=5"
-      },
-      {
-        "title": "Pomysł projektu obronnego w Europie. Polska jednym z kluczowych państw - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWRfTVdsRk5TaHdWSWlTenVlMlZpRTZ2WnlzenZKTEdnTXgzUENZVkh3cXRLY2lVSllac3hhTGZsWGJqMjdFX2hSMmw3VnVZWEVhbVp3SUllTkMxbkprMHhRSDY1VTBXVHVudnVpRjh2VWpWbS15X2JIV3pKdTlxbUUxdmdXSGtNSzhpd0h3V3RDSzNvTkhPQXJYNXRFVHpmWTJvbDBPaTg4cnJlYUh0Y3RWVXE1VUxW?oc=5"
-      },
-      {
-        "title": "ZAKOŃCZONO: Zgromadzenie publiczne i przemarsz - Warszawski Transport Publiczny",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1lyOXJ1NGZIR1VFTFktZTJ0Wk0tbkJvdkdmWWdzcUVHeUZkcE05ZmE0ZVFIdjhSTUJrT25seTdpSFJnbGxxSnkwaTlONTNSNGc4Mm1JUUNOeVlnWHBla2oxM21fY1VjdU8yN1k1aGhLeFBIQmlmLVU0SjNrYkpRaUlBZzNpaGVJcEZsaA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-14 20:18:45",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Pożar w bloku koło Warszawy, ewakuowano cały budynek. Ponad 10 poszkodowanych - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkpCWVlaMS1BU2NSbk40LUZvMWJ4cWo1Qk9TeUUta0tWWlBnUVc1RTJMOGg1YnBqUFg5VW4yUUMwZG1HQ1lzTWl2Yk1sLWc1Wkc5d0lSVFBlSGRXNUFJbjRVQW9ZM0h1ZjBJR2pFQVNZQmM5VjhZd1ozTkpra0Y4anl2SmdiRU9XTXh6SGFMWmtITHhCTXRORGxTYTVNQ1dxS01aZXRXMFJoNEEzRVQ2cFB5OF9SaUFCSXZ1aGxWWGI?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-17 08:45:06",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5467,
+      "EUR": 4.208,
+      "GBP": 4.8393,
+      "CHF": 4.6085,
+      "JPY": 0.023095,
+      "AUD": 2.5124,
+      "CAD": 2.6044,
+      "CNY": 0.5135
+    },
+    "crypto": {
+      "BITCOIN": 243756,
+      "DOGECOIN": 0.356126,
+      "ETHEREUM": 7061.22,
+      "LITECOIN": 197.63,
+      "RIPPLE": 5.25
+    },
+    "indices": {
+      "^WIG20": 3364.33,
+      "^WIG30": 4322.56,
+      "^WIG": 3364.33
+    },
+    "news": [
+      {
+        "title": "Polacy w rękach agentów ICE. Nie chroni ich czysta kartoteka - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNalBERWdEeUpCR1dnUmdTVUlsWGg3MjFNU0UxMVZsY3dVTjZ4Mmhld2hDZ0ZXTTJuTWZHUS1FVDZ0QmZvb0dTcXpGcHI5MV84bWFHNTJzSDFPXzN3Skd3Wkh2dGNfdTZ4cjJ4dk9vajh4ZUlWZnlUODdjV2MwejlvYmx3Zjd3RHNzdUh2aC02ZVVVMi11TG9QcVNGbktJQ3NsV0pYSTc4X1BtVVpWUmpQZXVndnltaW9hZ3c?oc=5"
+      },
+      {
+        "title": "Michał Woś spełniał marzenia Zbigniewa Ziobry. Teraz grozi mu więzienie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1pRQnprdzJVTm1DYXY1Q3NBaUdMQm81NUNrcjlaWDZRTnA4MnhHbTdSX29pV2ctSURDVzh6UlVjMmpTQkdDUVZVaXRncmx5OEI0a0VzVFJheDJxVElOaEtKcFc1R2tnNUJfM3RJWFFwbTdQQS0yOTJCazc4ekxqTG1uMVdBeEJTRlhnRjBSU2Y4enFLZVZXM0NsX1g3WWVmNDlYRm9kTndrTGY1VktlUGV0RkNlSjB5RU5sUC04VFFvUjVBR1RzVDBPUVV5ZDdZZGt0WG5R?oc=5"
+      },
+      {
+        "title": "Zmasowany atak Rosji na Ukrainę. Pilny komunikat polskiego wojska, poderwano myśliwce - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDJQMWtyd0F4aEJteDNUTEVlcDQzZ3NsbGNxcGpOWmJ2VlZMYVZtMzI1X2g0TkF1OG1pb0UxT2w1WXp5MVVmTFBVTEJiXzNfVHZvVE5ZNjlWUjBuWkZwcGF1emlaUTVqem0yS0g3SjczVXdUNDVoUlg3SUk4TksyRjBTUDR4MktBbnB5dTQyR1hHOERwT1VFUDFMM0gxMHdyamkxdkIySU0tOTZQOHJ1T1l2aw?oc=5"
+      },
+      {
+        "title": "Pioruny rozchwytywane. Chce je kolejny kraj. \"Poważne zainteresowanie\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcV9lenh3VzB3Z0pzSURJU1JsaUVTNzk1ZndzMFQ0WE5lelJUZDVVajY2NzhnRWRHcFlPbjhlR3JMelRUaDFETjY1UElPZ2pqWUxPNWlVTnRsYUtqUk1xNm9JVVFZTFNsSEw0SFFRNzQ4NTJLVzU4SFZ0RjJ2NHg1Z2c1eVkzVDZVTVdVbDlyRkdBSEg1c3A2Q2RfaHBqYnpEbHVKem9XRmx1dGQ4TFotTnZfNXhtUDIzdm5zLUl3?oc=5"
+      },
+      {
+        "title": "\"Oburzeni nawet wyborcy PiS\". Nowy sondaż po głośnej deklaracji Toma Rose'a - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTlGajd5QXdzcUZlWVhjWERoWUR0eFFLMGdSRklaNGlyX0FVOTRZYXByUzhBcTJZdlRhb3VwV0Utck03WUpyQU1iYXRvc3I0WElrUWE2d2FBMjB2MTNIVWRNQnVoMlZpNFc4MlQ0R2QxdDNIUTdfZmdUMEhFWldVLUxXNDFSQTlncUxKZWdYQnpUcUJHNDhOdFU3SVJFamw3WFlNOW93YXBRQVN5NG53U0NaVQ?oc=5"
       }
     ]
   }
