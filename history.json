@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-15 11:19:57",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 249473,
-      "DOGECOIN": 0.401943,
-      "ETHEREUM": 7305.07,
-      "LITECOIN": 198.14,
-      "RIPPLE": 5.61
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "\"Stan Wyjątkowy\". Nawrocki i Czarzasty skoczyli sobie do gardeł. Siostra prezydenta wchodzi w branżę modową. Hołownia pokonał swego kierowcę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDhESHktYUxGQ1dtRmdfVlJKWVFjbHVBbnN2MVpBR3pSNGNkdVdqMEctd1VhWUVTTVRGSGtHaVlVNXhMZEpRZjd3TlFXaXFnOEdJZFQ0d0dZY1VzVlplZXJlQ09scjNzelBycTg4dDZ2UmtYandXTTBXblMzVXpNa3dvUHgzTDJySkdheWMzbExxSnBOaGNud1p0a0ZobG5GOURwQk56b2luZmJKLXRNVlg4U1ZxWUVhUV9YcnVuSkR5blNCSm42Mw?oc=5"
-      },
-      {
-        "title": "Metoda \"na legendę\". Tak teraz działają oszuści - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0pfeUo4WE54UTctNmRoWVNuSTYwMFdGTnJQeVRGajZyUUxOa2N4czN3OUdDU25UU2NoR2s0NGRyUWxCSnlNVVhPOFNDeGlnVVVHR1JkMG9OcXdxOE0wR05LbnVjQTVOdEdZUFNTRjBpanNPbHduVVAzdmdqMHFOQ2xkVUxHdTRId09jbnVDZlBvMGdTVktlUmZ2RGE?oc=5"
-      },
-      {
-        "title": "Donald Tusk przypomniał walkę żołnierzy AK. \"Te słowa brzmią także dziś aktualnie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQzZWbEdSd0xvM1pYZU8zU1J3TW9TQWk5aDEwY0l2OGlrZTVWOV8yS0pTcndJMnVSdmtjNThrb3hCdmpZY1JQUTlpX0ZKRm1fQ1RWNDlwUGlYNU9ZbWNHUXp4U0xfUG9acWt1aHJWVzBLajliUFVlUWdzNTh6eXBGNjRpbTkxOHJBTDNFMUNDLXJheTI1OHNSdm9hdlZnREN2TW11MXEtNjBvaVRpN0tGRkE2NVZXX0dzTFNRZVMya3Z3UzdVSTNzd0gzb1BZTzU0M2RkdEtsSQ?oc=5"
-      },
-      {
-        "title": "Polacy ocenili program SAFE. Co zrobi Karol Nawrocki? [SONDAŻ] - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUtNaHJWWmtzZXpDWkh4N2Nub1pYTmhWTTZRMGloQUZIYllsLURob2RuWE5mWG1QNk12Q1NKMWZKT2ZPVk1BdmdTdmNPSFE5VkRGNy0wLU91c08yUk1ZQWdiVURjZUsxejZQZDg4LUN3MTZHQzh6dVM3ak1JOWNCNloyV2JjRGhSc3ZMdk5zdDVEZ2hn?oc=5"
-      },
-      {
-        "title": "\"To był moment zwrotny\". Do Rosji jest raptem kilka minut - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWpDMUtvNE1aR0phSVBDT0N5dlBMY1M3WjBoV1pYVWN1OHl4Vi1xM0JwcDUwdlh4dVp0YnBQb0JRR2pPRGktVC0tdHI4a2NCZldseHhDNDJDMGM3Nk1KWi1aanlQT0JPY0loMk5rR2M4MUlEa1FSZEJNdTdaaGxFVVNOT3ltM2hhZF80azR5MWQ4ZUpob21qYUIxcDJyQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-15 12:17:45",
     "weather": {
       "Warsaw": "",
@@ -2596,6 +2544,58 @@
       {
         "title": "Alarm w pociągu. 25-latek zatrzymał skład, w bagażu miał przy sobie rosyjskie dokumenty - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3pyc2dfOGUxejRnemtEV0J1b051NmVzSVU0M1kxbk9YQ05WMjAyNW9YZzczQ1pKTVNYalVMUVNTTTBHa28xeGJpTnRSVGFlUmt3NjBCX2tOSk5pM05aNFBOODJWZnhlcENVX0RUZkg1Wmxnb2thOXZnaEZpeE05ZzN3SndRNzdZOFhZVV80R1JuWkxKZ0FybjRNam9WT1JMQmh6dHU2Q053WTRnX1pXd0NrWHg3UEM0TFE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-17 22:29:17",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.5607,
+      "EUR": 4.2182,
+      "GBP": 4.8393,
+      "CHF": 4.629,
+      "JPY": 0.023287,
+      "AUD": 2.5184,
+      "CAD": 2.6098,
+      "CNY": 0.5147
+    },
+    "crypto": {
+      "BITCOIN": 240523,
+      "DOGECOIN": 0.358698,
+      "ETHEREUM": 7099.65,
+      "LITECOIN": 193.13,
+      "RIPPLE": 5.28
+    },
+    "indices": {
+      "^WIG20": 3321.64,
+      "^WIG30": 4268.14,
+      "^WIG": 3321.64
+    },
+    "news": [
+      {
+        "title": "PiS na głębokim politycznym wirażu [OPINIA] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkNBNUdyVGJTb2RlamVPMXB1VWlSZzlOMGh6RTBySWRnUlZFUjRPQTVkelVsSVctajVlVGViVUZSNnA2bE9QZGUzU1lJc0RWVW9BaFZiWFh2Nmt5Z3RudENEaV9VSHBvREJTZ1JNM0NDdk15X3VNTFRfZWlCZUVWRWRhU1MybldINHVUWA?oc=5"
+      },
+      {
+        "title": "\"Intensywne\" rozmowy. Koniec pierwszego dnia negocjacji Ukraina-Rosja - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0lXVmp6VFlkMm5BeGdPYjVaRS02UDNmRDM4Z1pWVldhTDZDdXJiaE8tZ19ieGdxcWV2UVFMVFUyWmxxYjU5MXcyZzdvd2tvSFVwZkZpVDNTTGN0S2R0ZzZ0M2t0dDQ2a09LNHNZQXJfb2wzbnVpTWNjT1VHa1lndXpDNXRFSS1VeVdVRVRNRHNXMXBLaXNtdGRKTlNCMzNKdjkzV3JwZWVjUWhTN1E?oc=5"
+      },
+      {
+        "title": "Zakaz wjazdu dla chińskich aut. Decyzja zapadła nie tylko w wojsku - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnZYVTdSZ0FIdENQRmhaM0J0Zmg2eTBzczNhbnEzSGJFNGFIcFFOLVczNk9HS29IVFh3LS1WYkJ5eTRoMkVXNXZSam55c19ZWklrX1NZREdXNllwREpmZnZkaGZkNFdEWkxOUmN0YjI2ekZoLWxsM1R6WVRJZmxFa2V4TEY3NVV3UjVuYzlQRFJfV01lV2VWRGZWWS1KSGNWNW4yUF8tNDZKakRtTlpIWUd2M2xsYjdKTEdfeA?oc=5"
+      },
+      {
+        "title": "Błaszczak uderza w Sikorskiego. \"Prowadzi do utraty niepodległości\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0NCZDJWTGtXLXlsUWtOYVd6dFNyS2dPbFJsQ1p5dmxIWFZPRS1kRGkwNC03QkxWWU5TV1VoWEYtWV91RF9US1ZkOFd2UzAyRVotQ1U0RE0tZkYxV3paRVFpMm5lZ2xzSU5KS0Z5c29lSHNZMFk3U0Eybl9xOWNoNDBhemF5bXN6YWF0NHhFNEtmb1B0dGZ3Y1RMX2V5WDkyMklQZXdHaWJpWkhVbFloaHhoSTRkTEU?oc=5"
+      },
+      {
+        "title": "17-latek wpadł pod pociąg. Chciał tylko pomóc. Dramat - o2",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEkzbmYzdG5nNlliQ0Riamo4UGlmTG5Va0xQbnR2U3l2Wm83dllZWDBtY095QzgxZHUyNmZzQ2hvRnZ2MF84OHdfTVNVbU54M0EzblBMZTVncFBxUzYzTlpqN1R2eFQxdFcxY1FJNDV2YWNlelEwYXNYVEh3a3RONzdpX0hXWUNtYXZFSlRYRU5WVklwYkoyNlZXUXlaclk?oc=5"
       }
     ]
   }
