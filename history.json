@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-15 20:20:10",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 241502,
-      "DOGECOIN": 0.367761,
-      "ETHEREUM": 6872.47,
-      "LITECOIN": 193.05,
-      "RIPPLE": 5.18
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Tajemniczy wpis Petru. Tylko trzy słowa - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmlQVXl6X2d5Mm8xb3BvZDN1ZUxZZEFqa2w1S2paS0wyeGZqWkJobjFDemFUSG5MdWxvWTVRNlc3ejZRdklqS0NIWEd6NndFNTIzRG9ZUUw4a3hvQlItNEVocm9nejY4Ym8tXzZPMG92NUhsMHhrZk1ZdWZXYjYteWtUSUt6U2NF?oc=5"
-      },
-      {
-        "title": "Poseł PiS dodał wpis, który wywołał burzę. Stanowcza reakcja policji. Już go usunął - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDdyYU84clpKZFNLMXRkTm5zZTlXR3J1YnNkcUk1U1NIRHluX1lRWnJXZ2o1dzZxY1k2NmxyY2MzN00yVmEwX2tUVE9mcVJ0MDhKWE5ENjdJZHQ3ZENwMmYtak5tTUtNS3NtRVNyYzJKbEVCWFhEa3NUMVgyTlVwUTFFVDc4dE1tUERqOXFhNm9TU3FicE10Ri1oMmMtVHFJd3oxaFcyOFFlVkdhWENpb2h2djEwYmM1QzNubzU3LTY2WnVxVFE?oc=5"
-      },
-      {
-        "title": "Domański mówi o \"głupcach lub zdrajcach\". Nawrocki odpowiada ws. SAFE - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1dlN2tlWVMxRDYyTXZzcFZLSkN3d1ZMdnNIZWxWUVpoX19yckJMa1Z5Y3V0RW5xZnMxTUF2VmtHVHJaa05IalFzRjlyZDc0T2pRSzhSbnFEakRaWDZvVGVvYmwwd3dCZjB0QkozdWJnN3hqdFkwTk4tNTJMZGxINVhhUkFaSVhMMkY1NFZoNXFHb3FHRGlnMGdVNk04QnYtYmxBaHY2cEdJejJXYWc?oc=5"
-      },
-      {
-        "title": "Aleksiej Nawalny został otruty. Jest reakcja Marco Rubio - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDB4bjNrQlVNLTI1VzV0MTNFWnhwNDBwTzNFejlaU2M3bV9LLVBFVHludkRha3hNcktYeWMyREhJcVdvREtFNVlSU0ZTZk9rZi1fV2RaWXJ4SjBPMTVuOGNSVnFIS0NWSXR4NmlZUV90bkhCY1lYdFpvZlRxdHpST0VMTGkwV1ZmX1hNNFlrNnNNcmFaa01aX1BmWlZudHFCUFh6UUx5Wi1mcTYwLWowZ0J4UWdzbkFxUVE?oc=5"
-      },
-      {
-        "title": "Rada Pokoju wkracza do akcji. 5 mld dolarów na odbudowę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU3dRdkNIR1gxajNsdnJlTWEtaUZZQUJTVkRMVFJQUV9ZOTUxZWtXbTJJeEJlaEpTcmJKdm9vdzQ0dEtiMjJFT1YzbVhRNmNFVUdBWmhKVHduamVtWjctX3ZxejhRdUF6X0FtWFNlZkt1Sm9pdmswd25MSzl3N3Y3MWo0RDdYM0hBa1hNUUlmaklad051OUVReXNETE9sQQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-15 21:18:41",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Fundusz Sprawiedliwości. Szokujące zeznania ws. Tomasza Mraza - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2VfY1Zvc3EyR1JaQVpVWjFDc254aGZGcGhDZlhXNGs5cllhejA3QzVsMkRVeTdsaU8zc2pqTWF1dmhScVp0UTFyc1Y0QkVEYjVKMHU0czVkQ3prSHBJVUxaRUFIcUVNYXc2YWJBdEFqajA5dXBoaEVkcU43THdCMGM3a2hZekU5TUQxX1FiUW5GdnJONGthcldGNFLSAZsBQVVfeXFMTUFkbHJuSzJqcWFXS3lqMzJsUzNmQmVSdHEtMEdxMm5BQzNUdzc4MU1URDduc2NuRVBybkVwVXo1UVo1UThvOUhuTDBEVlgwbzBGTEw5RkhJcUZuaDF5a1FmZkZ5d25RcktLZnBUajZ0UG1LVkllaURYS1NET2Jsd0FVQV9BclA4bmhTbkNvRU10dlVzNmY1ZE9NQ0U?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-18 10:39:57",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5607,
+      "EUR": 4.2182,
+      "GBP": 4.8393,
+      "CHF": 4.629,
+      "JPY": 0.023287,
+      "AUD": 2.5184,
+      "CAD": 2.6098,
+      "CNY": 0.5147
+    },
+    "crypto": {
+      "BITCOIN": 242929,
+      "DOGECOIN": 0.361504,
+      "ETHEREUM": 7196.46,
+      "LITECOIN": 193.53,
+      "RIPPLE": 5.31
+    },
+    "indices": {
+      "^WIG20": 3361.54,
+      "^WIG30": 4318.13,
+      "^WIG": 3361.54
+    },
+    "news": [
+      {
+        "title": "Media: Rząd szykuje uderzenie w Nawrockiego. W tle kryptowaluty - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXpWelo1cG42NHFaLXk4Zm9DcWdoUkVFcURYWkRVZzJvR3RPdmpXdjRZR1FJVmdoYlJESHJrYXZhY3A1THJUUnF4d1RGYXVIcTN0VFltU1FSQnVsQVJrbDIwQkg2MmY3OEZtTzZYd1hGRVdSeHRNZVR5Z2YwTzB4bXA1dDlCS1VEalVweHV3TFNXUHVvYlNTeWswc2dlWU9jT1NfQnM0Zw?oc=5"
+      },
+      {
+        "title": "Niebezpieczne związki: polski historyk i przyjaciel Grupy Wagnera. Kulisy odwołania szefa Instytutu Pileckiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWV9xaF9jbEYyZ2E1LWNXMXoyamRFR0poTEpjZl83VktJU2lSWFJmMFlXMUdxZG5DenBpZzdCNTExUW1tOVI2RVpFYXg0ei1GSi1vT0V5dHYwVkNOOGR2NUVMMk9CdUZYMzVMdHd4bzU4NncxRkt1aV9kd0xhckw4Mm1PczZHVEpFTlRYOTJicWxRcHVnbkI3UzBLTy1QMGNJSEs0LURxSlBSdXlFUDBaeUk0M1hSb18xS2pJdTI4UmJPclVVaEYyb29aeGxqYndhZTJ0LWoyUVF6RnFsTTlwam14T0xUZw?oc=5"
+      },
+      {
+        "title": "Brutalne sceny przemocy na Bałkanach. Studenci nie dają za wygraną, kocioł wrze - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2hoY2loTmcyejBTLVN0cFFfbVdHanlsRmJHelpBLS1nQS1tT2tDV2cxQ2N3SUVhUGdFLW03dkRtdlZHUzd4RjhoQUtKT2hVWkFneVItWC1kLV9OUGdXRWdfRXB6cGxCWWFxblp5VkE3T0FDLW9EUE1YTFhfZXY1N3BjSUxHbHpBdFRLaWFJcy1uZWhqa3BlWjFqQ3FMWFQ3M1JmeDczNDgzdXV6ZUJJTTlDVVY?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Vance znowu skrytykował Europę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhpVlFrVW1ZZGlzWXFEUVZtd21ka0ZvTTZpNkRkd1Fqb2FCdlZVOEtxaUEyckFQTDZGcnNfZWZHNG5XaHhmLUFyUElKTk5jbEp5bmNkX3g2OUF0YklsVGtDajhrX3NoaTFLQkVvMlM3X2FVR1kxUm9wT0xtbDNvSks0TlJhN2NHZjA0WFI0aDFQLXJLZUE?oc=5"
+      },
+      {
+        "title": "Błaszczak oskarża Sikorskiego: prowadzi do utraty niepodległości - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmZRMGpiV2RLcFVrZ3BiR3VBeDBLVml2TEpjXzZPd3dEYWZsMDlBcVdXUHo3Unl3bGRFM1Fab1preVVrSTVNLUdUZ1d1M096S3puUmt5U3dlLU52Nm5GN21uU25PeDFVaFg2WVhlSy0xM2VCVEpBaWw2c3NkczEwc05WbGhibS1NdXFZeHk1a2xKakVCTnhGMnF3WXVNdmh1YV9FdDQzT1pPdw?oc=5"
       }
     ]
   }
