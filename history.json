@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-15 21:18:41",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 242292,
-      "DOGECOIN": 0.365238,
-      "ETHEREUM": 6894.21,
-      "LITECOIN": 193.11,
-      "RIPPLE": 5.15
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Atak zimy w całym kraju. W nocy duży spadek temperatury - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVpEYjZhSUpwSHctQjNfVnNpdXFjTWtud0hQaHdMWmxNZkdwWDRkQjc3LWZscklfU0VwY3RzX1R5THJWUzJxZTMySEcxb1pZbmVaNmU1OVp2QzczaHdxVnhyUUxpQ2ljTWpJblZHdWJGM3ZQRTF6LVpCU3hxcWhMa3ZveHk4QnBPcDc2d2lEbUJkRXhvRmdYSDR0Mm9WUQ?oc=5"
-      },
-      {
-        "title": "Reakcja policji po publikacji posła PiS. \"Wyrażamy stanowczy sprzeciw\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZnSUVSNnRaOHRUS0t1VTNRcS1NUS1SUUpsc1liQWlIUkZtSHU1QVhSNkRuSC1CQ1FuVDhFRXg1QWxKZFFHTlRHXzBxd3A3ZWNGTEM3RUFvaDMxRXlSR2M5TUx1czlxWlpQcDU3NTI3b2NEdmFVbkJLeWQ2cXQ3QmkzZzVER0E0RWVrSEhZY2Z0dlRyaXNqWVp5b2FEOGFCbDN6ZTZXLTRCN2g0S0o4aFM1b0Vldw?oc=5"
-      },
-      {
-        "title": "Domański mówi o \"głupcach lub zdrajcach\". Nawrocki odpowiada ws. SAFE - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1dlN2tlWVMxRDYyTXZzcFZLSkN3d1ZMdnNIZWxWUVpoX19yckJMa1Z5Y3V0RW5xZnMxTUF2VmtHVHJaa05IalFzRjlyZDc0T2pRSzhSbnFEakRaWDZvVGVvYmwwd3dCZjB0QkozdWJnN3hqdFkwTk4tNTJMZGxINVhhUkFaSVhMMkY1NFZoNXFHb3FHRGlnMGdVNk04QnYtYmxBaHY2cEdJejJXYWc?oc=5"
-      },
-      {
-        "title": "USA i Izrael planują zwiększenie nacisku na Iran - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHdfbTZxRk5wUnBQUkVMSnkxdHYyQXRDTUVFemVrSGc5aU93TEt5ak1mVzZPckZlYnh6Q255cmFlM0FXblNYNDdSVzlRbjNENmpNQUZtYzIydDJtZHhfckNobVlOTkdoV05EU3FBR2wyZHdZVE1iNDV5aWp5NWFyRHdlNUhjVUVXZnI5WE13ZVI2eXJGTXc?oc=5"
-      },
-      {
-        "title": "Aleksiej Nawalny został otruty. Jest reakcja Marco Rubio - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDB4bjNrQlVNLTI1VzV0MTNFWnhwNDBwTzNFejlaU2M3bV9LLVBFVHludkRha3hNcktYeWMyREhJcVdvREtFNVlSU0ZTZk9rZi1fV2RaWXJ4SjBPMTVuOGNSVnFIS0NWSXR4NmlZUV90bkhCY1lYdFpvZlRxdHpST0VMTGkwV1ZmX1hNNFlrNnNNcmFaa01aX1BmWlZudHFCUFh6UUx5Wi1mcTYwLWowZ0J4UWdzbkFxUVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-15 22:18:29",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Błaszczak oskarża Sikorskiego: prowadzi do utraty niepodległości - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmZRMGpiV2RLcFVrZ3BiR3VBeDBLVml2TEpjXzZPd3dEYWZsMDlBcVdXUHo3Unl3bGRFM1Fab1preVVrSTVNLUdUZ1d1M096S3puUmt5U3dlLU52Nm5GN21uU25PeDFVaFg2WVhlSy0xM2VCVEpBaWw2c3NkczEwc05WbGhibS1NdXFZeHk1a2xKakVCTnhGMnF3WXVNdmh1YV9FdDQzT1pPdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-18 11:37:44",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5607,
+      "EUR": 4.2182,
+      "GBP": 4.8393,
+      "CHF": 4.629,
+      "JPY": 0.023287,
+      "AUD": 2.5184,
+      "CAD": 2.6098,
+      "CNY": 0.5147
+    },
+    "crypto": {
+      "BITCOIN": 241887,
+      "DOGECOIN": 0.358833,
+      "ETHEREUM": 7145.26,
+      "LITECOIN": 192.55,
+      "RIPPLE": 5.28
+    },
+    "indices": {
+      "^WIG20": 3359.78,
+      "^WIG30": 4315.3,
+      "^WIG": 3359.78
+    },
+    "news": [
+      {
+        "title": "\"Ktoś go uruchomił\". Awantura o środki, rzecznik ostro o byłym ministrze - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaWtqRTVHYm9ldTgzY1hWZ2lTTkwwSnB6Mk5tSDJoSXhJQ1Z4MWRZR3EycGRrUk5kNkpkQzN0T2J6dnhVVFZOQXZsZ0lXWEZIWmtLTkFNd21uZlVvZW5zOWF1LW1qSmJRM05XY0xTcHF5ZDdrQWdqczNjRWVHRFV4MG84VTJWVllHRmZ2M1p4alFlcW1fZThqbXd3bnFYczR1bTBVRTlNUmVrM2V1ZUhJ?oc=5"
+      },
+      {
+        "title": "Niebezpieczne związki: polski historyk i przyjaciel Grupy Wagnera. Kulisy odwołania szefa Instytutu Pileckiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWV9xaF9jbEYyZ2E1LWNXMXoyamRFR0poTEpjZl83VktJU2lSWFJmMFlXMUdxZG5DenBpZzdCNTExUW1tOVI2RVpFYXg0ei1GSi1vT0V5dHYwVkNOOGR2NUVMMk9CdUZYMzVMdHd4bzU4NncxRkt1aV9kd0xhckw4Mm1PczZHVEpFTlRYOTJicWxRcHVnbkI3UzBLTy1QMGNJSEs0LURxSlBSdXlFUDBaeUk0M1hSb18xS2pJdTI4UmJPclVVaEYyb29aeGxqYndhZTJ0LWoyUVF6RnFsTTlwam14T0xUZw?oc=5"
+      },
+      {
+        "title": "Biskup przed sądem za tuszowanie pedofilii. Pierwszy taki proces - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmNZd0ROWjA1Rk1qc1FnZ1NDcnRZc1RLRk9MeXFWWnRnUzJVSXlvSVJ2eTY0d0VlT2l3enNoa3ppLXZqZDNaM283cFpra0ROUHVyV3piQ25NM0tuNjR5TmFRaGtvWmtzTWNKcFVTTTdpNXBmWGx0a1VNTURFcFBsZHV1OWdvR1RTbnU3ZWJlVndhZ190WGJ0NkdXVHU4Y3dVZWJucDktV3dQdw?oc=5"
+      },
+      {
+        "title": "Warzywa w każdym posiłku i mniej smażenia. Nowe zasady dla szkolnych stołówek - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUVCbVFFaXVfSGlwOWZEQ1pnWW9XcFpLTXZCeEpWOEluZkVzWFQ3N0hHZXNNSnQ1enhyR2czbENZbVJRNTJDaVRkc3czbWFfaWphd1BEVGdCM09jYUFJbHMwdkd6c0pHWG5Ma1dCYW1lUWtZVVBpSWlvd0pOWi1LbFZKNGxsVnFYSVhNckVIemlOSGJQRl96SHZzc2lVbzMzUVFqX0dQOWkxUkZHS0VVRHQ2SkJMbFZjOXZrc2NjT0o?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Vance znowu skrytykował Europę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhpVlFrVW1ZZGlzWXFEUVZtd21ka0ZvTTZpNkRkd1Fqb2FCdlZVOEtxaUEyckFQTDZGcnNfZWZHNG5XaHhmLUFyUElKTk5jbEp5bmNkX3g2OUF0YklsVGtDajhrX3NoaTFLQkVvMlM3X2FVR1kxUm9wT0xtbDNvSks0TlJhN2NHZjA0WFI0aDFQLXJLZUE?oc=5"
       }
     ]
   }
