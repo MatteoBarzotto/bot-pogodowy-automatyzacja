@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-16 12:35:32",
-    "weather": {
-      "Warsaw": "Warsaw: -7°C",
-      "Kraków": "Krakow: -6°C",
-      "Gdańsk": "Gdansk: -10°C"
-    },
-    "rates": {
-      "USD": 3.5467,
-      "EUR": 4.208,
-      "GBP": 4.8393,
-      "CHF": 4.6085,
-      "JPY": 0.023095,
-      "AUD": 2.5124,
-      "CAD": 2.6044,
-      "CNY": 0.5135
-    },
-    "crypto": {
-      "BITCOIN": 243557,
-      "DOGECOIN": 0.360394,
-      "ETHEREUM": 6988.97,
-      "LITECOIN": 191.0,
-      "RIPPLE": 5.26
-    },
-    "indices": {
-      "^WIG20": 3365.63,
-      "^WIG30": 4323.1,
-      "^WIG": 3365.63
-    },
-    "news": [
-      {
-        "title": "Zbigniew Ziobro skarży się na Radosława Sikorskiego. Napisał do ambasadora USA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXhyM3JPZUR0RkgzSWlrZmRhWDUtQjN6dkcxTENlVVVDZXdKNGV5QTljbngyamFRRExKM2JsTjYxLThGX0E5cGVnZXBVYjhvS3F0bnowckFYeEktWGFRZExmMGtzTmR3WmJmX1JzSVV1SFlmLXdMMHZWc1lZM2E1Q2oyNXFkelpxZngxUHViY1pBTkN6QXloOTNiMUV1b3Y4bVhTUzJZcWxhY2VLSlBwaFBpV1ZoSmdZ?oc=5"
-      },
-      {
-        "title": "Poseł Polski 2050 skazany. Drugi taki wyrok w historii tej kadencji Sejmu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283OFdvNkxpUGY4czFkMXhzel93MjE1eUxYU3RCSDhHYUwtbWhiTnBFTXYzbEZvQ2ZHY1I2V0JPbUhzeVlnZlNPd3JTdEtVdUZ0RXhQY19MVHZ4V3dGdUpaREJYbzVPSWNwNF95UlYxb3VZMEtrZjhZYjljUEhvZ09JVUs5QTJSR29JTXpQOHZGTmo1czZRNUpaVQ?oc=5"
-      },
-      {
-        "title": "Grupy przestępcze przygotowują się na koniec wojny. Szef policji wskazuje zagrożenia - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUU9kaUZNQmQ1aVlhdk1SYzNOV2dIR3FJZGJaYzE4RzhtT3RyVWlGaTBJWnF5S2dVc2VSMGN6WWY3OWJjM3p5WlJSeEt0dDJFcXREZlFnVmFTVkFubVlXMDhRVFpZYUdNY0syTzczd1FmU1NWNWxEZlhvaGdRMXBoQ2xqbE9NbTQ3eDZIaS1NSGJKYkZ0Z1RqUHQ0d09KaEtTcFpDR3phLWVJSUF5c211dXJLUlZMLUhlaFZuX0V2YUk?oc=5"
-      },
-      {
-        "title": "Obiekty z Białorusi nad Polską. Dowództwo Operacyjne wydało komunikat - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUW5QYXZsU1FlNnpvR0paMUxwZU9JOVUwU0owcDRHMVg3SnB5czRWbVlRN0ZGRXk4eldQT2JFZEN5NHFKeU5QY19Pbkl6TnNMa0hKSGh2TzFONkVYLWdFejhYSmJVYW5VUE5mUXRxR0E3M2xYUWM4UFBaMUQyTFQ4M2I3WF95dDg1MkxTVURJc3FTXzZVdWZtcXphT2ZoeXdfTWlKNVlNdWZEZFVn?oc=5"
-      },
-      {
-        "title": "S7 Kraków–Myślenice od nowa. Rząd przejmuje nadzór nad przygotowaniami - LoveKraków.pl",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdlZuQU9HZlVvNTRNeEQzX09IZkVTblUyZUNqdGU2UjlPYmlzZlhCcXJBcjh5ZzgtZzYwc1kzb1J5cTlNSFNLY0tCZl83Z245VFZiTXpuOFR3RTFDbnRqa0RxdXJIT3FYd1lqOW5ZRGduUUlnVlNpenJieWM5U2NWaHlEdEd5THNPUnZycFhSZDFNMEIyX0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-16 13:49:16",
     "weather": {
       "Warsaw": "Warsaw: -6°C",
@@ -2592,6 +2540,58 @@
       {
         "title": "To wtedy Załużny pokłócił się z Zełenskim. Kontrowersyjna sprawa przeszukania - Onet",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlNxQTJBckJyU25VQjhmMDl1Z01mdWpJWHFkLTBKUXA1S0FvZXM0ZnVUaERMWEJMUDhJeDNOMVAxLVhBWTBVNWZFS1RDUDB4aUhzTjlFcW1TaGllQjNSNTMySDFYYm8tM1ZBdlF0enN4R1dyMS1oVHY4dHlMQkZRTzlfZ0xaY1plVVJpUmdkN0s5czJlQ09fcWYyWVZPbU5yYXM3ZFpxMkpETWtQWE94YWY5Y2pnd2NkZEEtQjJrMUw4VjhwWHc?oc=5"
+      },
+      {
+        "title": "Trump zaprosił Watykan do Rady Pokoju. Stolica Apostolska ogłosiła decyzję - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWlWZTdGek9vM1pNYVJPOXV4MV9rdGkzOTlPYUFybEx1ZDNuNTFCSUhjUkhZbEc4bUVwaHZtRC1aZnVkci1qRzB2UkN1ZHIwbXd1S2tHZ3Q4WkFPck9oVUl3VW1zbXFwUnpwSjZXUnRCb0JhNTdWdEFpVFFIeTlKbkw4OGxKS1dob2Y3UGdOT01FYVBkOU1hUF9lTUJyUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-18 23:26:40",
+    "weather": {
+      "Warsaw": "Warsaw: -9°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.561,
+      "EUR": 4.2148,
+      "GBP": 4.8338,
+      "CHF": 4.6159,
+      "JPY": 0.023163,
+      "AUD": 2.5204,
+      "CAD": 2.6078,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 237149,
+      "DOGECOIN": 0.351419,
+      "ETHEREUM": 6944.95,
+      "LITECOIN": 189.79,
+      "RIPPLE": 5.08
+    },
+    "indices": {
+      "^WIG20": 3377.74,
+      "^WIG30": 4342.99,
+      "^WIG": 3377.74
+    },
+    "news": [
+      {
+        "title": "Karambol na moście w Warszawie. To kluczowa przeprawa w stolicy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUx6Y1l5LVBITk1jQmFoUDRBcko1b1A0RXpXeEdRNzlLLW45d3NQTGxGdnhnN0QwSm94WmE4ME5YeUNrOEV4OUlpaktraWoyejhHN0Z3c0lGdDJmclozbTFyWEVYcmdoYUFIQkhHRDZLbERSZjJVdDFsM1F4Nmg0bFZ4clh4dkctTEpXdHVsSzc4Y1Y2YVBqS0ZXaVV1ZUtxRjZBNzRGbmotVk5zNE5qS1FVU1MxQUdONjNoRTVQWFQ?oc=5"
+      },
+      {
+        "title": "Emocje wokół Czarzastego. Reszta kadencji pod znakiem zapytania? Nowy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVBhOV96Y3Bsek1yc1loUFNHM1dvTnA4d2x4eUtoY0R2VUN2V3hubmx2TmpZSGF0VHNHTVIzU3dURU1janFnbGRxSTZuak9LcTd5RHE1bVRaWVZiQ09JNkY0clJLT1lmLTZOZEk2MFUyV1liQVhoYjQtR216cWM0cnZWQTZPVUJSbXBZUzRURmotT0taTVJfWkU5SHFGcGxuSEN0OXpTRGk4cEhrSDlpejRHWGpROURh?oc=5"
+      },
+      {
+        "title": "Aleksandra Leo ostro o Szymonie Hołowni. \"Nigdy nie widzi swoich błędów\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEZxSTNJMl9kRUcwTXFTV2UzTF9iTkVEMlRCUjVOeC1qV3AxeFlRVTlSOTViV2hpV2pMZ1BMXzZESWxna2pJeHlJMTNCM1FxcXBoNExpM0t2TGlLWWdka0JldXd2cU5aa3JGVUs1VjVUUUFIUWVvNGpGbnJPZ3ZWYlVTRF93c1V2aGpyMXRyM0t2VkZWaUN4RTFjVjlMcHNLOEVwVmlxR2cweWJIQ2c?oc=5"
+      },
+      {
+        "title": "\"Nie ma tu miejsca na kompromisy!\". Spór o czujki dymu i czadu. MSWiA reaguje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS3dKZFVTTUZOeEpMVHROeVRGOFdqcWJFWGhFNzRNTFhYQ2JhWnZzaHpyaVRfMzdhek9GMm1RUFhXaUxZZlBRREZjRk1hMTJSQTdUdzlBUzNUbXZrSXZ0UWdIU1RHN19zS1RmZFV6dU9xVWRENkVmRXVVN3gwbzNBejk2QWlLM3V6aXMxM2FIeHpCRnkwSzBXMFI5cXQzZkpVZC1ERDV1ZHJuQVkybG5LaTJsVWRydF81M1NPS1I5MmZKR3ZtMkE?oc=5"
       },
       {
         "title": "Trump zaprosił Watykan do Rady Pokoju. Stolica Apostolska ogłosiła decyzję - PolsatNews.pl",
