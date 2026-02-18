@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-16 07:02:02",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5528,
-      "EUR": 4.214,
-      "GBP": 4.8398,
-      "CHF": 4.6163,
-      "JPY": 0.023144,
-      "AUD": 2.5125,
-      "CAD": 2.6116,
-      "CNY": 0.5142
-    },
-    "crypto": {
-      "BITCOIN": 242572,
-      "DOGECOIN": 0.361284,
-      "ETHEREUM": 6946.81,
-      "LITECOIN": 191.1,
-      "RIPPLE": 5.17
-    },
-    "indices": {
-      "^WIG20": 3359.49,
-      "^WIG30": 4310.46,
-      "^WIG": 3359.49
-    },
-    "news": [
-      {
-        "title": "Czy rozpadnie się koalicyjny klub? Przewodnicząca Polski 2050 zabiera głos - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ3lPa081b3VQUkpfZW9HZGIyNVdkWG10Q01CMnVfeTdULWsyZ0JReURQMEJFcXItWk5ldkNrelNja0xvb3N6ZlFzRHlRR0FmaktpSGpFVGIxSTYxZWFyeWwta0JSclZvcW8xZlVMT0daTkExNk9nUVZjTEJSeWotUkQ1ZFZjUVhrckpTcmRIU0plb3ZFaDF0QmwtdmllaVltaFRwTEtmRmlRcnFGLVlDcVZCZzlUUUk?oc=5"
-      },
-      {
-        "title": "Gorzka diagnoza byłej premier Finlandii Sanny Marin. \"Straciliśmy całe dekady\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGxDT2lDMGpfd0ZqdnNJNnczSlRhdEFwb1cyeWdsb091bTA3V283Q0xBY0dGbU1ROGtXS1VWWHF3RjVEaXdWOVRaYmVsZnNPYkVoQk1jQnJ5U1FBVUIxaUJCZUdzb1lSbWpVd3JMY2ktNkJLUG5CQUVYMU8wY3NuRkp0VUZJTWxVUEdwNEY5TG1xcjRPSzhsM0M4ZGlsNGpHQVB3LWoxUU5FZ1F0R1VVNUlwMU9iVjhlc0E?oc=5"
-      },
-      {
-        "title": "Białe plamy na mapie porodówek. Zamknięto niemal trzykrotnie więcej oddziałów [WYKRESY] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUEsxT3NHSEdFMGg1bVM1RlJ6V1N3eEtQWkIyVHpNU3hxVk5qQm1ReWFweGFOMTIzQWJobEZYTTQwTHRvdXJhSDVySC1pMlFZaklKb2YzdmdVeDM1bU1pWk1NRWlpSmQxdDlnbUw5SkZXZzBxcEFkRV9wUlAyNE00ZV9Id3hHSVllWkFGUktHZDZLVGxTcVZ4V3VDWnhDNmdEVmF1MEx5QmpSOXpFc3hySm9RRVM2eTNINEM0T1hMejQxQTBQb05idnRiWXJIb3V1NEptNXJR?oc=5"
-      },
-      {
-        "title": "Piebiak, jego ludzie i neo-sędziowie idą po KRS. Chcą nadal rządzić sądami i ustawiać sędziów - OKO.press",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0telNtUUdPenZkVmxXWXRKa3F5dGEwc1ZiRUxSc2VCTkJHV2hmYVpvU0ctWnIxTTNQR2h1bXNsODN3Mm1rZjNwZ2tDN25BdkRRVUUyZVp6VTNwdU1LQmVBdmhfZTg1UFJnT3A4ZFM1LVA3QQ?oc=5"
-      },
-      {
-        "title": "Konflikt Nawrockiego z Czarzastym. \"Nie dajcie się wkręcać\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2Q3VXVSLUJxUXdHc3hQMEI4Y2JBaUdoeWR6b0p5U1diTS1hUk1vYVpnbmNEQTJiZ0htTDM1OTFTanBRbVJNZXhiUG9RT3Vpc1R4OERGVVVidUF1SjFUQ1JNX0tqUVNJSmFjNHYwYkJuN1d1WUdZMktpRW9qejRsSE5rVC1ETkRRTjRRcFNQMkFYeHMyTV9LT2JoYk1hUHpB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-16 08:49:14",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zamieszanie z czujkami dymu. Były szef PSP alarmuje, MSWiA zaprzecza - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3VhUEVLa0t3aWphNmg0VHNMTFFmclNRU05PT1JmUURSZEtuWjBNUVVtc2pGR2NTaDZZNnNTYmkxcUtzTm9fRzhIdlBtd3FyWmZrdEdUUmRZbEoxMXNFdGYzbDNWaEVMSzZCdU9iQUpGVHFiWWg2RWd2QlhEa1pKTjg4bHo1ajQ0aW1QNnE3WWRLQ2FqREt4dkdSMXNlRW9JbVlyaHVEN0hoMFpZSkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-18 18:49:49",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": ""
+    },
+    "rates": {
+      "USD": 3.561,
+      "EUR": 4.2148,
+      "GBP": 4.8338,
+      "CHF": 4.6159,
+      "JPY": 0.023163,
+      "AUD": 2.5204,
+      "CAD": 2.6078,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 239650,
+      "DOGECOIN": 0.356141,
+      "ETHEREUM": 7049.45,
+      "LITECOIN": 193.03,
+      "RIPPLE": 5.2
+    },
+    "indices": {
+      "^WIG20": 3377.74,
+      "^WIG30": 4342.99,
+      "^WIG": 3377.74
+    },
+    "news": [
+      {
+        "title": "ENA wobec Marcina Romanowskiego. Jest decyzja sądu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFBVUGNrOElIc1d6c1ZWUGtlVGFHbkRwTHIxLS1fTkxMSjFlUENWUi0yVlRHX3FLY2tzVS1sWVB4WU5UVHF1TmNKek5wUi1FZU9RdmltR09FbjA1ODIyNnBuYVVnSTdMd2ZlWEVsU0JRSUs1ZGRNc3R4V3h6bnJ2WkhiUUZjR0tfdV81cHFnMUd5MFdpUXdv?oc=5"
+      },
+      {
+        "title": "Decyzja ws. Iranu została podjęta? \"Rozmowy są tylko teatrem dyplomatycznym\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDFvdE1lQmROWU81X2I4TXhwME00QTlQSHB0cFZPaUdDWmdBdEJIS2RKaEpZQ25EeVU5SW84Y1FiR09lQlFQRmk4cWZGMm9hQXRSb0QzNUxiaVZ0ZkZhb3Y1Yi15dnEwaGZ4bXlXMDdXUFEzY01Qc05WX083a09wbk5MRUpubDRoMEU0ZC1qSXdkTUhSX0g1Ni1tbmxKQ2t6b3ZhU2pGTzBLRW9vQnVXdVItb1duQQ?oc=5"
+      },
+      {
+        "title": "Historyczny proces. Biskup na ławie oskarżonych. \"Nie przyznaję się\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUpnc3NDZ1pBUVI5OTl4ajBjQy1PdW4yT0JseGlvN2NHMWFOYVhIZ0htUklYd0QwVjNYSGh4OWJzYXZVNDFpZkMzeHFPTmxuUjh5T0dJbVZ6dzFBMFl1TU9sd25rYmJRMlRzWi1OYkZVTTdqUHNiUUdKODZzUUpWbFJuUHhWUlE3S0JhdjVwLWdxa0lKLUdZWVdXV19oZmFLUThtb3VsalEwajJIbUVOb1NlWDFLcXhGM2cxUnBKakpFT0s2RUFzU1ZR?oc=5"
+      },
+      {
+        "title": "Trump ratuje zdesperowanego Orbana. USA wchodzą do gry o Węgry. Amerykanie mogą się srogo przeliczyć - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFTRHhYLTNjUmw3d3hxeHhqX2lsVVp1SDhGODJWNGlwMU5PT0o5b2Z0YmJ2anBaaEhramxXMXZEMmt3eE85Nno5Z3h1NklmM1FYMS1LVTFhcHlvNWk4eEdnOEdyT0c0eDlrbjVjXzdpTGV1N2RZaXNPOUNURkdDbmNZQTg3cFlBS190R0RtLTJVazlkSW1vYl9rY2dtajFvcGVVZVY5Ykl4S2lnZkVxYUc1dkloalVfNGtJZ2FCNA?oc=5"
+      },
+      {
+        "title": "Mrozy, a potem nagły skok temperatury. Zobacz prognozę na 5 dni - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVRMVHBvaFRGQUFaSERhZHpxRF9tVUVHMlR0ZEpDZTFFUjRpRHBDcUNrZHpvUFRFRmpER3VnQjhvYnBULW5jSHBIUE0ySFBpMXc2SEpwdndwdm1lMGJqaUc4eUtGbWlhT2tqMEZRSVpkUWVjSDFGd203eUphSVZIcGFMNXVGeUg5ZkF0RkhiZ2NEaGZoTWxDQ2NIdEMzY1JVeDM3dVU5VQ?oc=5"
       }
     ]
   }
