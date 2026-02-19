@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-16 20:28:33",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -5°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5467,
-      "EUR": 4.208,
-      "GBP": 4.8393,
-      "CHF": 4.6085,
-      "JPY": 0.023095,
-      "AUD": 2.5124,
-      "CAD": 2.6044,
-      "CNY": 0.5135
-    },
-    "crypto": {
-      "BITCOIN": 241644,
-      "DOGECOIN": 0.357589,
-      "ETHEREUM": 7009.53,
-      "LITECOIN": 192.05,
-      "RIPPLE": 5.25
-    },
-    "indices": {
-      "^WIG20": 3364.33,
-      "^WIG30": 4322.56,
-      "^WIG": 3364.33
-    },
-    "news": [
-      {
-        "title": "Michał Kobosko rezygnuje z członkostwa w Polsce 2050 - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHRlN1I4WldKWFpRNkRYampEMWE5MlNTdmQ4UDNONE1zYV9GaHZVSHlBZ2xtaEl6SkctSTRlMnVTejRINUNjUGltSjZnVll4ZHBFdmhBbW84OVgwQnUxd2xxQzRUaHhnbVJxZ1QzZ3dhMWluNDJFeGY0Y0RSTVlBOUlDSTlKX1JrRzRubHc1cDRpSXctUlNn?oc=5"
-      },
-      {
-        "title": "Rosyjska ropa nie płynie przez Ukrainę. Węgry i Słowacja proszą o pomoc - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUE5jZzRrb0pEY0hJeFNlRS1ZV2tQaVVYX1AtekdkemVydWVoUzRGV0lWSVpEV25IOFllQWhoZkVzWjh4ZDVVcEU5YkFFX0xiemF4ZGhuMmR5LVJBTHNMa21VTTlnVVROVUNnY2xqbElIZjBuVHNpWW1XQ052RnBnZ0c4SG5JNFRlSURZd3g3VWxvUUtiblhWMkUwQ1J3VWoxUDNySGpxZndfdktpQnA0SWRvekEwWWdhakdwN2FqMnlBTkE?oc=5"
-      },
-      {
-        "title": "Najnowszy sondaż dla WP. KO umacnia się na prowadzeniu, partia Grzegorza Brauna ze wzrostem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa0JKSFVqWDJxSG5KUUVQQTk1WFZVR3hwNUZiaFJZN2NZekg0QTVJTzZ5VHdOZlJhUTg3SzhkTklpakRQQTc5NEdfOElRamRZbmhpX1d0QWM4OGgwcUpXZmxOT0VOV2xMa1ZIYVlTMGVIQjhGZlQyaUg2anU3X2d6dS1tbHNlSkx1OXNEbEFNRFc5UWt1a1A2b21XWmJxUjdZUlV6YllJTEFMb2JUV184RXY2cmZNcHRWUm9pYUd2YUlPZXU4cnN0UzFlQU0?oc=5"
-      },
-      {
-        "title": "Ciężarna Kasia zginęła w wypadku. Mąż 26-latki zabrał głos - o2",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1dmNXVMd3FtU3NfSDZIbUhOUFNETEs5Wm9wb0lTQUtEYzl0bEhjSnloR3JvRlhxVWJPQ3hZWVRYeUFidjk3Y0d3OTRSd291QURaWUZBN0RleGFBTDJfbHFRLUhQSDgtaEhoM2xmZDZPZlRscm1Rck50Q3NZWjFNb2ZnVkUtNWdCODlHZ1hCcDlYYW1wR1E3SUVHMjdjSXktdXlRS0M1OA?oc=5"
-      },
-      {
-        "title": "Trump ugrał swoje. Porozumienie z Iranem coraz bliżej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGtZckY5NlVTdXV6dDJMRk1mdWVad1gwbmNlaF81M2pidHhjWDBYYWJHUV8xQ3NDTEF5UlBDamVKQUhseWxBU1BxNlJTOEYydVEzNWlVUmlZckt5VUlTcHc4UUh5bFZFbU50dHdGaXNmUm9jRXVxOHVlMGZsb3VIU213dDNxT1Vyd0tZX2lXTXYyR1QwdjJoQ1lLVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-16 21:22:59",
     "weather": {
       "Warsaw": "Warsaw: -7°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zełenski ma nowego rywala. Sondaże pokazują, że to on może wygrać wybory - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjdCWHlsb05LNEFnOHhDOWk2TFY5QlphNlRhMVpBM2x0R1ZnenpiM3BET25LZk45WGdCZEsyUnRHemwtNGFlblg2dWFxQks4VjAxWl82aWZyaGp1aXhDVlpjaG9JMGpvWUo3aDl6QWVaMzUyRHpsNkR3Y3RTOEltemZMcWFDUlI0ZXkxMjl6a3habkJOM3Roc2pEZnRKci1DTVp2VjNFaElhcHY0VGRhS0NjQ1Z2b3dlLXc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-19 09:36:06",
+    "weather": {
+      "Warsaw": "Warsaw: -5°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.561,
+      "EUR": 4.2148,
+      "GBP": 4.8338,
+      "CHF": 4.6159,
+      "JPY": 0.023163,
+      "AUD": 2.5204,
+      "CAD": 2.6078,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 238704,
+      "DOGECOIN": 0.348484,
+      "ETHEREUM": 7030.14,
+      "LITECOIN": 189.13,
+      "RIPPLE": 5.07
+    },
+    "indices": {
+      "^WIG20": 3397.74,
+      "^WIG30": 4357.31,
+      "^WIG": 3397.74
+    },
+    "news": [
+      {
+        "title": "\"Trzymaj język za zębami\". Słowa Merza zirytowały belgijskiego ministra - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0g2WTE2RS00cDVfNzVqTFE3cEtOX2lpMEZFSTNabFVpVDhKekE1c2JEcXVvMndzNC1qbWxWVHhDT0JDQ0pSUF9fR091Mm5xQ3ZRLUloU245UnhKM2s4Qjh2amRlTGZuSV9NVS1vZWpoZkt6VEMtZTlaWVc2eExkRW5mMnhWbmMxRF9DOF9fX3pvQUI3VnF6ZVJ1RUI4aUVwUzI2S1JxWU13eF84REtOY0VkMEt6RkFa?oc=5"
+      },
+      {
+        "title": "Więcej na promocję niż na pomoc. Poznaliśmy niepublikowany raport NIK ws. Funduszu Sprawiedliwości - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcTZTYnM4UWZSQlVsM0tLTjhJUGFrcTQ5Ul9rSVBNa3hHeXhtYkNBZnFwX19LOTJRS1kwV1ZVS3psZmFqMXphMld5ZVMwSFZ6UzZzUnk2aGNWY2NiWkF2T1FEVGdlempvbjhpREhNNzlJVncxM0VuS2QyNlR4MVc5cjNlVEE5a3dxUkFlSlMxMk5HM3hua1dCY0FPb2tZbURqQ3hpbW5ubnBTZ2lYdEhxUlBSd1lTUGwwQmMwRjJNSlFERWY4ZG83bmt6WHdSSkQtd2FQcWhn?oc=5"
+      },
+      {
+        "title": "Siedem lat niesłusznego aresztu i \"odzieranie z godności\". Rekordowy wniosek o miliony - TVN24",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXVFSEdJUXZ2cDRtbE5NWDZSejR6OVFSM0NUb2JWRFdfdUNEVThkY2VsbTF4cTRyVnA4ZjdtZDNTT3JjTXkyTHZhM1BDeGVJT2F3U0lkY2RxVXUxVEo0NXhsWkQ0Z2hGOTdUNlV5ZGZDUXd0NW4yN2htb0UwczRwZmwwS2hXTGRiVTVLajRB?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka ściga Jolantę Kwaśniewską. Chodzi o głosy jednej grupy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkE5LVNLczFjVS1iaktMQkstRzB2Z1Y4ZE1wbWVUcHlrTXNjNm5RR3NVWWxVTU41MklCVEdUX3VJQlRYUmx2T0JSZE9rTmxxVGxVS0VBaVk0Vi01d2N6Z0RzQnBPM0pRZ0NBUWl3SzdkOTczU250aGhHY1ZTTVZ2V2x0X1N3SjFLZnRqbWlzNzM0aXVoSkNERlJGVUt6M05FcXFPUTlEaTFDbG1tTVYtdHFMS3dBN0VsbGhHODgwV3N6ZFk?oc=5"
+      },
+      {
+        "title": "Niemcy się wycofają? Niepokojąca wypowiedź kanclerza - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2dfTnlIa1I5clhwM2lRX2ZYS2RrMTVmX3gtbWlJOVBwNm5ROVNibXUzVVhlM3hzamhJdmRMS3hLbE4yam9xRjVRY0hpRTl2Z3B1Z245RkVBZlRhSkU2bUM4MzVYektPZUozcmczM1pvVXgxNEgtUUFUNFE1LWxRcXNFc2ZBOVczQjJnUTViSUdhUQ?oc=5"
       }
     ]
   }
