@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-16 15:01:41",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5467,
-      "EUR": 4.208,
-      "GBP": 4.8393,
-      "CHF": 4.6085,
-      "JPY": 0.023095,
-      "AUD": 2.5124,
-      "CAD": 2.6044,
-      "CNY": 0.5135
-    },
-    "crypto": {
-      "BITCOIN": 242864,
-      "DOGECOIN": 0.355263,
-      "ETHEREUM": 6985.33,
-      "LITECOIN": 191.35,
-      "RIPPLE": 5.28
-    },
-    "indices": {
-      "^WIG20": 3359.45,
-      "^WIG30": 4316.84,
-      "^WIG": 3359.45
-    },
-    "news": [
-      {
-        "title": "Zbigniew Ziobro skarży się na Radosława Sikorskiego. Napisał do ambasadora USA - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXhyM3JPZUR0RkgzSWlrZmRhWDUtQjN6dkcxTENlVVVDZXdKNGV5QTljbngyamFRRExKM2JsTjYxLThGX0E5cGVnZXBVYjhvS3F0bnowckFYeEktWGFRZExmMGtzTmR3WmJmX1JzSVV1SFlmLXdMMHZWc1lZM2E1Q2oyNXFkelpxZngxUHViY1pBTkN6QXloOTNiMUV1b3Y4bVhTUzJZcWxhY2VLSlBwaFBpV1ZoSmdZ?oc=5"
-      },
-      {
-        "title": "Kulisy wywiadu z Martą Nawrocką. \"Prezydent nie miał wpływu\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzZMNzJvdzM2WG12ZzdYN18ySFphOXd3U0FtWGFDWjNPczVRWVBuTnh1a3pDUFY3ZDRfTU5GN0d3WExVTnpicXNzV2RUTzZxOTZFeUVNNnZtbWhJUDVHTjFqN0ZwdUM1NVhUa184bUtyMWR2LVpxWXRBbXlQZEJCVUFGMEY2REVtVXZRN2pOX0t6cEEtaFdrTkFnY3h5OFY2ZHc?oc=5"
-      },
-      {
-        "title": "Weto Nawrockiego ws. programu SAFE? Rząd odpowiada, co dalej - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzd4TzByNHUybnpESkhrWWdTLV9lM281MFFtaDBHTUZ6bXYxRVExRVQ5MEhvMzBlYW9TSlhMM2VVZFRHa05RcEI4MjRJb0E0OGpYa0NWbElydURkSHFTNENWSnA1eUJuTUVrWHZvdlBsQWk1SmZqVjhrakpnOThvZFhrempJQWIxaG5yQjFiSjlTWEdwTkNiVEM4czRrUUpoT3N5SDJkVkZCeXJMWlRFeC1KRWdXNjNRd2JmQXFDTDdCam1IcEhzM3pXbw?oc=5"
-      },
-      {
-        "title": "Poseł Polski 2050 prawomocnie skazany. Wyjątkowy wyrok - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM283OFdvNkxpUGY4czFkMXhzel93MjE1eUxYU3RCSDhHYUwtbWhiTnBFTXYzbEZvQ2ZHY1I2V0JPbUhzeVlnZlNPd3JTdEtVdUZ0RXhQY19MVHZ4V3dGdUpaREJYbzVPSWNwNF95UlYxb3VZMEtrZjhZYjljUEhvZ09JVUs5QTJSR29JTXpQOHZGTmo1czZRNUpaVQ?oc=5"
-      },
-      {
-        "title": "27 lat w zamknięciu. Teraz mogą zabrać Mirellę od rodziców. Pilny wniosek do sądu - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVd1NEFjZU02YVNhLUJnU25TeWlIWVdRUVVha2ZDa3VEZ3Jta1p1M3NjMjQ0WFVkT1RfTzlWbm92WUlFYVEwMHRqYmVPUnJtajQxMlRsV1ZhMjkzN3RjR0dvQTlIOVFyejNLWERoRGY0enFHY3E1dWVRR0hVYWJtTTdMYlF3X1VncWwzbmVvUEpOTG1mY1FRbUotSlRtQnpDQlVsYlZiUVczd09SUXlPT29jQWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-16 16:35:22",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Trump zaprosił Watykan do Rady Pokoju. Stolica Apostolska ogłosiła decyzję - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWlWZTdGek9vM1pNYVJPOXV4MV9rdGkzOTlPYUFybEx1ZDNuNTFCSUhjUkhZbEc4bUVwaHZtRC1aZnVkci1qRzB2UkN1ZHIwbXd1S2tHZ3Q4WkFPck9oVUl3VW1zbXFwUnpwSjZXUnRCb0JhNTdWdEFpVFFIeTlKbkw4OGxKS1dob2Y3UGdOT01FYVBkOU1hUF9lTUJyUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-19 02:43:29",
+    "weather": {
+      "Warsaw": "Warsaw: -8°C",
+      "Kraków": "Krakow: -3°C",
+      "Gdańsk": "Gdansk: -8°C"
+    },
+    "rates": {
+      "USD": 3.561,
+      "EUR": 4.2148,
+      "GBP": 4.8338,
+      "CHF": 4.6159,
+      "JPY": 0.023163,
+      "AUD": 2.5204,
+      "CAD": 2.6078,
+      "CNY": 0.5143
+    },
+    "crypto": {
+      "BITCOIN": 238899,
+      "DOGECOIN": 0.352127,
+      "ETHEREUM": 7030.78,
+      "LITECOIN": 191.3,
+      "RIPPLE": 5.09
+    },
+    "indices": {
+      "^WIG20": 3377.74,
+      "^WIG30": 4342.99,
+      "^WIG": 3377.74
+    },
+    "news": [
+      {
+        "title": "Karambol na moście w Warszawie. To kluczowa przeprawa w stolicy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUx6Y1l5LVBITk1jQmFoUDRBcko1b1A0RXpXeEdRNzlLLW45d3NQTGxGdnhnN0QwSm94WmE4ME5YeUNrOEV4OUlpaktraWoyejhHN0Z3c0lGdDJmclozbTFyWEVYcmdoYUFIQkhHRDZLbERSZjJVdDFsM1F4Nmg0bFZ4clh4dkctTEpXdHVsSzc4Y1Y2YVBqS0ZXaVV1ZUtxRjZBNzRGbmotVk5zNE5qS1FVU1MxQUdONjNoRTVQWFQ?oc=5"
+      },
+      {
+        "title": "Spóźnione zgłoszenie marszałka Sejmu. Dokonał go dopiero pod wpływem prawicowych mediów - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcC16UkkxbmZMVWEyOHJlRVNHQlhybDY0OXdHdTJZX1gyNS1fZUp3Y0dwR2VlX0dSYklNd1F4cXRBcnc3bmJIS1hnZ3ZVc3YtcE5aUDc4NHFLbDMtc0RidXRveklUTmpETW1fb0djaVZBWk1LZGY3dERubGFfR1kxXzlaQXFsTWhmY2NfODVTLTI3a25fNFJPSXhyTnFLY2F3LXVCcDg2akp6VlN6UU4xQ1AzMkc3WXJQeGN3MQ?oc=5"
+      },
+      {
+        "title": "W kalendarzu kanclerza Niemiec jest data, która go niepokoi. Trump nieświadomie może mu pomóc - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2gtdC12b1JUWkxFdEZZNUFoR1BUT3dieUtVdWVfR05RcWFKQ1p2RTAxbk03S3llcURCQ1N1QnYyOUR0RFZDdklCc0FMQTBRc29mSENmV21md3FzZzhaYnFSM0pIVXNNU25HdzFPd1cyUUQwZmxmR2JRbWZTSkFCNEZ0UmVneWpBR09MdGdJLWRxQ2tsRjk2ZnM2ck51U2l3cWotOUJ2RkQ5a1FoYU13aFVvaUx2a0VaRkxjSWFKUGNfSTkwNlVxSA?oc=5"
+      },
+      {
+        "title": "Aleksandra Leo ostro o Szymonie Hołowni. \"Nigdy nie widzi swoich błędów\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEZxSTNJMl9kRUcwTXFTV2UzTF9iTkVEMlRCUjVOeC1qV3AxeFlRVTlSOTViV2hpV2pMZ1BMXzZESWxna2pJeHlJMTNCM1FxcXBoNExpM0t2TGlLWWdka0JldXd2cU5aa3JGVUs1VjVUUUFIUWVvNGpGbnJPZ3ZWYlVTRF93c1V2aGpyMXRyM0t2VkZWaUN4RTFjVjlMcHNLOEVwVmlxR2cweWJIQ2c?oc=5"
+      },
+      {
+        "title": "Sławomir Mentzen u Karola Nawrockiego. Dziennikarze węszą spisek - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONTJ6aEMycktsdUtxNHdJUjczUFd2UUNtMVlFN2pHaTgxeFZuYWxYOXVZRXpmeU1jR2lyVEk0cDBYQ2cyb0pFZjRCakY0SVBHcWhMVkpGczlaNGhWN2NScWV3UklrcW8xZ2l6WWFDaEFNcTFzZzk5TUJjZWluTzVFTnZnMEw1VERKazlsUFhwT2I3MHZUNWZBb2lsRm9IclRSdy1vdmhUMVhnRFhNblZENnY5U3EwWXRWZWxGTUdrNW1KLWhYTDM2RFhaUVhzNGVDUVB2ak10Q05UdUtGMVE?oc=5"
       }
     ]
   }
