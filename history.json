@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-17 13:49:28",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.5607,
-      "EUR": 4.2182,
-      "GBP": 4.8393,
-      "CHF": 4.629,
-      "JPY": 0.023287,
-      "AUD": 2.5184,
-      "CAD": 2.6098,
-      "CNY": 0.5147
-    },
-    "crypto": {
-      "BITCOIN": 242489,
-      "DOGECOIN": 0.355451,
-      "ETHEREUM": 7024.18,
-      "LITECOIN": 195.74,
-      "RIPPLE": 5.2
-    },
-    "indices": {
-      "^WIG20": 3321.83,
-      "^WIG30": 4267.95,
-      "^WIG": 3321.83
-    },
-    "news": [
-      {
-        "title": "\"Fabryka trupów\" na Zaporożu. Ukraińcy wykorzystali paraliż Starlinków - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2w4ZkYwVDhzSnBpbG9SdTg1MHhUU29jZFpBSVVjWWE2aHMtSFVNT3RjbWMxNUdVSXI3N0NFZlRiUUotYWlFLXlxYnlCaDhySXpPemNUN2VUYlJiWWRNeEt3Wk1xX1A3Q1FZNU9TUkZnaDZZVVlHZ3RydWl4em1iZnM0SmZXa2pjS0ZUZjkzejdmMkdpa2lnbkEyb3M5Z0x0UDBQazhuRGNneVNWREhB?oc=5"
-      },
-      {
-        "title": "Ksiądz Jacek K. oskarżony o pedofilię. Grozi mu surowa kara - Kryminalne o2",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUUptNzRxRnEyVkwtQWtMSHFsTW1yYjVwUTREcnZtUkU1UmJpMDBrYkhtMlZPajh1SDRkSVRValo4cVMteFloTkw0a3lheTh2TVdrWjNIMjdBT2tESDR1VkxyYmI2YVVWR3I2bkducXU5ZjB1LVg4NlAtYm1veEY5Y2tyYzZxZVdQNmVCQnJTZ3JBSVphUlBVSGtkSUlCTTRDWjNuUFk5QllNMkpLTF9NVw?oc=5"
-      },
-      {
-        "title": "Miał działać na rzecz Federacji Rosyjskiej. Polak stanie przed sądem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWJ1Ylk5YVFjUUNiSUtwZWQ0MU9ZZU0zR1MxTnNVdnZLc2F2bVZOd2F6cFIxamFDakZtUkFnRVVKTGhXRzB2REpabWFOaTh6RUg2VTR1MHZ4U3RaeW9LY1pwTU1lQjVtR3N4emRTcmVzRlA0cUNOUjBueVh5V2JJV2pURlMtUlVfeTdSd2s1MXl5bUt4MmJTOEdkM3N2Z1pxM2tnOHRJUnM?oc=5"
-      },
-      {
-        "title": "Potężny atak zimy w USA. W Kalifornii ulice zamieniły się w rzeki - Podróże Onet",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkJacXQ4aC10RUNfWEpCLVNWT2NXVV9IYUlpblQ1dS1MdENIdjd3VnR2Z2ZLalJKQl9lYURvQmhOQ2RKbmRSOWp0SUJWb095dHNXUktod210ZnNMQzk0LXJMNmF0SXpVdzRMdXhUcGp3UGJhQzBERUg2ZzVQTWZaLUduVUtpcFRMNGNrM2E1a1FXNzdsc0lJWllPWWlrajNzMUg1c3Jn?oc=5"
-      },
-      {
-        "title": "Polacy zgodni jak nigdy. Wyniki najnowszego sondażu CBOS - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDRLT2M0dVpQdG5UVVNtTXhBclBnSUlhYWI0R3Z6UXhBTUpTSjhRS01zbERnNFBoRFlFZlNiY2JMUVk3SFdRS1d4MWtEZ0kyX08yTzNCTjFDMVg3NE9jdWJxVERubmpGbC1LTlhoNWptNXdCTUY1MjUyWDFFMURRNW1DOG8xU2NzNG5zTkkwZDZLYnpES0NqSTNQSXZUaDBvallQVmY3RWZjOW1yeDJRTENYTVAtbm5NeHdjdlloWEtHZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-17 15:03:00",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Szefowie europejskich wywiadów nie widzą szans na pokój. Mówią o kulisach - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWJaT09Gd1FBTXF0RUtwaXlYd21nY3loZGtfVjhlQXNIcGl3WWFvWXFrSnllTC1xbDBhNnZNSmg4d3l6SklBRXlUWTBhbzY4aE1sd0NKZXRJSU9WTjhUWmJNRkx4MmRTUmxSWEhPQllWYTdCMW9ZQ0VZSm14VGtUcm84N211d2tsUFhqTWx2Q1pNUU5ra2JfZFdicUxJWGYwZFdWVkFnT2ROSm5zOFp0emctT2EwU3BRSXNZc2ZVUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-20 00:23:59",
+    "weather": {
+      "Warsaw": "Warsaw: -8°C",
+      "Kraków": "Krakow: -4°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.578,
+      "EUR": 4.222,
+      "GBP": 4.8318,
+      "CHF": 4.6266,
+      "JPY": 0.023111,
+      "AUD": 2.526,
+      "CAD": 2.617,
+      "CNY": 0.5152
+    },
+    "crypto": {
+      "BITCOIN": 240168,
+      "DOGECOIN": 0.351643,
+      "ETHEREUM": 6988.93,
+      "LITECOIN": 188.95,
+      "RIPPLE": 5.03
+    },
+    "indices": {
+      "^WIG20": 3385.33,
+      "^WIG30": 4336.71,
+      "^WIG": 3385.33
+    },
+    "news": [
+      {
+        "title": "Sondaż po głośnym wywiadzie. Polacy ocenili działania Marty Nawrockiej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGtYa2g3V3FuRUNKVXlQZGIwLUNBeF9GMExuTnFoZkY3bVFza1p6NVlTNnRxZGxCcWt6UjZreFZ2eHdrVDNsdEdYUWc0NnEzTGlZQ19aZ3hvMndtOVdSSThKM29DZUJVUURwSVh3eEg4cGJxdXE1VmtfUm1HWm92VkJNTnF2cGNNN0xMZW1xMjZlRHF5SXpqNDRzS2lIZHJjLWdVd0ZFbDVKY09SajBfeGhR?oc=5"
+      },
+      {
+        "title": "Wielka Brytania blokuje Trumpa. USA nie użyją brytyjskich baz do ataku na Iran - Defence24",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUMxdWZVVHprS2Y0QWdtRWFtRnRENFNoOUh2dFJRV3BWb0hpY3FMMERtV2JjVmZNOWdhMTFRM002bF9uc05xRUNkNUVQczhxTklyLUxldmlCX3lsSlFSSG5MUWVxdTFSMEVvNHlPdFluOUlFS0RQS1dmVFZDcTIybFl3WFRJSTZ6dzVRUzBBUlYtakttSkJtYm1xM1dnQXY1X1hCVzJPUUtmX0lqMXZoQTd6cHRKdw?oc=5"
+      },
+      {
+        "title": "Niemcy się wycofają? Niepokojąca wypowiedź kanclerza - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2dfTnlIa1I5clhwM2lRX2ZYS2RrMTVmX3gtbWlJOVBwNm5ROVNibXUzVVhlM3hzamhJdmRMS3hLbE4yam9xRjVRY0hpRTl2Z3B1Z245RkVBZlRhSkU2bUM4MzVYektPZUozcmczM1pvVXgxNEgtUUFUNFE1LWxRcXNFc2ZBOVczQjJnUTViSUdhUQ?oc=5"
+      },
+      {
+        "title": "Szefowie europejskich wywiadów nie widzą szans na pokój. Mówią o kulisach - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWJaT09Gd1FBTXF0RUtwaXlYd21nY3loZGtfVjhlQXNIcGl3WWFvWXFrSnllTC1xbDBhNnZNSmg4d3l6SklBRXlUWTBhbzY4aE1sd0NKZXRJSU9WTjhUWmJNRkx4MmRTUmxSWEhPQllWYTdCMW9ZQ0VZSm14VGtUcm84N211d2tsUFhqTWx2Q1pNUU5ra2JfZFdicUxJWGYwZFdWVkFnT2ROSm5zOFp0emctT2EwU3BRSXNZc2ZVUQ?oc=5"
+      },
+      {
+        "title": "\"Wojna nie zawsze zaczyna się od wystrzału\". Dlatego Karol Nawrocki zdecydował w sprawie Lex Huawei - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWtkYzc1NmdMWFBvWDBzXy1nV3ltMkdSZ3JFX0txVkIyY3ZHTmRXMGd3VGwyLThueVJjU3JkcHR4bUx2aGloV0hxYkZPVDE5bmtaUkV4QWpLdk0yWnNRWjM1ODdxdHM3QU9fd0xhQ29ySkM0cHpsbzByYVV2dUd2ZUl1UFJqVzlLM2ZFbTBKMGN6OE1BVWIxNXFRUDBaQ2o2VV9pUkhRaGdzUlA0eG9QaGl4clotNk1aZVlYTWtLLVZUcU0tZU4wWGhkREU?oc=5"
       }
     ]
   }
