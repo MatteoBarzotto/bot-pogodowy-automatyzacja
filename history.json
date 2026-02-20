@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 05:15:25",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.5607,
-      "EUR": 4.2182,
-      "GBP": 4.8393,
-      "CHF": 4.629,
-      "JPY": 0.023287,
-      "AUD": 2.5184,
-      "CAD": 2.6098,
-      "CNY": 0.5147
-    },
-    "crypto": {
-      "BITCOIN": 240649,
-      "DOGECOIN": 0.35933,
-      "ETHEREUM": 7116.83,
-      "LITECOIN": 193.4,
-      "RIPPLE": 5.28
-    },
-    "indices": {
-      "^WIG20": 3321.64,
-      "^WIG30": 4268.14,
-      "^WIG": 3321.64
-    },
-    "news": [
-      {
-        "title": "Zełenski kończy dyskusję na temat Donbasu i żąda spotkania z Putinem - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkhnVWVsNjJ3Q2JIZ0h6WTVYejIyUzkxQUlld0NKUVlzRG5WeEw0enBLVUZ1dUFxLTVab0x2aEhtUU5qeC1FLWZwOGZoMTRGV0VyYWh5cHdiYVVZeDJsdW95TVZxU1ZwcHl4SlhDQk8yMm1mX19sMkVqN2x0V0hJWV9fbFZZUFpxZ0FIdmxfeTVkOW9VREFtbFppZUdHdTByNkxoOFZYcUlpVUVBVHA5bTVyMTdwNzBCdEx3RDBZek9CcGZiY3c?oc=5"
-      },
-      {
-        "title": "Zakończyły się negocjacje USA-Iran w Genewie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1hzWW5VOUNndmpkTW9mZkVfbVNaRDV1Z0xKVE5yNjRiWVJCdzAzbWxSMWlFdjZMLXNNMjNmUVFhX19FYVczX2N1UkhUOUdqWmk5eEJlaDRzLUtQWW5TLXhxMV9EdVV0cnRIS3R5Qnd6RjlhY3RacEtjbDJucVZJMVlDQm85MDl5ZGMzam9xODl6N19MbmZDdTQwNUIwRV9NZHlmbURuWG9BSUE?oc=5"
-      },
-      {
-        "title": "Alarm dla ośmiu województw. Wraca \"czarny lód\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHlubzFxRTMycjY2R2EwZTAxRDBwLU9iaW9JX2xVU25XTXYybGtjcVZyUTBxeDFsNW5WeDVrcm01RVFMZU9RelhIa19YX2FaOUVpNDR4bGxiSmVINUljdzlIWnA5SzE5ZWszWXY1djMzdFg5M3pXcm9fRGx2YlBEa2VuUUxVc0pHUWRqRnRMbw?oc=5"
-      },
-      {
-        "title": "Błaszczak uderza w Sikorskiego. \"Prowadzi do utraty niepodległości\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0NCZDJWTGtXLXlsUWtOYVd6dFNyS2dPbFJsQ1p5dmxIWFZPRS1kRGkwNC03QkxWWU5TV1VoWEYtWV91RF9US1ZkOFd2UzAyRVotQ1U0RE0tZkYxV3paRVFpMm5lZ2xzSU5KS0Z5c29lSHNZMFk3U0Eybl9xOWNoNDBhemF5bXN6YWF0NHhFNEtmb1B0dGZ3Y1RMX2V5WDkyMklQZXdHaWJpWkhVbFloaHhoSTRkTEU?oc=5"
-      },
-      {
-        "title": "Podwyżki dla nauczycieli w 2026. Rozczarowanie po spotkaniu. \"Fikcja\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTNJVEFOSjVreTNyMXlzV1FTd2JaOTU4aTJOdF9WNGJHVXAzcFhnVWp6UjMyc1dzamVjbnZsa2lHZG81X2IzU0pxQ3FDQTU1cVZtcHZLamJVZG9oX09McWdKOFNFVGNrUTNhQ1pYQmhGcTB3STdzTEtFS3Z6ZzJVWXBfZ0xud1pOQlNpWE5oZUh6ZXVpWXJGcGN4MlF0c1k1QlVwb2h6R0xZaElTaU55ME03RjRiTHNwY3pyNHBDZ3ZTZlZxYk5v?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-18 06:55:57",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Europa się obudziła\". Władysław Kosiniak-Kamysz na szczycie ministrów obrony grupy E5 - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGNqTGJWaERKbEFxNWpVR2k2VE1xSDR2ZzdvSWtpN0hEYVRVQU1QVkswRmU1YlI2VTY3MkRCdmlGd1hDQnFzeXNEdEx2MzBFZ0loYzNveXNPbVg2QWJ5aDBlUjRObF9CRF9HX1hsdU1wVXdTaGIzeHYyU2RCdDg2ZU1qQW83QUV6UUlTd0JYM2UzLWpkbzZrbEh6czNmdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-20 15:37:05",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 241165,
+      "DOGECOIN": 0.351536,
+      "ETHEREUM": 6997.32,
+      "LITECOIN": 193.2,
+      "RIPPLE": 5.03
+    },
+    "indices": {
+      "^WIG20": 3363.22,
+      "^WIG30": 4307.45,
+      "^WIG": 3363.22
+    },
+    "news": [
+      {
+        "title": "Marka Nowrocky. Policja potwierdza: jest zawiadomienie - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaV90cFVRYVRxbWhEcGtDemQ1ZXd3bHZtTDBJYkFha3BBTTVLelcxX3p0U3JmamstdnJKNlJsUTdDYjZyYUE3azVDMjdvZVl2bXNMRkQ0MmxQcjd1T3pZbjNsV0dUSXRBQkNnNnFPWFFnSmpjbGRNeUJLaUVVNVFTSGFQUEJYR2dYNFBKVU9hSDY4MktLVUk3TE1OQ3RaLUthZ2c?oc=5"
+      },
+      {
+        "title": "\"Będą się smażyć w piekle\". Kierwiński nie hamował się na konferencji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0l5LTRfcXhHbWYtNUZxUXJ2ZkhMTnNGWkg4cGhXbEVvOXc1bDVmVGQ1dmxwQUxpUUJtc3VQN3Uya0JLbzZNbERjcXR1QjZQbEFiWDRfeGxsOURPbU5aQjh1SkluaERSNDBKNlhEXzgtUlFvUm9PNVlvMjdKR3ZWMktaT1BSNGFXcGRndDRjM0ZQMnFjZjE0aTJEbmNLa3ZqeDNabEZ1a2FaOVhLMnc?oc=5"
+      },
+      {
+        "title": "Trump na krawędzi wojny z Iranem. Atak uruchomi domino konsekwencji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGJPTmZJZHZIQ29JRTFEeE1MdEZtdW1RNHA2WDNHdklJT093NGhrQmEtbk1KZ1AxclZWekRNQ3ZDLVZUY1pRcjhpQXZla3BYWGVZWFRqWGNjOFg3TVd2S1dKclBtRmw2R1E2RWlYZkJ0NGc2NWd4OGlzV09pT1RkZWM3UkpxN1dXN0REWjdSdEx3NGVIUUhoTTJLbmpuelNwQTUwUmpWMXM5QzZEUWVibHFFTmlxVHFUOUJMWjB3?oc=5"
+      },
+      {
+        "title": "Zabolało. Europa zagrała na nosie Trumpowi. Ten zapowiada odwet - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjU3SVBGOVBLM1o2MWpTbkh4WWVoTE1yZ1JFd1pCMTRtUHp5c3ZpV19KRjRCdVdYbDE1WjVOWnM2bFZjM2NGU3p3NERTcjQ1aE9ycVB4ekdEanJpUUhpOE5KRXN6R0pCbjlKX1VodUZDemdPc2FicXhyVEpkODBzNmgzSHAwbElqOW1SbjU3Z2RhNHZnd0dJOUN1Q3NwUktQWXdRNVNRWE0?oc=5"
+      },
+      {
+        "title": "Grasuje pod Warszawą. To dzikie zwierzę z Afryki - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHhFc2ZqX2Y0WE1Bcmo5VVBSb09zNnNQM2hvUXZxZjFKZnZ6UzNXeV9mM3BIdXhHSHBYYXlpRUppcjBCMGtuY1hmR1owVXYzWXZQX3BKZVpKcFlrRzhTYV9qZEhRVmo5NE9zM1kzZ0d5SmhSWjBVdkRybzE1ZExJc3ZkYTRveERtdG1Vbg?oc=5"
       }
     ]
   }
