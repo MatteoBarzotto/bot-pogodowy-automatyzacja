@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-17 19:48:43",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5607,
-      "EUR": 4.2182,
-      "GBP": 4.8393,
-      "CHF": 4.629,
-      "JPY": 0.023287,
-      "AUD": 2.5184,
-      "CAD": 2.6098,
-      "CNY": 0.5147
-    },
-    "crypto": {
-      "BITCOIN": 241764,
-      "DOGECOIN": 0.362907,
-      "ETHEREUM": 7114.34,
-      "LITECOIN": 194.7,
-      "RIPPLE": 5.28
-    },
-    "indices": {
-      "^WIG20": 3321.64,
-      "^WIG30": 4268.14,
-      "^WIG": 3321.64
-    },
-    "news": [
-      {
-        "title": "Ukraina negocjuje z Rosją. Rozłam w delegacji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOam4yRXI1dnp6RUZ1WWlGQllyUS1yYmwxTzFRcVZ5YTBmb045WTh6Ni1zT25IU3hVMldFSlFJQ2R4VEFQUVY3UjYwbDBJUFdWUHFzYzNGUkNrOEdmTy1VdGJFelJBTGl0cUFOVmo2LWIxdWF1cDZpRl91TkhxeWZlQ0prR2t5NEV0MDlTOGdHRng?oc=5"
-      },
-      {
-        "title": "Blady strach w PiS po ruchu Jarosława Kaczyńskiego. Chciał zawiesić znanego polityka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaERrMFVPS2tLTG5BMWJHVVVidjdsd2ViUVpnQzNwVmEwUGFVcWVUeUtKZFliZW5zWDktR002VVhLdk5Ya2dwdS15VUpwWnQ3dU12RkJRUV8wYmFqY2FmQ1NRTWcyU2lvOUhaMUNjeEdIYUF2Z09Jc1ltS3Y3OFBremN1UnQxZlZqUS1ieHgwMlRQamhhY0N6QmhtZklnLXAyZEwwNG9mV0VSSGZhdldlZFB3WUZJZlh2eWtwWmlxcVpyWkFaVDZEeG41RkZrdw?oc=5"
-      },
-      {
-        "title": "PiS na głębokim politycznym wirażu [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkNBNUdyVGJTb2RlamVPMXB1VWlSZzlOMGh6RTBySWRnUlZFUjRPQTVkelVsSVctajVlVGViVUZSNnA2bE9QZGUzU1lJc0RWVW9BaFZiWFh2Nmt5Z3RudENEaV9VSHBvREJTZ1JNM0NDdk15X3VNTFRfZWlCZUVWRWRhU1MybldINHVUWA?oc=5"
-      },
-      {
-        "title": "Dominik walczy o życie po wypadku na kolei. Niesamowity gest ludzi - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUdmWFp1a09wZ3lRWk5YVkEyNWtNVWxiS2RHV3NKazdiQkVFNkc0Y2I5OS1uZ01MTGpEUDhaeVB4bDZORTRMWGpkenpOQzY2d3dwd3lEUVgxdlBLc0psRmVia2VRSzVZWlVMaGdjdmgtaWtrSk5rQVY2UEpZMHZpalJ4eHVYSEtFRldxSFd6RkhTTjZNaV9sUTNLSFRhMjJjcW1fWWRtMmg4THZyTnVXdGJXNFlqMU9DWXd0Xw?oc=5"
-      },
-      {
-        "title": "Kaczyński mówił o \"Polsce pod niemieckim butem\". Jest reakcja - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTd5VWtOVEk0TV9Hd2JjYTdfWURRRWZteGVfc2NNWHZGcG1iMEJTYXYwVDdUc2RMaWZscVNoa3V4aXVNamxuZlBPWkVrellGc2szX21UdDhQd0hJT1FnRk1wRnFuUERieTgzS1lGOTMzb3BleDhTWEJxc2RzOFh5UDVLNmpnMnl2ZmdIOURyTkhIOTZ1YjlMdjhTS0UzSW85YTlN?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-17 20:42:29",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Trump oskarża o ujawnienie tajnych informacji. Chodzi o istnienie kosmitów - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQm1pWWw0bkc1V2tRMlFXN3J0cUV4Y0ZJT01iamRmaDZ4RjZpanVlYmJhTFRNVWpFN2xRbEpPTEFqTlYzOEZVOXpXRmxnMFhvNVI3Z2tETFhyWDQ2Z3lFMkptQXhYcW9ISUg4RUgwZldrQjhBVUZxUUhmWW1TUlpBSG96bjZTVWRVWW5aODV2LXZHTTJaa0hMMGExcGJmY2d3YUtEaUdnQVVxaFVkTnB5aXk0c01SeHJoaXRqUWRmMmZvMHZC?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-20 08:42:53",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -7°C",
+      "Gdańsk": "Gdansk: -5°C"
+    },
+    "rates": {
+      "USD": 3.578,
+      "EUR": 4.222,
+      "GBP": 4.8318,
+      "CHF": 4.6266,
+      "JPY": 0.023111,
+      "AUD": 2.526,
+      "CAD": 2.617,
+      "CNY": 0.5152
+    },
+    "crypto": {
+      "BITCOIN": 243652,
+      "DOGECOIN": 0.354293,
+      "ETHEREUM": 7048.42,
+      "LITECOIN": 192.36,
+      "RIPPLE": 5.1
+    },
+    "indices": {
+      "^WIG20": 3385.33,
+      "^WIG30": 4336.71,
+      "^WIG": 3385.33
+    },
+    "news": [
+      {
+        "title": "Niecodzienne sceny na Radzie Pokoju. Kamery wszystko uchwyciły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpKT0hVQ21rVE9jSnVzcllyeWE3czF3RmcybFpXMG5adWhvaFV5LUpQSndEMUcwWDVkOHEyRXRfVTNSVzl3NUt1SWRydjhXVlRhbFBWbHp3SlRxdlpLemRvQktOUG1CZnJuN3ZaRnVFa2VZcUZFT1ByVGRsWjVnYS1ucDd5c29oRDBZVXlOU0ZRTFJTQ1llaUN0ZlV2R3Z1TXBGR21TTQ?oc=5"
+      },
+      {
+        "title": "To on ma być faworytem Jarosława Kaczyńskiego. Partii grozi trzęsienie ziemi - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFc1Tll5SDZrTTFUS29ELTlsNWw4MFhrdVFTOTlhR29TeXl6cmV1V3laQlROODVHTHF1eW9VaWIxeFZyZWhFelFDclNDX2ZsWVAyTVpkdVhzVGlqRzRJRlBmdVlubVVzekNiVHJpdWJEYWVhZzN4NnFHZTk4Vkt5QUlpOHRzaGd4M0FGY25GRktfWVd5N2FTSWdKVzlSVEl5QWZqNlZucm1rT2I0RXcxV3FJU3o5dnVJeUw5M0RxTUJxVWs?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Trump rozważa atak na Iran i chce odtajnić dokumenty ws. UFO - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnUwUmxKVldjckhrWHhmZVZENHJ2cWN6Y0VxZEZxUUZwdXNZeC1pa0c3enotY0Ftam50UmdfcTc4dmdmcEpKc0dqZEs1d092N1lXVjh5TmNUcGNIby1EcFV1TkZYblQtUFRlSW9lVUxOTWJfMlU1QzA5SzlzUGZTRy1ZaV9HOWRmQkFiOGZILXRjUFhVX0NXRVhJTURnbTB1NVM3VjB1VEZTZzJkeDlNNWF2ZTUyWVVKVFFfeg?oc=5"
+      },
+      {
+        "title": "\"Oczy i pięść\". Chiny rozszerzają współpracę obronną z Iranem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2VCRWQ0UU9FdGZFdlA5VjJlUU0xYjBXSUVUd2tQMF9ldDIybDc0YmdFTW1QN21tNE82SkE4UkxRaV9nOTlKLURGNWRIcmtQSGZLMG5JVHVzNHFTYmQ0dno5UDVXa2EyRzFlWnlyVnljemMwWDM4RWJxRUItRm1Qa3dQR00wa08wejlTNnR4Tk1TWWkxZXVuWXNyT2F1SFRMZFBfcmMwM2taYktSNW16OFBSQUMyaWJPZVBHZTZLVVo0dGpvbzZmclI5d294NkE?oc=5"
+      },
+      {
+        "title": "Polska byłaby bezpieczna pod atomowym parasolem sojuszników z Europy? \"Nie można na nich polegać\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTZXdXN4Z3dENk5OT2tFT3FlQmJ0aVlqNndLNVZKVFVZczZ0aVp0N1cwSFUtNWY5cHItamM4VDZaSlB4MmZUZDdYTEhqbkM0NWhaMDFqbHZseV9BbjE3NjVXaWZxQmtVamFNSkQ3c3lVUnJFVlJ5OGppMzRvMlNzOVdNWl9lV0I1LWhjdjZVX3psb01PMExneFVEOGpyM1Q4R2YxcnRRNTJYWTNDdWlfZVN6TEoydXZXSzhxU2RWdkhOZw?oc=5"
       }
     ]
   }
