@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 09:37:24",
-    "weather": {
-      "Warsaw": "Warsaw: -3°C",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -8°C"
-    },
-    "rates": {
-      "USD": 3.5607,
-      "EUR": 4.2182,
-      "GBP": 4.8393,
-      "CHF": 4.629,
-      "JPY": 0.023287,
-      "AUD": 2.5184,
-      "CAD": 2.6098,
-      "CNY": 0.5147
-    },
-    "crypto": {
-      "BITCOIN": 242939,
-      "DOGECOIN": 0.362595,
-      "ETHEREUM": 7211.5,
-      "LITECOIN": 194.39,
-      "RIPPLE": 5.3
-    },
-    "indices": {
-      "^WIG20": 3355.39,
-      "^WIG30": 4310.58,
-      "^WIG": 3355.39
-    },
-    "news": [
-      {
-        "title": "Niebezpieczne związki: polski historyk i przyjaciel Grupy Wagnera. Kulisy odwołania szefa Instytutu Pileckiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWV9xaF9jbEYyZ2E1LWNXMXoyamRFR0poTEpjZl83VktJU2lSWFJmMFlXMUdxZG5DenBpZzdCNTExUW1tOVI2RVpFYXg0ei1GSi1vT0V5dHYwVkNOOGR2NUVMMk9CdUZYMzVMdHd4bzU4NncxRkt1aV9kd0xhckw4Mm1PczZHVEpFTlRYOTJicWxRcHVnbkI3UzBLTy1QMGNJSEs0LURxSlBSdXlFUDBaeUk0M1hSb18xS2pJdTI4UmJPclVVaEYyb29aeGxqYndhZTJ0LWoyUVF6RnFsTTlwam14T0xUZw?oc=5"
-      },
-      {
-        "title": "Joanna Kryńska zabrała głos po wywiadzie z Martą Nawrocką. \"Jest jeszcze dużo do zrobienia\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmN6MkV3X0prNXpwZDg1RE9WX3JyNTJtSXBMbGJvTzlBa21BQzQzRUF2czY0WXQ5MUJNZEVGT3E3VlNpM1BlRHVqSU1SNW1ZSFZEOWhFZ1Ffa185RE5IQzAwUzA1NV84ZTk5SUF2U2FpSXI2X0Q2QWF4Z2dJSk1IX0RHQjZNWWhqV09KNmV1alNnR2tpX3JyRzgzQ3M5Xy1jZGkxXzJzbHJLZXpfTGllSlY1Q0RRRUM4cTRCajU4alhIV0xKZlE?oc=5"
-      },
-      {
-        "title": "Służby rozbiły grupę przestępczą powiązaną ze słynnym gangiem motocyklowym - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORURvQ3FrcVl1S2VkREt0aWRPUjFDQ1ZVNElpQWxHdUdlaUM4Z2tqN19ydFItaTRPNlhpTGtBVXFkQ0dPTDl3X0RCMnB1N1RIdFV6eTF3bFgwYmd5c0x1VXVHdjV2Y2hjbHE1RzdsMnVRaEY5THdERzUwWlBYcGdlSVVwNXhXS240RFdOWk1ENk5wRUJQYWoydkdhRTRiZE91VUtCSHJQSXVFcXlXbHN5YXB6MDJPanRuWU9kQ2J1LVZkUEs2QWF2SG1sdkhFcW5a?oc=5"
-      },
-      {
-        "title": "Działo się w nocy. Vance znowu skrytykował Europę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhpVlFrVW1ZZGlzWXFEUVZtd21ka0ZvTTZpNkRkd1Fqb2FCdlZVOEtxaUEyckFQTDZGcnNfZWZHNG5XaHhmLUFyUElKTk5jbEp5bmNkX3g2OUF0YklsVGtDajhrX3NoaTFLQkVvMlM3X2FVR1kxUm9wT0xtbDNvSks0TlJhN2NHZjA0WFI0aDFQLXJLZUE?oc=5"
-      },
-      {
-        "title": "Fundusz Sprawiedliwości. Szokujące zeznania ws. Tomasza Mraza - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2VfY1Zvc3EyR1JaQVpVWjFDc254aGZGcGhDZlhXNGs5cllhejA3QzVsMkRVeTdsaU8zc2pqTWF1dmhScVp0UTFyc1Y0QkVEYjVKMHU0czVkQ3prSHBJVUxaRUFIcUVNYXc2YWJBdEFqajA5dXBoaEVkcU43THdCMGM3a2hZekU5TUQxX1FiUW5GdnJONGthcldGNFLSAZsBQVVfeXFMTUFkbHJuSzJqcWFXS3lqMzJsUzNmQmVSdHEtMEdxMm5BQzNUdzc4MU1URDduc2NuRVBybkVwVXo1UVo1UThvOUhuTDBEVlgwbzBGTEw5RkhJcUZuaDF5a1FmZkZ5d25RcktLZnBUajZ0UG1LVkllaURYS1NET2Jsd0FVQV9BclA4bmhTbkNvRU10dlVzNmY1ZE9NQ0U?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-18 10:39:57",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Mińsk oskarża USA. \"Organizatorzy nie dopełnili formalności\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2htT2NKcjJQNlVBUGNiX3JtY05JZUhxbEhCam5QLWVxSGg2RldPQ0M0QTFuZDZ5WHRBTXdxN1hpQ25RVk5mNTFxS2JZdGt6NlRlcV9wUVQ3X3ZsU3dFd1dLWEFzb0ZTa09nNHZ3R1drZlhVUHdzSl9USjFJN09ibnZNX2lYM1ZocmdPWkRuNmhWUU5Zb2dTRlZ2amN3QV9xTnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-20 19:37:13",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 242322,
+      "DOGECOIN": 0.362739,
+      "ETHEREUM": 7043.27,
+      "LITECOIN": 197.41,
+      "RIPPLE": 5.12
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Polska wycofuje się z konwencji ottawskiej. Jest reakcja Kremla - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3hHai1LX2NTS1NpMks1am9JSGxBTXZjUENrZmhsYzlYd2dTemsyMUNycnlDTC0wRDlVaTB5alcwZ19YTjhNcjFpNHBQbmltUDBoZ0R2cmdleDlsRXdRM3Q2dHpVMEN4eW8xZEtpdG5td0k3cEk5MUxMdTQ1bGstLWxoMUtfU0J0Y1VMU1dVNUJLLTFYdkE?oc=5"
+      },
+      {
+        "title": "Makabryczna zbrodnia w Raciążu. Nowe fakty w sprawie zabójcy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzRHcm5VWlRDeTdSM2VNLTBwRkdkc0VnN2dUd0tuclltdUZUc2lzTnVacEc1aEx0Ql83SGZVbHNWbWJhUTVWa0JkS0xJd0pJV0JMcHd6eVJ5R24yZWFaTnZkVHItNXRlbGlxZEQ4ZGs2Q2htdjFtYmxQYmpsTmMtRHU0YmtVY1FXZDlqZFFFMDBnQUUybWUyNjJWYmZvUjZiWnRxRjFzQ01vWmtiRTdlY2FlNGNyNEdPZ0c4Qg?oc=5"
+      },
+      {
+        "title": "W dół ocena premiera i rządu. Polacy wyrazili zdanie w sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU1ZT0FQOEFtcXJWRmZoLXZhdzRtNnlOWGxFVGVIMUplRTY2bElWNGx5TlVpQi03bUdXMkN1ZEU0T3RyZFp3WXp6SVNpRV9PZjk1dGpucG1MOVBjUkprT2t6My14VUI2N2xCM1FrUGI0QndiMGZOdHdpeW00d2tHeEtEcXVmeWxMbjBsZXQzcmp0R3ZXXy03Mk8zY0o3ZzFFNk4xdVpsMA?oc=5"
+      },
+      {
+        "title": "\"To potęguje nasze cierpienie\". Rodzina ofiar wypadku na A1 zabiera głos - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjVSbjR5Y1NsN0hwT0xPazlrTTFxbVh2R1hLSGJndnJDRVNoUW1ZLUNldlQwSXRqaXJUcE80YmpDTEllbnBQZ3hTVDJnNkZsWWtZTkhMZG9TNWwyZ3pIWGd4Qno4NnRzaHNVZU4wRmdJR2toempBMFRKcVdDZ2Z2TklZUDhYa21paTlvQkhhVXFWRnQwRG5wSUhobWlSazBsTTl4eWxBTHlVcXlHTkE4cnZ3djBLaXBF?oc=5"
+      },
+      {
+        "title": "Rosja i Ukraina skupiły się na \"wspólnym\" celu. Trump ma jednak inne problemy - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3RhVlVnbjNKRGFlY0o3SGNUV1EyQnFiMjE4aUNWV1BpRWpKbXZiVGJwRTBYZzR1RmhTSnoxZzBRMDB5blhIN0RTa0FmQkRreThxZ1Zxb2tZQmVnS203U1I4b2JVWTVlbVlVeERCUURrc3YyZVRrbHNlRXZ6RE95VElld1VZblJnS3JPRmJsV1ZWMUtOcXZQamVhbHVBaGFDZE82LVpCdDBsV2VZLVBjbzJoa0wyWEx3cF9VSDFyWQ?oc=5"
       }
     ]
   }
