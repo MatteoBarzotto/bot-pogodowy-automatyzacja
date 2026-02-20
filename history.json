@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-17 20:42:29",
-    "weather": {
-      "Warsaw": "Warsaw: -4°C",
-      "Kraków": "Krakow: +0°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5607,
-      "EUR": 4.2182,
-      "GBP": 4.8393,
-      "CHF": 4.629,
-      "JPY": 0.023287,
-      "AUD": 2.5184,
-      "CAD": 2.6098,
-      "CNY": 0.5147
-    },
-    "crypto": {
-      "BITCOIN": 241564,
-      "DOGECOIN": 0.359983,
-      "ETHEREUM": 7117.28,
-      "LITECOIN": 193.16,
-      "RIPPLE": 5.27
-    },
-    "indices": {
-      "^WIG20": 3321.64,
-      "^WIG30": 4268.14,
-      "^WIG": 3321.64
-    },
-    "news": [
-      {
-        "title": "Blady strach w PiS po ruchu Jarosława Kaczyńskiego. Chciał zawiesić znanego polityka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaERrMFVPS2tLTG5BMWJHVVVidjdsd2ViUVpnQzNwVmEwUGFVcWVUeUtKZFliZW5zWDktR002VVhLdk5Ya2dwdS15VUpwWnQ3dU12RkJRUV8wYmFqY2FmQ1NRTWcyU2lvOUhaMUNjeEdIYUF2Z09Jc1ltS3Y3OFBremN1UnQxZlZqUS1ieHgwMlRQamhhY0N6QmhtZklnLXAyZEwwNG9mV0VSSGZhdldlZFB3WUZJZlh2eWtwWmlxcVpyWkFaVDZEeG41RkZrdw?oc=5"
-      },
-      {
-        "title": "PiS na głębokim politycznym wirażu [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkNBNUdyVGJTb2RlamVPMXB1VWlSZzlOMGh6RTBySWRnUlZFUjRPQTVkelVsSVctajVlVGViVUZSNnA2bE9QZGUzU1lJc0RWVW9BaFZiWFh2Nmt5Z3RudENEaV9VSHBvREJTZ1JNM0NDdk15X3VNTFRfZWlCZUVWRWRhU1MybldINHVUWA?oc=5"
-      },
-      {
-        "title": "Zakaz wjazdu dla chińskich aut. Decyzja zapadła nie tylko w wojsku - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnZYVTdSZ0FIdENQRmhaM0J0Zmg2eTBzczNhbnEzSGJFNGFIcFFOLVczNk9HS29IVFh3LS1WYkJ5eTRoMkVXNXZSam55c19ZWklrX1NZREdXNllwREpmZnZkaGZkNFdEWkxOUmN0YjI2ekZoLWxsM1R6WVRJZmxFa2V4TEY3NVV3UjVuYzlQRFJfV01lV2VWRGZWWS1KSGNWNW4yUF8tNDZKakRtTlpIWUd2M2xsYjdKTEdfeA?oc=5"
-      },
-      {
-        "title": "Alarm w pociągu. 25-latek zatrzymał skład, w bagażu miał przy sobie rosyjskie dokumenty - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3pyc2dfOGUxejRnemtEV0J1b051NmVzSVU0M1kxbk9YQ05WMjAyNW9YZzczQ1pKTVNYalVMUVNTTTBHa28xeGJpTnRSVGFlUmt3NjBCX2tOSk5pM05aNFBOODJWZnhlcENVX0RUZkg1Wmxnb2thOXZnaEZpeE05ZzN3SndRNzdZOFhZVV80R1JuWkxKZ0FybjRNam9WT1JMQmh6dHU2Q053WTRnX1pXd0NrWHg3UEM0TFE?oc=5"
-      },
-      {
-        "title": "Opady i ujemne temperatury w jednej części Polski. Nowa prognoza - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRV9KRkx5WTRjc3lndDh1VFRsbDZyZWVMVkQzV1U0WW9INXpQX3g4NDZWMXdfX1lPX2hSdjZodkZQa3lhZ2U3bW52dUEzTks1UWM3RnU1MW9SWlE4REZ2dzUzQnJBc3VORTd4amhJbFpoTElqQWQxa1BVNkc1MzVOSG1wcXFNdW92WXZUaFQ2TWRLXzlBeXIxdUNBU0NFeXQwc2NCbC1YRDVMdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-17 21:29:47",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Polska byłaby bezpieczna pod atomowym parasolem sojuszników z Europy? \"Nie można na nich polegać\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTZXdXN4Z3dENk5OT2tFT3FlQmJ0aVlqNndLNVZKVFVZczZ0aVp0N1cwSFUtNWY5cHItamM4VDZaSlB4MmZUZDdYTEhqbkM0NWhaMDFqbHZseV9BbjE3NjVXaWZxQmtVamFNSkQ3c3lVUnJFVlJ5OGppMzRvMlNzOVdNWl9lV0I1LWhjdjZVX3psb01PMExneFVEOGpyM1Q4R2YxcnRRNTJYWTNDdWlfZVN6TEoydXZXSzhxU2RWdkhOZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-20 09:33:29",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.578,
+      "EUR": 4.222,
+      "GBP": 4.8318,
+      "CHF": 4.6266,
+      "JPY": 0.023111,
+      "AUD": 2.526,
+      "CAD": 2.617,
+      "CNY": 0.5152
+    },
+    "crypto": {
+      "BITCOIN": 243675,
+      "DOGECOIN": 0.354829,
+      "ETHEREUM": 7049.48,
+      "LITECOIN": 192.31,
+      "RIPPLE": 5.09
+    },
+    "indices": {
+      "^WIG20": 3384.93,
+      "^WIG30": 4336.35,
+      "^WIG": 3384.93
+    },
+    "news": [
+      {
+        "title": "Niecodzienne sceny na Radzie Pokoju. Kamery wszystko uchwyciły - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpKT0hVQ21rVE9jSnVzcllyeWE3czF3RmcybFpXMG5adWhvaFV5LUpQSndEMUcwWDVkOHEyRXRfVTNSVzl3NUt1SWRydjhXVlRhbFBWbHp3SlRxdlpLemRvQktOUG1CZnJuN3ZaRnVFa2VZcUZFT1ByVGRsWjVnYS1ucDd5c29oRDBZVXlOU0ZRTFJTQ1llaUN0ZlV2R3Z1TXBGR21TTQ?oc=5"
+      },
+      {
+        "title": "Pościgi, strzały, zatrzymania. Brawurowa akcja służb w Pomorskiem - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHQtN05ON3ZHVFdJTmhTMjdsTWlQdThKWjMzNnBPUWVybF92X3NTT1A1c0t1TklicmtWQTZwYnBiWGlqbDlEcDhhUlJweUxUYXo3cWV0M1NkQXhJZm80UEJheXk5Z1BBX0lDc2p0M3NqUHhOYTY5djNvTTF4YlBRUkdadXFWUXFmSFBzc045UmtpR3ltNzV3b3dQdEJsTHlIU3hyX09PekxTbjNhemZmQVFkSkVRaXZjNlVEM25B?oc=5"
+      },
+      {
+        "title": "To on ma być faworytem Jarosława Kaczyńskiego. Partii grozi trzęsienie ziemi - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFc1Tll5SDZrTTFUS29ELTlsNWw4MFhrdVFTOTlhR29TeXl6cmV1V3laQlROODVHTHF1eW9VaWIxeFZyZWhFelFDclNDX2ZsWVAyTVpkdVhzVGlqRzRJRlBmdVlubVVzekNiVHJpdWJEYWVhZzN4NnFHZTk4Vkt5QUlpOHRzaGd4M0FGY25GRktfWVd5N2FTSWdKVzlSVEl5QWZqNlZucm1rT2I0RXcxV3FJU3o5dnVJeUw5M0RxTUJxVWs?oc=5"
+      },
+      {
+        "title": "Rosyjskie samoloty w pobliżu Alaski. Reakcja USA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmpkNWREejJFelhkMjFPakxHVktwZlltQ0RmMG44bW1lOU1IY2EzRGVJZHhBMkpDWUVobDViM0hvZV9DRE9ibERHZkVSUXpIQ2hGOUJkbTVxRmtYZFpmRDFkNzVpQlFBWGl3Ykd1anJSZDhWSkYzNzF6MWpYbVBEdVpmd1JCejdKOHhVMlZ6SnBsMjJU?oc=5"
+      },
+      {
+        "title": "\"Oczy i pięść\". Chiny rozszerzają współpracę obronną z Iranem - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2VCRWQ0UU9FdGZFdlA5VjJlUU0xYjBXSUVUd2tQMF9ldDIybDc0YmdFTW1QN21tNE82SkE4UkxRaV9nOTlKLURGNWRIcmtQSGZLMG5JVHVzNHFTYmQ0dno5UDVXa2EyRzFlWnlyVnljemMwWDM4RWJxRUItRm1Qa3dQR00wa08wejlTNnR4Tk1TWWkxZXVuWXNyT2F1SFRMZFBfcmMwM2taYktSNW16OFBSQUMyaWJPZVBHZTZLVVo0dGpvbzZmclI5d294NkE?oc=5"
       }
     ]
   }
