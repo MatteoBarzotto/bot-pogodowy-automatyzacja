@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 15:03:38",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.561,
-      "EUR": 4.2148,
-      "GBP": 4.8338,
-      "CHF": 4.6159,
-      "JPY": 0.023163,
-      "AUD": 2.5204,
-      "CAD": 2.6078,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 239875,
-      "DOGECOIN": 0.356138,
-      "ETHEREUM": 7031.28,
-      "LITECOIN": 191.76,
-      "RIPPLE": 5.24
-    },
-    "indices": {
-      "^WIG20": 3354.83,
-      "^WIG30": 4311.49,
-      "^WIG": 3354.83
-    },
-    "news": [
-      {
-        "title": "Potężny karambol na A1. Są ranni - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zUzJpaXpTVGhCSE40Q28xNjdZbXgyMVlfd0xkR2V3anRmSUt3dS1FQzhSbEJLRXBMMUYtS1ZKWTYxdmF0R2dMd0FaTnhLNVVNOU4xTVJVVWRHWTdza1VjZUlTTURpZkQ5Zl9VUVU2TlNwYlU4NVZSMFJhSWVwUkU?oc=5"
-      },
-      {
-        "title": "Służby rozbiły grupę przestępczą powiązaną ze słynnym gangiem motocyklowym - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORURvQ3FrcVl1S2VkREt0aWRPUjFDQ1ZVNElpQWxHdUdlaUM4Z2tqN19ydFItaTRPNlhpTGtBVXFkQ0dPTDl3X0RCMnB1N1RIdFV6eTF3bFgwYmd5c0x1VXVHdjV2Y2hjbHE1RzdsMnVRaEY5THdERzUwWlBYcGdlSVVwNXhXS240RFdOWk1ENk5wRUJQYWoydkdhRTRiZE91VUtCSHJQSXVFcXlXbHN5YXB6MDJPanRuWU9kQ2J1LVZkUEs2QWF2SG1sdkhFcW5a?oc=5"
-      },
-      {
-        "title": "Czekasz na przesyłkę z Shein lub Temu? Chiny zamykają fabryki na dwa tygodnie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUtuM0xzN1NhM0Z6UEsydnp3SXYwLVQ4bDB5TGk5UmVpeXNZZWZ1X3VLUVhyMWtJdnczR095MUgwWC1EUnBuSm5STzFYUXROUjhaa0tYR3dmempRWGNRVEJfMVdSNlVlYXF6VGZHUUxkSWVONllPWmUtQXEwNjlIZVV5QXdjMEZTOTBKU29YMjFFX0ZOZ2drV09GQkJoUGl5T2N5WlBpYmV3Q2tFaXlQQkp3?oc=5"
-      },
-      {
-        "title": "Skandaliczne słowa Marii Zacharowej. Moskwa prowokuje Polskę - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3U4US1qZFM0VzRnNUNBMlItZWhFU1d5d1BVNDRqNFJqTmRDb3RUQXdIVVdtdFVEemYwY1lYOFpKcmJ6M0gyTHdCakVIclR5bUJSTHAtMkxMYTVETnhYVXRPSXJMbmxWbGJRUk9raDJhQkdTck84YzdKY3U4VVdYRGRKRnBJUmZ5SFo5cmZPVFhGd2FOWk9ITEtKeVFUUjhwczNEd3ZvekZFZ0E?oc=5"
-      },
-      {
-        "title": "Działo się w nocy. Vance znowu skrytykował Europę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhpVlFrVW1ZZGlzWXFEUVZtd21ka0ZvTTZpNkRkd1Fqb2FCdlZVOEtxaUEyckFQTDZGcnNfZWZHNG5XaHhmLUFyUElKTk5jbEp5bmNkX3g2OUF0YklsVGtDajhrX3NoaTFLQkVvMlM3X2FVR1kxUm9wT0xtbDNvSks0TlJhN2NHZjA0WFI0aDFQLXJLZUE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-18 16:43:54",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Będą się smażyć w piekle\". Kierwiński nie hamował się na konferencji - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0l5LTRfcXhHbWYtNUZxUXJ2ZkhMTnNGWkg4cGhXbEVvOXc1bDVmVGQ1dmxwQUxpUUJtc3VQN3Uya0JLbzZNbERjcXR1QjZQbEFiWDRfeGxsOURPbU5aQjh1SkluaERSNDBKNlhEXzgtUlFvUm9PNVlvMjdKR3ZWMktaT1BSNGFXcGRndDRjM0ZQMnFjZjE0aTJEbmNLa3ZqeDNabEZ1a2FaOVhLMnc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-21 00:22:45",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 243510,
+      "DOGECOIN": 0.358878,
+      "ETHEREUM": 7049.33,
+      "LITECOIN": 197.95,
+      "RIPPLE": 5.11
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Kolejne odejścia z Polski 2050. Kilkudziesięciu działaczy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTk3RTdIRlhZaE94TnVZeWlOUGU2RVljRnVKUHZJZlFFT2Z5MW9MZ0h2dVA1d0d4aTZuRXQxZm5LT3FGQXNDSGVFemt2WXhQWXRxRTFkdUJUSXlwdjN5RU44ckZUZDhxWFV0c3g1cXU5LW9FRS01X05rejlJenRxYkFsMExvTEdrdmtrN2M1a1RRUDVzS3VTbFoyTWl3RjBZ?oc=5"
+      },
+      {
+        "title": "Karolina nie żyje po wieczorze w balii. Wstrząsające ustalenia śledczych - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOVE5UTBFUVlXYnM3OURZdTQzTUdpc2kyUDVUODJzYnNVZUdidEVhbHV4ZzZGQnVMb1VNT1RaQ0RYWVZ6azF4RXZqSWowTWxXNUpnRkJVdld5WV82cXFUNE9fV2tMQnFpSjNZOVhhczB3bzhmME1Fb2VuOHMybGUyRkVUTEF0clRhdEtRcU15OTBFUWlvSmtjSDQ1Z0xGUVYtVEdMalpBQXphREhIQ3JJN3BfVzhSTHdNTTQ3WVRSQQ?oc=5"
+      },
+      {
+        "title": "Trump krytykował Europę. Nagle wspomniał o Polsce - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDdVdWJjUWluUDM3dFk1UHdiLUtpSzBTMDJFUHpnN2I0QWhKbllESXRFdDducXdHZzM1bUpHemR2ZmNDamUyZjRrT3pyNUZYVnpKNTBUR3ZWUDZ3Y19ma1pQdk5mMjA4Y3lDSGJ2SXpKalR5Q0NSQUc0aXl0blk2SUhTbUtmam41VDJyRmFmS252bWNSWXc?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek na stoku w Czechach. Nie żyje kobieta - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEE2UjRvTHBNbEFMUkhqOFZ4UVZHUVRzX0tmYUpxVXRXbllkcHlzSk1lNW15M1VRdzV2VkRfSGNGZG0xZndlNnN2RFU0NGtwRVozaGEtTi1qZEQ5VGEwYVBGdlFOVFNtQWRXTExGMC1mZ2JPRTV1T21EVldjdE5Yd0xMQjNFdGRmNkZZUWZ1U0FvWXpfcEgteUg4ZUJEVGR6UFhuSVRoSnBHSUZEeHBreHdRTQ?oc=5"
+      },
+      {
+        "title": "Wysadzenie Nord Stream. Orban rzuca oskarżenia - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQk1fdV93UTlWYUtxbVk5M0gzeHJDNmo5Yy1WSHZnS1habjVYOWNKVXVnWDNCQzdUSy1NUjljM25QdXlIbE9oVlhiU2RaTlNlT1FwUTdET0Y3SEJfbEk4QjJfNFhYemlkRUVQY2g3MlY5ZGpQSHlXclVfNUVVLUlrZWZ4bWp0ckRLck9LdUVpaDVVOXI4eUpwWk1zRmt1MWxUVWc?oc=5"
       }
     ]
   }
