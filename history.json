@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 02:43:59",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -9°C"
-    },
-    "rates": {
-      "USD": 3.5607,
-      "EUR": 4.2182,
-      "GBP": 4.8393,
-      "CHF": 4.629,
-      "JPY": 0.023287,
-      "AUD": 2.5184,
-      "CAD": 2.6098,
-      "CNY": 0.5147
-    },
-    "crypto": {
-      "BITCOIN": 238842,
-      "DOGECOIN": 0.356827,
-      "ETHEREUM": 7032.47,
-      "LITECOIN": 191.44,
-      "RIPPLE": 5.23
-    },
-    "indices": {
-      "^WIG20": 3321.64,
-      "^WIG30": 4268.14,
-      "^WIG": 3321.64
-    },
-    "news": [
-      {
-        "title": "Wybitny generał zdradza słaby punkt Rosji. \"Zostałby zneutralizowany w ciągu 24 godzin\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWnN6VjZXYld1TWp5X0JRazZ4VjhURmx6NDB0b0hnVUFEbFNZdEJiNVd5LVk4aF92NTlweVZ2VktaNlYxa2FndUVzTGJXMW92RVQ3ekJ0amdIa2hVYkpaQUM5UDRnN0RaTFRXd2lqV0xwTzctV3RYemt1Mm5Ic2lqRXdOWlN4aWlSMk5QanltbHB4c0hHX3EydXgtZFlHUDY1SHl3RjZNaW5GYkZt?oc=5"
-      },
-      {
-        "title": "Blady strach w PiS po ruchu Jarosława Kaczyńskiego. Chciał zawiesić znanego polityka - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaERrMFVPS2tLTG5BMWJHVVVidjdsd2ViUVpnQzNwVmEwUGFVcWVUeUtKZFliZW5zWDktR002VVhLdk5Ya2dwdS15VUpwWnQ3dU12RkJRUV8wYmFqY2FmQ1NRTWcyU2lvOUhaMUNjeEdIYUF2Z09Jc1ltS3Y3OFBremN1UnQxZlZqUS1ieHgwMlRQamhhY0N6QmhtZklnLXAyZEwwNG9mV0VSSGZhdldlZFB3WUZJZlh2eWtwWmlxcVpyWkFaVDZEeG41RkZrdw?oc=5"
-      },
-      {
-        "title": "Alarm dla ośmiu województw. Wraca \"czarny lód\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHlubzFxRTMycjY2R2EwZTAxRDBwLU9iaW9JX2xVU25XTXYybGtjcVZyUTBxeDFsNW5WeDVrcm01RVFMZU9RelhIa19YX2FaOUVpNDR4bGxiSmVINUljdzlIWnA5SzE5ZWszWXY1djMzdFg5M3pXcm9fRGx2YlBEa2VuUUxVc0pHUWRqRnRMbw?oc=5"
-      },
-      {
-        "title": "Szokujący fake news o Tusku. Chodzi o rzekomego SMS-a - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRm1vRjFPMElXVFYtRTVJTmcyaHBWMnBqTzhtR0VIbDdqOXRuVUpZcDRjVS1aUUxkMHBzb3FFZF9SbXJTMUtnb2l4NmV3cVdWVDJoZzYyWE4wVnB2VG9fODNha1lSS2xsU3Z5NHRBYVFJdC1rZm05ZWhsYlVBbGIxdG5hS0pPTGJTUVhPQkVnNDFzRUJudVczRWRZOA?oc=5"
-      },
-      {
-        "title": "Głośne słowa Nawrockiego o programie jądrowym. Jest reakcja rządu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXRHd2dYeFVCTnJFRVcwOGFmdURlbmdXcTFRSEdBUk9NR05Fb1pKOTY3MlI5aXgwUWJ3VHU0MTQ5a1ctejctRGlvNzdwcFNHNEtDd2hvTUVCQkxLc0t0dHQ0TFY0UW1ObzkzbXFaYkxIR3hMd0o2X1o4TlhDY2VBcjFYY2xBVDFEc1NWS3FidG5Jdi1WelNkWVNNNWRRNWJqd19vU3k5NXpWSmVzSWZieUd1dzhlLVpmRklybw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-18 05:15:25",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Kraków. Zaatakowali 39-latka maczetą. Trzech z nich jest niepełnoletnich - o2",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnRFbVgzWkxXTmZEV0U4NEdOUWZYUG5XNjRSZUlqODFNd0lBTFVpMlVqX3llZ2oxemxnMDBGWjROcHVwbE9qUnRhVkNHb3FVWHBfb0k3YmZWZi1SSGY0a0NwcEZkWjRER1ZhY1ZGaXlvejZuOVlSdDYtb1hGVnNRN29xRUlVdU1rcTdZLVJFbXRlWUxCYy15TWE4M2RwcVM2NmNrYTM1TzZHUU9xejE4NUZYRV9nVjl5?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-20 14:56:32",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 239896,
+      "DOGECOIN": 0.345454,
+      "ETHEREUM": 6936.23,
+      "LITECOIN": 190.3,
+      "RIPPLE": 4.97
+    },
+    "indices": {
+      "^WIG20": 3359.82,
+      "^WIG30": 4304.46,
+      "^WIG": 3359.82
+    },
+    "news": [
+      {
+        "title": "\"Rozmawiał przez telefon, był wystraszony\". Oto co Sebastian M. robił po wypadku - Kryminalne o2",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWNDa211T0dOcktMel9FdndfSnN1Q3lTb1JzZ3Y4VmNRSk93bjA2OWdZWURaN2hMbl8tSHlFU2ZvbGxfcjI3UHNGZnYwamJ1YjdnTUtDenNjTmQzeXhlRWxfR1k3ZjBXWWI4UzBGQkJ6YlppeEJSaEhaTUtpWThzcVN5bUx3Sl90aDkxMUtoU1RiOXdlbUlEU1NLWkxQNU9TMDVxWlZ6eG9UU3JVQ3FDSkZVcXlRVWFLV3NubUJfVQ?oc=5"
+      },
+      {
+        "title": "Trump na krawędzi wojny z Iranem. Atak uruchomi domino konsekwencji - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGJPTmZJZHZIQ29JRTFEeE1MdEZtdW1RNHA2WDNHdklJT093NGhrQmEtbk1KZ1AxclZWekRNQ3ZDLVZUY1pRcjhpQXZla3BYWGVZWFRqWGNjOFg3TVd2S1dKclBtRmw2R1E2RWlYZkJ0NGc2NWd4OGlzV09pT1RkZWM3UkpxN1dXN0REWjdSdEx3NGVIUUhoTTJLbmpuelNwQTUwUmpWMXM5QzZEUWVibHFFTmlxVHFUOUJMWjB3?oc=5"
+      },
+      {
+        "title": "\"Standardowy manewr\". Ekspert wskazuje, skąd mogą zaatakować USA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHVXYUJGZkZzYzBacGVXMUw2UEtIYUk4bFZzVFU3NjAyYmpzR0k5MHpkNmFrb1BDZUpGUWh1anJ1NDBVUWNZNVpEN1ZuTkRSQ3VCQ2FDUFk3QlVhOU9hcUZhTnEzV2NwYW1BZFNkbDB6RU9tNlMwamhrTThXYk5zWVhrUDI5SHVlVjhDemVhY0JIaWJQak5tcHllYzBLVVR6aVRUV3pR?oc=5"
+      },
+      {
+        "title": "Grasuje pod Warszawą. To dzikie zwierzę z Afryki - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHhFc2ZqX2Y0WE1Bcmo5VVBSb09zNnNQM2hvUXZxZjFKZnZ6UzNXeV9mM3BIdXhHSHBYYXlpRUppcjBCMGtuY1hmR1owVXYzWXZQX3BKZVpKcFlrRzhTYV9qZEhRVmo5NE9zM1kzZ0d5SmhSWjBVdkRybzE1ZExJc3ZkYTRveERtdG1Vbg?oc=5"
+      },
+      {
+        "title": "\"Europa się obudziła\". Władysław Kosiniak-Kamysz na szczycie ministrów obrony grupy E5 - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGNqTGJWaERKbEFxNWpVR2k2VE1xSDR2ZzdvSWtpN0hEYVRVQU1QVkswRmU1YlI2VTY3MkRCdmlGd1hDQnFzeXNEdEx2MzBFZ0loYzNveXNPbVg2QWJ5aDBlUjRObF9CRF9HX1hsdU1wVXdTaGIzeHYyU2RCdDg2ZU1qQW83QUV6UUlTd0JYM2UzLWpkbzZrbEh6czNmdw?oc=5"
       }
     ]
   }
