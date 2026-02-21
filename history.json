@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-19 06:54:17",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.561,
-      "EUR": 4.2148,
-      "GBP": 4.8338,
-      "CHF": 4.6159,
-      "JPY": 0.023163,
-      "AUD": 2.5204,
-      "CAD": 2.6078,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 238889,
-      "DOGECOIN": 0.348967,
-      "ETHEREUM": 7041.12,
-      "LITECOIN": 190.59,
-      "RIPPLE": 5.04
-    },
-    "indices": {
-      "^WIG20": 3377.74,
-      "^WIG30": 4342.99,
-      "^WIG": 3377.74
-    },
-    "news": [
-      {
-        "title": "Donald Trump wspomniał o wysepce na środku oceanu. Do tego może się mu przydać - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGpJd3RSdl9iUkxSdlJXekRld0xmNnlhLUk5blpRajg5YlZIelg1cFVHYlpGUEcxVU1JdnRIcHdhUUNfT3NLTk0zdm5HbWdZZHNvSW9GZXVXRDJKbTA4dkVUQi1NWnE1eDIxVXVZRnFobk50Q1ktNXNBaHkxM3A0TXRPN2g5RWlNa1hlT1lIWXZGMUlIX1RnbGRweXVLUFowQkxxamRrcnl6SUhFTWd1NGlNMA?oc=5"
-      },
-      {
-        "title": "Lód pokryje drogi i chodniki. IMGW wydaje alerty dla dziewięciu województw - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1J3cU82LWFhYWlTOTZjYUVNZGlOOTAtbjlTYmJYSXY2MHFpTzlBVkY5azhCMGY5eVRvUVRKbllQT1U0UnMwaVVUUVlRa3EydTlGdWQyV2VmNHJnS0JaQUMxOXd6Wm9vdWN1Y1NwSFc4bUxTX09OSHFhd0Uya1F2QlN1MHA2bXJ4RktBWGoyNDVYeXJjemVIcG16N3hGT3pYUnlFcFZ2SG5TeW9kSTRVMVdVdEVvdlBUVHVRZFFUOFNqT1E?oc=5"
-      },
-      {
-        "title": "W Środę Popielcową do kościoła? Ksiądz nie ma wątpliwości - o2",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjNWS1lwTGE0eWR4TXpRWERZZUZzTlNKelVwRlR5RlYyTXhVb1dzTUxzNGcxR0IyQVRSZ1ZqTDA4M2dVZnphQVI4RndsRUxzU2o0a29hNk42SmRPU091akR1MlhiN25OZEhzT2hNZEtDa2FtZWdsbzY3WEVfNTJqS0F2SU1YS3RwSF9NSjJaeGVjNVI1LUVxTjVtUXcwY3lCdnpuSFJn?oc=5"
-      },
-      {
-        "title": "Wielka afera w Warszawie. \"W środku spółdzielni mieszkaniowej działała grupa przestępcza\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVnItVFBtbXVXeGdBYy11Ymt5d25KWTljMFJfZFJKbDhOaG1RdzVmaXBzSkM1UEdFc0VzZjdQV1hOcFhkRGVkTEVDNXBOQmxUNzlhUkVqanFzdWFBTWtQek5ob1hVOEVSQ184UXlubVhNNHhHajk3bW1zNDYzUVVxdzZjQmphVE9pM0pIWGpza0pGaF9hTVdrX00wcWZtd1JBR2lGT001b1pOTTJrS19HLTVxclM?oc=5"
-      },
-      {
-        "title": "KRRiT odrzuciła wniosek Republiki. Zaskakująca decyzja - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkJxWXpqSFk3elJLWHZmZWdqRzdCZkZPbkVibWZfVWNBZHJuZUtpV1RfdWNkTXVtUEk3U3NBdGo5Mm4zT1VVYUZmQ3REM3djNTVkNXd3NDZFaXVKSnZvYjE5TzFRNmU4b3M5bUFkMGloallhSy10Z3RWTUJWQ3RVYVZlSEZreU5rZTdxTWY0bkxJZ0pudjJOa1gybw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-19 07:53:16",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2588,6 +2536,58 @@
       {
         "title": "Cła wrócą. Trump nie zrezygnuje z tak kuszącego narzędzia szantażu [OPINIA] - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDFtcmFiY2djcFhRa2tpSkRTMlZLN3R2TTFUUEhld3BWMlRXdDJYX0RrU3hvUEtZVkV6ZmtBVjVIMjJsUlhWRVktUnk3SmNRX1g2TnJrenY5NHdPMUZyVXVidjlTQ2JvS21QUEZnUGpyX1lyWHQ1MEJlYXU5NFcxaDhKX0pNOW5wZmFENzMwMUgxTFY2Q18zWmNQNzBTZjdjaVpNTktwWm1Xek1Tal9OdWl0S2hhZmNhMjh2YXdGX3pCdnJQWnc?oc=5"
+      },
+      {
+        "title": "Potężny cios Ukraińców. 1300 km w głąb Rosji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmNCMkFNalp5REZ5c2U1U2E4cGI2Z0I5V0ZXc0tLdXIzejBxMDhLV2dkcHFUallYeEREMjVDcHRwemNSZy1uWUxCa0JwaHlfdktTc1huNmZIb3lrRXhXMnFraG45U2JJNHFiRlJUV0ROMG1UZUZKUW9zemFndkdxZFQtbnE1ekhDM2dkTWloRQ?oc=5"
+      },
+      {
+        "title": "Burza w sieci po koncercie Polsatu w Gdyni. Poszło o strój Margaret. \"Zapomniała założyć dołu\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmR4Z2tRUVFiOWM1OHdWY0tKaTN0Tm5EdWZIeHVoLUtxakVoU0RqUWNpMElxcFU4a2oyTTBDcUVudFR0X3BCOEd0TEc5WU1sYmhzaGdqUzNlZ3FRUWlibXF4bzBhQ2U1SjhqNU9BejItMGRWRDg4VHJYbExkOXpBZjY2UlhXSkQ2VE1wNVAwQWZsVVJ5UHZyUXpIdGh3WkFqZ0xXSV9KUEJGWV9IZ1MyOTRxQlo0SXdLQV9GcTdJM3NlaldBaHp4NmtXOV92aVQtSHNWd2FpeWg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-21 15:20:32",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 243658,
+      "DOGECOIN": 0.357549,
+      "ETHEREUM": 7076.26,
+      "LITECOIN": 197.84,
+      "RIPPLE": 5.17
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Lawina w Alpach. Zginęło pięć osób, w tym Polak - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2t5Nmt0QkU1Z2JGNUk1N2VRV2ptUmZCWjNhY3FaZUQ5a2FqdGRhV09QVVNoNkVKdC10bUNFZ0JCcTB1ZDlPMXR2V3pjLU5MWWo1VzZQUmt6T2czRm5oNWs5dFVBbW41ZjRxMUhpMGIybFE3cEhKdTRYdW14ZGFxSmVGS1ZHQzVjYnRDNWIwamhhbnllSkVYaw?oc=5"
+      },
+      {
+        "title": "Nadciąga spektakularne uderzenie ciepła. Temperatura sięgnie 17 st. C! [POGODA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaDBTTkRMRzkxYUtZTEFiM0ZrNHlkS3Y1T2xMdmkxblY3MFBtek95bE1fLWxJTVQxOUttb05Pd2psaUotMHR3MEVzWXV3UkhZUk5Bd05nczZHZmpaWkdpeVFjUGVpR2Q4Y2dHaW8wdTB0VWZUeWdwNHlyTTNrQmVQcFdYYktCT0U2WG5RRmFrVWtZQmo5YzNYZVNfMWtVTm5CUkZwbU10MEg2NmhHZTg3NXNsUktFWXc1bEo2OGVRbWtZbzBzSXRCV2FoX3ZkdU0?oc=5"
+      },
+      {
+        "title": "Wiosna tuż za rogiem. Wcześniej czekają nas dwa groźne zjawiska - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHA3YlJNalN3VGIzTHlzR2JYRHh0QXE0bUVKbXZtY3NxbjMtZERIbkRqZHBPNVQ4bXBRY3YwVmt0cEs2VmEzZDVDTE51WTNHampIckpHZHV6VkdoMG9oQXlRM0tMVU9YQ1luZjJwZTJ3em9LZEwtalV0dGo0eXNScllDZjNCeUt1bmdlcWhHcWFmRkgzUHFCX2tZNVZ6Z1I4aW95dnBRaHRUMVM5VjJj?oc=5"
       },
       {
         "title": "Potężny cios Ukraińców. 1300 km w głąb Rosji - WP Wiadomości",
