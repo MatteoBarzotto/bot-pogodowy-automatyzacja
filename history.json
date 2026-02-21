@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 19:43:15",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +1°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.561,
-      "EUR": 4.2148,
-      "GBP": 4.8338,
-      "CHF": 4.6159,
-      "JPY": 0.023163,
-      "AUD": 2.5204,
-      "CAD": 2.6078,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 238292,
-      "DOGECOIN": 0.354975,
-      "ETHEREUM": 7011.98,
-      "LITECOIN": 191.95,
-      "RIPPLE": 5.18
-    },
-    "indices": {
-      "^WIG20": 3377.74,
-      "^WIG30": 4342.99,
-      "^WIG": 3377.74
-    },
-    "news": [
-      {
-        "title": "ENA wobec Marcina Romanowskiego. Jest decyzja sądu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFBVUGNrOElIc1d6c1ZWUGtlVGFHbkRwTHIxLS1fTkxMSjFlUENWUi0yVlRHX3FLY2tzVS1sWVB4WU5UVHF1TmNKek5wUi1FZU9RdmltR09FbjA1ODIyNnBuYVVnSTdMd2ZlWEVsU0JRSUs1ZGRNc3R4V3h6bnJ2WkhiUUZjR0tfdV81cHFnMUd5MFdpUXdv?oc=5"
-      },
-      {
-        "title": "Słowacja ogłasza stan wyjątkowy. Mają problemy z ropą - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0pHeHVqejNkRGtQN3E5NEhTMFBjQ0g1TlhwaDlWMzZzeWViM0hwd3FmbmpucmJxd2hFVy02Njkwc0RZekphcElvaHg0SllrQXFtT1JTRFNJZThGSWtTVENEcWF4ODBPV1ptZ1NZcmNIMmlVLXp1elBSSlVjUWpUcU9fWWNNNjJFdU1YX1R6dXNXb3g3bnFxU2pURHUwUzRUMUthay10QTlrNW1mZVRKc2pWU3ItNldXZVE?oc=5"
-      },
-      {
-        "title": "Załużny uderza w Zełenskiego. Wskazał błędy podczas wojny - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFc3cFBmUW5SdXhfNzA0ZExkSjllMnBPcmFJbnlNT0RzQWRRbGVFVGxhbWwyREtRbXJweTdkX2ZHZG9wSGhTZWV0U0JTT0hQWWkwWHVfM3NkdjZENHJoWW5SVm53bjBUMGIzOGRnMkdvdmg5X3Z2d09mMnRlVnFla29jSDhpUnExRHlrYjNGUlVqRVpQaGk2b1NNcHRiMlU4?oc=5"
-      },
-      {
-        "title": "Emocje wokół Czarzastego. Reszta kadencji pod znakiem zapytania? Nowy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVBhOV96Y3Bsek1yc1loUFNHM1dvTnA4d2x4eUtoY0R2VUN2V3hubmx2TmpZSGF0VHNHTVIzU3dURU1janFnbGRxSTZuak9LcTd5RHE1bVRaWVZiQ09JNkY0clJLT1lmLTZOZEk2MFUyV1liQVhoYjQtR216cWM0cnZWQTZPVUJSbXBZUzRURmotT0taTVJfWkU5SHFGcGxuSEN0OXpTRGk4cEhrSDlpejRHWGpROURh?oc=5"
-      },
-      {
-        "title": "Trump ratuje zdesperowanego Orbana. USA wchodzą do gry o Węgry. Amerykanie mogą się srogo przeliczyć - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEFTRHhYLTNjUmw3d3hxeHhqX2lsVVp1SDhGODJWNGlwMU5PT0o5b2Z0YmJ2anBaaEhramxXMXZEMmt3eE85Nno5Z3h1NklmM1FYMS1LVTFhcHlvNWk4eEdnOEdyT0c0eDlrbjVjXzdpTGV1N2RZaXNPOUNURkdDbmNZQTg3cFlBS190R0RtLTJVazlkSW1vYl9rY2dtajFvcGVVZVY5Ykl4S2lnZkVxYUc1dkloalVfNGtJZ2FCNA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-18 20:42:43",
     "weather": {
       "Warsaw": "Warsaw: -5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nawrocki wetuje ustawę o rolnikach. Kołodziejczak: groziła konfliktem na wsi - Fakt",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQV9fOG9YdnJqUmdJbVdvUFIteXRONmdld2N1dkIzeGFZVnVRZ2FpSnQ2aFIzTFJLN0RHU0V0OGhibi1Ec1llbkViQ0JXdENIZ2VNQURNM1llekJGUWUtc0tuVTY4NUc2eHViT3ZHakU0cjd5WHF0XzhUb0djZmxKNnE0SXR3RWJNS3cwMmJmVVFjMEtQUUlHck1XdXdIdUM5VG5MZ1RBelYxd09w?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-21 07:34:08",
+    "weather": {
+      "Warsaw": "Warsaw: -10°C",
+      "Kraków": "Krakow: -10°C",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 242774,
+      "DOGECOIN": 0.35754,
+      "ETHEREUM": 7024.18,
+      "LITECOIN": 197.51,
+      "RIPPLE": 5.12
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Nagły zwrot Węgier ws. Ukrainy. KE naciska na Budapeszt - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczdydnBldnlmNnlVb3E5YmFpRXhqTHE2MlVITjUtQjFDZWJKTFRsNFZfMWhoYzJSRjlya213YlhKeloxVUx2c2dnYWpoaUJXMnJCZEdiSUk2WXNMcEdzSW43eHo1V3I0MmtWRWFacmVfTTdkRWVCV0tMblRiZzU5d2pQV1Y5THpXdkU1WEtMNnMyb2s1VnktNm1HR0Q?oc=5"
+      },
+      {
+        "title": "Znamy plan Morawieckiego. Jego człowiek ucina spekulacje o wyjściu z PiS. \"To spin jego wrogów\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNFhDVWwwVlB2V09vWUtSaDJvaGt2VXFwd1RIa2IwSmtHSTFHQzVScHp6b2VBNlNfYkdpTFdJUWNtbEM4aE51dVpiaVF0ZjlQSmJYcEt2OGZzaDhpWnJpbEw5TEpUbmNLQWdwM2FCRmNtMzE5bzkybnR5S1ZlZUNMek1LRHYxR2U1cERJZC1uSHVzRWJlcjIwV3RqUTBTdDNZM1VoSVFfNUlKX29JZ19Ia19KUGVQUVc1NFFpdnlNeWFpMkRlVXB3SGxxTE9XWkE?oc=5"
+      },
+      {
+        "title": "W dół ocena premiera i rządu. Polacy wyrazili zdanie w sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU1ZT0FQOEFtcXJWRmZoLXZhdzRtNnlOWGxFVGVIMUplRTY2bElWNGx5TlVpQi03bUdXMkN1ZEU0T3RyZFp3WXp6SVNpRV9PZjk1dGpucG1MOVBjUkprT2t6My14VUI2N2xCM1FrUGI0QndiMGZOdHdpeW00d2tHeEtEcXVmeWxMbjBsZXQzcmp0R3ZXXy03Mk8zY0o3ZzFFNk4xdVpsMA?oc=5"
+      },
+      {
+        "title": "\"Taki wieczór zdarza się raz na sto lat\". Wszystko pokazały kamery Polsatu - Muzyka Interia",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVdVa3RjX1dOLTFpa1FMX1hNaWh1VXp1d3hLM2hvZXdrODllNHcwdThYbGI3U1otSjlKU0tMRnVNaHVzSGwzNWVDSUdNdmQyMmpObnZ6cHNuT3doYm05SWd3MDgwT21wNUhTaGlQc0FDTTBidGFlRnp5WnlPQWZwZFJPdHRMU3dDOWNkc01hNEFqWGNHQkpUSFUxX0Jfa0h5a05uRG5QUHlQeFht?oc=5"
+      },
+      {
+        "title": "Rada Pokoju. \"To było one-man show\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdlBuMjlKSnV3TW41RmpFd045UWxHLTJXRWh6S3pUV1JvZG1pUkJKR3phZlFmUElVNlBQMHNuX19EelNJQzZqXzBRSmVOSlJCak9VWjZqdGp4TldmVHd2ajJGQVdmMHY5ZFNGT0l3T2lqSG55Vkw2N2NpYkNoYV9GOA?oc=5"
       }
     ]
   }
