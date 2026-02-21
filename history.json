@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 21:32:08",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.561,
-      "EUR": 4.2148,
-      "GBP": 4.8338,
-      "CHF": 4.6159,
-      "JPY": 0.023163,
-      "AUD": 2.5204,
-      "CAD": 2.6078,
-      "CNY": 0.5143
-    },
-    "crypto": {
-      "BITCOIN": 237348,
-      "DOGECOIN": 0.352864,
-      "ETHEREUM": 6954.29,
-      "LITECOIN": 190.32,
-      "RIPPLE": 5.1
-    },
-    "indices": {
-      "^WIG20": 3377.74,
-      "^WIG30": 4342.99,
-      "^WIG": 3377.74
-    },
-    "news": [
-      {
-        "title": "Nowe informacje po negocjacjach Rosji, Ukrainy i USA. \"Jest to już jasne\" - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0Z3UWlSbndHZDFHeEpDU0dleFZpMF9RamJuelNERVBqeDZzanlRTnZsXzR0bjFWcWtrVEtTb0tPSG5SVzAxOUlWMWJzQzd5Z1RTYk4xUVEtbHJpY052YnlKSWI0allTMVpMU1ZGaHB4cHd6cVdISFE5dUYzM2VWN043eUxacXEtVVdGT3lUM1k4RHhEZTgwVzgzYW1JekFCMkZralQyWV9LdkdTcV9j?oc=5"
-      },
-      {
-        "title": "Karambol na moście w Warszawie. To kluczowa przeprawa w stolicy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUx6Y1l5LVBITk1jQmFoUDRBcko1b1A0RXpXeEdRNzlLLW45d3NQTGxGdnhnN0QwSm94WmE4ME5YeUNrOEV4OUlpaktraWoyejhHN0Z3c0lGdDJmclozbTFyWEVYcmdoYUFIQkhHRDZLbERSZjJVdDFsM1F4Nmg0bFZ4clh4dkctTEpXdHVsSzc4Y1Y2YVBqS0ZXaVV1ZUtxRjZBNzRGbmotVk5zNE5qS1FVU1MxQUdONjNoRTVQWFQ?oc=5"
-      },
-      {
-        "title": "Emocje wokół Czarzastego. Reszta kadencji pod znakiem zapytania? Nowy sondaż - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVBhOV96Y3Bsek1yc1loUFNHM1dvTnA4d2x4eUtoY0R2VUN2V3hubmx2TmpZSGF0VHNHTVIzU3dURU1janFnbGRxSTZuak9LcTd5RHE1bVRaWVZiQ09JNkY0clJLT1lmLTZOZEk2MFUyV1liQVhoYjQtR216cWM0cnZWQTZPVUJSbXBZUzRURmotT0taTVJfWkU5SHFGcGxuSEN0OXpTRGk4cEhrSDlpejRHWGpROURh?oc=5"
-      },
-      {
-        "title": "W kalendarzu kanclerza Niemiec jest data, która go niepokoi. Trump nieświadomie może mu pomóc - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2gtdC12b1JUWkxFdEZZNUFoR1BUT3dieUtVdWVfR05RcWFKQ1p2RTAxbk03S3llcURCQ1N1QnYyOUR0RFZDdklCc0FMQTBRc29mSENmV21md3FzZzhaYnFSM0pIVXNNU25HdzFPd1cyUUQwZmxmR2JRbWZTSkFCNEZ0UmVneWpBR09MdGdJLWRxQ2tsRjk2ZnM2ck51U2l3cWotOUJ2RkQ5a1FoYU13aFVvaUx2a0VaRkxjSWFKUGNfSTkwNlVxSA?oc=5"
-      },
-      {
-        "title": "Nowy sondaż na Węgrzech. Jak Orbán reaguje na słabe notowania - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTktib3A1ZTJHRkJhaWxuS0VFbXRHLVFRWUFocG5aN19Ea0dUVFFncHM1bUNxbGtIWFFFQjlybjVCckVIZzFhLXJoMmJFQ0JWaXVVZzc0b09QQlE5SDdfTEFYcVRfTHdlc1pHcExOQWNmZkp6ZjVya0tLWmowYnRNMU1ub003NzgzMnJGUEpiS2llbzhFVUtiS0xKaGlua2NXRl9PLThB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-18 22:29:22",
     "weather": {
       "Warsaw": "Warsaw: -7°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Odkryto przyczynę raka odbytnicy. \"Nie ma bezpiecznej dawki\" - WP abcZdrowie",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMXdzSUtfc2FDOFRBbmJQTGtJNHc4WnNIdUlqUE0wdTFlMm13Z19MR3VxUWx3RC00R253aWh5SGJtOEdubDJHaExjYnBJT295b0NMcGJOR21DZzNfc2I3Wm13YWFoLVVLQ2lsdFduZTI5MjJaZkkyMms0Q0FHbjU1RXBDaUN5bmttNUNKUjFUR2FCUmlrcHNkRUZqc1NyYk1tWkZjeGowRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-21 09:22:44",
+    "weather": {
+      "Warsaw": "Warsaw: -8°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -4°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 243305,
+      "DOGECOIN": 0.358307,
+      "ETHEREUM": 7034.97,
+      "LITECOIN": 197.48,
+      "RIPPLE": 5.12
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Węgry wściekłe na Ukrainę, stawiają warunek. Gra toczy się o miliardy euro - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzJYNWxrQ2htQUt6dXNLME9sbHEzODdLb0ZtOXVDSEFhTjh2ZFRuNk4tZWFRanpoeGdDX29QUzdKbWVMckdDdUtZR3pFY3JDb0hYOFhveFJvZktNSFFfX1U2RmFPbDl3NGhlSUwwYmc1UFFFVUZhNHZVZE9iVFFzdGdsVjY2cnRkc0hseW9LbzZDanE2eC1oci1mQUtQeWxxQnBTV29OTllid0ZTU1pqZGtGLWM3eU5mV3c?oc=5"
+      },
+      {
+        "title": "Wyrok w sprawie obywatela Izraela. Szpiegował na rzecz Rosji w kraju NATO - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenpqWTFpaU16X0tMMW9FallMbnJRMk8xcDVhYnVVZTJVSk9ITjN4YVFSaUNLNjhmQUhHNUR2S05jcW1FWnVTbjEteDZPNkVtUDlpNm5NWnRNZjJteWVYMEZmVm9YVVBwSmN1QTdoUnpBd3YycVRIVXo4LXBtMk5FUDl4S0VTZDVHWEpOS1NkdHdaQW9pem55T1pYRGpSNTFCZVY1RllKYnh6VURQdUhrZ29ZVy05UQ?oc=5"
+      },
+      {
+        "title": "Burza w sieci po koncercie Polsatu w Gdyni. Poszło o strój Margaret. \"Zapomniała założyć dołu\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmR4Z2tRUVFiOWM1OHdWY0tKaTN0Tm5EdWZIeHVoLUtxakVoU0RqUWNpMElxcFU4a2oyTTBDcUVudFR0X3BCOEd0TEc5WU1sYmhzaGdqUzNlZ3FRUWlibXF4bzBhQ2U1SjhqNU9BejItMGRWRDg4VHJYbExkOXpBZjY2UlhXSkQ2VE1wNVAwQWZsVVJ5UHZyUXpIdGh3WkFqZ0xXSV9KUEJGWV9IZ1MyOTRxQlo0SXdLQV9GcTdJM3NlaldBaHp4NmtXOV92aVQtSHNWd2FpeWg?oc=5"
+      },
+      {
+        "title": "Debaty PiS ze studentami budzą emocje. Część uczelni mówi \"nie\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmM5TnVjX2FrWkxQQlNLMEQ0dlhXbXhNWThHQUtWaVBTek9PY20xV1dIMzNHQjJlU25iczhTOFA2bngzUkx2QzludTlMUVIwSFdKVmU1ckM5dmVDeF9BMzFmSnpqYlAzc3V0bE42U3RsWnlDZDBQcFFZaHdsYkZ4S0taekNVVmwwXzUxdGZab3pqTXNBYTBWNHlPdWpIZ0lzSWJpag?oc=5"
+      },
+      {
+        "title": "Znamy plan Morawieckiego. Jego człowiek ucina spekulacje o wyjściu z PiS. \"To spin jego wrogów\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNFhDVWwwVlB2V09vWUtSaDJvaGt2VXFwd1RIa2IwSmtHSTFHQzVScHp6b2VBNlNfYkdpTFdJUWNtbEM4aE51dVpiaVF0ZjlQSmJYcEt2OGZzaDhpWnJpbEw5TEpUbmNLQWdwM2FCRmNtMzE5bzkybnR5S1ZlZUNMek1LRHYxR2U1cERJZC1uSHVzRWJlcjIwV3RqUTBTdDNZM1VoSVFfNUlKX29JZ19Ia19KUGVQUVc1NFFpdnlNeWFpMkRlVXB3SGxxTE9XWkE?oc=5"
       }
     ]
   }
