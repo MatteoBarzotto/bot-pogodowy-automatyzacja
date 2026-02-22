@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-19 23:24:27",
-    "weather": {
-      "Warsaw": "Warsaw: -8°C",
-      "Kraków": "Krakow: -3°C",
-      "Gdańsk": "Gdansk: -7°C"
-    },
-    "rates": {
-      "USD": 3.578,
-      "EUR": 4.222,
-      "GBP": 4.8318,
-      "CHF": 4.6266,
-      "JPY": 0.023111,
-      "AUD": 2.526,
-      "CAD": 2.617,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 239580,
-      "DOGECOIN": 0.351271,
-      "ETHEREUM": 6970.0,
-      "LITECOIN": 188.62,
-      "RIPPLE": 5.05
-    },
-    "indices": {
-      "^WIG20": 3385.33,
-      "^WIG30": 4336.71,
-      "^WIG": 3385.33
-    },
-    "news": [
-      {
-        "title": "Sondaż po głośnym wywiadzie. Polacy ocenili działania Marty Nawrockiej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGtYa2g3V3FuRUNKVXlQZGIwLUNBeF9GMExuTnFoZkY3bVFza1p6NVlTNnRxZGxCcWt6UjZreFZ2eHdrVDNsdEdYUWc0NnEzTGlZQ19aZ3hvMndtOVdSSThKM29DZUJVUURwSVh3eEg4cGJxdXE1VmtfUm1HWm92VkJNTnF2cGNNN0xMZW1xMjZlRHF5SXpqNDRzS2lIZHJjLWdVd0ZFbDVKY09SajBfeGhR?oc=5"
-      },
-      {
-        "title": "\"Wstydź się, Viktorze\". Burza na Węgrzech po szokującym spocie Fideszu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2p4UUN1NEMwSHNpNmJHWUE0QUxzei1vQkFrbDVvcHJDX19HQzBZZHlGVkY4bEc5WVBSV1ppelAyakNTRVFuMmRwYzFlNWpXQkRZWHFHUEFSM2tHN0ZGamRjUFF2Vnk2dF9tWWdvQ2VPbGswc2JSSTdQVGphSVFNNlR0dFJHOUczblZKeDRqeDBNOTYtUDhCbEtnRXhMZ0FtUW84c3c5OFdmdWhqVHc?oc=5"
-      },
-      {
-        "title": "Ukraina otrzyma wyczekiwaną broń. Użyją jej jako pierwsi na świecie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE1aNVQwWEI1aXNSTTJOMm91TTBBRFJidHF6aHNvZnVyQU42QVNERnZYNUNwWjFJRXpxUTNsYU5jVWFYVkZReWFrSW81M3VMV0pHWW5WOTBYWnRuTFdUV1hNWW9XRjFjYlQ0UXhiS3AwMktIYVI4R2UwUnUxc3gyYW1VQ3JXSmUwMVItUVEzU2lpdUVBTC1HbmxRMVNiRHUzMkJkYV9sbVNTZlphbGc?oc=5"
-      },
-      {
-        "title": "Niemcy się wycofają? Niepokojąca wypowiedź kanclerza - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2dfTnlIa1I5clhwM2lRX2ZYS2RrMTVmX3gtbWlJOVBwNm5ROVNibXUzVVhlM3hzamhJdmRMS3hLbE4yam9xRjVRY0hpRTl2Z3B1Z245RkVBZlRhSkU2bUM4MzVYektPZUozcmczM1pvVXgxNEgtUUFUNFE1LWxRcXNFc2ZBOVczQjJnUTViSUdhUQ?oc=5"
-      },
-      {
-        "title": "Szefowie europejskich wywiadów nie widzą szans na pokój. Mówią o kulisach - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWJaT09Gd1FBTXF0RUtwaXlYd21nY3loZGtfVjhlQXNIcGl3WWFvWXFrSnllTC1xbDBhNnZNSmg4d3l6SklBRXlUWTBhbzY4aE1sd0NKZXRJSU9WTjhUWmJNRkx4MmRTUmxSWEhPQllWYTdCMW9ZQ0VZSm14VGtUcm84N211d2tsUFhqTWx2Q1pNUU5ra2JfZFdicUxJWGYwZFdWVkFnT2ROSm5zOFp0emctT2EwU3BRSXNZc2ZVUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-20 00:23:59",
     "weather": {
       "Warsaw": "Warsaw: -8°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Prezydent nie zawetuje programu SAFE? \"Amerykanie mu wytłumaczą\" - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNXNk96cnFhdzkwMTlOaVA5bkZvUW9JQV9jeXdXaElZemxDbzROQ1hpT09tWlI2NzVLUTBBZFJORFpCWTZiUS1aaW11ZFUweUxGbEgtSjJCMkdBSjNIeTFTdVVFVEtlOFFBTFZnaTRSZ2ttSm9yaXoxeWF6TE90bVg1Tk1zMkxIckJvb052WlV3SS1WQ3ZXcXdjMlRxUDh3WkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-22 10:24:20",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 243621,
+      "DOGECOIN": 0.348168,
+      "ETHEREUM": 7067.28,
+      "LITECOIN": 195.8,
+      "RIPPLE": 5.09
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Rosja przeprowadziła zmasowany atak na Kijów. Ranni cywile, alarmy w całej Ukrainie - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjk4WjcyRGg3Sm1PdVdVdTltOHA0eHVtcUNuZnEwY2VTQk83STlJbFg5LUF5cUFwMjdkV21ESFpQalNaVW1PZm80U0Z4cHI5M1QyMDdTR0ctNmdCTG9lZW9raEYxVkZYenc5cW5PNnQ3ckhsQ1dkWm1nMVFxNVhTdEg4TWdwYUFIamtMT2lsX0V0VHcwTDFEcDNaZnNiZzlCaHViNUplZF9jN1llRmc?oc=5"
+      },
+      {
+        "title": "Skorpion, żaba i krokodyl. Były współpracownik Kaczyńskiego o \"traumie\" prezesa PiS - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZklzUTFhTjhmWXVmb3hJZmRrNjZsc2NxekZnWUVObTlEb2FNTW5PUzJ1WGpYRUdzcFVBclFCWk1xVEF4TGVFWHZCRHlnRmJFNGJ6bFNLRDcwQXNGVGJLOEZNZ1BpdTBjUW5oZVQzUEJrR0piaW5kaTVZb3NWZzhiTHdQZmZ0Uno5M1BvQy1BenlQcjBkbzgyX1lPY0JqTWVRTld0N2NodGp6bHFVcmljVGFCSVRqbXprZDlSdHlUSQ?oc=5"
+      },
+      {
+        "title": "Tragedia na przejeździe kolejowym. Nie żyją dwie osoby - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVpRQ0E4ODlubFZTT2NXdXJpbGhsOWRuWk9yMTBqNmZxczlaZDl4ZWZnVl9UeTNuZVdQNGo2dTU3cEg1Z01FZkt5YU1PQTVnanl2OGw4UGJsSGdVQzVDdmRlOVQzcklweWJ0Y0Y1ZlFWVlFDYmthQzlnWFgxMHVFRDVEOUo5dWFUUGtaUDdEcndlN1hXTWdnaGJKRGRTcmJoRk9Ca2dXOHl1ei10Ymo3LWJDNA?oc=5"
+      },
+      {
+        "title": "Znów gorąco w Iranie. Władze brutalnie stłumiły wiece studentów - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUndvLWJwTWVBZF9fYlNXTHZZSjNmeV9UVWN6VE9mYzY1WGwtZkpNeHVrLWVPekpEVFFIUE45T0wzWXAwVVRVSUh4WV9mZWtudk9wd3F5NEJ1NkRlZHZzR2dBb3pVR29QSHFKSlgyekJRVllJWmdMckwxMGdmM1Z4bUJUbkY3ckJwTFY4UkRtTzlzTnEybzFwZVZHZ0wzaXFoTWVETHNjMXg?oc=5"
+      },
+      {
+        "title": "Pożar w domu pomocy społecznej w Szczawnie. Jedna osoba nie żyje - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDVZTS1XUVZJSjFvMHMtcmRndndDdmRmZ2JYUUFjVmxLdF9uUzlJSlBfem5uS0ZSMnVvNnllYmtrMllUOExkelkxNXVFTWZPR29kbFhFZUQtTExKc1ZialBGeG1UU0NtcGFfVVg3dDF2a2FOTWFweGEwTmlJbWRDcGtXeXc3M3k3UGJiSzNKZkRSNWFNMEVGU0lVYXNGR0dpeUtpbHU0THBQSDBQUVpxSTlxeGd1ZVJzTjNQOXlHTnctUQ?oc=5"
       }
     ]
   }
