@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-20 14:56:32",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 239896,
-      "DOGECOIN": 0.345454,
-      "ETHEREUM": 6936.23,
-      "LITECOIN": 190.3,
-      "RIPPLE": 4.97
-    },
-    "indices": {
-      "^WIG20": 3359.82,
-      "^WIG30": 4304.46,
-      "^WIG": 3359.82
-    },
-    "news": [
-      {
-        "title": "\"Rozmawiał przez telefon, był wystraszony\". Oto co Sebastian M. robił po wypadku - Kryminalne o2",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWNDa211T0dOcktMel9FdndfSnN1Q3lTb1JzZ3Y4VmNRSk93bjA2OWdZWURaN2hMbl8tSHlFU2ZvbGxfcjI3UHNGZnYwamJ1YjdnTUtDenNjTmQzeXhlRWxfR1k3ZjBXWWI4UzBGQkJ6YlppeEJSaEhaTUtpWThzcVN5bUx3Sl90aDkxMUtoU1RiOXdlbUlEU1NLWkxQNU9TMDVxWlZ6eG9UU3JVQ3FDSkZVcXlRVWFLV3NubUJfVQ?oc=5"
-      },
-      {
-        "title": "Trump na krawędzi wojny z Iranem. Atak uruchomi domino konsekwencji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGJPTmZJZHZIQ29JRTFEeE1MdEZtdW1RNHA2WDNHdklJT093NGhrQmEtbk1KZ1AxclZWekRNQ3ZDLVZUY1pRcjhpQXZla3BYWGVZWFRqWGNjOFg3TVd2S1dKclBtRmw2R1E2RWlYZkJ0NGc2NWd4OGlzV09pT1RkZWM3UkpxN1dXN0REWjdSdEx3NGVIUUhoTTJLbmpuelNwQTUwUmpWMXM5QzZEUWVibHFFTmlxVHFUOUJMWjB3?oc=5"
-      },
-      {
-        "title": "\"Standardowy manewr\". Ekspert wskazuje, skąd mogą zaatakować USA - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHVXYUJGZkZzYzBacGVXMUw2UEtIYUk4bFZzVFU3NjAyYmpzR0k5MHpkNmFrb1BDZUpGUWh1anJ1NDBVUWNZNVpEN1ZuTkRSQ3VCQ2FDUFk3QlVhOU9hcUZhTnEzV2NwYW1BZFNkbDB6RU9tNlMwamhrTThXYk5zWVhrUDI5SHVlVjhDemVhY0JIaWJQak5tcHllYzBLVVR6aVRUV3pR?oc=5"
-      },
-      {
-        "title": "Grasuje pod Warszawą. To dzikie zwierzę z Afryki - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHhFc2ZqX2Y0WE1Bcmo5VVBSb09zNnNQM2hvUXZxZjFKZnZ6UzNXeV9mM3BIdXhHSHBYYXlpRUppcjBCMGtuY1hmR1owVXYzWXZQX3BKZVpKcFlrRzhTYV9qZEhRVmo5NE9zM1kzZ0d5SmhSWjBVdkRybzE1ZExJc3ZkYTRveERtdG1Vbg?oc=5"
-      },
-      {
-        "title": "\"Europa się obudziła\". Władysław Kosiniak-Kamysz na szczycie ministrów obrony grupy E5 - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGNqTGJWaERKbEFxNWpVR2k2VE1xSDR2ZzdvSWtpN0hEYVRVQU1QVkswRmU1YlI2VTY3MkRCdmlGd1hDQnFzeXNEdEx2MzBFZ0loYzNveXNPbVg2QWJ5aDBlUjRObF9CRF9HX1hsdU1wVXdTaGIzeHYyU2RCdDg2ZU1qQW83QUV6UUlTd0JYM2UzLWpkbzZrbEh6czNmdw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-20 15:37:05",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Znów gorąco w Iranie. Władze brutalnie stłumiły wiece studentów - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUndvLWJwTWVBZF9fYlNXTHZZSjNmeV9UVWN6VE9mYzY1WGwtZkpNeHVrLWVPekpEVFFIUE45T0wzWXAwVVRVSUh4WV9mZWtudk9wd3F5NEJ1NkRlZHZzR2dBb3pVR29QSHFKSlgyekJRVllJWmdMckwxMGdmM1Z4bUJUbkY3ckJwTFY4UkRtTzlzTnEybzFwZVZHZ0wzaXFoTWVETHNjMXg?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-22 22:17:54",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 241333,
+      "DOGECOIN": 0.339786,
+      "ETHEREUM": 6951.08,
+      "LITECOIN": 190.21,
+      "RIPPLE": 4.96
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Tajna umowa zbrojeniowa Iranu z Rosją. Ustalenia dziennikarzy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEYwU1Z5MEh1bjVGclM0Rm1vTjdEZDdaWnM0dnVJMzlLWjZKNTlMbk1pVHc5UnJ0MWwwSEw4bmZhOWhXbl84WERWcm85NE4tNEo5OEs5M0ctOVAyZTJjeEhTRDVWX0NaR3ZLN1FOaUdvd1hqcW9oSlJuQkg3RTFIaDF1MUJtXzJRd0F5VGk0X2hZRk1KRWlobWNTSTBvODFzaEd1THlJTGtlWDBVQUc2NTYzMm1MQQ?oc=5"
+      },
+      {
+        "title": "Jest zawiadomienie do prokuratury. Chodzi o węgiel kupiony przez rząd Morawieckiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ1dSd2xUNXViSTZwWkNHc1d3S21UNjB6dDBqWmVGRmNkWm9aQ1o3eWZlcTdHMG5OSXY0TUd0WkZFWXlURzV5eGRYdXVCazNqZlF4U192Wk5EckJONXg0SjR5dEs4MDBYYjd3bk84RENadm44ZmZjdnpPc01IWlIxcnMtak5IUmZaeDAyRFk0T21Sa29FWnRHa0R4UENLNVB3LVVXWmNGVm9PeHZYSDJmVkllM0Y2bHZGVU53ZnlUblVaNk1nbkhqZ3ZsR3lOWFVYSTF5bG5aeEVGd09JVFE?oc=5"
+      },
+      {
+        "title": "Zmasowany atak Rosji. Połowa mapy na czerwono, uderzenie w Odessę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbENDUnI1clNLU2kzVFY0VWN5YjZvQlYydGdqOVFjb2dwX3ZqSGlSYXFFOGZsbU5UQ0x2Vzh0QS03YV92X3F3Z1o3WmJraDZMRVhrQ2VDM3M3d1JNaWVYaTlOT2d6c1EwdkxqZG9uLUFiRldWeVplOTBsMy1TV0VnLWUzQTI1UmRLdEZnSzN1bHpXdzhiOWYtVHpJY0V5R25jRHUtZzc4TkhLZw?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Kaczyński topi Morawieckiego. Żurek chce okiwać Nawrockiego. Hołownia traci pół partii - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjhaazdlcnMwUVhRVEpNUU9IbkVxQ0FWeDlFRjd6a25uaGFERktaNkFLbzRUcHBTSk1xcFlpd1IyVDRROWUtRUZ2WDk3ampTN3E2Y25ZcjFMa3NTTk9LcU00bVpZdTNlQUtkX0djLTl4ajZUSWwwejdPZ0t2WkZ2S0k3ZWRhWFNHcXJKTGtWODl6RlE2djJXdDhBeWM2YVdheDJHQWZRRC1MRHN1RDBPVHByMA?oc=5"
+      },
+      {
+        "title": "Potężna nawałnica sparaliżuje USA. W strefie zagrożenia aż 100 mln ludzi - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdjQ0Q2dvdEROTk9hSHhvNks4NjkwSFBUOG8xYWFZUzZIa1gwX01HMWpLbkgwb3VEcUg2UkFGT29KM3c3TE5HYTlnY29WMWt6TzVlbXJiclA3UE9Ec1JlejZwQjY3c2ZtY2wyWFNWZHVfV19tSU83eGc1bU40ZllkVkFvLWFjVmZYNlNOd3BWbm1yNm0zeDl2REE0TXZYbFNTN19SSWw2UURKS2NYbV9OS2dyUDhRZVRrV1BCc3I1eW5VMnozRlhJVFF0NFY?oc=5"
       }
     ]
   }
