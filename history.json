@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-20 15:37:05",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -1°C"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 241165,
-      "DOGECOIN": 0.351536,
-      "ETHEREUM": 6997.32,
-      "LITECOIN": 193.2,
-      "RIPPLE": 5.03
-    },
-    "indices": {
-      "^WIG20": 3363.22,
-      "^WIG30": 4307.45,
-      "^WIG": 3363.22
-    },
-    "news": [
-      {
-        "title": "Marka Nowrocky. Policja potwierdza: jest zawiadomienie - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaV90cFVRYVRxbWhEcGtDemQ1ZXd3bHZtTDBJYkFha3BBTTVLelcxX3p0U3JmamstdnJKNlJsUTdDYjZyYUE3azVDMjdvZVl2bXNMRkQ0MmxQcjd1T3pZbjNsV0dUSXRBQkNnNnFPWFFnSmpjbGRNeUJLaUVVNVFTSGFQUEJYR2dYNFBKVU9hSDY4MktLVUk3TE1OQ3RaLUthZ2c?oc=5"
-      },
-      {
-        "title": "\"Będą się smażyć w piekle\". Kierwiński nie hamował się na konferencji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0l5LTRfcXhHbWYtNUZxUXJ2ZkhMTnNGWkg4cGhXbEVvOXc1bDVmVGQ1dmxwQUxpUUJtc3VQN3Uya0JLbzZNbERjcXR1QjZQbEFiWDRfeGxsOURPbU5aQjh1SkluaERSNDBKNlhEXzgtUlFvUm9PNVlvMjdKR3ZWMktaT1BSNGFXcGRndDRjM0ZQMnFjZjE0aTJEbmNLa3ZqeDNabEZ1a2FaOVhLMnc?oc=5"
-      },
-      {
-        "title": "Trump na krawędzi wojny z Iranem. Atak uruchomi domino konsekwencji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGJPTmZJZHZIQ29JRTFEeE1MdEZtdW1RNHA2WDNHdklJT093NGhrQmEtbk1KZ1AxclZWekRNQ3ZDLVZUY1pRcjhpQXZla3BYWGVZWFRqWGNjOFg3TVd2S1dKclBtRmw2R1E2RWlYZkJ0NGc2NWd4OGlzV09pT1RkZWM3UkpxN1dXN0REWjdSdEx3NGVIUUhoTTJLbmpuelNwQTUwUmpWMXM5QzZEUWVibHFFTmlxVHFUOUJMWjB3?oc=5"
-      },
-      {
-        "title": "Zabolało. Europa zagrała na nosie Trumpowi. Ten zapowiada odwet - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjU3SVBGOVBLM1o2MWpTbkh4WWVoTE1yZ1JFd1pCMTRtUHp5c3ZpV19KRjRCdVdYbDE1WjVOWnM2bFZjM2NGU3p3NERTcjQ1aE9ycVB4ekdEanJpUUhpOE5KRXN6R0pCbjlKX1VodUZDemdPc2FicXhyVEpkODBzNmgzSHAwbElqOW1SbjU3Z2RhNHZnd0dJOUN1Q3NwUktQWXdRNVNRWE0?oc=5"
-      },
-      {
-        "title": "Grasuje pod Warszawą. To dzikie zwierzę z Afryki - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHhFc2ZqX2Y0WE1Bcmo5VVBSb09zNnNQM2hvUXZxZjFKZnZ6UzNXeV9mM3BIdXhHSHBYYXlpRUppcjBCMGtuY1hmR1owVXYzWXZQX3BKZVpKcFlrRzhTYV9qZEhRVmo5NE9zM1kzZ0d5SmhSWjBVdkRybzE1ZExJc3ZkYTRveERtdG1Vbg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-20 16:32:21",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Potężna nawałnica sparaliżuje USA. W strefie zagrożenia aż 100 mln ludzi - Onet",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdjQ0Q2dvdEROTk9hSHhvNks4NjkwSFBUOG8xYWFZUzZIa1gwX01HMWpLbkgwb3VEcUg2UkFGT29KM3c3TE5HYTlnY29WMWt6TzVlbXJiclA3UE9Ec1JlejZwQjY3c2ZtY2wyWFNWZHVfV19tSU83eGc1bU40ZllkVkFvLWFjVmZYNlNOd3BWbm1yNm0zeDl2REE0TXZYbFNTN19SSWw2UURKS2NYbV9OS2dyUDhRZVRrV1BCc3I1eW5VMnozRlhJVFF0NFY?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-22 23:17:27",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 241604,
+      "DOGECOIN": 0.341297,
+      "ETHEREUM": 6969.89,
+      "LITECOIN": 191.02,
+      "RIPPLE": 4.98
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "\"To jest duża pułapka\". Ekspert ostrzega Nawrockiego. Chodzi o program SAFE - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1piOVh5Y2pDTm50VGVNUFlrb0daZUpyMHdPRFczTnkwclJhVEMzVUJYTzgxMXd1dnJWb05RZkozWHAwVmVaeXkxcUZqckR1RkV5b2pYU2FRLVFaQkt4bFpBT3MyUmJ0Rk5uTC1hR253TFFHNU0wdE9velc2ck5PbzcxMVpfWlM3M1padFZDYWR2SjNqYnRjWkhXbFF1LXN0YXljT3g4ckFEbGx6NjNCZzRLZktXUWh1RFJB?oc=5"
+      },
+      {
+        "title": "Tajna umowa zbrojeniowa Iranu z Rosją. Ustalenia dziennikarzy - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEYwU1Z5MEh1bjVGclM0Rm1vTjdEZDdaWnM0dnVJMzlLWjZKNTlMbk1pVHc5UnJ0MWwwSEw4bmZhOWhXbl84WERWcm85NE4tNEo5OEs5M0ctOVAyZTJjeEhTRDVWX0NaR3ZLN1FOaUdvd1hqcW9oSlJuQkg3RTFIaDF1MUJtXzJRd0F5VGk0X2hZRk1KRWlobWNTSTBvODFzaEd1THlJTGtlWDBVQUc2NTYzMm1MQQ?oc=5"
+      },
+      {
+        "title": "Zmasowany atak Rosji. Połowa mapy na czerwono, uderzenie w Odessę - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbENDUnI1clNLU2kzVFY0VWN5YjZvQlYydGdqOVFjb2dwX3ZqSGlSYXFFOGZsbU5UQ0x2Vzh0QS03YV92X3F3Z1o3WmJraDZMRVhrQ2VDM3M3d1JNaWVYaTlOT2d6c1EwdkxqZG9uLUFiRldWeVplOTBsMy1TV0VnLWUzQTI1UmRLdEZnSzN1bHpXdzhiOWYtVHpJY0V5R25jRHUtZzc4TkhLZw?oc=5"
+      },
+      {
+        "title": "\"Stan Wyjątkowy\". Kaczyński topi Morawieckiego. Żurek chce okiwać Nawrockiego. Hołownia traci pół partii - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjhaazdlcnMwUVhRVEpNUU9IbkVxQ0FWeDlFRjd6a25uaGFERktaNkFLbzRUcHBTSk1xcFlpd1IyVDRROWUtRUZ2WDk3ampTN3E2Y25ZcjFMa3NTTk9LcU00bVpZdTNlQUtkX0djLTl4ajZUSWwwejdPZ0t2WkZ2S0k3ZWRhWFNHcXJKTGtWODl6RlE2djJXdDhBeWM2YVdheDJHQWZRRC1MRHN1RDBPVHByMA?oc=5"
+      },
+      {
+        "title": "Wykolejenie lokomotywy koło Opola. Poważne utrudnienia dla podróżnych - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWE0cVFicUtzb3JZcDJocXkzTDA3SEZGYkdubHhtMW13OGpybHo4NmF1V19pNlotbHdfal9HVUQzRHBrcmkzRkZTemJRNmxhSVFSSnM4UzhBNUZBaDI3bVFwc09pXzlzZ0ViRFpNcElQR2h0NVBJMmhYdTZGR3J3ZkMySHN2ZFdWNVItMWg5OVk3RFJ6ekZMU0x0cmFtRmwzVXdtaVAtR3luQzF5NXc?oc=5"
       }
     ]
   }
