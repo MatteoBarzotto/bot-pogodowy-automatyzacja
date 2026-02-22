@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-19 19:42:23",
-    "weather": {
-      "Warsaw": "Warsaw: -5°C",
-      "Kraków": "Krakow: -1°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.578,
-      "EUR": 4.222,
-      "GBP": 4.8318,
-      "CHF": 4.6266,
-      "JPY": 0.023111,
-      "AUD": 2.526,
-      "CAD": 2.617,
-      "CNY": 0.5152
-    },
-    "crypto": {
-      "BITCOIN": 239823,
-      "DOGECOIN": 0.350648,
-      "ETHEREUM": 6944.51,
-      "LITECOIN": 188.73,
-      "RIPPLE": 5.05
-    },
-    "indices": {
-      "^WIG20": 3385.33,
-      "^WIG30": 4336.71,
-      "^WIG": 3385.33
-    },
-    "news": [
-      {
-        "title": "\"Wstydź się, Viktorze\". Burza na Węgrzech po szokującym spocie Fideszu - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2p4UUN1NEMwSHNpNmJHWUE0QUxzei1vQkFrbDVvcHJDX19HQzBZZHlGVkY4bEc5WVBSV1ppelAyakNTRVFuMmRwYzFlNWpXQkRZWHFHUEFSM2tHN0ZGamRjUFF2Vnk2dF9tWWdvQ2VPbGswc2JSSTdQVGphSVFNNlR0dFJHOUczblZKeDRqeDBNOTYtUDhCbEtnRXhMZ0FtUW84c3c5OFdmdWhqVHc?oc=5"
-      },
-      {
-        "title": "Anne Applebaum: Wysłannicy Trumpa myślą, że w Monachium odnieśli sukces - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTFxaUszaDVvNkIyVlZRaV9yT2FrVHRBNUlkRWR6MXVPeVBBd2pIOFE2UnZmYm5IWG4tT0hkbXJoczk0dWQzMDQyZ25iMEN6aWtiZV96TUh2eThYRHdIbVZvdjZyb1UyUUNHS1pfQ0JNVWV4d0RjbF81MlJwSVhadlpwUjVQYV9JQldZa2tpRklDVXQ4QkZXRW95a2pYbFBCckNRcUg5VlAxRUJlZkIw?oc=5"
-      },
-      {
-        "title": "Ukraina przyjęła taktykę Rosji. Przechytrzyli wroga na froncie i użyli \"silnej karty Putina\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUw2dXdOcUtTUHVySTJTUlRwX0VPem10eUJZU0RvRVVhS3ZfOC1hTEIwcUtac0R1ZDJRMVJGbU9UamJtZVRnVGEzWFpmWFNIMlU3TUZXMVNEWmlfM3VJZ3V1WkFzaVUwMndYY0trSlBXZ2I5X3RTM3MtTkJ1NlBwNjFWX0RKZ1NjUENUQmxQa2ZhYU1YWm5KcXVJdDBLUXk0UnV0NEFvaU5uOG01RW11V0NvZV8?oc=5"
-      },
-      {
-        "title": "Węgry odcięte od ropy z Rosji. Grożą wstrzymaniem eksportu energii na Ukrainę - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNMYndkeXN5dlpUQnZhQjZSUmpTVU5xTVBWNWtVak5qOTJoV2lrdEtJYWdFNnYyamFyT0QwQVBNU3JoNkRnLWNIWU0tZE0zVDZoSVV1dVRlZWl1aUphSzJ3WDk5MlhwUzdzdG1PR3ZFYUlPd2t6ei1UZXlrOHBBQnh1NmlQMklXYUV4TzhEanJ6ckhKd0R1QnZjUk9YSkhtbC1wdHpNd3Q0VFVlUWJaeg?oc=5"
-      },
-      {
-        "title": "Ciało noworodka w rowie. Po latach dojdą do prawdy? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWdvek95cEZ2R3VyY2hUdXZ4bU43T2pkYWNMTm5WR0gtM2ZrRWtva3p0d1FQdmFUUlIxVXhBblA1MzlzY0ZuSzBNSVBNMFVIcDMwY2U5aGxZRlVxYTA2Q29QYlhrOW5NZWVQVUI0cjh3aXJlazJLdXFzbjBpM1UtMjdZbi1DTXVjLWJoVVo0UWJVWXl5eUdz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-19 20:35:06",
     "weather": {
       "Warsaw": "Warsaw: -4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Marcin Kierwiński zwraca się z apelem do Karola Nawrockiego. \"My nie mamy czasu\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHNxT2NWS01iWUs0LXhJSFVXYUw0SXdNMzJaNjVZaVlkaWEyS2kxOU5yNkFfcjNVV2xrRkxWTUhONG9OUzFWVFpteHd5ZFRJRXJWMDkwcTFvbEJaNWhJUzVKZ0xpYmRiV0JmQmxlRDBwX0FNaHVRYmlaTUxObk1QenhRcmgta016UlZRdHFyaUNwQWp2Ymk3Ml9ZSWdvbzVyQTdrRmlqWDAyQXZzb3ZzWXcwbnJ1ZXB4U1N2V3JEM0ozemhhWFdUOG5Law?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-22 06:46:04",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 242573,
+      "DOGECOIN": 0.346795,
+      "ETHEREUM": 7045.26,
+      "LITECOIN": 194.28,
+      "RIPPLE": 5.07
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Działo się w nocy. Polska podrywa myśliwce, Trump wysyła okręt-szpital - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUdDYWx6TGdHbFdzbTdvQ2JLTEFLVTlwUXA5ZjVRcEs4cUctZzV5ZUw4aVFab0J2aDM1X3Bjd1BvUDRkMzlVSmkwM1ZhcnlwRFg5NEJIMWlROUZNVnV1S2Y1c0psc2ZjdnI1QktHSmljWUIxWkcxeFZ5WGRiRHBpN2gtZnJPTkctTzNFMnV1NHExeGx0bE14UnY1bjg3ZFhDX0ROUVFBbFNzdHUxcy1JMA?oc=5"
+      },
+      {
+        "title": "Zamach terrorystyczny we Lwowie. Nie żyje policjantka. Są też ranni - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXVOemI3a1BYYllUNk1rRFBDNmZFMHNpWmNFRFRaWUpJSnRjV2JrNjR6LWJHN1ByWlNDVXVac2F4XzJyMmVlbkdBN1JOSk1XMXliMXZmdU9feEZnbXk4S1duYWxTdm5veC1ucm9IV05BN3VQQjlVcWJlQm9FY1YyZWZMY2g3MmZpSjRrR3ZFRkpPTlBzTEtBWmRNWFk2WlFLc3FsVXRmc1czQ3VSX2xrXzIwckhxRnBNNUVFc2dIWjBxWUl5YW1R?oc=5"
+      },
+      {
+        "title": "\"Gwiezdne wojny\" w Konfederacji. Jedna partia wchłania drugą - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFU0Y3o3VUF5QlIyMkVmY1B5c29Jem5Sc3haWkQ5a1g2Z0VkT0ljdzF6Q0FaVUZpS1U0QUREczdKcUIyM280QV8wOUh4bGNZajdKMnpuak83cVdUZjEweDcyUXptYTR1U00yVFRRRHFGdGw5cmc0Y1Y1VVBtRm1wUllDeXd6X1lCTHBLRnpJcHRSNGhaeVV2cmdTenNINUNUaHc?oc=5"
+      },
+      {
+        "title": "Kolejne trzęsienie ziemi w Polsce 2050. Lawina odejść - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTQ2VWh0ZnVMbHUwemQ5cTlpdEFnaENITzkxR0J3RVVyNzVZaWdYT094ZGtwQnNPREFjQVVNTWRCeml4TFBSSGJYaE9HdEVNTnJVbVlxOTlhSXNkbHdIeVNrOXc4SllUQnpxYThNQm1kY1pycHJzVEJJUFhqMi16cVFfQ3o1VlBZazRqSk42b3RxcUHSAZIBQVVfeXFMT2wtWnJRTWFZUGV0aGpsUHlXclk5TjdJT2ljNDB0dkNBN0xfNWlPbEsweWhraWt4azlSUkJxSEtoazg0UnVKMExSZ2llV09HSjhESFB2dUFralh0Tlc0QW1zU2czcjNGc245b1hCZnFpemk5NUVubjRoeE1KWlNybjlWWmlaTllDUkdSN0R3aHlzQkE?oc=5"
+      },
+      {
+        "title": "Burza w sieci po koncercie Polsatu w Gdyni. Poszło o strój Margaret. \"Zapomniała założyć dołu\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmR4Z2tRUVFiOWM1OHdWY0tKaTN0Tm5EdWZIeHVoLUtxakVoU0RqUWNpMElxcFU4a2oyTTBDcUVudFR0X3BCOEd0TEc5WU1sYmhzaGdqUzNlZ3FRUWlibXF4bzBhQ2U1SjhqNU9BejItMGRWRDg4VHJYbExkOXpBZjY2UlhXSkQ2VE1wNVAwQWZsVVJ5UHZyUXpIdGh3WkFqZ0xXSV9KUEJGWV9IZ1MyOTRxQlo0SXdLQV9GcTdJM3NlaldBaHp4NmtXOV92aVQtSHNWd2FpeWg?oc=5"
       }
     ]
   }
