@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-20 17:29:56",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 241791,
-      "DOGECOIN": 0.363535,
-      "ETHEREUM": 7027.93,
-      "LITECOIN": 197.57,
-      "RIPPLE": 5.13
-    },
-    "indices": {
-      "^WIG20": 3383.82,
-      "^WIG30": 4333.31,
-      "^WIG": 3383.82
-    },
-    "news": [
-      {
-        "title": "Trump na krawędzi wojny z Iranem. Atak uruchomi domino konsekwencji - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGJPTmZJZHZIQ29JRTFEeE1MdEZtdW1RNHA2WDNHdklJT093NGhrQmEtbk1KZ1AxclZWekRNQ3ZDLVZUY1pRcjhpQXZla3BYWGVZWFRqWGNjOFg3TVd2S1dKclBtRmw2R1E2RWlYZkJ0NGc2NWd4OGlzV09pT1RkZWM3UkpxN1dXN0REWjdSdEx3NGVIUUhoTTJLbmpuelNwQTUwUmpWMXM5QzZEUWVibHFFTmlxVHFUOUJMWjB3?oc=5"
-      },
-      {
-        "title": "\"Broń atomowa\" wisząca nad SAFE? Szef BBN wskazuje unijne rozporządzenie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnUwNktMVWpZUHpyZTN5QjZZRUwwUlVaZ0FEV1hKc2JncDJwT3pCWjZlcXFqTHhtSjRVYk1CUVBfSHFqMW1jSDF4alNfWDV4ZVN4YzJvNGI1LTJQMTBEUGEySklGUVdWVVFoNDhiZW1lTjBIczVTRTBfOU9fV2sxUzIxcHdFR2VsdC1seGVIRTc2NFlnX1kyaWJBTHdQeEEyN2oyem9iS19JeU9QeHljNXJZT19MTnc?oc=5"
-      },
-      {
-        "title": "Rechot Rady Pokoju [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TLUpJeUg2TXZETWt3bHQxRXBZSTljYm0xQjZpcXZwT0ZrZk1nVFNOQ3puZ3BpTXgwbEJ0Yjh3M1Jia1BLT0VJV28weDlPXzhzc3QzQWNPODNvMzFCc3NQSHNLZzFnV01UZ2ZNa1BlQ3R5Qm14TUFJ?oc=5"
-      },
-      {
-        "title": "\"Będą się smażyć w piekle\". Kierwiński nie hamował się na konferencji - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0l5LTRfcXhHbWYtNUZxUXJ2ZkhMTnNGWkg4cGhXbEVvOXc1bDVmVGQ1dmxwQUxpUUJtc3VQN3Uya0JLbzZNbERjcXR1QjZQbEFiWDRfeGxsOURPbU5aQjh1SkluaERSNDBKNlhEXzgtUlFvUm9PNVlvMjdKR3ZWMktaT1BSNGFXcGRndDRjM0ZQMnFjZjE0aTJEbmNLa3ZqeDNabEZ1a2FaOVhLMnc?oc=5"
-      },
-      {
-        "title": "Jednoznaczne słowa dowódcy z Ukrainy. \"Niczego nie oddamy\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVJUaFN6cUtwWjVRMnNTVFZnQml1Q1dyZ1ZzZi15a09rWXYtZXM3VC1CS1pyaXFtREkzVUdsUFFQdXRSY0tUNnlCaGxkUGZ3UzlDckUyWm5aa2Vod1NVN3hmOGprX2lBM0p5R0MzQXBPX3llbXlLOUhpNW1Vc0xHWnh0Z2s5M05HRTlHWGx4R0FsckZSeHhhRFZVWHV1RXM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-20 18:32:14",
     "weather": {
       "Warsaw": "Warsaw: -3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Wszyscy widzieli, co zrobił na Radzie Pokoju. Jest decyzja ws. Infantino - SportoweFakty",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVksyNzMtV2xuVURPSHRiOTFValJxRFdNUEhKQlZWY0hwV2RPU0E3NW9kN1NPNzRSa3BHNF9kTEM4OGlwdGFObWtadEh1SUxEN1N4aS1mN01TQ05yVXlBVXgwNXIwWlJocUR2eWxtb0E5NXM5enRxQ19ycnd5UTFlVzNUNmZBbjBRaUdIdXJoSmpBUUtWOExHdjcxOVgyVzhWUjd5NV95eHlIRHdjamVrUGhxRVN3MnA1?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-23 02:42:30",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +1°C"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 233003,
+      "DOGECOIN": 0.330557,
+      "ETHEREUM": 6693.92,
+      "LITECOIN": 184.42,
+      "RIPPLE": 4.8
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "\"To jest duża pułapka\". Ekspert ostrzega Nawrockiego. Chodzi o program SAFE - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1piOVh5Y2pDTm50VGVNUFlrb0daZUpyMHdPRFczTnkwclJhVEMzVUJYTzgxMXd1dnJWb05RZkozWHAwVmVaeXkxcUZqckR1RkV5b2pYU2FRLVFaQkt4bFpBT3MyUmJ0Rk5uTC1hR253TFFHNU0wdE9velc2ck5PbzcxMVpfWlM3M1padFZDYWR2SjNqYnRjWkhXbFF1LXN0YXljT3g4ckFEbGx6NjNCZzRLZktXUWh1RFJB?oc=5"
+      },
+      {
+        "title": "Wszyscy widzieli, co zrobił na Radzie Pokoju. Jest decyzja ws. Infantino - SportoweFakty",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVksyNzMtV2xuVURPSHRiOTFValJxRFdNUEhKQlZWY0hwV2RPU0E3NW9kN1NPNzRSa3BHNF9kTEM4OGlwdGFObWtadEh1SUxEN1N4aS1mN01TQ05yVXlBVXgwNXIwWlJocUR2eWxtb0E5NXM5enRxQ19ycnd5UTFlVzNUNmZBbjBRaUdIdXJoSmpBUUtWOExHdjcxOVgyVzhWUjd5NV95eHlIRHdjamVrUGhxRVN3MnA1?oc=5"
+      },
+      {
+        "title": "Wstrząsający komunikat Policji. Nie żyje już 50 osób - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ196dExSbmQ0WjVvSDVucWFKb0tGeDlPYXVROUVlaGw5R0tPU3hULXpEelI5cWJDdURwRzdibzdGc3F6YTB2ekkxQjNYclpac3dCXy15aVJXN0kxNTVtN3pYM3ZSSW9pc1pLbFNIbFExaEZnZkdESlFGc1NfRmpYMFBhTThqYS1OT051dlJQT2F6WG9yYVJPQ1dn?oc=5"
+      },
+      {
+        "title": "Kaucja na tzw. małpki? Prezes operatora kaucyjnego jest na \"tak\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW1zWXFidldQM3p1NkZvaTNRUmxPUjhnLVlScExub0NzRlRWamJPUGFaaklCN0R1X3dyVWF1Q1ZQN2ZoVlZqcloxVzVfTW9tU1BpV2NwbjYwZWhkTTZFaXo1REhIc2pHeF9SOF9xQXplSzZLVU9uS3E3RFp1Qno1WGlqb3lnNk1IQnJiTlBVckg4bG9Mc09DVi1Xekh5RmNGYjJzSWQ4Zk5aRHZMb0FVZjZoak5jQQ?oc=5"
+      },
+      {
+        "title": "Ruszył plebiscyt na Super Dzielnicowego. Oto dzielnicowi z powiatu lubaczowskiego - ZLUBACZOWA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHV5RjQtWkE5cUxaYk13WndBcFQxU2lVYWdlYjNxMm5GMmhrenkzdFRGMWF0bkRMaHB4QV9xNGlVcTBubzBla3RpM0FqSTZ5QmdXS0F5ZkJLQzc0THRLZnBKemludXdMY09Pb0VXY2ZTc2FtVFI4WWQwczdZVUxVWVBuOTRCRVFTckVfbS1UNFB5VGtKTUlMQVpSdWRrcW1rVHlTcFUyc0hVbE5zdDJTRnJjZ0MzbVh0M1RDaG1nNWFIdw?oc=5"
       }
     ]
   }
