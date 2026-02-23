@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-20 20:32:25",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 242444,
-      "DOGECOIN": 0.360349,
-      "ETHEREUM": 7045.58,
-      "LITECOIN": 196.68,
-      "RIPPLE": 5.11
-    },
-    "indices": {
-      "^WIG20": 3383.82,
-      "^WIG30": 4333.31,
-      "^WIG": 3383.82
-    },
-    "news": [
-      {
-        "title": "Rosja i Ukraina skupiły się na \"wspólnym\" celu. Trump ma jednak inne problemy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3RhVlVnbjNKRGFlY0o3SGNUV1EyQnFiMjE4aUNWV1BpRWpKbXZiVGJwRTBYZzR1RmhTSnoxZzBRMDB5blhIN0RTa0FmQkRreThxZ1Zxb2tZQmVnS203U1I4b2JVWTVlbVlVeERCUURrc3YyZVRrbHNlRXZ6RE95VElld1VZblJnS3JPRmJsV1ZWMUtOcXZQamVhbHVBaGFDZE82LVpCdDBsV2VZLVBjbzJoa0wyWEx3cF9VSDFyWQ?oc=5"
-      },
-      {
-        "title": "Polska podjęła decyzję. Zacharowa: Grozi eskalacją napięć w Europie - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ29seU5lLXBOWU43UG1kVFNlNVhDRmsxWTFuQk1YN0VLaE9ic290b1p5R2dHbTFhMTlaekJoWFB3TGtBaW0tTEEwbk5KcUk2d2tUb1REWWdjTWpwYU0ycUJzZjVGcXJaYWUxeVlGRzA3VDNxUlVtUzBTRUI5MFpFVUlua0piLXNqRndIWmVURHdENDRpNTVxSXdMQnQwMnc?oc=5"
-      },
-      {
-        "title": "Jednoznaczne słowa dowódcy z Ukrainy. \"Niczego nie oddamy\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVJUaFN6cUtwWjVRMnNTVFZnQml1Q1dyZ1ZzZi15a09rWXYtZXM3VC1CS1pyaXFtREkzVUdsUFFQdXRSY0tUNnlCaGxkUGZ3UzlDckUyWm5aa2Vod1NVN3hmOGprX2lBM0p5R0MzQXBPX3llbXlLOUhpNW1Vc0xHWnh0Z2s5M05HRTlHWGx4R0FsckZSeHhhRFZVWHV1RXM?oc=5"
-      },
-      {
-        "title": "Makabryczna zbrodnia w Raciążu. Nowe fakty w sprawie zabójcy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzRHcm5VWlRDeTdSM2VNLTBwRkdkc0VnN2dUd0tuclltdUZUc2lzTnVacEc1aEx0Ql83SGZVbHNWbWJhUTVWa0JkS0xJd0pJV0JMcHd6eVJ5R24yZWFaTnZkVHItNXRlbGlxZEQ4ZGs2Q2htdjFtYmxQYmpsTmMtRHU0YmtVY1FXZDlqZFFFMDBnQUUybWUyNjJWYmZvUjZiWnRxRjFzQ01vWmtiRTdlY2FlNGNyNEdPZ0c4Qg?oc=5"
-      },
-      {
-        "title": "\"To potęguje nasze cierpienie\". Rodzina ofiar wypadku na A1 zabiera głos - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjVSbjR5Y1NsN0hwT0xPazlrTTFxbVh2R1hLSGJndnJDRVNoUW1ZLUNldlQwSXRqaXJUcE80YmpDTEllbnBQZ3hTVDJnNkZsWWtZTkhMZG9TNWwyZ3pIWGd4Qno4NnRzaHNVZU4wRmdJR2toempBMFRKcVdDZ2Z2TklZUDhYa21paTlvQkhhVXFWRnQwRG5wSUhobWlSazBsTTl4eWxBTHlVcXlHTkE4cnZ3djBLaXBF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-20 21:23:32",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Jest data ataku USA na Iran? Były agent CIA: Podjęto decyzję - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTZFSHFSQ3ZkeUNMVVU0SkdjM0FqNFVBZnluSk03cnNZcG4xMm1MUlo4RlFDZEIyVm1xMDhCUHRqQ0NnZk5fQUdiQTRaaWFDVDVUUFZQNFJwUjdOV1drNGkyTV9RTmNLRDA1ZThwX3NWeGM1M0x0U3RoZjdKTS1oazl4V2ozdExMVGJrbGZwUlpBcGpTbHRENXlKMFNsVm96U3dZ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-23 08:49:41",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 235386,
+      "DOGECOIN": 0.339291,
+      "ETHEREUM": 6733.26,
+      "LITECOIN": 186.19,
+      "RIPPLE": 4.91
+    },
+    "indices": {
+      "^WIG20": 3383.82,
+      "^WIG30": 4333.31,
+      "^WIG": 3383.82
+    },
+    "news": [
+      {
+        "title": "Zolo Mikes: Pijany żołnierz Putina zniszczył rurociąg. Ale to Robert Fico zrobił wielką głupotę [KOMENTARZ] - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXRSa3BCWHB5TzBXRE5YejkyU3k5dWsza1N4TVFvX3hLMkdHMXA4MV90TUZHRWt5QXVrandNTzVGUUpmU0tCbjN6NEZxcEYtWjVkamJSQzFkMUNzZDR1OFc2NHlYNzJSY0JOV282R2RsYmJpdjdjTnJPRTNhTXVPWVRZYjVyaHd0c0xNUW1TazdHQlI5WHZ3aVR0U2pObjBLekxnU1RxRUVhRnlfZFJJRXVKbTdnVlNOZlRiUzBuWQ?oc=5"
+      },
+      {
+        "title": "Atak na rurociąg \"Przyjaźń\". Doszło do pożaru na kluczowym odcinku - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXNILTZuUldJMHBkenZvWWItU292TFlPR09GZm1oMnJQTXppV2NwQXpKd2VRZGVjNl9LMDY0eXZmbGFFU2NjZnZ0clB6TUNQZHJLMHprN0lFN2VxcjVROHVXUnFoS2pFSUhSaUZuXzFuOEtwY09TRWFSRGpqM2pIcUZFSm5SNzhSWkk5ZEpNR3BwT0pxR2pQUmVhVmZsX0E5b0NyOVFyOA?oc=5"
+      },
+      {
+        "title": "\"To już nie jest wojna ludzi\". W czwartym roku front zszedł pod ziemię - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0xscEhwbTdKYWhIb1QyU1ZfNnFKaE1pWlBxd1g3b0VrNFZzR1ZfNVFmbGs1NTJLc2VlUHBIVGpCRDRYSk13VzVqSWNJVG9BZC16YXVIQmtXcVYybU1malF2dG9XUklWR1ROemk0SXhSblBPRkh6NFEwZU03MV9zNElYVG9DMjZwWjBjQmZ2NUlBT1VGYUx4Zm5zNTVCQ19wd1lsc1FadEdVOWlVemww?oc=5"
+      },
+      {
+        "title": "Cztery lata wojny. Ukraiński analityk: wojna wymusiła dorosłość i decentralizację państwa - o2",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUc4TEVMYVFscXdzTm9IS0tENjIwNm4welhfdFBRWEtwQVc5LVBRbHROWXJXZVpUb191WFJDVTJ6QkZ5Z3MzVGZaMWQ5Y09jZnZ2SF9lcmF3dlNLdFBXOFFzOWVNYVR6MTNLZVRxT0dwMFByOWV2MUVyMXhLSzk5bkJLVkNvRFpkcndCNG1JT0tpTGlnTHNfQ3F6NWZ0VGN1ZjMwSHFjSHpCRnJLX0JHSzdNLWlMZHJiNXQwakhNVi1UQnUxdy1CVTRXZTJibHc?oc=5"
+      },
+      {
+        "title": "Jest zawiadomienie do prokuratury. Chodzi o węgiel kupiony przez rząd Morawieckiego - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWtnSjRRY0NqM29uTWVwcURDS2RjdmQ1cGFKV0FhbTNRbE1ZY3lCWWtUSUNFUXVRNU1yeEEySjFWSGZTaWZTam1RVE1Qbk5KMTRwdi1IbzJEQTV2TnE4X1FjUkZFaXVJVzBEUjlubXdvRU1zV0VwazJ3X0ZxR25uTVl0WVMyMFhwRzFQZTYwaEEzeDVEeDJoT1B2UFFDTzZuSUVHWm9PcUd1MURMR2ZILVRMMEdnZzFLN0J5a2hpOA?oc=5"
       }
     ]
   }
