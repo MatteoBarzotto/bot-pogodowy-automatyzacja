@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-20 21:23:32",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: -4°C",
-      "Gdańsk": "Gdansk: -5°C"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 242333,
-      "DOGECOIN": 0.361337,
-      "ETHEREUM": 7039.02,
-      "LITECOIN": 197.39,
-      "RIPPLE": 5.1
-    },
-    "indices": {
-      "^WIG20": 3383.82,
-      "^WIG30": 4333.31,
-      "^WIG": 3383.82
-    },
-    "news": [
-      {
-        "title": "Spięcie Radosława Sikorskiego z dziennikarką. \"Jestem przekonany, że to skrytykujecie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWjRTRkgwd0Z3Wm9iOE1wZ0F2UzJtNVdPXzhOTnlraV8ydEZwM3R2TXhRLXB6WS1wMU1hRGoxUmRPZy04TUNfRHpzQ1VQZHd3R0RrUEZ1eklKWDM5LWU3U0V5UjVyWFdaWEJtc2x4bEtreThUOUZiSU85TEdxUE9nZGhXUDJ0Y3czQzdsWU5Db2pDTXczRl9tdVdTbXBVbGxiQlFEdVN2MDJXOGZtTkRNS0ZVb0FEZmc2OEViVHZpNmtLdkhLMGstbkY4dmhYRDR6ZVRFR0pIOA?oc=5"
-      },
-      {
-        "title": "Tragedia na A1. Matka jednej z ofiar po raz pierwszy wygłosiła oświadczenie - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkcza0xCVXB3UTRIeDVDXzQ1SDIxYjRmOGNqcGpjS2loLV9kQTFMdGtMbDl0Mi1wTEFzcHo0OFBWU044WHpIOWpkLWtyNTVCUG83UjBlSWpPcldJcjUzMFhoVExNTWpxaG9WT0l6WHRlQXFkRWN0bEZiV2x3ZTA5Z2tNdXdnbnhJQTQySy1YZEhyOVZDWENaUDJCTEhtbC1aaExuZDRLdlMzLS1GN1paSEZ5c3Q?oc=5"
-      },
-      {
-        "title": "Rada Pokoju. \"To było one-man show\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdlBuMjlKSnV3TW41RmpFd045UWxHLTJXRWh6S3pUV1JvZG1pUkJKR3phZlFmUElVNlBQMHNuX19EelNJQzZqXzBRSmVOSlJCak9VWjZqdGp4TldmVHd2ajJGQVdmMHY5ZFNGT0l3T2lqSG55Vkw2N2NpYkNoYV9GOA?oc=5"
-      },
-      {
-        "title": "Rosja i Ukraina skupiły się na \"wspólnym\" celu. Trump ma jednak inne problemy - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3RhVlVnbjNKRGFlY0o3SGNUV1EyQnFiMjE4aUNWV1BpRWpKbXZiVGJwRTBYZzR1RmhTSnoxZzBRMDB5blhIN0RTa0FmQkRreThxZ1Zxb2tZQmVnS203U1I4b2JVWTVlbVlVeERCUURrc3YyZVRrbHNlRXZ6RE95VElld1VZblJnS3JPRmJsV1ZWMUtOcXZQamVhbHVBaGFDZE82LVpCdDBsV2VZLVBjbzJoa0wyWEx3cF9VSDFyWQ?oc=5"
-      },
-      {
-        "title": "Wysadzenie Nord Stream. Orban rzuca oskarżenia - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQk1fdV93UTlWYUtxbVk5M0gzeHJDNmo5Yy1WSHZnS1habjVYOWNKVXVnWDNCQzdUSy1NUjljM25QdXlIbE9oVlhiU2RaTlNlT1FwUTdET0Y3SEJfbEk4QjJfNFhYemlkRUVQY2g3MlY5ZGpQSHlXclVfNUVVLUlrZWZ4bWp0ckRLck9LdUVpaDVVOXI4eUpwWk1zRmt1MWxUVWc?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-20 22:18:03",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Jest zawiadomienie do prokuratury. Chodzi o węgiel kupiony przez rząd Morawieckiego - Onet Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWtnSjRRY0NqM29uTWVwcURDS2RjdmQ1cGFKV0FhbTNRbE1ZY3lCWWtUSUNFUXVRNU1yeEEySjFWSGZTaWZTam1RVE1Qbk5KMTRwdi1IbzJEQTV2TnE4X1FjUkZFaXVJVzBEUjlubXdvRU1zV0VwazJ3X0ZxR25uTVl0WVMyMFhwRzFQZTYwaEEzeDVEeDJoT1B2UFFDTzZuSUVHWm9PcUd1MURMR2ZILVRMMEdnZzFLN0J5a2hpOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-23 09:41:01",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5898,
+      "EUR": 4.2241,
+      "GBP": 4.8347,
+      "CHF": 4.6297,
+      "JPY": 0.0231,
+      "AUD": 2.534,
+      "CAD": 2.6224,
+      "CNY": 0.5154
+    },
+    "crypto": {
+      "BITCOIN": 234245,
+      "DOGECOIN": 0.338007,
+      "ETHEREUM": 6707.05,
+      "LITECOIN": 185.51,
+      "RIPPLE": 4.88
+    },
+    "indices": {
+      "^WIG20": 3394.24,
+      "^WIG30": 4343.77,
+      "^WIG": 3394.24
+    },
+    "news": [
+      {
+        "title": "Atak na rurociąg \"Przyjaźń\". Doszło do pożaru na kluczowym odcinku - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXNILTZuUldJMHBkenZvWWItU292TFlPR09GZm1oMnJQTXppV2NwQXpKd2VRZGVjNl9LMDY0eXZmbGFFU2NjZnZ0clB6TUNQZHJLMHprN0lFN2VxcjVROHVXUnFoS2pFSUhSaUZuXzFuOEtwY09TRWFSRGpqM2pIcUZFSm5SNzhSWkk5ZEpNR3BwT0pxR2pQUmVhVmZsX0E5b0NyOVFyOA?oc=5"
+      },
+      {
+        "title": "\"To już nie jest wojna ludzi\". W czwartym roku front zszedł pod ziemię - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0xscEhwbTdKYWhIb1QyU1ZfNnFKaE1pWlBxd1g3b0VrNFZzR1ZfNVFmbGs1NTJLc2VlUHBIVGpCRDRYSk13VzVqSWNJVG9BZC16YXVIQmtXcVYybU1malF2dG9XUklWR1ROemk0SXhSblBPRkh6NFEwZU03MV9zNElYVG9DMjZwWjBjQmZ2NUlBT1VGYUx4Zm5zNTVCQ19wd1lsc1FadEdVOWlVemww?oc=5"
+      },
+      {
+        "title": "Depresja to nie tylko brak serotoniny. Psychiatra z UJ wyjaśnia - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3Y0Yk9Uc29Wd3l2SkcwQlVEaU9KNFFsSl9FeUhQTG96QWs5RWRZQWhRUHRWWmYwTnFtd2R5MC1mX1pKazNjYXh5Z05JeVRySDZOTHpfbXE4QmNJa1Z4WGtxXzdVLWV4TG1QMkhuaGdhS1Y4ZGh3ZWtYUEtYQVZ0XzZRVmlqazFzVElqM2FXMlZBVXNjWXRMZDJwQlR6MERXc1hUenN6RG5SOUJ5U3c?oc=5"
+      },
+      {
+        "title": "Cztery lata wojny. Ukraiński analityk: wojna wymusiła dorosłość i decentralizację państwa - o2",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUc4TEVMYVFscXdzTm9IS0tENjIwNm4welhfdFBRWEtwQVc5LVBRbHROWXJXZVpUb191WFJDVTJ6QkZ5Z3MzVGZaMWQ5Y09jZnZ2SF9lcmF3dlNLdFBXOFFzOWVNYVR6MTNLZVRxT0dwMFByOWV2MUVyMXhLSzk5bkJLVkNvRFpkcndCNG1JT0tpTGlnTHNfQ3F6NWZ0VGN1ZjMwSHFjSHpCRnJLX0JHSzdNLWlMZHJiNXQwakhNVi1UQnUxdy1CVTRXZTJibHc?oc=5"
+      },
+      {
+        "title": "\"Chce wyprowadzić Polskę z Europy\". Sienkiewicz wprost o PiS - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHBHZnJvYk1hbEZEdGQ3cTZ3QkJYU2ZSNHlLMVB2dUYyMWJPcFhEcWdINl9mdXhGejIzY056SjBnREFVNUQ2RHBxNVdLNU5UYkVmdnJYZ0tORFpKNEctbHk4V296Y2htMk5pWWFLVzE4X3hfbjloYklPQjRrM0NpUVZ3R2M1MTU4dTJremFOU0hRRWJiOG1GMVlwYkNaX3diQmVhcUlEbmdEWlJRUHFWRm9VODlvZw?oc=5"
       }
     ]
   }
