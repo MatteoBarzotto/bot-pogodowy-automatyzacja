@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-22 21:18:48",
-    "weather": {
-      "Warsaw": "Warsaw: +4°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 241278,
-      "DOGECOIN": 0.339549,
-      "ETHEREUM": 6954.29,
-      "LITECOIN": 190.44,
-      "RIPPLE": 4.95
-    },
-    "indices": {
-      "^WIG20": 3383.82,
-      "^WIG30": 4333.31,
-      "^WIG": 3383.82
-    },
-    "news": [
-      {
-        "title": "Sikorski ostro o Nawrockim. \"To byłaby kompromitacja\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3VnSUFnME5GcjBwWGItaGl6SVVhUmdWaFQwNjRBS1hEOHRKZHFwd2ppNE5lNVNYeDRBeVVYc3VEa0FscnZzcHJwcGllbFBKSUVfaVVYUWJ5TmJ6aWRfSzU2bmlDSTZDcEFGb1d3b3lVQUhuZUdRbHo2R2FLOTI5bTM1ejFydzBrQTdqQm8yRmRyNkZ6ZTcySw?oc=5"
-      },
-      {
-        "title": "Wstrząsający raport z Sosnowca [OPINIA] - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDI1V29UZjk1dVM3QWR1YS03eDhnUmNOUXF5RllKWU5laUF2UFhKNXJYTFQ3NlNxYkREejFvclRsY3dTbXB6X2tyNTZLdjN1QWZGY1dnV2V6TTluMHhQZDZJQW1mYW10Vk5PX0xsemF2elRaaXZndHgtamhkNzd1N3NJRkc3dGM?oc=5"
-      },
-      {
-        "title": "Zakonnicy chcą budować hotel, mieszkańcy protestują. \"Bez ludzi nie ma dzielnicy\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTGpjSm9VbDB2cHpHNEZRb3B5Ym0tTHA5VWRtcWNPYWw0SW5xbGdTeVA4b0kwZTcwdmJtME9WT25fZnRqVXM3cW40V253UHNVek1KWmM2T1RjSDlkUUtLOW5wWWM2d3JHVDRlWEZWblZEYk9LQkpkcVFtNGlEajFub2NyODVaWFU4MTR3aVU5MjhwUF9UOGJwdThVUW1ieXB3MERwVG00Z1VWZ0tEY1VJOHJiMDRyaXZjbEVjV190MkdXUEJ1QjBWY252Z0Foajg0R2R4WA?oc=5"
-      },
-      {
-        "title": "Zapadł wyrok sądu. Komisja Europejska domaga się wyjaśnień od USA - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTVLWUVYZ1FsNXBlalBrcXExaHVDZzNNOFNORzFtRkRtbDA1dTRMMl9lSl9OMWhLZ3NuUDFuUk1vQ2prakY5Zk44OVgzajlwV1l2V2thSzkwYjdlY0JnTFc5ZzdtQ29NN1pncDJoNUhlZGFvNEVaR0xPbWZlZkVrSXJRdi1WMjVkZ1hYeHQyMDR1NkJXVmh4MzhnOFhfdllncWFBNzdPS1dfbVE?oc=5"
-      },
-      {
-        "title": "Znów gorąco w Iranie. Władze brutalnie stłumiły wiece studentów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUndvLWJwTWVBZF9fYlNXTHZZSjNmeV9UVWN6VE9mYzY1WGwtZkpNeHVrLWVPekpEVFFIUE45T0wzWXAwVVRVSUh4WV9mZWtudk9wd3F5NEJ1NkRlZHZzR2dBb3pVR29QSHFKSlgyekJRVllJWmdMckwxMGdmM1Z4bUJUbkY3ckJwTFY4UkRtTzlzTnEybzFwZVZHZ0wzaXFoTWVETHNjMXg?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-22 22:17:54",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Pomagał kobiecie z wózkiem, teraz walczy o życie. Prokuratura ujawnia - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1FLWXR2NEtqWVhUY21kdS1acHo4aTlyNkR6dV8zajRNaFpwOVpVZGc0Z3IwV0JZNTlBdExFZjZmU0IxbmdIZ0NRaGFGc01HTGZjclFPcGE1Y09vWEdIUGl6bHBpczJVWWtRT1ZNa2xha0NZYkRZZkdyR1YzcWZqZl82aHptZUtxTGs5OW1pQVN6WUxoUnVJeUNRc3FIZUlaeHpGanQ3NFJsOS1BbDJwWUZJdVRmS3VuMmY5NnFxVy1NUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-25 12:35:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5785,
+      "EUR": 4.2183,
+      "GBP": 4.8375,
+      "CHF": 4.6225,
+      "JPY": 0.022857,
+      "AUD": 2.5359,
+      "CAD": 2.6136,
+      "CNY": 0.521
+    },
+    "crypto": {
+      "BITCOIN": 234414,
+      "DOGECOIN": 0.33734,
+      "ETHEREUM": 6887.68,
+      "LITECOIN": 191.61,
+      "RIPPLE": 4.95
+    },
+    "indices": {
+      "^WIG20": 3452.46,
+      "^WIG30": 4405.06,
+      "^WIG": 3452.46
+    },
+    "news": [
+      {
+        "title": "Trump grozi Iranowi. \"Nigdy nie pozwolę, by posiadał broń nuklearną\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3ZIanB1aU1tNm5COFNvLW9NLVhpVFFoZmprZzlrU1lNek1KUFdTM0x3bmdTdllmWEZBUFJ2OVJiaWZFaWY1SXlGbmFlY1ZNbXg0MHljSVZXckpQWm0xQU1Damw0Q2Mza0dKTUJwSEVZczhPOVkyYlBxZEl4MnhvdFNEaTBYdXM?oc=5"
+      },
+      {
+        "title": "\"Gotowa do wojny\". Prezydent Nawrocki o konfrontacji z Rosją - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRkTFlGeFNCRzJEbFluNFE0dFNlbjBGUnU5dWd1bXhwNnVyZDIyblVzLUZsNlFNZVd1LWxkVmpDdXJkMEpXMkw0TGZKd3Z0OTFNWmZTVkxyMlRrVHpqTUlvSUZiQWljRVVEVDJEdFJrR2xmeHAzU0V6cU5pZ1NYd1RGc25IMExqUjEzcjZZbnZ5STdvM2VMSHRxWlA?oc=5"
+      },
+      {
+        "title": "Prezydent Częstochowy zatrzymany przez CBA. \"Prowadzone są przeszukania\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdjFLNXZ0UGlwUHl4VEUwb1ByUjBCTmItU1pzOTRjaERSNmt1RlY4TmdMbnp4R0RBMXUtNDVzam54QlZ5MEc5NVhoZHF3V2tqZHlCbEVUWElWbDRZbl90WFEzMHlEWG0xS2NIUF9hbUg2Q1dUWlVwc1Z2amZ1ZkhuT1ljMXBfdFdVYnZEbE9lcVM3aDJaUDRlQ2loVnZ0Ykc3dU1fM2JoSDR0cXhreDh0UkVFQ2Nhdk9UN1ZSdS1uQ3YtN1NCTFM2aGtqRDE?oc=5"
+      },
+      {
+        "title": "Wyścig o fotel premiera w PiS. Jeden zdecydowany lider, ale wyborcy szukają też \"kogoś innego\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWEFyMkdzOUFzcFhzc1pPSjllRVBqT21iN1U1RldDM0V3eUdrSDZuYUxYOS1DblNZczhpTXRqdThXVEVtamx2VG8tcXVNZUFjX3paRkN4blZNZVBrZGRtSEdCaFJnVm5HUW80TkV3MDl3SlF6dHZLRXI0c3B4QmtVNXVSUUE2Szh0ZmZFMDdvYXBLaVJQdVFrUVdiX2tHa2VoWFZVSnBWUV82WWlxZDROdXhrcmtka1lUZS1FWmtTaW1jZGxKalZSZTdHZXU5UQ?oc=5"
+      },
+      {
+        "title": "Akcja ABW. Sześć osób zatrzymanych w sprawie nielegalnego przerzutu do Rosji - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckFXdFVPVmwxaG5pZFR5dnJ1bll3RFJfOElHSEFjMjNRcGVkTnJqeVdDOXJrcnppbzZWajZSQlNOU1JLRTZXRVFGUEFIZVV4aFZvWFZvNTJHOHU0V3prTG5xTVFGZFo3OTRGVGFpOWNodHNDdkdkVEdabWNwOFIzMDhMRjc3THgza05VMjZzVmlIeVd6eUdOOU5pMjdqWHZ6NXY1OTc3M3FHaGFMNEtBbmJCNXdPZw?oc=5"
       }
     ]
   }
