@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-22 14:39:16",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 242568,
-      "DOGECOIN": 0.346367,
-      "ETHEREUM": 7013.32,
-      "LITECOIN": 192.39,
-      "RIPPLE": 5.04
-    },
-    "indices": {
-      "^WIG20": 3383.82,
-      "^WIG30": 4333.31,
-      "^WIG": 3383.82
-    },
-    "news": [
-      {
-        "title": "Oto co nas czeka w pogodzie do końca marca. Pogoda może mocno odbiegać od normy - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEFkNnpLU3AwbVhMNXo5TGdKR0l1azVnZkg1c09zZndxclFlZ2VVN2VDUFZteUdUTVZ4cVJMbGN3TzNhMmExbWVObWhvQ3cyV0VhZ1dpcHlIcERZZkVEV1gzNm1TbC1TS2ZuNmdlZi1VOEFZaXFrdjZuY01DbnU2MDlpOTBqeEt5cDZmOHNWaVRibFpOQzlUWGFGd3dsVXpRTmt0QjBIUEhrSm80cWd4alZBazRXT1VJSl9ISTlGVnZKdHRPOFlGTm54UFY4c0lV?oc=5"
-      },
-      {
-        "title": "Semestr studiów zaliczony w godzinę. \"Newsweek\": Collegium Humanum to pikuś - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemh5dVFQZGdrNk90cWJqWWFwQUpqVFhMYlNrY011WmNZb0NuUXdPLWRaN1BKdVowc184ZlhvbTh3NG9CN21RaV93V19CdDAydWZHUHY0MUI1a1JYQlUyYWVjOHFIVEFKcWRVQy1HUktQaDNHUkg2Xzg3SUFZTDk1dUwtQ1NDb0NzNEViMkZNVm1WWVZKRnlFeDh5ZDNvdDVfSTdWZ01KWFd1V0NNZ1NCWExDcVp2MmNOd3E1dDh6S1hSUXZE?oc=5"
-      },
-      {
-        "title": "Wybuch rozerwał dom pod Kielcami. W środku rodzina - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnBTYVJ6WkttMDlFa3NJYzI0MkVWS2lEbTl3ckxrVTVkRGlLbFk2Y1FqVFlwQlF5bjNELXM0LWFKRUJPTHVOMzV2SFphTG5vZGdCMVhwNnVUNzdYcWtMZDl3RWwyTXd6Q1BCZWM0R2E2Y0NIb3BfWnhmY21rWkFtemdpOE5lVDRYNkRPRDhvQTB1eFhpc0g0?oc=5"
-      },
-      {
-        "title": "Polacy boją się wojny z Rosją? Jednoznaczny wynik sondażu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFpmQUFsTzZHNXNoNEVoT2ZIa0RSLThUclhaLVgxR0xNYkFUYWxSSlpSUmJzT2tJSmx3bW5zellLQWZqT3VZbmhEQldIQk9fWkJiOEtHc0paX0F3Qkt3SGZyTXY3ZFkzNzQ0OWdqX3VHQ0Nsc2VPbGJGVTFBTmdET2d4NU9haFNJN0R1YTA4emY2SkZ4S0ltckZGRF95cTRHZS1VQ3F4elh5eXZZZ2c?oc=5"
-      },
-      {
-        "title": "IMGW sypie alertami. Wielka odwilż uderzyła w Polskę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnZ1RzZ6OEFOWHNlekMyay1rcGtfNlVrYjlMLUZMLTRzZU5GUlhOamwzempIQU5yekRlUlduLW9rUV9xVGJQQlVFS05jcTNQdzhjZTVXcWhycTMxZS1wN2xDR2xjZVlEVWZaWHhybUNvWUwtLVVzYW1GQWxXSXp1OVhBSUF3UFJIMHp2NWxUU3AzQVotd1N2NzB3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-22 15:20:19",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Na przetrwanie dwóch lat\". Sikorski: 90 mld euro dla Ukrainy zostanie wypłacone - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmZHbDUwNjVHeklaMVNwSlVjd0lrVWlVUVB3dlRNX29JbXl2SDBJZnVYQ2ljel9UbjYtRWdGb3BPRkJUSEFBak9ELVJoa2lSVHZvSU9YdGhYeXZTNFFzUjl5WEZLMndiaklqdmVXd3R1MTdyYTRvbEtWN2dhUGdSUTNtd0paSWh5QndSV3MxZmlHQXlaQXNfNkJjY0s0bVpZZ0x0UUdraUVnSDVmcGdZWTk0NndHSnkxV1AzSVJEMnM4TzlONzBiZHhPdw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-25 05:13:55",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5793,
+      "EUR": 4.2193,
+      "GBP": 4.8323,
+      "CHF": 4.6252,
+      "JPY": 0.022965,
+      "AUD": 2.5283,
+      "CAD": 2.6132,
+      "CNY": 0.5202
+    },
+    "crypto": {
+      "BITCOIN": 233959,
+      "DOGECOIN": 0.330045,
+      "ETHEREUM": 6811.79,
+      "LITECOIN": 187.52,
+      "RIPPLE": 4.89
+    },
+    "indices": {
+      "^WIG20": 3421.01,
+      "^WIG30": 4368.62,
+      "^WIG": 3421.01
+    },
+    "news": [
+      {
+        "title": "Wojna nerwów rządu i prezydenta. Rozmowy wstrzymane. Zaskakujące sygnały z otoczenia głowy państwa. - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejI0ZjVGbXFqcWpuZmF6a0g5SHhOQTZpekNKZW9Ib0lhWGxESGk4X0RkWXAwdjFnQTFxMlpTVm40TmdKaGVnc1M2dUVPX3hHNTNWeHc1NUFPTzlIcnZoMjRqZVpsdF83VTZzOEFMdGY1Q2pjTjJKQnhNSzJFOWNIdmhvN2NDOC1aM1RIRXNaS3ZoWVVDbFpFby1QLWQxUUUzSFU3WDBmTkhZa0ZNVlJiSXd4WENEd3pxQnA2M2JWTlhUbjFkTF95S0d0RlZvbUJvc01rM0k5WQ?oc=5"
+      },
+      {
+        "title": "Orban i Fico idą na całość. O co chodzi w wojnie o rosyjską ropę i rurociąg \"Przyjaźń\"? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWElNV3lQVGFDWVFqSDN5aXRqeFJkeHk1WU9BYzVtX3k2V0FtX2lncDR2aVBWMm5iTy1wTkRjTmJoVlY2SHRRckdaTGppYXRaLVREdXJXeWhvSUd5cUdkaEhQWTJQQVpZSUpOZnY5dkRPZUtERkgyQnZBZ3lFT0o3dnBBQmVEVWczeGtRbHdaNnA4TzFkbzByUkF4WV85WERSY1dGMmpUSGZ1TmJRM1lXVXNZYUdxUUMxVmlMenR0RHVuV1pp?oc=5"
+      },
+      {
+        "title": "Były wysłannik Trumpa krytykuje USA po głosowaniu w ONZ. \"Kto by pomyślał\" - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE8zSzd6QVVmR3JFVGxaNVNoLVhKVktEYjNLRU92QmMxcmE4UEpucC1Ydnc3a0FUU214RHhqdVB2TjF5dndJLV95bmJvdFpTaWhpU24xbU9nRS1ZdXp6NUROY0xWaWNHNUlqRC1PWG9EcEVMVVVwV1I1ZDc4OW41MnM4RGJsNnRIYTBzNlV3b01wSmdmZlVNU2ZXcnpXbm5sQnhOZQ?oc=5"
+      },
+      {
+        "title": "Pomagał kobiecie z wózkiem, teraz walczy o życie. Prokuratura ujawnia - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1FLWXR2NEtqWVhUY21kdS1acHo4aTlyNkR6dV8zajRNaFpwOVpVZGc0Z3IwV0JZNTlBdExFZjZmU0IxbmdIZ0NRaGFGc01HTGZjclFPcGE1Y09vWEdIUGl6bHBpczJVWWtRT1ZNa2xha0NZYkRZZkdyR1YzcWZqZl82aHptZUtxTGs5OW1pQVN6WUxoUnVJeUNRc3FIZUlaeHpGanQ3NFJsOS1BbDJwWUZJdVRmS3VuMmY5NnFxVy1NUQ?oc=5"
+      },
+      {
+        "title": "Złodzieje okradli Luwr w siedem minut. Teraz odchodzi dyrektorka - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUhfVHNyeGRxMkV0YXQxcVlGbHZLVjBnXzJEcFRsZHp4ZFN5d3ZpQ2V0Zk1kSTVjUFR6dTBkVi02Rmh3VExQUjhwUEowcmRsZlF6VFhoMGdsdEN4bS1kd1BEVi03SXllX1o5b01HVHc1Ni1QZW54bnhSQzgzRHNUUnVoSE4ycno5TGNXalEyZzhMMHJaNU9rQWlXZWctcURk?oc=5"
       }
     ]
   }
