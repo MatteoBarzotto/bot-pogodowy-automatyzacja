@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-22 16:18:26",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5898,
-      "EUR": 4.2241,
-      "GBP": 4.8347,
-      "CHF": 4.6297,
-      "JPY": 0.0231,
-      "AUD": 2.534,
-      "CAD": 2.6224,
-      "CNY": 0.5154
-    },
-    "crypto": {
-      "BITCOIN": 241346,
-      "DOGECOIN": 0.341578,
-      "ETHEREUM": 6971.95,
-      "LITECOIN": 190.2,
-      "RIPPLE": 4.98
-    },
-    "indices": {
-      "^WIG20": 3383.82,
-      "^WIG30": 4333.31,
-      "^WIG": 3383.82
-    },
-    "news": [
-      {
-        "title": "Węgry blokują nowe sankcje UE. Stawiają warunek Ukrainie - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFhUendQTzlJdXhmMTgwVXBDNEFHUEUtbl93eGRsTTRjdEFXbUpnZWJpN1dpejl5aG9Vb3RzUnJHVW1PYlRGNVdiTlJEbndEZW1fR2h0U3JiS1NoNW9DdGcyZmNSNGs1T1U4RzYwVjZwcDZXdG81RFpESmxsMHdIcDdXQUc2TjRlYTh6aTFFMlhmeWtYVFJGT1lFWnU1V29UdWNlQkVnd0ExRmRYOXp5MUFyUkUtX1lDellZSA?oc=5"
-      },
-      {
-        "title": "Polityczny rozwód w Sejmie. \"Stan po operacji jest bardzo zły\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTU1BcEctQVc4WHY1Mlg3WmtRMk1fSTI2akVteVNaS0tYVTdxQXNjWjVFVUlwa092X3lhcFlkd2V4VDY1ZnhqQ1JsSHlXS0FnY25NcGJuRlp4eHItenlzMDZOSTlwcHg1V3lCS3hSTFdFY2xXUjFuUUgwVWwxUlJ0NGp0SXZ6MVlmUEQxd2ZPVEN2Vk9SWlFGSzllWmtLRDFfY2p4bEluYTBSU0k5OVpNdW92N21vR1B5Z3dxWmx1NA?oc=5"
-      },
-      {
-        "title": "14-letnia Anastasia zniknęła. Wyszła z domu 12 lutego. Widziałeś ją? - o2",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWdBTTVZY0tKOUdRMDlOQUo2bTJGeEFOT1pMcko4VU5aYV9qbzlkc2pWMXgtc0VGODMyaGVtUVoyNEtBQlc3SFZPVG1HUnQwNkxDMDVmYWlpREpHLXQzTUFTMEhlWFFROF90UHo2ck84d1RMWHFUN1lTNktnaVJDOVhaTDVOZ1V5b19NYXpKeUlTemtlUHhUbkhMNkNpcXBsN2hOckd0YXRaMWVaVzJySlZ3?oc=5"
-      },
-      {
-        "title": "Zmasowany atak Rosji. Połowa mapy na czerwono, uderzenie w Odessę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbENDUnI1clNLU2kzVFY0VWN5YjZvQlYydGdqOVFjb2dwX3ZqSGlSYXFFOGZsbU5UQ0x2Vzh0QS03YV92X3F3Z1o3WmJraDZMRVhrQ2VDM3M3d1JNaWVYaTlOT2d6c1EwdkxqZG9uLUFiRldWeVplOTBsMy1TV0VnLWUzQTI1UmRLdEZnSzN1bHpXdzhiOWYtVHpJY0V5R25jRHUtZzc4TkhLZw?oc=5"
-      },
-      {
-        "title": "Polacy boją się wojny z Rosją? Jednoznaczny wynik sondażu - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFpmQUFsTzZHNXNoNEVoT2ZIa0RSLThUclhaLVgxR0xNYkFUYWxSSlpSUmJzT2tJSmx3bW5zellLQWZqT3VZbmhEQldIQk9fWkJiOEtHc0paX0F3Qkt3SGZyTXY3ZFkzNzQ0OWdqX3VHQ0Nsc2VPbGJGVTFBTmdET2d4NU9haFNJN0R1YTA4emY2SkZ4S0ltckZGRF95cTRHZS1VQ3F4elh5eXZZZ2c?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-22 17:21:23",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Orban i Fico idą na całość. O co chodzi w wojnie o rosyjską ropę i rurociąg \"Przyjaźń\"? - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWElNV3lQVGFDWVFqSDN5aXRqeFJkeHk1WU9BYzVtX3k2V0FtX2lncDR2aVBWMm5iTy1wTkRjTmJoVlY2SHRRckdaTGppYXRaLVREdXJXeWhvSUd5cUdkaEhQWTJQQVpZSUpOZnY5dkRPZUtERkgyQnZBZ3lFT0o3dnBBQmVEVWczeGtRbHdaNnA4TzFkbzByUkF4WV85WERSY1dGMmpUSGZ1TmJRM1lXVXNZYUdxUUMxVmlMenR0RHVuV1pp?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-25 07:58:34",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: -1°C"
+    },
+    "rates": {
+      "USD": 3.5793,
+      "EUR": 4.2193,
+      "GBP": 4.8323,
+      "CHF": 4.6252,
+      "JPY": 0.022965,
+      "AUD": 2.5283,
+      "CAD": 2.6132,
+      "CNY": 0.5202
+    },
+    "crypto": {
+      "BITCOIN": 231718,
+      "DOGECOIN": 0.329189,
+      "ETHEREUM": 6732.86,
+      "LITECOIN": 186.88,
+      "RIPPLE": 4.85
+    },
+    "indices": {
+      "^WIG20": 3421.01,
+      "^WIG30": 4368.62,
+      "^WIG": 3421.01
+    },
+    "news": [
+      {
+        "title": "Trump grozi Iranowi. \"Nigdy nie pozwolę, by posiadał broń nuklearną\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3ZIanB1aU1tNm5COFNvLW9NLVhpVFFoZmprZzlrU1lNek1KUFdTM0x3bmdTdllmWEZBUFJ2OVJiaWZFaWY1SXlGbmFlY1ZNbXg0MHljSVZXckpQWm0xQU1Damw0Q2Mza0dKTUJwSEVZczhPOVkyYlBxZEl4MnhvdFNEaTBYdXM?oc=5"
+      },
+      {
+        "title": "Rządzący mogą zostać z niczym w sprawie KRS. Żurek zapewnia: mam plan C - Onet Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0UwV1JRdk8tQlE5LXl2SkstR2N6U0pMOTJSejAzejQxSlBuYnV5TjJxa2VPSk8xMWJlc2FpZGxvMTBncVp4b2xPTzhhTTV2Nl9oYldnNE15bnNLRUNHOXdQNHgyb3d0azZoWlk5NEo1WXFEQ05uNHZUYXMwdFRlTzRxeHdQNHotcTNNMDNTM21WU08yODNfNm9fbWVRSkpDaU1SUW9NWDg3cktlWndUbjdxcWdMZ1hqOERrX1dEY1FlSDZVdW9pT0l1cFctUXc?oc=5"
+      },
+      {
+        "title": "Nadciąga z Hiszpanii do Polski. Zacznie się 26 lutego - o2",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1YxQzhwYXVPd1dQdkJoWE9fV2xOUmVvZ1VUbV9McmsxUHBWeUZSeExzTDJ2RzlZeWFsLUpuSnNKSU9lc1ktSGVaODJDTlBmSHdyV1VrRlJ0WjRmNjZaVk56bXpkdWhjSlVxWTdxYkt2eG9MeTk0Q2dmTnl6VnJRZk04ZWQtaUlqdGRYN2I1MGJQSHpvNkZDT2w1SQ?oc=5"
+      },
+      {
+        "title": "Spotkanie z politykami PiS. Konfrontacja z Bocheńskim - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZGpOYVYxWG1ranhUN3RLN0ZuZGk4dHVyWm5UNTdRX056dVhOYkd6WVBMRmhPX3ZmVV9LNTJCSFJKaEtzU2Y2ZC13NmtSbC04ajNVTkhDeHRVMHZFMS11YXRMd3pyWGJZSVNOdFhvX3U2OF9yS0xqbVpkNGlLWHFwUlJ4TlpEeVFtSkVXV05SMzVIbVpzSm43V0RGTQ?oc=5"
+      },
+      {
+        "title": "Zima z całodobowym mrozem wraca do części Polski. Jest nowa prognoza na środę - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1ZIcC1VTWhjMlV4VWhCSHQ2OHFtakhaZ0VSS3ZnRFA3a0pVeDRaOWl5ckRzSC1lNFpuUU5RdDVYQXhqQ1FwWXJqOHMxNWgxYU1BZ3hlTDE4M0w2RUhnTGZ4MVkyeFBCRlpaeGZSRHFuaEJ6bTR1THVUMzBVTTRHek9kcmpUdXJ6M1V2UGhkN2ZNNmRQTVNVYUluQWhsNkZnRTYxMmlJdW1FZ2lTcnVrVFRXTWxPcDEyV2h6NmtrT0U4eEdCMEF0M2xDWTFpamM?oc=5"
       }
     ]
   }
