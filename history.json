@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-24 00:29:16",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.5737,
-      "EUR": 4.2173,
-      "GBP": 4.8275,
-      "CHF": 4.6156,
-      "JPY": 0.023084,
-      "AUD": 2.5316,
-      "CAD": 2.6142,
-      "CNY": 0.5146
-    },
-    "crypto": {
-      "BITCOIN": 231992,
-      "DOGECOIN": 0.333302,
-      "ETHEREUM": 6658.81,
-      "LITECOIN": 184.43,
-      "RIPPLE": 4.85
-    },
-    "indices": {
-      "^WIG20": 3440.36,
-      "^WIG30": 4394.6,
-      "^WIG": 3440.36
-    },
-    "news": [
-      {
-        "title": "Podtopienia w północnej Polsce. Strażacy interweniują setki razy - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXlLb2R2eWpBR2o0eEVqdWNqTEdDNVAxYWwtS01URW05b2pHaURmeFNlaFV0X3cxRFUwZTVJNkkwdzRxb1lJSmtlbkwzMkFGczZIN1lsVndGYmJXYkc0SDNUeXNlUExZX1h3V3VTdlRNakNyV2JnS0hMRjhhOGhMS2ZSaDd6ZnpzaFBYX3dybkljbVl3STU2U2RMZTkzN3ZrdjBBVGI2c0x1UlE?oc=5"
-      },
-      {
-        "title": "Radny zasłabł na sesji, nie żyje. \"Atmosfera była nerwowa\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejFRLWo2dF9FRVpONXVKSjE2bk13OHRhTUtUOWtqQ1hhNm13TkVVcEdoRWlIanhCeWV6c2N6NFNaU1lPS3JGel9hVHU4SlZtOVhubFc2R3lBeUdjeTNyZmRMZ3hLODhXbnFNYThOZlQ3dnRzc3htU2VjT3pac2ROLVVubHdLallmd0hzZy1mRDk3OEhiY2htTG43V05rdw?oc=5"
-      },
-      {
-        "title": "\"Czułam, jak spadam na dno\". Te gwiazdy zmagały się z depresją i głośno o tym mówią - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm1SaWNIV2FhTVFCcF9hN0VpY0ZRaHVmX01CamNmMk5UeEJfQlFyZllHU3ZQYTJfdnBCcWdaeVcwVGMyQ1hKeVdIaGhhbWo0cHp0ZTIxMVlnVkJzWmRhY1pPMDNMVHU5aWJlZjhiSHJ0anFCNHdoaHlMME4yVEE0d3FYaUxoWXRlQzAwZS12dldWZEhJWXFiZGFFdE93aWQyWS1sa2g1NEV2RndTME0ySk0ydUh6MGduNE5vN2s4NmRTQUxQY05N?oc=5"
-      },
-      {
-        "title": "Czarzasty odpowiedział na ruch Nawrockiego. \"Na to się nie zgadzam\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzBCbDM4OUxjNUY4WEtJaklzNVdMclBMbXlOVnVVVW9iLXFKUUd5WjlWY1JXNWJIbTNWU3hDeHpkUWlVclF4TVdsdGt3NlhtN1AzZTZ5eUxJbmxkSy1kZG1qZVJCai1CTGx3Q293LTBlaHRHRHdLVlV3T05UZmR4aVlfZ0ZyWllRaUhhUWJJVkYzV0pKWXZGWFNXandnb1dLNTdrZzhB?oc=5"
-      },
-      {
-        "title": "Kulisy procesu Grzegorza Brauna. Chciał wyjść wcześniej z sali sądowej - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHdoOTgxR2ptRlRMVkRWTE5oR3FsVkVGWTEwQXkxYnJEWHRlTnF0dS0zMXNZZWhKM01XVlAyWGVDQUtmVHVjejNsRmRMU1F3VTV5LUU3c0N4V3hYOW1fT1Y1RXBia1ZzRHRPN2ZJYjhONHd2UzJWbi1EWFZTblFDejNTSHJxWEJkVjJMbEpMS2szdGZQQkc3ZEtaNkJETXJWS3NpRldEeGU2eHJOWjV4eV9JanM3ZW1wcjZYbmJ6aDZESnBXeG5GeGJPT00?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-24 02:28:06",
     "weather": {
       "Warsaw": "Warsaw: +4°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Ziobro może spać spokojnie\". Sawicki nie ma wątpliwości - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMC0xUWJ0emdNdk9zaDNfSDJDeXlrVEpJaDVQNXZZeUdpd1NZeDBlbS1FeGxtZTR1Ml9BZ05XUjZQYWkwSnI1eG1jVjFtRjhvYklWMmZIYXg0LW1idzNOWFRnV2dWalpEZFlSM0NUM0RMWVZsYkZiTzkxQWlfamhvbFJGOEtKZS1rb2FUMFgyNFB4SlktdU1n0gGTAUFVX3lxTE9GZ0ZvOWFoYXVVekM1aGNUeHZNekFqUzB3VkoyaGFnLTRsY3dmTThBTGppenNIV2xnWHJhUHl5QnJ6ckxFcHRMWXZyNzZteUdJUEZnRm0wVF9yUzhEWjlTbTktN2FUVUVqS1RWZ29uWWRiR0xua0s4czJqcXV1elRBRDVzQVNkSmc3cjRaLTFheEo5bw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-26 16:47:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5792,
+      "EUR": 4.2224,
+      "GBP": 4.8416,
+      "CHF": 4.6245,
+      "JPY": 0.022932,
+      "AUD": 2.5478,
+      "CAD": 2.6171,
+      "CNY": 0.5231
+    },
+    "crypto": {
+      "BITCOIN": 241363,
+      "DOGECOIN": 0.353231,
+      "ETHEREUM": 7263.82,
+      "LITECOIN": 199.88,
+      "RIPPLE": 5.1
+    },
+    "indices": {
+      "^WIG20": 3438.79,
+      "^WIG30": 4394.94,
+      "^WIG": 3437.77
+    },
+    "news": [
+      {
+        "title": "Cła USA nielegalne. Miliardy dolarów do zwrotu. Jedna firma otrzyma najwięcej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHBHMmZVV3RtVmdOVkNOQ1hwbUwtZnlsVFNvaUU1UWZpMDVFY2NabDEzbUwxaTdKUVhsNndZZUM5UHNhdjRmSzVfNnVjNElTX18tZFFkX3Y1SmtlcnJNTFh5TXRST3pkX1MtOWtRSTBrcnJmM0lJWGRTSVJJek5LaUlFUE9qRVlIVlFNYTNPOVhaTGtJT3lycGFtQjhxSzJIa3dpbFJrS2gwdlJoX0xKUUM2Z293OUZ1d2dsdjlfZ2RXYnNDcWJ6ek9Ca29McThzMmRWU0dyd0p6TzQ?oc=5"
+      },
+      {
+        "title": "Lotniskowiec Charles de Gaulle w Malmoe. To pierwszy raz - o2",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXpnWjFMM2MzeURsM3BnT2N4QXpubF9PVjkzT0pNZTBPVXRhQ21jTWs2ZThkMXF0MmNlT2pvOHhSdl9GeHNLRHRSSWt2R1ZVNFFRYktiM2lmX01ieTlqNkJzam5IZEVvNko4OTJIX1RMSG5GdmFJSTY0Ml9JWnBqOUtBQklKcjFDZnJUMmtMdnpiaDN0ejF5TDlad1pOT3FPSXhwcA?oc=5"
+      },
+      {
+        "title": "Złamał przysięgę, poleciał szkolić Chińczyków. Zarzuty dla wojskowego pilota - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3BDV0FRd1dEWEIxMks1WGdqam5PLV9keDNObXJDQkFVc3BweVQ2akRjYlVtVDdpN2k2U3JsekFPNUs3amJIb3YwdEt6Y1FyU0hhS0hpODRGdFBVNzVYTmVDekhqN1huQ2txVjlObTJaR3RVM0QzV2phRVc5RDlWVDA3QnZYOEhSaGtiX2Y3WmNqSnJtNnJMZjNrcmZWR3NNMkdUTkRVeGRQMU00N0Vj?oc=5"
+      },
+      {
+        "title": "Prezydent Nawrocki sięga po ułaskawienie. Na biurku dwa głośne nazwiska - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUFMMXN1SkFkTmU1OWttNjJGY3VzR2pmXzFoenhYc2dOVlFhLUd0eV9EUm1NcG85THUySlpRYV9ya3Z5OWliRXpHM3RPWjZOczRrQ0tNbGNwRk4xNllCcGlEWG5UMjhrNWFRbnMyVnpfdnNJcFVSVDd3QTVaWUJjUVRZWlRiejBaZUVQNm1BN1BMRFpMRWVzcDRmZS0?oc=5"
+      },
+      {
+        "title": "CBŚP uderzyło w \"mafię śmieciową\". Wśród zatrzymanych były burmistrz - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1dwai1vU3N3bno3ekg0Vkd6SFRaUXRwTVVBUzUyRmozUEJORHVKZlljb0ZjRVdkUl9Xbk9WYVNyNGhyZzF3T1pEVHpHamVaem9qUm15OEdxMHF5aTd1cjlESnYyZ2wzd2J5UWpwVlRKbkZNRmFyNFBtZ05MeFBrZXU3NTNySzhMSDgzaU13MUZNWUh0bVljaS1jbEZhYTMtcEJ3VVl6ZnZDRXdsWW5EeFV6OA?oc=5"
       }
     ]
   }
