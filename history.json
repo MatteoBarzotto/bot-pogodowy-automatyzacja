@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-25 12:35:47",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2183,
-      "GBP": 4.8375,
-      "CHF": 4.6225,
-      "JPY": 0.022857,
-      "AUD": 2.5359,
-      "CAD": 2.6136,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 234414,
-      "DOGECOIN": 0.33734,
-      "ETHEREUM": 6887.68,
-      "LITECOIN": 191.61,
-      "RIPPLE": 4.95
-    },
-    "indices": {
-      "^WIG20": 3452.46,
-      "^WIG30": 4405.06,
-      "^WIG": 3452.46
-    },
-    "news": [
-      {
-        "title": "Trump grozi Iranowi. \"Nigdy nie pozwolę, by posiadał broń nuklearną\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3ZIanB1aU1tNm5COFNvLW9NLVhpVFFoZmprZzlrU1lNek1KUFdTM0x3bmdTdllmWEZBUFJ2OVJiaWZFaWY1SXlGbmFlY1ZNbXg0MHljSVZXckpQWm0xQU1Damw0Q2Mza0dKTUJwSEVZczhPOVkyYlBxZEl4MnhvdFNEaTBYdXM?oc=5"
-      },
-      {
-        "title": "\"Gotowa do wojny\". Prezydent Nawrocki o konfrontacji z Rosją - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRkTFlGeFNCRzJEbFluNFE0dFNlbjBGUnU5dWd1bXhwNnVyZDIyblVzLUZsNlFNZVd1LWxkVmpDdXJkMEpXMkw0TGZKd3Z0OTFNWmZTVkxyMlRrVHpqTUlvSUZiQWljRVVEVDJEdFJrR2xmeHAzU0V6cU5pZ1NYd1RGc25IMExqUjEzcjZZbnZ5STdvM2VMSHRxWlA?oc=5"
-      },
-      {
-        "title": "Prezydent Częstochowy zatrzymany przez CBA. \"Prowadzone są przeszukania\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdjFLNXZ0UGlwUHl4VEUwb1ByUjBCTmItU1pzOTRjaERSNmt1RlY4TmdMbnp4R0RBMXUtNDVzam54QlZ5MEc5NVhoZHF3V2tqZHlCbEVUWElWbDRZbl90WFEzMHlEWG0xS2NIUF9hbUg2Q1dUWlVwc1Z2amZ1ZkhuT1ljMXBfdFdVYnZEbE9lcVM3aDJaUDRlQ2loVnZ0Ykc3dU1fM2JoSDR0cXhreDh0UkVFQ2Nhdk9UN1ZSdS1uQ3YtN1NCTFM2aGtqRDE?oc=5"
-      },
-      {
-        "title": "Wyścig o fotel premiera w PiS. Jeden zdecydowany lider, ale wyborcy szukają też \"kogoś innego\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWEFyMkdzOUFzcFhzc1pPSjllRVBqT21iN1U1RldDM0V3eUdrSDZuYUxYOS1DblNZczhpTXRqdThXVEVtamx2VG8tcXVNZUFjX3paRkN4blZNZVBrZGRtSEdCaFJnVm5HUW80TkV3MDl3SlF6dHZLRXI0c3B4QmtVNXVSUUE2Szh0ZmZFMDdvYXBLaVJQdVFrUVdiX2tHa2VoWFZVSnBWUV82WWlxZDROdXhrcmtka1lUZS1FWmtTaW1jZGxKalZSZTdHZXU5UQ?oc=5"
-      },
-      {
-        "title": "Akcja ABW. Sześć osób zatrzymanych w sprawie nielegalnego przerzutu do Rosji - Onet Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckFXdFVPVmwxaG5pZFR5dnJ1bll3RFJfOElHSEFjMjNRcGVkTnJqeVdDOXJrcnppbzZWajZSQlNOU1JLRTZXRVFGUEFIZVV4aFZvWFZvNTJHOHU0V3prTG5xTVFGZFo3OTRGVGFpOWNodHNDdkdkVEdabWNwOFIzMDhMRjc3THgza05VMjZzVmlIeVd6eUdOOU5pMjdqWHZ6NXY1OTc3M3FHaGFMNEtBbmJCNXdPZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-25 13:51:01",
     "weather": {
       "Warsaw": "",
@@ -2590,6 +2538,58 @@
       {
         "title": "Mentzen kontra Czarzasty w Sejmie. \"Towarzyszu, pomożecie?\" - Do Rzeczy",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZJdE1DWFBmSEo0UzlXbW9HaDNCNHB2Rk9tYUNTWlNac2VKSmRMN0xFVDJfTGY1YlQwZkpEbU4tbUZ6UlVycW04X2MyRDBUdFA3UUlCVFFLVm1xSFBpYml4VDR4VDRXZDV2Ykg4QlNFLXg4MUpDV0VKc2NKWnlZQUtJYkdwSnpmTWQ5YjBmOTVYUF9GZ2lfV9IBlAFBVV95cUxNSW0xTE9XNzlCSG9objJuOWxVOEtzLXdkOW9XSVZTZHF2WFVLUXVueEl5ZEszQTdJQ0NXUFdfQ2pkNHdQdDgwN1hUU3dLSFlUUk9ieV9jNnoxVU9WalktTl8yQW9sUFhMMW5vNHZhd1NEeUJWSmRYc3ZCQmQwWnVmSmZTOWwxTFJEbzJacG54VGxWdXJR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-27 23:17:04",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 234446,
+      "DOGECOIN": 0.332574,
+      "ETHEREUM": 6866.5,
+      "LITECOIN": 193.12,
+      "RIPPLE": 4.83
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Sikorski zrobił ankietę ws. premiera z PiS. Tego się nie spodziewał - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEFFM1IwTmV3REdDVFIxeE1XcG1WVWxaZk1oaElaV0djUVpiQTgxUUxRN180aUswd0pMYUh1cGZoV1cwb1IzeG1NMEx6ZWw0TVUzMDUtbjNuTWVyUm9ld0dWYThmb3A3bFhGRWZXTkh4NkVOQnJPTFBqdG16amQxR2lxdDUtbGlqbDQ0SkZKXy0wODViejBVVDF1ZWNHMkNTZ3NlcHlfbGlDOHMz?oc=5"
+      },
+      {
+        "title": "Łukasz Żak zaskoczył i nie pojawił się w sądzie. Napisał list. \"Jestem tylko człowiekiem\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2hxX0tYN0ZNdldPT1N0djBJbUhaMTV6anQxUGJrbmM1M2xlZmNHalhld1U1WnBoNWtRMkd1ZXpKOFF0SjdMd2VHTkExYjc3cjJ1UzFwVFhscTRPbmZOMHJMM2tsaWhnclZGWTE3cXkxZFNrdTEzdlRyTTJhZFpQc1FPYmR1SnIxdWJfbUZSbGhueGFOOVNfSElVVy12dUhISzdWX2JJd0w0VXlTVXNaV1JValIzcC1GWnUtd1Q2TjZ5c2NWLXc?oc=5"
+      },
+      {
+        "title": "\"Kaczyński na pewno jest poirytowany\". Odwilż na linii Nawrocki - Sikorski - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHlneEw5SHFLaU1HcF9CNzlmU0VRSzExLTR4bVR1bFEtUGlfLWc5WDE0T2pfeFJwd1JvVUpZUDBPUG50RGpIY0pBTTJwX2VLZEFnUjRZLU1FeUJ0YlFKZUtvUFA3NENMTkFZdWNsblZHYm5ZTjFSbkhNWmZ6X2FrcUl3YWpYSjRsRE1ERVNsUlRUdUdOY2o3NUc3N2ZkTDNsSTE3d0JTOWIzZ0kxc2V2YUpzTQ?oc=5"
+      },
+      {
+        "title": "Maria Zacharowa uderza w Kijów i Brukselę. \"Zaskakujące\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNellWRTVjb1RjRnVHdkdoV2ZDNEVybWl1SDhpT0hxT0xTaG1saDlwOHZGQ0VlMlhQT2xtSjV6aXhidmY4MHo4djFNdWE0aG1kZ0xkaUFXZTFBRDByS25yWEIwRVYzZXJEeEI5eEdRXy1JX0pxdGtDVmt6QXRpUE00dS1VdFRFSWhSdDV5X1d3cnQ2LXJ2U1ctcDExbTlfVDFIOW1ScUR5QzlYNzFBV24tcnl1MG4wQVJMQUc0enlxOA?oc=5"
+      },
+      {
+        "title": "Ministerialny \"kordon\" wokół resortu klimatu. Chodzi o program \"Czyste powietrze\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHZ3dzI4VGppTnBwWFprenBmc1ltcHNNcGFkenFFTnVabTdsSDREQkRob19tSFoxQU1ET1luUmY5SklYOXdKam8zRGVaWC1hc1VGLVZRUG4xSHhKLU5zbVRTcGRpNG1uR2oyb1NsVi1VZ2dTOGFoRHM2WjdSbDFhVnk2V3ZEdnJ5ME1IVS02enJZUWNfdk14Y1B1em0yemtZdFJrOWhIWHp0Q2Z3dFZzWnZTNnNSRHJ3dTNn?oc=5"
       }
     ]
   }
