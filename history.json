@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-24 15:07:28",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "Krakow: +6°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.5793,
-      "EUR": 4.2193,
-      "GBP": 4.8323,
-      "CHF": 4.6252,
-      "JPY": 0.022965,
-      "AUD": 2.5283,
-      "CAD": 2.6132,
-      "CNY": 0.5202
-    },
-    "crypto": {
-      "BITCOIN": 225485,
-      "DOGECOIN": 0.325322,
-      "ETHEREUM": 6508.51,
-      "LITECOIN": 181.63,
-      "RIPPLE": 4.76
-    },
-    "indices": {
-      "^WIG20": 3395.35,
-      "^WIG30": 4334.92,
-      "^WIG": 3395.35
-    },
-    "news": [
-      {
-        "title": "Są wyniki prawyborów w Sądzie Najwyższym. Neosędzia nowym Pierwszym Prezesem? - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2ZlUEJDNE00TlhJQmNRYlg3SlZOUk9FY2N6T293RE9zNDFNNFFEQW1wX3FsSk90eU9jRGp6UXNtZ3ppTGxyT2RsWWU2Z2YycHo0REw3YnZYdVFNZTdKbFlkNDBDT3lYNzVOQmxKWDJ5WUJjMXl0dlFORjNaQ3JPSEp5ajdDa2FPS3IyWG9qbElYMjdFbEd3aUlvQldVWm1TbGdSNmxRTU8xY0ZpNFFrNjlLWQ?oc=5"
-      },
-      {
-        "title": "Brutalne zabójstwa seniorek w Warszawie. Michał P. usłyszał zarzuty - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0pnbUdVaVNMbEV4T29nY1ZON0Vwbk1DaVFIN3BURFVhWnhNSGpHZXh0dWV5TkF5MWVRcFdwdldYcEpsSWU1RlFZeGZmd1RZMURIQ3Fyc3dxdkhQcGdXR19LSnpyRXVLSGd1cHkxTkhieGs1WmQwdXJLTFFQZzZLcDJlYWJ0am1RcWNISnpldEpGVXgtbzdxanZnYVIyRjh1YWdMQ0Z6VFAwNlpuWjdJLTBFalBEX1pn?oc=5"
-      },
-      {
-        "title": "Komisja Etyki ukarała Annę Marię Żukowską za wulgarny wpis - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRU9ZNi01RVhlRG5vbXMtbXgycE9xWWpWMWVodGhlYUhvb1VCQUhNN19rRmt5TEFUUlhmd0NYd1c5QTRjX2x6SUNlbjNxTy1BS0ZaazhCa0dmUWFWTDdvSUFCSllaMTk1aGdXTXFndXA0U3BONFRDVG5YWFNJcFY1ZUtCbVBGTDE2TloydXBJcEx6UGFaaEc2QnlIZ1ZKS0ZobXJF?oc=5"
-      },
-      {
-        "title": "Przemysław Czarnek kandydatem na premiera PiS? \"Ciężka praca dla Polski\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSDBFVDgzWkhTUGUwNjB2YjNPam9DWm02ejRjbXFSV1paX3hvZXpGYl9qaE1Ta3UwUjFUdXl1ZWlvVVhLXy1lOFVmSTFaSmF1WGtxRTB0dVlwYVlsREhkQ3FUdnVLeFdCdWgzQUNaczltMkFEbGJyQnVEVHRjWU9iVmY4TERLYUpSWUJLXzJWTzhPbjN6Z0t1cThSS054a1hZMUVLZ0JkaXJfTUppSlc4TlVMdmRnNTNJNTRvYmpDZllUZ0NnSWdJeUNn?oc=5"
-      },
-      {
-        "title": "Kaczyński zdecydował w sprawie Telusa. \"Prezes jest bezwzględny\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3ZfcHZlVGxadnBld0VsNnhUSUExRy1LdkR3ZUxfdnVfZjZEMlBlWXk3UkZmZnF2aFQ3Q3ZTTEFvM2tjVDV1YzE5ZWhnMkFLbEtsMEdwX3VFdTJHdHRIWVhpZjFkVXJWaFE0U2VsSm4zcXlWUk9ZME9EMmhET3RsWVhibTVSRXpBSURRaEx3V0lPbU9DZ2p6VGJQS3JmTE0?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-24 16:51:17",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Cła USA nielegalne. Miliardy dolarów do zwrotu. Jedna firma otrzyma najwięcej - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHBHMmZVV3RtVmdOVkNOQ1hwbUwtZnlsVFNvaUU1UWZpMDVFY2NabDEzbUwxaTdKUVhsNndZZUM5UHNhdjRmSzVfNnVjNElTX18tZFFkX3Y1SmtlcnJNTFh5TXRST3pkX1MtOWtRSTBrcnJmM0lJWGRTSVJJek5LaUlFUE9qRVlIVlFNYTNPOVhaTGtJT3lycGFtQjhxSzJIa3dpbFJrS2gwdlJoX0xKUUM2Z293OUZ1d2dsdjlfZ2RXYnNDcWJ6ek9Ca29McThzMmRWU0dyd0p6TzQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-27 06:47:02",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5792,
+      "EUR": 4.2224,
+      "GBP": 4.8416,
+      "CHF": 4.6245,
+      "JPY": 0.022932,
+      "AUD": 2.5478,
+      "CAD": 2.6171,
+      "CNY": 0.5231
+    },
+    "crypto": {
+      "BITCOIN": 242514,
+      "DOGECOIN": 0.353424,
+      "ETHEREUM": 7313.37,
+      "LITECOIN": 200.3,
+      "RIPPLE": 5.05
+    },
+    "indices": {
+      "^WIG20": 3448.24,
+      "^WIG30": 4404.67,
+      "^WIG": 3448.24
+    },
+    "news": [
+      {
+        "title": "Rozmowy USA-Iran. \"Znaczący postęp\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0kxaVR3RkhHbkljcHdPdkFiek9wOWhzSk5IWURhWlEyeTJnVHhzbkFmdzhSekhVMUFoUEVjeWxZS1NmSy1LODFvQ1pSdUVBNFRsUktOQjVqbk1kaDNNV2xNMUQ4UHhZR1F1MGJLbUlSaExnSUp5VDZpWDd4cGNLaA?oc=5"
+      },
+      {
+        "title": "Już za tydzień nowe przepisy dla kierowców. Łatwiej stracić prawo jazdy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtSVTI0Y0NVTjJiVmNVdk9BdC1sdkNCbzUzS2doSFpIaS1xMUlXVDJZSHJka3JkTnRLZVBsQXRuUXZxdnk4QV8tNVZpYXg2X2xhSGJnWGMwWU5hd2FjNDctZmtiVUthZ2tJUU01NFJaaUJYWHJ6RjJEdTF5OE5DVDk0T2pUdkt3OGFseGRqQnVsSk5HNloxUGJLdW9kWlp6R0JONnlTemtFUWN2X29VSXBFblhJa0tkVEE?oc=5"
+      },
+      {
+        "title": "Cła USA nielegalne. Miliardy dolarów do zwrotu. Jedna firma otrzyma najwięcej - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHBHMmZVV3RtVmdOVkNOQ1hwbUwtZnlsVFNvaUU1UWZpMDVFY2NabDEzbUwxaTdKUVhsNndZZUM5UHNhdjRmSzVfNnVjNElTX18tZFFkX3Y1SmtlcnJNTFh5TXRST3pkX1MtOWtRSTBrcnJmM0lJWGRTSVJJek5LaUlFUE9qRVlIVlFNYTNPOVhaTGtJT3lycGFtQjhxSzJIa3dpbFJrS2gwdlJoX0xKUUM2Z293OUZ1d2dsdjlfZ2RXYnNDcWJ6ek9Ca29McThzMmRWU0dyd0p6TzQ?oc=5"
+      },
+      {
+        "title": "Wielki przewrót w Krakowie? Klich kandydatem na prezydenta? - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXB3YmhPTmtiYkNJN3dlNXRWTkJZd1RQMUZmcElTWUVmUXVmWE5NNXBIY2NfUEc1NVVCemZNMzJfUElwX3BlRGpEYzVocDZfSVcyQ1k0cmU2RnZVOXBrRnhZNUhkakhHaWVDYWh0em5EQmZJRTJacTFwU2IySU05bnVQd3lYbEZKNHcyOVJCRkZsRVVxQ2U3RlBn?oc=5"
+      },
+      {
+        "title": "Nauka to budowanie potencjału Rzeczypospolitej Polskiej - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTZEaFlWN0ZMNFVBYnB6Q3k2MUhXaGl4Zko2SmtEMlRDZ29pMk1fUHZFaC1XMEVnTmZxTzdnUXNsSEZaMDEtaFA2TjdXZkZmRW9aQ1VuYjdvNUwxX1pOWHgwX1ZKZV9tdnpRYUJSN0V2WTF2M1JhelhSREFfa2xqc0sxMk0wVlRZRzZqNFJ1aHI4czFRMmJDam5BNmF4M1Fpa0E3RzZqQ0k0WlM0VFB3NXNEOFdnLXo2eXQ2azV0bw?oc=5"
       }
     ]
   }
