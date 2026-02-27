@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-25 11:43:18",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5793,
-      "EUR": 4.2193,
-      "GBP": 4.8323,
-      "CHF": 4.6252,
-      "JPY": 0.022965,
-      "AUD": 2.5283,
-      "CAD": 2.6132,
-      "CNY": 0.5202
-    },
-    "crypto": {
-      "BITCOIN": 234248,
-      "DOGECOIN": 0.335345,
-      "ETHEREUM": 6854.71,
-      "LITECOIN": 190.33,
-      "RIPPLE": 4.93
-    },
-    "indices": {
-      "^WIG20": 3448.51,
-      "^WIG30": 4401.21,
-      "^WIG": 3448.51
-    },
-    "news": [
-      {
-        "title": "Pociąg w sprawie KRS ruszył. Ale może się wykoleić - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXRSMFZzLXlENll2YklrU3hlUGVMZWZlT096cWY5bGlpeUp0VUxuMWVlaGN1bkI0eDVIcUNvQXVXNG9ON3NZUU1pSFl6LXdvekVVRWRRY0tiQWpHWk9rdFVXQ0Vzek5ISEVqVTl1RUUwODM3VFYwQXJGWHNkQjRBdlZFSWllR1FXYmRFRTAwXzItUWFBb1Nn?oc=5"
-      },
-      {
-        "title": "\"Gotowa do wojny\". Prezydent Nawrocki o konfrontacji z Rosją - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRkTFlGeFNCRzJEbFluNFE0dFNlbjBGUnU5dWd1bXhwNnVyZDIyblVzLUZsNlFNZVd1LWxkVmpDdXJkMEpXMkw0TGZKd3Z0OTFNWmZTVkxyMlRrVHpqTUlvSUZiQWljRVVEVDJEdFJrR2xmeHAzU0V6cU5pZ1NYd1RGc25IMExqUjEzcjZZbnZ5STdvM2VMSHRxWlA?oc=5"
-      },
-      {
-        "title": "Zwrot ws. ultimatum dla Ukrainy? Europejski kraj odpowiada Orbanowi i Fico - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEhKT3Z4ZVM4VHJKTFRFa0VGV1IteV8zODI1UzN4Ym43ZHFCMV92WThEM0F5OFA3M1RxdU5iWW0wQ0ZmRUFNV0g1TnB6V05Ebm5qQzdRbE8xcmFHd000SDc1X3FqQWFQOVlKVWxZMXpsVFNEN1VQaFlldTM2S1VwTmVKVXZJeXVobmh1UEd2Vm00VlhDbTByVk9pT1ozclVnaTJRTmZGRkIzTmtOTDRmeHVKM2Q0M29FelE?oc=5"
-      },
-      {
-        "title": "Niespodziewany gest Trumpa. Tak potraktował Klicha - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUQ4eGprbV9ScUQzbmUtYWxoN3F6Qmd5TjlYcHRaWW50ZUJ0a0F2Z1RjOTl5SkFPUkU3WndOWTJqTXNNd2djVFlZV1pBV29wVVVobjJtbjluNThOVEtERElYdUhVVXlweTdNbVY0VUw4TWhPMzBhLXlVRFZOdlJQVlZWUFhmTi0xSDB5blRmUnNlWFZvWlpr?oc=5"
-      },
-      {
-        "title": "Pomagał kobiecie z wózkiem, teraz walczy o życie. Prokuratura ujawnia - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1FLWXR2NEtqWVhUY21kdS1acHo4aTlyNkR6dV8zajRNaFpwOVpVZGc0Z3IwV0JZNTlBdExFZjZmU0IxbmdIZ0NRaGFGc01HTGZjclFPcGE1Y09vWEdIUGl6bHBpczJVWWtRT1ZNa2xha0NZYkRZZkdyR1YzcWZqZl82aHptZUtxTGs5OW1pQVN6WUxoUnVJeUNRc3FIZUlaeHpGanQ3NFJsOS1BbDJwWUZJdVRmS3VuMmY5NnFxVy1NUQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-25 12:35:47",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Pięć nazwisk trafi do prezydenta. Są kandydaci na I Prezesa Sądu Najwyższego - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa2F3VW54ZHVXczFxWGR2NTcxM28za1k2U0ViYl9uNUVPNUhkd1M3bnJpTUhsVFZmaXIycWFFelp0VWdpaXNwSUtBTUJMOHU2c3V4QXlYUWhVV3Z2MEl3N1d2RzZWcE1BYmdGRk0zTXFMY1JsV2RTbzlOSzdybzl3X0xaYzd5dE54RHZBWmpCcG11d3F2X2NUaDhva0QzSkR4dVh0engwcTJOdVprQzVWR3dOTFc2alhBaldub242NnpUTGlQUkVsbDEzWVd4enNXWGNEdTlrMA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-27 22:22:54",
+    "weather": {
+      "Warsaw": "Warsaw: +5°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 234768,
+      "DOGECOIN": 0.333209,
+      "ETHEREUM": 6902.32,
+      "LITECOIN": 193.75,
+      "RIPPLE": 4.84
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Sikorski zrobił ankietę ws. premiera z PiS. Tego się nie spodziewał - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEFFM1IwTmV3REdDVFIxeE1XcG1WVWxaZk1oaElaV0djUVpiQTgxUUxRN180aUswd0pMYUh1cGZoV1cwb1IzeG1NMEx6ZWw0TVUzMDUtbjNuTWVyUm9ld0dWYThmb3A3bFhGRWZXTkh4NkVOQnJPTFBqdG16amQxR2lxdDUtbGlqbDQ0SkZKXy0wODViejBVVDF1ZWNHMkNTZ3NlcHlfbGlDOHMz?oc=5"
+      },
+      {
+        "title": "Łukasz Żak zaskoczył i nie pojawił się w sądzie. Napisał list. \"Jestem tylko człowiekiem\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2hxX0tYN0ZNdldPT1N0djBJbUhaMTV6anQxUGJrbmM1M2xlZmNHalhld1U1WnBoNWtRMkd1ZXpKOFF0SjdMd2VHTkExYjc3cjJ1UzFwVFhscTRPbmZOMHJMM2tsaWhnclZGWTE3cXkxZFNrdTEzdlRyTTJhZFpQc1FPYmR1SnIxdWJfbUZSbGhueGFOOVNfSElVVy12dUhISzdWX2JJd0w0VXlTVXNaV1JValIzcC1GWnUtd1Q2TjZ5c2NWLXc?oc=5"
+      },
+      {
+        "title": "\"Kaczyński na pewno jest poirytowany\". Odwilż na linii Nawrocki - Sikorski - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHlneEw5SHFLaU1HcF9CNzlmU0VRSzExLTR4bVR1bFEtUGlfLWc5WDE0T2pfeFJwd1JvVUpZUDBPUG50RGpIY0pBTTJwX2VLZEFnUjRZLU1FeUJ0YlFKZUtvUFA3NENMTkFZdWNsblZHYm5ZTjFSbkhNWmZ6X2FrcUl3YWpYSjRsRE1ERVNsUlRUdUdOY2o3NUc3N2ZkTDNsSTE3d0JTOWIzZ0kxc2V2YUpzTQ?oc=5"
+      },
+      {
+        "title": "Donald Tusk widzi spisek. A to krawiec, kucharz i mechanik mogą odwołać prezydenta z KO - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEs5WmZQWThUTWVQQnV6UHdSaWRuWTJoajhEMlhoMm51UW1QOVhWSUVqOHNadWxGTnpYckx0dnROdU9haWVpZnRGN25iNzRSVUNxQllQTXpYWVVtb3Brb1daeUZLV25XM2xnRWRyeG1pVmJ4QkJ1b1dtNUpJWHpGQWpfMi1ESnZmT2FyaE84Z3R3b2N1RkxKNUtPQ0wxRUVhbDR2QlZTSjRIRDdTR2k1eXBSem1XZWdWaC1BRktOY2dHUXB2QmtN?oc=5"
+      },
+      {
+        "title": "Mentzen kontra Czarzasty w Sejmie. \"Towarzyszu, pomożecie?\" - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZJdE1DWFBmSEo0UzlXbW9HaDNCNHB2Rk9tYUNTWlNac2VKSmRMN0xFVDJfTGY1YlQwZkpEbU4tbUZ6UlVycW04X2MyRDBUdFA3UUlCVFFLVm1xSFBpYml4VDR4VDRXZDV2Ykg4QlNFLXg4MUpDV0VKc2NKWnlZQUtJYkdwSnpmTWQ5YjBmOTVYUF9GZ2lfV9IBlAFBVV95cUxNSW0xTE9XNzlCSG9objJuOWxVOEtzLXdkOW9XSVZTZHF2WFVLUXVueEl5ZEszQTdJQ0NXUFdfQ2pkNHdQdDgwN1hUU3dLSFlUUk9ieV9jNnoxVU9WalktTl8yQW9sUFhMMW5vNHZhd1NEeUJWSmRYc3ZCQmQwWnVmSmZTOWwxTFJEbzJacG54VGxWdXJR?oc=5"
       }
     ]
   }
