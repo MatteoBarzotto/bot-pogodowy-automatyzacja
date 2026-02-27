@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-24 16:51:17",
-    "weather": {
-      "Warsaw": "Warsaw: +3°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +1°C"
-    },
-    "rates": {
-      "USD": 3.5793,
-      "EUR": 4.2193,
-      "GBP": 4.8323,
-      "CHF": 4.6252,
-      "JPY": 0.022965,
-      "AUD": 2.5283,
-      "CAD": 2.6132,
-      "CNY": 0.5202
-    },
-    "crypto": {
-      "BITCOIN": 228462,
-      "DOGECOIN": 0.328911,
-      "ETHEREUM": 6600.82,
-      "LITECOIN": 183.82,
-      "RIPPLE": 4.83
-    },
-    "indices": {
-      "^WIG20": 3419.7,
-      "^WIG30": 4367.1,
-      "^WIG": 3419.7
-    },
-    "news": [
-      {
-        "title": "Tak wpadł \"Władca Kogutów\". Miała być romantyczna schadzka, nagle wpadli agenci - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGwtSlpfc0xCRXhQYnpqYWpyUXlWSVZ3TV9pMG5zOS0wYmV6bXd0djI3M1dtRFM3SGxRYkI5TXhNU2JzVHZOd3lnNjB4OWFRTlNpblphTklmSU9zM3FEZl96NVFUcnFtSUlZU0VDc2xLeVZRNVRNLUZQTWR5UHNfTWcxMGNZbC1wOWJvVU84X2xNUm8yck5IZnhURnBzQUVHUDhnR2RSclprcFFTU1RMLWcyNnpkclBabmc?oc=5"
-      },
-      {
-        "title": "Nowa fotografia Donalda Tuska w sieci. \"Nigdy nie powinna być publikowana\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFByUm52VVRLT3RqeklfMTM0b3ZPYXFMMGlyc1ZMWWsyQnFMa0pvN1BqTXV6eW9HUEVac2dKMTJ0aFQ4Wmp5ZHpfS2dTNVZJTDFwdGNmMFNUdzlDQTJmR2U5LW54QWRPRlhiWFdxMDZlQkZnWG5pLVFZOXpBd3JnamtveVBUYkdJOFh0Y1hkOXNJTVlOTjhwaVZDeWU3dG83TFE?oc=5"
-      },
-      {
-        "title": "\"Najbardziej skorumpowany kraj w UE\". Sikorski nie ma wątpliwości - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHdSQnJmcmdYcGZHYUdxWXRRUmc3VjZNdVVPZHYtY050czVTV3gwTVdHeWJkM053cjI4aXE2TFBpSG9kVERGRFBHdE9DODR5SG4tYkVzVERiTzZqMC1BYkxnR0gyMS1HeVI5Skdmbk03ajFmd2Flb005R2JBeDN3cWN5bnl3ZkRleXlhN01hVmVIWU51UnZYRWMwZURudTc2bnZuVGxIRUhrX0N3Um1QZlZfVHg1TGhf?oc=5"
-      },
-      {
-        "title": "Kaczyński zdecydował w sprawie Telusa. \"Prezes jest bezwzględny\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3ZfcHZlVGxadnBld0VsNnhUSUExRy1LdkR3ZUxfdnVfZjZEMlBlWXk3UkZmZnF2aFQ3Q3ZTTEFvM2tjVDV1YzE5ZWhnMkFLbEtsMEdwX3VFdTJHdHRIWVhpZjFkVXJWaFE0U2VsSm4zcXlWUk9ZME9EMmhET3RsWVhibTVSRXpBSURRaEx3V0lPbU9DZ2p6VGJQS3JmTE0?oc=5"
-      },
-      {
-        "title": "Pies i kot w obowiązkowej bazie danych. Rząd zajmie się ustawą - Zielona Interia",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlp1dGdOSXBDTDByZTdfR1g5aElBR0ZsYXhkRXR4eHRCNmQ2bjdzbmRlb0xwTERSNHJ6ekoyQnV6eGJmbE14ZlhVUlhpTTRBN1l3WXJsaVpVNlRiWV9WcXpibnBEVzB4bnMxdWR0dzBaNE80WGNYVFVhRm40bmpvaEdVNmcxRlJReDJMZHgxcUVTdHFlSXZXYTVKazVXb3QwSTV2WHM4cURrNVZzb3RJNjdNN1ZUU1NHd1E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-24 17:59:12",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Nauka to budowanie potencjału Rzeczypospolitej Polskiej - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTZEaFlWN0ZMNFVBYnB6Q3k2MUhXaGl4Zko2SmtEMlRDZ29pMk1fUHZFaC1XMEVnTmZxTzdnUXNsSEZaMDEtaFA2TjdXZkZmRW9aQ1VuYjdvNUwxX1pOWHgwX1ZKZV9tdnpRYUJSN0V2WTF2M1JhelhSREFfa2xqc0sxMk0wVlRZRzZqNFJ1aHI4czFRMmJDam5BNmF4M1Fpa0E3RzZqQ0k0WlM0VFB3NXNEOFdnLXo2eXQ2azV0bw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-27 07:43:38",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5792,
+      "EUR": 4.2224,
+      "GBP": 4.8416,
+      "CHF": 4.6245,
+      "JPY": 0.022932,
+      "AUD": 2.5478,
+      "CAD": 2.6171,
+      "CNY": 0.5231
+    },
+    "crypto": {
+      "BITCOIN": 242432,
+      "DOGECOIN": 0.352612,
+      "ETHEREUM": 7292.26,
+      "LITECOIN": 200.22,
+      "RIPPLE": 5.05
+    },
+    "indices": {
+      "^WIG20": 3448.24,
+      "^WIG30": 4404.67,
+      "^WIG": 3448.24
+    },
+    "news": [
+      {
+        "title": "24-latka obudziła się po operacji bez jajników, macicy i jajowodów. \"Wypatroszył ją jak rzeźnik\" - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjZiTl9Xdm5rQnMtYmhmckFWa2I5OFB5bm1mV1k5TTdkcnpPd085aDBTT2hZT0dTOFRIZUpMdGJkQ2l2ZWllR1ZmVzdvczJBcXhuNktOX3FhSGt3VURxN1lUVVV6Q3czM0d6ZUFEWTdKemFSd3VuTlRMX0Z1LTFJSWNqeTUtVXVGYVdMYnRWa0hOWXpGWk9ZLWJuOGdSb1dOQTZpV3dYMFdhZHpPU2FZd21IYlpFR2ZhYlduanl2NURvdw?oc=5"
+      },
+      {
+        "title": "Kulisy bitwy o KRS. W sprawę zaangażował się Ziobro - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVZ3VW1veEtfSlEtTVJEajRxeDRFOUo2M09GMHBHdFJ2OUZIRE9DYWR6NWJPLXVwcW9ZVzZOVGlBWV9mQXE3bVlYS1NHQnlwd2I1bnBNSmVlem0wTlQydFVyNkxTMnBSSE13OVZrcF9YbjlPUktFNkZzX1VrOHhlNVRFSk9JVVJUZnZHNFV0VWVMQ1pham9JOA?oc=5"
+      },
+      {
+        "title": "Julia uciekła przed wojną. W polsce uczy się życia na nowo. Przez ponad rok była nianią - eDziecko.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdm1CRnU3UUk0MmhKTXA4cGJGSjhqNldRZ3V0a05Ed1g2cXc4cEtqNFJtYmVWSFNjRTVYckpaOFJUYXV5X0tRZDN4d3N5V1F2MzZzcVkyVHU4X0Y5d2owZ2F6MnhST0Z3aE5lUnhrQWNiRjRZRlZQME9LMU1yaS13b1NYQUZNM2dDUldiN2VRM0JLM2ItaE1WbkxfSzZ3VXBFQVBhajhDRlprdm5BeWVZTEdlczFaMldmd2tR?oc=5"
+      },
+      {
+        "title": "Już za tydzień nowe przepisy dla kierowców. Łatwiej stracić prawo jazdy - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtSVTI0Y0NVTjJiVmNVdk9BdC1sdkNCbzUzS2doSFpIaS1xMUlXVDJZSHJka3JkTnRLZVBsQXRuUXZxdnk4QV8tNVZpYXg2X2xhSGJnWGMwWU5hd2FjNDctZmtiVUthZ2tJUU01NFJaaUJYWHJ6RjJEdTF5OE5DVDk0T2pUdkt3OGFseGRqQnVsSk5HNloxUGJLdW9kWlp6R0JONnlTemtFUWN2X29VSXBFblhJa0tkVEE?oc=5"
+      },
+      {
+        "title": "Reprezentant Polski przemówił po awansie Lecha w LK! Wielkie słowa o... Mazurku - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckE5ZDJMYjhZdDVZZU1vU1d5dWlGU093LTB0WWtEUkRrdUZ4ZmQ5N2RLOEZMNTlHZm1lZGpHS0gxc2dGelhPTWFrcEpoa2JwNi1ZeVhBSm94SHlwYy0zQlNUOFhzVFp3VGU4SGktbWtNSjhSLXBoMGMtakNPX1loSE94M2RHaVFTVXlUZmo5cjI3SVh6dkx6a1N0anc2dmlzMDFrVGxqZUQwX2E4dElkdGJaVkxPaFM4a3N2MA?oc=5"
       }
     ]
   }
