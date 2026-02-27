@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-24 20:05:32",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5793,
-      "EUR": 4.2193,
-      "GBP": 4.8323,
-      "CHF": 4.6252,
-      "JPY": 0.022965,
-      "AUD": 2.5283,
-      "CAD": 2.6132,
-      "CNY": 0.5202
-    },
-    "crypto": {
-      "BITCOIN": 230979,
-      "DOGECOIN": 0.329595,
-      "ETHEREUM": 6648.43,
-      "LITECOIN": 185.01,
-      "RIPPLE": 4.87
-    },
-    "indices": {
-      "^WIG20": 3421.01,
-      "^WIG30": 4368.62,
-      "^WIG": 3421.01
-    },
-    "news": [
-      {
-        "title": "Kaczyński zdecydował w sprawie Telusa. \"Prezes jest bezwzględny\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3ZfcHZlVGxadnBld0VsNnhUSUExRy1LdkR3ZUxfdnVfZjZEMlBlWXk3UkZmZnF2aFQ3Q3ZTTEFvM2tjVDV1YzE5ZWhnMkFLbEtsMEdwX3VFdTJHdHRIWVhpZjFkVXJWaFE0U2VsSm4zcXlWUk9ZME9EMmhET3RsWVhibTVSRXpBSURRaEx3V0lPbU9DZ2p6VGJQS3JmTE0?oc=5"
-      },
-      {
-        "title": "Tak wpadł \"Władca Kogutów\". Miała być romantyczna schadzka, nagle wpadli agenci - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGwtSlpfc0xCRXhQYnpqYWpyUXlWSVZ3TV9pMG5zOS0wYmV6bXd0djI3M1dtRFM3SGxRYkI5TXhNU2JzVHZOd3lnNjB4OWFRTlNpblphTklmSU9zM3FEZl96NVFUcnFtSUlZU0VDc2xLeVZRNVRNLUZQTWR5UHNfTWcxMGNZbC1wOWJvVU84X2xNUm8yck5IZnhURnBzQUVHUDhnR2RSclprcFFTU1RMLWcyNnpkclBabmc?oc=5"
-      },
-      {
-        "title": "Chaos na skrzyżowaniach w Łodzi. Awaria paraliżuje miasto, powołano sztab kryzysowy - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdmZnMXJBU0kxYU1VM2JYOEExclVNVk0yQzRYb29CNEloVERxd0ZtU2tWdU11S3hFWVMzWmllNy1wOVAyYVZZcEVYRDMzQjZFYjRGVWRDRFlJdzBTMk1mTHg0T0p2MEl5TmJyZUdQbE5kaFhSOVpqeUJZVmpsa0ZvcF9GMUpWWV9CY1NLMTFlNExxb2NuRWZHMmVzaEZjd1BTQ2QtdFJRaVZTcWlnNlp1WklidFFnMmVJT1BZNXAxYlEyeHREeWRwWA?oc=5"
-      },
-      {
-        "title": "W Kancelarii Prezydenta zniknęły pieniądze. Media: To prawie pół miliona - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEI0M29ZOTdFN1FIQU5idkl1ZDRSN0dlbloyeVhDbTdfZ2ZDUE55X1dobnRFdlJlalVWZjdCWF9PbUZ6bXg0VlN5UXZNbExIbWs2VWVfMnkzQnduYldHYlZvWXVJQUhkSy1GMkJSTk82cjVmUnpZaXhDQ181eTdOQ2Zjekp4NkJIYmZSNkxRMnN3VWNQWGZlRGZmb3UyTHlBWE9CSXNrSU9aN0E?oc=5"
-      },
-      {
-        "title": "Pilne ostrzeżenia III stopnia. Przekroczono stan alarmowy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdW5rS2Mzd2lNaUdIQ0tEd0o0UjY3d0h1V2tnMFNsbjdmQXh4NUVQdkNHaHdxc3FGNzV4c0gxdVQ5VDdWVllDWERzWUF6VW1mTlNaZUhFdWNoSWFOdmU1N2FSeGhuVnRZeUZRV3lJRWdEdHdyaWQ1cVVEbzd6VzA1RHBwS3lWeXNNNHNsU2JTTVpyOVNmVXJSbEM5SWJoS0Ra?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-24 21:27:37",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "To dlatego tak mało jest polityków PiS w TVP Info. Jest oświadczenie - Wiadomości Onet",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmZnLVJKMkNvZnlsbUtZZFhNYXN3QjFPcEdaaV9VeHVXRlJQaTBWUXY5RnVTeFlCcGR6akVJRlBUWW9hdnNsUTRpMHpTSVdpOXlUbkZvSmdxVG1oS2k5VTZaamZvUF9oMWU4eU9Kd2FyLUpjZzF1cEVPbmhDSHBWeWZxSVZraWhsblNkbHJkM3d0cDF0VUpPbENiZ1MyWmFxUzV3TDhTVnhCc19RZEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-27 10:34:27",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5792,
+      "EUR": 4.2224,
+      "GBP": 4.8416,
+      "CHF": 4.6245,
+      "JPY": 0.022932,
+      "AUD": 2.5478,
+      "CAD": 2.6171,
+      "CNY": 0.5231
+    },
+    "crypto": {
+      "BITCOIN": 243230,
+      "DOGECOIN": 0.351072,
+      "ETHEREUM": 7290.48,
+      "LITECOIN": 200.36,
+      "RIPPLE": 5.09
+    },
+    "indices": {
+      "^WIG20": 3450.49,
+      "^WIG30": 4413.18,
+      "^WIG": 3450.49
+    },
+    "news": [
+      {
+        "title": "Czarzasty nie ma wątpliwości. Mówi, co Nawrocki zrobi z SAFE - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk1YSnpVNGNKUU9tRFBFVFhTdFM0YW51aE04ZDREeGJyOFRVclIwdUJYcHFUalE1QXI5TGN5MzlZRUladVJDVTE2Skk3ZUh0aFVaXzBiNjZHci1EanA1em0yU1NJNldLMUd6SVlZaWhjbWs5WnRESkp4eGREVTltTkxNbGZOMnFkd2s4U0pTd2t0cFNMdjRwUFNycTJiaXZtcG8w?oc=5"
+      },
+      {
+        "title": "Nie tylko przesmyk suwalski. Generał wskazał dwa kluczowe punkty - o2",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzhzWTlYclJnb2ZoSjRvd0I0LXl0aWVWQnN0OFNBZEVRXzVDcVBCWXhYcjRydVlIUHV2ZGI2QTdtVFVRNGdsNk50LWlJTUF1Rmg3b3Z3MmREeDJsN1pSYmJCT1dUZjlaRzdtZlFhbnlPYnZXc3VtbzgyM3psTWFmTkZaSHZGSVQ5bHZLNHFYdEZrejdBS04zbjJrVjZpeE04N0w1clJSTmZwcjd3ZGVv?oc=5"
+      },
+      {
+        "title": "Rozpad Polski 2050 rozbije koalicję? Jest najnowszy sondaż - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN09hdFRteXJBZ0JvUkt3MmF4ZHU1Z2FiSWVSSTUyaTlXV0tnSmxZaXp4RWtGcldDQ0w1a1NKZTVOenhtN3pQdkFLVFR1dHJDd01rSE5ydWxxWXY2SVJnSW1RYlRBTEFmcEdxNDB5TVJLbThiY3owTlhrY3lVX3MwWUxoMzFhdldIT1EyX3BJQ1hzWmo0V2ZBdkI0Q3I1MkNPY2c?oc=5"
+      },
+      {
+        "title": "USA wyznaczają 10 mln dol. nagrody. Na celowniku bracia z kartelu Sinaloa - o2",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWNyX3A4blBqXzU3X0NPdGVYb085ckJ2MU95c0RlVlJoczdHOU81ZG8yYU9FbkZEZUI1MWJvcEZObC1jX3ZfMnNTblN3SU0xakUyQmlHYzBhRGVDNllmcHlEU2pYUDFrVHpCZDNRMWk3ajdmY21tMW45Sm52Q1NEYm13TzF5UGJjVzRmelNxSUM2eERIdGpFVWxRUU5Fb2hhQWJ2cVZOTWtmT255RTRZenZFX2dkSldvRGc?oc=5"
+      },
+      {
+        "title": "Z poznańskiego zoo zniknął dziki kot. Wiadomo, gdzie był. \"Wreszcie oddychamy\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWRiNmllb1V4WHN3c1gyZGpWWEljNGVZdktreTNyTXFzT1h0d1FtY0xRNHIyWVRKdjVuRExZcHBMcHM5dmNZQlB0MEZjY3BaWGJCTjFrN0hRTFQ0dG5FV3NnVlpTa0ZTTWo1dHN1Y1E4WHlEUnFNckVqQ1NaTVVXLWV4Zm1KUE1PSzRoOUNVaFlFRlpHMlNRRlljS3NMQ0lSaEdhZVRMOFE4bF8xVTZaVDF5a2liN25pSlcybmJUbnQ?oc=5"
       }
     ]
   }
