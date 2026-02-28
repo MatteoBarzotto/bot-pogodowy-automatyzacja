@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-26 09:38:44",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2183,
-      "GBP": 4.8375,
-      "CHF": 4.6225,
-      "JPY": 0.022857,
-      "AUD": 2.5359,
-      "CAD": 2.6136,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 243368,
-      "DOGECOIN": 0.356959,
-      "ETHEREUM": 7322.7,
-      "LITECOIN": 200.96,
-      "RIPPLE": 5.14
-    },
-    "indices": {
-      "^WIG20": 3468.73,
-      "^WIG30": 4430.05,
-      "^WIG": 3468.73
-    },
-    "news": [
-      {
-        "title": "Sondaż zaufania. Ścisk na szczycie, maleje przewaga Nawrockiego - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWtOM1hrRndaMDZybVl3d2FhODF3VUJqb1BMTjRmM3hONkp2TUx6Q2QwWWRXc1ZoUG1qNm9MOUR5YjFVWlBIMF9fdlRXWVlTREVUQTJMTk8ydUhyR0k5ZWU1a3dnZjdSZ3N1T2pVbWMyaUtodkU3cnRCTUJzVXZRd2pCZnJ0Y3lkWGhMOGR2YmdTaXRwSzJISWczNXhOdy14MWNuejdwSQ?oc=5"
-      },
-      {
-        "title": "Kubańczycy ostrzelali amerykańską łódź. Nie żyją cztery osoby - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWRJT2ZFaG1NdzlsUlBDRlgzUkZ0MzZZVUhldWN5d0l1aXdsWXpsOGgwUVU1ZXVvSkhIOWhmc3ZpZzBZel9EUW9lSExlbEJacUgwcUs3ZjN3NUFyejd1dUQ2aDFScGIxSWZUcjlmYXJ2ZlEtR3FGTVRGeXowd21YM1c5S2J3bHkzQzJBR2RZVjBmdGM1NHFxSUxzTjVYS1dMakhR?oc=5"
-      },
-      {
-        "title": "Media: Rozmowa Donalda Trumpa z prezydentem Ukrainy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUU0eXpyNTFvYzIzb3phLWkxakl2V3pjNEhJYy1rbXlHdUFSZTkwcGMxSDBmcmpQZWRZX29CVG9FMzlOeTJ6QS0yRlV4TjNieEk0ajdCci1YdGR0dHotcEJ2aTZYOV9jUlozd3FnSHhjOXRPSGI2QnN5UzgzWjVXbllNTHRqZ2VTeGhYeEdQZWl1M09ndGg4Tw?oc=5"
-      },
-      {
-        "title": "Kim Dzon Un puszcza oko do USA. \"Możemy się dogadać\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXFYOW01VkpnYlQ3ai1IMU1VZi1qS2pCb1BSQlZzc2hiRFpsZzR2RnAxWEdjdGcySThxTGNLVTh1eWRpTmRNTkp1R1FHZjZZN1ZVS3hnYjZvWU04a0JOTUtUSGtaODg3SHZZM091Sng0endNWGRYRF9DLTVoT3V1Zk1sUjJsVU85aG1hbWpMQWQwUzE5Mi1NeXRjUVB5QQ?oc=5"
-      },
-      {
-        "title": "Koniec z przepisami faworyzującymi prokuratorów. Nadchodzi rewolucja w procedurze karnej - Rzeczpospolita",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVlWV0xJSk9ULTU2SC15Ym9SNXZnOWNYYXhrRU5hRW4yUG9LcFZZSjJSUHRXNEFXMk9lUWlRX0lqaVFHQUJmNkZ0V2c0N3J6TjV2bmVnQkdod2hkWVdYQnJuVjNReGdvR2dBLXBXTW5NV3hublUzemNYSVQwNWR1a3h2WEhqeWx3N19ONV81VlhTRlRyMGZ4aHlMbjBTd3VmM3ExSjN2MXI3Ty00MVhPd3FTc25kbWMzcThF?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-26 10:41:58",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Donald Trump chce przejąć ten kraj. Pomysł zaskakuje - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU19sSFRocC1GZll4UGZpRUhMUTg3WGIzSnJnd1NJSkYxZTBPN3h3Vy1ENU9JQW5hNkxfSHNfSXhSNS1yYWQ5MVJYTmFVMHJteWs4eTF2RnFYNlpKMjhZVldZY3JnX05nTEswWG1VOHlwbU0wemh3eHUxTzBnN1pra1otbmRnM1h3N2NnX0YtcEN3Ul9Fa1hTUjlFa3daU0Z0QUR6ZjVLbURNakRNMGhCV1UxaEo3R0VuajRfaVZn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-28 17:19:09",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 231643,
+      "DOGECOIN": 0.324105,
+      "ETHEREUM": 6779.95,
+      "LITECOIN": 187.74,
+      "RIPPLE": 4.74
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "USA i Izrael zaatakowały Iran. \"Ryczący lew\" i \"Epicka furia\" [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80Z1ByS1Bwdlplc2t2WjZlYTdiUTJPV3NPU3M1Vjg0ZnBXaGNzbk9OWHVUc2N5VkNNWl9iREtualBlaWFEQ2VHaFd3Sk54S3lsVV9YTmxpSE1HT04yOUlDR3lVWVhkTkNuOVE?oc=5"
+      },
+      {
+        "title": "Podwójne zabójstwo w Kadłubie. 17-letni Łukasz G. nagrał oświadczenie. Kryminolog komentuje - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVFOR1RxR3lGUjVmdFRBVllnNjhVUUh5MDdiUjdTb0VxSDZYUHB1d2hueUk1U2NIb2RydktmNEJidnAzek5MX1lfX3RLVTBBelJsWFBFOG05TWVPNC1NLUJOc3ZHZkEtdzktVXRnd2I4UE90MkdiR3I0MVNmMDJiYkk4WDViMDlaU3BxcmpZSTFnY3ExOEc2RHVyaGdzaUpZMXFOSGZBaV8xYzc3ZWd1RzhEMEwzM0hU?oc=5"
+      },
+      {
+        "title": "Choroby rzadkie to problem nawet 3 mln Polaków. Na diagnozę czekają średnio 4 lata - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFqZXhjcXZENWNmQlJwOV8zQnhRcnBDVURfcGt4TXgyN3NMWDhva0dqOTBXZnRkUGprTktsc0FSR3djSFlWanVfZENpMVJveVhHLUx1ZzdqMWFHVkVIcmhqa0djWDlDa0VGel9rX2N6alVrRGltcGxvYzZCZW5TRWRDS2pNS05BdDN4N0pnSFREQ0ktazI1VDZjdGx1a2Q4UGlwVDZVTGR4dllZSnliNDV5SUxNdG1aSFhIbHE1elgyeEhBS3NR?oc=5"
+      },
+      {
+        "title": "\"Wyjdziemy na ulicę, żeby odzyskać nasz dom\". Iranka odpowiada na apel Trumpa. \"Zbieżne interesy\" - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3F0ZEF0Q2xrUWVhLWRscFZNVjF6T000c1lIOWt4QlcxdG42VXJmazVNMEpCMmwxanFDc09va01aYk1mdHhibHVsR3NCcHhhN0NLYy1QdEpfSnQyVF9PTXl6NG56U0dORHJpa2ZnRlowNkdzLXdxUGRQUGFkMGNsQ1NBejlhY2VuWUI0dzllSGc1OWJtUUpRVmNIU3ZkSG9mb1VnWWkyLUhGREE?oc=5"
+      },
+      {
+        "title": "Odłamki irańskiej rakiety spadły na obszar mieszkalny. Tragedia w Abu Zabi - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUZrVWJBUGg0Zlo4MEQ2OEMwU2ZtMUx2eUhibENEM2lMRXhhQVYxbHVlRWRkbWNnenE3S0l3X3NIaW41SVZaeXlra3NHZXZVU2w4YXZVYXFkSU9CQ2twMmc3VzJnQ0h6bk1SajJwWUZYQXJrZjNnUS1paXNNVTJTVHMwcmo0TENMc3JFVTE4MERPNi1DTVQ4SXlnNEw3V2tUU2J5VmZkNTJsa19OQVdVZjZTM3F0dzQ?oc=5"
       }
     ]
   }
