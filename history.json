@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-26 00:22:57",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2183,
-      "GBP": 4.8375,
-      "CHF": 4.6225,
-      "JPY": 0.022857,
-      "AUD": 2.5359,
-      "CAD": 2.6136,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 243850,
-      "DOGECOIN": 0.365334,
-      "ETHEREUM": 7384.66,
-      "LITECOIN": 203.54,
-      "RIPPLE": 5.16
-    },
-    "indices": {
-      "^WIG20": 3480.47,
-      "^WIG30": 4438.79,
-      "^WIG": 3480.47
-    },
-    "news": [
-      {
-        "title": "Tragedia w Tatrach Wysokich. Zeszła lawina, nie żyje dwóch mężczyzn - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW11YW1KMHkxUUFkT093MFl4RFZlMFY4M1dPNjNwMXY3VjBWc08tQmwzRWxRU0NsMjZQdERZYXRtcjFNM1gxZGpJdmxGSUNWOUx0UHc2WWhzZlA0NkJCZUhVWkI5SzZpb0FfNG1UNHlSQVE3SmxhMlJxRDB3dzlROTdLMlRXNFJ6RDBHdXRHN2dxNXVYSmZYQmpMWmVoaDNhSDh2LTZzWnozWTQ?oc=5"
-      },
-      {
-        "title": "Exposé Sikorskiego. Znamy pierwsze szczegóły szykowanego wystąpienia - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkNtNjV1VHEwek9CRm5xeEVGT294dm94Zy00UWw2LXdTcUhTYVdST0lndk5qU19yMm0xMngwWUlCbUNoNkNVUVVxV0JrWWFEMGRxTEl3X3Nac2xOVkdDMlVVaGprMkY4MnFHdV9uZjZnZFd6aG9DTjhxbzJLQndrZDM2dWpFRFNSenVFU0tic1RnNHhDajk1YkN4ZEh5S2RYRlZtT0ZRQkl3MWdNYjBJ?oc=5"
-      },
-      {
-        "title": "\"Jesteśmy w europejskiej elicie\". Premier chwali się sukcesem Polski - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDRaeXhsSjR2REtDUVpUb0MzbjdIekJ2VVlSTV9fN3ZIWkRzZkNhX2EyV1RUbllIZkJLM2VnMzVkSXhBTzZxZ3FtOU56X1VWdmJYS3NONG9GVnhDMURxeDNhRHhZa3d6WkkwNE1NdFkxV1pVbUtLZDYtcmd4a3d2LU1HRm16SC1KZmZwaVlJWlBERnF1SHdaTXBCRzRvRzhTYklfU2o5c3NwbElVUFZWZmdBSW5MYmZsV1I4LQ?oc=5"
-      },
-      {
-        "title": "Lech Wałęsa nie gryzie się w język. Mówi o Donaldzie Trumpie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ3NfXzNTaTh1UXJWck9BTjItSzRDUWpwSjBDMFRVT0hyZFMzNi1VRl9fLXcxY2ZVMTJJUmVoSzBQeEJMaVJOYnVOUFNTdHFIQlV1Z2V3ekQ1YXVObWktZXJwR2t5NGJ0MUF0TVMtYlNKb2w2TVF3S3BOR0ZHQm5vZzlJQ1NDVjBpVm9HU0VlaUp2MG5ST05RZTJCcW9OVVZPMWlBYjJkMnA5Vmh0UE5IUm82Sjk5Vm9Ca2FPN1FKcw?oc=5"
-      },
-      {
-        "title": "Media: Rozmowa Donalda Trumpa z prezydentem Ukrainy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUU0eXpyNTFvYzIzb3phLWkxakl2V3pjNEhJYy1rbXlHdUFSZTkwcGMxSDBmcmpQZWRZX29CVG9FMzlOeTJ6QS0yRlV4TjNieEk0ajdCci1YdGR0dHotcEJ2aTZYOV9jUlozd3FnSHhjOXRPSGI2QnN5UzgzWjVXbllNTHRqZ2VTeGhYeEdQZWl1M09ndGg4Tw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-26 02:27:27",
     "weather": {
       "Warsaw": "",
@@ -2590,6 +2538,58 @@
       {
         "title": "Zmiany dla kierowców już od 3 marca. To trzeba wiedzieć - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURKUWNTd3luV2Y4MWUxbWN4em9xTzhoOFJwMWgtUTZpeVlkWWRiRHMwQXk1ODBWTTlqVGQtQ056by0yNGZmRGxxOW1MVkZ6X3lLSGpxbDNLVV9VVTJkUUM2M0s4RGFJb2s1VVdydUxjVWg0WFBFWVJWSDUwV09XRkg0WkJrYTVfNG44QlZzZXR0TExpRHBSelIyVy1aMkxmNmlBV0tOblYwN1dLd0E?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-28 11:17:00",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 227222,
+      "DOGECOIN": 0.314372,
+      "ETHEREUM": 6621.02,
+      "LITECOIN": 184.36,
+      "RIPPLE": 4.55
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "\"Przyspieszyły przygotowania do wojny\". Trump zapowiada \"wielką decyzję\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanBmQmJwN0dmQnN2OUQxY3g4bC1zTmRlWU5TYnBHV3F2bUxnNHVQN1gycE9BeE5lMDFTWXJQMjFfLTVUbzZKa3FVS3pTNWZGZkc3aU01T0hYSEZCa1dUQXF4UHh1ZWFGejc5OUdQRjR0dGREcWowamg0UWYycWZITGM3b2hUTFlFT21sbjZqV0pIQUt2U1ZiYnI1M29uV0ZNRGQxbld4MFo3UVFTT1cyTFZfNVVPdjZM?oc=5"
+      },
+      {
+        "title": "Choroby rzadkie to problem nawet 3 mln Polaków. Na diagnozę czekają średnio 4 lata - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFqZXhjcXZENWNmQlJwOV8zQnhRcnBDVURfcGt4TXgyN3NMWDhva0dqOTBXZnRkUGprTktsc0FSR3djSFlWanVfZENpMVJveVhHLUx1ZzdqMWFHVkVIcmhqa0djWDlDa0VGel9rX2N6alVrRGltcGxvYzZCZW5TRWRDS2pNS05BdDN4N0pnSFREQ0ktazI1VDZjdGx1a2Q4UGlwVDZVTGR4dllZSnliNDV5SUxNdG1aSFhIbHE1elgyeEhBS3NR?oc=5"
+      },
+      {
+        "title": "\"Polska przestała być biednym kuzynem\". Dr Skóra: W Berlinie odetchnęli z ulgą, ale historia wciąż \"haczy\" - Wiadomości z kraju i ze świata - Dziennik.pl",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZWRLUUZxTUdHb0VSUlBEdEkzdVRXLWxzbFZ6U3lUMllqeG1RZ244cjYxZWRVZGlpc2dBbHNtOHhxeHVKRzhKaWVBZjVLTlZnRVMtTVA3X21lNzY0MTRTNjFwVGFFRGNRV3ViMzg0bHFvcWNNcmFHd251dld4cFpUQ0ZHd09RQlN0SnpscXB0ZlU3WHZ5ejU2c3FqZnVaeUpyVXhkdVhoV0ZYQWZkbG5CSXpyMnNqU1M4ZDJTYXJLekFEblFVMkptRHJOSmdfUHFtelJEWXA3SU9xODhSTEszZFZsNjh3bG51bGJfMnE3cWxaOWUxQ2NUNk5faw?oc=5"
+      },
+      {
+        "title": "Sejm przyjął uchwałę o KRS. Awantura, groźby i \"cymbałki bezprawia\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2k1OUZITGFVS0NuWHZtMm84UUhYV3FMSXBtMHB0TktKTDZIb1RXcnVCaXh5RG53M3FaU2RLMEhNeWhfd3oyWHlUSDRxT01qeWNIbWRIUjBPQ05haFdpMG5IOEx6Z1B6V1pHMlQzejlnVzNSemk5ZTlLWUFvZ0hhOUVkS3hSamI1UnY3NjlEb2g5MGRJS2FWbUlHVXhvN1FZX1YtRkdaOFBZQQ?oc=5"
+      },
+      {
+        "title": "\"Bałam się go. Wyzywał i groził nożem”. Przerażająca relacja na procesie Łukasza Żaka - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUhLcG5TY0hTV0I0LXRicVM2MVFFejdzWGllQUsyS0xvbmQ0Vi1LUngyamh3NHEwMHNDbk4yemY2dUdURWZHNVBnSG5fQ05QYkZmckJuY0hnM0x6czZNT0NLcXZwekV3UXVYdWpEVFJnTEM1N09QQkhVc0F0ZjN3NmlDVWU0RHRaRWItS3lKeEFyNEFhY1picHJwdlg5WWpmWTE0bWNIU1lxcDNMVl9YQVVnLW1aNVU1SDRKVjVhYTA?oc=5"
       }
     ]
   }
