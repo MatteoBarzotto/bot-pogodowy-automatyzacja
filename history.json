@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-25 19:56:52",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": ""
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2183,
-      "GBP": 4.8375,
-      "CHF": 4.6225,
-      "JPY": 0.022857,
-      "AUD": 2.5359,
-      "CAD": 2.6136,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 247674,
-      "DOGECOIN": 0.370542,
-      "ETHEREUM": 7406.48,
-      "LITECOIN": 208.35,
-      "RIPPLE": 5.26
-    },
-    "indices": {
-      "^WIG20": 3480.47,
-      "^WIG30": 4438.79,
-      "^WIG": 3480.47
-    },
-    "news": [
-      {
-        "title": "Tusk przekazał premier Islandii drobny prezent. Od razu skomentowała - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjllLTZfY3F1akpFbF9rWHpfLXp1RkstcjVfTXRBRmlqbVp4OU5yWnNqN2EtQUhPSVFNUXdvUHRENjBmVFk5QnhoTU8xdWlhSGlfRlhkU3lPQ01jQWtaVlo0MGtaTXFvTmxkNldyWGVpNWNQZzZzdWYzcmVBYzBYUTJFSjltZ1RVVDg2cENWYTZZV3U2U0VlQW1wY01BT3JOY0lzR3NpYkRJWHptREtF?oc=5"
-      },
-      {
-        "title": "Najdroższy myśliwiec w historii USA przerzucony w pobliże Iranu - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDJNbk1lWEFuUm50czdDcWVpZUtXZlcxR25VRV9ObHlBd3hfblFmUXNsX25JTE1kdlJYcW9BTkZ5eVJBSnBzb1J4Y04tZ2d2c09GLXAwYm9YSEE0NG1QNUh0dHA4WDQ5OUdqNndKY3hfVTRUTmhkMFlid2lORnZYdW51V1BqT0o4cFRJbTF0VVRaYTFCdUlpMFVBSHh4WndvMVA4cDhHWXNyQQ?oc=5"
-      },
-      {
-        "title": "Interwencja policji i straży w Siemianowicach Śląskich. Znaleziono trzy ciała - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFJIUVBWWWl2YWhvUXdyMmU1N21wYU50RWZoWDR4R0tpYnZhUzJua3dGWnNSNXExZTJMWTBseE1vZEpOb0wtTnROalNKTTlvNVBxSTgtWGxWTzgzWVNzNDBUaGhUVDZWNVYzODZ3bG9DdmhUODY5eDFpVEpNQXVsM3hvX2ZTOWhYazJSNVlkRkgzZXFXQmpBQ1FOclZ2T01rRjZkR1BYTUUyRWx3NzhFeGs5b0xOS0t2dWc?oc=5"
-      },
-      {
-        "title": "Ukraiński żołnierz ujawnia problemy w armii. \"Łamią ludzi na froncie szybciej niż wróg\" - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXVwaXpFMVpWaTFXaXgyNEx4MGFvSmtJa2plNmVmNkI4cUJrdmE3R0VQdnM1UjNwZlBydTRKcmJWODF1ZG04SWludzUyd3RjbGdrNExoN1g1NkVvLUtUMk5ta29kbEtwdllnRG1IazdZbklsS0RNUTE3OEpfdmtma0VUelVYaTdSOVhsWEx0ZTBXbVU3dkYyVkMzR3hOTTRVV0xzZzUzMkU5cnNQQ3NMVFZVWFJtMFk?oc=5"
-      },
-      {
-        "title": "\"Liczę na szybki podpis\". Tusk zwraca się wprost do prezydenta - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTdmVDE4ZUJPOHIzYVFNeE9NbEQzdTY1VEkwVkVEdGFoX1YzNnAwUnJ3eE1mNUxRN1JBSW5FeXRnM2tzbVV2NXlBT3F2WWdOOFNPTUpYel9aNDNFS3R5cjFTWmNMdDJ3QUU4dHhtNFBJTTRTcG81akRLdjlZZS1kN3NvbWRZVWRVdVdjV0VDOGEyTVRsVjB5SGtXSnZ5SFFRdmFoaQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-25 20:47:58",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Maria Zacharowa uderza w Kijów i Brukselę. \"Zaskakujące\" - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNellWRTVjb1RjRnVHdkdoV2ZDNEVybWl1SDhpT0hxT0xTaG1saDlwOHZGQ0VlMlhQT2xtSjV6aXhidmY4MHo4djFNdWE0aG1kZ0xkaUFXZTFBRDByS25yWEIwRVYzZXJEeEI5eEdRXy1JX0pxdGtDVmt6QXRpUE00dS1VdFRFSWhSdDV5X1d3cnQ2LXJ2U1ctcDExbTlfVDFIOW1ScUR5QzlYNzFBV24tcnl1MG4wQVJMQUc0enlxOA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-28 06:28:51",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 234727,
+      "DOGECOIN": 0.332486,
+      "ETHEREUM": 6878.61,
+      "LITECOIN": 195.45,
+      "RIPPLE": 4.84
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Okaleczył Marcysia. 21-latek trafił do aresztu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXdsSjd5OFk1LXdLckJnaTBzNFF3WmhZWkdkMk4waHQySFdzS0dVZWhhVkt6d1UycHIzZlJqdWM2a3dERUc1bUlRdERJemh3eHYwNUR2LTFEN01NTWNOZy1PTXVUNF9VLXJRaS11SGVOc3JKOVQtbHFCa2JJTUNFczlzMnhId1dkYmR4VXhiTUtQeGdEOHlsLXpiOA?oc=5"
+      },
+      {
+        "title": "Zmiany dla kierowców już od 3 marca. To trzeba wiedzieć - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURKUWNTd3luV2Y4MWUxbWN4em9xTzhoOFJwMWgtUTZpeVlkWWRiRHMwQXk1ODBWTTlqVGQtQ056by0yNGZmRGxxOW1MVkZ6X3lLSGpxbDNLVV9VVTJkUUM2M0s4RGFJb2s1VVdydUxjVWg0WFBFWVJWSDUwV09XRkg0WkJrYTVfNG44QlZzZXR0TExpRHBSelIyVy1aMkxmNmlBV0tOblYwN1dLd0E?oc=5"
+      },
+      {
+        "title": "\"Kaczyński na pewno jest poirytowany\". Odwilż na linii Nawrocki - Sikorski - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHlneEw5SHFLaU1HcF9CNzlmU0VRSzExLTR4bVR1bFEtUGlfLWc5WDE0T2pfeFJwd1JvVUpZUDBPUG50RGpIY0pBTTJwX2VLZEFnUjRZLU1FeUJ0YlFKZUtvUFA3NENMTkFZdWNsblZHYm5ZTjFSbkhNWmZ6X2FrcUl3YWpYSjRsRE1ERVNsUlRUdUdOY2o3NUc3N2ZkTDNsSTE3d0JTOWIzZ0kxc2V2YUpzTQ?oc=5"
+      },
+      {
+        "title": "Maria Zacharowa uderza w Kijów i Brukselę. \"Zaskakujące\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNellWRTVjb1RjRnVHdkdoV2ZDNEVybWl1SDhpT0hxT0xTaG1saDlwOHZGQ0VlMlhQT2xtSjV6aXhidmY4MHo4djFNdWE0aG1kZ0xkaUFXZTFBRDByS25yWEIwRVYzZXJEeEI5eEdRXy1JX0pxdGtDVmt6QXRpUE00dS1VdFRFSWhSdDV5X1d3cnQ2LXJ2U1ctcDExbTlfVDFIOW1ScUR5QzlYNzFBV24tcnl1MG4wQVJMQUc0enlxOA?oc=5"
+      },
+      {
+        "title": "Sejm zdecydował w sprawie uchwały wyrażającej solidarność z Ukrainą. Tak głosowali posłowie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVd3c0dTb2E3OTZWUExsZHQwdjNteW9yQzRXSHpTNDFxV3BTS2xRSDlxMlJjTVhSQlppX0s0T01wRF9vTmk3M2s0TkNhUzZranUwYW5xTzVCTUlaVzM3ZE5vWGNkTjBJNUNOcmlJVDFHYk9kZThuN0QzUjUyNFR5MEsySERKWXdBWlJTTndjd3ZYTnRlWmNnUkNZV19UaWp2WGoyaVFval9GVXF5aS1kakdWSDR0ZGgxb0N1eDY4NG5nMHVhWEVuSUZ3?oc=5"
       }
     ]
   }
