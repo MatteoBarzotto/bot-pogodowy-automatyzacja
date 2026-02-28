@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-26 15:05:50",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5792,
-      "EUR": 4.2224,
-      "GBP": 4.8416,
-      "CHF": 4.6245,
-      "JPY": 0.022932,
-      "AUD": 2.5478,
-      "CAD": 2.6171,
-      "CNY": 0.5231
-    },
-    "crypto": {
-      "BITCOIN": 242681,
-      "DOGECOIN": 0.3538,
-      "ETHEREUM": 7381.7,
-      "LITECOIN": 200.77,
-      "RIPPLE": 5.14
-    },
-    "indices": {
-      "^WIG20": 3462.35,
-      "^WIG30": 4423.81,
-      "^WIG": 3462.35
-    },
-    "news": [
-      {
-        "title": "Niespodziewany powrót Klicha? Partie szykują się na możliwy przewrót w Krakowie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjVjMTEwR09PQjNHNU1ielUtSzg2eHk5Um1zQkp4d2ZQYUJRMW5PZjB2VTFCREkwTjduTGNlOTI4MjBRaDlZN0VkS2hyYUVaMWhjY3IzcmlJcUFqZFpqd2RjbWROdEw4NWFMdHhRZUpucnVQVEVpVlA5RHh0dDdCWU84cUlvSkd6d1Vlb25rZE0wbkgtanpOUFJLeWJqajN1ck9tYUpaSURiWFdLQUtSSEtIclRDVnNkczRIOFZjZ0hJcTVEU3JB?oc=5"
-      },
-      {
-        "title": "Cła USA nielegalne. Miliardy dolarów do zwrotu. Jedna firma otrzyma najwięcej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHBHMmZVV3RtVmdOVkNOQ1hwbUwtZnlsVFNvaUU1UWZpMDVFY2NabDEzbUwxaTdKUVhsNndZZUM5UHNhdjRmSzVfNnVjNElTX18tZFFkX3Y1SmtlcnJNTFh5TXRST3pkX1MtOWtRSTBrcnJmM0lJWGRTSVJJek5LaUlFUE9qRVlIVlFNYTNPOVhaTGtJT3lycGFtQjhxSzJIa3dpbFJrS2gwdlJoX0xKUUM2Z293OUZ1d2dsdjlfZ2RXYnNDcWJ6ek9Ca29McThzMmRWU0dyd0p6TzQ?oc=5"
-      },
-      {
-        "title": "CBŚP uderzyło w \"mafię śmieciową\". Wśród zatrzymanych były burmistrz - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1dwai1vU3N3bno3ekg0Vkd6SFRaUXRwTVVBUzUyRmozUEJORHVKZlljb0ZjRVdkUl9Xbk9WYVNyNGhyZzF3T1pEVHpHamVaem9qUm15OEdxMHF5aTd1cjlESnYyZ2wzd2J5UWpwVlRKbkZNRmFyNFBtZ05MeFBrZXU3NTNySzhMSDgzaU13MUZNWUh0bVljaS1jbEZhYTMtcEJ3VVl6ZnZDRXdsWW5EeFV6OA?oc=5"
-      },
-      {
-        "title": "Plan B po wecie i plan B na prezydenta. Minister Żurek przyspiesza - Wiadomości z kraju i ze świata - Dziennik.pl",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVJRcGdZUlFZYW1HOUhveVhqSjNuRU5RdldTX2hTZFVsVlIzcmxwX1ctMWdjNjVGWEZqMTBDTmdUdE1DdDRXZWI2UzZKd1Fzb3hnbllVNEkzc3hCSkZ2TWItOUwyZHMxbDllX0oyNXNhc1VHNElQLWdqVWVnMWI0UUsxYkdnbEV5bVltUlJHRExybFVrdUo1dlpocjNvd0haMk5iRlI3RGFFR0JYX2NQbThfTjdqYkpPZEcycFkxR3RwaGFLR1RCeV9B?oc=5"
-      },
-      {
-        "title": "\"Ziobro może spać spokojnie\". Sawicki nie ma wątpliwości - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMC0xUWJ0emdNdk9zaDNfSDJDeXlrVEpJaDVQNXZZeUdpd1NZeDBlbS1FeGxtZTR1Ml9BZ05XUjZQYWkwSnI1eG1jVjFtRjhvYklWMmZIYXg0LW1idzNOWFRnV2dWalpEZFlSM0NUM0RMWVZsYkZiTzkxQWlfamhvbFJGOEtKZS1rb2FUMFgyNFB4SlktdU1n0gGTAUFVX3lxTE9GZ0ZvOWFoYXVVekM1aGNUeHZNekFqUzB3VkoyaGFnLTRsY3dmTThBTGppenNIV2xnWHJhUHl5QnJ6ckxFcHRMWXZyNzZteUdJUEZnRm0wVF9yUzhEWjlTbTktN2FUVUVqS1RWZ29uWWRiR0xua0s4czJqcXV1elRBRDVzQVNkSmc3cjRaLTFheEo5bw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-26 16:47:47",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Donald Trump chce przejąć ten kraj. Pomysł zaskakuje - Business Insider Polska",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU19sSFRocC1GZll4UGZpRUhMUTg3WGIzSnJnd1NJSkYxZTBPN3h3Vy1ENU9JQW5hNkxfSHNfSXhSNS1yYWQ5MVJYTmFVMHJteWs4eTF2RnFYNlpKMjhZVldZY3JnX05nTEswWG1VOHlwbU0wemh3eHUxTzBnN1pra1otbmRnM1h3N2NnX0YtcEN3Ul9Fa1hTUjlFa3daU0Z0QUR6ZjVLbURNakRNMGhCV1UxaEo3R0VuajRfaVZn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-28 22:15:19",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 237889,
+      "DOGECOIN": 0.335194,
+      "ETHEREUM": 6988.83,
+      "LITECOIN": 194.43,
+      "RIPPLE": 4.9
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Muzyk disco polo utknął w Dubaju. \"Nikt nic nie wie\" - Pudelek",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEdHTWpNWlE1VktRV3ZtUjNCSW1aVWNNc0NpM1lndjNybUs5NDJ0Z0pabXcydnZoaFFqaGhPS0NVc2JuVnk3a1o2R2lJcE9KMHFTblg1VXh5MVY2YTBjWVU3Q2VMNW1NNW11bmdyNXMxMGlzRDJXQktDVHd2ZFJ4MUw3cENSSFlycXZCZkxJVjg2bEMxR2RrZS14SnR4eEkzRzFMZ00xX2Rzc1NCdEUzVDgwTThvT005Vll0Qw?oc=5"
+      },
+      {
+        "title": "Śledczy w białych kombinezonach we wsi pod Stargardem. Doszło do tajemniczej zbrodni - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEdoYmdJTVZxM0RpR09uc3pKUlh4VC04VFlnWDE0ZkZ1WUM4cFNpWGtVN3RHRHZkaDJyVEZ6R19IZDlMN2llU1NNRGEyYWRqTHpyWnJvOUkyMzc0eHNpUllkUUdENmJhR1NkZk53UzNTTUl5TFg2cXVnNkJnckVhNTh6VWExb3ZnMEF1VHc5TkVEM1dEUDZoaWQ0cFZnazIxdkhuSXVSQWVOVEIzVC10OFRGT3l4Y0F1bkc4Ry00UHVUY2N1YWVOQTNyVUQ5bnF3b1J1aQ?oc=5"
+      },
+      {
+        "title": "Choroby rzadkie to problem nawet 3 mln Polaków. Na diagnozę czekają średnio 4 lata - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFqZXhjcXZENWNmQlJwOV8zQnhRcnBDVURfcGt4TXgyN3NMWDhva0dqOTBXZnRkUGprTktsc0FSR3djSFlWanVfZENpMVJveVhHLUx1ZzdqMWFHVkVIcmhqa0djWDlDa0VGel9rX2N6alVrRGltcGxvYzZCZW5TRWRDS2pNS05BdDN4N0pnSFREQ0ktazI1VDZjdGx1a2Q4UGlwVDZVTGR4dllZSnliNDV5SUxNdG1aSFhIbHE1elgyeEhBS3NR?oc=5"
+      },
+      {
+        "title": "Jarosław Kaczyński podjął decyzję. Sprawa Jakiego trafi do komisji etyki - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjRKRkJkRkYtY1doUjZDYTVxVTJQRGQteXZVcngzQ04wQ1N1QXFYTHBxOF9DcVBFSFpwSG1VZFlPWERoSUN5cDhQLUpLZHFvVzJxNmkxWlQ4MEVUdDRmRnpsY1BVYXNha25abUp0RFRqQ0lBQ1ltc0p1LWljWmpkSy1xdE5jaGxnZ2lBclpwODQyLVQwdWtmaEdmUXgxQQ?oc=5"
+      },
+      {
+        "title": "\"Misja niemożliwa\". Irański minister o zmianie reżimu - o2",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0xueXNvLW5aZ2lFaVZ3VXJpM3VGTG0yeWFVaHRpb3lnNEJKMlRtRFVkZ1p3LUsxT2pQUTNuY1hCX0dyX1RYaGw0U3A1b0l3T21GSVFhR2tubmExMmQ0Wm5ZUGZiSWNoaGFJUWdxZXBFT2cyd3ZGWmlzQjRYMFdHLUJhQ3FWZF9FNGRGSDFVZ1J5N3JRN05adUQ2bWRpZw?oc=5"
       }
     ]
   }
