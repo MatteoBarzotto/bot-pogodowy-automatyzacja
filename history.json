@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-26 05:10:33",
-    "weather": {
-      "Warsaw": "",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5785,
-      "EUR": 4.2183,
-      "GBP": 4.8375,
-      "CHF": 4.6225,
-      "JPY": 0.022857,
-      "AUD": 2.5359,
-      "CAD": 2.6136,
-      "CNY": 0.521
-    },
-    "crypto": {
-      "BITCOIN": 244214,
-      "DOGECOIN": 0.360867,
-      "ETHEREUM": 7355.51,
-      "LITECOIN": 202.11,
-      "RIPPLE": 5.16
-    },
-    "indices": {
-      "^WIG20": 3480.47,
-      "^WIG30": 4438.79,
-      "^WIG": 3480.47
-    },
-    "news": [
-      {
-        "title": "Lech Wałęsa nie gryzie się w język. Mówi o Donaldzie Trumpie - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWVlaXFOcHNTblh3Q1M1alEtcHJ1MjNNdE14X014cTFnakM5WEp6YTNlVUFxRVBacGticlJYUG5lS3BKN2ZnMzV3UzFCVF9xZDNpeE5xWUtIZkRFaU5tX0J3OEZ5Z3NIR0pwYXNULV9qamxaOGtreVIzRUJOV2duNDJ5MllkQXR2Mm43VWJVX0o2QkFJakUzSlBaRWZoS3hu?oc=5"
-      },
-      {
-        "title": "Tusk przekazał premier Islandii drobny prezent. Od razu skomentowała - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjllLTZfY3F1akpFbF9rWHpfLXp1RkstcjVfTXRBRmlqbVp4OU5yWnNqN2EtQUhPSVFNUXdvUHRENjBmVFk5QnhoTU8xdWlhSGlfRlhkU3lPQ01jQWtaVlo0MGtaTXFvTmxkNldyWGVpNWNQZzZzdWYzcmVBYzBYUTJFSjltZ1RVVDg2cENWYTZZV3U2U0VlQW1wY01BT3JOY0lzR3NpYkRJWHptREtF?oc=5"
-      },
-      {
-        "title": "Media: Rozmowa Donalda Trumpa z prezydentem Ukrainy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUU0eXpyNTFvYzIzb3phLWkxakl2V3pjNEhJYy1rbXlHdUFSZTkwcGMxSDBmcmpQZWRZX29CVG9FMzlOeTJ6QS0yRlV4TjNieEk0ajdCci1YdGR0dHotcEJ2aTZYOV9jUlozd3FnSHhjOXRPSGI2QnN5UzgzWjVXbllNTHRqZ2VTeGhYeEdQZWl1M09ndGg4Tw?oc=5"
-      },
-      {
-        "title": "Ukraiński żołnierz ujawnia problemy w armii. \"Łamią ludzi na froncie szybciej niż wróg\" - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXVwaXpFMVpWaTFXaXgyNEx4MGFvSmtJa2plNmVmNkI4cUJrdmE3R0VQdnM1UjNwZlBydTRKcmJWODF1ZG04SWludzUyd3RjbGdrNExoN1g1NkVvLUtUMk5ta29kbEtwdllnRG1IazdZbklsS0RNUTE3OEpfdmtma0VUelVYaTdSOVhsWEx0ZTBXbVU3dkYyVkMzR3hOTTRVV0xzZzUzMkU5cnNQQ3NMVFZVWFJtMFk?oc=5"
-      },
-      {
-        "title": "Reforma PIP wraca do Sejmu. Oto co chce zmienić rząd - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUFBYkNPUXRmN1F1eFdDZ0k1RlhqS1Vablg0R0tnaF9NenFfTDA4YUxPaTFaOGJnNkc0bjJJbTh3ZEl4d3dLelVWWXhNdF84TnVDRG1LTnVabmxEUGh0MHcxMzQ4bUtNTXVqZDNxU1hXbnNHVmo5bmJmZEhGa20yWl9wU0k4eHRJMmVuMThhd3JmWktXTHhmc3RpY1cwcy1hY2R1MUNtN1A3QQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-26 06:53:12",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "\"Bałam się go. Wyzywał i groził nożem”. Przerażająca relacja na procesie Łukasza Żaka - Fakt",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUhLcG5TY0hTV0I0LXRicVM2MVFFejdzWGllQUsyS0xvbmQ0Vi1LUngyamh3NHEwMHNDbk4yemY2dUdURWZHNVBnSG5fQ05QYkZmckJuY0hnM0x6czZNT0NLcXZwekV3UXVYdWpEVFJnTEM1N09QQkhVc0F0ZjN3NmlDVWU0RHRaRWItS3lKeEFyNEFhY1picHJwdlg5WWpmWTE0bWNIU1lxcDNMVl9YQVVnLW1aNVU1SDRKVjVhYTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-28 13:32:23",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +13°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 228859,
+      "DOGECOIN": 0.318411,
+      "ETHEREUM": 6686.9,
+      "LITECOIN": 185.19,
+      "RIPPLE": 4.64
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Choroby rzadkie to problem nawet 3 mln Polaków. Na diagnozę czekają średnio 4 lata - WP abcZdrowie",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFqZXhjcXZENWNmQlJwOV8zQnhRcnBDVURfcGt4TXgyN3NMWDhva0dqOTBXZnRkUGprTktsc0FSR3djSFlWanVfZENpMVJveVhHLUx1ZzdqMWFHVkVIcmhqa0djWDlDa0VGel9rX2N6alVrRGltcGxvYzZCZW5TRWRDS2pNS05BdDN4N0pnSFREQ0ktazI1VDZjdGx1a2Q4UGlwVDZVTGR4dllZSnliNDV5SUxNdG1aSFhIbHE1elgyeEhBS3NR?oc=5"
+      },
+      {
+        "title": "\"Moim zdaniem nie będzie dwóch KRS-ów\". Żurek mówi o planie \"C\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekNPWEtfa3pwaXdBU1hJZ3FLb0M1TFVyUnFzSkRLWXNVWGEwNUxDWW1zSG9qUnhvRGQxLTlSUzZhTDltYXlMZ1phWkVuOXlpczItbFRrRzVJX04zMVVCdm9JQlMyeXRHLTEtaHBPVFB3alg5c3ZGS0h5dnVJTHlndUxSd0F6YnZ4cHhJSEN5djY0TmNzZl84a2lUTjVpNTh6MThnVUtMYWZWYU5kYW1V?oc=5"
+      },
+      {
+        "title": "Przełom w sprawie Łukasza Żaka. Kluczowy świadek zmienił zeznania - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUhLcG5TY0hTV0I0LXRicVM2MVFFejdzWGllQUsyS0xvbmQ0Vi1LUngyamh3NHEwMHNDbk4yemY2dUdURWZHNVBnSG5fQ05QYkZmckJuY0hnM0x6czZNT0NLcXZwekV3UXVYdWpEVFJnTEM1N09QQkhVc0F0ZjN3NmlDVWU0RHRaRWItS3lKeEFyNEFhY1picHJwdlg5WWpmWTE0bWNIU1lxcDNMVl9YQVVnLW1aNVU1SDRKVjVhYTA?oc=5"
+      },
+      {
+        "title": "USA i Izrael atakują Iran. Kraje OPEC+ reagują - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzdDWGRjN1IxTzUzalR4aHlndF9tZk1TOW53SjFFMzJVVDk4UE40VDk5Z21pZXdOUjdYVWlzVldDTDdMdU9lTGFrSDJ2dFVWZWRVTEIzLUlrXzR2WGpuUTFBWHlaQ1JwcW93bzY2d3VvdjJHNDdwSDBUYmVCMmk4SUwxZmJJUUNmMVlGRzZKcXpvQTJxRjBlTzZn?oc=5"
+      },
+      {
+        "title": "Zmiany dla kierowców już od 3 marca. To trzeba wiedzieć - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURKUWNTd3luV2Y4MWUxbWN4em9xTzhoOFJwMWgtUTZpeVlkWWRiRHMwQXk1ODBWTTlqVGQtQ056by0yNGZmRGxxOW1MVkZ6X3lLSGpxbDNLVV9VVTJkUUM2M0s4RGFJb2s1VVdydUxjVWg0WFBFWVJWSDUwV09XRkg0WkJrYTVfNG44QlZzZXR0TExpRHBSelIyVy1aMkxmNmlBV0tOblYwN1dLd0E?oc=5"
       }
     ]
   }
