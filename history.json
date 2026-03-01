@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-26 23:27:10",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5792,
-      "EUR": 4.2224,
-      "GBP": 4.8416,
-      "CHF": 4.6245,
-      "JPY": 0.022932,
-      "AUD": 2.5478,
-      "CAD": 2.6171,
-      "CNY": 0.5231
-    },
-    "crypto": {
-      "BITCOIN": 241093,
-      "DOGECOIN": 0.345724,
-      "ETHEREUM": 7260.88,
-      "LITECOIN": 197.73,
-      "RIPPLE": 5.0
-    },
-    "indices": {
-      "^WIG20": 3448.24,
-      "^WIG30": 4404.67,
-      "^WIG": 3448.24
-    },
-    "news": [
-      {
-        "title": "Wotum nieufności wobec ministra rolnictwa. Posłowie zdecydowali - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVpOaE01OXM3Umt5RXZlRFV0alVnM3ZTUXRlVmF4QlR4Ql9Wek55UTFnVnRyTEtOaGVEWldDMF9vOGs1cFBGMlBCaFAxTE03bTRFZVZFdkxyeG11d1cwUUh1VWZ1M0llRkM1dlItTS1jT08xdTFaM3hlV1NjTnM1eERBQzRSZzJMMUNTWFdjTmFkZXJEaUxEMzF3LUozc2FwQXQzdW15TUU?oc=5"
-      },
-      {
-        "title": "Przygotowują się na atak, jako przykład podają Polskę. \"Wezwaliśmy do zwiększenia czujności\" - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcTF6OWc0VkNDUXIwYlhhRU5BZFNtNm9aaW1Ga0VBVDM3MF9hOEtESkhZU3BQY0FndU9GdlhGTWdYTGlLbngtcVBrbzVLXzRQbXZQYy1iempRaGpKNlgtd1FDSzNEREdwbnpkVVQtbWpWODZTdDF3Y08zRGVLcnhadE1wTkd4bDNmR2ViOHNRbkFHYVQ5My0xTnJ1NE01OEpVcFpfU1d0N2dyX2NUUHE2bmpfaXBybzBKRUE?oc=5"
-      },
-      {
-        "title": "Kulisy bitwy o KRS. W sprawę zaangażował się Ziobro - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVZ3VW1veEtfSlEtTVJEajRxeDRFOUo2M09GMHBHdFJ2OUZIRE9DYWR6NWJPLXVwcW9ZVzZOVGlBWV9mQXE3bVlYS1NHQnlwd2I1bnBNSmVlem0wTlQydFVyNkxTMnBSSE13OVZrcF9YbjlPUktFNkZzX1VrOHhlNVRFSk9JVVJUZnZHNFV0VWVMQ1pham9JOA?oc=5"
-      },
-      {
-        "title": "Tusk zaczepił Orbana. Teraz dostał odpowiedź po niemiecku - Onet",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaThUSmlsRDYwTVZ1ZWZMWVE4MFQyc2h4STl3cjZlZGhGN0U0dmZzVjlNamJyWktCTjU1OVEtZFd4QkdRUDJlbXh4ak11ZVVLcGtHSVFVZ3U5Wjk3NHIzUjVhZUdPVVhUT2FzUjB6WDlDM2NDNTdsNjluYjc4T3dGX1U5alBTYVFlNzBJQ1dGQTBvci1UaW5wT1BRZkN1YXZySFdlek1lNDdwT0tYME1IRExDSTluNnZ5RFRQNTZjanNaUTVRbTRMUVNqSkg?oc=5"
-      },
-      {
-        "title": "Czy leki na otyłość powinny być refundowane? Ostra dyskusja w Sejmie - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTS1Mc3ItMXFFUzZ4NHIyWmEtZ3hYX3NfOE1YZzdXVjl4LTNoLWxaRUxPeFBielNSLWlzUk8zX2pvVVF5TUd6bnpaYUpzaTdBN045bjd4TlZtQXlUb29YaFMzaWtnMGhMYVd6VDREZkdrWUlBVUZwVTB6dVA0V21CdnhfT0F5RV9NVDVnLVJpTDdzR1lOMEp0V1Fac3Yza0JEVEFHM19kQ1RNRWJDZEJ4Z0NqejU?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-27 00:23:17",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Do przerwy było 2:0. Tak się gra w Ekstraklasie! - Sport.pl",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1ZXUUV1WExreUhLc1BZdVBQbW1NdVZGZTk1bExvQVRrOVM4djhaWnVBS2h3LThnWThDbjVyNU54V2RuTldGSENKQXM2ZkpkS3dJLS1XcTVpN2xZcnNfRExvQ09JVUNFY2oyUE9zSXlYY2VmUklyUEptNGpEZE1pdC1Cd3RNa1VKYlc3MERDSW53R0R6TTVualRnbw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-01 09:23:46",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 240094,
+      "DOGECOIN": 0.338016,
+      "ETHEREUM": 7167.36,
+      "LITECOIN": 195.23,
+      "RIPPLE": 4.99
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Atak Izraela i USA na Iran. Trump ostrzega i grozi [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNmJ2RFVQYmtVc2xJRXUzUUhjdm5PSFNHNHFXSzZ1MWp6Z0JuZUJ2V2dNc3kwUTdCTHlhdkFMZk9JU2JDdTFHb1dOdndaVWJGYWt4LVJ3R3dXZTdqWGlWZXpKcFE0aXFzalE?oc=5"
+      },
+      {
+        "title": "Ali Chamenei nie żyje. Kto przejmie władzę? Nieoficjalne doniesienia - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHpwWVM1LTcwWGV2dk1jVXlzVUg5NXhYR3BJZ3dmdmg5Nnd3NWRUbVRTMHc4bmhtLXhkeWprMXl1cFJWazVsNEJKbk8tVlNVbVMxTjZnRmtGakR0WmthLVdOYmlyNklJWW1KYjFta0h4Z2MyZ2R3dm9FdHA5Z054RDNOMGlIN1k1U2FDREpId2ZPdWZoN2Z6ZjBxSjhnaktuNE9FcERFUkxqWVRwRDZCNGUwSndXZw?oc=5"
+      },
+      {
+        "title": "Apele Rosji wysłuchane. Będzie nadzwyczajne posiedzenie MAEA - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbThrNFFMbjFJeVEyMC1EYklnOVNvQV83YUwyMjYyT2lmOVhGMDJnaVI2SUc1R21ZbHJJS3ZEOExoZE5Ra0dHbHJEUlJCNlhHM0xRYlh6bWF0WmY1OXdzR3NIa0ZUTFZVdURYcjdRS2IweklvRHptd3p5RHRGd0Z3ZWpFUGpzazRaVXlxQ1VYRkdpa2xMS2ZWMGY1WU5IcnZnSm8yUGIzMA?oc=5"
+      },
+      {
+        "title": "Za spokój finansowy trzeba zapłacić. Oto największy atut SAFE [WYWIAD] - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNldEM01Sc3pVY0E4cWdpSnJoMjRZWTdUTVYyX2o1RTdwQ3ZXZ3BHM1dsa1hPZWc5LXAzdHdUUjQ2MThxUTVKVTd6UkJkbmRCZFlLVFpfUFNEcjdseWNiZGstOUVaMUV0U1hlVzl1RkJoQmNyNlo0ZDBHOF95MlpyV25QbkxRQndRa1ZhdmtrZERfdkl1cFZiZEUtSldod1BfcmRkNHlDY25Ha2RIWVJiZTBiNFhUOFFMdWZnU25BNA?oc=5"
+      },
+      {
+        "title": "Niesamowity sukces polskiej tenisistki! Jest finał - www.polsatsport.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25adTlZMGNSZGRNUUpSYk1lNllUbjg3QnJVZF8tZFZJclZlRzI1UjU2a2U4T3dHZEJhcEFSMlJQenNSaDBheTlHZFNFcVRkTTUzZFF4SzJhM0Nwc0JPRE56ZVpZU0d0LUFCaEMySFlPb2xJeXFpcnhFNVEtZlJUTEFranpfZmdHWWtjQWRydDFSS3pWRDBwMlJYRUtNTHc?oc=5"
       }
     ]
   }
