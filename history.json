@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-27 06:47:02",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5792,
-      "EUR": 4.2224,
-      "GBP": 4.8416,
-      "CHF": 4.6245,
-      "JPY": 0.022932,
-      "AUD": 2.5478,
-      "CAD": 2.6171,
-      "CNY": 0.5231
-    },
-    "crypto": {
-      "BITCOIN": 242514,
-      "DOGECOIN": 0.353424,
-      "ETHEREUM": 7313.37,
-      "LITECOIN": 200.3,
-      "RIPPLE": 5.05
-    },
-    "indices": {
-      "^WIG20": 3448.24,
-      "^WIG30": 4404.67,
-      "^WIG": 3448.24
-    },
-    "news": [
-      {
-        "title": "Rozmowy USA-Iran. \"Znaczący postęp\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0kxaVR3RkhHbkljcHdPdkFiek9wOWhzSk5IWURhWlEyeTJnVHhzbkFmdzhSekhVMUFoUEVjeWxZS1NmSy1LODFvQ1pSdUVBNFRsUktOQjVqbk1kaDNNV2xNMUQ4UHhZR1F1MGJLbUlSaExnSUp5VDZpWDd4cGNLaA?oc=5"
-      },
-      {
-        "title": "Już za tydzień nowe przepisy dla kierowców. Łatwiej stracić prawo jazdy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtSVTI0Y0NVTjJiVmNVdk9BdC1sdkNCbzUzS2doSFpIaS1xMUlXVDJZSHJka3JkTnRLZVBsQXRuUXZxdnk4QV8tNVZpYXg2X2xhSGJnWGMwWU5hd2FjNDctZmtiVUthZ2tJUU01NFJaaUJYWHJ6RjJEdTF5OE5DVDk0T2pUdkt3OGFseGRqQnVsSk5HNloxUGJLdW9kWlp6R0JONnlTemtFUWN2X29VSXBFblhJa0tkVEE?oc=5"
-      },
-      {
-        "title": "Cła USA nielegalne. Miliardy dolarów do zwrotu. Jedna firma otrzyma najwięcej - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHBHMmZVV3RtVmdOVkNOQ1hwbUwtZnlsVFNvaUU1UWZpMDVFY2NabDEzbUwxaTdKUVhsNndZZUM5UHNhdjRmSzVfNnVjNElTX18tZFFkX3Y1SmtlcnJNTFh5TXRST3pkX1MtOWtRSTBrcnJmM0lJWGRTSVJJek5LaUlFUE9qRVlIVlFNYTNPOVhaTGtJT3lycGFtQjhxSzJIa3dpbFJrS2gwdlJoX0xKUUM2Z293OUZ1d2dsdjlfZ2RXYnNDcWJ6ek9Ca29McThzMmRWU0dyd0p6TzQ?oc=5"
-      },
-      {
-        "title": "Wielki przewrót w Krakowie? Klich kandydatem na prezydenta? - Do Rzeczy",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXB3YmhPTmtiYkNJN3dlNXRWTkJZd1RQMUZmcElTWUVmUXVmWE5NNXBIY2NfUEc1NVVCemZNMzJfUElwX3BlRGpEYzVocDZfSVcyQ1k0cmU2RnZVOXBrRnhZNUhkakhHaWVDYWh0em5EQmZJRTJacTFwU2IySU05bnVQd3lYbEZKNHcyOVJCRkZsRVVxQ2U3RlBn?oc=5"
-      },
-      {
-        "title": "Nauka to budowanie potencjału Rzeczypospolitej Polskiej - Oficjalna strona Prezydenta Rzeczypospolitej Polskiej",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTZEaFlWN0ZMNFVBYnB6Q3k2MUhXaGl4Zko2SmtEMlRDZ29pMk1fUHZFaC1XMEVnTmZxTzdnUXNsSEZaMDEtaFA2TjdXZkZmRW9aQ1VuYjdvNUwxX1pOWHgwX1ZKZV9tdnpRYUJSN0V2WTF2M1JhelhSREFfa2xqc0sxMk0wVlRZRzZqNFJ1aHI4czFRMmJDam5BNmF4M1Fpa0E3RzZqQ0k0WlM0VFB3NXNEOFdnLXo2eXQ2azV0bw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-27 07:43:38",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Atak na tankowiec w pobliżu Cieśniny Ormuz. Cztery osoby ranne - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFNkU0RRMmRkVXU5c0FUbHlkWkhpVWNpcU1FeUFkTEx6WmROSkpvREJhWjU3Qmt5MG1XNGRxZkNHMXk0cmxiNnZZTndXTGFLX2VCUjEzWHJRcmwzRXZjV05KZnZhTFl4VmRGX0V0SG9KTTVneDFWaVdoVGREX3hNX1dBcFowVjZIeUFWcGRpR2dGSUtPS294cWR1US1UN2I1ZU1MeU12YlNoaFI4ZkUxTWw1TncwTGM?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-01 13:34:27",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 237188,
+      "DOGECOIN": 0.333707,
+      "ETHEREUM": 7075.97,
+      "LITECOIN": 192.72,
+      "RIPPLE": 4.91
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Kaczyński zapowiada \"rozpoczęcie marszu\". Padła data - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclczRkRfaE5qR2NkbWlReG1yRG5tLTFFcTJMaU11eEtleU42ZDRHWW9PUG9HbmVEWkYzRUVLVVc2QTdWVkx5V21zZDVXZ2RfMUF6VDJmd1FDWm1USDhLQXdYYXFDbW5aaUtjZHA5aC0zUjdwd0JsUkJDMnZRYlVOM012NWtHVGpmY2g0Qi1BdEd3ZVlSYU1F?oc=5"
+      },
+      {
+        "title": "Polska turystka w Abu Zabi ostro odpowiada Radosławowi Sikorskiemu. \"To jest skandal\" - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGd3ZVRnbXBWRlRzY3JVMFBsVXFDWGxGWWVENDB3eUEtSXFnV1I3VERUQVhHMDFBOU1GRmY4Q24yeUY1X2NZbkpWZm05T3BzUm8xdUJ5Z3V6VDNlcWw4aWo0SE9GMXRpb0M0VkFjZ2NaR2Jpck5lSk4xNmVwNFZvZUhHTE92SWJlQ2JyaE1sckFyNWdERWhqUlhSNGtlQk1FdmlRUTdmR01GblVsRzlTUVNxOFo3aW5y?oc=5"
+      },
+      {
+        "title": "Za spokój finansowy trzeba zapłacić. Oto największy atut SAFE [WYWIAD] - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNldEM01Sc3pVY0E4cWdpSnJoMjRZWTdUTVYyX2o1RTdwQ3ZXZ3BHM1dsa1hPZWc5LXAzdHdUUjQ2MThxUTVKVTd6UkJkbmRCZFlLVFpfUFNEcjdseWNiZGstOUVaMUV0U1hlVzl1RkJoQmNyNlo0ZDBHOF95MlpyV25QbkxRQndRa1ZhdmtrZERfdkl1cFZiZEUtSldod1BfcmRkNHlDY25Ha2RIWVJiZTBiNFhUOFFMdWZnU25BNA?oc=5"
+      },
+      {
+        "title": "To nie były plotki o powiększeniu rodziny Nawrockich. Potwierdzono radosne doniesienia - Pomponik.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHZ4QjM1ZTExNmloajZiS2c3V2pNX2FTV3MyMXJhUFFkTE9EcGp1UWxIcVU2SFF5ZTNZUFZnbmpHNDFXUVdVS29iZmJzNnhHX014bVVMakxBczBwVmpPVkFnRDlsem1XSXRoY21QUzBZeEtsMElRcjdoOWRkaEZYV0ExbklRaS0xWUNydUExV1pPSm9rU3BqdHFhMnFkdmhrWHpCS0JmMUtwaldPcUFsWmNNZmZuYm8?oc=5"
+      },
+      {
+        "title": "Brytyjczycy alarmują. Irańskie rakiety poleciały w kierunku baz RAF - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTQyV29RenRsVTNQd3hEeEp4ZXhOVGRtWFl3UXEySG05QXNZQjRRUUxUa2JaNWEwcjBMd0s4SW1zVW1TSl9PMVljSFdyLXNwSnk5bDVqOXNlQ3pnMVRXNkEtN0VMWDRvOUhDVEJFRllsU3N3aFppX0VseW5pdWVSMXFqQnFMWmpuRHdrdUtlckNlUEV2R1FsdDR5b29SLXNrcS1YSnE1c2dyQ3hZWUE?oc=5"
       }
     ]
   }
