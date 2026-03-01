@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-26 19:42:55",
-    "weather": {
-      "Warsaw": "Warsaw: +2°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5792,
-      "EUR": 4.2224,
-      "GBP": 4.8416,
-      "CHF": 4.6245,
-      "JPY": 0.022932,
-      "AUD": 2.5478,
-      "CAD": 2.6171,
-      "CNY": 0.5231
-    },
-    "crypto": {
-      "BITCOIN": 240899,
-      "DOGECOIN": 0.344483,
-      "ETHEREUM": 7178.09,
-      "LITECOIN": 197.48,
-      "RIPPLE": 4.99
-    },
-    "indices": {
-      "^WIG20": 3448.24,
-      "^WIG30": 4404.67,
-      "^WIG": 3448.24
-    },
-    "news": [
-      {
-        "title": "Prezydent Częstochowy usłyszał zarzuty. Jest wniosek o tymczasowy areszt - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjBSaExGSTdzZ0FWZ2tCVktSY3Y2VGR4Q3o4dGVOVWM3MmFqOE0tUXpIVlZreDVWcFJfT0xhcldkNVB3V2tXdjNSN0x6ZlB4b1V0SDN2cFdpVUFyY0RMYlVHQUxmXzdyVlV0N2todm1KN3JFQmlyeUNJbWtGSERmLWYxcjMwZkZZaWctajFUdXRnOER5MG1BQ0ozZlZZbDJCVjNZUzh3MVRaVUVNTzhvMDZZdExxNEM2MjJUZDNhR05WV0t2MHJaZA?oc=5"
-      },
-      {
-        "title": "Trudne negocjacje USA z Iranem. Media: Twarde żądania - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOE9MUlNSYnpjZFlVT1pzdHFGSS1ZbkRLRkotV1M1YlFpWDBkYVY1N0RmdXRWY2JvRnpHQTZWN25WWjlDbW1TSHBRSmwtbjFjZmRQZlBsTERhZUdJZzA1SF9kVXZ1QjFwVGx1b0NONWVDUk4tOVFtT0xaa045ekJWOW5OTmNjbnM5MllLM0JZWHRFdw?oc=5"
-      },
-      {
-        "title": "Przełom w sprawie skatowanego królika Marcysia. Sprawca ustalony - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVW9WVjJSdExzX29zVzlEN0g1TEZzbkZneGw4SU1teHlJVl9zaVJtS3BwdUFtZUVRbEhEMFJOVGRsdWttMEE5SVMyV3V0R0czTmN6c24yMFpFNTNEYjZMSWZsbEVmY2JrX1lFSVQ0WVFDMlozRUVyUTZsaktfTmowc1RhZzdXNUpmMmd1SG5pVDM2VF9oVFlQcnB1aUlQZG1PcFFyNEViOXZDVW9JWHpGMDlEcExNNHFzd3RSVWdZRWx4dw?oc=5"
-      },
-      {
-        "title": "Niebezpieczny incydent w Szwecji. Rosyjski dron nad francuskim okrętem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmZGVnlnQWxMR2R6QzNPNEVRaFIyMDk2ZEUtY1NIWnJSOXo5S1RpeUl5Vnd5eUJCRXV3UjlVTTVnMjNycWFtM0ZTS05IX0g0VWpNcTFFYkdRSGpoWjl0WkhpRnFzbV82LV80RGlib2Qyald6aVgtMGxCc1ZycFBWWkdwVjI0LXZIcW8wNlVQcVd5bW9tSk44dzhQOHBTQXhiMDFSWWlISlh4dzU3S3BKbkJR?oc=5"
-      },
-      {
-        "title": "Tak rządzący chcą ominąć weto prezydenta. Pojawił się projekt uchwały - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkwzOVVMRXFZa1lsUXJEQ19GSS1HX3JYNWY2LTN4MlhYM015ZTRBSWxvSEhneTI1dUNuUjRsaHk4QWNVSDhwOU44TDlBU2R6a3lRYmg4VTlmOEE0Y3VyUGRoRjFPUlJDb3pCMHlTel9BUThVbFlnb25HVDMycEt6TFNyTDR3eUFBV2V3SlJQTjF2b09mNElmclA1YTU5d2ZMMHVVWQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-26 20:39:08",
     "weather": {
       "Warsaw": "brak danych",
@@ -2590,6 +2538,58 @@
       {
         "title": "Co za emocje w meczu Śląska. Oto tabela I ligi - Sport.pl",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0M0bHZPS1VmRkJfNklDdUpGQXBfOHN0Zk44SmotTjJPWWVha1VSdzhwWUpZVnVSdFlQOFJ1OUR6dDdNVlZzWU9kYU41eHJjNzl1MW5iSTIxeUYtZmg2ZW5uZzdQbnpLNHRJeDM4WWY1cm5CZG9zcWZZa3ZGeENDTHpscEV3dDQycnlKSzIxU0V1RERkN2Y5dTNB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-01 05:16:48",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 240407,
+      "DOGECOIN": 0.344724,
+      "ETHEREUM": 7195.05,
+      "LITECOIN": 195.8,
+      "RIPPLE": 5.06
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "Za spokój finansowy trzeba zapłacić. Oto największy atut SAFE [WYWIAD] - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNldEM01Sc3pVY0E4cWdpSnJoMjRZWTdUTVYyX2o1RTdwQ3ZXZ3BHM1dsa1hPZWc5LXAzdHdUUjQ2MThxUTVKVTd6UkJkbmRCZFlLVFpfUFNEcjdseWNiZGstOUVaMUV0U1hlVzl1RkJoQmNyNlo0ZDBHOF95MlpyV25QbkxRQndRa1ZhdmtrZERfdkl1cFZiZEUtSldod1BfcmRkNHlDY25Ha2RIWVJiZTBiNFhUOFFMdWZnU25BNA?oc=5"
+      },
+      {
+        "title": "Co za emocje w meczu Śląska. Oto tabela I ligi - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0M0bHZPS1VmRkJfNklDdUpGQXBfOHN0Zk44SmotTjJPWWVha1VSdzhwWUpZVnVSdFlQOFJ1OUR6dDdNVlZzWU9kYU41eHJjNzl1MW5iSTIxeUYtZmg2ZW5uZzdQbnpLNHRJeDM4WWY1cm5CZG9zcWZZa3ZGeENDTHpscEV3dDQycnlKSzIxU0V1RERkN2Y5dTNB?oc=5"
+      },
+      {
+        "title": "Joanna Koroniewska i Maciej Dowbor wrócili z niespokojnego Dubaju. \"Dostajemy tonę wiadomości\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFJnTGVWN3l5MzhkTXF6d3Vza1RpVkRsOFgyYWZzNTM1cU45MktrLXNOckhELXlQSXQ3aUdhdXozM1lyOExrTXVSc1ZFUnA1aFIydnZtX1RDcHZPbzZJaXMydV9Nb2E5NlJTOFRNc2hyMUZYUTNLeVhQUVh2bHJ5RUtCMGNTRTMzNWpBNHhXM3FpZW5feExOWHpDNG9la1ctZHk4N3FaZ1ZxS1JDcTRlVXhOMGhZY0F1bk5kQWx3a29yYklHd3pEcg?oc=5"
+      },
+      {
+        "title": "Do przerwy było 2:0. Tak się gra w Ekstraklasie! - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1ZXUUV1WExreUhLc1BZdVBQbW1NdVZGZTk1bExvQVRrOVM4djhaWnVBS2h3LThnWThDbjVyNU54V2RuTldGSENKQXM2ZkpkS3dJLS1XcTVpN2xZcnNfRExvQ09JVUNFY2oyUE9zSXlYY2VmUklyUEptNGpEZE1pdC1Cd3RNa1VKYlc3MERDSW53R0R6TTVualRnbw?oc=5"
+      },
+      {
+        "title": "Kontrowersyjny rzut karny! Szalona końcówka rozstrzygnęła Śląski Klasyk - Sport.pl",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGxlZFE0bEpLRjgyeWM1emlSNkJ0NHZYZ2hPOWw1ZFdDb0xWZzNPX2pLNVgtamlfaWJYUjJEWlNWTDNvTG9QdXVncTNXVVp5VGs0ckdhZmFVaHNCc1BTT2NZYkNkXy1EZTFTUEY0ejlrelZNbDFjYVZCY0lfakcxOUVaMjl1TTNUVjBuYkwxQUlheVVEM0hLSDN6UXl1eE1CMzEzNFYzc2k5TUNfR3BkRzNR?oc=5"
       }
     ]
   }
