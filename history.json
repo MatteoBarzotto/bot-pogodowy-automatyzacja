@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-28 08:21:35",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 227620,
-      "DOGECOIN": 0.318961,
-      "ETHEREUM": 6641.68,
-      "LITECOIN": 187.66,
-      "RIPPLE": 4.67
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Atak na Teheran. Są pierwsze nagrania - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFp6YkNva2NCQlZ4XzRLS0V6NXM1RGhCdF9KSUhkUzQySGZCc2VjYWJLM3VWZ3Z2dXBvUjI5SVhlWGRzbjgyNHNkOVM0SS1mWmItbFAzNVdmRXZ1WWkxMDJHenFZZU1ldXgzNnhEQVo4dHFXNDliQV9JVUd2eFplLXhYaGh5dw?oc=5"
-      },
-      {
-        "title": "Samolot wojskowy rozbił się w Boliwii. Transportował pieniądze - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNczFDZElmOFQ0cXMzT3VHeWxJN2pWS25MeXJRVTZsN0J3YnBZOU5DdWh3QVZJQlVqX0VFcjFsUnV5SVhPRUU4QXNxbE1NUTBKaWp6QVFjUU83T2JZSFBDQktMaVlwWGxoM1o4SWZ3WndXUEtjd19ENUlDS3NnR09pLUJIdXBVMVZoN3l3LUJhQ0RXUDNtaGIxQnpqUTFRVlJzaGRLWDNjczZsQQ?oc=5"
-      },
-      {
-        "title": "Wypadek na Trasie Łazienkowskiej. Biegły: \"Maksymalna prędkość\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHBxbXlpUWtBVS1JOG5DSU51S0hwRlNESUZMWkNBSW0tellaT1hDOTNpb2ZBWkZvUFpZWTZhREFjejU2MDNpb045VV95TkwtNTZUTDFENGxfd2U4aG5EMDJtY092ZnVjLUpmTWV4MHNYeVRVR0Q5REZCLXRQelh1SDQ5TERpVldxTmxSREQ1dXlNeWF5SE5mUmpiNHc2aFZNMk1VWEN2V3lUS294WFQ5Zg?oc=5"
-      },
-      {
-        "title": "Zmiany dla kierowców już od 3 marca. To trzeba wiedzieć - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURKUWNTd3luV2Y4MWUxbWN4em9xTzhoOFJwMWgtUTZpeVlkWWRiRHMwQXk1ODBWTTlqVGQtQ056by0yNGZmRGxxOW1MVkZ6X3lLSGpxbDNLVV9VVTJkUUM2M0s4RGFJb2s1VVdydUxjVWg0WFBFWVJWSDUwV09XRkg0WkJrYTVfNG44QlZzZXR0TExpRHBSelIyVy1aMkxmNmlBV0tOblYwN1dLd0E?oc=5"
-      },
-      {
-        "title": "Maria Zacharowa uderza w Kijów i Brukselę. \"Zaskakujące\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNellWRTVjb1RjRnVHdkdoV2ZDNEVybWl1SDhpT0hxT0xTaG1saDlwOHZGQ0VlMlhQT2xtSjV6aXhidmY4MHo4djFNdWE0aG1kZ0xkaUFXZTFBRDByS25yWEIwRVYzZXJEeEI5eEdRXy1JX0pxdGtDVmt6QXRpUE00dS1VdFRFSWhSdDV5X1d3cnQ2LXJ2U1ctcDExbTlfVDFIOW1ScUR5QzlYNzFBV24tcnl1MG4wQVJMQUc0enlxOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-28 09:21:01",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "Dyplomacja jest passé, witajcie w świecie dona Corleone [OPINIA] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTN2T3p4eUY2VF9tWTF4UHZTamFxTW5XcjhJc1pKRy16MVB4c25uRGlEQzdqdU5aVy1hT0trNGE5SExjREtRZXFBNUtWWGRZdTB4MUVnMExVZEpteHZ6WVpXWXhrX2h0WTdFWG8yUU83M2d4Sl9JVXNoTncwVC03c1BRdTN5cWFZUkk1bW02bFl5bnhvTHRhb0tDOTVRRENDRG10TzFadw?oc=5"
+      },
+      {
+        "title": "\"Nadeszły niezwykłe informacje\". Orban: ujawnię dowody ws. rurociągu - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2Vhd19KV09mZXZVcGltX2hFVUI5V3ZqcnhTTUNCdGlVVFZ1X0cxUTRzWmdqOHBPRTA3ck9yanYybHVTUDhXYzlnQmVtUmhZLVBhYjB2QkwtMXBuODYzeWpZd2FsN1ZjUXVONFN6dlZ3dUptd3dzMktSNEhtOGkzV2dOUXBwNmNfbUlWSVo5dmhaTkdHV3pvQUpYeVAzZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-02 16:36:04",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6056,
+      "EUR": 4.2304,
+      "GBP": 4.8215,
+      "CHF": 4.6696,
+      "JPY": 0.022963,
+      "AUD": 2.5522,
+      "CAD": 2.641,
+      "CNY": 0.5238
+    },
+    "crypto": {
+      "BITCOIN": 249405,
+      "DOGECOIN": 0.346095,
+      "ETHEREUM": 7364.21,
+      "LITECOIN": 198.87,
+      "RIPPLE": 5.06
+    },
+    "indices": {
+      "^WIG20": 3393.4,
+      "^WIG30": 4329.11,
+      "^WIG": 3393.4
+    },
+    "news": [
+      {
+        "title": "Komitet Nawrockiego ukarany przez UODO. Zapłaci za ujawnienie przez Czarnka danych Jerzego Ż. - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xCYy1yUGNTUmJHYmpKT25USE1ULVVzUWtFelNmZnRxLUhfNVV0dEpycXNtakc2QlR3RkZYeVViN1BLMGhhN0hZNy01alRKbFJ3bl9aNXZtRVJZLWowZjhxN0hXTnN4T2pPOFd5dVF2cGhGczU0SUZ4SWFIcXpoeWZjd2dVZkFHVHM1NUhfMGMwVU1ERWk4Qk1POUY5cnRxYlZDa19NcExqeldWVWdMejFiNmYtMHN4OTlKM1ZDVnpxN3ZPdGlOYU00Q2ZSSjREVk5pQg?oc=5"
+      },
+      {
+        "title": "Skopiowali taktykę Rosjan. Tak Iran atakuje cele w Zatoce Perskiej - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWsyanA1cHpBaGhwemVlTnBmeDNVbzlJV2hjdjRxVEdMWjhPV2lFZEo0R3VQN1dWeExrTGE5MU1KMlZlNFlDcGhWZ1dwX2hGVTlKdWI4RG1Bd2pOS0RLb2ducUdqbWhJRjlncnNxcTRtUmRwN2FYalJHei1ZcGdNTVNaOVFneEdxUmF6UnFnY1VsVF9hUDdSeDJXR1A1S1FPSWdnVzFaSUg?oc=5"
+      },
+      {
+        "title": "Wojna na Bliskim Wschodzie. Nie żyje żona Alego Chameneiego [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
+      },
+      {
+        "title": "Jedno wykroczenie i koniec jazdy. Od 3 marca kierowcy muszą uważać - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2dBQ3B1WGppcmY1VGota2xlZ1ZCVmVoMDdqZk5CZzNhNDZUTWpOQU9YOFEwTld5bVhzT3JtaHlrZzJ3NVUwQ204ck1hTHAtMzNlU3gzTnpsWHNjODdoX0s0NGVtYXRuYjh4SGNFYndBWXpHTDNfREFodFhjME8zQmdmeTVGY2R3MkNFc2lDaF9yX3Z2Rl9Ed3VpbExxaDRob1JYQV9YYVcySkV2OFJmZW02ZVE?oc=5"
       },
       {
         "title": "\"Nadeszły niezwykłe informacje\". Orban: ujawnię dowody ws. rurociągu - Money.pl",
