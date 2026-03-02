@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-28 04:48:54",
-    "weather": {
-      "Warsaw": "Warsaw: +0°C",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 235164,
-      "DOGECOIN": 0.333246,
-      "ETHEREUM": 6876.97,
-      "LITECOIN": 195.52,
-      "RIPPLE": 4.84
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Sejm przyjął uchwałę o KRS. Awantura, groźby i \"cymbałki bezprawia\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2k1OUZITGFVS0NuWHZtMm84UUhYV3FMSXBtMHB0TktKTDZIb1RXcnVCaXh5RG53M3FaU2RLMEhNeWhfd3oyWHlUSDRxT01qeWNIbWRIUjBPQ05haFdpMG5IOEx6Z1B6V1pHMlQzejlnVzNSemk5ZTlLWUFvZ0hhOUVkS3hSamI1UnY3NjlEb2g5MGRJS2FWbUlHVXhvN1FZX1YtRkdaOFBZQQ?oc=5"
-      },
-      {
-        "title": "Donald Trump będzie miał kłopoty? Posypały się pozwy - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3V0N3BUdGkzQUFmNUMyWGNNX2wzcWRYRlNqWTJhRnlIalBwNDExczR3MzZpM01CQjZxRGRtOFFhLXBUUi1mX1Zxdy1vd0VEX2tJYmZ1NEhVUmNUWjN0bHc4QVVRR05tNHZ4TXFnQVJVV293Vi1BeXl6a0RsWXRYNXlJUnBFaGNLRHRCZEFhc3FOT0QyYlJyaXdnVFp4ZFM4N3c?oc=5"
-      },
-      {
-        "title": "Polska 2050 traci wiceministra. Dorożała odchodzi z partii - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVNJMkVZTjVyRXJlQWxFcmE3N1YtOGRGNTJ6aHIwU1BHSENZUGhFc05LMUY1VmsxWExPeTlhMkdaemZaWnVfM0dBUFBqTHNDVUhyWTdWQzRlRDFXRk52WGdkdjNZTE1aampQRzhCWS1JeDF6Y1JSem1UVmc2V3dqWmpFUHJJelp5MTVlOUx2NzlwNnYtZGhULU9YNEVINnktUmc?oc=5"
-      },
-      {
-        "title": "\"Kaczyński na pewno jest poirytowany\". Odwilż na linii Nawrocki - Sikorski - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHlneEw5SHFLaU1HcF9CNzlmU0VRSzExLTR4bVR1bFEtUGlfLWc5WDE0T2pfeFJwd1JvVUpZUDBPUG50RGpIY0pBTTJwX2VLZEFnUjRZLU1FeUJ0YlFKZUtvUFA3NENMTkFZdWNsblZHYm5ZTjFSbkhNWmZ6X2FrcUl3YWpYSjRsRE1ERVNsUlRUdUdOY2o3NUc3N2ZkTDNsSTE3d0JTOWIzZ0kxc2V2YUpzTQ?oc=5"
-      },
-      {
-        "title": "Maria Zacharowa uderza w Kijów i Brukselę. \"Zaskakujące\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNellWRTVjb1RjRnVHdkdoV2ZDNEVybWl1SDhpT0hxT0xTaG1saDlwOHZGQ0VlMlhQT2xtSjV6aXhidmY4MHo4djFNdWE0aG1kZ0xkaUFXZTFBRDByS25yWEIwRVYzZXJEeEI5eEdRXy1JX0pxdGtDVmt6QXRpUE00dS1VdFRFSWhSdDV5X1d3cnQ2LXJ2U1ctcDExbTlfVDFIOW1ScUR5QzlYNzFBV24tcnl1MG4wQVJMQUc0enlxOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-28 05:50:21",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "USA straciły samoloty wojskowe w Kuwejcie. Rozbiło się kilka maszyn - Onet",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObERxSHpZWmFwT2dlMUlLZ2UyQU9acnVpeXBmUWdianJzMEhneEJNNzVVeGM3OVFfVjNQU1lidHBxTldHS1BYcG9vTkV0d1l2ZVJxTHNlMHVaRTQ4Q29nbGZseDdjdmRLeVJlNVFyN2UwbURvRFF1TEljVUZuWkRrcHZOWlZzUXItNXVoWTExY0tod2R5TnphLUxESkFCOU5keUkwMWc2VnQ1Z1pib0RIUzFwaUd3OFprVFFianlONDNyZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-02 12:27:52",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6056,
+      "EUR": 4.2304,
+      "GBP": 4.8215,
+      "CHF": 4.6696,
+      "JPY": 0.022963,
+      "AUD": 2.5522,
+      "CAD": 2.641,
+      "CNY": 0.5238
+    },
+    "crypto": {
+      "BITCOIN": 238389,
+      "DOGECOIN": 0.330894,
+      "ETHEREUM": 6996.19,
+      "LITECOIN": 191.89,
+      "RIPPLE": 4.87
+    },
+    "indices": {
+      "^WIG20": 3414.51,
+      "^WIG30": 4358.15,
+      "^WIG": 3414.51
+    },
+    "news": [
+      {
+        "title": "Atak po deklaracji Starmera, dron uderzył w bazę RAF. Brytyjskie siły w gotowości - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXU2SjFRVndxUkRfZmFsX3JGZ3RlazFEMmVfdXhWd0VDSjVNZ3Juem9xR2EwWms5c1doX3ZpZWJIREY1TV9XZXNWSGpMdERTNk9kOXFDY3JiYkctMVBfVXlfcTlBVFhmNk1RcTJkZmNpcDdWUXRxTk5GaFBLMkoyZW1zb2M4SkxEMk1BTF9zZ3FCV3RRSTNQeXpiSkFhZWU2SVh4OFZaUmt5dksxaXA2VW1kNA?oc=5"
+      },
+      {
+        "title": "Suski: Część żołnierzy milczy, bo byłaby wywalona - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWdHSEo1ZkVMaHRoSjg0UFBqelZ4MzlQVVhIczlVanB4RjdUbHNLZkFCUFl0anNZV1U2WEFaeGJXNFh1akdlZi03TzBxRmctY0UwSnBhcGdKVGE0Q3AtajZZaXZON1RoeHZEUVR5MVJnX3pJb2psNnlhQTF4RlFoZ2FqSEM1RWdhM0tfWXZMXzJqRmYwYWlINU9iTHJGTm9PWTIteHFPR0ZlR2ZYRS1nNzBuSHpGVlU?oc=5"
+      },
+      {
+        "title": "\"USA straciły trzech synów\". Nowy wpis Nawrockiego - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM084UHJzNUJGdmh3eC1qUnNDaTd1SGhfcTd5c1I3cmFGWGo2SS10OVFMN21NLWtFVzVzbjhLalpsVjFPY25OLUQ3ckZmMzk1ZDNQdTRvSjZxU29VczUxcUhPYUFEdFdKSzVXQjY1d0NNMVVycUJKdTFFZjlhb1IwTjF1TWFRWVhrYkdkdl9VRHZSVXFu?oc=5"
+      },
+      {
+        "title": "Polska wobec wojny USA z Iranem. Wyraźny sygnał z sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnBJTm1ody1Ed3MtNmYxZkZ1RE1IaGtldUxwSGhXc3dkR1hVcERMMll6Y1hfVzRrSG9adEhwNnFKUmRZVlo3RTJOakRfdjBCNUVwX3IzLXhtWURKVFJVWUVBUmdPbUcyRUpNZ1BSMlVzdVMzdDlqMGE4NDhqQlcwRnFYaXRLTnI0bE4wSllwQjJ4akZpVVdybWpDYmVPOVJ4?oc=5"
+      },
+      {
+        "title": "Wojna na Bliskim Wschodzie. Iran nie chce negocjować z USA [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
       }
     ]
   }
