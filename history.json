@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-27 18:29:14",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +11°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 233164,
-      "DOGECOIN": 0.333342,
-      "ETHEREUM": 6837.17,
-      "LITECOIN": 192.83,
-      "RIPPLE": 4.8
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Ogromne napięcie na linii USA-Iran. Kluczowa rola Izraela? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekVNbTFST0IyTHdTbXJGbGF1eUZTX2tHZlhqczZ5WkREMTkzRm5fXzNSYnk1b1ZkY1RrU3hfTDR2cVl4dnEyYWN1YTFMUlJoRVZlRjNTTnZFYTFyYUR3WkszSWl3M0JpZUlvX1pIT1Q1VWlZVDc3cnoyQUdnU2ZaRkIxLVZEWm16N3gwdGVta0o4eVNkUld2NVVfSDVmUlFm?oc=5"
-      },
-      {
-        "title": "Social media na cenzurowanym. Polska szykuje rewolucję dla najmłodszych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3p3RW5HX1RrMkVWT1BLd3FqNExjWVlyaWI2UGw4M2djdFdvajcxclBqc0dpa2ZmY2hwUC1UVEFOQkppQWtha01YTW9JSEpqUGlYYWdITWVEblpGZnFPb0N0MkdfdzdpbnBwcXowaUdhdlIteURVZFZiUExFcDhSazU3bWR2ZjRnMFA3ckpoVVI2S1JuN2Vzb2c4d0IzQW5jVWMyTjk3bkRtdmhfQ1dSQW9Tcw?oc=5"
-      },
-      {
-        "title": "Podwójne zabójstwo w Sadach. Patryk K. z zarzutami. Śledczy ujawniają - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHctMzhHLUJIcGx3d3hmRU9ud1dLY0tFNTJTN1ZRMXZPSGpZa2U3ZDd5ajJ1LXo2RTg5WmdNVlBrV0Rubm5tek8xN0xfSGI1b0N3V05aWVBqNFVnSVJ1S2Q2TUIwV0tCaUF3alk5NkMtTXI3NGRUUEt1eFphVnlPOVczVnRCalk5NF9xOW5yVEVEWFVlRjJkRkJLdVVFc2JtVmg2S3c2c3BDbER1M2xwV2paWTQxQkl0RTRr?oc=5"
-      },
-      {
-        "title": "Ogromna kasa z Sejmu dla Marcina Romanowskiego. Ryczałt na biuro i remont - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWEyM2tnUmdTS0NzMzh5eVZSQnU5d1NWZ09yaXNuWkFiWGZpUklRSk1iVjlGSFprSFh1b0JoZEF2cnpCVmljTmxGY3loN3Q4bURQX2JiQ2xHWExveHh6WWNvMHBySFVCV2I4UkgwZk1peHhtZUdWTzZ2akpMS3FrMThOVmpjb3NzNlZPTGZveFJZYXh6X01tWUlQWEJyVDg4LWNmaDBCemo4anRBNDJKTG82Qkp6dw?oc=5"
-      },
-      {
-        "title": "Policyjny pościg na A4. \"Łowcy głów\" ze spektakularnym zatrzymaniem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGF0M1VIUjBudFRtLTRqc0g3cmNyZmI3UWNVampiZ1FtZkYtNmFmRVY5SDRfdmp6RThrWEpaQkx5aTZ3T2NjUDQ5S2hwUC16NWtnR0dDRnk0Q2tMdmxRVFZlUTVSbk9GWFVGTVhqY0ZMUnRoTm9pY21FbkN6VWRoZWFZWVBiVDV1ZTVFdi1QNndqZG1Ja2loSmw1NzRuOE12dWdqaFV5bzA3bDQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-27 19:32:53",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zaginięcie 12-latki pod Bydgoszczą. Trwa pilna akcja poszukiwawcza - Onet",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHdmMXhxZDhpM1lYVTlfR3YwNngyTFdLdXcxUGpQQ3IwUDN5cnpMOXQ1V3prU0huaUR6elI4MDJjaEh6WVp0TXFzckM0d21WNWxBSG15a285VWxpUmRaVWJPN0FkamFFZ0VNU2ZucjlodEotd3VuYkwyVmxsX2NkdzVKZjYtbFN5UUtKT193Ry1MRnplWjJOa3V1NUpPMUIyOUFneGRNOXBsNUQ5dEpKRTZCOWpnWGNPdUFreC1qVDdmd29MMUpj?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-02 02:27:47",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.5804,
+      "EUR": 4.2233,
+      "GBP": 4.828,
+      "CHF": 4.6323,
+      "JPY": 0.022942,
+      "AUD": 2.5471,
+      "CAD": 2.6195,
+      "CNY": 0.5219
+    },
+    "crypto": {
+      "BITCOIN": 238902,
+      "DOGECOIN": 0.335038,
+      "ETHEREUM": 7062.95,
+      "LITECOIN": 193.64,
+      "RIPPLE": 4.9
+    },
+    "indices": {
+      "^WIG20": 3440.02,
+      "^WIG30": 4400.68,
+      "^WIG": 3440.02
+    },
+    "news": [
+      {
+        "title": "\"Niemcy, Francja i Wielka Brytania gotowe do działań\". Chodzi o Iran - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2RHM1lrQnF2ODdudGNtYmZ4U3VreWNDeWt3YlV1Y2hmS0pJQlJGOGctelZQZnc2Mnc3aDRlUHlkd1kwRlNwRmxZQWNLZzE1Uk01YVViaS1pYWdyRFZTcExwY3dUSFN4RDhtS01pbWFYVWUzTkJFWHpiLTBaMUZTTmRpZXlsVEF6UVJuSlJXRk0weHdtZWVzWXhYZWpoMVFWdDhNMXB3MUx3U2gzbWt1UVp3MWYyUnN3amEtcVhB?oc=5"
+      },
+      {
+        "title": "Francuski lotniskowiec opuszcza Morze Bałtyckie. Tam popłynie - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnliMTc4SmRaY1NTamh4anZtSjRhSlhDdkFfa1NLaHM3UlBLR2NsRFhFYVNPNnZSYmJZbEZVOW5wT0ZGNEZNdmk3OVZNRkMwU0w5a1RPRkdYb2RfUklPUnZHbmYyVnpad29BOUJtcDJjSDdEYUduTnU0UTgtUFJmOXF1TFFkRkZ6TmY1WHZ5RUlHN1dZN05STnB1MVZFN3JaTGl5NDZwV1VDUndsT2FLZC1OZ0RoN3MzaHdMYVl2SFpnQkpxOGdr?oc=5"
+      },
+      {
+        "title": "Pożar w Dubaju. Zdjęcia satelitarne pokazały skalę zniszczeń - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUQzNEMyOWpsNXhEMTJqTVU5SmlWN1JUMzVWYkNFMjlsb3cteXYwZ1lFNkJTLWtLdFNRclM0MkxnNnpVenlXS1NTdDFXWU5RSXc2SjlTaEhFYmlydlFSeE9NR3ZXemRMV1lGejlaZ0R5QTJtcGlWUE9fRlFONGFpSXd2WTBhQ3pTeEpiNDFsbEk4OXUtVFd2UjRoNURiVkVpekV4Mw?oc=5"
+      },
+      {
+        "title": "Pierwsza dama na sportowo. W takim wydaniu rzadko widzimy Martę Nawrocką - Plotek.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkh3WFJJdTF2RGR3c01SVUFxSlRTSTV1bWxBZEdVN29SVkw2MElQX0JxZHBVNVBpZWYxVDlCVF9SdF9XU0oxa3dCV1g0cWJibUMxMHJMcG5ZU252N1czN25JYW1kbWh3RXQ0Sm1ZOUs1SGEyQi1Obzl0V0lmQ3Uwa3N5djZKOUMzUEV6U2hMMGhkUWh3RE1PRmpCT0xsSUxIWm5EMExwcURqR2VZTEVsNHdPUFFtMDhr?oc=5"
+      },
+      {
+        "title": "Iran atakuje lotnisko w Iraku. Pożar w amerykańskiej bazie wojskowej [ZDJĘCIA] - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU9QOVFzV21mYVVtNk5xNkNobDJYb29KQUt0R3hxekM5SUg4Q29hQ1lPLWFkSm1YaXR3MmdfQXlVNllOcWVrQlRlRmQwTUtFWTVORWc5R2EybmxTdWZSMUJfR3UyZm8xeUlaQmN5VHA2UUIzblVkUkt6Wkc2NUVaMURhT1hXZHFDV2lQVmxubkpBdTBpWXYyZ3ZLdmE1aFBQcHBzcklrZHp2UjAt?oc=5"
       }
     ]
   }
