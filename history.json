@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-28 13:32:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +13°C"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 228859,
-      "DOGECOIN": 0.318411,
-      "ETHEREUM": 6686.9,
-      "LITECOIN": 185.19,
-      "RIPPLE": 4.64
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Choroby rzadkie to problem nawet 3 mln Polaków. Na diagnozę czekają średnio 4 lata - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFqZXhjcXZENWNmQlJwOV8zQnhRcnBDVURfcGt4TXgyN3NMWDhva0dqOTBXZnRkUGprTktsc0FSR3djSFlWanVfZENpMVJveVhHLUx1ZzdqMWFHVkVIcmhqa0djWDlDa0VGel9rX2N6alVrRGltcGxvYzZCZW5TRWRDS2pNS05BdDN4N0pnSFREQ0ktazI1VDZjdGx1a2Q4UGlwVDZVTGR4dllZSnliNDV5SUxNdG1aSFhIbHE1elgyeEhBS3NR?oc=5"
-      },
-      {
-        "title": "\"Moim zdaniem nie będzie dwóch KRS-ów\". Żurek mówi o planie \"C\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekNPWEtfa3pwaXdBU1hJZ3FLb0M1TFVyUnFzSkRLWXNVWGEwNUxDWW1zSG9qUnhvRGQxLTlSUzZhTDltYXlMZ1phWkVuOXlpczItbFRrRzVJX04zMVVCdm9JQlMyeXRHLTEtaHBPVFB3alg5c3ZGS0h5dnVJTHlndUxSd0F6YnZ4cHhJSEN5djY0TmNzZl84a2lUTjVpNTh6MThnVUtMYWZWYU5kYW1V?oc=5"
-      },
-      {
-        "title": "Przełom w sprawie Łukasza Żaka. Kluczowy świadek zmienił zeznania - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUhLcG5TY0hTV0I0LXRicVM2MVFFejdzWGllQUsyS0xvbmQ0Vi1LUngyamh3NHEwMHNDbk4yemY2dUdURWZHNVBnSG5fQ05QYkZmckJuY0hnM0x6czZNT0NLcXZwekV3UXVYdWpEVFJnTEM1N09QQkhVc0F0ZjN3NmlDVWU0RHRaRWItS3lKeEFyNEFhY1picHJwdlg5WWpmWTE0bWNIU1lxcDNMVl9YQVVnLW1aNVU1SDRKVjVhYTA?oc=5"
-      },
-      {
-        "title": "USA i Izrael atakują Iran. Kraje OPEC+ reagują - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzdDWGRjN1IxTzUzalR4aHlndF9tZk1TOW53SjFFMzJVVDk4UE40VDk5Z21pZXdOUjdYVWlzVldDTDdMdU9lTGFrSDJ2dFVWZWRVTEIzLUlrXzR2WGpuUTFBWHlaQ1JwcW93bzY2d3VvdjJHNDdwSDBUYmVCMmk4SUwxZmJJUUNmMVlGRzZKcXpvQTJxRjBlTzZn?oc=5"
-      },
-      {
-        "title": "Zmiany dla kierowców już od 3 marca. To trzeba wiedzieć - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURKUWNTd3luV2Y4MWUxbWN4em9xTzhoOFJwMWgtUTZpeVlkWWRiRHMwQXk1ODBWTTlqVGQtQ056by0yNGZmRGxxOW1MVkZ6X3lLSGpxbDNLVV9VVTJkUUM2M0s4RGFJb2s1VVdydUxjVWg0WFBFWVJWSDUwV09XRkg0WkJrYTVfNG44QlZzZXR0TExpRHBSelIyVy1aMkxmNmlBV0tOblYwN1dLd0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-28 14:32:18",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Nadeszły niezwykłe informacje\". Orban: ujawnię dowody ws. rurociągu - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2Vhd19KV09mZXZVcGltX2hFVUI5V3ZqcnhTTUNCdGlVVFZ1X0cxUTRzWmdqOHBPRTA3ck9yanYybHVTUDhXYzlnQmVtUmhZLVBhYjB2QkwtMXBuODYzeWpZd2FsN1ZjUXVONFN6dlZ3dUptd3dzMktSNEhtOGkzV2dOUXBwNmNfbUlWSVo5dmhaTkdHV3pvQUpYeVAzZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-02 21:29:22",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6056,
+      "EUR": 4.2304,
+      "GBP": 4.8215,
+      "CHF": 4.6696,
+      "JPY": 0.022963,
+      "AUD": 2.5522,
+      "CAD": 2.641,
+      "CNY": 0.5238
+    },
+    "crypto": {
+      "BITCOIN": 250292,
+      "DOGECOIN": 0.344578,
+      "ETHEREUM": 7392.41,
+      "LITECOIN": 198.61,
+      "RIPPLE": 5.06
+    },
+    "indices": {
+      "^WIG20": 3402.36,
+      "^WIG30": 4342.42,
+      "^WIG": 3402.36
+    },
+    "news": [
+      {
+        "title": "Wojna na Bliskim Wschodzie. Trump: Zignorowali nasze ostrzeżenia [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
+      },
+      {
+        "title": "Ali Chamenei zlikwidowany, reżim nie składa broni. Kto przejmie władzę? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmdRdkFJZ19FdXRlSFZYUWhrNjl6TE1DMXFCemY1S2VPbVVuaFFIckVyeTlOWUQwNTRfcWR1c2Z3VVEzQUphV3dSd0x1eVdlanNHam5pZW8ybFZPeUkwcHJPQjlIdWt6eWxsdkEwcHBoWjN1UlJCb0NPMDlLUFZiZnJBVElKRVRqVFk0V1RwSFpPclhWZjhubWgtWnhNbWVGQWI2dXlQVkhVWXpjc19UUQ?oc=5"
+      },
+      {
+        "title": "PiS przedstawi kandydata na premiera. Znamy miejsce i datę - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHZjMFJZZlIxZVlwbHA0U25DQjJNcjVXT3FyVzV2TE1QZXNZRFk4WXRvOFExMktQaWI4bjM5eFQ0LThIeXFSNnRoLWJ4SkFwX0VkM1F5N0wzb2ItRG1OSVpzMlNmekZHcmNOS1VHM2FTN19vamJsNVdSTHBDTFc3Qmp6Nm5vNURBbnRsbjZxRlpYbGlwa3luQ2R5RGtVdw?oc=5"
+      },
+      {
+        "title": "\"Jego odwaga była niesamowita\". Trump odznaczył żołnierza, który oddał życie za Polaka - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlYwVVI2QVdRWnNVWVd5YWtRNzR5TjduZlNMaTc2Yk82MFNFZUEyTEVhbjR5SUtIQS1PNXlFRW5QRzAzOG5vR2xUb01XbWRVY0RqMlhaOVVyS1h0MWZQYzVZOG8tUllscGJkSjY3a1g1Z0ptOGk5QUVsWXlSMzAwaEcxRF9NcWk5RlBaX3VJLUVQTGg5Z1J4bmxMOEZuYkZLdzZVUU5iNE5VSWJ3N0xDOHJKcUU5Y1F5bmJMb0JwNA?oc=5"
+      },
+      {
+        "title": "Były szef Agencji Wywiadu o wojnie w Iranie. \"To tragedia dla Putina\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTGc0MjJadDF3NmZWS1h3SjdtMGhxaWJhemJzaGdaZTZtLWlGSFRkMlZFRHYtdEo2R254Yy1JVl9PeF96aXNkYjAtMjUyTWIzMDFud2F3VTc2dVdiV3RTXzNkNzFjTVo1b3hGcG9NM3JUQkFkNWNtWF9KdjVqSXc4MXlGbFQwWC0zbUptaUdRQXRLTWVGWE1lR3hxY3JuOGpnemYyTXFOUnNPLTdyOGdVZk0tbFp5bW1wSEZCcG1TM3pkci1LSFhxSWw4R2hrUHhiY0F2RER5eEQ?oc=5"
       }
     ]
   }
