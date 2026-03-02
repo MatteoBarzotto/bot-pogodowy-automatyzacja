@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-28 05:50:21",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 234654,
-      "DOGECOIN": 0.332997,
-      "ETHEREUM": 6884.2,
-      "LITECOIN": 195.26,
-      "RIPPLE": 4.84
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Sejm przyjął uchwałę o KRS. Awantura, groźby i \"cymbałki bezprawia\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2k1OUZITGFVS0NuWHZtMm84UUhYV3FMSXBtMHB0TktKTDZIb1RXcnVCaXh5RG53M3FaU2RLMEhNeWhfd3oyWHlUSDRxT01qeWNIbWRIUjBPQ05haFdpMG5IOEx6Z1B6V1pHMlQzejlnVzNSemk5ZTlLWUFvZ0hhOUVkS3hSamI1UnY3NjlEb2g5MGRJS2FWbUlHVXhvN1FZX1YtRkdaOFBZQQ?oc=5"
-      },
-      {
-        "title": "Polska 2050 traci wiceministra. Dorożała odchodzi z partii - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVNJMkVZTjVyRXJlQWxFcmE3N1YtOGRGNTJ6aHIwU1BHSENZUGhFc05LMUY1VmsxWExPeTlhMkdaemZaWnVfM0dBUFBqTHNDVUhyWTdWQzRlRDFXRk52WGdkdjNZTE1aampQRzhCWS1JeDF6Y1JSem1UVmc2V3dqWmpFUHJJelp5MTVlOUx2NzlwNnYtZGhULU9YNEVINnktUmc?oc=5"
-      },
-      {
-        "title": "\"Kaczyński na pewno jest poirytowany\". Odwilż na linii Nawrocki - Sikorski - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHlneEw5SHFLaU1HcF9CNzlmU0VRSzExLTR4bVR1bFEtUGlfLWc5WDE0T2pfeFJwd1JvVUpZUDBPUG50RGpIY0pBTTJwX2VLZEFnUjRZLU1FeUJ0YlFKZUtvUFA3NENMTkFZdWNsblZHYm5ZTjFSbkhNWmZ6X2FrcUl3YWpYSjRsRE1ERVNsUlRUdUdOY2o3NUc3N2ZkTDNsSTE3d0JTOWIzZ0kxc2V2YUpzTQ?oc=5"
-      },
-      {
-        "title": "Zmiany dla kierowców już od 3 marca. To trzeba wiedzieć - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURKUWNTd3luV2Y4MWUxbWN4em9xTzhoOFJwMWgtUTZpeVlkWWRiRHMwQXk1ODBWTTlqVGQtQ056by0yNGZmRGxxOW1MVkZ6X3lLSGpxbDNLVV9VVTJkUUM2M0s4RGFJb2s1VVdydUxjVWg0WFBFWVJWSDUwV09XRkg0WkJrYTVfNG44QlZzZXR0TExpRHBSelIyVy1aMkxmNmlBV0tOblYwN1dLd0E?oc=5"
-      },
-      {
-        "title": "Maria Zacharowa uderza w Kijów i Brukselę. \"Zaskakujące\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNellWRTVjb1RjRnVHdkdoV2ZDNEVybWl1SDhpT0hxT0xTaG1saDlwOHZGQ0VlMlhQT2xtSjV6aXhidmY4MHo4djFNdWE0aG1kZ0xkaUFXZTFBRDByS25yWEIwRVYzZXJEeEI5eEdRXy1JX0pxdGtDVmt6QXRpUE00dS1VdFRFSWhSdDV5X1d3cnQ2LXJ2U1ctcDExbTlfVDFIOW1ScUR5QzlYNzFBV24tcnl1MG4wQVJMQUc0enlxOA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-28 06:28:51",
     "weather": {
       "Warsaw": "Warsaw: +0°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Wojna na Bliskim Wschodzie. Iran nie chce negocjować z USA [NA ŻYWO] - Gazeta",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-02 13:41:41",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6056,
+      "EUR": 4.2304,
+      "GBP": 4.8215,
+      "CHF": 4.6696,
+      "JPY": 0.022963,
+      "AUD": 2.5522,
+      "CAD": 2.641,
+      "CNY": 0.5238
+    },
+    "crypto": {
+      "BITCOIN": 238556,
+      "DOGECOIN": 0.330459,
+      "ETHEREUM": 6993.33,
+      "LITECOIN": 192.2,
+      "RIPPLE": 4.87
+    },
+    "indices": {
+      "^WIG20": 3417.03,
+      "^WIG30": 4359.15,
+      "^WIG": 3417.03
+    },
+    "news": [
+      {
+        "title": "Atak po deklaracji Starmera, dron uderzył w bazę RAF. Brytyjskie siły w gotowości - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXU2SjFRVndxUkRfZmFsX3JGZ3RlazFEMmVfdXhWd0VDSjVNZ3Juem9xR2EwWms5c1doX3ZpZWJIREY1TV9XZXNWSGpMdERTNk9kOXFDY3JiYkctMVBfVXlfcTlBVFhmNk1RcTJkZmNpcDdWUXRxTk5GaFBLMkoyZW1zb2M4SkxEMk1BTF9zZ3FCV3RRSTNQeXpiSkFhZWU2SVh4OFZaUmt5dksxaXA2VW1kNA?oc=5"
+      },
+      {
+        "title": "Kolejne ataki na Bliskim Wschodzie. Iran uderzył w rafinerię - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlNvd2JJNUU0dVlzV3lYMDItTFAwenh1VDJhRjZDRDdCcEo4ZnJBVVpZLWxBcVdkcnZYSXljM0VydndXOXBDcXBXYnRCRUp4QlRuVmFFVE1ncG5ubi04ZFpJcTJkSy1mU2FMTGVTSTlmSWZTVGQwQU0xT1NQeFJFd21kY041V2NEck5oTF9aU0Z0a045RkxvSVVSakxSdUExZ0lCbA?oc=5"
+      },
+      {
+        "title": "Trafiony obiekt jądrowy w Natanz. Przedstawiciel Iranu potwierdza - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnY1MWRCVmVPT2Q3VmszSFg0SkxvdHZjdFcydU10NG0wRWxhQzdDcHMzYS1jTjF2TS1xQ3I5dDhMX05aUVlSZUtDaVpFd0FJRm5lSk1YRWNwV3FXTV8tMzRES3JrdGdvNGNCQi1oYlRfeXBRQUdBTkVLakZCNFhtaVJabFlicXl6aGFrSUhXN2hLQ3VHMFJrRC1aMmMxMXVaMHV5X1lXSFlKVWc?oc=5"
+      },
+      {
+        "title": "Polska wobec wojny USA z Iranem. Wyraźny sygnał z sondażu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnBJTm1ody1Ed3MtNmYxZkZ1RE1IaGtldUxwSGhXc3dkR1hVcERMMll6Y1hfVzRrSG9adEhwNnFKUmRZVlo3RTJOakRfdjBCNUVwX3IzLXhtWURKVFJVWUVBUmdPbUcyRUpNZ1BSMlVzdVMzdDlqMGE4NDhqQlcwRnFYaXRLTnI0bE4wSllwQjJ4akZpVVdybWpDYmVPOVJ4?oc=5"
+      },
+      {
+        "title": "KO prowadzi w nowym sondażu. Różnica między partią Donalda Tuska a PiS coraz większa - Rzeczpospolita",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWdjUklyT3RmX0lIc2pDTkZ2elZPUHR4TFE4VmZ3cldXdUU3SW5KU2dJaF9jY3gyYXNaWDRsZEVEVlVLWnVHQVhvOERZUDFlU1JzNUd0LWJIMjdUZVJSc0ZDdGZ5XzV2UzdiV1NJVW0wNjM0NnJSaG1TanNjSHFSejBOLTN0U1NnclhlcHRINUF1SVduTXhzMzJYZHY0Y3J1ajEtMXhwQTM0YVVvaVBFYThlWQ?oc=5"
       }
     ]
   }
