@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-01 14:34:53",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 236927,
-      "DOGECOIN": 0.331516,
-      "ETHEREUM": 7058.94,
-      "LITECOIN": 191.74,
-      "RIPPLE": 4.87
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Kaczyński zapowiada \"rozpoczęcie marszu\". Padła data - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclczRkRfaE5qR2NkbWlReG1yRG5tLTFFcTJMaU11eEtleU42ZDRHWW9PUG9HbmVEWkYzRUVLVVc2QTdWVkx5V21zZDVXZ2RfMUF6VDJmd1FDWm1USDhLQXdYYXFDbW5aaUtjZHA5aC0zUjdwd0JsUkJDMnZRYlVOM012NWtHVGpmY2g0Qi1BdEd3ZVlSYU1F?oc=5"
-      },
-      {
-        "title": "Brytyjczycy alarmują. Irańskie rakiety poleciały w kierunku baz RAF - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTQyV29RenRsVTNQd3hEeEp4ZXhOVGRtWFl3UXEySG05QXNZQjRRUUxUa2JaNWEwcjBMd0s4SW1zVW1TSl9PMVljSFdyLXNwSnk5bDVqOXNlQ3pnMVRXNkEtN0VMWDRvOUhDVEJFRllsU3N3aFppX0VseW5pdWVSMXFqQnFMWmpuRHdrdUtlckNlUEV2R1FsdDR5b29SLXNrcS1YSnE1c2dyQ3hZWUE?oc=5"
-      },
-      {
-        "title": "Za spokój finansowy trzeba zapłacić. Oto największy atut SAFE [WYWIAD] - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNldEM01Sc3pVY0E4cWdpSnJoMjRZWTdUTVYyX2o1RTdwQ3ZXZ3BHM1dsa1hPZWc5LXAzdHdUUjQ2MThxUTVKVTd6UkJkbmRCZFlLVFpfUFNEcjdseWNiZGstOUVaMUV0U1hlVzl1RkJoQmNyNlo0ZDBHOF95MlpyV25QbkxRQndRa1ZhdmtrZERfdkl1cFZiZEUtSldod1BfcmRkNHlDY25Ha2RIWVJiZTBiNFhUOFFMdWZnU25BNA?oc=5"
-      },
-      {
-        "title": "Szturm na konsulat USA w Pakistanie. Są ofiary śmiertelne - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0ZPMVRBZDJESXdwLTN2T2R5MmdyTS10dDVtYU1lVFdYYnYtZXJNTjF3Q3pjZ0NVRDROSnBsZ0hmSDRHMWhYUjBrZDhjQ004R0xjWmhSdllPV0FVT3UzemYwTndFSzE0REotaVNvZzc5QWVYek5hRVRWVFpxTWd1bm1TTmJjNk1xUTZadGF6VzVMcEg2WnJyLU9veXVxS2c4TDZ6aDRaS0M1SUd6eVctb1JLVWM2aUtic3Q4?oc=5"
-      },
-      {
-        "title": "\"Pełnomassztabka\" – jak cztery lata wojny zmieniły Ukraińców? - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNVF5d25KdUhWOGUxWG5OUGJiblp6ejdQNm1jUm9MZThNdTRFUTBOcHBLclA3OUZKYzFKQ3lhWDFoYkowT2Z4RjBTUGVsbUlpMmlybVh6NlNsSG94YWhxa2tuMkhmSG9CYzFsQXV0Nk9qUGZUWHJ1ZmN3eDdib0VMbkE1aTA3UTJ6UmJpZjVMY1I3LXFLYXkwVmxoOVp5ZzFQaUFUbkExdnVObDhSeXBTV2tMWTBabjFxdkxfWlpmWjM?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-01 15:18:28",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Ograniczenie ruchu lotniczego nad Polską. Komunikat PANSA - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHAxOU1CUzRUaVNmUE5pcTlIaXhnYl9RSkZQMnFhem5OWm91RjBvN2c2N0RkQVlUUUdhWFk2T0pMV2hpQjl5YVpZMm55MURRRkRNZjRDWFRxT2pfckxWVW91Y3NBZ3pBQ2RqRVR6b0JfYnNHZWd1elhQWE90VExrZHFpNHExTGVvMkFjY3RmQ0ZMU0g2X3ZpdUFYQWdDQmFz?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-03 23:22:14",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.682,
+      "EUR": 4.2732,
+      "GBP": 4.8962,
+      "CHF": 4.6853,
+      "JPY": 0.023353,
+      "AUD": 2.5923,
+      "CAD": 2.6876,
+      "CNY": 0.5336
+    },
+    "crypto": {
+      "BITCOIN": 252383,
+      "DOGECOIN": 0.332509,
+      "ETHEREUM": 7317.95,
+      "LITECOIN": 202.41,
+      "RIPPLE": 5.04
+    },
+    "indices": {
+      "^WIG20": 3249.38,
+      "^WIG30": 4153.61,
+      "^WIG": 3249.38
+    },
+    "news": [
+      {
+        "title": "Wojna na Bliskim Wschodzie. Trump: Izrael nie zmusił mnie do ataku na Iran [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
+      },
+      {
+        "title": "USA brakuje rakiet? Trump uspokaja, ale bez wahania uderza w Zełenskiego i Bidena - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3BWUElHS1dvR0xhWW1nYjdMWHNLOXh0em9oR1VtRXBXbE4yMEkzaHVzVGxyVUtUcU5YWjd3a1FrSVVXUWNhcXByeTROOXU1YWc0VWFtcWdzdHJIaGRRZmpPYUJIV0prWVdHU25hN0t0dXU5Q0NKaFFIMmp2NzRQZW5ZcVRyTkRBZE9JdHdESlY3Zmc5Z0xCeXpIai1MQ05iUW5nRHhfZDA4ZW5CVXZSREVKeUhJTkpvVThrUDdWRQ?oc=5"
+      },
+      {
+        "title": "Media: Arabia Saudyjska ma wkrótce zaatakować Iran - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFROZ25reDNBUFRQTGp2NTNjZDlOd3BRSzBGZDNib3pvWEtDYzZXR0RwQ2ViMWt5RjVZWDFCdlhGa1p4VlEyUzloNm1RVXRwdEVuOWxESVB5Y3p4Y0phWUgzYUxESHVKT3B2aEZ4YTlLbHJBaDZ0YWpjTUUwOG52clM5YXNwT2RjZXJUeWdaQXB3RTN1ZnJZ?oc=5"
+      },
+      {
+        "title": "Fotoreporter zmarł na Placu Zamkowym. Nie znaleźli defibrylatora - Remiza.pl – Polski Serwis Pożarniczy",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVVGY3BRdTlyczZqMkRQWFdVQ2MxdmVyT1V0NFRXTXRwdk10QjlZb2xwa19VcmRQYWhLOTJBLTVnTXJKbW14TFZOSWZndzMwZXEtY0ZzMndpbzEybmlFOG8tNjczRU5wNk5kNmltNFZqd2djdHBwLWcxWU9uWWtnWGdaUDUtbTVkTVHSAYoBQVVfeXFMTTlVRmNwUXU5cnM2ajJEUFhXVUNjMXZlck9VdDRUV010cHZNdEI5WW9scGtfVXJkUGFoSzkyQS01Z01ySm1teExWTklmZ3czMGVxLWNGczJ3aW8xMm5pRThvLTY3M0VOcDZOZDZpbTRWandnY3RwcC1nMVlPbllrZ1hnWlA1LW01ZE1R?oc=5"
+      },
+      {
+        "title": "Decyzja ws. programu SAFE. Co powinien zrobić Karol Nawrocki? - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGhCbHJFMkdtQVRDTkxjTk1VYnhnNkpndTdlX1F5dFJ0elF1Z21hUWhRT0xsTm5JTWVRVXF1WllyMWQ5SU5UYkhLbmtWVE1RWFBaSXJLdE8wWldXbHU2VmoxaHhpeGtzMDhVZHBxalM0SjhUQndTQWtjNjZ0SWFHalpuMUtRdkRSMWdLeXdTWElRWnpZNE1WMTVmWElHbm9LNlRGUVZwOHlUZw?oc=5"
       }
     ]
   }
