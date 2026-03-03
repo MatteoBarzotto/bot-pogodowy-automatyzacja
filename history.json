@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-01 00:15:30",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 239514,
-      "DOGECOIN": 0.336389,
-      "ETHEREUM": 7021.91,
-      "LITECOIN": 195.03,
-      "RIPPLE": 4.94
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "USA i Izrael zaatakowały Iran. \"Ryczący lew\" i \"Epicka furia\" [NA ŻYWO] - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80Z1ByS1Bwdlplc2t2WjZlYTdiUTJPV3NPU3M1Vjg0ZnBXaGNzbk9OWHVUc2N5VkNNWl9iREtualBlaWFEQ2VHaFd3Sk54S3lsVV9YTmxpSE1HT04yOUlDR3lVWVhkTkNuOVE?oc=5"
-      },
-      {
-        "title": "Kolejny atak Iranu. Celem Dubaj, Doha, Tel Awiw. Dziesiątki eksplozji [RELACJA NA ŻYWO] - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbURnOHhYNjdQakRqZFBRSG5hclFDc1pzSWpGelhaMnJTNXBzM2tCODJBelJXU21iZk8tVDJUa2ZZanRodmltZk9VWnFCV1FaeXhwak5WaVVXZU5QaGFJZWNjTjJZU3lCcE9pb1JLWEw1S1ViYjhzY05mZVhCZEdPakU0cjdBM1RUTzJTTl9lMEozUFZBeHVtdEtuSzR4cEh6UEtYbmJsUUV3elpyVHBBdTZURWpCQ3JtalFMRjN4VQ?oc=5"
-      },
-      {
-        "title": "Śledczy w białych kombinezonach we wsi pod Stargardem. Doszło do tajemniczej zbrodni - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEdoYmdJTVZxM0RpR09uc3pKUlh4VC04VFlnWDE0ZkZ1WUM4cFNpWGtVN3RHRHZkaDJyVEZ6R19IZDlMN2llU1NNRGEyYWRqTHpyWnJvOUkyMzc0eHNpUllkUUdENmJhR1NkZk53UzNTTUl5TFg2cXVnNkJnckVhNTh6VWExb3ZnMEF1VHc5TkVEM1dEUDZoaWQ0cFZnazIxdkhuSXVSQWVOVEIzVC10OFRGT3l4Y0F1bkc4Ry00UHVUY2N1YWVOQTNyVUQ5bnF3b1J1aQ?oc=5"
-      },
-      {
-        "title": "Do przerwy było 2:0. Tak się gra w Ekstraklasie! - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1ZXUUV1WExreUhLc1BZdVBQbW1NdVZGZTk1bExvQVRrOVM4djhaWnVBS2h3LThnWThDbjVyNU54V2RuTldGSENKQXM2ZkpkS3dJLS1XcTVpN2xZcnNfRExvQ09JVUNFY2oyUE9zSXlYY2VmUklyUEptNGpEZE1pdC1Cd3RNa1VKYlc3MERDSW53R0R6TTVualRnbw?oc=5"
-      },
-      {
-        "title": "Co za emocje w meczu Śląska. Oto tabela I ligi - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0M0bHZPS1VmRkJfNklDdUpGQXBfOHN0Zk44SmotTjJPWWVha1VSdzhwWUpZVnVSdFlQOFJ1OUR6dDdNVlZzWU9kYU41eHJjNzl1MW5iSTIxeUYtZmg2ZW5uZzdQbnpLNHRJeDM4WWY1cm5CZG9zcWZZa3ZGeENDTHpscEV3dDQycnlKSzIxU0V1RERkN2Y5dTNB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-01 02:47:42",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Kim są rodzice Karola Nawrockiego? \"Dyscypliny w moim domu nie było\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUxXdHRleHN6c3NZbXloQWFPNHhNRzU0THl5V1ZZQWhzYzZNMDZrRXhSbTdiQmJTOE4tTWxCc0Q5cFFXUF8zR3RXZW9WVlFtTHlZSExPTzA4azFJcHB0a1NOMEloVzlhUXZKTlBVWE5HQmhTRGlUX1NoY1VzUkxSbXJ0dlFLcks1alB5UWtDSnpOUVBzOEZUM2FTTHZMR2hpcGFYM3p4Mi1WUkVmSXVoQlkyS3NFZzho?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-03 11:32:34",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6056,
+      "EUR": 4.2304,
+      "GBP": 4.8215,
+      "CHF": 4.6696,
+      "JPY": 0.022963,
+      "AUD": 2.5522,
+      "CAD": 2.641,
+      "CNY": 0.5238
+    },
+    "crypto": {
+      "BITCOIN": 245309,
+      "DOGECOIN": 0.329948,
+      "ETHEREUM": 7199.59,
+      "LITECOIN": 196.04,
+      "RIPPLE": 4.96
+    },
+    "indices": {
+      "^WIG20": 3274.92,
+      "^WIG30": 4175.61,
+      "^WIG": 3274.92
+    },
+    "news": [
+      {
+        "title": "Izrael kontynuuje ataki na Bejrut i Teheran. Iran uderzył w amerykańską ambasadę [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
+      },
+      {
+        "title": "Nawrocki o przyszłym kandydacie PiS na szefa rządu. Uderzył w Tuska: Będzie to lepszy premier - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZk1lYkcxeGJGa0NKemV5R3RyUEZoR19NWno3V1g3UEJBb3NxTXFSd0pYb3ZIR2RaVldSYzUzbW5YMXplcWZrcWVGQTJHLWdGLVpudWtSLTQzWnlyZl9IMENSZG5PQzB2S3RneXBNWWRPcDdwc0UzWVI4M09XaXF5djFVX1FGQzUxOXB4aUtkRGM1U3d5RTBOTDZwc3R0ZDlfdzFueFN4bkd2MlpFNFE5NjNuVQ?oc=5"
+      },
+      {
+        "title": "Tragiczna interwencja w Bytomiu. 39-latek zginął od policyjnych kul - Dziennik Zachodni",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdk8tWjNWaFR4RGk3cjRFdHpNM3RjenFWenpoLTR2TC1jaXFUWUtveC1hQlNxaHdkZFphLThKNDhPSjViMHVMaDg1YVBpbzNsWFQyWlB0OFRXZ2pMRms4aGZKMzFtd0p0MXo0aTI1UllmMVVxcVlpZC1IZnBLTGhSSERHcWxnTlU5RkZndW5UUS1yeEZyUm1ySG5qeUV1bWxCanpiVnd5X1J5ZDN4MFF6TGwwZFBKVUJPMHBlbG5XblFfRW5YQmp6aHhuV2x0bmI1a1daeko3MjgxWGNjaWRBemJNbDExWDBXR0dN?oc=5"
+      },
+      {
+        "title": "Ważne zmiany dla kierowców. Policja: Nie będzie taryfy ulgowej - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG9fVHF6RDF2RGxrQktCUUZjWlVzSm8tUTA3N2NZOWsxZzAtNGNFWGlMaVpXVmJ2MzhzQndsN1pTUkd0MlpvVUpPdXloY2R0TC1Ib0pyVDRYdW03S3RxTTRoNVcwLXdCdXBTWktxa0tNemhvZE9PUjNjREpIUnhFMzVxNzNkRXdVb04wQWhxbHdtTElya0tlX3RVdEE0b3JBbkZUaTFn?oc=5"
+      },
+      {
+        "title": "Kaddafi, Husajn, bin Laden i reszta. Odcięcie głowy nie zabija hydry - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHNjVG9UeTVIcGlPTUpkTl9sRXE4Rm5LRE40d1ZMMEdpbFF5WjRQLTNOWGloRVJ5UTdBdENfNFZLZU1RbVdMQ3hPVDJJYUZ4d2JkSnhqSVluWGpSbDlwaFBNMlhncm1TVV9ERFBmU1U4UmVwV1U3ZUNKdlVtVkU4ODVJOGtzdS14RzUwdHkwYVkxSnA1emhLeTVJYzlTZEZqYmIwVktYaG05QzAz?oc=5"
       }
     ]
   }
