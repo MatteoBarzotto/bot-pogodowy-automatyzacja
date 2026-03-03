@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-02-28 19:24:11",
-    "weather": {
-      "Warsaw": "Warsaw: +11°C",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "Gdansk: +10°C"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 233160,
-      "DOGECOIN": 0.324699,
-      "ETHEREUM": 6799.56,
-      "LITECOIN": 189.74,
-      "RIPPLE": 4.73
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "USA i Izrael zaatakowały Iran. \"Ryczący lew\" i \"Epicka furia\" [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80Z1ByS1Bwdlplc2t2WjZlYTdiUTJPV3NPU3M1Vjg0ZnBXaGNzbk9OWHVUc2N5VkNNWl9iREtualBlaWFEQ2VHaFd3Sk54S3lsVV9YTmxpSE1HT04yOUlDR3lVWVhkTkNuOVE?oc=5"
-      },
-      {
-        "title": "\"Wyjdziemy na ulicę, żeby odzyskać nasz dom\". Iranka odpowiada na apel Trumpa. \"Zbieżne interesy\" - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3F0ZEF0Q2xrUWVhLWRscFZNVjF6T000c1lIOWt4QlcxdG42VXJmazVNMEpCMmwxanFDc09va01aYk1mdHhibHVsR3NCcHhhN0NLYy1QdEpfSnQyVF9PTXl6NG56U0dORHJpa2ZnRlowNkdzLXdxUGRQUGFkMGNsQ1NBejlhY2VuWUI0dzllSGc1OWJtUUpRVmNIU3ZkSG9mb1VnWWkyLUhGREE?oc=5"
-      },
-      {
-        "title": "Choroby rzadkie to problem nawet 3 mln Polaków. Na diagnozę czekają średnio 4 lata - WP abcZdrowie",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFqZXhjcXZENWNmQlJwOV8zQnhRcnBDVURfcGt4TXgyN3NMWDhva0dqOTBXZnRkUGprTktsc0FSR3djSFlWanVfZENpMVJveVhHLUx1ZzdqMWFHVkVIcmhqa0djWDlDa0VGel9rX2N6alVrRGltcGxvYzZCZW5TRWRDS2pNS05BdDN4N0pnSFREQ0ktazI1VDZjdGx1a2Q4UGlwVDZVTGR4dllZSnliNDV5SUxNdG1aSFhIbHE1elgyeEhBS3NR?oc=5"
-      },
-      {
-        "title": "Biskup Zadarko: Ucieczka od kościoła pcha ludzi do psychiatrów - o2",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVM3cV9wRExjMjVWWTZTNEtwQjhyMmN2aGxva0tJZDlZYXNsSHFmM2Y5QXlvUnVtMmFoR3lBLW1VdG5KVHhweE0zeXBhck9RRDgzSFM3b2RIa0RMcUN0bzhnVTNnTkR0WEk3WEJobHItNW1pTGhHTHEwdVJVWHQ4MmtRRmhmWThEb3dhX29HYTlwbkRzVXRDcllxSXhvRTNTUm81RlNEaWlKbzZk?oc=5"
-      },
-      {
-        "title": "Twoje auto może przepaść szybciej, niż myślisz. Nowe przepisy już działają, a od wtorku kolejne - Moto.pl",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOW9UYk84WVdMemphUUlwT3owcGpwalJQdG15VTRHMUVLNjY5QzNOUTNWVFROWDQyWUgySGhwNFBUSnROblpMX0dIRXhfS05wTndjYkx5UENnMWc1UnViM04wNEFKWFZUYXFhZklsY1RXWnhVRFppYndVUkNycl8xcklHV3FTWlRjUDNEcmgwMFN2bDZhdjhCYzBhalRpeXdMcTNMd1R3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-02-28 20:16:22",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Kancelaria Prezydenta przegrała w sądzie. Chodzi o prezenty od szefa InPostu - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzdjZnQxSW1heVNZY3ZWRUtvbEQ4TXpobS1TMWVDZWNnSktpcXB6NHAxbzBqOUdwd2N3djRHdjhzUUR1YVRlQXdiT2NwYURnVG9LeVA2MUs2cG5ubFhZTG5ZdTRvNXpCTEY1NmRiRWJJbEZkSkd2azUxOFRFX3l6TGdKOEMwRFdLekhza3V0dFQ4OFBBRk1iNXBCV2JOYjhIeGxxSE11NV8tV3NySXJXZGZyN3hzTmQwVjNwelFsa3M4NzA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-03 06:43:23",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6056,
+      "EUR": 4.2304,
+      "GBP": 4.8215,
+      "CHF": 4.6696,
+      "JPY": 0.022963,
+      "AUD": 2.5522,
+      "CAD": 2.641,
+      "CNY": 0.5238
+    },
+    "crypto": {
+      "BITCOIN": 247502,
+      "DOGECOIN": 0.333179,
+      "ETHEREUM": 7267.18,
+      "LITECOIN": 196.52,
+      "RIPPLE": 4.98
+    },
+    "indices": {
+      "^WIG20": 3402.36,
+      "^WIG30": 4342.42,
+      "^WIG": 3402.36
+    },
+    "news": [
+      {
+        "title": "Szokujące zachowanie Trumpa. Po Iranie zaczął mówić o zasłonach - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0s1TGoxaWVZcXpoZ0VGZ25XdVNhMi1IaFVqWHc1SVBxX194V0VnWUtTUGgtOFpOdlExbXQyVVVYWXVFZkZSb1BWc2RqRktheFYyNENOWFVRTmFDNGRxVkZWNzZRODVKa1lrUVVRNVR0VVJ2VVpYdno4VHNMdkdibGQtY3YxSVd3YlZjM3dkXzZnRHJjbHB1NDJNU2RNOVdMNXBJY3BpWEk?oc=5"
+      },
+      {
+        "title": "Atak na Iran. CENTCOM: poległo sześciu amerykańskich żołnierzy - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmw2Wjg4dlhjSTJaWFJCUXVubWRTelc1NVIxNHVmcnp1dnZFeWYwSllIbWdEd19FbGtBb0dBZmxZZDAzZU1CYUpXcFdPUENiYXdBSnFxeGFnT1FKOE9OU2Fpbm1XMGtzUXlOaFNTYVdUWVYwZTVLbzdKMktrOEkzbWdCQkkyTGF2MmUzSWx5YnNlemtsWWdhRWE4LVV4SGpMbmpjZVZB?oc=5"
+      },
+      {
+        "title": "Jedno wykroczenie i koniec jazdy. Od 3 marca kierowcy muszą uważać - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2dBQ3B1WGppcmY1VGota2xlZ1ZCVmVoMDdqZk5CZzNhNDZUTWpOQU9YOFEwTld5bVhzT3JtaHlrZzJ3NVUwQ204ck1hTHAtMzNlU3gzTnpsWHNjODdoX0s0NGVtYXRuYjh4SGNFYndBWXpHTDNfREFodFhjME8zQmdmeTVGY2R3MkNFc2lDaF9yX3Z2Rl9Ed3VpbExxaDRob1JYQV9YYVcySkV2OFJmZW02ZVE?oc=5"
+      },
+      {
+        "title": "\"Wierzyliśmy w Bożą Opatrzność\". Polscy pielgrzymi wrócili ze strefy ognia - Fakt.pl",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmdlY1NZSXNqajZWazhxQUtkMHNRSjU5Q2QyY2xGcXJQSXBQQkI1RnVHVVd1dWdtcU5qUkNwVE5vY2FIdEg3cGgwbG1WZ084ZmY5MmJxTkhGQ0l2OHlEbjBPa3o1ZjNqcFhYSXJNajlpcy1yWWg2UXN5d1QtMGFxLTlSVXFCT0E3X2pIVVpYVVVsOUdtT1B1cEYzWl82Vk0?oc=5"
+      },
+      {
+        "title": "Wielka Brytania odmówiła ataku na Iran. Premier zdradził, jak zareagował Trump - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEJpa1FjWldwMkJId3hUWnhnZVEyRW1zNVNWWlFSYURHMWw3UkNQS2FtNXJ5endOWUxybFRwdjZfcUNDWGdEUzFURjUwcjlKTjV6LUdXMlQyRWdGMmladmFrUndvRlh1dV9jTXNDX3pwNU84NVYxMTd5ZmppSnlSZ3ZCX3ZOZHdWOGRseUowdHhITW0weElBY1JsdmtQbnJfWDN2d2NlZHJKVFRWRWdoSGVCcmNMMjA3R0E?oc=5"
       }
     ]
   }
