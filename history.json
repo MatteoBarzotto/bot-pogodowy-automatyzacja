@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-01 11:18:29",
-    "weather": {
-      "Warsaw": "Warsaw: +10°C",
-      "Kraków": "Krakow: +8°C",
-      "Gdańsk": "Gdansk: +4°C"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 237523,
-      "DOGECOIN": 0.334706,
-      "ETHEREUM": 7076.89,
-      "LITECOIN": 192.99,
-      "RIPPLE": 4.91
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "\"Stan Wyjątkowy\". Morawiecki stawia się Kaczyńskiemu. Nawrocki pod presją Tuska. Macierewicz wraca do łask - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODBlWlA4UG44MW1IQU1EcVMxMDU4SWROODBONnQzdWRkN2VPYVY1cUlucTZHM1hDeVBhdWEtTklNOUZET3J3ZjhadklZcWRpbGx3Vnd1UG4tVmZaVXFiLUZ5S3hwNHRhSXhoVlY1MkliUGg5OWxTa0QyT2dyZXFia1RKSmh3djdhcjB1eE9Ga3RXdVh4OGUxOGRtWXg3NW1UNHY4R3lUSGRHb1Q0STFnX19PYnN3bHk5b2c?oc=5"
-      },
-      {
-        "title": "Kaczyński zapowiada \"rozpoczęcie marszu\". Padła data - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclczRkRfaE5qR2NkbWlReG1yRG5tLTFFcTJMaU11eEtleU42ZDRHWW9PUG9HbmVEWkYzRUVLVVc2QTdWVkx5V21zZDVXZ2RfMUF6VDJmd1FDWm1USDhLQXdYYXFDbW5aaUtjZHA5aC0zUjdwd0JsUkJDMnZRYlVOM012NWtHVGpmY2g0Qi1BdEd3ZVlSYU1F?oc=5"
-      },
-      {
-        "title": "Fręch w finale WTA 500. Mistrzyni Australian Open 2026 pokonana po 154 minutach - Sport Interia",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUtRYUJWSVFTNHJvSjNiUWtNT0R6WWlENG9ldVpTc1JaeEFhM24tY3NDSEdsUHlWVjlmVncxOVlQMmFKUWpXeTliT3JhanVDM2ItYjVBZ1ExbkRkMXR4YzhiaVlzRzhLaEplS00ydlhranR1OHJYQWZwUzNNbHo0c1pXc2NUdmpFS0MwdmRRRVpGRmlrcFA1bjcxZEFGbU9VV2hMQ2tOQzA1LTF4LVE?oc=5"
-      },
-      {
-        "title": "Wpadli w kryzys. Były lider Ekstraklasy leci w dół tabeli - Sport.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFNPbXBuTzJFeGo2dE50T2lkSDNsSzZyMUZmVXVLOV9Vdl9mcW1BM1k2aTVyVXdvN19JYUIxX1E5aWpOaFhEU0ZaTnIydlQxQ2FwOHFNTFlZeGhlNzNiVUMwVWZSWUloczV2SXNuOGNjVU1ES3dZUnE0SXhaZE55b1AtQm1pRVc4LVc2SzQ0Y2xubU1DYVZZQzBqbWp1SHFYTnd2Yk5tTVQ?oc=5"
-      },
-      {
-        "title": "Analiza Kolegium Sędziów PZPN: Arka Gdynia – Lechia Gdańsk - Łączy nas piłka",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlVVd01tSnlWcjlLUmRCUk9TWkdCYnYzaGdEbDIxb3E0WWdFM203WVFQUklNQTBJUlQwX2M0TF9CY1ZJRjd2Mi1oZjVVWFFsNkc5b3gxSHNoMnFHWDJiYk5BaE5oalRMdURzVGxTUTdneFVIX3BnY1NuX3hPTTdvRHRsN0RkMF9VZFNKcVRLUDVPNElDT1R5RnVvV045ZGRadmtidEhR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-01 12:14:51",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Tusk zapowiada interwencję ws. cen paliw. Akcje Orlenu runęły - Money.pl",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTRJUjRjOVR4eGI5QktyOXFEVWk3UEM0RXNNN0V4Vm43MFQyQURyT0ItT3E1bXhpeGtXcnlhMDJ0TV9mcDNlVG5rbzE2eXdsMjdkZDBISHAtU1ZrQUVhZ05RZnFnU1Z2ZW5QbG9iRVQ2cnVMUVA5U21qS2xDYzBCTzZWbnFqc3Y2ZVo4RDJ1dlhvRkpyWTZ1VGdLZFpjNGlHS3ZYQ25zM0VMTWl5Q25WZnQzX1Q?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-03 19:38:52",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.682,
+      "EUR": 4.2732,
+      "GBP": 4.8962,
+      "CHF": 4.6853,
+      "JPY": 0.023353,
+      "AUD": 2.5923,
+      "CAD": 2.6876,
+      "CNY": 0.5336
+    },
+    "crypto": {
+      "BITCOIN": 254422,
+      "DOGECOIN": 0.334347,
+      "ETHEREUM": 7380.45,
+      "LITECOIN": 203.87,
+      "RIPPLE": 5.08
+    },
+    "indices": {
+      "^WIG20": 3249.38,
+      "^WIG30": 4153.61,
+      "^WIG": 3249.38
+    },
+    "news": [
+      {
+        "title": "Izrael kontynuuje ataki na Bejrut i Teheran. Iran uderzył w amerykańską ambasadę [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
+      },
+      {
+        "title": "Cofnęli Polaków tuż przed wylotem z Omanu. Pilot nagle zawrócił - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTkwYXFudHV1REhsbW5wM1c2YmxpOFgzNkc0RVU1ZHhQQ0dTRkJtbF9qQWhaQjFobVcwNHpHSXpTTXNDY2hQbnVXTkxCX09kRVRvbWxaZm9qeTQ1R1l3SG1udjFndTFVQ2g2YnktbG9XdWh1QVA4aUVOWTRaRjdwdk1yYXh5TzhDMHlBbVV0a3gyME0xWk5TN0NkMEpJeTZQYjdNaVh5cWU?oc=5"
+      },
+      {
+        "title": "Tusk zapowiada interwencję ws. cen paliw. Akcje Orlenu runęły - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTRJUjRjOVR4eGI5QktyOXFEVWk3UEM0RXNNN0V4Vm43MFQyQURyT0ItT3E1bXhpeGtXcnlhMDJ0TV9mcDNlVG5rbzE2eXdsMjdkZDBISHAtU1ZrQUVhZ05RZnFnU1Z2ZW5QbG9iRVQ2cnVMUVA5U21qS2xDYzBCTzZWbnFqc3Y2ZVo4RDJ1dlhvRkpyWTZ1VGdLZFpjNGlHS3ZYQ25zM0VMTWl5Q25WZnQzX1Q?oc=5"
+      },
+      {
+        "title": "Ograniczenie ruchu lotniczego nad Polską. Komunikat PANSA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHAxOU1CUzRUaVNmUE5pcTlIaXhnYl9RSkZQMnFhem5OWm91RjBvN2c2N0RkQVlUUUdhWFk2T0pMV2hpQjl5YVpZMm55MURRRkRNZjRDWFRxT2pfckxWVW91Y3NBZ3pBQ2RqRVR6b0JfYnNHZWd1elhQWE90VExrZHFpNHExTGVvMkFjY3RmQ0ZMU0g2X3ZpdUFYQWdDQmFz?oc=5"
+      },
+      {
+        "title": "Dr Sylwester Gładyś wyszedł wynieść śmieci. Ślad po nim zaginął. Rodzina o \"trudnej informacji\" - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnBacmtuQnF6VDdfYVVQSFE4UFdSS2QydWU5OEdfaUZEdUdjU3dIV1cwRi1LSGFaTzJWQTBveXJCb0I0TzdEVk81T1VJcXY3WjQ1c1Q1WGVKTlF1VGp6MTBwQXJLN29lM0tDNFA2WDBHMVFncU5seFBpVGc4MUZTb0MtN0tmd18tTHBBSGxwZnJQcWtfQ1Y5ek5SdEFySHZDYkFGdDFuNG9mQXR2VkdjZ2Q1OEVtcndXWFM3N1NR?oc=5"
       }
     ]
   }
