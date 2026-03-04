@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-01 21:19:04",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 235360,
-      "DOGECOIN": 0.327263,
-      "ETHEREUM": 6946.78,
-      "LITECOIN": 190.07,
-      "RIPPLE": 4.83
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Atak Izraela i USA na Iran. Teheran odpowiada, są ofiary śmiertelne [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNmJ2RFVQYmtVc2xJRXUzUUhjdm5PSFNHNHFXSzZ1MWp6Z0JuZUJ2V2dNc3kwUTdCTHlhdkFMZk9JU2JDdTFHb1dOdndaVWJGYWt4LVJ3R3dXZTdqWGlWZXpKcFE0aXFzalE?oc=5"
-      },
-      {
-        "title": "Wyszła na 15-minutowy spacer i zniknęła. Trwają poszukiwania 12-latki - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXZvbzNPZmFjTm1Ib0VSeTZoMERqbzVtUllZeWRXV0dZQ0dFWHJQYURRUWVJVmFVb25URjhudEpSZy1JZnBQSXBDelV4NUxEMzhuVURrNnFMTW5pRWc3VTVRUkEzelhvZHRZWlRlLWxmaGtTaTZOVk91dGo4VkV0OEdNR3NLazEyRVVLNHp2Um9aNkRHa3Z2Um9INWQzaEJBN3BOdFk2MHJjaDJNLU1IS0NsUGtvLW8?oc=5"
-      },
-      {
-        "title": "Pierwsza dama na sportowo. W takim wydaniu rzadko widzimy Martę Nawrocką - Plotek.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkh3WFJJdTF2RGR3c01SVUFxSlRTSTV1bWxBZEdVN29SVkw2MElQX0JxZHBVNVBpZWYxVDlCVF9SdF9XU0oxa3dCV1g0cWJibUMxMHJMcG5ZU252N1czN25JYW1kbWh3RXQ0Sm1ZOUs1SGEyQi1Obzl0V0lmQ3Uwa3N5djZKOUMzUEV6U2hMMGhkUWh3RE1PRmpCT0xsSUxIWm5EMExwcURqR2VZTEVsNHdPUFFtMDhr?oc=5"
-      },
-      {
-        "title": "Ukraińcy przełamali obronę Rosjan na ważnym odcinku frontu - RMF24",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVJpUXp1WFNUYnZtTlRSaldjQ0FNMWpBZ2FadUN5N3JfZXI5c096eUtSTTRYd09IUzYtNzdPXzd3RnlkMENqODVqUlBrQTdGZUFYQUlMYkdSN1gxbHM0VXFyZVV0a2Nuck1IMmVXUEpyVzMyVXVQRnRuU3Jid3ZGOWJDOFJOUUttX1QxVDJ5eHJNVXVEdS1YRWtnWXJpcnJQZVdGMFMwRUJMTE1qcUJpRGdkUWdOeDRWMHhLOFlJRnZ0Unc?oc=5"
-      },
-      {
-        "title": "Mateusz Borek zwraca się wprost do polskiego miliardera. Mocny apel - Przegląd Sportowy",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLVRTMjdEcnZrckhrc3BxLS1Ubi1XYTFOQWg4SnZMYzRYZ2NzVnJBN1I2NURyTkFpTjg0Nm1aMTdETE55RHRqa2RNWFlxdndOb2FKa1N3VFI2d2ZVbXAtbVF0SGxEV01DcjctekFxNXI2T1pTcWY1VnhDc3E5WU1wb0ctQUhSSVI5T1JHWUVhU0FwR0szNTdRQXFPZWNZNEdHcE9CQXZpcWZ5VmlHLXNPMmFBcGVqcVBGVjNRR01oWExqOTNJV1RLdzRIYw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-01 22:17:04",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "\"Nie ma już wsi spokojniej, wsi wesołej\". Minister o zagrożeniach dla Polski - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGNsZUVYLWxjN3lnWFpjX0R2bVlfN0hnS1hoTTZ5RkxGNnhZQkw0VFZ6eXFWalBlaF8xTzA5b09aVVZaTDB2ZjNHMG5jN2JhVFVSM1BCQ19NcTZGSjNHYUsyd19hdjVwUzl3RUUwUlV1ZUxqODRDdmZ0Z3hmS00xTVc3bE5PMmh1U2RGazNxdUdTcGltQXVlYUM4ZmNzQnJVWklTYUFsSVlMY3g5YkhaX3l3c2txbWRXZUZBc2ppNjA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-04 09:31:44",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.682,
+      "EUR": 4.2732,
+      "GBP": 4.8962,
+      "CHF": 4.6853,
+      "JPY": 0.023353,
+      "AUD": 2.5923,
+      "CAD": 2.6876,
+      "CNY": 0.5336
+    },
+    "crypto": {
+      "BITCOIN": 255461,
+      "DOGECOIN": 0.330982,
+      "ETHEREUM": 7395.54,
+      "LITECOIN": 203.4,
+      "RIPPLE": 5.05
+    },
+    "indices": {
+      "^WIG20": 3292.78,
+      "^WIG30": 4214.3,
+      "^WIG": 3292.78
+    },
+    "news": [
+      {
+        "title": "Konflikt na Bliskim Wschodzie. Izrael nasila ataki. Eksplozje w Teheranie i Jerozolimie [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TaEpjbERiQ3ZUYTNUaEdCa3I2RlJUUEY5NXc5NG9DNlpqVDF2NmtOaUFvQ3VqZzUwdGxNVHQ5UEY3YVd4SVMyWXRydUlLUkxJU3g4RXJkYmtzUjR0eGJoLTh2TFhaMC1NM3c?oc=5"
+      },
+      {
+        "title": "Działał w Młodych Demokratach, flirtował z KO. Kim jest nowy kandydat Kaczyńskiego na premiera? - Lublin.Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjNsc0xaX2R1cXQ5NnZRRGtza0RFM1dBMkhvYldROURiS1ZpVkNIandxS3ZjVXZkcEV5R3lONzNISkstS2xuOU5vUmZhVHlRdm5hOHh6QWNPOUxHSjZPNFB6UXluNmhENTlmY2lwemNEOFV1S21hUkdVazBtM0xNOXVOekNycjJ3SlFuM250b2FXMWo2UjUxX2RxTlRzeGVKV0UwSy1ZUFVuUUd4clRLaUFkX1U?oc=5"
+      },
+      {
+        "title": "Jest nowy sondaż. Słodko-gorzki wynik dla Tuska - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDBONEhXeTFJNUQzSXR1c0Q0SEM1V0t6SUFDQXpTM2NDN095VWlzQlc5UEpmdEc1em9vamFGcTY5OTA5bDZWUDRUd291Wi1zSjRzdGt6dm92ZXozQ2d1U0xvdjNMZmJ3eVhGdGVjSjAtYXdRWWRQeDRzb0hVYnJyMlhRUlRYYnVQSklEN0Z4OVpwQms?oc=5"
+      },
+      {
+        "title": "Rolnik płaci 22-letniemu synowi 4 tys. zł. \"Mówi, że to mało\" - o2",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFRyRlpJR2JwZmFzTmpSWE1nMkJrSVB2d0RjMlVINl9XeWFJV3VTRFJyZF9Lanp2UzlwcVlIcVBydWRwUi00NUxwMDZaTU5XSkVoNHQ3MHN4NnVNa19IWG9lOFpNTzdYb1FlN3pmY0JISzNDbEdZMTNBX0dFTm9nNkh2WUQzdy1OQm1MQ3lzZjNsc1kzcUw1TTkyb3pZLUxUMTF5WFNR?oc=5"
+      },
+      {
+        "title": "Przekazała 4,6 mln zł z Orlenu na referendum PiS. Zajęto jej 4 nieruchomości - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREhuVDlRUmNMV0U4V1FrQk9hejdIaTNoeDVoZ3VVWEl4bFFzWDQ5ckx4c3pMaHEyX2dTQ2hCQWQ4WmFBWTFSX0NlQzJ5eWdpWVhTQlVuaHhaTFpMMUdHY0gxME1oYVdhUFFuZ0YwMmtfc2NLSWxqelNQb3d3eUpyUnJ6Skk0MXAtMTM4RVdBLTVtcnJ3VnIxTzlyLWZEdnpueEI1MDhVSm9CUQ?oc=5"
       }
     ]
   }
