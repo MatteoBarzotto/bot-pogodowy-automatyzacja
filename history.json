@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-01 23:17:17",
-    "weather": {
-      "Warsaw": "Warsaw: +6°C",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +3°C"
-    },
-    "rates": {
-      "USD": 3.5804,
-      "EUR": 4.2233,
-      "GBP": 4.828,
-      "CHF": 4.6323,
-      "JPY": 0.022942,
-      "AUD": 2.5471,
-      "CAD": 2.6195,
-      "CNY": 0.5219
-    },
-    "crypto": {
-      "BITCOIN": 237455,
-      "DOGECOIN": 0.333142,
-      "ETHEREUM": 6998.42,
-      "LITECOIN": 192.07,
-      "RIPPLE": 4.9
-    },
-    "indices": {
-      "^WIG20": 3440.02,
-      "^WIG30": 4400.68,
-      "^WIG": 3440.02
-    },
-    "news": [
-      {
-        "title": "Brytyjczycy alarmują. Irańskie rakiety poleciały w kierunku baz RAF - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTQyV29RenRsVTNQd3hEeEp4ZXhOVGRtWFl3UXEySG05QXNZQjRRUUxUa2JaNWEwcjBMd0s4SW1zVW1TSl9PMVljSFdyLXNwSnk5bDVqOXNlQ3pnMVRXNkEtN0VMWDRvOUhDVEJFRllsU3N3aFppX0VseW5pdWVSMXFqQnFMWmpuRHdrdUtlckNlUEV2R1FsdDR5b29SLXNrcS1YSnE1c2dyQ3hZWUE?oc=5"
-      },
-      {
-        "title": "Francuski lotniskowiec opuszcza Morze Bałtyckie. Wiemy, gdzie popłynie - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnliMTc4SmRaY1NTamh4anZtSjRhSlhDdkFfa1NLaHM3UlBLR2NsRFhFYVNPNnZSYmJZbEZVOW5wT0ZGNEZNdmk3OVZNRkMwU0w5a1RPRkdYb2RfUklPUnZHbmYyVnpad29BOUJtcDJjSDdEYUduTnU0UTgtUFJmOXF1TFFkRkZ6TmY1WHZ5RUlHN1dZN05STnB1MVZFN3JaTGl5NDZwV1VDUndsT2FLZC1OZ0RoN3MzaHdMYVl2SFpnQkpxOGdr?oc=5"
-      },
-      {
-        "title": "\"Bili się z komunistycznymi zdrajcami\". Prezydent o Żołnierzach Wyklętych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3MyTlo1dGpoWVVIbjEtWDhnczJ4N2lCRDRxV3M5bHVpRXVwQV9IdTNIbzRjeTZ1dUNqTy12eVItWkJ1YlJFY3ZQbnFGSkRheDh1bU9pNzdrWGhsa1dETUJqQVdUMmhDd0NFNkdqOEszX2M1U0ZGeDNxUUF2QkVXSGROYmdUQ294RFo1SXVsNU83WGhIRV9HVFdwRXJNRU1SQVgzbG1FSks3SG1CRU5fWkVn?oc=5"
-      },
-      {
-        "title": "Iran atakuje lotnisko w Iraku. Pożar w amerykańskiej bazie wojskowej [ZDJĘCIA] - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU9QOVFzV21mYVVtNk5xNkNobDJYb29KQUt0R3hxekM5SUg4Q29hQ1lPLWFkSm1YaXR3MmdfQXlVNllOcWVrQlRlRmQwTUtFWTVORWc5R2EybmxTdWZSMUJfR3UyZm8xeUlaQmN5VHA2UUIzblVkUkt6Wkc2NUVaMURhT1hXZHFDV2lQVmxubkpBdTBpWXYyZ3ZLdmE1aFBQcHBzcklrZHp2UjAt?oc=5"
-      },
-      {
-        "title": "Kaczyński zapowiada \"rozpoczęcie marszu\". Padła data - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclczRkRfaE5qR2NkbWlReG1yRG5tLTFFcTJMaU11eEtleU42ZDRHWW9PUG9HbmVEWkYzRUVLVVc2QTdWVkx5V21zZDVXZ2RfMUF6VDJmd1FDWm1USDhLQXdYYXFDbW5aaUtjZHA5aC0zUjdwd0JsUkJDMnZRYlVOM012NWtHVGpmY2g0Qi1BdEd3ZVlSYU1F?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-02 00:17:37",
     "weather": {
       "Warsaw": "Warsaw: +5°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Działo się w nocy. Iran grozi Albanii, Rubio mówi o \"rozpętaniu piekła\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZlFXVUtXT0lsYUdrRE5SU3d3NnI0clNaX2hBdjhiOTdoYy1VUnREem1neVlRaDNMY3dUQk5sOUZmVlZSTU0yNnk1NTZMa0VQUkF6WnR5TFRBTHJBZUN6WEt2V2thV2NBbUpDajVWbGt6ZXI0RnMxV1VSb1puR3pXVlViY2h4cTBmZmtWbXhVY3FqcU5QMi1YWFFDMFB4bEt6eXFBd3gtWE8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-04 11:29:37",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.682,
+      "EUR": 4.2732,
+      "GBP": 4.8962,
+      "CHF": 4.6853,
+      "JPY": 0.023353,
+      "AUD": 2.5923,
+      "CAD": 2.6876,
+      "CNY": 0.5336
+    },
+    "crypto": {
+      "BITCOIN": 261844,
+      "DOGECOIN": 0.339811,
+      "ETHEREUM": 7618.54,
+      "LITECOIN": 205.81,
+      "RIPPLE": 5.16
+    },
+    "indices": {
+      "^WIG20": 3327.45,
+      "^WIG30": 4249.32,
+      "^WIG": 3328.68
+    },
+    "news": [
+      {
+        "title": "Nowa fala ataków na Iran. Izraelskie wojsko ogłasza sukces. \"Pierwszy raz na świecie\" [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TaEpjbERiQ3ZUYTNUaEdCa3I2RlJUUEY5NXc5NG9DNlpqVDF2NmtOaUFvQ3VqZzUwdGxNVHQ5UEY3YVd4SVMyWXRydUlLUkxJU3g4RXJkYmtzUjR0eGJoLTh2TFhaMC1NM3c?oc=5"
+      },
+      {
+        "title": "Niebezpieczna deklaracja z Iranu. Straszą długą wojną [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzVPRS1YcDNNdG9leXdOVUJ1ck5vWXlmUm16ZldGSmh4ZmpHTE5fWXdFNi11QjBCQmVjUmwtNllVNkt0aUpza0ZpeTRkT0lweTc5U1NuMy1oTEhqMFdMRk5DQTdfNndPM3dIdTAtR3VvT2dWNXBNOW1PTllGcFJFNzV6Qm1fVXJLSHZwTWJIczZTRTZOYTRmRTFST1hjMmVmWUpmQTRnOGJxZWRJbmROaw?oc=5"
+      },
+      {
+        "title": "\"Pierwsze zestrzelenie w historii\". Unikat wykonał swoje zadanie - WP Tech",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdjdpVlE0b2ljdzFsVUY1ZWZQcjVfRmRtVmdPdE5QVGswbGp6MldzZTJuVHJKdHMxNmI4d2xTNTZsdlg3bEROaVhrUmNTTHpHWjVtQUNieG1Vc3YwOFN3WndWYjhvWk55RmxVMGljdTBXUGFDTThRZy1QSUc1Y0tBVFBZdjFWSlAzN2RxRDZYT2EtbEMxVkdLUDZNU0llWDg?oc=5"
+      },
+      {
+        "title": "\"Niebezpieczna eskalacja\". Macron ostrzega przed ryzykownym ruchem Izraela - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWZIYzNtWkRKc29UWWYzM2JXTml4QTVJaWl0RTZiMmxMZDYzdXFlVkNwVllkbUFWMmd2bVM5SlpIV1VsZ3J0THBjS0JKbGltNUFzbFQwM0RYa2dRVWFYdzN4V1g3LWNSbzlGSUNpdWNhV2k2eTQwdVpjU2tFdkJFWER1bnJ6bTJNMmVhQ3lDX284b0lPV2RvZ0ZNak1raWNSUUFSMERRMnV5TFRoVmhmS1d5LVByTjBOcWtn?oc=5"
+      },
+      {
+        "title": "Rośnie napięcie na linii USA-Hiszpania. Jest odpowiedź na słowa Trumpa - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUG9Sc2d4NWN3TjAtZUpnRFZpaG05dTFPaEwzUzJOTTc3ZTQ2TGZzcDBDblhOSzJDNGNyM2xsQ3plRElmNDlsRFJFNzlScnBnY2ozODhmUXg4TzkxTTdRbWNucUtiNTRYMXZnZUk1TjRNQ0RTSGVqN2NCTDNYQ1dTSVJRSXN6SVBTTGtZaDdaamNWdHQwZ2ZyOTBsNDhDMlozbHVzSE9KYVdqeEx3d2VlbThYT0czUXFlQnpQUjA5bw?oc=5"
       }
     ]
   }
