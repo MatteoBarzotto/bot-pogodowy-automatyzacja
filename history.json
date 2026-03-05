@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-02 18:39:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +9°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 251047,
-      "DOGECOIN": 0.346747,
-      "ETHEREUM": 7422.11,
-      "LITECOIN": 198.53,
-      "RIPPLE": 5.08
-    },
-    "indices": {
-      "^WIG20": 3402.36,
-      "^WIG30": 4342.42,
-      "^WIG": 3402.36
-    },
-    "news": [
-      {
-        "title": "Atak na Iran. Nie żyje kolejny amerykański żołnierz - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnp4ZEoyVFdEUTVHX2gyeDRRNXI2N3ZPZ19oU1pQWTRjeGlidXlDazcxRU1zMGZLUEllX1B5cmp1SldYa3JUWDJlOXpRMWRFbEF0OTJCRGJSVFlWeUlpajJKeGlQSGhWeHBWQ0JvOGRUN3dlaEhnUWwwYWdrVmxabTYxODZ1bkU2VU9oOWRIRU5VdjYzSjlBTQ?oc=5"
-      },
-      {
-        "title": "Jedno wykroczenie i koniec jazdy. Od 3 marca kierowcy muszą uważać - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2dBQ3B1WGppcmY1VGota2xlZ1ZCVmVoMDdqZk5CZzNhNDZUTWpOQU9YOFEwTld5bVhzT3JtaHlrZzJ3NVUwQ204ck1hTHAtMzNlU3gzTnpsWHNjODdoX0s0NGVtYXRuYjh4SGNFYndBWXpHTDNfREFodFhjME8zQmdmeTVGY2R3MkNFc2lDaF9yX3Z2Rl9Ed3VpbExxaDRob1JYQV9YYVcySkV2OFJmZW02ZVE?oc=5"
-      },
-      {
-        "title": "Turcja koniem trojańskim w NATO? \"Nie chcą eskalacji na Bliskim Wschodzie\" - Tokfm.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUJlcUVERk5OTFdVYllEbDY2QUxXS0xhcnJBRmFXWUJKRUZUMVcwNFdRcU43MDFleTFKNGQ0d3dQMmpEcVhZUnprclhCWktYWWxSazJzUmtJLTN4akRLM29WR3BTdEtkTkNxUi1aRnp6b3pJTGpoUHpIRC1nTkpQYTQwWjQ1MllKNnhtZlYtc29aWUtGMmJpUjNwX21QS1E?oc=5"
-      },
-      {
-        "title": "Irański obiekt jądrowy trafiony. \"Ponownie zaatakowali\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV9XOVlDdENmZjUxcUVYUk1fTXBqc1hSb2QzSzhmb2pFaEZOaVBZTUZKYU5JNnlQdndqRXIxemNlcHpUWE5zdE9JNU81TzFhbk91OVJjTjI2OTJwQWZPZTc1eDBUVUFMUHVoT1VHNFI5c0VFUVBXeWx0MV9WOEpqM2ZySzk0WkFWLVp1c3dvY21JcDlmWERUSXdZR0xCRU9vSGc?oc=5"
-      },
-      {
-        "title": "\"Bili się z komunistycznymi zdrajcami\". Prezydent o Żołnierzach Wyklętych - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3MyTlo1dGpoWVVIbjEtWDhnczJ4N2lCRDRxV3M5bHVpRXVwQV9IdTNIbzRjeTZ1dUNqTy12eVItWkJ1YlJFY3ZQbnFGSkRheDh1bU9pNzdrWGhsa1dETUJqQVdUMmhDd0NFNkdqOEszX2M1U0ZGeDNxUUF2QkVXSGROYmdUQ294RFo1SXVsNU83WGhIRV9HVFdwRXJNRU1SQVgzbG1FSks3SG1CRU5fWkVn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-02 19:37:25",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "Skazani lekarze z Pszczyny. \"Lekarze będą bali się pomagać\" - Medonet",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTG9BVGNzc1k5Qk1OWDJtM3psZjQ2dHFGT2ZCSWQ1QVVlNWhLQ2VJd0VYcnB4OHVIRVF6Y29GQ2NtOG12RjdXb0RXU3ZIYWpMazI5aUZ0cGI2SjM1Xy1HVkVIMklrQXo5bHlZY0JtOS1oeF80dlFDZmFMdTd4bnJqTFJCbmtzVVd4T1VjcVBJb0p6a3d2cWNnMklzanVSSUxDd2NoSWhxN0syQjREd0t3dmRkX2FiSFRjTVozWFJYVFpNVFo2TGozYlI0Qm5DNFFhR05hYWVac1J5c2tDUnFGdQ?oc=5"
+      },
+      {
+        "title": "Dziesiątki cudzoziemców będą musiały opuścić Polskę. Wielka akcja służb - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzlwcEtzRERxcEFuSC1YSmoyUkRUTnQ1Uks3TWY3eTl6Wmh5akxkUl9pZmtSejhKN3VEMk1LaDZBM1l6M09ocEg5bUxiRWNycmhiTE8yZURPd0oteEsyREdKRGF3V3AtYzh4WmhpQU95b214VGJ3YVBwaDZJTF9zbjZzZHI1OWFJeWppQTh4Q3RvbzNMdmk1SXFQWURHVlpOXzBPRHNzUFVqUmhPb3huU28xZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 06:42:02",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.677,
+      "EUR": 4.2685,
+      "GBP": 4.9125,
+      "CHF": 4.6935,
+      "JPY": 0.02339,
+      "AUD": 2.588,
+      "CAD": 2.6888,
+      "CNY": 0.5319
+    },
+    "crypto": {
+      "BITCOIN": 266913,
+      "DOGECOIN": 0.354395,
+      "ETHEREUM": 7799.49,
+      "LITECOIN": 207.63,
+      "RIPPLE": 5.22
+    },
+    "indices": {
+      "^WIG20": 3335.75,
+      "^WIG30": 4255.61,
+      "^WIG": 3335.75
+    },
+    "news": [
+      {
+        "title": "Enter Air lata na Bliski Wschód. Prezes mówi o kulisach - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXVtUkFfNFJ1Y08wb0RpYS0wMEdoT0dxTmgzZ0VQa0hqc25KUWJBUlB1Z180UEhoQ243NkFycUlCLThzbGdra05ocmRBREkyS3BmdUZSaWZya054M2J0RW1IRU9FVWgzOG5heXl2eEdGdk5kcWNUWF9JNmdmSTdZNHZwcHJtc1VHbDFfWHExZU5qRzZQNWUxQTBOMzktSHJ5bGF3ZHctM0t5MFE?oc=5"
+      },
+      {
+        "title": "Awaria prądu na Bliskim Wschodzie. Cały kraj pogrążył się w ciemności - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVFpVUtLeF9WMTZlVjVPSE1OdklvOVNGQ1dYbHAxcUpHMEtFYndGZ3dyMTJvWm5MTjRXSDdEenlvWjB3YUgxZHRFSEszSktRaE53RGIxSFNHQTN1d3JyUTdNaU1iLWNsdldDYVY0UlZWUlFQQ2lUeGVCVmxDejdvQm9mZVFpU1oxOUV1ZEowTzJQWWhVeGpXWGhzNlFfMlI2ZXg2VmxsX3YtSkNTaFpqYktNMTlVRkhvZm1Pbw?oc=5"
+      },
+      {
+        "title": "Putin wyprzedzi plan Unii? \"Głośno myśli\" o zakręceniu kurka - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3NrZGJGRTRWeGJQUHdZSERPa0lKUkl2N0oyaFBaOHFUU19PR0dPYm1EUXZ3Z3paNEtwcVFXeE1KdWhyRkxpRlVRY1ZiZWRuTmoxUU01enlZWVlGTkN2R0hFNkhGLUh0eFUyMmN3WmV1dUROTzhQWmhZXy10dWZxU1lNbFVPZUtaWktVVVpiRTNESG1ackZkRUJvTUxNTW02Q3pFSGVnM1Y?oc=5"
+      },
+      {
+        "title": "Polska wygasza pomoc. Od dziś duże zmiany dla Ukraińców - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZjRGY3cTdETUtuZTU5dy1xdzBzMVJ4a3Z5RkUwOTlqUHhNd2tFZndhYnozcllZV1dlRDREZXc2UENjbl9nSG9FSEd4WEtBMlFIYVlxQ3BjYXpjT2FKUDBKLURQN3pOREptd0pZblU3NFNIR2huc1VIX21ZUlc4V25fdnJMX05qaDdSOFBQUDlEbjE2VjNQWk9KNnctdVVPWS1VMlIzcjFQMWpkLUE?oc=5"
       },
       {
         "title": "Dziesiątki cudzoziemców będą musiały opuścić Polskę. Wielka akcja służb - Wydarzenia w INTERIA.PL",
