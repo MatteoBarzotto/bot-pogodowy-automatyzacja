@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-03 06:43:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 247502,
-      "DOGECOIN": 0.333179,
-      "ETHEREUM": 7267.18,
-      "LITECOIN": 196.52,
-      "RIPPLE": 4.98
-    },
-    "indices": {
-      "^WIG20": 3402.36,
-      "^WIG30": 4342.42,
-      "^WIG": 3402.36
-    },
-    "news": [
-      {
-        "title": "Szokujące zachowanie Trumpa. Po Iranie zaczął mówić o zasłonach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0s1TGoxaWVZcXpoZ0VGZ25XdVNhMi1IaFVqWHc1SVBxX194V0VnWUtTUGgtOFpOdlExbXQyVVVYWXVFZkZSb1BWc2RqRktheFYyNENOWFVRTmFDNGRxVkZWNzZRODVKa1lrUVVRNVR0VVJ2VVpYdno4VHNMdkdibGQtY3YxSVd3YlZjM3dkXzZnRHJjbHB1NDJNU2RNOVdMNXBJY3BpWEk?oc=5"
-      },
-      {
-        "title": "Atak na Iran. CENTCOM: poległo sześciu amerykańskich żołnierzy - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmw2Wjg4dlhjSTJaWFJCUXVubWRTelc1NVIxNHVmcnp1dnZFeWYwSllIbWdEd19FbGtBb0dBZmxZZDAzZU1CYUpXcFdPUENiYXdBSnFxeGFnT1FKOE9OU2Fpbm1XMGtzUXlOaFNTYVdUWVYwZTVLbzdKMktrOEkzbWdCQkkyTGF2MmUzSWx5YnNlemtsWWdhRWE4LVV4SGpMbmpjZVZB?oc=5"
-      },
-      {
-        "title": "Jedno wykroczenie i koniec jazdy. Od 3 marca kierowcy muszą uważać - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2dBQ3B1WGppcmY1VGota2xlZ1ZCVmVoMDdqZk5CZzNhNDZUTWpOQU9YOFEwTld5bVhzT3JtaHlrZzJ3NVUwQ204ck1hTHAtMzNlU3gzTnpsWHNjODdoX0s0NGVtYXRuYjh4SGNFYndBWXpHTDNfREFodFhjME8zQmdmeTVGY2R3MkNFc2lDaF9yX3Z2Rl9Ed3VpbExxaDRob1JYQV9YYVcySkV2OFJmZW02ZVE?oc=5"
-      },
-      {
-        "title": "\"Wierzyliśmy w Bożą Opatrzność\". Polscy pielgrzymi wrócili ze strefy ognia - Fakt.pl",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmdlY1NZSXNqajZWazhxQUtkMHNRSjU5Q2QyY2xGcXJQSXBQQkI1RnVHVVd1dWdtcU5qUkNwVE5vY2FIdEg3cGgwbG1WZ084ZmY5MmJxTkhGQ0l2OHlEbjBPa3o1ZjNqcFhYSXJNajlpcy1yWWg2UXN5d1QtMGFxLTlSVXFCT0E3X2pIVVpYVVVsOUdtT1B1cEYzWl82Vk0?oc=5"
-      },
-      {
-        "title": "Wielka Brytania odmówiła ataku na Iran. Premier zdradził, jak zareagował Trump - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEJpa1FjWldwMkJId3hUWnhnZVEyRW1zNVNWWlFSYURHMWw3UkNQS2FtNXJ5endOWUxybFRwdjZfcUNDWGdEUzFURjUwcjlKTjV6LUdXMlQyRWdGMmladmFrUndvRlh1dV9jTXNDX3pwNU84NVYxMTd5ZmppSnlSZ3ZCX3ZOZHdWOGRseUowdHhITW0weElBY1JsdmtQbnJfWDN2d2NlZHJKVFRWRWdoSGVCcmNMMjA3R0E?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-03 07:41:41",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Śmiała operacja Iranu. Dwie maszyny zestrzelone w ostatniej chwili [RELACJA NA ŻYWO] - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlh5MFZGN3pMWTkyaXZ2Snp1NXdyektoSy1BaGtRYWdESzBsUVNVRS03dzl6TzlrMHJBSW4tb1pQcUtpVVltLXpTbUJyRndjQ0llSnpBV0pkeWVJaE1mVzJWemRVTkZrTUdSbC1iV0hxaV85NWlLWHprNjEwVER3eEJzRW14a2VCcTBtYTl0VDlzb0RmdXMwUXFab2YwNlZqQ3F6NFNsQWVEMHUyRko5bG01MnBOeGVlLWRYUXl1ZkV6QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 15:43:30",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.6771,
+      "EUR": 4.2739,
+      "GBP": 4.9108,
+      "CHF": 4.7205,
+      "JPY": 0.023397,
+      "AUD": 2.5905,
+      "CAD": 2.695,
+      "CNY": 0.5334
+    },
+    "crypto": {
+      "BITCOIN": 266128,
+      "DOGECOIN": 0.350482,
+      "ETHEREUM": 7761.49,
+      "LITECOIN": 207.74,
+      "RIPPLE": 5.26
+    },
+    "indices": {
+      "^WIG20": 3329.05,
+      "^WIG30": 4245.93,
+      "^WIG": 3329.05
+    },
+    "news": [
+      {
+        "title": "Śmiała operacja Iranu. Dwie maszyny zestrzelone w ostatniej chwili [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlh5MFZGN3pMWTkyaXZ2Snp1NXdyektoSy1BaGtRYWdESzBsUVNVRS03dzl6TzlrMHJBSW4tb1pQcUtpVVltLXpTbUJyRndjQ0llSnpBV0pkeWVJaE1mVzJWemRVTkZrTUdSbC1iV0hxaV85NWlLWHprNjEwVER3eEJzRW14a2VCcTBtYTl0VDlzb0RmdXMwUXFab2YwNlZqQ3F6NFNsQWVEMHUyRko5bG01MnBOeGVlLWRYUXl1ZkV6QQ?oc=5"
+      },
+      {
+        "title": "Węgry na krawędzi przed wyborami. \"Ostatnia chwila, by nie runąć z Orbanem\" - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGk2U1BDZ0pkT0ZTZ0d0ck54Z2N4MnB6aDAxY2xDcXVlOHhhOWoyUW4wMEhjUmxUaGxVOGY0WGxPSnpfZ2l2R1JsOWtPUl9zQ1JuNFFDX1h3SGdzRlNvYmFQNmo2SHhELVB0TDRYUlowLVl2NWxOcW1leU1aWmZZT2R5U3R4eVNUSU5OcWJjR09hbzVFcGxqd3FManFObUxOQ2lWYjY3OE5fZ2M?oc=5"
+      },
+      {
+        "title": "Kogo zatopi \"Bibi\" Netanjahu - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbVN1ZW10Tm9FdVZiUHZxeVpHb0IwTE01OHZ5Zm96a2Y3MGY2Y1FRVmg2dTZvOFhfTHExUExMRkY5cWtRNDlmSW10TVFkLWZzYUloZXdoTzg4eVFLZ2RyWk5XaTI0WU9rU2ExVDk4R2JNZkhtREpuSA?oc=5"
+      },
+      {
+        "title": "Stracił córkę w ataku na szkołę. \"Moja dziewczynka została spalona\" - o2",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQW92ck9YcURZUlpoc2NlMV82S2x5cHE5b1Bjd1k5OElzcERLaDdNeDJtN19rb1V5aVpVTEFYbzBpdDRMcFE5VldhVldFQmtPWWQtY0hWaGl2akxOMndlS3RSRm84UC1WbkNIVEtKMmVYWndyMERjVEJqb0tWaUJILTlyUDNZWkdwLVo1LWNhZVQ4NkR4MlhWdVFKM2FKZ3Vxd01MazNpWEhGdmIwdTZPeg?oc=5"
+      },
+      {
+        "title": "Święconka w cieniu pogodowej zmiany. Ku Polsce zmierza ochłodzenie, może dotrzeć w Wielkanoc - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjZ5MS10VFNRdkN1ZXYzcUc5bnRWR1hqOU5rTGFiVVJpWk1nUE1mM1dyUzlWakx5eEs2WFRTQ2doSWUwNVQ4NVdGdEJMYWhDdTR2UmxQdzRnN0QzajIyNjlUTGxTQ25WUWdKMW1xQVd3SkxQS0R5dmt1UXVrNGIzQzFSNEtkaTRhZTE0amFpQWlLcS1RTFo5Z3Z2am9IdTZxSHM3Y1pqcHI0UXRsN2k2REllSV9SOUJkRmYtLXhvVQ?oc=5"
       }
     ]
   }
