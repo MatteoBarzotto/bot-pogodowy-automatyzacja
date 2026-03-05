@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-02 17:36:38",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 251728,
-      "DOGECOIN": 0.349503,
-      "ETHEREUM": 7440.87,
-      "LITECOIN": 199.87,
-      "RIPPLE": 5.1
-    },
-    "indices": {
-      "^WIG20": 3402.36,
-      "^WIG30": 4342.42,
-      "^WIG": 3402.36
-    },
-    "news": [
-      {
-        "title": "Francuska broń nuklearna. Zwiększą liczbę głowic - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjJDYVVfWlZUX1ZpaW9RQVg3bWpSVkxnMk16UndxNUFXQ1pPekZOVGJUMEFOUEtzLVh5S294clNQTGdYbV92MzFwU2JRWm96QlNFek9hZlJHOHlUUjctRTBFYl9qQlVpTGpubjJJRUhGQ3dTbXFVUXpPejJxRDktVGNzaHl4NU1FdFlhdVpEcjFOOWNv?oc=5"
-      },
-      {
-        "title": "Komitet Nawrockiego ukarany przez UODO. Zapłaci za ujawnienie przez Czarnka danych Jerzego Ż. - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xCYy1yUGNTUmJHYmpKT25USE1ULVVzUWtFelNmZnRxLUhfNVV0dEpycXNtakc2QlR3RkZYeVViN1BLMGhhN0hZNy01alRKbFJ3bl9aNXZtRVJZLWowZjhxN0hXTnN4T2pPOFd5dVF2cGhGczU0SUZ4SWFIcXpoeWZjd2dVZkFHVHM1NUhfMGMwVU1ERWk4Qk1POUY5cnRxYlZDa19NcExqeldWVWdMejFiNmYtMHN4OTlKM1ZDVnpxN3ZPdGlOYU00Q2ZSSjREVk5pQg?oc=5"
-      },
-      {
-        "title": "Jedno wykroczenie i koniec jazdy. Od 3 marca kierowcy muszą uważać - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2dBQ3B1WGppcmY1VGota2xlZ1ZCVmVoMDdqZk5CZzNhNDZUTWpOQU9YOFEwTld5bVhzT3JtaHlrZzJ3NVUwQ204ck1hTHAtMzNlU3gzTnpsWHNjODdoX0s0NGVtYXRuYjh4SGNFYndBWXpHTDNfREFodFhjME8zQmdmeTVGY2R3MkNFc2lDaF9yX3Z2Rl9Ed3VpbExxaDRob1JYQV9YYVcySkV2OFJmZW02ZVE?oc=5"
-      },
-      {
-        "title": "\"Nadeszły niezwykłe informacje\". Orban: ujawnię dowody ws. rurociągu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2Vhd19KV09mZXZVcGltX2hFVUI5V3ZqcnhTTUNCdGlVVFZ1X0cxUTRzWmdqOHBPRTA3ck9yanYybHVTUDhXYzlnQmVtUmhZLVBhYjB2QkwtMXBuODYzeWpZd2FsN1ZjUXVONFN6dlZ3dUptd3dzMktSNEhtOGkzV2dOUXBwNmNfbUlWSVo5dmhaTkdHV3pvQUpYeVAzZw?oc=5"
-      },
-      {
-        "title": "Szczątki pocisku spadły na statek. Wybuchł pożar, są ofiary i ranni - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZE1xRXlSOThlNUJVaFlIZDNLc3UyYkVmcUdzYm9NS0dmUlU0WnRVTHV4bW9vd0JkQlFJZHA5Wi05RWNzZlFnaHpvWFBjZ2dNUU13NUw2cVBzcFhaR0RjSXRRdmVFSTdKZDIxMlNlYW43UVBVYm1qQkZtSDRaUHRzZlhPZ0JDWWtwQ0p6cU0yLUdwUjYxRzEwa05lV1dZWGE1Qjl6TkIyVQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-02 18:39:01",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Zadziwiająca wiadomość z irańskiej ambasady. Ukraina odpowiedziała - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjlPY2RqOFp0VkNwMTZQVWh4aXRoTFlZQUdXb0YtcW54UHJiY3pPVGMwdTB2VUItQXE2NExaQlJNbnBpb21vckhlMVUzR1lZWFp2OG1yRXUtdkdwN3pSbzJGbklQb00yZ1BuQnB0UWtTSlI3LXI1OGwyV3FicFlQZ1dGY0FPZ1VYLUdyUm02V19JSEZCUmQ2UERsM1dhU2NfLWNHSkN2TEVBYUJn?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 05:06:34",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.677,
+      "EUR": 4.2685,
+      "GBP": 4.9125,
+      "CHF": 4.6935,
+      "JPY": 0.02339,
+      "AUD": 2.588,
+      "CAD": 2.6888,
+      "CNY": 0.5319
+    },
+    "crypto": {
+      "BITCOIN": 267433,
+      "DOGECOIN": 0.354901,
+      "ETHEREUM": 7827.77,
+      "LITECOIN": 208.21,
+      "RIPPLE": 5.23
+    },
+    "indices": {
+      "^WIG20": 3335.75,
+      "^WIG30": 4255.61,
+      "^WIG": 3335.75
+    },
+    "news": [
+      {
+        "title": "Izrael wytacza wojnę Hezbollahowi. Iran \"płaci krwią\". Trump: Każdy lider kończy martwy [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TaEpjbERiQ3ZUYTNUaEdCa3I2RlJUUEY5NXc5NG9DNlpqVDF2NmtOaUFvQ3VqZzUwdGxNVHQ5UEY3YVd4SVMyWXRydUlLUkxJU3g4RXJkYmtzUjR0eGJoLTh2TFhaMC1NM3c?oc=5"
+      },
+      {
+        "title": "Enter Air lata na Bliski Wschód. Prezes mówi o kulisach - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXVtUkFfNFJ1Y08wb0RpYS0wMEdoT0dxTmgzZ0VQa0hqc25KUWJBUlB1Z180UEhoQ243NkFycUlCLThzbGdra05ocmRBREkyS3BmdUZSaWZya054M2J0RW1IRU9FVWgzOG5heXl2eEdGdk5kcWNUWF9JNmdmSTdZNHZwcHJtc1VHbDFfWHExZU5qRzZQNWUxQTBOMzktSHJ5bGF3ZHctM0t5MFE?oc=5"
+      },
+      {
+        "title": "\"Wprowadza zamieszanie\". Dwugłos w PiS, Czarnek ocenił decyzję Morawieckiego - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc21mMllORGk0eVZaOVBtS0l3V092V1dqMmtDaWZYVjFBNUJLRHlRVHgyRUdGQWF5RVJBOXhWbmlncXoyZlBVUDc4MTJMdzAyanVzQ0JOM1JWMGM5NXZIbjZ6YmMyVUJQeVNFeVo2dURCZWIwSEdFVEZrLW0tc0xXbG1UTWtfNkx0UWtROWt3N0FNY2JiRXpFT21uY2NoZmtkem9TTEIwWFVfSlluZ3pfZjNlYw?oc=5"
+      },
+      {
+        "title": "Skazani lekarze z Pszczyny. \"Lekarze będą bali się pomagać\" - Medonet",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTG9BVGNzc1k5Qk1OWDJtM3psZjQ2dHFGT2ZCSWQ1QVVlNWhLQ2VJd0VYcnB4OHVIRVF6Y29GQ2NtOG12RjdXb0RXU3ZIYWpMazI5aUZ0cGI2SjM1Xy1HVkVIMklrQXo5bHlZY0JtOS1oeF80dlFDZmFMdTd4bnJqTFJCbmtzVVd4T1VjcVBJb0p6a3d2cWNnMklzanVSSUxDd2NoSWhxN0syQjREd0t3dmRkX2FiSFRjTVozWFJYVFpNVFo2TGozYlI0Qm5DNFFhR05hYWVac1J5c2tDUnFGdQ?oc=5"
+      },
+      {
+        "title": "Dziesiątki cudzoziemców będą musiały opuścić Polskę. Wielka akcja służb - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzlwcEtzRERxcEFuSC1YSmoyUkRUTnQ1Uks3TWY3eTl6Wmh5akxkUl9pZmtSejhKN3VEMk1LaDZBM1l6M09ocEg5bUxiRWNycmhiTE8yZURPd0oteEsyREdKRGF3V3AtYzh4WmhpQU95b214VGJ3YVBwaDZJTF9zbjZzZHI1OWFJeWppQTh4Q3RvbzNMdmk1SXFQWURHVlpOXzBPRHNzUFVqUmhPb3huU28xZw?oc=5"
       }
     ]
   }
