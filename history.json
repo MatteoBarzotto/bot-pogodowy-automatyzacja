@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-02 21:29:22",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +3°C",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 250292,
-      "DOGECOIN": 0.344578,
-      "ETHEREUM": 7392.41,
-      "LITECOIN": 198.61,
-      "RIPPLE": 5.06
-    },
-    "indices": {
-      "^WIG20": 3402.36,
-      "^WIG30": 4342.42,
-      "^WIG": 3402.36
-    },
-    "news": [
-      {
-        "title": "Wojna na Bliskim Wschodzie. Trump: Zignorowali nasze ostrzeżenia [NA ŻYWO] - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
-      },
-      {
-        "title": "Ali Chamenei zlikwidowany, reżim nie składa broni. Kto przejmie władzę? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmdRdkFJZ19FdXRlSFZYUWhrNjl6TE1DMXFCemY1S2VPbVVuaFFIckVyeTlOWUQwNTRfcWR1c2Z3VVEzQUphV3dSd0x1eVdlanNHam5pZW8ybFZPeUkwcHJPQjlIdWt6eWxsdkEwcHBoWjN1UlJCb0NPMDlLUFZiZnJBVElKRVRqVFk0V1RwSFpPclhWZjhubWgtWnhNbWVGQWI2dXlQVkhVWXpjc19UUQ?oc=5"
-      },
-      {
-        "title": "PiS przedstawi kandydata na premiera. Znamy miejsce i datę - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHZjMFJZZlIxZVlwbHA0U25DQjJNcjVXT3FyVzV2TE1QZXNZRFk4WXRvOFExMktQaWI4bjM5eFQ0LThIeXFSNnRoLWJ4SkFwX0VkM1F5N0wzb2ItRG1OSVpzMlNmekZHcmNOS1VHM2FTN19vamJsNVdSTHBDTFc3Qmp6Nm5vNURBbnRsbjZxRlpYbGlwa3luQ2R5RGtVdw?oc=5"
-      },
-      {
-        "title": "\"Jego odwaga była niesamowita\". Trump odznaczył żołnierza, który oddał życie za Polaka - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlYwVVI2QVdRWnNVWVd5YWtRNzR5TjduZlNMaTc2Yk82MFNFZUEyTEVhbjR5SUtIQS1PNXlFRW5QRzAzOG5vR2xUb01XbWRVY0RqMlhaOVVyS1h0MWZQYzVZOG8tUllscGJkSjY3a1g1Z0ptOGk5QUVsWXlSMzAwaEcxRF9NcWk5RlBaX3VJLUVQTGg5Z1J4bmxMOEZuYkZLdzZVUU5iNE5VSWJ3N0xDOHJKcUU5Y1F5bmJMb0JwNA?oc=5"
-      },
-      {
-        "title": "Były szef Agencji Wywiadu o wojnie w Iranie. \"To tragedia dla Putina\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTGc0MjJadDF3NmZWS1h3SjdtMGhxaWJhemJzaGdaZTZtLWlGSFRkMlZFRHYtdEo2R254Yy1JVl9PeF96aXNkYjAtMjUyTWIzMDFud2F3VTc2dVdiV3RTXzNkNzFjTVo1b3hGcG9NM3JUQkFkNWNtWF9KdjVqSXc4MXlGbFQwWC0zbUptaUdRQXRLTWVGWE1lR3hxY3JuOGpnemYyTXFOUnNPLTdyOGdVZk0tbFp5bW1wSEZCcG1TM3pkci1LSFhxSWw4R2hrUHhiY0F2RER5eEQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-02 22:27:08",
     "weather": {
       "Warsaw": "brak danych",
@@ -2592,6 +2540,58 @@
       {
         "title": "\"Wprowadza zamieszanie\". Dwugłos w PiS, Czarnek ocenił decyzję Morawieckiego - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc21mMllORGk0eVZaOVBtS0l3V092V1dqMmtDaWZYVjFBNUJLRHlRVHgyRUdGQWF5RVJBOXhWbmlncXoyZlBVUDc4MTJMdzAyanVzQ0JOM1JWMGM5NXZIbjZ6YmMyVUJQeVNFeVo2dURCZWIwSEdFVEZrLW0tc0xXbG1UTWtfNkx0UWtROWt3N0FNY2JiRXpFT21uY2NoZmtkem9TTEIwWFVfSlluZ3pfZjNlYw?oc=5"
+      },
+      {
+        "title": "Leczenie Ukraińców w Polsce. Od dziś wielkie zmiany - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZjRGY3cTdETUtuZTU5dy1xdzBzMVJ4a3Z5RkUwOTlqUHhNd2tFZndhYnozcllZV1dlRDREZXc2UENjbl9nSG9FSEd4WEtBMlFIYVlxQ3BjYXpjT2FKUDBKLURQN3pOREptd0pZblU3NFNIR2huc1VIX21ZUlc4V25fdnJMX05qaDdSOFBQUDlEbjE2VjNQWk9KNnctdVVPWS1VMlIzcjFQMWpkLUE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 09:33:13",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.677,
+      "EUR": 4.2685,
+      "GBP": 4.9125,
+      "CHF": 4.6935,
+      "JPY": 0.02339,
+      "AUD": 2.588,
+      "CAD": 2.6888,
+      "CNY": 0.5319
+    },
+    "crypto": {
+      "BITCOIN": 266329,
+      "DOGECOIN": 0.353507,
+      "ETHEREUM": 7774.3,
+      "LITECOIN": 207.45,
+      "RIPPLE": 5.22
+    },
+    "indices": {
+      "^WIG20": 3314.93,
+      "^WIG30": 4228.08,
+      "^WIG": 3314.93
+    },
+    "news": [
+      {
+        "title": "Iran może uderzyć w państwo NATO. Elbridge Colby z Pentagonu ostrzega - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnhRc3h0R0liV3UwS1MwQ0VzbHJqcXRROXNZWmFqMEVmU283OFNQNktxaENqSGN5YmQzZkZyNzNwQmNFbVB0Q1Q3RUU0NDV5aGVMM2p0c296NUY4RUl2c1pfdk04MWt4dzU3R3FJMDUxckRsaXA4NjcxaU1BdjNmd0x5X3lyTU9EY3JHQ3Ayb0l1NFU4OTJ1UlphMmxiZGNZT25vb2syTl9SMHlvOUE?oc=5"
+      },
+      {
+        "title": "Trump obiecał Irańczykom wolność. Dostali bombardowania, a reżim wciąż trwa - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFRJNF9iYThIM1ptaG53MG85YkF2Wm1zRnhicmUzdE5oUmV1U29Yb3FHT0tGV2dZNjNqUjBZUXAyLXVtSjRBbDJ0YmZOSW14ODg2LU5RMnl3bjQxcVd5eTAwSEdLWkt3bDM5dHpDYWxCbllYUDNxM1NoV1Y5U3A2RkZnOF8tZGtES19wWHIwZk9UbFNJeFBEa0ZWNDdyYVhiUXB0OFNGeHNiZVp6U2pZVWZTMEFlU1E?oc=5"
+      },
+      {
+        "title": "USA poprosiły Ukrainę o pomoc w walce z Iranem. Wołodymyr Zełenski o kulisach - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWktZGxOZVFhWE5Ya2I0cU8tcXhFZ3RqRmRMRzBPUWRydUMwYWs5dkh6c2N2SUI5MGFtdmxqenhnbXhUMTI1VUZRQkNUMjlQMzdDc0J1RjNNQUlaVEhidEZwdXFfQjhxXzNENDFPak5mSGVYVlk3dEJvNk5Xdzl6dnR4TUNvbUl4N2p0ckU4b291dXEtMnQwbG5LRl9oRURLUC05QVVSaDR6Tl9rYWl4TDlaMC1qMFdLMmxUSGVHSGF4TU1va1B5N2FCTUhNSWxMOW90eWxB?oc=5"
+      },
+      {
+        "title": "\"Idzie w stronę gospodarki K\". Ekspert o ruchu Trumpa - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjA2TVUzRUZ3WmlPWXVlVWo0NkMzMm5DS2lGNS1jZURPSHplY3NEcFhvcDZMSWJINHNva25zOHROTnU3SGVwNVhJWDJRY3BBaFktUlM1SktiaEEwMXdpanJ5cFJkV0ptNGNhMldSZzhLNDBMYjlBVzd6ZExsWmU0T20wOGl4UGJqSkMzV0dhWlpBZVRYTDdILWZ0Y1pRT2U1QUE?oc=5"
       },
       {
         "title": "Leczenie Ukraińców w Polsce. Od dziś wielkie zmiany - Money.pl",
