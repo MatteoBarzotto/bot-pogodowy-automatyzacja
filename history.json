@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-02 19:37:25",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 250760,
-      "DOGECOIN": 0.346659,
-      "ETHEREUM": 7380.9,
-      "LITECOIN": 198.3,
-      "RIPPLE": 5.08
-    },
-    "indices": {
-      "^WIG20": 3402.36,
-      "^WIG30": 4342.42,
-      "^WIG": 3402.36
-    },
-    "news": [
-      {
-        "title": "Wojna na Bliskim Wschodzie. Trump: Zignorowali nasze ostrzeżenia [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
-      },
-      {
-        "title": "Ali Chamenei zlikwidowany, reżim nie składa broni. Kto przejmie władzę? - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmdRdkFJZ19FdXRlSFZYUWhrNjl6TE1DMXFCemY1S2VPbVVuaFFIckVyeTlOWUQwNTRfcWR1c2Z3VVEzQUphV3dSd0x1eVdlanNHam5pZW8ybFZPeUkwcHJPQjlIdWt6eWxsdkEwcHBoWjN1UlJCb0NPMDlLUFZiZnJBVElKRVRqVFk0V1RwSFpPclhWZjhubWgtWnhNbWVGQWI2dXlQVkhVWXpjc19UUQ?oc=5"
-      },
-      {
-        "title": "Atak po deklaracji Starmera, dron uderzył w bazę RAF. Brytyjskie siły w gotowości - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXU2SjFRVndxUkRfZmFsX3JGZ3RlazFEMmVfdXhWd0VDSjVNZ3Juem9xR2EwWms5c1doX3ZpZWJIREY1TV9XZXNWSGpMdERTNk9kOXFDY3JiYkctMVBfVXlfcTlBVFhmNk1RcTJkZmNpcDdWUXRxTk5GaFBLMkoyZW1zb2M4SkxEMk1BTF9zZ3FCV3RRSTNQeXpiSkFhZWU2SVh4OFZaUmt5dksxaXA2VW1kNA?oc=5"
-      },
-      {
-        "title": "Były szef Agencji Wywiadu o wojnie w Iranie. \"To tragedia dla Putina\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTGc0MjJadDF3NmZWS1h3SjdtMGhxaWJhemJzaGdaZTZtLWlGSFRkMlZFRHYtdEo2R254Yy1JVl9PeF96aXNkYjAtMjUyTWIzMDFud2F3VTc2dVdiV3RTXzNkNzFjTVo1b3hGcG9NM3JUQkFkNWNtWF9KdjVqSXc4MXlGbFQwWC0zbUptaUdRQXRLTWVGWE1lR3hxY3JuOGpnemYyTXFOUnNPLTdyOGdVZk0tbFp5bW1wSEZCcG1TM3pkci1LSFhxSWw4R2hrUHhiY0F2RER5eEQ?oc=5"
-      },
-      {
-        "title": "Tajemniczy arsenał USA użyty do ataku na Iran. \"Nie możemy ujawnić\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT091NVN0ZHNUOE5EU1hJS0FaaElzYmgzUE9ITzF0RmVQOTE3NDYyNnpLWFFSZmtQekRIdnlsUEZheEQwd1ZGR0cySmFFXzNWek5iWnNINVFlV2I1UnkwbFRPU3Y0N3dXVl9CTmE3bkR4cUhYQ1dFQXk2M0dqSEZFWThQTTgzV1VPa3Jfb05uWE4zLWlZckNfczI0UU0wZ3VLdmNQdjRnd1pTcTZyQ0Rma2MxbUpFVjh4M0tpUWZCRExPeGZHYkE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-02 20:32:35",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Dziesiątki cudzoziemców będą musiały opuścić Polskę. Wielka akcja służb - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzlwcEtzRERxcEFuSC1YSmoyUkRUTnQ1Uks3TWY3eTl6Wmh5akxkUl9pZmtSejhKN3VEMk1LaDZBM1l6M09ocEg5bUxiRWNycmhiTE8yZURPd0oteEsyREdKRGF3V3AtYzh4WmhpQU95b214VGJ3YVBwaDZJTF9zbjZzZHI1OWFJeWppQTh4Q3RvbzNMdmk1SXFQWURHVlpOXzBPRHNzUFVqUmhPb3huU28xZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 07:42:07",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.677,
+      "EUR": 4.2685,
+      "GBP": 4.9125,
+      "CHF": 4.6935,
+      "JPY": 0.02339,
+      "AUD": 2.588,
+      "CAD": 2.6888,
+      "CNY": 0.5319
+    },
+    "crypto": {
+      "BITCOIN": 267322,
+      "DOGECOIN": 0.354972,
+      "ETHEREUM": 7829.72,
+      "LITECOIN": 206.88,
+      "RIPPLE": 5.23
+    },
+    "indices": {
+      "^WIG20": 3335.75,
+      "^WIG30": 4255.61,
+      "^WIG": 3335.75
+    },
+    "news": [
+      {
+        "title": "Lecą na Bliski Wschód po Polaków. Samoloty wystartowały - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc29ONDBQR1gwR1pVOGEwRkVNNVVVQUdWc05OZnlUTENTSURwbHRrZGVDeWp1VkppTGJVc19RV05aUlp1LVIzWXVzNVJDSG9xdE9FeTRWZmlTTGZlY3hyQUozMTNCM3ZFV1BTcjZCZS1qcGdGcDYyR1p2Qk1zVXpvSk1ySUh2ODcyZEVQRDRKaGhpZjdnNDNlQmp4bVRLZw?oc=5"
+      },
+      {
+        "title": "Enter Air lata na Bliski Wschód. Prezes mówi o kulisach - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXVtUkFfNFJ1Y08wb0RpYS0wMEdoT0dxTmgzZ0VQa0hqc25KUWJBUlB1Z180UEhoQ243NkFycUlCLThzbGdra05ocmRBREkyS3BmdUZSaWZya054M2J0RW1IRU9FVWgzOG5heXl2eEdGdk5kcWNUWF9JNmdmSTdZNHZwcHJtc1VHbDFfWHExZU5qRzZQNWUxQTBOMzktSHJ5bGF3ZHctM0t5MFE?oc=5"
+      },
+      {
+        "title": "Polska wygasza pomoc. Od dziś duże zmiany dla Ukraińców - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZjRGY3cTdETUtuZTU5dy1xdzBzMVJ4a3Z5RkUwOTlqUHhNd2tFZndhYnozcllZV1dlRDREZXc2UENjbl9nSG9FSEd4WEtBMlFIYVlxQ3BjYXpjT2FKUDBKLURQN3pOREptd0pZblU3NFNIR2huc1VIX21ZUlc4V25fdnJMX05qaDdSOFBQUDlEbjE2VjNQWk9KNnctdVVPWS1VMlIzcjFQMWpkLUE?oc=5"
+      },
+      {
+        "title": "Iran może uderzyć w państwo NATO. Elbridge Colby z Pentagonu ostrzega - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnhRc3h0R0liV3UwS1MwQ0VzbHJqcXRROXNZWmFqMEVmU283OFNQNktxaENqSGN5YmQzZkZyNzNwQmNFbVB0Q1Q3RUU0NDV5aGVMM2p0c296NUY4RUl2c1pfdk04MWt4dzU3R3FJMDUxckRsaXA4NjcxaU1BdjNmd0x5X3lyTU9EY3JHQ3Ayb0l1NFU4OTJ1UlphMmxiZGNZT25vb2syTl9SMHlvOUE?oc=5"
+      },
+      {
+        "title": "Nadbereżny faworytem prezesa PiS. Posłanka ostro oceniła włodarza - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExESm1ZUVZMRjgwd19XdFVOVW1qdUNVUWFVTE0zQU0xelRxSlFMUlVoOW1hTWtBSHROOVhsRmVmVVBQVWN5Zm5kTVBSWUFIMk1DWTBoRkNhRHRJQUhuYkNOR2diVktyWnFuSUJGRkRlTG4wUnpjeFFYSWc3S0lWOTVaTHpLSmx5SjBGMGdjeFFTeWhrWFNWSlNjWjQ?oc=5"
       }
     ]
   }
