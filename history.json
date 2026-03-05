@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-03 11:32:34",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 245309,
-      "DOGECOIN": 0.329948,
-      "ETHEREUM": 7199.59,
-      "LITECOIN": 196.04,
-      "RIPPLE": 4.96
-    },
-    "indices": {
-      "^WIG20": 3274.92,
-      "^WIG30": 4175.61,
-      "^WIG": 3274.92
-    },
-    "news": [
-      {
-        "title": "Izrael kontynuuje ataki na Bejrut i Teheran. Iran uderzył w amerykańską ambasadę [NA ŻYWO] - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
-      },
-      {
-        "title": "Nawrocki o przyszłym kandydacie PiS na szefa rządu. Uderzył w Tuska: Będzie to lepszy premier - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZk1lYkcxeGJGa0NKemV5R3RyUEZoR19NWno3V1g3UEJBb3NxTXFSd0pYb3ZIR2RaVldSYzUzbW5YMXplcWZrcWVGQTJHLWdGLVpudWtSLTQzWnlyZl9IMENSZG5PQzB2S3RneXBNWWRPcDdwc0UzWVI4M09XaXF5djFVX1FGQzUxOXB4aUtkRGM1U3d5RTBOTDZwc3R0ZDlfdzFueFN4bkd2MlpFNFE5NjNuVQ?oc=5"
-      },
-      {
-        "title": "Tragiczna interwencja w Bytomiu. 39-latek zginął od policyjnych kul - Dziennik Zachodni",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdk8tWjNWaFR4RGk3cjRFdHpNM3RjenFWenpoLTR2TC1jaXFUWUtveC1hQlNxaHdkZFphLThKNDhPSjViMHVMaDg1YVBpbzNsWFQyWlB0OFRXZ2pMRms4aGZKMzFtd0p0MXo0aTI1UllmMVVxcVlpZC1IZnBLTGhSSERHcWxnTlU5RkZndW5UUS1yeEZyUm1ySG5qeUV1bWxCanpiVnd5X1J5ZDN4MFF6TGwwZFBKVUJPMHBlbG5XblFfRW5YQmp6aHhuV2x0bmI1a1daeko3MjgxWGNjaWRBemJNbDExWDBXR0dN?oc=5"
-      },
-      {
-        "title": "Ważne zmiany dla kierowców. Policja: Nie będzie taryfy ulgowej - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG9fVHF6RDF2RGxrQktCUUZjWlVzSm8tUTA3N2NZOWsxZzAtNGNFWGlMaVpXVmJ2MzhzQndsN1pTUkd0MlpvVUpPdXloY2R0TC1Ib0pyVDRYdW03S3RxTTRoNVcwLXdCdXBTWktxa0tNemhvZE9PUjNjREpIUnhFMzVxNzNkRXdVb04wQWhxbHdtTElya0tlX3RVdEE0b3JBbkZUaTFn?oc=5"
-      },
-      {
-        "title": "Kaddafi, Husajn, bin Laden i reszta. Odcięcie głowy nie zabija hydry - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHNjVG9UeTVIcGlPTUpkTl9sRXE4Rm5LRE40d1ZMMEdpbFF5WjRQLTNOWGloRVJ5UTdBdENfNFZLZU1RbVdMQ3hPVDJJYUZ4d2JkSnhqSVluWGpSbDlwaFBNMlhncm1TVV9ERFBmU1U4UmVwV1U3ZUNKdlVtVkU4ODVJOGtzdS14RzUwdHkwYVkxSnA1emhLeTVJYzlTZEZqYmIwVktYaG05QzAz?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-03 12:27:15",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "\"Syn Chameneiego to przeciętniak\". Trump o wyborze nowego lidera Iranu - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGx3aTc5S2NMSmpWR2VXMzJKNHY1OVUtOTZqV2hiODlfX1NsOWNfOF91NUR3azE1Xzd3eERhWGdobERZdXJtVklHVE1CWlVLSTR6MEl3OUtkRXlSQUJ4V3VkQTlUMGxDS2NWQ0c3YXc5TVpHU0tsVFRpaUV6WnBfaWYzWlJtSkxvQ2hMVWRqbDJQdGxaWURuR01VT2VjOTNLMVVzaVF3MXFaSjV5Z2JnaDFiMVBYNmJYR290U0pRUE5vakp0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 22:27:57",
+    "weather": {
+      "Warsaw": "Warsaw: +1°C",
+      "Kraków": "Krakow: +2°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6771,
+      "EUR": 4.2739,
+      "GBP": 4.9108,
+      "CHF": 4.7205,
+      "JPY": 0.023397,
+      "AUD": 2.5905,
+      "CAD": 2.695,
+      "CNY": 0.5334
+    },
+    "crypto": {
+      "BITCOIN": 263449,
+      "DOGECOIN": 0.348326,
+      "ETHEREUM": 7714.58,
+      "LITECOIN": 206.23,
+      "RIPPLE": 5.22
+    },
+    "indices": {
+      "^WIG20": 3326.54,
+      "^WIG30": 4242.61,
+      "^WIG": 3326.54
+    },
+    "news": [
+      {
+        "title": "USA i Izrael kontynuują ataki na Iran. Tymczasem amerykański Senat poparł działania Trumpa [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8teE9mT0E0QVNsbHZnNW9XSW14d1dRaVpiTGpoSlJpdXp2RXB0aXQ4THh0R2JBUjhmMlJKaGlBOHFWM2tRR2hQQndvVWl6b0tJcVROMXowUHZiVmxkMGhESG5GWFJTcjVkekE?oc=5"
+      },
+      {
+        "title": "Donald Trump odwołuje Kristi Noem. Będzie nowy sekretarz bezpieczeństwa krajowego USA - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVVfd2V6UXJvbUVxbFJvdXJiTDRBZGpIWm9EVTY4Q18wTl9jclBiVmlld1gxeDB1Sk80RTdKWVRzUllIdmZ3UGNxZkk3Nm9WY0xfT2U3MXhjX3ZGQm9rdEp5ellNUE44U3hWZGJwUjQ0dzl4Qm41NFJVM2dhaFozQldIalJUX3FxOFRlSUpIWWZ3a0pza0NxTWZn?oc=5"
+      },
+      {
+        "title": "Zgrzyt w PiS przed sobotnią konwencją. \"Morawiecki ratuje siebie przed najgorszym losem\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY05xaUFBelpRcG54WXNKRG4wOHk2LXJUZlNvSU5fOEhOWGQ4b0l2TTJpNTAybmlBd1dPUGJsOXFfWDRudHdDSFJVci1JUEk0eHY0Qm5fM0czOUFCUG1xSkZOdW91NWlNSWIyZG9KVHZhX3JzaDN6dW1obVRSUUc0ZWpRa0s0TkJVSVJqZjVOMEtfNG52cWVLRHJ3XzVGaFdWb1hSUUtlb1BoX21ZX21SRm1RMzlUd0NQVlJ2WHdGSVZ4aDdGLUZJOVktMFY1NkpZX0xiVDdKR01nMkRYdUp4NnR3?oc=5"
+      },
+      {
+        "title": "Influencerki sprzedają bajkę o Dubaju? Ekspertki nie mają złudzeń. \"Tam rządzi marketing\" - Plotek.pl",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZvckhFM0Vzblp6Nko0dzYyb21zdjVEaGNoYWw0M182dDFkVlFhM01sX2pGTlJBTnc3STlnMU9rWHZxeUI0cW5TUzBYOUJILUtqSlZFU1dkeXE3cE9ZX0h4NGpXdmFSQTRNZDQ4MWRXemxxVTV1OWw0VFAycW5rNDlodERpRFhkeDJZcXduMWhKdVFNbmpGdENTT2JRTzlwSnM5bjlQeTZhVnFKUXFJaDdPd3lhWnc?oc=5"
+      },
+      {
+        "title": "\"Ludzie są wściekli\". Polacy koczują w Bangkoku. Chaos pod biurem Qatar Airways - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakItUnBMbWVmZC12WWllcXRqaXlIMFNkRHpvUmRIN2ZHRGE0a3pra2sxTzJjZ2NJb3c4aXE1SDlKbVV5M0RwOHR0NkxNWkZHeGxWcWxRcGFERnlKRGNRNEpBbzF6bUEzZ0VwRWJSTVFwMVBQV2NEQjAxRGY4RFQ3ZHJIMEdwS0VYMlhuMUh0S0NJYWlmV2l6Z1NqejJtM2V6eG4yY3NZU0lhNkFSWE41UFZ3?oc=5"
       }
     ]
   }
