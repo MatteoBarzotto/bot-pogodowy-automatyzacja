@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-02 16:36:04",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6056,
-      "EUR": 4.2304,
-      "GBP": 4.8215,
-      "CHF": 4.6696,
-      "JPY": 0.022963,
-      "AUD": 2.5522,
-      "CAD": 2.641,
-      "CNY": 0.5238
-    },
-    "crypto": {
-      "BITCOIN": 249405,
-      "DOGECOIN": 0.346095,
-      "ETHEREUM": 7364.21,
-      "LITECOIN": 198.87,
-      "RIPPLE": 5.06
-    },
-    "indices": {
-      "^WIG20": 3393.4,
-      "^WIG30": 4329.11,
-      "^WIG": 3393.4
-    },
-    "news": [
-      {
-        "title": "Komitet Nawrockiego ukarany przez UODO. Zapłaci za ujawnienie przez Czarnka danych Jerzego Ż. - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xCYy1yUGNTUmJHYmpKT25USE1ULVVzUWtFelNmZnRxLUhfNVV0dEpycXNtakc2QlR3RkZYeVViN1BLMGhhN0hZNy01alRKbFJ3bl9aNXZtRVJZLWowZjhxN0hXTnN4T2pPOFd5dVF2cGhGczU0SUZ4SWFIcXpoeWZjd2dVZkFHVHM1NUhfMGMwVU1ERWk4Qk1POUY5cnRxYlZDa19NcExqeldWVWdMejFiNmYtMHN4OTlKM1ZDVnpxN3ZPdGlOYU00Q2ZSSjREVk5pQg?oc=5"
-      },
-      {
-        "title": "Skopiowali taktykę Rosjan. Tak Iran atakuje cele w Zatoce Perskiej - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWsyanA1cHpBaGhwemVlTnBmeDNVbzlJV2hjdjRxVEdMWjhPV2lFZEo0R3VQN1dWeExrTGE5MU1KMlZlNFlDcGhWZ1dwX2hGVTlKdWI4RG1Bd2pOS0RLb2ducUdqbWhJRjlncnNxcTRtUmRwN2FYalJHei1ZcGdNTVNaOVFneEdxUmF6UnFnY1VsVF9hUDdSeDJXR1A1S1FPSWdnVzFaSUg?oc=5"
-      },
-      {
-        "title": "Wojna na Bliskim Wschodzie. Nie żyje żona Alego Chameneiego [NA ŻYWO] - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG1IdGRGTlV3OGIwdkRaZmF2b3lDTURLT29peDQ1ZmRBcFRUVzRQbTlZcGFPTEdac2Y3SXpoVGRDNTJyNVFVX3NoMGMzeVdwbC1FYVlxeXFpT0FHa2p3NGVWbjBZUUtPNHc?oc=5"
-      },
-      {
-        "title": "Jedno wykroczenie i koniec jazdy. Od 3 marca kierowcy muszą uważać - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2dBQ3B1WGppcmY1VGota2xlZ1ZCVmVoMDdqZk5CZzNhNDZUTWpOQU9YOFEwTld5bVhzT3JtaHlrZzJ3NVUwQ204ck1hTHAtMzNlU3gzTnpsWHNjODdoX0s0NGVtYXRuYjh4SGNFYndBWXpHTDNfREFodFhjME8zQmdmeTVGY2R3MkNFc2lDaF9yX3Z2Rl9Ed3VpbExxaDRob1JYQV9YYVcySkV2OFJmZW02ZVE?oc=5"
-      },
-      {
-        "title": "\"Nadeszły niezwykłe informacje\". Orban: ujawnię dowody ws. rurociągu - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2Vhd19KV09mZXZVcGltX2hFVUI5V3ZqcnhTTUNCdGlVVFZ1X0cxUTRzWmdqOHBPRTA3ck9yanYybHVTUDhXYzlnQmVtUmhZLVBhYjB2QkwtMXBuODYzeWpZd2FsN1ZjUXVONFN6dlZ3dUptd3dzMktSNEhtOGkzV2dOUXBwNmNfbUlWSVo5dmhaTkdHV3pvQUpYeVAzZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-02 17:36:38",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Podziemne tunele Iranu. W środku pełno rakiet i dronów - o2",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFFja3R6bnIyLTZISUotaUZoQnduUkxvQUphdXBEcEhCdzUweHZyQnVLQnlXQzItdjdZNUg5dmJKemhhQTFSbzdGaURsNnJYdjlzMFZoWHNzaTBWd01sQW41b0N6a2wtQUF6SWhmeE9BXy1SY21ZdVlvTjNFN0VHM0h1dXlycFhUYThLS3dYODh2b05nS2FkSEI1LW1OYTFSMkE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-05 02:27:47",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.677,
+      "EUR": 4.2685,
+      "GBP": 4.9125,
+      "CHF": 4.6935,
+      "JPY": 0.02339,
+      "AUD": 2.588,
+      "CAD": 2.6888,
+      "CNY": 0.5319
+    },
+    "crypto": {
+      "BITCOIN": 267561,
+      "DOGECOIN": 0.359354,
+      "ETHEREUM": 7802.68,
+      "LITECOIN": 209.13,
+      "RIPPLE": 5.24
+    },
+    "indices": {
+      "^WIG20": 3335.75,
+      "^WIG30": 4255.61,
+      "^WIG": 3335.75
+    },
+    "news": [
+      {
+        "title": "\"Wprowadza zamieszanie\". Dwugłos w PiS, Czarnek ocenił decyzję Morawieckiego - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc21mMllORGk0eVZaOVBtS0l3V092V1dqMmtDaWZYVjFBNUJLRHlRVHgyRUdGQWF5RVJBOXhWbmlncXoyZlBVUDc4MTJMdzAyanVzQ0JOM1JWMGM5NXZIbjZ6YmMyVUJQeVNFeVo2dURCZWIwSEdFVEZrLW0tc0xXbG1UTWtfNkx0UWtROWt3N0FNY2JiRXpFT21uY2NoZmtkem9TTEIwWFVfSlluZ3pfZjNlYw?oc=5"
+      },
+      {
+        "title": "Enter Air lata na Bliski Wschód. Prezes mówi o kulisach - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXVtUkFfNFJ1Y08wb0RpYS0wMEdoT0dxTmgzZ0VQa0hqc25KUWJBUlB1Z180UEhoQ243NkFycUlCLThzbGdra05ocmRBREkyS3BmdUZSaWZya054M2J0RW1IRU9FVWgzOG5heXl2eEdGdk5kcWNUWF9JNmdmSTdZNHZwcHJtc1VHbDFfWHExZU5qRzZQNWUxQTBOMzktSHJ5bGF3ZHctM0t5MFE?oc=5"
+      },
+      {
+        "title": "Putin wyprzedzi plan Unii? \"Głośno myśli\" o zakręceniu kurka - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3NrZGJGRTRWeGJQUHdZSERPa0lKUkl2N0oyaFBaOHFUU19PR0dPYm1EUXZ3Z3paNEtwcVFXeE1KdWhyRkxpRlVRY1ZiZWRuTmoxUU01enlZWVlGTkN2R0hFNkhGLUh0eFUyMmN3WmV1dUROTzhQWmhZXy10dWZxU1lNbFVPZUtaWktVVVpiRTNESG1ackZkRUJvTUxNTW02Q3pFSGVnM1Y?oc=5"
+      },
+      {
+        "title": "Podziemne tunele Iranu. W środku pełno rakiet i dronów - o2",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFFja3R6bnIyLTZISUotaUZoQnduUkxvQUphdXBEcEhCdzUweHZyQnVLQnlXQzItdjdZNUg5dmJKemhhQTFSbzdGaURsNnJYdjlzMFZoWHNzaTBWd01sQW41b0N6a2wtQUF6SWhmeE9BXy1SY21ZdVlvTjNFN0VHM0h1dXlycFhUYThLS3dYODh2b05nS2FkSEI1LW1OYTFSMkE?oc=5"
+      },
+      {
+        "title": "Zadziwiająca wiadomość z irańskiej ambasady. Ukraina odpowiedziała - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjlPY2RqOFp0VkNwMTZQVWh4aXRoTFlZQUdXb0YtcW54UHJiY3pPVGMwdTB2VUItQXE2NExaQlJNbnBpb21vckhlMVUzR1lZWFp2OG1yRXUtdkdwN3pSbzJGbklQb00yZ1BuQnB0UWtTSlI3LXI1OGwyV3FicFlQZ1dGY0FPZ1VYLUdyUm02V19JSEZCUmQ2UERsM1dhU2NfLWNHSkN2TEVBYUJn?oc=5"
       }
     ]
   }
