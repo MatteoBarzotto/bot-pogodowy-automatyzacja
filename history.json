@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-04 13:40:32",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.677,
-      "EUR": 4.2685,
-      "GBP": 4.9125,
-      "CHF": 4.6935,
-      "JPY": 0.02339,
-      "AUD": 2.588,
-      "CAD": 2.6888,
-      "CNY": 0.5319
-    },
-    "crypto": {
-      "BITCOIN": 259789,
-      "DOGECOIN": 0.336491,
-      "ETHEREUM": 7507.7,
-      "LITECOIN": 203.28,
-      "RIPPLE": 5.09
-    },
-    "indices": {
-      "^WIG20": 3308.78,
-      "^WIG30": 4223.41,
-      "^WIG": 3308.78
-    },
-    "news": [
-      {
-        "title": "Dziennikarka przerażona. Aż przerwała relację - o2",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUozUFM0LVRsTzRwOGNkMWpSVXNSR0JEQXJlMDZ5VGdxWGhrQTRIeU5aQlZpdVdGS20tTnlXZVNKNzIyWkhfU2xaVUFQUkc5b3JnNkVibTFVM0pHMi1ETDRicHdjNGM2dFRNNlBTMUNORVFWS19FVERPTy1KQk1QUDhRYnQ3TExOdWJDSDJOdWJ3bXcyS3c?oc=5"
-      },
-      {
-        "title": "Podniebna bitwa nad Teheranem. Izrael ogłasza sukces. \"Pierwszy raz\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEFhZ0ZKNHZqRk1YU0xNR2dNdDFoU2ZhOHkxaXlpQVh4X3BVZ2lkWjAtQlZuZFBlbWVmWHFWOEhLcndkUG0tclpGQTNYeHY2N3ppaXh2bmNDM1ZDTGMyY2VKTUxPLURUYTlyQWZUYWl0Z1NnMUpGem01WmxwT0tBUEpxS2F4TWRsbDNMMFhIRlA1cGJ6Tk9wRk02ZWdoLV9nczhJNnp6OVdKVDExMDV6T29saHo2aXdnbjlZMmoyWDUtc2NJWkE?oc=5"
-      },
-      {
-        "title": "101 osób zaginionych. Irański okręt tonie na Oceanie Indyjskim - WP Tech",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDlqM2hkZzdPaHREY0w2MHh4V0RFZzh5OHFGT25VaDBCNHdzVnJQbExoN0UyLVBxYm40b3Y1aURyakdfcENnNFhJbGZBTmF5YkRnYlBOVVQ2WUhLbDQ5RmhzeUxqT01jSUlwSk5ESzVyaHJWVnh1aUJUMUdfXzMtZ1VNaWI0N2ZfcHV2Mm81STc1YnppS21QTVVLUnRSd2s?oc=5"
-      },
-      {
-        "title": "Zapowiedź Nawrockiego obrazą dla USA? \"Nie zdaje sobie sprawy\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOend0UENzNkVXSGZKMUV1R1BCVWVSeG94YVF5eVlwNEdDT0djdWVtSXg4eUJ1OVdpM0FuMG9xU2Z0WTRWREJ4dW1vMWV0bkhtUUtZRmUyQWw3eDJtclZGckp0YmtmX2cwUkJiYUhsaEVhYzZSWHZWRWdnek9mczZZa2NmUGlXRFRxSDlMWkdWdC1scjBZT1BkTmlCa1VQZW1va3Zldw?oc=5"
-      },
-      {
-        "title": "Co dalej z mObywatelem? Koniec spekulacji. Minister ogłasza - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUV2RzRFTE9nZ0Z2dXJNSEtTd3gyUklNQlJscEo1XzZOV1QtVGhMc1hfRVR1ZUw4LTd4dnJ4VFJqYWx2S3IwY1hMekk0VVhGVkdaNGpBMWxFODVOUkNLY24tVm1RX0tWU25kRnNtRS13cDJtRWNYQ3hRTmFjdm1uTkZKMGZIUFN6SlRMRTAwbS1zNzJ2cGRtczg3WU5rdG5UbUYwaVhtMTVUTTYzbGk2cmZn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-04 14:53:08",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Katastrofa samolotu w USA. Nie żyje pilot z Polski. \"Prawdziwy bohater\" - Podróże Onet",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGpVM01WYXVQbE5LUHdBbTlIOGt6T2k4U1NXR3FySThPQmRYU3FvZ1lieDJvcm9tRmpIZVdpVEwzTGpVUXpOUExTY2hJejFBQ3JxTE96YW5XRHd0ZFY1OV9SNmVOaEdZTlFrcER3SXVaVkg5Q1p1TWdIcXJTLWVpLTVabl9oYjBMNmpJMnNPRU1TbHpRV0k3bUt1M01JQy1yU0I2ZG0yUGJQdEFFRVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-06 23:21:15",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +4°C"
+    },
+    "rates": {
+      "USD": 3.6962,
+      "EUR": 4.2782,
+      "GBP": 4.9251,
+      "CHF": 4.7262,
+      "JPY": 0.023415,
+      "AUD": 2.5872,
+      "CAD": 2.7042,
+      "CNY": 0.5348
+    },
+    "crypto": {
+      "BITCOIN": 251794,
+      "DOGECOIN": 0.335715,
+      "ETHEREUM": 7313.65,
+      "LITECOIN": 198.92,
+      "RIPPLE": 5.03
+    },
+    "indices": {
+      "^WIG20": 3262.33,
+      "^WIG30": 4162.87,
+      "^WIG": 3262.33
+    },
+    "news": [
+      {
+        "title": "Na kogo dziś zagłosowaliby Polacy? Wielka przewaga jednego kandydata - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkl0dGhtenNIYjdPNVVzVWxfTTdDamxGM0xRTWRPX3gxMXl5dVdPNjIxYjN1ajIybncwcEVyeFpYMHotaGtBY2hCVzN2VFBhb2hhSzZlaHJlM0tTNEZPUFdXQXhMdGliemg1aTFheTAtbXRYNEdyTmwzVE51ejZ6MUdrWG9iUTgtUWtMVEk5WllraWNzWWNhTnFhNURkdE5wTnNtUWRfUWotOGRScEtN?oc=5"
+      },
+      {
+        "title": "Katastrofa samolotu w USA. Nie żyje pilot z Polski. \"Prawdziwy bohater\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzZ5dmlscjEzZ19JbkxyRkFDSFljelFSVlh5azhBMkZHRmVxRHVHTTRNOUp4VENad2tOZUYxU2M4Ukx4MXZXR3czR0hyZlo1a19tUGdlbDlueURmMXQtQkpZbUVBeW5acmxwQVRBdnVPcmhmTmFZNnJzX29jT0ZQM0lIazBQMDc1NUJFVFYwWFJzLUlabVFRNTMzekxNREV3RV9qeERQMUdKZDRzVC1nbk5HQU55SHpKREVjWmtoVmR3dw?oc=5"
+      },
+      {
+        "title": "Zełenski pojechał na front. \"Rosjanie przygotowują ofensywę na wiosnę\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnY4S0x5MmZiYmZTcm04TTJRbVVRU3NQR0ZkUWl4a19yVndqVENGaUpadHlCTnpzeFd5dm83Y2VvRzZPRFdwdUdDUTFPclNlV2hGUHNUS1RnZVF2OUJFQTRmYncxYUpNZlB5NXZzVHlDeGVscXBpbGJjVUxJT0x1WWhFSFMtNUl0V0hPbVZRYkhQNkYycmVPdFJEOG1fV093X3lXY1J0akIteUoyQ1N1UFIxZFM1Zw?oc=5"
+      },
+      {
+        "title": "Iran ostrzega Europę przed pomocą USA i Izraelowi. Padły mocne słowa - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlpTUTc3UGVPTkRHMm1KbjlsT0ZDZXp6eFZzVDAxcjN6N0ZickdJNUl3UF9nU29zUTlrdjRXVmpObzVRSzQyTEdNMTFaVkJ5cUJucGo4Z3FCeEJ0ZU9QSklacWoxSmM2blgzbWJPS1pYaE5MOFlXTndUN0FSdXJ3TzFoR0htSGJ1Vi1vSlE5bFJIV1NhSlltYmN5SUxQOS1jcHFTdElWS1Vnakh3S3pDeHpRaVV5MlRjQjIzbi1zZ1BiNXlOQlE?oc=5"
+      },
+      {
+        "title": "Izrael poluje na irańskich wojskowych w Libanie. \"Mogli siedzieć cicho\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDBqVWE2ZnU2X1c2bFVWTjA3Q1J4V1lYTlJvR254c2oxQi1GOWhiMHg1ajNsVkQzVnI5aFJ3a1J1OU0tSzFtRjZWa3BrYW45MmJHOVRVS25ad1otYUpTUzF1OG1BcENzdEp6SklCanN6b0g2T0djaVZhMldNYVROYnh5bklIc2o1VzBjT1A4MkQ5ZTItQl9kQmQ1T1Z4SUtxOVNtUklNbTNsRG41ek92Mw?oc=5"
       }
     ]
   }
