@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-03 19:38:52",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.682,
-      "EUR": 4.2732,
-      "GBP": 4.8962,
-      "CHF": 4.6853,
-      "JPY": 0.023353,
-      "AUD": 2.5923,
-      "CAD": 2.6876,
-      "CNY": 0.5336
-    },
-    "crypto": {
-      "BITCOIN": 254422,
-      "DOGECOIN": 0.334347,
-      "ETHEREUM": 7380.45,
-      "LITECOIN": 203.87,
-      "RIPPLE": 5.08
-    },
-    "indices": {
-      "^WIG20": 3249.38,
-      "^WIG30": 4153.61,
-      "^WIG": 3249.38
-    },
-    "news": [
-      {
-        "title": "Izrael kontynuuje ataki na Bejrut i Teheran. Iran uderzył w amerykańską ambasadę [NA ŻYWO] - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
-      },
-      {
-        "title": "Cofnęli Polaków tuż przed wylotem z Omanu. Pilot nagle zawrócił - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTkwYXFudHV1REhsbW5wM1c2YmxpOFgzNkc0RVU1ZHhQQ0dTRkJtbF9qQWhaQjFobVcwNHpHSXpTTXNDY2hQbnVXTkxCX09kRVRvbWxaZm9qeTQ1R1l3SG1udjFndTFVQ2g2YnktbG9XdWh1QVA4aUVOWTRaRjdwdk1yYXh5TzhDMHlBbVV0a3gyME0xWk5TN0NkMEpJeTZQYjdNaVh5cWU?oc=5"
-      },
-      {
-        "title": "Tusk zapowiada interwencję ws. cen paliw. Akcje Orlenu runęły - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTRJUjRjOVR4eGI5QktyOXFEVWk3UEM0RXNNN0V4Vm43MFQyQURyT0ItT3E1bXhpeGtXcnlhMDJ0TV9mcDNlVG5rbzE2eXdsMjdkZDBISHAtU1ZrQUVhZ05RZnFnU1Z2ZW5QbG9iRVQ2cnVMUVA5U21qS2xDYzBCTzZWbnFqc3Y2ZVo4RDJ1dlhvRkpyWTZ1VGdLZFpjNGlHS3ZYQ25zM0VMTWl5Q25WZnQzX1Q?oc=5"
-      },
-      {
-        "title": "Ograniczenie ruchu lotniczego nad Polską. Komunikat PANSA - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHAxOU1CUzRUaVNmUE5pcTlIaXhnYl9RSkZQMnFhem5OWm91RjBvN2c2N0RkQVlUUUdhWFk2T0pMV2hpQjl5YVpZMm55MURRRkRNZjRDWFRxT2pfckxWVW91Y3NBZ3pBQ2RqRVR6b0JfYnNHZWd1elhQWE90VExrZHFpNHExTGVvMkFjY3RmQ0ZMU0g2X3ZpdUFYQWdDQmFz?oc=5"
-      },
-      {
-        "title": "Dr Sylwester Gładyś wyszedł wynieść śmieci. Ślad po nim zaginął. Rodzina o \"trudnej informacji\" - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnBacmtuQnF6VDdfYVVQSFE4UFdSS2QydWU5OEdfaUZEdUdjU3dIV1cwRi1LSGFaTzJWQTBveXJCb0I0TzdEVk81T1VJcXY3WjQ1c1Q1WGVKTlF1VGp6MTBwQXJLN29lM0tDNFA2WDBHMVFncU5seFBpVGc4MUZTb0MtN0tmd18tTHBBSGxwZnJQcWtfQ1Y5ek5SdEFySHZDYkFGdDFuNG9mQXR2VkdjZ2Q1OEVtcndXWFM3N1NR?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-03 21:26:06",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Gen. Hodges: Trump nie ma planu na Iran. Putin jest zwycięzcą tej gry - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0dOWG5LTlprd3FodlJFZnhsc2VTSldWa2h2MFItVnFNNnNPVmJoZHZjUHVDMTM1NGdTaDFET3pNUHJoRjhySEhVeTltdFNpaDF5dU5WRWxlYXhFeHVjQ0t3Skp2TFQyLXVMVS02Zk90c2xRNkRWdml4N180RU5IYnlTblNCOW5uMHBycEJVN1FRRTJJZWFlWTJpN1VodkJlMWxrSHlZQ0dMdlhwRGc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-06 09:30:32",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6771,
+      "EUR": 4.2739,
+      "GBP": 4.9108,
+      "CHF": 4.7205,
+      "JPY": 0.023397,
+      "AUD": 2.5905,
+      "CAD": 2.695,
+      "CNY": 0.5334
+    },
+    "crypto": {
+      "BITCOIN": 261030,
+      "DOGECOIN": 0.343891,
+      "ETHEREUM": 7646.3,
+      "LITECOIN": 204.45,
+      "RIPPLE": 5.17
+    },
+    "indices": {
+      "^WIG20": 3328.62,
+      "^WIG30": 4249.18,
+      "^WIG": 3328.62
+    },
+    "news": [
+      {
+        "title": "Doradca Nawrockiego: NBP co roku od 20 lat łamie Konstytucję? To absurd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVjFZMjNtUGpJWjkyaDlxQmwwS2VYTzJDS2FVMlFUWDV2QnBkcWNuSE9xN1Juc2xwYXdKMGZpNXpqY2phUTVpa1FkdHJreGJiRUxrVktRTUt1eG1WbkliRDJ2ellVOUtiSTdFOGtZdmlwZFV6c0ZEbk5PUnJfLWZzb3lDejI5djJFV3FjWFhtWDRTVnpYbXRRSnhrQ1FUOUIzdTJTaWJ5T0kzQlpJWEhyM3pjMlZORU8tejJWb0ZvQVJ4QQ?oc=5"
+      },
+      {
+        "title": "Gen. Hodges: Trump nie ma planu na Iran. Putin jest zwycięzcą tej gry - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0dOWG5LTlprd3FodlJFZnhsc2VTSldWa2h2MFItVnFNNnNPVmJoZHZjUHVDMTM1NGdTaDFET3pNUHJoRjhySEhVeTltdFNpaDF5dU5WRWxlYXhFeHVjQ0t3Skp2TFQyLXVMVS02Zk90c2xRNkRWdml4N180RU5IYnlTblNCOW5uMHBycEJVN1FRRTJJZWFlWTJpN1VodkJlMWxrSHlZQ0dMdlhwRGc?oc=5"
+      },
+      {
+        "title": "Kolejny incydent Michała Kołodziejczaka na drodze. Tak się tłumaczył - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm1qRExMVXcwb2RkajZHVExIeGQ3Y01rMUVMSDRldEZuT1Z4T2xKei1FQl9LbDRpTy1nSnZMR3pHc1E1MVpKQ1poeW1Fb2piRm9RMkZhalN5VFVRRERrdDFjbjVvSmpacTA2elVaYjlxMTJGZWIzcnNoY1laMjAwelQ1bktpdWJuZ19NOWgzSVRYZXBsamxqbnNWWG42eUxHc0R1bGd5YzVFU0xnWjZtQQ?oc=5"
+      },
+      {
+        "title": "Bahrajn i Tel Awiw pod irańskim ostrzałem. Podsumowanie nocy - Onet",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcS1kUXVyeHNreWNjVU9NSnhJTllrckNGTmxIekI4NkFPLXZQMi1TZm1pbDVUREpxbU13WVhKanBEUTRPX3lNTEItczBpNzhQcVAxWTVzNC1McDQtcWJacmdUZGpGSmdaUWxlTWd4NmppcVhuNHFDX2taOE9HaENLZVo4bmd6WnY2eGVweFJ6ME5sandqQUNiNTdmWVcwTWhDRkNGNVNIU21yb09EdlFXdjZnbWRtSWQ4WnBERlFpbw?oc=5"
+      },
+      {
+        "title": "Ciało Polaka w walizce. Tragiczne odkrycie na Wyspach - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVNyMEhGRWRtSTZYRWZCeGZHRlhCMEtodWlEcXNRUDBrdElFd0pyalc2TmQxbEExcFRuUXVvMHVMU3NaMjlxc2xtMXhfM01zUW5jTTY2dEU1THptZXRYNTVMbFFoaXZjT0VydV9zOVR3MXQxcVJMYW1xUFdMMXhxS1BYazR1Zk8ycTdPZGNZUjRQMU5oT0NyZ2JfMHdMMDdWX1pNSUdZSGg3UQ?oc=5"
       }
     ]
   }
