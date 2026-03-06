@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-04 14:53:08",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.677,
-      "EUR": 4.2685,
-      "GBP": 4.9125,
-      "CHF": 4.6935,
-      "JPY": 0.02339,
-      "AUD": 2.588,
-      "CAD": 2.6888,
-      "CNY": 0.5319
-    },
-    "crypto": {
-      "BITCOIN": 261331,
-      "DOGECOIN": 0.341233,
-      "ETHEREUM": 7553.2,
-      "LITECOIN": 204.87,
-      "RIPPLE": 5.12
-    },
-    "indices": {
-      "^WIG20": 3332.24,
-      "^WIG30": 4252.04,
-      "^WIG": 3332.24
-    },
-    "news": [
-      {
-        "title": "Zapowiedź Nawrockiego obrazą dla USA? \"Nie zdaje sobie sprawy\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOend0UENzNkVXSGZKMUV1R1BCVWVSeG94YVF5eVlwNEdDT0djdWVtSXg4eUJ1OVdpM0FuMG9xU2Z0WTRWREJ4dW1vMWV0bkhtUUtZRmUyQWw3eDJtclZGckp0YmtmX2cwUkJiYUhsaEVhYzZSWHZWRWdnek9mczZZa2NmUGlXRFRxSDlMWkdWdC1scjBZT1BkTmlCa1VQZW1va3Zldw?oc=5"
-      },
-      {
-        "title": "Irański okręt zatopiony w pobliżu Sri Lanki. Nieoficjalnie: sprawcą okręt podwodny USA - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUswbFpWZWljNEo2QnV4Z1IzMmlfdWx3ZU1URktKS0owcy1vWjJuOW9Gc3A5WWdwQk8tUENrRWthMDFOWnBLaGlnSjJOSTFyNElQUmxoQ1FSLWJHX09NRDB1ajB0MW5Eb3FTNjlJQlN3MWZJQzBjOGdkeUZmQ1VYTzN0SW5pNEVKNG9PZUU0RlByRHY1Rkx1NDkzbXpJN2F5d3RtcF9SRTNsQ1VXeVMtZGI5SHRPcTNkWUZUOVJtaGN4RjVENmdNQkxn?oc=5"
-      },
-      {
-        "title": "Dyplomaci USA opuszczają Cypr. Rubio wydał zgodę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdURsTWktcEV4WW5zVE52a2dhMi0tdU5CaUtON1hjQmNjYmgyMXp6Y3BPaUxSWUJPY0UyQmR0Rk8wa0Fsb0FMaXlpVy1DalIyVWlRMTlycmJYRm5oWm1FUEZWaWxOdVJlU1F0VWVGZExVTGdkN01HNzY3cThvS2V5d1RYaDkySDY4UVFST2ZlOXpkUkFy?oc=5"
-      },
-      {
-        "title": "17-letnia Sandra nie żyje. Uległa wypadkowi w Austrii - o2",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelN4d3NBVndqd1RYQVNtZDJWX2dfV0tQTUN2ZWNqWDh1dW9qRndqekozdFpWNTBCbnV4ODQyTE9XQUpNWktudXRIQXEyNVlULWRfOGJkUm41aTNxNUlubUp2UjJOQVdyTGlJQkxQWFVEbU5tNGdtTWFXSVlGTUNPM2phczBSZ0dZbVJ2bkd4ZDB0TVNPb0RiemFUc0VzdzVz?oc=5"
-      },
-      {
-        "title": "Wielka obława w Rybniku: 13 osób w rękach policji. Odnaleziono zaginioną 17-latkę - Rybnik.com.pl",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkRkMkthNjJLVUV5RVJjNDVDTG1VMF8zNHp2bElLZE1HX3NSRVNfbTlyTmlkVk9uNHpWcjYyYUtIY1VlaFZmNWRfMTcyMURURnN4dDNJZ3JVc29qM1llMGgzWTNmYjNlWDNtYlE5M2VDVl9XVDNhQzZobUNjTWdQNlNlSjNna1Q5aUVGcklfdnlINUZhSFZSenBRalMtX2psT2ZSeFpYeGVLblJXS19KRmdSakxzT1J4U09BMlRuczhLemRYM015ZjgzRy1Tc0FHcjBv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-04 15:33:56",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Izrael poluje na irańskich wojskowych w Libanie. \"Mogli siedzieć cicho\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDBqVWE2ZnU2X1c2bFVWTjA3Q1J4V1lYTlJvR254c2oxQi1GOWhiMHg1ajNsVkQzVnI5aFJ3a1J1OU0tSzFtRjZWa3BrYW45MmJHOVRVS25ad1otYUpTUzF1OG1BcENzdEp6SklCanN6b0g2T0djaVZhMldNYVROYnh5bklIc2o1VzBjT1A4MkQ5ZTItQl9kQmQ1T1Z4SUtxOVNtUklNbTNsRG41ek92Mw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-07 00:21:37",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: +0°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6962,
+      "EUR": 4.2782,
+      "GBP": 4.9251,
+      "CHF": 4.7262,
+      "JPY": 0.023415,
+      "AUD": 2.5872,
+      "CAD": 2.7042,
+      "CNY": 0.5348
+    },
+    "crypto": {
+      "BITCOIN": 251289,
+      "DOGECOIN": 0.335428,
+      "ETHEREUM": 7302.06,
+      "LITECOIN": 198.53,
+      "RIPPLE": 5.02
+    },
+    "indices": {
+      "^WIG20": 3262.33,
+      "^WIG30": 4162.87,
+      "^WIG": 3262.33
+    },
+    "news": [
+      {
+        "title": "Na kogo dziś zagłosowaliby Polacy? Wielka przewaga jednego kandydata - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkl0dGhtenNIYjdPNVVzVWxfTTdDamxGM0xRTWRPX3gxMXl5dVdPNjIxYjN1ajIybncwcEVyeFpYMHotaGtBY2hCVzN2VFBhb2hhSzZlaHJlM0tTNEZPUFdXQXhMdGliemg1aTFheTAtbXRYNEdyTmwzVE51ejZ6MUdrWG9iUTgtUWtMVEk5WllraWNzWWNhTnFhNURkdE5wTnNtUWRfUWotOGRScEtN?oc=5"
+      },
+      {
+        "title": "Pożar w amerykańskiej bazie. Iran zniszczył Patrioty - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZMQmJrMElFNFptV3pNTV9lN2lqWEE5TGtmTlJZRklMd0tBLW9hMUMxdU9NV0xyeF9aV1Z1bVd0ZHh1aFRxZFhTTTN1YnltTi0zcnJGclN4NXcxa1REck5zdnB2R3BQOWh6Zl9UUUFpYjdibGU5RnpSNWpYS1dGYkdTcDFJNENuRXh2QU5EU01taGY1Z2xLN0pn?oc=5"
+      },
+      {
+        "title": "Szokujące ustalenia. Ameryka może być winna śmierci 150 dziewcząt - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUEdmUkQwaU15dnZwUkthbllPd3g2bURKTGUzMG43Y3oybVp5RUU0d2lMMXVEazQwRWw3bURXSUFqYzRNSjY4SGdOdGo2NGIzWGk4cmNPYUJ6ZTFzdExhVU1sNVViRUxJdkZtSzJjTUc5WXQxNDJLWWRQb2pySDBqYXdOUFVmcm1YSHdnVXBrMm9ibWRXamtYWGJrbk9nNS1sTWd0eDljdm94eHlyZjM1Ri1NVkdUZTNKaWtmbXR0MndfdUJBSEdCdEhMeVJvcFRZ?oc=5"
+      },
+      {
+        "title": "Iran ostrzega Europę przed pomocą USA i Izraelowi. \"Zdecydowanie to zrobimy\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlpTUTc3UGVPTkRHMm1KbjlsT0ZDZXp6eFZzVDAxcjN6N0ZickdJNUl3UF9nU29zUTlrdjRXVmpObzVRSzQyTEdNMTFaVkJ5cUJucGo4Z3FCeEJ0ZU9QSklacWoxSmM2blgzbWJPS1pYaE5MOFlXTndUN0FSdXJ3TzFoR0htSGJ1Vi1vSlE5bFJIV1NhSlltYmN5SUxQOS1jcHFTdElWS1Vnakh3S3pDeHpRaVV5MlRjQjIzbi1zZ1BiNXlOQlE?oc=5"
+      },
+      {
+        "title": "Zełenski pojechał na front. \"Rosjanie przygotowują ofensywę na wiosnę\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnY4S0x5MmZiYmZTcm04TTJRbVVRU3NQR0ZkUWl4a19yVndqVENGaUpadHlCTnpzeFd5dm83Y2VvRzZPRFdwdUdDUTFPclNlV2hGUHNUS1RnZVF2OUJFQTRmYncxYUpNZlB5NXZzVHlDeGVscXBpbGJjVUxJT0x1WWhFSFMtNUl0V0hPbVZRYkhQNkYycmVPdFJEOG1fV093X3lXY1J0akIteUoyQ1N1UFIxZFM1Zw?oc=5"
       }
     ]
   }
