@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-03 14:55:19",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.682,
-      "EUR": 4.2732,
-      "GBP": 4.8962,
-      "CHF": 4.6853,
-      "JPY": 0.023353,
-      "AUD": 2.5923,
-      "CAD": 2.6876,
-      "CNY": 0.5336
-    },
-    "crypto": {
-      "BITCOIN": 247426,
-      "DOGECOIN": 0.332187,
-      "ETHEREUM": 7211.85,
-      "LITECOIN": 198.57,
-      "RIPPLE": 4.98
-    },
-    "indices": {
-      "^WIG20": 3288.41,
-      "^WIG30": 4198.73,
-      "^WIG": 3288.41
-    },
-    "news": [
-      {
-        "title": "Izrael kontynuuje ataki na Bejrut i Teheran. Iran uderzył w amerykańską ambasadę [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
-      },
-      {
-        "title": "Atak na Iran to część osobistego biznesplanu Trumpa - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOME5aU3pNNzlVVTk5Z185QXdJcGx1UGtCTDM2ZUUwRmJyRTlxV1ZxUkxPYzM4TWkzZm5RYUxqWFZDZ1ZXTUlqSTJzS2ZfMjRBd0hOSVJ2Ql9ydmZMaUptMk9iNE84UW5TcU9WMHpheWxyOU9WQVdKbVd5NUd4cmNwd203M0t1Q0tBXzdRb0hjVThlX0pVQjhYRjhDZS1hTnhTR0t0aXdMMnZvamd4ODJCdFJQbjZFTTQ?oc=5"
-      },
-      {
-        "title": "Pożar w ambasadzie USA, żołnierze Izraela wchodzą do Libanu [MAPA NA ŻYWO] - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHBiYk1HSy1VelRQTzE3X0NySzhtSk9EV2pzTDNfQjM3b1loV0NtQ3Z2ekRoQmJOZ3NGd2xKVnVveHZGUHZSTlYyVDJFNTlBUllpWDhuaUJ5dDFFTUlxakJFMm40MW9vcHBKZDdhVzc1Zl80M2FIUVc0UVcyNURmWWV3VG95enVsRjdLQ0F0aXdQVHd0bGRoV21XcG5sM05XZTlNOGRyckZZUGlra0hfOGlKWUtWMjg3c0hvcjNfMG1TMi1sUndycGlNRQ?oc=5"
-      },
-      {
-        "title": "Nawrocka pokazała zdjęcie sprzed lat. Tak kiedyś wyglądała para prezydencka - Plotek.pl",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUGc4SGJva1lfTHgxbnQxeEp0MmFqdGhnUGpObnhucHdQdFVBOWd2aWVHcVhCYUVSTV9reFFIYUhIQTdFcnlVMXU0cFhFbHktRHdFc0hCbFYtY1p4UV9NencwajdTaDY5NnpKTnZQVW5FaGFZLUUyeEp4LTF0RE5sTjJLVVhsNUZIVGpJQWhqT2Fjc3IxNXQxbjZ6LUNYMlFmQTVEbWJBUTVQcUQ1NU5iZWFxZmpqUjBEeGJPeGdMNm4?oc=5"
-      },
-      {
-        "title": "W Iranie padła nazwa Polski. Jest reakcja z BBN - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0dOUW9MbHRVMkI5NFRaMUQ3SjFPcThKa1hmcXJsM2VxOEFVcjBOTHR0c2dVX2t3X3lZR2pvZkFrZHV5NXJTRnd3NmFTZktOMXdRY29TVDVSaXE0WWt1TFBuS0dQWjI2cHB1ZUpKRW1yUDItQ2djOUlGTE83QVRvVmpZajluVVhZOGNvdFNERXIyX2M?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-03 15:39:38",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Izrael chwali się postępami działań w Iranie. Wielkie zniszczenia - Onet",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQm9vQm4tVm5aaDY5ZGJ4TTRXYUhtdTJBeHBzNEtNRHp0LTg1eFFjcllpRHJJaW8wR2Rnalc4TUNGdlVrN0dVNEJLZHFrbE9wRk9vQWZwMV9EQWdyWVFWdTZ1aDE2b0YzTW9PUE5NWmJ6RG9yaFpfZThpS1AtS1hQbzBxWTBid0RIaVBTZGNrN1pWQVcwNGJQYzBWTVpnalVwZWpNS1hhS3FPaElval9tbks5d2xCcTA?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-06 02:42:07",
+    "weather": {
+      "Warsaw": "Warsaw: -1°C",
+      "Kraków": "Krakow: -2°C",
+      "Gdańsk": "Gdansk: +2°C"
+    },
+    "rates": {
+      "USD": 3.6771,
+      "EUR": 4.2739,
+      "GBP": 4.9108,
+      "CHF": 4.7205,
+      "JPY": 0.023397,
+      "AUD": 2.5905,
+      "CAD": 2.695,
+      "CNY": 0.5334
+    },
+    "crypto": {
+      "BITCOIN": 261414,
+      "DOGECOIN": 0.346075,
+      "ETHEREUM": 7674.93,
+      "LITECOIN": 205.02,
+      "RIPPLE": 5.19
+    },
+    "indices": {
+      "^WIG20": 3326.54,
+      "^WIG30": 4242.61,
+      "^WIG": 3326.54
+    },
+    "news": [
+      {
+        "title": "Zysk NBP zamiast pieniędzy z programu SAFE? Jest reakcja ministra finansów - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0F1VzJMemc0bWE1b1FSSFJDQ00xbmJaUXZnbTVFVHh1cWZ4Y0VGUDViWF8xYnZEeFY2S05CcDN0Z01TbE9RazRmcUNCTmZkOWJQRTFzUHplU1dGbWEyWUJwbEhaSUtOdU1MNUprT3BiQy1ZOUIxNmdWVHRueXdaSHo0Z2E1U0ptT2Rpd3VyYzZ6OFJDX25Ud19JdndRUkg5V1cxM2FySE1tcndMbzMzVlB0LTBUNmotVS1heDNNOWw5cmNTM3RF?oc=5"
+      },
+      {
+        "title": "Irak informuje o katastrofie amerykańskiego myśliwca. Armia USA zaprzecza - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzBqa1RMV3o2WDNrbUI1X0JySlpVZkRyQWZGQXh1TUJtaFkyQUx6aElPQTE2enRKdFktODBNeFhmS0VJVXNuVFpNM0hlTnU3SDVBVEZGM0dobnRuajNIanphSFF0MmlGU1lydllfWUNIakMwUk4wcGlUS2F1LU52MHdQdHR5RzhCYTd4WXEtSWVfd3JtUUVmaUp1UlN6dzVUNmNEWU5CLXVVSWZ5YkU4cUlEQQ?oc=5"
+      },
+      {
+        "title": "Nuklearne plany Francji z Polską. Rosja reaguje - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGRHUkxKX1hkUFFoQ3BjUDd6M2J5ZVdwLWFjMUtEc0ZLUkJhT2QzV3Q5N2R1aW9kckpGZGxMNmhyVlZtOHI1bFF3a3Vfb2UyZFNLUnlfR2FUa3JEX1NpMFdvb0R2MHFXcWZrODBXYkFlYUthaEN5MGphbVF1dE5SRU5sbG5Gcm1fcmNicUFMb1R6N0k?oc=5"
+      },
+      {
+        "title": "\"Ludzie są wściekli\". Polacy koczują w Bangkoku. Chaos pod biurem Qatar Airways - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakItUnBMbWVmZC12WWllcXRqaXlIMFNkRHpvUmRIN2ZHRGE0a3pra2sxTzJjZ2NJb3c4aXE1SDlKbVV5M0RwOHR0NkxNWkZHeGxWcWxRcGFERnlKRGNRNEpBbzF6bUEzZ0VwRWJSTVFwMVBQV2NEQjAxRGY4RFQ3ZHJIMEdwS0VYMlhuMUh0S0NJYWlmV2l6Z1NqejJtM2V6eG4yY3NZU0lhNkFSWE41UFZ3?oc=5"
+      },
+      {
+        "title": "Trump o ataku USA na Iran: Wszystko zniszczyliśmy. Została im odwaga - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDZXVi1yV2lKMzd4bERiajljbk9DVHR3TWppaW9LdUh0U3BpMkFnSV9oeFgzLVZIdzROSDhody1NQ1c5emJtamJhQ2U5V2V6MmpQNnJ3VUxaWHBhdGZDdmlja3NHOFdFaFZlNkprdUk1a2Y2R3NQY19xSHAwalFlZzRvZUltN1ZaWVp0eWRBcWJrQ1dneEpTbFhLZFh1U2cyVWt3aVYyT1NrNE5FbzNCY0tJeEdYZw?oc=5"
       }
     ]
   }
