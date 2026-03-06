@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-03 17:38:43",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.682,
-      "EUR": 4.2732,
-      "GBP": 4.8962,
-      "CHF": 4.6853,
-      "JPY": 0.023353,
-      "AUD": 2.5923,
-      "CAD": 2.6876,
-      "CNY": 0.5336
-    },
-    "crypto": {
-      "BITCOIN": 253050,
-      "DOGECOIN": 0.338712,
-      "ETHEREUM": 7346.01,
-      "LITECOIN": 202.65,
-      "RIPPLE": 5.09
-    },
-    "indices": {
-      "^WIG20": 3249.38,
-      "^WIG30": 4153.61,
-      "^WIG": 3249.38
-    },
-    "news": [
-      {
-        "title": "Atak na Iran to część osobistego biznesplanu Trumpa - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOME5aU3pNNzlVVTk5Z185QXdJcGx1UGtCTDM2ZUUwRmJyRTlxV1ZxUkxPYzM4TWkzZm5RYUxqWFZDZ1ZXTUlqSTJzS2ZfMjRBd0hOSVJ2Ql9ydmZMaUptMk9iNE84UW5TcU9WMHpheWxyOU9WQVdKbVd5NUd4cmNwd203M0t1Q0tBXzdRb0hjVThlX0pVQjhYRjhDZS1hTnhTR0t0aXdMMnZvamd4ODJCdFJQbjZFTTQ?oc=5"
-      },
-      {
-        "title": "Cofnęli Polaków tuż przed wylotem z Omanu. Pilot nagle zawrócił - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTkwYXFudHV1REhsbW5wM1c2YmxpOFgzNkc0RVU1ZHhQQ0dTRkJtbF9qQWhaQjFobVcwNHpHSXpTTXNDY2hQbnVXTkxCX09kRVRvbWxaZm9qeTQ1R1l3SG1udjFndTFVQ2g2YnktbG9XdWh1QVA4aUVOWTRaRjdwdk1yYXh5TzhDMHlBbVV0a3gyME0xWk5TN0NkMEpJeTZQYjdNaVh5cWU?oc=5"
-      },
-      {
-        "title": "Izrael kontynuuje ataki na Bejrut i Teheran. Iran uderzył w amerykańską ambasadę [NA ŻYWO] - Gazeta",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oLTdiRzN0eVNZdzNDdzBmSHBZV2JnQkhoQnRnTjlwQUp5RFpWTjBKUUVLazZQbi1nbC1hT3ZBRy1pcFV0Q2pCZk1UTnNGNkJ0eGcteDNJRzlsZlhkWmJwZmVWckZHY3hIWnc?oc=5"
-      },
-      {
-        "title": "Ograniczenie ruchu lotniczego nad Polską. Komunikat PANSA - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHAxOU1CUzRUaVNmUE5pcTlIaXhnYl9RSkZQMnFhem5OWm91RjBvN2c2N0RkQVlUUUdhWFk2T0pMV2hpQjl5YVpZMm55MURRRkRNZjRDWFRxT2pfckxWVW91Y3NBZ3pBQ2RqRVR6b0JfYnNHZWd1elhQWE90VExrZHFpNHExTGVvMkFjY3RmQ0ZMU0g2X3ZpdUFYQWdDQmFz?oc=5"
-      },
-      {
-        "title": "Obietnica Kaczyńskiego w sprawie Brauna. Polacy wystawiają prezesowi PiS druzgocącą ocenę - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMm1qemJzXzBTWEo1Q0NJUTlwOG9KVUVfekZqdExQeW5mR0VUN2wtTkJQZzdyTUIzVk55STl4eW5oa1hIY21RNFF1UUdPWGhSWTd0REllSzk4enpNRWJpZXA0WkNzZDdiNWctaWVDU1g1MHRkWnBOVnZIeGhjUUtwTk1yMnJYTkJ5Z29DTDVwYjdUUHNzcl9KX1MzNHpCMldsVTVaNlVraTNDNDFKb2pMMjVUUjB6YUdoWWlmbDFud21Ibmw4TmhCVmJwZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-03 18:38:22",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Miało być „nie” dla ataku na Iran. Keir Starmer uległ naciskom Donalda Trumpa? - Rzeczpospolita",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWF9ydmstWTE4c1dxNEQ4ZVREQk1SMkQ1U09fMlJYMDNTNFFpNmtsMUtGU2JwMnlXSjFuTjduV1MtcUtTRDJqaHpWREswSDQ4M2ZwbllnRkRQdGJXeXR3UHVQYTN5Rk1ESHNURWVybnBZMndTVkROcHFRd1I3NWM1LWZCRTJjcG41Q0hfX0o5WDB5aTgzdFozbXB0MnBuMGk5TS1MTG1GR1J0aVRwS0RuWWdnN0VXNGR6bGpIcEJMYXBLb3ZWZF9v?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-06 07:38:39",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6771,
+      "EUR": 4.2739,
+      "GBP": 4.9108,
+      "CHF": 4.7205,
+      "JPY": 0.023397,
+      "AUD": 2.5905,
+      "CAD": 2.695,
+      "CNY": 0.5334
+    },
+    "crypto": {
+      "BITCOIN": 259493,
+      "DOGECOIN": 0.344056,
+      "ETHEREUM": 7617.43,
+      "LITECOIN": 203.82,
+      "RIPPLE": 5.15
+    },
+    "indices": {
+      "^WIG20": 3326.54,
+      "^WIG30": 4242.61,
+      "^WIG": 3326.54
+    },
+    "news": [
+      {
+        "title": "Doradca Nawrockiego: NBP co roku od 20 lat łamie Konstytucję? To absurd - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVjFZMjNtUGpJWjkyaDlxQmwwS2VYTzJDS2FVMlFUWDV2QnBkcWNuSE9xN1Juc2xwYXdKMGZpNXpqY2phUTVpa1FkdHJreGJiRUxrVktRTUt1eG1WbkliRDJ2ellVOUtiSTdFOGtZdmlwZFV6c0ZEbk5PUnJfLWZzb3lDejI5djJFV3FjWFhtWDRTVnpYbXRRSnhrQ1FUOUIzdTJTaWJ5T0kzQlpJWEhyM3pjMlZORU8tejJWb0ZvQVJ4QQ?oc=5"
+      },
+      {
+        "title": "Dramatyczny apel. \"Zostawcie Kurdów w spokoju\" [RELACJA NA ŻYWO] - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFJZem80YnY0VGM1SWFycENkWnpxZGZMMDREUXNuT2ZLcVdHaFhRZ0duTVY1Ml9qaGdwUGp5cE5JTkdLN2l6bmZ5bVNfOVRGR0xaOFFRcnYtS0VTNzlYT2ltTi1EYldIdnA1a0J5bkdZM1ZGMWthdk1VVzFMWnV3OW1aaG45Y3lsTzlpQ2FWaDc4b19yMGc2QjVCMDlsdER5RG5xb2hMQjdwaVRxd1VpRjZSc0h6V280c08w?oc=5"
+      },
+      {
+        "title": "Trump wskazał kolejny cel. \"Najpierw chcemy skończyć z Iranem\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmhsaDJMcnNuYWgwUGVpajNDWmJONkpNaDRfSHhoT2lTOG5jUG1WdzBueEVJc2FTX2RxTmt1Q0FiTXpuTWZiUFdGQ0F3Vk1IY01QSWVRd3BUTlp3NGNUUjNKcUl3Y29nYmZSenh3UDVMNEMycmItR193M0xPaTBUMEFyRG5Bdi1pa0YxbVRiaGp5a1BNVlVrdDlFSVVaeVRMMEZyZzN5eEpPRkpERU4wOUhrRTZ3T05iMnpUdzhn?oc=5"
+      },
+      {
+        "title": "\"Ludzie są wściekli\". Polacy koczują w Bangkoku. Chaos pod biurem Qatar Airways - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakItUnBMbWVmZC12WWllcXRqaXlIMFNkRHpvUmRIN2ZHRGE0a3pra2sxTzJjZ2NJb3c4aXE1SDlKbVV5M0RwOHR0NkxNWkZHeGxWcWxRcGFERnlKRGNRNEpBbzF6bUEzZ0VwRWJSTVFwMVBQV2NEQjAxRGY4RFQ3ZHJIMEdwS0VYMlhuMUh0S0NJYWlmV2l6Z1NqejJtM2V6eG4yY3NZU0lhNkFSWE41UFZ3?oc=5"
+      },
+      {
+        "title": "Gen. Hodges: Trump nie ma planu na Iran. Putin jest zwycięzcą tej gry - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0dOWG5LTlprd3FodlJFZnhsc2VTSldWa2h2MFItVnFNNnNPVmJoZHZjUHVDMTM1NGdTaDFET3pNUHJoRjhySEhVeTltdFNpaDF5dU5WRWxlYXhFeHVjQ0t3Skp2TFQyLXVMVS02Zk90c2xRNkRWdml4N180RU5IYnlTblNCOW5uMHBycEJVN1FRRTJJZWFlWTJpN1VodkJlMWxrSHlZQ0dMdlhwRGc?oc=5"
       }
     ]
   }
