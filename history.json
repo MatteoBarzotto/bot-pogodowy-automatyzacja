@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-04 22:28:06",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.677,
-      "EUR": 4.2685,
-      "GBP": 4.9125,
-      "CHF": 4.6935,
-      "JPY": 0.02339,
-      "AUD": 2.588,
-      "CAD": 2.6888,
-      "CNY": 0.5319
-    },
-    "crypto": {
-      "BITCOIN": 268374,
-      "DOGECOIN": 0.374213,
-      "ETHEREUM": 7875.93,
-      "LITECOIN": 209.03,
-      "RIPPLE": 5.32
-    },
-    "indices": {
-      "^WIG20": 3335.75,
-      "^WIG30": 4255.61,
-      "^WIG": 3335.75
-    },
-    "news": [
-      {
-        "title": "Prezydent Francji ogłasza o Polsce, Tusk potwierdza. W Pałacu Prezydenckim oburzenie - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWExYVHNRbTBUNzFmTFlJeDBpV1RCNUhYcF9wSkE5c1hzVHNxVHNsV2tFVG9OSUFEZ2dlN1cxTmlKbE5XbUFLLUNkYURFc3NSUXozR3owdVhHMURBZllGYjlqN1FEX3pBU1djSlA4QTNuQVg3MmMwZHNqTFVHVmtwdG9TaWxwZHVORkJ0cVl6Z0pzbXNydjh2YVZ3ekI1bHpidUNUUjQwVW5DWXFxQ1NTcUJ1UQ?oc=5"
-      },
-      {
-        "title": "USA wprost o irańskich dronach. Tego się nie spodziewali - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWlZHSHBuM0Z1RXhTUUxNWF92OWpuSUt5VVFUVWdrallEbEE5MXhHeDh1YmEzdDFuNEpMQlNXTWZFV1dSbnJQODA4cjZxd0QxVGFRS0dadTVfajdjZ3lka21XamZCa295QXZUWEhlX3dFTzd6U3JpNTlYak80QlhDQVYyaGV4N0c1U2dXTzZoRzFVN281WEpmcjlLbGVWdHdlaEsxUVFGTQ?oc=5"
-      },
-      {
-        "title": "Dziennikarz ujawnia kulisy spotkania z Łukaszenką. \"Był bardzo zaskoczony\" - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajdwWDlMcEZDNndnbDlMQ2xrbmN2T1lWTTU0bUZSb1ZkU1dUMmw5YVRRdHA3UzJvekFtQ0ZZdzhLLXJsVUdUNWlrN1lRTnhFMUlQMDMwLWZ0U0hjamVDS3d2S21BOUw2cm5sZGlTUDNQQ01zWDJFS0pXRDlHM1NpN0ZQbDlZZFRjRHpoYUhib0ZMZklUWS1MX0NTZUxUbkRFc3RFaS0yUnVfSUJuakU5UVpGWF81U0FOdGEyQ0d3?oc=5"
-      },
-      {
-        "title": "Podziemne tunele Iranu. W środku pełno rakiet i dronów - o2",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFFja3R6bnIyLTZISUotaUZoQnduUkxvQUphdXBEcEhCdzUweHZyQnVLQnlXQzItdjdZNUg5dmJKemhhQTFSbzdGaURsNnJYdjlzMFZoWHNzaTBWd01sQW41b0N6a2wtQUF6SWhmeE9BXy1SY21ZdVlvTjNFN0VHM0h1dXlycFhUYThLS3dYODh2b05nS2FkSEI1LW1OYTFSMkE?oc=5"
-      },
-      {
-        "title": "Akcja policji w Tarnowskich Górach. Kontrole kierowców i pieszych - Gwarek",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXd0WXlFZU8xWnMxVS1DVXpRZDRhdFAycTJpeWFvNE9QbllrbDZUdGZjVVlyYUFKdlhWbDh1MEZMTEJFNWtuYjVhbG5sdk5fZXg1eW92dEdud1l0ZE03R2JseHJvdVZfYi1RWk10YWg0cE9HM1prSDZRZFBIZElfTEFGaGxvWXdDSXhrVjQ5bEJOMnFVbDV1UHpNRnlJaDV0TGdVaWJ0bmt6WnY4MkFMNXNkX2VtWUxJR25ENURB?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-04 23:24:49",
     "weather": {
       "Warsaw": "Warsaw: +2°C",
@@ -2571,6 +2519,58 @@
       {
         "title": "Media: Polacy aresztowani w Iraku. Służby mówią o szpiegostwie - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlJacW9BR0o4MEp2SmE4cnNsQS1rR0phcm5PdDVxQzZYS3o1Skx3VmcwZm4xT1lKMzd2Z241eDk2Rk1wV3hUbnZsY2h2cWlmVkx1bnZKRnc5WHhncWhfWjFMV0IwYV9GMjhlQXpCUXhlM0lETTZDeVVuRWdnVHpRTkc0aEN5d0ItTGNaQmJFOWo0ZFplWlU1S1QtUDJRWkFhQ1lJanpKQQ?oc=5"
+      },
+      {
+        "title": "Ta ofensywa może zmienić losy wojny. Kurdowie w gotowości - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODFzTjJzS0x2UmM5cHJPUkgxYzA2TEFpOTl4RjNmRXRqcjE2dG12a0VFYktzQXQwMURaWlFPRGVrTHBaSnRtS0xpTkVBNktDNUVNbkVtTUM5OFFDMlJzd3ctMjRkU3RzQ2s1SDhlT2I4NTVMYm1ubGhIbXlFeVgxRndRRlI2b0FFR1AwVC1NTkJkYmJadi1aalVmcEVkd1dCYUtxZnZBVWwwTXljUkw5XzN1WUtwYlNwQ1oycE53Tl9SSm8?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-07 10:22:49",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +4°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6962,
+      "EUR": 4.2782,
+      "GBP": 4.9251,
+      "CHF": 4.7262,
+      "JPY": 0.023415,
+      "AUD": 2.5872,
+      "CAD": 2.7042,
+      "CNY": 0.5348
+    },
+    "crypto": {
+      "BITCOIN": 250436,
+      "DOGECOIN": 0.333222,
+      "ETHEREUM": 7317.1,
+      "LITECOIN": 199.43,
+      "RIPPLE": 5.03
+    },
+    "indices": {
+      "^WIG20": 3262.33,
+      "^WIG30": 4162.87,
+      "^WIG": 3262.33
+    },
+    "news": [
+      {
+        "title": "Teheran zmienia taktykę ataków. Jest deklaracja prezydenta Iranu - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUVsY1BvckFmUy1QcTNMMFlPVGI0Mm5KWk02WHU1OHpDREVTTWJKMDhSNEdBRWJTTXdNRnQtaWlDYWt3ZTljZXFaamoxNENFMWkzc0h2bnV5QmlwMUp2bG5HVnZvNkpmTkhXem05UjQtSkJZR202LXdRb09ZUFRZWUN6emZoZEJvZUMzM3RmLUdhckc3dVN1YUlLZm56alV2dXFiR0lwaHVIRlN6V3FPdjhob3l5VWNKWjRhM21oTm9ocl95M1RzQ3M3N28?oc=5"
+      },
+      {
+        "title": "Bliski Wschód pogrążony w walkach. Zmasowane ataki w regionie, setki ofiar wśród cywilów - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzZQX1Jhcm1pd0RvOE5qNm1xcHJTTDhKdU9OV1RJbXBqSk9FV2NqM2dib1F1czVzeTRqTjZDUFd5LTE5V1Z6cGlmbEpxUUpwTy0wR2NQV3ltWGM0bVFHWGV2TjVEU0ZHZG1WdWVoN19vZ1V5U3EzX28wZEpTT2FIV3BJVWsyclZfZ19yOFZwR2F1R2lPV1ZTcTBjTl84Q3oxSXZQNWhjbGg4VG5rZmdaRHN5OGJZcV9kS0NxblF3?oc=5"
+      },
+      {
+        "title": "Rezerwy NBP nie są alternatywą. Ekonomista: \"SAFE bezdyskusyjnie atrakcyjny\" - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0w1VTJzRzkzd1I5TGZ6M0dVS0Q4UnRxWkZtZnNDek93UmZCTW5maWZVRTZhVDhMMS1RaHk0LXRuNy1Kd2ZDQVZ5OGNDLVh6UUxJQURGMVVMUXhhUVhxRlcyazJmaDh1R2Q4NWZvamNwVklrOE1ydTNfRzBxSHRLdmJTWEJxb0FQamJRUkNzckRuSGJzSl9IOTFQckJlZWhFT0R3V2EzUmNpLUxvNWRMYV9XTnJGczVJNTBTem1OUVNkZw?oc=5"
+      },
+      {
+        "title": "Zełenski pojechał na front. \"Rosjanie przygotowują ofensywę na wiosnę\" - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnY4S0x5MmZiYmZTcm04TTJRbVVRU3NQR0ZkUWl4a19yVndqVENGaUpadHlCTnpzeFd5dm83Y2VvRzZPRFdwdUdDUTFPclNlV2hGUHNUS1RnZVF2OUJFQTRmYncxYUpNZlB5NXZzVHlDeGVscXBpbGJjVUxJT0x1WWhFSFMtNUl0V0hPbVZRYkhQNkYycmVPdFJEOG1fV093X3lXY1J0akIteUoyQ1N1UFIxZFM1Zw?oc=5"
       },
       {
         "title": "Ta ofensywa może zmienić losy wojny. Kurdowie w gotowości - Wiadomości Onet",
