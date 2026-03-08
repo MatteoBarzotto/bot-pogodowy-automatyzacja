@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-05 22:27:57",
-    "weather": {
-      "Warsaw": "Warsaw: +1°C",
-      "Kraków": "Krakow: +2°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6771,
-      "EUR": 4.2739,
-      "GBP": 4.9108,
-      "CHF": 4.7205,
-      "JPY": 0.023397,
-      "AUD": 2.5905,
-      "CAD": 2.695,
-      "CNY": 0.5334
-    },
-    "crypto": {
-      "BITCOIN": 263449,
-      "DOGECOIN": 0.348326,
-      "ETHEREUM": 7714.58,
-      "LITECOIN": 206.23,
-      "RIPPLE": 5.22
-    },
-    "indices": {
-      "^WIG20": 3326.54,
-      "^WIG30": 4242.61,
-      "^WIG": 3326.54
-    },
-    "news": [
-      {
-        "title": "USA i Izrael kontynuują ataki na Iran. Tymczasem amerykański Senat poparł działania Trumpa [NA ŻYWO] - Gazeta.pl",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8teE9mT0E0QVNsbHZnNW9XSW14d1dRaVpiTGpoSlJpdXp2RXB0aXQ4THh0R2JBUjhmMlJKaGlBOHFWM2tRR2hQQndvVWl6b0tJcVROMXowUHZiVmxkMGhESG5GWFJTcjVkekE?oc=5"
-      },
-      {
-        "title": "Donald Trump odwołuje Kristi Noem. Będzie nowy sekretarz bezpieczeństwa krajowego USA - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVVfd2V6UXJvbUVxbFJvdXJiTDRBZGpIWm9EVTY4Q18wTl9jclBiVmlld1gxeDB1Sk80RTdKWVRzUllIdmZ3UGNxZkk3Nm9WY0xfT2U3MXhjX3ZGQm9rdEp5ellNUE44U3hWZGJwUjQ0dzl4Qm41NFJVM2dhaFozQldIalJUX3FxOFRlSUpIWWZ3a0pza0NxTWZn?oc=5"
-      },
-      {
-        "title": "Zgrzyt w PiS przed sobotnią konwencją. \"Morawiecki ratuje siebie przed najgorszym losem\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY05xaUFBelpRcG54WXNKRG4wOHk2LXJUZlNvSU5fOEhOWGQ4b0l2TTJpNTAybmlBd1dPUGJsOXFfWDRudHdDSFJVci1JUEk0eHY0Qm5fM0czOUFCUG1xSkZOdW91NWlNSWIyZG9KVHZhX3JzaDN6dW1obVRSUUc0ZWpRa0s0TkJVSVJqZjVOMEtfNG52cWVLRHJ3XzVGaFdWb1hSUUtlb1BoX21ZX21SRm1RMzlUd0NQVlJ2WHdGSVZ4aDdGLUZJOVktMFY1NkpZX0xiVDdKR01nMkRYdUp4NnR3?oc=5"
-      },
-      {
-        "title": "Influencerki sprzedają bajkę o Dubaju? Ekspertki nie mają złudzeń. \"Tam rządzi marketing\" - Plotek.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZvckhFM0Vzblp6Nko0dzYyb21zdjVEaGNoYWw0M182dDFkVlFhM01sX2pGTlJBTnc3STlnMU9rWHZxeUI0cW5TUzBYOUJILUtqSlZFU1dkeXE3cE9ZX0h4NGpXdmFSQTRNZDQ4MWRXemxxVTV1OWw0VFAycW5rNDlodERpRFhkeDJZcXduMWhKdVFNbmpGdENTT2JRTzlwSnM5bjlQeTZhVnFKUXFJaDdPd3lhWnc?oc=5"
-      },
-      {
-        "title": "\"Ludzie są wściekli\". Polacy koczują w Bangkoku. Chaos pod biurem Qatar Airways - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakItUnBMbWVmZC12WWllcXRqaXlIMFNkRHpvUmRIN2ZHRGE0a3pra2sxTzJjZ2NJb3c4aXE1SDlKbVV5M0RwOHR0NkxNWkZHeGxWcWxRcGFERnlKRGNRNEpBbzF6bUEzZ0VwRWJSTVFwMVBQV2NEQjAxRGY4RFQ3ZHJIMEdwS0VYMlhuMUh0S0NJYWlmV2l6Z1NqejJtM2V6eG4yY3NZU0lhNkFSWE41UFZ3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-05 23:24:33",
     "weather": {
       "Warsaw": "Warsaw: +3°C",
@@ -2575,6 +2523,58 @@
       {
         "title": "\"Pudło\". Sikorski o zatrzymaniu na Węgrzech - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGhoY1llcnF1Z0RTT1poREZIYl9QMVhqUENQb0RsLVgwUTV1N0hRbVF5LXF1V1B0UWFoNk5IdVBoUnlEZ0tnZ0R5ck5EQlh4MkNLa0FUTS1yQ0c0S0NzcHpoTzNVQnQ4RTk0VDR6LWpyTDRVTEtHRFhFNEVNaF94RUxUdndIRVBuSGk0?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-08 08:26:52",
+    "weather": {
+      "Warsaw": "Warsaw: +0°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +3°C"
+    },
+    "rates": {
+      "USD": 3.6962,
+      "EUR": 4.2782,
+      "GBP": 4.9251,
+      "CHF": 4.7262,
+      "JPY": 0.023415,
+      "AUD": 2.5872,
+      "CAD": 2.7042,
+      "CNY": 0.5348
+    },
+    "crypto": {
+      "BITCOIN": 248155,
+      "DOGECOIN": 0.329424,
+      "ETHEREUM": 7207.82,
+      "LITECOIN": 196.57,
+      "RIPPLE": 5.01
+    },
+    "indices": {
+      "^WIG20": 3262.33,
+      "^WIG30": 4162.87,
+      "^WIG": 3262.33
+    },
+    "news": [
+      {
+        "title": "\"SW\". Kulisy wyboru Czarnka. \"Takiej nienawiści nie było w partii jeszcze nigdy\" - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmw1VkZlM2MtM1drZkpqTUcxZmZEM1NrcHY0SkVoNlZFdk5ZbmdqaHZWZC1iOHBnV1hEMENyYVV4UkdzbGhWOHdCaXhjZ1JDTjdGX19VNDQyU3hqTTJZTWtkMjNYVVk2elJOYndjTnNaYTNSbENpelJEUTZGcjJ0Yk0xb3dkNTdWQW9jNFl6NmVabThqR2k5c0UzVGVKWXdqMENseXpBTmwtWWhDLWc?oc=5"
+      },
+      {
+        "title": "Atom za atom. Czego będzie chciał Macron w zamian za ochronę Polski? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGowaDhQSTJqZlhpczYwVktwT1h1dHBkQldUQWlHQjM4RkRuNFVFWFltYWRpU09SQmFOdEhaVUt1VGpZYWl5NDRyRFhvVmxDbW9vbmxRYnU3RHFkZ0s4Tm9FSk1ZcW1SbVRUcDNWSXg3WkFTYm0xa3RwTTl0MTNJNGt6cDhaQzcySEtyQllqWFJ1U2pSUTNhaEM3dmxGN0dlSE5yXzZCbkZpVmRlSFE?oc=5"
+      },
+      {
+        "title": "Głośny wybuch przy ambasadzie USA w Oslo. Policja zabezpiecza teren - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSl9VRGZ2WVdiQ05lWUdjeWs1MmsxSkZINWdYTnlMdnA2YWFPT19UUWtLb2YwLTVLTmxFMDg3cE9pS21KOVFnY2ZMSE56a1ZQN1prYy03TXBlOWo2Q1ZXYXg3TmM1OW5hRktWZDh5S1NkVDE4TlFXUE9qWUhfSTAwSlBuZklwNktmaVRpTEZXR1ZfU3RjQ3NPVXJSYjc3aE9CU3NEMkJSOEhiTG5SWmc?oc=5"
+      },
+      {
+        "title": "\"Mogę być szczery?\". Trump przerwał dziennikarzowi. Zirytowało go jedno pytanie - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkdtQXRKeXhYRHRwdmJkbGtKUTFwajVHRkd2aWlyOW5kVi1ablB0SFNDdENocVJuczJFOEVNZ1l4ZGVib1FFNy1UU1l0UlJtTWlreUJzRmpLQnFKdkVHZGRSRm54UlFsX3hxZ0JycUg4azRQSWlldkZTcVByN0xaVUZmQkZBNHdjNG5hZVlrVmVaeFVBNVBfazhBdUJRenRfQ0QteTN3Y1RfMzlkeFVWTm5mdEtiUQ?oc=5"
+      },
+      {
+        "title": "Donald Trump nie kryje rozczarowania postawą jednego z krajów. \"To był kiedyś nasz wielki sojusznik\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPekU0SzFXU1UwUjF6QXpvcFQ5dk5oczVPWjdRTkhfR003dTdodUhvUGJvMzJXX2hNQU5vOU1CY21aRGp1UlZUaTJWaGRZWDh4VGh2UHNwamo5ck1Tc1pPejlIYkU2NW5sWTQxdmtZRTJ2UUJBUlNfakZvb0lHR0RzRGRTNE54U0IxbXIwMG5ZV3FFdm5fVmNSc0U2X2xQTG1ObU1qWXc0Q1NCRVRFcEw3UDNjdkl1ZGJSX2JZTFBDZUdMNkhmd2piUEh4TQ?oc=5"
       }
     ]
   }
