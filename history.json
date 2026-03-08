@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-06 02:42:07",
-    "weather": {
-      "Warsaw": "Warsaw: -1°C",
-      "Kraków": "Krakow: -2°C",
-      "Gdańsk": "Gdansk: +2°C"
-    },
-    "rates": {
-      "USD": 3.6771,
-      "EUR": 4.2739,
-      "GBP": 4.9108,
-      "CHF": 4.7205,
-      "JPY": 0.023397,
-      "AUD": 2.5905,
-      "CAD": 2.695,
-      "CNY": 0.5334
-    },
-    "crypto": {
-      "BITCOIN": 261414,
-      "DOGECOIN": 0.346075,
-      "ETHEREUM": 7674.93,
-      "LITECOIN": 205.02,
-      "RIPPLE": 5.19
-    },
-    "indices": {
-      "^WIG20": 3326.54,
-      "^WIG30": 4242.61,
-      "^WIG": 3326.54
-    },
-    "news": [
-      {
-        "title": "Zysk NBP zamiast pieniędzy z programu SAFE? Jest reakcja ministra finansów - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0F1VzJMemc0bWE1b1FSSFJDQ00xbmJaUXZnbTVFVHh1cWZ4Y0VGUDViWF8xYnZEeFY2S05CcDN0Z01TbE9RazRmcUNCTmZkOWJQRTFzUHplU1dGbWEyWUJwbEhaSUtOdU1MNUprT3BiQy1ZOUIxNmdWVHRueXdaSHo0Z2E1U0ptT2Rpd3VyYzZ6OFJDX25Ud19JdndRUkg5V1cxM2FySE1tcndMbzMzVlB0LTBUNmotVS1heDNNOWw5cmNTM3RF?oc=5"
-      },
-      {
-        "title": "Irak informuje o katastrofie amerykańskiego myśliwca. Armia USA zaprzecza - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzBqa1RMV3o2WDNrbUI1X0JySlpVZkRyQWZGQXh1TUJtaFkyQUx6aElPQTE2enRKdFktODBNeFhmS0VJVXNuVFpNM0hlTnU3SDVBVEZGM0dobnRuajNIanphSFF0MmlGU1lydllfWUNIakMwUk4wcGlUS2F1LU52MHdQdHR5RzhCYTd4WXEtSWVfd3JtUUVmaUp1UlN6dzVUNmNEWU5CLXVVSWZ5YkU4cUlEQQ?oc=5"
-      },
-      {
-        "title": "Nuklearne plany Francji z Polską. Rosja reaguje - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGRHUkxKX1hkUFFoQ3BjUDd6M2J5ZVdwLWFjMUtEc0ZLUkJhT2QzV3Q5N2R1aW9kckpGZGxMNmhyVlZtOHI1bFF3a3Vfb2UyZFNLUnlfR2FUa3JEX1NpMFdvb0R2MHFXcWZrODBXYkFlYUthaEN5MGphbVF1dE5SRU5sbG5Gcm1fcmNicUFMb1R6N0k?oc=5"
-      },
-      {
-        "title": "\"Ludzie są wściekli\". Polacy koczują w Bangkoku. Chaos pod biurem Qatar Airways - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakItUnBMbWVmZC12WWllcXRqaXlIMFNkRHpvUmRIN2ZHRGE0a3pra2sxTzJjZ2NJb3c4aXE1SDlKbVV5M0RwOHR0NkxNWkZHeGxWcWxRcGFERnlKRGNRNEpBbzF6bUEzZ0VwRWJSTVFwMVBQV2NEQjAxRGY4RFQ3ZHJIMEdwS0VYMlhuMUh0S0NJYWlmV2l6Z1NqejJtM2V6eG4yY3NZU0lhNkFSWE41UFZ3?oc=5"
-      },
-      {
-        "title": "Trump o ataku USA na Iran: Wszystko zniszczyliśmy. Została im odwaga - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDZXVi1yV2lKMzd4bERiajljbk9DVHR3TWppaW9LdUh0U3BpMkFnSV9oeFgzLVZIdzROSDhody1NQ1c5emJtamJhQ2U5V2V6MmpQNnJ3VUxaWHBhdGZDdmlja3NHOFdFaFZlNkprdUk1a2Y2R3NQY19xSHAwalFlZzRvZUltN1ZaWVp0eWRBcWJrQ1dneEpTbFhLZFh1U2cyVWt3aVYyT1NrNE5FbzNCY0tJeEdYZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-06 05:03:59",
     "weather": {
       "Warsaw": "brak danych",
@@ -2575,6 +2523,58 @@
       {
         "title": "Wojna w Iranie. 8 marca, 9.dzień konfliktu[NA ŻYWO] - Gazeta",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83YW5PUHBoTV9oVTFWS0pGazlsWFFxaWtlWkM3WUx3MnplNXZvRVpuS1pfYXR2anQ2UXJWQ3RUbk9UbGVmcDdIUm5kTDNWMXFoakN3NUJWNGRkWnhrSEJhVURtb3ZERW5QWmc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-08 11:18:58",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "brak danych",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.6962,
+      "EUR": 4.2782,
+      "GBP": 4.9251,
+      "CHF": 4.7262,
+      "JPY": 0.023415,
+      "AUD": 2.5872,
+      "CAD": 2.7042,
+      "CNY": 0.5348
+    },
+    "crypto": {
+      "BITCOIN": 250345,
+      "DOGECOIN": 0.332814,
+      "ETHEREUM": 7249.43,
+      "LITECOIN": 197.18,
+      "RIPPLE": 5.02
+    },
+    "indices": {
+      "^WIG20": 3262.33,
+      "^WIG30": 4162.87,
+      "^WIG": 3262.33
+    },
+    "news": [
+      {
+        "title": "\"SW\". Kulisy wyboru Czarnka. \"Takiej nienawiści nie było w partii jeszcze nigdy\" - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmw1VkZlM2MtM1drZkpqTUcxZmZEM1NrcHY0SkVoNlZFdk5ZbmdqaHZWZC1iOHBnV1hEMENyYVV4UkdzbGhWOHdCaXhjZ1JDTjdGX19VNDQyU3hqTTJZTWtkMjNYVVk2elJOYndjTnNaYTNSbENpelJEUTZGcjJ0Yk0xb3dkNTdWQW9jNFl6NmVabThqR2k5c0UzVGVKWXdqMENseXpBTmwtWWhDLWc?oc=5"
+      },
+      {
+        "title": "Działo się w nocy. Trump obwinia Iran i nie wierzy w pomoc Rosji - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWNhTV9aaTA5ZHdHeEItd2d6SnNKSkFNMlFCbmZuVXROeUFJR21NNE9tVnRVVlZIZW1BYXd3ejllbWk1dVNTVlZzNEhxRzVFeWpFMkxHalZaTm9UblBJQ1JEbWQweUpkbWZnM2NVYUdGb0pZUGk4TnU5dmY1RFFsUnpPN1FKeHIwMTBvNEltQzg1aC1jRS1iT0tEMkhRdFRKdFIxalVnYjQ5QQ?oc=5"
+      },
+      {
+        "title": "Atom za atom. Czego będzie chciał Macron w zamian za ochronę Polski? - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGowaDhQSTJqZlhpczYwVktwT1h1dHBkQldUQWlHQjM4RkRuNFVFWFltYWRpU09SQmFOdEhaVUt1VGpZYWl5NDRyRFhvVmxDbW9vbmxRYnU3RHFkZ0s4Tm9FSk1ZcW1SbVRUcDNWSXg3WkFTYm0xa3RwTTl0MTNJNGt6cDhaQzcySEtyQllqWFJ1U2pSUTNhaEM3dmxGN0dlSE5yXzZCbkZpVmRlSFE?oc=5"
+      },
+      {
+        "title": "Wojna w Iranie. 8 marca, 9.dzień konfliktu[NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83YW5PUHBoTV9oVTFWS0pGazlsWFFxaWtlWkM3WUx3MnplNXZvRVpuS1pfYXR2anQ2UXJWQ3RUbk9UbGVmcDdIUm5kTDNWMXFoakN3NUJWNGRkWnhrSEJhVURtb3ZERW5QWmc?oc=5"
+      },
+      {
+        "title": "Brudna wojna w KO. \"Proszę tylko nie pisać tego, co panu teraz powiem\" - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHBfVFJCdXMwbTZydjc1YlJiczRwRU4xdzJBSXJHb0VFN3JIZ3RoSVA5dEtsS3ZsSkdxamtoY1lnM1JqcWYtWUs3NlF3QWYwNVlKZndtU3Vad25UbS13LUVqU3J1Nm5JQ3FmdjdTWEY5a080a1MtSFE3a2ZxS05GaENGNFBYYU1tVWpIZTlWaUNjenUwbTd3bnRNdERCZ0dnaGVrYkZfTjhIVE9Q?oc=5"
       }
     ]
   }
