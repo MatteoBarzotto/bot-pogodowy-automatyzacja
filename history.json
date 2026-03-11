@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-08 18:17:49",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "Krakow: +10°C",
-      "Gdańsk": "Gdansk: +8°C"
-    },
-    "rates": {
-      "USD": 3.6962,
-      "EUR": 4.2782,
-      "GBP": 4.9251,
-      "CHF": 4.7262,
-      "JPY": 0.023415,
-      "AUD": 2.5872,
-      "CAD": 2.7042,
-      "CNY": 0.5348
-    },
-    "crypto": {
-      "BITCOIN": 247403,
-      "DOGECOIN": 0.327504,
-      "ETHEREUM": 7153.24,
-      "LITECOIN": 193.76,
-      "RIPPLE": 4.95
-    },
-    "indices": {
-      "^WIG20": 3262.33,
-      "^WIG30": 4162.87,
-      "^WIG": 3262.33
-    },
-    "news": [
-      {
-        "title": "Tragiczny wypadek w Lubuskiem. Nie żyje młody mężczyzna - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWpra1Fta0VhR05OWEdGSG90RmlWTVBoOUdZZ2ZzQmZRWDI1SFptaURkbGJUdm1XQllKZzZiaW93R1FaemtmNXVJYzhqZ0F1VGx6UFhDblN5dmxpaEN6T1dEM2FOM184TDBsXzN1N1psVWVRM25SZ2pjazhUN2RjN0c2NFMwTnU1cmZFNkFEM21USFZvaS1oSXpyQXUzYmlhTEQxSWNqcGJYMGZjZWJYV3pjcUwzNGd0?oc=5"
-      },
-      {
-        "title": "To jeszcze nie czas na prawdziwą wiosnę. Prognozy długoterminowe są jednoznaczne - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUFN5MGh6N2c5OGd4S040Yjd0U2l0R3Z3ZVdSVFNWdkZwUkpyRkFsLTAtdEJKSXdvNlVlOWJ6a3NKZWVKb3M0cDhCX3lKS1UwN1g3S0VpRG9keFc4akpvLVVWMWp6ODBJRzhybjJoS09SOVFaRThrbjNoQnBvanVfcTBVLTFkLUxBdnBhNmx4YXBPTkhjaG12TWZpT2U0RWMyczF2U01uUk5VYXo3WmQzQXdidVpzVnpfdnFva2k0UGZpams4akFxdQ?oc=5"
-      },
-      {
-        "title": "\"Nigdy\". Mocna deklaracja PSL w sprawie koalicji z PiS - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2JWYTZuVlBqNGZvdXlnMlQtZFRoeHh4bG81UVMwQWhLNnZRZ2t3dXBfMVdVOVlaeU1zVFJ3WklLYlpLbXVLOE9jdTk0WFNkOHRla0RhamI2WkZlSFRTczloWjNfODlQaUdTUkpheHdSdEYyMWhOUkhZSGNDUWQ2UzJTQWlQWjRNdk9zbmhrOFQwdHVGNTd5SkRR?oc=5"
-      },
-      {
-        "title": "Papież Leon XIV przemówił do wiernych. \"Niech zamilknie\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjd6YV9mdTZvWFdwUWE3NnVfSEt5SlFraFZwbWpDVk5XREUzbjF0M3oxU3hJZEtCaXQ0dEg5bFpneG5JTFBBMHZRbUdHOVZHenlsZlpWT2gtVzBDRTZ3blBEZ0dEOFEyTm12N1l6NnU5Yl9hUWFlRXBMclBFVmV3S2xqQ2psdXZNYTFhRFpaVkx3OVNaaW0wNzlxcDM?oc=5"
-      },
-      {
-        "title": "LOT wysyła samoloty po Polaków. Tym razem do wakacyjnego hitu - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUFlblJTczBzVjliTTE2RUVxUktGalp1QVV0YmgtSDdadG5VLVhJVThOeExwX2E1NVp3SE9DS1IwMmxsSEFyZllzQ1d6RXh6TzRySS1tcEgydWVuYjVoZW4tYjhFY0daUFF1NlB2Y2dWaGp4MDNVa3VJd0tXekJDSVFVSXdhZ1FLdUpuVVl1TERYdDVpVUZLWkNwa1lCVzA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-08 19:24:57",
     "weather": {
       "Warsaw": "brak danych",
@@ -2596,6 +2544,58 @@
       {
         "title": "Mentzen zwrócił się do Czarnka w nagraniu. \"Drogi Przemku\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUU5FZzhENzdyNHdsb0RHaGF1TktaMlJCZW1WbC0yalpPNThtTFVTR0FrZGFpOXJ6S2lHRkE4Y0RrZ0VhYzdhd2hNRXV2UW9WVl9ZeHVabVlyYTh0Uk9zanNGUW9PQkdJRGl2V0dGYlZfVGRDd0p6SElCek95MElWcG4tX2h0bi12ZFpqWF9HekpIRnJ5b3Y4VzdOWklpUzQ?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 06:42:48",
+    "weather": {
+      "Warsaw": "brak danych",
+      "Kraków": "brak danych",
+      "Gdańsk": "brak danych"
+    },
+    "rates": {
+      "USD": 3.6523,
+      "EUR": 4.2555,
+      "GBP": 4.9154,
+      "CHF": 4.7092,
+      "JPY": 0.023166,
+      "AUD": 2.5977,
+      "CAD": 2.6892,
+      "CNY": 0.5314
+    },
+    "crypto": {
+      "BITCOIN": 255352,
+      "DOGECOIN": 0.337636,
+      "ETHEREUM": 7402.7,
+      "LITECOIN": 196.88,
+      "RIPPLE": 5.06
+    },
+    "indices": {
+      "^WIG20": 3327.28,
+      "^WIG30": 4232.0,
+      "^WIG": 3327.28
+    },
+    "news": [
+      {
+        "title": "\"Mogą ominąć weto prezydenta, złamią konstytucję\". Bosak o dyskusji ws. SAFE - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVE04bkF5MDRqdm1td0lTZ0Z6QUpONGdkeEtHemQyTEM2NWtTS0VWR3UtODR6Z0psUHpmU3Uzby1KdmZKMVJtd2lza3dxVF9RRjUzdFRreWhHeE1LeXdRM3V3LVQ5TzFLckdoTC1UdVBNMFVfc21pZ21IcHVPVkNmV2V0bGxXdXhfZ2lsb3hxTjNZVXhkcnhxWWZWMHlrU3NLNHZGdllZbDZ1MHR3WkZtLTdGZGJ1Ui1XYzg4?oc=5"
+      },
+      {
+        "title": "Donald Trump: jeśli Iran rozmieścił miny w Cieśninie Ormuz, ma je usunąć - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN0JGNE02YlBaTmI0TzB5aUtaUU5KM1pTcEQyQk5zZldXVTZGNkhLSW03YjBpWmlkbk1qaHdHcHBiUmU5VG5GSWhZRGw2V2huRDFXYU9XaEk1RXd6WEFDWlp2emZHNEdkR3RVMDQ1V3JoM2VQbEx3akE4RThuTjh1dmJva2xMVGRROFlUNktmVVFVcUgzZ3RBU21XY0EtTGdoQzhvNFJMbU1McktzWG5ubjZaSlhpYXBFVER2c2JBMGRmWkdWOE52V0p3?oc=5"
+      },
+      {
+        "title": "PiS postawiło na Przemysława Czarnka. Miażdżące wyniki sondażu dla Wirtualnej Polski - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0dUc0oycEs4WWdRV2NHSVhmeFFaSTlaNzhud1JRTGRxX3hkQkdiZGMybmtyUklhQU5zTVhtU2dubnNZWnRQMkh3OU1PdVhBSEdsT2NPcko0b01tcWFlb281NGhOcWlrS0p5Q0xzNHpWQVVvMHktZzN1Mi1xOW51NW1JdDA5TUk0Q1k2R2lnV0hIVTdGTE81cHRRRHF4S2sxSFgzVTh4M2RVQkNmRWhPdG1kbjBIWTh6LVZsRkg3R2p3QW5C?oc=5"
+      },
+      {
+        "title": "Obiad na cześć króla Szwecji. Wiadomo, co zostało zaserwowane w Pałacu Prezydenckim - Onet",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUkJnXzRSMXNhbDJTYUpyZUhTeERYQkNOVVItc20tc0pqLXJhNFVoM29xNXEwd0JkVXQ4X2RZcTFDalI2TERRMlhRSk5RYXQ1akdmWEFndlg2N3k0Mk52Q1AzMXd4Z1d0ZzVKYUZVWlhmTGQwOWVNVndqVmxWZ3dCNXY4ZGk1ZUN0OVJHWVhnSFBZU3d5cFVZQVhOX0VxVXRlN3ZhOW1MUHl1ZGtqV0NXbFFFVWJoR21HcFpjclMyREFzc0kwYzhQUHVleFpnZw?oc=5"
+      },
+      {
+        "title": "Tyle US wydały w pierwszych dwóch dniach wojny. Donald Trump ma nowy plan - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUdLNzc2Zi1jcFdFbGtxWlFTSC1XcThKbzFNbTluYjVCeUx1XzFZaW5jZ3ZxSVI2clY2NDVPZkNXN2sxZ3pQQmloTDNRamJvRDBfYTBZOUloSktTcmh5dTZZNndOUjYzSU9BSlhGNW9pNWlKMVpNVzB2aHRtR05FcTJYWlhuODVCZ3dtR0REQTlNSFZtSVBQZFNuVDh1TGdqYXhfRUQ4a2FYa0NMWkE?oc=5"
       }
     ]
   }
