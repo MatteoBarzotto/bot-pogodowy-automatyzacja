@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-09 09:36:49",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6962,
-      "EUR": 4.2782,
-      "GBP": 4.9251,
-      "CHF": 4.7262,
-      "JPY": 0.023415,
-      "AUD": 2.5872,
-      "CAD": 2.7042,
-      "CNY": 0.5348
-    },
-    "crypto": {
-      "BITCOIN": 253192,
-      "DOGECOIN": 0.337999,
-      "ETHEREUM": 7456.31,
-      "LITECOIN": 199.74,
-      "RIPPLE": 5.03
-    },
-    "indices": {
-      "^WIG20": 3209.39,
-      "^WIG30": 4091.61,
-      "^WIG": 3209.39
-    },
-    "news": [
-      {
-        "title": "Wyniki wyborów na południu Niemiec. Klęska socjaldemokratów - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWxNcHFIV3lxS3lWalUtSjB6U0VDSjV0NHExTFowbU1kajBxTjM0aGlfNXZ4LTFValRmVFlYZmFMWHllWno2WGR6ZlJocTdQUGVZX2k5OVljN2txaUpLNUVlU3ViaDMzaXU5VDBHMWxlaDE5SE5Fd0Yyc081RDJLMTZkWkM0cEpZeHozbHBMbk1mMGNKajhLcWpScVJoTW5ob0FMUEJBV3owc1Nvd0hJ?oc=5"
-      },
-      {
-        "title": "Synoptycy zapowiadają zmianę pogody. Padła konkretna data - o2",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnkwUU5QSWdSN1NYdXBFaU1leTJyWkpKQlRuTzFHSDJVNU92RVNrVE96V3BlcGtIUkZ4aFdRQmlHNlhHVkh1d1dsSzVtMG50UkYxbVB6ekE0WkJpMWV3ZW5Vek84cXBXQ18xX2plbnYtTHBhS0pfdk5qMmZDeWFrQTJteVl6VXZremdFVTlobmRQbkxTeGhXb3RZUG5NM1Ez?oc=5"
-      },
-      {
-        "title": "Sikorski ostro o księdzu. \"Ewidentne kretynizmy\". Chce odbierania tytułów - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTdRYmtpeWFPcW9mWnVPSlR1REUzdWF4dVk4Z1c2ZWtXMVQyVE9hRVJnR3duNnJVMGtyWEg2U2RYUllLXzlMLWNCRHZfTk9Ka1Fyd2xsam5pTnVXM01MdmtGOG80ZW1tVG5zM1J0VWxOdHN4WjFfSmFfd29Tb1h2cjB5UFhCNXVfMWlnTVlSd1VTZ25tbnc3Yl9uR3R0cFB3dEtPNEVCWkpKMGVTZnk0NXN3?oc=5"
-      },
-      {
-        "title": "Życzenia na Dzień Kobiet 2026. Oficjalne, piękne, oryginalne, śmieszne dla żony, mamy, czy koleżanki - Kurier Poranny",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzE3bzBsbGRDSlE1M3o4NVlvX1hVeDhpZUxDWTY0TVlEWEk2MUZianVhbUFDYVQ0YUxSNnppbDJFbXBhMUFlVU82c1lRTmM4UWdXeldNU0x2TV9ac1lDNFFrWjlBVHZCS2VsRGZoR2ZldjN6eTNiZEZ5Zzh3eGE5aFpxRlZIYlpZanVzUE8zekpQdDNmZ21VdkFWQkJXZ1FDRTNmSXN4aTVxaWl0cURGWVlBQnRsN05BYW9QN2pBei1vLU94UVdF?oc=5"
-      },
-      {
-        "title": "Wyniki wyborów w KO. Tusk bez konkurencji, ostra walka w regionach - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFJ5QUhzbVM4dVdSeFhBbUIwSjhwSk11S1B4WnRqWU5OODlCNG9oTnJyNlhLLTQwMG9nUWZ0SXJXUUtNTldrbU5pMFd1cktjM1gyWE5CbTBuanROVXc0c0lad3BBNWRXV19FcndxeFZJSVUtTWMtMHdWWHV0SjcySHhIUmc5dmVmTkkxM0JLdUlEU3VRWE9ZbWJzR3NDRFVUQUFwbnd2Z3U0Nm8?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-09 10:41:49",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "USA kontra Iran. Kontrowersyjna polityka sekretarza wojny. \"Nie do przyjęcia\" - Onet",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmRHMVQyel9UX1Zod0hHazBjMEdJbENVR212UGFwYWZ6dm1FY1lQc3ZwaGd4OE1nMUlaeW1jam9MU3MxaDZsS05VTEtsdG1VRmVUY1ppSlppWGhJRVhTRHlsWDIzZlR1SFlaaUhPWTZlRVZtLVdIcHRsNEJmTENlem81VGI1WHloc2J3dTlsTTREUkQ0cjdOQ0V3MmtqaXo2WExnc3A1emR6TlloVEFYT0JoVUlpVXBJUjZ6ZThKTWd6TFBtVE1EbTZlRDY?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-11 19:45:26",
+    "weather": {
+      "Warsaw": "Warsaw: +12°C",
+      "Kraków": "Krakow: +13°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.687,
+      "EUR": 4.274,
+      "GBP": 4.9465,
+      "CHF": 4.7357,
+      "JPY": 0.023264,
+      "AUD": 2.6349,
+      "CAD": 2.7165,
+      "CNY": 0.5365
+    },
+    "crypto": {
+      "BITCOIN": 259055,
+      "DOGECOIN": 0.345415,
+      "ETHEREUM": 7601.94,
+      "LITECOIN": 202.25,
+      "RIPPLE": 5.14
+    },
+    "indices": {
+      "^WIG20": 3312.71,
+      "^WIG30": 4192.88,
+      "^WIG": 3312.71
+    },
+    "news": [
+      {
+        "title": "\"Uderzenie w całą Europę\". KE ma się obawiać planów Karola Nawrockiego - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjk1THdqQnJkRUlUU1htOWQzWFNXbi1WUEZ4TkQzSXhTRGpqX2JIZzRCX255SVNBTzFjVGlLYnFlWXlCYVR5UVA4UVVuUUJ4a09MYXBBNDM1N1EwX080Yk52Z2N4c3FrNURkNGZVLWwwbWxKVHI5eTFmOEM5azZvRTM2NTVxLV91UmFQcGk2czVWc2tnTTAzRy1nR2hZcWVzQzJLRHpYUlpmUl82UVhPbmRxRQ?oc=5"
+      },
+      {
+        "title": "Mentzen kpi z Czarnka. Kaczyński zabrał głos - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUNteGdDYzZaZ1V5SHkwbjg1TWpTOHotd0lSQ0hUOHhTaGI5OU5ocGFNSlB5MkcyNDZMX0RUS3B6QW9SSXItT1F6LVBjblRqdmdnSWJYdDl5dnhxV3FMd1VCV2VjWURyd1lUQ3lVb2RObXJXUFBCdGg1QmR0aVA5ejg5eFBQX0RVY3ZXYlZJSQ?oc=5"
+      },
+      {
+        "title": "Iran podjął decyzję ws. cieśniny Ormuz. Statki przepłyną, ale jest warunek - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkhJLUZMb1Vxc3BCQ1Z0RTA3ZGJta3p0bUZDSnVOMmZnWGNOejF2WkxqcW9WNFV3SmtWU3lBZXZ2d21WclRJX1VHaU5PclJWdDJFR0ZVOUZueDRqYVdQOWREQjg0TDd6X1dmdXAwRFVaaWJHb0x0X0dXbkcxUnlXX1JFekpNX2g0dXZoelB2SGtfc3ZjNDI0TXM4T2tfSTBWYzZtbg?oc=5"
+      },
+      {
+        "title": "Tragiczny wypadek w Mąkolinie. Nie żyją dwie nastolatki. Są zarzuty dla kierowcy - o2",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcy1acnYydjNzOUZCY2dKZEp0YWZXX1dTMXF2SFU0Nm9GVUZ4V2tfUFBFQmoybEFwZGdJcFVlYlM5WHV5a2UzZDU4MTdobUUyVUp0N1NzSHJUU2Z4WVd0eVZqeC15bGMyQjZsOEFnYjZSNFQ0a1NWMlR3R2hpX0NaU3Bjb1FYMzhvdkF6R3pOZldwUERSek1lU3pYMnJHaDd6WEtSWWl2blVBdVNmTWVBVXc3d19mbC1XMS1GTWpHSDgwckE?oc=5"
+      },
+      {
+        "title": "Wybory na Węgrzech. Najnowszy sondaż ujawnia miażdżącą przewagę jednej partii - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEx5SmlNeG8yNE5Dc1h4YmZxdWtxZXpZUHVPb2F6SVV6THZweDNMQUZwRDQ5Q296cjRRTUh0aU9PTFZpdXh4Y3pMZDRVU1NrTUc4ZkMzcHh2ckZvLTNlZldnUHV1aTJBNDZrZ0g3WE9PT1Y0X0diRTFNZko2Y0RwOU1ESWlUbDhkeEhKeDBTWFpIMUxzRTZLazBkSk42dXNNUWtHMjRpTFFhNjQ?oc=5"
       }
     ]
   }
