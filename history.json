@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-09 15:01:24",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 254834,
-      "DOGECOIN": 0.339663,
-      "ETHEREUM": 7457.62,
-      "LITECOIN": 200.24,
-      "RIPPLE": 5.05
-    },
-    "indices": {
-      "^WIG20": 3221.18,
-      "^WIG30": 4107.94,
-      "^WIG": 3221.18
-    },
-    "news": [
-      {
-        "title": "\"Jeśli to zrobi, zemdleję\". Jaki plan Trumpa na Iran? Radykalna opcja w grze - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXhQejJjSEdONm1zSWItc2JGTXVIMTRhbEJsX0g3U2FGM3FrbWZkcDRha2FfUHc2MzlMdGs0ZGFZc2QycmFsQXBkYm44cjVvMHF4UnR4c0JUeG5EUDdLY1ZRZ0FxV2dReDdQMFByQkppYUYwNW1YZjRiY3l0ZHRIYVpPRTEtQm1uQmpfN3VXOE82Zkk3NjdUN0hWYkNxOW50ZUE4U2JFWmdCY0FoMWhTeEhCT0ppZw?oc=5"
-      },
-      {
-        "title": "Dwa ciała w domu w Rybniku. Wśród nich ma być prokurator - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeDVfbC0tQTcwYWFEdnBuazFSZGc0N1BHTEFVSnRxd3M3NTdERzV0N2l1ODBkdTBlSERLYkh3SVQwaDh6RzJIa0Y1alMzVzFHSXJuOHRQcDBoek9feVJFbXJ0RllZSTZGNkFuZmZRMmdrcEFUYjRZTGNFN3BpZ2NoUUNYLWV1eVlNR0J0R1VMSWp3TllnenBOb3pqWlBaRW8?oc=5"
-      },
-      {
-        "title": "Cyberatak na szpital w Szczecinie. Pracują \"na papierze\". Pilny apel - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTTBlR0FFWktybS00VGFZcmZIcndJX2RXVFVMM09uQldkNzF1Vl9uOE1Ba1JmOVZNOWFIa2t1Slp2ZC1vX1JIenZsU3ZDcW9RdGREX1UteFBscVgxR0pTRGZTNjFZbE4wbzl6VzR6emhvVXZobU1tdHJOVmYxckpWSl9hNUN6TzgyMlBaTDZHQVdLTGk2eW4tY0pqeXZMMXdOUHdxNTNXSWxuX19TWGpPaVEwZm1meWl5b3Yw?oc=5"
-      },
-      {
-        "title": "Adam Glapiński ogłasza SAFE 0 proc. Członek RPP komentuje. \"Nie ma czegoś takiego\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGZMNnoyZnp6bTRfV1A1SWFObExXODNTOEZUamZibnBveFplVHhFX09Qc2dhQlh2WG9jWkJMdWdGNm5hcjNrSWYyS0NOVUxhOTUyeXBiZ216WEl3OV9UVzNzMkxfZVlzb3ZURFg1R1EwRFhxLUFNWVVPdVVRTnBQYzlKYVhJdDYyTEJic3lwTUh5LVBJcXpOV3k2bmt2XzRQOWRVSC1hVDZ0QQ?oc=5"
-      },
-      {
-        "title": "Ceny ropy szaleją. Orban pisze do von der Leyen - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGRIY1FOWklqd3RxeVQ4UGdja1NXa2hOTUtBaE1FV2RlSWNCUF9iZm5ZczN5SVk1ZjZIUF9qS0hzQ1hGTV9mVnhSTVpFNU5UODk5TVU1UnI4ak9CTEVnTnZBQVJRR0N2aVpwN3EzQkNmYVFkd0xoYmFaZGozQ0NfaVlYZ1JtV0JlX04yVzhkWFM4OFkwbUd0REVhZ1NrTHNOS2Nv?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-09 16:52:20",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Jarosław Kaczyński odgryzł się liderowi Konfederacji. Ostre słowa - Fakt",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDU2dzRMMjlkQzRkcFFGSV8wTDktbFFLNktDWEhfNC04RVBDLVhVaHJKUHplTjFXZVc1ZlJqV1NEb1FxMkJIclQ1bjgxblFrQmR5M0FNM1loR0VWRjE5MWtRaUF5OWx5aTRBaDdfRmNzdjFITFE1YTNvenRXSjl2V0JYdUd4S3VlNVZ5cjRTNkJ5WDdxT0JVaw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 00:19:14",
+    "weather": {
+      "Warsaw": "Warsaw: +9°C",
+      "Kraków": "Krakow: +5°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.687,
+      "EUR": 4.274,
+      "GBP": 4.9465,
+      "CHF": 4.7357,
+      "JPY": 0.023264,
+      "AUD": 2.6349,
+      "CAD": 2.7165,
+      "CNY": 0.5365
+    },
+    "crypto": {
+      "BITCOIN": 258853,
+      "DOGECOIN": 0.343803,
+      "ETHEREUM": 7575.78,
+      "LITECOIN": 201.95,
+      "RIPPLE": 5.11
+    },
+    "indices": {
+      "^WIG20": 3312.71,
+      "^WIG30": 4192.88,
+      "^WIG": 3312.71
+    },
+    "news": [
+      {
+        "title": "\"Glapiński bezczelnie kłamie\". Minister energii w TOK FM: To nie czas na zabawę - Tokfm.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0Fub0cyY3piYUhEdFhTOURlQW1xRDRjTmZiRmpsT3pJb2RkbkxmWUtKb1ZacGRmcVlzNlFQcEo2dmdtdEpZR2lCVTNuZUtSVTJBNnVLWGN5U21oMGItcHFrOVNycXRGcnpYdjVlX1dFSXh2bU1xWHRoUllzSEpGcEVFZ0MtV3BYVWxRelhLb28waE1LMFNhNXNZcUliODd4cV9aSDYzaUs?oc=5"
+      },
+      {
+        "title": "Uroczysta kolacja dla szwedzkiej pary królewskiej. Marta Nawrocka zachwyca [GALERIA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDR1ZFcxODJiTVIyYjhpSlEyXzVIdVgzMm11WDJwcF96UlNnQnVnMXlEQWhqNzRrZTQyT1lzOXB1SzU0X0tZRmVKTDZDS19rb0ZaSnJNR1RzX0hFa3hpbkpWSlE5S0FGNk9LSEw3NkJmUnUzV19mQUdSOHVoQmphenNSRjNvMWE2TlozeHRRQjVrSjZjbmowQThHaVRnd05OQ1N4RndBX0V5SzlYTmRwaWNZcUJhUVdNWFZvdzlnX3dCYmVnNFptNU15a3p5a3MtRjM4?oc=5"
+      },
+      {
+        "title": "Tajemnicza śmierć aktorki. Szwagier mówi o \"bardzo trudnej sytuacji\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2ZocEZnOWhObTNfRGRtSEpNZ0RZZnFxVjBpUW9PMWZZTEhVa1FfeVJDM3JsMlVSTHdxVUxMRVVtc3JXRVpzWlVYYVNPdm0wbmpnY1U3N1gyMHRmWHl0aS1TUk85WG9BbVhDT3VLTjBSWjFrdEhTc0hGUXRsdW1PVWJFcTNlVzBtZ0N3d2VpWEFvZWZaekVZcEZXQmEtQ3UxcF81UmRFVEJHaHNU?oc=5"
+      },
+      {
+        "title": "Administracja Trumpa przeniesiona do bazy wojskowej. Zagrożeń jest mnóstwo - RMF24",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmVYN19CUnhNYWtOOWs2SzhaakFTa0l0cnViT3VuRm43Ym9ENW1mVVRoa05tZnlWczJVbkNYZUZOUFI3aDdJTzBQd0dBcUdyY2JMb25OTmpnOVhMQktrWWZPQWtYcjVIYWpTSDhMQnVRTU44d2I0YTYtcW85NXdPdTRQY1l1ckxjUVpXYlFpaUh4OHc0djRkMXhqWUdEN2VJYnA4eVZxaFNYVnZjTmdj?oc=5"
+      },
+      {
+        "title": "FBI ostrzega. Iran może zaatakować USA - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjJWNWxKbTFmRW1aTWZ3WWkwTGprNEFRcXZvQzVvc2tpeFBVWk05Sm85Zjc0X3BGeVdyOEx3NmYxSmtyZUZYb0FPRjA1OGFNMEZZNG04VjhkZXVfTXIxbFRCc0pPTUlaSGc2WEhrU0tnQ3pmeE9STlI0TzFZM1NQMW9yTEh4R1k?oc=5"
       }
     ]
   }
