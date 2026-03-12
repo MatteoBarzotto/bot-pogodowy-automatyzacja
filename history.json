@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10 14:57:23",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6523,
-      "EUR": 4.2555,
-      "GBP": 4.9154,
-      "CHF": 4.7092,
-      "JPY": 0.023166,
-      "AUD": 2.5977,
-      "CAD": 2.6892,
-      "CNY": 0.5314
-    },
-    "crypto": {
-      "BITCOIN": 256631,
-      "DOGECOIN": 0.352208,
-      "ETHEREUM": 7459.99,
-      "LITECOIN": 198.22,
-      "RIPPLE": 5.11
-    },
-    "indices": {
-      "^WIG20": 3321.23,
-      "^WIG30": 4228.02,
-      "^WIG": 3321.23
-    },
-    "news": [
-      {
-        "title": "Tusk: prezydent zawetował SAFE - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1I2bDZIZC1mQmp4Y1lMb2xESWpVSnZfcjY2UUxCdWVKb1hQb0dfWFlTSWxvdWxxdHBkaFM4MlhobG9GSks2ZzNyR3ZFV1hDUmhEQ3FibWRTQ2xmQkF6YUpfQS1SeG1tN0xvRl9idDByYjh4VV9ZcnptOUdUTER1OHNJYVJUN3hkaWs2YQ?oc=5"
-      },
-      {
-        "title": "PiS postawiło na Przemysława Czarnka. Miażdżące wyniki sondażu dla Wirtualnej Polski - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0dUc0oycEs4WWdRV2NHSVhmeFFaSTlaNzhud1JRTGRxX3hkQkdiZGMybmtyUklhQU5zTVhtU2dubnNZWnRQMkh3OU1PdVhBSEdsT2NPcko0b01tcWFlb281NGhOcWlrS0p5Q0xzNHpWQVVvMHktZzN1Mi1xOW51NW1JdDA5TUk0Q1k2R2lnV0hIVTdGTE81cHRRRHF4S2sxSFgzVTh4M2RVQkNmRWhPdG1kbjBIWTh6LVZsRkg3R2p3QW5C?oc=5"
-      },
-      {
-        "title": "Śmierć Magdaleny Majtyki. Zagadkowe słowa prokuratury - o2",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVVfdnRzY0JfQldKWDhhTWxYeU9iRmd2VlJicVJXQ0s1WVVuZG9mTFlnQWZ5eGI1Y3B1LVpRc2w5OUlyb05rOUVFSDA0NFhUSFVBbmZFVEFjc3ZMYlhNRU9NUjJlOUNLQzNzcjh2bW9Xck9qR3VsU3ZxODRtbk5XQWpSbWF6TW5aMHUzcHIwMDdzY1hYMEVaaEpnVjhGY285?oc=5"
-      },
-      {
-        "title": "Podali koszty wojny USA z Iranem. Rośnie niepokój na Kapitolu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnNReDlPbFBfTnVVUE1HaXh6NGZIcmg5NlNRTHB6SmMwUjZHNjY1X1ZXU1F1UGdRVG1SalB6TU84MVNxZ1R6RXc4VUt3TUlOVHdaczc4ZTduSWVmQ256ZEx3RFU5M1ItY3VtOFVwLVZrbFpyQjYyVjRyWk5lYlk4b0VYMGZEUGd6NTR5NkMtVXk5Z0tpQnVNOHdGSXRZd0kzd2Y4SUtSOVpFdWRhX0FOMzd3?oc=5"
-      },
-      {
-        "title": "Radosław Sikorski ostro o Polakach podróżujących na Bliski Wschód. \"Proszę o poparcie\" - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjN0RVM0X1ZjWEtKbjk3dVpRcjJ6Q3dsc1BIdU1sVDY3VExEN0lBR19DUVl3Sjd1SlJwTy15blFwRE9rUWF6dXFNZnNpR2p5QWZBa3BHZEVMT0JvRmo0OFV1TVlRSkw1MmxadDBCOEJQOEc1MGl4NFp3WENhU3JkNHBzR3BlbUNBYk5Cc3UxMUF5UE8yZzJFVElUUlFUNnRGWXBQZVA0ekhyUVoya04wNVBQMTRJRUN2RzZucm1pNzMxUFZiQ0JtNXpONkVIZXJGdVVaLQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-10 15:47:34",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Wojna na Bliskim Wschodzie. Modżtaba Chamenei grozi: Pomścimy krew męczenników [NA ŻYWO] - Gazeta.pl",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNmFSRUdoUnVyQjNUa2FZY1p0cTNyczBSY1dQNjBVeUQ0TUdVdXJuSjR5dktOX21VdDIyVkc2UU5lU3Zjd1dWc1BibVBSSUtaVUdQSlNiY2M5OGhCRXZad1dfa3JhRm4tMVE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 23:19:28",
+    "weather": {
+      "Warsaw": "Warsaw: +8°C",
+      "Kraków": "Krakow: +8°C",
+      "Gdańsk": "Gdansk: +5°C"
+    },
+    "rates": {
+      "USD": 3.6878,
+      "EUR": 4.2629,
+      "GBP": 4.9393,
+      "CHF": 4.725,
+      "JPY": 0.023229,
+      "AUD": 2.632,
+      "CAD": 2.7147,
+      "CNY": 0.5367
+    },
+    "crypto": {
+      "BITCOIN": 260230,
+      "DOGECOIN": 0.351611,
+      "ETHEREUM": 7652.73,
+      "LITECOIN": 202.04,
+      "RIPPLE": 5.1
+    },
+    "indices": {
+      "^WIG20": 3291.27,
+      "^WIG30": 4160.81,
+      "^WIG": 3291.27
+    },
+    "news": [
+      {
+        "title": "Karol Nawrocki wetuje ustawę SAFE. \"Weto wobec polskiego bezpieczeństwa\" - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWZuR0tGOEdPUHhPbzBXaGM2c2RhMk10WUdubk5zaW1hcjRLTVJqWTV0TW1YUE4zOUVqSGpaOHlpMnhvX01DMjZpTldhc2xJcjBKWUlWU3hMb2Y1NjFIUHJCVjFidmxSY2VCWnRWWFhwQWlhYWJ1Tkh6VFFmUWRrS2V3S3ZYRnZQcjhGcDFkUmpNaFdzNzUtWE1NWG05cEdXTHBRc1hrSGMyODY3TGROOWFBUFJMVGtCYnNR?oc=5"
+      },
+      {
+        "title": "Trump ogłosił zwycięstwo z Iranem. \"Gdyby wygrał wojnę, to by jej już nie było\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEdGd3QwZ3lKdWFKTEVOVEsySHppRTcycU44VzdwdlVNSlFzN2xON3l4WE9IbXpJQ2N0cUh5MXQ1NEZDWHRQV3AtWlJBU2prRlNnOV9McWpsMHhldE9nOVNSM295S3c4c3hFT0xVSEpTV3lLVXhWaFBLZ1c2b0h3Ny1OaTVBLUZGTjU2M0tnMTJTWEJoUlRsZnExVDRFeEF1T1E1bTg5dWtvNFJuaF9EWGVDYUc4V3puTEE?oc=5"
+      },
+      {
+        "title": "Policjanci z apelem ws. SAFE. Przypomnieli, kto odgrywa kluczową rolę - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbm5qcjhOUEhQLXdMQnRyeHEyU1RTd1JHbXl4TUNKV0c1TnNCRXdZakd3ZUVaUUlDSGMwa1ZCVXlJRENBTGFPYU1Cbk1LN25VOVFMeHE4ejJYM0x6WVEwd3h5bF9SRGZUSzUyRFBURjZWV3ptYlJwWEg4TTZxd3QxSjJvTVNsOEJuY2ZlSGdrWUlYWGFwUmlNd2FfeTQ1eHFJM0pyczZ5Z1cycFBsd1ExWjVhX2xqRnJmU1IyWEpCUmNzaFg5?oc=5"
+      },
+      {
+        "title": "Ma podejrzenia w sprawie śmierci Magdaleny Majtyki. \"Trzeba zweryfikować ostatnie godziny\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTE9EZWJOd0tfb0ZkWENYWFo0alNudlpzcE1lWUZKRUJwTFV6ZHFWNFZTNjhnZkp6b1ZxSHN6ZDItYjRTU3FrQjR1NUwyYks4M0lkLWllUk1SN2hOYnpKODlid3lpYmxsMHphSVA4RkNGRE5ONDg4ZjVRbFZWNzJYNDJYRmU2VFJnZDNucnNVQlE4ZjRCS2VxRWlzLW10T0llakd1cGw2YWNiNWtUNEdHcV9FSEs5TkFjcE1La0tSdFNUYmxmdjY3WVBvV3MyVTVo?oc=5"
+      },
+      {
+        "title": "Sebastian M. zostaje w areszcie. Po decyzji sądu, miał oczy pełne łez - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmNRNGJod2RmUXRURldJV0w3aG1rak1UOFRKaXdOZm9kbmc1ZzRodkplTEtMWHdsaWR6dmpYa3VBXzRDbXVjYVBYUERySkYwWjEyNHpyYlpDZ3d5bFZQRFQyYVRvTzJDQVdYYWw3Ry05NTI0LUE2RG9pUVpUWWFzLTZaeTNKVW9tamc0M1dNV3FsWG5ycF8tUDIwQ182c2pWOVRlZXcyZnVNMExMdWg1ekluRVFsZks5cWg4TmxtZ0o?oc=5"
       }
     ]
   }
