@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10 02:23:34",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 252064,
-      "DOGECOIN": 0.332833,
-      "ETHEREUM": 7357.72,
-      "LITECOIN": 197.8,
-      "RIPPLE": 5.0
-    },
-    "indices": {
-      "^WIG20": 3256.8,
-      "^WIG30": 4152.29,
-      "^WIG": 3256.8
-    },
-    "news": [
-      {
-        "title": "Trump o wojnie w Iranie. \"Praktycznie zakończona\" - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDU0M2VqRXM0VHJkMzhWdHkzc0J5eXcyUExQOUpIWjdaWlR6TU0tUUN4VEduVFhBcjdnekJNWWhvZG5wNENCU2h3Mzc5blVybzlOUXZsWkQ2a3hYalFicV9XM2JxNld1WnNBbGw0OXBkQUowS1FkMUFwakpaOTZQd29nbjM5ZWIxYmxkQ0RjMV9PeE0?oc=5"
-      },
-      {
-        "title": "Mateusz Morawiecki dostał pytanie o bycie w rządzie Czarnka. Jasna odpowiedź - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkhFV2RBTW14dzBOdmRhTE5BYzhUR08yODBoSURTUWp3ZVpwZEJMZC1SV0JkMTR1clRNa2RUTzlLWUt2YTJ3NnBxREtYV3QxZjJwbDZXVmFadXY4RkRYZjBSY1VfejlLOE1IN1ZSaVB0aU5waU1sMTdXNW9XRmJ2b1FJR2MxRUU2QXlubHhfanVXOXNUSE9MRlNhMlFDVmVzOUFkd1JpMnIzdUk1eVcw?oc=5"
-      },
-      {
-        "title": "Nowe informacje w sprawie śmierci Magdaleny Majtyki. Są wyniki sekcji - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmZmWGs2Ri1TaHY5b2FPa1BsVHVNTUZleFRha1lNNU5KWGRiX3ItOGloY2c1QzhHU29GTXlnU2Y1ckJZZng0X082ZFYyYW8zTHJVWk9mSU5XOUdNaFRZLWtHbmhjYVZXZXJjVUtfU2NRRkdVelFVbGFwdHpYQXpUYy1GM25fUS1sZnZ3RkFabDdESHBKeTdoRF9DLUhRTlpDRFBVeHl5LWo4RFNvY3dsX21n?oc=5"
-      },
-      {
-        "title": "Iran wydał ostrzeżenie dla tankowców. \"Muszą zachować szczególną ostrożność\" - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVkI3X0xQR3dlZExOdHZrM0RvZ2NXZ1BKc1IySGVEVjBmZEE0YzRiLTVPMVh6MzkxS1FwYnpXOG9RRGVNdUhUSzFwVHJZSlVPd3F0bDUwOXdqdk5leGlOSkFveGE0bmxJNU9Ic3hjUDBoaGllRUJqVkh3YmhBT3E3YnZibmZTb1dURDhNNGFMWWRxUUt1R3lqYlZWWV9ScUJkSmEwektmQ05zZEQweVROM1pFTDNvUWllZDI3QU1hWmdnNXE1UlZV?oc=5"
-      },
-      {
-        "title": "Putin i Kim gratulują nowemu przywódcy Iranu. \"W obliczu ciężkich prób\" - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFl0a2d4b2pNT1ByY1cxZm43ZUJFdTM0cGpLaHFZUlFBTnZSY1ZBNW95ODd6eWkxNlhqM1BaWEhqLWE4U2xpcVpmR2dGbHRjWS1oU3NUUVZjVTNEelpZRmE4S190T1F1RHVUMzNlZWFlbmVNZkU2SndyNXU0VTFVNGJNVEhGSFpBUWg3QXVGMHBqVjA2ZTZiWmlqc21oTU9CZTZKNUZkejdrSzBDZERwTjV5R2pONUk?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-10 05:03:06",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Zerwane kable na Bałtyku \"to nie wina Rosji\". Nowe ustalenia fińskiego kontrwywiadu - Wydarzenia w INTERIA.PL",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0E5NzBTZV9KaEhqUUstVUFseGVDRVBlbnp2LU1kSE1sV3czVVNKX1RVSm1tLTJlMHBYWjQzYmJmZ1F3V3RzcE11QWZfUWNLR0hTY3cxYUw1MXlLc0xxYUQ2anZHMlJValVodWdCNHZnaFlBN1hsdC1WNHo5b29JLUZoc2NwWXBlcUZucUlmaUc5bnJBdktETHhwYUt6R29VeXJfRF9IbHRPSldtMjEwaC1lbVptc3p4?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 13:43:13",
+    "weather": {
+      "Warsaw": "Warsaw: +15°C",
+      "Kraków": "Krakow: +17°C",
+      "Gdańsk": "Gdansk: +9°C"
+    },
+    "rates": {
+      "USD": 3.6878,
+      "EUR": 4.2629,
+      "GBP": 4.9393,
+      "CHF": 4.725,
+      "JPY": 0.023229,
+      "AUD": 2.632,
+      "CAD": 2.7147,
+      "CNY": 0.5367
+    },
+    "crypto": {
+      "BITCOIN": 260037,
+      "DOGECOIN": 0.352889,
+      "ETHEREUM": 7625.75,
+      "LITECOIN": 201.32,
+      "RIPPLE": 5.13
+    },
+    "indices": {
+      "^WIG20": 3281.61,
+      "^WIG30": 4154.45,
+      "^WIG": 3281.61
+    },
+    "news": [
+      {
+        "title": "Wicepremier uderza w Adama Glapińskiego. \"To mały krętacz\" - Onet",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDl5OWotSWE5aVAybmZnM3NUbVEwRGwtV2NWakVDU1FYMVBiWTFrN1NsZFJZWTFMdmI2Yl9YV2c1V2lYcEVWMTdoWGNLWThIcnZob2xsdndTdTRkRG1lRVJteXlmUGtiWEx1cVNOVUsyVkpBekRFb2w4OXY3TVFjNk9rYk01czJaUFBXbDNNd2ZualhCbTVKSWcwT3c3d2RwZWlqcUFBaVNxREJxX2tWR3JJY3VKc08ta2R5QVRXWXBsbF8zVXRmcw?oc=5"
+      },
+      {
+        "title": "Projekt \"Czarnek na premiera\" wchodzi w kolejny etap. \"Zasada wahadła i role dla Morawieckiego i Szydło\" - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHJfRDlvVEhsb1l6UmJsdW05ck1aU0ZrRHhSZjRneGZ2cGs0a0lnQzhuXzVLankwTHVrWGx6em1oSE5jMXhtYlVFTVZYRVp5Q0MxOVlfZ2JDbEpzRl9haVBoNEYzRlkxUkRkOWg1aFNHakZTejdMbE5hZXI5YVkzT04zWDc?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka skomentowała spotkanie z królową Szwecji. Pokazała zakulisowe zdjęcia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Rtb3ZkdDV6OUxSN0x0V0dzam5pSlROYnJSOEMxZkRZWmtwWG5qN1JTWGNtTFdFZGlRa0xFYjE5X1VUbGdheThvZGNhU3I4YmtJY09zQjNNdzM5cFRPTkswTWlLT3Bvd1plNjhGMGtTaUxET1FmVER4LWVnN0VuLW1JYVd0X1FlZXBidWM1OUlpY19fbkFNSG1ienU3RWRnSUVlQ0FiamNyTEFPMXZWWGpldG1OeEFnNVdNXzZGZE52VTliLTdKdGRxcC1sUUNIZjV0ejJB?oc=5"
+      },
+      {
+        "title": "USA potrzebują pieniędzy. Do tej pory wojna w Iranie pochłonęła miliardy - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFFEa3RtQ0ctZkN1YmtiREdha1dXX1llcTQwVFlOaFRNcjI2MGZ0ekZmRXBoY1ZubFJWSDFReGl0UFBMMTFLOHZtWjhBbU52RzFaM2FWUjVFM1l0QUhJZG44dTlraVhzWklaeVp6LWlKd2JHNmx6aXJ6bmF5OVpEeDB4a0RmU014VlVaZjRRZy1VM2U3RTdXbE5DUEY1VkZ5emtUVFBTLVlVSU9obkFFNU1LcDhjMTNRMVE?oc=5"
+      },
+      {
+        "title": "Trzaskowski grozi zabraniem koncesji. Sklep omija przepisy - WP Finanse",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVZVUnlCQnhfWnZ0T3NPTWJlckRZRVF3UWZwTC0tbzJxSmxCd0ZZVXREaE1KeW1DeWlPc04xTWJUNjNPUlJEZExzdWdtaGhudzJjZzhRYXJnZ3FkZEZIZG9QSEd1eGxZMXFuOFpxdVJBX0lyS1BuNzRMcVVRMjZUTllkRjFsbksxdjEwR2dyZ0UwNU9zbWJKckJMS2hkUQ?oc=5"
       }
     ]
   }
