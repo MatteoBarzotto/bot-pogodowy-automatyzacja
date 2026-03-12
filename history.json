@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-09 18:41:55",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 252855,
-      "DOGECOIN": 0.337709,
-      "ETHEREUM": 7438.44,
-      "LITECOIN": 199.65,
-      "RIPPLE": 5.04
-    },
-    "indices": {
-      "^WIG20": 3256.8,
-      "^WIG30": 4152.29,
-      "^WIG": 3256.8
-    },
-    "news": [
-      {
-        "title": "PiS składa do TK wniosek. Chodzi o wybór sędziów do Trybunału - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEVwNjB2WEx5RUl5VzdNUHlwcFFQa1NVX0g5MlhRRFdHck9UTEdYcEpKUDVIdElJbm5oS2psbDlwZmFvNWdFaGk4T09ieHdjYlRoQTJ4V296Tll2OHA4Vy1FMndpNElRSG5acmZpeW0zcTRjcGZaT1pxRmFscVNIZmxLSDFXMFJIdUpuUFhVXzRVSnlTbVVJV3JIMnl2M0wtandVYlN3?oc=5"
-      },
-      {
-        "title": "Ceny ropy szaleją. Orban pisze do von der Leyen - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGRIY1FOWklqd3RxeVQ4UGdja1NXa2hOTUtBaE1FV2RlSWNCUF9iZm5ZczN5SVk1ZjZIUF9qS0hzQ1hGTV9mVnhSTVpFNU5UODk5TVU1UnI4ak9CTEVnTnZBQVJRR0N2aVpwN3EzQkNmYVFkd0xoYmFaZGozQ0NfaVlYZ1JtV0JlX04yVzhkWFM4OFkwbUd0REVhZ1NrTHNOS2Nv?oc=5"
-      },
-      {
-        "title": "Ukraina pomoże USA na Bliskim Wschodzie. Wołodymyr Zełenski potwierdza - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVctTUNvZE1Yc3dhN1hQeTBKWGtWdTVaZmtTNGpDdmZNMWhxRHBhRDBDRDQ1RGExR3R3a1ZDdXFkb0NJcGNzWHRnc3czZ1lHcEd2SFpXUDJWQkxXdURyNDhuWnZlSWJJTlQwOWR0MFFDZmJvbl9hc2p0Qk1nU0JSQWNvTGRoUEY4NEZ0Y3BSN29YYnRMMVBIODh1VFpXNGEzWXBmdTFJUXAyUzZnMEdWTDdpWTMyOGhROTNzWA?oc=5"
-      },
-      {
-        "title": "Tanio, zabójczo, masowo. Teheran pokazał, że potrafi szachować potężniejsze armie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ19sb2ZLcE5lOWdycmN0NGp3Z2VFM2twLW1OVjZpM1F4eXZnUTdmbHJoZUdmYzdfMnlCbVNNeE5EUDhfb3M2SExJUzZLTDR0bDQ1ZDQzaV9LZ1lmc2FiUnBMRkthT0VZZTJfazlpNzJvREFXYl81Q2Y3VlFvUFhJMVVYQUlITXdPUVZaeXlYQVdNUDJVeXRnT3FWaThpS0xNbFRkY0xvOUtubXQ5SmFaTFE0LUI1bFNlTTNwag?oc=5"
-      },
-      {
-        "title": "Wizyta premiera Holandii w Polsce. Jednym z tematów jest obronność - Biznes Interia",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlpQQUROd05VT3ZFOUdoMFJvR2VXd2U2MVFDMEt2ekZ0enZObE5RbVBlcExEVWNzNVRWZnV0TzhjcGZaUWtxYWFrMU5XcnFDTENqTEJDejg0LUpsX0NCR3ctOFhkSXdTODV3aG9wSlJzTl9fMF9vSFZ0Y3JfdG4tSmxGdnN2eGxsZW9LRFNZVFppM2pXbW5nc3djNXhIckRzcHdSNEg1dTdMWjVISlFfR2R2UkNiZw?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-09 19:42:40",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Donald Trump nie wytrzymał. Tak nazwał prezydenta Izraela. \"Słaby i żałosny\" - Wiadomości Onet",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGxvMnVfNzhVN3c1LUQ0QTE4Mmstd09qcDd5aTFYS0NBdEZWaDNnTEVoa2tnRjRIRlhfNjRpMW1GbjkzaDhuRGlDc2dONEJFdS13dTZFQXViTnNFTm9CY1NFVWRGRFhRMTF1Mkp5NndWR1dNYjFfX0hLTGM1QTNBSWxDTnZhS292X2tzdUlvX0czOEFtbmFZb2hraE1abHdaZ0ZNZnBwcVY2aEpBX2ItcXZaZw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 06:45:32",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +1°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.687,
+      "EUR": 4.274,
+      "GBP": 4.9465,
+      "CHF": 4.7357,
+      "JPY": 0.023264,
+      "AUD": 2.6349,
+      "CAD": 2.7165,
+      "CNY": 0.5365
+    },
+    "crypto": {
+      "BITCOIN": 256495,
+      "DOGECOIN": 0.339901,
+      "ETHEREUM": 7478.09,
+      "LITECOIN": 199.56,
+      "RIPPLE": 5.05
+    },
+    "indices": {
+      "^WIG20": 3312.71,
+      "^WIG30": 4192.88,
+      "^WIG": 3312.71
+    },
+    "news": [
+      {
+        "title": "\"Glapiński bezczelnie kłamie\". Minister energii w TOK FM: To nie czas na zabawę - Tokfm.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0Fub0cyY3piYUhEdFhTOURlQW1xRDRjTmZiRmpsT3pJb2RkbkxmWUtKb1ZacGRmcVlzNlFQcEo2dmdtdEpZR2lCVTNuZUtSVTJBNnVLWGN5U21oMGItcHFrOVNycXRGcnpYdjVlX1dFSXh2bU1xWHRoUllzSEpGcEVFZ0MtV3BYVWxRelhLb28waE1LMFNhNXNZcUliODd4cV9aSDYzaUs?oc=5"
+      },
+      {
+        "title": "Donald Trump ogłasza sukces USA na Bliskim Wschodzie. Przedstawia dane - Onet",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXhkcm1hR2ppc01TdGd1RXlNYkN6eWtvTHo3eWR2dkY5VndFeWo1V0VTUjZPSVBnQU4weGRZQTlYcENFVjZ0b0RNYnFzT2trdXozQ3d6elU1U1lmUDFFRVYwM1FfSnVjSWVFbmVyWGszdHJ2Y2tKRUtYN3B3cnJPTmxqdmJUaFVUclB3dDk3QkJxSDQ1VktzWmJTZ0Rwak9UTS1RLW1HcDZFdldmbHdfTGJiZlM?oc=5"
+      },
+      {
+        "title": "Czy fotowoltaika się opłaca? Ekspert mówi o ukrytych kosztach paneli - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObkdQMWI5RGpacVJKY05Xb29FaS1XcWlYNGtPUHpRdjMxZEdNVjhuM1FzUTRzZDMtWkZSbjVTU2RRdWoyMTJKR3piMDNfckJfVjZYSl9nRjItMHJkTzFkLXFsM3RXd2xFVVFDcG9wRDUtaTloZEUwN2Y2aG1GTVVJd25QWmZabXl2Zm8weWh3WGZyUUs0YkYtamtHQ3JGWEhYcHdrYURQMUZaTmEwOWIyS0dHaE5Oams?oc=5"
+      },
+      {
+        "title": "Uroczysta kolacja dla szwedzkiej pary królewskiej. Marta Nawrocka zachwyca [GALERIA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDR1ZFcxODJiTVIyYjhpSlEyXzVIdVgzMm11WDJwcF96UlNnQnVnMXlEQWhqNzRrZTQyT1lzOXB1SzU0X0tZRmVKTDZDS19rb0ZaSnJNR1RzX0hFa3hpbkpWSlE5S0FGNk9LSEw3NkJmUnUzV19mQUdSOHVoQmphenNSRjNvMWE2TlozeHRRQjVrSjZjbmowQThHaVRnd05OQ1N4RndBX0V5SzlYTmRwaWNZcUJhUVdNWFZvdzlnX3dCYmVnNFptNU15a3p5a3MtRjM4?oc=5"
+      },
+      {
+        "title": "Tajemnicza śmierć aktorki. Szwagier mówi o \"bardzo trudnej sytuacji\" - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2ZocEZnOWhObTNfRGRtSEpNZ0RZZnFxVjBpUW9PMWZZTEhVa1FfeVJDM3JsMlVSTHdxVUxMRVVtc3JXRVpzWlVYYVNPdm0wbmpnY1U3N1gyMHRmWHl0aS1TUk85WG9BbVhDT3VLTjBSWjFrdEhTc0hGUXRsdW1PVWJFcTNlVzBtZ0N3d2VpWEFvZWZaekVZcEZXQmEtQ3UxcF81UmRFVEJHaHNU?oc=5"
       }
     ]
   }
