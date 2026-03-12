@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10 10:37:28",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 259681,
-      "DOGECOIN": 0.346403,
-      "ETHEREUM": 7548.86,
-      "LITECOIN": 198.89,
-      "RIPPLE": 5.17
-    },
-    "indices": {
-      "^WIG20": 3336.55,
-      "^WIG30": 4262.43,
-      "^WIG": 3336.55
-    },
-    "news": [
-      {
-        "title": "Czarnek premierem w koalicyjnym rządzie? Konfederacja odpowiada - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVZUUzlIZUxSRUZPWGtJREZ3blhmSHZ4aXdGTy1rWGtrYlh6NGRjNENLWlRuN0lYNHI5SHFBMjhqbmpYcVVJQVJaOWp0QVVKejk5SDZzZ3ZRRGZwQzZGd2FVNlEzdjJNSV9UOFRBX05TWmVRRGxCUkV3RHVzRndseEw5MHRKY0UzdTBfblBuRW5LWUxzalpFUXI5Z2VQdHJTTVZOLXE5eUU?oc=5"
-      },
-      {
-        "title": "Nowy wpis Radosława Sikorskiego wywołał burzę. Minister komentuje wyjazdy Polaków na Bliski Wschód - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1pzSVhHTW9lWkhtcWJQYUtBZ2lESFY4QWVhZzFZUWtnbHpjOUZncS1Vd3ktZFROYk5rU3ZMaUwtd0RndkJIX202QzZPYWo3ZzVlS1U4eEVBMWFUMjUyXzlaTXhfS25QaGp4dzhTN0RaMjJZVmlxd2FNaFRMYnRzSVVyQjdwTXBtRzJsbWo3SEVCNi1GZkRlaVJHMDBGbk43VGJZTW02SlpoSUMzckFRbGtnN01ZeWg2?oc=5"
-      },
-      {
-        "title": "PiS mąci w głowach w sprawie SAFE. Kłamstwo, niestety, miewa długie nogi - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjgzUlNfZVVQMFdad0c4Rk01M1VaSVBwQWVfVElmcFY2TlcxWUVKOXR1NzluWmhyU25QNmxQcGpOczZmeEE3NUxBaGNkOW4wdjRSLUVmLVNSWHMxVm50Y2JRUlhrOGhlaXNYVGxIekRXbURiQkxxaE9ndHRyQ0dNRVlQa1R3cUNhdFMxXzcwQ19KbGJaVkdpWV95bGZVU3NV?oc=5"
-      },
-      {
-        "title": "Groźny wypadek na przejeździe kolejowym. Samochód wjechał pod pociąg - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjdMeFNOeHRrTjRycDNTRnF6eVpvUk15VDgzaE81M1h3S2ZTZ0NQRlNTMGxVakZwQTBiOWZROUtERGVlazUzUTJjdzgxdVY1S1BLMnR1ajNUQzA3azVhajdWRU9PUFk4VE1tSVJWUzV5NmZxbWpvRFdQN2wzWVNBV01teVRpTThUYjAxYUNWemtTczZPVFVMbEtRcUhUZ2REalJ6WGNzQkQxWElZZkREbGZRTDdiYVphT0VyYTdVZjdvQkR6bkZKdXpR?oc=5"
-      },
-      {
-        "title": "USA zbombardowały irańską szkołę. Trump: Mogę z tym żyć - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWg0V3pDdHEtaThmMXhIME1oSmZBdThGYzJRUnFraW5iV19tdG1qWkJ4TG9LWXA2UjNpbmxGNHZmc2NDX25DUDJCN28zdENOdVpuT3U3Wm1MMFFWbW1CX2U5RGZCdnBiUS1hWFMzeVBpU1NkbGlad1BBMDVRa244eUtubTIyb25jakFQLTBnTWgySU1SRWhVSWYxSHdtQXRfNmJn?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-10 11:33:01",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Trump i jego asy. Głupia wojna, którą już przegrali wszyscy [WIDZĘ TO TAK] - OKO.press",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aN1NhVWVRYWVocGxVWmJvd1pKbWpRMXpvaGVtYzltQmRqQzJ2OHNrN3BIMGxtVVRfYzZjOE9JVEZZdnNWSFRzWjFKdk9TR0ZITnZjZWdXV2hObTZxUUhUbUVJUkNLSWZSTXFIdW0yTkViZDlsaWc?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 19:43:25",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +11°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6878,
+      "EUR": 4.2629,
+      "GBP": 4.9393,
+      "CHF": 4.725,
+      "JPY": 0.023229,
+      "AUD": 2.632,
+      "CAD": 2.7147,
+      "CNY": 0.5367
+    },
+    "crypto": {
+      "BITCOIN": 259717,
+      "DOGECOIN": 0.349466,
+      "ETHEREUM": 7626.64,
+      "LITECOIN": 201.7,
+      "RIPPLE": 5.11
+    },
+    "indices": {
+      "^WIG20": 3291.27,
+      "^WIG30": 4160.81,
+      "^WIG": 3291.27
+    },
+    "news": [
+      {
+        "title": "Prezydent Karol Nawrocki wygłosi orędzie. Jest termin - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkNHMjhTeS1GanRKU3d0TzFMM25pcVJTaXJKa1JLRFI0UE5GMWJyTkhOS1dZVUx5allsbzc2VnAwZUdZX2ZyVXNiRkRLUU5jSExEMU53Z2ZWZXdqTURPRDBaVWE3R2lhNlhrZXZTRVBoSjdBSEQ2SlBmV3EwUTlkNXNNaHJTdHBCZXlsODVnTXdCZVY1eDU4?oc=5"
+      },
+      {
+        "title": "Wojna na Bliskim Wschodzie. Modżtaba Chamenei grozi: Pomścimy krew męczenników [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNmFSRUdoUnVyQjNUa2FZY1p0cTNyczBSY1dQNjBVeUQ0TUdVdXJuSjR5dktOX21VdDIyVkc2UU5lU3Zjd1dWc1BibVBSSUtaVUdQSlNiY2M5OGhCRXZad1dfa3JhRm4tMVE?oc=5"
+      },
+      {
+        "title": "Na czym polega paradoks Czarnka? Konfederacja już zaciera ręce. \"Będzie tym grać\" - Wydarzenia w INTERIA.PL",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzJ3UnRpX0xaQ05QVWFIbm9PLUxfOHVJc2FWTVBuTUNPb1o1aDVwODE5VlZRc0FkNVgydFZ2U2lYRXJ6ZEpwVEJBS1U5VE9Hd3RnNHNTY3k4MElZZTJYZnM5dUlnSHdhWG9kbzRZMlFSS051blVJX01FN1lFYmU5aVh1SzJvUmRpSjZaUU1SYTBiV2haaEU2VUhNa0twME90YzBkNS1Faw?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka skomentowała spotkanie z królową Szwecji. Pokazała zakulisowe zdjęcia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Rtb3ZkdDV6OUxSN0x0V0dzam5pSlROYnJSOEMxZkRZWmtwWG5qN1JTWGNtTFdFZGlRa0xFYjE5X1VUbGdheThvZGNhU3I4YmtJY09zQjNNdzM5cFRPTkswTWlLT3Bvd1plNjhGMGtTaUxET1FmVER4LWVnN0VuLW1JYVd0X1FlZXBidWM1OUlpY19fbkFNSG1ienU3RWRnSUVlQ0FiamNyTEFPMXZWWGpldG1OeEFnNVdNXzZGZE52VTliLTdKdGRxcC1sUUNIZjV0ejJB?oc=5"
+      },
+      {
+        "title": "Kreml szuka nowych sposobów walki. Obserwuje wojnę w Iranie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkx1Y1BiTUl6ekdxQ1VjVmlhM2dlRkZSZVdpeENEV3B1Q25GVnl3QS1OQ1NMdUhSX3FtWDdKTF85czV1X3V1VkVLNm02Y1lQZE5OSjJGbklhc28wN195di1xZjZYbE85S1Zic0w0aEhHdjdLTm02SmxPblRmbXpfVXktQ2hMOXotbElJZGRuNnB5UXlveno2ZlQ4RmxuWU1xNl9YZGVVZDRMdUVuUGcwNw?oc=5"
       }
     ]
   }
