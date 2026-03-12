@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10 12:27:42",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.6523,
-      "EUR": 4.2555,
-      "GBP": 4.9154,
-      "CHF": 4.7092,
-      "JPY": 0.023166,
-      "AUD": 2.5977,
-      "CAD": 2.6892,
-      "CNY": 0.5314
-    },
-    "crypto": {
-      "BITCOIN": 258474,
-      "DOGECOIN": 0.347687,
-      "ETHEREUM": 7548.68,
-      "LITECOIN": 198.31,
-      "RIPPLE": 5.11
-    },
-    "indices": {
-      "^WIG20": 3332.53,
-      "^WIG30": 4245.94,
-      "^WIG": 3332.53
-    },
-    "news": [
-      {
-        "title": "PiS mąci w głowach w sprawie SAFE. Kłamstwo, niestety, miewa długie nogi - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjgzUlNfZVVQMFdad0c4Rk01M1VaSVBwQWVfVElmcFY2TlcxWUVKOXR1NzluWmhyU25QNmxQcGpOczZmeEE3NUxBaGNkOW4wdjRSLUVmLVNSWHMxVm50Y2JRUlhrOGhlaXNYVGxIekRXbURiQkxxaE9ndHRyQ0dNRVlQa1R3cUNhdFMxXzcwQ19KbGJaVkdpWV95bGZVU3NV?oc=5"
-      },
-      {
-        "title": "Morawiecki dostał pytanie o bycie w rządzie Czarnka. Odpowiedział jednym słowem - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkhFV2RBTW14dzBOdmRhTE5BYzhUR08yODBoSURTUWp3ZVpwZEJMZC1SV0JkMTR1clRNa2RUTzlLWUt2YTJ3NnBxREtYV3QxZjJwbDZXVmFadXY4RkRYZjBSY1VfejlLOE1IN1ZSaVB0aU5waU1sMTdXNW9XRmJ2b1FJR2MxRUU2QXlubHhfanVXOXNUSE9MRlNhMlFDVmVzOUFkd1JpMnIzdUk1eVcw?oc=5"
-      },
-      {
-        "title": "Auto z pięcioma osobami wjechało pod pociąg. W akcji śmigłowce LPR - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0JTRVVnV2VCQ1JSaldMZzA4VlJ1SFBtWm1yUER1cDJNY19Sci13bmFWVk5nOEpBNXF3RTIwRm94TGdNbFk1YVA1Sl9vZmlXNjFWUjA3ZzNEalhaTFlZSDc5THEtdGJHQ1dwSGV0VDhKeEpVNzRCTnlweFVjaEF1TlRUQmtndnBza0pMM3otdm5aNlVnVDFQR2VPd1pQTjQwUnFMN3VOWHUyU1BvVVpYaXVmbw?oc=5"
-      },
-      {
-        "title": "Media: spór na linii USA-Izrael. Obawy po nalotach na irańskie magazyny paliw - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0lFazNldmpQdlhndlhMc2M5dzU5aDZueV96amo4N3VKUU1wTXgyZnlQRlFFMlFiVnVzVjlLanFoZDAtTTM3cmtsWmFVbDh5T29QeWJvbXNBS01kMHRQaERCV2d4czlETnNtZHUxTXlYai0xWUcyMHEzU0RCMWpIOFdQV3NRR1M2TWtVY1ZUWldZVHRBT2VfQ1BwOEZNSjlySU1xQ3FXazdJN0h4M3l6QUpn?oc=5"
-      },
-      {
-        "title": "\"Będę z tym żyć\". Trump o ataku na szkołę, w którym zginęły dzieci - Fakt",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjRZM2xHeklNVFo3ZHRGZHBIZC03MUE4TldVVndQMFpuNW9DcXZ6aTV0Nm5DZ3RubzRFNzJ2T25zRG9ibW9xX0JvYUh4MEZxYVk0ZGswMDJiallUSVZ5UmE5Sk5lTzN1YlJhbkJObTFTWjY4Qm5TNHpNeVUyeG41QXk1UmVocWFNT0ZRbmRFUVJmZmpabXhvVFhNdFBJZzZFSHVfWFVXNFYzX3B2NVE?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-10 13:44:21",
     "weather": {
       "Warsaw": "brak danych",
@@ -2591,6 +2539,58 @@
       {
         "title": "Marta Nawrocka skomentowała spotkanie z królową Szwecji. Pokazała zakulisowe zdjęcia - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Rtb3ZkdDV6OUxSN0x0V0dzam5pSlROYnJSOEMxZkRZWmtwWG5qN1JTWGNtTFdFZGlRa0xFYjE5X1VUbGdheThvZGNhU3I4YmtJY09zQjNNdzM5cFRPTkswTWlLT3Bvd1plNjhGMGtTaUxET1FmVER4LWVnN0VuLW1JYVd0X1FlZXBidWM1OUlpY19fbkFNSG1ienU3RWRnSUVlQ0FiamNyTEFPMXZWWGpldG1OeEFnNVdNXzZGZE52VTliLTdKdGRxcC1sUUNIZjV0ejJB?oc=5"
+      },
+      {
+        "title": "\"Podstawowy problem\" kandydata PiS na premiera. Widać to w sondażach - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE9YRE1lTjNucjFYYUtLZU9lYzI0MlZfdGkyc21oaTgxRGpmOXdWa2pLQm9IWndFR1NJNGY1QlNGWHhXTXo5RjhaOUFJZkczelBUY0p2WDFGSGFneHp3YW5LQy1tS3g1SmlSVzFhb2ExUnNGcG5ZMkFaem9DVHhpcUxqbXU3RVBsZ2ZBTWs0Y1Q1NHhNekpLV2dR?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 21:27:42",
+    "weather": {
+      "Warsaw": "Warsaw: +10°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6878,
+      "EUR": 4.2629,
+      "GBP": 4.9393,
+      "CHF": 4.725,
+      "JPY": 0.023229,
+      "AUD": 2.632,
+      "CAD": 2.7147,
+      "CNY": 0.5367
+    },
+    "crypto": {
+      "BITCOIN": 261203,
+      "DOGECOIN": 0.3502,
+      "ETHEREUM": 7679.52,
+      "LITECOIN": 200.85,
+      "RIPPLE": 5.1
+    },
+    "indices": {
+      "^WIG20": 3291.27,
+      "^WIG30": 4160.81,
+      "^WIG": 3291.27
+    },
+    "news": [
+      {
+        "title": "Unijna pożyczka SAFE. Karol Nawrocki zdecydował - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3Q4M0RSS2ZMZlFKdWYtM1FXeDc0c1RFNWRpWFJlalFCUVlHYUh4NUtWR3lKcjNPcnZUWUp6ZHNmWHVUMl9Ea1FEODV0UkZuUEQ5b2RHVVVvcHhXVDloak1UeXh5X0FCZXU5MVFPaW1zemJ5cEkyeG1wT25FdkIySUZINmU0MFNYVVpkeDljbDhKanM?oc=5"
+      },
+      {
+        "title": "Wojna na Bliskim Wschodzie. Modżtaba Chamenei grozi: Pomścimy krew męczenników [NA ŻYWO] - Gazeta",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNmFSRUdoUnVyQjNUa2FZY1p0cTNyczBSY1dQNjBVeUQ0TUdVdXJuSjR5dktOX21VdDIyVkc2UU5lU3Zjd1dWc1BibVBSSUtaVUdQSlNiY2M5OGhCRXZad1dfa3JhRm4tMVE?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka skomentowała spotkanie z królową Szwecji. Pokazała zakulisowe zdjęcia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Rtb3ZkdDV6OUxSN0x0V0dzam5pSlROYnJSOEMxZkRZWmtwWG5qN1JTWGNtTFdFZGlRa0xFYjE5X1VUbGdheThvZGNhU3I4YmtJY09zQjNNdzM5cFRPTkswTWlLT3Bvd1plNjhGMGtTaUxET1FmVER4LWVnN0VuLW1JYVd0X1FlZXBidWM1OUlpY19fbkFNSG1ienU3RWRnSUVlQ0FiamNyTEFPMXZWWGpldG1OeEFnNVdNXzZGZE52VTliLTdKdGRxcC1sUUNIZjV0ejJB?oc=5"
+      },
+      {
+        "title": "\"Nigdy nie uciekłem\". Sebastian M. zabrał głos ws. tragicznego wypadku na A1 - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTVLNnYzckFnamhYWmxNdGd4eVVBbHBKLW9odU9oU1NoSzFRZGFSRmthSmoteVpSX2xEVjByakJILVNrMV9lZFRrTGFDMWtLd3hWMzlTdmswSW9JakxTTzBxMHRJajl4ZEpfT05mcml4dHlWYzE3aDBReXpXSHhQQjFSZXAtZ0FkUThuNlJTcnA0eXBpYnlLdzFKNlBhSU9tTkhua21IS1E4djVX?oc=5"
       },
       {
         "title": "\"Podstawowy problem\" kandydata PiS na premiera. Widać to w sondażach - Fakt",
