@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-09 23:21:55",
-    "weather": {
-      "Warsaw": "Warsaw: +7°C",
-      "Kraków": "Krakow: +5°C",
-      "Gdańsk": "Gdansk: +6°C"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 251361,
-      "DOGECOIN": 0.333125,
-      "ETHEREUM": 7390.52,
-      "LITECOIN": 197.12,
-      "RIPPLE": 5.01
-    },
-    "indices": {
-      "^WIG20": 3256.8,
-      "^WIG30": 4152.29,
-      "^WIG": 3256.8
-    },
-    "news": [
-      {
-        "title": "Przewrót w TK. Mamy uchwałę Sejmu w tej sprawie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONjZtclZBeC12TkhQaWVMN1Rfd1ZNTGN3a3VySXNmMW14YnBsQ0hfekJ0RmlDN2RyWUk5RXl6eWxJajJhbXJEUS03ekV2Q2NHYTZaTXJqbllfM3FUdHlzcjlCaUxONXFjSmIxcXRWTkF6QXV4dm1nV0ZXc19WVDNHM0toQzFxOGhPdVhKRWFpcExrWlE?oc=5"
-      },
-      {
-        "title": "USA ostro reagują na ruch Grzegorza Brauna. Ekspert: PiS będzie w patowej sytuacji - Onet",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcm1NOG9zOTZ6RVotN1cwS1RwLVphQ0tMd3B3OVB0QjBfNXBoVkRNTV9MQmRjRlR0ckZLb0VRX3dJNFlnZ3E3UnNtbkxncFRJUTFXamxHRUVZVWZqR01UWWVINGQ5VFdIYzh5M3BMUmNqMjJzb1FlcWdERnhtOXZycHJPU1RWeDZQMl9URC1rMUVucHA0OGhybjI5N1N0dlMyT2tWOFRaTk5iZEdfX0ZJa1ZDZ2RFczEySVhWZVktSl8zcWF6UG1wc0tIWTNubFh3SmlQWXhvRkdXZ1U?oc=5"
-      },
-      {
-        "title": "Iran zaatakował Izrael amunicją kasetową. Zginął cywil - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmRKUzM1YW9Kb19ZbFNMT202Rlk1WVhjSUpWSUN0bjJURmZBYnhQTmR2aHB3WmlBUlpydmk2SnBmbjFNbkgyaG80N1FMUTNhclFsZ1pFa3R5eUpUSEVtajRKNkNkRVhmX2k1dzFjeHBJYW5EMnRTcWdFWWRVeW84LVhiR0MzZUVRRHF2d1ZDR256OHFlZFlRZTZpUm8?oc=5"
-      },
-      {
-        "title": "Noblista chce polskiego obywatelstwa. Spotkał się z Donaldem Tuskiem - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzR0SmtkdUtzTUZVSHNYUHhJSEhsdFJjanRsaTNtanAtamRnV1B4SHdtcllkaVVQNnFDemtiY2JMLWNpeWRTaTZuMFZVakc5QnJ2Mkg2M1dUSHhPT0ZLVVVBRFFtMURwNXhrQlpnX2NEZHYwaFZnRmk2YkU3YnhWR0E4YVc2aEtmSGdWb3FJTS1nMUtaWUZCNDhBcDQ2ZTY4LWlTU25rVFZpUUpqWnRF?oc=5"
-      },
-      {
-        "title": "Władimir Putin z propozycją dla Europy. \"Nigdy nie odmawialiśmy\" - Business Insider Polska",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlVa1pFNkRsTGlYTy1EWW1hb3BPUzVBRW1ZRmtMV0gzT1FNNElIXy1WeEgzSXZSbFlZUUR5bjhDWjdwMkFSX2F4RVF4YnVGMW1KT0FQNzhYd3VfR3VnMzhRNGcyeHNmRWJMWTl2Z1QwTVdyaEZ5NWxjSm9YQTNGQlhpbWlKUGFIUW5PQ3g1M2VzR3JPT1MwdUhsTTZFTF9FUDZOQjJTdUtGdlVyMEow?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-10 00:21:29",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Marta Nawrocka skomentowała spotkanie z królową Szwecji. Pokazała zakulisowe zdjęcia - Onet",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Rtb3ZkdDV6OUxSN0x0V0dzam5pSlROYnJSOEMxZkRZWmtwWG5qN1JTWGNtTFdFZGlRa0xFYjE5X1VUbGdheThvZGNhU3I4YmtJY09zQjNNdzM5cFRPTkswTWlLT3Bvd1plNjhGMGtTaUxET1FmVER4LWVnN0VuLW1JYVd0X1FlZXBidWM1OUlpY19fbkFNSG1ienU3RWRnSUVlQ0FiamNyTEFPMXZWWGpldG1OeEFnNVdNXzZGZE52VTliLTdKdGRxcC1sUUNIZjV0ejJB?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 11:32:30",
+    "weather": {
+      "Warsaw": "Warsaw: +14°C",
+      "Kraków": "Krakow: +15°C",
+      "Gdańsk": "Gdansk: +8°C"
+    },
+    "rates": {
+      "USD": 3.687,
+      "EUR": 4.274,
+      "GBP": 4.9465,
+      "CHF": 4.7357,
+      "JPY": 0.023264,
+      "AUD": 2.6349,
+      "CAD": 2.7165,
+      "CNY": 0.5365
+    },
+    "crypto": {
+      "BITCOIN": 259103,
+      "DOGECOIN": 0.345592,
+      "ETHEREUM": 7620.75,
+      "LITECOIN": 201.26,
+      "RIPPLE": 5.11
+    },
+    "indices": {
+      "^WIG20": 3295.79,
+      "^WIG30": 4167.96,
+      "^WIG": 3295.79
+    },
+    "news": [
+      {
+        "title": "Był deal i nie ma dealu. Jak sprawa \"SAFE 0 proc.\" wysadziła w powietrze porozumienie na linii rząd-prezydent-prezes NBP - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVFJOLW56Y240S0g4a0NWS002b2RxRGJibTZBdVRTMGhYZGxLWjBOczd1UEJ6R2dXMkpJakdCNUJBTGVpYXRkQkhRR2xZOTlxQ2F2RkFieTI2VkxFQ1NPX2pjellnNTVaWlpaTTQ0RFF6ZU52LWkxYUZoMEg4Y1Z5N0hBUDgzNDJWM0d5N1htOGNjTktnbW9XVzZWcGtwQVI4eUpYak5NLTB6Wmx6WFF1dkFZQ056NXBrNkFKbVlnNHYwd2xWWEtFbzV4SnJBSFFKclZTMUIwaHZGblJkRnlJWWpBcGF1VjZFalduOUEtNlE?oc=5"
+      },
+      {
+        "title": "Wojna na Bliskim Wschodzie. Iran zniszczył pięć statków w ciągu doby, ropa znowu powyżej 100 dol. - Wyborcza.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlZKWFRxVDNac3RLTGZMbEI0ZnNLbzZKaWVZVjd5WnI3d3BCUHRRcGxaT0tHRUlySjJ5cU9yRG83ZVZOcTlzcGFIYmdicDBSck5jdVVORGEyekE1ZkJ5ZkM4RlNsTkEybVMyc09VWWgzY18zdDUzNFNKMVgxYVR5RXNmWXlCZnF1Sl9iYkk4UEF4X3VCTVRkWHlYRWcyZw?oc=5"
+      },
+      {
+        "title": "Sondaż: Czarnek jednak nie będzie kandydatem na premiera? - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTQtbndPaWlDZ09LSkNvTUlERUZINGJ2X3Y4c2M5TnZjOUpMNDNiODNTc3hmWV9qM0U5djE1ZXFNWnFrazNpWVJFM3BGd0pSYjVOZGo1WFl1ZnFXTlZjZjRickVGc3NSb0RwUHNURHE5WmhJV25YNFhjTTc4RkdaUmp1M212SUdWeHdQakxneVRUd0p1LVBZanJB?oc=5"
+      },
+      {
+        "title": "Drony wymierzone w Izrael. Iran miał zaatakować służby specjalne - Wiadomości Onet",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzNiWnk1bC1wMnRRNGhCQndhNTZORlhxanBfaDFHaV9wdjlTSjM2dHdqWUJzQWZEczkyTnhKdUY3R1Fkd2hXYjhpVTY1WnNQWUJNcjdyeHd1Q1IyeUpJZ052UUhYNGYxeVRWejJYRTBKakxZUWwzd3ByZmRsa3VYVGRmTmFmLVlvZ2lEQlZFOUlwbXFQUm1zUERvTFAzbkJDbEVLVDU1THRBZ3c?oc=5"
+      },
+      {
+        "title": "\"Mamy wojnę u granic\". Sikorski o udziale Polski w konflikcie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXFXM1JYSGFVV2hoQk1DTU9wZDJEd1hZQll5RmRfNkVqaGNqVXJGZmNfY3NJX0NiOW5TVDVuaFNSZjkxYTEybEpCV0xYNVhFdk9mb0ZUMWZNYXZLNGItNWEyVDhMdEtMcDN4Tmt5QkNjOXctTXBQS0tUcHpyeHRjeXhCVVVSbXJSTmNET2VBYzEzUUpqQ1JPN0o2SUk1aUJIRkNn?oc=5"
       }
     ]
   }
