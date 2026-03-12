@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-09 16:52:20",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 253942,
-      "DOGECOIN": 0.335803,
-      "ETHEREUM": 7459.22,
-      "LITECOIN": 198.55,
-      "RIPPLE": 5.02
-    },
-    "indices": {
-      "^WIG20": 3257.74,
-      "^WIG30": 4154.14,
-      "^WIG": 3259.12
-    },
-    "news": [
-      {
-        "title": "Ukraina pomoże USA na Bliskim Wschodzie. Wołodymyr Zełenski potwierdza - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVctTUNvZE1Yc3dhN1hQeTBKWGtWdTVaZmtTNGpDdmZNMWhxRHBhRDBDRDQ1RGExR3R3a1ZDdXFkb0NJcGNzWHRnc3czZ1lHcEd2SFpXUDJWQkxXdURyNDhuWnZlSWJJTlQwOWR0MFFDZmJvbl9hc2p0Qk1nU0JSQWNvTGRoUEY4NEZ0Y3BSN29YYnRMMVBIODh1VFpXNGEzWXBmdTFJUXAyUzZnMEdWTDdpWTMyOGhROTNzWA?oc=5"
-      },
-      {
-        "title": "Balon spadł w centrum Zielonej Góry. Jedna osoba nie żyje - Wydarzenia w INTERIA.PL",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEpTZlgySExTaUlFNlhSanVDclIxMjM5X2FkcERQa0ZXRDRyMDVodWk2UHRFQzQzcDFEQ1lPeVpiVE9vLTM5U2N6VzY5bk5oQklRWEhQc1ZPTmZmMEtnaHBadTBwa2cxZi1kcWE3eHIzSm1KTWFxY01Md1VKNjdacFBjUVgxYm9EWElJODFDVU1VMTdPenkxR2x2V1dUeHpIdkhQVGVyZVp4TTZtTjNrMVBGYw?oc=5"
-      },
-      {
-        "title": "Ewakuacja na lotnisku Chopina w Warszawie. Na miejscu służby - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXpLcGozTXpPbEs4c2RpVXUtM0FQQkRvUF9ULUI2YnhaYjJlQ0xyaGNOeVBGWUFUNkxYUFRGZ0s1NF9iSVA1ZUk4WW1sN0RNdGNMSXp1cHgwSXBUdHJQY0YxR2dBZVgxeE1VcFNJZG1CY3RQUm1sUVlxRjBybU5ycFJWNWFDTUZoVFNqVmR0VF9nT0FrcGlpWm83clZycHI3emZHZg?oc=5"
-      },
-      {
-        "title": "Ceny ropy szaleją. Orban pisze do von der Leyen - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGRIY1FOWklqd3RxeVQ4UGdja1NXa2hOTUtBaE1FV2RlSWNCUF9iZm5ZczN5SVk1ZjZIUF9qS0hzQ1hGTV9mVnhSTVpFNU5UODk5TVU1UnI4ak9CTEVnTnZBQVJRR0N2aVpwN3EzQkNmYVFkd0xoYmFaZGozQ0NfaVlYZ1JtV0JlX04yVzhkWFM4OFkwbUd0REVhZ1NrTHNOS2Nv?oc=5"
-      },
-      {
-        "title": "Polscy żołnierze trafią na Bliski Wschód? Sikorski odpowiada - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2VXa3dMNW53VWpfTkZUbDRzX0NldU1UclFDbnV5TUUtWWQ4NGRWVzFBYlVfWmRVcW14SVNDMHFBdHEtYTFYTUZraFZIb3d5WTBPYjBPMkhOdnRwMDM4NHJVbUxQNGhScURaRkdzR3ViSEM2cmpObGd0OC1qVVVhQ2RXVUNrVktNb2ZQZzM1SDhDWWgydDlrYlhPQ3F0LVh4LXk4aA?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-09 17:51:30",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "FBI ostrzega. Iran może zaatakować USA - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjJWNWxKbTFmRW1aTWZ3WWkwTGprNEFRcXZvQzVvc2tpeFBVWk05Sm85Zjc0X3BGeVdyOEx3NmYxSmtyZUZYb0FPRjA1OGFNMEZZNG04VjhkZXVfTXIxbFRCc0pPTUlaSGc2WEhrU0tnQ3pmeE9STlI0TzFZM1NQMW9yTEh4R1k?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 02:23:37",
+    "weather": {
+      "Warsaw": "Warsaw: +7°C",
+      "Kraków": "Krakow: +7°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.687,
+      "EUR": 4.274,
+      "GBP": 4.9465,
+      "CHF": 4.7357,
+      "JPY": 0.023264,
+      "AUD": 2.6349,
+      "CAD": 2.7165,
+      "CNY": 0.5365
+    },
+    "crypto": {
+      "BITCOIN": 257715,
+      "DOGECOIN": 0.340782,
+      "ETHEREUM": 7550.86,
+      "LITECOIN": 201.73,
+      "RIPPLE": 5.08
+    },
+    "indices": {
+      "^WIG20": 3312.71,
+      "^WIG30": 4192.88,
+      "^WIG": 3312.71
+    },
+    "news": [
+      {
+        "title": "\"Glapiński bezczelnie kłamie\". Minister energii w TOK FM: To nie czas na zabawę - Tokfm.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0Fub0cyY3piYUhEdFhTOURlQW1xRDRjTmZiRmpsT3pJb2RkbkxmWUtKb1ZacGRmcVlzNlFQcEo2dmdtdEpZR2lCVTNuZUtSVTJBNnVLWGN5U21oMGItcHFrOVNycXRGcnpYdjVlX1dFSXh2bU1xWHRoUllzSEpGcEVFZ0MtV3BYVWxRelhLb28waE1LMFNhNXNZcUliODd4cV9aSDYzaUs?oc=5"
+      },
+      {
+        "title": "Uroczysta kolacja dla szwedzkiej pary królewskiej. Marta Nawrocka zachwyca [GALERIA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDR1ZFcxODJiTVIyYjhpSlEyXzVIdVgzMm11WDJwcF96UlNnQnVnMXlEQWhqNzRrZTQyT1lzOXB1SzU0X0tZRmVKTDZDS19rb0ZaSnJNR1RzX0hFa3hpbkpWSlE5S0FGNk9LSEw3NkJmUnUzV19mQUdSOHVoQmphenNSRjNvMWE2TlozeHRRQjVrSjZjbmowQThHaVRnd05OQ1N4RndBX0V5SzlYTmRwaWNZcUJhUVdNWFZvdzlnX3dCYmVnNFptNU15a3p5a3MtRjM4?oc=5"
+      },
+      {
+        "title": "Dziennikarze Onetu finalistami Nagrody Woyciechowskiego - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV3NFb2had0drSXFjNlhYX0JDTzl6WXRzb1NfMXFSbVE1VmNuTlhEX1lERWpVUDlYdnNBYTFJVzFrVjZIa1VHRjdwaWVJNTRzZ3VOVnJOcFdUcTVjUTlfQTFDXzBKamp0UjdYVFQyRGVtcXB5R0llTkJWeWxrNFppeEJZNVFfM1VoM3lIWHRnVmNrZDRHN1lwLUV3bnpFbGFXVS1ESDhjbzlFSXdZZm9ZYmlhSWhZdFMtakgyQnNURXJXdG1EaVJtNU1GcUJDRHpKeFRuNA?oc=5"
+      },
+      {
+        "title": "USA wydają miliard dolarów dziennie na wojnę w Iranie. Zużywają najcenniejszą broń - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXduZjR2a3pTeXRKbi1jbXhJR0QwSEVheUU5ZmZrZjNLTTJrQlg3TFExSm9oQjVmZktFRllweGxNRWVKaGMxX1h1aWNZUTdWeGpqcTdoRjlyUnc5WmhldXZEVnlGWk85RTZ1S0hUNk44SWlUb3o4eUpaNHlLbFFfOGVvQTZqODlScDNJcFRPUE5sdy02YUJyWk5EbXQ3Z0w0MDBjZXNsMkpkM0FJNmhsYXJYSl9FTGVrWWQza3VRbVF6Rnc?oc=5"
+      },
+      {
+        "title": "Administracja Trumpa przeniesiona. Jest zagrożenie - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXNFUkI1TlZvcjlZeldZLWFMSjBPak1TZ09XNnpCanVCZkZkSkktbHFSSkIzNzE1dE1oRzUweVIxNndqVUllLVZkNUZXX19kNnpIdUsyckpuOXd5eXF0UTBOMVY2SEdUb0ZkbjQxZGJTUE1UWDhZc25pcW1sazc0UmkxRTY1emFrdWFzWHBCM21CTzBMMWhR?oc=5"
       }
     ]
   }
