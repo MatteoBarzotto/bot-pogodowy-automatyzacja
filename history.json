@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-09 19:42:40",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 253233,
-      "DOGECOIN": 0.337872,
-      "ETHEREUM": 7455.81,
-      "LITECOIN": 199.71,
-      "RIPPLE": 5.04
-    },
-    "indices": {
-      "^WIG20": 3256.8,
-      "^WIG30": 4152.29,
-      "^WIG": 3256.8
-    },
-    "news": [
-      {
-        "title": "Skandal na Węgrzech, Ukraina oskarża. Ujawniono wstrząsające szczegóły - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZmNyZzRVamc4Y3Q3SHA3czM1amVhVWxTYjZZZzNNSVlsVnAxd0RKdXRJRjdnUk1jR1pUNFBadTRIT0FTQ0R1Rm9vUlBfVkpCdm50Z0JhVlFKZlFHREZUakwzNG45Nnp5eWFNNFJOYlNSajNsZ2tvbDhMcGlnY3lvRk5sYUthWXVfdEJ2UHk5TjdlTC1GNjUyck5CTS1YSkJWcGNfSGU2OXR2NXBLNlBtTDdUMl9JLThDbjE3Qw?oc=5"
-      },
-      {
-        "title": "Ceny ropy szaleją. Orban pisze do von der Leyen - Money.pl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGRIY1FOWklqd3RxeVQ4UGdja1NXa2hOTUtBaE1FV2RlSWNCUF9iZm5ZczN5SVk1ZjZIUF9qS0hzQ1hGTV9mVnhSTVpFNU5UODk5TVU1UnI4ak9CTEVnTnZBQVJRR0N2aVpwN3EzQkNmYVFkd0xoYmFaZGozQ0NfaVlYZ1JtV0JlX04yVzhkWFM4OFkwbUd0REVhZ1NrTHNOS2Nv?oc=5"
-      },
-      {
-        "title": "PiS składa do TK wniosek. Chodzi o wybór sędziów do Trybunału - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEVwNjB2WEx5RUl5VzdNUHlwcFFQa1NVX0g5MlhRRFdHck9UTEdYcEpKUDVIdElJbm5oS2psbDlwZmFvNWdFaGk4T09ieHdjYlRoQTJ4V296Tll2OHA4Vy1FMndpNElRSG5acmZpeW0zcTRjcGZaT1pxRmFscVNIZmxLSDFXMFJIdUpuUFhVXzRVSnlTbVVJV3JIMnl2M0wtandVYlN3?oc=5"
-      },
-      {
-        "title": "Sprawa wypadku Szydło. Funkcjonariusze SOP z zarzutami - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHVUQTFrMG5HTW9FSDdPdDZqQm92OEFCNnRjWDVCTGNlR2lkT3FKY1E3aUFjaWN1ZnRoWnoxcC12LUs3UzZmOVNNZmh0TDdKRXp1TGdqOEljZHROS1NydV9NYkdZVzFmQ0hPd0pKbWJfYTAtMTNuX1RKUDVHcVVVOWtETGtyRkVrZ1J2WGlYMHh0eFRGRHFuODVRWlQ?oc=5"
-      },
-      {
-        "title": "Tanio, zabójczo, masowo. Teheran pokazał, że potrafi szachować potężniejsze armie - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ19sb2ZLcE5lOWdycmN0NGp3Z2VFM2twLW1OVjZpM1F4eXZnUTdmbHJoZUdmYzdfMnlCbVNNeE5EUDhfb3M2SExJUzZLTDR0bDQ1ZDQzaV9LZ1lmc2FiUnBMRkthT0VZZTJfazlpNzJvREFXYl81Q2Y3VlFvUFhJMVVYQUlITXdPUVZaeXlYQVdNUDJVeXRnT3FWaThpS0xNbFRkY0xvOUtubXQ5SmFaTFE0LUI1bFNlTTNwag?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-09 20:36:01",
     "weather": {
       "Warsaw": "Warsaw: +10°C",
@@ -2595,6 +2543,58 @@
       {
         "title": "Tajemnicza śmierć aktorki. Szwagier mówi o \"bardzo trudnej sytuacji\" - WP Wiadomości",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2ZocEZnOWhObTNfRGRtSEpNZ0RZZnFxVjBpUW9PMWZZTEhVa1FfeVJDM3JsMlVSTHdxVUxMRVVtc3JXRVpzWlVYYVNPdm0wbmpnY1U3N1gyMHRmWHl0aS1TUk85WG9BbVhDT3VLTjBSWjFrdEhTc0hGUXRsdW1PVWJFcTNlVzBtZ0N3d2VpWEFvZWZaekVZcEZXQmEtQ3UxcF81UmRFVEJHaHNU?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 07:45:06",
+    "weather": {
+      "Warsaw": "Warsaw: +4°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +7°C"
+    },
+    "rates": {
+      "USD": 3.687,
+      "EUR": 4.274,
+      "GBP": 4.9465,
+      "CHF": 4.7357,
+      "JPY": 0.023264,
+      "AUD": 2.6349,
+      "CAD": 2.7165,
+      "CNY": 0.5365
+    },
+    "crypto": {
+      "BITCOIN": 256074,
+      "DOGECOIN": 0.339321,
+      "ETHEREUM": 7480.0,
+      "LITECOIN": 199.37,
+      "RIPPLE": 5.06
+    },
+    "indices": {
+      "^WIG20": 3312.71,
+      "^WIG30": 4192.88,
+      "^WIG": 3312.71
+    },
+    "news": [
+      {
+        "title": "Zmasowany atak Iranu. Trafiony kolejny statek - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDJTY21FcU5XbDdleDFBS3VYWG9rUGZaeG9sck1YRGJPRkJkX0FhakpIdGF5Xy16TmVrQjhJTU5iXzVsaWNpMGJ6OW9OMzRGQkh2NHlSQzFZdHRxaGF2U0lPTTVpc3hJc1ZRYVpVSk5GVjNVQ0FneWV0Qzl4U0R5cWF3ZzlzMGh1ZTlRQXB4Szl3STJySGNoQXJhVVdDTVBG?oc=5"
+      },
+      {
+        "title": "\"Glapiński bezczelnie kłamie\". Minister energii w TOK FM: To nie czas na zabawę - Tokfm.pl",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0Fub0cyY3piYUhEdFhTOURlQW1xRDRjTmZiRmpsT3pJb2RkbkxmWUtKb1ZacGRmcVlzNlFQcEo2dmdtdEpZR2lCVTNuZUtSVTJBNnVLWGN5U21oMGItcHFrOVNycXRGcnpYdjVlX1dFSXh2bU1xWHRoUllzSEpGcEVFZ0MtV3BYVWxRelhLb28waE1LMFNhNXNZcUliODd4cV9aSDYzaUs?oc=5"
+      },
+      {
+        "title": "Uroczysta kolacja dla szwedzkiej pary królewskiej. Marta Nawrocka zachwyca [GALERIA] - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDR1ZFcxODJiTVIyYjhpSlEyXzVIdVgzMm11WDJwcF96UlNnQnVnMXlEQWhqNzRrZTQyT1lzOXB1SzU0X0tZRmVKTDZDS19rb0ZaSnJNR1RzX0hFa3hpbkpWSlE5S0FGNk9LSEw3NkJmUnUzV19mQUdSOHVoQmphenNSRjNvMWE2TlozeHRRQjVrSjZjbmowQThHaVRnd05OQ1N4RndBX0V5SzlYTmRwaWNZcUJhUVdNWFZvdzlnX3dCYmVnNFptNU15a3p5a3MtRjM4?oc=5"
+      },
+      {
+        "title": "USA wydają miliard dolarów dziennie na wojnę w Iranie. Zużywają najcenniejszą broń - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXduZjR2a3pTeXRKbi1jbXhJR0QwSEVheUU5ZmZrZjNLTTJrQlg3TFExSm9oQjVmZktFRllweGxNRWVKaGMxX1h1aWNZUTdWeGpqcTdoRjlyUnc5WmhldXZEVnlGWk85RTZ1S0hUNk44SWlUb3o4eUpaNHlLbFFfOGVvQTZqODlScDNJcFRPUE5sdy02YUJyWk5EbXQ3Z0w0MDBjZXNsMkpkM0FJNmhsYXJYSl9FTGVrWWQza3VRbVF6Rnc?oc=5"
+      },
+      {
+        "title": "Konfederacja \"zbroi się\" na Czarnka. W PiS mówią o \"strachu\" Mentzena. Znamy plany partii - WP Wiadomości",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGptcHcxMVNpWXBHUnp2cnEzQWR6amt4QVd3MVREcl9xWVJRVmtRQkRha2dmOHJ2MDNRb194UkMxeFFjX3pVM0FMUC1yOWNTTU0ySmZPUkZqTi1NNzZfWXFCZGxmR0RvbVhsOElqRk9xS2w3S0VOTE1YdGVsNUpsWmVzV3FfMTFwcVZ3TE03NWpGREkwZkYwU0JUVkNaODZQa2pIaDdib2czb01wX1NpZFRQcXQ0c1VyczE2RkFDVXdLYUQ5?oc=5"
       }
     ]
   }
