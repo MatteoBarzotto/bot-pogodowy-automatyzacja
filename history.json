@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10 11:33:01",
-    "weather": {
-      "Warsaw": "brak danych",
-      "Kraków": "brak danych",
-      "Gdańsk": "brak danych"
-    },
-    "rates": {
-      "USD": 3.7075,
-      "EUR": 4.2836,
-      "GBP": 4.9456,
-      "CHF": 4.7569,
-      "JPY": 0.023401,
-      "AUD": 2.6009,
-      "CAD": 2.7363,
-      "CNY": 0.5359
-    },
-    "crypto": {
-      "BITCOIN": 259103,
-      "DOGECOIN": 0.34654,
-      "ETHEREUM": 7541.93,
-      "LITECOIN": 197.79,
-      "RIPPLE": 5.16
-    },
-    "indices": {
-      "^WIG20": 3336.08,
-      "^WIG30": 4252.6,
-      "^WIG": 3336.08
-    },
-    "news": [
-      {
-        "title": "PiS mąci w głowach w sprawie SAFE. Kłamstwo, niestety, miewa długie nogi - Wyborcza.pl",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjgzUlNfZVVQMFdad0c4Rk01M1VaSVBwQWVfVElmcFY2TlcxWUVKOXR1NzluWmhyU25QNmxQcGpOczZmeEE3NUxBaGNkOW4wdjRSLUVmLVNSWHMxVm50Y2JRUlhrOGhlaXNYVGxIekRXbURiQkxxaE9ndHRyQ0dNRVlQa1R3cUNhdFMxXzcwQ19KbGJaVkdpWV95bGZVU3NV?oc=5"
-      },
-      {
-        "title": "Nowy wpis Radosława Sikorskiego wywołał burzę. Minister komentuje wyjazdy Polaków na Bliski Wschód - Onet",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1pzSVhHTW9lWkhtcWJQYUtBZ2lESFY4QWVhZzFZUWtnbHpjOUZncS1Vd3ktZFROYk5rU3ZMaUwtd0RndkJIX202QzZPYWo3ZzVlS1U4eEVBMWFUMjUyXzlaTXhfS25QaGp4dzhTN0RaMjJZVmlxd2FNaFRMYnRzSVVyQjdwTXBtRzJsbWo3SEVCNi1GZkRlaVJHMDBGbk43VGJZTW02SlpoSUMzckFRbGtnN01ZeWg2?oc=5"
-      },
-      {
-        "title": "Czarnek premierem w koalicyjnym rządzie? Konfederacja odpowiada - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVZUUzlIZUxSRUZPWGtJREZ3blhmSHZ4aXdGTy1rWGtrYlh6NGRjNENLWlRuN0lYNHI5SHFBMjhqbmpYcVVJQVJaOWp0QVVKejk5SDZzZ3ZRRGZwQzZGd2FVNlEzdjJNSV9UOFRBX05TWmVRRGxCUkV3RHVzRndseEw5MHRKY0UzdTBfblBuRW5LWUxzalpFUXI5Z2VQdHJTTVZOLXE5eUU?oc=5"
-      },
-      {
-        "title": "Auto z pięcioma osobami wjechało pod pociąg. W akcji śmigłowce LPR - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0JTRVVnV2VCQ1JSaldMZzA4VlJ1SFBtWm1yUER1cDJNY19Sci13bmFWVk5nOEpBNXF3RTIwRm94TGdNbFk1YVA1Sl9vZmlXNjFWUjA3ZzNEalhaTFlZSDc5THEtdGJHQ1dwSGV0VDhKeEpVNzRCTnlweFVjaEF1TlRUQmtndnBza0pMM3otdm5aNlVnVDFQR2VPd1pQTjQwUnFMN3VOWHUyU1BvVVpYaXVmbw?oc=5"
-      },
-      {
-        "title": "Podali koszty wojny USA z Iranem. Rośnie niepokój na Kapitolu - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnNReDlPbFBfTnVVUE1HaXh6NGZIcmg5NlNRTHB6SmMwUjZHNjY1X1ZXU1F1UGdRVG1SalB6TU84MVNxZ1R6RXc4VUt3TUlOVHdaczc4ZTduSWVmQ256ZEx3RFU5M1ItY3VtOFVwLVZrbFpyQjYyVjRyWk5lYlk4b0VYMGZEUGd6NTR5NkMtVXk5Z0tpQnVNOHdGSXRZd0kzd2Y4SUtSOVpFdWRhX0FOMzd3?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-10 12:27:42",
     "weather": {
       "Warsaw": "brak danych",
@@ -2595,6 +2543,58 @@
       {
         "title": "Kreml szuka nowych sposobów walki. Obserwuje wojnę w Iranie - PolsatNews.pl",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkx1Y1BiTUl6ekdxQ1VjVmlhM2dlRkZSZVdpeENEV3B1Q25GVnl3QS1OQ1NMdUhSX3FtWDdKTF85czV1X3V1VkVLNm02Y1lQZE5OSjJGbklhc28wN195di1xZjZYbE85S1Zic0w0aEhHdjdLTm02SmxPblRmbXpfVXktQ2hMOXotbElJZGRuNnB5UXlveno2ZlQ4RmxuWU1xNl9YZGVVZDRMdUVuUGcwNw?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-12 20:38:00",
+    "weather": {
+      "Warsaw": "Warsaw: +11°C",
+      "Kraków": "Krakow: +10°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.6878,
+      "EUR": 4.2629,
+      "GBP": 4.9393,
+      "CHF": 4.725,
+      "JPY": 0.023229,
+      "AUD": 2.632,
+      "CAD": 2.7147,
+      "CNY": 0.5367
+    },
+    "crypto": {
+      "BITCOIN": 260839,
+      "DOGECOIN": 0.350851,
+      "ETHEREUM": 7667.59,
+      "LITECOIN": 201.64,
+      "RIPPLE": 5.12
+    },
+    "indices": {
+      "^WIG20": 3291.27,
+      "^WIG30": 4160.81,
+      "^WIG": 3291.27
+    },
+    "news": [
+      {
+        "title": "Spór o SAFE. Komisja Europejska może obejść weto Nawrockiego - Do Rzeczy",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNENLS0RhRDJnYUQxQk92cVEyT05TczhwZkNqVGRGVjkwMWp4Ry1TWTRlU2h6cE9tdjRwdDJzdjJUU1kzazFuaXE1MGpoSTF2Tmp2Z1QtR2tsWG5LbGlnRWlaRjd1NnE0RF9kblNWek5sZHBoVDZlaFlyaEZiaTRCYklzZ3FoNldVMER1ZTJ3bTZWUVdua1hzdHd5emTSAZsBQVVfeXFMTVRKeHo4bmdYSmlXbXNkMmFTeWxvWVhRZXo3SzBNME1CRV9WU01DanQ0TFFWS25qWmdia0FZWEFMRXJKbG5PSGx6QXBQTG8weTlSTUN5Q3doOUNqUmpTVVRJa1dCZ1Y1UlN4OHZYQjlpS1k4TkdmZlI4MllkU1g2R3JBWk1JdWF2WDduSlh0emFHY2p0UW1pQm1FUUk?oc=5"
+      },
+      {
+        "title": "Wojna na Bliskim Wschodzie. Modżtaba Chamenei grozi: Pomścimy krew męczenników [NA ŻYWO] - Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNmFSRUdoUnVyQjNUa2FZY1p0cTNyczBSY1dQNjBVeUQ0TUdVdXJuSjR5dktOX21VdDIyVkc2UU5lU3Zjd1dWc1BibVBSSUtaVUdQSlNiY2M5OGhCRXZad1dfa3JhRm4tMVE?oc=5"
+      },
+      {
+        "title": "USA rozważają eskortowanie tankowców. Wiadomo kiedy może zapaść decyzja - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjRpQjhFanFsN1Z5dlpvT2F1SE9BU0ZJV25mcHZUTHRNSUxKMTZ2MVJDM3hfOGdldklSSnN6WG5RSzZHNU85cDA0X0J3N21VOVpwUGwxbExVWVdxWUNtSk0wV2ZXaGR1WUgxSG5waWNGWVRraHktbk5KUGRsMXVJSXFTLVE3LVlDcXhYeW5mNXRpNWpjcWQwMkFiV29lQ3ZrbG1YSkNFVERROEpkTTZR?oc=5"
+      },
+      {
+        "title": "Marta Nawrocka skomentowała spotkanie z królową Szwecji. Pokazała zakulisowe zdjęcia - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Rtb3ZkdDV6OUxSN0x0V0dzam5pSlROYnJSOEMxZkRZWmtwWG5qN1JTWGNtTFdFZGlRa0xFYjE5X1VUbGdheThvZGNhU3I4YmtJY09zQjNNdzM5cFRPTkswTWlLT3Bvd1plNjhGMGtTaUxET1FmVER4LWVnN0VuLW1JYVd0X1FlZXBidWM1OUlpY19fbkFNSG1ienU3RWRnSUVlQ0FiamNyTEFPMXZWWGpldG1OeEFnNVdNXzZGZE52VTliLTdKdGRxcC1sUUNIZjV0ejJB?oc=5"
+      },
+      {
+        "title": "\"Podstawowy problem\" kandydata PiS na premiera. Widać to w sondażach - Fakt",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE9YRE1lTjNucjFYYUtLZU9lYzI0MlZfdGkyc21oaTgxRGpmOXdWa2pLQm9IWndFR1NJNGY1QlNGWHhXTXo5RjhaOUFJZkczelBUY0p2WDFGSGFneHp3YW5LQy1tS3g1SmlSVzFhb2ExUnNGcG5ZMkFaem9DVHhpcUxqbXU3RVBsZ2ZBTWs0Y1Q1NHhNekpLV2dR?oc=5"
       }
     ]
   }
