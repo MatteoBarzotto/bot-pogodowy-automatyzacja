@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-11 19:45:26",
-    "weather": {
-      "Warsaw": "Warsaw: +12°C",
-      "Kraków": "Krakow: +13°C",
-      "Gdańsk": "Gdansk: +9°C"
-    },
-    "rates": {
-      "USD": 3.687,
-      "EUR": 4.274,
-      "GBP": 4.9465,
-      "CHF": 4.7357,
-      "JPY": 0.023264,
-      "AUD": 2.6349,
-      "CAD": 2.7165,
-      "CNY": 0.5365
-    },
-    "crypto": {
-      "BITCOIN": 259055,
-      "DOGECOIN": 0.345415,
-      "ETHEREUM": 7601.94,
-      "LITECOIN": 202.25,
-      "RIPPLE": 5.14
-    },
-    "indices": {
-      "^WIG20": 3312.71,
-      "^WIG30": 4192.88,
-      "^WIG": 3312.71
-    },
-    "news": [
-      {
-        "title": "\"Uderzenie w całą Europę\". KE ma się obawiać planów Karola Nawrockiego - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjk1THdqQnJkRUlUU1htOWQzWFNXbi1WUEZ4TkQzSXhTRGpqX2JIZzRCX255SVNBTzFjVGlLYnFlWXlCYVR5UVA4UVVuUUJ4a09MYXBBNDM1N1EwX080Yk52Z2N4c3FrNURkNGZVLWwwbWxKVHI5eTFmOEM5azZvRTM2NTVxLV91UmFQcGk2czVWc2tnTTAzRy1nR2hZcWVzQzJLRHpYUlpmUl82UVhPbmRxRQ?oc=5"
-      },
-      {
-        "title": "Mentzen kpi z Czarnka. Kaczyński zabrał głos - WP Wiadomości",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUNteGdDYzZaZ1V5SHkwbjg1TWpTOHotd0lSQ0hUOHhTaGI5OU5ocGFNSlB5MkcyNDZMX0RUS3B6QW9SSXItT1F6LVBjblRqdmdnSWJYdDl5dnhxV3FMd1VCV2VjWURyd1lUQ3lVb2RObXJXUFBCdGg1QmR0aVA5ejg5eFBQX0RVY3ZXYlZJSQ?oc=5"
-      },
-      {
-        "title": "Iran podjął decyzję ws. cieśniny Ormuz. Statki przepłyną, ale jest warunek - PolsatNews.pl",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkhJLUZMb1Vxc3BCQ1Z0RTA3ZGJta3p0bUZDSnVOMmZnWGNOejF2WkxqcW9WNFV3SmtWU3lBZXZ2d21WclRJX1VHaU5PclJWdDJFR0ZVOUZueDRqYVdQOWREQjg0TDd6X1dmdXAwRFVaaWJHb0x0X0dXbkcxUnlXX1JFekpNX2g0dXZoelB2SGtfc3ZjNDI0TXM4T2tfSTBWYzZtbg?oc=5"
-      },
-      {
-        "title": "Tragiczny wypadek w Mąkolinie. Nie żyją dwie nastolatki. Są zarzuty dla kierowcy - o2",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcy1acnYydjNzOUZCY2dKZEp0YWZXX1dTMXF2SFU0Nm9GVUZ4V2tfUFBFQmoybEFwZGdJcFVlYlM5WHV5a2UzZDU4MTdobUUyVUp0N1NzSHJUU2Z4WVd0eVZqeC15bGMyQjZsOEFnYjZSNFQ0a1NWMlR3R2hpX0NaU3Bjb1FYMzhvdkF6R3pOZldwUERSek1lU3pYMnJHaDd6WEtSWWl2blVBdVNmTWVBVXc3d19mbC1XMS1GTWpHSDgwckE?oc=5"
-      },
-      {
-        "title": "Wybory na Węgrzech. Najnowszy sondaż ujawnia miażdżącą przewagę jednej partii - Wiadomości Onet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEx5SmlNeG8yNE5Dc1h4YmZxdWtxZXpZUHVPb2F6SVV6THZweDNMQUZwRDQ5Q296cjRRTUh0aU9PTFZpdXh4Y3pMZDRVU1NrTUc4ZkMzcHh2ckZvLTNlZldnUHV1aTJBNDZrZ0g3WE9PT1Y0X0diRTFNZko2Y0RwOU1ESWlUbDhkeEhKeDBTWFpIMUxzRTZLazBkSk42dXNNUWtHMjRpTFFhNjQ?oc=5"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-11 20:37:31",
     "weather": {
       "Warsaw": "Warsaw: +11°C",
@@ -2596,6 +2544,58 @@
       {
         "title": "Putin zarabia wielkie pieniądze dzięki wojnie w Iranie. \"Dramatyczna zmiana\" - Next Gazeta.pl",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW1fNnJVZG9LYmdydzNBZ1ZVLUNDbE91allWNjFKaVZuci11ek9icGtsOVkxY1dJZ1AxWFZnU3R2TUk5T1pkbVlDVklqR25oOWFJQWJzZmdyWVRLa05oRnJDMGdNWjJ0WS16TjVLNl9tV1lMbGdVUDRfdHBoajJjN0RrcXNJSWlqS3dSUjZia2NEd0pVUXBYRkVNYkwya0ozekc3dVpjR0VpVkJsaEE?oc=5"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-03-14 06:40:21",
+    "weather": {
+      "Warsaw": "Warsaw: +6°C",
+      "Kraków": "Krakow: +3°C",
+      "Gdańsk": "Gdansk: +6°C"
+    },
+    "rates": {
+      "USD": 3.7277,
+      "EUR": 4.2693,
+      "GBP": 4.9436,
+      "CHF": 4.7279,
+      "JPY": 0.023374,
+      "AUD": 2.6226,
+      "CAD": 2.7269,
+      "CNY": 0.5405
+    },
+    "crypto": {
+      "BITCOIN": 266001,
+      "DOGECOIN": 0.358123,
+      "ETHEREUM": 7831.02,
+      "LITECOIN": 207.61,
+      "RIPPLE": 5.23
+    },
+    "indices": {
+      "^WIG20": 3274.54,
+      "^WIG30": 4140.98,
+      "^WIG": 3274.54
+    },
+    "news": [
+      {
+        "title": "Ujawniamy kulisy starcia w Pałacu Prezydenckim o SAFE. Weto wbrew generałom - Onet",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0ZSbDhPaHVOTkNwYnc3YkhyYXktRWQ3MzUwZ1dPYW9tS3YzLUpYMmlrcVVIWGhyYVJQcjdXX3JZSHRHVmFBZHNod3FpQWdVQ292SXFJNE54dUhIcmhrWERyWEJ1eHVtS1l6MFBKZ2R5WS1SNXNqMElZdUswZnlPUGRVODhzWXFZZ1FiNG0tZTJtV25pUHA5djVTZEc1Uk1lMEZnYm5aQ0JBSVk3SlVQazFZOEVkeGhkMm9wczFnNFhXbnVGWE1BVF8wRks4eWF3TDdJ?oc=5"
+      },
+      {
+        "title": "5 tysięcy żołnierzy na Bliskim Wschodzie. Sytuacja wymyka się spod kontroli - Business Insider Polska",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVVteTB0cWpLdFRaWDN3QndyM3EyZzFDeGNuQTNzR1hHb1lyejUyYVdyUXFFaHBPRFJrT19NNVBGS2w4b1BfMmE0bXZ5VHRhM2J0TGhqVi10Y1Zralg4eGl0M3BwZkhYb0tTZ0JoRGJWNkx5VEM1QVI1c2JzQWYyLU5OOUdoT095VnlBbWM1YlZHWWJvaG4xa0VleTZzR0V2X00yMWR6eTZEc2ZfT1lnbWV2VVB1QUUz?oc=5"
+      },
+      {
+        "title": "Trump chce zmiany ws. Rosji. Norwegia odpowiada - Money.pl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXVZZlQteEJRYU90Y2VEY3NxVElXZkQ2eGo5WEVsMWJZYTBWYTRhSk9nMldya0xBdmtndHo2S0lTYW13TEJDU0ZyZ0dWV3JhODZYblhtb19zTHBSNzBrOVE3M2FMNGMxTjRYVDh2Mkw3blA0Wl9OOGg2UlRpTjNRdkFadFlZUEhwbDBqOVQ0QXExYUtWVWxqcFdQaw?oc=5"
+      },
+      {
+        "title": "Putin zarabia wielkie pieniądze dzięki wojnie w Iranie. \"Dramatyczna zmiana\" - Next Gazeta.pl",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW1fNnJVZG9LYmdydzNBZ1ZVLUNDbE91allWNjFKaVZuci11ek9icGtsOVkxY1dJZ1AxWFZnU3R2TUk5T1pkbVlDVklqR25oOWFJQWJzZmdyWVRLa05oRnJDMGdNWjJ0WS16TjVLNl9tV1lMbGdVUDRfdHBoajJjN0RrcXNJSWlqS3dSUjZia2NEd0pVUXBYRkVNYkwya0ozekc3dVpjR0VpVkJsaEE?oc=5"
+      },
+      {
+        "title": "\"Zabijam ich, cóż za zaszczyt\". Donald Trump o sytuacji w Iranie - PolsatNews.pl",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbC1peVRhUFpjNHlZTEU5QVN0U29DNGV6dVJ4R25ZNkVneEIzZ21mVzVQMFBlNk9VOVB1dWRUMEVhV2Y2aW9lQ0FGd0puMVBxYzVSNnJEQWNaaVliQWE5Ti04ME44V2NrZ2daY3RVajRrZmNYbzhZeE81Qi1KNzRCb3F3ZjBmUC1jTG43MmJvQ3hhSUI0QzRhTkhfTXRZZw?oc=5"
       }
     ]
   }
